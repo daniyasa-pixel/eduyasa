@@ -1,0 +1,534 @@
+{
+"subject_id": "BIN",
+"subject_name": "Bahasa Indonesia",
+"grade": 6,
+"curriculum": "Kurikulum Merdeka",
+"chapters": [
+{
+"chapter_id": "BIN-B01",
+"chapter_title": "Bab 1: Teks Deskripsi dan Laporan Hasil Pengamatan",
+"questions": [
+{
+"id": "BIN-B01-M01-001",
+"type": "PG",
+"text": "Perhatikan kalimat berikut! "Halaman belakang rumahku ditumbuhi rumput hijau yang sangat subur." Objek yang dideskripsikan dalam kalimat tersebut adalah...",
+"options": [
+"Rumah mewah",
+"Halaman belakang rumah",
+"Tanaman hias",
+"Ruang tamu"
+],
+"answer": "Halaman belakang rumah",
+"discussion": "Kalimat secara jelas menyebutkan objek yang sedang dibahas, yaitu halaman belakang rumah."
+},
+{
+"id": "BIN-B01-M01-002",
+"type": "PG",
+"text": "Tujuan utama dari pembuatan teks deskripsi adalah...",
+"options": [
+"Mengajak pembaca melakukan sesuatu",
+"Menceritakan kisah masa lalu yang mengharukan",
+"Menggambarkan suatu objek atau suasana secara jelas seolah pembaca melihat sendiri",
+"Menjelaskan langkah-langkah membuat suatu benda"
+],
+"answer": "Menggambarkan suatu objek atau suasana secara jelas seolah pembaca melihat sendiri",
+"discussion": "Teks deskripsi bertujuan melukiskan atau menggambarkan objek secara rinci menggunakan panca indra."
+},
+{
+"id": "BIN-B01-M01-003",
+"type": "PG",
+"text": "Di bawah ini yang merupakan ciri-ciri teks deskripsi adalah...",
+"options": [
+"Menggunakan bahasa yang kaku dan penuh rumus",
+"Melibatkan panca indra untuk menggambarkan objek",
+"Berisi langkah-langkah kerja secara berurutan",
+"Bersifat khayalan penuh tanpa kenyataan"
+],
+"answer": "Melibatkan panca indra untuk menggambarkan objek",
+"discussion": "Teks deskripsi selalu melibatkan panca indra (penglihatan, pendengaran, penciuman, perabaan, pengecapan) agar pembaca dapat merasakan langsung."
+},
+{
+"id": "BIN-B01-M01-004",
+"type": "PG",
+"text": ""Suara deburan ombak terdengar sangat merdu di telinga." Penginderaan yang dominan digunakan pada kalimat tersebut adalah...",
+"options": [
+"Penglihatan",
+"Pendengaran",
+"Penciuman",
+"Perabaan"
+],
+"answer": "Pendengaran",
+"discussion": "Kata kunci dalam kalimat tersebut adalah "suara deburan ombak terdengar", yang berkaitan dengan indra pendengaran."
+},
+{
+"id": "BIN-B01-M01-005",
+"type": "PG",
+"text": ""Udara di pegunungan itu terasa sangat dingin menusuk kulit." Aspek fisik yang dirasakan berdasarkan kalimat tersebut berkaitan dengan indra...",
+"options": [
+"Penglihatan",
+"Pendengaran",
+"Penciuman",
+"Perabaan"
+],
+"answer": "Perabaan",
+"discussion": "Sensasi dingin yang menusuk kulit dirasakan melalui indra peraba (kulit)."
+},
+{
+"id": "BIN-B01-M01-006",
+"type": "PG",
+"text": "Perhatikan kalimat berikut! "Bunga melati di taman itu berwarna putih bersih dengan aroma yang sangat harum." Kata sifat (adjektiva) yang terdapat dalam kalimat tersebut adalah...",
+"options": [
+"Bunga, taman",
+"Putih, bersih, harum",
+"Di, dengan",
+"Sangat, itu"
+],
+"answer": "Putih, bersih, harum",
+"discussion": "Kata sifat adalah kata yang menerangkan keadaan suatu benda, dalam hal ini adalah putih, bersih, dan harum."
+},
+{
+"id": "BIN-B01-M01-007",
+"type": "PG",
+"text": "Apa perbedaan utama antara laporan hasil pengamatan dengan cerita fiksi?",
+"options": [
+"Laporan pengamatan berdasarkan fakta nyata, sedangkan fiksi bersifat khayalan",
+"Laporan pengamatan selalu berbentuk puisi",
+"Cerita fiksi tidak memiliki tokoh",
+"Laporan pengamatan ditulis menggunakan bahasa asing"
+],
+"answer": "Laporan pengamatan berdasarkan fakta nyata, sedangkan fiksi bersifat khayalan",
+"discussion": "Laporan pengamatan wajib disusun berdasarkan data atau fakta yang benar-benar ada di lapangan."
+},
+{
+"id": "BIN-B01-M01-008",
+"type": "PG",
+"text": "Manakah di bawah ini yang merupakan contoh kalimat fakta?",
+"options": [
+"Menurutku, kucing persia adalah hewan paling lucu di dunia.",
+"Sepertinya hari ini akan turun hujan deras.",
+"Di dalam akuarium terdapat lima ekor ikan koki berwarna jingga.",
+"Rasa makanan di warung itu mungkin kurang enak."
+],
+"answer": "Di dalam akuarium terdapat lima ekor ikan koki berwarna jingga.",
+"discussion": "Kalimat C menyatakan jumlah yang pasti dan dapat dibuktikan kebenarannya secara nyata (fakta)."
+},
+{
+"id": "BIN-B01-M01-009",
+"type": "PG",
+"text": "Manakah di bawah ini yang merupakan kalimat opini (pendapat)?",
+"options": [
+"Tinggi tiang bendera di sekolahku adalah 8 meter.",
+"Ruangan kelas 6 sangat sejuk dan nyaman untuk belajar.",
+"Jumlah siswa kelas 6 ada 30 orang anak.",
+"Hari ini adalah hari Senin tanggal 4 November."
+],
+"answer": "Ruangan kelas 6 sangat sejuk dan nyaman untuk belajar.",
+"discussion": "Kata "nyaman" bersifat relatif dan merupakan pendapat pribadi (opini), sementara yang lainnya adalah data pasti (fakta)."
+},
+{
+"id": "BIN-B01-M01-010",
+"type": "PG",
+"text": "Dalam struktur teks laporan hasil pengamatan, bagian awal biasanya berisi tentang...",
+"options": [
+"Simpulan dan kesan penulis",
+"Daftar pustaka buku",
+"Objek yang diamati serta waktu dan tempat",
+"Penutup dan salam perpisahan"
+],
+"answer": "Objek yang diamati serta waktu dan tempat",
+"discussion": "Bagian pendahuluan laporan pengamatan memuat identitas objek yang diamati, waktu, serta lokasi kegiatan."
+},
+{
+"id": "BIN-B01-M01-011",
+"type": "PG",
+"text": "Perhatikan kalimat rumpang berikut! "Kelinci itu memiliki bulu yang sangat ... dan lembut." Kata sifat yang tepat untuk melengkapi kalimat tersebut adalah...",
+"options": [
+"Kasar",
+"Tebal",
+"Tajam",
+"Panjang"
+],
+"answer": "Tebal",
+"discussion": "Bulu kelinci umumnya digambarkan dengan sifat tebal dan lembut."
+},
+{
+"id": "BIN-B01-M01-012",
+"type": "PG",
+"text": "Kalimat utama dalam sebuah paragraf biasanya terletak di...",
+"options": [
+"Bagian tengah saja",
+"Bagian awal, akhir, atau campuran",
+"Hanya di luar paragraf",
+"Selalu di nomor urut terakhir"
+],
+"answer": "Bagian awal, akhir, atau campuran",
+"discussion": "Kalimat utama bisa ditemukan di awal paragraf (deduktif), akhir paragraf (induktif), maupun keduanya."
+},
+{
+"id": "BIN-B01-M01-013",
+"type": "PG",
+"text": "Kalimat penjelas dalam paragraf berfungsi untuk...",
+"options": [
+"Menjelaskan atau menguraikan kalimat utama secara lebih rinci",
+"Mengakhiri seluruh isi bacaan",
+"Menjadi judul utama karangan",
+"Menunjukkan nama pengarang buku"
+],
+"answer": "Menjelaskan atau menguraikan kalimat utama secara lebih rinci",
+"discussion": "Kalimat penjelas berisi perincian, contoh, atau penjelasan pendukung dari gagasan yang ada di kalimat utama."
+},
+{
+"id": "BIN-B01-M01-014",
+"type": "PG",
+"text": ""Ibu guru sedang menulis di papan tulis putih." Objek utama yang melakukan pekerjaan dalam kalimat tersebut adalah...",
+"options": [
+"Papan tulis",
+"Ibu guru",
+"Spidol",
+"Penghapus"
+],
+"answer": "Ibu guru",
+"discussion": "Subjek atau pelaku utama dalam kalimat tersebut adalah "Ibu guru"."
+},
+{
+"id": "BIN-B01-M01-015",
+"type": "PG",
+"text": ""Sawah di desa pamanku tampak seperti permadani hijau yang membentang luas." Majas atau gaya bahasa yang digunakan dalam kalimat tersebut adalah...",
+"options": [
+"Majas personifikasi",
+"Majas hiperbola",
+"Majas simile (perumpamaan)",
+"Majas litotes"
+],
+"answer": "Majas simile (perumpamaan)",
+"discussion": "Kalimat tersebut membandingkan sawah dengan permadani menggunakan kata penghubung "seperti" (majas simile)."
+},
+{
+"id": "BIN-B01-M01-016",
+"type": "PG",
+"text": "Ketika kita melakukan pengamatan terhadap suatu ekosistem kolam ikan, hal pertama yang harus dicatat adalah...",
+"options": [
+"Judul lagu kesukaan",
+"Nama objek kolam, lokasi, dan waktu pengamatan",
+"Daftar harga makanan ikan",
+"Jumlah halaman buku catatan"
+],
+"answer": "Nama objek kolam, lokasi, dan waktu pengamatan",
+"discussion": "Langkah awal pengamatan sistematis adalah mencatat identitas objek, tempat, dan waktu kejadian."
+},
+{
+"id": "BIN-B01-M01-017",
+"type": "PG",
+"text": "Penulisan huruf kapital yang benar untuk nama tempat pengamatan adalah...",
+"options": [
+"pasar tradisional ciwidey",
+"Pasar Tradisional Ciwidey",
+"pasar tradisional Ciwidey",
+"PaSar TraDisional Ciwidey"
+],
+"answer": "Pasar Tradisional Ciwidey",
+"discussion": "Setiap kata pada nama tempat atau geografis diawali dengan huruf kapital (kecuali kata depan)."
+},
+{
+"id": "BIN-B01-M01-018",
+"type": "PG",
+"text": "Manakah penulisan kata depan "di" yang benar sebagai keterangan tempat?",
+"options": [
+"disekolah",
+"di sekolah",
+"disekolahan",
+"di-sekolah"
+],
+"answer": "di sekolah",
+"discussion": "Kata depan "di" yang menunjukkan tempat harus ditulis terpisah dari kata yang mengikutinya."
+},
+{
+"id": "BIN-B01-M01-019",
+"type": "PG",
+"text": "Perhatikan kalimat berikut! "Pagi hari yang cerah membuat suasana di halaman sekolah terasa sangat bersemangat." Gagasan pokok yang terkandung berhubungan dengan...",
+"options": [
+"Suasana pagi di halaman sekolah",
+"Olahraga pagi hari",
+"Tugas piket kelas",
+"Upacara bendera"
+],
+"answer": "Suasana pagi di halaman sekolah",
+"discussion": "Kalimat tersebut memaparkan kondisi suasana pagi di area halaman sekolah."
+},
+{
+"id": "BIN-B01-M01-020",
+"type": "PG",
+"text": "Sinonim (persamaan kata) dari kata "bersih" adalah...",
+"options": [
+"Kotor",
+"Kusam",
+"Higienis / suci / rapi",
+"Berdebu"
+],
+"answer": "Higienis / suci / rapi",
+"discussion": "Bersih berarti bebas dari kotoran, rapi, atau higienis."
+},
+{
+"id": "BIN-B01-M01-021",
+"type": "PG",
+"text": "Antonim (lawan kata) dari kata "luas" adalah...",
+"options": [
+"Lebar",
+"Sempit",
+"Besar",
+"Panjang"
+],
+"answer": "Sempit",
+"discussion": "Lawan kata dari luas adalah sempit."
+},
+{
+"id": "BIN-B01-M01-022",
+"type": "PG",
+"text": ""Kucing anggora itu memiliki bulu lebat berwarna putih salju dan mata bulat berwarna biru." Kalimat tersebut termasuk jenis teks...",
+"options": [
+"Narasi",
+"Deskripsi",
+"Persuasi",
+"Argumentasi"
+],
+"answer": "Deskripsi",
+"discussion": "Teks tersebut menggambarkan ciri fisik kucing secara rinci sehingga masuk kategori teks deskripsi."
+},
+{
+"id": "BIN-B01-M01-023",
+"type": "PG",
+"text": "Dalam menyusun laporan hasil pengamatan, bahasa yang digunakan harus bersifat...",
+"options": [
+"Berlebihan dan penuh khayalan",
+"Objektif dan sesuai kenyataan",
+"Lucu dan menghibur",
+"Singkat tanpa makna"
+],
+"answer": "Objektif dan sesuai kenyataan",
+"discussion": "Laporan pengamatan menuntut keakuratan data dan sifat objektif apa adanya."
+},
+{
+"id": "BIN-B01-M01-024",
+"type": "PG",
+"text": "Apa yang dimaksud dengan panca indra manusia?",
+"options": [
+"Tiga alat tubuh utama",
+"Lima alat tubuh untuk mengenali lingkungan (penglihatan, pendengaran, penciuman, pengecapan, perabaan)",
+"Alat gerak tangan dan kaki",
+"Organ pernapasan manusia"
+],
+"answer": "Lima alat tubuh untuk mengenali lingkungan (penglihatan, pendengaran, penciuman, pengecapan, perabaan)",
+"discussion": "Panca indra terdiri dari mata, telinga, hidung, lidah, dan kulit."
+},
+{
+"id": "BIN-B01-M01-025",
+"type": "PG",
+"text": "Perhatikan kalimat berikut! "Aroma wangi bunga melati tercium sangat lembut saat angin berembus." Indra yang digunakan untuk mendeteksi aroma wangi adalah...",
+"options": [
+"Telinga",
+"Mata",
+"Hidung",
+"Kulit"
+],
+"answer": "Hidung",
+"discussion": "Aroma atau bau dideteksi menggunakan indra penciuman yaitu hidung."
+},
+{
+"id": "BIN-B01-M01-026",
+"type": "PG",
+"text": "Manakah kalimat penjelas yang paling sesuai untuk kalimat utama "Pasar tradisional di desaku sangat ramai setiap pagi"?",
+"options": [
+"Harga barang-barang di sana sangat mahal.",
+"Para penjual dan pembeli tampak tawar-menawar sambil berdesakan di lorong pasar.",
+"Gedung bioskop itu sangat megah dan bertingkat.",
+"Jalan tol antarkota dibangun sangat panjang."
+],
+"answer": "Para penjual dan pembeli tampak tawar-menawar sambil berdesakan di lorong pasar.",
+"discussion": "Kalimat penjelas harus mendukung ide pokok tentang keramaian aktivitas di pasar tradisional."
+},
+{
+"id": "BIN-B01-M01-027",
+"type": "PG",
+"text": "Apa fungsi utama dari penggunaan kata sifat dalam teks deskripsi?",
+"options": [
+"Memperjelas dan memperindah gambaran fisik objek",
+"Mengganti kedudukan kata kerja",
+"Menghitung jumlah benda",
+"Membuat kalimat menjadi sangat panjang"
+],
+"answer": "Memperjelas dan memperindah gambaran fisik objek",
+"discussion": "Kata sifat memperkaya rincian karakteristik objek yang sedang dideskripsikan."
+},
+{
+"id": "BIN-B01-M01-028",
+"type": "PG",
+"text": ""Kakek duduk di kursi goyang kayu sambil menikmati secangkir teh hangat." Objek pelaku utama dalam kalimat tersebut adalah...",
+"options": [
+"Kursi goyang",
+"Kakek",
+"Secangkir teh",
+"Kayu"
+],
+"answer": "Kakek",
+"discussion": "Pelaku yang melakukan kegiatan duduk adalah Kakek."
+},
+{
+"id": "BIN-B01-M01-029",
+"type": "PG",
+"text": "Perhatikan kalimat berikut! "Air terjun itu mengalir deras dari atas tebing batu." Kata kerja (verba) dalam kalimat tersebut adalah...",
+"options": [
+"Air terjun",
+"Mengalir",
+"Deras",
+"Batu"
+],
+"answer": "Mengalir",
+"discussion": "Kata kerja yang menunjukkan suatu tindakan atau proses adalah "mengalir"."
+},
+{
+"id": "BIN-B01-M01-030",
+"type": "PG",
+"text": "Manakah di bawah ini yang merupakan ciri bahasa baku dalam penulisan laporan?",
+"options": [
+"Menggunakan singkatan gaul (seperti 'yg', 'dgn')",
+"Menggunakan ejaan dan kaidah tata bahasa yang sesuai KBBI dan PUEBI",
+"Menggunakan bahasa daerah sepenuhnya tanpa terjemahan",
+"Menggunakan simbol-simbol angka saja"
+],
+"answer": "Menggunakan ejaan dan kaidah tata bahasa yang sesuai KBBI dan PUEBI",
+"discussion": "Bahasa baku wajib mematuhi kaidah pedoman umum ejaan dan kamus resmi bahasa Indonesia."
+},
+{
+"id": "BIN-B01-M02-001",
+"type": "PG",
+"text": ""Sampah plastik berserakan di tepi pantai membuat pemandangan menjadi kurang indah." Kalimat tersebut mengandung unsur...",
+"options": [
+"Pujian",
+"Kritik / pengamatan masalah lingkungan",
+"Petunjuk resep makanan",
+"Dongeng fantasi"
+],
+"answer": "Kritik / pengamatan masalah lingkungan",
+"discussion": "Kalimat tersebut melaporkan kondisi nyata pencemaran sampah di tepi pantai."
+},
+{
+"id": "BIN-B01-M02-002",
+"type": "PG",
+"text": "Manakah kalimat berikut yang menggunakan tanda baca titik (.) dengan tepat di akhir kalimat?",
+"options": [
+"Ibu membeli buah mangga, jeruk dan salak di pasar.",
+"Ayah membaca koran di teras rumah.",
+"Wah, indah sekali pemandangan gunung itu!",
+"Kapan kamu berangkat ke sekolah?"
+],
+"answer": "Ayah membaca koran di teras rumah.",
+"discussion": "Kalimat berita diakhiri dengan tanda titik. Pilihan A kurang tanda koma sebelum dan, C menggunakan tanda seru, D menggunakan tanda tanya."
+},
+{
+"id": "BIN-B01-M02-003",
+"type": "PG",
+"text": "Kata baku dari kata "apotik" yang benar sesuai Kamus Besar Bahasa Indonesia (KBBI) adalah...",
+"options": [
+"Apotik",
+"Apotek",
+"Appotik",
+"apotik"
+],
+"answer": "Apotek",
+"discussion": "Bentuk baku yang benar dalam KBBI adalah apotek, bukan apotik."
+},
+{
+"id": "BIN-B01-M02-004",
+"type": "PG",
+"text": "Kata baku dari kata "jadwal" yang benar adalah...",
+"options": [
+"Jual",
+"Jadual",
+"Jadwal",
+"Jdwl"
+],
+"answer": "Jadwal",
+"discussion": "Penulisan baku yang tepat adalah jadwal."
+},
+{
+"id": "BIN-B01-M02-005",
+"type": "PG",
+"text": "Perhatikan kalimat berikut! "Tanaman hias itu disiram setiap sore hari oleh bibi." Kalimat tersebut merupakan contoh kalimat...",
+"options": [
+"Aktif",
+"Pasif",
+"Tanya",
+"Perintah"
+],
+"answer": "Pasif",
+"discussion": "Kalimat pasif ditandai dengan predikat berawalan "di-" dan subjek yang dikenai pekerjaan (tanaman hias disiram)."
+},
+{
+"id": "BIN-B01-M02-006",
+"type": "PG",
+"text": "Ubahlah kalimat aktif "Rafi menyiram tanaman" menjadi kalimat pasif yang benar!",
+"options": [
+"Tanaman disiram oleh Rafi.",
+"Rafi disiram tanaman.",
+"Tanaman menyiram Rafi.",
+"Disiram tanaman oleh Rafi."
+],
+"answer": "Tanaman disiram oleh Rafi.",
+"discussion": "Pola kalimat pasif dari kalimat tersebut adalah objek (tanaman) menjadi subjek, diikuti predikat berawalan di- (disiram)."
+},
+{
+"id": "BIN-B01-M02-007",
+"type": "PG",
+"text": "Dalam menyusun laporan hasil pengamatan tumbuhan di halaman sekolah, bagian penutup sebaiknya berisi...",
+"options": [
+"Daftar belanjaan harian",
+"Kesimpulan singkat dari hasil pengamatan",
+"Cerita lucu fiksi",
+"Rumus matematika kelas 6"
+],
+"answer": "Kesimpulan singkat dari hasil pengamatan",
+"discussion": "Bagian penutup laporan berisi kesimpulan atau rangkuman akhir dari pengamatan yang dilakukan."
+},
+{
+"id": "BIN-B01-M02-008",
+"type": "PG",
+"text": "Apa yang dimaksud dengan gagasan pokok (ide pokok)?",
+"options": [
+"Kalimat terpanjang dalam paragraf",
+"Inti permasalahan atau ide utama yang dibahas dalam sebuah paragraf",
+"Judul buku pegangan siswa",
+"Nama penulis teks bacaan"
+],
+"answer": "Inti permasalahan atau ide utama yang dibahas dalam sebuah paragraf",
+"discussion": "Gagasan pokok adalah gagasan atau inti dasar yang menjadi landasan pengembangan sebuah paragraf."
+},
+{
+"id": "BIN-B01-M02-009",
+"type": "PG",
+"text": "Perhatikan kalimat berikut! "Pohon mangga berbuah lebat di halaman." Keterangan tempat dalam kalimat tersebut adalah...",
+"options": [
+"Pohon mangga",
+"Berbuah lebat",
+"Di halaman",
+"Setiap hari"
+],
+"answer": "Di halaman",
+"discussion": "Keterangan tempat ditunjukkan oleh frasa "di halaman"."
+},
+{
+"id": "BIN-B01-M02-010",
+"type": "PG",
+"text": "Mengapa dalam menulis laporan pengamatan kita tidak boleh memasukkan unsur karangan bebas atau cerita bohong?",
+"options": [
+"Karena laporan harus menyajikan informasi yang jujur, faktual, dan dapat dipercaya",
+"Karena cerita bohong membuat buku terlalu tebal",
+"Karena guru melarang menulis cerita",
+"Karena fiksi tidak memiliki huruf vokal"
+],
+"answer": "Karena laporan harus menyajikan informasi yang jujur, faktual, dan dapat dipercaya",
+"discussion": "Laporan pengamatan adalah karya ilmiah sederhana yang menuntut keakuratan dan kebenaran data fakta."
+}
+]
+}
+]
+}
