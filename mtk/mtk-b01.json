@@ -1,1184 +1,607 @@
 {
-"subject_id": "MTK",
-"subject_name": "Matematika",
-"grade": 6,
-"curriculum": "Kurikulum Merdeka",
-"chapters": [
-{
-"chapter_id": "MTK-B01",
-"chapter_title": "Bab 1: Pecahan dan Desimal",
-"questions": [
-{
-"id": "MTK-B01-M01-001",
-"type": "PG",
-"text": "Hasil dari perkalian pecahan 2/3 x 3/5 adalah...",
-"options": [
-"6/15",
-"2/5",
-"5/8",
-"6/8"
-],
-"answer": "2/5",
-"discussion": "Kalikan pembilang dengan pembilang (2 x 3 = 6) dan penyebut dengan penyebut (3 x 5 = 15). Hasilnya 6/15. Sederhanakan dengan membagi pembilang dan penyebut dengan 3, sehingga menjadi 2/5."
-},
-{
-"id": "MTK-B01-M01-002",
-"type": "PG",
-"text": "Hitunglah hasil dari 4/7 x 2/3 =...",
-"options": [
-"8/21",
-"6/10",
-"8/10",
-"12/21"
-],
-"answer": "8/21",
-"discussion": "Kalikan pembilang dengan pembilang (4 x 2 = 8) dan penyebut dengan penyebut (7 x 3 = 21). Hasil akhirnya adalah 8/21 yang tidak dapat disederhanakan lagi."
-},
-{
-"id": "MTK-B01-M01-003",
-"type": "PG",
-"text": "Berapa hasil dari 5/8 x 4/5...",
-"options": [
-"20/40",
-"1/2",
-"9/13",
-"1/4"
-],
-"answer": "1/2",
-"discussion": "Kalikan atas dan bawah: (5 x 4) / (8 x 5) = 20 / 40. Sederhanakan dengan membagi 20 pada pembilang dan penyebut, didapat 1/2."
-},
-{
-"id": "MTK-B01-M01-004",
-"type": "PG",
-"text": "Hasil dari perkalian 3 x 2/5 adalah...",
-"options": [
-"5/5",
-"6/5",
-"6/15",
-"5/15"
-],
-"answer": "6/5",
-"discussion": "Bilangan bulat dikalikan dengan pembilang pecahan, penyebut tetap. Jadi, (3 x 2) / 5 = 6/5 atau setara dengan 1 1/5."
-},
-{
-"id": "MTK-B01-M01-005",
-"type": "PG",
-"text": "Hitung nilai dari 4 x 3/8 =...",
-"options": [
-"12/8",
-"3/2",
-"1 1/2",
-"Semua benar"
-],
-"answer": "Semua benar",
-"discussion": "4 x 3/8 = 12/8. Jika disederhanakan dibagi 4 menjadi 3/2, dan diubah ke pecahan campuran menjadi 1 1/2. Jadi semua opsi bernilai benar."
-},
-{
-"id": "MTK-B01-M01-006",
-"type": "PG",
-"text": "Hasil dari 2/3 x 9 adalah...",
-"options": [
-"6",
-"18/3",
-"6 dan 18/3 benar",
-"2/27"
-],
-"answer": "6 dan 18/3 benar",
-"discussion": "2/3 x 9 = (2 x 9) / 3 = 18/3 = 6. Karena 18/3 setara dengan 6, maka opsi C adalah jawaban yang tepat."
-},
-{
-"id": "MTK-B01-M01-007",
-"type": "PG",
-"text": "Berapa hasil dari 1 1/2 x 2/3...",
-"options": [
-"2/6",
-"1",
-"3/2",
-"2 1/2"
-],
-"answer": "1",
-"discussion": "Ubah pecahan campuran ke biasa: 1 1/2 = 3/2. Lalu kalikan: 3/2 x 2/3 = 6/6 = 1."
-},
-{
-"id": "MTK-B01-M01-008",
-"type": "PG",
-"text": "Hasil dari perkalian 2 1/4 x 1 1/3 adalah...",
-"options": [
-"2 1/12",
-"3",
-"2 4/12",
-"9/4"
-],
-"answer": "3",
-"discussion": "Ubah ke pecahan biasa: 9/4 x 4/3 = 36/12 = 3."
-},
-{
-"id": "MTK-B01-M01-009",
-"type": "PG",
-"text": "Hitunglah 3/5 x 1 2/3 =...",
-"options": [
-"3/15",
-"1",
-"5/3",
-"3/5"
-],
-"answer": "1",
-"discussion": "3/5 x 5/3 = 15/15 = 1."
-},
-{
-"id": "MTK-B01-M01-010",
-"type": "PG",
-"text": "Hasil dari 0,2 x 0,3 adalah...",
-"options": [
-"0,6",
-"0,06",
-"0,006",
-"6,0"
-],
-"answer": "0,06",
-"discussion": "2 x 3 = 6. Karena ada 2 angka di belakang koma (0,2 dan 0,3), hasilnya menjadi 0,06."
-},
-{
-"id": "MTK-B01-M01-011",
-"type": "PG",
-"text": "Berapa hasil dari 1,5 x 0,4...",
-"options": [
-"0,6",
-"6,0",
-"0,06",
-"60"
-],
-"answer": "0,6",
-"discussion": "15 x 4 = 60. Karena ada 2 angka di belakang koma (1,5 dan 0,4), hasilnya menjadi 0,60 atau 0,6."
-},
-{
-"id": "MTK-B01-M01-012",
-"type": "PG",
-"text": "Hasil dari 0,25 x 0,4 adalah...",
-"options": [
-"1,0",
-"0,1",
-"0,01",
-"0,001"
-],
-"answer": "0,1",
-"discussion": "25 x 4 = 100. Terdapat 3 angka di belakang koma dari soal, sehingga menjadi 0,100 atau 0,1."
-},
-{
-"id": "MTK-B01-M01-013",
-"type": "PG",
-"text": "Hitung hasil dari 2,5 x 1,2 =...",
-"options": [
-"3,0",
-"0,3",
-"30",
-"0,03"
-],
-"answer": "3,0",
-"discussion": "25 x 12 = 300. Terdapat 2 angka di belakang koma, sehingga menjadi 3,00 atau 3."
-},
-{
-"id": "MTK-B01-M01-014",
-"type": "PG",
-"text": "Hasil dari 0,12 x 0,5 adalah...",
-"options": [
-"0,6",
-"0,06",
-"0,006",
-"6,0"
-],
-"answer": "0,06",
-"discussion": "12 x 5 = 60. Terdapat 3 angka di belakang koma, sehingga menjadi 0,060 atau 0,06."
-},
-{
-"id": "MTK-B01-M01-015",
-"type": "PG",
-"text": "Berapa hasil dari 3 x 0,25...",
-"options": [
-"0,75",
-"7,5",
-"0,075",
-"75"
-],
-"answer": "0,75",
-"discussion": "Kalikan seperti biasa 3 x 25 = 75. Karena ada 2 angka di belakang koma dari 0,25, hasilnya adalah 0,75."
-},
-{
-"id": "MTK-B01-M01-016",
-"type": "PG",
-"text": "Hasil dari 1,2 x 5 adalah...",
-"options": [
-"0,6",
-"6,0",
-"60",
-"0,06"
-],
-"answer": "6,0",
-"discussion": "12 x 5 = 60. Karena ada 1 angka di belakang koma, hasilnya menjadi 6,0 atau 6."
-},
-{
-"id": "MTK-B01-M01-017",
-"type": "PG",
-"text": "Hitung nilai dari 0,05 x 0,2 =...",
-"options": [
-"0,1",
-"0,01",
-"0,001",
-"1,0"
-],
-"answer": "0,01",
-"discussion": "5 x 2 = 10. Terdapat total 3 angka di belakang koma (2 angka dari 0,05 dan 1 angka dari 0,2), sehingga menjadi 0,010 atau 0,01."
-},
-{
-"id": "MTK-B01-M01-018",
-"type": "PG",
-"text": "Hasil dari 1,1 x 1,1 adalah...",
-"options": [
-"1,21",
-"12,1",
-"0,121",
-"121"
-],
-"answer": "1,21",
-"discussion": "11 x 11 = 121. Terdapat 2 angka di belakang koma, hasilnya 1,21."
-},
-{
-"id": "MTK-B01-M01-019",
-"type": "PG",
-"text": "Berapa hasil dari 0,8 x 0,5...",
-"options": [
-"4,0",
-"0,4",
-"0,04",
-"40"
-],
-"answer": "0,4",
-"discussion": "8 x 5 = 40. Ada 2 angka di belakang koma, hasilnya 0,40 atau 0,4."
-},
-{
-"id": "MTK-B01-M01-020",
-"type": "PG",
-"text": "Hasil dari 2/3 : 1/2 adalah...",
-"options": [
-"2/6",
-"3/4",
-"4/3",
-"6/2"
-],
-"answer": "4/3",
-"discussion": "Ubah bagi jadi kali dan balik pecahan kedua: 2/3 x 2/1 = 4/3."
-},
-{
-"id": "MTK-B01-M01-021",
-"type": "PG",
-"text": "Hitung hasil dari 3/4 : 3/8 =...",
-"options": [
-"9/32",
-"2",
-"1/2",
-"8/4"
-],
-"answer": "2",
-"discussion": "3/4 x 8/3 = 24/12 = 2."
-},
-{
-"id": "MTK-B01-M01-022",
-"type": "PG",
-"text": "Berapa hasil dari 5/6 : 2/3 =...",
-"options": [
-"10/18",
-"5/4",
-"4/5",
-"15/12"
-],
-"answer": "5/4",
-"discussion": "5/6 x 3/2 = 15/12. Sederhanakan dibagi 3 menjadi 5/4."
-},
-{
-"id": "MTK-B01-M01-023",
-"type": "PG",
-"text": "Hasil dari 4/5 : 2 =...",
-"options": [
-"8/5",
-"2/5",
-"4/10",
-"2/10"
-],
-"answer": "2/5",
-"discussion": "4/5 x 1/2 = 4/10 = 2/5."
-},
-{
-"id": "MTK-B01-M01-024",
-"type": "PG",
-"text": "Hitung nilai dari 3 : 1/4 =...",
-"options": [
-"3/4",
-"4/3",
-"12",
-"7"
-],
-"answer": "12",
-"discussion": "3/1 x 4/1 = 12."
-},
-{
-"id": "MTK-B01-M01-025",
-"type": "PG",
-"text": "Hasil dari 2 1/2 : 1/2 =...",
-"options": [
-"5/4",
-"5",
-"1/5",
-"2 1/4"
-],
-"answer": "5",
-"discussion": "5/2 x 2/1 = 10/2 = 5."
-},
-{
-"id": "MTK-B01-M01-026",
-"type": "PG",
-"text": "Berapa hasil dari 3/4 : 1 1/2 =...",
-"options": [
-"9/8",
-"1/2",
-"2",
-"3/8"
-],
-"answer": "1/2",
-"discussion": "3/4 : 3/2 = 3/4 x 2/3 = 6/12 = 1/2."
-},
-{
-"id": "MTK-B01-M01-027",
-"type": "PG",
-"text": "Hitung hasil dari 1 1/3 : 2/3 =...",
-"options": [
-"2",
-"8/9",
-"3/2",
-"4/9"
-],
-"answer": "2",
-"discussion": "4/3 x 3/2 = 12/6 = 2."
-},
-{
-"id": "MTK-B01-M01-028",
-"type": "PG",
-"text": "Hasil dari 5/8 : 5/16 =...",
-"options": [
-"25/128",
-"2",
-"1/2",
-"8/16"
-],
-"answer": "2",
-"discussion": "5/8 x 16/5 = 80/40 = 2."
-},
-{
-"id": "MTK-B01-M01-029",
-"type": "PG",
-"text": "Berapa hasil dari 7/10 : 2/5 =...",
-"options": [
-"14/50",
-"7/4",
-"4/7",
-"35/20"
-],
-"answer": "7/4",
-"discussion": "7/10 x 5/2 = 35/20. Sederhanakan dibagi 5 menjadi 7/4."
-},
-{
-"id": "MTK-B01-M01-030",
-"type": "PG",
-"text": "Hasil dari 1,2 : 0,3 adalah...",
-"options": [
-"4",
-"0,4",
-"40",
-"0,04"
-],
-"answer": "4",
-"discussion": "Keduanya dikalikan 10 menjadi 12 : 3 = 4."
-},
-{
-"id": "MTK-B01-M02-001",
-"type": "PG",
-"text": "Hitung hasil dari 2,5 : 0,5 =...",
-"options": [
-"5",
-"0,5",
-"50",
-"0,05"
-],
-"answer": "5",
-"discussion": "Keduanya dikalikan 10 menjadi 25 : 5 = 5."
-},
-{
-"id": "MTK-B01-M02-002",
-"type": "PG",
-"text": "Berapa hasil dari 0,8 : 0,2 =...",
-"options": [
-"4",
-"0,4",
-"40",
-"0,04"
-],
-"answer": "4",
-"discussion": "Keduanya dikalikan 10 menjadi 8 : 2 = 4."
-},
-{
-"id": "MTK-B01-M02-003",
-"type": "PG",
-"text": "Hasil dari 0,75 : 0,25 =...",
-"options": [
-"3",
-"0,3",
-"30",
-"0,03"
-],
-"answer": "3",
-"discussion": "Keduanya dikalikan 100 menjadi 75 : 25 = 3."
-},
-{
-"id": "MTK-B01-M02-004",
-"type": "PG",
-"text": "Hitung nilai dari 3,6 : 1,2 =...",
-"options": [
-"3",
-"0,3",
-"30",
-"300"
-],
-"answer": "3",
-"discussion": "Keduanya dikalikan 10 menjadi 36 : 12 = 3."
-},
-{
-"id": "MTK-B01-M02-005",
-"type": "PG",
-"text": "Berapa hasil dari 0,09 : 0,3 =...",
-"options": [
-"0,3",
-"3",
-"0,03",
-"30"
-],
-"answer": "0,3",
-"discussion": "Keduanya dikalikan 100 menjadi 9 : 30 = 0,3."
-},
-{
-"id": "MTK-B01-M02-006",
-"type": "PG",
-"text": "Hasil dari 4,5 : 0,9 =...",
-"options": [
-"5",
-"0,5",
-"50",
-"0,05"
-],
-"answer": "5",
-"discussion": "Keduanya dikalikan 10 menjadi 45 : 9 = 5."
-},
-{
-"id": "MTK-B01-M02-007",
-"type": "PG",
-"text": "Hitung hasil dari 0,64 : 0,8 =...",
-"options": [
-"0,8",
-"8",
-"0,08",
-"80"
-],
-"answer": "0,8",
-"discussion": "Keduanya dikalikan 100 menjadi 64 : 80 = 0,8."
-},
-{
-"id": "MTK-B01-M02-008",
-"type": "PG",
-"text": "Berapa hasil dari 5 : 0,5 =...",
-"options": [
-"10",
-"1",
-"0,1",
-"100"
-],
-"answer": "10",
-"discussion": "5 dikalikan 10 menjadi 50, dan 0,5 dikalikan 10 menjadi 5. 50 : 5 = 10."
-},
-{
-"id": "MTK-B01-M02-009",
-"type": "PG",
-"text": "Hasil dari 0,2 : 0,04 =...",
-"options": [
-"5",
-"50",
-"0,5",
-"0,05"
-],
-"answer": "5",
-"discussion": "Keduanya dikalikan 100 menjadi 20 : 4 = 5."
-},
-{
-"id": "MTK-B01-M02-010",
-"type": "PG",
-"text": "Ibu mempunyai 3/4 liter minyak. Digunakan untuk memasak 1/3 bagian dari minyak tersebut. Berapa liter minyak yang digunakan?",
-"options": [
-"1/4 liter",
-"3/7 liter",
-"1/2 liter",
-"2/3 liter"
-],
-"answer": "1/4 liter",
-"discussion": "1/3 x 3/4 = 3/12 = 1/4 liter."
-},
-{
-"id": "MTK-B01-M02-011",
-"type": "PG",
-"text": "Sebuah kebun berbentuk persegi panjang memiliki panjang 5/2 meter dan lebar 4/5 meter. Luas kebun tersebut adalah...",
-"options": [
-"2 meter persegi",
-"9/7 meter persegi",
-"1 meter persegi",
-"4 meter persegi"
-],
-"answer": "2 meter persegi",
-"discussion": "Luas = p x l = 5/2 x 4/5 = 20/10 = 2 meter persegi."
-},
-{
-"id": "MTK-B01-M02-012",
-"type": "PG",
-"text": "Ayah membeli 2 1/2 kg jeruk. Setiap 1 kg jeruk berisi 8 buah. Berapa perkiraan jumlah seluruh jeruk ayah?",
-"options": [
-"16 buah",
-"20 buah",
-"18 buah",
-"24 buah"
-],
-"answer": "20 buah",
-"discussion": "5/2 x 8 = 40/2 = 20 buah."
-},
-{
-"id": "MTK-B01-M02-013",
-"type": "PG",
-"text": "Bibi mempunyai pita sepanjang 3/4 meter. Pita tersebut dipotong-potong menjadi bagian yang masing-masing panjangnya 1/4 meter. Berapa banyak potongan pita bibi?",
-"options": [
-"3 potongan",
-"4 potongan",
-"2 potongan",
-"5 potongan"
-],
-"answer": "3 potongan",
-"discussion": "3/4 : 1/4 = 3/4 x 4/1 = 12/4 = 3 potongan."
-},
-{
-"id": "MTK-B01-M02-014",
-"type": "PG",
-"text": "Sebuah wadah berisi 2 1/2 liter air akan dituang ke dalam botol-botol kecil berukuran 1/2 liter. Banyak botol yang dibutuhkan adalah...",
-"options": [
-"3 botol",
-"5 botol",
-"4 botol",
-"6 botol"
-],
-"answer": "5 botol",
-"discussion": "5/2 : 1/2 = 5/2 x 2/1 = 10/2 = 5 botol."
-},
-{
-"id": "MTK-B01-M02-015",
-"type": "PG",
-"text": "Jarak rumah Andi ke sekolah adalah 1,5 km. Jika Andi berjalan dengan kecepatan rata-rata 0,5 km per jam, berapa jam waktu yang ditempuh Andi?",
-"options": [
-"2 jam",
-"3 jam",
-"1,5 jam",
-"0,5 jam"
-],
-"answer": "3 jam",
-"discussion": "Waktu = Jarak : Kecepatan = 1,5 : 0,5 = 3 jam."
-},
-{
-"id": "MTK-B01-M02-016",
-"type": "PG",
-"text": "Harga 1 kg mangga adalah Rp15.500, perkalian dari 1,5 kg mangga adalah...",
-"options": [
-"Rp23.250",
-"Rp22.500",
-"Rp24.000",
-"Rp23.500"
-],
-"answer": "Rp23.250",
-"discussion": "1,5 x 15.500 = 23.250."
-},
-{
-"id": "MTK-B01-M02-017",
-"type": "PG",
-"text": "Sebuah tangki bensin berisi 12,5 liter. Setiap hari terpakai 2,5 liter. Berapa hari bensin tersebut habis?",
-"options": [
-"4 hari",
-"5 hari",
-"6 hari",
-"7 hari"
-],
-"answer": "5 hari",
-"discussion": "12,5 : 2,5 = 5 hari."
-},
-{
-"id": "MTK-B01-M02-018",
-"type": "PG",
-"text": "Ani memiliki pita 2 meter, dipakai untuk kado 3/4 meter. Sisa pita Ani adalah...",
-"options": [
-"1 1/4 meter",
-"1 1/2 meter",
-"5/4 meter",
-"Opsi A dan C benar"
-],
-"answer": "Opsi A dan C benar",
-"discussion": "2 - 3/4 = 8/4 - 3/4 = 5/4 = 1 1/4 meter. Keduanya benar."
-},
-{
-"id": "MTK-B01-M02-019",
-"type": "PG",
-"text": "Hasil dari 2/3 x 3/4 x 4/5 adalah...",
-"options": [
-"2/5",
-"3/5",
-"4/5",
-"1/5"
-],
-"answer": "2/5",
-"discussion": "(2 x 3 x 4) / (3 x 4 x 5) = 24/60. Sederhanakan dibagi 12 menjadi 2/5."
-},
-{
-"id": "MTK-B01-M02-020",
-"type": "PG",
-"text": "Hitunglah 1,25 x 0,8 =...",
-"options": [
-"1,0",
-"0,1",
-"10",
-"0,01"
-],
-"answer": "1,0",
-"discussion": "125 x 8 = 1000. Ada 3 angka di belakang koma, sehingga hasilnya 1,000 atau 1."
-},
-{
-"id": "MTK-B01-M02-021",
-"type": "PG",
-"text": "Hasil dari 3/5 : 9/10 adalah...",
-"options": [
-"2/3",
-"3/2",
-"27/50",
-"9/15"
-],
-"answer": "2/3",
-"discussion": "3/5 x 10/9 = 30/45. Sederhanakan dibagi 15 menjadi 2/3."
-},
-{
-"id": "MTK-B01-M02-022",
-"type": "PG",
-"text": "Berapa hasil dari 4 1/2 x 2/9...",
-"options": [
-"1",
-"2",
-"1/2",
-"4"
-],
-"answer": "1",
-"discussion": "9/2 x 2/9 = 18/18 = 1."
-},
-{
-"id": "MTK-B01-M02-023",
-"type": "PG",
-"text": "Hitung nilai dari 0,15 x 4 =...",
-"options": [
-"0,6",
-"0,06",
-"6,0",
-"0,006"
-],
-"answer": "0,6",
-"discussion": "15 x 4 = 60. Ada 2 angka di belakang koma, hasilnya 0,60 atau 0,6."
-},
-{
-"id": "MTK-B01-M02-024",
-"type": "PG",
-"text": "Hasil dari 2,4 : 0,6 adalah...",
-"options": [
-"4",
-"0,4",
-"40",
-"0,04"
-],
-"answer": "4",
-"discussion": "Keduanya dikalikan 10 menjadi 24 : 6 = 4."
-},
-{
-"id": "MTK-B01-M02-025",
-"type": "PG",
-"text": "Berapa hasil dari 7/8 x 4/7 =...",
-"options": [
-"1/2",
-"28/56",
-"2/3",
-"1/4"
-],
-"answer": "1/2",
-"discussion": "7/8 x 4/7 = 28/56 = 1/2."
-},
-{
-"id": "MTK-B01-M02-026",
-"type": "PG",
-"text": "Hasil dari 3/4 x 2 2/3 adalah...",
-"options": [
-"2",
-"3",
-"1",
-"4"
-],
-"answer": "2",
-"discussion": "3/4 x 8/3 = 24/12 = 2."
-},
-{
-"id": "MTK-B01-M02-027",
-"type": "PG",
-"text": "Hitung hasil dari 0,02 x 0,03 =...",
-"options": [
-"0,0006",
-"0,006",
-"0,06",
-"0,6"
-],
-"answer": "0,0006",
-"discussion": "2 x 3 = 6. Ada 4 angka di belakang koma, hasilnya 0,0006."
-},
-{
-"id": "MTK-B01-M02-028",
-"type": "PG",
-"text": "Berapa hasil dari 5/6 : 5/12 =...",
-"options": [
-"2",
-"1/2",
-"25/72",
-"1"
-],
-"answer": "2",
-"discussion": "5/6 x 12/5 = 60/30 = 2."
-},
-{
-"id": "MTK-B01-M02-029",
-"type": "PG",
-"text": "Hasil dari 10 : 0,25 adalah...",
-"options": [
-"40",
-"4",
-"0,4",
-"400"
-],
-"answer": "40",
-"discussion": "10 : 1/4 = 10 x 4 = 40."
-},
-{
-"id": "MTK-B01-M02-030",
-"type": "PG",
-"text": "Sebuah tali panjangnya 3 1/3 meter, dipotong menjadi 5 bagian sama panjang. Berapa meter panjang setiap potongan tali?",
-"options": [
-"2/3 meter",
-"3/5 meter",
-"1/3 meter",
-"5/3 meter"
-],
-"answer": "2/3 meter",
-"discussion": "10/3 : 5 = 10/3 x 1/5 = 10/15 = 2/3 meter."
-},
-{
-"id": "MTK-B01-M03-001",
-"type": "PG",
-"text": "Hasil dari 1/2 x 2/3 x 3/4 x 4/5 =...",
-"options": [
-"1/5",
-"2/5",
-"3/5",
-"4/5"
-],
-"answer": "1/5",
-"discussion": "Pembilang dan penyebut saling mencoret, menyisakan 1/5."
-},
-{
-"id": "MTK-B01-M03-002",
-"type": "PG",
-"text": "Hitung nilai dari 2,25 : 0,5 =...",
-"options": [
-"4,5",
-"0,45",
-"45",
-"0,045"
-],
-"answer": "4,5",
-"discussion": "2,25 : 0,5 = 2,25 : 0,50 = 225 : 50 = 4,5."
-},
-{
-"id": "MTK-B01-M03-003",
-"type": "PG",
-"text": "Berapa hasil dari 1 3/4 : 7/8 =...",
-"options": [
-"2",
-"1/2",
-"4",
-"8"
-],
-"answer": "2",
-"discussion": "7/4 x 8/7 = 56/28 = 2."
-},
-{
-"id": "MTK-B01-M03-004",
-"type": "PG",
-"text": "Hasil dari 0,6 x 0,7 adalah...",
-"options": [
-"0,42",
-"4,2",
-"0,042",
-"42"
-],
-"answer": "0,42",
-"discussion": "6 x 7 = 42. Ada 2 angka di belakang koma, hasilnya 0,42."
-},
-{
-"id": "MTK-B01-M03-005",
-"type": "PG",
-"text": "Hitung hasil dari 8 : 1/2 =...",
-"options": [
-"16",
-"4",
-"2",
-"1"
-],
-"answer": "16",
-"discussion": "8 x 2/1 = 16."
-},
-{
-"id": "MTK-B01-M03-006",
-"type": "PG",
-"text": "Berapa hasil dari 3/10 x 5/6 =...",
-"options": [
-"1/4",
-"1/2",
-"3/4",
-"2/5"
-],
-"answer": "1/4",
-"discussion": "15/60 = 1/4."
-},
-{
-"id": "MTK-B01-M03-007",
-"type": "PG",
-"text": "Hasil dari 4,8 : 1,2 =...",
-"options": [
-"4",
-"0,4",
-"40",
-"48"
-],
-"answer": "4",
-"discussion": "48 : 12 = 4."
-},
-{
-"id": "MTK-B01-M03-008",
-"type": "PG",
-"text": "Hitung nilai dari 2/5 : 4/5 =...",
-"options": [
-"1/2",
-"2",
-"8/25",
-"5/2"
-],
-"answer": "1/2",
-"discussion": "2/5 x 5/4 = 10/20 = 1/2."
-},
-{
-"id": "MTK-B01-M03-009",
-"type": "PG",
-"text": "Hasil dari 1,1 x 0,2 =...",
-"options": [
-"0,22",
-"2,2",
-"0,022",
-"22"
-],
-"answer": "0,22",
-"discussion": "11 x 2 = 22. Ada 2 angka di belakang koma, hasilnya 0,22."
-},
-{
-"id": "MTK-B01-M03-010",
-"type": "PG",
-"text": "Berapa hasil dari 9/10 : 3/5 =...",
-"options": [
-"3/2",
-"2/3",
-"27/50",
-"3/5"
-],
-"answer": "3/2",
-"discussion": "9/10 x 5/3 = 45/30 = 3/2."
-},
-{
-"id": "MTK-B01-M03-011",
-"type": "PG",
-"text": "Ibu membeli 1,5 kg gula. Harga 1 kg gula Rp12.000. Berapa rupiah yang harus dibayar ibu?",
-"options": [
-"Rp18.000",
-"Rp20.000",
-"Rp16.000",
-"Rp24.000"
-],
-"answer": "Rp18.000",
-"discussion": "1,5 x 12.000 = 18.000."
-},
-{
-"id": "MTK-B01-M03-012",
-"type": "PG",
-"text": "Hasil dari 3/8 x 4 =...",
-"options": [
-"3/2",
-"12/8",
-"1 1/2",
-"Semua benar"
-],
-"answer": "Semua benar",
-"discussion": "3 x 4 / 8 = 12/8 = 3/2 = 1 1/2. Semua opsi benar."
-},
-{
-"id": "MTK-B01-M03-013",
-"type": "PG",
-"text": "Hitung hasil dari 0,4 x 0,25 =...",
-"options": [
-"0,1",
-"0,01",
-"1,0",
-"0,001"
-],
-"answer": "0,1",
-"discussion": "4 x 25 = 100. Ada 3 angka di belakang koma, hasilnya 0,100 atau 0,1."
-},
-{
-"id": "MTK-B01-M03-014",
-"type": "PG",
-"text": "Berapa hasil dari 7/9 : 14/27 =...",
-"options": [
-"3/2",
-"2/3",
-"98/243",
-"1/2"
-],
-"answer": "3/2",
-"discussion": "7/9 x 27/14 = 189/126 = 3/2."
-},
-{
-"id": "MTK-B01-M03-015",
-"type": "PG",
-"text": "Hasil dari 5,6 : 0,8 =...",
-"options": [
-"7",
-"0,7",
-"70",
-"0,07"
-],
-"answer": "7",
-"discussion": "56 : 8 = 7."
-},
-{
-"id": "MTK-B01-M03-016",
-"type": "PG",
-"text": "Hitung nilai dari 2 1/3 x 3/7 =...",
-"options": [
-"1",
-"2",
-"3/7",
-"7/3"
-],
-"answer": "1",
-"discussion": "7/3 x 3/7 = 21/21 = 1."
-},
-{
-"id": "MTK-B01-M03-017",
-"type": "PG",
-"text": "Berapa hasil dari 0,04 x 5 =...",
-"options": [
-"0,2",
-"0,02",
-"2,0",
-"0,002"
-],
-"answer": "0,2",
-"discussion": "4 x 5 = 20. Ada 2 angka di belakang koma, hasilnya 0,20 atau 0,2."
-},
-{
-"id": "MTK-B01-M03-018",
-"type": "PG",
-"text": "Hasil dari 3/4 : 9/16 =...",
-"options": [
-"4/3",
-"3/4",
-"27/64",
-"1"
-],
-"answer": "4/3",
-"discussion": "3/4 x 16/9 = 48/36 = 4/3."
-},
-{
-"id": "MTK-B01-M03-019",
-"type": "PG",
-"text": "Hitung hasil dari 3,5 : 0,7 =...",
-"options": [
-"5",
-"0,5",
-"50",
-"0,05"
-],
-"answer": "5",
-"discussion": "35 : 7 = 5."
-},
-{
-"id": "MTK-B01-M03-020",
-"type": "PG",
-"text": "Berapa hasil dari 2/7 x 14/15 =...",
-"options": [
-"4/15",
-"15/4",
-"28/105",
-"2/3"
-],
-"answer": "4/15",
-"discussion": "2/7 x 14/15 = 28/105. Sederhanakan dibagi 7 menjadi 4/15."
-},
-{
-"id": "MTK-B01-M03-021",
-"type": "PG",
-"text": "Hasil dari 1/4 : 1/8 =...",
-"options": [
-"2",
-"1/2",
-"8/4",
-"4"
-],
-"answer": "2",
-"discussion": "1/4 x 8/1 = 8/4 = 2."
-},
-{
-"id": "MTK-B01-M03-022",
-"type": "PG",
-"text": "Hitung nilai dari 0,16 : 0,4 =...",
-"options": [
-"0,4",
-"4",
-"0,04",
-"40"
-],
-"answer": "0,4",
-"discussion": "16 : 40 = 0,4."
-},
-{
-"id": "MTK-B01-M03-023",
-"type": "PG",
-"text": "Berapa hasil dari 5/12 x 3/10 =...",
-"options": [
-"1/8",
-"8/1",
-"15/120",
-"1/4"
-],
-"answer": "1/8",
-"discussion": "15/120 disederhanakan dibagi 15 menjadi 1/8."
-},
-{
-"id": "MTK-B01-M03-024",
-"type": "PG",
-"text": "Hasil dari 2 1/4 : 3/4 =...",
-"options": [
-"3",
-"1/3",
-"9/3",
-"2"
-],
-"answer": "3",
-"discussion": "9/4 x 4/3 = 36/12 = 3."
-},
-{
-"id": "MTK-B01-M03-025",
-"type": "PG",
-"text": "Hitung hasil dari 0,9 x 0,9 =...",
-"options": [
-"0,81",
-"8,1",
-"0,081",
-"81"
-],
-"answer": "0,81",
-"discussion": "9 x 9 = 81. Ada 2 angka di belakang koma, hasilnya 0,81."
-},
-{
-"id": "MTK-B01-M03-026",
-"type": "PG",
-"text": "Berapa hasil dari 4/5 : 8/15 =...",
-"options": [
-"3/2",
-"2/3",
-"32/75",
-"1"
-],
-"answer": "3/2",
-"discussion": "4/5 x 15/8 = 60/40 = 3/2."
-},
-{
-"id": "MTK-B01-M03-027",
-"type": "PG",
-"text": "Hasil dari 7,2 : 0,9 =...",
-"options": [
-"8",
-"0,8",
-"80",
-"0,08"
-],
-"answer": "8",
-"discussion": "72 : 9 = 8."
-},
-{
-"id": "MTK-B01-M03-028",
-"type": "PG",
-"text": "Hitung nilai dari 3/7 x 2/3 =...",
-"options": [
-"2/7",
-"6/21",
-"Opsi A dan B benar",
-"7/2"
-],
-"answer": "Opsi A dan B benar",
-"discussion": "3/7 x 2/3 = 6/21. Jika disederhanakan dibagi 3 menjadi 2/7. Jadi opsi A dan B sama-sama benar."
-},
-{
-"id": "MTK-B01-M03-029",
-"type": "PG",
-"text": "Berapa hasil dari 1,25 x 4 =...",
-"options": [
-"5",
-"0,5",
-"50",
-"0,05"
-],
-"answer": "5",
-"discussion": "125 x 4 = 500. Ada 2 angka di belakang koma, hasilnya 5,00 atau 5."
-},
-{
-"id": "MTK-B01-M03-030",
-"type": "PG",
-"text": "Hasil dari 5/6 : 10/12 =...",
-"options": [
-"1",
-"2",
-"1/2",
-"50/72"
-],
-"answer": "1",
-"discussion": "5/6 x 12/10 = 60/60 = 1."
-}
-]
-}
-]
+  "mapel": "MTK",
+  "bab": "B01",
+  "judul_bab": "Pecahan dan Desimal",
+  "bank_soal": [
+    {
+      "id": "MTK-B01-M01-001",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-001)</span> Hasil pembagian pecahan $\\frac{3}{4} : 3$ adalah...",
+      "options": [
+        "A. $\\frac{1}{4}$",
+        "B. $\\frac{3}{12}$",
+        "C. $\\frac{9}{4}$",
+        "D. $\\frac{1}{3}$"
+      ],
+      "answer": "A",
+      "explanation": "$\\frac{3}{4} : 3 = \\frac{3}{4} \\times \\frac{1}{3} = \\frac{3}{12} = \\frac{1}{4}$."
+    },
+    {
+      "id": "MTK-B01-M01-002",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-002)</span> Ibu mempunyai $\\frac{4}{5}$ meter kain yang akan dipotong menjadi 4 bagian sama panjang. Panjang setiap potongan kain adalah... meter.",
+      "options": [
+        "A. $\\frac{1}{4}$",
+        "B. $\\frac{1}{5}$",
+        "C. $\\frac{4}{20}$",
+        "D. $\\frac{16}{5}$"
+      ],
+      "answer": "B",
+      "explanation": "$\\frac{4}{5} : 4 = \\frac{4}{5} \\times \\frac{1}{4} = \\frac{4}{20} = \\frac{1}{5}$ meter."
+    },
+    {
+      "id": "MTK-B01-M01-003",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-003)</span> Hasil dari $\\frac{2}{3} : 4$ adalah...",
+      "options": [
+        "A. $\\frac{8}{3}$",
+        "B. $\\frac{1}{3}$",
+        "C. $\\frac{1}{6}$",
+        "D. $\\frac{2}{7}$"
+      ],
+      "answer": "C",
+      "explanation": "$\\frac{2}{3} : 4 = \\frac{2}{3} \\times \\frac{1}{4} = \\frac{2}{12} = \\frac{1}{6}$."
+    },
+    {
+      "id": "MTK-B01-M01-004",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-004)</span> $\\frac{5}{6}$ liter sirup dituangkan secara merata ke dalam 5 gelas. Isi sirup dalam setiap gelas adalah... liter.",
+      "options": [
+        "A. $\\frac{1}{5}$",
+        "B. $\\frac{1}{6}$",
+        "C. $\\frac{25}{6}$",
+        "D. $\\frac{5}{30}$"
+      ],
+      "answer": "B",
+      "explanation": "$\\frac{5}{6} : 5 = \\frac{5}{6} \\times \\frac{1}{5} = \\frac{5}{30} = \\frac{1}{6}$ liter."
+    },
+    {
+      "id": "MTK-B01-M01-005",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-005)</span> Pak Budi memiliki tanah seluas $\\frac{7}{8}$ hektar yang dibagi rata kepada 7 orang anaknya. Luas tanah yang diterima masing-masing anak adalah... hektar.",
+      "options": [
+        "A. $\\frac{1}{7}$",
+        "B. $\\frac{1}{8}$",
+        "C. $\\frac{49}{8}$",
+        "D. $\\frac{7}{56}$"
+      ],
+      "answer": "B",
+      "explanation": "$\\frac{7}{8} : 7 = \\frac{7}{8} \\times \\frac{1}{7} = \\frac{7}{56} = \\frac{1}{8}$ hektar."
+    },
+    {
+      "id": "MTK-B01-M01-006",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-006)</span> Nilai dari $\\frac{3}{5} : 6$ adalah...",
+      "options": [
+        "A. $\\frac{1}{10}$",
+        "B. $\\frac{3}{10}$",
+        "C. $\\frac{18}{5}$",
+        "D. $\\frac{1}{5}$"
+      ],
+      "answer": "A",
+      "explanation": "$\\frac{3}{5} : 6 = \\frac{3}{5} \\times \\frac{1}{6} = \\frac{3}{30} = \\frac{1}{10}$."
+    },
+    {
+      "id": "MTK-B01-M01-007",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-007)</span> Seutas kawat sepanjang $\\frac{9}{10}$ meter dipotong menjadi 3 bagian sama panjang. Panjang tiap bagian kawat adalah... meter.",
+      "options": [
+        "A. $\\frac{27}{10}$",
+        "B. $\\frac{3}{10}$",
+        "C. $\\frac{1}{10}$",
+        "D. $\\frac{3}{30}$"
+      ],
+      "answer": "B",
+      "explanation": "$\\frac{9}{10} : 3 = \\frac{9}{10} \\times \\frac{1}{3} = \\frac{9}{30} = \\frac{3}{10}$ meter."
+    },
+    {
+      "id": "MTK-B01-M01-008",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-008)</span> Hasil operasi pembagian $\\frac{4}{7} : 2$ adalah...",
+      "options": [
+        "A. $\\frac{8}{7}$",
+        "B. $\\frac{2}{14}$",
+        "C. $\\frac{2}{7}$",
+        "D. $\\frac{4}{14}$"
+      ],
+      "answer": "C",
+      "explanation": "$\\frac{4}{7} : 2 = \\frac{4}{7} \\times \\frac{1}{2} = \\frac{4}{14} = \\frac{2}{7}$."
+    },
+    {
+      "id": "MTK-B01-M01-009",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-009)</span> Sebuah kue dipotong menjadi beberapa bagian sehingga tersisa $\\frac{3}{4}$ bagian. Kue sisa tersebut dibagikan kepada 6 orang siswa sama banyak. Bagian kue yang didapat setiap siswa adalah...",
+      "options": [
+        "A. $\\frac{1}{8}$",
+        "B. $\\frac{1}{6}$",
+        "C. $\\frac{18}{4}$",
+        "D. $\\frac{3}{24}$"
+      ],
+      "answer": "A",
+      "explanation": "$\\frac{3}{4} : 6 = \\frac{3}{4} \\times \\frac{1}{6} = \\frac{3}{24} = \\frac{1}{8}$."
+    },
+    {
+      "id": "MTK-B01-M01-010",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-010)</span> Hasil dari $\\frac{8}{9} : 4$ adalah...",
+      "options": [
+        "A. $\\frac{32}{9}$",
+        "B. $\\frac{4}{9}$",
+        "C. $\\frac{2}{9}$",
+        "D. $\\frac{1}{9}$"
+      ],
+      "answer": "C",
+      "explanation": "$\\frac{8}{9} : 4 = \\frac{8}{9} \\times \\frac{1}{4} = \\frac{8}{36} = \\frac{2}{9}$."
+    },
+    {
+      "id": "MTK-B01-M01-011",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-011)</span> Ibu membeli tepung sebanyak $\\frac{5}{2}$ kg. Tepung tersebut dimasukkan ke dalam 5 kantong plastik sama banyak. Berat tepung pada tiap kantong adalah... kg.",
+      "options": [
+        "A. $\\frac{1}{2}$",
+        "B. $\\frac{1}{5}$",
+        "C. $\\frac{25}{2}$",
+        "D. $\\frac{5}{10}$"
+      ],
+      "answer": "A",
+      "explanation": "$\\frac{5}{2} : 5 = \\frac{5}{2} \\times \\frac{1}{5} = \\frac{5}{10} = \\frac{1}{2}$ kg."
+    },
+    {
+      "id": "MTK-B01-M01-012",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-012)</span> Bentuk sederhana dari $\\frac{6}{11} : 3$ adalah...",
+      "options": [
+        "A. $\\frac{18}{11}$",
+        "B. $\\frac{2}{11}$",
+        "C. $\\frac{3}{11}$",
+        "D. $\\frac{6}{33}$"
+      ],
+      "answer": "B",
+      "explanation": "$\\frac{6}{11} : 3 = \\frac{6}{11} \\times \\frac{1}{3} = \\frac{6}{33} = \\frac{2}{11}$."
+    },
+    {
+      "id": "MTK-B01-M01-013",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-013)</span> Pita sepanjang $\\frac{12}{5}$ meter dipotong menjadi 4 bagian sama panjang. Panjang satu bagian pita adalah... meter.",
+      "options": [
+        "A. $\\frac{3}{5}$",
+        "B. $\\frac{48}{5}$",
+        "C. $\\frac{12}{20}$",
+        "D. $\\frac{4}{5}$"
+      ],
+      "answer": "A",
+      "explanation": "$\\frac{12}{5} : 4 = \\frac{12}{5} \\times \\frac{1}{4} = \\frac{12}{20} = \\frac{3}{5}$ meter."
+    },
+    {
+      "id": "MTK-B01-M01-014",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-014)</span> Bentuk desimal dari pecahan $\\frac{3}{5}$ adalah...",
+      "options": [
+        "A. 0,35",
+        "B. 0,6",
+        "C. 0,53",
+        "D. 0,75"
+      ],
+      "answer": "B",
+      "explanation": "$\\frac{3}{5} = \\frac{3 \\times 2}{5 \\times 2} = \\frac{6}{10} = 0,6$."
+    },
+    {
+      "id": "MTK-B01-M01-015",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-015)</span> Bentuk desimal dari $\\frac{7}{20}$ adalah...",
+      "options": [
+        "A. 0,7",
+        "B. 0,35",
+        "C. 0,27",
+        "D. 0,14"
+      ],
+      "answer": "B",
+      "explanation": "$\\frac{7}{20} = \\frac{7 \\times 5}{20 \\times 5} = \\frac{35}{100} = 0,35$."
+    },
+    {
+      "id": "MTK-B01-M01-016",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-016)</span> Pecahan biasa paling sederhana dari bilangan desimal 0,45 adalah...",
+      "options": [
+        "A. $\\frac{45}{100}$",
+        "B. $\\frac{9}{20}$",
+        "C. $\\frac{4}{5}$",
+        "D. $\\frac{9}{10}$"
+      ],
+      "answer": "B",
+      "explanation": "$0,45 = \\frac{45}{100} = \\frac{45 : 5}{100 : 5} = \\frac{9}{20}$."
+    },
+    {
+      "id": "MTK-B01-M01-017",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-017)</span> Bentuk desimal dari pecahan $\\frac{5}{8}$ adalah...",
+      "options": [
+        "A. 0,625",
+        "B. 0,58",
+        "C. 0,85",
+        "D. 0,375"
+      ],
+      "answer": "A",
+      "explanation": "$\\frac{5}{8} = 5 : 8 = 0,625$ (atau $\\frac{5 \\times 125}{8 \\times 125} = \\frac{625}{1000} = 0,625$)."
+    },
+    {
+      "id": "MTK-B01-M01-018",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-018)</span> Pecahan biasa dari 0,125 adalah...",
+      "options": [
+        "A. $\\frac{1}{4}$",
+        "B. $\\frac{1}{8}$",
+        "C. $\\frac{1}{5}$",
+        "D. $\\frac{3}{8}$"
+      ],
+      "answer": "B",
+      "explanation": "$0,125 = \\frac{125}{1000} = \\frac{125 : 125}{1000 : 125} = \\frac{1}{8}$."
+    },
+    {
+      "id": "MTK-B01-M01-019",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-019)</span> Bentuk desimal dari $\\frac{3}{4}$ adalah...",
+      "options": [
+        "A. 0,34",
+        "B. 0,43",
+        "C. 0,75",
+        "D. 0,80"
+      ],
+      "answer": "C",
+      "explanation": "$\\frac{3}{4} = \\frac{3 \\times 25}{4 \\times 25} = \\frac{75}{100} = 0,75$."
+    },
+    {
+      "id": "MTK-B01-M01-020",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-020)</span> Pecahan paling sederhana dari 0,8 adalah...",
+      "options": [
+        "A. $\\frac{8}{10}$",
+        "B. $\\frac{4}{5}$",
+        "C. $\\frac{2}{5}$",
+        "D. $\\frac{3}{4}$"
+      ],
+      "answer": "B",
+      "explanation": "$0,8 = \\frac{8}{10} = \\frac{4}{5}$."
+    },
+    {
+      "id": "MTK-B01-M01-021",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-021)</span> Bentuk desimal dari $\\frac{9}{25}$ adalah...",
+      "options": [
+        "A. 0,36",
+        "B. 0,925",
+        "C. 0,45",
+        "D. 0,27"
+      ],
+      "answer": "A",
+      "explanation": "$\\frac{9}{25} = \\frac{9 \\times 4}{25 \\times 4} = \\frac{36}{100} = 0,36$."
+    },
+    {
+      "id": "MTK-B01-M01-022",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-022)</span> Ubahlah desimal 0,375 menjadi pecahan biasa paling sederhana!",
+      "options": [
+        "A. $\\frac{3}{8}$",
+        "B. $\\frac{3}{4}$",
+        "C. $\\frac{37}{100}$",
+        "D. $\\frac{3}{5}$"
+      ],
+      "answer": "A",
+      "explanation": "$0,375 = \\frac{375}{1000} = \\frac{375 : 125}{1000 : 125} = \\frac{3}{8}$."
+    },
+    {
+      "id": "MTK-B01-M01-023",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-023)</span> Bentuk desimal dari $\\frac{1}{5}$ adalah...",
+      "options": [
+        "A. 0,15",
+        "B. 0,2",
+        "C. 0,5",
+        "D. 0,25"
+      ],
+      "answer": "B",
+      "explanation": "$\\frac{1}{5} = \\frac{1 \\times 2}{5 \\times 2} = \\frac{2}{10} = 0,2$."
+    },
+    {
+      "id": "MTK-B01-M01-024",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-024)</span> Pecahan biasa paling sederhana dari 0,04 adalah...",
+      "options": [
+        "A. $\\frac{4}{10}$",
+        "B. $\\frac{1}{25}$",
+        "C. $\\frac{2}{50}$",
+        "D. $\\frac{4}{100}$"
+      ],
+      "answer": "B",
+      "explanation": "$0,04 = \\frac{4}{100} = \\frac{4 : 4}{100 : 4} = \\frac{1}{25}$."
+    },
+    {
+      "id": "MTK-B01-M01-025",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-025)</span> Bentuk desimal dari $\\frac{11}{50}$ adalah...",
+      "options": [
+        "A. 0,11",
+        "B. 0,22",
+        "C. 0,55",
+        "D. 0,1150"
+      ],
+      "answer": "B",
+      "explanation": "$\\frac{11}{50} = \\frac{11 \\times 2}{50 \\times 2} = \\frac{22}{100} = 0,22$."
+    },
+    {
+      "id": "MTK-B01-M01-026",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-026)</span> Pecahan biasa dari 0,65 paling sederhana adalah...",
+      "options": [
+        "A. $\\frac{65}{100}$",
+        "B. $\\frac{13}{20}$",
+        "C. $\\frac{13}{50}$",
+        "D. $\\frac{7}{10}$"
+      ],
+      "answer": "B",
+      "explanation": "$0,65 = \\frac{65}{100} = \\frac{65 : 5}{100 : 5} = \\frac{13}{20}$."
+    },
+    {
+      "id": "MTK-B01-M01-027",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-027)</span> Tanda perbandingan yang tepat untuk mengisi $0,45 \\dots 0,5$ adalah...",
+      "options": [
+        "A. $>$",
+        "B. $<$",
+        "C. $=$",
+        "D. $\\ge$"
+      ],
+      "answer": "B",
+      "explanation": "0,45 disandingkan dengan 0,50. Karena $45 < 50$, maka $0,45 < 0,5$."
+    },
+    {
+      "id": "MTK-B01-M01-028",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-028)</span> Tanda yang tepat untuk $0,375 \\dots 0,38$ adalah...",
+      "options": [
+        "A. $>$",
+        "B. $<$",
+        "C. $=$",
+        "D. $+$"
+      ],
+      "answer": "B",
+      "explanation": "0,375 disandingkan dengan 0,380. Karena $375 < 380$, maka $0,375 < 0,38$."
+    },
+    {
+      "id": "MTK-B01-M01-029",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-029)</span> Tanda yang tepat untuk membandingkan $0,82 \\dots 0,809$ adalah...",
+      "options": [
+        "A. $<$",
+        "B. $>$",
+        "C. $=$",
+        "D. $\\le$"
+      ],
+      "answer": "B",
+      "explanation": "0,820 disandingkan dengan 0,809. Karena $820 > 809$, maka $0,82 > 0,809$."
+    },
+    {
+      "id": "MTK-B01-M01-030",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-030)</span> Pernyataan perbandingan bilangan desimal berikut yang BENAR adalah...",
+      "options": [
+        "A. $0,6 > 0,65$",
+        "B. $0,25 < 0,205$",
+        "C. $0,7 > 0,699$",
+        "D. $0,125 > 0,3$"
+      ],
+      "answer": "C",
+      "explanation": "$0,700 > 0,699$ adalah benar karena 700 lebih besar dari 699."
+    },
+    {
+      "id": "MTK-B01-M02-031",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-031)</span> Di antara bilangan desimal berikut, manakah yang nilainya paling besar?",
+      "options": [
+        "A. 0,4",
+        "B. 0,405",
+        "C. 0,045",
+        "D. 0,45"
+      ],
+      "answer": "D",
+      "explanation": "Samakan angka di belakang koma: 0,400 ; 0,405 ; 0,045 ; 0,450. Nilai terbesar adalah 0,450 (0,45)."
+    },
+    {
+      "id": "MTK-B01-M02-032",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-032)</span> Di antara bilangan desimal berikut, manakah yang nilainya paling kecil?",
+      "options": [
+        "A. 0,31",
+        "B. 0,103",
+        "C. 0,301",
+        "D. 0,13"
+      ],
+      "answer": "B",
+      "explanation": "Samakan 3 angka di belakang koma: 0,310 ; 0,103 ; 0,301 ; 0,130. Nilai terkecil adalah 0,103."
+    },
+    {
+      "id": "MTK-B01-M02-033",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-033)</span> Andi membawa gula 0,75 kg, Budi membawa 0,705 kg, dan Cici membawa 0,8 kg. Siapa yang membawa gula paling berat?",
+      "options": [
+        "A. Andi",
+        "B. Budi",
+        "C. Cici",
+        "D. Semua sama berat"
+      ],
+      "answer": "C",
+      "explanation": "Andi = 0,750 kg ; Budi = 0,705 kg ; Cici = 0,800 kg. Yang paling berat adalah Cici (0,800 kg)."
+    },
+    {
+      "id": "MTK-B01-M02-034",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-034)</span> Isi botol A adalah 0,65 liter, botol B 0,605 liter, dan botol C 0,7 liter. Urutan isi botol dari yang terbesar ke terkecil adalah...",
+      "options": [
+        "A. A, B, C",
+        "B. C, A, B",
+        "C. B, A, C",
+        "D. C, B, A"
+      ],
+      "answer": "B",
+      "explanation": "Botol C (0,700 liter) > Botol A (0,650 liter) > Botol B (0,605 liter). Urutan: C, A, B."
+    },
+    {
+      "id": "MTK-B01-M02-035",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-035)</span> Perbandingan antara 0,625 dengan pecahan $\\frac{5}{8}$ yang benar adalah...",
+      "options": [
+        "A. $0,625 > \\frac{5}{8}$",
+        "B. $0,625 < \\frac{5}{8}$",
+        "C. $0,625 = \\frac{5}{8}$",
+        "D. Tidak dapat dibandingkan"
+      ],
+      "answer": "C",
+      "explanation": "$\\frac{5}{8}$ jika diubah ke desimal adalah 0,625. Jadi $0,625 = \\frac{5}{8}$."
+    },
+    {
+      "id": "MTK-B01-M02-036",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-036)</span> Manakah dari bilangan berikut yang nilainya LEBIH BESAR dari 0,4?",
+      "options": [
+        "A. $\\frac{3}{10}$",
+        "B. 0,39",
+        "C. $\\frac{2}{5}$",
+        "D. 0,42"
+      ],
+      "answer": "D",
+      "explanation": "$0,4 = 0,40$. A: 0,30 ; B: 0,39 ; C: $\\frac{2}{5} = 0,40$ ; D: 0,42. Nilai yang lebih besar dari 0,40 adalah 0,42."
+    },
+    {
+      "id": "MTK-B01-M02-037",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-037)</span> Bilangan desimal yang terletak tepat di antara 0,3 dan 0,4 adalah...",
+      "options": [
+        "A. 0,35",
+        "B. 0,45",
+        "C. 0,25",
+        "D. 0,34"
+      ],
+      "answer": "A",
+      "explanation": "$0,3 = 0,30$ dan $0,4 = 0,40$. Nilai di tengah antara 0,30 dan 0,40 adalah 0,35."
+    },
+    {
+      "id": "MTK-B01-M02-038",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-038)</span> Jika $x = 0,7$ dan $y = 0,689$, maka hubungan yang tepat antara $x$ dan $y$ adalah...",
+      "options": [
+        "A. $x < y$",
+        "B. $x > y$",
+        "C. $x = y$",
+        "D. $x + y = 1$"
+      ],
+      "answer": "B",
+      "explanation": "$x = 0,700$ dan $y = 0,689$. Karena $700 > 689$, maka $x > y$."
+    },
+    {
+      "id": "MTK-B01-M02-039",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-039)</span> Urutan bilangan desimal berikut dari yang terkecil adalah: 0,6 ; 0,25 ; 0,375 ; 0,5.",
+      "options": [
+        "A. 0,25 ; 0,375 ; 0,5 ; 0,6",
+        "B. 0,6 ; 0,5 ; 0,375 ; 0,25",
+        "C. 0,25 ; 0,5 ; 0,375 ; 0,6",
+        "D. 0,375 ; 0,25 ; 0,5 ; 0,6"
+      ],
+      "answer": "A",
+      "explanation": "Disamakan formatnya: 0,600 ; 0,250 ; 0,375 ; 0,500. Urutan terkecil: 0,250 ; 0,375 ; 0,500 ; 0,600."
+    },
+    {
+      "id": "MTK-B01-M02-040",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-040)</span> Urutkan bilangan desimal berikut dari yang terbesar: 0,8 ; 0,75 ; 0,82 ; 0,705.",
+      "options": [
+        "A. 0,705 ; 0,75 ; 0,8 ; 0,82",
+        "B. 0,82 ; 0,8 ; 0,75 ; 0,705",
+        "C. 0,82 ; 0,75 ; 0,8 ; 0,705",
+        "D. 0,8 ; 0,82 ; 0,75 ; 0,705"
+      ],
+      "answer": "B",
+      "explanation": "Disamakan formatnya: 0,800 ; 0,750 ; 0,820 ; 0,705. Urutan terbesar: 0,820 ; 0,800 ; 0,750 ; 0,705."
+    },
+    {
+      "id": "MTK-B01-M02-041",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-041)</span> Ibu membeli $\\frac{3}{4}$ kg gula pasir. Gula tersebut dibagi rata ke dalam 3 kantong plastik. Setiap kantong plastik lalu digunakan 0,1 kg untuk membuat teh. Sisa gula di setiap kantong plastik adalah... kg.",
+      "options": [
+        "A. 0,15",
+        "B. 0,25",
+        "C. 0,35",
+        "D. 0,05"
+      ],
+      "answer": "A",
+      "explanation": "Isi 1 kantong = $\\frac{3}{4} : 3 = \\frac{1}{4}$ kg = $0,25$ kg.\nSisa gula tiap kantong = $0,25 - 0,10 = 0,15$ kg."
+    },
+    {
+      "id": "MTK-B01-M02-042",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-042)</span> Pak Doni memiliki kawat sepanjang $\\frac{9}{10}$ meter. Ia memotong kawat menjadi 3 bagian sama panjang. Jika 1 bagian kawat disambung dengan kawat lain sepanjang 0,45 meter, berapa panjang total kawat gabungan tersebut?",
+      "options": [
+        "A. 0,75 meter",
+        "B. 0,65 meter",
+        "C. 0,85 meter",
+        "D. 0,55 meter"
+      ],
+      "answer": "A",
+      "explanation": "1 bagian kawat = $\\frac{9}{10} : 3 = \\frac{3}{10}$ m = $0,3$ m.\nPanjang gabungan = $0,3\\text{ m} + 0,45\\text{ m} = 0,75$ meter."
+    },
+    {
+      "id": "MTK-B01-M02-043",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-043)</span> Terdapat 4 pelari lari cepat dengan catatan waktu: Pelari A (12,45 detik), Pelari B (12,05 detik), Pelari C (12,5 detik), dan Pelari D (12,405 detik). Pelari yang menjadi juara 1 (paling cepat/waktu paling sedikit) adalah...",
+      "options": [
+        "A. Pelari A",
+        "B. Pelari B",
+        "C. Pelari C",
+        "D. Pelari D"
+      ],
+      "answer": "B",
+      "explanation": "Samakan angka: A = 12,450 ; B = 12,050 ; C = 12,500 ; D = 12,405. Waktu terkecil/tercepat adalah B (12,050 detik)."
+    },
+    {
+      "id": "MTK-B01-M02-044",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-044)</span> Kebun Pak Ahmad seluas $\\frac{4}{5}$ hektar. Setengah ($\\frac{1}{2}$) dari kebun tersebut dibagi rata kepada 2 anaknya. Berapa hektar tanah yang diterima oleh masing-masing anak?",
+      "options": [
+        "A. $\\frac{1}{5}$ hektar",
+        "B. $\\frac{2}{5}$ hektar",
+        "C. $\\frac{1}{10}$ hektar",
+        "D. $\\frac{4}{10}$ hektar"
+      ],
+      "answer": "A",
+      "explanation": "Setengah bagian kebun = $\\frac{4}{5} \\times \\frac{1}{2} = \\frac{4}{10} = \\frac{2}{5}$ hektar.\nDibagi ke 2 anak = $\\frac{2}{5} : 2 = \\frac{2}{5} \\times \\frac{1}{2} = \\frac{1}{5}$ hektar."
+    },
+    {
+      "id": "MTK-B01-M02-045",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-045)</span> Dita meminum 0,35 liter air, Edo meminum $\\frac{3}{8}$ liter air, dan Fani meminum 0,3 liter air. Urutan anak dari yang meminum air TERBANYAK adalah...",
+      "options": [
+        "A. Edo, Dita, Fani",
+        "B. Dita, Edo, Fani",
+        "C. Fani, Dita, Edo",
+        "D. Edo, Fani, Dita"
+      ],
+      "answer": "A",
+      "explanation": "Edo = $\\frac{3}{8} = 0,375$ liter. Dita = 0,350 liter. Fani = 0,300 liter. Urutan terbesar: Edo (0,375) > Dita (0,350) > Fani (0,300)."
+    },
+    {
+      "id": "MTK-B01-M02-046",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-046)</span> Sebuah tangki berisi $\\frac{7}{2}$ liter minyak goreng. Minyak tersebut dikemas ke dalam 7 botol sama banyak. Jika harga 1 botol minyak adalah Rp 8.000, berapa harga 1 liter minyak tersebut?",
+      "options": [
+        "A. Rp 16.000",
+        "B. Rp 14.000",
+        "C. Rp 12.000",
+        "D. Rp 18.000"
+      ],
+      "answer": "A",
+      "explanation": "Isi 1 botol = $\\frac{7}{2} : 7 = \\frac{1}{2}$ liter.\nJika $\\frac{1}{2}$ liter harganya Rp 8.000, maka 1 liter harganya = $\\text{Rp } 8.000 \\times 2 = \\text{Rp } 16.000$."
+    },
+    {
+      "id": "MTK-B01-M02-047",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-047)</span> Di sebuah kelas, $\\frac{2}{5}$ bagian siswa menyukai basket, 0,35 bagian menyukai futsal, dan sisanya menyukai bulu tangkis. Olahraga apa yang paling sedikit disukai siswa?",
+      "options": [
+        "A. Basket",
+        "B. Futsal",
+        "C. Bulu Tangkis",
+        "D. Basket dan Futsal sama banyak"
+      ],
+      "answer": "C",
+      "explanation": "Basket = $\\frac{2}{5} = 0,40$ (40%). Futsal = 0,35 (35%). Bulu Tangkis = $1 - 0,40 - 0,35 = 0,25$ (25%). Olahraga paling sedikit disukai adalah Bulu Tangkis (25%)."
+    },
+    {
+      "id": "MTK-B01-M02-048",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-048)</span> Ibu membuat $\\frac{9}{4}$ liter jus jeruk. Jus disajikan dalam 5 gelas sama banyak. Berapa liter sisa jus yang ada di dalam wadah jika hanya 4 gelas yang dituangkan?",
+      "options": [
+        "A. $\\frac{9}{20}$ liter",
+        "B. $\\frac{9}{5}$ liter",
+        "C. $\\frac{1}{4}$ liter",
+        "D. $\\frac{3}{4}$ liter"
+      ],
+      "answer": "A",
+      "explanation": "Isi 1 gelas = $\\frac{9}{4} : 5 = \\frac{9}{20}$ liter.\nJika 4 gelas dituangkan dari total 5 gelas, maka sisa jus di wadah adalah 1 gelas = $\\frac{9}{20}$ liter."
+    },
+    {
+      "id": "MTK-B01-M02-049",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-049)</span> Berikut data berat buah: Apel 0,42 kg, Mangga $\\frac{3}{5}$ kg, Jeruk 0,55 kg, dan Buah Naga $\\frac{5}{8}$ kg. Urutan buah dari yang TERBERAT adalah...",
+      "options": [
+        "A. Buah Naga, Mangga, Jeruk, Apel",
+        "B. Mangga, Buah Naga, Jeruk, Apel",
+        "C. Buah Naga, Jeruk, Mangga, Apel",
+        "D. Mangga, Jeruk, Buah Naga, Apel"
+      ],
+      "answer": "A",
+      "explanation": "Mangga = $\\frac{3}{5} = 0,600$ kg. Buah Naga = $\\frac{5}{8} = 0,625$ kg. Jeruk = 0,550 kg. Apel = 0,420 kg. Urutan terberat: Buah Naga (0,625) > Mangga (0,600) > Jeruk (0,550) > Apel (0,420)."
+    },
+    {
+      "id": "MTK-B01-M02-050",
+      "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-050)</span> Pak Eko membawa $\\frac{12}{5}$ kg beras. Beras tersebut dibagi ke dalam 4 kantong sama berat. Jika Pak Eko memberikan 2 kantong beras kepada tetangganya, berapa kg (dalam bentuk desimal) total beras yang diberikan kepada tetangganya?",
+      "options": [
+        "A. 1,2 kg",
+        "B. 0,6 kg",
+        "C. 2,4 kg",
+        "D. 1,5 kg"
+      ],
+      "answer": "A",
+      "explanation": "Berat 1 kantong = $\\frac{12}{5} : 4 = \\frac{3}{5}$ kg = $0,6$ kg.\nBeras untuk tetangga (2 kantong) = $2 \\times 0,6\\text{ kg} = 1,2$ kg."
+    }
+  ]
 }
