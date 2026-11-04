@@ -48,4 +48,890 @@
           "discussion": "Kalikan atas dan bawah: $\\frac{5 \\times 4}{8 \\times 5} = \\frac{20}{40}$. Sederhanakan dengan membagi 20 pada pembilang dan penyebut, didapat $\\frac{1}{2}$."
         },
         {
-          "id": "MTK-B0
+          "id": "MTK-B01-M01-004",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-004)</span> Hasil dari perkalian $3 \\times \\frac{2}{5}$ adalah...",
+          "options": [
+            "$\\frac{5}{5}$",
+            "$\\frac{6}{5}$",
+            "$\\frac{6}{15}$",
+            "$\\frac{5}{15}$"
+          ],
+          "answer": "$\\frac{6}{5}$",
+          "discussion": "Bilangan bulat dikalikan dengan pembilang pecahan, penyebut tetap. Jadi, $\\frac{3 \\times 2}{5} = \\frac{6}{5}$ atau setara dengan $1 \\frac{1}{5}$."
+        },
+        {
+          "id": "MTK-B01-M01-005",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-005)</span> Hitung nilai dari $4 \\times \\frac{3}{8} =...$",
+          "options": [
+            "$\\frac{12}{8}$",
+            "$\\frac{3}{2}$",
+            "$1 \\frac{1}{2}$",
+            "Semua benar"
+          ],
+          "answer": "Semua benar",
+          "discussion": "$4 \\times \\frac{3}{8} = \\frac{12}{8}$. Jika disederhanakan dibagi 4 menjadi $\\frac{3}{2}$, dan diubah ke pecahan campuran menjadi $1 \\frac{1}{2}$. Jadi semua opsi bernilai benar."
+        },
+        {
+          "id": "MTK-B01-M01-006",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-006)</span> Hasil dari $\\frac{2}{3} \\times 9$ adalah...",
+          "options": [
+            "6",
+            "$\\frac{18}{3}$",
+            "6 dan $\\frac{18}{3}$ benar",
+            "$\\frac{2}{27}$"
+          ],
+          "answer": "6 dan $\\frac{18}{3}$ benar",
+          "discussion": "$\\frac{2}{3} \\times 9 = \\frac{2 \\times 9}{3} = \\frac{18}{3} = 6$. Karena $\\frac{18}{3}$ setara dengan 6, maka opsi C adalah jawaban yang tepat."
+        },
+        {
+          "id": "MTK-B01-M01-007",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-007)</span> Berapa hasil dari $1 \\frac{1}{2} \\times \\frac{2}{3}...$",
+          "options": [
+            "$\\frac{2}{6}$",
+            "1",
+            "$\\frac{3}{2}$",
+            "$2 \\frac{1}{2}$"
+          ],
+          "answer": "1",
+          "discussion": "Ubah pecahan campuran ke biasa: $1 \\frac{1}{2} = \\frac{3}{2}$. Lalu kalikan: $\\frac{3}{2} \\times \\frac{2}{3} = \\frac{6}{6} = 1$."
+        },
+        {
+          "id": "MTK-B01-M01-008",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-008)</span> Hasil dari perkalian $2 \\frac{1}{4} \\times 1 \\frac{1}{3}$ adalah...",
+          "options": [
+            "$2 \\frac{1}{12}$",
+            "3",
+            "$2 \\frac{4}{12}$",
+            "$\\frac{9}{4}$"
+          ],
+          "answer": "3",
+          "discussion": "Ubah ke pecahan biasa: $\\frac{9}{4} \\times \\frac{4}{3} = \\frac{36}{12} = 3$."
+        },
+        {
+          "id": "MTK-B01-M01-009",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-009)</span> Hitunglah $\\frac{3}{5} \\times 1 \\frac{2}{3} =...$",
+          "options": [
+            "$\\frac{3}{15}$",
+            "1",
+            "$\\frac{5}{3}$",
+            "$\\frac{3}{5}$"
+          ],
+          "answer": "1",
+          "discussion": "$\\frac{3}{5} \\times \\frac{5}{3} = \\frac{15}{15} = 1$."
+        },
+        {
+          "id": "MTK-B01-M01-010",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-010)</span> Hasil dari $0,2 \\times 0,3$ adalah...",
+          "options": [
+            "0,6",
+            "0,06",
+            "0,006",
+            "6,0"
+          ],
+          "answer": "0,06",
+          "discussion": "$2 \\times 3 = 6$. Karena ada 2 angka di belakang koma (0,2 dan 0,3), hasilnya menjadi 0,06."
+        },
+        {
+          "id": "MTK-B01-M01-011",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-011)</span> Berapa hasil dari $1,5 \\times 0,4...$",
+          "options": [
+            "0,6",
+            "6,0",
+            "0,06",
+            "60"
+          ],
+          "answer": "0,6",
+          "discussion": "$15 \\times 4 = 60$. Karena ada 2 angka di belakang koma (1,5 dan 0,4), hasilnya menjadi 0,60 atau 0,6."
+        },
+        {
+          "id": "MTK-B01-M01-012",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-012)</span> Hasil dari $0,25 \\times 0,4$ adalah...",
+          "options": [
+            "1,0",
+            "0,1",
+            "0,01",
+            "0,001"
+          ],
+          "answer": "0,1",
+          "discussion": "$25 \\times 4 = 100$. Terdapat 3 angka di belakang koma dari soal, sehingga menjadi 0,100 atau 0,1."
+        },
+        {
+          "id": "MTK-B01-M01-013",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-013)</span> Hitung hasil dari $2,5 \\times 1,2 =...$",
+          "options": [
+            "3,0",
+            "0,3",
+            "30",
+            "0,03"
+          ],
+          "answer": "3,0",
+          "discussion": "$25 \\times 12 = 300$. Terdapat 2 angka di belakang koma, sehingga menjadi 3,00 atau 3."
+        },
+        {
+          "id": "MTK-B01-M01-014",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-014)</span> Hasil dari $0,12 \\times 0,5$ adalah...",
+          "options": [
+            "0,6",
+            "0,06",
+            "0,006",
+            "6,0"
+          ],
+          "answer": "0,06",
+          "discussion": "$12 \\times 5 = 60$. Terdapat 3 angka di belakang koma, sehingga menjadi 0,060 atau 0,06."
+        },
+        {
+          "id": "MTK-B01-M01-015",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-015)</span> Berapa hasil dari $3 \\times 0,25...$",
+          "options": [
+            "0,75",
+            "7,5",
+            "0,075",
+            "75"
+          ],
+          "answer": "0,75",
+          "discussion": "Kalikan seperti biasa $3 \\times 25 = 75$. Karena ada 2 angka di belakang koma dari 0,25, hasilnya adalah 0,75."
+        },
+        {
+          "id": "MTK-B01-M01-016",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-016)</span> Hasil dari $1,2 \\times 5$ adalah...",
+          "options": [
+            "0,6",
+            "6,0",
+            "60",
+            "0,06"
+          ],
+          "answer": "6,0",
+          "discussion": "$12 \\times 5 = 60$. Karena ada 1 angka di belakang koma, hasilnya menjadi 6,0 atau 6."
+        },
+        {
+          "id": "MTK-B01-M01-017",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-017)</span> Hitung nilai dari $0,05 \\times 0,2 =...$",
+          "options": [
+            "0,1",
+            "0,01",
+            "0,001",
+            "1,0"
+          ],
+          "answer": "0,01",
+          "discussion": "$5 \\times 2 = 10$. Terdapat total 3 angka di belakang koma (2 angka dari 0,05 dan 1 angka dari 0,2), sehingga menjadi 0,010 atau 0,01."
+        },
+        {
+          "id": "MTK-B01-M01-018",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-018)</span> Hasil dari $1,1 \\times 1,1$ adalah...",
+          "options": [
+            "1,21",
+            "12,1",
+            "0,121",
+            "121"
+          ],
+          "answer": "1,21",
+          "discussion": "$11 \\times 11 = 121$. Terdapat 2 angka di belakang koma, hasilnya 1,21."
+        },
+        {
+          "id": "MTK-B01-M01-019",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-019)</span> Berapa hasil dari $0,8 \\times 0,5...$",
+          "options": [
+            "4,0",
+            "0,4",
+            "0,04",
+            "40"
+          ],
+          "answer": "0,4",
+          "discussion": "$8 \\times 5 = 40$. Ada 2 angka di belakang koma, hasilnya 0,40 atau 0,4."
+        },
+        {
+          "id": "MTK-B01-M01-020",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-020)</span> Hasil dari $\\frac{2}{3} \\div \\frac{1}{2}$ adalah...",
+          "options": [
+            "$\\frac{2}{6}$",
+            "$\\frac{3}{4}$",
+            "$\\frac{4}{3}$",
+            "$\\frac{6}{2}$"
+          ],
+          "answer": "$\\frac{4}{3}$",
+          "discussion": "Ubah bagi jadi kali dan balik pecahan kedua: $\\frac{2}{3} \\times \\frac{2}{1} = \\frac{4}{3}$."
+        },
+        {
+          "id": "MTK-B01-M01-021",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-021)</span> Hitung hasil dari $\\frac{3}{4} \\div \\frac{3}{8} =...$",
+          "options": [
+            "$\\frac{9}{32}$",
+            "2",
+            "$\\frac{1}{2}$",
+            "$\\frac{8}{4}$"
+          ],
+          "answer": "2",
+          "discussion": "$\\frac{3}{4} \\times \\frac{8}{3} = \\frac{24}{12} = 2$."
+        },
+        {
+          "id": "MTK-B01-M01-022",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-022)</span> Berapa hasil dari $\\frac{5}{6} \\div \\frac{2}{3} =...$",
+          "options": [
+            "$\\frac{10}{18}$",
+            "$\\frac{5}{4}$",
+            "$\\frac{4}{5}$",
+            "$\\frac{15}{12}$"
+          ],
+          "answer": "$\\frac{5}{4}$",
+          "discussion": "$\\frac{5}{6} \\times \\frac{3}{2} = \\frac{15}{12}$. Sederhanakan dibagi 3 menjadi $\\frac{5}{4}$."
+        },
+        {
+          "id": "MTK-B01-M01-023",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-023)</span> Hasil dari $\\frac{4}{5} \\div 2 =...$",
+          "options": [
+            "$\\frac{8}{5}$",
+            "$\\frac{2}{5}$",
+            "$\\frac{4}{10}$",
+            "$\\frac{2}{10}$"
+          ],
+          "answer": "$\\frac{2}{5}$",
+          "discussion": "$\\frac{4}{5} \\times \\frac{1}{2} = \\frac{4}{10} = \\frac{2}{5}$."
+        },
+        {
+          "id": "MTK-B01-M01-024",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-024)</span> Hitung nilai dari $3 \\div \\frac{1}{4} =...$",
+          "options": [
+            "$\\frac{3}{4}$",
+            "$\\frac{4}{3}$",
+            "12",
+            "7"
+          ],
+          "answer": "12",
+          "discussion": "$\\frac{3}{1} \\times \\frac{4}{1} = 12$."
+        },
+        {
+          "id": "MTK-B01-M01-025",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-025)</span> Hasil dari $2 \\frac{1}{2} \\div \\frac{1}{2} =...$",
+          "options": [
+            "$\\frac{5}{4}$",
+            "5",
+            "$\\frac{1}{5}$",
+            "$2 \\frac{1}{4}$"
+          ],
+          "answer": "5",
+          "discussion": "$\\frac{5}{2} \\times \\frac{2}{1} = \\frac{10}{2} = 5$."
+        },
+        {
+          "id": "MTK-B01-M01-026",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-026)</span> Berapa hasil dari $\\frac{3}{4} \\div 1 \\frac{1}{2} =...$",
+          "options": [
+            "$\\frac{9}{8}$",
+            "$\\frac{1}{2}$",
+            "2",
+            "$\\frac{3}{8}$"
+          ],
+          "answer": "$\\frac{1}{2}$",
+          "discussion": "$\\frac{3}{4} \\div \\frac{3}{2} = \\frac{3}{4} \\times \\frac{2}{3} = \\frac{6}{12} = \\frac{1}{2}$."
+        },
+        {
+          "id": "MTK-B01-M01-027",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-027)</span> Hitung hasil dari $1 \\frac{1}{3} \\div \\frac{2}{3} =...$",
+          "options": [
+            "2",
+            "$\\frac{8}{9}$",
+            "$\\frac{3}{2}$",
+            "$\\frac{4}{9}$"
+          ],
+          "answer": "2",
+          "discussion": "$\\frac{4}{3} \\times \\frac{3}{2} = \\frac{12}{6} = 2$."
+        },
+        {
+          "id": "MTK-B01-M01-028",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-028)</span> Hasil dari $\\frac{5}{8} \\div \\frac{5}{16} =...$",
+          "options": [
+            "$\\frac{25}{128}$",
+            "2",
+            "$\\frac{1}{2}$",
+            "$\\frac{8}{16}$"
+          ],
+          "answer": "2",
+          "discussion": "$\\frac{5}{8} \\times \\frac{16}{5} = \\frac{80}{40} = 2$."
+        },
+        {
+          "id": "MTK-B01-M01-029",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-029)</span> Berapa hasil dari $\\frac{7}{10} \\div \\frac{2}{5} =...$",
+          "options": [
+            "$\\frac{14}{50}$",
+            "$\\frac{7}{4}$",
+            "$\\frac{4}{7}$",
+            "$\\frac{35}{20}$"
+          ],
+          "answer": "$\\frac{7}{4}$",
+          "discussion": "$\\frac{7}{10} \\times \\frac{5}{2} = \\frac{35}{20}$. Sederhanakan dibagi 5 menjadi $\\frac{7}{4}$."
+        },
+        {
+          "id": "MTK-B01-M01-030",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m01-030)</span> Hasil dari $1,2 \\div 0,3$ adalah...",
+          "options": [
+            "4",
+            "0,4",
+            "40",
+            "0,04"
+          ],
+          "answer": "4",
+          "discussion": "Keduanya dikalikan 10 menjadi $12 \\div 3 = 4$."
+        },
+        {
+          "id": "MTK-B01-M02-001",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-001)</span> Hitung hasil dari $2,5 \\div 0,5 =...$",
+          "options": [
+            "5",
+            "0,5",
+            "50",
+            "0,05"
+          ],
+          "answer": "5",
+          "discussion": "Keduanya dikalikan 10 menjadi $25 \\div 5 = 5$."
+        },
+        {
+          "id": "MTK-B01-M02-002",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-002)</span> Berapa hasil dari $0,8 \\div 0,2 =...$",
+          "options": [
+            "4",
+            "0,4",
+            "40",
+            "0,04"
+          ],
+          "answer": "4",
+          "discussion": "Keduanya dikalikan 10 menjadi $8 \\div 2 = 4$."
+        },
+        {
+          "id": "MTK-B01-M02-003",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-003)</span> Hasil dari $0,75 \\div 0,25 =...$",
+          "options": [
+            "3",
+            "0,3",
+            "30",
+            "0,03"
+          ],
+          "answer": "3",
+          "discussion": "Keduanya dikalikan 100 menjadi $75 \\div 25 = 3$."
+        },
+        {
+          "id": "MTK-B01-M02-004",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-004)</span> Hitung nilai dari $3,6 \\div 1,2 =...$",
+          "options": [
+            "3",
+            "0,3",
+            "30",
+            "300"
+          ],
+          "answer": "3",
+          "discussion": "Keduanya dikalikan 10 menjadi $36 \\div 12 = 3$."
+        },
+        {
+          "id": "MTK-B01-M02-005",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-005)</span> Berapa hasil dari $0,09 \\div 0,3 =...$",
+          "options": [
+            "0,3",
+            "3",
+            "0,03",
+            "30"
+          ],
+          "answer": "0,3",
+          "discussion": "Keduanya dikalikan 100 menjadi $9 \\div 30 = 0,3$."
+        },
+        {
+          "id": "MTK-B01-M02-006",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-006)</span> Hasil dari $4,5 \\div 0,9 =...$",
+          "options": [
+            "5",
+            "0,5",
+            "50",
+            "0,05"
+          ],
+          "answer": "5",
+          "discussion": "Keduanya dikalikan 10 menjadi $45 \\div 9 = 5$."
+        },
+        {
+          "id": "MTK-B01-M02-007",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-007)</span> Hitung hasil dari $0,64 \\div 0,8 =...$",
+          "options": [
+            "0,8",
+            "8",
+            "0,08",
+            "80"
+          ],
+          "answer": "0,8",
+          "discussion": "Keduanya dikalikan 100 menjadi $64 \\div 80 = 0,8$."
+        },
+        {
+          "id": "MTK-B01-M02-008",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-008)</span> Berapa hasil dari $5 \\div 0,5 =...$",
+          "options": [
+            "10",
+            "1",
+            "0,1",
+            "100"
+          ],
+          "answer": "10",
+          "discussion": "5 dikalikan 10 menjadi 50, dan 0,5 dikalikan 10 menjadi 5. $50 \\div 5 = 10$."
+        },
+        {
+          "id": "MTK-B01-M02-009",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-009)</span> Hasil dari $0,2 \\div 0,04 =...$",
+          "options": [
+            "5",
+            "50",
+            "0,5",
+            "0,05"
+          ],
+          "answer": "5",
+          "discussion": "Keduanya dikalikan 100 menjadi $20 \\div 4 = 5$."
+        },
+        {
+          "id": "MTK-B01-M02-010",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-010)</span> Ibu mempunyai $\\frac{3}{4}$ liter minyak. Digunakan untuk memasak $\\frac{1}{3}$ bagian dari minyak tersebut. Berapa liter minyak yang digunakan?",
+          "options": [
+            "$\\frac{1}{4}$ liter",
+            "$\\frac{3}{7}$ liter",
+            "$\\frac{1}{2}$ liter",
+            "$\\frac{2}{3}$ liter"
+          ],
+          "answer": "$\\frac{1}{4}$ liter",
+          "discussion": "$\\frac{1}{3} \\times \\frac{3}{4} = \\frac{3}{12} = \\frac{1}{4}$ liter."
+        },
+        {
+          "id": "MTK-B01-M02-011",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-011)</span> Sebuah kebun berbentuk persegi panjang memiliki panjang $\\frac{5}{2}$ meter dan lebar $\\frac{4}{5}$ meter. Luas kebun tersebut adalah...",
+          "options": [
+            "2 meter persegi",
+            "$\\frac{9}{7}$ meter persegi",
+            "1 meter persegi",
+            "4 meter persegi"
+          ],
+          "answer": "2 meter persegi",
+          "discussion": "Luas = $p \\times l = \\frac{5}{2} \\times \\frac{4}{5} = \\frac{20}{10} = 2$ meter persegi."
+        },
+        {
+          "id": "MTK-B01-M02-012",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-012)</span> Ayah membeli $2 \\frac{1}{2}$ kg jeruk. Setiap 1 kg jeruk berisi 8 buah. Berapa perkiraan jumlah seluruh jeruk ayah?",
+          "options": [
+            "16 buah",
+            "20 buah",
+            "18 buah",
+            "24 buah"
+          ],
+          "answer": "20 buah",
+          "discussion": "$\\frac{5}{2} \\times 8 = \\frac{40}{2} = 20$ buah."
+        },
+        {
+          "id": "MTK-B01-M02-013",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-013)</span> Bibi mempunyai pita sepanjang $\\frac{3}{4}$ meter. Pita tersebut dipotong-potong menjadi bagian yang masing-masing panjangnya $\\frac{1}{4}$ meter. Berapa banyak potongan pita bibi?",
+          "options": [
+            "3 potongan",
+            "4 potongan",
+            "2 potongan",
+            "5 potongan"
+          ],
+          "answer": "3 potongan",
+          "discussion": "$\\frac{3}{4} \\div \\frac{1}{4} = \\frac{3}{4} \\times \\frac{4}{1} = \\frac{12}{4} = 3$ potongan."
+        },
+        {
+          "id": "MTK-B01-M02-014",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-014)</span> Sebuah wadah berisi $2 \\frac{1}{2}$ liter air akan dituang ke dalam botol-botol kecil berukuran $\\frac{1}{2}$ liter. Banyak botol yang dibutuhkan adalah...",
+          "options": [
+            "3 botol",
+            "5 botol",
+            "4 botol",
+            "6 botol"
+          ],
+          "answer": "5 botol",
+          "discussion": "$\\frac{5}{2} \\div \\frac{1}{2} = \\frac{5}{2} \\times \\frac{2}{1} = \\frac{10}{2} = 5$ botol."
+        },
+        {
+          "id": "MTK-B01-M02-015",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-015)</span> Jarak rumah Andi ke sekolah adalah 1,5 km. Jika Andi berjalan dengan kecepatan rata-rata 0,5 km per jam, berapa jam waktu yang ditempuh Andi?",
+          "options": [
+            "2 jam",
+            "3 jam",
+            "1,5 jam",
+            "0,5 jam"
+          ],
+          "answer": "3 jam",
+          "discussion": "Waktu = Jarak $\\div$ Kecepatan = $1,5 \\div 0,5 = 3$ jam."
+        },
+        {
+          "id": "MTK-B01-M02-016",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-016)</span> Harga 1 kg mangga adalah Rp15.500, perkalian dari 1,5 kg mangga adalah...",
+          "options": [
+            "Rp23.250",
+            "Rp22.500",
+            "Rp24.000",
+            "Rp23.500"
+          ],
+          "answer": "Rp23.250",
+          "discussion": "$1,5 \\times 15.500 = 23.250$."
+        },
+        {
+          "id": "MTK-B01-M02-017",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-017)</span> Sebuah tangki bensin berisi 12,5 liter. Setiap hari terpakai 2,5 liter. Berapa hari bensin tersebut habis?",
+          "options": [
+            "4 hari",
+            "5 hari",
+            "6 hari",
+            "7 hari"
+          ],
+          "answer": "5 hari",
+          "discussion": "$12,5 \\div 2,5 = 5$ hari."
+        },
+        {
+          "id": "MTK-B01-M02-018",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-018)</span> Ani memiliki pita 2 meter, dipakai untuk kado $\\frac{3}{4}$ meter. Sisa pita Ani adalah...",
+          "options": [
+            "$1 \\frac{1}{4}$ meter",
+            "$1 \\frac{1}{2}$ meter",
+            "$\\frac{5}{4}$ meter",
+            "Opsi A dan C benar"
+          ],
+          "answer": "Opsi A dan C benar",
+          "discussion": "$2 - \\frac{3}{4} = \\frac{8}{4} - \\frac{3}{4} = \\frac{5}{4} = 1 \\frac{1}{4}$ meter. Keduanya benar."
+        },
+        {
+          "id": "MTK-B01-M02-019",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-019)</span> Hasil dari $\\frac{2}{3} \\times \\frac{3}{4} \\times \\frac{4}{5}$ adalah...",
+          "options": [
+            "$\\frac{2}{5}$",
+            "$\\frac{3}{5}$",
+            "$\\frac{4}{5}$",
+            "$\\frac{1}{5}$"
+          ],
+          "answer": "$\\frac{2}{5}$",
+          "discussion": "$\\frac{2 \\times 3 \\times 4}{3 \\times 4 \\times 5} = \\frac{24}{60}$. Sederhanakan dibagi 12 menjadi $\\frac{2}{5}$."
+        },
+        {
+          "id": "MTK-B01-M02-020",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-020)</span> Hitunglah $1,25 \\times 0,8 =...$",
+          "options": [
+            "1,0",
+            "0,1",
+            "10",
+            "0,01"
+          ],
+          "answer": "1,0",
+          "discussion": "$125 \\times 8 = 1000$. Ada 3 angka di belakang koma, sehingga hasilnya 1,000 atau 1."
+        },
+        {
+          "id": "MTK-B01-M02-021",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-021)</span> Hasil dari $\\frac{3}{5} \\div \\frac{9}{10}$ adalah...",
+          "options": [
+            "$\\frac{2}{3}$",
+            "$\\frac{3}{2}$",
+            "$\\frac{27}{50}$",
+            "$\\frac{9}{15}$"
+          ],
+          "answer": "$\\frac{2}{3}$",
+          "discussion": "$\\frac{3}{5} \\times \\frac{10}{9} = \\frac{30}{45}$. Sederhanakan dibagi 15 menjadi $\\frac{2}{3}$."
+        },
+        {
+          "id": "MTK-B01-M02-022",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-022)</span> Berapa hasil dari $4 \\frac{1}{2} \\times \\frac{2}{9}...$",
+          "options": [
+            "1",
+            "2",
+            "$\\frac{1}{2}$",
+            "4"
+          ],
+          "answer": "1",
+          "discussion": "$\\frac{9}{2} \\times \\frac{2}{9} = \\frac{18}{18} = 1$."
+        },
+        {
+          "id": "MTK-B01-M02-023",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-023)</span> Hitung nilai dari $0,15 \\times 4 =...$",
+          "options": [
+            "0,6",
+            "0,06",
+            "6,0",
+            "0,006"
+          ],
+          "answer": "0,6",
+          "discussion": "$15 \\times 4 = 60$. Ada 2 angka di belakang koma, hasilnya 0,60 atau 0,6."
+        },
+        {
+          "id": "MTK-B01-M02-024",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-024)</span> Hasil dari $2,4 \\div 0,6$ adalah...",
+          "options": [
+            "4",
+            "0,4",
+            "40",
+            "0,04"
+          ],
+          "answer": "4",
+          "discussion": "Keduanya dikalikan 10 menjadi $24 \\div 6 = 4$."
+        },
+        {
+          "id": "MTK-B01-M02-025",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-025)</span> Berapa hasil dari $\\frac{7}{8} \\times \\frac{4}{7} =...$",
+          "options": [
+            "$\\frac{1}{2}$",
+            "$\\frac{28}{56}$",
+            "$\\frac{2}{3}$",
+            "$\\frac{1}{4}$"
+          ],
+          "answer": "$\\frac{1}{2}$",
+          "discussion": "$\\frac{7}{8} \\times \\frac{4}{7} = \\frac{28}{56} = \\frac{1}{2}$."
+        },
+        {
+          "id": "MTK-B01-M02-026",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-026)</span> Hasil dari $\\frac{3}{4} \\times 2 \\frac{2}{3}$ adalah...",
+          "options": [
+            "2",
+            "3",
+            "1",
+            "4"
+          ],
+          "answer": "2",
+          "discussion": "$\\frac{3}{4} \\times \\frac{8}{3} = \\frac{24}{12} = 2$."
+        },
+        {
+          "id": "MTK-B01-M02-027",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-027)</span> Hitung hasil dari $0,02 \\times 0,03 =...$",
+          "options": [
+            "0,0006",
+            "0,006",
+            "0,06",
+            "0,6"
+          ],
+          "answer": "0,0006",
+          "discussion": "$2 \\times 3 = 6$. Ada 4 angka di belakang koma, hasilnya 0,0006."
+        },
+        {
+          "id": "MTK-B01-M02-028",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-028)</span> Berapa hasil dari $\\frac{5}{6} \\div \\frac{5}{12} =...$",
+          "options": [
+            "2",
+            "$\\frac{1}{2}$",
+            "$\\frac{25}{72}$",
+            "1"
+          ],
+          "answer": "2",
+          "discussion": "$\\frac{5}{6} \\times \\frac{12}{5} = \\frac{60}{30} = 2$."
+        },
+        {
+          "id": "MTK-B01-M02-029",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-029)</span> Hasil dari $10 \\div 0,25$ adalah...",
+          "options": [
+            "40",
+            "4",
+            "0,4",
+            "400"
+          ],
+          "answer": "40",
+          "discussion": "$10 \\div \\frac{1}{4} = 10 \\times 4 = 40$."
+        },
+        {
+          "id": "MTK-B01-M02-030",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m02-030)</span> Sebuah tali panjangnya $3 \\frac{1}{3}$ meter, dipotong menjadi 5 bagian sama panjang. Berapa meter panjang setiap potongan tali?",
+          "options": [
+            "$\\frac{2}{3}$ meter",
+            "$\\frac{3}{5}$ meter",
+            "$\\frac{1}{3}$ meter",
+            "$\\frac{5}{3}$ meter"
+          ],
+          "answer": "$\\frac{2}{3}$ meter",
+          "discussion": "$\\frac{10}{3} \\div 5 = \\frac{10}{3} \\times \\frac{1}{5} = \\frac{10}{15} = \\frac{2}{3}$ meter."
+        },
+        {
+          "id": "MTK-B01-M03-001",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m03-001)</span> Hasil dari $\\frac{1}{2} \\times \\frac{2}{3} \\times \\frac{3}{4} \\times \\frac{4}{5} =...$",
+          "options": [
+            "$\\frac{1}{5}$",
+            "$\\frac{2}{5}$",
+            "$\\frac{3}{5}$",
+            "$\\frac{4}{5}$"
+          ],
+          "answer": "$\\frac{1}{5}$",
+          "discussion": "Pembilang dan penyebut saling mencoret, menyisakan $\\frac{1}{5}$."
+        },
+        {
+          "id": "MTK-B01-M03-002",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m03-002)</span> Hitung nilai dari $2,25 \\div 0,5 =...$",
+          "options": [
+            "4,5",
+            "0,45",
+            "45",
+            "0,045"
+          ],
+          "answer": "4,5",
+          "discussion": "$2,25 \\div 0,5 = 2,25 \\div 0,50 = 225 \\div 50 = 4,5$."
+        },
+        {
+          "id": "MTK-B01-M03-003",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m03-003)</span> Berapa hasil dari $1 \\frac{3}{4} \\div \\frac{7}{8} =...$",
+          "options": [
+            "2",
+            "$\\frac{1}{2}$",
+            "4",
+            "8"
+          ],
+          "answer": "2",
+          "discussion": "$\\frac{7}{4} \\times \\frac{8}{7} = \\frac{56}{28} = 2$."
+        },
+        {
+          "id": "MTK-B01-M03-004",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m03-004)</span> Hasil dari $0,6 \\times 0,7$ adalah...",
+          "options": [
+            "0,42",
+            "4,2",
+            "0,042",
+            "42"
+          ],
+          "answer": "0,42",
+          "discussion": "$6 \\times 7 = 42$. Ada 2 angka di belakang koma, hasilnya 0,42."
+        },
+        {
+          "id": "MTK-B01-M03-005",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m03-005)</span> Hitung hasil dari $8 \\div \\frac{1}{2} =...$",
+          "options": [
+            "16",
+            "4",
+            "2",
+            "1"
+          ],
+          "answer": "16",
+          "discussion": "$8 \\times \\frac{2}{1} = 16$."
+        },
+        {
+          "id": "MTK-B01-M03-006",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m03-006)</span> Berapa hasil dari $\\frac{3}{10} \\times \\frac{5}{6} =...$",
+          "options": [
+            "$\\frac{1}{4}$",
+            "$\\frac{1}{2}$",
+            "$\\frac{3}{4}$",
+            "$\\frac{2}{5}$"
+          ],
+          "answer": "$\\frac{1}{4}$",
+          "discussion": "$\\frac{15}{60} = \\frac{1}{4}$."
+        },
+        {
+          "id": "MTK-B01-M03-007",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m03-007)</span> Hasil dari $4,8 \\div 1,2 =...$",
+          "options": [
+            "4",
+            "0,4",
+            "40",
+            "48"
+          ],
+          "answer": "4",
+          "discussion": "$48 \\div 12 = 4$."
+        },
+        {
+          "id": "MTK-B01-M03-008",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m03-008)</span> Hitung nilai dari $\\frac{2}{5} \\div \\frac{4}{5} =...$",
+          "options": [
+            "$\\frac{1}{2}$",
+            "2",
+            "$\\frac{8}{25}$",
+            "$\\frac{5}{2}$"
+          ],
+          "answer": "$\\frac{1}{2}$",
+          "discussion": "$\\frac{2}{5} \\times \\frac{5}{4} = \\frac{10}{20} = \\frac{1}{2}$."
+        },
+        {
+          "id": "MTK-B01-M03-009",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m03-009)</span> Hasil dari $1,1 \\times 0,2 =...$",
+          "options": [
+            "0,22",
+            "2,2",
+            "0,022",
+            "22"
+          ],
+          "answer": "0,22",
+          "discussion": "$11 \\times 2 = 22$. Ada 2 angka di belakang koma, hasilnya 0,22."
+        },
+        {
+          "id": "MTK-B01-M03-010",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m03-010)</span> Berapa hasil dari $\\frac{9}{10} \\div \\frac{3}{5} =...$",
+          "options": [
+            "$\\frac{3}{2}$",
+            "$\\frac{2}{3}$",
+            "$\\frac{27}{50}$",
+            "$\\frac{3}{5}$"
+          ],
+          "answer": "$\\frac{3}{2}$",
+          "discussion": "$\\frac{9}{10} \\times \\frac{5}{3} = \\frac{45}{30} = \\frac{3}{2}$."
+        },
+        {
+          "id": "MTK-B01-M03-011",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m03-011)</span> Ibu membeli 1,5 kg gula. Harga 1 kg gula Rp12.000. Berapa rupiah yang harus dibayar ibu?",
+          "options": [
+            "Rp18.000",
+            "Rp20.000",
+            "Rp16.000",
+            "Rp24.000"
+          ],
+          "answer": "Rp18.000",
+          "discussion": "$1,5 \\times 12.000 = 18.000$."
+        },
+        {
+          "id": "MTK-B01-M03-012",
+          "type": "PG",
+          "text": "<span style='color: #9ca3af; font-size: 0.8em; opacity: 0.7;'>(mtk-b01-m03-012)</span> Hasil dari $\\frac{3}{8} \\times 4 =...$",
