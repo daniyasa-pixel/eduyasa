@@ -1,0 +1,664 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "BIN-B01",
+      "chapter_title": "Bab 1: Anak-Anak yang Mengubah Dunia",
+      "questions": [
+        {
+          "id": "BIN-B01-M01-001",
+          "type": "PG",
+          "text": "Bacalah pernyataan berikut!  Teks eksplanasi merupakan teks yang menjelaskan proses terjadinya suatu peristiwa atau fenomena. Fenomena tersebut dapat berupa peristiwa alam maupun sosial.  Apa tujuan utama teks eksplanasi?",
+          "options": [
+            "Menghibur pembaca melalui cerita khayalan",
+            "Menjelaskan proses terjadinya suatu fenomena",
+            "Menggambarkan keindahan suatu tempat",
+            "Menceritakan pengalaman pribadi penulis"
+          ],
+          "answer": "Menjelaskan proses terjadinya suatu fenomena",
+          "discussion": "Teks eksplanasi bertujuan memberikan penjelasan mengenai bagaimana dan mengapa suatu peristiwa atau fenomena terjadi."
+        },
+        {
+          "id": "BIN-B01-M01-002",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut!  Hujan terjadi ketika uap air di udara mengalami pendinginan dan berubah menjadi titik-titik air yang kemudian jatuh ke permukaan bumi.  Kalimat tersebut termasuk teks eksplanasi karena ....",
+          "options": [
+            "Menceritakan pengalaman seseorang ketika hujan",
+            "Menjelaskan proses terjadinya suatu peristiwa",
+            "Mengajak pembaca bermain saat hujan",
+            "Menggambarkan suasana ketika hujan turun"
+          ],
+          "answer": "Menjelaskan proses terjadinya suatu peristiwa",
+          "discussion": "Kalimat tersebut menerangkan proses terbentuknya hujan secara berurutan sehingga termasuk penjelasan tentang fenomena alam."
+        },
+        {
+          "id": "BIN-B01-M01-003",
+          "type": "PG",
+          "text": "Bacalah paragraf berikut!  Setiap hari, Rani membawa botol minum sendiri ke sekolah. Ia tidak lagi membeli minuman dalam kemasan plastik sekali pakai. Kebiasaan tersebut membantu mengurangi sampah plastik di lingkungan sekolah.  Apa tindakan yang dilakukan Rani untuk menjaga lingkungan?",
+          "options": [
+            "Membeli minuman dalam kemasan plastik",
+            "Membawa botol minum sendiri",
+            "Membuang botol plastik ke sungai",
+            "Menggunakan gelas sekali pakai"
+          ],
+          "answer": "Membawa botol minum sendiri",
+          "discussion": "Informasi tersebut disebutkan secara langsung dalam kalimat pertama paragraf."
+        },
+        {
+          "id": "BIN-B01-M01-004",
+          "type": "PG",
+          "text": "Perhatikan kata-kata berikut!\n1. Struktur\n2. Plastik\n3. Bumi\n4. Udara\n\nPasangan kata yang memiliki gabungan huruf konsonan berurutan adalah ....",
+          "options": [
+            "Struktur dan plastik",
+            "Bumi dan udara",
+            "Bumi dan struktur",
+            "Udara dan plastik"
+          ],
+          "answer": "Struktur dan plastik",
+          "discussion": "Kata struktur memiliki gabungan konsonan str dan kt, sedangkan plastik memiliki gabungan konsonan pl dan st. Kata bumi dan udara tidak memiliki gabungan konsonan berurutan."
+        },
+        {
+          "id": "BIN-B01-M01-005",
+          "type": "PG",
+          "text": "Bacalah paragraf berikut!  Pohon memiliki peran penting dalam menjaga keseimbangan lingkungan. Akar pohon membantu menyerap air hujan ke dalam tanah. Daunnya juga menyerap karbon dioksida dari udara. Oleh karena itu, menanam pohon dapat membantu menjaga kualitas lingkungan.  Apa gagasan utama paragraf tersebut?",
+          "options": [
+            "Pohon memiliki banyak jenis daun",
+            "Akar pohon tumbuh di dalam tanah",
+            "Pohon berperan penting dalam menjaga lingkungan",
+            "Air hujan selalu diserap oleh daun"
+          ],
+          "answer": "Pohon berperan penting dalam menjaga lingkungan",
+          "discussion": "Seluruh kalimat dalam paragraf menjelaskan manfaat pohon bagi lingkungan. Oleh karena itu, gagasan utamanya adalah peran penting pohon dalam menjaga lingkungan."
+        },
+        {
+          "id": "BIN-B01-M01-006",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut!  Banjir terjadi karena air hujan yang turun dalam jumlah besar tidak dapat mengalir atau meresap dengan baik.  Kata penghubung yang menunjukkan hubungan sebab dalam kalimat tersebut adalah ....",
+          "options": [
+            "Air",
+            "Karena",
+            "Dalam",
+            "Dengan"
+          ],
+          "answer": "Karena",
+          "discussion": "Kata karena menghubungkan suatu peristiwa dengan penyebabnya. Dalam kalimat tersebut, penyebab banjir adalah air hujan yang tidak dapat mengalir atau meresap dengan baik."
+        },
+        {
+          "id": "BIN-B01-M01-007",
+          "type": "PG",
+          "text": "Bacalah paragraf berikut!  Sampah organik berasal dari bahan alami, seperti sisa sayuran dan daun kering. Sampah tersebut dapat diolah menjadi kompos. Kompos kemudian digunakan untuk menyuburkan tanah dan membantu pertumbuhan tanaman.  Apa manfaat kompos berdasarkan paragraf tersebut?",
+          "options": [
+            "Menghasilkan sampah plastik",
+            "Menyuburkan tanah dan membantu pertumbuhan tanaman",
+            "Menghambat pertumbuhan tanaman",
+            "Membuat tanah menjadi kering"
+          ],
+          "answer": "Menyuburkan tanah dan membantu pertumbuhan tanaman",
+          "discussion": "Kalimat terakhir menyebutkan secara langsung bahwa kompos bermanfaat untuk menyuburkan tanah dan membantu pertumbuhan tanaman."
+        },
+        {
+          "id": "BIN-B01-M01-008",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut!  Pertama, sampah dikumpulkan dan dipisahkan berdasarkan jenisnya. Selanjutnya, sampah organik diolah menjadi kompos.  Kata yang menunjukkan urutan kegiatan adalah ....",
+          "options": [
+            "Karena",
+            "Tetapi",
+            "Selanjutnya",
+            "Meskipun"
+          ],
+          "answer": "Selanjutnya",
+          "discussion": "Kata selanjutnya merupakan kata penghubung urutan yang menunjukkan bahwa suatu kegiatan dilakukan setelah kegiatan sebelumnya."
+        },
+        {
+          "id": "BIN-B01-M01-009",
+          "type": "PG",
+          "text": "Bacalah paragraf berikut!  Perubahan iklim merupakan perubahan kondisi iklim dalam jangka panjang. Salah satu penyebabnya adalah meningkatnya gas rumah kaca di atmosfer. Perubahan ini dapat memengaruhi suhu bumi dan pola cuaca.  Fenomena yang dibahas dalam paragraf tersebut adalah ....",
+          "options": [
+            "Pergantian musim setiap hari",
+            "Perubahan iklim",
+            "Pertumbuhan tanaman",
+            "Perputaran bumi"
+          ],
+          "answer": "Perubahan iklim",
+          "discussion": "Kalimat pertama secara langsung menyebutkan fenomena yang menjadi pembahasan paragraf, yaitu perubahan iklim."
+        },
+        {
+          "id": "BIN-B01-M01-010",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut!  Anak-anak dapat membantu menjaga bumi dengan cara menghemat listrik, menanam pohon, dan mengurangi penggunaan plastik.  Apa pesan yang disampaikan kalimat tersebut?",
+          "options": [
+            "Menjaga lingkungan hanya tugas orang dewasa",
+            "Anak-anak tidak dapat membantu menjaga bumi",
+            "Anak-anak dapat ikut menjaga lingkungan melalui tindakan sederhana",
+            "Menghemat listrik tidak berhubungan dengan lingkungan"
+          ],
+          "answer": "Anak-anak dapat ikut menjaga lingkungan melalui tindakan sederhana",
+          "discussion": "Kalimat tersebut menunjukkan bahwa anak-anak juga dapat berperan menjaga lingkungan melalui kebiasaan positif dalam kehidupan sehari-hari."
+        },
+        {
+          "id": "BIN-B01-M01-011",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Perubahan iklim merupakan perubahan pola suhu dan cuaca dalam jangka panjang. Salah satu penyebabnya adalah meningkatnya jumlah gas rumah kaca di atmosfer. Gas tersebut dapat berasal dari pembakaran bahan bakar fosil, seperti batu bara, minyak bumi, dan gas alam.  Mengapa pembakaran bahan bakar fosil dapat berkontribusi terhadap perubahan iklim?",
+          "options": [
+            "Karena menghasilkan gas rumah kaca",
+            "Karena mengurangi jumlah awan di langit",
+            "Karena menghentikan perputaran bumi",
+            "Karena membuat seluruh air laut menghilang"
+          ],
+          "answer": "Karena menghasilkan gas rumah kaca",
+          "discussion": "Pembakaran bahan bakar fosil menghasilkan gas seperti karbon dioksida. Peningkatan gas rumah kaca di atmosfer dapat memperkuat efek rumah kaca dan berkontribusi terhadap perubahan iklim."
+        },
+        {
+          "id": "BIN-B01-M01-012",
+          "type": "PG",
+          "text": "Bacalah paragraf berikut!  Ketika pohon-pohon ditebang secara berlebihan, jumlah tumbuhan yang menyerap karbon dioksida menjadi berkurang. Akibatnya, kemampuan lingkungan menyerap gas tersebut juga menurun. Jika berlangsung terus-menerus, kondisi ini dapat memperburuk perubahan iklim.  Apa hubungan sebab-akibat yang dijelaskan dalam paragraf tersebut?",
+          "options": [
+            "Penebangan pohon meningkatkan jumlah tumbuhan",
+            "Berkurangnya pohon mengurangi kemampuan lingkungan menyerap karbon dioksida",
+            "Karbon dioksida membuat semua pohon berhenti tumbuh",
+            "Perubahan iklim menyebabkan seluruh pohon langsung mati"
+          ],
+          "answer": "Berkurangnya pohon mengurangi kemampuan lingkungan menyerap karbon dioksida",
+          "discussion": "Pohon menyerap karbon dioksida. Jika jumlah pohon berkurang akibat penebangan, kemampuan lingkungan menyerap karbon dioksida juga menurun."
+        },
+        {
+          "id": "BIN-B01-M01-013",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Banjir dapat terjadi ketika curah hujan tinggi dalam waktu lama. Air hujan yang tidak dapat meresap ke dalam tanah atau mengalir melalui saluran yang memadai akan berkumpul di permukaan. Kondisi tersebut dapat menyebabkan air meluap ke permukiman.  Informasi penting yang paling tepat berdasarkan teks adalah ....",
+          "options": [
+            "Banjir hanya terjadi di daerah pegunungan",
+            "Curah hujan tinggi dan buruknya aliran air dapat menyebabkan banjir",
+            "Semua air hujan selalu meresap ke dalam tanah",
+            "Banjir tidak berkaitan dengan kondisi saluran air"
+          ],
+          "answer": "Curah hujan tinggi dan buruknya aliran air dapat menyebabkan banjir",
+          "discussion": "Teks menjelaskan bahwa banjir dapat terjadi ketika curah hujan tinggi dan air tidak dapat meresap atau mengalir dengan baik."
+        },
+        {
+          "id": "BIN-B01-M01-014",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut!  Sampah plastik sulit terurai secara alami dalam waktu singkat. Oleh sebab itu, penggunaannya perlu dikurangi agar tidak terus menumpuk di lingkungan.  Makna kata terurai dalam kalimat tersebut adalah ....",
+          "options": [
+            "Bertambah jumlahnya",
+            "Berubah menjadi bagian-bagian yang lebih sederhana",
+            "Berpindah ke tempat lain",
+            "Bercampur dengan air"
+          ],
+          "answer": "Berubah menjadi bagian-bagian yang lebih sederhana",
+          "discussion": "Terurai berarti mengalami proses penguraian atau pemecahan menjadi bagian-bagian yang lebih sederhana. Dalam konteks tersebut, sampah plastik sulit mengalami penguraian secara alami."
+        },
+        {
+          "id": "BIN-B01-M01-015",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Pemanasan global adalah peningkatan suhu rata-rata bumi dalam jangka panjang. Salah satu penyebabnya adalah meningkatnya konsentrasi gas rumah kaca di atmosfer. Gas tersebut menahan sebagian panas yang dipancarkan kembali oleh permukaan bumi.  Kalimat yang merupakan pernyataan umum dalam teks tersebut adalah ....",
+          "options": [
+            "Pemanasan global adalah peningkatan suhu rata-rata bumi dalam jangka panjang.",
+            "Gas rumah kaca menahan sebagian panas.",
+            "Suhu bumi meningkat akibat berbagai aktivitas manusia.",
+            "Gas rumah kaca berasal dari beberapa sumber."
+          ],
+          "answer": "Pemanasan global adalah peningkatan suhu rata-rata bumi dalam jangka panjang.",
+          "discussion": "Pernyataan umum merupakan bagian pembuka teks eksplanasi yang memperkenalkan fenomena yang akan dijelaskan. Kalimat pertama memberikan pengertian mengenai pemanasan global."
+        },
+        {
+          "id": "BIN-B01-M01-016",
+          "type": "PG",
+          "text": "Bacalah paragraf berikut!  Pertama, sampah organik dikumpulkan dari sisa makanan dan daun kering. Setelah itu, sampah dicacah menjadi bagian kecil. Selanjutnya, bahan tersebut dicampur dan dibiarkan mengalami proses pengomposan hingga menjadi kompos.  Apa fungsi paragraf tersebut dalam teks eksplanasi?",
+          "options": [
+            "Memberikan pengenalan tentang jenis sampah",
+            "Menjelaskan tahapan proses pengolahan sampah organik",
+            "Menyampaikan pendapat penulis tentang sampah",
+            "Menceritakan pengalaman seseorang membuat kompos"
+          ],
+          "answer": "Menjelaskan tahapan proses pengolahan sampah organik",
+          "discussion": "Paragraf tersebut berisi urutan proses yang terjadi, mulai dari pengumpulan, pencacahan, pencampuran, hingga pengomposan. Bagian seperti ini termasuk deretan penjelas."
+        },
+        {
+          "id": "BIN-B01-M01-017",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut!  Karena banyak pohon ditebang, kemampuan tanah dalam menyerap air hujan menjadi berkurang.  Hubungan makna yang ditunjukkan kata karena adalah ....",
+          "options": [
+            "Perbandingan",
+            "Pertentangan",
+            "Sebab",
+            "Pilihan"
+          ],
+          "answer": "Sebab",
+          "discussion": "Kata karena menunjukkan alasan atau penyebab terjadinya suatu keadaan. Penebangan pohon menjadi penyebab berkurangnya kemampuan tanah menyerap air."
+        },
+        {
+          "id": "BIN-B01-M01-018",
+          "type": "PG",
+          "text": "Bacalah kalimat berikut!  Suhu bumi meningkat dalam jangka panjang sehingga beberapa wilayah mengalami perubahan pola curah hujan.  Makna kata sehingga dalam kalimat tersebut adalah ....",
+          "options": [
+            "Menunjukkan akibat dari peristiwa sebelumnya",
+            "Menunjukkan urutan waktu yang pertama",
+            "Menunjukkan perbedaan pendapat",
+            "Menunjukkan pilihan antara dua hal"
+          ],
+          "answer": "Menunjukkan akibat dari peristiwa sebelumnya",
+          "discussion": "Kata sehingga merupakan kata penghubung yang menunjukkan akibat. Perubahan pola curah hujan menjadi akibat yang dijelaskan setelah kondisi peningkatan suhu bumi."
+        },
+        {
+          "id": "BIN-B01-M01-019",
+          "type": "PG",
+          "text": "Bacalah paragraf berikut!  Sekolah mengadakan kegiatan penghijauan untuk memperbaiki kualitas lingkungan. Para siswa membawa bibit tanaman dari rumah. Mereka kemudian menanam bibit tersebut di halaman sekolah. Setelah beberapa minggu, tanaman mulai tumbuh dan membuat halaman lebih rindang.  Apa tujuan kegiatan penghijauan tersebut?",
+          "options": [
+            "Memenuhi halaman sekolah dengan bangunan",
+            "Mengurangi jumlah tanaman di sekolah",
+            "Memperbaiki kualitas lingkungan sekolah",
+            "Menggantikan semua tanaman dengan rumput"
+          ],
+          "answer": "Memperbaiki kualitas lingkungan sekolah",
+          "discussion": "Kalimat pertama menyebutkan tujuan kegiatan penghijauan, yaitu memperbaiki kualitas lingkungan. Kalimat-kalimat berikutnya menjelaskan pelaksanaan dan hasil kegiatan tersebut."
+        },
+        {
+          "id": "BIN-B01-M01-020",
+          "type": "PG",
+          "text": "Perhatikan kata-kata berikut!  1. Struktur 2. Plastik 3. Program 4. Bumi  Kata yang mengandung pola konsonan rangkap pada awal kata adalah ....",
+          "options": [
+            "Struktur, plastik, dan program",
+            "Plastik dan bumi",
+            "Program dan bumi",
+            "Struktur dan bumi"
+          ],
+          "answer": "Struktur, plastik, dan program",
+          "discussion": "Kata struktur memiliki pola konsonan awal str, plastik memiliki pl, sedangkan program memiliki pr. Kata bumi tidak memiliki gabungan konsonan pada awal katanya."
+        },
+        {
+          "id": "BIN-B01-M01-021",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Peningkatan suhu bumi dapat memengaruhi kehidupan manusia. Di beberapa wilayah, musim kemarau dapat berlangsung lebih lama sehingga persediaan air berkurang. Petani juga dapat mengalami kesulitan menentukan waktu tanam karena pola hujan berubah.  Kesimpulan yang tepat berdasarkan teks tersebut adalah ....",
+          "options": [
+            "Perubahan suhu bumi hanya memengaruhi tumbuhan",
+            "Perubahan iklim dapat memengaruhi ketersediaan air dan kegiatan pertanian",
+            "Musim kemarau selalu berlangsung dengan durasi yang sama",
+            "Petani tidak membutuhkan informasi tentang cuaca"
+          ],
+          "answer": "Perubahan iklim dapat memengaruhi ketersediaan air dan kegiatan pertanian",
+          "discussion": "Teks menjelaskan dua dampak perubahan iklim, yaitu berkurangnya persediaan air dan terganggunya kegiatan pertanian akibat perubahan pola hujan."
+        },
+        {
+          "id": "BIN-B01-M01-022",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut!  Pernyataan I: Banyak sampah plastik ditemukan di sungai.  Pernyataan II: Sampah plastik dapat menyumbat aliran air.  Pernyataan III: Sampah plastik yang menumpuk dapat meningkatkan risiko banjir.  Urutan hubungan penjelasan yang paling logis adalah ....",
+          "options": [
+            "III – I – II",
+            "II – III – I",
+            "I – II – III",
+            "III – II – I"
+          ],
+          "answer": "I – II – III",
+          "discussion": "Urutan tersebut dimulai dari kondisi yang terjadi, yaitu banyaknya sampah plastik di sungai. Selanjutnya dijelaskan bahwa sampah dapat menyumbat aliran air dan akhirnya meningkatkan risiko banjir."
+        },
+        {
+          "id": "BIN-B01-M01-023",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Di sebuah sekolah, siswa membuat tempat pengumpulan sampah terpilah. Sampah kertas, plastik, dan sisa makanan ditempatkan dalam wadah berbeda. Dengan cara tersebut, sampah lebih mudah dikelola dan sebagian dapat dimanfaatkan kembali.  Apa makna kata terpilah dalam teks tersebut?",
+          "options": [
+            "Sudah dibakar seluruhnya",
+            "Dikumpulkan tanpa aturan",
+            "Dipisahkan berdasarkan jenisnya",
+            "Dibuang ke tempat yang jauh"
+          ],
+          "answer": "Dipisahkan berdasarkan jenisnya",
+          "discussion": "Terpilah berarti sudah dipisahkan atau dikelompokkan berdasarkan kategori tertentu. Dalam teks, sampah dipisahkan menjadi kertas, plastik, dan sisa makanan."
+        },
+        {
+          "id": "BIN-B01-M01-024",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Air hujan yang jatuh di permukaan tanah sebagian akan meresap ke dalam tanah. Proses ini membantu mengisi persediaan air tanah. Namun, ketika permukaan tanah tertutup beton atau aspal, air lebih sulit meresap sehingga lebih banyak mengalir di permukaan.  Apa informasi yang dapat disimpulkan dari teks tersebut?",
+          "options": [
+            "Permukaan tanah yang tertutup beton dapat mengurangi penyerapan air",
+            "Beton membuat seluruh air hujan menghilang",
+            "Air hujan hanya dapat meresap melalui jalan beraspal",
+            "Air tanah tidak dipengaruhi kondisi permukaan tanah"
+          ],
+          "answer": "Permukaan tanah yang tertutup beton dapat mengurangi penyerapan air",
+          "discussion": "Teks menjelaskan bahwa air lebih mudah meresap pada tanah terbuka. Sebaliknya, permukaan yang tertutup beton atau aspal menghambat proses tersebut."
+        },
+        {
+          "id": "BIN-B01-M01-025",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut!\n\nAnak-anak mengajak warga untuk menjaga kebersihan lingkungan.\n\nKata yang paling tepat untuk menggantikan kata mengajak tanpa mengubah makna utama kalimat adalah ....",
+          "options": [
+            "Melupakan",
+            "Mengimbau",
+            "Meninggalkan",
+            "Menghalangi"
+          ],
+          "answer": "Mengimbau",
+          "discussion": "Kata mengimbau memiliki makna mengajak atau menyerukan kepada orang lain untuk melakukan sesuatu. Penggunaan kata tersebut merupakan contoh variasi kosakata agar tulisan tidak monoton."
+        },
+        {
+          "id": "BIN-B01-M01-026",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Bumi menerima energi panas dari matahari. Sebagian energi tersebut dipantulkan kembali ke angkasa, sedangkan sebagian lainnya diserap oleh permukaan bumi. Gas rumah kaca di atmosfer menahan sebagian panas sehingga bumi tetap memiliki suhu yang mendukung kehidupan.  Apa fungsi gas rumah kaca berdasarkan teks tersebut?",
+          "options": [
+            "Menghilangkan seluruh energi matahari",
+            "Menahan sebagian panas di atmosfer",
+            "Menghentikan proses penguapan air",
+            "Membuat bumi tidak menerima cahaya"
+          ],
+          "answer": "Menahan sebagian panas di atmosfer",
+          "discussion": "Teks menjelaskan bahwa gas rumah kaca menahan sebagian panas sehingga membantu menjaga suhu bumi. Namun, peningkatan gas rumah kaca secara berlebihan dapat memperkuat pemanasan global."
+        },
+        {
+          "id": "BIN-B01-M01-027",
+          "type": "PG",
+          "text": "Bacalah paragraf berikut!  Pertama, warga mengumpulkan sampah plastik dari lingkungan sekitar. Setelah terkumpul, sampah dibersihkan dan dikeringkan. Kemudian, sampah dipilah berdasarkan jenisnya. Terakhir, sampah yang dapat dimanfaatkan dikirim ke tempat daur ulang.  Kata terakhir dalam paragraf tersebut menunjukkan ....",
+          "options": [
+            "Awal pembahasan",
+            "Penyebab suatu peristiwa",
+            "Tahap penutup suatu urutan kegiatan",
+            "Penambahan alasan"
+          ],
+          "answer": "Tahap penutup suatu urutan kegiatan",
+          "discussion": "Kata terakhir digunakan untuk menandai bagian akhir dari rangkaian kegiatan yang disampaikan secara berurutan."
+        },
+        {
+          "id": "BIN-B01-M01-028",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Sebuah kelompok siswa mengamati halaman sekolah yang memiliki banyak pohon. Mereka menemukan bahwa halaman tersebut terasa lebih sejuk dibandingkan lapangan yang tidak memiliki pepohonan. Mereka kemudian menyimpulkan bahwa pohon dapat membantu menciptakan lingkungan yang lebih nyaman.  Apa dasar kesimpulan kelompok siswa tersebut?",
+          "options": [
+            "Pendapat orang yang tidak melakukan pengamatan",
+            "Perbandingan kondisi dua tempat yang diamati",
+            "Cerita dari siswa sekolah lain",
+            "Dugaan tanpa melihat keadaan lingkungan"
+          ],
+          "answer": "Perbandingan kondisi dua tempat yang diamati",
+          "discussion": "Kesimpulan dibuat berdasarkan hasil pengamatan terhadap halaman yang memiliki banyak pohon dan lapangan yang tidak memiliki pepohonan."
+        },
+        {
+          "id": "BIN-B01-M01-029",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut!  Kegiatan menanam pohon dapat mengurangi kadar karbon dioksida di udara karena tumbuhan menyerap gas tersebut melalui proses fotosintesis.  Bagian kalimat yang menjelaskan alasan kegiatan menanam pohon bermanfaat adalah ....",
+          "options": [
+            "Kegiatan menanam pohon",
+            "Dapat mengurangi kadar karbon dioksida",
+            "Karena tumbuhan menyerap gas tersebut melalui fotosintesis",
+            "Di udara"
+          ],
+          "answer": "Karena tumbuhan menyerap gas tersebut melalui fotosintesis",
+          "discussion": "Bagian yang diawali kata karena menjelaskan alasan atau penyebab. Tumbuhan menyerap karbon dioksida dalam proses fotosintesis sehingga membantu mengurangi kadar gas tersebut di udara."
+        },
+        {
+          "id": "BIN-B01-M01-030",
+          "type": "PG",
+          "text": "Bacalah paragraf berikut!  Perubahan iklim dapat menyebabkan beberapa wilayah mengalami cuaca yang lebih ekstrem. Hujan lebat dapat terjadi dalam waktu singkat, sementara wilayah lain mengalami kekeringan. Keadaan tersebut dapat mengganggu aktivitas masyarakat.  Gagasan yang paling sesuai dengan paragraf tersebut adalah ....",
+          "options": [
+            "Perubahan iklim dapat memengaruhi kondisi cuaca dan kehidupan masyarakat",
+            "Semua wilayah mengalami hujan setiap hari",
+            "Cuaca ekstrem hanya terjadi di daerah perkotaan",
+            "Kekeringan tidak berkaitan dengan perubahan iklim"
+          ],
+          "answer": "Perubahan iklim dapat memengaruhi kondisi cuaca dan kehidupan masyarakat",
+          "discussion": "Seluruh paragraf menjelaskan dampak perubahan iklim terhadap pola cuaca dan aktivitas manusia."
+        },
+        {
+          "id": "BIN-B01-M01-031",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut!  I. Sampah organik dikumpulkan dari lingkungan sekitar. II. Sampah tersebut dicacah menjadi bagian kecil. III. Sampah dicampur dengan bahan pendukung pengomposan. IV. Bahan dibiarkan hingga mengalami proses penguraian.  Jika disusun menjadi penjelasan proses yang runtut, urutan yang tepat adalah ....",
+          "options": [
+            "II – I – IV – III",
+            "I – II – III – IV",
+            "III – II – I – IV",
+            "IV – III – II – I"
+          ],
+          "answer": "I – II – III – IV",
+          "discussion": "Proses dimulai dari pengumpulan sampah, kemudian pencacahan, pencampuran, dan dilanjutkan dengan penguraian hingga menjadi kompos."
+        },
+        {
+          "id": "BIN-B01-M01-032",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Dina melihat banyak sampah plastik di sekitar sekolah. Ia kemudian mengajak teman-temannya membawa tempat makan dan botol minum sendiri. Setelah beberapa minggu, jumlah sampah kemasan sekali pakai di sekolah mulai berkurang.  Apa hubungan tindakan Dina dengan perubahan yang terjadi?",
+          "options": [
+            "Tindakan Dina membantu mengurangi sampah kemasan sekali pakai",
+            "Tindakan Dina menyebabkan sampah semakin banyak",
+            "Perubahan terjadi tanpa berkaitan dengan kebiasaan siswa",
+            "Membawa botol minum meningkatkan penggunaan plastik"
+          ],
+          "answer": "Tindakan Dina membantu mengurangi sampah kemasan sekali pakai",
+          "discussion": "Menggunakan tempat makan dan botol minum sendiri mengurangi kebutuhan kemasan sekali pakai. Kebiasaan tersebut berhubungan dengan berkurangnya sampah di sekolah."
+        },
+        {
+          "id": "BIN-B01-M01-033",
+          "type": "PG",
+          "text": "Perhatikan paragraf berikut!  Pemanasan global terjadi ketika suhu rata-rata bumi meningkat dalam jangka panjang. Salah satu penyebabnya adalah peningkatan gas rumah kaca. Gas tersebut dapat berasal dari kegiatan manusia, seperti penggunaan bahan bakar fosil. Oleh karena itu, penggunaan energi yang lebih bersih perlu ditingkatkan.  Kalimat yang berfungsi sebagai simpulan atau penegasan dalam paragraf tersebut adalah ....",
+          "options": [
+            "Pemanasan global terjadi ketika suhu rata-rata bumi meningkat",
+            "Salah satu penyebabnya adalah peningkatan gas rumah kaca",
+            "Gas tersebut dapat berasal dari penggunaan bahan bakar fosil",
+            "Oleh karena itu, penggunaan energi yang lebih bersih perlu ditingkatkan"
+          ],
+          "answer": "Oleh karena itu, penggunaan energi yang lebih bersih perlu ditingkatkan",
+          "discussion": "Kalimat tersebut memberikan penegasan berupa tindakan yang perlu dilakukan berdasarkan penjelasan sebelumnya. Kata oleh karena itu menjadi penanda hubungan simpulan."
+        },
+        {
+          "id": "BIN-B01-M01-034",
+          "type": "PG",
+          "text": "Bacalah paragraf berikut!\n\nPertama, sampah plastik dikumpulkan dari lingkungan sekitar. Kemudian, sampah dipilah berdasarkan jenisnya. Setelah itu, sampah yang dapat didaur ulang dikirim ke tempat pengolahan. ...., sampah tersebut diolah menjadi barang yang bermanfaat.\n\nKata penghubung yang paling tepat untuk melengkapi paragraf tersebut adalah ....",
+          "options": [
+            "Meskipun",
+            "Akhirnya",
+            "Karena",
+            "Tetapi"
+          ],
+          "answer": "Akhirnya",
+          "discussion": "Kata akhirnya menunjukkan tahap terakhir dalam suatu urutan proses. Kata tersebut tepat digunakan untuk menjelaskan tahap penutup pengolahan sampah."
+        },
+        {
+          "id": "BIN-B01-M01-035",
+          "type": "PG",
+          "text": "Bacalah dua pernyataan berikut!  Pernyataan I: Menghemat listrik dapat membantu mengurangi penggunaan energi.  Pernyataan II: Penggunaan energi dari bahan bakar fosil yang lebih rendah dapat membantu mengurangi emisi gas rumah kaca.  Kesimpulan yang paling sesuai adalah ....",
+          "options": [
+            "Menghemat listrik tidak memiliki manfaat bagi lingkungan",
+            "Menghemat listrik dapat menjadi salah satu tindakan untuk membantu mengurangi emisi gas rumah kaca",
+            "Semua kegiatan manusia harus menggunakan listrik",
+            "Pengurangan penggunaan listrik menyebabkan gas rumah kaca bertambah"
+          ],
+          "answer": "Menghemat listrik dapat menjadi salah satu tindakan untuk membantu mengurangi emisi gas rumah kaca",
+          "discussion": "Kedua pernyataan menunjukkan hubungan antara penghematan energi, penggunaan bahan bakar fosil, dan emisi gas rumah kaca. Menghemat listrik dapat membantu mengurangi kebutuhan energi yang berasal dari bahan bakar fosil."
+        },
+        {
+          "id": "BIN-B01-M01-036",
+          "type": "PG",
+          "text": "Bacalah dua teks berikut!  Teks A: Sekelompok siswa membuat lubang biopori di halaman sekolah. Lubang tersebut membantu air hujan meresap ke dalam tanah. Mereka juga memasukkan sampah organik ke dalam lubang untuk membantu proses pengomposan.  Teks B: Sekelompok siswa menanam pohon di sekitar sekolah. Akar pohon membantu tanah menyerap air, sedangkan tajuk pohon memberikan keteduhan bagi lingkungan.  Persamaan tujuan kegiatan dalam kedua teks tersebut adalah ....",
+          "options": [
+            "Meningkatkan jumlah bangunan sekolah",
+            "Mengurangi manfaat tanah bagi lingkungan",
+            "Menjaga kualitas lingkungan melalui tindakan nyata",
+            "Menghilangkan seluruh air hujan dari halaman"
+          ],
+          "answer": "Menjaga kualitas lingkungan melalui tindakan nyata",
+          "discussion": "Teks A menjelaskan pembuatan biopori untuk membantu penyerapan air dan pengomposan. Teks B menjelaskan penanaman pohon untuk membantu penyerapan air dan menciptakan keteduhan. Keduanya menunjukkan tindakan nyata dalam menjaga lingkungan."
+        },
+        {
+          "id": "BIN-B01-M01-037",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Di sebuah daerah, curah hujan tinggi menyebabkan air sungai meningkat. Pada saat yang sama, banyak sampah menumpuk di saluran air. Ketika hujan terus turun, aliran air menjadi terhambat dan air meluap ke permukiman.  Seorang siswa menyimpulkan bahwa sampah merupakan satu-satunya penyebab banjir dalam peristiwa tersebut.  Penilaian yang paling tepat terhadap kesimpulan siswa adalah ....",
+          "options": [
+            "Benar, karena banjir hanya disebabkan sampah",
+            "Kurang tepat, karena teks juga menjelaskan curah hujan tinggi sebagai faktor penyebab",
+            "Benar, karena curah hujan tidak berpengaruh terhadap banjir",
+            "Kurang tepat, karena sampah tidak pernah menghambat aliran air"
+          ],
+          "answer": "Kurang tepat, karena teks juga menjelaskan curah hujan tinggi sebagai faktor penyebab",
+          "discussion": "Teks menyebutkan dua faktor yang berperan dalam peristiwa tersebut, yaitu curah hujan tinggi dan terhambatnya aliran air akibat sampah. Oleh karena itu, kesimpulan bahwa sampah merupakan satu-satunya penyebab tidak didukung seluruh informasi."
+        },
+        {
+          "id": "BIN-B01-M01-038",
+          "type": "PG",
+          "text": "Perhatikan ilustrasi berikut!  Sebuah gambar memperlihatkan dua halaman sekolah. Halaman pertama memiliki banyak pohon, rumput, dan tanaman. Halaman kedua hampir seluruhnya tertutup semen dan tidak memiliki pepohonan.  Berdasarkan ilustrasi tersebut, kesimpulan yang paling masuk akal adalah ....",
+          "options": [
+            "Halaman tanpa pohon selalu lebih nyaman",
+            "Halaman yang memiliki pepohonan berpotensi memberikan suasana lebih sejuk",
+            "Semua halaman sekolah harus ditutup semen",
+            "Pohon tidak memiliki pengaruh terhadap lingkungan sekolah"
+          ],
+          "answer": "Halaman yang memiliki pepohonan berpotensi memberikan suasana lebih sejuk",
+          "discussion": "Pepohonan memberikan keteduhan melalui tajuknya dan membantu mengurangi paparan sinar matahari langsung. Oleh karena itu, halaman yang memiliki pepohonan berpotensi terasa lebih sejuk."
+        },
+        {
+          "id": "BIN-B01-M01-039",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Sebuah kota memiliki banyak kendaraan bermotor. Sebagian kendaraan menggunakan bahan bakar fosil yang menghasilkan gas buang. Gas tersebut dapat menambah jumlah gas rumah kaca di atmosfer. Pemerintah kota kemudian mengembangkan transportasi umum agar masyarakat memiliki pilihan perjalanan yang lebih efisien.  Mengapa pengembangan transportasi umum dapat menjadi salah satu upaya mengurangi dampak lingkungan?",
+          "options": [
+            "Karena dapat mengurangi ketergantungan masyarakat pada kendaraan pribadi",
+            "Karena membuat semua kendaraan bermotor berhenti berfungsi",
+            "Karena menghilangkan seluruh gas di atmosfer",
+            "Karena membuat perjalanan masyarakat semakin jauh"
+          ],
+          "answer": "Karena dapat mengurangi ketergantungan masyarakat pada kendaraan pribadi",
+          "discussion": "Transportasi umum memungkinkan banyak orang melakukan perjalanan bersama. Jika digunakan secara efektif, jumlah kendaraan pribadi yang digunakan dapat berkurang sehingga konsumsi bahan bakar dan emisi per penumpang dapat ditekan."
+        },
+        {
+          "id": "BIN-B01-M01-040",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Teks eksplanasi tentang pengelolaan sampah memiliki tiga bagian. Bagian pertama mengenalkan permasalahan sampah. Bagian kedua menjelaskan penyebab sampah menumpuk dan proses pengelolaannya. Bagian ketiga menyampaikan penegasan mengenai pentingnya pengelolaan sampah.  Jika penulis menghilangkan bagian kedua, apa dampak paling besar terhadap teks tersebut?",
+          "options": [
+            "Teks menjadi lebih panjang",
+            "Penjelasan mengenai proses dan hubungan sebab-akibat menjadi tidak lengkap",
+            "Teks berubah menjadi cerita fiksi",
+            "Pembaca langsung memahami semua tahapan pengelolaan sampah"
+          ],
+          "answer": "Penjelasan mengenai proses dan hubungan sebab-akibat menjadi tidak lengkap",
+          "discussion": "Deretan penjelas merupakan bagian utama yang menerangkan bagaimana atau mengapa suatu peristiwa terjadi. Jika bagian tersebut dihilangkan, informasi penjelas dalam teks menjadi tidak lengkap."
+        },
+        {
+          "id": "BIN-B01-M01-041",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Nadia mengamati perubahan kondisi lingkungan di sekitar rumahnya. Ia menemukan bahwa saluran air yang dahulu lancar kini sering tersumbat. Setelah diamati, ternyata banyak sampah plastik menumpuk di dalam saluran tersebut.  Nadia ingin membuat teks eksplanasi berdasarkan hasil pengamatannya.  Informasi tambahan yang paling tepat untuk memperkuat penjelasan Nadia adalah ....",
+          "options": [
+            "Warna pakaian warga yang tinggal di sekitar saluran",
+            "Hubungan antara penumpukan sampah, terhambatnya aliran air, dan risiko banjir",
+            "Jumlah kendaraan yang melewati jalan setiap hari",
+            "Merek peralatan rumah tangga yang digunakan warga"
+          ],
+          "answer": "Hubungan antara penumpukan sampah, terhambatnya aliran air, dan risiko banjir",
+          "discussion": "Teks eksplanasi membutuhkan informasi yang menjelaskan proses atau hubungan sebab-akibat. Informasi tentang sampah, aliran air, dan risiko banjir relevan untuk menjelaskan fenomena yang diamati Nadia."
+        },
+        {
+          "id": "BIN-B01-M01-042",
+          "type": "PG",
+          "text": "Perhatikan paragraf berikut!  (1) Banyak pohon ditebang untuk membuka lahan. (2) Berkurangnya jumlah pohon dapat mengurangi penyerapan karbon dioksida. (3) Oleh karena itu, menjaga kelestarian hutan menjadi hal yang penting. (4) Hutan merupakan kumpulan pepohonan yang memiliki peran penting bagi kehidupan.  Jika paragraf tersebut disusun menjadi teks eksplanasi yang runtut, urutan yang paling tepat adalah ....",
+          "options": [
+            "1 – 2 – 3 – 4",
+            "4 – 1 – 2 – 3",
+            "2 – 3 – 4 – 1",
+            "3 – 2 – 1 – 4"
+          ],
+          "answer": "4 – 1 – 2 – 3",
+          "discussion": "Kalimat keempat berfungsi sebagai pernyataan umum. Kalimat pertama dan kedua menjelaskan permasalahan serta akibatnya. Kalimat ketiga menjadi simpulan atau penegasan."
+        },
+        {
+          "id": "BIN-B01-M01-043",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Siswa kelas VI melakukan kegiatan penghijauan. Mereka menanam beberapa jenis pohon di halaman sekolah. Setelah berdiskusi, mereka menyusun penjelasan tentang manfaat pepohonan bagi lingkungan. Salah satu siswa menyatakan bahwa kegiatan tersebut pasti dapat menghentikan perubahan iklim secara keseluruhan.  Bagaimana penilaian paling tepat terhadap pernyataan siswa tersebut?",
+          "options": [
+            "Tepat, karena menanam pohon langsung menghentikan seluruh perubahan iklim",
+            "Kurang tepat, karena penanaman pohon merupakan salah satu upaya membantu lingkungan, bukan solusi tunggal untuk menghentikan perubahan iklim",
+            "Tepat, karena semua perubahan iklim hanya disebabkan kurangnya pohon",
+            "Kurang tepat, karena pohon tidak memiliki manfaat bagi lingkungan"
+          ],
+          "answer": "Kurang tepat, karena penanaman pohon merupakan salah satu upaya membantu lingkungan, bukan solusi tunggal untuk menghentikan perubahan iklim",
+          "discussion": "Menanam pohon merupakan tindakan positif karena tumbuhan menyerap karbon dioksida dan memberikan manfaat lingkungan. Namun, perubahan iklim dipengaruhi banyak faktor sehingga membutuhkan berbagai upaya secara bersama-sama."
+        },
+        {
+          "id": "BIN-B01-M01-044",
+          "type": "PG",
+          "text": "Bacalah dua teks berikut!  Teks A: Kegiatan menanam pohon dilakukan siswa untuk menciptakan lingkungan sekolah yang lebih hijau. Pohon dapat memberikan keteduhan dan membantu menyerap karbon dioksida.  Teks B: Siswa membuat lubang biopori di halaman sekolah. Lubang tersebut membantu air hujan meresap ke dalam tanah sehingga dapat mengurangi genangan.  Jika sekolah ingin mengurangi panas lingkungan sekaligus meningkatkan penyerapan air hujan, tindakan yang paling sesuai adalah ....",
+          "options": [
+            "Hanya menanam pohon tanpa memperhatikan kondisi tanah",
+            "Hanya membuat lubang biopori di dalam ruangan",
+            "Menggabungkan kegiatan penanaman pohon dan pembuatan biopori",
+            "Menutup seluruh halaman dengan beton"
+          ],
+          "answer": "Menggabungkan kegiatan penanaman pohon dan pembuatan biopori",
+          "discussion": "Teks A menjelaskan manfaat pohon untuk keteduhan dan penyerapan karbon dioksida. Teks B menjelaskan manfaat biopori untuk membantu penyerapan air. Menggabungkan kedua kegiatan tersebut sesuai dengan dua tujuan yang ingin dicapai."
+        },
+        {
+          "id": "BIN-B01-M01-045",
+          "type": "PG",
+          "text": "Bacalah paragraf berikut!  Pertama, warga mengumpulkan sampah yang dapat didaur ulang. Karena itu, sampah kemudian dipisahkan berdasarkan jenisnya. Setelah dipilah, sampah dikirim ke tempat pengolahan.  Perbaikan penggunaan kata penghubung yang paling tepat agar hubungan antarkalimat lebih logis adalah ....",
+          "options": [
+            "Mengganti karena itu menjadi selanjutnya",
+            "Mengganti pertama menjadi meskipun",
+            "Mengganti setelah dipilah menjadi tetapi",
+            "Mengganti karena itu menjadi walaupun"
+          ],
+          "answer": "Mengganti karena itu menjadi selanjutnya",
+          "discussion": "Paragraf tersebut menjelaskan tahapan kegiatan secara berurutan. Kata selanjutnya lebih tepat digunakan untuk menunjukkan tahap setelah pengumpulan sampah. Kata karena itu menunjukkan hubungan akibat, bukan urutan kegiatan."
+        },
+        {
+          "id": "BIN-B01-M01-046",
+          "type": "PG",
+          "text": "Perhatikan teks berikut!  Sebuah gambar memperlihatkan seorang anak sedang mematikan lampu di ruangan yang tidak digunakan. Di dekat sakelar terdapat tulisan hemat energi. Pada bagian lain gambar, terlihat ajakan menggunakan listrik seperlunya.  Informasi tersirat yang paling tepat berdasarkan gambar tersebut adalah ....",
+          "options": [
+            "Anak tersebut takut menggunakan lampu",
+            "Mematikan lampu merupakan salah satu kebiasaan menghemat energi",
+            "Lampu harus selalu dimatikan ketika malam hari",
+            "Penggunaan listrik tidak berkaitan dengan lingkungan"
+          ],
+          "answer": "Mematikan lampu merupakan salah satu kebiasaan menghemat energi",
+          "discussion": "Gambar dan tulisan memberikan petunjuk bahwa anak tersebut melakukan tindakan untuk mengurangi penggunaan listrik yang tidak diperlukan. Hal ini menunjukkan perilaku hemat energi."
+        },
+        {
+          "id": "BIN-B01-M01-047",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Sebuah artikel menjelaskan bahwa perubahan iklim dapat memengaruhi pola hujan. Di beberapa daerah, hujan lebat dapat meningkatkan risiko banjir. Di daerah lain, berkurangnya curah hujan dalam waktu lama dapat menyebabkan kekeringan.  Seorang pembaca menyimpulkan bahwa semua daerah akan mengalami banjir karena perubahan iklim.  Mengapa kesimpulan tersebut tidak tepat?",
+          "options": [
+            "Karena teks hanya membahas kekeringan",
+            "Karena teks menjelaskan dampak yang berbeda pada wilayah yang berbeda",
+            "Karena banjir tidak mungkin terjadi akibat hujan lebat",
+            "Karena perubahan iklim tidak memengaruhi pola hujan"
+          ],
+          "answer": "Karena teks menjelaskan dampak yang berbeda pada wilayah yang berbeda",
+          "discussion": "Teks menyebutkan dua kemungkinan dampak, yaitu banjir di beberapa daerah dan kekeringan di daerah lain. Kesimpulan bahwa semua daerah akan mengalami banjir mengabaikan informasi tentang kekeringan."
+        },
+        {
+          "id": "BIN-B01-M01-048",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Raka membuat tulisan tentang pentingnya mengurangi penggunaan plastik. Dalam tulisannya, ia menjelaskan bahwa sampah plastik dapat mencemari lingkungan. Ia juga menjelaskan bahwa penggunaan tas belanja yang dapat dipakai berulang kali dapat membantu mengurangi sampah kemasan.  Raka ingin menambahkan kalimat penjelas agar tulisannya lebih kuat.  Kalimat tambahan yang paling tepat adalah ....",
+          "options": [
+            "Tas belanja memiliki berbagai macam warna dan ukuran.",
+            "Penggunaan tas berulang kali mengurangi kebutuhan kantong plastik sekali pakai.",
+            "Semua orang harus membeli tas baru setiap hari.",
+            "Plastik merupakan bahan yang selalu dapat terurai dalam waktu singkat."
+          ],
+          "answer": "Penggunaan tas berulang kali mengurangi kebutuhan kantong plastik sekali pakai.",
+          "discussion": "Kalimat tersebut mendukung gagasan utama mengenai pengurangan penggunaan plastik. Kalimat itu juga menjelaskan alasan mengapa penggunaan tas berulang kali dapat membantu mengurangi sampah."
+        },
+        {
+          "id": "BIN-B01-M01-049",
+          "type": "PG",
+          "text": "Bacalah teks berikut!\n\nJoseph Wijaya merupakan seorang anak yang peduli terhadap lingkungan. Ia memulai program Joseph Recycling untuk mengumpulkan dan mendaur ulang sampah plastik. Sampah yang terkumpul disortir dan dijual. Uang hasil penjualannya digunakan untuk membantu membiayai pendidikan anak-anak yatim dan piatu.\n\nSelain membantu mengurangi sampah plastik, apa dampak sosial dari kegiatan Joseph?",
+          "options": [
+            "Membantu anak-anak yatim dan piatu memperoleh kesempatan bersekolah",
+            "Membuka pertambangan plastik di berbagai daerah",
+            "Mengurangi jumlah sekolah di Bali",
+            "Menghentikan seluruh kegiatan daur ulang di masyarakat"
+          ],
+          "answer": "Membantu anak-anak yatim dan piatu memperoleh kesempatan bersekolah",
+          "discussion": "Joseph menggunakan uang hasil penjualan sampah plastik untuk membantu membiayai pendidikan anak-anak yatim dan piatu. Dengan demikian, kegiatannya memberikan manfaat bagi lingkungan sekaligus bidang sosial."
+        },
+        {
+          "id": "BIN-B01-M01-050",
+          "type": "PG",
+          "text": "Bacalah teks berikut!  Siswa kelas VI melakukan pengamatan terhadap lingkungan sekolah. Mereka menemukan bahwa beberapa tempat sampah sudah penuh, sementara sebagian sampah masih berserakan di halaman. Setelah berdiskusi, mereka mengusulkan penambahan tempat sampah terpilah dan kegiatan pengurangan sampah plastik.  Kelompok tersebut akan menyusun teks eksplanasi dengan judul \"Mengurangi Sampah untuk Menjaga Lingkungan Sekolah\".  Rangkaian isi yang paling tepat untuk menghasilkan teks eksplanasi yang runtut adalah ....",
+          "options": [
+            "Menjelaskan pengertian permasalahan sampah, menguraikan penyebab dan dampaknya, kemudian memberikan simpulan tentang pentingnya pengelolaan sampah",
+            "Menceritakan kegiatan bermain siswa, menggambarkan warna tempat sampah, kemudian mengakhiri cerita dengan pengalaman liburan",
+            "Menjelaskan nama seluruh siswa, menyebutkan makanan kesukaan mereka, kemudian memberikan pendapat tentang permainan",
+            "Menyampaikan ajakan membuang sampah, menuliskan daftar nama siswa, kemudian menceritakan kejadian yang tidak berkaitan dengan sampah"
+          ],
+          "answer": "Menjelaskan pengertian permasalahan sampah, menguraikan penyebab dan dampaknya, kemudian memberikan simpulan tentang pentingnya pengelolaan sampah",
+          "discussion": "Susunan tersebut mengikuti struktur teks eksplanasi, yaitu pernyataan umum, deretan penjelas, dan simpulan. Informasi disusun secara logis agar pembaca memahami fenomena, penyebab, dampak, dan pentingnya tindakan yang dapat dilakukan."
+        }
+      ]
+    }
+  ]
+}
