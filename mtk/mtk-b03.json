@@ -149,7 +149,7 @@
 "6 cm"
 ],
 "answer": "4 cm",
-"discussion": "Panjang sisi dicari dengan akar pangkat tiga dari volume ($\sqrt[3]{64} = 4 \text{ cm}$, karena $4 \times 4 \times 4 = 64$)."
+"discussion": "Panjang sisi dicari dengan akar pangkat tiga dari volume ($\\sqrt[3]{64} = 4 \text{ cm}$, karena $4 \times 4 \times 4 = 64$)."
 },
 {
 "id": "MTK-B03-M01-012",
@@ -253,7 +253,7 @@
 "10 cm"
 ],
 "answer": "5 cm",
-"discussion": "Luas satu sisi = $150 \div 6 = 25 \text{ cm}^2$. Panjang sisi = $\sqrt{25} = 5 \text{ cm}$."
+"discussion": "Luas satu sisi = $150 \\div 6 = 25 \text{ cm}^2$. Panjang sisi = $\\sqrt{25} = 5 \text{ cm}$."
 },
 {
 "id": "MTK-B03-M01-020",
@@ -357,7 +357,7 @@
 "1.200 cm²"
 ],
 "answer": "600 cm²",
-"discussion": "Panjang sisi kubus adalah $\sqrt[3]{1.000} = 10 \text{ cm}$. Luas permukaan = $6 \times (10 \times 10) = 600 \text{ cm}^2$."
+"discussion": "Panjang sisi kubus adalah $\\sqrt[3]{1.000} = 10 \text{ cm}$. Luas permukaan = $6 \times (10 \times 10) = 600 \text{ cm}^2$."
 },
 {
 "id": "MTK-B03-M01-028",
@@ -474,7 +474,7 @@
 "8 cm"
 ],
 "answer": "2 cm",
-"discussion": "Luas satu sisi = $24 \div 6 = 4 \text{ cm}^2$. Panjang sisi = $\sqrt{4} = 2 \text{ cm}$."
+"discussion": "Luas satu sisi = $24 \\div 6 = 4 \text{ cm}^2$. Panjang sisi = $\\sqrt{4} = 2 \text{ cm}$."
 },
 {
 "id": "MTK-B03-M02-007",
@@ -513,7 +513,7 @@
 "10 cm"
 ],
 "answer": "6 cm",
-"discussion": "Tinggi = Volume $\div$ ($p \times l$) = $240 \div (8 \times 5) = 240 \div 40 = 6 \text{ cm}$."
+"discussion": "Tinggi = Volume $\\div$ ($p \times l$) = $240 \\div (8 \times 5) = 240 \\div 40 = 6 \text{ cm}$."
 },
 {
 "id": "MTK-B03-M02-010",
@@ -552,7 +552,7 @@
 "10 cm"
 ],
 "answer": "5 cm",
-"discussion": "Luas satu sisi = $150 \div 6 = 25$. Sisi = $\sqrt{25} = 5 \text{ cm}$."
+"discussion": "Luas satu sisi = $150 \\div 6 = 25$. Sisi = $\\sqrt{25} = 5 \text{ cm}$."
 },
 {
 "id": "MTK-B03-M02-013",
@@ -591,7 +591,7 @@
 "100 liter"
 ],
 "answer": "500 liter",
-"discussion": "Volume total = $1 \text{ m}^3 = 1.000 \text{ liter}$. Setengah bagian = $1.000 \div 2 = 500$ liter."
+"discussion": "Volume total = $1 \text{ m}^3 = 1.000 \text{ liter}$. Setengah bagian = $1.000 \\div 2 = 500$ liter."
 },
 {
 "id": "MTK-B03-M02-016",
@@ -604,7 +604,7 @@
 "16 cm"
 ],
 "answer": "8 cm",
-"discussion": "Kubus punya 12 rusuk. Panjang satu rusuk = $96 \div 12 = 8 \text{ cm}$."
+"discussion": "Kubus punya 12 rusuk. Panjang satu rusuk = $96 \\div 12 = 8 \text{ cm}$."
 },
 {
 "id": "MTK-B03-M02-017",
@@ -643,7 +643,7 @@
 "192 cm²"
 ],
 "answer": "384 cm²",
-"discussion": "Panjang sisi kubus = $\sqrt[3]{512} = 8 \text{ cm}$. Luas permukaan = $6 \times (8 \times 8) = 6 \times 64 = 384 \text{ cm}^2$."
+"discussion": "Panjang sisi kubus = $\\sqrt[3]{512} = 8 \text{ cm}$. Luas permukaan = $6 \times (8 \times 8) = 6 \times 64 = 384 \text{ cm}^2$."
 },
 {
 "id": "MTK-B03-M02-020",
