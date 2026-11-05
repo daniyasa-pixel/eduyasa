@@ -1,0 +1,664 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "MTK-B01",
+      "chapter_title": "Bab 1: Pecahan dan Desimal",
+      "questions": [
+        {
+          "id": "MTK-B01-M01-001",
+          "type": "PG",
+          "text": "Ibu menggunakan $\\frac{1}{4}$ kg tepung untuk membuat satu loyang kue. Jika Ibu membuat 3 loyang kue, berapa kilogram tepung yang dibutuhkan?",
+          "options": [
+            "$\\frac{3}{4}$ kg",
+            "$\\frac{1}{2}$ kg",
+            "$\\frac{4}{3}$ kg",
+            "$\\frac{3}{8}$ kg"
+          ],
+          "answer": "$\\frac{3}{4}$ kg",
+          "discussion": "Tepung untuk satu loyang adalah $\\frac{1}{4}$ kg. Untuk 3 loyang, hitung $3\\times\\frac{1}{4}=\\frac{3}{4}$ kg."
+        },
+        {
+          "id": "MTK-B01-M01-002",
+          "type": "PG",
+          "text": "Rina memiliki pita sepanjang $\\frac{2}{5}$ meter. Ia membeli 3 pita dengan panjang yang sama. Berapa total panjang pita Rina?",
+          "options": [
+            "$\\frac{5}{5}$ meter",
+            "$\\frac{6}{5}$ meter",
+            "$\\frac{3}{5}$ meter",
+            "$\\frac{2}{15}$ meter"
+          ],
+          "answer": "$\\frac{6}{5}$ meter",
+          "discussion": "Kalikan panjang satu pita dengan jumlah pita, yaitu $3\\times\\frac{2}{5}=\\frac{6}{5}$ meter atau $1\\frac{1}{5}$ meter."
+        },
+        {
+          "id": "MTK-B01-M01-003",
+          "type": "PG",
+          "text": "Ayah mempunyai $\\frac{4}{7}$ liter minyak. Minyak tersebut dibagi sama banyak ke dalam 2 botol. Berapa liter isi setiap botol?",
+          "options": [
+            "$\\frac{4}{9}$ liter",
+            "$\\frac{2}{7}$ liter",
+            "$\\frac{3}{7}$ liter",
+            "$\\frac{7}{2}$ liter"
+          ],
+          "answer": "$\\frac{2}{7}$ liter",
+          "discussion": "Hitung $\\frac{4}{7}\\div 2=\\frac{4}{7}\\times\\frac{1}{2}=\\frac{4}{14}=\\frac{2}{7}$ liter. Jadi, setiap botol berisi $\\frac{2}{7}$ liter."
+        },
+        {
+          "id": "MTK-B01-M01-004",
+          "type": "PG",
+          "text": "Sebuah kue memiliki $\\frac{3}{4}$ bagian yang tersisa. Kue tersebut dibagikan sama rata kepada 3 anak. Berapa bagian kue yang diterima setiap anak?",
+          "options": [
+            "$\\frac{3}{7}$",
+            "$\\frac{1}{4}$",
+            "$\\frac{1}{3}$",
+            "$\\frac{4}{3}$"
+          ],
+          "answer": "$\\frac{1}{4}$",
+          "discussion": "Hitung $\\frac{3}{4}\\div 3=\\frac{3}{4}\\times\\frac{1}{3}=\\frac{3}{12}=\\frac{1}{4}$. Setiap anak mendapat seperempat bagian kue."
+        },
+        {
+          "id": "MTK-B01-M01-005",
+          "type": "PG",
+          "text": "Sebuah botol berisi 2 liter sirup. Setiap gelas membutuhkan $\\frac{1}{4}$ liter sirup. Berapa gelas yang dapat diisi penuh?",
+          "options": [
+            "4 gelas",
+            "6 gelas",
+            "8 gelas",
+            "10 gelas"
+          ],
+          "answer": "8 gelas",
+          "discussion": "Untuk mengetahui jumlah gelas, hitung $2\\div\\frac{1}{4}=2\\times4=8$. Jadi, sirup dapat mengisi 8 gelas."
+        },
+        {
+          "id": "MTK-B01-M01-006",
+          "type": "PG",
+          "text": "Bentuk desimal paling sederhana dari $\\frac{1}{2}$ adalah ....",
+          "options": [
+            "0,2",
+            "0,25",
+            "0,5",
+            "1,2"
+          ],
+          "answer": "0,5",
+          "discussion": "Ubah penyebut 2 menjadi 10 dengan mengalikan pembilang dan penyebut dengan 5. Hasilnya $\\frac{1}{2}=\\frac{5}{10}=0,5$."
+        },
+        {
+          "id": "MTK-B01-M01-007",
+          "type": "PG",
+          "text": "Sebuah penggaris menunjukkan panjang pita sebesar 0,7 meter. Bentuk pecahan paling sederhana dari 0,7 adalah ....",
+          "options": [
+            "$\\frac{7}{100}$",
+            "$\\frac{7}{10}$",
+            "$\\frac{1}{7}$",
+            "$\\frac{10}{7}$"
+          ],
+          "answer": "$\\frac{7}{10}$",
+          "discussion": "Angka 0,7 memiliki satu angka di belakang koma sehingga dapat ditulis sebagai $\\frac{7}{10}$. Pecahan tersebut sudah paling sederhana."
+        },
+        {
+          "id": "MTK-B01-M01-008",
+          "type": "PG",
+          "text": "Doni mengukur dua tali. Tali pertama panjangnya 0,6 meter dan tali kedua 0,8 meter. Tali manakah yang lebih panjang?",
+          "options": [
+            "Tali pertama",
+            "Tali kedua",
+            "Keduanya sama panjang",
+            "Tidak dapat dibandingkan"
+          ],
+          "answer": "Tali kedua",
+          "discussion": "Bandingkan angka persepuluhannya. Karena 8 lebih besar daripada 6, maka 0,8 lebih besar daripada 0,6. Jadi, tali kedua lebih panjang."
+        },
+        {
+          "id": "MTK-B01-M01-009",
+          "type": "PG",
+          "text": "Perhatikan bilangan desimal berikut: 0,2; 0,5; dan 0,3. Urutan dari yang terkecil hingga terbesar adalah ....",
+          "options": [
+            "0,5; 0,3; 0,2",
+            "0,2; 0,3; 0,5",
+            "0,3; 0,2; 0,5",
+            "0,2; 0,5; 0,3"
+          ],
+          "answer": "0,2; 0,3; 0,5",
+          "discussion": "Bandingkan angka pada tempat persepuluhan. Urutannya adalah 2, kemudian 3, lalu 5. Jadi, urutan yang benar adalah 0,2; 0,3; 0,5."
+        },
+        {
+          "id": "MTK-B01-M01-010",
+          "type": "PG",
+          "text": "Bentuk desimal dari $\\frac{1}{4}$ adalah ....",
+          "options": [
+            "0,14",
+            "0,2",
+            "0,25",
+            "0,4"
+          ],
+          "answer": "0,25",
+          "discussion": "Bagi pembilang dengan penyebut, yaitu $1\\div4=0,25$. Jadi, bentuk desimal dari $\\frac{1}{4}$ adalah 0,25."
+        },
+        {
+          "id": "MTK-B01-M01-011",
+          "type": "PG",
+          "text": "Pak Budi membutuhkan $\\frac{2}{3}$ liter cat untuk mengecat satu kursi. Jika ia mengecat 5 kursi dengan kebutuhan cat yang sama, berapa liter cat yang diperlukan?",
+          "options": [
+            "$2\\frac{1}{3}$ liter",
+            "$3\\frac{1}{3}$ liter",
+            "$4\\frac{1}{3}$ liter",
+            "$5\\frac{2}{3}$ liter"
+          ],
+          "answer": "$3\\frac{1}{3}$ liter",
+          "discussion": "Kalikan $5\\times\\frac{2}{3}=\\frac{10}{3}$. Ubah menjadi pecahan campuran: $\\frac{10}{3}=3\\frac{1}{3}$ liter."
+        },
+        {
+          "id": "MTK-B01-M01-012",
+          "type": "PG",
+          "text": "Setiap hari, Sinta membaca buku sebanyak $\\frac{3}{8}$ jam. Jika ia membaca dengan durasi yang sama selama 4 hari, berapa jam total waktu membaca Sinta?",
+          "options": [
+            "1 jam",
+            "$1\\frac{1}{2}$ jam",
+            "2 jam",
+            "$2\\frac{1}{2}$ jam"
+          ],
+          "answer": "$1\\frac{1}{2}$ jam",
+          "discussion": "Hitung $4\\times\\frac{3}{8}=\\frac{12}{8}=\\frac{3}{2}=1\\frac{1}{2}$ jam."
+        },
+        {
+          "id": "MTK-B01-M01-013",
+          "type": "PG",
+          "text": "Sebuah tangki berisi $\\frac{3}{10}$ bagian air. Petugas memiliki 6 tangki dengan kapasitas dan isi yang sama. Jika seluruh air digabungkan, berapa bagian kapasitas satu tangki yang setara dengan jumlah air tersebut?",
+          "options": [
+            "$\\frac{9}{10}$",
+            "$\\frac{18}{10}$",
+            "$\\frac{12}{10}$",
+            "$\\frac{6}{10}$"
+          ],
+          "answer": "$\\frac{18}{10}$",
+          "discussion": "Kalikan $6\\times\\frac{3}{10}=\\frac{18}{10}$. Hasilnya sama dengan $1\\frac{8}{10}$ atau $1,8$ kali kapasitas satu tangki."
+        },
+        {
+          "id": "MTK-B01-M01-014",
+          "type": "PG",
+          "text": "Ibu memiliki $\\frac{5}{6}$ kg gula. Gula tersebut dibagi rata ke dalam 5 kantong kecil. Berapa kilogram gula di setiap kantong?",
+          "options": [
+            "$\\frac{1}{5}$ kg",
+            "$\\frac{1}{6}$ kg",
+            "$\\frac{5}{11}$ kg",
+            "$\\frac{1}{3}$ kg"
+          ],
+          "answer": "$\\frac{1}{6}$ kg",
+          "discussion": "Hitung $\\frac{5}{6}\\div5=\\frac{5}{6}\\times\\frac{1}{5}=\\frac{5}{30}=\\frac{1}{6}$ kg."
+        },
+        {
+          "id": "MTK-B01-M01-015",
+          "type": "PG",
+          "text": "Sebuah pita sepanjang $\\frac{7}{8}$ meter dipotong menjadi 7 bagian yang sama panjang. Berapa meter panjang setiap potongan?",
+          "options": [
+            "$\\frac{1}{8}$ meter",
+            "$\\frac{1}{7}$ meter",
+            "$\\frac{1}{6}$ meter",
+            "$\\frac{8}{7}$ meter"
+          ],
+          "answer": "$\\frac{1}{8}$ meter",
+          "discussion": "Hitung $\\frac{7}{8}\\div7=\\frac{7}{8}\\times\\frac{1}{7}=\\frac{7}{56}=\\frac{1}{8}$ meter."
+        },
+        {
+          "id": "MTK-B01-M01-016",
+          "type": "PG",
+          "text": "Untuk membuat minuman, setiap gelas membutuhkan $\\frac{2}{5}$ liter air. Jika tersedia 3 liter air, berapa gelas penuh yang dapat dibuat?",
+          "options": [
+            "5 gelas",
+            "6 gelas",
+            "7 gelas",
+            "8 gelas"
+          ],
+          "answer": "7 gelas",
+          "discussion": "Hitung $3\\div\\frac{2}{5}=3\\times\\frac{5}{2}=\\frac{15}{2}=7\\frac{1}{2}$. Artinya, tersedia cukup air untuk mengisi 7 gelas penuh dan masih tersisa air untuk setengah gelas."
+        },
+        {
+          "id": "MTK-B01-M01-017",
+          "type": "PG",
+          "text": "Seorang pedagang memiliki 4 meter kain. Setiap seragam membutuhkan $\\frac{2}{3}$ meter kain. Berapa banyak seragam yang dapat dibuat secara utuh?",
+          "options": [
+            "4 seragam",
+            "5 seragam",
+            "6 seragam",
+            "7 seragam"
+          ],
+          "answer": "6 seragam",
+          "discussion": "Hitung $4\\div\\frac{2}{3}=4\\times\\frac{3}{2}=6$. Jadi, pedagang dapat membuat 6 seragam."
+        },
+        {
+          "id": "MTK-B01-M01-018",
+          "type": "PG",
+          "text": "Dalam sebuah resep, diperlukan $\\frac{2}{5}$ kg tepung. Bentuk desimal dari pecahan tersebut adalah ....",
+          "options": [
+            "0,2",
+            "0,4",
+            "0,5",
+            "0,25"
+          ],
+          "answer": "0,4",
+          "discussion": "Ubah penyebut 5 menjadi 10 dengan mengalikan pembilang dan penyebut dengan 2. Diperoleh $\\frac{2}{5}=\\frac{4}{10}=0,4$."
+        },
+        {
+          "id": "MTK-B01-M01-019",
+          "type": "PG",
+          "text": "Hasil pengukuran menunjukkan panjang sebuah benda adalah $\\frac{7}{20}$ meter. Jika diubah menjadi desimal, panjang benda tersebut adalah ....",
+          "options": [
+            "0,25 meter",
+            "0,30 meter",
+            "0,35 meter",
+            "0,70 meter"
+          ],
+          "answer": "0,35 meter",
+          "discussion": "Ubah penyebut 20 menjadi 100 dengan mengalikan pembilang dan penyebut dengan 5. Maka $\\frac{7}{20}=\\frac{35}{100}=0,35$ meter."
+        },
+        {
+          "id": "MTK-B01-M01-020",
+          "type": "PG",
+          "text": "Luas sebuah kertas dinyatakan sebagai $\\frac{3}{4}$ dari satu satuan luas. Jika ditulis dalam bentuk desimal, nilainya adalah ....",
+          "options": [
+            "0,25",
+            "0,50",
+            "0,75",
+            "0,80"
+          ],
+          "answer": "0,75",
+          "discussion": "Bagi 3 dengan 4 sehingga diperoleh $3\\div4=0,75$. Jadi, $\\frac{3}{4}=0,75$."
+        },
+        {
+          "id": "MTK-B01-M01-021",
+          "type": "PG",
+          "text": "Bentuk pecahan paling sederhana dari 0,25 adalah ....",
+          "options": [
+            "$\\frac{1}{2}$",
+            "$\\frac{1}{3}$",
+            "$\\frac{1}{4}$",
+            "$\\frac{1}{5}$"
+          ],
+          "answer": "$\\frac{1}{4}$",
+          "discussion": "Bilangan 0,25 dapat ditulis sebagai $\\frac{25}{100}$. Sederhanakan dengan membagi pembilang dan penyebut dengan 25 sehingga diperoleh $\\frac{1}{4}$."
+        },
+        {
+          "id": "MTK-B01-M01-022",
+          "type": "PG",
+          "text": "Riko menyatakan bahwa 0,5 sama dengan $\\frac{1}{5}$. Pernyataan tersebut ....",
+          "options": [
+            "Benar, karena angka 5 berada di belakang koma",
+            "Salah, karena 0,5 sama dengan $\\frac{1}{2}$",
+            "Benar, karena 5 dibagi 10 sama dengan $\\frac{1}{5}$",
+            "Salah, karena 0,5 sama dengan $\\frac{1}{10}$"
+          ],
+          "answer": "Salah, karena 0,5 sama dengan $\\frac{1}{2}$",
+          "discussion": "Angka 0,5 berarti lima persepuluh, yaitu $\\frac{5}{10}$. Jika disederhanakan menjadi $\\frac{1}{2}$, bukan $\\frac{1}{5}$."
+        },
+        {
+          "id": "MTK-B01-M01-023",
+          "type": "PG",
+          "text": "Dua siswa mengukur tinggi tanaman. Tanaman A memiliki tinggi 0,65 meter, sedangkan tanaman B memiliki tinggi 0,7 meter. Kesimpulan yang benar adalah ....",
+          "options": [
+            "Tanaman A lebih tinggi",
+            "Tanaman B lebih tinggi",
+            "Kedua tanaman sama tinggi",
+            "Selisih tinggi kedua tanaman adalah 0,7 meter"
+          ],
+          "answer": "Tanaman B lebih tinggi",
+          "discussion": "Tuliskan 0,7 menjadi 0,70 agar jumlah angka di belakang koma sama. Karena 70 lebih besar daripada 65, maka 0,70 lebih besar daripada 0,65."
+        },
+        {
+          "id": "MTK-B01-M01-024",
+          "type": "PG",
+          "text": "Perhatikan dua bilangan berikut: 0,08 dan 0,8. Seorang siswa menganggap 0,08 lebih besar karena memiliki lebih banyak angka setelah koma. Pernyataan yang benar adalah ....",
+          "options": [
+            "0,08 lebih besar daripada 0,8",
+            "0,08 sama dengan 0,8",
+            "0,8 lebih besar daripada 0,08",
+            "Keduanya tidak dapat dibandingkan"
+          ],
+          "answer": "0,8 lebih besar daripada 0,08",
+          "discussion": "Tambahkan angka nol di belakang 0,8 sehingga menjadi 0,80. Bandingkan 0,80 dengan 0,08. Jelas bahwa 0,80 lebih besar. Banyaknya angka di belakang koma tidak menentukan besar kecilnya nilai."
+        },
+        {
+          "id": "MTK-B01-M01-025",
+          "type": "PG",
+          "text": "Manakah urutan bilangan berikut dari yang terbesar ke terkecil?\n\n0,5; 0,05; 0,55; 0,15",
+          "options": [
+            "0,55; 0,5; 0,15; 0,05",
+            "0,5; 0,55; 0,05; 0,15",
+            "0,05; 0,15; 0,5; 0,55",
+            "0,55; 0,15; 0,5; 0,05"
+          ],
+          "answer": "0,55; 0,5; 0,15; 0,05",
+          "discussion": "Samakan jumlah angka di belakang koma: 0,55; 0,50; 0,15; dan 0,05. Urutan dari terbesar adalah 0,55; 0,50; 0,15; lalu 0,05."
+        },
+        {
+          "id": "MTK-B01-M01-026",
+          "type": "PG",
+          "text": "Empat siswa berlari dengan jarak yang berbeda. Jarak yang mereka tempuh adalah sebagai berikut:\n\n- Andi: 0,6 km\n- Beni: 0,8 km\n- Citra: 0,7 km\n- Dini: 0,5 km\n\nSiapakah yang menempuh jarak paling jauh?",
+          "options": [
+            "Andi",
+            "Beni",
+            "Citra",
+            "Dini"
+          ],
+          "answer": "Beni",
+          "discussion": "Bandingkan nilai desimal keempat siswa. Nilai terbesar adalah 0,8 km sehingga Beni menempuh jarak paling jauh."
+        },
+        {
+          "id": "MTK-B01-M01-027",
+          "type": "PG",
+          "text": "Nilai empat siswa dalam sebuah kegiatan pengukuran adalah 0,25; 0,4; 0,35; dan 0,3. Urutan nilai dari terkecil ke terbesar adalah ....",
+          "options": [
+            "0,25; 0,3; 0,35; 0,4",
+            "0,4; 0,35; 0,3; 0,25",
+            "0,3; 0,25; 0,4; 0,35",
+            "0,25; 0,35; 0,3; 0,4"
+          ],
+          "answer": "0,25; 0,3; 0,35; 0,4",
+          "discussion": "Samakan jumlah angka di belakang koma menjadi dua angka. Urutannya adalah 0,25; 0,30; 0,35; dan 0,40."
+        },
+        {
+          "id": "MTK-B01-M01-028",
+          "type": "PG",
+          "text": "Sebuah toko memiliki persediaan 5 liter minyak. Setiap botol kecil diisi sebanyak $\\frac{3}{4}$ liter. Berapa botol penuh yang dapat diisi?",
+          "options": [
+            "5 botol",
+            "6 botol",
+            "7 botol",
+            "8 botol"
+          ],
+          "answer": "6 botol",
+          "discussion": "Hitung $5\\div\\frac{3}{4}=5\\times\\frac{4}{3}=\\frac{20}{3}=6\\frac{2}{3}$. Jadi, hanya 6 botol yang dapat diisi penuh."
+        },
+        {
+          "id": "MTK-B01-M01-029",
+          "type": "PG",
+          "text": "Setiap tanaman membutuhkan $\\frac{2}{7}$ liter air untuk penyiraman. Jika terdapat 4 tanaman yang membutuhkan air dalam jumlah sama, berapa liter air yang diperlukan seluruhnya?",
+          "options": [
+            "$\\frac{6}{7}$ liter",
+            "$\\frac{8}{7}$ liter",
+            "$\\frac{2}{11}$ liter",
+            "$\\frac{4}{7}$ liter"
+          ],
+          "answer": "$\\frac{8}{7}$ liter",
+          "discussion": "Kalikan $4\\times\\frac{2}{7}=\\frac{8}{7}=1\\frac{1}{7}$ liter. Jadi, seluruh tanaman membutuhkan $1\\frac{1}{7}$ liter air."
+        },
+        {
+          "id": "MTK-B01-M01-030",
+          "type": "PG",
+          "text": "Sebuah wadah berisi $\\frac{5}{6}$ liter susu. Susu tersebut akan dituangkan sama banyak ke dalam 2 gelas. Berapa liter susu yang diterima setiap gelas?",
+          "options": [
+            "$\\frac{5}{12}$ liter",
+            "$\\frac{5}{8}$ liter",
+            "$\\frac{10}{6}$ liter",
+            "$\\frac{2}{5}$ liter"
+          ],
+          "answer": "$\\frac{5}{12}$ liter",
+          "discussion": "Hitung $\\frac{5}{6}\\div2=\\frac{5}{6}\\times\\frac{1}{2}=\\frac{5}{12}$ liter."
+        },
+        {
+          "id": "MTK-B01-M01-031",
+          "type": "PG",
+          "text": "Seorang pelari berlatih dengan menempuh jarak $\\frac{3}{5}$ km setiap putaran. Jika ia berlari sebanyak 5 putaran, berapa kilometer jarak yang ditempuh?",
+          "options": [
+            "2 km",
+            "3 km",
+            "4 km",
+            "5 km"
+          ],
+          "answer": "3 km",
+          "discussion": "Hitung $5\\times\\frac{3}{5}=\\frac{15}{5}=3$ km. Jadi, total jarak yang ditempuh adalah 3 km."
+        },
+        {
+          "id": "MTK-B01-M01-032",
+          "type": "PG",
+          "text": "Sebuah tali sepanjang 3 meter dipotong menjadi bagian-bagian yang masing-masing memiliki panjang $\\frac{1}{2}$ meter. Berapa banyak potongan tali yang diperoleh?",
+          "options": [
+            "3 potongan",
+            "4 potongan",
+            "5 potongan",
+            "6 potongan"
+          ],
+          "answer": "6 potongan",
+          "discussion": "Hitung $3\\div\\frac{1}{2}=3\\times2=6$. Jadi, diperoleh 6 potongan tali."
+        },
+        {
+          "id": "MTK-B01-M01-033",
+          "type": "PG",
+          "text": "Perhatikan pasangan bilangan berikut.\n\nI. $\\frac{1}{2}$ dan 0,5 II. $\\frac{1}{4}$ dan 0,4 III. $\\frac{3}{4}$ dan 0,75\n\nPasangan bilangan yang memiliki nilai sama adalah ....",
+          "options": [
+            "I saja",
+            "II saja",
+            "I dan III",
+            "II dan III"
+          ],
+          "answer": "I dan III",
+          "discussion": "Pasangan I benar karena $\\frac{1}{2}=0,5$. Pasangan II salah karena $\\frac{1}{4}=0,25$. Pasangan III benar karena $\\frac{3}{4}=0,75$."
+        },
+        {
+          "id": "MTK-B01-M01-034",
+          "type": "PG",
+          "text": "Perhatikan data panjang beberapa benda berikut.\n\n| Benda     | Panjang |\n| --------- | ------- |\n| Pensil    | 0,15 m  |\n| Penggaris | 0,30 m  |\n| Penghapus | 0,05 m  |\n| Spidol    | 0,12 m  |\n\nBenda yang paling panjang adalah ....",
+          "options": [
+            "Pensil",
+            "Penggaris",
+            "Penghapus",
+            "Spidol"
+          ],
+          "answer": "Penggaris",
+          "discussion": "Bandingkan semua nilai desimal. Nilai terbesar adalah 0,30 meter, yaitu panjang penggaris."
+        },
+        {
+          "id": "MTK-B01-M01-035",
+          "type": "PG",
+          "text": "Dina menghitung $\\frac{3}{4}\\div3$ dan mendapatkan hasil $\\frac{3}{4}$. Kesalahan Dina adalah ....",
+          "options": [
+            "Seharusnya pembilang dan penyebut dikalikan 3",
+            "Seharusnya pecahan dikalikan dengan kebalikan dari 3",
+            "Seharusnya pembilang dikurangi 3",
+            "Seharusnya penyebut dibagi 3 saja"
+          ],
+          "answer": "Seharusnya pecahan dikalikan dengan kebalikan dari 3",
+          "discussion": "Pembagian pecahan dengan bilangan asli dilakukan dengan mengalikan pecahan dengan kebalikan bilangan tersebut. Jadi, $\\frac{3}{4}\\div3=\\frac{3}{4}\\times\\frac{1}{3}=\\frac{1}{4}$."
+        },
+        {
+          "id": "MTK-B01-M01-036",
+          "type": "PG",
+          "text": "Sebuah toko mempunyai 6 liter madu. Madu tersebut dikemas ke dalam botol kecil yang masing-masing berisi $\\frac{3}{8}$ liter. Berapa botol penuh yang dapat dihasilkan?",
+          "options": [
+            "12 botol",
+            "14 botol",
+            "16 botol",
+            "18 botol"
+          ],
+          "answer": "16 botol",
+          "discussion": "Jumlah botol diperoleh dengan menghitung $6\\div\\frac{3}{8}=6\\times\\frac{8}{3}=\\frac{48}{3}=16$. Jadi, dapat dihasilkan 16 botol penuh."
+        },
+        {
+          "id": "MTK-B01-M01-037",
+          "type": "PG",
+          "text": "Sebuah keluarga menggunakan $\\frac{3}{5}$ liter air untuk memasak setiap hari. Jika kebutuhan tersebut berlangsung selama 7 hari, berapa liter air yang digunakan seluruhnya?",
+          "options": [
+            "$3\\frac{1}{5}$ liter",
+            "$4\\frac{1}{5}$ liter",
+            "$5\\frac{1}{5}$ liter",
+            "$6\\frac{1}{5}$ liter"
+          ],
+          "answer": "$4\\frac{1}{5}$ liter",
+          "discussion": "Hitung $7\\times\\frac{3}{5}=\\frac{21}{5}$. Ubah menjadi pecahan campuran: $\\frac{21}{5}=4\\frac{1}{5}$ liter."
+        },
+        {
+          "id": "MTK-B01-M01-038",
+          "type": "PG",
+          "text": "Rudi memiliki papan sepanjang 5 meter. Ia ingin memotong papan tersebut menjadi beberapa bagian yang masing-masing panjangnya $\\frac{2}{3}$ meter. Berapa potongan utuh yang dapat dibuat dan berapa sisa papan?",
+          "options": [
+            "6 potongan, sisa 1 meter",
+            "7 potongan, sisa $\\frac{1}{3}$ meter",
+            "7 potongan, sisa $\\frac{2}{3}$ meter",
+            "8 potongan, tanpa sisa"
+          ],
+          "answer": "7 potongan, sisa $\\frac{1}{3}$ meter",
+          "discussion": "Hitung $5\\div\\frac{2}{3}=\\frac{15}{2}=7\\frac{1}{2}$. Artinya, hanya 7 potongan utuh yang dapat dibuat. Panjang yang digunakan adalah $7\\times\\frac{2}{3}=\\frac{14}{3}$. Sisanya adalah $5-\\frac{14}{3}=\\frac{1}{3}$ meter."
+        },
+        {
+          "id": "MTK-B01-M01-039",
+          "type": "PG",
+          "text": "Empat siswa memperoleh hasil pengukuran sebagai berikut:\n\n- Rani: 0,45 meter\n- Siska: 0,5 meter\n- Tono: 0,48 meter\n- Wawan: 0,405 meter\n\nSiapakah yang memperoleh hasil pengukuran paling besar?",
+          "options": [
+            "Rani",
+            "Siska",
+            "Tono",
+            "Wawan"
+          ],
+          "answer": "Siska",
+          "discussion": "Samakan jumlah angka di belakang koma menjadi tiga angka: 0,450; 0,500; 0,480; dan 0,405. Nilai terbesar adalah 0,500 meter sehingga Siska memperoleh hasil paling besar."
+        },
+        {
+          "id": "MTK-B01-M01-040",
+          "type": "PG",
+          "text": "Sebuah kelompok siswa mencatat hasil pengukuran panjang empat tali berikut:\n\n0,75 m; 0,705 m; 0,8 m; dan 0,78 m.\n\nUrutan dari yang terpendek hingga terpanjang adalah ....",
+          "options": [
+            "0,705; 0,75; 0,78; 0,8",
+            "0,8; 0,78; 0,75; 0,705",
+            "0,75; 0,705; 0,8; 0,78",
+            "0,705; 0,78; 0,75; 0,8"
+          ],
+          "answer": "0,705; 0,75; 0,78; 0,8",
+          "discussion": "Samakan jumlah angka di belakang koma: 0,705; 0,750; 0,780; dan 0,800. Urutan dari terkecil ke terbesar adalah 0,705; 0,750; 0,780; dan 0,800."
+        },
+        {
+          "id": "MTK-B01-M01-041",
+          "type": "PG",
+          "text": "Sebuah toko mempunyai 3 liter sirup. Setiap botol membutuhkan $\\frac{2}{5}$ liter sirup. Setelah mengisi sebanyak 5 botol penuh, berapa liter sirup yang masih tersisa?",
+          "options": [
+            "0,5 liter",
+            "1 liter",
+            "1,5 liter",
+            "2 liter"
+          ],
+          "answer": "1 liter",
+          "discussion": "Sirup yang digunakan adalah $5\\times\\frac{2}{5}=\\frac{10}{5}=2$ liter. Sisa sirup adalah $3-2=1$ liter."
+        },
+        {
+          "id": "MTK-B01-M01-042",
+          "type": "PG",
+          "text": "Sebuah bak berisi 4 liter air. Air tersebut akan dituangkan ke dalam gelas yang masing-masing dapat menampung $\\frac{3}{4}$ liter. Setelah mengisi 5 gelas penuh, berapa liter air yang tersisa?",
+          "options": [
+            "$\\frac{1}{4}$ liter",
+            "$\\frac{1}{2}$ liter",
+            "$\\frac{3}{4}$ liter",
+            "1 liter"
+          ],
+          "answer": "$\\frac{1}{4}$ liter",
+          "discussion": "Air yang digunakan untuk 5 gelas adalah $5\\times\\frac{3}{4}=\\frac{15}{4}=3\\frac{3}{4}$ liter. Sisa air adalah $4-3\\frac{3}{4}=\\frac{1}{4}$ liter."
+        },
+        {
+          "id": "MTK-B01-M01-043",
+          "type": "PG",
+          "text": "Seorang pedagang memiliki 2 kg kacang. Setiap bungkus berisi $\\frac{1}{4}$ kg kacang. Ia telah membuat 6 bungkus. Berapa kilogram kacang yang masih tersisa?",
+          "options": [
+            "$\\frac{1}{4}$ kg",
+            "$\\frac{1}{2}$ kg",
+            "$\\frac{3}{4}$ kg",
+            "1 kg"
+          ],
+          "answer": "$\\frac{1}{2}$ kg",
+          "discussion": "Kacang yang sudah dikemas adalah $6\\times\\frac{1}{4}=\\frac{6}{4}=1\\frac{1}{2}$ kg. Sisa kacang adalah $2-1\\frac{1}{2}=\\frac{1}{2}$ kg."
+        },
+        {
+          "id": "MTK-B01-M01-044",
+          "type": "PG",
+          "text": "Empat anak memiliki panjang pita masing-masing 0,35 meter; 0,4 meter; 0,305 meter; dan 0,38 meter. Jika pita mereka diurutkan dari yang terpanjang ke terpendek, urutan yang benar adalah ....",
+          "options": [
+            "0,4; 0,38; 0,35; 0,305",
+            "0,305; 0,35; 0,38; 0,4",
+            "0,4; 0,35; 0,38; 0,305",
+            "0,38; 0,4; 0,305; 0,35"
+          ],
+          "answer": "0,4; 0,38; 0,35; 0,305",
+          "discussion": "Samakan menjadi tiga angka di belakang koma: 0,400; 0,380; 0,350; dan 0,305. Urutan terbesar hingga terkecil adalah 0,400; 0,380; 0,350; dan 0,305."
+        },
+        {
+          "id": "MTK-B01-M01-045",
+          "type": "PG",
+          "text": "Perhatikan pernyataan berikut.\n\nI. 0,6 lebih besar daripada 0,56. II. 0,45 lebih kecil daripada 0,5. III. 0,08 lebih besar daripada 0,1. IV. 0,75 sama dengan $\\frac{3}{4}$.\n\nPernyataan yang benar adalah ....",
+          "options": [
+            "I dan II",
+            "I, II, dan IV",
+            "II dan III",
+            "I, III, dan IV"
+          ],
+          "answer": "I, II, dan IV",
+          "discussion": "Pernyataan I benar karena 0,60 lebih besar daripada 0,56. Pernyataan II benar karena 0,45 lebih kecil daripada 0,50. Pernyataan III salah karena 0,08 lebih kecil daripada 0,10. Pernyataan IV benar karena $\\frac{3}{4}=0,75$."
+        },
+        {
+          "id": "MTK-B01-M01-046",
+          "type": "PG",
+          "text": "Dalam sebuah lomba, peserta harus menempuh jarak tertentu. Tiga peserta mencatat hasil sebagai berikut:\n\n- Arman: $\\frac{3}{4}$ km\n- Budi: 0,7 km\n- Candra: 0,72 km\n\nSiapakah yang menempuh jarak paling jauh?",
+          "options": [
+            "Arman",
+            "Budi",
+            "Candra",
+            "Budi dan Candra sama jauh"
+          ],
+          "answer": "Arman",
+          "discussion": "Ubah $\\frac{3}{4}$ menjadi 0,75. Bandingkan 0,75; 0,70; dan 0,72. Nilai terbesar adalah 0,75 sehingga Arman menempuh jarak paling jauh."
+        },
+        {
+          "id": "MTK-B01-M01-047",
+          "type": "PG",
+          "text": "Sebuah kelompok memiliki 3 meter kain. Mereka menggunakan $\\frac{2}{5}$ dari 3 meter kain tersebut untuk membuat hiasan. Berapa meter kain yang digunakan?",
+          "options": [
+            "0,8 meter",
+            "1,0 meter",
+            "1,2 meter",
+            "1,5 meter"
+          ],
+          "answer": "1,2 meter",
+          "discussion": "Hitung $3\\times\\frac{2}{5}=\\frac{6}{5}=1,2$ meter. Jadi, kain yang digunakan adalah 1,2 meter."
+        },
+        {
+          "id": "MTK-B01-M01-048",
+          "type": "PG",
+          "text": "Sebuah tangki berisi 5 liter air. Air digunakan untuk mengisi beberapa botol yang masing-masing berisi $\\frac{2}{3}$ liter. Berapa botol penuh yang dapat diisi dan berapa sisa airnya?",
+          "options": [
+            "6 botol, sisa 1 liter",
+            "7 botol, sisa $\\frac{1}{3}$ liter",
+            "7 botol, sisa $\\frac{2}{3}$ liter",
+            "8 botol, tanpa sisa"
+          ],
+          "answer": "7 botol, sisa $\\frac{1}{3}$ liter",
+          "discussion": "Hitung $5\\div\\frac{2}{3}=\\frac{15}{2}=7\\frac{1}{2}$. Artinya, dapat diisi 7 botol penuh. Air yang digunakan adalah $7\\times\\frac{2}{3}=\\frac{14}{3}$ liter. Sisanya $5-\\frac{14}{3}=\\frac{1}{3}$ liter."
+        },
+        {
+          "id": "MTK-B01-M01-049",
+          "type": "PG",
+          "text": "Lima siswa mengukur panjang benda yang berbeda. Hasilnya adalah:\n\n- Siswa A: 0,625 meter\n- Siswa B: $\\frac{3}{5}$ meter\n- Siswa C: 0,65 meter\n- Siswa D: $\\frac{1}{2}$ meter\n\nSiapakah yang memiliki benda paling panjang?",
+          "options": [
+            "Siswa A",
+            "Siswa B",
+            "Siswa C",
+            "Siswa D"
+          ],
+          "answer": "Siswa C",
+          "discussion": "Ubah pecahan menjadi desimal. Siswa B memiliki panjang 0,6 meter dan siswa D memiliki panjang 0,5 meter. Bandingkan dengan 0,625 dan 0,65. Karena 0,650 lebih besar daripada 0,625; 0,600; dan 0,500, maka benda milik siswa C paling panjang."
+        },
+        {
+          "id": "MTK-B01-M01-050",
+          "type": "PG",
+          "text": "Sebuah toko mempunyai persediaan 4 liter minyak. Minyak tersebut akan dikemas ke dalam botol berukuran $\\frac{3}{5}$ liter. Setelah mengisi botol sebanyak 5 buah, pemilik toko ingin mengetahui sisa minyak dalam bentuk desimal. Berapa liter sisa minyak tersebut?",
+          "options": [
+            "0,5 liter",
+            "0,8 liter",
+            "1,0 liter",
+            "1,2 liter"
+          ],
+          "answer": "1,0 liter",
+          "discussion": "Minyak yang digunakan adalah $5\\times\\frac{3}{5}=\\frac{15}{5}=3$ liter. Sisa minyak adalah $4-3=1$ liter. Dalam bentuk desimal, 1 liter dapat ditulis sebagai 1,0 liter."
+        }
+      ]
+    }
+  ]
+}
