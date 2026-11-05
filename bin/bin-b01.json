@@ -11,7 +11,7 @@
 {
 "id": "BIN-B01-M01-001",
 "type": "PG",
-"text": "Perhatikan kalimat berikut! "Halaman belakang rumahku ditumbuhi rumput hijau yang sangat subur." Objek yang dideskripsikan dalam kalimat tersebut adalah...",
+"text": "Perhatikan kalimat berikut! \"Halaman belakang rumahku ditumbuhi rumput hijau yang sangat subur.\" Objek yang dideskripsikan dalam kalimat tersebut adalah...",
 "options": [
 "Rumah mewah",
 "Halaman belakang rumah",
@@ -50,7 +50,7 @@
 {
 "id": "BIN-B01-M01-004",
 "type": "PG",
-"text": ""Suara deburan ombak terdengar sangat merdu di telinga." Penginderaan yang dominan digunakan pada kalimat tersebut adalah...",
+"text": "\"Suara deburan ombak terdengar sangat merdu di telinga.\" Penginderaan yang dominan digunakan pada kalimat tersebut adalah...",
 "options": [
 "Penglihatan",
 "Pendengaran",
@@ -58,12 +58,12 @@
 "Perabaan"
 ],
 "answer": "Pendengaran",
-"discussion": "Kata kunci dalam kalimat tersebut adalah "suara deburan ombak terdengar", yang berkaitan dengan indra pendengaran."
+"discussion": "Kata kunci dalam kalimat tersebut adalah \"suara deburan ombak terdengar\", yang berkaitan dengan indra pendengaran."
 },
 {
 "id": "BIN-B01-M01-005",
 "type": "PG",
-"text": ""Udara di pegunungan itu terasa sangat dingin menusuk kulit." Aspek fisik yang dirasakan berdasarkan kalimat tersebut berkaitan dengan indra...",
+"text": "\"Udara di pegunungan itu terasa sangat dingin menusuk kulit.\" Aspek fisik yang dirasakan berdasarkan kalimat tersebut berkaitan dengan indra...",
 "options": [
 "Penglihatan",
 "Pendengaran",
@@ -76,7 +76,7 @@
 {
 "id": "BIN-B01-M01-006",
 "type": "PG",
-"text": "Perhatikan kalimat berikut! "Bunga melati di taman itu berwarna putih bersih dengan aroma yang sangat harum." Kata sifat (adjektiva) yang terdapat dalam kalimat tersebut adalah...",
+"text": "Perhatikan kalimat berikut! \"Bunga melati di taman itu berwarna putih bersih dengan aroma yang sangat harum.\" Kata sifat (adjektiva) yang terdapat dalam kalimat tersebut adalah...",
 "options": [
 "Bunga, taman",
 "Putih, bersih, harum",
@@ -123,7 +123,7 @@
 "Hari ini adalah hari Senin tanggal 4 November."
 ],
 "answer": "Ruangan kelas 6 sangat sejuk dan nyaman untuk belajar.",
-"discussion": "Kata "nyaman" bersifat relatif dan merupakan pendapat pribadi (opini), sementara yang lainnya adalah data pasti (fakta)."
+"discussion": "Kata \"nyaman\" bersifat relatif dan merupakan pendapat pribadi (opini), sementara yang lainnya adalah data pasti (fakta)."
 },
 {
 "id": "BIN-B01-M01-010",
@@ -141,7 +141,7 @@
 {
 "id": "BIN-B01-M01-011",
 "type": "PG",
-"text": "Perhatikan kalimat rumpang berikut! "Kelinci itu memiliki bulu yang sangat ... dan lembut." Kata sifat yang tepat untuk melengkapi kalimat tersebut adalah...",
+"text": "Perhatikan kalimat rumpang berikut! \"Kelinci itu memiliki bulu yang sangat ... dan lembut.\" Kata sifat yang tepat untuk melengkapi kalimat tersebut adalah...",
 "options": [
 "Kasar",
 "Tebal",
@@ -180,7 +180,7 @@
 {
 "id": "BIN-B01-M01-014",
 "type": "PG",
-"text": ""Ibu guru sedang menulis di papan tulis putih." Objek utama yang melakukan pekerjaan dalam kalimat tersebut adalah...",
+"text": "\"Ibu guru sedang menulis di papan tulis putih.\" Objek utama yang melakukan pekerjaan dalam kalimat tersebut adalah...",
 "options": [
 "Papan tulis",
 "Ibu guru",
@@ -188,12 +188,12 @@
 "Penghapus"
 ],
 "answer": "Ibu guru",
-"discussion": "Subjek atau pelaku utama dalam kalimat tersebut adalah "Ibu guru"."
+"discussion": "Subjek atau pelaku utama dalam kalimat tersebut adalah \"Ibu guru\"."
 },
 {
 "id": "BIN-B01-M01-015",
 "type": "PG",
-"text": ""Sawah di desa pamanku tampak seperti permadani hijau yang membentang luas." Majas atau gaya bahasa yang digunakan dalam kalimat tersebut adalah...",
+"text": "\"Sawah di desa pamanku tampak seperti permadani hijau yang membentang luas.\" Majas atau gaya bahasa yang digunakan dalam kalimat tersebut adalah...",
 "options": [
 "Majas personifikasi",
 "Majas hiperbola",
@@ -201,7 +201,7 @@
 "Majas litotes"
 ],
 "answer": "Majas simile (perumpamaan)",
-"discussion": "Kalimat tersebut membandingkan sawah dengan permadani menggunakan kata penghubung "seperti" (majas simile)."
+"discussion": "Kalimat tersebut membandingkan sawah dengan permadani menggunakan kata penghubung \"seperti\" (majas simile)."
 },
 {
 "id": "BIN-B01-M01-016",
@@ -232,7 +232,7 @@
 {
 "id": "BIN-B01-M01-018",
 "type": "PG",
-"text": "Manakah penulisan kata depan "di" yang benar sebagai keterangan tempat?",
+"text": "Manakah penulisan kata depan \"di\" yang benar sebagai keterangan tempat?",
 "options": [
 "disekolah",
 "di sekolah",
@@ -240,12 +240,12 @@
 "di-sekolah"
 ],
 "answer": "di sekolah",
-"discussion": "Kata depan "di" yang menunjukkan tempat harus ditulis terpisah dari kata yang mengikutinya."
+"discussion": "Kata depan \"di\" yang menunjukkan tempat harus ditulis terpisah dari kata yang mengikutinya."
 },
 {
 "id": "BIN-B01-M01-019",
 "type": "PG",
-"text": "Perhatikan kalimat berikut! "Pagi hari yang cerah membuat suasana di halaman sekolah terasa sangat bersemangat." Gagasan pokok yang terkandung berhubungan dengan...",
+"text": "Perhatikan kalimat berikut! \"Pagi hari yang cerah membuat suasana di halaman sekolah terasa sangat bersemangat.\" Gagasan pokok yang terkandung berhubungan dengan...",
 "options": [
 "Suasana pagi di halaman sekolah",
 "Olahraga pagi hari",
@@ -258,7 +258,7 @@
 {
 "id": "BIN-B01-M01-020",
 "type": "PG",
-"text": "Sinonim (persamaan kata) dari kata "bersih" adalah...",
+"text": "Sinonim (persamaan kata) dari kata \"bersih\" adalah...",
 "options": [
 "Kotor",
 "Kusam",
@@ -271,7 +271,7 @@
 {
 "id": "BIN-B01-M01-021",
 "type": "PG",
-"text": "Antonim (lawan kata) dari kata "luas" adalah...",
+"text": "Antonim (lawan kata) dari kata \"luas\" adalah...",
 "options": [
 "Lebar",
 "Sempit",
@@ -284,7 +284,7 @@
 {
 "id": "BIN-B01-M01-022",
 "type": "PG",
-"text": ""Kucing anggora itu memiliki bulu lebat berwarna putih salju dan mata bulat berwarna biru." Kalimat tersebut termasuk jenis teks...",
+"text": "\"Kucing anggora itu memiliki bulu lebat berwarna putih salju dan mata bulat berwarna biru.\" Kalimat tersebut termasuk jenis teks...",
 "options": [
 "Narasi",
 "Deskripsi",
@@ -323,7 +323,7 @@
 {
 "id": "BIN-B01-M01-025",
 "type": "PG",
-"text": "Perhatikan kalimat berikut! "Aroma wangi bunga melati tercium sangat lembut saat angin berembus." Indra yang digunakan untuk mendeteksi aroma wangi adalah...",
+"text": "Perhatikan kalimat berikut! \"Aroma wangi bunga melati tercium sangat lembut saat angin berembus.\" Indra yang digunakan untuk mendeteksi aroma wangi adalah...",
 "options": [
 "Telinga",
 "Mata",
@@ -336,7 +336,7 @@
 {
 "id": "BIN-B01-M01-026",
 "type": "PG",
-"text": "Manakah kalimat penjelas yang paling sesuai untuk kalimat utama "Pasar tradisional di desaku sangat ramai setiap pagi"?",
+"text": "Manakah kalimat penjelas yang paling sesuai untuk kalimat utama \"Pasar tradisional di desaku sangat ramai setiap pagi\"?",
 "options": [
 "Harga barang-barang di sana sangat mahal.",
 "Para penjual dan pembeli tampak tawar-menawar sambil berdesakan di lorong pasar.",
@@ -362,7 +362,7 @@
 {
 "id": "BIN-B01-M01-028",
 "type": "PG",
-"text": ""Kakek duduk di kursi goyang kayu sambil menikmati secangkir teh hangat." Objek pelaku utama dalam kalimat tersebut adalah...",
+"text": "\"Kakek duduk di kursi goyang kayu sambil menikmati secangkir teh hangat.\" Objek pelaku utama dalam kalimat tersebut adalah...",
 "options": [
 "Kursi goyang",
 "Kakek",
@@ -375,7 +375,7 @@
 {
 "id": "BIN-B01-M01-029",
 "type": "PG",
-"text": "Perhatikan kalimat berikut! "Air terjun itu mengalir deras dari atas tebing batu." Kata kerja (verba) dalam kalimat tersebut adalah...",
+"text": "Perhatikan kalimat berikut! \"Air terjun itu mengalir deras dari atas tebing batu.\" Kata kerja (verba) dalam kalimat tersebut adalah...",
 "options": [
 "Air terjun",
 "Mengalir",
@@ -383,7 +383,7 @@
 "Batu"
 ],
 "answer": "Mengalir",
-"discussion": "Kata kerja yang menunjukkan suatu tindakan atau proses adalah "mengalir"."
+"discussion": "Kata kerja yang menunjukkan suatu tindakan atau proses adalah \"mengalir\"."
 },
 {
 "id": "BIN-B01-M01-030",
@@ -401,7 +401,7 @@
 {
 "id": "BIN-B01-M02-001",
 "type": "PG",
-"text": ""Sampah plastik berserakan di tepi pantai membuat pemandangan menjadi kurang indah." Kalimat tersebut mengandung unsur...",
+"text": "\"Sampah plastik berserakan di tepi pantai membuat pemandangan menjadi kurang indah.\" Kalimat tersebut mengandung unsur...",
 "options": [
 "Pujian",
 "Kritik / pengamatan masalah lingkungan",
@@ -427,7 +427,7 @@
 {
 "id": "BIN-B01-M02-003",
 "type": "PG",
-"text": "Kata baku dari kata "apotik" yang benar sesuai Kamus Besar Bahasa Indonesia (KBBI) adalah...",
+"text": "Kata baku dari kata \"apotik\" yang benar sesuai Kamus Besar Bahasa Indonesia (KBBI) adalah...",
 "options": [
 "Apotik",
 "Apotek",
@@ -440,7 +440,7 @@
 {
 "id": "BIN-B01-M02-004",
 "type": "PG",
-"text": "Kata baku dari kata "jadwal" yang benar adalah...",
+"text": "Kata baku dari kata \"jadwal\" yang benar adalah...",
 "options": [
 "Jual",
 "Jadual",
@@ -453,7 +453,7 @@
 {
 "id": "BIN-B01-M02-005",
 "type": "PG",
-"text": "Perhatikan kalimat berikut! "Tanaman hias itu disiram setiap sore hari oleh bibi." Kalimat tersebut merupakan contoh kalimat...",
+"text": "Perhatikan kalimat berikut! \"Tanaman hias itu disiram setiap sore hari oleh bibi.\" Kalimat tersebut merupakan contoh kalimat...",
 "options": [
 "Aktif",
 "Pasif",
@@ -461,12 +461,12 @@
 "Perintah"
 ],
 "answer": "Pasif",
-"discussion": "Kalimat pasif ditandai dengan predikat berawalan "di-" dan subjek yang dikenai pekerjaan (tanaman hias disiram)."
+"discussion": "Kalimat pasif ditandai dengan predikat berawalan \"di-\" dan subjek yang dikenai pekerjaan (tanaman hias disiram)."
 },
 {
 "id": "BIN-B01-M02-006",
 "type": "PG",
-"text": "Ubahlah kalimat aktif "Rafi menyiram tanaman" menjadi kalimat pasif yang benar!",
+"text": "Ubahlah kalimat aktif \"Rafi menyiram tanaman\" menjadi kalimat pasif yang benar!",
 "options": [
 "Tanaman disiram oleh Rafi.",
 "Rafi disiram tanaman.",
@@ -505,7 +505,7 @@
 {
 "id": "BIN-B01-M02-009",
 "type": "PG",
-"text": "Perhatikan kalimat berikut! "Pohon mangga berbuah lebat di halaman." Keterangan tempat dalam kalimat tersebut adalah...",
+"text": "Perhatikan kalimat berikut! \"Pohon mangga berbuah lebat di halaman.\" Keterangan tempat dalam kalimat tersebut adalah...",
 "options": [
 "Pohon mangga",
 "Berbuah lebat",
@@ -513,7 +513,7 @@
 "Setiap hari"
 ],
 "answer": "Di halaman",
-"discussion": "Keterangan tempat ditunjukkan oleh frasa "di halaman"."
+"discussion": "Keterangan tempat ditunjukkan oleh frasa \"di halaman\"."
 },
 {
 "id": "BIN-B01-M02-010",
