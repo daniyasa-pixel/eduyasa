@@ -1,0 +1,664 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "MTK-B03",
+      "chapter_title": "Bab 3: Kubus dan Balok",
+      "questions": [
+        {
+          "id": "MTK-B03-M01-001",
+          "type": "PG",
+          "text": "Sebuah bangunan kecil dibuat menggunakan 4 kubus satuan yang disusun berjajar. Berapa jumlah kubus yang digunakan?",
+          "options": [
+            "2 kubus",
+            "3 kubus",
+            "4 kubus",
+            "5 kubus"
+          ],
+          "answer": "4 kubus",
+          "discussion": "Setiap bagian bangunan terdiri atas satu kubus satuan. Karena terdapat 4 kubus yang disusun berjajar, jumlah seluruh kubus adalah 4."
+        },
+        {
+          "id": "MTK-B03-M01-002",
+          "type": "PG",
+          "text": "Sebuah kotak berbentuk kubus disusun dari kubus-kubus satuan. Setiap sisinya terdiri atas 2 kubus satuan. Berapa jumlah seluruh kubus satuan yang diperlukan?",
+          "options": [
+            "4 kubus",
+            "6 kubus",
+            "8 kubus",
+            "10 kubus"
+          ],
+          "answer": "8 kubus",
+          "discussion": "Susunan kubus memiliki 2 kubus ke samping, 2 kubus ke belakang, dan 2 kubus ke atas. Jumlahnya adalah $2\\times2\\times2=8$ kubus."
+        },
+        {
+          "id": "MTK-B03-M01-003",
+          "type": "PG",
+          "text": "Riko menyusun 3 kubus satuan secara bertumpuk ke atas. Jika dilihat dari depan, bentuk susunannya akan terlihat seperti ....",
+          "options": [
+            "Tiga persegi berjajar mendatar",
+            "Tiga persegi bertumpuk vertikal",
+            "Empat persegi membentuk persegi besar",
+            "Dua persegi berjajar mendatar"
+          ],
+          "answer": "Tiga persegi bertumpuk vertikal",
+          "discussion": "Karena ketiga kubus disusun ke atas, tampak depannya memperlihatkan tiga persegi yang bertumpuk secara vertikal."
+        },
+        {
+          "id": "MTK-B03-M01-004",
+          "type": "PG",
+          "text": "Sebuah susunan terdiri atas 2 baris kubus. Setiap baris memiliki 3 kubus yang disusun berjajar. Berapa jumlah seluruh kubus?",
+          "options": [
+            "5 kubus",
+            "6 kubus",
+            "8 kubus",
+            "9 kubus"
+          ],
+          "answer": "6 kubus",
+          "discussion": "Setiap baris berisi 3 kubus dan terdapat 2 baris. Jumlah seluruhnya adalah $2\\times3=6$ kubus."
+        },
+        {
+          "id": "MTK-B03-M01-005",
+          "type": "PG",
+          "text": "Sebuah bangunan dibuat menggunakan beberapa kubus yang ukurannya sama. Ciri utama kubus yang membedakannya dari balok adalah ....",
+          "options": [
+            "Semua sisinya berbentuk persegi dan sama besar",
+            "Memiliki sisi berbentuk lingkaran",
+            "Memiliki sisi berbentuk segitiga",
+            "Panjang semua rusuknya berbeda"
+          ],
+          "answer": "Semua sisinya berbentuk persegi dan sama besar",
+          "discussion": "Kubus memiliki 6 sisi berbentuk persegi yang sama besar. Semua rusuknya juga memiliki panjang yang sama."
+        },
+        {
+          "id": "MTK-B03-M01-006",
+          "type": "PG",
+          "text": "Pada sebuah peta berpetak, kolom diberi huruf A sampai E dan baris diberi angka 1 sampai 5. Sebuah sekolah berada pada perpotongan kolom C dan baris 2. Bagaimana cara menuliskan lokasinya?",
+          "options": [
+            "(A, 2)",
+            "(2, A)",
+            "(C, 2)",
+            "(2, C)"
+          ],
+          "answer": "(C, 2)",
+          "discussion": "Dalam sistem berpetak, lokasi ditulis dengan urutan huruf terlebih dahulu, kemudian angka. Kolom C dan baris 2 ditulis sebagai (C, 2)."
+        },
+        {
+          "id": "MTK-B03-M01-007",
+          "type": "PG",
+          "text": "Pada peta sekolah, posisi perpustakaan ditulis (B, 4). Angka 4 menunjukkan ....",
+          "options": [
+            "Kolom",
+            "Baris",
+            "Arah kanan",
+            "Jarak horizontal"
+          ],
+          "answer": "Baris",
+          "discussion": "Dalam sistem berpetak pada materi ini, huruf menunjukkan garis vertikal atau kolom, sedangkan angka menunjukkan garis horizontal atau baris."
+        },
+        {
+          "id": "MTK-B03-M01-008",
+          "type": "PG",
+          "text": "Ani berada pada lokasi (A, 1). Ia bergerak ke kanan sebanyak 2 petak tanpa bergerak ke atas atau ke bawah. Di lokasi manakah Ani sekarang?",
+          "options": [
+            "(A, 3)",
+            "(B, 1)",
+            "(C, 1)",
+            "(C, 2)"
+          ],
+          "answer": "(C, 1)",
+          "discussion": "Dari kolom A, bergerak ke kanan satu petak menuju B, kemudian satu petak lagi menuju C. Baris tetap 1. Jadi, posisi Ani adalah (C, 1)."
+        },
+        {
+          "id": "MTK-B03-M01-009",
+          "type": "PG",
+          "text": "Sebuah bangunan berbentuk balok difoto dari depan dan dari samping. Mengapa kedua gambar tersebut dapat terlihat berbeda?",
+          "options": [
+            "Karena bangunannya berubah bentuk",
+            "Karena setiap sisi memiliki ukuran yang berbeda",
+            "Karena arah pandang yang digunakan berbeda",
+            "Karena balok hanya dapat dilihat dari atas"
+          ],
+          "answer": "Karena arah pandang yang digunakan berbeda",
+          "discussion": "Satu bangunan dapat terlihat berbeda ketika dilihat dari arah depan, samping, atau atas. Bentuk bangunannya tetap sama, tetapi bagian yang terlihat berbeda."
+        },
+        {
+          "id": "MTK-B03-M01-010",
+          "type": "PG",
+          "text": "Sebuah susunan terdiri atas 4 kubus yang berjajar lurus. Jika dilihat dari atas, berapa persegi yang akan terlihat?",
+          "options": [
+            "2 persegi",
+            "3 persegi",
+            "4 persegi",
+            "8 persegi"
+          ],
+          "answer": "4 persegi",
+          "discussion": "Keempat kubus disusun berjajar dalam satu lapisan. Jika dilihat dari atas, bagian atas setiap kubus akan terlihat sehingga terdapat 4 persegi."
+        },
+        {
+          "id": "MTK-B03-M01-011",
+          "type": "PG",
+          "text": "Sebuah balok besar dibuat dari kubus satuan. Panjangnya terdiri atas 3 kubus, lebarnya 2 kubus, dan tingginya 2 kubus. Berapa jumlah kubus satuan yang digunakan?",
+          "options": [
+            "10 kubus",
+            "12 kubus",
+            "14 kubus",
+            "16 kubus"
+          ],
+          "answer": "12 kubus",
+          "discussion": "Jumlah kubus diperoleh dengan mengalikan panjang, lebar, dan tinggi susunan. Jadi, $3\\times2\\times2=12$ kubus."
+        },
+        {
+          "id": "MTK-B03-M01-012",
+          "type": "PG",
+          "text": "Tiga kolom kubus disusun berdampingan. Kolom pertama memiliki tinggi 2 kubus, kolom kedua 1 kubus, dan kolom ketiga 3 kubus. Berapa jumlah seluruh kubus?",
+          "options": [
+            "5 kubus",
+            "6 kubus",
+            "7 kubus",
+            "8 kubus"
+          ],
+          "answer": "6 kubus",
+          "discussion": "Jumlah kubus diperoleh dengan menjumlahkan tinggi ketiga kolom, yaitu $2+1+3=6$ kubus."
+        },
+        {
+          "id": "MTK-B03-M01-013",
+          "type": "PG",
+          "text": "Dita menyusun 4 kubus satuan menjadi satu susunan lurus. Kemudian, ia memutar susunan tersebut sehingga terlihat dari arah yang berbeda. Pernyataan yang benar adalah ....",
+          "options": [
+            "Jumlah kubus menjadi bertambah",
+            "Jumlah kubus menjadi berkurang",
+            "Susunan tetap terdiri atas 4 kubus",
+            "Susunan berubah menjadi 8 kubus"
+          ],
+          "answer": "Susunan tetap terdiri atas 4 kubus",
+          "discussion": "Memutar benda hanya mengubah arah pandang. Jumlah dan bentuk susunan kubus tidak berubah hanya karena dilihat dari sisi yang berbeda."
+        },
+        {
+          "id": "MTK-B03-M01-014",
+          "type": "PG",
+          "text": "Sebuah susunan kubus memiliki tiga kolom. Jika dilihat dari depan, tinggi kolom pertama 2 kubus, kolom kedua 1 kubus, dan kolom ketiga 2 kubus. Berapa jumlah kubus pada susunan tersebut jika setiap kolom hanya memiliki satu baris ke belakang?",
+          "options": [
+            "4 kubus",
+            "5 kubus",
+            "6 kubus",
+            "7 kubus"
+          ],
+          "answer": "5 kubus",
+          "discussion": "Karena setiap kolom hanya memiliki satu baris ke belakang, jumlah kubus dapat dihitung dengan menjumlahkan tinggi kolom. Hasilnya $2+1+2=5$ kubus."
+        },
+        {
+          "id": "MTK-B03-M01-015",
+          "type": "PG",
+          "text": "Sebuah bangunan dibuat dari 6 kubus satuan yang disusun dalam satu lapisan. Susunan tersebut memiliki 3 kubus pada setiap baris dan 2 baris. Jika dilihat dari atas, bentuk yang terlihat adalah ....",
+          "options": [
+            "2 persegi berjajar",
+            "3 persegi berjajar",
+            "Susunan persegi sebanyak 3 kolom dan 2 baris",
+            "Susunan persegi sebanyak 6 baris dan 2 kolom"
+          ],
+          "answer": "Susunan persegi sebanyak 3 kolom dan 2 baris",
+          "discussion": "Karena terdapat 3 kubus pada setiap baris dan 2 baris, tampak atasnya membentuk susunan persegi dengan 3 kolom dan 2 baris."
+        },
+        {
+          "id": "MTK-B03-M01-016",
+          "type": "PG",
+          "text": "Sebuah balok tersusun dari kubus satuan dengan panjang 4 kubus, lebar 2 kubus, dan tinggi 1 kubus. Berapa jumlah kubus satuan yang diperlukan?",
+          "options": [
+            "6 kubus",
+            "8 kubus",
+            "10 kubus",
+            "12 kubus"
+          ],
+          "answer": "8 kubus",
+          "discussion": "Jumlah kubus adalah $4\\times2\\times1=8$ kubus. Karena tingginya hanya satu lapisan, setiap posisi pada bagian atas hanya memiliki satu kubus."
+        },
+        {
+          "id": "MTK-B03-M01-017",
+          "type": "PG",
+          "text": "Sebuah susunan terdiri atas dua lapisan kubus. Setiap lapisan memiliki 3 kubus yang berjajar. Berapa jumlah seluruh kubus?",
+          "options": [
+            "3 kubus",
+            "5 kubus",
+            "6 kubus",
+            "9 kubus"
+          ],
+          "answer": "6 kubus",
+          "discussion": "Lapisan pertama terdiri atas 3 kubus dan lapisan kedua juga 3 kubus. Jumlah seluruhnya adalah $3+3=6$ kubus."
+        },
+        {
+          "id": "MTK-B03-M01-018",
+          "type": "PG",
+          "text": "Sebuah bangunan berbentuk balok memiliki panjang 5 kubus satuan, lebar 2 kubus satuan, dan tinggi 3 kubus satuan. Berapa jumlah kubus satuan yang digunakan?",
+          "options": [
+            "20 kubus",
+            "25 kubus",
+            "30 kubus",
+            "35 kubus"
+          ],
+          "answer": "30 kubus",
+          "discussion": "Jumlah kubus adalah $5\\times2\\times3=30$ kubus. Setiap lapisan terdiri atas 10 kubus dan terdapat 3 lapisan."
+        },
+        {
+          "id": "MTK-B03-M01-019",
+          "type": "PG",
+          "text": "Sebuah susunan kubus memiliki tampak atas berupa 3 persegi berjajar. Tampak depan menunjukkan tinggi kolom berturut-turut 2, 1, dan 2 kubus. Jika setiap posisi hanya memiliki satu baris ke belakang, berapa jumlah kubus seluruhnya?",
+          "options": [
+            "3 kubus",
+            "4 kubus",
+            "5 kubus",
+            "6 kubus"
+          ],
+          "answer": "5 kubus",
+          "discussion": "Tampak atas menunjukkan terdapat tiga posisi. Tampak depan menunjukkan tinggi masing-masing posisi adalah 2, 1, dan 2 kubus. Jadi, jumlah seluruhnya adalah $2+1+2=5$ kubus."
+        },
+        {
+          "id": "MTK-B03-M01-020",
+          "type": "PG",
+          "text": "Sebuah susunan kubus memiliki tampak depan berupa 3 persegi berjajar. Tampak sampingnya berupa 2 persegi bertumpuk. Jika susunan tersebut hanya memiliki satu lapisan ke atas dan tidak ada kubus tersembunyi, berapa kubus yang paling sedikit diperlukan untuk membentuk susunan dengan kedua tampilan tersebut?",
+          "options": [
+            "3 kubus",
+            "4 kubus",
+            "5 kubus",
+            "6 kubus"
+          ],
+          "answer": "4 kubus",
+          "discussion": "Tampak depan membutuhkan tiga posisi mendatar, sedangkan tampak samping membutuhkan dua posisi ke belakang. Agar kedua tampilan tersebut terbentuk, susunan minimal dapat dibuat dari 3 kubus pada baris depan dan 1 kubus tambahan pada baris belakang, sehingga berjumlah 4 kubus."
+        },
+        {
+          "id": "MTK-B03-M01-021",
+          "type": "PG",
+          "text": "Pada peta berpetak, rumah Rina berada di lokasi (D, 4). Lokasi tersebut menunjukkan bahwa rumah Rina berada pada ....",
+          "options": [
+            "Kolom D dan baris 4",
+            "Kolom 4 dan baris D",
+            "Baris D dan kolom 3",
+            "Kolom C dan baris 4"
+          ],
+          "answer": "Kolom D dan baris 4",
+          "discussion": "Huruf pertama menunjukkan kolom, sedangkan angka kedua menunjukkan baris. Jadi, (D, 4) berarti kolom D dan baris 4."
+        },
+        {
+          "id": "MTK-B03-M01-022",
+          "type": "PG",
+          "text": "Budi berada pada lokasi (B, 2). Ia bergerak menuju lokasi (E, 5) melalui jalur mendatar dan vertikal. Berapa langkah horizontal dan vertikal yang diperlukan?",
+          "options": [
+            "2 langkah horizontal dan 3 langkah vertikal",
+            "3 langkah horizontal dan 2 langkah vertikal",
+            "3 langkah horizontal dan 3 langkah vertikal",
+            "4 langkah horizontal dan 3 langkah vertikal"
+          ],
+          "answer": "3 langkah horizontal dan 3 langkah vertikal",
+          "discussion": "Dari B menuju E terdapat tiga perpindahan kolom, yaitu C, D, dan E. Dari baris 2 menuju baris 5 terdapat tiga perpindahan, yaitu 3, 4, dan 5. Jadi, diperlukan 3 langkah horizontal dan 3 langkah vertikal."
+        },
+        {
+          "id": "MTK-B03-M01-023",
+          "type": "PG",
+          "text": "Tigor berada pada lokasi (E, 4). Ia ingin menuju lokasi (B, 1). Jika hanya boleh bergerak ke kiri dan ke bawah, berapa jumlah langkah yang diperlukan?",
+          "options": [
+            "5 langkah",
+            "6 langkah",
+            "7 langkah",
+            "8 langkah"
+          ],
+          "answer": "6 langkah",
+          "discussion": "Dari E menuju B diperlukan 3 langkah ke kiri. Dari baris 4 menuju baris 1 diperlukan 3 langkah ke bawah. Total langkah adalah $3+3=6$ langkah."
+        },
+        {
+          "id": "MTK-B03-M01-024",
+          "type": "PG",
+          "text": "Ani berada di titik (A, 1). Ia harus mencapai titik (C, 2). Jika hanya boleh bergerak ke kanan dan ke atas, berapa langkah paling sedikit yang harus ditempuh?",
+          "options": [
+            "2 langkah",
+            "3 langkah",
+            "4 langkah",
+            "5 langkah"
+          ],
+          "answer": "3 langkah",
+          "discussion": "Dari A ke C membutuhkan 2 langkah ke kanan. Dari baris 1 ke baris 2 membutuhkan 1 langkah ke atas. Jadi, jumlah langkah paling sedikit adalah $2+1=3$ langkah."
+        },
+        {
+          "id": "MTK-B03-M01-025",
+          "type": "PG",
+          "text": "Pada sebuah sistem berpetak, Rina berjalan dari titik (A,1) menuju titik (C,3). Ia hanya boleh bergerak ke kanan atau ke atas dan harus menempuh jalur terpendek. Berapa banyak kemungkinan jalur berbeda yang dapat ditempuh Rina?",
+          "options": [
+            "4 jalur",
+            "5 jalur",
+            "6 jalur",
+            "8 jalur"
+          ],
+          "answer": "6 jalur",
+          "discussion": "Dari (A,1) ke (C,3), Rina harus bergerak 2 langkah ke kanan dan 2 langkah ke atas. Susunan langkah yang mungkin adalah RR UU, RURU, RUUR, URRU, URUR, dan UURR. Jadi, terdapat 6 jalur berbeda."
+        },
+        {
+          "id": "MTK-B03-M01-026",
+          "type": "PG",
+          "text": "Pada sebuah peta, toko berada di lokasi (C, 3). Jika seseorang bergerak satu petak ke kanan dan dua petak ke atas, lokasi akhirnya adalah ....",
+          "options": [
+            "(A, 5)",
+            "(D, 5)",
+            "(D, 4)",
+            "(E, 5)"
+          ],
+          "answer": "(D, 5)",
+          "discussion": "Dari C bergerak satu petak ke kanan menjadi D. Dari baris 3 bergerak dua petak ke atas menjadi baris 5. Jadi, lokasi akhirnya adalah (D, 5)."
+        },
+        {
+          "id": "MTK-B03-M01-027",
+          "type": "PG",
+          "text": "Sinta berada di lokasi (A, 1) dan ingin menuju lokasi (D, 5). Berapa total langkah terpendek jika ia hanya boleh bergerak ke kanan dan ke atas?",
+          "options": [
+            "5 langkah",
+            "6 langkah",
+            "7 langkah",
+            "8 langkah"
+          ],
+          "answer": "7 langkah",
+          "discussion": "Dari A menuju D memerlukan 3 langkah horizontal. Dari baris 1 menuju baris 5 memerlukan 4 langkah vertikal. Jadi, total langkah terpendek adalah $3+4=7$ langkah."
+        },
+        {
+          "id": "MTK-B03-M01-028",
+          "type": "PG",
+          "text": "Sebuah robot berada di titik (B, 2). Robot bergerak 2 petak ke kanan dan 3 petak ke atas. Di manakah posisi akhir robot?",
+          "options": [
+            "(D, 5)",
+            "(E, 4)",
+            "(D, 4)",
+            "(C, 5)"
+          ],
+          "answer": "(D, 5)",
+          "discussion": "Dari kolom B bergerak dua petak ke kanan menjadi D. Dari baris 2 bergerak tiga petak ke atas menjadi baris 5. Jadi, posisi akhirnya adalah (D, 5)."
+        },
+        {
+          "id": "MTK-B03-M01-029",
+          "type": "PG",
+          "text": "Sebuah bangunan dibuat dari 5 kubus satuan. Jika dilihat dari atas, terlihat 3 persegi berjajar. Jika dilihat dari depan, tinggi ketiga kolom berturut-turut adalah 2, 1, dan 2 kubus. Pernyataan yang tepat tentang susunan tersebut adalah ....",
+          "options": [
+            "Semua kubus berada dalam satu lapisan",
+            "Terdapat dua kolom yang memiliki tinggi 2 kubus",
+            "Terdapat tiga kolom yang memiliki tinggi 2 kubus",
+            "Jumlah seluruh kubus adalah 6"
+          ],
+          "answer": "Terdapat dua kolom yang memiliki tinggi 2 kubus",
+          "discussion": "Tampak depan menunjukkan tiga kolom dengan tinggi 2, 1, dan 2. Artinya, kolom pertama dan ketiga masing-masing memiliki dua kubus, sedangkan kolom kedua memiliki satu kubus. Jumlahnya adalah 5 kubus."
+        },
+        {
+          "id": "MTK-B03-M01-030",
+          "type": "PG",
+          "text": "Pada sebuah peta berpetak, jarak horizontal antara lokasi A dan B adalah 4 petak. Jarak vertikalnya adalah 3 petak. Jika seseorang hanya boleh bergerak mendatar dan vertikal, berapa jumlah langkah terpendek yang diperlukan?",
+          "options": [
+            "5 langkah",
+            "6 langkah",
+            "7 langkah",
+            "12 langkah"
+          ],
+          "answer": "7 langkah",
+          "discussion": "Jumlah langkah terpendek diperoleh dengan menjumlahkan jarak horizontal dan vertikal, yaitu $4+3=7$ langkah."
+        },
+        {
+          "id": "MTK-B03-M01-031",
+          "type": "PG",
+          "text": "Dua siswa berjalan dari titik yang sama menuju titik tujuan yang sama pada sebuah peta berpetak. Siswa pertama bergerak 3 petak ke kanan dan 4 petak ke atas. Siswa kedua bergerak 4 petak ke atas dan 3 petak ke kanan. Jika keduanya hanya bergerak ke kanan dan ke atas, kesimpulan yang benar adalah ....",
+          "options": [
+            "Siswa pertama menempuh jarak lebih pendek",
+            "Siswa kedua menempuh jarak lebih pendek",
+            "Keduanya menempuh jumlah langkah yang sama",
+            "Keduanya menempuh jumlah langkah berbeda"
+          ],
+          "answer": "Keduanya menempuh jumlah langkah yang sama",
+          "discussion": "Siswa pertama melakukan 3 + 4 = 7 langkah. Siswa kedua melakukan 4 + 3 = 7 langkah. Urutan arah berbeda, tetapi jumlah langkahnya sama."
+        },
+        {
+          "id": "MTK-B03-M01-032",
+          "type": "PG",
+          "text": "Rani berada di lokasi (B, 3). Ia bergerak ke kanan menuju kolom D, kemudian bergerak ke bawah menuju baris 1. Di manakah lokasi akhirnya?",
+          "options": [
+            "(D, 1)",
+            "(D, 5)",
+            "(A, 1)",
+            "(B, 1)"
+          ],
+          "answer": "(D, 1)",
+          "discussion": "Dari B bergerak ke kanan dua petak hingga mencapai D. Setelah itu, dari baris 3 bergerak ke bawah dua petak hingga mencapai baris 1. Lokasi akhirnya adalah (D, 1)."
+        },
+        {
+          "id": "MTK-B03-M01-033",
+          "type": "PG",
+          "text": "Sebuah susunan bangunan dibuat menggunakan 12 kubus satuan. Susunan tersebut memiliki panjang 3 kubus, lebar 2 kubus, dan tinggi 2 kubus. Jika satu lapisan dibongkar, berapa kubus yang tersisa?",
+          "options": [
+            "4 kubus",
+            "6 kubus",
+            "8 kubus",
+            "10 kubus"
+          ],
+          "answer": "6 kubus",
+          "discussion": "Satu lapisan terdiri atas $3\\times2=6$ kubus. Jika satu dari dua lapisan dibongkar, tersisa satu lapisan yang terdiri atas 6 kubus."
+        },
+        {
+          "id": "MTK-B03-M01-034",
+          "type": "PG",
+          "text": "Sebuah bangunan tersusun dari 8 kubus satuan. Bangunan tersebut dapat disusun menjadi balok dengan panjang 4 kubus, lebar 2 kubus, dan tinggi 1 kubus. Jika dilihat dari atas, berapa persegi yang terlihat?",
+          "options": [
+            "4 persegi",
+            "6 persegi",
+            "8 persegi",
+            "10 persegi"
+          ],
+          "answer": "8 persegi",
+          "discussion": "Susunan tersebut memiliki 4 posisi sepanjang panjang dan 2 posisi sepanjang lebar. Karena hanya satu lapisan, tampak atasnya menunjukkan $4\\times2=8$ persegi."
+        },
+        {
+          "id": "MTK-B03-M01-035",
+          "type": "PG",
+          "text": "Pada sebuah sistem berpetak, Andi berada di titik (A,1), sedangkan Budi berada di titik (D,4). Keduanya ingin bertemu di titik (B,3). Jika mereka bergerak melalui jalur terpendek, berapa langkah yang harus ditempuh masing-masing?",
+          "options": [
+            "Andi 2 langkah dan Budi 2 langkah",
+            "Andi 3 langkah dan Budi 3 langkah",
+            "Andi 4 langkah dan Budi 3 langkah",
+            "Andi 3 langkah dan Budi 4 langkah"
+          ],
+          "answer": "Andi 3 langkah dan Budi 3 langkah",
+          "discussion": "Dari (A,1) menuju (B,3), Andi bergerak 1 langkah ke kanan dan 2 langkah ke atas, sehingga menempuh 3 langkah. Dari (D,4) menuju (B,3), Budi bergerak 2 langkah ke kiri dan 1 langkah ke bawah, sehingga juga menempuh 3 langkah."
+        },
+        {
+          "id": "MTK-B03-M01-036",
+          "type": "PG",
+          "text": "Sebuah bangunan tersusun dari tiga kolom kubus satuan. Kolom pertama memiliki tinggi 3 kubus, kolom kedua 2 kubus, dan kolom ketiga 1 kubus. Berapa jumlah seluruh kubus yang digunakan?",
+          "options": [
+            "5 kubus",
+            "6 kubus",
+            "7 kubus",
+            "8 kubus"
+          ],
+          "answer": "6 kubus",
+          "discussion": "Jumlah kubus adalah $3+2+1=6$ kubus. Susunan tersebut memiliki tinggi berbeda pada setiap kolom."
+        },
+        {
+          "id": "MTK-B03-M01-037",
+          "type": "PG",
+          "text": "Sebuah susunan kubus memiliki tampak atas berupa 3 persegi berjajar. Tampak depannya menunjukkan tinggi kolom 3, 2, dan 1 kubus. Jika setiap posisi hanya terdiri atas satu baris ke belakang, berapa jumlah kubus yang digunakan?",
+          "options": [
+            "4 kubus",
+            "5 kubus",
+            "6 kubus",
+            "7 kubus"
+          ],
+          "answer": "6 kubus",
+          "discussion": "Tampak atas menunjukkan tiga posisi. Tampak depan memberikan tinggi setiap posisi, yaitu 3, 2, dan 1 kubus. Jumlah seluruh kubus adalah $3+2+1=6$."
+        },
+        {
+          "id": "MTK-B03-M01-038",
+          "type": "PG",
+          "text": "Sebuah balok akan dibuat dari kubus satuan dengan panjang 3 kubus, lebar 2 kubus, dan tinggi 2 kubus. Saat ini tersedia 8 kubus. Berapa kubus tambahan yang masih dibutuhkan?",
+          "options": [
+            "2 kubus",
+            "3 kubus",
+            "4 kubus",
+            "5 kubus"
+          ],
+          "answer": "4 kubus",
+          "discussion": "Jumlah kubus yang diperlukan adalah $3\\times2\\times2=12$ kubus. Saat ini tersedia 8 kubus, sehingga kekurangannya adalah $12-8=4$ kubus."
+        },
+        {
+          "id": "MTK-B03-M01-039",
+          "type": "PG",
+          "text": "Sebuah bangunan terdiri atas 6 kubus satuan. Susunan pertama dibuat menjadi balok berukuran 3 kubus panjang, 2 kubus lebar, dan 1 kubus tinggi. Susunan kedua dibuat menjadi dua lapisan dengan masing-masing 3 kubus. Pernyataan yang benar adalah ....",
+          "options": [
+            "Kedua susunan menggunakan jumlah kubus yang berbeda",
+            "Susunan pertama menggunakan 6 kubus dan susunan kedua menggunakan 9 kubus",
+            "Kedua susunan menggunakan 6 kubus tetapi bentuknya dapat berbeda",
+            "Kedua susunan pasti memiliki tampak depan yang sama"
+          ],
+          "answer": "Kedua susunan menggunakan 6 kubus tetapi bentuknya dapat berbeda",
+          "discussion": "Susunan pertama memiliki $3\\times2\\times1=6$ kubus. Susunan kedua memiliki 2 lapisan dengan 3 kubus setiap lapisan, sehingga $2\\times3=6$ kubus. Jumlahnya sama, tetapi bentuk susunan dan tampilannya dapat berbeda."
+        },
+        {
+          "id": "MTK-B03-M01-040",
+          "type": "PG",
+          "text": "Sebuah gudang menyimpan 24 kardus berbentuk balok yang ukurannya sama. Setiap kardus memiliki alas berukuran 4 satuan persegi panjang dan 2 satuan persegi panjang. Semua kardus akan ditumpuk tepat satu di atas lainnya dalam satu tumpukan vertikal. Berapa luas lantai minimum yang diperlukan untuk menempatkan tumpukan tersebut?",
+          "options": [
+            "8 satuan persegi",
+            "16 satuan persegi",
+            "24 satuan persegi",
+            "48 satuan persegi"
+          ],
+          "answer": "8 satuan persegi",
+          "discussion": "Karena semua kardus ditumpuk tepat satu di atas lainnya, luas lantai yang diperlukan hanya sebesar luas alas satu kardus. Luas alas = 4 × 2 = 8 satuan persegi. Jumlah kardus memengaruhi tinggi tumpukan, bukan luas lantai yang digunakan."
+        },
+        {
+          "id": "MTK-B03-M01-041",
+          "type": "PG",
+          "text": "Tigor berada pada titik (A, 1) dan ingin menuju titik (D, 5). Ia hanya boleh bergerak ke kanan dan ke atas. Berapa banyak jalur terpendek berbeda yang dapat ditempuh?",
+          "options": [
+            "20 jalur",
+            "25 jalur",
+            "30 jalur",
+            "35 jalur"
+          ],
+          "answer": "35 jalur",
+          "discussion": "Untuk mencapai tujuan, Tigor membutuhkan 3 langkah ke kanan dan 4 langkah ke atas. Jumlah seluruh langkah adalah 7. Banyak susunan berbeda dari 3 langkah kanan dan 4 langkah atas adalah $\\frac{7!}{3!\\times4!}=35$. Jadi, terdapat 35 jalur terpendek."
+        },
+        {
+          "id": "MTK-B03-M01-042",
+          "type": "PG",
+          "text": "Rani berada pada titik (B, 2) dan ingin menuju titik (E, 5). Ia hanya boleh bergerak ke kanan dan ke atas. Berapa banyak jalur terpendek yang dapat ditempuh?",
+          "options": [
+            "10 jalur",
+            "15 jalur",
+            "20 jalur",
+            "25 jalur"
+          ],
+          "answer": "20 jalur",
+          "discussion": "Dari B ke E diperlukan 3 langkah ke kanan. Dari baris 2 ke baris 5 diperlukan 3 langkah ke atas. Total terdapat 6 langkah. Banyak susunan berbeda dari 3 langkah kanan dan 3 langkah atas adalah $\\frac{6!}{3!\\times3!}=20$ jalur."
+        },
+        {
+          "id": "MTK-B03-M01-043",
+          "type": "PG",
+          "text": "Tigor berada pada titik (A, 1) dan akan menuju titik (D, 5). Ia hanya boleh bergerak ke kanan dan ke atas. Berapa jumlah langkah terpendek dan banyak jalur terpendek yang dapat dipilih?",
+          "options": [
+            "7 langkah dan 20 jalur",
+            "7 langkah dan 35 jalur",
+            "8 langkah dan 35 jalur",
+            "8 langkah dan 40 jalur"
+          ],
+          "answer": "7 langkah dan 35 jalur",
+          "discussion": "Dari A ke D terdapat 3 langkah horizontal dan dari baris 1 ke 5 terdapat 4 langkah vertikal. Totalnya 7 langkah. Banyak susunan berbeda dari 3 langkah kanan dan 4 langkah atas adalah $\\frac{7!}{3!\\times4!}=35$ jalur."
+        },
+        {
+          "id": "MTK-B03-M01-044",
+          "type": "PG",
+          "text": "Sebuah robot berada pada titik (B, 3) dan ingin menuju titik (E, 1). Robot hanya boleh bergerak ke kanan dan ke bawah. Berapa banyak jalur terpendek yang dapat ditempuh?",
+          "options": [
+            "5 jalur",
+            "8 jalur",
+            "10 jalur",
+            "12 jalur"
+          ],
+          "answer": "10 jalur",
+          "discussion": "Robot memerlukan 3 langkah ke kanan dan 2 langkah ke bawah. Totalnya 5 langkah. Banyak susunan berbeda dari 3 langkah kanan dan 2 langkah bawah adalah $\\frac{5!}{3!\\times2!}=10$ jalur."
+        },
+        {
+          "id": "MTK-B03-M01-045",
+          "type": "PG",
+          "text": "Dua siswa berangkat dari titik (A, 1) menuju titik (D, 4). Siswa pertama bergerak 3 langkah ke kanan kemudian 3 langkah ke atas. Siswa kedua bergerak 2 langkah ke kanan, 1 langkah ke atas, 1 langkah ke kanan, dan 2 langkah ke atas. Jika semua gerakan sesuai jalur terpendek, pernyataan yang benar adalah ....",
+          "options": [
+            "Siswa pertama menempuh 5 langkah",
+            "Siswa kedua menempuh 7 langkah",
+            "Keduanya menempuh 6 langkah",
+            "Siswa pertama lebih jauh 2 langkah"
+          ],
+          "answer": "Keduanya menempuh 6 langkah",
+          "discussion": "Dari A ke D membutuhkan 3 langkah ke kanan dan dari baris 1 ke 4 membutuhkan 3 langkah ke atas. Jumlahnya 6 langkah. Kedua siswa menggunakan perpindahan yang sama, hanya urutan gerakannya berbeda."
+        },
+        {
+          "id": "MTK-B03-M01-046",
+          "type": "PG",
+          "text": "Sebuah robot berada pada titik (A, 1). Robot bergerak 2 petak ke kanan, 1 petak ke atas, kemudian 1 petak lagi ke kanan dan 2 petak ke atas. Di manakah lokasi akhir robot?",
+          "options": [
+            "(C, 3)",
+            "(D, 3)",
+            "(D, 4)",
+            "(E, 4)"
+          ],
+          "answer": "(D, 4)",
+          "discussion": "Dari A bergerak 2 petak ke kanan menjadi C. Bergerak 1 petak ke atas menjadi baris 2. Bergerak 1 petak ke kanan menjadi D, lalu 2 petak ke atas menjadi baris 4. Jadi, lokasi akhir adalah (D, 4)."
+        },
+        {
+          "id": "MTK-B03-M01-047",
+          "type": "PG",
+          "text": "Pada sebuah peta berpetak, rumah berada di (B, 2) dan sekolah berada di (E, 5). Jika seseorang hanya boleh bergerak mendatar dan vertikal, berapa jarak horizontal dan vertikal yang harus ditempuh?",
+          "options": [
+            "2 petak horizontal dan 3 petak vertikal",
+            "3 petak horizontal dan 2 petak vertikal",
+            "3 petak horizontal dan 3 petak vertikal",
+            "4 petak horizontal dan 4 petak vertikal"
+          ],
+          "answer": "3 petak horizontal dan 3 petak vertikal",
+          "discussion": "Dari kolom B menuju E terdapat 3 perpindahan. Dari baris 2 menuju baris 5 juga terdapat 3 perpindahan. Jadi, jarak horizontal dan vertikal masing-masing adalah 3 petak."
+        },
+        {
+          "id": "MTK-B03-M01-048",
+          "type": "PG",
+          "text": "Seorang siswa berada pada titik (A, 1) dan ingin menuju titik (C, 3). Ia hanya boleh bergerak ke kanan dan ke atas. Berapa banyak jalur terpendek yang dapat dipilih?",
+          "options": [
+            "4 jalur",
+            "5 jalur",
+            "6 jalur",
+            "8 jalur"
+          ],
+          "answer": "6 jalur",
+          "discussion": "Untuk mencapai tujuan, diperlukan 2 langkah ke kanan dan 2 langkah ke atas. Ada 6 susunan berbeda dari empat langkah tersebut, yaitu RRAT, RART, RAAR, ARRT, ARTR, dan AARR, dengan R berarti kanan dan A berarti atas. Jadi, terdapat 6 jalur terpendek."
+        },
+        {
+          "id": "MTK-B03-M01-049",
+          "type": "PG",
+          "text": "Sebuah susunan kubus satuan dilihat dari atas membentuk 4 posisi yang tersusun dalam pola 2 × 2. Setiap posisi terdiri atas tumpukan setinggi 2 kubus. Berapa jumlah seluruh kubus satuan yang digunakan?",
+          "options": [
+            "4 kubus",
+            "6 kubus",
+            "8 kubus",
+            "10 kubus"
+          ],
+          "answer": "8 kubus",
+          "discussion": "Terdapat 4 posisi pada susunan tersebut. Setiap posisi memiliki 2 kubus yang ditumpuk. Jadi, jumlah seluruh kubus adalah 4 × 2 = 8 kubus."
+        },
+        {
+          "id": "MTK-B03-M01-050",
+          "type": "PG",
+          "text": "Tigor berada pada titik (A, 1) dan ingin menuju titik (D, 4). Ia hanya boleh bergerak ke kanan dan ke atas. Namun, ia harus melewati titik (B, 2) terlebih dahulu. Berapa banyak jalur terpendek yang dapat ditempuh Tigor jika harus melalui titik tersebut?",
+          "options": [
+            "6 jalur",
+            "10 jalur",
+            "12 jalur",
+            "15 jalur"
+          ],
+          "answer": "12 jalur",
+          "discussion": "Dari (A, 1) menuju (B, 2) diperlukan 1 langkah ke kanan dan 1 langkah ke atas. Ada 2 kemungkinan jalur. Dari (B, 2) menuju (D, 4) diperlukan 2 langkah ke kanan dan 2 langkah ke atas. Ada 6 kemungkinan jalur. Jumlah jalur yang melewati titik (B, 2) adalah $2\\times6=12$ jalur."
+        }
+      ]
+    }
+  ]
+}
