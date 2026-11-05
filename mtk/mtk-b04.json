@@ -232,7 +232,7 @@
 {
 "id": "MTK-B04-M01-018",
 "type": "PG",
-"text": "Sebuah huruf dipilih secara acak dari kata "MATEMATIKA". Berapa jumlah total huruf tersebut?",
+"text": "Sebuah huruf dipilih secara acak dari kata \"MATEMATIKA\". Berapa jumlah total huruf tersebut?",
 "options": [
 "8 huruf",
 "9 huruf",
@@ -240,12 +240,12 @@
 "11 huruf"
 ],
 "answer": "10 huruf",
-"discussion": "Kata "MATEMATIKA" terdiri dari 10 huruf."
+"discussion": "Kata \"MATEMATIKA\" terdiri dari 10 huruf."
 },
 {
 "id": "MTK-B04-M01-019",
 "type": "PG",
-"text": "Dari kata "MATEMATIKA", jika dipilih satu huruf secara acak, berapa peluang terpilihnya huruf "M"?",
+"text": "Dari kata \"MATEMATIKA\", jika dipilih satu huruf secara acak, berapa peluang terpilihnya huruf \"M\"?",
 "options": [
 "1/10",
 "2/10",
@@ -253,12 +253,12 @@
 "4/10"
 ],
 "answer": "2/10",
-"discussion": "Huruf "M" muncul sebanyak 2 kali dari total 10 huruf, jadi 2/10 atau disederhanakan 1/5."
+"discussion": "Huruf \"M\" muncul sebanyak 2 kali dari total 10 huruf, jadi 2/10 atau disederhanakan 1/5."
 },
 {
 "id": "MTK-B04-M01-020",
 "type": "PG",
-"text": "Dari kata "MATEMATIKA", berapa peluang terpilihnya huruf vokal (A, E, I, O, U)?",
+"text": "Dari kata \"MATEMATIKA\", berapa peluang terpilihnya huruf vokal (A, E, I, O, U)?",
 "options": [
 "4/10",
 "5/10",
@@ -266,7 +266,7 @@
 "7/10"
 ],
 "answer": "5/10",
-"discussion": "Huruf vokal dalam "MATEMATIKA" adalah A, E, A, I, A (jumlahnya ada 5 huruf). Peluang = 5/10 = 1/2."
+"discussion": "Huruf vokal dalam \"MATEMATIKA\" adalah A, E, A, I, A (jumlahnya ada 5 huruf). Peluang = 5/10 = 1/2."
 },
 {
 "id": "MTK-B04-M01-021",
@@ -635,7 +635,7 @@
 {
 "id": "MTK-B04-M02-019",
 "type": "PG",
-"text": "Sebuah huruf dipilih dari kata "BELAJAR". Berapa jumlah huruf totalnya?",
+"text": "Sebuah huruf dipilih dari kata \"BELAJAR\". Berapa jumlah huruf totalnya?",
 "options": [
 "6",
 "7",
@@ -643,12 +643,12 @@
 "5"
 ],
 "answer": "7",
-"discussion": "Kata "BELAJAR" terdiri dari 7 huruf."
+"discussion": "Kata \"BELAJAR\" terdiri dari 7 huruf."
 },
 {
 "id": "MTK-B04-M02-020",
 "type": "PG",
-"text": "Dari kata "BELAJAR", berapa peluang terpilihnya huruf konsonan?",
+"text": "Dari kata \"BELAJAR\", berapa peluang terpilihnya huruf konsonan?",
 "options": [
 "3/7",
 "4/7",
@@ -656,7 +656,7 @@
 "2/7"
 ],
 "answer": "4/7",
-"discussion": "Huruf vokal di "BELAJAR" adalah E, A, A (3 huruf). Berarti huruf konsonan ada 7 - 3 = 4 huruf. Peluang = 4/7."
+"discussion": "Huruf vokal di \"BELAJAR\" adalah E, A, A (3 huruf). Berarti huruf konsonan ada 7 - 3 = 4 huruf. Peluang = 4/7."
 },
 {
 "id": "MTK-B04-M02-021",
@@ -843,7 +843,7 @@
 {
 "id": "MTK-B04-M03-005",
 "type": "PG",
-"text": "Sebuah huruf dipilih dari kata "MATEMATIKA". Berapa peluang terpilihnya huruf "T"?",
+"text": "Sebuah huruf dipilih dari kata \"MATEMATIKA\". Berapa peluang terpilihnya huruf \"T\"?",
 "options": [
 "1/10",
 "2/10 (atau 1/5)",
@@ -851,7 +851,7 @@
 "4/10"
 ],
 "answer": "2/10 (atau 1/5)",
-"discussion": "Huruf "T" pada kata MATEMATIKA ada 2 buah dari 10 huruf. Peluang = 2/10 = 1/5."
+"discussion": "Huruf \"T\" pada kata MATEMATIKA ada 2 buah dari 10 huruf. Peluang = 2/10 = 1/5."
 },
 {
 "id": "MTK-B04-M03-006",
@@ -1012,7 +1012,7 @@
 {
 "id": "MTK-B04-M03-018",
 "type": "PG",
-"text": "Sebuah huruf dipilih dari kata "INDONESIA". Berapa jumlah total hurufnya?",
+"text": "Sebuah huruf dipilih dari kata \"INDONESIA\". Berapa jumlah total hurufnya?",
 "options": [
 "7",
 "8",
@@ -1020,12 +1020,12 @@
 "10"
 ],
 "answer": "9",
-"discussion": "Kata "INDONESIA" terdiri dari 9 huruf."
+"discussion": "Kata \"INDONESIA\" terdiri dari 9 huruf."
 },
 {
 "id": "MTK-B04-M03-019",
 "type": "PG",
-"text": "Dari kata "INDONESIA", berapa peluang terpilihnya huruf vokal (I, O, E, I, A)? (Jumlah huruf vokal ada 5)",
+"text": "Dari kata \"INDONESIA\", berapa peluang terpilihnya huruf vokal (I, O, E, I, A)? (Jumlah huruf vokal ada 5)",
 "options": [
 "4/9",
 "5/9",
@@ -1142,7 +1142,7 @@
 {
 "id": "MTK-B04-M03-028",
 "type": "PG",
-"text": "Sebuah huruf dipilih secara acak dari kata "MATEMATIKA". Berapa peluang terpilihnya huruf "K"?",
+"text": "Sebuah huruf dipilih secara acak dari kata \"MATEMATIKA\". Berapa peluang terpilihnya huruf \"K\"?",
 "options": [
 "1/10",
 "2/10",
@@ -1150,7 +1150,7 @@
 "0"
 ],
 "answer": "1/10",
-"discussion": "Huruf "K" ada 1 buah di kata MATEMATIKA. Peluang = 1/10."
+"discussion": "Huruf \"K\" ada 1 buah di kata MATEMATIKA. Peluang = 1/10."
 },
 {
 "id": "MTK-B04-M03-029",
