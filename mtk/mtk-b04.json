@@ -1,0 +1,664 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "MTK-B04",
+      "chapter_title": "Bab 4: Peluang",
+      "questions": [
+        {
+          "id": "MTK-B04-M01-001",
+          "type": "PG",
+          "text": "Ketika sebuah dadu bersisi enam dilempar, angka yang mungkin muncul adalah 1, 2, 3, 4, 5, atau 6. Peluang munculnya angka 7 termasuk kategori apa? ",
+          "options": [
+            "Tidak mungkin",
+            "Kurang mungkin",
+            "Sangat mungkin",
+            "Pasti"
+          ],
+          "answer": "Tidak mungkin",
+          "discussion": "Dadu hanya memiliki enam sisi dengan angka 1 sampai 6. Karena tidak ada angka 7, angka tersebut tidak mungkin muncul."
+        },
+        {
+          "id": "MTK-B04-M01-002",
+          "type": "PG",
+          "text": "Matahari terbit dari arah timur setiap pagi. Kejadian tersebut termasuk kategori peluang apa? ",
+          "options": [
+            "Tidak mungkin",
+            "Kurang mungkin",
+            "Mungkin",
+            "Pasti"
+          ],
+          "answer": "Pasti",
+          "discussion": "Matahari terbit dari arah timur merupakan kejadian yang pasti terjadi dalam kehidupan sehari-hari."
+        },
+        {
+          "id": "MTK-B04-M01-003",
+          "type": "PG",
+          "text": "Sebuah kantong berisi 10 bola merah dan tidak memiliki bola biru. Jika satu bola diambil secara acak, bagaimana peluang mendapatkan bola biru? ",
+          "options": [
+            "Pasti",
+            "Sangat mungkin",
+            "Tidak mungkin",
+            "Mungkin"
+          ],
+          "answer": "Tidak mungkin",
+          "discussion": "Kantong hanya berisi bola merah. Karena tidak ada bola biru, mengambil bola biru tidak mungkin terjadi."
+        },
+        {
+          "id": "MTK-B04-M01-004",
+          "type": "PG",
+          "text": "Sebuah kotak berisi 9 permen cokelat dan 1 permen stroberi. Jika satu permen diambil secara acak, jenis permen apa yang lebih mungkin terambil? ",
+          "options": [
+            "Permen stroberi",
+            "Permen cokelat",
+            "Keduanya tidak mungkin",
+            "Keduanya pasti terambil"
+          ],
+          "answer": "Permen cokelat",
+          "discussion": "Jumlah permen cokelat lebih banyak daripada permen stroberi. Karena itu, peluang mengambil permen cokelat lebih besar."
+        },
+        {
+          "id": "MTK-B04-M01-005",
+          "type": "PG",
+          "text": "Sebuah koin memiliki dua sisi, yaitu gambar dan angka. Jika koin dilempar, berapa banyak kemungkinan hasil yang dapat muncul? ",
+          "options": [
+            "1 kemungkinan",
+            "2 kemungkinan",
+            "3 kemungkinan",
+            "4 kemungkinan"
+          ],
+          "answer": "2 kemungkinan",
+          "discussion": "Koin memiliki dua sisi yang berbeda, yaitu gambar dan angka. Oleh karena itu, terdapat dua kemungkinan hasil ketika koin dilempar."
+        },
+        {
+          "id": "MTK-B04-M01-006",
+          "type": "PG",
+          "text": "Sebuah dadu memiliki enam sisi dengan angka 1 sampai 6. Kejadian munculnya angka genap adalah 2, 4, atau 6. Berapa banyak hasil yang memenuhi kejadian tersebut? ",
+          "options": [
+            "1 hasil",
+            "2 hasil",
+            "3 hasil",
+            "4 hasil"
+          ],
+          "answer": "3 hasil",
+          "discussion": "Angka genap pada dadu adalah 2, 4, dan 6. Jadi, terdapat tiga hasil yang memenuhi kejadian tersebut."
+        },
+        {
+          "id": "MTK-B04-M01-007",
+          "type": "PG",
+          "text": "Sebuah kantong berisi 5 bola hijau, 5 bola kuning, dan 5 bola merah. Jika satu bola diambil secara acak, bagaimana peluang mendapatkan bola hijau dibandingkan dua warna lainnya? ",
+          "options": [
+            "Lebih besar",
+            "Lebih kecil",
+            "Sama besar",
+            "Tidak mungkin"
+          ],
+          "answer": "Sama besar",
+          "discussion": "Setiap warna memiliki jumlah bola yang sama, yaitu 5. Oleh karena itu, peluang mendapatkan setiap warna juga sama besar."
+        },
+        {
+          "id": "MTK-B04-M01-008",
+          "type": "PG",
+          "text": "Dalam sebuah permainan, seorang pemain harus memilih satu angka dari 1 sampai 6. Jika semua angka memiliki kesempatan yang sama untuk terpilih, berapa banyak kemungkinan angka yang dapat dipilih? ",
+          "options": [
+            "3 angka",
+            "4 angka",
+            "5 angka",
+            "6 angka"
+          ],
+          "answer": "6 angka",
+          "discussion": "Angka yang tersedia adalah 1, 2, 3, 4, 5, dan 6. Jadi, terdapat enam kemungkinan angka yang dapat terpilih."
+        },
+        {
+          "id": "MTK-B04-M01-009",
+          "type": "PG",
+          "text": "Sebuah roda putar dibagi menjadi 8 bagian sama besar. Lima bagian berwarna merah dan tiga bagian berwarna biru. Warna apa yang lebih mungkin ditunjuk oleh penunjuk roda? ",
+          "options": [
+            "Biru",
+            "Merah",
+            "Keduanya sama besar",
+            "Tidak mungkin merah"
+          ],
+          "answer": "Merah",
+          "discussion": "Roda putar memiliki lima bagian merah dan tiga bagian biru. Karena bagian merah lebih banyak, peluang penunjuk berhenti pada warna merah lebih besar."
+        },
+        {
+          "id": "MTK-B04-M01-010",
+          "type": "PG",
+          "text": "Ketika sebuah dadu dilempar, peluang munculnya angka 2 dan angka 5 adalah sama besar. Apa alasan yang paling tepat? ",
+          "options": [
+            "Angka 2 lebih besar daripada angka 5",
+            "Angka 5 lebih sering digunakan",
+            "Kedua angka menempati satu sisi pada dadu yang seimbang",
+            "Angka 2 dan 5 pasti muncul bersamaan"
+          ],
+          "answer": "Kedua angka menempati satu sisi pada dadu yang seimbang",
+          "discussion": "Pada dadu yang seimbang, setiap sisi memiliki kesempatan yang sama untuk muncul. Karena angka 2 dan 5 masing-masing terdapat pada satu sisi, peluang keduanya sama besar."
+        },
+        {
+          "id": "MTK-B04-M01-011",
+          "type": "PG",
+          "text": "Sebuah kantong berisi 4 bola merah, 3 bola biru, dan 1 bola kuning. Jika satu bola diambil secara acak, warna bola yang memiliki peluang paling kecil untuk terambil adalah .... ",
+          "options": [
+            "Merah",
+            "Biru",
+            "Kuning",
+            "Semua sama besar"
+          ],
+          "answer": "Kuning",
+          "discussion": "Bola kuning hanya berjumlah 1, sedangkan bola merah berjumlah 4 dan bola biru berjumlah 3. Karena jumlah bola kuning paling sedikit, peluang terambilnya juga paling kecil."
+        },
+        {
+          "id": "MTK-B04-M01-012",
+          "type": "PG",
+          "text": "Sebuah dadu khusus memiliki enam sisi dengan susunan angka 1, 1, 2, 2, 2, dan 3. Jika dadu dilempar satu kali, angka yang paling mungkin muncul adalah .... ",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "Semua memiliki peluang sama"
+          ],
+          "answer": "2",
+          "discussion": "Angka 1 muncul pada dua sisi, angka 2 muncul pada tiga sisi, dan angka 3 muncul pada satu sisi. Angka 2 memiliki jumlah sisi terbanyak sehingga peluang kemunculannya paling besar."
+        },
+        {
+          "id": "MTK-B04-M01-013",
+          "type": "PG",
+          "text": "Sebuah kotak berisi 6 bola putih dan 4 bola hitam. Jika satu bola diambil secara acak, pernyataan yang benar adalah .... ",
+          "options": [
+            "Peluang mendapatkan bola hitam lebih besar",
+            "Peluang mendapatkan bola putih lebih besar",
+            "Peluang kedua warna sama besar",
+            "Peluang mendapatkan bola putih tidak mungkin"
+          ],
+          "answer": "Peluang mendapatkan bola putih lebih besar",
+          "discussion": "Terdapat 6 bola putih dan 4 bola hitam. Karena jumlah bola putih lebih banyak, peluang mengambil bola putih juga lebih besar."
+        },
+        {
+          "id": "MTK-B04-M01-014",
+          "type": "PG",
+          "text": "Sebuah roda putar memiliki 10 bagian sama besar. Empat bagian berwarna hijau, empat bagian berwarna merah, dan dua bagian berwarna kuning. Pernyataan yang tepat adalah .... ",
+          "options": [
+            "Peluang hijau lebih besar daripada merah",
+            "Peluang merah lebih besar daripada kuning",
+            "Peluang kuning lebih besar daripada hijau",
+            "Semua warna memiliki peluang sama besar"
+          ],
+          "answer": "Peluang merah lebih besar daripada kuning",
+          "discussion": "Bagian merah berjumlah 4, sedangkan bagian kuning berjumlah 2. Jadi, peluang mendapatkan warna merah lebih besar daripada warna kuning. Warna hijau dan merah memiliki peluang yang sama besar."
+        },
+        {
+          "id": "MTK-B04-M01-015",
+          "type": "PG",
+          "text": "Dalam sebuah permainan, pemain melempar koin sebanyak satu kali. Pemain menang jika muncul sisi gambar. Jika koin memiliki dua sisi yang seimbang, berapa banyak kemungkinan hasil yang tidak membuat pemain menang? ",
+          "options": [
+            "Tidak ada",
+            "1 kemungkinan",
+            "2 kemungkinan",
+            "3 kemungkinan"
+          ],
+          "answer": "1 kemungkinan",
+          "discussion": "Hasil lemparan koin hanya gambar atau angka. Jika pemain menang saat muncul gambar, satu-satunya hasil yang tidak membuatnya menang adalah angka."
+        },
+        {
+          "id": "MTK-B04-M01-016",
+          "type": "PG",
+          "text": "Sebuah tas berisi 12 bola yang terdiri atas 5 bola merah, 4 bola biru, dan 3 bola hijau. Jika satu bola diambil secara acak, warna yang paling mungkin terambil adalah .... ",
+          "options": [
+            "Merah",
+            "Biru",
+            "Hijau",
+            "Semua sama besar"
+          ],
+          "answer": "Merah",
+          "discussion": "Bola merah berjumlah 5, lebih banyak daripada bola biru yang berjumlah 4 dan bola hijau yang berjumlah 3. Oleh karena itu, peluang mengambil bola merah paling besar."
+        },
+        {
+          "id": "MTK-B04-M01-017",
+          "type": "PG",
+          "text": "Rani memiliki sebuah dadu khusus dengan enam sisi. Angka pada sisi-sisinya adalah 1, 2, 2, 3, 3, dan 3. Jika dadu dilempar, angka yang paling jarang muncul adalah .... ",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "Semua sama sering"
+          ],
+          "answer": "1",
+          "discussion": "Angka 1 hanya muncul pada satu sisi, angka 2 pada dua sisi, dan angka 3 pada tiga sisi. Karena angka 1 menempati sisi paling sedikit, peluang kemunculannya paling kecil."
+        },
+        {
+          "id": "MTK-B04-M01-018",
+          "type": "PG",
+          "text": "Dalam sebuah permainan, terdapat 8 kartu bernomor 1 sampai 8. Semua kartu memiliki ukuran dan bentuk yang sama, lalu diambil satu kartu secara acak. Jika pemain menang ketika mendapatkan angka lebih dari 6, angka yang membuat pemain menang adalah .... ",
+          "options": [
+            "5 dan 6",
+            "6 dan 7",
+            "7 dan 8",
+            "1 dan 8"
+          ],
+          "answer": "7 dan 8",
+          "discussion": "Angka yang lebih dari 6 adalah 7 dan 8. Jadi, hanya ada dua kartu yang membuat pemain menang."
+        },
+        {
+          "id": "MTK-B04-M01-019",
+          "type": "PG",
+          "text": "Sebuah kotak hadiah berisi 2 boneka, 5 buku, dan 3 tempat pensil. Jika satu hadiah diambil secara acak, jenis hadiah yang paling mungkin didapatkan adalah .... ",
+          "options": [
+            "Boneka",
+            "Buku",
+            "Tempat pensil",
+            "Semua sama besar"
+          ],
+          "answer": "Buku",
+          "discussion": "Buku berjumlah 5, lebih banyak daripada boneka yang berjumlah 2 dan tempat pensil yang berjumlah 3. Jadi, peluang mendapatkan buku paling besar."
+        },
+        {
+          "id": "MTK-B04-M01-020",
+          "type": "PG",
+          "text": "Sebuah dadu memiliki enam sisi yang diberi angka 1, 2, 3, 4, 5, dan 6. Jika dadu dilempar satu kali, peluang munculnya angka kurang dari 4 lebih besar daripada peluang munculnya angka lebih dari 4. Mengapa demikian? ",
+          "options": [
+            "Karena angka kurang dari 4 berjumlah 3 kemungkinan, sedangkan angka lebih dari 4 hanya 2 kemungkinan",
+            "Karena angka 4 selalu muncul",
+            "Karena angka lebih dari 4 tidak mungkin muncul",
+            "Karena semua angka memiliki nilai yang berbeda"
+          ],
+          "answer": "Karena angka kurang dari 4 berjumlah 3 kemungkinan, sedangkan angka lebih dari 4 hanya 2 kemungkinan",
+          "discussion": "Angka kurang dari 4 adalah 1, 2, dan 3 sehingga terdapat tiga kemungkinan. Angka lebih dari 4 adalah 5 dan 6 sehingga terdapat dua kemungkinan. Dengan demikian, peluang munculnya angka kurang dari 4 lebih besar."
+        },
+        {
+          "id": "MTK-B04-M01-021",
+          "type": "PG",
+          "text": "Sebuah kantong berisi 3 bola merah, 3 bola biru, dan 3 bola kuning. Dito mengatakan bahwa peluang mendapatkan bola merah lebih besar daripada mendapatkan bola biru. Bagaimana penilaian yang tepat terhadap pernyataan Dito? ",
+          "options": [
+            "Benar, karena merah berada di urutan pertama",
+            "Benar, karena warna merah lebih mencolok",
+            "Salah, karena jumlah bola setiap warna sama",
+            "Salah, karena bola kuning lebih banyak"
+          ],
+          "answer": "Salah, karena jumlah bola setiap warna sama",
+          "discussion": "Setiap warna memiliki jumlah bola yang sama, yaitu 3. Oleh karena itu, peluang mengambil bola merah, biru, atau kuning juga sama besar."
+        },
+        {
+          "id": "MTK-B04-M01-022",
+          "type": "PG",
+          "text": "Sebuah roda putar dibagi menjadi 12 bagian sama besar. Enam bagian berwarna hijau, tiga bagian berwarna merah, dan tiga bagian berwarna biru. Jika roda diputar satu kali, pernyataan yang benar adalah ....",
+          "options": [
+            "Peluang hijau paling kecil",
+            "Peluang merah dan biru sama besar serta paling kecil",
+            "Peluang merah lebih besar daripada hijau",
+            "Semua warna memiliki peluang sama besar"
+          ],
+          "answer": "Peluang merah dan biru sama besar serta paling kecil",
+          "discussion": "Bagian hijau berjumlah 6, merah 3, dan biru 3. Merah dan biru memiliki jumlah bagian yang sama dan lebih sedikit daripada hijau. Jadi, peluang keduanya sama besar dan merupakan peluang terkecil."
+        },
+        {
+          "id": "MTK-B04-M01-023",
+          "type": "PG",
+          "text": "Sebuah permainan menggunakan dadu bersisi enam. Pemain A menang jika muncul angka 1 atau 2. Pemain B menang jika muncul angka 3, 4, 5, atau 6. Jika dadu seimbang, pemain yang memiliki peluang menang lebih besar adalah .... ",
+          "options": [
+            "Pemain A",
+            "Pemain B",
+            "Keduanya sama besar",
+            "Tidak ada yang memiliki peluang"
+          ],
+          "answer": "Pemain B",
+          "discussion": "Pemain A memiliki dua angka yang membuatnya menang, sedangkan pemain B memiliki empat angka. Karena empat kemungkinan lebih banyak daripada dua kemungkinan, peluang menang pemain B lebih besar."
+        },
+        {
+          "id": "MTK-B04-M01-024",
+          "type": "PG",
+          "text": "Dalam sebuah kotak terdapat 10 bola yang terdiri atas 7 bola putih dan 3 bola hitam. Jika satu bola diambil secara acak, pernyataan yang paling tepat adalah .... ",
+          "options": [
+            "Bola putih pasti terambil",
+            "Bola hitam pasti terambil",
+            "Bola putih lebih mungkin terambil daripada bola hitam",
+            "Kedua warna tidak mungkin terambil"
+          ],
+          "answer": "Bola putih lebih mungkin terambil daripada bola hitam",
+          "discussion": "Bola putih berjumlah 7, sedangkan bola hitam berjumlah 3. Bola putih memiliki peluang lebih besar, tetapi tidak pasti terambil karena bola hitam juga tersedia."
+        },
+        {
+          "id": "MTK-B04-M01-025",
+          "type": "PG",
+          "text": "Sebuah permainan menggunakan kartu bernomor 1 sampai 10. Kartu diambil secara acak dan pemain menang jika mendapatkan bilangan genap. Berapa banyak kartu yang dapat membuat pemain menang? ",
+          "options": [
+            "3 kartu",
+            "4 kartu",
+            "5 kartu",
+            "6 kartu"
+          ],
+          "answer": "5 kartu",
+          "discussion": "Bilangan genap dari 1 sampai 10 adalah 2, 4, 6, 8, dan 10. Jadi, terdapat lima kartu yang membuat pemain menang."
+        },
+        {
+          "id": "MTK-B04-M01-026",
+          "type": "PG",
+          "text": "Dua kotak hadiah memiliki isi sebagai berikut.  Kotak A berisi 4 bola merah dan 6 bola biru.  Kotak B berisi 6 bola merah dan 4 bola biru.  Jika seseorang ingin mendapatkan bola merah, kotak yang sebaiknya dipilih adalah .... ",
+          "options": [
+            "Kotak A",
+            "Kotak B",
+            "Keduanya sama baik",
+            "Tidak dapat ditentukan"
+          ],
+          "answer": "Kotak B",
+          "discussion": "Kotak A memiliki 4 bola merah dari 10 bola, sedangkan Kotak B memiliki 6 bola merah dari 10 bola. Karena jumlah bola merah pada Kotak B lebih banyak dengan total bola yang sama, peluang mendapatkan bola merah lebih besar di Kotak B."
+        },
+        {
+          "id": "MTK-B04-M01-027",
+          "type": "PG",
+          "text": "Sebuah dadu khusus memiliki enam sisi dengan susunan angka 1, 1, 1, 2, 2, dan 3. Jika dadu dilempar, pernyataan yang benar adalah .... ",
+          "options": [
+            "Angka 1 dan 2 memiliki peluang sama besar",
+            "Angka 2 lebih mungkin muncul daripada angka 1",
+            "Angka 1 paling mungkin muncul",
+            "Angka 3 paling mungkin muncul"
+          ],
+          "answer": "Angka 1 paling mungkin muncul",
+          "discussion": "Angka 1 muncul pada tiga sisi, angka 2 pada dua sisi, dan angka 3 pada satu sisi. Angka 1 memiliki jumlah sisi terbanyak sehingga peluang kemunculannya paling besar."
+        },
+        {
+          "id": "MTK-B04-M01-028",
+          "type": "PG",
+          "text": "Dalam sebuah permainan, terdapat 5 kartu bergambar bintang dan 5 kartu bergambar bulan. Semua kartu memiliki bentuk dan ukuran sama. Jika satu kartu diambil secara acak, bagaimana perbandingan peluang mendapatkan gambar bintang dan bulan? ",
+          "options": [
+            "Bintang lebih besar",
+            "Bulan lebih besar",
+            "Keduanya sama besar",
+            "Keduanya tidak mungkin"
+          ],
+          "answer": "Keduanya sama besar",
+          "discussion": "Jumlah kartu bintang dan bulan sama, yaitu masing-masing 5 kartu. Karena semua kartu memiliki kesempatan yang sama untuk terambil, peluang mendapatkan kedua gambar juga sama besar."
+        },
+        {
+          "id": "MTK-B04-M01-029",
+          "type": "PG",
+          "text": "Sebuah toko menyediakan dua kotak undian.  Kotak A berisi 2 kupon hadiah dan 8 kupon tanpa hadiah.  Kotak B berisi 5 kupon hadiah dan 5 kupon tanpa hadiah.  Jika semua kupon memiliki kesempatan yang sama untuk diambil, kotak yang memberikan peluang mendapatkan hadiah lebih besar adalah .... ",
+          "options": [
+            "Kotak A",
+            "Kotak B",
+            "Keduanya sama besar",
+            "Tidak ada yang memberikan peluang"
+          ],
+          "answer": "Kotak B",
+          "discussion": "Kotak A memiliki 2 kupon hadiah dari 10 kupon, sedangkan Kotak B memiliki 5 kupon hadiah dari 10 kupon. Dengan jumlah kupon yang sama, Kotak B memberikan peluang mendapatkan hadiah lebih besar."
+        },
+        {
+          "id": "MTK-B04-M01-030",
+          "type": "PG",
+          "text": "Sebuah kantong berisi 2 bola merah, 4 bola biru, dan 6 bola hijau. Jika satu bola diambil secara acak, pernyataan yang benar adalah .... ",
+          "options": [
+            "Peluang merah lebih besar daripada hijau",
+            "Peluang biru lebih besar daripada hijau",
+            "Peluang hijau lebih besar daripada merah dan biru",
+            "Peluang ketiga warna sama besar"
+          ],
+          "answer": "Peluang hijau lebih besar daripada merah dan biru",
+          "discussion": "Bola hijau berjumlah 6, bola biru berjumlah 4, dan bola merah berjumlah 2. Karena jumlah bola hijau paling banyak, peluang mengambil bola hijau paling besar."
+        },
+        {
+          "id": "MTK-B04-M01-031",
+          "type": "PG",
+          "text": "Dalam permainan lempar koin, Sinta menang jika muncul gambar dan Riko menang jika muncul angka. Jika koin seimbang, bagaimana peluang kemenangan mereka? ",
+          "options": [
+            "Sinta lebih besar",
+            "Riko lebih besar",
+            "Sama besar",
+            "Salah satu pasti menang dua kali"
+          ],
+          "answer": "Sama besar",
+          "discussion": "Koin memiliki dua sisi, yaitu gambar dan angka. Pada koin seimbang, kedua sisi memiliki kesempatan yang sama untuk muncul. Karena itu, peluang kemenangan Sinta dan Riko sama besar."
+        },
+        {
+          "id": "MTK-B04-M01-032",
+          "type": "PG",
+          "text": "Sebuah kotak berisi 8 bola dengan susunan 4 bola merah dan 4 bola biru. Budi ingin mendapatkan bola merah. Ia menambahkan 2 bola merah ke dalam kotak tanpa mengeluarkan bola lainnya. Apa yang terjadi pada peluang mendapatkan bola merah? ",
+          "options": [
+            "Menjadi lebih kecil",
+            "Menjadi lebih besar",
+            "Tetap sama",
+            "Menjadi tidak mungkin"
+          ],
+          "answer": "Menjadi lebih besar",
+          "discussion": "Sebelum penambahan, terdapat 4 bola merah dari 8 bola. Setelah ditambah 2 bola merah, jumlahnya menjadi 6 bola merah dari 10 bola. Bagian bola merah dalam kotak menjadi lebih besar sehingga peluang mengambil bola merah meningkat."
+        },
+        {
+          "id": "MTK-B04-M01-033",
+          "type": "PG",
+          "text": "Sebuah roda putar memiliki 8 bagian sama besar. Tiga bagian berwarna merah, tiga bagian berwarna kuning, dan dua bagian berwarna hijau. Pernyataan yang benar tentang peluang warna pada roda putar tersebut adalah .... ",
+          "options": [
+            "Merah lebih mungkin daripada kuning",
+            "Kuning lebih mungkin daripada hijau",
+            "Hijau lebih mungkin daripada merah",
+            "Ketiga warna memiliki peluang sama besar"
+          ],
+          "answer": "Kuning lebih mungkin daripada hijau",
+          "discussion": "Warna kuning menempati tiga bagian, sedangkan warna hijau menempati dua bagian. Oleh karena itu, peluang mendapatkan warna kuning lebih besar daripada hijau. Merah dan kuning memiliki peluang sama besar."
+        },
+        {
+          "id": "MTK-B04-M01-034",
+          "type": "PG",
+          "text": "Dalam sebuah permainan, pemain mengambil satu kartu dari 10 kartu bernomor 1 sampai 10. Pemain A menang jika mendapat angka lebih dari 7. Pemain B menang jika mendapat angka kurang dari 4. Siapa yang memiliki peluang menang lebih besar? ",
+          "options": [
+            "Pemain A",
+            "Pemain B",
+            "Keduanya sama besar",
+            "Keduanya pasti menang"
+          ],
+          "answer": "Keduanya sama besar",
+          "discussion": "Pemain A menang jika mendapatkan angka 8, 9, atau 10. Pemain B menang jika mendapatkan angka 1, 2, atau 3. Keduanya memiliki tiga kemungkinan hasil yang membuatnya menang, sehingga peluang menang sama besar."
+        },
+        {
+          "id": "MTK-B04-M01-035",
+          "type": "PG",
+          "text": "Sebuah kotak berisi 3 bola putih dan 7 bola hitam. Rina mengambil satu bola secara acak. Pernyataan yang paling tepat mengenai peluang pengambilan tersebut adalah .... ",
+          "options": [
+            "Bola putih pasti terambil",
+            "Bola hitam lebih mungkin terambil daripada bola putih",
+            "Bola putih tidak mungkin terambil",
+            "Kedua warna memiliki peluang sama besar"
+          ],
+          "answer": "Bola hitam lebih mungkin terambil daripada bola putih",
+          "discussion": "Terdapat 7 bola hitam dan 3 bola putih. Karena bola hitam lebih banyak, peluang mengambil bola hitam lebih besar. Namun, bola putih tetap mungkin terambil."
+        },
+        {
+          "id": "MTK-B04-M01-036",
+          "type": "PG",
+          "text": "Dua kotak undian memiliki isi sebagai berikut.  Kotak A berisi 3 kupon hadiah dan 7 kupon tanpa hadiah.  Kotak B berisi 6 kupon hadiah dan 14 kupon tanpa hadiah.  Jika semua kupon memiliki kesempatan yang sama untuk diambil, bagaimana peluang mendapatkan hadiah pada kedua kotak? ",
+          "options": [
+            "Kotak A lebih besar",
+            "Kotak B lebih besar",
+            "Keduanya sama besar",
+            "Tidak dapat dibandingkan"
+          ],
+          "answer": "Keduanya sama besar",
+          "discussion": "Pada Kotak A, terdapat 3 kupon hadiah dari 10 kupon. Pada Kotak B, terdapat 6 kupon hadiah dari 20 kupon. Perbandingan jumlah kupon hadiah terhadap seluruh kupon pada kedua kotak sama, yaitu 3 dari 10 dan 6 dari 20. Jadi, peluang mendapatkan hadiah sama besar."
+        },
+        {
+          "id": "MTK-B04-M01-037",
+          "type": "PG",
+          "text": "Sebuah kotak berisi 20 bola. Sebanyak 8 bola berwarna merah dan sisanya berwarna biru. Jika satu bola diambil secara acak, berapa banyak bola biru yang terdapat di dalam kotak? ",
+          "options": [
+            "8 bola",
+            "10 bola",
+            "12 bola",
+            "14 bola"
+          ],
+          "answer": "12 bola",
+          "discussion": "Jumlah seluruh bola adalah 20. Bola merah berjumlah 8. Jadi, jumlah bola biru adalah 20 - 8 = 12 bola."
+        },
+        {
+          "id": "MTK-B04-M01-038",
+          "type": "PG",
+          "text": "Sebuah permainan menggunakan dadu khusus dengan enam sisi. Angka pada sisi-sisinya adalah 1, 1, 2, 2, 2, dan 3. Jika pemain menang ketika muncul angka 1 atau 3, berapa banyak sisi yang dapat membuat pemain menang? ",
+          "options": [
+            "1 sisi",
+            "2 sisi",
+            "3 sisi",
+            "4 sisi"
+          ],
+          "answer": "3 sisi",
+          "discussion": "Angka 1 muncul pada dua sisi dan angka 3 muncul pada satu sisi. Jadi, terdapat 2 + 1 = 3 sisi yang membuat pemain menang."
+        },
+        {
+          "id": "MTK-B04-M01-039",
+          "type": "PG",
+          "text": "Sebuah kotak A berisi 4 bola merah dan 6 bola biru. Kotak B berisi 6 bola merah dan 9 bola biru. Jika satu bola diambil secara acak dari salah satu kotak, pernyataan yang benar adalah .... ",
+          "options": [
+            "Peluang merah di Kotak A lebih besar",
+            "Peluang merah di Kotak B lebih besar",
+            "Peluang merah pada kedua kotak sama besar",
+            "Peluang merah di kedua kotak tidak dapat dibandingkan"
+          ],
+          "answer": "Peluang merah pada kedua kotak sama besar",
+          "discussion": "Kotak A memiliki 4 bola merah dari 10 bola, sedangkan Kotak B memiliki 6 bola merah dari 15 bola. Perbandingan tersebut sama-sama 2 dari 5. Jadi, peluang mendapatkan bola merah pada kedua kotak sama besar."
+        },
+        {
+          "id": "MTK-B04-M01-040",
+          "type": "PG",
+          "text": "Sebuah roda putar dibagi menjadi 20 bagian sama besar. Sebanyak 8 bagian berwarna merah, 7 bagian berwarna biru, dan sisanya berwarna kuning. Jika roda diputar satu kali, berapa banyak bagian kuning pada roda tersebut? ",
+          "options": [
+            "3 bagian",
+            "4 bagian",
+            "5 bagian",
+            "6 bagian"
+          ],
+          "answer": "5 bagian",
+          "discussion": "Jumlah bagian merah dan biru adalah 8 + 7 = 15 bagian. Jumlah seluruh bagian adalah 20. Jadi, bagian kuning adalah 20 - 15 = 5 bagian."
+        },
+        {
+          "id": "MTK-B04-M01-041",
+          "type": "PG",
+          "text": "Sebuah kotak A berisi 5 bola merah dan 5 bola putih. Kotak B berisi 8 bola merah dan 2 bola putih. Jika seseorang ingin mendapatkan bola merah, kotak yang sebaiknya dipilih adalah .... ",
+          "options": [
+            "Kotak A, karena jumlah seluruh bolanya lebih sedikit",
+            "Kotak A, karena bola putih lebih banyak",
+            "Kotak B, karena bagian bola merah lebih banyak",
+            "Keduanya sama besar"
+          ],
+          "answer": "Kotak B, karena bagian bola merah lebih banyak",
+          "discussion": "Kotak A memiliki 5 bola merah dari 10 bola, sedangkan Kotak B memiliki 8 bola merah dari 10 bola. Dengan jumlah seluruh bola yang sama, Kotak B memiliki peluang mendapatkan bola merah lebih besar."
+        },
+        {
+          "id": "MTK-B04-M01-042",
+          "type": "PG",
+          "text": "Sebuah permainan menggunakan 12 kartu yang diberi nomor 1 sampai 12. Pemain menang jika mengambil kartu bernomor kelipatan 3. Berapa banyak kartu yang membuat pemain menang? ",
+          "options": [
+            "2 kartu",
+            "3 kartu",
+            "4 kartu",
+            "5 kartu"
+          ],
+          "answer": "4 kartu",
+          "discussion": "Kelipatan 3 dari 1 sampai 12 adalah 3, 6, 9, dan 12. Jadi, terdapat empat kartu yang membuat pemain menang."
+        },
+        {
+          "id": "MTK-B04-M01-043",
+          "type": "PG",
+          "text": "Sebuah kantong berisi 15 bola dengan susunan 6 bola merah, 5 bola biru, dan 4 bola hijau. Dimas ingin mendapatkan bola yang bukan berwarna merah. Berapa banyak bola yang dapat memenuhi keinginan Dimas? ",
+          "options": [
+            "6 bola",
+            "8 bola",
+            "9 bola",
+            "11 bola"
+          ],
+          "answer": "9 bola",
+          "discussion": "Bola yang bukan berwarna merah adalah bola biru dan hijau. Jumlahnya adalah 5 + 4 = 9 bola. Jadi, terdapat sembilan bola yang dapat memenuhi keinginan Dimas."
+        },
+        {
+          "id": "MTK-B04-M01-044",
+          "type": "PG",
+          "text": "Sebuah permainan menggunakan roda putar yang dibagi menjadi 16 bagian sama besar. Sebanyak 4 bagian berwarna merah, 6 bagian berwarna biru, dan 6 bagian berwarna hijau. Jika pemain menang ketika penunjuk berhenti pada warna merah atau biru, berapa banyak bagian yang memberikan kemenangan? ",
+          "options": [
+            "4 bagian",
+            "6 bagian",
+            "10 bagian",
+            "12 bagian"
+          ],
+          "answer": "10 bagian",
+          "discussion": "Bagian merah berjumlah 4 dan bagian biru berjumlah 6. Karena pemain menang pada kedua warna tersebut, jumlah bagian yang memberikan kemenangan adalah 4 + 6 = 10 bagian."
+        },
+        {
+          "id": "MTK-B04-M01-045",
+          "type": "PG",
+          "text": "Sebuah kotak berisi 24 bola dengan susunan 8 bola merah, 8 bola biru, dan 8 bola kuning. Agar peluang mendapatkan bola hijau menjadi mungkin, tindakan yang tepat adalah .... ",
+          "options": [
+            "Mengurangi jumlah bola merah",
+            "Menambahkan bola hijau ke dalam kotak",
+            "Mengeluarkan semua bola biru",
+            "Menambahkan bola kuning tanpa mengeluarkan bola lain"
+          ],
+          "answer": "Menambahkan bola hijau ke dalam kotak",
+          "discussion": "Saat ini tidak ada bola hijau di dalam kotak. Oleh karena itu, mendapatkan bola hijau tidak mungkin. Jika bola hijau ditambahkan, peluang mengambil bola hijau menjadi mungkin."
+        },
+        {
+          "id": "MTK-B04-M01-046",
+          "type": "PG",
+          "text": "Sebuah permainan memiliki dua pilihan kotak.  Kotak A berisi 4 bola merah, 4 bola biru, dan 2 bola kuning.  Kotak B berisi 6 bola merah, 3 bola biru, dan 1 bola kuning.  Jika pemain ingin mendapatkan bola biru, kotak yang memberikan peluang lebih besar adalah .... ",
+          "options": [
+            "Kotak A",
+            "Kotak B",
+            "Keduanya sama besar",
+            "Tidak ada bola biru"
+          ],
+          "answer": "Kotak A",
+          "discussion": "Kotak A memiliki 4 bola biru dari 10 bola. Kotak B memiliki 3 bola biru dari 10 bola. Karena jumlah keseluruhan bola sama dan Kotak A memiliki bola biru lebih banyak, peluang mendapatkan bola biru lebih besar di Kotak A."
+        },
+        {
+          "id": "MTK-B04-M01-047",
+          "type": "PG",
+          "text": "Sebuah permainan menggunakan dadu bersisi enam. Pemain A menang jika muncul angka ganjil, sedangkan pemain B menang jika muncul angka genap. Jika dadu seimbang, bagaimana peluang kemenangan kedua pemain? ",
+          "options": [
+            "Pemain A lebih besar",
+            "Pemain B lebih besar",
+            "Keduanya sama besar",
+            "Keduanya tidak mungkin menang"
+          ],
+          "answer": "Keduanya sama besar",
+          "discussion": "Angka ganjil pada dadu adalah 1, 3, dan 5. Angka genap adalah 2, 4, dan 6. Masing-masing pemain memiliki tiga kemungkinan hasil yang membuatnya menang. Jadi, peluang keduanya sama besar."
+        },
+        {
+          "id": "MTK-B04-M01-048",
+          "type": "PG",
+          "text": "Sebuah kotak hadiah berisi 30 kupon. Sebanyak 12 kupon berisi hadiah utama, 8 kupon berisi hadiah hiburan, dan sisanya tidak mendapatkan hadiah. Jika satu kupon diambil secara acak, berapa banyak kupon yang tidak mendapatkan hadiah? ",
+          "options": [
+            "8 kupon",
+            "10 kupon",
+            "12 kupon",
+            "14 kupon"
+          ],
+          "answer": "10 kupon",
+          "discussion": "Jumlah kupon yang berisi hadiah adalah 12 + 8 = 20 kupon. Jumlah seluruh kupon adalah 30. Jadi, kupon yang tidak mendapatkan hadiah berjumlah 30 - 20 = 10 kupon."
+        },
+        {
+          "id": "MTK-B04-M01-049",
+          "type": "PG",
+          "text": "Dua roda putar memiliki ukuran dan jumlah bagian yang sama, yaitu 10 bagian sama besar.  Roda A memiliki 7 bagian merah dan 3 bagian biru.  Roda B memiliki 5 bagian merah dan 5 bagian biru.  Jika pemain ingin mendapatkan warna merah, roda yang memberikan peluang lebih besar adalah .... ",
+          "options": [
+            "Roda A",
+            "Roda B",
+            "Keduanya sama besar",
+            "Tidak dapat ditentukan"
+          ],
+          "answer": "Roda A",
+          "discussion": "Roda A memiliki 7 bagian merah dari 10 bagian, sedangkan Roda B memiliki 5 bagian merah dari 10 bagian. Karena jumlah bagian seluruhnya sama, Roda A memberikan peluang mendapatkan warna merah lebih besar."
+        },
+        {
+          "id": "MTK-B04-M01-050",
+          "type": "PG",
+          "text": "Dalam sebuah permainan, terdapat 20 kartu bernomor 1 sampai 20. Pemain A menang jika mendapatkan bilangan kelipatan 2. Pemain B menang jika mendapatkan bilangan kelipatan 5. Jika satu kartu diambil secara acak, siapa yang memiliki peluang menang lebih besar? ",
+          "options": [
+            "Pemain A",
+            "Pemain B",
+            "Keduanya sama besar",
+            "Keduanya pasti menang"
+          ],
+          "answer": "Pemain A",
+          "discussion": "Kelipatan 2 dari 1 sampai 20 berjumlah 10, yaitu 2, 4, 6, 8, 10, 12, 14, 16, 18, dan 20. Kelipatan 5 berjumlah 4, yaitu 5, 10, 15, dan 20. Karena Pemain A memiliki lebih banyak kartu yang membuatnya menang, peluang menang Pemain A lebih besar."
+        }
+      ]
+    }
+  ]
+}
