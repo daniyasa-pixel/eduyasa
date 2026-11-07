@@ -1,0 +1,664 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "BIN-B02",
+      "chapter_title": "Bab 2: Nusantara Berjuta Cerita",
+      "questions": [
+        {
+          "id": "BIN-B02-M01-001",
+          "type": "PG",
+          "text": "Mira dan keluarganya tinggal di ....",
+          "options": [
+            "rumah sederhana di tepi hutan",
+            "rumah susun di lantai tujuh",
+            "rumah panggung dekat pantai",
+            "rumah besar di kaki gunung"
+          ],
+          "answer": "rumah susun di lantai tujuh",
+          "discussion": "Dalam cerita “Kupu-Kupu Mira”, Mira dan keluarganya tinggal di sebuah rumah susun di lantai tujuh di Kota S."
+        },
+        {
+          "id": "BIN-B02-M01-002",
+          "type": "PG",
+          "text": "Kegiatan yang paling disukai Mira adalah ....",
+          "options": [
+            "membaca dan menulis cerita",
+            "bermain bola dan bersepeda",
+            "memasak dan berkebun",
+            "menggambar dan menari"
+          ],
+          "answer": "membaca dan menulis cerita",
+          "discussion": "Mira menyukai kegiatan membaca dan menulis cerita."
+        },
+        {
+          "id": "BIN-B02-M01-003",
+          "type": "PG",
+          "text": "Jenis buku yang paling disukai Mira adalah ....",
+          "options": [
+            "Ensiklopedia Hewan Laut",
+            "Ensiklopedi Keragaman Hayati",
+            "Buku Cerita Nusantara",
+            "Buku Sejarah Indonesia"
+          ],
+          "answer": "Ensiklopedi Keragaman Hayati",
+          "discussion": "Mira menyukai buku Ensiklopedi Keragaman Hayati."
+        },
+        {
+          "id": "BIN-B02-M01-004",
+          "type": "PG",
+          "text": "Mengapa penghuni rumah susun tempat tinggal Mira dilarang memelihara binatang?",
+          "options": [
+            "Karena binatang dapat merusak bangunan.",
+            "Karena binatang membutuhkan halaman luas.",
+            "Karena dapat menimbulkan bau dan kebisingan.",
+            "Karena semua penghuni tidak menyukai binatang."
+          ],
+          "answer": "Karena dapat menimbulkan bau dan kebisingan.",
+          "discussion": "Aturan tersebut dibuat agar kenyamanan penghuni rumah susun tetap terjaga. Bau dan suara binatang dapat mengganggu orang lain."
+        },
+        {
+          "id": "BIN-B02-M01-005",
+          "type": "PG",
+          "text": "Apa yang terjadi pada kupu-kupu Mira dalam cerita?",
+          "options": [
+            "Kupu-kupu itu terbang ke taman.",
+            "Kupu-kupu itu ditangkap oleh cecak besar.",
+            "Kupu-kupu itu masuk ke dalam buku Mira.",
+            "Kupu-kupu itu dibawa oleh teman Mira."
+          ],
+          "answer": "Kupu-kupu itu ditangkap oleh cecak besar.",
+          "discussion": "Dalam cerita, kupu-kupu Mira ditangkap oleh seekor cecak besar. Peristiwa tersebut membuat Mira merasa sedih."
+        },
+        {
+          "id": "BIN-B02-M01-006",
+          "type": "PG",
+          "text": "Apapuhang dalam cerita rakyat “Lembah Apapuhang dan Orang-Orang Kecil” digambarkan sebagai ....",
+          "options": [
+            "raksasa penghuni gunung",
+            "manusia yang tinggal di pesisir",
+            "kurcaci atau orang bertubuh kecil",
+            "hewan yang hidup di sungai"
+          ],
+          "answer": "kurcaci atau orang bertubuh kecil",
+          "discussion": "Apapuhang merupakan sebutan bagi para kurcaci atau orang-orang bertubuh kecil yang hidup di lembah di kaki Gunung Awu."
+        },
+        {
+          "id": "BIN-B02-M01-007",
+          "type": "PG",
+          "text": "Cerita Apapuhang berasal dari Kepulauan Sangihe yang berada di Provinsi ....",
+          "options": [
+            "Sulawesi Utara",
+            "Sulawesi Selatan",
+            "Kalimantan Timur",
+            "Maluku Utara"
+          ],
+          "answer": "Sulawesi Utara",
+          "discussion": "Kepulauan Sangihe merupakan wilayah di Provinsi Sulawesi Utara."
+        },
+        {
+          "id": "BIN-B02-M01-008",
+          "type": "PG",
+          "text": "Dalam labirin istilah cerita Apapuhang, kata “Saluu” berarti ....",
+          "options": [
+            "lembah",
+            "sungai kecil",
+            "keranjang anyaman dari rotan",
+            "kolam ikan dan pemandian"
+          ],
+          "answer": "sungai kecil",
+          "discussion": "Dalam daftar istilah cerita Apapuhang, Saluu berarti sungai kecil."
+        },
+        {
+          "id": "BIN-B02-M01-009",
+          "type": "PG",
+          "text": "Cerita rakyat yang tokohnya berupa binatang yang berperilaku seperti manusia disebut ....",
+          "options": [
+            "mite",
+            "epos",
+            "fabel",
+            "sage"
+          ],
+          "answer": "fabel",
+          "discussion": "Fabel merupakan cerita rakyat yang menampilkan binatang dengan perilaku seperti manusia."
+        },
+        {
+          "id": "BIN-B02-M01-010",
+          "type": "PG",
+          "text": "Makna denotatif adalah makna kata yang ....",
+          "options": [
+            "sebenarnya atau sesuai arti langsung",
+            "berupa sindiran kepada orang lain",
+            "digunakan untuk memperindah cerita",
+            "berbeda dari arti sebenarnya"
+          ],
+          "answer": "sebenarnya atau sesuai arti langsung",
+          "discussion": "Makna denotatif adalah makna sebenarnya dari suatu kata, bukan makna kiasan."
+        },
+        {
+          "id": "BIN-B02-M01-011",
+          "type": "PG",
+          "text": "Cerita rakyat termasuk salah satu bentuk karya ....",
+          "options": [
+            "ilmiah",
+            "sastra",
+            "laporan",
+            "berita"
+          ],
+          "answer": "sastra",
+          "discussion": "Cerita rakyat merupakan karya sastra yang menggunakan bahasa untuk menyampaikan cerita, gagasan, perasaan, dan pesan."
+        },
+        {
+          "id": "BIN-B02-M01-012",
+          "type": "PG",
+          "text": "Perbedaan utama cerita fiksi dan nonfiksi adalah ....",
+          "options": [
+            "Fiksi selalu pendek, sedangkan nonfiksi selalu panjang.",
+            "Fiksi berdasarkan khayalan, sedangkan nonfiksi berdasarkan kenyataan atau fakta.",
+            "Fiksi hanya berisi gambar, sedangkan nonfiksi hanya berisi tulisan.",
+            "Fiksi tidak memiliki tokoh, sedangkan nonfiksi selalu memiliki tokoh."
+          ],
+          "answer": "Fiksi berdasarkan khayalan, sedangkan nonfiksi berdasarkan kenyataan atau fakta.",
+          "discussion": "Cerita fiksi dibuat berdasarkan imajinasi atau khayalan, sedangkan nonfiksi menyampaikan informasi berdasarkan kenyataan atau fakta."
+        },
+        {
+          "id": "BIN-B02-M01-013",
+          "type": "PG",
+          "text": "Cerita rakyat biasanya diwariskan dari satu generasi ke generasi berikutnya melalui ....",
+          "options": [
+            "lisan atau tulisan",
+            "surat kabar saja",
+            "siaran televisi saja",
+            "buku pelajaran saja"
+          ],
+          "answer": "lisan atau tulisan",
+          "discussion": "Cerita rakyat diwariskan secara turun-temurun melalui penyampaian lisan maupun tulisan. Pengarang atau waktu awal penyampaiannya sering kali tidak diketahui."
+        },
+        {
+          "id": "BIN-B02-M01-014",
+          "type": "PG",
+          "text": "Cerita yang mengisahkan kepahlawanan dan perjuangan termasuk jenis ....",
+          "options": [
+            "mite",
+            "legenda",
+            "epos",
+            "cerita jenaka"
+          ],
+          "answer": "epos",
+          "discussion": "Epos merupakan jenis cerita rakyat yang mengisahkan kepahlawanan."
+        },
+        {
+          "id": "BIN-B02-M01-015",
+          "type": "PG",
+          "text": "Cerita rakyat yang mengisahkan sejarah termasuk jenis ....",
+          "options": [
+            "sage",
+            "fabel",
+            "dongeng",
+            "mite"
+          ],
+          "answer": "sage",
+          "discussion": "Sage merupakan cerita rakyat yang mengisahkan sejarah."
+        },
+        {
+          "id": "BIN-B02-M01-016",
+          "type": "PG",
+          "text": "Cerita rakyat yang berhubungan dengan kepercayaan dan hal-hal mistis disebut ....",
+          "options": [
+            "fabel",
+            "mite",
+            "epos",
+            "cerita jenaka"
+          ],
+          "answer": "mite",
+          "discussion": "Mite merupakan cerita rakyat yang berkaitan dengan kepercayaan dan hal-hal mistis."
+        },
+        {
+          "id": "BIN-B02-M01-017",
+          "type": "PG",
+          "text": "Cerita rakyat yang mengandung unsur humor disebut ....",
+          "options": [
+            "legenda",
+            "sage",
+            "cerita jenaka",
+            "epos"
+          ],
+          "answer": "cerita jenaka",
+          "discussion": "Cerita jenaka mengandung unsur humor atau kelucuan."
+        },
+        {
+          "id": "BIN-B02-M01-018",
+          "type": "PG",
+          "text": "Cerita rakyat yang bersifat khayalan dan disampaikan untuk hiburan termasuk jenis ....",
+          "options": [
+            "dongeng",
+            "sage",
+            "epos",
+            "legenda"
+          ],
+          "answer": "dongeng",
+          "discussion": "Dongeng merupakan cerita rakyat yang bersifat khayalan dan disampaikan sebagai hiburan."
+        },
+        {
+          "id": "BIN-B02-M01-019",
+          "type": "PG",
+          "text": "Para Apapuhang dalam cerita tinggal di bawah pohon tumbang dan di sela-sela akar pohon besar. Hal tersebut menunjukkan bahwa mereka ....",
+          "options": [
+            "membangun rumah di tengah kota",
+            "memanfaatkan lingkungan alam sebagai tempat tinggal",
+            "selalu berpindah ke daerah pantai",
+            "tinggal di dalam bangunan kerajaan"
+          ],
+          "answer": "memanfaatkan lingkungan alam sebagai tempat tinggal",
+          "discussion": "Cerita menggambarkan Apapuhang hidup di lingkungan lembah dan menggunakan bagian-bagian alam sebagai tempat tinggal."
+        },
+        {
+          "id": "BIN-B02-M01-020",
+          "type": "PG",
+          "text": "Dalam labirin istilah cerita Apapuhang, kata “Bika” berarti ....",
+          "options": [
+            "sungai kecil",
+            "kolam ikan dan pemandian",
+            "keranjang anyaman dari rotan",
+            "kurcaci atau orang bertubuh kecil"
+          ],
+          "answer": "keranjang anyaman dari rotan",
+          "discussion": "Dalam daftar istilah cerita Apapuhang, Bika berarti keranjang anyaman dari rotan."
+        },
+        {
+          "id": "BIN-B02-M01-021",
+          "type": "PG",
+          "text": "Para Apapuhang digambarkan sebagai kelompok yang suka bekerja keras. Bukti yang mendukung pernyataan tersebut adalah ....",
+          "options": [
+            "Mereka hanya tinggal di rumah dan tidak melakukan kegiatan.",
+            "Mereka berusaha mencari makanan dan membuat alat untuk mendapatkan air laut.",
+            "Mereka selalu meminta bantuan kelompok lain.",
+            "Mereka meninggalkan lembah untuk hidup di kota."
+          ],
+          "answer": "Mereka berusaha mencari makanan dan membuat alat untuk mendapatkan air laut.",
+          "discussion": "Cerita menggambarkan para Apapuhang berkelana mencari bahan makanan dan berusaha menciptakan peralatan untuk mengambil air laut."
+        },
+        {
+          "id": "BIN-B02-M01-022",
+          "type": "PG",
+          "text": "Para Apapuhang membuat simpul dari satu pohon ke pohon lain seperti ketapel raksasa untuk meluncurkan perahu. Tindakan tersebut menunjukkan bahwa mereka ....",
+          "options": [
+            "memiliki ide kreatif untuk mengatasi kesulitan",
+            "tidak menyukai lingkungan tempat tinggalnya",
+            "ingin menghancurkan semua pohon di lembah",
+            "tidak mampu bekerja sama dengan kelompoknya"
+          ],
+          "answer": "memiliki ide kreatif untuk mengatasi kesulitan",
+          "discussion": "Mereka menemukan cara yang tidak biasa untuk mencapai pantai. Hal tersebut menunjukkan kreativitas dalam mencari solusi."
+        },
+        {
+          "id": "BIN-B02-M01-023",
+          "type": "PG",
+          "text": "Dalam labirin istilah cerita Apapuhang, istilah “Liua Bale” berarti ....",
+          "options": [
+            "lembah",
+            "sungai kecil",
+            "keranjang anyaman dari rotan",
+            "kolam ikan dan pemandian"
+          ],
+          "answer": "kolam ikan dan pemandian",
+          "discussion": "Dalam daftar istilah cerita Apapuhang, Liua Bale berarti kolam ikan dan pemandian."
+        },
+        {
+          "id": "BIN-B02-M01-024",
+          "type": "PG",
+          "text": "Cerita rakyat disebut mengandung nilai budaya karena ....",
+          "options": [
+            "selalu menceritakan kehidupan di luar negeri",
+            "dapat menggambarkan kebiasaan, kehidupan, dan warisan masyarakat",
+            "hanya berisi daftar nama tokoh",
+            "tidak memiliki hubungan dengan kehidupan masyarakat"
+          ],
+          "answer": "dapat menggambarkan kebiasaan, kehidupan, dan warisan masyarakat",
+          "discussion": "Cerita rakyat diwariskan turun-temurun dan dapat memuat nilai budaya serta pesan kehidupan masyarakat asalnya."
+        },
+        {
+          "id": "BIN-B02-M01-025",
+          "type": "PG",
+          "text": "Murai Kecil terjatuh ke dalam sumur tua setelah ....",
+          "options": [
+            "sayapnya digigit seekor tupai",
+            "angin kencang menghempaskan tubuhnya",
+            "ia dikejar oleh induknya",
+            "ia sengaja masuk untuk mencari makanan"
+          ],
+          "answer": "angin kencang menghempaskan tubuhnya",
+          "discussion": "Murai Kecil terbang jauh dan kelelahan. Ketika terbang merendah untuk beristirahat, angin kencang menghempaskan tubuhnya hingga jatuh ke sumur."
+        },
+        {
+          "id": "BIN-B02-M01-026",
+          "type": "PG",
+          "text": "Mengapa Murai Kecil tidak berhasil terbang keluar dari sumur?",
+          "options": [
+            "Karena ia tidak memiliki bulu.",
+            "Karena sayapnya terluka akibat terjatuh.",
+            "Karena sumur dipenuhi air.",
+            "Karena ia tidak mengetahui arah pulang."
+          ],
+          "answer": "Karena sayapnya terluka akibat terjatuh.",
+          "discussion": "Sayap Murai Kecil terluka ketika tubuhnya menghantam dinding sumur. Luka tersebut membuatnya tidak dapat terbang kembali."
+        },
+        {
+          "id": "BIN-B02-M01-027",
+          "type": "PG",
+          "text": "Ketika Murai Kecil berdoa meminta teman, hewan yang kemudian jatuh ke dalam sumur adalah ....",
+          "options": [
+            "kelinci",
+            "tupai",
+            "kucing",
+            "rusa"
+          ],
+          "answer": "tupai",
+          "discussion": "Setelah Murai Kecil berdoa, seekor tupai terpeleset dan jatuh ke dalam sumur sehingga mereka bertemu."
+        },
+        {
+          "id": "BIN-B02-M01-028",
+          "type": "PG",
+          "text": "Setelah Murai Kecil dan Tupai menyadari bahwa mereka perlu keluar dari sumur, doa yang dipanjatkan Tupai adalah ....",
+          "options": [
+            "agar sumur menjadi lebih dalam",
+            "agar Tuhan mengeluarkannya dari sumur",
+            "agar angin berhenti bertiup selamanya",
+            "agar semua hewan datang ke sumur"
+          ],
+          "answer": "agar Tuhan mengeluarkannya dari sumur",
+          "discussion": "Tupai berdoa agar Tuhan mengeluarkannya dari tempat itu. Murai Kecil juga berdoa agar diberi makanan."
+        },
+        {
+          "id": "BIN-B02-M01-029",
+          "type": "PG",
+          "text": "Mengapa Laba-laba akhirnya mencari Ibu Murai untuk meminta pertolongan?",
+          "options": [
+            "Karena ingin mendapatkan hadiah dari Ibu Murai.",
+            "Karena ingin menolong Murai Kecil dan Tupai yang terjebak.",
+            "Karena ingin menguasai sumur tua.",
+            "Karena ingin mengusir Tupai dari sumur."
+          ],
+          "answer": "Karena ingin menolong Murai Kecil dan Tupai yang terjebak.",
+          "discussion": "Laba-laba ingin menolong Murai Kecil dan Tupai meskipun sempat merasa takut bertemu Ibu Murai."
+        },
+        {
+          "id": "BIN-B02-M01-030",
+          "type": "PG",
+          "text": "Nilai positif yang paling jelas terlihat dari tindakan Laba-laba dalam cerita adalah ....",
+          "options": [
+            "keberanian menolong makhluk lain",
+            "keinginan untuk menang sendiri",
+            "kebiasaan menyalahkan orang lain",
+            "sikap tidak peduli terhadap kesulitan"
+          ],
+          "answer": "keberanian menolong makhluk lain",
+          "discussion": "Laba-laba memilih menolong Murai Kecil dan Tupai meskipun ia merasa takut. Tindakan tersebut mencerminkan kepedulian dan keberanian."
+        },
+        {
+          "id": "BIN-B02-M01-031",
+          "type": "PG",
+          "text": "Dalam cerita “Doa-Doa dalam Sumur Tua”, siapa yang datang menolong Murai Kecil dan Tupai setelah diberi tahu oleh Laba-laba?",
+          "options": [
+            "Ibu Murai",
+            "seekor rusa",
+            "seekor kelinci",
+            "seorang petani"
+          ],
+          "answer": "Ibu Murai",
+          "discussion": "Laba-laba menemui Ibu Murai dan memberitahukan bahwa anaknya terjebak di sumur. Ibu Murai kemudian datang menolong."
+        },
+        {
+          "id": "BIN-B02-M01-032",
+          "type": "PG",
+          "text": "Sikap Murai Kecil yang akhirnya berterima kasih kepada Tupai dan Laba-laba menunjukkan nilai ....",
+          "options": [
+            "kesombongan",
+            "rasa syukur dan menghargai pertolongan",
+            "kemarahan kepada teman",
+            "keinginan untuk membalas dendam"
+          ],
+          "answer": "rasa syukur dan menghargai pertolongan",
+          "discussion": "Murai Kecil menyadari bahwa Tupai dan Laba-laba menjadi bagian penting dari pertolongan yang diterimanya."
+        },
+        {
+          "id": "BIN-B02-M01-033",
+          "type": "PG",
+          "text": "Aturan adat Lubuk Larangan melarang warga menangkap ikan sebelum waktu yang ditentukan. Tujuan aturan tersebut terutama untuk ....",
+          "options": [
+            "memberi kesempatan ikan berkembang biak dan menjaga sungai",
+            "membuat warga tidak boleh mendekati sungai",
+            "menghabiskan seluruh ikan di sungai",
+            "memindahkan ikan ke kolam pribadi"
+          ],
+          "answer": "memberi kesempatan ikan berkembang biak dan menjaga sungai",
+          "discussion": "Aturan Lubuk Larangan mengatur waktu dan cara mengambil ikan agar sungai tetap terjaga dan ikan serta tumbuhan dapat berkembang biak."
+        },
+        {
+          "id": "BIN-B02-M01-034",
+          "type": "PG",
+          "text": "Salah satu langkah awal yang tepat untuk merancang tokoh cerita adalah ....",
+          "options": [
+            "menentukan nama, ciri fisik, sifat, kelebihan, dan kekurangan tokoh",
+            "langsung menulis akhir cerita tanpa menentukan tokoh",
+            "memilih judul buku yang paling tebal",
+            "menyalin cerita orang lain tanpa perubahan"
+          ],
+          "answer": "menentukan nama, ciri fisik, sifat, kelebihan, dan kekurangan tokoh",
+          "discussion": "Buku mengarahkan peserta didik merancang tokoh terlebih dahulu, termasuk identitas, sifat, kelebihan, kekurangan, masalah, dan penyelesaiannya."
+        },
+        {
+          "id": "BIN-B02-M01-035",
+          "type": "PG",
+          "text": "Dalam contoh cerita “Kado Istimewa”, Rubi membawa bibit pohon sebagai hadiah. Pilihan tersebut menunjukkan bahwa Rubi ....",
+          "options": [
+            "memilih hadiah yang bermanfaat bagi orang lain",
+            "ingin membawa hadiah yang paling mahal",
+            "tidak mau mengikuti aturan bertukar kado",
+            "sengaja memberikan barang yang tidak berguna"
+          ],
+          "answer": "memilih hadiah yang bermanfaat bagi orang lain",
+          "discussion": "Rubi memilih bibit pohon karena dapat ditanam dan tumbuh menjadi pohon yang bermanfaat."
+        },
+        {
+          "id": "BIN-B02-M01-036",
+          "type": "PG",
+          "text": "Mira sangat menyukai buku tentang keragaman hayati. Ia senang mempelajari berbagai jenis tumbuhan dan kehidupan alam. Ketika kupu-kupunya ditangkap oleh cecak besar, Mira merasa sedih. Kesimpulan yang paling tepat mengenai karakter Mira adalah ....",
+          "options": [
+            "Mira tidak menyukai kehidupan alam.",
+            "Mira memiliki ketertarikan terhadap alam dan menyayangi makhluk hidup.",
+            "Mira hanya menyukai buku yang berisi cerita khayalan.",
+            "Mira tidak peduli terhadap keadaan binatang di sekitarnya."
+          ],
+          "answer": "Mira memiliki ketertarikan terhadap alam dan menyayangi makhluk hidup.",
+          "discussion": "Kegemaran Mira membaca tentang keragaman hayati serta kesedihannya ketika kupu-kupu ditangkap menunjukkan ketertarikan dan kepeduliannya terhadap makhluk hidup."
+        },
+        {
+          "id": "BIN-B02-M01-037",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut! “Ahmad adalah bintang di kelas ini.” Kata “bintang” dalam kalimat tersebut memiliki makna ....",
+          "options": [
+            "benda langit yang memancarkan cahaya",
+            "murid yang berprestasi atau paling menonjol di kelas",
+            "gambar bintang yang ditempel di papan",
+            "benda hias berbentuk bintang"
+          ],
+          "answer": "murid yang berprestasi atau paling menonjol di kelas",
+          "discussion": "Kata bintang digunakan secara konotatif untuk menggambarkan seseorang yang paling menonjol atau berprestasi."
+        },
+        {
+          "id": "BIN-B02-M01-038",
+          "type": "PG",
+          "text": "Perhatikan dua kalimat berikut! (1) Bintang bersinar terang di langit malam. (2) Rani menjadi bintang di kelas karena prestasinya. Pernyataan yang tepat adalah ....",
+          "options": [
+            "Kalimat 1 dan 2 sama-sama bermakna denotatif.",
+            "Kalimat 1 bermakna denotatif, sedangkan kalimat 2 bermakna konotatif.",
+            "Kalimat 1 bermakna konotatif, sedangkan kalimat 2 bermakna denotatif.",
+            "Kalimat 1 dan 2 sama-sama bermakna konotatif."
+          ],
+          "answer": "Kalimat 1 bermakna denotatif, sedangkan kalimat 2 bermakna konotatif.",
+          "discussion": "Pada kalimat pertama, bintang berarti benda langit. Pada kalimat kedua, bintang berarti seseorang yang menonjol karena prestasinya."
+        },
+        {
+          "id": "BIN-B02-M01-039",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut! “Kakak adalah tangan kanan Ayah dalam mengelola usaha keluarga.” Makna ungkapan “tangan kanan” dalam kalimat tersebut adalah ....",
+          "options": [
+            "tangan yang berada di sebelah kanan tubuh",
+            "orang kepercayaan yang membantu pekerjaan",
+            "orang yang selalu menggunakan tangan kanan",
+            "seseorang yang memiliki tangan kuat"
+          ],
+          "answer": "orang kepercayaan yang membantu pekerjaan",
+          "discussion": "Ungkapan tangan kanan bermakna konotatif, yaitu orang kepercayaan yang membantu atau mendampingi seseorang dalam pekerjaan."
+        },
+        {
+          "id": "BIN-B02-M01-040",
+          "type": "PG",
+          "text": "Perhatikan dua kalimat berikut! (1) Teh buatan Ibu rasanya terlalu manis. (2) Adikku tersenyum manis saat menerima hadiah. Perbedaan makna kata “manis” dalam kedua kalimat tersebut adalah ....",
+          "options": [
+            "Kalimat 1 bermakna rasa, sedangkan kalimat 2 menggambarkan senyum yang menyenangkan.",
+            "Kalimat 1 menggambarkan wajah, sedangkan kalimat 2 menggambarkan rasa teh.",
+            "Kedua kalimat menggunakan makna yang sama.",
+            "Kedua kalimat menggunakan makna yang tidak sebenarnya."
+          ],
+          "answer": "Kalimat 1 bermakna rasa, sedangkan kalimat 2 menggambarkan senyum yang menyenangkan.",
+          "discussion": "Pada kalimat pertama, manis berarti rasa. Pada kalimat kedua, manis menggambarkan senyum yang menyenangkan."
+        },
+        {
+          "id": "BIN-B02-M01-041",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut! “Kesempatan yang kumiliki sudah terbang.” Makna kata “terbang” dalam kalimat tersebut adalah ....",
+          "options": [
+            "bergerak di udara menggunakan sayap",
+            "kesempatan telah hilang atau tidak dapat dimanfaatkan lagi",
+            "seseorang sedang bepergian menggunakan pesawat",
+            "benda jatuh dari tempat yang tinggi"
+          ],
+          "answer": "kesempatan telah hilang atau tidak dapat dimanfaatkan lagi",
+          "discussion": "Kata terbang tidak digunakan dalam arti sebenarnya. Kalimat tersebut bermakna bahwa kesempatan telah hilang atau terlewatkan."
+        },
+        {
+          "id": "BIN-B02-M01-042",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut! “Obat yang diminum Raka terasa pahit, tetapi kenyataan yang dihadapinya juga terasa pahit.” Kata “pahit” pada kalimat tersebut digunakan dengan makna ....",
+          "options": [
+            "keduanya bermakna sebenarnya",
+            "keduanya bermakna kiasan",
+            "pertama bermakna sebenarnya, kedua bermakna kiasan",
+            "pertama bermakna kiasan, kedua bermakna sebenarnya"
+          ],
+          "answer": "pertama bermakna sebenarnya, kedua bermakna kiasan",
+          "discussion": "Pahit pada obat menunjukkan rasa sebenarnya. Pahit pada kenyataan berarti keadaan yang tidak menyenangkan atau mengecewakan."
+        },
+        {
+          "id": "BIN-B02-M01-043",
+          "type": "PG",
+          "text": "Dalam cerita “Legenda Telaga Sarangan”, peristiwa yang menyebabkan Kyai Pasir mulai merasakan perubahan pada tubuhnya setelah kembali ke ladang adalah ....",
+          "options": [
+            "ia menemukan telur di bawah pohon",
+            "ia dan Nyai Pasir memakan telur yang direbus",
+            "ia membersihkan rumput dan tanaman liar",
+            "ia membawa telur pulang untuk diberikan kepada istrinya"
+          ],
+          "answer": "ia dan Nyai Pasir memakan telur yang direbus",
+          "discussion": "Setelah telur yang ditemukan Kyai Pasir direbus, dibagi dua, dan dimakan oleh Kyai Pasir serta Nyai Pasir, Kyai Pasir kembali ke ladang. Tidak lama kemudian tubuhnya terasa panas dan sakit."
+        },
+        {
+          "id": "BIN-B02-M01-044",
+          "type": "PG",
+          "text": "Dalam cerita “Kado Istimewa”, Rubi lupa menyiapkan hadiah untuk kegiatan bertukar kado. Ia kemudian memilih membawa bibit Tabebuya. Mengapa keputusan Rubi dapat dianggap sebagai penyelesaian masalah yang kreatif?",
+          "options": [
+            "Karena ia membawa hadiah yang mahal dan sulit ditemukan.",
+            "Karena ia menggunakan sesuatu yang tersedia untuk menghasilkan hadiah yang bermanfaat.",
+            "Karena ia meminta teman-temannya membatalkan kegiatan.",
+            "Karena ia tidak jadi mengikuti kegiatan bertukar kado."
+          ],
+          "answer": "Karena ia menggunakan sesuatu yang tersedia untuk menghasilkan hadiah yang bermanfaat.",
+          "discussion": "Rubi memanfaatkan bibit pohon yang tersedia dan menjadikannya hadiah yang dapat tumbuh serta bermanfaat pada masa mendatang."
+        },
+        {
+          "id": "BIN-B02-M01-045",
+          "type": "PG",
+          "text": "Seorang siswa menulis cerita tentang seekor burung yang dapat berbicara, memiliki sifat seperti manusia, dan membantu hewan lain yang kesulitan. Berdasarkan ciri utamanya, cerita tersebut paling tepat digolongkan sebagai ....",
+          "options": [
+            "fabel",
+            "sage",
+            "epos",
+            "legenda"
+          ],
+          "answer": "fabel",
+          "discussion": "Fabel merupakan cerita rakyat yang menggunakan tokoh binatang dengan perilaku seperti manusia."
+        },
+        {
+          "id": "BIN-B02-M01-046",
+          "type": "PG",
+          "text": "Perhatikan rancangan cerita berikut! Tokoh utama: kelinci bernama Lala. Sifat: cerdas dan suka menolong. Masalah: tanaman di kebun desa mulai layu karena kekurangan air. Penyelesaian: Lala mengajak hewan lain membuat saluran air kecil dari sungai. Bagian yang paling tepat untuk dikembangkan menjadi konflik cerita adalah ....",
+          "options": [
+            "Lala memiliki nama yang mudah diingat.",
+            "Lala dan hewan lain menghadapi masalah tanaman yang kekurangan air.",
+            "Lala memiliki bulu berwarna putih.",
+            "Lala tinggal di sebuah desa yang indah."
+          ],
+          "answer": "Lala dan hewan lain menghadapi masalah tanaman yang kekurangan air.",
+          "discussion": "Konflik merupakan masalah atau kesulitan yang dihadapi tokoh. Dalam rancangan tersebut, tanaman yang kekurangan air menjadi masalah utama."
+        },
+        {
+          "id": "BIN-B02-M01-047",
+          "type": "PG",
+          "text": "Seorang penulis membuat cerita dengan susunan berikut: (1) memperkenalkan tokoh dan tempat tinggalnya, (2) tokoh menghadapi masalah, (3) tokoh berusaha mengatasi masalah, (4) masalah berhasil diselesaikan. Susunan tersebut menunjukkan bahwa cerita disusun berdasarkan ....",
+          "options": [
+            "urutan peristiwa yang membentuk alur",
+            "daftar istilah dalam cerita",
+            "urutan nama pengarang",
+            "perbandingan antara dua cerita"
+          ],
+          "answer": "urutan peristiwa yang membentuk alur",
+          "discussion": "Pengenalan tokoh, munculnya masalah, usaha penyelesaian, dan akhir cerita membentuk alur yang dapat diikuti pembaca."
+        },
+        {
+          "id": "BIN-B02-M01-048",
+          "type": "PG",
+          "text": "Perhatikan dua kalimat berikut! (1) “Ibu Murai terbang menuju sumur tua.” (2) “Kabar kemenangan itu terbang ke seluruh desa.” Makna kata “terbang” pada kalimat kedua berbeda dari kalimat pertama karena ....",
+          "options": [
+            "kalimat kedua menggunakan kata terbang untuk menggambarkan penyebaran kabar",
+            "kalimat pertama menggunakan makna kiasan",
+            "kalimat kedua menjelaskan burung yang sedang terbang",
+            "kedua kalimat tidak memiliki perbedaan makna"
+          ],
+          "answer": "kalimat kedua menggunakan kata terbang untuk menggambarkan penyebaran kabar",
+          "discussion": "Pada kalimat pertama, terbang bermakna bergerak di udara. Pada kalimat kedua, terbang bermakna kiasan, yaitu kabar menyebar dengan cepat."
+        },
+        {
+          "id": "BIN-B02-M01-049",
+          "type": "PG",
+          "text": "Dalam cerita “Doa-Doa dalam Sumur Tua”, Laba-laba sempat merasa takut mendatangi Ibu Murai. Namun, ia tetap menyampaikan bahwa Murai Kecil terjebak di sumur. Kesimpulan yang paling tepat tentang tindakan Laba-laba adalah ....",
+          "options": [
+            "Ia lebih mementingkan keselamatan dirinya daripada orang lain.",
+            "Ia mampu mengatasi rasa takut karena ingin menolong makhluk lain.",
+            "Ia ingin membuat Murai Kecil semakin takut.",
+            "Ia sengaja membiarkan Tupai dan Murai Kecil berada di sumur."
+          ],
+          "answer": "Ia mampu mengatasi rasa takut karena ingin menolong makhluk lain.",
+          "discussion": "Laba-laba memiliki kekhawatiran, tetapi akhirnya tetap bertindak untuk membantu. Hal ini menunjukkan keberanian dan kepedulian."
+        },
+        {
+          "id": "BIN-B02-M01-050",
+          "type": "PG",
+          "text": "Perhatikan rancangan cerita berikut! Nara tinggal di desa yang sering mengalami kekeringan. Ia melihat tanaman warga mulai layu, lalu mengajak teman-temannya membuat penampungan air hujan. Awalnya beberapa warga meragukan gagasannya, tetapi setelah Nara menjelaskan manfaatnya, warga mulai bekerja sama. Penampungan itu akhirnya membantu mereka menyiram tanaman. Nilai utama yang paling tepat ditonjolkan dalam cerita tersebut adalah ....",
+          "options": [
+            "kerja sama, kepedulian, dan kreativitas dalam menyelesaikan masalah",
+            "persaingan untuk menjadi orang paling terkenal",
+            "keinginan untuk menghindari tanggung jawab",
+            "kebiasaan menyalahkan orang lain ketika terjadi masalah"
+          ],
+          "answer": "kerja sama, kepedulian, dan kreativitas dalam menyelesaikan masalah",
+          "discussion": "Nara menunjukkan kepedulian terhadap keadaan warga. Ia memiliki gagasan kreatif dan mengajak orang lain bekerja sama untuk mengatasi masalah kekeringan."
+        }
+      ]
+    }
+  ]
+}
