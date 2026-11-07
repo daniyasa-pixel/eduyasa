@@ -1,0 +1,978 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EDUYASA - Belajar Menyenangkan</title>
+<style>
+:root {
+  --primary: #2563eb;
+  --primary-dark: #1d4ed8;
+  --bg: #f4f7fb;
+  --surface: #ffffff;
+  --text: #172033;
+  --muted: #718096;
+  --success: #16a34a;
+  --border: #e5eaf2;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+header {
+  background: var(--primary);
+  color: white;
+  padding: 22px 18px 26px;
+  border-radius: 0 0 24px 24px;
+}
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-size: 23px;
+  font-weight: 800;
+  letter-spacing: .5px;
+}
+.tagline {
+  font-size: 12px;
+  opacity: .85;
+  margin-top: 5px;
+}
+.connection {
+  font-size: 11px;
+  background: rgba(255,255,255,.18);
+  padding: 7px 10px;
+  border-radius: 20px;
+}
+.welcome {
+  margin-top: 24px;
+}
+.welcome h1 {
+  font-size: 23px;
+  margin: 0 0 7px;
+}
+.welcome p {
+  font-size: 13px;
+  opacity: .9;
+  margin: 0;
+  line-height: 1.5;
+}
+main {
+  width: 100%;
+  max-width: 760px;
+  margin: auto;
+  padding: 20px 16px 40px;
+}
+.section-title {
+  font-size: 17px;
+  font-weight: 700;
+  margin: 5px 0 14px;
+}
+.subject-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0,1fr));
+  gap: 12px;
+}
+.subject {
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: 15px;
+  padding: 16px 12px;
+  text-align: left;
+  cursor: pointer;
+  min-height: 105px;
+  transition: .15s;
+}
+.subject.selected {
+  border-color: var(--primary);
+  background: #eff6ff;
+}
+.subject .emoji {
+  font-size: 25px;
+  display: block;
+  margin-bottom: 9px;
+}
+.subject strong {
+  display: block;
+  font-size: 14px;
+}
+.subject small {
+  display: block;
+  color: var(--muted);
+  margin-top: 5px;
+  font-size: 11px;
+}
+.subject:disabled {
+  opacity: .5;
+  cursor: not-allowed;
+}
+.panel {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 17px;
+  margin-top: 18px;
+}
+.chapter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 13px 10px;
+  margin: 0 -10px;
+  border-bottom: 1px solid var(--border);
+  font-size: 14px;
+  border-radius: 8px;
+  transition: 0.2s;
+}
+.chapter:last-child { border-bottom-color: transparent; }
+.chapter.locked { background: #fee2e2; color: #991b1b; border-bottom-color: transparent; }
+.chapter input {
+  width: 19px;
+  height: 19px;
+  accent-color: var(--primary);
+}
+button.primary {
+  width: 100%;
+  border: 0;
+  border-radius: 12px;
+  padding: 15px;
+  margin-top: 17px;
+  background: var(--primary);
+  color: white;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+}
+button.primary:disabled {
+  opacity: .45;
+  cursor: not-allowed;
+}
+.status {
+  font-size: 12px;
+  padding: 11px;
+  border-radius: 10px;
+  background: #f1f5f9;
+  color: var(--muted);
+  margin-top: 12px;
+  overflow-wrap: anywhere;
+}
+.status.ok { background: #dcfce7; color: #166534; }
+.status.error { background: #fee2e2; color: #991b1b; }
+.status.loading { background: #fef3c7; color: #92400e; }
+.hidden { display: none; }
+.steps { display: flex; justify-content: space-between; margin-bottom: 25px; font-size: 11px; font-weight: bold; color: var(--muted); position: relative; }
+.steps::before { content: ""; position: absolute; top: 12px; left: 0; right: 0; height: 2px; background: var(--border); z-index: 1; }
+.step { position: relative; z-index: 2; background: var(--bg); padding: 0 5px; text-align: center; flex: 1; }
+.step .circle { width: 24px; height: 24px; border-radius: 50%; background: var(--border); color: var(--muted); display: flex; align-items: center; justify-content: center; margin: 0 auto 5px; font-size: 12px; }
+.step.active .circle { background: var(--primary); color: white; }
+.step.active { color: var(--primary); }
+.nav-buttons { display: flex; gap: 10px; margin-top: 20px; }
+.nav-buttons button { flex: 1; margin-top: 0; }
+button.secondary { background: white; color: var(--text); border: 2px solid var(--border); border-radius: 12px; padding: 15px; font-size: 15px; font-weight: 700; cursor: pointer; }
+.materi-content { background: white; border: 1px solid var(--border); border-radius: 16px; padding: 20px; margin-top: 15px; font-size: 14px; line-height: 1.6; }
+.materi-content h2 { margin-top: 0; font-size: 18px; color: var(--primary); }
+.materi-content h3 { font-size: 15px; margin-bottom: 10px; color: var(--text); }
+.materi-item { border-bottom: 2px dashed var(--border); padding-bottom: 20px; margin-bottom: 20px; }
+.materi-item:last-child { border-bottom: none; padding-bottom: 0; margin-bottom: 0; }
+.materi-text-content { background: #f8fafc; padding: 18px; border-radius: 12px; border: 1px solid var(--border); white-space: pre-wrap; line-height: 1.8; font-size: 15px; color: var(--text); }
+.materi-text-content p { margin-top: 0; margin-bottom: 15px; }
+.materi-text-content h1, .materi-text-content h2, .materi-text-content h3 { color: var(--primary); margin-top: 20px; margin-bottom: 10px; }
+.materi-text-content ul, .materi-text-content ol { margin-top: 0; margin-bottom: 15px; padding-left: 20px; }
+footer {
+  text-align: center;
+  color: var(--muted);
+  font-size: 11px;
+  padding: 10px 16px 25px;
+}
+/* KUIS CSS */
+.quiz-header { display: flex; justify-content: space-between; font-size: 12px; color: var(--muted); margin-bottom: 10px; font-weight: bold; }
+.progress-bar { width: 100%; height: 8px; background: var(--border); border-radius: 4px; margin-bottom: 20px; overflow: hidden; }
+.progress-fill { height: 100%; background: var(--primary); width: 0%; transition: width 0.3s ease; }
+.quiz-question { font-size: 16px; font-weight: bold; line-height: 1.6; margin-bottom: 20px; white-space: pre-wrap; }
+.option-btn { display: block; width: 100%; text-align: left; padding: 15px 18px; margin-bottom: 12px; border-radius: 12px; border: 2px solid var(--border); background: var(--surface); color: var(--text); font-size: 15px; cursor: pointer; transition: 0.2s; font-family: inherit; white-space: pre-wrap; line-height: 1.5; }
+.option-btn:hover:not(:disabled) { border-color: var(--primary); }
+.option-btn.selected { border-color: var(--primary); background: #eff6ff; }
+.option-btn.correct { border-color: var(--success); background: #dcfce7; color: #166534; font-weight: bold; }
+.option-btn.wrong { border-color: #dc2626; background: #fee2e2; color: #991b1b; }
+.option-btn:disabled { cursor: not-allowed; opacity: 0.8; }
+.explanation-box { background: #f8fafc; border: 1px solid var(--border); border-radius: 12px; padding: 15px; margin-top: 20px; font-size: 14px; line-height: 1.6; white-space: pre-wrap; }
+#toast-container { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); z-index: 1000; display: flex; flex-direction: column; gap: 10px; width: max-content; }
+.toast { padding: 12px 24px; border-radius: 30px; color: white; font-weight: bold; font-size: 14px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); animation: toastIn 0.3s ease-out forwards, toastOut 0.3s ease-in 2s forwards; text-align: center; }
+.toast.success { background: var(--success); }
+.toast.error { background: #dc2626; }
+@keyframes toastIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes toastOut { from { opacity: 1; transform: translateY(0); } to { opacity: 0; transform: translateY(20px); } }
+@media (min-width: 600px) {
+  main { padding: 28px 24px 50px; }
+  .subject-grid { grid-template-columns: repeat(3, minmax(0,1fr)); }
+  header { padding-left: max(24px, calc((100% - 712px)/2)); padding-right: max(24px, calc((100% - 712px)/2)); }
+}
+</style>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    startup: {
+      typeset: false
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head>
+<body>
+
+<header>
+  <div class="header-top">
+    <div>
+      <div class="logo">EDUYASA</div>
+      <div class="tagline">Belajar Menyenangkan • Kelas 6 SD</div>
+    </div>
+    <div class="connection" id="connection">● Memeriksa GitHub</div>
+  </div>
+  <div class="welcome">
+    <h1>Halo, Teman Belajar! 👋</h1>
+    <p>Siap belajar dan menguji kemampuanmu hari ini?</p>
+  </div>
+</header>
+
+<main>
+  <div class="steps" id="stepIndicator">
+    <div class="step active" id="indicator1"><div class="circle">1</div>MAPEL</div>
+    <div class="step" id="indicator2"><div class="circle">2</div>BAB</div>
+    <div class="step" id="indicator3"><div class="circle">3</div>MATERI</div>
+    <div class="step" id="indicator4"><div class="circle">4</div>KUIS</div>
+  </div>
+
+  <!-- STEP 1: PILIH MATA PELAJARAN -->
+  <section id="step1">
+    <div class="section-title">Pilih Mata Pelajaran</div>
+    <p style="font-size:12px;color:#718096;margin-top:-7px">
+      Pilih minimal 1 dan maksimal 2 mata pelajaran.
+    </p>
+    <div class="subject-grid" id="subjectGrid"></div>
+    <div class="nav-buttons">
+      <button class="primary" id="btnNext1" disabled>NEXT</button>
+    </div>
+  </section>
+
+  <!-- STEP 2: PILIH BAB -->
+  <section id="step2" class="hidden">
+    <div class="panel">
+      <div class="section-title">Pilih Bab</div>
+      <div id="chapterList"></div>
+      <div class="status" id="selectionInfo">
+        Pilih bab yang ingin dipelajari.
+      </div>
+    </div>
+    <div class="nav-buttons">
+      <button class="secondary" id="btnBack2">KEMBALI</button>
+      <button class="primary" id="btnNext2" disabled>NEXT</button>
+    </div>
+  </section>
+
+  <!-- STEP 3: BACA MATERI -->
+  <section id="step3" class="hidden">
+    <div class="section-title">Baca Materi</div>
+    <div id="materiContainer"></div>
+    <div class="nav-buttons">
+      <button class="secondary" id="btnBack3">KEMBALI</button>
+      <button class="primary" id="btnNext3">NEXT</button>
+    </div>
+  </section>
+
+  <!-- STEP 4: PERSIAPAN KUIS -->
+  <section id="step4" class="hidden">
+    <div class="panel">
+      <div class="section-title" style="text-align:center; font-size: 20px;">Persiapan Kuis</div>
+      <div id="quizPrepInfo" style="text-align:center; margin: 20px 0; font-size: 15px; line-height: 1.6;"></div>
+      <div id="quizPrepError" style="color:#dc2626; font-size: 14px; margin-bottom: 15px; font-weight: bold; text-align: center;"></div>
+      <button class="primary" id="btnStartQuiz">MULAI KUIS</button>
+    </div>
+    <div class="nav-buttons">
+      <button class="secondary" id="btnBack4">KEMBALI</button>
+    </div>
+  </section>
+
+  <!-- STEP 5: KUIS AKTIF -->
+  <section id="step5" class="hidden">
+    <div class="panel">
+      <div class="quiz-header">
+        <span id="quizQNumber">Soal 1 dari 20</span>
+        <span id="quizQMapel" style="color:var(--primary)">Mapel - Bab</span>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" id="quizQProgress"></div></div>
+      <div class="quiz-question" id="quizQText">Memuat pertanyaan...</div>
+      <div id="quizOptions"></div>
+      <div class="explanation-box hidden" id="quizExplanation"></div>
+      <button class="primary" id="btnQuizAction" disabled style="margin-top:25px;">KOREKSI JAWABAN</button>
+    </div>
+  </section>
+
+  <!-- STEP 6: HASIL KUIS -->
+  <section id="step6" class="hidden">
+    <div class="panel" style="text-align:center; padding: 30px 15px;">
+      <div class="section-title" style="font-size: 24px; margin-bottom: 5px;">Kuis Selesai! 🎉</div>
+      <p style="color: var(--muted); font-size: 14px; margin-top: 0;">Berikut adalah hasil belajarmu hari ini.</p>
+      
+      <div style="font-size: 72px; font-weight: 800; color: var(--primary); margin: 20px 0; line-height: 1;" id="resultScore">100</div>
+      
+      <div style="display:flex; justify-content: space-evenly; margin-bottom: 30px; background: var(--bg); padding: 15px; border-radius: 16px;">
+        <div><div style="font-size:24px; margin-bottom:5px;">✅</div><b id="resultCorrect" style="color:var(--success); font-size:18px;">20</b><br><span style="font-size:12px; color:var(--muted)">Benar</span></div>
+        <div><div style="font-size:24px; margin-bottom:5px;">❌</div><b id="resultWrong" style="color:#dc2626; font-size:18px;">0</b><br><span style="font-size:12px; color:var(--muted)">Salah</span></div>
+      </div>
+      
+      <button class="primary" onclick="location.reload()">ULANGI KUIS / KEMBALI KE AWAL</button>
+    </div>
+  </section>
+</main>
+
+<div id="toast-container"></div>
+<footer>EDUYASA © 2026 • Kurikulum Merdeka</footer>
+
+<script>
+const BASE_URL =
+  "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/";
+
+const subjects = [
+  {
+    id:"MTK", name:"Matematika", icon:"🔢",
+    chapters:[
+      "Pecahan dan Desimal","Rasio",
+      "Kubus dan Balok","Peluang"
+    ]
+  },
+  {
+    id:"BIN", name:"Bahasa Indonesia", icon:"📚",
+    chapters:[
+      "Bangga Menjadi Anak Indonesia",
+      "Musisi Indonesia di Pentas Dunia",
+      "Taman Nasional dan Situs Warisan Dunia",
+      "Jeda untuk Iklim",
+      "Anak-Anak yang Mengubah Dunia",
+      "Liburan Perpisahan Kelas",
+      "Aku Bisa Berempati","Aman di Dunia Maya"
+    ]
+  },
+  {id:"IPA",name:"Ilmu Pengetahuan Alam",icon:"🔬",chapters:[]},
+  {id:"IPS",name:"Ilmu Pengetahuan Sosial",icon:"🌍",chapters:[]},
+  {id:"PKN",name:"Pendidikan Pancasila",icon:"🇮🇩",chapters:[]},
+  {id:"ENG",name:"Bahasa Inggris",icon:"🔤",chapters:[]},
+  {id:"PAI",name:"Pendidikan Agama Islam",icon:"📖",chapters:[]},
+  {id:"SBD",name:"Seni Budaya dan Prakarya",icon:"🎨",chapters:[]},
+  {id:"PJK",name:"PJOK",icon:"⚽",chapters:[]}
+];
+
+const selectedSubjects = new Set();
+const selectedChapters = {};
+let busy = false;
+let currentStep = 1;
+
+// Variabel Kuis
+let quizQuestions = [];
+let currentQuestionIndex = 0;
+let correctAnswersCount = 0;
+let selectedOptionText = null;
+let audioCtx = null;
+
+async function renderMath(elementId) {
+  if (window.MathJax && window.MathJax.typesetPromise) {
+    if (MathJax.typesetClear) {
+      MathJax.typesetClear();
+    }
+    try {
+      if (elementId) {
+        const el = document.getElementById(elementId);
+        if (el) await MathJax.typesetPromise([el]);
+      } else {
+        await MathJax.typesetPromise();
+      }
+    } catch (e) {
+      console.error("MathJax rendering failed", e);
+    }
+  }
+}
+
+function updateStepUI() {
+  for(let i=1; i<=6; i++) {
+    const stepEl = document.getElementById('step' + i);
+    if(stepEl) stepEl.classList.add('hidden');
+  }
+  for(let i=1; i<=4; i++) {
+    const indicator = document.getElementById('indicator' + i);
+    if(indicator) {
+      // Step 5 & 6 (Kuis & Hasil) tetap menyalakan indikator ke-4
+      let activeInd = currentStep > 4 ? 4 : currentStep;
+      if(i === activeInd) indicator.classList.add('active');
+      else indicator.classList.remove('active');
+    }
+  }
+  document.getElementById('step' + currentStep).classList.remove('hidden');
+}
+
+function initAudio() {
+  if(!audioCtx) {
+    audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  }
+  if(audioCtx.state === 'suspended') audioCtx.resume();
+}
+
+function playSound(type) {
+  if(!audioCtx) return;
+  const osc = audioCtx.createOscillator();
+  const gainNode = audioCtx.createGain();
+  osc.connect(gainNode);
+  gainNode.connect(audioCtx.destination);
+  
+  if(type === 'correct') {
+    osc.type = 'sine';
+    osc.frequency.setValueAtTime(523.25, audioCtx.currentTime); // Nada C5
+    osc.frequency.setValueAtTime(659.25, audioCtx.currentTime + 0.1); // Nada E5
+    gainNode.gain.setValueAtTime(0.1, audioCtx.currentTime);
+    gainNode.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.5);
+    osc.start();
+    osc.stop(audioCtx.currentTime + 0.5);
+  } else {
+    osc.type = 'triangle';
+    osc.frequency.setValueAtTime(300, audioCtx.currentTime);
+    osc.frequency.linearRampToValueAtTime(200, audioCtx.currentTime + 0.3);
+    gainNode.gain.setValueAtTime(0.1, audioCtx.currentTime);
+    gainNode.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.5);
+    osc.start();
+    osc.stop(audioCtx.currentTime + 0.5);
+  }
+}
+
+function showToast(isCorrect) {
+  const container = document.getElementById('toast-container');
+  const t = document.createElement('div');
+  t.className = `toast ${isCorrect ? 'success' : 'error'}`;
+  
+  const toastsCorrect = ["Good Job! 🎉", "Nice Job! 🌟", "Keren! 😎", "Mantap! 👍", "Hebat! 🚀"];
+  const toastsWrong = ["Tetap Semangat! 💪", "Ayo Coba Lagi! 🧐", "Belajar dari Kesalahan! 🌱", "Jangan Menyerah! ✊"];
+  
+  t.textContent = isCorrect 
+    ? toastsCorrect[Math.floor(Math.random() * toastsCorrect.length)] 
+    : toastsWrong[Math.floor(Math.random() * toastsWrong.length)];
+    
+  container.appendChild(t);
+  setTimeout(() => t.remove(), 2500);
+}
+
+function renderSubjects() {
+  const grid = document.getElementById("subjectGrid");
+  grid.innerHTML = "";
+
+  subjects.forEach(subject => {
+    const selected = selectedSubjects.has(subject.id);
+    const locked = selectedSubjects.size >= 2 && !selected;
+
+    const button = document.createElement("button");
+    button.className = "subject" + (selected ? " selected" : "");
+    button.disabled = locked;
+    button.innerHTML = `
+      <span class="emoji">${subject.icon}</span>
+      <strong>${subject.name}</strong>
+      <small>${subject.chapters.length} bab terdaftar</small>
+    `;
+
+    button.onclick = () => {
+      if(selected) selectedSubjects.delete(subject.id);
+      else if(selectedSubjects.size < 2)
+        selectedSubjects.add(subject.id);
+
+      renderSubjects();
+      document.getElementById('btnNext1').disabled = selectedSubjects.size === 0;
+    };
+
+    grid.appendChild(button);
+  });
+}
+
+function renderChapters() {
+  const list = document.getElementById("chapterList");
+  list.innerHTML = "";
+
+  selectedSubjects.forEach(subjectId => {
+    const subject = subjects.find(s => s.id === subjectId);
+
+    if(!selectedChapters[subjectId])
+      selectedChapters[subjectId] = new Set();
+
+    const heading = document.createElement("h3");
+    heading.textContent = subject.name;
+    heading.style.fontSize = "14px";
+    list.appendChild(heading);
+
+    subject.chapters.forEach((chapter,index) => {
+      const row = document.createElement("label");
+      row.className = "chapter";
+      row.dataset.subject = subjectId;
+      row.dataset.chapter = index + 1;
+
+      const checkbox = document.createElement("input");
+      checkbox.type = "checkbox";
+      checkbox.checked = selectedChapters[subjectId].has(index + 1);
+      
+      checkbox.onchange = () => {
+        const chosen = selectedChapters[subjectId];
+
+        if(checkbox.checked) {
+          chosen.add(index + 1);
+        } else {
+          chosen.delete(index + 1);
+        }
+        
+        updateChapterStates();
+        updateSelectionInfo();
+      };
+
+      const text = document.createElement("span");
+      text.textContent = `Bab ${index+1}: ${chapter}`;
+      row.append(checkbox,text);
+      list.appendChild(row);
+    });
+
+    if(subject.chapters.length === 0) {
+      const note = document.createElement("p");
+      note.style.cssText = "font-size:12px;color:#718096";
+      note.textContent = "Daftar bab sedang disiapkan.";
+      list.appendChild(note);
+    }
+  });
+
+  updateChapterStates();
+  updateSelectionInfo();
+}
+
+function updateChapterStates() {
+  let totalSelected = 0;
+  const selectedPerSubj = {};
+  
+  selectedSubjects.forEach(id => {
+    selectedPerSubj[id] = selectedChapters[id] ? selectedChapters[id].size : 0;
+    totalSelected += selectedPerSubj[id];
+  });
+
+  const isTwoSubjects = selectedSubjects.size === 2;
+
+  document.querySelectorAll('.chapter').forEach(row => {
+    const subjId = row.dataset.subject;
+    const chapNum = parseInt(row.dataset.chapter);
+    const checkbox = row.querySelector('input');
+    const isChecked = selectedChapters[subjId].has(chapNum);
+
+    // Jika sudah terpilih, biarkan selalu aktif (agar bisa di-uncheck)
+    if (isChecked) {
+      row.classList.remove('locked');
+      checkbox.disabled = false;
+    } else {
+      // Evaluasi apakah bab yang belum dipilih harus dikunci
+      let shouldLock = false;
+      
+      if (totalSelected >= 4) {
+        shouldLock = true;
+      } else if (isTwoSubjects && selectedPerSubj[subjId] >= 3) {
+        // Kunci jika mapel ini sudah ambil 3 jatah (harus sisakan 1 untuk mapel lain)
+        shouldLock = true;
+      }
+
+      if (shouldLock) {
+        row.classList.add('locked');
+        checkbox.disabled = true;
+      } else {
+        row.classList.remove('locked');
+        checkbox.disabled = false;
+      }
+    }
+  });
+}
+
+function updateSelectionInfo() {
+  const subjectsChosen = [...selectedSubjects];
+  let total = 0;
+  let eachHasChapter = true;
+  let maxPerSubjectValid = true;
+
+  subjectsChosen.forEach(id => {
+    const count = (selectedChapters[id] || new Set()).size;
+    total += count;
+    if(count === 0) eachHasChapter = false;
+    if(subjectsChosen.length === 2 && count > 3) maxPerSubjectValid = false;
+  });
+
+  const valid = total >= 1 && total <= 4 && eachHasChapter && maxPerSubjectValid;
+  
+  let infoText = `${total} dari maksimal 4 bab dipilih.`;
+  if (subjectsChosen.length === 2 && !eachHasChapter) {
+    infoText = `${total} bab dipilih. Wajib pilih minimal 1 bab dari tiap mapel.`;
+  } else if (total === 4) {
+    infoText = `Maksimal 4 bab telah tercapai.`;
+  }
+
+  document.getElementById("selectionInfo").textContent = infoText;
+
+  const btnNext2 = document.getElementById("btnNext2");
+  if(btnNext2) btnNext2.disabled = !valid;
+}
+
+async function fetchMateri() {
+  if(busy) return;
+  busy = true;
+
+  const container = document.getElementById("materiContainer");
+  container.innerHTML = `<div class="status loading" style="margin-top:0">Mengambil materi dari GitHub...</div>`;
+  document.getElementById("btnNext2").disabled = true;
+
+  let allMateriHTML = "";
+
+  for(const subjectId of selectedSubjects) {
+    const subject = subjects.find(s => s.id === subjectId);
+    // Urutkan bab yang dipilih
+    const chosen = Array.from(selectedChapters[subjectId] || []).sort((a,b)=>a-b);
+
+    for(const chapNum of chosen) {
+      const chapStr = String(chapNum).padStart(2, "0");
+      const url = BASE_URL + `${subjectId.toLowerCase()}/${subjectId.toLowerCase()}-b${chapStr}-materi.json`;
+
+      try {
+        const res = await fetch(url);
+        if(!res.ok) throw new Error("HTTP " + res.status);
+        const data = await res.json();
+
+        // Dukungan 2 Format (B01: modul, judul, versi | B02-B04: modules, title, version)
+        const modules = data.modules || data.modul;
+        if(!modules || modules.length === 0) throw new Error("Modul tidak ditemukan di file ini.");
+
+        // Memilih satu versi secara acak
+        const randomMod = modules[Math.floor(Math.random() * modules.length)];
+        const modTitle = randomMod.title || randomMod.judul || "Tanpa Judul";
+        const modVersion = randomMod.version || randomMod.versi || "-";
+        const modContent = randomMod.content || "Konten tidak tersedia.";
+
+        allMateriHTML += `
+          <div class="materi-item">
+            <h2>${subject.name} - Bab ${chapNum}</h2>
+            <h3>${subject.chapters[chapNum-1]}</h3>
+            <div style="font-size: 12px; color: var(--muted); margin-bottom: 10px;">
+              Modul Terpilih: <strong>${modTitle}</strong> (Versi ${modVersion})
+            </div>
+            <div class="materi-text-content">
+              ${modContent}
+            </div>
+          </div>
+        `;
+      } catch (e) {
+        allMateriHTML += `
+          <div class="materi-item">
+            <h2>${subject.name} - Bab ${chapNum}</h2>
+            <div class="status error" style="margin-top:0">Gagal memuat materi: ${e.message}</div>
+          </div>
+        `;
+      }
+    }
+  }
+
+  container.innerHTML = `<div class="materi-content" style="margin-top:0">${allMateriHTML}</div>`;
+  busy = false;
+  document.getElementById("btnNext2").disabled = false;
+  currentStep = 3;
+  updateStepUI();
+  await renderMath('materiContainer');
+}
+
+function prepareQuiz() {
+  const info = document.getElementById("quizPrepInfo");
+  const errorDiv = document.getElementById("quizPrepError");
+  if(errorDiv) errorDiv.textContent = "";
+  let subjectNames = [...selectedSubjects].map(id => subjects.find(s=>s.id===id).name).join(" & ");
+  
+  let totalBab = 0;
+  selectedSubjects.forEach(id => totalBab += (selectedChapters[id] ? selectedChapters[id].size : 0));
+
+  info.innerHTML = `
+    <strong>Mata Pelajaran:</strong><br>${subjectNames}<br><br>
+    <strong>Total Bab Diuji:</strong> ${totalBab} Bab<br><br>
+    <strong>Jumlah Soal:</strong> 20 Soal<br><br>
+    Siapkan dirimu dan kerjakan dengan jujur!
+  `;
+  currentStep = 4;
+  updateStepUI();
+}
+
+// Event Listeners untuk Navigasi
+document.getElementById('btnNext1').onclick = () => {
+  renderChapters();
+  currentStep = 2;
+  updateStepUI();
+};
+
+document.getElementById('btnBack2').onclick = () => {
+  currentStep = 1;
+  updateStepUI();
+};
+
+document.getElementById('btnNext2').onclick = () => {
+  fetchMateri(); // Mengambil data dan pindah ke step 3
+};
+
+document.getElementById('btnBack3').onclick = () => {
+  currentStep = 2;
+  updateStepUI();
+};
+
+document.getElementById('btnNext3').onclick = () => {
+  prepareQuiz();
+};
+
+document.getElementById('btnBack4').onclick = () => {
+  currentStep = 3;
+  updateStepUI();
+};
+
+document.getElementById('btnStartQuiz').onclick = async () => {
+  initAudio();
+  const btn = document.getElementById('btnStartQuiz');
+  const errorDiv = document.getElementById('quizPrepError');
+  if(errorDiv) errorDiv.textContent = "";
+
+  if(busy) return;
+  busy = true;
+  btn.disabled = true;
+  btn.textContent = "MEMPERSIAPKAN KUIS...";
+
+  let allValidQuestions = [];
+  let fetchErrors = [];
+  const seenIds = new Set();
+
+  // Pengambilan Soal dari GitHub
+  for(const subjectId of selectedSubjects) {
+    const subject = subjects.find(s => s.id === subjectId);
+    const chosen = Array.from(selectedChapters[subjectId] || []).sort((a,b)=>a-b);
+
+    for(const chapNum of chosen) {
+      const chapStr = String(chapNum).padStart(2, "0");
+      const url = BASE_URL + `${subjectId.toLowerCase()}/${subjectId.toLowerCase()}-b${chapStr}.json`;
+
+      try {
+        const res = await fetch(url);
+        if(!res.ok) throw new Error("HTTP " + res.status);
+        const data = await res.json();
+
+        let rawQuestions = [];
+        if (data.chapters) {
+          rawQuestions = data.chapters.flatMap(c => c.questions || []);
+        }
+        if (data.bank_soal) {
+          rawQuestions = rawQuestions.concat(data.bank_soal);
+        }
+
+        rawQuestions.forEach(q => {
+          let text = q.text || q.question || q.pertanyaan;
+          if(!text) return;
+          
+          let rawOptions = q.options || q.pilihan || [];
+          if(!rawOptions.length) return;
+
+          let correctAnswer = q.answer !== undefined ? q.answer : q.jawaban;
+          // Normalisasi dan penanganan error jika opsi kosong/null
+          let cleanOptions = rawOptions.map(opt => {
+            let optText = (typeof opt === 'string') ? opt : (opt?.text || '');
+            return optText.replace(/^[A-D]\.\s*/i, '').trim();
+          });
+          let correctText = "";
+
+          // Tentukan Teks Kunci Jawaban yang Benar
+          if (typeof correctAnswer === 'string' && correctAnswer.length === 1 && /[A-D]/i.test(correctAnswer)) {
+            const idx = correctAnswer.toUpperCase().charCodeAt(0) - 65;
+            correctText = cleanOptions[idx] || "";
+          } else if (typeof correctAnswer === 'number') {
+            correctText = cleanOptions[correctAnswer] || "";
+          } else {
+            correctText = typeof correctAnswer === 'string' ? correctAnswer.replace(/^[A-D]\.\s*/i, '').trim() : String(correctAnswer);
+          }
+
+          // Buat ID unik sementara jika soal tidak punya ID untuk mencegah duplikat
+          const qId = q.id || (text.substring(0, 20) + cleanOptions[0]).replace(/\s+/g, '');
+
+          if(!seenIds.has(qId)) {
+            seenIds.add(qId);
+            allValidQuestions.push({
+              id: qId,
+              text: text,
+              options: cleanOptions,
+              correctText: correctText,
+              explanation: q.discussion || q.explanation || q.pembahasan || "Tidak ada pembahasan yang tersedia untuk soal ini.",
+              mapel: subject.name,
+              bab: `Bab ${chapNum}`
+            });
+          }
+        });
+      } catch(e) {
+        console.error(`Gagal memuat soal untuk ${subjectId} Bab ${chapNum}`, e);
+        fetchErrors.push(`${subjectId} Bab ${chapNum}: ${e.message}`);
+      }
+    }
+  }
+
+  // Acak seluruh soal
+  allValidQuestions.sort(() => Math.random() - 0.5);
+
+  if(allValidQuestions.length < 20) {
+    let errorMsg = `Maaf, jumlah soal yang tersedia kurang dari 20 (hanya terkumpul ${allValidQuestions.length} soal). Silakan kembali dan pilih bab tambahan.`;
+    if (fetchErrors.length > 0) {
+      errorMsg += ` Ada kegagalan memuat data: ${fetchErrors.join(', ')}`;
+    }
+    
+    if(errorDiv) {
+      errorDiv.textContent = errorMsg;
+    } else {
+      alert(errorMsg);
+    }
+    
+    btn.disabled = false;
+    btn.textContent = "MULAI KUIS";
+    busy = false;
+    return;
+  }
+
+  // Ambil Tepat 20 Soal
+  quizQuestions = allValidQuestions.slice(0, 20);
+  currentQuestionIndex = 0;
+  correctAnswersCount = 0;
+
+  btn.disabled = false;
+  btn.textContent = "MULAI KUIS";
+  busy = false;
+
+  currentStep = 5;
+  updateStepUI();
+  await renderQuizQuestion();
+};
+
+async function renderQuizQuestion() {
+  selectedOptionText = null;
+  const q = quizQuestions[currentQuestionIndex];
+  
+  // Acak posisi Opsi Jawaban
+  let displayOptions = [...q.options].sort(() => Math.random() - 0.5);
+
+  document.getElementById('quizQNumber').textContent = `Soal ${currentQuestionIndex + 1} dari 20`;
+  document.getElementById('quizQProgress').style.width = `${((currentQuestionIndex) / 20) * 100}%`;
+  document.getElementById('quizQMapel').textContent = `${q.mapel} - ${q.bab}`;
+  document.getElementById('quizQText').textContent = q.text;
+
+  const optContainer = document.getElementById('quizOptions');
+  optContainer.innerHTML = '';
+  
+  displayOptions.forEach(opt => {
+    const btn = document.createElement('button');
+    btn.className = 'option-btn';
+    btn.textContent = opt;
+    btn.onclick = () => {
+      // Izinkan ganti pilihan sebelum koreksi
+      document.querySelectorAll('.option-btn').forEach(b => b.classList.remove('selected'));
+      btn.classList.add('selected');
+      selectedOptionText = opt;
+      
+      const actionBtn = document.getElementById('btnQuizAction');
+      actionBtn.disabled = false;
+    };
+    optContainer.appendChild(btn);
+  });
+
+  const actionBtn = document.getElementById('btnQuizAction');
+  actionBtn.textContent = "KOREKSI JAWABAN";
+  actionBtn.disabled = true;
+  actionBtn.onclick = checkAnswer;
+
+  document.getElementById('quizExplanation').classList.add('hidden');
+  
+  await renderMath('step5');
+}
+
+async function checkAnswer() {
+  const q = quizQuestions[currentQuestionIndex];
+  const isCorrect = (selectedOptionText === q.correctText);
+
+  // Kunci semua tombol
+  const btns = document.querySelectorAll('.option-btn');
+  btns.forEach(btn => {
+    btn.disabled = true;
+    if (btn.textContent === q.correctText) {
+      btn.classList.add('correct');
+    } else if (btn.textContent === selectedOptionText && !isCorrect) {
+      btn.classList.add('wrong');
+    }
+  });
+
+  // Bunyikan Suara & Notifikasi
+  playSound(isCorrect ? 'correct' : 'wrong');
+  showToast(isCorrect);
+
+  if (isCorrect) correctAnswersCount++;
+
+  // Tampilkan Pembahasan
+  const explDiv = document.getElementById('quizExplanation');
+  explDiv.innerHTML = `<strong style="color:var(--primary); font-size:14px; margin-bottom:5px; display:block;">Pembahasan:</strong>${q.explanation}`;
+  explDiv.classList.remove('hidden');
+
+  // Update Progress Full
+  document.getElementById('quizQProgress').style.width = `${((currentQuestionIndex + 1) / 20) * 100}%`;
+
+  // Ubah tombol aksi
+  const actionBtn = document.getElementById('btnQuizAction');
+  actionBtn.textContent = (currentQuestionIndex === 19) ? "LIHAT HASIL" : "LANJUT";
+  actionBtn.onclick = async () => {
+    currentQuestionIndex++;
+    if(currentQuestionIndex < 20) {
+      await renderQuizQuestion();
+    } else {
+      showResults();
+    }
+  };
+  
+  await renderMath('quizExplanation');
+}
+
+function showResults() {
+  currentStep = 6;
+  updateStepUI();
+  
+  const score = Math.round((correctAnswersCount / 20) * 100);
+  document.getElementById('resultScore').textContent = score;
+  document.getElementById('resultCorrect').textContent = correctAnswersCount;
+  document.getElementById('resultWrong').textContent = 20 - correctAnswersCount;
+}
+
+async function testGitHub() {
+  const indicator = document.getElementById("connection");
+  try {
+    const response = await fetch(BASE_URL + "mtk/mtk-b01.json");
+    if(!response.ok) throw new Error("HTTP " + response.status);
+    const data = await response.json();
+    
+    // Perbaikan: Dukung validasi pengecekan untuk format lama (bank_soal) dan format baru (chapters)
+    const hasData = (data.chapters && data.chapters.length > 0) || (data.bank_soal && data.bank_soal.length > 0);
+    if(!hasData) throw new Error("Struktur data tidak dikenali");
+
+    indicator.textContent = "● GitHub Terhubung";
+    indicator.style.background = "rgba(22,163,74,.3)";
+  } catch(error) {
+    indicator.textContent = "● GitHub Belum Terhubung";
+    indicator.style.background = "rgba(220,38,38,.3)";
+    console.error("Test GitHub Error:", error);
+  }
+}
+
+renderSubjects();
+testGitHub();
+</script>
+</body>
+</html>
