@@ -3,8 +3,6 @@
   "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
   "grade": 6,
   "curriculum": "Kurikulum Merdeka",
-  "chapter_id": "IPAS-B01",
-  "chapter_title": "Makanan Bergizi untuk Kesehatan Pencernaanmu",
   "chapters": [
     {
       "chapter_id": "IPAS-B01",
@@ -13,137 +11,163 @@
         {
           "id": "IPAS-B01-M01-001",
           "type": "PG",
-          "text": "Apa fungsi utama makanan bagi tubuh manusia?",
+          "text": "Organ pertama yang dilalui makanan ketika masuk ke sistem pencernaan adalah ....",
           "options": [
-            "Hanya memberi rasa kenyang",
-            "Menyediakan energi dan zat gizi",
-            "Menggantikan fungsi semua organ",
-            "Menghentikan pertumbuhan"
+            "Lambung",
+            "Mulut",
+            "Usus halus",
+            "Kerongkongan"
           ],
-          "answer": "Menyediakan energi dan zat gizi",
-          "discussion": "Makanan menyediakan energi untuk aktivitas serta zat gizi bagi pertumbuhan dan perbaikan tubuh."
+          "answer": "Mulut",
+          "discussion": "Makanan masuk ke saluran pencernaan melalui mulut. Di sana makanan mulai dikunyah dan bercampur dengan air liur."
         },
         {
           "id": "IPAS-B01-M01-002",
           "type": "PG",
-          "text": "Organ yang menjadi pintu masuk makanan adalah ....",
+          "text": "Organ yang menghubungkan mulut dengan lambung adalah ....",
           "options": [
-            "Lambung",
-            "Usus halus",
-            "Mulut",
-            "Kerongkongan"
+            "Usus besar",
+            "Rektum",
+            "Kerongkongan",
+            "Usus halus"
           ],
-          "answer": "Mulut",
-          "discussion": "Makanan pertama kali masuk ke saluran pencernaan melalui mulut."
+          "answer": "Kerongkongan",
+          "discussion": "Kerongkongan atau esofagus menjadi jalur makanan dari mulut menuju lambung."
         },
         {
           "id": "IPAS-B01-M01-003",
           "type": "PG",
-          "text": "Organ yang menghubungkan mulut dengan lambung adalah ....",
+          "text": "Gerakan meremas dan mendorong makanan di kerongkongan menuju lambung disebut ....",
           "options": [
-            "Kerongkongan",
-            "Usus besar",
-            "Rektum",
-            "Anus"
+            "Peristaltik",
+            "Fotosintesis",
+            "Penguapan",
+            "Penyerapan"
           ],
-          "answer": "Kerongkongan",
-          "discussion": "Kerongkongan atau esofagus menghubungkan mulut dengan lambung."
+          "answer": "Peristaltik",
+          "discussion": "Gerakan peristaltik meremas dan mendorong makanan melalui kerongkongan menuju lambung."
         },
         {
           "id": "IPAS-B01-M01-004",
           "type": "PG",
-          "text": "Gerakan meremas dan mendorong makanan di kerongkongan disebut ....",
+          "text": "Organ yang mengolah makanan dengan bantuan otot, enzim, dan asam lambung adalah ....",
           "options": [
-            "Difusi",
-            "Peristaltik",
-            "Fotosintesis",
-            "Penguapan"
+            "Mulut",
+            "Lambung",
+            "Rektum",
+            "Usus besar"
           ],
-          "answer": "Peristaltik",
-          "discussion": "Gerakan peristaltik mendorong makanan menuju lambung."
+          "answer": "Lambung",
+          "discussion": "Di lambung, otot membantu pencernaan mekanis, sedangkan enzim dan asam lambung membantu pencernaan kimiawi."
         },
         {
           "id": "IPAS-B01-M01-005",
           "type": "PG",
-          "text": "Pencernaan mekanis di mulut terutama dibantu oleh ....",
+          "text": "Penyerapan sari-sari makanan terutama terjadi di ....",
           "options": [
-            "Gigi",
-            "Paru-paru",
-            "Ginjal",
-            "Jantung"
+            "Kerongkongan",
+            "Lambung",
+            "Usus halus",
+            "Anus"
           ],
-          "answer": "Gigi",
-          "discussion": "Gigi menghancurkan makanan secara fisik."
+          "answer": "Usus halus",
+          "discussion": "Dinding usus halus menyerap sari-sari makanan agar dapat diedarkan ke seluruh tubuh."
         },
         {
           "id": "IPAS-B01-M01-006",
           "type": "PG",
-          "text": "Zat dalam air liur yang membantu pencernaan disebut ....",
+          "text": "Organ yang menyerap air dan ion elektrolit dari sisa makanan yang tidak tercerna adalah ....",
           "options": [
-            "Pigmen",
-            "Enzim",
-            "Klorofil",
-            "Hemoglobin"
+            "Mulut",
+            "Usus besar",
+            "Lambung",
+            "Kerongkongan"
           ],
-          "answer": "Enzim",
-          "discussion": "Air liur mengandung enzim yang membantu pencernaan kimiawi."
+          "answer": "Usus besar",
+          "discussion": "Usus besar menyerap air dan ion elektrolit dari sisa makanan yang tidak tercerna."
         },
         {
           "id": "IPAS-B01-M01-007",
           "type": "PG",
-          "text": "Makanan yang diolah di lambung berubah menjadi ....",
+          "text": "Bagian yang menyimpan sementara tinja sebelum dikeluarkan dari tubuh adalah ....",
           "options": [
-            "Empedu",
-            "Kimus",
-            "Darah",
-            "Oksigen"
+            "Rektum",
+            "Usus halus",
+            "Lambung",
+            "Kerongkongan"
           ],
-          "answer": "Kimus",
-          "discussion": "Makanan diolah di lambung menjadi kimus atau bubur makanan."
+          "answer": "Rektum",
+          "discussion": "Rektum menjadi tempat penyimpanan sementara tinja sebelum dikeluarkan."
         },
         {
           "id": "IPAS-B01-M01-008",
           "type": "PG",
-          "text": "Tempat penyerapan sari-sari makanan adalah ....",
+          "text": "Lubang tempat keluarnya tinja dari tubuh disebut ....",
           "options": [
-            "Kerongkongan",
-            "Lambung",
-            "Usus halus",
-            "Rektum"
+            "Esofagus",
+            "Rektum",
+            "Anus",
+            "Usus halus"
           ],
-          "answer": "Usus halus",
-          "discussion": "Dinding usus halus menyerap sari-sari makanan."
+          "answer": "Anus",
+          "discussion": "Anus merupakan lubang untuk mengeluarkan tinja dari dalam tubuh."
         },
         {
           "id": "IPAS-B01-M01-009",
           "type": "PG",
-          "text": "Bagian yang menyerap air dari sisa makanan adalah ....",
+          "text": "Dalam pembahasan label makanan, singkatan GGL berarti ....",
           "options": [
-            "Usus besar",
-            "Mulut",
-            "Kerongkongan",
-            "Anus"
+            "Gula, garam, lemak",
+            "Gizi, gandum, lauk",
+            "Garam, gandum, lemak",
+            "Gula, gelas, larutan"
           ],
-          "answer": "Usus besar",
-          "discussion": "Usus besar menyerap air dan ion elektrolit dari sisa makanan."
+          "answer": "Gula, garam, lemak",
+          "discussion": "GGL merupakan singkatan dari gula, garam, dan lemak, yaitu kandungan yang diperhatikan ketika membaca label makanan."
         },
         {
           "id": "IPAS-B01-M01-010",
           "type": "PG",
-          "text": "Tempat penyimpanan sementara tinja adalah ....",
+          "text": "Contoh sumber protein nabati yang disebutkan dalam Panduan Guru adalah ....",
           "options": [
-            "Lambung",
-            "Rektum",
-            "Usus halus",
-            "Hati"
+            "Ikan dan ayam",
+            "Tahu dan tempe",
+            "Susu dan telur",
+            "Daging dan ikan"
           ],
-          "answer": "Rektum",
-          "discussion": "Rektum menyimpan sementara tinja sebelum dikeluarkan."
+          "answer": "Tahu dan tempe",
+          "discussion": "Tahu dan tempe merupakan contoh sumber protein nabati yang dapat dipilih sebagai pengganti protein hewani tertentu."
         },
         {
           "id": "IPAS-B01-M01-011",
           "type": "PG",
-          "text": "Urutan organ yang benar setelah makanan melewati mulut adalah ....",
+          "text": "Ketika mengunyah, gigi memotong dan menghaluskan makanan. Proses tersebut termasuk ....",
+          "options": [
+            "Pencernaan mekanis",
+            "Penyerapan sari makanan",
+            "Penyerapan air",
+            "Penyimpanan tinja"
+          ],
+          "answer": "Pencernaan mekanis",
+          "discussion": "Gigi menghancurkan makanan secara fisik sehingga ukurannya menjadi lebih kecil. Proses ini merupakan pencernaan mekanis."
+        },
+        {
+          "id": "IPAS-B01-M01-012",
+          "type": "PG",
+          "text": "Selain membantu membasahi makanan, air liur berperan dalam ....",
+          "options": [
+            "Menyimpan tinja",
+            "Membantu pencernaan kimiawi di mulut",
+            "Menyerap air di usus besar",
+            "Mendorong tinja keluar"
+          ],
+          "answer": "Membantu pencernaan kimiawi di mulut",
+          "discussion": "Panduan Guru menjelaskan bahwa pencernaan di mulut berlangsung secara mekanis dan kimiawi dengan bantuan gigi dan air liur."
+        },
+        {
+          "id": "IPAS-B01-M01-013",
+          "type": "PG",
+          "text": "Urutan perjalanan makanan yang benar setelah melewati mulut adalah ....",
           "options": [
             "Lambung–kerongkongan–usus halus",
             "Kerongkongan–lambung–usus halus",
@@ -151,259 +175,129 @@
             "Rektum–usus halus–lambung"
           ],
           "answer": "Kerongkongan–lambung–usus halus",
-          "discussion": "Setelah mulut, makanan melewati kerongkongan, lambung, lalu usus halus."
-        },
-        {
-          "id": "IPAS-B01-M01-012",
-          "type": "PG",
-          "text": "Mengapa makanan perlu dikunyah sebelum ditelan?",
-          "options": [
-            "Agar berubah menjadi darah",
-            "Agar dihancurkan menjadi bagian lebih kecil",
-            "Agar langsung diserap usus besar",
-            "Agar tidak membutuhkan lambung"
-          ],
-          "answer": "Agar dihancurkan menjadi bagian lebih kecil",
-          "discussion": "Gigi menghancurkan makanan dan air liur membantu proses pencernaan."
-        },
-        {
-          "id": "IPAS-B01-M01-013",
-          "type": "PG",
-          "text": "Contoh pencernaan kimiawi adalah ....",
-          "options": [
-            "Gigi memotong makanan",
-            "Otot lambung mengaduk makanan",
-            "Enzim dalam air liur membantu menguraikan makanan",
-            "Lidah mendorong makanan"
-          ],
-          "answer": "Enzim dalam air liur membantu menguraikan makanan",
-          "discussion": "Pencernaan kimiawi melibatkan zat seperti enzim."
+          "discussion": "Setelah mulut, makanan melewati kerongkongan, masuk ke lambung, lalu menuju usus halus."
         },
         {
           "id": "IPAS-B01-M01-014",
           "type": "PG",
-          "text": "Fungsi lidah dalam pencernaan adalah ....",
+          "text": "Makanan yang telah diolah di lambung menjadi bubur makanan yang disebut ....",
           "options": [
-            "Menyerap sari makanan",
-            "Mendorong makanan agar dapat ditelan",
-            "Menghasilkan empedu",
-            "Menyerap air"
+            "Kimus",
+            "Empedu",
+            "Elektrolit",
+            "Air liur"
           ],
-          "answer": "Mendorong makanan agar dapat ditelan",
-          "discussion": "Lidah membantu mendorong makanan agar dapat ditelan."
+          "answer": "Kimus",
+          "discussion": "Otot lambung, enzim, dan asam lambung membantu mengolah makanan hingga menjadi bubur yang disebut kimus."
         },
         {
           "id": "IPAS-B01-M01-015",
           "type": "PG",
-          "text": "Pernyataan tepat mengenai hati adalah ....",
+          "text": "Di usus halus, kimus bercampur dengan enzim pencernaan dari pankreas dan ....",
           "options": [
-            "Menghasilkan empedu yang membantu pencernaan lemak",
-            "Menyimpan tinja",
-            "Mendorong makanan ke lambung",
-            "Menyerap seluruh sari makanan"
+            "Air mata",
+            "Asam empedu",
+            "Keringat",
+            "Air liur"
           ],
-          "answer": "Menghasilkan empedu yang membantu pencernaan lemak",
-          "discussion": "Hati menghasilkan empedu yang membantu pencernaan lemak dan penyerapan nutrisi."
+          "answer": "Asam empedu",
+          "discussion": "Panduan Guru menjelaskan bahwa kimus bercampur dengan enzim pencernaan dari pankreas dan asam empedu di usus halus."
         },
         {
           "id": "IPAS-B01-M01-016",
           "type": "PG",
-          "text": "Enzim dari pankreas membantu proses pencernaan di ....",
+          "text": "Mengapa sari-sari makanan yang diserap usus halus penting bagi tubuh?",
           "options": [
-            "Mulut",
-            "Usus halus",
-            "Rektum",
-            "Anus"
+            "Agar dapat diedarkan ke seluruh tubuh",
+            "Agar berubah menjadi tinja",
+            "Agar disimpan di kerongkongan",
+            "Agar dikeluarkan melalui anus"
           ],
-          "answer": "Usus halus",
-          "discussion": "Kimus bercampur dengan enzim dari pankreas di usus halus."
+          "answer": "Agar dapat diedarkan ke seluruh tubuh",
+          "discussion": "Sari-sari makanan yang diserap dinding usus halus selanjutnya diedarkan ke seluruh tubuh."
         },
         {
           "id": "IPAS-B01-M01-017",
           "type": "PG",
-          "text": "Pasangan organ dan fungsi yang tepat adalah ....",
+          "text": "Menurut pengelompokan dalam Panduan Guru, nasi, kentang, dan roti merupakan sumber ....",
           "options": [
-            "Rektum—menyerap sari makanan",
-            "Anus—tempat keluarnya tinja",
-            "Lambung—menyerap air sisa",
-            "Kerongkongan—menyimpan tinja"
+            "Vitamin",
+            "Karbohidrat",
+            "Air",
+            "Mineral saja"
           ],
-          "answer": "Anus—tempat keluarnya tinja",
-          "discussion": "Anus merupakan lubang tempat tinja dikeluarkan."
+          "answer": "Karbohidrat",
+          "discussion": "Panduan Guru mengelompokkan nasi, kentang, dan roti sebagai makanan yang mengandung karbohidrat."
         },
         {
           "id": "IPAS-B01-M01-018",
           "type": "PG",
-          "text": "Mengapa usus halus disebut organ pencernaan yang panjang?",
+          "text": "Dalam pengelompokan zat gizi pada Uji Kompetensi, ayam goreng, susu, dan selai kacang termasuk sumber ....",
           "options": [
-            "Panjangnya sekitar 6 meter menurut buku",
-            "Menghubungkan mulut dan lambung",
-            "Menyimpan tinja",
-            "Menghasilkan air liur"
+            "Lemak dan protein",
+            "Vitamin dan mineral saja",
+            "Air saja",
+            "Karbohidrat saja"
           ],
-          "answer": "Panjangnya sekitar 6 meter menurut buku",
-          "discussion": "Buku menyebut panjang usus halus sekitar 6 meter."
+          "answer": "Lemak dan protein",
+          "discussion": "Kunci Uji Kompetensi Bab 1 mengelompokkan ayam goreng, susu, dan selai kacang sebagai makanan yang mengandung lemak dan protein."
         },
         {
           "id": "IPAS-B01-M01-019",
           "type": "PG",
-          "text": "Proses penting yang terjadi di usus besar adalah ....",
+          "text": "Tumis kangkung, semangka, pisang, dan jus jambu dikelompokkan sebagai sumber ....",
           "options": [
-            "Penyerapan air dan ion elektrolit",
-            "Pengunyahan dengan gigi",
-            "Pembentukan air liur",
-            "Pendorongan makanan dari mulut"
+            "Vitamin dan mineral",
+            "Protein hewani saja",
+            "Lemak saja",
+            "Karbohidrat saja"
           ],
-          "answer": "Penyerapan air dan ion elektrolit",
-          "discussion": "Usus besar menyerap air dan ion elektrolit dari sisa makanan."
+          "answer": "Vitamin dan mineral",
+          "discussion": "Contoh-contoh tersebut dikelompokkan sebagai sumber vitamin dan mineral dalam kunci Uji Kompetensi."
         },
         {
           "id": "IPAS-B01-M01-020",
           "type": "PG",
-          "text": "Dua proses yang terjadi di lambung adalah ....",
+          "text": "Dalam kunci Uji Kompetensi, air putih dikelompokkan sebagai sumber ....",
           "options": [
-            "Fotosintesis dan respirasi",
-            "Pencernaan mekanis dan kimiawi",
-            "Penyerapan udara dan penyaringan darah",
-            "Penglihatan dan pendengaran"
+            "Air dan mineral",
+            "Protein dan lemak",
+            "Karbohidrat dan protein",
+            "Vitamin dan lemak"
           ],
-          "answer": "Pencernaan mekanis dan kimiawi",
-          "discussion": "Otot lambung membantu pencernaan mekanis, enzim dan asam lambung membantu pencernaan kimiawi."
+          "answer": "Air dan mineral",
+          "discussion": "Panduan Guru mencantumkan air putih dalam kelompok sumber air dan mineral."
         },
         {
           "id": "IPAS-B01-M01-021",
           "type": "PG",
-          "text": "Sumber utama energi tubuh adalah ....",
+          "text": "Mengapa tubuh memerlukan beragam jenis zat gizi?",
           "options": [
-            "Serat",
-            "Karbohidrat",
-            "Vitamin",
-            "Mineral"
+            "Setiap zat gizi memiliki fungsi yang berbeda",
+            "Satu zat gizi selalu menggantikan semua zat lain",
+            "Tubuh hanya membutuhkan zat gizi saat tidur",
+            "Semua zat gizi berfungsi sebagai serat"
           ],
-          "answer": "Karbohidrat",
-          "discussion": "Karbohidrat merupakan sumber utama energi tubuh."
+          "answer": "Setiap zat gizi memiliki fungsi yang berbeda",
+          "discussion": "Tubuh memerlukan beragam zat gizi untuk menunjang pertumbuhan, perkembangan, dan menyediakan energi untuk beraktivitas."
         },
         {
           "id": "IPAS-B01-M01-022",
           "type": "PG",
-          "text": "Zat gizi yang membantu pertumbuhan dan perbaikan sel adalah ....",
-          "options": [
-            "Protein",
-            "Air",
-            "Serat",
-            "Vitamin"
-          ],
-          "answer": "Protein",
-          "discussion": "Protein membantu pertumbuhan dan perbaikan sel tubuh."
-        },
-        {
-          "id": "IPAS-B01-M01-023",
-          "type": "PG",
-          "text": "Zat gizi yang membantu kelancaran pencernaan dan buang air besar adalah ....",
-          "options": [
-            "Lemak",
-            "Serat",
-            "Karbohidrat",
-            "Garam"
-          ],
-          "answer": "Serat",
-          "discussion": "Serat membantu melancarkan pencernaan dan buang air besar."
-        },
-        {
-          "id": "IPAS-B01-M01-024",
-          "type": "PG",
-          "text": "Vitamin memiliki peran utama untuk ....",
-          "options": [
-            "Menjaga daya tahan dan fungsi tubuh",
-            "Mendorong tinja keluar",
-            "Menghancurkan makanan",
-            "Menghasilkan peristaltik"
-          ],
-          "answer": "Menjaga daya tahan dan fungsi tubuh",
-          "discussion": "Vitamin membantu menjaga daya tahan dan fungsi tubuh."
-        },
-        {
-          "id": "IPAS-B01-M01-025",
-          "type": "PG",
-          "text": "Mineral dibutuhkan untuk mendukung ....",
-          "options": [
-            "Pertumbuhan dan kesehatan tulang serta gigi",
-            "Pengubahan makanan menjadi tinja di mulut",
-            "Gerakan mengunyah",
-            "Penyimpanan makanan di kerongkongan"
-          ],
-          "answer": "Pertumbuhan dan kesehatan tulang serta gigi",
-          "discussion": "Mineral mendukung pertumbuhan, keseimbangan cairan, fungsi saraf dan otot, serta kesehatan tulang dan gigi."
-        },
-        {
-          "id": "IPAS-B01-M01-026",
-          "type": "PG",
-          "text": "Salah satu fungsi lemak adalah ....",
-          "options": [
-            "Membantu penyerapan vitamin",
-            "Menggantikan fungsi air",
-            "Menyerap sari makanan di rektum",
-            "Menghentikan pertumbuhan"
-          ],
-          "answer": "Membantu penyerapan vitamin",
-          "discussion": "Lemak membantu penyerapan vitamin, melindungi organ, dan menjaga suhu tubuh."
-        },
-        {
-          "id": "IPAS-B01-M01-027",
-          "type": "PG",
-          "text": "Air berperan untuk ....",
-          "options": [
-            "Melarutkan makanan dan membantu membawa nutrisi",
-            "Menghancurkan makanan dengan gigi",
-            "Menghasilkan tinja",
-            "Menggantikan semua zat gizi"
-          ],
-          "answer": "Melarutkan makanan dan membantu membawa nutrisi",
-          "discussion": "Air membantu melarutkan makanan dan membawa nutrisi ke seluruh tubuh."
-        },
-        {
-          "id": "IPAS-B01-M01-028",
-          "type": "PG",
-          "text": "Mengapa tubuh membutuhkan berbagai jenis zat gizi?",
-          "options": [
-            "Setiap zat gizi memiliki fungsi berbeda",
-            "Satu zat gizi menggantikan semuanya",
-            "Tubuh hanya perlu zat gizi saat tidur",
-            "Semua zat gizi berfungsi sebagai serat"
-          ],
-          "answer": "Setiap zat gizi memiliki fungsi berbeda",
-          "discussion": "Tujuh zat gizi utama memiliki fungsi yang berbeda sehingga dibutuhkan secara seimbang."
-        },
-        {
-          "id": "IPAS-B01-M01-029",
-          "type": "PG",
-          "text": "Menu yang paling sesuai dengan prinsip keberagaman gizi adalah ....",
-          "options": [
-            "Nasi saja",
-            "Kerupuk dan minuman manis",
-            "Nasi, lauk, sayur, buah, dan air putih",
-            "Permen dan makanan ringan"
-          ],
-          "answer": "Nasi, lauk, sayur, buah, dan air putih",
-          "discussion": "Menu beragam mencakup makanan pokok, lauk, sayur, buah, dan cairan."
-        },
-        {
-          "id": "IPAS-B01-M01-030",
-          "type": "PG",
-          "text": "Menurut Isi Piringku, setengah bagian piring diisi ....",
+          "text": "Menurut prinsip Isi Piringku yang dirujuk dalam Panduan Guru, setengah bagian piring diisi dengan ....",
           "options": [
             "Buah dan sayur",
-            "Makanan pokok saja",
+            "Nasi saja",
             "Lauk-pauk saja",
             "Minuman kemasan"
           ],
           "answer": "Buah dan sayur",
-          "discussion": "Setengah piring berisi buah dan sayur."
+          "discussion": "Panduan Guru mengarahkan penggunaan infografis Isi Piringku sebagai acuan komposisi makanan, dengan setengah piring berupa buah dan sayur."
         },
         {
-          "id": "IPAS-B01-M01-031",
+          "id": "IPAS-B01-M01-023",
           "type": "PG",
-          "text": "Setengah bagian piring lainnya pada Isi Piringku berisi ....",
+          "text": "Setengah bagian piring lainnya dalam prinsip Isi Piringku berisi ....",
           "options": [
             "Makanan pokok dan lauk-pauk",
             "Hanya buah",
@@ -411,254 +305,358 @@
             "Permen dan minuman manis"
           ],
           "answer": "Makanan pokok dan lauk-pauk",
-          "discussion": "Setengah lainnya berisi makanan pokok dan lauk-pauk."
+          "discussion": "Dalam prinsip Isi Piringku, bagian lainnya diisi makanan pokok dan lauk-pauk."
+        },
+        {
+          "id": "IPAS-B01-M01-024",
+          "type": "PG",
+          "text": "Ketika memilih makanan kemasan, informasi yang secara khusus diteliti dalam kegiatan Bab 1 adalah kandungan ....",
+          "options": [
+            "Gula, garam, dan lemak",
+            "Warna, bentuk, dan ukuran",
+            "Harga, merek, dan gambar",
+            "Aroma, rasa, dan tekstur"
+          ],
+          "answer": "Gula, garam, dan lemak",
+          "discussion": "Kegiatan dalam Bab 1 mengarahkan peserta didik membaca label makanan dengan fokus pada gula, garam, dan lemak."
+        },
+        {
+          "id": "IPAS-B01-M01-025",
+          "type": "PG",
+          "text": "Salah satu tujuan membaca informasi nilai gizi pada kemasan adalah ....",
+          "options": [
+            "Mengetahui kandungan zat gizi pada produk",
+            "Mengetahui siapa yang menggambar kemasan",
+            "Menentukan warna makanan",
+            "Mengetahui ukuran rak toko"
+          ],
+          "answer": "Mengetahui kandungan zat gizi pada produk",
+          "discussion": "Informasi nilai gizi membantu pembeli mengetahui kandungan gizi makanan sehingga dapat mempertimbangkan pilihannya."
+        },
+        {
+          "id": "IPAS-B01-M01-026",
+          "type": "PG",
+          "text": "Dalam kunci Uji Kompetensi Bab 1, minuman rekreasional dijelaskan sebagai minuman yang ....",
+          "options": [
+            "Dapat dikonsumsi sesekali",
+            "Harus diminum setiap kali haus",
+            "Dapat menggantikan semua makanan",
+            "Boleh dikonsumsi tanpa batas"
+          ],
+          "answer": "Dapat dikonsumsi sesekali",
+          "discussion": "Kunci resmi menyebut minuman rekreasional dapat dikonsumsi sesekali, bukan sebagai minuman yang dikonsumsi tanpa batas."
+        },
+        {
+          "id": "IPAS-B01-M01-027",
+          "type": "PG",
+          "text": "Mengapa konsumsi gula, garam, dan lemak perlu diperhatikan?",
+          "options": [
+            "Konsumsinya perlu dijaga agar tidak berlebihan",
+            "Ketiganya tidak boleh ada sama sekali dalam makanan",
+            "Ketiganya merupakan satu-satunya zat gizi",
+            "Tubuh tidak pernah memerlukannya"
+          ],
+          "answer": "Konsumsinya perlu dijaga agar tidak berlebihan",
+          "discussion": "Bab 1 mengajak peserta didik membaca kandungan GGL dan membandingkannya dengan anjuran konsumsi harian."
+        },
+        {
+          "id": "IPAS-B01-M01-028",
+          "type": "PG",
+          "text": "Pernyataan yang sesuai dengan penjelasan Panduan Guru tentang pola makan adalah ....",
+          "options": [
+            "Tubuh membutuhkan beragam zat gizi untuk tumbuh dan beraktivitas",
+            "Membatasi makanan menjadi satu jenis selalu lebih menyehatkan",
+            "Satu jenis makanan pasti memenuhi semua kebutuhan tubuh",
+            "Tubuh tidak memerlukan energi dari makanan"
+          ],
+          "answer": "Tubuh membutuhkan beragam zat gizi untuk tumbuh dan beraktivitas",
+          "discussion": "Panduan Guru mengingatkan bahwa tubuh membutuhkan beragam zat gizi untuk pertumbuhan, perkembangan, dan energi dalam beraktivitas."
+        },
+        {
+          "id": "IPAS-B01-M01-029",
+          "type": "PG",
+          "text": "Mengapa suplemen tidak dapat sepenuhnya menggantikan makanan utuh?",
+          "options": [
+            "Makanan utuh mengandung beragam nutrisi alami, serat, dan mikronutrien",
+            "Suplemen selalu mengandung lebih banyak serat daripada makanan",
+            "Makanan utuh tidak mengandung zat gizi",
+            "Tubuh hanya membutuhkan suplemen"
+          ],
+          "answer": "Makanan utuh mengandung beragam nutrisi alami, serat, dan mikronutrien",
+          "discussion": "Panduan Guru menjelaskan bahwa makanan asli dan utuh menyediakan beragam nutrisi alami, serat, serta mikronutrien yang tidak sepenuhnya digantikan suplemen."
+        },
+        {
+          "id": "IPAS-B01-M01-030",
+          "type": "PG",
+          "text": "Dara alergi terhadap protein hewani seperti daging dan ikan. Pilihan sumber protein pengganti yang dicontohkan dalam buku adalah ....",
+          "options": [
+            "Tahu, tempe, dan kacang-kacangan",
+            "Permen, sirup, dan gula",
+            "Minyak, garam, dan air",
+            "Kerupuk dan minuman manis"
+          ],
+          "answer": "Tahu, tempe, dan kacang-kacangan",
+          "discussion": "Kunci Uji Kompetensi menyarankan protein nabati seperti tahu, tempe, dan kacang-kacangan sebagai pengganti protein hewani bagi Dara."
+        },
+        {
+          "id": "IPAS-B01-M01-031",
+          "type": "PG",
+          "text": "Perhatikan sebuah minuman kemasan yang termasuk minuman rekreasional. Sikap konsumsi yang paling sesuai dengan penjelasan buku adalah ....",
+          "options": [
+            "Mengonsumsinya sesekali",
+            "Menjadikannya pengganti air putih setiap hari",
+            "Meminumnya sebanyak mungkin",
+            "Menganggapnya sebagai satu-satunya sumber gizi"
+          ],
+          "answer": "Mengonsumsinya sesekali",
+          "discussion": "Panduan Guru menyebut minuman rekreasional dapat dikonsumsi sesekali. Peserta didik juga diminta mempertimbangkan kandungan gula, garam, dan lemak."
         },
         {
           "id": "IPAS-B01-M01-032",
           "type": "PG",
-          "text": "Tujuan membaca informasi nilai gizi pada kemasan adalah ....",
+          "text": "Sebuah kemasan berisi 2 sajian. Jika kandungan gula setiap sajian 12 gram, berapa gram gula yang dikonsumsi jika seluruh kemasan diminum?",
           "options": [
-            "Mengetahui kandungan gizi dan takaran saji",
-            "Mengetahui warna makanan",
-            "Memastikan makanan gratis",
-            "Menghitung bahan kemasan"
+            "12 gram",
+            "14 gram",
+            "24 gram",
+            "26 gram"
           ],
-          "answer": "Mengetahui kandungan gizi dan takaran saji",
-          "discussion": "Label memberi informasi takaran saji, energi, dan kandungan zat gizi."
+          "answer": "24 gram",
+          "discussion": "Jumlah gula seluruh kemasan dihitung dengan mengalikan gula per sajian dengan jumlah sajian: 12 × 2 = 24 gram."
         },
         {
           "id": "IPAS-B01-M01-033",
           "type": "PG",
-          "text": "Kemasan berisi 2 sajian. Energi 90 kkal per sajian. Energi seluruh kemasan adalah ....",
+          "text": "Sebuah produk memiliki kandungan gula 8 gram per sajian dan satu kemasan berisi 3 sajian. Berapa kandungan gula seluruh kemasan?",
           "options": [
-            "45 kkal",
-            "90 kkal",
-            "180 kkal",
-            "200 kkal"
+            "8 gram",
+            "11 gram",
+            "16 gram",
+            "24 gram"
           ],
-          "answer": "180 kkal",
-          "discussion": "Energi seluruh kemasan adalah 90 × 2 = 180 kkal."
+          "answer": "24 gram",
+          "discussion": "Jika seluruh kemasan dikonsumsi, gula total adalah 8 × 3 = 24 gram. Perhatikan jumlah sajian, bukan hanya angka per sajian."
         },
         {
           "id": "IPAS-B01-M01-034",
           "type": "PG",
-          "text": "Gula 13 gram per sajian, jumlah sajian per kemasan 2. Jika seluruh kemasan dikonsumsi, gula yang masuk adalah ....",
+          "text": "Sebuah kelompok membandingkan dua makanan kemasan berdasarkan kandungan GGL. Data yang paling tepat digunakan untuk membandingkannya adalah ....",
           "options": [
-            "13 gram",
-            "15 gram",
-            "20 gram",
-            "26 gram"
+            "Informasi gula, garam, dan lemak pada label dengan memperhatikan takaran sajinya",
+            "Warna dan gambar pada kemasan",
+            "Ukuran huruf merek",
+            "Bentuk bungkus makanan"
           ],
-          "answer": "26 gram",
-          "discussion": "Gula total adalah 13 × 2 = 26 gram."
+          "answer": "Informasi gula, garam, dan lemak pada label dengan memperhatikan takaran sajinya",
+          "discussion": "Kegiatan Bab 1 meminta peserta didik membaca dan mencatat GGL pada label. Takaran saji perlu diperhatikan agar perbandingan tidak keliru."
         },
         {
           "id": "IPAS-B01-M01-035",
           "type": "PG",
-          "text": "Persen AKG pada label makanan menunjukkan ....",
+          "text": "Seseorang hanya mengonsumsi satu jenis makanan karena menganggapnya paling sehat. Penilaian yang tepat berdasarkan Bab 1 adalah ....",
           "options": [
-            "Kontribusi satu sajian terhadap kebutuhan gizi harian menurut acuan label",
-            "Jumlah kemasan diproduksi",
-            "Lama makanan disimpan",
-            "Berat kemasan kosong"
+            "Kurang tepat karena tubuh memerlukan beragam zat gizi",
+            "Tepat karena satu jenis makanan selalu mencukupi semua kebutuhan",
+            "Tepat karena tubuh tidak memerlukan variasi makanan",
+            "Kurang tepat karena tubuh tidak membutuhkan makanan"
           ],
-          "answer": "Kontribusi satu sajian terhadap kebutuhan gizi harian menurut acuan label",
-          "discussion": "Persen AKG menunjukkan kontribusi satu sajian terhadap kebutuhan harian menurut acuan label."
+          "answer": "Kurang tepat karena tubuh memerlukan beragam zat gizi",
+          "discussion": "Panduan Guru secara khusus mengoreksi anggapan bahwa hanya mengonsumsi satu jenis makanan lebih menyehatkan. Tubuh memerlukan beragam zat gizi."
         },
         {
           "id": "IPAS-B01-M01-036",
           "type": "PG",
-          "text": "Mengapa konsumsi gula, garam, dan lemak perlu diperhatikan?",
+          "text": "Perhatikan urutan organ berikut: (1) lambung, (2) mulut, (3) usus halus, (4) kerongkongan. Urutan perjalanan makanan yang benar adalah ....",
           "options": [
-            "Konsumsi berlebihan perlu dihindari demi kesehatan",
-            "Ketiganya tidak boleh ada dalam makanan",
-            "Ketiganya satu-satunya zat gizi",
-            "Tubuh tidak pernah memerlukannya"
+            "2–4–1–3",
+            "1–2–4–3",
+            "4–2–3–1",
+            "2–1–3–4"
           ],
-          "answer": "Konsumsi berlebihan perlu dihindari demi kesehatan",
-          "discussion": "Gula, garam, dan lemak dapat meningkatkan cita rasa, tetapi konsumsinya perlu diperhatikan dan tidak berlebihan."
+          "answer": "2–4–1–3",
+          "discussion": "Makanan masuk melalui mulut, bergerak melalui kerongkongan, kemudian menuju lambung dan usus halus."
         },
         {
           "id": "IPAS-B01-M01-037",
           "type": "PG",
-          "text": "Mengikuti konten mokbang dengan porsi sangat besar dapat berdampak buruk karena ....",
+          "text": "Seorang siswa menyatakan bahwa sari-sari makanan terutama diserap di lambung. Perbaikan pernyataan yang tepat adalah ....",
           "options": [
-            "Mendorong konsumsi berlebihan",
-            "Membuat tubuh tidak membutuhkan air",
-            "Menghentikan semua organ",
-            "Mengubah makanan menjadi vitamin"
+            "Sari-sari makanan terutama diserap oleh dinding usus halus",
+            "Sari-sari makanan diserap di kerongkongan",
+            "Sari-sari makanan diserap di rektum",
+            "Sari-sari makanan tidak perlu diserap tubuh"
           ],
-          "answer": "Mendorong konsumsi berlebihan",
-          "discussion": "Konten mokbang dapat menggoda orang untuk makan sangat banyak sehingga berdampak buruk bagi pencernaan dan kesehatan."
+          "answer": "Sari-sari makanan terutama diserap oleh dinding usus halus",
+          "discussion": "Menurut Panduan Guru, dinding usus halus menyerap sari-sari makanan untuk diedarkan ke seluruh tubuh."
         },
         {
           "id": "IPAS-B01-M01-038",
           "type": "PG",
-          "text": "Pernyataan tepat mengenai makanan rekreasional adalah ....",
+          "text": "Jika fungsi penyerapan air di usus besar terganggu, proses yang paling langsung terdampak adalah ....",
           "options": [
-            "Dapat dikonsumsi sesekali, bukan terus-menerus sebagai pilihan utama",
-            "Harus dikonsumsi setiap waktu makan",
-            "Selalu lebih bergizi dari buah",
-            "Tidak perlu memperhatikan gizinya"
+            "Penyerapan air dan ion elektrolit dari sisa makanan",
+            "Pengunyahan makanan oleh gigi",
+            "Gerakan peristaltik di kerongkongan",
+            "Pencampuran makanan dengan air liur"
           ],
-          "answer": "Dapat dikonsumsi sesekali, bukan terus-menerus sebagai pilihan utama",
-          "discussion": "Buku menjelaskan makanan rekreasional dapat dikonsumsi sesekali, tetapi tidak terus-menerus."
+          "answer": "Penyerapan air dan ion elektrolit dari sisa makanan",
+          "discussion": "Usus besar berfungsi menyerap air dan ion elektrolit dari sisa makanan yang tidak tercerna."
         },
         {
           "id": "IPAS-B01-M01-039",
           "type": "PG",
-          "text": "Menurut buku, GERD terjadi ketika ....",
+          "text": "Perhatikan dua proses berikut: X adalah makanan dihancurkan oleh gigi, Y adalah makanan didorong menuju lambung oleh gerakan kerongkongan. Pasangan yang tepat adalah ....",
           "options": [
-            "Otot esofagus bagian bawah melemah sehingga asam lambung naik",
-            "Usus besar tidak menyerap air",
-            "Gigi tidak menghancurkan makanan",
-            "Rektum menghasilkan air liur"
+            "X pencernaan mekanis, Y gerak peristaltik",
+            "X penyerapan air, Y pencernaan kimiawi",
+            "X gerak peristaltik, Y penyerapan sari makanan",
+            "X penyimpanan tinja, Y pencernaan mekanis"
           ],
-          "answer": "Otot esofagus bagian bawah melemah sehingga asam lambung naik",
-          "discussion": "Pelemahan otot esofagus bagian bawah memungkinkan asam lambung naik ke tenggorokan."
+          "answer": "X pencernaan mekanis, Y gerak peristaltik",
+          "discussion": "Gigi menghancurkan makanan secara mekanis, sedangkan gerak peristaltik pada kerongkongan mendorong makanan menuju lambung."
         },
         {
           "id": "IPAS-B01-M01-040",
           "type": "PG",
-          "text": "Gangguan yang ditandai BAB lebih sering dan feses lebih cair adalah ....",
+          "text": "Sebuah menu terdiri atas nasi, ayam, tumis kangkung, semangka, dan air putih. Alasan menu ini lebih beragam gizinya dibandingkan hanya nasi adalah ....",
           "options": [
-            "Obesitas",
-            "Diare",
-            "GERD",
-            "Gastritis"
+            "Bahan makanan tersebut mewakili kelompok zat gizi yang berbeda",
+            "Semua bahan makanan hanya mengandung karbohidrat",
+            "Menu tersebut tidak mengandung zat gizi",
+            "Semua bahan makanan memiliki fungsi yang sama"
           ],
-          "answer": "Diare",
-          "discussion": "Diare ditandai BAB lebih sering dari biasanya dengan feses lebih cair."
+          "answer": "Bahan makanan tersebut mewakili kelompok zat gizi yang berbeda",
+          "discussion": "Dalam kunci Uji Kompetensi, nasi termasuk karbohidrat; ayam termasuk lemak dan protein; sayur serta buah termasuk vitamin dan mineral; air putih termasuk air dan mineral."
         },
         {
           "id": "IPAS-B01-M01-041",
           "type": "PG",
-          "text": "Lingkungan kotor dan sanitasi buruk meningkatkan risiko diare karena ....",
+          "text": "Sebuah label menunjukkan gula 10 gram per sajian. Kemasan tersebut berisi 4 sajian. Jika seseorang mengonsumsi seluruh isi kemasan, berapa gram gula yang dikonsumsi?",
           "options": [
-            "Makanan atau minuman dapat tercemar kuman",
-            "Semua makanan berubah menjadi lemak",
-            "Air tidak diserap lambung",
-            "Peristaltik selalu berhenti"
+            "10 gram",
+            "14 gram",
+            "30 gram",
+            "40 gram"
           ],
-          "answer": "Makanan atau minuman dapat tercemar kuman",
-          "discussion": "Lingkungan kotor dan sanitasi buruk dapat menyebabkan makanan/minuman tercemar kuman."
+          "answer": "40 gram",
+          "discussion": "Jumlah gula seluruh kemasan adalah 10 gram × 4 sajian = 40 gram."
         },
         {
           "id": "IPAS-B01-M01-042",
           "type": "PG",
-          "text": "Faktor yang dapat berperan terhadap obesitas menurut buku adalah ....",
+          "text": "Dua produk memiliki kandungan gula per sajian yang sama, tetapi produk A berisi 1 sajian per kemasan dan produk B berisi 3 sajian per kemasan. Jika seluruh kemasan dikonsumsi, kesimpulan yang tepat adalah ....",
           "options": [
-            "Porsi makan banyak, makanan berkalori tinggi, faktor genetik, kurang aktivitas fisik",
-            "Hanya minum air putih",
-            "Hanya makan buah",
-            "Mengunyah perlahan"
+            "Produk B memberikan gula total tiga kali produk A",
+            "Produk A memberikan gula total tiga kali produk B",
+            "Keduanya selalu memberikan gula total yang sama",
+            "Jumlah sajian tidak memengaruhi jumlah gula yang dikonsumsi"
           ],
-          "answer": "Porsi makan banyak, makanan berkalori tinggi, faktor genetik, kurang aktivitas fisik",
-          "discussion": "Buku menyebut porsi berlebihan, makanan berkalori tinggi, makanan olahan, faktor genetik, dan kurang aktivitas fisik."
+          "answer": "Produk B memberikan gula total tiga kali produk A",
+          "discussion": "Dengan kandungan gula per sajian yang sama, kemasan berisi tiga sajian memberikan total gula tiga kali lebih banyak jika seluruh kemasan dikonsumsi."
         },
         {
           "id": "IPAS-B01-M01-043",
           "type": "PG",
-          "text": "Kebiasaan yang mendukung kesehatan adalah ....",
+          "text": "Seorang anak sering memilih minuman tinggi gula dan mengonsumsinya secara berlebihan. Menurut kunci Uji Kompetensi Bab 1, kemungkinan dampak kesehatan yang disebutkan adalah ....",
           "options": [
-            "Makan teratur, membaca label, dan menjaga kebersihan",
-            "Makan teratur dan mengikuti tren makan berlebihan",
-            "Membaca label dan mengabaikan kebersihan",
-            "Mengikuti tren makan berlebihan"
+            "Diabetes, diare, atau obesitas",
+            "Rabun jauh, tuli, atau patah tulang",
+            "Flu, batuk, atau pilek saja",
+            "Luka, memar, atau keseleo"
           ],
-          "answer": "Makan teratur, membaca label, dan menjaga kebersihan",
-          "discussion": "Makan teratur, membaca label, dan menjaga kebersihan mendukung kebiasaan sehat."
+          "answer": "Diabetes, diare, atau obesitas",
+          "discussion": "Kunci resmi Uji Kompetensi menyebut diabetes, diare, atau obesitas sebagai kemungkinan dampak jika minuman tinggi gula dikonsumsi terlalu banyak."
         },
         {
           "id": "IPAS-B01-M01-044",
           "type": "PG",
-          "text": "Sarapan Dinan terdiri atas nasi, telur, susu, dan air putih, tanpa buah atau sayur. Unsur yang belum tampak adalah ....",
+          "text": "Dalam penyelidikan Bab 1, peserta didik diminta mengumpulkan informasi tentang penyakit yang menyerang organ pencernaan. Informasi yang perlu dicatat meliputi ....",
           "options": [
-            "Sumber vitamin dan mineral dari buah atau sayur",
-            "Sumber karbohidrat",
-            "Sumber protein",
-            "Cairan"
+            "Jenis penyakit, gejala, dan cara menghindarinya",
+            "Warna kemasan makanan dan harga jajanan",
+            "Nama toko dan jumlah pembeli",
+            "Merek makanan dan bentuk iklannya"
           ],
-          "answer": "Sumber vitamin dan mineral dari buah atau sayur",
-          "discussion": "Tabel buku menunjukkan sarapan Dinan belum memiliki sumber vitamin dan mineral dari sayur atau buah."
+          "answer": "Jenis penyakit, gejala, dan cara menghindarinya",
+          "discussion": "Panduan Guru mengarahkan peserta didik mengumpulkan data tentang penyakit pada organ pencernaan, gejala, dan cara menghindarinya."
         },
         {
           "id": "IPAS-B01-M01-045",
           "type": "PG",
-          "text": "Ali sarapan mi goreng, telur, susu, sawi hijau, dan air putih. Mengapa contoh ini dinilai lebih lengkap dalam tabel buku?",
+          "text": "Setelah mengumpulkan informasi tentang penyakit pencernaan, kelompok siswa ingin menyampaikan hasil penyelidikan. Bentuk penyajian yang dianjurkan dalam Panduan Guru adalah ....",
           "options": [
-            "Ada sumber karbohidrat, protein, lemak, sayur, dan cairan",
-            "Hanya mengandung karbohidrat",
-            "Tidak mengandung cairan",
-            "Hanya makanan cepat saji"
+            "Infografis, diagram, atau peta pikiran",
+            "Daftar harga barang saja",
+            "Jadwal piket kelas",
+            "Daftar nama teman tanpa informasi"
           ],
-          "answer": "Ada sumber karbohidrat, protein, lemak, sayur, dan cairan",
-          "discussion": "Tabel buku menyebut menu Ali memiliki unsur gizi lengkap berdasarkan komponen yang dicatat."
+          "answer": "Infografis, diagram, atau peta pikiran",
+          "discussion": "Panduan Guru menyebut infografis, diagram, peta pikiran, atau bentuk lain sebagai cara menyajikan hasil penyelidikan."
         },
         {
           "id": "IPAS-B01-M01-046",
           "type": "PG",
-          "text": "Label menunjukkan takaran saji 125 ml, 2 sajian per kemasan, gula 13 gram per sajian. Jika seluruh kemasan diminum, jumlahnya ....",
+          "text": "Sebuah keluarga ingin memperbaiki pola makan. Mereka membaca label GGL, memilih makanan yang beragam, dan menyusun menu dengan komposisi Isi Piringku. Penilaian yang tepat adalah ....",
           "options": [
-            "250 ml dan 26 gram gula",
-            "125 ml dan 13 gram gula",
-            "250 ml dan 13 gram gula",
-            "125 ml dan 26 gram gula"
+            "Langkah tersebut mendukung pemilihan makanan yang lebih bijak dan bergizi seimbang",
+            "Langkah tersebut tidak berhubungan dengan kesehatan",
+            "Mereka seharusnya hanya makan satu jenis bahan makanan",
+            "Mereka tidak perlu memperhatikan informasi pada kemasan"
           ],
-          "answer": "250 ml dan 26 gram gula",
-          "discussion": "Dua sajian berarti 250 ml dan gula total 26 gram."
+          "answer": "Langkah tersebut mendukung pemilihan makanan yang lebih bijak dan bergizi seimbang",
+          "discussion": "Bab 1 menghubungkan pemahaman kandungan gizi, pembacaan label, dan penyusunan menu seimbang sebagai bagian dari upaya menjaga kesehatan."
         },
         {
           "id": "IPAS-B01-M01-047",
           "type": "PG",
-          "text": "Mengapa hati dan pankreas membantu pencernaan tetapi bukan jalur yang dilewati makanan?",
+          "text": "Perhatikan pasangan organ dan fungsinya: (1) usus halus—menyerap sari makanan; (2) usus besar—menyerap air dan ion elektrolit; (3) rektum—menyimpan sementara tinja; (4) anus—menyerap sari makanan. Pasangan yang tidak tepat adalah ....",
           "options": [
-            "Keduanya menghasilkan zat pembantu, sedangkan makanan melewati saluran pencernaan",
-            "Keduanya berada di luar tubuh",
-            "Keduanya menyimpan tinja",
-            "Keduanya menjadi pintu masuk makanan"
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
           ],
-          "answer": "Keduanya menghasilkan zat pembantu, sedangkan makanan melewati saluran pencernaan",
-          "discussion": "Hati menghasilkan empedu dan pankreas menghasilkan enzim; makanan melewati saluran pencernaan."
+          "answer": "(4)",
+          "discussion": "Anus merupakan lubang untuk mengeluarkan tinja, bukan tempat penyerapan sari-sari makanan."
         },
         {
           "id": "IPAS-B01-M01-048",
           "type": "PG",
-          "text": "Mengapa urutan organ pencernaan penting dipahami?",
+          "text": "Pernyataan yang paling tepat tentang proses pencernaan di lambung dan usus halus adalah ....",
           "options": [
-            "Setiap organ memiliki proses dan fungsi berbeda",
-            "Semua organ melakukan pekerjaan sama",
-            "Makanan memilih organ sendiri",
-            "Urutan berubah setiap kali makan"
+            "Lambung mengolah makanan menjadi kimus, lalu usus halus mencampurnya dengan enzim pankreas dan asam empedu serta menyerap sari makanan",
+            "Lambung menyerap seluruh sari makanan, lalu usus halus menyimpan tinja",
+            "Lambung menyerap air dari sisa makanan, lalu usus halus mengeluarkan tinja",
+            "Lambung menghasilkan air liur, lalu usus halus mendorong makanan ke mulut"
           ],
-          "answer": "Setiap organ memiliki proses dan fungsi berbeda",
-          "discussion": "Setiap organ memiliki tugas berbeda dari menghancurkan makanan hingga menyerap zat dan mengeluarkan sisa."
+          "answer": "Lambung mengolah makanan menjadi kimus, lalu usus halus mencampurnya dengan enzim pankreas dan asam empedu serta menyerap sari makanan",
+          "discussion": "Panduan Guru menjelaskan urutan proses tersebut: makanan menjadi kimus di lambung, kemudian diproses dan sari-sarinya diserap di usus halus."
         },
         {
           "id": "IPAS-B01-M01-049",
           "type": "PG",
-          "text": "Jika makanan mengandung sedikit serat, fungsi yang kurang terbantu adalah ....",
+          "text": "Dara alergi terhadap protein hewani seperti daging dan ikan. Menu pengganti yang paling sesuai dengan arahan kunci Uji Kompetensi adalah ....",
           "options": [
-            "Kelancaran pencernaan dan buang air besar",
-            "Penglihatan dalam gelap",
-            "Gerakan jantung",
-            "Pembentukan air liur"
+            "Menu yang mengandung protein nabati dari tahu, tempe, atau kacang-kacangan",
+            "Menu yang menghilangkan seluruh sumber protein",
+            "Menu yang hanya terdiri atas minuman manis",
+            "Menu yang hanya terdiri atas nasi"
           ],
-          "answer": "Kelancaran pencernaan dan buang air besar",
-          "discussion": "Serat membantu melancarkan pencernaan dan buang air besar."
+          "answer": "Menu yang mengandung protein nabati dari tahu, tempe, atau kacang-kacangan",
+          "discussion": "Kunci Uji Kompetensi menyebut protein hewani dapat diganti dengan protein nabati seperti tahu, tempe, dan kacang-kacangan."
         },
         {
           "id": "IPAS-B01-M01-050",
           "type": "PG",
-          "text": "Semua makanan populer di media sosial pasti baik untuk kesehatan. Tanggapan tepat adalah ....",
+          "text": "Sebuah kelompok menyusun strategi menjaga kesehatan pencernaan. Strategi yang paling sesuai dengan tujuan pembelajaran Bab 1 adalah ....",
           "options": [
-            "Tidak selalu; pertimbangkan kandungan gizi dan kebutuhan tubuh",
-            "Benar, popularitas menentukan gizi",
-            "Benar jika warnanya cerah",
-            "Label gizi tidak perlu dibaca"
+            "Menggunakan pemahaman organ pencernaan, memilih makanan bergizi beragam, dan menerapkan gaya hidup sehat",
+            "Menghafalkan nama organ tanpa memahami fungsinya",
+            "Mengonsumsi satu jenis makanan saja setiap hari",
+            "Mengabaikan kandungan gizi dan kebiasaan hidup"
           ],
-          "answer": "Tidak selalu; pertimbangkan kandungan gizi dan kebutuhan tubuh",
-          "discussion": "Tren dapat mendorong konsumsi berlebihan; pilihan makanan perlu mempertimbangkan kebutuhan dan kandungan gizinya."
+          "answer": "Menggunakan pemahaman organ pencernaan, memilih makanan bergizi beragam, dan menerapkan gaya hidup sehat",
+          "discussion": "Tujuan Bab 1 adalah menerapkan cara menjaga kesehatan diri dengan memahami sistem pencernaan, kandungan gizi, gangguan pencernaan, dan cara menjaga kesehatannya."
         }
       ]
     }
