@@ -570,41 +570,41 @@
         {
           "id": "IPAS-B01-M01-044",
           "type": "PG",
-          "text": "Dalam penyelidikan Bab 1, peserta didik diminta mengumpulkan informasi tentang penyakit yang menyerang organ pencernaan. Informasi yang perlu dicatat meliputi ....",
+          "text": "Pernyataan yang tepat untuk membedakan maag dan GERD berdasarkan bacaan Bab 1 adalah ....",
           "options": [
-            "Jenis penyakit, gejala, dan cara menghindarinya",
-            "Warna kemasan makanan dan harga jajanan",
-            "Nama toko dan jumlah pembeli",
-            "Merek makanan dan bentuk iklannya"
+            "Maag berkaitan dengan iritasi dinding lambung dan peningkatan asam lambung, sedangkan GERD terjadi ketika asam lambung naik ke tenggorokan",
+            "Maag terjadi karena infeksi virus, sedangkan GERD terjadi karena bakteri di usus besar",
+            "Maag adalah penumpukan lemak, sedangkan GERD adalah kekurangan vitamin",
+            "Maag dan GERD merupakan penyakit yang sama dan tidak memiliki perbedaan"
           ],
-          "answer": "Jenis penyakit, gejala, dan cara menghindarinya",
-          "discussion": "Panduan Guru mengarahkan peserta didik mengumpulkan data tentang penyakit pada organ pencernaan, gejala, dan cara menghindarinya."
+          "answer": "Maag berkaitan dengan iritasi dinding lambung dan peningkatan asam lambung, sedangkan GERD terjadi ketika asam lambung naik ke tenggorokan",
+          "discussion": "Buku menjelaskan bahwa maag berkaitan dengan iritasi dinding lambung dan peningkatan asam lambung. GERD terjadi ketika otot esofagus bagian bawah melemah sehingga asam lambung naik ke tenggorokan."
         },
         {
           "id": "IPAS-B01-M01-045",
           "type": "PG",
-          "text": "Setelah mengumpulkan informasi tentang penyakit pencernaan, kelompok siswa ingin menyampaikan hasil penyelidikan. Bentuk penyajian yang dianjurkan dalam Panduan Guru adalah ....",
+          "text": "Diare pada anak dapat terjadi ketika ....",
           "options": [
-            "Infografis, diagram, atau peta pikiran",
-            "Daftar harga barang saja",
-            "Jadwal piket kelas",
-            "Daftar nama teman tanpa informasi"
+            "Mengonsumsi makanan atau minuman yang tercemar kuman akibat lingkungan dan sanitasi yang buruk",
+            "Terlalu sering membaca informasi nilai gizi",
+            "Mengunyah makanan sampai halus",
+            "Mengonsumsi makanan yang beragam"
           ],
-          "answer": "Infografis, diagram, atau peta pikiran",
-          "discussion": "Panduan Guru menyebut infografis, diagram, peta pikiran, atau bentuk lain sebagai cara menyajikan hasil penyelidikan."
+          "answer": "Mengonsumsi makanan atau minuman yang tercemar kuman akibat lingkungan dan sanitasi yang buruk",
+          "discussion": "Buku menjelaskan bahwa diare pada anak umumnya dapat disebabkan infeksi virus atau bakteri. Lingkungan kotor dan sanitasi buruk meningkatkan kemungkinan makanan atau minuman tercemar kuman."
         },
         {
           "id": "IPAS-B01-M01-046",
           "type": "PG",
-          "text": "Sebuah keluarga ingin memperbaiki pola makan. Mereka membaca label GGL, memilih makanan yang beragam, dan menyusun menu dengan komposisi Isi Piringku. Penilaian yang tepat adalah ....",
+          "text": "Perhatikan kebiasaan berikut: (1) makan dalam porsi sangat banyak, (2) sering mengonsumsi makanan dan minuman berkalori tinggi, (3) sering makan makanan olahan dan siap saji, (4) melakukan aktivitas fisik secara teratur. Kebiasaan yang disebut dalam buku sebagai faktor yang dapat menyebabkan obesitas adalah ....",
           "options": [
-            "Langkah tersebut mendukung pemilihan makanan yang lebih bijak dan bergizi seimbang",
-            "Langkah tersebut tidak berhubungan dengan kesehatan",
-            "Mereka seharusnya hanya makan satu jenis bahan makanan",
-            "Mereka tidak perlu memperhatikan informasi pada kemasan"
+            "(1), (2), dan (3)",
+            "(1) dan (4)",
+            "(2) dan (4)",
+            "(4) saja"
           ],
-          "answer": "Langkah tersebut mendukung pemilihan makanan yang lebih bijak dan bergizi seimbang",
-          "discussion": "Bab 1 menghubungkan pemahaman kandungan gizi, pembacaan label, dan penyusunan menu seimbang sebagai bagian dari upaya menjaga kesehatan."
+          "answer": "(1), (2), dan (3)",
+          "discussion": "Buku menyebut kebiasaan makan dalam porsi banyak, konsumsi makanan dan minuman berkalori tinggi, serta sering makan makanan olahan dan siap saji sebagai beberapa faktor yang dapat menyebabkan obesitas. Penurunan aktivitas fisik juga termasuk faktor risiko."
         },
         {
           "id": "IPAS-B01-M01-047",
