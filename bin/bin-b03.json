@@ -1,0 +1,664 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "BIN-B03",
+      "chapter_title": "Bab 3: Temukan Minat, Tunjukkan Bakat",
+      "questions": [
+        {
+          "id": "BIN-B03-M01-001",
+          "type": "PG",
+          "text": "Apa yang dimaksud dengan wawancara?",
+          "options": [
+            "Kegiatan tanya jawab untuk memperoleh informasi",
+            "Kegiatan membaca puisi di depan kelas",
+            "Kegiatan menyalin tulisan dari buku",
+            "Kegiatan menggambar berdasarkan cerita"
+          ],
+          "answer": "Kegiatan tanya jawab untuk memperoleh informasi",
+          "discussion": "Wawancara adalah kegiatan tanya jawab antara pewawancara dan narasumber untuk memperoleh informasi."
+        },
+        {
+          "id": "BIN-B03-M01-002",
+          "type": "PG",
+          "text": "Orang yang memberikan informasi dalam wawancara disebut ....",
+          "options": [
+            "pembaca",
+            "narasumber",
+            "penonton",
+            "penulis"
+          ],
+          "answer": "narasumber",
+          "discussion": "Narasumber adalah orang yang dimintai keterangan atau informasi dalam wawancara."
+        },
+        {
+          "id": "BIN-B03-M01-003",
+          "type": "PG",
+          "text": "Sebelum melakukan wawancara, hal yang sebaiknya dilakukan adalah ....",
+          "options": [
+            "langsung merekam tanpa izin",
+            "menentukan topik dan menyiapkan pertanyaan",
+            "mengubah jawaban narasumber",
+            "menyebarkan hasil wawancara"
+          ],
+          "answer": "menentukan topik dan menyiapkan pertanyaan",
+          "discussion": "Persiapan membantu wawancara berlangsung terarah dan menghasilkan informasi yang dibutuhkan."
+        },
+        {
+          "id": "BIN-B03-M01-004",
+          "type": "PG",
+          "text": "Tanda baca yang lazim digunakan untuk memisahkan kata pengantar dengan petikan langsung adalah ....",
+          "options": [
+            ":",
+            ";",
+            "?",
+            "! "
+          ],
+          "answer": ":",
+          "discussion": "Tanda titik dua dapat digunakan setelah pengantar sebelum petikan langsung atau rincian."
+        },
+        {
+          "id": "BIN-B03-M01-005",
+          "type": "PG",
+          "text": "Tanda baca yang mengapit petikan langsung adalah ....",
+          "options": [
+            "tanda kurung",
+            "tanda petik",
+            "tanda hubung",
+            "tanda garis miring"
+          ],
+          "answer": "tanda petik",
+          "discussion": "Tanda petik digunakan untuk mengapit petikan langsung."
+        },
+        {
+          "id": "BIN-B03-M01-006",
+          "type": "PG",
+          "text": "Dalam wawancara tentang robotika, Ucok menceritakan bahwa sejak kecil ia senang ....",
+          "options": [
+            "membongkar peralatan elektronik",
+            "mengoleksi perangko",
+            "memelihara ikan koi",
+            "membuat kerajinan kain"
+          ],
+          "answer": "membongkar peralatan elektronik",
+          "discussion": "Dalam bacaan wawancara, Ucok diceritakan tertarik pada robotika sejak kecil dan suka membongkar alat elektronik."
+        },
+        {
+          "id": "BIN-B03-M01-007",
+          "type": "PG",
+          "text": "Siapa yang mendaftarkan Ucok ke klub robotika?",
+          "options": [
+            "Ibunya",
+            "Ayahnya",
+            "Temannya",
+            "Kepala sekolah"
+          ],
+          "answer": "Ayahnya",
+          "discussion": "Dalam cerita wawancara Ucok, ayahnya mendaftarkan Ucok ke klub robotika."
+        },
+        {
+          "id": "BIN-B03-M01-008",
+          "type": "PG",
+          "text": "Robot yang dibuat Ucok dan mendapat perhatian juri adalah ....",
+          "options": [
+            "robot penyiram tanaman otomatis",
+            "robot pengantar surat",
+            "robot penyapu halaman",
+            "robot pengatur lampu lalu lintas"
+          ],
+          "answer": "robot penyiram tanaman otomatis",
+          "discussion": "Ucok membuat robot penyiram tanaman otomatis yang disukai para juri."
+        },
+        {
+          "id": "BIN-B03-M01-009",
+          "type": "PG",
+          "text": "Afrilla meraih prestasi dalam bidang olahraga ....",
+          "options": [
+            "renang",
+            "pencak silat",
+            "bulu tangkis",
+            "senam"
+          ],
+          "answer": "pencak silat",
+          "discussion": "Bacaan tentang Afrilla menceritakan prestasinya dalam cabang pencak silat."
+        },
+        {
+          "id": "BIN-B03-M01-010",
+          "type": "PG",
+          "text": "Kalimat yang merupakan petikan langsung adalah ....",
+          "options": [
+            "Ibu berkata bahwa aku harus belajar.",
+            "Rani mengatakan ia sudah siap.",
+            "“Saya akan berlatih setiap hari,” kata Dita.",
+            "Dita berjanji untuk berlatih."
+          ],
+          "answer": "“Saya akan berlatih setiap hari,” kata Dita.",
+          "discussion": "Petikan langsung menuliskan ucapan seseorang secara langsung dan diapit tanda petik."
+        },
+        {
+          "id": "BIN-B03-M01-011",
+          "type": "PG",
+          "text": "Ucok belajar robotika melalui beberapa cara. Kesimpulan yang paling tepat adalah ....",
+          "options": [
+            "Ia hanya mengandalkan keberuntungan.",
+            "Ia belajar dengan membaca, menonton video, dan mengikuti klub.",
+            "Ia tidak membutuhkan latihan.",
+            "Ia belajar hanya ketika mengikuti lomba."
+          ],
+          "answer": "Ia belajar dengan membaca, menonton video, dan mengikuti klub.",
+          "discussion": "Informasi dalam bacaan menunjukkan Ucok mengembangkan minatnya melalui berbagai kegiatan belajar."
+        },
+        {
+          "id": "BIN-B03-M01-012",
+          "type": "PG",
+          "text": "Setelah robot buatannya disukai juri, Ucok menjadi lebih percaya diri. Hal itu menunjukkan bahwa ....",
+          "options": [
+            "pengalaman berhasil dapat meningkatkan kepercayaan diri",
+            "lomba selalu mudah dimenangkan",
+            "pujian membuat seseorang berhenti belajar",
+            "robotika tidak membutuhkan latihan"
+          ],
+          "answer": "pengalaman berhasil dapat meningkatkan kepercayaan diri",
+          "discussion": "Keberhasilan membuat karya yang diapresiasi dapat menumbuhkan keyakinan pada kemampuan diri."
+        },
+        {
+          "id": "BIN-B03-M01-013",
+          "type": "PG",
+          "text": "Nasihat Ucok agar tidak takut melakukan kesalahan mengajarkan kita untuk ....",
+          "options": [
+            "menghindari semua tantangan",
+            "terus mencoba dan belajar dari kesalahan",
+            "berhenti saat gagal",
+            "menunggu orang lain menyelesaikan tugas"
+          ],
+          "answer": "terus mencoba dan belajar dari kesalahan",
+          "discussion": "Kesalahan dapat menjadi bagian dari proses belajar jika kita mau memperbaikinya."
+        },
+        {
+          "id": "BIN-B03-M01-014",
+          "type": "PG",
+          "text": "DeLiang menunjukkan minat pada kegiatan membaca dan menulis. Sikap yang dapat kita teladani adalah ....",
+          "options": [
+            "mengembangkan minat melalui kebiasaan positif",
+            "meninggalkan kegiatan yang disukai",
+            "menunggu orang lain menentukan cita-cita",
+            "menghindari kegiatan baru"
+          ],
+          "answer": "mengembangkan minat melalui kebiasaan positif",
+          "discussion": "Minat dapat berkembang melalui kebiasaan yang dilakukan dengan tekun."
+        },
+        {
+          "id": "BIN-B03-M01-015",
+          "type": "PG",
+          "text": "Dukungan keluarga terhadap minat anak sebaiknya berupa ....",
+          "options": [
+            "memaksakan satu pilihan",
+            "memberi kesempatan dan semangat untuk berkembang",
+            "membandingkan anak dengan orang lain",
+            "melarang anak mencoba hal baru"
+          ],
+          "answer": "memberi kesempatan dan semangat untuk berkembang",
+          "discussion": "Dukungan yang baik membantu anak mengeksplorasi minat dan mengembangkan kemampuannya."
+        },
+        {
+          "id": "BIN-B03-M01-016",
+          "type": "PG",
+          "text": "Jika ingin mengetahui pengalaman seorang atlet, narasumber yang paling sesuai adalah ....",
+          "options": [
+            "atlet yang pernah mengikuti pertandingan",
+            "penjual alat tulis",
+            "penjaga perpustakaan",
+            "wisatawan yang belum pernah berolahraga"
+          ],
+          "answer": "atlet yang pernah mengikuti pertandingan",
+          "discussion": "Narasumber sebaiknya memiliki pengalaman atau pengetahuan yang sesuai dengan topik wawancara."
+        },
+        {
+          "id": "BIN-B03-M01-017",
+          "type": "PG",
+          "text": "Pertanyaan wawancara yang paling tepat untuk mengetahui alasan seseorang memilih suatu pekerjaan adalah ....",
+          "options": [
+            "Apakah pekerjaanmu menyenangkan?",
+            "Mengapa kamu memilih pekerjaan tersebut?",
+            "Kapan kamu pulang?",
+            "Siapa nama tetanggamu?"
+          ],
+          "answer": "Mengapa kamu memilih pekerjaan tersebut?",
+          "discussion": "Pertanyaan tersebut langsung menggali alasan narasumber memilih pekerjaannya."
+        },
+        {
+          "id": "BIN-B03-M01-018",
+          "type": "PG",
+          "text": "Kalimat yang menggunakan tanda petik dengan tepat adalah ....",
+          "options": [
+            "Rina berkata, “Aku siap mengikuti wawancara.”",
+            "Rina berkata “Aku siap mengikuti wawancara”.",
+            "“Rina berkata, Aku siap mengikuti wawancara.”",
+            "Rina “berkata, Aku siap mengikuti wawancara.”"
+          ],
+          "answer": "Rina berkata, “Aku siap mengikuti wawancara.”",
+          "discussion": "Tanda petik mengapit ucapan langsung, sedangkan koma memisahkan pengantar petikan."
+        },
+        {
+          "id": "BIN-B03-M01-019",
+          "type": "PG",
+          "text": "Bentuk kalimat tidak langsung dari “Saya berlatih setiap sore,” kata Beni adalah ....",
+          "options": [
+            "Beni berkata, “Saya berlatih setiap sore.”",
+            "Beni berkata bahwa ia berlatih setiap sore.",
+            "“Beni berlatih setiap sore,” kata saya.",
+            "Beni bertanya, apakah saya berlatih."
+          ],
+          "answer": "Beni berkata bahwa ia berlatih setiap sore.",
+          "discussion": "Kalimat tidak langsung menyampaikan kembali ucapan tanpa mengutip kata-kata persisnya."
+        },
+        {
+          "id": "BIN-B03-M01-020",
+          "type": "PG",
+          "text": "Bentuk kalimat langsung dari Ibu mengatakan bahwa ia akan datang besok adalah ....",
+          "options": [
+            "Ibu mengatakan bahwa ia akan datang besok.",
+            "Ibu berkata, “Saya akan datang besok.”",
+            "Ibu bertanya apakah akan datang besok.",
+            "Ibu datang kemarin."
+          ],
+          "answer": "Ibu berkata, “Saya akan datang besok.”",
+          "discussion": "Kalimat langsung menampilkan ucapan sebagaimana diucapkan dan menggunakan tanda petik."
+        },
+        {
+          "id": "BIN-B03-M01-021",
+          "type": "PG",
+          "text": "Sapaan yang santun untuk membuka wawancara dengan seorang guru adalah ....",
+          "options": [
+            "Hei, kamu!",
+            "Selamat pagi, Bapak/Ibu. Terima kasih telah bersedia diwawancarai.",
+            "Cepat jawab pertanyaan saya.",
+            "Aku mau tanya, ya."
+          ],
+          "answer": "Selamat pagi, Bapak/Ibu. Terima kasih telah bersedia diwawancarai.",
+          "discussion": "Sapaan santun menunjukkan rasa hormat kepada narasumber."
+        },
+        {
+          "id": "BIN-B03-M01-022",
+          "type": "PG",
+          "text": "Saat mewawancarai narasumber yang lebih tua, kata ganti yang paling santun untuk menyebut diri sendiri adalah ....",
+          "options": [
+            "aku",
+            "gue",
+            "saya",
+            "kamu"
+          ],
+          "answer": "saya",
+          "discussion": "Kata “saya” lebih santun dan sesuai digunakan dalam situasi wawancara formal."
+        },
+        {
+          "id": "BIN-B03-M01-023",
+          "type": "PG",
+          "text": "Pertanyaan terbuka yang tepat untuk menggali pengalaman narasumber adalah ....",
+          "options": [
+            "Apakah kamu senang?",
+            "Apakah kegiatan itu selesai?",
+            "Bagaimana proses kamu mempelajari keterampilan tersebut?",
+            "Apakah jawabannya benar?"
+          ],
+          "answer": "Bagaimana proses kamu mempelajari keterampilan tersebut?",
+          "discussion": "Pertanyaan terbuka mendorong narasumber menjelaskan pengalaman secara lebih luas."
+        },
+        {
+          "id": "BIN-B03-M01-024",
+          "type": "PG",
+          "text": "Ayu belajar membuat kerajinan dari batang pisang dengan cara ....",
+          "options": [
+            "mengamati neneknya dan mencoba sendiri",
+            "membeli semua kerajinan di toko",
+            "menonton pertandingan olahraga",
+            "membaca berita tentang robot"
+          ],
+          "answer": "mengamati neneknya dan mencoba sendiri",
+          "discussion": "Bacaan menceritakan Ayu belajar dengan mengamati neneknya lalu mencoba membuat kerajinan."
+        },
+        {
+          "id": "BIN-B03-M01-025",
+          "type": "PG",
+          "text": "Ayu membuat keranjang dari batang pisang dan menjualnya di pasar. Informasi tersebut menunjukkan bahwa ....",
+          "options": [
+            "keterampilan dapat dikembangkan menjadi kegiatan produktif",
+            "kerajinan tidak memiliki manfaat",
+            "semua kerajinan harus dibuat di pabrik",
+            "Ayu tidak menyukai hasil karyanya"
+          ],
+          "answer": "keterampilan dapat dikembangkan menjadi kegiatan produktif",
+          "discussion": "Keterampilan membuat kerajinan dapat menghasilkan karya yang bermanfaat dan bernilai jual."
+        },
+        {
+          "id": "BIN-B03-M01-026",
+          "type": "PG",
+          "text": "Saat menyusun pertanyaan wawancara, pewawancara sebaiknya ....",
+          "options": [
+            "menyusun pertanyaan sesuai tujuan dan topik",
+            "menulis pertanyaan yang tidak berhubungan",
+            "mengajukan semua pertanyaan sekaligus tanpa urutan",
+            "menghindari pertanyaan lanjutan"
+          ],
+          "answer": "menyusun pertanyaan sesuai tujuan dan topik",
+          "discussion": "Pertanyaan perlu disusun sesuai tujuan agar informasi yang diperoleh relevan."
+        },
+        {
+          "id": "BIN-B03-M01-027",
+          "type": "PG",
+          "text": "Tujuan utama membuat laporan hasil wawancara adalah ....",
+          "options": [
+            "menyampaikan kembali informasi hasil wawancara secara runtut",
+            "mengubah seluruh jawaban narasumber",
+            "menambahkan cerita yang tidak terjadi",
+            "menilai penampilan narasumber"
+          ],
+          "answer": "menyampaikan kembali informasi hasil wawancara secara runtut",
+          "discussion": "Laporan menyajikan informasi penting dari wawancara secara jelas dan teratur."
+        },
+        {
+          "id": "BIN-B03-M01-028",
+          "type": "PG",
+          "text": "Informasi yang sebaiknya dicantumkan dalam laporan wawancara adalah ....",
+          "options": [
+            "topik, identitas narasumber, dan informasi penting",
+            "pendapat yang tidak pernah disampaikan",
+            "cerita rekaan penulis",
+            "hal-hal yang tidak berkaitan dengan topik"
+          ],
+          "answer": "topik, identitas narasumber, dan informasi penting",
+          "discussion": "Laporan perlu memuat konteks wawancara dan inti informasi yang diperoleh."
+        },
+        {
+          "id": "BIN-B03-M01-029",
+          "type": "PG",
+          "text": "Mengapa pewawancara perlu mendengarkan jawaban narasumber dengan saksama?",
+          "options": [
+            "Agar dapat memahami jawaban dan mengajukan pertanyaan lanjutan yang sesuai",
+            "Agar dapat segera memotong pembicaraan",
+            "Agar tidak perlu mencatat",
+            "Agar wawancara cepat dihentikan"
+          ],
+          "answer": "Agar dapat memahami jawaban dan mengajukan pertanyaan lanjutan yang sesuai",
+          "discussion": "Mendengarkan dengan saksama membantu pewawancara menangkap informasi dan menentukan pertanyaan lanjutan."
+        },
+        {
+          "id": "BIN-B03-M01-030",
+          "type": "PG",
+          "text": "Ketika narasumber belum menjawab dengan jelas, tindakan yang tepat adalah ....",
+          "options": [
+            "menyimpulkan sendiri jawabannya",
+            "mengajukan pertanyaan penjelas dengan sopan",
+            "mengganti topik tanpa alasan",
+            "menertawakan narasumber"
+          ],
+          "answer": "mengajukan pertanyaan penjelas dengan sopan",
+          "discussion": "Pertanyaan penjelas membantu memperoleh informasi yang lebih tepat tanpa bersikap tidak sopan."
+        },
+        {
+          "id": "BIN-B03-M01-031",
+          "type": "PG",
+          "text": "Dalam wawancara tentang usaha sayur, Kak Belinda menjelaskan masalah petani yang kesulitan ....",
+          "options": [
+            "memasarkan hasil panen",
+            "menanam pohon di hutan",
+            "membeli peralatan sekolah",
+            "mengikuti perlombaan"
+          ],
+          "answer": "memasarkan hasil panen",
+          "discussion": "Kak Belinda terdorong membantu petani yang memiliki hasil panen baik tetapi kesulitan menjualnya."
+        },
+        {
+          "id": "BIN-B03-M01-032",
+          "type": "PG",
+          "text": "Sayursegar membantu petani dan konsumen dengan cara ....",
+          "options": [
+            "memperpendek rantai distribusi hasil pertanian",
+            "menghentikan penjualan sayuran",
+            "menyimpan semua hasil panen tanpa dijual",
+            "menjual produk hanya kepada petani"
+          ],
+          "answer": "memperpendek rantai distribusi hasil pertanian",
+          "discussion": "Sayursegar menghubungkan hasil panen petani secara langsung dengan pembeli sehingga distribusi lebih singkat."
+        },
+        {
+          "id": "BIN-B03-M01-033",
+          "type": "PG",
+          "text": "Manfaat rantai distribusi yang lebih pendek bagi petani menurut bacaan adalah ....",
+          "options": [
+            "petani berpeluang memperoleh keuntungan lebih baik",
+            "petani tidak perlu menanam lagi",
+            "hasil panen menjadi tidak segar",
+            "petani harus membuang hasil panen"
+          ],
+          "answer": "petani berpeluang memperoleh keuntungan lebih baik",
+          "discussion": "Dengan jalur distribusi yang lebih singkat, petani dapat memperoleh bagian keuntungan yang lebih baik."
+        },
+        {
+          "id": "BIN-B03-M01-034",
+          "type": "PG",
+          "text": "Sikap Kak Belinda yang dapat diteladani dari pendirian Sayursegar adalah ....",
+          "options": [
+            "peka terhadap masalah orang lain dan berusaha mencari solusi",
+            "mengabaikan kesulitan petani",
+            "hanya memikirkan keuntungan pribadi",
+            "menolak bekerja sama"
+          ],
+          "answer": "peka terhadap masalah orang lain dan berusaha mencari solusi",
+          "discussion": "Usaha tersebut berawal dari kepedulian terhadap kesulitan petani dan konsumen."
+        },
+        {
+          "id": "BIN-B03-M01-035",
+          "type": "PG",
+          "text": "Kak Obi tertarik membudidayakan ikan koi setelah ....",
+          "options": [
+            "melihat koi melalui media sosial",
+            "membaca buku tentang tanaman",
+            "mengikuti lomba robotika",
+            "berkunjung ke perkebunan sayur"
+          ],
+          "answer": "melihat koi melalui media sosial",
+          "discussion": "Dalam dialog, Kak Obi menceritakan ketertarikannya setelah melihat ikan koi di media sosial."
+        },
+        {
+          "id": "BIN-B03-M01-036",
+          "type": "PG",
+          "text": "Salah satu tantangan dalam budidaya koi saat cuaca panas adalah ....",
+          "options": [
+            "suhu air meningkat dan membuat ikan stres",
+            "air berubah menjadi es",
+            "ikan tidak membutuhkan oksigen",
+            "kolam menjadi lebih dalam"
+          ],
+          "answer": "suhu air meningkat dan membuat ikan stres",
+          "discussion": "Cuaca panas dapat menaikkan suhu air sehingga ikan menjadi stres dan berisiko mati."
+        },
+        {
+          "id": "BIN-B03-M01-037",
+          "type": "PG",
+          "text": "Tindakan yang dapat dilakukan untuk mengurangi dampak panas pada kolam koi adalah ....",
+          "options": [
+            "memberi naungan dan memeriksa suhu air",
+            "membiarkan kolam tanpa pemeriksaan",
+            "menguras kolam setiap jam",
+            "menutup kolam rapat tanpa sirkulasi"
+          ],
+          "answer": "memberi naungan dan memeriksa suhu air",
+          "discussion": "Naungan membantu mengurangi paparan panas, sedangkan pemeriksaan suhu membantu menjaga kondisi air."
+        },
+        {
+          "id": "BIN-B03-M01-038",
+          "type": "PG",
+          "text": "Ucok, Ayu, dan Kak Belinda memiliki bidang kegiatan berbeda. Persamaan sikap yang dapat dipelajari dari kisah mereka adalah ....",
+          "options": [
+            "mengembangkan minat dan berusaha memberi manfaat",
+            "menghindari tantangan",
+            "menunggu keberhasilan tanpa berlatih",
+            "berhenti ketika menemui kesulitan"
+          ],
+          "answer": "mengembangkan minat dan berusaha memberi manfaat",
+          "discussion": "Ketiganya menunjukkan usaha mengembangkan minat atau gagasan dan menghasilkan sesuatu yang bermanfaat."
+        },
+        {
+          "id": "BIN-B03-M01-039",
+          "type": "PG",
+          "text": "Urutan kegiatan wawancara yang paling tepat adalah ....",
+          "options": [
+            "menentukan tujuan, menyiapkan pertanyaan, melakukan wawancara, menyusun laporan",
+            "menyusun laporan, menentukan tujuan, lalu mencari narasumber",
+            "melakukan wawancara, baru menentukan topik",
+            "menulis kesimpulan, lalu menyiapkan pertanyaan"
+          ],
+          "answer": "menentukan tujuan, menyiapkan pertanyaan, melakukan wawancara, menyusun laporan",
+          "discussion": "Wawancara dilakukan setelah persiapan dan hasilnya kemudian disusun menjadi laporan."
+        },
+        {
+          "id": "BIN-B03-M01-040",
+          "type": "PG",
+          "text": "Afrilla tetap berlatih meskipun pernah mengalami kesulitan menjelang pertandingan. Sikap yang paling tepat diteladani adalah ....",
+          "options": [
+            "disiplin dan tidak mudah menyerah",
+            "menghindari latihan",
+            "menyalahkan orang lain",
+            "berhenti setelah mengalami kesulitan"
+          ],
+          "answer": "disiplin dan tidak mudah menyerah",
+          "discussion": "Kisah Afrilla menonjolkan latihan tekun dan usaha menghadapi tantangan."
+        },
+        {
+          "id": "BIN-B03-M01-041",
+          "type": "PG",
+          "text": "Jika ingin mewawancarai seseorang tentang cara meraih prestasi, pertanyaan lanjutan yang paling membantu adalah ....",
+          "options": [
+            "Apa saja kebiasaan latihan yang kamu lakukan dan bagaimana kamu menjaganya?",
+            "Apakah kamu suka warna biru?",
+            "Di mana kamu membeli sepatu?",
+            "Siapa nama teman sebangkumu?"
+          ],
+          "answer": "Apa saja kebiasaan latihan yang kamu lakukan dan bagaimana kamu menjaganya?",
+          "discussion": "Pertanyaan lanjutan yang baik menggali proses dan kebiasaan yang mendukung pencapaian prestasi."
+        },
+        {
+          "id": "BIN-B03-M01-042",
+          "type": "PG",
+          "text": "Dalam kisah Lili yang bercita-cita menjadi perawat, pertanyaan wawancara yang paling sesuai untuk menggali motivasinya adalah ....",
+          "options": [
+            "Apa yang membuatmu ingin menjadi perawat?",
+            "Berapa harga tas sekolahmu?",
+            "Apa makanan kesukaan tetanggamu?",
+            "Kapan kamu membeli sepeda?"
+          ],
+          "answer": "Apa yang membuatmu ingin menjadi perawat?",
+          "discussion": "Pertanyaan tersebut berhubungan langsung dengan cita-cita dan alasan yang mendorong Lili."
+        },
+        {
+          "id": "BIN-B03-M01-043",
+          "type": "PG",
+          "text": "Jika seorang narasumber menceritakan bahwa ia pernah ragu tetapi tetap melanjutkan pendidikan, simpulan yang paling tepat adalah ....",
+          "options": [
+            "keraguan dapat dihadapi dengan ketekunan dan dukungan",
+            "orang yang ragu harus selalu berhenti",
+            "pendidikan tidak membutuhkan usaha",
+            "semua orang memiliki pengalaman yang sama"
+          ],
+          "answer": "keraguan dapat dihadapi dengan ketekunan dan dukungan",
+          "discussion": "Informasi itu mendukung simpulan tentang ketekunan menghadapi keraguan; jangan menambahkan rincian yang tidak disampaikan narasumber."
+        },
+        {
+          "id": "BIN-B03-M01-044",
+          "type": "PG",
+          "text": "Laporan hasil wawancara yang baik harus ....",
+          "options": [
+            "sesuai dengan jawaban narasumber dan disusun runtut",
+            "berisi pendapat penulis saja",
+            "mengubah jawaban agar lebih menarik",
+            "menghilangkan informasi penting"
+          ],
+          "answer": "sesuai dengan jawaban narasumber dan disusun runtut",
+          "discussion": "Laporan harus akurat, tidak memelintir jawaban, dan memiliki susunan yang mudah diikuti."
+        },
+        {
+          "id": "BIN-B03-M01-045",
+          "type": "PG",
+          "text": "Mengapa pewawancara perlu mencatat kata kunci saat wawancara?",
+          "options": [
+            "Agar informasi penting tidak terlupa ketika menyusun laporan",
+            "Agar tidak perlu mendengarkan narasumber",
+            "Agar dapat mengganti jawaban narasumber",
+            "Agar wawancara tidak memiliki tujuan"
+          ],
+          "answer": "Agar informasi penting tidak terlupa ketika menyusun laporan",
+          "discussion": "Catatan kata kunci membantu menjaga ketepatan informasi saat laporan ditulis."
+        },
+        {
+          "id": "BIN-B03-M01-046",
+          "type": "PG",
+          "text": "Kalimat laporan yang paling tepat dan objektif adalah ....",
+          "options": [
+            "Kak Belinda menjelaskan bahwa Sayursegar membantu menghubungkan petani dengan pembeli.",
+            "Kak Belinda pasti orang paling hebat di dunia.",
+            "Semua petani selalu mengalami masalah yang sama.",
+            "Sayursegar tidak pernah menghadapi tantangan."
+          ],
+          "answer": "Kak Belinda menjelaskan bahwa Sayursegar membantu menghubungkan petani dengan pembeli.",
+          "discussion": "Kalimat objektif menyampaikan informasi yang didukung hasil wawancara tanpa pujian atau generalisasi berlebihan."
+        },
+        {
+          "id": "BIN-B03-M01-047",
+          "type": "PG",
+          "text": "Jika jawaban narasumber belum menjelaskan cara mengatasi masalah, pertanyaan susulan yang tepat adalah ....",
+          "options": [
+            "Langkah apa yang biasanya Anda lakukan untuk mengatasinya?",
+            "Apakah Anda suka bepergian?",
+            "Siapa nama teman Anda?",
+            "Apakah wawancara ini sudah selesai?"
+          ],
+          "answer": "Langkah apa yang biasanya Anda lakukan untuk mengatasinya?",
+          "discussion": "Pertanyaan susulan harus berkaitan dengan jawaban sebelumnya dan menggali informasi yang belum jelas."
+        },
+        {
+          "id": "BIN-B03-M01-048",
+          "type": "PG",
+          "text": "Agar laporan wawancara mudah dipahami, informasi sebaiknya disusun ....",
+          "options": [
+            "berdasarkan urutan dan hubungan antargagasan yang jelas",
+            "secara acak tanpa memperhatikan topik",
+            "dengan mengulang satu jawaban berkali-kali",
+            "dengan menghilangkan bagian penting"
+          ],
+          "answer": "berdasarkan urutan dan hubungan antargagasan yang jelas",
+          "discussion": "Susunan runtut membantu pembaca mengikuti informasi dari awal hingga akhir."
+        },
+        {
+          "id": "BIN-B03-M01-049",
+          "type": "PG",
+          "text": "Saat menulis laporan, pewawancara menemukan satu jawaban yang tidak tercatat dengan jelas. Sikap yang paling bertanggung jawab adalah ....",
+          "options": [
+            "memastikan kembali informasi kepada narasumber jika memungkinkan",
+            "mengarang jawaban yang dianggap cocok",
+            "menulis jawaban yang berbeda",
+            "menghapus semua hasil wawancara"
+          ],
+          "answer": "memastikan kembali informasi kepada narasumber jika memungkinkan",
+          "discussion": "Informasi yang belum pasti perlu diverifikasi, bukan ditebak atau direka."
+        },
+        {
+          "id": "BIN-B03-M01-050",
+          "type": "PG",
+          "text": "Dari berbagai kisah dalam bab ini, kesimpulan umum yang paling tepat tentang minat dan bakat adalah ....",
+          "options": [
+            "dapat berkembang melalui latihan, pengalaman, dan ketekunan",
+            "muncul tanpa perlu dicoba",
+            "hanya dimiliki orang yang menang lomba",
+            "tidak berhubungan dengan usaha"
+          ],
+          "answer": "dapat berkembang melalui latihan, pengalaman, dan ketekunan",
+          "discussion": "Kisah-kisah dalam bab menunjukkan bahwa minat dan kemampuan dapat dikembangkan melalui proses belajar dan berlatih."
+        }
+      ]
+    }
+  ]
+}
