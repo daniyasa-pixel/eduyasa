@@ -1,0 +1,664 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "BIN-B04",
+      "chapter_title": "Bab 4: Dari Hobi Menjadi Profesi",
+      "questions": [
+        {
+          "id": "BIN-B04-M01-001",
+          "type": "PG",
+          "text": "Apa yang dimaksud dengan pengamatan?",
+          "options": [
+            "Kegiatan memperhatikan objek atau peristiwa untuk memperoleh informasi",
+            "Kegiatan mengarang cerita tentang suatu objek",
+            "Kegiatan menilai pekerjaan orang lain",
+            "Kegiatan menghafalkan nama-nama benda"
+          ],
+          "answer": "Kegiatan memperhatikan objek atau peristiwa untuk memperoleh informasi",
+          "discussion": "Pengamatan dilakukan dengan memperhatikan objek atau peristiwa agar kita memperoleh informasi."
+        },
+        {
+          "id": "BIN-B04-M01-002",
+          "type": "PG",
+          "text": "Apa tujuan utama laporan hasil pengamatan?",
+          "options": [
+            "Menghibur pembaca dengan cerita khayalan",
+            "Menyampaikan informasi hasil pengamatan kepada orang lain",
+            "Menceritakan pendapat pribadi penulis",
+            "Membujuk pembaca mengikuti keinginan penulis"
+          ],
+          "answer": "Menyampaikan informasi hasil pengamatan kepada orang lain",
+          "discussion": "Laporan hasil pengamatan menyampaikan temuan agar orang lain dapat mengetahui objek atau peristiwa yang diamati."
+        },
+        {
+          "id": "BIN-B04-M01-003",
+          "type": "PG",
+          "text": "Bagian laporan yang berisi ringkasan informasi penting dari hasil pengamatan disebut ....",
+          "options": [
+            "Judul",
+            "Pengamat",
+            "Kesimpulan",
+            "Tempat pengamatan"
+          ],
+          "answer": "Kesimpulan",
+          "discussion": "Kesimpulan merangkum informasi penting yang ditemukan selama pengamatan."
+        },
+        {
+          "id": "BIN-B04-M01-004",
+          "type": "PG",
+          "text": "Pernyataan yang dapat dibuktikan kebenarannya disebut ....",
+          "options": [
+            "Opini",
+            "Fakta",
+            "Saran",
+            "Dugaan"
+          ],
+          "answer": "Fakta",
+          "discussion": "Fakta adalah informasi atau pernyataan yang dapat diperiksa dan dibuktikan."
+        },
+        {
+          "id": "BIN-B04-M01-005",
+          "type": "PG",
+          "text": "Pendapat atau penilaian seseorang yang dapat berbeda dari pendapat orang lain disebut ....",
+          "options": [
+            "Fakta",
+            "Data",
+            "Opini",
+            "Hasil pengamatan"
+          ],
+          "answer": "Opini",
+          "discussion": "Opini merupakan pendapat, kesan, atau penilaian seseorang."
+        },
+        {
+          "id": "BIN-B04-M01-006",
+          "type": "PG",
+          "text": "Jika ingin mengetahui pekerjaan pustakawan di sekolah, tempat yang paling tepat untuk diamati adalah ....",
+          "options": [
+            "Lapangan",
+            "Perpustakaan",
+            "Tempat parkir",
+            "Ruang UKS"
+          ],
+          "answer": "Perpustakaan",
+          "discussion": "Perpustakaan merupakan tempat pustakawan menjalankan tugasnya sehingga sesuai dengan objek pengamatan."
+        },
+        {
+          "id": "BIN-B04-M01-007",
+          "type": "PG",
+          "text": "Kata keterangan yang menjelaskan kapan kegiatan berlangsung disebut keterangan ....",
+          "options": [
+            "Tempat",
+            "Cara",
+            "Waktu",
+            "Intensitas"
+          ],
+          "answer": "Waktu",
+          "discussion": "Keterangan waktu memberikan informasi kapan suatu kegiatan berlangsung."
+        },
+        {
+          "id": "BIN-B04-M01-008",
+          "type": "PG",
+          "text": "Manakah kalimat yang menggunakan huruf kapital dengan tepat?",
+          "options": [
+            "rani mengamati taman sekolah.",
+            "Rani mengamati taman sekolah.",
+            "Rani Mengamati Taman Sekolah.",
+            "rani Mengamati taman sekolah."
+          ],
+          "answer": "Rani mengamati taman sekolah.",
+          "discussion": "Huruf kapital digunakan pada awal kalimat dan nama orang."
+        },
+        {
+          "id": "BIN-B04-M01-009",
+          "type": "PG",
+          "text": "Hobi adalah ....",
+          "options": [
+            "Pekerjaan yang selalu menghasilkan uang",
+            "Kegiatan yang disukai dan biasanya dilakukan pada waktu luang",
+            "Kegiatan yang harus dilakukan di sekolah",
+            "Keahlian yang hanya dimiliki orang dewasa"
+          ],
+          "answer": "Kegiatan yang disukai dan biasanya dilakukan pada waktu luang",
+          "discussion": "Hobi merupakan kegiatan yang disukai seseorang dan biasanya dilakukan pada waktu luang."
+        },
+        {
+          "id": "BIN-B04-M01-010",
+          "type": "PG",
+          "text": "Laporan hasil pengamatan yang disusun secara sistematis berarti ....",
+          "options": [
+            "Ditulis dengan urutan yang jelas",
+            "Berisi banyak pendapat pribadi",
+            "Menggunakan kalimat yang panjang",
+            "Tidak memerlukan kesimpulan"
+          ],
+          "answer": "Ditulis dengan urutan yang jelas",
+          "discussion": "Sistematis berarti informasi disusun dalam urutan yang teratur dan mudah diikuti."
+        },
+        {
+          "id": "BIN-B04-M01-011",
+          "type": "PG",
+          "text": "Rizky Ridho berlatih keras setiap hari, terus meningkatkan kemampuannya, dan tetap berusaha menghadapi tantangan. Kesimpulan yang paling tepat dari informasi tersebut adalah ....",
+          "options": [
+            "Ia hanya mengandalkan bakat sejak lahir",
+            "Ia mengembangkan kemampuan melalui disiplin dan ketekunan",
+            "Ia tidak pernah mengalami kesulitan",
+            "Ia berlatih hanya ketika akan bertanding"
+          ],
+          "answer": "Ia mengembangkan kemampuan melalui disiplin dan ketekunan",
+          "discussion": "Kebiasaan berlatih dan terus memperbaiki kemampuan menunjukkan disiplin serta ketekunan."
+        },
+        {
+          "id": "BIN-B04-M01-012",
+          "type": "PG",
+          "text": "Rizky Ridho pernah dipercaya mengenakan ban kapten ketika menghadapi Bulgaria U-19 pada September 2020. Informasi tersebut menunjukkan bahwa ....",
+          "options": [
+            "Ia dipercaya menjalankan peran kepemimpinan dalam tim",
+            "Ia menjadi pelatih Timnas Indonesia",
+            "Ia berhenti bermain sepak bola",
+            "Ia tidak mengikuti pertandingan internasional"
+          ],
+          "answer": "Ia dipercaya menjalankan peran kepemimpinan dalam tim",
+          "discussion": "Kepercayaan mengenakan ban kapten menunjukkan bahwa ia pernah diberi tanggung jawab memimpin tim."
+        },
+        {
+          "id": "BIN-B04-M01-013",
+          "type": "PG",
+          "text": "Perhatikan kalimat berikut: (1) Setelah itu, ia menyiram tanaman. (2) Setiap pagi, Sinta memeriksa tanaman di halaman. (3) Ia mencatat tanaman yang daunnya menguning. (4) Kemudian, ia membersihkan rumput liar. Urutan yang paling runtut adalah ....",
+          "options": [
+            "(2)–(3)–(4)–(1)",
+            "(1)–(2)–(3)–(4)",
+            "(3)–(1)–(4)–(2)",
+            "(4)–(3)–(2)–(1)"
+          ],
+          "answer": "(2)–(3)–(4)–(1)",
+          "discussion": "Paragraf dimulai dengan kegiatan utama, dilanjutkan pemeriksaan, pembersihan, lalu penyiraman."
+        },
+        {
+          "id": "BIN-B04-M01-014",
+          "type": "PG",
+          "text": "Semua kalimat berikut membahas kegiatan dokter di puskesmas, kecuali ....",
+          "options": [
+            "Dokter menanyakan keluhan pasien.",
+            "Dokter memeriksa suhu tubuh pasien.",
+            "Dokter bekerja sama dengan perawat.",
+            "Taman sekolah ditanami bunga warna-warni."
+          ],
+          "answer": "Taman sekolah ditanami bunga warna-warni.",
+          "discussion": "Kalimat tentang taman sekolah tidak mendukung gagasan utama mengenai kegiatan dokter."
+        },
+        {
+          "id": "BIN-B04-M01-015",
+          "type": "PG",
+          "text": "Saat mengamati profesi pedagang kantin, informasi yang paling relevan untuk dicatat adalah ....",
+          "options": [
+            "Warna rumah pedagang",
+            "Cara pedagang melayani pembeli dan menata dagangan",
+            "Makanan kesukaan pengamat",
+            "Nama seluruh teman sekelas"
+          ],
+          "answer": "Cara pedagang melayani pembeli dan menata dagangan",
+          "discussion": "Informasi tersebut berkaitan langsung dengan tugas dan kegiatan profesi yang diamati."
+        },
+        {
+          "id": "BIN-B04-M01-016",
+          "type": "PG",
+          "text": "Seorang siswa menulis, “Menurut saya, pustakawan adalah orang paling hebat di sekolah.” Pernyataan tersebut termasuk opini karena ....",
+          "options": [
+            "Dapat dihitung dengan alat ukur",
+            "Berisi penilaian pribadi",
+            "Menyebutkan tempat kerja",
+            "Menjelaskan kegiatan yang terlihat"
+          ],
+          "answer": "Berisi penilaian pribadi",
+          "discussion": "Ungkapan “menurut saya” dan “paling hebat” menunjukkan penilaian subjektif."
+        },
+        {
+          "id": "BIN-B04-M01-017",
+          "type": "PG",
+          "text": "Perhatikan kalimat: “Para siswa mengamati tanaman dengan teliti di kebun sekolah.” Kata keterangan cara pada kalimat tersebut adalah ....",
+          "options": [
+            "Para siswa",
+            "Mengamati",
+            "Dengan teliti",
+            "Di kebun sekolah"
+          ],
+          "answer": "Dengan teliti",
+          "discussion": "Frasa “dengan teliti” menjelaskan bagaimana siswa melakukan pengamatan."
+        },
+        {
+          "id": "BIN-B04-M01-018",
+          "type": "PG",
+          "text": "Perhatikan kalimat: “Kegiatan pengamatan dilakukan pada pagi hari.” Keterangan waktu pada kalimat tersebut adalah ....",
+          "options": [
+            "Kegiatan pengamatan",
+            "Dilakukan",
+            "Pada pagi hari",
+            "Pengamatan dilakukan"
+          ],
+          "answer": "Pada pagi hari",
+          "discussion": "Frasa “pada pagi hari” menjelaskan kapan pengamatan dilakukan."
+        },
+        {
+          "id": "BIN-B04-M01-019",
+          "type": "PG",
+          "text": "Mengapa catatan pengamatan sebaiknya dibuat saat kegiatan berlangsung?",
+          "options": [
+            "Agar informasi yang ditemukan tidak mudah terlupakan",
+            "Agar laporan menjadi lebih panjang",
+            "Agar pengamat tidak perlu membaca kembali",
+            "Agar pendapat pribadi terlihat lebih banyak"
+          ],
+          "answer": "Agar informasi yang ditemukan tidak mudah terlupakan",
+          "discussion": "Mencatat saat pengamatan berlangsung membantu menjaga ketepatan dan kelengkapan informasi."
+        },
+        {
+          "id": "BIN-B04-M01-020",
+          "type": "PG",
+          "text": "Pak Bayan membuat alat tangkap ikan yang ramah lingkungan dan mengajak pemuda desa menjaga laut. Sikap yang dapat disimpulkan dari tindakannya adalah ....",
+          "options": [
+            "Tidak peduli terhadap lingkungan",
+            "Peduli terhadap kelestarian laut dan masyarakat",
+            "Hanya ingin bekerja sendiri",
+            "Mengutamakan hasil tangkapan sebanyak-banyaknya"
+          ],
+          "answer": "Peduli terhadap kelestarian laut dan masyarakat",
+          "discussion": "Tindakannya menunjukkan kepedulian terhadap lingkungan laut dan keinginan mengajak masyarakat ikut menjaganya."
+        },
+        {
+          "id": "BIN-B04-M01-021",
+          "type": "PG",
+          "text": "Kak Awang sejak kecil senang membongkar dan merakit mainan. Saat SMA, ia belajar koding dan membuat gim sederhana. Kini ia menjadi desainer gim edukatif. Hal yang paling mendukung perubahan hobinya menjadi profesi adalah ....",
+          "options": [
+            "Ia berhenti mencoba hal baru",
+            "Ia mengembangkan minat melalui belajar dan berlatih",
+            "Ia hanya mengikuti pilihan teman",
+            "Ia menghindari masukan dari orang lain"
+          ],
+          "answer": "Ia mengembangkan minat melalui belajar dan berlatih",
+          "discussion": "Kisah Kak Awang menunjukkan bahwa hobi dapat berkembang melalui latihan, belajar, dan kemauan menerima masukan."
+        },
+        {
+          "id": "BIN-B04-M01-022",
+          "type": "PG",
+          "text": "Rina awalnya memasak untuk keluarga. Teman-temannya menyukai masakannya, lalu ia mulai menjual makanan secara daring. Peristiwa yang menjadi peluang bagi Rina untuk mengembangkan hobinya adalah ....",
+          "options": [
+            "Teman-temannya menyukai masakannya",
+            "Ia berhenti mencoba resep baru",
+            "Ia tidak memiliki waktu memasak",
+            "Ia pindah ke sekolah lain"
+          ],
+          "answer": "Teman-temannya menyukai masakannya",
+          "discussion": "Ketertarikan teman-temannya memberi peluang bagi Rina untuk mulai menjual makanan."
+        },
+        {
+          "id": "BIN-B04-M01-023",
+          "type": "PG",
+          "text": "Dalam laporan hasil pengamatan, bagian “objek pengamatan” berisi ....",
+          "options": [
+            "Nama orang yang menulis laporan",
+            "Hal atau sesuatu yang diamati",
+            "Pendapat pembaca tentang laporan",
+            "Daftar alat tulis yang digunakan"
+          ],
+          "answer": "Hal atau sesuatu yang diamati",
+          "discussion": "Objek pengamatan menjelaskan benda, tempat, hewan, kegiatan, atau peristiwa yang menjadi fokus pengamatan."
+        },
+        {
+          "id": "BIN-B04-M01-024",
+          "type": "PG",
+          "text": "Seorang siswa mengamati kucing peliharaan selama seminggu. Ia mencatat bahwa kucing aktif pada pagi dan sore hari serta tidur di sofa pada siang hari. Kesimpulan yang sesuai adalah ....",
+          "options": [
+            "Kucing selalu tidur sepanjang hari",
+            "Kucing memiliki waktu aktivitas dan istirahat yang berbeda",
+            "Kucing tidak pernah makan",
+            "Kucing hanya aktif pada malam hari"
+          ],
+          "answer": "Kucing memiliki waktu aktivitas dan istirahat yang berbeda",
+          "discussion": "Catatan menunjukkan kucing aktif pada pagi dan sore, sedangkan siang hari digunakan untuk beristirahat."
+        },
+        {
+          "id": "BIN-B04-M01-025",
+          "type": "PG",
+          "text": "Kalimat yang paling tepat untuk laporan objektif adalah ....",
+          "options": [
+            "Dokter itu pasti dokter paling hebat di kota.",
+            "Saya sangat kagum karena ruangannya bagus sekali.",
+            "Dokter menanyakan keluhan pasien sebelum memeriksa suhu tubuhnya.",
+            "Menurut saya, semua pasien senang datang ke sana."
+          ],
+          "answer": "Dokter menanyakan keluhan pasien sebelum memeriksa suhu tubuhnya.",
+          "discussion": "Kalimat tersebut menyampaikan tindakan yang dapat diamati tanpa menambahkan penilaian pribadi."
+        },
+        {
+          "id": "BIN-B04-M01-026",
+          "type": "PG",
+          "text": "Perhatikan kalimat: “Pohon bambu di belakang sekolah tumbuh sangat tinggi.” Frasa “sangat tinggi” merupakan keterangan ....",
+          "options": [
+            "Waktu",
+            "Tempat",
+            "Cara",
+            "Intensitas"
+          ],
+          "answer": "Intensitas",
+          "discussion": "Keterangan intensitas menjelaskan tingkat atau ukuran suatu keadaan."
+        },
+        {
+          "id": "BIN-B04-M01-027",
+          "type": "PG",
+          "text": "Kalimat yang menggunakan kata penghubung untuk menunjukkan urutan kegiatan adalah ....",
+          "options": [
+            "Tanaman itu hijau dan subur.",
+            "Setelah mencatat hasilnya, Dito menyusun laporan.",
+            "Kucing itu lucu sekali.",
+            "Pustakawan bekerja di perpustakaan."
+          ],
+          "answer": "Setelah mencatat hasilnya, Dito menyusun laporan.",
+          "discussion": "Kata “setelah” menunjukkan urutan waktu antara mencatat hasil dan menyusun laporan."
+        },
+        {
+          "id": "BIN-B04-M01-028",
+          "type": "PG",
+          "text": "Mengapa laporan hasil pengamatan perlu bersifat faktual?",
+          "options": [
+            "Agar isinya berdasarkan hal yang benar dan dapat dibuktikan",
+            "Agar penulis bebas menambahkan cerita khayalan",
+            "Agar pembaca menerima semua pendapat penulis",
+            "Agar laporan tidak memerlukan data"
+          ],
+          "answer": "Agar isinya berdasarkan hal yang benar dan dapat dibuktikan",
+          "discussion": "Sifat faktual membuat laporan dapat dipercaya karena didasarkan pada fakta."
+        },
+        {
+          "id": "BIN-B04-M01-029",
+          "type": "PG",
+          "text": "Budi senang menyusun balok menjadi miniatur bangunan, mengikuti lomba, dan bercita-cita menjadi arsitek. Kesimpulan yang tepat adalah ....",
+          "options": [
+            "Hobi Budi tidak berkaitan dengan cita-citanya",
+            "Kegiatan yang disukai Budi mendorongnya mengembangkan kemampuan merancang bangunan",
+            "Budi tidak menyukai kegiatan membuat bangunan",
+            "Budi ingin menjadi atlet sepak bola"
+          ],
+          "answer": "Kegiatan yang disukai Budi mendorongnya mengembangkan kemampuan merancang bangunan",
+          "discussion": "Hobi menyusun miniatur dan mengikuti lomba berkaitan dengan cita-cita Budi menjadi arsitek."
+        },
+        {
+          "id": "BIN-B04-M01-030",
+          "type": "PG",
+          "text": "Nilu gemar membaca buku, kemudian mencoba menulis cerita. Ceritanya mendapat juara dan dimuat di majalah anak. Urutan perkembangan kegiatan Nilu yang benar adalah ....",
+          "options": [
+            "Menulis cerita – gemar membaca – mengikuti lomba",
+            "Gemar membaca – mencoba menulis – mendapat penghargaan",
+            "Mendapat penghargaan – berhenti membaca – menulis cerita",
+            "Mengikuti lomba – berhenti menulis – membaca buku"
+          ],
+          "answer": "Gemar membaca – mencoba menulis – mendapat penghargaan",
+          "discussion": "Urutan tersebut sesuai dengan perjalanan Nilu dari kegemaran membaca hingga memperoleh penghargaan atas tulisannya."
+        },
+        {
+          "id": "BIN-B04-M01-031",
+          "type": "PG",
+          "text": "Sebuah laporan mencantumkan judul, tempat, waktu, objek, tujuan, pengamat, hasil, dan kesimpulan. Mengapa identitas pengamatan perlu dicantumkan?",
+          "options": [
+            "Agar pembaca mengetahui konteks pelaksanaan pengamatan",
+            "Agar laporan terlihat seperti cerita fiksi",
+            "Agar penulis tidak perlu menjelaskan hasil",
+            "Agar semua kalimat menjadi opini"
+          ],
+          "answer": "Agar pembaca mengetahui konteks pelaksanaan pengamatan",
+          "discussion": "Tempat, waktu, objek, tujuan, dan pengamat membantu pembaca memahami konteks dari temuan yang dilaporkan."
+        },
+        {
+          "id": "BIN-B04-M01-032",
+          "type": "PG",
+          "text": "Perhatikan dua kalimat berikut: (1) “Kegiatan upacara berlangsung setiap Senin pagi.” (2) “Upacara itu merupakan kegiatan paling menyenangkan.” Pernyataan yang termasuk fakta adalah ....",
+          "options": [
+            "Hanya kalimat (1)",
+            "Hanya kalimat (2)",
+            "Keduanya opini",
+            "Keduanya fakta"
+          ],
+          "answer": "Hanya kalimat (1)",
+          "discussion": "Kalimat pertama menyatakan jadwal yang dapat diperiksa, sedangkan kalimat kedua berisi penilaian pribadi."
+        },
+        {
+          "id": "BIN-B04-M01-033",
+          "type": "PG",
+          "text": "Sebuah paragraf laporan berisi kalimat-kalimat tentang kegiatan petugas kebersihan. Agar paragraf memiliki kesatuan, penulis harus ....",
+          "options": [
+            "Menambahkan kalimat tentang hobi yang tidak berkaitan",
+            "Memastikan semua kalimat mendukung satu gagasan utama",
+            "Mengulang kalimat yang sama berkali-kali",
+            "Menghapus semua kalimat penjelas"
+          ],
+          "answer": "Memastikan semua kalimat mendukung satu gagasan utama",
+          "discussion": "Kesatuan paragraf berarti seluruh kalimat membahas dan mendukung satu gagasan utama."
+        },
+        {
+          "id": "BIN-B04-M01-034",
+          "type": "PG",
+          "text": "Dalam pengamatan di sekolah, siswa melihat pustakawan menyusun buku, mencatat peminjaman, dan membantu siswa mencari bacaan. Judul laporan yang paling sesuai adalah ....",
+          "options": [
+            "Pengalaman Liburan di Pantai",
+            "Kegiatan Pustakawan di Perpustakaan Sekolah",
+            "Makanan Kesukaan Siswa",
+            "Cara Merawat Tanaman Hias"
+          ],
+          "answer": "Kegiatan Pustakawan di Perpustakaan Sekolah",
+          "discussion": "Judul tersebut mencerminkan objek dan isi pengamatan secara langsung."
+        },
+        {
+          "id": "BIN-B04-M01-035",
+          "type": "PG",
+          "text": "Perhatikan kalimat: “Mereka berkunjung ke Kota Surabaya pada hari Senin.” Alasan penulisan huruf kapital pada kata “Kota Surabaya” adalah ....",
+          "options": [
+            "Karena semua kata benda harus diawali huruf kapital",
+            "Karena merupakan nama geografi atau tempat tertentu",
+            "Karena berada di tengah kalimat",
+            "Karena menunjukkan kata keterangan waktu"
+          ],
+          "answer": "Karena merupakan nama geografi atau tempat tertentu",
+          "discussion": "Nama geografi atau tempat tertentu menggunakan huruf kapital."
+        },
+        {
+          "id": "BIN-B04-M01-036",
+          "type": "PG",
+          "text": "Bacalah catatan berikut: “Pukul 07.00 siswa mengamati taman. Mereka menemukan beberapa daun kering di dekat tempat sampah. Setelah itu, siswa memisahkan sampah daun dan plastik.” Kesimpulan yang paling didukung oleh catatan tersebut adalah ....",
+          "options": [
+            "Taman sekolah selalu kotor sepanjang hari",
+            "Siswa melakukan pengamatan dan memilah sampah berdasarkan jenisnya",
+            "Semua sampah di sekolah berasal dari daun",
+            "Siswa menanam pohon baru di taman"
+          ],
+          "answer": "Siswa melakukan pengamatan dan memilah sampah berdasarkan jenisnya",
+          "discussion": "Catatan hanya menyebut pengamatan taman dan pemisahan sampah daun serta plastik; kesimpulan harus dibatasi pada informasi tersebut."
+        },
+        {
+          "id": "BIN-B04-M01-037",
+          "type": "PG",
+          "text": "Perhatikan kalimat-kalimat berikut: (1) Akhirnya, laporan disampaikan kepada guru. (2) Siswa memilih objek pengamatan. (3) Mereka mencatat informasi yang ditemukan. (4) Siswa menyusun catatan menjadi laporan. Urutan proses yang paling logis adalah ....",
+          "options": [
+            "(2)–(3)–(4)–(1)",
+            "(1)–(2)–(3)–(4)",
+            "(3)–(2)–(1)–(4)",
+            "(4)–(1)–(2)–(3)"
+          ],
+          "answer": "(2)–(3)–(4)–(1)",
+          "discussion": "Proses dimulai dengan memilih objek, mengumpulkan catatan, menyusun laporan, lalu menyampaikannya."
+        },
+        {
+          "id": "BIN-B04-M01-038",
+          "type": "PG",
+          "text": "Seorang pengamat menulis, “Saya melihat dokter menggunakan stetoskop untuk mendengarkan detak jantung pasien.” Kalimat tersebut termasuk laporan objektif karena ....",
+          "options": [
+            "Mengandung pujian kepada dokter",
+            "Menjelaskan tindakan yang diamati secara langsung",
+            "Menceritakan dugaan tentang perasaan pasien",
+            "Menyampaikan pendapat pribadi pengamat"
+          ],
+          "answer": "Menjelaskan tindakan yang diamati secara langsung",
+          "discussion": "Kalimat tersebut menyebutkan tindakan yang dapat dilihat dan tidak menambahkan penilaian pribadi."
+        },
+        {
+          "id": "BIN-B04-M01-039",
+          "type": "PG",
+          "text": "Perhatikan kalimat: “Para petugas bekerja dengan tertib di lapangan sekolah setiap Senin pagi.” Pasangan kata keterangan tempat dan waktu yang tepat adalah ....",
+          "options": [
+            "Dengan tertib – di lapangan sekolah",
+            "Di lapangan sekolah – setiap Senin pagi",
+            "Setiap Senin pagi – dengan tertib",
+            "Para petugas – di lapangan sekolah"
+          ],
+          "answer": "Di lapangan sekolah – setiap Senin pagi",
+          "discussion": "“Di lapangan sekolah” menunjukkan tempat, sedangkan “setiap Senin pagi” menunjukkan waktu."
+        },
+        {
+          "id": "BIN-B04-M01-040",
+          "type": "PG",
+          "text": "Pak Bayan menggunakan bahan ramah lingkungan untuk membuat alat tangkap dan mengajak pemuda desa menjaga laut. Jika laporan hanya menyebut bahwa Pak Bayan menangkap ikan, informasi penting yang hilang adalah ....",
+          "options": [
+            "Warna pakaian Pak Bayan",
+            "Upaya Pak Bayan menjaga kelestarian laut dan mengajak masyarakat",
+            "Nama semua ikan di laut",
+            "Cuaca pada hari pengamatan"
+          ],
+          "answer": "Upaya Pak Bayan menjaga kelestarian laut dan mengajak masyarakat",
+          "discussion": "Informasi tentang alat tangkap ramah lingkungan dan ajakan menjaga laut merupakan bagian penting dari kisah Pak Bayan."
+        },
+        {
+          "id": "BIN-B04-M01-041",
+          "type": "PG",
+          "text": "Sebuah paragraf berbunyi: “Kucing itu memiliki bulu halus. Ia tidur di sofa pada siang hari. Pemiliknya memberi makan setiap sore. Halaman sekolah dipenuhi tanaman bunga.” Kalimat yang sebaiknya dipindahkan atau dihapus agar paragraf tetap memiliki kesatuan adalah ....",
+          "options": [
+            "Kucing itu memiliki bulu halus.",
+            "Ia tidur di sofa pada siang hari.",
+            "Pemiliknya memberi makan setiap sore.",
+            "Halaman sekolah dipenuhi tanaman bunga."
+          ],
+          "answer": "Halaman sekolah dipenuhi tanaman bunga.",
+          "discussion": "Kalimat tentang halaman sekolah tidak berkaitan dengan gagasan utama paragraf, yaitu pengamatan kucing."
+        },
+        {
+          "id": "BIN-B04-M01-042",
+          "type": "PG",
+          "text": "Dalam laporan pengamatan, seorang siswa menulis bahwa semua dokter selalu bekerja di rumah sakit. Padahal ia hanya mengamati seorang dokter di puskesmas. Mengapa pernyataan itu perlu diperbaiki?",
+          "options": [
+            "Karena kesimpulannya terlalu luas dan tidak didukung hasil pengamatan",
+            "Karena laporan tidak boleh menyebut profesi dokter",
+            "Karena puskesmas bukan tempat pelayanan kesehatan",
+            "Karena setiap laporan harus berisi pendapat"
+          ],
+          "answer": "Karena kesimpulannya terlalu luas dan tidak didukung hasil pengamatan",
+          "discussion": "Pengamat tidak boleh membuat generalisasi yang melampaui bukti yang dikumpulkan."
+        },
+        {
+          "id": "BIN-B04-M01-043",
+          "type": "PG",
+          "text": "Perhatikan kalimat: “Kucing itu sangat aktif pada pagi dan sore hari.” Jika frasa “sangat aktif” diganti menjadi “cukup aktif”, perubahan makna yang terjadi adalah ....",
+          "options": [
+            "Tingkat aktivitas yang dinyatakan menjadi lebih rendah",
+            "Waktu aktivitas berubah menjadi malam hari",
+            "Tempat kucing beraktivitas berubah",
+            "Kalimat berubah menjadi fakta yang tidak dapat diperiksa"
+          ],
+          "answer": "Tingkat aktivitas yang dinyatakan menjadi lebih rendah",
+          "discussion": "Kata “sangat” dan “cukup” menunjukkan tingkat intensitas yang berbeda."
+        },
+        {
+          "id": "BIN-B04-M01-044",
+          "type": "PG",
+          "text": "Dalam sebuah teks disebutkan bahwa teknologi memungkinkan penjual menerima pesanan melalui aplikasi pesan instan dan membantu usaha memasarkan produk. Kesimpulan yang paling tepat adalah ....",
+          "options": [
+            "Teknologi hanya bermanfaat bagi pekerjaan di bidang kesehatan",
+            "Teknologi dapat mengubah cara orang menjalankan dan mengembangkan pekerjaan",
+            "Semua pekerjaan harus dilakukan secara daring",
+            "Teknologi membuat keterampilan manusia tidak diperlukan"
+          ],
+          "answer": "Teknologi dapat mengubah cara orang menjalankan dan mengembangkan pekerjaan",
+          "discussion": "Informasi tersebut menunjukkan teknologi memberi cara baru untuk menerima pesanan dan memasarkan produk."
+        },
+        {
+          "id": "BIN-B04-M01-045",
+          "type": "PG",
+          "text": "Seorang siswa membuat laporan dari video. Ia menuliskan bahwa seorang kurir mengantar paket, tetapi juga menambahkan bahwa kurir itu pasti merasa lelah dan tidak bahagia. Perbaikan yang paling tepat adalah ....",
+          "options": [
+            "Mempertahankan semua dugaan agar laporan lebih menarik",
+            "Menghapus dugaan tentang perasaan karena tidak didukung informasi yang diamati",
+            "Mengubah semua fakta menjadi opini",
+            "Menambahkan cerita tentang kehidupan pribadi kurir"
+          ],
+          "answer": "Menghapus dugaan tentang perasaan karena tidak didukung informasi yang diamati",
+          "discussion": "Laporan harus membedakan informasi yang terlihat atau terdengar dari dugaan yang tidak memiliki bukti."
+        },
+        {
+          "id": "BIN-B04-M01-046",
+          "type": "PG",
+          "text": "Dalam sebuah teks laporan, kalimat-kalimat sudah membahas objek yang sama, tetapi urutannya melompat-lompat sehingga sulit dipahami. Ciri paragraf yang belum terpenuhi adalah ....",
+          "options": [
+            "Kesatuan",
+            "Keruntutan",
+            "Faktualitas",
+            "Objektivitas"
+          ],
+          "answer": "Keruntutan",
+          "discussion": "Keruntutan menuntut informasi disusun dalam urutan yang logis dan mudah diikuti."
+        },
+        {
+          "id": "BIN-B04-M01-047",
+          "type": "PG",
+          "text": "Perhatikan kata berikut: “nyaman”, “menghias”, dan “tanaman”. Kata yang mengandung kombinasi huruf konsonan “ny” adalah ....",
+          "options": [
+            "Tanaman",
+            "Menghias",
+            "Nyaman",
+            "Tanaman dan menghias"
+          ],
+          "answer": "Nyaman",
+          "discussion": "Kata “nyaman” memuat gabungan huruf konsonan “ny”."
+        },
+        {
+          "id": "BIN-B04-M01-048",
+          "type": "PG",
+          "text": "Perhatikan kata “akuarium”. Kombinasi huruf vokal berurutan yang terdapat pada kata tersebut adalah ....",
+          "options": [
+            "ua",
+            "ai",
+            "oi",
+            "ea"
+          ],
+          "answer": "ua",
+          "discussion": "Pada kata “akuarium” terdapat huruf vokal “u” dan “a” yang berurutan."
+        },
+        {
+          "id": "BIN-B04-M01-049",
+          "type": "PG",
+          "text": "Sebuah laporan menyebutkan: “Pengamatan dilakukan di kebun sekolah pada hari Jumat. Siswa melihat tanaman cabai memiliki beberapa daun menguning. Mereka mencatat kondisi tanah dan menyiram tanaman setelah pengamatan.” Pernyataan simpulan yang paling tepat adalah ....",
+          "options": [
+            "Semua tanaman di sekolah pasti kekurangan air",
+            "Pengamatan menemukan beberapa daun cabai menguning dan siswa mencatat kondisi tanaman",
+            "Tanaman cabai tidak dapat tumbuh di sekolah",
+            "Siswa telah berhasil memanen cabai"
+          ],
+          "answer": "Pengamatan menemukan beberapa daun cabai menguning dan siswa mencatat kondisi tanaman",
+          "discussion": "Simpulan yang baik merangkum temuan yang benar-benar tercatat dan tidak menambahkan dugaan yang belum dibuktikan."
+        },
+        {
+          "id": "BIN-B04-M01-050",
+          "type": "PG",
+          "text": "Seorang siswa diminta menyusun laporan tentang pekerjaan petugas kebersihan sekolah. Ia memiliki catatan tentang waktu bekerja, alat yang digunakan, kegiatan membersihkan kelas, dan manfaat kebersihan bagi warga sekolah. Susunan isi laporan yang paling logis adalah ....",
+          "options": [
+            "Kesimpulan – judul – hasil pengamatan – objek",
+            "Judul dan identitas pengamatan – hasil pengamatan – kesimpulan",
+            "Opini pribadi – cerita khayalan – kesimpulan",
+            "Daftar pertanyaan – jawaban tebakan – penilaian"
+          ],
+          "answer": "Judul dan identitas pengamatan – hasil pengamatan – kesimpulan",
+          "discussion": "Laporan yang sistematis diawali identitas dan objek pengamatan, dilanjutkan hasil temuan, lalu ditutup dengan kesimpulan."
+        }
+      ]
+    }
+  ]
+}
