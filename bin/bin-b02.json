@@ -102,7 +102,7 @@
         {
           "id": "BIN-B02-M01-008",
           "type": "PG",
-          "text": "Dalam labirin istilah cerita Apapuhang, kata “Saluu” berarti ....",
+          "text": "Dalam labirin istilah cerita Apapuhang, istilah “Saluu Apapuhang” berarti ....",
           "options": [
             "lembah",
             "sungai kecil",
@@ -110,7 +110,7 @@
             "kolam ikan dan pemandian"
           ],
           "answer": "sungai kecil",
-          "discussion": "Dalam daftar istilah cerita Apapuhang, Saluu berarti sungai kecil."
+          "discussion": "Dalam daftar istilah cerita Apapuhang, Saluu Apapuhang berarti sungai kecil."
         },
         {
           "id": "BIN-B02-M01-009",
