@@ -1,0 +1,22 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "PAI-B03",
+  "chapter_title": "Hidup Damai dengan Saling Memaafkan",
+  "modules": [
+    {
+      "id": "PAI-B03-MOD-01",
+      "version": "MOD-01",
+      "title": "Arti Penyesalan dan Memaafkan",
+      "content": "# Hidup Damai dengan Saling Memaafkan\n\n## Tujuan Pembelajaran\nKamu dapat menjelaskan arti penyesalan dan memaafkan serta memahami pentingnya keduanya.\n\n## A. Arti Maaf dan Memaafkan\nDalam kehidupan bersama, perbedaan pendapat dan kesalahan dapat terjadi. Meminta maaf merupakan ungkapan penyesalan atas kesalahan. Memaafkan berarti bersedia melepaskan dendam dan tidak membalas kesalahan orang lain.\n\n## B. Pentingnya Penyesalan\nPenyesalan membuat kita menyadari akibat perbuatan. Orang yang menyesal berani mengakui kesalahan, tidak mencari alasan, dan berusaha memperbaiki kerugian.\n\n## C. Ciri Orang Pemaaf\nOrang pemaaf tidak pendendam, mampu menahan amarah, dan tidak mempermalukan orang yang meminta maaf. Memaafkan bukan berarti membenarkan perbuatan salah atau membiarkan bahaya terus terjadi.\n\n## Ringkasan\nPenyesalan mendorong perbaikan. Memaafkan membantu memulihkan hubungan dan menciptakan kedamaian."
+    },
+    {
+      "id": "PAI-B03-MOD-02",
+      "version": "MOD-02",
+      "title": "Adab Meminta Maaf dan Memberi Maaf",
+      "content": "# Hidup Damai dengan Saling Memaafkan\n\n## Tujuan Pembelajaran\nKamu dapat menerapkan adab menyatakan penyesalan dan memberi maaf.\n\n## A. Adab Menyatakan Penyesalan\n- Akui kesalahan dengan jujur.\n- Sampaikan penyesalan dengan sopan dan tulus.\n- Dengarkan perasaan orang yang dirugikan.\n- Perbaiki kerugian jika memungkinkan.\n- Berusaha tidak mengulangi kesalahan.\n\n## B. Adab Memaafkan\nDengarkan penjelasan dengan tenang. Jangan menghina atau membalas. Jika sudah siap, sampaikan bahwa kamu memaafkan. Mintalah bantuan orang dewasa jika masalah berat atau keselamatan terancam.\n\n## C. Hikmah\nSaling memaafkan mengurangi permusuhan, menenangkan hati, mempererat persaudaraan, dan membuat suasana belajar lebih nyaman.\n\n## Ringkasan\nMeminta maaf perlu kejujuran dan perbaikan. Memaafkan perlu kelapangan hati, tetapi tidak berarti membenarkan tindakan berbahaya."
+    }
+  ]
+}
