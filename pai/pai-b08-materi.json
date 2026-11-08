@@ -1,0 +1,22 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "PAI-B08",
+  "chapter_title": "Peduli Lingkungan",
+  "modules": [
+    {
+      "id": "PAI-B08-MOD-01",
+      "version": "MOD-01",
+      "title": "Lingkungan sebagai Amanah",
+      "content": "# Peduli Lingkungan\n\n## Tujuan Pembelajaran\nKamu dapat menjelaskan konsep lingkungan dan alasan umat Islam harus menjaganya.\n\n## A. Pengertian Lingkungan\nLingkungan adalah segala sesuatu di sekitar tempat manusia, hewan, dan tumbuhan hidup. Komponennya antara lain tanah, air, udara, tumbuhan, hewan, dan manusia.\n\n## B. Ajaran Islam\nQ.S. ar-Rūm/30:41 menjelaskan bahwa kerusakan di darat dan laut terjadi akibat perbuatan manusia. Ayat ini mengingatkan manusia agar menyadari akibat perbuatannya dan kembali melakukan kebaikan.\n\n## C. Manfaat Lingkungan Terjaga\nLingkungan bersih membantu kesehatan, menyediakan air dan udara yang baik, menjaga habitat makhluk hidup, serta membuat tempat tinggal nyaman.\n\n## Ringkasan\nLingkungan terdiri atas unsur hidup dan tak hidup. Islam mengajarkan manusia menjaga alam dan tidak membuat kerusakan."
+    },
+    {
+      "id": "PAI-B08-MOD-02",
+      "version": "MOD-02",
+      "title": "Aksi Nyata Menjaga Lingkungan",
+      "content": "# Peduli Lingkungan\n\n## Tujuan Pembelajaran\nKamu dapat menerapkan tindakan sederhana untuk menjaga tanah, air, udara, dan tumbuhan.\n\n## A. Menjaga Kebersihan\nBuang sampah pada tempatnya, pilah sampah sesuai jenis, kurangi barang sekali pakai, dan bersihkan lingkungan. Jangan membakar sampah sembarangan karena asapnya mencemari udara.\n\n## B. Menjaga Sumber Daya\nGunakan air seperlunya, matikan lampu saat tidak digunakan, tanam dan rawat pohon, serta hindari merusak tanaman. Jaga sungai dan saluran air agar tidak tercemar dan tersumbat.\n\n## C. Bekerja Sama\nKegiatan bersih-bersih, menanam pohon, dan membuat poster dapat dilakukan bersama keluarga atau teman. Kebiasaan kecil memberi manfaat jika dilakukan terus-menerus.\n\n## Ringkasan\nPeduli lingkungan dilakukan dengan menjaga kebersihan, menghemat sumber daya, merawat tumbuhan, dan bekerja sama."
+    }
+  ]
+}
