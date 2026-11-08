@@ -11,396 +11,392 @@
         {
           "id": "PAI-B03-Q001",
           "type": "PG",
-          "text": "Apa makna menyatakan penyesalan?",
+          "text": "Apa arti meminta maaf?",
           "options": [
-            "Mengungkapkan rasa menyesal atas kesalahan",
-            "Menyalahkan orang lain",
-            "Menyembunyikan kesalahan",
-            "Meminta hadiah"
+            "Menyatakan penyesalan atas kesalahan",
+            "Meminta hadiah dari orang lain",
+            "Menyuruh orang lain mengalah",
+            "Membenarkan semua tindakan"
           ],
-          "answer": "Mengungkapkan rasa menyesal atas kesalahan",
-          "discussion": "Penyesalan adalah ungkapan bahwa kita menyadari dan menyesali kesalahan."
+          "answer": "Menyatakan penyesalan atas kesalahan",
+          "discussion": "Meminta maaf merupakan ungkapan penyesalan atas kesalahan."
         },
         {
           "id": "PAI-B03-Q002",
           "type": "PG",
-          "text": "Dalam kuis bab Hidup Damai dengan Saling Memaafkan, pertanyaan yang harus kamu jawab adalah: apa makna menyatakan penyesalan?",
+          "text": "Apa arti memaafkan?",
           "options": [
-            "Meminta hadiah",
-            "Mengungkapkan rasa menyesal atas kesalahan",
-            "Menyalahkan orang lain",
-            "Menyembunyikan kesalahan"
+            "Melupakan semua aturan",
+            "Memberi ampun dan tidak menyimpan dendam",
+            "Membiarkan kesalahan terus terjadi",
+            "Membalas kesalahan dengan cara lain"
           ],
-          "answer": "Mengungkapkan rasa menyesal atas kesalahan",
-          "discussion": "Penyesalan adalah ungkapan bahwa kita menyadari dan menyesali kesalahan."
+          "answer": "Memberi ampun dan tidak menyimpan dendam",
+          "discussion": "Memaafkan berarti melepaskan dendam dan tidak membalas kesalahan."
         },
         {
           "id": "PAI-B03-Q003",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Hidup Damai dengan Saling Memaafkan, jawablah pertanyaan berikut: Apa makna menyatakan penyesalan?",
+          "text": "Mengapa seseorang perlu menyatakan penyesalan setelah menyakiti temannya?",
           "options": [
-            "Menyembunyikan kesalahan",
-            "Meminta hadiah",
-            "Mengungkapkan rasa menyesal atas kesalahan",
-            "Menyalahkan orang lain"
+            "Agar dianggap selalu benar",
+            "Agar teman takut kepadanya",
+            "Agar mengakui kesalahan dan memperbaiki hubungan",
+            "Agar tidak perlu memperbaiki kerugian"
           ],
-          "answer": "Mengungkapkan rasa menyesal atas kesalahan",
-          "discussion": "Penyesalan adalah ungkapan bahwa kita menyadari dan menyesali kesalahan."
+          "answer": "Agar mengakui kesalahan dan memperbaiki hubungan",
+          "discussion": "Penyesalan menunjukkan kesadaran atas kesalahan dan keinginan memperbaiki hubungan."
         },
         {
           "id": "PAI-B03-Q004",
           "type": "PG",
-          "text": "Apa arti memaafkan?",
+          "text": "Salah satu ciri orang yang pemaaf adalah ...",
           "options": [
-            "Menyebarkan aib",
-            "Membenarkan semua tindakan salah",
-            "Membalas dengan kesalahan lain",
-            "Melepaskan dendam dan tidak membalas kesalahan"
+            "Senang membalas kesalahan",
+            "Suka mempermalukan orang",
+            "Selalu mengungkit masa lalu",
+            "Mampu menahan amarah"
           ],
-          "answer": "Melepaskan dendam dan tidak membalas kesalahan",
-          "discussion": "Memaafkan berarti tidak menyimpan dendam dan tidak membalas keburukan."
+          "answer": "Mampu menahan amarah",
+          "discussion": "Orang pemaaf berusaha menahan amarah dan tidak pendendam."
         },
         {
           "id": "PAI-B03-Q005",
           "type": "PG",
-          "text": "Dalam kuis bab Hidup Damai dengan Saling Memaafkan, pertanyaan yang harus kamu jawab adalah: apa arti memaafkan?",
+          "text": "Ketika meminta maaf, sikap yang paling tepat adalah ...",
           "options": [
-            "Melepaskan dendam dan tidak membalas kesalahan",
-            "Membalas dengan kesalahan lain",
-            "Menyebarkan aib",
-            "Membenarkan semua tindakan salah"
+            "Mengakui kesalahan dengan jujur",
+            "Mencari alasan agar tidak disalahkan",
+            "Menyalahkan keadaan",
+            "Meminta maaf sambil mengejek"
           ],
-          "answer": "Melepaskan dendam dan tidak membalas kesalahan",
-          "discussion": "Memaafkan berarti tidak menyimpan dendam dan tidak membalas keburukan."
+          "answer": "Mengakui kesalahan dengan jujur",
+          "discussion": "Adab meminta maaf dimulai dengan mengakui kesalahan."
         },
         {
           "id": "PAI-B03-Q006",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Hidup Damai dengan Saling Memaafkan, jawablah pertanyaan berikut: Apa arti memaafkan?",
+          "text": "Mengapa kita tidak boleh mencari alasan saat meminta maaf?",
           "options": [
-            "Membalas dengan kesalahan lain",
-            "Melepaskan dendam dan tidak membalas kesalahan",
-            "Menyebarkan aib",
-            "Membenarkan semua tindakan salah"
+            "Agar orang lain merasa bersalah",
+            "Agar penyesalan disampaikan dengan sungguh-sungguh",
+            "Agar kesalahan terlihat benar",
+            "Agar masalah semakin panjang"
           ],
-          "answer": "Melepaskan dendam dan tidak membalas kesalahan",
-          "discussion": "Memaafkan berarti tidak menyimpan dendam dan tidak membalas keburukan."
+          "answer": "Agar penyesalan disampaikan dengan sungguh-sungguh",
+          "discussion": "Buku menekankan tidak mencari alasan dan meminta maaf dengan sungguh-sungguh."
         },
         {
           "id": "PAI-B03-Q007",
           "type": "PG",
-          "text": "Perhatikan diagram langkah memperbaiki kesalahan. Langkah pertama yang harus dilakukan adalah ...",
+          "text": "Apa yang perlu dilakukan jika kesalahan kita menyebabkan kerugian berupa barang?",
           "options": [
-            "Mencari kambing hitam",
-            "Menghapus bukti",
-            "Mengakui kesalahan dengan jujur",
-            "Berpura-pura tidak tahu"
+            "Cukup mengucapkan maaf",
+            "Menyembunyikan barang yang tersisa",
+            "Mengembalikan atau mengganti hak yang diambil",
+            "Menyuruh orang lain menanggungnya"
           ],
-          "answer": "Mengakui kesalahan dengan jujur",
-          "discussion": "Kejujuran adalah langkah awal untuk memperbaiki kesalahan.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/forgive-steps.svg",
-            "alt": "Diagram langkah memperbaiki kesalahan"
-          }
+          "answer": "Mengembalikan atau mengganti hak yang diambil",
+          "discussion": "Jika kesalahan berupa harta, hak yang diambil perlu dikembalikan."
         },
         {
           "id": "PAI-B03-Q008",
           "type": "PG",
-          "text": "Dalam kuis bab Hidup Damai dengan Saling Memaafkan, pertanyaan yang harus kamu jawab adalah: apa langkah awal ketika menyadari kesalahan?",
+          "text": "Seseorang meminta maaf tetapi masih mengulangi perbuatan yang sama. Bagian adab apa yang belum dilakukan?",
           "options": [
-            "Berpura-pura tidak tahu",
-            "Mencari kambing hitam",
-            "Menghapus bukti",
-            "Mengakui kesalahan dengan jujur"
+            "Mengucapkan salam",
+            "Menjelaskan nama lengkap",
+            "Memberi hadiah kepada semua orang",
+            "Bertekad untuk tidak mengulangi kesalahan"
           ],
-          "answer": "Mengakui kesalahan dengan jujur",
-          "discussion": "Kejujuran adalah langkah awal untuk memperbaiki kesalahan."
+          "answer": "Bertekad untuk tidak mengulangi kesalahan",
+          "discussion": "Adab penyesalan mencakup tekad untuk tidak mengulangi kesalahan."
         },
         {
           "id": "PAI-B03-Q009",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Hidup Damai dengan Saling Memaafkan, jawablah pertanyaan berikut: Apa langkah awal ketika menyadari kesalahan?",
+          "text": "Mengapa orang yang meminta maaf perlu mendengarkan perasaan orang yang dirugikan?",
           "options": [
-            "Mengakui kesalahan dengan jujur",
-            "Menghapus bukti",
-            "Berpura-pura tidak tahu",
-            "Mencari kambing hitam"
+            "Agar memahami dampak perbuatannya",
+            "Agar dapat membantah semua keluhan",
+            "Agar masalah segera dilupakan tanpa solusi",
+            "Agar orang yang dirugikan merasa bersalah"
           ],
-          "answer": "Mengakui kesalahan dengan jujur",
-          "discussion": "Kejujuran adalah langkah awal untuk memperbaiki kesalahan."
+          "answer": "Agar memahami dampak perbuatannya",
+          "discussion": "Mendengarkan menunjukkan empati dan kesungguhan memperbaiki keadaan."
         },
         {
           "id": "PAI-B03-Q010",
           "type": "PG",
-          "text": "Mengapa penyesalan perlu diikuti perbaikan?",
+          "text": "Apa yang sebaiknya dilakukan ketika seseorang meminta maaf dengan tulus?",
           "options": [
-            "Agar mendapat hadiah",
-            "Agar kesalahan diakui dan akibatnya diperbaiki",
-            "Agar kesalahan menjadi candaan",
-            "Agar orang lain takut"
+            "Langsung menyebarkan kesalahannya",
+            "Mendengarkan penjelasannya dengan baik",
+            "Menertawakan di depan teman",
+            "Membalas dengan hinaan"
           ],
-          "answer": "Agar kesalahan diakui dan akibatnya diperbaiki",
-          "discussion": "Penyesalan yang tulus tampak dari tindakan memperbaiki akibat kesalahan."
+          "answer": "Mendengarkan penjelasannya dengan baik",
+          "discussion": "Sikap pemaaf memberi kesempatan orang lain menjelaskan dan memperbaiki kesalahan."
         },
         {
           "id": "PAI-B03-Q011",
           "type": "PG",
-          "text": "Dalam kuis bab Hidup Damai dengan Saling Memaafkan, pertanyaan yang harus kamu jawab adalah: mengapa penyesalan perlu diikuti perbaikan?",
+          "text": "Memaafkan berarti ...",
           "options": [
-            "Agar orang lain takut",
-            "Agar mendapat hadiah",
-            "Agar kesalahan diakui dan akibatnya diperbaiki",
-            "Agar kesalahan menjadi candaan"
+            "Menyetujui semua tindakan salah",
+            "Membiarkan kekerasan terjadi",
+            "Tidak membalas kesalahan dengan dendam",
+            "Tidak boleh melapor kepada orang dewasa"
           ],
-          "answer": "Agar kesalahan diakui dan akibatnya diperbaiki",
-          "discussion": "Penyesalan yang tulus tampak dari tindakan memperbaiki akibat kesalahan."
+          "answer": "Tidak membalas kesalahan dengan dendam",
+          "discussion": "Memaafkan tidak berarti membenarkan perbuatan salah atau membiarkan bahaya."
         },
         {
           "id": "PAI-B03-Q012",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Hidup Damai dengan Saling Memaafkan, jawablah pertanyaan berikut: Mengapa penyesalan perlu diikuti perbaikan?",
+          "text": "Jika teman terus melakukan perundungan, tindakan yang tepat adalah ...",
           "options": [
-            "Agar orang lain takut",
-            "Agar mendapat hadiah",
-            "Agar kesalahan menjadi candaan",
-            "Agar kesalahan diakui dan akibatnya diperbaiki"
+            "Diam dan membiarkan bahaya berlanjut",
+            "Membalas dengan perundungan",
+            "Menyebarkan data pribadinya",
+            "Meminta bantuan guru atau orang dewasa tepercaya"
           ],
-          "answer": "Agar kesalahan diakui dan akibatnya diperbaiki",
-          "discussion": "Penyesalan yang tulus tampak dari tindakan memperbaiki akibat kesalahan."
+          "answer": "Meminta bantuan guru atau orang dewasa tepercaya",
+          "discussion": "Keselamatan harus dijaga; meminta bantuan orang dewasa adalah tindakan tepat."
         },
         {
           "id": "PAI-B03-Q013",
           "type": "PG",
-          "text": "Apa ciri orang yang pemaaf?",
+          "text": "Apa hikmah saling memaafkan di lingkungan sekolah?",
           "options": [
-            "Tidak pendendam dan mampu menahan amarah",
-            "Suka mempermalukan orang",
-            "Selalu membalas",
-            "Menyebarkan rahasia orang"
+            "Suasana belajar menjadi damai dan nyaman",
+            "Muncul persaingan untuk membalas",
+            "Teman semakin takut berbicara",
+            "Kesalahan tidak pernah dibahas"
           ],
-          "answer": "Tidak pendendam dan mampu menahan amarah",
-          "discussion": "Orang pemaaf berusaha mengendalikan amarah dan tidak memelihara dendam."
+          "answer": "Suasana belajar menjadi damai dan nyaman",
+          "discussion": "Saling memaafkan mengurangi permusuhan dan mempererat persaudaraan."
         },
         {
           "id": "PAI-B03-Q014",
           "type": "PG",
-          "text": "Dalam kuis bab Hidup Damai dengan Saling Memaafkan, pertanyaan yang harus kamu jawab adalah: apa ciri orang yang pemaaf?",
+          "text": "Saat kamu tidak sengaja merusak pensil teman, tindakan pertama yang tepat adalah ...",
           "options": [
-            "Menyebarkan rahasia orang",
-            "Tidak pendendam dan mampu menahan amarah",
-            "Suka mempermalukan orang",
-            "Selalu membalas"
+            "Menyembunyikan pensil itu",
+            "Mengakui kesalahan dan meminta maaf",
+            "Menyalahkan teman lain",
+            "Berpura-pura tidak tahu"
           ],
-          "answer": "Tidak pendendam dan mampu menahan amarah",
-          "discussion": "Orang pemaaf berusaha mengendalikan amarah dan tidak memelihara dendam."
+          "answer": "Mengakui kesalahan dan meminta maaf",
+          "discussion": "Kejujuran dan penyesalan merupakan awal memperbaiki kesalahan."
         },
         {
           "id": "PAI-B03-Q015",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Hidup Damai dengan Saling Memaafkan, jawablah pertanyaan berikut: Apa ciri orang yang pemaaf?",
+          "text": "Mengapa memberi kesempatan orang lain menjelaskan masalah itu penting?",
           "options": [
-            "Selalu membalas",
-            "Menyebarkan rahasia orang",
-            "Tidak pendendam dan mampu menahan amarah",
-            "Suka mempermalukan orang"
+            "Agar kesalahan tidak perlu diselesaikan",
+            "Agar kita dapat mencari bahan ejekan",
+            "Agar kita tidak terburu-buru menilai keadaan",
+            "Agar orang lain selalu mengalah"
           ],
-          "answer": "Tidak pendendam dan mampu menahan amarah",
-          "discussion": "Orang pemaaf berusaha mengendalikan amarah dan tidak memelihara dendam."
+          "answer": "Agar kita tidak terburu-buru menilai keadaan",
+          "discussion": "Mendengar penjelasan membantu memahami duduk persoalan sebenarnya."
         },
         {
           "id": "PAI-B03-Q016",
           "type": "PG",
-          "text": "Apakah memaafkan berarti membenarkan perbuatan salah?",
+          "text": "Apa yang dimaksud penyesalan yang sungguh-sungguh?",
           "options": [
-            "Pelaku boleh mengulanginya",
-            "Tidak, tetapi harus membalas",
-            "Ya, semua kesalahan menjadi benar",
-            "Tidak, memaafkan tidak membenarkan kesalahan"
+            "Merasa malu hanya karena ketahuan",
+            "Meminta maaf agar mendapat hadiah",
+            "Mengatakan maaf tanpa perubahan",
+            "Menyadari kesalahan, menyesal, dan berusaha memperbaikinya"
           ],
-          "answer": "Tidak, memaafkan tidak membenarkan kesalahan",
-          "discussion": "Memaafkan tidak menghapus tanggung jawab atau membenarkan tindakan salah."
+          "answer": "Menyadari kesalahan, menyesal, dan berusaha memperbaikinya",
+          "discussion": "Penyesalan yang baik disertai pengakuan, ketulusan, dan perbaikan."
         },
         {
           "id": "PAI-B03-Q017",
           "type": "PG",
-          "text": "Dalam kuis bab Hidup Damai dengan Saling Memaafkan, pertanyaan yang harus kamu jawab adalah: apakah memaafkan berarti membenarkan perbuatan salah?",
+          "text": "Sikap apa yang harus dihindari ketika memberi maaf?",
           "options": [
-            "Tidak, memaafkan tidak membenarkan kesalahan",
-            "Ya, semua kesalahan menjadi benar",
-            "Pelaku boleh mengulanginya",
-            "Tidak, tetapi harus membalas"
+            "Mengungkit kesalahan untuk mempermalukan orang",
+            "Mendengarkan dengan tenang",
+            "Menahan amarah",
+            "Menyampaikan maaf dengan tulus"
           ],
-          "answer": "Tidak, memaafkan tidak membenarkan kesalahan",
-          "discussion": "Memaafkan tidak menghapus tanggung jawab atau membenarkan tindakan salah."
+          "answer": "Mengungkit kesalahan untuk mempermalukan orang",
+          "discussion": "Mengungkit kesalahan dapat melukai hati dan merusak hubungan."
         },
         {
           "id": "PAI-B03-Q018",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Hidup Damai dengan Saling Memaafkan, jawablah pertanyaan berikut: Apakah memaafkan berarti membenarkan perbuatan salah?",
+          "text": "Mengapa orang yang pemaaf tidak mudah membalas?",
           "options": [
-            "Ya, semua kesalahan menjadi benar",
-            "Tidak, memaafkan tidak membenarkan kesalahan",
-            "Pelaku boleh mengulanginya",
-            "Tidak, tetapi harus membalas"
+            "Karena ia tidak tahu apa yang terjadi",
+            "Karena ia berusaha mengendalikan amarah dan menjaga kedamaian",
+            "Karena ia selalu takut kepada semua orang",
+            "Karena ia ingin menyimpan dendam"
           ],
-          "answer": "Tidak, memaafkan tidak membenarkan kesalahan",
-          "discussion": "Memaafkan tidak menghapus tanggung jawab atau membenarkan tindakan salah."
+          "answer": "Karena ia berusaha mengendalikan amarah dan menjaga kedamaian",
+          "discussion": "Menahan amarah merupakan salah satu ciri orang pemaaf."
         },
         {
           "id": "PAI-B03-Q019",
           "type": "PG",
-          "text": "Bagaimana cara meminta maaf yang baik?",
+          "text": "Jika teman belum siap memaafkan, apa yang sebaiknya dilakukan?",
           "options": [
-            "Dengan marah-marah",
-            "Sambil menyalahkan korban",
-            "Jujur, tulus, dan sopan",
-            "Dengan mengejek"
+            "Memaksanya memaafkan saat itu juga",
+            "Mengancam agar ia diam",
+            "Beri waktu dan tunjukkan perubahan melalui tindakan",
+            "Menceritakan masalah kepada semua orang"
           ],
-          "answer": "Jujur, tulus, dan sopan",
-          "discussion": "Permintaan maaf disampaikan dengan tulus dan tidak menyalahkan orang yang dirugikan."
+          "answer": "Beri waktu dan tunjukkan perubahan melalui tindakan",
+          "discussion": "Pemberian maaf tidak boleh dipaksakan; kesungguhan dapat dibuktikan lewat perbaikan."
         },
         {
           "id": "PAI-B03-Q020",
           "type": "PG",
-          "text": "Dalam kuis bab Hidup Damai dengan Saling Memaafkan, pertanyaan yang harus kamu jawab adalah: bagaimana cara meminta maaf yang baik?",
+          "text": "Bagaimana cara memperbaiki hubungan setelah terjadi perselisihan?",
           "options": [
-            "Dengan mengejek",
-            "Dengan marah-marah",
-            "Sambil menyalahkan korban",
-            "Jujur, tulus, dan sopan"
+            "Menghindari selamanya tanpa penjelasan",
+            "Mengajak teman lain memusuhi",
+            "Membuat cerita baru tentang masalah itu",
+            "Berbicara baik-baik, saling mendengarkan, dan mencari penyelesaian"
           ],
-          "answer": "Jujur, tulus, dan sopan",
-          "discussion": "Permintaan maaf disampaikan dengan tulus dan tidak menyalahkan orang yang dirugikan."
+          "answer": "Berbicara baik-baik, saling mendengarkan, dan mencari penyelesaian",
+          "discussion": "Komunikasi baik dan sikap saling memahami membantu memulihkan hubungan."
         },
         {
           "id": "PAI-B03-Q021",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Hidup Damai dengan Saling Memaafkan, jawablah pertanyaan berikut: Bagaimana cara meminta maaf yang baik?",
+          "text": "Dalam kisah Ikrimah, apa teladan yang dapat diambil dari sikap Rasulullah saw.?",
           "options": [
-            "Jujur, tulus, dan sopan",
-            "Sambil menyalahkan korban",
-            "Dengan mengejek",
-            "Dengan marah-marah"
+            "Memberi maaf dan mendoakan kebaikan",
+            "Membalas dendam kepada keluarga lawan",
+            "Mempermalukan orang yang pernah memusuhi",
+            "Menolak setiap orang yang berubah"
           ],
-          "answer": "Jujur, tulus, dan sopan",
-          "discussion": "Permintaan maaf disampaikan dengan tulus dan tidak menyalahkan orang yang dirugikan."
+          "answer": "Memberi maaf dan mendoakan kebaikan",
+          "discussion": "Kisah tersebut menonjolkan sikap memaafkan dan mendoakan kebaikan."
         },
         {
           "id": "PAI-B03-Q022",
           "type": "PG",
-          "text": "Apa yang sebaiknya dilakukan setelah dimaafkan?",
+          "text": "Apa yang dimaksud ikhlas dalam meminta maaf?",
           "options": [
-            "Mengejek orang yang memaafkan",
-            "Berusaha tidak mengulangi kesalahan",
-            "Melupakan tanggung jawab",
-            "Mengulangi karena sudah dimaafkan"
+            "Meminta maaf agar mendapat hadiah",
+            "Meminta maaf karena sadar salah, bukan demi pujian",
+            "Meminta maaf supaya menang debat",
+            "Meminta maaf agar kesalahan tersebar"
           ],
-          "answer": "Berusaha tidak mengulangi kesalahan",
-          "discussion": "Perubahan perilaku menunjukkan kesungguhan penyesalan."
+          "answer": "Meminta maaf karena sadar salah, bukan demi pujian",
+          "discussion": "Keikhlasan berarti melakukan kebaikan tanpa mengharapkan pujian."
         },
         {
           "id": "PAI-B03-Q023",
           "type": "PG",
-          "text": "Dalam kuis bab Hidup Damai dengan Saling Memaafkan, pertanyaan yang harus kamu jawab adalah: apa yang sebaiknya dilakukan setelah dimaafkan?",
+          "text": "Mengapa meminta maaf bukan tanda pengecut?",
           "options": [
-            "Mengulangi karena sudah dimaafkan",
-            "Mengejek orang yang memaafkan",
-            "Berusaha tidak mengulangi kesalahan",
-            "Melupakan tanggung jawab"
+            "Karena orang yang meminta maaf selalu benar",
+            "Karena meminta maaf membuat orang lain takut",
+            "Karena dibutuhkan keberanian untuk mengakui kesalahan",
+            "Karena kesalahan tidak perlu diperbaiki"
           ],
-          "answer": "Berusaha tidak mengulangi kesalahan",
-          "discussion": "Perubahan perilaku menunjukkan kesungguhan penyesalan."
+          "answer": "Karena dibutuhkan keberanian untuk mengakui kesalahan",
+          "discussion": "Mengakui kesalahan membutuhkan keberanian dan tanggung jawab."
         },
         {
           "id": "PAI-B03-Q024",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Hidup Damai dengan Saling Memaafkan, jawablah pertanyaan berikut: Apa yang sebaiknya dilakukan setelah dimaafkan?",
+          "text": "Ketika terjadi salah paham, langkah terbaik sebelum marah adalah ...",
           "options": [
-            "Mengulangi karena sudah dimaafkan",
-            "Mengejek orang yang memaafkan",
-            "Melupakan tanggung jawab",
-            "Berusaha tidak mengulangi kesalahan"
+            "Langsung menuduh teman",
+            "Menyebarkan dugaan",
+            "Meninggalkan kelompok tanpa bicara",
+            "Memeriksa kejadian dan mendengarkan penjelasan"
           ],
-          "answer": "Berusaha tidak mengulangi kesalahan",
-          "discussion": "Perubahan perilaku menunjukkan kesungguhan penyesalan."
+          "answer": "Memeriksa kejadian dan mendengarkan penjelasan",
+          "discussion": "Mendengarkan penjelasan mencegah penilaian yang keliru."
         },
         {
           "id": "PAI-B03-Q025",
           "type": "PG",
-          "text": "Apa hikmah saling memaafkan?",
+          "text": "Apa akibat jika seseorang terus menyimpan dendam?",
           "options": [
-            "Mempererat persaudaraan dan mengurangi permusuhan",
-            "Memperbanyak pertengkaran",
-            "Membuat hubungan renggang",
-            "Mendorong balas dendam"
+            "Hubungan mudah rusak dan permusuhan berlanjut",
+            "Persahabatan semakin kuat",
+            "Semua masalah langsung selesai",
+            "Orang lain pasti meminta maaf"
           ],
-          "answer": "Mempererat persaudaraan dan mengurangi permusuhan",
-          "discussion": "Saling memaafkan menenangkan hati dan memperbaiki hubungan."
+          "answer": "Hubungan mudah rusak dan permusuhan berlanjut",
+          "discussion": "Dendam dapat memperpanjang konflik dan merusak persaudaraan."
         },
         {
           "id": "PAI-B03-Q026",
           "type": "PG",
-          "text": "Dalam kuis bab Hidup Damai dengan Saling Memaafkan, pertanyaan yang harus kamu jawab adalah: apa hikmah saling memaafkan?",
+          "text": "Jika kamu memaafkan teman, sikap selanjutnya yang baik adalah ...",
           "options": [
-            "Mendorong balas dendam",
-            "Mempererat persaudaraan dan mengurangi permusuhan",
-            "Memperbanyak pertengkaran",
-            "Membuat hubungan renggang"
+            "Mengungkit kesalahan setiap hari",
+            "Tetap menjaga hubungan baik sambil membuat batas yang aman",
+            "Membalas saat ada kesempatan",
+            "Menyebarkan rahasianya"
           ],
-          "answer": "Mempererat persaudaraan dan mengurangi permusuhan",
-          "discussion": "Saling memaafkan menenangkan hati dan memperbaiki hubungan."
+          "answer": "Tetap menjaga hubungan baik sambil membuat batas yang aman",
+          "discussion": "Memaafkan membantu memulihkan hubungan, tetapi keselamatan dan batas tetap penting."
         },
         {
           "id": "PAI-B03-Q027",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Hidup Damai dengan Saling Memaafkan, jawablah pertanyaan berikut: Apa hikmah saling memaafkan?",
+          "text": "Apa hubungan penyesalan dengan perbaikan diri?",
           "options": [
-            "Membuat hubungan renggang",
-            "Mendorong balas dendam",
-            "Mempererat persaudaraan dan mengurangi permusuhan",
-            "Memperbanyak pertengkaran"
+            "Penyesalan membuat orang tidak perlu berusaha",
+            "Penyesalan hanya berguna jika dilihat orang",
+            "Penyesalan mendorong seseorang mengubah perilaku",
+            "Penyesalan menghapus semua tanggung jawab"
           ],
-          "answer": "Mempererat persaudaraan dan mengurangi permusuhan",
-          "discussion": "Saling memaafkan menenangkan hati dan memperbaiki hubungan."
+          "answer": "Penyesalan mendorong seseorang mengubah perilaku",
+          "discussion": "Penyesalan seharusnya diikuti tindakan memperbaiki diri."
         },
         {
           "id": "PAI-B03-Q028",
           "type": "PG",
-          "text": "Kapan perlu meminta bantuan orang dewasa?",
+          "text": "Bagaimana sikap saat menerima permintaan maaf di depan teman-teman?",
           "options": [
-            "Agar orang lain dihukum tanpa alasan",
-            "Untuk menghindari tanggung jawab",
-            "Setiap berbeda pendapat kecil",
-            "Saat masalah berat atau keselamatan terancam"
+            "Membuatnya menjadi bahan tertawaan",
+            "Merekam lalu menyebarkannya",
+            "Mengajak teman lain mengejek",
+            "Menanggapinya dengan tenang tanpa mempermalukan orang tersebut"
           ],
-          "answer": "Saat masalah berat atau keselamatan terancam",
-          "discussion": "Memaafkan bukan berarti membiarkan kekerasan; keselamatan perlu dijaga."
+          "answer": "Menanggapinya dengan tenang tanpa mempermalukan orang tersebut",
+          "discussion": "Adab memberi maaf menjaga martabat orang yang meminta maaf."
         },
         {
           "id": "PAI-B03-Q029",
           "type": "PG",
-          "text": "Dalam kuis bab Hidup Damai dengan Saling Memaafkan, pertanyaan yang harus kamu jawab adalah: kapan perlu meminta bantuan orang dewasa?",
+          "text": "Mengapa memaafkan dapat mempererat persaudaraan?",
           "options": [
-            "Saat masalah berat atau keselamatan terancam",
-            "Setiap berbeda pendapat kecil",
-            "Agar orang lain dihukum tanpa alasan",
-            "Untuk menghindari tanggung jawab"
+            "Karena mengurangi permusuhan dan membuka jalan untuk berdamai",
+            "Karena semua orang harus selalu sepakat",
+            "Karena masalah harus disembunyikan",
+            "Karena orang tidak boleh menyampaikan pendapat"
           ],
-          "answer": "Saat masalah berat atau keselamatan terancam",
-          "discussion": "Memaafkan bukan berarti membiarkan kekerasan; keselamatan perlu dijaga."
+          "answer": "Karena mengurangi permusuhan dan membuka jalan untuk berdamai",
+          "discussion": "Memaafkan membantu memulihkan hubungan dan menciptakan kedamaian."
         },
         {
           "id": "PAI-B03-Q030",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Hidup Damai dengan Saling Memaafkan, jawablah pertanyaan berikut: Kapan perlu meminta bantuan orang dewasa?",
+          "text": "Apa contoh menerapkan sikap pemaaf di rumah?",
           "options": [
-            "Setiap berbeda pendapat kecil",
-            "Saat masalah berat atau keselamatan terancam",
-            "Agar orang lain dihukum tanpa alasan",
-            "Untuk menghindari tanggung jawab"
+            "Membalas saat saudara melakukan kesalahan",
+            "Menyelesaikan pertengkaran saudara dengan bicara baik-baik",
+            "Mengingat kesalahan saudara untuk diejek",
+            "Menolak mendengar penjelasannya"
           ],
-          "answer": "Saat masalah berat atau keselamatan terancam",
-          "discussion": "Memaafkan bukan berarti membiarkan kekerasan; keselamatan perlu dijaga."
+          "answer": "Menyelesaikan pertengkaran saudara dengan bicara baik-baik",
+          "discussion": "Sikap pemaaf dapat diterapkan dalam hubungan keluarga sehari-hari."
         }
       ]
     }
