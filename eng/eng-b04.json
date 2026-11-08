@@ -23,7 +23,7 @@
           "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/games-traditional.svg",
           "audio": {
             "type": "speech",
-            "text": "What is the English expression for \"petak umpet\"? hide and seek"
+            "text": "What is the English expression for \"petak umpet\"?"
           }
         },
         {
@@ -40,13 +40,13 @@
           "discussion": "Hide and seek is a game in which one player closes their eyes and looks for the others who hide.",
           "audio": {
             "type": "speech",
-            "text": "Complete the sentence: After school, we play ___ behind the trees. hide and seek"
+            "text": "Complete the sentence: After school, we play ___ behind the trees."
           }
         },
         {
           "id": "ENG-B04-003",
           "type": "PG",
-          "text": "Which sentence correctly describes \"hide and seek\"?",
+          "text": "A friend closes their eyes while another hides. Which game is this?",
           "options": [
             "We play hide and seek after school.",
             "We draw a hopscotch court before playing.",
@@ -54,16 +54,16 @@
             "In blindfold tag, one player wears a blindfold and tries to catch another player."
           ],
           "answer": "We play hide and seek after school.",
-          "discussion": "Hide and seek is a game in which one player closes their eyes and looks for the others who hide.",
+          "discussion": "The description gives the main rule of the game. Match the action and equipment with the game name.",
           "audio": {
             "type": "speech",
-            "text": "Which sentence correctly describes \"hide and seek\"? We play hide and seek after school."
+            "text": "A friend closes their eyes while another hides. Which game is this?"
           }
         },
         {
           "id": "ENG-B04-004",
           "type": "PG",
-          "text": "Which word matches this clue: petak umpet?",
+          "text": "Which game uses hiding and seeking as its main actions?",
           "options": [
             "hide and seek",
             "hopscotch",
@@ -71,16 +71,16 @@
             "swing"
           ],
           "answer": "hide and seek",
-          "discussion": "Hide and seek is a game in which one player closes their eyes and looks for the others who hide.",
+          "discussion": "The description gives the main rule of the game. Match the action and equipment with the game name.",
           "audio": {
             "type": "speech",
-            "text": "Which word matches this clue: petak umpet? hide and seek"
+            "text": "Which game uses hiding and seeking as its main actions?"
           }
         },
         {
           "id": "ENG-B04-005",
           "type": "PG",
-          "text": "Choose the correct statement about hide and seek.",
+          "text": "Your friends are hiding behind trees. What game are you playing?",
           "options": [
             "We play hide and seek after school.",
             "In tag, one player chases and tries to touch another player.",
@@ -88,10 +88,10 @@
             "In blindfold tag, one player wears a blindfold and tries to catch another player."
           ],
           "answer": "We play hide and seek after school.",
-          "discussion": "Hide and seek is a game in which one player closes their eyes and looks for the others who hide.",
+          "discussion": "The description gives the main rule of the game. Match the action and equipment with the game name.",
           "audio": {
             "type": "speech",
-            "text": "Choose the correct statement about hide and seek. We play hide and seek after school."
+            "text": "Your friends are hiding behind trees. What game are you playing?"
           }
         },
         {
@@ -108,7 +108,7 @@
           "discussion": "Hopscotch uses a court of squares. Players hop from one square to another.",
           "audio": {
             "type": "speech",
-            "text": "What is the English expression for \"engklek\"? hopscotch"
+            "text": "What is the English expression for \"engklek\"?"
           }
         },
         {
@@ -127,7 +127,7 @@
         {
           "id": "ENG-B04-008",
           "type": "PG",
-          "text": "Which sentence correctly describes \"hopscotch\"?",
+          "text": "Players draw numbered squares on the ground. Which game is this?",
           "options": [
             "We draw a hopscotch court before playing.",
             "In jump rope, one or more players jump over a swinging rope.",
@@ -135,12 +135,12 @@
             "In tag, one player chases and tries to touch another player."
           ],
           "answer": "We draw a hopscotch court before playing.",
-          "discussion": "Hopscotch uses a court of squares. Players hop from one square to another."
+          "discussion": "Hopscotch uses a court with squares and a token. Players throw the token and hop through the squares."
         },
         {
           "id": "ENG-B04-009",
           "type": "PG",
-          "text": "Which word matches this clue: engklek?",
+          "text": "Which game uses a court of squares and a small token?",
           "options": [
             "hopscotch",
             "jump",
@@ -148,12 +148,12 @@
             "jump rope"
           ],
           "answer": "hopscotch",
-          "discussion": "Hopscotch uses a court of squares. Players hop from one square to another."
+          "discussion": "Hopscotch uses a court with squares and a token. Players throw the token and hop through the squares."
         },
         {
           "id": "ENG-B04-010",
           "type": "PG",
-          "text": "Choose the correct statement about hopscotch.",
+          "text": "You throw a marker and hop through numbered squares. What game is this?",
           "options": [
             "We draw a hopscotch court before playing.",
             "Jump means to move off the ground using your legs.",
@@ -161,7 +161,7 @@
             "Hop means to move by jumping on one foot."
           ],
           "answer": "We draw a hopscotch court before playing.",
-          "discussion": "Hopscotch uses a court of squares. Players hop from one square to another.",
+          "discussion": "Hopscotch uses a court with squares and a token. Players throw the token and hop through the squares.",
           "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/games-traditional.svg"
         },
         {
@@ -193,7 +193,7 @@
         {
           "id": "ENG-B04-013",
           "type": "PG",
-          "text": "Which sentence correctly describes \"jump rope\"?",
+          "text": "Two friends turn a rope while another jumps. Which game is this?",
           "options": [
             "In jump rope, one or more players jump over a swinging rope.",
             "In tag, one player chases and tries to touch another player.",
@@ -201,12 +201,12 @@
             "In blindfold tag, one player wears a blindfold and tries to catch another player."
           ],
           "answer": "In jump rope, one or more players jump over a swinging rope.",
-          "discussion": "Jump rope needs a rope. Players jump over it while others swing it."
+          "discussion": "Jump rope uses a rope. One or more players jump while another person swings the rope."
         },
         {
           "id": "ENG-B04-014",
           "type": "PG",
-          "text": "Which word matches this clue: lompat tali?",
+          "text": "Which game needs a rope that swings above the ground?",
           "options": [
             "blindfold tag",
             "jump rope",
@@ -214,12 +214,12 @@
             "first"
           ],
           "answer": "jump rope",
-          "discussion": "Jump rope needs a rope. Players jump over it while others swing it."
+          "discussion": "Jump rope uses a rope. One or more players jump while another person swings the rope."
         },
         {
           "id": "ENG-B04-015",
           "type": "PG",
-          "text": "Choose the correct statement about jump rope.",
+          "text": "You jump over a rope held by your friends. What game are you playing?",
           "options": [
             "Jump means to move off the ground using your legs.",
             "In jump rope, one or more players jump over a swinging rope.",
@@ -227,7 +227,7 @@
             "The children swing the rope for the player."
           ],
           "answer": "In jump rope, one or more players jump over a swinging rope.",
-          "discussion": "Jump rope needs a rope. Players jump over it while others swing it."
+          "discussion": "Jump rope uses a rope. One or more players jump while another person swings the rope."
         },
         {
           "id": "ENG-B04-016",
@@ -258,7 +258,7 @@
         {
           "id": "ENG-B04-018",
           "type": "PG",
-          "text": "Which sentence correctly describes \"blindfold tag\"?",
+          "text": "One player wears something over the eyes. Which game is this?",
           "options": [
             "We play hide and seek after school.",
             "In blindfold tag, one player wears a blindfold and tries to catch another player.",
@@ -266,12 +266,12 @@
             "In jump rope, one or more players jump over a swinging rope."
           ],
           "answer": "In blindfold tag, one player wears a blindfold and tries to catch another player.",
-          "discussion": "Blindfold tag includes a blindfold. The player cannot see while trying to catch someone."
+          "discussion": "Blindfold tag includes a blindfold. A player tries to catch or tag another player while unable to see clearly."
         },
         {
           "id": "ENG-B04-019",
           "type": "PG",
-          "text": "Which word matches this clue: permainan kejar-kejaran dengan mata tertutup?",
+          "text": "In which game does a blindfolded player try to tag others?",
           "options": [
             "tag",
             "blindfold tag",
@@ -279,13 +279,13 @@
             "hide and seek"
           ],
           "answer": "blindfold tag",
-          "discussion": "Blindfold tag includes a blindfold. The player cannot see while trying to catch someone.",
+          "discussion": "Blindfold tag includes a blindfold. A player tries to catch or tag another player while unable to see clearly.",
           "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/games-traditional.svg"
         },
         {
           "id": "ENG-B04-020",
           "type": "PG",
-          "text": "Choose the correct statement about blindfold tag.",
+          "text": "Your classmate wears a blindfold during a chasing game. What game is this?",
           "options": [
             "We play hide and seek after school.",
             "In blindfold tag, one player wears a blindfold and tries to catch another player.",
@@ -293,7 +293,7 @@
             "In jump rope, one or more players jump over a swinging rope."
           ],
           "answer": "In blindfold tag, one player wears a blindfold and tries to catch another player.",
-          "discussion": "Blindfold tag includes a blindfold. The player cannot see while trying to catch someone."
+          "discussion": "Blindfold tag includes a blindfold. A player tries to catch or tag another player while unable to see clearly."
         },
         {
           "id": "ENG-B04-021",
@@ -324,7 +324,7 @@
         {
           "id": "ENG-B04-023",
           "type": "PG",
-          "text": "Which sentence correctly describes \"tag\"?",
+          "text": "One player chases another and tries to touch them. Which game is this?",
           "options": [
             "We draw a hopscotch court before playing.",
             "In tag, one player chases and tries to touch another player.",
@@ -332,12 +332,12 @@
             "In blindfold tag, one player wears a blindfold and tries to catch another player."
           ],
           "answer": "In tag, one player chases and tries to touch another player.",
-          "discussion": "Tag is a chasing game. A player tries to touch another player."
+          "discussion": "Tag is a chasing game in which a player tries to touch another player. Play gently and keep a safe distance from obstacles."
         },
         {
           "id": "ENG-B04-024",
           "type": "PG",
-          "text": "Which word matches this clue: permainan kejar-kejaran untuk menyentuh pemain lain?",
+          "text": "Which game is played by chasing and gently touching another player?",
           "options": [
             "jump",
             "tag",
@@ -345,12 +345,12 @@
             "hopscotch"
           ],
           "answer": "tag",
-          "discussion": "Tag is a chasing game. A player tries to touch another player."
+          "discussion": "Tag is a chasing game in which a player tries to touch another player. Play gently and keep a safe distance from obstacles."
         },
         {
           "id": "ENG-B04-025",
           "type": "PG",
-          "text": "Choose the correct statement about tag.",
+          "text": "You run after your friend and try to touch their shoulder. What game is this?",
           "options": [
             "We draw a hopscotch court before playing.",
             "In tag, one player chases and tries to touch another player.",
@@ -358,7 +358,7 @@
             "In jump rope, one or more players jump over a swinging rope."
           ],
           "answer": "In tag, one player chases and tries to touch another player.",
-          "discussion": "Tag is a chasing game. A player tries to touch another player."
+          "discussion": "Tag is a chasing game in which a player tries to touch another player. Play gently and keep a safe distance from obstacles."
         },
         {
           "id": "ENG-B04-026",
@@ -389,7 +389,7 @@
         {
           "id": "ENG-B04-028",
           "type": "PG",
-          "text": "Which sentence correctly describes \"jump\"?",
+          "text": "Which action moves your body off the ground using your legs?",
           "options": [
             "In blindfold tag, one player wears a blindfold and tries to catch another player.",
             "In jump rope, one or more players jump over a swinging rope.",
@@ -397,13 +397,13 @@
             "In tag, one player chases and tries to touch another player."
           ],
           "answer": "Jump means to move off the ground using your legs.",
-          "discussion": "Jump means melompat. It describes moving upward or forward from the ground.",
+          "discussion": "Jump means to push your body off the ground using your legs.",
           "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/games-traditional.svg"
         },
         {
           "id": "ENG-B04-029",
           "type": "PG",
-          "text": "Which word matches this clue: melompat?",
+          "text": "You want to go over a low rope. Which action word do you need?",
           "options": [
             "hop",
             "first",
@@ -411,12 +411,12 @@
             "jump rope"
           ],
           "answer": "jump",
-          "discussion": "Jump means melompat. It describes moving upward or forward from the ground."
+          "discussion": "Jump means to push your body off the ground using your legs."
         },
         {
           "id": "ENG-B04-030",
           "type": "PG",
-          "text": "Choose the correct statement about jump.",
+          "text": "Complete the instruction: '___ over the line!'",
           "options": [
             "In jump rope, one or more players jump over a swinging rope.",
             "In blindfold tag, one player wears a blindfold and tries to catch another player.",
@@ -424,7 +424,7 @@
             "In tag, one player chases and tries to touch another player."
           ],
           "answer": "Jump means to move off the ground using your legs.",
-          "discussion": "Jump means melompat. It describes moving upward or forward from the ground."
+          "discussion": "Jump means to push your body off the ground using your legs."
         },
         {
           "id": "ENG-B04-031",
@@ -455,7 +455,7 @@
         {
           "id": "ENG-B04-033",
           "type": "PG",
-          "text": "Which sentence correctly describes \"hop\"?",
+          "text": "Which action means jumping on one foot?",
           "options": [
             "We play hide and seek after school.",
             "We draw a hopscotch court before playing.",
@@ -463,12 +463,12 @@
             "In jump rope, one or more players jump over a swinging rope."
           ],
           "answer": "Hop means to move by jumping on one foot.",
-          "discussion": "Hop is a small jump, usually on one foot. It is used when playing hopscotch."
+          "discussion": "Hop means to jump on one foot. This movement is used in hopscotch."
         },
         {
           "id": "ENG-B04-034",
           "type": "PG",
-          "text": "Which word matches this clue: meloncat dengan satu kaki?",
+          "text": "In hopscotch, what do you do from one square to the next?",
           "options": [
             "swing",
             "hide and seek",
@@ -476,12 +476,12 @@
             "blindfold tag"
           ],
           "answer": "hop",
-          "discussion": "Hop is a small jump, usually on one foot. It is used when playing hopscotch."
+          "discussion": "Hop means to jump on one foot. This movement is used in hopscotch."
         },
         {
           "id": "ENG-B04-035",
           "type": "PG",
-          "text": "Choose the correct statement about hop.",
+          "text": "You move forward with little jumps on one foot. What do you do?",
           "options": [
             "In blindfold tag, one player wears a blindfold and tries to catch another player.",
             "In tag, one player chases and tries to touch another player.",
@@ -489,7 +489,7 @@
             "Jump means to move off the ground using your legs."
           ],
           "answer": "Hop means to move by jumping on one foot.",
-          "discussion": "Hop is a small jump, usually on one foot. It is used when playing hopscotch."
+          "discussion": "Hop means to jump on one foot. This movement is used in hopscotch."
         },
         {
           "id": "ENG-B04-036",
@@ -521,7 +521,7 @@
         {
           "id": "ENG-B04-038",
           "type": "PG",
-          "text": "Which sentence correctly describes \"swing\"?",
+          "text": "Which action means moving something back and forth?",
           "options": [
             "We draw a hopscotch court before playing.",
             "In jump rope, one or more players jump over a swinging rope.",
@@ -529,12 +529,12 @@
             "In blindfold tag, one player wears a blindfold and tries to catch another player."
           ],
           "answer": "The children swing the rope for the player.",
-          "discussion": "Swing means to move something back and forth. In jump rope, two players swing the rope."
+          "discussion": "Swing means to move something back and forth. Friends swing the rope in jump rope."
         },
         {
           "id": "ENG-B04-039",
           "type": "PG",
-          "text": "Which word matches this clue: mengayunkan?",
+          "text": "What do two children do to the rope before a friend jumps?",
           "options": [
             "throw",
             "tag",
@@ -542,12 +542,12 @@
             "swing"
           ],
           "answer": "swing",
-          "discussion": "Swing means to move something back and forth. In jump rope, two players swing the rope."
+          "discussion": "Swing means to move something back and forth. Friends swing the rope in jump rope."
         },
         {
           "id": "ENG-B04-040",
           "type": "PG",
-          "text": "Choose the correct statement about swing.",
+          "text": "The children move the rope in a smooth motion. Which verb describes it?",
           "options": [
             "Hop means to move by jumping on one foot.",
             "In tag, one player chases and tries to touch another player.",
@@ -555,7 +555,7 @@
             "The children swing the rope for the player."
           ],
           "answer": "The children swing the rope for the player.",
-          "discussion": "Swing means to move something back and forth. In jump rope, two players swing the rope."
+          "discussion": "Swing means to move something back and forth. Friends swing the rope in jump rope."
         },
         {
           "id": "ENG-B04-041",
@@ -586,7 +586,7 @@
         {
           "id": "ENG-B04-043",
           "type": "PG",
-          "text": "Which sentence correctly describes \"throw\"?",
+          "text": "Which action sends an object through the air using your hand?",
           "options": [
             "In jump rope, one or more players jump over a swinging rope.",
             "In tag, one player chases and tries to touch another player.",
@@ -594,12 +594,12 @@
             "First, throw the token onto a square."
           ],
           "answer": "First, throw the token onto a square.",
-          "discussion": "Throw means melempar. In hopscotch, a token is thrown onto a square."
+          "discussion": "Throw means to send something through the air using your hand. In hopscotch, players throw a token onto a square."
         },
         {
           "id": "ENG-B04-044",
           "type": "PG",
-          "text": "Which word matches this clue: melempar?",
+          "text": "What do you do to the token before hopping in hopscotch?",
           "options": [
             "jump",
             "first",
@@ -607,12 +607,12 @@
             "throw"
           ],
           "answer": "throw",
-          "discussion": "Throw means melempar. In hopscotch, a token is thrown onto a square."
+          "discussion": "Throw means to send something through the air using your hand. In hopscotch, players throw a token onto a square."
         },
         {
           "id": "ENG-B04-045",
           "type": "PG",
-          "text": "Choose the correct statement about throw.",
+          "text": "Complete: '___ the ball to your partner.'",
           "options": [
             "We play hide and seek after school.",
             "We draw a hopscotch court before playing.",
@@ -620,7 +620,7 @@
             "First, throw the token onto a square."
           ],
           "answer": "First, throw the token onto a square.",
-          "discussion": "Throw means melempar. In hopscotch, a token is thrown onto a square."
+          "discussion": "Throw means to send something through the air using your hand. In hopscotch, players throw a token onto a square."
         },
         {
           "id": "ENG-B04-046",
@@ -652,7 +652,7 @@
         {
           "id": "ENG-B04-048",
           "type": "PG",
-          "text": "Which sentence correctly describes \"first\"?",
+          "text": "Which word introduces the beginning of instructions?",
           "options": [
             "In jump rope, one or more players jump over a swinging rope.",
             "We play hide and seek after school.",
@@ -660,12 +660,12 @@
             "First, draw the hopscotch court."
           ],
           "answer": "First, draw the hopscotch court.",
-          "discussion": "First introduces the beginning of a sequence. It tells us which step comes at the start."
+          "discussion": "First is a sequencing word used to introduce the beginning of instructions."
         },
         {
           "id": "ENG-B04-049",
           "type": "PG",
-          "text": "Which word matches this clue: pertama?",
+          "text": "Which word introduces step number one?",
           "options": [
             "hide and seek",
             "blindfold tag",
@@ -673,12 +673,12 @@
             "first"
           ],
           "answer": "first",
-          "discussion": "First introduces the beginning of a sequence. It tells us which step comes at the start."
+          "discussion": "First is a sequencing word used to introduce the beginning of instructions."
         },
         {
           "id": "ENG-B04-050",
           "type": "PG",
-          "text": "Choose the correct statement about first.",
+          "text": "Complete: '___, draw the hopscotch court. Next, throw the token.'",
           "options": [
             "We draw a hopscotch court before playing.",
             "In jump rope, one or more players jump over a swinging rope.",
@@ -686,7 +686,7 @@
             "First, draw the hopscotch court."
           ],
           "answer": "First, draw the hopscotch court.",
-          "discussion": "First introduces the beginning of a sequence. It tells us which step comes at the start."
+          "discussion": "First is a sequencing word used to introduce the beginning of instructions."
         }
       ]
     }
