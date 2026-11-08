@@ -381,6 +381,8 @@ let quizQuestions = [];
 let currentQuestionIndex = 0;
 let correctAnswersCount = 0;
 let selectedOptionText = null;
+let selectedOptionLabel = null;
+let currentDisplayOptions = [];
 let audioCtx = null;
 
 async function renderMath(elementId) {
@@ -860,10 +862,11 @@ document.getElementById('btnStartQuiz').onclick = async () => {
 
 async function renderQuizQuestion() {
   selectedOptionText = null;
+  selectedOptionLabel = null;
   const q = quizQuestions[currentQuestionIndex];
   
-  // Acak posisi Opsi Jawaban
-  let displayOptions = [...q.options].sort(() => Math.random() - 0.5);
+  // Acak posisi opsi; label A, B, C, D mengikuti urutan tampilan.
+  currentDisplayOptions = [...q.options].sort(() => Math.random() - 0.5);
 
   document.getElementById('quizQNumber').textContent = `Soal ${currentQuestionIndex + 1} dari 20`;
   document.getElementById('quizQProgress').style.width = `${((currentQuestionIndex) / 20) * 100}%`;
@@ -873,15 +876,19 @@ async function renderQuizQuestion() {
   const optContainer = document.getElementById('quizOptions');
   optContainer.innerHTML = '';
   
-  displayOptions.forEach(opt => {
+  currentDisplayOptions.forEach((opt, index) => {
     const btn = document.createElement('button');
+    const optionLabel = String.fromCharCode(65 + index);
     btn.className = 'option-btn';
-    btn.textContent = opt;
+    btn.dataset.optionText = opt;
+    btn.dataset.optionLabel = optionLabel;
+    btn.textContent = `${optionLabel}. ${opt}`;
     btn.onclick = () => {
       // Izinkan ganti pilihan sebelum koreksi
       document.querySelectorAll('.option-btn').forEach(b => b.classList.remove('selected'));
       btn.classList.add('selected');
       selectedOptionText = opt;
+      selectedOptionLabel = optionLabel;
       
       const actionBtn = document.getElementById('btnQuizAction');
       actionBtn.disabled = false;
@@ -901,15 +908,19 @@ async function renderQuizQuestion() {
 
 async function checkAnswer() {
   const q = quizQuestions[currentQuestionIndex];
+  const correctOptionIndex = currentDisplayOptions.findIndex(opt => opt === q.correctText);
+  const correctOptionLabel = correctOptionIndex >= 0
+    ? String.fromCharCode(65 + correctOptionIndex)
+    : 'Tidak ditemukan';
   const isCorrect = (selectedOptionText === q.correctText);
 
-  // Kunci semua tombol
+  // Kunci semua tombol dan tandai jawaban berdasarkan teks opsi.
   const btns = document.querySelectorAll('.option-btn');
   btns.forEach(btn => {
     btn.disabled = true;
-    if (btn.textContent === q.correctText) {
+    if (btn.dataset.optionText === q.correctText) {
       btn.classList.add('correct');
-    } else if (btn.textContent === selectedOptionText && !isCorrect) {
+    } else if (btn.dataset.optionText === selectedOptionText && !isCorrect) {
       btn.classList.add('wrong');
     }
   });
@@ -920,9 +931,12 @@ async function checkAnswer() {
 
   if (isCorrect) correctAnswersCount++;
 
-  // Tampilkan Pembahasan
+  // Tampilkan huruf jawaban sesuai urutan opsi yang sedang ditampilkan.
   const explDiv = document.getElementById('quizExplanation');
-  explDiv.innerHTML = `<strong style="color:var(--primary); font-size:14px; margin-bottom:5px; display:block;">Pembahasan:</strong>${q.explanation}`;
+  const answerStatus = isCorrect
+    ? `<div style="margin-bottom:10px;"><strong>Jawaban kamu:</strong> ${selectedOptionLabel} <span style="color:var(--success);font-weight:bold;">(Benar)</span></div>`
+    : `<div style="margin-bottom:10px;"><strong>Jawaban kamu:</strong> ${selectedOptionLabel || '-'} <span style="color:#dc2626;font-weight:bold;">(Belum tepat)</span><br><strong>Jawaban benar:</strong> ${correctOptionLabel}</div>`;
+  explDiv.innerHTML = `${answerStatus}<strong style="color:var(--primary); font-size:14px; margin-bottom:5px; display:block;">Pembahasan:</strong>${q.explanation}`;
   explDiv.classList.remove('hidden');
 
   // Update Progress Full
