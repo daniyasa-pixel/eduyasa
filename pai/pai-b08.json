@@ -24,7 +24,7 @@
         {
           "id": "PAI-B08-Q002",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: apa yang dimaksud lingkungan?",
+          "text": "Dalam kuis bab Peduli Lingkungan, pertanyaan yang harus kamu jawab adalah: apa yang dimaksud lingkungan?",
           "options": [
             "Hanya udara",
             "Segala sesuatu di sekitar tempat makhluk hidup",
@@ -37,7 +37,7 @@
         {
           "id": "PAI-B08-Q003",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Apa yang dimaksud lingkungan?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Peduli Lingkungan, jawablah pertanyaan berikut: Apa yang dimaksud lingkungan?",
           "options": [
             "Hanya tumbuhan",
             "Hanya udara",
@@ -67,7 +67,7 @@
         {
           "id": "PAI-B08-Q005",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: apa komponen lingkungan yang perlu dijaga?",
+          "text": "Dalam kuis bab Peduli Lingkungan, pertanyaan yang harus kamu jawab adalah: apa komponen lingkungan yang perlu dijaga?",
           "options": [
             "Tanah, air, udara, dan tumbuh-tumbuhan",
             "Hanya gedung",
@@ -80,7 +80,7 @@
         {
           "id": "PAI-B08-Q006",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Apa komponen lingkungan yang perlu dijaga?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Peduli Lingkungan, jawablah pertanyaan berikut: Apa komponen lingkungan yang perlu dijaga?",
           "options": [
             "Hanya gedung",
             "Tanah, air, udara, dan tumbuh-tumbuhan",
@@ -106,7 +106,7 @@
         {
           "id": "PAI-B08-Q008",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: apa pesan Q.S. ar-Rūm/30:41?",
+          "text": "Dalam kuis bab Peduli Lingkungan, pertanyaan yang harus kamu jawab adalah: apa pesan Q.S. ar-Rūm/30:41?",
           "options": [
             "Sampah membuat alam subur",
             "Manusia boleh merusak alam",
@@ -119,7 +119,7 @@
         {
           "id": "PAI-B08-Q009",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Apa pesan Q.S. ar-Rūm/30:41?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Peduli Lingkungan, jawablah pertanyaan berikut: Apa pesan Q.S. ar-Rūm/30:41?",
           "options": [
             "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
             "Alam tidak dipengaruhi manusia",
@@ -145,7 +145,7 @@
         {
           "id": "PAI-B08-Q011",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: mengapa lingkungan bersih penting?",
+          "text": "Dalam kuis bab Peduli Lingkungan, pertanyaan yang harus kamu jawab adalah: mengapa lingkungan bersih penting?",
           "options": [
             "Membuat penyakit bertambah",
             "Mengurangi udara bersih",
@@ -158,7 +158,7 @@
         {
           "id": "PAI-B08-Q012",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Mengapa lingkungan bersih penting?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Peduli Lingkungan, jawablah pertanyaan berikut: Mengapa lingkungan bersih penting?",
           "options": [
             "Membuat penyakit bertambah",
             "Mengurangi udara bersih",
@@ -184,7 +184,7 @@
         {
           "id": "PAI-B08-Q014",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: bagaimana cara menjaga air?",
+          "text": "Dalam kuis bab Peduli Lingkungan, pertanyaan yang harus kamu jawab adalah: bagaimana cara menjaga air?",
           "options": [
             "Membuang plastik ke danau",
             "Menggunakan seperlunya dan tidak mencemarinya",
@@ -197,7 +197,7 @@
         {
           "id": "PAI-B08-Q015",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Bagaimana cara menjaga air?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Peduli Lingkungan, jawablah pertanyaan berikut: Bagaimana cara menjaga air?",
           "options": [
             "Membiarkan keran terbuka",
             "Membuang plastik ke danau",
@@ -223,7 +223,7 @@
         {
           "id": "PAI-B08-Q017",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: bagaimana cara menjaga udara?",
+          "text": "Dalam kuis bab Peduli Lingkungan, pertanyaan yang harus kamu jawab adalah: bagaimana cara menjaga udara?",
           "options": [
             "Mengurangi sumber asap dan tidak membakar sampah sembarangan",
             "Membakar plastik setiap hari",
@@ -236,7 +236,7 @@
         {
           "id": "PAI-B08-Q018",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Bagaimana cara menjaga udara?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Peduli Lingkungan, jawablah pertanyaan berikut: Bagaimana cara menjaga udara?",
           "options": [
             "Membakar plastik setiap hari",
             "Mengurangi sumber asap dan tidak membakar sampah sembarangan",
@@ -262,7 +262,7 @@
         {
           "id": "PAI-B08-Q020",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: apa tindakan untuk menjaga tumbuhan?",
+          "text": "Dalam kuis bab Peduli Lingkungan, pertanyaan yang harus kamu jawab adalah: apa tindakan untuk menjaga tumbuhan?",
           "options": [
             "Mematahkan dahan",
             "Mencabut tanpa alasan",
@@ -275,7 +275,7 @@
         {
           "id": "PAI-B08-Q021",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Apa tindakan untuk menjaga tumbuhan?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Peduli Lingkungan, jawablah pertanyaan berikut: Apa tindakan untuk menjaga tumbuhan?",
           "options": [
             "Menanam dan merawatnya",
             "Menginjak tanaman",
@@ -301,7 +301,7 @@
         {
           "id": "PAI-B08-Q023",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: apa yang sebaiknya dilakukan terhadap sampah?",
+          "text": "Dalam kuis bab Peduli Lingkungan, pertanyaan yang harus kamu jawab adalah: apa yang sebaiknya dilakukan terhadap sampah?",
           "options": [
             "Membuang ke sungai",
             "Menumpuk di jalan",
@@ -314,7 +314,7 @@
         {
           "id": "PAI-B08-Q024",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Apa yang sebaiknya dilakukan terhadap sampah?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Peduli Lingkungan, jawablah pertanyaan berikut: Apa yang sebaiknya dilakukan terhadap sampah?",
           "options": [
             "Membuang ke sungai",
             "Menumpuk di jalan",
@@ -340,7 +340,7 @@
         {
           "id": "PAI-B08-Q026",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: mengapa menjaga lingkungan perlu kerja sama?",
+          "text": "Dalam kuis bab Peduli Lingkungan, pertanyaan yang harus kamu jawab adalah: mengapa menjaga lingkungan perlu kerja sama?",
           "options": [
             "Karena alam tidak penting",
             "Karena lingkungan digunakan dan memengaruhi kehidupan bersama",
@@ -353,7 +353,7 @@
         {
           "id": "PAI-B08-Q027",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Mengapa menjaga lingkungan perlu kerja sama?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Peduli Lingkungan, jawablah pertanyaan berikut: Mengapa menjaga lingkungan perlu kerja sama?",
           "options": [
             "Agar pekerjaan tidak selesai",
             "Karena alam tidak penting",
@@ -379,7 +379,7 @@
         {
           "id": "PAI-B08-Q029",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: apa manfaat menanam pohon?",
+          "text": "Dalam kuis bab Peduli Lingkungan, pertanyaan yang harus kamu jawab adalah: apa manfaat menanam pohon?",
           "options": [
             "Membantu menjaga udara dan lingkungan",
             "Menambah sampah plastik",
@@ -392,7 +392,7 @@
         {
           "id": "PAI-B08-Q030",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Apa manfaat menanam pohon?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Peduli Lingkungan, jawablah pertanyaan berikut: Apa manfaat menanam pohon?",
           "options": [
             "Menambah sampah plastik",
             "Membantu menjaga udara dan lingkungan",
