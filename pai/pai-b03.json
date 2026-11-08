@@ -10,7 +10,7 @@
       "questions": [
         {
           "id": "PAI-B03-Q001",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa makna menyatakan penyesalan?",
           "options": [
             "Mengungkapkan rasa menyesal atas kesalahan",
@@ -23,7 +23,7 @@
         },
         {
           "id": "PAI-B03-Q002",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: apa makna menyatakan penyesalan?",
           "options": [
             "Meminta hadiah",
@@ -36,7 +36,7 @@
         },
         {
           "id": "PAI-B03-Q003",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Apa makna menyatakan penyesalan?” adalah ...",
           "options": [
             "Menyembunyikan kesalahan",
@@ -49,34 +49,21 @@
         },
         {
           "id": "PAI-B03-Q004",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa arti memaafkan?",
           "options": [
             "Menyebarkan aib",
             "Membenarkan semua tindakan salah",
-            "Melepaskan dendam dan tidak membalas kesalahan",
-            "Membalas dengan kesalahan lain"
-          ],
-          "answer": "Melepaskan dendam dan tidak membalas kesalahan",
-          "discussion": "Memaafkan berarti tidak menyimpan dendam dan tidak membalas keburukan."
-        },
-        {
-          "id": "PAI-B03-Q005",
-          "type": "multiple_choice",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: apa arti memaafkan?",
-          "options": [
             "Membalas dengan kesalahan lain",
-            "Menyebarkan aib",
-            "Membenarkan semua tindakan salah",
             "Melepaskan dendam dan tidak membalas kesalahan"
           ],
           "answer": "Melepaskan dendam dan tidak membalas kesalahan",
           "discussion": "Memaafkan berarti tidak menyimpan dendam dan tidak membalas keburukan."
         },
         {
-          "id": "PAI-B03-Q006",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Apa arti memaafkan?” adalah ...",
+          "id": "PAI-B03-Q005",
+          "type": "PG",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: apa arti memaafkan?",
           "options": [
             "Melepaskan dendam dan tidak membalas kesalahan",
             "Membalas dengan kesalahan lain",
@@ -87,39 +74,56 @@
           "discussion": "Memaafkan berarti tidak menyimpan dendam dan tidak membalas keburukan."
         },
         {
-          "id": "PAI-B03-Q007",
-          "type": "multiple_choice",
-          "text": "Apa langkah awal ketika menyadari kesalahan?",
+          "id": "PAI-B03-Q006",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Apa arti memaafkan?” adalah ...",
           "options": [
-            "Mengakui kesalahan dengan jujur",
+            "Membalas dengan kesalahan lain",
+            "Melepaskan dendam dan tidak membalas kesalahan",
+            "Menyebarkan aib",
+            "Membenarkan semua tindakan salah"
+          ],
+          "answer": "Melepaskan dendam dan tidak membalas kesalahan",
+          "discussion": "Memaafkan berarti tidak menyimpan dendam dan tidak membalas keburukan."
+        },
+        {
+          "id": "PAI-B03-Q007",
+          "type": "PG",
+          "text": "Perhatikan diagram langkah memperbaiki kesalahan. Langkah pertama yang harus dilakukan adalah ...",
+          "options": [
             "Mencari kambing hitam",
             "Menghapus bukti",
+            "Mengakui kesalahan dengan jujur",
             "Berpura-pura tidak tahu"
           ],
           "answer": "Mengakui kesalahan dengan jujur",
-          "discussion": "Kejujuran adalah langkah awal untuk memperbaiki kesalahan."
+          "discussion": "Kejujuran adalah langkah awal untuk memperbaiki kesalahan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/forgive-steps.svg",
+            "alt": "Diagram langkah memperbaiki kesalahan"
+          }
         },
         {
           "id": "PAI-B03-Q008",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: apa langkah awal ketika menyadari kesalahan?",
           "options": [
             "Berpura-pura tidak tahu",
-            "Mengakui kesalahan dengan jujur",
             "Mencari kambing hitam",
-            "Menghapus bukti"
+            "Menghapus bukti",
+            "Mengakui kesalahan dengan jujur"
           ],
           "answer": "Mengakui kesalahan dengan jujur",
           "discussion": "Kejujuran adalah langkah awal untuk memperbaiki kesalahan."
         },
         {
           "id": "PAI-B03-Q009",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Apa langkah awal ketika menyadari kesalahan?” adalah ...",
           "options": [
+            "Mengakui kesalahan dengan jujur",
             "Menghapus bukti",
             "Berpura-pura tidak tahu",
-            "Mengakui kesalahan dengan jujur",
             "Mencari kambing hitam"
           ],
           "answer": "Mengakui kesalahan dengan jujur",
@@ -127,12 +131,12 @@
         },
         {
           "id": "PAI-B03-Q010",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Mengapa penyesalan perlu diikuti perbaikan?",
           "options": [
             "Agar mendapat hadiah",
-            "Agar kesalahan menjadi candaan",
             "Agar kesalahan diakui dan akibatnya diperbaiki",
+            "Agar kesalahan menjadi candaan",
             "Agar orang lain takut"
           ],
           "answer": "Agar kesalahan diakui dan akibatnya diperbaiki",
@@ -140,8 +144,21 @@
         },
         {
           "id": "PAI-B03-Q011",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: mengapa penyesalan perlu diikuti perbaikan?",
+          "options": [
+            "Agar orang lain takut",
+            "Agar mendapat hadiah",
+            "Agar kesalahan diakui dan akibatnya diperbaiki",
+            "Agar kesalahan menjadi candaan"
+          ],
+          "answer": "Agar kesalahan diakui dan akibatnya diperbaiki",
+          "discussion": "Penyesalan yang tulus tampak dari tindakan memperbaiki akibat kesalahan."
+        },
+        {
+          "id": "PAI-B03-Q012",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Mengapa penyesalan perlu diikuti perbaikan?” adalah ...",
           "options": [
             "Agar orang lain takut",
             "Agar mendapat hadiah",
@@ -152,21 +169,8 @@
           "discussion": "Penyesalan yang tulus tampak dari tindakan memperbaiki akibat kesalahan."
         },
         {
-          "id": "PAI-B03-Q012",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Mengapa penyesalan perlu diikuti perbaikan?” adalah ...",
-          "options": [
-            "Agar kesalahan diakui dan akibatnya diperbaiki",
-            "Agar orang lain takut",
-            "Agar mendapat hadiah",
-            "Agar kesalahan menjadi candaan"
-          ],
-          "answer": "Agar kesalahan diakui dan akibatnya diperbaiki",
-          "discussion": "Penyesalan yang tulus tampak dari tindakan memperbaiki akibat kesalahan."
-        },
-        {
           "id": "PAI-B03-Q013",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa ciri orang yang pemaaf?",
           "options": [
             "Tidak pendendam dan mampu menahan amarah",
@@ -179,7 +183,7 @@
         },
         {
           "id": "PAI-B03-Q014",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: apa ciri orang yang pemaaf?",
           "options": [
             "Menyebarkan rahasia orang",
@@ -192,7 +196,7 @@
         },
         {
           "id": "PAI-B03-Q015",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Apa ciri orang yang pemaaf?” adalah ...",
           "options": [
             "Selalu membalas",
@@ -205,34 +209,21 @@
         },
         {
           "id": "PAI-B03-Q016",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apakah memaafkan berarti membenarkan perbuatan salah?",
           "options": [
             "Pelaku boleh mengulanginya",
             "Tidak, tetapi harus membalas",
-            "Tidak, memaafkan tidak membenarkan kesalahan",
-            "Ya, semua kesalahan menjadi benar"
-          ],
-          "answer": "Tidak, memaafkan tidak membenarkan kesalahan",
-          "discussion": "Memaafkan tidak menghapus tanggung jawab atau membenarkan tindakan salah."
-        },
-        {
-          "id": "PAI-B03-Q017",
-          "type": "multiple_choice",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: apakah memaafkan berarti membenarkan perbuatan salah?",
-          "options": [
             "Ya, semua kesalahan menjadi benar",
-            "Pelaku boleh mengulanginya",
-            "Tidak, tetapi harus membalas",
             "Tidak, memaafkan tidak membenarkan kesalahan"
           ],
           "answer": "Tidak, memaafkan tidak membenarkan kesalahan",
           "discussion": "Memaafkan tidak menghapus tanggung jawab atau membenarkan tindakan salah."
         },
         {
-          "id": "PAI-B03-Q018",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Apakah memaafkan berarti membenarkan perbuatan salah?” adalah ...",
+          "id": "PAI-B03-Q017",
+          "type": "PG",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: apakah memaafkan berarti membenarkan perbuatan salah?",
           "options": [
             "Tidak, memaafkan tidak membenarkan kesalahan",
             "Ya, semua kesalahan menjadi benar",
@@ -243,13 +234,26 @@
           "discussion": "Memaafkan tidak menghapus tanggung jawab atau membenarkan tindakan salah."
         },
         {
+          "id": "PAI-B03-Q018",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Apakah memaafkan berarti membenarkan perbuatan salah?” adalah ...",
+          "options": [
+            "Ya, semua kesalahan menjadi benar",
+            "Tidak, memaafkan tidak membenarkan kesalahan",
+            "Pelaku boleh mengulanginya",
+            "Tidak, tetapi harus membalas"
+          ],
+          "answer": "Tidak, memaafkan tidak membenarkan kesalahan",
+          "discussion": "Memaafkan tidak menghapus tanggung jawab atau membenarkan tindakan salah."
+        },
+        {
           "id": "PAI-B03-Q019",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Bagaimana cara meminta maaf yang baik?",
           "options": [
-            "Jujur, tulus, dan sopan",
             "Dengan marah-marah",
             "Sambil menyalahkan korban",
+            "Jujur, tulus, dan sopan",
             "Dengan mengejek"
           ],
           "answer": "Jujur, tulus, dan sopan",
@@ -257,25 +261,25 @@
         },
         {
           "id": "PAI-B03-Q020",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: bagaimana cara meminta maaf yang baik?",
           "options": [
             "Dengan mengejek",
-            "Jujur, tulus, dan sopan",
             "Dengan marah-marah",
-            "Sambil menyalahkan korban"
+            "Sambil menyalahkan korban",
+            "Jujur, tulus, dan sopan"
           ],
           "answer": "Jujur, tulus, dan sopan",
           "discussion": "Permintaan maaf disampaikan dengan tulus dan tidak menyalahkan orang yang dirugikan."
         },
         {
           "id": "PAI-B03-Q021",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Bagaimana cara meminta maaf yang baik?” adalah ...",
           "options": [
+            "Jujur, tulus, dan sopan",
             "Sambil menyalahkan korban",
             "Dengan mengejek",
-            "Jujur, tulus, dan sopan",
             "Dengan marah-marah"
           ],
           "answer": "Jujur, tulus, dan sopan",
@@ -283,12 +287,12 @@
         },
         {
           "id": "PAI-B03-Q022",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa yang sebaiknya dilakukan setelah dimaafkan?",
           "options": [
             "Mengejek orang yang memaafkan",
-            "Melupakan tanggung jawab",
             "Berusaha tidak mengulangi kesalahan",
+            "Melupakan tanggung jawab",
             "Mengulangi karena sudah dimaafkan"
           ],
           "answer": "Berusaha tidak mengulangi kesalahan",
@@ -296,8 +300,21 @@
         },
         {
           "id": "PAI-B03-Q023",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: apa yang sebaiknya dilakukan setelah dimaafkan?",
+          "options": [
+            "Mengulangi karena sudah dimaafkan",
+            "Mengejek orang yang memaafkan",
+            "Berusaha tidak mengulangi kesalahan",
+            "Melupakan tanggung jawab"
+          ],
+          "answer": "Berusaha tidak mengulangi kesalahan",
+          "discussion": "Perubahan perilaku menunjukkan kesungguhan penyesalan."
+        },
+        {
+          "id": "PAI-B03-Q024",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Apa yang sebaiknya dilakukan setelah dimaafkan?” adalah ...",
           "options": [
             "Mengulangi karena sudah dimaafkan",
             "Mengejek orang yang memaafkan",
@@ -308,21 +325,8 @@
           "discussion": "Perubahan perilaku menunjukkan kesungguhan penyesalan."
         },
         {
-          "id": "PAI-B03-Q024",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Apa yang sebaiknya dilakukan setelah dimaafkan?” adalah ...",
-          "options": [
-            "Berusaha tidak mengulangi kesalahan",
-            "Mengulangi karena sudah dimaafkan",
-            "Mengejek orang yang memaafkan",
-            "Melupakan tanggung jawab"
-          ],
-          "answer": "Berusaha tidak mengulangi kesalahan",
-          "discussion": "Perubahan perilaku menunjukkan kesungguhan penyesalan."
-        },
-        {
           "id": "PAI-B03-Q025",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa hikmah saling memaafkan?",
           "options": [
             "Mempererat persaudaraan dan mengurangi permusuhan",
@@ -335,7 +339,7 @@
         },
         {
           "id": "PAI-B03-Q026",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: apa hikmah saling memaafkan?",
           "options": [
             "Mendorong balas dendam",
@@ -348,7 +352,7 @@
         },
         {
           "id": "PAI-B03-Q027",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Apa hikmah saling memaafkan?” adalah ...",
           "options": [
             "Membuat hubungan renggang",
@@ -361,37 +365,37 @@
         },
         {
           "id": "PAI-B03-Q028",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kapan perlu meminta bantuan orang dewasa?",
           "options": [
             "Agar orang lain dihukum tanpa alasan",
             "Untuk menghindari tanggung jawab",
-            "Saat masalah berat atau keselamatan terancam",
-            "Setiap berbeda pendapat kecil"
-          ],
-          "answer": "Saat masalah berat atau keselamatan terancam",
-          "discussion": "Memaafkan bukan berarti membiarkan kekerasan; keselamatan perlu dijaga."
-        },
-        {
-          "id": "PAI-B03-Q029",
-          "type": "multiple_choice",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: kapan perlu meminta bantuan orang dewasa?",
-          "options": [
             "Setiap berbeda pendapat kecil",
-            "Agar orang lain dihukum tanpa alasan",
-            "Untuk menghindari tanggung jawab",
             "Saat masalah berat atau keselamatan terancam"
           ],
           "answer": "Saat masalah berat atau keselamatan terancam",
           "discussion": "Memaafkan bukan berarti membiarkan kekerasan; keselamatan perlu dijaga."
         },
         {
-          "id": "PAI-B03-Q030",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Kapan perlu meminta bantuan orang dewasa?” adalah ...",
+          "id": "PAI-B03-Q029",
+          "type": "PG",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hidup Damai dengan Saling Memaafkan” terkait hal berikut: kapan perlu meminta bantuan orang dewasa?",
           "options": [
             "Saat masalah berat atau keselamatan terancam",
             "Setiap berbeda pendapat kecil",
+            "Agar orang lain dihukum tanpa alasan",
+            "Untuk menghindari tanggung jawab"
+          ],
+          "answer": "Saat masalah berat atau keselamatan terancam",
+          "discussion": "Memaafkan bukan berarti membiarkan kekerasan; keselamatan perlu dijaga."
+        },
+        {
+          "id": "PAI-B03-Q030",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Hidup Damai dengan Saling Memaafkan” untuk pertanyaan “Kapan perlu meminta bantuan orang dewasa?” adalah ...",
+          "options": [
+            "Setiap berbeda pendapat kecil",
+            "Saat masalah berat atau keselamatan terancam",
             "Agar orang lain dihukum tanpa alasan",
             "Untuk menghindari tanggung jawab"
           ],
