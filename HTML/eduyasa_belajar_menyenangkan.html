@@ -1167,7 +1167,7 @@ document.getElementById('btnBackToHome').addEventListener('click', () => {
 });
 document.getElementById('btnCancelBackHome').addEventListener('click', closeRestartModal);
 document.getElementById('btnConfirmBackHome').addEventListener('click', () => {
-  location.reload();
+  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html';
 });
 
 document.getElementById('parentPhone').addEventListener('input', event => {
@@ -1192,8 +1192,10 @@ document.getElementById('reportForm').addEventListener('submit', event => {
 
   const message = buildReportMessage(studentName);
   const whatsappUrl = 'https://wa.me/' + normalizedPhone + '?text=' + encodeURIComponent(message);
+
+  // Buka WhatsApp untuk mengirim laporan, lalu kembalikan halaman EDUYASA ke homepage.
   window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
-  closeReportModal();
+  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html';
 });
 
 async function testGitHub() {
