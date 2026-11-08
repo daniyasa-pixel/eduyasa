@@ -1,0 +1,22 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "PAI-B02",
+  "chapter_title": "Allah Swt. Maha Segalanya",
+  "modules": [
+    {
+      "id": "PAI-B02-MOD-01",
+      "version": "MOD-01",
+      "title": "Empat Asmaulhusna",
+      "content": "# Allah Swt. Maha Segalanya\n\n## Tujuan Pembelajaran\nKamu dapat menjelaskan empat Asmaulhusna dan meneladani maknanya.\n\n## A. Asmaulhusna\nAsmaulhusna berarti nama-nama Allah yang indah. Pada bab ini dipelajari empat nama: **Al-Gaffār, Al-‘Afuw, Al-Wāḥid, dan Al-Ṣamad**.\n\n## B. Makna Empat Nama\n- **Al-Gaffār**: Maha Pengampun. Allah mengampuni hamba yang sungguh-sungguh bertobat.\n- **Al-‘Afuw**: Maha Pemaaf atau Maha Menghapus kesalahan.\n- **Al-Wāḥid**: Maha Esa; Allah satu dan tidak memiliki sekutu.\n- **Al-Ṣamad**: tempat bergantung dan memohon segala sesuatu; semua makhluk membutuhkan Allah.\n\n## C. Teladan\nMakna Al-Gaffār dan Al-‘Afuw mendorong kita meminta maaf dan memaafkan. Al-Wāḥid menguatkan tauhid. Al-Ṣamad mengajarkan kita berdoa dan bergantung kepada Allah.\n\n## Ringkasan\nAl-Gaffār Maha Pengampun, Al-‘Afuw Maha Pemaaf, Al-Wāḥid Maha Esa, dan Al-Ṣamad tempat bergantung semua makhluk."
+    },
+    {
+      "id": "PAI-B02-MOD-02",
+      "version": "MOD-02",
+      "title": "Memohon Ampunan Allah",
+      "content": "# Allah Swt. Maha Segalanya\n\n## Tujuan Pembelajaran\nKamu dapat menjelaskan cara bertobat dan memperbaiki kesalahan.\n\n## A. Pintu Ampunan\nManusia dapat melakukan kesalahan. Islam mengajarkan agar kita tidak berputus asa dari rahmat Allah. Kita perlu menyadari kesalahan, menyesal, berhenti melakukannya, dan bertekad tidak mengulanginya.\n\n## B. Syarat Tobat\n1. Menyadari dan mengakui kesalahan.\n2. Menyesali perbuatan tersebut.\n3. Berhenti melakukan kesalahan.\n4. Bertekad tidak mengulanginya.\n5. Jika berkaitan dengan hak orang lain, meminta maaf dan mengembalikan haknya.\n\n## C. Mengamalkan Asmaulhusna\nSaat berbuat salah, berdoalah memohon ampun dan perbaiki perilaku. Kita juga belajar memaafkan orang lain, menjaga keesaan Allah, serta meminta pertolongan hanya kepada-Nya.\n\n## Ringkasan\nTobat harus sungguh-sungguh dan disertai perbaikan. Allah Maha Pengampun dan Maha Pemaaf."
+    }
+  ]
+}
