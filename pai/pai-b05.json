@@ -1,0 +1,404 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PAI-B05",
+      "chapter_title": "Jasa Khulafaurrasyidin untuk Dunia",
+      "questions": [
+        {
+          "id": "PAI-B05-Q001",
+          "type": "multiple_choice",
+          "text": "Siapa khalifah pertama setelah Nabi Muhammad saw.?",
+          "options": [
+            "Abu Bakar al-Ṣiddiq",
+            "Umar bin Khattab",
+            "Uṡman bin Affan",
+            "Ali bin Abi Ṭalib"
+          ],
+          "answer": "Abu Bakar al-Ṣiddiq",
+          "discussion": "Abu Bakar al-Ṣiddiq menjadi khalifah pertama setelah wafatnya Nabi."
+        },
+        {
+          "id": "PAI-B05-Q002",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Jasa Khulafaurrasyidin untuk Dunia” terkait hal berikut: siapa khalifah pertama setelah Nabi Muhammad saw.?",
+          "options": [
+            "Ali bin Abi Ṭalib",
+            "Abu Bakar al-Ṣiddiq",
+            "Umar bin Khattab",
+            "Uṡman bin Affan"
+          ],
+          "answer": "Abu Bakar al-Ṣiddiq",
+          "discussion": "Abu Bakar al-Ṣiddiq menjadi khalifah pertama setelah wafatnya Nabi."
+        },
+        {
+          "id": "PAI-B05-Q003",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Jasa Khulafaurrasyidin untuk Dunia” untuk pertanyaan “Siapa khalifah pertama setelah Nabi Muhammad saw.?” adalah ...",
+          "options": [
+            "Uṡman bin Affan",
+            "Ali bin Abi Ṭalib",
+            "Abu Bakar al-Ṣiddiq",
+            "Umar bin Khattab"
+          ],
+          "answer": "Abu Bakar al-Ṣiddiq",
+          "discussion": "Abu Bakar al-Ṣiddiq menjadi khalifah pertama setelah wafatnya Nabi."
+        },
+        {
+          "id": "PAI-B05-Q004",
+          "type": "multiple_choice",
+          "text": "Apa gelar Abu Bakar?",
+          "options": [
+            "Dzun Nurain",
+            "Abu Turab",
+            "Al-Ṣiddiq",
+            "Al-Fārūq"
+          ],
+          "answer": "Al-Ṣiddiq",
+          "discussion": "Abu Bakar dikenal dengan gelar al-Ṣiddiq."
+        },
+        {
+          "id": "PAI-B05-Q005",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Jasa Khulafaurrasyidin untuk Dunia” terkait hal berikut: apa gelar Abu Bakar?",
+          "options": [
+            "Al-Fārūq",
+            "Dzun Nurain",
+            "Abu Turab",
+            "Al-Ṣiddiq"
+          ],
+          "answer": "Al-Ṣiddiq",
+          "discussion": "Abu Bakar dikenal dengan gelar al-Ṣiddiq."
+        },
+        {
+          "id": "PAI-B05-Q006",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Jasa Khulafaurrasyidin untuk Dunia” untuk pertanyaan “Apa gelar Abu Bakar?” adalah ...",
+          "options": [
+            "Al-Ṣiddiq",
+            "Al-Fārūq",
+            "Dzun Nurain",
+            "Abu Turab"
+          ],
+          "answer": "Al-Ṣiddiq",
+          "discussion": "Abu Bakar dikenal dengan gelar al-Ṣiddiq."
+        },
+        {
+          "id": "PAI-B05-Q007",
+          "type": "multiple_choice",
+          "text": "Apa salah satu jasa penting Abu Bakar?",
+          "options": [
+            "Memulai pengumpulan lembaran Al-Qur’an",
+            "Membangun angkatan laut",
+            "Menetapkan kalender Masehi",
+            "Mendirikan universitas modern"
+          ],
+          "answer": "Memulai pengumpulan lembaran Al-Qur’an",
+          "discussion": "Pada masa Abu Bakar, pengumpulan Al-Qur’an mulai dilakukan."
+        },
+        {
+          "id": "PAI-B05-Q008",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Jasa Khulafaurrasyidin untuk Dunia” terkait hal berikut: apa salah satu jasa penting Abu Bakar?",
+          "options": [
+            "Mendirikan universitas modern",
+            "Memulai pengumpulan lembaran Al-Qur’an",
+            "Membangun angkatan laut",
+            "Menetapkan kalender Masehi"
+          ],
+          "answer": "Memulai pengumpulan lembaran Al-Qur’an",
+          "discussion": "Pada masa Abu Bakar, pengumpulan Al-Qur’an mulai dilakukan."
+        },
+        {
+          "id": "PAI-B05-Q009",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Jasa Khulafaurrasyidin untuk Dunia” untuk pertanyaan “Apa salah satu jasa penting Abu Bakar?” adalah ...",
+          "options": [
+            "Menetapkan kalender Masehi",
+            "Mendirikan universitas modern",
+            "Memulai pengumpulan lembaran Al-Qur’an",
+            "Membangun angkatan laut"
+          ],
+          "answer": "Memulai pengumpulan lembaran Al-Qur’an",
+          "discussion": "Pada masa Abu Bakar, pengumpulan Al-Qur’an mulai dilakukan."
+        },
+        {
+          "id": "PAI-B05-Q010",
+          "type": "multiple_choice",
+          "text": "Siapa khalifah kedua?",
+          "options": [
+            "Uṡman bin Affan",
+            "Ali bin Abi Ṭalib",
+            "Umar bin Khattab",
+            "Abu Bakar"
+          ],
+          "answer": "Umar bin Khattab",
+          "discussion": "Umar bin Khattab memimpin setelah Abu Bakar."
+        },
+        {
+          "id": "PAI-B05-Q011",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Jasa Khulafaurrasyidin untuk Dunia” terkait hal berikut: siapa khalifah kedua?",
+          "options": [
+            "Abu Bakar",
+            "Uṡman bin Affan",
+            "Ali bin Abi Ṭalib",
+            "Umar bin Khattab"
+          ],
+          "answer": "Umar bin Khattab",
+          "discussion": "Umar bin Khattab memimpin setelah Abu Bakar."
+        },
+        {
+          "id": "PAI-B05-Q012",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Jasa Khulafaurrasyidin untuk Dunia” untuk pertanyaan “Siapa khalifah kedua?” adalah ...",
+          "options": [
+            "Umar bin Khattab",
+            "Abu Bakar",
+            "Uṡman bin Affan",
+            "Ali bin Abi Ṭalib"
+          ],
+          "answer": "Umar bin Khattab",
+          "discussion": "Umar bin Khattab memimpin setelah Abu Bakar."
+        },
+        {
+          "id": "PAI-B05-Q013",
+          "type": "multiple_choice",
+          "text": "Apa gelar Umar bin Khattab yang terkenal?",
+          "options": [
+            "Al-Fārūq",
+            "Al-Ṣiddiq",
+            "Dzun Nurain",
+            "Al-Amīn"
+          ],
+          "answer": "Al-Fārūq",
+          "discussion": "Umar dikenal dengan gelar al-Fārūq."
+        },
+        {
+          "id": "PAI-B05-Q014",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Jasa Khulafaurrasyidin untuk Dunia” terkait hal berikut: apa gelar Umar bin Khattab yang terkenal?",
+          "options": [
+            "Al-Amīn",
+            "Al-Fārūq",
+            "Al-Ṣiddiq",
+            "Dzun Nurain"
+          ],
+          "answer": "Al-Fārūq",
+          "discussion": "Umar dikenal dengan gelar al-Fārūq."
+        },
+        {
+          "id": "PAI-B05-Q015",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Jasa Khulafaurrasyidin untuk Dunia” untuk pertanyaan “Apa gelar Umar bin Khattab yang terkenal?” adalah ...",
+          "options": [
+            "Dzun Nurain",
+            "Al-Amīn",
+            "Al-Fārūq",
+            "Al-Ṣiddiq"
+          ],
+          "answer": "Al-Fārūq",
+          "discussion": "Umar dikenal dengan gelar al-Fārūq."
+        },
+        {
+          "id": "PAI-B05-Q016",
+          "type": "multiple_choice",
+          "text": "Sikap apa yang menonjol dari kepemimpinan Umar?",
+          "options": [
+            "Takut mengambil keputusan",
+            "Tidak peduli masyarakat",
+            "Adil dan tegas",
+            "Boros dan pilih kasih"
+          ],
+          "answer": "Adil dan tegas",
+          "discussion": "Umar dikenal tegas dan adil dalam memimpin."
+        },
+        {
+          "id": "PAI-B05-Q017",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Jasa Khulafaurrasyidin untuk Dunia” terkait hal berikut: sikap apa yang menonjol dari kepemimpinan Umar?",
+          "options": [
+            "Boros dan pilih kasih",
+            "Takut mengambil keputusan",
+            "Tidak peduli masyarakat",
+            "Adil dan tegas"
+          ],
+          "answer": "Adil dan tegas",
+          "discussion": "Umar dikenal tegas dan adil dalam memimpin."
+        },
+        {
+          "id": "PAI-B05-Q018",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Jasa Khulafaurrasyidin untuk Dunia” untuk pertanyaan “Sikap apa yang menonjol dari kepemimpinan Umar?” adalah ...",
+          "options": [
+            "Adil dan tegas",
+            "Boros dan pilih kasih",
+            "Takut mengambil keputusan",
+            "Tidak peduli masyarakat"
+          ],
+          "answer": "Adil dan tegas",
+          "discussion": "Umar dikenal tegas dan adil dalam memimpin."
+        },
+        {
+          "id": "PAI-B05-Q019",
+          "type": "multiple_choice",
+          "text": "Apa salah satu pembaruan administrasi pada masa Umar?",
+          "options": [
+            "Penataan pemerintahan dan pencatatan kalender Hijriah",
+            "Menghapus semua aturan",
+            "Mengganti bahasa Al-Qur’an",
+            "Membuat kalender Masehi"
+          ],
+          "answer": "Penataan pemerintahan dan pencatatan kalender Hijriah",
+          "discussion": "Umar menata administrasi, termasuk penggunaan kalender Hijriah."
+        },
+        {
+          "id": "PAI-B05-Q020",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Jasa Khulafaurrasyidin untuk Dunia” terkait hal berikut: apa salah satu pembaruan administrasi pada masa Umar?",
+          "options": [
+            "Membuat kalender Masehi",
+            "Penataan pemerintahan dan pencatatan kalender Hijriah",
+            "Menghapus semua aturan",
+            "Mengganti bahasa Al-Qur’an"
+          ],
+          "answer": "Penataan pemerintahan dan pencatatan kalender Hijriah",
+          "discussion": "Umar menata administrasi, termasuk penggunaan kalender Hijriah."
+        },
+        {
+          "id": "PAI-B05-Q021",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Jasa Khulafaurrasyidin untuk Dunia” untuk pertanyaan “Apa salah satu pembaruan administrasi pada masa Umar?” adalah ...",
+          "options": [
+            "Mengganti bahasa Al-Qur’an",
+            "Membuat kalender Masehi",
+            "Penataan pemerintahan dan pencatatan kalender Hijriah",
+            "Menghapus semua aturan"
+          ],
+          "answer": "Penataan pemerintahan dan pencatatan kalender Hijriah",
+          "discussion": "Umar menata administrasi, termasuk penggunaan kalender Hijriah."
+        },
+        {
+          "id": "PAI-B05-Q022",
+          "type": "multiple_choice",
+          "text": "Apa yang dilakukan Abu Bakar untuk menjaga persatuan umat?",
+          "options": [
+            "Melarang semua ibadah",
+            "Memindahkan Ka'bah",
+            "Menghadapi pemberontakan dan penolakan kewajiban zakat",
+            "Membiarkan perpecahan"
+          ],
+          "answer": "Menghadapi pemberontakan dan penolakan kewajiban zakat",
+          "discussion": "Abu Bakar berusaha menjaga persatuan dan kewajiban agama."
+        },
+        {
+          "id": "PAI-B05-Q023",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Jasa Khulafaurrasyidin untuk Dunia” terkait hal berikut: apa yang dilakukan Abu Bakar untuk menjaga persatuan umat?",
+          "options": [
+            "Membiarkan perpecahan",
+            "Melarang semua ibadah",
+            "Memindahkan Ka'bah",
+            "Menghadapi pemberontakan dan penolakan kewajiban zakat"
+          ],
+          "answer": "Menghadapi pemberontakan dan penolakan kewajiban zakat",
+          "discussion": "Abu Bakar berusaha menjaga persatuan dan kewajiban agama."
+        },
+        {
+          "id": "PAI-B05-Q024",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Jasa Khulafaurrasyidin untuk Dunia” untuk pertanyaan “Apa yang dilakukan Abu Bakar untuk menjaga persatuan umat?” adalah ...",
+          "options": [
+            "Menghadapi pemberontakan dan penolakan kewajiban zakat",
+            "Membiarkan perpecahan",
+            "Melarang semua ibadah",
+            "Memindahkan Ka'bah"
+          ],
+          "answer": "Menghadapi pemberontakan dan penolakan kewajiban zakat",
+          "discussion": "Abu Bakar berusaha menjaga persatuan dan kewajiban agama."
+        },
+        {
+          "id": "PAI-B05-Q025",
+          "type": "multiple_choice",
+          "text": "Apa teladan yang dapat diambil dari Abu Bakar?",
+          "options": [
+            "Jujur dan teguh dalam kebenaran",
+            "Mengingkari janji",
+            "Mementingkan diri sendiri",
+            "Mudah menyerah"
+          ],
+          "answer": "Jujur dan teguh dalam kebenaran",
+          "discussion": "Abu Bakar dikenal jujur dan teguh."
+        },
+        {
+          "id": "PAI-B05-Q026",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Jasa Khulafaurrasyidin untuk Dunia” terkait hal berikut: apa teladan yang dapat diambil dari Abu Bakar?",
+          "options": [
+            "Mudah menyerah",
+            "Jujur dan teguh dalam kebenaran",
+            "Mengingkari janji",
+            "Mementingkan diri sendiri"
+          ],
+          "answer": "Jujur dan teguh dalam kebenaran",
+          "discussion": "Abu Bakar dikenal jujur dan teguh."
+        },
+        {
+          "id": "PAI-B05-Q027",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Jasa Khulafaurrasyidin untuk Dunia” untuk pertanyaan “Apa teladan yang dapat diambil dari Abu Bakar?” adalah ...",
+          "options": [
+            "Mementingkan diri sendiri",
+            "Mudah menyerah",
+            "Jujur dan teguh dalam kebenaran",
+            "Mengingkari janji"
+          ],
+          "answer": "Jujur dan teguh dalam kebenaran",
+          "discussion": "Abu Bakar dikenal jujur dan teguh."
+        },
+        {
+          "id": "PAI-B05-Q028",
+          "type": "multiple_choice",
+          "text": "Apa pelajaran dari Umar sebagai pemimpin?",
+          "options": [
+            "Mengabaikan orang lemah",
+            "Menggunakan kekuasaan sesuka hati",
+            "Melayani masyarakat dengan adil dan bertanggung jawab",
+            "Mengutamakan keluarga sendiri"
+          ],
+          "answer": "Melayani masyarakat dengan adil dan bertanggung jawab",
+          "discussion": "Umar memperhatikan keadilan dan kesejahteraan masyarakat."
+        },
+        {
+          "id": "PAI-B05-Q029",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Jasa Khulafaurrasyidin untuk Dunia” terkait hal berikut: apa pelajaran dari Umar sebagai pemimpin?",
+          "options": [
+            "Mengutamakan keluarga sendiri",
+            "Mengabaikan orang lemah",
+            "Menggunakan kekuasaan sesuka hati",
+            "Melayani masyarakat dengan adil dan bertanggung jawab"
+          ],
+          "answer": "Melayani masyarakat dengan adil dan bertanggung jawab",
+          "discussion": "Umar memperhatikan keadilan dan kesejahteraan masyarakat."
+        },
+        {
+          "id": "PAI-B05-Q030",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Jasa Khulafaurrasyidin untuk Dunia” untuk pertanyaan “Apa pelajaran dari Umar sebagai pemimpin?” adalah ...",
+          "options": [
+            "Melayani masyarakat dengan adil dan bertanggung jawab",
+            "Mengutamakan keluarga sendiri",
+            "Mengabaikan orang lemah",
+            "Menggunakan kekuasaan sesuka hati"
+          ],
+          "answer": "Melayani masyarakat dengan adil dan bertanggung jawab",
+          "discussion": "Umar memperhatikan keadilan dan kesejahteraan masyarakat."
+        }
+      ]
+    }
+  ]
+}
