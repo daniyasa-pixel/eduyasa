@@ -13,394 +13,390 @@
           "type": "PG",
           "text": "Apa yang dimaksud lingkungan?",
           "options": [
-            "Segala sesuatu di sekitar tempat makhluk hidup",
-            "Hanya rumah manusia",
-            "Hanya tumbuhan",
-            "Hanya udara"
+            "Tempat dan segala sesuatu di sekitar makhluk hidup",
+            "Hanya bangunan tempat tinggal manusia",
+            "Hanya hewan dan tumbuhan",
+            "Tempat yang tidak memiliki makhluk hidup"
           ],
-          "answer": "Segala sesuatu di sekitar tempat makhluk hidup",
-          "discussion": "Lingkungan mencakup segala sesuatu di sekitar manusia, hewan, dan tumbuhan."
+          "answer": "Tempat dan segala sesuatu di sekitar makhluk hidup",
+          "discussion": "Lingkungan mencakup tempat hidup manusia, hewan, tumbuhan, dan unsur di sekitarnya."
         },
         {
           "id": "PAI-B08-Q002",
           "type": "PG",
-          "text": "Tempat hidup manusia, hewan, dan tumbuhan beserta unsur di sekitarnya disebut ...",
+          "text": "Apa contoh komponen biotik?",
           "options": [
-            "Hanya rumah manusia",
-            "Segala sesuatu di sekitar tempat makhluk hidup",
-            "Hanya tumbuhan",
-            "Hanya udara"
+            "Air dan batu",
+            "Pohon dan hewan",
+            "Tanah dan udara",
+            "Cahaya matahari dan pasir"
           ],
-          "answer": "Segala sesuatu di sekitar tempat makhluk hidup",
-          "discussion": "Lingkungan mencakup segala sesuatu di sekitar manusia, hewan, dan tumbuhan."
+          "answer": "Pohon dan hewan",
+          "discussion": "Biotik adalah komponen lingkungan yang hidup."
         },
         {
           "id": "PAI-B08-Q003",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Peduli Lingkungan adalah: Apa yang dimaksud lingkungan?",
+          "text": "Manakah contoh komponen abiotik?",
           "options": [
-            "Hanya rumah manusia",
-            "Hanya tumbuhan",
-            "Segala sesuatu di sekitar tempat makhluk hidup",
-            "Hanya udara"
+            "Manusia dan hewan",
+            "Pohon dan rumput",
+            "Air dan tanah",
+            "Burung dan ikan"
           ],
-          "answer": "Segala sesuatu di sekitar tempat makhluk hidup",
-          "discussion": "Lingkungan mencakup segala sesuatu di sekitar manusia, hewan, dan tumbuhan."
+          "answer": "Air dan tanah",
+          "discussion": "Abiotik merupakan unsur tak hidup seperti air, tanah, dan udara."
         },
         {
           "id": "PAI-B08-Q004",
           "type": "PG",
-          "text": "Perhatikan ilustrasi komponen lingkungan. Komponen yang perlu dijaga meliputi ...",
+          "text": "Apa pesan Q.S. ar-Rūm/30:41?",
           "options": [
-            "Unsur yang tidak bernyawa",
-            "Benda buatan manusia saja",
-            "Cuaca dan batuan saja",
-            "Unsur lingkungan yang bernyawa"
+            "Manusia bebas merusak alam",
+            "Lingkungan tidak berpengaruh pada kehidupan",
+            "Kerusakan alam tidak perlu diperbaiki",
+            "Kerusakan di darat dan laut terjadi akibat perbuatan manusia"
           ],
-          "answer": "Unsur lingkungan yang bernyawa",
-          "discussion": "Biotik adalah segala sesuatu yang bernyawa, seperti manusia, hewan, dan tumbuhan.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/environment-care.svg",
-            "alt": "Ilustrasi komponen lingkungan: tanah, air, udara, dan tumbuhan"
-          }
+          "answer": "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
+          "discussion": "Ayat tersebut mengingatkan bahwa kerusakan dapat terjadi akibat ulah manusia."
         },
         {
           "id": "PAI-B08-Q005",
           "type": "PG",
-          "text": "Manusia, hewan, dan tumbuhan termasuk lingkungan ...",
+          "text": "Apa pesan Q.S. al-A’rāf/7:56 dalam materi lingkungan?",
           "options": [
-            "Unsur lingkungan yang bernyawa",
-            "Unsur yang tidak bernyawa",
-            "Benda buatan manusia saja",
-            "Cuaca dan batuan saja"
+            "Jangan membuat kerusakan di bumi setelah diperbaiki",
+            "Buang sampah ke sungai",
+            "Gunakan sumber daya tanpa batas",
+            "Rusaklah alam untuk kepentingan sendiri"
           ],
-          "answer": "Unsur lingkungan yang bernyawa",
-          "discussion": "Biotik adalah segala sesuatu yang bernyawa, seperti manusia, hewan, dan tumbuhan."
+          "answer": "Jangan membuat kerusakan di bumi setelah diperbaiki",
+          "discussion": "Ayat melarang manusia membuat kerusakan di bumi."
         },
         {
           "id": "PAI-B08-Q006",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Peduli Lingkungan adalah: Apa yang dimaksud lingkungan biotik?",
+          "text": "Mengapa menjaga lingkungan termasuk perilaku terpuji?",
           "options": [
-            "Unsur yang tidak bernyawa",
-            "Unsur lingkungan yang bernyawa",
-            "Benda buatan manusia saja",
-            "Cuaca dan batuan saja"
+            "Karena membuat manusia bebas membuang sampah",
+            "Karena mencegah kerusakan dan merawat kehidupan makhluk",
+            "Karena alam hanya berguna bagi manusia",
+            "Karena lingkungan tidak membutuhkan perawatan"
           ],
-          "answer": "Unsur lingkungan yang bernyawa",
-          "discussion": "Biotik adalah segala sesuatu yang bernyawa, seperti manusia, hewan, dan tumbuhan."
+          "answer": "Karena mencegah kerusakan dan merawat kehidupan makhluk",
+          "discussion": "Peduli lingkungan merupakan akhlak terpuji dan bentuk tanggung jawab."
         },
         {
           "id": "PAI-B08-Q007",
           "type": "PG",
-          "text": "Apa yang dimaksud lingkungan abiotik?",
+          "text": "Apa manfaat lingkungan yang terjaga?",
           "options": [
-            "Semua hewan",
-            "Semua tumbuhan",
-            "Unsur lingkungan yang tidak bernyawa",
-            "Semua manusia"
+            "Meningkatkan pencemaran",
+            "Mengurangi sumber makanan",
+            "Menunjang kesehatan dan kesejahteraan",
+            "Menyebabkan penyakit"
           ],
-          "answer": "Unsur lingkungan yang tidak bernyawa",
-          "discussion": "Abiotik adalah unsur tak hidup, seperti tanah, air, batu, dan mineral."
+          "answer": "Menunjang kesehatan dan kesejahteraan",
+          "discussion": "Lingkungan yang baik mendukung kesehatan dan kesejahteraan."
         },
         {
           "id": "PAI-B08-Q008",
           "type": "PG",
-          "text": "Tanah, batu, dan mineral termasuk lingkungan ...",
+          "text": "Bagaimana lingkungan dapat menjadi sumber penghasilan?",
           "options": [
-            "Semua hewan",
-            "Semua tumbuhan",
-            "Semua manusia",
-            "Unsur lingkungan yang tidak bernyawa"
+            "Lingkungan hanya menjadi tempat bermain",
+            "Lingkungan tidak memiliki sumber daya",
+            "Lingkungan selalu menghambat pekerjaan",
+            "Tanah, air, dan sumber daya dapat mendukung pekerjaan seperti pertanian dan perikanan"
           ],
-          "answer": "Unsur lingkungan yang tidak bernyawa",
-          "discussion": "Abiotik adalah unsur tak hidup, seperti tanah, air, batu, dan mineral."
+          "answer": "Tanah, air, dan sumber daya dapat mendukung pekerjaan seperti pertanian dan perikanan",
+          "discussion": "Lingkungan menyediakan sumber daya yang dapat dimanfaatkan secara bertanggung jawab."
         },
         {
           "id": "PAI-B08-Q009",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Peduli Lingkungan adalah: Apa yang dimaksud lingkungan abiotik?",
+          "text": "Mengapa air bersih penting bagi kehidupan?",
           "options": [
-            "Unsur lingkungan yang tidak bernyawa",
-            "Semua hewan",
-            "Semua tumbuhan",
-            "Semua manusia"
+            "Dibutuhkan manusia dan makhluk hidup untuk menjalani kehidupan",
+            "Hanya digunakan untuk mencuci kendaraan",
+            "Tidak memiliki hubungan dengan kesehatan",
+            "Dapat digantikan oleh sampah"
           ],
-          "answer": "Unsur lingkungan yang tidak bernyawa",
-          "discussion": "Abiotik adalah unsur tak hidup, seperti tanah, air, batu, dan mineral."
+          "answer": "Dibutuhkan manusia dan makhluk hidup untuk menjalani kehidupan",
+          "discussion": "Air merupakan komponen penting yang mendukung kehidupan."
         },
         {
           "id": "PAI-B08-Q010",
           "type": "PG",
-          "text": "Apa pesan Q.S. ar-Rūm/30:41?",
+          "text": "Apa akibat membuang sampah ke sungai?",
           "options": [
-            "Manusia boleh merusak alam",
-            "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
-            "Alam tidak dipengaruhi manusia",
-            "Sampah membuat alam subur"
+            "Air menjadi lebih bersih",
+            "Air tercemar dan dapat menyebabkan banjir",
+            "Ikan mendapat makanan sehat",
+            "Sungai menjadi lebih dalam dan aman"
           ],
-          "answer": "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
-          "discussion": "Ayat tersebut mengingatkan tentang kerusakan akibat perbuatan manusia."
+          "answer": "Air tercemar dan dapat menyebabkan banjir",
+          "discussion": "Sampah mencemari sungai dan dapat menyumbat aliran air."
         },
         {
           "id": "PAI-B08-Q011",
           "type": "PG",
-          "text": "Pencemaran sungai akibat sampah merupakan contoh yang sesuai dengan pesan ...",
+          "text": "Salah satu cara menjaga kebersihan lingkungan adalah ...",
           "options": [
-            "Manusia boleh merusak alam",
-            "Alam tidak dipengaruhi manusia",
-            "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
-            "Sampah membuat alam subur"
+            "Membakar semua sampah di halaman",
+            "Membuang limbah ke sungai",
+            "Membuang sampah pada tempatnya",
+            "Menumpuk sampah di jalan"
           ],
-          "answer": "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
-          "discussion": "Ayat tersebut mengingatkan tentang kerusakan akibat perbuatan manusia."
+          "answer": "Membuang sampah pada tempatnya",
+          "discussion": "Menjaga kebersihan dilakukan dengan membuang sampah pada tempatnya."
         },
         {
           "id": "PAI-B08-Q012",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Peduli Lingkungan adalah: Apa pesan Q.S. ar-Rūm/30:41?",
+          "text": "Mengapa sampah perlu dipilah?",
           "options": [
-            "Manusia boleh merusak alam",
-            "Alam tidak dipengaruhi manusia",
-            "Sampah membuat alam subur",
-            "Kerusakan di darat dan laut terjadi akibat perbuatan manusia"
+            "Agar semua sampah bercampur",
+            "Agar sampah lebih sulit diolah",
+            "Agar sampah dapat dibuang ke sungai",
+            "Agar pengolahan sampah lebih tepat sesuai jenisnya"
           ],
-          "answer": "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
-          "discussion": "Ayat tersebut mengingatkan tentang kerusakan akibat perbuatan manusia."
+          "answer": "Agar pengolahan sampah lebih tepat sesuai jenisnya",
+          "discussion": "Pemilahan membantu pengolahan sampah organik dan nonorganik."
         },
         {
           "id": "PAI-B08-Q013",
           "type": "PG",
-          "text": "Apa manfaat menjaga lingkungan?",
+          "text": "Apa contoh tindakan menjaga tanah?",
           "options": [
-            "Menunjang kesehatan dan kesejahteraan makhluk hidup",
-            "Menambah pencemaran",
-            "Mengurangi udara bersih",
-            "Merusak habitat"
+            "Mengolah tanah dengan baik dan tidak membuang limbah sembarangan",
+            "Menutup tanah dengan sampah",
+            "Membuang oli ke kebun",
+            "Mengikis tanah tanpa kendali"
           ],
-          "answer": "Menunjang kesehatan dan kesejahteraan makhluk hidup",
-          "discussion": "Lingkungan terjaga membantu kesehatan dan kesejahteraan."
+          "answer": "Mengolah tanah dengan baik dan tidak membuang limbah sembarangan",
+          "discussion": "Pengolahan tanah yang baik membantu menjaga kelestarian lingkungan."
         },
         {
           "id": "PAI-B08-Q014",
           "type": "PG",
-          "text": "Lingkungan bersih membuat warga lebih nyaman dan sehat. Hal ini menunjukkan ...",
+          "text": "Apa yang dimaksud penghijauan?",
           "options": [
-            "Menambah pencemaran",
-            "Menunjang kesehatan dan kesejahteraan makhluk hidup",
-            "Mengurangi udara bersih",
-            "Merusak habitat"
+            "Menebang semua pohon",
+            "Menanam kembali tumbuh-tumbuhan",
+            "Menutup taman dengan semen",
+            "Membakar lahan kosong"
           ],
-          "answer": "Menunjang kesehatan dan kesejahteraan makhluk hidup",
-          "discussion": "Lingkungan terjaga membantu kesehatan dan kesejahteraan."
+          "answer": "Menanam kembali tumbuh-tumbuhan",
+          "discussion": "Penghijauan dilakukan dengan menanam kembali tumbuh-tumbuhan."
         },
         {
           "id": "PAI-B08-Q015",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Peduli Lingkungan adalah: Apa manfaat menjaga lingkungan?",
+          "text": "Bagaimana cara menghemat air di rumah?",
           "options": [
-            "Menambah pencemaran",
-            "Mengurangi udara bersih",
-            "Menunjang kesehatan dan kesejahteraan makhluk hidup",
-            "Merusak habitat"
+            "Membiarkan keran terbuka",
+            "Mencuci kendaraan setiap jam",
+            "Menutup keran setelah digunakan",
+            "Membuang air bersih tanpa alasan"
           ],
-          "answer": "Menunjang kesehatan dan kesejahteraan makhluk hidup",
-          "discussion": "Lingkungan terjaga membantu kesehatan dan kesejahteraan."
+          "answer": "Menutup keran setelah digunakan",
+          "discussion": "Menggunakan air seperlunya merupakan tindakan peduli lingkungan."
         },
         {
           "id": "PAI-B08-Q016",
           "type": "PG",
-          "text": "Bagaimana cara menjaga air?",
+          "text": "Apa contoh penggunaan bahan yang ramah lingkungan?",
           "options": [
-            "Membuang limbah ke sungai",
-            "Membiarkan keran terbuka",
-            "Membuang plastik ke danau",
-            "Menggunakan seperlunya dan tidak mencemarinya"
+            "Memilih barang sekali pakai sebanyak mungkin",
+            "Membuang plastik ke sungai",
+            "Membakar sampah plastik di rumah",
+            "Memilih barang yang dapat digunakan ulang dan mengurangi sampah"
           ],
-          "answer": "Menggunakan seperlunya dan tidak mencemarinya",
-          "discussion": "Air perlu dihemat dan dijaga dari pencemaran."
+          "answer": "Memilih barang yang dapat digunakan ulang dan mengurangi sampah",
+          "discussion": "Buku menganjurkan penggunaan bahan hasil produksi yang ramah lingkungan."
         },
         {
           "id": "PAI-B08-Q017",
           "type": "PG",
-          "text": "Saat menyikat gigi, tindakan hemat air adalah ...",
+          "text": "Mengapa udara perlu dijaga kebersihannya?",
           "options": [
-            "Menggunakan seperlunya dan tidak mencemarinya",
-            "Membuang limbah ke sungai",
-            "Membiarkan keran terbuka",
-            "Membuang plastik ke danau"
+            "Udara bersih penting bagi kesehatan makhluk hidup",
+            "Udara kotor membuat tanaman tumbuh sehat",
+            "Udara tidak dibutuhkan manusia",
+            "Udara hanya diperlukan kendaraan"
           ],
-          "answer": "Menggunakan seperlunya dan tidak mencemarinya",
-          "discussion": "Air perlu dihemat dan dijaga dari pencemaran."
+          "answer": "Udara bersih penting bagi kesehatan makhluk hidup",
+          "discussion": "Udara merupakan komponen lingkungan yang perlu dijaga."
         },
         {
           "id": "PAI-B08-Q018",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Peduli Lingkungan adalah: Bagaimana cara menjaga air?",
+          "text": "Apa tindakan yang dapat membantu mencegah banjir?",
           "options": [
-            "Membuang limbah ke sungai",
-            "Menggunakan seperlunya dan tidak mencemarinya",
-            "Membiarkan keran terbuka",
-            "Membuang plastik ke danau"
+            "Menutup semua selokan dengan sampah",
+            "Tidak membuang sampah ke saluran air dan menjaga kebersihannya",
+            "Menebang pohon di sekitar sungai",
+            "Membuang limbah ke parit"
           ],
-          "answer": "Menggunakan seperlunya dan tidak mencemarinya",
-          "discussion": "Air perlu dihemat dan dijaga dari pencemaran."
+          "answer": "Tidak membuang sampah ke saluran air dan menjaga kebersihannya",
+          "discussion": "Sampah yang menyumbat saluran dapat memperparah banjir."
         },
         {
           "id": "PAI-B08-Q019",
           "type": "PG",
-          "text": "Bagaimana cara menjaga udara?",
+          "text": "Jika halaman sekolah kotor, kegiatan yang tepat dilakukan bersama teman adalah ...",
           "options": [
-            "Membakar plastik setiap hari",
-            "Membiarkan kendaraan berasap",
-            "Mengurangi sumber asap dan tidak membakar sampah sembarangan",
-            "Membakar sampah di halaman"
+            "Mendorong sampah ke selokan",
+            "Membakar sampah plastik",
+            "Kerja bakti membersihkan halaman",
+            "Membiarkan petugas bekerja sendiri"
           ],
-          "answer": "Mengurangi sumber asap dan tidak membakar sampah sembarangan",
-          "discussion": "Asap pembakaran sampah mencemari udara."
+          "answer": "Kerja bakti membersihkan halaman",
+          "discussion": "Aksi bersama membantu menciptakan lingkungan sekolah yang bersih."
         },
         {
           "id": "PAI-B08-Q020",
           "type": "PG",
-          "text": "Tumpukan sampah akan dibakar. Nasihat yang tepat adalah ...",
+          "text": "Mengapa menanam pohon bermanfaat?",
           "options": [
-            "Membakar plastik setiap hari",
-            "Membiarkan kendaraan berasap",
-            "Membakar sampah di halaman",
-            "Mengurangi sumber asap dan tidak membakar sampah sembarangan"
+            "Membuat tanah selalu tercemar",
+            "Menghilangkan semua sumber air",
+            "Meningkatkan sampah plastik",
+            "Membantu penghijauan dan menjaga lingkungan"
           ],
-          "answer": "Mengurangi sumber asap dan tidak membakar sampah sembarangan",
-          "discussion": "Asap pembakaran sampah mencemari udara."
+          "answer": "Membantu penghijauan dan menjaga lingkungan",
+          "discussion": "Penghijauan merupakan salah satu cara menjaga kelestarian lingkungan."
         },
         {
           "id": "PAI-B08-Q021",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Peduli Lingkungan adalah: Bagaimana cara menjaga udara?",
+          "text": "Apa hubungan menjaga lingkungan dengan ajaran Islam?",
           "options": [
-            "Mengurangi sumber asap dan tidak membakar sampah sembarangan",
-            "Membakar plastik setiap hari",
-            "Membiarkan kendaraan berasap",
-            "Membakar sampah di halaman"
+            "Islam mengajarkan manusia tidak membuat kerusakan di bumi",
+            "Islam membolehkan merusak alam",
+            "Lingkungan tidak termasuk tanggung jawab manusia",
+            "Islam hanya mengatur ibadah pribadi"
           ],
-          "answer": "Mengurangi sumber asap dan tidak membakar sampah sembarangan",
-          "discussion": "Asap pembakaran sampah mencemari udara."
+          "answer": "Islam mengajarkan manusia tidak membuat kerusakan di bumi",
+          "discussion": "Ayat-ayat yang dipelajari mengingatkan umat agar tidak merusak bumi."
         },
         {
           "id": "PAI-B08-Q022",
           "type": "PG",
-          "text": "Apa tindakan untuk menjaga tumbuhan?",
+          "text": "Apa tujuan membuat poster peduli lingkungan?",
           "options": [
-            "Mencabut tanpa alasan",
-            "Menanam dan merawatnya",
-            "Menginjak tanaman",
-            "Mematahkan dahan"
+            "Menghias dinding tanpa pesan",
+            "Mengajak orang lain menjaga alam dan sumber daya",
+            "Mempromosikan pembuangan sampah",
+            "Membuat orang takut menggunakan air"
           ],
-          "answer": "Menanam dan merawatnya",
-          "discussion": "Tumbuhan perlu dirawat karena menjadi bagian penting lingkungan."
+          "answer": "Mengajak orang lain menjaga alam dan sumber daya",
+          "discussion": "Poster menjadi media ajakan untuk peduli dan melestarikan lingkungan."
         },
         {
           "id": "PAI-B08-Q023",
           "type": "PG",
-          "text": "Sekolah memiliki lahan kosong. Kegiatan yang bermanfaat adalah ...",
+          "text": "Jika melihat teman membuang sampah sembarangan, apa yang sebaiknya dilakukan?",
           "options": [
-            "Mencabut tanpa alasan",
-            "Menginjak tanaman",
-            "Menanam dan merawatnya",
-            "Mematahkan dahan"
+            "Mengejeknya di depan kelas",
+            "Membiarkan agar menjadi kebiasaan",
+            "Mengingatkan dengan sopan dan mengajak membuangnya di tempat sampah",
+            "Membuang sampah lain di dekatnya"
           ],
-          "answer": "Menanam dan merawatnya",
-          "discussion": "Tumbuhan perlu dirawat karena menjadi bagian penting lingkungan."
+          "answer": "Mengingatkan dengan sopan dan mengajak membuangnya di tempat sampah",
+          "discussion": "Mengajak dengan santun dapat menumbuhkan kebiasaan baik."
         },
         {
           "id": "PAI-B08-Q024",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Peduli Lingkungan adalah: Apa tindakan untuk menjaga tumbuhan?",
+          "text": "Apa yang dimaksud peduli lingkungan menurut materi?",
           "options": [
-            "Mencabut tanpa alasan",
-            "Menginjak tanaman",
-            "Mematahkan dahan",
-            "Menanam dan merawatnya"
+            "Menggunakan alam tanpa batas",
+            "Menjaga lingkungan hanya ketika ada lomba",
+            "Menghindari semua kegiatan di luar rumah",
+            "Mencegah kerusakan dan memperbaiki kerusakan yang sudah terjadi"
           ],
-          "answer": "Menanam dan merawatnya",
-          "discussion": "Tumbuhan perlu dirawat karena menjadi bagian penting lingkungan."
+          "answer": "Mencegah kerusakan dan memperbaiki kerusakan yang sudah terjadi",
+          "discussion": "Peduli lingkungan mencakup pencegahan dan perbaikan kerusakan."
         },
         {
           "id": "PAI-B08-Q025",
           "type": "PG",
-          "text": "Apa yang sebaiknya dilakukan terhadap sampah?",
+          "text": "Bagaimana cara menjaga tumbuhan di sekitar rumah?",
           "options": [
-            "Membuang dan memilahnya sesuai jenis",
-            "Membuang ke sungai",
-            "Menumpuk di jalan",
-            "Menyebar di halaman"
+            "Menyiram dan merawatnya serta tidak merusaknya",
+            "Mematahkan dahan untuk bermain",
+            "Mencabut semua tanaman",
+            "Menutup tanaman dengan plastik"
           ],
-          "answer": "Membuang dan memilahnya sesuai jenis",
-          "discussion": "Sampah harus dikelola dengan benar dan tidak dibuang sembarangan."
+          "answer": "Menyiram dan merawatnya serta tidak merusaknya",
+          "discussion": "Merawat tumbuhan membantu menjaga lingkungan tetap lestari."
         },
         {
           "id": "PAI-B08-Q026",
           "type": "PG",
-          "text": "Kamu menemukan botol plastik di halaman sekolah. Tindakan tepat adalah ...",
+          "text": "Mengapa lingkungan yang kotor dapat menimbulkan penyakit?",
           "options": [
-            "Membuang ke sungai",
-            "Membuang dan memilahnya sesuai jenis",
-            "Menumpuk di jalan",
-            "Menyebar di halaman"
+            "Lingkungan kotor selalu menghasilkan udara bersih",
+            "Sampah dan pencemaran dapat menjadi sumber penyakit",
+            "Kuman tidak dapat hidup di sampah",
+            "Kotoran membuat air lebih sehat"
           ],
-          "answer": "Membuang dan memilahnya sesuai jenis",
-          "discussion": "Sampah harus dikelola dengan benar dan tidak dibuang sembarangan."
+          "answer": "Sampah dan pencemaran dapat menjadi sumber penyakit",
+          "discussion": "Lingkungan yang tidak terjaga dapat menimbulkan penyakit."
         },
         {
           "id": "PAI-B08-Q027",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Peduli Lingkungan adalah: Apa yang sebaiknya dilakukan terhadap sampah?",
+          "text": "Apa contoh menjaga lingkungan sebagai kegiatan keluarga?",
           "options": [
-            "Membuang ke sungai",
-            "Menumpuk di jalan",
-            "Membuang dan memilahnya sesuai jenis",
-            "Menyebar di halaman"
+            "Membuang sampah ke halaman tetangga",
+            "Membiarkan air mengalir terus",
+            "Membersihkan rumah dan merawat tanaman bersama",
+            "Membakar sampah dekat jendela"
           ],
-          "answer": "Membuang dan memilahnya sesuai jenis",
-          "discussion": "Sampah harus dikelola dengan benar dan tidak dibuang sembarangan."
+          "answer": "Membersihkan rumah dan merawat tanaman bersama",
+          "discussion": "Kegiatan sederhana bersama keluarga dapat menjaga kebersihan lingkungan."
         },
         {
           "id": "PAI-B08-Q028",
           "type": "PG",
-          "text": "Mengapa menjaga lingkungan perlu kerja sama?",
+          "text": "Apa manfaat kerja sama dalam menjaga lingkungan sekolah?",
           "options": [
-            "Hanya petugas yang bertanggung jawab",
-            "Agar pekerjaan tidak selesai",
-            "Karena alam tidak penting",
-            "Karena lingkungan digunakan dan memengaruhi kehidupan bersama"
+            "Semua tanggung jawab berpindah kepada satu orang",
+            "Lingkungan tidak perlu dibersihkan lagi",
+            "Siswa tidak perlu menjaga kebersihan",
+            "Pekerjaan lebih ringan dan kepedulian tumbuh bersama"
           ],
-          "answer": "Karena lingkungan digunakan dan memengaruhi kehidupan bersama",
-          "discussion": "Semua orang menggunakan lingkungan sehingga perlu menjaganya bersama."
+          "answer": "Pekerjaan lebih ringan dan kepedulian tumbuh bersama",
+          "discussion": "Kerja sama membuat kegiatan peduli lingkungan lebih efektif."
         },
         {
           "id": "PAI-B08-Q029",
           "type": "PG",
-          "text": "Kelas mengadakan kerja bakti. Tujuan utamanya adalah ...",
+          "text": "Apa yang harus dilakukan terhadap limbah agar tidak mencemari lingkungan?",
           "options": [
-            "Karena lingkungan digunakan dan memengaruhi kehidupan bersama",
-            "Hanya petugas yang bertanggung jawab",
-            "Agar pekerjaan tidak selesai",
-            "Karena alam tidak penting"
+            "Mengolah dan membuangnya dengan cara yang tepat",
+            "Membuangnya ke sungai",
+            "Membakarnya di tempat umum",
+            "Menimbunnya di saluran air"
           ],
-          "answer": "Karena lingkungan digunakan dan memengaruhi kehidupan bersama",
-          "discussion": "Semua orang menggunakan lingkungan sehingga perlu menjaganya bersama."
+          "answer": "Mengolah dan membuangnya dengan cara yang tepat",
+          "discussion": "Pengolahan limbah yang baik membantu mencegah pencemaran."
         },
         {
           "id": "PAI-B08-Q030",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Peduli Lingkungan adalah: Mengapa menjaga lingkungan perlu kerja sama?",
+          "text": "Apa inti ajaran bab Peduli Lingkungan?",
           "options": [
-            "Hanya petugas yang bertanggung jawab",
-            "Karena lingkungan digunakan dan memengaruhi kehidupan bersama",
-            "Agar pekerjaan tidak selesai",
-            "Karena alam tidak penting"
+            "Menggunakan sumber daya tanpa batas",
+            "Menjaga tanah, air, udara, dan tumbuhan sebagai bentuk tanggung jawab",
+            "Menjaga lingkungan hanya di rumah",
+            "Mengutamakan kenyamanan sendiri"
           ],
-          "answer": "Karena lingkungan digunakan dan memengaruhi kehidupan bersama",
-          "discussion": "Semua orang menggunakan lingkungan sehingga perlu menjaganya bersama."
+          "answer": "Menjaga tanah, air, udara, dan tumbuhan sebagai bentuk tanggung jawab",
+          "discussion": "Bab ini mengajak peserta didik menerapkan kepedulian terhadap seluruh komponen lingkungan."
         }
       ]
     }
