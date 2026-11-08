@@ -45,7 +45,7 @@
             "Fish"
           ],
           "answer": "Amphibians",
-          "discussion": "A frog is an amphibian."
+          "discussion": "A frog belongs to the amphibian group. Amphibians can live part of their lives in water and part on land."
         },
         {
           "id": "ENG-B03-004",
@@ -71,7 +71,7 @@
             "Reptiles"
           ],
           "answer": "Birds",
-          "discussion": "An eagle is a bird."
+          "discussion": "An eagle belongs to the bird group. Birds have feathers and beaks."
         },
         {
           "id": "ENG-B03-006",
@@ -169,7 +169,7 @@
             "Eagle"
           ],
           "answer": "Lion",
-          "discussion": "Lion means singa."
+          "discussion": "Lion is the English word for singa. A lion is a mammal."
         },
         {
           "id": "ENG-B03-012",
@@ -182,7 +182,7 @@
             "Elephant"
           ],
           "answer": "Elephant",
-          "discussion": "Elephant means gajah."
+          "discussion": "Elephant is the English word for gajah. An elephant is a large mammal."
         },
         {
           "id": "ENG-B03-013",
@@ -195,7 +195,7 @@
             "Lion"
           ],
           "answer": "Crocodile",
-          "discussion": "Crocodile means buaya."
+          "discussion": "Crocodile is the English word for buaya. A crocodile belongs to the reptile group."
         },
         {
           "id": "ENG-B03-014",
@@ -208,7 +208,7 @@
             "Bird"
           ],
           "answer": "Frog",
-          "discussion": "Frog means katak."
+          "discussion": "Frog is the English word for katak. A frog belongs to the amphibian group."
         },
         {
           "id": "ENG-B03-015",
@@ -234,7 +234,7 @@
             "Elephant"
           ],
           "answer": "Elephant",
-          "discussion": "Elephants are mammals."
+          "discussion": "An elephant is a mammal. Mammals include animals such as lions and elephants."
         },
         {
           "id": "ENG-B03-017",
@@ -260,7 +260,7 @@
             "Elephant"
           ],
           "answer": "Duck",
-          "discussion": "A duck is a bird."
+          "discussion": "A duck is a bird. Birds have feathers and beaks."
         },
         {
           "id": "ENG-B03-019",
@@ -429,7 +429,7 @@
             "Yesterday"
           ],
           "answer": "Next",
-          "discussion": "Next means selanjutnya."
+          "discussion": "Next means selanjutnya. It is used to tell what happens after the previous event."
         },
         {
           "id": "ENG-B03-032",
