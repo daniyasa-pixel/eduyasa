@@ -217,6 +217,30 @@ footer {
 .modal-error { color: #dc2626; font-size: 12px; min-height: 18px; margin-top: 6px; }
 .modal-actions { display: grid; gap: 10px; margin-top: 18px; }
 .modal-actions button { margin-top: 0; }
+.result-page { background: white; border: 1px solid var(--border); border-radius: 22px; padding: 28px 20px 22px; text-align: center; box-shadow: 0 8px 28px rgba(37,99,235,.08); }
+.result-celebration { font-size: 48px; line-height: 1.2; margin-bottom: 8px; }
+.result-heading { font-size: 25px; font-weight: 800; color: var(--text); }
+.result-subtitle { color: var(--muted); font-size: 13px; line-height: 1.5; margin: 8px 0 22px; }
+.result-score-wrap { background: linear-gradient(135deg,#eff6ff,#f8fbff); border: 1px solid #dbeafe; border-radius: 18px; padding: 17px 12px 14px; }
+.result-score-label { color: var(--primary); font-size: 11px; font-weight: 800; letter-spacing: 1.5px; }
+.result-score { color: var(--primary); font-size: 68px; line-height: 1.1; font-weight: 900; margin-top: 4px; }
+.result-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 15px 0 24px; }
+.result-stat { background: var(--bg); border-radius: 15px; padding: 14px 8px; display: flex; flex-direction: column; align-items: center; gap: 4px; }
+.result-stat-icon { font-size: 23px; }
+.result-stat b { font-size: 21px; color: var(--text); }
+.result-stat:first-child b { color: var(--success); }
+.result-stat:last-child b { color: #dc2626; }
+.result-stat span { color: var(--muted); font-size: 11px; }
+.result-actions { display: grid; gap: 12px; }
+.result-report-button { width: 100%; border: 0; border-radius: 16px; padding: 19px 15px; background: var(--primary); color: white; cursor: pointer; display: flex; flex-direction: column; align-items: center; gap: 5px; box-shadow: 0 6px 15px rgba(37,99,235,.22); }
+.result-report-button span { font-size: 25px; }
+.result-report-button strong { font-size: 19px; letter-spacing: .3px; }
+.result-report-button small { font-size: 11px; line-height: 1.4; font-weight: 400; opacity: .92; }
+.result-report-button:hover { background: var(--primary-dark); }
+.result-home-button { width: 100%; border: 1px solid var(--border); border-radius: 13px; padding: 13px; margin: 0; background: white; color: var(--text); font-size: 13px; font-weight: 700; cursor: pointer; }
+.result-home-button:hover { border-color: var(--primary); color: var(--primary); }
+.result-note { color: var(--muted); font-size: 11px; margin: 17px 0 0; }
+#stepIndicator.result-mode { display: none; }
 .toast { padding: 12px 24px; border-radius: 30px; color: white; font-weight: bold; font-size: 14px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); animation: toastIn 0.3s ease-out forwards, toastOut 0.3s ease-in 2s forwards; text-align: center; }
 .toast.success { background: var(--success); }
 .toast.error { background: #dc2626; }
@@ -330,21 +354,40 @@ footer {
     </div>
   </section>
 
-  <!-- STEP 6: HASIL KUIS -->
+  <!-- STEP 6: HALAMAN HASIL KUIS -->
   <section id="step6" class="hidden">
-    <div class="panel" style="text-align:center; padding: 30px 15px;">
-      <div class="section-title" style="font-size: 24px; margin-bottom: 5px;">Kuis Selesai! 🎉</div>
-      <p style="color: var(--muted); font-size: 14px; margin-top: 0;">Berikut adalah hasil belajarmu hari ini.</p>
-      
-      <div style="font-size: 72px; font-weight: 800; color: var(--primary); margin: 20px 0; line-height: 1;" id="resultScore">100</div>
-      
-      <div style="display:flex; justify-content: space-evenly; margin-bottom: 30px; background: var(--bg); padding: 15px; border-radius: 16px;">
-        <div><div style="font-size:24px; margin-bottom:5px;">✅</div><b id="resultCorrect" style="color:var(--success); font-size:18px;">20</b><br><span style="font-size:12px; color:var(--muted)">Benar</span></div>
-        <div><div style="font-size:24px; margin-bottom:5px;">❌</div><b id="resultWrong" style="color:#dc2626; font-size:18px;">0</b><br><span style="font-size:12px; color:var(--muted)">Salah</span></div>
+    <div class="result-page">
+      <div class="result-celebration">🎉</div>
+      <div class="result-heading">Kuis Selesai!</div>
+      <p class="result-subtitle">Terima kasih sudah berusaha. Ini hasil belajarmu hari ini.</p>
+
+      <div class="result-score-wrap">
+        <div class="result-score-label">NILAI AKHIR</div>
+        <div class="result-score" id="resultScore">100</div>
       </div>
-      
-      <button class="primary" id="btnOpenReport">📩 KIRIM LAPORAN</button>
-      <button class="secondary" id="btnRestartQuiz" style="width:100%; margin-top:10px;">🔄 MULAI LAGI</button>
+
+      <div class="result-stats">
+        <div class="result-stat">
+          <div class="result-stat-icon">✅</div>
+          <b id="resultCorrect">20</b>
+          <span>Jawaban Benar</span>
+        </div>
+        <div class="result-stat">
+          <div class="result-stat-icon">❌</div>
+          <b id="resultWrong">0</b>
+          <span>Jawaban Salah</span>
+        </div>
+      </div>
+
+      <div class="result-actions">
+        <button class="result-report-button" id="btnOpenReport">
+          <span>📩</span>
+          <strong>KIRIM LAPORAN</strong>
+          <small>Bagikan hasil belajarmu ke WhatsApp orang tua atau guru</small>
+        </button>
+        <button class="result-home-button" id="btnBackToHome">⌂ &nbsp; KEMBALI KE AWAL</button>
+      </div>
+      <p class="result-note">Jangan lupa bagikan hasil belajarmu, ya! 🌟</p>
     </div>
   </section>
 </main>
@@ -375,12 +418,11 @@ footer {
 <div id="restartModal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="restartModalTitle">
   <div class="modal-card">
     <div style="text-align:center;font-size:40px;margin-bottom:6px;">🤔</div>
-    <h2 class="modal-title" id="restartModalTitle">Yakin mau mulai lagi?</h2>
-    <p class="modal-copy">Eits, hasil belajarmu belum dikirim, lho! Mau kasih tahu Ayah, Bunda, atau Gurumu tentang hasil kuismu dulu? Sayang banget kalau prestasimu belum dibagikan! 🥰</p>
+    <h2 class="modal-title" id="restartModalTitle">Yakin mau kembali ke awal?</h2>
+    <p class="modal-copy">Hasil kuismu belum dikirim. Kalau kembali ke awal sekarang, halaman hasil ini akan ditutup. Kamu yakin ingin melanjutkan?</p>
     <div class="modal-actions">
-      <button class="primary" type="button" id="btnReportFromConfirm">📩 KIRIM LAPORAN DULU</button>
-      <button class="secondary" type="button" id="btnConfirmRestart">🔄 YA, SAYA YAKIN! MULAI LAGI</button>
-      <button class="secondary" type="button" id="btnCancelRestart" style="border:0;">Tutup, lihat hasil dulu</button>
+      <button class="primary" type="button" id="btnConfirmBackHome">YA, KEMBALI KE AWAL</button>
+      <button class="secondary" type="button" id="btnCancelBackHome">BATAL, LIHAT HASIL LAGI</button>
     </div>
   </div>
 </div>
@@ -461,10 +503,11 @@ function updateStepUI() {
     const stepEl = document.getElementById('step' + i);
     if(stepEl) stepEl.classList.add('hidden');
   }
+  const stepIndicator = document.getElementById('stepIndicator');
+  if(stepIndicator) stepIndicator.classList.toggle('result-mode', currentStep === 6);
   for(let i=1; i<=4; i++) {
     const indicator = document.getElementById('indicator' + i);
     if(indicator) {
-      // Step 5 & 6 (Kuis & Hasil) tetap menyalakan indikator ke-4
       let activeInd = currentStep > 4 ? 4 : currentStep;
       if(i === activeInd) indicator.classList.add('active');
       else indicator.classList.remove('active');
@@ -1119,15 +1162,11 @@ function closeRestartModal() {
 
 document.getElementById('btnOpenReport').addEventListener('click', openReportModal);
 document.getElementById('btnCloseReport').addEventListener('click', closeReportModal);
-document.getElementById('btnRestartQuiz').addEventListener('click', () => {
+document.getElementById('btnBackToHome').addEventListener('click', () => {
   document.getElementById('restartModal').classList.remove('hidden');
 });
-document.getElementById('btnReportFromConfirm').addEventListener('click', () => {
-  closeRestartModal();
-  openReportModal();
-});
-document.getElementById('btnCancelRestart').addEventListener('click', closeRestartModal);
-document.getElementById('btnConfirmRestart').addEventListener('click', () => {
+document.getElementById('btnCancelBackHome').addEventListener('click', closeRestartModal);
+document.getElementById('btnConfirmBackHome').addEventListener('click', () => {
   location.reload();
 });
 
