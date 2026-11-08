@@ -1,0 +1,664 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PKN-B04",
+      "chapter_title": "Belajar Bermusyawarah",
+      "questions": [
+        {
+          "id": "PKN-B04-001",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang musyawarah?",
+          "options": [
+            "Musyawarah adalah membicarakan persoalan bersama untuk mencari keputusan demi kepentingan bersama.",
+            " Bukan memaksakan keinginan satu orang.",
+            " Anggota kelas berdiskusi menentukan kegiatan bersama.",
+            "Musyawarah memberi ruang bagi pendapat dan pertimbangan bersama."
+          ],
+          "answer": "Musyawarah adalah membicarakan persoalan bersama untuk mencari keputusan demi kepentingan bersama.",
+          "discussion": "Materi bab menjelaskan bahwa musyawarah adalah membicarakan persoalan bersama untuk mencari keputusan demi kepentingan bersama."
+        },
+        {
+          "id": "PKN-B04-002",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan musyawarah?",
+          "options": [
+            "Bukan memaksakan keinginan satu orang.",
+            "Anggota kelas berdiskusi menentukan kegiatan bersama.",
+            "Musyawarah memberi ruang bagi pendapat dan pertimbangan bersama.",
+            "Musyawarah adalah membicarakan persoalan bersama untuk mencari keputusan demi kepentingan bersama."
+          ],
+          "answer": "Anggota kelas berdiskusi menentukan kegiatan bersama.",
+          "discussion": "Contoh tersebut sesuai karena anggota kelas berdiskusi menentukan kegiatan bersama."
+        },
+        {
+          "id": "PKN-B04-003",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait musyawarah adalah ...",
+          "options": [
+            "Musyawarah adalah membicarakan persoalan bersama untuk mencari keputusan demi kepentingan bersama.",
+            "Anggota kelas berdiskusi menentukan kegiatan bersama.",
+            "Bukan memaksakan keinginan satu orang.",
+            "Musyawarah memberi ruang bagi pendapat dan pertimbangan bersama."
+          ],
+          "answer": "Bukan memaksakan keinginan satu orang.",
+          "discussion": "Hal yang perlu dihindari adalah bukan memaksakan keinginan satu orang."
+        },
+        {
+          "id": "PKN-B04-004",
+          "type": "PG",
+          "text": "Mengapa musyawarah penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan memaksakan keinginan satu orang.",
+            "Musyawarah adalah membicarakan persoalan bersama untuk mencari keputusan demi kepentingan bersama.",
+            "Anggota kelas berdiskusi menentukan kegiatan bersama.",
+            "Musyawarah memberi ruang bagi pendapat dan pertimbangan bersama."
+          ],
+          "answer": "Musyawarah memberi ruang bagi pendapat dan pertimbangan bersama.",
+          "discussion": "Manfaatnya adalah musyawarah memberi ruang bagi pendapat dan pertimbangan bersama."
+        },
+        {
+          "id": "PKN-B04-005",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan musyawarah?",
+          "options": [
+            "Anggota kelas berdiskusi menentukan kegiatan bersama.",
+            "Bukan memaksakan keinginan satu orang.",
+            "Musyawarah memberi ruang bagi pendapat dan pertimbangan bersama.",
+            "Musyawarah adalah membicarakan persoalan bersama untuk mencari keputusan demi kepentingan bersama."
+          ],
+          "answer": "Anggota kelas berdiskusi menentukan kegiatan bersama.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang musyawarah. Anggota kelas berdiskusi menentukan kegiatan bersama."
+        },
+        {
+          "id": "PKN-B04-006",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang mufakat?",
+          "options": [
+            " Bukan keputusan yang hanya menguntungkan satu orang.",
+            "Mufakat adalah kesepakatan bersama yang diharapkan dari musyawarah.",
+            " Peserta menerima hasil pembicaraan yang mempertimbangkan kepentingan bersama.",
+            "Mufakat menjaga kebersamaan dalam menjalankan keputusan."
+          ],
+          "answer": "Mufakat adalah kesepakatan bersama yang diharapkan dari musyawarah.",
+          "discussion": "Materi bab menjelaskan bahwa mufakat adalah kesepakatan bersama yang diharapkan dari musyawarah."
+        },
+        {
+          "id": "PKN-B04-007",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan mufakat?",
+          "options": [
+            "Bukan keputusan yang hanya menguntungkan satu orang.",
+            "Mufakat menjaga kebersamaan dalam menjalankan keputusan.",
+            "Peserta menerima hasil pembicaraan yang mempertimbangkan kepentingan bersama.",
+            "Mufakat adalah kesepakatan bersama yang diharapkan dari musyawarah."
+          ],
+          "answer": "Peserta menerima hasil pembicaraan yang mempertimbangkan kepentingan bersama.",
+          "discussion": "Contoh tersebut sesuai karena peserta menerima hasil pembicaraan yang mempertimbangkan kepentingan bersama."
+        },
+        {
+          "id": "PKN-B04-008",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait mufakat adalah ...",
+          "options": [
+            "Mufakat adalah kesepakatan bersama yang diharapkan dari musyawarah.",
+            "Peserta menerima hasil pembicaraan yang mempertimbangkan kepentingan bersama.",
+            "Mufakat menjaga kebersamaan dalam menjalankan keputusan.",
+            "Bukan keputusan yang hanya menguntungkan satu orang."
+          ],
+          "answer": "Bukan keputusan yang hanya menguntungkan satu orang.",
+          "discussion": "Hal yang perlu dihindari adalah bukan keputusan yang hanya menguntungkan satu orang."
+        },
+        {
+          "id": "PKN-B04-009",
+          "type": "PG",
+          "text": "Mengapa mufakat penting dalam kehidupan bersama?",
+          "options": [
+            "Mufakat menjaga kebersamaan dalam menjalankan keputusan.",
+            "Bukan keputusan yang hanya menguntungkan satu orang.",
+            "Mufakat adalah kesepakatan bersama yang diharapkan dari musyawarah.",
+            "Peserta menerima hasil pembicaraan yang mempertimbangkan kepentingan bersama."
+          ],
+          "answer": "Mufakat menjaga kebersamaan dalam menjalankan keputusan.",
+          "discussion": "Manfaatnya adalah mufakat menjaga kebersamaan dalam menjalankan keputusan."
+        },
+        {
+          "id": "PKN-B04-010",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan mufakat?",
+          "options": [
+            "Bukan keputusan yang hanya menguntungkan satu orang.",
+            "Peserta menerima hasil pembicaraan yang mempertimbangkan kepentingan bersama.",
+            "Mufakat menjaga kebersamaan dalam menjalankan keputusan.",
+            "Mufakat adalah kesepakatan bersama yang diharapkan dari musyawarah."
+          ],
+          "answer": "Peserta menerima hasil pembicaraan yang mempertimbangkan kepentingan bersama.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang mufakat. Peserta menerima hasil pembicaraan yang mempertimbangkan kepentingan bersama."
+        },
+        {
+          "id": "PKN-B04-011",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang manfaat musyawarah?",
+          "options": [
+            " Bukan membungkam pendapat yang berbeda.",
+            " Semua peserta mendapat kesempatan menyampaikan usulan.",
+            "Musyawarah membiasakan mendengar, menghargai pendapat, dan bekerja sama.",
+            "Proses ini mengurangi pertentangan dan memperkuat persatuan."
+          ],
+          "answer": "Musyawarah membiasakan mendengar, menghargai pendapat, dan bekerja sama.",
+          "discussion": "Materi bab menjelaskan bahwa musyawarah membiasakan mendengar, menghargai pendapat, dan bekerja sama."
+        },
+        {
+          "id": "PKN-B04-012",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan manfaat musyawarah?",
+          "options": [
+            "Bukan membungkam pendapat yang berbeda.",
+            "Proses ini mengurangi pertentangan dan memperkuat persatuan.",
+            "Musyawarah membiasakan mendengar, menghargai pendapat, dan bekerja sama.",
+            "Semua peserta mendapat kesempatan menyampaikan usulan."
+          ],
+          "answer": "Semua peserta mendapat kesempatan menyampaikan usulan.",
+          "discussion": "Contoh tersebut sesuai karena semua peserta mendapat kesempatan menyampaikan usulan."
+        },
+        {
+          "id": "PKN-B04-013",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait manfaat musyawarah adalah ...",
+          "options": [
+            "Bukan membungkam pendapat yang berbeda.",
+            "Musyawarah membiasakan mendengar, menghargai pendapat, dan bekerja sama.",
+            "Semua peserta mendapat kesempatan menyampaikan usulan.",
+            "Proses ini mengurangi pertentangan dan memperkuat persatuan."
+          ],
+          "answer": "Bukan membungkam pendapat yang berbeda.",
+          "discussion": "Hal yang perlu dihindari adalah bukan membungkam pendapat yang berbeda."
+        },
+        {
+          "id": "PKN-B04-014",
+          "type": "PG",
+          "text": "Mengapa manfaat musyawarah penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan membungkam pendapat yang berbeda.",
+            "Proses ini mengurangi pertentangan dan memperkuat persatuan.",
+            "Musyawarah membiasakan mendengar, menghargai pendapat, dan bekerja sama.",
+            "Semua peserta mendapat kesempatan menyampaikan usulan."
+          ],
+          "answer": "Proses ini mengurangi pertentangan dan memperkuat persatuan.",
+          "discussion": "Manfaatnya adalah proses ini mengurangi pertentangan dan memperkuat persatuan."
+        },
+        {
+          "id": "PKN-B04-015",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan manfaat musyawarah?",
+          "options": [
+            "Bukan membungkam pendapat yang berbeda.",
+            "Proses ini mengurangi pertentangan dan memperkuat persatuan.",
+            "Semua peserta mendapat kesempatan menyampaikan usulan.",
+            "Musyawarah membiasakan mendengar, menghargai pendapat, dan bekerja sama."
+          ],
+          "answer": "Semua peserta mendapat kesempatan menyampaikan usulan.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang manfaat musyawarah. Semua peserta mendapat kesempatan menyampaikan usulan."
+        },
+        {
+          "id": "PKN-B04-016",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang memahami persoalan?",
+          "options": [
+            " Bukan langsung memilih tanpa mengetahui persoalan.",
+            " Menjelaskan pokok masalah agar semua memahami hal yang dibahas.",
+            "Pemahaman yang sama membuat pembahasan lebih terarah.",
+            "Sebelum berdiskusi, peserta perlu mengetahui masalah yang akan diputuskan."
+          ],
+          "answer": "Sebelum berdiskusi, peserta perlu mengetahui masalah yang akan diputuskan.",
+          "discussion": "Materi bab menjelaskan bahwa sebelum berdiskusi, peserta perlu mengetahui masalah yang akan diputuskan."
+        },
+        {
+          "id": "PKN-B04-017",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan memahami persoalan?",
+          "options": [
+            "Menjelaskan pokok masalah agar semua memahami hal yang dibahas.",
+            "Bukan langsung memilih tanpa mengetahui persoalan.",
+            "Pemahaman yang sama membuat pembahasan lebih terarah.",
+            "Sebelum berdiskusi, peserta perlu mengetahui masalah yang akan diputuskan."
+          ],
+          "answer": "Menjelaskan pokok masalah agar semua memahami hal yang dibahas.",
+          "discussion": "Contoh tersebut sesuai karena menjelaskan pokok masalah agar semua memahami hal yang dibahas."
+        },
+        {
+          "id": "PKN-B04-018",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait memahami persoalan adalah ...",
+          "options": [
+            "Sebelum berdiskusi, peserta perlu mengetahui masalah yang akan diputuskan.",
+            "Bukan langsung memilih tanpa mengetahui persoalan.",
+            "Menjelaskan pokok masalah agar semua memahami hal yang dibahas.",
+            "Pemahaman yang sama membuat pembahasan lebih terarah."
+          ],
+          "answer": "Bukan langsung memilih tanpa mengetahui persoalan.",
+          "discussion": "Hal yang perlu dihindari adalah bukan langsung memilih tanpa mengetahui persoalan."
+        },
+        {
+          "id": "PKN-B04-019",
+          "type": "PG",
+          "text": "Mengapa memahami persoalan penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan langsung memilih tanpa mengetahui persoalan.",
+            "Sebelum berdiskusi, peserta perlu mengetahui masalah yang akan diputuskan.",
+            "Pemahaman yang sama membuat pembahasan lebih terarah.",
+            "Menjelaskan pokok masalah agar semua memahami hal yang dibahas."
+          ],
+          "answer": "Pemahaman yang sama membuat pembahasan lebih terarah.",
+          "discussion": "Manfaatnya adalah pemahaman yang sama membuat pembahasan lebih terarah."
+        },
+        {
+          "id": "PKN-B04-020",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan memahami persoalan?",
+          "options": [
+            "Bukan langsung memilih tanpa mengetahui persoalan.",
+            "Pemahaman yang sama membuat pembahasan lebih terarah.",
+            "Sebelum berdiskusi, peserta perlu mengetahui masalah yang akan diputuskan.",
+            "Menjelaskan pokok masalah agar semua memahami hal yang dibahas."
+          ],
+          "answer": "Menjelaskan pokok masalah agar semua memahami hal yang dibahas.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang memahami persoalan. Menjelaskan pokok masalah agar semua memahami hal yang dibahas."
+        },
+        {
+          "id": "PKN-B04-021",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang mengumpulkan informasi?",
+          "options": [
+            "Data atau keterangan membantu peserta mempertimbangkan usulan.",
+            " Bukan membuat keputusan berdasarkan dugaan saja.",
+            " Mencari informasi jadwal atau kebutuhan sebelum menentukan kegiatan.",
+            "Informasi membuat pertimbangan lebih baik."
+          ],
+          "answer": "Data atau keterangan membantu peserta mempertimbangkan usulan.",
+          "discussion": "Materi bab menjelaskan bahwa data atau keterangan membantu peserta mempertimbangkan usulan."
+        },
+        {
+          "id": "PKN-B04-022",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan mengumpulkan informasi?",
+          "options": [
+            "Bukan membuat keputusan berdasarkan dugaan saja.",
+            "Mencari informasi jadwal atau kebutuhan sebelum menentukan kegiatan.",
+            "Informasi membuat pertimbangan lebih baik.",
+            "Data atau keterangan membantu peserta mempertimbangkan usulan."
+          ],
+          "answer": "Mencari informasi jadwal atau kebutuhan sebelum menentukan kegiatan.",
+          "discussion": "Contoh tersebut sesuai karena mencari informasi jadwal atau kebutuhan sebelum menentukan kegiatan."
+        },
+        {
+          "id": "PKN-B04-023",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait mengumpulkan informasi adalah ...",
+          "options": [
+            "Data atau keterangan membantu peserta mempertimbangkan usulan.",
+            "Mencari informasi jadwal atau kebutuhan sebelum menentukan kegiatan.",
+            "Bukan membuat keputusan berdasarkan dugaan saja.",
+            "Informasi membuat pertimbangan lebih baik."
+          ],
+          "answer": "Bukan membuat keputusan berdasarkan dugaan saja.",
+          "discussion": "Hal yang perlu dihindari adalah bukan membuat keputusan berdasarkan dugaan saja."
+        },
+        {
+          "id": "PKN-B04-024",
+          "type": "PG",
+          "text": "Mengapa mengumpulkan informasi penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan membuat keputusan berdasarkan dugaan saja.",
+            "Data atau keterangan membantu peserta mempertimbangkan usulan.",
+            "Mencari informasi jadwal atau kebutuhan sebelum menentukan kegiatan.",
+            "Informasi membuat pertimbangan lebih baik."
+          ],
+          "answer": "Informasi membuat pertimbangan lebih baik.",
+          "discussion": "Manfaatnya adalah informasi membuat pertimbangan lebih baik."
+        },
+        {
+          "id": "PKN-B04-025",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan mengumpulkan informasi?",
+          "options": [
+            "Mencari informasi jadwal atau kebutuhan sebelum menentukan kegiatan.",
+            "Bukan membuat keputusan berdasarkan dugaan saja.",
+            "Informasi membuat pertimbangan lebih baik.",
+            "Data atau keterangan membantu peserta mempertimbangkan usulan."
+          ],
+          "answer": "Mencari informasi jadwal atau kebutuhan sebelum menentukan kegiatan.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang mengumpulkan informasi. Mencari informasi jadwal atau kebutuhan sebelum menentukan kegiatan."
+        },
+        {
+          "id": "PKN-B04-026",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang pemimpin musyawarah?",
+          "options": [
+            " Bukan memaksakan pendapat pribadi.",
+            "Pemimpin membantu jalannya pembicaraan agar tertib dan memberi kesempatan peserta.",
+            " Mengatur giliran berbicara dan menjaga pembahasan tetap pada masalah.",
+            "Pemimpin menjaga proses berlangsung teratur."
+          ],
+          "answer": "Pemimpin membantu jalannya pembicaraan agar tertib dan memberi kesempatan peserta.",
+          "discussion": "Materi bab menjelaskan bahwa pemimpin membantu jalannya pembicaraan agar tertib dan memberi kesempatan peserta."
+        },
+        {
+          "id": "PKN-B04-027",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan pemimpin musyawarah?",
+          "options": [
+            "Bukan memaksakan pendapat pribadi.",
+            "Pemimpin menjaga proses berlangsung teratur.",
+            "Mengatur giliran berbicara dan menjaga pembahasan tetap pada masalah.",
+            "Pemimpin membantu jalannya pembicaraan agar tertib dan memberi kesempatan peserta."
+          ],
+          "answer": "Mengatur giliran berbicara dan menjaga pembahasan tetap pada masalah.",
+          "discussion": "Contoh tersebut sesuai karena mengatur giliran berbicara dan menjaga pembahasan tetap pada masalah."
+        },
+        {
+          "id": "PKN-B04-028",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait pemimpin musyawarah adalah ...",
+          "options": [
+            "Pemimpin membantu jalannya pembicaraan agar tertib dan memberi kesempatan peserta.",
+            "Mengatur giliran berbicara dan menjaga pembahasan tetap pada masalah.",
+            "Pemimpin menjaga proses berlangsung teratur.",
+            "Bukan memaksakan pendapat pribadi."
+          ],
+          "answer": "Bukan memaksakan pendapat pribadi.",
+          "discussion": "Hal yang perlu dihindari adalah bukan memaksakan pendapat pribadi."
+        },
+        {
+          "id": "PKN-B04-029",
+          "type": "PG",
+          "text": "Mengapa pemimpin musyawarah penting dalam kehidupan bersama?",
+          "options": [
+            "Pemimpin menjaga proses berlangsung teratur.",
+            "Bukan memaksakan pendapat pribadi.",
+            "Pemimpin membantu jalannya pembicaraan agar tertib dan memberi kesempatan peserta.",
+            "Mengatur giliran berbicara dan menjaga pembahasan tetap pada masalah."
+          ],
+          "answer": "Pemimpin menjaga proses berlangsung teratur.",
+          "discussion": "Manfaatnya adalah pemimpin menjaga proses berlangsung teratur."
+        },
+        {
+          "id": "PKN-B04-030",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan pemimpin musyawarah?",
+          "options": [
+            "Bukan memaksakan pendapat pribadi.",
+            "Mengatur giliran berbicara dan menjaga pembahasan tetap pada masalah.",
+            "Pemimpin menjaga proses berlangsung teratur.",
+            "Pemimpin membantu jalannya pembicaraan agar tertib dan memberi kesempatan peserta."
+          ],
+          "answer": "Mengatur giliran berbicara dan menjaga pembahasan tetap pada masalah.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang pemimpin musyawarah. Mengatur giliran berbicara dan menjaga pembahasan tetap pada masalah."
+        },
+        {
+          "id": "PKN-B04-031",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang sekretaris?",
+          "options": [
+            " Bukan memutuskan sendiri hasil rapat.",
+            " Menuliskan usulan dan kesepakatan rapat.",
+            "Sekretaris mencatat hal penting dan hasil pembicaraan.",
+            "Catatan membantu peserta mengingat keputusan."
+          ],
+          "answer": "Sekretaris mencatat hal penting dan hasil pembicaraan.",
+          "discussion": "Materi bab menjelaskan bahwa sekretaris mencatat hal penting dan hasil pembicaraan."
+        },
+        {
+          "id": "PKN-B04-032",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan sekretaris?",
+          "options": [
+            "Bukan memutuskan sendiri hasil rapat.",
+            "Catatan membantu peserta mengingat keputusan.",
+            "Sekretaris mencatat hal penting dan hasil pembicaraan.",
+            "Menuliskan usulan dan kesepakatan rapat."
+          ],
+          "answer": "Menuliskan usulan dan kesepakatan rapat.",
+          "discussion": "Contoh tersebut sesuai karena menuliskan usulan dan kesepakatan rapat."
+        },
+        {
+          "id": "PKN-B04-033",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait sekretaris adalah ...",
+          "options": [
+            "Bukan memutuskan sendiri hasil rapat.",
+            "Sekretaris mencatat hal penting dan hasil pembicaraan.",
+            "Menuliskan usulan dan kesepakatan rapat.",
+            "Catatan membantu peserta mengingat keputusan."
+          ],
+          "answer": "Bukan memutuskan sendiri hasil rapat.",
+          "discussion": "Hal yang perlu dihindari adalah bukan memutuskan sendiri hasil rapat."
+        },
+        {
+          "id": "PKN-B04-034",
+          "type": "PG",
+          "text": "Mengapa sekretaris penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan memutuskan sendiri hasil rapat.",
+            "Catatan membantu peserta mengingat keputusan.",
+            "Sekretaris mencatat hal penting dan hasil pembicaraan.",
+            "Menuliskan usulan dan kesepakatan rapat."
+          ],
+          "answer": "Catatan membantu peserta mengingat keputusan.",
+          "discussion": "Manfaatnya adalah catatan membantu peserta mengingat keputusan."
+        },
+        {
+          "id": "PKN-B04-035",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan sekretaris?",
+          "options": [
+            "Bukan memutuskan sendiri hasil rapat.",
+            "Catatan membantu peserta mengingat keputusan.",
+            "Menuliskan usulan dan kesepakatan rapat.",
+            "Sekretaris mencatat hal penting dan hasil pembicaraan."
+          ],
+          "answer": "Menuliskan usulan dan kesepakatan rapat.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang sekretaris. Menuliskan usulan dan kesepakatan rapat."
+        },
+        {
+          "id": "PKN-B04-036",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang mendengarkan pendapat?",
+          "options": [
+            " Bukan mengejek pendapat yang berbeda.",
+            " Tidak memotong pembicaraan dan mencermati alasan teman.",
+            "Mendengar dengan baik menunjukkan penghargaan.",
+            "Peserta perlu mendengarkan orang lain sebelum menanggapi."
+          ],
+          "answer": "Peserta perlu mendengarkan orang lain sebelum menanggapi.",
+          "discussion": "Materi bab menjelaskan bahwa peserta perlu mendengarkan orang lain sebelum menanggapi."
+        },
+        {
+          "id": "PKN-B04-037",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan mendengarkan pendapat?",
+          "options": [
+            "Tidak memotong pembicaraan dan mencermati alasan teman.",
+            "Bukan mengejek pendapat yang berbeda.",
+            "Mendengar dengan baik menunjukkan penghargaan.",
+            "Peserta perlu mendengarkan orang lain sebelum menanggapi."
+          ],
+          "answer": "Tidak memotong pembicaraan dan mencermati alasan teman.",
+          "discussion": "Contoh tersebut sesuai karena tidak memotong pembicaraan dan mencermati alasan teman."
+        },
+        {
+          "id": "PKN-B04-038",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait mendengarkan pendapat adalah ...",
+          "options": [
+            "Peserta perlu mendengarkan orang lain sebelum menanggapi.",
+            "Bukan mengejek pendapat yang berbeda.",
+            "Tidak memotong pembicaraan dan mencermati alasan teman.",
+            "Mendengar dengan baik menunjukkan penghargaan."
+          ],
+          "answer": "Bukan mengejek pendapat yang berbeda.",
+          "discussion": "Hal yang perlu dihindari adalah bukan mengejek pendapat yang berbeda."
+        },
+        {
+          "id": "PKN-B04-039",
+          "type": "PG",
+          "text": "Mengapa mendengarkan pendapat penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan mengejek pendapat yang berbeda.",
+            "Peserta perlu mendengarkan orang lain sebelum menanggapi.",
+            "Mendengar dengan baik menunjukkan penghargaan.",
+            "Tidak memotong pembicaraan dan mencermati alasan teman."
+          ],
+          "answer": "Mendengar dengan baik menunjukkan penghargaan.",
+          "discussion": "Manfaatnya adalah mendengar dengan baik menunjukkan penghargaan."
+        },
+        {
+          "id": "PKN-B04-040",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan mendengarkan pendapat?",
+          "options": [
+            "Bukan mengejek pendapat yang berbeda.",
+            "Mendengar dengan baik menunjukkan penghargaan.",
+            "Peserta perlu mendengarkan orang lain sebelum menanggapi.",
+            "Tidak memotong pembicaraan dan mencermati alasan teman."
+          ],
+          "answer": "Tidak memotong pembicaraan dan mencermati alasan teman.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang mendengarkan pendapat. Tidak memotong pembicaraan dan mencermati alasan teman."
+        },
+        {
+          "id": "PKN-B04-041",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang sikap saat berbeda pendapat?",
+          "options": [
+            "Perbedaan disikapi dengan santun dan mempertimbangkan kepentingan bersama.",
+            " Bukan marah dan meninggalkan pembicaraan.",
+            " Mengemukakan alasan tanpa memaksa atau merendahkan.",
+            "Sikap tenang membantu menemukan jalan keluar."
+          ],
+          "answer": "Perbedaan disikapi dengan santun dan mempertimbangkan kepentingan bersama.",
+          "discussion": "Materi bab menjelaskan bahwa perbedaan disikapi dengan santun dan mempertimbangkan kepentingan bersama."
+        },
+        {
+          "id": "PKN-B04-042",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan sikap saat berbeda pendapat?",
+          "options": [
+            "Bukan marah dan meninggalkan pembicaraan.",
+            "Mengemukakan alasan tanpa memaksa atau merendahkan.",
+            "Sikap tenang membantu menemukan jalan keluar.",
+            "Perbedaan disikapi dengan santun dan mempertimbangkan kepentingan bersama."
+          ],
+          "answer": "Mengemukakan alasan tanpa memaksa atau merendahkan.",
+          "discussion": "Contoh tersebut sesuai karena mengemukakan alasan tanpa memaksa atau merendahkan."
+        },
+        {
+          "id": "PKN-B04-043",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait sikap saat berbeda pendapat adalah ...",
+          "options": [
+            "Perbedaan disikapi dengan santun dan mempertimbangkan kepentingan bersama.",
+            "Mengemukakan alasan tanpa memaksa atau merendahkan.",
+            "Bukan marah dan meninggalkan pembicaraan.",
+            "Sikap tenang membantu menemukan jalan keluar."
+          ],
+          "answer": "Bukan marah dan meninggalkan pembicaraan.",
+          "discussion": "Hal yang perlu dihindari adalah bukan marah dan meninggalkan pembicaraan."
+        },
+        {
+          "id": "PKN-B04-044",
+          "type": "PG",
+          "text": "Mengapa sikap saat berbeda pendapat penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan marah dan meninggalkan pembicaraan.",
+            "Perbedaan disikapi dengan santun dan mempertimbangkan kepentingan bersama.",
+            "Mengemukakan alasan tanpa memaksa atau merendahkan.",
+            "Sikap tenang membantu menemukan jalan keluar."
+          ],
+          "answer": "Sikap tenang membantu menemukan jalan keluar.",
+          "discussion": "Manfaatnya adalah sikap tenang membantu menemukan jalan keluar."
+        },
+        {
+          "id": "PKN-B04-045",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan sikap saat berbeda pendapat?",
+          "options": [
+            "Mengemukakan alasan tanpa memaksa atau merendahkan.",
+            "Bukan marah dan meninggalkan pembicaraan.",
+            "Sikap tenang membantu menemukan jalan keluar.",
+            "Perbedaan disikapi dengan santun dan mempertimbangkan kepentingan bersama."
+          ],
+          "answer": "Mengemukakan alasan tanpa memaksa atau merendahkan.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang sikap saat berbeda pendapat. Mengemukakan alasan tanpa memaksa atau merendahkan."
+        },
+        {
+          "id": "PKN-B04-046",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang keputusan dan tanggung jawab?",
+          "options": [
+            " Bukan mengabaikan hasil karena usulan sendiri tidak dipilih.",
+            "Kesepakatan perlu diterima dan dilaksanakan dengan tanggung jawab.",
+            " Melaksanakan tugas sesuai hasil musyawarah.",
+            "Tanggung jawab membuat keputusan bersama benar-benar berjalan."
+          ],
+          "answer": "Kesepakatan perlu diterima dan dilaksanakan dengan tanggung jawab.",
+          "discussion": "Materi bab menjelaskan bahwa kesepakatan perlu diterima dan dilaksanakan dengan tanggung jawab."
+        },
+        {
+          "id": "PKN-B04-047",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan keputusan dan tanggung jawab?",
+          "options": [
+            "Bukan mengabaikan hasil karena usulan sendiri tidak dipilih.",
+            "Tanggung jawab membuat keputusan bersama benar-benar berjalan.",
+            "Melaksanakan tugas sesuai hasil musyawarah.",
+            "Kesepakatan perlu diterima dan dilaksanakan dengan tanggung jawab."
+          ],
+          "answer": "Melaksanakan tugas sesuai hasil musyawarah.",
+          "discussion": "Contoh tersebut sesuai karena melaksanakan tugas sesuai hasil musyawarah."
+        },
+        {
+          "id": "PKN-B04-048",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait keputusan dan tanggung jawab adalah ...",
+          "options": [
+            "Kesepakatan perlu diterima dan dilaksanakan dengan tanggung jawab.",
+            "Melaksanakan tugas sesuai hasil musyawarah.",
+            "Tanggung jawab membuat keputusan bersama benar-benar berjalan.",
+            "Bukan mengabaikan hasil karena usulan sendiri tidak dipilih."
+          ],
+          "answer": "Bukan mengabaikan hasil karena usulan sendiri tidak dipilih.",
+          "discussion": "Hal yang perlu dihindari adalah bukan mengabaikan hasil karena usulan sendiri tidak dipilih."
+        },
+        {
+          "id": "PKN-B04-049",
+          "type": "PG",
+          "text": "Mengapa keputusan dan tanggung jawab penting dalam kehidupan bersama?",
+          "options": [
+            "Tanggung jawab membuat keputusan bersama benar-benar berjalan.",
+            "Bukan mengabaikan hasil karena usulan sendiri tidak dipilih.",
+            "Kesepakatan perlu diterima dan dilaksanakan dengan tanggung jawab.",
+            "Melaksanakan tugas sesuai hasil musyawarah."
+          ],
+          "answer": "Tanggung jawab membuat keputusan bersama benar-benar berjalan.",
+          "discussion": "Manfaatnya adalah tanggung jawab membuat keputusan bersama benar-benar berjalan."
+        },
+        {
+          "id": "PKN-B04-050",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan keputusan dan tanggung jawab?",
+          "options": [
+            "Bukan mengabaikan hasil karena usulan sendiri tidak dipilih.",
+            "Melaksanakan tugas sesuai hasil musyawarah.",
+            "Tanggung jawab membuat keputusan bersama benar-benar berjalan.",
+            "Kesepakatan perlu diterima dan dilaksanakan dengan tanggung jawab."
+          ],
+          "answer": "Melaksanakan tugas sesuai hasil musyawarah.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang keputusan dan tanggung jawab. Melaksanakan tugas sesuai hasil musyawarah."
+        }
+      ]
+    }
+  ]
+}
