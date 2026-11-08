@@ -312,7 +312,12 @@
             "going"
           ],
           "answer": "went",
-          "discussion": "Went is the past form of go."
+          "discussion": "Went is the past form of go.",
+          "audio": {
+            "type": "speech",
+            "text": "Last weekend, we went to the zoo",
+            "label": "▶ LISTEN"
+          }
         },
         {
           "id": "ENG-B03-023",
@@ -325,7 +330,12 @@
             "Seen"
           ],
           "answer": "Saw",
-          "discussion": "Saw is the simple past form of see."
+          "discussion": "Saw is the simple past form of see.",
+          "audio": {
+            "type": "speech",
+            "text": "Saw",
+            "label": "▶ LISTEN"
+          }
         },
         {
           "id": "ENG-B03-024",
@@ -468,7 +478,12 @@
             "Do you went to the zoo?"
           ],
           "answer": "Did you go to the zoo?",
-          "discussion": "Use did + subject + base verb: Did you go...?"
+          "discussion": "Use did + subject + base verb: Did you go...?",
+          "audio": {
+            "type": "speech",
+            "text": "Did you go to the zoo?",
+            "label": "▶ LISTEN"
+          }
         },
         {
           "id": "ENG-B03-035",
@@ -665,9 +680,9 @@
           "answer": "A cat",
           "discussion": "The sound is a short simulated cat meow. The correct animal is a cat.",
           "audio": {
-            "type": "animal",
-            "sound": "cat",
-            "label": "▶ PLAY CAT SOUND"
+            "type": "speech",
+            "text": "Crocodile",
+            "label": "▶ LISTEN"
           }
         },
         {
