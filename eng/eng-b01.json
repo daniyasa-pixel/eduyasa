@@ -116,8 +116,8 @@
           "text": "Look at the picture. Which vegetable is shown with long green leaves?",
           "options": [
             "Carrot",
-            "Water spinach",
             "Eggplant",
+            "Water spinach",
             "Tomato"
           ],
           "answer": "Water spinach",
@@ -134,8 +134,8 @@
           "options": [
             "Spinach",
             "Broccoli",
-            "Eggplant",
-            "Carrot"
+            "Carrot",
+            "Eggplant"
           ],
           "answer": "Eggplant",
           "discussion": "The eggplant is easy to recognize from its purple body and small green leaves.",
