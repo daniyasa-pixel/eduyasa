@@ -1,0 +1,664 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PKN-B02",
+      "chapter_title": "Mengamalkan Pancasila untuk Kebahagiaan Bersama",
+      "questions": [
+        {
+          "id": "PKN-B02-001",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang pancasila sebagai dasar negara?",
+          "options": [
+            "Pancasila menjadi landasan dalam kehidupan bernegara.",
+            " Bukan sekadar aturan untuk kegiatan upacara.",
+            " Peraturan dan penyelenggaraan pemerintahan tidak boleh bertentangan dengan nilai Pancasila.",
+            "Pancasila menjadi dasar penyelenggaraan negara."
+          ],
+          "answer": "Pancasila menjadi landasan dalam kehidupan bernegara.",
+          "discussion": "Materi bab menjelaskan bahwa pancasila menjadi landasan dalam kehidupan bernegara."
+        },
+        {
+          "id": "PKN-B02-002",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan pancasila sebagai dasar negara?",
+          "options": [
+            "Bukan sekadar aturan untuk kegiatan upacara.",
+            "Peraturan dan penyelenggaraan pemerintahan tidak boleh bertentangan dengan nilai Pancasila.",
+            "Pancasila menjadi dasar penyelenggaraan negara.",
+            "Pancasila menjadi landasan dalam kehidupan bernegara."
+          ],
+          "answer": "Peraturan dan penyelenggaraan pemerintahan tidak boleh bertentangan dengan nilai Pancasila.",
+          "discussion": "Contoh tersebut sesuai karena peraturan dan penyelenggaraan pemerintahan tidak boleh bertentangan dengan nilai Pancasila."
+        },
+        {
+          "id": "PKN-B02-003",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait pancasila sebagai dasar negara adalah ...",
+          "options": [
+            "Pancasila menjadi landasan dalam kehidupan bernegara.",
+            "Peraturan dan penyelenggaraan pemerintahan tidak boleh bertentangan dengan nilai Pancasila.",
+            "Bukan sekadar aturan untuk kegiatan upacara.",
+            "Pancasila menjadi dasar penyelenggaraan negara."
+          ],
+          "answer": "Bukan sekadar aturan untuk kegiatan upacara.",
+          "discussion": "Hal yang perlu dihindari adalah bukan sekadar aturan untuk kegiatan upacara."
+        },
+        {
+          "id": "PKN-B02-004",
+          "type": "PG",
+          "text": "Mengapa pancasila sebagai dasar negara penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan sekadar aturan untuk kegiatan upacara.",
+            "Pancasila menjadi landasan dalam kehidupan bernegara.",
+            "Peraturan dan penyelenggaraan pemerintahan tidak boleh bertentangan dengan nilai Pancasila.",
+            "Pancasila menjadi dasar penyelenggaraan negara."
+          ],
+          "answer": "Pancasila menjadi dasar penyelenggaraan negara.",
+          "discussion": "Manfaatnya adalah pancasila menjadi dasar penyelenggaraan negara."
+        },
+        {
+          "id": "PKN-B02-005",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan pancasila sebagai dasar negara?",
+          "options": [
+            "Peraturan dan penyelenggaraan pemerintahan tidak boleh bertentangan dengan nilai Pancasila.",
+            "Bukan sekadar aturan untuk kegiatan upacara.",
+            "Pancasila menjadi dasar penyelenggaraan negara.",
+            "Pancasila menjadi landasan dalam kehidupan bernegara."
+          ],
+          "answer": "Peraturan dan penyelenggaraan pemerintahan tidak boleh bertentangan dengan nilai Pancasila.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang pancasila sebagai dasar negara. Peraturan dan penyelenggaraan pemerintahan tidak boleh bertentangan dengan nilai Pancasila."
+        },
+        {
+          "id": "PKN-B02-006",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang pancasila sebagai pandangan hidup?",
+          "options": [
+            " Bukan hanya dipelajari untuk dihafalkan.",
+            "Pancasila menjadi pedoman masyarakat dalam bersikap dan bertindak sehari-hari.",
+            " Menjadikan nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sebagai arah perilaku.",
+            "Pedoman hidup membantu menentukan sikap dalam kehidupan sehari-hari."
+          ],
+          "answer": "Pancasila menjadi pedoman masyarakat dalam bersikap dan bertindak sehari-hari.",
+          "discussion": "Materi bab menjelaskan bahwa pancasila menjadi pedoman masyarakat dalam bersikap dan bertindak sehari-hari."
+        },
+        {
+          "id": "PKN-B02-007",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan pancasila sebagai pandangan hidup?",
+          "options": [
+            "Bukan hanya dipelajari untuk dihafalkan.",
+            "Pedoman hidup membantu menentukan sikap dalam kehidupan sehari-hari.",
+            "Menjadikan nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sebagai arah perilaku.",
+            "Pancasila menjadi pedoman masyarakat dalam bersikap dan bertindak sehari-hari."
+          ],
+          "answer": "Menjadikan nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sebagai arah perilaku.",
+          "discussion": "Contoh tersebut sesuai karena menjadikan nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sebagai arah perilaku."
+        },
+        {
+          "id": "PKN-B02-008",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait pancasila sebagai pandangan hidup adalah ...",
+          "options": [
+            "Pancasila menjadi pedoman masyarakat dalam bersikap dan bertindak sehari-hari.",
+            "Menjadikan nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sebagai arah perilaku.",
+            "Pedoman hidup membantu menentukan sikap dalam kehidupan sehari-hari.",
+            "Bukan hanya dipelajari untuk dihafalkan."
+          ],
+          "answer": "Bukan hanya dipelajari untuk dihafalkan.",
+          "discussion": "Hal yang perlu dihindari adalah bukan hanya dipelajari untuk dihafalkan."
+        },
+        {
+          "id": "PKN-B02-009",
+          "type": "PG",
+          "text": "Mengapa pancasila sebagai pandangan hidup penting dalam kehidupan bersama?",
+          "options": [
+            "Pedoman hidup membantu menentukan sikap dalam kehidupan sehari-hari.",
+            "Bukan hanya dipelajari untuk dihafalkan.",
+            "Pancasila menjadi pedoman masyarakat dalam bersikap dan bertindak sehari-hari.",
+            "Menjadikan nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sebagai arah perilaku."
+          ],
+          "answer": "Pedoman hidup membantu menentukan sikap dalam kehidupan sehari-hari.",
+          "discussion": "Manfaatnya adalah pedoman hidup membantu menentukan sikap dalam kehidupan sehari-hari."
+        },
+        {
+          "id": "PKN-B02-010",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan pancasila sebagai pandangan hidup?",
+          "options": [
+            "Bukan hanya dipelajari untuk dihafalkan.",
+            "Menjadikan nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sebagai arah perilaku.",
+            "Pedoman hidup membantu menentukan sikap dalam kehidupan sehari-hari.",
+            "Pancasila menjadi pedoman masyarakat dalam bersikap dan bertindak sehari-hari."
+          ],
+          "answer": "Menjadikan nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sebagai arah perilaku.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang pancasila sebagai pandangan hidup. Menjadikan nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sebagai arah perilaku."
+        },
+        {
+          "id": "PKN-B02-011",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang pancasila sebagai ideologi negara?",
+          "options": [
+            " Bukan kumpulan cita-cita untuk kepentingan pribadi.",
+            " Mewujudkan kehidupan yang berketuhanan, berkemanusiaan, bersatu, berkerakyatan, dan berkeadilan.",
+            "Pancasila memuat cita-cita kehidupan bangsa.",
+            "Ideologi memberi arah cita-cita bersama bangsa."
+          ],
+          "answer": "Pancasila memuat cita-cita kehidupan bangsa.",
+          "discussion": "Materi bab menjelaskan bahwa pancasila memuat cita-cita kehidupan bangsa."
+        },
+        {
+          "id": "PKN-B02-012",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan pancasila sebagai ideologi negara?",
+          "options": [
+            "Bukan kumpulan cita-cita untuk kepentingan pribadi.",
+            "Ideologi memberi arah cita-cita bersama bangsa.",
+            "Pancasila memuat cita-cita kehidupan bangsa.",
+            "Mewujudkan kehidupan yang berketuhanan, berkemanusiaan, bersatu, berkerakyatan, dan berkeadilan."
+          ],
+          "answer": "Mewujudkan kehidupan yang berketuhanan, berkemanusiaan, bersatu, berkerakyatan, dan berkeadilan.",
+          "discussion": "Contoh tersebut sesuai karena mewujudkan kehidupan yang berketuhanan, berkemanusiaan, bersatu, berkerakyatan, dan berkeadilan."
+        },
+        {
+          "id": "PKN-B02-013",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait pancasila sebagai ideologi negara adalah ...",
+          "options": [
+            "Bukan kumpulan cita-cita untuk kepentingan pribadi.",
+            "Pancasila memuat cita-cita kehidupan bangsa.",
+            "Mewujudkan kehidupan yang berketuhanan, berkemanusiaan, bersatu, berkerakyatan, dan berkeadilan.",
+            "Ideologi memberi arah cita-cita bersama bangsa."
+          ],
+          "answer": "Bukan kumpulan cita-cita untuk kepentingan pribadi.",
+          "discussion": "Hal yang perlu dihindari adalah bukan kumpulan cita-cita untuk kepentingan pribadi."
+        },
+        {
+          "id": "PKN-B02-014",
+          "type": "PG",
+          "text": "Mengapa pancasila sebagai ideologi negara penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan kumpulan cita-cita untuk kepentingan pribadi.",
+            "Ideologi memberi arah cita-cita bersama bangsa.",
+            "Pancasila memuat cita-cita kehidupan bangsa.",
+            "Mewujudkan kehidupan yang berketuhanan, berkemanusiaan, bersatu, berkerakyatan, dan berkeadilan."
+          ],
+          "answer": "Ideologi memberi arah cita-cita bersama bangsa.",
+          "discussion": "Manfaatnya adalah ideologi memberi arah cita-cita bersama bangsa."
+        },
+        {
+          "id": "PKN-B02-015",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan pancasila sebagai ideologi negara?",
+          "options": [
+            "Bukan kumpulan cita-cita untuk kepentingan pribadi.",
+            "Ideologi memberi arah cita-cita bersama bangsa.",
+            "Mewujudkan kehidupan yang berketuhanan, berkemanusiaan, bersatu, berkerakyatan, dan berkeadilan.",
+            "Pancasila memuat cita-cita kehidupan bangsa."
+          ],
+          "answer": "Mewujudkan kehidupan yang berketuhanan, berkemanusiaan, bersatu, berkerakyatan, dan berkeadilan.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang pancasila sebagai ideologi negara. Mewujudkan kehidupan yang berketuhanan, berkemanusiaan, bersatu, berkerakyatan, dan berkeadilan."
+        },
+        {
+          "id": "PKN-B02-016",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang pancasila sebagai pemersatu?",
+          "options": [
+            " Bukan menghapus semua perbedaan.",
+            " Warga berbeda suku, bahasa, agama, dan adat tetap hidup sebagai satu bangsa.",
+            "Nilai bersama menjaga keberagaman agar tidak memecah bangsa.",
+            "Pancasila membantu menyatukan masyarakat Indonesia yang beragam."
+          ],
+          "answer": "Pancasila membantu menyatukan masyarakat Indonesia yang beragam.",
+          "discussion": "Materi bab menjelaskan bahwa pancasila membantu menyatukan masyarakat Indonesia yang beragam."
+        },
+        {
+          "id": "PKN-B02-017",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan pancasila sebagai pemersatu?",
+          "options": [
+            "Warga berbeda suku, bahasa, agama, dan adat tetap hidup sebagai satu bangsa.",
+            "Bukan menghapus semua perbedaan.",
+            "Nilai bersama menjaga keberagaman agar tidak memecah bangsa.",
+            "Pancasila membantu menyatukan masyarakat Indonesia yang beragam."
+          ],
+          "answer": "Warga berbeda suku, bahasa, agama, dan adat tetap hidup sebagai satu bangsa.",
+          "discussion": "Contoh tersebut sesuai karena warga berbeda suku, bahasa, agama, dan adat tetap hidup sebagai satu bangsa."
+        },
+        {
+          "id": "PKN-B02-018",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait pancasila sebagai pemersatu adalah ...",
+          "options": [
+            "Pancasila membantu menyatukan masyarakat Indonesia yang beragam.",
+            "Bukan menghapus semua perbedaan.",
+            "Warga berbeda suku, bahasa, agama, dan adat tetap hidup sebagai satu bangsa.",
+            "Nilai bersama menjaga keberagaman agar tidak memecah bangsa."
+          ],
+          "answer": "Bukan menghapus semua perbedaan.",
+          "discussion": "Hal yang perlu dihindari adalah bukan menghapus semua perbedaan."
+        },
+        {
+          "id": "PKN-B02-019",
+          "type": "PG",
+          "text": "Mengapa pancasila sebagai pemersatu penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan menghapus semua perbedaan.",
+            "Pancasila membantu menyatukan masyarakat Indonesia yang beragam.",
+            "Nilai bersama menjaga keberagaman agar tidak memecah bangsa.",
+            "Warga berbeda suku, bahasa, agama, dan adat tetap hidup sebagai satu bangsa."
+          ],
+          "answer": "Nilai bersama menjaga keberagaman agar tidak memecah bangsa.",
+          "discussion": "Manfaatnya adalah nilai bersama menjaga keberagaman agar tidak memecah bangsa."
+        },
+        {
+          "id": "PKN-B02-020",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan pancasila sebagai pemersatu?",
+          "options": [
+            "Bukan menghapus semua perbedaan.",
+            "Nilai bersama menjaga keberagaman agar tidak memecah bangsa.",
+            "Pancasila membantu menyatukan masyarakat Indonesia yang beragam.",
+            "Warga berbeda suku, bahasa, agama, dan adat tetap hidup sebagai satu bangsa."
+          ],
+          "answer": "Warga berbeda suku, bahasa, agama, dan adat tetap hidup sebagai satu bangsa.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang pancasila sebagai pemersatu. Warga berbeda suku, bahasa, agama, dan adat tetap hidup sebagai satu bangsa."
+        },
+        {
+          "id": "PKN-B02-021",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang sila pertama?",
+          "options": [
+            "Menghormati keyakinan dan memberi kesempatan orang lain beribadah.",
+            " Bukan memaksa orang mengikuti keyakinan kita.",
+            " Tidak mengganggu teman yang sedang beribadah.",
+            "Penghormatan menjaga kebebasan menjalankan keyakinan."
+          ],
+          "answer": "Menghormati keyakinan dan memberi kesempatan orang lain beribadah.",
+          "discussion": "Materi bab menjelaskan bahwa menghormati keyakinan dan memberi kesempatan orang lain beribadah."
+        },
+        {
+          "id": "PKN-B02-022",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan sila pertama?",
+          "options": [
+            "Bukan memaksa orang mengikuti keyakinan kita.",
+            "Tidak mengganggu teman yang sedang beribadah.",
+            "Penghormatan menjaga kebebasan menjalankan keyakinan.",
+            "Menghormati keyakinan dan memberi kesempatan orang lain beribadah."
+          ],
+          "answer": "Tidak mengganggu teman yang sedang beribadah.",
+          "discussion": "Contoh tersebut sesuai karena tidak mengganggu teman yang sedang beribadah."
+        },
+        {
+          "id": "PKN-B02-023",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait sila pertama adalah ...",
+          "options": [
+            "Menghormati keyakinan dan memberi kesempatan orang lain beribadah.",
+            "Tidak mengganggu teman yang sedang beribadah.",
+            "Bukan memaksa orang mengikuti keyakinan kita.",
+            "Penghormatan menjaga kebebasan menjalankan keyakinan."
+          ],
+          "answer": "Bukan memaksa orang mengikuti keyakinan kita.",
+          "discussion": "Hal yang perlu dihindari adalah bukan memaksa orang mengikuti keyakinan kita."
+        },
+        {
+          "id": "PKN-B02-024",
+          "type": "PG",
+          "text": "Mengapa sila pertama penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan memaksa orang mengikuti keyakinan kita.",
+            "Menghormati keyakinan dan memberi kesempatan orang lain beribadah.",
+            "Tidak mengganggu teman yang sedang beribadah.",
+            "Penghormatan menjaga kebebasan menjalankan keyakinan."
+          ],
+          "answer": "Penghormatan menjaga kebebasan menjalankan keyakinan.",
+          "discussion": "Manfaatnya adalah penghormatan menjaga kebebasan menjalankan keyakinan."
+        },
+        {
+          "id": "PKN-B02-025",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan sila pertama?",
+          "options": [
+            "Tidak mengganggu teman yang sedang beribadah.",
+            "Bukan memaksa orang mengikuti keyakinan kita.",
+            "Penghormatan menjaga kebebasan menjalankan keyakinan.",
+            "Menghormati keyakinan dan memberi kesempatan orang lain beribadah."
+          ],
+          "answer": "Tidak mengganggu teman yang sedang beribadah.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang sila pertama. Tidak mengganggu teman yang sedang beribadah."
+        },
+        {
+          "id": "PKN-B02-026",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang sila kedua?",
+          "options": [
+            " Bukan mengejek atau mengucilkan orang.",
+            "Menghargai martabat manusia dan memperlakukan orang secara beradab.",
+            " Menolong teman dan tidak melakukan perundungan.",
+            "Setiap orang patut diperlakukan dengan manusiawi."
+          ],
+          "answer": "Menghargai martabat manusia dan memperlakukan orang secara beradab.",
+          "discussion": "Materi bab menjelaskan bahwa menghargai martabat manusia dan memperlakukan orang secara beradab."
+        },
+        {
+          "id": "PKN-B02-027",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan sila kedua?",
+          "options": [
+            "Bukan mengejek atau mengucilkan orang.",
+            "Setiap orang patut diperlakukan dengan manusiawi.",
+            "Menolong teman dan tidak melakukan perundungan.",
+            "Menghargai martabat manusia dan memperlakukan orang secara beradab."
+          ],
+          "answer": "Menolong teman dan tidak melakukan perundungan.",
+          "discussion": "Contoh tersebut sesuai karena menolong teman dan tidak melakukan perundungan."
+        },
+        {
+          "id": "PKN-B02-028",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait sila kedua adalah ...",
+          "options": [
+            "Menghargai martabat manusia dan memperlakukan orang secara beradab.",
+            "Menolong teman dan tidak melakukan perundungan.",
+            "Setiap orang patut diperlakukan dengan manusiawi.",
+            "Bukan mengejek atau mengucilkan orang."
+          ],
+          "answer": "Bukan mengejek atau mengucilkan orang.",
+          "discussion": "Hal yang perlu dihindari adalah bukan mengejek atau mengucilkan orang."
+        },
+        {
+          "id": "PKN-B02-029",
+          "type": "PG",
+          "text": "Mengapa sila kedua penting dalam kehidupan bersama?",
+          "options": [
+            "Setiap orang patut diperlakukan dengan manusiawi.",
+            "Bukan mengejek atau mengucilkan orang.",
+            "Menghargai martabat manusia dan memperlakukan orang secara beradab.",
+            "Menolong teman dan tidak melakukan perundungan."
+          ],
+          "answer": "Setiap orang patut diperlakukan dengan manusiawi.",
+          "discussion": "Manfaatnya adalah setiap orang patut diperlakukan dengan manusiawi."
+        },
+        {
+          "id": "PKN-B02-030",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan sila kedua?",
+          "options": [
+            "Bukan mengejek atau mengucilkan orang.",
+            "Menolong teman dan tidak melakukan perundungan.",
+            "Setiap orang patut diperlakukan dengan manusiawi.",
+            "Menghargai martabat manusia dan memperlakukan orang secara beradab."
+          ],
+          "answer": "Menolong teman dan tidak melakukan perundungan.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang sila kedua. Menolong teman dan tidak melakukan perundungan."
+        },
+        {
+          "id": "PKN-B02-031",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang sila ketiga?",
+          "options": [
+            " Bukan mengutamakan kelompok sendiri.",
+            " Bekerja sama tanpa membeda-bedakan suku atau bahasa daerah.",
+            "Mengutamakan persatuan Indonesia di tengah perbedaan.",
+            "Kebersamaan memperkuat persatuan."
+          ],
+          "answer": "Mengutamakan persatuan Indonesia di tengah perbedaan.",
+          "discussion": "Materi bab menjelaskan bahwa mengutamakan persatuan Indonesia di tengah perbedaan."
+        },
+        {
+          "id": "PKN-B02-032",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan sila ketiga?",
+          "options": [
+            "Bukan mengutamakan kelompok sendiri.",
+            "Kebersamaan memperkuat persatuan.",
+            "Mengutamakan persatuan Indonesia di tengah perbedaan.",
+            "Bekerja sama tanpa membeda-bedakan suku atau bahasa daerah."
+          ],
+          "answer": "Bekerja sama tanpa membeda-bedakan suku atau bahasa daerah.",
+          "discussion": "Contoh tersebut sesuai karena bekerja sama tanpa membeda-bedakan suku atau bahasa daerah."
+        },
+        {
+          "id": "PKN-B02-033",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait sila ketiga adalah ...",
+          "options": [
+            "Bukan mengutamakan kelompok sendiri.",
+            "Mengutamakan persatuan Indonesia di tengah perbedaan.",
+            "Bekerja sama tanpa membeda-bedakan suku atau bahasa daerah.",
+            "Kebersamaan memperkuat persatuan."
+          ],
+          "answer": "Bukan mengutamakan kelompok sendiri.",
+          "discussion": "Hal yang perlu dihindari adalah bukan mengutamakan kelompok sendiri."
+        },
+        {
+          "id": "PKN-B02-034",
+          "type": "PG",
+          "text": "Mengapa sila ketiga penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan mengutamakan kelompok sendiri.",
+            "Kebersamaan memperkuat persatuan.",
+            "Mengutamakan persatuan Indonesia di tengah perbedaan.",
+            "Bekerja sama tanpa membeda-bedakan suku atau bahasa daerah."
+          ],
+          "answer": "Kebersamaan memperkuat persatuan.",
+          "discussion": "Manfaatnya adalah kebersamaan memperkuat persatuan."
+        },
+        {
+          "id": "PKN-B02-035",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan sila ketiga?",
+          "options": [
+            "Bukan mengutamakan kelompok sendiri.",
+            "Kebersamaan memperkuat persatuan.",
+            "Bekerja sama tanpa membeda-bedakan suku atau bahasa daerah.",
+            "Mengutamakan persatuan Indonesia di tengah perbedaan."
+          ],
+          "answer": "Bekerja sama tanpa membeda-bedakan suku atau bahasa daerah.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang sila ketiga. Bekerja sama tanpa membeda-bedakan suku atau bahasa daerah."
+        },
+        {
+          "id": "PKN-B02-036",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang sila keempat?",
+          "options": [
+            " Bukan memaksakan keputusan sepihak.",
+            " Mendengarkan usulan anggota sebelum menyepakati pembagian tugas.",
+            "Musyawarah mempertimbangkan kepentingan bersama.",
+            "Mengambil keputusan dengan musyawarah dan menghargai pendapat."
+          ],
+          "answer": "Mengambil keputusan dengan musyawarah dan menghargai pendapat.",
+          "discussion": "Materi bab menjelaskan bahwa mengambil keputusan dengan musyawarah dan menghargai pendapat."
+        },
+        {
+          "id": "PKN-B02-037",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan sila keempat?",
+          "options": [
+            "Mendengarkan usulan anggota sebelum menyepakati pembagian tugas.",
+            "Bukan memaksakan keputusan sepihak.",
+            "Musyawarah mempertimbangkan kepentingan bersama.",
+            "Mengambil keputusan dengan musyawarah dan menghargai pendapat."
+          ],
+          "answer": "Mendengarkan usulan anggota sebelum menyepakati pembagian tugas.",
+          "discussion": "Contoh tersebut sesuai karena mendengarkan usulan anggota sebelum menyepakati pembagian tugas."
+        },
+        {
+          "id": "PKN-B02-038",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait sila keempat adalah ...",
+          "options": [
+            "Mengambil keputusan dengan musyawarah dan menghargai pendapat.",
+            "Bukan memaksakan keputusan sepihak.",
+            "Mendengarkan usulan anggota sebelum menyepakati pembagian tugas.",
+            "Musyawarah mempertimbangkan kepentingan bersama."
+          ],
+          "answer": "Bukan memaksakan keputusan sepihak.",
+          "discussion": "Hal yang perlu dihindari adalah bukan memaksakan keputusan sepihak."
+        },
+        {
+          "id": "PKN-B02-039",
+          "type": "PG",
+          "text": "Mengapa sila keempat penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan memaksakan keputusan sepihak.",
+            "Mengambil keputusan dengan musyawarah dan menghargai pendapat.",
+            "Musyawarah mempertimbangkan kepentingan bersama.",
+            "Mendengarkan usulan anggota sebelum menyepakati pembagian tugas."
+          ],
+          "answer": "Musyawarah mempertimbangkan kepentingan bersama.",
+          "discussion": "Manfaatnya adalah musyawarah mempertimbangkan kepentingan bersama."
+        },
+        {
+          "id": "PKN-B02-040",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan sila keempat?",
+          "options": [
+            "Bukan memaksakan keputusan sepihak.",
+            "Musyawarah mempertimbangkan kepentingan bersama.",
+            "Mengambil keputusan dengan musyawarah dan menghargai pendapat.",
+            "Mendengarkan usulan anggota sebelum menyepakati pembagian tugas."
+          ],
+          "answer": "Mendengarkan usulan anggota sebelum menyepakati pembagian tugas.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang sila keempat. Mendengarkan usulan anggota sebelum menyepakati pembagian tugas."
+        },
+        {
+          "id": "PKN-B02-041",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang sila kelima?",
+          "options": [
+            "Mewujudkan keadilan sosial melalui keseimbangan hak dan kewajiban.",
+            " Bukan mengambil hak orang lain.",
+            " Membagi tugas secara adil dan menghormati hak orang lain.",
+            "Keadilan membuat setiap orang diperlakukan secara layak."
+          ],
+          "answer": "Mewujudkan keadilan sosial melalui keseimbangan hak dan kewajiban.",
+          "discussion": "Materi bab menjelaskan bahwa mewujudkan keadilan sosial melalui keseimbangan hak dan kewajiban."
+        },
+        {
+          "id": "PKN-B02-042",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan sila kelima?",
+          "options": [
+            "Bukan mengambil hak orang lain.",
+            "Membagi tugas secara adil dan menghormati hak orang lain.",
+            "Keadilan membuat setiap orang diperlakukan secara layak.",
+            "Mewujudkan keadilan sosial melalui keseimbangan hak dan kewajiban."
+          ],
+          "answer": "Membagi tugas secara adil dan menghormati hak orang lain.",
+          "discussion": "Contoh tersebut sesuai karena membagi tugas secara adil dan menghormati hak orang lain."
+        },
+        {
+          "id": "PKN-B02-043",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait sila kelima adalah ...",
+          "options": [
+            "Mewujudkan keadilan sosial melalui keseimbangan hak dan kewajiban.",
+            "Membagi tugas secara adil dan menghormati hak orang lain.",
+            "Bukan mengambil hak orang lain.",
+            "Keadilan membuat setiap orang diperlakukan secara layak."
+          ],
+          "answer": "Bukan mengambil hak orang lain.",
+          "discussion": "Hal yang perlu dihindari adalah bukan mengambil hak orang lain."
+        },
+        {
+          "id": "PKN-B02-044",
+          "type": "PG",
+          "text": "Mengapa sila kelima penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan mengambil hak orang lain.",
+            "Mewujudkan keadilan sosial melalui keseimbangan hak dan kewajiban.",
+            "Membagi tugas secara adil dan menghormati hak orang lain.",
+            "Keadilan membuat setiap orang diperlakukan secara layak."
+          ],
+          "answer": "Keadilan membuat setiap orang diperlakukan secara layak.",
+          "discussion": "Manfaatnya adalah keadilan membuat setiap orang diperlakukan secara layak."
+        },
+        {
+          "id": "PKN-B02-045",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan sila kelima?",
+          "options": [
+            "Membagi tugas secara adil dan menghormati hak orang lain.",
+            "Bukan mengambil hak orang lain.",
+            "Keadilan membuat setiap orang diperlakukan secara layak.",
+            "Mewujudkan keadilan sosial melalui keseimbangan hak dan kewajiban."
+          ],
+          "answer": "Membagi tugas secara adil dan menghormati hak orang lain.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang sila kelima. Membagi tugas secara adil dan menghormati hak orang lain."
+        },
+        {
+          "id": "PKN-B02-046",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang bahasa indonesia dan sumpah pemuda?",
+          "options": [
+            " Bukan merendahkan bahasa daerah.",
+            "Bahasa Indonesia menjadi alat penghubung antarmasyarakat dan antarbudaya; semangat persatuan tampak dalam Sumpah Pemuda 1928.",
+            " Menggunakan bahasa Indonesia untuk berkomunikasi dengan teman dari daerah berbeda.",
+            "Bahasa bersama membantu komunikasi dan persatuan."
+          ],
+          "answer": "Bahasa Indonesia menjadi alat penghubung antarmasyarakat dan antarbudaya; semangat persatuan tampak dalam Sumpah Pemuda 1928.",
+          "discussion": "Materi bab menjelaskan bahwa bahasa Indonesia menjadi alat penghubung antarmasyarakat dan antarbudaya; semangat persatuan tampak dalam Sumpah Pemuda 1928."
+        },
+        {
+          "id": "PKN-B02-047",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan bahasa indonesia dan sumpah pemuda?",
+          "options": [
+            "Bukan merendahkan bahasa daerah.",
+            "Bahasa bersama membantu komunikasi dan persatuan.",
+            "Menggunakan bahasa Indonesia untuk berkomunikasi dengan teman dari daerah berbeda.",
+            "Bahasa Indonesia menjadi alat penghubung antarmasyarakat dan antarbudaya; semangat persatuan tampak dalam Sumpah Pemuda 1928."
+          ],
+          "answer": "Menggunakan bahasa Indonesia untuk berkomunikasi dengan teman dari daerah berbeda.",
+          "discussion": "Contoh tersebut sesuai karena menggunakan bahasa Indonesia untuk berkomunikasi dengan teman dari daerah berbeda."
+        },
+        {
+          "id": "PKN-B02-048",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait bahasa indonesia dan sumpah pemuda adalah ...",
+          "options": [
+            "Bahasa Indonesia menjadi alat penghubung antarmasyarakat dan antarbudaya; semangat persatuan tampak dalam Sumpah Pemuda 1928.",
+            "Menggunakan bahasa Indonesia untuk berkomunikasi dengan teman dari daerah berbeda.",
+            "Bahasa bersama membantu komunikasi dan persatuan.",
+            "Bukan merendahkan bahasa daerah."
+          ],
+          "answer": "Bukan merendahkan bahasa daerah.",
+          "discussion": "Hal yang perlu dihindari adalah bukan merendahkan bahasa daerah."
+        },
+        {
+          "id": "PKN-B02-049",
+          "type": "PG",
+          "text": "Mengapa bahasa indonesia dan sumpah pemuda penting dalam kehidupan bersama?",
+          "options": [
+            "Bahasa bersama membantu komunikasi dan persatuan.",
+            "Bukan merendahkan bahasa daerah.",
+            "Bahasa Indonesia menjadi alat penghubung antarmasyarakat dan antarbudaya; semangat persatuan tampak dalam Sumpah Pemuda 1928.",
+            "Menggunakan bahasa Indonesia untuk berkomunikasi dengan teman dari daerah berbeda."
+          ],
+          "answer": "Bahasa bersama membantu komunikasi dan persatuan.",
+          "discussion": "Manfaatnya adalah bahasa bersama membantu komunikasi dan persatuan."
+        },
+        {
+          "id": "PKN-B02-050",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan bahasa indonesia dan sumpah pemuda?",
+          "options": [
+            "Bukan merendahkan bahasa daerah.",
+            "Menggunakan bahasa Indonesia untuk berkomunikasi dengan teman dari daerah berbeda.",
+            "Bahasa bersama membantu komunikasi dan persatuan.",
+            "Bahasa Indonesia menjadi alat penghubung antarmasyarakat dan antarbudaya; semangat persatuan tampak dalam Sumpah Pemuda 1928."
+          ],
+          "answer": "Menggunakan bahasa Indonesia untuk berkomunikasi dengan teman dari daerah berbeda.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang bahasa indonesia dan sumpah pemuda. Menggunakan bahasa Indonesia untuk berkomunikasi dengan teman dari daerah berbeda."
+        }
+      ]
+    }
+  ]
+}
