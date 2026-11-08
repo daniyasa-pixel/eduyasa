@@ -257,7 +257,11 @@
             "Makan apa saja tanpa mempertimbangkan aturan"
           ],
           "answer": "Memilih makanan dengan bahan dan proses yang jelas",
-          "discussion": "Konsumen perlu memperhatikan bahan, proses, dan keterangan produk."
+          "discussion": "Konsumen perlu memperhatikan bahan, proses, dan keterangan produk.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q04-halal-choice.svg",
+            "alt": "Ilustrasi memilih makanan halal"
+          }
         },
         {
           "id": "PAI-B04-Q020",
@@ -374,11 +378,7 @@
             "Memberi tahu pembeli dengan jujur"
           ],
           "answer": "Memberi tahu pembeli dengan jujur",
-          "discussion": "Kejujuran dalam jual beli merupakan perilaku yang baik.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q04-halal-choice.svg",
-            "alt": "Ilustrasi pilihan makanan yang baik"
-          }
+          "discussion": "Kejujuran dalam jual beli merupakan perilaku yang baik."
         },
         {
           "id": "PAI-B04-Q029",
