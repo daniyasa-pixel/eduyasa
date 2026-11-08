@@ -19,7 +19,12 @@
             "Makanan"
           ],
           "answer": "Kebersihan",
-          "discussion": "Hygiene means kebersihan or the practice of keeping ourselves clean."
+          "discussion": "Hygiene means kebersihan or the practice of keeping ourselves clean.",
+          "audio": {
+            "type": "speech",
+            "text": "Hygiene",
+            "label": "▶ LISTEN"
+          }
         },
         {
           "id": "ENG-B02-002",
@@ -304,7 +309,12 @@
             "Wear a mask"
           ],
           "answer": "Wear a mask",
-          "discussion": "Wearing a mask can help reduce the spread of respiratory droplets."
+          "discussion": "Wearing a mask can help reduce the spread of respiratory droplets.",
+          "audio": {
+            "type": "speech",
+            "text": "Wear a mask",
+            "label": "▶ LISTEN"
+          }
         },
         {
           "id": "ENG-B02-021",
@@ -465,7 +475,12 @@
             "Dua kali sehari"
           ],
           "answer": "Dua kali sehari",
-          "discussion": "Twice a day means two times each day."
+          "discussion": "Twice a day means two times each day.",
+          "audio": {
+            "type": "speech",
+            "text": "Twice a day",
+            "label": "▶ LISTEN"
+          }
         },
         {
           "id": "ENG-B02-033",
