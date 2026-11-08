@@ -1,0 +1,22 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "PAI-B05",
+  "chapter_title": "Jasa Khulafaurrasyidin untuk Dunia",
+  "modules": [
+    {
+      "id": "PAI-B05-MOD-01",
+      "version": "MOD-01",
+      "title": "Abu Bakar al-Ṣiddiq",
+      "content": "# Jasa Khulafaurrasyidin untuk Dunia\n\n## Tujuan Pembelajaran\nKamu dapat mengenal riwayat, gelar, perjuangan, dan jasa Abu Bakar al-Ṣiddiq.\n\n## A. Mengenal Abu Bakar\nAbu Bakar al-Ṣiddiq adalah sahabat dekat Nabi Muhammad saw. dan khalifah pertama setelah wafatnya Nabi. Gelar **al-Ṣiddiq** berkaitan dengan sikapnya yang membenarkan kebenaran yang dibawa Rasulullah.\n\n## B. Perjuangan dan Jasa\nAbu Bakar menjaga persatuan umat dan menghadapi kelompok yang memberontak atau menolak kewajiban zakat. Salah satu jasa pentingnya ialah memulai pengumpulan lembaran Al-Qur’an setelah banyak penghafal gugur dalam peperangan.\n\n## C. Keteladanan\nAbu Bakar dikenal jujur, teguh, sederhana, dan mengutamakan persatuan. Kita dapat meneladaninya dengan berkata benar dan menepati janji.\n\n## Ringkasan\nAbu Bakar adalah khalifah pertama bergelar al-Ṣiddiq. Jasanya termasuk menjaga persatuan dan memulai pengumpulan Al-Qur’an."
+    },
+    {
+      "id": "PAI-B05-MOD-02",
+      "version": "MOD-02",
+      "title": "Umar bin Khattab",
+      "content": "# Jasa Khulafaurrasyidin untuk Dunia\n\n## Tujuan Pembelajaran\nKamu dapat mengenal jasa kepemimpinan Umar bin Khattab dan mengambil teladannya.\n\n## A. Mengenal Umar\nUmar bin Khattab adalah khalifah kedua setelah Abu Bakar. Ia dikenal tegas, berani, dan adil. Gelarnya yang terkenal adalah **al-Fārūq**, yang sering dijelaskan sebagai pembeda antara yang benar dan batil.\n\n## B. Jasa-Jasa Umar\nPada masa Umar, wilayah pemerintahan Islam berkembang. Ia menata administrasi, memperhatikan keadilan, mengembangkan fasilitas umum, dan mengatur penggunaan kalender Hijriah.\n\n## C. Keteladanan\nKita dapat meneladani keadilan Umar dengan tidak pilih kasih, berani membela kebenaran, disiplin, dan peduli kepada orang yang membutuhkan.\n\n## Ringkasan\nUmar adalah khalifah kedua. Ia dikenal adil dan tegas serta berjasa dalam penataan pemerintahan."
+    }
+  ]
+}
