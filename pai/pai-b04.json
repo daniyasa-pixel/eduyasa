@@ -13,394 +13,390 @@
           "type": "PG",
           "text": "Apa arti halal menurut syariat Islam?",
           "options": [
-            "Dibolehkan oleh syariat Islam",
+            "Diizinkan atau dibolehkan oleh syariat",
             "Dilarang oleh syariat",
             "Belum diketahui hukumnya",
-            "Selalu wajib dilakukan"
+            "Selalu merugikan orang lain"
           ],
-          "answer": "Dibolehkan oleh syariat Islam",
+          "answer": "Diizinkan atau dibolehkan oleh syariat",
           "discussion": "Halal adalah sesuatu atau kegiatan yang diizinkan syariat Islam."
         },
         {
           "id": "PAI-B04-Q002",
           "type": "PG",
-          "text": "Sesuatu yang diizinkan syariat untuk digunakan atau dilakukan disebut ...",
+          "text": "Apa arti haram?",
           "options": [
-            "Dilarang oleh syariat",
-            "Dibolehkan oleh syariat Islam",
-            "Belum diketahui hukumnya",
-            "Selalu wajib dilakukan"
+            "Dianjurkan untuk dilakukan",
+            "Dilarang oleh syariat Islam",
+            "Boleh dilakukan kapan saja",
+            "Tidak memiliki aturan"
           ],
-          "answer": "Dibolehkan oleh syariat Islam",
-          "discussion": "Halal adalah sesuatu atau kegiatan yang diizinkan syariat Islam."
+          "answer": "Dilarang oleh syariat Islam",
+          "discussion": "Haram adalah sesuatu atau kegiatan yang dilarang syariat Islam."
         },
         {
           "id": "PAI-B04-Q003",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Hukum Halal dan Haram adalah: Apa arti halal menurut syariat Islam?",
+          "text": "Sumber utama hukum halal dan haram adalah ...",
           "options": [
-            "Dilarang oleh syariat",
-            "Belum diketahui hukumnya",
-            "Dibolehkan oleh syariat Islam",
-            "Selalu wajib dilakukan"
+            "Pendapat teman",
+            "Kebiasaan pribadi",
+            "Al-Qur’an",
+            "Iklan produk"
           ],
-          "answer": "Dibolehkan oleh syariat Islam",
-          "discussion": "Halal adalah sesuatu atau kegiatan yang diizinkan syariat Islam."
+          "answer": "Al-Qur’an",
+          "discussion": "Al-Qur’an menjadi sumber utama hukum dalam Islam."
         },
         {
           "id": "PAI-B04-Q004",
           "type": "PG",
-          "text": "Apa arti haram?",
+          "text": "Apa peran hadis dalam menjelaskan hukum halal dan haram?",
           "options": [
-            "Dianjurkan untuk dilakukan",
-            "Boleh dilakukan kapan saja",
-            "Tidak memiliki aturan",
-            "Dilarang oleh syariat Islam"
+            "Menghapus seluruh hukum Al-Qur’an",
+            "Menggantikan semua sumber hukum",
+            "Menentukan hukum berdasarkan selera",
+            "Menjelaskan dan merinci ajaran Al-Qur’an"
           ],
-          "answer": "Dilarang oleh syariat Islam",
-          "discussion": "Haram adalah sesuatu atau kegiatan yang tidak diizinkan syariat."
+          "answer": "Menjelaskan dan merinci ajaran Al-Qur’an",
+          "discussion": "Hadis atau sunah menjadi sumber kedua yang menjelaskan ajaran Al-Qur’an."
         },
         {
           "id": "PAI-B04-Q005",
           "type": "PG",
-          "text": "Sesuatu yang dilarang oleh syariat disebut ...",
+          "text": "Apa yang dimaksud ijtihad ulama?",
           "options": [
-            "Dilarang oleh syariat Islam",
-            "Dianjurkan untuk dilakukan",
-            "Boleh dilakukan kapan saja",
-            "Tidak memiliki aturan"
+            "Upaya menggali hukum melalui kajian oleh ulama yang memenuhi syarat",
+            "Menentukan hukum berdasarkan dugaan anak-anak",
+            "Mengubah semua larangan agama",
+            "Memilih hukum yang paling mudah tanpa dasar"
           ],
-          "answer": "Dilarang oleh syariat Islam",
-          "discussion": "Haram adalah sesuatu atau kegiatan yang tidak diizinkan syariat."
+          "answer": "Upaya menggali hukum melalui kajian oleh ulama yang memenuhi syarat",
+          "discussion": "Ijtihad dilakukan oleh ulama yang memenuhi syarat untuk menggali hukum."
         },
         {
           "id": "PAI-B04-Q006",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Hukum Halal dan Haram adalah: Apa arti haram?",
+          "text": "Q.S. al-Mā’idah/5:87 mengingatkan umat Islam agar ...",
           "options": [
-            "Dianjurkan untuk dilakukan",
-            "Dilarang oleh syariat Islam",
-            "Boleh dilakukan kapan saja",
-            "Tidak memiliki aturan"
+            "Mengharamkan semua makanan yang disukai",
+            "Tidak mengharamkan hal baik yang Allah halalkan dan tidak melampaui batas",
+            "Menganggap semua hal boleh dilakukan",
+            "Menolak semua nikmat dunia"
           ],
-          "answer": "Dilarang oleh syariat Islam",
-          "discussion": "Haram adalah sesuatu atau kegiatan yang tidak diizinkan syariat."
+          "answer": "Tidak mengharamkan hal baik yang Allah halalkan dan tidak melampaui batas",
+          "discussion": "Ayat tersebut melarang melampaui batas dan mengharamkan yang Allah halalkan."
         },
         {
           "id": "PAI-B04-Q007",
           "type": "PG",
-          "text": "Apa saja dasar hukum halal dan haram?",
+          "text": "Salah satu contoh yang diharamkan karena zat asalnya adalah ...",
           "options": [
-            "Cerita rakyat, iklan, dan kebiasaan",
-            "Pendapat teman dan selera",
-            "Al-Qur’an, hadis, dan ijtihad ulama",
-            "Hanya keputusan penjual"
+            "Buah apel",
+            "Air putih",
+            "Daging babi",
+            "Beras"
           ],
-          "answer": "Al-Qur’an, hadis, dan ijtihad ulama",
-          "discussion": "Dasar hukum meliputi Al-Qur’an, hadis atau sunah, serta ijtihad ulama yang memenuhi syarat."
+          "answer": "Daging babi",
+          "discussion": "Daging babi termasuk zat yang diharamkan dalam ajaran Islam."
         },
         {
           "id": "PAI-B04-Q008",
           "type": "PG",
-          "text": "Selain Al-Qur’an dan hadis, sumber penetapan hukum melalui kajian ulama disebut ...",
+          "text": "Contoh perbuatan yang dilarang karena sifat atau perbuatannya adalah ...",
           "options": [
-            "Cerita rakyat, iklan, dan kebiasaan",
-            "Pendapat teman dan selera",
-            "Hanya keputusan penjual",
-            "Al-Qur’an, hadis, dan ijtihad ulama"
+            "Makan buah",
+            "Minum air",
+            "Belajar di sekolah",
+            "Judi"
           ],
-          "answer": "Al-Qur’an, hadis, dan ijtihad ulama",
-          "discussion": "Dasar hukum meliputi Al-Qur’an, hadis atau sunah, serta ijtihad ulama yang memenuhi syarat."
+          "answer": "Judi",
+          "discussion": "Judi merupakan perbuatan yang dilarang."
         },
         {
           "id": "PAI-B04-Q009",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Hukum Halal dan Haram adalah: Apa saja dasar hukum halal dan haram?",
+          "text": "Barang yang asalnya halal dapat menjadi haram jika ...",
           "options": [
-            "Al-Qur’an, hadis, dan ijtihad ulama",
-            "Cerita rakyat, iklan, dan kebiasaan",
-            "Pendapat teman dan selera",
-            "Hanya keputusan penjual"
+            "Diperoleh melalui cara yang dilarang seperti mencuri",
+            "Dibeli dengan uang halal",
+            "Digunakan untuk kebutuhan baik",
+            "Diperiksa kejelasan bahannya"
           ],
-          "answer": "Al-Qur’an, hadis, dan ijtihad ulama",
-          "discussion": "Dasar hukum meliputi Al-Qur’an, hadis atau sunah, serta ijtihad ulama yang memenuhi syarat."
+          "answer": "Diperoleh melalui cara yang dilarang seperti mencuri",
+          "discussion": "Cara memperoleh barang juga menjadi pertimbangan hukum."
         },
         {
           "id": "PAI-B04-Q010",
           "type": "PG",
-          "text": "Apa pesan Q.S. al-Mā’idah/5:87?",
+          "text": "Seseorang mengambil uang temannya tanpa izin untuk membeli makanan. Masalah utama pada tindakan itu adalah ...",
           "options": [
-            "Mengonsumsi semua hal tanpa aturan",
-            "Mengharamkan hal baik yang dihalalkan Allah dan melampaui batas",
-            "Mengabaikan ketentuan agama",
-            "Melarang semua hal yang disukai"
+            "Makanan selalu haram",
+            "Cara memperoleh uangnya tidak dibenarkan",
+            "Semua uang tidak boleh digunakan",
+            "Makanan harus dibagikan kepada semua orang"
           ],
-          "answer": "Mengharamkan hal baik yang dihalalkan Allah dan melampaui batas",
-          "discussion": "Q.S. al-Mā’idah/5:87 mengingatkan agar tidak mengharamkan yang baik yang dihalalkan Allah dan tidak melampaui batas."
+          "answer": "Cara memperoleh uangnya tidak dibenarkan",
+          "discussion": "Barang atau uang yang diperoleh dengan mencuri tidak dibenarkan."
         },
         {
           "id": "PAI-B04-Q011",
           "type": "PG",
-          "text": "Ayat tersebut melarang orang beriman untuk ...",
+          "text": "Mengapa kita perlu memeriksa bahan makanan olahan?",
           "options": [
-            "Mengonsumsi semua hal tanpa aturan",
-            "Mengabaikan ketentuan agama",
-            "Mengharamkan hal baik yang dihalalkan Allah dan melampaui batas",
-            "Melarang semua hal yang disukai"
+            "Agar kemasannya terlihat menarik",
+            "Agar harga selalu paling mahal",
+            "Untuk memastikan bahan dan prosesnya sesuai ketentuan halal",
+            "Agar makanan bisa disimpan selamanya"
           ],
-          "answer": "Mengharamkan hal baik yang dihalalkan Allah dan melampaui batas",
-          "discussion": "Q.S. al-Mā’idah/5:87 mengingatkan agar tidak mengharamkan yang baik yang dihalalkan Allah dan tidak melampaui batas."
+          "answer": "Untuk memastikan bahan dan prosesnya sesuai ketentuan halal",
+          "discussion": "Pemeriksaan bahan dan informasi membantu memilih produk yang halal."
         },
         {
           "id": "PAI-B04-Q012",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Hukum Halal dan Haram adalah: Apa pesan Q.S. al-Mā’idah/5:87?",
+          "text": "Jika ragu terhadap status suatu produk, tindakan tepat adalah ...",
           "options": [
-            "Mengonsumsi semua hal tanpa aturan",
-            "Mengabaikan ketentuan agama",
-            "Melarang semua hal yang disukai",
-            "Mengharamkan hal baik yang dihalalkan Allah dan melampaui batas"
+            "Menebak berdasarkan warna kemasan",
+            "Mengikuti pendapat teman tanpa bukti",
+            "Menyebarkan tuduhan kepada penjual",
+            "Mencari informasi tepercaya dan bertanya kepada orang berilmu"
           ],
-          "answer": "Mengharamkan hal baik yang dihalalkan Allah dan melampaui batas",
-          "discussion": "Q.S. al-Mā’idah/5:87 mengingatkan agar tidak mengharamkan yang baik yang dihalalkan Allah dan tidak melampaui batas."
+          "answer": "Mencari informasi tepercaya dan bertanya kepada orang berilmu",
+          "discussion": "Keraguan perlu ditangani dengan mencari informasi yang dapat dipercaya."
         },
         {
           "id": "PAI-B04-Q013",
           "type": "PG",
-          "text": "Apa contoh sesuatu yang haram karena zat asalnya?",
+          "text": "Apa contoh perilaku halal dalam berdagang?",
           "options": [
-            "Zat asalnya",
-            "Cara menyimpannya",
-            "Harga jualnya",
-            "Warna kemasannya"
+            "Menjelaskan kondisi barang dengan jujur",
+            "Menyembunyikan kerusakan barang",
+            "Mengurangi timbangan",
+            "Menipu pembeli agar untung besar"
           ],
-          "answer": "Zat asalnya",
-          "discussion": "Buku menjelaskan bangkai, darah, dan daging babi sebagai contoh yang diharamkan karena zat asal."
+          "answer": "Menjelaskan kondisi barang dengan jujur",
+          "discussion": "Kejujuran merupakan bagian dari perilaku yang dibenarkan."
         },
         {
           "id": "PAI-B04-Q014",
           "type": "PG",
-          "text": "Bangkai, darah, dan daging babi termasuk contoh haram karena ...",
+          "text": "Mengapa menyuap termasuk perbuatan yang dilarang?",
           "options": [
-            "Cara menyimpannya",
-            "Zat asalnya",
-            "Harga jualnya",
-            "Warna kemasannya"
+            "Karena selalu dilakukan dengan uang kertas",
+            "Karena bertujuan memperoleh keputusan atau keuntungan secara tidak benar",
+            "Karena semua pemberian adalah suap",
+            "Karena penerima tidak boleh memiliki pekerjaan"
           ],
-          "answer": "Zat asalnya",
-          "discussion": "Buku menjelaskan bangkai, darah, dan daging babi sebagai contoh yang diharamkan karena zat asal."
+          "answer": "Karena bertujuan memperoleh keputusan atau keuntungan secara tidak benar",
+          "discussion": "Suap memengaruhi keputusan melalui cara yang tidak dibenarkan."
         },
         {
           "id": "PAI-B04-Q015",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Hukum Halal dan Haram adalah: Apa contoh sesuatu yang haram karena zat asalnya?",
+          "text": "Seseorang memberi hadiah kepada guru agar nilainya dinaikkan. Pemberian itu termasuk ...",
           "options": [
-            "Cara menyimpannya",
-            "Harga jualnya",
-            "Zat asalnya",
-            "Warna kemasannya"
+            "Sedekah jariah",
+            "Hibah tanpa tujuan",
+            "Suap",
+            "Hadiah penghargaan"
           ],
-          "answer": "Zat asalnya",
-          "discussion": "Buku menjelaskan bangkai, darah, dan daging babi sebagai contoh yang diharamkan karena zat asal."
+          "answer": "Suap",
+          "discussion": "Pemberian yang dimaksudkan untuk memengaruhi keputusan dapat menjadi suap."
         },
         {
           "id": "PAI-B04-Q016",
           "type": "PG",
-          "text": "Apa contoh haram karena sifat asal perbuatannya?",
+          "text": "Apa hubungan halal dan berkah dalam kehidupan?",
           "options": [
-            "Bahan pembuatannya",
-            "Tempat pembeliannya",
-            "Waktu pelaksanaannya",
-            "Sifat asal perbuatannya"
+            "Halal hanya berkaitan dengan rasa makanan",
+            "Berkah hanya ditentukan oleh harga barang",
+            "Halal berarti harus mahal",
+            "Memilih yang halal membantu memperoleh kebaikan dan keselamatan"
           ],
-          "answer": "Sifat asal perbuatannya",
-          "discussion": "Sifat perbuatan yang buruk seperti judi dan syirik menjadikannya terlarang."
+          "answer": "Memilih yang halal membantu memperoleh kebaikan dan keselamatan",
+          "discussion": "Materi mengaitkan pilihan halal dengan kebaikan dan keselamatan."
         },
         {
           "id": "PAI-B04-Q017",
           "type": "PG",
-          "text": "Judi dan syirik termasuk perbuatan yang dilarang karena ...",
+          "text": "Mengapa membuang sampah ke sungai termasuk tindakan yang dilarang dalam materi?",
           "options": [
-            "Sifat asal perbuatannya",
-            "Bahan pembuatannya",
-            "Tempat pembeliannya",
-            "Waktu pelaksanaannya"
+            "Karena merusak lingkungan dan merugikan makhluk lain",
+            "Karena sungai tidak boleh dilihat",
+            "Karena semua sampah harus dibakar",
+            "Karena air sungai hanya untuk ikan"
           ],
-          "answer": "Sifat asal perbuatannya",
-          "discussion": "Sifat perbuatan yang buruk seperti judi dan syirik menjadikannya terlarang."
+          "answer": "Karena merusak lingkungan dan merugikan makhluk lain",
+          "discussion": "Buku menggunakan contoh membuang sampah ke sungai sebagai tindakan haram karena merusak."
         },
         {
           "id": "PAI-B04-Q018",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Hukum Halal dan Haram adalah: Apa contoh haram karena sifat asal perbuatannya?",
+          "text": "Seseorang menemukan dompet di halaman sekolah. Tindakan yang benar adalah ...",
           "options": [
-            "Bahan pembuatannya",
-            "Sifat asal perbuatannya",
-            "Tempat pembeliannya",
-            "Waktu pelaksanaannya"
+            "Mengambil uangnya lalu membuang dompet",
+            "Menyerahkannya kepada guru agar dikembalikan kepada pemilik",
+            "Menyimpan tanpa memberi tahu siapa pun",
+            "Membagikan uangnya kepada teman"
           ],
-          "answer": "Sifat asal perbuatannya",
-          "discussion": "Sifat perbuatan yang buruk seperti judi dan syirik menjadikannya terlarang."
+          "answer": "Menyerahkannya kepada guru agar dikembalikan kepada pemilik",
+          "discussion": "Mengambil hak orang lain tanpa izin tidak dibenarkan."
         },
         {
           "id": "PAI-B04-Q019",
           "type": "PG",
-          "text": "Bagaimana sesuatu yang asalnya halal dapat menjadi haram karena proses?",
+          "text": "Manakah contoh penerapan hukum halal dalam konsumsi?",
           "options": [
-            "Bentuk ikan",
-            "Warna ikan",
-            "Proses pengolahan yang tidak sesuai ketentuan",
-            "Ukuran ikan"
+            "Membeli makanan hanya karena iklannya",
+            "Mengabaikan keterangan bahan",
+            "Memilih makanan dengan bahan dan proses yang jelas",
+            "Makan apa saja tanpa mempertimbangkan aturan"
           ],
-          "answer": "Proses pengolahan yang tidak sesuai ketentuan",
-          "discussion": "Proses pengolahan dapat memengaruhi hukum; sesuatu yang asalnya halal dapat menjadi haram jika prosesnya tidak memenuhi ketentuan."
+          "answer": "Memilih makanan dengan bahan dan proses yang jelas",
+          "discussion": "Konsumen perlu memperhatikan bahan, proses, dan keterangan produk."
         },
         {
           "id": "PAI-B04-Q020",
           "type": "PG",
-          "text": "Ikan halal dibakar pada alat yang tercemar unsur babi. Hal ini berkaitan dengan ...",
+          "text": "Apa perbedaan zat asal dan proses dalam penentuan halal-haram?",
           "options": [
-            "Bentuk ikan",
-            "Warna ikan",
-            "Ukuran ikan",
-            "Proses pengolahan yang tidak sesuai ketentuan"
+            "Zat asal melihat harga, proses melihat warna",
+            "Zat asal melihat penjual, proses melihat pembeli",
+            "Keduanya hanya melihat rasa",
+            "Zat asal melihat bahan, proses melihat cara memperoleh atau mengolahnya"
           ],
-          "answer": "Proses pengolahan yang tidak sesuai ketentuan",
-          "discussion": "Proses pengolahan dapat memengaruhi hukum; sesuatu yang asalnya halal dapat menjadi haram jika prosesnya tidak memenuhi ketentuan."
+          "answer": "Zat asal melihat bahan, proses melihat cara memperoleh atau mengolahnya",
+          "discussion": "Buku membedakan sebab berdasarkan zat asal, sifat asal, dan proses."
         },
         {
           "id": "PAI-B04-Q021",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Hukum Halal dan Haram adalah: Bagaimana sesuatu yang asalnya halal dapat menjadi haram karena proses?",
+          "text": "Contoh hasil yang diperoleh melalui proses haram adalah ...",
           "options": [
-            "Proses pengolahan yang tidak sesuai ketentuan",
-            "Bentuk ikan",
-            "Warna ikan",
-            "Ukuran ikan"
+            "Uang hasil korupsi",
+            "Gaji dari pekerjaan jujur",
+            "Hadiah ulang tahun",
+            "Hasil panen sendiri"
           ],
-          "answer": "Proses pengolahan yang tidak sesuai ketentuan",
-          "discussion": "Proses pengolahan dapat memengaruhi hukum; sesuatu yang asalnya halal dapat menjadi haram jika prosesnya tidak memenuhi ketentuan."
+          "answer": "Uang hasil korupsi",
+          "discussion": "Korupsi merupakan cara memperoleh harta yang dilarang."
         },
         {
           "id": "PAI-B04-Q022",
           "type": "PG",
-          "text": "Siapa yang dapat melakukan ijtihad dan memberikan fatwa?",
+          "text": "Mengapa hukum halal dan haram tidak boleh ditentukan hanya berdasarkan selera?",
           "options": [
-            "Setiap orang tanpa ilmu",
-            "Ulama atau mujtahid yang memenuhi syarat",
-            "Penjual produk",
-            "Semua pembeli"
+            "Karena semua orang memiliki selera sama",
+            "Karena penetapannya harus merujuk pada syariat",
+            "Karena selera selalu benar",
+            "Karena hukum berubah menurut iklan"
           ],
-          "answer": "Ulama atau mujtahid yang memenuhi syarat",
-          "discussion": "Ijtihad dilakukan oleh ulama yang memenuhi syarat sebagai mujtahid."
+          "answer": "Karena penetapannya harus merujuk pada syariat",
+          "discussion": "Hukum halal-haram ditetapkan berdasarkan ajaran Islam, bukan kesukaan pribadi."
         },
         {
           "id": "PAI-B04-Q023",
           "type": "PG",
-          "text": "Orang yang memenuhi syarat keilmuan untuk menggali hukum disebut ...",
+          "text": "Apa tindakan yang tepat jika teman mengajak berjudi?",
           "options": [
-            "Setiap orang tanpa ilmu",
-            "Penjual produk",
-            "Ulama atau mujtahid yang memenuhi syarat",
-            "Semua pembeli"
+            "Ikut agar tidak kehilangan teman",
+            "Mencoba sekali saja",
+            "Menolak dengan baik dan menjelaskan bahwa judi dilarang",
+            "Mengajak teman lain ikut"
           ],
-          "answer": "Ulama atau mujtahid yang memenuhi syarat",
-          "discussion": "Ijtihad dilakukan oleh ulama yang memenuhi syarat sebagai mujtahid."
+          "answer": "Menolak dengan baik dan menjelaskan bahwa judi dilarang",
+          "discussion": "Judi termasuk perbuatan yang dilarang dalam Islam."
         },
         {
           "id": "PAI-B04-Q024",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Hukum Halal dan Haram adalah: Siapa yang dapat melakukan ijtihad dan memberikan fatwa?",
+          "text": "Mengapa umat Islam perlu memahami hukum halal dan haram?",
           "options": [
-            "Setiap orang tanpa ilmu",
-            "Penjual produk",
-            "Semua pembeli",
-            "Ulama atau mujtahid yang memenuhi syarat"
+            "Agar dapat menghakimi semua orang",
+            "Agar bebas mengubah aturan",
+            "Agar tidak perlu belajar agama lain",
+            "Agar dapat memilih perbuatan yang benar dan menjauhi larangan"
           ],
-          "answer": "Ulama atau mujtahid yang memenuhi syarat",
-          "discussion": "Ijtihad dilakukan oleh ulama yang memenuhi syarat sebagai mujtahid."
+          "answer": "Agar dapat memilih perbuatan yang benar dan menjauhi larangan",
+          "discussion": "Pemahaman hukum membantu seseorang menjalani kehidupan sesuai syariat."
         },
         {
           "id": "PAI-B04-Q025",
           "type": "PG",
-          "text": "Perhatikan bagan pemeriksaan produk. Apa yang harus dilakukan ketika status halal produk masih diragukan?",
+          "text": "Produk makanan memiliki label halal yang resmi. Apa manfaat informasi tersebut?",
           "options": [
-            "Memeriksa bahan, proses, dan label halal resmi",
-            "Memilih hanya berdasarkan warna kemasan",
-            "Mengikuti rumor tanpa memeriksa",
-            "Menganggap semua produk pasti halal"
+            "Membantu konsumen mengetahui status halal produk",
+            "Menjamin makanan pasti paling enak",
+            "Menjamin makanan tidak akan basi",
+            "Menentukan harga jual produk"
           ],
-          "answer": "Memeriksa bahan, proses, dan label halal resmi",
-          "discussion": "Periksa bahan, proses pembuatan, dan label halal resmi. Jika masih ragu, tanyakan kepada sumber yang tepercaya.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/halal-check.svg",
-            "alt": "Bagan memeriksa informasi halal dan mencari sumber tepercaya"
-          }
+          "answer": "Membantu konsumen mengetahui status halal produk",
+          "discussion": "Label halal memberi informasi terkait status halal produk."
         },
         {
           "id": "PAI-B04-Q026",
           "type": "PG",
-          "text": "Ketika membeli makanan kemasan, tindakan yang tepat adalah ...",
+          "text": "Mengapa bahan yang halal tetap perlu diperhatikan cara memperolehnya?",
           "options": [
-            "Mengikuti rumor tanpa memeriksa",
-            "Memeriksa bahan, proses, dan label halal resmi",
-            "Memilih hanya berdasarkan warna kemasan",
-            "Menganggap semua produk pasti halal"
+            "Karena bahan halal selalu berbahaya",
+            "Karena hasil curian atau korupsi tetap diperoleh melalui cara terlarang",
+            "Karena cara memperoleh tidak ada hubungannya",
+            "Karena semua barang harus gratis"
           ],
-          "answer": "Memeriksa bahan, proses, dan label halal resmi",
-          "discussion": "Pemeriksaan halal meliputi bahan, alat, tempat, dan proses; perhatikan label halal resmi."
+          "answer": "Karena hasil curian atau korupsi tetap diperoleh melalui cara terlarang",
+          "discussion": "Proses atau cara memperoleh barang termasuk pertimbangan hukum."
         },
         {
           "id": "PAI-B04-Q027",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Hukum Halal dan Haram adalah: Bagaimana cara memeriksa kehalalan produk?",
+          "text": "Apa contoh tindakan tidak melampaui batas sebagaimana pesan Q.S. al-Mā’idah/5:87?",
           "options": [
-            "Mengikuti rumor tanpa memeriksa",
-            "Memilih hanya berdasarkan warna kemasan",
-            "Memeriksa bahan, proses, dan label halal resmi",
-            "Menganggap semua produk pasti halal"
+            "Mengharamkan semua makanan yang enak",
+            "Memaksa diri meninggalkan semua hal baik",
+            "Menikmati makanan halal secukupnya dan tidak mengharamkannya tanpa dasar",
+            "Membuat larangan agama sendiri"
           ],
-          "answer": "Memeriksa bahan, proses, dan label halal resmi",
-          "discussion": "Pemeriksaan halal meliputi bahan, alat, tempat, dan proses; perhatikan label halal resmi."
+          "answer": "Menikmati makanan halal secukupnya dan tidak mengharamkannya tanpa dasar",
+          "discussion": "Ayat mengingatkan agar tidak melarang yang baik tanpa dasar dan tidak melampaui batas."
         },
         {
           "id": "PAI-B04-Q028",
           "type": "PG",
-          "text": "Mengapa membuang makanan yang masih layak harus dihindari?",
+          "text": "Seorang pedagang mengetahui barang dagangannya rusak. Apa sikap yang benar?",
           "options": [
-            "Hemat dan terpuji",
-            "Wajib dilakukan",
-            "Tidak memiliki akibat",
-            "Mubazir dan merugikan"
+            "Menutup kerusakan agar cepat laku",
+            "Mengubah label barang",
+            "Menyalahkan pembeli setelah transaksi",
+            "Memberi tahu pembeli dengan jujur"
           ],
-          "answer": "Mubazir dan merugikan",
-          "discussion": "Buku mengingatkan agar tidak membuang makanan karena termasuk pemborosan."
+          "answer": "Memberi tahu pembeli dengan jujur",
+          "discussion": "Kejujuran dalam jual beli merupakan perilaku yang baik."
         },
         {
           "id": "PAI-B04-Q029",
           "type": "PG",
-          "text": "Membuang makanan secara berlebihan termasuk perilaku ...",
+          "text": "Jika seseorang melakukan kesalahan dalam transaksi, apa langkah yang tepat?",
           "options": [
-            "Mubazir dan merugikan",
-            "Hemat dan terpuji",
-            "Wajib dilakukan",
-            "Tidak memiliki akibat"
+            "Mengakui kesalahan dan mengembalikan hak pihak yang dirugikan",
+            "Menyembunyikan bukti transaksi",
+            "Menghindari pembeli selamanya",
+            "Menyebarkan kabar buruk tentang pembeli"
           ],
-          "answer": "Mubazir dan merugikan",
-          "discussion": "Buku mengingatkan agar tidak membuang makanan karena termasuk pemborosan."
+          "answer": "Mengakui kesalahan dan mengembalikan hak pihak yang dirugikan",
+          "discussion": "Hak orang lain perlu dipulihkan dan kesalahan harus diperbaiki."
         },
         {
           "id": "PAI-B04-Q030",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Hukum Halal dan Haram adalah: Mengapa membuang makanan yang masih layak harus dihindari?",
+          "text": "Apa inti penerapan hukum halal dan haram dalam kehidupan sehari-hari?",
           "options": [
-            "Hemat dan terpuji",
-            "Mubazir dan merugikan",
-            "Wajib dilakukan",
-            "Tidak memiliki akibat"
+            "Mengikuti semua tren tanpa pertimbangan",
+            "Memilih yang dibolehkan syariat dan menjauhi yang dilarang",
+            "Menentukan hukum menurut keinginan sendiri",
+            "Mengutamakan keuntungan dengan segala cara"
           ],
-          "answer": "Mubazir dan merugikan",
-          "discussion": "Buku mengingatkan agar tidak membuang makanan karena termasuk pemborosan."
+          "answer": "Memilih yang dibolehkan syariat dan menjauhi yang dilarang",
+          "discussion": "Penerapan hukum halal-haram menuntun pilihan konsumsi dan perilaku."
         }
       ]
     }
