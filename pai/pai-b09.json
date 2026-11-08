@@ -71,7 +71,11 @@
             "Setiap hari Jumat"
           ],
           "answer": "Enam hari pada bulan Syawal setelah Idulfitri",
-          "discussion": "Puasa Syawal dilakukan enam hari setelah Idulfitri pada bulan Syawal."
+          "discussion": "Puasa Syawal dilakukan enam hari setelah Idulfitri pada bulan Syawal.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q09-fasting.svg",
+            "alt": "Ilustrasi kalender puasa sunah"
+          }
         },
         {
           "id": "PAI-B09-Q006",
@@ -323,15 +327,19 @@
         {
           "id": "PAI-B09-Q025",
           "type": "PG",
-          "text": "Apa perbedaan utama tata cara puasa sunah dengan puasa Ramadan menurut buku?",
+          "text": "Kapan niat puasa sunah masih dapat dilakukan pada siang hari menurut penjelasan buku?",
           "options": [
-            "Perbedaannya terletak pada niat, sedangkan tata caranya pada dasarnya sama",
-            "Puasa sunah tidak perlu menahan lapar",
-            "Puasa Ramadan tidak perlu niat",
-            "Puasa sunah dilakukan hanya malam hari"
+            "Jika sejak terbit fajar belum melakukan hal yang membatalkan puasa",
+            "Setelah makan dan minum pada pagi hari",
+            "Setelah matahari terbenam",
+            "Hanya setelah berbuka puasa"
           ],
-          "answer": "Perbedaannya terletak pada niat, sedangkan tata caranya pada dasarnya sama",
-          "discussion": "Buku menyebut tata cara umumnya sama dan perbedaan utama pada niat."
+          "answer": "Jika sejak terbit fajar belum melakukan hal yang membatalkan puasa",
+          "discussion": "Buku menjelaskan bahwa niat puasa sunah boleh dilakukan pada siang hari jika sejak terbit fajar belum melakukan hal yang membatalkan puasa. Rincian waktu niat perlu dipelajari bersama guru.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q09-fasting.svg",
+            "alt": "Ilustrasi jadwal dan niat puasa sunah"
+          }
         },
         {
           "id": "PAI-B09-Q026",
