@@ -1,0 +1,694 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "ENG-B06",
+      "chapter_title": "Our School Project",
+      "questions": [
+        {
+          "id": "ENG-B06-001",
+          "type": "PG",
+          "text": "What is the English expression for \"toples\"?",
+          "options": [
+            "jar",
+            "watering can",
+            "shovel",
+            "flower pot"
+          ],
+          "answer": "jar",
+          "discussion": "A jar is the container used in the bean-sprout project.",
+          "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/bean-sprouts.svg",
+          "audio": {
+            "type": "speech",
+            "text": "What is the English expression for \"toples\"? jar"
+          }
+        },
+        {
+          "id": "ENG-B06-002",
+          "type": "PG",
+          "text": "Complete the sentence: First, prepare a clean ___ for the mung beans.",
+          "options": [
+            "jar",
+            "watering can",
+            "flower pot",
+            "shovel"
+          ],
+          "answer": "jar",
+          "discussion": "A jar is the container used in the bean-sprout project.",
+          "audio": {
+            "type": "speech",
+            "text": "Complete the sentence: First, prepare a clean ___ for the mung beans. jar"
+          }
+        },
+        {
+          "id": "ENG-B06-003",
+          "type": "PG",
+          "text": "Which sentence correctly describes \"jar\"?",
+          "options": [
+            "First, prepare a clean jar for the mung beans.",
+            "They use mung beans to grow bean sprouts.",
+            "Soak the mung beans in water overnight.",
+            "Rinse the beans with clean water."
+          ],
+          "answer": "First, prepare a clean jar for the mung beans.",
+          "discussion": "A jar is the container used in the bean-sprout project.",
+          "audio": {
+            "type": "speech",
+            "text": "Which sentence correctly describes \"jar\"? First, prepare a clean jar for the mung beans."
+          }
+        },
+        {
+          "id": "ENG-B06-004",
+          "type": "PG",
+          "text": "Which word matches this clue: toples?",
+          "options": [
+            "jar",
+            "mung beans",
+            "cheesecloth",
+            "plant"
+          ],
+          "answer": "jar",
+          "discussion": "A jar is the container used in the bean-sprout project.",
+          "audio": {
+            "type": "speech",
+            "text": "Which word matches this clue: toples? jar"
+          }
+        },
+        {
+          "id": "ENG-B06-005",
+          "type": "PG",
+          "text": "Choose the correct statement about jar.",
+          "options": [
+            "First, prepare a clean jar for the mung beans.",
+            "Cover the jar with cheesecloth and tie it with a rubber band.",
+            "Tip the jar to drain the water.",
+            "Rinse the beans with clean water."
+          ],
+          "answer": "First, prepare a clean jar for the mung beans.",
+          "discussion": "A jar is the container used in the bean-sprout project.",
+          "audio": {
+            "type": "speech",
+            "text": "Choose the correct statement about jar. First, prepare a clean jar for the mung beans."
+          }
+        },
+        {
+          "id": "ENG-B06-006",
+          "type": "PG",
+          "text": "What is the English expression for \"kacang hijau\"?",
+          "options": [
+            "mung beans",
+            "corn seeds",
+            "carrot seeds",
+            "flower seeds"
+          ],
+          "answer": "mung beans",
+          "discussion": "Mung beans are the seeds used to grow the sprouts in the school project.",
+          "audio": {
+            "type": "speech",
+            "text": "What is the English expression for \"kacang hijau\"? mung beans"
+          }
+        },
+        {
+          "id": "ENG-B06-007",
+          "type": "PG",
+          "text": "Complete the sentence: Pipit and Bara use ___ to grow bean sprouts.",
+          "options": [
+            "mung beans",
+            "carrot seeds",
+            "corn seeds",
+            "flower seeds"
+          ],
+          "answer": "mung beans",
+          "discussion": "Mung beans are the seeds used to grow the sprouts in the school project."
+        },
+        {
+          "id": "ENG-B06-008",
+          "type": "PG",
+          "text": "Which sentence correctly describes \"mung beans\"?",
+          "options": [
+            "They use mung beans to grow bean sprouts.",
+            "Soak the mung beans in water overnight.",
+            "Rinse the beans with clean water.",
+            "Cover the jar with cheesecloth and tie it with a rubber band."
+          ],
+          "answer": "They use mung beans to grow bean sprouts.",
+          "discussion": "Mung beans are the seeds used to grow the sprouts in the school project."
+        },
+        {
+          "id": "ENG-B06-009",
+          "type": "PG",
+          "text": "Which word matches this clue: kacang hijau?",
+          "options": [
+            "mung beans",
+            "drain",
+            "water",
+            "soak"
+          ],
+          "answer": "mung beans",
+          "discussion": "Mung beans are the seeds used to grow the sprouts in the school project."
+        },
+        {
+          "id": "ENG-B06-010",
+          "type": "PG",
+          "text": "Choose the correct statement about mung beans.",
+          "options": [
+            "They use mung beans to grow bean sprouts.",
+            "Tip the jar to drain the water.",
+            "Cover the jar with cheesecloth and tie it with a rubber band.",
+            "First, I dug the soil."
+          ],
+          "answer": "They use mung beans to grow bean sprouts.",
+          "discussion": "Mung beans are the seeds used to grow the sprouts in the school project.",
+          "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/bean-sprouts.svg"
+        },
+        {
+          "id": "ENG-B06-011",
+          "type": "PG",
+          "text": "What is the English expression for \"merendam\"?",
+          "options": [
+            "soak",
+            "harvest",
+            "dig",
+            "plant"
+          ],
+          "answer": "soak",
+          "discussion": "Soak means merendam. The mung beans are soaked overnight before the next steps."
+        },
+        {
+          "id": "ENG-B06-012",
+          "type": "PG",
+          "text": "Complete the sentence: Place the beans in water and ___ them overnight.",
+          "options": [
+            "soak",
+            "harvest",
+            "dig",
+            "plant"
+          ],
+          "answer": "soak",
+          "discussion": "Soak means merendam. The mung beans are soaked overnight before the next steps."
+        },
+        {
+          "id": "ENG-B06-013",
+          "type": "PG",
+          "text": "Which sentence correctly describes \"soak\"?",
+          "options": [
+            "Soak the mung beans in water overnight.",
+            "Cover the jar with cheesecloth and tie it with a rubber band.",
+            "Tip the jar to drain the water.",
+            "Rinse the beans with clean water."
+          ],
+          "answer": "Soak the mung beans in water overnight.",
+          "discussion": "Soak means merendam. The mung beans are soaked overnight before the next steps."
+        },
+        {
+          "id": "ENG-B06-014",
+          "type": "PG",
+          "text": "Which word matches this clue: merendam?",
+          "options": [
+            "rinse",
+            "soak",
+            "dig",
+            "harvest"
+          ],
+          "answer": "soak",
+          "discussion": "Soak means merendam. The mung beans are soaked overnight before the next steps."
+        },
+        {
+          "id": "ENG-B06-015",
+          "type": "PG",
+          "text": "Choose the correct statement about soak.",
+          "options": [
+            "Tip the jar to drain the water.",
+            "Soak the mung beans in water overnight.",
+            "First, I dug the soil.",
+            "Then, he planted the carrot seeds in rows."
+          ],
+          "answer": "Soak the mung beans in water overnight.",
+          "discussion": "Soak means merendam. The mung beans are soaked overnight before the next steps."
+        },
+        {
+          "id": "ENG-B06-016",
+          "type": "PG",
+          "text": "What is the English expression for \"membilas\"?",
+          "options": [
+            "harvest",
+            "rinse",
+            "dig",
+            "swing"
+          ],
+          "answer": "rinse",
+          "discussion": "Rinse means membilas. The beans are rinsed with clean water."
+        },
+        {
+          "id": "ENG-B06-017",
+          "type": "PG",
+          "text": "Complete the sentence: On Day 2, ___ the beans with clean water.",
+          "options": [
+            "harvest",
+            "rinse",
+            "swing",
+            "dig"
+          ],
+          "answer": "rinse",
+          "discussion": "Rinse means membilas. The beans are rinsed with clean water."
+        },
+        {
+          "id": "ENG-B06-018",
+          "type": "PG",
+          "text": "Which sentence correctly describes \"rinse\"?",
+          "options": [
+            "First, prepare a clean jar for the mung beans.",
+            "Rinse the beans with clean water.",
+            "They use mung beans to grow bean sprouts.",
+            "Soak the mung beans in water overnight."
+          ],
+          "answer": "Rinse the beans with clean water.",
+          "discussion": "Rinse means membilas. The beans are rinsed with clean water."
+        },
+        {
+          "id": "ENG-B06-019",
+          "type": "PG",
+          "text": "Which word matches this clue: membilas?",
+          "options": [
+            "cheesecloth",
+            "rinse",
+            "plant",
+            "jar"
+          ],
+          "answer": "rinse",
+          "discussion": "Rinse means membilas. The beans are rinsed with clean water.",
+          "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/bean-sprouts.svg"
+        },
+        {
+          "id": "ENG-B06-020",
+          "type": "PG",
+          "text": "Choose the correct statement about rinse.",
+          "options": [
+            "First, prepare a clean jar for the mung beans.",
+            "Rinse the beans with clean water.",
+            "They use mung beans to grow bean sprouts.",
+            "Soak the mung beans in water overnight."
+          ],
+          "answer": "Rinse the beans with clean water.",
+          "discussion": "Rinse means membilas. The beans are rinsed with clean water."
+        },
+        {
+          "id": "ENG-B06-021",
+          "type": "PG",
+          "text": "What is the English expression for \"kain kasa\"?",
+          "options": [
+            "paper",
+            "cheesecloth",
+            "blanket",
+            "plastic bag"
+          ],
+          "answer": "cheesecloth",
+          "discussion": "Cheesecloth covers the jar opening. A rubber band keeps the cloth in place."
+        },
+        {
+          "id": "ENG-B06-022",
+          "type": "PG",
+          "text": "Complete the sentence: Cover the jar with ___ and tie it with a rubber band.",
+          "options": [
+            "paper",
+            "cheesecloth",
+            "plastic bag",
+            "blanket"
+          ],
+          "answer": "cheesecloth",
+          "discussion": "Cheesecloth covers the jar opening. A rubber band keeps the cloth in place."
+        },
+        {
+          "id": "ENG-B06-023",
+          "type": "PG",
+          "text": "Which sentence correctly describes \"cheesecloth\"?",
+          "options": [
+            "They use mung beans to grow bean sprouts.",
+            "Cover the jar with cheesecloth and tie it with a rubber band.",
+            "Soak the mung beans in water overnight.",
+            "Rinse the beans with clean water."
+          ],
+          "answer": "Cover the jar with cheesecloth and tie it with a rubber band.",
+          "discussion": "Cheesecloth covers the jar opening. A rubber band keeps the cloth in place."
+        },
+        {
+          "id": "ENG-B06-024",
+          "type": "PG",
+          "text": "Which word matches this clue: kain kasa?",
+          "options": [
+            "drain",
+            "cheesecloth",
+            "water",
+            "mung beans"
+          ],
+          "answer": "cheesecloth",
+          "discussion": "Cheesecloth covers the jar opening. A rubber band keeps the cloth in place."
+        },
+        {
+          "id": "ENG-B06-025",
+          "type": "PG",
+          "text": "Choose the correct statement about cheesecloth.",
+          "options": [
+            "They use mung beans to grow bean sprouts.",
+            "Cover the jar with cheesecloth and tie it with a rubber band.",
+            "Rinse the beans with clean water.",
+            "Soak the mung beans in water overnight."
+          ],
+          "answer": "Cover the jar with cheesecloth and tie it with a rubber band.",
+          "discussion": "Cheesecloth covers the jar opening. A rubber band keeps the cloth in place."
+        },
+        {
+          "id": "ENG-B06-026",
+          "type": "PG",
+          "text": "What is the English expression for \"mengalirkan/membuang air\"?",
+          "options": [
+            "plant",
+            "drain",
+            "harvest",
+            "dig"
+          ],
+          "answer": "drain",
+          "discussion": "Drain means mengeluarkan air. The jar is tipped so extra water can flow out."
+        },
+        {
+          "id": "ENG-B06-027",
+          "type": "PG",
+          "text": "Complete the sentence: Tip the jar to ___ the extra water.",
+          "options": [
+            "plant",
+            "harvest",
+            "drain",
+            "dig"
+          ],
+          "answer": "drain",
+          "discussion": "Drain means mengeluarkan air. The jar is tipped so extra water can flow out."
+        },
+        {
+          "id": "ENG-B06-028",
+          "type": "PG",
+          "text": "Which sentence correctly describes \"drain\"?",
+          "options": [
+            "Rinse the beans with clean water.",
+            "Soak the mung beans in water overnight.",
+            "Tip the jar to drain the water.",
+            "Cover the jar with cheesecloth and tie it with a rubber band."
+          ],
+          "answer": "Tip the jar to drain the water.",
+          "discussion": "Drain means mengeluarkan air. The jar is tipped so extra water can flow out.",
+          "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/bean-sprouts.svg"
+        },
+        {
+          "id": "ENG-B06-029",
+          "type": "PG",
+          "text": "Which word matches this clue: mengalirkan/membuang air?",
+          "options": [
+            "dig",
+            "harvest",
+            "drain",
+            "soak"
+          ],
+          "answer": "drain",
+          "discussion": "Drain means mengeluarkan air. The jar is tipped so extra water can flow out."
+        },
+        {
+          "id": "ENG-B06-030",
+          "type": "PG",
+          "text": "Choose the correct statement about drain.",
+          "options": [
+            "Soak the mung beans in water overnight.",
+            "Rinse the beans with clean water.",
+            "Tip the jar to drain the water.",
+            "Cover the jar with cheesecloth and tie it with a rubber band."
+          ],
+          "answer": "Tip the jar to drain the water.",
+          "discussion": "Drain means mengeluarkan air. The jar is tipped so extra water can flow out."
+        },
+        {
+          "id": "ENG-B06-031",
+          "type": "PG",
+          "text": "What is the English expression for \"menggali\"?",
+          "options": [
+            "water",
+            "harvest",
+            "dig",
+            "rinse"
+          ],
+          "answer": "dig",
+          "discussion": "Dig means menggali. The old man dug the soil to prepare the planting bed."
+        },
+        {
+          "id": "ENG-B06-032",
+          "type": "PG",
+          "text": "Complete the sentence: Before planting carrot seeds, ___ the soil.",
+          "options": [
+            "harvest",
+            "water",
+            "dig",
+            "rinse"
+          ],
+          "answer": "dig",
+          "discussion": "Dig means menggali. The old man dug the soil to prepare the planting bed."
+        },
+        {
+          "id": "ENG-B06-033",
+          "type": "PG",
+          "text": "Which sentence correctly describes \"dig\"?",
+          "options": [
+            "First, prepare a clean jar for the mung beans.",
+            "They use mung beans to grow bean sprouts.",
+            "First, I dug the soil.",
+            "Soak the mung beans in water overnight."
+          ],
+          "answer": "First, I dug the soil.",
+          "discussion": "Dig means menggali. The old man dug the soil to prepare the planting bed."
+        },
+        {
+          "id": "ENG-B06-034",
+          "type": "PG",
+          "text": "Which word matches this clue: menggali?",
+          "options": [
+            "plant",
+            "jar",
+            "dig",
+            "rinse"
+          ],
+          "answer": "dig",
+          "discussion": "Dig means menggali. The old man dug the soil to prepare the planting bed."
+        },
+        {
+          "id": "ENG-B06-035",
+          "type": "PG",
+          "text": "Choose the correct statement about dig.",
+          "options": [
+            "Rinse the beans with clean water.",
+            "Cover the jar with cheesecloth and tie it with a rubber band.",
+            "First, I dug the soil.",
+            "Tip the jar to drain the water."
+          ],
+          "answer": "First, I dug the soil.",
+          "discussion": "Dig means menggali. The old man dug the soil to prepare the planting bed."
+        },
+        {
+          "id": "ENG-B06-036",
+          "type": "PG",
+          "text": "What is the English expression for \"menanam\"?",
+          "options": [
+            "swing",
+            "harvest",
+            "plant",
+            "throw"
+          ],
+          "answer": "plant",
+          "discussion": "Plant means menanam. The seeds are placed in the prepared soil."
+        },
+        {
+          "id": "ENG-B06-037",
+          "type": "PG",
+          "text": "Complete the sentence: After preparing the soil, ___ the carrot seeds.",
+          "options": [
+            "harvest",
+            "swing",
+            "plant",
+            "throw"
+          ],
+          "answer": "plant",
+          "discussion": "Plant means menanam. The seeds are placed in the prepared soil.",
+          "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/bean-sprouts.svg"
+        },
+        {
+          "id": "ENG-B06-038",
+          "type": "PG",
+          "text": "Which sentence correctly describes \"plant\"?",
+          "options": [
+            "They use mung beans to grow bean sprouts.",
+            "Soak the mung beans in water overnight.",
+            "Then, he planted the carrot seeds in rows.",
+            "Rinse the beans with clean water."
+          ],
+          "answer": "Then, he planted the carrot seeds in rows.",
+          "discussion": "Plant means menanam. The seeds are placed in the prepared soil."
+        },
+        {
+          "id": "ENG-B06-039",
+          "type": "PG",
+          "text": "Which word matches this clue: menanam?",
+          "options": [
+            "water",
+            "cheesecloth",
+            "mung beans",
+            "plant"
+          ],
+          "answer": "plant",
+          "discussion": "Plant means menanam. The seeds are placed in the prepared soil."
+        },
+        {
+          "id": "ENG-B06-040",
+          "type": "PG",
+          "text": "Choose the correct statement about plant.",
+          "options": [
+            "First, I dug the soil.",
+            "Cover the jar with cheesecloth and tie it with a rubber band.",
+            "Tip the jar to drain the water.",
+            "Then, he planted the carrot seeds in rows."
+          ],
+          "answer": "Then, he planted the carrot seeds in rows.",
+          "discussion": "Plant means menanam. The seeds are placed in the prepared soil."
+        },
+        {
+          "id": "ENG-B06-041",
+          "type": "PG",
+          "text": "What is the English expression for \"menyirami\"?",
+          "options": [
+            "dig",
+            "harvest",
+            "soak",
+            "water"
+          ],
+          "answer": "water",
+          "discussion": "Water can be a verb meaning menyirami. Plants need water as they grow."
+        },
+        {
+          "id": "ENG-B06-042",
+          "type": "PG",
+          "text": "Complete the sentence: The gardener uses a watering can to ___ the plants.",
+          "options": [
+            "dig",
+            "harvest",
+            "soak",
+            "water"
+          ],
+          "answer": "water",
+          "discussion": "Water can be a verb meaning menyirami. Plants need water as they grow."
+        },
+        {
+          "id": "ENG-B06-043",
+          "type": "PG",
+          "text": "Which sentence correctly describes \"water\"?",
+          "options": [
+            "Soak the mung beans in water overnight.",
+            "Cover the jar with cheesecloth and tie it with a rubber band.",
+            "Rinse the beans with clean water.",
+            "The gardener waters the plants."
+          ],
+          "answer": "The gardener waters the plants.",
+          "discussion": "Water can be a verb meaning menyirami. Plants need water as they grow."
+        },
+        {
+          "id": "ENG-B06-044",
+          "type": "PG",
+          "text": "Which word matches this clue: menyirami?",
+          "options": [
+            "drain",
+            "harvest",
+            "soak",
+            "water"
+          ],
+          "answer": "water",
+          "discussion": "Water can be a verb meaning menyirami. Plants need water as they grow."
+        },
+        {
+          "id": "ENG-B06-045",
+          "type": "PG",
+          "text": "Choose the correct statement about water.",
+          "options": [
+            "First, prepare a clean jar for the mung beans.",
+            "They use mung beans to grow bean sprouts.",
+            "Soak the mung beans in water overnight.",
+            "The gardener waters the plants."
+          ],
+          "answer": "The gardener waters the plants.",
+          "discussion": "Water can be a verb meaning menyirami. Plants need water as they grow."
+        },
+        {
+          "id": "ENG-B06-046",
+          "type": "PG",
+          "text": "What is the English expression for \"memanen\"?",
+          "options": [
+            "dig",
+            "rinse",
+            "plant",
+            "harvest"
+          ],
+          "answer": "harvest",
+          "discussion": "Harvest means memanen. It is done when the vegetables are ready.",
+          "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/bean-sprouts.svg"
+        },
+        {
+          "id": "ENG-B06-047",
+          "type": "PG",
+          "text": "Complete the sentence: When the vegetables are ready, we ___ them.",
+          "options": [
+            "dig",
+            "plant",
+            "rinse",
+            "harvest"
+          ],
+          "answer": "harvest",
+          "discussion": "Harvest means memanen. It is done when the vegetables are ready."
+        },
+        {
+          "id": "ENG-B06-048",
+          "type": "PG",
+          "text": "Which sentence correctly describes \"harvest\"?",
+          "options": [
+            "Soak the mung beans in water overnight.",
+            "First, prepare a clean jar for the mung beans.",
+            "They use mung beans to grow bean sprouts.",
+            "Finally, we harvest the vegetables."
+          ],
+          "answer": "Finally, we harvest the vegetables.",
+          "discussion": "Harvest means memanen. It is done when the vegetables are ready."
+        },
+        {
+          "id": "ENG-B06-049",
+          "type": "PG",
+          "text": "Which word matches this clue: memanen?",
+          "options": [
+            "jar",
+            "rinse",
+            "dig",
+            "harvest"
+          ],
+          "answer": "harvest",
+          "discussion": "Harvest means memanen. It is done when the vegetables are ready."
+        },
+        {
+          "id": "ENG-B06-050",
+          "type": "PG",
+          "text": "Choose the correct statement about harvest.",
+          "options": [
+            "They use mung beans to grow bean sprouts.",
+            "Soak the mung beans in water overnight.",
+            "Rinse the beans with clean water.",
+            "Finally, we harvest the vegetables."
+          ],
+          "answer": "Finally, we harvest the vegetables.",
+          "discussion": "Harvest means memanen. It is done when the vegetables are ready."
+        }
+      ]
+    }
+  ]
+}
