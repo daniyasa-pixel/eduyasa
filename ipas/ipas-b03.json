@@ -13,8 +13,8 @@
           "type": "PG",
           "text": "Mengapa bangsa Portugis, Spanyol, Belanda, dan Jepang tertarik menguasai Indonesia?",
           "options": [
-            "Indonesia memiliki banyak gedung bertingkat.",
             "Letak Indonesia strategis dan memiliki kekayaan alam melimpah.",
+            "Indonesia memiliki banyak gedung bertingkat.",
             "Indonesia memiliki wilayah yang sangat kecil.",
             "Penduduk Indonesia berasal dari satu suku bangsa."
           ],
@@ -53,9 +53,9 @@
           "text": "Siapakah tokoh yang menulis buku Max Havelaar untuk menggambarkan penderitaan rakyat akibat tanam paksa?",
           "options": [
             "Pieter Brooshooft",
-            "Eduard Douwes Dekker",
             "Conrad Theodore Van Deventer",
-            "Ki Hadjar Dewantara"
+            "Ki Hadjar Dewantara",
+            "Eduard Douwes Dekker"
           ],
           "answer": "Eduard Douwes Dekker",
           "discussion": "Eduard Douwes Dekker dikenal juga dengan nama Multatuli. Buku Max Havelaar mengkritik praktik tanam paksa."
@@ -65,8 +65,8 @@
           "type": "PG",
           "text": "Apa nama lain dari kebijakan Politik Etis?",
           "options": [
-            "Politik Dagang",
             "Politik Balas Budi",
+            "Politik Dagang",
             "Politik Perang",
             "Politik Kemerdekaan"
           ],
@@ -78,8 +78,8 @@
           "type": "PG",
           "text": "Siapakah pahlawan yang memimpin perjuangan rakyat Maluku melawan Belanda pada tahun 1817?",
           "options": [
-            "Pattimura",
             "Pangeran Antasari",
+            "Pattimura",
             "Silas Papare",
             "Sam Ratulangi"
           ],
@@ -92,8 +92,8 @@
           "text": "Siapakah tokoh yang dikenal sebagai Bapak Pendidikan Indonesia?",
           "options": [
             "Mohammad Hatta",
-            "Ki Hadjar Dewantara",
             "Abdoel Moeis",
+            "Ki Hadjar Dewantara",
             "I Gusti Ngurah Rai"
           ],
           "answer": "Ki Hadjar Dewantara",
@@ -104,10 +104,10 @@
           "type": "PG",
           "text": "Siapakah tokoh yang dikenal sebagai Bapak Koperasi Indonesia?",
           "options": [
-            "Mohammad Hatta",
             "Pattimura",
             "Sam Ratulangi",
-            "Silas Papare"
+            "Silas Papare",
+            "Mohammad Hatta"
           ],
           "answer": "Mohammad Hatta",
           "discussion": "Mohammad Hatta aktif memberikan gagasan dan pemikiran untuk memajukan koperasi Indonesia."
@@ -117,9 +117,9 @@
           "type": "PG",
           "text": "Kapan bangsa Indonesia memperingati Hari Pahlawan?",
           "options": [
+            "10 November",
             "17 Agustus",
             "1 Juni",
-            "10 November",
             "28 Oktober"
           ],
           "answer": "10 November",
@@ -131,8 +131,8 @@
           "text": "Apa makna semboyan Tut Wuri Handayani?",
           "options": [
             "Guru harus selalu menghukum murid.",
-            "Pemimpin harus bekerja sendiri.",
             "Guru atau pemimpin memberikan dukungan dan motivasi kepada murid.",
+            "Pemimpin harus bekerja sendiri.",
             "Murid harus mengikuti semua keputusan tanpa bertanya."
           ],
           "answer": "Guru atau pemimpin memberikan dukungan dan motivasi kepada murid.",
@@ -144,8 +144,8 @@
           "text": "Apa yang dilakukan rakyat yang tidak memiliki lahan ketika sistem tanam paksa diterapkan?",
           "options": [
             "Mendapatkan tanah secara cuma-cuma.",
-            "Bekerja di perkebunan milik Belanda.",
             "Dibebaskan dari semua pekerjaan.",
+            "Bekerja di perkebunan milik Belanda.",
             "Diperbolehkan meninggalkan wilayah Indonesia."
           ],
           "answer": "Bekerja di perkebunan milik Belanda.",
@@ -157,9 +157,9 @@
           "text": "Mengapa muncul kritik terhadap sistem tanam paksa?",
           "options": [
             "Sistem tersebut membuat rakyat terlalu banyak memiliki tanah.",
-            "Sistem tersebut banyak merugikan rakyat Hindia Belanda.",
             "Sistem tersebut membuat semua rakyat menjadi pedagang.",
-            "Sistem tersebut menghapus seluruh kegiatan pertanian."
+            "Sistem tersebut menghapus seluruh kegiatan pertanian.",
+            "Sistem tersebut banyak merugikan rakyat Hindia Belanda."
           ],
           "answer": "Sistem tersebut banyak merugikan rakyat Hindia Belanda.",
           "discussion": "Pelaksanaan tanam paksa membebani rakyat sehingga muncul kritik terhadap kebijakan tersebut."
@@ -196,8 +196,8 @@
           "text": "Apa tujuan kebijakan irigasi dalam Politik Etis?",
           "options": [
             "Membangun benteng pertahanan.",
-            "Memperbaiki fasilitas pengairan untuk pertanian.",
             "Memindahkan penduduk ke pulau lain.",
+            "Memperbaiki fasilitas pengairan untuk pertanian.",
             "Membatasi kegiatan perdagangan."
           ],
           "answer": "Memperbaiki fasilitas pengairan untuk pertanian.",
@@ -209,9 +209,9 @@
           "text": "Apa tujuan kebijakan edukasi dalam Politik Etis?",
           "options": [
             "Membatasi rakyat untuk memperoleh pengetahuan.",
-            "Membuka kesempatan pendidikan bagi rakyat pribumi.",
             "Mengajarkan rakyat menjadi tentara Belanda.",
-            "Memindahkan sekolah ke luar Indonesia."
+            "Memindahkan sekolah ke luar Indonesia.",
+            "Membuka kesempatan pendidikan bagi rakyat pribumi."
           ],
           "answer": "Membuka kesempatan pendidikan bagi rakyat pribumi.",
           "discussion": "Edukasi membuka akses pendidikan bagi rakyat pribumi dan turut mendorong tumbuhnya kesadaran kebangsaan."
@@ -247,9 +247,9 @@
           "type": "PG",
           "text": "Abdoel Moeis dikenal memperjuangkan kemerdekaan Indonesia melalui bidang apa?",
           "options": [
-            "Karya tulisan dan jurnalistik",
             "Pertanian",
             "Kesehatan",
+            "Karya tulisan dan jurnalistik",
             "Olahraga"
           ],
           "answer": "Karya tulisan dan jurnalistik",
@@ -261,9 +261,9 @@
           "text": "Apa jasa Ki Hadjar Dewantara dalam bidang pendidikan?",
           "options": [
             "Mendirikan organisasi kesehatan.",
-            "Mendirikan sekolah Taman Siswa.",
             "Memimpin Perang Banjar.",
-            "Mencetuskan Deklarasi Djuanda."
+            "Mencetuskan Deklarasi Djuanda.",
+            "Mendirikan sekolah Taman Siswa."
           ],
           "answer": "Mendirikan sekolah Taman Siswa.",
           "discussion": "Ki Hadjar Dewantara mendirikan Taman Siswa untuk memperjuangkan hak pendidikan rakyat Indonesia."
@@ -273,8 +273,8 @@
           "type": "PG",
           "text": "Apa peran Sam Ratulangi dalam perjuangan Indonesia?",
           "options": [
-            "Memimpin pasukan Ciung Wanara di Bali.",
             "Aktif memperjuangkan kemerdekaan melalui pendidikan dan politik.",
+            "Memimpin pasukan Ciung Wanara di Bali.",
             "Mendirikan Badan Perjuangan Irian.",
             "Memimpin perlawanan rakyat Maluku pada tahun 1817."
           ],
@@ -286,8 +286,8 @@
           "type": "PG",
           "text": "Siapakah pemimpin Perang Banjar yang mempersatukan berbagai kelompok untuk melawan Belanda?",
           "options": [
-            "Pangeran Antasari",
             "I Gusti Ngurah Rai",
+            "Pangeran Antasari",
             "Pattimura",
             "Silas Papare"
           ],
@@ -300,8 +300,8 @@
           "text": "Apa nama peristiwa perjuangan yang dipimpin I Gusti Ngurah Rai di Bali?",
           "options": [
             "Perang Diponegoro",
-            "Puputan Margarana",
             "Perang Padri",
+            "Puputan Margarana",
             "Perang Banjar"
           ],
           "answer": "Puputan Margarana",
@@ -313,9 +313,9 @@
           "text": "Organisasi apa yang didirikan oleh Muhammad Zainuddin Abdul Madjid?",
           "options": [
             "Taman Siswa",
-            "Nahdlatul Wathan",
             "Badan Perjuangan Irian",
-            "Indische Vereeniging"
+            "Indische Vereeniging",
+            "Nahdlatul Wathan"
           ],
           "answer": "Nahdlatul Wathan",
           "discussion": "Muhammad Zainuddin Abdul Madjid merupakan pendiri Nahdlatul Wathan di Nusa Tenggara Barat."
@@ -351,9 +351,9 @@
           "type": "PG",
           "text": "Apa perjuangan utama Silas Papare?",
           "options": [
-            "Memperjuangkan penyatuan Irian dengan Indonesia.",
             "Memimpin Perang Banjar.",
             "Mendirikan sekolah Taman Siswa.",
+            "Memperjuangkan penyatuan Irian dengan Indonesia.",
             "Memperjuangkan batas wilayah laut Indonesia."
           ],
           "answer": "Memperjuangkan penyatuan Irian dengan Indonesia.",
@@ -365,9 +365,9 @@
           "text": "Apa perjuangan H. R. Rasuna Said dalam bidang pendidikan?",
           "options": [
             "Mendirikan sekolah kedokteran.",
-            "Mendorong kesetaraan pendidikan bagi perempuan.",
             "Mendirikan puskesmas.",
-            "Mendirikan koperasi."
+            "Mendirikan koperasi.",
+            "Mendorong kesetaraan pendidikan bagi perempuan."
           ],
           "answer": "Mendorong kesetaraan pendidikan bagi perempuan.",
           "discussion": "Rasuna Said memperjuangkan pendidikan dan kemajuan perempuan melalui kegiatan pendidikan serta pergerakan."
@@ -377,8 +377,8 @@
           "type": "PG",
           "text": "Apa yang dimaksud dengan gelar Pahlawan Nasional?",
           "options": [
-            "Gelar bagi semua orang yang pernah bekerja di pemerintahan.",
             "Penghargaan pemerintah atas tindakan kepahlawanan atau jasa luar biasa bagi bangsa dan negara.",
+            "Gelar bagi semua orang yang pernah bekerja di pemerintahan.",
             "Gelar bagi orang yang memiliki kekayaan besar.",
             "Penghargaan bagi orang yang pernah tinggal di luar negeri."
           ],
@@ -403,9 +403,9 @@
           "type": "PG",
           "text": "Apa yang diperjuangkan Ir. H. Juanda melalui Deklarasi Djuanda?",
           "options": [
-            "Batas dan kesatuan wilayah laut Indonesia.",
             "Kesetaraan pendidikan perempuan.",
             "Pendirian organisasi pendidikan.",
+            "Batas dan kesatuan wilayah laut Indonesia.",
             "Pembentukan koperasi Indonesia."
           ],
           "answer": "Batas dan kesatuan wilayah laut Indonesia.",
@@ -417,9 +417,9 @@
           "text": "Apa pengaruh gagasan Ki Hadjar Dewantara terhadap pendidikan Indonesia hingga sekarang?",
           "options": [
             "Murid tidak perlu mendapatkan bimbingan.",
-            "Pendidikan memberikan kesempatan kepada setiap individu untuk mengembangkan diri.",
             "Pendidikan hanya diberikan kepada kelompok tertentu.",
-            "Guru harus selalu menentukan semua pilihan murid."
+            "Guru harus selalu menentukan semua pilihan murid.",
+            "Pendidikan memberikan kesempatan kepada setiap individu untuk mengembangkan diri."
           ],
           "answer": "Pendidikan memberikan kesempatan kepada setiap individu untuk mengembangkan diri.",
           "discussion": "Gagasan Ki Hadjar Dewantara menekankan pendidikan yang membantu peserta didik berkembang sesuai potensi."
@@ -442,8 +442,8 @@
           "type": "PG",
           "text": "Mengapa perjuangan para pahlawan tidak selalu harus dilakukan dengan mengangkat senjata?",
           "options": [
-            "Karena perjuangan dapat dilakukan melalui pendidikan, diplomasi, seni, dan budaya.",
             "Karena perjuangan hanya dilakukan oleh para pelajar.",
+            "Karena perjuangan dapat dilakukan melalui pendidikan, diplomasi, seni, dan budaya.",
             "Karena perjuangan tidak memerlukan pengorbanan.",
             "Karena perjuangan hanya dapat dilakukan melalui perdagangan."
           ],
@@ -456,8 +456,8 @@
           "text": "Apa salah satu cara mengenang jasa pahlawan yang dapat ditemukan di lingkungan sekitar?",
           "options": [
             "Menghapus nama tokoh dari bangunan bersejarah.",
-            "Menggunakan nama pahlawan untuk nama jalan atau bangunan penting.",
             "Mengabaikan peninggalan sejarah.",
+            "Menggunakan nama pahlawan untuk nama jalan atau bangunan penting.",
             "Menghentikan kegiatan peringatan Hari Pahlawan."
           ],
           "answer": "Menggunakan nama pahlawan untuk nama jalan atau bangunan penting.",
@@ -470,8 +470,8 @@
           "options": [
             "Rakyat memiliki kebebasan penuh dalam menentukan pekerjaan.",
             "Sistem tanam paksa memberikan keuntungan yang sama bagi seluruh rakyat.",
-            "Sistem tanam paksa membebani rakyat dan membatasi kebebasan mereka.",
-            "Rakyat mendapatkan kesempatan yang sama untuk mengelola perkebunan."
+            "Rakyat mendapatkan kesempatan yang sama untuk mengelola perkebunan.",
+            "Sistem tanam paksa membebani rakyat dan membatasi kebebasan mereka."
           ],
           "answer": "Sistem tanam paksa membebani rakyat dan membatasi kebebasan mereka.",
           "discussion": "Kewajiban menyediakan tanah dan tenaga untuk tanaman ekspor menunjukkan tekanan terhadap kehidupan ekonomi rakyat."
@@ -481,8 +481,8 @@
           "type": "PG",
           "text": "Perhatikan tiga kebijakan berikut: (1) membangun fasilitas pengairan, (2) membuka sekolah bagi rakyat pribumi, dan (3) memindahkan sebagian penduduk ke daerah lain. Urutan nama kebijakan Politik Etis yang benar adalah ...",
           "options": [
-            "Edukasi, emigrasi, irigasi.",
             "Irigasi, edukasi, emigrasi.",
+            "Edukasi, emigrasi, irigasi.",
             "Emigrasi, irigasi, edukasi.",
             "Irigasi, emigrasi, edukasi."
           ],
@@ -508,8 +508,8 @@
           "text": "Seorang siswa menemukan laporan kritik terhadap tanam paksa yang ditulis seorang wartawan Belanda setelah mengamati kondisi masyarakat di Hindia Belanda. Tokoh yang dikenal menyampaikan kritik melalui laporan jurnalistik adalah ...",
           "options": [
             "Eduard Douwes Dekker.",
-            "Pieter Brooshooft.",
             "Ki Hadjar Dewantara.",
+            "Pieter Brooshooft.",
             "Conrad Theodore Van Deventer."
           ],
           "answer": "Pieter Brooshooft.",
@@ -521,9 +521,9 @@
           "text": "Seorang siswa membuat daftar pahlawan dengan mencatat nama, asal daerah, peristiwa perjuangan, dan jasa tokoh tersebut. Apa manfaat kegiatan itu?",
           "options": [
             "Agar siswa hanya menghafal nama pahlawan.",
-            "Agar siswa memahami peran tokoh dalam peristiwa sejarah daerah.",
             "Agar siswa dapat membandingkan kekayaan para pahlawan.",
-            "Agar siswa mengetahui jumlah penduduk setiap daerah."
+            "Agar siswa mengetahui jumlah penduduk setiap daerah.",
+            "Agar siswa memahami peran tokoh dalam peristiwa sejarah daerah."
           ],
           "answer": "Agar siswa memahami peran tokoh dalam peristiwa sejarah daerah.",
           "discussion": "Mempelajari identitas dan perjalanan perjuangan tokoh membantu memahami kontribusi pahlawan bagi daerah dan bangsa."
@@ -533,9 +533,9 @@
           "type": "PG",
           "text": "Pangeran Antasari berhasil mempersatukan berbagai kelompok untuk melawan Belanda dalam Perang Banjar. Nilai kepahlawanan yang paling terlihat adalah ...",
           "options": [
+            "Persatuan dan semangat perjuangan.",
             "Mengutamakan kepentingan pribadi.",
             "Menghindari kerja sama.",
-            "Persatuan dan semangat perjuangan.",
             "Mengutamakan perbedaan antarkelompok."
           ],
           "answer": "Persatuan dan semangat perjuangan.",
@@ -560,8 +560,8 @@
           "text": "Sebelum Deklarasi Djuanda, laut Indonesia dihitung sejauh 3 mil dari garis pantai masing-masing pulau. Mengapa Deklarasi Djuanda penting?",
           "options": [
             "Karena menghapus seluruh batas wilayah darat.",
-            "Karena menegaskan laut antarpulau sebagai bagian dari wilayah kedaulatan Indonesia.",
             "Karena memindahkan seluruh pelabuhan ke luar negeri.",
+            "Karena menegaskan laut antarpulau sebagai bagian dari wilayah kedaulatan Indonesia.",
             "Karena membatasi kegiatan nelayan Indonesia."
           ],
           "answer": "Karena menegaskan laut antarpulau sebagai bagian dari wilayah kedaulatan Indonesia.",
@@ -573,9 +573,9 @@
           "text": "Seorang guru memberikan semangat kepada murid untuk berani mencoba dan mengembangkan kemampuan sendiri. Perilaku itu sesuai dengan makna semboyan ...",
           "options": [
             "Bhinneka Tunggal Ika.",
-            "Tut Wuri Handayani.",
             "Merdeka atau Mati.",
-            "Satu Nusa Satu Bangsa."
+            "Satu Nusa Satu Bangsa.",
+            "Tut Wuri Handayani."
           ],
           "answer": "Tut Wuri Handayani.",
           "discussion": "Tut Wuri Handayani mengajarkan pendidik memberikan dorongan dan motivasi agar peserta didik berkembang."
@@ -585,8 +585,8 @@
           "type": "PG",
           "text": "Perjuangan Johannes Leimena dalam bidang kesehatan masih dapat dirasakan masyarakat melalui pengembangan pelayanan kesehatan masyarakat. Hal tersebut menunjukkan bahwa ...",
           "options": [
-            "Warisan pahlawan hanya berupa bangunan bersejarah.",
             "Perjuangan pahlawan dapat memberikan manfaat nyata bagi kehidupan masyarakat masa kini.",
+            "Warisan pahlawan hanya berupa bangunan bersejarah.",
             "Perjuangan pahlawan tidak memiliki hubungan dengan perkembangan daerah.",
             "Semua fasilitas kesehatan merupakan peninggalan masa penjajahan."
           ],
@@ -598,8 +598,8 @@
           "type": "PG",
           "text": "Mohammad Hatta memperjuangkan kemerdekaan melalui tulisan dan gagasan politik serta mendorong perkembangan koperasi. Nilai yang dapat diteladani adalah ...",
           "options": [
-            "Gemar membaca, berpikir kritis, dan peduli terhadap kesejahteraan rakyat.",
             "Menghindari kegiatan belajar dan membaca.",
+            "Gemar membaca, berpikir kritis, dan peduli terhadap kesejahteraan rakyat.",
             "Mengutamakan kekayaan pribadi.",
             "Tidak peduli terhadap kehidupan masyarakat."
           ],
@@ -612,8 +612,8 @@
           "text": "Sebuah sekolah mengadakan pameran foto dan cerita perjuangan pahlawan daerah. Apa tujuan utama kegiatan tersebut?",
           "options": [
             "Menghibur siswa tanpa memberikan pengetahuan.",
-            "Mengenalkan sejarah perjuangan dan menanamkan nilai keteladanan pahlawan.",
             "Menggantikan seluruh pelajaran di sekolah.",
+            "Mengenalkan sejarah perjuangan dan menanamkan nilai keteladanan pahlawan.",
             "Membuat siswa hanya menghafalkan tanggal lahir tokoh."
           ],
           "answer": "Mengenalkan sejarah perjuangan dan menanamkan nilai keteladanan pahlawan.",
@@ -626,8 +626,8 @@
           "options": [
             "Memilih teman hanya dari suku yang sama.",
             "Menghindari kerja kelompok dengan teman berbeda daerah.",
-            "Menghormati perbedaan dan menjaga persatuan.",
-            "Menganggap budaya sendiri paling unggul."
+            "Menganggap budaya sendiri paling unggul.",
+            "Menghormati perbedaan dan menjaga persatuan."
           ],
           "answer": "Menghormati perbedaan dan menjaga persatuan.",
           "discussion": "Para pahlawan mengesampingkan perbedaan untuk tujuan bersama. Sikap tersebut perlu diterapkan agar persatuan terjaga."
