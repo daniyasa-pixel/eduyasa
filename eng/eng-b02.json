@@ -1,0 +1,705 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "ENG-B02",
+      "chapter_title": "Our Hygiene Habits",
+      "questions": [
+        {
+          "id": "ENG-B02-001",
+          "type": "PG",
+          "text": "What does 'hygiene' mean?",
+          "options": [
+            "Kebersihan",
+            "Perjalanan",
+            "Permainan",
+            "Makanan"
+          ],
+          "answer": "Kebersihan",
+          "discussion": "Hygiene means kebersihan or the practice of keeping ourselves clean."
+        },
+        {
+          "id": "ENG-B02-002",
+          "type": "PG",
+          "text": "What is the English word for 'sabun'?",
+          "options": [
+            "Water",
+            "Soap",
+            "Tissue",
+            "Towel"
+          ],
+          "answer": "Soap",
+          "discussion": "Soap is used with water to wash our hands and body."
+        },
+        {
+          "id": "ENG-B02-003",
+          "type": "PG",
+          "text": "What does 'germs' mean?",
+          "options": [
+            "Rambut",
+            "Kuku",
+            "Kuman",
+            "Gigi"
+          ],
+          "answer": "Kuman",
+          "discussion": "Germs are tiny organisms that can cause illness."
+        },
+        {
+          "id": "ENG-B02-004",
+          "type": "PG",
+          "text": "Which item do you use to wash your hands?",
+          "options": [
+            "Shampoo and paper",
+            "A comb and towel",
+            "A pencil and book",
+            "Soap and water"
+          ],
+          "answer": "Soap and water",
+          "discussion": "Soap and clean water are used to wash hands."
+        },
+        {
+          "id": "ENG-B02-005",
+          "type": "PG",
+          "text": "Look at the poster. What should you do after scrubbing your hands?",
+          "options": [
+            "Rinse your hands with clean water",
+            "Dry your hands first",
+            "Use dirty water",
+            "Stop washing"
+          ],
+          "answer": "Rinse your hands with clean water",
+          "discussion": "After scrubbing, rinse your hands with clean water.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-handwashing.svg",
+            "alt": "Educational illustration"
+          }
+        },
+        {
+          "id": "ENG-B02-006",
+          "type": "PG",
+          "text": "Look at the poster. What is the first step?",
+          "options": [
+            "Dry your hands",
+            "Wet your hands",
+            "Rinse your hands",
+            "Put on a mask"
+          ],
+          "answer": "Wet your hands",
+          "discussion": "The first step shown is to wet your hands with clean water.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-handwashing.svg",
+            "alt": "Educational illustration"
+          }
+        },
+        {
+          "id": "ENG-B02-007",
+          "type": "PG",
+          "text": "Look at the poster. How long should you scrub your hands?",
+          "options": [
+            "One second",
+            "Two minutes",
+            "About 20 seconds",
+            "All day"
+          ],
+          "answer": "About 20 seconds",
+          "discussion": "The handwashing poster recommends scrubbing for about 20 seconds.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-handwashing.svg",
+            "alt": "Educational illustration"
+          }
+        },
+        {
+          "id": "ENG-B02-008",
+          "type": "PG",
+          "text": "Look at the poster. What is the last step?",
+          "options": [
+            "Use soap",
+            "Wet your hands",
+            "Scrub your hands",
+            "Dry your hands"
+          ],
+          "answer": "Dry your hands",
+          "discussion": "Drying your hands is the fifth and last step in the poster.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-handwashing.svg",
+            "alt": "Educational illustration"
+          }
+        },
+        {
+          "id": "ENG-B02-009",
+          "type": "PG",
+          "text": "Which sentence means 'Cucilah tanganmu'?",
+          "options": [
+            "Wash your hands.",
+            "Brush your teeth.",
+            "Comb your hair.",
+            "Clip your nails."
+          ],
+          "answer": "Wash your hands.",
+          "discussion": "Wash your hands is an instruction to clean your hands."
+        },
+        {
+          "id": "ENG-B02-010",
+          "type": "PG",
+          "text": "Which word means 'membilas'?",
+          "options": [
+            "Scrub",
+            "Rinse",
+            "Dry",
+            "Cough"
+          ],
+          "answer": "Rinse",
+          "discussion": "Rinse means membilas with clean water."
+        },
+        {
+          "id": "ENG-B02-011",
+          "type": "PG",
+          "text": "What does 'brush your teeth' mean?",
+          "options": [
+            "Menyisir rambut",
+            "Memotong kuku",
+            "Menggosok gigi",
+            "Mencuci tangan"
+          ],
+          "answer": "Menggosok gigi",
+          "discussion": "Brush your teeth means menggosok gigi."
+        },
+        {
+          "id": "ENG-B02-012",
+          "type": "PG",
+          "text": "What does 'comb your hair' mean?",
+          "options": [
+            "Mengeringkan tangan",
+            "Mandi",
+            "Memakai masker",
+            "Menyisir rambut"
+          ],
+          "answer": "Menyisir rambut",
+          "discussion": "Comb your hair means menyisir rambut."
+        },
+        {
+          "id": "ENG-B02-013",
+          "type": "PG",
+          "text": "What does 'clip your nails' mean?",
+          "options": [
+            "Memotong kuku",
+            "Menggosok gigi",
+            "Mencuci pakaian",
+            "Membilas tangan"
+          ],
+          "answer": "Memotong kuku",
+          "discussion": "Clip your nails means memotong kuku."
+        },
+        {
+          "id": "ENG-B02-014",
+          "type": "PG",
+          "text": "Look at the picture. Which habit is shown on the left?",
+          "options": [
+            "Comb hair",
+            "Brush teeth",
+            "Clip nails",
+            "Take a shower"
+          ],
+          "answer": "Brush teeth",
+          "discussion": "The first illustration shows a toothbrush and toothpaste for brushing teeth.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-habits.svg",
+            "alt": "Educational illustration"
+          }
+        },
+        {
+          "id": "ENG-B02-015",
+          "type": "PG",
+          "text": "Look at the picture. Which habit uses a comb?",
+          "options": [
+            "Brush teeth",
+            "Clip nails",
+            "Comb hair",
+            "Wash clothes"
+          ],
+          "answer": "Comb hair",
+          "discussion": "The comb is used to tidy or comb hair.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-habits.svg",
+            "alt": "Educational illustration"
+          }
+        },
+        {
+          "id": "ENG-B02-016",
+          "type": "PG",
+          "text": "Look at the picture. Which habit is shown with a shower?",
+          "options": [
+            "Brush teeth",
+            "Wear shoes",
+            "Clip nails",
+            "Take a shower"
+          ],
+          "answer": "Take a shower",
+          "discussion": "The shower picture represents taking a shower.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-habits.svg",
+            "alt": "Educational illustration"
+          }
+        },
+        {
+          "id": "ENG-B02-017",
+          "type": "PG",
+          "text": "Which action should you do before eating?",
+          "options": [
+            "Wash your hands",
+            "Touch your dirty shoes",
+            "Share a dirty towel",
+            "Play with mud"
+          ],
+          "answer": "Wash your hands",
+          "discussion": "Washing hands before eating helps remove dirt and germs."
+        },
+        {
+          "id": "ENG-B02-018",
+          "type": "PG",
+          "text": "Your friend is coughing. What should your friend do?",
+          "options": [
+            "Cough on a friend",
+            "Cough into an elbow",
+            "Cough into food",
+            "Cough into the air near others"
+          ],
+          "answer": "Cough into an elbow",
+          "discussion": "Coughing into the inner elbow helps reduce the spread of droplets."
+        },
+        {
+          "id": "ENG-B02-019",
+          "type": "PG",
+          "text": "You have a runny nose. What should you use?",
+          "options": [
+            "A dirty shirt",
+            "A book",
+            "A tissue",
+            "A shoe"
+          ],
+          "answer": "A tissue",
+          "discussion": "Use a tissue to blow your nose, then dispose of it properly."
+        },
+        {
+          "id": "ENG-B02-020",
+          "type": "PG",
+          "text": "You are sick and must go to a crowded place. What should you do?",
+          "options": [
+            "Share a drinking glass",
+            "Cough on people",
+            "Avoid washing hands",
+            "Wear a mask"
+          ],
+          "answer": "Wear a mask",
+          "discussion": "Wearing a mask can help reduce the spread of respiratory droplets."
+        },
+        {
+          "id": "ENG-B02-021",
+          "type": "PG",
+          "text": "Choose the correct advice: 'Kamu sebaiknya mencuci tangan.'",
+          "options": [
+            "You should wash your hands.",
+            "You should washes your hands.",
+            "You should washing your hands.",
+            "You should washed your hands."
+          ],
+          "answer": "You should wash your hands.",
+          "discussion": "After should, use the base verb wash."
+        },
+        {
+          "id": "ENG-B02-022",
+          "type": "PG",
+          "text": "Complete: 'You should ___ your teeth.'",
+          "options": [
+            "brushes",
+            "brush",
+            "brushing",
+            "brushed"
+          ],
+          "answer": "brush",
+          "discussion": "The correct pattern is should + base verb: should brush."
+        },
+        {
+          "id": "ENG-B02-023",
+          "type": "PG",
+          "text": "Complete: 'You should ___ your hair.'",
+          "options": [
+            "combs",
+            "combed",
+            "comb",
+            "combing"
+          ],
+          "answer": "comb",
+          "discussion": "After should, use comb, not combs or combing."
+        },
+        {
+          "id": "ENG-B02-024",
+          "type": "PG",
+          "text": "Which sentence gives good advice?",
+          "options": [
+            "You should uses dirty water.",
+            "You should using dirty water.",
+            "You should used dirty water.",
+            "You should use clean water."
+          ],
+          "answer": "You should use clean water.",
+          "discussion": "You should use is the correct advice structure."
+        },
+        {
+          "id": "ENG-B02-025",
+          "type": "PG",
+          "text": "Which sentence means 'Kamu sebaiknya tidak batuk ke temanmu'?",
+          "options": [
+            "You shouldn't cough on your friends.",
+            "You should cough on your friends.",
+            "You shouldn't coughs on friends.",
+            "You not should cough friends."
+          ],
+          "answer": "You shouldn't cough on your friends.",
+          "discussion": "Shouldn't gives negative advice and is followed by the base verb cough."
+        },
+        {
+          "id": "ENG-B02-026",
+          "type": "PG",
+          "text": "Complete: 'You ___ wash your hands before eating.'",
+          "options": [
+            "shouldn't",
+            "should",
+            "does",
+            "are"
+          ],
+          "answer": "should",
+          "discussion": "Should is used to give advice about a good habit."
+        },
+        {
+          "id": "ENG-B02-027",
+          "type": "PG",
+          "text": "Which sentence is correct?",
+          "options": [
+            "You shouldn't shares a dirty towel.",
+            "You shouldn't sharing a dirty towel.",
+            "You shouldn't share a dirty towel.",
+            "You not should share a dirty towel."
+          ],
+          "answer": "You shouldn't share a dirty towel.",
+          "discussion": "Shouldn't is followed by the base verb share."
+        },
+        {
+          "id": "ENG-B02-028",
+          "type": "PG",
+          "text": "What does 'should' express in these lessons?",
+          "options": [
+            "Past time",
+            "A color",
+            "A question about age",
+            "Advice"
+          ],
+          "answer": "Advice",
+          "discussion": "Should is used to give advice or say what is a good idea to do."
+        },
+        {
+          "id": "ENG-B02-029",
+          "type": "PG",
+          "text": "Which word means 'selalu'?",
+          "options": [
+            "Always",
+            "Never",
+            "Sometimes",
+            "Usually"
+          ],
+          "answer": "Always",
+          "discussion": "Always means selalu."
+        },
+        {
+          "id": "ENG-B02-030",
+          "type": "PG",
+          "text": "Which word means 'kadang-kadang'?",
+          "options": [
+            "Always",
+            "Sometimes",
+            "Never",
+            "Finally"
+          ],
+          "answer": "Sometimes",
+          "discussion": "Sometimes means kadang-kadang."
+        },
+        {
+          "id": "ENG-B02-031",
+          "type": "PG",
+          "text": "Which word means 'tidak pernah'?",
+          "options": [
+            "Usually",
+            "Always",
+            "Never",
+            "Sometimes"
+          ],
+          "answer": "Never",
+          "discussion": "Never means tidak pernah."
+        },
+        {
+          "id": "ENG-B02-032",
+          "type": "PG",
+          "text": "What does 'twice a day' mean?",
+          "options": [
+            "Sekali seminggu",
+            "Tiga kali sehari",
+            "Dua kali sebulan",
+            "Dua kali sehari"
+          ],
+          "answer": "Dua kali sehari",
+          "discussion": "Twice a day means two times each day."
+        },
+        {
+          "id": "ENG-B02-033",
+          "type": "PG",
+          "text": "Which question asks about frequency?",
+          "options": [
+            "How often do you brush your teeth?",
+            "What color is your toothbrush?",
+            "Where is your towel?",
+            "Who is your teacher?"
+          ],
+          "answer": "How often do you brush your teeth?",
+          "discussion": "How often asks how frequently an activity happens."
+        },
+        {
+          "id": "ENG-B02-034",
+          "type": "PG",
+          "text": "Choose the correct answer: 'How often do you brush your teeth?'",
+          "options": [
+            "I am twelve years old.",
+            "I usually brush my teeth twice a day.",
+            "My toothbrush is blue.",
+            "I brush with my friend yesterday."
+          ],
+          "answer": "I usually brush my teeth twice a day.",
+          "discussion": "The question asks about frequency, so answer with usually and twice a day."
+        },
+        {
+          "id": "ENG-B02-035",
+          "type": "PG",
+          "text": "Complete: 'I ___ wash my hands before eating.' (selalu)",
+          "options": [
+            "never",
+            "sometimes",
+            "always",
+            "yesterday"
+          ],
+          "answer": "always",
+          "discussion": "Always means selalu and fits the meaning in the sentence."
+        },
+        {
+          "id": "ENG-B02-036",
+          "type": "PG",
+          "text": "Complete: 'I ___ take a shower every morning.' (biasanya)",
+          "options": [
+            "never",
+            "yesterday",
+            "last week",
+            "usually"
+          ],
+          "answer": "usually",
+          "discussion": "Usually means biasanya."
+        },
+        {
+          "id": "ENG-B02-037",
+          "type": "PG",
+          "text": "Which sentence is about a daily hygiene habit?",
+          "options": [
+            "I brush my teeth every day.",
+            "I saw a lion yesterday.",
+            "I play football last week.",
+            "I went to the zoo."
+          ],
+          "answer": "I brush my teeth every day.",
+          "discussion": "Brushing teeth every day is a personal hygiene habit."
+        },
+        {
+          "id": "ENG-B02-038",
+          "type": "PG",
+          "text": "What should you do after playing outside?",
+          "options": [
+            "Eat with dirty hands.",
+            "Wash your hands.",
+            "Touch your eyes with dirty hands.",
+            "Share a dirty towel."
+          ],
+          "answer": "Wash your hands.",
+          "discussion": "After playing, wash your hands to remove dirt and germs."
+        },
+        {
+          "id": "ENG-B02-039",
+          "type": "PG",
+          "text": "What should you do when you sneeze?",
+          "options": [
+            "Sneeze toward your friend.",
+            "Sneeze into food.",
+            "Cover your nose and use a tissue.",
+            "Touch other people's food."
+          ],
+          "answer": "Cover your nose and use a tissue.",
+          "discussion": "Covering a sneeze and using a tissue helps protect people nearby."
+        },
+        {
+          "id": "ENG-B02-040",
+          "type": "PG",
+          "text": "Which sequence word means 'pertama'?",
+          "options": [
+            "Finally",
+            "Next",
+            "After that",
+            "First"
+          ],
+          "answer": "First",
+          "discussion": "First means pertama and is used for the beginning of a procedure."
+        },
+        {
+          "id": "ENG-B02-041",
+          "type": "PG",
+          "text": "Which sequence word means 'akhirnya'?",
+          "options": [
+            "Finally",
+            "First",
+            "Next",
+            "Then"
+          ],
+          "answer": "Finally",
+          "discussion": "Finally means akhirnya and introduces the last step."
+        },
+        {
+          "id": "ENG-B02-042",
+          "type": "PG",
+          "text": "Choose the best order after wetting hands.",
+          "options": [
+            "Dry, rinse, use soap, and wet.",
+            "Use soap, scrub, rinse, and dry.",
+            "Eat, play, and sleep.",
+            "Rinse, dry, and then use soap."
+          ],
+          "answer": "Use soap, scrub, rinse, and dry.",
+          "discussion": "After wetting hands, use soap, scrub, rinse, and dry."
+        },
+        {
+          "id": "ENG-B02-043",
+          "type": "PG",
+          "text": "A: What should you do before going to school? B: ___",
+          "options": [
+            "I saw a crocodile.",
+            "I went to the zoo.",
+            "I should comb my hair.",
+            "I should combs my hair."
+          ],
+          "answer": "I should comb my hair.",
+          "discussion": "The question asks for advice about a routine; I should comb my hair is correct."
+        },
+        {
+          "id": "ENG-B02-044",
+          "type": "PG",
+          "text": "A: How often do you wash your hands? B: ___",
+          "options": [
+            "I am washing hands yesterday.",
+            "I saw my hands.",
+            "My hands are blue.",
+            "I always wash my hands before eating."
+          ],
+          "answer": "I always wash my hands before eating.",
+          "discussion": "The answer describes frequency using always."
+        },
+        {
+          "id": "ENG-B02-045",
+          "type": "PG",
+          "text": "Which instruction is correct?",
+          "options": [
+            "Dry your hands.",
+            "Dries your hands.",
+            "Drying your hands!",
+            "Dried your hands."
+          ],
+          "answer": "Dry your hands.",
+          "discussion": "Dry your hands is an imperative instruction."
+        },
+        {
+          "id": "ENG-B02-046",
+          "type": "PG",
+          "text": "What is the purpose of washing hands with soap?",
+          "options": [
+            "To make hands dirty",
+            "To remove dirt and germs",
+            "To change hand color",
+            "To make nails longer"
+          ],
+          "answer": "To remove dirt and germs",
+          "discussion": "Soap and water help remove dirt and germs from hands."
+        },
+        {
+          "id": "ENG-B02-047",
+          "type": "PG",
+          "text": "Which is a good personal hygiene habit?",
+          "options": [
+            "Wearing wet dirty clothes",
+            "Sharing a dirty towel",
+            "Wearing clean clothes",
+            "Never washing your body"
+          ],
+          "answer": "Wearing clean clothes",
+          "discussion": "Wearing clean clothes is part of personal hygiene."
+        },
+        {
+          "id": "ENG-B02-048",
+          "type": "PG",
+          "text": "Your hands are dirty, but lunch is ready. What should you do first?",
+          "options": [
+            "Start eating immediately.",
+            "Wipe them on a dirty shirt.",
+            "Touch everyone's food.",
+            "Wash your hands with soap and water."
+          ],
+          "answer": "Wash your hands with soap and water.",
+          "discussion": "Wash hands before eating, especially when they are dirty."
+        },
+        {
+          "id": "ENG-B02-049",
+          "type": "PG",
+          "text": "Which sentence uses 'should' correctly?",
+          "options": [
+            "We should wash our hands.",
+            "We should washes our hands.",
+            "We should washing our hands.",
+            "We should washed our hands."
+          ],
+          "answer": "We should wash our hands.",
+          "discussion": "We should + base verb is the correct sentence pattern."
+        },
+        {
+          "id": "ENG-B02-050",
+          "type": "PG",
+          "text": "Which sentence tells a habit that happens two times each day?",
+          "options": [
+            "I brush my teeth yesterday.",
+            "I brush my teeth twice a day.",
+            "I brush my teeth next year.",
+            "I never brush my teeth."
+          ],
+          "answer": "I brush my teeth twice a day.",
+          "discussion": "Twice a day means two times every day."
+        },
+        {
+          "id": "ENG-B02-051",
+          "type": "PG",
+          "text": "A friend asks you to repeat an instruction. What can you say?",
+          "options": [
+            "What color is it?",
+            "How old are you?",
+            "Can you repeat, please?",
+            "Where is the zoo?"
+          ],
+          "answer": "Can you repeat, please?",
+          "discussion": "Can you repeat, please? politely asks someone to say it again."
+        }
+      ]
+    }
+  ]
+}
