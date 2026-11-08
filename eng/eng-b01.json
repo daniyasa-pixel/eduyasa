@@ -113,15 +113,15 @@
         {
           "id": "ENG-B01-007",
           "type": "PG",
-          "text": "Look at the picture. Which vegetable is long and orange?",
+          "text": "Look at the picture. Which vegetable is shown with long green leaves?",
           "options": [
-            "A tomato",
-            "A broccoli",
-            "A carrot",
-            "A cauliflower"
+            "Carrot",
+            "Water spinach",
+            "Eggplant",
+            "Tomato"
           ],
-          "answer": "A carrot",
-          "discussion": "The carrot is orange and long.",
+          "answer": "Water spinach",
+          "discussion": "Water spinach, or kangkung, has long green stems and leaves in the illustration.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
             "alt": "A chart showing a carrot"
@@ -130,15 +130,15 @@
         {
           "id": "ENG-B01-008",
           "type": "PG",
-          "text": "Look at the picture. Which vegetable is purple?",
+          "text": "Look at the picture. Which vegetable has a purple body and green leaves?",
           "options": [
             "Spinach",
             "Broccoli",
-            "Carrot",
-            "Eggplant"
+            "Eggplant",
+            "Carrot"
           ],
           "answer": "Eggplant",
-          "discussion": "The eggplant is purple in the picture.",
+          "discussion": "The eggplant is easy to recognize from its purple body and small green leaves.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
             "alt": "A chart showing an eggplant"
@@ -164,15 +164,15 @@
         {
           "id": "ENG-B01-010",
           "type": "PG",
-          "text": "Look at the picture. Which two vegetables are green?",
+          "text": "Look at the picture. Which two green vegetables are shown at the bottom?",
           "options": [
             "Carrot and eggplant",
-            "Broccoli and spinach",
+            "Spinach and water spinach",
             "Tomato and carrot",
             "Eggplant and tomato"
           ],
-          "answer": "Broccoli and spinach",
-          "discussion": "The picture shows broccoli and spinach as green vegetables.",
+          "answer": "Spinach and water spinach",
+          "discussion": "At the bottom of the chart, the two leafy green vegetables are spinach and water spinach.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
             "alt": "A chart showing green broccoli and spinach"
@@ -215,7 +215,7 @@
             "Potato"
           ],
           "answer": "Eggplant",
-          "discussion": "Eggplant means terong."
+          "discussion": "Eggplant is the English name for terong. It is one of the vegetables in this chapter."
         },
         {
           "id": "ENG-B01-014",
@@ -228,7 +228,7 @@
             "Bean sprouts"
           ],
           "answer": "Broccoli",
-          "discussion": "Broccoli means brokoli."
+          "discussion": "Broccoli is the English name for brokoli. It is usually green and has a tree-like shape."
         },
         {
           "id": "ENG-B01-015",
@@ -254,7 +254,7 @@
             "Pare"
           ],
           "answer": "Pare",
-          "discussion": "Bitter melon is pare."
+          "discussion": "Bitter melon is the English name for pare. It has a bitter taste."
         },
         {
           "id": "ENG-B01-017",
@@ -319,7 +319,7 @@
             "Round"
           ],
           "answer": "Long",
-          "discussion": "Long means panjang."
+          "discussion": "The English word long describes something that has a greater length."
         },
         {
           "id": "ENG-B01-022",
@@ -332,7 +332,7 @@
             "Green"
           ],
           "answer": "Small",
-          "discussion": "Small means kecil."
+          "discussion": "The English word small describes something that is little in size."
         },
         {
           "id": "ENG-B01-023",
@@ -371,7 +371,7 @@
             "blue"
           ],
           "answer": "green",
-          "discussion": "Broccoli is green."
+          "discussion": "Broccoli is usually green. We can use the word green to describe its color."
         },
         {
           "id": "ENG-B01-026",
@@ -449,7 +449,7 @@
             "Saya memasak wortel."
           ],
           "answer": "Saya suka wortel.",
-          "discussion": "I like means saya suka."
+          "discussion": "The phrase I like means saya suka. It is used to tell someone about something we enjoy."
         },
         {
           "id": "ENG-B01-032",
