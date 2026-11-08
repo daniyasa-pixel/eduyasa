@@ -10,7 +10,7 @@
       "questions": [
         {
           "id": "PAI-B06-Q001",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa arti Al-A’la?",
           "options": [
             "Yang Mahatinggi",
@@ -23,7 +23,7 @@
         },
         {
           "id": "PAI-B06-Q002",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: apa arti Al-A’la?",
           "options": [
             "Tempat bergantung",
@@ -36,7 +36,7 @@
         },
         {
           "id": "PAI-B06-Q003",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Apa arti Al-A’la?” adalah ...",
           "options": [
             "Waktu pagi",
@@ -49,34 +49,21 @@
         },
         {
           "id": "PAI-B06-Q004",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Surah Al-A’la berada pada urutan ke berapa?",
           "options": [
             "Surah ke-86",
             "Surah ke-90",
-            "Surah ke-87",
-            "Surah ke-93"
-          ],
-          "answer": "Surah ke-87",
-          "discussion": "Surah Al-A’la adalah surah ke-87."
-        },
-        {
-          "id": "PAI-B06-Q005",
-          "type": "multiple_choice",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: surah Al-A’la berada pada urutan ke berapa?",
-          "options": [
             "Surah ke-93",
-            "Surah ke-86",
-            "Surah ke-90",
             "Surah ke-87"
           ],
           "answer": "Surah ke-87",
           "discussion": "Surah Al-A’la adalah surah ke-87."
         },
         {
-          "id": "PAI-B06-Q006",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Surah Al-A’la berada pada urutan ke berapa?” adalah ...",
+          "id": "PAI-B06-Q005",
+          "type": "PG",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: surah Al-A’la berada pada urutan ke berapa?",
           "options": [
             "Surah ke-87",
             "Surah ke-93",
@@ -87,13 +74,26 @@
           "discussion": "Surah Al-A’la adalah surah ke-87."
         },
         {
+          "id": "PAI-B06-Q006",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Surah Al-A’la berada pada urutan ke berapa?” adalah ...",
+          "options": [
+            "Surah ke-93",
+            "Surah ke-87",
+            "Surah ke-86",
+            "Surah ke-90"
+          ],
+          "answer": "Surah ke-87",
+          "discussion": "Surah Al-A’la adalah surah ke-87."
+        },
+        {
           "id": "PAI-B06-Q007",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Berapa jumlah ayat Surah Al-A’la?",
           "options": [
-            "19 ayat",
             "11 ayat",
             "17 ayat",
+            "19 ayat",
             "20 ayat"
           ],
           "answer": "19 ayat",
@@ -101,25 +101,25 @@
         },
         {
           "id": "PAI-B06-Q008",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: berapa jumlah ayat Surah Al-A’la?",
           "options": [
             "20 ayat",
-            "19 ayat",
             "11 ayat",
-            "17 ayat"
+            "17 ayat",
+            "19 ayat"
           ],
           "answer": "19 ayat",
           "discussion": "Surah Al-A’la terdiri atas 19 ayat."
         },
         {
           "id": "PAI-B06-Q009",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Berapa jumlah ayat Surah Al-A’la?” adalah ...",
           "options": [
+            "19 ayat",
             "17 ayat",
             "20 ayat",
-            "19 ayat",
             "11 ayat"
           ],
           "answer": "19 ayat",
@@ -127,12 +127,12 @@
         },
         {
           "id": "PAI-B06-Q010",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa arti makhārijul huruf?",
           "options": [
             "Tanda berhenti",
-            "Arti nama surah",
             "Tempat keluarnya huruf",
+            "Arti nama surah",
             "Panjang pendek bacaan"
           ],
           "answer": "Tempat keluarnya huruf",
@@ -140,8 +140,21 @@
         },
         {
           "id": "PAI-B06-Q011",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: apa arti makhārijul huruf?",
+          "options": [
+            "Panjang pendek bacaan",
+            "Tanda berhenti",
+            "Tempat keluarnya huruf",
+            "Arti nama surah"
+          ],
+          "answer": "Tempat keluarnya huruf",
+          "discussion": "Makhārijul huruf adalah tempat keluarnya bunyi huruf hijaiyah."
+        },
+        {
+          "id": "PAI-B06-Q012",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Apa arti makhārijul huruf?” adalah ...",
           "options": [
             "Panjang pendek bacaan",
             "Tanda berhenti",
@@ -152,21 +165,8 @@
           "discussion": "Makhārijul huruf adalah tempat keluarnya bunyi huruf hijaiyah."
         },
         {
-          "id": "PAI-B06-Q012",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Apa arti makhārijul huruf?” adalah ...",
-          "options": [
-            "Tempat keluarnya huruf",
-            "Panjang pendek bacaan",
-            "Tanda berhenti",
-            "Arti nama surah"
-          ],
-          "answer": "Tempat keluarnya huruf",
-          "discussion": "Makhārijul huruf adalah tempat keluarnya bunyi huruf hijaiyah."
-        },
-        {
           "id": "PAI-B06-Q013",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Mengapa makhraj harus diperhatikan?",
           "options": [
             "Karena kesalahan pelafalan dapat mengubah bunyi dan makna",
@@ -179,7 +179,7 @@
         },
         {
           "id": "PAI-B06-Q014",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: mengapa makhraj harus diperhatikan?",
           "options": [
             "Supaya tidak perlu tajwid",
@@ -192,7 +192,7 @@
         },
         {
           "id": "PAI-B06-Q015",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Mengapa makhraj harus diperhatikan?” adalah ...",
           "options": [
             "Agar semua huruf dibaca sama",
@@ -205,34 +205,21 @@
         },
         {
           "id": "PAI-B06-Q016",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa pesan awal Surah Al-A’la?",
           "options": [
             "Melupakan ibadah",
             "Mengejar pujian manusia",
-            "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi",
-            "Mengutamakan kekayaan"
-          ],
-          "answer": "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi",
-          "discussion": "Surah ini dimulai dengan perintah menyucikan nama Tuhan Yang Mahatinggi."
-        },
-        {
-          "id": "PAI-B06-Q017",
-          "type": "multiple_choice",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: apa pesan awal Surah Al-A’la?",
-          "options": [
             "Mengutamakan kekayaan",
-            "Melupakan ibadah",
-            "Mengejar pujian manusia",
             "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi"
           ],
           "answer": "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi",
           "discussion": "Surah ini dimulai dengan perintah menyucikan nama Tuhan Yang Mahatinggi."
         },
         {
-          "id": "PAI-B06-Q018",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Apa pesan awal Surah Al-A’la?” adalah ...",
+          "id": "PAI-B06-Q017",
+          "type": "PG",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: apa pesan awal Surah Al-A’la?",
           "options": [
             "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi",
             "Mengutamakan kekayaan",
@@ -243,13 +230,26 @@
           "discussion": "Surah ini dimulai dengan perintah menyucikan nama Tuhan Yang Mahatinggi."
         },
         {
+          "id": "PAI-B06-Q018",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Apa pesan awal Surah Al-A’la?” adalah ...",
+          "options": [
+            "Mengutamakan kekayaan",
+            "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi",
+            "Melupakan ibadah",
+            "Mengejar pujian manusia"
+          ],
+          "answer": "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi",
+          "discussion": "Surah ini dimulai dengan perintah menyucikan nama Tuhan Yang Mahatinggi."
+        },
+        {
           "id": "PAI-B06-Q019",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa yang dijelaskan tentang ciptaan Allah dalam surah ini?",
           "options": [
-            "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
             "Makhluk menciptakan dirinya sendiri",
             "Alam terjadi tanpa ketentuan",
+            "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
             "Manusia mengatur seluruh alam"
           ],
           "answer": "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
@@ -257,25 +257,25 @@
         },
         {
           "id": "PAI-B06-Q020",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: apa yang dijelaskan tentang ciptaan Allah dalam surah ini?",
           "options": [
             "Manusia mengatur seluruh alam",
-            "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
             "Makhluk menciptakan dirinya sendiri",
-            "Alam terjadi tanpa ketentuan"
+            "Alam terjadi tanpa ketentuan",
+            "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk"
           ],
           "answer": "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
           "discussion": "Surah Al-A’la menyebut penciptaan, penyempurnaan, ketentuan, dan petunjuk Allah."
         },
         {
           "id": "PAI-B06-Q021",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Apa yang dijelaskan tentang ciptaan Allah dalam surah ini?” adalah ...",
           "options": [
+            "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
             "Alam terjadi tanpa ketentuan",
             "Manusia mengatur seluruh alam",
-            "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
             "Makhluk menciptakan dirinya sendiri"
           ],
           "answer": "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
@@ -283,12 +283,12 @@
         },
         {
           "id": "PAI-B06-Q022",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa yang lebih baik dan kekal menurut pesan surah?",
           "options": [
             "Harta dunia",
-            "Pujian manusia",
             "Kehidupan akhirat",
+            "Pujian manusia",
             "Kesenangan sesaat"
           ],
           "answer": "Kehidupan akhirat",
@@ -296,8 +296,21 @@
         },
         {
           "id": "PAI-B06-Q023",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: apa yang lebih baik dan kekal menurut pesan surah?",
+          "options": [
+            "Kesenangan sesaat",
+            "Harta dunia",
+            "Kehidupan akhirat",
+            "Pujian manusia"
+          ],
+          "answer": "Kehidupan akhirat",
+          "discussion": "Surah Al-A’la mengingatkan bahwa akhirat lebih baik dan lebih kekal."
+        },
+        {
+          "id": "PAI-B06-Q024",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Apa yang lebih baik dan kekal menurut pesan surah?” adalah ...",
           "options": [
             "Kesenangan sesaat",
             "Harta dunia",
@@ -308,21 +321,8 @@
           "discussion": "Surah Al-A’la mengingatkan bahwa akhirat lebih baik dan lebih kekal."
         },
         {
-          "id": "PAI-B06-Q024",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Apa yang lebih baik dan kekal menurut pesan surah?” adalah ...",
-          "options": [
-            "Kehidupan akhirat",
-            "Kesenangan sesaat",
-            "Harta dunia",
-            "Pujian manusia"
-          ],
-          "answer": "Kehidupan akhirat",
-          "discussion": "Surah Al-A’la mengingatkan bahwa akhirat lebih baik dan lebih kekal."
-        },
-        {
           "id": "PAI-B06-Q025",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa jalan keberuntungan yang disebut dalam surah?",
           "options": [
             "Menyucikan diri, mengingat Allah, dan salat",
@@ -335,7 +335,7 @@
         },
         {
           "id": "PAI-B06-Q026",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: apa jalan keberuntungan yang disebut dalam surah?",
           "options": [
             "Mengejar pujian",
@@ -348,7 +348,7 @@
         },
         {
           "id": "PAI-B06-Q027",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Apa jalan keberuntungan yang disebut dalam surah?” adalah ...",
           "options": [
             "Mengabaikan ibadah",
@@ -361,37 +361,37 @@
         },
         {
           "id": "PAI-B06-Q028",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Bagaimana cara aman mempelajari teks Arab Al-Qur’an?",
           "options": [
             "Menyalin dari sumber tidak dikenal",
             "Mengubah huruf agar mudah",
-            "Menggunakan mushaf atau teks tepercaya yang telah diperiksa",
-            "Mengandalkan gambar AI tanpa pemeriksaan"
-          ],
-          "answer": "Menggunakan mushaf atau teks tepercaya yang telah diperiksa",
-          "discussion": "Teks ayat harus akurat; gunakan mushaf dan bimbingan guru."
-        },
-        {
-          "id": "PAI-B06-Q029",
-          "type": "multiple_choice",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: bagaimana cara aman mempelajari teks Arab Al-Qur’an?",
-          "options": [
             "Mengandalkan gambar AI tanpa pemeriksaan",
-            "Menyalin dari sumber tidak dikenal",
-            "Mengubah huruf agar mudah",
             "Menggunakan mushaf atau teks tepercaya yang telah diperiksa"
           ],
           "answer": "Menggunakan mushaf atau teks tepercaya yang telah diperiksa",
           "discussion": "Teks ayat harus akurat; gunakan mushaf dan bimbingan guru."
         },
         {
-          "id": "PAI-B06-Q030",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Bagaimana cara aman mempelajari teks Arab Al-Qur’an?” adalah ...",
+          "id": "PAI-B06-Q029",
+          "type": "PG",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengaji Al-Qur’an Surah Al-A’la” terkait hal berikut: bagaimana cara aman mempelajari teks Arab Al-Qur’an?",
           "options": [
             "Menggunakan mushaf atau teks tepercaya yang telah diperiksa",
             "Mengandalkan gambar AI tanpa pemeriksaan",
+            "Menyalin dari sumber tidak dikenal",
+            "Mengubah huruf agar mudah"
+          ],
+          "answer": "Menggunakan mushaf atau teks tepercaya yang telah diperiksa",
+          "discussion": "Teks ayat harus akurat; gunakan mushaf dan bimbingan guru."
+        },
+        {
+          "id": "PAI-B06-Q030",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengaji Al-Qur’an Surah Al-A’la” untuk pertanyaan “Bagaimana cara aman mempelajari teks Arab Al-Qur’an?” adalah ...",
+          "options": [
+            "Mengandalkan gambar AI tanpa pemeriksaan",
+            "Menggunakan mushaf atau teks tepercaya yang telah diperiksa",
             "Menyalin dari sumber tidak dikenal",
             "Mengubah huruf agar mudah"
           ],
