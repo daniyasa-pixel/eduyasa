@@ -1,0 +1,22 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "PAI-B04",
+  "chapter_title": "Hukum Halal dan Haram",
+  "modules": [
+    {
+      "id": "PAI-B04-MOD-01",
+      "version": "MOD-01",
+      "title": "Pengertian dan Dasar Hukum",
+      "content": "# Hukum Halal dan Haram\n\n## Tujuan Pembelajaran\nKamu dapat membedakan halal dan haram serta mengenali dasar hukumnya.\n\n## A. Definisi\n**Halal** adalah sesuatu atau kegiatan yang diizinkan syariat Islam. **Haram** adalah sesuatu atau kegiatan yang dilarang oleh syariat Islam.\n\n## B. Dasar Hukum\nAl-Qur’an dan hadis menjadi dasar memahami halal dan haram. Q.S. al-Mā’idah/5:87 mengingatkan orang beriman agar tidak mengharamkan hal baik yang telah Allah halalkan dan tidak melampaui batas.\n\n## C. Memahami Ketentuan\nPenilaian halal dan haram tidak ditentukan oleh selera pribadi. Jika ragu, carilah keterangan dari sumber tepercaya dan tanyakan kepada guru atau orang yang berilmu.\n\n## Ringkasan\nHalal berarti dibolehkan syariat, sedangkan haram berarti dilarang. Penetapannya harus merujuk pada ajaran Islam."
+    },
+    {
+      "id": "PAI-B04-MOD-02",
+      "version": "MOD-02",
+      "title": "Penerapan Hukum Halal dan Haram",
+      "content": "# Hukum Halal dan Haram\n\n## Tujuan Pembelajaran\nKamu dapat menerapkan sikap berhati-hati dalam memilih makanan, barang, dan tindakan.\n\n## A. Memilih Makanan dan Barang\nPerhatikan bahan, cara memperoleh, dan keterangan produk. Untuk produk olahan, periksa informasi serta tanda halal resmi jika tersedia.\n\n## B. Halal dalam Perilaku\nCara memperoleh uang dan barang juga harus benar. Menipu, mencuri, dan menyuap bukan cara yang dibenarkan. Berdaganglah dengan jujur dan sampaikan keadaan barang dengan terbuka.\n\n## C. Tidak Merugikan\nMembuang sampah ke sungai merusak lingkungan dan merugikan masyarakat. Islam mengajarkan tanggung jawab dan larangan membuat kerusakan.\n\n## Ringkasan\nPilih yang halal dan baik, periksa informasi, jauhi kecurangan, serta jangan merugikan manusia dan lingkungan."
+    }
+  ]
+}
