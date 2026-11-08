@@ -11,396 +11,392 @@
         {
           "id": "PAI-B01-Q001",
           "type": "PG",
-          "text": "Surah Aḍ-Ḍuḥā merupakan surah ke berapa?",
+          "text": "Surah Aḍ-Ḍuḥā merupakan surah ke berapa dalam Al-Qur’an?",
           "options": [
-            "Surah ke-93",
-            "Surah ke-90",
-            "Surah ke-95",
-            "Surah ke-100"
+            "93",
+            "87",
+            "92",
+            "94"
           ],
-          "answer": "Surah ke-93",
+          "answer": "93",
           "discussion": "Surah Aḍ-Ḍuḥā berada pada urutan ke-93."
         },
         {
           "id": "PAI-B01-Q002",
           "type": "PG",
-          "text": "Dalam kuis bab Belajar Al-Qur’an dan Hadis, pertanyaan yang harus kamu jawab adalah: Dalam kehidupan sehari-hari, pengetahuan tentang “Surah Aḍ-Ḍuḥā merupakan surah ke berapa?” membantu kita memahami bahwa ...",
+          "text": "Berapa jumlah ayat dalam Surah Aḍ-Ḍuḥā?",
           "options": [
-            "Surah ke-100",
-            "Surah ke-93",
-            "Surah ke-90",
-            "Surah ke-95"
+            "8 ayat",
+            "11 ayat",
+            "19 ayat",
+            "7 ayat"
           ],
-          "answer": "Surah ke-93",
-          "discussion": "Surah Aḍ-Ḍuḥā berada pada urutan ke-93."
+          "answer": "11 ayat",
+          "discussion": "Surah Aḍ-Ḍuḥā terdiri atas 11 ayat."
         },
         {
           "id": "PAI-B01-Q003",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Belajar Al-Qur’an dan Hadis, jawablah pertanyaan berikut: Pernyataan yang paling tepat sesuai materi bab ini adalah: Surah ke-93. Hal itu menunjukkan ...",
+          "text": "Apa arti kata Aḍ-Ḍuḥā?",
           "options": [
-            "Surah ke-95",
-            "Surah ke-100",
-            "Surah ke-93",
-            "Surah ke-90"
+            "Waktu malam",
+            "Waktu sore",
+            "Waktu duha atau pagi",
+            "Waktu fajar"
           ],
-          "answer": "Surah ke-93",
-          "discussion": "Surah Aḍ-Ḍuḥā berada pada urutan ke-93."
+          "answer": "Waktu duha atau pagi",
+          "discussion": "Aḍ-Ḍuḥā berarti waktu duha atau pagi."
         },
         {
           "id": "PAI-B01-Q004",
           "type": "PG",
-          "text": "Berapa jumlah ayat Surah Aḍ-Ḍuḥā?",
+          "text": "Surah Aḍ-Ḍuḥā termasuk kelompok surah ...",
           "options": [
-            "10 ayat",
-            "12 ayat",
-            "8 ayat",
-            "11 ayat"
+            "Madaniyah",
+            "Panjang",
+            "Mu’awwizatain",
+            "Makiyah"
           ],
-          "answer": "11 ayat",
-          "discussion": "Surah Aḍ-Ḍuḥā terdiri atas 11 ayat."
+          "answer": "Makiyah",
+          "discussion": "Surah Aḍ-Ḍuḥā diturunkan sebelum Nabi hijrah ke Madinah."
         },
         {
           "id": "PAI-B01-Q005",
           "type": "PG",
-          "text": "Dalam kuis bab Belajar Al-Qur’an dan Hadis, pertanyaan yang harus kamu jawab adalah: Dalam kehidupan sehari-hari, pengetahuan tentang “Berapa jumlah ayat Surah Aḍ-Ḍuḥā?” membantu kita memahami bahwa ...",
+          "text": "Apa pesan ayat ketiga Surah Aḍ-Ḍuḥā?",
           "options": [
-            "11 ayat",
-            "8 ayat",
-            "10 ayat",
-            "12 ayat"
+            "Allah tidak meninggalkan dan tidak membenci Nabi",
+            "Manusia harus berhenti bekerja",
+            "Semua manusia tidak pernah salah",
+            "Nabi harus meninggalkan umatnya"
           ],
-          "answer": "11 ayat",
-          "discussion": "Surah Aḍ-Ḍuḥā terdiri atas 11 ayat."
+          "answer": "Allah tidak meninggalkan dan tidak membenci Nabi",
+          "discussion": "Ayat ketiga menegaskan Allah tidak meninggalkan dan tidak membenci Nabi Muhammad saw."
         },
         {
           "id": "PAI-B01-Q006",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Belajar Al-Qur’an dan Hadis, jawablah pertanyaan berikut: Pernyataan yang paling tepat sesuai materi bab ini adalah: 11 ayat. Hal itu menunjukkan ...",
+          "text": "Sikap yang sesuai dengan pesan ayat tentang anak yatim adalah ...",
           "options": [
-            "8 ayat",
-            "11 ayat",
-            "10 ayat",
-            "12 ayat"
+            "Mengambil hak anak yatim",
+            "Memperlakukan anak yatim dengan baik",
+            "Mengabaikan anak yatim",
+            "Menghardik anak yatim"
           ],
-          "answer": "11 ayat",
-          "discussion": "Surah Aḍ-Ḍuḥā terdiri atas 11 ayat."
+          "answer": "Memperlakukan anak yatim dengan baik",
+          "discussion": "Surah Aḍ-Ḍuḥā melarang memperlakukan anak yatim secara sewenang-wenang."
         },
         {
           "id": "PAI-B01-Q007",
           "type": "PG",
-          "text": "Apa arti Aḍ-Ḍuḥā?",
+          "text": "Apa yang dilarang terhadap orang yang meminta bantuan dalam Surah Aḍ-Ḍuḥā?",
           "options": [
-            "Waktu malam",
-            "Tengah malam",
-            "Waktu pagi atau duha",
-            "Waktu sore"
+            "Mendengarkan dengan santun",
+            "Membantu sesuai kemampuan",
+            "Menghardiknya",
+            "Berbicara dengan sopan"
           ],
-          "answer": "Waktu pagi atau duha",
-          "discussion": "Aḍ-Ḍuḥā berarti waktu pagi atau duha."
+          "answer": "Menghardiknya",
+          "discussion": "Ayat kesepuluh melarang menghardik orang yang meminta-minta."
         },
         {
           "id": "PAI-B01-Q008",
           "type": "PG",
-          "text": "Dalam kuis bab Belajar Al-Qur’an dan Hadis, pertanyaan yang harus kamu jawab adalah: Dalam kehidupan sehari-hari, pengetahuan tentang “Apa arti Aḍ-Ḍuḥā?” membantu kita memahami bahwa ...",
+          "text": "Perilaku yang menunjukkan pengamalan ayat terakhir Surah Aḍ-Ḍuḥā ialah ...",
           "options": [
-            "Waktu sore",
-            "Waktu malam",
-            "Tengah malam",
-            "Waktu pagi atau duha"
+            "Menyombongkan harta kepada teman",
+            "Mengeluh atas semua keadaan",
+            "Menyembunyikan kebaikan agar dipuji",
+            "Menceritakan nikmat Allah dengan rasa syukur"
           ],
-          "answer": "Waktu pagi atau duha",
-          "discussion": "Aḍ-Ḍuḥā berarti waktu pagi atau duha."
+          "answer": "Menceritakan nikmat Allah dengan rasa syukur",
+          "discussion": "Ayat terakhir mengajarkan menyebut nikmat Allah sebagai bentuk syukur."
         },
         {
           "id": "PAI-B01-Q009",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Belajar Al-Qur’an dan Hadis, jawablah pertanyaan berikut: Pernyataan yang paling tepat sesuai materi bab ini adalah: Waktu pagi atau duha. Hal itu menunjukkan ...",
+          "text": "Mengapa Nabi Muhammad saw. dikuatkan melalui Surah Aḍ-Ḍuḥā?",
           "options": [
-            "Waktu pagi atau duha",
-            "Tengah malam",
-            "Waktu sore",
-            "Waktu malam"
+            "Agar beliau yakin Allah tidak meninggalkannya",
+            "Agar beliau berhenti berdakwah",
+            "Agar beliau tidak menolong orang lain",
+            "Agar beliau meninggalkan Makkah saat itu juga"
           ],
-          "answer": "Waktu pagi atau duha",
-          "discussion": "Aḍ-Ḍuḥā berarti waktu pagi atau duha."
+          "answer": "Agar beliau yakin Allah tidak meninggalkannya",
+          "discussion": "Surah ini menguatkan Nabi setelah masa terhentinya wahyu dan tuduhan kaum musyrik."
         },
         {
           "id": "PAI-B01-Q010",
           "type": "PG",
-          "text": "Apa pesan Surah Aḍ-Ḍuḥā kepada Nabi Muhammad saw.?",
+          "text": "Apa yang dimaksud dengan tafkhīm dalam membaca Al-Qur’an?",
           "options": [
-            "Allah memerintahkan berhenti beribadah",
-            "Allah tidak meninggalkan dan tidak membenci beliau",
-            "Allah tidak memberi wahyu selamanya",
-            "Allah melarang beliau berdakwah"
+            "Membaca huruf dengan tipis",
+            "Membaca huruf dengan tebal",
+            "Menghentikan bacaan",
+            "Memanjangkan semua huruf"
           ],
-          "answer": "Allah tidak meninggalkan dan tidak membenci beliau",
-          "discussion": "Surah ini menguatkan Nabi bahwa Allah tidak meninggalkan dan tidak membenci beliau."
+          "answer": "Membaca huruf dengan tebal",
+          "discussion": "Tafkhīm adalah membaca huruf dengan tebal sesuai kaidah tajwid."
         },
         {
           "id": "PAI-B01-Q011",
           "type": "PG",
-          "text": "Dalam kuis bab Belajar Al-Qur’an dan Hadis, pertanyaan yang harus kamu jawab adalah: Dalam kehidupan sehari-hari, pengetahuan tentang “Apa pesan Surah Aḍ-Ḍuḥā kepada Nabi Muhammad saw.?” membantu kita memahami bahwa ...",
+          "text": "Apa arti tarqīq?",
           "options": [
-            "Allah melarang beliau berdakwah",
-            "Allah memerintahkan berhenti beribadah",
-            "Allah tidak meninggalkan dan tidak membenci beliau",
-            "Allah tidak memberi wahyu selamanya"
+            "Membaca huruf dengan tebal",
+            "Menyambung dua surah",
+            "Membaca huruf dengan tipis",
+            "Mengulang satu ayat"
           ],
-          "answer": "Allah tidak meninggalkan dan tidak membenci beliau",
-          "discussion": "Surah ini menguatkan Nabi bahwa Allah tidak meninggalkan dan tidak membenci beliau."
+          "answer": "Membaca huruf dengan tipis",
+          "discussion": "Tarqīq berarti membaca huruf dengan tipis sesuai kaidah tajwid."
         },
         {
           "id": "PAI-B01-Q012",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Belajar Al-Qur’an dan Hadis, jawablah pertanyaan berikut: Pernyataan yang paling tepat sesuai materi bab ini adalah: Allah tidak meninggalkan dan tidak membenci beliau. Hal itu menunjukkan ...",
+          "text": "Mengapa makhraj perlu diperhatikan ketika membaca ayat?",
           "options": [
-            "Allah melarang beliau berdakwah",
-            "Allah memerintahkan berhenti beribadah",
-            "Allah tidak memberi wahyu selamanya",
-            "Allah tidak meninggalkan dan tidak membenci beliau"
+            "Agar bacaan menjadi lebih cepat",
+            "Agar semua huruf dibaca tebal",
+            "Agar tanda baca tidak perlu diperhatikan",
+            "Agar bunyi huruf tepat dan tidak mengubah makna"
           ],
-          "answer": "Allah tidak meninggalkan dan tidak membenci beliau",
-          "discussion": "Surah ini menguatkan Nabi bahwa Allah tidak meninggalkan dan tidak membenci beliau."
+          "answer": "Agar bunyi huruf tepat dan tidak mengubah makna",
+          "discussion": "Makhraj adalah tempat keluarnya huruf; pelafalan yang keliru dapat mengubah bunyi dan makna."
         },
         {
           "id": "PAI-B01-Q013",
           "type": "PG",
-          "text": "Bagaimana sikap terhadap anak yatim?",
+          "text": "Saat menyalin ayat Al-Qur’an, arah penulisan yang benar adalah ...",
           "options": [
-            "Tidak memperlakukannya dengan sewenang-wenang",
-            "Mengabaikannya",
-            "Mengambil haknya",
-            "Mengejeknya"
+            "Dari kanan ke kiri",
+            "Dari kiri ke kanan",
+            "Dari atas ke bawah",
+            "Bebas sesuai keinginan"
           ],
-          "answer": "Tidak memperlakukannya dengan sewenang-wenang",
-          "discussion": "Surah Aḍ-Ḍuḥā melarang memperlakukan anak yatim secara sewenang-wenang."
+          "answer": "Dari kanan ke kiri",
+          "discussion": "Tulisan Arab ditulis dari kanan ke kiri dengan bentuk huruf yang tepat."
         },
         {
           "id": "PAI-B01-Q014",
           "type": "PG",
-          "text": "Dalam kuis bab Belajar Al-Qur’an dan Hadis, pertanyaan yang harus kamu jawab adalah: Dalam kehidupan sehari-hari, pengetahuan tentang “Bagaimana sikap terhadap anak yatim?” membantu kita memahami bahwa ...",
+          "text": "Cara yang baik untuk menghafal Surah Aḍ-Ḍuḥā adalah ...",
           "options": [
-            "Mengejeknya",
-            "Tidak memperlakukannya dengan sewenang-wenang",
-            "Mengabaikannya",
-            "Mengambil haknya"
+            "Membaca sekali lalu langsung berhenti",
+            "Mengulang sedikit demi sedikit lalu menyetorkan bacaan",
+            "Menghafal tanpa memperhatikan bacaan",
+            "Mengubah urutan ayat agar mudah"
           ],
-          "answer": "Tidak memperlakukannya dengan sewenang-wenang",
-          "discussion": "Surah Aḍ-Ḍuḥā melarang memperlakukan anak yatim secara sewenang-wenang."
+          "answer": "Mengulang sedikit demi sedikit lalu menyetorkan bacaan",
+          "discussion": "Mengulang secara bertahap membantu hafalan dan bacaan menjadi lebih baik."
         },
         {
           "id": "PAI-B01-Q015",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Belajar Al-Qur’an dan Hadis, jawablah pertanyaan berikut: Pernyataan yang paling tepat sesuai materi bab ini adalah: Tidak memperlakukannya dengan sewenang-wenang. Hal itu menunjukkan ...",
+          "text": "Apa pengertian hadis menurut materi bab ini?",
           "options": [
-            "Mengambil haknya",
-            "Mengejeknya",
-            "Tidak memperlakukannya dengan sewenang-wenang",
-            "Mengabaikannya"
+            "Pendapat semua orang tentang agama",
+            "Cerita sejarah para raja",
+            "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi",
+            "Kumpulan doa yang dibuat manusia"
           ],
-          "answer": "Tidak memperlakukannya dengan sewenang-wenang",
-          "discussion": "Surah Aḍ-Ḍuḥā melarang memperlakukan anak yatim secara sewenang-wenang."
+          "answer": "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi",
+          "discussion": "Hadis atau sunah mencakup perkataan, perbuatan, ketetapan, dan persetujuan Nabi."
         },
         {
           "id": "PAI-B01-Q016",
           "type": "PG",
-          "text": "Bagaimana sikap kepada orang yang meminta bantuan?",
+          "text": "Mengapa hadis menjadi sumber ajaran Islam setelah Al-Qur’an?",
           "options": [
-            "Menertawakan",
-            "Mempermalukan",
-            "Membentak",
-            "Tidak menghardik dan berbicara santun"
+            "Hadis menggantikan seluruh isi Al-Qur’an",
+            "Hadis hanya berisi kisah peperangan",
+            "Hadis dibuat untuk hiburan",
+            "Hadis menjelaskan dan memberi contoh ajaran Al-Qur’an"
           ],
-          "answer": "Tidak menghardik dan berbicara santun",
-          "discussion": "Surah ini mengajarkan agar tidak menghardik orang yang meminta-minta."
+          "answer": "Hadis menjelaskan dan memberi contoh ajaran Al-Qur’an",
+          "discussion": "Hadis menjadi pedoman yang menjelaskan ajaran Al-Qur’an."
         },
         {
           "id": "PAI-B01-Q017",
           "type": "PG",
-          "text": "Dalam kuis bab Belajar Al-Qur’an dan Hadis, pertanyaan yang harus kamu jawab adalah: Dalam kehidupan sehari-hari, pengetahuan tentang “Bagaimana sikap kepada orang yang meminta bantuan?” membantu kita memahami bahwa ...",
+          "text": "Apa makna ungkapan tangan di atas lebih baik daripada tangan di bawah?",
           "options": [
-            "Tidak menghardik dan berbicara santun",
-            "Membentak",
-            "Menertawakan",
-            "Mempermalukan"
+            "Orang yang memberi lebih utama daripada orang yang meminta",
+            "Orang kaya boleh merendahkan orang miskin",
+            "Orang yang meminta tidak boleh dibantu",
+            "Memberi harus dilakukan agar terkenal"
           ],
-          "answer": "Tidak menghardik dan berbicara santun",
-          "discussion": "Surah ini mengajarkan agar tidak menghardik orang yang meminta-minta."
+          "answer": "Orang yang memberi lebih utama daripada orang yang meminta",
+          "discussion": "Hadis mendorong umat Islam untuk gemar memberi dan tidak bergantung pada pemberian orang."
         },
         {
           "id": "PAI-B01-Q018",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Belajar Al-Qur’an dan Hadis, jawablah pertanyaan berikut: Pernyataan yang paling tepat sesuai materi bab ini adalah: Tidak menghardik dan berbicara santun. Hal itu menunjukkan ...",
+          "text": "Contoh sedekah yang tepat adalah ...",
           "options": [
-            "Membentak",
-            "Tidak menghardik dan berbicara santun",
-            "Menertawakan",
-            "Mempermalukan"
+            "Meminjamkan barang dengan meminta bayaran berlebih",
+            "Memberi makanan kepada tetangga yang membutuhkan",
+            "Memberi uang agar pejabat mengubah keputusan",
+            "Mengambil barang teman tanpa izin"
           ],
-          "answer": "Tidak menghardik dan berbicara santun",
-          "discussion": "Surah ini mengajarkan agar tidak menghardik orang yang meminta-minta."
+          "answer": "Memberi makanan kepada tetangga yang membutuhkan",
+          "discussion": "Sedekah merupakan pemberian untuk kebaikan dan dilakukan dengan ikhlas."
         },
         {
           "id": "PAI-B01-Q019",
           "type": "PG",
-          "text": "Apa yang harus dilakukan terhadap nikmat Allah?",
+          "text": "Manakah contoh sedekah jariah?",
           "options": [
-            "Menyombongkannya",
-            "Menggunakannya untuk menyakiti",
-            "Mensyukurinya",
-            "Menganggapnya tidak penting"
+            "Memberi hadiah ulang tahun sekali",
+            "Membeli makanan untuk diri sendiri",
+            "Menyediakan sumur yang terus dimanfaatkan warga",
+            "Meminjamkan pensil selama satu jam"
           ],
-          "answer": "Mensyukurinya",
-          "discussion": "Surah Aḍ-Ḍuḥā mengingatkan manusia untuk bersyukur."
+          "answer": "Menyediakan sumur yang terus dimanfaatkan warga",
+          "discussion": "Sedekah jariah memberi manfaat yang terus mengalir."
         },
         {
           "id": "PAI-B01-Q020",
           "type": "PG",
-          "text": "Dalam kuis bab Belajar Al-Qur’an dan Hadis, pertanyaan yang harus kamu jawab adalah: Dalam kehidupan sehari-hari, pengetahuan tentang “Apa yang harus dilakukan terhadap nikmat Allah?” membantu kita memahami bahwa ...",
+          "text": "Pemberian sukarela ketika pemberi masih hidup disebut ...",
           "options": [
-            "Menganggapnya tidak penting",
-            "Menyombongkannya",
-            "Menggunakannya untuk menyakiti",
-            "Mensyukurinya"
+            "Waris",
+            "Denda",
+            "Utang",
+            "Hibah"
           ],
-          "answer": "Mensyukurinya",
-          "discussion": "Surah Aḍ-Ḍuḥā mengingatkan manusia untuk bersyukur."
+          "answer": "Hibah",
+          "discussion": "Hibah adalah pemberian sukarela yang dilakukan ketika pemberi masih hidup."
         },
         {
           "id": "PAI-B01-Q021",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Belajar Al-Qur’an dan Hadis, jawablah pertanyaan berikut: Pernyataan yang paling tepat sesuai materi bab ini adalah: Mensyukurinya. Hal itu menunjukkan ...",
+          "text": "Seseorang memberikan buku kepada temannya sebagai penghargaan. Pemberian itu disebut ...",
           "options": [
-            "Mensyukurinya",
-            "Menggunakannya untuk menyakiti",
-            "Menganggapnya tidak penting",
-            "Menyombongkannya"
+            "Hadiah",
+            "Suap",
+            "Utang",
+            "Zakat fitrah"
           ],
-          "answer": "Mensyukurinya",
-          "discussion": "Surah Aḍ-Ḍuḥā mengingatkan manusia untuk bersyukur."
+          "answer": "Hadiah",
+          "discussion": "Hadiah diberikan sebagai tanda kasih sayang atau penghargaan."
         },
         {
           "id": "PAI-B01-Q022",
           "type": "PG",
-          "text": "Apa arti tafkhīm?",
+          "text": "Apa perbedaan sederhana antara hibah dan hadiah?",
           "options": [
-            "Menghentikan bacaan",
-            "Membaca huruf dengan tebal",
-            "Memanjangkan semua huruf",
-            "Membaca huruf dengan tipis"
+            "Hibah selalu berupa makanan, hadiah selalu berupa uang",
+            "Hibah merupakan pemberian sukarela, hadiah biasanya sebagai tanda kasih atau penghargaan",
+            "Hibah harus dibayar kembali, hadiah harus dikembalikan",
+            "Keduanya selalu merupakan pinjaman"
           ],
-          "answer": "Membaca huruf dengan tebal",
-          "discussion": "Tafkhīm berarti menebalkan bunyi huruf tertentu."
+          "answer": "Hibah merupakan pemberian sukarela, hadiah biasanya sebagai tanda kasih atau penghargaan",
+          "discussion": "Hibah dan hadiah sama-sama pemberian, tetapi tujuan dan konteksnya berbeda."
         },
         {
           "id": "PAI-B01-Q023",
           "type": "PG",
-          "text": "Dalam kuis bab Belajar Al-Qur’an dan Hadis, pertanyaan yang harus kamu jawab adalah: Dalam kehidupan sehari-hari, pengetahuan tentang “Apa arti tafkhīm?” membantu kita memahami bahwa ...",
+          "text": "Seorang siswa memberi bantuan agar temannya memilih dirinya sebagai ketua kelas. Apa yang perlu diperbaiki?",
           "options": [
-            "Membaca huruf dengan tipis",
-            "Menghentikan bacaan",
-            "Membaca huruf dengan tebal",
-            "Memanjangkan semua huruf"
+            "Bantuan harus diberikan lebih banyak",
+            "Pemberian harus diumumkan kepada semua orang",
+            "Niat memberi harus ikhlas, bukan untuk memengaruhi pilihan",
+            "Teman harus membalas dengan hadiah"
           ],
-          "answer": "Membaca huruf dengan tebal",
-          "discussion": "Tafkhīm berarti menebalkan bunyi huruf tertentu."
+          "answer": "Niat memberi harus ikhlas, bukan untuk memengaruhi pilihan",
+          "discussion": "Memberi untuk memengaruhi keputusan bukan adab memberi yang benar."
         },
         {
           "id": "PAI-B01-Q024",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Belajar Al-Qur’an dan Hadis, jawablah pertanyaan berikut: Pernyataan yang paling tepat sesuai materi bab ini adalah: Membaca huruf dengan tebal. Hal itu menunjukkan ...",
+          "text": "Mengapa pemberian kepada pejabat karena jabatannya dapat termasuk suap?",
           "options": [
-            "Membaca huruf dengan tipis",
-            "Menghentikan bacaan",
-            "Memanjangkan semua huruf",
-            "Membaca huruf dengan tebal"
+            "Karena semua hadiah dilarang",
+            "Karena pejabat tidak boleh menerima bantuan apa pun",
+            "Karena pemberian harus selalu berupa barang",
+            "Karena bertujuan memengaruhi keputusan atau memperoleh keuntungan tidak semestinya"
           ],
-          "answer": "Membaca huruf dengan tebal",
-          "discussion": "Tafkhīm berarti menebalkan bunyi huruf tertentu."
+          "answer": "Karena bertujuan memengaruhi keputusan atau memperoleh keuntungan tidak semestinya",
+          "discussion": "Pemberian yang dimaksudkan untuk memengaruhi keputusan dapat termasuk suap."
         },
         {
           "id": "PAI-B01-Q025",
           "type": "PG",
-          "text": "Apa arti tarqīq?",
+          "text": "Ketika memberi bantuan, sikap yang sebaiknya dihindari adalah ...",
           "options": [
-            "Membaca huruf dengan tipis",
-            "Membaca huruf dengan tebal",
-            "Mendengungkan semua huruf",
-            "Mengulang ayat"
+            "Mengungkit-ungkit pemberian",
+            "Menjaga perasaan penerima",
+            "Memberi dengan ikhlas",
+            "Bersikap santun"
           ],
-          "answer": "Membaca huruf dengan tipis",
-          "discussion": "Tarqīq berarti menipiskan bunyi huruf."
+          "answer": "Mengungkit-ungkit pemberian",
+          "discussion": "Mengungkit pemberian dapat menyakiti penerima dan merusak keikhlasan."
         },
         {
           "id": "PAI-B01-Q026",
           "type": "PG",
-          "text": "Dalam kuis bab Belajar Al-Qur’an dan Hadis, pertanyaan yang harus kamu jawab adalah: Dalam kehidupan sehari-hari, pengetahuan tentang “Apa arti tarqīq?” membantu kita memahami bahwa ...",
+          "text": "Rina melihat teman kesulitan membawa buku. Tindakan yang paling sesuai dengan semangat hadis memberi adalah ...",
           "options": [
-            "Mengulang ayat",
-            "Membaca huruf dengan tipis",
-            "Membaca huruf dengan tebal",
-            "Mendengungkan semua huruf"
+            "Menertawakan temannya",
+            "Membantu membawakan buku tanpa mengharapkan imbalan",
+            "Meminta bayaran sebelum membantu",
+            "Meninggalkannya agar belajar sendiri"
           ],
-          "answer": "Membaca huruf dengan tipis",
-          "discussion": "Tarqīq berarti menipiskan bunyi huruf."
+          "answer": "Membantu membawakan buku tanpa mengharapkan imbalan",
+          "discussion": "Hadis mengajarkan keutamaan memberi dan membantu orang lain."
         },
         {
           "id": "PAI-B01-Q027",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Belajar Al-Qur’an dan Hadis, jawablah pertanyaan berikut: Pernyataan yang paling tepat sesuai materi bab ini adalah: Membaca huruf dengan tipis. Hal itu menunjukkan ...",
+          "text": "Mengapa membantu orang lain tidak harus selalu berupa uang?",
           "options": [
-            "Mendengungkan semua huruf",
-            "Mengulang ayat",
-            "Membaca huruf dengan tipis",
-            "Membaca huruf dengan tebal"
+            "Semua bantuan selain uang tidak bernilai",
+            "Bantuan hanya boleh diberikan kepada keluarga",
+            "Bantuan dapat berupa tenaga, ilmu, atau barang yang bermanfaat",
+            "Bantuan harus selalu diumumkan"
           ],
-          "answer": "Membaca huruf dengan tipis",
-          "discussion": "Tarqīq berarti menipiskan bunyi huruf."
+          "answer": "Bantuan dapat berupa tenaga, ilmu, atau barang yang bermanfaat",
+          "discussion": "Semangat memberi dapat diwujudkan dalam berbagai bentuk kebaikan."
         },
         {
           "id": "PAI-B01-Q028",
           "type": "PG",
-          "text": "Perhatikan ilustrasi bentuk pemberian. Pemberian yang manfaatnya terus mengalir disebut apa?",
+          "text": "Jika seseorang menerima nikmat berupa kepandaian, cara mensyukurinya adalah ...",
           "options": [
-            "Sedekah",
-            "Hibah",
-            "Hadiah",
-            "Sedekah jariah"
+            "Mengejek teman yang belum paham",
+            "Menyimpan ilmu agar tidak ada yang bisa",
+            "Membanggakan diri setiap saat",
+            "Menggunakan ilmunya untuk membantu dan berbuat baik"
           ],
-          "answer": "Sedekah jariah",
-          "discussion": "Sedekah jariah adalah pemberian yang manfaatnya terus mengalir selama masih dimanfaatkan.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/giving-types.svg",
-            "alt": "Diagram bentuk pemberian: sedekah, sedekah jariah, hibah, dan hadiah"
-          }
+          "answer": "Menggunakan ilmunya untuk membantu dan berbuat baik",
+          "discussion": "Nikmat sebaiknya disyukuri dengan ucapan dan perbuatan yang baik."
         },
         {
           "id": "PAI-B01-Q029",
           "type": "PG",
-          "text": "Menurut hadis tentang keutamaan memberi, siapa yang dimaksud dengan tangan di atas?",
+          "text": "Apa hubungan Surah Aḍ-Ḍuḥā dengan sikap peduli sesama?",
           "options": [
-            "Orang yang memberi",
-            "Orang yang meminta",
-            "Orang yang menolak bantuan",
-            "Orang yang mengungkit pemberian"
+            "Surah itu memerintahkan berbuat baik kepada anak yatim dan peminta bantuan",
+            "Surah itu melarang berbagi dengan orang lain",
+            "Surah itu hanya membahas perdagangan",
+            "Surah itu mengajarkan agar hidup sendiri"
           ],
-          "answer": "Orang yang memberi",
-          "discussion": "Hadis menjelaskan bahwa tangan di atas adalah tangan yang memberi, sedangkan tangan di bawah adalah tangan yang meminta."
+          "answer": "Surah itu memerintahkan berbuat baik kepada anak yatim dan peminta bantuan",
+          "discussion": "Pesan surah mengarahkan umat untuk peduli kepada orang yang membutuhkan."
         },
         {
           "id": "PAI-B01-Q030",
           "type": "PG",
-          "text": "Pemberian sukarela kepada orang lain ketika pemberi masih hidup disebut ...",
+          "text": "Saat menemukan teks hadis Arab di buku, tindakan paling tepat sebelum menghafalnya adalah ...",
           "options": [
-            "Hadiah",
-            "Hibah",
-            "Sedekah jariah",
-            "Suap"
+            "Mengubah susunan kata agar mudah diingat",
+            "Memastikan bacaan dan artinya melalui buku atau sumber hadis tepercaya",
+            "Menghafal tanpa memahami makna",
+            "Menyalin dari sumber yang tidak jelas"
           ],
-          "answer": "Hibah",
-          "discussion": "Hibah adalah pemberian secara sukarela ketika pemberi masih hidup."
+          "answer": "Memastikan bacaan dan artinya melalui buku atau sumber hadis tepercaya",
+          "discussion": "Teks hadis perlu diperiksa pada sumber tepercaya agar tidak terjadi kesalahan."
         }
       ]
     }
