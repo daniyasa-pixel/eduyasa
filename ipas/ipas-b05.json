@@ -1,0 +1,664 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "IPAS-B05",
+      "chapter_title": "Energi untuk Masa Depan",
+      "questions": [
+        {
+          "id": "IPAS-B05-M01-001",
+          "type": "PG",
+          "text": "Bensin, solar, dan minyak tanah termasuk bahan bakar yang berasal dari ...",
+          "options": [
+            "Minyak bumi",
+            "Sinar Matahari",
+            "Angin",
+            "Air laut"
+          ],
+          "answer": "Minyak bumi",
+          "discussion": "Bensin, solar, dan minyak tanah merupakan bahan bakar yang berasal dari minyak bumi."
+        },
+        {
+          "id": "IPAS-B05-M01-002",
+          "type": "PG",
+          "text": "Minyak bumi, batu bara, dan gas alam disebut ...",
+          "options": [
+            "Energi angin",
+            "Energi fosil",
+            "Energi surya",
+            "Energi gelombang"
+          ],
+          "answer": "Energi fosil",
+          "discussion": "Ketiganya termasuk sumber energi fosil."
+        },
+        {
+          "id": "IPAS-B05-M01-003",
+          "type": "PG",
+          "text": "Energi fosil terbentuk dari sisa makhluk hidup yang tertimbun selama ...",
+          "options": [
+            "Beberapa jam",
+            "Beberapa hari",
+            "Jutaan tahun",
+            "Satu musim"
+          ],
+          "answer": "Jutaan tahun",
+          "discussion": "Sisa makhluk hidup mengalami proses alam yang sangat lama hingga menjadi energi fosil."
+        },
+        {
+          "id": "IPAS-B05-M01-004",
+          "type": "PG",
+          "text": "Energi fosil disebut tak terbarukan karena ...",
+          "options": [
+            "Tidak dapat menghasilkan panas",
+            "Dapat dibuat kembali dalam beberapa menit",
+            "Selalu tersedia tanpa batas",
+            "Persediaannya terbatas dan terbentuk sangat lama"
+          ],
+          "answer": "Persediaannya terbatas dan terbentuk sangat lama",
+          "discussion": "Pembentukan energi fosil memerlukan jutaan tahun sehingga tidak cepat tergantikan."
+        },
+        {
+          "id": "IPAS-B05-M01-005",
+          "type": "PG",
+          "text": "Alat yang mengubah cahaya Matahari menjadi listrik adalah ...",
+          "options": [
+            "Panel surya",
+            "Turbin air",
+            "Kompor gas",
+            "Mesin diesel"
+          ],
+          "answer": "Panel surya",
+          "discussion": "Panel surya mengubah energi cahaya Matahari menjadi energi listrik."
+        },
+        {
+          "id": "IPAS-B05-M01-006",
+          "type": "PG",
+          "text": "Turbin angin bergerak karena mendapat dorongan dari ...",
+          "options": [
+            "Gelombang suara",
+            "Angin",
+            "Panas tanah",
+            "Batu bara"
+          ],
+          "answer": "Angin",
+          "discussion": "Angin memutar baling-baling turbin yang terhubung dengan generator."
+        },
+        {
+          "id": "IPAS-B05-M01-007",
+          "type": "PG",
+          "text": "Pembangkit listrik tenaga air memanfaatkan ...",
+          "options": [
+            "Minyak tanah yang dibakar",
+            "Asap kendaraan",
+            "Aliran air untuk memutar turbin",
+            "Cahaya lampu"
+          ],
+          "answer": "Aliran air untuk memutar turbin",
+          "discussion": "Aliran air dapat memutar turbin yang kemudian menggerakkan generator."
+        },
+        {
+          "id": "IPAS-B05-M01-008",
+          "type": "PG",
+          "text": "Panas yang berasal dari dalam Bumi disebut energi ...",
+          "options": [
+            "Biomassa",
+            "Angin",
+            "Surya",
+            "Panas bumi"
+          ],
+          "answer": "Panas bumi",
+          "discussion": "Panas dari dalam Bumi dikenal sebagai energi panas bumi atau geotermal."
+        },
+        {
+          "id": "IPAS-B05-M01-009",
+          "type": "PG",
+          "text": "Gas yang dihasilkan dari pembakaran bahan bakar fosil dan berperan dalam perubahan iklim adalah ...",
+          "options": [
+            "Karbon dioksida",
+            "Nitrogen",
+            "Oksigen",
+            "Helium"
+          ],
+          "answer": "Karbon dioksida",
+          "discussion": "Pembakaran bahan bakar fosil menghasilkan karbon dioksida yang berkontribusi pada perubahan iklim."
+        },
+        {
+          "id": "IPAS-B05-M01-010",
+          "type": "PG",
+          "text": "Contoh kebiasaan menghemat energi di rumah adalah ...",
+          "options": [
+            "Menyalakan televisi sepanjang hari",
+            "Mematikan lampu saat tidak digunakan",
+            "Membiarkan pengisi daya tetap terpasang tanpa digunakan",
+            "Membuka kulkas terlalu lama"
+          ],
+          "answer": "Mematikan lampu saat tidak digunakan",
+          "discussion": "Mematikan lampu saat tidak diperlukan membantu mengurangi penggunaan listrik."
+        },
+        {
+          "id": "IPAS-B05-M01-011",
+          "type": "PG",
+          "text": "Mengapa energi fosil dapat mengalami kelangkaan?",
+          "options": [
+            "Karena tidak pernah digunakan manusia",
+            "Karena hanya terdapat di permukaan laut",
+            "Karena digunakan lebih cepat daripada proses pembentukannya",
+            "Karena dapat diperbarui setiap hari"
+          ],
+          "answer": "Karena digunakan lebih cepat daripada proses pembentukannya",
+          "discussion": "Energi fosil terbentuk sangat lama, sedangkan manusia menggunakannya dalam jumlah besar."
+        },
+        {
+          "id": "IPAS-B05-M01-012",
+          "type": "PG",
+          "text": "Fosil yang tertimbun di kerak Bumi mengalami pemanasan dan perubahan kimiawi dalam waktu lama. Hasil proses tersebut antara lain ...",
+          "options": [
+            "Air hujan dan oksigen",
+            "Pasir dan tanah liat",
+            "Angin dan gelombang",
+            "Minyak bumi, batu bara, dan gas alam"
+          ],
+          "answer": "Minyak bumi, batu bara, dan gas alam",
+          "discussion": "Proses alam selama jutaan tahun membentuk sumber energi fosil seperti minyak bumi, batu bara, dan gas alam."
+        },
+        {
+          "id": "IPAS-B05-M01-013",
+          "type": "PG",
+          "text": "Batu bara banyak digunakan sebagai bahan bakar pada ...",
+          "options": [
+            "Pembangkit listrik tenaga uap",
+            "Panel surya",
+            "Turbin angin",
+            "Perahu layar"
+          ],
+          "answer": "Pembangkit listrik tenaga uap",
+          "discussion": "Batu bara masih digunakan sebagai bahan bakar pembangkit listrik tenaga uap."
+        },
+        {
+          "id": "IPAS-B05-M01-014",
+          "type": "PG",
+          "text": "Mengapa kelangkaan BBM dapat mengganggu kegiatan masyarakat?",
+          "options": [
+            "BBM hanya digunakan untuk bermain",
+            "Banyak kendaraan dan kegiatan transportasi membutuhkan BBM",
+            "BBM digunakan untuk membuat hujan",
+            "Semua makanan dibuat dari BBM"
+          ],
+          "answer": "Banyak kendaraan dan kegiatan transportasi membutuhkan BBM",
+          "discussion": "Banyak kendaraan bermotor menggunakan BBM sehingga kelangkaannya dapat menghambat transportasi."
+        },
+        {
+          "id": "IPAS-B05-M01-015",
+          "type": "PG",
+          "text": "Daerah yang mendapat sinar Matahari melimpah sepanjang tahun berpotensi mengembangkan ...",
+          "options": [
+            "Tambang batu bara di atap rumah",
+            "Pembangkit listrik tenaga ombak di pegunungan",
+            "Pembangkit listrik tenaga surya",
+            "Pembangkit listrik tenaga salju"
+          ],
+          "answer": "Pembangkit listrik tenaga surya",
+          "discussion": "Sinar Matahari yang melimpah mendukung pemanfaatan panel surya."
+        },
+        {
+          "id": "IPAS-B05-M01-016",
+          "type": "PG",
+          "text": "Daerah pantai yang memiliki gelombang dan pasang surut dapat mempertimbangkan energi ...",
+          "options": [
+            "Panas dari kompor",
+            "Minyak tanah",
+            "Batu bara",
+            "Laut"
+          ],
+          "answer": "Laut",
+          "discussion": "Gerakan gelombang dan pasang surut laut dapat dimanfaatkan untuk menghasilkan energi."
+        },
+        {
+          "id": "IPAS-B05-M01-017",
+          "type": "PG",
+          "text": "Biomassa dapat berasal dari ...",
+          "options": [
+            "Limbah organik dan bahan tumbuhan",
+            "Besi dan kaca",
+            "Batu granit saja",
+            "Air laut murni"
+          ],
+          "answer": "Limbah organik dan bahan tumbuhan",
+          "discussion": "Bahan organik atau limbah tumbuhan dapat diolah menjadi sumber energi biomassa."
+        },
+        {
+          "id": "IPAS-B05-M01-018",
+          "type": "PG",
+          "text": "Biogas dapat dihasilkan melalui pengolahan ...",
+          "options": [
+            "Sampah plastik yang dibakar terbuka",
+            "Bahan organik atau kotoran ternak",
+            "Batuan keras",
+            "Air hujan"
+          ],
+          "answer": "Bahan organik atau kotoran ternak",
+          "discussion": "Bahan organik, termasuk kotoran ternak, dapat diolah menghasilkan biogas."
+        },
+        {
+          "id": "IPAS-B05-M01-019",
+          "type": "PG",
+          "text": "Biodiesel merupakan bahan bakar yang dapat dibuat dari ...",
+          "options": [
+            "Udara dingin",
+            "Cahaya Matahari langsung",
+            "Bahan baku nabati seperti minyak tumbuhan",
+            "Batu dan pasir"
+          ],
+          "answer": "Bahan baku nabati seperti minyak tumbuhan",
+          "discussion": "Biodiesel dapat dibuat dari minyak nabati atau bahan organik tertentu."
+        },
+        {
+          "id": "IPAS-B05-M01-020",
+          "type": "PG",
+          "text": "Pembangkit panas bumi memanfaatkan uap panas untuk ...",
+          "options": [
+            "Mendinginkan panel surya",
+            "Membuat batu bara",
+            "Menghasilkan angin",
+            "Menggerakkan turbin yang terhubung dengan generator"
+          ],
+          "answer": "Menggerakkan turbin yang terhubung dengan generator",
+          "discussion": "Uap dari panas bumi dapat menggerakkan turbin untuk menghasilkan listrik."
+        },
+        {
+          "id": "IPAS-B05-M01-021",
+          "type": "PG",
+          "text": "Sebuah desa memiliki sungai dengan aliran deras dan stabil. Sumber energi terbarukan yang paling sesuai dipertimbangkan adalah ...",
+          "options": [
+            "Tenaga air",
+            "Tenaga batu bara",
+            "Bensin",
+            "Minyak tanah"
+          ],
+          "answer": "Tenaga air",
+          "discussion": "Aliran sungai yang sesuai dapat dimanfaatkan untuk pembangkit listrik tenaga air."
+        },
+        {
+          "id": "IPAS-B05-M01-022",
+          "type": "PG",
+          "text": "Kelemahan pemanfaatan energi surya adalah ...",
+          "options": [
+            "Tidak membutuhkan teknologi",
+            "Produksi listrik dapat dipengaruhi cuaca dan biaya teknologi masih besar",
+            "Tidak dapat menghasilkan listrik",
+            "Hanya dapat digunakan pada malam hari"
+          ],
+          "answer": "Produksi listrik dapat dipengaruhi cuaca dan biaya teknologi masih besar",
+          "discussion": "Energi surya dipengaruhi kondisi cuaca dan teknologi pembangkitnya membutuhkan biaya."
+        },
+        {
+          "id": "IPAS-B05-M01-023",
+          "type": "PG",
+          "text": "Mengapa satu jenis energi terbarukan belum tentu cocok untuk semua daerah?",
+          "options": [
+            "Karena energi terbarukan tidak membutuhkan alam",
+            "Karena semua daerah memiliki cuaca sama",
+            "Karena setiap daerah memiliki potensi alam dan kondisi berbeda",
+            "Karena semua pembangkit harus berada di laut"
+          ],
+          "answer": "Karena setiap daerah memiliki potensi alam dan kondisi berbeda",
+          "discussion": "Pemilihan sumber energi perlu mempertimbangkan potensi alam setempat."
+        },
+        {
+          "id": "IPAS-B05-M01-024",
+          "type": "PG",
+          "text": "Energi bersih penting dikembangkan karena dapat ...",
+          "options": [
+            "Menambah asap di udara",
+            "Menghabiskan sumber daya lebih cepat",
+            "Meningkatkan pemborosan listrik",
+            "Mengurangi polusi udara dari penggunaan energi"
+          ],
+          "answer": "Mengurangi polusi udara dari penggunaan energi",
+          "discussion": "Penggunaan energi yang lebih bersih membantu mengurangi polusi udara."
+        },
+        {
+          "id": "IPAS-B05-M01-025",
+          "type": "PG",
+          "text": "Pernyataan yang tepat tentang energi terbarukan adalah ...",
+          "options": [
+            "Sumbernya dapat diperbarui, tetapi dampak lingkungannya tetap perlu diperhatikan",
+            "Semua jenisnya pasti tidak menghasilkan emisi sama sekali",
+            "Hanya berasal dari minyak bumi",
+            "Tidak membutuhkan biaya dan teknologi"
+          ],
+          "answer": "Sumbernya dapat diperbarui, tetapi dampak lingkungannya tetap perlu diperhatikan",
+          "discussion": "Energi terbarukan dapat diperbarui, tetapi beberapa pemanfaatannya tetap dapat menghasilkan emisi atau dampak lain."
+        },
+        {
+          "id": "IPAS-B05-M01-026",
+          "type": "PG",
+          "text": "Pembakaran biogas atau biodiesel masih dapat menghasilkan ...",
+          "options": [
+            "Cahaya Matahari",
+            "Karbon dioksida",
+            "Air laut",
+            "Batu bara"
+          ],
+          "answer": "Karbon dioksida",
+          "discussion": "Biogas dan biodiesel tetap dapat menghasilkan CO₂ ketika digunakan sebagai bahan bakar."
+        },
+        {
+          "id": "IPAS-B05-M01-027",
+          "type": "PG",
+          "text": "Hubungan penggunaan bahan bakar fosil dan perubahan iklim adalah ...",
+          "options": [
+            "Bahan bakar fosil menyerap seluruh panas Matahari",
+            "Pembakarannya menghilangkan semua gas rumah kaca",
+            "Pembakarannya dapat menambah CO₂ di atmosfer",
+            "Tidak ada hubungan sama sekali"
+          ],
+          "answer": "Pembakarannya dapat menambah CO₂ di atmosfer",
+          "discussion": "CO₂ dari pembakaran bahan bakar fosil memperkuat efek rumah kaca dan berkontribusi pada perubahan iklim."
+        },
+        {
+          "id": "IPAS-B05-M01-028",
+          "type": "PG",
+          "text": "Mengapa energi fosil masih banyak digunakan saat ini?",
+          "options": [
+            "Energi terbarukan tidak dapat dimanfaatkan",
+            "Energi fosil tidak pernah habis",
+            "Energi fosil tidak menghasilkan polusi",
+            "Teknologi dan infrastrukturnya sudah banyak tersedia"
+          ],
+          "answer": "Teknologi dan infrastrukturnya sudah banyak tersedia",
+          "discussion": "Energi fosil masih menjadi sumber utama karena teknologi dan infrastrukturnya telah lama berkembang."
+        },
+        {
+          "id": "IPAS-B05-M01-029",
+          "type": "PG",
+          "text": "PLTS terapung Cirata memanfaatkan sumber energi ...",
+          "options": [
+            "Matahari",
+            "Angin",
+            "Batu bara",
+            "Panas bumi"
+          ],
+          "answer": "Matahari",
+          "discussion": "PLTS adalah Pembangkit Listrik Tenaga Surya yang memanfaatkan cahaya Matahari."
+        },
+        {
+          "id": "IPAS-B05-M01-030",
+          "type": "PG",
+          "text": "Mengapa PLTS terapung dapat membantu mengatasi keterbatasan lahan?",
+          "options": [
+            "Panel surya ditanam di bawah tanah",
+            "Panel surya ditempatkan di atas permukaan air",
+            "Panel surya dipasang di dalam rumah",
+            "Panel surya menggantikan seluruh waduk"
+          ],
+          "answer": "Panel surya ditempatkan di atas permukaan air",
+          "discussion": "Penempatan panel di atas air mengurangi kebutuhan lahan daratan."
+        },
+        {
+          "id": "IPAS-B05-M01-031",
+          "type": "PG",
+          "text": "Hidrogen dalam pembahasan energi masa depan dapat dimanfaatkan sebagai ...",
+          "options": [
+            "Pengganti sinar Matahari",
+            "Bahan pembuat batu bara",
+            "Bahan bakar",
+            "Sumber angin"
+          ],
+          "answer": "Bahan bakar",
+          "discussion": "Hidrogen dapat dimanfaatkan sebagai bahan bakar untuk kendaraan atau pembangkit tertentu."
+        },
+        {
+          "id": "IPAS-B05-M01-032",
+          "type": "PG",
+          "text": "Jika listrik sekolah berasal dari panel surya, energi awal yang dimanfaatkan adalah ...",
+          "options": [
+            "Energi kimia makanan",
+            "Energi gerak siswa",
+            "Energi bunyi bel",
+            "Energi cahaya Matahari"
+          ],
+          "answer": "Energi cahaya Matahari",
+          "discussion": "Panel surya mengubah cahaya Matahari menjadi listrik."
+        },
+        {
+          "id": "IPAS-B05-M01-033",
+          "type": "PG",
+          "text": "Menggunakan transportasi umum dapat membantu menghemat energi karena ...",
+          "options": [
+            "Satu kendaraan dapat mengangkut banyak penumpang",
+            "Semua penumpang harus membawa kendaraan sendiri",
+            "Transportasi umum tidak membutuhkan energi",
+            "Kendaraan umum selalu berjalan tanpa bahan bakar"
+          ],
+          "answer": "Satu kendaraan dapat mengangkut banyak penumpang",
+          "discussion": "Penggunaan satu kendaraan untuk banyak orang dapat mengurangi jumlah kendaraan pribadi yang digunakan."
+        },
+        {
+          "id": "IPAS-B05-M01-034",
+          "type": "PG",
+          "text": "Tindakan yang paling tepat saat ruang kelas mendapat cukup cahaya Matahari adalah ...",
+          "options": [
+            "Menyalakan semua lampu",
+            "Mematikan lampu yang tidak diperlukan",
+            "Menutup semua jendela",
+            "Membiarkan lampu menyala setelah pulang"
+          ],
+          "answer": "Mematikan lampu yang tidak diperlukan",
+          "discussion": "Memanfaatkan cahaya alami dan mematikan lampu yang tidak diperlukan menghemat listrik."
+        },
+        {
+          "id": "IPAS-B05-M01-035",
+          "type": "PG",
+          "text": "Pembangunan pembangkit energi terbarukan tetap perlu perencanaan karena ...",
+          "options": [
+            "Selalu dapat dibangun di semua tempat",
+            "Tidak memiliki dampak apa pun",
+            "Membutuhkan lokasi, biaya, teknologi, dan perawatan",
+            "Tidak memerlukan tenaga ahli"
+          ],
+          "answer": "Membutuhkan lokasi, biaya, teknologi, dan perawatan",
+          "discussion": "Setiap teknologi energi memiliki kebutuhan lokasi, biaya, teknologi, dan perawatan."
+        },
+        {
+          "id": "IPAS-B05-M01-036",
+          "type": "PG",
+          "text": "Sebuah daerah mengalami pemadaman listrik karena pasokan batu bara terganggu. Pelajaran yang paling tepat dari peristiwa ini adalah ...",
+          "options": [
+            "Daerah itu tidak membutuhkan energi",
+            "Semua sumber energi terbarukan harus dihentikan",
+            "Penggunaan listrik harus ditambah",
+            "Masyarakat perlu mengembangkan sumber energi beragam dan menghemat energi"
+          ],
+          "answer": "Masyarakat perlu mengembangkan sumber energi beragam dan menghemat energi",
+          "discussion": "Ketergantungan pada satu sumber energi dapat menimbulkan risiko; diversifikasi dan penghematan membantu ketahanan energi."
+        },
+        {
+          "id": "IPAS-B05-M01-037",
+          "type": "PG",
+          "text": "Desa A memiliki sinar Matahari melimpah tetapi aliran sungainya kecil. Desa B memiliki sungai deras dan stabil tetapi sering mendung. Pilihan yang paling masuk akal adalah ...",
+          "options": [
+            "Desa A mengkaji PLTS dan Desa B mengkaji tenaga air",
+            "Keduanya hanya boleh menggunakan batu bara",
+            "Desa A membangun PLTA tanpa air dan Desa B memasang panel di sungai",
+            "Keduanya tidak dapat memakai energi terbarukan"
+          ],
+          "answer": "Desa A mengkaji PLTS dan Desa B mengkaji tenaga air",
+          "discussion": "Sumber energi sebaiknya disesuaikan dengan potensi alam masing-masing daerah."
+        },
+        {
+          "id": "IPAS-B05-M01-038",
+          "type": "PG",
+          "text": "Sebuah sekolah ingin menurunkan penggunaan listrik. Program yang paling menyeluruh adalah ...",
+          "options": [
+            "Membeli lebih banyak lampu dan membiarkannya menyala",
+            "Mematikan lampu saat cukup terang, mematikan perangkat setelah dipakai, dan memanfaatkan ventilasi alami",
+            "Menyalakan AC saat ruangan kosong",
+            "Menggunakan listrik untuk hiasan sepanjang hari"
+          ],
+          "answer": "Mematikan lampu saat cukup terang, mematikan perangkat setelah dipakai, dan memanfaatkan ventilasi alami",
+          "discussion": "Kebiasaan hemat energi perlu dilakukan pada penerangan dan perangkat listrik lainnya."
+        },
+        {
+          "id": "IPAS-B05-M01-039",
+          "type": "PG",
+          "text": "Mengapa mengganti seluruh energi fosil dengan energi terbarukan tidak dapat dilakukan secara instan?",
+          "options": [
+            "Karena semua orang menolak energi bersih",
+            "Karena energi terbarukan tidak pernah tersedia",
+            "Pembangkit, jaringan, biaya, teknologi, dan kesiapan lokasi perlu disiapkan",
+            "Karena energi fosil dapat terbentuk dalam satu hari"
+          ],
+          "answer": "Pembangkit, jaringan, biaya, teknologi, dan kesiapan lokasi perlu disiapkan",
+          "discussion": "Peralihan energi membutuhkan pembangunan infrastruktur, teknologi, biaya, dan perencanaan."
+        },
+        {
+          "id": "IPAS-B05-M01-040",
+          "type": "PG",
+          "text": "Sebuah pabrik mengolah limbah organik menjadi biogas. Manfaat yang paling tepat adalah ...",
+          "options": [
+            "Mengubah limbah organik menjadi sinar Matahari",
+            "Membuat limbah hilang tanpa proses",
+            "Menghasilkan energi tanpa bahan baku",
+            "Mengubah sebagian limbah menjadi sumber energi yang berguna"
+          ],
+          "answer": "Mengubah sebagian limbah menjadi sumber energi yang berguna",
+          "discussion": "Biogas memanfaatkan bahan organik sehingga limbah dapat menjadi sumber energi."
+        },
+        {
+          "id": "IPAS-B05-M01-041",
+          "type": "PG",
+          "text": "Mengapa energi bersih tidak selalu sama artinya dengan energi yang sama sekali tanpa dampak lingkungan?",
+          "options": [
+            "Pembangunan dan penggunaan teknologi energi tetap dapat memiliki dampak yang perlu dikelola",
+            "Semua energi bersih pasti merusak lingkungan",
+            "Energi bersih hanya nama lain batu bara",
+            "Energi bersih tidak menggunakan alat"
+          ],
+          "answer": "Pembangunan dan penggunaan teknologi energi tetap dapat memiliki dampak yang perlu dikelola",
+          "discussion": "Dampak pembangunan, bahan baku, dan proses penggunaan tetap perlu diperhatikan."
+        },
+        {
+          "id": "IPAS-B05-M01-042",
+          "type": "PG",
+          "text": "Jika penggunaan batu bara meningkat sementara pembakaran tidak dikendalikan, dampak yang mungkin terjadi adalah ...",
+          "options": [
+            "Berkurangnya seluruh CO₂ di atmosfer",
+            "Peningkatan emisi dan polusi udara",
+            "Hilangnya kebutuhan energi",
+            "Turunnya suhu Bumi secara pasti"
+          ],
+          "answer": "Peningkatan emisi dan polusi udara",
+          "discussion": "Pembakaran batu bara dapat menghasilkan polutan dan CO₂."
+        },
+        {
+          "id": "IPAS-B05-M01-043",
+          "type": "PG",
+          "text": "Kota pesisir ingin membangun pembangkit energi gelombang laut. Hal yang perlu dikaji sebelum membangun adalah ...",
+          "options": [
+            "Jumlah kendaraan di pegunungan",
+            "Warna rumah penduduk saja",
+            "Pola gelombang, lokasi, teknologi, biaya, dan dampak terhadap lingkungan",
+            "Jarak kota dari gurun pasir saja"
+          ],
+          "answer": "Pola gelombang, lokasi, teknologi, biaya, dan dampak terhadap lingkungan",
+          "discussion": "Pembangkit energi laut memerlukan kondisi gelombang yang sesuai serta kajian biaya dan lingkungan."
+        },
+        {
+          "id": "IPAS-B05-M01-044",
+          "type": "PG",
+          "text": "Sebuah keluarga berpendapat bahwa karena listrik berasal dari energi terbarukan, mereka tidak perlu menghemat listrik. Tanggapan paling tepat adalah ...",
+          "options": [
+            "Tidak perlu mematikan alat apa pun",
+            "Benar, energi terbarukan tidak memiliki batas penggunaan",
+            "Benar, semua alat listrik menghasilkan energi sendiri",
+            "Tetap perlu hemat karena pembangkit dan sumber daya memiliki batas serta biaya"
+          ],
+          "answer": "Tetap perlu hemat karena pembangkit dan sumber daya memiliki batas serta biaya",
+          "discussion": "Energi terbarukan bukan alasan untuk boros; penghematan tetap mengurangi kebutuhan sumber daya dan biaya."
+        },
+        {
+          "id": "IPAS-B05-M01-045",
+          "type": "PG",
+          "text": "Sebuah wilayah memiliki potensi panas bumi. Mengapa sumber tersebut dapat menjadi pilihan energi lokal?",
+          "options": [
+            "Panas dari dalam Bumi dapat dimanfaatkan untuk menghasilkan uap penggerak turbin",
+            "Panas bumi berasal dari panel surya",
+            "Panas bumi hanya dapat digunakan untuk kendaraan kayuh",
+            "Panas bumi terbentuk dari angin laut"
+          ],
+          "answer": "Panas dari dalam Bumi dapat dimanfaatkan untuk menghasilkan uap penggerak turbin",
+          "discussion": "Panas bumi dapat dimanfaatkan melalui uap untuk menggerakkan turbin pembangkit."
+        },
+        {
+          "id": "IPAS-B05-M01-046",
+          "type": "PG",
+          "text": "Dua pilihan pembangkit dibandingkan. Pembangkit X menghasilkan listrik dari angin, sedangkan Y membakar batu bara. Perbedaan penting saat pembangkitan listrik adalah ...",
+          "options": [
+            "X menghasilkan listrik dari batu bara, Y dari angin",
+            "X tidak memerlukan pembakaran bahan bakar untuk memutar turbin, sedangkan Y membakar batu bara",
+            "Keduanya selalu menghasilkan polusi dalam jumlah sama",
+            "Y tidak membutuhkan bahan bakar"
+          ],
+          "answer": "X tidak memerlukan pembakaran bahan bakar untuk memutar turbin, sedangkan Y membakar batu bara",
+          "discussion": "Turbin angin memanfaatkan gerak angin, sedangkan PLTU batu bara membakar bahan bakar fosil."
+        },
+        {
+          "id": "IPAS-B05-M01-047",
+          "type": "PG",
+          "text": "Sebuah daerah memiliki panel surya, tetapi produksi listrik menurun saat langit tertutup awan tebal. Kesimpulan yang tepat adalah ...",
+          "options": [
+            "Awan mengubah panel surya menjadi turbin angin",
+            "Panel surya hanya bekerja saat malam",
+            "Kinerja energi surya dipengaruhi jumlah cahaya Matahari yang diterima",
+            "Energi Matahari termasuk energi fosil"
+          ],
+          "answer": "Kinerja energi surya dipengaruhi jumlah cahaya Matahari yang diterima",
+          "discussion": "Intensitas cahaya yang diterima panel memengaruhi produksi listrik."
+        },
+        {
+          "id": "IPAS-B05-M01-048",
+          "type": "PG",
+          "text": "Seorang siswa mengusulkan menanam tanaman penghasil bahan baku biodiesel di seluruh lahan pertanian pangan. Apa pertimbangan kritis yang sebaiknya disampaikan?",
+          "options": [
+            "Kebutuhan pangan tidak penting",
+            "Semua lahan pangan harus diubah menjadi kebun energi",
+            "Biodiesel tidak membutuhkan bahan baku",
+            "Pemanfaatan lahan perlu menyeimbangkan kebutuhan energi, pangan, dan lingkungan"
+          ],
+          "answer": "Pemanfaatan lahan perlu menyeimbangkan kebutuhan energi, pangan, dan lingkungan",
+          "discussion": "Pengembangan biofuel perlu mempertimbangkan persaingan penggunaan lahan dan kebutuhan pangan."
+        },
+        {
+          "id": "IPAS-B05-M01-049",
+          "type": "PG",
+          "text": "Mengapa mengurangi pemborosan energi dapat membantu masa depan meskipun pembangkit energi bersih terus dibangun?",
+          "options": [
+            "Kebutuhan energi yang lebih efisien mengurangi tekanan pada sumber daya dan sistem pembangkit",
+            "Karena pembangkit energi bersih tidak dapat menghasilkan listrik",
+            "Karena penghematan membuat energi fosil terbentuk lebih cepat",
+            "Karena semua alat akan berhenti bekerja"
+          ],
+          "answer": "Kebutuhan energi yang lebih efisien mengurangi tekanan pada sumber daya dan sistem pembangkit",
+          "discussion": "Efisiensi energi mengurangi kebutuhan pasokan dan membantu penggunaan sumber daya secara bijak."
+        },
+        {
+          "id": "IPAS-B05-M01-050",
+          "type": "PG",
+          "text": "Sebuah kota ingin memilih program energi masa depan. Usulan terbaik adalah ...",
+          "options": [
+            "Mengandalkan satu bahan bakar fosil tanpa batas",
+            "Mengembangkan sumber terbarukan sesuai potensi lokal, mengurangi polusi, dan mengajak warga hemat energi",
+            "Menghentikan semua kegiatan yang memakai energi",
+            "Membangun pembangkit tanpa menilai dampaknya"
+          ],
+          "answer": "Mengembangkan sumber terbarukan sesuai potensi lokal, mengurangi polusi, dan mengajak warga hemat energi",
+          "discussion": "Strategi energi yang baik menggabungkan pemilihan sumber sesuai potensi, pengurangan polusi, dan penghematan."
+        }
+      ]
+    }
+  ]
+}
