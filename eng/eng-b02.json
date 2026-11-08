@@ -139,7 +139,12 @@
             "Clip your nails."
           ],
           "answer": "Wash your hands.",
-          "discussion": "Wash your hands is an instruction to clean your hands."
+          "discussion": "Wash your hands is an instruction to clean your hands.",
+          "audio": {
+            "type": "speech",
+            "text": "Wash your hands",
+            "label": "▶ LISTEN"
+          }
         },
         {
           "id": "ENG-B02-010",
@@ -152,7 +157,12 @@
             "Cough"
           ],
           "answer": "Rinse",
-          "discussion": "Rinse means membilas with clean water."
+          "discussion": "Rinse means membilas with clean water.",
+          "audio": {
+            "type": "speech",
+            "text": "Rinse",
+            "label": "▶ LISTEN"
+          }
         },
         {
           "id": "ENG-B02-011",
@@ -320,7 +330,12 @@
             "brushed"
           ],
           "answer": "brush",
-          "discussion": "The correct pattern is should + base verb: should brush."
+          "discussion": "The correct pattern is should + base verb: should brush.",
+          "audio": {
+            "type": "speech",
+            "text": "You should brush your teeth",
+            "label": "▶ LISTEN"
+          }
         },
         {
           "id": "ENG-B02-023",
@@ -411,7 +426,7 @@
             "Usually"
           ],
           "answer": "Always",
-          "discussion": "Always means selalu."
+          "discussion": "Always means selalu. Use it to describe a habit that happens every time or on every occasion."
         },
         {
           "id": "ENG-B02-030",
@@ -502,7 +517,7 @@
             "usually"
           ],
           "answer": "usually",
-          "discussion": "Usually means biasanya."
+          "discussion": "Usually means biasanya. It describes something that happens regularly, but not necessarily every single time."
         },
         {
           "id": "ENG-B02-037",
