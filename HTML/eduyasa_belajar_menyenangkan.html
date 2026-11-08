@@ -179,6 +179,10 @@ button.secondary { background: white; color: var(--text); border: 2px solid var(
 .materi-content h3 { font-size: 15px; margin-bottom: 10px; color: var(--text); }
 .materi-item { border-bottom: 2px dashed var(--border); padding-bottom: 20px; margin-bottom: 20px; }
 .materi-item:last-child { border-bottom: none; padding-bottom: 0; margin-bottom: 0; }
+.module-image { margin: 14px auto; text-align: center; }
+.module-inline-image { display: block; width: 100%; max-width: 720px; height: auto; margin: 0 auto; border-radius: 14px; }
+.quiz-question-image-wrap { margin: 12px 0 22px; text-align: center; }
+.quiz-question-image { display: block; width: 100%; max-width: 680px; max-height: 360px; object-fit: contain; margin: 0 auto; border-radius: 14px; background: #f8fafc; }
 .materi-text-content { background: #f8fafc; padding: 18px; border-radius: 12px; border: 1px solid var(--border); white-space: pre-wrap; line-height: 1.8; font-size: 15px; color: var(--text); }
 .materi-text-content p { margin-top: 0; margin-bottom: 15px; }
 .materi-text-content h1, .materi-text-content h2, .materi-text-content h3 { color: var(--primary); margin-top: 20px; margin-bottom: 10px; }
@@ -348,6 +352,7 @@ footer {
       </div>
       <div class="progress-bar"><div class="progress-fill" id="quizQProgress"></div></div>
       <div class="quiz-question" id="quizQText">Memuat pertanyaan...</div>
+      <div id="quizQImage" class="quiz-question-image-wrap"></div>
       <div id="quizOptions"></div>
       <div class="explanation-box hidden" id="quizExplanation"></div>
       <button class="primary" id="btnQuizAction" disabled style="margin-top:25px;">KOREKSI JAWABAN</button>
@@ -459,7 +464,7 @@ const subjects = [
     ]
   },
   {id:"PKN",name:"Pendidikan Pancasila",icon:"🇮🇩",chapters:[]},
-  {id:"ENG",name:"Bahasa Inggris",icon:"🔤",chapters:[]},
+  {id:"ENG",name:"Bahasa Inggris",icon:"🔤",chapters:["Healthy Vegetables"]},
   {id:"PAI",name:"Pendidikan Agama Islam",icon:"📖",chapters:[]},
   {id:"SBD",name:"Seni Budaya dan Prakarya",icon:"🎨",chapters:[]},
   {id:"PJK",name:"PJOK",icon:"⚽",chapters:[]}
@@ -480,6 +485,36 @@ let currentDisplayOptions = [];
 let quizAnswerResults = [];
 let audioCtx = null;
 
+function renderModuleMarkdown(markdown) {
+  const escapeHtml = (value) => String(value).split("&").join("&amp;").split("<").join("&lt;").split(">").join("&gt;").split(String.fromCharCode(34)).join("&quot;");
+  const inline = (value) => {
+    const parts = String(value).split("**");
+    return parts.map((part, index) => index % 2 ? "<strong>" + escapeHtml(part) + "</strong>" : escapeHtml(part)).join("");
+  };
+  const lines = String(markdown || "").split(String.fromCharCode(10));
+  let html = "";
+  let inList = false;
+  for (const line of lines) {
+    const t = line.trim();
+    if (!t) { if (inList) { html += "</ul>"; inList = false; } continue; }
+    if (t.startsWith("![")) {
+      if (inList) { html += "</ul>"; inList = false; }
+      const closeAlt = t.indexOf("](");
+      const closeUrl = t.lastIndexOf(")");
+      if (closeAlt > 1 && closeUrl > closeAlt + 2) {
+        const alt = t.substring(2, closeAlt);
+        const src = t.substring(closeAlt + 2, closeUrl);
+        html += '<figure class="module-image"><img class="module-inline-image" src="' + escapeHtml(src) + '" alt="' + escapeHtml(alt) + '" loading="lazy"></figure>';
+      }
+    } else if (t.startsWith("### ")) { if (inList) { html += "</ul>"; inList = false; } html += "<h4>" + inline(t.substring(4)) + "</h4>"; }
+    else if (t.startsWith("## ")) { if (inList) { html += "</ul>"; inList = false; } html += "<h3>" + inline(t.substring(3)) + "</h3>"; }
+    else if (t.startsWith("# ")) { if (inList) { html += "</ul>"; inList = false; } html += "<h2>" + inline(t.substring(2)) + "</h2>"; }
+    else if (t.startsWith("- ")) { if (!inList) { html += "<ul>"; inList = true; } html += "<li>" + inline(t.substring(2)) + "</li>"; }
+    else { if (inList) { html += "</ul>"; inList = false; } html += "<p>" + inline(t) + "</p>"; }
+  }
+  if (inList) html += "</ul>";
+  return html;
+}
 async function renderMath(elementId) {
   if (window.MathJax && window.MathJax.typesetPromise) {
     if (MathJax.typesetClear) {
@@ -787,7 +822,7 @@ async function fetchMateri() {
               Modul Terpilih: <strong>${modTitle}</strong> (Versi ${modVersion})
             </div>
             <div class="materi-text-content">
-              ${modContent}
+              ${renderModuleMarkdown(modContent)}
             </div>
           </div>
         `;
@@ -932,6 +967,7 @@ document.getElementById('btnStartQuiz').onclick = async () => {
               options: cleanOptions,
               correctText: correctText,
               explanation: q.discussion || q.explanation || q.pembahasan || "Tidak ada pembahasan yang tersedia untuk soal ini.",
+              image: q.image || null,
               mapel: subject.name,
               bab: `Bab ${chapNum}`
             });
@@ -992,6 +1028,20 @@ async function renderQuizQuestion() {
   document.getElementById('quizQProgress').style.width = `${((currentQuestionIndex) / 20) * 100}%`;
   document.getElementById('quizQMapel').textContent = `${q.mapel} - ${q.bab}`;
   document.getElementById('quizQText').textContent = q.text;
+
+  const imageContainer = document.getElementById('quizQImage');
+  imageContainer.innerHTML = '';
+  if (q.image) {
+    const imageData = typeof q.image === 'string' ? { src: q.image, alt: 'Ilustrasi soal' } : q.image;
+    if (imageData.src) {
+      const questionImage = document.createElement('img');
+      questionImage.src = imageData.src;
+      questionImage.alt = imageData.alt || 'Ilustrasi soal';
+      questionImage.loading = 'lazy';
+      questionImage.className = 'quiz-question-image';
+      imageContainer.appendChild(questionImage);
+    }
+  }
 
   const optContainer = document.getElementById('quizOptions');
   optContainer.innerHTML = '';
