@@ -14,9 +14,9 @@
           "text": "Apa arti Asmaulhusna?",
           "options": [
             "Nama-nama Allah yang indah",
-            "Nama malaikat",
-            "Nama kitab sejarah",
-            "Nama para nabi saja"
+            "Nama para malaikat",
+            "Nama kitab-kitab Allah",
+            "Nama para nabi"
           ],
           "answer": "Nama-nama Allah yang indah",
           "discussion": "Asmaulhusna berarti nama-nama Allah yang indah."
@@ -24,383 +24,379 @@
         {
           "id": "PAI-B02-Q002",
           "type": "PG",
-          "text": "Dalam kuis bab Allah Swt. Maha Segalanya, pertanyaan yang harus kamu jawab adalah: apa arti Asmaulhusna?",
+          "text": "Al-Gaffār memiliki arti ...",
           "options": [
-            "Nama para nabi saja",
-            "Nama-nama Allah yang indah",
-            "Nama malaikat",
-            "Nama kitab sejarah"
+            "Maha Esa",
+            "Maha Pengampun",
+            "Maha Pemberi Rezeki",
+            "Maha Mengetahui"
           ],
-          "answer": "Nama-nama Allah yang indah",
-          "discussion": "Asmaulhusna berarti nama-nama Allah yang indah."
+          "answer": "Maha Pengampun",
+          "discussion": "Al-Gaffār bermakna Maha Pengampun."
         },
         {
           "id": "PAI-B02-Q003",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Allah Swt. Maha Segalanya, jawablah pertanyaan berikut: Apa arti Asmaulhusna?",
+          "text": "Al-‘Afuw berkaitan dengan makna ...",
           "options": [
-            "Nama kitab sejarah",
-            "Nama para nabi saja",
-            "Nama-nama Allah yang indah",
-            "Nama malaikat"
+            "Memberi hukuman kepada semua orang",
+            "Menciptakan alam semesta",
+            "Menghapus kesalahan dan memaafkan",
+            "Menguasai seluruh kerajaan"
           ],
-          "answer": "Nama-nama Allah yang indah",
-          "discussion": "Asmaulhusna berarti nama-nama Allah yang indah."
+          "answer": "Menghapus kesalahan dan memaafkan",
+          "discussion": "Al-‘Afuw berasal dari makna menghapus atau memaafkan kesalahan."
         },
         {
           "id": "PAI-B02-Q004",
           "type": "PG",
-          "text": "Perhatikan bagan Asmaulhusna. Nama Allah yang berarti Maha Pengampun adalah ...",
+          "text": "Al-Wāḥid berarti Allah Maha ...",
           "options": [
-            "Maha Kaya",
-            "Maha Mendengar",
-            "Maha Esa",
-            "Maha Pengampun"
+            "Kuat",
+            "Kaya",
+            "Penyayang",
+            "Esa"
           ],
-          "answer": "Maha Pengampun",
-          "discussion": "Al-Gaffār berarti Allah Maha Pengampun.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/asmaulhusna.svg",
-            "alt": "Bagan empat Asmaulhusna dan maknanya"
-          }
+          "answer": "Esa",
+          "discussion": "Al-Wāḥid berarti Allah satu dan tidak memiliki sekutu."
         },
         {
           "id": "PAI-B02-Q005",
           "type": "PG",
-          "text": "Dalam kuis bab Allah Swt. Maha Segalanya, pertanyaan yang harus kamu jawab adalah: apa arti Al-Gaffār?",
+          "text": "Apa makna Al-Ṣamad?",
           "options": [
-            "Maha Pengampun",
-            "Maha Esa",
-            "Maha Kaya",
-            "Maha Mendengar"
+            "Tempat bergantung dan memohon segala sesuatu",
+            "Yang selalu tidur",
+            "Yang membutuhkan bantuan makhluk",
+            "Yang memiliki anak"
           ],
-          "answer": "Maha Pengampun",
-          "discussion": "Al-Gaffār berarti Allah Maha Pengampun."
+          "answer": "Tempat bergantung dan memohon segala sesuatu",
+          "discussion": "Al-Ṣamad berarti semua makhluk bergantung kepada Allah."
         },
         {
           "id": "PAI-B02-Q006",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Allah Swt. Maha Segalanya, jawablah pertanyaan berikut: Apa arti Al-Gaffār?",
+          "text": "Ketika seseorang memohon ampun setelah berbuat salah, ia mengingat Asmaulhusna ...",
           "options": [
-            "Maha Esa",
-            "Maha Pengampun",
-            "Maha Kaya",
-            "Maha Mendengar"
+            "Al-Wāḥid",
+            "Al-Gaffār",
+            "Al-Ṣamad",
+            "Al-Baṣīr"
           ],
-          "answer": "Maha Pengampun",
-          "discussion": "Al-Gaffār berarti Allah Maha Pengampun."
+          "answer": "Al-Gaffār",
+          "discussion": "Al-Gaffār mengingatkan bahwa Allah Maha Pengampun."
         },
         {
           "id": "PAI-B02-Q007",
           "type": "PG",
-          "text": "Apa arti Al-‘Afuw?",
+          "text": "Sikap yang mencerminkan pemahaman terhadap Al-Wāḥid adalah ...",
           "options": [
-            "Maha Pencipta",
-            "Maha Mengetahui",
-            "Maha Pemaaf atau Maha Menghapus kesalahan",
-            "Maha Memberi rezeki"
+            "Meminta pertolongan kepada benda keramat",
+            "Menyamakan Allah dengan makhluk",
+            "Meyakini hanya Allah yang Maha Esa dan tidak menyekutukan-Nya",
+            "Menganggap banyak tuhan memiliki kuasa yang sama"
           ],
-          "answer": "Maha Pemaaf atau Maha Menghapus kesalahan",
-          "discussion": "Al-‘Afuw berkaitan dengan memaafkan dan menghapus kesalahan."
+          "answer": "Meyakini hanya Allah yang Maha Esa dan tidak menyekutukan-Nya",
+          "discussion": "Al-Wāḥid menguatkan keyakinan bahwa Allah Maha Esa."
         },
         {
           "id": "PAI-B02-Q008",
           "type": "PG",
-          "text": "Dalam kuis bab Allah Swt. Maha Segalanya, pertanyaan yang harus kamu jawab adalah: apa arti Al-‘Afuw?",
+          "text": "Saat menghadapi kesulitan, makna Al-Ṣamad mengajarkan kita untuk ...",
           "options": [
-            "Maha Memberi rezeki",
-            "Maha Pencipta",
-            "Maha Mengetahui",
-            "Maha Pemaaf atau Maha Menghapus kesalahan"
+            "Berhenti berusaha selamanya",
+            "Meminta semua orang menyelesaikan masalah",
+            "Menyalahkan keadaan",
+            "Berdoa dan bergantung kepada Allah"
           ],
-          "answer": "Maha Pemaaf atau Maha Menghapus kesalahan",
-          "discussion": "Al-‘Afuw berkaitan dengan memaafkan dan menghapus kesalahan."
+          "answer": "Berdoa dan bergantung kepada Allah",
+          "discussion": "Semua makhluk membutuhkan Allah dan memohon pertolongan kepada-Nya."
         },
         {
           "id": "PAI-B02-Q009",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Allah Swt. Maha Segalanya, jawablah pertanyaan berikut: Apa arti Al-‘Afuw?",
+          "text": "Mengapa manusia tidak boleh berputus asa dari ampunan Allah?",
           "options": [
-            "Maha Pemaaf atau Maha Menghapus kesalahan",
-            "Maha Mengetahui",
-            "Maha Memberi rezeki",
-            "Maha Pencipta"
+            "Allah Maha Pengampun bagi hamba yang bertobat",
+            "Manusia tidak pernah melakukan kesalahan",
+            "Semua kesalahan tidak perlu diperbaiki",
+            "Ampunan hanya untuk orang yang tidak pernah salah"
           ],
-          "answer": "Maha Pemaaf atau Maha Menghapus kesalahan",
-          "discussion": "Al-‘Afuw berkaitan dengan memaafkan dan menghapus kesalahan."
+          "answer": "Allah Maha Pengampun bagi hamba yang bertobat",
+          "discussion": "Allah membuka ampunan bagi hamba yang sungguh-sungguh bertobat."
         },
         {
           "id": "PAI-B02-Q010",
           "type": "PG",
-          "text": "Apa arti Al-Wāḥid?",
+          "text": "Langkah pertama ketika menyadari telah berbuat salah adalah ...",
           "options": [
-            "Maha Pemaaf",
-            "Maha Esa",
-            "Tempat bergantung",
-            "Maha Pengampun"
+            "Menyalahkan orang lain",
+            "Mengakui kesalahan",
+            "Menyembunyikan bukti",
+            "Mengulangi perbuatan"
           ],
-          "answer": "Maha Esa",
-          "discussion": "Al-Wāḥid berarti Allah Maha Esa."
+          "answer": "Mengakui kesalahan",
+          "discussion": "Tobat dimulai dengan menyadari dan mengakui kesalahan."
         },
         {
           "id": "PAI-B02-Q011",
           "type": "PG",
-          "text": "Dalam kuis bab Allah Swt. Maha Segalanya, pertanyaan yang harus kamu jawab adalah: apa arti Al-Wāḥid?",
+          "text": "Mengapa penyesalan penting dalam bertobat?",
           "options": [
-            "Maha Pengampun",
-            "Maha Pemaaf",
-            "Maha Esa",
-            "Tempat bergantung"
+            "Agar orang lain merasa takut",
+            "Supaya kesalahan dapat diulang",
+            "Menunjukkan kesadaran bahwa perbuatan itu salah",
+            "Agar tidak perlu meminta maaf"
           ],
-          "answer": "Maha Esa",
-          "discussion": "Al-Wāḥid berarti Allah Maha Esa."
+          "answer": "Menunjukkan kesadaran bahwa perbuatan itu salah",
+          "discussion": "Penyesalan yang tulus merupakan bagian dari tobat."
         },
         {
           "id": "PAI-B02-Q012",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Allah Swt. Maha Segalanya, jawablah pertanyaan berikut: Apa arti Al-Wāḥid?",
+          "text": "Setelah menyesali kesalahan, tindakan yang harus dilakukan adalah ...",
           "options": [
-            "Maha Pengampun",
-            "Maha Pemaaf",
-            "Tempat bergantung",
-            "Maha Esa"
+            "Menceritakan kesalahan sebagai kebanggaan",
+            "Mencari teman untuk mengulanginya",
+            "Menunggu orang lain meminta maaf",
+            "Berhenti melakukan kesalahan tersebut"
           ],
-          "answer": "Maha Esa",
-          "discussion": "Al-Wāḥid berarti Allah Maha Esa."
+          "answer": "Berhenti melakukan kesalahan tersebut",
+          "discussion": "Tobat mengharuskan seseorang berhenti dari perbuatan salah."
         },
         {
           "id": "PAI-B02-Q013",
           "type": "PG",
-          "text": "Apa arti Al-Ṣamad?",
+          "text": "Apa arti bertekad tidak mengulangi kesalahan?",
           "options": [
-            "Tempat bergantung semua makhluk",
-            "Maha Melihat",
-            "Maha Menghidupkan",
-            "Maha Menghitung"
+            "Bersungguh-sungguh menjaga diri agar tidak mengulanginya",
+            "Berjanji tetapi sengaja mengulanginya",
+            "Melupakan akibat perbuatan",
+            "Menghindari orang yang menasihati"
           ],
-          "answer": "Tempat bergantung semua makhluk",
-          "discussion": "Al-Ṣamad berarti tempat bergantung dan memohon segala sesuatu."
+          "answer": "Bersungguh-sungguh menjaga diri agar tidak mengulanginya",
+          "discussion": "Tekad untuk tidak mengulangi kesalahan menunjukkan kesungguhan bertobat."
         },
         {
           "id": "PAI-B02-Q014",
           "type": "PG",
-          "text": "Dalam kuis bab Allah Swt. Maha Segalanya, pertanyaan yang harus kamu jawab adalah: apa arti Al-Ṣamad?",
+          "text": "Jika kesalahan kita merugikan teman dan mengambil barangnya, apa yang perlu dilakukan?",
           "options": [
-            "Maha Menghitung",
-            "Tempat bergantung semua makhluk",
-            "Maha Melihat",
-            "Maha Menghidupkan"
+            "Cukup berdoa tanpa mengembalikan barang",
+            "Meminta maaf dan mengembalikan barang tersebut",
+            "Menyembunyikan barang itu",
+            "Meminta teman melupakan kejadian"
           ],
-          "answer": "Tempat bergantung semua makhluk",
-          "discussion": "Al-Ṣamad berarti tempat bergantung dan memohon segala sesuatu."
+          "answer": "Meminta maaf dan mengembalikan barang tersebut",
+          "discussion": "Hak orang lain harus dipulihkan, termasuk mengembalikan barang yang diambil."
         },
         {
           "id": "PAI-B02-Q015",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Allah Swt. Maha Segalanya, jawablah pertanyaan berikut: Apa arti Al-Ṣamad?",
+          "text": "Seseorang berulang kali meminta ampun tetapi tetap sengaja melakukan kesalahan yang sama. Apa yang perlu diperbaiki?",
           "options": [
-            "Maha Menghidupkan",
-            "Maha Menghitung",
-            "Tempat bergantung semua makhluk",
-            "Maha Melihat"
+            "Cara menyebut nama Asmaulhusna saja",
+            "Jumlah teman yang mengetahui kesalahan",
+            "Kesungguhan tobat dan tekad meninggalkan kesalahan",
+            "Waktu bermainnya"
           ],
-          "answer": "Tempat bergantung semua makhluk",
-          "discussion": "Al-Ṣamad berarti tempat bergantung dan memohon segala sesuatu."
+          "answer": "Kesungguhan tobat dan tekad meninggalkan kesalahan",
+          "discussion": "Tobat harus disertai berhenti dari kesalahan dan tekad tidak mengulanginya."
         },
         {
           "id": "PAI-B02-Q016",
           "type": "PG",
-          "text": "Apa sikap sesuai keyakinan Al-Wāḥid?",
+          "text": "Apa yang dimaksud tabayyun?",
           "options": [
-            "Menyekutukan Allah",
-            "Menyembah banyak tuhan",
-            "Meminta perlindungan kepada benda",
-            "Menyembah Allah Yang Maha Esa"
+            "Menyebarkan berita secepat mungkin",
+            "Menerima semua kabar tanpa bertanya",
+            "Menghapus semua informasi",
+            "Memeriksa kebenaran informasi sebelum mempercayai atau menyebarkannya"
           ],
-          "answer": "Menyembah Allah Yang Maha Esa",
-          "discussion": "Al-Wāḥid menegaskan keesaan Allah."
+          "answer": "Memeriksa kebenaran informasi sebelum mempercayai atau menyebarkannya",
+          "discussion": "Tabayyun berarti memeriksa dan memastikan kebenaran suatu informasi."
         },
         {
           "id": "PAI-B02-Q017",
           "type": "PG",
-          "text": "Dalam kuis bab Allah Swt. Maha Segalanya, pertanyaan yang harus kamu jawab adalah: apa sikap sesuai keyakinan Al-Wāḥid?",
+          "text": "Di grup kelas beredar kabar buruk tentang seorang teman. Sikap tabayyun adalah ...",
           "options": [
-            "Menyembah Allah Yang Maha Esa",
-            "Meminta perlindungan kepada benda",
-            "Menyekutukan Allah",
-            "Menyembah banyak tuhan"
+            "Memeriksa kebenaran kabar dan tidak langsung menyebarkannya",
+            "Meneruskan kabar agar cepat viral",
+            "Menambahkan cerita yang belum pasti",
+            "Langsung menghukum teman itu"
           ],
-          "answer": "Menyembah Allah Yang Maha Esa",
-          "discussion": "Al-Wāḥid menegaskan keesaan Allah."
+          "answer": "Memeriksa kebenaran kabar dan tidak langsung menyebarkannya",
+          "discussion": "Tabayyun mencegah prasangka dan penyebaran berita yang belum jelas."
         },
         {
           "id": "PAI-B02-Q018",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Allah Swt. Maha Segalanya, jawablah pertanyaan berikut: Apa sikap sesuai keyakinan Al-Wāḥid?",
+          "text": "Mengapa tabayyun penting dalam kehidupan sehari-hari?",
           "options": [
-            "Meminta perlindungan kepada benda",
-            "Menyembah Allah Yang Maha Esa",
-            "Menyekutukan Allah",
-            "Menyembah banyak tuhan"
+            "Agar semua kabar menjadi bahan candaan",
+            "Agar tidak salah menilai orang dan menyebarkan berita palsu",
+            "Agar kita selalu menang berdebat",
+            "Agar tidak perlu mendengarkan orang lain"
           ],
-          "answer": "Menyembah Allah Yang Maha Esa",
-          "discussion": "Al-Wāḥid menegaskan keesaan Allah."
+          "answer": "Agar tidak salah menilai orang dan menyebarkan berita palsu",
+          "discussion": "Memeriksa informasi membantu menjaga hubungan dan menghindari fitnah."
         },
         {
           "id": "PAI-B02-Q019",
           "type": "PG",
-          "text": "Apa yang dilakukan ketika menyadari kesalahan?",
+          "text": "Apa hubungan Al-‘Afuw dengan sikap memaafkan?",
           "options": [
-            "Menyembunyikan lalu mengulanginya",
-            "Menyalahkan orang lain",
-            "Menyesal, berhenti, dan bertobat",
-            "Membanggakan kesalahan"
+            "Manusia boleh menghapus semua aturan",
+            "Memaafkan berarti membenarkan semua kesalahan",
+            "Allah Maha Menghapus kesalahan, sehingga manusia belajar memaafkan",
+            "Al-‘Afuw berarti Allah tidak mengetahui kesalahan"
           ],
-          "answer": "Menyesal, berhenti, dan bertobat",
-          "discussion": "Tobat dimulai dengan menyadari kesalahan dan sungguh-sungguh memperbaikinya."
+          "answer": "Allah Maha Menghapus kesalahan, sehingga manusia belajar memaafkan",
+          "discussion": "Makna Al-‘Afuw mendorong manusia untuk belajar memaafkan."
         },
         {
           "id": "PAI-B02-Q020",
           "type": "PG",
-          "text": "Dalam kuis bab Allah Swt. Maha Segalanya, pertanyaan yang harus kamu jawab adalah: apa yang dilakukan ketika menyadari kesalahan?",
+          "text": "Mengapa menulis Asmaulhusna dengan kaligrafi menjadi kegiatan belajar?",
           "options": [
-            "Membanggakan kesalahan",
-            "Menyembunyikan lalu mengulanginya",
-            "Menyalahkan orang lain",
-            "Menyesal, berhenti, dan bertobat"
+            "Menggantikan kewajiban beribadah",
+            "Agar tulisan menjadi hiasan tanpa makna",
+            "Supaya tidak perlu memahami artinya",
+            "Melatih ketelitian sekaligus mengenal dan mengingat nama Allah"
           ],
-          "answer": "Menyesal, berhenti, dan bertobat",
-          "discussion": "Tobat dimulai dengan menyadari kesalahan dan sungguh-sungguh memperbaikinya."
+          "answer": "Melatih ketelitian sekaligus mengenal dan mengingat nama Allah",
+          "discussion": "Buku mengarahkan peserta didik menulis Asmaulhusna dengan seni kaligrafi."
         },
         {
           "id": "PAI-B02-Q021",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Allah Swt. Maha Segalanya, jawablah pertanyaan berikut: Apa yang dilakukan ketika menyadari kesalahan?",
+          "text": "Ketika menulis kaligrafi Asmaulhusna, hal yang harus diperhatikan adalah ...",
           "options": [
-            "Menyesal, berhenti, dan bertobat",
-            "Menyalahkan orang lain",
-            "Membanggakan kesalahan",
-            "Menyembunyikan lalu mengulanginya"
+            "Ketepatan tulisan dan bentuk huruf",
+            "Kecepatan tanpa melihat contoh",
+            "Mengubah ejaan sesuka hati",
+            "Menambahkan huruf agar terlihat indah"
           ],
-          "answer": "Menyesal, berhenti, dan bertobat",
-          "discussion": "Tobat dimulai dengan menyadari kesalahan dan sungguh-sungguh memperbaikinya."
+          "answer": "Ketepatan tulisan dan bentuk huruf",
+          "discussion": "Tulisan nama Allah perlu dibuat dengan benar dan teliti."
         },
         {
           "id": "PAI-B02-Q022",
           "type": "PG",
-          "text": "Apa arti bertekad dalam tobat?",
+          "text": "Contoh sikap mandiri dan bertanggung jawab yang sesuai tujuan bab ini adalah ...",
           "options": [
-            "Melupakan hak orang lain",
-            "Bersungguh-sungguh tidak mengulangi kesalahan",
-            "Menyalahkan keadaan",
-            "Berencana mengulanginya"
+            "Menyalahkan teman setiap kali gagal",
+            "Mengakui kesalahan dan memperbaikinya tanpa disuruh",
+            "Menghindari tugas yang diberikan",
+            "Menunggu orang lain menyelesaikan semua masalah"
           ],
-          "answer": "Bersungguh-sungguh tidak mengulangi kesalahan",
-          "discussion": "Tekad berarti niat kuat untuk tidak mengulangi kesalahan."
+          "answer": "Mengakui kesalahan dan memperbaikinya tanpa disuruh",
+          "discussion": "Bab ini mengaitkan pengamalan Asmaulhusna dengan sikap mandiri dan tanggung jawab."
         },
         {
           "id": "PAI-B02-Q023",
           "type": "PG",
-          "text": "Dalam kuis bab Allah Swt. Maha Segalanya, pertanyaan yang harus kamu jawab adalah: apa arti bertekad dalam tobat?",
+          "text": "Jika seorang teman meminta maaf dengan tulus, tindakan yang baik adalah ...",
           "options": [
-            "Berencana mengulanginya",
-            "Melupakan hak orang lain",
-            "Bersungguh-sungguh tidak mengulangi kesalahan",
-            "Menyalahkan keadaan"
+            "Mempermalukannya di depan kelas",
+            "Menyebarkan kesalahannya",
+            "Mendengarkan dan memaafkannya jika siap",
+            "Membalas dengan kesalahan lain"
           ],
-          "answer": "Bersungguh-sungguh tidak mengulangi kesalahan",
-          "discussion": "Tekad berarti niat kuat untuk tidak mengulangi kesalahan."
+          "answer": "Mendengarkan dan memaafkannya jika siap",
+          "discussion": "Memahami makna Al-‘Afuw dapat mendorong sikap pemaaf."
         },
         {
           "id": "PAI-B02-Q024",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Allah Swt. Maha Segalanya, jawablah pertanyaan berikut: Apa arti bertekad dalam tobat?",
+          "text": "Apa perbedaan makna Al-Gaffār dan Al-‘Afuw dalam materi?",
           "options": [
-            "Berencana mengulanginya",
-            "Melupakan hak orang lain",
-            "Menyalahkan keadaan",
-            "Bersungguh-sungguh tidak mengulangi kesalahan"
+            "Al-Gaffār Maha Esa, Al-‘Afuw tempat bergantung",
+            "Keduanya berarti Maha Pencipta",
+            "Al-Gaffār berarti Maha Kuat, Al-‘Afuw Maha Kaya",
+            "Al-Gaffār Maha Pengampun, Al-‘Afuw Maha Menghapus atau memaafkan kesalahan"
           ],
-          "answer": "Bersungguh-sungguh tidak mengulangi kesalahan",
-          "discussion": "Tekad berarti niat kuat untuk tidak mengulangi kesalahan."
+          "answer": "Al-Gaffār Maha Pengampun, Al-‘Afuw Maha Menghapus atau memaafkan kesalahan",
+          "discussion": "Kedua nama memiliki makna berdekatan tetapi penekanannya berbeda."
         },
         {
           "id": "PAI-B02-Q025",
           "type": "PG",
-          "text": "Jika kesalahan merugikan orang lain, apa yang harus dilakukan?",
+          "text": "Jika kita ingin memohon sesuatu yang baik, kepada siapa kita bergantung menurut makna Al-Ṣamad?",
           "options": [
-            "Meminta maaf dan menyelesaikan hak orang tersebut",
-            "Cukup berdoa tanpa memperbaiki kerugian",
-            "Menghindari orang itu",
-            "Menyalahkan korban"
+            "Kepada Allah Swt.",
+            "Kepada benda yang dianggap keramat",
+            "Kepada keberuntungan semata",
+            "Kepada manusia tanpa berdoa"
           ],
-          "answer": "Meminta maaf dan menyelesaikan hak orang tersebut",
-          "discussion": "Hak orang lain perlu dipulihkan, bukan hanya disesali."
+          "answer": "Kepada Allah Swt.",
+          "discussion": "Al-Ṣamad mengajarkan bahwa semua makhluk membutuhkan Allah."
         },
         {
           "id": "PAI-B02-Q026",
           "type": "PG",
-          "text": "Dalam kuis bab Allah Swt. Maha Segalanya, pertanyaan yang harus kamu jawab adalah: jika kesalahan merugikan orang lain, apa yang harus dilakukan?",
+          "text": "Perilaku yang menunjukkan keyakinan kepada Allah Yang Maha Esa adalah ...",
           "options": [
-            "Menyalahkan korban",
-            "Meminta maaf dan menyelesaikan hak orang tersebut",
-            "Cukup berdoa tanpa memperbaiki kerugian",
-            "Menghindari orang itu"
+            "Memohon ibadah kepada patung",
+            "Beribadah hanya kepada Allah",
+            "Menyekutukan Allah dengan makhluk",
+            "Menganggap semua benda memiliki kuasa ilahi"
           ],
-          "answer": "Meminta maaf dan menyelesaikan hak orang tersebut",
-          "discussion": "Hak orang lain perlu dipulihkan, bukan hanya disesali."
+          "answer": "Beribadah hanya kepada Allah",
+          "discussion": "Al-Wāḥid menegaskan keesaan Allah."
         },
         {
           "id": "PAI-B02-Q027",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Allah Swt. Maha Segalanya, jawablah pertanyaan berikut: Jika kesalahan merugikan orang lain, apa yang harus dilakukan?",
+          "text": "Apa yang sebaiknya dilakukan setelah seseorang bertobat?",
           "options": [
-            "Menghindari orang itu",
-            "Menyalahkan korban",
-            "Meminta maaf dan menyelesaikan hak orang tersebut",
-            "Cukup berdoa tanpa memperbaiki kerugian"
+            "Merasa pasti lebih baik dari orang lain",
+            "Mengungkit kesalahan masa lalu setiap hari",
+            "Memperbaiki perilaku dan menjaga diri dari kesalahan",
+            "Mengulangi kesalahan karena sudah dimaafkan"
           ],
-          "answer": "Meminta maaf dan menyelesaikan hak orang tersebut",
-          "discussion": "Hak orang lain perlu dipulihkan, bukan hanya disesali."
+          "answer": "Memperbaiki perilaku dan menjaga diri dari kesalahan",
+          "discussion": "Tobat yang benar tampak dari perubahan perilaku."
         },
         {
           "id": "PAI-B02-Q028",
           "type": "PG",
-          "text": "Apa teladan mengenal Al-Ṣamad?",
+          "text": "Ketika mendengar berita yang belum jelas, tindakan yang paling sesuai dengan tanggung jawab adalah ...",
           "options": [
-            "Menyombongkan kemampuan",
-            "Meminta benda menjadi penolong mutlak",
-            "Merasa tidak membutuhkan siapa pun",
-            "Berdoa dan bergantung kepada Allah"
+            "Membuat dugaan sendiri",
+            "Menyebarkan agar orang lain menilai",
+            "Memihak kepada orang yang paling dekat",
+            "Bertanya kepada sumber tepercaya sebelum mengambil kesimpulan"
           ],
-          "answer": "Berdoa dan bergantung kepada Allah",
-          "discussion": "Mengenal Al-Ṣamad mengajarkan kita memohon pertolongan kepada Allah."
+          "answer": "Bertanya kepada sumber tepercaya sebelum mengambil kesimpulan",
+          "discussion": "Tabayyun mengharuskan kita memeriksa informasi secara benar."
         },
         {
           "id": "PAI-B02-Q029",
           "type": "PG",
-          "text": "Dalam kuis bab Allah Swt. Maha Segalanya, pertanyaan yang harus kamu jawab adalah: apa teladan mengenal Al-Ṣamad?",
+          "text": "Mengapa mengamalkan Asmaulhusna tidak cukup hanya dengan menghafal namanya?",
           "options": [
-            "Berdoa dan bergantung kepada Allah",
-            "Merasa tidak membutuhkan siapa pun",
-            "Menyombongkan kemampuan",
-            "Meminta benda menjadi penolong mutlak"
+            "Karena maknanya perlu dipahami dan tercermin dalam sikap",
+            "Karena nama Allah tidak boleh diucapkan",
+            "Karena hafalan tidak ada manfaatnya",
+            "Karena Asmaulhusna hanya untuk kaligrafi"
           ],
-          "answer": "Berdoa dan bergantung kepada Allah",
-          "discussion": "Mengenal Al-Ṣamad mengajarkan kita memohon pertolongan kepada Allah."
+          "answer": "Karena maknanya perlu dipahami dan tercermin dalam sikap",
+          "discussion": "Pembelajaran mengajak peserta didik memahami, melafalkan, dan meneladani maknanya."
         },
         {
           "id": "PAI-B02-Q030",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Allah Swt. Maha Segalanya, jawablah pertanyaan berikut: Apa teladan mengenal Al-Ṣamad?",
+          "text": "Seorang anak telah meminta maaf tetapi belum mengembalikan uang yang dipinjam tanpa izin. Apa langkah yang tepat?",
           "options": [
-            "Merasa tidak membutuhkan siapa pun",
-            "Berdoa dan bergantung kepada Allah",
-            "Menyombongkan kemampuan",
-            "Meminta benda menjadi penolong mutlak"
+            "Menganggap masalah selesai tanpa tindakan",
+            "Mengembalikan uang itu karena menyangkut hak orang lain",
+            "Meminta orang lain menggantinya",
+            "Menghindari pemilik uang"
           ],
-          "answer": "Berdoa dan bergantung kepada Allah",
-          "discussion": "Mengenal Al-Ṣamad mengajarkan kita memohon pertolongan kepada Allah."
+          "answer": "Mengembalikan uang itu karena menyangkut hak orang lain",
+          "discussion": "Tobat yang berkaitan dengan hak orang lain harus disertai pemulihan hak tersebut."
         }
       ]
     }
