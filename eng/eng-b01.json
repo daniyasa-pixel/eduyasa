@@ -697,19 +697,6 @@
           ],
           "answer": "We need some carrots.",
           "discussion": "Use 'We need' to say what is needed on a shopping list."
-        },
-        {
-          "id": "ENG-B01-051",
-          "type": "PG",
-          "text": "Which sentence combines a description and a preference correctly?",
-          "options": [
-            "I likes carrots. They crunchy.",
-            "I am like carrots. They is crunchy.",
-            "I like carrots. They are crunchy.",
-            "I don't carrots. They are crunch."
-          ],
-          "answer": "I like carrots. They are crunchy.",
-          "discussion": "The first sentence correctly states a preference and gives a description."
         }
       ]
     }
