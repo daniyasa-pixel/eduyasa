@@ -149,7 +149,11 @@
             "Agar makanan bisa disimpan selamanya"
           ],
           "answer": "Untuk memastikan bahan dan prosesnya sesuai ketentuan halal",
-          "discussion": "Pemeriksaan bahan dan informasi membantu memilih produk yang halal."
+          "discussion": "Pemeriksaan bahan dan informasi membantu memilih produk yang halal.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q04-halal-choice.svg",
+            "alt": "Ilustrasi memilih makanan dan barang dengan cermat"
+          }
         },
         {
           "id": "PAI-B04-Q012",
@@ -370,7 +374,11 @@
             "Memberi tahu pembeli dengan jujur"
           ],
           "answer": "Memberi tahu pembeli dengan jujur",
-          "discussion": "Kejujuran dalam jual beli merupakan perilaku yang baik."
+          "discussion": "Kejujuran dalam jual beli merupakan perilaku yang baik.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q04-halal-choice.svg",
+            "alt": "Ilustrasi pilihan makanan yang baik"
+          }
         },
         {
           "id": "PAI-B04-Q029",
