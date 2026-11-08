@@ -1,0 +1,404 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PAI-B08",
+      "chapter_title": "Peduli Lingkungan",
+      "questions": [
+        {
+          "id": "PAI-B08-Q001",
+          "type": "multiple_choice",
+          "text": "Apa yang dimaksud lingkungan?",
+          "options": [
+            "Segala sesuatu di sekitar tempat makhluk hidup",
+            "Hanya rumah manusia",
+            "Hanya tumbuhan",
+            "Hanya udara"
+          ],
+          "answer": "Segala sesuatu di sekitar tempat makhluk hidup",
+          "discussion": "Lingkungan mencakup segala sesuatu di sekitar manusia, hewan, dan tumbuhan."
+        },
+        {
+          "id": "PAI-B08-Q002",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: apa yang dimaksud lingkungan?",
+          "options": [
+            "Hanya udara",
+            "Segala sesuatu di sekitar tempat makhluk hidup",
+            "Hanya rumah manusia",
+            "Hanya tumbuhan"
+          ],
+          "answer": "Segala sesuatu di sekitar tempat makhluk hidup",
+          "discussion": "Lingkungan mencakup segala sesuatu di sekitar manusia, hewan, dan tumbuhan."
+        },
+        {
+          "id": "PAI-B08-Q003",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Apa yang dimaksud lingkungan?” adalah ...",
+          "options": [
+            "Hanya tumbuhan",
+            "Hanya udara",
+            "Segala sesuatu di sekitar tempat makhluk hidup",
+            "Hanya rumah manusia"
+          ],
+          "answer": "Segala sesuatu di sekitar tempat makhluk hidup",
+          "discussion": "Lingkungan mencakup segala sesuatu di sekitar manusia, hewan, dan tumbuhan."
+        },
+        {
+          "id": "PAI-B08-Q004",
+          "type": "multiple_choice",
+          "text": "Apa komponen lingkungan yang perlu dijaga?",
+          "options": [
+            "Hanya kendaraan",
+            "Hanya alat elektronik",
+            "Tanah, air, udara, dan tumbuh-tumbuhan",
+            "Hanya gedung"
+          ],
+          "answer": "Tanah, air, udara, dan tumbuh-tumbuhan",
+          "discussion": "Komponen lingkungan yang dibahas meliputi tanah, air, udara, dan tumbuhan."
+        },
+        {
+          "id": "PAI-B08-Q005",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: apa komponen lingkungan yang perlu dijaga?",
+          "options": [
+            "Hanya gedung",
+            "Hanya kendaraan",
+            "Hanya alat elektronik",
+            "Tanah, air, udara, dan tumbuh-tumbuhan"
+          ],
+          "answer": "Tanah, air, udara, dan tumbuh-tumbuhan",
+          "discussion": "Komponen lingkungan yang dibahas meliputi tanah, air, udara, dan tumbuhan."
+        },
+        {
+          "id": "PAI-B08-Q006",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Apa komponen lingkungan yang perlu dijaga?” adalah ...",
+          "options": [
+            "Tanah, air, udara, dan tumbuh-tumbuhan",
+            "Hanya gedung",
+            "Hanya kendaraan",
+            "Hanya alat elektronik"
+          ],
+          "answer": "Tanah, air, udara, dan tumbuh-tumbuhan",
+          "discussion": "Komponen lingkungan yang dibahas meliputi tanah, air, udara, dan tumbuhan."
+        },
+        {
+          "id": "PAI-B08-Q007",
+          "type": "multiple_choice",
+          "text": "Apa pesan Q.S. ar-Rūm/30:41?",
+          "options": [
+            "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
+            "Manusia boleh merusak alam",
+            "Alam tidak dipengaruhi manusia",
+            "Sampah membuat alam subur"
+          ],
+          "answer": "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
+          "discussion": "Ayat tersebut mengingatkan tentang kerusakan akibat perbuatan manusia."
+        },
+        {
+          "id": "PAI-B08-Q008",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: apa pesan Q.S. ar-Rūm/30:41?",
+          "options": [
+            "Sampah membuat alam subur",
+            "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
+            "Manusia boleh merusak alam",
+            "Alam tidak dipengaruhi manusia"
+          ],
+          "answer": "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
+          "discussion": "Ayat tersebut mengingatkan tentang kerusakan akibat perbuatan manusia."
+        },
+        {
+          "id": "PAI-B08-Q009",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Apa pesan Q.S. ar-Rūm/30:41?” adalah ...",
+          "options": [
+            "Alam tidak dipengaruhi manusia",
+            "Sampah membuat alam subur",
+            "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
+            "Manusia boleh merusak alam"
+          ],
+          "answer": "Kerusakan di darat dan laut terjadi akibat perbuatan manusia",
+          "discussion": "Ayat tersebut mengingatkan tentang kerusakan akibat perbuatan manusia."
+        },
+        {
+          "id": "PAI-B08-Q010",
+          "type": "multiple_choice",
+          "text": "Mengapa lingkungan bersih penting?",
+          "options": [
+            "Mengurangi udara bersih",
+            "Merusak habitat",
+            "Menunjang kesehatan dan kenyamanan hidup",
+            "Membuat penyakit bertambah"
+          ],
+          "answer": "Menunjang kesehatan dan kenyamanan hidup",
+          "discussion": "Lingkungan yang terjaga mendukung kesehatan dan kesejahteraan."
+        },
+        {
+          "id": "PAI-B08-Q011",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: mengapa lingkungan bersih penting?",
+          "options": [
+            "Membuat penyakit bertambah",
+            "Mengurangi udara bersih",
+            "Merusak habitat",
+            "Menunjang kesehatan dan kenyamanan hidup"
+          ],
+          "answer": "Menunjang kesehatan dan kenyamanan hidup",
+          "discussion": "Lingkungan yang terjaga mendukung kesehatan dan kesejahteraan."
+        },
+        {
+          "id": "PAI-B08-Q012",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Mengapa lingkungan bersih penting?” adalah ...",
+          "options": [
+            "Menunjang kesehatan dan kenyamanan hidup",
+            "Membuat penyakit bertambah",
+            "Mengurangi udara bersih",
+            "Merusak habitat"
+          ],
+          "answer": "Menunjang kesehatan dan kenyamanan hidup",
+          "discussion": "Lingkungan yang terjaga mendukung kesehatan dan kesejahteraan."
+        },
+        {
+          "id": "PAI-B08-Q013",
+          "type": "multiple_choice",
+          "text": "Bagaimana cara menjaga air?",
+          "options": [
+            "Menggunakan seperlunya dan tidak mencemarinya",
+            "Membuang limbah ke sungai",
+            "Membiarkan keran terbuka",
+            "Membuang plastik ke danau"
+          ],
+          "answer": "Menggunakan seperlunya dan tidak mencemarinya",
+          "discussion": "Air perlu dihemat dan dijaga dari pencemaran."
+        },
+        {
+          "id": "PAI-B08-Q014",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: bagaimana cara menjaga air?",
+          "options": [
+            "Membuang plastik ke danau",
+            "Menggunakan seperlunya dan tidak mencemarinya",
+            "Membuang limbah ke sungai",
+            "Membiarkan keran terbuka"
+          ],
+          "answer": "Menggunakan seperlunya dan tidak mencemarinya",
+          "discussion": "Air perlu dihemat dan dijaga dari pencemaran."
+        },
+        {
+          "id": "PAI-B08-Q015",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Bagaimana cara menjaga air?” adalah ...",
+          "options": [
+            "Membiarkan keran terbuka",
+            "Membuang plastik ke danau",
+            "Menggunakan seperlunya dan tidak mencemarinya",
+            "Membuang limbah ke sungai"
+          ],
+          "answer": "Menggunakan seperlunya dan tidak mencemarinya",
+          "discussion": "Air perlu dihemat dan dijaga dari pencemaran."
+        },
+        {
+          "id": "PAI-B08-Q016",
+          "type": "multiple_choice",
+          "text": "Bagaimana cara menjaga udara?",
+          "options": [
+            "Membiarkan kendaraan berasap",
+            "Membakar sampah di halaman",
+            "Mengurangi sumber asap dan tidak membakar sampah sembarangan",
+            "Membakar plastik setiap hari"
+          ],
+          "answer": "Mengurangi sumber asap dan tidak membakar sampah sembarangan",
+          "discussion": "Asap pembakaran sampah mencemari udara."
+        },
+        {
+          "id": "PAI-B08-Q017",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: bagaimana cara menjaga udara?",
+          "options": [
+            "Membakar plastik setiap hari",
+            "Membiarkan kendaraan berasap",
+            "Membakar sampah di halaman",
+            "Mengurangi sumber asap dan tidak membakar sampah sembarangan"
+          ],
+          "answer": "Mengurangi sumber asap dan tidak membakar sampah sembarangan",
+          "discussion": "Asap pembakaran sampah mencemari udara."
+        },
+        {
+          "id": "PAI-B08-Q018",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Bagaimana cara menjaga udara?” adalah ...",
+          "options": [
+            "Mengurangi sumber asap dan tidak membakar sampah sembarangan",
+            "Membakar plastik setiap hari",
+            "Membiarkan kendaraan berasap",
+            "Membakar sampah di halaman"
+          ],
+          "answer": "Mengurangi sumber asap dan tidak membakar sampah sembarangan",
+          "discussion": "Asap pembakaran sampah mencemari udara."
+        },
+        {
+          "id": "PAI-B08-Q019",
+          "type": "multiple_choice",
+          "text": "Apa tindakan untuk menjaga tumbuhan?",
+          "options": [
+            "Menanam dan merawatnya",
+            "Mencabut tanpa alasan",
+            "Menginjak tanaman",
+            "Mematahkan dahan"
+          ],
+          "answer": "Menanam dan merawatnya",
+          "discussion": "Tumbuhan perlu dirawat karena menjadi bagian penting lingkungan."
+        },
+        {
+          "id": "PAI-B08-Q020",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: apa tindakan untuk menjaga tumbuhan?",
+          "options": [
+            "Mematahkan dahan",
+            "Menanam dan merawatnya",
+            "Mencabut tanpa alasan",
+            "Menginjak tanaman"
+          ],
+          "answer": "Menanam dan merawatnya",
+          "discussion": "Tumbuhan perlu dirawat karena menjadi bagian penting lingkungan."
+        },
+        {
+          "id": "PAI-B08-Q021",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Apa tindakan untuk menjaga tumbuhan?” adalah ...",
+          "options": [
+            "Menginjak tanaman",
+            "Mematahkan dahan",
+            "Menanam dan merawatnya",
+            "Mencabut tanpa alasan"
+          ],
+          "answer": "Menanam dan merawatnya",
+          "discussion": "Tumbuhan perlu dirawat karena menjadi bagian penting lingkungan."
+        },
+        {
+          "id": "PAI-B08-Q022",
+          "type": "multiple_choice",
+          "text": "Apa yang sebaiknya dilakukan terhadap sampah?",
+          "options": [
+            "Menumpuk di jalan",
+            "Menyebar di halaman",
+            "Membuang dan memilahnya sesuai jenis",
+            "Membuang ke sungai"
+          ],
+          "answer": "Membuang dan memilahnya sesuai jenis",
+          "discussion": "Sampah harus dikelola dengan benar dan tidak dibuang sembarangan."
+        },
+        {
+          "id": "PAI-B08-Q023",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: apa yang sebaiknya dilakukan terhadap sampah?",
+          "options": [
+            "Membuang ke sungai",
+            "Menumpuk di jalan",
+            "Menyebar di halaman",
+            "Membuang dan memilahnya sesuai jenis"
+          ],
+          "answer": "Membuang dan memilahnya sesuai jenis",
+          "discussion": "Sampah harus dikelola dengan benar dan tidak dibuang sembarangan."
+        },
+        {
+          "id": "PAI-B08-Q024",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Apa yang sebaiknya dilakukan terhadap sampah?” adalah ...",
+          "options": [
+            "Membuang dan memilahnya sesuai jenis",
+            "Membuang ke sungai",
+            "Menumpuk di jalan",
+            "Menyebar di halaman"
+          ],
+          "answer": "Membuang dan memilahnya sesuai jenis",
+          "discussion": "Sampah harus dikelola dengan benar dan tidak dibuang sembarangan."
+        },
+        {
+          "id": "PAI-B08-Q025",
+          "type": "multiple_choice",
+          "text": "Mengapa menjaga lingkungan perlu kerja sama?",
+          "options": [
+            "Karena lingkungan digunakan dan memengaruhi kehidupan bersama",
+            "Hanya petugas yang bertanggung jawab",
+            "Agar pekerjaan tidak selesai",
+            "Karena alam tidak penting"
+          ],
+          "answer": "Karena lingkungan digunakan dan memengaruhi kehidupan bersama",
+          "discussion": "Semua orang menggunakan lingkungan sehingga perlu menjaganya bersama."
+        },
+        {
+          "id": "PAI-B08-Q026",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: mengapa menjaga lingkungan perlu kerja sama?",
+          "options": [
+            "Karena alam tidak penting",
+            "Karena lingkungan digunakan dan memengaruhi kehidupan bersama",
+            "Hanya petugas yang bertanggung jawab",
+            "Agar pekerjaan tidak selesai"
+          ],
+          "answer": "Karena lingkungan digunakan dan memengaruhi kehidupan bersama",
+          "discussion": "Semua orang menggunakan lingkungan sehingga perlu menjaganya bersama."
+        },
+        {
+          "id": "PAI-B08-Q027",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Mengapa menjaga lingkungan perlu kerja sama?” adalah ...",
+          "options": [
+            "Agar pekerjaan tidak selesai",
+            "Karena alam tidak penting",
+            "Karena lingkungan digunakan dan memengaruhi kehidupan bersama",
+            "Hanya petugas yang bertanggung jawab"
+          ],
+          "answer": "Karena lingkungan digunakan dan memengaruhi kehidupan bersama",
+          "discussion": "Semua orang menggunakan lingkungan sehingga perlu menjaganya bersama."
+        },
+        {
+          "id": "PAI-B08-Q028",
+          "type": "multiple_choice",
+          "text": "Apa manfaat menanam pohon?",
+          "options": [
+            "Membuat tanah selalu tercemar",
+            "Menghilangkan semua air",
+            "Membantu menjaga udara dan lingkungan",
+            "Menambah sampah plastik"
+          ],
+          "answer": "Membantu menjaga udara dan lingkungan",
+          "discussion": "Pohon membantu menjaga kualitas lingkungan dan menjadi habitat makhluk hidup."
+        },
+        {
+          "id": "PAI-B08-Q029",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Peduli Lingkungan” terkait hal berikut: apa manfaat menanam pohon?",
+          "options": [
+            "Menambah sampah plastik",
+            "Membuat tanah selalu tercemar",
+            "Menghilangkan semua air",
+            "Membantu menjaga udara dan lingkungan"
+          ],
+          "answer": "Membantu menjaga udara dan lingkungan",
+          "discussion": "Pohon membantu menjaga kualitas lingkungan dan menjadi habitat makhluk hidup."
+        },
+        {
+          "id": "PAI-B08-Q030",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Peduli Lingkungan” untuk pertanyaan “Apa manfaat menanam pohon?” adalah ...",
+          "options": [
+            "Membantu menjaga udara dan lingkungan",
+            "Menambah sampah plastik",
+            "Membuat tanah selalu tercemar",
+            "Menghilangkan semua air"
+          ],
+          "answer": "Membantu menjaga udara dan lingkungan",
+          "discussion": "Pohon membantu menjaga kualitas lingkungan dan menjadi habitat makhluk hidup."
+        }
+      ]
+    }
+  ]
+}
