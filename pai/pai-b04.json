@@ -19,16 +19,12 @@
             "Selalu wajib dilakukan"
           ],
           "answer": "Dibolehkan untuk digunakan atau dilakukan",
-          "discussion": "Halal adalah sesuatu yang diizinkan syariat Islam.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/halal-check.svg",
-            "alt": "Bagan memeriksa informasi halal dan mencari sumber tepercaya"
-          }
+          "discussion": "Halal adalah sesuatu yang diizinkan syariat Islam."
         },
         {
           "id": "PAI-B04-Q002",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hukum Halal dan Haram” terkait hal berikut: apa arti halal menurut syariat Islam?",
+          "text": "Dalam kuis bab Hukum Halal dan Haram, pertanyaan yang harus kamu jawab adalah: apa arti halal menurut syariat Islam?",
           "options": [
             "Selalu wajib dilakukan",
             "Dibolehkan untuk digunakan atau dilakukan",
@@ -41,7 +37,7 @@
         {
           "id": "PAI-B04-Q003",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hukum Halal dan Haram” untuk pertanyaan “Apa arti halal menurut syariat Islam?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Hukum Halal dan Haram, jawablah pertanyaan berikut: Apa arti halal menurut syariat Islam?",
           "options": [
             "Tidak diketahui hukumnya",
             "Selalu wajib dilakukan",
@@ -67,7 +63,7 @@
         {
           "id": "PAI-B04-Q005",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hukum Halal dan Haram” terkait hal berikut: apa arti haram?",
+          "text": "Dalam kuis bab Hukum Halal dan Haram, pertanyaan yang harus kamu jawab adalah: apa arti haram?",
           "options": [
             "Dilarang oleh syariat Islam",
             "Dianjurkan untuk dilakukan",
@@ -80,7 +76,7 @@
         {
           "id": "PAI-B04-Q006",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hukum Halal dan Haram” untuk pertanyaan “Apa arti haram?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Hukum Halal dan Haram, jawablah pertanyaan berikut: Apa arti haram?",
           "options": [
             "Dianjurkan untuk dilakukan",
             "Dilarang oleh syariat Islam",
@@ -106,7 +102,7 @@
         {
           "id": "PAI-B04-Q008",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hukum Halal dan Haram” terkait hal berikut: apa sumber utama memahami halal dan haram?",
+          "text": "Dalam kuis bab Hukum Halal dan Haram, pertanyaan yang harus kamu jawab adalah: apa sumber utama memahami halal dan haram?",
           "options": [
             "Pendapat teman saja",
             "Cerita tanpa sumber",
@@ -119,7 +115,7 @@
         {
           "id": "PAI-B04-Q009",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hukum Halal dan Haram” untuk pertanyaan “Apa sumber utama memahami halal dan haram?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Hukum Halal dan Haram, jawablah pertanyaan berikut: Apa sumber utama memahami halal dan haram?",
           "options": [
             "Al-Qur’an dan hadis",
             "Iklan produk",
@@ -145,7 +141,7 @@
         {
           "id": "PAI-B04-Q011",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hukum Halal dan Haram” terkait hal berikut: apa pesan Q.S. al-Mā’idah/5:87?",
+          "text": "Dalam kuis bab Hukum Halal dan Haram, pertanyaan yang harus kamu jawab adalah: apa pesan Q.S. al-Mā’idah/5:87?",
           "options": [
             "Semua hal harus diharamkan",
             "Boleh melampaui batas",
@@ -158,7 +154,7 @@
         {
           "id": "PAI-B04-Q012",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hukum Halal dan Haram” untuk pertanyaan “Apa pesan Q.S. al-Mā’idah/5:87?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Hukum Halal dan Haram, jawablah pertanyaan berikut: Apa pesan Q.S. al-Mā’idah/5:87?",
           "options": [
             "Semua hal harus diharamkan",
             "Boleh melampaui batas",
@@ -171,7 +167,7 @@
         {
           "id": "PAI-B04-Q013",
           "type": "PG",
-          "text": "Bagaimana sikap saat ragu tentang status produk?",
+          "text": "Perhatikan bagan. Jika masih ragu tentang status suatu produk, tindakan yang tepat adalah ...",
           "options": [
             "Memeriksa informasi dan bertanya kepada sumber tepercaya",
             "Menebak saja",
@@ -179,12 +175,16 @@
             "Mengabaikan aturan"
           ],
           "answer": "Memeriksa informasi dan bertanya kepada sumber tepercaya",
-          "discussion": "Keraguan perlu disikapi dengan mencari informasi yang dapat dipercaya."
+          "discussion": "Keraguan perlu disikapi dengan mencari informasi yang dapat dipercaya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/halal-check.svg",
+            "alt": "Bagan memeriksa informasi halal dan mencari sumber tepercaya"
+          }
         },
         {
           "id": "PAI-B04-Q014",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hukum Halal dan Haram” terkait hal berikut: bagaimana sikap saat ragu tentang status produk?",
+          "text": "Dalam kuis bab Hukum Halal dan Haram, pertanyaan yang harus kamu jawab adalah: bagaimana sikap saat ragu tentang status produk?",
           "options": [
             "Mengabaikan aturan",
             "Memeriksa informasi dan bertanya kepada sumber tepercaya",
@@ -197,7 +197,7 @@
         {
           "id": "PAI-B04-Q015",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hukum Halal dan Haram” untuk pertanyaan “Bagaimana sikap saat ragu tentang status produk?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Hukum Halal dan Haram, jawablah pertanyaan berikut: Bagaimana sikap saat ragu tentang status produk?",
           "options": [
             "Mengikuti rumor",
             "Mengabaikan aturan",
@@ -223,7 +223,7 @@
         {
           "id": "PAI-B04-Q017",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hukum Halal dan Haram” terkait hal berikut: mengapa cara memperoleh barang juga penting?",
+          "text": "Dalam kuis bab Hukum Halal dan Haram, pertanyaan yang harus kamu jawab adalah: mengapa cara memperoleh barang juga penting?",
           "options": [
             "Karena barang harus diperoleh dengan cara yang dibenarkan",
             "Karena harga selalu mahal",
@@ -236,7 +236,7 @@
         {
           "id": "PAI-B04-Q018",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hukum Halal dan Haram” untuk pertanyaan “Mengapa cara memperoleh barang juga penting?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Hukum Halal dan Haram, jawablah pertanyaan berikut: Mengapa cara memperoleh barang juga penting?",
           "options": [
             "Karena harga selalu mahal",
             "Karena barang harus diperoleh dengan cara yang dibenarkan",
@@ -262,7 +262,7 @@
         {
           "id": "PAI-B04-Q020",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hukum Halal dan Haram” terkait hal berikut: apa contoh perbuatan yang dilarang dalam memperoleh harta?",
+          "text": "Dalam kuis bab Hukum Halal dan Haram, pertanyaan yang harus kamu jawab adalah: apa contoh perbuatan yang dilarang dalam memperoleh harta?",
           "options": [
             "Bekerja dengan baik",
             "Berdagang jujur",
@@ -275,7 +275,7 @@
         {
           "id": "PAI-B04-Q021",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hukum Halal dan Haram” untuk pertanyaan “Apa contoh perbuatan yang dilarang dalam memperoleh harta?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Hukum Halal dan Haram, jawablah pertanyaan berikut: Apa contoh perbuatan yang dilarang dalam memperoleh harta?",
           "options": [
             "Mencuri",
             "Menabung",
@@ -301,7 +301,7 @@
         {
           "id": "PAI-B04-Q023",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hukum Halal dan Haram” terkait hal berikut: mengapa membuang sampah ke sungai harus dihindari?",
+          "text": "Dalam kuis bab Hukum Halal dan Haram, pertanyaan yang harus kamu jawab adalah: mengapa membuang sampah ke sungai harus dihindari?",
           "options": [
             "Membuat air semakin bersih",
             "Menambah persediaan ikan",
@@ -314,7 +314,7 @@
         {
           "id": "PAI-B04-Q024",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hukum Halal dan Haram” untuk pertanyaan “Mengapa membuang sampah ke sungai harus dihindari?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Hukum Halal dan Haram, jawablah pertanyaan berikut: Mengapa membuang sampah ke sungai harus dihindari?",
           "options": [
             "Membuat air semakin bersih",
             "Menambah persediaan ikan",
@@ -340,7 +340,7 @@
         {
           "id": "PAI-B04-Q026",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hukum Halal dan Haram” terkait hal berikut: apakah halal dan haram ditentukan oleh rasa suka seseorang?",
+          "text": "Dalam kuis bab Hukum Halal dan Haram, pertanyaan yang harus kamu jawab adalah: apakah halal dan haram ditentukan oleh rasa suka seseorang?",
           "options": [
             "Cukup mengikuti iklan",
             "Tidak, harus merujuk pada ketentuan syariat",
@@ -353,7 +353,7 @@
         {
           "id": "PAI-B04-Q027",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hukum Halal dan Haram” untuk pertanyaan “Apakah halal dan haram ditentukan oleh rasa suka seseorang?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Hukum Halal dan Haram, jawablah pertanyaan berikut: Apakah halal dan haram ditentukan oleh rasa suka seseorang?",
           "options": [
             "Semua yang tidak disukai pasti haram",
             "Cukup mengikuti iklan",
@@ -379,7 +379,7 @@
         {
           "id": "PAI-B04-Q029",
           "type": "PG",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Hukum Halal dan Haram” terkait hal berikut: apa sikap yang tepat saat berdagang?",
+          "text": "Dalam kuis bab Hukum Halal dan Haram, pertanyaan yang harus kamu jawab adalah: apa sikap yang tepat saat berdagang?",
           "options": [
             "Jujur dan tidak menipu",
             "Mengurangi timbangan",
@@ -392,7 +392,7 @@
         {
           "id": "PAI-B04-Q030",
           "type": "PG",
-          "text": "Kesimpulan yang tepat dari pembahasan “Hukum Halal dan Haram” untuk pertanyaan “Apa sikap yang tepat saat berdagang?” adalah ...",
+          "text": "Untuk menunjukkan pemahaman tentang Hukum Halal dan Haram, jawablah pertanyaan berikut: Apa sikap yang tepat saat berdagang?",
           "options": [
             "Mengurangi timbangan",
             "Jujur dan tidak menipu",
