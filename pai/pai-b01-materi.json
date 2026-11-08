@@ -1,0 +1,22 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "PAI-B01",
+  "chapter_title": "Belajar Al-Qur’an dan Hadis",
+  "modules": [
+    {
+      "id": "PAI-B01-MOD-01",
+      "version": "MOD-01",
+      "title": "Mengenal Surah Aḍ-Ḍuḥā",
+      "content": "# Belajar Al-Qur’an dan Hadis\n\n## Tujuan Pembelajaran\nKamu dapat mengenali Surah Aḍ-Ḍuḥā dan memahami pesannya.\n\n## A. Mengenal Surah\nSurah Aḍ-Ḍuḥā adalah surah ke-93 dan terdiri atas 11 ayat. Aḍ-Ḍuḥā berarti waktu pagi atau duha. Surah ini menguatkan hati Nabi Muhammad saw. bahwa Allah tidak meninggalkan dan tidak membenci beliau.\n\n## B. Pesan Pokok\nSurah ini mengajarkan untuk tidak memperlakukan anak yatim dengan sewenang-wenang, tidak menghardik orang yang meminta bantuan, serta mensyukuri nikmat Allah. Bacalah ayat dari mushaf tepercaya dengan memperhatikan makhraj dan tajwid.\n\n## C. Penerapan\nSayangi anak yatim, bantu orang lain dengan santun, dan gunakan nikmat untuk kebaikan.\n\n## Ringkasan\nSurah Aḍ-Ḍuḥā terdiri atas 11 ayat. Pesannya antara lain Allah tidak meninggalkan Nabi, berbuat baik kepada anak yatim, dan bersyukur."
+    },
+    {
+      "id": "PAI-B01-MOD-02",
+      "version": "MOD-02",
+      "title": "Hadis dan Keutamaan Memberi",
+      "content": "# Belajar Al-Qur’an dan Hadis\n\n## Tujuan Pembelajaran\nKamu dapat memahami hadis dan bentuk pemberian dalam Islam.\n\n## A. Pengertian Hadis\nHadis atau sunah adalah perkataan, perbuatan, ketetapan, dan persetujuan Nabi Muhammad saw.\n\n## B. Bentuk Memberi\nSedekah adalah pemberian untuk kebaikan. Sedekah jariah memiliki manfaat yang terus mengalir. Hibah adalah pemberian sukarela ketika pemberi masih hidup. Hadiah diberikan sebagai tanda kasih sayang atau penghargaan.\n\n## C. Adab Memberi\nMemberi harus ikhlas, santun, tidak mengungkit, dan tidak bertujuan menyuap. Pemberian kepada pejabat karena jabatan atau untuk memengaruhi keputusan dapat termasuk suap.\n\n## Ringkasan\nHadis menjadi pedoman setelah Al-Qur’an. Memberi dapat berupa sedekah, sedekah jariah, hibah, dan hadiah."
+    }
+  ]
+}
