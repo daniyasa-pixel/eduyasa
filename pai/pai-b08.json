@@ -253,7 +253,11 @@
             "Membiarkan petugas bekerja sendiri"
           ],
           "answer": "Kerja bakti membersihkan halaman",
-          "discussion": "Aksi bersama membantu menciptakan lingkungan sekolah yang bersih."
+          "discussion": "Aksi bersama membantu menciptakan lingkungan sekolah yang bersih.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q08-clean-school.svg",
+            "alt": "Ilustrasi kerja bakti membersihkan sekolah"
+          }
         },
         {
           "id": "PAI-B08-Q020",
@@ -305,7 +309,11 @@
             "Membuang sampah lain di dekatnya"
           ],
           "answer": "Mengingatkan dengan sopan dan mengajak membuangnya di tempat sampah",
-          "discussion": "Mengajak dengan santun dapat menumbuhkan kebiasaan baik."
+          "discussion": "Mengajak dengan santun dapat menumbuhkan kebiasaan baik.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q08-clean-school.svg",
+            "alt": "Ilustrasi menjaga kebersihan lingkungan"
+          }
         },
         {
           "id": "PAI-B08-Q024",
