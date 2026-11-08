@@ -1,0 +1,730 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "ENG-B03",
+      "chapter_title": "A Trip to the Zoo",
+      "questions": [
+        {
+          "id": "ENG-B03-001",
+          "type": "PG",
+          "text": "What does 'mammals' mean?",
+          "options": [
+            "Mamalia",
+            "Reptil",
+            "Burung",
+            "Ikan"
+          ],
+          "answer": "Mamalia",
+          "discussion": "Mammals are animals such as lions and elephants."
+        },
+        {
+          "id": "ENG-B03-002",
+          "type": "PG",
+          "text": "Which group does a crocodile belong to?",
+          "options": [
+            "Mammals",
+            "Reptiles",
+            "Birds",
+            "Fish"
+          ],
+          "answer": "Reptiles",
+          "discussion": "A crocodile is a reptile."
+        },
+        {
+          "id": "ENG-B03-003",
+          "type": "PG",
+          "text": "Which group does a frog belong to?",
+          "options": [
+            "Mammals",
+            "Birds",
+            "Amphibians",
+            "Fish"
+          ],
+          "answer": "Amphibians",
+          "discussion": "A frog is an amphibian."
+        },
+        {
+          "id": "ENG-B03-004",
+          "type": "PG",
+          "text": "Which group does a koi fish belong to?",
+          "options": [
+            "Birds",
+            "Reptiles",
+            "Mammals",
+            "Fish"
+          ],
+          "answer": "Fish",
+          "discussion": "A koi fish belongs to the fish group."
+        },
+        {
+          "id": "ENG-B03-005",
+          "type": "PG",
+          "text": "Which group does an eagle belong to?",
+          "options": [
+            "Birds",
+            "Amphibians",
+            "Fish",
+            "Reptiles"
+          ],
+          "answer": "Birds",
+          "discussion": "An eagle is a bird."
+        },
+        {
+          "id": "ENG-B03-006",
+          "type": "PG",
+          "text": "Look at the animal chart. Which animal is a mammal?",
+          "options": [
+            "Crocodile",
+            "Lion",
+            "Frog",
+            "Koi fish"
+          ],
+          "answer": "Lion",
+          "discussion": "The chart places the lion in the mammals group.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/zoo-animal-groups.svg",
+            "alt": "Educational illustration"
+          }
+        },
+        {
+          "id": "ENG-B03-007",
+          "type": "PG",
+          "text": "Look at the animal chart. Which group includes a salamander?",
+          "options": [
+            "Birds",
+            "Mammals",
+            "Amphibians",
+            "Fish"
+          ],
+          "answer": "Amphibians",
+          "discussion": "Salamanders are amphibians.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/zoo-animal-groups.svg",
+            "alt": "Educational illustration"
+          }
+        },
+        {
+          "id": "ENG-B03-008",
+          "type": "PG",
+          "text": "Look at the animal chart. Which animals are shown in the bird group?",
+          "options": [
+            "Lion and elephant",
+            "Frog and salamander",
+            "Koi fish and tuna",
+            "Eagle and duck"
+          ],
+          "answer": "Eagle and duck",
+          "discussion": "The bird group illustration shows an eagle and a duck.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/zoo-animal-groups.svg",
+            "alt": "Educational illustration"
+          }
+        },
+        {
+          "id": "ENG-B03-009",
+          "type": "PG",
+          "text": "Look at the animal picture. Which animal is a reptile?",
+          "options": [
+            "Crocodile",
+            "Lion",
+            "Frog",
+            "Eagle"
+          ],
+          "answer": "Crocodile",
+          "discussion": "The crocodile is shown among the zoo animals and is a reptile.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/zoo-animals.svg",
+            "alt": "Educational illustration"
+          }
+        },
+        {
+          "id": "ENG-B03-010",
+          "type": "PG",
+          "text": "Look at the animal picture. Which animal is a fish?",
+          "options": [
+            "Elephant",
+            "Koi fish",
+            "Lizard",
+            "Eagle"
+          ],
+          "answer": "Koi fish",
+          "discussion": "The koi fish is the fish shown in the animal illustration.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/zoo-animals.svg",
+            "alt": "Educational illustration"
+          }
+        },
+        {
+          "id": "ENG-B03-011",
+          "type": "PG",
+          "text": "What is the English word for 'singa'?",
+          "options": [
+            "Tiger",
+            "Elephant",
+            "Lion",
+            "Eagle"
+          ],
+          "answer": "Lion",
+          "discussion": "Lion means singa."
+        },
+        {
+          "id": "ENG-B03-012",
+          "type": "PG",
+          "text": "What is the English word for 'gajah'?",
+          "options": [
+            "Crocodile",
+            "Frog",
+            "Duck",
+            "Elephant"
+          ],
+          "answer": "Elephant",
+          "discussion": "Elephant means gajah."
+        },
+        {
+          "id": "ENG-B03-013",
+          "type": "PG",
+          "text": "What is the English word for 'buaya'?",
+          "options": [
+            "Crocodile",
+            "Salamander",
+            "Eagle",
+            "Lion"
+          ],
+          "answer": "Crocodile",
+          "discussion": "Crocodile means buaya."
+        },
+        {
+          "id": "ENG-B03-014",
+          "type": "PG",
+          "text": "What is the English word for 'katak'?",
+          "options": [
+            "Fish",
+            "Frog",
+            "Lizard",
+            "Bird"
+          ],
+          "answer": "Frog",
+          "discussion": "Frog means katak."
+        },
+        {
+          "id": "ENG-B03-015",
+          "type": "PG",
+          "text": "What is the English word for 'burung elang'?",
+          "options": [
+            "Duck",
+            "Koi fish",
+            "Eagle",
+            "Lion"
+          ],
+          "answer": "Eagle",
+          "discussion": "Eagle means burung elang."
+        },
+        {
+          "id": "ENG-B03-016",
+          "type": "PG",
+          "text": "Which animal is a mammal?",
+          "options": [
+            "Crocodile",
+            "Salamander",
+            "Koi fish",
+            "Elephant"
+          ],
+          "answer": "Elephant",
+          "discussion": "Elephants are mammals."
+        },
+        {
+          "id": "ENG-B03-017",
+          "type": "PG",
+          "text": "Which animal is an amphibian?",
+          "options": [
+            "Salamander",
+            "Eagle",
+            "Lion",
+            "Tuna"
+          ],
+          "answer": "Salamander",
+          "discussion": "A salamander is an amphibian."
+        },
+        {
+          "id": "ENG-B03-018",
+          "type": "PG",
+          "text": "Which animal is a bird?",
+          "options": [
+            "Frog",
+            "Duck",
+            "Crocodile",
+            "Elephant"
+          ],
+          "answer": "Duck",
+          "discussion": "A duck is a bird."
+        },
+        {
+          "id": "ENG-B03-019",
+          "type": "PG",
+          "text": "Which animal lives in water and has gills?",
+          "options": [
+            "Lion",
+            "Eagle",
+            "Koi fish",
+            "Lizard"
+          ],
+          "answer": "Koi fish",
+          "discussion": "Fish live in water and breathe through gills."
+        },
+        {
+          "id": "ENG-B03-020",
+          "type": "PG",
+          "text": "Which animal has scales and belongs to reptiles?",
+          "options": [
+            "Elephant",
+            "Duck",
+            "Frog",
+            "Lizard"
+          ],
+          "answer": "Lizard",
+          "discussion": "A lizard is a reptile and has scales."
+        },
+        {
+          "id": "ENG-B03-021",
+          "type": "PG",
+          "text": "What does 'last weekend' mean?",
+          "options": [
+            "Akhir pekan lalu",
+            "Akhir pekan depan",
+            "Setiap pagi",
+            "Dua bulan lagi"
+          ],
+          "answer": "Akhir pekan lalu",
+          "discussion": "Last weekend refers to the weekend before now."
+        },
+        {
+          "id": "ENG-B03-022",
+          "type": "PG",
+          "text": "Complete: 'Last weekend, we ___ to the zoo.'",
+          "options": [
+            "go",
+            "went",
+            "goes",
+            "going"
+          ],
+          "answer": "went",
+          "discussion": "Went is the past form of go."
+        },
+        {
+          "id": "ENG-B03-023",
+          "type": "PG",
+          "text": "What is the past form of 'see'?",
+          "options": [
+            "Seed",
+            "Seeing",
+            "Saw",
+            "Seen"
+          ],
+          "answer": "Saw",
+          "discussion": "Saw is the simple past form of see."
+        },
+        {
+          "id": "ENG-B03-024",
+          "type": "PG",
+          "text": "What is the past form of 'have'?",
+          "options": [
+            "Has",
+            "Having",
+            "Haved",
+            "Had"
+          ],
+          "answer": "Had",
+          "discussion": "Had is the simple past form of have."
+        },
+        {
+          "id": "ENG-B03-025",
+          "type": "PG",
+          "text": "What is the past form of 'feel'?",
+          "options": [
+            "Felt",
+            "Feeled",
+            "Feels",
+            "Feeling"
+          ],
+          "answer": "Felt",
+          "discussion": "Felt is the simple past form of feel."
+        },
+        {
+          "id": "ENG-B03-026",
+          "type": "PG",
+          "text": "What is the past form of 'take'?",
+          "options": [
+            "Taked",
+            "Took",
+            "Taking",
+            "Takes"
+          ],
+          "answer": "Took",
+          "discussion": "Took is the simple past form of take."
+        },
+        {
+          "id": "ENG-B03-027",
+          "type": "PG",
+          "text": "Choose the correct sentence about yesterday.",
+          "options": [
+            "I see a lion yesterday.",
+            "I seeing a lion yesterday.",
+            "I saw a lion yesterday.",
+            "I sees a lion yesterday."
+          ],
+          "answer": "I saw a lion yesterday.",
+          "discussion": "Yesterday refers to the past, so saw is the correct verb form."
+        },
+        {
+          "id": "ENG-B03-028",
+          "type": "PG",
+          "text": "Complete: 'Bara ___ lunch at the cafeteria.'",
+          "options": [
+            "have",
+            "has",
+            "having",
+            "had"
+          ],
+          "answer": "had",
+          "discussion": "Had is the past form of have and describes Bara's lunch in the past."
+        },
+        {
+          "id": "ENG-B03-029",
+          "type": "PG",
+          "text": "Which word means 'merasa' in 'I felt happy'?",
+          "options": [
+            "Felt",
+            "Went",
+            "Saw",
+            "Had"
+          ],
+          "answer": "Felt",
+          "discussion": "Felt is the past form of feel, meaning merasa."
+        },
+        {
+          "id": "ENG-B03-030",
+          "type": "PG",
+          "text": "What does 'finally' mean?",
+          "options": [
+            "Pertama",
+            "Akhirnya",
+            "Kemudian",
+            "Sebelum"
+          ],
+          "answer": "Akhirnya",
+          "discussion": "Finally is used to introduce the last event in a sequence."
+        },
+        {
+          "id": "ENG-B03-031",
+          "type": "PG",
+          "text": "Which word means 'selanjutnya'?",
+          "options": [
+            "First",
+            "Finally",
+            "Next",
+            "Yesterday"
+          ],
+          "answer": "Next",
+          "discussion": "Next means selanjutnya."
+        },
+        {
+          "id": "ENG-B03-032",
+          "type": "PG",
+          "text": "Choose the correct sequence.",
+          "options": [
+            "Finally, first, yesterday, next",
+            "Went, saw, bird, fish",
+            "Mammal, reptile, first, lunch",
+            "First, then, next, finally"
+          ],
+          "answer": "First, then, next, finally",
+          "discussion": "First, then, next, and finally can show the order of events."
+        },
+        {
+          "id": "ENG-B03-033",
+          "type": "PG",
+          "text": "Complete: 'Did you ___ the elephant?'",
+          "options": [
+            "see",
+            "saw",
+            "seen",
+            "seeing"
+          ],
+          "answer": "see",
+          "discussion": "After did, use the base form see."
+        },
+        {
+          "id": "ENG-B03-034",
+          "type": "PG",
+          "text": "Which question is correct?",
+          "options": [
+            "Did you went to the zoo?",
+            "Did you go to the zoo?",
+            "Did you goes to the zoo?",
+            "Do you went to the zoo?"
+          ],
+          "answer": "Did you go to the zoo?",
+          "discussion": "Use did + subject + base verb: Did you go...?"
+        },
+        {
+          "id": "ENG-B03-035",
+          "type": "PG",
+          "text": "Choose the correct short answer: 'Did you see birds?' — 'Yes, ___.'",
+          "options": [
+            "I do",
+            "I saw",
+            "I did",
+            "I am"
+          ],
+          "answer": "I did",
+          "discussion": "Yes, I did is the short affirmative answer to a did-question."
+        },
+        {
+          "id": "ENG-B03-036",
+          "type": "PG",
+          "text": "Choose the correct short answer: 'Did you see a snake?' — 'No, ___.'",
+          "options": [
+            "I don't",
+            "I wasn't",
+            "I not",
+            "I didn't"
+          ],
+          "answer": "I didn't",
+          "discussion": "No, I didn't is the short negative answer to a did-question."
+        },
+        {
+          "id": "ENG-B03-037",
+          "type": "PG",
+          "text": "What does 'What animals did you see at the zoo?' ask?",
+          "options": [
+            "Hewan apa yang kamu lihat di kebun binatang?",
+            "Kapan kamu tidur?",
+            "Apa warna tasmu?",
+            "Di mana kamu makan setiap hari?"
+          ],
+          "answer": "Hewan apa yang kamu lihat di kebun binatang?",
+          "discussion": "The question asks about the animals someone saw at the zoo."
+        },
+        {
+          "id": "ENG-B03-038",
+          "type": "PG",
+          "text": "Read: 'Bara went to the zoo with his parents.' Who went with Bara?",
+          "options": [
+            "His teacher",
+            "His parents",
+            "His classmates",
+            "His brother only"
+          ],
+          "answer": "His parents",
+          "discussion": "The sentence says Bara went with his parents."
+        },
+        {
+          "id": "ENG-B03-039",
+          "type": "PG",
+          "text": "Read: 'They had lunch at a cafeteria.' Where did they have lunch?",
+          "options": [
+            "At the entrance gate",
+            "At home",
+            "At a cafeteria",
+            "At the bus station"
+          ],
+          "answer": "At a cafeteria",
+          "discussion": "The story says they had lunch at a cafeteria."
+        },
+        {
+          "id": "ENG-B03-040",
+          "type": "PG",
+          "text": "Read: 'Finally, they saw beautiful birds.' What did they see finally?",
+          "options": [
+            "Reptiles",
+            "Fish",
+            "Mammals",
+            "Birds"
+          ],
+          "answer": "Birds",
+          "discussion": "The word finally introduces the last activity: seeing birds."
+        },
+        {
+          "id": "ENG-B03-041",
+          "type": "PG",
+          "text": "Which sentence is in the past tense?",
+          "options": [
+            "We went to the zoo last week.",
+            "We go to the zoo every week.",
+            "We are going to the zoo now.",
+            "We will go to the zoo tomorrow."
+          ],
+          "answer": "We went to the zoo last week.",
+          "discussion": "Went is the past form of go, so the sentence is in the past tense."
+        },
+        {
+          "id": "ENG-B03-042",
+          "type": "PG",
+          "text": "Which group has animals that are mammals?",
+          "options": [
+            "Frog and salamander",
+            "Lion and elephant",
+            "Eagle and duck",
+            "Crocodile and lizard"
+          ],
+          "answer": "Lion and elephant",
+          "discussion": "Lions and elephants are both mammals."
+        },
+        {
+          "id": "ENG-B03-043",
+          "type": "PG",
+          "text": "Which group has animals that are amphibians?",
+          "options": [
+            "Lion and elephant",
+            "Eagle and duck",
+            "Frog and salamander",
+            "Koi fish and tuna"
+          ],
+          "answer": "Frog and salamander",
+          "discussion": "Frogs and salamanders are amphibians."
+        },
+        {
+          "id": "ENG-B03-044",
+          "type": "PG",
+          "text": "Which animal group has feathers?",
+          "options": [
+            "Fish",
+            "Reptiles",
+            "Amphibians",
+            "Birds"
+          ],
+          "answer": "Birds",
+          "discussion": "Birds have feathers and beaks."
+        },
+        {
+          "id": "ENG-B03-045",
+          "type": "PG",
+          "text": "Which sentence uses 'did' correctly?",
+          "options": [
+            "Did Bara see the crocodile?",
+            "Did Bara saw the crocodile?",
+            "Did Bara sees the crocodile?",
+            "Did Bara seeing the crocodile?"
+          ],
+          "answer": "Did Bara see the crocodile?",
+          "discussion": "After did, use the base form see."
+        },
+        {
+          "id": "ENG-B03-046",
+          "type": "PG",
+          "text": "A: What animals did you see? B: ___",
+          "options": [
+            "I see tomorrow.",
+            "I saw a lion and an elephant.",
+            "I am a zoo.",
+            "I go last weekend."
+          ],
+          "answer": "I saw a lion and an elephant.",
+          "discussion": "The answer uses saw to tell which animals were seen in the past."
+        },
+        {
+          "id": "ENG-B03-047",
+          "type": "PG",
+          "text": "A: Did you go to the zoo last weekend? B: ___",
+          "options": [
+            "Yes, I do.",
+            "Yes, I wented.",
+            "Yes, I did.",
+            "Yes, I am."
+          ],
+          "answer": "Yes, I did.",
+          "discussion": "Yes, I did is the correct short answer to Did you go...?"
+        },
+        {
+          "id": "ENG-B03-048",
+          "type": "PG",
+          "text": "Which sentence tells how Bara felt?",
+          "options": [
+            "Bara feel happy yesterday.",
+            "Bara feeling happy last week.",
+            "Bara feels happy yesterday.",
+            "Bara felt happy."
+          ],
+          "answer": "Bara felt happy.",
+          "discussion": "Felt is the past form of feel and tells Bara's feeling."
+        },
+        {
+          "id": "ENG-B03-049",
+          "type": "PG",
+          "text": "Listen to the sound. Which animal makes this sound?",
+          "options": [
+            "A cat",
+            "A dog",
+            "A cow",
+            "A duck"
+          ],
+          "answer": "A cat",
+          "discussion": "The sound is a short simulated cat meow. The correct animal is a cat.",
+          "audio": {
+            "type": "animal",
+            "sound": "cat",
+            "label": "▶ PLAY CAT SOUND"
+          }
+        },
+        {
+          "id": "ENG-B03-050",
+          "type": "PG",
+          "text": "Listen to the English word. Which animal is it?",
+          "options": [
+            "Eagle",
+            "Elephant",
+            "Lion",
+            "Frog"
+          ],
+          "answer": "Elephant",
+          "discussion": "The audio pronounces the word elephant. An elephant is a mammal.",
+          "audio": {
+            "type": "speech",
+            "text": "Elephant",
+            "label": "▶ PLAY WORD"
+          }
+        },
+        {
+          "id": "ENG-B03-051",
+          "type": "PG",
+          "text": "Listen to the English word. Which animal is it?",
+          "options": [
+            "Koi fish",
+            "Salamander",
+            "Crocodile",
+            "Duck"
+          ],
+          "answer": "Crocodile",
+          "discussion": "The audio pronounces the word crocodile. A crocodile is a reptile.",
+          "audio": {
+            "type": "speech",
+            "text": "Crocodile",
+            "label": "▶ PLAY WORD"
+          }
+        },
+        {
+          "id": "ENG-B03-052",
+          "type": "PG",
+          "text": "Listen to the English word. Which animal group is it?",
+          "options": [
+            "Mammals",
+            "Birds",
+            "Fish",
+            "Amphibians"
+          ],
+          "answer": "Amphibians",
+          "discussion": "The audio pronounces amphibians, the group that includes frogs and salamanders.",
+          "audio": {
+            "type": "speech",
+            "text": "Amphibians",
+            "label": "▶ PLAY WORD"
+          }
+        }
+      ]
+    }
+  ]
+}
