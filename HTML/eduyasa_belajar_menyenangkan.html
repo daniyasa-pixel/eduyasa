@@ -202,6 +202,21 @@ footer {
 .option-btn:disabled { cursor: not-allowed; opacity: 0.8; }
 .explanation-box { background: #f8fafc; border: 1px solid var(--border); border-radius: 12px; padding: 15px; margin-top: 20px; font-size: 14px; line-height: 1.6; white-space: pre-wrap; }
 #toast-container { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); z-index: 1000; display: flex; flex-direction: column; gap: 10px; width: max-content; }
+.modal-overlay { position: fixed; inset: 0; z-index: 2000; display: flex; align-items: center; justify-content: center; padding: 18px; background: rgba(15,23,42,.58); }
+.modal-overlay.hidden { display: none; }
+.modal-card { width: 100%; max-width: 430px; max-height: 90vh; overflow-y: auto; background: white; border-radius: 20px; padding: 23px; box-shadow: 0 20px 60px rgba(0,0,0,.25); }
+.modal-title { margin: 0 0 8px; text-align: center; font-size: 21px; color: var(--text); }
+.modal-copy { color: var(--muted); font-size: 14px; line-height: 1.55; text-align: center; margin: 0 0 18px; }
+.modal-label { display: block; font-size: 13px; font-weight: 700; margin: 13px 0 6px; }
+.modal-input { width: 100%; border: 2px solid var(--border); border-radius: 11px; padding: 13px; font: inherit; font-size: 15px; outline: none; }
+.modal-input:focus { border-color: var(--primary); }
+.phone-field { display: flex; align-items: center; border: 2px solid var(--border); border-radius: 11px; overflow: hidden; }
+.phone-field:focus-within { border-color: var(--primary); }
+.phone-prefix { padding: 13px 11px; background: #f1f5f9; font-weight: 700; color: var(--text); }
+.phone-field input { min-width: 0; flex: 1; border: 0; outline: 0; padding: 13px 10px; font: inherit; font-size: 15px; }
+.modal-error { color: #dc2626; font-size: 12px; min-height: 18px; margin-top: 6px; }
+.modal-actions { display: grid; gap: 10px; margin-top: 18px; }
+.modal-actions button { margin-top: 0; }
 .toast { padding: 12px 24px; border-radius: 30px; color: white; font-weight: bold; font-size: 14px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); animation: toastIn 0.3s ease-out forwards, toastOut 0.3s ease-in 2s forwards; text-align: center; }
 .toast.success { background: var(--success); }
 .toast.error { background: #dc2626; }
@@ -328,10 +343,47 @@ footer {
         <div><div style="font-size:24px; margin-bottom:5px;">❌</div><b id="resultWrong" style="color:#dc2626; font-size:18px;">0</b><br><span style="font-size:12px; color:var(--muted)">Salah</span></div>
       </div>
       
-      <button class="primary" onclick="location.reload()">ULANGI KUIS / KEMBALI KE AWAL</button>
+      <button class="primary" id="btnOpenReport">📩 KIRIM LAPORAN</button>
+      <button class="secondary" id="btnRestartQuiz" style="width:100%; margin-top:10px;">🔄 MULAI LAGI</button>
     </div>
   </section>
 </main>
+
+<div id="reportModal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="reportModalTitle">
+  <div class="modal-card">
+    <div style="text-align:center;font-size:38px;margin-bottom:6px;">📨</div>
+    <h2 class="modal-title" id="reportModalTitle">Kirim Laporan Belajar</h2>
+    <p class="modal-copy">Yuk, bagikan hasil belajarmu kepada Ayah, Bunda, atau Gurumu! 🥰</p>
+    <form id="reportForm">
+      <label class="modal-label" for="studentName">Nama siswa</label>
+      <input class="modal-input" id="studentName" type="text" maxlength="60" placeholder="Masukkan nama lengkapmu" required>
+      <label class="modal-label" for="parentPhone">Nomor WhatsApp orang tua atau guru</label>
+      <div class="phone-field">
+        <span class="phone-prefix">+62</span>
+        <input id="parentPhone" type="tel" inputmode="numeric" autocomplete="tel-national" placeholder="08xxxxxxxxxx" maxlength="16" required>
+      </div>
+      <div class="modal-copy" style="text-align:left;font-size:11px;margin:6px 0 0;">Masukkan nomor dengan awalan 08. Angka 0 di depan akan otomatis disesuaikan dengan kode negara +62.</div>
+      <div class="modal-error" id="reportError" aria-live="polite"></div>
+      <div class="modal-actions">
+        <button class="primary" type="submit">Buka WhatsApp &amp; Kirim</button>
+        <button class="secondary" type="button" id="btnCloseReport">Kembali ke Hasil</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div id="restartModal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="restartModalTitle">
+  <div class="modal-card">
+    <div style="text-align:center;font-size:40px;margin-bottom:6px;">🤔</div>
+    <h2 class="modal-title" id="restartModalTitle">Yakin mau mulai lagi?</h2>
+    <p class="modal-copy">Eits, hasil belajarmu belum dikirim, lho! Mau kasih tahu Ayah, Bunda, atau Gurumu tentang hasil kuismu dulu? Sayang banget kalau prestasimu belum dibagikan! 🥰</p>
+    <div class="modal-actions">
+      <button class="primary" type="button" id="btnReportFromConfirm">📩 KIRIM LAPORAN DULU</button>
+      <button class="secondary" type="button" id="btnConfirmRestart">🔄 YA, SAYA YAKIN! MULAI LAGI</button>
+      <button class="secondary" type="button" id="btnCancelRestart" style="border:0;">Tutup, lihat hasil dulu</button>
+    </div>
+  </div>
+</div>
 
 <div id="toast-container"></div>
 <footer>EDUYASA © 2026 • Kurikulum Merdeka</footer>
@@ -383,6 +435,7 @@ let correctAnswersCount = 0;
 let selectedOptionText = null;
 let selectedOptionLabel = null;
 let currentDisplayOptions = [];
+let quizAnswerResults = [];
 let audioCtx = null;
 
 async function renderMath(elementId) {
@@ -451,6 +504,29 @@ function playSound(type) {
     osc.start();
     osc.stop(audioCtx.currentTime + 0.5);
   }
+}
+
+function playCompletionChime() {
+  if (!audioCtx) return;
+  const now = audioCtx.currentTime;
+  const notes = [
+    { frequency: 659.25, start: 0, duration: 0.28 },
+    { frequency: 783.99, start: 0.13, duration: 0.32 },
+    { frequency: 1046.5, start: 0.29, duration: 0.55 }
+  ];
+  notes.forEach(note => {
+    const osc = audioCtx.createOscillator();
+    const gain = audioCtx.createGain();
+    osc.type = 'sine';
+    osc.frequency.setValueAtTime(note.frequency, now + note.start);
+    gain.gain.setValueAtTime(0.0001, now + note.start);
+    gain.gain.linearRampToValueAtTime(0.12, now + note.start + 0.025);
+    gain.gain.exponentialRampToValueAtTime(0.0001, now + note.start + note.duration);
+    osc.connect(gain);
+    gain.connect(audioCtx.destination);
+    osc.start(now + note.start);
+    osc.stop(now + note.start + note.duration + 0.02);
+  });
 }
 
 function showToast(isCorrect) {
@@ -850,6 +926,7 @@ document.getElementById('btnStartQuiz').onclick = async () => {
   quizQuestions = allValidQuestions.slice(0, 20);
   currentQuestionIndex = 0;
   correctAnswersCount = 0;
+  quizAnswerResults = [];
 
   btn.disabled = false;
   btn.textContent = "MULAI KUIS";
@@ -930,6 +1007,11 @@ async function checkAnswer() {
   showToast(isCorrect);
 
   if (isCorrect) correctAnswersCount++;
+  quizAnswerResults[currentQuestionIndex] = {
+    mapel: q.mapel,
+    bab: q.bab,
+    benar: isCorrect
+  };
 
   // Tampilkan huruf jawaban sesuai urutan opsi yang sedang ditampilkan.
   const explDiv = document.getElementById('quizExplanation');
@@ -962,11 +1044,117 @@ async function checkAnswer() {
 function showResults() {
   currentStep = 6;
   updateStepUI();
-  
-  const score = Math.round((correctAnswersCount / 20) * 100);
+
+  const score = Math.round((correctAnswersCount / quizQuestions.length) * 100);
   document.getElementById('resultScore').textContent = score;
   document.getElementById('resultCorrect').textContent = correctAnswersCount;
-  document.getElementById('resultWrong').textContent = 20 - correctAnswersCount;
+  document.getElementById('resultWrong').textContent = quizQuestions.length - correctAnswersCount;
+
+  if (audioCtx && audioCtx.state === 'suspended') audioCtx.resume();
+  playCompletionChime();
+}
+
+function buildReportMessage(studentName) {
+  const total = quizQuestions.length;
+  const wrong = total - correctAnswersCount;
+  const score = Math.round((correctAnswersCount / total) * 100);
+  const groups = new Map();
+
+  quizQuestions.forEach((question, index) => {
+    const key = question.mapel + '|' + question.bab;
+    if (!groups.has(key)) groups.set(key, { mapel: question.mapel, bab: question.bab, total: 0, benar: 0 });
+    const group = groups.get(key);
+    group.total++;
+    if (quizAnswerResults[index] && quizAnswerResults[index].benar) group.benar++;
+  });
+
+  const details = Array.from(groups.values()).map(group => {
+    const salah = group.total - group.benar;
+    const nilai = Math.round((group.benar / group.total) * 100);
+    return '• ' + group.mapel + ' - ' + group.bab + ': Nilai ' + nilai + ' (' + group.benar + ' benar, ' + salah + ' salah dari ' + group.total + ' soal)';
+  }).join('\n');
+
+  return [
+    '📚 *LAPORAN HASIL BELAJAR EDUYASA*',
+    '',
+    '👧 Nama siswa: ' + studentName,
+    '🏫 Kelas: 6 SD',
+    '',
+    '📝 *RINCIAN HASIL KUIS*',
+    details,
+    '',
+    '📊 *HASIL KESELURUHAN*',
+    '• Jumlah soal: ' + total,
+    '• Jawaban benar: ' + correctAnswersCount,
+    '• Jawaban salah: ' + wrong,
+    '• Nilai akhir: ' + score,
+    '',
+    '🎉 Terus semangat belajar dan tingkatkan prestasimu!',
+    '',
+    'Laporan dikirim melalui EDUYASA - Belajar Menyenangkan.'
+  ].join('\n');
+}
+
+function normalizeIndonesianPhone(rawPhone) {
+  let digits = rawPhone.replace(/\D/g, '');
+  if (digits.startsWith('0')) digits = digits.slice(1);
+  else if (digits.startsWith('62')) digits = digits.slice(2);
+  if (!/^8[1-9]\d{7,11}$/.test(digits)) return null;
+  return '62' + digits;
+}
+
+function openReportModal() {
+  document.getElementById('reportError').textContent = '';
+  document.getElementById('reportModal').classList.remove('hidden');
+  document.getElementById('studentName').focus();
+}
+
+function closeReportModal() {
+  document.getElementById('reportModal').classList.add('hidden');
+}
+
+function closeRestartModal() {
+  document.getElementById('restartModal').classList.add('hidden');
+}
+
+document.getElementById('btnOpenReport').addEventListener('click', openReportModal);
+document.getElementById('btnCloseReport').addEventListener('click', closeReportModal);
+document.getElementById('btnRestartQuiz').addEventListener('click', () => {
+  document.getElementById('restartModal').classList.remove('hidden');
+});
+document.getElementById('btnReportFromConfirm').addEventListener('click', () => {
+  closeRestartModal();
+  openReportModal();
+});
+document.getElementById('btnCancelRestart').addEventListener('click', closeRestartModal);
+document.getElementById('btnConfirmRestart').addEventListener('click', () => {
+  location.reload();
+});
+
+document.getElementById('parentPhone').addEventListener('input', event => {
+  event.target.value = event.target.value.replace(/[^0-9+\s-]/g, '');
+});
+
+document.getElementById('reportForm').addEventListener('submit', event => {
+  event.preventDefault();
+  const studentName = document.getElementById('studentName').value.trim();
+  const phoneInput = document.getElementById('parentPhone').value.trim();
+  const normalizedPhone = normalizeIndonesianPhone(phoneInput);
+  const error = document.getElementById('reportError');
+
+  if (studentName.length < 2) {
+    error.textContent = 'Nama siswa minimal 2 karakter, ya!';
+    return;
+  }
+  if (!normalizedPhone) {
+    error.textContent = 'Nomor belum sesuai. Masukkan nomor WhatsApp Indonesia, contohnya 081234567890.';
+    return;
+  }
+
+  const message = buildReportMessage(studentName);
+  const whatsappUrl = 'https://wa.me/' + normalizedPhone + '?text=' + encodeURIComponent(message);
+  window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
+  closeReportModal();
 }
 
 async function testGitHub() {
