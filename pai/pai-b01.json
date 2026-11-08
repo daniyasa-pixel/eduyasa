@@ -379,28 +379,28 @@
         {
           "id": "PAI-B01-Q029",
           "type": "PG",
-          "text": "Dalam kuis bab Belajar Al-Qur’an dan Hadis, pertanyaan yang harus kamu jawab adalah: Dalam kehidupan sehari-hari, pengetahuan tentang “Apa pengertian hadis atau sunah?” membantu kita memahami bahwa ...",
+          "text": "Menurut hadis tentang keutamaan memberi, siapa yang dimaksud dengan tangan di atas?",
           "options": [
-            "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi",
-            "Kisah semua raja",
-            "Pendapat setiap orang",
-            "Catatan sejarah saja"
+            "Orang yang memberi",
+            "Orang yang meminta",
+            "Orang yang menolak bantuan",
+            "Orang yang mengungkit pemberian"
           ],
-          "answer": "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi",
-          "discussion": "Hadis atau sunah mencakup perkataan, perbuatan, ketetapan, dan persetujuan Nabi."
+          "answer": "Orang yang memberi",
+          "discussion": "Hadis menjelaskan bahwa tangan di atas adalah tangan yang memberi, sedangkan tangan di bawah adalah tangan yang meminta."
         },
         {
           "id": "PAI-B01-Q030",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Belajar Al-Qur’an dan Hadis, jawablah pertanyaan berikut: Pernyataan yang paling tepat sesuai materi bab ini adalah: Perkataan, perbuatan, ketetapan, dan persetujuan Nabi. Hal itu menunjukkan ...",
+          "text": "Pemberian sukarela kepada orang lain ketika pemberi masih hidup disebut ...",
           "options": [
-            "Kisah semua raja",
-            "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi",
-            "Pendapat setiap orang",
-            "Catatan sejarah saja"
+            "Hadiah",
+            "Hibah",
+            "Sedekah jariah",
+            "Suap"
           ],
-          "answer": "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi",
-          "discussion": "Hadis atau sunah mencakup perkataan, perbuatan, ketetapan, dan persetujuan Nabi."
+          "answer": "Hibah",
+          "discussion": "Hibah adalah pemberian secara sukarela ketika pemberi masih hidup."
         }
       ]
     }
