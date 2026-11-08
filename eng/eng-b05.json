@@ -46,7 +46,7 @@
         {
           "id": "ENG-B05-003",
           "type": "PG",
-          "text": "Pipit enjoys making and programming a small robot. Which club fits Pipit's interest?",
+          "text": "Which sentence best reports Pipit's club activity?",
           "options": [
             "Pipit joined the robotics club and designed a robot.",
             "Bara practiced Pencak Silat before the competition.",
@@ -80,7 +80,7 @@
         {
           "id": "ENG-B05-005",
           "type": "PG",
-          "text": "The club displays a robot made by its members. Which activity are they doing?",
+          "text": "Pipit shows a robot at the club exhibition. Which sentence tells what Pipit did?",
           "options": [
             "Pipit joined the robotics club and designed a robot.",
             "The students danced in the dance club.",
@@ -127,7 +127,7 @@
         {
           "id": "ENG-B05-008",
           "type": "PG",
-          "text": "Bara practises an Indonesian martial art after school. Which club does he attend?",
+          "text": "Which sentence best describes Bara's after-school training?",
           "options": [
             "Bara practiced Pencak Silat before the competition.",
             "Ferdinand played musical instruments in the marching band club.",
@@ -153,7 +153,7 @@
         {
           "id": "ENG-B05-010",
           "type": "PG",
-          "text": "Bara practised his moves before a competition. Which club activity does this describe?",
+          "text": "Bara is preparing for a Pencak Silat competition. Which sentence describes his activity?",
           "options": [
             "Bara practiced Pencak Silat before the competition.",
             "The students joined the scouts.",
@@ -193,7 +193,7 @@
         {
           "id": "ENG-B05-013",
           "type": "PG",
-          "text": "Ferdinand plays drums and other instruments while marching. Which club is this?",
+          "text": "Which sentence tells what the marching band members did?",
           "options": [
             "Ferdinand played musical instruments in the marching band club.",
             "The students danced in the dance club.",
@@ -219,7 +219,7 @@
         {
           "id": "ENG-B05-015",
           "type": "PG",
-          "text": "You hear a group playing instruments while marching at a school event. Which club is performing?",
+          "text": "The school parade has just finished. Which sentence tells what the band did?",
           "options": [
             "The students joined the scouts.",
             "Ferdinand played musical instruments in the marching band club.",
@@ -258,7 +258,7 @@
         {
           "id": "ENG-B05-018",
           "type": "PG",
-          "text": "Mita draws, paints, and makes creative projects. Which club does she join?",
+          "text": "Which sentence describes Mita's creative activity?",
           "options": [
             "Pipit joined the robotics club and designed a robot.",
             "Mita worked on an artwork in the art club.",
@@ -285,7 +285,7 @@
         {
           "id": "ENG-B05-020",
           "type": "PG",
-          "text": "The students display paintings and handmade objects. Which club prepared the exhibition?",
+          "text": "The art club displays its work. Which sentence describes the students' activity?",
           "options": [
             "Pipit joined the robotics club and designed a robot.",
             "Mita worked on an artwork in the art club.",
@@ -324,7 +324,7 @@
         {
           "id": "ENG-B05-023",
           "type": "PG",
-          "text": "The students learn movements and perform dances together. Which club is this?",
+          "text": "Which sentence tells what the dance group practised?",
           "options": [
             "Bara practiced Pencak Silat before the competition.",
             "The students danced in the dance club.",
@@ -350,7 +350,7 @@
         {
           "id": "ENG-B05-025",
           "type": "PG",
-          "text": "The group practised a dance for the school celebration. Which club activity is shown?",
+          "text": "The students perform at the school celebration. Which sentence describes their activity?",
           "options": [
             "Bara practiced Pencak Silat before the competition.",
             "The students danced in the dance club.",
@@ -389,7 +389,7 @@
         {
           "id": "ENG-B05-028",
           "type": "PG",
-          "text": "Students learn teamwork and outdoor skills during meetings and camps. Which activity is this?",
+          "text": "Which sentence describes the students' group activity?",
           "options": [
             "Mita worked on an artwork in the art club.",
             "Ferdinand played musical instruments in the marching band club.",
@@ -416,7 +416,7 @@
         {
           "id": "ENG-B05-030",
           "type": "PG",
-          "text": "The students work together outdoors and learn useful skills. Which group did they join?",
+          "text": "The group returns from an outdoor activity. Which sentence tells what they did?",
           "options": [
             "Ferdinand played musical instruments in the marching band club.",
             "Mita worked on an artwork in the art club.",
@@ -455,7 +455,7 @@
         {
           "id": "ENG-B05-033",
           "type": "PG",
-          "text": "Last week, Bara practised Pencak Silat. Which verb tells the activity happened in the past?",
+          "text": "Which sentence correctly reports Bara's practice last week?",
           "options": [
             "Pipit joined the robotics club and designed a robot.",
             "Bara practiced Pencak Silat before the competition.",
@@ -481,7 +481,7 @@
         {
           "id": "ENG-B05-035",
           "type": "PG",
-          "text": "Yesterday, the club members trained for the competition. Which past-tense verb describes this?",
+          "text": "You are telling a friend about yesterday's training. Which sentence is correct?",
           "options": [
             "Mita worked on an artwork in the art club.",
             "The students danced in the dance club.",
@@ -521,7 +521,7 @@
         {
           "id": "ENG-B05-038",
           "type": "PG",
-          "text": "The marching band gave a show yesterday. Which past-tense verb means 'tampil'?",
+          "text": "Which sentence tells what the marching band did yesterday?",
           "options": [
             "Bara practiced Pencak Silat before the competition.",
             "Ferdinand played musical instruments in the marching band club.",
@@ -547,7 +547,7 @@
         {
           "id": "ENG-B05-040",
           "type": "PG",
-          "text": "The performance finished last night. Which verb describes what the band did?",
+          "text": "You are writing a report about last Friday's school event. Which sentence is correct?",
           "options": [
             "Bara practiced Pencak Silat last week.",
             "The students danced in the dance club.",
@@ -586,7 +586,7 @@
         {
           "id": "ENG-B05-043",
           "type": "PG",
-          "text": "During camping, the children made a tent. Which past form means 'membangun'?",
+          "text": "Which sentence reports what the campers did before it rained?",
           "options": [
             "Ferdinand played musical instruments in the marching band club.",
             "The students danced in the dance club.",
@@ -612,7 +612,7 @@
         {
           "id": "ENG-B05-045",
           "type": "PG",
-          "text": "The tent was ready before sunset. Which verb tells what the campers did?",
+          "text": "You are telling your friend about the tent you made. Which sentence is correct?",
           "options": [
             "Pipit joined the robotics club and designed a robot.",
             "Bara practiced Pencak Silat before the competition.",
@@ -652,7 +652,7 @@
         {
           "id": "ENG-B05-048",
           "type": "PG",
-          "text": "At night, the campers started a campfire. Which past form means 'menyalakan'?",
+          "text": "Which sentence tells what the campers did to start the fire?",
           "options": [
             "Ferdinand played musical instruments in the marching band club.",
             "Pipit joined the robotics club and designed a robot.",
@@ -678,7 +678,7 @@
         {
           "id": "ENG-B05-050",
           "type": "PG",
-          "text": "The fire was burning safely. Which verb tells how it started?",
+          "text": "You are telling a friend about the campfire last night. Which sentence is correct?",
           "options": [
             "Bara practiced Pencak Silat before the competition.",
             "Ferdinand played musical instruments in the marching band club.",
