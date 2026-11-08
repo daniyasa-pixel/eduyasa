@@ -172,7 +172,7 @@
                                         <span>Kelas 5</span>
                                         <span class="block text-[9px] font-semibold text-gray-400 mt-0.5">BELUM TERSEDIA</span>
                                     </button><button type="button" data-kelas="6" aria-pressed="false"
-                                        class="class-choice class-six-glow rounded-xl border-2 border-primary-400 bg-blue-50 text-primary-700 py-3 px-2 font-semibold transition-all ring-2 ring-blue-100 scale-[1.02] hover:bg-blue-100">
+                                        class="class-choice class-six-glow rounded-xl border-2 border-gray-200 bg-gray-100 text-gray-500 py-3 px-2 font-semibold transition-all">
                                         <span>Kelas 6</span>
                                         <span class="block text-[10px] font-bold text-primary-600 mt-0.5">TERSEDIA</span>
                                     </button>
@@ -302,6 +302,13 @@
                 const grade = Number(button.dataset.kelas);
 
                 if (grade !== 6) {
+                    selectedClass = null;
+                    const gradeSixButton = document.querySelector('.class-choice[data-kelas="6"]');
+                    gradeSixButton.setAttribute('aria-pressed', 'false');
+                    gradeSixButton.classList.remove('border-primary-600', 'bg-primary-600', 'text-white', 'shadow-md');
+                    gradeSixButton.classList.add('border-gray-200', 'bg-gray-100', 'text-gray-500');
+                    startLearningBtn.disabled = true;
+                    startLearningBtn.className = 'bg-gray-300 text-gray-500 cursor-not-allowed px-8 py-4 rounded-full font-semibold text-lg transition-all shadow-md flex items-center justify-center gap-2';
                     classSelectionMessage.textContent = 'Kelas ' + grade + ' belum tersedia.';
                     classSelectionMessage.className = 'text-sm text-amber-600 mt-3';
                     return;
@@ -323,6 +330,18 @@
                 classSelectionMessage.textContent = 'Kelas 6 dipilih. Tekan Mulai Belajar untuk melanjutkan.';
                 classSelectionMessage.className = 'text-sm text-green-600 mt-3 font-medium';
             });
+        });
+
+        // Batalkan tampilan terpilih jika fokus berpindah, kecuali menuju tombol Mulai Belajar.
+        const gradeSixButton = document.querySelector('.class-choice[data-kelas="6"]');
+        gradeSixButton.addEventListener('blur', (event) => {
+            if (event.relatedTarget === startLearningBtn) return;
+            selectedClass = null;
+            gradeSixButton.setAttribute('aria-pressed', 'false');
+            gradeSixButton.classList.remove('border-primary-600', 'bg-primary-600', 'text-white', 'shadow-md');
+            gradeSixButton.classList.add('border-gray-200', 'bg-gray-100', 'text-gray-500');
+            startLearningBtn.disabled = true;
+            startLearningBtn.className = 'bg-gray-300 text-gray-500 cursor-not-allowed px-8 py-4 rounded-full font-semibold text-lg transition-all shadow-md flex items-center justify-center gap-2';
         });
 
         startLearningBtn.addEventListener('click', () => {
