@@ -62,7 +62,7 @@
         {
           "id": "ENG-B01-004",
           "type": "PG",
-          "text": "Look at the picture. Which vegetable has green leaves?",
+          "text": "Look at the picture. What is the name under the left green leafy vegetable?",
           "options": [
             "Carrot",
             "Potato",
@@ -70,7 +70,7 @@
             "Spinach"
           ],
           "answer": "Spinach",
-          "discussion": "Spinach is a leafy green vegetable.",
+          "discussion": "The label under the left green leafy vegetable at the bottom of the chart says spinach.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
             "alt": "A chart showing leafy spinach"
@@ -113,7 +113,7 @@
         {
           "id": "ENG-B01-007",
           "type": "PG",
-          "text": "Look at the picture. Which vegetable is shown with long green leaves?",
+          "text": "Look at the picture. What is the name under the right green leafy vegetable?",
           "options": [
             "Carrot",
             "Eggplant",
@@ -121,7 +121,7 @@
             "Tomato"
           ],
           "answer": "Water spinach",
-          "discussion": "Water spinach, or kangkung, has long green stems and leaves in the illustration.",
+          "discussion": "The label under the right green leafy vegetable at the bottom of the chart says water spinach.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
             "alt": "A chart showing a carrot"
