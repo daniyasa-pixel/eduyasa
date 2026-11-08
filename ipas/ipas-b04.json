@@ -52,10 +52,10 @@
           "type": "PG",
           "text": "Upacara Rambu Solo dikenal berasal dari ...",
           "options": [
-            "Tana Toraja",
+            "Sumba",
             "Yogyakarta",
             "Bali",
-            "Sumba"
+            "Tana Toraja"
           ],
           "answer": "Tana Toraja",
           "discussion": "Rambu Solo merupakan salah satu tradisi masyarakat Tana Toraja."
@@ -65,8 +65,8 @@
           "type": "PG",
           "text": "Sekaten merupakan tradisi yang dikenal di ...",
           "options": [
-            "Papua",
             "Yogyakarta",
+            "Papua",
             "Sumba",
             "Minangkabau"
           ],
@@ -79,8 +79,8 @@
           "text": "Tradisi Pasola berasal dari ...",
           "options": [
             "Bali",
-            "Sulawesi Selatan",
             "Sumba",
+            "Sulawesi Selatan",
             "Jawa Barat"
           ],
           "answer": "Sumba",
@@ -91,9 +91,9 @@
           "type": "PG",
           "text": "Pakaian tradisional ulos berasal dari budaya ...",
           "options": [
-            "Batak",
-            "Betawi",
             "Dayak",
+            "Betawi",
+            "Batak",
             "Bugis"
           ],
           "answer": "Batak",
@@ -105,9 +105,9 @@
           "text": "Noken dikenal sebagai hasil budaya masyarakat ...",
           "options": [
             "Jawa",
-            "Papua",
+            "Minangkabau",
             "Bali",
-            "Minangkabau"
+            "Papua"
           ],
           "answer": "Papua",
           "discussion": "Noken merupakan tas tradisional yang dikenal dari Papua."
@@ -117,8 +117,8 @@
           "type": "PG",
           "text": "Sistem pengairan tradisional di Bali disebut ...",
           "options": [
-            "Manee",
             "Subak",
+            "Manee",
             "Mappalette Bola",
             "Maccera Bola"
           ],
@@ -131,8 +131,8 @@
           "text": "Semboyan yang menggambarkan persatuan dalam keberagaman adalah ...",
           "options": [
             "Tut Wuri Handayani",
-            "Ing Ngarsa Sung Tuladha",
             "Bhinneka Tunggal Ika",
+            "Ing Ngarsa Sung Tuladha",
             "Satu Nusa Satu Bahasa"
           ],
           "answer": "Bhinneka Tunggal Ika",
@@ -143,9 +143,9 @@
           "type": "PG",
           "text": "Dalam tradisi Mappalette Bola, masyarakat Bugis melakukan kegiatan ...",
           "options": [
-            "Memindahkan rumah panggung bersama-sama",
-            "Membangun kapal untuk menangkap ikan",
             "Menanam padi di sawah bertingkat",
+            "Membangun kapal untuk menangkap ikan",
+            "Memindahkan rumah panggung bersama-sama",
             "Membuat kain untuk upacara"
           ],
           "answer": "Memindahkan rumah panggung bersama-sama",
@@ -157,9 +157,9 @@
           "text": "Nilai utama yang terlihat ketika warga bergotong royong memindahkan rumah dalam Mappalette Bola adalah ...",
           "options": [
             "Persaingan",
-            "Kerja sama dan kebersamaan",
+            "Sikap mementingkan diri sendiri",
             "Keinginan menjadi terkenal",
-            "Sikap mementingkan diri sendiri"
+            "Kerja sama dan kebersamaan"
           ],
           "answer": "Kerja sama dan kebersamaan",
           "discussion": "Warga saling membantu sehingga tampak nilai gotong royong, kebersamaan, dan kekeluargaan."
@@ -169,9 +169,9 @@
           "type": "PG",
           "text": "Dalam Mappalette Bola, warga yang memimpin dan memberi arahan menunjukkan pentingnya ...",
           "options": [
-            "Menghindari musyawarah",
-            "Bekerja sendiri",
             "Koordinasi agar pekerjaan berjalan tertib",
+            "Bekerja sendiri",
+            "Menghindari musyawarah",
             "Membiarkan setiap orang bekerja sesukanya"
           ],
           "answer": "Koordinasi agar pekerjaan berjalan tertib",
@@ -182,8 +182,8 @@
           "type": "PG",
           "text": "Pada tradisi Mappalette Bola, para perempuan menyiapkan makanan untuk warga yang membantu. Hal ini menunjukkan ...",
           "options": [
-            "Setiap orang dapat berperan sesuai kemampuannya",
             "Hanya satu kelompok yang boleh bekerja",
+            "Setiap orang dapat berperan sesuai kemampuannya",
             "Pekerjaan utama tidak perlu dibantu",
             "Kegiatan bersama harus dilakukan tanpa persiapan"
           ],
@@ -196,8 +196,8 @@
           "text": "Maccera Bola dalam rangkaian tradisi Mappalette Bola dilakukan ...",
           "options": [
             "Sebelum rumah dipindahkan",
-            "Satu tahun kemudian",
             "Setiap minggu",
+            "Satu tahun kemudian",
             "Saat musim panen saja"
           ],
           "answer": "Satu tahun kemudian",
@@ -210,8 +210,8 @@
           "options": [
             "Menghias rumah adat",
             "Menandai batas desa",
-            "Mengarahkan ikan agar mudah ditangkap",
-            "Menyimpan hasil panen"
+            "Menyimpan hasil panen",
+            "Mengarahkan ikan agar mudah ditangkap"
           ],
           "answer": "Mengarahkan ikan agar mudah ditangkap",
           "discussion": "Anyaman janur digunakan untuk membantu mengarahkan ikan saat tradisi Manee."
@@ -248,8 +248,8 @@
           "text": "Salah satu nilai yang dapat dipelajari dari tradisi Manee adalah ...",
           "options": [
             "Mengambil ikan sebanyak-banyaknya tanpa aturan",
-            "Menjaga laut dan bekerja sama",
             "Menyimpan semua hasil untuk diri sendiri",
+            "Menjaga laut dan bekerja sama",
             "Menghindari kegiatan bersama"
           ],
           "answer": "Menjaga laut dan bekerja sama",
@@ -260,10 +260,10 @@
           "type": "PG",
           "text": "Subak di Bali mengatur ...",
           "options": [
-            "Pembagian air untuk sawah",
+            "Upacara kelahiran",
             "Perdagangan kain",
             "Pemindahan rumah",
-            "Upacara kelahiran"
+            "Pembagian air untuk sawah"
           ],
           "answer": "Pembagian air untuk sawah",
           "discussion": "Subak merupakan sistem pengairan tradisional yang mengatur pengelolaan air, terutama untuk sawah."
@@ -273,8 +273,8 @@
           "type": "PG",
           "text": "Salah satu nilai dalam pengelolaan Subak adalah demokrasi. Artinya, warga ...",
           "options": [
-            "Tidak boleh menyampaikan pendapat",
             "Mengambil keputusan bersama melalui kesepakatan",
+            "Tidak boleh menyampaikan pendapat",
             "Harus mengikuti keputusan satu orang tanpa diskusi",
             "Bersaing mendapatkan air sebanyak-banyaknya"
           ],
@@ -287,8 +287,8 @@
           "text": "Subak mengajarkan hubungan yang seimbang antara ...",
           "options": [
             "Pedagang, pembeli, dan pasar",
-            "Guru, murid, dan sekolah",
             "Tuhan, manusia, dan alam",
+            "Guru, murid, dan sekolah",
             "Kota, desa, dan jalan"
           ],
           "answer": "Tuhan, manusia, dan alam",
@@ -313,9 +313,9 @@
           "text": "Contoh penerapan kearifan lokal dalam kehidupan sehari-hari adalah ...",
           "options": [
             "Membuang sampah ke sungai",
-            "Bermusyawarah saat menentukan kegiatan kelas",
+            "Menggunakan air tanpa batas",
             "Mengejek teman yang berbeda bahasa",
-            "Menggunakan air tanpa batas"
+            "Bermusyawarah saat menentukan kegiatan kelas"
           ],
           "answer": "Bermusyawarah saat menentukan kegiatan kelas",
           "discussion": "Musyawarah merupakan salah satu nilai kearifan lokal yang dapat diterapkan dalam kehidupan sehari-hari."
@@ -365,9 +365,9 @@
           "text": "Keluarga Aga mengingatkan agar tidak bermain saat senja. Sikap yang bijak terhadap nasihat itu adalah ...",
           "options": [
             "Langsung menganggapnya tidak berguna",
-            "Memahami pesan keselamatan di balik nasihat dan menyesuaikannya dengan keadaan",
+            "Mengabaikan semua nasihat keluarga",
             "Mengejek orang yang memberi nasihat",
-            "Mengabaikan semua nasihat keluarga"
+            "Memahami pesan keselamatan di balik nasihat dan menyesuaikannya dengan keadaan"
           ],
           "answer": "Memahami pesan keselamatan di balik nasihat dan menyesuaikannya dengan keadaan",
           "discussion": "Nasihat tradisional dapat mengandung pesan keselamatan, misalnya menghindari tempat gelap atau kurang penerangan."
@@ -404,8 +404,8 @@
           "text": "Pada masa Mataram Kuno terdapat pemeluk agama Hindu dari Wangsa Sanjaya dan Buddha dari Wangsa Syailendra. Fakta ini menunjukkan ...",
           "options": [
             "Masyarakat selalu memiliki kebiasaan yang sama",
-            "Keberagaman keyakinan telah ada dalam sejarah",
             "Semua bangunan dibuat untuk tujuan yang sama",
+            "Keberagaman keyakinan telah ada dalam sejarah",
             "Perbedaan selalu menyebabkan pertengkaran"
           ],
           "answer": "Keberagaman keyakinan telah ada dalam sejarah",
@@ -417,9 +417,9 @@
           "text": "Candi Plaosan menjadi contoh sikap toleransi karena ...",
           "options": [
             "Hanya memiliki satu bentuk bangunan",
-            "Memadukan unsur Hindu dan Buddha",
+            "Tidak berkaitan dengan sejarah",
             "Dibangun sebagai pasar",
-            "Tidak berkaitan dengan sejarah"
+            "Memadukan unsur Hindu dan Buddha"
           ],
           "answer": "Memadukan unsur Hindu dan Buddha",
           "discussion": "Candi Plaosan memperlihatkan perpaduan unsur Hindu dan Buddha."
@@ -429,8 +429,8 @@
           "type": "PG",
           "text": "Borobudur dikenal sebagai candi bercorak ...",
           "options": [
-            "Hindu",
             "Buddha",
+            "Hindu",
             "Islam",
             "Konghucu"
           ],
@@ -456,8 +456,8 @@
           "text": "Ketika kelas mengadakan survei makanan khas daerah, tujuan kegiatan yang sesuai adalah ...",
           "options": [
             "Menentukan makanan daerah yang paling unggul",
-            "Mengenal kekayaan budaya dan menghargai perbedaan",
             "Membuktikan makanan daerah lain tidak enak",
+            "Mengenal kekayaan budaya dan menghargai perbedaan",
             "Memilih satu makanan untuk menggantikan semuanya"
           ],
           "answer": "Mengenal kekayaan budaya dan menghargai perbedaan",
@@ -468,10 +468,10 @@
           "type": "PG",
           "text": "Salah satu alasan tradisi dapat menyesuaikan diri dengan perkembangan zaman adalah ...",
           "options": [
-            "Nilai tradisi dapat tetap dijaga sambil memanfaatkan teknologi",
+            "Tradisi hanya boleh dilakukan dengan cara lama",
             "Semua tradisi harus dihentikan",
             "Teknologi selalu menghapus budaya",
-            "Tradisi hanya boleh dilakukan dengan cara lama"
+            "Nilai tradisi dapat tetap dijaga sambil memanfaatkan teknologi"
           ],
           "answer": "Nilai tradisi dapat tetap dijaga sambil memanfaatkan teknologi",
           "discussion": "Tradisi dapat beradaptasi, misalnya menggunakan teknologi untuk mengenalkan budaya tanpa menghilangkan nilai pentingnya."
@@ -481,8 +481,8 @@
           "type": "PG",
           "text": "Kearifan lokal yang berkaitan dengan alam sebaiknya mendorong masyarakat untuk ...",
           "options": [
-            "Menghabiskan sumber daya alam",
             "Menjaga lingkungan dan menggunakan sumber daya secara bijak",
+            "Menghabiskan sumber daya alam",
             "Membuang limbah ke laut",
             "Menebang pohon tanpa pertimbangan"
           ],
@@ -507,9 +507,9 @@
           "type": "PG",
           "text": "Dalam kegiatan Manee, ikan hasil tangkapan dibagikan sama rata. Jika seseorang meminta bagian lebih banyak karena merasa paling kuat, tindakan itu bertentangan dengan nilai ...",
           "options": [
-            "Keadilan dan kebersamaan",
-            "Keberanian dan kreativitas",
             "Ketelitian dan keterampilan",
+            "Keberanian dan kreativitas",
+            "Keadilan dan kebersamaan",
             "Kesabaran dan kemandirian"
           ],
           "answer": "Keadilan dan kebersamaan",
@@ -521,9 +521,9 @@
           "text": "Petani di suatu wilayah mengalami kekurangan air. Mereka ingin meniru nilai Subak untuk mengatasi masalah tersebut. Langkah yang paling sesuai adalah ...",
           "options": [
             "Setiap petani mengambil air sebanyak mungkin",
-            "Membuat kesepakatan pembagian air melalui musyawarah",
+            "Menyerahkan seluruh keputusan kepada satu orang tanpa diskusi",
             "Menutup saluran air milik petani lain",
-            "Menyerahkan seluruh keputusan kepada satu orang tanpa diskusi"
+            "Membuat kesepakatan pembagian air melalui musyawarah"
           ],
           "answer": "Membuat kesepakatan pembagian air melalui musyawarah",
           "discussion": "Nilai Subak dapat diterapkan melalui kerja sama, musyawarah, dan pembagian air yang adil."
@@ -533,8 +533,8 @@
           "type": "PG",
           "text": "Sekelompok siswa bermain petak umpet di halaman sekolah. Agar permainan berlangsung baik, mereka menyepakati batas tempat bermain dan aturan bersama. Nilai yang paling tampak adalah ...",
           "options": [
-            "Persaingan tanpa aturan",
             "Musyawarah dan sportivitas",
+            "Persaingan tanpa aturan",
             "Keinginan menguasai teman",
             "Menghindari tanggung jawab"
           ],
@@ -560,8 +560,8 @@
           "text": "Aga mendengar nasihat keluarga agar tidak bermain di luar saat senja. Ia tinggal di lingkungan yang penerangannya kurang baik. Sikap yang menunjukkan pemahaman terhadap kearifan lokal adalah ...",
           "options": [
             "Menolak nasihat karena dianggap kuno",
-            "Memahami risiko lingkungan gelap dan memilih bermain di tempat aman",
             "Menyebarkan bahwa nasihat keluarga selalu salah",
+            "Memahami risiko lingkungan gelap dan memilih bermain di tempat aman",
             "Tetap bermain jauh dari rumah tanpa memberi tahu siapa pun"
           ],
           "answer": "Memahami risiko lingkungan gelap dan memilih bermain di tempat aman",
@@ -573,9 +573,9 @@
           "text": "Sekolah mengadakan pekan budaya. Ada siswa yang mengusulkan hanya menampilkan budaya daerah terbanyak di kelas. Tanggapan yang paling mencerminkan Bhinneka Tunggal Ika adalah ...",
           "options": [
             "Setuju karena budaya lain kurang penting",
-            "Memberi kesempatan berbagai budaya tampil secara adil",
+            "Memilih budaya yang paling dikenal saja",
             "Membatalkan kegiatan agar tidak ada perbedaan",
-            "Memilih budaya yang paling dikenal saja"
+            "Memberi kesempatan berbagai budaya tampil secara adil"
           ],
           "answer": "Memberi kesempatan berbagai budaya tampil secara adil",
           "discussion": "Persatuan dalam keberagaman berarti memberi penghargaan dan ruang yang setara bagi budaya yang berbeda."
@@ -585,8 +585,8 @@
           "type": "PG",
           "text": "Pada masa Mataram Kuno, hubungan Rakai Pikatan dan Pramodawardhani dikaitkan dengan sikap saling menghormati. Pelajaran yang dapat diterapkan di sekolah adalah ...",
           "options": [
-            "Berteman hanya dengan orang yang sekeyakinan",
             "Bekerja sama meskipun memiliki perbedaan latar belakang",
+            "Berteman hanya dengan orang yang sekeyakinan",
             "Menghindari kegiatan bersama",
             "Meminta semua teman memiliki kebiasaan sama"
           ],
@@ -612,8 +612,8 @@
           "text": "Sebuah tradisi mulai jarang dilakukan oleh anak muda. Cara yang paling tepat untuk membantu melestarikannya adalah ...",
           "options": [
             "Memaksa semua anak mengikuti tanpa penjelasan",
-            "Mengenalkan makna tradisi dengan cara menarik dan sesuai perkembangan zaman",
             "Mengubah seluruh makna tradisi agar menjadi hiburan",
+            "Mengenalkan makna tradisi dengan cara menarik dan sesuai perkembangan zaman",
             "Menyimpan tradisi hanya untuk orang tua"
           ],
           "answer": "Mengenalkan makna tradisi dengan cara menarik dan sesuai perkembangan zaman",
@@ -625,9 +625,9 @@
           "text": "Warga ingin membangun fasilitas umum di dekat sumber air yang selama ini dijaga bersama. Agar keputusan tidak merusak lingkungan dan tetap diterima warga, sebaiknya mereka ...",
           "options": [
             "Langsung membangun tanpa bertanya",
-            "Bermusyawarah dengan mempertimbangkan kebutuhan warga dan kelestarian alam",
+            "Menutup akses warga lain ke sumber air",
             "Mengutamakan keuntungan satu keluarga",
-            "Menutup akses warga lain ke sumber air"
+            "Bermusyawarah dengan mempertimbangkan kebutuhan warga dan kelestarian alam"
           ],
           "answer": "Bermusyawarah dengan mempertimbangkan kebutuhan warga dan kelestarian alam",
           "discussion": "Musyawarah dan kepedulian terhadap alam merupakan nilai kearifan lokal yang dapat menjadi dasar keputusan bersama."
@@ -637,8 +637,8 @@
           "type": "PG",
           "text": "Dalam kegiatan kelas, siswa diminta membandingkan dua tradisi daerah. Agar tidak merendahkan salah satunya, mereka sebaiknya ...",
           "options": [
-            "Menentukan tradisi yang paling modern",
             "Mencari nilai dan tujuan masing-masing tradisi secara adil",
+            "Menentukan tradisi yang paling modern",
             "Menertawakan tradisi yang tidak dikenal",
             "Menganggap semua tradisi memiliki tata cara yang sama"
           ],
