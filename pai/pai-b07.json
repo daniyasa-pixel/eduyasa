@@ -11,396 +11,392 @@
         {
           "id": "PAI-B07-Q001",
           "type": "PG",
-          "text": "Apa pengertian qada?",
+          "text": "Iman kepada qada dan kadar merupakan rukun iman ke ...",
           "options": [
-            "Ketetapan Allah terhadap makhluk-Nya sejak zaman azali",
-            "Perwujudan ketetapan yang telah terjadi",
-            "Usaha manusia untuk sukses",
-            "Doa yang dipanjatkan setiap hari"
+            "Enam",
+            "Lima",
+            "Empat",
+            "Tujuh"
           ],
-          "answer": "Ketetapan Allah terhadap makhluk-Nya sejak zaman azali",
-          "discussion": "Qada adalah ketetapan Allah terhadap makhluk-Nya sejak zaman azali."
+          "answer": "Enam",
+          "discussion": "Iman kepada qada dan kadar adalah rukun iman keenam."
         },
         {
           "id": "PAI-B07-Q002",
           "type": "PG",
-          "text": "Sebelum makhluk diciptakan, ketetapan Allah disebut ...",
+          "text": "Apa yang dimaksud qada dalam materi bab ini?",
           "options": [
-            "Perwujudan ketetapan yang telah terjadi",
-            "Ketetapan Allah terhadap makhluk-Nya sejak zaman azali",
-            "Usaha manusia untuk sukses",
-            "Doa yang dipanjatkan setiap hari"
+            "Usaha manusia sehari-hari",
+            "Ketetapan Allah sejak zaman azali",
+            "Hasil ujian sekolah",
+            "Keputusan yang dibuat manusia"
           ],
-          "answer": "Ketetapan Allah terhadap makhluk-Nya sejak zaman azali",
-          "discussion": "Qada adalah ketetapan Allah terhadap makhluk-Nya sejak zaman azali."
+          "answer": "Ketetapan Allah sejak zaman azali",
+          "discussion": "Qada dijelaskan sebagai ketetapan Allah sejak zaman azali."
         },
         {
           "id": "PAI-B07-Q003",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Indahnya Ketetapan Allah adalah: Apa pengertian qada?",
+          "text": "Apa yang dimaksud kadar?",
           "options": [
-            "Perwujudan ketetapan yang telah terjadi",
-            "Usaha manusia untuk sukses",
-            "Ketetapan Allah terhadap makhluk-Nya sejak zaman azali",
-            "Doa yang dipanjatkan setiap hari"
+            "Keinginan manusia tanpa batas",
+            "Usaha yang dilakukan tanpa doa",
+            "Perwujudan ketetapan Allah pada makhluk dalam ukuran tertentu",
+            "Keputusan yang dibuat teman"
           ],
-          "answer": "Ketetapan Allah terhadap makhluk-Nya sejak zaman azali",
-          "discussion": "Qada adalah ketetapan Allah terhadap makhluk-Nya sejak zaman azali."
+          "answer": "Perwujudan ketetapan Allah pada makhluk dalam ukuran tertentu",
+          "discussion": "Kadar berkaitan dengan perwujudan ketetapan Allah sesuai ukuran dan kehendak-Nya."
         },
         {
           "id": "PAI-B07-Q004",
           "type": "PG",
-          "text": "Apa pengertian kadar?",
+          "text": "Apa arti takdir mubram?",
           "options": [
-            "Ketetapan sebelum makhluk ada",
-            "Keinginan manusia",
-            "Usaha tanpa doa",
-            "Perwujudan qada yang telah terjadi pada makhluk dalam ukuran tertentu"
+            "Ketetapan yang pasti berubah karena usaha",
+            "Rencana yang dibuat manusia",
+            "Hasil yang ditentukan teman",
+            "Ketetapan Allah yang tidak dapat diubah manusia"
           ],
-          "answer": "Perwujudan qada yang telah terjadi pada makhluk dalam ukuran tertentu",
-          "discussion": "Kadar adalah perwujudan qada yang telah terjadi sesuai kehendak Allah."
+          "answer": "Ketetapan Allah yang tidak dapat diubah manusia",
+          "discussion": "Takdir mubram merupakan ketetapan yang tidak dapat diubah manusia."
         },
         {
           "id": "PAI-B07-Q005",
           "type": "PG",
-          "text": "Ketetapan Allah yang sudah nyata terjadi pada makhluk disebut ...",
+          "text": "Apa arti takdir muallaq?",
           "options": [
-            "Perwujudan qada yang telah terjadi pada makhluk dalam ukuran tertentu",
-            "Ketetapan sebelum makhluk ada",
-            "Keinginan manusia",
-            "Usaha tanpa doa"
+            "Ketetapan yang berkaitan dengan usaha atau sebab yang dilakukan manusia",
+            "Ketetapan yang tidak memiliki hubungan dengan usaha",
+            "Keputusan yang dibuat tanpa izin Allah",
+            "Peristiwa yang selalu terjadi secara kebetulan"
           ],
-          "answer": "Perwujudan qada yang telah terjadi pada makhluk dalam ukuran tertentu",
-          "discussion": "Kadar adalah perwujudan qada yang telah terjadi sesuai kehendak Allah."
+          "answer": "Ketetapan yang berkaitan dengan usaha atau sebab yang dilakukan manusia",
+          "discussion": "Takdir muallaq berkaitan dengan sebab atau ikhtiar manusia sesuai izin Allah."
         },
         {
           "id": "PAI-B07-Q006",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Indahnya Ketetapan Allah adalah: Apa pengertian kadar?",
+          "text": "Contoh takdir mubram yang mudah dipahami adalah ...",
           "options": [
-            "Ketetapan sebelum makhluk ada",
-            "Perwujudan qada yang telah terjadi pada makhluk dalam ukuran tertentu",
-            "Keinginan manusia",
-            "Usaha tanpa doa"
+            "Nilai ulangan setelah belajar",
+            "Waktu dan tempat kelahiran seseorang",
+            "Kemampuan bermain bola setelah latihan",
+            "Hasil lomba setelah berusaha"
           ],
-          "answer": "Perwujudan qada yang telah terjadi pada makhluk dalam ukuran tertentu",
-          "discussion": "Kadar adalah perwujudan qada yang telah terjadi sesuai kehendak Allah."
+          "answer": "Waktu dan tempat kelahiran seseorang",
+          "discussion": "Manusia tidak memilih waktu kelahirannya."
         },
         {
           "id": "PAI-B07-Q007",
           "type": "PG",
-          "text": "Iman kepada qada dan kadar merupakan rukun iman ke berapa?",
+          "text": "Contoh keadaan yang dapat dipengaruhi ikhtiar adalah ...",
           "options": [
-            "Rukun iman pertama",
-            "Rukun iman ketiga",
-            "Rukun iman keenam",
-            "Rukun iman kelima"
+            "Jenis kelamin saat lahir",
+            "Waktu kelahiran",
+            "Kemampuan belajar yang berkembang melalui latihan",
+            "Orang tua yang melahirkan"
           ],
-          "answer": "Rukun iman keenam",
-          "discussion": "Iman kepada qada dan kadar merupakan rukun iman keenam."
+          "answer": "Kemampuan belajar yang berkembang melalui latihan",
+          "discussion": "Latihan dan usaha dapat mengembangkan kemampuan belajar."
         },
         {
           "id": "PAI-B07-Q008",
           "type": "PG",
-          "text": "Jika menyebut urutan rukun iman, iman kepada takdir berada pada urutan ...",
+          "text": "Apa yang dimaksud ikhtiar?",
           "options": [
-            "Rukun iman pertama",
-            "Rukun iman ketiga",
-            "Rukun iman kelima",
-            "Rukun iman keenam"
+            "Menyerah sebelum mencoba",
+            "Menunggu tanpa melakukan apa pun",
+            "Meminta orang lain bekerja untuk kita",
+            "Berusaha sungguh-sungguh untuk mencapai tujuan baik"
           ],
-          "answer": "Rukun iman keenam",
-          "discussion": "Iman kepada qada dan kadar merupakan rukun iman keenam."
+          "answer": "Berusaha sungguh-sungguh untuk mencapai tujuan baik",
+          "discussion": "Ikhtiar adalah usaha sungguh-sungguh."
         },
         {
           "id": "PAI-B07-Q009",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Indahnya Ketetapan Allah adalah: Iman kepada qada dan kadar merupakan rukun iman ke berapa?",
+          "text": "Apa arti tawakal?",
           "options": [
-            "Rukun iman keenam",
-            "Rukun iman pertama",
-            "Rukun iman ketiga",
-            "Rukun iman kelima"
+            "Berserah diri kepada Allah setelah berusaha dan berdoa",
+            "Tidak mau berusaha karena semua sudah ditentukan",
+            "Menyerahkan tugas kepada teman",
+            "Berhenti berdoa setelah gagal"
           ],
-          "answer": "Rukun iman keenam",
-          "discussion": "Iman kepada qada dan kadar merupakan rukun iman keenam."
+          "answer": "Berserah diri kepada Allah setelah berusaha dan berdoa",
+          "discussion": "Tawakal dilakukan setelah ikhtiar dan doa."
         },
         {
           "id": "PAI-B07-Q010",
           "type": "PG",
-          "text": "Perhatikan bagan jenis takdir. Apa yang dimaksud takdir mubram?",
+          "text": "Mengapa tawakal tidak boleh dijadikan alasan untuk bermalas-malasan?",
           "options": [
-            "Ketetapan yang bergantung pada usaha manusia",
-            "Ketetapan Allah yang pasti dan tidak dapat diubah manusia",
-            "Pilihan yang bebas ditentukan manusia",
-            "Rencana yang belum dilakukan"
+            "Karena usaha tidak memiliki manfaat",
+            "Karena manusia tetap diwajibkan berusaha dan berdoa",
+            "Karena semua hasil ditentukan manusia",
+            "Karena doa hanya dilakukan setelah berhasil"
           ],
-          "answer": "Ketetapan Allah yang pasti dan tidak dapat diubah manusia",
-          "discussion": "Takdir mubram bersifat tetap dan tidak dapat diubah dengan usaha manusia.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/qada-takdir.svg",
-            "alt": "Bagan perbedaan takdir mubram dan muallaq"
-          }
+          "answer": "Karena manusia tetap diwajibkan berusaha dan berdoa",
+          "discussion": "Materi menegaskan usaha dan doa harus berjalan bersama."
         },
         {
           "id": "PAI-B07-Q011",
           "type": "PG",
-          "text": "Ajal termasuk contoh takdir ...",
+          "text": "Seorang siswa ingin lulus ujian. Sikap yang menunjukkan ikhtiar adalah ...",
           "options": [
-            "Ketetapan yang bergantung pada usaha manusia",
-            "Pilihan yang bebas ditentukan manusia",
-            "Ketetapan Allah yang pasti dan tidak dapat diubah manusia",
-            "Rencana yang belum dilakukan"
+            "Tidak belajar lalu berharap mendapat nilai tinggi",
+            "Menyontek jawaban teman",
+            "Belajar teratur dan mengerjakan latihan",
+            "Menyalahkan guru sebelum ujian"
           ],
-          "answer": "Ketetapan Allah yang pasti dan tidak dapat diubah manusia",
-          "discussion": "Takdir mubram bersifat tetap dan tidak dapat diubah dengan usaha manusia."
+          "answer": "Belajar teratur dan mengerjakan latihan",
+          "discussion": "Belajar adalah bentuk usaha untuk mencapai hasil baik."
         },
         {
           "id": "PAI-B07-Q012",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Indahnya Ketetapan Allah adalah: Apa yang dimaksud takdir mubram?",
+          "text": "Setelah belajar sungguh-sungguh, sikap yang tepat adalah ...",
           "options": [
-            "Ketetapan yang bergantung pada usaha manusia",
-            "Pilihan yang bebas ditentukan manusia",
-            "Rencana yang belum dilakukan",
-            "Ketetapan Allah yang pasti dan tidak dapat diubah manusia"
+            "Merasa pasti lebih hebat dari teman",
+            "Menyalahkan orang lain jika gagal",
+            "Berhenti berusaha selamanya",
+            "Berdoa dan bertawakal kepada Allah"
           ],
-          "answer": "Ketetapan Allah yang pasti dan tidak dapat diubah manusia",
-          "discussion": "Takdir mubram bersifat tetap dan tidak dapat diubah dengan usaha manusia."
+          "answer": "Berdoa dan bertawakal kepada Allah",
+          "discussion": "Setelah usaha, seseorang berdoa dan menyerahkan hasil kepada Allah."
         },
         {
           "id": "PAI-B07-Q013",
           "type": "PG",
-          "text": "Apa yang dimaksud takdir muallaq?",
+          "text": "Apa yang sebaiknya dilakukan ketika memperoleh hasil yang baik?",
           "options": [
-            "Ketetapan yang berkaitan dengan ikhtiar dan doa manusia",
-            "Ketetapan yang tidak dapat diubah dengan usaha",
-            "Ketetapan tanpa kehendak Allah",
-            "Keputusan yang dibuat manusia sebagai Tuhan"
+            "Bersyukur dan tidak sombong",
+            "Menghina teman yang belum berhasil",
+            "Menganggap keberhasilan hanya karena diri sendiri",
+            "Berhenti membantu orang lain"
           ],
-          "answer": "Ketetapan yang berkaitan dengan ikhtiar dan doa manusia",
-          "discussion": "Takdir muallaq berkaitan dengan usaha dan doa manusia."
+          "answer": "Bersyukur dan tidak sombong",
+          "discussion": "Hasil baik perlu disyukuri dengan ucapan dan perbuatan."
         },
         {
           "id": "PAI-B07-Q014",
           "type": "PG",
-          "text": "Usaha dan doa manusia berkaitan dengan jenis takdir ...",
+          "text": "Apa sikap yang tepat ketika usaha belum berhasil?",
           "options": [
-            "Ketetapan yang tidak dapat diubah dengan usaha",
-            "Ketetapan yang berkaitan dengan ikhtiar dan doa manusia",
-            "Ketetapan tanpa kehendak Allah",
-            "Keputusan yang dibuat manusia sebagai Tuhan"
+            "Berputus asa selamanya",
+            "Bersabar, mengevaluasi usaha, dan mencoba kembali",
+            "Menyalahkan takdir dan berhenti belajar",
+            "Mengejek orang yang berhasil"
           ],
-          "answer": "Ketetapan yang berkaitan dengan ikhtiar dan doa manusia",
-          "discussion": "Takdir muallaq berkaitan dengan usaha dan doa manusia."
+          "answer": "Bersabar, mengevaluasi usaha, dan mencoba kembali",
+          "discussion": "Materi mengajarkan sabar dan tetap berusaha ketika hasil belum sesuai harapan."
         },
         {
           "id": "PAI-B07-Q015",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Indahnya Ketetapan Allah adalah: Apa yang dimaksud takdir muallaq?",
+          "text": "Apa arti sabar dalam menghadapi takdir?",
           "options": [
-            "Ketetapan yang tidak dapat diubah dengan usaha",
-            "Ketetapan tanpa kehendak Allah",
-            "Ketetapan yang berkaitan dengan ikhtiar dan doa manusia",
-            "Keputusan yang dibuat manusia sebagai Tuhan"
+            "Diam tanpa mencari solusi",
+            "Membiarkan diri melakukan kesalahan",
+            "Mengendalikan diri dan menerima ketetapan Allah dengan ikhlas",
+            "Menolak semua nasihat"
           ],
-          "answer": "Ketetapan yang berkaitan dengan ikhtiar dan doa manusia",
-          "discussion": "Takdir muallaq berkaitan dengan usaha dan doa manusia."
+          "answer": "Mengendalikan diri dan menerima ketetapan Allah dengan ikhlas",
+          "discussion": "Sabar berarti mengendalikan diri dan menerima ketetapan Allah dengan ikhlas."
         },
         {
           "id": "PAI-B07-Q016",
           "type": "PG",
-          "text": "Apa arti ikhtiar?",
+          "text": "Apa arti syukur?",
           "options": [
-            "Menyerah sebelum mencoba",
-            "Hanya menunggu hasil",
-            "Menyalahkan keadaan",
-            "Berusaha sungguh-sungguh untuk memperoleh kebaikan"
+            "Membandingkan nikmat dengan milik orang lain",
+            "Menganggap keberhasilan hanya karena diri sendiri",
+            "Meminta pujian dari orang lain",
+            "Berterima kasih kepada Allah atas nikmat yang diberikan"
           ],
-          "answer": "Berusaha sungguh-sungguh untuk memperoleh kebaikan",
-          "discussion": "Ikhtiar adalah usaha sungguh-sungguh."
+          "answer": "Berterima kasih kepada Allah atas nikmat yang diberikan",
+          "discussion": "Syukur adalah ungkapan terima kasih kepada Allah atas nikmat."
         },
         {
           "id": "PAI-B07-Q017",
           "type": "PG",
-          "text": "Belajar tekun agar memahami pelajaran merupakan contoh ...",
+          "text": "Bagaimana cara bersyukur melalui perbuatan?",
           "options": [
-            "Berusaha sungguh-sungguh untuk memperoleh kebaikan",
-            "Menyerah sebelum mencoba",
-            "Hanya menunggu hasil",
-            "Menyalahkan keadaan"
+            "Menggunakan nikmat untuk taat dan berbuat baik",
+            "Menggunakan nikmat untuk menyombongkan diri",
+            "Menyia-nyiakan kesempatan belajar",
+            "Mengabaikan orang yang membutuhkan"
           ],
-          "answer": "Berusaha sungguh-sungguh untuk memperoleh kebaikan",
-          "discussion": "Ikhtiar adalah usaha sungguh-sungguh."
+          "answer": "Menggunakan nikmat untuk taat dan berbuat baik",
+          "discussion": "Syukur dapat diwujudkan melalui ketaatan dan perbuatan baik."
         },
         {
           "id": "PAI-B07-Q018",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Indahnya Ketetapan Allah adalah: Apa arti ikhtiar?",
+          "text": "Apa kalimat yang biasa diucapkan untuk bersyukur?",
           "options": [
-            "Menyerah sebelum mencoba",
-            "Berusaha sungguh-sungguh untuk memperoleh kebaikan",
-            "Hanya menunggu hasil",
-            "Menyalahkan keadaan"
+            "Astaghfirullah",
+            "Alhamdulillah",
+            "Allahu Akbar saja untuk semua keadaan",
+            "Subhanallah tanpa memahami makna"
           ],
-          "answer": "Berusaha sungguh-sungguh untuk memperoleh kebaikan",
-          "discussion": "Ikhtiar adalah usaha sungguh-sungguh."
+          "answer": "Alhamdulillah",
+          "discussion": "Materi menyebut hamdalah sebagai ungkapan syukur."
         },
         {
           "id": "PAI-B07-Q019",
           "type": "PG",
-          "text": "Apa arti doa?",
+          "text": "Apa kalimat hauqalah yang disebut dalam materi tawakal?",
           "options": [
-            "Janji kepada teman",
-            "Perintah kepada orang lain",
-            "Permohonan kepada Allah Swt.",
-            "Usaha fisik tanpa permohonan"
+            "Bismillāhir-raḥmānir-raḥīm",
+            "Alḥamdulillāh",
+            "Lā ḥaula wa lā quwwata illā billāh",
+            "Astaghfirullāh"
           ],
-          "answer": "Permohonan kepada Allah Swt.",
-          "discussion": "Doa merupakan permohonan kepada Allah dan termasuk ibadah."
+          "answer": "Lā ḥaula wa lā quwwata illā billāh",
+          "discussion": "Kalimat hauqalah berarti tiada daya dan kekuatan kecuali dengan pertolongan Allah."
         },
         {
           "id": "PAI-B07-Q020",
           "type": "PG",
-          "text": "Memohon pertolongan kepada Allah disebut ...",
+          "text": "Apa makna Lauhulmahfuz dalam pembahasan takdir?",
           "options": [
-            "Janji kepada teman",
-            "Perintah kepada orang lain",
-            "Usaha fisik tanpa permohonan",
-            "Permohonan kepada Allah Swt."
+            "Tempat manusia menyimpan buku",
+            "Nama kalender Hijriah",
+            "Kitab yang ditulis para khalifah",
+            "Tempat tercatatnya ketetapan Allah"
           ],
-          "answer": "Permohonan kepada Allah Swt.",
-          "discussion": "Doa merupakan permohonan kepada Allah dan termasuk ibadah."
+          "answer": "Tempat tercatatnya ketetapan Allah",
+          "discussion": "Lauhulmahfuz disebut dalam materi sebagai istilah terkait ketetapan Allah."
         },
         {
           "id": "PAI-B07-Q021",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Indahnya Ketetapan Allah adalah: Apa arti doa?",
+          "text": "Seseorang sakit lalu pergi berobat dan berdoa. Sikap itu menunjukkan ...",
           "options": [
-            "Permohonan kepada Allah Swt.",
-            "Janji kepada teman",
-            "Perintah kepada orang lain",
-            "Usaha fisik tanpa permohonan"
+            "Ikhtiar dan doa sebelum bertawakal",
+            "Menolak ketetapan Allah",
+            "Tidak percaya kepada Allah",
+            "Mengandalkan obat tanpa usaha lain"
           ],
-          "answer": "Permohonan kepada Allah Swt.",
-          "discussion": "Doa merupakan permohonan kepada Allah dan termasuk ibadah."
+          "answer": "Ikhtiar dan doa sebelum bertawakal",
+          "discussion": "Berobat merupakan ikhtiar dan doa memohon pertolongan Allah."
         },
         {
           "id": "PAI-B07-Q022",
           "type": "PG",
-          "text": "Apa arti tawakal?",
+          "text": "Mengapa orang beriman tidak mudah putus asa saat mendapat cobaan?",
           "options": [
-            "Tidak mau berusaha",
-            "Berserah diri kepada Allah setelah berusaha dan berdoa",
-            "Menyerahkan tugas kepada teman",
-            "Menganggap hasil hanya karena diri sendiri"
+            "Karena menganggap semua masalah tidak penting",
+            "Karena yakin pada ketetapan Allah dan tetap berusaha",
+            "Karena tidak perlu mencari pertolongan",
+            "Karena semua cobaan pasti hilang seketika"
           ],
-          "answer": "Berserah diri kepada Allah setelah berusaha dan berdoa",
-          "discussion": "Tawakal dilakukan setelah ikhtiar dan doa."
+          "answer": "Karena yakin pada ketetapan Allah dan tetap berusaha",
+          "discussion": "Iman kepada takdir menumbuhkan kesabaran dan sikap tidak mudah putus asa."
         },
         {
           "id": "PAI-B07-Q023",
           "type": "PG",
-          "text": "Orang sakit berobat, berdoa, lalu menerima hasil dengan berserah diri. Sikap ini disebut ...",
+          "text": "Apa hikmah beriman kepada qada dan kadar?",
           "options": [
-            "Tidak mau berusaha",
-            "Menyerahkan tugas kepada teman",
-            "Berserah diri kepada Allah setelah berusaha dan berdoa",
-            "Menganggap hasil hanya karena diri sendiri"
+            "Membuat manusia berhenti berusaha",
+            "Menjadikan seseorang sombong",
+            "Menumbuhkan rendah hati, sabar, syukur, dan optimis",
+            "Mendorong manusia menyalahkan orang lain"
           ],
-          "answer": "Berserah diri kepada Allah setelah berusaha dan berdoa",
-          "discussion": "Tawakal dilakukan setelah ikhtiar dan doa."
+          "answer": "Menumbuhkan rendah hati, sabar, syukur, dan optimis",
+          "discussion": "Keimanan kepada takdir membentuk sikap positif dan bertanggung jawab."
         },
         {
           "id": "PAI-B07-Q024",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Indahnya Ketetapan Allah adalah: Apa arti tawakal?",
+          "text": "Jika seorang petani gagal panen karena cuaca, sikap yang sesuai adalah ...",
           "options": [
-            "Tidak mau berusaha",
-            "Menyerahkan tugas kepada teman",
-            "Menganggap hasil hanya karena diri sendiri",
-            "Berserah diri kepada Allah setelah berusaha dan berdoa"
+            "Menyalahkan semua orang",
+            "Tidak mau menanam lagi selamanya",
+            "Menganggap usaha tidak berguna",
+            "Bersabar, berdoa, dan mencari cara memperbaiki usaha"
           ],
-          "answer": "Berserah diri kepada Allah setelah berusaha dan berdoa",
-          "discussion": "Tawakal dilakukan setelah ikhtiar dan doa."
+          "answer": "Bersabar, berdoa, dan mencari cara memperbaiki usaha",
+          "discussion": "Sabar dan ikhtiar membantu menghadapi hasil yang tidak sesuai harapan."
         },
         {
           "id": "PAI-B07-Q025",
           "type": "PG",
-          "text": "Apa arti syukur?",
+          "text": "Apa hubungan doa dan usaha menurut materi?",
           "options": [
-            "Berterima kasih kepada Allah atas nikmat-Nya",
-            "Mengeluh atas semua keadaan",
-            "Menyombongkan hasil usaha",
-            "Mengabaikan nikmat"
+            "Keduanya dilakukan beriringan",
+            "Doa hanya perlu jika usaha gagal",
+            "Usaha tidak diperlukan jika sudah berdoa",
+            "Doa dan usaha saling menggantikan"
           ],
-          "answer": "Berterima kasih kepada Allah atas nikmat-Nya",
-          "discussion": "Syukur adalah ungkapan terima kasih kepada Allah atas nikmat."
+          "answer": "Keduanya dilakukan beriringan",
+          "discussion": "Materi menegaskan usaha dan doa perlu dilakukan bersama."
         },
         {
           "id": "PAI-B07-Q026",
           "type": "PG",
-          "text": "Setelah memperoleh hasil baik, sikap yang sesuai adalah ...",
+          "text": "Mengapa keberhasilan tidak boleh membuat seseorang sombong?",
           "options": [
-            "Mengeluh atas semua keadaan",
-            "Berterima kasih kepada Allah atas nikmat-Nya",
-            "Menyombongkan hasil usaha",
-            "Mengabaikan nikmat"
+            "Karena keberhasilan selalu buruk",
+            "Karena hasil akhir merupakan ketetapan Allah dan perlu disyukuri",
+            "Karena usaha manusia tidak berguna",
+            "Karena orang berhasil tidak boleh bahagia"
           ],
-          "answer": "Berterima kasih kepada Allah atas nikmat-Nya",
-          "discussion": "Syukur adalah ungkapan terima kasih kepada Allah atas nikmat."
+          "answer": "Karena hasil akhir merupakan ketetapan Allah dan perlu disyukuri",
+          "discussion": "Keberhasilan perlu disikapi dengan syukur dan rendah hati."
         },
         {
           "id": "PAI-B07-Q027",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Indahnya Ketetapan Allah adalah: Apa arti syukur?",
+          "text": "Bagaimana sikap yang tepat ketika menerima musibah?",
           "options": [
-            "Mengeluh atas semua keadaan",
-            "Menyombongkan hasil usaha",
-            "Berterima kasih kepada Allah atas nikmat-Nya",
-            "Mengabaikan nikmat"
+            "Menyalahkan semua orang",
+            "Menolak bantuan siapa pun",
+            "Sabar, berdoa, dan mencari pertolongan yang tepat",
+            "Meninggalkan kewajiban"
           ],
-          "answer": "Berterima kasih kepada Allah atas nikmat-Nya",
-          "discussion": "Syukur adalah ungkapan terima kasih kepada Allah atas nikmat."
+          "answer": "Sabar, berdoa, dan mencari pertolongan yang tepat",
+          "discussion": "Materi mengajarkan sabar dan tetap berdoa ketika menghadapi ujian."
         },
         {
           "id": "PAI-B07-Q028",
           "type": "PG",
-          "text": "Apa arti sabar dalam menghadapi takdir?",
+          "text": "Apa yang membedakan tawakal dengan pasrah tanpa usaha?",
           "options": [
-            "Berputus asa",
-            "Menyalahkan semua orang",
-            "Menolak kenyataan dengan marah",
-            "Mengendalikan diri dan menerima ketetapan Allah dengan ikhlas"
+            "Tawakal berarti tidak perlu berbuat apa pun",
+            "Tawakal dilakukan hanya setelah mendapat pujian",
+            "Tawakal berarti menyalahkan keadaan",
+            "Tawakal dilakukan setelah ikhtiar dan doa"
           ],
-          "answer": "Mengendalikan diri dan menerima ketetapan Allah dengan ikhlas",
-          "discussion": "Sabar berarti mengendalikan diri dan menerima ketetapan Allah dengan ikhlas."
+          "answer": "Tawakal dilakukan setelah ikhtiar dan doa",
+          "discussion": "Tawakal bukan kemalasan; ia dilakukan setelah usaha dan doa."
         },
         {
           "id": "PAI-B07-Q029",
           "type": "PG",
-          "text": "Lawan sikap sabar yang harus dihindari adalah ...",
+          "text": "Seorang anak rajin belajar lalu nilainya baik. Sikap yang sesuai iman kepada takdir adalah ...",
           "options": [
-            "Mengendalikan diri dan menerima ketetapan Allah dengan ikhlas",
-            "Berputus asa",
-            "Menyalahkan semua orang",
-            "Menolak kenyataan dengan marah"
+            "Bersyukur kepada Allah dan terus belajar",
+            "Merasa tidak membutuhkan bantuan Allah",
+            "Mengejek teman yang nilainya rendah",
+            "Berhenti belajar karena sudah berhasil"
           ],
-          "answer": "Mengendalikan diri dan menerima ketetapan Allah dengan ikhlas",
-          "discussion": "Sabar berarti mengendalikan diri dan menerima ketetapan Allah dengan ikhlas."
+          "answer": "Bersyukur kepada Allah dan terus belajar",
+          "discussion": "Keberhasilan perlu disyukuri dan dijadikan semangat untuk terus berusaha."
         },
         {
           "id": "PAI-B07-Q030",
           "type": "PG",
-          "text": "Pernyataan yang tepat berdasarkan materi Indahnya Ketetapan Allah adalah: Apa arti sabar dalam menghadapi takdir?",
+          "text": "Apa inti pelajaran tentang ketetapan Allah?",
           "options": [
-            "Berputus asa",
-            "Mengendalikan diri dan menerima ketetapan Allah dengan ikhlas",
-            "Menyalahkan semua orang",
-            "Menolak kenyataan dengan marah"
+            "Menunggu takdir tanpa melakukan apa pun",
+            "Meyakini ketetapan Allah sambil tetap berikhtiar, berdoa, dan bertawakal",
+            "Menganggap manusia menentukan seluruh hasil",
+            "Menolak ketetapan ketika tidak sesuai keinginan"
           ],
-          "answer": "Mengendalikan diri dan menerima ketetapan Allah dengan ikhlas",
-          "discussion": "Sabar berarti mengendalikan diri dan menerima ketetapan Allah dengan ikhlas."
+          "answer": "Meyakini ketetapan Allah sambil tetap berikhtiar, berdoa, dan bertawakal",
+          "discussion": "Iman kepada takdir menggabungkan keyakinan, usaha, doa, tawakal, sabar, dan syukur."
         }
       ]
     }
