@@ -266,7 +266,11 @@
             "Dengan hati-hati, adil, dan merujuk sumber tepercaya"
           ],
           "answer": "Dengan hati-hati, adil, dan merujuk sumber tepercaya",
-          "discussion": "Sejarah masa Ali perlu dipelajari secara hati-hati dan adil."
+          "discussion": "Sejarah masa Ali perlu dipelajari secara hati-hati dan adil.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q10-team-leadership.svg",
+            "alt": "Ilustrasi belajar sejarah bersama teman"
+          }
         },
         {
           "id": "PAI-B10-Q021",
@@ -292,7 +296,11 @@
             "Menggunakan jabatan untuk memerintah semaunya"
           ],
           "answer": "Bersikap adil dan menggunakan pengetahuan untuk kebaikan kelompok",
-          "discussion": "Keadilan dan ilmu membantu pemimpin menjalankan amanah."
+          "discussion": "Keadilan dan ilmu membantu pemimpin menjalankan amanah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q10-team-leadership.svg",
+            "alt": "Ilustrasi siswa bermusyawarah dalam kelompok"
+          }
         },
         {
           "id": "PAI-B10-Q023",
