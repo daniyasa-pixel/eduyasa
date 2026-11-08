@@ -283,11 +283,7 @@
             "Mengandalkan obat tanpa usaha lain"
           ],
           "answer": "Ikhtiar dan doa sebelum bertawakal",
-          "discussion": "Berobat merupakan ikhtiar dan doa memohon pertolongan Allah.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q07-effort.svg",
-            "alt": "Ilustrasi ikhtiar dan tawakal"
-          }
+          "discussion": "Berobat merupakan ikhtiar dan doa memohon pertolongan Allah."
         },
         {
           "id": "PAI-B07-Q022",
@@ -300,7 +296,11 @@
             "Karena semua cobaan pasti hilang seketika"
           ],
           "answer": "Karena yakin pada ketetapan Allah dan tetap berusaha",
-          "discussion": "Iman kepada takdir menumbuhkan kesabaran dan sikap tidak mudah putus asa."
+          "discussion": "Iman kepada takdir menumbuhkan kesabaran dan sikap tidak mudah putus asa.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q07-effort.svg",
+            "alt": "Ilustrasi terus berusaha dan tidak putus asa"
+          }
         },
         {
           "id": "PAI-B07-Q023",
