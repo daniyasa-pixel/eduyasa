@@ -1,0 +1,664 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "IPAS-B06",
+      "chapter_title": "Mengembara di Jagat Raya",
+      "questions": [
+        {
+          "id": "IPAS-B06-M01-001",
+          "type": "PG",
+          "text": "Matahari disebut bintang karena ...",
+          "options": [
+            "Memancarkan cahayanya sendiri",
+            "Mengelilingi Bumi setiap hari",
+            "Tidak memiliki panas",
+            "Terbuat dari batu padat"
+          ],
+          "answer": "Memancarkan cahayanya sendiri",
+          "discussion": "Bintang adalah benda langit yang dapat memancarkan cahaya sendiri."
+        },
+        {
+          "id": "IPAS-B06-M01-002",
+          "type": "PG",
+          "text": "Bumi merupakan salah satu dari ... planet dalam tata surya.",
+          "options": [
+            "Enam",
+            "Delapan",
+            "Sepuluh",
+            "Dua belas"
+          ],
+          "answer": "Delapan",
+          "discussion": "Tata surya memiliki delapan planet yang mengorbit Matahari."
+        },
+        {
+          "id": "IPAS-B06-M01-003",
+          "type": "PG",
+          "text": "Satelit alami Bumi adalah ...",
+          "options": [
+            "Mars",
+            "Matahari",
+            "Bulan",
+            "Venus"
+          ],
+          "answer": "Bulan",
+          "discussion": "Bulan merupakan satelit alami yang mengorbit Bumi."
+        },
+        {
+          "id": "IPAS-B06-M01-004",
+          "type": "PG",
+          "text": "Gerakan Bumi berputar pada porosnya disebut ...",
+          "options": [
+            "Gerhana",
+            "Revolusi",
+            "Orbit",
+            "Rotasi"
+          ],
+          "answer": "Rotasi",
+          "discussion": "Rotasi adalah gerakan berputar pada poros."
+        },
+        {
+          "id": "IPAS-B06-M01-005",
+          "type": "PG",
+          "text": "Gerakan Bumi mengelilingi Matahari disebut ...",
+          "options": [
+            "Revolusi",
+            "Rotasi",
+            "Fase",
+            "Navigasi"
+          ],
+          "answer": "Revolusi",
+          "discussion": "Revolusi Bumi adalah gerakan mengelilingi Matahari."
+        },
+        {
+          "id": "IPAS-B06-M01-006",
+          "type": "PG",
+          "text": "Waktu yang dibutuhkan Bumi untuk satu kali rotasi kira-kira ...",
+          "options": [
+            "12 jam",
+            "24 jam",
+            "30 hari",
+            "365 hari"
+          ],
+          "answer": "24 jam",
+          "discussion": "Satu kali rotasi Bumi berlangsung sekitar 24 jam."
+        },
+        {
+          "id": "IPAS-B06-M01-007",
+          "type": "PG",
+          "text": "Waktu yang dibutuhkan Bumi untuk satu kali revolusi sekitar ...",
+          "options": [
+            "7 hari",
+            "24 jam",
+            "365,25 hari",
+            "30 hari"
+          ],
+          "answer": "365,25 hari",
+          "discussion": "Satu kali revolusi Bumi membutuhkan sekitar 365,25 hari."
+        },
+        {
+          "id": "IPAS-B06-M01-008",
+          "type": "PG",
+          "text": "Jalur yang dilalui benda langit saat mengelilingi benda lain disebut ...",
+          "options": [
+            "Poros",
+            "Galaksi",
+            "Atmosfer",
+            "Orbit"
+          ],
+          "answer": "Orbit",
+          "discussion": "Orbit adalah lintasan benda langit ketika mengelilingi benda lain."
+        },
+        {
+          "id": "IPAS-B06-M01-009",
+          "type": "PG",
+          "text": "Planet yang paling dekat dengan Matahari adalah ...",
+          "options": [
+            "Merkurius",
+            "Mars",
+            "Bumi",
+            "Jupiter"
+          ],
+          "answer": "Merkurius",
+          "discussion": "Merkurius merupakan planet yang paling dekat dengan Matahari."
+        },
+        {
+          "id": "IPAS-B06-M01-010",
+          "type": "PG",
+          "text": "Satelit buatan yang membantu menunjukkan lokasi dan rute perjalanan adalah satelit ...",
+          "options": [
+            "Cuaca",
+            "Navigasi",
+            "Komunikasi",
+            "Penelitian laut"
+          ],
+          "answer": "Navigasi",
+          "discussion": "Satelit navigasi membantu menentukan posisi dan arah perjalanan."
+        },
+        {
+          "id": "IPAS-B06-M01-011",
+          "type": "PG",
+          "text": "Mengapa planet tampak bercahaya saat dilihat dari Bumi?",
+          "options": [
+            "Planet menghasilkan cahaya seperti Matahari",
+            "Planet terbuat dari api",
+            "Planet memantulkan cahaya Matahari",
+            "Planet memancarkan listrik"
+          ],
+          "answer": "Planet memantulkan cahaya Matahari",
+          "discussion": "Planet tidak menghasilkan cahaya sendiri, tetapi memantulkan cahaya Matahari."
+        },
+        {
+          "id": "IPAS-B06-M01-012",
+          "type": "PG",
+          "text": "Bumi berada di galaksi ...",
+          "options": [
+            "Andromeda",
+            "Sombrero",
+            "Awan Magellan Besar",
+            "Bimasakti"
+          ],
+          "answer": "Bimasakti",
+          "discussion": "Tata surya kita berada di galaksi Bimasakti."
+        },
+        {
+          "id": "IPAS-B06-M01-013",
+          "type": "PG",
+          "text": "Bulan terlihat memiliki fase sabit, setengah, atau purnama karena ...",
+          "options": [
+            "Posisi Bulan terhadap Bumi dan Matahari berubah sehingga bagian terang yang terlihat berbeda",
+            "Bentuk Bulan berubah secara fisik",
+            "Bulan menghasilkan cahaya yang berubah warna",
+            "Bumi berhenti berotasi"
+          ],
+          "answer": "Posisi Bulan terhadap Bumi dan Matahari berubah sehingga bagian terang yang terlihat berbeda",
+          "discussion": "Fase Bulan terjadi karena perubahan posisi Bulan terhadap Bumi dan Matahari."
+        },
+        {
+          "id": "IPAS-B06-M01-014",
+          "type": "PG",
+          "text": "Mengapa dari Bumi kita selalu melihat sisi Bulan yang sama?",
+          "options": [
+            "Bulan tidak pernah bergerak",
+            "Waktu rotasi Bulan sama dengan waktu revolusinya mengelilingi Bumi",
+            "Bulan hanya bergerak saat siang",
+            "Matahari menahan Bulan"
+          ],
+          "answer": "Waktu rotasi Bulan sama dengan waktu revolusinya mengelilingi Bumi",
+          "discussion": "Rotasi dan revolusi Bulan memiliki durasi yang sama sehingga sisi yang sama menghadap Bumi."
+        },
+        {
+          "id": "IPAS-B06-M01-015",
+          "type": "PG",
+          "text": "Bagian Bumi yang menghadap Matahari mengalami ...",
+          "options": [
+            "Malam",
+            "Musim dingin selalu",
+            "Siang",
+            "Gerhana"
+          ],
+          "answer": "Siang",
+          "discussion": "Bagian Bumi yang menerima cahaya Matahari mengalami siang."
+        },
+        {
+          "id": "IPAS-B06-M01-016",
+          "type": "PG",
+          "text": "Gerak semu harian Matahari tampak dari arah ...",
+          "options": [
+            "Barat ke timur",
+            "Utara ke selatan",
+            "Selatan ke utara",
+            "Timur ke barat"
+          ],
+          "answer": "Timur ke barat",
+          "discussion": "Matahari tampak bergerak dari timur ke barat akibat rotasi Bumi."
+        },
+        {
+          "id": "IPAS-B06-M01-017",
+          "type": "PG",
+          "text": "Perbedaan waktu di berbagai wilayah Bumi terutama berkaitan dengan ...",
+          "options": [
+            "Rotasi Bumi",
+            "Bentuk awan",
+            "Revolusi Bulan",
+            "Jumlah planet"
+          ],
+          "answer": "Rotasi Bumi",
+          "discussion": "Rotasi Bumi menyebabkan wilayah yang berbeda mengalami waktu setempat berbeda."
+        },
+        {
+          "id": "IPAS-B06-M01-018",
+          "type": "PG",
+          "text": "Jika di wilayah WIB pukul 07.00, maka di wilayah WITA pukul ...",
+          "options": [
+            "06.00",
+            "08.00",
+            "09.00",
+            "10.00"
+          ],
+          "answer": "08.00",
+          "discussion": "WITA satu jam lebih cepat daripada WIB."
+        },
+        {
+          "id": "IPAS-B06-M01-019",
+          "type": "PG",
+          "text": "Jika di wilayah WIB pukul 07.00, maka di wilayah WIT pukul ...",
+          "options": [
+            "08.00",
+            "07.30",
+            "09.00",
+            "10.00"
+          ],
+          "answer": "09.00",
+          "discussion": "WIT dua jam lebih cepat daripada WIB."
+        },
+        {
+          "id": "IPAS-B06-M01-020",
+          "type": "PG",
+          "text": "Pergantian musim di berbagai wilayah Bumi berkaitan dengan ...",
+          "options": [
+            "Perubahan ukuran Matahari",
+            "Rotasi Bulan saja",
+            "Jarak Bumi ke Bulan",
+            "Kemiringan poros Bumi saat berevolusi mengelilingi Matahari"
+          ],
+          "answer": "Kemiringan poros Bumi saat berevolusi mengelilingi Matahari",
+          "discussion": "Kemiringan poros Bumi saat berevolusi menyebabkan perbedaan penerimaan sinar Matahari."
+        },
+        {
+          "id": "IPAS-B06-M01-021",
+          "type": "PG",
+          "text": "Indonesia umumnya mengalami musim hujan dan kemarau karena ...",
+          "options": [
+            "Berada di sekitar wilayah khatulistiwa",
+            "Berada di Kutub Utara",
+            "Tidak mengalami revolusi Bumi",
+            "Matahari hanya menyinari Indonesia saat siang"
+          ],
+          "answer": "Berada di sekitar wilayah khatulistiwa",
+          "discussion": "Wilayah sekitar khatulistiwa umumnya memiliki dua musim utama, hujan dan kemarau."
+        },
+        {
+          "id": "IPAS-B06-M01-022",
+          "type": "PG",
+          "text": "Ketika belahan Bumi Utara menerima lebih banyak sinar Matahari, wilayah tersebut cenderung mengalami ...",
+          "options": [
+            "Musim dingin",
+            "Musim panas",
+            "Malam sepanjang tahun",
+            "Tidak ada musim"
+          ],
+          "answer": "Musim panas",
+          "discussion": "Penerimaan sinar Matahari lebih banyak berkaitan dengan musim panas di belahan tersebut."
+        },
+        {
+          "id": "IPAS-B06-M01-023",
+          "type": "PG",
+          "text": "Urutan planet dari yang paling dekat dengan Matahari adalah ...",
+          "options": [
+            "Venus, Merkurius, Bumi, Mars",
+            "Bumi, Venus, Merkurius, Mars",
+            "Merkurius, Venus, Bumi, Mars",
+            "Mars, Bumi, Venus, Merkurius"
+          ],
+          "answer": "Merkurius, Venus, Bumi, Mars",
+          "discussion": "Urutan empat planet pertama adalah Merkurius, Venus, Bumi, dan Mars."
+        },
+        {
+          "id": "IPAS-B06-M01-024",
+          "type": "PG",
+          "text": "Planet yang dikenal sebagai planet merah adalah ...",
+          "options": [
+            "Venus",
+            "Neptunus",
+            "Saturnus",
+            "Mars"
+          ],
+          "answer": "Mars",
+          "discussion": "Mars dikenal sebagai planet merah."
+        },
+        {
+          "id": "IPAS-B06-M01-025",
+          "type": "PG",
+          "text": "Planet terbesar dalam tata surya adalah ...",
+          "options": [
+            "Jupiter",
+            "Saturnus",
+            "Bumi",
+            "Uranus"
+          ],
+          "answer": "Jupiter",
+          "discussion": "Jupiter merupakan planet terbesar di tata surya."
+        },
+        {
+          "id": "IPAS-B06-M01-026",
+          "type": "PG",
+          "text": "Planet yang terkenal dengan cincin yang terlihat jelas adalah ...",
+          "options": [
+            "Merkurius",
+            "Saturnus",
+            "Mars",
+            "Venus"
+          ],
+          "answer": "Saturnus",
+          "discussion": "Saturnus dikenal dengan sistem cincinnya."
+        },
+        {
+          "id": "IPAS-B06-M01-027",
+          "type": "PG",
+          "text": "Empat planet dalam yang berbatuan adalah ...",
+          "options": [
+            "Jupiter, Saturnus, Uranus, Neptunus",
+            "Venus, Mars, Jupiter, Saturnus",
+            "Merkurius, Venus, Bumi, Mars",
+            "Bumi, Jupiter, Uranus, Neptunus"
+          ],
+          "answer": "Merkurius, Venus, Bumi, Mars",
+          "discussion": "Planet dalam terdiri atas Merkurius, Venus, Bumi, dan Mars."
+        },
+        {
+          "id": "IPAS-B06-M01-028",
+          "type": "PG",
+          "text": "Sebagian besar asteroid dalam tata surya berada di antara orbit ...",
+          "options": [
+            "Bumi dan Venus",
+            "Jupiter dan Saturnus",
+            "Uranus dan Neptunus",
+            "Mars dan Jupiter"
+          ],
+          "answer": "Mars dan Jupiter",
+          "discussion": "Sabuk asteroid utama berada di antara Mars dan Jupiter."
+        },
+        {
+          "id": "IPAS-B06-M01-029",
+          "type": "PG",
+          "text": "Komet tersusun terutama dari ...",
+          "options": [
+            "Es dan debu",
+            "Besi cair saja",
+            "Gas oksigen murni",
+            "Batu bara"
+          ],
+          "answer": "Es dan debu",
+          "discussion": "Komet tersusun dari es dan debu serta dapat membentuk ekor ketika mendekati Matahari."
+        },
+        {
+          "id": "IPAS-B06-M01-030",
+          "type": "PG",
+          "text": "Benda kecil berupa batuan atau debu yang masih berada di ruang angkasa disebut ...",
+          "options": [
+            "Meteor",
+            "Meteoroid",
+            "Meteorit",
+            "Komet"
+          ],
+          "answer": "Meteoroid",
+          "discussion": "Meteoroid adalah partikel batuan atau debu yang berada di ruang angkasa."
+        },
+        {
+          "id": "IPAS-B06-M01-031",
+          "type": "PG",
+          "text": "Kilatan cahaya yang terlihat ketika meteoroid memasuki atmosfer dan terbakar disebut ...",
+          "options": [
+            "Asteroid",
+            "Komet",
+            "Meteor",
+            "Meteorit"
+          ],
+          "answer": "Meteor",
+          "discussion": "Meteor adalah gejala cahaya saat meteoroid memasuki atmosfer dan terbakar."
+        },
+        {
+          "id": "IPAS-B06-M01-032",
+          "type": "PG",
+          "text": "Sisa meteoroid yang berhasil mencapai permukaan Bumi disebut ...",
+          "options": [
+            "Satelit",
+            "Meteor",
+            "Komet",
+            "Meteorit"
+          ],
+          "answer": "Meteorit",
+          "discussion": "Jika sebagian benda tersebut mencapai permukaan Bumi, namanya meteorit."
+        },
+        {
+          "id": "IPAS-B06-M01-033",
+          "type": "PG",
+          "text": "Satelit komunikasi berguna untuk ...",
+          "options": [
+            "Membantu siaran televisi, telepon, dan internet",
+            "Menentukan rasa makanan",
+            "Menghasilkan hujan secara langsung",
+            "Mengubah orbit planet"
+          ],
+          "answer": "Membantu siaran televisi, telepon, dan internet",
+          "discussion": "Satelit komunikasi mendukung layanan telekomunikasi dan siaran."
+        },
+        {
+          "id": "IPAS-B06-M01-034",
+          "type": "PG",
+          "text": "Satelit cuaca membantu manusia memantau ...",
+          "options": [
+            "Jumlah penduduk setiap rumah",
+            "Pergerakan awan dan kondisi cuaca",
+            "Isi perut Bumi",
+            "Gerak kendaraan di dalam garasi"
+          ],
+          "answer": "Pergerakan awan dan kondisi cuaca",
+          "discussion": "Satelit cuaca digunakan untuk mengamati kondisi atmosfer dan pergerakan awan."
+        },
+        {
+          "id": "IPAS-B06-M01-035",
+          "type": "PG",
+          "text": "Penjelajahan ke Mars dilakukan antara lain untuk ...",
+          "options": [
+            "Mengubah Mars menjadi bintang",
+            "Memindahkan Mars ke dekat Bumi",
+            "Mencari informasi dan tanda-tanda kehidupan purba serta meneliti planet",
+            "Menghentikan revolusi Bumi"
+          ],
+          "answer": "Mencari informasi dan tanda-tanda kehidupan purba serta meneliti planet",
+          "discussion": "Misi penjelajahan Mars mengumpulkan foto dan sampel untuk penelitian, termasuk mencari tanda kehidupan purba."
+        },
+        {
+          "id": "IPAS-B06-M01-036",
+          "type": "PG",
+          "text": "Sebuah model Bumi berupa bola disinari senter. Sisi bola yang menghadap senter terang, sedangkan sisi sebaliknya gelap. Model ini paling tepat menjelaskan ...",
+          "options": [
+            "Urutan planet",
+            "Pergantian musim",
+            "Fase komet",
+            "Terjadinya siang dan malam"
+          ],
+          "answer": "Terjadinya siang dan malam",
+          "discussion": "Senter mewakili Matahari dan bola mewakili Bumi; bagian yang terkena cahaya mengalami siang."
+        },
+        {
+          "id": "IPAS-B06-M01-037",
+          "type": "PG",
+          "text": "Aga berada di Jambi (WIB) dan Banu di Kupang (WITA). Aga pulang pukul 15.30 WIB. Jika Banu ingin menelepon setelah Aga tiba di rumah, waktu paling awal yang sesuai di Kupang adalah ...",
+          "options": [
+            "16.30 WITA",
+            "15.30 WITA",
+            "14.30 WITA",
+            "17.30 WITA"
+          ],
+          "answer": "16.30 WITA",
+          "discussion": "WITA satu jam lebih cepat daripada WIB. Pukul 15.30 WIB sama dengan 16.30 WITA."
+        },
+        {
+          "id": "IPAS-B06-M01-038",
+          "type": "PG",
+          "text": "Seorang siswa menyatakan bahwa musim panas terjadi karena Bumi selalu lebih dekat dengan Matahari. Koreksi paling tepat adalah ...",
+          "options": [
+            "Musim hanya ditentukan oleh rotasi Bulan",
+            "Pergantian musim terutama berkaitan dengan kemiringan poros Bumi saat berevolusi",
+            "Bumi tidak mengelilingi Matahari",
+            "Musim panas terjadi karena Matahari membesar"
+          ],
+          "answer": "Pergantian musim terutama berkaitan dengan kemiringan poros Bumi saat berevolusi",
+          "discussion": "Kemiringan sumbu Bumi saat berevolusi menyebabkan belahan Bumi menerima sinar Matahari berbeda."
+        },
+        {
+          "id": "IPAS-B06-M01-039",
+          "type": "PG",
+          "text": "Jika Bumi berhenti berotasi tetapi tetap menerima cahaya Matahari, dampak langsung yang berkaitan dengan konsep rotasi adalah ...",
+          "options": [
+            "Zona waktu bertambah menjadi tiga kali lipat",
+            "Satu hari tetap 24 jam seperti biasa",
+            "Pola siang dan malam seperti sekarang tidak akan berlangsung dengan siklus harian normal",
+            "Bumi berubah menjadi satelit"
+          ],
+          "answer": "Pola siang dan malam seperti sekarang tidak akan berlangsung dengan siklus harian normal",
+          "discussion": "Pergantian siang dan malam harian terjadi karena Bumi berotasi."
+        },
+        {
+          "id": "IPAS-B06-M01-040",
+          "type": "PG",
+          "text": "Bumi membutuhkan 365,25 hari untuk satu revolusi. Tambahan seperempat hari setiap tahun menjelaskan mengapa ...",
+          "options": [
+            "Satu hari menjadi 25 jam setiap tahun",
+            "Bumi berhenti berputar setiap empat tahun",
+            "Bulan menjadi planet",
+            "Ada penyesuaian kalender melalui tahun kabisat"
+          ],
+          "answer": "Ada penyesuaian kalender melalui tahun kabisat",
+          "discussion": "Akumulasi sekitar seperempat hari selama empat tahun menjadi kira-kira satu hari tambahan dalam kalender."
+        },
+        {
+          "id": "IPAS-B06-M01-041",
+          "type": "PG",
+          "text": "Pada bulan Desember, belahan Bumi Selatan menerima sinar Matahari lebih banyak dibanding belahan Utara. Akibat yang sesuai adalah ...",
+          "options": [
+            "Belahan Selatan cenderung mengalami musim panas dan Utara musim dingin",
+            "Kedua belahan selalu mengalami musim panas",
+            "Belahan Selatan mengalami malam sepanjang tahun",
+            "Tidak ada perubahan musim"
+          ],
+          "answer": "Belahan Selatan cenderung mengalami musim panas dan Utara musim dingin",
+          "discussion": "Kemiringan poros Bumi menyebabkan musim di belahan Utara dan Selatan berlawanan."
+        },
+        {
+          "id": "IPAS-B06-M01-042",
+          "type": "PG",
+          "text": "Seseorang melihat Bulan sabit pada malam hari. Penjelasan paling tepat adalah ...",
+          "options": [
+            "Bulan kehilangan sebagian permukaannya",
+            "Bulan hanya memantulkan sebagian cahaya Matahari yang tampak dari Bumi",
+            "Bayangan Bumi selalu menutupi sebagian Bulan",
+            "Bulan berubah menjadi planet"
+          ],
+          "answer": "Bulan hanya memantulkan sebagian cahaya Matahari yang tampak dari Bumi",
+          "discussion": "Fase Bulan terjadi karena bagian terang Bulan yang terlihat dari Bumi berubah sesuai posisinya."
+        },
+        {
+          "id": "IPAS-B06-M01-043",
+          "type": "PG",
+          "text": "Mengapa Matahari tampak bergerak dari timur ke barat, padahal gerak itu disebut semu?",
+          "options": [
+            "Karena Bulan mendorong Matahari",
+            "Karena Matahari mengelilingi Bumi setiap hari",
+            "Karena Bumi berotasi dari barat ke timur",
+            "Karena Bumi tidak bergerak"
+          ],
+          "answer": "Karena Bumi berotasi dari barat ke timur",
+          "discussion": "Rotasi Bumi membuat Matahari tampak bergerak berlawanan arah di langit."
+        },
+        {
+          "id": "IPAS-B06-M01-044",
+          "type": "PG",
+          "text": "Seorang pengemudi menggunakan peta digital untuk mencari alamat. Jenis satelit yang paling berperan membantu menentukan posisi adalah ...",
+          "options": [
+            "Satelit cuaca",
+            "Teleskop ruang angkasa",
+            "Satelit komunikasi saja",
+            "Satelit navigasi"
+          ],
+          "answer": "Satelit navigasi",
+          "discussion": "Satelit navigasi membantu perangkat menentukan lokasi dan rute."
+        },
+        {
+          "id": "IPAS-B06-M01-045",
+          "type": "PG",
+          "text": "Saat terjadi badai, petugas memantau pergerakan awan dari data satelit. Satelit yang paling sesuai untuk fungsi tersebut adalah ...",
+          "options": [
+            "Satelit cuaca",
+            "Satelit navigasi",
+            "Satelit komunikasi",
+            "Satelit alami"
+          ],
+          "answer": "Satelit cuaca",
+          "discussion": "Satelit cuaca membantu mengamati awan dan kondisi atmosfer."
+        },
+        {
+          "id": "IPAS-B06-M01-046",
+          "type": "PG",
+          "text": "Sebuah benda kecil dari ruang angkasa memasuki atmosfer dan tampak bercahaya. Sebagian sisanya ditemukan di tanah. Urutan istilah yang benar adalah ...",
+          "options": [
+            "Meteorit lalu meteor",
+            "Meteor lalu meteorit",
+            "Asteroid lalu komet",
+            "Komet lalu satelit"
+          ],
+          "answer": "Meteor lalu meteorit",
+          "discussion": "Saat terbakar di atmosfer tampak sebagai meteor; sisa yang sampai ke permukaan disebut meteorit."
+        },
+        {
+          "id": "IPAS-B06-M01-047",
+          "type": "PG",
+          "text": "Mengapa planet luar digolongkan sebagai planet raksasa, sedangkan planet dalam disebut planet berbatuan?",
+          "options": [
+            "Karena planet luar memancarkan cahaya sendiri",
+            "Karena planet dalam tidak mengorbit Matahari",
+            "Karena komposisi dan ukuran umumnya berbeda",
+            "Karena planet dalam tidak memiliki gravitasi"
+          ],
+          "answer": "Karena komposisi dan ukuran umumnya berbeda",
+          "discussion": "Empat planet dalam relatif kecil dan berbatuan, sedangkan planet luar berukuran besar dan didominasi gas atau es."
+        },
+        {
+          "id": "IPAS-B06-M01-048",
+          "type": "PG",
+          "text": "Seorang siswa membuat model tata surya dengan semua planet berukuran sama dan jarak yang sama. Apa kekurangan utama model itu?",
+          "options": [
+            "Semua planet harus memiliki cahaya sendiri",
+            "Matahari seharusnya tidak ada",
+            "Planet tidak perlu mengorbit Matahari",
+            "Tidak menunjukkan perbedaan ukuran dan jarak sebenarnya antarplanet"
+          ],
+          "answer": "Tidak menunjukkan perbedaan ukuran dan jarak sebenarnya antarplanet",
+          "discussion": "Ukuran dan jarak planet sangat berbeda sehingga model tersebut tidak menggambarkan perbandingan secara tepat."
+        },
+        {
+          "id": "IPAS-B06-M01-049",
+          "type": "PG",
+          "text": "Mengapa manusia mengirim wahana dan robot penjelajah ke Mars?",
+          "options": [
+            "Untuk mengambil data, foto, dan sampel serta mencari petunjuk tentang kondisi masa lalu Mars",
+            "Untuk memindahkan Mars ke orbit Bumi",
+            "Untuk membuat Mars menjadi satelit Bumi",
+            "Untuk menghentikan badai di Bumi"
+          ],
+          "answer": "Untuk mengambil data, foto, dan sampel serta mencari petunjuk tentang kondisi masa lalu Mars",
+          "discussion": "Penjelajahan Mars bertujuan meneliti kondisi planet dan mencari tanda-tanda kehidupan purba."
+        },
+        {
+          "id": "IPAS-B06-M01-050",
+          "type": "PG",
+          "text": "Sekolah ingin menjelaskan mengapa waktu di London berbeda dengan Indonesia dan mengapa musim di sana dapat berbeda. Konsep yang perlu digunakan adalah ...",
+          "options": [
+            "Rotasi Bulan untuk semua perbedaan",
+            "Rotasi untuk zona waktu dan revolusi serta kemiringan poros untuk musim",
+            "Fase Bulan untuk zona waktu dan komet untuk musim",
+            "Ukuran Matahari untuk menentukan jam"
+          ],
+          "answer": "Rotasi untuk zona waktu dan revolusi serta kemiringan poros untuk musim",
+          "discussion": "Perbedaan waktu berkaitan dengan rotasi Bumi, sedangkan musim berkaitan dengan revolusi dan kemiringan poros Bumi."
+        }
+      ]
+    }
+  ]
+}
