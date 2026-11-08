@@ -1,0 +1,717 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "ENG-B01",
+      "chapter_title": "Healthy Vegetables",
+      "questions": [
+        {
+          "id": "ENG-B01-001",
+          "type": "PG",
+          "text": "Look at the picture. Which vegetable is orange and long?",
+          "options": [
+            "A carrot",
+            "A potato",
+            "A broccoli",
+            "An eggplant"
+          ],
+          "answer": "A carrot",
+          "discussion": "The picture shows a carrot. A carrot is usually orange and long.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
+            "alt": "A chart of vegetables with a carrot"
+          }
+        },
+        {
+          "id": "ENG-B01-002",
+          "type": "PG",
+          "text": "Look at the picture. Which vegetable looks like a small green tree?",
+          "options": [
+            "Spinach",
+            "Broccoli",
+            "Carrot",
+            "Eggplant"
+          ],
+          "answer": "Broccoli",
+          "discussion": "Broccoli has a green head that looks like a small tree.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
+            "alt": "A chart showing broccoli"
+          }
+        },
+        {
+          "id": "ENG-B01-003",
+          "type": "PG",
+          "text": "Look at the picture. What color is the eggplant?",
+          "options": [
+            "Orange",
+            "White",
+            "Purple",
+            "Red"
+          ],
+          "answer": "Purple",
+          "discussion": "The eggplant in the picture is purple.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
+            "alt": "A chart showing a purple eggplant"
+          }
+        },
+        {
+          "id": "ENG-B01-004",
+          "type": "PG",
+          "text": "Look at the picture. Which vegetable has green leaves?",
+          "options": [
+            "Carrot",
+            "Potato",
+            "Eggplant",
+            "Spinach"
+          ],
+          "answer": "Spinach",
+          "discussion": "Spinach is a leafy green vegetable.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
+            "alt": "A chart showing leafy spinach"
+          }
+        },
+        {
+          "id": "ENG-B01-005",
+          "type": "PG",
+          "text": "Look at the basket. Which three vegetables can you see?",
+          "options": [
+            "Carrot, tomato, and broccoli",
+            "Potato, eggplant, and peas",
+            "Spinach, cauliflower, and onion",
+            "Bitter melon, potato, and beans"
+          ],
+          "answer": "Carrot, tomato, and broccoli",
+          "discussion": "The basket illustration contains a carrot, a tomato, and broccoli.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-basket.svg",
+            "alt": "A basket containing carrot tomato and broccoli"
+          }
+        },
+        {
+          "id": "ENG-B01-006",
+          "type": "PG",
+          "text": "Look at the shapes. Which word describes the red shape?",
+          "options": [
+            "Long",
+            "Round",
+            "Small",
+            "Leafy"
+          ],
+          "answer": "Round",
+          "discussion": "The red shape is a circle, so it is round.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-shapes.svg",
+            "alt": "A chart of basic shapes"
+          }
+        },
+        {
+          "id": "ENG-B01-007",
+          "type": "PG",
+          "text": "Look at the picture. Which vegetable is long and orange?",
+          "options": [
+            "A tomato",
+            "A broccoli",
+            "A carrot",
+            "A cauliflower"
+          ],
+          "answer": "A carrot",
+          "discussion": "The carrot is orange and long.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
+            "alt": "A chart showing a carrot"
+          }
+        },
+        {
+          "id": "ENG-B01-008",
+          "type": "PG",
+          "text": "Look at the picture. Which vegetable is purple?",
+          "options": [
+            "Spinach",
+            "Broccoli",
+            "Carrot",
+            "Eggplant"
+          ],
+          "answer": "Eggplant",
+          "discussion": "The eggplant is purple in the picture.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
+            "alt": "A chart showing an eggplant"
+          }
+        },
+        {
+          "id": "ENG-B01-009",
+          "type": "PG",
+          "text": "Look at the basket. Which vegetable is red and round?",
+          "options": [
+            "Tomato",
+            "Carrot",
+            "Broccoli",
+            "Spinach"
+          ],
+          "answer": "Tomato",
+          "discussion": "The tomato is red and round in the basket.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-basket.svg",
+            "alt": "A basket with a red round tomato"
+          }
+        },
+        {
+          "id": "ENG-B01-010",
+          "type": "PG",
+          "text": "Look at the picture. Which two vegetables are green?",
+          "options": [
+            "Carrot and eggplant",
+            "Broccoli and spinach",
+            "Tomato and carrot",
+            "Eggplant and tomato"
+          ],
+          "answer": "Broccoli and spinach",
+          "discussion": "The picture shows broccoli and spinach as green vegetables.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
+            "alt": "A chart showing green broccoli and spinach"
+          }
+        },
+        {
+          "id": "ENG-B01-011",
+          "type": "PG",
+          "text": "What is the English word for 'wortel'?",
+          "options": [
+            "Potato",
+            "Spinach",
+            "Carrot",
+            "Cabbage"
+          ],
+          "answer": "Carrot",
+          "discussion": "Carrot is the English word for wortel."
+        },
+        {
+          "id": "ENG-B01-012",
+          "type": "PG",
+          "text": "What is the English word for 'bayam'?",
+          "options": [
+            "Broccoli",
+            "Carrot",
+            "Eggplant",
+            "Spinach"
+          ],
+          "answer": "Spinach",
+          "discussion": "Spinach means bayam in Indonesian."
+        },
+        {
+          "id": "ENG-B01-013",
+          "type": "PG",
+          "text": "What is the English word for 'terong'?",
+          "options": [
+            "Eggplant",
+            "Cauliflower",
+            "Peas",
+            "Potato"
+          ],
+          "answer": "Eggplant",
+          "discussion": "Eggplant means terong."
+        },
+        {
+          "id": "ENG-B01-014",
+          "type": "PG",
+          "text": "What is the English word for 'brokoli'?",
+          "options": [
+            "Bitter melon",
+            "Broccoli",
+            "Spinach",
+            "Bean sprouts"
+          ],
+          "answer": "Broccoli",
+          "discussion": "Broccoli means brokoli."
+        },
+        {
+          "id": "ENG-B01-015",
+          "type": "PG",
+          "text": "What is the English word for 'kacang panjang'?",
+          "options": [
+            "Bean sprouts",
+            "Peas",
+            "Snake beans",
+            "Bell peppers"
+          ],
+          "answer": "Snake beans",
+          "discussion": "Snake beans means kacang panjang."
+        },
+        {
+          "id": "ENG-B01-016",
+          "type": "PG",
+          "text": "What does 'bitter melon' mean in Indonesian?",
+          "options": [
+            "Paprika",
+            "Kembang kol",
+            "Tauge",
+            "Pare"
+          ],
+          "answer": "Pare",
+          "discussion": "Bitter melon is pare."
+        },
+        {
+          "id": "ENG-B01-017",
+          "type": "PG",
+          "text": "What does 'cauliflower' mean in Indonesian?",
+          "options": [
+            "Kembang kol",
+            "Kangkung",
+            "Bayam",
+            "Kentang"
+          ],
+          "answer": "Kembang kol",
+          "discussion": "Cauliflower means kembang kol."
+        },
+        {
+          "id": "ENG-B01-018",
+          "type": "PG",
+          "text": "Which vegetable is usually orange?",
+          "options": [
+            "Spinach",
+            "Carrot",
+            "Eggplant",
+            "Broccoli"
+          ],
+          "answer": "Carrot",
+          "discussion": "Carrots are commonly orange."
+        },
+        {
+          "id": "ENG-B01-019",
+          "type": "PG",
+          "text": "Which vegetable is usually purple?",
+          "options": [
+            "Peas",
+            "Cauliflower",
+            "Eggplant",
+            "Water spinach"
+          ],
+          "answer": "Eggplant",
+          "discussion": "Eggplants are commonly purple."
+        },
+        {
+          "id": "ENG-B01-020",
+          "type": "PG",
+          "text": "Which word means 'renyah'?",
+          "options": [
+            "Round",
+            "Purple",
+            "Small",
+            "Crunchy"
+          ],
+          "answer": "Crunchy",
+          "discussion": "Crunchy means renyah, a texture that makes a crisp sound when bitten."
+        },
+        {
+          "id": "ENG-B01-021",
+          "type": "PG",
+          "text": "Which word means 'panjang'?",
+          "options": [
+            "Long",
+            "Short",
+            "Small",
+            "Round"
+          ],
+          "answer": "Long",
+          "discussion": "Long means panjang."
+        },
+        {
+          "id": "ENG-B01-022",
+          "type": "PG",
+          "text": "Which word means 'kecil'?",
+          "options": [
+            "Big",
+            "Small",
+            "Long",
+            "Green"
+          ],
+          "answer": "Small",
+          "discussion": "Small means kecil."
+        },
+        {
+          "id": "ENG-B01-023",
+          "type": "PG",
+          "text": "Choose the correct sentence to describe a carrot.",
+          "options": [
+            "It are orange and long.",
+            "It is purple and round.",
+            "It is orange and long.",
+            "They is orange and long."
+          ],
+          "answer": "It is orange and long.",
+          "discussion": "Use 'It is' to describe one carrot. Orange and long are suitable descriptions."
+        },
+        {
+          "id": "ENG-B01-024",
+          "type": "PG",
+          "text": "Complete the sentence: 'This is a ___. It is purple.'",
+          "options": [
+            "carrot",
+            "spinach",
+            "broccoli",
+            "eggplant"
+          ],
+          "answer": "eggplant",
+          "discussion": "Eggplant is commonly purple, so it completes the description."
+        },
+        {
+          "id": "ENG-B01-025",
+          "type": "PG",
+          "text": "Complete the sentence: 'Broccoli is ___. '",
+          "options": [
+            "green",
+            "purple",
+            "orange",
+            "blue"
+          ],
+          "answer": "green",
+          "discussion": "Broccoli is green."
+        },
+        {
+          "id": "ENG-B01-026",
+          "type": "PG",
+          "text": "Which question asks about color?",
+          "options": [
+            "How many is it?",
+            "What color is it?",
+            "Where do you like?",
+            "Who is it?"
+          ],
+          "answer": "What color is it?",
+          "discussion": "The question 'What color is it?' asks about an object's color."
+        },
+        {
+          "id": "ENG-B01-027",
+          "type": "PG",
+          "text": "Which question asks about the name of a vegetable?",
+          "options": [
+            "How old is it?",
+            "When is it?",
+            "What is it?",
+            "Who is it?"
+          ],
+          "answer": "What is it?",
+          "discussion": "Use 'What is it?' to ask what an object or vegetable is."
+        },
+        {
+          "id": "ENG-B01-028",
+          "type": "PG",
+          "text": "Choose the correct plural form of 'carrot'.",
+          "options": [
+            "Carrotes",
+            "Carroties",
+            "Carroten",
+            "Carrots"
+          ],
+          "answer": "Carrots",
+          "discussion": "The usual plural form is made by adding -s: carrot becomes carrots."
+        },
+        {
+          "id": "ENG-B01-029",
+          "type": "PG",
+          "text": "Which sentence is correct?",
+          "options": [
+            "These are potatoes.",
+            "These is potatoes.",
+            "This are potatoes.",
+            "Those is potato."
+          ],
+          "answer": "These are potatoes.",
+          "discussion": "Use 'These are' for more than one item that is near."
+        },
+        {
+          "id": "ENG-B01-030",
+          "type": "PG",
+          "text": "Which sentence describes a small vegetable?",
+          "options": [
+            "The pea are small.",
+            "The pea is small.",
+            "The pea is purple long.",
+            "The pea am small."
+          ],
+          "answer": "The pea is small.",
+          "discussion": "The sentence 'The pea is small' is grammatically correct and gives a simple description."
+        },
+        {
+          "id": "ENG-B01-031",
+          "type": "PG",
+          "text": "What does 'I like carrots' mean?",
+          "options": [
+            "Saya tidak suka wortel.",
+            "Saya membeli wortel.",
+            "Saya suka wortel.",
+            "Saya memasak wortel."
+          ],
+          "answer": "Saya suka wortel.",
+          "discussion": "I like means saya suka."
+        },
+        {
+          "id": "ENG-B01-032",
+          "type": "PG",
+          "text": "Which sentence expresses that you do not like spinach?",
+          "options": [
+            "I like spinach.",
+            "I am spinach.",
+            "I have spinach.",
+            "I don't like spinach."
+          ],
+          "answer": "I don't like spinach.",
+          "discussion": "I don't like spinach means saya tidak suka bayam."
+        },
+        {
+          "id": "ENG-B01-033",
+          "type": "PG",
+          "text": "Complete the sentence: 'I ___ broccoli.' (Saya suka brokoli.)",
+          "options": [
+            "like",
+            "likes",
+            "don't",
+            "am"
+          ],
+          "answer": "like",
+          "discussion": "Use 'like' with the subject 'I' to express a preference."
+        },
+        {
+          "id": "ENG-B01-034",
+          "type": "PG",
+          "text": "Complete the question: '___ you like carrots?'",
+          "options": [
+            "Does",
+            "Do",
+            "Are",
+            "Is"
+          ],
+          "answer": "Do",
+          "discussion": "Use 'Do' to ask a simple present question with 'you'."
+        },
+        {
+          "id": "ENG-B01-035",
+          "type": "PG",
+          "text": "Choose the correct answer: 'Do you like potatoes?' — 'Yes, ___.'",
+          "options": [
+            "I am",
+            "I don't",
+            "I do",
+            "it is"
+          ],
+          "answer": "I do",
+          "discussion": "'Yes, I do' is a correct short answer to 'Do you like...?'."
+        },
+        {
+          "id": "ENG-B01-036",
+          "type": "PG",
+          "text": "Choose the correct answer: 'Do you like bitter melon?' — 'No, ___.'",
+          "options": [
+            "I do",
+            "I am not",
+            "it doesn't",
+            "I don't"
+          ],
+          "answer": "I don't",
+          "discussion": "'No, I don't' is the correct short answer when you do not like it."
+        },
+        {
+          "id": "ENG-B01-037",
+          "type": "PG",
+          "text": "Which sentence tells your favorite vegetable?",
+          "options": [
+            "My favorite vegetable is spinach.",
+            "I favorite spinach vegetable.",
+            "My vegetable favorite spinach.",
+            "I am favorite vegetable spinach."
+          ],
+          "answer": "My favorite vegetable is spinach.",
+          "discussion": "The correct pattern is 'My favorite vegetable is ...'."
+        },
+        {
+          "id": "ENG-B01-038",
+          "type": "PG",
+          "text": "A: Do you like carrots? B: ___. I like them.",
+          "options": [
+            "No, I don't.",
+            "Yes, I do.",
+            "I am carrots.",
+            "It is orange."
+          ],
+          "answer": "Yes, I do.",
+          "discussion": "The response agrees with the statement 'I like them'."
+        },
+        {
+          "id": "ENG-B01-039",
+          "type": "PG",
+          "text": "A: What is your favorite vegetable? B: ___.",
+          "options": [
+            "I am six years old.",
+            "It is under the table.",
+            "My favorite vegetable is broccoli.",
+            "Yes, I do."
+          ],
+          "answer": "My favorite vegetable is broccoli.",
+          "discussion": "The question asks for a favorite vegetable, so answer with its name."
+        },
+        {
+          "id": "ENG-B01-040",
+          "type": "PG",
+          "text": "Which sentence is about a vegetable's color?",
+          "options": [
+            "I like eggplant.",
+            "Do you like eggplant?",
+            "I buy an eggplant.",
+            "The eggplant is purple."
+          ],
+          "answer": "The eggplant is purple.",
+          "discussion": "Purple describes the color of the eggplant."
+        },
+        {
+          "id": "ENG-B01-041",
+          "type": "PG",
+          "text": "Which sentence is about a vegetable's shape?",
+          "options": [
+            "The tomato is round.",
+            "The tomato is delicious.",
+            "I like tomatoes.",
+            "Tomatoes are vegetables."
+          ],
+          "answer": "The tomato is round.",
+          "discussion": "Round describes the shape of the tomato."
+        },
+        {
+          "id": "ENG-B01-042",
+          "type": "PG",
+          "text": "Read: 'This is a carrot. It is orange and crunchy.' What is the text describing?",
+          "options": [
+            "A potato",
+            "A carrot",
+            "A spinach leaf",
+            "An eggplant"
+          ],
+          "answer": "A carrot",
+          "discussion": "The text names a carrot and describes its color and texture."
+        },
+        {
+          "id": "ENG-B01-043",
+          "type": "PG",
+          "text": "Read: 'I like spinach, but I don't like bitter melon.' Which vegetable does the speaker like?",
+          "options": [
+            "Bitter melon",
+            "Carrot",
+            "Spinach",
+            "Eggplant"
+          ],
+          "answer": "Spinach",
+          "discussion": "The speaker says 'I like spinach', so spinach is the vegetable they like."
+        },
+        {
+          "id": "ENG-B01-044",
+          "type": "PG",
+          "text": "Read: 'My favorite vegetable is broccoli.' What is the speaker's favorite vegetable?",
+          "options": [
+            "Cauliflower",
+            "Peas",
+            "Potato",
+            "Broccoli"
+          ],
+          "answer": "Broccoli",
+          "discussion": "The sentence directly says that broccoli is the favorite vegetable."
+        },
+        {
+          "id": "ENG-B01-045",
+          "type": "PG",
+          "text": "Your friend asks, 'Do you like eggplant?' You do not like it. What should you say?",
+          "options": [
+            "No, I don't.",
+            "Yes, I do.",
+            "Yes, it is.",
+            "I am eggplant."
+          ],
+          "answer": "No, I don't.",
+          "discussion": "Say 'No, I don't' to answer that you do not like eggplant."
+        },
+        {
+          "id": "ENG-B01-046",
+          "type": "PG",
+          "text": "You want to say 'Saya suka kacang polong.' Which sentence is correct?",
+          "options": [
+            "I likes peas.",
+            "I like peas.",
+            "I am peas.",
+            "I don't peas."
+          ],
+          "answer": "I like peas.",
+          "discussion": "I like peas means saya suka kacang polong."
+        },
+        {
+          "id": "ENG-B01-047",
+          "type": "PG",
+          "text": "Which sentence is the best description of a potato?",
+          "options": [
+            "It is always purple and grows on a tree.",
+            "It is a long orange fruit.",
+            "It is usually brown outside and grows underground.",
+            "It has green flowers and flies."
+          ],
+          "answer": "It is usually brown outside and grows underground.",
+          "discussion": "A potato commonly has brown skin and grows underground."
+        },
+        {
+          "id": "ENG-B01-048",
+          "type": "PG",
+          "text": "Which sentence uses 'don't' correctly?",
+          "options": [
+            "I doesn't like onions.",
+            "I don't likes onions.",
+            "I not like onions.",
+            "I don't like onions."
+          ],
+          "answer": "I don't like onions.",
+          "discussion": "With 'I', use don't + base verb: I don't like."
+        },
+        {
+          "id": "ENG-B01-049",
+          "type": "PG",
+          "text": "Which pair contains two vegetables?",
+          "options": [
+            "Carrot and broccoli",
+            "Apple and mango",
+            "Bread and rice",
+            "Milk and water"
+          ],
+          "answer": "Carrot and broccoli",
+          "discussion": "Carrot and broccoli are both vegetables."
+        },
+        {
+          "id": "ENG-B01-050",
+          "type": "PG",
+          "text": "You are making a shopping list. Which sentence is correct?",
+          "options": [
+            "We needs some carrots.",
+            "We need some carrots.",
+            "We are need carrots.",
+            "We needing carrots."
+          ],
+          "answer": "We need some carrots.",
+          "discussion": "Use 'We need' to say what is needed on a shopping list."
+        },
+        {
+          "id": "ENG-B01-051",
+          "type": "PG",
+          "text": "Which sentence combines a description and a preference correctly?",
+          "options": [
+            "I likes carrots. They crunchy.",
+            "I am like carrots. They is crunchy.",
+            "I like carrots. They are crunchy.",
+            "I don't carrots. They are crunch."
+          ],
+          "answer": "I like carrots. They are crunchy.",
+          "discussion": "The first sentence correctly states a preference and gives a description."
+        }
+      ]
+    }
+  ]
+}
