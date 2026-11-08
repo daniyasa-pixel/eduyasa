@@ -1,0 +1,404 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PAI-B01",
+      "chapter_title": "Belajar Al-Qur’an dan Hadis",
+      "questions": [
+        {
+          "id": "PAI-B01-Q001",
+          "type": "multiple_choice",
+          "text": "Surah Aḍ-Ḍuḥā merupakan surah ke berapa?",
+          "options": [
+            "Surah ke-93",
+            "Surah ke-90",
+            "Surah ke-95",
+            "Surah ke-100"
+          ],
+          "answer": "Surah ke-93",
+          "discussion": "Surah Aḍ-Ḍuḥā berada pada urutan ke-93."
+        },
+        {
+          "id": "PAI-B01-Q002",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, pengetahuan tentang “Surah Aḍ-Ḍuḥā merupakan surah ke berapa?” membantu kita memahami bahwa ...",
+          "options": [
+            "Surah ke-100",
+            "Surah ke-93",
+            "Surah ke-90",
+            "Surah ke-95"
+          ],
+          "answer": "Surah ke-93",
+          "discussion": "Surah Aḍ-Ḍuḥā berada pada urutan ke-93."
+        },
+        {
+          "id": "PAI-B01-Q003",
+          "type": "multiple_choice",
+          "text": "Pernyataan yang paling tepat sesuai materi bab ini adalah: Surah ke-93. Hal itu menunjukkan ...",
+          "options": [
+            "Surah ke-95",
+            "Surah ke-100",
+            "Surah ke-93",
+            "Surah ke-90"
+          ],
+          "answer": "Surah ke-93",
+          "discussion": "Surah Aḍ-Ḍuḥā berada pada urutan ke-93."
+        },
+        {
+          "id": "PAI-B01-Q004",
+          "type": "multiple_choice",
+          "text": "Berapa jumlah ayat Surah Aḍ-Ḍuḥā?",
+          "options": [
+            "10 ayat",
+            "12 ayat",
+            "11 ayat",
+            "8 ayat"
+          ],
+          "answer": "11 ayat",
+          "discussion": "Surah Aḍ-Ḍuḥā terdiri atas 11 ayat."
+        },
+        {
+          "id": "PAI-B01-Q005",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, pengetahuan tentang “Berapa jumlah ayat Surah Aḍ-Ḍuḥā?” membantu kita memahami bahwa ...",
+          "options": [
+            "8 ayat",
+            "10 ayat",
+            "12 ayat",
+            "11 ayat"
+          ],
+          "answer": "11 ayat",
+          "discussion": "Surah Aḍ-Ḍuḥā terdiri atas 11 ayat."
+        },
+        {
+          "id": "PAI-B01-Q006",
+          "type": "multiple_choice",
+          "text": "Pernyataan yang paling tepat sesuai materi bab ini adalah: 11 ayat. Hal itu menunjukkan ...",
+          "options": [
+            "11 ayat",
+            "8 ayat",
+            "10 ayat",
+            "12 ayat"
+          ],
+          "answer": "11 ayat",
+          "discussion": "Surah Aḍ-Ḍuḥā terdiri atas 11 ayat."
+        },
+        {
+          "id": "PAI-B01-Q007",
+          "type": "multiple_choice",
+          "text": "Apa arti Aḍ-Ḍuḥā?",
+          "options": [
+            "Waktu pagi atau duha",
+            "Waktu malam",
+            "Tengah malam",
+            "Waktu sore"
+          ],
+          "answer": "Waktu pagi atau duha",
+          "discussion": "Aḍ-Ḍuḥā berarti waktu pagi atau duha."
+        },
+        {
+          "id": "PAI-B01-Q008",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, pengetahuan tentang “Apa arti Aḍ-Ḍuḥā?” membantu kita memahami bahwa ...",
+          "options": [
+            "Waktu sore",
+            "Waktu pagi atau duha",
+            "Waktu malam",
+            "Tengah malam"
+          ],
+          "answer": "Waktu pagi atau duha",
+          "discussion": "Aḍ-Ḍuḥā berarti waktu pagi atau duha."
+        },
+        {
+          "id": "PAI-B01-Q009",
+          "type": "multiple_choice",
+          "text": "Pernyataan yang paling tepat sesuai materi bab ini adalah: Waktu pagi atau duha. Hal itu menunjukkan ...",
+          "options": [
+            "Tengah malam",
+            "Waktu sore",
+            "Waktu pagi atau duha",
+            "Waktu malam"
+          ],
+          "answer": "Waktu pagi atau duha",
+          "discussion": "Aḍ-Ḍuḥā berarti waktu pagi atau duha."
+        },
+        {
+          "id": "PAI-B01-Q010",
+          "type": "multiple_choice",
+          "text": "Apa pesan Surah Aḍ-Ḍuḥā kepada Nabi Muhammad saw.?",
+          "options": [
+            "Allah memerintahkan berhenti beribadah",
+            "Allah tidak memberi wahyu selamanya",
+            "Allah tidak meninggalkan dan tidak membenci beliau",
+            "Allah melarang beliau berdakwah"
+          ],
+          "answer": "Allah tidak meninggalkan dan tidak membenci beliau",
+          "discussion": "Surah ini menguatkan Nabi bahwa Allah tidak meninggalkan dan tidak membenci beliau."
+        },
+        {
+          "id": "PAI-B01-Q011",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, pengetahuan tentang “Apa pesan Surah Aḍ-Ḍuḥā kepada Nabi Muhammad saw.?” membantu kita memahami bahwa ...",
+          "options": [
+            "Allah melarang beliau berdakwah",
+            "Allah memerintahkan berhenti beribadah",
+            "Allah tidak memberi wahyu selamanya",
+            "Allah tidak meninggalkan dan tidak membenci beliau"
+          ],
+          "answer": "Allah tidak meninggalkan dan tidak membenci beliau",
+          "discussion": "Surah ini menguatkan Nabi bahwa Allah tidak meninggalkan dan tidak membenci beliau."
+        },
+        {
+          "id": "PAI-B01-Q012",
+          "type": "multiple_choice",
+          "text": "Pernyataan yang paling tepat sesuai materi bab ini adalah: Allah tidak meninggalkan dan tidak membenci beliau. Hal itu menunjukkan ...",
+          "options": [
+            "Allah tidak meninggalkan dan tidak membenci beliau",
+            "Allah melarang beliau berdakwah",
+            "Allah memerintahkan berhenti beribadah",
+            "Allah tidak memberi wahyu selamanya"
+          ],
+          "answer": "Allah tidak meninggalkan dan tidak membenci beliau",
+          "discussion": "Surah ini menguatkan Nabi bahwa Allah tidak meninggalkan dan tidak membenci beliau."
+        },
+        {
+          "id": "PAI-B01-Q013",
+          "type": "multiple_choice",
+          "text": "Bagaimana sikap terhadap anak yatim?",
+          "options": [
+            "Tidak memperlakukannya dengan sewenang-wenang",
+            "Mengabaikannya",
+            "Mengambil haknya",
+            "Mengejeknya"
+          ],
+          "answer": "Tidak memperlakukannya dengan sewenang-wenang",
+          "discussion": "Surah Aḍ-Ḍuḥā melarang memperlakukan anak yatim secara sewenang-wenang."
+        },
+        {
+          "id": "PAI-B01-Q014",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, pengetahuan tentang “Bagaimana sikap terhadap anak yatim?” membantu kita memahami bahwa ...",
+          "options": [
+            "Mengejeknya",
+            "Tidak memperlakukannya dengan sewenang-wenang",
+            "Mengabaikannya",
+            "Mengambil haknya"
+          ],
+          "answer": "Tidak memperlakukannya dengan sewenang-wenang",
+          "discussion": "Surah Aḍ-Ḍuḥā melarang memperlakukan anak yatim secara sewenang-wenang."
+        },
+        {
+          "id": "PAI-B01-Q015",
+          "type": "multiple_choice",
+          "text": "Pernyataan yang paling tepat sesuai materi bab ini adalah: Tidak memperlakukannya dengan sewenang-wenang. Hal itu menunjukkan ...",
+          "options": [
+            "Mengambil haknya",
+            "Mengejeknya",
+            "Tidak memperlakukannya dengan sewenang-wenang",
+            "Mengabaikannya"
+          ],
+          "answer": "Tidak memperlakukannya dengan sewenang-wenang",
+          "discussion": "Surah Aḍ-Ḍuḥā melarang memperlakukan anak yatim secara sewenang-wenang."
+        },
+        {
+          "id": "PAI-B01-Q016",
+          "type": "multiple_choice",
+          "text": "Bagaimana sikap kepada orang yang meminta bantuan?",
+          "options": [
+            "Menertawakan",
+            "Mempermalukan",
+            "Tidak menghardik dan berbicara santun",
+            "Membentak"
+          ],
+          "answer": "Tidak menghardik dan berbicara santun",
+          "discussion": "Surah ini mengajarkan agar tidak menghardik orang yang meminta-minta."
+        },
+        {
+          "id": "PAI-B01-Q017",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, pengetahuan tentang “Bagaimana sikap kepada orang yang meminta bantuan?” membantu kita memahami bahwa ...",
+          "options": [
+            "Membentak",
+            "Menertawakan",
+            "Mempermalukan",
+            "Tidak menghardik dan berbicara santun"
+          ],
+          "answer": "Tidak menghardik dan berbicara santun",
+          "discussion": "Surah ini mengajarkan agar tidak menghardik orang yang meminta-minta."
+        },
+        {
+          "id": "PAI-B01-Q018",
+          "type": "multiple_choice",
+          "text": "Pernyataan yang paling tepat sesuai materi bab ini adalah: Tidak menghardik dan berbicara santun. Hal itu menunjukkan ...",
+          "options": [
+            "Tidak menghardik dan berbicara santun",
+            "Membentak",
+            "Menertawakan",
+            "Mempermalukan"
+          ],
+          "answer": "Tidak menghardik dan berbicara santun",
+          "discussion": "Surah ini mengajarkan agar tidak menghardik orang yang meminta-minta."
+        },
+        {
+          "id": "PAI-B01-Q019",
+          "type": "multiple_choice",
+          "text": "Apa yang harus dilakukan terhadap nikmat Allah?",
+          "options": [
+            "Mensyukurinya",
+            "Menyombongkannya",
+            "Menggunakannya untuk menyakiti",
+            "Menganggapnya tidak penting"
+          ],
+          "answer": "Mensyukurinya",
+          "discussion": "Surah Aḍ-Ḍuḥā mengingatkan manusia untuk bersyukur."
+        },
+        {
+          "id": "PAI-B01-Q020",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, pengetahuan tentang “Apa yang harus dilakukan terhadap nikmat Allah?” membantu kita memahami bahwa ...",
+          "options": [
+            "Menganggapnya tidak penting",
+            "Mensyukurinya",
+            "Menyombongkannya",
+            "Menggunakannya untuk menyakiti"
+          ],
+          "answer": "Mensyukurinya",
+          "discussion": "Surah Aḍ-Ḍuḥā mengingatkan manusia untuk bersyukur."
+        },
+        {
+          "id": "PAI-B01-Q021",
+          "type": "multiple_choice",
+          "text": "Pernyataan yang paling tepat sesuai materi bab ini adalah: Mensyukurinya. Hal itu menunjukkan ...",
+          "options": [
+            "Menggunakannya untuk menyakiti",
+            "Menganggapnya tidak penting",
+            "Mensyukurinya",
+            "Menyombongkannya"
+          ],
+          "answer": "Mensyukurinya",
+          "discussion": "Surah Aḍ-Ḍuḥā mengingatkan manusia untuk bersyukur."
+        },
+        {
+          "id": "PAI-B01-Q022",
+          "type": "multiple_choice",
+          "text": "Apa arti tafkhīm?",
+          "options": [
+            "Menghentikan bacaan",
+            "Memanjangkan semua huruf",
+            "Membaca huruf dengan tebal",
+            "Membaca huruf dengan tipis"
+          ],
+          "answer": "Membaca huruf dengan tebal",
+          "discussion": "Tafkhīm berarti menebalkan bunyi huruf tertentu."
+        },
+        {
+          "id": "PAI-B01-Q023",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, pengetahuan tentang “Apa arti tafkhīm?” membantu kita memahami bahwa ...",
+          "options": [
+            "Membaca huruf dengan tipis",
+            "Menghentikan bacaan",
+            "Memanjangkan semua huruf",
+            "Membaca huruf dengan tebal"
+          ],
+          "answer": "Membaca huruf dengan tebal",
+          "discussion": "Tafkhīm berarti menebalkan bunyi huruf tertentu."
+        },
+        {
+          "id": "PAI-B01-Q024",
+          "type": "multiple_choice",
+          "text": "Pernyataan yang paling tepat sesuai materi bab ini adalah: Membaca huruf dengan tebal. Hal itu menunjukkan ...",
+          "options": [
+            "Membaca huruf dengan tebal",
+            "Membaca huruf dengan tipis",
+            "Menghentikan bacaan",
+            "Memanjangkan semua huruf"
+          ],
+          "answer": "Membaca huruf dengan tebal",
+          "discussion": "Tafkhīm berarti menebalkan bunyi huruf tertentu."
+        },
+        {
+          "id": "PAI-B01-Q025",
+          "type": "multiple_choice",
+          "text": "Apa arti tarqīq?",
+          "options": [
+            "Membaca huruf dengan tipis",
+            "Membaca huruf dengan tebal",
+            "Mendengungkan semua huruf",
+            "Mengulang ayat"
+          ],
+          "answer": "Membaca huruf dengan tipis",
+          "discussion": "Tarqīq berarti menipiskan bunyi huruf."
+        },
+        {
+          "id": "PAI-B01-Q026",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, pengetahuan tentang “Apa arti tarqīq?” membantu kita memahami bahwa ...",
+          "options": [
+            "Mengulang ayat",
+            "Membaca huruf dengan tipis",
+            "Membaca huruf dengan tebal",
+            "Mendengungkan semua huruf"
+          ],
+          "answer": "Membaca huruf dengan tipis",
+          "discussion": "Tarqīq berarti menipiskan bunyi huruf."
+        },
+        {
+          "id": "PAI-B01-Q027",
+          "type": "multiple_choice",
+          "text": "Pernyataan yang paling tepat sesuai materi bab ini adalah: Membaca huruf dengan tipis. Hal itu menunjukkan ...",
+          "options": [
+            "Mendengungkan semua huruf",
+            "Mengulang ayat",
+            "Membaca huruf dengan tipis",
+            "Membaca huruf dengan tebal"
+          ],
+          "answer": "Membaca huruf dengan tipis",
+          "discussion": "Tarqīq berarti menipiskan bunyi huruf."
+        },
+        {
+          "id": "PAI-B01-Q028",
+          "type": "multiple_choice",
+          "text": "Apa pengertian hadis atau sunah?",
+          "options": [
+            "Pendapat setiap orang",
+            "Catatan sejarah saja",
+            "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi",
+            "Kisah semua raja"
+          ],
+          "answer": "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi",
+          "discussion": "Hadis atau sunah mencakup perkataan, perbuatan, ketetapan, dan persetujuan Nabi."
+        },
+        {
+          "id": "PAI-B01-Q029",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, pengetahuan tentang “Apa pengertian hadis atau sunah?” membantu kita memahami bahwa ...",
+          "options": [
+            "Kisah semua raja",
+            "Pendapat setiap orang",
+            "Catatan sejarah saja",
+            "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi"
+          ],
+          "answer": "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi",
+          "discussion": "Hadis atau sunah mencakup perkataan, perbuatan, ketetapan, dan persetujuan Nabi."
+        },
+        {
+          "id": "PAI-B01-Q030",
+          "type": "multiple_choice",
+          "text": "Pernyataan yang paling tepat sesuai materi bab ini adalah: Perkataan, perbuatan, ketetapan, dan persetujuan Nabi. Hal itu menunjukkan ...",
+          "options": [
+            "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi",
+            "Kisah semua raja",
+            "Pendapat setiap orang",
+            "Catatan sejarah saja"
+          ],
+          "answer": "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi",
+          "discussion": "Hadis atau sunah mencakup perkataan, perbuatan, ketetapan, dan persetujuan Nabi."
+        }
+      ]
+    }
+  ]
+}
