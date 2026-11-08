@@ -10,7 +10,7 @@
       "questions": [
         {
           "id": "PAI-B02-Q001",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa arti Asmaulhusna?",
           "options": [
             "Nama-nama Allah yang indah",
@@ -23,7 +23,7 @@
         },
         {
           "id": "PAI-B02-Q002",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: apa arti Asmaulhusna?",
           "options": [
             "Nama para nabi saja",
@@ -36,7 +36,7 @@
         },
         {
           "id": "PAI-B02-Q003",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa arti Asmaulhusna?” adalah ...",
           "options": [
             "Nama kitab sejarah",
@@ -49,34 +49,25 @@
         },
         {
           "id": "PAI-B02-Q004",
-          "type": "multiple_choice",
-          "text": "Apa arti Al-Gaffār?",
+          "type": "PG",
+          "text": "Perhatikan bagan Asmaulhusna. Nama Allah yang berarti Maha Pengampun adalah ...",
           "options": [
             "Maha Kaya",
             "Maha Mendengar",
-            "Maha Pengampun",
-            "Maha Esa"
-          ],
-          "answer": "Maha Pengampun",
-          "discussion": "Al-Gaffār berarti Allah Maha Pengampun."
-        },
-        {
-          "id": "PAI-B02-Q005",
-          "type": "multiple_choice",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: apa arti Al-Gaffār?",
-          "options": [
             "Maha Esa",
-            "Maha Kaya",
-            "Maha Mendengar",
             "Maha Pengampun"
           ],
           "answer": "Maha Pengampun",
-          "discussion": "Al-Gaffār berarti Allah Maha Pengampun."
+          "discussion": "Al-Gaffār berarti Allah Maha Pengampun.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/asmaulhusna.svg",
+            "alt": "Bagan empat Asmaulhusna dan maknanya"
+          }
         },
         {
-          "id": "PAI-B02-Q006",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa arti Al-Gaffār?” adalah ...",
+          "id": "PAI-B02-Q005",
+          "type": "PG",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: apa arti Al-Gaffār?",
           "options": [
             "Maha Pengampun",
             "Maha Esa",
@@ -87,13 +78,26 @@
           "discussion": "Al-Gaffār berarti Allah Maha Pengampun."
         },
         {
+          "id": "PAI-B02-Q006",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa arti Al-Gaffār?” adalah ...",
+          "options": [
+            "Maha Esa",
+            "Maha Pengampun",
+            "Maha Kaya",
+            "Maha Mendengar"
+          ],
+          "answer": "Maha Pengampun",
+          "discussion": "Al-Gaffār berarti Allah Maha Pengampun."
+        },
+        {
           "id": "PAI-B02-Q007",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa arti Al-‘Afuw?",
           "options": [
-            "Maha Pemaaf atau Maha Menghapus kesalahan",
             "Maha Pencipta",
             "Maha Mengetahui",
+            "Maha Pemaaf atau Maha Menghapus kesalahan",
             "Maha Memberi rezeki"
           ],
           "answer": "Maha Pemaaf atau Maha Menghapus kesalahan",
@@ -101,25 +105,25 @@
         },
         {
           "id": "PAI-B02-Q008",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: apa arti Al-‘Afuw?",
           "options": [
             "Maha Memberi rezeki",
-            "Maha Pemaaf atau Maha Menghapus kesalahan",
             "Maha Pencipta",
-            "Maha Mengetahui"
+            "Maha Mengetahui",
+            "Maha Pemaaf atau Maha Menghapus kesalahan"
           ],
           "answer": "Maha Pemaaf atau Maha Menghapus kesalahan",
           "discussion": "Al-‘Afuw berkaitan dengan memaafkan dan menghapus kesalahan."
         },
         {
           "id": "PAI-B02-Q009",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa arti Al-‘Afuw?” adalah ...",
           "options": [
+            "Maha Pemaaf atau Maha Menghapus kesalahan",
             "Maha Mengetahui",
             "Maha Memberi rezeki",
-            "Maha Pemaaf atau Maha Menghapus kesalahan",
             "Maha Pencipta"
           ],
           "answer": "Maha Pemaaf atau Maha Menghapus kesalahan",
@@ -127,12 +131,12 @@
         },
         {
           "id": "PAI-B02-Q010",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa arti Al-Wāḥid?",
           "options": [
             "Maha Pemaaf",
-            "Tempat bergantung",
             "Maha Esa",
+            "Tempat bergantung",
             "Maha Pengampun"
           ],
           "answer": "Maha Esa",
@@ -140,8 +144,21 @@
         },
         {
           "id": "PAI-B02-Q011",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: apa arti Al-Wāḥid?",
+          "options": [
+            "Maha Pengampun",
+            "Maha Pemaaf",
+            "Maha Esa",
+            "Tempat bergantung"
+          ],
+          "answer": "Maha Esa",
+          "discussion": "Al-Wāḥid berarti Allah Maha Esa."
+        },
+        {
+          "id": "PAI-B02-Q012",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa arti Al-Wāḥid?” adalah ...",
           "options": [
             "Maha Pengampun",
             "Maha Pemaaf",
@@ -152,21 +169,8 @@
           "discussion": "Al-Wāḥid berarti Allah Maha Esa."
         },
         {
-          "id": "PAI-B02-Q012",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa arti Al-Wāḥid?” adalah ...",
-          "options": [
-            "Maha Esa",
-            "Maha Pengampun",
-            "Maha Pemaaf",
-            "Tempat bergantung"
-          ],
-          "answer": "Maha Esa",
-          "discussion": "Al-Wāḥid berarti Allah Maha Esa."
-        },
-        {
           "id": "PAI-B02-Q013",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa arti Al-Ṣamad?",
           "options": [
             "Tempat bergantung semua makhluk",
@@ -179,7 +183,7 @@
         },
         {
           "id": "PAI-B02-Q014",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: apa arti Al-Ṣamad?",
           "options": [
             "Maha Menghitung",
@@ -192,7 +196,7 @@
         },
         {
           "id": "PAI-B02-Q015",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa arti Al-Ṣamad?” adalah ...",
           "options": [
             "Maha Menghidupkan",
@@ -205,34 +209,21 @@
         },
         {
           "id": "PAI-B02-Q016",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa sikap sesuai keyakinan Al-Wāḥid?",
           "options": [
             "Menyekutukan Allah",
             "Menyembah banyak tuhan",
-            "Menyembah Allah Yang Maha Esa",
-            "Meminta perlindungan kepada benda"
-          ],
-          "answer": "Menyembah Allah Yang Maha Esa",
-          "discussion": "Al-Wāḥid menegaskan keesaan Allah."
-        },
-        {
-          "id": "PAI-B02-Q017",
-          "type": "multiple_choice",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: apa sikap sesuai keyakinan Al-Wāḥid?",
-          "options": [
             "Meminta perlindungan kepada benda",
-            "Menyekutukan Allah",
-            "Menyembah banyak tuhan",
             "Menyembah Allah Yang Maha Esa"
           ],
           "answer": "Menyembah Allah Yang Maha Esa",
           "discussion": "Al-Wāḥid menegaskan keesaan Allah."
         },
         {
-          "id": "PAI-B02-Q018",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa sikap sesuai keyakinan Al-Wāḥid?” adalah ...",
+          "id": "PAI-B02-Q017",
+          "type": "PG",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: apa sikap sesuai keyakinan Al-Wāḥid?",
           "options": [
             "Menyembah Allah Yang Maha Esa",
             "Meminta perlindungan kepada benda",
@@ -243,13 +234,26 @@
           "discussion": "Al-Wāḥid menegaskan keesaan Allah."
         },
         {
+          "id": "PAI-B02-Q018",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa sikap sesuai keyakinan Al-Wāḥid?” adalah ...",
+          "options": [
+            "Meminta perlindungan kepada benda",
+            "Menyembah Allah Yang Maha Esa",
+            "Menyekutukan Allah",
+            "Menyembah banyak tuhan"
+          ],
+          "answer": "Menyembah Allah Yang Maha Esa",
+          "discussion": "Al-Wāḥid menegaskan keesaan Allah."
+        },
+        {
           "id": "PAI-B02-Q019",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa yang dilakukan ketika menyadari kesalahan?",
           "options": [
-            "Menyesal, berhenti, dan bertobat",
             "Menyembunyikan lalu mengulanginya",
             "Menyalahkan orang lain",
+            "Menyesal, berhenti, dan bertobat",
             "Membanggakan kesalahan"
           ],
           "answer": "Menyesal, berhenti, dan bertobat",
@@ -257,25 +261,25 @@
         },
         {
           "id": "PAI-B02-Q020",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: apa yang dilakukan ketika menyadari kesalahan?",
           "options": [
             "Membanggakan kesalahan",
-            "Menyesal, berhenti, dan bertobat",
             "Menyembunyikan lalu mengulanginya",
-            "Menyalahkan orang lain"
+            "Menyalahkan orang lain",
+            "Menyesal, berhenti, dan bertobat"
           ],
           "answer": "Menyesal, berhenti, dan bertobat",
           "discussion": "Tobat dimulai dengan menyadari kesalahan dan sungguh-sungguh memperbaikinya."
         },
         {
           "id": "PAI-B02-Q021",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa yang dilakukan ketika menyadari kesalahan?” adalah ...",
           "options": [
+            "Menyesal, berhenti, dan bertobat",
             "Menyalahkan orang lain",
             "Membanggakan kesalahan",
-            "Menyesal, berhenti, dan bertobat",
             "Menyembunyikan lalu mengulanginya"
           ],
           "answer": "Menyesal, berhenti, dan bertobat",
@@ -283,12 +287,12 @@
         },
         {
           "id": "PAI-B02-Q022",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa arti bertekad dalam tobat?",
           "options": [
             "Melupakan hak orang lain",
-            "Menyalahkan keadaan",
             "Bersungguh-sungguh tidak mengulangi kesalahan",
+            "Menyalahkan keadaan",
             "Berencana mengulanginya"
           ],
           "answer": "Bersungguh-sungguh tidak mengulangi kesalahan",
@@ -296,8 +300,21 @@
         },
         {
           "id": "PAI-B02-Q023",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: apa arti bertekad dalam tobat?",
+          "options": [
+            "Berencana mengulanginya",
+            "Melupakan hak orang lain",
+            "Bersungguh-sungguh tidak mengulangi kesalahan",
+            "Menyalahkan keadaan"
+          ],
+          "answer": "Bersungguh-sungguh tidak mengulangi kesalahan",
+          "discussion": "Tekad berarti niat kuat untuk tidak mengulangi kesalahan."
+        },
+        {
+          "id": "PAI-B02-Q024",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa arti bertekad dalam tobat?” adalah ...",
           "options": [
             "Berencana mengulanginya",
             "Melupakan hak orang lain",
@@ -308,21 +325,8 @@
           "discussion": "Tekad berarti niat kuat untuk tidak mengulangi kesalahan."
         },
         {
-          "id": "PAI-B02-Q024",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa arti bertekad dalam tobat?” adalah ...",
-          "options": [
-            "Bersungguh-sungguh tidak mengulangi kesalahan",
-            "Berencana mengulanginya",
-            "Melupakan hak orang lain",
-            "Menyalahkan keadaan"
-          ],
-          "answer": "Bersungguh-sungguh tidak mengulangi kesalahan",
-          "discussion": "Tekad berarti niat kuat untuk tidak mengulangi kesalahan."
-        },
-        {
           "id": "PAI-B02-Q025",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Jika kesalahan merugikan orang lain, apa yang harus dilakukan?",
           "options": [
             "Meminta maaf dan menyelesaikan hak orang tersebut",
@@ -335,7 +339,7 @@
         },
         {
           "id": "PAI-B02-Q026",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: jika kesalahan merugikan orang lain, apa yang harus dilakukan?",
           "options": [
             "Menyalahkan korban",
@@ -348,7 +352,7 @@
         },
         {
           "id": "PAI-B02-Q027",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Jika kesalahan merugikan orang lain, apa yang harus dilakukan?” adalah ...",
           "options": [
             "Menghindari orang itu",
@@ -361,37 +365,37 @@
         },
         {
           "id": "PAI-B02-Q028",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa teladan mengenal Al-Ṣamad?",
           "options": [
             "Menyombongkan kemampuan",
             "Meminta benda menjadi penolong mutlak",
-            "Berdoa dan bergantung kepada Allah",
-            "Merasa tidak membutuhkan siapa pun"
-          ],
-          "answer": "Berdoa dan bergantung kepada Allah",
-          "discussion": "Mengenal Al-Ṣamad mengajarkan kita memohon pertolongan kepada Allah."
-        },
-        {
-          "id": "PAI-B02-Q029",
-          "type": "multiple_choice",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: apa teladan mengenal Al-Ṣamad?",
-          "options": [
             "Merasa tidak membutuhkan siapa pun",
-            "Menyombongkan kemampuan",
-            "Meminta benda menjadi penolong mutlak",
             "Berdoa dan bergantung kepada Allah"
           ],
           "answer": "Berdoa dan bergantung kepada Allah",
           "discussion": "Mengenal Al-Ṣamad mengajarkan kita memohon pertolongan kepada Allah."
         },
         {
-          "id": "PAI-B02-Q030",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa teladan mengenal Al-Ṣamad?” adalah ...",
+          "id": "PAI-B02-Q029",
+          "type": "PG",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Allah Swt. Maha Segalanya” terkait hal berikut: apa teladan mengenal Al-Ṣamad?",
           "options": [
             "Berdoa dan bergantung kepada Allah",
             "Merasa tidak membutuhkan siapa pun",
+            "Menyombongkan kemampuan",
+            "Meminta benda menjadi penolong mutlak"
+          ],
+          "answer": "Berdoa dan bergantung kepada Allah",
+          "discussion": "Mengenal Al-Ṣamad mengajarkan kita memohon pertolongan kepada Allah."
+        },
+        {
+          "id": "PAI-B02-Q030",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Allah Swt. Maha Segalanya” untuk pertanyaan “Apa teladan mengenal Al-Ṣamad?” adalah ...",
+          "options": [
+            "Merasa tidak membutuhkan siapa pun",
+            "Berdoa dan bergantung kepada Allah",
             "Menyombongkan kemampuan",
             "Meminta benda menjadi penolong mutlak"
           ],
