@@ -11,396 +11,392 @@
         {
           "id": "PAI-B10-Q001",
           "type": "PG",
-          "text": "Perhatikan garis waktu Khulafaurrasyidin. Siapakah khalifah yang berada pada urutan ketiga?",
+          "text": "Siapa khalifah ketiga dalam Khulafaurrasyidin?",
           "options": [
             "Uṡman bin Affan",
-            "Abu Bakar",
+            "Abu Bakar al-Ṣiddiq",
             "Umar bin Khattab",
             "Ali bin Abi Ṭalib"
           ],
           "answer": "Uṡman bin Affan",
-          "discussion": "Uṡman bin Affan adalah khalifah ketiga.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/khalifah-timeline.svg",
-            "alt": "Urutan empat Khulafaurrasyidin"
-          }
+          "discussion": "Uṡman bin Affan adalah khalifah ketiga."
         },
         {
           "id": "PAI-B10-Q002",
           "type": "PG",
-          "text": "Dalam kuis bab Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, pertanyaan yang harus kamu jawab adalah: siapa khalifah ketiga dalam Khulafaurrasyidin?",
+          "text": "Apa julukan Uṡman bin Affan yang berarti pemilik dua cahaya?",
           "options": [
-            "Ali bin Abi Ṭalib",
-            "Uṡman bin Affan",
-            "Abu Bakar",
-            "Umar bin Khattab"
+            "Al-Fārūq",
+            "Zunnurain",
+            "Al-Ṣiddiq",
+            "Asadullah"
           ],
-          "answer": "Uṡman bin Affan",
-          "discussion": "Uṡman bin Affan adalah khalifah ketiga."
+          "answer": "Zunnurain",
+          "discussion": "Uṡman dikenal dengan julukan Zunnurain."
         },
         {
           "id": "PAI-B10-Q003",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, jawablah pertanyaan berikut: Siapa khalifah ketiga dalam Khulafaurrasyidin?",
+          "text": "Mengapa Uṡman mendapat julukan Zunnurain?",
           "options": [
-            "Umar bin Khattab",
-            "Ali bin Abi Ṭalib",
-            "Uṡman bin Affan",
-            "Abu Bakar"
+            "Menyusun dua kitab hadis",
+            "Menjadi khalifah dua kali",
+            "Menikah dengan dua putri Rasulullah saw.",
+            "Membangun dua kota suci"
           ],
-          "answer": "Uṡman bin Affan",
-          "discussion": "Uṡman bin Affan adalah khalifah ketiga."
+          "answer": "Menikah dengan dua putri Rasulullah saw.",
+          "discussion": "Julukan Zunnurain berkaitan dengan pernikahannya dengan Ruqayyah dan Ummu Kaltsum."
         },
         {
           "id": "PAI-B10-Q004",
           "type": "PG",
-          "text": "Apa salah satu jasa besar Uṡman bin Affan?",
+          "text": "Apa sifat Uṡman yang dikenal dalam buku?",
           "options": [
-            "Menetapkan kalender Hijriah",
-            "Membangun Ka'bah pertama kali",
-            "Mengumpulkan Al-Qur’an pertama kali",
-            "Menyatukan bacaan umat melalui mushaf standar"
+            "Kasar dan pemarah",
+            "Sombong dan boros",
+            "Malas dan tidak peduli",
+            "Dermawan dan lembut"
           ],
-          "answer": "Menyatukan bacaan umat melalui mushaf standar",
-          "discussion": "Uṡman menyusun dan mengirim mushaf standar ke berbagai wilayah."
+          "answer": "Dermawan dan lembut",
+          "discussion": "Uṡman dikenal sukses berdagang, dermawan, dan lembut kepada sesama."
         },
         {
           "id": "PAI-B10-Q005",
           "type": "PG",
-          "text": "Dalam kuis bab Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, pertanyaan yang harus kamu jawab adalah: apa salah satu jasa besar Uṡman bin Affan?",
+          "text": "Apa salah satu jasa Uṡman terhadap Masjid Nabawi?",
           "options": [
-            "Menyatukan bacaan umat melalui mushaf standar",
-            "Mengumpulkan Al-Qur’an pertama kali",
-            "Menetapkan kalender Hijriah",
-            "Membangun Ka'bah pertama kali"
+            "Menyempurnakan dan memperluas Masjid Nabawi",
+            "Membangun Ka’bah pertama kali",
+            "Memindahkan Masjid Nabawi ke Makkah",
+            "Mengubah arah kiblat"
           ],
-          "answer": "Menyatukan bacaan umat melalui mushaf standar",
-          "discussion": "Uṡman menyusun dan mengirim mushaf standar ke berbagai wilayah."
+          "answer": "Menyempurnakan dan memperluas Masjid Nabawi",
+          "discussion": "Uṡman menyempurnakan dan memperluas Masjid Nabawi."
         },
         {
           "id": "PAI-B10-Q006",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, jawablah pertanyaan berikut: Apa salah satu jasa besar Uṡman bin Affan?",
+          "text": "Apa nama mushaf standar yang dikaitkan dengan jasa Uṡman?",
           "options": [
-            "Mengumpulkan Al-Qur’an pertama kali",
-            "Menyatukan bacaan umat melalui mushaf standar",
-            "Menetapkan kalender Hijriah",
-            "Membangun Ka'bah pertama kali"
+            "Mushaf Abu Bakar",
+            "Mushaf Uṡmani",
+            "Mushaf Umar",
+            "Mushaf Madani"
           ],
-          "answer": "Menyatukan bacaan umat melalui mushaf standar",
-          "discussion": "Uṡman menyusun dan mengirim mushaf standar ke berbagai wilayah."
+          "answer": "Mushaf Uṡmani",
+          "discussion": "Mushaf standar yang disusun pada masa Uṡman dikenal sebagai Mushaf Uṡmani."
         },
         {
           "id": "PAI-B10-Q007",
           "type": "PG",
-          "text": "Mengapa mushaf standar dikirim ke berbagai wilayah?",
+          "text": "Siapa yang ditugaskan Uṡman untuk memimpin pengumpulan mushaf?",
           "options": [
-            "Agar setiap wilayah mengubah ayat",
-            "Agar Al-Qur’an tidak dibaca",
-            "Agar umat memiliki rujukan bacaan yang sama",
-            "Agar mushaf hanya disimpan"
+            "Abu Hurairah",
+            "Khalid bin Walid",
+            "Zaid bin Ṡabit",
+            "Bilal bin Rabah"
           ],
-          "answer": "Agar umat memiliki rujukan bacaan yang sama",
-          "discussion": "Pengiriman mushaf membantu mencegah perselisihan bacaan."
+          "answer": "Zaid bin Ṡabit",
+          "discussion": "Uṡman menugaskan Zaid bin Ṡabit dengan bantuan beberapa sahabat."
         },
         {
           "id": "PAI-B10-Q008",
           "type": "PG",
-          "text": "Dalam kuis bab Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, pertanyaan yang harus kamu jawab adalah: mengapa mushaf standar dikirim ke berbagai wilayah?",
+          "text": "Mengapa Uṡman memerintahkan penyusunan mushaf standar?",
           "options": [
-            "Agar mushaf hanya disimpan",
-            "Agar setiap wilayah mengubah ayat",
-            "Agar Al-Qur’an tidak dibaca",
-            "Agar umat memiliki rujukan bacaan yang sama"
+            "Agar setiap daerah mengubah ayat",
+            "Agar Al-Qur’an hanya dibaca khalifah",
+            "Agar umat berhenti menghafal",
+            "Agar umat memiliki rujukan bacaan yang sama di wilayah yang luas"
           ],
-          "answer": "Agar umat memiliki rujukan bacaan yang sama",
-          "discussion": "Pengiriman mushaf membantu mencegah perselisihan bacaan."
+          "answer": "Agar umat memiliki rujukan bacaan yang sama di wilayah yang luas",
+          "discussion": "Standardisasi membantu menyatukan rujukan bacaan umat."
         },
         {
           "id": "PAI-B10-Q009",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, jawablah pertanyaan berikut: Mengapa mushaf standar dikirim ke berbagai wilayah?",
+          "text": "Apa tantangan yang mendorong penyatuan mushaf pada masa Uṡman?",
           "options": [
-            "Agar umat memiliki rujukan bacaan yang sama",
-            "Agar Al-Qur’an tidak dibaca",
-            "Agar mushaf hanya disimpan",
-            "Agar setiap wilayah mengubah ayat"
+            "Perbedaan bacaan dan sulitnya memantau pembelajaran di wilayah yang luas",
+            "Tidak ada orang yang mampu membaca",
+            "Semua mushaf telah dibakar",
+            "Umat tidak mengenal bahasa Arab"
           ],
-          "answer": "Agar umat memiliki rujukan bacaan yang sama",
-          "discussion": "Pengiriman mushaf membantu mencegah perselisihan bacaan."
+          "answer": "Perbedaan bacaan dan sulitnya memantau pembelajaran di wilayah yang luas",
+          "discussion": "Wilayah Islam meluas dan terdapat perbedaan bacaan yang perlu disatukan."
         },
         {
           "id": "PAI-B10-Q010",
           "type": "PG",
-          "text": "Apa jasa Uṡman terhadap Masjid Nabawi?",
+          "text": "Apa jasa Uṡman dalam bidang pertahanan?",
           "options": [
-            "Mengubah arah kiblat",
-            "Memperluas Masjid Nabawi",
-            "Menghapus kegiatan salat",
-            "Membangun masjid pertama di Makkah"
+            "Menghapus seluruh pasukan",
+            "Membentuk dan menguatkan angkatan laut",
+            "Melarang kapal berlayar",
+            "Menutup semua pelabuhan"
           ],
-          "answer": "Memperluas Masjid Nabawi",
-          "discussion": "Uṡman memperluas Masjid Nabawi."
+          "answer": "Membentuk dan menguatkan angkatan laut",
+          "discussion": "Uṡman membentuk angkatan laut untuk menjaga wilayah Islam."
         },
         {
           "id": "PAI-B10-Q011",
           "type": "PG",
-          "text": "Dalam kuis bab Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, pertanyaan yang harus kamu jawab adalah: apa jasa Uṡman terhadap Masjid Nabawi?",
+          "text": "Mengapa angkatan laut dibentuk pada masa Uṡman?",
           "options": [
-            "Membangun masjid pertama di Makkah",
-            "Mengubah arah kiblat",
-            "Memperluas Masjid Nabawi",
-            "Menghapus kegiatan salat"
+            "Untuk mengangkut hasil panen saja",
+            "Untuk menghentikan perdagangan",
+            "Untuk menjaga keamanan wilayah dari serangan musuh",
+            "Untuk menggantikan semua pasukan darat"
           ],
-          "answer": "Memperluas Masjid Nabawi",
-          "discussion": "Uṡman memperluas Masjid Nabawi."
+          "answer": "Untuk menjaga keamanan wilayah dari serangan musuh",
+          "discussion": "Angkatan laut membantu menjaga wilayah kekuasaan Islam."
         },
         {
           "id": "PAI-B10-Q012",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, jawablah pertanyaan berikut: Apa jasa Uṡman terhadap Masjid Nabawi?",
+          "text": "Bagaimana Uṡman menggunakan kekayaannya?",
           "options": [
-            "Membangun masjid pertama di Makkah",
-            "Mengubah arah kiblat",
-            "Menghapus kegiatan salat",
-            "Memperluas Masjid Nabawi"
+            "Menyimpannya tanpa membantu siapa pun",
+            "Menggunakannya untuk menyombongkan diri",
+            "Membeli jabatan bagi keluarga",
+            "Membelanjakannya untuk mencari rida Allah dan kepentingan umat"
           ],
-          "answer": "Memperluas Masjid Nabawi",
-          "discussion": "Uṡman memperluas Masjid Nabawi."
+          "answer": "Membelanjakannya untuk mencari rida Allah dan kepentingan umat",
+          "discussion": "Uṡman dikenal dermawan dan menggunakan hartanya untuk kebaikan."
         },
         {
           "id": "PAI-B10-Q013",
           "type": "PG",
-          "text": "Apa upaya Uṡman dalam menjaga wilayah kaum muslimin?",
+          "text": "Apa sikap yang dapat diteladani dari kedermawanan Uṡman?",
           "options": [
-            "Membentuk angkatan laut yang kuat",
-            "Membubarkan seluruh pasukan",
-            "Melarang pelayaran",
-            "Menutup semua pelabuhan"
+            "Membantu orang lain dengan ikhlas sesuai kemampuan",
+            "Memberi agar selalu dipuji",
+            "Membantu hanya jika mendapat imbalan",
+            "Mengungkit pemberian setiap hari"
           ],
-          "answer": "Membentuk angkatan laut yang kuat",
-          "discussion": "Uṡman menguatkan angkatan laut untuk menjaga wilayah."
+          "answer": "Membantu orang lain dengan ikhlas sesuai kemampuan",
+          "discussion": "Kedermawanan sebaiknya dilakukan dengan ikhlas."
         },
         {
           "id": "PAI-B10-Q014",
           "type": "PG",
-          "text": "Dalam kuis bab Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, pertanyaan yang harus kamu jawab adalah: apa upaya Uṡman dalam menjaga wilayah kaum muslimin?",
+          "text": "Siapa khalifah keempat?",
           "options": [
-            "Menutup semua pelabuhan",
-            "Membentuk angkatan laut yang kuat",
-            "Membubarkan seluruh pasukan",
-            "Melarang pelayaran"
+            "Uṡman bin Affan",
+            "Ali bin Abi Ṭalib",
+            "Umar bin Khattab",
+            "Abu Bakar al-Ṣiddiq"
           ],
-          "answer": "Membentuk angkatan laut yang kuat",
-          "discussion": "Uṡman menguatkan angkatan laut untuk menjaga wilayah."
+          "answer": "Ali bin Abi Ṭalib",
+          "discussion": "Ali bin Abi Ṭalib adalah khalifah keempat."
         },
         {
           "id": "PAI-B10-Q015",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, jawablah pertanyaan berikut: Apa upaya Uṡman dalam menjaga wilayah kaum muslimin?",
+          "text": "Apa hubungan Ali bin Abi Ṭalib dengan Nabi Muhammad saw.?",
           "options": [
-            "Melarang pelayaran",
-            "Menutup semua pelabuhan",
-            "Membentuk angkatan laut yang kuat",
-            "Membubarkan seluruh pasukan"
-          ],
-          "answer": "Membentuk angkatan laut yang kuat",
-          "discussion": "Uṡman menguatkan angkatan laut untuk menjaga wilayah."
-        },
-        {
-          "id": "PAI-B10-Q016",
-          "type": "PG",
-          "text": "Apa sifat Uṡman yang dapat diteladani?",
-          "options": [
-            "Sombong dan pemarah",
-            "Tidak peduli sesama",
-            "Kikir dan kasar",
-            "Dermawan dan lembut"
-          ],
-          "answer": "Dermawan dan lembut",
-          "discussion": "Uṡman dikenal dermawan dan lembut."
-        },
-        {
-          "id": "PAI-B10-Q017",
-          "type": "PG",
-          "text": "Dalam kuis bab Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, pertanyaan yang harus kamu jawab adalah: apa sifat Uṡman yang dapat diteladani?",
-          "options": [
-            "Dermawan dan lembut",
-            "Kikir dan kasar",
-            "Sombong dan pemarah",
-            "Tidak peduli sesama"
-          ],
-          "answer": "Dermawan dan lembut",
-          "discussion": "Uṡman dikenal dermawan dan lembut."
-        },
-        {
-          "id": "PAI-B10-Q018",
-          "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, jawablah pertanyaan berikut: Apa sifat Uṡman yang dapat diteladani?",
-          "options": [
-            "Kikir dan kasar",
-            "Dermawan dan lembut",
-            "Sombong dan pemarah",
-            "Tidak peduli sesama"
-          ],
-          "answer": "Dermawan dan lembut",
-          "discussion": "Uṡman dikenal dermawan dan lembut."
-        },
-        {
-          "id": "PAI-B10-Q019",
-          "type": "PG",
-          "text": "Siapa khalifah keempat?",
-          "options": [
-            "Uṡman bin Affan",
-            "Umar bin Khattab",
-            "Ali bin Abi Ṭalib",
-            "Abu Bakar"
-          ],
-          "answer": "Ali bin Abi Ṭalib",
-          "discussion": "Ali bin Abi Ṭalib adalah khalifah keempat."
-        },
-        {
-          "id": "PAI-B10-Q020",
-          "type": "PG",
-          "text": "Dalam kuis bab Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, pertanyaan yang harus kamu jawab adalah: siapa khalifah keempat?",
-          "options": [
-            "Abu Bakar",
-            "Uṡman bin Affan",
-            "Umar bin Khattab",
-            "Ali bin Abi Ṭalib"
-          ],
-          "answer": "Ali bin Abi Ṭalib",
-          "discussion": "Ali bin Abi Ṭalib adalah khalifah keempat."
-        },
-        {
-          "id": "PAI-B10-Q021",
-          "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, jawablah pertanyaan berikut: Siapa khalifah keempat?",
-          "options": [
-            "Ali bin Abi Ṭalib",
-            "Umar bin Khattab",
-            "Abu Bakar",
-            "Uṡman bin Affan"
-          ],
-          "answer": "Ali bin Abi Ṭalib",
-          "discussion": "Ali bin Abi Ṭalib adalah khalifah keempat."
-        },
-        {
-          "id": "PAI-B10-Q022",
-          "type": "PG",
-          "text": "Apa hubungan Ali dengan Nabi Muhammad saw.?",
-          "options": [
-            "Saudara kandung Nabi",
-            "Sepupu sekaligus menantu Nabi",
-            "Ayah Nabi",
-            "Paman dari pihak ibu"
-          ],
-          "answer": "Sepupu sekaligus menantu Nabi",
-          "discussion": "Ali adalah sepupu dan menantu Nabi Muhammad saw."
-        },
-        {
-          "id": "PAI-B10-Q023",
-          "type": "PG",
-          "text": "Dalam kuis bab Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, pertanyaan yang harus kamu jawab adalah: apa hubungan Ali dengan Nabi Muhammad saw.?",
-          "options": [
-            "Paman dari pihak ibu",
+            "Paman dari pihak ayah",
             "Saudara kandung Nabi",
             "Sepupu sekaligus menantu Nabi",
             "Ayah Nabi"
           ],
           "answer": "Sepupu sekaligus menantu Nabi",
-          "discussion": "Ali adalah sepupu dan menantu Nabi Muhammad saw."
+          "discussion": "Ali adalah sepupu Nabi dan menikah dengan putri beliau, Fatimah."
+        },
+        {
+          "id": "PAI-B10-Q016",
+          "type": "PG",
+          "text": "Apa julukan Ali yang berarti Singa Allah?",
+          "options": [
+            "Zunnurain",
+            "Al-Fārūq",
+            "Al-Ṣiddiq",
+            "Asadullah"
+          ],
+          "answer": "Asadullah",
+          "discussion": "Ali dikenal dengan julukan Asadullah."
+        },
+        {
+          "id": "PAI-B10-Q017",
+          "type": "PG",
+          "text": "Apa julukan Ali yang berkaitan dengan kecintaannya pada ilmu?",
+          "options": [
+            "Babul Ilmi",
+            "Zunnurain",
+            "Al-Fārūq",
+            "Abu Layla"
+          ],
+          "answer": "Babul Ilmi",
+          "discussion": "Babul Ilmi dikaitkan dengan keluasan ilmu Ali."
+        },
+        {
+          "id": "PAI-B10-Q018",
+          "type": "PG",
+          "text": "Sifat Ali yang dapat diteladani adalah ...",
+          "options": [
+            "Kikir dan pemarah",
+            "Berilmu, berani, dan sederhana",
+            "Sombong dan malas",
+            "Tidak peduli kepada umat"
+          ],
+          "answer": "Berilmu, berani, dan sederhana",
+          "discussion": "Ali dikenal berilmu, berani, dan sederhana."
+        },
+        {
+          "id": "PAI-B10-Q019",
+          "type": "PG",
+          "text": "Apa tantangan utama pada masa kepemimpinan Ali?",
+          "options": [
+            "Tidak ada masalah dalam pemerintahan",
+            "Serangan dari seluruh wilayah Eropa",
+            "Konflik internal di kalangan umat Islam",
+            "Tidak ada rakyat yang tinggal di Madinah"
+          ],
+          "answer": "Konflik internal di kalangan umat Islam",
+          "discussion": "Masa kepemimpinan Ali diwarnai konflik internal yang berat."
+        },
+        {
+          "id": "PAI-B10-Q020",
+          "type": "PG",
+          "text": "Bagaimana sebaiknya kita mempelajari konflik pada masa Ali?",
+          "options": [
+            "Dengan menghina salah satu kelompok",
+            "Dengan menyebarkan cerita yang belum jelas",
+            "Dengan memihak tanpa memeriksa fakta",
+            "Dengan hati-hati, adil, dan merujuk sumber tepercaya"
+          ],
+          "answer": "Dengan hati-hati, adil, dan merujuk sumber tepercaya",
+          "discussion": "Sejarah masa Ali perlu dipelajari secara hati-hati dan adil."
+        },
+        {
+          "id": "PAI-B10-Q021",
+          "type": "PG",
+          "text": "Mengapa ilmu penting dalam kepemimpinan menurut teladan Ali?",
+          "options": [
+            "Ilmu membantu mengambil keputusan yang bijaksana",
+            "Ilmu hanya digunakan untuk berdebat",
+            "Pemimpin tidak perlu belajar",
+            "Ilmu membuat seseorang bebas dari tanggung jawab"
+          ],
+          "answer": "Ilmu membantu mengambil keputusan yang bijaksana",
+          "discussion": "Kecintaan Ali pada ilmu dapat menjadi teladan dalam mengambil keputusan."
+        },
+        {
+          "id": "PAI-B10-Q022",
+          "type": "PG",
+          "text": "Jika seorang siswa dipercaya menjadi ketua kelompok, teladan Ali yang dapat diterapkan adalah ...",
+          "options": [
+            "Memilih anggota hanya dari teman dekat",
+            "Bersikap adil dan menggunakan pengetahuan untuk kebaikan kelompok",
+            "Mengabaikan pendapat anggota lain",
+            "Menggunakan jabatan untuk memerintah semaunya"
+          ],
+          "answer": "Bersikap adil dan menggunakan pengetahuan untuk kebaikan kelompok",
+          "discussion": "Keadilan dan ilmu membantu pemimpin menjalankan amanah."
+        },
+        {
+          "id": "PAI-B10-Q023",
+          "type": "PG",
+          "text": "Apa persamaan keteladanan Uṡman dan Ali?",
+          "options": [
+            "Keduanya menjadi khalifah pertama",
+            "Keduanya menetapkan kalender Hijriah",
+            "Keduanya berjuang untuk kepentingan umat dan perkembangan Islam",
+            "Keduanya memulai pengumpulan Al-Qur’an pada masa Abu Bakar"
+          ],
+          "answer": "Keduanya berjuang untuk kepentingan umat dan perkembangan Islam",
+          "discussion": "Keduanya memiliki jasa dalam perkembangan umat Islam."
         },
         {
           "id": "PAI-B10-Q024",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, jawablah pertanyaan berikut: Apa hubungan Ali dengan Nabi Muhammad saw.?",
+          "text": "Apa perbedaan jasa utama Uṡman dan Ali dalam bab ini?",
           "options": [
-            "Paman dari pihak ibu",
-            "Saudara kandung Nabi",
-            "Ayah Nabi",
-            "Sepupu sekaligus menantu Nabi"
+            "Uṡman menetapkan kalender Hijriah, Ali mengumpulkan mushaf pertama",
+            "Uṡman membangun Ka’bah, Ali membangun Masjid Nabawi pertama",
+            "Keduanya tidak memiliki jasa yang dibahas",
+            "Uṡman menstandardisasi mushaf, sedangkan Ali dikenal dengan kepemimpinan dan keteguhan pada kebenaran"
           ],
-          "answer": "Sepupu sekaligus menantu Nabi",
-          "discussion": "Ali adalah sepupu dan menantu Nabi Muhammad saw."
+          "answer": "Uṡman menstandardisasi mushaf, sedangkan Ali dikenal dengan kepemimpinan dan keteguhan pada kebenaran",
+          "discussion": "Buku menekankan standardisasi mushaf pada Uṡman dan perjuangan Ali dalam masa penuh tantangan."
         },
         {
           "id": "PAI-B10-Q025",
           "type": "PG",
-          "text": "Apa sifat Ali yang dapat diteladani?",
+          "text": "Apa yang dapat dipelajari dari Uṡman yang menggunakan hartanya untuk kepentingan umat?",
           "options": [
-            "Berilmu, berani, sederhana, dan adil",
-            "Malas belajar dan tidak adil",
-            "Suka berbohong",
-            "Mementingkan diri sendiri"
+            "Kekayaan sebaiknya dimanfaatkan untuk kebaikan bersama",
+            "Harta hanya boleh disimpan",
+            "Kekayaan menjadi alasan merendahkan orang lain",
+            "Bantuan harus selalu dibalas"
           ],
-          "answer": "Berilmu, berani, sederhana, dan adil",
-          "discussion": "Ali dikenal berilmu, berani, sederhana, dan teguh pada kebenaran."
+          "answer": "Kekayaan sebaiknya dimanfaatkan untuk kebaikan bersama",
+          "discussion": "Kedermawanan Uṡman menjadi teladan menggunakan harta untuk kebaikan."
         },
         {
           "id": "PAI-B10-Q026",
           "type": "PG",
-          "text": "Dalam kuis bab Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, pertanyaan yang harus kamu jawab adalah: apa sifat Ali yang dapat diteladani?",
+          "text": "Mengapa perlu meneladani keteguhan Ali dalam memegang kebenaran?",
           "options": [
-            "Mementingkan diri sendiri",
-            "Berilmu, berani, sederhana, dan adil",
-            "Malas belajar dan tidak adil",
-            "Suka berbohong"
+            "Agar selalu memaksakan pendapat sendiri",
+            "Agar tidak mudah meninggalkan prinsip yang benar",
+            "Agar menolak semua nasihat",
+            "Agar tidak mau bermusyawarah"
           ],
-          "answer": "Berilmu, berani, sederhana, dan adil",
-          "discussion": "Ali dikenal berilmu, berani, sederhana, dan teguh pada kebenaran."
+          "answer": "Agar tidak mudah meninggalkan prinsip yang benar",
+          "discussion": "Keteguhan pada kebenaran perlu disertai sikap bijaksana."
         },
         {
           "id": "PAI-B10-Q027",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, jawablah pertanyaan berikut: Apa sifat Ali yang dapat diteladani?",
+          "text": "Apa manfaat pengiriman mushaf standar ke berbagai wilayah?",
           "options": [
-            "Suka berbohong",
-            "Mementingkan diri sendiri",
-            "Berilmu, berani, sederhana, dan adil",
-            "Malas belajar dan tidak adil"
+            "Membuat setiap wilayah memiliki ayat berbeda",
+            "Mengurangi jumlah ayat Al-Qur’an",
+            "Membantu umat memiliki pedoman bacaan Al-Qur’an yang seragam",
+            "Membatasi umat untuk membaca Al-Qur’an"
           ],
-          "answer": "Berilmu, berani, sederhana, dan adil",
-          "discussion": "Ali dikenal berilmu, berani, sederhana, dan teguh pada kebenaran."
+          "answer": "Membantu umat memiliki pedoman bacaan Al-Qur’an yang seragam",
+          "discussion": "Pengiriman mushaf standar membantu menyatukan rujukan bacaan."
         },
         {
           "id": "PAI-B10-Q028",
           "type": "PG",
-          "text": "Bagaimana sikap mempelajari konflik sejarah pada masa Ali?",
+          "text": "Apa yang bisa diteladani dari sikap Uṡman yang lembut kepada sesama?",
           "options": [
-            "Memihak tanpa memahami fakta",
-            "Mengarang cerita sendiri",
-            "Menyebarkan hinaan",
-            "Hati-hati, adil, dan merujuk sumber tepercaya"
+            "Selalu diam ketika melihat ketidakadilan",
+            "Membiarkan kesalahan tanpa nasihat",
+            "Menolak membantu orang yang berbeda pendapat",
+            "Berbicara santun dan tidak menyakiti orang lain"
           ],
-          "answer": "Hati-hati, adil, dan merujuk sumber tepercaya",
-          "discussion": "Masa Ali penuh tantangan; sejarah perlu dipelajari secara hati-hati dan adil."
+          "answer": "Berbicara santun dan tidak menyakiti orang lain",
+          "discussion": "Kelembutan dapat diterapkan dalam pergaulan sehari-hari."
         },
         {
           "id": "PAI-B10-Q029",
           "type": "PG",
-          "text": "Dalam kuis bab Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, pertanyaan yang harus kamu jawab adalah: bagaimana sikap mempelajari konflik sejarah pada masa Ali?",
+          "text": "Mengapa Ali dikenal sebagai sosok yang berani?",
           "options": [
-            "Hati-hati, adil, dan merujuk sumber tepercaya",
-            "Menyebarkan hinaan",
-            "Memihak tanpa memahami fakta",
-            "Mengarang cerita sendiri"
+            "Ia teguh dalam perjuangan dan membela kebenaran",
+            "Ia selalu mencari pertengkaran",
+            "Ia menolak tanggung jawab",
+            "Ia menggunakan kekuatan untuk menindas"
           ],
-          "answer": "Hati-hati, adil, dan merujuk sumber tepercaya",
-          "discussion": "Masa Ali penuh tantangan; sejarah perlu dipelajari secara hati-hati dan adil."
+          "answer": "Ia teguh dalam perjuangan dan membela kebenaran",
+          "discussion": "Keberanian Ali dikaitkan dengan perjuangan dan keteguhannya."
         },
         {
           "id": "PAI-B10-Q030",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Meneladani Jasa Khalifah Uṡman Bin Affan dan Ali Bin Abi Ṭalib, jawablah pertanyaan berikut: Bagaimana sikap mempelajari konflik sejarah pada masa Ali?",
+          "text": "Apa tujuan mempelajari jasa khalifah Uṡman dan Ali?",
           "options": [
-            "Menyebarkan hinaan",
-            "Hati-hati, adil, dan merujuk sumber tepercaya",
-            "Memihak tanpa memahami fakta",
-            "Mengarang cerita sendiri"
+            "Sekadar menghafal nama tokoh",
+            "Mengenal perjuangan mereka dan menerapkan teladannya dalam kehidupan",
+            "Menentukan tokoh yang paling kaya",
+            "Membandingkan keluarga para khalifah"
           ],
-          "answer": "Hati-hati, adil, dan merujuk sumber tepercaya",
-          "discussion": "Masa Ali penuh tantangan; sejarah perlu dipelajari secara hati-hati dan adil."
+          "answer": "Mengenal perjuangan mereka dan menerapkan teladannya dalam kehidupan",
+          "discussion": "Bab ini bertujuan agar peserta didik memahami jasa dan meneladaninya."
         }
       ]
     }
