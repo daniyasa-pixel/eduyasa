@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500"><rect width="900" height="500" rx="28" fill="#f0fdf4"/><text x="450" y="55" text-anchor="middle" font-family="Arial" font-size="32" font-weight="bold" fill="#166534">VEGETABLE GARDEN</text>
+<g font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="#14532d">
+<g transform="translate(105 115)"><path d="M55 45 L25 150 Q55 178 85 150 L55 45" fill="#f97316"/><path d="M55 50 Q20 0 5 28 Q32 22 55 50 Q65 5 95 12 Q80 35 55 50" fill="#22c55e"/><text x="55" y="205">CARROT</text></g>
+<g transform="translate(300 115)"><circle cx="60" cy="95" r="55" fill="#ef4444"/><path d="M60 43 Q55 20 75 15 Q78 35 60 43" fill="#15803d"/><text x="60" y="205">TOMATO</text></g>
+<g transform="translate(500 115)"><path d="M60 45 C15 10 0 50 20 78 C-5 105 20 145 55 125 C80 160 120 130 100 95 C135 60 105 25 75 45Z" fill="#16a34a"/><circle cx="40" cy="65" r="18" fill="#4ade80"/><circle cx="75" cy="55" r="20" fill="#4ade80"/><circle cx="70" cy="100" r="20" fill="#4ade80"/><text x="60" y="205">BROCCOLI</text></g>
+<g transform="translate(700 115)"><path d="M60 35 C5 30 5 130 60 145 C115 130 115 30 60 35Z" fill="#7c3aed"/><path d="M60 35 Q50 10 35 15 Q45 38 60 35 Q75 8 92 18 Q78 38 60 35" fill="#16a34a"/><text x="60" y="205">EGGPLANT</text></g>
+<g transform="translate(205 325)"><path d="M15 45 Q60 5 105 45 Q60 125 15 45" fill="#65a30d"/><path d="M20 45 L100 45" stroke="#166534" stroke-width="5"/><text x="60" y="145">SPINACH</text></g>
+<g transform="translate(510 325)"><path d="M15 45 Q60 5 105 45 Q60 125 15 45" fill="#22c55e"/><path d="M20 45 L100 45" stroke="#166534" stroke-width="5"/><text x="60" y="145">WATER SPINACH</text></g>
+</g></svg>
