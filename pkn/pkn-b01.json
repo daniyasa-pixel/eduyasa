@@ -1,0 +1,664 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PKN-B01",
+      "chapter_title": "Belajar Pancasila dengan Menyenangkan",
+      "questions": [
+        {
+          "id": "PKN-B01-001",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang pancasila sebagai satu kesatuan?",
+          "options": [
+            "Lima sila saling berhubungan dan membentuk satu kesatuan utuh.",
+            " Kelima sila tidak boleh dipilih-pilih atau dipisahkan.",
+            " Mengamalkan satu nilai dapat sekaligus mendukung nilai sila lainnya.",
+            "Memahami hubungan antarsila membantu kita bertindak secara utuh."
+          ],
+          "answer": "Lima sila saling berhubungan dan membentuk satu kesatuan utuh.",
+          "discussion": "Materi bab menjelaskan bahwa lima sila saling berhubungan dan membentuk satu kesatuan utuh."
+        },
+        {
+          "id": "PKN-B01-002",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan pancasila sebagai satu kesatuan?",
+          "options": [
+            "Kelima sila tidak boleh dipilih-pilih atau dipisahkan.",
+            "Mengamalkan satu nilai dapat sekaligus mendukung nilai sila lainnya.",
+            "Memahami hubungan antarsila membantu kita bertindak secara utuh.",
+            "Lima sila saling berhubungan dan membentuk satu kesatuan utuh."
+          ],
+          "answer": "Mengamalkan satu nilai dapat sekaligus mendukung nilai sila lainnya.",
+          "discussion": "Contoh tersebut sesuai karena mengamalkan satu nilai dapat sekaligus mendukung nilai sila lainnya."
+        },
+        {
+          "id": "PKN-B01-003",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait pancasila sebagai satu kesatuan adalah ...",
+          "options": [
+            "Lima sila saling berhubungan dan membentuk satu kesatuan utuh.",
+            "Mengamalkan satu nilai dapat sekaligus mendukung nilai sila lainnya.",
+            "Kelima sila tidak boleh dipilih-pilih atau dipisahkan.",
+            "Memahami hubungan antarsila membantu kita bertindak secara utuh."
+          ],
+          "answer": "Kelima sila tidak boleh dipilih-pilih atau dipisahkan.",
+          "discussion": "Hal yang perlu dihindari adalah kelima sila tidak boleh dipilih-pilih atau dipisahkan."
+        },
+        {
+          "id": "PKN-B01-004",
+          "type": "PG",
+          "text": "Mengapa pancasila sebagai satu kesatuan penting dalam kehidupan bersama?",
+          "options": [
+            "Kelima sila tidak boleh dipilih-pilih atau dipisahkan.",
+            "Lima sila saling berhubungan dan membentuk satu kesatuan utuh.",
+            "Mengamalkan satu nilai dapat sekaligus mendukung nilai sila lainnya.",
+            "Memahami hubungan antarsila membantu kita bertindak secara utuh."
+          ],
+          "answer": "Memahami hubungan antarsila membantu kita bertindak secara utuh.",
+          "discussion": "Manfaatnya adalah memahami hubungan antarsila membantu kita bertindak secara utuh."
+        },
+        {
+          "id": "PKN-B01-005",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan pancasila sebagai satu kesatuan?",
+          "options": [
+            "Mengamalkan satu nilai dapat sekaligus mendukung nilai sila lainnya.",
+            "Kelima sila tidak boleh dipilih-pilih atau dipisahkan.",
+            "Memahami hubungan antarsila membantu kita bertindak secara utuh.",
+            "Lima sila saling berhubungan dan membentuk satu kesatuan utuh."
+          ],
+          "answer": "Mengamalkan satu nilai dapat sekaligus mendukung nilai sila lainnya.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang pancasila sebagai satu kesatuan. Mengamalkan satu nilai dapat sekaligus mendukung nilai sila lainnya."
+        },
+        {
+          "id": "PKN-B01-006",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang sila pertama menjiwai sila lain?",
+          "options": [
+            " Bukan berarti sila pertama menggantikan empat sila lainnya.",
+            "Ketuhanan Yang Maha Esa menjadi dasar yang menjiwai sila-sila lainnya.",
+            " Menghormati sesama, menjaga persatuan, bermusyawarah, dan berlaku adil.",
+            "Nilai ketuhanan menjadi landasan moral dalam kehidupan."
+          ],
+          "answer": "Ketuhanan Yang Maha Esa menjadi dasar yang menjiwai sila-sila lainnya.",
+          "discussion": "Materi bab menjelaskan bahwa ketuhanan Yang Maha Esa menjadi dasar yang menjiwai sila-sila lainnya."
+        },
+        {
+          "id": "PKN-B01-007",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan sila pertama menjiwai sila lain?",
+          "options": [
+            "Bukan berarti sila pertama menggantikan empat sila lainnya.",
+            "Nilai ketuhanan menjadi landasan moral dalam kehidupan.",
+            "Menghormati sesama, menjaga persatuan, bermusyawarah, dan berlaku adil.",
+            "Ketuhanan Yang Maha Esa menjadi dasar yang menjiwai sila-sila lainnya."
+          ],
+          "answer": "Menghormati sesama, menjaga persatuan, bermusyawarah, dan berlaku adil.",
+          "discussion": "Contoh tersebut sesuai karena menghormati sesama, menjaga persatuan, bermusyawarah, dan berlaku adil."
+        },
+        {
+          "id": "PKN-B01-008",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait sila pertama menjiwai sila lain adalah ...",
+          "options": [
+            "Ketuhanan Yang Maha Esa menjadi dasar yang menjiwai sila-sila lainnya.",
+            "Menghormati sesama, menjaga persatuan, bermusyawarah, dan berlaku adil.",
+            "Nilai ketuhanan menjadi landasan moral dalam kehidupan.",
+            "Bukan berarti sila pertama menggantikan empat sila lainnya."
+          ],
+          "answer": "Bukan berarti sila pertama menggantikan empat sila lainnya.",
+          "discussion": "Hal yang perlu dihindari adalah bukan berarti sila pertama menggantikan empat sila lainnya."
+        },
+        {
+          "id": "PKN-B01-009",
+          "type": "PG",
+          "text": "Mengapa sila pertama menjiwai sila lain penting dalam kehidupan bersama?",
+          "options": [
+            "Nilai ketuhanan menjadi landasan moral dalam kehidupan.",
+            "Bukan berarti sila pertama menggantikan empat sila lainnya.",
+            "Ketuhanan Yang Maha Esa menjadi dasar yang menjiwai sila-sila lainnya.",
+            "Menghormati sesama, menjaga persatuan, bermusyawarah, dan berlaku adil."
+          ],
+          "answer": "Nilai ketuhanan menjadi landasan moral dalam kehidupan.",
+          "discussion": "Manfaatnya adalah nilai ketuhanan menjadi landasan moral dalam kehidupan."
+        },
+        {
+          "id": "PKN-B01-010",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan sila pertama menjiwai sila lain?",
+          "options": [
+            "Bukan berarti sila pertama menggantikan empat sila lainnya.",
+            "Menghormati sesama, menjaga persatuan, bermusyawarah, dan berlaku adil.",
+            "Nilai ketuhanan menjadi landasan moral dalam kehidupan.",
+            "Ketuhanan Yang Maha Esa menjadi dasar yang menjiwai sila-sila lainnya."
+          ],
+          "answer": "Menghormati sesama, menjaga persatuan, bermusyawarah, dan berlaku adil.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang sila pertama menjiwai sila lain. Menghormati sesama, menjaga persatuan, bermusyawarah, dan berlaku adil."
+        },
+        {
+          "id": "PKN-B01-011",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang pengamalan di rumah?",
+          "options": [
+            " Tidak membiarkan semua tugas keluarga dibebankan kepada satu orang.",
+            " Membantu pekerjaan rumah sesuai kemampuan.",
+            "Tanggung jawab dan kepedulian dapat diwujudkan dalam keluarga.",
+            "Keluarga menjadi lebih rukun ketika anggotanya saling membantu."
+          ],
+          "answer": "Tanggung jawab dan kepedulian dapat diwujudkan dalam keluarga.",
+          "discussion": "Materi bab menjelaskan bahwa tanggung jawab dan kepedulian dapat diwujudkan dalam keluarga."
+        },
+        {
+          "id": "PKN-B01-012",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan pengamalan di rumah?",
+          "options": [
+            "Tidak membiarkan semua tugas keluarga dibebankan kepada satu orang.",
+            "Keluarga menjadi lebih rukun ketika anggotanya saling membantu.",
+            "Tanggung jawab dan kepedulian dapat diwujudkan dalam keluarga.",
+            "Membantu pekerjaan rumah sesuai kemampuan."
+          ],
+          "answer": "Membantu pekerjaan rumah sesuai kemampuan.",
+          "discussion": "Contoh tersebut sesuai karena membantu pekerjaan rumah sesuai kemampuan."
+        },
+        {
+          "id": "PKN-B01-013",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait pengamalan di rumah adalah ...",
+          "options": [
+            "Tidak membiarkan semua tugas keluarga dibebankan kepada satu orang.",
+            "Tanggung jawab dan kepedulian dapat diwujudkan dalam keluarga.",
+            "Membantu pekerjaan rumah sesuai kemampuan.",
+            "Keluarga menjadi lebih rukun ketika anggotanya saling membantu."
+          ],
+          "answer": "Tidak membiarkan semua tugas keluarga dibebankan kepada satu orang.",
+          "discussion": "Hal yang perlu dihindari adalah tidak membiarkan semua tugas keluarga dibebankan kepada satu orang."
+        },
+        {
+          "id": "PKN-B01-014",
+          "type": "PG",
+          "text": "Mengapa pengamalan di rumah penting dalam kehidupan bersama?",
+          "options": [
+            "Tidak membiarkan semua tugas keluarga dibebankan kepada satu orang.",
+            "Keluarga menjadi lebih rukun ketika anggotanya saling membantu.",
+            "Tanggung jawab dan kepedulian dapat diwujudkan dalam keluarga.",
+            "Membantu pekerjaan rumah sesuai kemampuan."
+          ],
+          "answer": "Keluarga menjadi lebih rukun ketika anggotanya saling membantu.",
+          "discussion": "Manfaatnya adalah keluarga menjadi lebih rukun ketika anggotanya saling membantu."
+        },
+        {
+          "id": "PKN-B01-015",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan pengamalan di rumah?",
+          "options": [
+            "Tidak membiarkan semua tugas keluarga dibebankan kepada satu orang.",
+            "Keluarga menjadi lebih rukun ketika anggotanya saling membantu.",
+            "Membantu pekerjaan rumah sesuai kemampuan.",
+            "Tanggung jawab dan kepedulian dapat diwujudkan dalam keluarga."
+          ],
+          "answer": "Membantu pekerjaan rumah sesuai kemampuan.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang pengamalan di rumah. Membantu pekerjaan rumah sesuai kemampuan."
+        },
+        {
+          "id": "PKN-B01-016",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang pengamalan di sekolah?",
+          "options": [
+            " Tidak mengucilkan teman karena perbedaan.",
+            " Menerima teman, berdiskusi, dan membagi tugas secara adil.",
+            "Semua siswa merasa dihargai dan dapat berpartisipasi.",
+            "Nilai Pancasila tampak dalam pergaulan dan kegiatan belajar."
+          ],
+          "answer": "Nilai Pancasila tampak dalam pergaulan dan kegiatan belajar.",
+          "discussion": "Materi bab menjelaskan bahwa nilai Pancasila tampak dalam pergaulan dan kegiatan belajar."
+        },
+        {
+          "id": "PKN-B01-017",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan pengamalan di sekolah?",
+          "options": [
+            "Menerima teman, berdiskusi, dan membagi tugas secara adil.",
+            "Tidak mengucilkan teman karena perbedaan.",
+            "Semua siswa merasa dihargai dan dapat berpartisipasi.",
+            "Nilai Pancasila tampak dalam pergaulan dan kegiatan belajar."
+          ],
+          "answer": "Menerima teman, berdiskusi, dan membagi tugas secara adil.",
+          "discussion": "Contoh tersebut sesuai karena menerima teman, berdiskusi, dan membagi tugas secara adil."
+        },
+        {
+          "id": "PKN-B01-018",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait pengamalan di sekolah adalah ...",
+          "options": [
+            "Nilai Pancasila tampak dalam pergaulan dan kegiatan belajar.",
+            "Tidak mengucilkan teman karena perbedaan.",
+            "Menerima teman, berdiskusi, dan membagi tugas secara adil.",
+            "Semua siswa merasa dihargai dan dapat berpartisipasi."
+          ],
+          "answer": "Tidak mengucilkan teman karena perbedaan.",
+          "discussion": "Hal yang perlu dihindari adalah tidak mengucilkan teman karena perbedaan."
+        },
+        {
+          "id": "PKN-B01-019",
+          "type": "PG",
+          "text": "Mengapa pengamalan di sekolah penting dalam kehidupan bersama?",
+          "options": [
+            "Tidak mengucilkan teman karena perbedaan.",
+            "Nilai Pancasila tampak dalam pergaulan dan kegiatan belajar.",
+            "Semua siswa merasa dihargai dan dapat berpartisipasi.",
+            "Menerima teman, berdiskusi, dan membagi tugas secara adil."
+          ],
+          "answer": "Semua siswa merasa dihargai dan dapat berpartisipasi.",
+          "discussion": "Manfaatnya adalah semua siswa merasa dihargai dan dapat berpartisipasi."
+        },
+        {
+          "id": "PKN-B01-020",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan pengamalan di sekolah?",
+          "options": [
+            "Tidak mengucilkan teman karena perbedaan.",
+            "Semua siswa merasa dihargai dan dapat berpartisipasi.",
+            "Nilai Pancasila tampak dalam pergaulan dan kegiatan belajar.",
+            "Menerima teman, berdiskusi, dan membagi tugas secara adil."
+          ],
+          "answer": "Menerima teman, berdiskusi, dan membagi tugas secara adil.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang pengamalan di sekolah. Menerima teman, berdiskusi, dan membagi tugas secara adil."
+        },
+        {
+          "id": "PKN-B01-021",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang pengamalan di masyarakat?",
+          "options": [
+            "Kepedulian warga dapat memperkuat kebersamaan.",
+            " Tidak menolong hanya karena ingin mendapat pujian.",
+            " Membantu tetangga yang kesulitan tanpa mengharapkan imbalan.",
+            "Bantuan tanpa pamrih menunjukkan kepedulian terhadap sesama."
+          ],
+          "answer": "Kepedulian warga dapat memperkuat kebersamaan.",
+          "discussion": "Materi bab menjelaskan bahwa kepedulian warga dapat memperkuat kebersamaan."
+        },
+        {
+          "id": "PKN-B01-022",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan pengamalan di masyarakat?",
+          "options": [
+            "Tidak menolong hanya karena ingin mendapat pujian.",
+            "Membantu tetangga yang kesulitan tanpa mengharapkan imbalan.",
+            "Bantuan tanpa pamrih menunjukkan kepedulian terhadap sesama.",
+            "Kepedulian warga dapat memperkuat kebersamaan."
+          ],
+          "answer": "Membantu tetangga yang kesulitan tanpa mengharapkan imbalan.",
+          "discussion": "Contoh tersebut sesuai karena membantu tetangga yang kesulitan tanpa mengharapkan imbalan."
+        },
+        {
+          "id": "PKN-B01-023",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait pengamalan di masyarakat adalah ...",
+          "options": [
+            "Kepedulian warga dapat memperkuat kebersamaan.",
+            "Membantu tetangga yang kesulitan tanpa mengharapkan imbalan.",
+            "Tidak menolong hanya karena ingin mendapat pujian.",
+            "Bantuan tanpa pamrih menunjukkan kepedulian terhadap sesama."
+          ],
+          "answer": "Tidak menolong hanya karena ingin mendapat pujian.",
+          "discussion": "Hal yang perlu dihindari adalah tidak menolong hanya karena ingin mendapat pujian."
+        },
+        {
+          "id": "PKN-B01-024",
+          "type": "PG",
+          "text": "Mengapa pengamalan di masyarakat penting dalam kehidupan bersama?",
+          "options": [
+            "Tidak menolong hanya karena ingin mendapat pujian.",
+            "Kepedulian warga dapat memperkuat kebersamaan.",
+            "Membantu tetangga yang kesulitan tanpa mengharapkan imbalan.",
+            "Bantuan tanpa pamrih menunjukkan kepedulian terhadap sesama."
+          ],
+          "answer": "Bantuan tanpa pamrih menunjukkan kepedulian terhadap sesama.",
+          "discussion": "Manfaatnya adalah bantuan tanpa pamrih menunjukkan kepedulian terhadap sesama."
+        },
+        {
+          "id": "PKN-B01-025",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan pengamalan di masyarakat?",
+          "options": [
+            "Membantu tetangga yang kesulitan tanpa mengharapkan imbalan.",
+            "Tidak menolong hanya karena ingin mendapat pujian.",
+            "Bantuan tanpa pamrih menunjukkan kepedulian terhadap sesama.",
+            "Kepedulian warga dapat memperkuat kebersamaan."
+          ],
+          "answer": "Membantu tetangga yang kesulitan tanpa mengharapkan imbalan.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang pengamalan di masyarakat. Membantu tetangga yang kesulitan tanpa mengharapkan imbalan."
+        },
+        {
+          "id": "PKN-B01-026",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang gotong royong?",
+          "options": [
+            " Bukan menyerahkan seluruh pekerjaan kepada satu orang.",
+            "Warga bekerja bersama untuk mencapai tujuan bersama.",
+            " Membersihkan lingkungan secara bersama-sama.",
+            "Pekerjaan terasa lebih ringan dan hubungan warga semakin erat."
+          ],
+          "answer": "Warga bekerja bersama untuk mencapai tujuan bersama.",
+          "discussion": "Materi bab menjelaskan bahwa warga bekerja bersama untuk mencapai tujuan bersama."
+        },
+        {
+          "id": "PKN-B01-027",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan gotong royong?",
+          "options": [
+            "Bukan menyerahkan seluruh pekerjaan kepada satu orang.",
+            "Pekerjaan terasa lebih ringan dan hubungan warga semakin erat.",
+            "Membersihkan lingkungan secara bersama-sama.",
+            "Warga bekerja bersama untuk mencapai tujuan bersama."
+          ],
+          "answer": "Membersihkan lingkungan secara bersama-sama.",
+          "discussion": "Contoh tersebut sesuai karena membersihkan lingkungan secara bersama-sama."
+        },
+        {
+          "id": "PKN-B01-028",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait gotong royong adalah ...",
+          "options": [
+            "Warga bekerja bersama untuk mencapai tujuan bersama.",
+            "Membersihkan lingkungan secara bersama-sama.",
+            "Pekerjaan terasa lebih ringan dan hubungan warga semakin erat.",
+            "Bukan menyerahkan seluruh pekerjaan kepada satu orang."
+          ],
+          "answer": "Bukan menyerahkan seluruh pekerjaan kepada satu orang.",
+          "discussion": "Hal yang perlu dihindari adalah bukan menyerahkan seluruh pekerjaan kepada satu orang."
+        },
+        {
+          "id": "PKN-B01-029",
+          "type": "PG",
+          "text": "Mengapa gotong royong penting dalam kehidupan bersama?",
+          "options": [
+            "Pekerjaan terasa lebih ringan dan hubungan warga semakin erat.",
+            "Bukan menyerahkan seluruh pekerjaan kepada satu orang.",
+            "Warga bekerja bersama untuk mencapai tujuan bersama.",
+            "Membersihkan lingkungan secara bersama-sama."
+          ],
+          "answer": "Pekerjaan terasa lebih ringan dan hubungan warga semakin erat.",
+          "discussion": "Manfaatnya adalah pekerjaan terasa lebih ringan dan hubungan warga semakin erat."
+        },
+        {
+          "id": "PKN-B01-030",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan gotong royong?",
+          "options": [
+            "Bukan menyerahkan seluruh pekerjaan kepada satu orang.",
+            "Membersihkan lingkungan secara bersama-sama.",
+            "Pekerjaan terasa lebih ringan dan hubungan warga semakin erat.",
+            "Warga bekerja bersama untuk mencapai tujuan bersama."
+          ],
+          "answer": "Membersihkan lingkungan secara bersama-sama.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang gotong royong. Membersihkan lingkungan secara bersama-sama."
+        },
+        {
+          "id": "PKN-B01-031",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang musyawarah dalam kelompok?",
+          "options": [
+            " Bukan memaksakan pendapat sendiri.",
+            " Anggota menyampaikan usulan sebelum pembagian tugas.",
+            "Berdiskusi membantu kelompok menghargai pendapat dan menentukan tugas.",
+            "Keputusan bersama lebih mempertimbangkan kebutuhan anggota."
+          ],
+          "answer": "Berdiskusi membantu kelompok menghargai pendapat dan menentukan tugas.",
+          "discussion": "Materi bab menjelaskan bahwa berdiskusi membantu kelompok menghargai pendapat dan menentukan tugas."
+        },
+        {
+          "id": "PKN-B01-032",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan musyawarah dalam kelompok?",
+          "options": [
+            "Bukan memaksakan pendapat sendiri.",
+            "Keputusan bersama lebih mempertimbangkan kebutuhan anggota.",
+            "Berdiskusi membantu kelompok menghargai pendapat dan menentukan tugas.",
+            "Anggota menyampaikan usulan sebelum pembagian tugas."
+          ],
+          "answer": "Anggota menyampaikan usulan sebelum pembagian tugas.",
+          "discussion": "Contoh tersebut sesuai karena anggota menyampaikan usulan sebelum pembagian tugas."
+        },
+        {
+          "id": "PKN-B01-033",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait musyawarah dalam kelompok adalah ...",
+          "options": [
+            "Bukan memaksakan pendapat sendiri.",
+            "Berdiskusi membantu kelompok menghargai pendapat dan menentukan tugas.",
+            "Anggota menyampaikan usulan sebelum pembagian tugas.",
+            "Keputusan bersama lebih mempertimbangkan kebutuhan anggota."
+          ],
+          "answer": "Bukan memaksakan pendapat sendiri.",
+          "discussion": "Hal yang perlu dihindari adalah bukan memaksakan pendapat sendiri."
+        },
+        {
+          "id": "PKN-B01-034",
+          "type": "PG",
+          "text": "Mengapa musyawarah dalam kelompok penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan memaksakan pendapat sendiri.",
+            "Keputusan bersama lebih mempertimbangkan kebutuhan anggota.",
+            "Berdiskusi membantu kelompok menghargai pendapat dan menentukan tugas.",
+            "Anggota menyampaikan usulan sebelum pembagian tugas."
+          ],
+          "answer": "Keputusan bersama lebih mempertimbangkan kebutuhan anggota.",
+          "discussion": "Manfaatnya adalah keputusan bersama lebih mempertimbangkan kebutuhan anggota."
+        },
+        {
+          "id": "PKN-B01-035",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan musyawarah dalam kelompok?",
+          "options": [
+            "Bukan memaksakan pendapat sendiri.",
+            "Keputusan bersama lebih mempertimbangkan kebutuhan anggota.",
+            "Anggota menyampaikan usulan sebelum pembagian tugas.",
+            "Berdiskusi membantu kelompok menghargai pendapat dan menentukan tugas."
+          ],
+          "answer": "Anggota menyampaikan usulan sebelum pembagian tugas.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang musyawarah dalam kelompok. Anggota menyampaikan usulan sebelum pembagian tugas."
+        },
+        {
+          "id": "PKN-B01-036",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang perlakuan adil?",
+          "options": [
+            " Bukan hanya memberi kesempatan kepada teman dekat.",
+            " Membagi peran sesuai kemampuan anggota.",
+            "Anggota merasa dihargai dan dapat berkontribusi.",
+            "Setiap anggota mendapat kesempatan dan perlakuan yang layak."
+          ],
+          "answer": "Setiap anggota mendapat kesempatan dan perlakuan yang layak.",
+          "discussion": "Materi bab menjelaskan bahwa setiap anggota mendapat kesempatan dan perlakuan yang layak."
+        },
+        {
+          "id": "PKN-B01-037",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan perlakuan adil?",
+          "options": [
+            "Membagi peran sesuai kemampuan anggota.",
+            "Bukan hanya memberi kesempatan kepada teman dekat.",
+            "Anggota merasa dihargai dan dapat berkontribusi.",
+            "Setiap anggota mendapat kesempatan dan perlakuan yang layak."
+          ],
+          "answer": "Membagi peran sesuai kemampuan anggota.",
+          "discussion": "Contoh tersebut sesuai karena membagi peran sesuai kemampuan anggota."
+        },
+        {
+          "id": "PKN-B01-038",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait perlakuan adil adalah ...",
+          "options": [
+            "Setiap anggota mendapat kesempatan dan perlakuan yang layak.",
+            "Bukan hanya memberi kesempatan kepada teman dekat.",
+            "Membagi peran sesuai kemampuan anggota.",
+            "Anggota merasa dihargai dan dapat berkontribusi."
+          ],
+          "answer": "Bukan hanya memberi kesempatan kepada teman dekat.",
+          "discussion": "Hal yang perlu dihindari adalah bukan hanya memberi kesempatan kepada teman dekat."
+        },
+        {
+          "id": "PKN-B01-039",
+          "type": "PG",
+          "text": "Mengapa perlakuan adil penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan hanya memberi kesempatan kepada teman dekat.",
+            "Setiap anggota mendapat kesempatan dan perlakuan yang layak.",
+            "Anggota merasa dihargai dan dapat berkontribusi.",
+            "Membagi peran sesuai kemampuan anggota."
+          ],
+          "answer": "Anggota merasa dihargai dan dapat berkontribusi.",
+          "discussion": "Manfaatnya adalah anggota merasa dihargai dan dapat berkontribusi."
+        },
+        {
+          "id": "PKN-B01-040",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan perlakuan adil?",
+          "options": [
+            "Bukan hanya memberi kesempatan kepada teman dekat.",
+            "Anggota merasa dihargai dan dapat berkontribusi.",
+            "Setiap anggota mendapat kesempatan dan perlakuan yang layak.",
+            "Membagi peran sesuai kemampuan anggota."
+          ],
+          "answer": "Membagi peran sesuai kemampuan anggota.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang perlakuan adil. Membagi peran sesuai kemampuan anggota."
+        },
+        {
+          "id": "PKN-B01-041",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang wawancara teladan?",
+          "options": [
+            "Wawancara dapat digunakan untuk belajar dari kegiatan baik orang sekitar.",
+            " Bukan memotong jawaban atau memaksakan kesimpulan.",
+            " Menanyakan kegiatan, alasan melakukannya, dan penerima manfaat.",
+            "Informasi tersebut membantu mengenali nilai Pancasila dalam tindakan."
+          ],
+          "answer": "Wawancara dapat digunakan untuk belajar dari kegiatan baik orang sekitar.",
+          "discussion": "Materi bab menjelaskan bahwa wawancara dapat digunakan untuk belajar dari kegiatan baik orang sekitar."
+        },
+        {
+          "id": "PKN-B01-042",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan wawancara teladan?",
+          "options": [
+            "Bukan memotong jawaban atau memaksakan kesimpulan.",
+            "Menanyakan kegiatan, alasan melakukannya, dan penerima manfaat.",
+            "Informasi tersebut membantu mengenali nilai Pancasila dalam tindakan.",
+            "Wawancara dapat digunakan untuk belajar dari kegiatan baik orang sekitar."
+          ],
+          "answer": "Menanyakan kegiatan, alasan melakukannya, dan penerima manfaat.",
+          "discussion": "Contoh tersebut sesuai karena menanyakan kegiatan, alasan melakukannya, dan penerima manfaat."
+        },
+        {
+          "id": "PKN-B01-043",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait wawancara teladan adalah ...",
+          "options": [
+            "Wawancara dapat digunakan untuk belajar dari kegiatan baik orang sekitar.",
+            "Menanyakan kegiatan, alasan melakukannya, dan penerima manfaat.",
+            "Bukan memotong jawaban atau memaksakan kesimpulan.",
+            "Informasi tersebut membantu mengenali nilai Pancasila dalam tindakan."
+          ],
+          "answer": "Bukan memotong jawaban atau memaksakan kesimpulan.",
+          "discussion": "Hal yang perlu dihindari adalah bukan memotong jawaban atau memaksakan kesimpulan."
+        },
+        {
+          "id": "PKN-B01-044",
+          "type": "PG",
+          "text": "Mengapa wawancara teladan penting dalam kehidupan bersama?",
+          "options": [
+            "Bukan memotong jawaban atau memaksakan kesimpulan.",
+            "Wawancara dapat digunakan untuk belajar dari kegiatan baik orang sekitar.",
+            "Menanyakan kegiatan, alasan melakukannya, dan penerima manfaat.",
+            "Informasi tersebut membantu mengenali nilai Pancasila dalam tindakan."
+          ],
+          "answer": "Informasi tersebut membantu mengenali nilai Pancasila dalam tindakan.",
+          "discussion": "Manfaatnya adalah informasi tersebut membantu mengenali nilai Pancasila dalam tindakan."
+        },
+        {
+          "id": "PKN-B01-045",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan wawancara teladan?",
+          "options": [
+            "Menanyakan kegiatan, alasan melakukannya, dan penerima manfaat.",
+            "Bukan memotong jawaban atau memaksakan kesimpulan.",
+            "Informasi tersebut membantu mengenali nilai Pancasila dalam tindakan.",
+            "Wawancara dapat digunakan untuk belajar dari kegiatan baik orang sekitar."
+          ],
+          "answer": "Menanyakan kegiatan, alasan melakukannya, dan penerima manfaat.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang wawancara teladan. Menanyakan kegiatan, alasan melakukannya, dan penerima manfaat."
+        },
+        {
+          "id": "PKN-B01-046",
+          "type": "PG",
+          "text": "Apa pengertian yang tepat tentang rencana perbaikan diri?",
+          "options": [
+            " Bukan hanya menilai kesalahan orang lain.",
+            "Nilai Pancasila perlu dibiasakan dalam perilaku sehari-hari.",
+            " Menentukan satu sikap yang diperbaiki di rumah, sekolah, dan masyarakat.",
+            "Rencana sederhana membantu perubahan perilaku menjadi nyata."
+          ],
+          "answer": "Nilai Pancasila perlu dibiasakan dalam perilaku sehari-hari.",
+          "discussion": "Materi bab menjelaskan bahwa nilai Pancasila perlu dibiasakan dalam perilaku sehari-hari."
+        },
+        {
+          "id": "PKN-B01-047",
+          "type": "PG",
+          "text": "Manakah contoh yang sesuai dengan rencana perbaikan diri?",
+          "options": [
+            "Bukan hanya menilai kesalahan orang lain.",
+            "Rencana sederhana membantu perubahan perilaku menjadi nyata.",
+            "Menentukan satu sikap yang diperbaiki di rumah, sekolah, dan masyarakat.",
+            "Nilai Pancasila perlu dibiasakan dalam perilaku sehari-hari."
+          ],
+          "answer": "Menentukan satu sikap yang diperbaiki di rumah, sekolah, dan masyarakat.",
+          "discussion": "Contoh tersebut sesuai karena menentukan satu sikap yang diperbaiki di rumah, sekolah, dan masyarakat."
+        },
+        {
+          "id": "PKN-B01-048",
+          "type": "PG",
+          "text": "Sikap atau pemahaman yang perlu dihindari terkait rencana perbaikan diri adalah ...",
+          "options": [
+            "Nilai Pancasila perlu dibiasakan dalam perilaku sehari-hari.",
+            "Menentukan satu sikap yang diperbaiki di rumah, sekolah, dan masyarakat.",
+            "Rencana sederhana membantu perubahan perilaku menjadi nyata.",
+            "Bukan hanya menilai kesalahan orang lain."
+          ],
+          "answer": "Bukan hanya menilai kesalahan orang lain.",
+          "discussion": "Hal yang perlu dihindari adalah bukan hanya menilai kesalahan orang lain."
+        },
+        {
+          "id": "PKN-B01-049",
+          "type": "PG",
+          "text": "Mengapa rencana perbaikan diri penting dalam kehidupan bersama?",
+          "options": [
+            "Rencana sederhana membantu perubahan perilaku menjadi nyata.",
+            "Bukan hanya menilai kesalahan orang lain.",
+            "Nilai Pancasila perlu dibiasakan dalam perilaku sehari-hari.",
+            "Menentukan satu sikap yang diperbaiki di rumah, sekolah, dan masyarakat."
+          ],
+          "answer": "Rencana sederhana membantu perubahan perilaku menjadi nyata.",
+          "discussion": "Manfaatnya adalah rencana sederhana membantu perubahan perilaku menjadi nyata."
+        },
+        {
+          "id": "PKN-B01-050",
+          "type": "PG",
+          "text": "Situasi manakah yang paling tepat menggambarkan rencana perbaikan diri?",
+          "options": [
+            "Bukan hanya menilai kesalahan orang lain.",
+            "Menentukan satu sikap yang diperbaiki di rumah, sekolah, dan masyarakat.",
+            "Rencana sederhana membantu perubahan perilaku menjadi nyata.",
+            "Nilai Pancasila perlu dibiasakan dalam perilaku sehari-hari."
+          ],
+          "answer": "Menentukan satu sikap yang diperbaiki di rumah, sekolah, dan masyarakat.",
+          "discussion": "Situasi tersebut mencerminkan materi tentang rencana perbaikan diri. Menentukan satu sikap yang diperbaiki di rumah, sekolah, dan masyarakat."
+        }
+      ]
+    }
+  ]
+}
