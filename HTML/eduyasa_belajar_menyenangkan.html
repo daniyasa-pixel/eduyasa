@@ -1155,7 +1155,7 @@ document.getElementById('reportForm').addEventListener('submit', event => {
   const whatsappUrl = 'https://wa.me/' + normalizedPhone + '?text=' + encodeURIComponent(message);
   window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
   closeReportModal();
-}
+});
 
 async function testGitHub() {
   const indicator = document.getElementById("connection");
