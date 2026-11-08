@@ -74,7 +74,7 @@
           "discussion": "An eagle belongs to the bird group. Birds have feathers and beaks.",
           "audio": {
             "type": "speech",
-            "text": "Eagle",
+            "text": "Which group does an eagle belong to?",
             "label": "▶ LISTEN"
           }
         },
@@ -320,7 +320,7 @@
           "discussion": "Went is the past form of go.",
           "audio": {
             "type": "speech",
-            "text": "Last weekend, we went to the zoo",
+            "text": "Complete: 'Last weekend, we ___ to the zoo.'",
             "label": "▶ LISTEN"
           }
         },
@@ -338,7 +338,7 @@
           "discussion": "Saw is the simple past form of see.",
           "audio": {
             "type": "speech",
-            "text": "Saw",
+            "text": "What is the past form of 'see'?",
             "label": "▶ LISTEN"
           }
         },
@@ -486,7 +486,7 @@
           "discussion": "Use did + subject + base verb: Did you go...?",
           "audio": {
             "type": "speech",
-            "text": "Did you go to the zoo?",
+            "text": "Which question is correct?",
             "label": "▶ LISTEN"
           }
         },
@@ -704,7 +704,7 @@
           "discussion": "The audio pronounces the word elephant. An elephant is a mammal.",
           "audio": {
             "type": "speech",
-            "text": "Elephant",
+            "text": "Listen to the English word. Which animal is it?",
             "label": "▶ PLAY WORD"
           }
         }
