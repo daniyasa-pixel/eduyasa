@@ -673,12 +673,7 @@
             "Prepare the soil, plant seeds, water the plants, and harvest."
           ],
           "answer": "Prepare the soil, plant seeds, water the plants, and harvest.",
-          "discussion": "A simple gardening process begins by preparing the soil, then planting and caring for the plants. Harvesting comes when the vegetables are ready.",
-          "audio": {
-            "type": "animal",
-            "sound": "cat",
-            "label": "▶ PLAY SOUND"
-          }
+          "discussion": "A simple gardening process begins by preparing the soil, then planting and caring for the plants. Harvesting comes when the vegetables are ready."
         },
         {
           "id": "ENG-B06-050",
