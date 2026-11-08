@@ -149,7 +149,11 @@
             "Menyalahkan guru sebelum ujian"
           ],
           "answer": "Belajar teratur dan mengerjakan latihan",
-          "discussion": "Belajar adalah bentuk usaha untuk mencapai hasil baik."
+          "discussion": "Belajar adalah bentuk usaha untuk mencapai hasil baik.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q07-effort.svg",
+            "alt": "Ilustrasi usaha belajar dan berdoa"
+          }
         },
         {
           "id": "PAI-B07-Q012",
@@ -279,7 +283,11 @@
             "Mengandalkan obat tanpa usaha lain"
           ],
           "answer": "Ikhtiar dan doa sebelum bertawakal",
-          "discussion": "Berobat merupakan ikhtiar dan doa memohon pertolongan Allah."
+          "discussion": "Berobat merupakan ikhtiar dan doa memohon pertolongan Allah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q07-effort.svg",
+            "alt": "Ilustrasi ikhtiar dan tawakal"
+          }
         },
         {
           "id": "PAI-B07-Q022",
