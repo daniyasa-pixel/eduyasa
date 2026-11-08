@@ -340,15 +340,15 @@
         {
           "id": "PAI-B01-Q026",
           "type": "PG",
-          "text": "Rina melihat teman kesulitan membawa buku. Tindakan yang paling sesuai dengan semangat hadis memberi adalah ...",
+          "text": "Seorang anak melihat tetangganya yang lanjut usia kesulitan membawa belanjaan. Tindakan yang sesuai dengan semangat hadis memberi adalah ...",
           "options": [
-            "Menertawakan temannya",
-            "Membantu membawakan buku tanpa mengharapkan imbalan",
+            "Menertawakan tetangganya",
+            "Membantu membawa belanjaan dengan ikhlas",
             "Meminta bayaran sebelum membantu",
-            "Meninggalkannya agar belajar sendiri"
+            "Berpura-pura tidak melihat"
           ],
-          "answer": "Membantu membawakan buku tanpa mengharapkan imbalan",
-          "discussion": "Hadis mengajarkan keutamaan memberi dan membantu orang lain.",
+          "answer": "Membantu membawa belanjaan dengan ikhlas",
+          "discussion": "Hadis mengajarkan keutamaan memberi dan membantu orang lain dengan ikhlas.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q01-giving.svg",
             "alt": "Ilustrasi siswa membantu orang lain"
