@@ -1,0 +1,22 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "ENG-B05",
+  "chapter_title": "Having Fun in Our After-School Club",
+  "modules": [
+    {
+      "id": "ENG-B05-MOD-01",
+      "version": "MOD-01",
+      "title": "Our After-School Clubs",
+      "content": "# Having Fun in Our After-School Club\n\n## Tujuan Pembelajaran\nSetelah belajar, kamu dapat:\n- Menyebutkan beberapa kegiatan ekstrakurikuler.\n- Menanyakan dan menceritakan kegiatan yang sudah dilakukan.\n- Menggunakan kata kerja bentuk lampau sederhana.\n\n## A. Our Exciting After-School Club\n![After-school club activities](${base}club-activities.svg)\n\n**After-school club** adalah kegiatan ekstrakurikuler yang dilakukan setelah kegiatan belajar. Contohnya:\n\n| Club | Kegiatan |\n|---|---|\n| robotics club | membuat dan merancang robot |\n| Pencak Silat club | berlatih pencak silat |\n| marching band club | memainkan alat musik |\n| art club | membuat karya seni |\n| dance club | berlatih menari |\n| scouts | kegiatan pramuka |\n\n### Asking about past activities\nGunakan:\n- **What did you do in the robotics club?**\n- **We designed a robot.**\n- **How was the club?**\n- **It was fun.**\n\n## B. Regular Past Tense\nUntuk menceritakan kegiatan yang sudah terjadi, beberapa kata kerja ditambah **-ed**.\n\n| Verb 1 | Past form |\n|---|---|\n| practice | practiced |\n| perform | performed |\n| join | joined |\n| play | played |\n| work | worked |\n| design | designed |\n\nContoh:\n- We practiced last week.\n- They performed at an event.\n- Mita worked on a project.\n\n**Did** digunakan untuk bertanya tentang kegiatan lampau:\n- **Did you join the art club?**\n- **Yes, I did. / No, I didn’t.**\n\n## Ringkasan\nNama klub menunjukkan jenis kegiatan. Untuk menceritakan kegiatan yang sudah lewat, perhatikan bentuk lampau kata kerja seperti **practiced, performed**, dan **joined**."
+    },
+    {
+      "id": "ENG-B05-MOD-02",
+      "version": "MOD-02",
+      "title": "Camping Memories and Past Activities",
+      "content": "# Having Fun in Our After-School Club\n\n## Tujuan Pembelajaran\nKamu akan belajar menceritakan pengalaman lampau, mengenali kata kerja tidak beraturan, dan memahami urutan cerita.\n\n## A. Our Last Camping Trip\n![Camping activities](${base}camping-trip.svg)\n\nSaat berkemah, kita dapat melakukan berbagai kegiatan:\n- **built a tent** = mendirikan tenda\n- **went hiking** = pergi berjalan-jalan/menjelajah\n- **collected twigs** = mengumpulkan ranting\n- **saw bugs** = melihat serangga\n- **lit a campfire** = menyalakan api unggun\n- **grilled corn and sausages** = memanggang jagung dan sosis\n- **brought a torch** = membawa senter\n- **took a bucket of water** = membawa seember air\n\n## B. Irregular Past Tense\nBeberapa kata kerja berubah bentuk dan tidak hanya ditambah **-ed**.\n\n| Verb 1 | Past form | Arti |\n|---|---|---|\n| build | built | membangun |\n| go | went | pergi |\n| see | saw | melihat |\n| light | lit | menyalakan |\n| take | took | mengambil/membawa |\n| eat | ate | makan |\n| bring | brought | membawa |\n\nContoh:\n- We went camping last week.\n- We built a tent.\n- We saw some bugs.\n- We ate grilled corn.\n\n### Ask and answer\n- **What did you do last weekend?**\n- **I went camping with my friends.**\n- **Did you enjoy it?**\n- **Yes, I did.**\n\nPerhatikan: setelah **did**, gunakan kata kerja bentuk dasar.\n- Did you **go** camping? (benar)\n- Did you **went** camping? (salah)\n\n### Tell events in order\nGunakan **first, then, next**, dan **finally** untuk menceritakan urutan pengalaman.\n\n## Ringkasan\nKita menggunakan **past tense** untuk menceritakan kegiatan yang sudah terjadi. Ada kata kerja beraturan seperti **practiced** dan kata kerja tidak beraturan seperti **went** serta **built**."
+    }
+  ]
+}
