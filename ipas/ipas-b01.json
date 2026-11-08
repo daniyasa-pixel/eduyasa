@@ -13,8 +13,8 @@
           "type": "PG",
           "text": "Organ pertama yang dilalui makanan ketika masuk ke sistem pencernaan adalah ....",
           "options": [
-            "Lambung",
             "Mulut",
+            "Lambung",
             "Usus halus",
             "Kerongkongan"
           ],
@@ -27,8 +27,8 @@
           "text": "Organ yang menghubungkan mulut dengan lambung adalah ....",
           "options": [
             "Usus besar",
-            "Rektum",
             "Kerongkongan",
+            "Rektum",
             "Usus halus"
           ],
           "answer": "Kerongkongan",
@@ -39,9 +39,9 @@
           "type": "PG",
           "text": "Gerakan meremas dan mendorong makanan di kerongkongan menuju lambung disebut ....",
           "options": [
-            "Peristaltik",
             "Fotosintesis",
             "Penguapan",
+            "Peristaltik",
             "Penyerapan"
           ],
           "answer": "Peristaltik",
@@ -53,9 +53,9 @@
           "text": "Organ yang mengolah makanan dengan bantuan otot, enzim, dan asam lambung adalah ....",
           "options": [
             "Mulut",
-            "Lambung",
             "Rektum",
-            "Usus besar"
+            "Usus besar",
+            "Lambung"
           ],
           "answer": "Lambung",
           "discussion": "Di lambung, otot membantu pencernaan mekanis, sedangkan enzim dan asam lambung membantu pencernaan kimiawi."
@@ -65,9 +65,9 @@
           "type": "PG",
           "text": "Penyerapan sari-sari makanan terutama terjadi di ....",
           "options": [
+            "Usus halus",
             "Kerongkongan",
             "Lambung",
-            "Usus halus",
             "Anus"
           ],
           "answer": "Usus halus",
@@ -91,9 +91,9 @@
           "type": "PG",
           "text": "Bagian yang menyimpan sementara tinja sebelum dikeluarkan dari tubuh adalah ....",
           "options": [
-            "Rektum",
             "Usus halus",
             "Lambung",
+            "Rektum",
             "Kerongkongan"
           ],
           "answer": "Rektum",
@@ -106,8 +106,8 @@
           "options": [
             "Esofagus",
             "Rektum",
-            "Anus",
-            "Usus halus"
+            "Usus halus",
+            "Anus"
           ],
           "answer": "Anus",
           "discussion": "Anus merupakan lubang untuk mengeluarkan tinja dari dalam tubuh."
@@ -143,9 +143,9 @@
           "type": "PG",
           "text": "Ketika mengunyah, gigi memotong dan menghaluskan makanan. Proses tersebut termasuk ....",
           "options": [
-            "Pencernaan mekanis",
             "Penyerapan sari makanan",
             "Penyerapan air",
+            "Pencernaan mekanis",
             "Penyimpanan tinja"
           ],
           "answer": "Pencernaan mekanis",
@@ -157,9 +157,9 @@
           "text": "Selain membantu membasahi makanan, air liur berperan dalam ....",
           "options": [
             "Menyimpan tinja",
-            "Membantu pencernaan kimiawi di mulut",
             "Menyerap air di usus besar",
-            "Mendorong tinja keluar"
+            "Mendorong tinja keluar",
+            "Membantu pencernaan kimiawi di mulut"
           ],
           "answer": "Membantu pencernaan kimiawi di mulut",
           "discussion": "Panduan Guru menjelaskan bahwa pencernaan di mulut berlangsung secara mekanis dan kimiawi dengan bantuan gigi dan air liur."
@@ -169,8 +169,8 @@
           "type": "PG",
           "text": "Urutan perjalanan makanan yang benar setelah melewati mulut adalah ....",
           "options": [
-            "Lambung–kerongkongan–usus halus",
             "Kerongkongan–lambung–usus halus",
+            "Lambung–kerongkongan–usus halus",
             "Usus besar–lambung–kerongkongan",
             "Rektum–usus halus–lambung"
           ],
@@ -182,8 +182,8 @@
           "type": "PG",
           "text": "Makanan yang telah diolah di lambung menjadi bubur makanan yang disebut ....",
           "options": [
-            "Kimus",
             "Empedu",
+            "Kimus",
             "Elektrolit",
             "Air liur"
           ],
@@ -196,8 +196,8 @@
           "text": "Di usus halus, kimus bercampur dengan enzim pencernaan dari pankreas dan ....",
           "options": [
             "Air mata",
-            "Asam empedu",
             "Keringat",
+            "Asam empedu",
             "Air liur"
           ],
           "answer": "Asam empedu",
@@ -208,10 +208,10 @@
           "type": "PG",
           "text": "Mengapa sari-sari makanan yang diserap usus halus penting bagi tubuh?",
           "options": [
-            "Agar dapat diedarkan ke seluruh tubuh",
             "Agar berubah menjadi tinja",
             "Agar disimpan di kerongkongan",
-            "Agar dikeluarkan melalui anus"
+            "Agar dikeluarkan melalui anus",
+            "Agar dapat diedarkan ke seluruh tubuh"
           ],
           "answer": "Agar dapat diedarkan ke seluruh tubuh",
           "discussion": "Sari-sari makanan yang diserap dinding usus halus selanjutnya diedarkan ke seluruh tubuh."
@@ -221,8 +221,8 @@
           "type": "PG",
           "text": "Menurut pengelompokan dalam Panduan Guru, nasi, kentang, dan roti merupakan sumber ....",
           "options": [
-            "Vitamin",
             "Karbohidrat",
+            "Vitamin",
             "Air",
             "Mineral saja"
           ],
@@ -234,8 +234,8 @@
           "type": "PG",
           "text": "Dalam pengelompokan zat gizi pada Uji Kompetensi, ayam goreng, susu, dan selai kacang termasuk sumber ....",
           "options": [
-            "Lemak dan protein",
             "Vitamin dan mineral saja",
+            "Lemak dan protein",
             "Air saja",
             "Karbohidrat saja"
           ],
@@ -247,9 +247,9 @@
           "type": "PG",
           "text": "Tumis kangkung, semangka, pisang, dan jus jambu dikelompokkan sebagai sumber ....",
           "options": [
-            "Vitamin dan mineral",
             "Protein hewani saja",
             "Lemak saja",
+            "Vitamin dan mineral",
             "Karbohidrat saja"
           ],
           "answer": "Vitamin dan mineral",
@@ -260,10 +260,10 @@
           "type": "PG",
           "text": "Dalam kunci Uji Kompetensi, air putih dikelompokkan sebagai sumber ....",
           "options": [
-            "Air dan mineral",
             "Protein dan lemak",
             "Karbohidrat dan protein",
-            "Vitamin dan lemak"
+            "Vitamin dan lemak",
+            "Air dan mineral"
           ],
           "answer": "Air dan mineral",
           "discussion": "Panduan Guru mencantumkan air putih dalam kelompok sumber air dan mineral."
@@ -286,8 +286,8 @@
           "type": "PG",
           "text": "Menurut prinsip Isi Piringku yang dirujuk dalam Panduan Guru, setengah bagian piring diisi dengan ....",
           "options": [
-            "Buah dan sayur",
             "Nasi saja",
+            "Buah dan sayur",
             "Lauk-pauk saja",
             "Minuman kemasan"
           ],
@@ -299,9 +299,9 @@
           "type": "PG",
           "text": "Setengah bagian piring lainnya dalam prinsip Isi Piringku berisi ....",
           "options": [
-            "Makanan pokok dan lauk-pauk",
             "Hanya buah",
             "Hanya sayur",
+            "Makanan pokok dan lauk-pauk",
             "Permen dan minuman manis"
           ],
           "answer": "Makanan pokok dan lauk-pauk",
@@ -312,10 +312,10 @@
           "type": "PG",
           "text": "Ketika memilih makanan kemasan, informasi yang secara khusus diteliti dalam kegiatan Bab 1 adalah kandungan ....",
           "options": [
-            "Gula, garam, dan lemak",
             "Warna, bentuk, dan ukuran",
             "Harga, merek, dan gambar",
-            "Aroma, rasa, dan tekstur"
+            "Aroma, rasa, dan tekstur",
+            "Gula, garam, dan lemak"
           ],
           "answer": "Gula, garam, dan lemak",
           "discussion": "Kegiatan dalam Bab 1 mengarahkan peserta didik membaca label makanan dengan fokus pada gula, garam, dan lemak."
@@ -338,8 +338,8 @@
           "type": "PG",
           "text": "Dalam kunci Uji Kompetensi Bab 1, minuman rekreasional dijelaskan sebagai minuman yang ....",
           "options": [
-            "Dapat dikonsumsi sesekali",
             "Harus diminum setiap kali haus",
+            "Dapat dikonsumsi sesekali",
             "Dapat menggantikan semua makanan",
             "Boleh dikonsumsi tanpa batas"
           ],
@@ -351,9 +351,9 @@
           "type": "PG",
           "text": "Mengapa konsumsi gula, garam, dan lemak perlu diperhatikan?",
           "options": [
-            "Konsumsinya perlu dijaga agar tidak berlebihan",
             "Ketiganya tidak boleh ada sama sekali dalam makanan",
             "Ketiganya merupakan satu-satunya zat gizi",
+            "Konsumsinya perlu dijaga agar tidak berlebihan",
             "Tubuh tidak pernah memerlukannya"
           ],
           "answer": "Konsumsinya perlu dijaga agar tidak berlebihan",
@@ -364,10 +364,10 @@
           "type": "PG",
           "text": "Pernyataan yang sesuai dengan penjelasan Panduan Guru tentang pola makan adalah ....",
           "options": [
-            "Tubuh membutuhkan beragam zat gizi untuk tumbuh dan beraktivitas",
             "Membatasi makanan menjadi satu jenis selalu lebih menyehatkan",
             "Satu jenis makanan pasti memenuhi semua kebutuhan tubuh",
-            "Tubuh tidak memerlukan energi dari makanan"
+            "Tubuh tidak memerlukan energi dari makanan",
+            "Tubuh membutuhkan beragam zat gizi untuk tumbuh dan beraktivitas"
           ],
           "answer": "Tubuh membutuhkan beragam zat gizi untuk tumbuh dan beraktivitas",
           "discussion": "Panduan Guru mengingatkan bahwa tubuh membutuhkan beragam zat gizi untuk pertumbuhan, perkembangan, dan energi dalam beraktivitas."
@@ -390,8 +390,8 @@
           "type": "PG",
           "text": "Dara alergi terhadap protein hewani seperti daging dan ikan. Pilihan sumber protein pengganti yang dicontohkan dalam buku adalah ....",
           "options": [
-            "Tahu, tempe, dan kacang-kacangan",
             "Permen, sirup, dan gula",
+            "Tahu, tempe, dan kacang-kacangan",
             "Minyak, garam, dan air",
             "Kerupuk dan minuman manis"
           ],
@@ -403,9 +403,9 @@
           "type": "PG",
           "text": "Perhatikan sebuah minuman kemasan yang termasuk minuman rekreasional. Sikap konsumsi yang paling sesuai dengan penjelasan buku adalah ....",
           "options": [
-            "Mengonsumsinya sesekali",
             "Menjadikannya pengganti air putih setiap hari",
             "Meminumnya sebanyak mungkin",
+            "Mengonsumsinya sesekali",
             "Menganggapnya sebagai satu-satunya sumber gizi"
           ],
           "answer": "Mengonsumsinya sesekali",
@@ -418,8 +418,8 @@
           "options": [
             "12 gram",
             "14 gram",
-            "24 gram",
-            "26 gram"
+            "26 gram",
+            "24 gram"
           ],
           "answer": "24 gram",
           "discussion": "Jumlah gula seluruh kemasan dihitung dengan mengalikan gula per sajian dengan jumlah sajian: 12 × 2 = 24 gram."
@@ -429,10 +429,10 @@
           "type": "PG",
           "text": "Sebuah produk memiliki kandungan gula 8 gram per sajian dan satu kemasan berisi 3 sajian. Berapa kandungan gula seluruh kemasan?",
           "options": [
+            "24 gram",
             "8 gram",
             "11 gram",
-            "16 gram",
-            "24 gram"
+            "16 gram"
           ],
           "answer": "24 gram",
           "discussion": "Jika seluruh kemasan dikonsumsi, gula total adalah 8 × 3 = 24 gram. Perhatikan jumlah sajian, bukan hanya angka per sajian."
@@ -442,8 +442,8 @@
           "type": "PG",
           "text": "Sebuah kelompok membandingkan dua makanan kemasan berdasarkan kandungan GGL. Data yang paling tepat digunakan untuk membandingkannya adalah ....",
           "options": [
-            "Informasi gula, garam, dan lemak pada label dengan memperhatikan takaran sajinya",
             "Warna dan gambar pada kemasan",
+            "Informasi gula, garam, dan lemak pada label dengan memperhatikan takaran sajinya",
             "Ukuran huruf merek",
             "Bentuk bungkus makanan"
           ],
@@ -455,9 +455,9 @@
           "type": "PG",
           "text": "Seseorang hanya mengonsumsi satu jenis makanan karena menganggapnya paling sehat. Penilaian yang tepat berdasarkan Bab 1 adalah ....",
           "options": [
-            "Kurang tepat karena tubuh memerlukan beragam zat gizi",
             "Tepat karena satu jenis makanan selalu mencukupi semua kebutuhan",
             "Tepat karena tubuh tidak memerlukan variasi makanan",
+            "Kurang tepat karena tubuh memerlukan beragam zat gizi",
             "Kurang tepat karena tubuh tidak membutuhkan makanan"
           ],
           "answer": "Kurang tepat karena tubuh memerlukan beragam zat gizi",
@@ -468,10 +468,10 @@
           "type": "PG",
           "text": "Perhatikan urutan organ berikut: (1) lambung, (2) mulut, (3) usus halus, (4) kerongkongan. Urutan perjalanan makanan yang benar adalah ....",
           "options": [
-            "2–4–1–3",
             "1–2–4–3",
             "4–2–3–1",
-            "2–1–3–4"
+            "2–1–3–4",
+            "2–4–1–3"
           ],
           "answer": "2–4–1–3",
           "discussion": "Makanan masuk melalui mulut, bergerak melalui kerongkongan, kemudian menuju lambung dan usus halus."
@@ -494,8 +494,8 @@
           "type": "PG",
           "text": "Jika fungsi penyerapan air di usus besar terganggu, proses yang paling langsung terdampak adalah ....",
           "options": [
-            "Penyerapan air dan ion elektrolit dari sisa makanan",
             "Pengunyahan makanan oleh gigi",
+            "Penyerapan air dan ion elektrolit dari sisa makanan",
             "Gerakan peristaltik di kerongkongan",
             "Pencampuran makanan dengan air liur"
           ],
@@ -507,9 +507,9 @@
           "type": "PG",
           "text": "Perhatikan dua proses berikut: X adalah makanan dihancurkan oleh gigi, Y adalah makanan didorong menuju lambung oleh gerakan kerongkongan. Pasangan yang tepat adalah ....",
           "options": [
-            "X pencernaan mekanis, Y gerak peristaltik",
             "X penyerapan air, Y pencernaan kimiawi",
             "X gerak peristaltik, Y penyerapan sari makanan",
+            "X pencernaan mekanis, Y gerak peristaltik",
             "X penyimpanan tinja, Y pencernaan mekanis"
           ],
           "answer": "X pencernaan mekanis, Y gerak peristaltik",
@@ -520,10 +520,10 @@
           "type": "PG",
           "text": "Sebuah menu terdiri atas nasi, ayam, tumis kangkung, semangka, dan air putih. Alasan menu ini lebih beragam gizinya dibandingkan hanya nasi adalah ....",
           "options": [
-            "Bahan makanan tersebut mewakili kelompok zat gizi yang berbeda",
             "Semua bahan makanan hanya mengandung karbohidrat",
             "Menu tersebut tidak mengandung zat gizi",
-            "Semua bahan makanan memiliki fungsi yang sama"
+            "Semua bahan makanan memiliki fungsi yang sama",
+            "Bahan makanan tersebut mewakili kelompok zat gizi yang berbeda"
           ],
           "answer": "Bahan makanan tersebut mewakili kelompok zat gizi yang berbeda",
           "discussion": "Dalam kunci Uji Kompetensi, nasi termasuk karbohidrat; ayam termasuk lemak dan protein; sayur serta buah termasuk vitamin dan mineral; air putih termasuk air dan mineral."
@@ -533,10 +533,10 @@
           "type": "PG",
           "text": "Sebuah label menunjukkan gula 10 gram per sajian. Kemasan tersebut berisi 4 sajian. Jika seseorang mengonsumsi seluruh isi kemasan, berapa gram gula yang dikonsumsi?",
           "options": [
+            "40 gram",
             "10 gram",
             "14 gram",
-            "30 gram",
-            "40 gram"
+            "30 gram"
           ],
           "answer": "40 gram",
           "discussion": "Jumlah gula seluruh kemasan adalah 10 gram × 4 sajian = 40 gram."
@@ -546,8 +546,8 @@
           "type": "PG",
           "text": "Dua produk memiliki kandungan gula per sajian yang sama, tetapi produk A berisi 1 sajian per kemasan dan produk B berisi 3 sajian per kemasan. Jika seluruh kemasan dikonsumsi, kesimpulan yang tepat adalah ....",
           "options": [
-            "Produk B memberikan gula total tiga kali produk A",
             "Produk A memberikan gula total tiga kali produk B",
+            "Produk B memberikan gula total tiga kali produk A",
             "Keduanya selalu memberikan gula total yang sama",
             "Jumlah sajian tidak memengaruhi jumlah gula yang dikonsumsi"
           ],
@@ -559,9 +559,9 @@
           "type": "PG",
           "text": "Seorang anak sering memilih minuman tinggi gula dan mengonsumsinya secara berlebihan. Menurut kunci Uji Kompetensi Bab 1, kemungkinan dampak kesehatan yang disebutkan adalah ....",
           "options": [
-            "Diabetes, diare, atau obesitas",
             "Rabun jauh, tuli, atau patah tulang",
             "Flu, batuk, atau pilek saja",
+            "Diabetes, diare, atau obesitas",
             "Luka, memar, atau keseleo"
           ],
           "answer": "Diabetes, diare, atau obesitas",
@@ -572,10 +572,10 @@
           "type": "PG",
           "text": "Pernyataan yang tepat untuk membedakan maag dan GERD berdasarkan bacaan Bab 1 adalah ....",
           "options": [
-            "Maag berkaitan dengan iritasi dinding lambung dan peningkatan asam lambung, sedangkan GERD terjadi ketika asam lambung naik ke tenggorokan",
             "Maag terjadi karena infeksi virus, sedangkan GERD terjadi karena bakteri di usus besar",
             "Maag adalah penumpukan lemak, sedangkan GERD adalah kekurangan vitamin",
-            "Maag dan GERD merupakan penyakit yang sama dan tidak memiliki perbedaan"
+            "Maag dan GERD merupakan penyakit yang sama dan tidak memiliki perbedaan",
+            "Maag berkaitan dengan iritasi dinding lambung dan peningkatan asam lambung, sedangkan GERD terjadi ketika asam lambung naik ke tenggorokan"
           ],
           "answer": "Maag berkaitan dengan iritasi dinding lambung dan peningkatan asam lambung, sedangkan GERD terjadi ketika asam lambung naik ke tenggorokan",
           "discussion": "Buku menjelaskan bahwa maag berkaitan dengan iritasi dinding lambung dan peningkatan asam lambung. GERD terjadi ketika otot esofagus bagian bawah melemah sehingga asam lambung naik ke tenggorokan."
@@ -598,8 +598,8 @@
           "type": "PG",
           "text": "Perhatikan kebiasaan berikut: (1) makan dalam porsi sangat banyak, (2) sering mengonsumsi makanan dan minuman berkalori tinggi, (3) sering makan makanan olahan dan siap saji, (4) melakukan aktivitas fisik secara teratur. Kebiasaan yang disebut dalam buku sebagai faktor yang dapat menyebabkan obesitas adalah ....",
           "options": [
-            "(1), (2), dan (3)",
             "(1) dan (4)",
+            "(1), (2), dan (3)",
             "(2) dan (4)",
             "(4) saja"
           ],
@@ -613,8 +613,8 @@
           "options": [
             "(1)",
             "(2)",
-            "(3)",
-            "(4)"
+            "(4)",
+            "(3)"
           ],
           "answer": "(4)",
           "discussion": "Anus merupakan lubang untuk mengeluarkan tinja, bukan tempat penyerapan sari-sari makanan."
@@ -624,10 +624,10 @@
           "type": "PG",
           "text": "Pernyataan yang paling tepat tentang proses pencernaan di lambung dan usus halus adalah ....",
           "options": [
-            "Lambung mengolah makanan menjadi kimus, lalu usus halus mencampurnya dengan enzim pankreas dan asam empedu serta menyerap sari makanan",
             "Lambung menyerap seluruh sari makanan, lalu usus halus menyimpan tinja",
             "Lambung menyerap air dari sisa makanan, lalu usus halus mengeluarkan tinja",
-            "Lambung menghasilkan air liur, lalu usus halus mendorong makanan ke mulut"
+            "Lambung menghasilkan air liur, lalu usus halus mendorong makanan ke mulut",
+            "Lambung mengolah makanan menjadi kimus, lalu usus halus mencampurnya dengan enzim pankreas dan asam empedu serta menyerap sari makanan"
           ],
           "answer": "Lambung mengolah makanan menjadi kimus, lalu usus halus mencampurnya dengan enzim pankreas dan asam empedu serta menyerap sari makanan",
           "discussion": "Panduan Guru menjelaskan urutan proses tersebut: makanan menjadi kimus di lambung, kemudian diproses dan sari-sarinya diserap di usus halus."
@@ -650,8 +650,8 @@
           "type": "PG",
           "text": "Sebuah kelompok menyusun strategi menjaga kesehatan pencernaan. Strategi yang paling sesuai dengan tujuan pembelajaran Bab 1 adalah ....",
           "options": [
-            "Menggunakan pemahaman organ pencernaan, memilih makanan bergizi beragam, dan menerapkan gaya hidup sehat",
             "Menghafalkan nama organ tanpa memahami fungsinya",
+            "Menggunakan pemahaman organ pencernaan, memilih makanan bergizi beragam, dan menerapkan gaya hidup sehat",
             "Mengonsumsi satu jenis makanan saja setiap hari",
             "Mengabaikan kandungan gizi dan kebiasaan hidup"
           ],
