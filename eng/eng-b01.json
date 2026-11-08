@@ -363,15 +363,15 @@
         {
           "id": "ENG-B01-025",
           "type": "PG",
-          "text": "Complete the sentence: 'Broccoli is ___. '",
+          "text": "What does the word 'leafy' mean?",
           "options": [
-            "green",
-            "purple",
-            "orange",
-            "blue"
+            "Berdaun",
+            "Berwarna ungu",
+            "Berbentuk bulat",
+            "Berukuran besar"
           ],
-          "answer": "green",
-          "discussion": "Broccoli is usually green. We can use the word green to describe its color."
+          "answer": "Berdaun",
+          "discussion": "Leafy means having many leaves or daun. Spinach is an example of a leafy vegetable."
         },
         {
           "id": "ENG-B01-026",
@@ -389,15 +389,15 @@
         {
           "id": "ENG-B01-027",
           "type": "PG",
-          "text": "Which question asks about the name of a vegetable?",
+          "text": "Complete the sentence: 'Spinach ___ green leaves.'",
           "options": [
-            "How old is it?",
-            "When is it?",
-            "What is it?",
-            "Who is it?"
+            "have",
+            "is",
+            "has",
+            "are"
           ],
-          "answer": "What is it?",
-          "discussion": "Use 'What is it?' to ask what an object or vegetable is."
+          "answer": "has",
+          "discussion": "Use has with one subject such as spinach. The sentence is 'Spinach has green leaves.'"
         },
         {
           "id": "ENG-B01-028",
@@ -415,28 +415,28 @@
         {
           "id": "ENG-B01-029",
           "type": "PG",
-          "text": "Which sentence is correct?",
+          "text": "Complete the sentence: 'Carrots ___ a long shape.'",
           "options": [
-            "These are potatoes.",
-            "These is potatoes.",
-            "This are potatoes.",
-            "Those is potato."
+            "have",
+            "has",
+            "is",
+            "are"
           ],
-          "answer": "These are potatoes.",
-          "discussion": "Use 'These are' for more than one item that is near."
+          "answer": "have",
+          "discussion": "Carrots is plural, so use have. The sentence tells a feature of carrots."
         },
         {
           "id": "ENG-B01-030",
           "type": "PG",
-          "text": "Which sentence describes a small vegetable?",
+          "text": "Which sentence means 'Aku juga suka sayuran itu'?",
           "options": [
-            "The pea are small.",
-            "The pea is small.",
-            "The pea is purple long.",
-            "The pea am small."
+            "I don't like it.",
+            "I like it, too.",
+            "I like vegetables.",
+            "I don't like it either."
           ],
-          "answer": "The pea is small.",
-          "discussion": "The sentence 'The pea is small' is grammatically correct and gives a simple description."
+          "answer": "I like it, too.",
+          "discussion": "I like it, too means aku juga suka. Use it when you agree that you like the same thing."
         },
         {
           "id": "ENG-B01-031",
@@ -558,15 +558,15 @@
         {
           "id": "ENG-B01-040",
           "type": "PG",
-          "text": "Which sentence is about a vegetable's color?",
+          "text": "Which sentence means 'Aku juga tidak suka sayuran itu'?",
           "options": [
-            "I like eggplant.",
-            "Do you like eggplant?",
-            "I buy an eggplant.",
-            "The eggplant is purple."
+            "I like it, too.",
+            "I don't like it.",
+            "I like it.",
+            "I don't like it either."
           ],
-          "answer": "The eggplant is purple.",
-          "discussion": "Purple describes the color of the eggplant."
+          "answer": "I don't like it either.",
+          "discussion": "I don't like it either means aku juga tidak suka. It agrees with a negative statement about a preference."
         },
         {
           "id": "ENG-B01-041",
