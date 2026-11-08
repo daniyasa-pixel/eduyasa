@@ -23,7 +23,7 @@
           "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/club-activities.svg",
           "audio": {
             "type": "speech",
-            "text": "What is the English expression for \"ekstrakurikuler robotika\"? robotics club"
+            "text": "What is the English expression for \"ekstrakurikuler robotika\"?"
           }
         },
         {
@@ -40,13 +40,13 @@
           "discussion": "The robotics club is for students interested in robots, coding, and designing.",
           "audio": {
             "type": "speech",
-            "text": "Complete the sentence: Pipit joined the ___ and designed a robot. robotics club"
+            "text": "Complete the sentence: Pipit joined the ___ and designed a robot."
           }
         },
         {
           "id": "ENG-B05-003",
           "type": "PG",
-          "text": "Which sentence correctly describes \"robotics club\"?",
+          "text": "Pipit enjoys making and programming a small robot. Which club fits Pipit's interest?",
           "options": [
             "Pipit joined the robotics club and designed a robot.",
             "Bara practiced Pencak Silat before the competition.",
@@ -54,16 +54,16 @@
             "Mita worked on an artwork in the art club."
           ],
           "answer": "Pipit joined the robotics club and designed a robot.",
-          "discussion": "The robotics club is for students interested in robots, coding, and designing.",
+          "discussion": "Robotics club is for students who build, design, or program robots.",
           "audio": {
             "type": "speech",
-            "text": "Which sentence correctly describes \"robotics club\"? Pipit joined the robotics club and designed a robot."
+            "text": "Pipit enjoys making and programming a small robot. Which club fits Pipit's interest?"
           }
         },
         {
           "id": "ENG-B05-004",
           "type": "PG",
-          "text": "Which word matches this clue: ekstrakurikuler robotika?",
+          "text": "A student wants to design a robot with friends. Which club should the student join?",
           "options": [
             "robotics club",
             "Pencak Silat club",
@@ -71,16 +71,16 @@
             "performed"
           ],
           "answer": "robotics club",
-          "discussion": "The robotics club is for students interested in robots, coding, and designing.",
+          "discussion": "Robotics club is for students who build, design, or program robots.",
           "audio": {
             "type": "speech",
-            "text": "Which word matches this clue: ekstrakurikuler robotika? robotics club"
+            "text": "A student wants to design a robot with friends. Which club should the student join?"
           }
         },
         {
           "id": "ENG-B05-005",
           "type": "PG",
-          "text": "Choose the correct statement about robotics club.",
+          "text": "The club displays a robot made by its members. Which activity are they doing?",
           "options": [
             "Pipit joined the robotics club and designed a robot.",
             "The students danced in the dance club.",
@@ -88,10 +88,10 @@
             "Mita worked on an artwork in the art club."
           ],
           "answer": "Pipit joined the robotics club and designed a robot.",
-          "discussion": "The robotics club is for students interested in robots, coding, and designing.",
+          "discussion": "Robotics club is for students who build, design, or program robots.",
           "audio": {
             "type": "speech",
-            "text": "Choose the correct statement about robotics club. Pipit joined the robotics club and designed a robot."
+            "text": "The club displays a robot made by its members. Which activity are they doing?"
           }
         },
         {
@@ -108,7 +108,7 @@
           "discussion": "Bara practiced Pencak Silat and joined a competition. Practice helps members prepare.",
           "audio": {
             "type": "speech",
-            "text": "What is the English expression for \"ekstrakurikuler pencak silat\"? Pencak Silat club"
+            "text": "What is the English expression for \"ekstrakurikuler pencak silat\"?"
           }
         },
         {
@@ -127,7 +127,7 @@
         {
           "id": "ENG-B05-008",
           "type": "PG",
-          "text": "Which sentence correctly describes \"Pencak Silat club\"?",
+          "text": "Bara practises an Indonesian martial art after school. Which club does he attend?",
           "options": [
             "Bara practiced Pencak Silat before the competition.",
             "Ferdinand played musical instruments in the marching band club.",
@@ -135,12 +135,12 @@
             "The students danced in the dance club."
           ],
           "answer": "Bara practiced Pencak Silat before the competition.",
-          "discussion": "Bara practiced Pencak Silat and joined a competition. Practice helps members prepare."
+          "discussion": "Pencak Silat club is for practising the Indonesian martial art Pencak Silat."
         },
         {
           "id": "ENG-B05-009",
           "type": "PG",
-          "text": "Which word matches this clue: ekstrakurikuler pencak silat?",
+          "text": "Which club is suitable for a student who wants to practise Pencak Silat?",
           "options": [
             "Pencak Silat club",
             "scouts",
@@ -148,12 +148,12 @@
             "marching band club"
           ],
           "answer": "Pencak Silat club",
-          "discussion": "Bara practiced Pencak Silat and joined a competition. Practice helps members prepare."
+          "discussion": "Pencak Silat club is for practising the Indonesian martial art Pencak Silat."
         },
         {
           "id": "ENG-B05-010",
           "type": "PG",
-          "text": "Choose the correct statement about Pencak Silat club.",
+          "text": "Bara practised his moves before a competition. Which club activity does this describe?",
           "options": [
             "Bara practiced Pencak Silat before the competition.",
             "The students joined the scouts.",
@@ -161,7 +161,7 @@
             "Bara practiced Pencak Silat last week."
           ],
           "answer": "Bara practiced Pencak Silat before the competition.",
-          "discussion": "Bara practiced Pencak Silat and joined a competition. Practice helps members prepare.",
+          "discussion": "Pencak Silat club is for practising the Indonesian martial art Pencak Silat.",
           "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/club-activities.svg"
         },
         {
@@ -193,7 +193,7 @@
         {
           "id": "ENG-B05-013",
           "type": "PG",
-          "text": "Which sentence correctly describes \"marching band club\"?",
+          "text": "Ferdinand plays drums and other instruments while marching. Which club is this?",
           "options": [
             "Ferdinand played musical instruments in the marching band club.",
             "The students danced in the dance club.",
@@ -201,12 +201,12 @@
             "Mita worked on an artwork in the art club."
           ],
           "answer": "Ferdinand played musical instruments in the marching band club.",
-          "discussion": "The marching band club plays musical instruments and may perform at an event."
+          "discussion": "A marching band plays musical instruments while marching, often at school events or parades."
         },
         {
           "id": "ENG-B05-014",
           "type": "PG",
-          "text": "Which word matches this clue: ekstrakurikuler drum band?",
+          "text": "Which club prepares music for a school parade?",
           "options": [
             "art club",
             "marching band club",
@@ -214,12 +214,12 @@
             "lit"
           ],
           "answer": "marching band club",
-          "discussion": "The marching band club plays musical instruments and may perform at an event."
+          "discussion": "A marching band plays musical instruments while marching, often at school events or parades."
         },
         {
           "id": "ENG-B05-015",
           "type": "PG",
-          "text": "Choose the correct statement about marching band club.",
+          "text": "You hear a group playing instruments while marching at a school event. Which club is performing?",
           "options": [
             "The students joined the scouts.",
             "Ferdinand played musical instruments in the marching band club.",
@@ -227,7 +227,7 @@
             "The marching band performed at a school event yesterday."
           ],
           "answer": "Ferdinand played musical instruments in the marching band club.",
-          "discussion": "The marching band club plays musical instruments and may perform at an event."
+          "discussion": "A marching band plays musical instruments while marching, often at school events or parades."
         },
         {
           "id": "ENG-B05-016",
@@ -258,7 +258,7 @@
         {
           "id": "ENG-B05-018",
           "type": "PG",
-          "text": "Which sentence correctly describes \"art club\"?",
+          "text": "Mita draws, paints, and makes creative projects. Which club does she join?",
           "options": [
             "Pipit joined the robotics club and designed a robot.",
             "Mita worked on an artwork in the art club.",
@@ -266,12 +266,12 @@
             "Ferdinand played musical instruments in the marching band club."
           ],
           "answer": "Mita worked on an artwork in the art club.",
-          "discussion": "In the art club, students make artworks and can show them in a school exhibition."
+          "discussion": "Art club gives students a place to draw, paint, and make artwork."
         },
         {
           "id": "ENG-B05-019",
           "type": "PG",
-          "text": "Which word matches this clue: ekstrakurikuler seni?",
+          "text": "A student wants to create a poster and a sculpture. Which club is suitable?",
           "options": [
             "dance club",
             "art club",
@@ -279,13 +279,13 @@
             "robotics club"
           ],
           "answer": "art club",
-          "discussion": "In the art club, students make artworks and can show them in a school exhibition.",
+          "discussion": "Art club gives students a place to draw, paint, and make artwork.",
           "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/club-activities.svg"
         },
         {
           "id": "ENG-B05-020",
           "type": "PG",
-          "text": "Choose the correct statement about art club.",
+          "text": "The students display paintings and handmade objects. Which club prepared the exhibition?",
           "options": [
             "Pipit joined the robotics club and designed a robot.",
             "Mita worked on an artwork in the art club.",
@@ -293,7 +293,7 @@
             "Ferdinand played musical instruments in the marching band club."
           ],
           "answer": "Mita worked on an artwork in the art club.",
-          "discussion": "In the art club, students make artworks and can show them in a school exhibition."
+          "discussion": "Art club gives students a place to draw, paint, and make artwork."
         },
         {
           "id": "ENG-B05-021",
@@ -324,7 +324,7 @@
         {
           "id": "ENG-B05-023",
           "type": "PG",
-          "text": "Which sentence correctly describes \"dance club\"?",
+          "text": "The students learn movements and perform dances together. Which club is this?",
           "options": [
             "Bara practiced Pencak Silat before the competition.",
             "The students danced in the dance club.",
@@ -332,12 +332,12 @@
             "Mita worked on an artwork in the art club."
           ],
           "answer": "The students danced in the dance club.",
-          "discussion": "A dance club gives students a chance to practise and perform dances."
+          "discussion": "Dance club is where students practise dances and prepare performances, including traditional dances."
         },
         {
           "id": "ENG-B05-024",
           "type": "PG",
-          "text": "Which word matches this clue: ekstrakurikuler tari?",
+          "text": "Which club would help students prepare a traditional dance performance?",
           "options": [
             "scouts",
             "dance club",
@@ -345,12 +345,12 @@
             "Pencak Silat club"
           ],
           "answer": "dance club",
-          "discussion": "A dance club gives students a chance to practise and perform dances."
+          "discussion": "Dance club is where students practise dances and prepare performances, including traditional dances."
         },
         {
           "id": "ENG-B05-025",
           "type": "PG",
-          "text": "Choose the correct statement about dance club.",
+          "text": "The group practised a dance for the school celebration. Which club activity is shown?",
           "options": [
             "Bara practiced Pencak Silat before the competition.",
             "The students danced in the dance club.",
@@ -358,7 +358,7 @@
             "Ferdinand played musical instruments in the marching band club."
           ],
           "answer": "The students danced in the dance club.",
-          "discussion": "A dance club gives students a chance to practise and perform dances."
+          "discussion": "Dance club is where students practise dances and prepare performances, including traditional dances."
         },
         {
           "id": "ENG-B05-026",
@@ -389,7 +389,7 @@
         {
           "id": "ENG-B05-028",
           "type": "PG",
-          "text": "Which sentence correctly describes \"scouts\"?",
+          "text": "Students learn teamwork and outdoor skills during meetings and camps. Which activity is this?",
           "options": [
             "Mita worked on an artwork in the art club.",
             "Ferdinand played musical instruments in the marching band club.",
@@ -397,13 +397,13 @@
             "The students danced in the dance club."
           ],
           "answer": "The students joined the scouts.",
-          "discussion": "Scouts is an extracurricular activity. Students can learn outdoor and teamwork skills.",
+          "discussion": "Scouts activities develop teamwork and outdoor skills.",
           "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/club-activities.svg"
         },
         {
           "id": "ENG-B05-029",
           "type": "PG",
-          "text": "Which word matches this clue: pramuka?",
+          "text": "Which group teaches outdoor skills and teamwork?",
           "options": [
             "practiced",
             "lit",
@@ -411,12 +411,12 @@
             "marching band club"
           ],
           "answer": "scouts",
-          "discussion": "Scouts is an extracurricular activity. Students can learn outdoor and teamwork skills."
+          "discussion": "Scouts activities develop teamwork and outdoor skills."
         },
         {
           "id": "ENG-B05-030",
           "type": "PG",
-          "text": "Choose the correct statement about scouts.",
+          "text": "The students work together outdoors and learn useful skills. Which group did they join?",
           "options": [
             "Ferdinand played musical instruments in the marching band club.",
             "Mita worked on an artwork in the art club.",
@@ -424,7 +424,7 @@
             "The students danced in the dance club."
           ],
           "answer": "The students joined the scouts.",
-          "discussion": "Scouts is an extracurricular activity. Students can learn outdoor and teamwork skills."
+          "discussion": "Scouts activities develop teamwork and outdoor skills."
         },
         {
           "id": "ENG-B05-031",
@@ -455,7 +455,7 @@
         {
           "id": "ENG-B05-033",
           "type": "PG",
-          "text": "Which sentence correctly describes \"practiced\"?",
+          "text": "Last week, Bara practised Pencak Silat. Which verb tells the activity happened in the past?",
           "options": [
             "Pipit joined the robotics club and designed a robot.",
             "Bara practiced Pencak Silat before the competition.",
@@ -463,12 +463,12 @@
             "Ferdinand played musical instruments in the marching band club."
           ],
           "answer": "Bara practiced Pencak Silat last week.",
-          "discussion": "Practiced is the past form of practice. It is used for an activity that happened before now."
+          "discussion": "Practiced is the past form of practise. Yesterday or last week shows that the action happened in the past."
         },
         {
           "id": "ENG-B05-034",
           "type": "PG",
-          "text": "Which word matches this clue: berlatih (lampau)?",
+          "text": "Choose the past form of 'practise': 'We ___ yesterday.'",
           "options": [
             "performed",
             "robotics club",
@@ -476,12 +476,12 @@
             "art club"
           ],
           "answer": "practiced",
-          "discussion": "Practiced is the past form of practice. It is used for an activity that happened before now."
+          "discussion": "Practiced is the past form of practise. Yesterday or last week shows that the action happened in the past."
         },
         {
           "id": "ENG-B05-035",
           "type": "PG",
-          "text": "Choose the correct statement about practiced.",
+          "text": "Yesterday, the club members trained for the competition. Which past-tense verb describes this?",
           "options": [
             "Mita worked on an artwork in the art club.",
             "The students danced in the dance club.",
@@ -489,7 +489,7 @@
             "The students joined the scouts."
           ],
           "answer": "Bara practiced Pencak Silat last week.",
-          "discussion": "Practiced is the past form of practice. It is used for an activity that happened before now."
+          "discussion": "Practiced is the past form of practise. Yesterday or last week shows that the action happened in the past."
         },
         {
           "id": "ENG-B05-036",
@@ -521,7 +521,7 @@
         {
           "id": "ENG-B05-038",
           "type": "PG",
-          "text": "Which sentence correctly describes \"performed\"?",
+          "text": "The marching band gave a show yesterday. Which past-tense verb means 'tampil'?",
           "options": [
             "Bara practiced Pencak Silat before the competition.",
             "Ferdinand played musical instruments in the marching band club.",
@@ -529,12 +529,12 @@
             "Mita worked on an artwork in the art club."
           ],
           "answer": "The marching band performed at a school event yesterday.",
-          "discussion": "Performed is the past form of perform. It tells us that the performance already happened."
+          "discussion": "Performed is the past form of perform. It means tampil or melakukan pertunjukan."
         },
         {
           "id": "ENG-B05-039",
           "type": "PG",
-          "text": "Which word matches this clue: tampil (lampau)?",
+          "text": "Complete: 'The students ___ at the school event last Friday.'",
           "options": [
             "built",
             "dance club",
@@ -542,12 +542,12 @@
             "performed"
           ],
           "answer": "performed",
-          "discussion": "Performed is the past form of perform. It tells us that the performance already happened."
+          "discussion": "Performed is the past form of perform. It means tampil or melakukan pertunjukan."
         },
         {
           "id": "ENG-B05-040",
           "type": "PG",
-          "text": "Choose the correct statement about performed.",
+          "text": "The performance finished last night. Which verb describes what the band did?",
           "options": [
             "Bara practiced Pencak Silat last week.",
             "The students danced in the dance club.",
@@ -555,7 +555,7 @@
             "The marching band performed at a school event yesterday."
           ],
           "answer": "The marching band performed at a school event yesterday.",
-          "discussion": "Performed is the past form of perform. It tells us that the performance already happened."
+          "discussion": "Performed is the past form of perform. It means tampil or melakukan pertunjukan."
         },
         {
           "id": "ENG-B05-041",
@@ -586,7 +586,7 @@
         {
           "id": "ENG-B05-043",
           "type": "PG",
-          "text": "Which sentence correctly describes \"built\"?",
+          "text": "During camping, the children made a tent. Which past form means 'membangun'?",
           "options": [
             "Ferdinand played musical instruments in the marching band club.",
             "The students danced in the dance club.",
@@ -594,12 +594,12 @@
             "We built a tent during the camping trip."
           ],
           "answer": "We built a tent during the camping trip.",
-          "discussion": "Built is the past form of build. The campers built a tent."
+          "discussion": "Built is the past form of build. It means membangun or mendirikan."
         },
         {
           "id": "ENG-B05-044",
           "type": "PG",
-          "text": "Which word matches this clue: membangun/mendirikan (lampau)?",
+          "text": "Complete: 'We ___ a tent before it rained.'",
           "options": [
             "scouts",
             "lit",
@@ -607,12 +607,12 @@
             "built"
           ],
           "answer": "built",
-          "discussion": "Built is the past form of build. The campers built a tent."
+          "discussion": "Built is the past form of build. It means membangun or mendirikan."
         },
         {
           "id": "ENG-B05-045",
           "type": "PG",
-          "text": "Choose the correct statement about built.",
+          "text": "The tent was ready before sunset. Which verb tells what the campers did?",
           "options": [
             "Pipit joined the robotics club and designed a robot.",
             "Bara practiced Pencak Silat before the competition.",
@@ -620,7 +620,7 @@
             "We built a tent during the camping trip."
           ],
           "answer": "We built a tent during the camping trip.",
-          "discussion": "Built is the past form of build. The campers built a tent."
+          "discussion": "Built is the past form of build. It means membangun or mendirikan."
         },
         {
           "id": "ENG-B05-046",
@@ -652,7 +652,7 @@
         {
           "id": "ENG-B05-048",
           "type": "PG",
-          "text": "Which sentence correctly describes \"lit\"?",
+          "text": "At night, the campers started a campfire. Which past form means 'menyalakan'?",
           "options": [
             "Ferdinand played musical instruments in the marching band club.",
             "Pipit joined the robotics club and designed a robot.",
@@ -660,12 +660,12 @@
             "The campers lit a campfire at night."
           ],
           "answer": "The campers lit a campfire at night.",
-          "discussion": "Lit is the past form of light. In the camping story, the group lit a campfire."
+          "discussion": "Lit is the past form of light. It means menyalakan, for example a campfire."
         },
         {
           "id": "ENG-B05-049",
           "type": "PG",
-          "text": "Which word matches this clue: menyalakan (lampau)?",
+          "text": "Complete: 'They ___ a campfire after collecting dry twigs.'",
           "options": [
             "robotics club",
             "art club",
@@ -673,12 +673,12 @@
             "lit"
           ],
           "answer": "lit",
-          "discussion": "Lit is the past form of light. In the camping story, the group lit a campfire."
+          "discussion": "Lit is the past form of light. It means menyalakan, for example a campfire."
         },
         {
           "id": "ENG-B05-050",
           "type": "PG",
-          "text": "Choose the correct statement about lit.",
+          "text": "The fire was burning safely. Which verb tells how it started?",
           "options": [
             "Bara practiced Pencak Silat before the competition.",
             "Ferdinand played musical instruments in the marching band club.",
@@ -686,7 +686,7 @@
             "The campers lit a campfire at night."
           ],
           "answer": "The campers lit a campfire at night.",
-          "discussion": "Lit is the past form of light. In the camping story, the group lit a campfire."
+          "discussion": "Lit is the past form of light. It means menyalakan, for example a campfire."
         }
       ]
     }
