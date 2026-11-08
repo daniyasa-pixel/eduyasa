@@ -162,7 +162,11 @@
             "Mendengarkan contoh guru lalu membaca berulang dengan teliti"
           ],
           "answer": "Mendengarkan contoh guru lalu membaca berulang dengan teliti",
-          "discussion": "Latihan dengan bimbingan guru membantu ketepatan bacaan."
+          "discussion": "Latihan dengan bimbingan guru membantu ketepatan bacaan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q06-quran-learning.svg",
+            "alt": "Ilustrasi belajar membaca Al-Qur’an"
+          }
         },
         {
           "id": "PAI-B06-Q013",
@@ -201,7 +205,11 @@
             "Mengganti teks Arab dengan simbol"
           ],
           "answer": "Melatih ketelitian menyalin huruf dan urutan ayat dengan benar",
-          "discussion": "Menulis melatih ketelitian dan kemampuan mengenali bentuk huruf."
+          "discussion": "Menulis melatih ketelitian dan kemampuan mengenali bentuk huruf.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q06-quran-learning.svg",
+            "alt": "Ilustrasi menyalin ayat dari mushaf"
+          }
         },
         {
           "id": "PAI-B06-Q016",
