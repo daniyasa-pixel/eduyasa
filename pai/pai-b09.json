@@ -312,10 +312,10 @@
           "type": "PG",
           "text": "Menurut ketentuan dalam buku, perempuan yang bersuami perlu memperhatikan apa sebelum melaksanakan puasa sunah?",
           "options": [
-            "Mendapat izin suami",
             "Meminta izin kepada teman",
             "Menunggu hari raya",
-            "Mengganti puasa dengan sedekah"
+            "Mengganti puasa dengan sedekah",
+            "Mendapat izin suami"
           ],
           "answer": "Mendapat izin suami",
           "discussion": "Buku mencantumkan izin suami sebagai salah satu syarat sah puasa sunah bagi perempuan yang bersuami."
