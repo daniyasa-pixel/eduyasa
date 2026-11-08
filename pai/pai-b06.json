@@ -11,38 +11,38 @@
         {
           "id": "PAI-B06-Q001",
           "type": "PG",
-          "text": "Apa arti Al-A’la?",
+          "text": "Surah Al-A’la berada pada urutan ke berapa dalam Al-Qur’an?",
           "options": [
-            "Yang Mahatinggi",
-            "Yang Maha Pengampun",
-            "Waktu pagi",
-            "Tempat bergantung"
+            "87",
+            "93",
+            "86",
+            "88"
           ],
-          "answer": "Yang Mahatinggi",
-          "discussion": "Al-A’la berarti Yang Mahatinggi."
+          "answer": "87",
+          "discussion": "Surah Al-A’la merupakan surah ke-87."
         },
         {
           "id": "PAI-B06-Q002",
           "type": "PG",
-          "text": "Dalam kuis bab Mengaji Al-Qur’an Surah Al-A’la, pertanyaan yang harus kamu jawab adalah: apa arti Al-A’la?",
+          "text": "Berapa jumlah ayat Surah Al-A’la?",
           "options": [
-            "Tempat bergantung",
-            "Yang Mahatinggi",
-            "Yang Maha Pengampun",
-            "Waktu pagi"
+            "11 ayat",
+            "19 ayat",
+            "20 ayat",
+            "15 ayat"
           ],
-          "answer": "Yang Mahatinggi",
-          "discussion": "Al-A’la berarti Yang Mahatinggi."
+          "answer": "19 ayat",
+          "discussion": "Surah Al-A’la terdiri atas 19 ayat."
         },
         {
           "id": "PAI-B06-Q003",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Mengaji Al-Qur’an Surah Al-A’la, jawablah pertanyaan berikut: Apa arti Al-A’la?",
+          "text": "Apa arti Al-A’la?",
           "options": [
-            "Waktu pagi",
-            "Tempat bergantung",
+            "Waktu duha",
+            "Pertolongan",
             "Yang Mahatinggi",
-            "Yang Maha Pengampun"
+            "Manusia"
           ],
           "answer": "Yang Mahatinggi",
           "discussion": "Al-A’la berarti Yang Mahatinggi."
@@ -50,357 +50,353 @@
         {
           "id": "PAI-B06-Q004",
           "type": "PG",
-          "text": "Surah Al-A’la berada pada urutan ke berapa?",
+          "text": "Apa perintah pada awal Surah Al-A’la?",
           "options": [
-            "Surah ke-86",
-            "Surah ke-90",
-            "Surah ke-93",
-            "Surah ke-87"
+            "Mengumpulkan harta sebanyak-banyaknya",
+            "Meninggalkan salat",
+            "Mencari pujian manusia",
+            "Menyucikan nama Tuhan Yang Mahatinggi"
           ],
-          "answer": "Surah ke-87",
-          "discussion": "Surah Al-A’la adalah surah ke-87."
+          "answer": "Menyucikan nama Tuhan Yang Mahatinggi",
+          "discussion": "Surah dimulai dengan perintah menyucikan nama Allah."
         },
         {
           "id": "PAI-B06-Q005",
           "type": "PG",
-          "text": "Dalam kuis bab Mengaji Al-Qur’an Surah Al-A’la, pertanyaan yang harus kamu jawab adalah: surah Al-A’la berada pada urutan ke berapa?",
+          "text": "Mengapa Surah Al-A’la mengajak manusia mengagungkan Allah?",
           "options": [
-            "Surah ke-87",
-            "Surah ke-93",
-            "Surah ke-86",
-            "Surah ke-90"
+            "Karena Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
+            "Karena manusia mampu mengatur seluruh alam",
+            "Karena alam terjadi tanpa pencipta",
+            "Karena semua makhluk memiliki kekuasaan sama"
           ],
-          "answer": "Surah ke-87",
-          "discussion": "Surah Al-A’la adalah surah ke-87."
+          "answer": "Karena Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
+          "discussion": "Ayat-ayat awal menjelaskan kekuasaan Allah dalam penciptaan dan petunjuk."
         },
         {
           "id": "PAI-B06-Q006",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Mengaji Al-Qur’an Surah Al-A’la, jawablah pertanyaan berikut: Surah Al-A’la berada pada urutan ke berapa?",
+          "text": "Apa yang diajarkan ayat tentang Allah mengeluarkan tumbuh-tumbuhan?",
           "options": [
-            "Surah ke-93",
-            "Surah ke-87",
-            "Surah ke-86",
-            "Surah ke-90"
+            "Manusia tidak membutuhkan alam",
+            "Allah memberi rezeki dan mengatur kehidupan makhluk",
+            "Tumbuhan tumbuh tanpa ketentuan",
+            "Semua tanaman harus dimakan"
           ],
-          "answer": "Surah ke-87",
-          "discussion": "Surah Al-A’la adalah surah ke-87."
+          "answer": "Allah memberi rezeki dan mengatur kehidupan makhluk",
+          "discussion": "Ayat mengingatkan kekuasaan Allah atas tumbuhan dan kehidupan."
         },
         {
           "id": "PAI-B06-Q007",
           "type": "PG",
-          "text": "Berapa jumlah ayat Surah Al-A’la?",
+          "text": "Apa pesan Surah Al-A’la tentang kehidupan akhirat?",
           "options": [
-            "11 ayat",
-            "17 ayat",
-            "19 ayat",
-            "20 ayat"
+            "Dunia lebih kekal daripada akhirat",
+            "Manusia hanya perlu mengejar kesenangan dunia",
+            "Akhirat lebih baik dan lebih kekal daripada dunia",
+            "Akhirat tidak berkaitan dengan amal"
           ],
-          "answer": "19 ayat",
-          "discussion": "Surah Al-A’la terdiri atas 19 ayat."
+          "answer": "Akhirat lebih baik dan lebih kekal daripada dunia",
+          "discussion": "Ayat 16–17 mengingatkan bahwa akhirat lebih baik dan lebih kekal."
         },
         {
           "id": "PAI-B06-Q008",
           "type": "PG",
-          "text": "Dalam kuis bab Mengaji Al-Qur’an Surah Al-A’la, pertanyaan yang harus kamu jawab adalah: berapa jumlah ayat Surah Al-A’la?",
+          "text": "Menurut Surah Al-A’la, siapa yang beruntung?",
           "options": [
-            "20 ayat",
-            "11 ayat",
-            "17 ayat",
-            "19 ayat"
+            "Orang yang mengumpulkan banyak harta",
+            "Orang yang selalu dipuji",
+            "Orang yang mengabaikan ibadah",
+            "Orang yang menyucikan diri, mengingat Allah, dan salat"
           ],
-          "answer": "19 ayat",
-          "discussion": "Surah Al-A’la terdiri atas 19 ayat."
+          "answer": "Orang yang menyucikan diri, mengingat Allah, dan salat",
+          "discussion": "Ayat 14–15 mengaitkan keberuntungan dengan menyucikan diri, mengingat Allah, dan salat."
         },
         {
           "id": "PAI-B06-Q009",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Mengaji Al-Qur’an Surah Al-A’la, jawablah pertanyaan berikut: Berapa jumlah ayat Surah Al-A’la?",
+          "text": "Apa yang dimaksud makhārijul huruf?",
           "options": [
-            "19 ayat",
-            "17 ayat",
-            "20 ayat",
-            "11 ayat"
+            "Tempat keluarnya huruf ketika dilafalkan",
+            "Tanda berhenti pada akhir ayat",
+            "Jumlah ayat dalam surah",
+            "Cara menulis terjemahan"
           ],
-          "answer": "19 ayat",
-          "discussion": "Surah Al-A’la terdiri atas 19 ayat."
+          "answer": "Tempat keluarnya huruf ketika dilafalkan",
+          "discussion": "Makhārijul huruf adalah tempat keluarnya huruf."
         },
         {
           "id": "PAI-B06-Q010",
           "type": "PG",
-          "text": "Perhatikan diagram belajar membaca Al-Qur’an. Apa yang dimaksud makhārijul huruf?",
+          "text": "Mengapa kesalahan melafalkan huruf perlu dihindari?",
           "options": [
-            "Tanda berhenti",
-            "Tempat keluarnya huruf",
-            "Arti nama surah",
-            "Panjang pendek bacaan"
+            "Karena membuat ayat bertambah",
+            "Karena dapat mengubah bunyi dan makna kata",
+            "Karena mengubah jumlah surah",
+            "Karena membuat tulisan menjadi pendek"
           ],
-          "answer": "Tempat keluarnya huruf",
-          "discussion": "Makhārijul huruf adalah tempat keluarnya bunyi huruf hijaiyah.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/quran-study.svg",
-            "alt": "Langkah belajar membaca Al-Qur’an dengan benar"
-          }
+          "answer": "Karena dapat mengubah bunyi dan makna kata",
+          "discussion": "Pelafalan huruf yang salah dapat mengubah makna."
         },
         {
           "id": "PAI-B06-Q011",
           "type": "PG",
-          "text": "Dalam kuis bab Mengaji Al-Qur’an Surah Al-A’la, pertanyaan yang harus kamu jawab adalah: apa arti makhārijul huruf?",
+          "text": "Apa yang harus diperhatikan ketika membaca Surah Al-A’la?",
           "options": [
-            "Panjang pendek bacaan",
-            "Tanda berhenti",
-            "Tempat keluarnya huruf",
-            "Arti nama surah"
+            "Kecepatan membaca saja",
+            "Suara harus selalu keras",
+            "Makhraj, harakat, tasydid, panjang pendek, dan tanda berhenti",
+            "Ayat boleh diubah urutannya"
           ],
-          "answer": "Tempat keluarnya huruf",
-          "discussion": "Makhārijul huruf adalah tempat keluarnya bunyi huruf hijaiyah."
+          "answer": "Makhraj, harakat, tasydid, panjang pendek, dan tanda berhenti",
+          "discussion": "Bacaan yang benar memperhatikan makhraj dan kaidah tajwid."
         },
         {
           "id": "PAI-B06-Q012",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Mengaji Al-Qur’an Surah Al-A’la, jawablah pertanyaan berikut: Apa arti makhārijul huruf?",
+          "text": "Bagaimana cara berlatih membaca ayat dengan benar?",
           "options": [
-            "Panjang pendek bacaan",
-            "Tanda berhenti",
-            "Arti nama surah",
-            "Tempat keluarnya huruf"
+            "Membaca cepat tanpa menyimak",
+            "Menghafal terjemahan saja",
+            "Menghilangkan harakat saat membaca",
+            "Mendengarkan contoh guru lalu membaca berulang dengan teliti"
           ],
-          "answer": "Tempat keluarnya huruf",
-          "discussion": "Makhārijul huruf adalah tempat keluarnya bunyi huruf hijaiyah."
+          "answer": "Mendengarkan contoh guru lalu membaca berulang dengan teliti",
+          "discussion": "Latihan dengan bimbingan guru membantu ketepatan bacaan."
         },
         {
           "id": "PAI-B06-Q013",
           "type": "PG",
-          "text": "Mengapa makhraj harus diperhatikan?",
+          "text": "Mengapa membaca Al-Qur’an perlu dilakukan secara tartil?",
           "options": [
-            "Karena kesalahan pelafalan dapat mengubah bunyi dan makna",
-            "Agar bacaan lebih cepat",
-            "Agar semua huruf dibaca sama",
-            "Supaya tidak perlu tajwid"
+            "Agar bacaan jelas, teratur, dan sesuai kaidah",
+            "Agar cepat selesai tanpa memahami",
+            "Agar semua huruf dibaca sama panjang",
+            "Agar tidak perlu memperhatikan makhraj"
           ],
-          "answer": "Karena kesalahan pelafalan dapat mengubah bunyi dan makna",
-          "discussion": "Kesalahan mengucapkan huruf dapat mengubah kata dan makna."
+          "answer": "Agar bacaan jelas, teratur, dan sesuai kaidah",
+          "discussion": "Tartil membantu membaca dengan jelas dan benar."
         },
         {
           "id": "PAI-B06-Q014",
           "type": "PG",
-          "text": "Dalam kuis bab Mengaji Al-Qur’an Surah Al-A’la, pertanyaan yang harus kamu jawab adalah: mengapa makhraj harus diperhatikan?",
+          "text": "Saat menemukan huruf yang sulit dilafalkan, tindakan tepat adalah ...",
           "options": [
-            "Supaya tidak perlu tajwid",
-            "Karena kesalahan pelafalan dapat mengubah bunyi dan makna",
-            "Agar bacaan lebih cepat",
-            "Agar semua huruf dibaca sama"
+            "Mengganti huruf dengan huruf lain",
+            "Meminta guru membimbing cara pengucapannya",
+            "Melewati bagian tersebut selamanya",
+            "Membaca dengan menebak"
           ],
-          "answer": "Karena kesalahan pelafalan dapat mengubah bunyi dan makna",
-          "discussion": "Kesalahan mengucapkan huruf dapat mengubah kata dan makna."
+          "answer": "Meminta guru membimbing cara pengucapannya",
+          "discussion": "Bimbingan guru membantu memperbaiki makhraj."
         },
         {
           "id": "PAI-B06-Q015",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Mengaji Al-Qur’an Surah Al-A’la, jawablah pertanyaan berikut: Mengapa makhraj harus diperhatikan?",
+          "text": "Apa tujuan menulis Surah Al-A’la dalam pembelajaran?",
           "options": [
-            "Agar semua huruf dibaca sama",
-            "Supaya tidak perlu tajwid",
-            "Karena kesalahan pelafalan dapat mengubah bunyi dan makna",
-            "Agar bacaan lebih cepat"
+            "Mengubah ayat menjadi kalimat sendiri",
+            "Mengurangi jumlah ayat",
+            "Melatih ketelitian menyalin huruf dan urutan ayat dengan benar",
+            "Mengganti teks Arab dengan simbol"
           ],
-          "answer": "Karena kesalahan pelafalan dapat mengubah bunyi dan makna",
-          "discussion": "Kesalahan mengucapkan huruf dapat mengubah kata dan makna."
+          "answer": "Melatih ketelitian menyalin huruf dan urutan ayat dengan benar",
+          "discussion": "Menulis melatih ketelitian dan kemampuan mengenali bentuk huruf."
         },
         {
           "id": "PAI-B06-Q016",
           "type": "PG",
-          "text": "Apa pesan awal Surah Al-A’la?",
+          "text": "Ketika menyalin ayat Al-Qur’an, sumber yang sebaiknya digunakan adalah ...",
           "options": [
-            "Melupakan ibadah",
-            "Mengejar pujian manusia",
-            "Mengutamakan kekayaan",
-            "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi"
+            "Pesan singkat yang tidak jelas asalnya",
+            "Catatan tanpa pemeriksaan",
+            "Teks buatan sendiri",
+            "Mushaf tepercaya"
           ],
-          "answer": "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi",
-          "discussion": "Surah ini dimulai dengan perintah menyucikan nama Tuhan Yang Mahatinggi."
+          "answer": "Mushaf tepercaya",
+          "discussion": "Ayat harus disalin dari sumber yang benar agar tidak salah."
         },
         {
           "id": "PAI-B06-Q017",
           "type": "PG",
-          "text": "Dalam kuis bab Mengaji Al-Qur’an Surah Al-A’la, pertanyaan yang harus kamu jawab adalah: apa pesan awal Surah Al-A’la?",
+          "text": "Bagaimana cara menghafal Surah Al-A’la secara bertahap?",
           "options": [
-            "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi",
-            "Mengutamakan kekayaan",
-            "Melupakan ibadah",
-            "Mengejar pujian manusia"
+            "Menghafal beberapa ayat, mengulang, lalu menyambungkannya",
+            "Menghafal semua ayat sekali baca",
+            "Menghafal terjemahan tanpa ayat",
+            "Melewati ayat yang sulit"
           ],
-          "answer": "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi",
-          "discussion": "Surah ini dimulai dengan perintah menyucikan nama Tuhan Yang Mahatinggi."
+          "answer": "Menghafal beberapa ayat, mengulang, lalu menyambungkannya",
+          "discussion": "Pengulangan bertahap membantu menjaga hafalan."
         },
         {
           "id": "PAI-B06-Q018",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Mengaji Al-Qur’an Surah Al-A’la, jawablah pertanyaan berikut: Apa pesan awal Surah Al-A’la?",
+          "text": "Apa hubungan zikir dengan pesan Surah Al-A’la?",
           "options": [
-            "Mengutamakan kekayaan",
-            "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi",
-            "Melupakan ibadah",
-            "Mengejar pujian manusia"
+            "Zikir menggantikan seluruh kewajiban",
+            "Mengingat nama Allah termasuk pesan surah",
+            "Zikir hanya dilakukan saat tidur",
+            "Zikir berarti melupakan Allah"
           ],
-          "answer": "Menyucikan dan mengagungkan nama Allah Yang Mahatinggi",
-          "discussion": "Surah ini dimulai dengan perintah menyucikan nama Tuhan Yang Mahatinggi."
+          "answer": "Mengingat nama Allah termasuk pesan surah",
+          "discussion": "Ayat 15 mengingatkan untuk mengingat nama Tuhan dan melaksanakan salat."
         },
         {
           "id": "PAI-B06-Q019",
           "type": "PG",
-          "text": "Apa yang dijelaskan tentang ciptaan Allah dalam surah ini?",
+          "text": "Perilaku yang sesuai dengan pesan akhirat lebih baik daripada dunia adalah ...",
           "options": [
-            "Makhluk menciptakan dirinya sendiri",
-            "Alam terjadi tanpa ketentuan",
-            "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
-            "Manusia mengatur seluruh alam"
+            "Mengabaikan salat demi bermain",
+            "Menilai orang hanya dari hartanya",
+            "Tidak meninggalkan ibadah demi kesenangan sesaat",
+            "Menghabiskan waktu untuk kesombongan"
           ],
-          "answer": "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
-          "discussion": "Surah Al-A’la menyebut penciptaan, penyempurnaan, ketentuan, dan petunjuk Allah."
+          "answer": "Tidak meninggalkan ibadah demi kesenangan sesaat",
+          "discussion": "Pesan surah mengajak manusia tidak hanya mengejar kesenangan dunia."
         },
         {
           "id": "PAI-B06-Q020",
           "type": "PG",
-          "text": "Dalam kuis bab Mengaji Al-Qur’an Surah Al-A’la, pertanyaan yang harus kamu jawab adalah: apa yang dijelaskan tentang ciptaan Allah dalam surah ini?",
+          "text": "Apa yang ditunjukkan oleh ayat bahwa Allah mengetahui yang terang dan tersembunyi?",
           "options": [
-            "Manusia mengatur seluruh alam",
-            "Makhluk menciptakan dirinya sendiri",
-            "Alam terjadi tanpa ketentuan",
-            "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk"
+            "Allah hanya mengetahui perbuatan besar",
+            "Allah tidak mengetahui niat manusia",
+            "Manusia dapat menyembunyikan semua hal dari Allah",
+            "Tidak ada perbuatan manusia yang luput dari pengetahuan Allah"
           ],
-          "answer": "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
-          "discussion": "Surah Al-A’la menyebut penciptaan, penyempurnaan, ketentuan, dan petunjuk Allah."
+          "answer": "Tidak ada perbuatan manusia yang luput dari pengetahuan Allah",
+          "discussion": "Ayat tersebut menegaskan pengetahuan Allah meliputi yang tampak dan tersembunyi."
         },
         {
           "id": "PAI-B06-Q021",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Mengaji Al-Qur’an Surah Al-A’la, jawablah pertanyaan berikut: Apa yang dijelaskan tentang ciptaan Allah dalam surah ini?",
+          "text": "Apa sikap yang tepat setelah memahami bahwa Allah memberi petunjuk kepada makhluk?",
           "options": [
-            "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
-            "Alam terjadi tanpa ketentuan",
-            "Manusia mengatur seluruh alam",
-            "Makhluk menciptakan dirinya sendiri"
+            "Bersyukur dan mengikuti petunjuk-Nya",
+            "Merasa tidak membutuhkan Allah",
+            "Menganggap diri paling hebat",
+            "Mengabaikan perintah-Nya"
           ],
-          "answer": "Allah menciptakan, menyempurnakan, menentukan ukuran, dan memberi petunjuk",
-          "discussion": "Surah Al-A’la menyebut penciptaan, penyempurnaan, ketentuan, dan petunjuk Allah."
+          "answer": "Bersyukur dan mengikuti petunjuk-Nya",
+          "discussion": "Petunjuk Allah seharusnya disyukuri dan diikuti."
         },
         {
           "id": "PAI-B06-Q022",
           "type": "PG",
-          "text": "Apa yang lebih baik dan kekal menurut pesan surah?",
+          "text": "Mengapa Surah Al-A’la mendorong manusia menjaga salat?",
           "options": [
-            "Harta dunia",
-            "Kehidupan akhirat",
-            "Pujian manusia",
-            "Kesenangan sesaat"
+            "Karena salat hanya untuk orang dewasa",
+            "Karena salat termasuk amalan yang disebut dalam pesan surah",
+            "Karena salat menggantikan semua kebaikan",
+            "Karena salat tidak membutuhkan niat"
           ],
-          "answer": "Kehidupan akhirat",
-          "discussion": "Surah Al-A’la mengingatkan bahwa akhirat lebih baik dan lebih kekal."
+          "answer": "Karena salat termasuk amalan yang disebut dalam pesan surah",
+          "discussion": "Ayat 15 menyebut mengingat nama Tuhan dan melaksanakan salat."
         },
         {
           "id": "PAI-B06-Q023",
           "type": "PG",
-          "text": "Dalam kuis bab Mengaji Al-Qur’an Surah Al-A’la, pertanyaan yang harus kamu jawab adalah: apa yang lebih baik dan kekal menurut pesan surah?",
+          "text": "Apa yang dimaksud tanda waqaf ketika membaca Al-Qur’an?",
           "options": [
-            "Kesenangan sesaat",
-            "Harta dunia",
-            "Kehidupan akhirat",
-            "Pujian manusia"
+            "Tanda untuk mengganti huruf",
+            "Tanda untuk menambah ayat",
+            "Tanda yang memberi petunjuk tempat berhenti atau melanjutkan bacaan",
+            "Tanda untuk mengubah arti"
           ],
-          "answer": "Kehidupan akhirat",
-          "discussion": "Surah Al-A’la mengingatkan bahwa akhirat lebih baik dan lebih kekal."
+          "answer": "Tanda yang memberi petunjuk tempat berhenti atau melanjutkan bacaan",
+          "discussion": "Tanda waqaf membantu pembaca menentukan tempat berhenti atau melanjutkan."
         },
         {
           "id": "PAI-B06-Q024",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Mengaji Al-Qur’an Surah Al-A’la, jawablah pertanyaan berikut: Apa yang lebih baik dan kekal menurut pesan surah?",
+          "text": "Mengapa harakat harus diperhatikan saat membaca?",
           "options": [
-            "Kesenangan sesaat",
-            "Harta dunia",
-            "Pujian manusia",
-            "Kehidupan akhirat"
+            "Harakat menunjukkan jumlah halaman",
+            "Harakat menggantikan semua huruf",
+            "Harakat hanya hiasan tulisan",
+            "Harakat menentukan bunyi vokal pada huruf"
           ],
-          "answer": "Kehidupan akhirat",
-          "discussion": "Surah Al-A’la mengingatkan bahwa akhirat lebih baik dan lebih kekal."
+          "answer": "Harakat menentukan bunyi vokal pada huruf",
+          "discussion": "Harakat membantu pembaca melafalkan kata dengan tepat."
         },
         {
           "id": "PAI-B06-Q025",
           "type": "PG",
-          "text": "Apa jalan keberuntungan yang disebut dalam surah?",
+          "text": "Apa manfaat menghafal surah dengan bacaan yang benar?",
           "options": [
-            "Menyucikan diri, mengingat Allah, dan salat",
-            "Menyombongkan diri",
-            "Mengabaikan ibadah",
-            "Mengejar pujian"
+            "Menjaga ketepatan ayat dan membantu mengamalkan pesannya",
+            "Agar dapat mengubah susunan ayat",
+            "Agar tidak perlu membaca mushaf lagi",
+            "Agar cepat mendapat pujian"
           ],
-          "answer": "Menyucikan diri, mengingat Allah, dan salat",
-          "discussion": "Surah ini menyebut penyucian diri, zikir, dan salat."
+          "answer": "Menjaga ketepatan ayat dan membantu mengamalkan pesannya",
+          "discussion": "Hafalan yang benar menjaga bacaan dan memudahkan pengamalan."
         },
         {
           "id": "PAI-B06-Q026",
           "type": "PG",
-          "text": "Dalam kuis bab Mengaji Al-Qur’an Surah Al-A’la, pertanyaan yang harus kamu jawab adalah: apa jalan keberuntungan yang disebut dalam surah?",
+          "text": "Jika seorang siswa hanya mengejar nilai tetapi mengabaikan salat, pesan surah yang perlu diingat adalah ...",
           "options": [
-            "Mengejar pujian",
-            "Menyucikan diri, mengingat Allah, dan salat",
-            "Menyombongkan diri",
-            "Mengabaikan ibadah"
+            "Nilai sekolah tidak boleh diperoleh",
+            "Akhirat lebih baik dan lebih kekal daripada dunia",
+            "Belajar tidak penting",
+            "Semua kegiatan dunia dilarang"
           ],
-          "answer": "Menyucikan diri, mengingat Allah, dan salat",
-          "discussion": "Surah ini menyebut penyucian diri, zikir, dan salat."
+          "answer": "Akhirat lebih baik dan lebih kekal daripada dunia",
+          "discussion": "Surah mengingatkan agar tidak mengutamakan dunia dan melupakan akhirat."
         },
         {
           "id": "PAI-B06-Q027",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Mengaji Al-Qur’an Surah Al-A’la, jawablah pertanyaan berikut: Apa jalan keberuntungan yang disebut dalam surah?",
+          "text": "Bagaimana cara mengamalkan perintah menyucikan nama Allah?",
           "options": [
-            "Mengabaikan ibadah",
-            "Mengejar pujian",
-            "Menyucikan diri, mengingat Allah, dan salat",
-            "Menyombongkan diri"
+            "Membandingkan Allah dengan manusia",
+            "Menyekutukan Allah",
+            "Mengagungkan Allah dan tidak menyamakan-Nya dengan makhluk",
+            "Menganggap ciptaan setara dengan pencipta"
           ],
-          "answer": "Menyucikan diri, mengingat Allah, dan salat",
-          "discussion": "Surah ini menyebut penyucian diri, zikir, dan salat."
+          "answer": "Mengagungkan Allah dan tidak menyamakan-Nya dengan makhluk",
+          "discussion": "Mengagungkan Allah berarti mengakui kesempurnaan-Nya."
         },
         {
           "id": "PAI-B06-Q028",
           "type": "PG",
-          "text": "Bagaimana cara aman mempelajari teks Arab Al-Qur’an?",
+          "text": "Mengapa ayat-ayat Al-Qur’an tidak boleh diubah ketika disalin?",
           "options": [
-            "Menyalin dari sumber tidak dikenal",
-            "Mengubah huruf agar mudah",
-            "Mengandalkan gambar AI tanpa pemeriksaan",
-            "Menggunakan mushaf atau teks tepercaya yang telah diperiksa"
+            "Karena setiap orang boleh membuat ayat baru",
+            "Karena makna ayat tidak penting",
+            "Karena tulisan Arab bebas diubah",
+            "Karena teks Al-Qur’an harus dijaga ketepatan lafaznya"
           ],
-          "answer": "Menggunakan mushaf atau teks tepercaya yang telah diperiksa",
-          "discussion": "Teks ayat harus akurat; gunakan mushaf dan bimbingan guru."
+          "answer": "Karena teks Al-Qur’an harus dijaga ketepatan lafaznya",
+          "discussion": "Menyalin ayat harus teliti agar tidak mengubah lafaz."
         },
         {
           "id": "PAI-B06-Q029",
           "type": "PG",
-          "text": "Dalam kuis bab Mengaji Al-Qur’an Surah Al-A’la, pertanyaan yang harus kamu jawab adalah: bagaimana cara aman mempelajari teks Arab Al-Qur’an?",
+          "text": "Apa yang sebaiknya dilakukan setelah selesai membaca Surah Al-A’la?",
           "options": [
-            "Menggunakan mushaf atau teks tepercaya yang telah diperiksa",
-            "Mengandalkan gambar AI tanpa pemeriksaan",
-            "Menyalin dari sumber tidak dikenal",
-            "Mengubah huruf agar mudah"
+            "Merenungkan pesan dan berusaha mengamalkannya",
+            "Melupakan isi surah",
+            "Mengubah arti ayat",
+            "Membandingkan bacaan untuk mengejek teman"
           ],
-          "answer": "Menggunakan mushaf atau teks tepercaya yang telah diperiksa",
-          "discussion": "Teks ayat harus akurat; gunakan mushaf dan bimbingan guru."
+          "answer": "Merenungkan pesan dan berusaha mengamalkannya",
+          "discussion": "Pembelajaran Al-Qur’an bertujuan memahami dan menjalankan pesannya."
         },
         {
           "id": "PAI-B06-Q030",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Mengaji Al-Qur’an Surah Al-A’la, jawablah pertanyaan berikut: Bagaimana cara aman mempelajari teks Arab Al-Qur’an?",
+          "text": "Apa pesan utama yang menghubungkan awal dan akhir Surah Al-A’la?",
           "options": [
-            "Mengandalkan gambar AI tanpa pemeriksaan",
-            "Menggunakan mushaf atau teks tepercaya yang telah diperiksa",
-            "Menyalin dari sumber tidak dikenal",
-            "Mengubah huruf agar mudah"
+            "Mengumpulkan kekayaan dan mengejar kedudukan",
+            "Mengagungkan Allah dan menjalani hidup dengan mengingat petunjuk serta akhirat",
+            "Menghindari semua kegiatan sosial",
+            "Mengutamakan kesenangan tanpa batas"
           ],
-          "answer": "Menggunakan mushaf atau teks tepercaya yang telah diperiksa",
-          "discussion": "Teks ayat harus akurat; gunakan mushaf dan bimbingan guru."
+          "answer": "Mengagungkan Allah dan menjalani hidup dengan mengingat petunjuk serta akhirat",
+          "discussion": "Surah mengajarkan pengagungan kepada Allah, petunjuk, penyucian diri, dan akhirat."
         }
       ]
     }
