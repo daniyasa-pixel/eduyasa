@@ -685,19 +685,6 @@
           ],
           "answer": "I brush my teeth twice a day.",
           "discussion": "Twice a day means two times every day."
-        },
-        {
-          "id": "ENG-B02-051",
-          "type": "PG",
-          "text": "A friend asks you to repeat an instruction. What can you say?",
-          "options": [
-            "What color is it?",
-            "How old are you?",
-            "Can you repeat, please?",
-            "Where is the zoo?"
-          ],
-          "answer": "Can you repeat, please?",
-          "discussion": "Can you repeat, please? politely asks someone to say it again."
         }
       ]
     }
