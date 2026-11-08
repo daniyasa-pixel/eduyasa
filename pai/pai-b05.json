@@ -28,12 +28,12 @@
         {
           "id": "PAI-B05-Q002",
           "type": "PG",
-          "text": "Dalam kuis bab Jasa Khulafaurrasyidin untuk Dunia, pertanyaan yang harus kamu jawab adalah: siapa khalifah pertama setelah Nabi Muhammad saw.?",
+          "text": "Urutan pertama Khulafaurrasyidin ditempati oleh ...",
           "options": [
-            "Ali bin Abi Ṭalib",
-            "Abu Bakar al-Ṣiddiq",
             "Umar bin Khattab",
-            "Uṡman bin Affan"
+            "Abu Bakar al-Ṣiddiq",
+            "Uṡman bin Affan",
+            "Ali bin Abi Ṭalib"
           ],
           "answer": "Abu Bakar al-Ṣiddiq",
           "discussion": "Abu Bakar al-Ṣiddiq menjadi khalifah pertama setelah wafatnya Nabi."
@@ -41,12 +41,12 @@
         {
           "id": "PAI-B05-Q003",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Jasa Khulafaurrasyidin untuk Dunia, jawablah pertanyaan berikut: Siapa khalifah pertama setelah Nabi Muhammad saw.?",
+          "text": "Pernyataan yang tepat berdasarkan materi Jasa Khulafaurrasyidin untuk Dunia adalah: Siapa khalifah pertama setelah Nabi Muhammad saw.?",
           "options": [
+            "Umar bin Khattab",
             "Uṡman bin Affan",
-            "Ali bin Abi Ṭalib",
             "Abu Bakar al-Ṣiddiq",
-            "Umar bin Khattab"
+            "Ali bin Abi Ṭalib"
           ],
           "answer": "Abu Bakar al-Ṣiddiq",
           "discussion": "Abu Bakar al-Ṣiddiq menjadi khalifah pertama setelah wafatnya Nabi."
@@ -56,9 +56,9 @@
           "type": "PG",
           "text": "Apa gelar Abu Bakar?",
           "options": [
-            "Dzun Nurain",
-            "Abu Turab",
             "Al-Fārūq",
+            "Zunnurain",
+            "Asadullah",
             "Al-Ṣiddiq"
           ],
           "answer": "Al-Ṣiddiq",
@@ -67,12 +67,12 @@
         {
           "id": "PAI-B05-Q005",
           "type": "PG",
-          "text": "Dalam kuis bab Jasa Khulafaurrasyidin untuk Dunia, pertanyaan yang harus kamu jawab adalah: apa gelar Abu Bakar?",
+          "text": "Gelar yang berkaitan dengan keteguhan Abu Bakar membenarkan Rasulullah adalah ...",
           "options": [
             "Al-Ṣiddiq",
             "Al-Fārūq",
-            "Dzun Nurain",
-            "Abu Turab"
+            "Zunnurain",
+            "Asadullah"
           ],
           "answer": "Al-Ṣiddiq",
           "discussion": "Abu Bakar dikenal dengan gelar al-Ṣiddiq."
@@ -80,12 +80,12 @@
         {
           "id": "PAI-B05-Q006",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Jasa Khulafaurrasyidin untuk Dunia, jawablah pertanyaan berikut: Apa gelar Abu Bakar?",
+          "text": "Pernyataan yang tepat berdasarkan materi Jasa Khulafaurrasyidin untuk Dunia adalah: Apa gelar Abu Bakar?",
           "options": [
             "Al-Fārūq",
             "Al-Ṣiddiq",
-            "Dzun Nurain",
-            "Abu Turab"
+            "Zunnurain",
+            "Asadullah"
           ],
           "answer": "Al-Ṣiddiq",
           "discussion": "Abu Bakar dikenal dengan gelar al-Ṣiddiq."
@@ -93,314 +93,314 @@
         {
           "id": "PAI-B05-Q007",
           "type": "PG",
-          "text": "Apa salah satu jasa penting Abu Bakar?",
+          "text": "Siapa nama Abu Bakar sebelum Islam menurut buku?",
           "options": [
-            "Membangun angkatan laut",
-            "Menetapkan kalender Masehi",
-            "Memulai pengumpulan lembaran Al-Qur’an",
-            "Mendirikan universitas modern"
+            "Abu Abdullah",
+            "Abu Turab",
+            "Abdul Ka'bah",
+            "Abu Amr"
           ],
-          "answer": "Memulai pengumpulan lembaran Al-Qur’an",
-          "discussion": "Pada masa Abu Bakar, pengumpulan Al-Qur’an mulai dilakukan."
+          "answer": "Abdul Ka'bah",
+          "discussion": "Buku sumber menyebut nama Abu Bakar sebelum Islam adalah Abdul Ka'bah."
         },
         {
           "id": "PAI-B05-Q008",
           "type": "PG",
-          "text": "Dalam kuis bab Jasa Khulafaurrasyidin untuk Dunia, pertanyaan yang harus kamu jawab adalah: apa salah satu jasa penting Abu Bakar?",
+          "text": "Nama Abu Bakar sebelum masuk Islam adalah ...",
           "options": [
-            "Mendirikan universitas modern",
-            "Membangun angkatan laut",
-            "Menetapkan kalender Masehi",
-            "Memulai pengumpulan lembaran Al-Qur’an"
+            "Abu Abdullah",
+            "Abu Turab",
+            "Abu Amr",
+            "Abdul Ka'bah"
           ],
-          "answer": "Memulai pengumpulan lembaran Al-Qur’an",
-          "discussion": "Pada masa Abu Bakar, pengumpulan Al-Qur’an mulai dilakukan."
+          "answer": "Abdul Ka'bah",
+          "discussion": "Buku sumber menyebut nama Abu Bakar sebelum Islam adalah Abdul Ka'bah."
         },
         {
           "id": "PAI-B05-Q009",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Jasa Khulafaurrasyidin untuk Dunia, jawablah pertanyaan berikut: Apa salah satu jasa penting Abu Bakar?",
+          "text": "Pernyataan yang tepat berdasarkan materi Jasa Khulafaurrasyidin untuk Dunia adalah: Siapa nama Abu Bakar sebelum Islam menurut buku?",
           "options": [
-            "Memulai pengumpulan lembaran Al-Qur’an",
-            "Menetapkan kalender Masehi",
-            "Mendirikan universitas modern",
-            "Membangun angkatan laut"
+            "Abdul Ka'bah",
+            "Abu Abdullah",
+            "Abu Turab",
+            "Abu Amr"
           ],
-          "answer": "Memulai pengumpulan lembaran Al-Qur’an",
-          "discussion": "Pada masa Abu Bakar, pengumpulan Al-Qur’an mulai dilakukan."
+          "answer": "Abdul Ka'bah",
+          "discussion": "Buku sumber menyebut nama Abu Bakar sebelum Islam adalah Abdul Ka'bah."
         },
         {
           "id": "PAI-B05-Q010",
           "type": "PG",
-          "text": "Siapa khalifah kedua?",
+          "text": "Siapa yang ditugaskan mengumpulkan Al-Qur’an pada masa Abu Bakar?",
           "options": [
-            "Uṡman bin Affan",
-            "Umar bin Khattab",
-            "Ali bin Abi Ṭalib",
-            "Abu Bakar"
+            "Bilal bin Rabah",
+            "Zaid bin Ṡabit",
+            "Khalid bin Walid",
+            "Usamah bin Zaid"
           ],
-          "answer": "Umar bin Khattab",
-          "discussion": "Umar bin Khattab memimpin setelah Abu Bakar."
+          "answer": "Zaid bin Ṡabit",
+          "discussion": "Abu Bakar menugaskan Zaid bin Ṡabit mengumpulkan ayat-ayat Al-Qur’an."
         },
         {
           "id": "PAI-B05-Q011",
           "type": "PG",
-          "text": "Dalam kuis bab Jasa Khulafaurrasyidin untuk Dunia, pertanyaan yang harus kamu jawab adalah: siapa khalifah kedua?",
+          "text": "Umar mengusulkan pengumpulan Al-Qur’an, lalu Abu Bakar menugaskan ...",
           "options": [
-            "Abu Bakar",
-            "Uṡman bin Affan",
-            "Umar bin Khattab",
-            "Ali bin Abi Ṭalib"
+            "Bilal bin Rabah",
+            "Khalid bin Walid",
+            "Zaid bin Ṡabit",
+            "Usamah bin Zaid"
           ],
-          "answer": "Umar bin Khattab",
-          "discussion": "Umar bin Khattab memimpin setelah Abu Bakar."
+          "answer": "Zaid bin Ṡabit",
+          "discussion": "Abu Bakar menugaskan Zaid bin Ṡabit mengumpulkan ayat-ayat Al-Qur’an."
         },
         {
           "id": "PAI-B05-Q012",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Jasa Khulafaurrasyidin untuk Dunia, jawablah pertanyaan berikut: Siapa khalifah kedua?",
+          "text": "Pernyataan yang tepat berdasarkan materi Jasa Khulafaurrasyidin untuk Dunia adalah: Siapa yang ditugaskan mengumpulkan Al-Qur’an pada masa Abu Bakar?",
           "options": [
-            "Abu Bakar",
-            "Uṡman bin Affan",
-            "Ali bin Abi Ṭalib",
-            "Umar bin Khattab"
+            "Bilal bin Rabah",
+            "Khalid bin Walid",
+            "Usamah bin Zaid",
+            "Zaid bin Ṡabit"
           ],
-          "answer": "Umar bin Khattab",
-          "discussion": "Umar bin Khattab memimpin setelah Abu Bakar."
+          "answer": "Zaid bin Ṡabit",
+          "discussion": "Abu Bakar menugaskan Zaid bin Ṡabit mengumpulkan ayat-ayat Al-Qur’an."
         },
         {
           "id": "PAI-B05-Q013",
           "type": "PG",
-          "text": "Apa gelar Umar bin Khattab yang terkenal?",
+          "text": "Apa salah satu upaya Abu Bakar menjaga ajaran dan persatuan umat?",
           "options": [
-            "Al-Fārūq",
-            "Al-Ṣiddiq",
-            "Dzun Nurain",
-            "Al-Amīn"
+            "Menegakkan kewajiban zakat dan menjaga persatuan",
+            "Membiarkan kewajiban zakat dihapus",
+            "Menghentikan salat",
+            "Melarang musyawarah"
           ],
-          "answer": "Al-Fārūq",
-          "discussion": "Umar dikenal dengan gelar al-Fārūq."
+          "answer": "Menegakkan kewajiban zakat dan menjaga persatuan",
+          "discussion": "Abu Bakar menegaskan zakat sebagai kewajiban dan menjaga persatuan umat."
         },
         {
           "id": "PAI-B05-Q014",
           "type": "PG",
-          "text": "Dalam kuis bab Jasa Khulafaurrasyidin untuk Dunia, pertanyaan yang harus kamu jawab adalah: apa gelar Umar bin Khattab yang terkenal?",
+          "text": "Kelompok yang menolak membayar zakat setelah Nabi wafat dihadapi dengan ...",
           "options": [
-            "Al-Amīn",
-            "Al-Fārūq",
-            "Al-Ṣiddiq",
-            "Dzun Nurain"
+            "Membiarkan kewajiban zakat dihapus",
+            "Menegakkan kewajiban zakat dan menjaga persatuan",
+            "Menghentikan salat",
+            "Melarang musyawarah"
           ],
-          "answer": "Al-Fārūq",
-          "discussion": "Umar dikenal dengan gelar al-Fārūq."
+          "answer": "Menegakkan kewajiban zakat dan menjaga persatuan",
+          "discussion": "Abu Bakar menegaskan zakat sebagai kewajiban dan menjaga persatuan umat."
         },
         {
           "id": "PAI-B05-Q015",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Jasa Khulafaurrasyidin untuk Dunia, jawablah pertanyaan berikut: Apa gelar Umar bin Khattab yang terkenal?",
+          "text": "Pernyataan yang tepat berdasarkan materi Jasa Khulafaurrasyidin untuk Dunia adalah: Apa salah satu upaya Abu Bakar menjaga ajaran dan persatuan umat?",
           "options": [
-            "Dzun Nurain",
-            "Al-Amīn",
-            "Al-Fārūq",
-            "Al-Ṣiddiq"
+            "Membiarkan kewajiban zakat dihapus",
+            "Menghentikan salat",
+            "Menegakkan kewajiban zakat dan menjaga persatuan",
+            "Melarang musyawarah"
           ],
-          "answer": "Al-Fārūq",
-          "discussion": "Umar dikenal dengan gelar al-Fārūq."
+          "answer": "Menegakkan kewajiban zakat dan menjaga persatuan",
+          "discussion": "Abu Bakar menegaskan zakat sebagai kewajiban dan menjaga persatuan umat."
         },
         {
           "id": "PAI-B05-Q016",
           "type": "PG",
-          "text": "Sikap apa yang menonjol dari kepemimpinan Umar?",
+          "text": "Siapa khalifah kedua setelah Abu Bakar?",
           "options": [
-            "Takut mengambil keputusan",
-            "Tidak peduli masyarakat",
-            "Boros dan pilih kasih",
-            "Adil dan tegas"
+            "Uṡman bin Affan",
+            "Ali bin Abi Ṭalib",
+            "Zaid bin Ṡabit",
+            "Umar bin Khattab"
           ],
-          "answer": "Adil dan tegas",
-          "discussion": "Umar dikenal tegas dan adil dalam memimpin."
+          "answer": "Umar bin Khattab",
+          "discussion": "Umar bin Khattab adalah khalifah kedua."
         },
         {
           "id": "PAI-B05-Q017",
           "type": "PG",
-          "text": "Dalam kuis bab Jasa Khulafaurrasyidin untuk Dunia, pertanyaan yang harus kamu jawab adalah: sikap apa yang menonjol dari kepemimpinan Umar?",
+          "text": "Setelah Abu Bakar, kepemimpinan dilanjutkan oleh ...",
           "options": [
-            "Adil dan tegas",
-            "Boros dan pilih kasih",
-            "Takut mengambil keputusan",
-            "Tidak peduli masyarakat"
+            "Umar bin Khattab",
+            "Uṡman bin Affan",
+            "Ali bin Abi Ṭalib",
+            "Zaid bin Ṡabit"
           ],
-          "answer": "Adil dan tegas",
-          "discussion": "Umar dikenal tegas dan adil dalam memimpin."
+          "answer": "Umar bin Khattab",
+          "discussion": "Umar bin Khattab adalah khalifah kedua."
         },
         {
           "id": "PAI-B05-Q018",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Jasa Khulafaurrasyidin untuk Dunia, jawablah pertanyaan berikut: Sikap apa yang menonjol dari kepemimpinan Umar?",
+          "text": "Pernyataan yang tepat berdasarkan materi Jasa Khulafaurrasyidin untuk Dunia adalah: Siapa khalifah kedua setelah Abu Bakar?",
           "options": [
-            "Boros dan pilih kasih",
-            "Adil dan tegas",
-            "Takut mengambil keputusan",
-            "Tidak peduli masyarakat"
+            "Uṡman bin Affan",
+            "Umar bin Khattab",
+            "Ali bin Abi Ṭalib",
+            "Zaid bin Ṡabit"
           ],
-          "answer": "Adil dan tegas",
-          "discussion": "Umar dikenal tegas dan adil dalam memimpin."
+          "answer": "Umar bin Khattab",
+          "discussion": "Umar bin Khattab adalah khalifah kedua."
         },
         {
           "id": "PAI-B05-Q019",
           "type": "PG",
-          "text": "Apa salah satu pembaruan administrasi pada masa Umar?",
+          "text": "Apa arti gelar Al-Fārūq bagi Umar?",
           "options": [
-            "Menghapus semua aturan",
-            "Mengganti bahasa Al-Qur’an",
-            "Penataan pemerintahan dan pencatatan kalender Hijriah",
-            "Membuat kalender Masehi"
+            "Maha Pengampun",
+            "Pemilik dua cahaya",
+            "Pembeda antara yang hak dan yang batil",
+            "Singa Allah"
           ],
-          "answer": "Penataan pemerintahan dan pencatatan kalender Hijriah",
-          "discussion": "Umar menata administrasi, termasuk penggunaan kalender Hijriah."
+          "answer": "Pembeda antara yang hak dan yang batil",
+          "discussion": "Al-Fārūq berarti pembeda antara yang benar dan yang salah."
         },
         {
           "id": "PAI-B05-Q020",
           "type": "PG",
-          "text": "Dalam kuis bab Jasa Khulafaurrasyidin untuk Dunia, pertanyaan yang harus kamu jawab adalah: apa salah satu pembaruan administrasi pada masa Umar?",
+          "text": "Gelar Al-Fārūq berarti ...",
           "options": [
-            "Membuat kalender Masehi",
-            "Menghapus semua aturan",
-            "Mengganti bahasa Al-Qur’an",
-            "Penataan pemerintahan dan pencatatan kalender Hijriah"
+            "Maha Pengampun",
+            "Pemilik dua cahaya",
+            "Singa Allah",
+            "Pembeda antara yang hak dan yang batil"
           ],
-          "answer": "Penataan pemerintahan dan pencatatan kalender Hijriah",
-          "discussion": "Umar menata administrasi, termasuk penggunaan kalender Hijriah."
+          "answer": "Pembeda antara yang hak dan yang batil",
+          "discussion": "Al-Fārūq berarti pembeda antara yang benar dan yang salah."
         },
         {
           "id": "PAI-B05-Q021",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Jasa Khulafaurrasyidin untuk Dunia, jawablah pertanyaan berikut: Apa salah satu pembaruan administrasi pada masa Umar?",
+          "text": "Pernyataan yang tepat berdasarkan materi Jasa Khulafaurrasyidin untuk Dunia adalah: Apa arti gelar Al-Fārūq bagi Umar?",
           "options": [
-            "Penataan pemerintahan dan pencatatan kalender Hijriah",
-            "Mengganti bahasa Al-Qur’an",
-            "Membuat kalender Masehi",
-            "Menghapus semua aturan"
+            "Pembeda antara yang hak dan yang batil",
+            "Maha Pengampun",
+            "Pemilik dua cahaya",
+            "Singa Allah"
           ],
-          "answer": "Penataan pemerintahan dan pencatatan kalender Hijriah",
-          "discussion": "Umar menata administrasi, termasuk penggunaan kalender Hijriah."
+          "answer": "Pembeda antara yang hak dan yang batil",
+          "discussion": "Al-Fārūq berarti pembeda antara yang benar dan yang salah."
         },
         {
           "id": "PAI-B05-Q022",
           "type": "PG",
-          "text": "Apa yang dilakukan Abu Bakar untuk menjaga persatuan umat?",
+          "text": "Apa kebijakan Umar untuk mencegah penyalahgunaan wewenang?",
           "options": [
-            "Melarang semua ibadah",
-            "Menghadapi pemberontakan dan penolakan kewajiban zakat",
-            "Memindahkan Ka'bah",
-            "Membiarkan perpecahan"
+            "Semua pejabat menyerahkan seluruh harta",
+            "Pencatatan kekayaan pejabat",
+            "Pejabat tidak boleh bekerja",
+            "Semua urusan negara dihentikan"
           ],
-          "answer": "Menghadapi pemberontakan dan penolakan kewajiban zakat",
-          "discussion": "Abu Bakar berusaha menjaga persatuan dan kewajiban agama."
+          "answer": "Pencatatan kekayaan pejabat",
+          "discussion": "Umar mengatur pencatatan kekayaan pejabat untuk mencegah penyalahgunaan wewenang dan korupsi."
         },
         {
           "id": "PAI-B05-Q023",
           "type": "PG",
-          "text": "Dalam kuis bab Jasa Khulafaurrasyidin untuk Dunia, pertanyaan yang harus kamu jawab adalah: apa yang dilakukan Abu Bakar untuk menjaga persatuan umat?",
+          "text": "Sebelum pejabat dilantik, Umar meminta ...",
           "options": [
-            "Membiarkan perpecahan",
-            "Melarang semua ibadah",
-            "Menghadapi pemberontakan dan penolakan kewajiban zakat",
-            "Memindahkan Ka'bah"
+            "Semua pejabat menyerahkan seluruh harta",
+            "Pejabat tidak boleh bekerja",
+            "Pencatatan kekayaan pejabat",
+            "Semua urusan negara dihentikan"
           ],
-          "answer": "Menghadapi pemberontakan dan penolakan kewajiban zakat",
-          "discussion": "Abu Bakar berusaha menjaga persatuan dan kewajiban agama."
+          "answer": "Pencatatan kekayaan pejabat",
+          "discussion": "Umar mengatur pencatatan kekayaan pejabat untuk mencegah penyalahgunaan wewenang dan korupsi."
         },
         {
           "id": "PAI-B05-Q024",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Jasa Khulafaurrasyidin untuk Dunia, jawablah pertanyaan berikut: Apa yang dilakukan Abu Bakar untuk menjaga persatuan umat?",
+          "text": "Pernyataan yang tepat berdasarkan materi Jasa Khulafaurrasyidin untuk Dunia adalah: Apa kebijakan Umar untuk mencegah penyalahgunaan wewenang?",
           "options": [
-            "Membiarkan perpecahan",
-            "Melarang semua ibadah",
-            "Memindahkan Ka'bah",
-            "Menghadapi pemberontakan dan penolakan kewajiban zakat"
+            "Semua pejabat menyerahkan seluruh harta",
+            "Pejabat tidak boleh bekerja",
+            "Semua urusan negara dihentikan",
+            "Pencatatan kekayaan pejabat"
           ],
-          "answer": "Menghadapi pemberontakan dan penolakan kewajiban zakat",
-          "discussion": "Abu Bakar berusaha menjaga persatuan dan kewajiban agama."
+          "answer": "Pencatatan kekayaan pejabat",
+          "discussion": "Umar mengatur pencatatan kekayaan pejabat untuk mencegah penyalahgunaan wewenang dan korupsi."
         },
         {
           "id": "PAI-B05-Q025",
           "type": "PG",
-          "text": "Apa teladan yang dapat diambil dari Abu Bakar?",
+          "text": "Apa lembaga yang dikembangkan Umar dalam pemerintahan?",
           "options": [
-            "Jujur dan teguh dalam kebenaran",
-            "Mengingkari janji",
-            "Mementingkan diri sendiri",
-            "Mudah menyerah"
+            "Lembaga kepolisian dan peradilan",
+            "Lembaga hiburan",
+            "Lembaga perdagangan saja",
+            "Lembaga perlombaan"
           ],
-          "answer": "Jujur dan teguh dalam kebenaran",
-          "discussion": "Abu Bakar dikenal jujur dan teguh."
+          "answer": "Lembaga kepolisian dan peradilan",
+          "discussion": "Umar membangun lembaga keamanan dan peradilan serta mengangkat hakim."
         },
         {
           "id": "PAI-B05-Q026",
           "type": "PG",
-          "text": "Dalam kuis bab Jasa Khulafaurrasyidin untuk Dunia, pertanyaan yang harus kamu jawab adalah: apa teladan yang dapat diambil dari Abu Bakar?",
+          "text": "Untuk menjaga keamanan dan menyelesaikan perkara, Umar membentuk ...",
           "options": [
-            "Mudah menyerah",
-            "Jujur dan teguh dalam kebenaran",
-            "Mengingkari janji",
-            "Mementingkan diri sendiri"
+            "Lembaga hiburan",
+            "Lembaga kepolisian dan peradilan",
+            "Lembaga perdagangan saja",
+            "Lembaga perlombaan"
           ],
-          "answer": "Jujur dan teguh dalam kebenaran",
-          "discussion": "Abu Bakar dikenal jujur dan teguh."
+          "answer": "Lembaga kepolisian dan peradilan",
+          "discussion": "Umar membangun lembaga keamanan dan peradilan serta mengangkat hakim."
         },
         {
           "id": "PAI-B05-Q027",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Jasa Khulafaurrasyidin untuk Dunia, jawablah pertanyaan berikut: Apa teladan yang dapat diambil dari Abu Bakar?",
+          "text": "Pernyataan yang tepat berdasarkan materi Jasa Khulafaurrasyidin untuk Dunia adalah: Apa lembaga yang dikembangkan Umar dalam pemerintahan?",
           "options": [
-            "Mementingkan diri sendiri",
-            "Mudah menyerah",
-            "Jujur dan teguh dalam kebenaran",
-            "Mengingkari janji"
+            "Lembaga hiburan",
+            "Lembaga perdagangan saja",
+            "Lembaga kepolisian dan peradilan",
+            "Lembaga perlombaan"
           ],
-          "answer": "Jujur dan teguh dalam kebenaran",
-          "discussion": "Abu Bakar dikenal jujur dan teguh."
+          "answer": "Lembaga kepolisian dan peradilan",
+          "discussion": "Umar membangun lembaga keamanan dan peradilan serta mengangkat hakim."
         },
         {
           "id": "PAI-B05-Q028",
           "type": "PG",
-          "text": "Apa pelajaran dari Umar sebagai pemimpin?",
+          "text": "Apa jasa Umar dalam penanggalan?",
           "options": [
-            "Mengabaikan orang lemah",
-            "Menggunakan kekuasaan sesuka hati",
-            "Mengutamakan keluarga sendiri",
-            "Melayani masyarakat dengan adil dan bertanggung jawab"
+            "Kelahiran Nabi",
+            "Perang Badar",
+            "Fathu Makkah",
+            "Hijrah Nabi dari Makkah ke Madinah"
           ],
-          "answer": "Melayani masyarakat dengan adil dan bertanggung jawab",
-          "discussion": "Umar memperhatikan keadilan dan kesejahteraan masyarakat."
+          "answer": "Hijrah Nabi dari Makkah ke Madinah",
+          "discussion": "Umar menetapkan kalender Hijriah yang dimulai dari peristiwa hijrah Nabi."
         },
         {
           "id": "PAI-B05-Q029",
           "type": "PG",
-          "text": "Dalam kuis bab Jasa Khulafaurrasyidin untuk Dunia, pertanyaan yang harus kamu jawab adalah: apa pelajaran dari Umar sebagai pemimpin?",
+          "text": "Kalender yang ditetapkan pada masa Umar dimulai dari peristiwa ...",
           "options": [
-            "Melayani masyarakat dengan adil dan bertanggung jawab",
-            "Mengutamakan keluarga sendiri",
-            "Mengabaikan orang lemah",
-            "Menggunakan kekuasaan sesuka hati"
+            "Hijrah Nabi dari Makkah ke Madinah",
+            "Kelahiran Nabi",
+            "Perang Badar",
+            "Fathu Makkah"
           ],
-          "answer": "Melayani masyarakat dengan adil dan bertanggung jawab",
-          "discussion": "Umar memperhatikan keadilan dan kesejahteraan masyarakat."
+          "answer": "Hijrah Nabi dari Makkah ke Madinah",
+          "discussion": "Umar menetapkan kalender Hijriah yang dimulai dari peristiwa hijrah Nabi."
         },
         {
           "id": "PAI-B05-Q030",
           "type": "PG",
-          "text": "Untuk menunjukkan pemahaman tentang Jasa Khulafaurrasyidin untuk Dunia, jawablah pertanyaan berikut: Apa pelajaran dari Umar sebagai pemimpin?",
+          "text": "Pernyataan yang tepat berdasarkan materi Jasa Khulafaurrasyidin untuk Dunia adalah: Apa jasa Umar dalam penanggalan?",
           "options": [
-            "Mengutamakan keluarga sendiri",
-            "Melayani masyarakat dengan adil dan bertanggung jawab",
-            "Mengabaikan orang lemah",
-            "Menggunakan kekuasaan sesuka hati"
+            "Kelahiran Nabi",
+            "Hijrah Nabi dari Makkah ke Madinah",
+            "Perang Badar",
+            "Fathu Makkah"
           ],
-          "answer": "Melayani masyarakat dengan adil dan bertanggung jawab",
-          "discussion": "Umar memperhatikan keadilan dan kesejahteraan masyarakat."
+          "answer": "Hijrah Nabi dari Makkah ke Madinah",
+          "discussion": "Umar menetapkan kalender Hijriah yang dimulai dari peristiwa hijrah Nabi."
         }
       ]
     }
