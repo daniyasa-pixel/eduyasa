@@ -183,6 +183,9 @@ button.secondary { background: white; color: var(--text); border: 2px solid var(
 .module-inline-image { display: block; width: 100%; max-width: 720px; height: auto; margin: 0 auto; border-radius: 14px; }
 .quiz-question-image-wrap { margin: 12px 0 22px; text-align: center; }
 .quiz-question-image { display: block; width: 100%; max-width: 680px; max-height: 360px; object-fit: contain; margin: 0 auto; border-radius: 14px; background: #f8fafc; }
+.quiz-question-audio-wrap { margin: 12px 0 20px; text-align: center; }
+.quiz-audio-button { border: 0; border-radius: 999px; padding: 12px 22px; background: var(--primary); color: white; font-weight: 700; font-size: 14px; cursor: pointer; }
+.quiz-audio-note { margin-top: 6px; color: var(--muted); font-size: 11px; }
 .materi-text-content { background: #f8fafc; padding: 18px; border-radius: 12px; border: 1px solid var(--border); white-space: pre-wrap; line-height: 1.8; font-size: 15px; color: var(--text); }
 .materi-text-content p { margin-top: 0; margin-bottom: 15px; }
 .materi-text-content h1, .materi-text-content h2, .materi-text-content h3 { color: var(--primary); margin-top: 20px; margin-bottom: 10px; }
@@ -353,6 +356,7 @@ footer {
       <div class="progress-bar"><div class="progress-fill" id="quizQProgress"></div></div>
       <div class="quiz-question" id="quizQText">Memuat pertanyaan...</div>
       <div id="quizQImage" class="quiz-question-image-wrap"></div>
+      <div id="quizQAudio" class="quiz-question-audio-wrap"></div>
       <div id="quizOptions"></div>
       <div class="explanation-box hidden" id="quizExplanation"></div>
       <button class="primary" id="btnQuizAction" disabled style="margin-top:25px;">KOREKSI JAWABAN</button>
@@ -558,6 +562,48 @@ function initAudio() {
   if(audioCtx.state === 'suspended') audioCtx.resume();
 }
 
+function playQuizAudio(data) {
+  if (!data) return;
+  if (data.type === 'speech' && data.text && window.speechSynthesis && window.SpeechSynthesisUtterance) {
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(data.text);
+    utterance.lang = data.lang || 'en-US';
+    utterance.rate = 0.85;
+    window.speechSynthesis.speak(utterance);
+    return;
+  }
+  if (data.type === 'animal' && data.sound === 'cat') {
+    try {
+      initAudio();
+      const now = audioCtx.currentTime;
+      const osc = audioCtx.createOscillator();
+      const gain = audioCtx.createGain();
+      const vibrato = audioCtx.createOscillator();
+      const vibratoGain = audioCtx.createGain();
+      osc.type = 'sawtooth';
+      osc.frequency.setValueAtTime(620, now);
+      osc.frequency.exponentialRampToValueAtTime(390, now + 0.22);
+      osc.frequency.exponentialRampToValueAtTime(760, now + 0.42);
+      osc.frequency.exponentialRampToValueAtTime(300, now + 0.9);
+      vibrato.frequency.setValueAtTime(7, now);
+      vibratoGain.gain.setValueAtTime(22, now);
+      vibrato.connect(vibratoGain);
+      vibratoGain.connect(osc.frequency);
+      gain.gain.setValueAtTime(0.001, now);
+      gain.gain.linearRampToValueAtTime(0.11, now + 0.08);
+      gain.gain.setValueAtTime(0.09, now + 0.55);
+      gain.gain.exponentialRampToValueAtTime(0.001, now + 0.95);
+      osc.connect(gain);
+      gain.connect(audioCtx.destination);
+      vibrato.start(now);
+      osc.start(now);
+      osc.stop(now + 0.96);
+      vibrato.stop(now + 0.96);
+    } catch (error) {
+      console.error('Audio playback failed', error);
+    }
+  }
+}
 function playSound(type) {
   if(!audioCtx) return;
   const osc = audioCtx.createOscillator();
@@ -968,6 +1014,7 @@ document.getElementById('btnStartQuiz').onclick = async () => {
               correctText: correctText,
               explanation: q.discussion || q.explanation || q.pembahasan || "Tidak ada pembahasan yang tersedia untuk soal ini.",
               image: q.image || null,
+              audio: q.audio || null,
               mapel: subject.name,
               bab: `Bab ${chapNum}`
             });
@@ -1040,6 +1087,23 @@ async function renderQuizQuestion() {
       questionImage.loading = 'lazy';
       questionImage.className = 'quiz-question-image';
       imageContainer.appendChild(questionImage);
+    }
+  }
+
+  const audioContainer = document.getElementById('quizQAudio');
+  audioContainer.innerHTML = '';
+  if (q.audio) {
+    const audioButton = document.createElement('button');
+    audioButton.type = 'button';
+    audioButton.className = 'quiz-audio-button';
+    audioButton.textContent = q.audio.label || '▶ DENGARKAN SUARA';
+    audioButton.onclick = () => playQuizAudio(q.audio);
+    audioContainer.appendChild(audioButton);
+    if (q.audio.type === 'animal') {
+      const audioNote = document.createElement('div');
+      audioNote.className = 'quiz-audio-note';
+      audioNote.textContent = 'Suara simulasi untuk latihan mendengarkan.';
+      audioContainer.appendChild(audioNote);
     }
   }
 
