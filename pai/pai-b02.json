@@ -24,15 +24,15 @@
         {
           "id": "PAI-B02-Q002",
           "type": "PG",
-          "text": "Al-Gaffār memiliki arti ...",
+          "text": "Akar kata Al-Gaffār, yaitu *gafara*, memiliki arti ...",
           "options": [
             "Maha Esa",
-            "Maha Pengampun",
+            "Menutup",
             "Maha Pemberi Rezeki",
             "Maha Mengetahui"
           ],
-          "answer": "Maha Pengampun",
-          "discussion": "Al-Gaffār bermakna Maha Pengampun."
+          "answer": "Menutup",
+          "discussion": "Kata *gafara* berarti menutup. Al-Gaffār mengajarkan bahwa Allah menutupi dosa hamba-Nya; teladannya adalah menjaga aib orang lain agar tidak tersebar."
         },
         {
           "id": "PAI-B02-Q003",
@@ -227,7 +227,11 @@
             "Langsung menghukum teman itu"
           ],
           "answer": "Memeriksa kebenaran kabar dan tidak langsung menyebarkannya",
-          "discussion": "Tabayyun mencegah prasangka dan penyebaran berita yang belum jelas."
+          "discussion": "Tabayyun mencegah prasangka dan penyebaran berita yang belum jelas.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q02-tabayyun.svg",
+            "alt": "Ilustrasi memeriksa kebenaran berita"
+          }
         },
         {
           "id": "PAI-B02-Q018",
@@ -279,7 +283,11 @@
             "Menambahkan huruf agar terlihat indah"
           ],
           "answer": "Ketepatan tulisan dan bentuk huruf",
-          "discussion": "Tulisan nama Allah perlu dibuat dengan benar dan teliti."
+          "discussion": "Tulisan nama Allah perlu dibuat dengan benar dan teliti.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/asmaulhusna.svg",
+            "alt": "Diagram empat Asmaulhusna"
+          }
         },
         {
           "id": "PAI-B02-Q022",
