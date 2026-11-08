@@ -10,7 +10,7 @@
       "questions": [
         {
           "id": "PAI-B07-Q001",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa makna iman kepada qada dan kadar?",
           "options": [
             "Meyakini ketetapan Allah atas segala sesuatu",
@@ -23,7 +23,7 @@
         },
         {
           "id": "PAI-B07-Q002",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: apa makna iman kepada qada dan kadar?",
           "options": [
             "Menganggap usaha tidak berguna",
@@ -36,7 +36,7 @@
         },
         {
           "id": "PAI-B07-Q003",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Apa makna iman kepada qada dan kadar?” adalah ...",
           "options": [
             "Menolak ketetapan Allah",
@@ -49,34 +49,21 @@
         },
         {
           "id": "PAI-B07-Q004",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa yang dimaksud takdir mubram?",
           "options": [
             "Hasil pilihan manusia sepenuhnya",
             "Keinginan yang belum dilakukan",
-            "Ketetapan yang tidak dapat diubah manusia",
-            "Ketetapan yang dapat dipengaruhi usaha"
-          ],
-          "answer": "Ketetapan yang tidak dapat diubah manusia",
-          "discussion": "Takdir mubram adalah ketetapan Allah yang tidak dapat diubah manusia."
-        },
-        {
-          "id": "PAI-B07-Q005",
-          "type": "multiple_choice",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: apa yang dimaksud takdir mubram?",
-          "options": [
             "Ketetapan yang dapat dipengaruhi usaha",
-            "Hasil pilihan manusia sepenuhnya",
-            "Keinginan yang belum dilakukan",
             "Ketetapan yang tidak dapat diubah manusia"
           ],
           "answer": "Ketetapan yang tidak dapat diubah manusia",
           "discussion": "Takdir mubram adalah ketetapan Allah yang tidak dapat diubah manusia."
         },
         {
-          "id": "PAI-B07-Q006",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Apa yang dimaksud takdir mubram?” adalah ...",
+          "id": "PAI-B07-Q005",
+          "type": "PG",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: apa yang dimaksud takdir mubram?",
           "options": [
             "Ketetapan yang tidak dapat diubah manusia",
             "Ketetapan yang dapat dipengaruhi usaha",
@@ -87,13 +74,26 @@
           "discussion": "Takdir mubram adalah ketetapan Allah yang tidak dapat diubah manusia."
         },
         {
+          "id": "PAI-B07-Q006",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Apa yang dimaksud takdir mubram?” adalah ...",
+          "options": [
+            "Ketetapan yang dapat dipengaruhi usaha",
+            "Ketetapan yang tidak dapat diubah manusia",
+            "Hasil pilihan manusia sepenuhnya",
+            "Keinginan yang belum dilakukan"
+          ],
+          "answer": "Ketetapan yang tidak dapat diubah manusia",
+          "discussion": "Takdir mubram adalah ketetapan Allah yang tidak dapat diubah manusia."
+        },
+        {
           "id": "PAI-B07-Q007",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa yang dimaksud takdir muallaq?",
           "options": [
-            "Ketetapan yang berkaitan dengan usaha atau sebab manusia",
             "Ketetapan yang sama sekali tidak terkait usaha",
             "Hal yang terjadi tanpa izin Allah",
+            "Ketetapan yang berkaitan dengan usaha atau sebab manusia",
             "Keputusan manusia sebagai Tuhan"
           ],
           "answer": "Ketetapan yang berkaitan dengan usaha atau sebab manusia",
@@ -101,25 +101,25 @@
         },
         {
           "id": "PAI-B07-Q008",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: apa yang dimaksud takdir muallaq?",
           "options": [
             "Keputusan manusia sebagai Tuhan",
-            "Ketetapan yang berkaitan dengan usaha atau sebab manusia",
             "Ketetapan yang sama sekali tidak terkait usaha",
-            "Hal yang terjadi tanpa izin Allah"
+            "Hal yang terjadi tanpa izin Allah",
+            "Ketetapan yang berkaitan dengan usaha atau sebab manusia"
           ],
           "answer": "Ketetapan yang berkaitan dengan usaha atau sebab manusia",
           "discussion": "Takdir muallaq berkaitan dengan usaha atau sebab yang dilakukan manusia sesuai izin Allah."
         },
         {
           "id": "PAI-B07-Q009",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Apa yang dimaksud takdir muallaq?” adalah ...",
           "options": [
+            "Ketetapan yang berkaitan dengan usaha atau sebab manusia",
             "Hal yang terjadi tanpa izin Allah",
             "Keputusan manusia sebagai Tuhan",
-            "Ketetapan yang berkaitan dengan usaha atau sebab manusia",
             "Ketetapan yang sama sekali tidak terkait usaha"
           ],
           "answer": "Ketetapan yang berkaitan dengan usaha atau sebab manusia",
@@ -127,12 +127,12 @@
         },
         {
           "id": "PAI-B07-Q010",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa arti ikhtiar?",
           "options": [
             "Menunggu tanpa berbuat",
-            "Menyalahkan orang lain",
             "Berusaha sungguh-sungguh",
+            "Menyalahkan orang lain",
             "Menyerah sebelum mencoba"
           ],
           "answer": "Berusaha sungguh-sungguh",
@@ -140,8 +140,21 @@
         },
         {
           "id": "PAI-B07-Q011",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: apa arti ikhtiar?",
+          "options": [
+            "Menyerah sebelum mencoba",
+            "Menunggu tanpa berbuat",
+            "Berusaha sungguh-sungguh",
+            "Menyalahkan orang lain"
+          ],
+          "answer": "Berusaha sungguh-sungguh",
+          "discussion": "Ikhtiar adalah usaha sungguh-sungguh untuk mencapai tujuan baik."
+        },
+        {
+          "id": "PAI-B07-Q012",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Apa arti ikhtiar?” adalah ...",
           "options": [
             "Menyerah sebelum mencoba",
             "Menunggu tanpa berbuat",
@@ -152,21 +165,8 @@
           "discussion": "Ikhtiar adalah usaha sungguh-sungguh untuk mencapai tujuan baik."
         },
         {
-          "id": "PAI-B07-Q012",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Apa arti ikhtiar?” adalah ...",
-          "options": [
-            "Berusaha sungguh-sungguh",
-            "Menyerah sebelum mencoba",
-            "Menunggu tanpa berbuat",
-            "Menyalahkan orang lain"
-          ],
-          "answer": "Berusaha sungguh-sungguh",
-          "discussion": "Ikhtiar adalah usaha sungguh-sungguh untuk mencapai tujuan baik."
-        },
-        {
           "id": "PAI-B07-Q013",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa arti tawakal?",
           "options": [
             "Berserah diri kepada Allah setelah berusaha dan berdoa",
@@ -179,7 +179,7 @@
         },
         {
           "id": "PAI-B07-Q014",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: apa arti tawakal?",
           "options": [
             "Menyerah karena takut",
@@ -192,7 +192,7 @@
         },
         {
           "id": "PAI-B07-Q015",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Apa arti tawakal?” adalah ...",
           "options": [
             "Mengandalkan diri tanpa doa",
@@ -205,34 +205,25 @@
         },
         {
           "id": "PAI-B07-Q016",
-          "type": "multiple_choice",
-          "text": "Apa yang dilakukan sebelum bertawakal?",
+          "type": "PG",
+          "text": "Perhatikan bagan. Dua hal yang dilakukan sebelum bertawakal adalah ...",
           "options": [
             "Menghindari tanggung jawab",
             "Menunggu orang lain bekerja",
-            "Berusaha dan berdoa dengan sungguh-sungguh",
-            "Diam tanpa usaha"
-          ],
-          "answer": "Berusaha dan berdoa dengan sungguh-sungguh",
-          "discussion": "Tawakal dilakukan setelah ikhtiar dan doa."
-        },
-        {
-          "id": "PAI-B07-Q017",
-          "type": "multiple_choice",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: apa yang dilakukan sebelum bertawakal?",
-          "options": [
             "Diam tanpa usaha",
-            "Menghindari tanggung jawab",
-            "Menunggu orang lain bekerja",
             "Berusaha dan berdoa dengan sungguh-sungguh"
           ],
           "answer": "Berusaha dan berdoa dengan sungguh-sungguh",
-          "discussion": "Tawakal dilakukan setelah ikhtiar dan doa."
+          "discussion": "Tawakal dilakukan setelah ikhtiar dan doa.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/ikhtiar-tawakal.svg",
+            "alt": "Bagan ikhtiar, doa, dan tawakal"
+          }
         },
         {
-          "id": "PAI-B07-Q018",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Apa yang dilakukan sebelum bertawakal?” adalah ...",
+          "id": "PAI-B07-Q017",
+          "type": "PG",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: apa yang dilakukan sebelum bertawakal?",
           "options": [
             "Berusaha dan berdoa dengan sungguh-sungguh",
             "Diam tanpa usaha",
@@ -243,13 +234,26 @@
           "discussion": "Tawakal dilakukan setelah ikhtiar dan doa."
         },
         {
+          "id": "PAI-B07-Q018",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Apa yang dilakukan sebelum bertawakal?” adalah ...",
+          "options": [
+            "Diam tanpa usaha",
+            "Berusaha dan berdoa dengan sungguh-sungguh",
+            "Menghindari tanggung jawab",
+            "Menunggu orang lain bekerja"
+          ],
+          "answer": "Berusaha dan berdoa dengan sungguh-sungguh",
+          "discussion": "Tawakal dilakukan setelah ikhtiar dan doa."
+        },
+        {
           "id": "PAI-B07-Q019",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Bagaimana sikap saat berhasil?",
           "options": [
-            "Bersyukur dan tidak sombong",
             "Mengejek yang gagal",
             "Menganggap semua karena diri sendiri",
+            "Bersyukur dan tidak sombong",
             "Melupakan Allah"
           ],
           "answer": "Bersyukur dan tidak sombong",
@@ -257,25 +261,25 @@
         },
         {
           "id": "PAI-B07-Q020",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: bagaimana sikap saat berhasil?",
           "options": [
             "Melupakan Allah",
-            "Bersyukur dan tidak sombong",
             "Mengejek yang gagal",
-            "Menganggap semua karena diri sendiri"
+            "Menganggap semua karena diri sendiri",
+            "Bersyukur dan tidak sombong"
           ],
           "answer": "Bersyukur dan tidak sombong",
           "discussion": "Keberhasilan hendaknya disyukuri dan tidak membuat sombong."
         },
         {
           "id": "PAI-B07-Q021",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Bagaimana sikap saat berhasil?” adalah ...",
           "options": [
+            "Bersyukur dan tidak sombong",
             "Menganggap semua karena diri sendiri",
             "Melupakan Allah",
-            "Bersyukur dan tidak sombong",
             "Mengejek yang gagal"
           ],
           "answer": "Bersyukur dan tidak sombong",
@@ -283,12 +287,12 @@
         },
         {
           "id": "PAI-B07-Q022",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Bagaimana sikap saat belum berhasil?",
           "options": [
             "Menyalahkan semua orang",
-            "Berhenti belajar",
             "Bersabar, mengevaluasi usaha, dan mencoba kembali",
+            "Berhenti belajar",
             "Putus asa selamanya"
           ],
           "answer": "Bersabar, mengevaluasi usaha, dan mencoba kembali",
@@ -296,8 +300,21 @@
         },
         {
           "id": "PAI-B07-Q023",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: bagaimana sikap saat belum berhasil?",
+          "options": [
+            "Putus asa selamanya",
+            "Menyalahkan semua orang",
+            "Bersabar, mengevaluasi usaha, dan mencoba kembali",
+            "Berhenti belajar"
+          ],
+          "answer": "Bersabar, mengevaluasi usaha, dan mencoba kembali",
+          "discussion": "Kegagalan menjadi kesempatan memperbaiki ikhtiar."
+        },
+        {
+          "id": "PAI-B07-Q024",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Bagaimana sikap saat belum berhasil?” adalah ...",
           "options": [
             "Putus asa selamanya",
             "Menyalahkan semua orang",
@@ -308,21 +325,8 @@
           "discussion": "Kegagalan menjadi kesempatan memperbaiki ikhtiar."
         },
         {
-          "id": "PAI-B07-Q024",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Bagaimana sikap saat belum berhasil?” adalah ...",
-          "options": [
-            "Bersabar, mengevaluasi usaha, dan mencoba kembali",
-            "Putus asa selamanya",
-            "Menyalahkan semua orang",
-            "Berhenti belajar"
-          ],
-          "answer": "Bersabar, mengevaluasi usaha, dan mencoba kembali",
-          "discussion": "Kegagalan menjadi kesempatan memperbaiki ikhtiar."
-        },
-        {
           "id": "PAI-B07-Q025",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apa hikmah beriman kepada takdir?",
           "options": [
             "Menjadi sabar, rendah hati, dan optimis",
@@ -335,7 +339,7 @@
         },
         {
           "id": "PAI-B07-Q026",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: apa hikmah beriman kepada takdir?",
           "options": [
             "Tidak mau berdoa",
@@ -348,7 +352,7 @@
         },
         {
           "id": "PAI-B07-Q027",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Apa hikmah beriman kepada takdir?” adalah ...",
           "options": [
             "Mudah menyalahkan orang",
@@ -361,37 +365,37 @@
         },
         {
           "id": "PAI-B07-Q028",
-          "type": "multiple_choice",
+          "type": "PG",
           "text": "Apakah tawakal berarti tidak perlu berusaha?",
           "options": [
             "Cukup menunggu",
             "Tidak perlu berdoa",
-            "Tidak, tawakal dilakukan setelah ikhtiar dan doa",
-            "Ya, usaha tidak diperlukan"
-          ],
-          "answer": "Tidak, tawakal dilakukan setelah ikhtiar dan doa",
-          "discussion": "Tawakal tidak menggantikan ikhtiar dan doa."
-        },
-        {
-          "id": "PAI-B07-Q029",
-          "type": "multiple_choice",
-          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: apakah tawakal berarti tidak perlu berusaha?",
-          "options": [
             "Ya, usaha tidak diperlukan",
-            "Cukup menunggu",
-            "Tidak perlu berdoa",
             "Tidak, tawakal dilakukan setelah ikhtiar dan doa"
           ],
           "answer": "Tidak, tawakal dilakukan setelah ikhtiar dan doa",
           "discussion": "Tawakal tidak menggantikan ikhtiar dan doa."
         },
         {
-          "id": "PAI-B07-Q030",
-          "type": "multiple_choice",
-          "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Apakah tawakal berarti tidak perlu berusaha?” adalah ...",
+          "id": "PAI-B07-Q029",
+          "type": "PG",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Indahnya Ketetapan Allah” terkait hal berikut: apakah tawakal berarti tidak perlu berusaha?",
           "options": [
             "Tidak, tawakal dilakukan setelah ikhtiar dan doa",
             "Ya, usaha tidak diperlukan",
+            "Cukup menunggu",
+            "Tidak perlu berdoa"
+          ],
+          "answer": "Tidak, tawakal dilakukan setelah ikhtiar dan doa",
+          "discussion": "Tawakal tidak menggantikan ikhtiar dan doa."
+        },
+        {
+          "id": "PAI-B07-Q030",
+          "type": "PG",
+          "text": "Kesimpulan yang tepat dari pembahasan “Indahnya Ketetapan Allah” untuk pertanyaan “Apakah tawakal berarti tidak perlu berusaha?” adalah ...",
+          "options": [
+            "Ya, usaha tidak diperlukan",
+            "Tidak, tawakal dilakukan setelah ikhtiar dan doa",
             "Cukup menunggu",
             "Tidak perlu berdoa"
           ],
