@@ -636,15 +636,15 @@
         {
           "id": "ENG-B01-046",
           "type": "PG",
-          "text": "You want to say 'Saya suka kacang polong.' Which sentence is correct?",
+          "text": "Which sentence tells what people do with carrots?",
           "options": [
-            "I likes peas.",
-            "I like peas.",
-            "I am peas.",
-            "I don't peas."
+            "Carrots are purple.",
+            "People eat carrots.",
+            "Carrots can fly.",
+            "Carrots are toys."
           ],
-          "answer": "I like peas.",
-          "discussion": "I like peas means saya suka kacang polong."
+          "answer": "People eat carrots.",
+          "discussion": "People eat carrots as food. This sentence tells one simple use of carrots."
         },
         {
           "id": "ENG-B01-047",
