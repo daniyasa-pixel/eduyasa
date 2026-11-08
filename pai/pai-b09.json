@@ -1,0 +1,404 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PAI-B09",
+      "chapter_title": "Mengamalkan Puasa Sunah",
+      "questions": [
+        {
+          "id": "PAI-B09-Q001",
+          "type": "multiple_choice",
+          "text": "Apa yang dimaksud puasa sunah?",
+          "options": [
+            "Puasa yang dianjurkan dalam Islam",
+            "Puasa wajib setiap hari",
+            "Puasa yang dilarang",
+            "Puasa tanpa niat"
+          ],
+          "answer": "Puasa yang dianjurkan dalam Islam",
+          "discussion": "Puasa sunah dianjurkan; pelakunya mendapat pahala dan yang meninggalkannya tidak berdosa."
+        },
+        {
+          "id": "PAI-B09-Q002",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengamalkan Puasa Sunah” terkait hal berikut: apa yang dimaksud puasa sunah?",
+          "options": [
+            "Puasa tanpa niat",
+            "Puasa yang dianjurkan dalam Islam",
+            "Puasa wajib setiap hari",
+            "Puasa yang dilarang"
+          ],
+          "answer": "Puasa yang dianjurkan dalam Islam",
+          "discussion": "Puasa sunah dianjurkan; pelakunya mendapat pahala dan yang meninggalkannya tidak berdosa."
+        },
+        {
+          "id": "PAI-B09-Q003",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengamalkan Puasa Sunah” untuk pertanyaan “Apa yang dimaksud puasa sunah?” adalah ...",
+          "options": [
+            "Puasa yang dilarang",
+            "Puasa tanpa niat",
+            "Puasa yang dianjurkan dalam Islam",
+            "Puasa wajib setiap hari"
+          ],
+          "answer": "Puasa yang dianjurkan dalam Islam",
+          "discussion": "Puasa sunah dianjurkan; pelakunya mendapat pahala dan yang meninggalkannya tidak berdosa."
+        },
+        {
+          "id": "PAI-B09-Q004",
+          "type": "multiple_choice",
+          "text": "Kapan puasa Senin dan Kamis dilakukan?",
+          "options": [
+            "Hanya hari Minggu",
+            "Tanggal 1 setiap bulan",
+            "Setiap hari Senin dan Kamis",
+            "Setiap Selasa dan Jumat"
+          ],
+          "answer": "Setiap hari Senin dan Kamis",
+          "discussion": "Puasa ini dilakukan pada hari Senin dan Kamis."
+        },
+        {
+          "id": "PAI-B09-Q005",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengamalkan Puasa Sunah” terkait hal berikut: kapan puasa Senin dan Kamis dilakukan?",
+          "options": [
+            "Setiap Selasa dan Jumat",
+            "Hanya hari Minggu",
+            "Tanggal 1 setiap bulan",
+            "Setiap hari Senin dan Kamis"
+          ],
+          "answer": "Setiap hari Senin dan Kamis",
+          "discussion": "Puasa ini dilakukan pada hari Senin dan Kamis."
+        },
+        {
+          "id": "PAI-B09-Q006",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengamalkan Puasa Sunah” untuk pertanyaan “Kapan puasa Senin dan Kamis dilakukan?” adalah ...",
+          "options": [
+            "Setiap hari Senin dan Kamis",
+            "Setiap Selasa dan Jumat",
+            "Hanya hari Minggu",
+            "Tanggal 1 setiap bulan"
+          ],
+          "answer": "Setiap hari Senin dan Kamis",
+          "discussion": "Puasa ini dilakukan pada hari Senin dan Kamis."
+        },
+        {
+          "id": "PAI-B09-Q007",
+          "type": "multiple_choice",
+          "text": "Kapan Ayyāmul Bīḍ dilaksanakan?",
+          "options": [
+            "Tanggal 13, 14, dan 15 bulan Hijriah",
+            "Tanggal 1, 2, dan 3",
+            "Tanggal 27, 28, dan 29",
+            "Tanggal 9, 10, dan 11"
+          ],
+          "answer": "Tanggal 13, 14, dan 15 bulan Hijriah",
+          "discussion": "Ayyāmul Bīḍ dilaksanakan pada tanggal 13, 14, dan 15 setiap bulan Hijriah."
+        },
+        {
+          "id": "PAI-B09-Q008",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengamalkan Puasa Sunah” terkait hal berikut: kapan Ayyāmul Bīḍ dilaksanakan?",
+          "options": [
+            "Tanggal 9, 10, dan 11",
+            "Tanggal 13, 14, dan 15 bulan Hijriah",
+            "Tanggal 1, 2, dan 3",
+            "Tanggal 27, 28, dan 29"
+          ],
+          "answer": "Tanggal 13, 14, dan 15 bulan Hijriah",
+          "discussion": "Ayyāmul Bīḍ dilaksanakan pada tanggal 13, 14, dan 15 setiap bulan Hijriah."
+        },
+        {
+          "id": "PAI-B09-Q009",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengamalkan Puasa Sunah” untuk pertanyaan “Kapan Ayyāmul Bīḍ dilaksanakan?” adalah ...",
+          "options": [
+            "Tanggal 27, 28, dan 29",
+            "Tanggal 9, 10, dan 11",
+            "Tanggal 13, 14, dan 15 bulan Hijriah",
+            "Tanggal 1, 2, dan 3"
+          ],
+          "answer": "Tanggal 13, 14, dan 15 bulan Hijriah",
+          "discussion": "Ayyāmul Bīḍ dilaksanakan pada tanggal 13, 14, dan 15 setiap bulan Hijriah."
+        },
+        {
+          "id": "PAI-B09-Q010",
+          "type": "multiple_choice",
+          "text": "Kapan puasa Arafah dilakukan?",
+          "options": [
+            "Tanggal 10 Muharam",
+            "Tanggal 13 Ramadan",
+            "Tanggal 9 Zulhijah",
+            "Tanggal 1 Syawal"
+          ],
+          "answer": "Tanggal 9 Zulhijah",
+          "discussion": "Puasa Arafah dilakukan pada 9 Zulhijah bagi yang tidak sedang berhaji."
+        },
+        {
+          "id": "PAI-B09-Q011",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengamalkan Puasa Sunah” terkait hal berikut: kapan puasa Arafah dilakukan?",
+          "options": [
+            "Tanggal 1 Syawal",
+            "Tanggal 10 Muharam",
+            "Tanggal 13 Ramadan",
+            "Tanggal 9 Zulhijah"
+          ],
+          "answer": "Tanggal 9 Zulhijah",
+          "discussion": "Puasa Arafah dilakukan pada 9 Zulhijah bagi yang tidak sedang berhaji."
+        },
+        {
+          "id": "PAI-B09-Q012",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengamalkan Puasa Sunah” untuk pertanyaan “Kapan puasa Arafah dilakukan?” adalah ...",
+          "options": [
+            "Tanggal 9 Zulhijah",
+            "Tanggal 1 Syawal",
+            "Tanggal 10 Muharam",
+            "Tanggal 13 Ramadan"
+          ],
+          "answer": "Tanggal 9 Zulhijah",
+          "discussion": "Puasa Arafah dilakukan pada 9 Zulhijah bagi yang tidak sedang berhaji."
+        },
+        {
+          "id": "PAI-B09-Q013",
+          "type": "multiple_choice",
+          "text": "Kapan puasa Asyura dilakukan?",
+          "options": [
+            "Tanggal 10 Muharam",
+            "Tanggal 10 Syawal",
+            "Tanggal 9 Zulhijah",
+            "Tanggal 1 Ramadan"
+          ],
+          "answer": "Tanggal 10 Muharam",
+          "discussion": "Puasa Asyura dilakukan pada 10 Muharam."
+        },
+        {
+          "id": "PAI-B09-Q014",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengamalkan Puasa Sunah” terkait hal berikut: kapan puasa Asyura dilakukan?",
+          "options": [
+            "Tanggal 1 Ramadan",
+            "Tanggal 10 Muharam",
+            "Tanggal 10 Syawal",
+            "Tanggal 9 Zulhijah"
+          ],
+          "answer": "Tanggal 10 Muharam",
+          "discussion": "Puasa Asyura dilakukan pada 10 Muharam."
+        },
+        {
+          "id": "PAI-B09-Q015",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengamalkan Puasa Sunah” untuk pertanyaan “Kapan puasa Asyura dilakukan?” adalah ...",
+          "options": [
+            "Tanggal 9 Zulhijah",
+            "Tanggal 1 Ramadan",
+            "Tanggal 10 Muharam",
+            "Tanggal 10 Syawal"
+          ],
+          "answer": "Tanggal 10 Muharam",
+          "discussion": "Puasa Asyura dilakukan pada 10 Muharam."
+        },
+        {
+          "id": "PAI-B09-Q016",
+          "type": "multiple_choice",
+          "text": "Kapan puasa Syawal dilakukan?",
+          "options": [
+            "Tiga hari pada Zulhijah",
+            "Setiap hari pada Muharam",
+            "Enam hari pada bulan Syawal",
+            "Enam hari pada Ramadan"
+          ],
+          "answer": "Enam hari pada bulan Syawal",
+          "discussion": "Puasa Syawal dilakukan enam hari pada bulan Syawal."
+        },
+        {
+          "id": "PAI-B09-Q017",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengamalkan Puasa Sunah” terkait hal berikut: kapan puasa Syawal dilakukan?",
+          "options": [
+            "Enam hari pada Ramadan",
+            "Tiga hari pada Zulhijah",
+            "Setiap hari pada Muharam",
+            "Enam hari pada bulan Syawal"
+          ],
+          "answer": "Enam hari pada bulan Syawal",
+          "discussion": "Puasa Syawal dilakukan enam hari pada bulan Syawal."
+        },
+        {
+          "id": "PAI-B09-Q018",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengamalkan Puasa Sunah” untuk pertanyaan “Kapan puasa Syawal dilakukan?” adalah ...",
+          "options": [
+            "Enam hari pada bulan Syawal",
+            "Enam hari pada Ramadan",
+            "Tiga hari pada Zulhijah",
+            "Setiap hari pada Muharam"
+          ],
+          "answer": "Enam hari pada bulan Syawal",
+          "discussion": "Puasa Syawal dilakukan enam hari pada bulan Syawal."
+        },
+        {
+          "id": "PAI-B09-Q019",
+          "type": "multiple_choice",
+          "text": "Kapan waktu menahan diri dalam puasa?",
+          "options": [
+            "Sejak terbit fajar hingga terbenam matahari",
+            "Sejak tengah malam hingga subuh",
+            "Sejak zuhur hingga isya",
+            "Sepanjang dua hari"
+          ],
+          "answer": "Sejak terbit fajar hingga terbenam matahari",
+          "discussion": "Puasa dilakukan dari terbit fajar sampai terbenam matahari."
+        },
+        {
+          "id": "PAI-B09-Q020",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengamalkan Puasa Sunah” terkait hal berikut: kapan waktu menahan diri dalam puasa?",
+          "options": [
+            "Sepanjang dua hari",
+            "Sejak terbit fajar hingga terbenam matahari",
+            "Sejak tengah malam hingga subuh",
+            "Sejak zuhur hingga isya"
+          ],
+          "answer": "Sejak terbit fajar hingga terbenam matahari",
+          "discussion": "Puasa dilakukan dari terbit fajar sampai terbenam matahari."
+        },
+        {
+          "id": "PAI-B09-Q021",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengamalkan Puasa Sunah” untuk pertanyaan “Kapan waktu menahan diri dalam puasa?” adalah ...",
+          "options": [
+            "Sejak zuhur hingga isya",
+            "Sepanjang dua hari",
+            "Sejak terbit fajar hingga terbenam matahari",
+            "Sejak tengah malam hingga subuh"
+          ],
+          "answer": "Sejak terbit fajar hingga terbenam matahari",
+          "discussion": "Puasa dilakukan dari terbit fajar sampai terbenam matahari."
+        },
+        {
+          "id": "PAI-B09-Q022",
+          "type": "multiple_choice",
+          "text": "Apa yang membatalkan puasa menurut materi buku?",
+          "options": [
+            "Mandi",
+            "Membaca buku",
+            "Makan dan minum dengan sengaja",
+            "Tidur siang"
+          ],
+          "answer": "Makan dan minum dengan sengaja",
+          "discussion": "Makan dan minum dengan sengaja termasuk hal yang membatalkan puasa."
+        },
+        {
+          "id": "PAI-B09-Q023",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengamalkan Puasa Sunah” terkait hal berikut: apa yang membatalkan puasa menurut materi buku?",
+          "options": [
+            "Tidur siang",
+            "Mandi",
+            "Membaca buku",
+            "Makan dan minum dengan sengaja"
+          ],
+          "answer": "Makan dan minum dengan sengaja",
+          "discussion": "Makan dan minum dengan sengaja termasuk hal yang membatalkan puasa."
+        },
+        {
+          "id": "PAI-B09-Q024",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengamalkan Puasa Sunah” untuk pertanyaan “Apa yang membatalkan puasa menurut materi buku?” adalah ...",
+          "options": [
+            "Makan dan minum dengan sengaja",
+            "Tidur siang",
+            "Mandi",
+            "Membaca buku"
+          ],
+          "answer": "Makan dan minum dengan sengaja",
+          "discussion": "Makan dan minum dengan sengaja termasuk hal yang membatalkan puasa."
+        },
+        {
+          "id": "PAI-B09-Q025",
+          "type": "multiple_choice",
+          "text": "Apa hikmah puasa sunah?",
+          "options": [
+            "Melatih sabar dan pengendalian diri",
+            "Melatih kesombongan",
+            "Meremehkan sesama",
+            "Menghindari tanggung jawab"
+          ],
+          "answer": "Melatih sabar dan pengendalian diri",
+          "discussion": "Puasa melatih kesabaran, disiplin, dan pengendalian diri."
+        },
+        {
+          "id": "PAI-B09-Q026",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengamalkan Puasa Sunah” terkait hal berikut: apa hikmah puasa sunah?",
+          "options": [
+            "Menghindari tanggung jawab",
+            "Melatih sabar dan pengendalian diri",
+            "Melatih kesombongan",
+            "Meremehkan sesama"
+          ],
+          "answer": "Melatih sabar dan pengendalian diri",
+          "discussion": "Puasa melatih kesabaran, disiplin, dan pengendalian diri."
+        },
+        {
+          "id": "PAI-B09-Q027",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengamalkan Puasa Sunah” untuk pertanyaan “Apa hikmah puasa sunah?” adalah ...",
+          "options": [
+            "Meremehkan sesama",
+            "Menghindari tanggung jawab",
+            "Melatih sabar dan pengendalian diri",
+            "Melatih kesombongan"
+          ],
+          "answer": "Melatih sabar dan pengendalian diri",
+          "discussion": "Puasa melatih kesabaran, disiplin, dan pengendalian diri."
+        },
+        {
+          "id": "PAI-B09-Q028",
+          "type": "multiple_choice",
+          "text": "Bagaimana tata cara puasa sunah dibanding puasa Ramadan?",
+          "options": [
+            "Tidak memiliki waktu mulai dan akhir",
+            "Harus dilakukan dua hari penuh",
+            "Pada dasarnya sama, terutama berbeda pada niat",
+            "Tidak perlu menahan diri"
+          ],
+          "answer": "Pada dasarnya sama, terutama berbeda pada niat",
+          "discussion": "Tata cara puasa sunah pada dasarnya sama seperti puasa Ramadan."
+        },
+        {
+          "id": "PAI-B09-Q029",
+          "type": "multiple_choice",
+          "text": "Dalam kehidupan sehari-hari, bagaimana penerapan atau contoh yang sesuai dengan materi “Mengamalkan Puasa Sunah” terkait hal berikut: bagaimana tata cara puasa sunah dibanding puasa Ramadan?",
+          "options": [
+            "Tidak perlu menahan diri",
+            "Tidak memiliki waktu mulai dan akhir",
+            "Harus dilakukan dua hari penuh",
+            "Pada dasarnya sama, terutama berbeda pada niat"
+          ],
+          "answer": "Pada dasarnya sama, terutama berbeda pada niat",
+          "discussion": "Tata cara puasa sunah pada dasarnya sama seperti puasa Ramadan."
+        },
+        {
+          "id": "PAI-B09-Q030",
+          "type": "multiple_choice",
+          "text": "Kesimpulan yang tepat dari pembahasan “Mengamalkan Puasa Sunah” untuk pertanyaan “Bagaimana tata cara puasa sunah dibanding puasa Ramadan?” adalah ...",
+          "options": [
+            "Pada dasarnya sama, terutama berbeda pada niat",
+            "Tidak perlu menahan diri",
+            "Tidak memiliki waktu mulai dan akhir",
+            "Harus dilakukan dua hari penuh"
+          ],
+          "answer": "Pada dasarnya sama, terutama berbeda pada niat",
+          "discussion": "Tata cara puasa sunah pada dasarnya sama seperti puasa Ramadan."
+        }
+      ]
+    }
+  ]
+}
