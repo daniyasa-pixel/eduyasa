@@ -71,7 +71,12 @@
             "Reptiles"
           ],
           "answer": "Birds",
-          "discussion": "An eagle belongs to the bird group. Birds have feathers and beaks."
+          "discussion": "An eagle belongs to the bird group. Birds have feathers and beaks.",
+          "audio": {
+            "type": "speech",
+            "text": "Eagle",
+            "label": "▶ LISTEN"
+          }
         },
         {
           "id": "ENG-B03-006",
@@ -680,9 +685,9 @@
           "answer": "A cat",
           "discussion": "The sound is a short simulated cat meow. The correct animal is a cat.",
           "audio": {
-            "type": "speech",
-            "text": "Crocodile",
-            "label": "▶ LISTEN"
+            "type": "animal",
+            "sound": "cat",
+            "label": "▶ PLAY CAT SOUND"
           }
         },
         {
