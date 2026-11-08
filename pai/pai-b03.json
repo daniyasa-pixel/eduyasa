@@ -266,7 +266,11 @@
             "Berbicara baik-baik, saling mendengarkan, dan mencari penyelesaian"
           ],
           "answer": "Berbicara baik-baik, saling mendengarkan, dan mencari penyelesaian",
-          "discussion": "Komunikasi baik dan sikap saling memahami membantu memulihkan hubungan."
+          "discussion": "Komunikasi baik dan sikap saling memahami membantu memulihkan hubungan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q03-forgiveness.svg",
+            "alt": "Ilustrasi dua anak saling memaafkan"
+          }
         },
         {
           "id": "PAI-B03-Q021",
@@ -370,7 +374,11 @@
             "Menanggapinya dengan tenang tanpa mempermalukan orang tersebut"
           ],
           "answer": "Menanggapinya dengan tenang tanpa mempermalukan orang tersebut",
-          "discussion": "Adab memberi maaf menjaga martabat orang yang meminta maaf."
+          "discussion": "Adab memberi maaf menjaga martabat orang yang meminta maaf.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q03-forgiveness.svg",
+            "alt": "Ilustrasi meminta maaf dan berdamai"
+          }
         },
         {
           "id": "PAI-B03-Q029",
