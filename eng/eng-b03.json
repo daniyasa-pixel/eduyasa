@@ -687,42 +687,6 @@
             "text": "Elephant",
             "label": "▶ PLAY WORD"
           }
-        },
-        {
-          "id": "ENG-B03-051",
-          "type": "PG",
-          "text": "Listen to the English word. Which animal is it?",
-          "options": [
-            "Koi fish",
-            "Salamander",
-            "Crocodile",
-            "Duck"
-          ],
-          "answer": "Crocodile",
-          "discussion": "The audio pronounces the word crocodile. A crocodile is a reptile.",
-          "audio": {
-            "type": "speech",
-            "text": "Crocodile",
-            "label": "▶ PLAY WORD"
-          }
-        },
-        {
-          "id": "ENG-B03-052",
-          "type": "PG",
-          "text": "Listen to the English word. Which animal group is it?",
-          "options": [
-            "Mammals",
-            "Birds",
-            "Fish",
-            "Amphibians"
-          ],
-          "answer": "Amphibians",
-          "discussion": "The audio pronounces amphibians, the group that includes frogs and salamanders.",
-          "audio": {
-            "type": "speech",
-            "text": "Amphibians",
-            "label": "▶ PLAY WORD"
-          }
         }
       ]
     }
