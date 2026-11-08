@@ -46,7 +46,7 @@
         {
           "id": "ENG-B04-003",
           "type": "PG",
-          "text": "A friend closes their eyes while another hides. Which game is this?",
+          "text": "Which sentence correctly describes the game in the clue?",
           "options": [
             "We play hide and seek after school.",
             "We draw a hopscotch court before playing.",
@@ -80,7 +80,7 @@
         {
           "id": "ENG-B04-005",
           "type": "PG",
-          "text": "Your friends are hiding behind trees. What game are you playing?",
+          "text": "Your friends are hiding behind trees. Which sentence tells what game you are playing?",
           "options": [
             "We play hide and seek after school.",
             "In tag, one player chases and tries to touch another player.",
@@ -127,7 +127,7 @@
         {
           "id": "ENG-B04-008",
           "type": "PG",
-          "text": "Players draw numbered squares on the ground. Which game is this?",
+          "text": "Which sentence explains how players take part in this game?",
           "options": [
             "We draw a hopscotch court before playing.",
             "In jump rope, one or more players jump over a swinging rope.",
@@ -153,7 +153,7 @@
         {
           "id": "ENG-B04-010",
           "type": "PG",
-          "text": "You throw a marker and hop through numbered squares. What game is this?",
+          "text": "You are playing on a court with squares. Which sentence describes your game?",
           "options": [
             "We draw a hopscotch court before playing.",
             "Jump means to move off the ground using your legs.",
@@ -193,7 +193,7 @@
         {
           "id": "ENG-B04-013",
           "type": "PG",
-          "text": "Two friends turn a rope while another jumps. Which game is this?",
+          "text": "Which sentence describes the activity shown in the clue?",
           "options": [
             "In jump rope, one or more players jump over a swinging rope.",
             "In tag, one player chases and tries to touch another player.",
@@ -219,7 +219,7 @@
         {
           "id": "ENG-B04-015",
           "type": "PG",
-          "text": "You jump over a rope held by your friends. What game are you playing?",
+          "text": "Your friend holds a rope while you jump. Which sentence describes the game?",
           "options": [
             "Jump means to move off the ground using your legs.",
             "In jump rope, one or more players jump over a swinging rope.",
@@ -258,7 +258,7 @@
         {
           "id": "ENG-B04-018",
           "type": "PG",
-          "text": "One player wears something over the eyes. Which game is this?",
+          "text": "Which sentence tells what happens in this game?",
           "options": [
             "We play hide and seek after school.",
             "In blindfold tag, one player wears a blindfold and tries to catch another player.",
@@ -285,7 +285,7 @@
         {
           "id": "ENG-B04-020",
           "type": "PG",
-          "text": "Your classmate wears a blindfold during a chasing game. What game is this?",
+          "text": "A player wears a blindfold during the game. Which sentence explains the activity?",
           "options": [
             "We play hide and seek after school.",
             "In blindfold tag, one player wears a blindfold and tries to catch another player.",
@@ -324,7 +324,7 @@
         {
           "id": "ENG-B04-023",
           "type": "PG",
-          "text": "One player chases another and tries to touch them. Which game is this?",
+          "text": "Which sentence gives a clear description of this chasing game?",
           "options": [
             "We draw a hopscotch court before playing.",
             "In tag, one player chases and tries to touch another player.",
@@ -350,7 +350,7 @@
         {
           "id": "ENG-B04-025",
           "type": "PG",
-          "text": "You run after your friend and try to touch their shoulder. What game is this?",
+          "text": "You chase a friend and gently touch their shoulder. Which sentence describes the game?",
           "options": [
             "We draw a hopscotch court before playing.",
             "In tag, one player chases and tries to touch another player.",
@@ -389,7 +389,7 @@
         {
           "id": "ENG-B04-028",
           "type": "PG",
-          "text": "Which action moves your body off the ground using your legs?",
+          "text": "Which sentence explains the movement described?",
           "options": [
             "In blindfold tag, one player wears a blindfold and tries to catch another player.",
             "In jump rope, one or more players jump over a swinging rope.",
@@ -416,7 +416,7 @@
         {
           "id": "ENG-B04-030",
           "type": "PG",
-          "text": "Complete the instruction: '___ over the line!'",
+          "text": "The teacher asks you to move over a line. Which sentence explains the action?",
           "options": [
             "In jump rope, one or more players jump over a swinging rope.",
             "In blindfold tag, one player wears a blindfold and tries to catch another player.",
@@ -455,7 +455,7 @@
         {
           "id": "ENG-B04-033",
           "type": "PG",
-          "text": "Which action means jumping on one foot?",
+          "text": "Which sentence tells how the player moves?",
           "options": [
             "We play hide and seek after school.",
             "We draw a hopscotch court before playing.",
@@ -481,7 +481,7 @@
         {
           "id": "ENG-B04-035",
           "type": "PG",
-          "text": "You move forward with little jumps on one foot. What do you do?",
+          "text": "You move forward by jumping on one foot. Which sentence describes your movement?",
           "options": [
             "In blindfold tag, one player wears a blindfold and tries to catch another player.",
             "In tag, one player chases and tries to touch another player.",
@@ -521,7 +521,7 @@
         {
           "id": "ENG-B04-038",
           "type": "PG",
-          "text": "Which action means moving something back and forth?",
+          "text": "Which sentence describes what the children do with the rope?",
           "options": [
             "We draw a hopscotch court before playing.",
             "In jump rope, one or more players jump over a swinging rope.",
@@ -547,7 +547,7 @@
         {
           "id": "ENG-B04-040",
           "type": "PG",
-          "text": "The children move the rope in a smooth motion. Which verb describes it?",
+          "text": "Your friends move a rope back and forth for you. Which sentence describes their action?",
           "options": [
             "Hop means to move by jumping on one foot.",
             "In tag, one player chases and tries to touch another player.",
@@ -586,7 +586,7 @@
         {
           "id": "ENG-B04-043",
           "type": "PG",
-          "text": "Which action sends an object through the air using your hand?",
+          "text": "Which sentence gives the correct instruction for the token?",
           "options": [
             "In jump rope, one or more players jump over a swinging rope.",
             "In tag, one player chases and tries to touch another player.",
@@ -612,7 +612,7 @@
         {
           "id": "ENG-B04-045",
           "type": "PG",
-          "text": "Complete: '___ the ball to your partner.'",
+          "text": "You are about to send a token onto a square. Which sentence gives the instruction?",
           "options": [
             "We play hide and seek after school.",
             "We draw a hopscotch court before playing.",
@@ -652,7 +652,7 @@
         {
           "id": "ENG-B04-048",
           "type": "PG",
-          "text": "Which word introduces the beginning of instructions?",
+          "text": "Which sentence correctly starts the set of game instructions?",
           "options": [
             "In jump rope, one or more players jump over a swinging rope.",
             "We play hide and seek after school.",
@@ -678,7 +678,7 @@
         {
           "id": "ENG-B04-050",
           "type": "PG",
-          "text": "Complete: '___, draw the hopscotch court. Next, throw the token.'",
+          "text": "You are explaining the first step of hopscotch. Which sentence should you say?",
           "options": [
             "We draw a hopscotch court before playing.",
             "In jump rope, one or more players jump over a swinging rope.",
