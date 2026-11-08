@@ -13,8 +13,8 @@
           "type": "PG",
           "text": "Organ tubuh yang menjadi tempat utama keluar dan masuknya udara saat kita bernapas adalah ....",
           "options": [
-            "Mulut dan telinga",
             "Hidung",
+            "Mulut dan telinga",
             "Lambung",
             "Kerongkongan"
           ],
@@ -27,8 +27,8 @@
           "text": "Bulu-bulu halus di dalam rongga hidung berfungsi untuk ....",
           "options": [
             "Memompa udara ke paru-paru",
-            "Menghasilkan oksigen",
             "Membantu menyaring debu dan kotoran",
+            "Menghasilkan oksigen",
             "Mengubah karbon dioksida menjadi oksigen"
           ],
           "answer": "Membantu menyaring debu dan kotoran",
@@ -39,9 +39,9 @@
           "type": "PG",
           "text": "Organ yang menjadi tempat pertukaran gas oksigen dan karbon dioksida adalah ....",
           "options": [
-            "Alveoli",
             "Hidung",
             "Laring",
+            "Alveoli",
             "Trakea"
           ],
           "answer": "Alveoli",
@@ -79,8 +79,8 @@
           "text": "Proses menarik udara masuk ke dalam tubuh disebut ....",
           "options": [
             "Pencernaan",
-            "Ekspirasi",
             "Inspirasi",
+            "Ekspirasi",
             "Ekskresi"
           ],
           "answer": "Inspirasi",
@@ -92,8 +92,8 @@
           "text": "Proses mengembuskan udara keluar dari tubuh disebut ....",
           "options": [
             "Inspirasi",
-            "Ekspirasi",
             "Peredaran darah",
+            "Ekspirasi",
             "Penyerapan"
           ],
           "answer": "Ekspirasi",
@@ -131,8 +131,8 @@
           "text": "Kegiatan yang baik untuk membantu menjaga kesehatan paru-paru adalah ....",
           "options": [
             "Membakar sampah setiap hari",
-            "Menghirup asap kendaraan",
             "Berolahraga secara teratur",
+            "Menghirup asap kendaraan",
             "Berada di ruangan penuh asap"
           ],
           "answer": "Berolahraga secara teratur",
@@ -144,8 +144,8 @@
           "text": "Urutan jalannya udara yang benar setelah melewati rongga hidung adalah ....",
           "options": [
             "Trakea – faring – laring – bronkus – alveoli",
-            "Faring – laring – trakea – bronkus – bronkiolus – alveoli",
             "Laring – bronkus – faring – trakea – alveoli",
+            "Faring – laring – trakea – bronkus – bronkiolus – alveoli",
             "Bronkus – trakea – laring – faring – alveoli"
           ],
           "answer": "Faring – laring – trakea – bronkus – bronkiolus – alveoli",
@@ -169,9 +169,9 @@
           "type": "PG",
           "text": "Mengapa udara yang masuk melalui hidung dapat menjadi lebih bersih sebelum menuju paru-paru?",
           "options": [
+            "Karena bulu hidung dan lendir membantu menyaring kotoran",
             "Karena hidung menghasilkan oksigen",
             "Karena hidung mengubah semua gas berbahaya",
-            "Karena bulu hidung dan lendir membantu menyaring kotoran",
             "Karena hidung membunuh semua mikroorganisme"
           ],
           "answer": "Karena bulu hidung dan lendir membantu menyaring kotoran",
@@ -182,8 +182,8 @@
           "type": "PG",
           "text": "Fungsi utama trakea dalam sistem pernapasan adalah ....",
           "options": [
-            "Menyalurkan udara menuju bronkus",
             "Menyerap oksigen ke dalam darah",
+            "Menyalurkan udara menuju bronkus",
             "Memompa darah ke seluruh tubuh",
             "Menghasilkan karbon dioksida"
           ],
@@ -196,8 +196,8 @@
           "text": "Ketika seseorang menarik napas, diafragma akan ....",
           "options": [
             "Mengendur dan bergerak naik",
-            "Berkontraksi dan bergerak turun",
             "Berhenti bergerak",
+            "Berkontraksi dan bergerak turun",
             "Menutup saluran pernapasan"
           ],
           "answer": "Berkontraksi dan bergerak turun",
@@ -221,9 +221,9 @@
           "type": "PG",
           "text": "Saat mengembuskan napas secara normal, diafragma akan ....",
           "options": [
+            "Relaksasi dan naik",
             "Berkontraksi dan turun",
             "Berkontraksi dan naik",
-            "Relaksasi dan naik",
             "Menghilang dari rongga dada"
           ],
           "answer": "Relaksasi dan naik",
@@ -234,8 +234,8 @@
           "type": "PG",
           "text": "Gas yang dibutuhkan tubuh untuk membantu proses menghasilkan energi di dalam sel adalah ....",
           "options": [
-            "Oksigen",
             "Karbon dioksida",
+            "Oksigen",
             "Asap",
             "Uap air"
           ],
@@ -248,8 +248,8 @@
           "text": "Setelah oksigen masuk ke alveoli, oksigen akan ....",
           "options": [
             "Langsung berubah menjadi makanan",
-            "Diserap oleh darah dan diedarkan ke seluruh tubuh",
             "Dikeluarkan kembali seluruhnya melalui hidung",
+            "Diserap oleh darah dan diedarkan ke seluruh tubuh",
             "Disimpan di dalam lambung"
           ],
           "answer": "Diserap oleh darah dan diedarkan ke seluruh tubuh",
@@ -287,8 +287,8 @@
           "text": "Tuberkulosis atau TBC merupakan penyakit pernapasan yang disebabkan oleh ....",
           "options": [
             "Jamur pada kulit",
-            "Virus influenza",
             "Bakteri",
+            "Virus influenza",
             "Kekurangan vitamin"
           ],
           "answer": "Bakteri",
@@ -300,8 +300,8 @@
           "text": "Penyakit pneumonia berkaitan dengan gangguan atau peradangan pada ....",
           "options": [
             "Lambung",
-            "Alveoli di paru-paru",
             "Tulang belakang",
+            "Alveoli di paru-paru",
             "Usus halus"
           ],
           "answer": "Alveoli di paru-paru",
@@ -364,10 +364,10 @@
           "type": "PG",
           "text": "Seseorang tinggal di rumah yang lembap dan berdebu. Kondisi tersebut perlu diperbaiki karena ....",
           "options": [
-            "Dapat meningkatkan paparan debu dan mikroorganisme",
             "Membuat oksigen berubah menjadi karbon dioksida",
             "Membuat paru-paru tidak membutuhkan udara",
-            "Menghentikan kerja diafragma"
+            "Menghentikan kerja diafragma",
+            "Dapat meningkatkan paparan debu dan mikroorganisme"
           ],
           "answer": "Dapat meningkatkan paparan debu dan mikroorganisme",
           "discussion": "Jawaban yang benar adalah Dapat meningkatkan paparan debu dan mikroorganisme."
@@ -377,10 +377,10 @@
           "type": "PG",
           "text": "Mengapa orang yang tidak merokok tetap perlu menghindari asap rokok?",
           "options": [
+            "Karena asap rokok juga dapat membahayakan orang yang menghirupnya",
             "Karena asap rokok hanya berbahaya bagi anak-anak",
             "Karena asap rokok dapat berubah menjadi oksigen",
-            "Karena asap rokok hanya mengganggu penciuman",
-            "Karena asap rokok juga dapat membahayakan orang yang menghirupnya"
+            "Karena asap rokok hanya mengganggu penciuman"
           ],
           "answer": "Karena asap rokok juga dapat membahayakan orang yang menghirupnya",
           "discussion": "Jawaban yang benar adalah Karena asap rokok juga dapat membahayakan orang yang menghirupnya."
@@ -416,10 +416,10 @@
           "type": "PG",
           "text": "Salah satu faktor yang dapat memengaruhi kapasitas paru-paru adalah ....",
           "options": [
-            "Aktivitas fisik",
             "Warna rambut",
             "Bentuk kuku",
-            "Panjang telinga"
+            "Panjang telinga",
+            "Aktivitas fisik"
           ],
           "answer": "Aktivitas fisik",
           "discussion": "Jawaban yang benar adalah Aktivitas fisik."
@@ -429,10 +429,10 @@
           "type": "PG",
           "text": "Mengapa menjaga kebersihan rumah dapat membantu menjaga kesehatan pernapasan?",
           "options": [
+            "Karena dapat mengurangi debu dan sumber gangguan pernapasan",
             "Karena rumah bersih membuat manusia tidak perlu bernapas",
             "Karena rumah bersih menghilangkan kebutuhan oksigen",
-            "Karena rumah bersih membuat semua penyakit pasti sembuh",
-            "Karena dapat mengurangi debu dan sumber gangguan pernapasan"
+            "Karena rumah bersih membuat semua penyakit pasti sembuh"
           ],
           "answer": "Karena dapat mengurangi debu dan sumber gangguan pernapasan",
           "discussion": "Jawaban yang benar adalah Karena dapat mengurangi debu dan sumber gangguan pernapasan."
@@ -468,10 +468,10 @@
           "type": "PG",
           "text": "Rani menarik napas dalam-dalam. Pada saat itu, diafragma berkontraksi dan bergerak turun. Perubahan yang terjadi pada rongga dadanya adalah ....",
           "options": [
-            "Rongga dada membesar sehingga udara masuk",
             "Rongga dada mengecil sehingga udara keluar",
             "Rongga dada tidak mengalami perubahan",
-            "Paru-paru berhenti mengembang"
+            "Paru-paru berhenti mengembang",
+            "Rongga dada membesar sehingga udara masuk"
           ],
           "answer": "Rongga dada membesar sehingga udara masuk",
           "discussion": "Jawaban yang benar adalah Rongga dada membesar sehingga udara masuk."
@@ -481,8 +481,8 @@
           "type": "PG",
           "text": "Perhatikan urutan organ berikut!\n\n1. Bronkus\n2. Hidung\n3. Alveoli\n4. Trakea\n5. Faring\n6. Bronkiolus\n7. Laring\n\nUrutan perjalanan udara yang benar adalah ....",
           "options": [
-            "2–7–5–4–1–6–3",
             "2–5–7–4–1–6–3",
+            "2–7–5–4–1–6–3",
             "5–2–7–1–4–3–6",
             "2–5–4–7–6–1–3"
           ],
@@ -495,9 +495,9 @@
           "text": "Banu mengamati model paru-paru dari botol, dua balon kecil, dan lembar karet di bagian bawah botol. Ketika lembar karet ditarik ke bawah, balon di dalam botol mengembang. Peristiwa ini menggambarkan ....",
           "options": [
             "Ekspirasi karena rongga dada mengecil",
+            "Inspirasi karena volume rongga dada membesar",
             "Pencernaan karena makanan masuk",
-            "Peredaran darah karena jantung memompa",
-            "Inspirasi karena volume rongga dada membesar"
+            "Peredaran darah karena jantung memompa"
           ],
           "answer": "Inspirasi karena volume rongga dada membesar",
           "discussion": "Jawaban yang benar adalah Inspirasi karena volume rongga dada membesar."
@@ -507,9 +507,9 @@
           "type": "PG",
           "text": "Mengapa alveoli cocok menjadi tempat pertukaran oksigen dan karbon dioksida?",
           "options": [
-            "Karena alveoli memiliki dinding tipis dan dikelilingi pembuluh darah",
             "Karena alveoli tersusun dari tulang yang kuat",
             "Karena alveoli menghasilkan makanan",
+            "Karena alveoli memiliki dinding tipis dan dikelilingi pembuluh darah",
             "Karena alveoli menggerakkan diafragma"
           ],
           "answer": "Karena alveoli memiliki dinding tipis dan dikelilingi pembuluh darah",
@@ -522,8 +522,8 @@
           "options": [
             "Penyaringan makanan di lambung",
             "Pengiriman suara dari telinga",
-            "Pertukaran oksigen dan karbon dioksida",
-            "Gerakan tulang kaki"
+            "Gerakan tulang kaki",
+            "Pertukaran oksigen dan karbon dioksida"
           ],
           "answer": "Pertukaran oksigen dan karbon dioksida",
           "discussion": "Jawaban yang benar adalah Pertukaran oksigen dan karbon dioksida."
@@ -533,8 +533,8 @@
           "type": "PG",
           "text": "Dika mengalami batuk dan sesak setelah terpapar debu. Ia memiliki riwayat asma. Kesimpulan yang paling tepat adalah ....",
           "options": [
-            "Debu pasti menyebabkan TBC",
             "Debu dapat menjadi pemicu gejala asma pada sebagian orang",
+            "Debu pasti menyebabkan TBC",
             "Semua orang yang batuk pasti menderita asma",
             "Asma hanya disebabkan oleh bakteri"
           ],
@@ -547,9 +547,9 @@
           "text": "Di suatu lingkungan, banyak warga membakar sampah setiap sore. Tindakan bersama yang paling tepat untuk mengurangi risiko gangguan pernapasan adalah ....",
           "options": [
             "Membakar sampah lebih malam",
+            "Mengurangi pembakaran sampah dan mengelola sampah dengan cara yang lebih aman",
             "Memindahkan tempat pembakaran ke dekat sekolah",
-            "Membiarkan kebiasaan tersebut karena asap akan hilang sendiri",
-            "Mengurangi pembakaran sampah dan mengelola sampah dengan cara yang lebih aman"
+            "Membiarkan kebiasaan tersebut karena asap akan hilang sendiri"
           ],
           "answer": "Mengurangi pembakaran sampah dan mengelola sampah dengan cara yang lebih aman",
           "discussion": "Jawaban yang benar adalah Mengurangi pembakaran sampah dan mengelola sampah dengan cara yang lebih aman."
@@ -559,9 +559,9 @@
           "type": "PG",
           "text": "Perhatikan dua kebiasaan berikut!\n\n- Kebiasaan P: berolahraga secara teratur dan menghindari asap rokok.\n- Kebiasaan Q: jarang bergerak dan sering berada di lingkungan berasap.\n\nKesimpulan yang paling tepat adalah ....",
           "options": [
-            "Kebiasaan P lebih mendukung kesehatan sistem pernapasan",
             "Kebiasaan Q lebih baik karena tubuh terbiasa dengan asap",
             "Kedua kebiasaan pasti memberikan dampak yang sama",
+            "Kebiasaan P lebih mendukung kesehatan sistem pernapasan",
             "Olahraga tidak berhubungan dengan kesehatan pernapasan"
           ],
           "answer": "Kebiasaan P lebih mendukung kesehatan sistem pernapasan",
@@ -574,8 +574,8 @@
           "options": [
             "Karena masker selalu membuat udara lebih kotor",
             "Karena masker menghentikan seluruh proses pernapasan",
-            "Karena masker hanya membantu mengurangi paparan dan tidak menghilangkan sumber polusi",
-            "Karena polusi udara hanya berbahaya jika terlihat"
+            "Karena polusi udara hanya berbahaya jika terlihat",
+            "Karena masker hanya membantu mengurangi paparan dan tidak menghilangkan sumber polusi"
           ],
           "answer": "Karena masker hanya membantu mengurangi paparan dan tidak menghilangkan sumber polusi",
           "discussion": "Jawaban yang benar adalah Karena masker hanya membantu mengurangi paparan dan tidak menghilangkan sumber polusi."
@@ -585,8 +585,8 @@
           "type": "PG",
           "text": "Seorang siswa menyatakan, “Semua udara yang masuk melalui hidung pasti sudah bersih karena disaring oleh bulu hidung.” Tanggapan yang paling tepat adalah ....",
           "options": [
-            "Benar, sebab bulu hidung menyaring seluruh zat berbahaya",
             "Kurang tepat, karena kemampuan penyaringan hidung terbatas sehingga kualitas udara tetap perlu dijaga",
+            "Benar, sebab bulu hidung menyaring seluruh zat berbahaya",
             "Benar, sebab hidung dapat mengubah polusi menjadi oksigen",
             "Salah, sebab hidung tidak memiliki fungsi dalam penyaringan udara"
           ],
@@ -599,9 +599,9 @@
           "text": "Ketika seseorang mengembuskan napas, udara yang keluar mengandung karbon dioksida dan uap air. Hal ini menunjukkan bahwa ....",
           "options": [
             "Tubuh hanya membutuhkan karbon dioksida",
+            "Pernapasan juga berperan mengeluarkan sisa gas dari tubuh",
             "Paru-paru menghasilkan seluruh oksigen tubuh",
-            "Udara yang keluar tidak pernah mengandung oksigen",
-            "Pernapasan juga berperan mengeluarkan sisa gas dari tubuh"
+            "Udara yang keluar tidak pernah mengandung oksigen"
           ],
           "answer": "Pernapasan juga berperan mengeluarkan sisa gas dari tubuh",
           "discussion": "Jawaban yang benar adalah Pernapasan juga berperan mengeluarkan sisa gas dari tubuh."
@@ -611,9 +611,9 @@
           "type": "PG",
           "text": "Mia ingin membuat kebiasaan harian yang mendukung kesehatan paru-parunya. Pilihan yang paling tepat adalah ....",
           "options": [
-            "Berolahraga, menjaga kebersihan rumah, dan menghindari asap rokok",
             "Membakar sampah, menggunakan vape, dan mengurangi aktivitas fisik",
             "Berada di ruangan berdebu dan menutup semua ventilasi",
+            "Berolahraga, menjaga kebersihan rumah, dan menghindari asap rokok",
             "Menghindari olahraga dan sering menghirup asap kendaraan"
           ],
           "answer": "Berolahraga, menjaga kebersihan rumah, dan menghindari asap rokok",
@@ -626,8 +626,8 @@
           "options": [
             "Aktivitas fisik tidak memiliki hubungan dengan kapasitas paru-paru",
             "Orang yang jarang bergerak pasti memiliki paru-paru lebih besar",
-            "Aktivitas fisik merupakan salah satu faktor yang dapat memengaruhi kapasitas paru-paru",
-            "Kapasitas paru-paru hanya ditentukan oleh warna mata"
+            "Kapasitas paru-paru hanya ditentukan oleh warna mata",
+            "Aktivitas fisik merupakan salah satu faktor yang dapat memengaruhi kapasitas paru-paru"
           ],
           "answer": "Aktivitas fisik merupakan salah satu faktor yang dapat memengaruhi kapasitas paru-paru",
           "discussion": "Jawaban yang benar adalah Aktivitas fisik merupakan salah satu faktor yang dapat memengaruhi kapasitas paru-paru."
@@ -637,8 +637,8 @@
           "type": "PG",
           "text": "Sebuah keluarga ingin memperbaiki kualitas udara di rumah. Kondisi rumah mereka lembap, berdebu, dan sering dipenuhi asap rokok. Langkah yang paling tepat adalah ....",
           "options": [
-            "Menutup semua jendela sepanjang hari",
             "Membersihkan debu, memperbaiki kondisi kelembapan, dan menjadikan rumah bebas asap rokok",
+            "Menutup semua jendela sepanjang hari",
             "Menambah pewangi ruangan tanpa membersihkan debu",
             "Membakar sampah di dalam rumah agar cepat hilang"
           ],
@@ -651,8 +651,8 @@
           "text": "Perhatikan pernyataan berikut!\n\n1. Oksigen dari alveoli diserap oleh darah.\n2. Darah membawa oksigen menuju sel-sel tubuh.\n3. Karbon dioksida sebagai sisa proses tubuh perlu dikeluarkan.\n4. Oksigen langsung digunakan di paru-paru untuk menghasilkan energi.\n\nPernyataan yang benar adalah ....",
           "options": [
             "1 dan 4",
-            "2 dan 4",
             "1, 2, dan 3",
+            "2 dan 4",
             "1, 2, 3, dan 4"
           ],
           "answer": "1, 2, dan 3",
