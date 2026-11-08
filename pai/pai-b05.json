@@ -305,7 +305,11 @@
             "Belajar Al-Qur’an tidak memengaruhi hati"
           ],
           "answer": "Hidayah dapat mengubah sikap seseorang",
-          "discussion": "Kisah Umar menunjukkan perubahan hati setelah mendengar Al-Qur’an."
+          "discussion": "Kisah Umar menunjukkan perubahan hati setelah mendengar Al-Qur’an.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q05-justice.svg",
+            "alt": "Ilustrasi keadilan dan musyawarah"
+          }
         },
         {
           "id": "PAI-B05-Q024",
@@ -318,7 +322,11 @@
             "Menegakkan aturan dengan adil tanpa pilih kasih"
           ],
           "answer": "Menegakkan aturan dengan adil tanpa pilih kasih",
-          "discussion": "Keadilan berarti aturan berlaku tanpa membeda-bedakan."
+          "discussion": "Keadilan berarti aturan berlaku tanpa membeda-bedakan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q05-justice.svg",
+            "alt": "Ilustrasi pemimpin berlaku adil"
+          }
         },
         {
           "id": "PAI-B05-Q025",
