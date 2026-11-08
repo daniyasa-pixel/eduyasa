@@ -85,7 +85,7 @@
                     <nav class="hidden md:flex space-x-8 items-center">
                         <a href="#beranda" class="text-gray-600 hover:text-primary-600 font-medium transition-colors">Beranda</a>
                         <a href="#tentang" class="text-gray-600 hover:text-primary-600 font-medium transition-colors">Tentang</a>
-                        <a href="#" onclick="bukaAplikasi(event)" class="bg-primary-600 hover:bg-primary-700 text-white px-6 py-2.5 rounded-full font-medium transition-all shadow-md hover:shadow-lg transform hover:-translate-y-0.5">
+                        <a href="https://daniyasa-pixel.github.io/eduyasa/HTML/eduyasa_belajar_menyenangkan.html" target="_blank" rel="noopener noreferrer" class="bg-primary-600 hover:bg-primary-700 text-white px-6 py-2.5 rounded-full font-medium transition-all shadow-md hover:shadow-lg transform hover:-translate-y-0.5">
                             Mulai Belajar
                         </a>
                     </nav>
@@ -106,7 +106,7 @@
                 <div class="px-4 pt-2 pb-6 space-y-2 text-center">
                     <a href="#beranda" class="block px-3 py-3 text-gray-700 hover:text-primary-600 hover:bg-primary-50 rounded-lg font-medium">Beranda</a>
                     <a href="#tentang" class="block px-3 py-3 text-gray-700 hover:text-primary-600 hover:bg-primary-50 rounded-lg font-medium">Tentang</a>
-                    <a href="#" onclick="bukaAplikasi(event)" class="block px-3 py-3 mt-4 text-white bg-primary-600 hover:bg-primary-700 rounded-full font-medium shadow-md">Mulai Belajar</a>
+                    <a href="https://daniyasa-pixel.github.io/eduyasa/HTML/eduyasa_belajar_menyenangkan.html" target="_blank" rel="noopener noreferrer" class="block px-3 py-3 mt-4 text-white bg-primary-600 hover:bg-primary-700 rounded-full font-medium shadow-md">Mulai Belajar</a>
                 </div>
             </div>
         </header>
@@ -135,8 +135,8 @@
                                 Tempat belajar dan berlatih untuk siswa agar terbiasa berlatih mengerjakan soal. Terdapat 3.000 soal lebih. Pelajari materi, kerjakan kuis. Materi juga dibuat lebih relate dan interaktif dengan siswa. Kerjakan kuis dan tingkatkan kemampuanmu dengan cara yang menyenangkan.
                             </p>
                             <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-                                <!-- Tombol ini sekarang memicu layar penuh aplikasi -->
-                                <a href="#" onclick="bukaAplikasi(event)" class="bg-primary-600 hover:bg-primary-700 text-white px-8 py-4 rounded-full font-semibold text-lg transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-1 flex items-center justify-center gap-2">
+                                <!-- Tombol membuka aplikasi EDUYASA di tab baru -->
+                                <a href="https://daniyasa-pixel.github.io/eduyasa/HTML/eduyasa_belajar_menyenangkan.html" target="_blank" rel="noopener noreferrer" class="bg-primary-600 hover:bg-primary-700 text-white px-8 py-4 rounded-full font-semibold text-lg transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-1 flex items-center justify-center gap-2">
                                     Mulai Belajar
                                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
                                 </a>
@@ -228,35 +228,6 @@
         </footer>
     </div>
 
-    <!-- WRAPPER APLIKASI FULLSCREEN (Disembunyikan pada awalnya) -->
-    <div id="app-screen" class="hidden fixed inset-0 w-full h-full bg-slate-50 z-[9999]">
-        
-        <!-- Tombol Kembali ke Beranda -->
-        <button onclick="tutupAplikasi()" class="absolute top-4 left-4 md:top-6 md:left-6 z-[10000] bg-white text-gray-800 p-3 md:px-5 md:py-2.5 rounded-full shadow-lg hover:shadow-xl transition-all hover:scale-105 flex items-center gap-2 group font-medium border border-gray-100">
-            <svg class="w-5 h-5 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
-            </svg>
-            <span class="hidden md:block">Kembali</span>
-        </button>
-
-        <!-- Indikator Loading di belakang Iframe -->
-        <div class="absolute inset-0 flex flex-col items-center justify-center bg-gray-50">
-            <div class="animate-spin rounded-full h-12 w-12 border-4 border-primary-200 border-t-primary-600 mb-4"></div>
-            <p class="text-gray-500 font-medium">Memuat Aplikasi Belajar...</p>
-        </div>
-
-        <!-- Iframe Aplikasi Utama -->
-        <!-- absolute inset-0 menjamin ukurannya menutupi seluruh layar -->
-        <iframe 
-            id="eduyasa-iframe"
-            src="https://daniyasa-pixel.github.io/eduyasa/HTML/eduyasa_belajar_menyenangkan.html" 
-            title="Aplikasi Belajar EDUYASA"
-            class="absolute inset-0 w-full h-full border-0 z-10 bg-transparent"
-            allow="fullscreen"
-            allowfullscreen>
-        </iframe>
-    </div>
-
     <!-- Script Interaktivitas -->
     <script>
         // Script untuk toggle menu mobile
@@ -286,61 +257,7 @@
             }
         });
 
-        // --- SISTEM PELUNCUR APLIKASI (APP LAUNCHER) ---
-        function bukaAplikasi(e) {
-            if(e) e.preventDefault();
-            
-            const intro = document.getElementById('intro-screen');
-            const app = document.getElementById('app-screen');
-            
-            // Sembunyikan layar awal, tampilkan layar aplikasi penuh
-            intro.style.display = 'none';
-            app.classList.remove('hidden');
-            document.body.classList.add('overflow-hidden'); // Cegah scroll di luar aplikasi
 
-            // Secara opsional mencoba memicu mode Fullscreen bawaan browser 
-            // agar terasa lebih imersif (seperti aplikasi terpisah).
-            const elem = document.documentElement; 
-            try {
-                if (elem.requestFullscreen) {
-                    elem.requestFullscreen().catch(err => console.log("Layar Penuh tidak diizinkan browser:", err));
-                } else if (elem.webkitRequestFullscreen) { /* Safari */
-                    elem.webkitRequestFullscreen();
-                } else if (elem.msRequestFullscreen) { /* IE11 */
-                    elem.msRequestFullscreen();
-                }
-            } catch (error) {
-                console.log("Fullscreen API error:", error);
-            }
-        }
-
-        function tutupAplikasi() {
-            const intro = document.getElementById('intro-screen');
-            const app = document.getElementById('app-screen');
-            
-            // Kembalikan layar awal, sembunyikan aplikasi
-            intro.style.display = 'block';
-            app.classList.add('hidden');
-            document.body.classList.remove('overflow-hidden');
-            
-            // Keluar dari mode Fullscreen bawaan jika sedang aktif
-            try {
-                if (document.fullscreenElement || document.webkitFullscreenElement || document.msFullscreenElement) {
-                    if (document.exitFullscreen) {
-                        document.exitFullscreen();
-                    } else if (document.webkitExitFullscreen) {
-                        document.webkitExitFullscreen();
-                    } else if (document.msExitFullscreen) {
-                        document.msExitFullscreen();
-                    }
-                }
-            } catch (error) {
-                console.log("Exit Fullscreen API error:", error);
-            }
-            
-            // Scroll kembali ke atas saat ditutup
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-        }
     </script>
 </body>
 </html>
