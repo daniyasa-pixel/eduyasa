@@ -310,15 +310,15 @@
         {
           "id": "PAI-B09-Q024",
           "type": "PG",
-          "text": "Bagaimana niat puasa sunah dilakukan menurut buku?",
+          "text": "Menurut ketentuan dalam buku, perempuan yang bersuami perlu memperhatikan apa sebelum melaksanakan puasa sunah?",
           "options": [
-            "Harus selalu keras di depan orang banyak",
-            "Tidak perlu niat",
-            "Harus ditulis di kertas",
-            "Di dalam hati dan tidak harus dilafalkan dalam bahasa Arab"
+            "Mendapat izin suami",
+            "Meminta izin kepada teman",
+            "Menunggu hari raya",
+            "Mengganti puasa dengan sedekah"
           ],
-          "answer": "Di dalam hati dan tidak harus dilafalkan dalam bahasa Arab",
-          "discussion": "Niat merupakan pekerjaan hati dan boleh menggunakan bahasa yang dipahami."
+          "answer": "Mendapat izin suami",
+          "discussion": "Buku mencantumkan izin suami sebagai salah satu syarat sah puasa sunah bagi perempuan yang bersuami."
         },
         {
           "id": "PAI-B09-Q025",
