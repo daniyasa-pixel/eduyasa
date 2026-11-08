@@ -266,7 +266,11 @@
             "Bersikap adil dan tidak pilih kasih"
           ],
           "answer": "Bersikap adil dan tidak pilih kasih",
-          "discussion": "Umar dikenal tegas dan adil dalam kepemimpinan."
+          "discussion": "Umar dikenal tegas dan adil dalam kepemimpinan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q05-justice.svg",
+            "alt": "Ilustrasi keadilan pemimpin"
+          }
         },
         {
           "id": "PAI-B05-Q021",
@@ -305,11 +309,7 @@
             "Belajar Al-Qur’an tidak memengaruhi hati"
           ],
           "answer": "Hidayah dapat mengubah sikap seseorang",
-          "discussion": "Kisah Umar menunjukkan perubahan hati setelah mendengar Al-Qur’an.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q05-justice.svg",
-            "alt": "Ilustrasi keadilan dan musyawarah"
-          }
+          "discussion": "Kisah Umar menunjukkan perubahan hati setelah mendengar Al-Qur’an."
         },
         {
           "id": "PAI-B05-Q024",
