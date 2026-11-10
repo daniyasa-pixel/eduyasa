@@ -1,0 +1,354 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "MTK-B04",
+      "chapter_title": "Bab 4: Peluang",
+      "questions": [
+        {
+          "id": "MTK-B04-M01-051",
+          "type": "PG",
+          "text": "Satu bola diambil tanpa melihat. Warna apa yang paling mungkin terambil?",
+          "options": [
+            "Merah",
+            "Biru",
+            "Hijau",
+            "Ketiganya sama mungkin"
+          ],
+          "answer": "Merah",
+          "discussion": "Ada 5 bola merah, 3 biru, dan 2 hijau. Karena merah paling banyak dan setiap bola sama mungkin terambil, warna merah paling mungkin.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-001.svg",
+            "alt": "Kotak berisi lima bola merah, tiga biru, dan dua hijau yang sama ukurannya."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-052",
+          "type": "PG",
+          "text": "Satu bola diambil secara acak dari kotak pada gambar. Kejadian mana yang tidak mungkin?",
+          "options": [
+            "Mendapat bola hijau",
+            "Mendapat bola merah",
+            "Mendapat bola biru",
+            "Mendapat bola merah atau biru"
+          ],
+          "answer": "Mendapat bola hijau",
+          "discussion": "Kotak hanya berisi bola merah dan biru. Tidak ada bola hijau, sehingga peluang mengambil bola hijau adalah nol.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-002.svg",
+            "alt": "Kotak berisi empat bola merah dan empat bola biru; tidak ada warna lain."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-053",
+          "type": "PG",
+          "text": "Kotak pada gambar berisi bola biru saja. Jika satu bola diambil secara acak, mendapat bola biru merupakan kejadian ...",
+          "options": [
+            "Pasti",
+            "Tidak mungkin",
+            "Kurang mungkin",
+            "Sama mungkin dengan merah"
+          ],
+          "answer": "Pasti",
+          "discussion": "Semua bola berwarna biru. Bola mana pun yang terambil pasti biru.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-003.svg",
+            "alt": "Kotak berisi delapan bola berukuran sama dan semuanya biru."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-054",
+          "type": "PG",
+          "text": "Satu bola diambil secara acak. Bagaimana peluang mendapat bola merah dibandingkan biru?",
+          "options": [
+            "Sama besar",
+            "Merah lebih besar",
+            "Biru lebih besar",
+            "Keduanya tidak mungkin"
+          ],
+          "answer": "Sama besar",
+          "discussion": "Jumlah bola merah dan biru sama, yaitu masing-masing empat. Dengan ukuran sama dan pengambilan acak, peluang kedua warna sama besar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-004.svg",
+            "alt": "Empat bola merah dan empat bola biru berukuran sama dalam sebuah kotak."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-055",
+          "type": "PG",
+          "text": "Satu bola diambil secara acak dari kotak. Berapa peluang mendapat bola merah?",
+          "options": [
+            "3/8",
+            "3/5",
+            "5/8",
+            "1/3"
+          ],
+          "answer": "3/8",
+          "discussion": "Ada 3 bola merah dari total 8 bola. Peluang merah = banyak bola merah ÷ total bola = 3/8.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-005.svg",
+            "alt": "Tiga bola merah dan lima bola biru berukuran sama."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-056",
+          "type": "PG",
+          "text": "Satu kartu pada gambar dipilih secara acak. Berapa peluang mendapat bilangan genap?",
+          "options": [
+            "1/2",
+            "1/3",
+            "2/3",
+            "1/6"
+          ],
+          "answer": "1/2",
+          "discussion": "Dari kartu 1 sampai 6, bilangan genapnya 2, 4, dan 6. Ada 3 dari 6 kartu, jadi peluangnya 3/6 = 1/2.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-006.svg",
+            "alt": "Enam kartu berukuran sama bertuliskan 1, 2, 3, 4, 5, dan 6."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-057",
+          "type": "PG",
+          "text": "Satu kartu dipilih secara acak. Berapa peluang mendapat bilangan lebih dari 4?",
+          "options": [
+            "1/3",
+            "1/2",
+            "2/3",
+            "1/6"
+          ],
+          "answer": "1/3",
+          "discussion": "Bilangan yang lebih dari 4 adalah 5 dan 6. Ada dua kartu yang sesuai dari enam kartu, sehingga peluangnya 2/6 = 1/3.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-007.svg",
+            "alt": "Enam kartu yang sama ukurannya berlabel 1 sampai 6."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-058",
+          "type": "PG",
+          "text": "Satu kartu dipilih secara acak. Huruf manakah yang paling mungkin diperoleh?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "Semua sama mungkin"
+          ],
+          "answer": "A",
+          "discussion": "Ada tiga kartu A, dua kartu B, dan satu kartu C. Karena jumlah A terbanyak, peluang memperoleh A paling besar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-008.svg",
+            "alt": "Enam kartu sama besar bertuliskan A, A, A, B, B, dan C."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-059",
+          "type": "PG",
+          "text": "Roda pada gambar diputar secara adil. Bagaimana peluang berhenti pada merah dibandingkan biru?",
+          "options": [
+            "Sama besar",
+            "Merah dua kali biru",
+            "Biru dua kali merah",
+            "Merah tidak mungkin"
+          ],
+          "answer": "Sama besar",
+          "discussion": "Roda memiliki empat sektor sama besar, dua merah dan dua biru. Peluang merah dan biru masing-masing 2/4, sehingga sama besar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-009.svg",
+            "alt": "Roda dengan empat sektor sama besar, dua merah berhuruf M dan dua biru berhuruf B."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-060",
+          "type": "PG",
+          "text": "Roda diputar secara adil. Warna manakah yang paling mungkin ditunjuk?",
+          "options": [
+            "Merah",
+            "Biru",
+            "Hijau",
+            "Semua sama mungkin"
+          ],
+          "answer": "Merah",
+          "discussion": "Tiga dari enam sektor berwarna merah, dua biru, dan satu hijau. Sektor merah paling banyak, sehingga merah paling mungkin.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-010.svg",
+            "alt": "Roda enam sektor sama besar: tiga merah M, dua biru B, satu hijau H."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-061",
+          "type": "PG",
+          "text": "Roda diputar secara adil. Berapa peluang jarum berhenti pada nomor ganjil?",
+          "options": [
+            "1/2",
+            "1/4",
+            "3/4",
+            "1/8"
+          ],
+          "answer": "1/2",
+          "discussion": "Nomor ganjilnya 1, 3, 5, dan 7. Ada 4 sektor sesuai dari total 8 sektor sama besar, maka peluangnya 4/8 = 1/2.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-011.svg",
+            "alt": "Roda delapan sektor sama besar, masing-masing bernomor 1 hingga 8."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-062",
+          "type": "PG",
+          "text": "Satu bola diambil secara acak dari salah satu kotak. Kotak mana yang memberi peluang merah lebih besar?",
+          "options": [
+            "Kotak A",
+            "Kotak B",
+            "Keduanya sama",
+            "Keduanya tidak memiliki merah"
+          ],
+          "answer": "Kotak A",
+          "discussion": "Peluang merah dari A adalah 3/4. Dari B adalah 4/8 = 1/2. Meskipun B memiliki lebih banyak bola merah, proporsi merah pada A lebih besar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-012.svg",
+            "alt": "Tabel isi kotak: A tiga bola merah satu biru; B empat merah empat biru. Semua bola sama ukuran."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-063",
+          "type": "PG",
+          "text": "Kotak pada gambar semula berisi 3 bola merah dan 3 biru. Jika ditambahkan 2 bola biru, bagaimana peluang mengambil merah berubah?",
+          "options": [
+            "Menjadi lebih kecil",
+            "Menjadi lebih besar",
+            "Tetap sama",
+            "Menjadi pasti"
+          ],
+          "answer": "Menjadi lebih kecil",
+          "discussion": "Semula peluang merah 3/6. Setelah dua bola biru ditambahkan, merah tetap tiga tetapi total menjadi delapan, sehingga peluang merah turun menjadi 3/8.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-013.svg",
+            "alt": "Keadaan awal: tiga bola merah dan tiga biru; soal menyatakan dua bola biru akan ditambahkan."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-064",
+          "type": "PG",
+          "text": "Tabel menunjukkan hasil 20 putaran roda. Berapa bagian percobaan yang menghasilkan merah?",
+          "options": [
+            "3/5",
+            "2/5",
+            "1/2",
+            "3/4"
+          ],
+          "answer": "3/5",
+          "discussion": "Merah muncul 12 kali dari total 12 + 5 + 3 = 20 putaran. Bagian hasil merah adalah 12/20 = 3/5. Ini hasil percobaan, bukan jaminan putaran berikutnya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-014.svg",
+            "alt": "Tabel hasil percobaan roda: merah 12 kali, biru 5 kali, hijau 3 kali."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-065",
+          "type": "PG",
+          "text": "Roda adil memiliki empat sektor sama besar dengan nomor 1 sampai 4. Nomor 2 muncul tiga kali berturut-turut. Pada putaran berikutnya, bagaimana peluang nomor 2?",
+          "options": [
+            "Tetap 1/4",
+            "Pasti muncul",
+            "Tidak mungkin muncul",
+            "Menjadi 3/4"
+          ],
+          "answer": "Tetap 1/4",
+          "discussion": "Setiap putaran roda adil berdiri sendiri. Hasil putaran sebelumnya tidak mengubah empat sektor yang sama besar, jadi peluang nomor 2 tetap 1/4.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-015.svg",
+            "alt": "Roda adil dengan empat sektor sama besar bernomor 1, 2, 3, dan 4."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-066",
+          "type": "PG",
+          "text": "Satu kartu dipilih acak dari kartu pada gambar. Kejadian manakah yang lebih mungkin terjadi?",
+          "options": [
+            "Mendapat bilangan kurang dari 5",
+            "Mendapat bilangan 5",
+            "Mendapat bilangan lebih dari 5",
+            "Mendapat bilangan 0"
+          ],
+          "answer": "Mendapat bilangan kurang dari 5",
+          "discussion": "Bilangan kurang dari 5 adalah 1, 2, 3, dan 4, yaitu empat kartu. Bilangan 5 hanya satu kartu; lebih dari 5 dan bilangan 0 tidak tersedia.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-016.svg",
+            "alt": "Lima kartu sama besar bernomor 1, 2, 3, 4, dan 5."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-067",
+          "type": "PG",
+          "text": "Satu bola diambil secara acak. Berapa peluang mendapat bola yang bukan merah?",
+          "options": [
+            "3/5",
+            "2/5",
+            "1/5",
+            "4/5"
+          ],
+          "answer": "3/5",
+          "discussion": "Bola bukan merah terdiri atas 4 biru dan 2 hijau, total 6. Seluruh bola 10, maka peluangnya 6/10 = 3/5.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-017.svg",
+            "alt": "Kotak berisi empat merah, empat biru, dan dua hijau, semua bola sama ukuran."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-068",
+          "type": "PG",
+          "text": "Kotak berisi bola seperti gambar. Berapa bola biru yang perlu ditambahkan agar peluang biru sama dengan merah?",
+          "options": [
+            "1 bola",
+            "2 bola",
+            "3 bola",
+            "5 bola"
+          ],
+          "answer": "3 bola",
+          "discussion": "Ada 5 bola merah dan 2 biru. Agar jumlahnya sama, tambahkan 5 − 2 = 3 bola biru sehingga masing-masing menjadi lima.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-018.svg",
+            "alt": "Kotak mula-mula berisi lima bola merah dan dua bola biru."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-069",
+          "type": "PG",
+          "text": "Roda diputar secara adil. Berapa peluang mendapat huruf vokal?",
+          "options": [
+            "1/2",
+            "1/3",
+            "2/3",
+            "1/6"
+          ],
+          "answer": "1/2",
+          "discussion": "Huruf vokal pada roda adalah A, I, dan U. Ada tiga sektor vokal dari enam sektor sama besar, jadi peluangnya 3/6 = 1/2.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-019.svg",
+            "alt": "Enam sektor sama besar bertuliskan A, B, I, K, U, dan M."
+          }
+        },
+        {
+          "id": "MTK-B04-M01-070",
+          "type": "PG",
+          "text": "Setiap kupon pada tabel berukuran sama dan satu kupon diambil secara acak. Pernyataan mana yang tepat?",
+          "options": [
+            "Peluang pensil dua kali peluang penghapus",
+            "Peluang penghapus lebih besar daripada pensil",
+            "Semua hadiah memiliki peluang sama",
+            "Peluang buku lebih besar daripada pensil"
+          ],
+          "answer": "Peluang pensil dua kali peluang penghapus",
+          "discussion": "Kupon pensil ada 6 dan penghapus 3 dari total 10 kupon. Peluangnya 6/10 dan 3/10, sehingga peluang pensil dua kali peluang penghapus.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b04a-020.svg",
+            "alt": "Tabel undian: enam kupon pensil, tiga kupon penghapus, dan satu kupon buku."
+          }
+        }
+      ]
+    }
+  ]
+}

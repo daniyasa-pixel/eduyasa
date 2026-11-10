@@ -1,0 +1,354 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "MTK-B03",
+      "chapter_title": "Bab 3: Kubus dan Balok",
+      "questions": [
+        {
+          "id": "MTK-B03-M01-051",
+          "type": "PG",
+          "text": "Kotak pada gambar berbentuk kubus. Berapa volumenya?",
+          "options": [
+            "25 cm³",
+            "75 cm³",
+            "125 cm³",
+            "150 cm³"
+          ],
+          "answer": "125 cm³",
+          "discussion": "Volume kubus = sisi × sisi × sisi = 5 × 5 × 5 = 125 cm³.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-001.svg",
+            "alt": "Sketsa kubus dengan ketiga ukuran rusuk 5 cm."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-052",
+          "type": "PG",
+          "text": "Berapakah volume kardus berbentuk balok pada gambar?",
+          "options": [
+            "24 cm³",
+            "48 cm³",
+            "64 cm³",
+            "96 cm³"
+          ],
+          "answer": "96 cm³",
+          "discussion": "Volume balok = panjang × lebar × tinggi = 8 × 4 × 3 = 96 cm³.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-002.svg",
+            "alt": "Balok berukuran panjang 8 cm, lebar 4 cm, dan tinggi 3 cm."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-053",
+          "type": "PG",
+          "text": "Seluruh permukaan kubus pada gambar akan dibungkus kertas tanpa tumpang tindih. Berapa luas kertas paling sedikit?",
+          "options": [
+            "16 cm²",
+            "64 cm²",
+            "80 cm²",
+            "96 cm²"
+          ],
+          "answer": "96 cm²",
+          "discussion": "Kubus mempunyai 6 sisi persegi. Luas tiap sisi 4 × 4 = 16 cm², sehingga luas total 6 × 16 = 96 cm².",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-003.svg",
+            "alt": "Kubus tertutup dengan panjang setiap rusuk 4 cm."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-054",
+          "type": "PG",
+          "text": "Kotak pensil pada gambar berbentuk balok tertutup. Berapa luas seluruh permukaannya?",
+          "options": [
+            "36 cm²",
+            "54 cm²",
+            "72 cm²",
+            "108 cm²"
+          ],
+          "answer": "108 cm²",
+          "discussion": "Luas permukaan = 2 × (6 × 4 + 6 × 3 + 4 × 3) = 2 × (24 + 18 + 12) = 108 cm².",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-004.svg",
+            "alt": "Balok tertutup berukuran 6 cm kali 4 cm kali 3 cm."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-055",
+          "type": "PG",
+          "text": "Volume balok pada gambar 120 cm³. Berapa tingginya?",
+          "options": [
+            "3 cm",
+            "4 cm",
+            "5 cm",
+            "6 cm"
+          ],
+          "answer": "4 cm",
+          "discussion": "Luas alas = 6 × 5 = 30 cm². Tinggi = volume ÷ luas alas = 120 ÷ 30 = 4 cm.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-005.svg",
+            "alt": "Balok dengan panjang 6 cm, lebar 5 cm, tinggi belum diketahui, dan volume 120 cm³."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-056",
+          "type": "PG",
+          "text": "Gambar menunjukkan kubus dengan satu rusuk 7 cm. Berapa jumlah panjang seluruh rusuknya?",
+          "options": [
+            "28 cm",
+            "42 cm",
+            "84 cm",
+            "343 cm"
+          ],
+          "answer": "84 cm",
+          "discussion": "Kubus memiliki 12 rusuk yang sama panjang. Jumlah panjang rusuk = 12 × 7 = 84 cm.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-006.svg",
+            "alt": "Kubus dengan setiap rusuk sepanjang 7 cm."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-057",
+          "type": "PG",
+          "text": "Kerangka balok pada gambar dibuat dari kawat. Berapa panjang kawat minimum untuk seluruh rusuknya?",
+          "options": [
+            "16 cm",
+            "32 cm",
+            "48 cm",
+            "64 cm"
+          ],
+          "answer": "64 cm",
+          "discussion": "Balok memiliki empat rusuk untuk setiap ukuran panjang, lebar, dan tinggi. Kawat = 4 × (8 + 5 + 3) = 64 cm.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-007.svg",
+            "alt": "Balok panjang 8 cm, lebar 5 cm, dan tinggi 3 cm; kawat digunakan pada seluruh rusuk."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-058",
+          "type": "PG",
+          "text": "Bangun datar pada gambar dilipat menjadi kubus. Berapa banyak sisi kubus yang terbentuk?",
+          "options": [
+            "4 sisi",
+            "5 sisi",
+            "6 sisi",
+            "8 sisi"
+          ],
+          "answer": "6 sisi",
+          "discussion": "Setiap persegi pada jaring-jaring menjadi satu sisi kubus. Ada enam persegi, jadi terbentuk enam sisi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-008.svg",
+            "alt": "Jaring-jaring kubus berbentuk silang: empat persegi sebaris, dengan satu persegi di atas dan satu di bawah persegi kedua."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-059",
+          "type": "PG",
+          "text": "Setiap persegi pada jaring-jaring memiliki sisi 3 cm. Berapa luas seluruh jaring-jaring?",
+          "options": [
+            "18 cm²",
+            "27 cm²",
+            "36 cm²",
+            "54 cm²"
+          ],
+          "answer": "54 cm²",
+          "discussion": "Ada enam persegi berukuran 3 × 3 cm. Luas seluruh jaring-jaring = 6 × 9 = 54 cm².",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-009.svg",
+            "alt": "Enam persegi pada jaring-jaring kubus; sisi setiap persegi 3 cm."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-060",
+          "type": "PG",
+          "text": "Jaring-jaring pada gambar dilipat menjadi kubus. Sisi manakah yang berhadapan dengan sisi C?",
+          "options": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "answer": "E",
+          "discussion": "Pada baris B–C–D–E, sisi B dan D menjadi sisi samping C. Sisi E melipat ke belakang sehingga berhadapan dengan C; A dan F menjadi sisi atas dan bawah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-010.svg",
+            "alt": "Jaring-jaring: B, C, D, E sebaris dari kiri; A di atas C dan F di bawah C."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-061",
+          "type": "PG",
+          "text": "Balok pada gambar diisi penuh kubus satuan dengan rusuk 1 cm. Berapa kubus satuan yang diperlukan?",
+          "options": [
+            "9 kubus",
+            "12 kubus",
+            "18 kubus",
+            "24 kubus"
+          ],
+          "answer": "24 kubus",
+          "discussion": "Satu lapisan alas memuat 4 × 3 = 12 kubus satuan. Ada dua lapisan, sehingga total 12 × 2 = 24 kubus.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-011.svg",
+            "alt": "Balok berukuran 4 cm kali 3 cm kali 2 cm, diisi kubus satuan berusuk 1 cm."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-062",
+          "type": "PG",
+          "text": "Akuarium pada gambar terisi air hingga setengah tingginya. Berapa volume airnya?",
+          "options": [
+            "1.500 cm³",
+            "3.000 cm³",
+            "4.500 cm³",
+            "6.000 cm³"
+          ],
+          "answer": "3.000 cm³",
+          "discussion": "Tinggi air = 10 ÷ 2 = 5 cm. Volume air = 30 × 20 × 5 = 3.000 cm³.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-012.svg",
+            "alt": "Akuarium panjang 30 cm, lebar 20 cm, tinggi 10 cm; keterangan menyatakan air setengah tinggi."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-063",
+          "type": "PG",
+          "text": "Berdasarkan tabel, pernyataan mana yang benar?",
+          "options": [
+            "Volume A sama dengan B",
+            "Volume A lebih besar dari B",
+            "Volume B dua kali volume A",
+            "Volume A setengah volume B"
+          ],
+          "answer": "Volume A sama dengan B",
+          "discussion": "Volume A = 4 × 4 × 4 = 64 cm³. Volume B = 8 × 4 × 2 = 64 cm³, sehingga keduanya sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-013.svg",
+            "alt": "Tabel ukuran kotak A 4 × 4 × 4 cm dan kotak B 8 × 4 × 2 cm."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-064",
+          "type": "PG",
+          "text": "Kotak berbentuk kubus pada gambar tidak memiliki tutup. Berapa luas bahan untuk lima sisinya?",
+          "options": [
+            "36 cm²",
+            "144 cm²",
+            "180 cm²",
+            "216 cm²"
+          ],
+          "answer": "180 cm²",
+          "discussion": "Luas satu sisi = 6 × 6 = 36 cm². Karena tidak ada tutup, ada lima sisi: 5 × 36 = 180 cm².",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-014.svg",
+            "alt": "Ukuran kotak kubus 6 cm pada setiap rusuk; keterangan menyatakan kotak tanpa tutup."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-065",
+          "type": "PG",
+          "text": "Kubus A mempunyai rusuk 2 cm dan kubus B mempunyai rusuk 4 cm. Volume B berapa kali volume A?",
+          "options": [
+            "2 kali",
+            "4 kali",
+            "6 kali",
+            "8 kali"
+          ],
+          "answer": "8 kali",
+          "discussion": "Volume A = 2³ = 8 cm³ dan B = 4³ = 64 cm³. Jadi 64 ÷ 8 = 8 kali; menggandakan rusuk membuat volume delapan kali.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-015.svg",
+            "alt": "Tabel panjang rusuk kubus A 2 cm dan B 4 cm."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-066",
+          "type": "PG",
+          "text": "Volume balok pada gambar 180 cm³. Berapa panjangnya?",
+          "options": [
+            "6 cm",
+            "9 cm",
+            "12 cm",
+            "15 cm"
+          ],
+          "answer": "9 cm",
+          "discussion": "Panjang = volume ÷ (lebar × tinggi) = 180 ÷ (5 × 4) = 9 cm.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-016.svg",
+            "alt": "Balok dengan lebar 5 cm, tinggi 4 cm, volume 180 cm³, dan panjang belum diketahui."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-067",
+          "type": "PG",
+          "text": "Berapa liter kapasitas penuh wadah pada gambar? Gunakan 1.000 cm³ = 1 liter.",
+          "options": [
+            "1 liter",
+            "2 liter",
+            "5 liter",
+            "20 liter"
+          ],
+          "answer": "2 liter",
+          "discussion": "Volume = 20 × 10 × 10 = 2.000 cm³. Dibagi 1.000 menghasilkan kapasitas 2 liter.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-017.svg",
+            "alt": "Ukuran bagian dalam wadah adalah 20 cm kali 10 cm kali 10 cm."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-068",
+          "type": "PG",
+          "text": "Dua kubus identik dengan rusuk 3 cm disatukan pada satu sisi penuh sehingga membentuk balok. Berapa volume balok itu?",
+          "options": [
+            "18 cm³",
+            "27 cm³",
+            "54 cm³",
+            "162 cm³"
+          ],
+          "answer": "54 cm³",
+          "discussion": "Volume satu kubus 3³ = 27 cm³. Dua kubus disatukan tanpa tumpang tindih, jadi volumenya 2 × 27 = 54 cm³.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-018.svg",
+            "alt": "Dua kubus rusuk 3 cm berdampingan membentuk balok panjang 6 cm, lebar 3 cm, dan tinggi 3 cm."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-069",
+          "type": "PG",
+          "text": "Dua balok memiliki ukuran alas sama seperti tabel. Jika tinggi B dua kali tinggi A, bagaimana volume B dibandingkan A?",
+          "options": [
+            "Dua kali volume A",
+            "Setengah volume A",
+            "Empat kali volume A",
+            "Sama dengan volume A"
+          ],
+          "answer": "Dua kali volume A",
+          "discussion": "Luas kedua alas sama, yaitu 5 × 4 = 20 cm². Volume A = 20 × 3 = 60 cm³ dan B = 20 × 6 = 120 cm³, yaitu dua kali A.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-019.svg",
+            "alt": "Tabel ukuran A 5 × 4 × 3 cm dan B 5 × 4 × 6 cm."
+          }
+        },
+        {
+          "id": "MTK-B03-M01-070",
+          "type": "PG",
+          "text": "Dina menghitung luas permukaan kubus pada gambar dengan 5 × 5 × 5 = 125 cm². Apa perbaikannya?",
+          "options": [
+            "Gunakan 6 × 5 × 5 = 150 cm²",
+            "Gunakan 5 × 5 = 25 cm²",
+            "Gunakan 12 × 5 = 60 cm²",
+            "Hasil Dina sudah benar"
+          ],
+          "answer": "Gunakan 6 × 5 × 5 = 150 cm²",
+          "discussion": "Perhitungan 5 × 5 × 5 mencari volume, bukan luas permukaan. Luas permukaan kubus adalah enam kali luas satu persegi: 6 × 5 × 5 = 150 cm².",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b03a-020.svg",
+            "alt": "Kubus tertutup dengan rusuk 5 cm pada ketiga arah."
+          }
+        }
+      ]
+    }
+  ]
+}

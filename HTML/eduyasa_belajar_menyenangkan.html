@@ -440,6 +440,7 @@ footer {
 <div id="toast-container"></div>
 <footer>EDUYASA © 2026 • Kurikulum Merdeka</footer>
 
+<script src="./quiz-bank.js"></script>
 <script>
 const BASE_URL =
   "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/";
@@ -918,6 +919,7 @@ function prepareQuiz() {
     <strong>Mata Pelajaran:</strong><br>${subjectNames}<br><br>
     <strong>Total Bab Diuji:</strong> ${totalBab} Bab<br><br>
     <strong>Jumlah Soal:</strong> 20 Soal<br><br>
+    ${selectedSubjects.has('MTK') ? "5 soal bergambar dan 15 soal tanpa gambar.<br><br>" : ""}
     Siapkan dirimu dan kerjakan dengan jujur!
   `;
   currentStep = 4;
@@ -955,126 +957,40 @@ document.getElementById('btnBack4').onclick = () => {
 };
 
 document.getElementById('btnStartQuiz').onclick = async () => {
+  if(busy) return;
   initAudio();
   const btn = document.getElementById('btnStartQuiz');
   const errorDiv = document.getElementById('quizPrepError');
   if(errorDiv) errorDiv.textContent = "";
-
-  if(busy) return;
   busy = true;
   btn.disabled = true;
   btn.textContent = "MEMPERSIAPKAN KUIS...";
 
-  let allValidQuestions = [];
-  let fetchErrors = [];
-  const seenIds = new Set();
-
-  // Pengambilan Soal dari GitHub
-  for(const subjectId of selectedSubjects) {
-    const subject = subjects.find(s => s.id === subjectId);
-    const chosen = Array.from(selectedChapters[subjectId] || []).sort((a,b)=>a-b);
-
-    for(const chapNum of chosen) {
-      const chapStr = String(chapNum).padStart(2, "0");
-      const url = BASE_URL + `${subjectId.toLowerCase()}/${subjectId.toLowerCase()}-b${chapStr}.json`;
-
-      try {
-        const res = await fetch(url);
-        if(!res.ok) throw new Error("HTTP " + res.status);
-        const data = await res.json();
-
-        let rawQuestions = [];
-        if (data.chapters) {
-          rawQuestions = data.chapters.flatMap(c => c.questions || []);
-        }
-        if (data.bank_soal) {
-          rawQuestions = rawQuestions.concat(data.bank_soal);
-        }
-
-        rawQuestions.forEach(q => {
-          let text = q.text || q.question || q.pertanyaan;
-          if(!text) return;
-          
-          let rawOptions = q.options || q.pilihan || [];
-          if(!rawOptions.length) return;
-
-          let correctAnswer = q.answer !== undefined ? q.answer : q.jawaban;
-          // Normalisasi dan penanganan error jika opsi kosong/null
-          let cleanOptions = rawOptions.map(opt => {
-            let optText = (typeof opt === 'string') ? opt : (opt?.text || '');
-            return optText.replace(/^[A-D]\.\s*/i, '').trim();
-          });
-          let correctText = "";
-
-          // Tentukan Teks Kunci Jawaban yang Benar
-          if (typeof correctAnswer === 'string' && correctAnswer.length === 1 && /[A-D]/i.test(correctAnswer)) {
-            const idx = correctAnswer.toUpperCase().charCodeAt(0) - 65;
-            correctText = cleanOptions[idx] || "";
-          } else if (typeof correctAnswer === 'number') {
-            correctText = cleanOptions[correctAnswer] || "";
-          } else {
-            correctText = typeof correctAnswer === 'string' ? correctAnswer.replace(/^[A-D]\.\s*/i, '').trim() : String(correctAnswer);
-          }
-
-          // Buat ID unik sementara jika soal tidak punya ID untuk mencegah duplikat
-          const qId = q.id || (text.substring(0, 20) + cleanOptions[0]).replace(/\s+/g, '');
-
-          if(!seenIds.has(qId)) {
-            seenIds.add(qId);
-            allValidQuestions.push({
-              id: qId,
-              text: text,
-              options: cleanOptions,
-              correctText: correctText,
-              explanation: q.discussion || q.explanation || q.pembahasan || "Tidak ada pembahasan yang tersedia untuk soal ini.",
-              image: q.image || null,
-              audio: q.audio || null,
-              mapel: subject.name,
-              bab: `Bab ${chapNum}`
-            });
-          }
-        });
-      } catch(e) {
-        console.error(`Gagal memuat soal untuk ${subjectId} Bab ${chapNum}`, e);
-        fetchErrors.push(`${subjectId} Bab ${chapNum}: ${e.message}`);
-      }
-    }
-  }
-
-  // Acak seluruh soal
-  allValidQuestions.sort(() => Math.random() - 0.5);
-
-  if(allValidQuestions.length < 20) {
-    let errorMsg = `Maaf, jumlah soal yang tersedia kurang dari 20 (hanya terkumpul ${allValidQuestions.length} soal). Silakan kembali dan pilih bab tambahan.`;
-    if (fetchErrors.length > 0) {
-      errorMsg += ` Ada kegagalan memuat data: ${fetchErrors.join(', ')}`;
-    }
-    
-    if(errorDiv) {
-      errorDiv.textContent = errorMsg;
-    } else {
-      alert(errorMsg);
-    }
-    
+  try {
+    const questions = await EduyasaQuestionBank.loadQuestions({
+      baseUrl: BASE_URL,
+      subjectIds: selectedSubjects,
+      selectedChapters,
+      subjects
+    });
+    quizQuestions = EduyasaQuestionBank.selectQuestions(questions, {
+      mathSelected: selectedSubjects.has('MTK')
+    });
+    currentQuestionIndex = 0;
+    correctAnswersCount = 0;
+    quizAnswerResults = [];
+    currentStep = 5;
+    updateStepUI();
+    await renderQuizQuestion();
+  } catch(error) {
+    console.error('Gagal mempersiapkan kuis', error);
+    if(errorDiv) errorDiv.textContent = error.message;
+    else alert(error.message);
+  } finally {
     btn.disabled = false;
     btn.textContent = "MULAI KUIS";
     busy = false;
-    return;
   }
-
-  // Ambil Tepat 20 Soal
-  quizQuestions = allValidQuestions.slice(0, 20);
-  currentQuestionIndex = 0;
-  correctAnswersCount = 0;
-  quizAnswerResults = [];
-
-  btn.disabled = false;
-  btn.textContent = "MULAI KUIS";
-  busy = false;
-
-  currentStep = 5;
-  updateStepUI();
-  await renderQuizQuestion();
 };
 
 async function renderQuizQuestion() {
@@ -1083,7 +999,7 @@ async function renderQuizQuestion() {
   const q = quizQuestions[currentQuestionIndex];
   
   // Acak posisi opsi; label A, B, C, D mengikuti urutan tampilan.
-  currentDisplayOptions = [...q.options].sort(() => Math.random() - 0.5);
+  currentDisplayOptions = EduyasaQuestionBank.shuffle(q.options);
 
   document.getElementById('quizQNumber').textContent = `Soal ${currentQuestionIndex + 1} dari 20`;
   document.getElementById('quizQProgress').style.width = `${((currentQuestionIndex) / 20) * 100}%`;

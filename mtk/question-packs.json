@@ -1,0 +1,9 @@
+{
+  "subject_id": "MTK",
+  "chapters": {
+    "MTK-B01": ["mtk/mtk-b01.json", "mtk/mtk-b01a.json"],
+    "MTK-B02": ["mtk/mtk-b02.json", "mtk/mtk-b02a.json"],
+    "MTK-B03": ["mtk/mtk-b03.json", "mtk/mtk-b03a.json"],
+    "MTK-B04": ["mtk/mtk-b04.json", "mtk/mtk-b04a.json"]
+  }
+}
