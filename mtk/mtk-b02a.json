@@ -1,0 +1,354 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "MTK-B02",
+      "chapter_title": "Bab 2: Rasio",
+      "questions": [
+        {
+          "id": "MTK-B02-M01-051",
+          "type": "PG",
+          "text": "Berdasarkan gambar, rasio kelereng merah terhadap kelereng biru dalam bentuk paling sederhana adalah ...",
+          "options": [
+            "2 : 3",
+            "3 : 2",
+            "2 : 5",
+            "4 : 3"
+          ],
+          "answer": "2 : 3",
+          "discussion": "Ada 4 kelereng merah dan 6 biru. Rasio 4 : 6 disederhanakan dengan membagi keduanya dengan 2 menjadi 2 : 3.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-001.svg",
+            "alt": "Empat kelereng merah pada baris pertama dan enam kelereng biru pada baris kedua."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-052",
+          "type": "PG",
+          "text": "Berapa rasio bunga kuning terhadap seluruh bunga pada gambar?",
+          "options": [
+            "3 : 5",
+            "3 : 2",
+            "2 : 5",
+            "5 : 3"
+          ],
+          "answer": "3 : 5",
+          "discussion": "Ada 6 bunga kuning dan 4 ungu, sehingga totalnya 10. Rasio kuning terhadap seluruh bunga adalah 6 : 10 = 3 : 5.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-002.svg",
+            "alt": "Enam lingkaran kuning mewakili bunga kuning; empat ungu mewakili bunga ungu."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-053",
+          "type": "PG",
+          "text": "Tabel menunjukkan resep minuman dengan rasa yang sama. Berapa gelas air yang diperlukan untuk 4 gelas sirup?",
+          "options": [
+            "8 gelas",
+            "10 gelas",
+            "12 gelas",
+            "16 gelas"
+          ],
+          "answer": "12 gelas",
+          "discussion": "Rasio sirup : air = 1 : 3. Untuk 4 gelas sirup, airnya 4 × 3 = 12 gelas.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-003.svg",
+            "alt": "Tabel resep: 1 gelas sirup untuk 3 gelas air; 2 untuk 6; 4 gelas sirup belum diketahui airnya."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-054",
+          "type": "PG",
+          "text": "Harga setiap buku sama. Berdasarkan tabel, berapa harga 5 buku?",
+          "options": [
+            "Rp10.000",
+            "Rp12.000",
+            "Rp15.000",
+            "Rp18.000"
+          ],
+          "answer": "Rp15.000",
+          "discussion": "Dua buku berharga Rp6.000, jadi satu buku Rp3.000. Lima buku berharga 5 × Rp3.000 = Rp15.000.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-004.svg",
+            "alt": "Tabel menyatakan dua buku berharga Rp6.000; harga lima buku belum diketahui."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-055",
+          "type": "PG",
+          "text": "Garis pada gambar adalah jarak dua tempat di peta berskala 1 : 100.000. Berapa jarak sebenarnya?",
+          "options": [
+            "0,4 km",
+            "4 km",
+            "40 km",
+            "400 km"
+          ],
+          "answer": "4 km",
+          "discussion": "Jarak sebenarnya = 4 × 100.000 cm = 400.000 cm. Karena 100.000 cm = 1 km, jaraknya 4 km.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-005.svg",
+            "alt": "Garis Sekolah–Taman pada peta berukuran 4 cm. Skala 1 banding 100.000."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-056",
+          "type": "PG",
+          "text": "Campuran A memakai 2 takar cat biru dan 3 takar cat putih. Campuran manakah yang memiliki perbandingan sama dengan A?",
+          "options": [
+            "4 biru dan 6 putih",
+            "4 biru dan 3 putih",
+            "3 biru dan 2 putih",
+            "2 biru dan 6 putih"
+          ],
+          "answer": "4 biru dan 6 putih",
+          "discussion": "Rasio 2 : 3 dikalikan 2 pada kedua bagiannya menjadi 4 : 6. Hanya campuran itu yang mempertahankan rasio biru terhadap putih.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-006.svg",
+            "alt": "Campuran A terdiri atas dua takar cat biru dan tiga takar cat putih."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-057",
+          "type": "PG",
+          "text": "Diagram menunjukkan jumlah peserta dua klub. Rasio peserta klub seni terhadap klub sains adalah ...",
+          "options": [
+            "3 : 2",
+            "2 : 3",
+            "3 : 5",
+            "5 : 2"
+          ],
+          "answer": "3 : 2",
+          "discussion": "Peserta seni 12 dan sains 8. Rasio 12 : 8 disederhanakan menjadi 3 : 2.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-007.svg",
+            "alt": "Diagram batang: klub seni 12 siswa dan klub sains 8 siswa."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-058",
+          "type": "PG",
+          "text": "Satu paket berisi pita merah dan biru seperti gambar. Jika dibuat 5 paket yang sama, berapa pita biru yang diperlukan?",
+          "options": [
+            "10 pita",
+            "15 pita",
+            "20 pita",
+            "25 pita"
+          ],
+          "answer": "15 pita",
+          "discussion": "Setiap paket memerlukan 3 pita biru. Lima paket memerlukan 5 × 3 = 15 pita biru.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-008.svg",
+            "alt": "Satu paket terdiri atas dua pita merah dan tiga pita biru, ditunjukkan dengan lingkaran."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-059",
+          "type": "PG",
+          "text": "Rasio bibit cabai terhadap bibit tomat adalah 3 : 2 seperti model. Jika jumlah seluruh bibit 25, berapa bibit cabai?",
+          "options": [
+            "10 bibit",
+            "12 bibit",
+            "15 bibit",
+            "20 bibit"
+          ],
+          "answer": "15 bibit",
+          "discussion": "Total bagian = 3 + 2 = 5. Setiap bagian mewakili 25 ÷ 5 = 5 bibit. Cabai mendapat 3 × 5 = 15 bibit.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-009.svg",
+            "alt": "Model cabai tiga bagian biru dan tomat dua bagian biru; tiap bagian mewakili jumlah bibit yang sama."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-060",
+          "type": "PG",
+          "text": "Sepeda bergerak dengan kecepatan tetap sesuai tabel. Berapa jarak yang ditempuh dalam 25 menit?",
+          "options": [
+            "4 km",
+            "5 km",
+            "6 km",
+            "10 km"
+          ],
+          "answer": "5 km",
+          "discussion": "Dalam 10 menit ditempuh 2 km. Dua puluh lima menit adalah 2,5 kali 10 menit, sehingga jaraknya 2,5 × 2 = 5 km.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-010.svg",
+            "alt": "Tabel perjalanan sepeda: 10 menit 2 km; 20 menit 4 km; jarak 25 menit belum diketahui."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-061",
+          "type": "PG",
+          "text": "Dua minuman dibuat dari sirup yang sama. Berdasarkan tabel, minuman mana yang lebih banyak sirupnya dibandingkan air?",
+          "options": [
+            "Minuman A",
+            "Minuman B",
+            "Keduanya sama",
+            "Tidak dapat dibandingkan"
+          ],
+          "answer": "Minuman A",
+          "discussion": "A memiliki rasio sirup terhadap air 2 : 4 = 1 : 2. B memiliki rasio 3 : 9 = 1 : 3. A memakai lebih banyak sirup untuk jumlah air yang sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-011.svg",
+            "alt": "Tabel campuran A: dua gelas sirup dan empat air. B: tiga gelas sirup dan sembilan air."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-062",
+          "type": "PG",
+          "text": "Gambar adalah denah kebun berbentuk persegi panjang. Rasio panjang terhadap lebarnya adalah ...",
+          "options": [
+            "5 : 3",
+            "3 : 5",
+            "5 : 8",
+            "8 : 3"
+          ],
+          "answer": "5 : 3",
+          "discussion": "Panjang 15 m dan lebar 9 m. Rasio 15 : 9 dibagi 3 pada kedua bilangan menjadi 5 : 3.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-012.svg",
+            "alt": "Denah persegi panjang dengan panjang 15 meter dan lebar 9 meter."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-063",
+          "type": "PG",
+          "text": "Tabel menunjukkan kebutuhan roti untuk peserta kegiatan. Setiap peserta mendapat jumlah roti sama. Berapa roti untuk 18 peserta?",
+          "options": [
+            "24 roti",
+            "27 roti",
+            "30 roti",
+            "36 roti"
+          ],
+          "answer": "27 roti",
+          "discussion": "Dua belas peserta memerlukan 18 roti. Delapan belas peserta adalah 1,5 kali 12, maka dibutuhkan 1,5 × 18 = 27 roti.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-013.svg",
+            "alt": "Tabel 12 peserta membutuhkan 18 roti; kebutuhan 18 peserta belum diketahui."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-064",
+          "type": "PG",
+          "text": "Berapa rasio petak biru terhadap petak putih dalam bentuk paling sederhana?",
+          "options": [
+            "3 : 2",
+            "2 : 3",
+            "3 : 5",
+            "5 : 3"
+          ],
+          "answer": "3 : 2",
+          "discussion": "Dari 10 petak, 6 biru dan 4 putih. Rasio biru : putih = 6 : 4 = 3 : 2.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-014.svg",
+            "alt": "Satu baris terdiri dari sepuluh petak sama besar; enam biru dan empat putih."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-065",
+          "type": "PG",
+          "text": "Gambar awal berukuran panjang 6 cm dan lebar 4 cm. Jika diperbesar dengan rasio yang sama hingga panjangnya 15 cm, berapa lebarnya?",
+          "options": [
+            "8 cm",
+            "10 cm",
+            "12 cm",
+            "13 cm"
+          ],
+          "answer": "10 cm",
+          "discussion": "Faktor perbesaran = 15 ÷ 6 = 2,5. Lebar baru = 4 × 2,5 = 10 cm.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-015.svg",
+            "alt": "Gambar awal persegi panjang berukuran 6 cm kali 4 cm; panjang hasil perbesaran 15 cm."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-066",
+          "type": "PG",
+          "text": "Rasio pupuk A terhadap pupuk B adalah 2 : 5. Berdasarkan tabel, jika pupuk B sebanyak 20 kg, berapa kilogram pupuk A?",
+          "options": [
+            "4 kg",
+            "8 kg",
+            "10 kg",
+            "12 kg"
+          ],
+          "answer": "8 kg",
+          "discussion": "Dari 5 kg ke 20 kg dikalikan 4. Pupuk A juga dikalikan 4: 2 × 4 = 8 kg.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-016.svg",
+            "alt": "Tabel campuran pupuk A dan B: 2 kg A untuk 5 kg B, dan A belum diketahui untuk 20 kg B."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-067",
+          "type": "PG",
+          "text": "Model menunjukkan rasio buku cerita terhadap buku sains 5 : 3. Jika selisih jumlahnya 8 buku, berapa buku cerita?",
+          "options": [
+            "12 buku",
+            "16 buku",
+            "20 buku",
+            "32 buku"
+          ],
+          "answer": "20 buku",
+          "discussion": "Selisih bagian = 5 − 3 = 2 bagian. Dua bagian mewakili 8 buku, maka satu bagian 4 buku. Buku cerita = 5 × 4 = 20.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-017.svg",
+            "alt": "Model cerita lima bagian biru dan sains tiga bagian biru. Setiap bagian biru mewakili jumlah buku yang sama."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-068",
+          "type": "PG",
+          "text": "Dua takaran memakai rasio tepung terhadap gula yang sama. Nilai yang tepat untuk tanda tanya adalah ...",
+          "options": [
+            "4 cangkir",
+            "5 cangkir",
+            "6 cangkir",
+            "9 cangkir"
+          ],
+          "answer": "6 cangkir",
+          "discussion": "Rasio tepung : gula = 3 : 2. Tepung menjadi 9 atau tiga kali semula, sehingga gula juga tiga kali: 2 × 3 = 6 cangkir.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-018.svg",
+            "alt": "Tabel resep 3 cangkir tepung dengan 2 cangkir gula; untuk 9 cangkir tepung, gula belum diketahui."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-069",
+          "type": "PG",
+          "text": "Rani mengatakan rasio bola biru terhadap seluruh bola adalah 2 : 3. Apakah pernyataannya benar?",
+          "options": [
+            "Tidak, rasio yang benar 2 : 5",
+            "Benar, karena ada 4 biru dan 6 merah",
+            "Tidak, rasio yang benar 3 : 5",
+            "Benar, karena seluruhnya 6 bola"
+          ],
+          "answer": "Tidak, rasio yang benar 2 : 5",
+          "discussion": "Empat bola biru dibandingkan dengan seluruh 10 bola menghasilkan 4 : 10 = 2 : 5. Rasio 2 : 3 adalah biru terhadap merah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-019.svg",
+            "alt": "Empat bola biru dan enam bola merah tersusun pada dua baris."
+          }
+        },
+        {
+          "id": "MTK-B02-M01-070",
+          "type": "PG",
+          "text": "Denah ruang kelas pada gambar mempunyai skala 1 : 200. Berapa lebar ruang kelas yang sebenarnya?",
+          "options": [
+            "4 m",
+            "6 m",
+            "8 m",
+            "12 m"
+          ],
+          "answer": "6 m",
+          "discussion": "Lebar pada denah 3 cm. Lebar sebenarnya = 3 × 200 = 600 cm = 6 m.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b02a-020.svg",
+            "alt": "Denah ruang kelas dengan panjang 4 cm dan lebar 3 cm, berskala 1 banding 200."
+          }
+        }
+      ]
+    }
+  ]
+}
