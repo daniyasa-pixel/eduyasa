@@ -1,0 +1,664 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Budaya — Seni Rupa",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "SBD-B05",
+      "chapter_title": "Aku Seniman Cilik",
+      "questions": [
+        {
+          "id": "SBD-B05-M01-001",
+          "type": "PG",
+          "text": "Tujuan pameran kelas antara lain ...",
+          "options": [
+            "Membagikan karya, belajar mengapresiasi, dan merefleksikan proses",
+            "Memaksa semua pengunjung membeli karya",
+            "Mengurutkan harga diri siswa",
+            "Menyembunyikan karya dari teman"
+          ],
+          "answer": "Membagikan karya, belajar mengapresiasi, dan merefleksikan proses",
+          "discussion": "Pameran merupakan ruang berbagi hasil dan pengalaman belajar seni."
+        },
+        {
+          "id": "SBD-B05-M01-002",
+          "type": "PG",
+          "text": "Langkah awal merencanakan pameran adalah ...",
+          "options": [
+            "Menempel karya di semua tempat tanpa rencana",
+            "Memindahkan barang kelas tanpa izin",
+            "Membeli hiasan sebanyak mungkin",
+            "Menentukan tujuan, tema, dan karya yang akan ditampilkan"
+          ],
+          "answer": "Menentukan tujuan, tema, dan karya yang akan ditampilkan",
+          "discussion": "Tujuan dan tema menjadi dasar keputusan pemilihan karya serta penyajiannya."
+        },
+        {
+          "id": "SBD-B05-M01-003",
+          "type": "PG",
+          "text": "Apa fungsi pembagian tugas panitia?",
+          "options": [
+            "Menghilangkan kebutuhan berkomunikasi",
+            "Membatasi partisipasi hanya untuk teman dekat",
+            "Memperjelas tanggung jawab dan membantu koordinasi",
+            "Membuat satu siswa mengerjakan semuanya"
+          ],
+          "answer": "Memperjelas tanggung jawab dan membantu koordinasi",
+          "discussion": "Tugas yang jelas membantu persiapan dilakukan bersama dan dapat dipantau."
+        },
+        {
+          "id": "SBD-B05-M01-004",
+          "type": "PG",
+          "text": "Tugas penata pajangan terutama adalah ...",
+          "options": [
+            "Mengganti seluruh gagasan seniman",
+            "Mengatur posisi karya agar aman dan mudah diamati",
+            "Mengubah nama pembuat karya",
+            "Menentukan alamat pribadi pengunjung"
+          ],
+          "answer": "Mengatur posisi karya agar aman dan mudah diamati",
+          "discussion": "Penataan memperhatikan hubungan karya, ruang, keamanan, dan pengalaman pengunjung."
+        },
+        {
+          "id": "SBD-B05-M01-005",
+          "type": "PG",
+          "text": "Tugas pembuat label karya terutama adalah ...",
+          "options": [
+            "Menyiapkan informasi identitas dan penjelasan singkat yang disepakati",
+            "Mengarang asal karya tanpa bertanya",
+            "Menentukan nilai pribadi pembuat",
+            "Menghapus judul semua karya"
+          ],
+          "answer": "Menyiapkan informasi identitas dan penjelasan singkat yang disepakati",
+          "discussion": "Label membantu pengunjung mengenali karya dan memperoleh konteksnya."
+        },
+        {
+          "id": "SBD-B05-M01-006",
+          "type": "PG",
+          "text": "Informasi dasar pada label karya dapat berupa ...",
+          "options": [
+            "Alamat rumah lengkap dan nomor pribadi siswa",
+            "Rahasia keluarga pembuat",
+            "Daftar kekurangan teman",
+            "Judul, nama pembuat yang disepakati, bahan, dan penjelasan singkat"
+          ],
+          "answer": "Judul, nama pembuat yang disepakati, bahan, dan penjelasan singkat",
+          "discussion": "Informasi dipilih untuk memahami karya tanpa membuka data sensitif."
+        },
+        {
+          "id": "SBD-B05-M01-007",
+          "type": "PG",
+          "text": "Apa pertimbangan memilih karya untuk pameran kelas?",
+          "options": [
+            "Hanya memilih bahan yang paling mahal",
+            "Menolak semua karya yang berbeda selera panitia",
+            "Kesesuaian tema, kesiapan, dan kesempatan berpartisipasi yang adil",
+            "Hanya memilih karya teman terdekat"
+          ],
+          "answer": "Kesesuaian tema, kesiapan, dan kesempatan berpartisipasi yang adil",
+          "discussion": "Pemilihan perlu beralasan dan menghargai keragaman hasil belajar siswa."
+        },
+        {
+          "id": "SBD-B05-M01-008",
+          "type": "PG",
+          "text": "Jalur pengunjung sebaiknya ...",
+          "options": [
+            "Dibuat hanya dapat dilalui satu jenis pengunjung",
+            "Cukup lapang dan tidak menghalangi jalan keluar",
+            "Dipenuhi kabel yang melintang tanpa pengamanan",
+            "Ditutup oleh meja paling berat"
+          ],
+          "answer": "Cukup lapang dan tidak menghalangi jalan keluar",
+          "discussion": "Alur yang aman dan dapat diakses membantu semua pengunjung menikmati pameran."
+        },
+        {
+          "id": "SBD-B05-M01-009",
+          "type": "PG",
+          "text": "Mengapa tinggi pajangan perlu diperhatikan?",
+          "options": [
+            "Agar karya dapat dilihat dengan nyaman oleh pengunjung",
+            "Agar semua karya selalu ditempel di langit-langit",
+            "Agar label tidak perlu dibaca",
+            "Agar karya kecil tersembunyi"
+          ],
+          "answer": "Agar karya dapat dilihat dengan nyaman oleh pengunjung",
+          "discussion": "Penempatan disesuaikan dengan arah pandang dan kebutuhan pengunjung, termasuk anak-anak."
+        },
+        {
+          "id": "SBD-B05-M01-010",
+          "type": "PG",
+          "text": "Jika karya kecil mudah jatuh, penata sebaiknya ...",
+          "options": [
+            "Meletakkannya di tepi meja yang goyah",
+            "Menumpuk karya lain di atasnya",
+            "Membiarkan pengunjung memegangnya tanpa aturan",
+            "Memakai alas dan penopang yang stabil"
+          ],
+          "answer": "Memakai alas dan penopang yang stabil",
+          "discussion": "Kestabilan penopang melindungi karya dan menjaga keamanan ruang."
+        },
+        {
+          "id": "SBD-B05-M01-011",
+          "type": "PG",
+          "text": "Mengapa lampu yang terlalu menyilaukan perlu dihindari?",
+          "options": [
+            "Cahaya tidak memengaruhi penglihatan",
+            "Label lebih baik disembunyikan oleh pantulan",
+            "Pantulan dan silau dapat mengganggu pengamatan karya",
+            "Semua karya harus selalu berada dalam gelap"
+          ],
+          "answer": "Pantulan dan silau dapat mengganggu pengamatan karya",
+          "discussion": "Pencahayaan yang cukup dan tidak menyilaukan membantu detail terlihat."
+        },
+        {
+          "id": "SBD-B05-M01-012",
+          "type": "PG",
+          "text": "Apa fungsi denah pameran sederhana?",
+          "options": [
+            "Membuat meja tidak perlu diperiksa",
+            "Merencanakan lokasi karya, jalur, dan fasilitas",
+            "Menggantikan seluruh karya yang dipamerkan",
+            "Menentukan sifat semua pengunjung"
+          ],
+          "answer": "Merencanakan lokasi karya, jalur, dan fasilitas",
+          "discussion": "Denah membantu menilai hubungan ruang sebelum penataan dilakukan."
+        },
+        {
+          "id": "SBD-B05-M01-013",
+          "type": "PG",
+          "text": "Jika dua kelompok memakai tempat yang sama, langkah yang tepat adalah ...",
+          "options": [
+            "Menyepakati pembagian ruang berdasarkan denah dan kebutuhan",
+            "Memindahkan karya kelompok lain diam-diam",
+            "Menutup akses kelompok lain",
+            "Membatalkan semua diskusi"
+          ],
+          "answer": "Menyepakati pembagian ruang berdasarkan denah dan kebutuhan",
+          "discussion": "Kesepakatan dan perencanaan ruang mencegah konflik serta menjaga fungsi pameran."
+        },
+        {
+          "id": "SBD-B05-M01-014",
+          "type": "PG",
+          "text": "Apa yang perlu diperiksa sebelum pameran dibuka?",
+          "options": [
+            "Hanya warna pakaian panitia",
+            "Jumlah barang mahal di ruangan",
+            "Kesamaan selera semua pengunjung",
+            "Kestabilan pajangan, label, kebersihan, dan akses keluar"
+          ],
+          "answer": "Kestabilan pajangan, label, kebersihan, dan akses keluar",
+          "discussion": "Pemeriksaan akhir memastikan informasi dan pengaturan ruang bekerja dengan aman."
+        },
+        {
+          "id": "SBD-B05-M01-015",
+          "type": "PG",
+          "text": "Sikap pengunjung yang menghargai karya adalah ...",
+          "options": [
+            "Mencoret label yang tidak disukai",
+            "Memegang bagian rapuh tanpa bertanya",
+            "Mengamati tanpa menyentuh kecuali diizinkan",
+            "Menggeser semua karya agar sesuai selera"
+          ],
+          "answer": "Mengamati tanpa menyentuh kecuali diizinkan",
+          "discussion": "Aturan sentuhan melindungi karya dan menghormati keputusan pembuat serta panitia."
+        },
+        {
+          "id": "SBD-B05-M01-016",
+          "type": "PG",
+          "text": "Saat ingin memotret karya atau siswa, pengunjung sebaiknya ...",
+          "options": [
+            "Mengabaikan penolakan pembuat",
+            "Mengikuti aturan pameran dan meminta izin yang diperlukan",
+            "Menganggap semua foto bebas diunggah",
+            "Memotret data pribadi pada daftar panitia"
+          ],
+          "answer": "Mengikuti aturan pameran dan meminta izin yang diperlukan",
+          "discussion": "Dokumentasi perlu menghargai izin, privasi, dan aturan penggunaan foto."
+        },
+        {
+          "id": "SBD-B05-M01-017",
+          "type": "PG",
+          "text": "Bagaimana pemandu menjelaskan karya tanpa mengarang?",
+          "options": [
+            "Menggunakan informasi label dan penjelasan pembuat",
+            "Menebak pengalaman pribadi pembuat sebagai fakta",
+            "Mengatakan semua simbol punya makna tunggal",
+            "Mengganti judul sesuai selera sendiri"
+          ],
+          "answer": "Menggunakan informasi label dan penjelasan pembuat",
+          "discussion": "Penjelasan pemandu harus berlandaskan informasi yang disepakati dan mengakui hal yang belum diketahui."
+        },
+        {
+          "id": "SBD-B05-M01-018",
+          "type": "PG",
+          "text": "Pertanyaan apresiasi yang sesuai adalah ...",
+          "options": [
+            "Mengapa kamu tidak meniru warna favoritku?",
+            "Apakah karya ini membuktikan kamu malas?",
+            "Mengapa semua karya tidak dibuat sama?",
+            "Apa pertimbanganmu memilih bahan ini?"
+          ],
+          "answer": "Apa pertimbanganmu memilih bahan ini?",
+          "discussion": "Pertanyaan tentang pilihan artistik membuka pembicaraan yang relevan dan tidak menghakimi."
+        },
+        {
+          "id": "SBD-B05-M01-019",
+          "type": "PG",
+          "text": "Komentar pengunjung yang membantu adalah ...",
+          "options": [
+            "Pembuatnya tidak perlu berkarya lagi",
+            "Warna yang tidak kusukai harus dilarang",
+            "Bagian judul sulit dibaca dari jalur; mungkin dapat diperbesar",
+            "Semua karya ini buruk tanpa alasan"
+          ],
+          "answer": "Bagian judul sulit dibaca dari jalur; mungkin dapat diperbesar",
+          "discussion": "Komentar terarah menghubungkan pengamatan dengan kemungkinan perbaikan."
+        },
+        {
+          "id": "SBD-B05-M01-020",
+          "type": "PG",
+          "text": "Apa fungsi buku atau kartu tanggapan?",
+          "options": [
+            "Menentukan siswa paling berharga",
+            "Mengumpulkan masukan untuk refleksi pembuat dan panitia",
+            "Menggantikan izin pemotretan",
+            "Mencatat rahasia pribadi pengunjung"
+          ],
+          "answer": "Mengumpulkan masukan untuk refleksi pembuat dan panitia",
+          "discussion": "Masukan dapat membantu menilai pengalaman pameran dan merencanakan perbaikan."
+        },
+        {
+          "id": "SBD-B05-M01-021",
+          "type": "PG",
+          "text": "Mengapa jumlah pengunjung bukan satu-satunya ukuran keberhasilan?",
+          "options": [
+            "Kejelasan informasi, partisipasi, keamanan, dan pembelajaran juga penting",
+            "Karena pengunjung tidak pernah diperlukan",
+            "Karena jumlah pengunjung harus selalu dirahasiakan",
+            "Karena semua kegiatan tanpa tujuan pasti berhasil"
+          ],
+          "answer": "Kejelasan informasi, partisipasi, keamanan, dan pembelajaran juga penting",
+          "discussion": "Keberhasilan dinilai terhadap tujuan pameran, bukan satu angka saja."
+        },
+        {
+          "id": "SBD-B05-M01-022",
+          "type": "PG",
+          "text": "Jika label tertukar, panitia sebaiknya ...",
+          "options": [
+            "Membiarkan karena label tidak penting",
+            "Mengganti nama semua pembuat secara acak",
+            "Menyalahkan pengunjung tanpa memeriksa",
+            "Mencocokkan dengan data karya dan pembuat lalu memperbaikinya"
+          ],
+          "answer": "Mencocokkan dengan data karya dan pembuat lalu memperbaikinya",
+          "discussion": "Label adalah informasi tentang karya dan perlu akurat."
+        },
+        {
+          "id": "SBD-B05-M01-023",
+          "type": "PG",
+          "text": "Mengapa karya tiga dimensi tidak boleh ditumpuk sembarangan?",
+          "options": [
+            "Karena karya datar tidak pernah dapat rusak",
+            "Karena warna akan otomatis berubah",
+            "Beban dan tekanan dapat merusak bentuk atau sambungannya",
+            "Karena semua karya tiga dimensi selalu berat"
+          ],
+          "answer": "Beban dan tekanan dapat merusak bentuk atau sambungannya",
+          "discussion": "Bentuk, bahan, dan penopang perlu diperhatikan saat menyimpan maupun memajang."
+        },
+        {
+          "id": "SBD-B05-M01-024",
+          "type": "PG",
+          "text": "Cara memberi ruang bagi karya berbeda ukuran adalah ...",
+          "options": [
+            "Menumpuk karya terbesar di atas karya lain",
+            "Menyesuaikan jarak dan posisi sambil menjaga keterbacaan keseluruhan",
+            "Memaksa semua karya masuk satu bingkai kecil",
+            "Menutupi semua karya kecil"
+          ],
+          "answer": "Menyesuaikan jarak dan posisi sambil menjaga keterbacaan keseluruhan",
+          "discussion": "Penataan perlu menanggapi kebutuhan masing-masing karya dan hubungan dalam ruang."
+        },
+        {
+          "id": "SBD-B05-M01-025",
+          "type": "PG",
+          "text": "Apa manfaat uji coba jalur sebelum pembukaan?",
+          "options": [
+            "Menemukan bagian sempit atau informasi yang sulit dilihat",
+            "Menjamin tidak pernah ada perubahan pengunjung",
+            "Menghilangkan kebutuhan menjaga kebersihan",
+            "Membuat semua karya harus dipindahkan"
+          ],
+          "answer": "Menemukan bagian sempit atau informasi yang sulit dilihat",
+          "discussion": "Simulasi kunjungan membantu menemukan hambatan dari sudut pandang pengunjung."
+        },
+        {
+          "id": "SBD-B05-M01-026",
+          "type": "PG",
+          "text": "Jika pengunjung harus membungkuk sangat jauh untuk membaca label, solusinya adalah ...",
+          "options": [
+            "Memperkecil tulisan lagi",
+            "Melepas semua label tanpa pengganti",
+            "Menyalahkan pengunjung yang bertanya",
+            "Menyesuaikan tinggi dan ukuran tulisan label"
+          ],
+          "answer": "Menyesuaikan tinggi dan ukuran tulisan label",
+          "discussion": "Informasi perlu ditempatkan dan ditulis agar nyaman diakses."
+        },
+        {
+          "id": "SBD-B05-M01-027",
+          "type": "PG",
+          "text": "Mengapa jalan keluar tidak boleh tertutup pajangan?",
+          "options": [
+            "Agar pengunjung tidak dapat meninggalkan pameran",
+            "Karena label tidak boleh dekat pintu",
+            "Akses keluar harus tetap dapat digunakan dengan aman",
+            "Agar karya paling besar selalu dekat pintu"
+          ],
+          "answer": "Akses keluar harus tetap dapat digunakan dengan aman",
+          "discussion": "Fungsi keselamatan ruang tidak boleh dikorbankan untuk penataan karya."
+        },
+        {
+          "id": "SBD-B05-M01-028",
+          "type": "PG",
+          "text": "Panitia menemukan kabel melintang di jalur. Tindakan yang tepat adalah ...",
+          "options": [
+            "Meminta pengunjung melompatinya terus-menerus",
+            "Melaporkan kepada guru dan mengatur ulang jalur atau kabel dengan aman",
+            "Membiarkannya tanpa tanda atau pengamanan",
+            "Menutup kabel dengan karya rapuh"
+          ],
+          "answer": "Melaporkan kepada guru dan mengatur ulang jalur atau kabel dengan aman",
+          "discussion": "Hambatan di lantai berisiko membuat orang tersandung dan perlu ditangani secara aman."
+        },
+        {
+          "id": "SBD-B05-M01-029",
+          "type": "PG",
+          "text": "Apa hubungan tema pameran dan pilihan karya?",
+          "options": [
+            "Tema membantu menghubungkan karya tanpa mewajibkan bentuk yang seragam",
+            "Tema berarti semua karya harus identik",
+            "Tema ditentukan hanya oleh harga karya",
+            "Tema tidak boleh dijelaskan kepada pengunjung"
+          ],
+          "answer": "Tema membantu menghubungkan karya tanpa mewajibkan bentuk yang seragam",
+          "discussion": "Tema memberi benang penghubung, sementara karya tetap dapat beragam."
+        },
+        {
+          "id": "SBD-B05-M01-030",
+          "type": "PG",
+          "text": "Tugas pemandu berbeda dari tugas penata karena pemandu terutama ...",
+          "options": [
+            "Mengubah seluruh karya saat pengunjung datang",
+            "Menentukan harga diri pembuat",
+            "Menghapus label yang belum dibaca",
+            "Membantu pengunjung memahami informasi dan aturan pameran"
+          ],
+          "answer": "Membantu pengunjung memahami informasi dan aturan pameran",
+          "discussion": "Pemandu mendukung pengalaman dan komunikasi, sementara penataan berfokus pada penyajian fisik."
+        },
+        {
+          "id": "SBD-B05-M01-031",
+          "type": "PG",
+          "text": "Mengapa jadwal persiapan pameran perlu dibuat?",
+          "options": [
+            "Agar panitia tidak perlu saling memberi kabar",
+            "Agar semua siswa harus mendapat tugas yang sama persis",
+            "Agar tugas yang saling bergantung dapat selesai tepat urutan",
+            "Agar seluruh tugas dilakukan saat pintu dibuka"
+          ],
+          "answer": "Agar tugas yang saling bergantung dapat selesai tepat urutan",
+          "discussion": "Jadwal membantu mengatur pengumpulan karya, pembuatan label, penataan, dan pemeriksaan."
+        },
+        {
+          "id": "SBD-B05-M01-032",
+          "type": "PG",
+          "text": "Jika satu tugas terlambat, kelompok sebaiknya ...",
+          "options": [
+            "Menghentikan semua pekerjaan lain tanpa alasan",
+            "Membahas dampaknya dan menyesuaikan pembagian kerja secara adil",
+            "Menyembunyikan keterlambatan dari semua anggota",
+            "Mengejek penanggung jawab tanpa mencari solusi"
+          ],
+          "answer": "Membahas dampaknya dan menyesuaikan pembagian kerja secara adil",
+          "discussion": "Komunikasi memungkinkan penyesuaian agar tujuan bersama tetap tercapai."
+        },
+        {
+          "id": "SBD-B05-M01-033",
+          "type": "PG",
+          "text": "Apa yang termasuk dokumentasi proses pameran?",
+          "options": [
+            "Catatan pembagian tugas dan foto penataan dengan izin",
+            "Hanya daftar rahasia pengunjung",
+            "Salinan data pribadi siswa yang tidak diperlukan",
+            "Foto karya tanpa mencatat pembuatnya lalu mengaku sendiri"
+          ],
+          "answer": "Catatan pembagian tugas dan foto penataan dengan izin",
+          "discussion": "Dokumentasi proses merekam persiapan dan keputusan, dengan tetap menghargai izin serta identitas karya."
+        },
+        {
+          "id": "SBD-B05-M01-034",
+          "type": "PG",
+          "text": "Saat menyimpan karya setelah pameran, langkah yang tepat adalah ...",
+          "options": [
+            "Membagikan karya kepada pengunjung tanpa izin",
+            "Membuang semua karya tanpa bertanya",
+            "Menghapus semua identitas karya",
+            "Mencatat pemilik dan mengembalikan atau menyimpan sesuai kesepakatan"
+          ],
+          "answer": "Mencatat pemilik dan mengembalikan atau menyimpan sesuai kesepakatan",
+          "discussion": "Penanganan setelah pameran tetap menghormati kepemilikan dan keputusan pembuat."
+        },
+        {
+          "id": "SBD-B05-M01-035",
+          "type": "PG",
+          "text": "Mengapa refleksi panitia perlu mencakup hal yang berhasil?",
+          "options": [
+            "Agar tidak perlu mendengar masukan",
+            "Agar semua tugas diberikan kepada satu orang",
+            "Agar langkah yang membantu dapat dipertahankan pada kegiatan berikutnya",
+            "Agar semua kekurangan disembunyikan"
+          ],
+          "answer": "Agar langkah yang membantu dapat dipertahankan pada kegiatan berikutnya",
+          "discussion": "Refleksi meninjau kekuatan sekaligus bagian yang perlu diperbaiki."
+        },
+        {
+          "id": "SBD-B05-M01-036",
+          "type": "PG",
+          "text": "Contoh refleksi yang dapat ditindaklanjuti adalah ...",
+          "options": [
+            "Tidak ada yang perlu diperiksa lagi",
+            "Jalur dekat meja sempit; berikutnya meja digeser agar akses lebih lapang",
+            "Pameran harus bagus pokoknya",
+            "Semua pengunjung salah menilai"
+          ],
+          "answer": "Jalur dekat meja sempit; berikutnya meja digeser agar akses lebih lapang",
+          "discussion": "Refleksi yang menunjuk masalah dan tindakan membantu perencanaan berikutnya."
+        },
+        {
+          "id": "SBD-B05-M01-037",
+          "type": "PG",
+          "text": "Apa yang perlu dilakukan ketika karya pengunjung ingin disentuh tetapi rapuh?",
+          "options": [
+            "Menjelaskan aturan dan menyediakan cara pengamatan yang aman",
+            "Membiarkan semua bagian ditarik",
+            "Menyerahkan karya tanpa izin pembuat",
+            "Menyuruh pengunjung menebak kekuatannya"
+          ],
+          "answer": "Menjelaskan aturan dan menyediakan cara pengamatan yang aman",
+          "discussion": "Aturan dan alternatif pengamatan melindungi karya sekaligus membantu pengunjung."
+        },
+        {
+          "id": "SBD-B05-M01-038",
+          "type": "PG",
+          "text": "Agar pameran ramah bagi lebih banyak pengunjung, panitia dapat ...",
+          "options": [
+            "Menutup jalur dengan barang tambahan",
+            "Menaruh semua label di tempat sangat tinggi",
+            "Membuat semua tulisan kecil dan rapat",
+            "Membuat jalur lapang dan informasi yang jelas serta mudah dibaca"
+          ],
+          "answer": "Membuat jalur lapang dan informasi yang jelas serta mudah dibaca",
+          "discussion": "Akses fisik dan informasi merupakan bagian penting pengalaman pameran."
+        },
+        {
+          "id": "SBD-B05-M01-039",
+          "type": "PG",
+          "text": "Mengapa pajangan dekat sumber air perlu dipertimbangkan ulang?",
+          "options": [
+            "Karena air tidak pernah memengaruhi kertas",
+            "Karena judul menentukan ketahanan bahan",
+            "Sebagian bahan dapat rusak bila terkena percikan atau kelembapan",
+            "Karena semua karya pasti tahan air"
+          ],
+          "answer": "Sebagian bahan dapat rusak bila terkena percikan atau kelembapan",
+          "discussion": "Penempatan mempertimbangkan sifat bahan dan risiko dari lingkungan sekitar."
+        },
+        {
+          "id": "SBD-B05-M01-040",
+          "type": "PG",
+          "text": "Apa yang sebaiknya dilakukan jika belum mengetahui jawaban pertanyaan pengunjung?",
+          "options": [
+            "Mengganti identitas karya",
+            "Mengakui belum tahu lalu mencari informasi dari pembuat atau guru",
+            "Mengarang jawaban agar terdengar yakin",
+            "Menyalahkan pertanyaannya"
+          ],
+          "answer": "Mengakui belum tahu lalu mencari informasi dari pembuat atau guru",
+          "discussion": "Kejujuran informasi lebih baik daripada menyampaikan dugaan sebagai fakta."
+        },
+        {
+          "id": "SBD-B05-M01-041",
+          "type": "PG",
+          "text": "Mengapa pameran kelas dapat memuat catatan proses bersama karya akhir?",
+          "options": [
+            "Agar pengunjung memahami perkembangan gagasan dan usaha pembuat",
+            "Agar karya akhir tidak perlu ditampilkan lagi",
+            "Agar semua percobaan dianggap kegagalan",
+            "Agar sumber inspirasi dapat dihapus"
+          ],
+          "answer": "Agar pengunjung memahami perkembangan gagasan dan usaha pembuat",
+          "discussion": "Catatan proses memperlihatkan pembelajaran di balik hasil yang dipajang."
+        },
+        {
+          "id": "SBD-B05-M01-042",
+          "type": "PG",
+          "text": "Apa yang dimaksud kurasi sederhana dalam pameran kelas?",
+          "options": [
+            "Mengambil karya tanpa izin",
+            "Mengganti nama seluruh pembuat",
+            "Memilih semata-mata berdasarkan pertemanan",
+            "Memilih dan menyusun karya berdasarkan tujuan serta alasan yang jelas"
+          ],
+          "answer": "Memilih dan menyusun karya berdasarkan tujuan serta alasan yang jelas",
+          "discussion": "Kurasi membantu membangun hubungan karya dengan tema dan pengalaman pengunjung."
+        },
+        {
+          "id": "SBD-B05-M01-043",
+          "type": "PG",
+          "text": "Bagaimana menanggapi pengunjung yang memiliki tafsiran berbeda?",
+          "options": [
+            "Menganggap pengunjung pasti berbohong",
+            "Menutup karya dari semua orang",
+            "Mendengarkan alasannya dan menjelaskan gagasan pembuat tanpa memaksa",
+            "Melarang semua tafsiran lain"
+          ],
+          "answer": "Mendengarkan alasannya dan menjelaskan gagasan pembuat tanpa memaksa",
+          "discussion": "Apresiasi memberi ruang sudut pandang berbeda dengan tetap menghargai informasi dari pembuat."
+        },
+        {
+          "id": "SBD-B05-M01-044",
+          "type": "PG",
+          "text": "Apa fungsi ajakan menjaga jarak pada karya tertentu?",
+          "options": [
+            "Menghalangi semua orang melihat",
+            "Melindungi karya yang rentan dari sentuhan atau benturan",
+            "Membuktikan pembuat tidak menghargai penonton",
+            "Menyembunyikan seluruh informasi karya"
+          ],
+          "answer": "Melindungi karya yang rentan dari sentuhan atau benturan",
+          "discussion": "Batas jarak dapat diperlukan sesuai sifat bahan dan kondisi pajangan."
+        },
+        {
+          "id": "SBD-B05-M01-045",
+          "type": "PG",
+          "text": "Jika penataan membuat satu karya menutupi label karya lain, panitia sebaiknya ...",
+          "options": [
+            "Menggeser posisi agar karya dan label dapat dilihat",
+            "Menambahkan karya di depan label itu",
+            "Menghapus nama pembuat yang tertutup",
+            "Membiarkan informasi salah terbaca"
+          ],
+          "answer": "Menggeser posisi agar karya dan label dapat dilihat",
+          "discussion": "Penyajian karya dan informasi perlu diperiksa sebagai satu kesatuan."
+        },
+        {
+          "id": "SBD-B05-M01-046",
+          "type": "PG",
+          "text": "Mengapa semua anggota perlu mengetahui aturan dasar pameran?",
+          "options": [
+            "Agar setiap anggota boleh membuat aturan yang saling bertentangan",
+            "Agar hanya ketua boleh mengamati karya",
+            "Agar aturan tidak perlu disampaikan",
+            "Agar informasi kepada pengunjung konsisten dan tugas terkoordinasi"
+          ],
+          "answer": "Agar informasi kepada pengunjung konsisten dan tugas terkoordinasi",
+          "discussion": "Pemahaman bersama membantu pelaksanaan yang aman dan jelas."
+        },
+        {
+          "id": "SBD-B05-M01-047",
+          "type": "PG",
+          "text": "Apa contoh penghargaan kepada pembuat dalam laporan pameran?",
+          "options": [
+            "Menghapus seluruh sumber foto",
+            "Membagikan nomor pribadi tanpa kebutuhan",
+            "Mencantumkan judul dan nama sesuai kesepakatan serta izin dokumentasi",
+            "Mengaku membuat semua karya yang dipotret"
+          ],
+          "answer": "Mencantumkan judul dan nama sesuai kesepakatan serta izin dokumentasi",
+          "discussion": "Atribusi dan izin menunjukkan tanggung jawab saat menyebarluaskan dokumentasi."
+        },
+        {
+          "id": "SBD-B05-M01-048",
+          "type": "PG",
+          "text": "Sesudah menutup pameran, ruang kelas perlu ...",
+          "options": [
+            "Diubah menjadi tempat sampah bahan tanpa pemilahan",
+            "Dirapikan dan alat serta karya ditangani sesuai kesepakatan",
+            "Ditinggalkan penuh potongan dan perekat di lantai",
+            "Dikunci sebelum semua karya dicatat"
+          ],
+          "answer": "Dirapikan dan alat serta karya ditangani sesuai kesepakatan",
+          "discussion": "Penutupan mencakup pemulihan ruang agar dapat dipakai kembali dengan aman."
+        },
+        {
+          "id": "SBD-B05-M01-049",
+          "type": "PG",
+          "text": "Pertanyaan evaluasi yang sesuai tujuan belajar adalah ...",
+          "options": [
+            "Apakah pengunjung memahami karya dan apakah pembuat dapat menjelaskan prosesnya?",
+            "Siapa yang mempunyai alat paling mahal?",
+            "Siapa yang memiliki teman paling banyak?",
+            "Apakah semua orang memiliki warna favorit yang sama?"
+          ],
+          "answer": "Apakah pengunjung memahami karya dan apakah pembuat dapat menjelaskan prosesnya?",
+          "discussion": "Evaluasi berfokus pada komunikasi, apresiasi, partisipasi, dan hasil belajar."
+        },
+        {
+          "id": "SBD-B05-M01-050",
+          "type": "PG",
+          "text": "Hasil utama kegiatan Aku Seniman Cilik adalah ...",
+          "options": [
+            "Menuntut semua orang menyukai satu gaya",
+            "Menentukan nilai pribadi seseorang dari karya",
+            "Menghindari refleksi setelah pameran",
+            "Menyajikan karya dengan tanggung jawab serta belajar dari tanggapan"
+          ],
+          "answer": "Menyajikan karya dengan tanggung jawab serta belajar dari tanggapan",
+          "discussion": "Penyajian, apresiasi, dan refleksi melengkapi proses berkarya serta berbagi pengalaman seni."
+        }
+      ]
+    }
+  ]
+}

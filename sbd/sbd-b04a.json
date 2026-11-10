@@ -1,0 +1,354 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Budaya — Seni Rupa",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "SBD-B04",
+      "chapter_title": "Karya yang Mewakili Diriku",
+      "questions": [
+        {
+          "id": "SBD-B04-M01-051",
+          "type": "PG",
+          "text": "Jika seorang siswa ingin mewakili kegemarannya membaca, objek mana yang paling langsung berkaitan?",
+          "options": [
+            "R",
+            "Semua panel hanya berisi bola",
+            "Q",
+            "P"
+          ],
+          "answer": "Q",
+          "discussion": "Q menampilkan buku terbuka yang berhubungan dengan kegiatan membaca.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-minat.svg",
+            "alt": "P tumbuhan berdaun, Q buku terbuka, R bola; ketiganya dapat digunakan sebagai petunjuk kegiatan berbeda."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-052",
+          "type": "PG",
+          "text": "Apa yang sebaiknya dilakukan pembuat setelah memilih salah satu objek sebagai simbol diri?",
+          "options": [
+            "Menyalin nama pembuat lain",
+            "Menjelaskan hubungannya dengan minat atau pengalamannya",
+            "Menganggap semua orang pasti memaknai sama",
+            "Menyampaikan alamat rumah agar simbol sah"
+          ],
+          "answer": "Menjelaskan hubungannya dengan minat atau pengalamannya",
+          "discussion": "Simbol menjadi lebih mudah dipahami melalui konteks dan alasan pemilihannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-minat.svg",
+            "alt": "P tumbuhan berdaun, Q buku terbuka, R bola; ketiganya dapat digunakan sebagai petunjuk kegiatan berbeda."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-053",
+          "type": "PG",
+          "text": "Untuk karya bertema pengalaman mengunjungi perpustakaan, gambar ini dapat berfungsi sebagai ...",
+          "options": [
+            "Salah satu unsur yang mendukung gagasan",
+            "Bukti bahwa semua pengunjung mempunyai pengalaman sama",
+            "Data pribadi pembuat",
+            "Pengganti izin memakai karya orang lain"
+          ],
+          "answer": "Salah satu unsur yang mendukung gagasan",
+          "discussion": "Objek buku dapat mendukung tema perpustakaan, tetapi hubungan dengan pengalaman tetap perlu dijelaskan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-buku.svg",
+            "alt": "Buku terbuka dengan halaman berisi garis-garis. Objek ini dapat dipilih untuk karya tentang minat membaca."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-054",
+          "type": "PG",
+          "text": "Apakah penggunaan objek pada gambar mengharuskan semua karya tentang membaca berbentuk sama?",
+          "options": [
+            "Ya, seluruh halaman harus disalin persis",
+            "Ya, semua karya wajib memakai ukuran yang sama",
+            "Tidak, tetapi sumber inspirasi boleh diakui sebagai milik sendiri",
+            "Tidak, objek dan susunannya dapat dikembangkan sesuai gagasan"
+          ],
+          "answer": "Tidak, objek dan susunannya dapat dikembangkan sesuai gagasan",
+          "discussion": "Objek yang sama dapat diolah melalui komposisi, bahan, dan pengalaman yang berbeda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-buku.svg",
+            "alt": "Buku terbuka dengan halaman berisi garis-garis. Objek ini dapat dipilih untuk karya tentang minat membaca."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-055",
+          "type": "PG",
+          "text": "Pernyataan mana sesuai pengamatan dua rancangan?",
+          "options": [
+            "Tidak ada unsur tumbuhan",
+            "Keduanya tanpa warna",
+            "P menampilkan daun dan Q menampilkan bunga",
+            "Keduanya menampilkan kubus yang sama"
+          ],
+          "answer": "P menampilkan daun dan Q menampilkan bunga",
+          "discussion": "Daun dan bunga dapat diidentifikasi langsung, sedangkan sifat pribadi pembuat tidak dapat disimpulkan dari gambar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-pilihan.svg",
+            "alt": "Rancangan P menampilkan daun; rancangan Q menampilkan bunga. Keduanya berbeda bentuk dan warna."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-056",
+          "type": "PG",
+          "text": "Bagaimana memilih salah satu rancangan untuk karya pribadi?",
+          "options": [
+            "Membuang keduanya tanpa memeriksa tujuan",
+            "Menimbang mana yang paling membantu gagasan serta dapat dibuat dengan bahan tersedia",
+            "Memilih berdasarkan keharusan menyukai warna teman",
+            "Menganggap semua rancangan berbeda pasti salah"
+          ],
+          "answer": "Menimbang mana yang paling membantu gagasan serta dapat dibuat dengan bahan tersedia",
+          "discussion": "Pemilihan rancangan perlu dikaitkan dengan tujuan dan kemungkinan pelaksanaan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-pilihan.svg",
+            "alt": "Rancangan P menampilkan daun; rancangan Q menampilkan bunga. Keduanya berbeda bentuk dan warna."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-057",
+          "type": "PG",
+          "text": "Warna apa yang terlihat pada baris P?",
+          "options": [
+            "Merah, oranye, dan kuning",
+            "Biru, hijau, dan ungu",
+            "Hitam dan putih saja",
+            "Tidak ada warna"
+          ],
+          "answer": "Merah, oranye, dan kuning",
+          "discussion": "Baris P memperlihatkan tiga warna hangat yang dapat diamati pada gambar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-warna.svg",
+            "alt": "Baris P merah oranye kuning, baris Q biru hijau ungu."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-058",
+          "type": "PG",
+          "text": "Jika dua pembuat memilih kelompok warna berbeda untuk pengalaman yang sama, tanggapan yang tepat adalah ...",
+          "options": [
+            "Menganggap hanya kelompok P boleh dipakai",
+            "Menganggap kelompok Q membuktikan sifat buruk",
+            "Memaksa keduanya menghapus warna",
+            "Mendengarkan alasan pilihan masing-masing"
+          ],
+          "answer": "Mendengarkan alasan pilihan masing-masing",
+          "discussion": "Warna tidak selalu memiliki satu makna yang tetap; gagasan dan pengalaman pembuat perlu dipahami.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-warna.svg",
+            "alt": "Baris P merah oranye kuning, baris Q biru hijau ungu."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-059",
+          "type": "PG",
+          "text": "Unsur mana tampak paling ditekankan pada susunan ini?",
+          "options": [
+            "Ruang yang tidak terlihat di luar gambar",
+            "Tidak ada perbedaan antarlingkaran",
+            "Lingkaran besar merah di tengah",
+            "Semua lingkaran kecil sama-sama paling besar"
+          ],
+          "answer": "Lingkaran besar merah di tengah",
+          "discussion": "Ukuran dan kontras warna membuat lingkaran tengah lebih menonjol dibanding unsur di sekitarnya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-fokus.svg",
+            "alt": "Satu lingkaran besar merah di tengah dikelilingi lingkaran abu-abu yang lebih kecil."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-060",
+          "type": "PG",
+          "text": "Jika satu simbol pribadi ingin dijadikan pusat perhatian, pelajaran dari gambar adalah ...",
+          "options": [
+            "Menghapus semua hubungan antarunsur",
+            "Mengatur perbedaan ukuran atau warna secara terarah",
+            "Menutup simbol dengan hiasan sebanyak mungkin",
+            "Menyamakan semua nilai dengan latar hingga tidak terlihat"
+          ],
+          "answer": "Mengatur perbedaan ukuran atau warna secara terarah",
+          "discussion": "Penekanan dapat dibangun melalui perbedaan yang sesuai tujuan, bukan semata menambah hiasan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-fokus.svg",
+            "alt": "Satu lingkaran besar merah di tengah dikelilingi lingkaran abu-abu yang lebih kecil."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-061",
+          "type": "PG",
+          "text": "Panel mana memberi perhatian lebih terpusat pada satu bunga?",
+          "options": [
+            "Panel B",
+            "Panel A",
+            "Keduanya tanpa bunga",
+            "Keduanya berisi jumlah bunga sama"
+          ],
+          "answer": "Panel B",
+          "discussion": "Ruang kosong pada B membantu satu objek lebih langsung menjadi fokus.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-ruang.svg",
+            "alt": "Panel A banyak bunga rapat; panel B satu bunga dengan ruang kosong yang luas."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-062",
+          "type": "PG",
+          "text": "Jika pembuat justru ingin menunjukkan kebun yang ramai, panel mana dapat menjadi titik awal yang lebih dekat dengan tujuan itu?",
+          "options": [
+            "Panel B yang hanya berisi satu bunga",
+            "Keduanya tidak memiliki motif",
+            "Tidak ada pola pada A",
+            "Panel A"
+          ],
+          "answer": "Panel A",
+          "discussion": "A menampilkan banyak bunga; kesesuaiannya tetap perlu dipertimbangkan bersama tujuan dan susunan keseluruhan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-ruang.svg",
+            "alt": "Panel A banyak bunga rapat; panel B satu bunga dengan ruang kosong yang luas."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-063",
+          "type": "PG",
+          "text": "Jika karya memerlukan sifat permukaan kain yang nyata, objek yang relevan adalah ...",
+          "options": [
+            "Keduanya pasti sama licin",
+            "Keduanya tidak mempunyai bahan",
+            "P",
+            "Q"
+          ],
+          "answer": "P",
+          "discussion": "P ditandai sebagai kain goni asli, sehingga sifat kainnya dapat menjadi bagian material karya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-bahan.svg",
+            "alt": "P kain goni asli; Q foto pada kertas licin, digambarkan sebagai pilihan bahan yang berlainan sifat."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-064",
+          "type": "PG",
+          "text": "Jika ingin menyampaikan kesan visual kain pada bidang yang tetap licin, pilihan yang dapat dipertimbangkan adalah ...",
+          "options": [
+            "Menghilangkan seluruh bahan",
+            "Q, foto pada kertas licin",
+            "P yang harus tetap berupa kain asli",
+            "Menumpahkan lem di semua permukaan"
+          ],
+          "answer": "Q, foto pada kertas licin",
+          "discussion": "Foto dapat mewakili tampilan tekstur tanpa menghadirkan permukaan kain yang sebenarnya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-bahan.svg",
+            "alt": "P kain goni asli; Q foto pada kertas licin, digambarkan sebagai pilihan bahan yang berlainan sifat."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-065",
+          "type": "PG",
+          "text": "Tema yang dijelaskan pada label gambar adalah ...",
+          "options": [
+            "Taman yang ramah bagi semua",
+            "Lomba alat musik",
+            "Daftar alamat siswa",
+            "Penjualan semua karya"
+          ],
+          "answer": "Taman yang ramah bagi semua",
+          "discussion": "Baris cerita memberi konteks tentang gagasan taman yang ingin disampaikan kelompok.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-identitas.svg",
+            "alt": "Contoh label: Judul Taman Impianku; Pembuat Kelompok Melati; Bahan kardus dan kertas; Cerita taman yang ramah bagi semua."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-066",
+          "type": "PG",
+          "text": "Informasi mana yang tidak perlu ditambahkan ke label karya tersebut?",
+          "options": [
+            "Jenis bahan yang digunakan",
+            "Judul karya yang disepakati",
+            "Penjelasan singkat gagasan",
+            "Nomor pribadi dan alamat lengkap siswa"
+          ],
+          "answer": "Nomor pribadi dan alamat lengkap siswa",
+          "discussion": "Identitas sensitif tidak diperlukan untuk memahami karya dan perlu dilindungi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-identitas.svg",
+            "alt": "Contoh label: Judul Taman Impianku; Pembuat Kelompok Melati; Bahan kardus dan kertas; Cerita taman yang ramah bagi semua."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-067",
+          "type": "PG",
+          "text": "Kartu mana membantu menentukan gagasan sebelum bahan disiapkan?",
+          "options": [
+            "R, Buat karya",
+            "S, Periksa hasil",
+            "P, Rancang",
+            "Q, Siapkan bahan"
+          ],
+          "answer": "P, Rancang",
+          "discussion": "Rancangan mengarahkan pilihan bahan dan langkah pelaksanaan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-proses.svg",
+            "alt": "Empat kartu menunjukkan Rancang, Siapkan bahan, Buat karya, dan Periksa hasil."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-068",
+          "type": "PG",
+          "text": "Setelah meninjau hasil, pembuat menemukan simbol utamanya kurang terlihat. Ia sebaiknya ...",
+          "options": [
+            "Mengambil karya teman sebagai pengganti tanpa izin",
+            "Memilih perubahan yang memperjelas simbol lalu mengevaluasinya",
+            "Menghapus semua alasan pembuatan karya",
+            "Menyalahkan semua penonton"
+          ],
+          "answer": "Memilih perubahan yang memperjelas simbol lalu mengevaluasinya",
+          "discussion": "Evaluasi dapat diikuti revisi yang terarah pada gagasan pembuat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-proses.svg",
+            "alt": "Empat kartu menunjukkan Rancang, Siapkan bahan, Buat karya, dan Periksa hasil."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-069",
+          "type": "PG",
+          "text": "Penjelasan yang sesuai saat menunjukkan karya seperti pada gambar adalah ...",
+          "options": [
+            "Saya memilih bentuk tumbuhan karena berkaitan dengan pengalaman berkebun",
+            "Semua orang harus memiliki hobi yang sama",
+            "Warna ini membuktikan sifat pribadi semua penonton",
+            "Tidak ada keputusan yang perlu dijelaskan"
+          ],
+          "answer": "Saya memilih bentuk tumbuhan karena berkaitan dengan pengalaman berkebun",
+          "discussion": "Penjelasan menghubungkan unsur visual dengan pengalaman atau minat pembuat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-presentasi.svg",
+            "alt": "Dua anak menunjukkan karya tumbuhan dengan pilihan bentuk dan warna yang beragam; tidak ada data pribadi yang ditampilkan."
+          }
+        },
+        {
+          "id": "SBD-B04-M01-070",
+          "type": "PG",
+          "text": "Pertanyaan apresiasi yang relevan untuk karya pada gambar adalah ...",
+          "options": [
+            "Berapa nomor pribadi keluargamu?",
+            "Mengapa semua teman harus meniru karyamu?",
+            "Mengapa selera orang lain pasti salah?",
+            "Apa alasanmu mengatur bentuk-bentuk tumbuhan seperti itu?"
+          ],
+          "answer": "Apa alasanmu mengatur bentuk-bentuk tumbuhan seperti itu?",
+          "discussion": "Pertanyaan tentang keputusan artistik memberi ruang cerita dan menjaga batas privasi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b04-soal-presentasi.svg",
+            "alt": "Dua anak menunjukkan karya tumbuhan dengan pilihan bentuk dan warna yang beragam; tidak ada data pribadi yang ditampilkan."
+          }
+        }
+      ]
+    }
+  ]
+}

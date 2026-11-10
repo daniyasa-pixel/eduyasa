@@ -1,0 +1,25 @@
+{
+  "subject_id": "SBD",
+  "chapters": {
+    "SBD-B01": [
+      "sbd/sbd-b01.json",
+      "sbd/sbd-b01a.json"
+    ],
+    "SBD-B02": [
+      "sbd/sbd-b02.json",
+      "sbd/sbd-b02a.json"
+    ],
+    "SBD-B03": [
+      "sbd/sbd-b03.json",
+      "sbd/sbd-b03a.json"
+    ],
+    "SBD-B04": [
+      "sbd/sbd-b04.json",
+      "sbd/sbd-b04a.json"
+    ],
+    "SBD-B05": [
+      "sbd/sbd-b05.json",
+      "sbd/sbd-b05a.json"
+    ]
+  }
+}

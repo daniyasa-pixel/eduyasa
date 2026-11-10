@@ -1,0 +1,354 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Budaya — Seni Rupa",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "SBD-B01",
+      "chapter_title": "Menemukan Keindahan di Sekitar Kita",
+      "questions": [
+        {
+          "id": "SBD-B01-M01-051",
+          "type": "PG",
+          "text": "Panel manakah yang memperlihatkan garis vertikal?",
+          "options": [
+            "Panel C",
+            "Panel D",
+            "Panel A",
+            "Panel B"
+          ],
+          "answer": "Panel A",
+          "discussion": "Garis pada panel A mengarah tegak ke atas dan bawah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-garis.svg",
+            "alt": "Empat panel: A garis tegak, B mendatar, C lengkung, dan D zigzag."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-052",
+          "type": "PG",
+          "text": "Garis pada panel C paling sesuai untuk menggambarkan ...",
+          "options": [
+            "Sudut siku-siku persegi",
+            "Lengkungan kelopak bunga",
+            "Sisi penggaris yang lurus",
+            "Tiang lurus yang tegak"
+          ],
+          "answer": "Lengkungan kelopak bunga",
+          "discussion": "Panel C memperlihatkan garis melengkung, sesuai untuk kontur kelopak.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-garis.svg",
+            "alt": "Empat panel: A garis tegak, B mendatar, C lengkung, dan D zigzag."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-053",
+          "type": "PG",
+          "text": "Dalam latihan cat pigmen sederhana, warna apa yang diharapkan mengisi tanda tanya?",
+          "options": [
+            "Hijau",
+            "Oranye",
+            "Ungu",
+            "Putih"
+          ],
+          "answer": "Hijau",
+          "discussion": "Campuran cat kuning dan biru dapat menghasilkan hijau; hasil pastinya dipengaruhi jenis serta perbandingan cat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-campuran-hijau.svg",
+            "alt": "Cat kuning ditambah cat biru; warna hasil campuran ditandai tanda tanya."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-054",
+          "type": "PG",
+          "text": "Campuran pada gambar paling mungkin menghasilkan ...",
+          "options": [
+            "Hijau",
+            "Biru",
+            "Putih",
+            "Oranye"
+          ],
+          "answer": "Oranye",
+          "discussion": "Merah dan kuning merupakan pasangan dasar untuk membuat oranye pada latihan cat pigmen.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-campuran-oranye.svg",
+            "alt": "Cat merah ditambah cat kuning; hasil campuran ditandai tanda tanya."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-055",
+          "type": "PG",
+          "text": "Kesan kasar yang terlihat pada panel P termasuk ...",
+          "options": [
+            "Volume kayu asli",
+            "Permukaan amplas yang benar-benar diraba",
+            "Tekstur semu",
+            "Tekstur nyata dari kulit pohon yang ditempel"
+          ],
+          "answer": "Tekstur semu",
+          "discussion": "Panel P hanya gambar pada kertas licin; kesan permukaannya bersifat visual.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-tekstur.svg",
+            "alt": "Panel P gambar pola kulit pohon dan panel Q kertas polos. Keduanya berada pada kertas licin."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-056",
+          "type": "PG",
+          "text": "Jika bentuk Q dibuat sebagai benda nyata, benda itu termasuk karya ...",
+          "options": [
+            "Garis tunggal",
+            "Tiga dimensi",
+            "Dua dimensi saja",
+            "Tanpa kedalaman"
+          ],
+          "answer": "Tiga dimensi",
+          "discussion": "Kubus nyata mempunyai panjang, lebar, dan tinggi; gambar ini merupakan ilustrasi bentuk ruangnya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-dimensi.svg",
+            "alt": "P berupa lingkaran datar dan Q berupa ilustrasi kubus dengan tiga sisi terlihat."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-057",
+          "type": "PG",
+          "text": "Bidang datar P berbentuk ...",
+          "options": [
+            "Lingkaran",
+            "Segitiga",
+            "Persegi",
+            "Balok"
+          ],
+          "answer": "Lingkaran",
+          "discussion": "Panel P mempunyai garis tepi melingkar tanpa sudut.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-dimensi.svg",
+            "alt": "P berupa lingkaran datar dan Q berupa ilustrasi kubus dengan tiga sisi terlihat."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-058",
+          "type": "PG",
+          "text": "Bagian bola yang paling gelap tampak di ...",
+          "options": [
+            "Kiri atas",
+            "Tepat di sumber cahaya",
+            "Semua bagian sama gelap",
+            "Kanan bawah"
+          ],
+          "answer": "Kanan bawah",
+          "discussion": "Cahaya berasal dari kiri atas, sementara sisi yang membelakanginya digambar lebih gelap.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-cahaya.svg",
+            "alt": "Cahaya datang dari kiri atas. Bola terlihat lebih terang di kiri atas dan gelap di kanan bawah."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-059",
+          "type": "PG",
+          "text": "Rancangan mana yang judulnya lebih jelas terbaca pada ukuran yang ditampilkan?",
+          "options": [
+            "Keduanya tanpa tulisan",
+            "Tidak ada latar pada keduanya",
+            "Panel A",
+            "Panel B"
+          ],
+          "answer": "Panel A",
+          "discussion": "Tulisan putih panel A memiliki kontras nilai yang jelas terhadap biru tua.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-kontras.svg",
+            "alt": "Panel A tulisan putih pada latar biru tua; B tulisan biru tua pada latar biru tua."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-060",
+          "type": "PG",
+          "text": "Garis bantu pada kupu-kupu memperjelas ...",
+          "options": [
+            "Jadwal pameran",
+            "Keseimbangan simetris kiri dan kanan",
+            "Urutan campuran warna",
+            "Volume sebuah kubus"
+          ],
+          "answer": "Keseimbangan simetris kiri dan kanan",
+          "discussion": "Pasangan sayap tersusun saling mencerminkan terhadap sumbu tengah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-simetri.svg",
+            "alt": "Kupu-kupu dengan pasangan sayap kiri dan kanan saling mencerminkan; garis putus-putus menunjukkan sumbu tengah."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-061",
+          "type": "PG",
+          "text": "Susunan kelopak pada gambar menunjukkan ...",
+          "options": [
+            "Pola radial dari pusat",
+            "Satu garis horizontal",
+            "Pola tanpa hubungan dengan pusat",
+            "Susunan persegi bertingkat"
+          ],
+          "answer": "Pola radial dari pusat",
+          "discussion": "Kelopak mengelilingi satu pusat seperti jari-jari roda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-radial.svg",
+            "alt": "Enam kelopak bunga tersusun mengelilingi satu pusat; garis bantu menyebar dari pusat."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-062",
+          "type": "PG",
+          "text": "Mengapa lingkaran tengah lebih menonjol?",
+          "options": [
+            "Semua lingkaran mempunyai warna sama",
+            "Lingkaran tengah tidak memiliki bidang",
+            "Jumlah huruf pada gambar lebih banyak",
+            "Ukurannya lebih besar dan warnanya berbeda dari unsur sekitar"
+          ],
+          "answer": "Ukurannya lebih besar dan warnanya berbeda dari unsur sekitar",
+          "discussion": "Perbedaan ukuran dan warna memberi penekanan pada lingkaran tengah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-fokus.svg",
+            "alt": "Satu lingkaran besar merah di tengah dikelilingi enam lingkaran kecil abu-abu."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-063",
+          "type": "PG",
+          "text": "Bentuk apa yang melanjutkan pola pada tanda tanya?",
+          "options": [
+            "Persegi",
+            "Kubus",
+            "Lingkaran",
+            "Segitiga"
+          ],
+          "answer": "Lingkaran",
+          "discussion": "Unit pola adalah lingkaran lalu segitiga; sesudah segitiga berikutnya kembali lingkaran.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-pola.svg",
+            "alt": "Urutan lingkaran, segitiga, lingkaran, segitiga, lalu tanda tanya."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-064",
+          "type": "PG",
+          "text": "Panel mana memberi ruang kosong lebih luas di sekitar satu bunga?",
+          "options": [
+            "Tidak ada bunga pada keduanya",
+            "Panel B",
+            "Panel A",
+            "Keduanya berisi jumlah bunga sama"
+          ],
+          "answer": "Panel B",
+          "discussion": "Panel B menampilkan satu bunga dengan jeda yang lebih luas, sedangkan A berisi banyak bunga rapat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-ruang.svg",
+            "alt": "A berisi dua belas bunga kecil rapat, B satu bunga dengan ruang kosong luas di sekelilingnya."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-065",
+          "type": "PG",
+          "text": "Bentuk luar daun pada gambar paling tepat disebut ...",
+          "options": [
+            "Bentuk organis",
+            "Persegi geometris",
+            "Kubus",
+            "Garis lurus tunggal"
+          ],
+          "answer": "Bentuk organis",
+          "discussion": "Kontur daun mengikuti bentuk alam dengan lengkungan, bukan bangun geometris teratur.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-daun.svg",
+            "alt": "Daun berbentuk organis dengan tepi melengkung dan tulang daun bercabang."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-066",
+          "type": "PG",
+          "text": "Bidang manakah mempunyai tiga sisi?",
+          "options": [
+            "Q",
+            "R",
+            "Semua bidang",
+            "P"
+          ],
+          "answer": "P",
+          "discussion": "P adalah segitiga; Q persegi memiliki empat sisi dan R lingkaran tidak memiliki sisi lurus.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-bidang.svg",
+            "alt": "P segitiga hijau, Q persegi kuning, R lingkaran ungu."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-067",
+          "type": "PG",
+          "text": "Objek manakah yang tekstur kainnya dapat dirasakan langsung bila kedua objek aslinya tersedia?",
+          "options": [
+            "Keduanya pasti terasa seperti kain",
+            "Tidak ada bahan yang dapat mempunyai tekstur",
+            "P, kain goni asli",
+            "Q, foto pada kertas licin"
+          ],
+          "answer": "P, kain goni asli",
+          "discussion": "Kain goni asli mempunyai tekstur nyata; foto hanya menampilkan kesan permukaannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-bahan.svg",
+            "alt": "P ditandai kain goni asli; Q ditandai foto pada kertas licin. Ini ilustrasi perbandingan dua objek."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-068",
+          "type": "PG",
+          "text": "Kelompok yang lazim disebut warna hangat pada latihan dasar adalah ...",
+          "options": [
+            "Kedua baris tanpa warna",
+            "Baris P",
+            "Baris Q",
+            "Hanya ungu pada Q"
+          ],
+          "answer": "Baris P",
+          "discussion": "Baris P berisi merah, oranye, dan kuning yang umum dikelompokkan sebagai warna hangat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-hangat.svg",
+            "alt": "Baris P merah oranye kuning; baris Q biru hijau ungu."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-069",
+          "type": "PG",
+          "text": "Objek manakah tampak berada di depan berdasarkan bagian yang saling menutupi?",
+          "options": [
+            "Pot oranye",
+            "Pangkal daun hijau",
+            "Keduanya tidak bertumpuk",
+            "Tidak ada objek yang terlihat"
+          ],
+          "answer": "Pot oranye",
+          "discussion": "Pot menutupi bagian pangkal daun sehingga menjadi petunjuk bahwa pot berada lebih depan pada gambar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-tumpang.svg",
+            "alt": "Pot oranye di depan menutupi sebagian pangkal daun hijau."
+          }
+        },
+        {
+          "id": "SBD-B01-M01-070",
+          "type": "PG",
+          "text": "Pernyataan manakah sesuai dengan pengamatan gambar?",
+          "options": [
+            "Terlihat lima pohon tanpa matahari",
+            "Semua objek berbentuk persegi",
+            "Tidak ada warna hijau",
+            "Terlihat dua pohon dan satu matahari"
+          ],
+          "answer": "Terlihat dua pohon dan satu matahari",
+          "discussion": "Jumlah dan ciri objek tersebut dapat dilihat langsung tanpa menebak perasaan pembuat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b01-soal-amatan.svg",
+            "alt": "Pemandangan berisi dua pohon, satu matahari, langit biru, dan bentuk bukit hijau."
+          }
+        }
+      ]
+    }
+  ]
+}

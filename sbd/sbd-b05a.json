@@ -1,0 +1,354 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Budaya — Seni Rupa",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "SBD-B05",
+      "chapter_title": "Aku Seniman Cilik",
+      "questions": [
+        {
+          "id": "SBD-B05-M01-051",
+          "type": "PG",
+          "text": "Bagian manakah yang sebaiknya tetap lapang pada denah?",
+          "options": [
+            "Seluruh dinding harus ditutup meja",
+            "Pintu harus dipenuhi pajangan",
+            "Jalur tengah menuju pintu",
+            "Semua bidang karya harus dikosongkan"
+          ],
+          "answer": "Jalur tengah menuju pintu",
+          "discussion": "Jalur terbuka membantu pergerakan pengunjung dan akses keluar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-denah-aman.svg",
+            "alt": "Dua kelompok pajangan di sisi kiri dan kanan, dengan jalur tengah terbuka menuju pintu."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-052",
+          "type": "PG",
+          "text": "Apa manfaat denah seperti ini sebelum pameran?",
+          "options": [
+            "Menghapus kebutuhan pemeriksaan akhir",
+            "Memeriksa hubungan letak karya dan alur pengunjung",
+            "Memastikan semua karya pasti tidak akan rusak",
+            "Menggantikan izin pemakaian ruang"
+          ],
+          "answer": "Memeriksa hubungan letak karya dan alur pengunjung",
+          "discussion": "Denah membantu perencanaan, tetapi kondisi nyata dan kestabilan pajangan tetap perlu diuji.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-denah-aman.svg",
+            "alt": "Dua kelompok pajangan di sisi kiri dan kanan, dengan jalur tengah terbuka menuju pintu."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-053",
+          "type": "PG",
+          "text": "Masalah utama yang terlihat pada gambar adalah ...",
+          "options": [
+            "Meja melintang menghalangi jalur tengah",
+            "Tidak ada pajangan di sisi ruangan",
+            "Semua label terlalu tinggi menurut ukuran yang pasti",
+            "Tidak ada pintu yang ditandai"
+          ],
+          "answer": "Meja melintang menghalangi jalur tengah",
+          "discussion": "Meja merah berada pada jalur tengah dan dapat menghambat pergerakan pengunjung.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-denah-terhalang.svg",
+            "alt": "Jalur tengah pameran dihalangi meja merah melintang di antara dua sisi pajangan."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-054",
+          "type": "PG",
+          "text": "Perbaikan yang tepat adalah ...",
+          "options": [
+            "Menambah meja di depan hambatan",
+            "Meminta semua pengunjung memanjat meja",
+            "Menutup pintu agar tidak ada yang lewat",
+            "Mengatur ulang meja agar jalur dan akses keluar terbuka"
+          ],
+          "answer": "Mengatur ulang meja agar jalur dan akses keluar terbuka",
+          "discussion": "Penataan perlu mendukung fungsi ruang yang aman dan mudah diakses.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-denah-terhalang.svg",
+            "alt": "Jalur tengah pameran dihalangi meja merah melintang di antara dua sisi pajangan."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-055",
+          "type": "PG",
+          "text": "Bahan yang dicantumkan pada label adalah ...",
+          "options": [
+            "Kaca dan air",
+            "Tidak ada bahan disebut",
+            "Kardus dan kertas",
+            "Batu dan logam cair"
+          ],
+          "answer": "Kardus dan kertas",
+          "discussion": "Informasi bahan tertulis pada label dan membantu menjelaskan cara karya dibuat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-label.svg",
+            "alt": "Label menyebut judul Taman Impianku, pembuat Kelompok Melati, bahan kardus dan kertas, serta cerita singkat."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-056",
+          "type": "PG",
+          "text": "Siapa pembuat karya menurut label?",
+          "options": [
+            "Pembuat label yang tidak disebut",
+            "Kelompok Melati",
+            "Semua pengunjung",
+            "Nisa"
+          ],
+          "answer": "Kelompok Melati",
+          "discussion": "Baris pembuat menyebut Kelompok Melati; informasi lain tidak boleh ditebak sebagai identitas pencipta.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-label.svg",
+            "alt": "Label menyebut judul Taman Impianku, pembuat Kelompok Melati, bahan kardus dan kertas, serta cerita singkat."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-057",
+          "type": "PG",
+          "text": "Informasi yang belum dicantumkan pada contoh label adalah ...",
+          "options": [
+            "Bahan karya",
+            "Judul karya",
+            "Nama pembuat",
+            "Cerita singkat"
+          ],
+          "answer": "Bahan karya",
+          "discussion": "Label menyebut judul, pembuat, dan cerita, tetapi belum menjelaskan bahan yang digunakan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-tanpa-bahan.svg",
+            "alt": "Label hanya menyebut judul Langit Pagi, pembuat Nisa, dan cerita tentang suasana perjalanan; belum menyebut bahan."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-058",
+          "type": "PG",
+          "text": "Bagaimana melengkapi informasi yang hilang?",
+          "options": [
+            "Menebak bahan berdasarkan nama pembuat",
+            "Mengarang bahan yang terdengar mahal",
+            "Mengganti judul agar tidak perlu mencari data",
+            "Menanyakan kepada pembuat lalu menulis data yang benar"
+          ],
+          "answer": "Menanyakan kepada pembuat lalu menulis data yang benar",
+          "discussion": "Label perlu akurat; informasi yang belum diketahui sebaiknya dikonfirmasi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-tanpa-bahan.svg",
+            "alt": "Label hanya menyebut judul Langit Pagi, pembuat Nisa, dan cerita tentang suasana perjalanan; belum menyebut bahan."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-059",
+          "type": "PG",
+          "text": "Apa maksud simbol pada gambar?",
+          "options": [
+            "Karya harus dipindah tanpa izin",
+            "Tidak ada aturan untuk pengunjung",
+            "Karya tidak boleh disentuh",
+            "Semua pengunjung wajib memegang karya"
+          ],
+          "answer": "Karya tidak boleh disentuh",
+          "discussion": "Telapak tangan yang dicoret lazim digunakan sebagai petunjuk larangan menyentuh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-larangan-sentuh.svg",
+            "alt": "Simbol telapak tangan dicoret garis merah, sebagai larangan menyentuh pajangan."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-060",
+          "type": "PG",
+          "text": "Cara mengapresiasi karya dengan tanda itu adalah ...",
+          "options": [
+            "Menggeser karya ke tempat lain tanpa izin",
+            "Mengamati dari jarak yang diizinkan dan bertanya kepada pemandu",
+            "Menarik bagian kecil untuk menguji kekuatannya",
+            "Menyembunyikan tanda lalu menyentuh karya"
+          ],
+          "answer": "Mengamati dari jarak yang diizinkan dan bertanya kepada pemandu",
+          "discussion": "Pengamatan dan pertanyaan tetap memungkinkan apresiasi sambil melindungi karya rapuh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-larangan-sentuh.svg",
+            "alt": "Simbol telapak tangan dicoret garis merah, sebagai larangan menyentuh pajangan."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-061",
+          "type": "PG",
+          "text": "Panel manakah lebih sesuai sebagai contoh kontras tulisan yang jelas?",
+          "options": [
+            "A",
+            "B",
+            "Keduanya tanpa tulisan",
+            "Keduanya berwarna putih seluruhnya"
+          ],
+          "answer": "A",
+          "discussion": "Tulisan putih pada A lebih berbeda nilainya dari latar biru tua.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-keterbacaan.svg",
+            "alt": "A tulisan putih pada biru tua; B tulisan biru tua pada latar yang hampir sama gelap."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-062",
+          "type": "PG",
+          "text": "Selain kontras pada gambar, hal lain yang perlu diuji pada label adalah ...",
+          "options": [
+            "Harga pakaian pemandu",
+            "Kesamaan hobi seluruh panitia",
+            "Jumlah warna pada tas siswa",
+            "Ukuran huruf dan keterbacaan dari jarak pengunjung"
+          ],
+          "answer": "Ukuran huruf dan keterbacaan dari jarak pengunjung",
+          "discussion": "Keterbacaan dipengaruhi ukuran, posisi, jarak pandang, dan kontras secara bersama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-keterbacaan.svg",
+            "alt": "A tulisan putih pada biru tua; B tulisan biru tua pada latar yang hampir sama gelap."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-063",
+          "type": "PG",
+          "text": "Menurut jadwal, pembuatan label dilakukan pada ...",
+          "options": [
+            "Rabu",
+            "Kamis",
+            "Selasa",
+            "Senin"
+          ],
+          "answer": "Selasa",
+          "discussion": "Baris buat label dipasangkan dengan hari Selasa.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-persiapan.svg",
+            "alt": "Tabel: kumpulkan karya Senin, buat label Selasa, tata ruang Rabu, periksa Kamis."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-064",
+          "type": "PG",
+          "text": "Mengapa pemeriksaan ditempatkan setelah penataan ruang?",
+          "options": [
+            "Karena karya tidak perlu diperiksa sebelum dibuka",
+            "Agar posisi, label, dan akses dapat ditinjau dalam susunan yang akan dipakai",
+            "Agar semua aturan keselamatan dihapus",
+            "Karena denah menggantikan kondisi nyata"
+          ],
+          "answer": "Agar posisi, label, dan akses dapat ditinjau dalam susunan yang akan dipakai",
+          "discussion": "Pemeriksaan akhir melihat apakah hasil penataan sesuai tujuan dan aman digunakan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-persiapan.svg",
+            "alt": "Tabel: kumpulkan karya Senin, buat label Selasa, tata ruang Rabu, periksa Kamis."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-065",
+          "type": "PG",
+          "text": "Panel mana memperlihatkan tambahan penyangga segitiga?",
+          "options": [
+            "Q",
+            "P",
+            "Keduanya tanpa alas",
+            "Tidak ada papan pada gambar"
+          ],
+          "answer": "Q",
+          "discussion": "Penyangga segitiga tampak pada sisi papan Q dan menghubungkannya dengan alas.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-penyangga.svg",
+            "alt": "P papan pajangan tanpa penyangga samping, Q dengan penyangga segitiga yang menghubungkan papan dan alas."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-066",
+          "type": "PG",
+          "text": "Sebelum pajangan Q digunakan, panitia perlu ...",
+          "options": [
+            "Menariknya sampai pasti roboh",
+            "Menganggap penyangga membuat semua beban aman",
+            "Menghapus semua informasi karya",
+            "Menguji kestabilan dan kekuatan sambungannya secara aman"
+          ],
+          "answer": "Menguji kestabilan dan kekuatan sambungannya secara aman",
+          "discussion": "Kesesuaian struktur dan sambungan perlu diperiksa terhadap penggunaan yang direncanakan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-penyangga.svg",
+            "alt": "P papan pajangan tanpa penyangga samping, Q dengan penyangga segitiga yang menghubungkan papan dan alas."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-067",
+          "type": "PG",
+          "text": "Perilaku siswa pada gambar dapat menjadi contoh ...",
+          "options": [
+            "Menyembunyikan karya dari penonton",
+            "Membongkar pajangan tanpa izin",
+            "Mengamati dan membicarakan karya tanpa menyentuh",
+            "Mengubah semua label menjadi nama sendiri"
+          ],
+          "answer": "Mengamati dan membicarakan karya tanpa menyentuh",
+          "discussion": "Pengamatan dan percakapan merupakan cara menghargai karya serta belajar dari pengalaman visual.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-apresiasi.svg",
+            "alt": "Tiga karya dengan label dipajang; dua siswa mengamati dan berdiskusi tanpa menyentuh karya."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-068",
+          "type": "PG",
+          "text": "Informasi yang membantu pemandu menjelaskan karya adalah ...",
+          "options": [
+            "Tebakan asal budaya tanpa sumber",
+            "Label dan keterangan dari pembuat",
+            "Dugaan sifat pribadi pengunjung",
+            "Harga tas pembuat"
+          ],
+          "answer": "Label dan keterangan dari pembuat",
+          "discussion": "Pemandu sebaiknya memakai informasi yang disepakati dan mengakui hal yang belum diketahui.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-apresiasi.svg",
+            "alt": "Tiga karya dengan label dipajang; dua siswa mengamati dan berdiskusi tanpa menyentuh karya."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-069",
+          "type": "PG",
+          "text": "Saran pada gambar terutama berkaitan dengan ...",
+          "options": [
+            "Keterbacaan judul",
+            "Harga bahan",
+            "Nama anggota keluarga",
+            "Kekuatan tali makrame"
+          ],
+          "answer": "Keterbacaan judul",
+          "discussion": "Catatan menyebut judul yang sulit terbaca dari jauh dan menyarankan pembesaran huruf.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-umpan-balik.svg",
+            "alt": "Poster dipajang bersama catatan yang menyarankan memperbesar huruf judul agar terbaca dari jauh."
+          }
+        },
+        {
+          "id": "SBD-B05-M01-070",
+          "type": "PG",
+          "text": "Apa tindak lanjut yang dapat diuji?",
+          "options": [
+            "Menambah hiasan yang menutup huruf",
+            "Menolak semua komentar tanpa membaca",
+            "Mengganti nama pembuat karya",
+            "Membandingkan ukuran judul dari jarak pandang yang sama"
+          ],
+          "answer": "Membandingkan ukuran judul dari jarak pandang yang sama",
+          "discussion": "Percobaan dengan kondisi pandang sama membantu menilai apakah perubahan ukuran memperbaiki keterbacaan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b05-soal-umpan-balik.svg",
+            "alt": "Poster dipajang bersama catatan yang menyarankan memperbesar huruf judul agar terbaca dari jauh."
+          }
+        }
+      ]
+    }
+  ]
+}

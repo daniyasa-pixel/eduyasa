@@ -259,6 +259,17 @@ footer {
   header { padding-left: max(24px, calc((100% - 712px)/2)); padding-right: max(24px, calc((100% - 712px)/2)); }
 }
 .module-table-wrap{width:100%;overflow-x:auto;margin:12px 0 18px;border:1px solid var(--border);border-radius:10px}.module-table{width:100%;border-collapse:collapse;font-size:13px}.module-table th,.module-table td{padding:9px 10px;text-align:left;border-bottom:1px solid var(--border);vertical-align:top}.module-table th{background:var(--surface-soft);font-weight:700}.module-table tr:last-child td{border-bottom:0}
+
+.image-zoom-hint { font-size: 12px; color: var(--muted); margin: 7px 0; text-align: center; }
+img[role="button"] { cursor: zoom-in; }
+img[role="button"]:focus-visible { outline: 3px solid var(--primary); outline-offset: 4px; }
+.image-preview-dialog { width: calc(100vw - 36px); max-width: 1000px; padding: 16px; border: 0; border-radius: 16px; color: var(--text); }
+.image-preview-dialog::backdrop { background: rgba(15,23,42,.75); }
+.image-preview-controls { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+.image-preview-controls h2 { margin: 0 auto 0 0; font-size: 17px; }
+.image-preview-controls button { min-width: 44px; min-height: 44px; padding: 8px 12px; border: 1px solid var(--border); border-radius: 9px; background: white; color: var(--text); cursor: pointer; font: inherit; }
+.image-preview-pan { overflow: auto; max-height: 70vh; background: #f8fafc; }
+.image-preview-pan img { display: block; width: 100%; max-width: none; height: auto; }
 </style>
 <script>
   window.MathJax = {
@@ -437,10 +448,21 @@ footer {
   </div>
 </div>
 
+<dialog id="imagePreviewDialog" class="image-preview-dialog" aria-labelledby="imagePreviewTitle">
+  <div class="image-preview-controls">
+    <h2 id="imagePreviewTitle">Lihat gambar</h2>
+    <button id="imageZoomOut" type="button" aria-label="Perkecil gambar">−</button>
+    <button id="imageZoomIn" type="button" aria-label="Perbesar gambar">+</button>
+    <button id="imagePreviewClose" type="button">Tutup</button>
+  </div>
+  <div class="image-preview-pan"><img id="imagePreviewImage" alt=""></div>
+  <p class="image-zoom-hint">Gunakan + untuk memperbesar, lalu geser gambar untuk melihat detail.</p>
+</dialog>
+
 <div id="toast-container"></div>
 <footer>EDUYASA © 2026 • Kurikulum Merdeka</footer>
 
-<script src="./quiz-bank.js?v=20261110-mtk-gambar-2"></script>
+<script src="./quiz-bank.js?v=20261110-sbd-1"></script>
 <script>
 const BASE_URL =
   "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/";
@@ -472,7 +494,13 @@ const subjects = [
   {id:"PKN",name:"Pendidikan Pancasila",icon:"🇮🇩",chapters:[]},
   {id:"ENG",name:"Bahasa Inggris",icon:"🔤",chapters:["Healthy Vegetables","Our Hygiene Habits","A Trip to the Zoo","Let’s Play!","Having Fun in Our After-School Club","Our School Project"]},
   {id:"PAI",name:"Pendidikan Agama Islam",icon:"📖",chapters:[]},
-  {id:"SBD",name:"Seni Budaya dan Prakarya",icon:"🎨",chapters:[]},
+  {id:"SBD",name:"Seni Budaya — Seni Rupa",icon:"🎨",chapters:[
+    "Menemukan Keindahan di Sekitar Kita",
+    "Belajar dari Karya Orang Lain",
+    "Ideku, Gagasanku",
+    "Karya yang Mewakili Diriku",
+    "Aku Seniman Cilik"
+  ]},
   {id:"PJK",name:"PJOK",icon:"⚽",chapters:[]}
 ];
 
@@ -490,6 +518,37 @@ let selectedOptionLabel = null;
 let currentDisplayOptions = [];
 let quizAnswerResults = [];
 let audioCtx = null;
+
+let learningImageScale = 100;
+function makeImageZoomable(img) {
+  img.tabIndex = 0;
+  img.setAttribute('role', 'button');
+  img.setAttribute('aria-label', 'Perbesar gambar: ' + (img.alt || 'Ilustrasi pembelajaran'));
+  img.addEventListener('click', () => openLearningImage(img));
+  img.addEventListener('keydown', event => {
+    if (event.key === 'Enter' || event.key === ' ') {
+      event.preventDefault();
+      openLearningImage(img);
+    }
+  });
+}
+function openLearningImage(source) {
+  const dialog = document.getElementById('imagePreviewDialog');
+  const preview = document.getElementById('imagePreviewImage');
+  learningImageScale = 100;
+  preview.src = source.src;
+  preview.alt = source.alt;
+  preview.style.width = '100%';
+  if (!dialog.open) dialog.showModal();
+  document.getElementById('imagePreviewClose').focus();
+}
+function resizeLearningImage(delta) {
+  learningImageScale = Math.max(100, Math.min(300, learningImageScale + delta));
+  document.getElementById('imagePreviewImage').style.width = learningImageScale + '%';
+}
+document.getElementById('imageZoomIn').onclick = () => resizeLearningImage(50);
+document.getElementById('imageZoomOut').onclick = () => resizeLearningImage(-50);
+document.getElementById('imagePreviewClose').onclick = () => document.getElementById('imagePreviewDialog').close();
 
 function renderModuleMarkdown(markdown) {
   const escapeHtml = (value) => String(value).split("&").join("&amp;").split("<").join("&lt;").split(">").join("&gt;").split(String.fromCharCode(34)).join("&quot;");
@@ -520,7 +579,7 @@ function renderModuleMarkdown(markdown) {
       const closeAlt = t.indexOf("]("); const closeUrl = t.lastIndexOf(")");
       if (closeAlt > 1 && closeUrl > closeAlt + 2) {
         const alt = t.substring(2, closeAlt); const src = t.substring(closeAlt + 2, closeUrl);
-        html += '<figure class="module-image"><img class="module-inline-image" src="' + escapeHtml(src) + '" alt="' + escapeHtml(alt) + '" loading="lazy"></figure>';
+        html += '<figure class="module-image"><img class="module-inline-image" src="' + escapeHtml(src) + '" alt="' + escapeHtml(alt) + '" loading="lazy"><figcaption class="image-zoom-hint">Ketuk gambar untuk memperbesar</figcaption></figure>';
       }
     } else if (t.startsWith("### ")) { if (inList) { html += inOrdered ? "</ol>" : "</ul>"; inList = false; inOrdered = false; } html += "<h4>" + inline(t.substring(4)) + "</h4>"; }
     else if (t.startsWith("## ")) { if (inList) { html += inOrdered ? "</ol>" : "</ul>"; inList = false; inOrdered = false; } html += "<h3>" + inline(t.substring(3)) + "</h3>"; }
@@ -861,7 +920,7 @@ async function fetchMateri() {
       const url = BASE_URL + `${subjectId.toLowerCase()}/${subjectId.toLowerCase()}-b${chapStr}-materi.json`;
 
       try {
-        const res = await fetch(url);
+        const res = await fetch(url, { cache: 'no-store' });
         if(!res.ok) throw new Error("HTTP " + res.status);
         const data = await res.json();
 
@@ -903,6 +962,7 @@ async function fetchMateri() {
   document.getElementById("btnNext2").disabled = false;
   currentStep = 3;
   updateStepUI();
+  container.querySelectorAll('img').forEach(makeImageZoomable);
   await renderMath('materiContainer');
 }
 
@@ -919,7 +979,7 @@ function prepareQuiz() {
     <strong>Mata Pelajaran:</strong><br>${subjectNames}<br><br>
     <strong>Total Bab Diuji:</strong> ${totalBab} Bab<br><br>
     <strong>Jumlah Soal:</strong> 20 Soal<br><br>
-    ${selectedSubjects.has('MTK') ? "5 soal bergambar dan 15 soal tanpa gambar.<br><br>" : ""}
+    ${(selectedSubjects.has('MTK') || selectedSubjects.has('SBD')) ? "5 soal bergambar dan 15 soal tanpa gambar.<br><br>" : ""}
     Siapkan dirimu dan kerjakan dengan jujur!
   `;
   currentStep = 4;
@@ -974,7 +1034,7 @@ document.getElementById('btnStartQuiz').onclick = async () => {
       subjects
     });
     quizQuestions = EduyasaQuestionBank.selectQuestions(questions, {
-      mathSelected: selectedSubjects.has('MTK')
+      fixedImageRatio: selectedSubjects.has('MTK') || selectedSubjects.has('SBD')
     });
     currentQuestionIndex = 0;
     correctAnswersCount = 0;
@@ -1016,7 +1076,12 @@ async function renderQuizQuestion() {
       questionImage.alt = imageData.alt || 'Ilustrasi soal';
       questionImage.loading = 'lazy';
       questionImage.className = 'quiz-question-image';
+      makeImageZoomable(questionImage);
       imageContainer.appendChild(questionImage);
+      const hint = document.createElement('div');
+      hint.className = 'image-zoom-hint';
+      hint.textContent = 'Ketuk gambar untuk memperbesar';
+      imageContainer.appendChild(hint);
     }
   }
 

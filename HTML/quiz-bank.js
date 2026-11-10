@@ -1,4 +1,4 @@
-/* Bank soal tambahan: daftar paket MTK berada di mtk/question-packs.json. */
+/* Paket soal tambahan terdaftar dalam question-packs.json milik MTK dan SBD. */
 (function (root) {
   'use strict';
 
@@ -16,8 +16,8 @@
     return typeof src === 'string' && src.trim().length > 0;
   }
 
-  function selectQuestions(questions, { mathSelected = false, random = Math.random } = {}) {
-    if (!mathSelected) {
+  function selectQuestions(questions, { mathSelected = false, fixedImageRatio = mathSelected, random = Math.random } = {}) {
+    if (!fixedImageRatio) {
       if (questions.length < 20) throw new Error('Jumlah soal yang tersedia kurang dari 20.');
       return shuffle(questions, random).slice(0, 20);
     }
@@ -72,9 +72,14 @@
       catch (_) { throw new Error(`Data ${path} bukan JSON yang valid.`); }
     }
     const ids = [...subjectIds];
-    const manifest = ids.includes('MTK') ? await readJson('mtk/question-packs.json') : null;
-    if (manifest && (manifest.subject_id !== 'MTK' || !manifest.chapters)) {
-      throw new Error('Daftar paket Matematika tidak valid.');
+    const manifests = new Map();
+    for (const id of ids.filter(value => ['MTK', 'SBD'].includes(value))) {
+      const manifest = await readJson(`${id.toLowerCase()}/question-packs.json`);
+      if (manifest.subject_id !== id || !manifest.chapters) {
+        const name = subjects.find(subject => subject.id === id)?.name || id;
+        throw new Error(`Daftar paket ${name} tidak valid.`);
+      }
+      manifests.set(id, manifest);
     }
     const questions = [];
     const seen = new Set();
@@ -86,12 +91,13 @@
       for (const number of chapters) {
         const chapterId = `${id}-B${String(number).padStart(2, '0')}`;
         const stem = `${id.toLowerCase()}/${chapterId.toLowerCase()}`;
-        const paths = id === 'MTK' ? manifest.chapters[chapterId] : [`${stem}.json`];
+        const manifest = manifests.get(id);
+        const paths = manifest ? manifest.chapters[chapterId] : [`${stem}.json`];
         if (!Array.isArray(paths) || !paths.length || new Set(paths).size !== paths.length) {
           throw new Error(`Daftar paket ${chapterId} tidak ditemukan atau berulang.`);
         }
         for (const path of paths) {
-          if (typeof path !== 'string' || (id === 'MTK' && !new RegExp(`^${stem}[a-z]*\\.json$`).test(path))) {
+          if (typeof path !== 'string' || (manifest && !new RegExp(`^${stem}[a-z]*\\.json$`).test(path))) {
             throw new Error(`Nama paket ${chapterId} tidak valid.`);
           }
           const data = await readJson(path);

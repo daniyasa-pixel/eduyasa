@@ -1,0 +1,354 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Budaya — Seni Rupa",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "SBD-B03",
+      "chapter_title": "Ideku, Gagasanku",
+      "questions": [
+        {
+          "id": "SBD-B03-M01-051",
+          "type": "PG",
+          "text": "Karya ruang pada gambar paling tepat disebut ...",
+          "options": [
+            "Notasi musik",
+            "Jalinan tali",
+            "Diorama",
+            "Poster datar saja"
+          ],
+          "answer": "Diorama",
+          "discussion": "Susunan miniatur dalam ruang menggambarkan satu adegan taman, sesuai pengertian diorama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-adegan.svg",
+            "alt": "Miniatur taman dalam kotak terbuka: rumah kecil, sungai, tanah, dan pepohonan ditempatkan berlapis."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-052",
+          "type": "PG",
+          "text": "Pilihan bahan yang aman untuk mewakili sungai biru pada adegan adalah ...",
+          "options": [
+            "Bahan basah yang dibiarkan menetes",
+            "Kertas biru yang ditata pada alas",
+            "Air sungguhan yang dituangkan ke kardus",
+            "Cairan berbahaya agar berkilau"
+          ],
+          "answer": "Kertas biru yang ditata pada alas",
+          "discussion": "Bahan visual dapat mewakili air tanpa merusak alas kardus atau menambah risiko tumpahan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-adegan.svg",
+            "alt": "Miniatur taman dalam kotak terbuka: rumah kecil, sungai, tanah, dan pepohonan ditempatkan berlapis."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-053",
+          "type": "PG",
+          "text": "Menurut denah, objek apa yang berada di kanan atas?",
+          "options": [
+            "Pohon",
+            "Rumah",
+            "Sungai",
+            "Pintu sekolah"
+          ],
+          "answer": "Pohon",
+          "discussion": "Pohon digambar pada bagian kanan atas, sedangkan rumah berada di kiri atas dan sungai di bawah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-denah.svg",
+            "alt": "Denah tampak atas: rumah di kiri atas, pohon kanan atas, dan sungai di bagian bawah."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-054",
+          "type": "PG",
+          "text": "Apa manfaat gambar tampak atas sebelum merakit?",
+          "options": [
+            "Menjamin seluruh objek sudah melekat",
+            "Menggantikan seluruh bahan karya",
+            "Menentukan warna kesukaan pengunjung",
+            "Membantu merencanakan hubungan posisi objek pada alas"
+          ],
+          "answer": "Membantu merencanakan hubungan posisi objek pada alas",
+          "discussion": "Denah memberi panduan posisi sehingga susunan dapat diperiksa sebelum objek dipasang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-denah.svg",
+            "alt": "Denah tampak atas: rumah di kiri atas, pohon kanan atas, dan sungai di bagian bawah."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-055",
+          "type": "PG",
+          "text": "Jika panjang dan lebar alas A masing-masing digandakan, ukurannya menjadi ...",
+          "options": [
+            "12 × 18 cm",
+            "24 × 9 cm",
+            "Ukuran alas B",
+            "Tetap ukuran alas A"
+          ],
+          "answer": "Ukuran alas B",
+          "discussion": "Dua kali 12 adalah 24 dan dua kali 9 adalah 18; kedua ukuran berubah dengan faktor yang sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-ukuran.svg",
+            "alt": "Alas A berukuran 12 kali 9 cm dan alas B 24 kali 18 cm."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-056",
+          "type": "PG",
+          "text": "Apa yang perlu dipertimbangkan ketika memilih alas B untuk diorama?",
+          "options": [
+            "Anggapan bahwa alas besar selalu lebih baik",
+            "Ukuran objek serta ruang penyimpanan dan pemajangannya",
+            "Hanya nama pembuat kertas",
+            "Kewajiban memakai bahan lebih mahal"
+          ],
+          "answer": "Ukuran objek serta ruang penyimpanan dan pemajangannya",
+          "discussion": "Alas lebih besar memberi ruang berbeda, tetapi ukuran objek dan tempat pemakaian tetap harus direncanakan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-ukuran.svg",
+            "alt": "Alas A berukuran 12 kali 9 cm dan alas B 24 kali 18 cm."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-057",
+          "type": "PG",
+          "text": "Panel manakah memperlihatkan bantuan penyangga segitiga?",
+          "options": [
+            "Panel Q",
+            "Panel P",
+            "Keduanya tanpa penyangga",
+            "Tidak ada dinding pada keduanya"
+          ],
+          "answer": "Panel Q",
+          "discussion": "Penyangga berbentuk segitiga tampak menghubungkan dinding Q dengan alas.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-penopang.svg",
+            "alt": "Panel P dinding tegak tanpa penyangga samping; Q dinding tegak dengan penyangga segitiga yang terpasang ke alas."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-058",
+          "type": "PG",
+          "text": "Sebelum dinding Q dipakai, hal yang perlu diuji adalah ...",
+          "options": [
+            "Kemampuan menariknya sampai pasti rusak",
+            "Harga warna penyangga",
+            "Kesamaan warna dengan pakaian pembuat",
+            "Kekuatan sambungan dan kestabilannya secara aman"
+          ],
+          "answer": "Kekuatan sambungan dan kestabilannya secara aman",
+          "discussion": "Adanya penyangga tidak otomatis menjamin kekuatan; sambungan serta kestabilan perlu diperiksa.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-penopang.svg",
+            "alt": "Panel P dinding tegak tanpa penyangga samping; Q dinding tegak dengan penyangga segitiga yang terpasang ke alas."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-059",
+          "type": "PG",
+          "text": "Objek apa yang ditempatkan pada lapisan depan?",
+          "options": [
+            "Pohon di latar",
+            "Langit",
+            "Bunga",
+            "Rumah"
+          ],
+          "answer": "Bunga",
+          "discussion": "Gambar dan label menempatkan bunga pada bagian terdepan, rumah di tengah, dan pohon di latar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-lapisan.svg",
+            "alt": "Diorama digambar berlapis: pohon kecil di latar, rumah di tengah, dan bunga di depan."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-060",
+          "type": "PG",
+          "text": "Mengapa lapisan depan tidak sebaiknya menutup seluruh rumah?",
+          "options": [
+            "Karena diorama tidak boleh memiliki bunga",
+            "Agar hubungan objek dan adegan tetap dapat dibaca",
+            "Karena semua benda depan harus dihapus",
+            "Karena rumah wajib selalu paling besar"
+          ],
+          "answer": "Agar hubungan objek dan adegan tetap dapat dibaca",
+          "discussion": "Penataan kedalaman perlu menjaga keterlihatan objek yang penting bagi adegan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-lapisan.svg",
+            "alt": "Diorama digambar berlapis: pohon kecil di latar, rumah di tengah, dan bunga di depan."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-061",
+          "type": "PG",
+          "text": "Untuk membuat sketsa awal, alat pada gambar yang digunakan adalah ...",
+          "options": [
+            "Q, pensil",
+            "P, gunting",
+            "Keduanya adalah perekat",
+            "Tidak ada alat gambar"
+          ],
+          "answer": "Q, pensil",
+          "discussion": "Pensil digunakan untuk membuat garis rancangan; gunting digunakan untuk memotong bahan yang sesuai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-alat.svg",
+            "alt": "P adalah gunting dan Q pensil, masing-masing digambar dalam panel terpisah."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-062",
+          "type": "PG",
+          "text": "Sikap yang tepat saat menggunakan alat P adalah ...",
+          "options": [
+            "Menggunting sambil berlari",
+            "Mengarahkan ujungnya kepada teman",
+            "Menggunakan dekat jari teman tanpa pengaturan",
+            "Memotong pada posisi stabil dengan arah yang aman"
+          ],
+          "answer": "Memotong pada posisi stabil dengan arah yang aman",
+          "discussion": "Gunting perlu digunakan dengan alat sesuai usia, posisi kerja stabil, dan jarak yang aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-alat.svg",
+            "alt": "P adalah gunting dan Q pensil, masing-masing digambar dalam panel terpisah."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-063",
+          "type": "PG",
+          "text": "Kartu mana memuat tahap sebelum menyiapkan bahan?",
+          "options": [
+            "R",
+            "S",
+            "P",
+            "Q"
+          ],
+          "answer": "P",
+          "discussion": "Pada urutan yang ditampilkan, rancangan dibuat lebih dulu agar bahan dapat dipilih sesuai kebutuhan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-tahapan.svg",
+            "alt": "P Rancang, Q Siapkan bahan, R Buat karya, S Periksa hasil."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-064",
+          "type": "PG",
+          "text": "Apa kegiatan yang sesuai kartu S?",
+          "options": [
+            "Menutup semua bagian yang terlihat",
+            "Memeriksa kestabilan dan kesesuaian adegan dengan gagasan",
+            "Menentukan tema setelah semua bahan dibuang",
+            "Menghapus nama pembuat"
+          ],
+          "answer": "Memeriksa kestabilan dan kesesuaian adegan dengan gagasan",
+          "discussion": "Pemeriksaan hasil menghubungkan tujuan artistik dengan keadaan karya yang telah dibuat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-tahapan.svg",
+            "alt": "P Rancang, Q Siapkan bahan, R Buat karya, S Periksa hasil."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-065",
+          "type": "PG",
+          "text": "Menurut jadwal, kegiatan pada Rabu adalah ...",
+          "options": [
+            "Mengeringkan",
+            "Merancang",
+            "Merakit",
+            "Memeriksa"
+          ],
+          "answer": "Mengeringkan",
+          "discussion": "Tabel menempatkan tahap pengeringan pada Rabu, di antara perakitan dan pemeriksaan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-jadwal.svg",
+            "alt": "Tabel jadwal: rancang Senin, rakit Selasa, keringkan Rabu, periksa Kamis."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-066",
+          "type": "PG",
+          "text": "Mengapa waktu pengeringan dicatat terpisah?",
+          "options": [
+            "Karena semua bahan pasti kering seketika",
+            "Karena karya tidak perlu diperiksa",
+            "Karena pengeringan menggantikan rancangan",
+            "Sebagian bahan atau sambungan membutuhkan waktu sebelum ditangani lebih lanjut"
+          ],
+          "answer": "Sebagian bahan atau sambungan membutuhkan waktu sebelum ditangani lebih lanjut",
+          "discussion": "Jadwal perlu memperhitungkan waktu tunggu sesuai bahan dan perekat yang digunakan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-jadwal.svg",
+            "alt": "Tabel jadwal: rancang Senin, rakit Selasa, keringkan Rabu, periksa Kamis."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-067",
+          "type": "PG",
+          "text": "Jika membutuhkan permukaan kain yang dapat diraba pada karya, pilihan yang sesuai adalah ...",
+          "options": [
+            "Keduanya pasti memiliki permukaan kain yang sama",
+            "Memakai gambar tanpa memeriksa bahannya",
+            "P, kain goni asli",
+            "Q, foto kain pada kertas licin"
+          ],
+          "answer": "P, kain goni asli",
+          "discussion": "Bahan asli dapat memberi tekstur nyata, sedangkan foto terutama mewakili tampilannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-bahan.svg",
+            "alt": "Ilustrasi P kain goni asli, Q foto pada kertas licin; kedua objek memiliki sifat permukaan yang berbeda."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-068",
+          "type": "PG",
+          "text": "Sebelum bahan P dipakai, siswa tetap perlu memeriksa ...",
+          "options": [
+            "Kesamaan selera seluruh kelas",
+            "Kebersihan, keamanan, dan kesesuaiannya dengan tujuan karya",
+            "Hanya jumlah huruf pada namanya",
+            "Warna tas pembuat"
+          ],
+          "answer": "Kebersihan, keamanan, dan kesesuaiannya dengan tujuan karya",
+          "discussion": "Bahan yang relevan secara visual tetap perlu diperiksa kelayakan pemakaiannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-bahan.svg",
+            "alt": "Ilustrasi P kain goni asli, Q foto pada kertas licin; kedua objek memiliki sifat permukaan yang berbeda."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-069",
+          "type": "PG",
+          "text": "Jika alas perlu menyediakan ruang kosong untuk jalan kecil, susunan mana yang lebih mudah dikembangkan tanpa menggeser banyak objek?",
+          "options": [
+            "Panel B",
+            "Panel A",
+            "Keduanya penuh dengan jumlah bunga sama",
+            "Tidak satu pun memiliki ruang kosong"
+          ],
+          "answer": "Panel B",
+          "discussion": "Panel B mempunyai ruang lebih luas di sekitar satu objek, sehingga jalur dapat direncanakan lebih mudah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-revisi.svg",
+            "alt": "Panel A penuh bunga rapat; panel B satu bunga dengan ruang kosong lebih luas."
+          }
+        },
+        {
+          "id": "SBD-B03-M01-070",
+          "type": "PG",
+          "text": "Perbaikan yang masuk akal jika susunan A membuat adegan terlalu sesak adalah ...",
+          "options": [
+            "Menambah benda sampai tidak ada celah",
+            "Menutup alas dengan lem seluruhnya",
+            "Menghapus semua tujuan rancangan",
+            "Memilih objek penting lalu mengurangi atau menggeser sebagian"
+          ],
+          "answer": "Memilih objek penting lalu mengurangi atau menggeser sebagian",
+          "discussion": "Pemilihan dan pengaturan ulang objek membantu adegan terbaca tanpa menuntut banyaknya hiasan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b03-soal-revisi.svg",
+            "alt": "Panel A penuh bunga rapat; panel B satu bunga dengan ruang kosong lebih luas."
+          }
+        }
+      ]
+    }
+  ]
+}

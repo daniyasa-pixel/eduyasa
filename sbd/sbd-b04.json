@@ -1,0 +1,664 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Budaya — Seni Rupa",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "SBD-B04",
+      "chapter_title": "Karya yang Mewakili Diriku",
+      "questions": [
+        {
+          "id": "SBD-B04-M01-001",
+          "type": "PG",
+          "text": "Karya yang mewakili diri terutama menunjukkan ...",
+          "options": [
+            "Pengalaman, minat, atau gagasan yang dipilih pembuatnya",
+            "Kewajiban meniru seluruh pilihan teman",
+            "Harga alat yang paling mahal",
+            "Satu bentuk yang harus sama untuk semua siswa"
+          ],
+          "answer": "Pengalaman, minat, atau gagasan yang dipilih pembuatnya",
+          "discussion": "Identitas karya dapat muncul dari pilihan pribadi yang dijelaskan melalui unsur visual."
+        },
+        {
+          "id": "SBD-B04-M01-002",
+          "type": "PG",
+          "text": "Sumber ide yang sesuai untuk karya pribadi adalah ...",
+          "options": [
+            "Data pribadi teman yang diambil diam-diam",
+            "Salinan karya orang lain yang diakui sendiri",
+            "Pilihan yang dipaksakan tanpa dipahami",
+            "Kegiatan yang disukai atau pengalaman yang ingin diceritakan"
+          ],
+          "answer": "Kegiatan yang disukai atau pengalaman yang ingin diceritakan",
+          "discussion": "Pengalaman dan minat memberi bahan gagasan yang dekat dengan pembuatnya."
+        },
+        {
+          "id": "SBD-B04-M01-003",
+          "type": "PG",
+          "text": "Alya menyukai berkebun. Gagasan karya yang relevan adalah ...",
+          "options": [
+            "Membuat label harga tanpa hubungan tema",
+            "Menutup semua gambar tanaman tanpa alasan",
+            "Kolase tentang proses merawat tanaman",
+            "Menyalin tanda tangan pelukis"
+          ],
+          "answer": "Kolase tentang proses merawat tanaman",
+          "discussion": "Tema merawat tanaman berhubungan dengan minat Alya dan dapat diolah menjadi cerita visual."
+        },
+        {
+          "id": "SBD-B04-M01-004",
+          "type": "PG",
+          "text": "Apakah karya tentang diri harus selalu berupa wajah sendiri?",
+          "options": [
+            "Tidak, karya tidak boleh memuat pengalaman",
+            "Tidak, minat atau pengalaman juga dapat diwakili oleh objek dan simbol",
+            "Ya, hanya gambar wajah yang boleh dibuat",
+            "Ya, harus menyerupai foto sepenuhnya"
+          ],
+          "answer": "Tidak, minat atau pengalaman juga dapat diwakili oleh objek dan simbol",
+          "discussion": "Identitas pribadi dapat diungkapkan melalui beragam bentuk yang memiliki hubungan dengan gagasan pembuat."
+        },
+        {
+          "id": "SBD-B04-M01-005",
+          "type": "PG",
+          "text": "Apa yang perlu dilakukan sebelum memilih simbol untuk karya pribadi?",
+          "options": [
+            "Menentukan gagasan yang ingin diwakili dan alasan pemilihan simbol",
+            "Menganggap arti simbol sama untuk semua orang",
+            "Menyalin simbol budaya tanpa memeriksa konteks",
+            "Memilih simbol berdasarkan harga"
+          ],
+          "answer": "Menentukan gagasan yang ingin diwakili dan alasan pemilihan simbol",
+          "discussion": "Simbol perlu berhubungan dengan gagasan serta dijelaskan sesuai konteks penggunaannya."
+        },
+        {
+          "id": "SBD-B04-M01-006",
+          "type": "PG",
+          "text": "Bima memakai gambar buku untuk mewakili hobinya membaca. Apa yang membuat simbol itu dapat dipahami?",
+          "options": [
+            "Buku selalu berarti hobi yang sama bagi semua orang",
+            "Semua simbol tidak membutuhkan konteks",
+            "Ukuran kertas otomatis menjelaskan hobi",
+            "Hubungan buku dengan kegiatan membaca dijelaskan dalam karyanya"
+          ],
+          "answer": "Hubungan buku dengan kegiatan membaca dijelaskan dalam karyanya",
+          "discussion": "Konteks visual atau penjelasan pembuat membantu penonton memahami pilihan simbol."
+        },
+        {
+          "id": "SBD-B04-M01-007",
+          "type": "PG",
+          "text": "Saat memilih warna untuk menggambarkan pengalaman, siswa sebaiknya ...",
+          "options": [
+            "Menganggap pilihan teman pasti salah",
+            "Memakai semua warna tanpa melihat tujuan",
+            "Memilih berdasarkan gagasan dan menjelaskan alasannya",
+            "Mengikuti aturan bahwa satu warna selalu berarti satu emosi"
+          ],
+          "answer": "Memilih berdasarkan gagasan dan menjelaskan alasannya",
+          "discussion": "Pilihan warna dapat bersifat pribadi dan dipengaruhi konteks, sehingga alasannya penting."
+        },
+        {
+          "id": "SBD-B04-M01-008",
+          "type": "PG",
+          "text": "Dua siswa memilih warna berbeda untuk tema yang sama. Hal itu ...",
+          "options": [
+            "Berarti tema tidak dapat digambar",
+            "Dapat diterima bila masing-masing memiliki alasan yang sesuai",
+            "Membuktikan salah satunya tidak boleh berkarya",
+            "Harus diselesaikan dengan menghapus kedua karya"
+          ],
+          "answer": "Dapat diterima bila masing-masing memiliki alasan yang sesuai",
+          "discussion": "Pengalaman dan pilihan artistik dapat berbeda tanpa menghilangkan kesesuaian dengan tema."
+        },
+        {
+          "id": "SBD-B04-M01-009",
+          "type": "PG",
+          "text": "Apa manfaat membuat beberapa sketsa untuk satu gagasan?",
+          "options": [
+            "Membandingkan cara menyampaikan gagasan sebelum memilih",
+            "Menjamin semua sketsa harus dijadikan karya akhir",
+            "Menghilangkan kebutuhan memilih bahan",
+            "Membuat karya menjadi milik orang lain"
+          ],
+          "answer": "Membandingkan cara menyampaikan gagasan sebelum memilih",
+          "discussion": "Alternatif sketsa memberi pilihan susunan, objek, dan penekanan."
+        },
+        {
+          "id": "SBD-B04-M01-010",
+          "type": "PG",
+          "text": "Kriteria pemilihan sketsa yang relevan adalah ...",
+          "options": [
+            "Kesamaan tanda tangan dengan seniman terkenal",
+            "Jumlah orang yang meniru pembuatnya",
+            "Merek penghapus yang dipakai",
+            "Kejelasan gagasan dan kemungkinan dibuat dengan bahan yang tersedia"
+          ],
+          "answer": "Kejelasan gagasan dan kemungkinan dibuat dengan bahan yang tersedia",
+          "discussion": "Sketsa dipilih berdasarkan tujuan dan kemampuan pelaksanaannya."
+        },
+        {
+          "id": "SBD-B04-M01-011",
+          "type": "PG",
+          "text": "Karya tentang pengalaman bermain di taman sebaiknya memuat ...",
+          "options": [
+            "Data alamat rumah teman tanpa izin",
+            "Objek acak sebanyak mungkin",
+            "Unsur yang membantu menceritakan pengalaman yang dipilih",
+            "Semua peristiwa hidup pembuat sekaligus"
+          ],
+          "answer": "Unsur yang membantu menceritakan pengalaman yang dipilih",
+          "discussion": "Pemilihan unsur membuat cerita visual lebih terarah dan tidak sesak."
+        },
+        {
+          "id": "SBD-B04-M01-012",
+          "type": "PG",
+          "text": "Mengapa tidak semua pengalaman pribadi perlu dibagikan dalam karya?",
+          "options": [
+            "Karena karya pribadi wajib tanpa makna",
+            "Pembuat berhak menjaga hal pribadi dan memilih yang nyaman dibagikan",
+            "Karena pengalaman tidak boleh menjadi sumber seni",
+            "Karena semua penonton harus mengetahui seluruh rahasia"
+          ],
+          "answer": "Pembuat berhak menjaga hal pribadi dan memilih yang nyaman dibagikan",
+          "discussion": "Berkarya dapat tetap bermakna sambil menjaga batas kenyamanan dan privasi."
+        },
+        {
+          "id": "SBD-B04-M01-013",
+          "type": "PG",
+          "text": "Saat karya akan ditampilkan kepada umum, informasi yang sebaiknya dihindari adalah ...",
+          "options": [
+            "Alamat lengkap dan nomor pribadi tanpa kebutuhan serta izin",
+            "Judul karya yang disepakati",
+            "Bahan yang dipakai",
+            "Penjelasan umum tentang ide"
+          ],
+          "answer": "Alamat lengkap dan nomor pribadi tanpa kebutuhan serta izin",
+          "discussion": "Informasi identitas yang sensitif tidak diperlukan untuk memahami karya siswa."
+        },
+        {
+          "id": "SBD-B04-M01-014",
+          "type": "PG",
+          "text": "Apa hubungan pilihan bahan dengan gagasan pribadi?",
+          "options": [
+            "Bahan mahal selalu lebih jujur",
+            "Semua gagasan wajib memakai tanah liat",
+            "Pilihan bahan tidak pernah memengaruhi karya",
+            "Sifat bahan dapat membantu menyampaikan gagasan"
+          ],
+          "answer": "Sifat bahan dapat membantu menyampaikan gagasan",
+          "discussion": "Tekstur, warna, bentuk, dan cara pengolahan bahan dapat mendukung cerita yang dipilih."
+        },
+        {
+          "id": "SBD-B04-M01-015",
+          "type": "PG",
+          "text": "Citra ingin menunjukkan kesan lembut melalui kolase. Bahan aman yang dapat dicoba adalah ...",
+          "options": [
+            "Kawat berujung terbuka",
+            "Kemasan kotor bekas bahan berbahaya",
+            "Kain perca lembut yang bersih",
+            "Pecahan kaca tajam"
+          ],
+          "answer": "Kain perca lembut yang bersih",
+          "discussion": "Sifat permukaan bahan dapat mendukung kesan visual sekaligus tetap mempertimbangkan keamanan."
+        },
+        {
+          "id": "SBD-B04-M01-016",
+          "type": "PG",
+          "text": "Apakah karya pribadi harus memakai bahan baru?",
+          "options": [
+            "Tidak, semua bahan bekas otomatis aman",
+            "Tidak, bahan bekas yang layak juga dapat diolah",
+            "Ya, bahan bekas selalu tidak boleh dipakai",
+            "Ya, makna karya ditentukan harga bahan"
+          ],
+          "answer": "Tidak, bahan bekas yang layak juga dapat diolah",
+          "discussion": "Bahan bekas dapat digunakan setelah diperiksa kesesuaian, kebersihan, dan keamanannya."
+        },
+        {
+          "id": "SBD-B04-M01-017",
+          "type": "PG",
+          "text": "Mengapa teknik perlu dicoba sebelum diterapkan pada karya akhir?",
+          "options": [
+            "Agar pembuat memahami hasil dan kesulitan bahannya",
+            "Agar semua keputusan tidak perlu dibuat lagi",
+            "Agar hasil pasti identik dengan contoh",
+            "Agar alat dapat dipakai tanpa petunjuk"
+          ],
+          "answer": "Agar pembuat memahami hasil dan kesulitan bahannya",
+          "discussion": "Uji teknik memberi informasi untuk memilih langkah yang sesuai."
+        },
+        {
+          "id": "SBD-B04-M01-018",
+          "type": "PG",
+          "text": "Sketsa terlihat jelas tetapi objek utama hilang setelah diberi hiasan. Perbaikannya adalah ...",
+          "options": [
+            "Menambah hiasan yang lebih rapat",
+            "Menutup seluruh objek utama",
+            "Menghapus alasan pemilihan tema",
+            "Mengurangi hiasan atau memperkuat penekanan pada objek utama"
+          ],
+          "answer": "Mengurangi hiasan atau memperkuat penekanan pada objek utama",
+          "discussion": "Unsur pendukung sebaiknya membantu, bukan menghalangi gagasan yang menjadi fokus."
+        },
+        {
+          "id": "SBD-B04-M01-019",
+          "type": "PG",
+          "text": "Apa fungsi judul karya pribadi?",
+          "options": [
+            "Membuktikan harga bahan",
+            "Menentukan bahwa semua penonton harus berpikir sama",
+            "Memberi petunjuk tentang gagasan atau pengalaman yang diangkat",
+            "Menggantikan semua bagian karya"
+          ],
+          "answer": "Memberi petunjuk tentang gagasan atau pengalaman yang diangkat",
+          "discussion": "Judul dapat membantu penonton memasuki gagasan tanpa harus menjelaskan seluruh maknanya."
+        },
+        {
+          "id": "SBD-B04-M01-020",
+          "type": "PG",
+          "text": "Penjelasan karya yang baik menghubungkan ...",
+          "options": [
+            "Jumlah lem dengan kepopuleran siswa",
+            "Pilihan visual dengan gagasan dan proses pembuatannya",
+            "Harga tas dengan nilai teman",
+            "Nama toko dengan sifat penonton"
+          ],
+          "answer": "Pilihan visual dengan gagasan dan proses pembuatannya",
+          "discussion": "Hubungan unsur, gagasan, dan proses membuat alasan artistik lebih dapat dipahami."
+        },
+        {
+          "id": "SBD-B04-M01-021",
+          "type": "PG",
+          "text": "Apa contoh refleksi terhadap pilihan artistik?",
+          "options": [
+            "Saya memperbesar gambar tanaman agar hobi berkebun menjadi fokus",
+            "Karya saya pasti disukai semua orang",
+            "Teman harus memilih warna yang sama",
+            "Bahan mahal pasti membuat karya benar"
+          ],
+          "answer": "Saya memperbesar gambar tanaman agar hobi berkebun menjadi fokus",
+          "discussion": "Refleksi menjelaskan keputusan dan pengaruhnya terhadap gagasan yang ingin disampaikan."
+        },
+        {
+          "id": "SBD-B04-M01-022",
+          "type": "PG",
+          "text": "Ketika hasil belum sesuai ide, siswa dapat ...",
+          "options": [
+            "Menganggap dirinya gagal selamanya",
+            "Menutupi karya teman agar miliknya terlihat",
+            "Membuang semua alat tanpa meninjau hasil",
+            "Mencoba perbaikan tertentu dan memeriksa pengaruhnya"
+          ],
+          "answer": "Mencoba perbaikan tertentu dan memeriksa pengaruhnya",
+          "discussion": "Perbaikan terarah merupakan bagian pengembangan keterampilan dan gagasan."
+        },
+        {
+          "id": "SBD-B04-M01-023",
+          "type": "PG",
+          "text": "Apa yang menunjukkan orisinalitas secara bertanggung jawab?",
+          "options": [
+            "Menghapus nama sumber gambar",
+            "Memakai karya teman tanpa izin",
+            "Mengolah pengamatan dan pengalaman menjadi pilihan karya sendiri",
+            "Mengaku sebagai pembuat karya yang disalin"
+          ],
+          "answer": "Mengolah pengamatan dan pengalaman menjadi pilihan karya sendiri",
+          "discussion": "Orisinalitas melibatkan pengolahan gagasan, sementara sumber belajar tetap dihargai."
+        },
+        {
+          "id": "SBD-B04-M01-024",
+          "type": "PG",
+          "text": "Apakah belajar teknik dari seniman lain menghilangkan keaslian karya?",
+          "options": [
+            "Tidak, karena semua salinan boleh diakui sendiri",
+            "Tidak, teknik dapat dipelajari lalu dipakai untuk gagasan sendiri dengan menghargai sumber",
+            "Ya, semua kegiatan belajar adalah penjiplakan",
+            "Ya, siswa tidak boleh melihat contoh"
+          ],
+          "answer": "Tidak, teknik dapat dipelajari lalu dipakai untuk gagasan sendiri dengan menghargai sumber",
+          "discussion": "Mempelajari teknik berbeda dari mengambil seluruh karya dan mengakuinya sebagai hasil sendiri."
+        },
+        {
+          "id": "SBD-B04-M01-025",
+          "type": "PG",
+          "text": "Danu menggambarkan perjalanan ke perpustakaan. Agar cerita lebih terarah, ia sebaiknya ...",
+          "options": [
+            "Memilih satu momen yang paling ingin disampaikan",
+            "Memasukkan semua benda sekolah tanpa memilih",
+            "Menulis data pribadi semua pengunjung",
+            "Mengubah tema setiap kali menambah objek"
+          ],
+          "answer": "Memilih satu momen yang paling ingin disampaikan",
+          "discussion": "Pemilihan momen memberi batas dan pusat perhatian pada cerita visual."
+        },
+        {
+          "id": "SBD-B04-M01-026",
+          "type": "PG",
+          "text": "Bagaimana menggunakan masukan teman pada karya pribadi?",
+          "options": [
+            "Wajib mengganti gagasan dengan hobi teman",
+            "Menolak semua masukan tanpa mendengar",
+            "Menganggap masukan menentukan harga diri pembuat",
+            "Menimbang apakah saran membantu gagasan yang ingin disampaikan"
+          ],
+          "answer": "Menimbang apakah saran membantu gagasan yang ingin disampaikan",
+          "discussion": "Masukan adalah informasi untuk dipertimbangkan, sedangkan keputusan artistik tetap perlu beralasan."
+        },
+        {
+          "id": "SBD-B04-M01-027",
+          "type": "PG",
+          "text": "Saran mengganti seluruh warna belum tentu harus diikuti karena ...",
+          "options": [
+            "Semua penonton pasti salah",
+            "Karya yang direvisi tidak lagi boleh dipamerkan",
+            "Kesesuaiannya perlu dinilai terhadap tujuan karya",
+            "Warna sama sekali tidak dapat diubah"
+          ],
+          "answer": "Kesesuaiannya perlu dinilai terhadap tujuan karya",
+          "discussion": "Saran dapat membantu, tetapi perlu dihubungkan dengan gagasan dan hasil yang diinginkan."
+        },
+        {
+          "id": "SBD-B04-M01-028",
+          "type": "PG",
+          "text": "Apa yang dimaksud suasana dalam karya visual?",
+          "options": [
+            "Jumlah alat di dalam tas",
+            "Kesan yang dibangun melalui hubungan unsur dan konteks karya",
+            "Suhu cat yang pasti sama dengan perasaan pembuat",
+            "Harga seluruh bahan"
+          ],
+          "answer": "Kesan yang dibangun melalui hubungan unsur dan konteks karya",
+          "discussion": "Warna, garis, ruang, objek, dan konteks dapat bersama-sama membangun kesan tertentu."
+        },
+        {
+          "id": "SBD-B04-M01-029",
+          "type": "PG",
+          "text": "Jika ingin memberi kesan gerak pada gambar permainan, siswa dapat mencoba ...",
+          "options": [
+            "Pose tokoh dan arah garis yang mendukung gerakan",
+            "Semua tokoh ditutup kotak tanpa konteks",
+            "Menghilangkan seluruh arah dan pose",
+            "Hanya menuliskan harga bola"
+          ],
+          "answer": "Pose tokoh dan arah garis yang mendukung gerakan",
+          "discussion": "Pose dan garis dapat menjadi petunjuk aktivitas dalam gambar diam."
+        },
+        {
+          "id": "SBD-B04-M01-030",
+          "type": "PG",
+          "text": "Mengapa proporsi dapat disesuaikan dalam karya ekspresif?",
+          "options": [
+            "Karena semua hubungan ukuran selalu tidak penting",
+            "Karena benda asli harus diubah ukurannya",
+            "Karena semua gambar wajib salah ukuran",
+            "Untuk mendukung penekanan atau gagasan yang dapat dijelaskan"
+          ],
+          "answer": "Untuk mendukung penekanan atau gagasan yang dapat dijelaskan",
+          "discussion": "Penyimpangan proporsi dapat menjadi pilihan artistik yang terarah, bukan otomatis kesalahan."
+        },
+        {
+          "id": "SBD-B04-M01-031",
+          "type": "PG",
+          "text": "Contoh memilih bahan berdasarkan kebutuhan bentuk adalah ...",
+          "options": [
+            "Memakai bahan tajam karena tampak berkilau",
+            "Memilih perekat hanya dari warna botol",
+            "Memakai karton cukup kuat untuk penopang model kecil",
+            "Memakai kertas rapuh untuk beban berat tanpa uji"
+          ],
+          "answer": "Memakai karton cukup kuat untuk penopang model kecil",
+          "discussion": "Bahan perlu sesuai fungsi struktural dan visual yang direncanakan."
+        },
+        {
+          "id": "SBD-B04-M01-032",
+          "type": "PG",
+          "text": "Apa manfaat mencatat perubahan dari sketsa ke karya akhir?",
+          "options": [
+            "Menggantikan izin memakai karya teman",
+            "Memahami bagaimana gagasan berkembang selama proses",
+            "Membuktikan semua perubahan adalah kesalahan",
+            "Menghapus kebutuhan menjelaskan proses"
+          ],
+          "answer": "Memahami bagaimana gagasan berkembang selama proses",
+          "discussion": "Catatan perubahan mendukung refleksi tentang alasan dan pengaruh keputusan."
+        },
+        {
+          "id": "SBD-B04-M01-033",
+          "type": "PG",
+          "text": "Bagian karya yang paling sesuai untuk ditonjolkan adalah ...",
+          "options": [
+            "Bagian yang paling membantu menyampaikan gagasan utama",
+            "Bagian yang paling mudah menutupi seluruh karya",
+            "Bagian yang paling mahal tanpa melihat tema",
+            "Semua bagian harus sama menonjol tanpa kecuali"
+          ],
+          "answer": "Bagian yang paling membantu menyampaikan gagasan utama",
+          "discussion": "Penekanan disesuaikan dengan tujuan komunikasi karya."
+        },
+        {
+          "id": "SBD-B04-M01-034",
+          "type": "PG",
+          "text": "Mengapa kita tidak boleh menebak kehidupan pribadi pembuat hanya dari satu gambar?",
+          "options": [
+            "Setiap gambar selalu tanpa makna",
+            "Semua pembuat wajib menjelaskan seluruh rahasia",
+            "Warna dapat menentukan semua sifat seseorang",
+            "Karya dapat bersifat simbolis, imajinatif, atau hanya menampilkan sebagian pengalaman"
+          ],
+          "answer": "Karya dapat bersifat simbolis, imajinatif, atau hanya menampilkan sebagian pengalaman",
+          "discussion": "Tafsiran karya tidak memberi dasar untuk menetapkan fakta pribadi tentang pembuatnya."
+        },
+        {
+          "id": "SBD-B04-M01-035",
+          "type": "PG",
+          "text": "Saat mempresentasikan karya tentang keluarga, siswa dapat ...",
+          "options": [
+            "Menyampaikan rahasia orang lain tanpa izin",
+            "Menganggap privasi tidak berlaku di kelas",
+            "Menceritakan gagasan secara umum tanpa membuka informasi yang tidak nyaman dibagikan",
+            "Wajib menyebut alamat lengkap semua anggota"
+          ],
+          "answer": "Menceritakan gagasan secara umum tanpa membuka informasi yang tidak nyaman dibagikan",
+          "discussion": "Presentasi tetap dapat jelas sambil menghargai batas informasi pribadi."
+        },
+        {
+          "id": "SBD-B04-M01-036",
+          "type": "PG",
+          "text": "Apa pertanyaan yang tepat saat ingin memahami simbol teman?",
+          "options": [
+            "Berapa rahasia keluarga yang kamu sembunyikan?",
+            "Apa alasan kamu memilih bentuk ini untuk gagasanmu?",
+            "Mengapa semua orang harus memakai simbolmu?",
+            "Apakah simbol ini membuktikan sifat burukmu?"
+          ],
+          "answer": "Apa alasan kamu memilih bentuk ini untuk gagasanmu?",
+          "discussion": "Pertanyaan terbuka tentang keputusan artistik memberi ruang penjelasan tanpa menghakimi."
+        },
+        {
+          "id": "SBD-B04-M01-037",
+          "type": "PG",
+          "text": "Apa manfaat membuat karya berdasarkan minat?",
+          "options": [
+            "Mendorong keterlibatan dan hubungan pribadi dengan proses berkarya",
+            "Menjamin karya pasti menang lomba",
+            "Membuat teknik tidak perlu dipelajari",
+            "Menghilangkan kebutuhan menghargai karya lain"
+          ],
+          "answer": "Mendorong keterlibatan dan hubungan pribadi dengan proses berkarya",
+          "discussion": "Minat memberi dorongan belajar, tetapi keterampilan dan tanggung jawab tetap diperlukan."
+        },
+        {
+          "id": "SBD-B04-M01-038",
+          "type": "PG",
+          "text": "Ruang kosong pada karya pribadi dapat digunakan untuk ...",
+          "options": [
+            "Membuktikan bahwa pembuat tidak bekerja",
+            "Menghapus seluruh konteks tema",
+            "Menentukan nilai karya secara pasti",
+            "Memberi jeda dan membantu penekanan pada objek"
+          ],
+          "answer": "Memberi jeda dan membantu penekanan pada objek",
+          "discussion": "Ruang kosong merupakan pilihan komposisi yang dapat mendukung keterbacaan dan suasana."
+        },
+        {
+          "id": "SBD-B04-M01-039",
+          "type": "PG",
+          "text": "Bagaimana memilih format dua atau tiga dimensi?",
+          "options": [
+            "Memilih semata-mata agar memakai bahan terbanyak",
+            "Menganggap gambar datar tidak dapat bercerita",
+            "Mempertimbangkan gagasan, bahan, keterampilan, dan cara menampilkan",
+            "Menganggap tiga dimensi selalu lebih baik"
+          ],
+          "answer": "Mempertimbangkan gagasan, bahan, keterampilan, dan cara menampilkan",
+          "discussion": "Format dipilih sesuai kebutuhan karya; keduanya dapat menyampaikan gagasan yang bermakna."
+        },
+        {
+          "id": "SBD-B04-M01-040",
+          "type": "PG",
+          "text": "Apa yang perlu disiapkan untuk menjelaskan proses karya?",
+          "options": [
+            "Klaim bahwa hasil tidak pernah berubah",
+            "Catatan ide, percobaan, masalah, dan keputusan perbaikan",
+            "Daftar kekurangan pribadi teman",
+            "Dugaan nilai karya seluruh kelas"
+          ],
+          "answer": "Catatan ide, percobaan, masalah, dan keputusan perbaikan",
+          "discussion": "Catatan proses membantu penjelasan konkret tentang bagaimana karya berkembang."
+        },
+        {
+          "id": "SBD-B04-M01-041",
+          "type": "PG",
+          "text": "Jika simbol yang dipilih ternyata memiliki makna budaya khusus, siswa sebaiknya ...",
+          "options": [
+            "Mencari informasi dan menyesuaikan penggunaannya dengan hormat",
+            "Mengabaikan semua penjelasan pemilik budaya",
+            "Mengklaim bahwa simbol baru diciptakannya",
+            "Memakai simbol untuk mengejek"
+          ],
+          "answer": "Mencari informasi dan menyesuaikan penggunaannya dengan hormat",
+          "discussion": "Penggunaan simbol perlu mempertimbangkan konteks dan penghargaan kepada budaya asalnya."
+        },
+        {
+          "id": "SBD-B04-M01-042",
+          "type": "PG",
+          "text": "Mengapa karya tentang hobi tidak harus menggambarkan semua alat hobi tersebut?",
+          "options": [
+            "Karena alat tidak pernah dapat digambar",
+            "Karena semua karya wajib tanpa objek",
+            "Karena hobi tidak berkaitan dengan seni",
+            "Pembuat dapat memilih unsur yang paling mewakili gagasan"
+          ],
+          "answer": "Pembuat dapat memilih unsur yang paling mewakili gagasan",
+          "discussion": "Penyederhanaan dan pemilihan unsur membantu pesan lebih terarah."
+        },
+        {
+          "id": "SBD-B04-M01-043",
+          "type": "PG",
+          "text": "Saat menjelaskan kegagalan sambungan pada model, refleksi yang tepat adalah ...",
+          "options": [
+            "Saya tidak perlu mencoba lagi selamanya",
+            "Penyangga tidak pernah berhubungan dengan kekuatan",
+            "Saya akan menguji penyangga sebelum memasang bagian yang berat",
+            "Semua teman harus memakai bahan yang sama"
+          ],
+          "answer": "Saya akan menguji penyangga sebelum memasang bagian yang berat",
+          "discussion": "Refleksi teknis menghubungkan masalah dengan langkah perbaikan yang dapat diuji."
+        },
+        {
+          "id": "SBD-B04-M01-044",
+          "type": "PG",
+          "text": "Apa bukti bahwa karya telah dikembangkan, bukan sekadar disalin?",
+          "options": [
+            "Foto contoh disembunyikan dari guru",
+            "Ada pilihan susunan dan gagasan sendiri yang dapat dijelaskan serta sumber yang dihargai",
+            "Nama pembuat asli dihapus",
+            "Semua detail sama lalu tanda tangan diganti"
+          ],
+          "answer": "Ada pilihan susunan dan gagasan sendiri yang dapat dijelaskan serta sumber yang dihargai",
+          "discussion": "Pengolahan dan alasan pilihan memperlihatkan proses kreatif yang bertanggung jawab."
+        },
+        {
+          "id": "SBD-B04-M01-045",
+          "type": "PG",
+          "text": "Bagaimana menentukan bahwa karya sudah siap dipresentasikan?",
+          "options": [
+            "Memeriksa tujuan, bagian yang perlu dirapikan, dan kesiapan penjelasannya",
+            "Menunggu semua orang memiliki selera yang sama",
+            "Memastikan bahan paling mahal digunakan",
+            "Menutupi semua catatan proses"
+          ],
+          "answer": "Memeriksa tujuan, bagian yang perlu dirapikan, dan kesiapan penjelasannya",
+          "discussion": "Kesiapan mencakup hasil yang diperiksa dan kemampuan menjelaskan prosesnya."
+        },
+        {
+          "id": "SBD-B04-M01-046",
+          "type": "PG",
+          "text": "Apa contoh tanggung jawab setelah memakai bahan bersama?",
+          "options": [
+            "Menyimpan semua alat kelas sebagai milik pribadi",
+            "Membiarkan lem tumpah di lantai",
+            "Membuang semua bahan tanpa memilah",
+            "Membersihkan alat dan mengembalikan sisa bahan yang masih layak"
+          ],
+          "answer": "Membersihkan alat dan mengembalikan sisa bahan yang masih layak",
+          "discussion": "Penggunaan bahan bersama memerlukan perawatan, pengembalian, dan kebersihan ruang."
+        },
+        {
+          "id": "SBD-B04-M01-047",
+          "type": "PG",
+          "text": "Mengapa membandingkan karya hanya berdasarkan kemiripan dengan foto dapat membatasi penilaian?",
+          "options": [
+            "Karena semua karya harus tidak menyerupai objek",
+            "Karena keterampilan tidak perlu dipelajari",
+            "Karena tujuan ekspresif dan pengolahan gagasan juga perlu diperhatikan",
+            "Karena gambar pengamatan tidak pernah berguna"
+          ],
+          "answer": "Karena tujuan ekspresif dan pengolahan gagasan juga perlu diperhatikan",
+          "discussion": "Kriteria penilaian perlu sesuai tujuan, termasuk ekspresi, proses, dan pilihan artistik."
+        },
+        {
+          "id": "SBD-B04-M01-048",
+          "type": "PG",
+          "text": "Saat warna hasil percobaan lebih gelap daripada rencana, siswa dapat ...",
+          "options": [
+            "Menyembunyikan alat teman",
+            "Menguji campuran atau teknik lain pada contoh kecil",
+            "Langsung menutup seluruh karya dengan cat lebih gelap",
+            "Menyatakan semua warna tidak berguna"
+          ],
+          "answer": "Menguji campuran atau teknik lain pada contoh kecil",
+          "discussion": "Percobaan kecil membantu menyesuaikan hasil sebelum mengubah bagian karya yang luas."
+        },
+        {
+          "id": "SBD-B04-M01-049",
+          "type": "PG",
+          "text": "Apa yang perlu dihargai ketika teman mempresentasikan karya yang berbeda selera?",
+          "options": [
+            "Usaha, gagasan, dan alasan pilihan artistiknya",
+            "Kewajiban teman mengikuti warna favorit kita",
+            "Jumlah barang mahal yang dimilikinya",
+            "Kesempatan mengejek simbol yang tidak kita pilih"
+          ],
+          "answer": "Usaha, gagasan, dan alasan pilihan artistiknya",
+          "discussion": "Apresiasi tidak harus berarti selera sama; kita tetap dapat memahami alasan dan proses orang lain."
+        },
+        {
+          "id": "SBD-B04-M01-050",
+          "type": "PG",
+          "text": "Tujuan akhir karya yang mewakili diri adalah ...",
+          "options": [
+            "Membuktikan semua teman harus menyukai hasilnya",
+            "Mengumpulkan sebanyak mungkin data pribadi",
+            "Menentukan bahwa hanya satu bentuk karya yang benar",
+            "Mengungkapkan gagasan pribadi secara visual dan merefleksikan prosesnya"
+          ],
+          "answer": "Mengungkapkan gagasan pribadi secara visual dan merefleksikan prosesnya",
+          "discussion": "Ekspresi diri disertai keputusan artistik, penjelasan, serta refleksi yang bertanggung jawab."
+        }
+      ]
+    }
+  ]
+}

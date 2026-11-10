@@ -1,0 +1,354 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Budaya — Seni Rupa",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "SBD-B02",
+      "chapter_title": "Belajar dari Karya Orang Lain",
+      "questions": [
+        {
+          "id": "SBD-B02-M01-051",
+          "type": "PG",
+          "text": "Pada poster sebelah kanan, masalah yang tampak adalah ...",
+          "options": [
+            "Tidak ada bidang gambar",
+            "Judul pasti paling mudah dibaca",
+            "Judul terganggu coretan yang menutupinya",
+            "Tidak ada warna pada poster"
+          ],
+          "answer": "Judul terganggu coretan yang menutupinya",
+          "discussion": "Coretan melintasi area tulisan sehingga mengganggu keterbacaan informasi utama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-poster.svg",
+            "alt": "Panel kiri poster HEMAT AIR dengan judul jelas dan panel kanan judul yang tertutup banyak coretan."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-052",
+          "type": "PG",
+          "text": "Perbaikan yang paling sesuai untuk poster sebelah kanan adalah ...",
+          "options": [
+            "Menghapus pesan hemat air seluruhnya",
+            "Mengurangi coretan di area judul",
+            "Menambah coretan pada semua huruf",
+            "Memperkecil judul hingga tidak terbaca"
+          ],
+          "answer": "Mengurangi coretan di area judul",
+          "discussion": "Mengurangi gangguan di sekitar tulisan membantu judul dan pesan lebih jelas.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-poster.svg",
+            "alt": "Panel kiri poster HEMAT AIR dengan judul jelas dan panel kanan judul yang tertutup banyak coretan."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-053",
+          "type": "PG",
+          "text": "Jika tujuan tugas adalah menonjolkan satu bunga, contoh yang lebih langsung mendukungnya adalah ...",
+          "options": [
+            "Panel B",
+            "Panel A",
+            "Keduanya tanpa bunga",
+            "Panel yang tidak ditampilkan"
+          ],
+          "answer": "Panel B",
+          "discussion": "Panel B memusatkan perhatian pada satu bunga; A lebih menunjukkan kumpulan motif.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-susunan.svg",
+            "alt": "A bunga-bunga rapat memenuhi bidang, B satu bunga dengan ruang kosong luas."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-054",
+          "type": "PG",
+          "text": "Pernyataan perbandingan mana yang berdasarkan gambar?",
+          "options": [
+            "Pembuat A pasti lebih rajin daripada pembuat B",
+            "B pasti lebih mahal daripada A",
+            "Semua orang wajib memilih A",
+            "A mengulang lebih banyak bunga daripada B"
+          ],
+          "answer": "A mengulang lebih banyak bunga daripada B",
+          "discussion": "Jumlah bunga dapat diamati; sifat pembuat, harga, dan kewajiban selera tidak dapat disimpulkan dari gambar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-susunan.svg",
+            "alt": "A bunga-bunga rapat memenuhi bidang, B satu bunga dengan ruang kosong luas."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-055",
+          "type": "PG",
+          "text": "Siapakah pembuat karya Kebunku menurut label?",
+          "options": [
+            "Semua pengunjung",
+            "Tidak ada pembuat yang disebut",
+            "Nisa",
+            "Rani"
+          ],
+          "answer": "Nisa",
+          "discussion": "Label membedakan pembuat Nisa dari sumber inspirasi karya Rani.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-kredit.svg",
+            "alt": "Contoh label menyebut judul Kebunku, pembuat Nisa, dan inspirasi karya Rani."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-056",
+          "type": "PG",
+          "text": "Apa yang ditunjukkan pencantuman inspirasi karya Rani?",
+          "options": [
+            "Penghapusan semua identitas",
+            "Penghargaan kepada sumber belajar",
+            "Pemindahan otomatis nama pembuat menjadi Rani",
+            "Larangan mengembangkan gagasan sendiri"
+          ],
+          "answer": "Penghargaan kepada sumber belajar",
+          "discussion": "Menyebut sumber membantu menjelaskan hubungan karya dengan inspirasi yang digunakan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-kredit.svg",
+            "alt": "Contoh label menyebut judul Kebunku, pembuat Nisa, dan inspirasi karya Rani."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-057",
+          "type": "PG",
+          "text": "Teknik yang ditunjukkan potongan bahan pada gambar adalah ...",
+          "options": [
+            "Kolase",
+            "Pahat batu",
+            "Cetak logam cair",
+            "Anyaman bilah yang saling menyilang"
+          ],
+          "answer": "Kolase",
+          "discussion": "Bahan tampak disusun dan ditempelkan di atas bidang, sesuai teknik kolase.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-kolase.svg",
+            "alt": "Potongan berwarna disusun menjadi bentuk bunga dan pot pada bidang karton."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-058",
+          "type": "PG",
+          "text": "Sebelum potongan pada gambar dilem permanen, langkah yang membantu adalah ...",
+          "options": [
+            "Mencampurnya dengan sampah basah",
+            "Menempel semuanya tanpa melihat posisi",
+            "Menghilangkan alas karton",
+            "Mencoba susunannya lebih dahulu"
+          ],
+          "answer": "Mencoba susunannya lebih dahulu",
+          "discussion": "Uji susunan memberi kesempatan mengubah komposisi sebelum potongan melekat tetap.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-kolase.svg",
+            "alt": "Potongan berwarna disusun menjadi bentuk bunga dan pot pada bidang karton."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-059",
+          "type": "PG",
+          "text": "Kartu manakah menunjukkan tahap sesudah menyiapkan bahan?",
+          "options": [
+            "Kartu Q",
+            "Semua kartu harus dilakukan bersamaan",
+            "Kartu R",
+            "Kartu P"
+          ],
+          "answer": "Kartu R",
+          "discussion": "Sesudah persiapan bahan, kegiatan berlanjut pada pembuatan karya sebelum pemeriksaan hasil.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-urutan.svg",
+            "alt": "Empat kartu P Rancang, Q Siapkan bahan, R Buat karya, S Periksa hasil."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-060",
+          "type": "PG",
+          "text": "Apa manfaat tahap pada kartu S?",
+          "options": [
+            "Mengganti nama pembuat",
+            "Menemukan hal yang sudah sesuai dan yang perlu diperbaiki",
+            "Menghapus sumber inspirasi",
+            "Menghindari melihat karya"
+          ],
+          "answer": "Menemukan hal yang sudah sesuai dan yang perlu diperbaiki",
+          "discussion": "Pemeriksaan hasil mendukung evaluasi dan revisi berdasarkan tujuan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-urutan.svg",
+            "alt": "Empat kartu P Rancang, Q Siapkan bahan, R Buat karya, S Periksa hasil."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-061",
+          "type": "PG",
+          "text": "Untuk garis yang tidak terlalu menyebar pada kondisi uji ini, contoh mana yang lebih sesuai?",
+          "options": [
+            "Q, sedikit air",
+            "P, banyak air",
+            "Keduanya tanpa cat",
+            "Tidak ada garis pada gambar"
+          ],
+          "answer": "Q, sedikit air",
+          "discussion": "Pada gambar uji, garis Q lebih terarah; pemilihan tetap disesuaikan dengan kertas dan tujuan teknik.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-uji.svg",
+            "alt": "P percobaan cat banyak air dengan warna menyebar, Q sedikit air dengan garis yang lebih terarah."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-062",
+          "type": "PG",
+          "text": "Kesimpulan mana yang dapat diambil dari percobaan yang ditampilkan?",
+          "options": [
+            "Semua jenis kertas pasti memberi hasil identik",
+            "Cat banyak air selalu salah untuk semua tujuan",
+            "Cat sedikit air pasti tidak dapat digunakan",
+            "Jumlah air memengaruhi penyebaran cat pada kondisi uji"
+          ],
+          "answer": "Jumlah air memengaruhi penyebaran cat pada kondisi uji",
+          "discussion": "Dua hasil menunjukkan pengaruh jumlah air pada percobaan itu, tanpa menetapkan aturan mutlak bagi semua teknik.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-uji.svg",
+            "alt": "P percobaan cat banyak air dengan warna menyebar, Q sedikit air dengan garis yang lebih terarah."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-063",
+          "type": "PG",
+          "text": "Apa kesamaan dua baris motif pada gambar?",
+          "options": [
+            "Keduanya hanya mempunyai satu objek",
+            "Keduanya tidak memiliki warna",
+            "Keduanya memakai pengulangan bentuk",
+            "Keduanya memakai bentuk daun saja"
+          ],
+          "answer": "Keduanya memakai pengulangan bentuk",
+          "discussion": "P mengulang daun dan Q mengulang bunga, sehingga keduanya menunjukkan pengulangan visual.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-motif.svg",
+            "alt": "P mengulang daun hijau mendatar, Q mengulang bunga oranye mendatar."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-064",
+          "type": "PG",
+          "text": "Jika ingin mengembangkan motif P menjadi karya baru, pilihan yang sesuai adalah ...",
+          "options": [
+            "Melarang orang lain menggambar tumbuhan",
+            "Mencoba arah dan jarak daun yang berbeda sambil menghargai sumber",
+            "Menyalin persis lalu menghapus nama sumber",
+            "Mengaku menciptakan semua motif daun di dunia"
+          ],
+          "answer": "Mencoba arah dan jarak daun yang berbeda sambil menghargai sumber",
+          "discussion": "Pengembangan dapat dilakukan melalui susunan baru, bukan pengakuan palsu atas sumber gagasan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-motif.svg",
+            "alt": "P mengulang daun hijau mendatar, Q mengulang bunga oranye mendatar."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-065",
+          "type": "PG",
+          "text": "Bagian karya apa yang menjadi sasaran masukan pada gambar?",
+          "options": [
+            "Ukuran dan keterbacaan judul",
+            "Sifat pribadi pembuat",
+            "Harga semua bahan",
+            "Jumlah pengunjung"
+          ],
+          "answer": "Ukuran dan keterbacaan judul",
+          "discussion": "Catatan menyebut masalah pada judul dan menyarankan tindakan yang dapat dicoba.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-masukan.svg",
+            "alt": "Poster di kiri dan catatan di kanan: Judul sulit terbaca dari jauh. Coba perbesar hurufnya."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-066",
+          "type": "PG",
+          "text": "Bagaimana menguji masukan pada gambar?",
+          "options": [
+            "Mengganti warna tanpa melihat judul",
+            "Menilai berdasarkan siapa pemberi saran",
+            "Menyembunyikan kedua rancangan",
+            "Membandingkan dua ukuran judul dari jarak pandang sama"
+          ],
+          "answer": "Membandingkan dua ukuran judul dari jarak pandang sama",
+          "discussion": "Kondisi pandang yang sama membantu membandingkan pengaruh perubahan ukuran tulisan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-masukan.svg",
+            "alt": "Poster di kiri dan catatan di kanan: Judul sulit terbaca dari jauh. Coba perbesar hurufnya."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-067",
+          "type": "PG",
+          "text": "Jika karya baru memakai kelompok Q, warna mana yang sesuai contoh?",
+          "options": [
+            "Hanya hitam dan putih",
+            "Semua warna pada gambar dihapus",
+            "Biru, hijau, dan ungu",
+            "Merah, oranye, dan kuning"
+          ],
+          "answer": "Biru, hijau, dan ungu",
+          "discussion": "Baris Q pada gambar berisi biru, hijau, dan ungu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-warna.svg",
+            "alt": "P kelompok merah oranye kuning; Q kelompok biru hijau ungu."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-068",
+          "type": "PG",
+          "text": "Bagaimana memilih antara kelompok P dan Q untuk karya pribadi?",
+          "options": [
+            "Menganggap nama warna menentukan sifat pembuat",
+            "Menghubungkan pilihan warna dengan tujuan dan alasan pembuat",
+            "Menetapkan satu kelompok selalu lebih benar",
+            "Memilih kelompok yang dipaksa teman tanpa dipahami"
+          ],
+          "answer": "Menghubungkan pilihan warna dengan tujuan dan alasan pembuat",
+          "discussion": "Kedua kelompok dapat dipakai; kesesuaiannya bergantung pada gagasan serta pilihan artistik.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-warna.svg",
+            "alt": "P kelompok merah oranye kuning; Q kelompok biru hijau ungu."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-069",
+          "type": "PG",
+          "text": "Apa kegiatan belajar yang ditunjukkan para siswa?",
+          "options": [
+            "Mengamati dan membicarakan karya",
+            "Mengganti nama semua pembuat",
+            "Merusak pajangan",
+            "Menutup seluruh label"
+          ],
+          "answer": "Mengamati dan membicarakan karya",
+          "discussion": "Pengamatan serta percakapan tentang unsur karya merupakan bagian apresiasi dan belajar dari contoh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-sumber.svg",
+            "alt": "Tiga karya berbeda dipajang dengan label; dua siswa melihat dan berbicara tentang karya."
+          }
+        },
+        {
+          "id": "SBD-B02-M01-070",
+          "type": "PG",
+          "text": "Sebelum memakai foto karya yang dipajang sebagai bahan presentasi, siswa sebaiknya ...",
+          "options": [
+            "Mengaku sebagai pembuat semua karya",
+            "Menghapus informasi label",
+            "Menganggap semua foto bebas digunakan tanpa ketentuan",
+            "Meminta izin yang diperlukan dan mencatat pembuatnya"
+          ],
+          "answer": "Meminta izin yang diperlukan dan mencatat pembuatnya",
+          "discussion": "Dokumentasi dan penggunaan sumber perlu menghargai izin serta identitas karya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/sbd/assets/sbd-b02-soal-sumber.svg",
+            "alt": "Tiga karya berbeda dipajang dengan label; dua siswa melihat dan berbicara tentang karya."
+          }
+        }
+      ]
+    }
+  ]
+}

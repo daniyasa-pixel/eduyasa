@@ -1,0 +1,664 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Budaya — Seni Rupa",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "SBD-B03",
+      "chapter_title": "Ideku, Gagasanku",
+      "questions": [
+        {
+          "id": "SBD-B03-M01-001",
+          "type": "PG",
+          "text": "Gagasan awal karya dapat berasal dari ...",
+          "options": [
+            "Pengalaman, pengamatan lingkungan, atau imajinasi",
+            "Hanya benda yang mahal",
+            "Hanya karya pemenang lomba",
+            "Satu contoh yang wajib disalin persis"
+          ],
+          "answer": "Pengalaman, pengamatan lingkungan, atau imajinasi",
+          "discussion": "Berbagai pengalaman dan pengamatan dapat diolah menjadi gagasan pribadi."
+        },
+        {
+          "id": "SBD-B03-M01-002",
+          "type": "PG",
+          "text": "Apa yang dimaksud diorama?",
+          "options": [
+            "Lagu yang dinyanyikan bersama",
+            "Garis tepi pada kertas",
+            "Warna hasil campuran dua cat",
+            "Miniatur tiga dimensi yang menggambarkan adegan atau suasana"
+          ],
+          "answer": "Miniatur tiga dimensi yang menggambarkan adegan atau suasana",
+          "discussion": "Diorama menampilkan adegan melalui susunan objek yang memiliki ruang dan kedalaman."
+        },
+        {
+          "id": "SBD-B03-M01-003",
+          "type": "PG",
+          "text": "Langkah yang tepat sebelum memilih bahan diorama adalah ...",
+          "options": [
+            "Membuang alas tanpa memeriksa ukuran",
+            "Mewarnai meja kerja",
+            "Menentukan tema dan adegan yang ingin ditampilkan",
+            "Menempel semua benda yang ditemukan"
+          ],
+          "answer": "Menentukan tema dan adegan yang ingin ditampilkan",
+          "discussion": "Tema membantu menentukan bahan dan bentuk yang benar-benar dibutuhkan."
+        },
+        {
+          "id": "SBD-B03-M01-004",
+          "type": "PG",
+          "text": "Tema diorama taman bersih paling sesuai didukung oleh ...",
+          "options": [
+            "Hanya daftar harga alat tulis",
+            "Miniatur tanaman, jalur jalan, dan tempat sampah",
+            "Judul laut dengan semua objek pesawat ruang angkasa",
+            "Benda acak tanpa hubungan dengan taman"
+          ],
+          "answer": "Miniatur tanaman, jalur jalan, dan tempat sampah",
+          "discussion": "Objek dipilih karena membantu penonton membaca suasana taman dan pesan kebersihan."
+        },
+        {
+          "id": "SBD-B03-M01-005",
+          "type": "PG",
+          "text": "Apa manfaat sketsa untuk diorama?",
+          "options": [
+            "Menentukan letak objek dan hubungan ruang sebelum dibuat",
+            "Menggantikan seluruh benda tiga dimensi secara otomatis",
+            "Membuat bahan selalu tersedia tanpa dicari",
+            "Menjamin tidak ada revisi sama sekali"
+          ],
+          "answer": "Menentukan letak objek dan hubungan ruang sebelum dibuat",
+          "discussion": "Sketsa membantu merencanakan susunan sekaligus dapat diperbaiki selama proses."
+        },
+        {
+          "id": "SBD-B03-M01-006",
+          "type": "PG",
+          "text": "Saat membuat diorama pasar, objek yang sebaiknya diprioritaskan adalah ...",
+          "options": [
+            "Semua benda yang dimiliki kelompok tanpa dipilih",
+            "Hiasan yang menutupi seluruh adegan",
+            "Benda paling mahal meski tidak berkaitan",
+            "Objek yang paling membantu mengenali kegiatan pasar"
+          ],
+          "answer": "Objek yang paling membantu mengenali kegiatan pasar",
+          "discussion": "Prioritas ditentukan oleh gagasan dan keterbacaan adegan, bukan banyak atau mahalnya bahan."
+        },
+        {
+          "id": "SBD-B03-M01-007",
+          "type": "PG",
+          "text": "Perbedaan gambar taman dan diorama taman terletak pada ...",
+          "options": [
+            "Diorama selalu harus sebesar taman asli",
+            "Gambar hanya boleh memakai pensil hitam",
+            "Diorama mempunyai susunan benda dengan kedalaman nyata",
+            "Gambar taman tidak dapat memakai warna"
+          ],
+          "answer": "Diorama mempunyai susunan benda dengan kedalaman nyata",
+          "discussion": "Gambar berada di bidang datar, sementara diorama menyusun objek di ruang nyata."
+        },
+        {
+          "id": "SBD-B03-M01-008",
+          "type": "PG",
+          "text": "Mengapa ukuran objek perlu direncanakan terhadap ukuran alas?",
+          "options": [
+            "Agar seluruh objek berukuran sama persis",
+            "Agar objek muat dan hubungan ukurannya sesuai gagasan",
+            "Agar semua objek selalu lebih besar dari alas",
+            "Agar alas tidak diperlukan lagi"
+          ],
+          "answer": "Agar objek muat dan hubungan ukurannya sesuai gagasan",
+          "discussion": "Perencanaan ukuran menjaga hubungan antarbenda dan ruang penempatannya."
+        },
+        {
+          "id": "SBD-B03-M01-009",
+          "type": "PG",
+          "text": "Jika miniatur pohon menutupi seluruh rumah, perbaikan yang tepat adalah ...",
+          "options": [
+            "Menyesuaikan ukuran atau posisi pohon agar rumah tetap terbaca",
+            "Menutup rumah dengan lebih banyak pohon",
+            "Menghapus tema tanpa mencoba susunan",
+            "Mengelem semua benda sebelum menilai"
+          ],
+          "answer": "Menyesuaikan ukuran atau posisi pohon agar rumah tetap terbaca",
+          "discussion": "Ukuran dan posisi dapat diubah agar objek penting tidak saling menutupi."
+        },
+        {
+          "id": "SBD-B03-M01-010",
+          "type": "PG",
+          "text": "Bagian latar belakang diorama berguna untuk ...",
+          "options": [
+            "Menggantikan semua objek utama",
+            "Menyembunyikan seluruh hasil karya",
+            "Menentukan sifat pribadi penonton",
+            "Memberi konteks tempat dan suasana adegan"
+          ],
+          "answer": "Memberi konteks tempat dan suasana adegan",
+          "discussion": "Latar mendukung pemahaman tempat, seperti langit, dinding, atau pepohonan jauh."
+        },
+        {
+          "id": "SBD-B03-M01-011",
+          "type": "PG",
+          "text": "Mengapa benda besar sering diletakkan di belakang benda kecil dalam diorama yang dilihat dari depan?",
+          "options": [
+            "Agar benda kecil tidak perlu dibuat",
+            "Karena warna benda tidak boleh berbeda",
+            "Agar objek kecil di depan tidak tertutup",
+            "Karena semua benda besar pasti lebih jauh di dunia nyata"
+          ],
+          "answer": "Agar objek kecil di depan tidak tertutup",
+          "discussion": "Penempatan disesuaikan dengan arah pandang supaya bagian penting dapat diamati."
+        },
+        {
+          "id": "SBD-B03-M01-012",
+          "type": "PG",
+          "text": "Kardus bekas yang layak digunakan untuk alas adalah ...",
+          "options": [
+            "Penuh bagian tajam yang dibiarkan terbuka",
+            "Bersih, cukup kuat, dan tidak berjamur",
+            "Basah serta mulai rapuh",
+            "Bekas bahan berbahaya yang belum dibersihkan"
+          ],
+          "answer": "Bersih, cukup kuat, dan tidak berjamur",
+          "discussion": "Alas perlu aman dan cukup stabil untuk menopang susunan objek."
+        },
+        {
+          "id": "SBD-B03-M01-013",
+          "type": "PG",
+          "text": "Ketika alas melengkung karena beban, siswa sebaiknya ...",
+          "options": [
+            "Mengurangi beban atau memperkuat alas dengan bahan yang sesuai",
+            "Menambah benda berat di bagian terlemah",
+            "Mengabaikan risiko karya jatuh",
+            "Memegang karya hanya pada objek kecil"
+          ],
+          "answer": "Mengurangi beban atau memperkuat alas dengan bahan yang sesuai",
+          "discussion": "Penopang perlu disesuaikan dengan beban agar karya stabil dan aman dipindahkan."
+        },
+        {
+          "id": "SBD-B03-M01-014",
+          "type": "PG",
+          "text": "Daftar bahan dibuat agar ...",
+          "options": [
+            "Setiap bahan harus dibeli baru",
+            "Semua alat harus dipakai sekaligus",
+            "Kelompok tidak boleh mengubah rencana",
+            "Kebutuhan sesuai rancangan dapat diperiksa sebelum bekerja"
+          ],
+          "answer": "Kebutuhan sesuai rancangan dapat diperiksa sebelum bekerja",
+          "discussion": "Daftar membantu memastikan ketersediaan dan mengurangi pengambilan bahan yang tidak diperlukan."
+        },
+        {
+          "id": "SBD-B03-M01-015",
+          "type": "PG",
+          "text": "Menggunakan bahan bekas dalam diorama dapat ...",
+          "options": [
+            "Menjamin seluruh karya tahan air",
+            "Membuat semua bahan otomatis bersih",
+            "Mengurangi limbah sekaligus memberi pilihan bentuk dan tekstur",
+            "Menghilangkan kebutuhan memilih bahan aman"
+          ],
+          "answer": "Mengurangi limbah sekaligus memberi pilihan bentuk dan tekstur",
+          "discussion": "Manfaat lingkungan tetap disertai pemeriksaan kebersihan, keamanan, dan kesesuaian bahan."
+        },
+        {
+          "id": "SBD-B03-M01-016",
+          "type": "PG",
+          "text": "Urutan kerja yang masuk akal adalah ...",
+          "options": [
+            "Memamerkan bahan tanpa pernah merakitnya",
+            "Menentukan ide, membuat sketsa, menyiapkan bahan, merakit, lalu mengevaluasi",
+            "Mengevaluasi karya yang belum direncanakan lalu membuang bahan",
+            "Mengelem semua benda lalu menentukan tema dari awal"
+          ],
+          "answer": "Menentukan ide, membuat sketsa, menyiapkan bahan, merakit, lalu mengevaluasi",
+          "discussion": "Urutan ini menghubungkan gagasan, persiapan, pelaksanaan, dan pemeriksaan hasil."
+        },
+        {
+          "id": "SBD-B03-M01-017",
+          "type": "PG",
+          "text": "Untuk menunjukkan sungai pada diorama tanpa memakai air sungguhan, siswa dapat ...",
+          "options": [
+            "Memakai kertas biru yang ditata sebagai aliran",
+            "Menuang banyak air ke alas kardus",
+            "Memakai cairan berbahaya agar berkilau",
+            "Membasahi seluruh sambungan"
+          ],
+          "answer": "Memakai kertas biru yang ditata sebagai aliran",
+          "discussion": "Bahan visual dapat mewakili air tanpa merusak alas atau menimbulkan risiko tumpah."
+        },
+        {
+          "id": "SBD-B03-M01-018",
+          "type": "PG",
+          "text": "Apa yang dimaksud pengembangan imajinasi dalam berkarya?",
+          "options": [
+            "Mengaku bahwa semua cerita khayalan pasti peristiwa nyata",
+            "Mengabaikan semua tujuan dan keselamatan",
+            "Melarang penggunaan pengalaman pribadi",
+            "Mengolah gagasan menjadi susunan baru yang bermakna"
+          ],
+          "answer": "Mengolah gagasan menjadi susunan baru yang bermakna",
+          "discussion": "Imajinasi memberi ruang pengolahan gagasan, dengan penjelasan yang sesuai tentang karya."
+        },
+        {
+          "id": "SBD-B03-M01-019",
+          "type": "PG",
+          "text": "Saat bahan rencana tidak tersedia, langkah yang tepat adalah ...",
+          "options": [
+            "Menghentikan kerja tanpa membahas pilihan",
+            "Memakai bahan tajam tanpa perlindungan",
+            "Mencari pengganti yang aman dengan fungsi visual serupa",
+            "Mengambil barang orang lain tanpa izin"
+          ],
+          "answer": "Mencari pengganti yang aman dengan fungsi visual serupa",
+          "discussion": "Fungsi bahan dapat dipenuhi melalui penyesuaian, misalnya gulungan kertas menggantikan tabung kecil."
+        },
+        {
+          "id": "SBD-B03-M01-020",
+          "type": "PG",
+          "text": "Mengapa perlu menguji sambungan sebelum semua objek dipasang?",
+          "options": [
+            "Untuk menghapus kebutuhan alas",
+            "Untuk melihat apakah bahan dan perekat bekerja sesuai kebutuhan",
+            "Untuk menentukan siapa anggota paling kuat",
+            "Untuk membuat perekat semakin boros"
+          ],
+          "answer": "Untuk melihat apakah bahan dan perekat bekerja sesuai kebutuhan",
+          "discussion": "Uji sambungan membantu mencegah bagian lepas saat karya dirakit atau dipindahkan."
+        },
+        {
+          "id": "SBD-B03-M01-021",
+          "type": "PG",
+          "text": "Bagian model yang masih basah sebaiknya ...",
+          "options": [
+            "Dibiarkan mengering di tempat aman sesuai kebutuhan bahannya",
+            "Langsung ditekan dengan benda berat tanpa tujuan",
+            "Dimasukkan basah ke kotak tertutup selamanya",
+            "Dipegang terus-menerus pada sambungannya"
+          ],
+          "answer": "Dibiarkan mengering di tempat aman sesuai kebutuhan bahannya",
+          "discussion": "Waktu pengeringan membantu perekat atau pewarna mencapai hasil yang diharapkan."
+        },
+        {
+          "id": "SBD-B03-M01-022",
+          "type": "PG",
+          "text": "Bagaimana menggunakan gunting dalam kegiatan diorama?",
+          "options": [
+            "Menggunting sambil berjalan di antara teman",
+            "Mengarahkan ujung gunting kepada orang lain",
+            "Memotong bahan yang dipegang sangat dekat jari teman",
+            "Memotong di tempat kerja dengan arah aman dan alat sesuai usia"
+          ],
+          "answer": "Memotong di tempat kerja dengan arah aman dan alat sesuai usia",
+          "discussion": "Kegiatan memotong memerlukan posisi stabil dan pengaturan jarak dari tubuh serta orang lain."
+        },
+        {
+          "id": "SBD-B03-M01-023",
+          "type": "PG",
+          "text": "Jika diperlukan pemotongan bahan tebal dengan alat tajam, siswa sebaiknya ...",
+          "options": [
+            "Mencoba alat tanpa penjelasan",
+            "Meminta teman menahan dekat mata alat",
+            "Meminta bantuan guru atau orang dewasa yang bertanggung jawab",
+            "Memaksa memotong sambil memegang bahan di udara"
+          ],
+          "answer": "Meminta bantuan guru atau orang dewasa yang bertanggung jawab",
+          "discussion": "Alat dan bahan yang lebih berisiko memerlukan bantuan serta pengawasan yang sesuai."
+        },
+        {
+          "id": "SBD-B03-M01-024",
+          "type": "PG",
+          "text": "Fungsi pembagian tugas dalam proyek diorama adalah ...",
+          "options": [
+            "Membiarkan anggota tidak tahu tanggung jawabnya",
+            "Membuat pekerjaan terkoordinasi dan semua anggota dapat berpartisipasi",
+            "Membebankan semua pekerjaan kepada satu orang",
+            "Menghilangkan kebutuhan berdiskusi"
+          ],
+          "answer": "Membuat pekerjaan terkoordinasi dan semua anggota dapat berpartisipasi",
+          "discussion": "Tugas dan koordinasi membantu bagian-bagian karya menyatu sesuai rencana."
+        },
+        {
+          "id": "SBD-B03-M01-025",
+          "type": "PG",
+          "text": "Saat ukuran miniatur buatan anggota berbeda jauh, kelompok sebaiknya ...",
+          "options": [
+            "Menyepakati ukuran acuan lalu menyesuaikan bagian yang perlu",
+            "Memasang semuanya tanpa melihat hubungan ukuran",
+            "Mengejek anggota yang memakai ukuran berbeda",
+            "Membuang seluruh rancangan tanpa berdiskusi"
+          ],
+          "answer": "Menyepakati ukuran acuan lalu menyesuaikan bagian yang perlu",
+          "discussion": "Ukuran acuan membantu konsistensi hubungan objek dalam satu adegan."
+        },
+        {
+          "id": "SBD-B03-M01-026",
+          "type": "PG",
+          "text": "Apa kegunaan jadwal kerja sederhana?",
+          "options": [
+            "Memastikan semua tahap harus selesai bersamaan",
+            "Menggantikan kebutuhan membuat karya",
+            "Menetapkan bahwa revisi dilarang",
+            "Mengatur tahapan dan waktu yang dibutuhkan termasuk pengeringan"
+          ],
+          "answer": "Mengatur tahapan dan waktu yang dibutuhkan termasuk pengeringan",
+          "discussion": "Jadwal membantu mengantisipasi ketergantungan antartahap dan waktu tunggu."
+        },
+        {
+          "id": "SBD-B03-M01-027",
+          "type": "PG",
+          "text": "Diorama terasa penuh sehingga jalur jalan tidak terlihat. Perbaikan yang tepat adalah ...",
+          "options": [
+            "Menutup semua celah dengan lem",
+            "Menyembunyikan karya dari penonton",
+            "Mengurangi atau menggeser objek untuk membuka jalur",
+            "Menambah objek di seluruh jalur"
+          ],
+          "answer": "Mengurangi atau menggeser objek untuk membuka jalur",
+          "discussion": "Ruang di antara objek juga penting untuk menjelaskan hubungan tempat dan kegiatan."
+        },
+        {
+          "id": "SBD-B03-M01-028",
+          "type": "PG",
+          "text": "Untuk membandingkan dua rancangan, kriteria yang relevan adalah ...",
+          "options": [
+            "Siapa yang paling dulu berbicara",
+            "Kesesuaian tema, keterbacaan adegan, bahan, dan kestabilan",
+            "Jumlah teman dekat perancang",
+            "Merek sepatu anggota kelompok"
+          ],
+          "answer": "Kesesuaian tema, keterbacaan adegan, bahan, dan kestabilan",
+          "discussion": "Kriteria perlu berhubungan dengan tujuan karya dan proses pembuatannya."
+        },
+        {
+          "id": "SBD-B03-M01-029",
+          "type": "PG",
+          "text": "Apa manfaat melihat rancangan dari beberapa arah?",
+          "options": [
+            "Menemukan bagian tertutup dan masalah keseimbangan benda",
+            "Menjamin semua sisi selalu harus identik",
+            "Mengubah kardus menjadi tahan air",
+            "Menghapus seluruh perbedaan ukuran"
+          ],
+          "answer": "Menemukan bagian tertutup dan masalah keseimbangan benda",
+          "discussion": "Pemeriksaan beberapa arah membantu menilai susunan ruang dan bagian yang rentan."
+        },
+        {
+          "id": "SBD-B03-M01-030",
+          "type": "PG",
+          "text": "Jika tujuan diorama adalah memperlihatkan kegiatan menanam, objek manusia sebaiknya ...",
+          "options": [
+            "Diletakkan di luar alas tanpa hubungan",
+            "Dibuat seluruhnya tertutup latar",
+            "Dihilangkan meski kegiatan manusia menjadi fokus",
+            "Ditata dengan pose dan posisi yang mendukung kegiatan menanam"
+          ],
+          "answer": "Ditata dengan pose dan posisi yang mendukung kegiatan menanam",
+          "discussion": "Pose dan posisi membantu adegan terbaca sesuai tema."
+        },
+        {
+          "id": "SBD-B03-M01-031",
+          "type": "PG",
+          "text": "Mengapa catatan ide boleh memuat beberapa kemungkinan?",
+          "options": [
+            "Karena tema akhir tidak perlu dijelaskan",
+            "Karena rancangan tidak pernah berhubungan dengan hasil",
+            "Agar pembuat dapat membandingkan dan memilih gagasan yang sesuai",
+            "Karena semua ide wajib dipakai sekaligus"
+          ],
+          "answer": "Agar pembuat dapat membandingkan dan memilih gagasan yang sesuai",
+          "discussion": "Beberapa alternatif memperluas pilihan sebelum menentukan arah karya."
+        },
+        {
+          "id": "SBD-B03-M01-032",
+          "type": "PG",
+          "text": "Perubahan bahan saat proses perlu dicatat agar ...",
+          "options": [
+            "Sumber bahan dapat disembunyikan",
+            "Alasan penyesuaian dan pengaruhnya dapat dijelaskan saat refleksi",
+            "Anggota lain tidak perlu tahu",
+            "Semua perubahan dianggap kegagalan"
+          ],
+          "answer": "Alasan penyesuaian dan pengaruhnya dapat dijelaskan saat refleksi",
+          "discussion": "Catatan perubahan menunjukkan bagaimana masalah diselesaikan selama berkarya."
+        },
+        {
+          "id": "SBD-B03-M01-033",
+          "type": "PG",
+          "text": "Apa yang menunjukkan pemanfaatan bentuk bahan bekas secara kreatif?",
+          "options": [
+            "Mengolah gulungan kertas menjadi batang pohon mini",
+            "Menyebut semua sampah aman tanpa diperiksa",
+            "Menumpuk bahan kotor tanpa tujuan",
+            "Mengambil barang yang masih digunakan pemiliknya"
+          ],
+          "answer": "Mengolah gulungan kertas menjadi batang pohon mini",
+          "discussion": "Bentuk awal bahan dapat diolah menjadi unsur baru yang mendukung adegan."
+        },
+        {
+          "id": "SBD-B03-M01-034",
+          "type": "PG",
+          "text": "Mengapa detail kecil sebaiknya ditambahkan setelah susunan utama cukup jelas?",
+          "options": [
+            "Karena detail tidak pernah berguna",
+            "Agar semua objek utama dihilangkan",
+            "Karena lem hanya dapat dipakai sekali",
+            "Agar detail mendukung adegan dan tidak menghambat perbaikan bagian besar"
+          ],
+          "answer": "Agar detail mendukung adegan dan tidak menghambat perbaikan bagian besar",
+          "discussion": "Bagian utama menentukan struktur adegan; detail melengkapinya setelah hubungan ruang terbaca."
+        },
+        {
+          "id": "SBD-B03-M01-035",
+          "type": "PG",
+          "text": "Saat membuat model bangunan, penyangga tersembunyi digunakan untuk ...",
+          "options": [
+            "Menentukan warna primer",
+            "Membuat semua bahan menjadi transparan",
+            "Membantu bentuk berdiri stabil",
+            "Menggantikan judul karya"
+          ],
+          "answer": "Membantu bentuk berdiri stabil",
+          "discussion": "Penyangga merupakan bantuan struktur agar objek tidak mudah roboh."
+        },
+        {
+          "id": "SBD-B03-M01-036",
+          "type": "PG",
+          "text": "Apa yang sebaiknya diuji sebelum memindahkan diorama?",
+          "options": [
+            "Warna pakaian pembawanya",
+            "Kekuatan alas dan sambungan serta cara mengangkatnya",
+            "Kemampuan menarik satu figur kecil sekuat mungkin",
+            "Jumlah tepuk tangan penonton"
+          ],
+          "answer": "Kekuatan alas dan sambungan serta cara mengangkatnya",
+          "discussion": "Pemindahan perlu bertumpu pada bagian penopang yang kuat agar objek tidak terlepas."
+        },
+        {
+          "id": "SBD-B03-M01-037",
+          "type": "PG",
+          "text": "Cara mengangkat diorama yang umumnya lebih aman adalah ...",
+          "options": [
+            "Menyangga alas dengan kedua tangan bila ukuran memungkinkan",
+            "Menarik satu pohon mini sebagai pegangan",
+            "Memegang ujung latar yang tipis",
+            "Mengayunkan karya dari satu figur"
+          ],
+          "answer": "Menyangga alas dengan kedua tangan bila ukuran memungkinkan",
+          "discussion": "Alas menopang keseluruhan karya, sedangkan objek hias belum tentu mampu menahan bebannya."
+        },
+        {
+          "id": "SBD-B03-M01-038",
+          "type": "PG",
+          "text": "Kelompok ingin membuat hutan fantasi. Penjelasan tema yang tepat adalah ...",
+          "options": [
+            "Bukti bahwa semua hewan khayalan benar-benar hidup di sekolah",
+            "Salinan peristiwa yang harus dianggap nyata",
+            "Larangan memakai unsur alam",
+            "Adegan imajinatif yang diolah dari gagasan kelompok"
+          ],
+          "answer": "Adegan imajinatif yang diolah dari gagasan kelompok",
+          "discussion": "Karya imajinatif dapat dijelaskan sebagai hasil olahan gagasan, bukan klaim tentang kenyataan."
+        },
+        {
+          "id": "SBD-B03-M01-039",
+          "type": "PG",
+          "text": "Apa fungsi warna latar yang lebih sederhana daripada objek utama?",
+          "options": [
+            "Menghilangkan kebutuhan komposisi",
+            "Menjadikan semua objek sama penting secara otomatis",
+            "Membantu objek utama tetap terbaca",
+            "Membuktikan latar tidak perlu direncanakan"
+          ],
+          "answer": "Membantu objek utama tetap terbaca",
+          "discussion": "Pilihan warna latar dapat mendukung penekanan pada objek yang menjadi fokus."
+        },
+        {
+          "id": "SBD-B03-M01-040",
+          "type": "PG",
+          "text": "Jika penonton tidak memahami adegan diorama, pembuat dapat ...",
+          "options": [
+            "Menghapus semua objek yang sudah dikenali",
+            "Memperjelas hubungan objek dan menambahkan judul yang sesuai",
+            "Menyalahkan semua penonton",
+            "Menambah hiasan acak sebanyak mungkin"
+          ],
+          "answer": "Memperjelas hubungan objek dan menambahkan judul yang sesuai",
+          "discussion": "Keterbacaan dapat ditingkatkan melalui susunan, petunjuk visual, dan penjelasan singkat."
+        },
+        {
+          "id": "SBD-B03-M01-041",
+          "type": "PG",
+          "text": "Apa yang termasuk evaluasi proses, bukan hanya hasil akhir?",
+          "options": [
+            "Mencatat bahwa uji alas membantu mencegah bangunan roboh",
+            "Hanya menyebut warna yang paling disukai",
+            "Hanya menuliskan nama kelas",
+            "Hanya menghitung jumlah pengunjung"
+          ],
+          "answer": "Mencatat bahwa uji alas membantu mencegah bangunan roboh",
+          "discussion": "Evaluasi proses meninjau keputusan serta langkah yang memengaruhi hasil karya."
+        },
+        {
+          "id": "SBD-B03-M01-042",
+          "type": "PG",
+          "text": "Ketika satu bahan sulit direkatkan, langkah pemecahan masalah adalah ...",
+          "options": [
+            "Menuangkan semua perekat sekaligus",
+            "Memegang sambungan di atas api",
+            "Menyembunyikan bagian yang lepas tanpa memperbaiki",
+            "Menguji cara sambungan lain yang aman pada contoh kecil"
+          ],
+          "answer": "Menguji cara sambungan lain yang aman pada contoh kecil",
+          "discussion": "Uji kecil membantu menemukan cara yang sesuai tanpa memperbesar kerusakan atau risiko."
+        },
+        {
+          "id": "SBD-B03-M01-043",
+          "type": "PG",
+          "text": "Apa yang dimaksud proporsi dalam diorama?",
+          "options": [
+            "Jumlah huruf pada judul",
+            "Lamanya penonton berdiri",
+            "Hubungan ukuran antarobjek dan bagian-bagiannya",
+            "Harga total seluruh bahan"
+          ],
+          "answer": "Hubungan ukuran antarobjek dan bagian-bagiannya",
+          "discussion": "Proporsi membuat hubungan ukuran dapat dipahami, meski karya boleh menyederhanakan bentuk sesuai gagasan."
+        },
+        {
+          "id": "SBD-B03-M01-044",
+          "type": "PG",
+          "text": "Mengapa bahan transparan mungkin dipilih untuk jendela model?",
+          "options": [
+            "Karena bahan transparan selalu tidak berbahaya",
+            "Karena sifat tembus pandangnya mendukung fungsi visual jendela",
+            "Karena semua bahan transparan pasti paling kuat",
+            "Karena jendela tidak membutuhkan bentuk"
+          ],
+          "answer": "Karena sifat tembus pandangnya mendukung fungsi visual jendela",
+          "discussion": "Sifat bahan dipilih sesuai kebutuhan representasi, sambil tetap memeriksa keamanan dan kekuatannya."
+        },
+        {
+          "id": "SBD-B03-M01-045",
+          "type": "PG",
+          "text": "Karya yang belum sesuai rancangan sebaiknya dinilai dengan ...",
+          "options": [
+            "Melihat tujuan, penyebab perbedaan, dan pilihan perbaikannya",
+            "Menganggap seluruh usaha tidak bernilai",
+            "Menetapkan bahwa pembuat tidak berbakat selamanya",
+            "Mengabaikan semua perubahan yang terjadi"
+          ],
+          "answer": "Melihat tujuan, penyebab perbedaan, dan pilihan perbaikannya",
+          "discussion": "Perbedaan dapat menjadi hasil penyesuaian yang beralasan atau petunjuk bagian yang perlu diperbaiki."
+        },
+        {
+          "id": "SBD-B03-M01-046",
+          "type": "PG",
+          "text": "Dalam presentasi diorama, hal yang perlu dijelaskan adalah ...",
+          "options": [
+            "Hanya nama pembuat lem",
+            "Hanya harga meja tempat bekerja",
+            "Dugaan tentang nilai teman",
+            "Tema, pilihan objek, bahan, dan langkah pemecahan masalah"
+          ],
+          "answer": "Tema, pilihan objek, bahan, dan langkah pemecahan masalah",
+          "discussion": "Penjelasan tersebut memperlihatkan hubungan gagasan dan keputusan selama pembuatan."
+        },
+        {
+          "id": "SBD-B03-M01-047",
+          "type": "PG",
+          "text": "Mengapa bahan tidak harus mahal untuk menghasilkan karya bermakna?",
+          "options": [
+            "Bahan mahal tidak pernah dapat dipakai",
+            "Harga bahan menentukan satu-satunya nilai karya",
+            "Makna juga dibangun melalui gagasan dan cara mengolah bahan",
+            "Semua bahan murah otomatis aman"
+          ],
+          "answer": "Makna juga dibangun melalui gagasan dan cara mengolah bahan",
+          "discussion": "Kreativitas dan tujuan karya tidak ditentukan hanya oleh harga bahan."
+        },
+        {
+          "id": "SBD-B03-M01-048",
+          "type": "PG",
+          "text": "Apa tujuan merapikan sisa bahan setelah berkarya?",
+          "options": [
+            "Menyembunyikan gunting di antara potongan",
+            "Menjaga ruang kerja aman dan memilah bahan yang dapat digunakan kembali",
+            "Mencampur semua sampah berbahaya dengan alat",
+            "Membiarkan lantai licin tertutup lem"
+          ],
+          "answer": "Menjaga ruang kerja aman dan memilah bahan yang dapat digunakan kembali",
+          "discussion": "Kerapian, pemilahan, dan penyimpanan alat merupakan bagian tanggung jawab dalam berkarya."
+        },
+        {
+          "id": "SBD-B03-M01-049",
+          "type": "PG",
+          "text": "Pertanyaan refleksi yang membantu proyek berikutnya adalah ...",
+          "options": [
+            "Bagian mana yang berhasil dan apa yang akan saya ubah beserta alasannya?",
+            "Siapa yang harus disalahkan tanpa melihat proses?",
+            "Mengapa semua orang wajib menyukai karya saya?",
+            "Bagaimana menghindari semua percobaan selamanya?"
+          ],
+          "answer": "Bagian mana yang berhasil dan apa yang akan saya ubah beserta alasannya?",
+          "discussion": "Refleksi menghubungkan pengalaman dengan rencana perbaikan yang dapat dilakukan."
+        },
+        {
+          "id": "SBD-B03-M01-050",
+          "type": "PG",
+          "text": "Hasil utama membuat diorama adalah ...",
+          "options": [
+            "Menyamakan seluruh karya dengan satu contoh",
+            "Menghafal harga setiap bahan",
+            "Membuktikan bahwa gambar datar tidak bernilai",
+            "Mengolah ide menjadi karya ruang melalui perencanaan, percobaan, dan refleksi"
+          ],
+          "answer": "Mengolah ide menjadi karya ruang melalui perencanaan, percobaan, dan refleksi",
+          "discussion": "Proses diorama menggabungkan gagasan, keterampilan bahan, susunan ruang, dan penilaian terhadap proses sendiri."
+        }
+      ]
+    }
+  ]
+}

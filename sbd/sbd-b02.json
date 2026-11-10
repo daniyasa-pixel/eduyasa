@@ -1,0 +1,664 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Budaya — Seni Rupa",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "SBD-B02",
+      "chapter_title": "Belajar dari Karya Orang Lain",
+      "questions": [
+        {
+          "id": "SBD-B02-M01-001",
+          "type": "PG",
+          "text": "Belajar dari karya orang lain terutama bertujuan untuk ...",
+          "options": [
+            "Memahami pilihan artistik lalu mengembangkan gagasan sendiri",
+            "Mengganti nama pembuat karya dengan nama kita",
+            "Menyalin semua bagian tanpa perubahan",
+            "Menentukan bahwa hanya satu gaya yang benar"
+          ],
+          "answer": "Memahami pilihan artistik lalu mengembangkan gagasan sendiri",
+          "discussion": "Pengamatan karya dapat menjadi sumber belajar tanpa menghapus kepemilikan atau gagasan pembuatnya."
+        },
+        {
+          "id": "SBD-B02-M01-002",
+          "type": "PG",
+          "text": "Langkah awal ketika mengamati karya teman adalah ...",
+          "options": [
+            "Langsung memutuskan karya itu buruk",
+            "Mengubah karya tanpa izin",
+            "Menutup karya agar tidak terlihat",
+            "Melihat unsur dan susunannya dengan teliti"
+          ],
+          "answer": "Melihat unsur dan susunannya dengan teliti",
+          "discussion": "Pengamatan perlu mendahului penilaian agar tanggapan memiliki dasar."
+        },
+        {
+          "id": "SBD-B02-M01-003",
+          "type": "PG",
+          "text": "Apa yang membedakan inspirasi dari penjiplakan?",
+          "options": [
+            "Penjiplakan selalu memakai bahan bekas",
+            "Inspirasi hanya boleh berasal dari foto berbayar",
+            "Inspirasi diolah menjadi gagasan baru dengan menghargai sumbernya",
+            "Inspirasi berarti menyalin seluruh karya lalu mengakuinya sendiri"
+          ],
+          "answer": "Inspirasi diolah menjadi gagasan baru dengan menghargai sumbernya",
+          "discussion": "Pengembangan gagasan dan penghargaan pada sumber membedakan belajar dari pengakuan palsu atas karya."
+        },
+        {
+          "id": "SBD-B02-M01-004",
+          "type": "PG",
+          "text": "Rani terinspirasi pola daun karya temannya. Tindakan yang tepat adalah ...",
+          "options": [
+            "Mengunggah salinan sebagai karya asli dirinya",
+            "Membuat susunan daun sendiri dan menyebut sumber inspirasinya",
+            "Menyalin lalu menutupi nama pembuatnya",
+            "Meminta teman berhenti berkarya"
+          ],
+          "answer": "Membuat susunan daun sendiri dan menyebut sumber inspirasinya",
+          "discussion": "Susunan baru dan penyebutan sumber menunjukkan pengolahan gagasan yang jujur."
+        },
+        {
+          "id": "SBD-B02-M01-005",
+          "type": "PG",
+          "text": "Saat melihat dua karya bertema taman, perbandingan yang bermanfaat adalah ...",
+          "options": [
+            "Cara masing-masing memakai warna dan mengatur objek",
+            "Sifat baik-buruk pribadi pembuatnya",
+            "Jumlah uang saku pembuatnya",
+            "Siapa yang lebih pantas menjadi teman"
+          ],
+          "answer": "Cara masing-masing memakai warna dan mengatur objek",
+          "discussion": "Perbandingan artistik berfokus pada pilihan visual dan tujuan karya."
+        },
+        {
+          "id": "SBD-B02-M01-006",
+          "type": "PG",
+          "text": "Komentar yang memisahkan pengamatan dan tafsiran adalah ...",
+          "options": [
+            "Garis miring membuktikan pembuatnya pemarah",
+            "Semua orang pasti merasa sedih",
+            "Karya ini tidak perlu diamati",
+            "Saya melihat garis miring; bagi saya susunannya terasa bergerak"
+          ],
+          "answer": "Saya melihat garis miring; bagi saya susunannya terasa bergerak",
+          "discussion": "Bagian pertama menyebut ciri yang terlihat, bagian kedua menyatakan pengalaman pribadi penonton."
+        },
+        {
+          "id": "SBD-B02-M01-007",
+          "type": "PG",
+          "text": "Apa kegunaan mencoba susunan unsur sebelum menempelkannya permanen?",
+          "options": [
+            "Membuat bahan pasti lebih mahal",
+            "Mencegah semua perubahan sejak awal",
+            "Membandingkan beberapa kemungkinan komposisi",
+            "Menghilangkan kebutuhan menentukan tujuan"
+          ],
+          "answer": "Membandingkan beberapa kemungkinan komposisi",
+          "discussion": "Uji susunan memungkinkan pilihan diperbaiki sebelum bahan terpasang tetap."
+        },
+        {
+          "id": "SBD-B02-M01-008",
+          "type": "PG",
+          "text": "Dua karya memakai warna sama tetapi terasa berbeda. Penyebab yang masuk akal adalah ...",
+          "options": [
+            "Warna sama harus menghasilkan karya identik",
+            "Ukuran, posisi, dan perbandingan luas warnanya berbeda",
+            "Nama warna otomatis menentukan semua kesan",
+            "Salah satu karya pasti tidak memiliki bentuk"
+          ],
+          "answer": "Ukuran, posisi, dan perbandingan luas warnanya berbeda",
+          "discussion": "Komposisi ditentukan oleh hubungan berbagai unsur, bukan nama warna saja."
+        },
+        {
+          "id": "SBD-B02-M01-009",
+          "type": "PG",
+          "text": "Dalam kolase, teknik utama yang digunakan adalah ...",
+          "options": [
+            "Menyusun dan menempelkan bahan pada bidang",
+            "Melelehkan logam untuk dicetak",
+            "Meniup tabung untuk menghasilkan nada",
+            "Mengukir batu dengan alat berat"
+          ],
+          "answer": "Menyusun dan menempelkan bahan pada bidang",
+          "discussion": "Kolase dibangun dari bahan yang disusun dan dilekatkan sehingga membentuk suatu karya."
+        },
+        {
+          "id": "SBD-B02-M01-010",
+          "type": "PG",
+          "text": "Bahan kolase yang sesuai untuk kegiatan kelas adalah ...",
+          "options": [
+            "Pecahan kaca tajam",
+            "Bahan berjamur yang belum dibersihkan",
+            "Kemasan bekas bahan kimia berbahaya",
+            "Potongan kertas dan kain bersih yang aman"
+          ],
+          "answer": "Potongan kertas dan kain bersih yang aman",
+          "discussion": "Pilihan bahan perlu memperhatikan tekstur, fungsi, kebersihan, dan keselamatan."
+        },
+        {
+          "id": "SBD-B02-M01-011",
+          "type": "PG",
+          "text": "Supaya pesan poster mudah dipahami, gambar sebaiknya ...",
+          "options": [
+            "Bertentangan dengan semua kata pada poster",
+            "Hanya menampilkan hiasan tanpa hubungan dengan pesan",
+            "Mendukung pesan utama dan tidak menutupi tulisan penting",
+            "Selalu memenuhi seluruh ruang tanpa sisa"
+          ],
+          "answer": "Mendukung pesan utama dan tidak menutupi tulisan penting",
+          "discussion": "Gambar dan tulisan pada poster perlu saling membantu menyampaikan pesan."
+        },
+        {
+          "id": "SBD-B02-M01-012",
+          "type": "PG",
+          "text": "Judul poster sulit dibaca karena terlalu banyak motif. Perbaikan yang tepat adalah ...",
+          "options": [
+            "Menyamakan warna judul dengan latar",
+            "Mengurangi motif di sekitar judul dan memperjelas kontras",
+            "Menambah motif di atas semua huruf",
+            "Memperkecil judul lagi"
+          ],
+          "answer": "Mengurangi motif di sekitar judul dan memperjelas kontras",
+          "discussion": "Jeda visual dan kontras membantu membedakan judul dari hiasan."
+        },
+        {
+          "id": "SBD-B02-M01-013",
+          "type": "PG",
+          "text": "Motif batik yang diamati dapat dipelajari melalui ...",
+          "options": [
+            "Bentuk, pengulangan, susunan, dan konteks budayanya",
+            "Anggapan bahwa semua motif berasal dari satu daerah",
+            "Tebakan makna tanpa sumber",
+            "Pernyataan bahwa semua motif bebas dipakai untuk semua keperluan"
+          ],
+          "answer": "Bentuk, pengulangan, susunan, dan konteks budayanya",
+          "discussion": "Motif dapat memiliki konteks budaya tertentu sehingga bentuk dan maknanya perlu dipelajari dengan sumber yang sesuai."
+        },
+        {
+          "id": "SBD-B02-M01-014",
+          "type": "PG",
+          "text": "Jika tidak mengetahui asal motif, siswa sebaiknya ...",
+          "options": [
+            "Memilih nama daerah secara acak",
+            "Mengaku sebagai pencipta motif itu",
+            "Menghapus semua pertanyaan tentang asalnya",
+            "Mencari sumber tepercaya dan tidak menebak sebagai fakta"
+          ],
+          "answer": "Mencari sumber tepercaya dan tidak menebak sebagai fakta",
+          "discussion": "Ketidakpastian perlu diakui agar informasi budaya tidak disampaikan secara keliru."
+        },
+        {
+          "id": "SBD-B02-M01-015",
+          "type": "PG",
+          "text": "Apa manfaat membuat contoh kecil sebelum karya akhir?",
+          "options": [
+            "Menggantikan seluruh proses berkarya",
+            "Membuat ukuran karya akhir selalu sama dengan contoh",
+            "Menguji bahan dan teknik dengan pemakaian bahan lebih sedikit",
+            "Menjamin tidak akan ada masalah sama sekali"
+          ],
+          "answer": "Menguji bahan dan teknik dengan pemakaian bahan lebih sedikit",
+          "discussion": "Percobaan kecil membantu memperkirakan hasil dan menemukan kesulitan lebih awal."
+        },
+        {
+          "id": "SBD-B02-M01-016",
+          "type": "PG",
+          "text": "Cat pada kertas uji membuat garis luntur. Apa langkah berikutnya?",
+          "options": [
+            "Menyalahkan pembuat karya acuan",
+            "Mencoba mengurangi air atau memakai kertas yang lebih sesuai",
+            "Langsung membasahi karya akhir sebanyak mungkin",
+            "Menganggap semua cat tidak dapat digunakan"
+          ],
+          "answer": "Mencoba mengurangi air atau memakai kertas yang lebih sesuai",
+          "discussion": "Hasil uji memberi informasi tentang hubungan jumlah air dan sifat kertas."
+        },
+        {
+          "id": "SBD-B02-M01-017",
+          "type": "PG",
+          "text": "Saat memberi masukan, kalimat yang paling terarah adalah ...",
+          "options": [
+            "Bagian pohonnya tertutup judul; coba geser judul agar keduanya terbaca",
+            "Karyamu tidak menarik pokoknya",
+            "Aku pasti selalu benar",
+            "Ganti semuanya tanpa alasan"
+          ],
+          "answer": "Bagian pohonnya tertutup judul; coba geser judul agar keduanya terbaca",
+          "discussion": "Masukan yang menunjuk bagian dan tujuan perbaikan dapat dicoba serta dievaluasi."
+        },
+        {
+          "id": "SBD-B02-M01-018",
+          "type": "PG",
+          "text": "Bagaimana menerima saran yang berbeda dari gagasan kita?",
+          "options": [
+            "Wajib menerima semua saran tanpa berpikir",
+            "Menolak semua saran sebelum mendengar",
+            "Menganggap pemberi saran selalu memusuhi",
+            "Memahami alasannya lalu memilih yang sesuai tujuan karya"
+          ],
+          "answer": "Memahami alasannya lalu memilih yang sesuai tujuan karya",
+          "discussion": "Pembuat tetap memiliki keputusan artistik sambil mempertimbangkan informasi dari orang lain."
+        },
+        {
+          "id": "SBD-B02-M01-019",
+          "type": "PG",
+          "text": "Apa yang dimaksud revisi karya?",
+          "options": [
+            "Menyembunyikan nama pembuat",
+            "Membuang alat sebelum mencoba",
+            "Perbaikan terencana berdasarkan tujuan dan hasil evaluasi",
+            "Mengganti karya karena semua selera wajib sama"
+          ],
+          "answer": "Perbaikan terencana berdasarkan tujuan dan hasil evaluasi",
+          "discussion": "Revisi merupakan bagian proses belajar untuk memperjelas gagasan atau memperbaiki teknik."
+        },
+        {
+          "id": "SBD-B02-M01-020",
+          "type": "PG",
+          "text": "Mengapa rancangan pertama boleh berubah?",
+          "options": [
+            "Semua karya harus mengikuti rancangan teman",
+            "Percobaan dan masukan dapat menunjukkan pilihan yang lebih sesuai",
+            "Rancangan pertama selalu salah seluruhnya",
+            "Perubahan tidak pernah membutuhkan alasan"
+          ],
+          "answer": "Percobaan dan masukan dapat menunjukkan pilihan yang lebih sesuai",
+          "discussion": "Rancangan merupakan alat bantu yang dapat dikembangkan seiring proses berkarya."
+        },
+        {
+          "id": "SBD-B02-M01-021",
+          "type": "PG",
+          "text": "Dina ingin belajar teknik kolase dari contoh bunga. Pilihan yang menunjukkan pengembangan adalah ...",
+          "options": [
+            "Menerapkan teknik tempel untuk membuat suasana kebun versinya sendiri",
+            "Menyalin semua sobekan sampai sama persis dan mengaku asli",
+            "Menghapus nama seniman pada foto",
+            "Menyimpan contoh tanpa pernah mencoba teknik"
+          ],
+          "answer": "Menerapkan teknik tempel untuk membuat suasana kebun versinya sendiri",
+          "discussion": "Teknik dapat dipelajari lalu dipakai untuk gagasan dan susunan yang berbeda."
+        },
+        {
+          "id": "SBD-B02-M01-022",
+          "type": "PG",
+          "text": "Dalam kerja kelompok membuat poster, pembagian tugas sebaiknya ...",
+          "options": [
+            "Hanya diberikan kepada satu anak yang dianggap paling pandai",
+            "Dibuat tanpa memberi tahu anggota",
+            "Selalu mengabaikan teman yang baru belajar",
+            "Disepakati sesuai kebutuhan dan kemampuan anggota"
+          ],
+          "answer": "Disepakati sesuai kebutuhan dan kemampuan anggota",
+          "discussion": "Pembagian yang jelas membantu semua anggota berpartisipasi dan bertanggung jawab."
+        },
+        {
+          "id": "SBD-B02-M01-023",
+          "type": "PG",
+          "text": "Dua teman berbeda pendapat tentang warna poster. Langkah penyelesaian yang sesuai adalah ...",
+          "options": [
+            "Menghapus pekerjaan teman diam-diam",
+            "Mengakhiri diskusi dengan ejekan",
+            "Membandingkan pilihan dengan tujuan pesan dan menguji contoh kecil",
+            "Memilih yang berteriak paling keras"
+          ],
+          "answer": "Membandingkan pilihan dengan tujuan pesan dan menguji contoh kecil",
+          "discussion": "Tujuan karya dan percobaan memberi dasar yang lebih jelas untuk mengambil keputusan bersama."
+        },
+        {
+          "id": "SBD-B02-M01-024",
+          "type": "PG",
+          "text": "Mengapa judul, nama pembuat, dan sumber inspirasi perlu dicatat?",
+          "options": [
+            "Untuk melarang orang lain mengamati",
+            "Untuk menjelaskan identitas karya dan menghargai sumber belajar",
+            "Untuk menentukan bahwa karya pasti lebih mahal",
+            "Untuk menggantikan seluruh gambar"
+          ],
+          "answer": "Untuk menjelaskan identitas karya dan menghargai sumber belajar",
+          "discussion": "Catatan identitas membantu penonton memahami karya dan mengetahui sumber gagasannya."
+        },
+        {
+          "id": "SBD-B02-M01-025",
+          "type": "PG",
+          "text": "Saat memotret karya teman untuk laporan, tindakan yang tepat adalah ...",
+          "options": [
+            "Meminta izin dan mencantumkan nama pembuat sesuai kesepakatan",
+            "Langsung mengunggah tanpa izin",
+            "Mengganti nama pembuat dengan nama sendiri",
+            "Menyembunyikan tujuan pemotretan"
+          ],
+          "answer": "Meminta izin dan mencantumkan nama pembuat sesuai kesepakatan",
+          "discussion": "Izin dan atribusi menghormati pembuat serta penggunaan dokumentasi karyanya."
+        },
+        {
+          "id": "SBD-B02-M01-026",
+          "type": "PG",
+          "text": "Ciri tanggapan yang didukung bukti visual adalah ...",
+          "options": [
+            "Hanya menyebut siapa teman dekat pembuatnya",
+            "Menilai tanpa melihat karya",
+            "Memakai kata paling hebat tanpa alasan",
+            "Menunjukkan bagian karya yang menjadi dasar komentar"
+          ],
+          "answer": "Menunjukkan bagian karya yang menjadi dasar komentar",
+          "discussion": "Bukti visual membuat alasan dapat diperiksa melalui karya yang sedang dibahas."
+        },
+        {
+          "id": "SBD-B02-M01-027",
+          "type": "PG",
+          "text": "Bagaimana membandingkan dua karya tanpa menentukan salah satunya pasti buruk?",
+          "options": [
+            "Mengejek bahan yang lebih murah",
+            "Menganggap semua perbedaan sebagai kesalahan",
+            "Menjelaskan perbedaan pilihan unsur dan efeknya sesuai tujuan",
+            "Mengurutkan sifat pribadi pembuatnya"
+          ],
+          "answer": "Menjelaskan perbedaan pilihan unsur dan efeknya sesuai tujuan",
+          "discussion": "Pilihan berbeda dapat menghasilkan karya yang sama-sama bermakna untuk tujuan berbeda."
+        },
+        {
+          "id": "SBD-B02-M01-028",
+          "type": "PG",
+          "text": "Apa hubungan tema dan pilihan bahan?",
+          "options": [
+            "Bahan tidak pernah memengaruhi tampilan",
+            "Bahan dapat dipilih untuk membantu menyampaikan tema",
+            "Tema selalu menentukan merek lem tertentu",
+            "Semua tema wajib memakai bahan mahal"
+          ],
+          "answer": "Bahan dapat dipilih untuk membantu menyampaikan tema",
+          "discussion": "Warna, tekstur, bentuk, dan fungsi bahan dapat mendukung gagasan yang ingin ditampilkan."
+        },
+        {
+          "id": "SBD-B02-M01-029",
+          "type": "PG",
+          "text": "Untuk kolase bertema pantai, pilihan yang aman sekaligus relevan adalah ...",
+          "options": [
+            "Kertas biru untuk laut dan kertas bertekstur untuk pasir",
+            "Pecahan kaca untuk disentuh penonton",
+            "Sampah basah berbau sebagai hiasan",
+            "Seluruh bidang ditutup bahan tanpa hubungan tema"
+          ],
+          "answer": "Kertas biru untuk laut dan kertas bertekstur untuk pasir",
+          "discussion": "Bahan yang aman dapat mewakili ciri visual pantai tanpa membawa benda berbahaya."
+        },
+        {
+          "id": "SBD-B02-M01-030",
+          "type": "PG",
+          "text": "Mengapa lem perlu disesuaikan dengan bahan?",
+          "options": [
+            "Semua lem selalu cocok untuk semua bahan",
+            "Semakin banyak lem selalu semakin baik",
+            "Lem hanya dipilih berdasarkan warna kemasan",
+            "Bahan berbeda dapat memerlukan daya rekat dan cara pemakaian berbeda"
+          ],
+          "answer": "Bahan berbeda dapat memerlukan daya rekat dan cara pemakaian berbeda",
+          "discussion": "Kesesuaian lem membantu sambungan bekerja; penggunaannya tetap mengikuti petunjuk dan pengawasan yang diperlukan."
+        },
+        {
+          "id": "SBD-B02-M01-031",
+          "type": "PG",
+          "text": "Apa akibat menempel potongan kertas sebelum memeriksa susunannya?",
+          "options": [
+            "Tidak ada bagian yang mungkin salah posisi",
+            "Karya otomatis memiliki volume tiga dimensi",
+            "Komposisi lebih sulit diubah setelah lem mengering",
+            "Semua warna otomatis menjadi serasi"
+          ],
+          "answer": "Komposisi lebih sulit diubah setelah lem mengering",
+          "discussion": "Pemasangan permanen membatasi perubahan, sehingga susunan sebaiknya diuji lebih dahulu."
+        },
+        {
+          "id": "SBD-B02-M01-032",
+          "type": "PG",
+          "text": "Saat mencoba pengulangan motif, hal yang perlu ditentukan adalah ...",
+          "options": [
+            "Jumlah penonton yang akan bertepuk tangan",
+            "Bentuk yang diulang dan aturan susunannya",
+            "Harga seluruh karya di museum",
+            "Nama toko alat tulis"
+          ],
+          "answer": "Bentuk yang diulang dan aturan susunannya",
+          "discussion": "Motif dan aturan pengulangan membangun pola yang dapat dikenali."
+        },
+        {
+          "id": "SBD-B02-M01-033",
+          "type": "PG",
+          "text": "Apa manfaat mencatat bahan dan hasil percobaan?",
+          "options": [
+            "Membantu mengulang hasil yang sesuai dan memahami perubahan",
+            "Menjamin semua percobaan akan sama tanpa melihat cara",
+            "Menggantikan kebutuhan membersihkan alat",
+            "Membuat cat tidak pernah habis"
+          ],
+          "answer": "Membantu mengulang hasil yang sesuai dan memahami perubahan",
+          "discussion": "Catatan menghubungkan pilihan bahan dan langkah dengan hasil yang terlihat."
+        },
+        {
+          "id": "SBD-B02-M01-034",
+          "type": "PG",
+          "text": "Jika karya acuan memakai bahan yang tidak tersedia, siswa dapat ...",
+          "options": [
+            "Membatalkan semua kegiatan tanpa mencari pilihan",
+            "Memakai bahan berbahaya karena bentuknya mirip",
+            "Mengambil barang orang lain tanpa izin",
+            "Mencari bahan aman lain dengan sifat yang mendukung gagasan"
+          ],
+          "answer": "Mencari bahan aman lain dengan sifat yang mendukung gagasan",
+          "discussion": "Keterbatasan bahan dapat diatasi melalui penyesuaian kreatif yang tetap aman dan sesuai tujuan."
+        },
+        {
+          "id": "SBD-B02-M01-035",
+          "type": "PG",
+          "text": "Mengapa salinan foto bukan bukti bahwa seseorang membuat karya aslinya?",
+          "options": [
+            "Semua foto bebas diakui sebagai lukisan sendiri",
+            "Nama pembuat tidak pernah diperlukan",
+            "Dokumentasi dan penciptaan karya adalah kegiatan yang berbeda",
+            "Setiap pemilik foto otomatis menjadi pencipta karya"
+          ],
+          "answer": "Dokumentasi dan penciptaan karya adalah kegiatan yang berbeda",
+          "discussion": "Memiliki atau mengambil foto tidak memindahkan kepemilikan gagasan dan karya yang dipotret."
+        },
+        {
+          "id": "SBD-B02-M01-036",
+          "type": "PG",
+          "text": "Saat membuat poster hemat air, gambar keran yang dimatikan mendukung ...",
+          "options": [
+            "Penyembunyian tindakan yang dianjurkan",
+            "Kesesuaian ilustrasi dengan pesan hemat air",
+            "Penghilangan tema poster",
+            "Perubahan poster menjadi alat musik"
+          ],
+          "answer": "Kesesuaian ilustrasi dengan pesan hemat air",
+          "discussion": "Ilustrasi dapat memperjelas tindakan yang dimaksud dalam pesan poster."
+        },
+        {
+          "id": "SBD-B02-M01-037",
+          "type": "PG",
+          "text": "Apa yang sebaiknya dilakukan sebelum menilai hasil uji bahan?",
+          "options": [
+            "Mengingat tujuan percobaan dan melihat perbedaannya",
+            "Menentukan pemenang berdasarkan nama siswa",
+            "Membuang semua catatan",
+            "Menilai hanya dari ukuran meja"
+          ],
+          "answer": "Mengingat tujuan percobaan dan melihat perbedaannya",
+          "discussion": "Tujuan percobaan menjadi kriteria untuk membandingkan hasil dengan adil."
+        },
+        {
+          "id": "SBD-B02-M01-038",
+          "type": "PG",
+          "text": "Kertas tipis mudah robek saat ditarik setelah direkatkan. Solusi yang masuk akal adalah ...",
+          "options": [
+            "Menarik lebih keras setiap kali salah",
+            "Membasahi seluruh bidang terus-menerus",
+            "Menganggap semua kertas tidak berguna",
+            "Menguji posisi tanpa lem sebelum memasangnya tetap"
+          ],
+          "answer": "Menguji posisi tanpa lem sebelum memasangnya tetap",
+          "discussion": "Perencanaan posisi mengurangi kebutuhan melepas kertas yang sudah menempel."
+        },
+        {
+          "id": "SBD-B02-M01-039",
+          "type": "PG",
+          "text": "Seorang teman memberi saran memperbesar objek utama. Pertimbangan yang perlu dipakai adalah ...",
+          "options": [
+            "Apakah semua objek harus lebih besar",
+            "Apakah warna latar harus dihapus seluruhnya",
+            "Apakah perubahan membantu pesan dan keseimbangan karya",
+            "Apakah teman tersebut selalu menang lomba"
+          ],
+          "answer": "Apakah perubahan membantu pesan dan keseimbangan karya",
+          "discussion": "Saran dinilai berdasarkan kebutuhan karya, bukan kedudukan pemberi saran."
+        },
+        {
+          "id": "SBD-B02-M01-040",
+          "type": "PG",
+          "text": "Apa manfaat melihat contoh dari beberapa pembuat?",
+          "options": [
+            "Membuktikan bahan murah pasti buruk",
+            "Memahami beragam cara menyampaikan tema yang serupa",
+            "Menentukan satu gaya yang wajib ditiru semua siswa",
+            "Menghapus kebutuhan memilih ide sendiri"
+          ],
+          "answer": "Memahami beragam cara menyampaikan tema yang serupa",
+          "discussion": "Beragam contoh memperluas pilihan tanpa mewajibkan hasil yang sama."
+        },
+        {
+          "id": "SBD-B02-M01-041",
+          "type": "PG",
+          "text": "Saat menggunakan karya daerah sebagai inspirasi, hal yang perlu dijaga adalah ...",
+          "options": [
+            "Penghargaan terhadap asal, makna, dan aturan penggunaannya",
+            "Anggapan bahwa semua simbol boleh diubah tanpa konteks",
+            "Penghapusan nama daerah asal",
+            "Pernyataan bahwa motif sendiri pasti lebih tinggi nilainya"
+          ],
+          "answer": "Penghargaan terhadap asal, makna, dan aturan penggunaannya",
+          "discussion": "Menghargai konteks budaya membantu proses belajar berlangsung dengan bertanggung jawab."
+        },
+        {
+          "id": "SBD-B02-M01-042",
+          "type": "PG",
+          "text": "Apa yang dimaksud eksperimen dalam berkarya?",
+          "options": [
+            "Menggunakan alat berbahaya tanpa petunjuk",
+            "Mengubah karya teman diam-diam",
+            "Mengulang tindakan tanpa memperhatikan hasil",
+            "Mencoba pilihan bahan atau teknik untuk melihat hasilnya"
+          ],
+          "answer": "Mencoba pilihan bahan atau teknik untuk melihat hasilnya",
+          "discussion": "Eksperimen artistik dilakukan dengan tujuan pengamatan dan prosedur yang aman."
+        },
+        {
+          "id": "SBD-B02-M01-043",
+          "type": "PG",
+          "text": "Saat hasil percobaan tidak sesuai rencana, sikap belajar yang tepat adalah ...",
+          "options": [
+            "Menyembunyikan semua alat teman",
+            "Menolak melihat hasil sama sekali",
+            "Mencatat penyebab yang mungkin lalu mencoba penyesuaian",
+            "Menyatakan diri tidak mungkin mampu selamanya"
+          ],
+          "answer": "Mencatat penyebab yang mungkin lalu mencoba penyesuaian",
+          "discussion": "Hasil yang belum sesuai tetap memberi informasi untuk keputusan berikutnya."
+        },
+        {
+          "id": "SBD-B02-M01-044",
+          "type": "PG",
+          "text": "Gambar acuan mempunyai bunga besar di tengah. Agar komposisi baru berbeda, siswa dapat ...",
+          "options": [
+            "Mengklaim karya acuan sebagai karyanya",
+            "Mengatur beberapa bunga kecil pada sisi bidang sesuai gagasannya",
+            "Menyalin posisi dan semua detail lalu mengganti nama pembuat",
+            "Menghapus sumber acuan dari catatan"
+          ],
+          "answer": "Mengatur beberapa bunga kecil pada sisi bidang sesuai gagasannya",
+          "discussion": "Perubahan susunan dapat menjadi bagian pengembangan gagasan baru, dengan tetap menghargai sumber."
+        },
+        {
+          "id": "SBD-B02-M01-045",
+          "type": "PG",
+          "text": "Apa yang perlu dilakukan sesudah menerima beberapa masukan?",
+          "options": [
+            "Memilih perbaikan yang relevan dan menjelaskan alasannya",
+            "Mengikuti seluruh masukan meski saling bertentangan",
+            "Mengubah semuanya secara acak",
+            "Melarang pemberian masukan berikutnya"
+          ],
+          "answer": "Memilih perbaikan yang relevan dan menjelaskan alasannya",
+          "discussion": "Pemilihan terarah membantu revisi tetap sesuai tujuan dan identitas karya."
+        },
+        {
+          "id": "SBD-B02-M01-046",
+          "type": "PG",
+          "text": "Dalam presentasi karya, penjelasan proses mencakup ...",
+          "options": [
+            "Hanya nama teman yang duduk dekat pembuat",
+            "Hanya harga tas yang dibawa",
+            "Dugaan sifat penonton",
+            "Ide, pilihan bahan, langkah, dan perubahan yang dilakukan"
+          ],
+          "answer": "Ide, pilihan bahan, langkah, dan perubahan yang dilakukan",
+          "discussion": "Penjelasan proses menunjukkan hubungan gagasan, tindakan, dan hasil belajar."
+        },
+        {
+          "id": "SBD-B02-M01-047",
+          "type": "PG",
+          "text": "Mengapa hasil karya siswa tidak harus seragam?",
+          "options": [
+            "Karena semua prosedur keselamatan boleh diabaikan",
+            "Karena sumber inspirasi tidak perlu dihargai",
+            "Setiap siswa dapat mengembangkan pengalaman dan keputusan artistik sendiri",
+            "Karena tujuan belajar tidak pernah diperlukan"
+          ],
+          "answer": "Setiap siswa dapat mengembangkan pengalaman dan keputusan artistik sendiri",
+          "discussion": "Keragaman hasil sejalan dengan kreativitas selama tujuan belajar dan tanggung jawab tetap diperhatikan."
+        },
+        {
+          "id": "SBD-B02-M01-048",
+          "type": "PG",
+          "text": "Lem berlebih membuat kertas kolase bergelombang. Perbaikan untuk percobaan berikutnya adalah ...",
+          "options": [
+            "Menghapus semua perencanaan",
+            "Menggunakan lem secukupnya sesuai bahan dan petunjuk",
+            "Menambah lem lebih banyak di seluruh bidang",
+            "Menarik kertas basah sekeras mungkin"
+          ],
+          "answer": "Menggunakan lem secukupnya sesuai bahan dan petunjuk",
+          "discussion": "Penggunaan lem secukupnya dapat mengurangi kelembapan berlebih pada kertas."
+        },
+        {
+          "id": "SBD-B02-M01-049",
+          "type": "PG",
+          "text": "Masukan mana yang paling mudah diuji melalui percobaan?",
+          "options": [
+            "Coba tulisan lebih besar lalu lihat keterbacaannya dari jarak yang sama",
+            "Karyamu harus bagus tanpa penjelasan",
+            "Semua orang pasti berpikir sama denganku",
+            "Tidak ada yang boleh berubah"
+          ],
+          "answer": "Coba tulisan lebih besar lalu lihat keterbacaannya dari jarak yang sama",
+          "discussion": "Saran dengan tindakan dan cara membandingkan hasil dapat diuji secara nyata."
+        },
+        {
+          "id": "SBD-B02-M01-050",
+          "type": "PG",
+          "text": "Hasil belajar dari mengamati, mencoba, menerima masukan, dan merevisi adalah ...",
+          "options": [
+            "Kemampuan mengaku sebagai pembuat semua contoh",
+            "Kewajiban menyamakan selera seluruh kelas",
+            "Larangan menggunakan bahan di sekitar",
+            "Kemampuan mengembangkan karya sendiri dengan keputusan yang beralasan"
+          ],
+          "answer": "Kemampuan mengembangkan karya sendiri dengan keputusan yang beralasan",
+          "discussion": "Rangkaian proses tersebut membangun keterampilan artistik, refleksi, dan penghargaan terhadap karya."
+        }
+      ]
+    }
+  ]
+}

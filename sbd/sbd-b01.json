@@ -1,0 +1,664 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Budaya — Seni Rupa",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "SBD-B01",
+      "chapter_title": "Menemukan Keindahan di Sekitar Kita",
+      "questions": [
+        {
+          "id": "SBD-B01-M01-001",
+          "type": "PG",
+          "text": "Ketika mengamati daun, kegiatan mana yang termasuk pengamatan unsur rupa?",
+          "options": [
+            "Memperhatikan bentuk tepi dan warna daun",
+            "Menebak harga pohonnya",
+            "Menghitung jumlah orang di taman",
+            "Menentukan nama pemilik kebun"
+          ],
+          "answer": "Memperhatikan bentuk tepi dan warna daun",
+          "discussion": "Bentuk dan warna dapat dilihat langsung pada daun dan merupakan unsur rupa."
+        },
+        {
+          "id": "SBD-B01-M01-002",
+          "type": "PG",
+          "text": "Garis yang paling sesuai untuk menunjukkan batang pohon tegak adalah ...",
+          "options": [
+            "Garis horizontal",
+            "Garis spiral",
+            "Garis zigzag mendatar",
+            "Garis vertikal"
+          ],
+          "answer": "Garis vertikal",
+          "discussion": "Garis vertikal mengarah ke atas dan bawah sehingga membantu menunjukkan kesan tegak."
+        },
+        {
+          "id": "SBD-B01-M01-003",
+          "type": "PG",
+          "text": "Apa perbedaan utama bidang dan bentuk tiga dimensi?",
+          "options": [
+            "Bentuk tiga dimensi tidak dapat disentuh",
+            "Bidang selalu lebih berat",
+            "Bidang memiliki panjang dan lebar, bentuk tiga dimensi juga memiliki kedalaman",
+            "Bidang selalu berwarna merah"
+          ],
+          "answer": "Bidang memiliki panjang dan lebar, bentuk tiga dimensi juga memiliki kedalaman",
+          "discussion": "Kedalaman atau volume membedakan benda tiga dimensi dari bidang datar."
+        },
+        {
+          "id": "SBD-B01-M01-004",
+          "type": "PG",
+          "text": "Dalam model pencampuran cat merah-kuning-biru, pasangan yang dapat menghasilkan hijau adalah ...",
+          "options": [
+            "Biru dan hitam",
+            "Kuning dan biru",
+            "Merah dan kuning",
+            "Merah dan putih"
+          ],
+          "answer": "Kuning dan biru",
+          "discussion": "Pada latihan pencampuran pigmen sederhana, kuning dan biru menghasilkan hijau."
+        },
+        {
+          "id": "SBD-B01-M01-005",
+          "type": "PG",
+          "text": "Alya menggambar kulit pohon pada kertas licin. Gambar terlihat kasar tetapi kertas tetap licin. Ini contoh ...",
+          "options": [
+            "Tekstur semu",
+            "Tekstur nyata",
+            "Volume nyata",
+            "Bahan anyaman"
+          ],
+          "answer": "Tekstur semu",
+          "discussion": "Tekstur semu memberi kesan permukaan melalui penglihatan, tanpa mengubah sifat rabaan kertas."
+        },
+        {
+          "id": "SBD-B01-M01-006",
+          "type": "PG",
+          "text": "Contoh tekstur nyata pada karya kolase adalah ...",
+          "options": [
+            "Gambar pasir pada kertas licin",
+            "Foto batu yang dicetak halus",
+            "Lukisan kayu pada layar",
+            "Permukaan kain goni yang dapat diraba kasar"
+          ],
+          "answer": "Permukaan kain goni yang dapat diraba kasar",
+          "discussion": "Tekstur nyata dapat dirasakan pada bahan, sedangkan gambar permukaan hanya memberi kesan visual."
+        },
+        {
+          "id": "SBD-B01-M01-007",
+          "type": "PG",
+          "text": "Bagian bola yang menghadap sumber cahaya biasanya digambar ...",
+          "options": [
+            "Tanpa warna sama sekali",
+            "Lebih gelap daripada semua bayangannya",
+            "Lebih terang daripada sisi yang membelakangi cahaya",
+            "Selalu sama gelap dengan seluruh bola"
+          ],
+          "answer": "Lebih terang daripada sisi yang membelakangi cahaya",
+          "discussion": "Perbedaan nilai terang dan gelap dapat membantu memperlihatkan arah cahaya dan volume bola."
+        },
+        {
+          "id": "SBD-B01-M01-008",
+          "type": "PG",
+          "text": "Mengapa tulisan putih pada latar biru tua lebih mudah dibaca daripada biru tua pada biru tua?",
+          "options": [
+            "Semua tulisan putih selalu bergerak",
+            "Nilai terang-gelap tulisan berbeda jelas dari latar",
+            "Tulisan putih pasti berukuran lebih besar",
+            "Biru tua tidak termasuk warna"
+          ],
+          "answer": "Nilai terang-gelap tulisan berbeda jelas dari latar",
+          "discussion": "Kontras nilai membantu memisahkan tulisan dari latarnya, dengan ukuran huruf yang memadai."
+        },
+        {
+          "id": "SBD-B01-M01-009",
+          "type": "PG",
+          "text": "Susunan sayap kupu-kupu yang tampak saling mencerminkan kiri dan kanan menunjukkan ...",
+          "options": [
+            "Keseimbangan simetris",
+            "Pola acak tanpa sumbu",
+            "Campuran cat primer",
+            "Bentuk kubus"
+          ],
+          "answer": "Keseimbangan simetris",
+          "discussion": "Simetri dapat diamati ketika dua bagian seolah saling bercermin terhadap suatu sumbu."
+        },
+        {
+          "id": "SBD-B01-M01-010",
+          "type": "PG",
+          "text": "Apakah gambar harus memiliki dua sisi yang sama persis agar tampak seimbang?",
+          "options": [
+            "Ya, semua gambar wajib seperti cermin",
+            "Ya, warna di kedua sisi wajib sama",
+            "Tidak, semua unsur harus dihilangkan",
+            "Tidak, keseimbangan juga dapat dicapai dengan susunan asimetris"
+          ],
+          "answer": "Tidak, keseimbangan juga dapat dicapai dengan susunan asimetris",
+          "discussion": "Keseimbangan berkaitan dengan bobot visual; susunan yang tidak identik juga dapat terasa seimbang."
+        },
+        {
+          "id": "SBD-B01-M01-011",
+          "type": "PG",
+          "text": "Ragam susunan yang menyebar dari titik pusat menyerupai jari-jari roda disebut ...",
+          "options": [
+            "Tekstur kasar",
+            "Bidang terbuka",
+            "Susunan radial",
+            "Susunan horizontal tunggal"
+          ],
+          "answer": "Susunan radial",
+          "discussion": "Susunan radial mengatur unsur di sekitar satu pusat."
+        },
+        {
+          "id": "SBD-B01-M01-012",
+          "type": "PG",
+          "text": "Di antara banyak lingkaran kecil abu-abu, satu lingkaran besar merah menarik perhatian. Prinsip yang tampak adalah ...",
+          "options": [
+            "Penyamaan seluruh ukuran",
+            "Penekanan",
+            "Penghilangan bentuk",
+            "Transparansi bahan"
+          ],
+          "answer": "Penekanan",
+          "discussion": "Perbedaan ukuran dan warna dapat menonjolkan satu unsur sebagai pusat perhatian."
+        },
+        {
+          "id": "SBD-B01-M01-013",
+          "type": "PG",
+          "text": "Pola daun kecil-besar-kecil-besar yang diulang menunjukkan ...",
+          "options": [
+            "Irama visual",
+            "Suara bernada tinggi",
+            "Volume benda",
+            "Sifat bahan lengket"
+          ],
+          "answer": "Irama visual",
+          "discussion": "Irama visual muncul melalui pengulangan atau pergantian unsur yang dapat diikuti mata."
+        },
+        {
+          "id": "SBD-B01-M01-014",
+          "type": "PG",
+          "text": "Lukisan pada selembar kertas termasuk karya ...",
+          "options": [
+            "Tiga dimensi bervolume nyata",
+            "Empat dimensi ruang",
+            "Tanpa dimensi",
+            "Dua dimensi"
+          ],
+          "answer": "Dua dimensi",
+          "discussion": "Gambar pada bidang datar dinikmati melalui panjang dan lebarnya; kesan ruang di gambar tidak menjadi volume nyata."
+        },
+        {
+          "id": "SBD-B01-M01-015",
+          "type": "PG",
+          "text": "Patung kecil dari tanah liat termasuk karya ...",
+          "options": [
+            "Garis satu dimensi",
+            "Warna sekunder",
+            "Tiga dimensi",
+            "Dua dimensi saja"
+          ],
+          "answer": "Tiga dimensi",
+          "discussion": "Patung memiliki ukuran panjang, lebar, dan tinggi sehingga menempati ruang nyata."
+        },
+        {
+          "id": "SBD-B01-M01-016",
+          "type": "PG",
+          "text": "Mana pernyataan yang berupa deskripsi pengamatan karya?",
+          "options": [
+            "Semua orang pasti menyukai gambar ini",
+            "Ada tiga pohon hijau di bagian kiri gambar",
+            "Gambar ini pasti paling mahal",
+            "Pembuatnya pasti sedang sedih"
+          ],
+          "answer": "Ada tiga pohon hijau di bagian kiri gambar",
+          "discussion": "Deskripsi menyampaikan hal yang dapat diamati, bukan dugaan tentang harga atau perasaan pembuat."
+        },
+        {
+          "id": "SBD-B01-M01-017",
+          "type": "PG",
+          "text": "Pernyataan yang menunjukkan pendapat pribadi secara tepat adalah ...",
+          "options": [
+            "Saya menyukai perpaduan warnanya karena terasa tenang bagi saya",
+            "Semua orang wajib menyukai warna ini",
+            "Pembuat gambar ini pasti pemalas",
+            "Warna hijau selalu berarti marah"
+          ],
+          "answer": "Saya menyukai perpaduan warnanya karena terasa tenang bagi saya",
+          "discussion": "Pendapat disampaikan sebagai sudut pandang pribadi dan disertai alasan, tanpa menghakimi pembuatnya."
+        },
+        {
+          "id": "SBD-B01-M01-018",
+          "type": "PG",
+          "text": "Dua siswa memaknai warna biru secara berbeda. Sikap yang tepat adalah ...",
+          "options": [
+            "Menganggap satu siswa pasti berbohong",
+            "Melarang pembuat memakai biru",
+            "Menghapus warna biru dari semua karya",
+            "Mendengarkan alasan keduanya dan melihat konteks karya"
+          ],
+          "answer": "Mendengarkan alasan keduanya dan melihat konteks karya",
+          "discussion": "Makna warna dapat dipengaruhi pengalaman dan konteks sehingga perlu dibicarakan dengan terbuka."
+        },
+        {
+          "id": "SBD-B01-M01-019",
+          "type": "PG",
+          "text": "Untuk memperoleh informasi bentuk cangkir sebelum menggambar, langkah pertama yang tepat adalah ...",
+          "options": [
+            "Menyalin tanda tangan seniman",
+            "Memilih harga pigura",
+            "Mengamati cangkir dari arah yang akan digambar",
+            "Langsung menebalkan semua garis"
+          ],
+          "answer": "Mengamati cangkir dari arah yang akan digambar",
+          "discussion": "Pengamatan memberi informasi tentang bagian, ukuran relatif, dan arah objek sebelum membuat gambar."
+        },
+        {
+          "id": "SBD-B01-M01-020",
+          "type": "PG",
+          "text": "Sketsa awal sebaiknya dibuat dengan garis ringan agar ...",
+          "options": [
+            "Kertas berubah menjadi lebih tebal",
+            "Mudah disesuaikan saat susunan diperbaiki",
+            "Tidak mungkin dilihat kembali",
+            "Seluruh gambar harus pucat selamanya"
+          ],
+          "answer": "Mudah disesuaikan saat susunan diperbaiki",
+          "discussion": "Sketsa merupakan rancangan yang dapat berubah; garis ringan lebih mudah diperbaiki."
+        },
+        {
+          "id": "SBD-B01-M01-021",
+          "type": "PG",
+          "text": "Saat mencampur cat untuk percobaan warna, cara yang membantu membandingkan hasil adalah ...",
+          "options": [
+            "Mencampur sedikit demi sedikit dan mencatat pasangan warnanya",
+            "Mencampur semua cat tanpa mencatat",
+            "Menggunakan kuas kotor untuk semua campuran",
+            "Langsung membuang hasil pertama"
+          ],
+          "answer": "Mencampur sedikit demi sedikit dan mencatat pasangan warnanya",
+          "discussion": "Pencampuran bertahap dan catatan membuat proses serta perbedaan hasil dapat dipahami."
+        },
+        {
+          "id": "SBD-B01-M01-022",
+          "type": "PG",
+          "text": "Bima ingin membuat warna merah tampak lebih muda dengan cat poster. Ia dapat mencoba menambahkan ...",
+          "options": [
+            "Sedikit cat hitam",
+            "Lebih banyak cat merah yang sama saja",
+            "Pasir kasar sebagai pengganti warna",
+            "Sedikit cat putih"
+          ],
+          "answer": "Sedikit cat putih",
+          "discussion": "Dalam latihan cat poster, penambahan putih dapat menaikkan nilai terang warna merah."
+        },
+        {
+          "id": "SBD-B01-M01-023",
+          "type": "PG",
+          "text": "Warna yang lazim dikelompokkan sebagai warna hangat dalam latihan dasar adalah ...",
+          "options": [
+            "Putih, abu-abu, dan hitam saja",
+            "Hanya warna yang ada pada benda panas",
+            "Merah, oranye, dan kuning",
+            "Biru, hijau kebiruan, dan ungu kebiruan"
+          ],
+          "answer": "Merah, oranye, dan kuning",
+          "discussion": "Pengelompokan hangat berkaitan dengan kesan visual; bukan berarti cat itu bersuhu panas."
+        },
+        {
+          "id": "SBD-B01-M01-024",
+          "type": "PG",
+          "text": "Ruang kosong di sekitar objek gambar berguna untuk ...",
+          "options": [
+            "Menggantikan seluruh warna pada objek",
+            "Membantu objek terbaca dan susunan tidak sesak",
+            "Menunjukkan bahwa gambar pasti belum selesai",
+            "Membuat semua objek menghilang"
+          ],
+          "answer": "Membantu objek terbaca dan susunan tidak sesak",
+          "discussion": "Ruang kosong merupakan bagian komposisi yang dapat memberi jeda dan memperjelas objek."
+        },
+        {
+          "id": "SBD-B01-M01-025",
+          "type": "PG",
+          "text": "Mengapa proporsi perlu diperhatikan saat menggambar benda hasil pengamatan?",
+          "options": [
+            "Agar hubungan ukuran bagian-bagian benda sesuai tujuan gambar",
+            "Agar semua benda menjadi sama besar",
+            "Agar gambar tidak memiliki warna",
+            "Agar setiap orang memakai alat yang sama"
+          ],
+          "answer": "Agar hubungan ukuran bagian-bagian benda sesuai tujuan gambar",
+          "discussion": "Proporsi adalah hubungan ukuran antarbagiannya, misalnya ukuran gagang terhadap badan cangkir."
+        },
+        {
+          "id": "SBD-B01-M01-026",
+          "type": "PG",
+          "text": "Ketika menggambar taman, pohon yang dekat biasanya dapat dibuat lebih besar daripada pohon jauh untuk ...",
+          "options": [
+            "Membuktikan pohon jauh tidak pernah tumbuh",
+            "Mengubah gambar menjadi patung nyata",
+            "Menghilangkan garis horizon secara otomatis",
+            "Memberi kesan kedalaman pada gambar"
+          ],
+          "answer": "Memberi kesan kedalaman pada gambar",
+          "discussion": "Perbedaan ukuran relatif dapat menjadi petunjuk kedalaman pada bidang datar."
+        },
+        {
+          "id": "SBD-B01-M01-027",
+          "type": "PG",
+          "text": "Alat yang sesuai untuk latihan arsir pada kertas adalah ...",
+          "options": [
+            "Pisau yang diarahkan ke tubuh",
+            "Batu yang dilempar ke kertas",
+            "Pensil dengan tekanan yang dapat diatur",
+            "Paku untuk menggores meja"
+          ],
+          "answer": "Pensil dengan tekanan yang dapat diatur",
+          "discussion": "Tekanan pensil dapat diubah untuk menghasilkan perbedaan nilai pada arsiran."
+        },
+        {
+          "id": "SBD-B01-M01-028",
+          "type": "PG",
+          "text": "Untuk membandingkan tekstur bahan dengan aman, siswa sebaiknya ...",
+          "options": [
+            "Mencicipi semua bahan kolase",
+            "Memilih bahan bersih dan menyentuhnya perlahan bila aman",
+            "Meraba pecahan kaca tajam",
+            "Menggosok kulit kuat-kuat pada amplas"
+          ],
+          "answer": "Memilih bahan bersih dan menyentuhnya perlahan bila aman",
+          "discussion": "Pengamatan tekstur tetap memperhatikan kebersihan dan keamanan bahan."
+        },
+        {
+          "id": "SBD-B01-M01-029",
+          "type": "PG",
+          "text": "Karya berupa poster ajakan menjaga taman memiliki fungsi utama ...",
+          "options": [
+            "Menyampaikan pesan melalui unsur visual dan tulisan",
+            "Menyimpan air seperti botol",
+            "Menghasilkan nada seperti suling",
+            "Mengikat dua batang kayu"
+          ],
+          "answer": "Menyampaikan pesan melalui unsur visual dan tulisan",
+          "discussion": "Poster menggunakan gambar dan tulisan untuk mengomunikasikan suatu pesan."
+        },
+        {
+          "id": "SBD-B01-M01-030",
+          "type": "PG",
+          "text": "Saat mengamati keranjang anyaman, hal yang termasuk prinsip susunan adalah ...",
+          "options": [
+            "Nama pemilik toko",
+            "Harga bahan bakar kendaraan",
+            "Jam tidur pembuatnya",
+            "Pengulangan pola silang pada bilah"
+          ],
+          "answer": "Pengulangan pola silang pada bilah",
+          "discussion": "Pengulangan pada anyaman merupakan pola visual yang dapat diamati pada benda sehari-hari."
+        },
+        {
+          "id": "SBD-B01-M01-031",
+          "type": "PG",
+          "text": "Citra menggambar garis mendatar untuk permukaan danau. Garis itu disebut ...",
+          "options": [
+            "Garis spiral",
+            "Garis putus tanpa arah",
+            "Garis horizontal",
+            "Garis vertikal"
+          ],
+          "answer": "Garis horizontal",
+          "discussion": "Garis horizontal mengarah mendatar dan dapat digunakan untuk menunjukkan permukaan yang tenang."
+        },
+        {
+          "id": "SBD-B01-M01-032",
+          "type": "PG",
+          "text": "Apa yang dimaksud bentuk organis dalam pengamatan rupa?",
+          "options": [
+            "Bentuk yang hanya dapat dibuat dengan mesin",
+            "Bentuk bebas yang menyerupai bentuk alam",
+            "Bentuk yang selalu memiliki empat sudut siku-siku",
+            "Bentuk yang wajib terbuat dari makanan"
+          ],
+          "answer": "Bentuk bebas yang menyerupai bentuk alam",
+          "discussion": "Bentuk organis umumnya tidak terikat ukuran geometris yang teratur, misalnya bentuk awan atau daun."
+        },
+        {
+          "id": "SBD-B01-M01-033",
+          "type": "PG",
+          "text": "Contoh bidang geometris adalah ...",
+          "options": [
+            "Segitiga",
+            "Bayangan awan yang bebas",
+            "Gumpalan tanah liat tak beraturan",
+            "Sobekan kertas acak"
+          ],
+          "answer": "Segitiga",
+          "discussion": "Segitiga memiliki ciri geometris berupa tiga sisi dan tiga sudut."
+        },
+        {
+          "id": "SBD-B01-M01-034",
+          "type": "PG",
+          "text": "Mengapa dua objek berukuran sama dapat tampak berbeda menonjol di gambar?",
+          "options": [
+            "Ukuran selalu menjadi satu-satunya penentu",
+            "Objek kecil tidak dapat menarik perhatian",
+            "Latar tidak pernah memengaruhi objek",
+            "Warna, nilai, dan lingkungan visualnya berbeda"
+          ],
+          "answer": "Warna, nilai, dan lingkungan visualnya berbeda",
+          "discussion": "Penekanan dapat dipengaruhi kontras dan unsur sekitarnya, selain ukuran."
+        },
+        {
+          "id": "SBD-B01-M01-035",
+          "type": "PG",
+          "text": "Ketika mengulas karya teman, kalimat yang paling membantu adalah ...",
+          "options": [
+            "Aku tidak melihatnya, tetapi pasti salah",
+            "Kamu tidak boleh menggambar lagi",
+            "Judulnya belum terbaca dari jauh; bagaimana jika ukurannya diperbesar?",
+            "Karyamu jelek dan tidak perlu diperbaiki"
+          ],
+          "answer": "Judulnya belum terbaca dari jauh; bagaimana jika ukurannya diperbesar?",
+          "discussion": "Masukan yang menyebut masalah teramati dan saran terarah lebih berguna daripada ejekan."
+        },
+        {
+          "id": "SBD-B01-M01-036",
+          "type": "PG",
+          "text": "Mengapa kita perlu melihat karya dari jarak dekat dan agak jauh?",
+          "options": [
+            "Untuk memastikan semua karya selalu sama",
+            "Untuk mengamati detail sekaligus susunan keseluruhannya",
+            "Untuk menentukan sifat pribadi pembuatnya",
+            "Untuk mengubah bahan karya secara langsung"
+          ],
+          "answer": "Untuk mengamati detail sekaligus susunan keseluruhannya",
+          "discussion": "Jarak berbeda memberi kesempatan memeriksa detail dan hubungan antarbagian."
+        },
+        {
+          "id": "SBD-B01-M01-037",
+          "type": "PG",
+          "text": "Unsur rupa yang ditunjukkan oleh merah, kuning, dan biru adalah ...",
+          "options": [
+            "Warna",
+            "Tekstur",
+            "Volume",
+            "Arah gerak"
+          ],
+          "answer": "Warna",
+          "discussion": "Nama-nama tersebut menunjukkan warna; tekstur berkaitan dengan sifat atau kesan permukaan."
+        },
+        {
+          "id": "SBD-B01-M01-038",
+          "type": "PG",
+          "text": "Nilai gelap-terang berbeda dari nama warna karena ...",
+          "options": [
+            "Gelap-terang hanya ada pada karya tanpa warna",
+            "Setiap warna hanya mempunyai satu nilai",
+            "Nama warna menentukan berat benda",
+            "Satu warna dapat memiliki bagian lebih terang dan lebih gelap"
+          ],
+          "answer": "Satu warna dapat memiliki bagian lebih terang dan lebih gelap",
+          "discussion": "Misalnya biru dapat dibuat lebih terang atau gelap, sehingga nama warna dan nilainya tidak sama."
+        },
+        {
+          "id": "SBD-B01-M01-039",
+          "type": "PG",
+          "text": "Sebuah kartu memiliki motif kecil yang terlalu rapat. Cara memberi jeda visual adalah ...",
+          "options": [
+            "Menghapus seluruh pesan kartu",
+            "Memperkecil semua celah",
+            "Menambah ruang antar kelompok motif",
+            "Menumpuk semua motif menjadi satu"
+          ],
+          "answer": "Menambah ruang antar kelompok motif",
+          "discussion": "Pengaturan ruang dapat membantu mata membedakan kelompok motif."
+        },
+        {
+          "id": "SBD-B01-M01-040",
+          "type": "PG",
+          "text": "Saat menulis laporan pengamatan, informasi yang perlu dipisahkan adalah ...",
+          "options": [
+            "Kertas baru dan kertas bekas saja",
+            "Hal yang terlihat dan tafsiran pribadi",
+            "Warna merah dan alat tulis saja",
+            "Nama kelas dan angka halaman saja"
+          ],
+          "answer": "Hal yang terlihat dan tafsiran pribadi",
+          "discussion": "Pemisahan pengamatan dari tafsiran membuat alasan ulasan lebih jelas dan adil."
+        },
+        {
+          "id": "SBD-B01-M01-041",
+          "type": "PG",
+          "text": "Mengapa mengamati benda asli dapat membantu menggambar?",
+          "options": [
+            "Kita dapat memeriksa bentuk, cahaya, dan ukuran relatifnya",
+            "Semua benda asli memiliki bentuk yang sama",
+            "Mengamati otomatis menghasilkan gambar sempurna",
+            "Benda asli tidak mempunyai tekstur"
+          ],
+          "answer": "Kita dapat memeriksa bentuk, cahaya, dan ukuran relatifnya",
+          "discussion": "Pengamatan menyediakan informasi visual, sedangkan hasil gambar tetap memerlukan latihan dan pilihan artistik."
+        },
+        {
+          "id": "SBD-B01-M01-042",
+          "type": "PG",
+          "text": "Garis lengkung paling sesuai untuk menggambarkan ...",
+          "options": [
+            "Sisi tegak tiang yang lurus",
+            "Tepi penggaris lurus",
+            "Sudut siku-siku persegi saja",
+            "Lengkungan tepi kelopak bunga"
+          ],
+          "answer": "Lengkungan tepi kelopak bunga",
+          "discussion": "Garis lengkung dapat mengikuti kontur kelopak yang melengkung."
+        },
+        {
+          "id": "SBD-B01-M01-043",
+          "type": "PG",
+          "text": "Saat ingin memberi pusat perhatian pada poster, siswa sebaiknya ...",
+          "options": [
+            "Menutupi pesan utama dengan motif rapat",
+            "Menggunakan latar dan tulisan yang sulit dibedakan",
+            "Menonjolkan pesan utama dan mengurangi hiasan yang mengganggu",
+            "Membuat semua tulisan sekecil mungkin"
+          ],
+          "answer": "Menonjolkan pesan utama dan mengurangi hiasan yang mengganggu",
+          "discussion": "Penekanan membantu penonton menemukan informasi yang menjadi tujuan poster."
+        },
+        {
+          "id": "SBD-B01-M01-044",
+          "type": "PG",
+          "text": "Keseimbangan visual berbeda dari penimbangan benda karena ...",
+          "options": [
+            "Lukisan tidak boleh memiliki sisi kiri",
+            "Yang diperhatikan adalah kesan bobot unsur dalam susunan",
+            "Gambar harus diletakkan di timbangan",
+            "Semua warna harus memiliki massa sama"
+          ],
+          "answer": "Yang diperhatikan adalah kesan bobot unsur dalam susunan",
+          "discussion": "Bobot visual berkaitan dengan kesan ukuran, warna, dan posisi, bukan massa fisik cat."
+        },
+        {
+          "id": "SBD-B01-M01-045",
+          "type": "PG",
+          "text": "Jika hasil gambar berbeda dari benda asli, langkah belajar yang baik adalah ...",
+          "options": [
+            "Membandingkan bagian tertentu lalu memilih perbaikan yang dibutuhkan",
+            "Menganggap diri tidak dapat belajar seni",
+            "Membuang semua alat tanpa melihat hasil",
+            "Menyalahkan benda yang diamati"
+          ],
+          "answer": "Membandingkan bagian tertentu lalu memilih perbaikan yang dibutuhkan",
+          "discussion": "Perbandingan terarah membantu memahami bagian yang perlu dilatih tanpa menghakimi diri."
+        },
+        {
+          "id": "SBD-B01-M01-046",
+          "type": "PG",
+          "text": "Bentuk pada karya dekoratif boleh disederhanakan apabila ...",
+          "options": [
+            "Semua bentuk harus selalu sama persis dengan foto",
+            "Tujuannya menghilangkan seluruh ciri objek",
+            "Setiap gambar harus memakai satu warna saja",
+            "Penyederhanaan dilakukan sesuai tujuan dan ciri yang ingin dipertahankan"
+          ],
+          "answer": "Penyederhanaan dilakukan sesuai tujuan dan ciri yang ingin dipertahankan",
+          "discussion": "Seniman dapat menyederhanakan bentuk sambil mempertahankan ciri penting sesuai gagasannya."
+        },
+        {
+          "id": "SBD-B01-M01-047",
+          "type": "PG",
+          "text": "Mengapa contoh karya di sekitar sekolah layak diamati?",
+          "options": [
+            "Karya sehari-hari tidak memiliki susunan",
+            "Hanya benda mahal yang memiliki warna",
+            "Unsur rupa dan prinsip desain juga hadir pada benda sehari-hari",
+            "Seni hanya boleh dipelajari di museum"
+          ],
+          "answer": "Unsur rupa dan prinsip desain juga hadir pada benda sehari-hari",
+          "discussion": "Seni rupa dapat dipelajari melalui papan informasi, taman, kemasan, kerajinan, dan benda sekitar."
+        },
+        {
+          "id": "SBD-B01-M01-048",
+          "type": "PG",
+          "text": "Ketika memilih objek untuk latihan pengamatan pertama, pilihan yang praktis adalah ...",
+          "options": [
+            "Barang milik orang lain tanpa izin",
+            "Benda aman yang bentuk dan pencahayaannya dapat diamati",
+            "Benda tajam yang harus dipegang sambil berlari",
+            "Objek yang tidak dapat dilihat sama sekali"
+          ],
+          "answer": "Benda aman yang bentuk dan pencahayaannya dapat diamati",
+          "discussion": "Objek yang aman dan dapat diamati membantu fokus pada tujuan belajar."
+        },
+        {
+          "id": "SBD-B01-M01-049",
+          "type": "PG",
+          "text": "Apa manfaat menyebut istilah seperti garis, tekstur, dan kontras saat mengulas karya?",
+          "options": [
+            "Membuat tanggapan lebih spesifik terhadap unsur yang diamati",
+            "Membuktikan selera setiap orang harus sama",
+            "Menggantikan kebutuhan melihat karya",
+            "Menentukan harga karya secara pasti"
+          ],
+          "answer": "Membuat tanggapan lebih spesifik terhadap unsur yang diamati",
+          "discussion": "Kosakata rupa membantu menjelaskan alasan pengamatan dengan lebih tepat."
+        },
+        {
+          "id": "SBD-B01-M01-050",
+          "type": "PG",
+          "text": "Hasil belajar utama dari mengamati keindahan sekitar adalah ...",
+          "options": [
+            "Menghafal bahwa hanya satu jenis karya yang indah",
+            "Meniru semua benda tanpa berpikir",
+            "Menilai teman dari kemampuan menggambarnya",
+            "Mengenali unsur dan prinsip rupa lalu mengungkapkannya dengan alasan"
+          ],
+          "answer": "Mengenali unsur dan prinsip rupa lalu mengungkapkannya dengan alasan",
+          "discussion": "Pengamatan, penggunaan kosakata, dan penjelasan alasan membangun pemahaman rupa serta apresiasi."
+        }
+      ]
+    }
+  ]
+}
