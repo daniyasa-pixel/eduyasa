@@ -1,0 +1,664 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "PJOK",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PJK-B04",
+      "chapter_title": "Makanan Sehat Bahan Bakar untuk Bergerak",
+      "questions": [
+        {
+          "id": "PJK-B04-M01-001",
+          "type": "PG",
+          "text": "Istilah untuk pemenuhan zat gizi melalui makanan beragam sesuai kebutuhan adalah ...",
+          "options": [
+            "Sayur dan buah",
+            "Gizi seimbang",
+            "Protein",
+            "Karbohidrat"
+          ],
+          "answer": "Gizi seimbang",
+          "discussion": "Porsi disesuaikan dengan kondisi serta kebutuhan, bukan dipaksakan sama."
+        },
+        {
+          "id": "PJK-B04-M01-002",
+          "type": "PG",
+          "text": "Alya memilih bekal untuk kegiatan sekolah. Tindakan yang tepat adalah ...",
+          "options": [
+            "Memilih satu makanan saja untuk semua kebutuhan",
+            "Mengandalkan suplemen tanpa arahan",
+            "Melewatkan makan sebagai hukuman",
+            "Memilih makanan pokok lauk sayur buah dan air sesuai kebutuhan"
+          ],
+          "answer": "Memilih makanan pokok lauk sayur buah dan air sesuai kebutuhan",
+          "discussion": "Keragaman membantu memenuhi kebutuhan zat gizi yang berbeda. Porsi disesuaikan dengan kondisi serta kebutuhan, bukan dipaksakan sama."
+        },
+        {
+          "id": "PJK-B04-M01-003",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Alya memilih bekal untuk kegiatan sekolah. Mengapa pilihan \"Memilih makanan pokok lauk sayur buah dan air sesuai kebutuhan\" membantu?",
+          "options": [
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Keragaman membantu memenuhi kebutuhan zat gizi yang berbeda",
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi"
+          ],
+          "answer": "Keragaman membantu memenuhi kebutuhan zat gizi yang berbeda",
+          "discussion": "Keragaman membantu memenuhi kebutuhan zat gizi yang berbeda. Porsi disesuaikan dengan kondisi serta kebutuhan, bukan dipaksakan sama."
+        },
+        {
+          "id": "PJK-B04-M01-004",
+          "type": "PG",
+          "text": "Alya memilih bekal untuk kegiatan sekolah. Jika justru memilih \"Memilih satu makanan saja untuk semua kebutuhan\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Kebutuhan zat gizi dapat tidak terpenuhi bila pilihan selalu sangat terbatas",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+          ],
+          "answer": "Kebutuhan zat gizi dapat tidak terpenuhi bila pilihan selalu sangat terbatas",
+          "discussion": "Kebutuhan zat gizi dapat tidak terpenuhi bila pilihan selalu sangat terbatas. Pilihan yang dianjurkan: Memilih makanan pokok lauk sayur buah dan air sesuai kebutuhan."
+        },
+        {
+          "id": "PJK-B04-M01-005",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Mengandalkan suplemen tanpa arahan\" pada situasi: Alya memilih bekal untuk kegiatan sekolah. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Memilih makanan pokok lauk sayur buah dan air sesuai kebutuhan",
+            "Memilih satu makanan saja untuk semua kebutuhan",
+            "Melewatkan makan sebagai hukuman",
+            "Mengandalkan suplemen tanpa arahan"
+          ],
+          "answer": "Memilih makanan pokok lauk sayur buah dan air sesuai kebutuhan",
+          "discussion": "Keragaman membantu memenuhi kebutuhan zat gizi yang berbeda. Porsi disesuaikan dengan kondisi serta kebutuhan, bukan dipaksakan sama."
+        },
+        {
+          "id": "PJK-B04-M01-006",
+          "type": "PG",
+          "text": "Istilah untuk zat gizi yang menjadi salah satu sumber energi utama tubuh adalah ...",
+          "options": [
+            "Sayur dan buah",
+            "Protein",
+            "Gizi seimbang",
+            "Karbohidrat"
+          ],
+          "answer": "Karbohidrat",
+          "discussion": "Sumber pangan pokok dapat berbeda antarwilayah."
+        },
+        {
+          "id": "PJK-B04-M01-007",
+          "type": "PG",
+          "text": "Bima mencari sumber tenaga pada bekalnya. Tindakan yang tepat adalah ...",
+          "options": [
+            "Mengganti seluruh makanan dengan permen",
+            "Menganggap air putih mengandung energi yang sama dengan nasi",
+            "Memilih makanan pokok seperti nasi jagung atau kentang",
+            "Menolak semua makanan pokok tanpa alasan kesehatan"
+          ],
+          "answer": "Memilih makanan pokok seperti nasi jagung atau kentang",
+          "discussion": "Makanan pokok menyediakan karbohidrat untuk kebutuhan energi. Sumber pangan pokok dapat berbeda antarwilayah."
+        },
+        {
+          "id": "PJK-B04-M01-008",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Bima mencari sumber tenaga pada bekalnya. Mengapa pilihan \"Memilih makanan pokok seperti nasi jagung atau kentang\" membantu?",
+          "options": [
+            "Makanan pokok menyediakan karbohidrat untuk kebutuhan energi",
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi"
+          ],
+          "answer": "Makanan pokok menyediakan karbohidrat untuk kebutuhan energi",
+          "discussion": "Makanan pokok menyediakan karbohidrat untuk kebutuhan energi. Sumber pangan pokok dapat berbeda antarwilayah."
+        },
+        {
+          "id": "PJK-B04-M01-009",
+          "type": "PG",
+          "text": "Bima mencari sumber tenaga pada bekalnya. Jika justru memilih \"Menganggap air putih mengandung energi yang sama dengan nasi\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Bekal kurang beragam jika seluruhnya diganti permen",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+          ],
+          "answer": "Bekal kurang beragam jika seluruhnya diganti permen",
+          "discussion": "Bekal kurang beragam jika seluruhnya diganti permen. Pilihan yang dianjurkan: Memilih makanan pokok seperti nasi jagung atau kentang."
+        },
+        {
+          "id": "PJK-B04-M01-010",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Menolak semua makanan pokok tanpa alasan kesehatan\" pada situasi: Bima mencari sumber tenaga pada bekalnya. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Mengganti seluruh makanan dengan permen",
+            "Menolak semua makanan pokok tanpa alasan kesehatan",
+            "Menganggap air putih mengandung energi yang sama dengan nasi",
+            "Memilih makanan pokok seperti nasi jagung atau kentang"
+          ],
+          "answer": "Memilih makanan pokok seperti nasi jagung atau kentang",
+          "discussion": "Makanan pokok menyediakan karbohidrat untuk kebutuhan energi. Sumber pangan pokok dapat berbeda antarwilayah."
+        },
+        {
+          "id": "PJK-B04-M01-011",
+          "type": "PG",
+          "text": "Istilah untuk zat gizi yang membantu pertumbuhan dan perbaikan jaringan adalah ...",
+          "options": [
+            "Protein",
+            "Gizi seimbang",
+            "Karbohidrat",
+            "Sayur dan buah"
+          ],
+          "answer": "Protein",
+          "discussion": "Pilihan lauk mempertimbangkan kesehatan, ketersediaan, serta kebiasaan keluarga."
+        },
+        {
+          "id": "PJK-B04-M01-012",
+          "type": "PG",
+          "text": "Citra melengkapi nasi dengan lauk. Tindakan yang tepat adalah ...",
+          "options": [
+            "Memilih lauk seperti tempe telur ikan atau kacang sesuai kebutuhan dan alergi",
+            "Memaksa makan bahan yang diketahui memicu alergi",
+            "Menganggap lauk tidak perlu sama sekali",
+            "Mengandalkan minuman manis sebagai satu-satunya lauk"
+          ],
+          "answer": "Memilih lauk seperti tempe telur ikan atau kacang sesuai kebutuhan dan alergi",
+          "discussion": "Beragam lauk dapat menjadi sumber protein. Pilihan lauk mempertimbangkan kesehatan, ketersediaan, serta kebiasaan keluarga."
+        },
+        {
+          "id": "PJK-B04-M01-013",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Citra melengkapi nasi dengan lauk. Mengapa pilihan \"Memilih lauk seperti tempe telur ikan atau kacang sesuai kebutuhan dan alergi\" membantu?",
+          "options": [
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Beragam lauk dapat menjadi sumber protein",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Informasi per sajian selalu sama dengan seluruh kemasan"
+          ],
+          "answer": "Beragam lauk dapat menjadi sumber protein",
+          "discussion": "Beragam lauk dapat menjadi sumber protein. Pilihan lauk mempertimbangkan kesehatan, ketersediaan, serta kebiasaan keluarga."
+        },
+        {
+          "id": "PJK-B04-M01-014",
+          "type": "PG",
+          "text": "Citra melengkapi nasi dengan lauk. Jika justru memilih \"Menganggap lauk tidak perlu sama sekali\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Reaksi alergi berisiko jika makanan pemicunya sengaja dipaksakan"
+          ],
+          "answer": "Reaksi alergi berisiko jika makanan pemicunya sengaja dipaksakan",
+          "discussion": "Reaksi alergi berisiko jika makanan pemicunya sengaja dipaksakan. Pilihan yang dianjurkan: Memilih lauk seperti tempe telur ikan atau kacang sesuai kebutuhan dan alergi."
+        },
+        {
+          "id": "PJK-B04-M01-015",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Memaksa makan bahan yang diketahui memicu alergi\" pada situasi: Citra melengkapi nasi dengan lauk. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Mengandalkan minuman manis sebagai satu-satunya lauk",
+            "Memaksa makan bahan yang diketahui memicu alergi",
+            "Memilih lauk seperti tempe telur ikan atau kacang sesuai kebutuhan dan alergi",
+            "Menganggap lauk tidak perlu sama sekali"
+          ],
+          "answer": "Memilih lauk seperti tempe telur ikan atau kacang sesuai kebutuhan dan alergi",
+          "discussion": "Beragam lauk dapat menjadi sumber protein. Pilihan lauk mempertimbangkan kesehatan, ketersediaan, serta kebiasaan keluarga."
+        },
+        {
+          "id": "PJK-B04-M01-016",
+          "type": "PG",
+          "text": "Istilah untuk kelompok pangan penyumbang serat vitamin dan mineral adalah ...",
+          "options": [
+            "Sayur dan buah",
+            "Protein",
+            "Gizi seimbang",
+            "Karbohidrat"
+          ],
+          "answer": "Sayur dan buah",
+          "discussion": "Cuci atau siapkan bahan sesuai jenis dan cara konsumsi yang aman."
+        },
+        {
+          "id": "PJK-B04-M01-017",
+          "type": "PG",
+          "text": "Danu menyusun piring makan yang lebih beragam. Tindakan yang tepat adalah ...",
+          "options": [
+            "Menambahkan sayur dan buah yang aman serta layak makan",
+            "Tidak pernah memeriksa kebersihan bahan",
+            "Menganggap warna permen menggantikan semua manfaat buah",
+            "Menghapus seluruh lauk agar hanya makan satu buah"
+          ],
+          "answer": "Menambahkan sayur dan buah yang aman serta layak makan",
+          "discussion": "Serat serta zat gizi membantu fungsi tubuh sebagai bagian pola makan beragam. Cuci atau siapkan bahan sesuai jenis dan cara konsumsi yang aman."
+        },
+        {
+          "id": "PJK-B04-M01-018",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Danu menyusun piring makan yang lebih beragam. Mengapa pilihan \"Menambahkan sayur dan buah yang aman serta layak makan\" membantu?",
+          "options": [
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Serat serta zat gizi membantu fungsi tubuh sebagai bagian pola makan beragam",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi"
+          ],
+          "answer": "Serat serta zat gizi membantu fungsi tubuh sebagai bagian pola makan beragam",
+          "discussion": "Serat serta zat gizi membantu fungsi tubuh sebagai bagian pola makan beragam. Cuci atau siapkan bahan sesuai jenis dan cara konsumsi yang aman."
+        },
+        {
+          "id": "PJK-B04-M01-019",
+          "type": "PG",
+          "text": "Danu menyusun piring makan yang lebih beragam. Jika justru memilih \"Menganggap warna permen menggantikan semua manfaat buah\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Piring kurang beragam bila kelompok lain seluruhnya dihilangkan"
+          ],
+          "answer": "Piring kurang beragam bila kelompok lain seluruhnya dihilangkan",
+          "discussion": "Piring kurang beragam bila kelompok lain seluruhnya dihilangkan. Pilihan yang dianjurkan: Menambahkan sayur dan buah yang aman serta layak makan."
+        },
+        {
+          "id": "PJK-B04-M01-020",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Tidak pernah memeriksa kebersihan bahan\" pada situasi: Danu menyusun piring makan yang lebih beragam. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Tidak pernah memeriksa kebersihan bahan",
+            "Menambahkan sayur dan buah yang aman serta layak makan",
+            "Menghapus seluruh lauk agar hanya makan satu buah",
+            "Menganggap warna permen menggantikan semua manfaat buah"
+          ],
+          "answer": "Menambahkan sayur dan buah yang aman serta layak makan",
+          "discussion": "Serat serta zat gizi membantu fungsi tubuh sebagai bagian pola makan beragam. Cuci atau siapkan bahan sesuai jenis dan cara konsumsi yang aman."
+        },
+        {
+          "id": "PJK-B04-M01-021",
+          "type": "PG",
+          "text": "Istilah untuk panduan pembagian kelompok makanan dalam satu piring adalah ...",
+          "options": [
+            "Isi Piringku",
+            "Karbohidrat",
+            "Protein",
+            "Gizi seimbang"
+          ],
+          "answer": "Isi Piringku",
+          "discussion": "Panduan umum perlu disesuaikan dengan kebutuhan dan kondisi kesehatan."
+        },
+        {
+          "id": "PJK-B04-M01-022",
+          "type": "PG",
+          "text": "Eka mengenal acuan pembagian piring makan. Tindakan yang tepat adalah ...",
+          "options": [
+            "Menghapus air minum dari kebiasaan sehat",
+            "Menganggap semua orang harus punya kebutuhan persis sama",
+            "Mengisi sekitar setengah piring dengan sayur dan buah serta sisanya makanan pokok dan lauk",
+            "Mengisi seluruh piring hanya makanan pokok setiap kali makan"
+          ],
+          "answer": "Mengisi sekitar setengah piring dengan sayur dan buah serta sisanya makanan pokok dan lauk",
+          "discussion": "Pembagian memberi gambaran kelompok pangan yang saling melengkapi. Panduan umum perlu disesuaikan dengan kebutuhan dan kondisi kesehatan."
+        },
+        {
+          "id": "PJK-B04-M01-023",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Eka mengenal acuan pembagian piring makan. Mengapa pilihan \"Mengisi sekitar setengah piring dengan sayur dan buah serta sisanya makanan pokok dan lauk\" membantu?",
+          "options": [
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Pembagian memberi gambaran kelompok pangan yang saling melengkapi",
+            "Informasi per sajian selalu sama dengan seluruh kemasan"
+          ],
+          "answer": "Pembagian memberi gambaran kelompok pangan yang saling melengkapi",
+          "discussion": "Pembagian memberi gambaran kelompok pangan yang saling melengkapi. Panduan umum perlu disesuaikan dengan kebutuhan dan kondisi kesehatan."
+        },
+        {
+          "id": "PJK-B04-M01-024",
+          "type": "PG",
+          "text": "Eka mengenal acuan pembagian piring makan. Jika justru memilih \"Mengisi seluruh piring hanya makanan pokok setiap kali makan\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pilihan cenderung tidak seimbang bila satu kelompok selalu mendominasi seluruh piring",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+          ],
+          "answer": "Pilihan cenderung tidak seimbang bila satu kelompok selalu mendominasi seluruh piring",
+          "discussion": "Pilihan cenderung tidak seimbang bila satu kelompok selalu mendominasi seluruh piring. Pilihan yang dianjurkan: Mengisi sekitar setengah piring dengan sayur dan buah serta sisanya makanan pokok dan lauk."
+        },
+        {
+          "id": "PJK-B04-M01-025",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Menganggap semua orang harus punya kebutuhan persis sama\" pada situasi: Eka mengenal acuan pembagian piring makan. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Mengisi seluruh piring hanya makanan pokok setiap kali makan",
+            "Menganggap semua orang harus punya kebutuhan persis sama",
+            "Mengisi sekitar setengah piring dengan sayur dan buah serta sisanya makanan pokok dan lauk",
+            "Menghapus air minum dari kebiasaan sehat"
+          ],
+          "answer": "Mengisi sekitar setengah piring dengan sayur dan buah serta sisanya makanan pokok dan lauk",
+          "discussion": "Pembagian memberi gambaran kelompok pangan yang saling melengkapi. Panduan umum perlu disesuaikan dengan kebutuhan dan kondisi kesehatan."
+        },
+        {
+          "id": "PJK-B04-M01-026",
+          "type": "PG",
+          "text": "Istilah untuk jumlah produk yang menjadi dasar informasi pada label gizi adalah ...",
+          "options": [
+            "Protein",
+            "Takaran saji",
+            "Karbohidrat",
+            "Gizi seimbang"
+          ],
+          "answer": "Takaran saji",
+          "discussion": "Untuk membandingkan produk gunakan dasar jumlah yang sebanding."
+        },
+        {
+          "id": "PJK-B04-M01-027",
+          "type": "PG",
+          "text": "Farah membaca label minuman dua sajian per kemasan. Tindakan yang tepat adalah ...",
+          "options": [
+            "Menghubungkan angka zat gizi dengan jumlah sajian yang diminum",
+            "Menganggap angka per sajian pasti sama dengan seluruh kemasan",
+            "Membaca warna kemasan saja",
+            "Mengabaikan jumlah isi ketika membandingkan"
+          ],
+          "answer": "Menghubungkan angka zat gizi dengan jumlah sajian yang diminum",
+          "discussion": "Jumlah yang dikonsumsi memengaruhi total zat gizi dari produk. Untuk membandingkan produk gunakan dasar jumlah yang sebanding."
+        },
+        {
+          "id": "PJK-B04-M01-028",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Farah membaca label minuman dua sajian per kemasan. Mengapa pilihan \"Menghubungkan angka zat gizi dengan jumlah sajian yang diminum\" membantu?",
+          "options": [
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Jumlah yang dikonsumsi memengaruhi total zat gizi dari produk"
+          ],
+          "answer": "Jumlah yang dikonsumsi memengaruhi total zat gizi dari produk",
+          "discussion": "Jumlah yang dikonsumsi memengaruhi total zat gizi dari produk. Untuk membandingkan produk gunakan dasar jumlah yang sebanding."
+        },
+        {
+          "id": "PJK-B04-M01-029",
+          "type": "PG",
+          "text": "Farah membaca label minuman dua sajian per kemasan. Jika justru memilih \"Menganggap angka per sajian pasti sama dengan seluruh kemasan\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Perhitungan dapat terlalu rendah bila kemasan dua sajian dianggap satu sajian"
+          ],
+          "answer": "Perhitungan dapat terlalu rendah bila kemasan dua sajian dianggap satu sajian",
+          "discussion": "Perhitungan dapat terlalu rendah bila kemasan dua sajian dianggap satu sajian. Pilihan yang dianjurkan: Menghubungkan angka zat gizi dengan jumlah sajian yang diminum."
+        },
+        {
+          "id": "PJK-B04-M01-030",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Membaca warna kemasan saja\" pada situasi: Farah membaca label minuman dua sajian per kemasan. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Menganggap angka per sajian pasti sama dengan seluruh kemasan",
+            "Menghubungkan angka zat gizi dengan jumlah sajian yang diminum",
+            "Mengabaikan jumlah isi ketika membandingkan",
+            "Membaca warna kemasan saja"
+          ],
+          "answer": "Menghubungkan angka zat gizi dengan jumlah sajian yang diminum",
+          "discussion": "Jumlah yang dikonsumsi memengaruhi total zat gizi dari produk. Untuk membandingkan produk gunakan dasar jumlah yang sebanding."
+        },
+        {
+          "id": "PJK-B04-M01-031",
+          "type": "PG",
+          "text": "Istilah untuk pengaturan konsumsi agar tidak berlebihan dalam pola makan adalah ...",
+          "options": [
+            "Karbohidrat",
+            "Protein",
+            "Gizi seimbang",
+            "Pembatasan gula garam lemak"
+          ],
+          "answer": "Pembatasan gula garam lemak",
+          "discussion": "Tidak perlu memberi cap moral baik atau buruk kepada orang berdasarkan makanannya."
+        },
+        {
+          "id": "PJK-B04-M01-032",
+          "type": "PG",
+          "text": "Gilang memilih minuman untuk bekal rutin. Tindakan yang tepat adalah ...",
+          "options": [
+            "Menganggap semakin manis selalu semakin menyehatkan",
+            "Menggunakan minuman berenergi untuk mengganti tidur",
+            "Menyatakan satu makanan menentukan harga diri",
+            "Mengutamakan air dan memperhatikan kandungan produk bersama keluarga"
+          ],
+          "answer": "Mengutamakan air dan memperhatikan kandungan produk bersama keluarga",
+          "discussion": "Pilihan rutin memengaruhi pola asupan sepanjang waktu. Tidak perlu memberi cap moral baik atau buruk kepada orang berdasarkan makanannya."
+        },
+        {
+          "id": "PJK-B04-M01-033",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Gilang memilih minuman untuk bekal rutin. Mengapa pilihan \"Mengutamakan air dan memperhatikan kandungan produk bersama keluarga\" membantu?",
+          "options": [
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Pilihan rutin memengaruhi pola asupan sepanjang waktu",
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi"
+          ],
+          "answer": "Pilihan rutin memengaruhi pola asupan sepanjang waktu",
+          "discussion": "Pilihan rutin memengaruhi pola asupan sepanjang waktu. Tidak perlu memberi cap moral baik atau buruk kepada orang berdasarkan makanannya."
+        },
+        {
+          "id": "PJK-B04-M01-034",
+          "type": "PG",
+          "text": "Gilang memilih minuman untuk bekal rutin. Jika justru memilih \"Menganggap semakin manis selalu semakin menyehatkan\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Asupan gula dapat berlebih bila minuman manis terus menggantikan air",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian"
+          ],
+          "answer": "Asupan gula dapat berlebih bila minuman manis terus menggantikan air",
+          "discussion": "Asupan gula dapat berlebih bila minuman manis terus menggantikan air. Pilihan yang dianjurkan: Mengutamakan air dan memperhatikan kandungan produk bersama keluarga."
+        },
+        {
+          "id": "PJK-B04-M01-035",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Menggunakan minuman berenergi untuk mengganti tidur\" pada situasi: Gilang memilih minuman untuk bekal rutin. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Menyatakan satu makanan menentukan harga diri",
+            "Menganggap semakin manis selalu semakin menyehatkan",
+            "Mengutamakan air dan memperhatikan kandungan produk bersama keluarga",
+            "Menggunakan minuman berenergi untuk mengganti tidur"
+          ],
+          "answer": "Mengutamakan air dan memperhatikan kandungan produk bersama keluarga",
+          "discussion": "Pilihan rutin memengaruhi pola asupan sepanjang waktu. Tidak perlu memberi cap moral baik atau buruk kepada orang berdasarkan makanannya."
+        },
+        {
+          "id": "PJK-B04-M01-036",
+          "type": "PG",
+          "text": "Istilah untuk pemilihan dan penanganan makanan agar layak dikonsumsi adalah ...",
+          "options": [
+            "Gizi seimbang",
+            "Protein",
+            "Keamanan pangan",
+            "Karbohidrat"
+          ],
+          "answer": "Keamanan pangan",
+          "discussion": "Bila ragu, tanyakan orang dewasa dan jangan mencicipi bahan yang dicurigai rusak."
+        },
+        {
+          "id": "PJK-B04-M01-037",
+          "type": "PG",
+          "text": "Hana memeriksa bekal sebelum dimakan. Tindakan yang tepat adalah ...",
+          "options": [
+            "Mencicipi makanan berjamur untuk menguji",
+            "Menganggap tanggal layak konsumsi tidak penting",
+            "Mengabaikan kemasan rusak",
+            "Memeriksa kebersihan penyimpanan dan kondisi makanan"
+          ],
+          "answer": "Memeriksa kebersihan penyimpanan dan kondisi makanan",
+          "discussion": "Penanganan dan penyimpanan memengaruhi risiko kontaminasi. Bila ragu, tanyakan orang dewasa dan jangan mencicipi bahan yang dicurigai rusak."
+        },
+        {
+          "id": "PJK-B04-M01-038",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Hana memeriksa bekal sebelum dimakan. Mengapa pilihan \"Memeriksa kebersihan penyimpanan dan kondisi makanan\" membantu?",
+          "options": [
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Penanganan dan penyimpanan memengaruhi risiko kontaminasi",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Kebutuhan porsi setiap orang selalu persis sama"
+          ],
+          "answer": "Penanganan dan penyimpanan memengaruhi risiko kontaminasi",
+          "discussion": "Penanganan dan penyimpanan memengaruhi risiko kontaminasi. Bila ragu, tanyakan orang dewasa dan jangan mencicipi bahan yang dicurigai rusak."
+        },
+        {
+          "id": "PJK-B04-M01-039",
+          "type": "PG",
+          "text": "Hana memeriksa bekal sebelum dimakan. Jika justru memilih \"Mencicipi makanan berjamur untuk menguji\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Gangguan kesehatan dapat terjadi bila makanan tidak layak tetap dimakan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+          ],
+          "answer": "Gangguan kesehatan dapat terjadi bila makanan tidak layak tetap dimakan",
+          "discussion": "Gangguan kesehatan dapat terjadi bila makanan tidak layak tetap dimakan. Pilihan yang dianjurkan: Memeriksa kebersihan penyimpanan dan kondisi makanan."
+        },
+        {
+          "id": "PJK-B04-M01-040",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Mengabaikan kemasan rusak\" pada situasi: Hana memeriksa bekal sebelum dimakan. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Mencicipi makanan berjamur untuk menguji",
+            "Memeriksa kebersihan penyimpanan dan kondisi makanan",
+            "Mengabaikan kemasan rusak",
+            "Menganggap tanggal layak konsumsi tidak penting"
+          ],
+          "answer": "Memeriksa kebersihan penyimpanan dan kondisi makanan",
+          "discussion": "Penanganan dan penyimpanan memengaruhi risiko kontaminasi. Bila ragu, tanyakan orang dewasa dan jangan mencicipi bahan yang dicurigai rusak."
+        },
+        {
+          "id": "PJK-B04-M01-041",
+          "type": "PG",
+          "text": "Istilah untuk membersihkan tangan untuk mengurangi perpindahan kotoran dan kuman adalah ...",
+          "options": [
+            "Karbohidrat",
+            "Kebersihan tangan",
+            "Gizi seimbang",
+            "Protein"
+          ],
+          "answer": "Kebersihan tangan",
+          "discussion": "Ikuti cara cuci tangan yang diajarkan guru dan keluarga."
+        },
+        {
+          "id": "PJK-B04-M01-042",
+          "type": "PG",
+          "text": "Intan hendak makan setelah bermain di luar. Tindakan yang tepat adalah ...",
+          "options": [
+            "Menganggap tangan bersih hanya karena tidak berbau",
+            "Langsung memegang makanan dengan tangan kotor",
+            "Mengusap tangan pada lantai",
+            "Mencuci tangan dengan sabun dan air mengalir sebelum makan"
+          ],
+          "answer": "Mencuci tangan dengan sabun dan air mengalir sebelum makan",
+          "discussion": "Tangan dapat membawa kotoran ke makanan. Ikuti cara cuci tangan yang diajarkan guru dan keluarga."
+        },
+        {
+          "id": "PJK-B04-M01-043",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Intan hendak makan setelah bermain di luar. Mengapa pilihan \"Mencuci tangan dengan sabun dan air mengalir sebelum makan\" membantu?",
+          "options": [
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Tangan dapat membawa kotoran ke makanan"
+          ],
+          "answer": "Tangan dapat membawa kotoran ke makanan",
+          "discussion": "Tangan dapat membawa kotoran ke makanan. Ikuti cara cuci tangan yang diajarkan guru dan keluarga."
+        },
+        {
+          "id": "PJK-B04-M01-044",
+          "type": "PG",
+          "text": "Intan hendak makan setelah bermain di luar. Jika justru memilih \"Langsung memegang makanan dengan tangan kotor\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Kontaminasi lebih mudah berpindah bila tangan tidak dibersihkan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+          ],
+          "answer": "Kontaminasi lebih mudah berpindah bila tangan tidak dibersihkan",
+          "discussion": "Kontaminasi lebih mudah berpindah bila tangan tidak dibersihkan. Pilihan yang dianjurkan: Mencuci tangan dengan sabun dan air mengalir sebelum makan."
+        },
+        {
+          "id": "PJK-B04-M01-045",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Menganggap tangan bersih hanya karena tidak berbau\" pada situasi: Intan hendak makan setelah bermain di luar. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Mencuci tangan dengan sabun dan air mengalir sebelum makan",
+            "Mengusap tangan pada lantai",
+            "Langsung memegang makanan dengan tangan kotor",
+            "Menganggap tangan bersih hanya karena tidak berbau"
+          ],
+          "answer": "Mencuci tangan dengan sabun dan air mengalir sebelum makan",
+          "discussion": "Tangan dapat membawa kotoran ke makanan. Ikuti cara cuci tangan yang diajarkan guru dan keluarga."
+        },
+        {
+          "id": "PJK-B04-M01-046",
+          "type": "PG",
+          "text": "Istilah untuk penyusunan makanan beragam sesuai kebutuhan dan keadaan adalah ...",
+          "options": [
+            "Karbohidrat",
+            "Protein",
+            "Gizi seimbang",
+            "Perencanaan menu"
+          ],
+          "answer": "Perencanaan menu",
+          "discussion": "Kegiatan belajar ini tidak menetapkan diet medis atau target berat badan."
+        },
+        {
+          "id": "PJK-B04-M01-047",
+          "type": "PG",
+          "text": "Joko menyusun menu bersama keluarga. Tindakan yang tepat adalah ...",
+          "options": [
+            "Mengabaikan alergi anggota keluarga",
+            "Memilih hanya makanan termahal",
+            "Mempertimbangkan keragaman biaya ketersediaan dan kebutuhan kesehatan",
+            "Meniru diet penurunan berat badan orang dewasa"
+          ],
+          "answer": "Mempertimbangkan keragaman biaya ketersediaan dan kebutuhan kesehatan",
+          "discussion": "Menu yang sesuai keadaan lebih realistis untuk dilaksanakan. Kegiatan belajar ini tidak menetapkan diet medis atau target berat badan."
+        },
+        {
+          "id": "PJK-B04-M01-048",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Joko menyusun menu bersama keluarga. Mengapa pilihan \"Mempertimbangkan keragaman biaya ketersediaan dan kebutuhan kesehatan\" membantu?",
+          "options": [
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Menu yang sesuai keadaan lebih realistis untuk dilaksanakan",
+            "Informasi per sajian selalu sama dengan seluruh kemasan"
+          ],
+          "answer": "Menu yang sesuai keadaan lebih realistis untuk dilaksanakan",
+          "discussion": "Menu yang sesuai keadaan lebih realistis untuk dilaksanakan. Kegiatan belajar ini tidak menetapkan diet medis atau target berat badan."
+        },
+        {
+          "id": "PJK-B04-M01-049",
+          "type": "PG",
+          "text": "Joko menyusun menu bersama keluarga. Jika justru memilih \"Memilih hanya makanan termahal\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Menu dapat tidak aman bila kebutuhan kesehatan seperti alergi diabaikan"
+          ],
+          "answer": "Menu dapat tidak aman bila kebutuhan kesehatan seperti alergi diabaikan",
+          "discussion": "Menu dapat tidak aman bila kebutuhan kesehatan seperti alergi diabaikan. Pilihan yang dianjurkan: Mempertimbangkan keragaman biaya ketersediaan dan kebutuhan kesehatan."
+        },
+        {
+          "id": "PJK-B04-M01-050",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Meniru diet penurunan berat badan orang dewasa\" pada situasi: Joko menyusun menu bersama keluarga. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Mempertimbangkan keragaman biaya ketersediaan dan kebutuhan kesehatan",
+            "Meniru diet penurunan berat badan orang dewasa",
+            "Memilih hanya makanan termahal",
+            "Mengabaikan alergi anggota keluarga"
+          ],
+          "answer": "Mempertimbangkan keragaman biaya ketersediaan dan kebutuhan kesehatan",
+          "discussion": "Menu yang sesuai keadaan lebih realistis untuk dilaksanakan. Kegiatan belajar ini tidak menetapkan diet medis atau target berat badan."
+        }
+      ]
+    }
+  ]
+}

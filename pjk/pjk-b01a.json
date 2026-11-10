@@ -1,0 +1,354 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "PJOK",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PJK-B01",
+      "chapter_title": "Jago Bergerak: Taktik Juara",
+      "questions": [
+        {
+          "id": "PJK-B01-M01-051",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Perpindahan posisi membantu mencapai ruang tujuan. Berpindah dari garis awal ke tanda akhir merupakan contoh perpindahan tubuh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-01.svg",
+            "alt": "Alya perlu bergerak menuju titik yang kosong. Pilihan P: Berjalan atau berlari terkendali ke titik yang aman. Pilihan Q: Tetap berdiri sambil memutar lengan."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-052",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Perpindahan posisi membantu mencapai ruang tujuan",
+            "Aturan semua permainan selalu sama"
+          ],
+          "answer": "Perpindahan posisi membantu mencapai ruang tujuan",
+          "discussion": "Perpindahan posisi membantu mencapai ruang tujuan. Berpindah dari garis awal ke tanda akhir merupakan contoh perpindahan tubuh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-01.svg",
+            "alt": "Alya perlu bergerak menuju titik yang kosong. Pilihan P: Berjalan atau berlari terkendali ke titik yang aman. Pilihan Q: Tetap berdiri sambil memutar lengan."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-053",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Gerak di tempat melatih pengendalian bagian tubuh tanpa berpindah posisi. Membungkuk dan memutar badan di tempat berbeda dari berlari.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-02.svg",
+            "alt": "Bima melakukan pemanasan di tempat yang cukup lapang. Pilihan P: Berlomba berlari keluar lapangan. Pilihan Q: Menekuk dan meluruskan tubuh secara terkendali di tempat."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-054",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Gerak di tempat melatih pengendalian bagian tubuh tanpa berpindah posisi",
+            "Aturan semua permainan selalu sama",
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Tenaga terbesar selalu cocok untuk setiap jarak"
+          ],
+          "answer": "Gerak di tempat melatih pengendalian bagian tubuh tanpa berpindah posisi",
+          "discussion": "Gerak di tempat melatih pengendalian bagian tubuh tanpa berpindah posisi. Membungkuk dan memutar badan di tempat berbeda dari berlari.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-02.svg",
+            "alt": "Bima melakukan pemanasan di tempat yang cukup lapang. Pilihan P: Berlomba berlari keluar lapangan. Pilihan Q: Menekuk dan meluruskan tubuh secara terkendali di tempat."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-055",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Pengendalian arah dan kekuatan membantu bola menuju sasaran. Menangkap dan menendang juga termasuk pengendalian benda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-03.svg",
+            "alt": "Citra berlatih mengarahkan bola ke sasaran. Pilihan P: Melempar bola lunak ke sasaran sesuai petunjuk guru. Pilihan Q: Menggerakkan badan tanpa benda lalu menyebutnya lemparan."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-056",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Aturan semua permainan selalu sama",
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Pengendalian arah dan kekuatan membantu bola menuju sasaran"
+          ],
+          "answer": "Pengendalian arah dan kekuatan membantu bola menuju sasaran",
+          "discussion": "Pengendalian arah dan kekuatan membantu bola menuju sasaran. Menangkap dan menendang juga termasuk pengendalian benda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-03.svg",
+            "alt": "Citra berlatih mengarahkan bola ke sasaran. Pilihan P: Melempar bola lunak ke sasaran sesuai petunjuk guru. Pilihan Q: Menggerakkan badan tanpa benda lalu menyebutnya lemparan."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-057",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Ruang bebas memberi jalur operan yang lebih jelas. Lihat posisi kawan dan lawan sebelum memilih tempat menerima bola.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-04.svg",
+            "alt": "Danu dijaga lawan dalam permainan beregu. Pilihan P: Berkumpul rapat di sekitar pembawa bola. Pilihan Q: Bergerak ke ruang aman yang tidak tertutup penjagaan."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-058",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Aturan semua permainan selalu sama",
+            "Ruang bebas memberi jalur operan yang lebih jelas",
+            "Tenaga terbesar selalu cocok untuk setiap jarak"
+          ],
+          "answer": "Ruang bebas memberi jalur operan yang lebih jelas",
+          "discussion": "Ruang bebas memberi jalur operan yang lebih jelas. Lihat posisi kawan dan lawan sebelum memilih tempat menerima bola.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-04.svg",
+            "alt": "Danu dijaga lawan dalam permainan beregu. Pilihan P: Berkumpul rapat di sekitar pembawa bola. Pilihan Q: Bergerak ke ruang aman yang tidak tertutup penjagaan."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-059",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Operan dekat membutuhkan pengendalian agar penerima dapat menangkap. Jarak lebih jauh dapat memerlukan penyesuaian tenaga dengan teknik yang benar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-05.svg",
+            "alt": "Eka mengoper bola kepada teman yang dekat. Pilihan P: Menggunakan tenaga secukupnya agar bola mudah diterima. Pilihan Q: Selalu memakai tenaga paling besar."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-060",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Operan dekat membutuhkan pengendalian agar penerima dapat menangkap",
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Aturan semua permainan selalu sama"
+          ],
+          "answer": "Operan dekat membutuhkan pengendalian agar penerima dapat menangkap",
+          "discussion": "Operan dekat membutuhkan pengendalian agar penerima dapat menangkap. Jarak lebih jauh dapat memerlukan penyesuaian tenaga dengan teknik yang benar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-05.svg",
+            "alt": "Eka mengoper bola kepada teman yang dekat. Pilihan P: Menggunakan tenaga secukupnya agar bola mudah diterima. Pilihan Q: Selalu memakai tenaga paling besar."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-061",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Perubahan arah terkendali membantu melewati rintangan dengan aman. Perhatikan ruang, kecepatan, dan giliran saat berbelok.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-06.svg",
+            "alt": "Farah mendekati rintangan dalam lintasan latihan. Pilihan P: Menabrak rintangan supaya cepat. Pilihan Q: Memperlambat lalu berbelok melalui jalur yang disediakan."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-062",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Aturan semua permainan selalu sama",
+            "Perubahan arah terkendali membantu melewati rintangan dengan aman",
+            "Tenaga terbesar selalu cocok untuk setiap jarak"
+          ],
+          "answer": "Perubahan arah terkendali membantu melewati rintangan dengan aman",
+          "discussion": "Perubahan arah terkendali membantu melewati rintangan dengan aman. Perhatikan ruang, kecepatan, dan giliran saat berbelok.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-06.svg",
+            "alt": "Farah mendekati rintangan dalam lintasan latihan. Pilihan P: Menabrak rintangan supaya cepat. Pilihan Q: Memperlambat lalu berbelok melalui jalur yang disediakan."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-063",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Hitungan membantu mengatur waktu gerakan. Mulai dengan pola langkah sederhana sebelum menambah variasi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-07.svg",
+            "alt": "Gilang mengikuti rangkaian langkah berirama. Pilihan P: Menyesuaikan langkah dengan hitungan dan kemampuan tubuh. Pilihan Q: Memaksakan gerak sampai sakit."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-064",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Aturan semua permainan selalu sama",
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Hitungan membantu mengatur waktu gerakan",
+            "Posisi pemain tidak memengaruhi jalur operan"
+          ],
+          "answer": "Hitungan membantu mengatur waktu gerakan",
+          "discussion": "Hitungan membantu mengatur waktu gerakan. Mulai dengan pola langkah sederhana sebelum menambah variasi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-07.svg",
+            "alt": "Gilang mengikuti rangkaian langkah berirama. Pilihan P: Menyesuaikan langkah dengan hitungan dan kemampuan tubuh. Pilihan Q: Memaksakan gerak sampai sakit."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-065",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Pilihan P",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Prinsip ruang dapat dipakai kembali meskipun teknik serta aturan berbeda. Bandingkan tujuan, alat, ruang, dan aturan sebelum memindahkan strategi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-08.svg",
+            "alt": "Hana berpindah dari permainan bola tangan ke futsal modifikasi. Pilihan P: Menganggap semua aturan kedua permainan identik. Pilihan Q: Menerapkan prinsip membuka ruang sambil menyesuaikan aturan."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-066",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Aturan semua permainan selalu sama",
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Prinsip ruang dapat dipakai kembali meskipun teknik serta aturan berbeda"
+          ],
+          "answer": "Prinsip ruang dapat dipakai kembali meskipun teknik serta aturan berbeda",
+          "discussion": "Prinsip ruang dapat dipakai kembali meskipun teknik serta aturan berbeda. Bandingkan tujuan, alat, ruang, dan aturan sebelum memindahkan strategi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-08.svg",
+            "alt": "Hana berpindah dari permainan bola tangan ke futsal modifikasi. Pilihan P: Menganggap semua aturan kedua permainan identik. Pilihan Q: Menerapkan prinsip membuka ruang sambil menyesuaikan aturan."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-067",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Alat serta jarak yang sesuai memberi kesempatan berlatih dengan aman. Perubahan perlu dijelaskan dan disepakati sebelum permainan dimulai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-09.svg",
+            "alt": "Intan belajar menangkap dengan teman yang baru mulai. Pilihan P: Menggunakan bola lunak dan jarak yang disepakati guru. Pilihan Q: Memakai bola keras pada jarak sangat dekat."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-068",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Alat serta jarak yang sesuai memberi kesempatan berlatih dengan aman",
+            "Aturan semua permainan selalu sama",
+            "Posisi pemain tidak memengaruhi jalur operan"
+          ],
+          "answer": "Alat serta jarak yang sesuai memberi kesempatan berlatih dengan aman",
+          "discussion": "Alat serta jarak yang sesuai memberi kesempatan berlatih dengan aman. Perubahan perlu dijelaskan dan disepakati sebelum permainan dimulai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-09.svg",
+            "alt": "Intan belajar menangkap dengan teman yang baru mulai. Pilihan P: Menggunakan bola lunak dan jarak yang disepakati guru. Pilihan Q: Memakai bola keras pada jarak sangat dekat."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-069",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Catatan jalur operan membantu memilih perbaikan yang bisa diuji. Nilai perubahan melalui percobaan berikutnya, bukan hanya tebakan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-10.svg",
+            "alt": "Joko melihat operan timnya sering dipotong. Pilihan P: Menyalahkan satu teman tanpa melihat permainan. Pilihan Q: Membahas posisi dan jalur operan lalu mencoba perbaikan."
+          }
+        },
+        {
+          "id": "PJK-B01-M01-070",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Aturan semua permainan selalu sama",
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Catatan jalur operan membantu memilih perbaikan yang bisa diuji"
+          ],
+          "answer": "Catatan jalur operan membantu memilih perbaikan yang bisa diuji",
+          "discussion": "Catatan jalur operan membantu memilih perbaikan yang bisa diuji. Nilai perubahan melalui percobaan berikutnya, bukan hanya tebakan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-situasi-10.svg",
+            "alt": "Joko melihat operan timnya sering dipotong. Pilihan P: Menyalahkan satu teman tanpa melihat permainan. Pilihan Q: Membahas posisi dan jalur operan lalu mencoba perbaikan."
+          }
+        }
+      ]
+    }
+  ]
+}

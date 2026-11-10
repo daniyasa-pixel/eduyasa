@@ -1,0 +1,25 @@
+{
+  "subject_id": "PJK",
+  "chapters": {
+    "PJK-B01": [
+      "pjk/pjk-b01.json",
+      "pjk/pjk-b01a.json"
+    ],
+    "PJK-B02": [
+      "pjk/pjk-b02.json",
+      "pjk/pjk-b02a.json"
+    ],
+    "PJK-B03": [
+      "pjk/pjk-b03.json",
+      "pjk/pjk-b03a.json"
+    ],
+    "PJK-B04": [
+      "pjk/pjk-b04.json",
+      "pjk/pjk-b04a.json"
+    ],
+    "PJK-B05": [
+      "pjk/pjk-b05.json",
+      "pjk/pjk-b05a.json"
+    ]
+  }
+}

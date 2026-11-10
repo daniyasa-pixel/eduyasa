@@ -1,0 +1,354 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "PJOK",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PJK-B02",
+      "chapter_title": "Sahabat Lapangan: Serunya Main Adil dan Kompak!",
+      "questions": [
+        {
+          "id": "PJK-B02-M01-051",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Kejujuran membantu menjaga kepercayaan dalam pertandingan. Menang bukan alasan untuk mengabaikan kejujuran.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-01.svg",
+            "alt": "Alya tahu bolanya terakhir menyentuh tangannya sebelum keluar. Pilihan P: Mengakui sentuhan dan mengikuti keputusan sesuai aturan. Pilihan Q: Menyalahkan teman yang tidak menyentuh."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-052",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Kejujuran membantu menjaga kepercayaan dalam pertandingan",
+            "Kebutuhan peserta tidak perlu diperhatikan"
+          ],
+          "answer": "Kejujuran membantu menjaga kepercayaan dalam pertandingan",
+          "discussion": "Kejujuran membantu menjaga kepercayaan dalam pertandingan. Menang bukan alasan untuk mengabaikan kejujuran.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-01.svg",
+            "alt": "Alya tahu bolanya terakhir menyentuh tangannya sebelum keluar. Pilihan P: Mengakui sentuhan dan mengikuti keputusan sesuai aturan. Pilihan Q: Menyalahkan teman yang tidak menyentuh."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-053",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Pembagian peran membuat peluang tim tidak bergantung pada satu orang. Komunikasi membantu keputusan bersama di lapangan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-02.svg",
+            "alt": "Bima melihat teman berada pada posisi operan yang lebih baik. Pilihan P: Membawa bola sendiri meski selalu terhalang. Pilihan Q: Mengoper sesuai peluang dan peran tim."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-054",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Pembagian peran membuat peluang tim tidak bergantung pada satu orang",
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Kemenangan membolehkan perubahan aturan sepihak"
+          ],
+          "answer": "Pembagian peran membuat peluang tim tidak bergantung pada satu orang",
+          "discussion": "Pembagian peran membuat peluang tim tidak bergantung pada satu orang. Komunikasi membantu keputusan bersama di lapangan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-02.svg",
+            "alt": "Bima melihat teman berada pada posisi operan yang lebih baik. Pilihan P: Membawa bola sendiri meski selalu terhalang. Pilihan Q: Mengoper sesuai peluang dan peran tim."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-055",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Isyarat yang dipahami membantu penyelarasan operan. Isyarat harus sesuai aturan dan tidak mengganggu keselamatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-03.svg",
+            "alt": "Citra ingin memberi tahu bahwa ia siap menerima bola. Pilihan P: Memberi isyarat yang disepakati sambil melihat pembawa bola. Pilihan Q: Berteriak menghina penjaga."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-056",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Isyarat yang dipahami membantu penyelarasan operan"
+          ],
+          "answer": "Isyarat yang dipahami membantu penyelarasan operan",
+          "discussion": "Isyarat yang dipahami membantu penyelarasan operan. Isyarat harus sesuai aturan dan tidak mengganggu keselamatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-03.svg",
+            "alt": "Citra ingin memberi tahu bahwa ia siap menerima bola. Pilihan P: Memberi isyarat yang disepakati sambil melihat pembawa bola. Pilihan Q: Berteriak menghina penjaga."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-057",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Penyesuaian mengurangi hambatan partisipasi. Adil tidak selalu berarti semua tugas harus persis sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-04.svg",
+            "alt": "Danu memiliki anggota tim dengan kemampuan gerak berbeda. Pilihan P: Mengeluarkan teman yang baru belajar. Pilihan Q: Menyepakati penyesuaian peran dan alat agar semua terlibat."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-058",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Penyesuaian mengurangi hambatan partisipasi",
+            "Kemenangan membolehkan perubahan aturan sepihak"
+          ],
+          "answer": "Penyesuaian mengurangi hambatan partisipasi",
+          "discussion": "Penyesuaian mengurangi hambatan partisipasi. Adil tidak selalu berarti semua tugas harus persis sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-04.svg",
+            "alt": "Danu memiliki anggota tim dengan kemampuan gerak berbeda. Pilihan P: Mengeluarkan teman yang baru belajar. Pilihan Q: Menyepakati penyesuaian peran dan alat agar semua terlibat."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-059",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Aturan yang diketahui bersama memberi dasar keputusan yang adil. Tanyakan aturan yang belum dipahami sebelum memulai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-05.svg",
+            "alt": "Eka akan mengikuti permainan yang dimodifikasi. Pilihan P: Membahas batas lapangan cara mendapat poin dan keselamatan. Pilihan Q: Mengubah aturan saat tim sendiri tertinggal."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-060",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Aturan yang diketahui bersama memberi dasar keputusan yang adil",
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Kebutuhan peserta tidak perlu diperhatikan"
+          ],
+          "answer": "Aturan yang diketahui bersama memberi dasar keputusan yang adil",
+          "discussion": "Aturan yang diketahui bersama memberi dasar keputusan yang adil. Tanyakan aturan yang belum dipahami sebelum memulai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-05.svg",
+            "alt": "Eka akan mengikuti permainan yang dimodifikasi. Pilihan P: Membahas batas lapangan cara mendapat poin dan keselamatan. Pilihan Q: Mengubah aturan saat tim sendiri tertinggal."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-061",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Pergantian membuka kesempatan belajar peran yang beragam. Pergantian tetap mempertimbangkan keamanan dan kebutuhan peserta.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-06.svg",
+            "alt": "Farah selalu menjadi pengambil alat sementara yang lain bermain. Pilihan P: Menetapkan satu anak selalu di luar permainan. Pilihan Q: Menyusun pergantian peran yang disepakati."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-062",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Pergantian membuka kesempatan belajar peran yang beragam",
+            "Kemenangan membolehkan perubahan aturan sepihak"
+          ],
+          "answer": "Pergantian membuka kesempatan belajar peran yang beragam",
+          "discussion": "Pergantian membuka kesempatan belajar peran yang beragam. Pergantian tetap mempertimbangkan keamanan dan kebutuhan peserta.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-06.svg",
+            "alt": "Farah selalu menjadi pengambil alat sementara yang lain bermain. Pilihan P: Menetapkan satu anak selalu di luar permainan. Pilihan Q: Menyusun pergantian peran yang disepakati."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-063",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Bantuan penengah dan aturan bersama membantu memeriksa perbedaan. Dengarkan penjelasan dan terima penyelesaian sesuai kesepakatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-07.svg",
+            "alt": "Gilang dan lawan berbeda pendapat tentang bola keluar. Pilihan P: Berhenti sejenak dan meminta bantuan guru atau pemimpin permainan. Pilihan Q: Mendorong lawan agar mengalah."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-064",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Bantuan penengah dan aturan bersama membantu memeriksa perbedaan",
+            "Kejujuran tidak berkaitan dengan kepercayaan"
+          ],
+          "answer": "Bantuan penengah dan aturan bersama membantu memeriksa perbedaan",
+          "discussion": "Bantuan penengah dan aturan bersama membantu memeriksa perbedaan. Dengarkan penjelasan dan terima penyelesaian sesuai kesepakatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-07.svg",
+            "alt": "Gilang dan lawan berbeda pendapat tentang bola keluar. Pilihan P: Berhenti sejenak dan meminta bantuan guru atau pemimpin permainan. Pilihan Q: Mendorong lawan agar mengalah."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-065",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Pilihan P",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Dukungan membuat teman lebih nyaman untuk belajar kembali. Komentar diarahkan pada langkah yang bisa diperbaiki, bukan harga diri.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-08.svg",
+            "alt": "Hana melihat teman kecewa setelah melakukan kesalahan. Pilihan P: Menertawakan kesalahan di depan kelompok. Pilihan Q: Memberi dukungan dan mengajak mencoba perbaikan."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-066",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Dukungan membuat teman lebih nyaman untuk belajar kembali"
+          ],
+          "answer": "Dukungan membuat teman lebih nyaman untuk belajar kembali",
+          "discussion": "Dukungan membuat teman lebih nyaman untuk belajar kembali. Komentar diarahkan pada langkah yang bisa diperbaiki, bukan harga diri.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-08.svg",
+            "alt": "Hana melihat teman kecewa setelah melakukan kesalahan. Pilihan P: Menertawakan kesalahan di depan kelompok. Pilihan Q: Memberi dukungan dan mengajak mencoba perbaikan."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-067",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Respons yang terkendali menjaga keselamatan dan hubungan sosial. Minta jeda atau bantuan guru bila sulit mengelola perasaan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-09.svg",
+            "alt": "Intan kalah dalam permainan yang ketat. Pilihan P: Menenangkan diri dan membicarakan pengalaman dengan santun. Pilihan Q: Melempar alat ke arah orang lain."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-068",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Respons yang terkendali menjaga keselamatan dan hubungan sosial",
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Kejujuran tidak berkaitan dengan kepercayaan"
+          ],
+          "answer": "Respons yang terkendali menjaga keselamatan dan hubungan sosial",
+          "discussion": "Respons yang terkendali menjaga keselamatan dan hubungan sosial. Minta jeda atau bantuan guru bila sulit mengelola perasaan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-09.svg",
+            "alt": "Intan kalah dalam permainan yang ketat. Pilihan P: Menenangkan diri dan membicarakan pengalaman dengan santun. Pilihan Q: Melempar alat ke arah orang lain."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-069",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Perawatan ruang menjaga kegiatan berikutnya tetap aman. Tanggung jawab tetap berlaku setelah permainan berakhir.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-10.svg",
+            "alt": "Joko selesai mengikuti permainan kelompok. Pilihan P: Meninggalkan bola di jalur jalan. Pilihan Q: Mengembalikan alat dan memastikan ruang tidak berbahaya."
+          }
+        },
+        {
+          "id": "PJK-B02-M01-070",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Perawatan ruang menjaga kegiatan berikutnya tetap aman"
+          ],
+          "answer": "Perawatan ruang menjaga kegiatan berikutnya tetap aman",
+          "discussion": "Perawatan ruang menjaga kegiatan berikutnya tetap aman. Tanggung jawab tetap berlaku setelah permainan berakhir.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b02-situasi-10.svg",
+            "alt": "Joko selesai mengikuti permainan kelompok. Pilihan P: Meninggalkan bola di jalur jalan. Pilihan Q: Mengembalikan alat dan memastikan ruang tidak berbahaya."
+          }
+        }
+      ]
+    }
+  ]
+}

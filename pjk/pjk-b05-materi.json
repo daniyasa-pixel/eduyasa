@@ -1,0 +1,44 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "PJOK",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "PJK-B05",
+  "chapter_title": "Pahlawan Cilik: Siap Menolong dan Jaga Diri",
+  "source": {
+    "title": "Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SD/MI Kelas VI",
+    "year": 2025,
+    "authors": [
+      "Tri Agus Prasetijo",
+      "Alda Indrawan"
+    ],
+    "isbn_pdf": "978-634-00-3177-5",
+    "reading_url": "https://static.sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/PJOK_BG_KLS_VI.pdf"
+  },
+  "learning_objectives": [
+    "Pemeriksaan bahaya",
+    "Pelaporan cedera",
+    "Rest dalam RICE",
+    "Ice dalam RICE",
+    "Compression dalam RICE",
+    "Elevation dalam RICE",
+    "Tanda darurat",
+    "Informasi pertolongan",
+    "Keselamatan di air",
+    "Pencegahan cedera"
+  ],
+  "modules": [
+    {
+      "id": "PJK-B05-MOD-01",
+      "version": "MOD-01",
+      "title": "Panduan ringkas: Pahlawan Cilik: Siap Menolong dan Jaga Diri",
+      "content": "# Pahlawan Cilik: Siap Menolong dan Jaga Diri\n\nMenolong dimulai dari menjaga keselamatan diri dan memanggil bantuan. Kamu akan mengenali bahaya, memahami konsep bantuan awal, dan melaporkan keadaan dengan jelas. Penjelasan RICE bukan izin menangani semua cedera sendiri. Penilaian serta praktik penanganan dipandu orang dewasa yang memahami caranya.\n\n![Ilustrasi belajar PJOK Bab 5](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-materi.svg)\n\n## Kenali dan terapkan\n\n### 1. Pemeriksaan bahaya\nPengamatan risiko lingkungan sebelum bertindak. Pilih langkah berikut: **Menjaga diri di tempat aman dan memanggil guru**.\n\n### 2. Pelaporan cedera\nMemberi tahu orang dewasa tentang kejadian dan keluhan. Pilih langkah berikut: **Menghentikan permainan dan segera memanggil guru**.\n\n### 3. Rest dalam RICE\nPenghentian aktivitas yang membebani bagian cedera. Pilih langkah berikut: **Memahami bahwa bagian yang nyeri perlu dilindungi dari aktivitas pemicu**.\n\n### 4. Ice dalam RICE\nPendinginan cedera tertentu dengan pelindung kulit di bawah arahan orang dewasa. Pilih langkah berikut: **Memastikan penanganan dipandu orang dewasa dan dingin tidak ditempel langsung ke kulit**.\n\n### 5. Compression dalam RICE\nDukungan balutan pada cedera tertentu oleh orang yang memahami caranya. Pilih langkah berikut: **Meminta orang dewasa terlatih menilai dan menangani balutan**.\n\n![Alur belajar dan refleksi Bab 5](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-langkah.svg)\n\n### 6. Elevation dalam RICE\nPeninggian bagian cedera tertentu bila aman dan sesuai penilaian. Pilih langkah berikut: **Mengikuti arahan orang dewasa dan tidak memaksa bagian yang diduga patah**.\n\n### 7. Tanda darurat\nGejala yang memerlukan bantuan segera seperti tidak responsif atau sulit bernapas. Pilih langkah berikut: **Segera memanggil orang dewasa dan bantuan darurat setempat**.\n\n### 8. Informasi pertolongan\nKeterangan tempat kejadian keadaan dan bahaya untuk membantu penolong. Pilih langkah berikut: **Menyebut lokasi kejadian apa yang terlihat dan bahaya di sekitar**.\n\n### 9. Keselamatan di air\nPencegahan bahaya dan pencarian bantuan saat berada dekat air. Pilih langkah berikut: **Memanggil penjaga atau orang dewasa dan tidak melompat menolong sendiri**.\n\n### 10. Pencegahan cedera\nPengurangan risiko melalui pemeriksaan alat ruang dan cara bergerak. Pilih langkah berikut: **Memberi tahu guru dan menghindari jalur sampai aman**.\n\n## Ingat dan diskusikan\n\nTidak responsif, sulit bernapas, perdarahan banyak, atau dugaan patah tulang memerlukan bantuan segera; jangan menunggu batas waktu tertentu. Jangan memberi makan, minum, atau obat kepada orang tidak sadar. Jangan memijat, meluruskan, atau memindahkan bagian cedera secara paksa. Orang dewasa menghubungi bantuan darurat setempat dan mengikuti arahan petugas.\n\n## Misi belajar\n\nPilih satu situasi. Jelaskan alasan keputusan yang aman, akibat pilihan lain, dan satu perbaikan. Praktik gerak atau simulasi hanya dilakukan dengan pendampingan guru dan penyesuaian kemampuan."
+    },
+    {
+      "id": "PJK-B05-MOD-02",
+      "version": "MOD-02",
+      "title": "Belajar lewat situasi: Pahlawan Cilik: Siap Menolong dan Jaga Diri",
+      "content": "# Pahlawan Cilik: Siap Menolong dan Jaga Diri\n\nMenolong dimulai dari menjaga keselamatan diri dan memanggil bantuan. Kamu akan mengenali bahaya, memahami konsep bantuan awal, dan melaporkan keadaan dengan jelas. Penjelasan RICE bukan izin menangani semua cedera sendiri. Penilaian serta praktik penanganan dipandu orang dewasa yang memahami caranya.\n\n![Alur belajar dan refleksi Bab 5](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-langkah.svg)\n\n## Jelajahi situasi sehari-hari\n\n### 1. Pemeriksaan bahaya\nAlya melihat teman jatuh dekat lantai basah. Konsepnya adalah pengamatan risiko lingkungan sebelum bertindak. Langkah yang sesuai: **Menjaga diri di tempat aman dan memanggil guru**.\n\n### 2. Pelaporan cedera\nBima mendengar teman mengeluh nyeri setelah terkilir. Konsepnya adalah memberi tahu orang dewasa tentang kejadian dan keluhan. Langkah yang sesuai: **Menghentikan permainan dan segera memanggil guru**.\n\n### 3. Rest dalam RICE\nCitra belajar konsep RICE bersama guru. Konsepnya adalah penghentian aktivitas yang membebani bagian cedera. Langkah yang sesuai: **Memahami bahwa bagian yang nyeri perlu dilindungi dari aktivitas pemicu**.\n\n### 4. Ice dalam RICE\nDanu melihat guru menyiapkan kompres dingin. Konsepnya adalah pendinginan cedera tertentu dengan pelindung kulit di bawah arahan orang dewasa. Langkah yang sesuai: **Memastikan penanganan dipandu orang dewasa dan dingin tidak ditempel langsung ke kulit**.\n\n### 5. Compression dalam RICE\nEka belajar tentang balutan penyangga. Konsepnya adalah dukungan balutan pada cedera tertentu oleh orang yang memahami caranya. Langkah yang sesuai: **Meminta orang dewasa terlatih menilai dan menangani balutan**.\n\n![Ilustrasi belajar PJOK Bab 5](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-materi.svg)\n\n### 6. Elevation dalam RICE\nFarah mendengar saran meninggikan bagian yang terkilir. Konsepnya adalah peninggian bagian cedera tertentu bila aman dan sesuai penilaian. Langkah yang sesuai: **Mengikuti arahan orang dewasa dan tidak memaksa bagian yang diduga patah**.\n\n### 7. Tanda darurat\nGilang melihat seseorang tidak merespons panggilan. Konsepnya adalah gejala yang memerlukan bantuan segera seperti tidak responsif atau sulit bernapas. Langkah yang sesuai: **Segera memanggil orang dewasa dan bantuan darurat setempat**.\n\n### 8. Informasi pertolongan\nHana diminta memberi laporan kepada guru. Konsepnya adalah keterangan tempat kejadian keadaan dan bahaya untuk membantu penolong. Langkah yang sesuai: **Menyebut lokasi kejadian apa yang terlihat dan bahaya di sekitar**.\n\n### 9. Keselamatan di air\nIntan melihat teman kesulitan di kolam. Konsepnya adalah pencegahan bahaya dan pencarian bantuan saat berada dekat air. Langkah yang sesuai: **Memanggil penjaga atau orang dewasa dan tidak melompat menolong sendiri**.\n\n### 10. Pencegahan cedera\nJoko menemukan tali melintang di jalur latihan. Konsepnya adalah pengurangan risiko melalui pemeriksaan alat ruang dan cara bergerak. Langkah yang sesuai: **Memberi tahu guru dan menghindari jalur sampai aman**.\n\n## Ingat dan diskusikan\n\nTidak responsif, sulit bernapas, perdarahan banyak, atau dugaan patah tulang memerlukan bantuan segera; jangan menunggu batas waktu tertentu. Jangan memberi makan, minum, atau obat kepada orang tidak sadar. Jangan memijat, meluruskan, atau memindahkan bagian cedera secara paksa. Orang dewasa menghubungi bantuan darurat setempat dan mengikuti arahan petugas.\n\n## Misi belajar\n\nPilih satu situasi. Jelaskan alasan keputusan yang aman, akibat pilihan lain, dan satu perbaikan. Praktik gerak atau simulasi hanya dilakukan dengan pendampingan guru dan penyesuaian kemampuan."
+    }
+  ]
+}

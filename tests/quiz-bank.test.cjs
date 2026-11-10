@@ -4,7 +4,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const bank = require('../HTML/quiz-bank.js');
 const root = path.resolve(__dirname, '..');
-const subjects = ['MTK', 'BIN', 'ENG', 'SBD'].map(id => ({ id, name: id }));
+const subjects = ['MTK', 'BIN', 'ENG', 'SBD', 'PJK'].map(id => ({ id, name: id }));
 const baseUrl = 'https://example.test/';
 const localFetch = async url => {
   const name = url.slice(baseUrl.length);
@@ -217,4 +217,87 @@ test('Semua bank SBD memiliki empat opsi, jawaban cocok, ID unik, dan gambar han
 test('Paket tambahan SBD gagal: latihan dihentikan tanpa diam-diam mengubah komposisi', async () => {
   await assert.rejects(load({ SBD: new Set([1]) }, url => url.endsWith('sbd-b01a.json')
     ? Promise.resolve({ ok: false, status: 503 }) : localFetch(url)), /sbd-b01a.json/);
+});
+
+for (let chapter = 1; chapter <= 5; chapter++) {
+  test(`PJOK bab ${chapter}: dua paket, 70 soal, dan komposisi 5/15`, async () => {
+    const pool = await load({ PJK: new Set([chapter]) });
+    assert.equal(pool.length, 70);
+    assert.equal(pool.filter(bank.hasImage).length, 20);
+    assert.equal(new Set(pool.map(q => q.id)).size, 70);
+    for (let seed = 1; seed <= 100; seed++) {
+      const result = bank.selectQuestions(pool, { fixedImageRatio: true, random: seeded(seed) });
+      assert.equal(result.length, 20);
+      assert.equal(result.filter(bank.hasImage).length, 5);
+      assert.equal(new Set(result.map(q => q.id)).size, 20);
+      assert(result.every(q => q.chapterId === `PJK-B0${chapter}`));
+    }
+  });
+}
+
+test('PJK beberapa bab dan PJK+MTK tetap mengambil 5 gambar dari bab yang dipilih', async () => {
+  for (const chapters of [ { PJK: new Set([1, 3, 5]) }, { PJK: new Set([2]), MTK: new Set([4]) } ]) {
+    const pool = await load(chapters);
+    const allowed = new Set(pool.map(q => q.id));
+    for (let seed = 1; seed <= 100; seed++) {
+      const result = bank.selectQuestions(pool, { fixedImageRatio: true, random: seeded(seed) });
+      assert.equal(result.length, 20);
+      assert.equal(result.filter(bank.hasImage).length, 5);
+      assert(result.every(q => allowed.has(q.id)));
+    }
+  }
+});
+
+test('Setiap bab PJK memiliki dua modul ringkas, tujuan belajar, dan dua ilustrasi yang tersedia', () => {
+  for (let chapter = 1; chapter <= 5; chapter++) {
+    const file = path.join(root, `pjk/pjk-b0${chapter}-materi.json`);
+    const d = JSON.parse(fs.readFileSync(file, 'utf8'));
+    assert.equal(d.chapter_id, `PJK-B0${chapter}`);
+    assert.equal(d.modules.length, 2);
+    assert.deepEqual(d.modules.map(m => m.version), ['MOD-01', 'MOD-02']);
+    assert(d.learning_objectives.length >= 4);
+    assert.notEqual(d.modules[0].content, d.modules[1].content);
+    for (const m of d.modules) {
+      assert(m.id.startsWith(d.chapter_id + '-MOD-'));
+      const images = [...m.content.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g)];
+      assert.equal(images.length, 2);
+      for (const [, url] of images) assert(fs.existsSync(path.join(root, url.split('/main/')[1])));
+      const words = m.content.replace(/!\[[^\]]*\]\([^)]+\)/g, '').split(/\s+/).length;
+      assert(words >= 200 && words <= 500);
+    }
+  }
+});
+
+test('Semua bank PJK memiliki empat opsi, jawaban cocok, ID unik, dan gambar hanya di paket A', () => {
+  const ids = new Set();
+  const imageRefs = new Set();
+  for (let chapter = 1; chapter <= 5; chapter++) {
+    for (const suffix of ['', 'a']) {
+      const d = JSON.parse(fs.readFileSync(path.join(root, `pjk/pjk-b0${chapter}${suffix}.json`), 'utf8'));
+      assert.equal(d.subject_id, 'PJK');
+      assert.equal(d.grade, 6);
+      for (const q of d.chapters[0].questions) {
+        assert(!ids.has(q.id), q.id); ids.add(q.id);
+        assert.equal(q.options.length, 4);
+        assert.equal(new Set(q.options).size, 4);
+        assert.equal(q.options.filter(o => o === q.answer).length, 1);
+        assert(q.text.trim() && q.discussion.trim());
+        assert(q.options.every(o => !/^[A-D][.)]\s/.test(o)));
+        assert.equal(bank.hasImage(q), suffix === 'a');
+        if (q.image) {
+          const relative = q.image.src.split('/main/')[1];
+          assert(fs.existsSync(path.join(root, relative)));
+          assert(q.image.alt.length > 20);
+          imageRefs.add(relative);
+        }
+      }
+    }
+  }
+  assert.equal(ids.size, 350);
+  assert(imageRefs.size >= 40);
+});
+
+test('Paket tambahan PJK gagal: latihan dihentikan tanpa diam-diam mengubah komposisi', async () => {
+  await assert.rejects(load({ PJK: new Set([1]) }, url => url.endsWith('pjk-b01a.json')
+    ? Promise.resolve({ ok: false, status: 503 }) : localFetch(url)), /pjk-b01a.json/);
 });

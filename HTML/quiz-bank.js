@@ -1,4 +1,4 @@
-/* Paket soal tambahan terdaftar dalam question-packs.json milik MTK dan SBD. */
+/* Paket soal tambahan terdaftar dalam question-packs.json milik MTK, SBD, dan PJK. */
 (function (root) {
   'use strict';
 
@@ -73,7 +73,7 @@
     }
     const ids = [...subjectIds];
     const manifests = new Map();
-    for (const id of ids.filter(value => ['MTK', 'SBD'].includes(value))) {
+    for (const id of ids.filter(value => ['MTK', 'SBD', 'PJK'].includes(value))) {
       const manifest = await readJson(`${id.toLowerCase()}/question-packs.json`);
       if (manifest.subject_id !== id || !manifest.chapters) {
         const name = subjects.find(subject => subject.id === id)?.name || id;

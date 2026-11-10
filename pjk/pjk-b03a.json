@@ -1,0 +1,354 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "PJOK",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PJK-B03",
+      "chapter_title": "Energi Super Rahasia Tubuh Sehat dan Kuat",
+      "questions": [
+        {
+          "id": "PJK-B03-M01-051",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Gerak teratur menantang kerja jantung dan paru secara bertahap. Bernapas lebih cepat saat bergerak berbeda dari kesulitan bernapas yang perlu bantuan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-01.svg",
+            "alt": "Alya ingin membangun kebiasaan bergerak. Pilihan P: Memilih aktivitas teratur yang sesuai kemampuan bersama guru. Pilihan Q: Langsung memaksakan latihan terberat."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-052",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Keluhan tubuh selalu boleh diabaikan",
+            "Kebutuhan latihan setiap orang selalu identik",
+            "Gerak teratur menantang kerja jantung dan paru secara bertahap",
+            "Minuman berenergi dapat sepenuhnya menggantikan tidur"
+          ],
+          "answer": "Gerak teratur menantang kerja jantung dan paru secara bertahap",
+          "discussion": "Gerak teratur menantang kerja jantung dan paru secara bertahap. Bernapas lebih cepat saat bergerak berbeda dari kesulitan bernapas yang perlu bantuan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-01.svg",
+            "alt": "Alya ingin membangun kebiasaan bergerak. Pilihan P: Memilih aktivitas teratur yang sesuai kemampuan bersama guru. Pilihan Q: Langsung memaksakan latihan terberat."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-053",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Gerakan berkelanjutan meningkatkan kebutuhan kerja jantung dan paru. Jenis gerak dapat disesuaikan dengan kemampuan termasuk penggunaan alat bantu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-02.svg",
+            "alt": "Bima mencari contoh gerak aktif yang dapat dinikmati. Pilihan P: Duduk diam sambil bermain gawai. Pilihan Q: Berjalan cepat atau bermain aktif sesuai kondisi tubuh."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-054",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Gerakan berkelanjutan meningkatkan kebutuhan kerja jantung dan paru",
+            "Minuman berenergi dapat sepenuhnya menggantikan tidur",
+            "Keluhan tubuh selalu boleh diabaikan",
+            "Kebutuhan latihan setiap orang selalu identik"
+          ],
+          "answer": "Gerakan berkelanjutan meningkatkan kebutuhan kerja jantung dan paru",
+          "discussion": "Gerakan berkelanjutan meningkatkan kebutuhan kerja jantung dan paru. Jenis gerak dapat disesuaikan dengan kemampuan termasuk penggunaan alat bantu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-02.svg",
+            "alt": "Bima mencari contoh gerak aktif yang dapat dinikmati. Pilihan P: Duduk diam sambil bermain gawai. Pilihan Q: Berjalan cepat atau bermain aktif sesuai kondisi tubuh."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-055",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Durasi dapat terkumpul dari beberapa kegiatan aktif yang sesuai. Ini acuan populasi usia 5–17 tahun; kebutuhan khusus dibicarakan dengan orang dewasa dan tenaga kesehatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-03.svg",
+            "alt": "Citra menyusun rencana gerak mingguan usia sekolah. Pilihan P: Membangun rata-rata sedikitnya 60 menit aktivitas sedang hingga berat per hari sepanjang minggu sesuai kemampuan. Pilihan Q: Menganggap harus langsung latihan berat 60 menit tanpa jeda."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-056",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Keluhan tubuh selalu boleh diabaikan",
+            "Minuman berenergi dapat sepenuhnya menggantikan tidur",
+            "Kebutuhan latihan setiap orang selalu identik",
+            "Durasi dapat terkumpul dari beberapa kegiatan aktif yang sesuai"
+          ],
+          "answer": "Durasi dapat terkumpul dari beberapa kegiatan aktif yang sesuai",
+          "discussion": "Durasi dapat terkumpul dari beberapa kegiatan aktif yang sesuai. Ini acuan populasi usia 5–17 tahun; kebutuhan khusus dibicarakan dengan orang dewasa dan tenaga kesehatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-03.svg",
+            "alt": "Citra menyusun rencana gerak mingguan usia sekolah. Pilihan P: Membangun rata-rata sedikitnya 60 menit aktivitas sedang hingga berat per hari sepanjang minggu sesuai kemampuan. Pilihan Q: Menganggap harus langsung latihan berat 60 menit tanpa jeda."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-057",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Persiapan bertahap membantu tubuh beralih ke kegiatan utama. Pemanasan tetap disesuaikan dengan kegiatan yang akan dilakukan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-04.svg",
+            "alt": "Danu hendak mengikuti permainan aktif. Pilihan P: Langsung melakukan gerakan tersulit sekuatnya. Pilihan Q: Memulai gerakan ringan dan bertahap sesuai arahan guru."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-058",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Keluhan tubuh selalu boleh diabaikan",
+            "Minuman berenergi dapat sepenuhnya menggantikan tidur",
+            "Persiapan bertahap membantu tubuh beralih ke kegiatan utama",
+            "Kebutuhan latihan setiap orang selalu identik"
+          ],
+          "answer": "Persiapan bertahap membantu tubuh beralih ke kegiatan utama",
+          "discussion": "Persiapan bertahap membantu tubuh beralih ke kegiatan utama. Pemanasan tetap disesuaikan dengan kegiatan yang akan dilakukan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-04.svg",
+            "alt": "Danu hendak mengikuti permainan aktif. Pilihan P: Langsung melakukan gerakan tersulit sekuatnya. Pilihan Q: Memulai gerakan ringan dan bertahap sesuai arahan guru."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-059",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Penurunan bertahap membantu tubuh beralih menuju istirahat. Jika ada keluhan tidak biasa segera beri tahu guru, bukan menutupinya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-05.svg",
+            "alt": "Eka selesai bermain aktif. Pilihan P: Mengurangi intensitas perlahan sesuai petunjuk guru. Pilihan Q: Langsung berlomba keras lagi saat lelah."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-060",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Keluhan tubuh selalu boleh diabaikan",
+            "Penurunan bertahap membantu tubuh beralih menuju istirahat",
+            "Kebutuhan latihan setiap orang selalu identik",
+            "Minuman berenergi dapat sepenuhnya menggantikan tidur"
+          ],
+          "answer": "Penurunan bertahap membantu tubuh beralih menuju istirahat",
+          "discussion": "Penurunan bertahap membantu tubuh beralih menuju istirahat. Jika ada keluhan tidak biasa segera beri tahu guru, bukan menutupinya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-05.svg",
+            "alt": "Eka selesai bermain aktif. Pilihan P: Mengurangi intensitas perlahan sesuai petunjuk guru. Pilihan Q: Langsung berlomba keras lagi saat lelah."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-061",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Tidur membantu pemulihan dan kesiapan belajar serta bergerak. Jadwal gerak perlu disertai waktu istirahat yang memadai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-06.svg",
+            "alt": "Farah sering begadang sehingga mengantuk saat berlatih. Pilihan P: Mengganti tidur dengan minuman berenergi. Pilihan Q: Membicarakan rutinitas tidur teratur dengan keluarga."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-062",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Keluhan tubuh selalu boleh diabaikan",
+            "Minuman berenergi dapat sepenuhnya menggantikan tidur",
+            "Tidur membantu pemulihan dan kesiapan belajar serta bergerak",
+            "Kebutuhan latihan setiap orang selalu identik"
+          ],
+          "answer": "Tidur membantu pemulihan dan kesiapan belajar serta bergerak",
+          "discussion": "Tidur membantu pemulihan dan kesiapan belajar serta bergerak. Jadwal gerak perlu disertai waktu istirahat yang memadai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-06.svg",
+            "alt": "Farah sering begadang sehingga mengantuk saat berlatih. Pilihan P: Mengganti tidur dengan minuman berenergi. Pilihan Q: Membicarakan rutinitas tidur teratur dengan keluarga."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-063",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Jeda mengurangi waktu duduk berkepanjangan. Jeda gerak bukan alasan mengabaikan tugas atau keselamatan ruang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-07.svg",
+            "alt": "Gilang duduk lama mengerjakan tugas. Pilihan P: Menyisipkan jeda gerak yang aman dan melanjutkan tugas. Pilihan Q: Menganggap bergerak hanya boleh saat PJOK."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-064",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Minuman berenergi dapat sepenuhnya menggantikan tidur",
+            "Kebutuhan latihan setiap orang selalu identik",
+            "Jeda mengurangi waktu duduk berkepanjangan",
+            "Keluhan tubuh selalu boleh diabaikan"
+          ],
+          "answer": "Jeda mengurangi waktu duduk berkepanjangan",
+          "discussion": "Jeda mengurangi waktu duduk berkepanjangan. Jeda gerak bukan alasan mengabaikan tugas atau keselamatan ruang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-07.svg",
+            "alt": "Gilang duduk lama mengerjakan tugas. Pilihan P: Menyisipkan jeda gerak yang aman dan melanjutkan tugas. Pilihan Q: Menganggap bergerak hanya boleh saat PJOK."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-065",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Pilihan P",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Cairan membantu mengganti yang hilang saat tubuh berkeringat. Kebutuhan dipengaruhi kegiatan dan cuaca; keluhan perlu dilaporkan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-08.svg",
+            "alt": "Hana membawa air minum saat kegiatan luar ruang. Pilihan P: Menunggu sangat kehausan sebelum boleh minum. Pilihan Q: Minum air secara berkala dan mengikuti pengaturan guru."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-066",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Keluhan tubuh selalu boleh diabaikan",
+            "Minuman berenergi dapat sepenuhnya menggantikan tidur",
+            "Kebutuhan latihan setiap orang selalu identik",
+            "Cairan membantu mengganti yang hilang saat tubuh berkeringat"
+          ],
+          "answer": "Cairan membantu mengganti yang hilang saat tubuh berkeringat",
+          "discussion": "Cairan membantu mengganti yang hilang saat tubuh berkeringat. Kebutuhan dipengaruhi kegiatan dan cuaca; keluhan perlu dilaporkan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-08.svg",
+            "alt": "Hana membawa air minum saat kegiatan luar ruang. Pilihan P: Menunggu sangat kehausan sebelum boleh minum. Pilihan Q: Minum air secara berkala dan mengikuti pengaturan guru."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-067",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Keluhan memberi petunjuk perlunya istirahat dan penilaian orang dewasa. Kesulitan bernapas, nyeri dada, atau tidak responsif memerlukan bantuan segera.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-09.svg",
+            "alt": "Intan merasa pusing ketika bermain. Pilihan P: Berhenti di tempat aman dan segera memberi tahu guru. Pilihan Q: Menyembunyikan pusing agar terus bermain."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-068",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kebutuhan latihan setiap orang selalu identik",
+            "Keluhan memberi petunjuk perlunya istirahat dan penilaian orang dewasa",
+            "Minuman berenergi dapat sepenuhnya menggantikan tidur",
+            "Keluhan tubuh selalu boleh diabaikan"
+          ],
+          "answer": "Keluhan memberi petunjuk perlunya istirahat dan penilaian orang dewasa",
+          "discussion": "Keluhan memberi petunjuk perlunya istirahat dan penilaian orang dewasa. Kesulitan bernapas, nyeri dada, atau tidak responsif memerlukan bantuan segera.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-09.svg",
+            "alt": "Intan merasa pusing ketika bermain. Pilihan P: Berhenti di tempat aman dan segera memberi tahu guru. Pilihan Q: Menyembunyikan pusing agar terus bermain."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-069",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Rencana yang realistis lebih mudah menjadi kebiasaan. Catat pengalaman untuk meninjau rencana, bukan untuk membandingkan harga diri.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-10.svg",
+            "alt": "Joko sulit mengikuti jadwal gerak yang terlalu berat. Pilihan P: Meniru jadwal atlet dewasa tanpa penyesuaian. Pilihan Q: Memilih kegiatan yang disukai dan meningkatkannya bertahap dengan pendampingan."
+          }
+        },
+        {
+          "id": "PJK-B03-M01-070",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Keluhan tubuh selalu boleh diabaikan",
+            "Minuman berenergi dapat sepenuhnya menggantikan tidur",
+            "Kebutuhan latihan setiap orang selalu identik",
+            "Rencana yang realistis lebih mudah menjadi kebiasaan"
+          ],
+          "answer": "Rencana yang realistis lebih mudah menjadi kebiasaan",
+          "discussion": "Rencana yang realistis lebih mudah menjadi kebiasaan. Catat pengalaman untuk meninjau rencana, bukan untuk membandingkan harga diri.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-situasi-10.svg",
+            "alt": "Joko sulit mengikuti jadwal gerak yang terlalu berat. Pilihan P: Meniru jadwal atlet dewasa tanpa penyesuaian. Pilihan Q: Memilih kegiatan yang disukai dan meningkatkannya bertahap dengan pendampingan."
+          }
+        }
+      ]
+    }
+  ]
+}

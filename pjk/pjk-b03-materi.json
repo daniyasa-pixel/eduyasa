@@ -1,0 +1,44 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "PJOK",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "PJK-B03",
+  "chapter_title": "Energi Super Rahasia Tubuh Sehat dan Kuat",
+  "source": {
+    "title": "Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SD/MI Kelas VI",
+    "year": 2025,
+    "authors": [
+      "Tri Agus Prasetijo",
+      "Alda Indrawan"
+    ],
+    "isbn_pdf": "978-634-00-3177-5",
+    "reading_url": "https://static.sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/PJOK_BG_KLS_VI.pdf"
+  },
+  "learning_objectives": [
+    "Daya tahan jantung paru",
+    "Aktivitas aerobik",
+    "Rekomendasi aktivitas",
+    "Pemanasan",
+    "Pendinginan",
+    "Tidur dan pemulihan",
+    "Perilaku sedenter",
+    "Hidrasi",
+    "Pemantauan respons tubuh",
+    "Rencana gerak pribadi"
+  ],
+  "modules": [
+    {
+      "id": "PJK-B03-MOD-01",
+      "version": "MOD-01",
+      "title": "Panduan ringkas: Energi Super Rahasia Tubuh Sehat dan Kuat",
+      "content": "# Energi Super Rahasia Tubuh Sehat dan Kuat\n\nTubuh bergerak dengan bantuan otot, jantung, serta paru-paru. Aktivitas teratur, istirahat, dan cairan saling mendukung. Kamu akan menyusun kebiasaan aktif sesuai kemampuan, bukan meniru latihan berat orang lain. Beri tahu guru jika ada keluhan.\n\n![Ilustrasi belajar PJOK Bab 3](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-materi.svg)\n\n## Kenali dan terapkan\n\n### 1. Daya tahan jantung paru\nKemampuan sistem jantung dan pernapasan mendukung aktivitas berkelanjutan. Pilih langkah berikut: **Memilih aktivitas teratur yang sesuai kemampuan bersama guru**.\n\n### 2. Aktivitas aerobik\nAktivitas berkelanjutan yang melibatkan kerja otot besar dan pernapasan. Pilih langkah berikut: **Berjalan cepat atau bermain aktif sesuai kondisi tubuh**.\n\n### 3. Rekomendasi aktivitas\nAcuan umum jumlah gerak untuk mendukung kesehatan anak. Pilih langkah berikut: **Membangun rata-rata sedikitnya 60 menit aktivitas sedang hingga berat per hari sepanjang minggu sesuai kemampuan**.\n\n### 4. Pemanasan\nPersiapan gerak bertahap sebelum kegiatan utama. Pilih langkah berikut: **Memulai gerakan ringan dan bertahap sesuai arahan guru**.\n\n### 5. Pendinginan\nPenurunan aktivitas secara bertahap setelah kegiatan utama. Pilih langkah berikut: **Mengurangi intensitas perlahan sesuai petunjuk guru**.\n\n![Alur belajar dan refleksi Bab 3](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-langkah.svg)\n\n### 6. Tidur dan pemulihan\nIstirahat yang membantu tubuh pulih setelah aktivitas. Pilih langkah berikut: **Membicarakan rutinitas tidur teratur dengan keluarga**.\n\n### 7. Perilaku sedenter\nKegiatan terjaga dengan pengeluaran energi rendah seperti duduk lama. Pilih langkah berikut: **Menyisipkan jeda gerak yang aman dan melanjutkan tugas**.\n\n### 8. Hidrasi\nPemenuhan kebutuhan cairan tubuh. Pilih langkah berikut: **Minum air secara berkala dan mengikuti pengaturan guru**.\n\n### 9. Pemantauan respons tubuh\nMemperhatikan perubahan dan keluhan selama aktivitas. Pilih langkah berikut: **Berhenti di tempat aman dan segera memberi tahu guru**.\n\n### 10. Rencana gerak pribadi\nJadwal aktivitas realistis yang disesuaikan dengan keadaan diri. Pilih langkah berikut: **Memilih kegiatan yang disukai dan meningkatkannya bertahap dengan pendampingan**.\n\n## Ingat dan diskusikan\n\nWHO memberi acuan usia 5–17 tahun berupa rata-rata sedikitnya 60 menit aktivitas sedang hingga berat per hari sepanjang minggu. Waktu dapat terkumpul dari beberapa kegiatan. Mulai sesuai kemampuan, kurangi duduk berkepanjangan, dan bicarakan penyesuaian kesehatan dengan pendamping. Tidur serta pemulihan tetap diperlukan.\n\n## Misi belajar\n\nPilih satu situasi. Jelaskan alasan keputusan yang aman, akibat pilihan lain, dan satu perbaikan. Praktik gerak atau simulasi hanya dilakukan dengan pendampingan guru dan penyesuaian kemampuan."
+    },
+    {
+      "id": "PJK-B03-MOD-02",
+      "version": "MOD-02",
+      "title": "Belajar lewat situasi: Energi Super Rahasia Tubuh Sehat dan Kuat",
+      "content": "# Energi Super Rahasia Tubuh Sehat dan Kuat\n\nTubuh bergerak dengan bantuan otot, jantung, serta paru-paru. Aktivitas teratur, istirahat, dan cairan saling mendukung. Kamu akan menyusun kebiasaan aktif sesuai kemampuan, bukan meniru latihan berat orang lain. Beri tahu guru jika ada keluhan.\n\n![Alur belajar dan refleksi Bab 3](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-langkah.svg)\n\n## Jelajahi situasi sehari-hari\n\n### 1. Daya tahan jantung paru\nAlya ingin membangun kebiasaan bergerak. Konsepnya adalah kemampuan sistem jantung dan pernapasan mendukung aktivitas berkelanjutan. Langkah yang sesuai: **Memilih aktivitas teratur yang sesuai kemampuan bersama guru**.\n\n### 2. Aktivitas aerobik\nBima mencari contoh gerak aktif yang dapat dinikmati. Konsepnya adalah aktivitas berkelanjutan yang melibatkan kerja otot besar dan pernapasan. Langkah yang sesuai: **Berjalan cepat atau bermain aktif sesuai kondisi tubuh**.\n\n### 3. Rekomendasi aktivitas\nCitra menyusun rencana gerak mingguan usia sekolah. Konsepnya adalah acuan umum jumlah gerak untuk mendukung kesehatan anak. Langkah yang sesuai: **Membangun rata-rata sedikitnya 60 menit aktivitas sedang hingga berat per hari sepanjang minggu sesuai kemampuan**.\n\n### 4. Pemanasan\nDanu hendak mengikuti permainan aktif. Konsepnya adalah persiapan gerak bertahap sebelum kegiatan utama. Langkah yang sesuai: **Memulai gerakan ringan dan bertahap sesuai arahan guru**.\n\n### 5. Pendinginan\nEka selesai bermain aktif. Konsepnya adalah penurunan aktivitas secara bertahap setelah kegiatan utama. Langkah yang sesuai: **Mengurangi intensitas perlahan sesuai petunjuk guru**.\n\n![Ilustrasi belajar PJOK Bab 3](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b03-materi.svg)\n\n### 6. Tidur dan pemulihan\nFarah sering begadang sehingga mengantuk saat berlatih. Konsepnya adalah istirahat yang membantu tubuh pulih setelah aktivitas. Langkah yang sesuai: **Membicarakan rutinitas tidur teratur dengan keluarga**.\n\n### 7. Perilaku sedenter\nGilang duduk lama mengerjakan tugas. Konsepnya adalah kegiatan terjaga dengan pengeluaran energi rendah seperti duduk lama. Langkah yang sesuai: **Menyisipkan jeda gerak yang aman dan melanjutkan tugas**.\n\n### 8. Hidrasi\nHana membawa air minum saat kegiatan luar ruang. Konsepnya adalah pemenuhan kebutuhan cairan tubuh. Langkah yang sesuai: **Minum air secara berkala dan mengikuti pengaturan guru**.\n\n### 9. Pemantauan respons tubuh\nIntan merasa pusing ketika bermain. Konsepnya adalah memperhatikan perubahan dan keluhan selama aktivitas. Langkah yang sesuai: **Berhenti di tempat aman dan segera memberi tahu guru**.\n\n### 10. Rencana gerak pribadi\nJoko sulit mengikuti jadwal gerak yang terlalu berat. Konsepnya adalah jadwal aktivitas realistis yang disesuaikan dengan keadaan diri. Langkah yang sesuai: **Memilih kegiatan yang disukai dan meningkatkannya bertahap dengan pendampingan**.\n\n## Ingat dan diskusikan\n\nWHO memberi acuan usia 5–17 tahun berupa rata-rata sedikitnya 60 menit aktivitas sedang hingga berat per hari sepanjang minggu. Waktu dapat terkumpul dari beberapa kegiatan. Mulai sesuai kemampuan, kurangi duduk berkepanjangan, dan bicarakan penyesuaian kesehatan dengan pendamping. Tidur serta pemulihan tetap diperlukan.\n\n## Misi belajar\n\nPilih satu situasi. Jelaskan alasan keputusan yang aman, akibat pilihan lain, dan satu perbaikan. Praktik gerak atau simulasi hanya dilakukan dengan pendampingan guru dan penyesuaian kemampuan."
+    }
+  ]
+}

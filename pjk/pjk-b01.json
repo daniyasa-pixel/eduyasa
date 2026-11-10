@@ -1,0 +1,664 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "PJOK",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PJK-B01",
+      "chapter_title": "Jago Bergerak: Taktik Juara",
+      "questions": [
+        {
+          "id": "PJK-B01-M01-001",
+          "type": "PG",
+          "text": "Istilah untuk gerak yang memindahkan tubuh dari satu tempat ke tempat lain adalah ...",
+          "options": [
+            "Membuka ruang",
+            "Gerak lokomotor",
+            "Gerak manipulatif",
+            "Gerak nonlokomotor"
+          ],
+          "answer": "Gerak lokomotor",
+          "discussion": "Berpindah dari garis awal ke tanda akhir merupakan contoh perpindahan tubuh."
+        },
+        {
+          "id": "PJK-B01-M01-002",
+          "type": "PG",
+          "text": "Alya perlu bergerak menuju titik yang kosong. Tindakan yang tepat adalah ...",
+          "options": [
+            "Tetap berdiri sambil memutar lengan",
+            "Mendorong teman agar jatuh",
+            "Berlari tanpa melihat arah",
+            "Berjalan atau berlari terkendali ke titik yang aman"
+          ],
+          "answer": "Berjalan atau berlari terkendali ke titik yang aman",
+          "discussion": "Perpindahan posisi membantu mencapai ruang tujuan. Berpindah dari garis awal ke tanda akhir merupakan contoh perpindahan tubuh."
+        },
+        {
+          "id": "PJK-B01-M01-003",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Alya perlu bergerak menuju titik yang kosong. Mengapa pilihan \"Berjalan atau berlari terkendali ke titik yang aman\" membantu?",
+          "options": [
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Perpindahan posisi membantu mencapai ruang tujuan",
+            "Aturan semua permainan selalu sama",
+            "Tenaga terbesar selalu cocok untuk setiap jarak"
+          ],
+          "answer": "Perpindahan posisi membantu mencapai ruang tujuan",
+          "discussion": "Perpindahan posisi membantu mencapai ruang tujuan. Berpindah dari garis awal ke tanda akhir merupakan contoh perpindahan tubuh."
+        },
+        {
+          "id": "PJK-B01-M01-004",
+          "type": "PG",
+          "text": "Alya perlu bergerak menuju titik yang kosong. Jika justru memilih \"Tetap berdiri sambil memutar lengan\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Tabrakan dapat terjadi bila arah perpindahan tidak diperhatikan",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+          ],
+          "answer": "Tabrakan dapat terjadi bila arah perpindahan tidak diperhatikan",
+          "discussion": "Tabrakan dapat terjadi bila arah perpindahan tidak diperhatikan. Pilihan yang dianjurkan: Berjalan atau berlari terkendali ke titik yang aman."
+        },
+        {
+          "id": "PJK-B01-M01-005",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Mendorong teman agar jatuh\" pada situasi: Alya perlu bergerak menuju titik yang kosong. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Berjalan atau berlari terkendali ke titik yang aman",
+            "Tetap berdiri sambil memutar lengan",
+            "Berlari tanpa melihat arah",
+            "Mendorong teman agar jatuh"
+          ],
+          "answer": "Berjalan atau berlari terkendali ke titik yang aman",
+          "discussion": "Perpindahan posisi membantu mencapai ruang tujuan. Berpindah dari garis awal ke tanda akhir merupakan contoh perpindahan tubuh."
+        },
+        {
+          "id": "PJK-B01-M01-006",
+          "type": "PG",
+          "text": "Istilah untuk gerak tubuh tanpa berpindah tempat utama adalah ...",
+          "options": [
+            "Membuka ruang",
+            "Gerak manipulatif",
+            "Gerak lokomotor",
+            "Gerak nonlokomotor"
+          ],
+          "answer": "Gerak nonlokomotor",
+          "discussion": "Membungkuk dan memutar badan di tempat berbeda dari berlari."
+        },
+        {
+          "id": "PJK-B01-M01-007",
+          "type": "PG",
+          "text": "Bima melakukan pemanasan di tempat yang cukup lapang. Tindakan yang tepat adalah ...",
+          "options": [
+            "Memaksa sendi sampai nyeri",
+            "Berlomba berlari keluar lapangan",
+            "Menekuk dan meluruskan tubuh secara terkendali di tempat",
+            "Mendorong pasangan dengan keras"
+          ],
+          "answer": "Menekuk dan meluruskan tubuh secara terkendali di tempat",
+          "discussion": "Gerak di tempat melatih pengendalian bagian tubuh tanpa berpindah posisi. Membungkuk dan memutar badan di tempat berbeda dari berlari."
+        },
+        {
+          "id": "PJK-B01-M01-008",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Bima melakukan pemanasan di tempat yang cukup lapang. Mengapa pilihan \"Menekuk dan meluruskan tubuh secara terkendali di tempat\" membantu?",
+          "options": [
+            "Gerak di tempat melatih pengendalian bagian tubuh tanpa berpindah posisi",
+            "Aturan semua permainan selalu sama",
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Tenaga terbesar selalu cocok untuk setiap jarak"
+          ],
+          "answer": "Gerak di tempat melatih pengendalian bagian tubuh tanpa berpindah posisi",
+          "discussion": "Gerak di tempat melatih pengendalian bagian tubuh tanpa berpindah posisi. Membungkuk dan memutar badan di tempat berbeda dari berlari."
+        },
+        {
+          "id": "PJK-B01-M01-009",
+          "type": "PG",
+          "text": "Bima melakukan pemanasan di tempat yang cukup lapang. Jika justru memilih \"Berlomba berlari keluar lapangan\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Sendi dapat terasa sakit bila rentang gerak dipaksakan",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+          ],
+          "answer": "Sendi dapat terasa sakit bila rentang gerak dipaksakan",
+          "discussion": "Sendi dapat terasa sakit bila rentang gerak dipaksakan. Pilihan yang dianjurkan: Menekuk dan meluruskan tubuh secara terkendali di tempat."
+        },
+        {
+          "id": "PJK-B01-M01-010",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Mendorong pasangan dengan keras\" pada situasi: Bima melakukan pemanasan di tempat yang cukup lapang. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Memaksa sendi sampai nyeri",
+            "Mendorong pasangan dengan keras",
+            "Berlomba berlari keluar lapangan",
+            "Menekuk dan meluruskan tubuh secara terkendali di tempat"
+          ],
+          "answer": "Menekuk dan meluruskan tubuh secara terkendali di tempat",
+          "discussion": "Gerak di tempat melatih pengendalian bagian tubuh tanpa berpindah posisi. Membungkuk dan memutar badan di tempat berbeda dari berlari."
+        },
+        {
+          "id": "PJK-B01-M01-011",
+          "type": "PG",
+          "text": "Istilah untuk gerak mengendalikan benda seperti bola dengan anggota tubuh adalah ...",
+          "options": [
+            "Gerak manipulatif",
+            "Gerak lokomotor",
+            "Gerak nonlokomotor",
+            "Membuka ruang"
+          ],
+          "answer": "Gerak manipulatif",
+          "discussion": "Menangkap dan menendang juga termasuk pengendalian benda."
+        },
+        {
+          "id": "PJK-B01-M01-012",
+          "type": "PG",
+          "text": "Citra berlatih mengarahkan bola ke sasaran. Tindakan yang tepat adalah ...",
+          "options": [
+            "Melempar bola lunak ke sasaran sesuai petunjuk guru",
+            "Melempar ke wajah teman",
+            "Menggerakkan badan tanpa benda lalu menyebutnya lemparan",
+            "Menggunakan benda tajam sebagai bola"
+          ],
+          "answer": "Melempar bola lunak ke sasaran sesuai petunjuk guru",
+          "discussion": "Pengendalian arah dan kekuatan membantu bola menuju sasaran. Menangkap dan menendang juga termasuk pengendalian benda."
+        },
+        {
+          "id": "PJK-B01-M01-013",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Citra berlatih mengarahkan bola ke sasaran. Mengapa pilihan \"Melempar bola lunak ke sasaran sesuai petunjuk guru\" membantu?",
+          "options": [
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Pengendalian arah dan kekuatan membantu bola menuju sasaran",
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Aturan semua permainan selalu sama"
+          ],
+          "answer": "Pengendalian arah dan kekuatan membantu bola menuju sasaran",
+          "discussion": "Pengendalian arah dan kekuatan membantu bola menuju sasaran. Menangkap dan menendang juga termasuk pengendalian benda."
+        },
+        {
+          "id": "PJK-B01-M01-014",
+          "type": "PG",
+          "text": "Citra berlatih mengarahkan bola ke sasaran. Jika justru memilih \"Menggerakkan badan tanpa benda lalu menyebutnya lemparan\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Teman dapat terluka bila sasaran lemparan diarahkan ke wajah"
+          ],
+          "answer": "Teman dapat terluka bila sasaran lemparan diarahkan ke wajah",
+          "discussion": "Teman dapat terluka bila sasaran lemparan diarahkan ke wajah. Pilihan yang dianjurkan: Melempar bola lunak ke sasaran sesuai petunjuk guru."
+        },
+        {
+          "id": "PJK-B01-M01-015",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Melempar ke wajah teman\" pada situasi: Citra berlatih mengarahkan bola ke sasaran. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Menggunakan benda tajam sebagai bola",
+            "Melempar ke wajah teman",
+            "Melempar bola lunak ke sasaran sesuai petunjuk guru",
+            "Menggerakkan badan tanpa benda lalu menyebutnya lemparan"
+          ],
+          "answer": "Melempar bola lunak ke sasaran sesuai petunjuk guru",
+          "discussion": "Pengendalian arah dan kekuatan membantu bola menuju sasaran. Menangkap dan menendang juga termasuk pengendalian benda."
+        },
+        {
+          "id": "PJK-B01-M01-016",
+          "type": "PG",
+          "text": "Istilah untuk berpindah ke tempat bebas agar dapat menerima operan adalah ...",
+          "options": [
+            "Membuka ruang",
+            "Gerak manipulatif",
+            "Gerak lokomotor",
+            "Gerak nonlokomotor"
+          ],
+          "answer": "Membuka ruang",
+          "discussion": "Lihat posisi kawan dan lawan sebelum memilih tempat menerima bola."
+        },
+        {
+          "id": "PJK-B01-M01-017",
+          "type": "PG",
+          "text": "Danu dijaga lawan dalam permainan beregu. Tindakan yang tepat adalah ...",
+          "options": [
+            "Bergerak ke ruang aman yang tidak tertutup penjagaan",
+            "Menarik baju lawan",
+            "Berkumpul rapat di sekitar pembawa bola",
+            "Berdiri di belakang penghalang tanpa terlihat"
+          ],
+          "answer": "Bergerak ke ruang aman yang tidak tertutup penjagaan",
+          "discussion": "Ruang bebas memberi jalur operan yang lebih jelas. Lihat posisi kawan dan lawan sebelum memilih tempat menerima bola."
+        },
+        {
+          "id": "PJK-B01-M01-018",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Danu dijaga lawan dalam permainan beregu. Mengapa pilihan \"Bergerak ke ruang aman yang tidak tertutup penjagaan\" membantu?",
+          "options": [
+            "Aturan semua permainan selalu sama",
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Ruang bebas memberi jalur operan yang lebih jelas",
+            "Tenaga terbesar selalu cocok untuk setiap jarak"
+          ],
+          "answer": "Ruang bebas memberi jalur operan yang lebih jelas",
+          "discussion": "Ruang bebas memberi jalur operan yang lebih jelas. Lihat posisi kawan dan lawan sebelum memilih tempat menerima bola."
+        },
+        {
+          "id": "PJK-B01-M01-019",
+          "type": "PG",
+          "text": "Danu dijaga lawan dalam permainan beregu. Jika justru memilih \"Berkumpul rapat di sekitar pembawa bola\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Jalur operan mudah tertutup jika semua pemain menumpuk"
+          ],
+          "answer": "Jalur operan mudah tertutup jika semua pemain menumpuk",
+          "discussion": "Jalur operan mudah tertutup jika semua pemain menumpuk. Pilihan yang dianjurkan: Bergerak ke ruang aman yang tidak tertutup penjagaan."
+        },
+        {
+          "id": "PJK-B01-M01-020",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Menarik baju lawan\" pada situasi: Danu dijaga lawan dalam permainan beregu. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Menarik baju lawan",
+            "Bergerak ke ruang aman yang tidak tertutup penjagaan",
+            "Berdiri di belakang penghalang tanpa terlihat",
+            "Berkumpul rapat di sekitar pembawa bola"
+          ],
+          "answer": "Bergerak ke ruang aman yang tidak tertutup penjagaan",
+          "discussion": "Ruang bebas memberi jalur operan yang lebih jelas. Lihat posisi kawan dan lawan sebelum memilih tempat menerima bola."
+        },
+        {
+          "id": "PJK-B01-M01-021",
+          "type": "PG",
+          "text": "Istilah untuk menyesuaikan tenaga gerak dengan jarak dan tujuan adalah ...",
+          "options": [
+            "Mengatur kekuatan",
+            "Gerak nonlokomotor",
+            "Gerak manipulatif",
+            "Gerak lokomotor"
+          ],
+          "answer": "Mengatur kekuatan",
+          "discussion": "Jarak lebih jauh dapat memerlukan penyesuaian tenaga dengan teknik yang benar."
+        },
+        {
+          "id": "PJK-B01-M01-022",
+          "type": "PG",
+          "text": "Eka mengoper bola kepada teman yang dekat. Tindakan yang tepat adalah ...",
+          "options": [
+            "Mengoper ke arah luar permainan tanpa tujuan",
+            "Melempar tanpa melihat jarak",
+            "Menggunakan tenaga secukupnya agar bola mudah diterima",
+            "Selalu memakai tenaga paling besar"
+          ],
+          "answer": "Menggunakan tenaga secukupnya agar bola mudah diterima",
+          "discussion": "Operan dekat membutuhkan pengendalian agar penerima dapat menangkap. Jarak lebih jauh dapat memerlukan penyesuaian tenaga dengan teknik yang benar."
+        },
+        {
+          "id": "PJK-B01-M01-023",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Eka mengoper bola kepada teman yang dekat. Mengapa pilihan \"Menggunakan tenaga secukupnya agar bola mudah diterima\" membantu?",
+          "options": [
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Operan dekat membutuhkan pengendalian agar penerima dapat menangkap",
+            "Aturan semua permainan selalu sama"
+          ],
+          "answer": "Operan dekat membutuhkan pengendalian agar penerima dapat menangkap",
+          "discussion": "Operan dekat membutuhkan pengendalian agar penerima dapat menangkap. Jarak lebih jauh dapat memerlukan penyesuaian tenaga dengan teknik yang benar."
+        },
+        {
+          "id": "PJK-B01-M01-024",
+          "type": "PG",
+          "text": "Eka mengoper bola kepada teman yang dekat. Jika justru memilih \"Selalu memakai tenaga paling besar\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Bola dapat melewati penerima jika tenaga terlalu besar",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+          ],
+          "answer": "Bola dapat melewati penerima jika tenaga terlalu besar",
+          "discussion": "Bola dapat melewati penerima jika tenaga terlalu besar. Pilihan yang dianjurkan: Menggunakan tenaga secukupnya agar bola mudah diterima."
+        },
+        {
+          "id": "PJK-B01-M01-025",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Melempar tanpa melihat jarak\" pada situasi: Eka mengoper bola kepada teman yang dekat. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Selalu memakai tenaga paling besar",
+            "Melempar tanpa melihat jarak",
+            "Menggunakan tenaga secukupnya agar bola mudah diterima",
+            "Mengoper ke arah luar permainan tanpa tujuan"
+          ],
+          "answer": "Menggunakan tenaga secukupnya agar bola mudah diterima",
+          "discussion": "Operan dekat membutuhkan pengendalian agar penerima dapat menangkap. Jarak lebih jauh dapat memerlukan penyesuaian tenaga dengan teknik yang benar."
+        },
+        {
+          "id": "PJK-B01-M01-026",
+          "type": "PG",
+          "text": "Istilah untuk menyesuaikan jalur gerak dengan keadaan sekitar adalah ...",
+          "options": [
+            "Gerak manipulatif",
+            "Mengubah arah",
+            "Gerak nonlokomotor",
+            "Gerak lokomotor"
+          ],
+          "answer": "Mengubah arah",
+          "discussion": "Perhatikan ruang, kecepatan, dan giliran saat berbelok."
+        },
+        {
+          "id": "PJK-B01-M01-027",
+          "type": "PG",
+          "text": "Farah mendekati rintangan dalam lintasan latihan. Tindakan yang tepat adalah ...",
+          "options": [
+            "Memperlambat lalu berbelok melalui jalur yang disediakan",
+            "Menabrak rintangan supaya cepat",
+            "Memotong jalur teman tanpa melihat",
+            "Melompat ke tempat yang belum diperiksa"
+          ],
+          "answer": "Memperlambat lalu berbelok melalui jalur yang disediakan",
+          "discussion": "Perubahan arah terkendali membantu melewati rintangan dengan aman. Perhatikan ruang, kecepatan, dan giliran saat berbelok."
+        },
+        {
+          "id": "PJK-B01-M01-028",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Farah mendekati rintangan dalam lintasan latihan. Mengapa pilihan \"Memperlambat lalu berbelok melalui jalur yang disediakan\" membantu?",
+          "options": [
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Aturan semua permainan selalu sama",
+            "Perubahan arah terkendali membantu melewati rintangan dengan aman"
+          ],
+          "answer": "Perubahan arah terkendali membantu melewati rintangan dengan aman",
+          "discussion": "Perubahan arah terkendali membantu melewati rintangan dengan aman. Perhatikan ruang, kecepatan, dan giliran saat berbelok."
+        },
+        {
+          "id": "PJK-B01-M01-029",
+          "type": "PG",
+          "text": "Farah mendekati rintangan dalam lintasan latihan. Jika justru memilih \"Menabrak rintangan supaya cepat\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Rintangan dapat tertabrak jika gerak tidak disesuaikan"
+          ],
+          "answer": "Rintangan dapat tertabrak jika gerak tidak disesuaikan",
+          "discussion": "Rintangan dapat tertabrak jika gerak tidak disesuaikan. Pilihan yang dianjurkan: Memperlambat lalu berbelok melalui jalur yang disediakan."
+        },
+        {
+          "id": "PJK-B01-M01-030",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Memotong jalur teman tanpa melihat\" pada situasi: Farah mendekati rintangan dalam lintasan latihan. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Menabrak rintangan supaya cepat",
+            "Memperlambat lalu berbelok melalui jalur yang disediakan",
+            "Melompat ke tempat yang belum diperiksa",
+            "Memotong jalur teman tanpa melihat"
+          ],
+          "answer": "Memperlambat lalu berbelok melalui jalur yang disediakan",
+          "discussion": "Perubahan arah terkendali membantu melewati rintangan dengan aman. Perhatikan ruang, kecepatan, dan giliran saat berbelok."
+        },
+        {
+          "id": "PJK-B01-M01-031",
+          "type": "PG",
+          "text": "Istilah untuk gerak yang diselaraskan dengan ketukan atau hitungan adalah ...",
+          "options": [
+            "Gerak nonlokomotor",
+            "Gerak manipulatif",
+            "Gerak lokomotor",
+            "Gerak berirama"
+          ],
+          "answer": "Gerak berirama",
+          "discussion": "Mulai dengan pola langkah sederhana sebelum menambah variasi."
+        },
+        {
+          "id": "PJK-B01-M01-032",
+          "type": "PG",
+          "text": "Gilang mengikuti rangkaian langkah berirama. Tindakan yang tepat adalah ...",
+          "options": [
+            "Memaksakan gerak sampai sakit",
+            "Mengikuti teman tanpa memperhatikan hitungan",
+            "Mendorong orang yang berbeda tempo",
+            "Menyesuaikan langkah dengan hitungan dan kemampuan tubuh"
+          ],
+          "answer": "Menyesuaikan langkah dengan hitungan dan kemampuan tubuh",
+          "discussion": "Hitungan membantu mengatur waktu gerakan. Mulai dengan pola langkah sederhana sebelum menambah variasi."
+        },
+        {
+          "id": "PJK-B01-M01-033",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Gilang mengikuti rangkaian langkah berirama. Mengapa pilihan \"Menyesuaikan langkah dengan hitungan dan kemampuan tubuh\" membantu?",
+          "options": [
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Hitungan membantu mengatur waktu gerakan",
+            "Aturan semua permainan selalu sama",
+            "Tenaga terbesar selalu cocok untuk setiap jarak"
+          ],
+          "answer": "Hitungan membantu mengatur waktu gerakan",
+          "discussion": "Hitungan membantu mengatur waktu gerakan. Mulai dengan pola langkah sederhana sebelum menambah variasi."
+        },
+        {
+          "id": "PJK-B01-M01-034",
+          "type": "PG",
+          "text": "Gilang mengikuti rangkaian langkah berirama. Jika justru memilih \"Memaksakan gerak sampai sakit\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Kelompok kehilangan keselarasan bila hitungan diabaikan",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian"
+          ],
+          "answer": "Kelompok kehilangan keselarasan bila hitungan diabaikan",
+          "discussion": "Kelompok kehilangan keselarasan bila hitungan diabaikan. Pilihan yang dianjurkan: Menyesuaikan langkah dengan hitungan dan kemampuan tubuh."
+        },
+        {
+          "id": "PJK-B01-M01-035",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Mengikuti teman tanpa memperhatikan hitungan\" pada situasi: Gilang mengikuti rangkaian langkah berirama. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Mendorong orang yang berbeda tempo",
+            "Memaksakan gerak sampai sakit",
+            "Menyesuaikan langkah dengan hitungan dan kemampuan tubuh",
+            "Mengikuti teman tanpa memperhatikan hitungan"
+          ],
+          "answer": "Menyesuaikan langkah dengan hitungan dan kemampuan tubuh",
+          "discussion": "Hitungan membantu mengatur waktu gerakan. Mulai dengan pola langkah sederhana sebelum menambah variasi."
+        },
+        {
+          "id": "PJK-B01-M01-036",
+          "type": "PG",
+          "text": "Istilah untuk menggunakan prinsip permainan yang relevan pada situasi baru adalah ...",
+          "options": [
+            "Gerak lokomotor",
+            "Gerak manipulatif",
+            "Transfer strategi",
+            "Gerak nonlokomotor"
+          ],
+          "answer": "Transfer strategi",
+          "discussion": "Bandingkan tujuan, alat, ruang, dan aturan sebelum memindahkan strategi."
+        },
+        {
+          "id": "PJK-B01-M01-037",
+          "type": "PG",
+          "text": "Hana berpindah dari permainan bola tangan ke futsal modifikasi. Tindakan yang tepat adalah ...",
+          "options": [
+            "Menganggap semua aturan kedua permainan identik",
+            "Menggunakan tangan meski aturan melarang",
+            "Menolak mempelajari cara mengontrol bola",
+            "Menerapkan prinsip membuka ruang sambil menyesuaikan aturan"
+          ],
+          "answer": "Menerapkan prinsip membuka ruang sambil menyesuaikan aturan",
+          "discussion": "Prinsip ruang dapat dipakai kembali meskipun teknik serta aturan berbeda. Bandingkan tujuan, alat, ruang, dan aturan sebelum memindahkan strategi."
+        },
+        {
+          "id": "PJK-B01-M01-038",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Hana berpindah dari permainan bola tangan ke futsal modifikasi. Mengapa pilihan \"Menerapkan prinsip membuka ruang sambil menyesuaikan aturan\" membantu?",
+          "options": [
+            "Aturan semua permainan selalu sama",
+            "Prinsip ruang dapat dipakai kembali meskipun teknik serta aturan berbeda",
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Posisi pemain tidak memengaruhi jalur operan"
+          ],
+          "answer": "Prinsip ruang dapat dipakai kembali meskipun teknik serta aturan berbeda",
+          "discussion": "Prinsip ruang dapat dipakai kembali meskipun teknik serta aturan berbeda. Bandingkan tujuan, alat, ruang, dan aturan sebelum memindahkan strategi."
+        },
+        {
+          "id": "PJK-B01-M01-039",
+          "type": "PG",
+          "text": "Hana berpindah dari permainan bola tangan ke futsal modifikasi. Jika justru memilih \"Menganggap semua aturan kedua permainan identik\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pelanggaran terjadi bila aturan lama diterapkan tanpa penyesuaian",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+          ],
+          "answer": "Pelanggaran terjadi bila aturan lama diterapkan tanpa penyesuaian",
+          "discussion": "Pelanggaran terjadi bila aturan lama diterapkan tanpa penyesuaian. Pilihan yang dianjurkan: Menerapkan prinsip membuka ruang sambil menyesuaikan aturan."
+        },
+        {
+          "id": "PJK-B01-M01-040",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Menolak mempelajari cara mengontrol bola\" pada situasi: Hana berpindah dari permainan bola tangan ke futsal modifikasi. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Menganggap semua aturan kedua permainan identik",
+            "Menerapkan prinsip membuka ruang sambil menyesuaikan aturan",
+            "Menolak mempelajari cara mengontrol bola",
+            "Menggunakan tangan meski aturan melarang"
+          ],
+          "answer": "Menerapkan prinsip membuka ruang sambil menyesuaikan aturan",
+          "discussion": "Prinsip ruang dapat dipakai kembali meskipun teknik serta aturan berbeda. Bandingkan tujuan, alat, ruang, dan aturan sebelum memindahkan strategi."
+        },
+        {
+          "id": "PJK-B01-M01-041",
+          "type": "PG",
+          "text": "Istilah untuk penyesuaian alat ruang atau aturan untuk tujuan belajar adalah ...",
+          "options": [
+            "Gerak nonlokomotor",
+            "Modifikasi permainan",
+            "Gerak lokomotor",
+            "Gerak manipulatif"
+          ],
+          "answer": "Modifikasi permainan",
+          "discussion": "Perubahan perlu dijelaskan dan disepakati sebelum permainan dimulai."
+        },
+        {
+          "id": "PJK-B01-M01-042",
+          "type": "PG",
+          "text": "Intan belajar menangkap dengan teman yang baru mulai. Tindakan yang tepat adalah ...",
+          "options": [
+            "Memperkecil ruang sampai saling bertabrakan",
+            "Memakai bola keras pada jarak sangat dekat",
+            "Mengubah aturan diam-diam",
+            "Menggunakan bola lunak dan jarak yang disepakati guru"
+          ],
+          "answer": "Menggunakan bola lunak dan jarak yang disepakati guru",
+          "discussion": "Alat serta jarak yang sesuai memberi kesempatan berlatih dengan aman. Perubahan perlu dijelaskan dan disepakati sebelum permainan dimulai."
+        },
+        {
+          "id": "PJK-B01-M01-043",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Intan belajar menangkap dengan teman yang baru mulai. Mengapa pilihan \"Menggunakan bola lunak dan jarak yang disepakati guru\" membantu?",
+          "options": [
+            "Aturan semua permainan selalu sama",
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Alat serta jarak yang sesuai memberi kesempatan berlatih dengan aman"
+          ],
+          "answer": "Alat serta jarak yang sesuai memberi kesempatan berlatih dengan aman",
+          "discussion": "Alat serta jarak yang sesuai memberi kesempatan berlatih dengan aman. Perubahan perlu dijelaskan dan disepakati sebelum permainan dimulai."
+        },
+        {
+          "id": "PJK-B01-M01-044",
+          "type": "PG",
+          "text": "Intan belajar menangkap dengan teman yang baru mulai. Jika justru memilih \"Memakai bola keras pada jarak sangat dekat\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Kesempatan belajar berkurang bila tingkat kesulitan tidak sesuai kemampuan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+          ],
+          "answer": "Kesempatan belajar berkurang bila tingkat kesulitan tidak sesuai kemampuan",
+          "discussion": "Kesempatan belajar berkurang bila tingkat kesulitan tidak sesuai kemampuan. Pilihan yang dianjurkan: Menggunakan bola lunak dan jarak yang disepakati guru."
+        },
+        {
+          "id": "PJK-B01-M01-045",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Memperkecil ruang sampai saling bertabrakan\" pada situasi: Intan belajar menangkap dengan teman yang baru mulai. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Menggunakan bola lunak dan jarak yang disepakati guru",
+            "Mengubah aturan diam-diam",
+            "Memakai bola keras pada jarak sangat dekat",
+            "Memperkecil ruang sampai saling bertabrakan"
+          ],
+          "answer": "Menggunakan bola lunak dan jarak yang disepakati guru",
+          "discussion": "Alat serta jarak yang sesuai memberi kesempatan berlatih dengan aman. Perubahan perlu dijelaskan dan disepakati sebelum permainan dimulai."
+        },
+        {
+          "id": "PJK-B01-M01-046",
+          "type": "PG",
+          "text": "Istilah untuk menilai keputusan gerak berdasarkan hasil pengamatan adalah ...",
+          "options": [
+            "Gerak nonlokomotor",
+            "Gerak manipulatif",
+            "Gerak lokomotor",
+            "Evaluasi strategi"
+          ],
+          "answer": "Evaluasi strategi",
+          "discussion": "Nilai perubahan melalui percobaan berikutnya, bukan hanya tebakan."
+        },
+        {
+          "id": "PJK-B01-M01-047",
+          "type": "PG",
+          "text": "Joko melihat operan timnya sering dipotong. Tindakan yang tepat adalah ...",
+          "options": [
+            "Mengabaikan masukan guru",
+            "Menyalahkan satu teman tanpa melihat permainan",
+            "Membahas posisi dan jalur operan lalu mencoba perbaikan",
+            "Mengulang cara sama tanpa pengamatan"
+          ],
+          "answer": "Membahas posisi dan jalur operan lalu mencoba perbaikan",
+          "discussion": "Catatan jalur operan membantu memilih perbaikan yang bisa diuji. Nilai perubahan melalui percobaan berikutnya, bukan hanya tebakan."
+        },
+        {
+          "id": "PJK-B01-M01-048",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Joko melihat operan timnya sering dipotong. Mengapa pilihan \"Membahas posisi dan jalur operan lalu mencoba perbaikan\" membantu?",
+          "options": [
+            "Posisi pemain tidak memengaruhi jalur operan",
+            "Tenaga terbesar selalu cocok untuk setiap jarak",
+            "Catatan jalur operan membantu memilih perbaikan yang bisa diuji",
+            "Aturan semua permainan selalu sama"
+          ],
+          "answer": "Catatan jalur operan membantu memilih perbaikan yang bisa diuji",
+          "discussion": "Catatan jalur operan membantu memilih perbaikan yang bisa diuji. Nilai perubahan melalui percobaan berikutnya, bukan hanya tebakan."
+        },
+        {
+          "id": "PJK-B01-M01-049",
+          "type": "PG",
+          "text": "Joko melihat operan timnya sering dipotong. Jika justru memilih \"Menyalahkan satu teman tanpa melihat permainan\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Kesalahan yang sama terus berulang jika penyebabnya tidak diperiksa"
+          ],
+          "answer": "Kesalahan yang sama terus berulang jika penyebabnya tidak diperiksa",
+          "discussion": "Kesalahan yang sama terus berulang jika penyebabnya tidak diperiksa. Pilihan yang dianjurkan: Membahas posisi dan jalur operan lalu mencoba perbaikan."
+        },
+        {
+          "id": "PJK-B01-M01-050",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Mengulang cara sama tanpa pengamatan\" pada situasi: Joko melihat operan timnya sering dipotong. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Membahas posisi dan jalur operan lalu mencoba perbaikan",
+            "Mengulang cara sama tanpa pengamatan",
+            "Menyalahkan satu teman tanpa melihat permainan",
+            "Mengabaikan masukan guru"
+          ],
+          "answer": "Membahas posisi dan jalur operan lalu mencoba perbaikan",
+          "discussion": "Catatan jalur operan membantu memilih perbaikan yang bisa diuji. Nilai perubahan melalui percobaan berikutnya, bukan hanya tebakan."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "PJOK",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "PJK-B01",
+  "chapter_title": "Jago Bergerak: Taktik Juara",
+  "source": {
+    "title": "Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SD/MI Kelas VI",
+    "year": 2025,
+    "authors": [
+      "Tri Agus Prasetijo",
+      "Alda Indrawan"
+    ],
+    "isbn_pdf": "978-634-00-3177-5",
+    "reading_url": "https://static.sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/PJOK_BG_KLS_VI.pdf"
+  },
+  "learning_objectives": [
+    "Gerak lokomotor",
+    "Gerak nonlokomotor",
+    "Gerak manipulatif",
+    "Membuka ruang",
+    "Mengatur kekuatan",
+    "Mengubah arah",
+    "Gerak berirama",
+    "Transfer strategi",
+    "Modifikasi permainan",
+    "Evaluasi strategi"
+  ],
+  "modules": [
+    {
+      "id": "PJK-B01-MOD-01",
+      "version": "MOD-01",
+      "title": "Panduan ringkas: Jago Bergerak: Taktik Juara",
+      "content": "# Jago Bergerak: Taktik Juara\n\nGerak yang berhasil bukan hanya soal tenaga. Perhatikan tujuan, ruang, alat, waktu, dan orang di sekitar. Kamu akan membedakan gerak dasar lalu menyesuaikan strategi pada permainan yang berbeda. Latihan dilakukan bersama guru dengan alat serta ruang aman.\n\n![Ilustrasi belajar PJOK Bab 1](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-materi.svg)\n\n## Kenali dan terapkan\n\n### 1. Gerak lokomotor\nGerak yang memindahkan tubuh dari satu tempat ke tempat lain. Pilih langkah berikut: **Berjalan atau berlari terkendali ke titik yang aman**.\n\n### 2. Gerak nonlokomotor\nGerak tubuh tanpa berpindah tempat utama. Pilih langkah berikut: **Menekuk dan meluruskan tubuh secara terkendali di tempat**.\n\n### 3. Gerak manipulatif\nGerak mengendalikan benda seperti bola dengan anggota tubuh. Pilih langkah berikut: **Melempar bola lunak ke sasaran sesuai petunjuk guru**.\n\n### 4. Membuka ruang\nBerpindah ke tempat bebas agar dapat menerima operan. Pilih langkah berikut: **Bergerak ke ruang aman yang tidak tertutup penjagaan**.\n\n### 5. Mengatur kekuatan\nMenyesuaikan tenaga gerak dengan jarak dan tujuan. Pilih langkah berikut: **Menggunakan tenaga secukupnya agar bola mudah diterima**.\n\n![Alur belajar dan refleksi Bab 1](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-langkah.svg)\n\n### 6. Mengubah arah\nMenyesuaikan jalur gerak dengan keadaan sekitar. Pilih langkah berikut: **Memperlambat lalu berbelok melalui jalur yang disediakan**.\n\n### 7. Gerak berirama\nGerak yang diselaraskan dengan ketukan atau hitungan. Pilih langkah berikut: **Menyesuaikan langkah dengan hitungan dan kemampuan tubuh**.\n\n### 8. Transfer strategi\nMenggunakan prinsip permainan yang relevan pada situasi baru. Pilih langkah berikut: **Menerapkan prinsip membuka ruang sambil menyesuaikan aturan**.\n\n### 9. Modifikasi permainan\nPenyesuaian alat ruang atau aturan untuk tujuan belajar. Pilih langkah berikut: **Menggunakan bola lunak dan jarak yang disepakati guru**.\n\n### 10. Evaluasi strategi\nMenilai keputusan gerak berdasarkan hasil pengamatan. Pilih langkah berikut: **Membahas posisi dan jalur operan lalu mencoba perbaikan**.\n\n## Ingat dan diskusikan\n\nSebelum mencoba, periksa tempat dan alat, lakukan pemanasan, serta ikuti giliran. Amati hasil operan atau perpindahan, kemudian diskusikan satu perbaikan dengan alasan. Jangan memaksa gerak yang menimbulkan nyeri.\n\n## Misi belajar\n\nPilih satu situasi. Jelaskan alasan keputusan yang aman, akibat pilihan lain, dan satu perbaikan. Praktik gerak atau simulasi hanya dilakukan dengan pendampingan guru dan penyesuaian kemampuan."
+    },
+    {
+      "id": "PJK-B01-MOD-02",
+      "version": "MOD-02",
+      "title": "Belajar lewat situasi: Jago Bergerak: Taktik Juara",
+      "content": "# Jago Bergerak: Taktik Juara\n\nGerak yang berhasil bukan hanya soal tenaga. Perhatikan tujuan, ruang, alat, waktu, dan orang di sekitar. Kamu akan membedakan gerak dasar lalu menyesuaikan strategi pada permainan yang berbeda. Latihan dilakukan bersama guru dengan alat serta ruang aman.\n\n![Alur belajar dan refleksi Bab 1](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-langkah.svg)\n\n## Jelajahi situasi sehari-hari\n\n### 1. Gerak lokomotor\nAlya perlu bergerak menuju titik yang kosong. Konsepnya adalah gerak yang memindahkan tubuh dari satu tempat ke tempat lain. Langkah yang sesuai: **Berjalan atau berlari terkendali ke titik yang aman**.\n\n### 2. Gerak nonlokomotor\nBima melakukan pemanasan di tempat yang cukup lapang. Konsepnya adalah gerak tubuh tanpa berpindah tempat utama. Langkah yang sesuai: **Menekuk dan meluruskan tubuh secara terkendali di tempat**.\n\n### 3. Gerak manipulatif\nCitra berlatih mengarahkan bola ke sasaran. Konsepnya adalah gerak mengendalikan benda seperti bola dengan anggota tubuh. Langkah yang sesuai: **Melempar bola lunak ke sasaran sesuai petunjuk guru**.\n\n### 4. Membuka ruang\nDanu dijaga lawan dalam permainan beregu. Konsepnya adalah berpindah ke tempat bebas agar dapat menerima operan. Langkah yang sesuai: **Bergerak ke ruang aman yang tidak tertutup penjagaan**.\n\n### 5. Mengatur kekuatan\nEka mengoper bola kepada teman yang dekat. Konsepnya adalah menyesuaikan tenaga gerak dengan jarak dan tujuan. Langkah yang sesuai: **Menggunakan tenaga secukupnya agar bola mudah diterima**.\n\n![Ilustrasi belajar PJOK Bab 1](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b01-materi.svg)\n\n### 6. Mengubah arah\nFarah mendekati rintangan dalam lintasan latihan. Konsepnya adalah menyesuaikan jalur gerak dengan keadaan sekitar. Langkah yang sesuai: **Memperlambat lalu berbelok melalui jalur yang disediakan**.\n\n### 7. Gerak berirama\nGilang mengikuti rangkaian langkah berirama. Konsepnya adalah gerak yang diselaraskan dengan ketukan atau hitungan. Langkah yang sesuai: **Menyesuaikan langkah dengan hitungan dan kemampuan tubuh**.\n\n### 8. Transfer strategi\nHana berpindah dari permainan bola tangan ke futsal modifikasi. Konsepnya adalah menggunakan prinsip permainan yang relevan pada situasi baru. Langkah yang sesuai: **Menerapkan prinsip membuka ruang sambil menyesuaikan aturan**.\n\n### 9. Modifikasi permainan\nIntan belajar menangkap dengan teman yang baru mulai. Konsepnya adalah penyesuaian alat ruang atau aturan untuk tujuan belajar. Langkah yang sesuai: **Menggunakan bola lunak dan jarak yang disepakati guru**.\n\n### 10. Evaluasi strategi\nJoko melihat operan timnya sering dipotong. Konsepnya adalah menilai keputusan gerak berdasarkan hasil pengamatan. Langkah yang sesuai: **Membahas posisi dan jalur operan lalu mencoba perbaikan**.\n\n## Ingat dan diskusikan\n\nSebelum mencoba, periksa tempat dan alat, lakukan pemanasan, serta ikuti giliran. Amati hasil operan atau perpindahan, kemudian diskusikan satu perbaikan dengan alasan. Jangan memaksa gerak yang menimbulkan nyeri.\n\n## Misi belajar\n\nPilih satu situasi. Jelaskan alasan keputusan yang aman, akibat pilihan lain, dan satu perbaikan. Praktik gerak atau simulasi hanya dilakukan dengan pendampingan guru dan penyesuaian kemampuan."
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "PJOK",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PJK-B04",
+      "chapter_title": "Makanan Sehat Bahan Bakar untuk Bergerak",
+      "questions": [
+        {
+          "id": "PJK-B04-M01-051",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Keragaman membantu memenuhi kebutuhan zat gizi yang berbeda. Porsi disesuaikan dengan kondisi serta kebutuhan, bukan dipaksakan sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-01.svg",
+            "alt": "Alya memilih bekal untuk kegiatan sekolah. Pilihan P: Memilih makanan pokok lauk sayur buah dan air sesuai kebutuhan. Pilihan Q: Memilih satu makanan saja untuk semua kebutuhan."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-052",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Keragaman membantu memenuhi kebutuhan zat gizi yang berbeda",
+            "Informasi per sajian selalu sama dengan seluruh kemasan"
+          ],
+          "answer": "Keragaman membantu memenuhi kebutuhan zat gizi yang berbeda",
+          "discussion": "Keragaman membantu memenuhi kebutuhan zat gizi yang berbeda. Porsi disesuaikan dengan kondisi serta kebutuhan, bukan dipaksakan sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-01.svg",
+            "alt": "Alya memilih bekal untuk kegiatan sekolah. Pilihan P: Memilih makanan pokok lauk sayur buah dan air sesuai kebutuhan. Pilihan Q: Memilih satu makanan saja untuk semua kebutuhan."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-053",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Makanan pokok menyediakan karbohidrat untuk kebutuhan energi. Sumber pangan pokok dapat berbeda antarwilayah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-02.svg",
+            "alt": "Bima mencari sumber tenaga pada bekalnya. Pilihan P: Menganggap air putih mengandung energi yang sama dengan nasi. Pilihan Q: Memilih makanan pokok seperti nasi jagung atau kentang."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-054",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Makanan pokok menyediakan karbohidrat untuk kebutuhan energi",
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi"
+          ],
+          "answer": "Makanan pokok menyediakan karbohidrat untuk kebutuhan energi",
+          "discussion": "Makanan pokok menyediakan karbohidrat untuk kebutuhan energi. Sumber pangan pokok dapat berbeda antarwilayah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-02.svg",
+            "alt": "Bima mencari sumber tenaga pada bekalnya. Pilihan P: Menganggap air putih mengandung energi yang sama dengan nasi. Pilihan Q: Memilih makanan pokok seperti nasi jagung atau kentang."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-055",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Beragam lauk dapat menjadi sumber protein. Pilihan lauk mempertimbangkan kesehatan, ketersediaan, serta kebiasaan keluarga.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-03.svg",
+            "alt": "Citra melengkapi nasi dengan lauk. Pilihan P: Memilih lauk seperti tempe telur ikan atau kacang sesuai kebutuhan dan alergi. Pilihan Q: Menganggap lauk tidak perlu sama sekali."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-056",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Beragam lauk dapat menjadi sumber protein"
+          ],
+          "answer": "Beragam lauk dapat menjadi sumber protein",
+          "discussion": "Beragam lauk dapat menjadi sumber protein. Pilihan lauk mempertimbangkan kesehatan, ketersediaan, serta kebiasaan keluarga.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-03.svg",
+            "alt": "Citra melengkapi nasi dengan lauk. Pilihan P: Memilih lauk seperti tempe telur ikan atau kacang sesuai kebutuhan dan alergi. Pilihan Q: Menganggap lauk tidak perlu sama sekali."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-057",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Serat serta zat gizi membantu fungsi tubuh sebagai bagian pola makan beragam. Cuci atau siapkan bahan sesuai jenis dan cara konsumsi yang aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-04.svg",
+            "alt": "Danu menyusun piring makan yang lebih beragam. Pilihan P: Menganggap warna permen menggantikan semua manfaat buah. Pilihan Q: Menambahkan sayur dan buah yang aman serta layak makan."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-058",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Serat serta zat gizi membantu fungsi tubuh sebagai bagian pola makan beragam",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi"
+          ],
+          "answer": "Serat serta zat gizi membantu fungsi tubuh sebagai bagian pola makan beragam",
+          "discussion": "Serat serta zat gizi membantu fungsi tubuh sebagai bagian pola makan beragam. Cuci atau siapkan bahan sesuai jenis dan cara konsumsi yang aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-04.svg",
+            "alt": "Danu menyusun piring makan yang lebih beragam. Pilihan P: Menganggap warna permen menggantikan semua manfaat buah. Pilihan Q: Menambahkan sayur dan buah yang aman serta layak makan."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-059",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Pembagian memberi gambaran kelompok pangan yang saling melengkapi. Panduan umum perlu disesuaikan dengan kebutuhan dan kondisi kesehatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-05.svg",
+            "alt": "Eka mengenal acuan pembagian piring makan. Pilihan P: Mengisi sekitar setengah piring dengan sayur dan buah serta sisanya makanan pokok dan lauk. Pilihan Q: Mengisi seluruh piring hanya makanan pokok setiap kali makan."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-060",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Pembagian memberi gambaran kelompok pangan yang saling melengkapi",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Informasi per sajian selalu sama dengan seluruh kemasan"
+          ],
+          "answer": "Pembagian memberi gambaran kelompok pangan yang saling melengkapi",
+          "discussion": "Pembagian memberi gambaran kelompok pangan yang saling melengkapi. Panduan umum perlu disesuaikan dengan kebutuhan dan kondisi kesehatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-05.svg",
+            "alt": "Eka mengenal acuan pembagian piring makan. Pilihan P: Mengisi sekitar setengah piring dengan sayur dan buah serta sisanya makanan pokok dan lauk. Pilihan Q: Mengisi seluruh piring hanya makanan pokok setiap kali makan."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-061",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Jumlah yang dikonsumsi memengaruhi total zat gizi dari produk. Untuk membandingkan produk gunakan dasar jumlah yang sebanding.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-06.svg",
+            "alt": "Farah membaca label minuman dua sajian per kemasan. Pilihan P: Menganggap angka per sajian pasti sama dengan seluruh kemasan. Pilihan Q: Menghubungkan angka zat gizi dengan jumlah sajian yang diminum."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-062",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Jumlah yang dikonsumsi memengaruhi total zat gizi dari produk",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi"
+          ],
+          "answer": "Jumlah yang dikonsumsi memengaruhi total zat gizi dari produk",
+          "discussion": "Jumlah yang dikonsumsi memengaruhi total zat gizi dari produk. Untuk membandingkan produk gunakan dasar jumlah yang sebanding.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-06.svg",
+            "alt": "Farah membaca label minuman dua sajian per kemasan. Pilihan P: Menganggap angka per sajian pasti sama dengan seluruh kemasan. Pilihan Q: Menghubungkan angka zat gizi dengan jumlah sajian yang diminum."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-063",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Pilihan rutin memengaruhi pola asupan sepanjang waktu. Tidak perlu memberi cap moral baik atau buruk kepada orang berdasarkan makanannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-07.svg",
+            "alt": "Gilang memilih minuman untuk bekal rutin. Pilihan P: Mengutamakan air dan memperhatikan kandungan produk bersama keluarga. Pilihan Q: Menganggap semakin manis selalu semakin menyehatkan."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-064",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Pilihan rutin memengaruhi pola asupan sepanjang waktu",
+            "Kebutuhan porsi setiap orang selalu persis sama"
+          ],
+          "answer": "Pilihan rutin memengaruhi pola asupan sepanjang waktu",
+          "discussion": "Pilihan rutin memengaruhi pola asupan sepanjang waktu. Tidak perlu memberi cap moral baik atau buruk kepada orang berdasarkan makanannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-07.svg",
+            "alt": "Gilang memilih minuman untuk bekal rutin. Pilihan P: Mengutamakan air dan memperhatikan kandungan produk bersama keluarga. Pilihan Q: Menganggap semakin manis selalu semakin menyehatkan."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-065",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Pilihan P",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Penanganan dan penyimpanan memengaruhi risiko kontaminasi. Bila ragu, tanyakan orang dewasa dan jangan mencicipi bahan yang dicurigai rusak.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-08.svg",
+            "alt": "Hana memeriksa bekal sebelum dimakan. Pilihan P: Mencicipi makanan berjamur untuk menguji. Pilihan Q: Memeriksa kebersihan penyimpanan dan kondisi makanan."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-066",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Penanganan dan penyimpanan memengaruhi risiko kontaminasi"
+          ],
+          "answer": "Penanganan dan penyimpanan memengaruhi risiko kontaminasi",
+          "discussion": "Penanganan dan penyimpanan memengaruhi risiko kontaminasi. Bila ragu, tanyakan orang dewasa dan jangan mencicipi bahan yang dicurigai rusak.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-08.svg",
+            "alt": "Hana memeriksa bekal sebelum dimakan. Pilihan P: Mencicipi makanan berjamur untuk menguji. Pilihan Q: Memeriksa kebersihan penyimpanan dan kondisi makanan."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-067",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Tangan dapat membawa kotoran ke makanan. Ikuti cara cuci tangan yang diajarkan guru dan keluarga.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-09.svg",
+            "alt": "Intan hendak makan setelah bermain di luar. Pilihan P: Mencuci tangan dengan sabun dan air mengalir sebelum makan. Pilihan Q: Langsung memegang makanan dengan tangan kotor."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-068",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Tangan dapat membawa kotoran ke makanan",
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Kebutuhan porsi setiap orang selalu persis sama"
+          ],
+          "answer": "Tangan dapat membawa kotoran ke makanan",
+          "discussion": "Tangan dapat membawa kotoran ke makanan. Ikuti cara cuci tangan yang diajarkan guru dan keluarga.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-09.svg",
+            "alt": "Intan hendak makan setelah bermain di luar. Pilihan P: Mencuci tangan dengan sabun dan air mengalir sebelum makan. Pilihan Q: Langsung memegang makanan dengan tangan kotor."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-069",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Menu yang sesuai keadaan lebih realistis untuk dilaksanakan. Kegiatan belajar ini tidak menetapkan diet medis atau target berat badan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-10.svg",
+            "alt": "Joko menyusun menu bersama keluarga. Pilihan P: Memilih hanya makanan termahal. Pilihan Q: Mempertimbangkan keragaman biaya ketersediaan dan kebutuhan kesehatan."
+          }
+        },
+        {
+          "id": "PJK-B04-M01-070",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Kebutuhan porsi setiap orang selalu persis sama",
+            "Informasi per sajian selalu sama dengan seluruh kemasan",
+            "Satu jenis makanan selalu memenuhi semua kebutuhan gizi",
+            "Menu yang sesuai keadaan lebih realistis untuk dilaksanakan"
+          ],
+          "answer": "Menu yang sesuai keadaan lebih realistis untuk dilaksanakan",
+          "discussion": "Menu yang sesuai keadaan lebih realistis untuk dilaksanakan. Kegiatan belajar ini tidak menetapkan diet medis atau target berat badan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-situasi-10.svg",
+            "alt": "Joko menyusun menu bersama keluarga. Pilihan P: Memilih hanya makanan termahal. Pilihan Q: Mempertimbangkan keragaman biaya ketersediaan dan kebutuhan kesehatan."
+          }
+        }
+      ]
+    }
+  ]
+}

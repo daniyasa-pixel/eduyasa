@@ -462,7 +462,7 @@ img[role="button"]:focus-visible { outline: 3px solid var(--primary); outline-of
 <div id="toast-container"></div>
 <footer>EDUYASA © 2026 • Kurikulum Merdeka</footer>
 
-<script src="./quiz-bank.js?v=20261110-sbd-1"></script>
+<script src="./quiz-bank.js?v=20261111-pjk-1"></script>
 <script>
 const BASE_URL =
   "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/";
@@ -501,7 +501,13 @@ const subjects = [
     "Karya yang Mewakili Diriku",
     "Aku Seniman Cilik"
   ]},
-  {id:"PJK",name:"PJOK",icon:"⚽",chapters:[]}
+  {id:"PJK",name:"PJOK",icon:"⚽",chapters:[
+    "Jago Bergerak: Taktik Juara",
+    "Sahabat Lapangan: Serunya Main Adil dan Kompak!",
+    "Energi Super Rahasia Tubuh Sehat dan Kuat",
+    "Makanan Sehat Bahan Bakar untuk Bergerak",
+    "Pahlawan Cilik: Siap Menolong dan Jaga Diri"
+  ]}
 ];
 
 const selectedSubjects = new Set();
@@ -979,7 +985,7 @@ function prepareQuiz() {
     <strong>Mata Pelajaran:</strong><br>${subjectNames}<br><br>
     <strong>Total Bab Diuji:</strong> ${totalBab} Bab<br><br>
     <strong>Jumlah Soal:</strong> 20 Soal<br><br>
-    ${(selectedSubjects.has('MTK') || selectedSubjects.has('SBD')) ? "5 soal bergambar dan 15 soal tanpa gambar.<br><br>" : ""}
+    ${(selectedSubjects.has('MTK') || selectedSubjects.has('SBD') || selectedSubjects.has('PJK')) ? "5 soal bergambar dan 15 soal tanpa gambar.<br><br>" : ""}
     Siapkan dirimu dan kerjakan dengan jujur!
   `;
   currentStep = 4;
@@ -1034,7 +1040,7 @@ document.getElementById('btnStartQuiz').onclick = async () => {
       subjects
     });
     quizQuestions = EduyasaQuestionBank.selectQuestions(questions, {
-      fixedImageRatio: selectedSubjects.has('MTK') || selectedSubjects.has('SBD')
+      fixedImageRatio: selectedSubjects.has('MTK') || selectedSubjects.has('SBD') || selectedSubjects.has('PJK')
     });
     currentQuestionIndex = 0;
     correctAnswersCount = 0;

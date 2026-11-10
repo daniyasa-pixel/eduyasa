@@ -1,0 +1,664 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "PJOK",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PJK-B02",
+      "chapter_title": "Sahabat Lapangan: Serunya Main Adil dan Kompak!",
+      "questions": [
+        {
+          "id": "PJK-B02-M01-001",
+          "type": "PG",
+          "text": "Istilah untuk bermain jujur dan menghormati aturan serta orang lain adalah ...",
+          "options": [
+            "Permainan inklusif",
+            "Sportivitas",
+            "Komunikasi tim",
+            "Kerja sama"
+          ],
+          "answer": "Sportivitas",
+          "discussion": "Menang bukan alasan untuk mengabaikan kejujuran."
+        },
+        {
+          "id": "PJK-B02-M01-002",
+          "type": "PG",
+          "text": "Alya tahu bolanya terakhir menyentuh tangannya sebelum keluar. Tindakan yang tepat adalah ...",
+          "options": [
+            "Menyalahkan teman yang tidak menyentuh",
+            "Menyembunyikan kejadian agar menang",
+            "Mengejek lawan yang bertanya",
+            "Mengakui sentuhan dan mengikuti keputusan sesuai aturan"
+          ],
+          "answer": "Mengakui sentuhan dan mengikuti keputusan sesuai aturan",
+          "discussion": "Kejujuran membantu menjaga kepercayaan dalam pertandingan. Menang bukan alasan untuk mengabaikan kejujuran."
+        },
+        {
+          "id": "PJK-B02-M01-003",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Alya tahu bolanya terakhir menyentuh tangannya sebelum keluar. Mengapa pilihan \"Mengakui sentuhan dan mengikuti keputusan sesuai aturan\" membantu?",
+          "options": [
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Kejujuran membantu menjaga kepercayaan dalam pertandingan",
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Kemenangan membolehkan perubahan aturan sepihak"
+          ],
+          "answer": "Kejujuran membantu menjaga kepercayaan dalam pertandingan",
+          "discussion": "Kejujuran membantu menjaga kepercayaan dalam pertandingan. Menang bukan alasan untuk mengabaikan kejujuran."
+        },
+        {
+          "id": "PJK-B02-M01-004",
+          "type": "PG",
+          "text": "Alya tahu bolanya terakhir menyentuh tangannya sebelum keluar. Jika justru memilih \"Menyalahkan teman yang tidak menyentuh\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Kepercayaan antarpemain rusak ketika kejadian sengaja disembunyikan",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+          ],
+          "answer": "Kepercayaan antarpemain rusak ketika kejadian sengaja disembunyikan",
+          "discussion": "Kepercayaan antarpemain rusak ketika kejadian sengaja disembunyikan. Pilihan yang dianjurkan: Mengakui sentuhan dan mengikuti keputusan sesuai aturan."
+        },
+        {
+          "id": "PJK-B02-M01-005",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Menyembunyikan kejadian agar menang\" pada situasi: Alya tahu bolanya terakhir menyentuh tangannya sebelum keluar. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Mengakui sentuhan dan mengikuti keputusan sesuai aturan",
+            "Menyalahkan teman yang tidak menyentuh",
+            "Mengejek lawan yang bertanya",
+            "Menyembunyikan kejadian agar menang"
+          ],
+          "answer": "Mengakui sentuhan dan mengikuti keputusan sesuai aturan",
+          "discussion": "Kejujuran membantu menjaga kepercayaan dalam pertandingan. Menang bukan alasan untuk mengabaikan kejujuran."
+        },
+        {
+          "id": "PJK-B02-M01-006",
+          "type": "PG",
+          "text": "Istilah untuk menggabungkan peran anggota untuk mencapai tujuan bersama adalah ...",
+          "options": [
+            "Permainan inklusif",
+            "Komunikasi tim",
+            "Sportivitas",
+            "Kerja sama"
+          ],
+          "answer": "Kerja sama",
+          "discussion": "Komunikasi membantu keputusan bersama di lapangan."
+        },
+        {
+          "id": "PJK-B02-M01-007",
+          "type": "PG",
+          "text": "Bima melihat teman berada pada posisi operan yang lebih baik. Tindakan yang tepat adalah ...",
+          "options": [
+            "Merebut bola dari kawan dengan kasar",
+            "Membawa bola sendiri meski selalu terhalang",
+            "Mengoper sesuai peluang dan peran tim",
+            "Melarang anggota lain menyentuh bola"
+          ],
+          "answer": "Mengoper sesuai peluang dan peran tim",
+          "discussion": "Pembagian peran membuat peluang tim tidak bergantung pada satu orang. Komunikasi membantu keputusan bersama di lapangan."
+        },
+        {
+          "id": "PJK-B02-M01-008",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Bima melihat teman berada pada posisi operan yang lebih baik. Mengapa pilihan \"Mengoper sesuai peluang dan peran tim\" membantu?",
+          "options": [
+            "Pembagian peran membuat peluang tim tidak bergantung pada satu orang",
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Kemenangan membolehkan perubahan aturan sepihak"
+          ],
+          "answer": "Pembagian peran membuat peluang tim tidak bergantung pada satu orang",
+          "discussion": "Pembagian peran membuat peluang tim tidak bergantung pada satu orang. Komunikasi membantu keputusan bersama di lapangan."
+        },
+        {
+          "id": "PJK-B02-M01-009",
+          "type": "PG",
+          "text": "Bima melihat teman berada pada posisi operan yang lebih baik. Jika justru memilih \"Membawa bola sendiri meski selalu terhalang\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Sebagian anggota kehilangan kesempatan berpartisipasi bila bola selalu dikuasai sendiri",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+          ],
+          "answer": "Sebagian anggota kehilangan kesempatan berpartisipasi bila bola selalu dikuasai sendiri",
+          "discussion": "Sebagian anggota kehilangan kesempatan berpartisipasi bila bola selalu dikuasai sendiri. Pilihan yang dianjurkan: Mengoper sesuai peluang dan peran tim."
+        },
+        {
+          "id": "PJK-B02-M01-010",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Melarang anggota lain menyentuh bola\" pada situasi: Bima melihat teman berada pada posisi operan yang lebih baik. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Merebut bola dari kawan dengan kasar",
+            "Melarang anggota lain menyentuh bola",
+            "Membawa bola sendiri meski selalu terhalang",
+            "Mengoper sesuai peluang dan peran tim"
+          ],
+          "answer": "Mengoper sesuai peluang dan peran tim",
+          "discussion": "Pembagian peran membuat peluang tim tidak bergantung pada satu orang. Komunikasi membantu keputusan bersama di lapangan."
+        },
+        {
+          "id": "PJK-B02-M01-011",
+          "type": "PG",
+          "text": "Istilah untuk menyampaikan informasi permainan secara jelas dan santun adalah ...",
+          "options": [
+            "Komunikasi tim",
+            "Sportivitas",
+            "Kerja sama",
+            "Permainan inklusif"
+          ],
+          "answer": "Komunikasi tim",
+          "discussion": "Isyarat harus sesuai aturan dan tidak mengganggu keselamatan."
+        },
+        {
+          "id": "PJK-B02-M01-012",
+          "type": "PG",
+          "text": "Citra ingin memberi tahu bahwa ia siap menerima bola. Tindakan yang tepat adalah ...",
+          "options": [
+            "Memberi isyarat yang disepakati sambil melihat pembawa bola",
+            "Mengirim isyarat yang tidak dipahami tim",
+            "Berteriak menghina penjaga",
+            "Menyuruh teman menerobos orang lain"
+          ],
+          "answer": "Memberi isyarat yang disepakati sambil melihat pembawa bola",
+          "discussion": "Isyarat yang dipahami membantu penyelarasan operan. Isyarat harus sesuai aturan dan tidak mengganggu keselamatan."
+        },
+        {
+          "id": "PJK-B02-M01-013",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Citra ingin memberi tahu bahwa ia siap menerima bola. Mengapa pilihan \"Memberi isyarat yang disepakati sambil melihat pembawa bola\" membantu?",
+          "options": [
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Isyarat yang dipahami membantu penyelarasan operan",
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Kebutuhan peserta tidak perlu diperhatikan"
+          ],
+          "answer": "Isyarat yang dipahami membantu penyelarasan operan",
+          "discussion": "Isyarat yang dipahami membantu penyelarasan operan. Isyarat harus sesuai aturan dan tidak mengganggu keselamatan."
+        },
+        {
+          "id": "PJK-B02-M01-014",
+          "type": "PG",
+          "text": "Citra ingin memberi tahu bahwa ia siap menerima bola. Jika justru memilih \"Berteriak menghina penjaga\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Operan dapat salah sasaran jika kesiapan tidak dikomunikasikan"
+          ],
+          "answer": "Operan dapat salah sasaran jika kesiapan tidak dikomunikasikan",
+          "discussion": "Operan dapat salah sasaran jika kesiapan tidak dikomunikasikan. Pilihan yang dianjurkan: Memberi isyarat yang disepakati sambil melihat pembawa bola."
+        },
+        {
+          "id": "PJK-B02-M01-015",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Mengirim isyarat yang tidak dipahami tim\" pada situasi: Citra ingin memberi tahu bahwa ia siap menerima bola. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Menyuruh teman menerobos orang lain",
+            "Mengirim isyarat yang tidak dipahami tim",
+            "Memberi isyarat yang disepakati sambil melihat pembawa bola",
+            "Berteriak menghina penjaga"
+          ],
+          "answer": "Memberi isyarat yang disepakati sambil melihat pembawa bola",
+          "discussion": "Isyarat yang dipahami membantu penyelarasan operan. Isyarat harus sesuai aturan dan tidak mengganggu keselamatan."
+        },
+        {
+          "id": "PJK-B02-M01-016",
+          "type": "PG",
+          "text": "Istilah untuk permainan yang memberi kesempatan sesuai kebutuhan beragam peserta adalah ...",
+          "options": [
+            "Permainan inklusif",
+            "Komunikasi tim",
+            "Sportivitas",
+            "Kerja sama"
+          ],
+          "answer": "Permainan inklusif",
+          "discussion": "Adil tidak selalu berarti semua tugas harus persis sama."
+        },
+        {
+          "id": "PJK-B02-M01-017",
+          "type": "PG",
+          "text": "Danu memiliki anggota tim dengan kemampuan gerak berbeda. Tindakan yang tepat adalah ...",
+          "options": [
+            "Menyepakati penyesuaian peran dan alat agar semua terlibat",
+            "Memaksa semua melakukan gerak sulit yang sama",
+            "Mengeluarkan teman yang baru belajar",
+            "Menertawakan cara bergerak teman"
+          ],
+          "answer": "Menyepakati penyesuaian peran dan alat agar semua terlibat",
+          "discussion": "Penyesuaian mengurangi hambatan partisipasi. Adil tidak selalu berarti semua tugas harus persis sama."
+        },
+        {
+          "id": "PJK-B02-M01-018",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Danu memiliki anggota tim dengan kemampuan gerak berbeda. Mengapa pilihan \"Menyepakati penyesuaian peran dan alat agar semua terlibat\" membantu?",
+          "options": [
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Penyesuaian mengurangi hambatan partisipasi",
+            "Kemenangan membolehkan perubahan aturan sepihak"
+          ],
+          "answer": "Penyesuaian mengurangi hambatan partisipasi",
+          "discussion": "Penyesuaian mengurangi hambatan partisipasi. Adil tidak selalu berarti semua tugas harus persis sama."
+        },
+        {
+          "id": "PJK-B02-M01-019",
+          "type": "PG",
+          "text": "Danu memiliki anggota tim dengan kemampuan gerak berbeda. Jika justru memilih \"Mengeluarkan teman yang baru belajar\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Teman tersisih bila perbedaan kemampuan dijadikan alasan untuk mengecualikan"
+          ],
+          "answer": "Teman tersisih bila perbedaan kemampuan dijadikan alasan untuk mengecualikan",
+          "discussion": "Teman tersisih bila perbedaan kemampuan dijadikan alasan untuk mengecualikan. Pilihan yang dianjurkan: Menyepakati penyesuaian peran dan alat agar semua terlibat."
+        },
+        {
+          "id": "PJK-B02-M01-020",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Memaksa semua melakukan gerak sulit yang sama\" pada situasi: Danu memiliki anggota tim dengan kemampuan gerak berbeda. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Memaksa semua melakukan gerak sulit yang sama",
+            "Menyepakati penyesuaian peran dan alat agar semua terlibat",
+            "Menertawakan cara bergerak teman",
+            "Mengeluarkan teman yang baru belajar"
+          ],
+          "answer": "Menyepakati penyesuaian peran dan alat agar semua terlibat",
+          "discussion": "Penyesuaian mengurangi hambatan partisipasi. Adil tidak selalu berarti semua tugas harus persis sama."
+        },
+        {
+          "id": "PJK-B02-M01-021",
+          "type": "PG",
+          "text": "Istilah untuk pemahaman bersama tentang cara bermain sebelum mulai adalah ...",
+          "options": [
+            "Kesepakatan aturan",
+            "Kerja sama",
+            "Komunikasi tim",
+            "Sportivitas"
+          ],
+          "answer": "Kesepakatan aturan",
+          "discussion": "Tanyakan aturan yang belum dipahami sebelum memulai."
+        },
+        {
+          "id": "PJK-B02-M01-022",
+          "type": "PG",
+          "text": "Eka akan mengikuti permainan yang dimodifikasi. Tindakan yang tepat adalah ...",
+          "options": [
+            "Membuat pengecualian rahasia untuk satu tim",
+            "Memulai tanpa menjelaskan cara bermain",
+            "Membahas batas lapangan cara mendapat poin dan keselamatan",
+            "Mengubah aturan saat tim sendiri tertinggal"
+          ],
+          "answer": "Membahas batas lapangan cara mendapat poin dan keselamatan",
+          "discussion": "Aturan yang diketahui bersama memberi dasar keputusan yang adil. Tanyakan aturan yang belum dipahami sebelum memulai."
+        },
+        {
+          "id": "PJK-B02-M01-023",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Eka akan mengikuti permainan yang dimodifikasi. Mengapa pilihan \"Membahas batas lapangan cara mendapat poin dan keselamatan\" membantu?",
+          "options": [
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Aturan yang diketahui bersama memberi dasar keputusan yang adil",
+            "Kebutuhan peserta tidak perlu diperhatikan"
+          ],
+          "answer": "Aturan yang diketahui bersama memberi dasar keputusan yang adil",
+          "discussion": "Aturan yang diketahui bersama memberi dasar keputusan yang adil. Tanyakan aturan yang belum dipahami sebelum memulai."
+        },
+        {
+          "id": "PJK-B02-M01-024",
+          "type": "PG",
+          "text": "Eka akan mengikuti permainan yang dimodifikasi. Jika justru memilih \"Mengubah aturan saat tim sendiri tertinggal\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Perselisihan mudah muncul ketika aturan tidak jelas sejak awal",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+          ],
+          "answer": "Perselisihan mudah muncul ketika aturan tidak jelas sejak awal",
+          "discussion": "Perselisihan mudah muncul ketika aturan tidak jelas sejak awal. Pilihan yang dianjurkan: Membahas batas lapangan cara mendapat poin dan keselamatan."
+        },
+        {
+          "id": "PJK-B02-M01-025",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Memulai tanpa menjelaskan cara bermain\" pada situasi: Eka akan mengikuti permainan yang dimodifikasi. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Mengubah aturan saat tim sendiri tertinggal",
+            "Memulai tanpa menjelaskan cara bermain",
+            "Membahas batas lapangan cara mendapat poin dan keselamatan",
+            "Membuat pengecualian rahasia untuk satu tim"
+          ],
+          "answer": "Membahas batas lapangan cara mendapat poin dan keselamatan",
+          "discussion": "Aturan yang diketahui bersama memberi dasar keputusan yang adil. Tanyakan aturan yang belum dipahami sebelum memulai."
+        },
+        {
+          "id": "PJK-B02-M01-026",
+          "type": "PG",
+          "text": "Istilah untuk pergantian tanggung jawab agar anggota mendapat pengalaman berbeda adalah ...",
+          "options": [
+            "Komunikasi tim",
+            "Rotasi peran",
+            "Kerja sama",
+            "Sportivitas"
+          ],
+          "answer": "Rotasi peran",
+          "discussion": "Pergantian tetap mempertimbangkan keamanan dan kebutuhan peserta."
+        },
+        {
+          "id": "PJK-B02-M01-027",
+          "type": "PG",
+          "text": "Farah selalu menjadi pengambil alat sementara yang lain bermain. Tindakan yang tepat adalah ...",
+          "options": [
+            "Menyusun pergantian peran yang disepakati",
+            "Menetapkan satu anak selalu di luar permainan",
+            "Memberi peran hanya kepada teman dekat",
+            "Melarang pemain mencoba tugas baru"
+          ],
+          "answer": "Menyusun pergantian peran yang disepakati",
+          "discussion": "Pergantian membuka kesempatan belajar peran yang beragam. Pergantian tetap mempertimbangkan keamanan dan kebutuhan peserta."
+        },
+        {
+          "id": "PJK-B02-M01-028",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Farah selalu menjadi pengambil alat sementara yang lain bermain. Mengapa pilihan \"Menyusun pergantian peran yang disepakati\" membantu?",
+          "options": [
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Pergantian membuka kesempatan belajar peran yang beragam"
+          ],
+          "answer": "Pergantian membuka kesempatan belajar peran yang beragam",
+          "discussion": "Pergantian membuka kesempatan belajar peran yang beragam. Pergantian tetap mempertimbangkan keamanan dan kebutuhan peserta."
+        },
+        {
+          "id": "PJK-B02-M01-029",
+          "type": "PG",
+          "text": "Farah selalu menjadi pengambil alat sementara yang lain bermain. Jika justru memilih \"Menetapkan satu anak selalu di luar permainan\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pengalaman belajar timpang jika peran tidak pernah berganti"
+          ],
+          "answer": "Pengalaman belajar timpang jika peran tidak pernah berganti",
+          "discussion": "Pengalaman belajar timpang jika peran tidak pernah berganti. Pilihan yang dianjurkan: Menyusun pergantian peran yang disepakati."
+        },
+        {
+          "id": "PJK-B02-M01-030",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Memberi peran hanya kepada teman dekat\" pada situasi: Farah selalu menjadi pengambil alat sementara yang lain bermain. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Menetapkan satu anak selalu di luar permainan",
+            "Menyusun pergantian peran yang disepakati",
+            "Melarang pemain mencoba tugas baru",
+            "Memberi peran hanya kepada teman dekat"
+          ],
+          "answer": "Menyusun pergantian peran yang disepakati",
+          "discussion": "Pergantian membuka kesempatan belajar peran yang beragam. Pergantian tetap mempertimbangkan keamanan dan kebutuhan peserta."
+        },
+        {
+          "id": "PJK-B02-M01-031",
+          "type": "PG",
+          "text": "Istilah untuk mencari solusi perbedaan pendapat tanpa kekerasan adalah ...",
+          "options": [
+            "Kerja sama",
+            "Komunikasi tim",
+            "Sportivitas",
+            "Penyelesaian konflik"
+          ],
+          "answer": "Penyelesaian konflik",
+          "discussion": "Dengarkan penjelasan dan terima penyelesaian sesuai kesepakatan."
+        },
+        {
+          "id": "PJK-B02-M01-032",
+          "type": "PG",
+          "text": "Gilang dan lawan berbeda pendapat tentang bola keluar. Tindakan yang tepat adalah ...",
+          "options": [
+            "Mendorong lawan agar mengalah",
+            "Mengajak teman mengejek lawan",
+            "Melanjutkan permainan sambil bertengkar",
+            "Berhenti sejenak dan meminta bantuan guru atau pemimpin permainan"
+          ],
+          "answer": "Berhenti sejenak dan meminta bantuan guru atau pemimpin permainan",
+          "discussion": "Bantuan penengah dan aturan bersama membantu memeriksa perbedaan. Dengarkan penjelasan dan terima penyelesaian sesuai kesepakatan."
+        },
+        {
+          "id": "PJK-B02-M01-033",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Gilang dan lawan berbeda pendapat tentang bola keluar. Mengapa pilihan \"Berhenti sejenak dan meminta bantuan guru atau pemimpin permainan\" membantu?",
+          "options": [
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Bantuan penengah dan aturan bersama membantu memeriksa perbedaan",
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Kemenangan membolehkan perubahan aturan sepihak"
+          ],
+          "answer": "Bantuan penengah dan aturan bersama membantu memeriksa perbedaan",
+          "discussion": "Bantuan penengah dan aturan bersama membantu memeriksa perbedaan. Dengarkan penjelasan dan terima penyelesaian sesuai kesepakatan."
+        },
+        {
+          "id": "PJK-B02-M01-034",
+          "type": "PG",
+          "text": "Gilang dan lawan berbeda pendapat tentang bola keluar. Jika justru memilih \"Mendorong lawan agar mengalah\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pertengkaran dapat meningkat jika dibalas dengan dorongan atau ejekan",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian"
+          ],
+          "answer": "Pertengkaran dapat meningkat jika dibalas dengan dorongan atau ejekan",
+          "discussion": "Pertengkaran dapat meningkat jika dibalas dengan dorongan atau ejekan. Pilihan yang dianjurkan: Berhenti sejenak dan meminta bantuan guru atau pemimpin permainan."
+        },
+        {
+          "id": "PJK-B02-M01-035",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Mengajak teman mengejek lawan\" pada situasi: Gilang dan lawan berbeda pendapat tentang bola keluar. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Melanjutkan permainan sambil bertengkar",
+            "Mendorong lawan agar mengalah",
+            "Berhenti sejenak dan meminta bantuan guru atau pemimpin permainan",
+            "Mengajak teman mengejek lawan"
+          ],
+          "answer": "Berhenti sejenak dan meminta bantuan guru atau pemimpin permainan",
+          "discussion": "Bantuan penengah dan aturan bersama membantu memeriksa perbedaan. Dengarkan penjelasan dan terima penyelesaian sesuai kesepakatan."
+        },
+        {
+          "id": "PJK-B02-M01-036",
+          "type": "PG",
+          "text": "Istilah untuk memahami keadaan atau perasaan orang lain adalah ...",
+          "options": [
+            "Sportivitas",
+            "Komunikasi tim",
+            "Empati",
+            "Kerja sama"
+          ],
+          "answer": "Empati",
+          "discussion": "Komentar diarahkan pada langkah yang bisa diperbaiki, bukan harga diri."
+        },
+        {
+          "id": "PJK-B02-M01-037",
+          "type": "PG",
+          "text": "Hana melihat teman kecewa setelah melakukan kesalahan. Tindakan yang tepat adalah ...",
+          "options": [
+            "Menertawakan kesalahan di depan kelompok",
+            "Menganggap satu kesalahan menentukan nilai diri",
+            "Menyebarkan rekaman untuk mempermalukan",
+            "Memberi dukungan dan mengajak mencoba perbaikan"
+          ],
+          "answer": "Memberi dukungan dan mengajak mencoba perbaikan",
+          "discussion": "Dukungan membuat teman lebih nyaman untuk belajar kembali. Komentar diarahkan pada langkah yang bisa diperbaiki, bukan harga diri."
+        },
+        {
+          "id": "PJK-B02-M01-038",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Hana melihat teman kecewa setelah melakukan kesalahan. Mengapa pilihan \"Memberi dukungan dan mengajak mencoba perbaikan\" membantu?",
+          "options": [
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Dukungan membuat teman lebih nyaman untuk belajar kembali",
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Kejujuran tidak berkaitan dengan kepercayaan"
+          ],
+          "answer": "Dukungan membuat teman lebih nyaman untuk belajar kembali",
+          "discussion": "Dukungan membuat teman lebih nyaman untuk belajar kembali. Komentar diarahkan pada langkah yang bisa diperbaiki, bukan harga diri."
+        },
+        {
+          "id": "PJK-B02-M01-039",
+          "type": "PG",
+          "text": "Hana melihat teman kecewa setelah melakukan kesalahan. Jika justru memilih \"Menertawakan kesalahan di depan kelompok\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Teman dapat takut mencoba lagi jika dipermalukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+          ],
+          "answer": "Teman dapat takut mencoba lagi jika dipermalukan",
+          "discussion": "Teman dapat takut mencoba lagi jika dipermalukan. Pilihan yang dianjurkan: Memberi dukungan dan mengajak mencoba perbaikan."
+        },
+        {
+          "id": "PJK-B02-M01-040",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Menyebarkan rekaman untuk mempermalukan\" pada situasi: Hana melihat teman kecewa setelah melakukan kesalahan. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Menertawakan kesalahan di depan kelompok",
+            "Memberi dukungan dan mengajak mencoba perbaikan",
+            "Menyebarkan rekaman untuk mempermalukan",
+            "Menganggap satu kesalahan menentukan nilai diri"
+          ],
+          "answer": "Memberi dukungan dan mengajak mencoba perbaikan",
+          "discussion": "Dukungan membuat teman lebih nyaman untuk belajar kembali. Komentar diarahkan pada langkah yang bisa diperbaiki, bukan harga diri."
+        },
+        {
+          "id": "PJK-B02-M01-041",
+          "type": "PG",
+          "text": "Istilah untuk mengatur respons saat senang kecewa atau marah adalah ...",
+          "options": [
+            "Kerja sama",
+            "Pengendalian emosi",
+            "Sportivitas",
+            "Komunikasi tim"
+          ],
+          "answer": "Pengendalian emosi",
+          "discussion": "Minta jeda atau bantuan guru bila sulit mengelola perasaan."
+        },
+        {
+          "id": "PJK-B02-M01-042",
+          "type": "PG",
+          "text": "Intan kalah dalam permainan yang ketat. Tindakan yang tepat adalah ...",
+          "options": [
+            "Merusak perlengkapan",
+            "Melempar alat ke arah orang lain",
+            "Mengancam tim pemenang",
+            "Menenangkan diri dan membicarakan pengalaman dengan santun"
+          ],
+          "answer": "Menenangkan diri dan membicarakan pengalaman dengan santun",
+          "discussion": "Respons yang terkendali menjaga keselamatan dan hubungan sosial. Minta jeda atau bantuan guru bila sulit mengelola perasaan."
+        },
+        {
+          "id": "PJK-B02-M01-043",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Intan kalah dalam permainan yang ketat. Mengapa pilihan \"Menenangkan diri dan membicarakan pengalaman dengan santun\" membantu?",
+          "options": [
+            "Kebutuhan peserta tidak perlu diperhatikan",
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Respons yang terkendali menjaga keselamatan dan hubungan sosial"
+          ],
+          "answer": "Respons yang terkendali menjaga keselamatan dan hubungan sosial",
+          "discussion": "Respons yang terkendali menjaga keselamatan dan hubungan sosial. Minta jeda atau bantuan guru bila sulit mengelola perasaan."
+        },
+        {
+          "id": "PJK-B02-M01-044",
+          "type": "PG",
+          "text": "Intan kalah dalam permainan yang ketat. Jika justru memilih \"Melempar alat ke arah orang lain\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Orang lain dapat terluka jika alat dilempar saat marah",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+          ],
+          "answer": "Orang lain dapat terluka jika alat dilempar saat marah",
+          "discussion": "Orang lain dapat terluka jika alat dilempar saat marah. Pilihan yang dianjurkan: Menenangkan diri dan membicarakan pengalaman dengan santun."
+        },
+        {
+          "id": "PJK-B02-M01-045",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Merusak perlengkapan\" pada situasi: Intan kalah dalam permainan yang ketat. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Menenangkan diri dan membicarakan pengalaman dengan santun",
+            "Mengancam tim pemenang",
+            "Melempar alat ke arah orang lain",
+            "Merusak perlengkapan"
+          ],
+          "answer": "Menenangkan diri dan membicarakan pengalaman dengan santun",
+          "discussion": "Respons yang terkendali menjaga keselamatan dan hubungan sosial. Minta jeda atau bantuan guru bila sulit mengelola perasaan."
+        },
+        {
+          "id": "PJK-B02-M01-046",
+          "type": "PG",
+          "text": "Istilah untuk melaksanakan tugas serta menjaga alat dan ruang bersama adalah ...",
+          "options": [
+            "Kerja sama",
+            "Komunikasi tim",
+            "Sportivitas",
+            "Tanggung jawab tim"
+          ],
+          "answer": "Tanggung jawab tim",
+          "discussion": "Tanggung jawab tetap berlaku setelah permainan berakhir."
+        },
+        {
+          "id": "PJK-B02-M01-047",
+          "type": "PG",
+          "text": "Joko selesai mengikuti permainan kelompok. Tindakan yang tepat adalah ...",
+          "options": [
+            "Membiarkan sampah membuat lantai licin",
+            "Meninggalkan bola di jalur jalan",
+            "Mengembalikan alat dan memastikan ruang tidak berbahaya",
+            "Menyembunyikan alat kelompok lain"
+          ],
+          "answer": "Mengembalikan alat dan memastikan ruang tidak berbahaya",
+          "discussion": "Perawatan ruang menjaga kegiatan berikutnya tetap aman. Tanggung jawab tetap berlaku setelah permainan berakhir."
+        },
+        {
+          "id": "PJK-B02-M01-048",
+          "type": "PG",
+          "text": "Dalam situasi berikut: Joko selesai mengikuti permainan kelompok. Mengapa pilihan \"Mengembalikan alat dan memastikan ruang tidak berbahaya\" membantu?",
+          "options": [
+            "Kejujuran tidak berkaitan dengan kepercayaan",
+            "Kemenangan membolehkan perubahan aturan sepihak",
+            "Perawatan ruang menjaga kegiatan berikutnya tetap aman",
+            "Kebutuhan peserta tidak perlu diperhatikan"
+          ],
+          "answer": "Perawatan ruang menjaga kegiatan berikutnya tetap aman",
+          "discussion": "Perawatan ruang menjaga kegiatan berikutnya tetap aman. Tanggung jawab tetap berlaku setelah permainan berakhir."
+        },
+        {
+          "id": "PJK-B02-M01-049",
+          "type": "PG",
+          "text": "Joko selesai mengikuti permainan kelompok. Jika justru memilih \"Meninggalkan bola di jalur jalan\", risiko yang perlu dipertimbangkan adalah ...",
+          "options": [
+            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
+            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
+            "Pilihan itu menjamin tidak ada dampak yang merugikan",
+            "Pengguna berikutnya berisiko tersandung bila alat ditinggalkan di jalur"
+          ],
+          "answer": "Pengguna berikutnya berisiko tersandung bila alat ditinggalkan di jalur",
+          "discussion": "Pengguna berikutnya berisiko tersandung bila alat ditinggalkan di jalur. Pilihan yang dianjurkan: Mengembalikan alat dan memastikan ruang tidak berbahaya."
+        },
+        {
+          "id": "PJK-B02-M01-050",
+          "type": "PG",
+          "text": "Seorang siswa memilih \"Menyembunyikan alat kelompok lain\" pada situasi: Joko selesai mengikuti permainan kelompok. Perbaikan keputusan yang sesuai adalah ...",
+          "options": [
+            "Mengembalikan alat dan memastikan ruang tidak berbahaya",
+            "Menyembunyikan alat kelompok lain",
+            "Meninggalkan bola di jalur jalan",
+            "Membiarkan sampah membuat lantai licin"
+          ],
+          "answer": "Mengembalikan alat dan memastikan ruang tidak berbahaya",
+          "discussion": "Perawatan ruang menjaga kegiatan berikutnya tetap aman. Tanggung jawab tetap berlaku setelah permainan berakhir."
+        }
+      ]
+    }
+  ]
+}

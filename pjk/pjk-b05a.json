@@ -1,0 +1,354 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "PJOK",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "PJK-B05",
+      "chapter_title": "Pahlawan Cilik: Siap Menolong dan Jaga Diri",
+      "questions": [
+        {
+          "id": "PJK-B05-M01-051",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Penolong perlu aman agar tidak menambah korban. Bantuan anak dimulai dengan keselamatan dan pelaporan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-01.svg",
+            "alt": "Alya melihat teman jatuh dekat lantai basah. Pilihan P: Menjaga diri di tempat aman dan memanggil guru. Pilihan Q: Berlari melintasi lantai licin tanpa melihat."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-052",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Meminta bantuan segera tidak pernah diperlukan",
+            "Semua cedera memerlukan penanganan yang identik",
+            "Penolong perlu aman agar tidak menambah korban",
+            "Penolong tidak perlu memperhatikan bahaya"
+          ],
+          "answer": "Penolong perlu aman agar tidak menambah korban",
+          "discussion": "Penolong perlu aman agar tidak menambah korban. Bantuan anak dimulai dengan keselamatan dan pelaporan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-01.svg",
+            "alt": "Alya melihat teman jatuh dekat lantai basah. Pilihan P: Menjaga diri di tempat aman dan memanggil guru. Pilihan Q: Berlari melintasi lantai licin tanpa melihat."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-053",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Orang dewasa perlu menilai cedera dan menentukan bantuan. Siswa tidak mendiagnosis sendiri hanya dari tampilan cedera.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-02.svg",
+            "alt": "Bima mendengar teman mengeluh nyeri setelah terkilir. Pilihan P: Memaksa teman berlari untuk menguji. Pilihan Q: Menghentikan permainan dan segera memanggil guru."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-054",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Orang dewasa perlu menilai cedera dan menentukan bantuan",
+            "Penolong tidak perlu memperhatikan bahaya",
+            "Meminta bantuan segera tidak pernah diperlukan",
+            "Semua cedera memerlukan penanganan yang identik"
+          ],
+          "answer": "Orang dewasa perlu menilai cedera dan menentukan bantuan",
+          "discussion": "Orang dewasa perlu menilai cedera dan menentukan bantuan. Siswa tidak mendiagnosis sendiri hanya dari tampilan cedera.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-02.svg",
+            "alt": "Bima mendengar teman mengeluh nyeri setelah terkilir. Pilihan P: Memaksa teman berlari untuk menguji. Pilihan Q: Menghentikan permainan dan segera memanggil guru."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-055",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Mengurangi beban membantu melindungi bagian yang cedera sambil menunggu penilaian. RICE merupakan konsep bantuan awal tertentu, bukan pengganti pemeriksaan dan bukan untuk semua cedera.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-03.svg",
+            "alt": "Citra belajar konsep RICE bersama guru. Pilihan P: Memahami bahwa bagian yang nyeri perlu dilindungi dari aktivitas pemicu. Pilihan Q: Memaksa bergerak menahan nyeri."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-056",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Meminta bantuan segera tidak pernah diperlukan",
+            "Penolong tidak perlu memperhatikan bahaya",
+            "Semua cedera memerlukan penanganan yang identik",
+            "Mengurangi beban membantu melindungi bagian yang cedera sambil menunggu penilaian"
+          ],
+          "answer": "Mengurangi beban membantu melindungi bagian yang cedera sambil menunggu penilaian",
+          "discussion": "Mengurangi beban membantu melindungi bagian yang cedera sambil menunggu penilaian. RICE merupakan konsep bantuan awal tertentu, bukan pengganti pemeriksaan dan bukan untuk semua cedera.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-03.svg",
+            "alt": "Citra belajar konsep RICE bersama guru. Pilihan P: Memahami bahwa bagian yang nyeri perlu dilindungi dari aktivitas pemicu. Pilihan Q: Memaksa bergerak menahan nyeri."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-057",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Pelindung kulit mengurangi risiko kerusakan akibat dingin. Durasi dan kesesuaian kompres ditentukan orang dewasa sesuai arahan kesehatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-04.svg",
+            "alt": "Danu melihat guru menyiapkan kompres dingin. Pilihan P: Menempel es langsung lama pada kulit. Pilihan Q: Memastikan penanganan dipandu orang dewasa dan dingin tidak ditempel langsung ke kulit."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-058",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Meminta bantuan segera tidak pernah diperlukan",
+            "Penolong tidak perlu memperhatikan bahaya",
+            "Pelindung kulit mengurangi risiko kerusakan akibat dingin",
+            "Semua cedera memerlukan penanganan yang identik"
+          ],
+          "answer": "Pelindung kulit mengurangi risiko kerusakan akibat dingin",
+          "discussion": "Pelindung kulit mengurangi risiko kerusakan akibat dingin. Durasi dan kesesuaian kompres ditentukan orang dewasa sesuai arahan kesehatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-04.svg",
+            "alt": "Danu melihat guru menyiapkan kompres dingin. Pilihan P: Menempel es langsung lama pada kulit. Pilihan Q: Memastikan penanganan dipandu orang dewasa dan dingin tidak ditempel langsung ke kulit."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-059",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Balutan yang tidak sesuai dapat mengganggu sirkulasi. Materi tidak mengajarkan anak memasang balutan sendiri tanpa pendampingan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-05.svg",
+            "alt": "Eka belajar tentang balutan penyangga. Pilihan P: Meminta orang dewasa terlatih menilai dan menangani balutan. Pilihan Q: Mengikat sekuat mungkin tanpa penilaian."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-060",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Meminta bantuan segera tidak pernah diperlukan",
+            "Balutan yang tidak sesuai dapat mengganggu sirkulasi",
+            "Semua cedera memerlukan penanganan yang identik",
+            "Penolong tidak perlu memperhatikan bahaya"
+          ],
+          "answer": "Balutan yang tidak sesuai dapat mengganggu sirkulasi",
+          "discussion": "Balutan yang tidak sesuai dapat mengganggu sirkulasi. Materi tidak mengajarkan anak memasang balutan sendiri tanpa pendampingan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-05.svg",
+            "alt": "Eka belajar tentang balutan penyangga. Pilihan P: Meminta orang dewasa terlatih menilai dan menangani balutan. Pilihan Q: Mengikat sekuat mungkin tanpa penilaian."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-061",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Posisi bantuan harus disesuaikan dengan jenis dan keadaan cedera. RICE tidak digunakan untuk menggantikan bantuan medis pada cedera berat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-06.svg",
+            "alt": "Farah mendengar saran meninggikan bagian yang terkilir. Pilihan P: Meluruskan paksa tulang yang berubah bentuk. Pilihan Q: Mengikuti arahan orang dewasa dan tidak memaksa bagian yang diduga patah."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-062",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Meminta bantuan segera tidak pernah diperlukan",
+            "Penolong tidak perlu memperhatikan bahaya",
+            "Posisi bantuan harus disesuaikan dengan jenis dan keadaan cedera",
+            "Semua cedera memerlukan penanganan yang identik"
+          ],
+          "answer": "Posisi bantuan harus disesuaikan dengan jenis dan keadaan cedera",
+          "discussion": "Posisi bantuan harus disesuaikan dengan jenis dan keadaan cedera. RICE tidak digunakan untuk menggantikan bantuan medis pada cedera berat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-06.svg",
+            "alt": "Farah mendengar saran meninggikan bagian yang terkilir. Pilihan P: Meluruskan paksa tulang yang berubah bentuk. Pilihan Q: Mengikuti arahan orang dewasa dan tidak memaksa bagian yang diduga patah."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-063",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Kondisi tidak responsif perlu penilaian dan pertolongan segera. Jangan memberi makan, minum, atau obat kepada orang tidak sadar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-07.svg",
+            "alt": "Gilang melihat seseorang tidak merespons panggilan. Pilihan P: Segera memanggil orang dewasa dan bantuan darurat setempat. Pilihan Q: Menunggu sampai melewati satu menit baru melapor."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-064",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Penolong tidak perlu memperhatikan bahaya",
+            "Semua cedera memerlukan penanganan yang identik",
+            "Kondisi tidak responsif perlu penilaian dan pertolongan segera",
+            "Meminta bantuan segera tidak pernah diperlukan"
+          ],
+          "answer": "Kondisi tidak responsif perlu penilaian dan pertolongan segera",
+          "discussion": "Kondisi tidak responsif perlu penilaian dan pertolongan segera. Jangan memberi makan, minum, atau obat kepada orang tidak sadar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-07.svg",
+            "alt": "Gilang melihat seseorang tidak merespons panggilan. Pilihan P: Segera memanggil orang dewasa dan bantuan darurat setempat. Pilihan Q: Menunggu sampai melewati satu menit baru melapor."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-065",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan Q",
+            "Kedua pilihan sama sesuai",
+            "Pilihan P",
+            "Tidak ada pilihan yang sesuai"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Informasi yang akurat membantu penolong menemukan dan menilai keadaan. Laporkan fakta yang terlihat dan ikuti arahan orang dewasa.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-08.svg",
+            "alt": "Hana diminta memberi laporan kepada guru. Pilihan P: Mengarang diagnosis pasti. Pilihan Q: Menyebut lokasi kejadian apa yang terlihat dan bahaya di sekitar."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-066",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Meminta bantuan segera tidak pernah diperlukan",
+            "Penolong tidak perlu memperhatikan bahaya",
+            "Semua cedera memerlukan penanganan yang identik",
+            "Informasi yang akurat membantu penolong menemukan dan menilai keadaan"
+          ],
+          "answer": "Informasi yang akurat membantu penolong menemukan dan menilai keadaan",
+          "discussion": "Informasi yang akurat membantu penolong menemukan dan menilai keadaan. Laporkan fakta yang terlihat dan ikuti arahan orang dewasa.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-08.svg",
+            "alt": "Hana diminta memberi laporan kepada guru. Pilihan P: Mengarang diagnosis pasti. Pilihan Q: Menyebut lokasi kejadian apa yang terlihat dan bahaya di sekitar."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-067",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Kedua pilihan sama sesuai",
+            "Pilihan Q",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan P"
+          ],
+          "answer": "Pilihan P",
+          "discussion": "Penyelamatan air memerlukan keterampilan dan sarana yang sesuai. Berenang hanya di tempat aman dengan pengawasan yang sesuai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-09.svg",
+            "alt": "Intan melihat teman kesulitan di kolam. Pilihan P: Memanggil penjaga atau orang dewasa dan tidak melompat menolong sendiri. Pilihan Q: Melompat meski tidak terlatih."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-068",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Semua cedera memerlukan penanganan yang identik",
+            "Penyelamatan air memerlukan keterampilan dan sarana yang sesuai",
+            "Penolong tidak perlu memperhatikan bahaya",
+            "Meminta bantuan segera tidak pernah diperlukan"
+          ],
+          "answer": "Penyelamatan air memerlukan keterampilan dan sarana yang sesuai",
+          "discussion": "Penyelamatan air memerlukan keterampilan dan sarana yang sesuai. Berenang hanya di tempat aman dengan pengawasan yang sesuai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-09.svg",
+            "alt": "Intan melihat teman kesulitan di kolam. Pilihan P: Memanggil penjaga atau orang dewasa dan tidak melompat menolong sendiri. Pilihan Q: Melompat meski tidak terlatih."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-069",
+          "type": "PG",
+          "text": "Amati situasi dan pilihan pada gambar. Pilihan mana yang lebih sesuai untuk tujuan belajar yang ditampilkan?",
+          "options": [
+            "Pilihan P",
+            "Kedua pilihan sama sesuai",
+            "Tidak ada pilihan yang sesuai",
+            "Pilihan Q"
+          ],
+          "answer": "Pilihan Q",
+          "discussion": "Bahaya yang dikenali perlu ditangani sebelum kegiatan diteruskan. Latihan pertolongan dilakukan sebagai simulasi aman dengan pendampingan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-10.svg",
+            "alt": "Joko menemukan tali melintang di jalur latihan. Pilihan P: Membiarkan teman berikutnya tersandung. Pilihan Q: Memberi tahu guru dan menghindari jalur sampai aman."
+          }
+        },
+        {
+          "id": "PJK-B05-M01-070",
+          "type": "PG",
+          "text": "Berdasarkan situasi pada gambar, alasan memilih tindakan yang sesuai adalah ...",
+          "options": [
+            "Meminta bantuan segera tidak pernah diperlukan",
+            "Penolong tidak perlu memperhatikan bahaya",
+            "Semua cedera memerlukan penanganan yang identik",
+            "Bahaya yang dikenali perlu ditangani sebelum kegiatan diteruskan"
+          ],
+          "answer": "Bahaya yang dikenali perlu ditangani sebelum kegiatan diteruskan",
+          "discussion": "Bahaya yang dikenali perlu ditangani sebelum kegiatan diteruskan. Latihan pertolongan dilakukan sebagai simulasi aman dengan pendampingan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b05-situasi-10.svg",
+            "alt": "Joko menemukan tali melintang di jalur latihan. Pilihan P: Membiarkan teman berikutnya tersandung. Pilihan Q: Memberi tahu guru dan menghindari jalur sampai aman."
+          }
+        }
+      ]
+    }
+  ]
+}

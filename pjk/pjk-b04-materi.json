@@ -1,0 +1,44 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "PJOK",
+  "grade": 6,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "PJK-B04",
+  "chapter_title": "Makanan Sehat Bahan Bakar untuk Bergerak",
+  "source": {
+    "title": "Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SD/MI Kelas VI",
+    "year": 2025,
+    "authors": [
+      "Tri Agus Prasetijo",
+      "Alda Indrawan"
+    ],
+    "isbn_pdf": "978-634-00-3177-5",
+    "reading_url": "https://static.sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/PJOK_BG_KLS_VI.pdf"
+  },
+  "learning_objectives": [
+    "Gizi seimbang",
+    "Karbohidrat",
+    "Protein",
+    "Sayur dan buah",
+    "Isi Piringku",
+    "Takaran saji",
+    "Pembatasan gula garam lemak",
+    "Keamanan pangan",
+    "Kebersihan tangan",
+    "Perencanaan menu"
+  ],
+  "modules": [
+    {
+      "id": "PJK-B04-MOD-01",
+      "version": "MOD-01",
+      "title": "Panduan ringkas: Makanan Sehat Bahan Bakar untuk Bergerak",
+      "content": "# Makanan Sehat Bahan Bakar untuk Bergerak\n\nTubuh memerlukan makanan beragam dan air untuk bertumbuh serta bergerak. Kamu akan mengenali kelompok pangan, membaca label, dan merancang pilihan yang sesuai keadaan keluarga. Kebutuhan tiap orang dapat berbeda; kegiatan ini tidak menetapkan diet medis atau target berat badan.\n\n![Ilustrasi belajar PJOK Bab 4](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-materi.svg)\n\n## Kenali dan terapkan\n\n### 1. Gizi seimbang\nPemenuhan zat gizi melalui makanan beragam sesuai kebutuhan. Pilih langkah berikut: **Memilih makanan pokok lauk sayur buah dan air sesuai kebutuhan**.\n\n### 2. Karbohidrat\nZat gizi yang menjadi salah satu sumber energi utama tubuh. Pilih langkah berikut: **Memilih makanan pokok seperti nasi jagung atau kentang**.\n\n### 3. Protein\nZat gizi yang membantu pertumbuhan dan perbaikan jaringan. Pilih langkah berikut: **Memilih lauk seperti tempe telur ikan atau kacang sesuai kebutuhan dan alergi**.\n\n### 4. Sayur dan buah\nKelompok pangan penyumbang serat vitamin dan mineral. Pilih langkah berikut: **Menambahkan sayur dan buah yang aman serta layak makan**.\n\n### 5. Isi Piringku\nPanduan pembagian kelompok makanan dalam satu piring. Pilih langkah berikut: **Mengisi sekitar setengah piring dengan sayur dan buah serta sisanya makanan pokok dan lauk**.\n\n![Alur belajar dan refleksi Bab 4](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-langkah.svg)\n\n### 6. Takaran saji\nJumlah produk yang menjadi dasar informasi pada label gizi. Pilih langkah berikut: **Menghubungkan angka zat gizi dengan jumlah sajian yang diminum**.\n\n### 7. Pembatasan gula garam lemak\nPengaturan konsumsi agar tidak berlebihan dalam pola makan. Pilih langkah berikut: **Mengutamakan air dan memperhatikan kandungan produk bersama keluarga**.\n\n### 8. Keamanan pangan\nPemilihan dan penanganan makanan agar layak dikonsumsi. Pilih langkah berikut: **Memeriksa kebersihan penyimpanan dan kondisi makanan**.\n\n### 9. Kebersihan tangan\nMembersihkan tangan untuk mengurangi perpindahan kotoran dan kuman. Pilih langkah berikut: **Mencuci tangan dengan sabun dan air mengalir sebelum makan**.\n\n### 10. Perencanaan menu\nPenyusunan makanan beragam sesuai kebutuhan dan keadaan. Pilih langkah berikut: **Mempertimbangkan keragaman biaya ketersediaan dan kebutuhan kesehatan**.\n\n## Ingat dan diskusikan\n\nPanduan Isi Piringku menggambarkan sekitar setengah piring berisi sayur dan buah, sisanya makanan pokok dan lauk. Kebutuhan porsi disesuaikan kondisi. Gunakan informasi per sajian secara teliti: dua sajian berarti dua kali angka per sajian untuk jumlah yang sama. Jangan memaksa bahan pemicu alergi.\n\n## Misi belajar\n\nPilih satu situasi. Jelaskan alasan keputusan yang aman, akibat pilihan lain, dan satu perbaikan. Praktik gerak atau simulasi hanya dilakukan dengan pendampingan guru dan penyesuaian kemampuan."
+    },
+    {
+      "id": "PJK-B04-MOD-02",
+      "version": "MOD-02",
+      "title": "Belajar lewat situasi: Makanan Sehat Bahan Bakar untuk Bergerak",
+      "content": "# Makanan Sehat Bahan Bakar untuk Bergerak\n\nTubuh memerlukan makanan beragam dan air untuk bertumbuh serta bergerak. Kamu akan mengenali kelompok pangan, membaca label, dan merancang pilihan yang sesuai keadaan keluarga. Kebutuhan tiap orang dapat berbeda; kegiatan ini tidak menetapkan diet medis atau target berat badan.\n\n![Alur belajar dan refleksi Bab 4](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-langkah.svg)\n\n## Jelajahi situasi sehari-hari\n\n### 1. Gizi seimbang\nAlya memilih bekal untuk kegiatan sekolah. Konsepnya adalah pemenuhan zat gizi melalui makanan beragam sesuai kebutuhan. Langkah yang sesuai: **Memilih makanan pokok lauk sayur buah dan air sesuai kebutuhan**.\n\n### 2. Karbohidrat\nBima mencari sumber tenaga pada bekalnya. Konsepnya adalah zat gizi yang menjadi salah satu sumber energi utama tubuh. Langkah yang sesuai: **Memilih makanan pokok seperti nasi jagung atau kentang**.\n\n### 3. Protein\nCitra melengkapi nasi dengan lauk. Konsepnya adalah zat gizi yang membantu pertumbuhan dan perbaikan jaringan. Langkah yang sesuai: **Memilih lauk seperti tempe telur ikan atau kacang sesuai kebutuhan dan alergi**.\n\n### 4. Sayur dan buah\nDanu menyusun piring makan yang lebih beragam. Konsepnya adalah kelompok pangan penyumbang serat vitamin dan mineral. Langkah yang sesuai: **Menambahkan sayur dan buah yang aman serta layak makan**.\n\n### 5. Isi Piringku\nEka mengenal acuan pembagian piring makan. Konsepnya adalah panduan pembagian kelompok makanan dalam satu piring. Langkah yang sesuai: **Mengisi sekitar setengah piring dengan sayur dan buah serta sisanya makanan pokok dan lauk**.\n\n![Ilustrasi belajar PJOK Bab 4](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pjk/assets/pjk-b04-materi.svg)\n\n### 6. Takaran saji\nFarah membaca label minuman dua sajian per kemasan. Konsepnya adalah jumlah produk yang menjadi dasar informasi pada label gizi. Langkah yang sesuai: **Menghubungkan angka zat gizi dengan jumlah sajian yang diminum**.\n\n### 7. Pembatasan gula garam lemak\nGilang memilih minuman untuk bekal rutin. Konsepnya adalah pengaturan konsumsi agar tidak berlebihan dalam pola makan. Langkah yang sesuai: **Mengutamakan air dan memperhatikan kandungan produk bersama keluarga**.\n\n### 8. Keamanan pangan\nHana memeriksa bekal sebelum dimakan. Konsepnya adalah pemilihan dan penanganan makanan agar layak dikonsumsi. Langkah yang sesuai: **Memeriksa kebersihan penyimpanan dan kondisi makanan**.\n\n### 9. Kebersihan tangan\nIntan hendak makan setelah bermain di luar. Konsepnya adalah membersihkan tangan untuk mengurangi perpindahan kotoran dan kuman. Langkah yang sesuai: **Mencuci tangan dengan sabun dan air mengalir sebelum makan**.\n\n### 10. Perencanaan menu\nJoko menyusun menu bersama keluarga. Konsepnya adalah penyusunan makanan beragam sesuai kebutuhan dan keadaan. Langkah yang sesuai: **Mempertimbangkan keragaman biaya ketersediaan dan kebutuhan kesehatan**.\n\n## Ingat dan diskusikan\n\nPanduan Isi Piringku menggambarkan sekitar setengah piring berisi sayur dan buah, sisanya makanan pokok dan lauk. Kebutuhan porsi disesuaikan kondisi. Gunakan informasi per sajian secara teliti: dua sajian berarti dua kali angka per sajian untuk jumlah yang sama. Jangan memaksa bahan pemicu alergi.\n\n## Misi belajar\n\nPilih satu situasi. Jelaskan alasan keputusan yang aman, akibat pilihan lain, dan satu perbaikan. Praktik gerak atau simulasi hanya dilakukan dengan pendampingan guru dan penyesuaian kemampuan."
+    }
+  ]
+}
