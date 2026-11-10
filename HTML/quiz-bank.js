@@ -66,7 +66,7 @@
 
   async function loadQuestions({ baseUrl, subjectIds, selectedChapters, subjects, fetcher = fetch }) {
     async function readJson(path) {
-      const response = await fetcher(baseUrl + path);
+      const response = await fetcher(baseUrl + path, { cache: 'no-store' });
       if (!response.ok) throw new Error(`Gagal memuat ${path} (HTTP ${response.status}). Coba lagi setelah koneksi tersedia.`);
       try { return await response.json(); }
       catch (_) { throw new Error(`Data ${path} bukan JSON yang valid.`); }
