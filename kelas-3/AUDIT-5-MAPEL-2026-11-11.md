@@ -34,3 +34,10 @@
 - PAI B01 soal nomor 001–010: ditulis ulang secara substantif dengan konteks, distraktor, dan pembahasan baru.
 - Pemeriksaan pasca-commit: berkas IPAS B01 tetap memuat 50 nomor dan PAI B01 tetap 30 nomor; ID awal dan akhir masih tersedia.
 - **Belum selesai:** 1.915 butir lain belum mendapatkan penulisan ulang substantif dalam putaran ini. Audit kunci satu per satu, kesesuaian buku resmi, dan inspeksi semua gambar belum selesai. Status keseluruhan tetap BELUM FINAL.
+
+## Checkpoint revisi lanjutan
+
+Lihat [PROGRES-REVISI-1945.md](PROGRES-REVISI-1945.md): IPAS Bab 1 seluruh
+70 butir diperiksa ulang, 56 diubah, sepuluh stimulus gambar diganti, dua modul
+dilengkapi. **Keseluruhan tetap BELUM SELESAI**; 1.875 soal pada 40 bab/unit
+belum diaudit ulang. Tidak ada konversi JSON pada tahap ini.

@@ -114,33 +114,33 @@
 
 ## Soal 8 — K03-IPAS-B01-M01-008
 
-**Pertanyaan:** Saat bermain di luar, debu masuk ke mata. Tindakan yang paling aman adalah ....
+**Pertanyaan:** Ketika bermain, debu mengenai mata Lala. Apa tindakan pertama yang tepat?
 
 **Pilihan jawaban:**
-- Menggosok mata kuat-kuat
-- Memakai ujung pensil untuk mengambil debu
-- Membiarkannya sambil terus bermain
-- Meminta bantuan orang dewasa dan membilas dengan air bersih
+- Mengusap mata dengan tangan yang kotor
+- Meminta teman meniup mata dari dekat
+- Mencoba mengambil debu dengan ujung baju
+- Berhenti bermain dan meminta bantuan orang dewasa
 
-**Kunci Jawaban:** Meminta bantuan orang dewasa dan membilas dengan air bersih
+**Kunci Jawaban:** Berhenti bermain dan meminta bantuan orang dewasa
 
-**Pembahasan:** Menggosok atau memasukkan benda ke mata dapat melukai mata. Bilas dengan air bersih dan minta bantuan.
+**Pembahasan:** Bantuan orang dewasa diperlukan; menggosok atau memasukkan benda ke mata dapat melukainya.
 
 ---
 
 ## Soal 9 — K03-IPAS-B01-M01-009
 
-**Pertanyaan:** Adi ingin menjaga kesehatan telinganya ketika memakai headphone. Pilihan yang lebih baik ialah ....
+**Pertanyaan:** Adi memakai headphone di tempat yang ramai. Kebiasaan yang lebih aman ialah ...
 
 **Pilihan jawaban:**
-- Mengatur volume tidak terlalu keras
-- Memakai volume maksimal
-- Mendengarkan suara keras sepanjang hari
-- Memasukkan benda kecil ke telinga
+- Menjaga volume tidak keras dan memberi jeda
+- Menaikkan volume agar menutupi semua suara sekitar
+- Memakai volume tertinggi pada satu telinga saja
+- Tetap mendengarkan ketika telinga terasa sakit
 
-**Kunci Jawaban:** Mengatur volume tidak terlalu keras
+**Kunci Jawaban:** Menjaga volume tidak keras dan memberi jeda
 
-**Pembahasan:** Suara terlalu keras berisiko merusak pendengaran. Volume wajar membantu melindungi telinga.
+**Pembahasan:** Volume keras dapat mengganggu pendengaran; jeda dan volume wajar membantu melindungi telinga.
 
 ---
 
@@ -258,544 +258,544 @@
 
 ## Soal 17 — K03-IPAS-B01-M01-017
 
-**Pertanyaan:** Mengapa kita perlu tidur cukup setiap malam?
+**Pertanyaan:** Apa manfaat tidur cukup bagi kegiatan belajar?
 
 **Pilihan jawaban:**
-- Agar tubuh dan otak memiliki waktu beristirahat
-- Agar tidak perlu minum air
-- Agar mata tidak pernah berkedip
-- Agar tidak perlu makan
+- Membantu pemulihan tubuh dan konsentrasi
+- Menggantikan seluruh kebutuhan makan pagi
+- Membuat tubuh tidak memerlukan air minum
+- Menghilangkan kebutuhan bergerak pada siang hari
 
-**Kunci Jawaban:** Agar tubuh dan otak memiliki waktu beristirahat
+**Kunci Jawaban:** Membantu pemulihan tubuh dan konsentrasi
 
-**Pembahasan:** Tidur membantu pemulihan tubuh serta mendukung konsentrasi dan aktivitas belajar.
+**Pembahasan:** Tidur mendukung pemulihan dan perhatian saat belajar, tetapi tidak menggantikan makan, minum, atau aktivitas fisik.
 
 ---
 
 ## Soal 18 — K03-IPAS-B01-M01-018
 
-**Pertanyaan:** Saat makan siang, pilihan yang lebih mendukung kesehatan tubuh adalah ....
+**Pertanyaan:** Menu makan siang mana yang paling beragam kelompok pangannya?
 
 **Pilihan jawaban:**
-- Hanya permen
-- Makanan beragam dengan sayur, lauk, dan sumber karbohidrat
-- Hanya minuman manis
-- Tidak makan sepanjang hari
+- Nasi, kentang, dan roti saja
+- Nasi, ikan, sayur, dan buah
+- Ikan dan telur saja
+- Pisang dan jeruk saja
 
-**Kunci Jawaban:** Makanan beragam dengan sayur, lauk, dan sumber karbohidrat
+**Kunci Jawaban:** Nasi, ikan, sayur, dan buah
 
-**Pembahasan:** Makanan beragam menyediakan zat gizi yang diperlukan tubuh untuk tumbuh dan beraktivitas.
+**Pembahasan:** Menu pertama menggabungkan makanan pokok, lauk, sayur, dan buah sehingga menyediakan zat gizi yang beragam.
 
 ---
 
 ## Soal 19 — K03-IPAS-B01-M01-019
 
-**Pertanyaan:** Tomi melihat temannya kesulitan membaca tulisan kecil. Sikap yang tepat adalah ....
+**Pertanyaan:** Teman Tomi kesulitan membaca tulisan kecil. Bantuan yang menghargainya ialah ...
 
 **Pilihan jawaban:**
-- Mengejek temannya
-- Menyembunyikan buku temannya
-- Membantu dan menyarankan meminta bantuan guru atau orang tua
-- Memaksanya membaca lebih cepat
+- Mengambil bukunya tanpa bertanya terlebih dahulu
+- Menjawab semua tugasnya agar cepat selesai
+- Menanyakan kebutuhannya dan menawarkan bantuan guru
+- Mengumumkan kesulitannya kepada seluruh kelas
 
-**Kunci Jawaban:** Membantu dan menyarankan meminta bantuan guru atau orang tua
+**Kunci Jawaban:** Menanyakan kebutuhannya dan menawarkan bantuan guru
 
-**Pembahasan:** Membantu tanpa mengejek dan meminta dukungan orang dewasa merupakan sikap peduli.
+**Pembahasan:** Menanyakan kebutuhan memberi teman pilihan dan menjaga kenyamanannya; guru dapat membantu menyediakan cara belajar yang sesuai.
 
 ---
 
 ## Soal 20 — K03-IPAS-B01-M01-020
 
-**Pertanyaan:** Saat hujan deras disertai petir, Edo ingin bermain di lapangan terbuka. Pilihan paling aman adalah ....
+**Pertanyaan:** Dua anak berbeda tinggi badan. Apakah kita dapat menentukan siapa lebih pandai hanya dari tinggi badannya?
 
 **Pilihan jawaban:**
-- Berlindung di bawah pohon tinggi
-- Tetap bermain sambil membawa payung logam
-- Berdiri di tempat paling tinggi
-- Masuk ke bangunan yang aman dan menunggu badai reda
+- Ya, anak yang lebih tinggi selalu lebih pandai
+- Ya, anak yang lebih pendek selalu lebih pandai
+- Ya, tinggi badan menunjukkan nilai pelajaran setiap anak
+- Tidak, kemampuan belajar tidak dapat dinilai dari tinggi badan saja
 
-**Kunci Jawaban:** Masuk ke bangunan yang aman dan menunggu badai reda
+**Kunci Jawaban:** Tidak, kemampuan belajar tidak dapat dinilai dari tinggi badan saja
 
-**Pembahasan:** Petir berbahaya di ruang terbuka. Bangunan tertutup yang aman merupakan tempat berlindung yang lebih baik.
+**Pembahasan:** Ciri fisik tidak menentukan kepandaian seseorang; setiap anak perlu mendapat kesempatan belajar dan dukungan.
 
 ---
 
 ## Soal 21 — K03-IPAS-B01-M01-021
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Mata**?
+**Pertanyaan:** Apa manfaat bulu mata bagi mata?
 
 **Pilihan jawaban:**
-- melihat warna dan bentuk
-- mengenali rasa
-- membantu penglihatan sebagian orang
-- mendukung kesehatan tubuh
+- Membantu menghalangi debu yang mendekat
+- Mengubah warna benda yang dilihat
+- Menghasilkan air liur untuk mata
+- Menggantikan tugas telinga menerima bunyi
 
-**Kunci Jawaban:** melihat warna dan bentuk
+**Kunci Jawaban:** Membantu menghalangi debu yang mendekat
 
-**Pembahasan:** Mata: melihat warna dan bentuk.
+**Pembahasan:** Bulu mata membantu melindungi permukaan mata dari partikel; bukan alat untuk mendengar atau mengecap.
 
 ---
 
 ## Soal 22 — K03-IPAS-B01-M01-022
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Telinga**?
+**Pertanyaan:** Daun telinga memiliki lekukan. Bentuk itu membantu ...
 
 **Pilihan jawaban:**
-- merasakan sentuhan dan suhu
-- mendengar suara
-- membantu membersihkan tangan
-- membantu memenuhi kebutuhan cairan
+- Mengecap rasa makanan yang masuk mulut
+- Mengumpulkan dan mengarahkan bunyi ke liang telinga
+- Menyaring cahaya sebelum masuk mata
+- Mengatur jumlah udara yang masuk hidung
 
-**Kunci Jawaban:** mendengar suara
+**Kunci Jawaban:** Mengumpulkan dan mengarahkan bunyi ke liang telinga
 
-**Pembahasan:** Telinga: mendengar suara.
+**Pembahasan:** Bentuk daun telinga membantu bunyi menuju bagian dalam telinga, tempat proses pendengaran berlanjut.
 
 ---
 
 ## Soal 23 — K03-IPAS-B01-M01-023
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Hidung**?
+**Pertanyaan:** Di mana indra peraba terdapat?
 
 **Pilihan jawaban:**
-- mengolah informasi dari indra
-- membantu tubuh beristirahat
-- mencium aroma
-- membuat teman merasa diterima
+- Hanya pada ujung kuku
+- Hanya di permukaan lidah
+- Pada kulit di berbagai bagian tubuh
+- Hanya pada daun telinga
 
-**Kunci Jawaban:** mencium aroma
+**Kunci Jawaban:** Pada kulit di berbagai bagian tubuh
 
-**Pembahasan:** Hidung: mencium aroma.
+**Pembahasan:** Kulit menyelimuti tubuh dan memiliki penerima rangsangan sentuhan; peraba tidak hanya terdapat di tangan.
 
 ---
 
 ## Soal 24 — K03-IPAS-B01-M01-024
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Lidah**?
+**Pertanyaan:** Seseorang melihat semangka dari jauh. Informasi mana yang belum dapat dipastikan hanya dengan mata?
 
 **Pilihan jawaban:**
-- membantu penglihatan sebagian orang
-- mendukung kesehatan tubuh
-- menghormati batas tubuh orang lain
-- mengenali rasa
+- Warna kulit buahnya
+- Bentuk luar buahnya
+- Ada atau tidaknya garis pada kulit buah
+- Rasa daging buahnya
 
-**Kunci Jawaban:** mengenali rasa
+**Kunci Jawaban:** Rasa daging buahnya
 
-**Pembahasan:** Lidah: mengenali rasa.
+**Pembahasan:** Mata memberi informasi tampilan luar; rasa tidak dapat dipastikan tanpa informasi lain.
 
 ---
 
 ## Soal 25 — K03-IPAS-B01-M01-025
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Kulit**?
+**Pertanyaan:** Benda dalam kantong terasa bulat dan halus. Mengapa kita belum boleh menyimpulkan warnanya?
 
 **Pilihan jawaban:**
-- merasakan sentuhan dan suhu
-- membantu membersihkan tangan
-- membantu memenuhi kebutuhan cairan
-- tempat bercerita saat ada masalah
+- Warna tidak diketahui hanya melalui sentuhan
+- Semua benda bulat pasti berwarna merah
+- Benda halus selalu memiliki warna yang sama
+- Warna benda berubah setiap kali disentuh
 
-**Kunci Jawaban:** merasakan sentuhan dan suhu
+**Kunci Jawaban:** Warna tidak diketahui hanya melalui sentuhan
 
-**Pembahasan:** Kulit: merasakan sentuhan dan suhu.
+**Pembahasan:** Sentuhan memberi informasi bentuk atau tekstur, sedangkan warna memerlukan pengamatan penglihatan.
 
 ---
 
 ## Soal 26 — K03-IPAS-B01-M01-026
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Otak**?
+**Pertanyaan:** Nia melihat bentuk benda di ruang terang dan sangat redup. Apa yang membuatnya lebih sulit melihat di ruang redup?
 
 **Pilihan jawaban:**
-- membantu tubuh beristirahat
-- mengolah informasi dari indra
-- membuat teman merasa diterima
-- tidak boleh ditatap
+- Bentuk benda pasti berubah menjadi lebih kecil
+- Cahaya yang tersedia lebih sedikit
+- Mata berubah menjadi indra pendengar
+- Semua benda kehilangan warnanya selamanya
 
-**Kunci Jawaban:** mengolah informasi dari indra
+**Kunci Jawaban:** Cahaya yang tersedia lebih sedikit
 
-**Pembahasan:** Otak: mengolah informasi dari indra.
+**Pembahasan:** Penglihatan memerlukan cahaya; ruangan redup mengurangi informasi cahaya yang diterima mata.
 
 ---
 
 ## Soal 27 — K03-IPAS-B01-M01-027
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Kacamata**?
+**Pertanyaan:** Guru menguji bunyi dua wadah tertutup tanpa memperlihatkan isinya. Mengapa wadah ditutup?
 
 **Pilihan jawaban:**
-- mendukung kesehatan tubuh
-- menghormati batas tubuh orang lain
-- membantu penglihatan sebagian orang
-- tidak dimasukkan ke telinga
+- Agar semua bunyi pasti menjadi sama
+- Agar hidung dapat menentukan warna wadah
+- Agar siswa berfokus pada informasi bunyi
+- Agar siswa tidak perlu mendengarkan
 
-**Kunci Jawaban:** membantu penglihatan sebagian orang
+**Kunci Jawaban:** Agar siswa berfokus pada informasi bunyi
 
-**Pembahasan:** Kacamata: membantu penglihatan sebagian orang.
+**Pembahasan:** Menutup tampilan isi mengurangi petunjuk penglihatan sehingga siswa membandingkan bunyi yang didengar.
 
 ---
 
 ## Soal 28 — K03-IPAS-B01-M01-028
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Sabun**?
+**Pertanyaan:** Dalam pengamatan tekstur, benda mana yang paling aman dipakai?
 
 **Pilihan jawaban:**
-- membantu memenuhi kebutuhan cairan
-- tempat bercerita saat ada masalah
-- tidak boleh dicicipi
-- membantu membersihkan tangan
+- Pecahan gelas kecil
+- Permukaan kompor yang baru dipakai
+- Kawat yang ujungnya runcing
+- Kain bersih yang tidak tajam
 
-**Kunci Jawaban:** membantu membersihkan tangan
+**Kunci Jawaban:** Kain bersih yang tidak tajam
 
-**Pembahasan:** Sabun: membantu membersihkan tangan.
+**Pembahasan:** Kain bersih memungkinkan pengamatan sentuhan tanpa risiko tajam atau panas seperti pilihan lain.
 
 ---
 
 ## Soal 29 — K03-IPAS-B01-M01-029
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Tidur cukup**?
+**Pertanyaan:** Mengapa kita tidak menatap Matahari langsung saat mempelajari cahaya?
 
 **Pilihan jawaban:**
-- membantu tubuh beristirahat
-- membuat teman merasa diterima
-- tidak boleh ditatap
-- membantu menjaga kebugaran
+- Cahaya sangat kuat dapat merusak mata
+- Mata akan belajar melihat lebih cepat
+- Warna mata pasti berubah sesuai cahaya
+- Matahari hanya terlihat melalui lidah
 
-**Kunci Jawaban:** membantu tubuh beristirahat
+**Kunci Jawaban:** Cahaya sangat kuat dapat merusak mata
 
-**Pembahasan:** Tidur cukup: membantu tubuh beristirahat.
+**Pembahasan:** Menatap Matahari langsung berisiko melukai mata dan bukan cara aman menyelidiki cahaya.
 
 ---
 
 ## Soal 30 — K03-IPAS-B01-M01-030
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Makanan bergizi**?
+**Pertanyaan:** Telinga Danu terasa sakit. Kepada siapa ia sebaiknya bercerita?
 
 **Pilihan jawaban:**
-- menghormati batas tubuh orang lain
-- mendukung kesehatan tubuh
-- tidak dimasukkan ke telinga
-- dilakukan sebelum makan
+- Teman yang menyuruh memasukkan benda ke telinga
+- Orang tua, wali, atau guru yang dapat membantu
+- Orang asing yang meminta foto pribadi
+- Teman yang meminta keluhannya dirahasiakan dari semua orang dewasa
 
-**Kunci Jawaban:** mendukung kesehatan tubuh
+**Kunci Jawaban:** Orang tua, wali, atau guru yang dapat membantu
 
-**Pembahasan:** Makanan bergizi: mendukung kesehatan tubuh.
+**Pembahasan:** Orang dewasa tepercaya dapat membantu mencari penanganan yang sesuai dan tidak membiarkan anak menanganinya sendiri.
 
 ---
 
 ## Soal 31 — K03-IPAS-B01-M01-031
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Minum air**?
+**Pertanyaan:** Raka ingin meminjam kacamata temannya untuk bermain. Apa pilihan yang tepat?
 
 **Pilihan jawaban:**
-- tempat bercerita saat ada masalah
-- tidak boleh dicicipi
-- membantu memenuhi kebutuhan cairan
-- membantu mengenal lingkungan
+- Memakainya selama mungkin agar mata menjadi sama
+- Menukar kacamatanya dengan semua teman
+- Tidak memakainya; kacamata itu disesuaikan untuk penggunanya
+- Mengubah sendiri bagian lensa agar cocok
 
-**Kunci Jawaban:** membantu memenuhi kebutuhan cairan
+**Kunci Jawaban:** Tidak memakainya; kacamata itu disesuaikan untuk penggunanya
 
-**Pembahasan:** Minum air: membantu memenuhi kebutuhan cairan.
+**Pembahasan:** Kacamata koreksi dipilih menurut kebutuhan pemakainya dan perlu dijaga sebagai alat bantu pribadi.
 
 ---
 
 ## Soal 32 — K03-IPAS-B01-M01-032
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Menghargai perbedaan**?
+**Pertanyaan:** Seorang teman memakai alat bantu dengar. Cara mengajaknya berbicara yang baik ialah ...
 
 **Pilihan jawaban:**
-- tidak boleh ditatap
-- membantu menjaga kebugaran
-- melihat warna dan bentuk
-- membuat teman merasa diterima
+- Selalu berteriak tepat di telinganya
+- Menyentuh alat bantunya tanpa meminta izin
+- Menghindarinya karena dianggap tidak dapat belajar
+- Menghadapnya dan menanyakan cara berkomunikasi yang nyaman
 
-**Kunci Jawaban:** membuat teman merasa diterima
+**Kunci Jawaban:** Menghadapnya dan menanyakan cara berkomunikasi yang nyaman
 
-**Pembahasan:** Menghargai perbedaan: membuat teman merasa diterima.
+**Pembahasan:** Kebutuhan komunikasi dapat berbeda; menghadap teman dan bertanya menghargai kenyamanan serta pilihannya.
 
 ---
 
 ## Soal 33 — K03-IPAS-B01-M01-033
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Meminta izin**?
+**Pertanyaan:** Alya hendak memegang tangan temannya untuk membantu berjalan. Apa yang perlu dilakukan dahulu?
 
 **Pilihan jawaban:**
-- menghormati batas tubuh orang lain
-- tidak dimasukkan ke telinga
-- dilakukan sebelum makan
-- mendengar suara
+- Bertanya apakah ia memerlukan dan mengizinkan bantuan
+- Langsung menarik tangannya agar cepat
+- Mengajak semua teman memegangnya bersamaan
+- Mengambil tasnya tanpa memberi penjelasan
 
-**Kunci Jawaban:** menghormati batas tubuh orang lain
+**Kunci Jawaban:** Bertanya apakah ia memerlukan dan mengizinkan bantuan
 
-**Pembahasan:** Meminta izin: menghormati batas tubuh orang lain.
+**Pembahasan:** Meminta izin menghormati batas tubuh dan membantu mengetahui bantuan yang benar-benar diperlukan.
 
 ---
 
 ## Soal 34 — K03-IPAS-B01-M01-034
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Orang dewasa tepercaya**?
+**Pertanyaan:** Manakah laporan pengamatan yang menyebutkan bukti, bukan sekadar kesukaan?
 
 **Pilihan jawaban:**
-- tidak boleh dicicipi
-- tempat bercerita saat ada masalah
-- membantu mengenal lingkungan
-- mencium aroma
+- Kain ini pasti paling bagus untuk semua orang.
+- Permukaan kain ini terasa berbulu ketika disentuh.
+- Semua teman harus menyukai kain pilihanku.
+- Kain ini lebih hebat karena milikku.
 
-**Kunci Jawaban:** tempat bercerita saat ada masalah
+**Kunci Jawaban:** Permukaan kain ini terasa berbulu ketika disentuh.
 
-**Pembahasan:** Orang dewasa tepercaya: tempat bercerita saat ada masalah.
+**Pembahasan:** Laporan pertama menyatakan hasil sentuhan yang dapat dibandingkan, sedangkan pilihan lain berupa penilaian atau pemaksaan selera.
 
 ---
 
 ## Soal 35 — K03-IPAS-B01-M01-035
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Matahari langsung**?
+**Pertanyaan:** Rini ingin membandingkan dua kain. Agar pengamatannya terarah, ia sebaiknya membandingkan ...
 
 **Pilihan jawaban:**
-- membantu menjaga kebugaran
-- melihat warna dan bentuk
-- tidak boleh ditatap
-- mengenali rasa
+- Tekstur kain pertama dengan bunyi kain kedua
+- Warna kain pertama dengan rasa makanan
+- Tekstur kedua kain dengan cara sentuhan yang sama
+- Kesukaan teman tanpa mengamati kain
 
-**Kunci Jawaban:** tidak boleh ditatap
+**Kunci Jawaban:** Tekstur kedua kain dengan cara sentuhan yang sama
 
-**Pembahasan:** Matahari langsung: tidak boleh ditatap.
+**Pembahasan:** Membandingkan ciri yang sama dengan cara yang sama membantu memperoleh informasi yang sesuai tujuan.
 
 ---
 
 ## Soal 36 — K03-IPAS-B01-M01-036
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Benda asing**?
+**Pertanyaan:** Apa yang membedakan pengamatan aroma dengan pengamatan rasa?
 
 **Pilihan jawaban:**
-- dilakukan sebelum makan
-- mendengar suara
-- merasakan sentuhan dan suhu
-- tidak dimasukkan ke telinga
+- Keduanya hanya diterima oleh kulit
+- Aroma selalu dapat diketahui dari warna benda
+- Rasa makanan dapat ditentukan dari keras bunyinya
+- Aroma dikenali terutama oleh hidung, rasa oleh lidah
 
-**Kunci Jawaban:** tidak dimasukkan ke telinga
+**Kunci Jawaban:** Aroma dikenali terutama oleh hidung, rasa oleh lidah
 
-**Pembahasan:** Benda asing: tidak dimasukkan ke telinga.
+**Pembahasan:** Penciuman dan pengecapan memiliki penerima yang berbeda meskipun bekerja sama ketika menikmati makanan.
 
 ---
 
 ## Soal 37 — K03-IPAS-B01-M01-037
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Bahan tak dikenal**?
+**Pertanyaan:** Guru menyediakan dua botol bahan yang tidak dikenal. Mengapa siswa tidak boleh menebak isinya dengan mencicipi?
 
 **Pilihan jawaban:**
-- tidak boleh dicicipi
-- membantu mengenal lingkungan
-- mencium aroma
-- mengolah informasi dari indra
+- Bahan itu belum dipastikan aman untuk dimakan
+- Semua bahan dalam botol pasti asin
+- Rasa hanya dapat diketahui melalui warna
+- Mencicipi membuat botol kehilangan bentuk
 
-**Kunci Jawaban:** tidak boleh dicicipi
+**Kunci Jawaban:** Bahan itu belum dipastikan aman untuk dimakan
 
-**Pembahasan:** Bahan tak dikenal: tidak boleh dicicipi.
+**Pembahasan:** Pengamatan harus mempertimbangkan keamanan; bahan yang tidak dikenal tidak boleh dicicipi.
 
 ---
 
 ## Soal 38 — K03-IPAS-B01-M01-038
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Olahraga**?
+**Pertanyaan:** Bima ingin menguji apakah ia dapat mengenali arah bunyi. Tempat kegiatan yang sesuai ialah ...
 
 **Pilihan jawaban:**
-- melihat warna dan bentuk
-- membantu menjaga kebugaran
-- mengenali rasa
-- membantu penglihatan sebagian orang
+- Tepi jalan ramai sambil menutup mata
+- Ruang aman bersama guru, sambil tetap diam di tempat
+- Tangga sekolah sambil berjalan mundur
+- Dekat kolam tanpa pendamping
 
-**Kunci Jawaban:** membantu menjaga kebugaran
+**Kunci Jawaban:** Ruang aman bersama guru, sambil tetap diam di tempat
 
-**Pembahasan:** Olahraga: membantu menjaga kebugaran.
+**Pembahasan:** Pengamatan bunyi tidak boleh menghilangkan kewaspadaan terhadap lalu lintas, jatuh, atau air.
 
 ---
 
 ## Soal 39 — K03-IPAS-B01-M01-039
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Mencuci tangan**?
+**Pertanyaan:** Apa peran otak ketika kita membaca tulisan?
 
 **Pilihan jawaban:**
-- mendengar suara
-- merasakan sentuhan dan suhu
-- dilakukan sebelum makan
-- membantu membersihkan tangan
+- Menggantikan cahaya di dalam ruangan
+- Menghasilkan tinta pada halaman
+- Mengolah informasi yang diterima melalui mata
+- Membuat telinga melihat huruf
 
-**Kunci Jawaban:** dilakukan sebelum makan
+**Kunci Jawaban:** Mengolah informasi yang diterima melalui mata
 
-**Pembahasan:** Mencuci tangan: dilakukan sebelum makan.
+**Pembahasan:** Mata menerima informasi penglihatan dan otak membantu mengenali serta memahami tulisan.
 
 ---
 
 ## Soal 40 — K03-IPAS-B01-M01-040
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Indra**?
+**Pertanyaan:** Bola melaju ke arah Rudi. Mengapa penglihatan dan gerakan tubuh perlu bekerja sama?
 
 **Pilihan jawaban:**
-- mencium aroma
-- mengolah informasi dari indra
-- membantu tubuh beristirahat
-- membantu mengenal lingkungan
+- Mata dapat memegang bola tanpa tangan
+- Tangan menentukan warna bola tanpa informasi lain
+- Bola berubah arah hanya karena dilihat
+- Informasi arah bola membantu mengatur tindakan menangkap
 
-**Kunci Jawaban:** membantu mengenal lingkungan
+**Kunci Jawaban:** Informasi arah bola membantu mengatur tindakan menangkap
 
-**Pembahasan:** Indra: membantu mengenal lingkungan.
+**Pembahasan:** Informasi indra diproses untuk membantu tubuh memilih dan mengoordinasikan tindakan.
 
 ---
 
 ## Soal 41 — K03-IPAS-B01-M01-041
 
-**Pertanyaan:** Pada bab **Keajaiban Tubuhku**, hal apa yang berkaitan dengan "melihat warna dan bentuk"?
+**Pertanyaan:** Manakah contoh ciri fisik yang tidak menentukan nilai seseorang?
 
 **Pilihan jawaban:**
-- Mata
-- Lidah
-- Kacamata
-- Makanan bergizi
+- Warna kulit
+- Kejujuran dalam bermain
+- Kesediaan menghormati teman
+- Tanggung jawab menyelesaikan tugas
 
-**Kunci Jawaban:** Mata
+**Kunci Jawaban:** Warna kulit
 
-**Pembahasan:** Mata adalah pilihan yang sesuai karena petunjuk soal menyebutkan "melihat warna dan bentuk". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Warna kulit merupakan ciri fisik, bukan ukuran kepandaian atau kebaikan seseorang.
 
 ---
 
 ## Soal 42 — K03-IPAS-B01-M01-042
 
-**Pertanyaan:** Pada bab **Keajaiban Tubuhku**, hal apa yang berkaitan dengan "mendengar suara"?
+**Pertanyaan:** Kelompok akan mengamati bentuk benda. Teman yang sulit melihat dapat dibantu dengan ...
 
 **Pilihan jawaban:**
-- Kulit
-- Telinga
-- Sabun
-- Minum air
+- Larangan ikut agar kelompok cepat selesai
+- Benda bertekstur aman dan penjelasan sesuai kebutuhannya
+- Tugas yang dijawabkan tanpa bertanya kepadanya
+- Paksaan memakai cara yang sama walau tidak nyaman
 
-**Kunci Jawaban:** Telinga
+**Kunci Jawaban:** Benda bertekstur aman dan penjelasan sesuai kebutuhannya
 
-**Pembahasan:** Telinga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mendengar suara". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Cara pengamatan dapat disesuaikan agar teman tetap berpartisipasi dengan aman dan bermakna.
 
 ---
 
 ## Soal 43 — K03-IPAS-B01-M01-043
 
-**Pertanyaan:** Pada bab **Keajaiban Tubuhku**, hal apa yang berkaitan dengan "mencium aroma"?
+**Pertanyaan:** Mengapa tangan perlu dibersihkan sebelum menyentuh area wajah?
 
 **Pilihan jawaban:**
-- Otak
-- Tidur cukup
-- Hidung
-- Menghargai perbedaan
+- Agar kulit wajah tidak lagi memerlukan perawatan
+- Agar semua bau dapat dilihat oleh mata
+- Agar kotoran tidak mudah berpindah ke mata, hidung, atau mulut
+- Agar tangan tidak dapat merasakan suhu
 
-**Kunci Jawaban:** Hidung
+**Kunci Jawaban:** Agar kotoran tidak mudah berpindah ke mata, hidung, atau mulut
 
-**Pembahasan:** Hidung adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mencium aroma". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Tangan dapat membawa kotoran; kebersihan mengurangi perpindahannya ketika menyentuh wajah.
 
 ---
 
 ## Soal 44 — K03-IPAS-B01-M01-044
 
-**Pertanyaan:** Pada bab **Keajaiban Tubuhku**, hal apa yang berkaitan dengan "mengenali rasa"?
+**Pertanyaan:** Setelah bermain aktif, tubuh berkeringat dan terasa lelah. Pilihan yang sesuai ialah ...
 
 **Pilihan jawaban:**
-- Kacamata
-- Makanan bergizi
-- Meminta izin
-- Lidah
+- Memaksa terus bermain tanpa jeda
+- Menghindari minum sampai malam
+- Menganggap rasa lelah harus selalu disembunyikan
+- Beristirahat dan minum air sesuai kebutuhan
 
-**Kunci Jawaban:** Lidah
+**Kunci Jawaban:** Beristirahat dan minum air sesuai kebutuhan
 
-**Pembahasan:** Lidah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengenali rasa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Istirahat dan cairan membantu kebutuhan tubuh setelah aktivitas; rasa tidak nyaman perlu disampaikan kepada orang dewasa.
 
 ---
 
 ## Soal 45 — K03-IPAS-B01-M01-045
 
-**Pertanyaan:** Pada bab **Keajaiban Tubuhku**, hal apa yang berkaitan dengan "merasakan sentuhan dan suhu"?
+**Pertanyaan:** Guru meminta siswa menyebutkan hasil penglihatan. Jawaban yang sesuai ialah ...
 
 **Pilihan jawaban:**
-- Kulit
-- Sabun
-- Minum air
-- Orang dewasa tepercaya
+- Bola itu berwarna biru dan berbentuk bulat.
+- Bola itu terasa kasar saat diraba.
+- Bola itu berbunyi ketika diketuk.
+- Bola itu beraroma seperti karet.
 
-**Kunci Jawaban:** Kulit
+**Kunci Jawaban:** Bola itu berwarna biru dan berbentuk bulat.
 
-**Pembahasan:** Kulit adalah pilihan yang sesuai karena petunjuk soal menyebutkan "merasakan sentuhan dan suhu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Warna dan bentuk luar diamati melalui penglihatan; pilihan lain menggunakan sentuhan, pendengaran, dan penciuman.
 
 ---
 
 ## Soal 46 — K03-IPAS-B01-M01-046
 
-**Pertanyaan:** Pada bab **Keajaiban Tubuhku**, hal apa yang berkaitan dengan "mengolah informasi dari indra"?
+**Pertanyaan:** Manakah contoh penggunaan indra yang keliru?
 
 **Pilihan jawaban:**
-- Tidur cukup
-- Otak
-- Menghargai perbedaan
-- Matahari langsung
+- Membedakan bunyi dua lonceng dengan telinga
+- Menentukan rasa asin hanya dari warna makanan
+- Membandingkan tekstur kain dengan kulit
+- Melihat pola pada daun dengan mata
 
-**Kunci Jawaban:** Otak
+**Kunci Jawaban:** Menentukan rasa asin hanya dari warna makanan
 
-**Pembahasan:** Otak adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengolah informasi dari indra". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Warna tidak cukup untuk memastikan rasa asin; rasa dikenali terutama melalui pengecapan.
 
 ---
 
 ## Soal 47 — K03-IPAS-B01-M01-047
 
-**Pertanyaan:** Pada bab **Keajaiban Tubuhku**, hal apa yang berkaitan dengan "membantu penglihatan sebagian orang"?
+**Pertanyaan:** Dua siswa melaporkan hasil pengamatan yang berbeda. Apa langkah yang membantu menyelidikinya?
 
 **Pilihan jawaban:**
-- Makanan bergizi
-- Meminta izin
-- Kacamata
-- Benda asing
+- Langsung memilih siswa yang lebih tinggi
+- Menghapus laporan yang berbeda tanpa memeriksa
+- Mengulang pengamatan dengan kondisi yang sama
+- Mengikuti laporan teman yang paling keras berbicara
 
-**Kunci Jawaban:** Kacamata
+**Kunci Jawaban:** Mengulang pengamatan dengan kondisi yang sama
 
-**Pembahasan:** Kacamata adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu penglihatan sebagian orang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Pengamatan ulang membantu membandingkan bukti; tinggi badan atau suara keras bukan ukuran ketepatan laporan.
 
 ---
 
 ## Soal 48 — K03-IPAS-B01-M01-048
 
-**Pertanyaan:** Pada bab **Keajaiban Tubuhku**, hal apa yang berkaitan dengan "membantu membersihkan tangan"?
+**Pertanyaan:** Apa persamaan kelima indra yang dipelajari?
 
 **Pilihan jawaban:**
-- Minum air
-- Orang dewasa tepercaya
-- Bahan tak dikenal
-- Sabun
+- Semuanya hanya terletak pada wajah
+- Semuanya mengenali semua warna
+- Semuanya hanya bekerja ketika makan
+- Membantu menerima informasi dari lingkungan
 
-**Kunci Jawaban:** Sabun
+**Kunci Jawaban:** Membantu menerima informasi dari lingkungan
 
-**Pembahasan:** Sabun adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu membersihkan tangan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Indra menerima jenis informasi yang berbeda; kulit terdapat di berbagai bagian tubuh dan bukan hanya wajah.
 
 ---
 
 ## Soal 49 — K03-IPAS-B01-M01-049
 
-**Pertanyaan:** Pada bab **Keajaiban Tubuhku**, hal apa yang berkaitan dengan "membantu tubuh beristirahat"?
+**Pertanyaan:** Mengapa menggunakan kacamata bukan alasan mengejek teman?
 
 **Pilihan jawaban:**
-- Tidur cukup
-- Menghargai perbedaan
-- Matahari langsung
-- Olahraga
+- Alat bantu mendukung kebutuhan penggunanya
+- Kacamata menunjukkan semua kemampuan belajar seseorang
+- Semua pemakai kacamata mempunyai kebutuhan yang sama
+- Kacamata membuat seseorang tidak boleh bermain
 
-**Kunci Jawaban:** Tidur cukup
+**Kunci Jawaban:** Alat bantu mendukung kebutuhan penggunanya
 
-**Pembahasan:** Tidur cukup adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu tubuh beristirahat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Alat bantu membantu akses dan kegiatan; pemakaiannya tidak menentukan nilai atau seluruh kemampuan seseorang.
 
 ---
 
 ## Soal 50 — K03-IPAS-B01-M01-050
 
-**Pertanyaan:** Pada bab **Keajaiban Tubuhku**, hal apa yang berkaitan dengan "mendukung kesehatan tubuh"?
+**Pertanyaan:** Apa yang perlu dilakukan jika pengamatan membuat tubuh terasa sakit?
 
 **Pilihan jawaban:**
-- Meminta izin
-- Makanan bergizi
-- Benda asing
-- Mencuci tangan
+- Teruskan sampai jawaban ditemukan
+- Hentikan kegiatan dan beri tahu orang dewasa tepercaya
+- Sembunyikan rasa sakit agar tidak mengganggu kelompok
+- Minta teman menekan bagian yang sakit
 
-**Kunci Jawaban:** Makanan bergizi
+**Kunci Jawaban:** Hentikan kegiatan dan beri tahu orang dewasa tepercaya
 
-**Pembahasan:** Makanan bergizi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mendukung kesehatan tubuh". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Kegiatan pengamatan harus aman; rasa sakit adalah alasan berhenti dan meminta bantuan, bukan memaksakan percobaan.
 
 ---

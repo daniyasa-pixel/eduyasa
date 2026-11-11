@@ -17,6 +17,9 @@ Halo, Detektif! Pernahkah kamu menutup mata lalu mencoba mengenali suara teman? 
 
 Coba bayangkan kamu makan jeruk. Mata melihat warnanya, hidung mencium aromanya, lidah merasakan asam-manisnya, dan kulit merasakan permukaan kulit jeruk. Hebat, bukan? Indra bekerja sama dengan otak untuk memahami informasi.
 
+### Bentuk membantu fungsi
+Daun telinga yang berlekuk membantu mengumpulkan bunyi menuju liang telinga. Bulu mata membantu menghalangi debu. Kulit terdapat di berbagai bagian tubuh, bukan hanya telapak tangan. Setiap indra menerima jenis informasi tertentu; warna saja tidak memastikan rasa makanan.
+
 ### Tubuh setiap anak unik
 Ada teman yang tinggi, ada yang lebih pendek. Rambut dan warna kulit pun bisa berbeda. Ada pula teman yang menggunakan kacamata, alat bantu dengar, atau alat bantu bergerak. **Perbedaan bukan alasan mengejek.** Kita saling menghargai dan membantu jika diminta.
 
@@ -37,6 +40,9 @@ Pagi ini, Dita bangun karena mendengar suara ayam. Ia membuka jendela, melihat c
 Ketika Dita menyeberang bersama orang dewasa, **mata** memperhatikan jalan dan **telinga** mendengar kendaraan. Saat sarapan, **hidung** mencium makanan, **lidah** mengenali rasanya, dan **kulit** merasakan apakah mangkuk terlalu panas. Otak membantu mengolah pesan dari indra.
 
 **Tantangan kecil:** Tutup mata sejenak di tempat aman. Sebutkan dua suara yang terdengar. Buka mata, lalu amati dua warna di sekitarmu. Jangan melakukan tantangan ini saat berjalan atau menyeberang.
+
+### Bentuk dan bukti pengamatan
+Dita mengamati lekuk daun telinga yang membantu mengumpulkan bunyi dan bulu mata yang membantu menghalangi debu. Ketika membandingkan kain, ia membandingkan tekstur dengan cara sentuhan yang sama. Ia tidak menebak rasa buah hanya dari warnanya. Hasil pengamatan berbeda dari kesukaan pribadi: kain terasa kasar adalah bukti sentuhan, sedangkan paling bagus adalah penilaian.
 
 ### Semua tubuh berharga
 Di sekolah, Dita bertemu teman-teman dengan ciri fisik berbeda. Ada yang memakai kacamata dan ada yang membutuhkan bantuan agar bisa mengikuti kegiatan. Mereka tetap dapat bermain dan belajar bersama. Kita menghormati ruang pribadi, tidak menyentuh tubuh orang lain tanpa izin, dan memberi bantuan dengan sopan.

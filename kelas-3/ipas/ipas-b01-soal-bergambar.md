@@ -2,360 +2,360 @@
 
 ## Soal 51 — K03-IPAS-B01-M01-051
 
-![Kartu pengamatan](assets/ipas-b01-gambar-01.svg)
+![Pola kartu. A: Lingkaran merah; segitiga biru. B: Persegi merah; lingkaran biru. Amati: Bandingkan bentuk dan warna.](assets/ipas-b01-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Mata** adalah ...
+**Pertanyaan:** Pada kartu mana terdapat lingkaran merah?
 
 **Pilihan jawaban:**
-- melihat warna dan bentuk
-- mengenali rasa
-- membantu penglihatan sebagian orang
-- mendukung kesehatan tubuh
+- Kartu B
+- Kedua kartu
+- Kartu A
+- Tidak ada kartu
 
-**Kunci Jawaban:** melihat warna dan bentuk
+**Kunci Jawaban:** Kartu A
 
-**Pembahasan:** Mata: melihat warna dan bentuk.
+**Pembahasan:** Hanya kartu A memuat lingkaran merah; kartu B memiliki lingkaran berwarna biru.
 
 ---
 
 ## Soal 52 — K03-IPAS-B01-M01-052
 
-![Kartu pengamatan](assets/ipas-b01-gambar-01.svg)
+![Pola kartu. A: Lingkaran merah; segitiga biru. B: Persegi merah; lingkaran biru. Amati: Bandingkan bentuk dan warna.](assets/ipas-b01-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Telinga** adalah ...
+**Pertanyaan:** Ciri apa yang sama pada kedua kartu?
 
 **Pilihan jawaban:**
-- merasakan sentuhan dan suhu
-- mendengar suara
-- membantu membersihkan tangan
-- membantu memenuhi kebutuhan cairan
+- Semua bentuknya segitiga
+- Semua bendanya merah
+- Keduanya hanya memiliki satu bentuk
+- Sama-sama memiliki lingkaran
 
-**Kunci Jawaban:** mendengar suara
+**Kunci Jawaban:** Sama-sama memiliki lingkaran
 
-**Pembahasan:** Telinga: mendengar suara.
+**Pembahasan:** Kedua kartu mempunyai lingkaran meskipun warnanya berbeda.
 
 ---
 
 ## Soal 53 — K03-IPAS-B01-M01-053
 
-![Kartu pengamatan](assets/ipas-b01-gambar-02.svg)
+![Catatan bunyi. A: Ketukan: tok — tok — tok B: Ketukan: ting — ting Catatan: Setiap kata mewakili satu ketukan.](assets/ipas-b01-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Hidung** adalah ...
+**Pertanyaan:** Catatan mana memuat lebih banyak ketukan?
 
 **Pilihan jawaban:**
-- mengolah informasi dari indra
-- membantu tubuh beristirahat
-- mencium aroma
-- membuat teman merasa diterima
+- Catatan A
+- Catatan B
+- Jumlah keduanya sama
+- Keduanya tidak memuat ketukan
 
-**Kunci Jawaban:** mencium aroma
+**Kunci Jawaban:** Catatan A
 
-**Pembahasan:** Hidung: mencium aroma.
+**Pembahasan:** A mencatat tiga ketukan, sedangkan B dua; jumlah diamati dari catatan.
 
 ---
 
 ## Soal 54 — K03-IPAS-B01-M01-054
 
-![Kartu pengamatan](assets/ipas-b01-gambar-02.svg)
+![Catatan bunyi. A: Ketukan: tok — tok — tok B: Ketukan: ting — ting Catatan: Setiap kata mewakili satu ketukan.](assets/ipas-b01-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Lidah** adalah ...
+**Pertanyaan:** Perbedaan apa yang tercatat antara A dan B?
 
 **Pilihan jawaban:**
-- membantu penglihatan sebagian orang
-- mendukung kesehatan tubuh
-- menghormati batas tubuh orang lain
-- mengenali rasa
+- Warna benda dan rasanya
+- Jenis bunyi dan jumlah ketukan
+- Suhu benda dan aromanya
+- Hanya warna tulisan
 
-**Kunci Jawaban:** mengenali rasa
+**Kunci Jawaban:** Jenis bunyi dan jumlah ketukan
 
-**Pembahasan:** Lidah: mengenali rasa.
+**Pembahasan:** Catatan menggunakan kata bunyi yang berbeda serta jumlah ketukan yang berbeda; tidak mencatat warna atau suhu.
 
 ---
 
 ## Soal 55 — K03-IPAS-B01-M01-055
 
-![Kartu pengamatan](assets/ipas-b01-gambar-03.svg)
+![Pengamatan kain. P: Terasa berbulu; warna hijau. Q: Terasa licin; warna hijau. Cara: Diamati dengan mata dan sentuhan.](assets/ipas-b01-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kulit** adalah ...
+**Pertanyaan:** Apa hasil penglihatan yang sama pada P dan Q?
 
 **Pilihan jawaban:**
-- merasakan sentuhan dan suhu
-- membantu membersihkan tangan
-- membantu memenuhi kebutuhan cairan
-- tempat bercerita saat ada masalah
+- Tekstur berbulu
+- Tekstur licin
+- Warna hijau
+- Bunyi berdenting
 
-**Kunci Jawaban:** merasakan sentuhan dan suhu
+**Kunci Jawaban:** Warna hijau
 
-**Pembahasan:** Kulit: merasakan sentuhan dan suhu.
+**Pembahasan:** Warna kedua kain sama; tekstur pada catatan justru berbeda.
 
 ---
 
 ## Soal 56 — K03-IPAS-B01-M01-056
 
-![Kartu pengamatan](assets/ipas-b01-gambar-03.svg)
+![Pengamatan kain. P: Terasa berbulu; warna hijau. Q: Terasa licin; warna hijau. Cara: Diamati dengan mata dan sentuhan.](assets/ipas-b01-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Otak** adalah ...
+**Pertanyaan:** Jika hanya membandingkan hasil sentuhan, kesimpulan yang tepat ialah ...
 
 **Pilihan jawaban:**
-- membantu tubuh beristirahat
-- mengolah informasi dari indra
-- membuat teman merasa diterima
-- tidak boleh ditatap
+- Keduanya berbulu
+- Keduanya licin
+- P licin, Q berbulu
+- P berbulu, Q licin
 
-**Kunci Jawaban:** mengolah informasi dari indra
+**Kunci Jawaban:** P berbulu, Q licin
 
-**Pembahasan:** Otak: mengolah informasi dari indra.
+**Pembahasan:** Keterangan tekstur P dan Q menunjukkan perbedaan yang diterima melalui kulit.
 
 ---
 
 ## Soal 57 — K03-IPAS-B01-M01-057
 
-![Kartu pengamatan](assets/ipas-b01-gambar-04.svg)
+![Denah tempat membaca. Kiri: Lampu meja Tengah: Buku bacaan Kanan: Gelas air](assets/ipas-b01-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kacamata** adalah ...
+**Pertanyaan:** Benda apa di sebelah kiri buku pada denah?
 
 **Pilihan jawaban:**
-- mendukung kesehatan tubuh
-- menghormati batas tubuh orang lain
-- membantu penglihatan sebagian orang
-- tidak dimasukkan ke telinga
+- Lampu meja
+- Gelas air
+- Tas sekolah
+- Rak sepatu
 
-**Kunci Jawaban:** membantu penglihatan sebagian orang
+**Kunci Jawaban:** Lampu meja
 
-**Pembahasan:** Kacamata: membantu penglihatan sebagian orang.
+**Pembahasan:** Posisi lampu terdapat di kiri, buku di tengah, dan gelas di kanan.
 
 ---
 
 ## Soal 58 — K03-IPAS-B01-M01-058
 
-![Kartu pengamatan](assets/ipas-b01-gambar-04.svg)
+![Denah tempat membaca. Kiri: Lampu meja Tengah: Buku bacaan Kanan: Gelas air](assets/ipas-b01-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Sabun** adalah ...
+**Pertanyaan:** Benda yang membantu penerangan di dekat buku terletak ...
 
 **Pilihan jawaban:**
-- membantu memenuhi kebutuhan cairan
-- tempat bercerita saat ada masalah
-- tidak boleh dicicipi
-- membantu membersihkan tangan
+- Di sebelah kanan gelas
+- Di sebelah kiri buku
+- Di dalam gelas
+- Di belakang rak sepatu
 
-**Kunci Jawaban:** membantu membersihkan tangan
+**Kunci Jawaban:** Di sebelah kiri buku
 
-**Pembahasan:** Sabun: membantu membersihkan tangan.
+**Pembahasan:** Lampu membantu menyediakan cahaya dan pada denah berada di kiri buku.
 
 ---
 
 ## Soal 59 — K03-IPAS-B01-M01-059
 
-![Kartu pengamatan](assets/ipas-b01-gambar-05.svg)
+![Jadwal kegiatan. Pagi: Sarapan lalu berangkat sekolah. Siang: Bermain aktif lalu minum air. Malam: Bersiap tidur.](assets/ipas-b01-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Tidur cukup** adalah ...
+**Pertanyaan:** Pada bagian jadwal mana tercatat minum setelah aktivitas?
 
 **Pilihan jawaban:**
-- membantu tubuh beristirahat
-- membuat teman merasa diterima
-- tidak boleh ditatap
-- membantu menjaga kebugaran
+- Pagi
+- Malam
+- Siang
+- Semua bagian
 
-**Kunci Jawaban:** membantu tubuh beristirahat
+**Kunci Jawaban:** Siang
 
-**Pembahasan:** Tidur cukup: membantu tubuh beristirahat.
+**Pembahasan:** Catatan siang secara khusus menghubungkan bermain aktif dengan minum air.
 
 ---
 
 ## Soal 60 — K03-IPAS-B01-M01-060
 
-![Kartu pengamatan](assets/ipas-b01-gambar-05.svg)
+![Jadwal kegiatan. Pagi: Sarapan lalu berangkat sekolah. Siang: Bermain aktif lalu minum air. Malam: Bersiap tidur.](assets/ipas-b01-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Makanan bergizi** adalah ...
+**Pertanyaan:** Kegiatan apa yang tercatat setelah bagian siang?
 
 **Pilihan jawaban:**
-- menghormati batas tubuh orang lain
-- mendukung kesehatan tubuh
-- tidak dimasukkan ke telinga
-- dilakukan sebelum makan
+- Berangkat sekolah pada pagi hari
+- Sarapan pagi
+- Membaca suhu air
+- Bersiap tidur pada malam hari
 
-**Kunci Jawaban:** mendukung kesehatan tubuh
+**Kunci Jawaban:** Bersiap tidur pada malam hari
 
-**Pembahasan:** Makanan bergizi: mendukung kesehatan tubuh.
+**Pembahasan:** Urutan jadwal bergerak dari pagi ke siang kemudian malam, yang memuat persiapan tidur.
 
 ---
 
 ## Soal 61 — K03-IPAS-B01-M01-061
 
-![Kartu pengamatan](assets/ipas-b01-gambar-06.svg)
+![Dua tempat membaca. A: Cahaya cukup; tulisan tampak jelas. B: Cahaya redup; tulisan sulit terlihat. Tugas: Pilih berdasarkan hasil pengamatan.](assets/ipas-b01-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Minum air** adalah ...
+**Pertanyaan:** Tempat mana mendukung membaca berdasarkan catatan?
 
 **Pilihan jawaban:**
-- tempat bercerita saat ada masalah
-- tidak boleh dicicipi
-- membantu memenuhi kebutuhan cairan
-- membantu mengenal lingkungan
+- Tempat A
+- Tempat B
+- Keduanya sama redup
+- Tidak ada informasi tentang tulisan
 
-**Kunci Jawaban:** membantu memenuhi kebutuhan cairan
+**Kunci Jawaban:** Tempat A
 
-**Pembahasan:** Minum air: membantu memenuhi kebutuhan cairan.
+**Pembahasan:** Di A tulisan terlihat jelas dengan penerangan cukup, sedangkan B tercatat redup.
 
 ---
 
 ## Soal 62 — K03-IPAS-B01-M01-062
 
-![Kartu pengamatan](assets/ipas-b01-gambar-06.svg)
+![Dua tempat membaca. A: Cahaya cukup; tulisan tampak jelas. B: Cahaya redup; tulisan sulit terlihat. Tugas: Pilih berdasarkan hasil pengamatan.](assets/ipas-b01-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Menghargai perbedaan** adalah ...
+**Pertanyaan:** Bukti apa yang mendukung pilihan itu?
 
 **Pilihan jawaban:**
-- tidak boleh ditatap
-- membantu menjaga kebugaran
-- melihat warna dan bentuk
-- membuat teman merasa diterima
+- Buku di B pasti lebih mahal
+- Tulisan tampak jelas di A
+- Anak di A pasti lebih tinggi
+- Semua buku di A berwarna sama
 
-**Kunci Jawaban:** membuat teman merasa diterima
+**Kunci Jawaban:** Tulisan tampak jelas di A
 
-**Pembahasan:** Menghargai perbedaan: membuat teman merasa diterima.
+**Pembahasan:** Hanya kejelasan tulisan yang tercantum sebagai bukti; harga dan tinggi badan tidak disebutkan.
 
 ---
 
 ## Soal 63 — K03-IPAS-B01-M01-063
 
-![Kartu pengamatan](assets/ipas-b01-gambar-07.svg)
+![Catatan buah. P: Kulit jingga; permukaan berbintil. Q: Kulit kuning; permukaan halus. Catatan: Rasa kedua buah belum diuji.](assets/ipas-b01-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Meminta izin** adalah ...
+**Pertanyaan:** Pernyataan mana sesuai pengamatan permukaan?
 
 **Pilihan jawaban:**
-- menghormati batas tubuh orang lain
-- tidak dimasukkan ke telinga
-- dilakukan sebelum makan
-- mendengar suara
+- P halus, Q berbintil
+- Keduanya halus
+- P berbintil, Q halus
+- Keduanya berbintil
 
-**Kunci Jawaban:** menghormati batas tubuh orang lain
+**Kunci Jawaban:** P berbintil, Q halus
 
-**Pembahasan:** Meminta izin: menghormati batas tubuh orang lain.
+**Pembahasan:** Perbandingan mengikuti catatan permukaan masing-masing buah.
 
 ---
 
 ## Soal 64 — K03-IPAS-B01-M01-064
 
-![Kartu pengamatan](assets/ipas-b01-gambar-07.svg)
+![Catatan buah. P: Kulit jingga; permukaan berbintil. Q: Kulit kuning; permukaan halus. Catatan: Rasa kedua buah belum diuji.](assets/ipas-b01-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Orang dewasa tepercaya** adalah ...
+**Pertanyaan:** Kesimpulan mana belum didukung oleh kartu?
 
 **Pilihan jawaban:**
-- tidak boleh dicicipi
-- tempat bercerita saat ada masalah
-- membantu mengenal lingkungan
-- mencium aroma
+- Kulit P berwarna jingga
+- Kulit Q berwarna kuning
+- Permukaan kedua buah berbeda
+- Pasti P lebih manis daripada Q
 
-**Kunci Jawaban:** tempat bercerita saat ada masalah
+**Kunci Jawaban:** Pasti P lebih manis daripada Q
 
-**Pembahasan:** Orang dewasa tepercaya: tempat bercerita saat ada masalah.
+**Pembahasan:** Kartu tidak memberikan hasil pengecapan; rasa manis tidak dapat dipastikan dari warna atau tekstur saja.
 
 ---
 
 ## Soal 65 — K03-IPAS-B01-M01-065
 
-![Kartu pengamatan](assets/ipas-b01-gambar-08.svg)
+![Bantuan dalam kelompok. Alya: Meminta tulisan lebih besar. Beni: Meminta pembicara menghadapnya. Tugas: Tanyakan kebutuhan setiap teman.](assets/ipas-b01-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Matahari langsung** adalah ...
+**Pertanyaan:** Bantuan mana sesuai kebutuhan Alya pada kartu?
 
 **Pilihan jawaban:**
-- membantu menjaga kebugaran
-- melihat warna dan bentuk
-- tidak boleh ditatap
-- mengenali rasa
+- Menyediakan tulisan lebih besar
+- Hanya menambah volume suara
+- Mengambil semua tugasnya
+- Memintanya menunggu di luar
 
-**Kunci Jawaban:** tidak boleh ditatap
+**Kunci Jawaban:** Menyediakan tulisan lebih besar
 
-**Pembahasan:** Matahari langsung: tidak boleh ditatap.
+**Pembahasan:** Tulisan lebih besar menanggapi permintaan Alya secara langsung.
 
 ---
 
 ## Soal 66 — K03-IPAS-B01-M01-066
 
-![Kartu pengamatan](assets/ipas-b01-gambar-08.svg)
+![Bantuan dalam kelompok. Alya: Meminta tulisan lebih besar. Beni: Meminta pembicara menghadapnya. Tugas: Tanyakan kebutuhan setiap teman.](assets/ipas-b01-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Benda asing** adalah ...
+**Pertanyaan:** Mengapa bantuan untuk Alya dan Beni tidak harus sama?
 
 **Pilihan jawaban:**
-- dilakukan sebelum makan
-- mendengar suara
-- merasakan sentuhan dan suhu
-- tidak dimasukkan ke telinga
+- Nama mereka menentukan kepandaiannya
+- Kebutuhan yang mereka sampaikan berbeda
+- Semua teman wajib mendapat alat yang sama
+- Beni tidak ingin ikut belajar
 
-**Kunci Jawaban:** tidak dimasukkan ke telinga
+**Kunci Jawaban:** Kebutuhan yang mereka sampaikan berbeda
 
-**Pembahasan:** Benda asing: tidak dimasukkan ke telinga.
+**Pembahasan:** Alya meminta ukuran tulisan, sedangkan Beni meminta posisi pembicara; dukungan mengikuti kebutuhan.
 
 ---
 
 ## Soal 67 — K03-IPAS-B01-M01-067
 
-![Kartu pengamatan](assets/ipas-b01-gambar-09.svg)
+![Catatan kebersihan. Sebelum: Tangan terkena tanah saat berkebun. Langkah: Cuci dengan sabun dan air. Sesudah: Baru memegang makanan.](assets/ipas-b01-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Bahan tak dikenal** adalah ...
+**Pertanyaan:** Langkah apa ditempatkan di antara berkebun dan memegang makanan?
 
 **Pilihan jawaban:**
-- tidak boleh dicicipi
-- membantu mengenal lingkungan
-- mencium aroma
-- mengolah informasi dari indra
+- Mengelap tanah ke baju
+- Memegang makanan terlebih dahulu
+- Mencuci tangan dengan sabun dan air
+- Menyiram semua makanan
 
-**Kunci Jawaban:** tidak boleh dicicipi
+**Kunci Jawaban:** Mencuci tangan dengan sabun dan air
 
-**Pembahasan:** Bahan tak dikenal: tidak boleh dicicipi.
+**Pembahasan:** Kartu tengah menunjukkan tindakan membersihkan tangan sebelum kartu terakhir.
 
 ---
 
 ## Soal 68 — K03-IPAS-B01-M01-068
 
-![Kartu pengamatan](assets/ipas-b01-gambar-09.svg)
+![Catatan kebersihan. Sebelum: Tangan terkena tanah saat berkebun. Langkah: Cuci dengan sabun dan air. Sesudah: Baru memegang makanan.](assets/ipas-b01-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Olahraga** adalah ...
+**Pertanyaan:** Mengapa urutan pada gambar membantu kebersihan?
 
 **Pilihan jawaban:**
-- melihat warna dan bentuk
-- membantu menjaga kebugaran
-- mengenali rasa
-- membantu penglihatan sebagian orang
+- Tanah membuat semua makanan lebih bergizi
+- Makanan menggantikan fungsi sabun
+- Mencuci tangan hanya untuk mengubah warna kulit
+- Kotoran dibersihkan sebelum tangan menyentuh makanan
 
-**Kunci Jawaban:** membantu menjaga kebugaran
+**Kunci Jawaban:** Kotoran dibersihkan sebelum tangan menyentuh makanan
 
-**Pembahasan:** Olahraga: membantu menjaga kebugaran.
+**Pembahasan:** Urutan membersihkan dahulu mengurangi perpindahan kotoran dari tangan ke makanan.
 
 ---
 
 ## Soal 69 — K03-IPAS-B01-M01-069
 
-![Kartu pengamatan](assets/ipas-b01-gambar-10.svg)
+![Dua laporan. Laporan A: Kain terasa kasar ketika disentuh. Laporan B: Kain ini paling bagus untuk semua orang. Tugas: Bedakan bukti dan penilaian selera.](assets/ipas-b01-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Mencuci tangan** adalah ...
+**Pertanyaan:** Laporan mana mencatat hasil pengamatan tekstur?
 
 **Pilihan jawaban:**
-- mendengar suara
-- merasakan sentuhan dan suhu
-- dilakukan sebelum makan
-- membantu membersihkan tangan
+- Laporan A
+- Laporan B
+- Keduanya hanya menyebut warna
+- Tidak ada hasil sentuhan
 
-**Kunci Jawaban:** dilakukan sebelum makan
+**Kunci Jawaban:** Laporan A
 
-**Pembahasan:** Mencuci tangan: dilakukan sebelum makan.
+**Pembahasan:** A menyebut ciri kasar dari sentuhan; B menyatakan penilaian bagus untuk semua orang.
 
 ---
 
 ## Soal 70 — K03-IPAS-B01-M01-070
 
-![Kartu pengamatan](assets/ipas-b01-gambar-10.svg)
+![Dua laporan. Laporan A: Kain terasa kasar ketika disentuh. Laporan B: Kain ini paling bagus untuk semua orang. Tugas: Bedakan bukti dan penilaian selera.](assets/ipas-b01-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Indra** adalah ...
+**Pertanyaan:** Apa kelemahan kesimpulan pada laporan B?
 
 **Pilihan jawaban:**
-- mencium aroma
-- mengolah informasi dari indra
-- membantu tubuh beristirahat
-- membantu mengenal lingkungan
+- Mencantumkan hasil sentuhan dengan jelas
+- Menganggap selera semua orang pasti sama
+- Menjelaskan warna secara rinci
+- Memberikan ukuran yang telah dibandingkan
 
-**Kunci Jawaban:** membantu mengenal lingkungan
+**Kunci Jawaban:** Menganggap selera semua orang pasti sama
 
-**Pembahasan:** Indra: membantu mengenal lingkungan.
+**Pembahasan:** Penilaian bagus bergantung kebutuhan dan selera, sehingga tidak dapat diberlakukan untuk semua orang.
 
 ---
