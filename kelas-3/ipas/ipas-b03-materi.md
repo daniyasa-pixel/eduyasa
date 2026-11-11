@@ -1,121 +1,109 @@
 # IPAS Kelas 3 — Bab 3: Peduli dan Berbagi
 
-## K03-IPAS-B03-MOD-01 — Yuk, Jadi Penyelidik!
+**Acuan:** Buku pemerintah IPAS SD/MI Kelas III, Edisi Revisi 2025, Bab 3
+halaman 49–66: perjalanan hidup manusia dan berbagi peran dalam keluarga.
+Contoh serta catatan pengukuran dalam modul ini merupakan ilustrasi pembelajaran.
 
-Pernahkah kamu memperhatikan hal-hal kecil di sekitarmu? Dalam bab **Peduli dan Berbagi**, kita belajar dengan cara mengamati dan bertanya. Ayo mulai dari empat hal penting berikut.
+## K03-IPAS-B03-MOD-01 — Tumbuh, Belajar, dan Berperan
 
-![Peta konsep pertama](assets/ipas-b03-materi-01.svg)
+Dahulu kamu memerlukan lebih banyak bantuan. Sekarang ada kegiatan yang mulai
+bisa kamu lakukan sendiri. Tubuh dapat berubah ukuran, sementara kemampuan
+berkembang melalui pengalaman, kesempatan, dan latihan dengan dukungan yang sesuai.
 
-### Empati
-Empati berkaitan dengan hal berikut: **memahami perasaan orang lain**. Coba cari contohnya di rumah atau sekolah, lalu ceritakan dengan bahasamu sendiri.
+### Dua jenis perubahan
 
-### Berbagi
-Berbagi berkaitan dengan hal berikut: **memberikan sebagian yang dimiliki**. Coba cari contohnya di rumah atau sekolah, lalu ceritakan dengan bahasamu sendiri.
+**Pertumbuhan** mencakup bertambahnya ukuran tubuh, misalnya tinggi atau ukuran
+kaki. **Perkembangan** mencakup perubahan kemampuan, seperti makin terampil
+mengancingkan baju atau menyusun cerita. Menjadi lebih tinggi tidak otomatis
+membuat seseorang lancar membaca; keterampilan juga memerlukan proses belajar.
 
-### Gotong royong
-Gotong royong berkaitan dengan hal berikut: **bekerja bersama untuk tujuan baik**. Coba cari contohnya di rumah atau sekolah, lalu ceritakan dengan bahasamu sendiri.
+Untuk mengamati perubahan tinggi, bandingkan hasil anak yang sama pada waktu
+berbeda. Gunakan cara dan alat yang sama, lalu catat tanggalnya. Satu hasil saja
+belum menunjukkan perubahan. Jangan mengarang angka agar tampak paling besar.
+Tinggi badan saja tidak menentukan kepandaian atau seluruh keadaan kesehatan.
 
-### Tolong-menolong
-Tolong-menolong berkaitan dengan hal berikut: **saling membantu saat diperlukan**. Coba cari contohnya di rumah atau sekolah, lalu ceritakan dengan bahasamu sendiri.
+![Diagram A bayi, B kanak-kanak, C remaja, D dewasa muda, E dewasa, F lanjut usia. Gambar skematis, bukan ukuran baku tubuh.](assets/ipas-b03-materi-01.svg)
 
-### Musyawarah
-Musyawarah berkaitan dengan hal berikut: **berdiskusi untuk mengambil keputusan**. Coba cari contohnya di rumah atau sekolah, lalu ceritakan dengan bahasamu sendiri.
+### Tahapan hidup
 
-### Mengantre
-Mengantre berkaitan dengan hal berikut: **menghargai giliran orang lain**. Coba cari contohnya di rumah atau sekolah, lalu ceritakan dengan bahasamu sendiri.
+Buku membahas urutan **bayi, kanak-kanak, remaja, dewasa muda, dewasa, dan
+lanjut usia**. Tahap itu menggambarkan perjalanan hidup, bukan aturan bahwa
+kemampuan semua orang harus persis sama. Individu lanjut usia tidak berubah
+kembali menjadi bayi. Bayi pada generasi berikutnya merupakan individu baru.
 
-### Sampah
-Sampah berkaitan dengan hal berikut: **dibuang ke tempatnya**. Coba cari contohnya di rumah atau sekolah, lalu ceritakan dengan bahasamu sendiri.
+Makanan beragam, tidur cukup, aktivitas sesuai kemampuan, serta dukungan keluarga
+membantu kebutuhan tumbuh dan belajar. Bila ada kesulitan atau keluhan, mintalah
+bantuan orang dewasa tepercaya. Orang lanjut usia tetap dapat berbagi pengalaman
+dan berperan sesuai kemampuan serta pilihannya.
 
-### Hemat air
-Hemat air berkaitan dengan hal berikut: **menggunakan air seperlunya**. Coba cari contohnya di rumah atau sekolah, lalu ceritakan dengan bahasamu sendiri.
+![Peran keluarga: orang dewasa menjalankan tugas sesuai kondisi, anak dapat merapikan buku, keluarga membahas dan meninjau pembagiannya.](assets/ipas-b03-materi-02.svg)
 
-### Hemat listrik
-Hemat listrik berkaitan dengan hal berikut: **mematikan lampu yang tidak diperlukan**. Coba cari contohnya di rumah atau sekolah, lalu ceritakan dengan bahasamu sendiri.
+### Berbagi peran dengan adil
 
-### Kerja bakti
-Kerja bakti berkaitan dengan hal berikut: **membersihkan lingkungan bersama**. Coba cari contohnya di rumah atau sekolah, lalu ceritakan dengan bahasamu sendiri.
+Setiap keluarga dapat mempunyai susunan berbeda. Anggotanya berbagi peran agar
+rumah nyaman. Adil bukan berarti tugas harus identik; pertimbangkan kemampuan,
+waktu, kondisi, dan kebutuhan. Memasak tidak hanya boleh dilakukan perempuan,
+dan merapikan rumah bukan tugas satu orang saja.
 
-![Peta konsep kedua](assets/ipas-b03-materi-02.svg)
+Anak dapat membantu pekerjaan aman, misalnya merapikan alat belajar. Benda
+panas, pekerjaan listrik, ketinggian, dan beban berat memerlukan penanganan orang
+dewasa yang sesuai. Jika tugas terlalu berat atau seseorang sakit, bicarakan
+penyesuaian. Dengarkan pendapat, buat kesepakatan, lalu tinjau hasilnya.
 
-**Sopan santun:** berbicara dan bertindak dengan hormat.
+### Misi bersama
 
-**Mendengarkan:** memperhatikan orang yang berbicara.
+Sebutkan satu keterampilan yang sedang kamu pelajari. Pilih satu tugas rumah
+yang aman bersama keluarga. Setelah dicoba, ceritakan manfaat dan bantuan yang
+diperlukan. Kamu tidak perlu membagikan data tubuh atau cerita keluarga yang
+bersifat pribadi kepada umum.
 
-**Tanggung jawab:** menyelesaikan tugas yang disepakati.
+## K03-IPAS-B03-MOD-02 — Dari Album ke Meja Keluarga
 
-**Peduli lingkungan:** menjaga kebersihan dan kelestarian.
+Lani melihat cerita masa kecilnya bersama wali. Dahulu ia perlu dibantu memakai
+baju, kini mulai dapat mengancingkannya sendiri. Perubahan itu menunjukkan
+perkembangan keterampilan. Foto juga dapat memperlihatkan perubahan tampilan,
+tetapi tidak menunjukkan berat badan tepat atau seluruh kemampuan seseorang.
 
-**Membantu teman:** dilakukan tanpa merendahkan.
+### Membaca perjalanan hidup
 
-**Perbedaan:** perlu dihormati.
+Tahapan pada buku dimulai dari **bayi**, lalu **kanak-kanak**, **remaja**,
+**dewasa muda**, **dewasa**, dan **lanjut usia**. Bayi memerlukan pengasuhan
+untuk banyak kebutuhan. Seiring waktu, kemampuan dapat berkembang melalui
+pengalaman dan dukungan. Laju perubahan serta kebutuhan setiap orang dapat berbeda.
 
-**Donasi layak pakai:** barang yang masih bermanfaat.
+![Enam tahapan dalam urutan linear: bayi, kanak-kanak, remaja, dewasa muda, dewasa, lanjut usia. Ukuran gambar bukan ukuran tubuh baku.](assets/ipas-b03-materi-01.svg)
 
-**Memilah sampah:** memisahkan sesuai jenis.
+Orang lanjut usia bukan bayi yang sama berulang kembali. Kelahiran generasi baru
+merupakan kehidupan individu baru. Setiap tahap tetap berharga dan dapat memperoleh
+dukungan yang berbeda. Kita tidak menilai kepandaian hanya dari ukuran tubuh.
 
-**Menjaga fasilitas umum:** menggunakan dengan hati-hati.
+### Perhatikan bukti
 
-**Kerja sama:** membagi tugas secara adil.
+Dalam contoh catatan, tinggi Tio awal semester $110\ \text{cm}$ dan akhir
+semester $113\ \text{cm}$. Catatan menunjukkan pertambahan tinggi, yaitu
+pertumbuhan ukuran tubuh. Catatan itu belum membuktikan penyebab pasti perubahan
+atau kemampuan membacanya. Mengancingkan baju dengan lebih terampil merupakan
+contoh perkembangan kemampuan, bukan hasil pengukuran tinggi.
 
-**Tantangan:** Pilih tiga hal yang kamu temukan hari ini. Jelaskan apa yang kamu lihat, mengapa penting, dan bagaimana menerapkannya dengan aman.
+Jika melakukan pengamatan sederhana bersama guru atau keluarga, catat dengan
+jujur dan gunakan cara yang sama. Kamu boleh memakai contoh yang disediakan,
+tanpa mengumumkan ukuran atau informasi pribadi milikmu dan teman.
 
-## K03-IPAS-B03-MOD-02 — Cerita dari Sekitar Kita
+![Peran yang disepakati: tugas mengikuti kemampuan dan kondisi, anak merapikan buku, anggota keluarga membicarakan pembagian bersama.](assets/ipas-b03-materi-02.svg)
 
-Bayangkan kamu sedang melakukan perjalanan kecil bersama teman. Setiap benda, kegiatan, atau peristiwa yang ditemui bisa menjadi bahan belajar **Peduli dan Berbagi**. Mulailah dengan bertanya: “Apa yang terjadi? Apa manfaatnya? Bagaimana cara menjaganya?”
+### Rapat kecil untuk rumah nyaman
 
-![Kartu pengamatan](assets/ipas-b03-materi-02.svg)
+Keluarga Lani membahas pekerjaan rumah. Ada yang memasak, merapikan buku, dan
+merawat tanaman. Pembagiannya mengikuti kemampuan serta waktu, bukan jenis
+kelamin saja. Mereka memberi giliran menggunakan alat dan mengucapkan terima kasih.
 
-### Ketika menemukan sopan santun
-Ingat bahwa **sopan santun** berbicara dan bertindak dengan hormat. Coba jelaskan kepada teman dengan contoh yang kamu kenal.
+Ketika seseorang sakit, jadwal dapat diubah sementara melalui pembicaraan.
+Tanggung jawab berarti menjalankan kesepakatan serta memberi tahu bila ada
+kesulitan. Tugas baru perlu dicoba dengan aman; anak tidak mengangkat lemari
+berat atau membawa panci panas sendirian. Meminta bantuan bukan alasan mengejek.
 
-### Ketika menemukan mendengarkan
-Ingat bahwa **mendengarkan** memperhatikan orang yang berbicara. Coba jelaskan kepada teman dengan contoh yang kamu kenal.
+### Coba dan tinjau
 
-### Ketika menemukan tanggung jawab
-Ingat bahwa **tanggung jawab** menyelesaikan tugas yang disepakati. Coba jelaskan kepada teman dengan contoh yang kamu kenal.
-
-### Ketika menemukan peduli lingkungan
-Ingat bahwa **peduli lingkungan** menjaga kebersihan dan kelestarian. Coba jelaskan kepada teman dengan contoh yang kamu kenal.
-
-### Ketika menemukan membantu teman
-Ingat bahwa **membantu teman** dilakukan tanpa merendahkan. Coba jelaskan kepada teman dengan contoh yang kamu kenal.
-
-### Ketika menemukan perbedaan
-Ingat bahwa **perbedaan** perlu dihormati. Coba jelaskan kepada teman dengan contoh yang kamu kenal.
-
-### Ketika menemukan donasi layak pakai
-Ingat bahwa **donasi layak pakai** barang yang masih bermanfaat. Coba jelaskan kepada teman dengan contoh yang kamu kenal.
-
-### Ketika menemukan memilah sampah
-Ingat bahwa **memilah sampah** memisahkan sesuai jenis. Coba jelaskan kepada teman dengan contoh yang kamu kenal.
-
-### Ketika menemukan menjaga fasilitas umum
-Ingat bahwa **menjaga fasilitas umum** menggunakan dengan hati-hati. Coba jelaskan kepada teman dengan contoh yang kamu kenal.
-
-### Ketika menemukan kerja sama
-Ingat bahwa **kerja sama** membagi tugas secara adil. Coba jelaskan kepada teman dengan contoh yang kamu kenal.
-
-![Kartu pengetahuan](assets/ipas-b03-materi-01.svg)
-
-**Empati:** memahami perasaan orang lain.
-
-**Berbagi:** memberikan sebagian yang dimiliki.
-
-**Gotong royong:** bekerja bersama untuk tujuan baik.
-
-**Tolong-menolong:** saling membantu saat diperlukan.
-
-**Musyawarah:** berdiskusi untuk mengambil keputusan.
-
-**Mengantre:** menghargai giliran orang lain.
-
-**Sampah:** dibuang ke tempatnya.
-
-**Hemat air:** menggunakan air seperlunya.
-
-**Hemat listrik:** mematikan lampu yang tidak diperlukan.
-
-**Kerja bakti:** membersihkan lingkungan bersama.
-
-**Coba ceritakan:** Pilih lima istilah dari gambar. Beri contoh dari pengalamanmu dan jelaskan mengapa informasi itu berguna.
+Bicarakan satu pekerjaan yang sesuai kemampuanmu. Jalankan bersama dukungan
+bila diperlukan, lalu lihat hasilnya. Apakah ruang lebih rapi? Apakah tugasnya
+terlalu berat? Sampaikan dengan sopan agar pembagian dapat diperbaiki.

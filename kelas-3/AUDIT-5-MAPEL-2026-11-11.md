@@ -47,3 +47,10 @@ belum diaudit ulang. Tidak ada konversi JSON pada tahap ini.
 Seluruh 70 butir Bab 2 diperiksa ulang dan direvisi; dua modul serta 12 SVG
 diselaraskan. Kumulatif putaran ini 140 diperiksa, 126 diubah. Sisa 1.805 soal
 pada 39 bab/unit; status keseluruhan **BELUM SELESAI**. Titik lanjut Bab 3.
+
+### Kelanjutan: IPAS Bab 3
+
+Seluruh 70 butir Bab 3 ditulis ulang dan diperiksa terhadap cakupan pertumbuhan,
+perkembangan, tahapan manusia, dan berbagi peran keluarga. Dua modul serta 12
+SVG diganti dan diperiksa. Kumulatif 210 diperiksa, 196 diubah; sisa 1.735 soal
+pada 38 bab/unit. Status tetap **BELUM SELESAI**. Titik lanjut: IPAS Bab 4.

@@ -2,360 +2,360 @@
 
 ## Soal 51 — K03-IPAS-B03-M01-051
 
-![Kartu pengamatan](assets/ipas-b03-gambar-01.svg)
+![Diagram urutan: A bayi, B kanak-kanak, C remaja, D dewasa muda, E dewasa, F lanjut usia. Gambar skematis; ukuran tubuh bukan skala baku.](assets/ipas-b03-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Sopan santun** adalah ...
+**Pertanyaan:** Pada diagram, tahap tepat sebelum kotak C ialah ...
 
 **Pilihan jawaban:**
-- berbicara dan bertindak dengan hormat
-- menjaga kebersihan dan kelestarian
-- barang yang masih bermanfaat
-- membagi tugas secara adil
+- Bayi
+- Dewasa
+- Kanak-kanak
+- Lanjut usia
 
-**Kunci Jawaban:** berbicara dan bertindak dengan hormat
+**Kunci Jawaban:** Kanak-kanak
 
-**Pembahasan:** Sopan santun: berbicara dan bertindak dengan hormat.
+**Pembahasan:** Urutan pada diagram menempatkan kanak-kanak di antara bayi dan remaja.
 
 ---
 
 ## Soal 52 — K03-IPAS-B03-M01-052
 
-![Kartu pengamatan](assets/ipas-b03-gambar-01.svg)
+![Diagram urutan: A bayi, B kanak-kanak, C remaja, D dewasa muda, E dewasa, F lanjut usia. Gambar skematis; ukuran tubuh bukan skala baku.](assets/ipas-b03-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Mendengarkan** adalah ...
+**Pertanyaan:** Tahap pada kotak D dan E berturut-turut ialah ...
 
 **Pilihan jawaban:**
-- dilakukan tanpa merendahkan
-- memperhatikan orang yang berbicara
-- memisahkan sesuai jenis
-- Pilih tiga hal yang kamu temukan hari ini
+- Lanjut usia lalu bayi pada orang yang sama
+- Remaja lalu bayi
+- Dewasa muda lalu kanak-kanak
+- Dewasa muda lalu dewasa
 
-**Kunci Jawaban:** memperhatikan orang yang berbicara
+**Kunci Jawaban:** Dewasa muda lalu dewasa
 
-**Pembahasan:** Mendengarkan: memperhatikan orang yang berbicara.
+**Pembahasan:** Kotak D bertuliskan dewasa muda, diikuti kotak E dewasa. Kotak F baru menunjukkan lanjut usia.
 
 ---
 
 ## Soal 53 — K03-IPAS-B03-M01-053
 
-![Kartu pengamatan](assets/ipas-b03-gambar-02.svg)
+![Catatan tinggi Tio. Awal semester: Tinggi 110 cm Akhir semester: Tinggi 113 cm Cara: Anak, alat, dan cara pengukuran sama.](assets/ipas-b03-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Tanggung jawab** adalah ...
+**Pertanyaan:** Perubahan apa yang dicatat pada Tio?
 
 **Pilihan jawaban:**
-- perlu dihormati
-- menggunakan dengan hati-hati
-- menyelesaikan tugas yang disepakati
-- memahami perasaan orang lain
+- Tinggi badannya bertambah
+- Kemampuan membacanya pasti bertambah
+- Ukuran rumahnya berubah
+- Jumlah anggota keluarganya bertambah
 
-**Kunci Jawaban:** menyelesaikan tugas yang disepakati
+**Kunci Jawaban:** Tinggi badannya bertambah
 
-**Pembahasan:** Tanggung jawab: menyelesaikan tugas yang disepakati.
+**Pembahasan:** Angka tinggi berubah dari $110\ \text{cm}$ menjadi $113\ \text{cm}$; catatan tidak mengukur kemampuan membaca atau rumah.
 
 ---
 
 ## Soal 54 — K03-IPAS-B03-M01-054
 
-![Kartu pengamatan](assets/ipas-b03-gambar-02.svg)
+![Catatan tinggi Tio. Awal semester: Tinggi 110 cm Akhir semester: Tinggi 113 cm Cara: Anak, alat, dan cara pengukuran sama.](assets/ipas-b03-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Peduli lingkungan** adalah ...
+**Pertanyaan:** Informasi mana tidak dapat ditentukan dari catatan?
 
 **Pilihan jawaban:**
-- barang yang masih bermanfaat
-- membagi tugas secara adil
-- memberikan sebagian yang dimiliki
-- menjaga kebersihan dan kelestarian
+- Tinggi pada awal semester
+- Penyebab pasti perubahan tinggi Tio
+- Tinggi pada akhir semester
+- Apakah angka tinggi bertambah
 
-**Kunci Jawaban:** menjaga kebersihan dan kelestarian
+**Kunci Jawaban:** Penyebab pasti perubahan tinggi Tio
 
-**Pembahasan:** Peduli lingkungan: menjaga kebersihan dan kelestarian.
+**Pembahasan:** Catatan menunjukkan dua hasil pengukuran tetapi tidak menjelaskan penyebabnya secara pasti.
 
 ---
 
 ## Soal 55 — K03-IPAS-B03-M01-055
 
-![Kartu pengamatan](assets/ipas-b03-gambar-03.svg)
+![Kemampuan Rani. Dahulu: Perlu bantuan mengancingkan baju. Kini: Dapat mengancingkan baju sendiri. Catatan: Tidak ada angka tinggi atau berat tubuh.](assets/ipas-b03-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Membantu teman** adalah ...
+**Pertanyaan:** Perubahan yang ditunjukkan kartu terutama mengenai ...
 
 **Pilihan jawaban:**
-- dilakukan tanpa merendahkan
-- memisahkan sesuai jenis
-- Pilih tiga hal yang kamu temukan hari ini
-- bekerja bersama untuk tujuan baik
+- Ukuran tinggi yang telah diukur
+- Berat tubuh yang telah ditimbang
+- Keterampilan melakukan kegiatan
+- Ukuran ruangan
 
-**Kunci Jawaban:** dilakukan tanpa merendahkan
+**Kunci Jawaban:** Keterampilan melakukan kegiatan
 
-**Pembahasan:** Membantu teman: dilakukan tanpa merendahkan.
+**Pembahasan:** Perbandingan membahas kemampuan mengancingkan baju, bukan data ukuran tubuh.
 
 ---
 
 ## Soal 56 — K03-IPAS-B03-M01-056
 
-![Kartu pengamatan](assets/ipas-b03-gambar-03.svg)
+![Kemampuan Rani. Dahulu: Perlu bantuan mengancingkan baju. Kini: Dapat mengancingkan baju sendiri. Catatan: Tidak ada angka tinggi atau berat tubuh.](assets/ipas-b03-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Perbedaan** adalah ...
+**Pertanyaan:** Kesimpulan apa yang belum didukung kartu?
 
 **Pilihan jawaban:**
-- menggunakan dengan hati-hati
-- perlu dihormati
-- memahami perasaan orang lain
-- saling membantu saat diperlukan
+- Kemampuan mengancingkan baju berubah
+- Dahulu Rani memerlukan bantuan
+- Kini Rani dapat melakukan kegiatan itu sendiri
+- Berat tubuh Rani bertambah
 
-**Kunci Jawaban:** perlu dihormati
+**Kunci Jawaban:** Berat tubuh Rani bertambah
 
-**Pembahasan:** Perbedaan: perlu dihormati.
+**Pembahasan:** Tidak ada data berat pada kartu, sehingga perubahan berat tidak dapat ditentukan.
 
 ---
 
 ## Soal 57 — K03-IPAS-B03-M01-057
 
-![Kartu pengamatan](assets/ipas-b03-gambar-04.svg)
+![Dua hasil pengamatan. A: Ukuran kaki bertambah. B: Makin terampil menyusun buku. Tugas: Bandingkan jenis perubahan.](assets/ipas-b03-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Donasi layak pakai** adalah ...
+**Pertanyaan:** Catatan mana merupakan contoh pertumbuhan ukuran tubuh?
 
 **Pilihan jawaban:**
-- membagi tugas secara adil
-- memberikan sebagian yang dimiliki
-- barang yang masih bermanfaat
-- berdiskusi untuk mengambil keputusan
+- Catatan A
+- Catatan B
+- Keduanya hanya warna benda
+- Tidak ada perubahan ukuran
 
-**Kunci Jawaban:** barang yang masih bermanfaat
+**Kunci Jawaban:** Catatan A
 
-**Pembahasan:** Donasi layak pakai: barang yang masih bermanfaat.
+**Pembahasan:** A menyebut ukuran kaki, sedangkan B menunjukkan keterampilan melakukan tugas.
 
 ---
 
 ## Soal 58 — K03-IPAS-B03-M01-058
 
-![Kartu pengamatan](assets/ipas-b03-gambar-04.svg)
+![Dua hasil pengamatan. A: Ukuran kaki bertambah. B: Makin terampil menyusun buku. Tugas: Bandingkan jenis perubahan.](assets/ipas-b03-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Memilah sampah** adalah ...
+**Pertanyaan:** Catatan B menunjukkan ...
 
 **Pilihan jawaban:**
-- Pilih tiga hal yang kamu temukan hari ini
-- bekerja bersama untuk tujuan baik
-- menghargai giliran orang lain
-- memisahkan sesuai jenis
+- Pertambahan ukuran kaki
+- Perkembangan keterampilan
+- Perubahan tinggi yang telah diukur
+- Perubahan warna kulit
 
-**Kunci Jawaban:** memisahkan sesuai jenis
+**Kunci Jawaban:** Perkembangan keterampilan
 
-**Pembahasan:** Memilah sampah: memisahkan sesuai jenis.
+**Pembahasan:** Menyusun buku dengan lebih terampil merupakan perubahan kemampuan, bukan ukuran tubuh.
 
 ---
 
 ## Soal 59 — K03-IPAS-B03-M01-059
 
-![Kartu pengamatan](assets/ipas-b03-gambar-05.svg)
+![Kesempatan belajar. Sita: Sedang belajar mengikat tali sepatu. Bima: Sudah terampil mengikat tali sepatu. Dukungan: Keduanya boleh belajar sesuai kebutuhannya.](assets/ipas-b03-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Menjaga fasilitas umum** adalah ...
+**Pertanyaan:** Dukungan yang sesuai untuk Sita pada kartu ialah ...
 
 **Pilihan jawaban:**
-- menggunakan dengan hati-hati
-- memahami perasaan orang lain
-- saling membantu saat diperlukan
-- dibuang ke tempatnya
+- Melarangnya mencoba karena belum terampil
+- Mengejeknya karena berbeda dengan Bima
+- Memberi kesempatan berlatih dan bantuan bila dibutuhkan
+- Menganggap ia tidak dapat belajar hal lain
 
-**Kunci Jawaban:** menggunakan dengan hati-hati
+**Kunci Jawaban:** Memberi kesempatan berlatih dan bantuan bila dibutuhkan
 
-**Pembahasan:** Menjaga fasilitas umum: menggunakan dengan hati-hati.
+**Pembahasan:** Sita sedang belajar; latihan dan bantuan yang sesuai mendukung perkembangannya.
 
 ---
 
 ## Soal 60 — K03-IPAS-B03-M01-060
 
-![Kartu pengamatan](assets/ipas-b03-gambar-05.svg)
+![Kesempatan belajar. Sita: Sedang belajar mengikat tali sepatu. Bima: Sudah terampil mengikat tali sepatu. Dukungan: Keduanya boleh belajar sesuai kebutuhannya.](assets/ipas-b03-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kerja sama** adalah ...
+**Pertanyaan:** Apa yang belum diketahui dari kartu?
 
 **Pilihan jawaban:**
-- memberikan sebagian yang dimiliki
-- membagi tugas secara adil
-- berdiskusi untuk mengambil keputusan
-- menggunakan air seperlunya
+- Kegiatan yang sedang dipelajari Sita
+- Keterampilan yang sudah dimiliki Bima
+- Bahwa kebutuhan belajar mereka dapat berbeda
+- Tinggi badan Sita dan Bima
 
-**Kunci Jawaban:** membagi tugas secara adil
+**Kunci Jawaban:** Tinggi badan Sita dan Bima
 
-**Pembahasan:** Kerja sama: membagi tugas secara adil.
+**Pembahasan:** Kartu memuat kemampuan, bukan data pengukuran tinggi kedua anak.
 
 ---
 
 ## Soal 61 — K03-IPAS-B03-M01-061
 
-![Kartu pengamatan](assets/ipas-b03-gambar-06.svg)
+![Pembagian kegiatan rumah. Ayah: Memasak. Ibu: Membantu memperbaiki kursi bersama orang dewasa lain. Anak: Merapikan alat belajar.](assets/ipas-b03-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Tantangan** adalah ...
+**Pertanyaan:** Tugas anak yang tercatat ialah ...
 
 **Pilihan jawaban:**
-- bekerja bersama untuk tujuan baik
-- menghargai giliran orang lain
-- Pilih tiga hal yang kamu temukan hari ini
-- mematikan lampu yang tidak diperlukan
+- Merapikan alat belajar
+- Memasak semua makanan sendiri
+- Memperbaiki kursi sendirian
+- Memperbaiki atap
 
-**Kunci Jawaban:** Pilih tiga hal yang kamu temukan hari ini
+**Kunci Jawaban:** Merapikan alat belajar
 
-**Pembahasan:** Tantangan: Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Kartu anak menyebut kegiatan merapikan alat belajar, berbeda dari dua tugas orang dewasa.
 
 ---
 
 ## Soal 62 — K03-IPAS-B03-M01-062
 
-![Kartu pengamatan](assets/ipas-b03-gambar-06.svg)
+![Pembagian kegiatan rumah. Ayah: Memasak. Ibu: Membantu memperbaiki kursi bersama orang dewasa lain. Anak: Merapikan alat belajar.](assets/ipas-b03-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Empati** adalah ...
+**Pertanyaan:** Pelajaran apa yang sesuai dengan pembagian pada gambar?
 
 **Pilihan jawaban:**
-- saling membantu saat diperlukan
-- dibuang ke tempatnya
-- berbicara dan bertindak dengan hormat
-- memahami perasaan orang lain
+- Memasak harus selalu menjadi tugas ibu
+- Tugas dapat dibagi menurut kemampuan, bukan hanya jenis kelamin
+- Semua anak harus memperbaiki kursi
+- Setiap anggota wajib mendapat tugas yang sama persis
 
-**Kunci Jawaban:** memahami perasaan orang lain
+**Kunci Jawaban:** Tugas dapat dibagi menurut kemampuan, bukan hanya jenis kelamin
 
-**Pembahasan:** Empati: memahami perasaan orang lain.
+**Pembahasan:** Gambar menunjukkan peran yang berbeda dan tidak membatasi memasak hanya pada perempuan.
 
 ---
 
 ## Soal 63 — K03-IPAS-B03-M01-063
 
-![Kartu pengamatan](assets/ipas-b03-gambar-07.svg)
+![Jadwal bergiliran. Senin: Alya menyiram, Beni merapikan buku. Selasa: Beni menyiram, Alya merapikan buku. Kesepakatan: Tugas disesuaikan bila ada kebutuhan baru.](assets/ipas-b03-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Berbagi** adalah ...
+**Pertanyaan:** Siapa yang menyiram tanaman pada Selasa?
 
 **Pilihan jawaban:**
-- memberikan sebagian yang dimiliki
-- berdiskusi untuk mengambil keputusan
-- menggunakan air seperlunya
-- memperhatikan orang yang berbicara
+- Alya
+- Keduanya tercatat tidak bertugas
+- Beni
+- Tidak ada keterangan hari Selasa
 
-**Kunci Jawaban:** memberikan sebagian yang dimiliki
+**Kunci Jawaban:** Beni
 
-**Pembahasan:** Berbagi: memberikan sebagian yang dimiliki.
+**Pembahasan:** Baris Selasa menyebut Beni menyiram dan Alya merapikan buku.
 
 ---
 
 ## Soal 64 — K03-IPAS-B03-M01-064
 
-![Kartu pengamatan](assets/ipas-b03-gambar-07.svg)
+![Jadwal bergiliran. Senin: Alya menyiram, Beni merapikan buku. Selasa: Beni menyiram, Alya merapikan buku. Kesepakatan: Tugas disesuaikan bila ada kebutuhan baru.](assets/ipas-b03-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Gotong royong** adalah ...
+**Pertanyaan:** Pola pembagian tugas pada dua hari itu ialah ...
 
 **Pilihan jawaban:**
-- menghargai giliran orang lain
-- bekerja bersama untuk tujuan baik
-- mematikan lampu yang tidak diperlukan
-- menyelesaikan tugas yang disepakati
+- Alya selalu melakukan kedua tugas
+- Beni selalu tidak bertugas
+- Tidak ada giliran
+- Berganti tugas
 
-**Kunci Jawaban:** bekerja bersama untuk tujuan baik
+**Kunci Jawaban:** Berganti tugas
 
-**Pembahasan:** Gotong royong: bekerja bersama untuk tujuan baik.
+**Pembahasan:** Kedua anak bertukar kegiatan dari Senin ke Selasa sehingga tugas tidak selalu dikerjakan orang yang sama.
 
 ---
 
 ## Soal 65 — K03-IPAS-B03-M01-065
 
-![Kartu pengamatan](assets/ipas-b03-gambar-08.svg)
+![Peralatan untuk membantu. A: Kain lap dan meja rendah. B: Panci sangat panas. C: Lemari sangat berat.](assets/ipas-b03-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Tolong-menolong** adalah ...
+**Pertanyaan:** Kegiatan mana paling sesuai dilakukan anak dengan arahan?
 
 **Pilihan jawaban:**
-- dibuang ke tempatnya
-- berbicara dan bertindak dengan hormat
-- saling membantu saat diperlukan
-- menjaga kebersihan dan kelestarian
+- Mengelap meja rendah menggunakan alat A
+- Mengangkat panci panas B sendiri
+- Memindahkan lemari C sendiri
+- Mengangkat B dan C bersamaan
 
-**Kunci Jawaban:** saling membantu saat diperlukan
+**Kunci Jawaban:** Mengelap meja rendah menggunakan alat A
 
-**Pembahasan:** Tolong-menolong: saling membantu saat diperlukan.
+**Pembahasan:** Meja rendah dan kain lap dapat disesuaikan dengan kemampuan anak; panas dan beban berat memerlukan penanganan orang dewasa.
 
 ---
 
 ## Soal 66 — K03-IPAS-B03-M01-066
 
-![Kartu pengamatan](assets/ipas-b03-gambar-08.svg)
+![Peralatan untuk membantu. A: Kain lap dan meja rendah. B: Panci sangat panas. C: Lemari sangat berat.](assets/ipas-b03-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Musyawarah** adalah ...
+**Pertanyaan:** Apa alasan tugas B dan C memerlukan perhatian orang dewasa?
 
 **Pilihan jawaban:**
-- menggunakan air seperlunya
-- memperhatikan orang yang berbicara
-- dilakukan tanpa merendahkan
-- berdiskusi untuk mengambil keputusan
+- Keduanya pasti bukan barang rumah
+- Ada risiko panas atau beban berat
+- Semua anak harus mampu mengangkatnya
+- Alat A selalu lebih mahal
 
-**Kunci Jawaban:** berdiskusi untuk mengambil keputusan
+**Kunci Jawaban:** Ada risiko panas atau beban berat
 
-**Pembahasan:** Musyawarah: berdiskusi untuk mengambil keputusan.
+**Pembahasan:** Keterangan pada kartu menyebut panci panas dan lemari berat, dua risiko yang berbeda dari tugas A.
 
 ---
 
 ## Soal 67 — K03-IPAS-B03-M01-067
 
-![Kartu pengamatan](assets/ipas-b03-gambar-09.svg)
+![Tugas yang perlu disesuaikan. Semula: Kakak bertugas menyapu. Kini: Kakak sedang sakit. Rencana: Bicarakan pengganti sementara.](assets/ipas-b03-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Mengantre** adalah ...
+**Pertanyaan:** Mengapa pembagian tugas perlu dibicarakan kembali?
 
 **Pilihan jawaban:**
-- menghargai giliran orang lain
-- mematikan lampu yang tidak diperlukan
-- menyelesaikan tugas yang disepakati
-- perlu dihormati
+- Menyapu tidak pernah diperlukan
+- Semua tugas harus diberikan kepada bayi
+- Kondisi orang yang bertugas berubah
+- Kesepakatan tidak boleh berubah
 
-**Kunci Jawaban:** menghargai giliran orang lain
+**Kunci Jawaban:** Kondisi orang yang bertugas berubah
 
-**Pembahasan:** Mengantre: menghargai giliran orang lain.
+**Pembahasan:** Kakak sedang sakit sehingga kemampuan atau kebutuhannya saat itu perlu dipertimbangkan.
 
 ---
 
 ## Soal 68 — K03-IPAS-B03-M01-068
 
-![Kartu pengamatan](assets/ipas-b03-gambar-09.svg)
+![Tugas yang perlu disesuaikan. Semula: Kakak bertugas menyapu. Kini: Kakak sedang sakit. Rencana: Bicarakan pengganti sementara.](assets/ipas-b03-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Sampah** adalah ...
+**Pertanyaan:** Perubahan yang disarankan gambar ialah ...
 
 **Pilihan jawaban:**
-- berbicara dan bertindak dengan hormat
-- dibuang ke tempatnya
-- menjaga kebersihan dan kelestarian
-- barang yang masih bermanfaat
+- Memaksa Kakak tetap menyapu meskipun tidak mampu
+- Menyembunyikan keadaan Kakak
+- Menghapus semua tanggung jawab selamanya
+- Mencari pengganti sementara melalui pembicaraan
 
-**Kunci Jawaban:** dibuang ke tempatnya
+**Kunci Jawaban:** Mencari pengganti sementara melalui pembicaraan
 
-**Pembahasan:** Sampah: dibuang ke tempatnya.
+**Pembahasan:** Rencana pada kartu menekankan penyesuaian sementara, bukan pemaksaan atau penghapusan semua tanggung jawab.
 
 ---
 
 ## Soal 69 — K03-IPAS-B03-M01-069
 
-![Kartu pengamatan](assets/ipas-b03-gambar-10.svg)
+![Hasil kegiatan bersama. Sebelum: Buku dan mainan menutupi jalan di ruang keluarga. Kegiatan: Keluarga berbagi tugas merapikan. Sesudah: Jalan di ruang keluarga kembali terbuka.](assets/ipas-b03-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Hemat air** adalah ...
+**Pertanyaan:** Bukti bahwa kegiatan membantu keamanan ruangan ialah ...
 
 **Pilihan jawaban:**
-- memperhatikan orang yang berbicara
-- dilakukan tanpa merendahkan
-- menggunakan air seperlunya
-- memisahkan sesuai jenis
+- Jalan kembali terbuka setelah dirapikan
+- Semua orang mempunyai tinggi sama
+- Mainan dibiarkan menutupi jalan
+- Tidak ada anggota keluarga yang bekerja
 
-**Kunci Jawaban:** menggunakan air seperlunya
+**Kunci Jawaban:** Jalan kembali terbuka setelah dirapikan
 
-**Pembahasan:** Hemat air: menggunakan air seperlunya.
+**Pembahasan:** Keadaan sesudah menunjukkan jalur yang sebelumnya tertutup sudah dapat dilalui.
 
 ---
 
 ## Soal 70 — K03-IPAS-B03-M01-070
 
-![Kartu pengamatan](assets/ipas-b03-gambar-10.svg)
+![Hasil kegiatan bersama. Sebelum: Buku dan mainan menutupi jalan di ruang keluarga. Kegiatan: Keluarga berbagi tugas merapikan. Sesudah: Jalan di ruang keluarga kembali terbuka.](assets/ipas-b03-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Hemat listrik** adalah ...
+**Pertanyaan:** Apa hubungan kegiatan dan hasil pada gambar?
 
 **Pilihan jawaban:**
-- menyelesaikan tugas yang disepakati
-- perlu dihormati
-- menggunakan dengan hati-hati
-- mematikan lampu yang tidak diperlukan
+- Ruangan rapi tanpa kegiatan apa pun
+- Berbagi tugas membantu ruangan kembali rapi
+- Buku bertambah karena tidak disentuh
+- Jalan menjadi lebih tertutup setelah dirapikan
 
-**Kunci Jawaban:** mematikan lampu yang tidak diperlukan
+**Kunci Jawaban:** Berbagi tugas membantu ruangan kembali rapi
 
-**Pembahasan:** Hemat listrik: mematikan lampu yang tidak diperlukan.
+**Pembahasan:** Urutan sebelum, kegiatan, dan sesudah menunjukkan hasil tindakan bersama.
 
 ---

@@ -2,800 +2,800 @@
 
 ## Soal 1 — K03-IPAS-B03-M01-001
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "berbicara dan bertindak dengan hormat". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Urutan tahapan hidup yang sesuai sejak awal kehidupan ialah ...
 
 **Pilihan jawaban:**
-- Sopan santun
-- Peduli lingkungan
-- Donasi layak pakai
-- Kerja sama
+- Bayi → kanak-kanak → remaja
+- Remaja → bayi → kanak-kanak
+- Kanak-kanak → lanjut usia → bayi
+- Dewasa → bayi → remaja
 
-**Kunci Jawaban:** Sopan santun
+**Kunci Jawaban:** Bayi → kanak-kanak → remaja
 
-**Pembahasan:** Sopan santun adalah pilihan yang sesuai karena petunjuk soal menyebutkan "berbicara dan bertindak dengan hormat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Manusia memulai hidup sebagai bayi lalu melalui masa kanak-kanak sebelum remaja; bukan kembali menjadi bayi.
 
 ---
 
 ## Soal 2 — K03-IPAS-B03-M01-002
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "memperhatikan orang yang berbicara". Konsep apa yang dimaksud?
+**Pertanyaan:** Perubahan mana merupakan contoh pertumbuhan ukuran tubuh?
 
 **Pilihan jawaban:**
-- Membantu teman
-- Mendengarkan
-- Memilah sampah
-- Tantangan
+- Makin terampil mengancingkan baju
+- Tinggi badan bertambah
+- Makin lancar bercerita
+- Makin mampu membaca
 
-**Kunci Jawaban:** Mendengarkan
+**Kunci Jawaban:** Tinggi badan bertambah
 
-**Pembahasan:** Mendengarkan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memperhatikan orang yang berbicara". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Pertumbuhan ukuran tubuh dapat diamati melalui tinggi atau berat; bertambahnya keterampilan merupakan perkembangan kemampuan.
 
 ---
 
 ## Soal 3 — K03-IPAS-B03-M01-003
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "menyelesaikan tugas yang disepakati"?
+**Pertanyaan:** Contoh perkembangan kemampuan seorang anak ialah ...
 
 **Pilihan jawaban:**
-- Perbedaan
-- Menjaga fasilitas umum
-- Tanggung jawab
-- Empati
+- Ukuran kakinya bertambah
+- Tinggi badannya bertambah
+- Mulai dapat mengikat tali sepatu sendiri
+- Berat badannya bertambah
 
-**Kunci Jawaban:** Tanggung jawab
+**Kunci Jawaban:** Mulai dapat mengikat tali sepatu sendiri
 
-**Pembahasan:** Tanggung jawab adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menyelesaikan tugas yang disepakati". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Mengikat tali memerlukan keterampilan yang dipelajari; pilihan lain membahas perubahan ukuran tubuh.
 
 ---
 
 ## Soal 4 — K03-IPAS-B03-M01-004
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk menjaga kebersihan dan kelestarian. Istilah apakah yang paling tepat?
+**Pertanyaan:** Apa yang terjadi sesudah masa kanak-kanak dalam urutan tahapan yang dipelajari?
 
 **Pilihan jawaban:**
-- Donasi layak pakai
-- Kerja sama
-- Berbagi
-- Peduli lingkungan
+- Masa bayi
+- Masa lanjut usia
+- Kembali ke masa sebelum lahir
+- Masa remaja
 
-**Kunci Jawaban:** Peduli lingkungan
+**Kunci Jawaban:** Masa remaja
 
-**Pembahasan:** Peduli lingkungan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menjaga kebersihan dan kelestarian". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Masa remaja berada setelah kanak-kanak dan sebelum masa dewasa muda dalam urutan pembelajaran ini.
 
 ---
 
 ## Soal 5 — K03-IPAS-B03-M01-005
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "dilakukan tanpa merendahkan". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Keterangan mana sesuai tentang bayi?
 
 **Pilihan jawaban:**
-- Membantu teman
-- Memilah sampah
-- Tantangan
-- Gotong royong
+- Memerlukan bantuan orang dewasa untuk memenuhi banyak kebutuhannya
+- Sudah dapat menjalankan semua tugas rumah
+- Selalu dapat membaca sendiri
+- Mampu merawat dirinya tanpa bantuan
 
-**Kunci Jawaban:** Membantu teman
+**Kunci Jawaban:** Memerlukan bantuan orang dewasa untuk memenuhi banyak kebutuhannya
 
-**Pembahasan:** Membantu teman adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dilakukan tanpa merendahkan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Bayi bergantung pada pengasuhan untuk makan, kebersihan, dan perlindungan, sedangkan kemampuan berkembang bertahap.
 
 ---
 
 ## Soal 6 — K03-IPAS-B03-M01-006
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "perlu dihormati". Konsep apa yang dimaksud?
+**Pertanyaan:** Mengapa kemampuan membaca tidak muncul hanya karena tubuh bertambah tinggi?
 
 **Pilihan jawaban:**
-- Menjaga fasilitas umum
-- Perbedaan
-- Empati
-- Tolong-menolong
+- Semua anak tinggi selalu sudah lancar membaca
+- Kemampuan membaca juga memerlukan belajar dan latihan
+- Pertumbuhan tubuh menghapus kebutuhan berlatih
+- Membaca hanya ditentukan ukuran kaki
 
-**Kunci Jawaban:** Perbedaan
+**Kunci Jawaban:** Kemampuan membaca juga memerlukan belajar dan latihan
 
-**Pembahasan:** Perbedaan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perlu dihormati". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Perkembangan keterampilan dipengaruhi kesempatan belajar dan latihan; tinggi badan saja tidak menentukan kemampuan membaca.
 
 ---
 
 ## Soal 7 — K03-IPAS-B03-M01-007
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "barang yang masih bermanfaat"?
+**Pertanyaan:** Untuk mengetahui perubahan tinggi seorang anak, catatan yang tepat membandingkan ...
 
 **Pilihan jawaban:**
-- Kerja sama
-- Berbagi
-- Donasi layak pakai
-- Musyawarah
+- Tinggi anak itu dengan panjang meja pada hari yang sama
+- Dua anak berbeda tanpa catatan sebelumnya
+- Pengukuran anak yang sama pada waktu berbeda
+- Warna baju anak pada dua hari
 
-**Kunci Jawaban:** Donasi layak pakai
+**Kunci Jawaban:** Pengukuran anak yang sama pada waktu berbeda
 
-**Pembahasan:** Donasi layak pakai adalah pilihan yang sesuai karena petunjuk soal menyebutkan "barang yang masih bermanfaat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Perbandingan pengukuran diri yang sama dari waktu ke waktu menunjukkan perubahan yang dialaminya.
 
 ---
 
 ## Soal 8 — K03-IPAS-B03-M01-008
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk memisahkan sesuai jenis. Istilah apakah yang paling tepat?
+**Pertanyaan:** Saat mengukur tinggi, mengapa cara pengukurannya perlu sama?
 
 **Pilihan jawaban:**
-- Tantangan
-- Gotong royong
-- Mengantre
-- Memilah sampah
+- Agar hasil selalu menunjukkan pertambahan
+- Agar semua anak mendapatkan angka sama
+- Agar tidak perlu mencatat waktu pengukuran
+- Agar hasil lebih mudah dibandingkan
 
-**Kunci Jawaban:** Memilah sampah
+**Kunci Jawaban:** Agar hasil lebih mudah dibandingkan
 
-**Pembahasan:** Memilah sampah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memisahkan sesuai jenis". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Cara yang sama membantu mengurangi perbedaan akibat alat atau posisi, bukan memaksa hasil tertentu.
 
 ---
 
 ## Soal 9 — K03-IPAS-B03-M01-009
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "menggunakan dengan hati-hati". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Sepatu lama mulai sempit. Apa kemungkinan yang perlu dibicarakan bersama orang tua atau wali?
 
 **Pilihan jawaban:**
-- Menjaga fasilitas umum
-- Empati
-- Tolong-menolong
-- Sampah
+- Ukuran kaki dapat berubah ketika tubuh tumbuh
+- Sepatu sempit membuktikan anak lebih pandai
+- Semua sepatu harus berukuran sama selamanya
+- Kaki berhenti tumbuh setelah masuk sekolah
 
-**Kunci Jawaban:** Menjaga fasilitas umum
+**Kunci Jawaban:** Ukuran kaki dapat berubah ketika tubuh tumbuh
 
-**Pembahasan:** Menjaga fasilitas umum adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menggunakan dengan hati-hati". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Pertumbuhan dapat mengubah ukuran kaki; orang dewasa dapat membantu memilih alas kaki yang sesuai.
 
 ---
 
 ## Soal 10 — K03-IPAS-B03-M01-010
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "membagi tugas secara adil". Konsep apa yang dimaksud?
+**Pertanyaan:** Dua anak sebaya mempunyai tinggi berbeda. Kesimpulan yang tepat ialah ...
 
 **Pilihan jawaban:**
-- Berbagi
-- Kerja sama
-- Musyawarah
-- Hemat air
+- Anak yang lebih pendek pasti malas belajar
+- Pertumbuhan tiap anak dapat berbeda
+- Anak yang lebih tinggi pasti selalu sehat
+- Keduanya harus dipaksa mempunyai ukuran sama
 
-**Kunci Jawaban:** Kerja sama
+**Kunci Jawaban:** Pertumbuhan tiap anak dapat berbeda
 
-**Pembahasan:** Kerja sama adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membagi tugas secara adil". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Tinggi badan saja tidak cukup untuk menilai kesehatan atau kemampuan; pertumbuhan dipengaruhi banyak hal.
 
 ---
 
 ## Soal 11 — K03-IPAS-B03-M01-011
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "Pilih tiga hal yang kamu temukan hari ini"?
+**Pertanyaan:** Peran makanan beragam bagi pertumbuhan ialah ...
 
 **Pilihan jawaban:**
-- Gotong royong
-- Mengantre
-- Tantangan
-- Hemat listrik
+- Menggantikan seluruh kebutuhan tidur
+- Menjamin semua anak tumbuh dengan kecepatan sama
+- Menyediakan zat gizi yang dibutuhkan tubuh
+- Membuat tubuh tidak perlu bergerak
 
-**Kunci Jawaban:** Tantangan
+**Kunci Jawaban:** Menyediakan zat gizi yang dibutuhkan tubuh
 
-**Pembahasan:** Tantangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "Pilih tiga hal yang kamu temukan hari ini". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Zat gizi mendukung pertumbuhan, tetapi tetap diperlukan tidur, aktivitas, dan perhatian pada kebutuhan masing-masing anak.
 
 ---
 
 ## Soal 12 — K03-IPAS-B03-M01-012
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk memahami perasaan orang lain. Istilah apakah yang paling tepat?
+**Pertanyaan:** Saat ingin belajar menyapu, tindakan yang sesuai ialah ...
 
 **Pilihan jawaban:**
-- Tolong-menolong
-- Sampah
-- Sopan santun
-- Empati
+- Langsung memakai semua alat tanpa penjelasan
+- Memanjat atap agar dianggap sudah besar
+- Menunggu tinggi badan sama dengan orang dewasa
+- Berlatih dengan alat yang aman dan bimbingan bila diperlukan
 
-**Kunci Jawaban:** Empati
+**Kunci Jawaban:** Berlatih dengan alat yang aman dan bimbingan bila diperlukan
 
-**Pembahasan:** Empati adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memahami perasaan orang lain". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Keterampilan berkembang melalui latihan yang aman dan disesuaikan dengan kemampuan, bukan dengan mengambil pekerjaan berbahaya.
 
 ---
 
 ## Soal 13 — K03-IPAS-B03-M01-013
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "memberikan sebagian yang dimiliki". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Apa yang membedakan remaja dan bayi dalam urutan tahapan hidup?
 
 **Pilihan jawaban:**
-- Berbagi
-- Musyawarah
-- Hemat air
-- Mendengarkan
+- Remaja berada pada tahap setelah kanak-kanak, bayi pada tahap awal
+- Remaja selalu menjadi bayi lagi sebelum dewasa
+- Bayi berada setelah lanjut usia pada hidup orang yang sama
+- Kedua istilah menunjukkan tahapan yang sama
 
-**Kunci Jawaban:** Berbagi
+**Kunci Jawaban:** Remaja berada pada tahap setelah kanak-kanak, bayi pada tahap awal
 
-**Pembahasan:** Berbagi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memberikan sebagian yang dimiliki". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Tahapan memberi gambaran urutan perjalanan hidup; bukan perpindahan bolak-balik menurut pilihan seseorang.
 
 ---
 
 ## Soal 14 — K03-IPAS-B03-M01-014
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "bekerja bersama untuk tujuan baik". Konsep apa yang dimaksud?
+**Pertanyaan:** Setelah remaja, urutan umum yang dipelajari ialah ...
 
 **Pilihan jawaban:**
-- Mengantre
-- Gotong royong
-- Hemat listrik
-- Tanggung jawab
+- Lanjut usia → bayi → dewasa
+- Dewasa muda → dewasa → lanjut usia
+- Bayi → dewasa → kanak-kanak
+- Dewasa → kanak-kanak → remaja
 
-**Kunci Jawaban:** Gotong royong
+**Kunci Jawaban:** Dewasa muda → dewasa → lanjut usia
 
-**Pembahasan:** Gotong royong adalah pilihan yang sesuai karena petunjuk soal menyebutkan "bekerja bersama untuk tujuan baik". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Urutan tersebut mengikuti tahapan pada buku tanpa menetapkan bahwa semua perubahan terjadi pada usia yang persis sama.
 
 ---
 
 ## Soal 15 — K03-IPAS-B03-M01-015
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "saling membantu saat diperlukan"?
+**Pertanyaan:** Seseorang pada tahap lanjut usia tetap dapat berperan dengan ...
 
 **Pilihan jawaban:**
-- Sampah
-- Sopan santun
-- Tolong-menolong
-- Peduli lingkungan
+- Dilarang menyampaikan pendapat keluarga
+- Diberi semua pekerjaan berat tanpa ditanya
+- Berbagi pengalaman dan berkegiatan sesuai kemampuan
+- Dianggap tidak mempunyai pengetahuan
 
-**Kunci Jawaban:** Tolong-menolong
+**Kunci Jawaban:** Berbagi pengalaman dan berkegiatan sesuai kemampuan
 
-**Pembahasan:** Tolong-menolong adalah pilihan yang sesuai karena petunjuk soal menyebutkan "saling membantu saat diperlukan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Usia lanjut tidak menghapus kemampuan, pengalaman, atau hak berpartisipasi; dukungan mengikuti kebutuhan orangnya.
 
 ---
 
 ## Soal 16 — K03-IPAS-B03-M01-016
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk berdiskusi untuk mengambil keputusan. Istilah apakah yang paling tepat?
+**Pertanyaan:** Apa maksud perkembangan dalam pembelajaran tentang manusia?
 
 **Pilihan jawaban:**
-- Hemat air
-- Mendengarkan
-- Membantu teman
-- Musyawarah
+- Hanya bertambahnya ukuran sepatu
+- Hanya naiknya angka timbangan
+- Perubahan warna pakaian
+- Perubahan kemampuan dan keterampilan yang makin berkembang
 
-**Kunci Jawaban:** Musyawarah
+**Kunci Jawaban:** Perubahan kemampuan dan keterampilan yang makin berkembang
 
-**Pembahasan:** Musyawarah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "berdiskusi untuk mengambil keputusan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Perkembangan mencakup bertambahnya kemampuan, sedangkan ukuran tubuh berkaitan dengan pertumbuhan.
 
 ---
 
 ## Soal 17 — K03-IPAS-B03-M01-017
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "menghargai giliran orang lain". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Dulu Lani perlu bantuan memakai baju. Kini ia mampu mengancingkannya sendiri. Bukti perkembangan yang disebut ialah ...
 
 **Pilihan jawaban:**
-- Mengantre
-- Hemat listrik
-- Tanggung jawab
-- Perbedaan
+- Keterampilan mengancingkan baju
+- Pertambahan tinggi yang telah diukur
+- Pertambahan berat yang telah ditimbang
+- Perubahan ukuran rumah
 
-**Kunci Jawaban:** Mengantre
+**Kunci Jawaban:** Keterampilan mengancingkan baju
 
-**Pembahasan:** Mengantre adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menghargai giliran orang lain". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Cerita membandingkan kemampuan melakukan tugas, bukan memberikan data tinggi atau berat tubuh.
 
 ---
 
 ## Soal 18 — K03-IPAS-B03-M01-018
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "dibuang ke tempatnya". Konsep apa yang dimaksud?
+**Pertanyaan:** Jika anak kesulitan melakukan keterampilan baru, dukungan yang tepat ialah ...
 
 **Pilihan jawaban:**
-- Sopan santun
-- Sampah
-- Peduli lingkungan
-- Donasi layak pakai
+- Mengejek agar ia cepat bisa
+- Memberi kesempatan berlatih dan bantuan sesuai kebutuhan
+- Memaksanya langsung sama dengan orang dewasa
+- Menyimpulkan ia tidak akan pernah mampu
 
-**Kunci Jawaban:** Sampah
+**Kunci Jawaban:** Memberi kesempatan berlatih dan bantuan sesuai kebutuhan
 
-**Pembahasan:** Sampah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dibuang ke tempatnya". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Kesempatan berlatih dan dukungan membantu belajar; kesulitan saat ini tidak menentukan semua kemampuan masa depannya.
 
 ---
 
 ## Soal 19 — K03-IPAS-B03-M01-019
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "menggunakan air seperlunya"?
+**Pertanyaan:** Mengapa foto masa bayi dan foto kini berguna untuk belajar perubahan diri?
 
 **Pilihan jawaban:**
-- Mendengarkan
-- Membantu teman
-- Hemat air
-- Memilah sampah
+- Dapat memastikan semua keadaan kesehatan tanpa pemeriksaan
+- Dapat mengukur berat tepat tanpa data timbangan
+- Dapat memperlihatkan perubahan ciri tubuh yang tampak
+- Dapat menunjukkan seluruh kemampuan berpikir
 
-**Kunci Jawaban:** Hemat air
+**Kunci Jawaban:** Dapat memperlihatkan perubahan ciri tubuh yang tampak
 
-**Pembahasan:** Hemat air adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menggunakan air seperlunya". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Foto memberi informasi visual terbatas; berat tepat dan kondisi kesehatan memerlukan data lain.
 
 ---
 
 ## Soal 20 — K03-IPAS-B03-M01-020
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk mematikan lampu yang tidak diperlukan. Istilah apakah yang paling tepat?
+**Pertanyaan:** Apakah pertambahan usia berarti setiap orang pasti mempunyai peran keluarga yang sama?
 
 **Pilihan jawaban:**
-- Tanggung jawab
-- Perbedaan
-- Menjaga fasilitas umum
-- Hemat listrik
+- Ya, semua orang harus mempunyai pekerjaan sama
+- Ya, setiap keluarga selalu beranggota sama
+- Ya, usia menentukan semua kesukaan
+- Tidak, peran dapat berbeda sesuai keadaan, kemampuan, dan kesepakatan
 
-**Kunci Jawaban:** Hemat listrik
+**Kunci Jawaban:** Tidak, peran dapat berbeda sesuai keadaan, kemampuan, dan kesepakatan
 
-**Pembahasan:** Hemat listrik adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mematikan lampu yang tidak diperlukan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Keluarga memiliki keadaan berbeda; peran tidak ditentukan oleh usia saja dan dapat dibicarakan bersama.
 
 ---
 
 ## Soal 21 — K03-IPAS-B03-M01-021
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Sopan santun**?
+**Pertanyaan:** Dalam tahap hidup seorang manusia, apakah lanjut usia berubah kembali menjadi bayi?
 
 **Pilihan jawaban:**
-- berbicara dan bertindak dengan hormat
-- menjaga kebersihan dan kelestarian
-- barang yang masih bermanfaat
-- membagi tugas secara adil
+- Tidak, bayi pada generasi berikutnya adalah individu baru
+- Ya, orang yang sama selalu kembali menjadi bayi
+- Ya, jika ia berhenti bekerja
+- Ya, jika ia mengganti nama
 
-**Kunci Jawaban:** berbicara dan bertindak dengan hormat
+**Kunci Jawaban:** Tidak, bayi pada generasi berikutnya adalah individu baru
 
-**Pembahasan:** Sopan santun: berbicara dan bertindak dengan hormat.
+**Pembahasan:** Urutan hidup individu tidak berputar kembali menjadi bayi; kelahiran generasi baru bukan perubahan orang lanjut usia menjadi bayi.
 
 ---
 
 ## Soal 22 — K03-IPAS-B03-M01-022
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Mendengarkan**?
+**Pertanyaan:** Catatan pertumbuhan hanya berisi satu pengukuran tinggi. Apa yang belum dapat disimpulkan?
 
 **Pilihan jawaban:**
-- dilakukan tanpa merendahkan
-- memperhatikan orang yang berbicara
-- memisahkan sesuai jenis
-- Pilih tiga hal yang kamu temukan hari ini
+- Angka tinggi pada saat diukur
+- Seberapa besar tinggi anak itu berubah dari waktu sebelumnya
+- Tanggal pengukuran jika tercatat
+- Alat yang dipakai jika disebutkan
 
-**Kunci Jawaban:** memperhatikan orang yang berbicara
+**Kunci Jawaban:** Seberapa besar tinggi anak itu berubah dari waktu sebelumnya
 
-**Pembahasan:** Mendengarkan: memperhatikan orang yang berbicara.
+**Pembahasan:** Untuk mengetahui perubahan diperlukan pembanding pada waktu lain, bukan hanya satu hasil pengukuran.
 
 ---
 
 ## Soal 23 — K03-IPAS-B03-M01-023
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Tanggung jawab**?
+**Pertanyaan:** Mengapa tanggal perlu dicatat bersama hasil pengukuran?
 
 **Pilihan jawaban:**
-- perlu dihormati
-- menggunakan dengan hati-hati
-- menyelesaikan tugas yang disepakati
-- memahami perasaan orang lain
+- Agar semua hasil pasti sama
+- Agar angka boleh diganti sesuai keinginan
+- Agar perubahan dapat dibandingkan menurut waktu
+- Agar tidak perlu menggunakan alat ukur
 
-**Kunci Jawaban:** menyelesaikan tugas yang disepakati
+**Kunci Jawaban:** Agar perubahan dapat dibandingkan menurut waktu
 
-**Pembahasan:** Tanggung jawab: menyelesaikan tugas yang disepakati.
+**Pembahasan:** Tanggal menghubungkan hasil dengan waktu pengamatan dan membantu menata urutannya.
 
 ---
 
 ## Soal 24 — K03-IPAS-B03-M01-024
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Peduli lingkungan**?
+**Pertanyaan:** Contoh kegiatan yang mendukung perkembangan sekaligus aman untuk anak ialah ...
 
 **Pilihan jawaban:**
-- barang yang masih bermanfaat
-- membagi tugas secara adil
-- memberikan sebagian yang dimiliki
-- menjaga kebersihan dan kelestarian
+- Memperbaiki kabel listrik terkelupas
+- Mengangkat lemari berat seorang diri
+- Membersihkan atap tanpa pendamping
+- Berlatih merapikan alat belajar sendiri
 
-**Kunci Jawaban:** menjaga kebersihan dan kelestarian
+**Kunci Jawaban:** Berlatih merapikan alat belajar sendiri
 
-**Pembahasan:** Peduli lingkungan: menjaga kebersihan dan kelestarian.
+**Pembahasan:** Merapikan alat belajar melatih keterampilan dan tanggung jawab dengan risiko yang dapat disesuaikan untuk anak.
 
 ---
 
 ## Soal 25 — K03-IPAS-B03-M01-025
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Membantu teman**?
+**Pertanyaan:** Saat mencatat perubahan diri, laporan yang tepat ialah ...
 
 **Pilihan jawaban:**
-- dilakukan tanpa merendahkan
-- memisahkan sesuai jenis
-- Pilih tiga hal yang kamu temukan hari ini
-- bekerja bersama untuk tujuan baik
+- Menulis hasil pengamatan apa adanya
+- Mengubah angka agar tampak paling tinggi
+- Menyalin ukuran teman agar tidak berbeda
+- Membuang catatan yang tidak sesuai harapan
 
-**Kunci Jawaban:** dilakukan tanpa merendahkan
+**Kunci Jawaban:** Menulis hasil pengamatan apa adanya
 
-**Pembahasan:** Membantu teman: dilakukan tanpa merendahkan.
+**Pembahasan:** Catatan yang jujur membantu memahami perubahan; memalsukan data justru menghilangkan manfaat pengamatan.
 
 ---
 
 ## Soal 26 — K03-IPAS-B03-M01-026
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Perbedaan**?
+**Pertanyaan:** Mengapa anggota keluarga perlu berbagi tugas rumah?
 
 **Pilihan jawaban:**
-- menggunakan dengan hati-hati
-- perlu dihormati
-- memahami perasaan orang lain
-- saling membantu saat diperlukan
+- Agar semua tugas diberikan kepada satu orang
+- Agar pekerjaan dan kenyamanan rumah menjadi tanggung jawab bersama
+- Agar anak mengambil pekerjaan berbahaya
+- Agar tidak ada yang perlu beristirahat
 
-**Kunci Jawaban:** perlu dihormati
+**Kunci Jawaban:** Agar pekerjaan dan kenyamanan rumah menjadi tanggung jawab bersama
 
-**Pembahasan:** Perbedaan: perlu dihormati.
+**Pembahasan:** Pembagian peran membantu pekerjaan selesai dan mencegah beban selalu jatuh pada orang yang sama.
 
 ---
 
 ## Soal 27 — K03-IPAS-B03-M01-027
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Donasi layak pakai**?
+**Pertanyaan:** Cara membagi tugas yang adil ialah ...
 
 **Pilihan jawaban:**
-- membagi tugas secara adil
-- memberikan sebagian yang dimiliki
-- barang yang masih bermanfaat
-- berdiskusi untuk mengambil keputusan
+- Memberikan beban yang persis sama tanpa melihat kemampuan
+- Menentukan semua tugas hanya dari jenis kelamin
+- Mempertimbangkan kemampuan, waktu, dan kebutuhan anggota keluarga
+- Membiarkan satu orang memutuskan tanpa mendengar yang lain
 
-**Kunci Jawaban:** barang yang masih bermanfaat
+**Kunci Jawaban:** Mempertimbangkan kemampuan, waktu, dan kebutuhan anggota keluarga
 
-**Pembahasan:** Donasi layak pakai: barang yang masih bermanfaat.
+**Pembahasan:** Adil tidak selalu berarti tugas identik; keadaan dan kemampuan perlu dipertimbangkan bersama.
 
 ---
 
 ## Soal 28 — K03-IPAS-B03-M01-028
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Memilah sampah**?
+**Pertanyaan:** Ibu sedang memperbaiki kursi bersama orang dewasa lain, Ayah memasak. Kesimpulan yang tepat ialah ...
 
 **Pilihan jawaban:**
-- Pilih tiga hal yang kamu temukan hari ini
-- bekerja bersama untuk tujuan baik
-- menghargai giliran orang lain
-- memisahkan sesuai jenis
+- Memasak hanya boleh dilakukan ibu
+- Memperbaiki barang hanya boleh dilakukan ayah
+- Tugas keluarga tidak boleh berubah
+- Tugas dapat dilakukan sesuai kemampuan dan kesepakatan
 
-**Kunci Jawaban:** memisahkan sesuai jenis
+**Kunci Jawaban:** Tugas dapat dilakukan sesuai kemampuan dan kesepakatan
 
-**Pembahasan:** Memilah sampah: memisahkan sesuai jenis.
+**Pembahasan:** Peran rumah tangga tidak terbatas pada jenis kelamin; kemampuan dan keselamatan tetap diperhatikan.
 
 ---
 
 ## Soal 29 — K03-IPAS-B03-M01-029
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Menjaga fasilitas umum**?
+**Pertanyaan:** Raka bertugas menyiram tanaman tetapi akan pergi bersama keluarga. Apa tindakan bertanggung jawab?
 
 **Pilihan jawaban:**
-- menggunakan dengan hati-hati
-- memahami perasaan orang lain
-- saling membantu saat diperlukan
-- dibuang ke tempatnya
+- Memberi tahu dan menyepakati pengganti atau waktu lain
+- Diam agar tidak ada yang tahu tugasnya tertunda
+- Menyalahkan adiknya sebelum bertanya
+- Membuang tanaman agar tugas hilang
 
-**Kunci Jawaban:** menggunakan dengan hati-hati
+**Kunci Jawaban:** Memberi tahu dan menyepakati pengganti atau waktu lain
 
-**Pembahasan:** Menjaga fasilitas umum: menggunakan dengan hati-hati.
+**Pembahasan:** Komunikasi memungkinkan penyesuaian sehingga kebutuhan rumah tetap terpenuhi tanpa menyembunyikan tugas yang belum dilakukan.
 
 ---
 
 ## Soal 30 — K03-IPAS-B03-M01-030
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Kerja sama**?
+**Pertanyaan:** Dua anggota keluarga ingin memakai alat kebersihan yang sama. Penyelesaian yang sesuai ialah ...
 
 **Pilihan jawaban:**
-- memberikan sebagian yang dimiliki
-- membagi tugas secara adil
-- berdiskusi untuk mengambil keputusan
-- menggunakan air seperlunya
+- Merebut alat sampai salah satu menyerah
+- Menyepakati giliran pemakaian
+- Menyembunyikan alat dari semua orang
+- Menganggap pekerjaan orang lain tidak penting
 
-**Kunci Jawaban:** membagi tugas secara adil
+**Kunci Jawaban:** Menyepakati giliran pemakaian
 
-**Pembahasan:** Kerja sama: membagi tugas secara adil.
+**Pembahasan:** Kesepakatan giliran membantu keduanya menggunakan alat tanpa merusak hubungan atau menghambat pekerjaan.
 
 ---
 
 ## Soal 31 — K03-IPAS-B03-M01-031
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Tantangan**?
+**Pertanyaan:** Salah satu anggota keluarga sedang sakit. Pembagian tugas sebaiknya ...
 
 **Pilihan jawaban:**
-- bekerja bersama untuk tujuan baik
-- menghargai giliran orang lain
-- Pilih tiga hal yang kamu temukan hari ini
-- mematikan lampu yang tidak diperlukan
+- Dipaksakan tetap sama tanpa melihat kondisinya
+- Diberikan seluruhnya kepada anak terkecil
+- Disesuaikan sementara setelah dibicarakan
+- Dihentikan semua tanpa mencari cara lain
 
-**Kunci Jawaban:** Pilih tiga hal yang kamu temukan hari ini
+**Kunci Jawaban:** Disesuaikan sementara setelah dibicarakan
 
-**Pembahasan:** Tantangan: Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Kondisi dapat berubah; pembagian peran perlu menyesuaikan kemampuan dan kebutuhan saat itu.
 
 ---
 
 ## Soal 32 — K03-IPAS-B03-M01-032
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Empati**?
+**Pertanyaan:** Contoh tanggung jawab setelah memakai mainan bersama ialah ...
 
 **Pilihan jawaban:**
-- saling membantu saat diperlukan
-- dibuang ke tempatnya
-- berbicara dan bertindak dengan hormat
-- memahami perasaan orang lain
+- Membiarkannya berserakan karena dipakai bersama
+- Menunggu orang lain merapikan tanpa berbicara
+- Menyembunyikan bagian mainan agar milik sendiri
+- Mengembalikannya ke tempat yang disepakati
 
-**Kunci Jawaban:** memahami perasaan orang lain
+**Kunci Jawaban:** Mengembalikannya ke tempat yang disepakati
 
-**Pembahasan:** Empati: memahami perasaan orang lain.
+**Pembahasan:** Mengembalikan barang menjaga kerapian dan memudahkan anggota keluarga lain menggunakannya.
 
 ---
 
 ## Soal 33 — K03-IPAS-B03-M01-033
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Berbagi**?
+**Pertanyaan:** Mengapa meminta izin sebelum membantu seseorang itu penting?
 
 **Pilihan jawaban:**
-- memberikan sebagian yang dimiliki
-- berdiskusi untuk mengambil keputusan
-- menggunakan air seperlunya
-- memperhatikan orang yang berbicara
+- Bantuan yang dibutuhkan orang dapat berbeda
+- Semua orang selalu ingin tugasnya diambil alih
+- Meminta izin membuat orang tidak boleh menolak
+- Bantuan hanya boleh diberikan jika ada hadiah
 
-**Kunci Jawaban:** memberikan sebagian yang dimiliki
+**Kunci Jawaban:** Bantuan yang dibutuhkan orang dapat berbeda
 
-**Pembahasan:** Berbagi: memberikan sebagian yang dimiliki.
+**Pembahasan:** Bertanya membantu mengetahui kebutuhan dan menghargai pilihan orang yang dibantu.
 
 ---
 
 ## Soal 34 — K03-IPAS-B03-M01-034
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Gotong royong**?
+**Pertanyaan:** Adik menumpahkan air di lantai. Apa langkah yang menunjukkan kepedulian dan keselamatan?
 
 **Pilihan jawaban:**
-- menghargai giliran orang lain
-- bekerja bersama untuk tujuan baik
-- mematikan lampu yang tidak diperlukan
-- menyelesaikan tugas yang disepakati
+- Berlari melewati air agar cepat
+- Memberi tahu orang dewasa dan membantu membersihkan sesuai arahan
+- Membiarkan lantai licin tanpa memberi tahu
+- Menyalahkan adik sambil menutupi tumpahan dengan mainan
 
-**Kunci Jawaban:** bekerja bersama untuk tujuan baik
+**Kunci Jawaban:** Memberi tahu orang dewasa dan membantu membersihkan sesuai arahan
 
-**Pembahasan:** Gotong royong: bekerja bersama untuk tujuan baik.
+**Pembahasan:** Lantai basah dapat membuat orang terpeleset; pemberitahuan dan pembersihan yang aman membantu semua penghuni rumah.
 
 ---
 
 ## Soal 35 — K03-IPAS-B03-M01-035
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Tolong-menolong**?
+**Pertanyaan:** Apa manfaat mendengarkan pendapat sebelum menentukan jadwal tugas?
 
 **Pilihan jawaban:**
-- dibuang ke tempatnya
-- berbicara dan bertindak dengan hormat
-- saling membantu saat diperlukan
-- menjaga kebersihan dan kelestarian
+- Membuat semua pendapat harus sama
+- Menghindari kesepakatan bersama
+- Mengetahui kebutuhan dan waktu anggota keluarga
+- Memastikan orang yang paling keras selalu menang
 
-**Kunci Jawaban:** saling membantu saat diperlukan
+**Kunci Jawaban:** Mengetahui kebutuhan dan waktu anggota keluarga
 
-**Pembahasan:** Tolong-menolong: saling membantu saat diperlukan.
+**Pembahasan:** Mendengarkan memberi informasi agar jadwal dapat dijalankan dan mempertimbangkan keadaan anggota keluarga.
 
 ---
 
 ## Soal 36 — K03-IPAS-B03-M01-036
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Musyawarah**?
+**Pertanyaan:** Teman tinggal bersama kakek dan wali, sedangkan kamu bersama orang tua. Sikap yang tepat ialah ...
 
 **Pilihan jawaban:**
-- menggunakan air seperlunya
-- memperhatikan orang yang berbicara
-- dilakukan tanpa merendahkan
-- berdiskusi untuk mengambil keputusan
+- Menganggap hanya satu susunan keluarga yang berharga
+- Meminta ia mengubah cerita agar sama
+- Menyebarkan pertanyaan pribadinya tanpa izin
+- Menghargai keluarganya dan tidak mengejek susunannya
 
-**Kunci Jawaban:** berdiskusi untuk mengambil keputusan
+**Kunci Jawaban:** Menghargai keluarganya dan tidak mengejek susunannya
 
-**Pembahasan:** Musyawarah: berdiskusi untuk mengambil keputusan.
+**Pembahasan:** Keluarga dapat mempunyai susunan berbeda; semua anak berhak dihormati dan merasa diterima.
 
 ---
 
 ## Soal 37 — K03-IPAS-B03-M01-037
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Mengantre**?
+**Pertanyaan:** Apa yang dimaksud peran dalam kegiatan keluarga?
 
 **Pilihan jawaban:**
-- menghargai giliran orang lain
-- mematikan lampu yang tidak diperlukan
-- menyelesaikan tugas yang disepakati
-- perlu dihormati
+- Bagian tanggung jawab atau kegiatan yang dijalankan seseorang
+- Semua benda yang dimiliki keluarga
+- Ukuran tubuh setiap penghuni
+- Daftar barang yang dijual di rumah
 
-**Kunci Jawaban:** menghargai giliran orang lain
+**Kunci Jawaban:** Bagian tanggung jawab atau kegiatan yang dijalankan seseorang
 
-**Pembahasan:** Mengantre: menghargai giliran orang lain.
+**Pembahasan:** Peran berkaitan dengan kontribusi atau tanggung jawab, bukan ukuran tubuh atau kepemilikan barang.
 
 ---
 
 ## Soal 38 — K03-IPAS-B03-M01-038
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Sampah**?
+**Pertanyaan:** Kesepakatan keluarga tentang merapikan sepatu membantu ...
 
 **Pilihan jawaban:**
-- berbicara dan bertindak dengan hormat
-- dibuang ke tempatnya
-- menjaga kebersihan dan kelestarian
-- barang yang masih bermanfaat
+- Menentukan siapa yang paling disukai
+- Mencegah jalan terhalang dan memudahkan mencari sepatu
+- Menghapus kebutuhan semua pekerjaan lain
+- Membuat semua ukuran sepatu sama
 
-**Kunci Jawaban:** dibuang ke tempatnya
+**Kunci Jawaban:** Mencegah jalan terhalang dan memudahkan mencari sepatu
 
-**Pembahasan:** Sampah: dibuang ke tempatnya.
+**Pembahasan:** Kesepakatan itu mempunyai tujuan nyata bagi kerapian dan keamanan tempat bersama.
 
 ---
 
 ## Soal 39 — K03-IPAS-B03-M01-039
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Hemat air**?
+**Pertanyaan:** Ketika tugas terasa terlalu berat untuk anak, ia sebaiknya ...
 
 **Pilihan jawaban:**
-- memperhatikan orang yang berbicara
-- dilakukan tanpa merendahkan
-- menggunakan air seperlunya
-- memisahkan sesuai jenis
+- Memaksakan diri agar dianggap dewasa
+- Menyembunyikan rasa sakit
+- Menyampaikan kesulitan dan meminta penyesuaian
+- Mengajak adik yang lebih kecil melakukan pekerjaan berat
 
-**Kunci Jawaban:** menggunakan air seperlunya
+**Kunci Jawaban:** Menyampaikan kesulitan dan meminta penyesuaian
 
-**Pembahasan:** Hemat air: menggunakan air seperlunya.
+**Pembahasan:** Tugas perlu disesuaikan dengan kemampuan dan keselamatan; menyampaikan kesulitan membantu keluarga memperbaiki pembagiannya.
 
 ---
 
 ## Soal 40 — K03-IPAS-B03-M01-040
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Hemat listrik**?
+**Pertanyaan:** Bagaimana cara menegur anggota keluarga yang lupa merapikan barang?
 
 **Pilihan jawaban:**
-- menyelesaikan tugas yang disepakati
-- perlu dihormati
-- menggunakan dengan hati-hati
-- mematikan lampu yang tidak diperlukan
+- Menghina di depan semua orang
+- Membuang barangnya diam-diam
+- Membalas dengan mengotori ruangan lain
+- Mengingatkan dengan sopan dan menyebut kesepakatan
 
-**Kunci Jawaban:** mematikan lampu yang tidak diperlukan
+**Kunci Jawaban:** Mengingatkan dengan sopan dan menyebut kesepakatan
 
-**Pembahasan:** Hemat listrik: mematikan lampu yang tidak diperlukan.
+**Pembahasan:** Pengingat yang sopan berfokus pada tindakan dan kesepakatan, bukan merendahkan orangnya.
 
 ---
 
 ## Soal 41 — K03-IPAS-B03-M01-041
 
-**Pertanyaan:** Pada bab **Peduli dan Berbagi**, hal apa yang berkaitan dengan "berbicara dan bertindak dengan hormat"?
+**Pertanyaan:** Keluarga mempunyai kebiasaan mencuci tangan sebelum makan. Kebiasaan itu terutama mendukung ...
 
 **Pilihan jawaban:**
-- Sopan santun
-- Peduli lingkungan
-- Donasi layak pakai
-- Kerja sama
+- Kebersihan sebelum memegang makanan
+- Penentuan siapa yang paling berkuasa
+- Penggantian seluruh kebutuhan makan
+- Penghilangan semua perbedaan kebiasaan
 
-**Kunci Jawaban:** Sopan santun
+**Kunci Jawaban:** Kebersihan sebelum memegang makanan
 
-**Pembahasan:** Sopan santun adalah pilihan yang sesuai karena petunjuk soal menyebutkan "berbicara dan bertindak dengan hormat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Kebiasaan tersebut mengurangi perpindahan kotoran ke makanan; tujuannya berkaitan dengan kesehatan bersama.
 
 ---
 
 ## Soal 42 — K03-IPAS-B03-M01-042
 
-**Pertanyaan:** Pada bab **Peduli dan Berbagi**, hal apa yang berkaitan dengan "memperhatikan orang yang berbicara"?
+**Pertanyaan:** Mengapa alat dan ruangan bersama perlu dirawat setelah digunakan?
 
 **Pilihan jawaban:**
-- Membantu teman
-- Mendengarkan
-- Memilah sampah
-- Tantangan
+- Agar hanya pemakai pertama yang boleh memakainya
+- Agar tetap aman dan dapat dipakai orang berikutnya
+- Agar tugas orang lain bertambah
+- Agar barang cepat rusak dan diganti
 
-**Kunci Jawaban:** Mendengarkan
+**Kunci Jawaban:** Agar tetap aman dan dapat dipakai orang berikutnya
 
-**Pembahasan:** Mendengarkan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memperhatikan orang yang berbicara". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Merawat barang bersama mempertimbangkan kenyamanan pemakai berikutnya serta keberlanjutan penggunaannya.
 
 ---
 
 ## Soal 43 — K03-IPAS-B03-M01-043
 
-**Pertanyaan:** Pada bab **Peduli dan Berbagi**, hal apa yang berkaitan dengan "menyelesaikan tugas yang disepakati"?
+**Pertanyaan:** Contoh musyawarah tentang pekerjaan rumah ialah ...
 
 **Pilihan jawaban:**
-- Perbedaan
-- Menjaga fasilitas umum
-- Tanggung jawab
-- Empati
+- Satu orang memilih semua tugas tanpa mendengar yang lain
+- Anggota keluarga menyembunyikan kebutuhan masing-masing
+- Membicarakan pilihan tugas dan menyepakati pembagiannya
+- Semua orang berbicara sekaligus tanpa mendengar
 
-**Kunci Jawaban:** Tanggung jawab
+**Kunci Jawaban:** Membicarakan pilihan tugas dan menyepakati pembagiannya
 
-**Pembahasan:** Tanggung jawab adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menyelesaikan tugas yang disepakati". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Musyawarah memberi ruang membahas pendapat dan mencari kesepakatan yang dapat dijalankan.
 
 ---
 
 ## Soal 44 — K03-IPAS-B03-M01-044
 
-**Pertanyaan:** Pada bab **Peduli dan Berbagi**, hal apa yang berkaitan dengan "menjaga kebersihan dan kelestarian"?
+**Pertanyaan:** Apa yang membedakan adil dengan selalu sama dalam pembagian tugas?
 
 **Pilihan jawaban:**
-- Donasi layak pakai
-- Kerja sama
-- Berbagi
-- Peduli lingkungan
+- Adil selalu berarti anak melakukan pekerjaan orang dewasa
+- Adil berarti orang yang lebih tua tidak perlu berperan
+- Adil berarti tidak ada yang boleh meminta bantuan
+- Adil mempertimbangkan kemampuan dan keadaan, tidak harus identik
 
-**Kunci Jawaban:** Peduli lingkungan
+**Kunci Jawaban:** Adil mempertimbangkan kemampuan dan keadaan, tidak harus identik
 
-**Pembahasan:** Peduli lingkungan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menjaga kebersihan dan kelestarian". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Kemampuan, waktu, dan kebutuhan berbeda sehingga kesamaan tugas belum tentu menghasilkan pembagian yang wajar.
 
 ---
 
 ## Soal 45 — K03-IPAS-B03-M01-045
 
-**Pertanyaan:** Pada bab **Peduli dan Berbagi**, hal apa yang berkaitan dengan "dilakukan tanpa merendahkan"?
+**Pertanyaan:** Dua saudara mempunyai waktu luang berbeda. Apa dasar yang baik untuk membuat jadwal?
 
 **Pilihan jawaban:**
-- Membantu teman
-- Memilah sampah
-- Tantangan
-- Gotong royong
+- Membicarakan waktu yang tersedia dan berbagi tanggung jawab
+- Memberi semua tugas kepada yang pulang paling akhir
+- Menganggap jadwal belajar tidak perlu diperhatikan
+- Memilih jadwal yang sengaja tidak dapat dilakukan
 
-**Kunci Jawaban:** Membantu teman
+**Kunci Jawaban:** Membicarakan waktu yang tersedia dan berbagi tanggung jawab
 
-**Pembahasan:** Membantu teman adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dilakukan tanpa merendahkan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Jadwal yang realistis mempertimbangkan kegiatan lain sambil tetap berbagi peran.
 
 ---
 
 ## Soal 46 — K03-IPAS-B03-M01-046
 
-**Pertanyaan:** Pada bab **Peduli dan Berbagi**, hal apa yang berkaitan dengan "perlu dihormati"?
+**Pertanyaan:** Mengapa pekerjaan bersama tidak cukup hanya direncanakan?
 
 **Pilihan jawaban:**
-- Menjaga fasilitas umum
-- Perbedaan
-- Empati
-- Tolong-menolong
+- Rencana selalu langsung membuat rumah bersih
+- Perlu dilaksanakan dan diperiksa hasilnya
+- Menulis tugas menghilangkan kebutuhan bekerja
+- Kesepakatan tidak perlu dipahami pelakunya
 
-**Kunci Jawaban:** Perbedaan
+**Kunci Jawaban:** Perlu dilaksanakan dan diperiksa hasilnya
 
-**Pembahasan:** Perbedaan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perlu dihormati". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Rencana membantu mengatur tindakan, tetapi hasil baru terlihat setelah pekerjaan dilakukan.
 
 ---
 
 ## Soal 47 — K03-IPAS-B03-M01-047
 
-**Pertanyaan:** Pada bab **Peduli dan Berbagi**, hal apa yang berkaitan dengan "barang yang masih bermanfaat"?
+**Pertanyaan:** Apa yang dapat dilakukan keluarga sesudah mencoba jadwal tugas baru?
 
 **Pilihan jawaban:**
-- Kerja sama
-- Berbagi
-- Donasi layak pakai
-- Musyawarah
+- Melarang semua orang memberi masukan
+- Menjaga jadwal selamanya walau keadaan berubah
+- Membahas apakah pembagian berjalan dan perlu disesuaikan
+- Menilai hasil hanya dari siapa yang paling tua
 
-**Kunci Jawaban:** Donasi layak pakai
+**Kunci Jawaban:** Membahas apakah pembagian berjalan dan perlu disesuaikan
 
-**Pembahasan:** Donasi layak pakai adalah pilihan yang sesuai karena petunjuk soal menyebutkan "barang yang masih bermanfaat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Peninjauan membantu mengetahui bagian yang berhasil dan memperbaiki beban atau waktu yang kurang sesuai.
 
 ---
 
 ## Soal 48 — K03-IPAS-B03-M01-048
 
-**Pertanyaan:** Pada bab **Peduli dan Berbagi**, hal apa yang berkaitan dengan "memisahkan sesuai jenis"?
+**Pertanyaan:** Anak membantu menyiapkan meja makan. Hal yang perlu diperhatikan ialah ...
 
 **Pilihan jawaban:**
-- Tantangan
-- Gotong royong
-- Mengantre
-- Memilah sampah
+- Membawa panci panas sendiri agar lebih cepat
+- Mengangkat semua peralatan sekaligus meski berat
+- Berlari sambil membawa piring kaca
+- Memakai benda aman dan meminta bantuan untuk benda panas atau berat
 
-**Kunci Jawaban:** Memilah sampah
+**Kunci Jawaban:** Memakai benda aman dan meminta bantuan untuk benda panas atau berat
 
-**Pembahasan:** Memilah sampah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memisahkan sesuai jenis". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Bantuan anak harus sesuai kemampuan dan memperhatikan risiko benda panas, berat, atau mudah pecah.
 
 ---
 
 ## Soal 49 — K03-IPAS-B03-M01-049
 
-**Pertanyaan:** Pada bab **Peduli dan Berbagi**, hal apa yang berkaitan dengan "menggunakan dengan hati-hati"?
+**Pertanyaan:** Apa alasan mengucapkan terima kasih setelah mendapat bantuan?
 
 **Pilihan jawaban:**
-- Menjaga fasilitas umum
-- Empati
-- Tolong-menolong
-- Sampah
+- Menghargai usaha orang yang membantu
+- Menggantikan kewajiban menjaga barang selamanya
+- Membuktikan orang lain wajib selalu membantu
+- Membuat bantuan boleh dipaksakan
 
-**Kunci Jawaban:** Menjaga fasilitas umum
+**Kunci Jawaban:** Menghargai usaha orang yang membantu
 
-**Pembahasan:** Menjaga fasilitas umum adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menggunakan dengan hati-hati". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Ucapan terima kasih mengakui kontribusi orang lain, tanpa menghapus batas dan tanggung jawab kita.
 
 ---
 
 ## Soal 50 — K03-IPAS-B03-M01-050
 
-**Pertanyaan:** Pada bab **Peduli dan Berbagi**, hal apa yang berkaitan dengan "membagi tugas secara adil"?
+**Pertanyaan:** Bagaimana hubungan pertumbuhan, perkembangan, dan peran di rumah?
 
 **Pilihan jawaban:**
-- Berbagi
-- Kerja sama
-- Musyawarah
-- Hemat air
+- Semua anak harus segera melakukan tugas orang dewasa
+- Kemampuan dapat berkembang sehingga tugas dapat disesuaikan secara aman
+- Tinggi badan menentukan semua tanggung jawab
+- Peran keluarga tidak pernah dapat berubah
 
-**Kunci Jawaban:** Kerja sama
+**Kunci Jawaban:** Kemampuan dapat berkembang sehingga tugas dapat disesuaikan secara aman
 
-**Pembahasan:** Kerja sama adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membagi tugas secara adil". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Ketika kemampuan berubah, kontribusi dapat berkembang melalui kesepakatan, bimbingan, dan pertimbangan keselamatan.
 
 ---

@@ -4,14 +4,14 @@
 
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
-| IPAS | Bab 1–2: 126 butir berubah | 140 butir diperiksa ulang | Bab 3–8: 420 soal |
+| IPAS | Bab 1–3: 196 butir berubah | 210 butir diperiksa ulang | Bab 4–8: 350 soal |
 | PAI | Belum dikerjakan | Belum diperiksa ulang | 300 soal/10 bab |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **140/1.945**. Jumlah diubah: **126**.
-Sisa audit isi: **1.805 soal pada 39 bab/unit**. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **210/1.945**. Jumlah diubah: **196**.
+Sisa audit isi: **1.735 soal pada 38 bab/unit**. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -61,13 +61,39 @@ kunci cocok; 12 SVG lolos XML, rendering lebar 390 piksel, batas teks, dan
 peninjauan lembar gambar. Lulus struktur tidak dipakai untuk mengklaim semua
 mapel lulus akademik. Belum ada uji kesulitan empiris pada siswa.
 
+## IPAS Bab 3
+
+Semua 70 butir diperiksa dan ditulis ulang; ID tetap. Cakupan lama yang hampir
+seluruhnya berupa istilah perilaku sosial diganti dengan dua bagian sesuai buku
+revisi 2025 halaman 49–66: pertumbuhan/perkembangan manusia dan berbagi peran
+keluarga. Bank biasa memuat 25 butir tentang perubahan ukuran/kemampuan,
+tahapan, bukti pengamatan, kebutuhan dukungan; 25 butir berikutnya tentang
+pembagian tanggung jawab, kesepakatan, kondisi yang berubah, dan keselamatan.
+
+Keenam nama tahap pada buku dipertahankan tanpa memaksakan batas usia atau
+kemampuan yang sama bagi semua orang. Diagram linear tidak menyatakan bahwa
+individu lanjut usia kembali menjadi bayi. Grafik pertumbuhan memakai dua
+hasil contoh dari anak yang sama dan sumbu dimulai dari nol; penyebab pasti
+perubahan serta kondisi kesehatan tidak disimpulkan dari grafik itu saja.
+
+Sepuluh gambar soal dan dua ilustrasi materi diganti, kemudian ditinjau melalui
+lembar gambar. Dua modul ditulis ulang dan berisi dua gambar masing-masing.
+Pembagian peran tidak dibatasi berdasarkan jenis kelamin; keselamatan tugas,
+hak meminta bantuan, dan penyesuaian kondisi keluarga diterangkan.
+
+Pemeriksaan: 50+20 butir; 70 ID dan teks pertanyaan unik; kunci cocok dengan
+empat opsi; tidak ada label instruksi Tantangan sebagai konsep. Dua belas SVG
+lolos XML dan uji batas teks pada lebar 390 piksel. Perintah LaTeX satuan pada
+sumber Markdown diperiksa agar tidak berubah menjadi tab atau double escape.
+Tidak ada konversi JSON atau perubahan pada materi yang dilarang.
+
 ## Pemeriksaan
 
 `python scripts/check-k03-question-sources.py` memeriksa paket kanonis lima
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–2
+Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–3
 belum memperoleh pemeriksaan isi putaran ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
@@ -77,12 +103,10 @@ Pemeriksaan ini bukan uji coba kepada siswa atau pengukuran kesulitan empiris.
 
 ## Posisi lanjut yang tepat
 
-Lanjut **IPAS Bab 3, nomor 001–070**, dengan memeriksa dua modul dan 12 SVG
-terkait, lalu Bab 4 sampai Bab 8. Setelah IPAS tuntas, lanjut PAI, ENG, PJOK,
-dan Seni Rupa sesuai instruksi. Pada Bab 3 IPAS, cocokkan cakupan pertumbuhan
-manusia dan pembagian peran keluarga dengan buku revisi 2025; jangan hanya
-mempertahankan soal norma sosial. Instruksi kegiatan yang sebelumnya dijadikan
-istilah pelajaran juga harus diperiksa pada bab lain.
+Lanjut **IPAS Bab 4, nomor 001–070**, dengan memeriksa dua modul dan 12 SVG
+terkait, lalu Bab 5 sampai Bab 8. Setelah IPAS tuntas, lanjut PAI, ENG, PJOK,
+dan Seni Rupa sesuai instruksi. Pertahankan pemeriksaan terhadap buku revisi 2025. Instruksi kegiatan yang
+sebelumnya dijadikan istilah pelajaran juga harus diperiksa pada bab lain.
 
 Dilarang menyimpulkan keseluruhan selesai dari checkpoint ini. Jangan membuat
 JSON, mengaktifkan draft pada aplikasi, atau mengubah BIN, MTK, dan PKN.
