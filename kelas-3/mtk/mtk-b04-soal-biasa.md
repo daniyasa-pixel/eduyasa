@@ -628,7 +628,7 @@ K03-MTK-B04 · Kelas 3 · Kurikulum Merdeka · MathJax
 
 ## Soal 40 — K03-MTK-B04-M01-040
 
-**Pertanyaan:** Jika dua ruas garis bertemu dan membentuk sudut tepat 90°, hubungan keduanya ...
+**Pertanyaan:** Jika dua ruas garis bertemu dan membentuk sudut tepat $90^{\circ}$, hubungan keduanya ...
 
 **Pilihan jawaban:**
 - melingkar
@@ -638,7 +638,7 @@ K03-MTK-B04 · Kelas 3 · Kurikulum Merdeka · MathJax
 
 **Kunci Jawaban:** tegak lurus
 
-**Pembahasan:** Garis yang membentuk 90° tegak lurus.
+**Pembahasan:** Garis yang membentuk $90^{\circ}$ tegak lurus.
 
 ---
 
@@ -692,7 +692,7 @@ K03-MTK-B04 · Kelas 3 · Kurikulum Merdeka · MathJax
 
 ## Soal 44 — K03-MTK-B04-M01-044
 
-**Pertanyaan:** Sudut yang lebih kecil dari ${M(raw`90^{circ}`)} disebut ...
+**Pertanyaan:** Sudut yang lebih kecil dari $90^{\circ}$ disebut ...
 
 **Pilihan jawaban:**
 - sudut lurus
@@ -708,7 +708,7 @@ K03-MTK-B04 · Kelas 3 · Kurikulum Merdeka · MathJax
 
 ## Soal 45 — K03-MTK-B04-M01-045
 
-**Pertanyaan:** Sudut yang lebih besar dari ${M(raw`90^{circ}`)} tetapi lebih kecil dari ${M(raw`180^{circ}`)} disebut ...
+**Pertanyaan:** Sudut yang lebih besar dari $90^{\circ}$ tetapi lebih kecil dari $180^{\circ}$ disebut ...
 
 **Pilihan jawaban:**
 - sudut lurus

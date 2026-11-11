@@ -654,7 +654,7 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 **Kunci Jawaban:** $20\ \text{cm}$
 
-**Pembahasan:** Jumlah panjang ${M('14+6=20')} sentimeter.
+**Pembahasan:** Jumlah panjang $14+6=20$ sentimeter.
 
 ---
 
@@ -670,7 +670,7 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 **Kunci Jawaban:** $55\ \text{cm}$
 
-**Pembahasan:** Sisa ${M('90-35=55')} sentimeter.
+**Pembahasan:** Sisa $90-35=55$ sentimeter.
 
 ---
 
@@ -686,7 +686,7 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 **Kunci Jawaban:** $5\ \text{kg}$
 
-**Pembahasan:** Jumlah ${M('2+3=5')} kilogram.
+**Pembahasan:** Jumlah $2+3=5$ kilogram.
 
 ---
 
@@ -702,7 +702,7 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 **Kunci Jawaban:** $3\ \text{kg}$
 
-**Pembahasan:** Sisa ${M('5-2=3')} kilogram.
+**Pembahasan:** Sisa $5-2=3$ kilogram.
 
 ---
 
@@ -718,7 +718,7 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 **Kunci Jawaban:** $60\ \text{cm}$
 
-**Pembahasan:** Panjang total ${M('27+33=60')} sentimeter.
+**Pembahasan:** Panjang total $27+33=60$ sentimeter.
 
 ---
 
@@ -734,7 +734,7 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 **Kunci Jawaban:** $3\ \text{km}$
 
-**Pembahasan:** Jarak total ${M('1+2=3')} kilometer.
+**Pembahasan:** Jarak total $1+2=3$ kilometer.
 
 ---
 
@@ -750,7 +750,7 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 **Kunci Jawaban:** $600\ \text{g}$
 
-**Pembahasan:** Total ${M('350+250=600')} gram.
+**Pembahasan:** Total $350+250=600$ gram.
 
 ---
 
@@ -766,7 +766,7 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 **Kunci Jawaban:** $425\ \text{g}$
 
-**Pembahasan:** Sisa ${M('800-375=425')} gram.
+**Pembahasan:** Sisa $800-375=425$ gram.
 
 ---
 
@@ -782,7 +782,7 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 **Kunci Jawaban:** $12\ \text{cm}$
 
-**Pembahasan:** Selisih ${M('12-0=12')} sentimeter.
+**Pembahasan:** Selisih $12-0=12$ sentimeter.
 
 ---
 
@@ -798,4 +798,4 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 **Kunci Jawaban:** $10\ \text{m}$
 
-**Pembahasan:** Selisih ${M('25-15=10')} meter.
+**Pembahasan:** Selisih $25-15=10$ meter.
