@@ -2,560 +2,560 @@
 
 ## Soal 1 — K03-ENG-B02-M01-001
 
-**Pertanyaan:** What is the English word for "nasi"?
+**Pertanyaan:** Which sentence means “Aku tidak suka nasi”?
 
 **Pilihan jawaban:**
-- carrot
-- milk
-- soup
-- rice
+- I like rice.
+- I don’t like rice.
+- I don’t like bread.
+- Do you like rice?
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** I don’t like rice.
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** Don’t like menyatakan tidak suka. Rice berarti nasi dalam konteks makanan.
 
 ---
 
 ## Soal 2 — K03-ENG-B02-M01-002
 
-**Pertanyaan:** What is the English word for "ikan"?
+**Pertanyaan:** Nina says, “I like pizza.” Retell her answer using Nina’s name.
 
 **Pilihan jawaban:**
-- bread
-- carrot
-- fish
-- apple
+- Nina like pizza.
+- Nina doesn’t like pizza.
+- Nina likes rice.
+- Nina likes pizza.
 
-**Kunci Jawaban:** fish
+**Kunci Jawaban:** Nina likes pizza.
 
-**Pembahasan:** "fish" berarti "ikan".
+**Pembahasan:** Kalimat positif tentang satu orang memakai likes. Makanan yang disebut adalah pizza.
 
 ---
 
 ## Soal 3 — K03-ENG-B02-M01-003
 
-**Pertanyaan:** What is the English word for "telur"?
+**Pertanyaan:** Fajar says, “I don’t like coffee.” What can you tell a friend about Fajar?
 
 **Pilihan jawaban:**
-- apple
-- eggs
-- orange
-- chicken
+- Fajar doesn’t like coffee.
+- Fajar don’t like coffee.
+- Fajar likes coffee.
+- Fajar doesn’t like tea.
 
-**Kunci Jawaban:** eggs
+**Kunci Jawaban:** Fajar doesn’t like coffee.
 
-**Pembahasan:** "eggs" berarti "telur".
+**Pembahasan:** Untuk satu orang lain, bentuk negatifnya doesn’t like. Coffee tetap menjadi minuman yang dibahas.
 
 ---
 
 ## Soal 4 — K03-ENG-B02-M01-004
 
-**Pertanyaan:** What is the English word for "sup"?
+**Pertanyaan:** Ayu likes tea. Choose the sentence that replaces “Ayu” with “She” and keeps the meaning.
 
 **Pilihan jawaban:**
-- soup
-- milk
-- rice
-- orange
+- She like tea.
+- She doesn’t like tea.
+- She likes tea.
+- She likes milk.
 
-**Kunci Jawaban:** soup
+**Kunci Jawaban:** She likes tea.
 
-**Pembahasan:** "soup" berarti "sup".
+**Pembahasan:** She menggantikan Ayu dan tetap diikuti likes. Minumannya masih tea.
 
 ---
 
 ## Soal 5 — K03-ENG-B02-M01-005
 
-**Pertanyaan:** What is the English word for "wortel"?
+**Pertanyaan:** Tono doesn’t like spaghetti. Choose the sentence that replaces “Tono” with “He” and keeps the meaning.
 
 **Pilihan jawaban:**
-- bread
-- fish
-- milk
-- carrot
+- He don’t like spaghetti.
+- He doesn’t likes spaghetti.
+- He doesn’t like spaghetti.
+- He likes spaghetti.
 
-**Kunci Jawaban:** carrot
+**Kunci Jawaban:** He doesn’t like spaghetti.
 
-**Pembahasan:** "carrot" berarti "wortel".
+**Pembahasan:** He menggantikan Tono. Sesudah doesn’t, gunakan bentuk dasar like.
 
 ---
 
 ## Soal 6 — K03-ENG-B02-M01-006
 
-**Pertanyaan:** What is the English word for "apel"?
+**Pertanyaan:** Dina and Riko both like milk. How can you write this using “they”?
 
 **Pilihan jawaban:**
-- eggs
-- bread
-- apple
-- chicken
+- They like milk.
+- They likes milk.
+- They don’t like milk.
+- They like tea.
 
-**Kunci Jawaban:** apple
+**Kunci Jawaban:** They like milk.
 
-**Pembahasan:** "apple" berarti "apel".
+**Pembahasan:** They merujuk kepada dua orang dan diikuti like dalam kalimat positif.
 
 ---
 
 ## Soal 7 — K03-ENG-B02-M01-007
 
-**Pertanyaan:** What is the English word for "jeruk"?
+**Pertanyaan:** Which words complete the note? “I ___ coffee. My sister ___ coffee, too.”
 
 **Pilihan jawaban:**
-- chicken
-- orange
-- rice
-- soup
+- likes, then like
+- like, then like
+- likes, then likes
+- like, then likes
 
-**Kunci Jawaban:** orange
+**Kunci Jawaban:** like, then likes
 
-**Pembahasan:** "orange" berarti "jeruk".
+**Pembahasan:** I memakai like, sedangkan my sister merujuk pada satu orang lain dan memakai likes.
 
 ---
 
 ## Soal 8 — K03-ENG-B02-M01-008
 
-**Pertanyaan:** What is the English word for "susu"?
+**Pertanyaan:** Which sentence says both children dislike tea?
 
 **Pilihan jawaban:**
-- milk
-- fish
-- carrot
-- rice
+- Rani and Bima doesn’t like tea.
+- Rani and Bima don’t like tea.
+- Rani and Bima like tea.
+- Rani and Bima don’t like milk.
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** Rani and Bima don’t like tea.
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** Dua nama bersama-sama memakai don’t like. Tea adalah minuman yang tidak mereka sukai.
 
 ---
 
 ## Soal 9 — K03-ENG-B02-M01-009
 
-**Pertanyaan:** What is the English word for "roti"?
+**Pertanyaan:** Ria wrote “My father doesn’t likes coffee.” Which edit fixes the grammar?
 
 **Pilihan jawaban:**
-- eggs
-- apple
-- fish
-- bread
+- Change “likes” to “like”.
+- Change “doesn’t” to “don’t”.
+- Change “father” to “fathers”.
+- Change “coffee” to “tea”.
 
-**Kunci Jawaban:** bread
+**Kunci Jawaban:** Change “likes” to “like”.
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** Kata kerja setelah doesn’t harus berbentuk dasar like. Mengganti nama minuman tidak memperbaiki bentuk kata kerja.
 
 ---
 
 ## Soal 10 — K03-ENG-B02-M01-010
 
-**Pertanyaan:** What is the English word for "ayam"?
+**Pertanyaan:** Put “ice cream / doesn’t like / Lila” in order to make a sentence.
 
 **Pilihan jawaban:**
-- orange
-- eggs
-- chicken
-- soup
+- Ice cream doesn’t like Lila.
+- Doesn’t Lila like ice cream?
+- Lila ice cream doesn’t like.
+- Lila doesn’t like ice cream.
 
-**Kunci Jawaban:** chicken
+**Kunci Jawaban:** Lila doesn’t like ice cream.
 
-**Pembahasan:** "chicken" berarti "ayam".
+**Pembahasan:** Nama orang yang mempunyai kesukaan diletakkan di awal, diikuti doesn’t like dan nama makanan.
 
 ---
 
 ## Soal 11 — K03-ENG-B02-M01-011
 
-**Pertanyaan:** What does "rice" mean in Indonesian?
+**Pertanyaan:** Sari likes satay. She doesn’t like pizza. What does Sari dislike?
 
 **Pilihan jawaban:**
-- sup
-- nasi
-- wortel
-- susu
+- satay
+- pizza
+- both foods
+- neither food
 
-**Kunci Jawaban:** nasi
+**Kunci Jawaban:** pizza
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** Kalimat dengan doesn’t like menunjuk pizza. Sari menyebut sate sebagai makanan yang disukai.
 
 ---
 
 ## Soal 12 — K03-ENG-B02-M01-012
 
-**Pertanyaan:** What does "fish" mean in Indonesian?
+**Pertanyaan:** Reno likes spaghetti and pizza. He doesn’t like rice. Which pair does he like?
 
 **Pilihan jawaban:**
-- ikan
-- apel
-- roti
-- wortel
+- spaghetti and rice
+- pizza and rice
+- spaghetti and pizza
+- rice and bread
 
-**Kunci Jawaban:** ikan
+**Kunci Jawaban:** spaghetti and pizza
 
-**Pembahasan:** "fish" berarti "ikan".
+**Pembahasan:** Kedua makanan setelah likes dihubungkan dengan and. Rice muncul pada kalimat negatif.
 
 ---
 
 ## Soal 13 — K03-ENG-B02-M01-013
 
-**Pertanyaan:** What does "eggs" mean in Indonesian?
+**Pertanyaan:** Rina likes coffee, but Dewi doesn’t like it. What does “it” mean?
 
 **Pilihan jawaban:**
-- jeruk
-- ayam
-- apel
-- telur
+- Rina
+- Dewi
+- orange juice
+- coffee
 
-**Kunci Jawaban:** telur
+**Kunci Jawaban:** coffee
 
-**Pembahasan:** "eggs" berarti "telur".
+**Pembahasan:** It merujuk pada coffee, benda yang dibicarakan pada bagian awal kalimat.
 
 ---
 
 ## Soal 14 — K03-ENG-B02-M01-014
 
-**Pertanyaan:** What does "soup" mean in Indonesian?
+**Pertanyaan:** Lani likes bakso. Nino doesn’t like bakso. Which statement is true?
 
 **Pilihan jawaban:**
-- nasi
-- jeruk
-- sup
-- susu
+- Only Nino likes bakso.
+- Only Lani likes bakso.
+- Both like bakso.
+- Neither likes bakso.
 
-**Kunci Jawaban:** sup
+**Kunci Jawaban:** Only Lani likes bakso.
 
-**Pembahasan:** "soup" berarti "sup".
+**Pembahasan:** Kalimat Lani memakai likes, sedangkan kalimat Nino memakai doesn’t like.
 
 ---
 
 ## Soal 15 — K03-ENG-B02-M01-015
 
-**Pertanyaan:** What does "carrot" mean in Indonesian?
+**Pertanyaan:** Dito says he likes Papeda. His note also says he likes satay. Which note keeps both facts?
 
 **Pilihan jawaban:**
-- susu
-- wortel
-- roti
-- ikan
+- Dito likes Papeda and satay.
+- Dito likes Papeda but doesn’t like satay.
+- Dito likes satay but doesn’t like Papeda.
+- Dito doesn’t like Papeda or satay.
 
-**Kunci Jawaban:** wortel
+**Kunci Jawaban:** Dito likes Papeda and satay.
 
-**Pembahasan:** "carrot" berarti "wortel".
+**Pembahasan:** Kedua makanan disukai Dito. And menggabungkan dua fakta positif itu.
 
 ---
 
 ## Soal 16 — K03-ENG-B02-M01-016
 
-**Pertanyaan:** What does "apple" mean in Indonesian?
+**Pertanyaan:** “Arif likes orange juice. Tia likes it, too.” Who likes orange juice?
 
 **Pilihan jawaban:**
-- apel
-- ayam
-- telur
-- roti
+- Arif only
+- Tia only
+- Arif and Tia
+- Neither Arif nor Tia
 
-**Kunci Jawaban:** apel
+**Kunci Jawaban:** Arif and Tia
 
-**Pembahasan:** "apple" berarti "apel".
+**Pembahasan:** It merujuk pada orange juice. Too menunjukkan Tia memiliki kesukaan yang sama.
 
 ---
 
 ## Soal 17 — K03-ENG-B02-M01-017
 
-**Pertanyaan:** What does "orange" mean in Indonesian?
+**Pertanyaan:** Raka likes Ayam Betutu. What is true about Raka’s view of fried chicken?
 
 **Pilihan jawaban:**
-- nasi
-- sup
-- ayam
-- jeruk
+- The note doesn’t say.
+- He likes fried chicken.
+- He doesn’t like fried chicken.
+- He likes only fried chicken.
 
-**Kunci Jawaban:** jeruk
+**Kunci Jawaban:** The note doesn’t say.
 
-**Pembahasan:** "orange" berarti "jeruk".
+**Pembahasan:** Catatan hanya menyebut Ayam Betutu. Kesukaan terhadap hidangan lain belum diketahui.
 
 ---
 
 ## Soal 18 — K03-ENG-B02-M01-018
 
-**Pertanyaan:** What does "milk" mean in Indonesian?
+**Pertanyaan:** Mila likes milk and doesn’t like coffee. A note says “Mila likes both drinks.” What needs to change?
 
 **Pilihan jawaban:**
-- wortel
-- nasi
-- susu
-- ikan
+- Record milk as No.
+- Record both drinks as No.
+- Record coffee as No.
+- Replace Mila’s name.
 
-**Kunci Jawaban:** susu
+**Kunci Jawaban:** Record coffee as No.
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** Catatan tentang susu sudah sesuai. Coffee harus dicatat No karena Mila tidak menyukainya.
 
 ---
 
 ## Soal 19 — K03-ENG-B02-M01-019
 
-**Pertanyaan:** What does "bread" mean in Indonesian?
+**Pertanyaan:** Choose the best question for a survey column called “Orange juice”.
 
 **Pilihan jawaban:**
-- ikan
-- roti
-- telur
-- apel
+- Do you like oranges?
+- I like orange juice.
+- Who drinks orange juice at lunch?
+- Do you like orange juice?
 
-**Kunci Jawaban:** roti
+**Kunci Jawaban:** Do you like orange juice?
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** Do you like menanyakan kesukaan, dan orange juice menyebut minuman yang tercantum pada judul kolom.
 
 ---
 
 ## Soal 20 — K03-ENG-B02-M01-020
 
-**Pertanyaan:** What does "chicken" mean in Indonesian?
+**Pertanyaan:** Rara answers “Yes, I do” to “Do you like satay?” What should you write in her report?
 
 **Pilihan jawaban:**
-- ayam
-- sup
-- jeruk
-- telur
+- Rara doesn’t like satay.
+- Rara likes satay.
+- Rara likes rice.
+- Rara doesn’t like rice.
 
-**Kunci Jawaban:** ayam
+**Kunci Jawaban:** Rara likes satay.
 
-**Pembahasan:** "chicken" berarti "ayam".
+**Pembahasan:** Yes, I do memberi jawaban positif. Laporan tentang Rara menggunakan likes satay.
 
 ---
 
 ## Soal 21 — K03-ENG-B02-M01-021
 
-**Pertanyaan:** Which English word matches "nasi" in the lesson?
+**Pertanyaan:** Putri’s card says “Pizza — No; Bread — Yes.” Choose a sentence about Putri that matches both marks.
 
 **Pilihan jawaban:**
-- carrot
-- milk
-- soup
-- rice
+- Putri likes pizza. She doesn’t like bread.
+- Putri likes pizza and bread.
+- Putri doesn’t like pizza. She likes bread.
+- Putri doesn’t like pizza or bread.
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** Putri doesn’t like pizza. She likes bread.
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** No berlaku untuk pizza, sementara Yes berlaku untuk roti.
 
 ---
 
 ## Soal 22 — K03-ENG-B02-M01-022
 
-**Pertanyaan:** Which English word matches "ikan" in the lesson?
+**Pertanyaan:** The notes say “Ardi — tea: No; Lia — tea: No; Joko — tea: Yes.” Which two children don’t like tea?
 
 **Pilihan jawaban:**
-- bread
-- carrot
-- fish
-- apple
+- Ardi and Joko
+- Lia and Joko
+- All three children
+- Ardi and Lia
 
-**Kunci Jawaban:** fish
+**Kunci Jawaban:** Ardi and Lia
 
-**Pembahasan:** "fish" berarti "ikan".
+**Pembahasan:** Ardi dan Lia sama-sama bertanda No. Joko bertanda Yes sehingga tidak masuk pasangan.
 
 ---
 
 ## Soal 23 — K03-ENG-B02-M01-023
 
-**Pertanyaan:** Which English word matches "telur" in the lesson?
+**Pertanyaan:** Tara says, “I like tea, not coffee.” Which pair of marks matches what she says?
 
 **Pilihan jawaban:**
-- apple
-- eggs
-- orange
-- chicken
+- Tea: No. Coffee: Yes.
+- Tea: Yes. Coffee: No.
+- Tea: Yes. Coffee: Yes.
+- Tea: No. Coffee: No.
 
-**Kunci Jawaban:** eggs
+**Kunci Jawaban:** Tea: Yes. Coffee: No.
 
-**Pembahasan:** "eggs" berarti "telur".
+**Pembahasan:** Tea disebut sebagai yang disukai. Not coffee menolak kopi.
 
 ---
 
 ## Soal 24 — K03-ENG-B02-M01-024
 
-**Pertanyaan:** Which English word matches "sup" in the lesson?
+**Pertanyaan:** You asked Niko about bread, and he said “Yes.” You have yet to ask about milk. Which report fits the information?
 
 **Pilihan jawaban:**
-- soup
-- milk
-- rice
-- orange
+- Niko likes bread. We don’t know about milk.
+- Niko likes bread and milk.
+- Niko likes bread but doesn’t like milk.
+- Niko likes milk but doesn’t like bread.
 
-**Kunci Jawaban:** soup
+**Kunci Jawaban:** Niko likes bread. We don’t know about milk.
 
-**Pembahasan:** "soup" berarti "sup".
+**Pembahasan:** Hanya roti yang sudah ditanyakan. Sel kosong untuk susu berbeda dari jawaban No.
 
 ---
 
 ## Soal 25 — K03-ENG-B02-M01-025
 
-**Pertanyaan:** Which English word matches "wortel" in the lesson?
+**Pertanyaan:** Sinta says, “I don’t like ice cream, but I like bread.” Which word shows the change from dislike to like?
 
 **Pilihan jawaban:**
-- bread
-- fish
-- milk
-- carrot
+- and
+- she
+- too
+- but
 
-**Kunci Jawaban:** carrot
+**Kunci Jawaban:** but
 
-**Pembahasan:** "carrot" berarti "wortel".
+**Pembahasan:** But menghubungkan dua gagasan yang berbeda arah, yaitu tidak suka es krim dan suka roti.
 
 ---
 
 ## Soal 26 — K03-ENG-B02-M01-026
 
-**Pertanyaan:** Which English word matches "apel" in the lesson?
+**Pertanyaan:** Riko’s card says “Noodles — Yes; Fried chicken — No.” Which question can you answer with this card?
 
 **Pilihan jawaban:**
-- eggs
-- bread
-- apple
-- chicken
+- Does Riko like noodles?
+- Does Riko like bread?
+- Does Riko like milk?
+- Does Riko like rice?
 
-**Kunci Jawaban:** apple
+**Kunci Jawaban:** Does Riko like noodles?
 
-**Pembahasan:** "apple" berarti "apel".
+**Pembahasan:** Hanya mi yang tercantum di antara empat benda dalam pilihan. Tanda Yes menjawab pertanyaan tentang mi.
 
 ---
 
 ## Soal 27 — K03-ENG-B02-M01-027
 
-**Pertanyaan:** Which English word matches "jeruk" in the lesson?
+**Pertanyaan:** “Does Lani like Papeda?” The note says “Papeda — No.” Which short answer fits?
 
 **Pilihan jawaban:**
-- chicken
-- orange
-- rice
-- soup
+- Yes, she does.
+- No, I don’t.
+- No, she doesn’t.
+- Yes, I do.
 
-**Kunci Jawaban:** orange
+**Kunci Jawaban:** No, she doesn’t.
 
-**Pembahasan:** "orange" berarti "jeruk".
+**Pembahasan:** Pertanyaan tentang Lani dijawab dengan she. No pada catatan membuat jawabannya negatif.
 
 ---
 
 ## Soal 28 — K03-ENG-B02-M01-028
 
-**Pertanyaan:** Which English word matches "susu" in the lesson?
+**Pertanyaan:** “Does Beni like pizza?” His note says “Pizza — Yes.” Which answer fits?
 
 **Pilihan jawaban:**
-- milk
-- fish
-- carrot
-- rice
+- No, he doesn’t.
+- Yes, he does.
+- Yes, I do.
+- No, I don’t.
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** Yes, he does.
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** Karena orang yang dibahas Beni, jawabannya memakai he. Tanda Yes menentukan respons positif.
 
 ---
 
 ## Soal 29 — K03-ENG-B02-M01-029
 
-**Pertanyaan:** Which English word matches "roti" in the lesson?
+**Pertanyaan:** You want to ask Rani directly about bakso. Which sentence fits?
 
 **Pilihan jawaban:**
-- eggs
-- apple
-- fish
-- bread
+- Does she like bakso?
+- Do you like bakso?
+- Rani likes bakso.
+- Does he like bakso?
 
-**Kunci Jawaban:** bread
+**Kunci Jawaban:** Do you like bakso?
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** Saat bertanya langsung kepada Rani, pakai you. She dan he dipakai saat membicarakan orang lain.
 
 ---
 
 ## Soal 30 — K03-ENG-B02-M01-030
 
-**Pertanyaan:** Which English word matches "ayam" in the lesson?
+**Pertanyaan:** Your friend says, “My brother likes satay.” Who likes satay?
 
 **Pilihan jawaban:**
-- orange
-- eggs
-- chicken
-- soup
+- Your friend
+- You
+- Both you and your friend
+- Your friend’s brother
 
-**Kunci Jawaban:** chicken
+**Kunci Jawaban:** Your friend’s brother
 
-**Pembahasan:** "chicken" berarti "ayam".
+**Pembahasan:** Dalam kalimat tersebut my brother adalah subjek. Tidak ada informasi kesukaan orang lain.
 
 ---
 
 ## Soal 31 — K03-ENG-B02-M01-031
 
-**Pertanyaan:** What is the English word for "nasi"?
+**Pertanyaan:** Beni says, “I don’t like noodles.” Ina also says, “I don’t like noodles.” Which sentence combines the two answers?
 
 **Pilihan jawaban:**
-- soup
-- rice
-- carrot
-- milk
+- Beni and Ina doesn’t like noodles.
+- Beni and Ina like noodles.
+- Beni and Ina don’t like noodles.
+- Beni and Ina don’t like rice.
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** Beni and Ina don’t like noodles.
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** Kedua anak memiliki jawaban negatif yang sama. Gabungan dua nama memakai don’t like.
 
 ---
 
 ## Soal 32 — K03-ENG-B02-M01-032
 
-**Pertanyaan:** What is the English word for "ikan"?
+**Pertanyaan:** A label says “orange juice”. Which drink should be on that label?
 
 **Pilihan jawaban:**
-- fish
-- apple
-- bread
-- carrot
+- jus jeruk
+- teh jeruk
+- susu
+- air putih
 
-**Kunci Jawaban:** fish
+**Kunci Jawaban:** jus jeruk
 
-**Pembahasan:** "fish" berarti "ikan".
+**Pembahasan:** Juice berarti jus. Orange menerangkan buah yang digunakan, yaitu jeruk.
 
 ---
 
 ## Soal 33 — K03-ENG-B02-M01-033
 
-**Pertanyaan:** What is the English word for "telur"?
+**Pertanyaan:** Which report uses the capital letter and punctuation correctly?
 
 **Pilihan jawaban:**
-- orange
-- chicken
-- apple
-- eggs
+- mila likes rice.
+- Mila likes rice.
+- Mila likes rice?
+- mila likes rice?
 
-**Kunci Jawaban:** eggs
+**Kunci Jawaban:** Mila likes rice.
 
-**Pembahasan:** "eggs" berarti "telur".
+**Pembahasan:** Nama Mila diawali huruf kapital. Kalimat yang melaporkan kesukaan diakhiri titik.
 
 ---
 
 ## Soal 34 — K03-ENG-B02-M01-034
 
-**Pertanyaan:** What is the English word for "sup"?
+**Pertanyaan:** You are making a card for a classmate. The classmate said “I like pizza.” Which mark belongs beside the pizza picture?
 
 **Pilihan jawaban:**
-- rice
-- orange
-- soup
-- milk
+- A cross for No
+- A question mark for unknown
+- A tick for Yes
+- Two marks for both Yes and No
 
-**Kunci Jawaban:** soup
+**Kunci Jawaban:** A tick for Yes
 
-**Pembahasan:** "soup" berarti "sup".
+**Pembahasan:** I like menunjukkan jawaban positif, yang diwakili tanda centang pada kartu.
 
 ---
 
 ## Soal 35 — K03-ENG-B02-M01-035
 
-**Pertanyaan:** What is the English word for "wortel"?
+**Pertanyaan:** A note says “Mira doesn’t like tea. Beni likes it.” Which survey summary is right?
 
 **Pilihan jawaban:**
-- milk
-- carrot
-- bread
-- fish
+- Mira: Yes. Beni: No.
+- Mira: No. Beni: No.
+- Mira: Yes. Beni: Yes.
+- Mira: No. Beni: Yes.
 
-**Kunci Jawaban:** carrot
+**Kunci Jawaban:** Mira: No. Beni: Yes.
 
-**Pembahasan:** "carrot" berarti "wortel".
+**Pembahasan:** It masih mengacu pada teh. Mira memakai bentuk negatif dan Beni bentuk positif.
 
 ---

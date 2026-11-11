@@ -6,12 +6,12 @@
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
-| Bahasa Inggris | Unit 1: 50 soal, dua modul, dan 12 SVG direvisi | 50/500 diperiksa; lima naskah TTS diuji melalui simulasi API | 450 soal/9 unit; uji suara dan WebView di tahap aplikasi |
+| Bahasa Inggris | Unit 1–2: 100 soal, empat modul, dan 24 SVG direvisi | 100/500 diperiksa; sepuluh naskah TTS diuji melalui simulasi API | 400 soal/8 unit; uji suara dan WebView di tahap aplikasi |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **910/1.945**. Jumlah diubah: **889**.
-Sisa audit isi: **1.035 soal pada 22 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **960/1.945**. Jumlah diubah: **939**.
+Sisa audit isi: **985 soal pada 21 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -269,7 +269,7 @@ belum dipenuhi dan tidak diklaim sudah dilakukan. Tidak ada JSON/rilis aplikasi.
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS, sepuluh bab PAI, dan Bahasa Inggris Unit 1. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
+Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS, sepuluh bab PAI, dan Bahasa Inggris Unit 1–2. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
 Dua belas SVG Bab 1 dirender pada Chromium dan diperiksa batas teksnya;
@@ -446,3 +446,24 @@ lokal masih teramati. Suara dan pelafalan di browser HP/WebView, termasuk
 penyembunyian transkrip di layar kuis, menunggu pengujian tahap aplikasi.
 Kumulatif audit isi: 910/1.945; sisa 1.035 soal pada 22 bab/unit. Titik
 lanjut: Bahasa Inggris Unit 2.
+
+## Bahasa Inggris Unit 2 — I Don’t Like Rice
+
+Seluruh 50 soal dan dua modul diperiksa dan ditulis ulang sesuai *My Next
+Words Grade 3*, Kemdikbudristek 2022, buku siswa hlm. 13–22 dan tujuan Unit 2
+di panduan guru. Semua ID tetap. Fokus utama berubah dari terjemahan
+berulang menjadi menyatakan dan melaporkan kesukaan. Soal menguji
+`I like/don’t like`, `he/she likes/doesn’t like`, bentuk untuk dua orang,
+serta hubungan pertanyaan dan jawaban survei. Data belum dijawab dipisahkan
+dari jawaban No. Contoh menu memuat hidangan lokal dan internasional yang
+relevan dengan unit.
+
+Sepuluh gambar soal dan dua ilustrasi modul menggunakan kartu pilihan,
+data survei, dan balon ucapan. Semua SVG lolos XML serta tinjauan visual
+pada 390 px. Lima naskah listening diperiksa terhadap transkrip, kunci,
+pembahasan dan jalur simulasi Web Speech API. Pelafalan, pemutaran suara dan
+alur di browser HP/WebView tetap memerlukan pengujian tahap aplikasi.
+
+Validator kanonis: 1.945 soal, 0 kesalahan struktur. Kumulatif audit isi
+960/1.945, sisa 985 soal pada 21 bab/unit. Titik lanjut: Bahasa Inggris
+Unit 3.

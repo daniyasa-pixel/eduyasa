@@ -1,103 +1,103 @@
 # Unit 2 — 5 Soal Listening
 
-**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
+**Catatan produksi:** Gunakan suara bahasa Inggris melalui Web Speech API. Guru dapat membacakan naskah saat latihan luring. Simpan naskah di luar layar soal.
 
 ## Soal 46 — K03-ENG-B02-M01-046
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"rice","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Niko likes pizza and spaghetti. He doesn't like rice.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** rice
+**Transkrip produksi (disembunyikan dari siswa):** Niko likes pizza and spaghetti. He doesn't like rice.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen. Which food does Niko not like?
 
 **Pilihan jawaban:**
-- eggs
-- apple
+- pizza
+- spaghetti
+- bread
 - rice
-- chicken
 
 **Kunci Jawaban:** rice
 
-**Pembahasan:** Audio menyebutkan "rice" (nasi).
+**Pembahasan:** Doesn’t like diikuti rice. Pizza dan spaghetti muncul pada pernyataan positif.
 
 ---
 
 ## Soal 47 — K03-ENG-B02-M01-047
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"fish","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Maya likes coffee. Lina doesn't like coffee.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** fish
+**Transkrip produksi (disembunyikan dari siswa):** Maya likes coffee. Lina doesn't like coffee.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen. Who likes coffee?
 
 **Pilihan jawaban:**
-- orange
-- fish
-- rice
-- soup
+- Lina
+- Maya
+- Both Maya and Lina
+- Neither Maya nor Lina
 
-**Kunci Jawaban:** fish
+**Kunci Jawaban:** Maya
 
-**Pembahasan:** Audio menyebutkan "fish" (ikan).
+**Pembahasan:** Maya disebut dengan likes, sedangkan Lina disebut dengan doesn’t like.
 
 ---
 
 ## Soal 48 — K03-ENG-B02-M01-048
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"eggs","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"I'm Doni. I don't like milk. I like tea.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** eggs
+**Transkrip produksi (disembunyikan dari siswa):** I'm Doni. I don't like milk. I like tea.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen. Which marks match Doni’s answer?
 
 **Pilihan jawaban:**
-- eggs
-- fish
-- carrot
-- milk
+- Milk: No. Tea: Yes.
+- Milk: Yes. Tea: No.
+- Milk: Yes. Tea: Yes.
+- Milk: No. Tea: No.
 
-**Kunci Jawaban:** eggs
+**Kunci Jawaban:** Milk: No. Tea: Yes.
 
-**Pembahasan:** Audio menyebutkan "eggs" (telur).
+**Pembahasan:** Doni memakai don’t like untuk susu dan like untuk teh.
 
 ---
 
 ## Soal 49 — K03-ENG-B02-M01-049
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"soup","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Rani and Rudi like bread. Rani doesn't like ice cream.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** soup
+**Transkrip produksi (disembunyikan dari siswa):** Rani and Rudi like bread. Rani doesn't like ice cream.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen. What do the two children agree on?
 
 **Pilihan jawaban:**
-- eggs
-- apple
-- bread
-- soup
+- They both dislike bread.
+- They both like ice cream.
+- They both dislike rice.
+- They both like bread.
 
-**Kunci Jawaban:** soup
+**Kunci Jawaban:** They both like bread.
 
-**Pembahasan:** Audio menyebutkan "soup" (sup).
+**Pembahasan:** Kedua nama dihubungkan dengan and dan diikuti like bread. Kesukaan tentang makanan lain tidak disebut.
 
 ---
 
 ## Soal 50 — K03-ENG-B02-M01-050
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"carrot","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Dina asks, do you like orange juice? Rina answers, no, I don't.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** carrot
+**Transkrip produksi (disembunyikan dari siswa):** Dina asks, do you like orange juice? Rina answers, no, I don't.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen to the question and answer. What can you tell a friend about Rina?
 
 **Pilihan jawaban:**
-- orange
-- chicken
-- carrot
-- soup
+- Rina likes orange juice.
+- Rina doesn’t like tea.
+- Rina doesn’t like orange juice.
+- Rina likes milk.
 
-**Kunci Jawaban:** carrot
+**Kunci Jawaban:** Rina doesn’t like orange juice.
 
-**Pembahasan:** Audio menyebutkan "carrot" (wortel).
+**Pembahasan:** Pertanyaan menyebut orange juice dan Rina menjawab No. Saat melaporkan jawabannya, gunakan Rina doesn’t like.
 
 ---
