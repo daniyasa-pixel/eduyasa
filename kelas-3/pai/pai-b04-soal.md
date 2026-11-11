@@ -1,503 +1,483 @@
 # PAI Kelas 3 — Bab 4: Aku Bangga Mampu Berpuasa
 
-**STATUS DRAF:** 30 soal pilihan ganda. Ada pengulangan kompetensi antarpertanyaan; wajib revisi variasi dan audit agama sebelum rilis.
+**STATUS AUDIT ISI:** 30 soal diperiksa. Sumber Markdown untuk tahap revisi EDUYASA.
 
 ## Soal 1 — K03-PAI-B04-M01-001
 
-**Pertanyaan:** Puasa Ramadan bagi muslim yang memenuhi syarat hukumnya ....
+**Pertanyaan:** Dalam Islam, untuk siapa puasa Ramadan diwajibkan?
 
 **Pilihan jawaban:**
-- mubah semata
-- wajib
-- haram
-- makruh
+- Semua anak yang sudah masuk sekolah
+- Hanya orang yang menjadi imam
+- Muslim yang telah memenuhi syarat
+- Hanya orang yang mampu bersedekah
 
-**Kunci Jawaban:** wajib
+**Kunci Jawaban:** Muslim yang telah memenuhi syarat
 
-**Pembahasan:** Puasa Ramadan bagi muslim yang memenuhi syarat hukumnya wajib.
+**Pembahasan:** Kewajiban puasa Ramadan berlaku bagi muslim yang memenuhi syarat. Anak dapat belajar sesuai kemampuannya.
 
 ---
 
 ## Soal 2 — K03-PAI-B04-M01-002
 
-**Pertanyaan:** Puasa Ramadan dimulai dari ....
+**Pertanyaan:** Bagan waktu menunjukkan fajar, tengah hari, dan matahari terbenam. Bagian mana yang menandai waktu menahan diri ketika berpuasa?
 
 **Pilihan jawaban:**
-- siang hingga sore saja
-- pagi hingga tengah hari
-- terbit fajar hingga terbenam matahari
-- matahari terbit hingga tengah malam
+- Dari fajar hingga matahari terbenam
+- Dari matahari terbit hingga tengah hari
+- Dari tengah hari hingga matahari terbenam
+- Dari matahari terbenam hingga tengah malam
 
-**Kunci Jawaban:** terbit fajar hingga terbenam matahari
+**Kunci Jawaban:** Dari fajar hingga matahari terbenam
 
-**Pembahasan:** Puasa Ramadan dimulai dari terbit fajar hingga terbenam matahari.
+**Pembahasan:** Puasa dimulai sejak fajar dan berakhir saat matahari terbenam.
 
 ---
 
 ## Soal 3 — K03-PAI-B04-M01-003
 
-**Pertanyaan:** Salah satu hal yang membatalkan puasa adalah ....
+**Pertanyaan:** Ketika berpuasa, Arif sengaja minum sebelum waktu Magrib. Bagaimana keadaan puasanya?
 
 **Pilihan jawaban:**
-- tidur siang
-- belajar
-- membaca buku
-- makan dengan sengaja
+- Tetap sah selama airnya sedikit
+- Tetap sah jika belum makan nasi
+- Batal hanya jika orang lain melihat
+- Batal karena sengaja minum sebelum waktunya
 
-**Kunci Jawaban:** makan dengan sengaja
+**Kunci Jawaban:** Batal karena sengaja minum sebelum waktunya
 
-**Pembahasan:** Salah satu hal yang membatalkan puasa adalah makan dengan sengaja.
+**Pembahasan:** Sengaja minum dalam waktu puasa membatalkan puasa.
 
 ---
 
 ## Soal 4 — K03-PAI-B04-M01-004
 
-**Pertanyaan:** Sahur dilakukan ....
+**Pertanyaan:** Keluarga Nisa ingin makan sahur. Kapan waktu yang tepat?
 
 **Pilihan jawaban:**
-- sebelum terbit fajar
-- setelah magrib
-- setelah salat isya
-- ketika matahari terik
+- Setelah salat Subuh
+- Sebelum fajar
+- Ketika matahari terbit
+- Ketika azan Magrib
 
-**Kunci Jawaban:** sebelum terbit fajar
+**Kunci Jawaban:** Sebelum fajar
 
-**Pembahasan:** Sahur dilakukan sebelum terbit fajar.
+**Pembahasan:** Sahur adalah makan sebelum memulai puasa. Saat fajar tiba, waktu puasa sudah mulai.
 
 ---
 
 ## Soal 5 — K03-PAI-B04-M01-005
 
-**Pertanyaan:** Berbuka puasa dilakukan ketika ....
+**Pertanyaan:** Raka melihat jam dinding berhenti, sementara ia ingin tahu apakah sudah boleh berbuka. Apa yang perlu ia periksa?
 
 **Pilihan jawaban:**
-- sebelum subuh
-- matahari terbenam
-- matahari terbit
-- tengah hari
+- Jadwal Magrib yang berlaku di daerahnya atau tanda masuk waktunya
+- Jam pulang sekolah hari ini
+- Perkiraan teman yang tinggal di kota lain
+- Waktu ketika keluarga selesai memasak
 
-**Kunci Jawaban:** matahari terbenam
+**Kunci Jawaban:** Jadwal Magrib yang berlaku di daerahnya atau tanda masuk waktunya
 
-**Pembahasan:** Berbuka puasa dilakukan ketika matahari terbenam.
+**Pembahasan:** Waktu berbuka mengikuti masuknya Magrib di tempat seseorang berpuasa.
 
 ---
 
 ## Soal 6 — K03-PAI-B04-M01-006
 
-**Pertanyaan:** Tujuan utama puasa adalah melatih ....
+**Pertanyaan:** Apa tujuan puasa yang disebut dalam QS. Al-Baqarah ayat 183?
 
 **Pilihan jawaban:**
-- kemalasan
-- permusuhan
-- ketakwaan kepada Allah
-- kesombongan
+- Agar orang beriman paling lama menahan lapar
+- Agar orang beriman bertakwa
+- Agar semua orang makan lebih banyak pada malam hari
+- Agar orang lain menilai ibadah kita
 
-**Kunci Jawaban:** ketakwaan kepada Allah
+**Kunci Jawaban:** Agar orang beriman bertakwa
 
-**Pembahasan:** Tujuan utama puasa adalah melatih ketakwaan kepada Allah.
+**Pembahasan:** Ayat itu menghubungkan kewajiban puasa dengan takwa, yaitu menjalankan perintah Allah dan menjauhi larangan-Nya.
 
 ---
 
 ## Soal 7 — K03-PAI-B04-M01-007
 
-**Pertanyaan:** Saat berpuasa, kita sebaiknya ....
+**Pertanyaan:** Hasil gambar Dita rusak terkena air. Saat berpuasa, apa cara yang menunjukkan pengendalian diri?
 
 **Pilihan jawaban:**
-- bertengkar
-- berbohong
-- menghina
-- menjaga ucapan dan perilaku
+- Membalas dengan merusak gambar teman
+- Berteriak sampai teman mengaku bersalah
+- Menyimpan rasa kesal lalu menyebarkan ejekan
+- Menenangkan diri lalu membicarakan apa yang terjadi
 
-**Kunci Jawaban:** menjaga ucapan dan perilaku
+**Kunci Jawaban:** Menenangkan diri lalu membicarakan apa yang terjadi
 
-**Pembahasan:** Saat berpuasa, kita sebaiknya menjaga ucapan dan perilaku.
+**Pembahasan:** Mengendalikan diri berarti memilih tindakan baik saat marah.
 
 ---
 
 ## Soal 8 — K03-PAI-B04-M01-008
 
-**Pertanyaan:** Orang yang sakit dan tidak mampu berpuasa mendapat ....
+**Pertanyaan:** Dari contoh berikut, manakah yang menunjukkan adanya keringanan saat berpuasa?
 
 **Pilihan jawaban:**
-- keringanan sesuai ketentuan agama
-- larangan berdoa
-- kewajiban bermain
-- hukuman dari teman
+- Orang yang hanya ingin cepat makan boleh memilih waktu buka sendiri
+- Orang yang sibuk bermain bebas meninggalkan puasa
+- Orang yang sakit sehingga tidak mampu berpuasa dapat berbuka dan belajar ketentuan penggantinya
+- Orang yang lapar selalu dapat mengakhiri puasa kapan saja
 
-**Kunci Jawaban:** keringanan sesuai ketentuan agama
+**Kunci Jawaban:** Orang yang sakit sehingga tidak mampu berpuasa dapat berbuka dan belajar ketentuan penggantinya
 
-**Pembahasan:** Orang yang sakit dan tidak mampu berpuasa mendapat keringanan sesuai ketentuan agama.
+**Pembahasan:** Al-Qur’an memberi keringanan bagi orang sakit. Ketentuan pengganti bergantung pada keadaan.
 
 ---
 
 ## Soal 9 — K03-PAI-B04-M01-009
 
-**Pertanyaan:** Menahan lapar saat puasa dapat menumbuhkan ....
+**Pertanyaan:** Setelah merasakan lapar saat berpuasa, Salma ingin belajar peduli. Apa tindakannya?
 
 **Pilihan jawaban:**
-- sifat iri
-- empati kepada orang yang kekurangan
-- rasa sombong
-- kebiasaan boros
+- Mengajak keluarga berbagi makanan sesuai kemampuan
+- Meminta teman menceritakan siapa saja yang kekurangan makanan
+- Membagikan makanan hanya jika mendapat pujian
+- Membuat perlombaan untuk menentukan siapa yang paling lapar
 
-**Kunci Jawaban:** empati kepada orang yang kekurangan
+**Kunci Jawaban:** Mengajak keluarga berbagi makanan sesuai kemampuan
 
-**Pembahasan:** Menahan lapar saat puasa dapat menumbuhkan empati kepada orang yang kekurangan.
+**Pembahasan:** Pengalaman lapar dapat menumbuhkan empati dan mendorong kita berbagi.
 
 ---
 
 ## Soal 10 — K03-PAI-B04-M01-010
 
-**Pertanyaan:** Membantu menyiapkan makanan berbuka adalah contoh ....
+**Pertanyaan:** Keluarga menyiapkan makanan berbuka. Apa bentuk bantuan yang bisa dilakukan anak?
 
 **Pilihan jawaban:**
-- membuang makanan
-- menghindari keluarga
-- kerja sama dan kepedulian
-- pamer kekayaan
+- Mengangkat panci panas sendirian
+- Menata gelas di meja setelah meminta arahan
+- Mencicipi masakan di tengah waktu puasa
+- Meninggalkan alat makan berserakan
 
-**Kunci Jawaban:** kerja sama dan kepedulian
+**Kunci Jawaban:** Menata gelas di meja setelah meminta arahan
 
-**Pembahasan:** Membantu menyiapkan makanan berbuka adalah contoh kerja sama dan kepedulian.
+**Pembahasan:** Menata gelas membantu keluarga sesuai kemampuan.
 
 ---
 
 ## Soal 11 — K03-PAI-B04-M01-011
 
-**Pertanyaan:** Pilih jawaban yang tepat: puasa Ramadan bagi muslim yang memenuhi syarat hukumnya ....
+**Pertanyaan:** Manakah urutan kegiatan yang sesuai waktu puasa?
 
 **Pilihan jawaban:**
-- haram
-- makruh
-- mubah semata
-- wajib
+- Berbuka sebelum fajar, berpuasa, lalu sahur saat Magrib
+- Berpuasa sejak tengah hari, sahur saat sore, lalu berbuka saat Magrib
+- Sahur sebelum fajar, berpuasa pada siang hari, lalu berbuka saat Magrib
+- Sahur saat fajar sudah lewat, lalu berbuka sebelum Magrib
 
-**Kunci Jawaban:** wajib
+**Kunci Jawaban:** Sahur sebelum fajar, berpuasa pada siang hari, lalu berbuka saat Magrib
 
-**Pembahasan:** Puasa Ramadan bagi muslim yang memenuhi syarat hukumnya wajib.
+**Pembahasan:** Urutan mengikuti batas fajar dan terbenamnya matahari.
 
 ---
 
 ## Soal 12 — K03-PAI-B04-M01-012
 
-**Pertanyaan:** Pilih jawaban yang tepat: puasa Ramadan dimulai dari ....
+**Pertanyaan:** Apa yang dimaksud dengan niat berpuasa?
 
 **Pilihan jawaban:**
-- terbit fajar hingga terbenam matahari
-- matahari terbit hingga tengah malam
-- siang hingga sore saja
-- pagi hingga tengah hari
+- Keinginan agar teman tahu kita berpuasa
+- Ucapan yang hanya dibaca setelah selesai berbuka
+- Janji untuk tidak makan sampai tengah hari saja
+- Kesengajaan dalam hati untuk berpuasa karena Allah
 
-**Kunci Jawaban:** terbit fajar hingga terbenam matahari
+**Kunci Jawaban:** Kesengajaan dalam hati untuk berpuasa karena Allah
 
-**Pembahasan:** Puasa Ramadan dimulai dari terbit fajar hingga terbenam matahari.
+**Pembahasan:** Niat adalah maksud ibadah dalam hati. Lafal yang dipelajari dapat membantu mengingat maksud itu.
 
 ---
 
 ## Soal 13 — K03-PAI-B04-M01-013
 
-**Pertanyaan:** Pilih jawaban yang tepat: salah satu hal yang membatalkan puasa adalah ....
+**Pertanyaan:** Kiki hendak menjalankan puasa Ramadan esok hari. Kapan ia dapat menyiapkan niat dalam hati?
 
 **Pilihan jawaban:**
-- membaca buku
-- makan dengan sengaja
-- tidur siang
-- belajar
+- Setelah waktu berbuka esok hari
+- Pada malam hari sebelum fajar
+- Ketika melihat matahari terbit esok hari
+- Saat tengah hari esok setelah merasa lapar
 
-**Kunci Jawaban:** makan dengan sengaja
+**Kunci Jawaban:** Pada malam hari sebelum fajar
 
-**Pembahasan:** Salah satu hal yang membatalkan puasa adalah makan dengan sengaja.
+**Pembahasan:** Untuk puasa Ramadan, siapkan niat pada malam hari sebelum fajar.
 
 ---
 
 ## Soal 14 — K03-PAI-B04-M01-014
 
-**Pertanyaan:** Pilih jawaban yang tepat: sahur dilakukan ....
+**Pertanyaan:** Pada malam hari Fadil sudah berniat puasa. Ia tertidur hingga tidak sempat sahur. Apa arti keadaan ini?
 
 **Pilihan jawaban:**
-- setelah salat isya
-- ketika matahari terik
-- sebelum terbit fajar
-- setelah magrib
+- Ia tetap bisa berpuasa karena sahur dianjurkan dan bukan syarat sah
+- Ia wajib makan setelah fajar agar puasanya sah
+- Ia baru boleh mulai berpuasa setelah makan siang
+- Ia harus menunggu sampai malam berikutnya untuk mulai
 
-**Kunci Jawaban:** sebelum terbit fajar
+**Kunci Jawaban:** Ia tetap bisa berpuasa karena sahur dianjurkan dan bukan syarat sah
 
-**Pembahasan:** Sahur dilakukan sebelum terbit fajar.
+**Pembahasan:** Sahur dianjurkan. Terlewat sahur sendiri tidak membatalkan niat puasa.
 
 ---
 
 ## Soal 15 — K03-PAI-B04-M01-015
 
-**Pertanyaan:** Pilih jawaban yang tepat: berbuka puasa dilakukan ketika ....
+**Pertanyaan:** Alya lupa sedang berpuasa dan minum seteguk air. Apa yang ia lakukan begitu ingat?
 
 **Pilihan jawaban:**
-- matahari terbit
-- tengah hari
-- sebelum subuh
-- matahari terbenam
+- Menghabiskan gelas karena sudah terlanjur
+- Sengaja makan karena menganggap puasanya batal
+- Mengulang niat lalu terus minum sampai siang
+- Berhenti minum dan melanjutkan puasanya
 
-**Kunci Jawaban:** matahari terbenam
+**Kunci Jawaban:** Berhenti minum dan melanjutkan puasanya
 
-**Pembahasan:** Berbuka puasa dilakukan ketika matahari terbenam.
+**Pembahasan:** Hadis mengajarkan untuk melanjutkan puasa jika makan atau minum karena lupa. Berhenti begitu ingat.
 
 ---
 
 ## Soal 16 — K03-PAI-B04-M01-016
 
-**Pertanyaan:** Pilih jawaban yang tepat: tujuan utama puasa adalah melatih ....
+**Pertanyaan:** Roni berkata, “Sahur dan berbuka sama-sama makan, jadi waktunya boleh ditukar.” Bagaimana memperbaikinya?
 
 **Pilihan jawaban:**
-- ketakwaan kepada Allah
-- kesombongan
-- kemalasan
-- permusuhan
+- Sahur setelah fajar, berbuka sebelum matahari terbenam
+- Sahur saat Magrib, berbuka saat Subuh
+- Sahur sebelum fajar, berbuka setelah waktu puasa berakhir
+- Sahur dan berbuka keduanya dilakukan pada tengah hari
 
-**Kunci Jawaban:** ketakwaan kepada Allah
+**Kunci Jawaban:** Sahur sebelum fajar, berbuka setelah waktu puasa berakhir
 
-**Pembahasan:** Tujuan utama puasa adalah melatih ketakwaan kepada Allah.
+**Pembahasan:** Sahur mendahului waktu puasa, sedangkan berbuka mengakhirinya.
 
 ---
 
 ## Soal 17 — K03-PAI-B04-M01-017
 
-**Pertanyaan:** Pilih jawaban yang tepat: saat berpuasa, kita sebaiknya ....
+**Pertanyaan:** Nana membuat bagan untuk pelajaran. Di kotak mana ia menaruh “makan atau minum dengan sengaja saat berpuasa”?
 
 **Pilihan jawaban:**
-- menghina
-- menjaga ucapan dan perilaku
-- bertengkar
-- berbohong
+- Keringanan puasa karena sakit
+- Hal yang membatalkan puasa
+- Anjuran sebelum berpuasa
+- Hikmah berpuasa
 
-**Kunci Jawaban:** menjaga ucapan dan perilaku
+**Kunci Jawaban:** Hal yang membatalkan puasa
 
-**Pembahasan:** Saat berpuasa, kita sebaiknya menjaga ucapan dan perilaku.
+**Pembahasan:** Makan atau minum dengan sengaja selama waktu puasa termasuk pembatal puasa.
 
 ---
 
 ## Soal 18 — K03-PAI-B04-M01-018
 
-**Pertanyaan:** Pilih jawaban yang tepat: orang yang sakit dan tidak mampu berpuasa mendapat ....
+**Pertanyaan:** Matahari masih terlihat dan belum masuk Magrib. Piring berbuka sudah disiapkan. Apa yang dilakukan Siti?
 
 **Pilihan jawaban:**
-- kewajiban bermain
-- hukuman dari teman
-- keringanan sesuai ketentuan agama
-- larangan berdoa
+- Mulai makan karena makanan sudah siap
+- Mulai minum jika semua teman sudah minum
+- Mengakhiri puasa karena sudah mendekati Magrib
+- Menunggu waktu berbuka sambil membantu merapikan meja
 
-**Kunci Jawaban:** keringanan sesuai ketentuan agama
+**Kunci Jawaban:** Menunggu waktu berbuka sambil membantu merapikan meja
 
-**Pembahasan:** Orang yang sakit dan tidak mampu berpuasa mendapat keringanan sesuai ketentuan agama.
+**Pembahasan:** Siapnya makanan tidak mengubah batas waktu puasa.
 
 ---
 
 ## Soal 19 — K03-PAI-B04-M01-019
 
-**Pertanyaan:** Pilih jawaban yang tepat: menahan lapar saat puasa dapat menumbuhkan ....
+**Pertanyaan:** Saat berbuka, apa cara yang sesuai dengan latihan ibadah di bab ini?
 
 **Pilihan jawaban:**
-- rasa sombong
-- kebiasaan boros
-- sifat iri
-- empati kepada orang yang kekurangan
+- Berbuka ketika waktunya tiba dan berdoa sebagai ungkapan syukur
+- Berdoa sebelum Magrib lalu langsung makan
+- Menunggu semua orang memuji puasanya baru makan
+- Menyimpan semua makanan agar tidak dibagi
 
-**Kunci Jawaban:** empati kepada orang yang kekurangan
+**Kunci Jawaban:** Berbuka ketika waktunya tiba dan berdoa sebagai ungkapan syukur
 
-**Pembahasan:** Menahan lapar saat puasa dapat menumbuhkan empati kepada orang yang kekurangan.
+**Pembahasan:** Berbuka mengikuti waktu yang ditetapkan. Doa berbuka mengingatkan kita untuk bersyukur.
 
 ---
 
 ## Soal 20 — K03-PAI-B04-M01-020
 
-**Pertanyaan:** Pilih jawaban yang tepat: membantu menyiapkan makanan berbuka adalah contoh ....
+**Pertanyaan:** Di malam hari, Ayu dan keluarganya sedang menyiapkan puasa esok. Apa yang termasuk persiapan ibadah?
 
 **Pilihan jawaban:**
-- kerja sama dan kepedulian
-- pamer kekayaan
-- membuang makanan
-- menghindari keluarga
+- Menunggu fajar untuk mulai menyiapkan niat Ramadan
+- Memutuskan akan berbuka ketika jam istirahat sekolah
+- Berniat dan merencanakan sahur sebelum fajar
+- Mencari cara agar semua teman tahu ia akan berpuasa
 
-**Kunci Jawaban:** kerja sama dan kepedulian
+**Kunci Jawaban:** Berniat dan merencanakan sahur sebelum fajar
 
-**Pembahasan:** Membantu menyiapkan makanan berbuka adalah contoh kerja sama dan kepedulian.
+**Pembahasan:** Niat dan persiapan sahur membantu menjalani puasa sesuai ketentuannya.
 
 ---
 
 ## Soal 21 — K03-PAI-B04-M01-021
 
-**Pertanyaan:** Saat belajar tentang "Aku Bangga Mampu Berpuasa", bagaimana melengkapi pernyataan ini dengan benar?
-
-Puasa Ramadan bagi muslim yang memenuhi syarat hukumnya ....
+**Pertanyaan:** Bima masih belajar berpuasa. Ia merasa sangat lemas dan ingin menyembunyikannya. Apa yang sebaiknya dilakukan?
 
 **Pilihan jawaban:**
-- mubah semata
-- wajib
-- haram
-- makruh
+- Tetap diam agar semua orang mengira ia kuat
+- Berlari supaya rasa lemas cepat hilang
+- Meminta teman merahasiakan keadaannya
+- Segera memberi tahu guru atau orang tua agar mendapat bantuan
 
-**Kunci Jawaban:** wajib
+**Kunci Jawaban:** Segera memberi tahu guru atau orang tua agar mendapat bantuan
 
-**Pembahasan:** Puasa Ramadan bagi muslim yang memenuhi syarat hukumnya wajib.
+**Pembahasan:** Anak perlu memberi tahu orang dewasa saat merasa sangat lemas agar mendapat bantuan yang tepat.
 
 ---
 
 ## Soal 22 — K03-PAI-B04-M01-022
 
-**Pertanyaan:** Saat belajar tentang "Aku Bangga Mampu Berpuasa", bagaimana melengkapi pernyataan ini dengan benar?
-
-Puasa Ramadan dimulai dari ....
+**Pertanyaan:** Dua siswa membicarakan temannya yang sakit dan mendapat keringanan. Tanggapan mana yang baik?
 
 **Pilihan jawaban:**
-- siang hingga sore saja
-- pagi hingga tengah hari
-- terbit fajar hingga terbenam matahari
-- matahari terbit hingga tengah malam
+- Memaksanya ikut puasa seperti teman lain
+- Menghormati keadaannya dan tidak mengejek
+- Meminta teman menilai apakah sakitnya benar
+- Menganggap semua anak harus berlatih dengan cara yang sama
 
-**Kunci Jawaban:** terbit fajar hingga terbenam matahari
+**Kunci Jawaban:** Menghormati keadaannya dan tidak mengejek
 
-**Pembahasan:** Puasa Ramadan dimulai dari terbit fajar hingga terbenam matahari.
+**Pembahasan:** Keringanan adalah bagian dari ketentuan agama. Kita menghormati keadaan orang lain.
 
 ---
 
 ## Soal 23 — K03-PAI-B04-M01-023
 
-**Pertanyaan:** Saat belajar tentang "Aku Bangga Mampu Berpuasa", bagaimana melengkapi pernyataan ini dengan benar?
-
-Salah satu hal yang membatalkan puasa adalah ....
+**Pertanyaan:** Apa contoh menjaga ucapan ketika sedang berpuasa?
 
 **Pilihan jawaban:**
-- tidur siang
-- belajar
-- membaca buku
-- makan dengan sengaja
+- Membalas ejekan dengan ejekan yang lebih keras
+- Mengajak teman membicarakan keburukan orang lain
+- Meminta giliran berbicara dengan sopan ketika berbeda pendapat
+- Berteriak setiap kali pendapatnya tidak dipilih
 
-**Kunci Jawaban:** makan dengan sengaja
+**Kunci Jawaban:** Meminta giliran berbicara dengan sopan ketika berbeda pendapat
 
-**Pembahasan:** Salah satu hal yang membatalkan puasa adalah makan dengan sengaja.
+**Pembahasan:** Menjaga ucapan melatih kesabaran dan membantu menjaga hubungan dengan orang lain.
 
 ---
 
 ## Soal 24 — K03-PAI-B04-M01-024
 
-**Pertanyaan:** Saat belajar tentang "Aku Bangga Mampu Berpuasa", bagaimana melengkapi pernyataan ini dengan benar?
-
-Sahur dilakukan ....
+**Pertanyaan:** Rani ingin membedakan ketentuan dan hikmah puasa. Manakah yang merupakan hikmah?
 
 **Pilihan jawaban:**
-- sebelum terbit fajar
-- setelah magrib
-- setelah salat isya
-- ketika matahari terik
+- Belajar mengendalikan diri ketika kecewa
+- Mulai menahan diri sejak fajar
+- Berbuka ketika matahari terbenam
+- Berniat berpuasa karena Allah
 
-**Kunci Jawaban:** sebelum terbit fajar
+**Kunci Jawaban:** Belajar mengendalikan diri ketika kecewa
 
-**Pembahasan:** Sahur dilakukan sebelum terbit fajar.
+**Pembahasan:** Hikmah adalah pelajaran atau kebaikan yang diperoleh. Waktu dan niat termasuk ketentuan.
 
 ---
 
 ## Soal 25 — K03-PAI-B04-M01-025
 
-**Pertanyaan:** Saat belajar tentang "Aku Bangga Mampu Berpuasa", bagaimana melengkapi pernyataan ini dengan benar?
-
-Berbuka puasa dilakukan ketika ....
+**Pertanyaan:** Ada yang berkata, “Puasa cukup menahan lapar.” Apa tanggapan yang sesuai materi?
 
 **Pilihan jawaban:**
-- sebelum subuh
-- matahari terbenam
-- matahari terbit
-- tengah hari
+- Puasa melatih supaya kita boleh marah saat lapar
+- Puasa hanya menghitung berapa jam seseorang tidak makan
+- Puasa cukup dilakukan ketika dilihat orang
+- Puasa juga melatih menjaga ucapan dan perbuatan
 
-**Kunci Jawaban:** matahari terbenam
+**Kunci Jawaban:** Puasa juga melatih menjaga ucapan dan perbuatan
 
-**Pembahasan:** Berbuka puasa dilakukan ketika matahari terbenam.
+**Pembahasan:** Puasa adalah ibadah kepada Allah. Menjaga ucapan dan perbuatan termasuk latihan pengendalian diri.
 
 ---
 
 ## Soal 26 — K03-PAI-B04-M01-026
 
-**Pertanyaan:** Saat belajar tentang "Aku Bangga Mampu Berpuasa", bagaimana melengkapi pernyataan ini dengan benar?
-
-Tujuan utama puasa adalah melatih ....
+**Pertanyaan:** Hani berbuka di rumah saudaranya. Cara mana yang menunjukkan syukur dan kepedulian?
 
 **Pilihan jawaban:**
-- kemalasan
-- permusuhan
-- ketakwaan kepada Allah
-- kesombongan
+- Mengambil semua makanan kesukaannya sebelum orang lain
+- Membuang makanan yang tidak dipilihnya
+- Mengambil secukupnya agar yang lain juga mendapat bagian
+- Membandingkan siapa yang membawa hidangan paling mahal
 
-**Kunci Jawaban:** ketakwaan kepada Allah
+**Kunci Jawaban:** Mengambil secukupnya agar yang lain juga mendapat bagian
 
-**Pembahasan:** Tujuan utama puasa adalah melatih ketakwaan kepada Allah.
+**Pembahasan:** Mengambil sesuai kebutuhan mengurangi pemborosan dan memberi bagian bagi orang lain.
 
 ---
 
 ## Soal 27 — K03-PAI-B04-M01-027
 
-**Pertanyaan:** Saat belajar tentang "Aku Bangga Mampu Berpuasa", bagaimana melengkapi pernyataan ini dengan benar?
-
-Saat berpuasa, kita sebaiknya ....
+**Pertanyaan:** Di kelas, Danu menemukan makanan milik teman saat berpuasa. Apa tindakan yang menunjukkan kejujuran?
 
 **Pilihan jawaban:**
-- bertengkar
-- berbohong
-- menghina
-- menjaga ucapan dan perilaku
+- Menyembunyikannya untuk dibawa pulang setelah berbuka
+- Mengembalikannya atau menyerahkan kepada guru jika pemiliknya belum diketahui
+- Membiarkannya hilang agar tidak perlu bertanya
+- Memberikannya kepada teman lain tanpa izin pemilik
 
-**Kunci Jawaban:** menjaga ucapan dan perilaku
+**Kunci Jawaban:** Mengembalikannya atau menyerahkan kepada guru jika pemiliknya belum diketahui
 
-**Pembahasan:** Saat berpuasa, kita sebaiknya menjaga ucapan dan perilaku.
+**Pembahasan:** Kejujuran tetap dijaga ketika tidak ada yang melihat.
 
 ---
 
 ## Soal 28 — K03-PAI-B04-M01-028
 
-**Pertanyaan:** Saat belajar tentang "Aku Bangga Mampu Berpuasa", bagaimana melengkapi pernyataan ini dengan benar?
-
-Orang yang sakit dan tidak mampu berpuasa mendapat ....
+**Pertanyaan:** Manakah catatan yang menunjukkan latihan sabar dalam puasa?
 
 **Pilihan jawaban:**
-- keringanan sesuai ketentuan agama
-- larangan berdoa
-- kewajiban bermain
-- hukuman dari teman
+- Aku kecewa saat kalah bermain, lalu menenangkan diri sebelum berbicara.
+- Aku melihat jam setiap menit sampai sore.
+- Aku memamerkan jadwal puasaku kepada teman.
+- Aku meminta teman menunggu sampai aku boleh makan.
 
-**Kunci Jawaban:** keringanan sesuai ketentuan agama
+**Kunci Jawaban:** Aku kecewa saat kalah bermain, lalu menenangkan diri sebelum berbicara.
 
-**Pembahasan:** Orang yang sakit dan tidak mampu berpuasa mendapat keringanan sesuai ketentuan agama.
+**Pembahasan:** Catatan pertama menunjukkan pilihan untuk mengendalikan respons saat kecewa.
 
 ---
 
 ## Soal 29 — K03-PAI-B04-M01-029
 
-**Pertanyaan:** Saat belajar tentang "Aku Bangga Mampu Berpuasa", bagaimana melengkapi pernyataan ini dengan benar?
-
-Menahan lapar saat puasa dapat menumbuhkan ....
+**Pertanyaan:** Kelas ingin meninjau cara belajar ketentuan puasa. Bagan mana yang paling membantu?
 
 **Pilihan jawaban:**
-- sifat iri
-- empati kepada orang yang kekurangan
-- rasa sombong
-- kebiasaan boros
+- Bagan yang hanya berisi daftar menu berbuka
+- Bagan yang mengurutkan siswa dari yang paling lama berpuasa
+- Bagan yang memisahkan waktu, niat, pembatal, dan keringanan
+- Bagan yang mencatat jam pulang sekolah saja
 
-**Kunci Jawaban:** empati kepada orang yang kekurangan
+**Kunci Jawaban:** Bagan yang memisahkan waktu, niat, pembatal, dan keringanan
 
-**Pembahasan:** Menahan lapar saat puasa dapat menumbuhkan empati kepada orang yang kekurangan.
+**Pembahasan:** Memisahkan kelompok aturan membuat peran tiap ketentuan mudah dipahami.
 
 ---
 
 ## Soal 30 — K03-PAI-B04-M01-030
 
-**Pertanyaan:** Saat belajar tentang "Aku Bangga Mampu Berpuasa", bagaimana melengkapi pernyataan ini dengan benar?
-
-Membantu menyiapkan makanan berbuka adalah contoh ....
+**Pertanyaan:** Guru meminta contoh hikmah puasa beserta tindakannya. Jawaban mana yang tepat?
 
 **Pilihan jawaban:**
-- membuang makanan
-- menghindari keluarga
-- kerja sama dan kepedulian
-- pamer kekayaan
+- Puasa melatih kepedulian. Aku menyimpan semua makanan untuk diri sendiri.
+- Puasa melatih kepedulian. Aku membantu menyiapkan makanan untuk dibagi.
+- Puasa melatih kesabaran. Aku mengejek teman yang tidak setuju.
+- Puasa melatih kejujuran. Aku berbohong tentang latihanku.
 
-**Kunci Jawaban:** kerja sama dan kepedulian
+**Kunci Jawaban:** Puasa melatih kepedulian. Aku membantu menyiapkan makanan untuk dibagi.
 
-**Pembahasan:** Membantu menyiapkan makanan berbuka adalah contoh kerja sama dan kepedulian.
+**Pembahasan:** Tindakan membantu berbagi sesuai dengan hikmah kepedulian.
 
 ---

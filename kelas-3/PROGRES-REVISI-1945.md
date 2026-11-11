@@ -5,14 +5,14 @@
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
-| PAI | Bab 1–3: 83 butir berubah dan enam modul direvisi | 90/300 diperiksa; pratinjau HP Bab 1 tertunda | 210 soal/7 bab, serta pratinjau HP Bab 1 |
+| PAI | Bab 1–4: 113 butir berubah dan delapan modul direvisi | 120/300 diperiksa; pratinjau HP Bab 1 tertunda | 180 soal/6 bab, serta pratinjau HP Bab 1 |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **650/1.945**. Jumlah diubah: **629**.
-Sisa audit isi: **1.295 soal pada 30 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
-30 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **680/1.945**. Jumlah diubah: **659**.
+Sisa audit isi: **1.265 soal pada 29 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
+29 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -270,7 +270,7 @@ belum dipenuhi dan tidak diklaim sudah dilakukan. Tidak ada JSON/rilis aplikasi.
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS dan PAI Bab 1–3. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
+Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS dan PAI Bab 1–4. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
 Dua belas SVG Bab 1 dirender pada Chromium dan diperiksa batas teksnya;
@@ -316,8 +316,17 @@ siswa dan panduan guru Bab III ditautkan pada materi. Semua ID tetap.
 Pemeriksaan Bab 3: 30 stem unik, empat pilihan berbeda, kunci cocok, dan
 pembahasan lengkap. Bab ini tidak memakai media terpisah.
 
+## PAI Bab 4 — Aku Bangga Mampu Berpuasa
+
+30 butir diperiksa dan ditulis ulang, mencakup niat, sahur, waktu puasa,
+perbedaan lupa dan sengaja, keringanan, serta hikmah. Dua versi modul
+memuat cakupan sama dan latihan dengan bimbingan guru. Buku siswa dan
+panduan guru Bab IV, ayat, serta hadis terkait ditautkan. Seluruh ID
+dipertahankan. Pemeriksaan: 30 stem unik, empat opsi berbeda per butir,
+kunci sesuai opsi, dan pembahasan tersedia.
+
 ## Posisi lanjut yang tepat
 
 Uji pratinjau HP PAI Bab 1 saat browser tersedia dan lanjutkan audit isi PAI
-Bab 4–10, lalu ENG, PJOK, dan Seni Rupa. Pertahankan Markdown dan tunda
+Bab 5–10, lalu ENG, PJOK, dan Seni Rupa. Pertahankan Markdown dan tunda
 konversi JSON serta aktivasi aplikasi. Jangan ubah BIN, MTK, atau PKN.
