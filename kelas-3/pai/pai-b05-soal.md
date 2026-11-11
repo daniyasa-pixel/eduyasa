@@ -1,503 +1,483 @@
 # PAI Kelas 3 — Bab 5: Aku Suka Belajar Sejarah Islam
 
-**STATUS DRAF:** 30 soal pilihan ganda. Ada pengulangan kompetensi antarpertanyaan; wajib revisi variasi dan audit agama sebelum rilis.
+**STATUS AUDIT ISI:** 30 soal diperiksa. Sumber Markdown untuk tahap revisi EDUYASA.
 
 ## Soal 1 — K03-PAI-B05-M01-001
 
-**Pertanyaan:** Sebelum Islam datang, masyarakat Arab disebut berada pada masa ....
+**Pertanyaan:** Apa arti istilah Arab pra-Islam dalam bab ini?
 
 **Pilihan jawaban:**
-- jahiliah
-- modern
-- reformasi
-- kemerdekaan
+- Masyarakat Arab setelah hijrah ke Madinah
+- Penduduk Madinah sesudah masa Nabi
+- Masyarakat Arab sebelum datangnya ajaran Islam
+- Para pedagang yang baru pulang dari Syam
 
-**Kunci Jawaban:** jahiliah
+**Kunci Jawaban:** Masyarakat Arab sebelum datangnya ajaran Islam
 
-**Pembahasan:** Sebelum Islam datang, masyarakat Arab disebut berada pada masa jahiliah.
+**Pembahasan:** Pra berarti sebelum. Istilah ini menunjuk masa sebelum Islam datang.
 
 ---
 
 ## Soal 2 — K03-PAI-B05-M01-002
 
-**Pertanyaan:** Nabi Muhammad saw. lahir di kota ....
+**Pertanyaan:** Dua catatan menyebut perdagangan dan kegemaran bersyair di masyarakat Arab pra-Islam. Apa yang dapat disimpulkan?
 
 **Pilihan jawaban:**
-- Baghdad
-- Makkah
-- Madinah
-- Damaskus
+- Masyarakat saat itu memiliki kegiatan ekonomi dan budaya
+- Semua orang bekerja sebagai penyair
+- Perdagangan baru dikenal setelah Islam datang
+- Semua orang memiliki pekerjaan yang sama
 
-**Kunci Jawaban:** Makkah
+**Kunci Jawaban:** Masyarakat saat itu memiliki kegiatan ekonomi dan budaya
 
-**Pembahasan:** Nabi Muhammad saw. lahir di kota Makkah.
+**Pembahasan:** Perdagangan adalah kegiatan ekonomi, sedangkan syair bagian dari kehidupan budaya.
 
 ---
 
 ## Soal 3 — K03-PAI-B05-M01-003
 
-**Pertanyaan:** Ayah Nabi Muhammad saw. bernama ....
+**Pertanyaan:** Mengapa sebutan jahiliah tidak berarti setiap orang Arab saat itu tidak memiliki keterampilan?
 
 **Pilihan jawaban:**
-- Abu Bakar
-- Umar
-- Abdullah
-- Abu Thalib
+- Mereka semua tidak pernah belajar apa pun
+- Mereka hanya tinggal di satu kota
+- Mereka baru mengenal syair setelah masa Nabi
+- Mereka juga memiliki keterampilan seperti berdagang dan bersyair
 
-**Kunci Jawaban:** Abdullah
+**Kunci Jawaban:** Mereka juga memiliki keterampilan seperti berdagang dan bersyair
 
-**Pembahasan:** Ayah Nabi Muhammad saw. bernama Abdullah.
+**Pembahasan:** Sebutan jahiliah berkaitan dengan keadaan dan kebiasaan yang dikritik dalam ajaran Islam. Keterampilan tetap ada.
 
 ---
 
 ## Soal 4 — K03-PAI-B05-M01-004
 
-**Pertanyaan:** Ibu Nabi Muhammad saw. bernama ....
+**Pertanyaan:** Manakah contoh kebiasaan yang dapat dibahas sebagai masalah dalam masyarakat Arab pra-Islam?
 
 **Pilihan jawaban:**
-- Khadijah
-- Aisyah
-- Fatimah
-- Aminah
+- Bertukar barang secara jujur
+- Pertikaian antarsuku
+- Menjamu tamu
+- Menyusun syair
 
-**Kunci Jawaban:** Aminah
+**Kunci Jawaban:** Pertikaian antarsuku
 
-**Pembahasan:** Ibu Nabi Muhammad saw. bernama Aminah.
+**Pembahasan:** Pertikaian menunjukkan masalah dalam hubungan antarkelompok. Contoh lain menggambarkan kegiatan atau kebiasaan yang berbeda.
 
 ---
 
 ## Soal 5 — K03-PAI-B05-M01-005
 
-**Pertanyaan:** Kakek Nabi Muhammad saw. bernama ....
+**Pertanyaan:** Lala membuat dua kelompok catatan: kegiatan ekonomi dan budaya. Ia memasukkan syair ke kelompok ekonomi. Apa yang perlu diperbaiki?
 
 **Pilihan jawaban:**
-- Abdul Muthalib
-- Abu Lahab
-- Bilal
-- Zaid
+- Tempatkan syair sebagai contoh budaya
+- Tempatkan syair sebagai nama suku
+- Tempatkan perdagangan sebagai jenis syair
+- Satukan semua catatan sebagai nama kota
 
-**Kunci Jawaban:** Abdul Muthalib
+**Kunci Jawaban:** Tempatkan syair sebagai contoh budaya
 
-**Pembahasan:** Kakek Nabi Muhammad saw. bernama Abdul Muthalib.
+**Pembahasan:** Syair adalah karya sastra. Perdagangan berkaitan dengan kegiatan ekonomi.
 
 ---
 
 ## Soal 6 — K03-PAI-B05-M01-006
 
-**Pertanyaan:** Nabi Muhammad saw. dikenal dengan gelar Al-Amin yang berarti ....
+**Pertanyaan:** Kota mana yang harus ditulis pada kartu tempat kelahiran Nabi Muhammad saw.?
 
 **Pilihan jawaban:**
-- paling tinggi
-- dapat dipercaya
-- paling kaya
-- paling kuat
+- Madinah
+- Makkah
+- Taif
+- Yerusalem
 
-**Kunci Jawaban:** dapat dipercaya
+**Kunci Jawaban:** Makkah
 
-**Pembahasan:** Nabi Muhammad saw. dikenal dengan gelar Al-Amin yang berarti dapat dipercaya.
+**Pembahasan:** Nabi Muhammad saw. lahir di Makkah.
 
 ---
 
 ## Soal 7 — K03-PAI-B05-M01-007
 
-**Pertanyaan:** Nabi Muhammad saw. berasal dari suku ....
+**Pertanyaan:** Pada bagan keluarga Nabi Muhammad saw., siapa yang ditulis sebagai ayah beliau?
 
 **Pilihan jawaban:**
-- Khazraj
-- Tsaqif
-- Quraisy
-- Aus
+- Abu Talib
+- Abdul Muttalib
+- Abu Bakar
+- Abdullah
 
-**Kunci Jawaban:** Quraisy
+**Kunci Jawaban:** Abdullah
 
-**Pembahasan:** Nabi Muhammad saw. berasal dari suku Quraisy.
+**Pembahasan:** Ayah beliau bernama Abdullah. Abu Talib adalah paman dan Abdul Muttalib adalah kakek beliau.
 
 ---
 
 ## Soal 8 — K03-PAI-B05-M01-008
 
-**Pertanyaan:** Sebelum menerima wahyu, Nabi Muhammad saw. sering berkhalwat di ....
+**Pertanyaan:** Dua kartu bertuliskan Abdullah dan Aminah. Apa hubungan keduanya dengan Nabi Muhammad saw.?
 
 **Pilihan jawaban:**
-- Gua Tsur
-- Masjid Nabawi
-- Bukit Uhud
-- Gua Hira
+- Abdullah kakek beliau dan Aminah ibu beliau
+- Abdullah paman beliau dan Aminah saudara beliau
+- Abdullah ayah beliau dan Aminah ibu beliau
+- Abdullah ayah beliau dan Aminah nenek beliau
 
-**Kunci Jawaban:** Gua Hira
+**Kunci Jawaban:** Abdullah ayah beliau dan Aminah ibu beliau
 
-**Pembahasan:** Sebelum menerima wahyu, Nabi Muhammad saw. sering berkhalwat di Gua Hira.
+**Pembahasan:** Orang tua Nabi Muhammad saw. adalah Abdullah dan Aminah.
 
 ---
 
 ## Soal 9 — K03-PAI-B05-M01-009
 
-**Pertanyaan:** Selawat adalah doa memohon ....
+**Pertanyaan:** Mengapa Nabi Muhammad saw. sudah disebut yatim ketika lahir?
 
 **Pilihan jawaban:**
-- rahmat dan kemuliaan bagi Nabi Muhammad saw.
-- kekayaan untuk diri sendiri saja
-- kemenangan dalam permainan
-- pujian bagi benda
+- Ayah beliau wafat sebelum beliau lahir
+- Ibu beliau wafat sebelum beliau lahir
+- Kakek beliau tinggal di kota lain
+- Paman beliau sedang pergi berdagang
 
-**Kunci Jawaban:** rahmat dan kemuliaan bagi Nabi Muhammad saw.
+**Kunci Jawaban:** Ayah beliau wafat sebelum beliau lahir
 
-**Pembahasan:** Selawat adalah doa memohon rahmat dan kemuliaan bagi Nabi Muhammad saw..
+**Pembahasan:** Ayah beliau wafat sebelum kelahiran beliau. Anak yang kehilangan ayah sebelum balig disebut yatim.
 
 ---
 
 ## Soal 10 — K03-PAI-B05-M01-010
 
-**Pertanyaan:** Meneladani kejujuran Nabi berarti ....
+**Pertanyaan:** Tiga kartu tertukar: Abu Talib, Aminah, Abdul Muttalib. Urutan pengasuhan keluarga yang tepat adalah ....
 
 **Pilihan jawaban:**
-- mengambil barang teman
-- berkata benar dan dapat dipercaya
-- menyembunyikan amanah
-- berbohong demi hadiah
+- Aminah, Abu Talib, lalu Abdul Muttalib
+- Aminah, Abdul Muttalib, lalu Abu Talib
+- Abu Talib, Aminah, lalu Abdul Muttalib
+- Abdul Muttalib, Abu Talib, lalu Aminah
 
-**Kunci Jawaban:** berkata benar dan dapat dipercaya
+**Kunci Jawaban:** Aminah, Abdul Muttalib, lalu Abu Talib
 
-**Pembahasan:** Meneladani kejujuran Nabi berarti berkata benar dan dapat dipercaya.
+**Pembahasan:** Setelah Aminah wafat, Abdul Muttalib merawat Nabi. Sesudah kakeknya wafat, Abu Talib merawat beliau.
 
 ---
 
 ## Soal 11 — K03-PAI-B05-M01-011
 
-**Pertanyaan:** Pilih jawaban yang tepat: sebelum Islam datang, masyarakat Arab disebut berada pada masa ....
+**Pertanyaan:** Siapa yang merawat Nabi Muhammad saw. setelah kakek beliau wafat?
 
 **Pilihan jawaban:**
-- reformasi
-- kemerdekaan
-- jahiliah
-- modern
+- Abdullah
+- Abdul Muttalib
+- Abu Talib
+- Abu Bakar
 
-**Kunci Jawaban:** jahiliah
+**Kunci Jawaban:** Abu Talib
 
-**Pembahasan:** Sebelum Islam datang, masyarakat Arab disebut berada pada masa jahiliah.
+**Pembahasan:** Abu Talib adalah paman Nabi Muhammad saw. dan meneruskan pengasuhan setelah Abdul Muttalib wafat.
 
 ---
 
 ## Soal 12 — K03-PAI-B05-M01-012
 
-**Pertanyaan:** Pilih jawaban yang tepat: nabi Muhammad saw. lahir di kota ....
+**Pertanyaan:** Apa hubungan Abdul Muttalib dengan Nabi Muhammad saw.?
 
 **Pilihan jawaban:**
-- Madinah
-- Damaskus
-- Baghdad
-- Makkah
+- Paman
+- Ayah
+- Saudara
+- Kakek
 
-**Kunci Jawaban:** Makkah
+**Kunci Jawaban:** Kakek
 
-**Pembahasan:** Nabi Muhammad saw. lahir di kota Makkah.
+**Pembahasan:** Abdul Muttalib adalah ayah dari Abdullah dan kakek Nabi Muhammad saw.
 
 ---
 
 ## Soal 13 — K03-PAI-B05-M01-013
 
-**Pertanyaan:** Pilih jawaban yang tepat: ayah Nabi Muhammad saw. bernama ....
+**Pertanyaan:** Dalam kisah masa muda, pekerjaan apa yang menunjukkan latihan tanggung jawab merawat hewan?
 
 **Pilihan jawaban:**
-- Abdullah
-- Abu Thalib
-- Abu Bakar
-- Umar
+- Menyusun syair
+- Menggembala kambing
+- Menulis surat dagang
+- Menjaga persediaan kain
 
-**Kunci Jawaban:** Abdullah
+**Kunci Jawaban:** Menggembala kambing
 
-**Pembahasan:** Ayah Nabi Muhammad saw. bernama Abdullah.
+**Pembahasan:** Menggembala berarti menjaga hewan ternak dan memperhatikan kebutuhannya.
 
 ---
 
 ## Soal 14 — K03-PAI-B05-M01-014
 
-**Pertanyaan:** Pilih jawaban yang tepat: ibu Nabi Muhammad saw. bernama ....
+**Pertanyaan:** Nabi Muhammad saw. ikut rombongan Abu Talib ke Syam ketika masih muda. Kegiatan apa yang dapat beliau pelajari dari perjalanan itu?
 
 **Pilihan jawaban:**
-- Fatimah
-- Aminah
-- Khadijah
-- Aisyah
+- Perdagangan
+- Pembuatan senjata
+- Pembangunan rumah
+- Penangkapan ikan di laut
 
-**Kunci Jawaban:** Aminah
+**Kunci Jawaban:** Perdagangan
 
-**Pembahasan:** Ibu Nabi Muhammad saw. bernama Aminah.
+**Pembahasan:** Rombongan itu melakukan perjalanan dagang. Pengalaman tersebut memberi kesempatan mengenal perdagangan.
 
 ---
 
 ## Soal 15 — K03-PAI-B05-M01-015
 
-**Pertanyaan:** Pilih jawaban yang tepat: kakek Nabi Muhammad saw. bernama ....
+**Pertanyaan:** Dalam catatan masa muda ada kata kafilah. Apa artinya dalam kisah perjalanan dagang?
 
 **Pilihan jawaban:**
-- Bilal
-- Zaid
-- Abdul Muthalib
-- Abu Lahab
+- Pasar yang buka setiap pagi
+- Barang yang ditukar di pasar
+- Rumah tempat pedagang tinggal
+- Rombongan yang bepergian bersama
 
-**Kunci Jawaban:** Abdul Muthalib
+**Kunci Jawaban:** Rombongan yang bepergian bersama
 
-**Pembahasan:** Kakek Nabi Muhammad saw. bernama Abdul Muthalib.
+**Pembahasan:** Kafilah adalah rombongan perjalanan. Pada kisah ini anggotanya bepergian untuk berdagang.
 
 ---
 
 ## Soal 16 — K03-PAI-B05-M01-016
 
-**Pertanyaan:** Pilih jawaban yang tepat: nabi Muhammad saw. dikenal dengan gelar Al-Amin yang berarti ....
+**Pertanyaan:** Bagaimana mengurutkan tiga peristiwa ini: lahir di Makkah, diasuh Abu Talib, diasuh Abdul Muttalib?
 
 **Pilihan jawaban:**
-- paling kaya
-- paling kuat
-- paling tinggi
-- dapat dipercaya
+- Diasuh Abdul Muttalib, lahir di Makkah, lalu diasuh Abu Talib
+- Lahir di Makkah, diasuh Abu Talib, lalu diasuh Abdul Muttalib
+- Lahir di Makkah, diasuh Abdul Muttalib, lalu diasuh Abu Talib
+- Diasuh Abu Talib, diasuh Abdul Muttalib, lalu lahir di Makkah
 
-**Kunci Jawaban:** dapat dipercaya
+**Kunci Jawaban:** Lahir di Makkah, diasuh Abdul Muttalib, lalu diasuh Abu Talib
 
-**Pembahasan:** Nabi Muhammad saw. dikenal dengan gelar Al-Amin yang berarti dapat dipercaya.
+**Pembahasan:** Kelahiran terjadi lebih dulu. Abu Talib meneruskan pengasuhan sesudah kakek Nabi wafat.
 
 ---
 
 ## Soal 17 — K03-PAI-B05-M01-017
 
-**Pertanyaan:** Pilih jawaban yang tepat: nabi Muhammad saw. berasal dari suku ....
+**Pertanyaan:** Suku mana yang tercatat dalam kisah keluarga Nabi Muhammad saw. di Makkah?
 
 **Pilihan jawaban:**
-- Quraisy
 - Aus
+- Quraisy
 - Khazraj
 - Tsaqif
 
 **Kunci Jawaban:** Quraisy
 
-**Pembahasan:** Nabi Muhammad saw. berasal dari suku Quraisy.
+**Pembahasan:** Keluarga Nabi Muhammad saw. berasal dari suku Quraisy.
 
 ---
 
 ## Soal 18 — K03-PAI-B05-M01-018
 
-**Pertanyaan:** Pilih jawaban yang tepat: sebelum menerima wahyu, Nabi Muhammad saw. sering berkhalwat di ....
+**Pertanyaan:** Mengapa gelar Al-Amin sesuai untuk Nabi Muhammad saw.?
 
 **Pilihan jawaban:**
-- Bukit Uhud
-- Gua Hira
-- Gua Tsur
-- Masjid Nabawi
+- Beliau berasal dari tempat yang jauh
+- Beliau pandai menyembunyikan barang
+- Beliau selalu memimpin rombongan
+- Beliau dikenal dapat dipercaya
 
-**Kunci Jawaban:** Gua Hira
+**Kunci Jawaban:** Beliau dikenal dapat dipercaya
 
-**Pembahasan:** Sebelum menerima wahyu, Nabi Muhammad saw. sering berkhalwat di Gua Hira.
+**Pembahasan:** Al-Amin berarti dapat dipercaya. Gelar itu berkaitan dengan kejujuran dan amanah.
 
 ---
 
 ## Soal 19 — K03-PAI-B05-M01-019
 
-**Pertanyaan:** Pilih jawaban yang tepat: selawat adalah doa memohon ....
+**Pertanyaan:** Rani menemukan uang kembalian berlebih. Bagaimana meneladani kejujuran Nabi?
 
 **Pilihan jawaban:**
-- kemenangan dalam permainan
-- pujian bagi benda
-- rahmat dan kemuliaan bagi Nabi Muhammad saw.
-- kekayaan untuk diri sendiri saja
+- Memberi tahu penjual dan mengembalikan kelebihannya
+- Menyimpan semuanya karena penjual tidak melihat
+- Memberikan uang itu kepada teman tanpa bertanya
+- Menunggu sampai uang tersebut habis dipakai
 
-**Kunci Jawaban:** rahmat dan kemuliaan bagi Nabi Muhammad saw.
+**Kunci Jawaban:** Memberi tahu penjual dan mengembalikan kelebihannya
 
-**Pembahasan:** Selawat adalah doa memohon rahmat dan kemuliaan bagi Nabi Muhammad saw..
+**Pembahasan:** Mengembalikan kelebihan berarti berkata jujur dan menghargai hak penjual.
 
 ---
 
 ## Soal 20 — K03-PAI-B05-M01-020
 
-**Pertanyaan:** Pilih jawaban yang tepat: meneladani kejujuran Nabi berarti ....
+**Pertanyaan:** Farid dititipi buku sampai besok. Tindakan mana yang menunjukkan amanah?
 
 **Pilihan jawaban:**
-- menyembunyikan amanah
-- berbohong demi hadiah
-- mengambil barang teman
-- berkata benar dan dapat dipercaya
+- Meminjamkannya kepada orang lain tanpa izin
+- Menukar buku itu dengan miliknya
+- Menjaga buku dan mengembalikannya sesuai janji
+- Mengembalikan buku hanya setelah diberi hadiah
 
-**Kunci Jawaban:** berkata benar dan dapat dipercaya
+**Kunci Jawaban:** Menjaga buku dan mengembalikannya sesuai janji
 
-**Pembahasan:** Meneladani kejujuran Nabi berarti berkata benar dan dapat dipercaya.
+**Pembahasan:** Amanah terlihat ketika Farid menjaga titipan dan memenuhi kesepakatan.
 
 ---
 
 ## Soal 21 — K03-PAI-B05-M01-021
 
-**Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
-
-Sebelum Islam datang, masyarakat Arab disebut berada pada masa ....
+**Pertanyaan:** Salma tak sengaja merusak barang kelompok. Tindakan mana yang menunjukkan keberanian dan kejujuran?
 
 **Pilihan jawaban:**
-- jahiliah
-- modern
-- reformasi
-- kemerdekaan
+- Menyalahkan orang yang sedang tidak hadir
+- Menyembunyikan barang supaya masalah dilupakan
+- Menunggu orang lain mengaku lebih dulu
+- Mengaku kepada kelompok dan ikut mencari cara memperbaikinya
 
-**Kunci Jawaban:** jahiliah
+**Kunci Jawaban:** Mengaku kepada kelompok dan ikut mencari cara memperbaikinya
 
-**Pembahasan:** Sebelum Islam datang, masyarakat Arab disebut berada pada masa jahiliah.
+**Pembahasan:** Berani mengakui kesalahan memberi kesempatan kepada kelompok untuk memperbaikinya.
 
 ---
 
 ## Soal 22 — K03-PAI-B05-M01-022
 
-**Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
-
-Nabi Muhammad saw. lahir di kota ....
+**Pertanyaan:** Dua siswa membantu menjaga alat kelas. Mana yang menunjukkan bahwa seorang siswa dapat dipercaya?
 
 **Pilihan jawaban:**
-- Baghdad
-- Makkah
-- Madinah
-- Damaskus
+- Membawa alat pulang tanpa izin lalu mengaku sudah mengembalikan
+- Mencatat alat yang dipinjam dan mengembalikannya ke tempat semula
+- Menjaga alat hanya ketika dilihat guru
+- Menitipkan tugasnya kepada orang lain tanpa memberi tahu guru
 
-**Kunci Jawaban:** Makkah
+**Kunci Jawaban:** Mencatat alat yang dipinjam dan mengembalikannya ke tempat semula
 
-**Pembahasan:** Nabi Muhammad saw. lahir di kota Makkah.
+**Pembahasan:** Mencatat dan mengembalikan alat sesuai tugas menunjukkan tanggung jawab.
 
 ---
 
 ## Soal 23 — K03-PAI-B05-M01-023
 
-**Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
-
-Ayah Nabi Muhammad saw. bernama ....
+**Pertanyaan:** Apa yang kita lakukan ketika berselawat kepada Nabi Muhammad saw.?
 
 **Pilihan jawaban:**
-- Abu Bakar
-- Umar
-- Abdullah
-- Abu Thalib
+- Meminta teman memuji suara kita
+- Menceritakan nama semua pedagang Makkah
+- Berdoa kepada Allah agar melimpahkan selawat kepada Nabi
+- Membaca daftar urutan perjalanan
 
-**Kunci Jawaban:** Abdullah
+**Kunci Jawaban:** Berdoa kepada Allah agar melimpahkan selawat kepada Nabi
 
-**Pembahasan:** Ayah Nabi Muhammad saw. bernama Abdullah.
+**Pembahasan:** Selawat merupakan doa yang ditujukan kepada Allah untuk Nabi.
 
 ---
 
 ## Soal 24 — K03-PAI-B05-M01-024
 
-**Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
-
-Ibu Nabi Muhammad saw. bernama ....
+**Pertanyaan:** Manakah pasangan bentuk dan contoh yang tepat?
 
 **Pilihan jawaban:**
-- Khadijah
-- Aisyah
-- Fatimah
-- Aminah
+- Syair — bait tentang kejujuran
+- Syair — daftar harga di pasar
+- Qasidah — bagan silsilah keluarga
+- Selawat — jadwal keberangkatan kafilah
 
-**Kunci Jawaban:** Aminah
+**Kunci Jawaban:** Syair — bait tentang kejujuran
 
-**Pembahasan:** Ibu Nabi Muhammad saw. bernama Aminah.
+**Pembahasan:** Syair berbentuk bait. Bait dapat memuat pesan kejujuran.
 
 ---
 
 ## Soal 25 — K03-PAI-B05-M01-025
 
-**Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
-
-Kakek Nabi Muhammad saw. bernama ....
+**Pertanyaan:** Guru ingin mengenalkan qasidah. Kegiatan mana yang sesuai?
 
 **Pilihan jawaban:**
-- Abdul Muthalib
-- Abu Lahab
-- Bilal
-- Zaid
+- Membaca harga barang dari kuitansi
+- Menggambar rute pasar tanpa teks
+- Mengurutkan nama kota secara abjad
+- Melantunkan syair bernuansa keagamaan dengan bimbingan guru
 
-**Kunci Jawaban:** Abdul Muthalib
+**Kunci Jawaban:** Melantunkan syair bernuansa keagamaan dengan bimbingan guru
 
-**Pembahasan:** Kakek Nabi Muhammad saw. bernama Abdul Muthalib.
+**Pembahasan:** Qasidah dapat dilantunkan dan memuat pesan keagamaan.
 
 ---
 
 ## Soal 26 — K03-PAI-B05-M01-026
 
-**Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
-
-Nabi Muhammad saw. dikenal dengan gelar Al-Amin yang berarti ....
+**Pertanyaan:** Kelompok Ika ingin menyiapkan selawat untuk dibaca bersama. Apa langkah yang membantu mereka belajar dengan tepat?
 
 **Pilihan jawaban:**
-- paling tinggi
-- dapat dipercaya
-- paling kaya
-- paling kuat
+- Menambah kata yang belum diketahui artinya secara bebas
+- Memilih bacaan hanya karena paling cepat selesai
+- Meminta guru mencontohkan bacaan lalu berlatih pelan bersama
+- Menyuruh teman menebak semua kata
 
-**Kunci Jawaban:** dapat dipercaya
+**Kunci Jawaban:** Meminta guru mencontohkan bacaan lalu berlatih pelan bersama
 
-**Pembahasan:** Nabi Muhammad saw. dikenal dengan gelar Al-Amin yang berarti dapat dipercaya.
+**Pembahasan:** Contoh dan bimbingan guru membantu siswa membaca dengan benar dan memahami maksudnya.
 
 ---
 
 ## Soal 27 — K03-PAI-B05-M01-027
 
-**Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
-
-Nabi Muhammad saw. berasal dari suku ....
+**Pertanyaan:** Apa perbedaan yang tepat antara selawat dan bagan perjalanan Nabi?
 
 **Pilihan jawaban:**
-- Khazraj
-- Tsaqif
-- Quraisy
-- Aus
+- Selawat menunjukkan rute, bagan berisi doa
+- Selawat berisi doa, bagan menunjukkan urutan atau tempat peristiwa
+- Selawat dan bagan sama-sama berisi daftar harga
+- Selawat dan bagan selalu dibaca dengan cara yang sama
 
-**Kunci Jawaban:** Quraisy
+**Kunci Jawaban:** Selawat berisi doa, bagan menunjukkan urutan atau tempat peristiwa
 
-**Pembahasan:** Nabi Muhammad saw. berasal dari suku Quraisy.
+**Pembahasan:** Keduanya mempunyai fungsi berbeda. Bagan membantu membaca peristiwa, sedangkan selawat adalah doa.
 
 ---
 
 ## Soal 28 — K03-PAI-B05-M01-028
 
-**Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
-
-Sebelum menerima wahyu, Nabi Muhammad saw. sering berkhalwat di ....
+**Pertanyaan:** Dito menceritakan bahwa Nabi Muhammad saw. pertama kali belajar berdagang saat menerima wahyu. Apa perbaikannya sesuai pokok bab?
 
 **Pilihan jawaban:**
-- Gua Tsur
-- Masjid Nabawi
-- Bukit Uhud
-- Gua Hira
+- Pengalaman berdagang sudah ada ketika beliau masih muda
+- Perdagangan baru dipelajari sesudah hijrah
+- Perdagangan dimulai setelah beliau tinggal di Madinah
+- Beliau berdagang sebelum lahir di Makkah
 
-**Kunci Jawaban:** Gua Hira
+**Kunci Jawaban:** Pengalaman berdagang sudah ada ketika beliau masih muda
 
-**Pembahasan:** Sebelum menerima wahyu, Nabi Muhammad saw. sering berkhalwat di Gua Hira.
+**Pembahasan:** Beliau mengenal perdagangan melalui pengalaman masa muda, sebelum menerima wahyu.
 
 ---
 
 ## Soal 29 — K03-PAI-B05-M01-029
 
-**Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
-
-Selawat adalah doa memohon ....
+**Pertanyaan:** Apa simpulan yang sesuai dari kisah menggembala dan ikut rombongan dagang?
 
 **Pilihan jawaban:**
-- rahmat dan kemuliaan bagi Nabi Muhammad saw.
-- kekayaan untuk diri sendiri saja
-- kemenangan dalam permainan
-- pujian bagi benda
+- Setiap anak perlu pergi berdagang jauh
+- Kejujuran hanya diperlukan di pasar
+- Pengalaman masa muda dapat melatih tanggung jawab
+- Orang dapat dipercaya cukup dengan mengaku jujur
 
-**Kunci Jawaban:** rahmat dan kemuliaan bagi Nabi Muhammad saw.
+**Kunci Jawaban:** Pengalaman masa muda dapat melatih tanggung jawab
 
-**Pembahasan:** Selawat adalah doa memohon rahmat dan kemuliaan bagi Nabi Muhammad saw..
+**Pembahasan:** Merawat ternak dan mengikuti perjalanan dagang adalah pengalaman yang menuntut tanggung jawab.
 
 ---
 
 ## Soal 30 — K03-PAI-B05-M01-030
 
-**Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
-
-Meneladani kejujuran Nabi berarti ....
+**Pertanyaan:** Manakah catatan penutup yang menghubungkan kisah Al-Amin dengan tindakan sehari-hari?
 
 **Pilihan jawaban:**
-- mengambil barang teman
-- berkata benar dan dapat dipercaya
-- menyembunyikan amanah
-- berbohong demi hadiah
+- Aku akan menghafal gelar Al-Amin agar bisa mengejek teman.
+- Aku akan menjaga barang titipan dan mengembalikannya tepat waktu.
+- Aku akan meminta gelar yang sama sebelum menjalankan tugas.
+- Aku akan berkata jujur hanya jika diberi hadiah.
 
-**Kunci Jawaban:** berkata benar dan dapat dipercaya
+**Kunci Jawaban:** Aku akan menjaga barang titipan dan mengembalikannya tepat waktu.
 
-**Pembahasan:** Meneladani kejujuran Nabi berarti berkata benar dan dapat dipercaya.
+**Pembahasan:** Meneladani sifat dapat dipercaya terlihat dari cara kita menjaga amanah.
 
 ---
