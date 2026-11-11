@@ -4,15 +4,15 @@
 
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
-| IPAS | Bab 1–7: 476 butir berubah | 490 butir diperiksa; Bab 1–7 selesai pemeriksaan isi dan media | Bab 8: 70 soal |
+| IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Belum dikerjakan | Belum diperiksa ulang | 300 soal/10 bab |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **490/1.945**. Jumlah diubah: **476**.
-Sisa audit isi: **1.455 soal pada 34 bab/unit**. Bab 1–7 IPAS telah menutup pemeriksaan isi dan media putaran ini;
-34 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **560/1.945**. Jumlah diubah: **546**.
+Sisa audit isi: **1.385 soal pada 33 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
+33 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -228,13 +228,49 @@ XML, rendering Chromium lebar 390 piksel, batas teks, dan peninjauan lembar
 gambar setelah koreksi ikon. Validator kanonis tetap 1.945 soal, 0 kesalahan
 struktur. Tidak ada konversi JSON atau perubahan mapel yang dilarang.
 
+## IPAS Bab 8 dan penutupan putaran IPAS
+
+Seluruh 70 soal ditulis ulang dan diperiksa; empat opsi dan kunci ditelaah
+terhadap tiga wujud, sifat/volume, enam arah perubahan, panas, serta pengamatan.
+Ambiguitas lama minyak goreng dan air minum sebagai dua opsi benar dalam satu
+soal dibuang. Instruksi Tantangan tidak lagi menjadi konsep/opsi jawaban.
+Kunci membedakan pelarutan gula, pencairan es, pembentukan tetes pengembunan,
+sublimasi, dan deposisi (mengkristal pada bagan gas–padat).
+
+Acuan pokok buku revisi 2025 halaman 165–186. Ketepatan ilmiah tidak menyalin
+penyederhanaan keliru: partikel padat tetap bergetar; uap air gas tidak terlihat,
+kabut putih adalah tetes cair; volume bukan massa atau tinggi permukaan;
+oobleck mengubah perilaku alir karena gaya, bukan diajarkan wujud keempat atau
+sama dengan air membeku. Pendamping rujukan: USGS Glossary of Water Cycle
+Terms, NASA How Do Clouds Form, dan NIST A Crack in the Mystery of Oobleck.
+Tautan lengkap tersedia di materi Bab 8.
+
+Dua modul dicakup setara dan masing-masing dua ilustrasi. Dua belas SVG
+diganti: perbandingan wadah/volume, kubus padat, model gas, enam panah wujud,
+waktu es, gelas dingin dengan titik luar, waktu pengeringan, catatan kamper,
+pelarutan versus pencairan, serta penimbangan kantong tertutup. Gambar terakhir
+tidak mengajarkan volume es sama dengan air: angka menyatakan massa total.
+Pengamatan kimia/panas menggunakan data/guru tanpa mencicipi/menghirup bahan.
+
+Pemeriksaan Bab 8: 70 ID lama tetap, 70 butir berubah, stem unik; 12 SVG lolos
+XML, render 390 piksel, batas teks dan tinjauan visual setelah penyempurnaan
+ilustrasi. Dua ekspresi satuan unik dirender MathJax 3 tanpa kesalahan;
+backslash/delimiter diperiksa agar tidak menjadi tab atau double escape.
+
+**Ringkasan IPAS:** delapan bab/560 soal diperiksa secara isi; 546 berubah,
+14 dipertahankan setelah pemeriksaan ulang. Terdapat 16 modul dengan ID unik;
+semua rujukan ilustrasi modul tersedia, 96 SVG valid XML. Tidak ada badan soal
+lengkap identik pada 560 butir. Pemeriksaan tersebut mendukung audit isi,
+bukan pengganti penilaian semantik. Kebutuhan pengujian empiris pada siswa
+belum dipenuhi dan tidak diklaim sudah dilakukan. Tidak ada JSON/rilis aplikasi.
+
 ## Pemeriksaan
 
 `python scripts/check-k03-question-sources.py` memeriksa paket kanonis lima
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–7
+Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar delapan bab IPAS
 belum memperoleh pemeriksaan isi putaran ini. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
@@ -244,9 +280,10 @@ Pemeriksaan ini bukan uji coba kepada siswa atau pengukuran kesulitan empiris.
 
 ## Posisi lanjut yang tepat
 
-Lanjut **IPAS Bab 8, nomor 001–070**, dua modul, dan 12 SVG.
-Sesudah IPAS, lanjut PAI, ENG, PJOK, dan Seni Rupa. Pertahankan pemeriksaan
-buku revisi 2025 dan larangan konversi JSON.
+Lanjut **PAI Bab 1, nomor 001–030**, kedua modul dan rujukan resmi ayat/tajwid,
+lalu Bab 2–10. Baca kondisi terbaru karena beberapa revisi terdahulu belum
+otomatis lulus. Pertahankan 30 soal/bab dan ID K03. Kemudian lanjut ENG,
+PJOK, dan Seni Rupa sesuai urutan. Dilarang konversi JSON pada tahap ini.
 
 Dilarang menyimpulkan keseluruhan selesai dari checkpoint ini. Jangan membuat
 JSON, mengaktifkan draft pada aplikasi, atau mengubah BIN, MTK, dan PKN.

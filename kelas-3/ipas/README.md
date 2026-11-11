@@ -18,9 +18,12 @@ Acuan: Buku Siswa IPAS SD/MI Kelas III **Edisi Revisi 2025**, Kemendikdasmen (Al
 - ID: `K03-IPAS-B01-MOD-01`, `K03-IPAS-B01-M01-001` dan seterusnya; ID unik lintas bab.
 - Audit kebenaran akademik, ketunggalan jawaban, kecocokan gambar dan penjelasan sebelum status selesai.
 
-**Status:** Sumber delapan bab tersedia (560 soal). Putaran revisi menyeluruh
-sudah memeriksa isi dan media Bab 1–7 (490 soal; 476 berubah). Bab 8
-belum diperiksa ulang. Seluruh SVG Bab 4–7 lolos XML, rendering lebar HP,
-batas teks dan peninjauan visual. Ekspresi MathJax Bab 5–6 juga diuji render.
-Status keseluruhan **BELUM SELESAI**; jangan mengonversi JSON atau menganggap
-bank siap rilis. Lihat [laporan progres](../PROGRES-REVISI-1945.md).
+**Status putaran revisi isi dan media:** Delapan bab/560 soal diperiksa ulang;
+546 butir diubah dan 14 dipertahankan sesudah diperiksa. Seluruh 16 modul
+memakai ID unik, semua rujukan ilustrasi tersedia, 96 SVG valid XML.
+Setiap bab diuji render lebar 390 piksel, batas teks, dan ditinjau visual;
+notasi matematika baru Bab 5, 6, 8 juga diuji MathJax.
+
+Putaran IPAS selesai; keseluruhan lima mapel **BELUM SELESAI**. Belum ada uji
+kesulitan empiris siswa, konversi JSON, atau aktivasi paket aplikasi. Lanjut PAI
+sesuai [laporan progres](../PROGRES-REVISI-1945.md).

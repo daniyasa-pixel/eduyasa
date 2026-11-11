@@ -6,7 +6,7 @@
 
 | Mapel | Bab | Soal | Temuan yang terverifikasi | Revisi selesai | Sisa pekerjaan |
 |---|---:|---:|---|---|---|
-| IPAS | 8 | 560 | Soal teks menggunakan tiga pola dominan; pembahasan formulaik; pilihan jawaban gambar ada yang tidak relevan | Redaksi dan pembahasan soal teks 8 bab diperbarui tahap pertama | Tulis ulang substantif 560 butir, distraktor, audit konsep, gambar dan pembahasan |
+| IPAS | 8 | 560 | Pola berulang, opsi ambigu, gambar membocorkan definisi, penyederhanaan konsep diperbaiki | 560 diperiksa; 546 diubah; 16 modul dan media delapan bab diselaraskan | Putaran isi/media selesai; belum konversi atau uji siswa |
 | ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Belum | Variasi kompetensi bahasa, stimulus gambar, audio TTS dan uji WebView |
 | PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID soal dan modul 10 bab sudah diperbaiki | Tulis ulang duplikasi, audit ayat/hadis/tajwid, ketepatan materi dan pembahasan |
 | PJOK | 8 | 360 | Soal berulang; ilustrasi hanya simbol; berkas soal lama dengan ID lain masih ada | Belum | Revisi teknik gerak dan keselamatan, ilustrasi, pilih bank resmi, modul belum ada |
@@ -109,3 +109,16 @@ diperiksa. Semua SVG lolos XML, render 390 piksel, batas teks dan peninjauan
 visual setelah koreksi ikon. Validator: 1.945 soal, 0 kesalahan struktur.
 Kumulatif 490 diperiksa, 476 diubah; sisa 1.455 soal/34 bab.
 Status **BELUM SELESAI**, titik lanjut IPAS Bab 8.
+
+### Kelanjutan: IPAS Bab 8 — putaran IPAS selesai
+
+70 soal dan kedua modul ditulis ulang; ID/jumlah tetap; 12 SVG diganti dan
+lolos XML, render 390 piksel, batas teks serta tinjauan visual. Dua ekspresi
+satuan sumber berhasil dirender MathJax. Koreksi membedakan uap/tetes cair,
+massa/volume, perubahan wujud/pelarutan, partikel bergetar, dan perilaku oobleck.
+
+IPAS 560/560 diperiksa, 546 berubah. Semua 16 ID modul unik, path ilustrasi
+tersedia, 96 SVG valid XML; tidak ada badan soal lengkap identik dalam 560
+butir. Validator kanonis lima mapel: 1.945 soal, 0 kesalahan struktur.
+Keseluruhan tetap **BELUM SELESAI**: PAI, ENG, PJOK, Seni Rupa masih 1.385
+soal/33 bab. Titik lanjut PAI Bab 1, tanpa konversi JSON atau aktivasi aplikasi.
