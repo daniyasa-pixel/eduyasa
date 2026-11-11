@@ -41,3 +41,9 @@ Lihat [PROGRES-REVISI-1945.md](PROGRES-REVISI-1945.md): IPAS Bab 1 seluruh
 70 butir diperiksa ulang, 56 diubah, sepuluh stimulus gambar diganti, dua modul
 dilengkapi. **Keseluruhan tetap BELUM SELESAI**; 1.875 soal pada 40 bab/unit
 belum diaudit ulang. Tidak ada konversi JSON pada tahap ini.
+
+### Kelanjutan: IPAS Bab 2
+
+Seluruh 70 butir Bab 2 diperiksa ulang dan direvisi; dua modul serta 12 SVG
+diselaraskan. Kumulatif putaran ini 140 diperiksa, 126 diubah. Sisa 1.805 soal
+pada 39 bab/unit; status keseluruhan **BELUM SELESAI**. Titik lanjut Bab 3.

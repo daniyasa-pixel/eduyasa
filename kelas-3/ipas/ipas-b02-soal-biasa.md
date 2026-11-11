@@ -2,800 +2,800 @@
 
 ## Soal 1 — K03-IPAS-B02-M01-001
 
-**Pertanyaan:** Sari ingin mengetahui permainan yang populer saat neneknya kecil. Cara memperoleh informasi langsung adalah ....
+**Pertanyaan:** Dina ingin mengetahui permainan yang pernah dimainkan bibinya saat kecil. Sumber langsung yang sesuai ialah ...
 
 **Pilihan jawaban:**
-- Mewawancarai nenek
-- Menebak sendiri
-- Melihat ramalan cuaca
-- Menghitung jumlah kursi
+- Bibi yang mengalami masa itu
+- Dina yang menebak dari mainannya sendiri
+- Teman yang belum pernah bertemu bibi
+- Penonton yang hanya membaca judul cerita
 
-**Kunci Jawaban:** Mewawancarai nenek
+**Kunci Jawaban:** Bibi yang mengalami masa itu
 
-**Pembahasan:** Nenek mengalami masa tersebut sehingga wawancara dapat memberikan kesaksian langsung tentang permainan dahulu.
+**Pembahasan:** Orang yang mengalami peristiwa dapat memberi kesaksian langsung, meskipun keterangannya tetap dapat dibandingkan dengan sumber lain.
 
 ---
 
 ## Soal 2 — K03-IPAS-B02-M01-002
 
-**Pertanyaan:** Dalam wawancara sejarah keluarga, orang yang menjawab pertanyaan disebut ....
+**Pertanyaan:** Dalam wawancara, orang yang memberikan keterangan berdasarkan pengetahuannya disebut ...
 
 **Pilihan jawaban:**
-- Penonton
+- Pewawancara
 - Narasumber
-- Pembaca papan tulis
-- Penjaga waktu
+- Penyunting
+- Penonton
 
 **Kunci Jawaban:** Narasumber
 
-**Pembahasan:** Narasumber adalah orang yang memberikan keterangan berdasarkan pengetahuan atau pengalamannya.
+**Pembahasan:** Narasumber menyampaikan informasi; pewawancara mengajukan pertanyaan, sedangkan penyunting merapikan hasil tulisan.
 
 ---
 
 ## Soal 3 — K03-IPAS-B02-M01-003
 
-**Pertanyaan:** Kelas ingin menyimpan bukti kegiatan kunjungan museum. Pilihan dokumentasi yang tepat adalah ....
+**Pertanyaan:** Sebelum merekam cerita seorang tetangga, apa yang perlu dilakukan?
 
 **Pilihan jawaban:**
-- Menghapus catatan
-- Mengingat tanpa menulis
-- Membuat catatan dan foto dengan izin
-- Membuang tiket kunjungan
+- Menyalakan perekam diam-diam agar ceritanya alami
+- Mengirim rekaman ke semua teman sebelum bertanya
+- Menjelaskan tujuan dan meminta izin merekam
+- Mengubah jawaban agar sesuai perkiraan sendiri
 
-**Kunci Jawaban:** Membuat catatan dan foto dengan izin
+**Kunci Jawaban:** Menjelaskan tujuan dan meminta izin merekam
 
-**Pembahasan:** Catatan dan foto yang diambil dengan izin membantu merekam informasi agar dapat dipelajari kembali.
+**Pembahasan:** Izin menghormati narasumber dan memastikan ia mengetahui penggunaan rekamannya.
 
 ---
 
 ## Soal 4 — K03-IPAS-B02-M01-004
 
-**Pertanyaan:** Dahulu ayah pergi ke sekolah dengan berjalan kaki, sekarang naik sepeda. Cerita itu menunjukkan ....
+**Pertanyaan:** Dalam cerita keluarga, dulu Paman berjalan kaki ke sekolah dan kini bersepeda ke tempat kerja. Perubahan yang jelas disebut ialah ...
 
 **Pilihan jawaban:**
-- Tidak ada perubahan
-- Semua orang memakai sepeda
-- Sekolah berpindah setiap hari
-- Perubahan cara berangkat sekolah
+- Semua jalan di daerah itu
+- Cara semua keluarga bekerja
+- Tempat sekolah seluruh warga
+- Cara bepergian Paman
 
-**Kunci Jawaban:** Perubahan cara berangkat sekolah
+**Kunci Jawaban:** Cara bepergian Paman
 
-**Pembahasan:** Perbandingan kegiatan dahulu dan sekarang memperlihatkan perubahan cara bepergian.
+**Pembahasan:** Cerita menyebut perubahan kegiatan satu orang; tidak menyediakan bukti tentang semua warga atau semua jalan.
 
 ---
 
 ## Soal 5 — K03-IPAS-B02-M01-005
 
-**Pertanyaan:** Manakah pasangan yang menunjukkan perkembangan alat transportasi?
+**Pertanyaan:** Bus dan sepeda sama-sama dapat digunakan untuk ...
 
 **Pilihan jawaban:**
-- Delman dan bus listrik
-- Pensil dan penghapus
-- Piring dan sendok
-- Buku dan penggaris
+- Memindahkan orang dari satu tempat ke tempat lain
+- Merekam percakapan keluarga
+- Menunjukkan hari dalam satu bulan
+- Menyimpan foto dalam album
 
-**Kunci Jawaban:** Delman dan bus listrik
+**Kunci Jawaban:** Memindahkan orang dari satu tempat ke tempat lain
 
-**Pembahasan:** Delman dan bus listrik adalah sarana transportasi dari teknologi yang berbeda.
+**Pembahasan:** Keduanya sarana transportasi meskipun bentuk, sumber tenaga, dan kapasitasnya berbeda.
 
 ---
 
 ## Soal 6 — K03-IPAS-B02-M01-006
 
-**Pertanyaan:** Kakek dahulu mengirim surat yang tiba beberapa hari kemudian. Kini keluarga dapat bertukar kabar lewat panggilan video. Perbedaan utamanya adalah ....
+**Pertanyaan:** Keluarga dahulu bertukar kabar melalui surat, kini kadang memakai panggilan video. Fungsi yang tetap sama ialah ...
 
 **Pilihan jawaban:**
-- Warna kertas
-- Kecepatan dan cara komunikasi
-- Jumlah anggota keluarga
-- Nama pengirim
+- Mengangkut barang antarkota
+- Menyampaikan kabar kepada orang lain
+- Menggantikan semua pertemuan keluarga
+- Menentukan umur setiap anggota keluarga
 
-**Kunci Jawaban:** Kecepatan dan cara komunikasi
+**Kunci Jawaban:** Menyampaikan kabar kepada orang lain
 
-**Pembahasan:** Teknologi memungkinkan pesan dan gambar diterima lebih cepat melalui jaringan komunikasi.
+**Pembahasan:** Alat dan cara komunikasi dapat berubah, sementara tujuannya tetap saling menyampaikan informasi.
 
 ---
 
 ## Soal 7 — K03-IPAS-B02-M01-007
 
-**Pertanyaan:** Lani masih mengingat hari pertama masuk sekolah. Pengalaman yang tersimpan dalam ingatan disebut ....
+**Pertanyaan:** Nina mengingat pengalaman menyenangkan saat pertama kali berkunjung ke museum. Itu merupakan ...
 
 **Pilihan jawaban:**
-- Rencana
-- Ramalan
-- Kenangan
-- Jadwal
+- Rencana yang belum dilakukan
+- Jadwal kunjungan besok
+- Kenangan tentang masa lalu
+- Prediksi tentang tahun depan
 
-**Kunci Jawaban:** Kenangan
+**Kunci Jawaban:** Kenangan tentang masa lalu
 
-**Pembahasan:** Kenangan adalah pengalaman masa lalu yang masih diingat.
+**Pembahasan:** Kenangan merujuk pada pengalaman yang sudah terjadi dan masih diingat, bukan kegiatan yang baru direncanakan.
 
 ---
 
 ## Soal 8 — K03-IPAS-B02-M01-008
 
-**Pertanyaan:** Perhatikan peristiwa: lahir, masuk TK, masuk SD. Urutan kronologis yang benar adalah ....
+**Pertanyaan:** Catatan Nara menyebut lahir, lalu masuk TK, kemudian masuk SD. Bagaimana urutan catatan itu ditulis pada garis waktu?
 
 **Pilihan jawaban:**
-- Masuk SD–lahir–masuk TK
-- Masuk TK–masuk SD–lahir
-- Masuk SD–masuk TK–lahir
-- Lahir–masuk TK–masuk SD
+- SD → lahir → TK
+- TK → SD → lahir
+- SD → TK → lahir
+- Lahir → TK → SD
 
-**Kunci Jawaban:** Lahir–masuk TK–masuk SD
+**Kunci Jawaban:** Lahir → TK → SD
 
-**Pembahasan:** Urutan kronologis menempatkan peristiwa berdasarkan waktu terjadinya dari paling awal ke paling akhir.
+**Pembahasan:** Untuk riwayat Nara yang diberikan, kelahiran terjadi sebelum ia masuk TK dan SD; tidak berarti semua anak mempunyai riwayat sekolah yang sama.
 
 ---
 
 ## Soal 9 — K03-IPAS-B02-M01-009
 
-**Pertanyaan:** Kelas akan mengadakan pameran minggu depan. Agar kegiatan teratur, siswa perlu ....
+**Pertanyaan:** Kelas akan mewawancarai penjaga sekolah pekan depan. Persiapan yang paling membantu ialah ...
 
 **Pilihan jawaban:**
-- Menyusun rencana tugas dan waktu
-- Menunggu tanpa persiapan
-- Membuang daftar kegiatan
-- Mengubah semua tugas saat acara dimulai
+- Membagi tugas dan menyiapkan pertanyaan
+- Menulis jawaban sebelum wawancara
+- Memilih kesimpulan sebelum mendengar cerita
+- Menyimpan semua pertanyaan sampai kegiatan selesai
 
-**Kunci Jawaban:** Menyusun rencana tugas dan waktu
+**Kunci Jawaban:** Membagi tugas dan menyiapkan pertanyaan
 
-**Pembahasan:** Rencana membantu membagi tugas, menyiapkan perlengkapan, dan menentukan waktu pelaksanaan.
+**Pembahasan:** Pembagian tugas dan pertanyaan membantu wawancara terarah; jawaban harus diperoleh dari sumber, bukan dikarang sebelumnya.
 
 ---
 
 ## Soal 10 — K03-IPAS-B02-M01-010
 
-**Pertanyaan:** Di rumah ada foto keluarga lama. Cara merawat peninggalan itu adalah ....
+**Pertanyaan:** Sebuah foto keluarga lama disimpan dalam album. Cara merawatnya yang sesuai ialah ...
 
 **Pilihan jawaban:**
-- Melipat dan merobeknya
-- Menyimpannya di tempat aman dan kering
-- Mencoret wajah orang di foto
-- Membiarkannya terkena hujan
+- Menempelkan foto di tempat terkena hujan
+- Menaruh album di tempat kering dan mengambilnya dengan hati-hati
+- Melipat foto agar mudah masuk saku
+- Menggosok permukaan foto dengan benda kasar
 
-**Kunci Jawaban:** Menyimpannya di tempat aman dan kering
+**Kunci Jawaban:** Menaruh album di tempat kering dan mengambilnya dengan hati-hati
 
-**Pembahasan:** Foto lama merupakan sumber informasi keluarga sehingga perlu disimpan agar tidak rusak.
+**Pembahasan:** Tempat kering dan penanganan hati-hati membantu menjaga foto sebagai sumber cerita keluarga.
 
 ---
 
 ## Soal 11 — K03-IPAS-B02-M01-011
 
-**Pertanyaan:** Guru meminta siswa memilih tiga perubahan di lingkungan sekolah. Langkah awal yang tepat ialah ....
+**Pertanyaan:** Lila hendak membandingkan lingkungan sekolah dahulu dan sekarang. Pasangan sumber paling berguna ialah ...
 
 **Pilihan jawaban:**
-- Menyalin jawaban teman
-- Menebak perubahan tanpa melihat
-- Mengamati keadaan sekolah dan mencatat temuan
-- Mengabaikan keadaan sekitar
+- Dua foto baru dari kota yang berbeda
+- Daftar harga makanan hari ini
+- Foto lama dan foto baru dari lokasi yang sama
+- Foto lama tanpa keterangan tempat dan foto acak
 
-**Kunci Jawaban:** Mengamati keadaan sekolah dan mencatat temuan
+**Kunci Jawaban:** Foto lama dan foto baru dari lokasi yang sama
 
-**Pembahasan:** Pengamatan langsung dan catatan membantu menemukan perubahan yang benar-benar terjadi.
+**Pembahasan:** Lokasi yang sama membantu menilai perubahan, sedangkan lokasi berbeda dapat menunjukkan perbedaan tempat saja.
 
 ---
 
 ## Soal 12 — K03-IPAS-B02-M01-012
 
-**Pertanyaan:** Peristiwa yang sudah terjadi, seperti ulang tahun tahun lalu, termasuk ....
+**Pertanyaan:** Kemarin kelas mengunjungi museum. Dilihat dari hari ini, kunjungan itu termasuk ...
 
 **Pilihan jawaban:**
-- Masa depan
-- Besok
 - Masa kini
+- Masa depan
+- Rencana yang belum dimulai
 - Masa lalu
 
 **Kunci Jawaban:** Masa lalu
 
-**Pembahasan:** Masa lalu mencakup kejadian yang waktunya sudah terlewati.
+**Pembahasan:** Kegiatan kemarin sudah berlangsung sehingga termasuk masa lalu meskipun belum lama terjadi.
 
 ---
 
 ## Soal 13 — K03-IPAS-B02-M01-013
 
-**Pertanyaan:** Saat ini Budi sedang membaca di perpustakaan. Kegiatan itu termasuk ....
+**Pertanyaan:** Sari sedang menulis laporan sekarang. Bagian kalimat mana yang menunjukkan masa kini?
 
 **Pilihan jawaban:**
-- Masa kini
-- Masa lalu
-- Masa depan
-- Zaman prasejarah
+- Sedang menulis sekarang
+- Akan mengunjungi besok
+- Pernah berkunjung dahulu
+- Sudah selesai kemarin
 
-**Kunci Jawaban:** Masa kini
+**Kunci Jawaban:** Sedang menulis sekarang
 
-**Pembahasan:** Kegiatan yang berlangsung sekarang berada pada masa kini.
+**Pembahasan:** Kata sedang dan sekarang menunjukkan kegiatan yang berlangsung pada saat ini.
 
 ---
 
 ## Soal 14 — K03-IPAS-B02-M01-014
 
-**Pertanyaan:** Besok kelas akan menanam pohon. Kata 'besok' menunjukkan ....
+**Pertanyaan:** Keluarga berencana berkunjung akhir pekan depan. Pernyataan yang tepat ialah ...
 
 **Pilihan jawaban:**
-- Kemarin
-- Masa depan
-- Masa lalu
-- Tahun lalu
+- Kunjungan pasti sudah selesai
+- Kunjungan itu masih direncanakan untuk masa depan
+- Semua rencana pasti terlaksana tanpa perubahan
+- Kunjungan merupakan bukti kegiatan masa lalu
 
-**Kunci Jawaban:** Masa depan
+**Kunci Jawaban:** Kunjungan itu masih direncanakan untuk masa depan
 
-**Pembahasan:** Masa depan adalah waktu yang belum terjadi, termasuk kegiatan yang direncanakan besok.
+**Pembahasan:** Rencana menyangkut waktu yang belum terjadi dan dapat disesuaikan bila keadaan berubah.
 
 ---
 
 ## Soal 15 — K03-IPAS-B02-M01-015
 
-**Pertanyaan:** Untuk mengetahui kapan gedung sekolah dibangun, sumber yang lebih dapat diperiksa adalah ....
+**Pertanyaan:** Untuk memeriksa tahun pembangunan gedung sekolah, sumber yang paling sesuai ialah ...
 
 **Pilihan jawaban:**
-- Tebakan teman
-- Cerita tanpa sumber
-- Arsip sekolah dan keterangan pihak yang mengetahui
-- Warna pagar sekolah
+- Warna cat gedung saat ini
+- Jumlah tanaman di halaman
+- Catatan pembangunan sekolah dan keterangan pihak yang mengetahuinya
+- Nama makanan yang dijual di kantin
 
-**Kunci Jawaban:** Arsip sekolah dan keterangan pihak yang mengetahui
+**Kunci Jawaban:** Catatan pembangunan sekolah dan keterangan pihak yang mengetahuinya
 
-**Pembahasan:** Arsip dan keterangan narasumber dapat digunakan untuk memeriksa informasi sejarah sekolah.
+**Pembahasan:** Catatan dan keterangan yang terkait pembangunan dapat diperiksa; warna atau jumlah tanaman tidak membuktikan tahun pembangunan.
 
 ---
 
 ## Soal 16 — K03-IPAS-B02-M01-016
 
-**Pertanyaan:** Rina membandingkan foto jalan desa tahun 2000 dengan foto sekarang. Hal yang dapat diamati dari kedua foto ialah ....
+**Pertanyaan:** Dua foto jalan diambil pada tahun berbeda. Informasi mana dapat dibandingkan dari foto saja?
 
 **Pilihan jawaban:**
-- Suara kendaraan
-- Bau makanan
-- Suhu udara saat foto diambil
-- Perubahan bangunan dan kondisi jalan yang terlihat
+- Bau makanan saat foto diambil
+- Suara kendaraan ketika itu
+- Perasaan semua warga yang lewat
+- Bangunan dan permukaan jalan yang terlihat
 
-**Kunci Jawaban:** Perubahan bangunan dan kondisi jalan yang terlihat
+**Kunci Jawaban:** Bangunan dan permukaan jalan yang terlihat
 
-**Pembahasan:** Foto memperlihatkan unsur visual seperti bangunan dan kondisi jalan, tetapi tidak langsung merekam suara atau bau.
+**Pembahasan:** Foto memberikan informasi visual, tetapi tidak langsung merekam bau, suara, atau perasaan semua orang.
 
 ---
 
 ## Soal 17 — K03-IPAS-B02-M01-017
 
-**Pertanyaan:** Saat mewawancarai tetangga yang lebih tua, pertanyaan yang baik adalah ....
+**Pertanyaan:** Pertanyaan mana mengundang cerita tentang perubahan kebiasaan warga?
 
 **Pilihan jawaban:**
-- Bagaimana keadaan pasar di desa ini ketika Bapak/Ibu kecil?
-- Kenapa jawaban Bapak/Ibu pasti salah?
-- Apakah semua orang harus setuju dengan saya?
-- Mengapa tidak mau menjawab pertanyaan yang belum saya ajukan?
+- Bagaimana warga mengadakan kerja bakti ketika Ibu masih kecil?
+- Apakah jawaban Ibu harus sama dengan perkiraan saya?
+- Mengapa semua alat lama pasti buruk?
+- Ibu setuju bahwa semua keluarga selalu sama, bukan?
 
-**Kunci Jawaban:** Bagaimana keadaan pasar di desa ini ketika Bapak/Ibu kecil?
+**Kunci Jawaban:** Bagaimana warga mengadakan kerja bakti ketika Ibu masih kecil?
 
-**Pembahasan:** Pertanyaan terbuka dan sopan mendorong narasumber menceritakan pengalaman dengan lebih lengkap.
+**Pembahasan:** Pertanyaan pertama terbuka dan terkait pengalaman; pilihan lain memaksa jawaban atau mengandung anggapan yang belum terbukti.
 
 ---
 
 ## Soal 18 — K03-IPAS-B02-M01-018
 
-**Pertanyaan:** Dua orang mengingat tanggal peristiwa berbeda. Cara yang lebih teliti adalah ....
+**Pertanyaan:** Dua narasumber mengingat tahun peristiwa secara berbeda. Tindakan paling teliti ialah ...
 
 **Pilihan jawaban:**
-- Memilih cerita yang paling lucu
-- Membandingkan dengan dokumen atau sumber lain
-- Menganggap keduanya berbohong
-- Menghapus semua catatan
+- Memilih narasumber yang berbicara paling keras
+- Membandingkan keterangannya dengan catatan lain
+- Menganggap keduanya sengaja berbohong
+- Mengganti salah satu jawaban tanpa memberi tahu
 
-**Kunci Jawaban:** Membandingkan dengan dokumen atau sumber lain
+**Kunci Jawaban:** Membandingkan keterangannya dengan catatan lain
 
-**Pembahasan:** Membandingkan sumber membantu memeriksa informasi ketika ingatan narasumber berbeda.
+**Pembahasan:** Ingatan dapat berbeda; dokumen atau sumber tambahan membantu memeriksa waktunya tanpa langsung menuduh.
 
 ---
 
 ## Soal 19 — K03-IPAS-B02-M01-019
 
-**Pertanyaan:** Ayah menunjukkan kalender untuk menentukan hari kunjungan bulan depan. Kalender terutama membantu mengetahui ....
+**Pertanyaan:** Kalender digunakan untuk merencanakan kunjungan. Informasi utama yang diberikannya ialah ...
 
 **Pilihan jawaban:**
-- Rasa makanan
-- Arah angin
-- Tanggal dan urutan hari
-- Berat tas sekolah
+- Nama semua peserta kunjungan
+- Tujuan setiap keluarga bepergian
+- Hubungan hari dan tanggal
+- Cerita lengkap peristiwa di museum
 
-**Kunci Jawaban:** Tanggal dan urutan hari
+**Kunci Jawaban:** Hubungan hari dan tanggal
 
-**Pembahasan:** Kalender menyajikan hari, tanggal, dan bulan sehingga memudahkan perencanaan waktu.
+**Pembahasan:** Kalender menunjukkan penanggalan; nama peserta dan cerita kegiatan perlu dicatat pada sumber lain.
 
 ---
 
 ## Soal 20 — K03-IPAS-B02-M01-020
 
-**Pertanyaan:** Keluarga menemukan surat lama yang rapuh. Tindakan yang paling tepat adalah ....
+**Pertanyaan:** Surat lama mudah robek. Apa yang sebaiknya dilakukan anak saat ingin membacanya?
 
 **Pilihan jawaban:**
-- Menarik kertas kuat-kuat
-- Mencuci dengan sabun
-- Menempelkan di luar rumah
-- Memegang hati-hati dan meminta orang dewasa membantu menyimpannya
+- Menarik lipatan surat dengan kuat
+- Mencuci tulisan agar tampak baru
+- Membuang bagian yang sulit dibaca
+- Meminta orang dewasa membantu membuka dan menyimpannya
 
-**Kunci Jawaban:** Memegang hati-hati dan meminta orang dewasa membantu menyimpannya
+**Kunci Jawaban:** Meminta orang dewasa membantu membuka dan menyimpannya
 
-**Pembahasan:** Kertas tua mudah rusak. Penanganan hati-hati membantu menjaga peninggalan keluarga.
+**Pembahasan:** Bantuan dan penanganan hati-hati menjaga surat agar tidak semakin rusak serta tetap dapat dipelajari.
 
 ---
 
 ## Soal 21 — K03-IPAS-B02-M01-021
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Wawancara**?
+**Pertanyaan:** Saat wawancara, narasumber belum selesai berbicara. Apa sikap yang membantu memperoleh cerita utuh?
 
 **Pilihan jawaban:**
-- cara menggali cerita narasumber
-- perbedaan keadaan dari waktu ke waktu
-- pengalaman yang diingat
-- membantu menjaga sejarah
+- Mendengarkan hingga selesai lalu bertanya
+- Memotong setiap kalimat untuk menebak jawabannya
+- Mengganti ceritanya dengan pengalaman sendiri
+- Meminta ia hanya menyebut hal yang kita sukai
 
-**Kunci Jawaban:** cara menggali cerita narasumber
+**Kunci Jawaban:** Mendengarkan hingga selesai lalu bertanya
 
-**Pembahasan:** Wawancara: cara menggali cerita narasumber.
+**Pembahasan:** Mendengarkan memberi kesempatan sumber menjelaskan urutan dan maksud cerita sebelum pertanyaan lanjutan diajukan.
 
 ---
 
 ## Soal 22 — K03-IPAS-B02-M01-022
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Narasumber**?
+**Pertanyaan:** Narasumber menyebut kata yang belum dipahami. Tanggapan yang tepat ialah ...
 
 **Pilihan jawaban:**
-- dapat berkembang dari masa ke masa
-- orang yang memberikan informasi
-- menempatkan kejadian menurut waktu
-- Pilih tiga hal yang kamu temukan hari ini
+- Menuliskan arti tebakan sebagai fakta
+- Meminta penjelasan arti kata dengan sopan
+- Menghapus seluruh wawancara
+- Menganggap kata itu tidak penting sebelum memahaminya
 
-**Kunci Jawaban:** orang yang memberikan informasi
+**Kunci Jawaban:** Meminta penjelasan arti kata dengan sopan
 
-**Pembahasan:** Narasumber: orang yang memberikan informasi.
+**Pembahasan:** Pertanyaan lanjutan membantu memastikan catatan sesuai maksud narasumber dan menghindari salah tafsir.
 
 ---
 
 ## Soal 23 — K03-IPAS-B02-M01-023
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Dokumentasi**?
+**Pertanyaan:** Apa yang sebaiknya dicatat bersama cerita wawancara?
 
 **Pilihan jawaban:**
-- dapat berubah karena teknologi
-- persiapan kegiatan yang akan datang
-- catatan atau bukti kegiatan
-- peristiwa yang sudah terjadi
+- Hanya nama pewawancara tanpa isi cerita
+- Kesimpulan yang dibuat sebelum wawancara
+- Siapa sumbernya dan kapan wawancara dilakukan
+- Pendapat teman yang tidak hadir saja
 
-**Kunci Jawaban:** catatan atau bukti kegiatan
+**Kunci Jawaban:** Siapa sumbernya dan kapan wawancara dilakukan
 
-**Pembahasan:** Dokumentasi: catatan atau bukti kegiatan.
+**Pembahasan:** Identitas sumber yang relevan dan waktu wawancara membantu menelusuri asal informasi; bukan berarti semua data pribadi perlu disebarkan.
 
 ---
 
 ## Soal 24 — K03-IPAS-B02-M01-024
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Perubahan**?
+**Pertanyaan:** Dua foto memperlihatkan pasar yang sama. Foto lama menunjukkan atap daun, foto baru atap genting. Kesimpulan yang didukung ialah ...
 
 **Pilihan jawaban:**
-- pengalaman yang diingat
-- membantu menjaga sejarah
-- waktu yang sedang berlangsung
-- perbedaan keadaan dari waktu ke waktu
+- Semua pedagang lama telah pindah
+- Harga semua barang pasti naik
+- Tidak ada lagi kegiatan jual beli
+- Bahan atap yang tampak berbeda
 
-**Kunci Jawaban:** perbedaan keadaan dari waktu ke waktu
+**Kunci Jawaban:** Bahan atap yang tampak berbeda
 
-**Pembahasan:** Perubahan: perbedaan keadaan dari waktu ke waktu.
+**Pembahasan:** Perubahan bahan atap terlihat pada foto; perpindahan pedagang dan harga memerlukan informasi lain.
 
 ---
 
 ## Soal 25 — K03-IPAS-B02-M01-025
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Transportasi**?
+**Pertanyaan:** Apakah keberadaan delman dan bus dalam satu daerah berarti delman pasti tidak dipakai lagi?
 
 **Pilihan jawaban:**
-- dapat berkembang dari masa ke masa
-- menempatkan kejadian menurut waktu
-- Pilih tiga hal yang kamu temukan hari ini
-- waktu yang belum terjadi
+- Tidak, alat lama dan baru dapat digunakan bersamaan
+- Ya, setiap alat baru langsung menghapus semua alat lama
+- Ya, semua warga selalu memilih alat yang sama
+- Ya, usia alat menentukan satu-satunya pilihan warga
 
-**Kunci Jawaban:** dapat berkembang dari masa ke masa
+**Kunci Jawaban:** Tidak, alat lama dan baru dapat digunakan bersamaan
 
-**Pembahasan:** Transportasi: dapat berkembang dari masa ke masa.
+**Pembahasan:** Perubahan tidak selalu menggantikan seluruh kebiasaan; penggunaan alat bergantung kebutuhan dan keadaan daerah.
 
 ---
 
 ## Soal 26 — K03-IPAS-B02-M01-026
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Komunikasi**?
+**Pertanyaan:** Surat dan panggilan video mempunyai perbedaan. Mana yang memerlukan jaringan agar percakapan video jarak jauh berlangsung?
 
 **Pilihan jawaban:**
-- persiapan kegiatan yang akan datang
-- dapat berubah karena teknologi
-- peristiwa yang sudah terjadi
-- membantu mengenang peristiwa
+- Surat tulisan tangan yang dikirim biasa
+- Panggilan video
+- Foto cetak yang disimpan di album
+- Kartu ucapan yang diberikan langsung
 
-**Kunci Jawaban:** dapat berubah karena teknologi
+**Kunci Jawaban:** Panggilan video
 
-**Pembahasan:** Komunikasi: dapat berubah karena teknologi.
+**Pembahasan:** Panggilan video melalui internet membutuhkan jaringan; benda cetak yang dibaca langsung tidak memerlukan koneksi internet.
 
 ---
 
 ## Soal 27 — K03-IPAS-B02-M01-027
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Kenangan**?
+**Pertanyaan:** Mengapa ingatan seseorang sebaiknya tidak menjadi satu-satunya sumber tanggal peristiwa lama?
 
 **Pilihan jawaban:**
-- membantu menjaga sejarah
-- waktu yang sedang berlangsung
-- pengalaman yang diingat
-- menjadi sumber kisah masa lalu
+- Semua cerita lisan pasti dibuat-buat
+- Dokumen selalu bebas dari kesalahan
+- Orang dapat mengingat pengalaman tetapi keliru pada tanggalnya
+- Orang yang lebih tua tidak boleh diwawancarai
 
-**Kunci Jawaban:** pengalaman yang diingat
+**Kunci Jawaban:** Orang dapat mengingat pengalaman tetapi keliru pada tanggalnya
 
-**Pembahasan:** Kenangan: pengalaman yang diingat.
+**Pembahasan:** Ingatan tetap berguna, tetapi tanggalnya dapat diperiksa melalui sumber tambahan; dokumen juga perlu diperhatikan asalnya.
 
 ---
 
 ## Soal 28 — K03-IPAS-B02-M01-028
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Urutan kronologis**?
+**Pertanyaan:** Garis waktu membantu pembaca memahami ...
 
 **Pilihan jawaban:**
-- Pilih tiga hal yang kamu temukan hari ini
-- waktu yang belum terjadi
-- menunjukkan urutan peristiwa
-- menempatkan kejadian menurut waktu
+- Tempat semua bangunan tanpa keterangan
+- Pendapat yang paling disukai penulis
+- Tinggi badan semua pelaku cerita
+- Peristiwa mana terjadi lebih awal atau lebih akhir
 
-**Kunci Jawaban:** menempatkan kejadian menurut waktu
+**Kunci Jawaban:** Peristiwa mana terjadi lebih awal atau lebih akhir
 
-**Pembahasan:** Urutan kronologis: menempatkan kejadian menurut waktu.
+**Pembahasan:** Penempatan menurut waktu memperlihatkan urutan peristiwa; informasi tempat atau ciri tubuh tidak otomatis diketahui.
 
 ---
 
 ## Soal 29 — K03-IPAS-B02-M01-029
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Rencana**?
+**Pertanyaan:** Apa perbedaan rencana kunjungan dengan laporan kunjungan yang sudah terjadi?
 
 **Pilihan jawaban:**
-- persiapan kegiatan yang akan datang
-- peristiwa yang sudah terjadi
-- membantu mengenang peristiwa
-- menunjukkan tanggal dan bulan
+- Rencana memuat persiapan, laporan mencatat pelaksanaan
+- Keduanya selalu ditulis sesudah kegiatan
+- Laporan harus berisi kejadian yang dibayangkan
+- Rencana membuktikan seluruh kegiatan pasti terlaksana
 
-**Kunci Jawaban:** persiapan kegiatan yang akan datang
+**Kunci Jawaban:** Rencana memuat persiapan, laporan mencatat pelaksanaan
 
-**Pembahasan:** Rencana: persiapan kegiatan yang akan datang.
+**Pembahasan:** Rencana membahas kegiatan yang akan dilakukan; laporan disusun berdasarkan kejadian saat pelaksanaan.
 
 ---
 
 ## Soal 30 — K03-IPAS-B02-M01-030
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Merawat peninggalan**?
+**Pertanyaan:** Mengapa alat rumah tangga lama tetap dapat disimpan di museum?
 
 **Pilihan jawaban:**
-- waktu yang sedang berlangsung
-- membantu menjaga sejarah
-- menjadi sumber kisah masa lalu
-- termasuk masa lalu
+- Karena semua benda lama pasti lebih nyaman dipakai
+- Sebagai bukti cara hidup atau teknologi pada masa tertentu
+- Karena alat baru tidak mempunyai manfaat
+- Agar semua pengunjung wajib memakainya sehari-hari
 
-**Kunci Jawaban:** membantu menjaga sejarah
+**Kunci Jawaban:** Sebagai bukti cara hidup atau teknologi pada masa tertentu
 
-**Pembahasan:** Merawat peninggalan: membantu menjaga sejarah.
+**Pembahasan:** Benda lama dapat menunjukkan cara kerja dan kehidupan masa lalu, tanpa berarti semua alat lama harus dipakai kembali.
 
 ---
 
 ## Soal 31 — K03-IPAS-B02-M01-031
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Tantangan**?
+**Pertanyaan:** Nama suatu kampung mempunyai beberapa cerita asal-usul. Apa yang tepat ditulis siswa?
 
 **Pilihan jawaban:**
-- waktu yang belum terjadi
-- menunjukkan urutan peristiwa
-- Pilih tiga hal yang kamu temukan hari ini
-- termasuk masa kini
+- Satu versi pasti benar hanya karena paling menarik
+- Semua versi harus digabung tanpa keterangan
+- Ada beberapa versi cerita dan sumbernya perlu disebutkan
+- Nama tempat dapat dibuktikan hanya dari warna papan
 
-**Kunci Jawaban:** Pilih tiga hal yang kamu temukan hari ini
+**Kunci Jawaban:** Ada beberapa versi cerita dan sumbernya perlu disebutkan
 
-**Pembahasan:** Tantangan: Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Menyebut versi dan sumber menjaga kejujuran ketika bukti belum cukup untuk menetapkan satu kisah sebagai kepastian.
 
 ---
 
 ## Soal 32 — K03-IPAS-B02-M01-032
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Masa lalu**?
+**Pertanyaan:** Foto memperlihatkan keluarga berkumpul di halaman. Informasi mana memerlukan sumber tambahan?
 
 **Pilihan jawaban:**
-- membantu mengenang peristiwa
-- menunjukkan tanggal dan bulan
-- cara menggali cerita narasumber
-- peristiwa yang sudah terjadi
+- Adanya orang di halaman
+- Bentuk benda yang tampak jelas
+- Posisi pohon yang terlihat
+- Alasan keluarga itu berkumpul
 
-**Kunci Jawaban:** peristiwa yang sudah terjadi
+**Kunci Jawaban:** Alasan keluarga itu berkumpul
 
-**Pembahasan:** Masa lalu: peristiwa yang sudah terjadi.
+**Pembahasan:** Alasan berkumpul tidak selalu tampak pada foto; narasumber atau catatan dapat memberi penjelasan.
 
 ---
 
 ## Soal 33 — K03-IPAS-B02-M01-033
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Masa kini**?
+**Pertanyaan:** Cerita keluarga teman berbeda dengan cerita keluargamu. Sikap yang tepat ialah ...
 
 **Pilihan jawaban:**
-- waktu yang sedang berlangsung
-- menjadi sumber kisah masa lalu
-- termasuk masa lalu
-- orang yang memberikan informasi
+- Mendengarkan tanpa menganggap keluarganya lebih rendah
+- Memaksa ceritanya mengikuti keluargamu
+- Mengejek karena kebiasaannya berbeda
+- Mengganti ceritanya saat ditulis agar sama
 
-**Kunci Jawaban:** waktu yang sedang berlangsung
+**Kunci Jawaban:** Mendengarkan tanpa menganggap keluarganya lebih rendah
 
-**Pembahasan:** Masa kini: waktu yang sedang berlangsung.
+**Pembahasan:** Setiap keluarga mempunyai pengalaman dan kebiasaan berbeda yang patut dihargai, selama tidak merugikan orang lain.
 
 ---
 
 ## Soal 34 — K03-IPAS-B02-M01-034
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Masa depan**?
+**Pertanyaan:** Saat menulis rencana, guru meminta membedakan keinginan dan kepastian. Kalimat yang sesuai ialah ...
 
 **Pilihan jawaban:**
-- menunjukkan urutan peristiwa
-- waktu yang belum terjadi
-- termasuk masa kini
-- catatan atau bukti kegiatan
+- Kami sudah berkunjung, padahal belum berangkat.
+- Kami berencana mengunjungi museum minggu depan.
+- Semua peserta pasti hadir tanpa pengecekan.
+- Kegiatan tidak mungkin berubah dalam keadaan apa pun.
 
-**Kunci Jawaban:** waktu yang belum terjadi
+**Kunci Jawaban:** Kami berencana mengunjungi museum minggu depan.
 
-**Pembahasan:** Masa depan: waktu yang belum terjadi.
+**Pembahasan:** Kata berencana menunjukkan niat untuk masa depan, bukan klaim bahwa kejadian telah berlangsung atau pasti terjadi.
 
 ---
 
 ## Soal 35 — K03-IPAS-B02-M01-035
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Foto lama**?
+**Pertanyaan:** Dalam album, foto tidak mempunyai keterangan waktu. Apa langkah yang membantu menelusurinya?
 
 **Pilihan jawaban:**
-- menunjukkan tanggal dan bulan
-- cara menggali cerita narasumber
-- membantu mengenang peristiwa
-- perbedaan keadaan dari waktu ke waktu
+- Memberi tahun sembarang agar album lengkap
+- Menentukan tahun hanya dari ukuran foto
+- Menanyakan kepada orang yang mengetahui foto tersebut
+- Menganggap semua foto tanpa tanggal diambil pada hari yang sama
 
-**Kunci Jawaban:** membantu mengenang peristiwa
+**Kunci Jawaban:** Menanyakan kepada orang yang mengetahui foto tersebut
 
-**Pembahasan:** Foto lama: membantu mengenang peristiwa.
+**Pembahasan:** Orang yang mengenal peristiwa dapat membantu memberi petunjuk waktu yang kemudian dapat dibandingkan dengan sumber lain.
 
 ---
 
 ## Soal 36 — K03-IPAS-B02-M01-036
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Cerita keluarga**?
+**Pertanyaan:** Mengapa mencatat perubahan kebiasaan keluarga penting bagi sejarah lingkungan?
 
 **Pilihan jawaban:**
-- termasuk masa lalu
-- orang yang memberikan informasi
-- dapat berkembang dari masa ke masa
-- menjadi sumber kisah masa lalu
+- Satu keluarga selalu mewakili semua kebiasaan warga
+- Cerita keluarga menggantikan semua sumber lainnya
+- Hanya keluarga terkenal yang mempunyai sejarah
+- Pengalaman keluarga dapat memberi petunjuk kehidupan masyarakat pada masa tertentu
 
-**Kunci Jawaban:** menjadi sumber kisah masa lalu
+**Kunci Jawaban:** Pengalaman keluarga dapat memberi petunjuk kehidupan masyarakat pada masa tertentu
 
-**Pembahasan:** Cerita keluarga: menjadi sumber kisah masa lalu.
+**Pembahasan:** Cerita keluarga membantu memahami lingkungan, tetapi perlu dibandingkan karena pengalaman keluarga tidak selalu sama.
 
 ---
 
 ## Soal 37 — K03-IPAS-B02-M01-037
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Garis waktu**?
+**Pertanyaan:** Apa yang perlu ditanyakan agar foto lama tidak salah diberi keterangan?
 
 **Pilihan jawaban:**
-- menunjukkan urutan peristiwa
-- termasuk masa kini
-- catatan atau bukti kegiatan
-- dapat berubah karena teknologi
+- Siapa yang tampak, di mana, dan peristiwa apa yang terjadi
+- Warna bingkai yang paling disukai saja
+- Harga album yang akan dibeli
+- Jumlah foto milik teman yang tidak terkait
 
-**Kunci Jawaban:** menunjukkan urutan peristiwa
+**Kunci Jawaban:** Siapa yang tampak, di mana, dan peristiwa apa yang terjadi
 
-**Pembahasan:** Garis waktu: menunjukkan urutan peristiwa.
+**Pembahasan:** Keterangan pelaku, tempat, dan peristiwa membantu menjelaskan isi foto dan mencegah cerita yang tidak didukung.
 
 ---
 
 ## Soal 38 — K03-IPAS-B02-M01-038
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Kalender**?
+**Pertanyaan:** Kakek bercerita bahwa warga dahulu bergotong royong membangun jembatan. Data apa yang paling membantu memperjelas perubahan jembatan?
 
 **Pilihan jawaban:**
-- cara menggali cerita narasumber
-- menunjukkan tanggal dan bulan
-- perbedaan keadaan dari waktu ke waktu
-- pengalaman yang diingat
+- Daftar makanan kesukaan semua cucu
+- Foto lama dan kondisi jembatan sekarang
+- Warna pakaian pewawancara
+- Ramalan tentang hujan tahun depan
 
-**Kunci Jawaban:** menunjukkan tanggal dan bulan
+**Kunci Jawaban:** Foto lama dan kondisi jembatan sekarang
 
-**Pembahasan:** Kalender: menunjukkan tanggal dan bulan.
+**Pembahasan:** Foto lama dan kondisi kini memungkinkan perbandingan bentuk atau bahan jembatan sesuai cerita yang diperiksa.
 
 ---
 
 ## Soal 39 — K03-IPAS-B02-M01-039
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Kemarin**?
+**Pertanyaan:** Sebuah upacara keluarga tetap dilakukan, tetapi undangannya kini dikirim melalui pesan digital. Apa yang berubah?
 
 **Pilihan jawaban:**
-- orang yang memberikan informasi
-- dapat berkembang dari masa ke masa
-- termasuk masa lalu
-- menempatkan kejadian menurut waktu
+- Pasti seluruh makna upacaranya
+- Pasti semua anggota keluarganya
+- Cara menyampaikan undangan
+- Pasti nama daerah asalnya
 
-**Kunci Jawaban:** termasuk masa lalu
+**Kunci Jawaban:** Cara menyampaikan undangan
 
-**Pembahasan:** Kemarin: termasuk masa lalu.
+**Pembahasan:** Cerita hanya memberikan bukti perubahan media undangan; perubahan makna atau asal-usul tidak disebutkan.
 
 ---
 
 ## Soal 40 — K03-IPAS-B02-M01-040
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Hari ini**?
+**Pertanyaan:** Hari ini Rabu. Dalam rencana mingguan, kegiatan pada Jumat berada ...
 
 **Pilihan jawaban:**
-- catatan atau bukti kegiatan
-- dapat berubah karena teknologi
-- persiapan kegiatan yang akan datang
-- termasuk masa kini
+- Sebelum Selasa pada minggu yang sama
+- Pada hari yang sama dengan Rabu
+- Di antara Senin dan Selasa
+- Sesudah hari ini
 
-**Kunci Jawaban:** termasuk masa kini
+**Kunci Jawaban:** Sesudah hari ini
 
-**Pembahasan:** Hari ini: termasuk masa kini.
+**Pembahasan:** Dalam urutan minggu yang sama, Kamis diikuti Jumat, sehingga Jumat berada setelah Rabu.
 
 ---
 
 ## Soal 41 — K03-IPAS-B02-M01-041
 
-**Pertanyaan:** Pada bab **Dahulu, Kini, dan Nanti**, hal apa yang berkaitan dengan "cara menggali cerita narasumber"?
+**Pertanyaan:** Ketika membandingkan dua foto, mengapa sudut pengambilan yang mirip membantu?
 
 **Pilihan jawaban:**
-- Wawancara
-- Perubahan
-- Kenangan
-- Merawat peninggalan
+- Objek yang sama lebih mudah dikenali dan dibandingkan
+- Semua foto otomatis mempunyai tanggal yang sama
+- Warna lama dan baru pasti sama
+- Kita langsung mengetahui perasaan semua warga
 
-**Kunci Jawaban:** Wawancara
+**Kunci Jawaban:** Objek yang sama lebih mudah dikenali dan dibandingkan
 
-**Pembahasan:** Wawancara adalah pilihan yang sesuai karena petunjuk soal menyebutkan "cara menggali cerita narasumber". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Sudut serupa membantu mencocokkan letak objek; tidak membuktikan tanggal atau perasaan orang.
 
 ---
 
 ## Soal 42 — K03-IPAS-B02-M01-042
 
-**Pertanyaan:** Pada bab **Dahulu, Kini, dan Nanti**, hal apa yang berkaitan dengan "orang yang memberikan informasi"?
+**Pertanyaan:** Apa yang sebaiknya dilakukan terhadap informasi yang belum dapat diperiksa?
 
 **Pilihan jawaban:**
-- Transportasi
-- Narasumber
-- Urutan kronologis
-- Tantangan
+- Menulisnya sebagai fakta agar laporan tegas
+- Memberi keterangan bahwa informasinya belum pasti
+- Menghapus nama semua sumber yang lain
+- Memilih versi yang paling banyak dipuji
 
-**Kunci Jawaban:** Narasumber
+**Kunci Jawaban:** Memberi keterangan bahwa informasinya belum pasti
 
-**Pembahasan:** Narasumber adalah pilihan yang sesuai karena petunjuk soal menyebutkan "orang yang memberikan informasi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Menandai ketidakpastian menjaga pembaca agar tidak menganggap dugaan sebagai fakta yang telah dibuktikan.
 
 ---
 
 ## Soal 43 — K03-IPAS-B02-M01-043
 
-**Pertanyaan:** Pada bab **Dahulu, Kini, dan Nanti**, hal apa yang berkaitan dengan "catatan atau bukti kegiatan"?
+**Pertanyaan:** Mengapa siswa sebaiknya tidak menambahkan kejadian rekaan ke laporan sejarah keluarga?
 
 **Pilihan jawaban:**
-- Komunikasi
-- Rencana
-- Dokumentasi
-- Masa lalu
+- Cerita keluarga harus selalu panjang
+- Semua laporan harus mempunyai akhir bahagia
+- Pembaca dapat mengira kejadian rekaan itu benar-benar terjadi
+- Nama tokoh harus selalu sama
 
-**Kunci Jawaban:** Dokumentasi
+**Kunci Jawaban:** Pembaca dapat mengira kejadian rekaan itu benar-benar terjadi
 
-**Pembahasan:** Dokumentasi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "catatan atau bukti kegiatan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Laporan perlu membedakan bukti, ingatan, dan cerita rekaan agar informasi tidak menyesatkan.
 
 ---
 
 ## Soal 44 — K03-IPAS-B02-M01-044
 
-**Pertanyaan:** Pada bab **Dahulu, Kini, dan Nanti**, hal apa yang berkaitan dengan "perbedaan keadaan dari waktu ke waktu"?
+**Pertanyaan:** Guru meminta sumber lisan tentang pasar dahulu. Pilihan yang sesuai ialah ...
 
 **Pilihan jawaban:**
-- Kenangan
-- Merawat peninggalan
-- Masa kini
-- Perubahan
+- Foto pasar tanpa rekaman suara
+- Denah pasar yang dicetak
+- Tiket parkir tanpa catatan wawancara
+- Cerita pedagang yang mengetahui pengalaman pasar tersebut
 
-**Kunci Jawaban:** Perubahan
+**Kunci Jawaban:** Cerita pedagang yang mengetahui pengalaman pasar tersebut
 
-**Pembahasan:** Perubahan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perbedaan keadaan dari waktu ke waktu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Sumber lisan berasal dari keterangan yang disampaikan melalui tuturan; foto dan denah merupakan jenis bukti lain.
 
 ---
 
 ## Soal 45 — K03-IPAS-B02-M01-045
 
-**Pertanyaan:** Pada bab **Dahulu, Kini, dan Nanti**, hal apa yang berkaitan dengan "dapat berkembang dari masa ke masa"?
+**Pertanyaan:** Mengapa kita tidak boleh menulis alamat lengkap keluarga teman dalam laporan yang akan dibagikan umum?
 
 **Pilihan jawaban:**
-- Transportasi
-- Urutan kronologis
-- Tantangan
-- Masa depan
+- Karena informasi pribadi perlu dilindungi dan tidak selalu diperlukan untuk cerita
+- Karena semua keterangan keluarga pasti salah
+- Karena laporan hanya boleh berisi gambar
+- Karena cerita masa lalu tidak boleh ditulis
 
-**Kunci Jawaban:** Transportasi
+**Kunci Jawaban:** Karena informasi pribadi perlu dilindungi dan tidak selalu diperlukan untuk cerita
 
-**Pembahasan:** Transportasi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat berkembang dari masa ke masa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Laporan dapat membahas pengalaman dan daerah secara umum tanpa menyebarkan data pribadi yang tidak diperlukan.
 
 ---
 
 ## Soal 46 — K03-IPAS-B02-M01-046
 
-**Pertanyaan:** Pada bab **Dahulu, Kini, dan Nanti**, hal apa yang berkaitan dengan "dapat berubah karena teknologi"?
+**Pertanyaan:** Apa alasan membandingkan lebih dari satu sumber ketika mempelajari masa lalu?
 
 **Pilihan jawaban:**
-- Rencana
-- Komunikasi
-- Masa lalu
-- Foto lama
+- Membuat semua sumber harus mempunyai kata-kata sama
+- Memperkuat atau memperbaiki kesimpulan berdasarkan bukti
+- Memilih cerita yang paling panjang saja
+- Membuktikan narasumber termuda selalu benar
 
-**Kunci Jawaban:** Komunikasi
+**Kunci Jawaban:** Memperkuat atau memperbaiki kesimpulan berdasarkan bukti
 
-**Pembahasan:** Komunikasi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat berubah karena teknologi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Sumber berbeda dapat saling melengkapi dan menunjukkan bagian yang perlu diperiksa kembali.
 
 ---
 
 ## Soal 47 — K03-IPAS-B02-M01-047
 
-**Pertanyaan:** Pada bab **Dahulu, Kini, dan Nanti**, hal apa yang berkaitan dengan "pengalaman yang diingat"?
+**Pertanyaan:** Setelah wawancara, mengapa siswa sebaiknya membacakan ringkasan kepada narasumber?
 
 **Pilihan jawaban:**
-- Merawat peninggalan
-- Masa kini
-- Kenangan
-- Cerita keluarga
+- Agar jawaban baru boleh dikarang
+- Agar pewawancara tidak perlu menyebut sumber
+- Agar narasumber dapat mengoreksi bagian yang salah dipahami
+- Agar semua cerita menjadi sama
 
-**Kunci Jawaban:** Kenangan
+**Kunci Jawaban:** Agar narasumber dapat mengoreksi bagian yang salah dipahami
 
-**Pembahasan:** Kenangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "pengalaman yang diingat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Pemeriksaan ringkasan membantu memastikan tulisan sesuai maksud sumber, bukan hanya dugaan pewawancara.
 
 ---
 
 ## Soal 48 — K03-IPAS-B02-M01-048
 
-**Pertanyaan:** Pada bab **Dahulu, Kini, dan Nanti**, hal apa yang berkaitan dengan "menempatkan kejadian menurut waktu"?
+**Pertanyaan:** Sekarang banyak orang memakai alat baru. Kesimpulan mana paling hati-hati?
 
 **Pilihan jawaban:**
-- Tantangan
-- Masa depan
-- Garis waktu
-- Urutan kronologis
+- Semua kebiasaan lama pasti hilang
+- Setiap alat baru selalu cocok untuk semua orang
+- Semua keluarga mengalami perubahan yang sama
+- Sebagian cara hidup berubah, tetapi kebiasaan lama dapat tetap ada
 
-**Kunci Jawaban:** Urutan kronologis
+**Kunci Jawaban:** Sebagian cara hidup berubah, tetapi kebiasaan lama dapat tetap ada
 
-**Pembahasan:** Urutan kronologis adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menempatkan kejadian menurut waktu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Perubahan dapat berbeda menurut kebutuhan dan kondisi; adanya alat baru tidak membuktikan semua kebiasaan lama hilang.
 
 ---
 
 ## Soal 49 — K03-IPAS-B02-M01-049
 
-**Pertanyaan:** Pada bab **Dahulu, Kini, dan Nanti**, hal apa yang berkaitan dengan "persiapan kegiatan yang akan datang"?
+**Pertanyaan:** Siswa diminta menulis urutan peristiwa nyata. Apa yang perlu ditentukan dahulu?
 
 **Pilihan jawaban:**
-- Rencana
-- Masa lalu
-- Foto lama
-- Kalender
+- Waktu atau urutan terjadinya peristiwa
+- Urutan warna hiasan pada laporan
+- Tokoh yang paling disukai saja
+- Kalimat penutup sebelum memperoleh data
 
-**Kunci Jawaban:** Rencana
+**Kunci Jawaban:** Waktu atau urutan terjadinya peristiwa
 
-**Pembahasan:** Rencana adalah pilihan yang sesuai karena petunjuk soal menyebutkan "persiapan kegiatan yang akan datang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Urutan kejadian perlu diketahui agar cerita runtut, sedangkan hiasan tidak menentukan kronologi.
 
 ---
 
 ## Soal 50 — K03-IPAS-B02-M01-050
 
-**Pertanyaan:** Pada bab **Dahulu, Kini, dan Nanti**, hal apa yang berkaitan dengan "membantu menjaga sejarah"?
+**Pertanyaan:** Dalam suatu cerita, warga tetap bertukar makanan saat hari perayaan. Apa yang dapat menjadi contoh kesinambungan budaya?
 
 **Pilihan jawaban:**
-- Masa kini
-- Merawat peninggalan
-- Cerita keluarga
-- Kemarin
+- Warna sampul buku catatan siswa
+- Kebiasaan berbagi yang masih dilakukan
+- Tanggal wawancara yang baru ditulis
+- Banyaknya foto yang belum diurutkan
 
-**Kunci Jawaban:** Merawat peninggalan
+**Kunci Jawaban:** Kebiasaan berbagi yang masih dilakukan
 
-**Pembahasan:** Merawat peninggalan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu menjaga sejarah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Kesinambungan berarti ada praktik atau kebiasaan yang bertahan dari waktu ke waktu dalam cerita yang diberikan.
 
 ---

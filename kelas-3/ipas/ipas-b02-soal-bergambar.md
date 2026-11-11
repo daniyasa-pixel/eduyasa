@@ -2,360 +2,360 @@
 
 ## Soal 51 — K03-IPAS-B02-M01-051
 
-![Kartu pengamatan](assets/ipas-b02-gambar-01.svg)
+![Riwayat perpustakaan. Tahun 2018: Bangunan perpustakaan mulai dibangun. Tahun 2020: Perpustakaan dibuka. Tahun 2023: Ruang baca diperluas.](assets/ipas-b02-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Wawancara** adalah ...
+**Pertanyaan:** Peristiwa apa yang paling akhir pada garis waktu?
 
 **Pilihan jawaban:**
-- cara menggali cerita narasumber
-- perbedaan keadaan dari waktu ke waktu
-- pengalaman yang diingat
-- membantu menjaga sejarah
+- Perpustakaan mulai dibangun
+- Perpustakaan dibuka
+- Ruang baca diperluas
+- Semua peristiwa terjadi bersamaan
 
-**Kunci Jawaban:** cara menggali cerita narasumber
+**Kunci Jawaban:** Ruang baca diperluas
 
-**Pembahasan:** Wawancara: cara menggali cerita narasumber.
+**Pembahasan:** Tahun 2023 terletak setelah 2018 dan 2020 dalam garis waktu.
 
 ---
 
 ## Soal 52 — K03-IPAS-B02-M01-052
 
-![Kartu pengamatan](assets/ipas-b02-gambar-01.svg)
+![Riwayat perpustakaan. Tahun 2018: Bangunan perpustakaan mulai dibangun. Tahun 2020: Perpustakaan dibuka. Tahun 2023: Ruang baca diperluas.](assets/ipas-b02-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Narasumber** adalah ...
+**Pertanyaan:** Apa yang terjadi di antara pembangunan awal dan perluasan ruang baca?
 
 **Pilihan jawaban:**
-- dapat berkembang dari masa ke masa
-- orang yang memberikan informasi
-- menempatkan kejadian menurut waktu
-- Pilih tiga hal yang kamu temukan hari ini
+- Perpustakaan mulai dibangun
+- Ruang baca diperluas
+- Tidak ada peristiwa lain
+- Perpustakaan dibuka
 
-**Kunci Jawaban:** orang yang memberikan informasi
+**Kunci Jawaban:** Perpustakaan dibuka
 
-**Pembahasan:** Narasumber: orang yang memberikan informasi.
+**Pembahasan:** Pembukaan pada 2020 ditempatkan sesudah pembangunan 2018 dan sebelum perluasan 2023.
 
 ---
 
 ## Soal 53 — K03-IPAS-B02-M01-053
 
-![Kartu pengamatan](assets/ipas-b02-gambar-02.svg)
+![Catatan taman di tempat yang sama. Dahulu: Tiga pohon dan satu bangku. Kini: Tiga pohon dan tiga bangku. Catatan: Gambar mewakili catatan pengamatan.](assets/ipas-b02-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Dokumentasi** adalah ...
+**Pertanyaan:** Perubahan apa yang ditunjukkan oleh catatan?
 
 **Pilihan jawaban:**
-- dapat berubah karena teknologi
-- persiapan kegiatan yang akan datang
-- catatan atau bukti kegiatan
-- peristiwa yang sudah terjadi
+- Bangku bertambah
+- Pohon berkurang
+- Semua pohon berganti tempat
+- Bangku menjadi lebih sedikit
 
-**Kunci Jawaban:** catatan atau bukti kegiatan
+**Kunci Jawaban:** Bangku bertambah
 
-**Pembahasan:** Dokumentasi: catatan atau bukti kegiatan.
+**Pembahasan:** Jumlah pohon tetap tiga, sedangkan jumlah bangku berubah dari satu menjadi tiga.
 
 ---
 
 ## Soal 54 — K03-IPAS-B02-M01-054
 
-![Kartu pengamatan](assets/ipas-b02-gambar-02.svg)
+![Catatan taman di tempat yang sama. Dahulu: Tiga pohon dan satu bangku. Kini: Tiga pohon dan tiga bangku. Catatan: Gambar mewakili catatan pengamatan.](assets/ipas-b02-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Perubahan** adalah ...
+**Pertanyaan:** Informasi apa yang belum diberikan gambar?
 
 **Pilihan jawaban:**
-- pengalaman yang diingat
-- membantu menjaga sejarah
-- waktu yang sedang berlangsung
-- perbedaan keadaan dari waktu ke waktu
+- Jumlah bangku dahulu
+- Alasan penambahan bangku
+- Jumlah pohon kini
+- Jumlah bangku kini
 
-**Kunci Jawaban:** perbedaan keadaan dari waktu ke waktu
+**Kunci Jawaban:** Alasan penambahan bangku
 
-**Pembahasan:** Perubahan: perbedaan keadaan dari waktu ke waktu.
+**Pembahasan:** Catatan memuat jumlah objek, tetapi tidak menyebut sebab bangku ditambah.
 
 ---
 
 ## Soal 55 — K03-IPAS-B02-M01-055
 
-![Kartu pengamatan](assets/ipas-b02-gambar-03.svg)
+![Berkabar kepada keluarga. P: Surat ditulis lalu dikirim. Q: Dua orang berbicara melalui panggilan video. Catatan: Media berbeda untuk menyampaikan kabar.](assets/ipas-b02-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Transportasi** adalah ...
+**Pertanyaan:** Pada kartu mana dua orang dapat bertukar suara dan gambar secara langsung lewat jaringan?
 
 **Pilihan jawaban:**
-- dapat berkembang dari masa ke masa
-- menempatkan kejadian menurut waktu
-- Pilih tiga hal yang kamu temukan hari ini
-- waktu yang belum terjadi
+- Kartu P
+- Kedua kartu hanya menunjukkan surat
+- Kartu Q
+- Tidak ada kegiatan komunikasi
 
-**Kunci Jawaban:** dapat berkembang dari masa ke masa
+**Kunci Jawaban:** Kartu Q
 
-**Pembahasan:** Transportasi: dapat berkembang dari masa ke masa.
+**Pembahasan:** Panggilan video pada Q memungkinkan suara dan gambar diterima melalui jaringan selama percakapan.
 
 ---
 
 ## Soal 56 — K03-IPAS-B02-M01-056
 
-![Kartu pengamatan](assets/ipas-b02-gambar-03.svg)
+![Berkabar kepada keluarga. P: Surat ditulis lalu dikirim. Q: Dua orang berbicara melalui panggilan video. Catatan: Media berbeda untuk menyampaikan kabar.](assets/ipas-b02-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Komunikasi** adalah ...
+**Pertanyaan:** Kesamaan tujuan dua kegiatan pada kartu ialah ...
 
 **Pilihan jawaban:**
-- persiapan kegiatan yang akan datang
-- dapat berubah karena teknologi
-- peristiwa yang sudah terjadi
-- membantu mengenang peristiwa
+- Mengangkut penumpang
+- Menyusun bangunan
+- Menentukan cuaca
+- Menyampaikan kabar
 
-**Kunci Jawaban:** dapat berubah karena teknologi
+**Kunci Jawaban:** Menyampaikan kabar
 
-**Pembahasan:** Komunikasi: dapat berubah karena teknologi.
+**Pembahasan:** Surat dan panggilan video sama-sama digunakan untuk berkomunikasi walaupun medianya berbeda.
 
 ---
 
 ## Soal 57 — K03-IPAS-B02-M01-057
 
-![Kartu pengamatan](assets/ipas-b02-gambar-04.svg)
+![Dua ingatan tentang jembatan. Sumber A: Jembatan dibuka pada 2010 di Desa Melati. Sumber B: Jembatan dibuka pada 2011 di Desa Melati. Tugas: Bandingkan kedua keterangan.](assets/ipas-b02-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kenangan** adalah ...
+**Pertanyaan:** Bagian keterangan mana yang berbeda?
 
 **Pilihan jawaban:**
-- membantu menjaga sejarah
-- waktu yang sedang berlangsung
-- pengalaman yang diingat
-- menjadi sumber kisah masa lalu
+- Tahun pembukaan
+- Nama desa
+- Jenis bangunan
+- Kegiatan yang dibicarakan
 
-**Kunci Jawaban:** pengalaman yang diingat
+**Kunci Jawaban:** Tahun pembukaan
 
-**Pembahasan:** Kenangan: pengalaman yang diingat.
+**Pembahasan:** Kedua sumber menyebut jembatan dan Desa Melati, tetapi tahunnya berbeda.
 
 ---
 
 ## Soal 58 — K03-IPAS-B02-M01-058
 
-![Kartu pengamatan](assets/ipas-b02-gambar-04.svg)
+![Dua ingatan tentang jembatan. Sumber A: Jembatan dibuka pada 2010 di Desa Melati. Sumber B: Jembatan dibuka pada 2011 di Desa Melati. Tugas: Bandingkan kedua keterangan.](assets/ipas-b02-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Urutan kronologis** adalah ...
+**Pertanyaan:** Apa yang sebaiknya diperiksa melalui sumber tambahan?
 
 **Pilihan jawaban:**
-- Pilih tiga hal yang kamu temukan hari ini
-- waktu yang belum terjadi
-- menunjukkan urutan peristiwa
-- menempatkan kejadian menurut waktu
+- Nama desa yang sama-sama disebut sebagai perbedaan
+- Tahun pembukaan jembatan
+- Warna pakaian pewawancara
+- Makanan kesukaan sumber
 
-**Kunci Jawaban:** menempatkan kejadian menurut waktu
+**Kunci Jawaban:** Tahun pembukaan jembatan
 
-**Pembahasan:** Urutan kronologis: menempatkan kejadian menurut waktu.
+**Pembahasan:** Perbedaan yang perlu diperiksa ialah tanggal atau tahun pembukaan, misalnya melalui catatan pembangunan.
 
 ---
 
 ## Soal 59 — K03-IPAS-B02-M01-059
 
-![Kartu pengamatan](assets/ipas-b02-gambar-05.svg)
+![Album dan rancangan. A: Foto kelas pada 2019. B: Rancangan taman yang akan dibuat. C: Catatan kegiatan kemarin.](assets/ipas-b02-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Rencana** adalah ...
+**Pertanyaan:** Benda mana menggambarkan rencana yang belum dinyatakan telah terlaksana?
 
 **Pilihan jawaban:**
-- persiapan kegiatan yang akan datang
-- peristiwa yang sudah terjadi
-- membantu mengenang peristiwa
-- menunjukkan tanggal dan bulan
+- Foto pada A
+- Catatan pada C
+- Rancangan pada B
+- Ketiganya bukti taman sudah dibuat
 
-**Kunci Jawaban:** persiapan kegiatan yang akan datang
+**Kunci Jawaban:** Rancangan pada B
 
-**Pembahasan:** Rencana: persiapan kegiatan yang akan datang.
+**Pembahasan:** Kartu B menyebut rancangan yang akan dibuat, berbeda dari foto dan catatan kegiatan yang telah terjadi.
 
 ---
 
 ## Soal 60 — K03-IPAS-B02-M01-060
 
-![Kartu pengamatan](assets/ipas-b02-gambar-05.svg)
+![Album dan rancangan. A: Foto kelas pada 2019. B: Rancangan taman yang akan dibuat. C: Catatan kegiatan kemarin.](assets/ipas-b02-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Merawat peninggalan** adalah ...
+**Pertanyaan:** Pasangan mana mencatat sesuatu yang telah terjadi?
 
 **Pilihan jawaban:**
-- waktu yang sedang berlangsung
-- membantu menjaga sejarah
-- menjadi sumber kisah masa lalu
-- termasuk masa lalu
+- A dan B
+- B saja
+- B dan C
+- A dan C
 
-**Kunci Jawaban:** membantu menjaga sejarah
+**Kunci Jawaban:** A dan C
 
-**Pembahasan:** Merawat peninggalan: membantu menjaga sejarah.
+**Pembahasan:** Foto tahun 2019 dan catatan kemarin merujuk peristiwa yang sudah terjadi.
 
 ---
 
 ## Soal 61 — K03-IPAS-B02-M01-061
 
-![Kartu pengamatan](assets/ipas-b02-gambar-06.svg)
+![Riwayat perjalanan keluarga. 1990: Dalam catatan, Bibi berangkat dengan sepeda. 2010: Dalam catatan, Bibi memakai bus. 2020: Dalam catatan, Bibi memakai kereta.](assets/ipas-b02-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Tantangan** adalah ...
+**Pertanyaan:** Menurut catatan, alat yang digunakan Bibi pada 2010 ialah ...
 
 **Pilihan jawaban:**
-- waktu yang belum terjadi
-- menunjukkan urutan peristiwa
-- Pilih tiga hal yang kamu temukan hari ini
-- termasuk masa kini
+- Bus
+- Sepeda
+- Kereta
+- Perahu
 
-**Kunci Jawaban:** Pilih tiga hal yang kamu temukan hari ini
+**Kunci Jawaban:** Bus
 
-**Pembahasan:** Tantangan: Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Kartu bertahun 2010 mencatat penggunaan bus, bukan alat pada dua tahun lainnya.
 
 ---
 
 ## Soal 62 — K03-IPAS-B02-M01-062
 
-![Kartu pengamatan](assets/ipas-b02-gambar-06.svg)
+![Riwayat perjalanan keluarga. 1990: Dalam catatan, Bibi berangkat dengan sepeda. 2010: Dalam catatan, Bibi memakai bus. 2020: Dalam catatan, Bibi memakai kereta.](assets/ipas-b02-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Masa lalu** adalah ...
+**Pertanyaan:** Kesimpulan mana didukung oleh riwayat ini?
 
 **Pilihan jawaban:**
-- membantu mengenang peristiwa
-- menunjukkan tanggal dan bulan
-- cara menggali cerita narasumber
-- peristiwa yang sudah terjadi
+- Semua orang berhenti memakai sepeda pada 2010
+- Cara bepergian Bibi berbeda pada tiga tahun yang dicatat
+- Bus tidak ada lagi setelah 2020
+- Semua daerah mempunyai kereta
 
-**Kunci Jawaban:** peristiwa yang sudah terjadi
+**Kunci Jawaban:** Cara bepergian Bibi berbeda pada tiga tahun yang dicatat
 
-**Pembahasan:** Masa lalu: peristiwa yang sudah terjadi.
+**Pembahasan:** Catatan hanya memberi informasi perjalanan Bibi, bukan seluruh orang atau semua daerah.
 
 ---
 
 ## Soal 63 — K03-IPAS-B02-M01-063
 
-![Kartu pengamatan](assets/ipas-b02-gambar-07.svg)
+![Perayaan keluarga. Dahulu: Keluarga berbagi makanan; undangan berupa surat. Kini: Keluarga berbagi makanan; undangan lewat pesan digital. Tugas: Cari yang berubah dan yang tetap.](assets/ipas-b02-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Masa kini** adalah ...
+**Pertanyaan:** Apa yang tetap dilakukan menurut dua kartu?
 
 **Pilihan jawaban:**
-- waktu yang sedang berlangsung
-- menjadi sumber kisah masa lalu
-- termasuk masa lalu
-- orang yang memberikan informasi
+- Mengirim undangan hanya lewat surat
+- Mengirim undangan hanya lewat pesan digital
+- Berbagi makanan
+- Menggunakan media undangan yang sama
 
-**Kunci Jawaban:** waktu yang sedang berlangsung
+**Kunci Jawaban:** Berbagi makanan
 
-**Pembahasan:** Masa kini: waktu yang sedang berlangsung.
+**Pembahasan:** Kedua kartu menyebut berbagi makanan meskipun media undangannya berbeda.
 
 ---
 
 ## Soal 64 — K03-IPAS-B02-M01-064
 
-![Kartu pengamatan](assets/ipas-b02-gambar-07.svg)
+![Perayaan keluarga. Dahulu: Keluarga berbagi makanan; undangan berupa surat. Kini: Keluarga berbagi makanan; undangan lewat pesan digital. Tugas: Cari yang berubah dan yang tetap.](assets/ipas-b02-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Masa depan** adalah ...
+**Pertanyaan:** Apa perubahan yang dapat dibuktikan dari kartu?
 
 **Pilihan jawaban:**
-- menunjukkan urutan peristiwa
-- waktu yang belum terjadi
-- termasuk masa kini
-- catatan atau bukti kegiatan
+- Jumlah seluruh anggota keluarga
+- Jenis semua makanan
+- Tempat lahir setiap tamu
+- Media undangan
 
-**Kunci Jawaban:** waktu yang belum terjadi
+**Kunci Jawaban:** Media undangan
 
-**Pembahasan:** Masa depan: waktu yang belum terjadi.
+**Pembahasan:** Kartu menunjukkan surat dan pesan digital sebagai dua media; data jumlah keluarga atau tempat lahir tidak tersedia.
 
 ---
 
 ## Soal 65 — K03-IPAS-B02-M01-065
 
-![Kartu pengamatan](assets/ipas-b02-gambar-08.svg)
+![Persiapan wawancara. Senin: Menyiapkan pertanyaan. Rabu: Mewawancarai narasumber. Jumat: Memeriksa ringkasan bersama narasumber.](assets/ipas-b02-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Foto lama** adalah ...
+**Pertanyaan:** Kegiatan apa dilakukan sebelum wawancara pada jadwal?
 
 **Pilihan jawaban:**
-- menunjukkan tanggal dan bulan
-- cara menggali cerita narasumber
-- membantu mengenang peristiwa
-- perbedaan keadaan dari waktu ke waktu
+- Menyiapkan pertanyaan
+- Memeriksa ringkasan hasil wawancara
+- Menghapus rekaman hasil
+- Membagikan laporan akhir
 
-**Kunci Jawaban:** membantu mengenang peristiwa
+**Kunci Jawaban:** Menyiapkan pertanyaan
 
-**Pembahasan:** Foto lama: membantu mengenang peristiwa.
+**Pembahasan:** Menyiapkan pertanyaan berada pada Senin, sebelum wawancara Rabu.
 
 ---
 
 ## Soal 66 — K03-IPAS-B02-M01-066
 
-![Kartu pengamatan](assets/ipas-b02-gambar-08.svg)
+![Persiapan wawancara. Senin: Menyiapkan pertanyaan. Rabu: Mewawancarai narasumber. Jumat: Memeriksa ringkasan bersama narasumber.](assets/ipas-b02-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Cerita keluarga** adalah ...
+**Pertanyaan:** Mengapa kegiatan Jumat ditempatkan sesudah Rabu?
 
 **Pilihan jawaban:**
-- termasuk masa lalu
-- orang yang memberikan informasi
-- dapat berkembang dari masa ke masa
-- menjadi sumber kisah masa lalu
+- Hari Jumat selalu merupakan hari pertama dalam minggu
+- Ringkasan perlu berdasarkan wawancara yang telah dilakukan
+- Jawaban harus ditentukan sebelum pertanyaan
+- Semua kegiatan pada jadwal harus dilakukan bersamaan
 
-**Kunci Jawaban:** menjadi sumber kisah masa lalu
+**Kunci Jawaban:** Ringkasan perlu berdasarkan wawancara yang telah dilakukan
 
-**Pembahasan:** Cerita keluarga: menjadi sumber kisah masa lalu.
+**Pembahasan:** Ringkasan dibuat dari hasil wawancara sehingga pemeriksaannya mengikuti kegiatan mengumpulkan informasi.
 
 ---
 
 ## Soal 67 — K03-IPAS-B02-M01-067
 
-![Kartu pengamatan](assets/ipas-b02-gambar-09.svg)
+![Cuplikan jadwal kunjungan. Senin tanggal 4: Membagi tugas kelompok. Rabu tanggal 6: Meminta izin narasumber. Kamis tanggal 7: Melakukan wawancara.](assets/ipas-b02-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Garis waktu** adalah ...
+**Pertanyaan:** Pada hari dan tanggal berapa izin narasumber diminta?
 
 **Pilihan jawaban:**
-- menunjukkan urutan peristiwa
-- termasuk masa kini
-- catatan atau bukti kegiatan
-- dapat berubah karena teknologi
+- Senin tanggal 4
+- Kamis tanggal 7
+- Rabu tanggal 6
+- Rabu tanggal 7
 
-**Kunci Jawaban:** menunjukkan urutan peristiwa
+**Kunci Jawaban:** Rabu tanggal 6
 
-**Pembahasan:** Garis waktu: menunjukkan urutan peristiwa.
+**Pembahasan:** Kartu tengah memasangkan kegiatan meminta izin dengan Rabu tanggal 6.
 
 ---
 
 ## Soal 68 — K03-IPAS-B02-M01-068
 
-![Kartu pengamatan](assets/ipas-b02-gambar-09.svg)
+![Cuplikan jadwal kunjungan. Senin tanggal 4: Membagi tugas kelompok. Rabu tanggal 6: Meminta izin narasumber. Kamis tanggal 7: Melakukan wawancara.](assets/ipas-b02-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kalender** adalah ...
+**Pertanyaan:** Urutan kegiatan mana sesuai jadwal?
 
 **Pilihan jawaban:**
-- cara menggali cerita narasumber
-- menunjukkan tanggal dan bulan
-- perbedaan keadaan dari waktu ke waktu
-- pengalaman yang diingat
+- Wawancara → meminta izin → membagi tugas
+- Meminta izin → wawancara → membagi tugas
+- Ketiga kegiatan tidak memiliki urutan
+- Membagi tugas → meminta izin → wawancara
 
-**Kunci Jawaban:** menunjukkan tanggal dan bulan
+**Kunci Jawaban:** Membagi tugas → meminta izin → wawancara
 
-**Pembahasan:** Kalender: menunjukkan tanggal dan bulan.
+**Pembahasan:** Membaca kartu dari Senin ke Rabu lalu Kamis menghasilkan urutan persiapan, izin, dan wawancara.
 
 ---
 
 ## Soal 69 — K03-IPAS-B02-M01-069
 
-![Kartu pengamatan](assets/ipas-b02-gambar-10.svg)
+![Lokasi di tepi lapangan. Foto lama: Bangunan di tepi lapangan dipakai sebagai gudang. Foto baru: Bangunan di tempat yang sama menjadi perpustakaan. Catatan: Tahun perubahan fungsi belum diketahui.](assets/ipas-b02-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kemarin** adalah ...
+**Pertanyaan:** Perubahan apa yang diketahui dari keterangan dua foto?
 
 **Pilihan jawaban:**
-- orang yang memberikan informasi
-- dapat berkembang dari masa ke masa
-- termasuk masa lalu
-- menempatkan kejadian menurut waktu
+- Fungsi bangunan
+- Arah letak lapangan
+- Nama semua pekerja
+- Tanggal pasti pembongkaran
 
-**Kunci Jawaban:** termasuk masa lalu
+**Kunci Jawaban:** Fungsi bangunan
 
-**Pembahasan:** Kemarin: termasuk masa lalu.
+**Pembahasan:** Keterangan menunjukkan fungsi gudang berubah menjadi perpustakaan pada lokasi yang sama.
 
 ---
 
 ## Soal 70 — K03-IPAS-B02-M01-070
 
-![Kartu pengamatan](assets/ipas-b02-gambar-10.svg)
+![Lokasi di tepi lapangan. Foto lama: Bangunan di tepi lapangan dipakai sebagai gudang. Foto baru: Bangunan di tempat yang sama menjadi perpustakaan. Catatan: Tahun perubahan fungsi belum diketahui.](assets/ipas-b02-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Hari ini** adalah ...
+**Pertanyaan:** Apa yang belum boleh disimpulkan dari gambar?
 
 **Pilihan jawaban:**
-- catatan atau bukti kegiatan
-- dapat berubah karena teknologi
-- persiapan kegiatan yang akan datang
-- termasuk masa kini
+- Fungsi pada foto lama adalah gudang
+- Tahun pasti perubahan fungsi
+- Fungsi pada foto baru adalah perpustakaan
+- Kedua foto membahas lokasi yang sama
 
-**Kunci Jawaban:** termasuk masa kini
+**Kunci Jawaban:** Tahun pasti perubahan fungsi
 
-**Pembahasan:** Hari ini: termasuk masa kini.
+**Pembahasan:** Catatan secara tegas menyebut tahun perubahan belum diketahui, sehingga perlu sumber tambahan.
 
 ---

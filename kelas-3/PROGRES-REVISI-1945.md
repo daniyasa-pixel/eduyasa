@@ -4,14 +4,14 @@
 
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
-| IPAS | Bab 1: 56 dari 70 butir berubah | 70 butir Bab 1 diperiksa ulang | Bab 2–8: 490 soal |
+| IPAS | Bab 1–2: 126 butir berubah | 140 butir diperiksa ulang | Bab 3–8: 420 soal |
 | PAI | Belum dikerjakan | Belum diperiksa ulang | 300 soal/10 bab |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **70/1.945**. Jumlah diubah: **56**.
-Sisa audit isi: **1.875 soal pada 40 bab/unit**. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **140/1.945**. Jumlah diubah: **126**.
+Sisa audit isi: **1.805 soal pada 39 bab/unit**. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -39,13 +39,35 @@ setelah penilaian ulang, bukan karena pernah direvisi. Nomor 008, 009, 017–020
   khususnya hubungan bentuk tubuh dan fungsinya. Referensi buku:
   https://static.sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/IPAS_BS_KLS_III.pdf
 
+## IPAS Bab 2
+
+Semua 70 butir diperiksa ulang dan direvisi pada putaran ini; seluruh ID tetap.
+Pengecoh diganti agar terkait sumber sejarah, urutan kejadian, dan penafsiran
+bukti. Istilah instruksi “Tantangan” dikeluarkan dari bank. Pernyataan terlalu
+umum tentang perkembangan alat diganti dengan konteks dan batas kesimpulan.
+Soal mencakup sumber lisan/tertulis, izin wawancara, pengecekan silang,
+kronologi, perubahan/kesinambungan, ketidakpastian, dan privasi.
+
+Sepuluh stimulus soal dan dua ilustrasi materi diganti. Data perbandingan taman
+benar-benar menggambar tiga pohon dengan satu/tiga bangku. Kendaraan sesuai
+catatan sepeda/bus/kereta; jadwal disajikan sebagai tabel. Stimulus lain berupa
+garis waktu dan kartu bukti yang harus dibandingkan. Kedua modul ditulis ulang
+untuk mengajarkan kompetensi yang diujikan, dengan pilihan tugas sejarah sekolah
+bagi siswa yang tidak nyaman membahas data keluarga. Acuan: Bab 2 buku revisi
+2025 halaman 25–48, mencakup sejarah keluarga dan perubahan sosial-budaya.
+
+Pemeriksaan Bab 2: 70 ID dan teks pertanyaan unik, 50+20 butir, empat opsi,
+kunci cocok; 12 SVG lolos XML, rendering lebar 390 piksel, batas teks, dan
+peninjauan lembar gambar. Lulus struktur tidak dipakai untuk mengklaim semua
+mapel lulus akademik. Belum ada uji kesulitan empiris pada siswa.
+
 ## Pemeriksaan
 
 `python scripts/check-k03-question-sources.py` memeriksa paket kanonis lima
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1
+Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–2
 belum memperoleh pemeriksaan isi putaran ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
@@ -55,8 +77,8 @@ Pemeriksaan ini bukan uji coba kepada siswa atau pengukuran kesulitan empiris.
 
 ## Posisi lanjut yang tepat
 
-Lanjut **IPAS Bab 2, nomor 001–070**, dengan memeriksa dua modul dan 12 SVG
-terkait, lalu Bab 3 sampai Bab 8. Setelah IPAS tuntas, lanjut PAI, ENG, PJOK,
+Lanjut **IPAS Bab 3, nomor 001–070**, dengan memeriksa dua modul dan 12 SVG
+terkait, lalu Bab 4 sampai Bab 8. Setelah IPAS tuntas, lanjut PAI, ENG, PJOK,
 dan Seni Rupa sesuai instruksi. Pada Bab 3 IPAS, cocokkan cakupan pertumbuhan
 manusia dan pembagian peran keluarga dengan buku revisi 2025; jangan hanya
 mempertahankan soal norma sosial. Instruksi kegiatan yang sebelumnya dijadikan
