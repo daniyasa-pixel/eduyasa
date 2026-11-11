@@ -1,0 +1,675 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Bahasa Indonesia: Kawan Seiring untuk SD/MI Kelas III (Edisi Revisi)",
+    "year": 2025,
+    "authors": [
+      "Gantino Habibi",
+      "S. Nailul Muna Aljamaliah"
+    ],
+    "isbn_pdf": "978-634-00-3315-1",
+    "reading_url": "https://fliphtml5.com/Yenny_73/Bahasa-Indonesia_BS_KLS_III_Rev/",
+    "note": "Buku pemerintah dibaca melalui salinan daring. Judul dan urutan bab mengikuti edisi revisi 2025. Bacaan, soal, dan SVG EDUYASA ditulis sendiri; bukan salinan latihan buku."
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-BIN-B01",
+      "chapter_title": "Kawan Seiring",
+      "questions": [
+        {
+          "id": "K03-BIN-B01-M01-001",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRani dan Tio merawat pojok baca. Rani menyusun buku di rak. Tio mengelap meja. Mereka bekerja sama agar pojok baca nyaman.\n\nApa yang terutama dibahas dalam bacaan?",
+          "options": [
+            "Kerja sama merawat pojok baca",
+            "Perjalanan menuju toko buku",
+            "Lomba menulis puisi",
+            "Cara membuat meja"
+          ],
+          "answer": "Kerja sama merawat pojok baca",
+          "discussion": "Semua kalimat menjelaskan kegiatan Rani dan Tio merawat pojok baca."
+        },
+        {
+          "id": "K03-BIN-B01-M01-002",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRani dan Tio merawat pojok baca. Rani menyusun buku di rak. Tio mengelap meja. Mereka bekerja sama agar pojok baca nyaman.\n\nSiapa yang menyusun buku?",
+          "options": [
+            "Tio",
+            "Rani",
+            "Guru",
+            "Penjaga toko"
+          ],
+          "answer": "Rani",
+          "discussion": "Kalimat kedua menyebut Rani sebagai orang yang menyusun buku."
+        },
+        {
+          "id": "K03-BIN-B01-M01-003",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRani dan Tio merawat pojok baca. Rani menyusun buku di rak. Tio mengelap meja. Mereka bekerja sama agar pojok baca nyaman.\n\nMengapa mereka merawat pojok baca?",
+          "options": [
+            "Agar buku disembunyikan",
+            "Agar meja dijual",
+            "Agar nyaman digunakan",
+            "Agar rak dipindahkan ke toko"
+          ],
+          "answer": "Agar nyaman digunakan",
+          "discussion": "Tujuan kegiatan disebut pada kalimat terakhir: membuat pojok baca nyaman."
+        },
+        {
+          "id": "K03-BIN-B01-M01-004",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRani dan Tio merawat pojok baca. Rani menyusun buku di rak. Tio mengelap meja. Mereka bekerja sama agar pojok baca nyaman.\n\nKata “mengelap” pada bacaan berarti ...",
+          "options": [
+            "Memotong dengan gunting",
+            "Mengukur dengan penggaris",
+            "Mengikat dengan tali",
+            "Membersihkan dengan kain"
+          ],
+          "answer": "Membersihkan dengan kain",
+          "discussion": "Meja dibersihkan dengan kain; tindakan itu disebut mengelap."
+        },
+        {
+          "id": "K03-BIN-B01-M01-005",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRani dan Tio merawat pojok baca. Rani menyusun buku di rak. Tio mengelap meja. Mereka bekerja sama agar pojok baca nyaman.\n\nRingkasan yang sesuai ialah ...",
+          "options": [
+            "Rani dan Tio bekerja sama merapikan pojok baca.",
+            "Rani menjual semua buku milik Tio.",
+            "Tio pergi sendirian ke perpustakaan kota.",
+            "Rani membuat rak tanpa bantuan siapa pun."
+          ],
+          "answer": "Rani dan Tio bekerja sama merapikan pojok baca.",
+          "discussion": "Ringkasan memuat kegiatan utama beserta kedua pelakunya, tanpa menambahkan peristiwa."
+        },
+        {
+          "id": "K03-BIN-B01-M01-006",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBayu lupa membawa pensil. Lala mempunyai dua pensil dan meminjamkan satu kepadanya. Setelah pelajaran, Bayu mengembalikan pensil itu sambil mengucapkan terima kasih.\n\nMasalah yang dialami Bayu ialah ...",
+          "options": [
+            "Tidak menemukan rumah",
+            "Tidak membawa pensil",
+            "Kehilangan sepatu",
+            "Tidak mempunyai meja"
+          ],
+          "answer": "Tidak membawa pensil",
+          "discussion": "Kalimat pertama menyatakan bahwa Bayu lupa membawa pensil."
+        },
+        {
+          "id": "K03-BIN-B01-M01-007",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBayu lupa membawa pensil. Lala mempunyai dua pensil dan meminjamkan satu kepadanya. Setelah pelajaran, Bayu mengembalikan pensil itu sambil mengucapkan terima kasih.\n\nBagaimana Lala membantu Bayu?",
+          "options": [
+            "Membawakan sepatu",
+            "Menuliskan seluruh tugas Bayu",
+            "Meminjamkan pensil",
+            "Menyembunyikan tas Bayu"
+          ],
+          "answer": "Meminjamkan pensil",
+          "discussion": "Lala membantu dengan meminjamkan satu pensil yang dimilikinya."
+        },
+        {
+          "id": "K03-BIN-B01-M01-008",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBayu lupa membawa pensil. Lala mempunyai dua pensil dan meminjamkan satu kepadanya. Setelah pelajaran, Bayu mengembalikan pensil itu sambil mengucapkan terima kasih.\n\nApa yang dilakukan Bayu setelah pelajaran?",
+          "options": [
+            "Membeli dua tas",
+            "Membuang pensil",
+            "Pergi ke rumah Lala",
+            "Mengembalikan pensil"
+          ],
+          "answer": "Mengembalikan pensil",
+          "discussion": "Bacaan menyebut Bayu mengembalikan pensil setelah pelajaran."
+        },
+        {
+          "id": "K03-BIN-B01-M01-009",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBayu lupa membawa pensil. Lala mempunyai dua pensil dan meminjamkan satu kepadanya. Setelah pelajaran, Bayu mengembalikan pensil itu sambil mengucapkan terima kasih.\n\nKalimat terima kasih yang tepat diucapkan Bayu ialah ...",
+          "options": [
+            "Terima kasih sudah meminjamkan pensil, Lala.",
+            "Mengapa kamu tidak membawa sepatu, Lala?",
+            "Jangan pernah belajar lagi, Lala!",
+            "Di mana kamu membeli meja, Lala?"
+          ],
+          "answer": "Terima kasih sudah meminjamkan pensil, Lala.",
+          "discussion": "Ucapan itu menyebut bantuan yang benar-benar diberikan Lala."
+        },
+        {
+          "id": "K03-BIN-B01-M01-010",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBayu lupa membawa pensil. Lala mempunyai dua pensil dan meminjamkan satu kepadanya. Setelah pelajaran, Bayu mengembalikan pensil itu sambil mengucapkan terima kasih.\n\nSifat Lala yang terlihat dalam bacaan ialah ...",
+          "options": [
+            "Suka mengejek",
+            "Suka menolong",
+            "Tidak peduli",
+            "Mudah marah"
+          ],
+          "answer": "Suka menolong",
+          "discussion": "Lala bersedia meminjamkan barang agar temannya dapat belajar."
+        },
+        {
+          "id": "K03-BIN-B01-M01-011",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSetiap Jumat, kelas Nisa melakukan piket bersama. Nisa menyapu lantai. Edo merapikan kursi. Sari mengumpulkan kertas bekas. Sesudah piket, kelas menjadi rapi.\n\nKapan kegiatan piket dilakukan?",
+          "options": [
+            "Setiap Minggu",
+            "Setiap malam",
+            "Setiap Jumat",
+            "Setiap liburan"
+          ],
+          "answer": "Setiap Jumat",
+          "discussion": "Keterangan waktu terdapat pada awal bacaan, yaitu setiap Jumat."
+        },
+        {
+          "id": "K03-BIN-B01-M01-012",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSetiap Jumat, kelas Nisa melakukan piket bersama. Nisa menyapu lantai. Edo merapikan kursi. Sari mengumpulkan kertas bekas. Sesudah piket, kelas menjadi rapi.\n\nTugas Edo adalah ...",
+          "options": [
+            "Menyapu halaman",
+            "Menyiram bunga",
+            "Mencuci piring",
+            "Merapikan kursi"
+          ],
+          "answer": "Merapikan kursi",
+          "discussion": "Kalimat ketiga menyebut tugas Edo merapikan kursi."
+        },
+        {
+          "id": "K03-BIN-B01-M01-013",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSetiap Jumat, kelas Nisa melakukan piket bersama. Nisa menyapu lantai. Edo merapikan kursi. Sari mengumpulkan kertas bekas. Sesudah piket, kelas menjadi rapi.\n\nApa hasil kegiatan mereka?",
+          "options": [
+            "Kelas menjadi rapi",
+            "Kelas penuh air",
+            "Kursi dibuang semua",
+            "Buku tidak dapat dibaca"
+          ],
+          "answer": "Kelas menjadi rapi",
+          "discussion": "Hasil kegiatan dinyatakan pada kalimat terakhir."
+        },
+        {
+          "id": "K03-BIN-B01-M01-014",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSetiap Jumat, kelas Nisa melakukan piket bersama. Nisa menyapu lantai. Edo merapikan kursi. Sari mengumpulkan kertas bekas. Sesudah piket, kelas menjadi rapi.\n\nKalimat mana yang mendukung gagasan kegiatan piket bersama?",
+          "options": [
+            "Sari membeli roti di toko.",
+            "Sari mengumpulkan kertas bekas.",
+            "Edo bersepeda ke pantai.",
+            "Nisa menonton pertunjukan."
+          ],
+          "answer": "Sari mengumpulkan kertas bekas.",
+          "discussion": "Mengumpulkan kertas bekas merupakan bagian dari piket yang dibahas bacaan."
+        },
+        {
+          "id": "K03-BIN-B01-M01-015",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSetiap Jumat, kelas Nisa melakukan piket bersama. Nisa menyapu lantai. Edo merapikan kursi. Sari mengumpulkan kertas bekas. Sesudah piket, kelas menjadi rapi.\n\nJudul yang paling sesuai ialah ...",
+          "options": [
+            "Liburan Edo di Pantai",
+            "Resep Roti Buatan Sari",
+            "Piket Bersama di Kelas Nisa",
+            "Pertunjukan Musik Jumat Malam"
+          ],
+          "answer": "Piket Bersama di Kelas Nisa",
+          "discussion": "Judul harus mencerminkan kegiatan utama dan tempatnya, yaitu piket di kelas."
+        },
+        {
+          "id": "K03-BIN-B01-M01-016",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPada hari Minggu, Mila berkunjung ke rumah nenek di Bogor. Mila membawa gambar buatannya. Nenek menempelkan gambar itu di ruang tamu. Mila merasa senang.\n\nKe mana Mila berkunjung?",
+          "options": [
+            "Sekolah di Bandung",
+            "Pasar di Medan",
+            "Kebun di Solo",
+            "Rumah nenek di Bogor"
+          ],
+          "answer": "Rumah nenek di Bogor",
+          "discussion": "Tempat tujuan disebut dengan jelas pada kalimat pertama."
+        },
+        {
+          "id": "K03-BIN-B01-M01-017",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPada hari Minggu, Mila berkunjung ke rumah nenek di Bogor. Mila membawa gambar buatannya. Nenek menempelkan gambar itu di ruang tamu. Mila merasa senang.\n\nApa yang dibawa Mila?",
+          "options": [
+            "Gambar buatannya",
+            "Kue dari toko",
+            "Bunga dari sekolah",
+            "Buku milik nenek"
+          ],
+          "answer": "Gambar buatannya",
+          "discussion": "Bacaan hanya menyatakan Mila membawa gambar buatannya."
+        },
+        {
+          "id": "K03-BIN-B01-M01-018",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPada hari Minggu, Mila berkunjung ke rumah nenek di Bogor. Mila membawa gambar buatannya. Nenek menempelkan gambar itu di ruang tamu. Mila merasa senang.\n\nBagaimana perasaan Mila pada akhir bacaan?",
+          "options": [
+            "Takut",
+            "Senang",
+            "Marah",
+            "Bosan"
+          ],
+          "answer": "Senang",
+          "discussion": "Kalimat terakhir langsung menyebut perasaan Mila."
+        },
+        {
+          "id": "K03-BIN-B01-M01-019",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPada hari Minggu, Mila berkunjung ke rumah nenek di Bogor. Mila membawa gambar buatannya. Nenek menempelkan gambar itu di ruang tamu. Mila merasa senang.\n\nPenulisan nama kota dalam bacaan yang tepat ialah ...",
+          "options": [
+            "bogor",
+            "bOGOR",
+            "Bogor",
+            "boGor"
+          ],
+          "answer": "Bogor",
+          "discussion": "Nama kota diawali huruf kapital sehingga bentuk yang tepat adalah Bogor."
+        },
+        {
+          "id": "K03-BIN-B01-M01-020",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPada hari Minggu, Mila berkunjung ke rumah nenek di Bogor. Mila membawa gambar buatannya. Nenek menempelkan gambar itu di ruang tamu. Mila merasa senang.\n\nUrutan peristiwa yang sesuai ialah ...",
+          "options": [
+            "Gambar ditempel, Mila pulang, lalu Mila menggambar di sekolah.",
+            "Nenek berangkat ke sekolah, lalu membeli gambar.",
+            "Mila menjual gambar, lalu nenek pergi ke pasar.",
+            "Mila berkunjung, menyerahkan gambar, lalu gambar ditempel."
+          ],
+          "answer": "Mila berkunjung, menyerahkan gambar, lalu gambar ditempel.",
+          "discussion": "Urutan itu mengikuti kedatangan Mila dengan gambar dan tindakan nenek sesudahnya."
+        },
+        {
+          "id": "K03-BIN-B01-M01-021",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDini dan Arga berbeda kegemaran. Dini suka membaca cerita, sedangkan Arga suka menggambar. Mereka membuat buku kecil bersama. Dini menulis cerita dan Arga membuat ilustrasinya.\n\nApa perbedaan kegemaran Dini dan Arga?",
+          "options": [
+            "Dini membaca cerita, Arga menggambar.",
+            "Dini berenang, Arga menyanyi.",
+            "Dini menari, Arga bermain bola.",
+            "Dini berkebun, Arga memasak."
+          ],
+          "answer": "Dini membaca cerita, Arga menggambar.",
+          "discussion": "Dua kegemaran itu disebut pada kalimat kedua."
+        },
+        {
+          "id": "K03-BIN-B01-M01-022",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDini dan Arga berbeda kegemaran. Dini suka membaca cerita, sedangkan Arga suka menggambar. Mereka membuat buku kecil bersama. Dini menulis cerita dan Arga membuat ilustrasinya.\n\nSiapa yang membuat ilustrasi?",
+          "options": [
+            "Dini",
+            "Arga",
+            "Nenek",
+            "Penjual buku"
+          ],
+          "answer": "Arga",
+          "discussion": "Kalimat terakhir menjelaskan pembagian tugas mereka."
+        },
+        {
+          "id": "K03-BIN-B01-M01-023",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDini dan Arga berbeda kegemaran. Dini suka membaca cerita, sedangkan Arga suka menggambar. Mereka membuat buku kecil bersama. Dini menulis cerita dan Arga membuat ilustrasinya.\n\nKata “ilustrasi” pada bacaan berarti ...",
+          "options": [
+            "Tali untuk mengikat buku",
+            "Harga yang tertulis di sampul",
+            "Gambar yang membantu menjelaskan cerita",
+            "Suara yang terdengar dari radio"
+          ],
+          "answer": "Gambar yang membantu menjelaskan cerita",
+          "discussion": "Ilustrasi berupa gambar pendamping teks agar cerita lebih mudah dipahami."
+        },
+        {
+          "id": "K03-BIN-B01-M01-024",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDini dan Arga berbeda kegemaran. Dini suka membaca cerita, sedangkan Arga suka menggambar. Mereka membuat buku kecil bersama. Dini menulis cerita dan Arga membuat ilustrasinya.\n\nGagasan utama bacaan tersebut ialah ...",
+          "options": [
+            "Semua teman harus mempunyai kegemaran sama.",
+            "Arga tidak mau membuat buku.",
+            "Dini meninggalkan seluruh pekerjaannya.",
+            "Dini dan Arga bekerja sama dengan kegemaran berbeda."
+          ],
+          "answer": "Dini dan Arga bekerja sama dengan kegemaran berbeda.",
+          "discussion": "Bacaan menghubungkan perbedaan kegemaran dengan kerja sama membuat buku."
+        },
+        {
+          "id": "K03-BIN-B01-M01-025",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDini dan Arga berbeda kegemaran. Dini suka membaca cerita, sedangkan Arga suka menggambar. Mereka membuat buku kecil bersama. Dini menulis cerita dan Arga membuat ilustrasinya.\n\nSikap yang sesuai ketika teman mempunyai kegemaran berbeda ialah ...",
+          "options": [
+            "Menghargai kegemarannya",
+            "Mengejek kegemarannya",
+            "Memaksanya selalu meniru kita",
+            "Melarangnya belajar"
+          ],
+          "answer": "Menghargai kegemarannya",
+          "discussion": "Contoh Dini dan Arga menunjukkan bahwa perbedaan dapat dihargai dan digunakan untuk bekerja sama."
+        },
+        {
+          "id": "K03-BIN-B01-M01-026",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBacalah petunjuk merapikan tas: Pertama, keluarkan isi tas. Kedua, pisahkan buku yang diperlukan besok. Ketiga, masukkan buku itu dengan rapi. Terakhir, periksa kembali alat tulis.\n\nApa langkah pertama?",
+          "options": [
+            "Memeriksa alat tulis",
+            "Mengeluarkan isi tas",
+            "Memasukkan buku",
+            "Menutup semua buku"
+          ],
+          "answer": "Mengeluarkan isi tas",
+          "discussion": "Petunjuk menggunakan kata pertama untuk langkah mengeluarkan isi tas."
+        },
+        {
+          "id": "K03-BIN-B01-M01-027",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBacalah petunjuk merapikan tas: Pertama, keluarkan isi tas. Kedua, pisahkan buku yang diperlukan besok. Ketiga, masukkan buku itu dengan rapi. Terakhir, periksa kembali alat tulis.\n\nApa yang dilakukan setelah memisahkan buku?",
+          "options": [
+            "Langsung meninggalkan tas",
+            "Membuang alat tulis",
+            "Memasukkan buku dengan rapi",
+            "Mengeluarkan kembali semua buku"
+          ],
+          "answer": "Memasukkan buku dengan rapi",
+          "discussion": "Langkah ketiga dilakukan sesudah langkah kedua, yaitu memasukkan buku."
+        },
+        {
+          "id": "K03-BIN-B01-M01-028",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBacalah petunjuk merapikan tas: Pertama, keluarkan isi tas. Kedua, pisahkan buku yang diperlukan besok. Ketiga, masukkan buku itu dengan rapi. Terakhir, periksa kembali alat tulis.\n\nKata yang menandai langkah paling akhir ialah ...",
+          "options": [
+            "Pertama",
+            "Kedua",
+            "Sebelum",
+            "Terakhir"
+          ],
+          "answer": "Terakhir",
+          "discussion": "Kata terakhir menunjukkan kegiatan penutup dalam urutan petunjuk."
+        },
+        {
+          "id": "K03-BIN-B01-M01-029",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBacalah petunjuk merapikan tas: Pertama, keluarkan isi tas. Kedua, pisahkan buku yang diperlukan besok. Ketiga, masukkan buku itu dengan rapi. Terakhir, periksa kembali alat tulis.\n\nMengapa petunjuk perlu diikuti secara urut?",
+          "options": [
+            "Agar tas tersusun sesuai kebutuhan",
+            "Agar semua buku tertinggal",
+            "Agar alat tulis hilang",
+            "Agar tas tidak bisa dibuka"
+          ],
+          "answer": "Agar tas tersusun sesuai kebutuhan",
+          "discussion": "Urutan membantu memilih dan memasukkan perlengkapan yang diperlukan."
+        },
+        {
+          "id": "K03-BIN-B01-M01-030",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBacalah petunjuk merapikan tas: Pertama, keluarkan isi tas. Kedua, pisahkan buku yang diperlukan besok. Ketiga, masukkan buku itu dengan rapi. Terakhir, periksa kembali alat tulis.\n\nKalimat perintah yang cocok untuk petunjuk itu ialah ...",
+          "options": [
+            "Apakah tasmu berwarna biru?",
+            "Susunlah buku di dalam tas!",
+            "Aku mempunyai tas baru.",
+            "Tas itu dibeli kemarin."
+          ],
+          "answer": "Susunlah buku di dalam tas!",
+          "discussion": "Kata susunlah meminta pembaca melakukan tindakan tertentu."
+        },
+        {
+          "id": "K03-BIN-B01-M01-031",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nLengkapi penulisan kalimat berikut: “kapan kamu mengembalikan buku itu”\n\nHuruf pertama kalimat tersebut seharusnya ...",
+          "options": [
+            "k",
+            "M",
+            "K",
+            "m"
+          ],
+          "answer": "K",
+          "discussion": "Awal kalimat menggunakan huruf kapital; kata kapan diawali K."
+        },
+        {
+          "id": "K03-BIN-B01-M01-032",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nLengkapi penulisan kalimat berikut: “kapan kamu mengembalikan buku itu”\n\nTanda baca untuk mengakhiri kalimat tersebut ialah ...",
+          "options": [
+            "Tanda titik (.)",
+            "Tanda koma (,)",
+            "Tanda hubung (-)",
+            "Tanda tanya (?)"
+          ],
+          "answer": "Tanda tanya (?)",
+          "discussion": "Kata kapan meminta informasi waktu sehingga kalimat diakhiri tanda tanya."
+        },
+        {
+          "id": "K03-BIN-B01-M01-033",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nLengkapi penulisan kalimat berikut: “kapan kamu mengembalikan buku itu”\n\nKalimat yang sudah ditulis dengan tepat ialah ...",
+          "options": [
+            "Kapan kamu mengembalikan buku itu?",
+            "kapan kamu mengembalikan buku itu.",
+            "Kapan kamu mengembalikan buku itu,",
+            "kapan Kamu mengembalikan buku itu!"
+          ],
+          "answer": "Kapan kamu mengembalikan buku itu?",
+          "discussion": "Kalimat tanya dimulai huruf kapital dan diakhiri tanda tanya."
+        },
+        {
+          "id": "K03-BIN-B01-M01-034",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nLengkapi penulisan kalimat berikut: “kapan kamu mengembalikan buku itu”\n\nKalimat itu meminta informasi tentang ...",
+          "options": [
+            "Warna sampul buku",
+            "Waktu pengembalian buku",
+            "Nama pengarang buku",
+            "Harga sebuah buku"
+          ],
+          "answer": "Waktu pengembalian buku",
+          "discussion": "Kata tanya kapan digunakan untuk menanyakan waktu."
+        },
+        {
+          "id": "K03-BIN-B01-M01-035",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nLengkapi penulisan kalimat berikut: “kapan kamu mengembalikan buku itu”\n\nJawaban yang sesuai untuk pertanyaan itu ialah ...",
+          "options": [
+            "Sampulnya hijau.",
+            "Pengarangnya Bu Rika.",
+            "Besok pagi.",
+            "Harganya sepuluh ribu rupiah."
+          ],
+          "answer": "Besok pagi.",
+          "discussion": "Besok pagi memberikan informasi waktu yang diminta oleh kata kapan."
+        },
+        {
+          "id": "K03-BIN-B01-M01-036",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPerhatikan kalimat: “Sita membawa buku, pensil, dan penghapus.”\n\nApa fungsi tanda koma pada kalimat tersebut?",
+          "options": [
+            "Mengakhiri pertanyaan",
+            "Menunjukkan judul buku",
+            "Menggantikan huruf kapital",
+            "Memisahkan benda dalam perincian"
+          ],
+          "answer": "Memisahkan benda dalam perincian",
+          "discussion": "Koma memisahkan unsur perincian: buku, pensil, dan penghapus."
+        },
+        {
+          "id": "K03-BIN-B01-M01-037",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPerhatikan kalimat: “Sita membawa buku, pensil, dan penghapus.”\n\nBenda mana yang tidak disebut dalam kalimat?",
+          "options": [
+            "Penggaris",
+            "Buku",
+            "Pensil",
+            "Penghapus"
+          ],
+          "answer": "Penggaris",
+          "discussion": "Perincian hanya menyebut buku, pensil, dan penghapus."
+        },
+        {
+          "id": "K03-BIN-B01-M01-038",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPerhatikan kalimat: “Sita membawa buku, pensil, dan penghapus.”\n\nMengapa kata Sita diawali huruf kapital?",
+          "options": [
+            "Karena semua kata harus berhuruf kapital",
+            "Karena merupakan nama orang dan berada di awal kalimat",
+            "Karena menunjukkan nama hari",
+            "Karena merupakan kata tanya"
+          ],
+          "answer": "Karena merupakan nama orang dan berada di awal kalimat",
+          "discussion": "Sita adalah nama orang sekaligus kata pertama dalam kalimat."
+        },
+        {
+          "id": "K03-BIN-B01-M01-039",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPerhatikan kalimat: “Sita membawa buku, pensil, dan penghapus.”\n\nTanda baca pada akhir kalimat tersebut ialah ...",
+          "options": [
+            "Tanya",
+            "Koma",
+            "Titik",
+            "Seru"
+          ],
+          "answer": "Titik",
+          "discussion": "Kalimat pernyataan itu diakhiri tanda titik."
+        },
+        {
+          "id": "K03-BIN-B01-M01-040",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPerhatikan kalimat: “Sita membawa buku, pensil, dan penghapus.”\n\nKalimat lain dengan perincian yang tepat ialah ...",
+          "options": [
+            "Kami menanam? cabai tomat dan bayam.",
+            "Kami, menanam cabai tomat dan bayam?",
+            "Kami menanam cabai. tomat. dan bayam?",
+            "Kami menanam cabai, tomat, dan bayam."
+          ],
+          "answer": "Kami menanam cabai, tomat, dan bayam.",
+          "discussion": "Koma memisahkan nama tanaman dalam satu perincian dan titik mengakhiri pernyataan."
+        },
+        {
+          "id": "K03-BIN-B01-M01-041",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKebun sekolah menjadi tempat belajar bersama. Anak-anak mengamati daun dan batang. Mereka juga mencatat nama tanaman. Kegiatan itu membuat mereka mengenal tumbuhan di sekitarnya.\n\nGagasan utama bacaan ialah ...",
+          "options": [
+            "Kebun sekolah digunakan untuk belajar bersama.",
+            "Kebun sekolah hanya untuk berlari.",
+            "Anak-anak tidak mengenal sekolahnya.",
+            "Nama tanaman tidak perlu dicatat."
+          ],
+          "answer": "Kebun sekolah digunakan untuk belajar bersama.",
+          "discussion": "Kalimat pertama memuat pokok pembahasan, lalu dijelaskan melalui kegiatan anak-anak."
+        },
+        {
+          "id": "K03-BIN-B01-M01-042",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKebun sekolah menjadi tempat belajar bersama. Anak-anak mengamati daun dan batang. Mereka juga mencatat nama tanaman. Kegiatan itu membuat mereka mengenal tumbuhan di sekitarnya.\n\nBagian tanaman apa yang diamati?",
+          "options": [
+            "Akar dan buah saja",
+            "Daun dan batang",
+            "Bunga dan biji saja",
+            "Duri dan umbi saja"
+          ],
+          "answer": "Daun dan batang",
+          "discussion": "Kalimat kedua secara khusus menyebut daun dan batang."
+        },
+        {
+          "id": "K03-BIN-B01-M01-043",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKebun sekolah menjadi tempat belajar bersama. Anak-anak mengamati daun dan batang. Mereka juga mencatat nama tanaman. Kegiatan itu membuat mereka mengenal tumbuhan di sekitarnya.\n\nSelain mengamati, anak-anak juga ...",
+          "options": [
+            "Mengecat seluruh daun",
+            "Membuang semua tanaman",
+            "Mencatat nama tanaman",
+            "Menutup kebun selamanya"
+          ],
+          "answer": "Mencatat nama tanaman",
+          "discussion": "Kegiatan mencatat nama tanaman dinyatakan pada kalimat ketiga."
+        },
+        {
+          "id": "K03-BIN-B01-M01-044",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKebun sekolah menjadi tempat belajar bersama. Anak-anak mengamati daun dan batang. Mereka juga mencatat nama tanaman. Kegiatan itu membuat mereka mengenal tumbuhan di sekitarnya.\n\nKata “mengamati” berarti ...",
+          "options": [
+            "Menebak tanpa melihat",
+            "Meninggalkan dengan cepat",
+            "Menukar dengan uang",
+            "Memperhatikan dengan teliti"
+          ],
+          "answer": "Memperhatikan dengan teliti",
+          "discussion": "Mengamati berarti memperhatikan suatu hal secara teliti untuk mengenalinya."
+        },
+        {
+          "id": "K03-BIN-B01-M01-045",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKebun sekolah menjadi tempat belajar bersama. Anak-anak mengamati daun dan batang. Mereka juga mencatat nama tanaman. Kegiatan itu membuat mereka mengenal tumbuhan di sekitarnya.\n\nManfaat kegiatan dalam bacaan ialah ...",
+          "options": [
+            "Mengenal tumbuhan di sekitar",
+            "Membuat tanaman tidak tumbuh",
+            "Menghilangkan semua catatan",
+            "Menjadikan kebun tempat parkir"
+          ],
+          "answer": "Mengenal tumbuhan di sekitar",
+          "discussion": "Kalimat penutup menjelaskan bahwa anak-anak lebih mengenal tumbuhan."
+        },
+        {
+          "id": "K03-BIN-B01-M01-046",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRiko ingin menceritakan kembali pengalaman membersihkan halaman bersama teman. Ia menulis tiga catatan: halaman penuh daun; teman-teman menyapu bersama; halaman kembali bersih.\n\nCatatan yang menjadi bagian awal cerita ialah ...",
+          "options": [
+            "Halaman kembali bersih",
+            "Halaman penuh daun",
+            "Teman-teman sudah pulang",
+            "Riko membeli sapu baru"
+          ],
+          "answer": "Halaman penuh daun",
+          "discussion": "Keadaan awal halaman penuh daun menjelaskan mengapa kegiatan membersihkan dilakukan."
+        },
+        {
+          "id": "K03-BIN-B01-M01-047",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRiko ingin menceritakan kembali pengalaman membersihkan halaman bersama teman. Ia menulis tiga catatan: halaman penuh daun; teman-teman menyapu bersama; halaman kembali bersih.\n\nPeristiwa yang menjadi bagian tengah ialah ...",
+          "options": [
+            "Halaman sudah bersih sejak awal",
+            "Daun dibawa ke toko",
+            "Teman-teman menyapu bersama",
+            "Riko tidur di kelas"
+          ],
+          "answer": "Teman-teman menyapu bersama",
+          "discussion": "Kegiatan menyapu merupakan tindakan yang mengubah keadaan halaman."
+        },
+        {
+          "id": "K03-BIN-B01-M01-048",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRiko ingin menceritakan kembali pengalaman membersihkan halaman bersama teman. Ia menulis tiga catatan: halaman penuh daun; teman-teman menyapu bersama; halaman kembali bersih.\n\nBagian penutup yang sesuai ialah ...",
+          "options": [
+            "Halaman semakin penuh daun",
+            "Semua teman belum datang",
+            "Sapu belum pernah dipakai",
+            "Halaman kembali bersih"
+          ],
+          "answer": "Halaman kembali bersih",
+          "discussion": "Catatan terakhir menunjukkan hasil setelah halaman disapu bersama."
+        },
+        {
+          "id": "K03-BIN-B01-M01-049",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRiko ingin menceritakan kembali pengalaman membersihkan halaman bersama teman. Ia menulis tiga catatan: halaman penuh daun; teman-teman menyapu bersama; halaman kembali bersih.\n\nKata penghubung yang sesuai dalam kalimat “Mereka menyapu bersama, ... halaman menjadi bersih” ialah ...",
+          "options": [
+            "sehingga",
+            "tetapi",
+            "atau",
+            "meskipun"
+          ],
+          "answer": "sehingga",
+          "discussion": "Sehingga menghubungkan tindakan menyapu dengan akibatnya, yaitu halaman menjadi bersih."
+        },
+        {
+          "id": "K03-BIN-B01-M01-050",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRiko ingin menceritakan kembali pengalaman membersihkan halaman bersama teman. Ia menulis tiga catatan: halaman penuh daun; teman-teman menyapu bersama; halaman kembali bersih.\n\nCara menceritakan kembali pengalaman yang baik ialah ...",
+          "options": [
+            "Mengubah semua kejadian agar bertentangan dengan catatan",
+            "Menyampaikan peristiwa secara urut dengan kata-kata sendiri",
+            "Hanya menyebut satu benda tanpa menjelaskan peristiwa",
+            "Mencampur akhir dan awal tanpa hubungan"
+          ],
+          "answer": "Menyampaikan peristiwa secara urut dengan kata-kata sendiri",
+          "discussion": "Penceritaan kembali menjaga isi utama dan urutan, meskipun menggunakan kata-kata sendiri."
+        }
+      ]
+    }
+  ]
+}

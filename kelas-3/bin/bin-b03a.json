@@ -1,0 +1,365 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Bahasa Indonesia: Kawan Seiring untuk SD/MI Kelas III (Edisi Revisi)",
+    "year": 2025,
+    "authors": [
+      "Gantino Habibi",
+      "S. Nailul Muna Aljamaliah"
+    ],
+    "isbn_pdf": "978-634-00-3315-1",
+    "reading_url": "https://fliphtml5.com/Yenny_73/Bahasa-Indonesia_BS_KLS_III_Rev/",
+    "note": "Buku pemerintah dibaca melalui salinan daring. Judul dan urutan bab mengikuti edisi revisi 2025. Bacaan, soal, dan SVG EDUYASA ditulis sendiri; bukan salinan latihan buku."
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-BIN-B03",
+      "chapter_title": "Pribadi yang Hebat",
+      "questions": [
+        {
+          "id": "K03-BIN-B03-M01-051",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nBagian mana yang menunjukkan usaha Damar?",
+          "options": [
+            "Panel AWAL",
+            "Panel HASIL",
+            "Panel USAHA",
+            "Tidak ada usaha dalam gambar"
+          ],
+          "answer": "Panel USAHA",
+          "discussion": "Panel tengah memuat latihan bersama Ayah sebagai tindakan untuk berkembang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-01.svg",
+            "alt": "Latihan membaca Damar. AWAL: Damar sering berhenti membaca. USAHA: Berlatih bersama Ayah. HASIL: Membaca lebih lancar."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-052",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nPesan yang sesuai dengan gambar ialah ...",
+          "options": [
+            "Membaca lancar tidak memerlukan usaha.",
+            "Kesulitan harus membuat kita berhenti.",
+            "Bantuan orang lain selalu harus ditolak.",
+            "Latihan dapat membantu kemampuan membaca."
+          ],
+          "answer": "Latihan dapat membantu kemampuan membaca.",
+          "discussion": "Urutan gambar menghubungkan latihan dengan peningkatan kemampuan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-01.svg",
+            "alt": "Latihan membaca Damar. AWAL: Damar sering berhenti membaca. USAHA: Berlatih bersama Ayah. HASIL: Membaca lebih lancar."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-053",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nMasalah pada awal cerita bergambar ialah ...",
+          "options": [
+            "Lipatan perahu mudah terbuka",
+            "Kertas tidak tersedia sama sekali",
+            "Wati kehilangan sepatunya",
+            "Meja berubah menjadi air"
+          ],
+          "answer": "Lipatan perahu mudah terbuka",
+          "discussion": "Panel pertama menggambarkan percobaan lipatan yang belum berhasil.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-02.svg",
+            "alt": "Perahu kertas Wati. 1: Lipatan pertama terbuka. 2: Wati melihat contoh lalu mencoba. 3: Perahu terbentuk rapi."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-054",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa yang dilakukan Wati untuk memperbaiki hasilnya?",
+          "options": [
+            "Membuang semua contoh",
+            "Melihat contoh lalu mencoba lagi",
+            "Meninggalkan tugas tanpa mencoba",
+            "Meminta orang lain mengerjakan semua bagian"
+          ],
+          "answer": "Melihat contoh lalu mencoba lagi",
+          "discussion": "Panel 2 menunjukkan cara Wati belajar dari contoh dan mengulang percobaan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-02.svg",
+            "alt": "Perahu kertas Wati. 1: Lipatan pertama terbuka. 2: Wati melihat contoh lalu mencoba. 3: Perahu terbentuk rapi."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-055",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nTindakan yang menunjukkan kejujuran Rafi ialah ...",
+          "options": [
+            "Mengambil uang di dalamnya",
+            "Menyembunyikan dompet di rumah",
+            "Menyerahkan dompet kepada guru",
+            "Menjual dompet kepada teman"
+          ],
+          "answer": "Menyerahkan dompet kepada guru",
+          "discussion": "Penyerahan barang temuan membantu mengembalikannya kepada pemilik, sesuai panel 2.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-03.svg",
+            "alt": "Dompet di halaman. 1: Rafi menemukan dompet. 2: Rafi menyerahkan ke guru. 3: Guru mencari pemiliknya."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-056",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat yang sesuai untuk panel terakhir ialah ...",
+          "options": [
+            "Guru membuang seluruh buku.",
+            "Rafi pergi berbelanja sendiri.",
+            "Pemilik dompet menanam bunga.",
+            "Guru berusaha menemukan pemilik dompet."
+          ],
+          "answer": "Guru berusaha menemukan pemilik dompet.",
+          "discussion": "Keterangan dan percakapan pada panel terakhir menunjukkan pencarian pemilik.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-03.svg",
+            "alt": "Dompet di halaman. 1: Rafi menemukan dompet. 2: Rafi menyerahkan ke guru. 3: Guru mencari pemiliknya."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-057",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKapan masalah perawatan diketahui?",
+          "options": [
+            "Rabu",
+            "Senin",
+            "Kamis",
+            "Minggu"
+          ],
+          "answer": "Rabu",
+          "discussion": "Kartu RABU mencatat tanah kering dan kelupaan menyiram.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-04.svg",
+            "alt": "Belajar dari catatan tanaman. SENIN: Biji ditanam. RABU: Tanah kering; lupa menyiram. KAMIS: Jadwal perawatan diperbaiki."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-058",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nPerbaikan yang dilakukan tokoh ialah ...",
+          "options": [
+            "Membuang semua catatan",
+            "Membuat perawatan lebih teratur",
+            "Berhenti merawat tanaman",
+            "Menutup pot rapat dengan buku"
+          ],
+          "answer": "Membuat perawatan lebih teratur",
+          "discussion": "Kartu terakhir menyatakan jadwal perawatan diperbaiki setelah masalah ditemukan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-04.svg",
+            "alt": "Belajar dari catatan tanaman. SENIN: Biji ditanam. RABU: Tanah kering; lupa menyiram. KAMIS: Jadwal perawatan diperbaiki."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-059",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa yang dilakukan Nina ketika giliran Aldi?",
+          "options": [
+            "Memotong setiap kalimat",
+            "Meninggalkan kelompok",
+            "Mendengarkan Aldi",
+            "Menyuruh Aldi berhenti"
+          ],
+          "answer": "Mendengarkan Aldi",
+          "discussion": "Panel paling kanan menyebut Nina mendengarkan pada giliran Aldi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-05.svg",
+            "alt": "Membagi giliran bercerita. SEBELUM TAMPIL: Nina dan Aldi berlatih. GILIRAN NINA: Aldi mendengarkan. GILIRAN ALDI: Nina mendengarkan."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-060",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nSikap yang ditunjukkan kedua tokoh ialah ...",
+          "options": [
+            "Berebut semua bagian cerita",
+            "Menghindari latihan bersama",
+            "Mengabaikan teman tampil",
+            "Saling menghargai giliran"
+          ],
+          "answer": "Saling menghargai giliran",
+          "discussion": "Keduanya memberi kesempatan pasangan berbicara dan mendengarkan saat bukan gilirannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-05.svg",
+            "alt": "Membagi giliran bercerita. SEBELUM TAMPIL: Nina dan Aldi berlatih. GILIRAN NINA: Aldi mendengarkan. GILIRAN ALDI: Nina mendengarkan."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-061",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKartu mana yang berisi keinginan awal tokoh?",
+          "options": [
+            "Kartu C",
+            "Kartu A",
+            "Kartu B",
+            "Semua kartu berisi hasil"
+          ],
+          "answer": "Kartu C",
+          "discussion": "Kartu C menyebut keinginan belajar yang mendahului latihan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-06.svg",
+            "alt": "Kartu cerita Lani. KARTU A: Lani rutin berlatih menggambar. KARTU B: Gambar Lani menjadi lebih jelas. KARTU C: Lani ingin belajar menggambar."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-062",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nUrutan cerita yang runtut berdasarkan kartu ialah ...",
+          "options": [
+            "B–A–C",
+            "C–A–B",
+            "A–B–C",
+            "B–C–A"
+          ],
+          "answer": "C–A–B",
+          "discussion": "Urutan keinginan, latihan, lalu kemajuan membentuk cerita yang berhubungan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-06.svg",
+            "alt": "Kartu cerita Lani. KARTU A: Lani rutin berlatih menggambar. KARTU B: Gambar Lani menjadi lebih jelas. KARTU C: Lani ingin belajar menggambar."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-063",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nSikap yang dapat diteladani dari Bu Rini ialah ...",
+          "options": [
+            "Mengejek pertanyaan anak",
+            "Menyembunyikan buku",
+            "Sabar membantu orang lain",
+            "Memotong semua percakapan"
+          ],
+          "answer": "Sabar membantu orang lain",
+          "discussion": "Poster menonjolkan bantuan mencari buku dan kesabaran mendengar pertanyaan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-07.svg",
+            "alt": "Bintang inspirasiku. BU RINI: Penjaga perpustakaan TINDAKAN: Membantu anak mencari buku. SIKAP: Sabar mendengar pertanyaan."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-064",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nJudul tulisan yang sesuai dengan poster ialah ...",
+          "options": [
+            "Perjalanan Kereta Malam",
+            "Cara Membuat Layang-Layang",
+            "Lomba Berenang di Danau",
+            "Bu Rini, Teladan di Perpustakaan"
+          ],
+          "answer": "Bu Rini, Teladan di Perpustakaan",
+          "discussion": "Judul pertama sesuai dengan tokoh, tempat, dan sifat teladan pada poster.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-07.svg",
+            "alt": "Bintang inspirasiku. BU RINI: Penjaga perpustakaan TINDAKAN: Membantu anak mencari buku. SIKAP: Sabar mendengar pertanyaan."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-065",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nUcapan yang paling sesuai untuk panel 2 ialah ...",
+          "options": [
+            "Bu, bolehkah saya bertanya arti kata ini?",
+            "Bu, semua pertanyaan harus dilarang!",
+            "Bu, saya akan menyembunyikan buku ini.",
+            "Bu, jangan jelaskan apa pun kepada saya!"
+          ],
+          "answer": "Bu, bolehkah saya bertanya arti kata ini?",
+          "discussion": "Jeni membutuhkan arti kata dan meminta penjelasan dengan santun.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-08.svg",
+            "alt": "Berani bertanya. 1: Jeni belum memahami kata baru. 2: Jeni bertanya dengan sopan. 3: Guru memberi penjelasan."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-066",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nHubungan panel 1 dan 2 ialah ...",
+          "options": [
+            "Jeni sudah memahami semuanya lalu berhenti belajar.",
+            "Jeni mengalami kesulitan lalu meminta bantuan.",
+            "Guru kehilangan buku lalu bertanya kepada Jeni.",
+            "Jeni membeli buku lalu menjualnya kembali."
+          ],
+          "answer": "Jeni mengalami kesulitan lalu meminta bantuan.",
+          "discussion": "Panel pertama menunjukkan kebutuhan, sementara panel kedua menunjukkan tindakan mencari bantuan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-08.svg",
+            "alt": "Berani bertanya. 1: Jeni belum memahami kata baru. 2: Jeni bertanya dengan sopan. 3: Guru memberi penjelasan."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-067",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKegiatan apa yang dijadwalkan pada Rabu?",
+          "options": [
+            "Membeli buku baru",
+            "Menggambar sepatu",
+            "Menceritakan isi bacaan",
+            "Menanam pohon"
+          ],
+          "answer": "Menceritakan isi bacaan",
+          "discussion": "Kartu RABU memuat kegiatan menceritakan isi bacaan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-09.svg",
+            "alt": "Jadwal latihan Putri. SENIN: Membaca satu paragraf. RABU: Menceritakan isi bacaan. JUMAT: Mencoba bacaan berikutnya."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-068",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat dengan penulisan nama hari yang sesuai gambar ialah ...",
+          "options": [
+            "Pada hari jumat Putri mencoba bacaan berikutnya.",
+            "pada hari Jumat putri mencoba bacaan berikutnya.",
+            "Pada hari Jumat putri Mencoba Bacaan Berikutnya.",
+            "Pada hari Jumat Putri mencoba bacaan berikutnya."
+          ],
+          "answer": "Pada hari Jumat Putri mencoba bacaan berikutnya.",
+          "discussion": "Nama hari Jumat dan nama orang Putri diawali huruf kapital; kata umum tidak perlu semuanya kapital.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-09.svg",
+            "alt": "Jadwal latihan Putri. SENIN: Membaca satu paragraf. RABU: Menceritakan isi bacaan. JUMAT: Mencoba bacaan berikutnya."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-069",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nPerubahan tokoh yang terlihat ialah ...",
+          "options": [
+            "Dari takut menjadi lebih berani bertanya",
+            "Dari rajin menjadi enggan belajar",
+            "Dari suka menolong menjadi mengejek",
+            "Dari memahami kata menjadi lupa semua huruf"
+          ],
+          "answer": "Dari takut menjadi lebih berani bertanya",
+          "discussion": "Panel pertama dan terakhir menunjukkan perubahan keberanian bertanya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-10.svg",
+            "alt": "Cerita tentang keberanian Rara. DAHULU: Takut bertanya. USAHA: Mencoba bertanya kepada guru. SEKARANG: Lebih berani meminta penjelasan."
+          }
+        },
+        {
+          "id": "K03-BIN-B03-M01-070",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat penutup yang cocok ialah ...",
+          "options": [
+            "Rara belum pernah mencoba bertanya sama sekali.",
+            "Kini Rara berani bertanya saat belum paham.",
+            "Guru melarang Rara meminta penjelasan.",
+            "Rara membuang semua buku agar tidak perlu belajar."
+          ],
+          "answer": "Kini Rara berani bertanya saat belum paham.",
+          "discussion": "Penutup itu sesuai dengan keadaan SEKARANG pada panel terakhir.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b03-gambar-10.svg",
+            "alt": "Cerita tentang keberanian Rara. DAHULU: Takut bertanya. USAHA: Mencoba bertanya kepada guru. SEKARANG: Lebih berani meminta penjelasan."
+          }
+        }
+      ]
+    }
+  ]
+}

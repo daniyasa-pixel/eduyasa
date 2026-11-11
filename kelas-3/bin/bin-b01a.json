@@ -1,0 +1,365 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Bahasa Indonesia: Kawan Seiring untuk SD/MI Kelas III (Edisi Revisi)",
+    "year": 2025,
+    "authors": [
+      "Gantino Habibi",
+      "S. Nailul Muna Aljamaliah"
+    ],
+    "isbn_pdf": "978-634-00-3315-1",
+    "reading_url": "https://fliphtml5.com/Yenny_73/Bahasa-Indonesia_BS_KLS_III_Rev/",
+    "note": "Buku pemerintah dibaca melalui salinan daring. Judul dan urutan bab mengikuti edisi revisi 2025. Bacaan, soal, dan SVG EDUYASA ditulis sendiri; bukan salinan latihan buku."
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-BIN-B01",
+      "chapter_title": "Kawan Seiring",
+      "questions": [
+        {
+          "id": "K03-BIN-B01-M01-051",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa kegiatan yang digambarkan pada panel 2?",
+          "options": [
+            "Menyusun sepatu",
+            "Menyiram bunga",
+            "Mengelap meja",
+            "Membaca di taman"
+          ],
+          "answer": "Mengelap meja",
+          "discussion": "Panel kedua memperlihatkan Tio dengan kain di dekat meja dan keterangan mengelap meja.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-01.svg",
+            "alt": "Pojok baca bersama. 1: Rani menyusun buku. 2: Tio mengelap meja. 3: Pojok baca menjadi rapi."
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-052",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat yang sesuai untuk menceritakan keseluruhan gambar ialah ...",
+          "options": [
+            "Rani bermain sendiri di lapangan.",
+            "Tio membeli bunga di pasar.",
+            "Keduanya meninggalkan pojok baca berantakan.",
+            "Rani dan Tio bekerja sama merapikan pojok baca."
+          ],
+          "answer": "Rani dan Tio bekerja sama merapikan pojok baca.",
+          "discussion": "Ketiga panel menunjukkan pembagian kerja dan hasilnya berupa pojok baca yang rapi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-01.svg",
+            "alt": "Pojok baca bersama. 1: Rani menyusun buku. 2: Tio mengelap meja. 3: Pojok baca menjadi rapi."
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-053",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nBenda apa yang terletak di sebelah kanan bangku baca pada denah?",
+          "options": [
+            "Rak buku",
+            "Pohon",
+            "Ayunan",
+            "Kolam"
+          ],
+          "answer": "Rak buku",
+          "discussion": "Denah menempatkan rak buku pada bagian kanan bangku baca.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-02.svg",
+            "alt": "Denah taman sekolah. Kiri: POHON Tengah: BANGKU BACA Kanan: RAK BUKU"
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-054",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat yang sesuai dengan denah ialah ...",
+          "options": [
+            "Pohon berada di sebelah kanan rak buku.",
+            "Bangku baca berada di antara pohon dan rak buku.",
+            "Rak buku berada di sebelah kiri pohon.",
+            "Bangku baca berada di dalam kolam."
+          ],
+          "answer": "Bangku baca berada di antara pohon dan rak buku.",
+          "discussion": "Susunan dari kiri ke kanan adalah pohon, bangku baca, lalu rak buku.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-02.svg",
+            "alt": "Denah taman sekolah. Kiri: POHON Tengah: BANGKU BACA Kanan: RAK BUKU"
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-055",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nUcapan yang cocok dengan gambar terakhir ialah ...",
+          "options": [
+            "Mengapa pohon itu tinggi?",
+            "Aku ingin membeli sepatu.",
+            "Terima kasih sudah meminjamkan pensil.",
+            "Jangan buka pintu itu!"
+          ],
+          "answer": "Terima kasih sudah meminjamkan pensil.",
+          "discussion": "Pada panel terakhir Bimo berterima kasih setelah mendapat pinjaman pensil.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-03.svg",
+            "alt": "Meminjam dan mengembalikan. 1: Bimo tidak membawa pensil. 2: Lia meminjamkan pensil. 3: Bimo: Terima kasih, Lia."
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-056",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nUrutan peristiwa pada gambar adalah ...",
+          "options": [
+            "Bimo berterima kasih, Lia pulang, pensil dibuang.",
+            "Lia kehilangan buku, Bimo menyiram bunga, Lia membaca.",
+            "Bimo membeli pensil, Lia mengecat rumah, Bimo tidur.",
+            "Bimo perlu pensil, Lia membantu, Bimo berterima kasih."
+          ],
+          "answer": "Bimo perlu pensil, Lia membantu, Bimo berterima kasih.",
+          "discussion": "Urutan mengikuti nomor panel dan hubungan masalah, bantuan, lalu ucapan terima kasih.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-03.svg",
+            "alt": "Meminjam dan mengembalikan. 1: Bimo tidak membawa pensil. 2: Lia meminjamkan pensil. 3: Bimo: Terima kasih, Lia."
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-057",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa yang harus dilakukan setelah membaca menurut poster?",
+          "options": [
+            "Mengembalikan buku ke rak",
+            "Membawa semua buku pulang",
+            "Meletakkan buku di lantai",
+            "Membuang buku yang sudah dibaca"
+          ],
+          "answer": "Mengembalikan buku ke rak",
+          "discussion": "Bagian tengah poster menyatakan petunjuk setelah membaca.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-04.svg",
+            "alt": "Papan pengingat pojok baca. POJOK BACA: Ambil satu buku. SESUDAH MEMBACA: Kembalikan ke rak. UNTUK SEMUA: Jaga buku tetap rapi!"
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-058",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa tujuan utama poster?",
+          "options": [
+            "Menjual rak bekas",
+            "Mengingatkan cara merawat pojok baca",
+            "Mengumumkan lomba berlari",
+            "Menjelaskan jadwal bus"
+          ],
+          "answer": "Mengingatkan cara merawat pojok baca",
+          "discussion": "Isi poster berhubungan dengan mengambil, mengembalikan, dan menjaga buku tetap rapi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-04.svg",
+            "alt": "Papan pengingat pojok baca. POJOK BACA: Ambil satu buku. SESUDAH MEMBACA: Kembalikan ke rak. UNTUK SEMUA: Jaga buku tetap rapi!"
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-059",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat pada kartu tengah menggunakan tanda tanya karena ...",
+          "options": [
+            "Menyebut daftar buah",
+            "Mengakhiri sebuah judul",
+            "Menanyakan letak rak buku",
+            "Memerintah teman berlari"
+          ],
+          "answer": "Menanyakan letak rak buku",
+          "discussion": "Kartu tengah memuat pertanyaan di mana yang meminta informasi tempat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-05.svg",
+            "alt": "Kartu tanda baca. PERNYATAAN .: Rina membawa buku. PERTANYAAN ?: Di mana rak buku? AJAKAN !: Ayo, rapikan buku!"
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-060",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat mana yang cocok dipasangkan dengan kartu ajakan pada gambar?",
+          "options": [
+            "Siapa nama temanmu?",
+            "Buku itu berwarna biru.",
+            "Di mana kamu duduk?",
+            "Ayo, membaca bersama!"
+          ],
+          "answer": "Ayo, membaca bersama!",
+          "discussion": "Kata ayo menandai ajakan dan bentuk itu sejenis dengan contoh pada kartu kanan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-05.svg",
+            "alt": "Kartu tanda baca. PERNYATAAN .: Rina membawa buku. PERTANYAAN ?: Di mana rak buku? AJAKAN !: Ayo, rapikan buku!"
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-061",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa tugas Arga menurut gambar?",
+          "options": [
+            "Membuat ilustrasi",
+            "Membeli semua buku",
+            "Mencuci meja",
+            "Membacakan pengumuman"
+          ],
+          "answer": "Membuat ilustrasi",
+          "discussion": "Kartu bertuliskan ARGA menyatakan tugas membuat ilustrasi dan menampilkan alat gambar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-06.svg",
+            "alt": "Buku kecil Dini dan Arga. DINI: Menulis cerita. HASIL BERSAMA: Buku cerita bergambar. ARGA: Membuat ilustrasi."
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-062",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKesimpulan yang sesuai dengan gambar ialah ...",
+          "options": [
+            "Semua tugas hanya dilakukan Dini.",
+            "Keterampilan berbeda dapat dipakai untuk membuat karya bersama.",
+            "Arga tidak ikut membuat buku.",
+            "Menulis dan menggambar tidak dapat dilakukan bersama."
+          ],
+          "answer": "Keterampilan berbeda dapat dipakai untuk membuat karya bersama.",
+          "discussion": "Bagian Dini dan Arga dihubungkan dengan satu hasil, yaitu buku cerita bergambar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-06.svg",
+            "alt": "Buku kecil Dini dan Arga. DINI: Menulis cerita. HASIL BERSAMA: Buku cerita bergambar. ARGA: Membuat ilustrasi."
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-063",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa langkah sesudah mengeluarkan isi tas?",
+          "options": [
+            "Langsung membuang tas",
+            "Menyiram tanaman",
+            "Memilih buku untuk besok",
+            "Mencuci sepatu"
+          ],
+          "answer": "Memilih buku untuk besok",
+          "discussion": "Panel 2 berada sesudah panel 1 dan berisi petunjuk memilih buku.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-07.svg",
+            "alt": "Merapikan tas. 1: Keluarkan isi tas. 2: Pilih buku untuk besok. 3: Susun buku dan alat tulis."
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-064",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat penutup yang cocok untuk petunjuk bergambar itu ialah ...",
+          "options": [
+            "Semua buku dibuang ke halaman.",
+            "Isi tas tidak pernah diperiksa.",
+            "Tas dipakai untuk menanam bunga.",
+            "Tas kini siap dibawa belajar besok."
+          ],
+          "answer": "Tas kini siap dibawa belajar besok.",
+          "discussion": "Langkah-langkah pada gambar menyiapkan perlengkapan belajar untuk esok hari.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-07.svg",
+            "alt": "Merapikan tas. 1: Keluarkan isi tas. 2: Pilih buku untuk besok. 3: Susun buku dan alat tulis."
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-065",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKapan kegiatan pada catatan dilakukan?",
+          "options": [
+            "Minggu pagi",
+            "Senin malam",
+            "Jumat sore",
+            "Rabu siang"
+          ],
+          "answer": "Minggu pagi",
+          "discussion": "Kartu WAKTU memuat tulisan Minggu pagi dan gambar matahari.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-08.svg",
+            "alt": "Catatan liburan Mila. WAKTU: Minggu pagi TEMPAT: Rumah Nenek di Bogor KEGIATAN: Membaca cerita bersama"
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-066",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat yang sesuai dengan ketiga kartu ialah ...",
+          "options": [
+            "Senin malam Mila berlari ke sekolah di Solo.",
+            "Minggu pagi Mila membaca cerita bersama Nenek di Bogor.",
+            "Mila berbelanja di pasar pada Jumat sore.",
+            "Rabu siang Mila berenang bersama guru."
+          ],
+          "answer": "Minggu pagi Mila membaca cerita bersama Nenek di Bogor.",
+          "discussion": "Kalimat tersebut menggabungkan informasi waktu, tempat, dan kegiatan tanpa mengubahnya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-08.svg",
+            "alt": "Catatan liburan Mila. WAKTU: Minggu pagi TEMPAT: Rumah Nenek di Bogor KEGIATAN: Membaca cerita bersama"
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-067",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nPanel mana yang memperlihatkan hasil kerja bakti?",
+          "options": [
+            "Panel AWAL",
+            "Panel KEGIATAN",
+            "Panel HASIL",
+            "Tidak ada panel hasil"
+          ],
+          "answer": "Panel HASIL",
+          "discussion": "Panel paling kanan berlabel HASIL dan menyatakan halaman menjadi bersih.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-09.svg",
+            "alt": "Kerja bakti halaman. AWAL: Halaman penuh daun. KEGIATAN: Teman-teman menyapu. HASIL: Halaman menjadi bersih."
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-068",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKata penghubung yang tepat: “Teman-teman menyapu, ... halaman menjadi bersih.”",
+          "options": [
+            "tetapi",
+            "atau",
+            "meskipun",
+            "sehingga"
+          ],
+          "answer": "sehingga",
+          "discussion": "Gambar menunjukkan hubungan tindakan menyapu dengan akibatnya; sehingga sesuai untuk hubungan tersebut.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-09.svg",
+            "alt": "Kerja bakti halaman. AWAL: Halaman penuh daun. KEGIATAN: Teman-teman menyapu. HASIL: Halaman menjadi bersih."
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-069",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nBuku mana yang sesuai untuk mencari cerita tentang pertemanan?",
+          "options": [
+            "Sahabat Baru",
+            "Kebun Sekolah",
+            "Cerita Hewan",
+            "Daftar Belanja"
+          ],
+          "answer": "Sahabat Baru",
+          "discussion": "Judul Sahabat Baru paling langsung menunjukkan tema pertemanan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-10.svg",
+            "alt": "Tiga buku di rak. BUKU 1: Cerita Hewan BUKU 2: Kebun Sekolah BUKU 3: Sahabat Baru"
+          }
+        },
+        {
+          "id": "K03-BIN-B01-M01-070",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat yang sesuai dengan gambar ialah ...",
+          "options": [
+            "Semua buku memiliki judul Kebun Sekolah.",
+            "Ada tiga buku dengan judul yang berbeda.",
+            "Di rak hanya ada satu buku.",
+            "Tidak ada buku bertema hewan."
+          ],
+          "answer": "Ada tiga buku dengan judul yang berbeda.",
+          "discussion": "Gambar memperlihatkan tiga buku dengan tiga judul berbeda, termasuk Cerita Hewan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-gambar-10.svg",
+            "alt": "Tiga buku di rak. BUKU 1: Cerita Hewan BUKU 2: Kebun Sekolah BUKU 3: Sahabat Baru"
+          }
+        }
+      ]
+    }
+  ]
+}

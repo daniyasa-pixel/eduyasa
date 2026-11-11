@@ -1,0 +1,51 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Bahasa Indonesia: Kawan Seiring untuk SD/MI Kelas III (Edisi Revisi)",
+    "year": 2025,
+    "authors": [
+      "Gantino Habibi",
+      "S. Nailul Muna Aljamaliah"
+    ],
+    "isbn_pdf": "978-634-00-3315-1",
+    "reading_url": "https://fliphtml5.com/Yenny_73/Bahasa-Indonesia_BS_KLS_III_Rev/",
+    "note": "Buku pemerintah dibaca melalui salinan daring. Judul dan urutan bab mengikuti edisi revisi 2025. Bacaan, soal, dan SVG EDUYASA ditulis sendiri; bukan salinan latihan buku."
+  },
+  "chapter_id": "K03-BIN-B04",
+  "chapter_title": "Menyelamatkan Lingkungan",
+  "learning_objectives": [
+    "Mengenali tokoh, latar, unsur khayal, masalah, usaha, dan akhir dongeng.",
+    "Menentukan hubungan sebab-akibat, perubahan tokoh, dan pesan berdasarkan peristiwa.",
+    "Menyusun, menceritakan kembali, dan melengkapi dongeng yang runtut.",
+    "Memahami ajakan menjaga lingkungan dan menerapkan pesan cerita secara masuk akal."
+  ],
+  "modules": [
+    {
+      "id": "K03-BIN-B04-MOD-01",
+      "version": "MOD-01",
+      "title": "Belajar dan mencoba: Menyelamatkan Lingkungan",
+      "learning_objectives": [
+        "Mengenali tokoh, latar, unsur khayal, masalah, usaha, dan akhir dongeng.",
+        "Menentukan hubungan sebab-akibat, perubahan tokoh, dan pesan berdasarkan peristiwa.",
+        "Menyusun, menceritakan kembali, dan melengkapi dongeng yang runtut.",
+        "Memahami ajakan menjaga lingkungan dan menerapkan pesan cerita secara masuk akal."
+      ],
+      "content": "# Menyelamatkan Lingkungan\n\nDongeng adalah cerita khayal. Tokohnya dapat berupa manusia, hewan, atau benda yang bertindak seperti manusia. Dalam dongeng, burung dapat mengajak bicara dan pohon dapat berterima kasih. Itu unsur khayal, walaupun pesan menjaga lingkungan dapat kita terapkan.\n\n![Dongeng sungai bersih. MASALAH: Kelinci melihat sampah. USAHA: Rusa dan Kelinci membersihkan. HASIL: Tepi sungai lebih bersih.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-materi-01.svg)\n\n## Temukan bagian dongeng\n\nBaca cerita ini: “Kelinci melihat sampah di tepi sungai. Ia mengajak Rusa membersihkannya. Hewan lain ikut menjaga kebersihan. Tepi sungai pun menjadi lebih bersih.” Tokohnya Kelinci dan Rusa; tempatnya tepi sungai. Masalahnya sampah, usahanya membersihkan bersama, dan akhirnya tepi sungai lebih bersih.\n\nPerhatikan hubungan sebab dan akibat. Karena para tokoh membersihkan sampah, tepi sungai menjadi lebih bersih. Pesan harus sesuai peristiwa: **lingkungan perlu dijaga bersama**. Pesan “buanglah sampah ke sungai” bertentangan dengan tindakan tokoh.\n\n## Tokoh dapat berubah\n\nMusang mula-mula ingin menyimpan semua buah. Setelah mengalami kesulitan dan menerima bantuan, ia belajar berbagi. Untuk menjelaskan perubahan, bandingkan tindakan awal dan akhir. Gunakan bukti yang benar-benar ada di cerita.\n\n![Pesan dongeng menjadi tindakan. DI TAMAN: Gunakan jalan setapak. SESUDAH MEMAKAI AIR: Tutup keran dengan rapat. DI MANA PUN: Buang sampah pada tempatnya.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-materi-02.svg)\n\n## Susun dan ceritakan\n\nCatat tokoh, tempat, masalah, usaha, dan akhir. Susun awal dahulu, lalu tindakan, kemudian hasilnya. Ceritakan kembali dengan kata-kata sendiri tanpa mengubah peristiwa utama. Jika melengkapi akhir dongeng, pilih hasil yang berhubungan dengan usaha tokoh.\n\nPoster juga dapat mengajak kita menjaga lingkungan. “Tutuplah keran setelah digunakan!” mengajak menghemat air. Lihat gambar dan baca keterangannya sebelum menjelaskan maksud poster.\n\n## Misi dongengku\n\nBuat cerita pendek tentang hewan yang menjaga kebun. Sebutkan masalah, bantuan teman, dan hasilnya. Setelah itu, pilih tindakan nyata yang aman: buang sampah pada tempatnya, gunakan jalan setapak, dan tutup keran. Membersihkan sungai harus bersama orang dewasa dan tidak masuk ke air."
+    },
+    {
+      "id": "K03-BIN-B04-MOD-02",
+      "version": "MOD-02",
+      "title": "Cerita dan tantangan: Menyelamatkan Lingkungan",
+      "learning_objectives": [
+        "Mengenali tokoh, latar, unsur khayal, masalah, usaha, dan akhir dongeng.",
+        "Menentukan hubungan sebab-akibat, perubahan tokoh, dan pesan berdasarkan peristiwa.",
+        "Menyusun, menceritakan kembali, dan melengkapi dongeng yang runtut.",
+        "Memahami ajakan menjaga lingkungan dan menerapkan pesan cerita secara masuk akal."
+      ],
+      "content": "# Menyelamatkan Lingkungan\n\nBayangkan seekor Pipit dapat berbicara kepada Tupai. Sarangnya jatuh terkena angin. Tupai membawa ranting dan Pipit menyusun sarang baru. Cerita hewan yang saling berbicara itu termasuk dongeng. Kita menikmati khayalannya sambil memikirkan pelajaran dari tindakan tokoh.\n\n![Dongeng sungai bersih. MASALAH: Kelinci melihat sampah. USAHA: Rusa dan Kelinci membersihkan. HASIL: Tepi sungai lebih bersih.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-materi-01.svg)\n\n## Membuka peta dongeng\n\nPelaku cerita disebut tokoh. Tempat dan waktu disebut latar. Pada contoh tadi, masalahnya sarang jatuh; usaha tokoh adalah mengumpulkan ranting dan membangun lagi; hasilnya sarang baru selesai. Bantuan Tupai mendukung pesan saling menolong.\n\nBedakan khayalan dengan hal nyata. Tanaman layu dan hujan turun dapat terjadi. Tanaman mengucapkan terima kasih kepada awan merupakan unsur khayal. Cerita boleh berkhayal, tetapi penjelasanmu harus tetap sesuai kejadian dalam cerita.\n\n## Sebab, akibat, dan perubahan\n\nJika Kelinci dan Rusa mengumpulkan sampah, tepi sungai menjadi lebih bersih. Usaha tokoh berhubungan dengan hasil. Bila Musang awalnya ingin semua buah sendiri lalu belajar berbagi, jelaskan perubahan itu dengan membandingkan awal dan akhir.\n\n![Pesan dongeng menjadi tindakan. DI TAMAN: Gunakan jalan setapak. SESUDAH MEMAKAI AIR: Tutup keran dengan rapat. DI MANA PUN: Buang sampah pada tempatnya.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-materi-02.svg)\n\n## Merangkai ceritamu\n\nMulailah dengan tokoh, tempat, dan masalah. Lanjutkan tindakan atau bantuan. Akhiri dengan hasil yang masuk akal dalam cerita. Kamu bisa memakai mula-mula, kemudian, dan akhirnya. Saat menceritakan kembali, gunakan kata sendiri sambil mempertahankan kejadian utama. Jangan mengganti akhir menjadi bertentangan tanpa alasan.\n\nAmati juga ajakan pada gambar. Papan “Lewat jalan setapak, ya!” melindungi bunga agar tidak terinjak. Gambar dan tulisan bersama-sama menjelaskan pesan tersebut.\n\n## Tantangan\n\nBuat dongeng tiga sampai lima kalimat tentang hewan dan kebun. Beri akhir yang sesuai dengan usahanya. Ceritakan kepada teman, lalu jelaskan satu pesan. Terapkan tindakan aman seperti menaruh sampah pada tempatnya dan menutup keran. Kegiatan di tepi sungai memerlukan pendampingan orang dewasa; jangan masuk ke air."
+    }
+  ]
+}

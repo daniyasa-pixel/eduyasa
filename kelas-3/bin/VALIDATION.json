@@ -1,0 +1,175 @@
+{
+  "release": "20261111-k03-bin-1",
+  "created_at_utc": "2026-11-11T00:14:57.075208+00:00",
+  "scope": "Local pre-release technical validation; not a full academic audit",
+  "grade": 3,
+  "subject_id": "BIN",
+  "chapters": 4,
+  "plain_questions": 200,
+  "illustrated_questions": 80,
+  "modules": 8,
+  "svg_files": 48,
+  "repository_total_questions": 2710,
+  "global_question_ids_unique": true,
+  "unit_tests": {
+    "passed": 39,
+    "failed": 0,
+    "command": "node --test tests/*.test.cjs",
+    "legacy_tests_retained": 31
+  },
+  "local_browser": {
+    "viewport_width": 390,
+    "modules_loaded": 8,
+    "completed_quizzes": 4,
+    "answered_questions": 80,
+    "sessions": [
+      {
+        "chapter": 1,
+        "images": [
+          4,
+          6,
+          13,
+          16,
+          18
+        ],
+        "correct_letters": [
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "C",
+          "C",
+          "A",
+          "B",
+          "C",
+          "D",
+          "B",
+          "B",
+          "A",
+          "A",
+          "B",
+          "C",
+          "A",
+          "A",
+          "C"
+        ],
+        "score": 100
+      },
+      {
+        "chapter": 2,
+        "images": [
+          5,
+          7,
+          8,
+          9,
+          13
+        ],
+        "correct_letters": [
+          "D",
+          "D",
+          "A",
+          "A",
+          "D",
+          "A",
+          "B",
+          "D",
+          "D",
+          "C",
+          "D",
+          "C",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "C",
+          "B",
+          "A"
+        ],
+        "score": 100
+      },
+      {
+        "chapter": 3,
+        "images": [
+          10,
+          11,
+          12,
+          13,
+          18
+        ],
+        "correct_letters": [
+          "C",
+          "A",
+          "A",
+          "C",
+          "A",
+          "B",
+          "B",
+          "A",
+          "B",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "A"
+        ],
+        "score": 100
+      },
+      {
+        "chapter": 4,
+        "images": [
+          4,
+          5,
+          14,
+          16,
+          19
+        ],
+        "correct_letters": [
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "C",
+          "B",
+          "A",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "C",
+          "C",
+          "B",
+          "D",
+          "A"
+        ],
+        "score": 100
+      }
+    ],
+    "js_errors": [],
+    "image_zoom_click_keyboard": true,
+    "all_svg_rendered_xml_text_bounds_checked": true,
+    "four_chapter_quiz": true,
+    "extension_failure_blocks_quiz_and_retry_succeeds": true,
+    "grade_6_regressions": [
+      "BIN",
+      "MTK",
+      "PJK",
+      "SBD"
+    ],
+    "legacy_no_query_defaults_to_grade_6": true,
+    "whatsapp": "URL captured in test, no message sent; correct grade, chapter, score and normalized Indonesian number",
+    "return_home_and_cancel": true
+  },
+  "academic_audit": "Full academic audit by a teacher is pending; source identity, chapter structure, basic answer consistency and coverage of both versions reviewed."
+}

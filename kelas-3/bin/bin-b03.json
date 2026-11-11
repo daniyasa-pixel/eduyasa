@@ -1,0 +1,675 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Bahasa Indonesia: Kawan Seiring untuk SD/MI Kelas III (Edisi Revisi)",
+    "year": 2025,
+    "authors": [
+      "Gantino Habibi",
+      "S. Nailul Muna Aljamaliah"
+    ],
+    "isbn_pdf": "978-634-00-3315-1",
+    "reading_url": "https://fliphtml5.com/Yenny_73/Bahasa-Indonesia_BS_KLS_III_Rev/",
+    "note": "Buku pemerintah dibaca melalui salinan daring. Judul dan urutan bab mengikuti edisi revisi 2025. Bacaan, soal, dan SVG EDUYASA ditulis sendiri; bukan salinan latihan buku."
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-BIN-B03",
+      "chapter_title": "Pribadi yang Hebat",
+      "questions": [
+        {
+          "id": "K03-BIN-B03-M01-001",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDamar ingin bisa membaca cerita dengan lancar. Pada awalnya ia sering berhenti di tengah kalimat. Setiap sore, Damar berlatih satu paragraf bersama Ayah. Setelah beberapa minggu, ia dapat membaca cerita pendek dengan lebih lancar.\n\nApa tujuan Damar?",
+          "options": [
+            "Membaca cerita dengan lancar",
+            "Memenangkan lomba renang",
+            "Membuat rak sepatu",
+            "Menjual buku cerita"
+          ],
+          "answer": "Membaca cerita dengan lancar",
+          "discussion": "Tujuan Damar disebut pada kalimat pertama."
+        },
+        {
+          "id": "K03-BIN-B03-M01-002",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDamar ingin bisa membaca cerita dengan lancar. Pada awalnya ia sering berhenti di tengah kalimat. Setiap sore, Damar berlatih satu paragraf bersama Ayah. Setelah beberapa minggu, ia dapat membaca cerita pendek dengan lebih lancar.\n\nKesulitan awal Damar ialah ...",
+          "options": [
+            "Tidak menemukan sepeda",
+            "Sering berhenti di tengah kalimat",
+            "Lupa membawa bola",
+            "Tidak memiliki halaman"
+          ],
+          "answer": "Sering berhenti di tengah kalimat",
+          "discussion": "Kesulitan membaca dijelaskan pada kalimat kedua."
+        },
+        {
+          "id": "K03-BIN-B03-M01-003",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDamar ingin bisa membaca cerita dengan lancar. Pada awalnya ia sering berhenti di tengah kalimat. Setiap sore, Damar berlatih satu paragraf bersama Ayah. Setelah beberapa minggu, ia dapat membaca cerita pendek dengan lebih lancar.\n\nBagaimana Damar berusaha mencapai tujuannya?",
+          "options": [
+            "Berhenti membaca selamanya",
+            "Meminta Ayah membaca semua tugasnya",
+            "Berlatih satu paragraf setiap sore",
+            "Hanya menyimpan buku di lemari"
+          ],
+          "answer": "Berlatih satu paragraf setiap sore",
+          "discussion": "Latihan teratur merupakan usaha Damar yang diceritakan dalam bacaan."
+        },
+        {
+          "id": "K03-BIN-B03-M01-004",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDamar ingin bisa membaca cerita dengan lancar. Pada awalnya ia sering berhenti di tengah kalimat. Setiap sore, Damar berlatih satu paragraf bersama Ayah. Setelah beberapa minggu, ia dapat membaca cerita pendek dengan lebih lancar.\n\nApa perubahan yang terjadi setelah beberapa minggu?",
+          "options": [
+            "Damar tidak mengenal huruf lagi",
+            "Ayah melarang semua latihan",
+            "Buku cerita berubah menjadi panjang",
+            "Damar membaca cerita pendek lebih lancar"
+          ],
+          "answer": "Damar membaca cerita pendek lebih lancar",
+          "discussion": "Kalimat penutup menyebut kemajuan Damar setelah berlatih."
+        },
+        {
+          "id": "K03-BIN-B03-M01-005",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDamar ingin bisa membaca cerita dengan lancar. Pada awalnya ia sering berhenti di tengah kalimat. Setiap sore, Damar berlatih satu paragraf bersama Ayah. Setelah beberapa minggu, ia dapat membaca cerita pendek dengan lebih lancar.\n\nPesan cerita tersebut ialah ...",
+          "options": [
+            "Latihan teratur membantu kita berkembang.",
+            "Keberhasilan selalu datang tanpa usaha.",
+            "Kesulitan harus disembunyikan dari semua orang.",
+            "Belajar hanya boleh dilakukan sekali."
+          ],
+          "answer": "Latihan teratur membantu kita berkembang.",
+          "discussion": "Hubungan antara latihan dan kemajuan Damar menunjukkan manfaat ketekunan."
+        },
+        {
+          "id": "K03-BIN-B03-M01-006",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nWati membuat perahu kertas. Percobaan pertamanya mudah terbuka. Ia memperhatikan contoh lipatan, lalu mencoba kembali dengan lebih teliti. Akhirnya, perahu kertasnya terbentuk rapi.\n\nSiapa tokoh utama cerita?",
+          "options": [
+            "Ayah",
+            "Wati",
+            "Guru tari",
+            "Penjual kertas"
+          ],
+          "answer": "Wati",
+          "discussion": "Seluruh peristiwa berpusat pada Wati dan percobaannya membuat perahu kertas."
+        },
+        {
+          "id": "K03-BIN-B03-M01-007",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nWati membuat perahu kertas. Percobaan pertamanya mudah terbuka. Ia memperhatikan contoh lipatan, lalu mencoba kembali dengan lebih teliti. Akhirnya, perahu kertasnya terbentuk rapi.\n\nApa masalah pada percobaan pertama?",
+          "options": [
+            "Kertas berubah menjadi kain",
+            "Perahu tertinggal di pasar",
+            "Lipatan mudah terbuka",
+            "Meja tidak mempunyai kaki"
+          ],
+          "answer": "Lipatan mudah terbuka",
+          "discussion": "Masalah yang dinyatakan adalah lipatan perahu pertama mudah terbuka."
+        },
+        {
+          "id": "K03-BIN-B03-M01-008",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nWati membuat perahu kertas. Percobaan pertamanya mudah terbuka. Ia memperhatikan contoh lipatan, lalu mencoba kembali dengan lebih teliti. Akhirnya, perahu kertasnya terbentuk rapi.\n\nApa yang dilakukan Wati sebelum mencoba lagi?",
+          "options": [
+            "Membuang seluruh kertas",
+            "Meminjam sepatu teman",
+            "Pergi bersepeda",
+            "Memperhatikan contoh lipatan"
+          ],
+          "answer": "Memperhatikan contoh lipatan",
+          "discussion": "Wati mengamati contoh agar mengetahui cara memperbaiki lipatannya."
+        },
+        {
+          "id": "K03-BIN-B03-M01-009",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nWati membuat perahu kertas. Percobaan pertamanya mudah terbuka. Ia memperhatikan contoh lipatan, lalu mencoba kembali dengan lebih teliti. Akhirnya, perahu kertasnya terbentuk rapi.\n\nMakna “teliti” pada bacaan ialah ...",
+          "options": [
+            "Cermat dan hati-hati",
+            "Tergesa-gesa tanpa melihat",
+            "Selalu merasa marah",
+            "Mudah melupakan pekerjaan"
+          ],
+          "answer": "Cermat dan hati-hati",
+          "discussion": "Wati memperhatikan lipatan dengan cermat, bukan sekadar mengulang dengan terburu-buru."
+        },
+        {
+          "id": "K03-BIN-B03-M01-010",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nWati membuat perahu kertas. Percobaan pertamanya mudah terbuka. Ia memperhatikan contoh lipatan, lalu mencoba kembali dengan lebih teliti. Akhirnya, perahu kertasnya terbentuk rapi.\n\nJudul yang sesuai untuk cerita ialah ...",
+          "options": [
+            "Sepatu Baru di Pasar",
+            "Perahu Kertas dan Usaha Wati",
+            "Ayah Mencari Sepeda",
+            "Lomba Memasak di Sekolah"
+          ],
+          "answer": "Perahu Kertas dan Usaha Wati",
+          "discussion": "Judul itu mencakup benda yang dibuat dan usaha tokoh utama."
+        },
+        {
+          "id": "K03-BIN-B03-M01-011",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPagi itu, Rafi menemukan dompet kecil di halaman sekolah. Ia tidak mengambil isinya. Rafi menyerahkannya kepada guru agar dapat dikembalikan kepada pemiliknya.\n\nDi mana Rafi menemukan dompet?",
+          "options": [
+            "Ruang tamu",
+            "Kebun nenek",
+            "Halaman sekolah",
+            "Dalam bus"
+          ],
+          "answer": "Halaman sekolah",
+          "discussion": "Latar tempat disebut pada kalimat pertama."
+        },
+        {
+          "id": "K03-BIN-B03-M01-012",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPagi itu, Rafi menemukan dompet kecil di halaman sekolah. Ia tidak mengambil isinya. Rafi menyerahkannya kepada guru agar dapat dikembalikan kepada pemiliknya.\n\nKapan peristiwa itu terjadi?",
+          "options": [
+            "Tengah malam",
+            "Sore hari",
+            "Saat libur panjang",
+            "Pagi hari"
+          ],
+          "answer": "Pagi hari",
+          "discussion": "Kata pagi pada awal bacaan menunjukkan latar waktu."
+        },
+        {
+          "id": "K03-BIN-B03-M01-013",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPagi itu, Rafi menemukan dompet kecil di halaman sekolah. Ia tidak mengambil isinya. Rafi menyerahkannya kepada guru agar dapat dikembalikan kepada pemiliknya.\n\nApa tindakan Rafi setelah menemukan dompet?",
+          "options": [
+            "Menyerahkannya kepada guru",
+            "Membelanjakan semua isinya",
+            "Menyembunyikannya di rumah",
+            "Membuangnya ke sungai"
+          ],
+          "answer": "Menyerahkannya kepada guru",
+          "discussion": "Tindakan itu dijelaskan pada kalimat ketiga."
+        },
+        {
+          "id": "K03-BIN-B03-M01-014",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPagi itu, Rafi menemukan dompet kecil di halaman sekolah. Ia tidak mengambil isinya. Rafi menyerahkannya kepada guru agar dapat dikembalikan kepada pemiliknya.\n\nMengapa dompet diserahkan kepada guru?",
+          "options": [
+            "Agar menjadi hadiah untuk Rafi",
+            "Agar dapat dikembalikan kepada pemiliknya",
+            "Agar isinya dibagi kepada semua teman",
+            "Agar tidak pernah ditemukan lagi"
+          ],
+          "answer": "Agar dapat dikembalikan kepada pemiliknya",
+          "discussion": "Tujuan penyerahan dinyatakan langsung dalam bacaan."
+        },
+        {
+          "id": "K03-BIN-B03-M01-015",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPagi itu, Rafi menemukan dompet kecil di halaman sekolah. Ia tidak mengambil isinya. Rafi menyerahkannya kepada guru agar dapat dikembalikan kepada pemiliknya.\n\nSifat Rafi yang dapat diteladani ialah ...",
+          "options": [
+            "Serakah",
+            "Sombong",
+            "Jujur",
+            "Ceroboh"
+          ],
+          "answer": "Jujur",
+          "discussion": "Rafi tidak mengambil isi dompet dan berusaha mengembalikan barang milik orang lain."
+        },
+        {
+          "id": "K03-BIN-B03-M01-016",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKelompok Nina akan bercerita di depan kelas. Aldi gugup dan berbicara sangat pelan. Nina mengajaknya berlatih bergantian. Saat tampil, Nina memberi Aldi waktu untuk menyelesaikan bagiannya.\n\nApa tugas kelompok Nina?",
+          "options": [
+            "Menjual makanan di pasar",
+            "Menyusun jadwal kereta",
+            "Membersihkan sungai",
+            "Bercerita di depan kelas"
+          ],
+          "answer": "Bercerita di depan kelas",
+          "discussion": "Tugas kelompok disebut pada awal bacaan."
+        },
+        {
+          "id": "K03-BIN-B03-M01-017",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKelompok Nina akan bercerita di depan kelas. Aldi gugup dan berbicara sangat pelan. Nina mengajaknya berlatih bergantian. Saat tampil, Nina memberi Aldi waktu untuk menyelesaikan bagiannya.\n\nApa yang dialami Aldi?",
+          "options": [
+            "Gugup dan berbicara sangat pelan",
+            "Marah karena kehilangan tas",
+            "Lelah setelah berenang",
+            "Bingung memilih sepeda"
+          ],
+          "answer": "Gugup dan berbicara sangat pelan",
+          "discussion": "Bacaan menjelaskan perasaan dan cara bicara Aldi sebelum latihan."
+        },
+        {
+          "id": "K03-BIN-B03-M01-018",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKelompok Nina akan bercerita di depan kelas. Aldi gugup dan berbicara sangat pelan. Nina mengajaknya berlatih bergantian. Saat tampil, Nina memberi Aldi waktu untuk menyelesaikan bagiannya.\n\nBagaimana Nina membantu Aldi?",
+          "options": [
+            "Mengambil seluruh bagian Aldi",
+            "Mengajaknya berlatih bergantian",
+            "Mengejek suaranya",
+            "Melarangnya tampil"
+          ],
+          "answer": "Mengajaknya berlatih bergantian",
+          "discussion": "Latihan bergantian memberi Aldi kesempatan mencoba bagiannya."
+        },
+        {
+          "id": "K03-BIN-B03-M01-019",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKelompok Nina akan bercerita di depan kelas. Aldi gugup dan berbicara sangat pelan. Nina mengajaknya berlatih bergantian. Saat tampil, Nina memberi Aldi waktu untuk menyelesaikan bagiannya.\n\nSikap Nina saat tampil menunjukkan ...",
+          "options": [
+            "Memaksakan semua peran",
+            "Menghindari kerja sama",
+            "Menghargai kesempatan teman",
+            "Membiarkan tugas tidak selesai"
+          ],
+          "answer": "Menghargai kesempatan teman",
+          "discussion": "Nina memberi Aldi waktu untuk menyelesaikan bagian ceritanya."
+        },
+        {
+          "id": "K03-BIN-B03-M01-020",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKelompok Nina akan bercerita di depan kelas. Aldi gugup dan berbicara sangat pelan. Nina mengajaknya berlatih bergantian. Saat tampil, Nina memberi Aldi waktu untuk menyelesaikan bagiannya.\n\nKalimat penyemangat yang sesuai untuk Aldi ialah ...",
+          "options": [
+            "Kamu tidak akan bisa belajar!",
+            "Sebaiknya kamu tidak berbicara selamanya.",
+            "Semua teman harus menertawakanmu!",
+            "Kita berlatih pelan-pelan; kamu boleh mencoba lagi."
+          ],
+          "answer": "Kita berlatih pelan-pelan; kamu boleh mencoba lagi.",
+          "discussion": "Penyemangat memberi dukungan dan kesempatan mencoba tanpa merendahkan."
+        },
+        {
+          "id": "K03-BIN-B03-M01-021",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSeno menanam biji kacang dalam pot. Ia mencatat perubahan setiap dua hari. Suatu hari, ia lupa menyiram dan tanah menjadi kering. Seno memperbaiki jadwal perawatannya agar lebih teratur.\n\nApa yang dilakukan Seno setiap dua hari?",
+          "options": [
+            "Mencatat perubahan tanaman",
+            "Mengganti pot dengan sepatu",
+            "Menjual semua biji",
+            "Memindahkan rumah"
+          ],
+          "answer": "Mencatat perubahan tanaman",
+          "discussion": "Kegiatan mencatat perubahan dinyatakan pada kalimat kedua."
+        },
+        {
+          "id": "K03-BIN-B03-M01-022",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSeno menanam biji kacang dalam pot. Ia mencatat perubahan setiap dua hari. Suatu hari, ia lupa menyiram dan tanah menjadi kering. Seno memperbaiki jadwal perawatannya agar lebih teratur.\n\nMasalah yang muncul ialah ...",
+          "options": [
+            "Pot berubah menjadi batu",
+            "Tanah kering setelah Seno lupa menyiram",
+            "Tanaman tumbuh di dalam buku",
+            "Semua catatan hilang terbakar"
+          ],
+          "answer": "Tanah kering setelah Seno lupa menyiram",
+          "discussion": "Bacaan menghubungkan kelupaan menyiram dengan keadaan tanah yang kering."
+        },
+        {
+          "id": "K03-BIN-B03-M01-023",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSeno menanam biji kacang dalam pot. Ia mencatat perubahan setiap dua hari. Suatu hari, ia lupa menyiram dan tanah menjadi kering. Seno memperbaiki jadwal perawatannya agar lebih teratur.\n\nApa usaha Seno memperbaiki keadaan?",
+          "options": [
+            "Berhenti mengamati selamanya",
+            "Membuang pot tanpa mencoba",
+            "Memperbaiki jadwal perawatan",
+            "Menyembunyikan tanaman di lemari"
+          ],
+          "answer": "Memperbaiki jadwal perawatan",
+          "discussion": "Seno menanggapi kesalahannya dengan membuat perawatan lebih teratur."
+        },
+        {
+          "id": "K03-BIN-B03-M01-024",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSeno menanam biji kacang dalam pot. Ia mencatat perubahan setiap dua hari. Suatu hari, ia lupa menyiram dan tanah menjadi kering. Seno memperbaiki jadwal perawatannya agar lebih teratur.\n\nKalimat yang menunjukkan tanggung jawab Seno ialah ...",
+          "options": [
+            "Seno menyalahkan semua teman.",
+            "Seno meninggalkan pot di jalan.",
+            "Seno menghapus seluruh tugasnya.",
+            "Seno memperbaiki jadwal perawatannya."
+          ],
+          "answer": "Seno memperbaiki jadwal perawatannya.",
+          "discussion": "Memperbaiki cara merawat menunjukkan kesediaan bertanggung jawab terhadap tugas."
+        },
+        {
+          "id": "K03-BIN-B03-M01-025",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSeno menanam biji kacang dalam pot. Ia mencatat perubahan setiap dua hari. Suatu hari, ia lupa menyiram dan tanah menjadi kering. Seno memperbaiki jadwal perawatannya agar lebih teratur.\n\nPelajaran dari cerita Seno ialah ...",
+          "options": [
+            "Kesalahan dapat menjadi bahan perbaikan.",
+            "Kesalahan selalu harus diulangi.",
+            "Tanaman tidak perlu diperhatikan.",
+            "Catatan tidak pernah berguna."
+          ],
+          "answer": "Kesalahan dapat menjadi bahan perbaikan.",
+          "discussion": "Seno belajar dari kelupaan dan mengubah kebiasaan perawatannya."
+        },
+        {
+          "id": "K03-BIN-B03-M01-026",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nUrutkan catatan cerita Lani: (1) Lani berlatih menggambar daun setiap sore. (2) Lani ingin gambarnya lebih jelas. (3) Setelah berlatih, bentuk daun pada gambarnya semakin mudah dikenali.\n\nCatatan yang paling tepat sebagai awal cerita ialah ...",
+          "options": [
+            "Catatan 1",
+            "Catatan 2",
+            "Catatan 3",
+            "Semua catatan adalah penutup"
+          ],
+          "answer": "Catatan 2",
+          "discussion": "Keinginan Lani menjadi alasan sebelum ia mulai berlatih."
+        },
+        {
+          "id": "K03-BIN-B03-M01-027",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nUrutkan catatan cerita Lani: (1) Lani berlatih menggambar daun setiap sore. (2) Lani ingin gambarnya lebih jelas. (3) Setelah berlatih, bentuk daun pada gambarnya semakin mudah dikenali.\n\nCatatan yang menjelaskan usaha tokoh ialah ...",
+          "options": [
+            "Catatan 2",
+            "Catatan 3",
+            "Catatan 1",
+            "Tidak ada catatan tentang usaha"
+          ],
+          "answer": "Catatan 1",
+          "discussion": "Berlatih setiap sore adalah tindakan Lani untuk mencapai tujuan."
+        },
+        {
+          "id": "K03-BIN-B03-M01-028",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nUrutkan catatan cerita Lani: (1) Lani berlatih menggambar daun setiap sore. (2) Lani ingin gambarnya lebih jelas. (3) Setelah berlatih, bentuk daun pada gambarnya semakin mudah dikenali.\n\nCatatan yang menjelaskan hasil ialah ...",
+          "options": [
+            "Catatan 2",
+            "Catatan 1",
+            "Semua catatan berisi hasil",
+            "Catatan 3"
+          ],
+          "answer": "Catatan 3",
+          "discussion": "Bentuk daun yang semakin mudah dikenali merupakan hasil latihan."
+        },
+        {
+          "id": "K03-BIN-B03-M01-029",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nUrutkan catatan cerita Lani: (1) Lani berlatih menggambar daun setiap sore. (2) Lani ingin gambarnya lebih jelas. (3) Setelah berlatih, bentuk daun pada gambarnya semakin mudah dikenali.\n\nUrutan cerita yang runtut ialah ...",
+          "options": [
+            "2–1–3",
+            "3–2–1",
+            "1–3–2",
+            "3–1–2"
+          ],
+          "answer": "2–1–3",
+          "discussion": "Urutan tujuan, usaha, lalu hasil membuat hubungan peristiwa jelas."
+        },
+        {
+          "id": "K03-BIN-B03-M01-030",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nUrutkan catatan cerita Lani: (1) Lani berlatih menggambar daun setiap sore. (2) Lani ingin gambarnya lebih jelas. (3) Setelah berlatih, bentuk daun pada gambarnya semakin mudah dikenali.\n\nKata penghubung untuk menandai hasil akhir ialah ...",
+          "options": [
+            "Sebelum",
+            "Akhirnya",
+            "Mula-mula",
+            "Pertama"
+          ],
+          "answer": "Akhirnya",
+          "discussion": "Akhirnya digunakan untuk mengantar hasil atau akhir suatu rangkaian peristiwa."
+        },
+        {
+          "id": "K03-BIN-B03-M01-031",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nIbu penjaga perpustakaan membantu Lusi mencari buku hewan. Ia mendengarkan pertanyaan Lusi dan menunjukkan rak yang sesuai. Lusi ingin meneladani sikap sabar dan suka membantu itu.\n\nSiapa yang menjadi teladan bagi Lusi?",
+          "options": [
+            "Penjual buah",
+            "Pelatih renang",
+            "Ibu penjaga perpustakaan",
+            "Pengemudi bus"
+          ],
+          "answer": "Ibu penjaga perpustakaan",
+          "discussion": "Lusi mengagumi sikap ibu penjaga perpustakaan yang membantunya."
+        },
+        {
+          "id": "K03-BIN-B03-M01-032",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nIbu penjaga perpustakaan membantu Lusi mencari buku hewan. Ia mendengarkan pertanyaan Lusi dan menunjukkan rak yang sesuai. Lusi ingin meneladani sikap sabar dan suka membantu itu.\n\nApa yang sedang dicari Lusi?",
+          "options": [
+            "Sepatu olahraga",
+            "Bibit kacang",
+            "Kertas undangan",
+            "Buku hewan"
+          ],
+          "answer": "Buku hewan",
+          "discussion": "Buku yang dicari disebut pada kalimat pertama."
+        },
+        {
+          "id": "K03-BIN-B03-M01-033",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nIbu penjaga perpustakaan membantu Lusi mencari buku hewan. Ia mendengarkan pertanyaan Lusi dan menunjukkan rak yang sesuai. Lusi ingin meneladani sikap sabar dan suka membantu itu.\n\nTindakan apa yang menunjukkan sikap membantu?",
+          "options": [
+            "Menunjukkan rak yang sesuai",
+            "Menyembunyikan buku yang dicari",
+            "Memotong semua pertanyaan",
+            "Meninggalkan Lusi tanpa jawaban"
+          ],
+          "answer": "Menunjukkan rak yang sesuai",
+          "discussion": "Menunjukkan rak membantu Lusi menemukan buku yang diperlukan."
+        },
+        {
+          "id": "K03-BIN-B03-M01-034",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nIbu penjaga perpustakaan membantu Lusi mencari buku hewan. Ia mendengarkan pertanyaan Lusi dan menunjukkan rak yang sesuai. Lusi ingin meneladani sikap sabar dan suka membantu itu.\n\nMengapa Lusi ingin meneladaninya?",
+          "options": [
+            "Karena ia selalu mengejek pengunjung",
+            "Karena ia sabar dan suka membantu",
+            "Karena ia melarang semua pertanyaan",
+            "Karena ia menutup semua rak"
+          ],
+          "answer": "Karena ia sabar dan suka membantu",
+          "discussion": "Dua sifat yang dikagumi Lusi disebut pada kalimat terakhir."
+        },
+        {
+          "id": "K03-BIN-B03-M01-035",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nIbu penjaga perpustakaan membantu Lusi mencari buku hewan. Ia mendengarkan pertanyaan Lusi dan menunjukkan rak yang sesuai. Lusi ingin meneladani sikap sabar dan suka membantu itu.\n\nTindakan Lusi yang sesuai dengan teladan itu ialah ...",
+          "options": [
+            "Mengambil buku yang sedang dipakai teman",
+            "Menyuruh teman berhenti membaca",
+            "Membantu teman mencari buku dengan sabar",
+            "Menertawakan pertanyaan teman"
+          ],
+          "answer": "Membantu teman mencari buku dengan sabar",
+          "discussion": "Membantu dengan sabar menerapkan sifat yang sama pada situasi baru."
+        },
+        {
+          "id": "K03-BIN-B03-M01-036",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\n“Aku belum berhasil merangkai kalimat ini,” kata Jeni. “Boleh aku bertanya?” Bu Guru menjawab, “Tentu. Mari kita lihat kata-katanya bersama.” Jeni pun mencoba menyusun kembali kalimatnya.\n\nMasalah Jeni ialah ...",
+          "options": [
+            "Tidak menemukan sepatu",
+            "Kehilangan uang belanja",
+            "Tidak bisa membuka pintu",
+            "Belum berhasil merangkai kalimat"
+          ],
+          "answer": "Belum berhasil merangkai kalimat",
+          "discussion": "Ucapan pertama Jeni menyatakan kesulitan yang sedang dihadapinya."
+        },
+        {
+          "id": "K03-BIN-B03-M01-037",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\n“Aku belum berhasil merangkai kalimat ini,” kata Jeni. “Boleh aku bertanya?” Bu Guru menjawab, “Tentu. Mari kita lihat kata-katanya bersama.” Jeni pun mencoba menyusun kembali kalimatnya.\n\nApa yang dilakukan Jeni saat mengalami kesulitan?",
+          "options": [
+            "Meminta izin untuk bertanya",
+            "Menyalahkan teman",
+            "Merobek buku orang lain",
+            "Berhenti belajar selamanya"
+          ],
+          "answer": "Meminta izin untuk bertanya",
+          "discussion": "Jeni menyampaikan kesulitannya dan meminta kesempatan bertanya."
+        },
+        {
+          "id": "K03-BIN-B03-M01-038",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\n“Aku belum berhasil merangkai kalimat ini,” kata Jeni. “Boleh aku bertanya?” Bu Guru menjawab, “Tentu. Mari kita lihat kata-katanya bersama.” Jeni pun mencoba menyusun kembali kalimatnya.\n\nBagaimana tanggapan Bu Guru?",
+          "options": [
+            "Melarang semua pertanyaan",
+            "Mengajak melihat kata-kata bersama",
+            "Menyuruh Jeni menyembunyikan buku",
+            "Menertawakan Jeni"
+          ],
+          "answer": "Mengajak melihat kata-kata bersama",
+          "discussion": "Bu Guru menawarkan bantuan memeriksa kata-kata bersama."
+        },
+        {
+          "id": "K03-BIN-B03-M01-039",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\n“Aku belum berhasil merangkai kalimat ini,” kata Jeni. “Boleh aku bertanya?” Bu Guru menjawab, “Tentu. Mari kita lihat kata-katanya bersama.” Jeni pun mencoba menyusun kembali kalimatnya.\n\nKata “kembali” pada kalimat terakhir berarti ...",
+          "options": [
+            "Besok malam saja",
+            "Di tempat yang jauh",
+            "Sekali lagi",
+            "Tanpa melakukan apa pun"
+          ],
+          "answer": "Sekali lagi",
+          "discussion": "Mencoba kembali berarti mencoba lagi setelah percobaan sebelumnya."
+        },
+        {
+          "id": "K03-BIN-B03-M01-040",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\n“Aku belum berhasil merangkai kalimat ini,” kata Jeni. “Boleh aku bertanya?” Bu Guru menjawab, “Tentu. Mari kita lihat kata-katanya bersama.” Jeni pun mencoba menyusun kembali kalimatnya.\n\nPesan yang tepat dari percakapan itu ialah ...",
+          "options": [
+            "Bertanya selalu menunjukkan kemalasan.",
+            "Kesulitan harus membuat kita berhenti.",
+            "Guru tidak boleh membantu siswa.",
+            "Bertanya dapat membantu saat belajar."
+          ],
+          "answer": "Bertanya dapat membantu saat belajar.",
+          "discussion": "Jeni memperoleh bantuan setelah menyampaikan kesulitannya, lalu mencoba lagi."
+        },
+        {
+          "id": "K03-BIN-B03-M01-041",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nTulis ulang kalimat berikut dengan huruf kapital dan tanda baca yang tepat: “pada hari senin putri berlatih membaca”\n\nPenulisan nama hari yang benar ialah ...",
+          "options": [
+            "Senin",
+            "senin",
+            "sENIN",
+            "seNin"
+          ],
+          "answer": "Senin",
+          "discussion": "Nama hari diawali huruf kapital."
+        },
+        {
+          "id": "K03-BIN-B03-M01-042",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nTulis ulang kalimat berikut dengan huruf kapital dan tanda baca yang tepat: “pada hari senin putri berlatih membaca”\n\nPenulisan nama tokoh yang benar ialah ...",
+          "options": [
+            "putri",
+            "Putri",
+            "pUTRI",
+            "puTri"
+          ],
+          "answer": "Putri",
+          "discussion": "Nama orang menggunakan huruf kapital pada awal nama."
+        },
+        {
+          "id": "K03-BIN-B03-M01-043",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nTulis ulang kalimat berikut dengan huruf kapital dan tanda baca yang tepat: “pada hari senin putri berlatih membaca”\n\nTanda baca yang tepat pada akhir pernyataan itu ialah ...",
+          "options": [
+            "Tanya",
+            "Koma",
+            "Titik",
+            "Titik dua"
+          ],
+          "answer": "Titik",
+          "discussion": "Kalimat tersebut menyatakan kegiatan, sehingga diakhiri titik."
+        },
+        {
+          "id": "K03-BIN-B03-M01-044",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nTulis ulang kalimat berikut dengan huruf kapital dan tanda baca yang tepat: “pada hari senin putri berlatih membaca”\n\nKalimat hasil perbaikan yang tepat ialah ...",
+          "options": [
+            "pada hari senin putri berlatih membaca?",
+            "Pada hari senin putri berlatih membaca,",
+            "pada Hari Senin Putri berlatih Membaca!",
+            "Pada hari Senin Putri berlatih membaca."
+          ],
+          "answer": "Pada hari Senin Putri berlatih membaca.",
+          "discussion": "Awal kalimat, nama hari, dan nama orang memakai kapital; pernyataan diakhiri titik."
+        },
+        {
+          "id": "K03-BIN-B03-M01-045",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nTulis ulang kalimat berikut dengan huruf kapital dan tanda baca yang tepat: “pada hari senin putri berlatih membaca”\n\nKeterangan waktu pada kalimat tersebut ialah ...",
+          "options": [
+            "Pada hari Senin",
+            "Putri",
+            "Berlatih",
+            "Membaca"
+          ],
+          "answer": "Pada hari Senin",
+          "discussion": "Frasa pada hari Senin menjawab pertanyaan kapan kegiatan dilakukan."
+        },
+        {
+          "id": "K03-BIN-B03-M01-046",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRara menulis cerita tentang dirinya: “Aku dahulu takut bertanya. Suatu hari, aku memberanikan diri menanyakan arti kata baru. Guruku menjelaskannya dengan ramah. Sekarang aku lebih berani bertanya saat belum paham.”\n\nSiapa yang dimaksud “aku” dalam cerita?",
+          "options": [
+            "Guru Rara",
+            "Rara",
+            "Teman sebangku Rara",
+            "Penjaga sekolah"
+          ],
+          "answer": "Rara",
+          "discussion": "Pengantar menyebut Rara sedang menulis cerita tentang dirinya sendiri."
+        },
+        {
+          "id": "K03-BIN-B03-M01-047",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRara menulis cerita tentang dirinya: “Aku dahulu takut bertanya. Suatu hari, aku memberanikan diri menanyakan arti kata baru. Guruku menjelaskannya dengan ramah. Sekarang aku lebih berani bertanya saat belum paham.”\n\nApa perubahan yang dialami tokoh?",
+          "options": [
+            "Dari rajin menjadi selalu terlambat",
+            "Dari suka membaca menjadi membuang buku",
+            "Dari takut menjadi lebih berani bertanya",
+            "Dari ramah menjadi mengejek guru"
+          ],
+          "answer": "Dari takut menjadi lebih berani bertanya",
+          "discussion": "Kalimat awal dan akhir menunjukkan perubahan keberanian bertanya."
+        },
+        {
+          "id": "K03-BIN-B03-M01-048",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRara menulis cerita tentang dirinya: “Aku dahulu takut bertanya. Suatu hari, aku memberanikan diri menanyakan arti kata baru. Guruku menjelaskannya dengan ramah. Sekarang aku lebih berani bertanya saat belum paham.”\n\nApa yang ditanyakan tokoh kepada guru?",
+          "options": [
+            "Harga sepatu guru",
+            "Jadwal kereta",
+            "Warna rumah tetangga",
+            "Arti kata baru"
+          ],
+          "answer": "Arti kata baru",
+          "discussion": "Pertanyaan tentang arti kata baru dinyatakan pada kalimat kedua cerita."
+        },
+        {
+          "id": "K03-BIN-B03-M01-049",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRara menulis cerita tentang dirinya: “Aku dahulu takut bertanya. Suatu hari, aku memberanikan diri menanyakan arti kata baru. Guruku menjelaskannya dengan ramah. Sekarang aku lebih berani bertanya saat belum paham.”\n\nBagian cerita yang paling tepat sebagai penutup ialah ...",
+          "options": [
+            "Sekarang aku lebih berani bertanya saat belum paham.",
+            "Aku dahulu takut bertanya.",
+            "Suatu hari, aku memberanikan diri.",
+            "Aku belum pernah masuk kelas."
+          ],
+          "answer": "Sekarang aku lebih berani bertanya saat belum paham.",
+          "discussion": "Kalimat penutup menunjukkan keadaan tokoh setelah mengalami peristiwa."
+        },
+        {
+          "id": "K03-BIN-B03-M01-050",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nRara menulis cerita tentang dirinya: “Aku dahulu takut bertanya. Suatu hari, aku memberanikan diri menanyakan arti kata baru. Guruku menjelaskannya dengan ramah. Sekarang aku lebih berani bertanya saat belum paham.”\n\nJudul yang sesuai ialah ...",
+          "options": [
+            "Sepeda Baru Rara",
+            "Aku Berani Bertanya",
+            "Kebun di Belakang Rumah",
+            "Piknik ke Pantai"
+          ],
+          "answer": "Aku Berani Bertanya",
+          "discussion": "Judul itu mencerminkan perubahan utama yang diceritakan Rara."
+        }
+      ]
+    }
+  ]
+}

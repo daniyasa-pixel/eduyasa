@@ -1,0 +1,675 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Bahasa Indonesia: Kawan Seiring untuk SD/MI Kelas III (Edisi Revisi)",
+    "year": 2025,
+    "authors": [
+      "Gantino Habibi",
+      "S. Nailul Muna Aljamaliah"
+    ],
+    "isbn_pdf": "978-634-00-3315-1",
+    "reading_url": "https://fliphtml5.com/Yenny_73/Bahasa-Indonesia_BS_KLS_III_Rev/",
+    "note": "Buku pemerintah dibaca melalui salinan daring. Judul dan urutan bab mengikuti edisi revisi 2025. Bacaan, soal, dan SVG EDUYASA ditulis sendiri; bukan salinan latihan buku."
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-BIN-B04",
+      "chapter_title": "Menyelamatkan Lingkungan",
+      "questions": [
+        {
+          "id": "K03-BIN-B04-M01-001",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDalam sebuah dongeng, Kelinci menemukan sungai penuh sampah. Ia mengajak Rusa mengumpulkan sampah di tepi sungai. Mereka meminta hewan lain menjaga kebersihan. Beberapa hari kemudian, tepi sungai menjadi lebih bersih.\n\nSiapa yang pertama menemukan masalah sungai?",
+          "options": [
+            "Kelinci",
+            "Rusa",
+            "Burung Hantu",
+            "Kura-kura"
+          ],
+          "answer": "Kelinci",
+          "discussion": "Kalimat pertama menyebut Kelinci sebagai penemu masalah."
+        },
+        {
+          "id": "K03-BIN-B04-M01-002",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDalam sebuah dongeng, Kelinci menemukan sungai penuh sampah. Ia mengajak Rusa mengumpulkan sampah di tepi sungai. Mereka meminta hewan lain menjaga kebersihan. Beberapa hari kemudian, tepi sungai menjadi lebih bersih.\n\nApa masalah dalam dongeng?",
+          "options": [
+            "Hutan tidak mempunyai pohon",
+            "Sungai penuh sampah",
+            "Semua hewan kehilangan sarang",
+            "Taman terlalu banyak bunga"
+          ],
+          "answer": "Sungai penuh sampah",
+          "discussion": "Masalah yang mendorong tindakan tokoh adalah sampah di sungai."
+        },
+        {
+          "id": "K03-BIN-B04-M01-003",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDalam sebuah dongeng, Kelinci menemukan sungai penuh sampah. Ia mengajak Rusa mengumpulkan sampah di tepi sungai. Mereka meminta hewan lain menjaga kebersihan. Beberapa hari kemudian, tepi sungai menjadi lebih bersih.\n\nApa yang dilakukan Kelinci dan Rusa?",
+          "options": [
+            "Menambahkan sampah baru",
+            "Menutup semua sumber air",
+            "Mengumpulkan sampah di tepi sungai",
+            "Mengecat batu di dasar sungai"
+          ],
+          "answer": "Mengumpulkan sampah di tepi sungai",
+          "discussion": "Tindakan bersama itu disebut pada kalimat kedua."
+        },
+        {
+          "id": "K03-BIN-B04-M01-004",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDalam sebuah dongeng, Kelinci menemukan sungai penuh sampah. Ia mengajak Rusa mengumpulkan sampah di tepi sungai. Mereka meminta hewan lain menjaga kebersihan. Beberapa hari kemudian, tepi sungai menjadi lebih bersih.\n\nPesan dongeng tersebut ialah ...",
+          "options": [
+            "Sampah sebaiknya selalu dibuang ke sungai.",
+            "Hanya satu hewan yang boleh merawat lingkungan.",
+            "Kebersihan tidak berkaitan dengan tindakan kita.",
+            "Kebersihan lingkungan perlu dijaga bersama."
+          ],
+          "answer": "Kebersihan lingkungan perlu dijaga bersama.",
+          "discussion": "Tokoh bekerja sama membersihkan dan mengajak hewan lain menjaga sungai."
+        },
+        {
+          "id": "K03-BIN-B04-M01-005",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDalam sebuah dongeng, Kelinci menemukan sungai penuh sampah. Ia mengajak Rusa mengumpulkan sampah di tepi sungai. Mereka meminta hewan lain menjaga kebersihan. Beberapa hari kemudian, tepi sungai menjadi lebih bersih.\n\nMengapa bacaan itu dapat disebut dongeng hewan?",
+          "options": [
+            "Hewan bertindak dan bekerja sama seperti manusia",
+            "Semua peristiwanya merupakan laporan penelitian",
+            "Tokohnya hanya benda mati tanpa peristiwa",
+            "Bacaan hanya berisi daftar nama sungai"
+          ],
+          "answer": "Hewan bertindak dan bekerja sama seperti manusia",
+          "discussion": "Hewan yang mengajak, meminta, dan bekerja sama merupakan ciri cerita khayal tentang hewan."
+        },
+        {
+          "id": "K03-BIN-B04-M01-006",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBurung Pipit tinggal di pohon yang rindang. Suatu hari, angin menjatuhkan sarangnya. Tupai membantu mengumpulkan ranting, sedangkan Pipit menyusun sarang baru. Mereka bekerja sampai sarang kembali siap digunakan.\n\nDi mana Pipit tinggal?",
+          "options": [
+            "Dasar sungai",
+            "Pohon yang rindang",
+            "Dalam lemari",
+            "Atas meja kelas"
+          ],
+          "answer": "Pohon yang rindang",
+          "discussion": "Latar tempat disebut pada kalimat pertama."
+        },
+        {
+          "id": "K03-BIN-B04-M01-007",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBurung Pipit tinggal di pohon yang rindang. Suatu hari, angin menjatuhkan sarangnya. Tupai membantu mengumpulkan ranting, sedangkan Pipit menyusun sarang baru. Mereka bekerja sampai sarang kembali siap digunakan.\n\nApa penyebab sarang Pipit jatuh?",
+          "options": [
+            "Hujan batu dari gunung",
+            "Mobil yang melaju",
+            "Angin",
+            "Pipit menutup pintu"
+          ],
+          "answer": "Angin",
+          "discussion": "Bacaan secara langsung menyebut angin menjatuhkan sarang."
+        },
+        {
+          "id": "K03-BIN-B04-M01-008",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBurung Pipit tinggal di pohon yang rindang. Suatu hari, angin menjatuhkan sarangnya. Tupai membantu mengumpulkan ranting, sedangkan Pipit menyusun sarang baru. Mereka bekerja sampai sarang kembali siap digunakan.\n\nBagaimana Tupai membantu?",
+          "options": [
+            "Memotong semua cabang",
+            "Menyembunyikan sarang",
+            "Melempar sarang ke sungai",
+            "Mengumpulkan ranting"
+          ],
+          "answer": "Mengumpulkan ranting",
+          "discussion": "Pembagian kerja antara Tupai dan Pipit dijelaskan dalam bacaan."
+        },
+        {
+          "id": "K03-BIN-B04-M01-009",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBurung Pipit tinggal di pohon yang rindang. Suatu hari, angin menjatuhkan sarangnya. Tupai membantu mengumpulkan ranting, sedangkan Pipit menyusun sarang baru. Mereka bekerja sampai sarang kembali siap digunakan.\n\nApa hasil kerja sama mereka?",
+          "options": [
+            "Sarang baru siap digunakan",
+            "Pohon kehilangan seluruh daun",
+            "Ranting berubah menjadi batu",
+            "Pipit pindah ke dalam kelas"
+          ],
+          "answer": "Sarang baru siap digunakan",
+          "discussion": "Kalimat terakhir menyebut sarang kembali siap digunakan."
+        },
+        {
+          "id": "K03-BIN-B04-M01-010",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBurung Pipit tinggal di pohon yang rindang. Suatu hari, angin menjatuhkan sarangnya. Tupai membantu mengumpulkan ranting, sedangkan Pipit menyusun sarang baru. Mereka bekerja sampai sarang kembali siap digunakan.\n\nSifat Tupai yang ditunjukkan cerita ialah ...",
+          "options": [
+            "Iri hati",
+            "Peduli",
+            "Pemarah",
+            "Sombong"
+          ],
+          "answer": "Peduli",
+          "discussion": "Tupai membantu Pipit saat sarangnya rusak, sehingga menunjukkan kepedulian."
+        },
+        {
+          "id": "K03-BIN-B04-M01-011",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDalam dongeng, Semut menyimpan biji dalam daun kering. Belalang ingin membuang daun itu ke sungai. Semut menjelaskan bahwa sampah tidak boleh dibuang ke sungai. Belalang lalu memilih meletakkan daun kering di tempat pengolahan daun.\n\nApa yang digunakan Semut untuk menyimpan biji?",
+          "options": [
+            "Botol kaca",
+            "Kain biru",
+            "Daun kering",
+            "Batu besar"
+          ],
+          "answer": "Daun kering",
+          "discussion": "Benda itu disebut pada kalimat pertama."
+        },
+        {
+          "id": "K03-BIN-B04-M01-012",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDalam dongeng, Semut menyimpan biji dalam daun kering. Belalang ingin membuang daun itu ke sungai. Semut menjelaskan bahwa sampah tidak boleh dibuang ke sungai. Belalang lalu memilih meletakkan daun kering di tempat pengolahan daun.\n\nApa rencana awal Belalang?",
+          "options": [
+            "Mengumpulkan biji di rak",
+            "Menanam pohon di kelas",
+            "Membeli daun di pasar",
+            "Membuang daun ke sungai"
+          ],
+          "answer": "Membuang daun ke sungai",
+          "discussion": "Rencana awal Belalang dijelaskan sebelum Semut memberi penjelasan."
+        },
+        {
+          "id": "K03-BIN-B04-M01-013",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDalam dongeng, Semut menyimpan biji dalam daun kering. Belalang ingin membuang daun itu ke sungai. Semut menjelaskan bahwa sampah tidak boleh dibuang ke sungai. Belalang lalu memilih meletakkan daun kering di tempat pengolahan daun.\n\nMengapa Semut menolak rencana awal Belalang?",
+          "options": [
+            "Karena sampah tidak boleh dibuang ke sungai",
+            "Karena sungai adalah tempat menyimpan semua barang",
+            "Karena biji harus selalu dibuang",
+            "Karena daun tidak bisa dipegang"
+          ],
+          "answer": "Karena sampah tidak boleh dibuang ke sungai",
+          "discussion": "Penjelasan Semut berkaitan dengan menjaga kebersihan sungai."
+        },
+        {
+          "id": "K03-BIN-B04-M01-014",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDalam dongeng, Semut menyimpan biji dalam daun kering. Belalang ingin membuang daun itu ke sungai. Semut menjelaskan bahwa sampah tidak boleh dibuang ke sungai. Belalang lalu memilih meletakkan daun kering di tempat pengolahan daun.\n\nApa perubahan tindakan Belalang?",
+          "options": [
+            "Membuang daun ke sungai lebih banyak",
+            "Memilih tempat pengolahan daun",
+            "Menyembunyikan semua biji",
+            "Menutup jalan menuju hutan"
+          ],
+          "answer": "Memilih tempat pengolahan daun",
+          "discussion": "Belalang mengubah rencananya setelah mendengar penjelasan Semut."
+        },
+        {
+          "id": "K03-BIN-B04-M01-015",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDalam dongeng, Semut menyimpan biji dalam daun kering. Belalang ingin membuang daun itu ke sungai. Semut menjelaskan bahwa sampah tidak boleh dibuang ke sungai. Belalang lalu memilih meletakkan daun kering di tempat pengolahan daun.\n\nBagian yang menunjukkan penyelesaian masalah ialah ...",
+          "options": [
+            "Belalang ingin membuang daun ke sungai.",
+            "Semut menyimpan biji dalam daun.",
+            "Belalang meletakkan daun di tempat pengolahan daun.",
+            "Belalang baru melihat sungai."
+          ],
+          "answer": "Belalang meletakkan daun di tempat pengolahan daun.",
+          "discussion": "Penyelesaian terjadi ketika tindakan yang berisiko mencemari sungai diganti dengan pilihan yang sesuai."
+        },
+        {
+          "id": "K03-BIN-B04-M01-016",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKura-kura melihat air menetes dari keran taman. Ia memanggil Kancil untuk membantu menutupnya. Keran berhasil ditutup, lalu mereka memasang pengingat agar hewan lain memeriksa keran setelah dipakai.\n\nMasalah apa yang ditemukan Kura-kura?",
+          "options": [
+            "Pohon tumbang di jalan",
+            "Buku hanyut di laut",
+            "Jembatan kehilangan warna",
+            "Air menetes dari keran"
+          ],
+          "answer": "Air menetes dari keran",
+          "discussion": "Bacaan menyebut keran yang menetes sebagai masalah awal."
+        },
+        {
+          "id": "K03-BIN-B04-M01-017",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKura-kura melihat air menetes dari keran taman. Ia memanggil Kancil untuk membantu menutupnya. Keran berhasil ditutup, lalu mereka memasang pengingat agar hewan lain memeriksa keran setelah dipakai.\n\nSiapa yang diminta membantu?",
+          "options": [
+            "Kancil",
+            "Rusa",
+            "Pipit",
+            "Belalang"
+          ],
+          "answer": "Kancil",
+          "discussion": "Nama Kancil disebut sebagai tokoh yang dipanggil Kura-kura."
+        },
+        {
+          "id": "K03-BIN-B04-M01-018",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKura-kura melihat air menetes dari keran taman. Ia memanggil Kancil untuk membantu menutupnya. Keran berhasil ditutup, lalu mereka memasang pengingat agar hewan lain memeriksa keran setelah dipakai.\n\nApa tindakan pertama mereka untuk mengatasi masalah?",
+          "options": [
+            "Mengecat taman",
+            "Menutup keran",
+            "Menebang pohon",
+            "Membuang pengingat"
+          ],
+          "answer": "Menutup keran",
+          "discussion": "Menutup keran menghentikan tetesan sebelum mereka memasang pengingat."
+        },
+        {
+          "id": "K03-BIN-B04-M01-019",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKura-kura melihat air menetes dari keran taman. Ia memanggil Kancil untuk membantu menutupnya. Keran berhasil ditutup, lalu mereka memasang pengingat agar hewan lain memeriksa keran setelah dipakai.\n\nApa tujuan pengingat yang dipasang?",
+          "options": [
+            "Agar hewan berhenti datang ke taman",
+            "Agar semua bunga dipindahkan",
+            "Agar keran diperiksa setelah dipakai",
+            "Agar air sengaja dibiarkan menetes"
+          ],
+          "answer": "Agar keran diperiksa setelah dipakai",
+          "discussion": "Pengingat berisi ajakan memeriksa keran agar kejadian yang sama tidak terulang."
+        },
+        {
+          "id": "K03-BIN-B04-M01-020",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKura-kura melihat air menetes dari keran taman. Ia memanggil Kancil untuk membantu menutupnya. Keran berhasil ditutup, lalu mereka memasang pengingat agar hewan lain memeriksa keran setelah dipakai.\n\nJudul yang sesuai untuk dongeng itu ialah ...",
+          "options": [
+            "Perahu Baru di Laut",
+            "Pipit Mencari Buku",
+            "Jembatan Pelangi",
+            "Keran Taman dan Dua Sahabat"
+          ],
+          "answer": "Keran Taman dan Dua Sahabat",
+          "discussion": "Judul pertama mencakup masalah keran dan kerja sama dua tokohnya."
+        },
+        {
+          "id": "K03-BIN-B04-M01-021",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPada pagi hari, landak kecil berjalan ke kebun. Ia melihat bunga terinjak di pinggir jalan. Landak memasang papan bertuliskan “Lewat jalan setapak, ya!” agar pengunjung tidak menginjak bunga lagi.\n\nLatar waktu cerita ialah ...",
+          "options": [
+            "Pagi hari",
+            "Tengah malam",
+            "Sore hari",
+            "Saat matahari terbenam"
+          ],
+          "answer": "Pagi hari",
+          "discussion": "Keterangan pada awal bacaan menunjukkan pagi hari."
+        },
+        {
+          "id": "K03-BIN-B04-M01-022",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPada pagi hari, landak kecil berjalan ke kebun. Ia melihat bunga terinjak di pinggir jalan. Landak memasang papan bertuliskan “Lewat jalan setapak, ya!” agar pengunjung tidak menginjak bunga lagi.\n\nMasalah yang dilihat landak ialah ...",
+          "options": [
+            "Pohon tidak berbuah",
+            "Bunga terinjak",
+            "Air sungai membeku",
+            "Rumah kehilangan pintu"
+          ],
+          "answer": "Bunga terinjak",
+          "discussion": "Bunga terinjak merupakan keadaan yang ingin diperbaiki tokoh."
+        },
+        {
+          "id": "K03-BIN-B04-M01-023",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPada pagi hari, landak kecil berjalan ke kebun. Ia melihat bunga terinjak di pinggir jalan. Landak memasang papan bertuliskan “Lewat jalan setapak, ya!” agar pengunjung tidak menginjak bunga lagi.\n\nUntuk apa landak memasang papan?",
+          "options": [
+            "Melarang bunga tumbuh",
+            "Menjual seluruh kebun",
+            "Mengarahkan pengunjung ke jalan setapak",
+            "Mengajak pengunjung menginjak bunga"
+          ],
+          "answer": "Mengarahkan pengunjung ke jalan setapak",
+          "discussion": "Isi papan meminta pengunjung menggunakan jalan setapak."
+        },
+        {
+          "id": "K03-BIN-B04-M01-024",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPada pagi hari, landak kecil berjalan ke kebun. Ia melihat bunga terinjak di pinggir jalan. Landak memasang papan bertuliskan “Lewat jalan setapak, ya!” agar pengunjung tidak menginjak bunga lagi.\n\nKalimat pada papan termasuk ...",
+          "options": [
+            "Pertanyaan tentang harga bunga",
+            "Daftar jenis tanaman",
+            "Laporan hasil lomba",
+            "Ajakan menjaga bunga"
+          ],
+          "answer": "Ajakan menjaga bunga",
+          "discussion": "Papan mengajak pengunjung memilih jalur yang tidak merusak bunga."
+        },
+        {
+          "id": "K03-BIN-B04-M01-025",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPada pagi hari, landak kecil berjalan ke kebun. Ia melihat bunga terinjak di pinggir jalan. Landak memasang papan bertuliskan “Lewat jalan setapak, ya!” agar pengunjung tidak menginjak bunga lagi.\n\nAkhir cerita yang paling sesuai ialah ...",
+          "options": [
+            "Pengunjung mengikuti jalan setapak sehingga bunga lebih terjaga.",
+            "Semua pengunjung sengaja melompat di atas bunga.",
+            "Landak menjual papan ke laut.",
+            "Bunga berubah menjadi sepeda."
+          ],
+          "answer": "Pengunjung mengikuti jalan setapak sehingga bunga lebih terjaga.",
+          "discussion": "Akhir yang sesuai menunjukkan manfaat tindakan landak mengarahkan pengunjung."
+        },
+        {
+          "id": "K03-BIN-B04-M01-026",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBacalah catatan dongeng: (1) Merpati mengajak teman-temannya menanam bibit. (2) Halaman hutan gersang karena banyak tanaman rusak. (3) Mereka merawat bibit hingga tumbuh. (4) Halaman kembali hijau.\n\nCatatan yang tepat sebagai awal dongeng ialah ...",
+          "options": [
+            "Catatan 1",
+            "Catatan 2",
+            "Catatan 3",
+            "Catatan 4"
+          ],
+          "answer": "Catatan 2",
+          "discussion": "Keadaan halaman yang gersang memperkenalkan masalah sebelum tokoh bertindak."
+        },
+        {
+          "id": "K03-BIN-B04-M01-027",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBacalah catatan dongeng: (1) Merpati mengajak teman-temannya menanam bibit. (2) Halaman hutan gersang karena banyak tanaman rusak. (3) Mereka merawat bibit hingga tumbuh. (4) Halaman kembali hijau.\n\nCatatan yang memperlihatkan ajakan tokoh ialah ...",
+          "options": [
+            "Catatan 2",
+            "Catatan 3",
+            "Catatan 1",
+            "Catatan 4"
+          ],
+          "answer": "Catatan 1",
+          "discussion": "Merpati mengajak teman-temannya menanam bibit pada catatan pertama."
+        },
+        {
+          "id": "K03-BIN-B04-M01-028",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBacalah catatan dongeng: (1) Merpati mengajak teman-temannya menanam bibit. (2) Halaman hutan gersang karena banyak tanaman rusak. (3) Mereka merawat bibit hingga tumbuh. (4) Halaman kembali hijau.\n\nCatatan yang menjelaskan proses merawat ialah ...",
+          "options": [
+            "Catatan 1",
+            "Catatan 2",
+            "Catatan 4",
+            "Catatan 3"
+          ],
+          "answer": "Catatan 3",
+          "discussion": "Merawat bibit hingga tumbuh adalah proses setelah penanaman."
+        },
+        {
+          "id": "K03-BIN-B04-M01-029",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBacalah catatan dongeng: (1) Merpati mengajak teman-temannya menanam bibit. (2) Halaman hutan gersang karena banyak tanaman rusak. (3) Mereka merawat bibit hingga tumbuh. (4) Halaman kembali hijau.\n\nUrutan dongeng yang runtut ialah ...",
+          "options": [
+            "2–1–3–4",
+            "4–3–1–2",
+            "1–4–2–3",
+            "3–2–4–1"
+          ],
+          "answer": "2–1–3–4",
+          "discussion": "Urutan masalah, ajakan, perawatan, dan hasil membentuk alur yang jelas."
+        },
+        {
+          "id": "K03-BIN-B04-M01-030",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBacalah catatan dongeng: (1) Merpati mengajak teman-temannya menanam bibit. (2) Halaman hutan gersang karena banyak tanaman rusak. (3) Mereka merawat bibit hingga tumbuh. (4) Halaman kembali hijau.\n\nApa hasil tindakan para tokoh?",
+          "options": [
+            "Halaman berubah menjadi ruang kelas",
+            "Halaman kembali hijau",
+            "Semua bibit dibuang",
+            "Merpati kehilangan sayap"
+          ],
+          "answer": "Halaman kembali hijau",
+          "discussion": "Catatan keempat menyebut hasil, yaitu halaman kembali hijau."
+        },
+        {
+          "id": "K03-BIN-B04-M01-031",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSeekor musang mempunyai kebun kecil. Ia ingin semua buah untuk dirinya sendiri. Ketika dahannya patah, ia kesulitan memetik buah. Setelah meminta bantuan dengan sopan, ia belajar berbagi hasil kebun dengan tetangganya.\n\nSifat awal musang ialah ...",
+          "options": [
+            "Senang berbagi sejak awal",
+            "Selalu menawarkan bantuan",
+            "Ingin memiliki semua buah sendiri",
+            "Tidak suka buah sama sekali"
+          ],
+          "answer": "Ingin memiliki semua buah sendiri",
+          "discussion": "Keinginan menyimpan semua buah menunjukkan sifat musang pada awal cerita."
+        },
+        {
+          "id": "K03-BIN-B04-M01-032",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSeekor musang mempunyai kebun kecil. Ia ingin semua buah untuk dirinya sendiri. Ketika dahannya patah, ia kesulitan memetik buah. Setelah meminta bantuan dengan sopan, ia belajar berbagi hasil kebun dengan tetangganya.\n\nKesulitan yang dialami musang ialah ...",
+          "options": [
+            "Tidak bisa menemukan sungai",
+            "Kehilangan buku pelajaran",
+            "Tidak mempunyai jalan ke sekolah",
+            "Sulit memetik buah setelah dahan patah"
+          ],
+          "answer": "Sulit memetik buah setelah dahan patah",
+          "discussion": "Masalah tersebut disebut sesudah gambaran sifat awalnya."
+        },
+        {
+          "id": "K03-BIN-B04-M01-033",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSeekor musang mempunyai kebun kecil. Ia ingin semua buah untuk dirinya sendiri. Ketika dahannya patah, ia kesulitan memetik buah. Setelah meminta bantuan dengan sopan, ia belajar berbagi hasil kebun dengan tetangganya.\n\nBagaimana musang meminta pertolongan?",
+          "options": [
+            "Dengan sopan",
+            "Dengan mengejek",
+            "Dengan mengancam",
+            "Tanpa berbicara kepada siapa pun"
+          ],
+          "answer": "Dengan sopan",
+          "discussion": "Bacaan secara langsung menyebut cara meminta bantuan dengan sopan."
+        },
+        {
+          "id": "K03-BIN-B04-M01-034",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSeekor musang mempunyai kebun kecil. Ia ingin semua buah untuk dirinya sendiri. Ketika dahannya patah, ia kesulitan memetik buah. Setelah meminta bantuan dengan sopan, ia belajar berbagi hasil kebun dengan tetangganya.\n\nApa perubahan sikap musang?",
+          "options": [
+            "Semakin melarang semua tetangga",
+            "Belajar berbagi hasil kebun",
+            "Membuang semua buah ke sungai",
+            "Menolak setiap bantuan"
+          ],
+          "answer": "Belajar berbagi hasil kebun",
+          "discussion": "Kalimat terakhir menunjukkan pelajaran yang mengubah sikapnya."
+        },
+        {
+          "id": "K03-BIN-B04-M01-035",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSeekor musang mempunyai kebun kecil. Ia ingin semua buah untuk dirinya sendiri. Ketika dahannya patah, ia kesulitan memetik buah. Setelah meminta bantuan dengan sopan, ia belajar berbagi hasil kebun dengan tetangganya.\n\nPesan dongeng itu ialah ...",
+          "options": [
+            "Semua buah harus dikuasai sendiri.",
+            "Tetangga tidak boleh diajak berbicara.",
+            "Berbagi dan meminta bantuan dengan baik dapat menjaga hubungan.",
+            "Meminta bantuan harus dilakukan dengan marah."
+          ],
+          "answer": "Berbagi dan meminta bantuan dengan baik dapat menjaga hubungan.",
+          "discussion": "Perubahan musang menekankan hubungan baik melalui sikap sopan dan berbagi."
+        },
+        {
+          "id": "K03-BIN-B04-M01-036",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nAwan kecil dalam dongeng merasa sedih melihat kebun layu. Ia berkeliling mengajak awan lain berkumpul. Hujan pun turun dan tanaman kembali segar. Para tanaman mengucapkan terima kasih kepada awan kecil.\n\nApa yang membuat awan kecil sedih?",
+          "options": [
+            "Mendengar lagu riang",
+            "Menemukan hadiah",
+            "Melihat pelangi baru",
+            "Melihat kebun layu"
+          ],
+          "answer": "Melihat kebun layu",
+          "discussion": "Penyebab kesedihan disebut pada kalimat pertama."
+        },
+        {
+          "id": "K03-BIN-B04-M01-037",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nAwan kecil dalam dongeng merasa sedih melihat kebun layu. Ia berkeliling mengajak awan lain berkumpul. Hujan pun turun dan tanaman kembali segar. Para tanaman mengucapkan terima kasih kepada awan kecil.\n\nApa usaha awan kecil?",
+          "options": [
+            "Mengajak awan lain berkumpul",
+            "Menyembunyikan semua tanaman",
+            "Mengecat langit menjadi hijau",
+            "Membuang air ke lemari"
+          ],
+          "answer": "Mengajak awan lain berkumpul",
+          "discussion": "Awan kecil mengajak awan lain sebagai usaha membantu kebun."
+        },
+        {
+          "id": "K03-BIN-B04-M01-038",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nAwan kecil dalam dongeng merasa sedih melihat kebun layu. Ia berkeliling mengajak awan lain berkumpul. Hujan pun turun dan tanaman kembali segar. Para tanaman mengucapkan terima kasih kepada awan kecil.\n\nApa yang terjadi setelah hujan turun?",
+          "options": [
+            "Tanaman menjadi kertas",
+            "Tanaman kembali segar",
+            "Kebun pindah ke laut",
+            "Semua awan menjadi batu"
+          ],
+          "answer": "Tanaman kembali segar",
+          "discussion": "Hasil hujan pada kebun dijelaskan dalam bacaan."
+        },
+        {
+          "id": "K03-BIN-B04-M01-039",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nAwan kecil dalam dongeng merasa sedih melihat kebun layu. Ia berkeliling mengajak awan lain berkumpul. Hujan pun turun dan tanaman kembali segar. Para tanaman mengucapkan terima kasih kepada awan kecil.\n\nBagian khayal dalam dongeng tersebut ialah ...",
+          "options": [
+            "Tanaman dapat layu",
+            "Hujan turun dari awan",
+            "Tanaman dapat mengucapkan terima kasih",
+            "Kebun memiliki tanaman"
+          ],
+          "answer": "Tanaman dapat mengucapkan terima kasih",
+          "discussion": "Tanaman berbicara adalah unsur khayal; tiga pilihan lain dapat terjadi di dunia nyata."
+        },
+        {
+          "id": "K03-BIN-B04-M01-040",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nAwan kecil dalam dongeng merasa sedih melihat kebun layu. Ia berkeliling mengajak awan lain berkumpul. Hujan pun turun dan tanaman kembali segar. Para tanaman mengucapkan terima kasih kepada awan kecil.\n\nRingkasan yang sesuai ialah ...",
+          "options": [
+            "Awan kecil membakar kebun agar semua tanaman hilang.",
+            "Tanaman menyuruh awan bersembunyi di lemari.",
+            "Kebun pindah ke laut karena tidak suka hujan.",
+            "Awan kecil mengajak awan lain menurunkan hujan untuk menolong kebun layu."
+          ],
+          "answer": "Awan kecil mengajak awan lain menurunkan hujan untuk menolong kebun layu.",
+          "discussion": "Ringkasan mempertahankan tokoh, masalah, usaha, dan hasil utama dongeng."
+        },
+        {
+          "id": "K03-BIN-B04-M01-041",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nTulis akhir dongeng ini: “Ikan kecil meminta warga hutan tidak membuang bungkus makanan ke danau. Warga mulai membawa wadah makan sendiri dan membuang sampah pada tempatnya. ...”\n\nTokoh yang menyampaikan permintaan ialah ...",
+          "options": [
+            "Ikan kecil",
+            "Kelinci",
+            "Awan kecil",
+            "Landak"
+          ],
+          "answer": "Ikan kecil",
+          "discussion": "Ikan kecil disebut sebagai tokoh yang meminta warga menjaga danau."
+        },
+        {
+          "id": "K03-BIN-B04-M01-042",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nTulis akhir dongeng ini: “Ikan kecil meminta warga hutan tidak membuang bungkus makanan ke danau. Warga mulai membawa wadah makan sendiri dan membuang sampah pada tempatnya. ...”\n\nApa perubahan kebiasaan warga?",
+          "options": [
+            "Membuang lebih banyak bungkus ke danau",
+            "Membawa wadah sendiri dan membuang sampah pada tempatnya",
+            "Menyembunyikan semua wadah",
+            "Meminta ikan meninggalkan danau"
+          ],
+          "answer": "Membawa wadah sendiri dan membuang sampah pada tempatnya",
+          "discussion": "Perubahan itu dinyatakan pada kalimat kedua."
+        },
+        {
+          "id": "K03-BIN-B04-M01-043",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nTulis akhir dongeng ini: “Ikan kecil meminta warga hutan tidak membuang bungkus makanan ke danau. Warga mulai membawa wadah makan sendiri dan membuang sampah pada tempatnya. ...”\n\nAkhir cerita yang sesuai ialah ...",
+          "options": [
+            "Danau penuh bungkus karena warga terus membuangnya.",
+            "Ikan kecil membeli sepeda di bulan.",
+            "Danau menjadi lebih bersih dan ikan merasa lega.",
+            "Warga berhenti membawa wadah sejak awal."
+          ],
+          "answer": "Danau menjadi lebih bersih dan ikan merasa lega.",
+          "discussion": "Akhir itu sesuai dengan kebiasaan baru warga menjaga kebersihan danau."
+        },
+        {
+          "id": "K03-BIN-B04-M01-044",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nTulis akhir dongeng ini: “Ikan kecil meminta warga hutan tidak membuang bungkus makanan ke danau. Warga mulai membawa wadah makan sendiri dan membuang sampah pada tempatnya. ...”\n\nPerasaan ikan yang masuk akal setelah danau lebih bersih ialah ...",
+          "options": [
+            "Kecewa karena ditolong",
+            "Marah karena sampah berkurang",
+            "Takut karena air lebih terjaga",
+            "Lega"
+          ],
+          "answer": "Lega",
+          "discussion": "Lega sesuai dengan masalah ikan yang mulai teratasi."
+        },
+        {
+          "id": "K03-BIN-B04-M01-045",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nTulis akhir dongeng ini: “Ikan kecil meminta warga hutan tidak membuang bungkus makanan ke danau. Warga mulai membawa wadah makan sendiri dan membuang sampah pada tempatnya. ...”\n\nTindakan yang dapat kita tiru dari warga hutan ialah ...",
+          "options": [
+            "Mengurangi sampah dan membuangnya pada tempatnya",
+            "Membuang sampah ke selokan",
+            "Menginjak tanaman di taman",
+            "Membiarkan keran terbuka terus"
+          ],
+          "answer": "Mengurangi sampah dan membuangnya pada tempatnya",
+          "discussion": "Tindakan pertama menerapkan pesan menjaga lingkungan dalam kehidupan sehari-hari."
+        },
+        {
+          "id": "K03-BIN-B04-M01-046",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nAyu akan menceritakan kembali dongeng tentang burung yang menolong pohon. Ia mencatat tokoh, tempat, masalah, usaha, dan akhir cerita. Ayu ingin memakai kata-katanya sendiri tanpa mengubah peristiwa utama.\n\nApa yang perlu disebut untuk memperkenalkan pelaku cerita?",
+          "options": [
+            "Harga buku",
+            "Tokoh",
+            "Ukuran kertas",
+            "Nomor halaman saja"
+          ],
+          "answer": "Tokoh",
+          "discussion": "Tokoh adalah pelaku yang mengalami atau melakukan peristiwa."
+        },
+        {
+          "id": "K03-BIN-B04-M01-047",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nAyu akan menceritakan kembali dongeng tentang burung yang menolong pohon. Ia mencatat tokoh, tempat, masalah, usaha, dan akhir cerita. Ayu ingin memakai kata-katanya sendiri tanpa mengubah peristiwa utama.\n\nCatatan apa yang menjelaskan lokasi kejadian?",
+          "options": [
+            "Warna sampul",
+            "Nama penerbit",
+            "Tempat",
+            "Jumlah huruf"
+          ],
+          "answer": "Tempat",
+          "discussion": "Tempat merupakan bagian latar yang menunjukkan di mana peristiwa terjadi."
+        },
+        {
+          "id": "K03-BIN-B04-M01-048",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nAyu akan menceritakan kembali dongeng tentang burung yang menolong pohon. Ia mencatat tokoh, tempat, masalah, usaha, dan akhir cerita. Ayu ingin memakai kata-katanya sendiri tanpa mengubah peristiwa utama.\n\nApa fungsi mencatat masalah dan usaha?",
+          "options": [
+            "Menentukan harga dongeng",
+            "Mengganti semua tokoh dengan angka",
+            "Menghapus hubungan antarperistiwa",
+            "Menjelaskan kesulitan tokoh serta cara mengatasinya"
+          ],
+          "answer": "Menjelaskan kesulitan tokoh serta cara mengatasinya",
+          "discussion": "Masalah dan usaha memperlihatkan hubungan antara kesulitan dan tindakan tokoh."
+        },
+        {
+          "id": "K03-BIN-B04-M01-049",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nAyu akan menceritakan kembali dongeng tentang burung yang menolong pohon. Ia mencatat tokoh, tempat, masalah, usaha, dan akhir cerita. Ayu ingin memakai kata-katanya sendiri tanpa mengubah peristiwa utama.\n\nCara Ayu bercerita kembali yang tepat ialah ...",
+          "options": [
+            "Menggunakan kata sendiri dengan peristiwa utama tetap sesuai",
+            "Mengubah akhir menjadi bertentangan tanpa penjelasan",
+            "Hanya membaca nama penerbit",
+            "Menghapus semua pelaku dan kejadian"
+          ],
+          "answer": "Menggunakan kata sendiri dengan peristiwa utama tetap sesuai",
+          "discussion": "Menceritakan kembali membolehkan bahasa sendiri sambil menjaga isi utama."
+        },
+        {
+          "id": "K03-BIN-B04-M01-050",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nAyu akan menceritakan kembali dongeng tentang burung yang menolong pohon. Ia mencatat tokoh, tempat, masalah, usaha, dan akhir cerita. Ayu ingin memakai kata-katanya sendiri tanpa mengubah peristiwa utama.\n\nKalimat pembuka yang sesuai untuk dongeng tersebut ialah ...",
+          "options": [
+            "Demikian daftar harga buku bulan ini.",
+            "Di sebuah kebun, seekor burung melihat pohon yang layu.",
+            "Hasil penjumlahan tujuh dan dua adalah sembilan.",
+            "Tutup buku sebelum mendengar cerita!"
+          ],
+          "answer": "Di sebuah kebun, seekor burung melihat pohon yang layu.",
+          "discussion": "Pembuka itu memperkenalkan tempat, tokoh, dan masalah sesuai rencana cerita Ayu."
+        }
+      ]
+    }
+  ]
+}

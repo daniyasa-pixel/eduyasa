@@ -1,0 +1,365 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Bahasa Indonesia: Kawan Seiring untuk SD/MI Kelas III (Edisi Revisi)",
+    "year": 2025,
+    "authors": [
+      "Gantino Habibi",
+      "S. Nailul Muna Aljamaliah"
+    ],
+    "isbn_pdf": "978-634-00-3315-1",
+    "reading_url": "https://fliphtml5.com/Yenny_73/Bahasa-Indonesia_BS_KLS_III_Rev/",
+    "note": "Buku pemerintah dibaca melalui salinan daring. Judul dan urutan bab mengikuti edisi revisi 2025. Bacaan, soal, dan SVG EDUYASA ditulis sendiri; bukan salinan latihan buku."
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-BIN-B04",
+      "chapter_title": "Menyelamatkan Lingkungan",
+      "questions": [
+        {
+          "id": "K03-BIN-B04-M01-051",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nMasalah pada awal dongeng bergambar ialah ...",
+          "options": [
+            "Pohon terlalu banyak buah",
+            "Semua sarang tertutup salju",
+            "Sampah menumpuk di tepi sungai",
+            "Taman tidak memiliki bangku"
+          ],
+          "answer": "Sampah menumpuk di tepi sungai",
+          "discussion": "Panel MASALAH memperlihatkan sampah di dekat sungai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-01.svg",
+            "alt": "Sungai sahabat hutan. MASALAH: Sampah menumpuk di tepi sungai. USAHA: Kelinci dan Rusa membersihkan. HASIL: Tepi sungai menjadi bersih."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-052",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nPesan yang sesuai dengan ketiga panel ialah ...",
+          "options": [
+            "Sungai adalah tempat membuang sampah.",
+            "Masalah lingkungan akan selesai tanpa tindakan.",
+            "Semua hewan harus bekerja sendirian.",
+            "Kita dapat menjaga lingkungan melalui kerja sama."
+          ],
+          "answer": "Kita dapat menjaga lingkungan melalui kerja sama.",
+          "discussion": "Panel usaha menunjukkan kerja sama membersihkan yang menghasilkan tepi sungai bersih.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-01.svg",
+            "alt": "Sungai sahabat hutan. MASALAH: Sampah menumpuk di tepi sungai. USAHA: Kelinci dan Rusa membersihkan. HASIL: Tepi sungai menjadi bersih."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-053",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nBagaimana Tupai membantu Pipit?",
+          "options": [
+            "Membawakan ranting",
+            "Menjatuhkan sarang lagi",
+            "Menebang semua pohon",
+            "Menyembunyikan telur"
+          ],
+          "answer": "Membawakan ranting",
+          "discussion": "Panel 2 menunjukkan ranting sebagai bahan yang dibawa Tupai untuk membantu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-02.svg",
+            "alt": "Sarang Pipit. 1: Sarang jatuh terkena angin. 2: Tupai membawa ranting. 3: Pipit menyusun sarang baru."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-054",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nAkhir dongeng yang sesuai dengan gambar ialah ...",
+          "options": [
+            "Pipit membuang semua ranting yang diperlukan.",
+            "Sarang baru selesai berkat bantuan dan usaha bersama.",
+            "Tupai meninggalkan hutan sebelum membantu.",
+            "Angin mengubah sarang menjadi meja."
+          ],
+          "answer": "Sarang baru selesai berkat bantuan dan usaha bersama.",
+          "discussion": "Urutan kerusakan, bantuan bahan, dan penyusunan sarang mendukung akhir kerja sama yang berhasil.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-02.svg",
+            "alt": "Sarang Pipit. 1: Sarang jatuh terkena angin. 2: Tupai membawa ranting. 3: Pipit menyusun sarang baru."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-055",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa ajakan utama poster Kura-kura?",
+          "options": [
+            "Membiarkan keran terbuka",
+            "Menghabiskan air untuk bermain",
+            "Menghemat air dengan menutup keran",
+            "Memindahkan taman ke sungai"
+          ],
+          "answer": "Menghemat air dengan menutup keran",
+          "discussion": "Seluruh bagian poster mengarahkan pembaca menutup dan memeriksa keran agar air tidak terbuang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-03.svg",
+            "alt": "Pengingat keran taman. SESUDAH DIGUNAKAN: Tutup keran sampai rapat. PERIKSA LAGI: Jangan biarkan air menetes. PESAN KURA-KURA: Mari hemat air!"
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-056",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat yang paling sesuai dengan gambar keran ialah ...",
+          "options": [
+            "Buanglah buku setelah dibaca!",
+            "Petiklah semua bunga di taman!",
+            "Tumpuklah sampah di selokan!",
+            "Tutuplah keran setelah digunakan!"
+          ],
+          "answer": "Tutuplah keran setelah digunakan!",
+          "discussion": "Perintah menutup keran sesuai dengan objek gambar dan pesan poster.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-03.svg",
+            "alt": "Pengingat keran taman. SESUDAH DIGUNAKAN: Tutup keran sampai rapat. PERIKSA LAGI: Jangan biarkan air menetes. PESAN KURA-KURA: Mari hemat air!"
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-057",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nJalur mana yang sebaiknya dipilih pengunjung dalam dongeng?",
+          "options": [
+            "Jalan setapak di tengah",
+            "Area bunga di kiri",
+            "Bagian di atas kelopak bunga",
+            "Semua tempat harus diinjak"
+          ],
+          "answer": "Jalan setapak di tengah",
+          "discussion": "Denah dan papan mengarahkan pengunjung ke jalan setapak agar tidak menginjak bunga.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-04.svg",
+            "alt": "Jalan di kebun Landak. KIRI: BUNGA TENGAH: JALAN SETAPAK KANAN: PAPAN: LEWAT SINI"
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-058",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nTujuan papan pada denah ialah ...",
+          "options": [
+            "Menentukan harga bunga",
+            "Menjaga bunga agar tidak terinjak",
+            "Menghitung jumlah hewan",
+            "Mengumumkan lomba berenang"
+          ],
+          "answer": "Menjaga bunga agar tidak terinjak",
+          "discussion": "Hubungan papan, jalan, dan bunga menunjukkan arahan untuk melindungi tanaman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-04.svg",
+            "alt": "Jalan di kebun Landak. KIRI: BUNGA TENGAH: JALAN SETAPAK KANAN: PAPAN: LEWAT SINI"
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-059",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKartu yang menunjukkan keadaan awal ialah ...",
+          "options": [
+            "Kartu A",
+            "Kartu B",
+            "Kartu C",
+            "Tidak ada keadaan awal"
+          ],
+          "answer": "Kartu C",
+          "discussion": "Kartu C menggunakan kata semula dan memperlihatkan tanah gersang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-05.svg",
+            "alt": "Menanam bersama Merpati. KARTU A: Halaman kembali hijau. KARTU B: Merpati dan teman menanam. KARTU C: Halaman semula gersang."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-060",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nUrutan dongeng yang tepat ialah ...",
+          "options": [
+            "A–C–B",
+            "B–A–C",
+            "A–B–C",
+            "C–B–A"
+          ],
+          "answer": "C–B–A",
+          "discussion": "Keadaan gersang diikuti tindakan menanam, lalu hasil halaman hijau.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-05.svg",
+            "alt": "Menanam bersama Merpati. KARTU A: Halaman kembali hijau. KARTU B: Merpati dan teman menanam. KARTU C: Halaman semula gersang."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-061",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nPilihan mana yang sesuai dengan pesan menjaga sungai?",
+          "options": [
+            "Pilihan 2",
+            "Pilihan 1",
+            "Keduanya membuang daun ke sungai",
+            "Tidak ada pilihan tentang daun"
+          ],
+          "answer": "Pilihan 2",
+          "discussion": "Pilihan 2 menempatkan daun di pengolahan, sehingga tidak menambah sampah di sungai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-06.svg",
+            "alt": "Pilihan Belalang. PILIHAN 1: Daun dibuang ke sungai. PIKIRKAN AKIBATNYA: Jaga aliran air. PILIHAN 2: Daun ke tempat pengolahan."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-062",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nAlasan memilih tindakan tersebut ialah ...",
+          "options": [
+            "Semua daun harus selalu masuk sungai.",
+            "Sungai tidak dijadikan tempat membuang sampah.",
+            "Air sungai hanya boleh dipakai Belalang.",
+            "Tempat pengolahan harus dikosongkan selamanya."
+          ],
+          "answer": "Sungai tidak dijadikan tempat membuang sampah.",
+          "discussion": "Alasan pertama menjelaskan hubungan pilihan tindakan dengan kebersihan sungai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-06.svg",
+            "alt": "Pilihan Belalang. PILIHAN 1: Daun dibuang ke sungai. PIKIRKAN AKIBATNYA: Jaga aliran air. PILIHAN 2: Daun ke tempat pengolahan."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-063",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nPerubahan sikap Musang yang terlihat ialah ...",
+          "options": [
+            "Dari menolong menjadi selalu mengejek",
+            "Dari sabar menjadi merusak semua pohon",
+            "Dari ingin sendiri menjadi mau berbagi",
+            "Dari rajin membaca menjadi membuang buku"
+          ],
+          "answer": "Dari ingin sendiri menjadi mau berbagi",
+          "discussion": "Panel awal dan akhir menunjukkan perubahan dari menyimpan semua buah ke berbagi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-07.svg",
+            "alt": "Musang belajar berbagi. AWAL: Musang menyimpan semua buah. MASALAH: Dahan patah; sulit memetik. AKHIR: Musang meminta bantuan dan berbagi."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-064",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa masalah yang mendorong perubahan cerita?",
+          "options": [
+            "Sungai kehilangan seluruh ikan",
+            "Musang tidak mempunyai buku",
+            "Hujan turun di sekolah",
+            "Dahan patah sehingga sulit memetik buah"
+          ],
+          "answer": "Dahan patah sehingga sulit memetik buah",
+          "discussion": "Panel tengah menyebut dahan patah dan kesulitan memetik sebagai masalah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-07.svg",
+            "alt": "Musang belajar berbagi. AWAL: Musang menyimpan semua buah. MASALAH: Dahan patah; sulit memetik. AKHIR: Musang meminta bantuan dan berbagi."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-065",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa hasil usaha awan kecil pada dongeng bergambar?",
+          "options": [
+            "Tanaman kembali segar setelah hujan",
+            "Tanaman berubah menjadi batu",
+            "Semua awan disimpan di lemari",
+            "Kebun menjadi tempat parkir"
+          ],
+          "answer": "Tanaman kembali segar setelah hujan",
+          "discussion": "Panel terakhir menghubungkan hujan dengan keadaan tanaman yang segar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-08.svg",
+            "alt": "Awan kecil menolong kebun. 1: Tanaman di kebun layu. 2: Awan kecil mengajak awan lain. 3: Hujan turun; tanaman segar."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-066",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat yang sesuai untuk menceritakan panel 2 ialah ...",
+          "options": [
+            "Awan kecil menghitung harga sepatu.",
+            "Awan kecil mengajak teman-temannya membantu kebun.",
+            "Tanaman menjual semua meja.",
+            "Hujan berhenti sebelum awan datang."
+          ],
+          "answer": "Awan kecil mengajak teman-temannya membantu kebun.",
+          "discussion": "Keterangan dan gambar kumpulan awan pada panel kedua menunjukkan ajakan membantu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-08.svg",
+            "alt": "Awan kecil menolong kebun. 1: Tanaman di kebun layu. 2: Awan kecil mengajak awan lain. 3: Hujan turun; tanaman segar."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-067",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa kebiasaan baru warga dalam dongeng?",
+          "options": [
+            "Melempar bungkus makanan ke danau",
+            "Menyembunyikan tempat sampah",
+            "Membawa wadah dan membuang sampah pada tempatnya",
+            "Membuang semua ikan ke jalan"
+          ],
+          "answer": "Membawa wadah dan membuang sampah pada tempatnya",
+          "discussion": "Panel tengah memuat dua tindakan warga untuk mengurangi masalah sampah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-09.svg",
+            "alt": "Danau Ikan Kecil. DAHULU: Bungkus makanan di danau. KEBIASAAN BARU: Bawa wadah, buang sampah tepat. KEMUDIAN: Danau lebih bersih."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-068",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat akhir dongeng yang sesuai ialah ...",
+          "options": [
+            "Ikan kecil kecewa karena warga terus menambah sampah.",
+            "Warga tidak pernah mengubah kebiasaan.",
+            "Danau berubah menjadi gunung es.",
+            "Ikan kecil merasa lega karena danau lebih bersih."
+          ],
+          "answer": "Ikan kecil merasa lega karena danau lebih bersih.",
+          "discussion": "Keadaan danau lebih bersih pada panel terakhir sesuai dengan rasa lega karena masalah berkurang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-09.svg",
+            "alt": "Danau Ikan Kecil. DAHULU: Bungkus makanan di danau. KEBIASAAN BARU: Bawa wadah, buang sampah tepat. KEMUDIAN: Danau lebih bersih."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-069",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nSiapa tokoh yang disebut dalam rencana dongeng?",
+          "options": [
+            "Burung",
+            "Kura-kura",
+            "Musang",
+            "Ikan kecil"
+          ],
+          "answer": "Burung",
+          "discussion": "Kartu pertama menyebut burung sebagai tokoh dan kebun sebagai tempat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-10.svg",
+            "alt": "Rencana dongeng Ayu. TOKOH DAN TEMPAT: Burung di kebun. MASALAH DAN USAHA: Pohon layu; burung mengajak menolong. AKHIR: Teman-teman merawat pohon."
+          }
+        },
+        {
+          "id": "K03-BIN-B04-M01-070",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat pembuka yang sesuai dengan rencana bergambar ialah ...",
+          "options": [
+            "Di stasiun, kereta datang membawa penumpang.",
+            "Di sebuah kebun, seekor burung melihat pohon yang layu.",
+            "Di pasar, Ayah membeli sepatu untuk bekerja.",
+            "Di laut, nelayan menghitung hasil tangkapan."
+          ],
+          "answer": "Di sebuah kebun, seekor burung melihat pohon yang layu.",
+          "discussion": "Pembuka pertama menggabungkan tokoh, tempat, dan masalah yang tercantum pada kartu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-10.svg",
+            "alt": "Rencana dongeng Ayu. TOKOH DAN TEMPAT: Burung di kebun. MASALAH DAN USAHA: Pohon layu; burung mengajak menolong. AKHIR: Teman-teman merawat pohon."
+          }
+        }
+      ]
+    }
+  ]
+}

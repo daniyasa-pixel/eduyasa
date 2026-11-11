@@ -1,0 +1,675 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Bahasa Indonesia: Kawan Seiring untuk SD/MI Kelas III (Edisi Revisi)",
+    "year": 2025,
+    "authors": [
+      "Gantino Habibi",
+      "S. Nailul Muna Aljamaliah"
+    ],
+    "isbn_pdf": "978-634-00-3315-1",
+    "reading_url": "https://fliphtml5.com/Yenny_73/Bahasa-Indonesia_BS_KLS_III_Rev/",
+    "note": "Buku pemerintah dibaca melalui salinan daring. Judul dan urutan bab mengikuti edisi revisi 2025. Bacaan, soal, dan SVG EDUYASA ditulis sendiri; bukan salinan latihan buku."
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-BIN-B02",
+      "chapter_title": "Yuk, Berpendapat!",
+      "questions": [
+        {
+          "id": "K03-BIN-B02-M01-001",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nFira berkata, “Menurutku, membaca di bawah pohon itu menyenangkan karena tempatnya teduh.” Danu menjawab, “Aku lebih suka membaca di kelas karena mejanya memudahkan menulis catatan.”\n\nPendapat Fira ialah ...",
+          "options": [
+            "Membaca di bawah pohon menyenangkan.",
+            "Membaca di kelas selalu dilarang.",
+            "Semua pohon mempunyai meja.",
+            "Danu tidak suka membaca buku."
+          ],
+          "answer": "Membaca di bawah pohon menyenangkan.",
+          "discussion": "Frasa menurutku menandai pendapat Fira tentang tempat membaca."
+        },
+        {
+          "id": "K03-BIN-B02-M01-002",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nFira berkata, “Menurutku, membaca di bawah pohon itu menyenangkan karena tempatnya teduh.” Danu menjawab, “Aku lebih suka membaca di kelas karena mejanya memudahkan menulis catatan.”\n\nApa alasan Fira memilih bawah pohon?",
+          "options": [
+            "Ada meja untuk menulis",
+            "Tempatnya teduh",
+            "Dekat dengan toko",
+            "Semua buku gratis"
+          ],
+          "answer": "Tempatnya teduh",
+          "discussion": "Alasan Fira terdapat setelah kata karena, yaitu tempatnya teduh."
+        },
+        {
+          "id": "K03-BIN-B02-M01-003",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nFira berkata, “Menurutku, membaca di bawah pohon itu menyenangkan karena tempatnya teduh.” Danu menjawab, “Aku lebih suka membaca di kelas karena mejanya memudahkan menulis catatan.”\n\nApa alasan Danu memilih kelas?",
+          "options": [
+            "Pohon tidak mempunyai daun",
+            "Ia ingin membeli buku",
+            "Ada meja yang memudahkan menulis catatan",
+            "Ia tidak membawa pensil"
+          ],
+          "answer": "Ada meja yang memudahkan menulis catatan",
+          "discussion": "Danu menjelaskan fungsi meja sebagai alasan pilihannya."
+        },
+        {
+          "id": "K03-BIN-B02-M01-004",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nFira berkata, “Menurutku, membaca di bawah pohon itu menyenangkan karena tempatnya teduh.” Danu menjawab, “Aku lebih suka membaca di kelas karena mejanya memudahkan menulis catatan.”\n\nTanggapan santun terhadap pilihan Danu ialah ...",
+          "options": [
+            "Pilihanmu bodoh dan harus diganti!",
+            "Kamu tidak boleh memilih tempat sendiri!",
+            "Aku tidak mau mendengar alasanmu!",
+            "Pilihanmu masuk akal; aku tetap suka tempat yang teduh."
+          ],
+          "answer": "Pilihanmu masuk akal; aku tetap suka tempat yang teduh.",
+          "discussion": "Tanggapan yang santun menghargai alasan teman walaupun pilihan berbeda."
+        },
+        {
+          "id": "K03-BIN-B02-M01-005",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nFira berkata, “Menurutku, membaca di bawah pohon itu menyenangkan karena tempatnya teduh.” Danu menjawab, “Aku lebih suka membaca di kelas karena mejanya memudahkan menulis catatan.”\n\nKata yang menghubungkan pendapat dan alasan pada bacaan ialah ...",
+          "options": [
+            "karena",
+            "dan",
+            "atau",
+            "kemudian"
+          ],
+          "answer": "karena",
+          "discussion": "Karena memperkenalkan alasan yang mendukung pendapat."
+        },
+        {
+          "id": "K03-BIN-B02-M01-006",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKelas akan memilih kegiatan Jumat. Sari mengusulkan membaca bersama. Ia menjelaskan bahwa setiap anak dapat membawa satu buku lalu bergantian bercerita. Raka mengusulkan berkebun agar kelas dapat merawat tanaman.\n\nApa usulan Sari?",
+          "options": [
+            "Berlomba lari",
+            "Membaca bersama",
+            "Memasak bersama",
+            "Menghias sepeda"
+          ],
+          "answer": "Membaca bersama",
+          "discussion": "Sari secara langsung mengusulkan kegiatan membaca bersama."
+        },
+        {
+          "id": "K03-BIN-B02-M01-007",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKelas akan memilih kegiatan Jumat. Sari mengusulkan membaca bersama. Ia menjelaskan bahwa setiap anak dapat membawa satu buku lalu bergantian bercerita. Raka mengusulkan berkebun agar kelas dapat merawat tanaman.\n\nBagaimana cara melaksanakan usulan Sari?",
+          "options": [
+            "Membeli pot dan menyiram bunga",
+            "Menutup semua buku",
+            "Membawa buku dan bergantian bercerita",
+            "Berlari mengelilingi lapangan"
+          ],
+          "answer": "Membawa buku dan bergantian bercerita",
+          "discussion": "Cara pelaksanaan dijelaskan sesudah usulan membaca bersama."
+        },
+        {
+          "id": "K03-BIN-B02-M01-008",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKelas akan memilih kegiatan Jumat. Sari mengusulkan membaca bersama. Ia menjelaskan bahwa setiap anak dapat membawa satu buku lalu bergantian bercerita. Raka mengusulkan berkebun agar kelas dapat merawat tanaman.\n\nMengapa Raka mengusulkan berkebun?",
+          "options": [
+            "Agar anak-anak berhenti membaca selamanya",
+            "Agar semua buku dibuang",
+            "Agar lapangan menjadi toko",
+            "Agar kelas dapat merawat tanaman"
+          ],
+          "answer": "Agar kelas dapat merawat tanaman",
+          "discussion": "Tujuan merawat tanaman disebut sebagai alasan usulan Raka."
+        },
+        {
+          "id": "K03-BIN-B02-M01-009",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKelas akan memilih kegiatan Jumat. Sari mengusulkan membaca bersama. Ia menjelaskan bahwa setiap anak dapat membawa satu buku lalu bergantian bercerita. Raka mengusulkan berkebun agar kelas dapat merawat tanaman.\n\nApa yang sebaiknya dilakukan sebelum memilih kegiatan?",
+          "options": [
+            "Mendengarkan usulan dan alasan teman",
+            "Menyela setiap teman yang berbicara",
+            "Memilih sebelum mengetahui usulan",
+            "Mengejek kegiatan yang berbeda"
+          ],
+          "answer": "Mendengarkan usulan dan alasan teman",
+          "discussion": "Mendengarkan membuat kelas dapat mempertimbangkan usulan beserta alasannya."
+        },
+        {
+          "id": "K03-BIN-B02-M01-010",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nKelas akan memilih kegiatan Jumat. Sari mengusulkan membaca bersama. Ia menjelaskan bahwa setiap anak dapat membawa satu buku lalu bergantian bercerita. Raka mengusulkan berkebun agar kelas dapat merawat tanaman.\n\nKalimat untuk menyampaikan usulan dengan santun ialah ...",
+          "options": [
+            "Kalian wajib memilih usulku tanpa bertanya!",
+            "Bagaimana kalau kita membaca bersama hari Jumat?",
+            "Usulan orang lain pasti salah!",
+            "Berhenti bicara, hanya aku yang boleh memilih!"
+          ],
+          "answer": "Bagaimana kalau kita membaca bersama hari Jumat?",
+          "discussion": "Bagaimana kalau mengajak orang lain mempertimbangkan usulan tanpa memaksa."
+        },
+        {
+          "id": "K03-BIN-B02-M01-011",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nNala merasa kecewa karena layang-layang buatannya robek. Ia berhenti sebentar untuk menenangkan diri. Setelah itu, Nala meminta bantuan kakaknya untuk memperbaiki layang-layang.\n\nApa perasaan Nala pada awal bacaan?",
+          "options": [
+            "Bangga",
+            "Terhibur",
+            "Kecewa",
+            "Puas"
+          ],
+          "answer": "Kecewa",
+          "discussion": "Perasaan kecewa disebut pada kalimat pertama."
+        },
+        {
+          "id": "K03-BIN-B02-M01-012",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nNala merasa kecewa karena layang-layang buatannya robek. Ia berhenti sebentar untuk menenangkan diri. Setelah itu, Nala meminta bantuan kakaknya untuk memperbaiki layang-layang.\n\nMengapa Nala merasa demikian?",
+          "options": [
+            "Kakaknya mendapat hadiah",
+            "Ia menemukan buku baru",
+            "Cuaca sedang cerah",
+            "Layang-layang buatannya robek"
+          ],
+          "answer": "Layang-layang buatannya robek",
+          "discussion": "Kata karena menghubungkan perasaan kecewa dengan layang-layang yang robek."
+        },
+        {
+          "id": "K03-BIN-B02-M01-013",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nNala merasa kecewa karena layang-layang buatannya robek. Ia berhenti sebentar untuk menenangkan diri. Setelah itu, Nala meminta bantuan kakaknya untuk memperbaiki layang-layang.\n\nApa yang dilakukan Nala sebelum meminta bantuan?",
+          "options": [
+            "Menenangkan diri sebentar",
+            "Membeli sepeda baru",
+            "Memarahi semua teman",
+            "Meninggalkan rumah"
+          ],
+          "answer": "Menenangkan diri sebentar",
+          "discussion": "Bacaan menempatkan kegiatan menenangkan diri sebelum meminta bantuan."
+        },
+        {
+          "id": "K03-BIN-B02-M01-014",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nNala merasa kecewa karena layang-layang buatannya robek. Ia berhenti sebentar untuk menenangkan diri. Setelah itu, Nala meminta bantuan kakaknya untuk memperbaiki layang-layang.\n\nUcapan yang sesuai dengan kebutuhan Nala ialah ...",
+          "options": [
+            "Kak, mengapa buku ini ada di perpustakaan?",
+            "Kak, bolehkah aku minta bantuan memperbaiki layang-layang?",
+            "Kak, aku tidak ingin memperbaiki apa pun.",
+            "Kak, tolong buang semua barangmu!"
+          ],
+          "answer": "Kak, bolehkah aku minta bantuan memperbaiki layang-layang?",
+          "discussion": "Ucapan itu menyampaikan kebutuhan bantuan secara jelas dan santun."
+        },
+        {
+          "id": "K03-BIN-B02-M01-015",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nNala merasa kecewa karena layang-layang buatannya robek. Ia berhenti sebentar untuk menenangkan diri. Setelah itu, Nala meminta bantuan kakaknya untuk memperbaiki layang-layang.\n\nTanggapan yang menunjukkan kepedulian kepada Nala ialah ...",
+          "options": [
+            "Kamu tidak boleh merasa kecewa sama sekali!",
+            "Layang-layangmu jelek, jadi tidak usah diperbaiki!",
+            "Aku mengerti kamu kecewa. Mari kita lihat bagian yang robek.",
+            "Aku akan menertawakanmu sampai sore."
+          ],
+          "answer": "Aku mengerti kamu kecewa. Mari kita lihat bagian yang robek.",
+          "discussion": "Tanggapan itu mengakui perasaan Nala dan menawarkan bantuan yang sesuai."
+        },
+        {
+          "id": "K03-BIN-B02-M01-016",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nGita menyusun kamus kecil. Ia menulis kata “rimbun” dengan arti “banyak daun dan cabangnya”. Ia menambahkan contoh: “Pohon rimbun itu membuat halaman teduh.”\n\nKata apa yang dijelaskan dalam kamus Gita?",
+          "options": [
+            "Halaman",
+            "Contoh",
+            "Kecil",
+            "Rimbun"
+          ],
+          "answer": "Rimbun",
+          "discussion": "Entri kamus yang sedang dibuat Gita adalah kata rimbun."
+        },
+        {
+          "id": "K03-BIN-B02-M01-017",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nGita menyusun kamus kecil. Ia menulis kata “rimbun” dengan arti “banyak daun dan cabangnya”. Ia menambahkan contoh: “Pohon rimbun itu membuat halaman teduh.”\n\nArti rimbun yang sesuai bacaan ialah ...",
+          "options": [
+            "Banyak daun dan cabangnya",
+            "Tidak mempunyai daun",
+            "Berwarna merah seluruhnya",
+            "Tumbuh tanpa batang"
+          ],
+          "answer": "Banyak daun dan cabangnya",
+          "discussion": "Arti tersebut ditulis langsung dalam kamus kecil Gita."
+        },
+        {
+          "id": "K03-BIN-B02-M01-018",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nGita menyusun kamus kecil. Ia menulis kata “rimbun” dengan arti “banyak daun dan cabangnya”. Ia menambahkan contoh: “Pohon rimbun itu membuat halaman teduh.”\n\nApa fungsi contoh kalimat dalam kamus?",
+          "options": [
+            "Menentukan harga buku",
+            "Menunjukkan penggunaan kata",
+            "Menghitung jumlah halaman",
+            "Mengganti semua arti kata"
+          ],
+          "answer": "Menunjukkan penggunaan kata",
+          "discussion": "Contoh memperlihatkan bagaimana kata rimbun digunakan dalam kalimat."
+        },
+        {
+          "id": "K03-BIN-B02-M01-019",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nGita menyusun kamus kecil. Ia menulis kata “rimbun” dengan arti “banyak daun dan cabangnya”. Ia menambahkan contoh: “Pohon rimbun itu membuat halaman teduh.”\n\nKalimat yang menggunakan kata rimbun secara tepat ialah ...",
+          "options": [
+            "Pensil rimbun itu patah menjadi dua.",
+            "Sepatuku rimbun karena baru dicuci.",
+            "Burung berteduh di pohon yang rimbun.",
+            "Air rimbun memenuhi gelas."
+          ],
+          "answer": "Burung berteduh di pohon yang rimbun.",
+          "discussion": "Rimbun menggambarkan pohon yang memiliki banyak daun dan cabang."
+        },
+        {
+          "id": "K03-BIN-B02-M01-020",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nGita menyusun kamus kecil. Ia menulis kata “rimbun” dengan arti “banyak daun dan cabangnya”. Ia menambahkan contoh: “Pohon rimbun itu membuat halaman teduh.”\n\nInformasi apa yang perlu dimasukkan saat menambah entri kamus kecil?",
+          "options": [
+            "Harga sepatu dan ukuran kaki",
+            "Daftar belanja tanpa kata baru",
+            "Nama teman tanpa penjelasan kata",
+            "Kata, arti, dan contoh kalimat"
+          ],
+          "answer": "Kata, arti, dan contoh kalimat",
+          "discussion": "Ketiga unsur itu membantu pembaca memahami arti dan pemakaian kata baru."
+        },
+        {
+          "id": "K03-BIN-B02-M01-021",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPerpustakaan mempunyai aturan: “Kembalikan buku ke rak setelah membaca.” Reno berpendapat aturan itu bermanfaat karena buku mudah ditemukan oleh pembaca berikutnya.\n\nKalimat yang berisi aturan ialah ...",
+          "options": [
+            "Kembalikan buku ke rak setelah membaca.",
+            "Menurut Reno, perpustakaan itu menyenangkan.",
+            "Reno suka membaca cerita hewan.",
+            "Buku bergambar adalah buku kesukaan Reno."
+          ],
+          "answer": "Kembalikan buku ke rak setelah membaca.",
+          "discussion": "Kalimat perintah tersebut menetapkan tindakan yang harus dilakukan pembaca."
+        },
+        {
+          "id": "K03-BIN-B02-M01-022",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPerpustakaan mempunyai aturan: “Kembalikan buku ke rak setelah membaca.” Reno berpendapat aturan itu bermanfaat karena buku mudah ditemukan oleh pembaca berikutnya.\n\nPendapat Reno tentang aturan tersebut ialah ...",
+          "options": [
+            "Aturan itu harus dilupakan.",
+            "Aturan itu bermanfaat.",
+            "Buku tidak perlu dikembalikan.",
+            "Rak tidak dibutuhkan di perpustakaan."
+          ],
+          "answer": "Aturan itu bermanfaat.",
+          "discussion": "Reno menilai aturan itu bermanfaat dan memberikan alasannya."
+        },
+        {
+          "id": "K03-BIN-B02-M01-023",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPerpustakaan mempunyai aturan: “Kembalikan buku ke rak setelah membaca.” Reno berpendapat aturan itu bermanfaat karena buku mudah ditemukan oleh pembaca berikutnya.\n\nAlasan Reno adalah ...",
+          "options": [
+            "Rak menjadi tempat menyimpan sepatu",
+            "Semua orang berhenti membaca",
+            "Buku mudah ditemukan pembaca berikutnya",
+            "Buku berubah menjadi baru"
+          ],
+          "answer": "Buku mudah ditemukan pembaca berikutnya",
+          "discussion": "Alasan berkaitan dengan manfaat mengembalikan buku ke rak."
+        },
+        {
+          "id": "K03-BIN-B02-M01-024",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPerpustakaan mempunyai aturan: “Kembalikan buku ke rak setelah membaca.” Reno berpendapat aturan itu bermanfaat karena buku mudah ditemukan oleh pembaca berikutnya.\n\nPendapat lain dengan alasan yang sesuai ialah ...",
+          "options": [
+            "Aku setuju karena buah mangga rasanya manis.",
+            "Aku setuju karena sepeda mempunyai dua roda.",
+            "Aku setuju karena hari ini aku memakai topi.",
+            "Aku setuju karena rak menjadi lebih teratur."
+          ],
+          "answer": "Aku setuju karena rak menjadi lebih teratur.",
+          "discussion": "Hanya alasan tentang keteraturan rak yang berhubungan dengan aturan pengembalian buku."
+        },
+        {
+          "id": "K03-BIN-B02-M01-025",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nPerpustakaan mempunyai aturan: “Kembalikan buku ke rak setelah membaca.” Reno berpendapat aturan itu bermanfaat karena buku mudah ditemukan oleh pembaca berikutnya.\n\nKalimat yang menyatakan ketidaksetujuan dengan santun ialah ...",
+          "options": [
+            "Aku punya pandangan berbeda. Bolehkah aku menjelaskan alasannya?",
+            "Kamu pasti salah, diam saja!",
+            "Pendapatmu tidak perlu didengar!",
+            "Semua yang berbeda harus keluar!"
+          ],
+          "answer": "Aku punya pandangan berbeda. Bolehkah aku menjelaskan alasannya?",
+          "discussion": "Kalimat itu menyatakan perbedaan sambil meminta kesempatan menjelaskan."
+        },
+        {
+          "id": "K03-BIN-B02-M01-026",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBeni menulis dua kalimat: (1) “Di meja ada tiga buku.” (2) “Menurutku, buku bergambar paling menarik.”\n\nKalimat yang menyatakan pendapat ialah ...",
+          "options": [
+            "Kalimat 1",
+            "Kalimat 2",
+            "Kedua kalimat merupakan perintah",
+            "Tidak ada kalimat yang menyatakan pendapat"
+          ],
+          "answer": "Kalimat 2",
+          "discussion": "Paling menarik merupakan penilaian pribadi yang ditandai menurutku."
+        },
+        {
+          "id": "K03-BIN-B02-M01-027",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBeni menulis dua kalimat: (1) “Di meja ada tiga buku.” (2) “Menurutku, buku bergambar paling menarik.”\n\nInformasi yang dapat diperiksa dengan menghitung ialah ...",
+          "options": [
+            "Buku bergambar paling menarik.",
+            "Semua orang menyukai buku yang sama.",
+            "Di meja ada tiga buku.",
+            "Membaca selalu lebih seru daripada menggambar."
+          ],
+          "answer": "Di meja ada tiga buku.",
+          "discussion": "Jumlah tiga buku dapat diperiksa dengan melihat dan menghitung benda di meja."
+        },
+        {
+          "id": "K03-BIN-B02-M01-028",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBeni menulis dua kalimat: (1) “Di meja ada tiga buku.” (2) “Menurutku, buku bergambar paling menarik.”\n\nKata yang menandai penilaian pribadi Beni ialah ...",
+          "options": [
+            "Di",
+            "Ada",
+            "Tiga",
+            "Menurutku"
+          ],
+          "answer": "Menurutku",
+          "discussion": "Menurutku menunjukkan bahwa pernyataan berasal dari pandangan Beni."
+        },
+        {
+          "id": "K03-BIN-B02-M01-029",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBeni menulis dua kalimat: (1) “Di meja ada tiga buku.” (2) “Menurutku, buku bergambar paling menarik.”\n\nAlasan yang dapat ditambahkan pada pendapat Beni ialah ...",
+          "options": [
+            "Karena gambarnya membantuku memahami cerita",
+            "Karena meja itu mempunyai empat kaki",
+            "Karena aku tadi membeli penghapus",
+            "Karena besok ada pelajaran olahraga"
+          ],
+          "answer": "Karena gambarnya membantuku memahami cerita",
+          "discussion": "Alasan tentang gambar berkaitan langsung dengan kesukaan pada buku bergambar."
+        },
+        {
+          "id": "K03-BIN-B02-M01-030",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nBeni menulis dua kalimat: (1) “Di meja ada tiga buku.” (2) “Menurutku, buku bergambar paling menarik.”\n\nJika teman lebih menyukai buku tanpa gambar, Beni sebaiknya ...",
+          "options": [
+            "Melarang temannya membaca",
+            "Menghargai pilihan temannya",
+            "Menyembunyikan buku temannya",
+            "Mengejek temannya setiap hari"
+          ],
+          "answer": "Menghargai pilihan temannya",
+          "discussion": "Kesukaan dapat berbeda; menghargai pilihan menjaga percakapan tetap baik."
+        },
+        {
+          "id": "K03-BIN-B02-M01-031",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSaat diskusi, Tika ingin berbicara, tetapi Yoga masih menjelaskan usulnya. Tika mengangkat tangan dan menunggu. Setelah Yoga selesai, Tika menyampaikan pendapat dengan suara jelas.\n\nApa yang dilakukan Tika saat Yoga masih berbicara?",
+          "options": [
+            "Berteriak memotong ucapan",
+            "Keluar tanpa memberi tahu",
+            "Mengangkat tangan dan menunggu",
+            "Menertawakan Yoga"
+          ],
+          "answer": "Mengangkat tangan dan menunggu",
+          "discussion": "Tindakan mengangkat tangan dan menunggu disebut dalam bacaan."
+        },
+        {
+          "id": "K03-BIN-B02-M01-032",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSaat diskusi, Tika ingin berbicara, tetapi Yoga masih menjelaskan usulnya. Tika mengangkat tangan dan menunggu. Setelah Yoga selesai, Tika menyampaikan pendapat dengan suara jelas.\n\nKapan Tika menyampaikan pendapat?",
+          "options": [
+            "Sebelum diskusi dimulai",
+            "Saat Yoga baru mengucap satu kata",
+            "Ketika tidak ada kegiatan",
+            "Setelah Yoga selesai"
+          ],
+          "answer": "Setelah Yoga selesai",
+          "discussion": "Urutan bacaan menyatakan Tika berbicara setelah Yoga selesai."
+        },
+        {
+          "id": "K03-BIN-B02-M01-033",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSaat diskusi, Tika ingin berbicara, tetapi Yoga masih menjelaskan usulnya. Tika mengangkat tangan dan menunggu. Setelah Yoga selesai, Tika menyampaikan pendapat dengan suara jelas.\n\nSikap Tika menunjukkan ...",
+          "options": [
+            "Menghargai giliran berbicara",
+            "Memaksakan pendapat",
+            "Menghindari semua diskusi",
+            "Tidak mendengar teman"
+          ],
+          "answer": "Menghargai giliran berbicara",
+          "discussion": "Menunggu sampai teman selesai merupakan cara menghargai giliran."
+        },
+        {
+          "id": "K03-BIN-B02-M01-034",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSaat diskusi, Tika ingin berbicara, tetapi Yoga masih menjelaskan usulnya. Tika mengangkat tangan dan menunggu. Setelah Yoga selesai, Tika menyampaikan pendapat dengan suara jelas.\n\nMengapa suara saat berpendapat perlu jelas?",
+          "options": [
+            "Agar teman tidak punya giliran",
+            "Agar peserta diskusi dapat mendengar",
+            "Agar semua orang terkejut",
+            "Agar diskusi segera dibubarkan"
+          ],
+          "answer": "Agar peserta diskusi dapat mendengar",
+          "discussion": "Suara yang jelas membantu pendengar memahami isi pendapat."
+        },
+        {
+          "id": "K03-BIN-B02-M01-035",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nSaat diskusi, Tika ingin berbicara, tetapi Yoga masih menjelaskan usulnya. Tika mengangkat tangan dan menunggu. Setelah Yoga selesai, Tika menyampaikan pendapat dengan suara jelas.\n\nKalimat pembuka yang sesuai untuk Tika ialah ...",
+          "options": [
+            "Diam semuanya, hanya saya yang benar!",
+            "Saya tidak mau mendengar alasan siapa pun.",
+            "Terima kasih. Menurut saya, kita dapat mencoba usulan lain.",
+            "Usul Yoga pasti jelek karena bukan usul saya."
+          ],
+          "answer": "Terima kasih. Menurut saya, kita dapat mencoba usulan lain.",
+          "discussion": "Pembuka itu santun dan memberi ruang untuk pendapat lain."
+        },
+        {
+          "id": "K03-BIN-B02-M01-036",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nLuki menulis kata baru pada kartu: ceria, cermat, damai, gigih. Ia ingin mengurutkannya seperti dalam kamus, berdasarkan abjad.\n\nKata yang diletakkan paling awal ialah ...",
+          "options": [
+            "Damai",
+            "Gigih",
+            "Cermat",
+            "Ceria"
+          ],
+          "answer": "Ceria",
+          "discussion": "Ceria dan cermat berawalan cer; huruf i pada ceria mendahului m pada cermat."
+        },
+        {
+          "id": "K03-BIN-B02-M01-037",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nLuki menulis kata baru pada kartu: ceria, cermat, damai, gigih. Ia ingin mengurutkannya seperti dalam kamus, berdasarkan abjad.\n\nKata yang diletakkan paling akhir ialah ...",
+          "options": [
+            "Gigih",
+            "Ceria",
+            "Cermat",
+            "Damai"
+          ],
+          "answer": "Gigih",
+          "discussion": "Huruf g terletak setelah c dan d dalam urutan abjad."
+        },
+        {
+          "id": "K03-BIN-B02-M01-038",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nLuki menulis kata baru pada kartu: ceria, cermat, damai, gigih. Ia ingin mengurutkannya seperti dalam kamus, berdasarkan abjad.\n\nUrutan keempat kata yang tepat ialah ...",
+          "options": [
+            "Cermat, ceria, gigih, damai",
+            "Ceria, cermat, damai, gigih",
+            "Damai, gigih, ceria, cermat",
+            "Gigih, damai, cermat, ceria"
+          ],
+          "answer": "Ceria, cermat, damai, gigih",
+          "discussion": "Urutan membandingkan huruf dari kiri ke kanan sesuai abjad."
+        },
+        {
+          "id": "K03-BIN-B02-M01-039",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nLuki menulis kata baru pada kartu: ceria, cermat, damai, gigih. Ia ingin mengurutkannya seperti dalam kamus, berdasarkan abjad.\n\nUntuk membedakan urutan “ceria” dan “cermat”, huruf pertama yang berbeda adalah ...",
+          "options": [
+            "c dan d",
+            "e dan a",
+            "i dan m",
+            "r dan g"
+          ],
+          "answer": "i dan m",
+          "discussion": "Tiga huruf awal kedua kata sama, lalu i dibandingkan dengan m."
+        },
+        {
+          "id": "K03-BIN-B02-M01-040",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nLuki menulis kata baru pada kartu: ceria, cermat, damai, gigih. Ia ingin mengurutkannya seperti dalam kamus, berdasarkan abjad.\n\nMengurutkan kata menurut abjad berguna untuk ...",
+          "options": [
+            "Mengubah semua arti kata",
+            "Menghilangkan kata yang pendek",
+            "Menentukan warna sampul kamus",
+            "Memudahkan menemukan kata dalam kamus"
+          ],
+          "answer": "Memudahkan menemukan kata dalam kamus",
+          "discussion": "Urutan abjad membantu pencarian entri secara teratur."
+        },
+        {
+          "id": "K03-BIN-B02-M01-041",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\n“Aku lebih suka berjalan kaki ke taman yang dekat,” kata Mira. “Aku dapat mengobrol dengan Ibu sepanjang jalan.” Adiknya berkata, “Aku suka naik sepeda, tetapi harus melalui jalur yang aman.”\n\nApa pilihan Mira untuk pergi ke taman dekat rumah?",
+          "options": [
+            "Berjalan kaki",
+            "Naik perahu",
+            "Naik kereta",
+            "Naik pesawat"
+          ],
+          "answer": "Berjalan kaki",
+          "discussion": "Pilihan Mira dinyatakan pada kalimat pertama."
+        },
+        {
+          "id": "K03-BIN-B02-M01-042",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\n“Aku lebih suka berjalan kaki ke taman yang dekat,” kata Mira. “Aku dapat mengobrol dengan Ibu sepanjang jalan.” Adiknya berkata, “Aku suka naik sepeda, tetapi harus melalui jalur yang aman.”\n\nMengapa Mira menyukai pilihannya?",
+          "options": [
+            "Dapat menyeberangi laut",
+            "Dapat mengobrol dengan Ibu sepanjang jalan",
+            "Dapat membawa kereta",
+            "Dapat menghindari semua percakapan"
+          ],
+          "answer": "Dapat mengobrol dengan Ibu sepanjang jalan",
+          "discussion": "Kalimat kedua memberikan alasan kesukaan Mira."
+        },
+        {
+          "id": "K03-BIN-B02-M01-043",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\n“Aku lebih suka berjalan kaki ke taman yang dekat,” kata Mira. “Aku dapat mengobrol dengan Ibu sepanjang jalan.” Adiknya berkata, “Aku suka naik sepeda, tetapi harus melalui jalur yang aman.”\n\nApa yang perlu diperhatikan menurut adik Mira?",
+          "options": [
+            "Warna semua rumah",
+            "Harga tiket pesawat",
+            "Jalur bersepeda yang aman",
+            "Jumlah perahu di pantai"
+          ],
+          "answer": "Jalur bersepeda yang aman",
+          "discussion": "Adik Mira menyebut bahwa bersepeda perlu melalui jalur aman."
+        },
+        {
+          "id": "K03-BIN-B02-M01-044",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\n“Aku lebih suka berjalan kaki ke taman yang dekat,” kata Mira. “Aku dapat mengobrol dengan Ibu sepanjang jalan.” Adiknya berkata, “Aku suka naik sepeda, tetapi harus melalui jalur yang aman.”\n\nPernyataan yang tepat tentang dua pendapat tersebut ialah ...",
+          "options": [
+            "Keduanya memilih naik perahu.",
+            "Mira tidak mempunyai alasan.",
+            "Adik Mira melarang berjalan kaki.",
+            "Mereka mempunyai pilihan berbeda dan dapat menjelaskan alasannya."
+          ],
+          "answer": "Mereka mempunyai pilihan berbeda dan dapat menjelaskan alasannya.",
+          "discussion": "Bacaan menunjukkan pilihan berbeda beserta penjelasan dan pertimbangan masing-masing."
+        },
+        {
+          "id": "K03-BIN-B02-M01-045",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\n“Aku lebih suka berjalan kaki ke taman yang dekat,” kata Mira. “Aku dapat mengobrol dengan Ibu sepanjang jalan.” Adiknya berkata, “Aku suka naik sepeda, tetapi harus melalui jalur yang aman.”\n\nPertanyaan yang sesuai untuk mengetahui alasan adik ialah ...",
+          "options": [
+            "Mengapa kamu suka naik sepeda?",
+            "Berapa warna pada bajumu?",
+            "Siapa yang membuat pintu ini?",
+            "Di mana kamu menyimpan piring?"
+          ],
+          "answer": "Mengapa kamu suka naik sepeda?",
+          "discussion": "Kata mengapa meminta penjelasan alasan pilihan bersepeda."
+        },
+        {
+          "id": "K03-BIN-B02-M01-046",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDito menulis, “Menurutku, pot tanaman sebaiknya diletakkan dekat jendela.” Ia belum menuliskan alasannya. Di kelas, tanaman itu memerlukan cahaya dan tidak boleh menghalangi jalan.\n\nAlasan yang paling sesuai untuk melengkapi pendapat Dito ialah ...",
+          "options": [
+            "Jendela mempunyai gagang yang baru.",
+            "Tanaman dapat memperoleh cahaya tanpa menghalangi jalan.",
+            "Dito menyukai warna sepatunya.",
+            "Di halaman ada sepeda berwarna merah."
+          ],
+          "answer": "Tanaman dapat memperoleh cahaya tanpa menghalangi jalan.",
+          "discussion": "Alasan itu langsung berkaitan dengan kebutuhan tanaman dan penempatan pot."
+        },
+        {
+          "id": "K03-BIN-B02-M01-047",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDito menulis, “Menurutku, pot tanaman sebaiknya diletakkan dekat jendela.” Ia belum menuliskan alasannya. Di kelas, tanaman itu memerlukan cahaya dan tidak boleh menghalangi jalan.\n\nBagian yang sudah ada pada tulisan Dito ialah ...",
+          "options": [
+            "Jadwal menyiram selama sebulan",
+            "Daftar harga pot",
+            "Pendapat tentang letak pot",
+            "Petunjuk mengganti jendela"
+          ],
+          "answer": "Pendapat tentang letak pot",
+          "discussion": "Tulisan Dito menyampaikan saran posisi pot, tetapi belum memberi alasan."
+        },
+        {
+          "id": "K03-BIN-B02-M01-048",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDito menulis, “Menurutku, pot tanaman sebaiknya diletakkan dekat jendela.” Ia belum menuliskan alasannya. Di kelas, tanaman itu memerlukan cahaya dan tidak boleh menghalangi jalan.\n\nKata untuk mengawali alasan tambahan ialah ...",
+          "options": [
+            "Atau",
+            "Kemarin",
+            "Siapa",
+            "Karena"
+          ],
+          "answer": "Karena",
+          "discussion": "Karena dapat menghubungkan saran letak pot dengan alasannya."
+        },
+        {
+          "id": "K03-BIN-B02-M01-049",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDito menulis, “Menurutku, pot tanaman sebaiknya diletakkan dekat jendela.” Ia belum menuliskan alasannya. Di kelas, tanaman itu memerlukan cahaya dan tidak boleh menghalangi jalan.\n\nTanggapan yang membantu Dito memperjelas pendapat ialah ...",
+          "options": [
+            "Bisa jelaskan mengapa pot sebaiknya dekat jendela?",
+            "Tidak usah menjelaskan apa pun!",
+            "Semua pendapatmu harus dihapus!",
+            "Aku tidak mau membaca tulisanmu!"
+          ],
+          "answer": "Bisa jelaskan mengapa pot sebaiknya dekat jendela?",
+          "discussion": "Pertanyaan itu meminta alasan yang belum ada tanpa merendahkan Dito."
+        },
+        {
+          "id": "K03-BIN-B02-M01-050",
+          "type": "PG",
+          "text": "Bacalah teks berikut.\n\nDito menulis, “Menurutku, pot tanaman sebaiknya diletakkan dekat jendela.” Ia belum menuliskan alasannya. Di kelas, tanaman itu memerlukan cahaya dan tidak boleh menghalangi jalan.\n\nKalimat pendapat lengkap yang sesuai ialah ...",
+          "options": [
+            "Menurutku, pot sebaiknya dekat jendela karena pensilku pendek.",
+            "Menurutku, pot sebaiknya dekat jendela karena tanaman memerlukan cahaya.",
+            "Menurutku, pot sebaiknya dekat jendela karena aku punya tiga kelereng.",
+            "Menurutku, pot sebaiknya dekat jendela karena kemarin aku makan roti."
+          ],
+          "answer": "Menurutku, pot sebaiknya dekat jendela karena tanaman memerlukan cahaya.",
+          "discussion": "Hanya alasan kebutuhan cahaya yang mendukung saran letak pot dalam konteks bacaan."
+        }
+      ]
+    }
+  ]
+}

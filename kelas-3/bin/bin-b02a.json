@@ -1,0 +1,365 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Bahasa Indonesia: Kawan Seiring untuk SD/MI Kelas III (Edisi Revisi)",
+    "year": 2025,
+    "authors": [
+      "Gantino Habibi",
+      "S. Nailul Muna Aljamaliah"
+    ],
+    "isbn_pdf": "978-634-00-3315-1",
+    "reading_url": "https://fliphtml5.com/Yenny_73/Bahasa-Indonesia_BS_KLS_III_Rev/",
+    "note": "Buku pemerintah dibaca melalui salinan daring. Judul dan urutan bab mengikuti edisi revisi 2025. Bacaan, soal, dan SVG EDUYASA ditulis sendiri; bukan salinan latihan buku."
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-BIN-B02",
+      "chapter_title": "Yuk, Berpendapat!",
+      "questions": [
+        {
+          "id": "K03-BIN-B02-M01-051",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa alasan Nina memilih taman?",
+          "options": [
+            "Ada kolam renang",
+            "Dekat toko sepatu",
+            "Tempatnya teduh",
+            "Banyak meja makan"
+          ],
+          "answer": "Tempatnya teduh",
+          "discussion": "Kartu Nina menyebut alasan teduh dan menampilkan pohon.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-01.svg",
+            "alt": "Memilih tempat membaca. NINA: Aku suka di taman: teduh. DUA PILIHAN: Sampaikan alasanmu. YUDI: Aku suka di kelas: ada meja."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-052",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nTanggapan yang menghargai kedua pilihan ialah ...",
+          "options": [
+            "Yudi wajib mengikuti Nina tanpa bicara.",
+            "Pendapat Nina tidak perlu didengar.",
+            "Pilihan berbeda harus diejek.",
+            "Keduanya punya alasan; kita dapat membicarakannya."
+          ],
+          "answer": "Keduanya punya alasan; kita dapat membicarakannya.",
+          "discussion": "Gambar memuat dua pendapat beralasan sehingga keduanya layak didengarkan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-01.svg",
+            "alt": "Memilih tempat membaca. NINA: Aku suka di taman: teduh. DUA PILIHAN: Sampaikan alasanmu. YUDI: Aku suka di kelas: ada meja."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-053",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nUsulan mana yang bertujuan merawat tanaman?",
+          "options": [
+            "Usul B",
+            "Usul A",
+            "Kedua usul tentang berenang",
+            "Tidak ada usulan"
+          ],
+          "answer": "Usul B",
+          "discussion": "Usul B menghubungkan berkebun dengan merawat tanaman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-02.svg",
+            "alt": "Usulan kegiatan Jumat. USUL A: Membaca bersama: berbagi cerita. USUL B: Berkebun: merawat tanaman. SEBELUM MEMILIH: Dengarkan alasan teman."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-054",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nApa yang perlu dilakukan sebelum memilih menurut poster?",
+          "options": [
+            "Menghapus semua usulan",
+            "Mendengarkan alasan teman",
+            "Memotong ucapan teman",
+            "Menentukan pilihan orang lain dengan paksa"
+          ],
+          "answer": "Mendengarkan alasan teman",
+          "discussion": "Bagian bawah poster memberikan petunjuk mendengarkan alasan teman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-02.svg",
+            "alt": "Usulan kegiatan Jumat. USUL A: Membaca bersama: berbagi cerita. USUL B: Berkebun: merawat tanaman. SEBELUM MEMILIH: Dengarkan alasan teman."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-055",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nPerasaan apa yang ditunjukkan pada panel 2?",
+          "options": [
+            "Bangga",
+            "Terhibur",
+            "Kecewa",
+            "Puas"
+          ],
+          "answer": "Kecewa",
+          "discussion": "Panel kedua memuat wajah sedih dan keterangan bahwa Lila kecewa.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-03.svg",
+            "alt": "Perasaan Lila. 1: Layang-layang Lila robek. 2: Lila merasa kecewa. 3: Lila meminta bantuan Kakak."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-056",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nUcapan yang sesuai untuk panel terakhir ialah ...",
+          "options": [
+            "Kak, di mana rak sepatu baru?",
+            "Kak, ayo buang semua buku!",
+            "Kak, aku sudah selesai berenang.",
+            "Kak, boleh bantu memperbaiki layang-layangku?"
+          ],
+          "answer": "Kak, boleh bantu memperbaiki layang-layangku?",
+          "discussion": "Panel terakhir menunjukkan Lila mencari bantuan untuk layang-layang yang robek.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-03.svg",
+            "alt": "Perasaan Lila. 1: Layang-layang Lila robek. 2: Lila merasa kecewa. 3: Lila meminta bantuan Kakak."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-057",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nGambar pohon pada kartu membantu menjelaskan arti kata ...",
+          "options": [
+            "rimbun",
+            "kering",
+            "kosong",
+            "pendek"
+          ],
+          "answer": "rimbun",
+          "discussion": "Kartu kata dan gambar memperlihatkan pohon yang memiliki banyak daun.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-04.svg",
+            "alt": "Kamus kecil: rimbun. KATA: rimbun ARTI: Banyak daun dan cabangnya. CONTOH: Pohon rimbun membuat teduh."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-058",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat yang cocok dengan arti pada kartu ialah ...",
+          "options": [
+            "Aku mengasah pensil yang rimbun.",
+            "Kami berteduh di bawah pohon yang rimbun.",
+            "Sepatuku rimbun setelah dicuci.",
+            "Gelas rimbun itu berisi air."
+          ],
+          "answer": "Kami berteduh di bawah pohon yang rimbun.",
+          "discussion": "Rimbun tepat digunakan untuk pohon yang memiliki banyak daun dan cabang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-04.svg",
+            "alt": "Kamus kecil: rimbun. KATA: rimbun ARTI: Banyak daun dan cabangnya. CONTOH: Pohon rimbun membuat teduh."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-059",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKata apa yang menghubungkan dua bagian pada gambar?",
+          "options": [
+            "atau",
+            "kemarin",
+            "karena",
+            "siapa"
+          ],
+          "answer": "karena",
+          "discussion": "Kartu tengah berisi kata karena yang memperkenalkan alasan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-05.svg",
+            "alt": "Pendapat dan alasan. PENDAPAT: Membaca bergambar itu menarik. PENGHUBUNG: karena ALASAN: Gambar membantu memahami cerita."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-060",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat lengkap yang sesuai dengan susunan kartu ialah ...",
+          "options": [
+            "Membaca bergambar itu menarik karena kereta mempunyai roda.",
+            "Membaca bergambar itu menarik karena halaman sekolah luas.",
+            "Membaca bergambar itu menarik karena pensilku hilang.",
+            "Membaca bergambar itu menarik karena gambar membantu memahami cerita."
+          ],
+          "answer": "Membaca bergambar itu menarik karena gambar membantu memahami cerita.",
+          "discussion": "Kalimat pertama menggabungkan pendapat dan alasan yang benar-benar tertulis pada kartu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-05.svg",
+            "alt": "Pendapat dan alasan. PENDAPAT: Membaca bergambar itu menarik. PENGHUBUNG: karena ALASAN: Gambar membantu memahami cerita."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-061",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nTindakan Tika saat Yoga berbicara ialah ...",
+          "options": [
+            "Mengangkat tangan dan menunggu",
+            "Berteriak menutup suara Yoga",
+            "Meninggalkan kelas",
+            "Menghapus semua usulan"
+          ],
+          "answer": "Mengangkat tangan dan menunggu",
+          "discussion": "Panel 2 menunjukkan tangan terangkat, lalu panel 3 menempatkan giliran Tika sesudah Yoga.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-06.svg",
+            "alt": "Giliran diskusi. 1: Yoga menyampaikan usul. 2: Tika mengangkat tangan. 3: Yoga selesai, Tika berbicara."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-062",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nMengapa urutan pada gambar baik untuk diskusi?",
+          "options": [
+            "Hanya Yoga yang boleh berbicara",
+            "Setiap orang mendapat giliran berbicara",
+            "Tika harus selalu diam",
+            "Semua orang berbicara bersamaan"
+          ],
+          "answer": "Setiap orang mendapat giliran berbicara",
+          "discussion": "Pergantian dari Yoga ke Tika memperlihatkan pembagian giliran yang tertib.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-06.svg",
+            "alt": "Giliran diskusi. 1: Yoga menyampaikan usul. 2: Tika mengangkat tangan. 3: Yoga selesai, Tika berbicara."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-063",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKartu mana yang harus diletakkan pertama jika diurutkan menurut abjad?",
+          "options": [
+            "Kartu A",
+            "Kartu C",
+            "Kartu B",
+            "Semua kartu harus dibuang"
+          ],
+          "answer": "Kartu B",
+          "discussion": "Ceria berawalan c, mendahului damai yang berawalan d dan gigih yang berawalan g.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-07.svg",
+            "alt": "Urutan kartu kata. KARTU A: damai KARTU B: ceria KARTU C: gigih"
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-064",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nUrutan kartu sesuai abjad ialah ...",
+          "options": [
+            "A–B–C",
+            "C–A–B",
+            "B–C–A",
+            "B–A–C"
+          ],
+          "answer": "B–A–C",
+          "discussion": "Ceria, damai, gigih mengikuti urutan huruf c, d, g.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-07.svg",
+            "alt": "Urutan kartu kata. KARTU A: damai KARTU B: ceria KARTU C: gigih"
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-065",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nAlasan perasaan Nisa yang sesuai dengan urutan gambar ialah ...",
+          "options": [
+            "Ia melihat biji yang ditanam mulai bertunas.",
+            "Ia kehilangan seluruh tanamannya.",
+            "Ia tidak pernah menanam apa pun.",
+            "Ia melihat potnya pecah menjadi dua."
+          ],
+          "answer": "Ia melihat biji yang ditanam mulai bertunas.",
+          "discussion": "Tunas muncul pada panel kedua sebelum Nisa merasa senang pada panel ketiga.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-08.svg",
+            "alt": "Mengapa aku senang?. 1: Nisa menanam biji. 2: Tunas mulai muncul. 3: Nisa merasa senang."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-066",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat yang tepat untuk Nisa ialah ...",
+          "options": [
+            "Aku marah karena sepatuku basah.",
+            "Aku senang karena bijiku mulai bertunas.",
+            "Aku takut karena bukuku hilang.",
+            "Aku kecewa karena semua pot pecah."
+          ],
+          "answer": "Aku senang karena bijiku mulai bertunas.",
+          "discussion": "Kalimat pertama menyatakan perasaan dan alasan yang sama dengan stimulus visual.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-08.svg",
+            "alt": "Mengapa aku senang?. 1: Nisa menanam biji. 2: Tunas mulai muncul. 3: Nisa merasa senang."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-067",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nAlasan yang sesuai untuk meletakkan pot seperti pada denah ialah ...",
+          "options": [
+            "Pot membuat jalan tertutup seluruhnya.",
+            "Tanaman disembunyikan dari semua cahaya.",
+            "Tanaman mendapat cahaya dan jalan tidak terhalang.",
+            "Jendela tidak berhubungan dengan letak pot."
+          ],
+          "answer": "Tanaman mendapat cahaya dan jalan tidak terhalang.",
+          "discussion": "Denah menunjukkan pot dekat jendela sementara jalur di kanan tetap kosong.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-09.svg",
+            "alt": "Letak pot yang diusulkan. KIRI: JENDELA BERCAHAYA TENGAH: POT TANAMAN KANAN: JALAN TETAP KOSONG"
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-068",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nPendapat yang cocok dengan denah ialah ...",
+          "options": [
+            "Menurutku, pot harus diletakkan tepat di tengah jalan.",
+            "Menurutku, semua jendela harus ditutup pot.",
+            "Menurutku, pot pada denah berada di dasar kolam.",
+            "Menurutku, letak pot itu baik karena tidak menghalangi jalan."
+          ],
+          "answer": "Menurutku, letak pot itu baik karena tidak menghalangi jalan.",
+          "discussion": "Pendapat pertama menilai penempatan berdasarkan informasi jalur yang tetap kosong.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-09.svg",
+            "alt": "Letak pot yang diusulkan. KIRI: JENDELA BERCAHAYA TENGAH: POT TANAMAN KANAN: JALAN TETAP KOSONG"
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-069",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nKalimat mana yang dapat diperiksa dengan menghitung gambar buku?",
+          "options": [
+            "Kalimat 1",
+            "Kalimat 2",
+            "Keduanya berisi perintah",
+            "Tidak ada kalimat tentang buku"
+          ],
+          "answer": "Kalimat 1",
+          "discussion": "Kalimat 1 menyatakan jumlah dua buku yang dapat dicek pada gambar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-10.svg",
+            "alt": "Dua kalimat tentang buku. KALIMAT 1: Di meja ada dua buku. AMATI DAN BEDAKAN: Jumlah atau penilaian? KALIMAT 2: Buku ini paling seru."
+          }
+        },
+        {
+          "id": "K03-BIN-B02-M01-070",
+          "type": "PG",
+          "text": "Amati gambar berikut.\n\nMengapa kalimat 2 merupakan pendapat?",
+          "options": [
+            "Karena memuat jumlah buku yang pasti",
+            "“Paling seru” adalah penilaian pribadi.",
+            "Karena merupakan petunjuk meletakkan meja",
+            "Karena menanyakan nama penulis"
+          ],
+          "answer": "“Paling seru” adalah penilaian pribadi.",
+          "discussion": "Penilaian seru dapat berbeda antar pembaca, sehingga merupakan pendapat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-10.svg",
+            "alt": "Dua kalimat tentang buku. KALIMAT 1: Di meja ada dua buku. AMATI DAN BEDAKAN: Jumlah atau penilaian? KALIMAT 2: Buku ini paling seru."
+          }
+        }
+      ]
+    }
+  ]
+}

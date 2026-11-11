@@ -1,0 +1,51 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Bahasa Indonesia: Kawan Seiring untuk SD/MI Kelas III (Edisi Revisi)",
+    "year": 2025,
+    "authors": [
+      "Gantino Habibi",
+      "S. Nailul Muna Aljamaliah"
+    ],
+    "isbn_pdf": "978-634-00-3315-1",
+    "reading_url": "https://fliphtml5.com/Yenny_73/Bahasa-Indonesia_BS_KLS_III_Rev/",
+    "note": "Buku pemerintah dibaca melalui salinan daring. Judul dan urutan bab mengikuti edisi revisi 2025. Bacaan, soal, dan SVG EDUYASA ditulis sendiri; bukan salinan latihan buku."
+  },
+  "chapter_id": "K03-BIN-B01",
+  "chapter_title": "Kawan Seiring",
+  "learning_objectives": [
+    "Menemukan informasi tersurat, gagasan utama, dan informasi pendukung dalam bacaan pendek.",
+    "Memahami kosakata tentang pertemanan dan kegiatan bersama melalui konteks.",
+    "Menggunakan huruf kapital serta tanda titik, koma, tanya, dan seru.",
+    "Menceritakan kembali kegiatan secara runtut dengan kata-kata sendiri."
+  ],
+  "modules": [
+    {
+      "id": "K03-BIN-B01-MOD-01",
+      "version": "MOD-01",
+      "title": "Belajar dan mencoba: Kawan Seiring",
+      "learning_objectives": [
+        "Menemukan informasi tersurat, gagasan utama, dan informasi pendukung dalam bacaan pendek.",
+        "Memahami kosakata tentang pertemanan dan kegiatan bersama melalui konteks.",
+        "Menggunakan huruf kapital serta tanda titik, koma, tanya, dan seru.",
+        "Menceritakan kembali kegiatan secara runtut dengan kata-kata sendiri."
+      ],
+      "content": "# Kawan Seiring\n\nTeman dapat mempunyai kegemaran yang berbeda. Kita tetap dapat belajar dan bekerja sama. Saat membaca, cari informasi yang benar-benar disebutkan. Tanyakan: siapa yang melakukan kegiatan, apa kegiatannya, di mana, dan kapan? Jangan menambahkan kejadian yang tidak ada.\n\n![Kawan bekerja sama. AWAL: Pojok baca perlu dirapikan. KEGIATAN: Sinta menyusun, Banu mengelap. HASIL: Buku rapi dan meja bersih.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-materi-01.svg)\n\n## Gagasan utama dan penjelas\n\nBacalah: “Sinta dan Banu merawat pojok baca. Sinta menyusun buku. Banu mengelap meja.” Gagasan utamanya adalah **kerja sama merawat pojok baca**. Kegiatan menyusun buku dan mengelap meja merupakan informasi pendukung. Ringkasan cukup memuat hal penting, misalnya: “Sinta dan Banu bersama-sama merapikan pojok baca.”\n\n## Pahami kata dari kalimat\n\nMengelap berarti membersihkan dengan kain. Ilustrasi adalah gambar yang membantu menjelaskan isi cerita. Bila ada kata baru, baca kalimat di sekitarnya. Kamu boleh bertanya kepada guru atau memeriksa kamus jika belum yakin.\n\n![Empat tanda baca. TITIK . DAN KOMA ,: Aku membawa buku, pensil, dan tas. TANDA TANYA ?: Di mana bukumu? TANDA SERU !: Ayo, membaca bersama!](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-materi-02.svg)\n\n## Tulisan yang mudah dibaca\n\nGunakan kapital pada awal kalimat, nama orang, nama hari, dan nama kota: “Pada hari Minggu Sinta pergi ke Bogor.” Tanda **titik** mengakhiri pernyataan. Tanda **tanya** mengakhiri pertanyaan: “Di mana bukumu?” Tanda **seru** dapat mengakhiri ajakan atau perintah: “Ayo, rapikan buku!” Koma memisahkan perincian: “Banu membawa buku, pensil, dan penghapus.”\n\n## Ceritakan kembali\n\nUrutkan keadaan awal, kegiatan, lalu hasilnya. Pakai kata pertama, kemudian, atau akhirnya bila membantu. Gunakan kata-katamu sendiri sambil menjaga peristiwa utama. Saat teman bercerita, dengarkan sampai selesai.\n\n## Coba sendiri\n\nCeritakan satu kegiatan bersama teman dalam tiga kalimat. Sebutkan pelaku, kegiatan, dan hasil. Periksa kembali huruf kapital serta tanda bacanya. Lalu pilih satu kata baru dan jelaskan artinya."
+    },
+    {
+      "id": "K03-BIN-B01-MOD-02",
+      "version": "MOD-02",
+      "title": "Cerita dan tantangan: Kawan Seiring",
+      "learning_objectives": [
+        "Menemukan informasi tersurat, gagasan utama, dan informasi pendukung dalam bacaan pendek.",
+        "Memahami kosakata tentang pertemanan dan kegiatan bersama melalui konteks.",
+        "Menggunakan huruf kapital serta tanda titik, koma, tanya, dan seru.",
+        "Menceritakan kembali kegiatan secara runtut dengan kata-kata sendiri."
+      ],
+      "content": "# Kawan Seiring\n\nBayangkan kamu membuat buku kecil bersama teman. Temanmu pandai menggambar, sedangkan kamu senang menulis. Kalian berbagi tugas agar buku selesai. Perbedaan kegemaran dapat menjadi kekuatan saat bekerja sama.\n\n![Kawan bekerja sama. AWAL: Pojok baca perlu dirapikan. KEGIATAN: Sinta menyusun, Banu mengelap. HASIL: Buku rapi dan meja bersih.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-materi-01.svg)\n\n## Menjadi detektif bacaan\n\nBaca cerita pendek ini: “Lusi lupa membawa pensil. Tami meminjamkan satu pensil. Sesudah pelajaran, Lusi mengembalikannya.” Siapa yang membantu? Tami. Apa bantuannya? Meminjamkan pensil. Temukan jawaban dari bacaan, bukan dari tebakan.\n\nPokok cerita itu ialah **bantuan seorang teman**. Kalimat tentang pensil menjelaskan pokok tersebut. Untuk merangkum, ambil bagian penting: “Tami membantu Lusi dengan meminjamkan pensil.” Tidak perlu menambah cerita tentang membeli buku karena tidak disebutkan.\n\n## Kenali kata baru\n\nKetika membaca kata mengelap, perhatikan benda dan kegiatannya. Orang mengelap meja dengan kain untuk membersihkannya. Kata ilustrasi berarti gambar penjelas cerita. Jika konteks belum cukup, tanyakan arti kata atau gunakan kamus bersama guru.\n\n![Empat tanda baca. TITIK . DAN KOMA ,: Aku membawa buku, pensil, dan tas. TANDA TANYA ?: Di mana bukumu? TANDA SERU !: Ayo, membaca bersama!](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b01-materi-02.svg)\n\n## Bengkel kalimat\n\nPerbaiki tulisan: “lusi membaca di bogor”. Bentuk yang benar: “Lusi membaca di Bogor.” Awal kalimat dan nama orang atau kota memakai kapital. Nama hari juga: Senin.\n\nUntuk bertanya, tulis “Kapan pensil dikembalikan?” dengan tanda tanya. Pernyataan berakhir titik. Ajakan “Ayo, membaca bersama!” dapat memakai tanda seru. Dalam daftar benda, gunakan koma: “buku, pensil, dan penghapus”.\n\n## Susun cerita kecilmu\n\nCeritakan kegiatan dengan urutan awal, tindakan, lalu hasil. Misalnya: halaman penuh daun; teman-teman menyapu; halaman kembali bersih. Hubungkan dengan kata kemudian atau akhirnya. Jangan mengubah hasilnya saat menceritakan kembali.\n\n## Tantangan\n\nTulis tiga kalimat tentang bantuan teman. Bacakan dengan suara jelas. Minta teman menyebut gagasan utamanya, lalu periksa bersama satu kata baru, kapital, dan tanda baca."
+    }
+  ]
+}

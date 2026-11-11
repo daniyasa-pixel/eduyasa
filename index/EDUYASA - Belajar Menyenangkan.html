@@ -53,7 +53,7 @@
             border: none;
         }
 
-        /* Glow berdenyut pada tombol Kelas 6 agar terlihat sebagai kelas yang tersedia */
+        /* Glow berdenyut pada tombol kelas yang sudah tersedia */
         @keyframes classSixGlow {
             0%, 100% {
                 box-shadow: 0 0 5px rgba(37, 99, 235, 0.45), 0 0 12px rgba(37, 99, 235, 0.35), 0 0 20px rgba(37, 99, 235, 0.20);
@@ -160,9 +160,9 @@
                                         <span>Kelas 2</span>
                                         <span class="block text-[9px] font-semibold text-gray-400 mt-0.5">BELUM TERSEDIA</span>
                                     </button><button type="button" data-kelas="3" aria-pressed="false"
-                                        class="class-choice rounded-xl border-2 border-gray-200 bg-gray-100 text-gray-500 py-3 px-2 font-semibold transition-all hover:border-gray-200 focus:outline-none focus:ring-0 active:border-gray-200">
+                                        class="class-choice class-six-glow rounded-xl border-2 border-gray-200 bg-gray-100 text-gray-500 py-3 px-2 font-semibold transition-all hover:border-gray-200 focus:outline-none focus:ring-0 active:border-gray-200">
                                         <span>Kelas 3</span>
-                                        <span class="block text-[9px] font-semibold text-gray-400 mt-0.5">BELUM TERSEDIA</span>
+                                        <span class="block text-[9px] font-semibold text-primary-600 mt-0.5">BAHASA INDONESIA</span>
                                     </button><button type="button" data-kelas="4" aria-pressed="false"
                                         class="class-choice rounded-xl border-2 border-gray-200 bg-gray-100 text-gray-500 py-3 px-2 font-semibold transition-all hover:border-gray-200 focus:outline-none focus:ring-0 active:border-gray-200">
                                         <span>Kelas 4</span>
@@ -274,6 +274,7 @@
     </div>
 
     <!-- Script Interaktivitas -->
+    <script src="../HTML/grade-config.js?v=20261111-k03-bin-1"></script>
     <script>
         // Script untuk toggle menu mobile
         const mobileMenuBtn = document.getElementById('mobile-menu-btn');
@@ -290,23 +291,20 @@
             });
         });
 
-        // Pemilihan kelas: saat ini hanya Kelas 6 yang tersedia.
+        // Kelas tersedia mengikuti konfigurasi lokasi data.
         const classChoiceButtons = document.querySelectorAll('.class-choice');
         const startLearningBtn = document.getElementById('start-learning-btn');
         const classSelectionMessage = document.getElementById('class-selection-message');
-        const learningAppUrl = 'https://daniyasa-pixel.github.io/eduyasa/HTML/eduyasa_belajar_menyenangkan.html?v=20261111-pjk-1';
+        const learningAppUrl = 'https://daniyasa-pixel.github.io/eduyasa/HTML/eduyasa_belajar_menyenangkan.html?v=20261111-k03-bin-1';
         let selectedClass = null;
 
         classChoiceButtons.forEach(button => {
             button.addEventListener('click', () => {
                 const grade = Number(button.dataset.kelas);
 
-                if (grade !== 6) {
+                if (!EduyasaGrades.grades[grade]) {
                     selectedClass = null;
-                    const gradeSixButton = document.querySelector('.class-choice[data-kelas="6"]');
-                    gradeSixButton.setAttribute('aria-pressed', 'false');
-                    gradeSixButton.classList.remove('border-primary-600', 'bg-primary-600', 'text-white', 'shadow-md');
-                    gradeSixButton.classList.add('border-gray-200', 'bg-gray-100', 'text-gray-500');
+                    classChoiceButtons.forEach(item => { item.setAttribute('aria-pressed', 'false'); item.classList.remove('border-primary-600', 'bg-primary-600', 'text-white', 'shadow-md'); item.classList.add('border-gray-200', 'bg-gray-100', 'text-gray-500'); });
                     startLearningBtn.disabled = true;
                     startLearningBtn.className = 'bg-gray-300 text-gray-500 cursor-not-allowed px-8 py-4 rounded-full font-semibold text-lg transition-all shadow-md flex items-center justify-center gap-2';
                     classSelectionMessage.textContent = 'Kelas ' + grade + ' belum tersedia.';
@@ -327,26 +325,14 @@
 
                 startLearningBtn.disabled = false;
                 startLearningBtn.className = 'bg-primary-600 hover:bg-primary-700 text-white px-8 py-4 rounded-full font-semibold text-lg transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-1 flex items-center justify-center gap-2';
-                classSelectionMessage.textContent = 'Kelas 6 dipilih.';
+                classSelectionMessage.textContent = 'Kelas ' + grade + ' dipilih.' + (grade === 3 ? ' Tersedia: Bahasa Indonesia.' : '');
                 classSelectionMessage.className = 'text-sm text-green-600 mt-3 font-medium';
             });
         });
 
-        // Batalkan tampilan terpilih jika fokus berpindah, kecuali menuju tombol Mulai Belajar.
-        const gradeSixButton = document.querySelector('.class-choice[data-kelas="6"]');
-        gradeSixButton.addEventListener('blur', (event) => {
-            if (event.relatedTarget === startLearningBtn) return;
-            selectedClass = null;
-            gradeSixButton.setAttribute('aria-pressed', 'false');
-            gradeSixButton.classList.remove('border-primary-600', 'bg-primary-600', 'text-white', 'shadow-md');
-            gradeSixButton.classList.add('border-gray-200', 'bg-gray-100', 'text-gray-500');
-            startLearningBtn.disabled = true;
-            startLearningBtn.className = 'bg-gray-300 text-gray-500 cursor-not-allowed px-8 py-4 rounded-full font-semibold text-lg transition-all shadow-md flex items-center justify-center gap-2';
-        });
-
         startLearningBtn.addEventListener('click', () => {
-            if (selectedClass === 6) {
-                window.location.href = learningAppUrl;
+            if (EduyasaGrades.grades[selectedClass]) {
+                window.location.href = learningAppUrl + '&kelas=' + selectedClass;
             }
         });
 

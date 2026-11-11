@@ -1,4 +1,4 @@
-/* Paket soal tambahan terdaftar dalam question-packs.json milik MTK, SBD, dan PJK. */
+/* Paket soal tambahan terdaftar dalam question-packs.json pada lokasi data kelas yang dipilih. */
 (function (root) {
   'use strict';
 
@@ -32,7 +32,7 @@
     ], random);
   }
 
-  function normalizeQuestion(question, subject, chapterNumber) {
+  function normalizeQuestion(question, subject, chapterNumber, chapterPrefix = '') {
     const text = question.text || question.question || question.pertanyaan;
     const rawOptions = question.options || question.pilihan || [];
     const options = rawOptions.map(option => {
@@ -54,17 +54,17 @@
       throw new Error(`Soal ${question.id || 'tanpa ID'} tidak memiliki pertanyaan, empat opsi unik, atau kunci jawaban yang valid.`);
     }
     return {
-      id: question.id || `${subject.id}-B${chapterNumber}-${text}-${options.join('|')}`,
+      id: question.id || `${chapterPrefix}${subject.id}-B${chapterNumber}-${text}-${options.join('|')}`,
       text, options, correctText,
       explanation: question.discussion || question.explanation || question.pembahasan || 'Tidak ada pembahasan yang tersedia untuk soal ini.',
       image: question.image || null, audio: question.audio || null,
       subjectId: subject.id,
-      chapterId: `${subject.id}-B${String(chapterNumber).padStart(2, '0')}`,
+      chapterId: `${chapterPrefix}${subject.id}-B${String(chapterNumber).padStart(2, '0')}`,
       mapel: subject.name, bab: `Bab ${chapterNumber}`
     };
   }
 
-  async function loadQuestions({ baseUrl, subjectIds, selectedChapters, subjects, fetcher = fetch }) {
+  async function loadQuestions({ baseUrl, subjectIds, selectedChapters, subjects, fetcher = fetch, chapterPrefix = '', manifestSubjects = ['MTK', 'SBD', 'PJK'], grade }) {
     async function readJson(path) {
       const response = await fetcher(baseUrl + path, { cache: 'no-store' });
       if (!response.ok) throw new Error(`Gagal memuat ${path} (HTTP ${response.status}). Coba lagi setelah koneksi tersedia.`);
@@ -73,9 +73,9 @@
     }
     const ids = [...subjectIds];
     const manifests = new Map();
-    for (const id of ids.filter(value => ['MTK', 'SBD', 'PJK'].includes(value))) {
+    for (const id of ids.filter(value => manifestSubjects.includes(value))) {
       const manifest = await readJson(`${id.toLowerCase()}/question-packs.json`);
-      if (manifest.subject_id !== id || !manifest.chapters) {
+      if (manifest.subject_id !== id || !manifest.chapters || (grade !== undefined && manifest.grade !== undefined && manifest.grade !== grade)) {
         const name = subjects.find(subject => subject.id === id)?.name || id;
         throw new Error(`Daftar paket ${name} tidak valid.`);
       }
@@ -89,8 +89,8 @@
       const chapters = [...(selectedChapters[id] || [])].sort((a, b) => a - b);
       if (!chapters.length) throw new Error(`Pilih minimal satu bab ${subject.name}.`);
       for (const number of chapters) {
-        const chapterId = `${id}-B${String(number).padStart(2, '0')}`;
-        const stem = `${id.toLowerCase()}/${chapterId.toLowerCase()}`;
+        const chapterId = `${chapterPrefix}${id}-B${String(number).padStart(2, '0')}`;
+        const stem = `${id.toLowerCase()}/${id.toLowerCase()}-b${String(number).padStart(2, '0')}`;
         const manifest = manifests.get(id);
         const paths = manifest ? manifest.chapters[chapterId] : [`${stem}.json`];
         if (!Array.isArray(paths) || !paths.length || new Set(paths).size !== paths.length) {
@@ -101,13 +101,16 @@
             throw new Error(`Nama paket ${chapterId} tidak valid.`);
           }
           const data = await readJson(path);
+          if (grade !== undefined && (data.grade !== undefined || grade !== 6) && data.grade !== grade) {
+            throw new Error(`Paket ${path} memuat kelas yang tidak sesuai.`);
+          }
           if (Array.isArray(data.chapters) && data.chapters.some(chapter => chapter.chapter_id !== chapterId)) {
             throw new Error(`Paket ${path} memuat bab yang tidak sesuai.`);
           }
           const raw = (data.chapters || []).flatMap(chapter => chapter.questions || []).concat(data.bank_soal || []);
           if (!raw.length) throw new Error(`Paket ${path} tidak berisi soal.`);
           for (const item of raw) {
-            const question = normalizeQuestion(item, subject, number);
+            const question = normalizeQuestion(item, subject, number, chapterPrefix);
             if (seen.has(question.id)) throw new Error(`ID soal berulang: ${question.id}.`);
             seen.add(question.id);
             questions.push(question);

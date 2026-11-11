@@ -462,12 +462,23 @@ img[role="button"]:focus-visible { outline: 3px solid var(--primary); outline-of
 <div id="toast-container"></div>
 <footer>EDUYASA © 2026 • Kurikulum Merdeka</footer>
 
-<script src="./quiz-bank.js?v=20261111-pjk-1"></script>
+<script src="./grade-config.js?v=20261111-k03-bin-1"></script>
+<script src="./quiz-bank.js?v=20261111-k03-bin-1"></script>
 <script>
-const BASE_URL =
-  "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/";
+let gradeConfig;
+try { gradeConfig = EduyasaGrades.resolve(window.location.search); }
+catch (error) {
+  document.body.textContent = error.message;
+  const back = document.createElement('a');
+  back.href = '../index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-bin-1';
+  back.textContent = ' Kembali ke pilihan kelas'; document.body.append(back);
+  throw error;
+}
+const BASE_URL = "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/" + gradeConfig.dataPath;
+document.querySelector('.tagline').textContent = `Belajar Menyenangkan • Kelas ${gradeConfig.grade} SD`;
+const usesImageQuota = () => [...selectedSubjects].some(id => gradeConfig.imageQuotaSubjects.includes(id));
 
-const subjects = [
+const subjects = gradeConfig.subjects || [
   {
     id:"MTK", name:"Matematika", icon:"🔢",
     chapters:[
@@ -929,6 +940,8 @@ async function fetchMateri() {
         const res = await fetch(url, { cache: 'no-store' });
         if(!res.ok) throw new Error("HTTP " + res.status);
         const data = await res.json();
+        if ((data.grade !== undefined || gradeConfig.grade !== 6) && data.grade !== gradeConfig.grade) throw new Error('Kelas materi tidak sesuai.');
+        if (gradeConfig.grade !== 6 && data.chapter_id !== `${gradeConfig.chapterPrefix}${subjectId}-B${chapStr}`) throw new Error('Bab materi tidak sesuai.');
 
         // Dukungan 2 Format (B01: modul, judul, versi | B02-B04: modules, title, version)
         const modules = data.modules || data.modul;
@@ -985,7 +998,7 @@ function prepareQuiz() {
     <strong>Mata Pelajaran:</strong><br>${subjectNames}<br><br>
     <strong>Total Bab Diuji:</strong> ${totalBab} Bab<br><br>
     <strong>Jumlah Soal:</strong> 20 Soal<br><br>
-    ${(selectedSubjects.has('MTK') || selectedSubjects.has('SBD') || selectedSubjects.has('PJK')) ? "5 soal bergambar dan 15 soal tanpa gambar.<br><br>" : ""}
+    ${usesImageQuota() ? "5 soal bergambar dan 15 soal tanpa gambar.<br><br>" : ""}
     Siapkan dirimu dan kerjakan dengan jujur!
   `;
   currentStep = 4;
@@ -1037,10 +1050,13 @@ document.getElementById('btnStartQuiz').onclick = async () => {
       baseUrl: BASE_URL,
       subjectIds: selectedSubjects,
       selectedChapters,
-      subjects
+      subjects,
+      chapterPrefix: gradeConfig.chapterPrefix,
+      manifestSubjects: gradeConfig.manifestSubjects,
+      grade: gradeConfig.grade
     });
     quizQuestions = EduyasaQuestionBank.selectQuestions(questions, {
-      fixedImageRatio: selectedSubjects.has('MTK') || selectedSubjects.has('SBD') || selectedSubjects.has('PJK')
+      fixedImageRatio: usesImageQuota()
     });
     currentQuestionIndex = 0;
     correctAnswersCount = 0;
@@ -1236,7 +1252,7 @@ function buildReportMessage(studentName) {
     '📚 *LAPORAN HASIL BELAJAR EDUYASA*',
     '',
     '👧 Nama siswa: ' + studentName,
-    '🏫 Kelas: 6 SD',
+    `🏫 Kelas: ${gradeConfig.grade} SD`,
     '',
     '📝 *RINCIAN HASIL KUIS*',
     details,
@@ -1282,7 +1298,7 @@ document.getElementById('btnBackToHome').addEventListener('click', () => {
 });
 document.getElementById('btnCancelBackHome').addEventListener('click', closeRestartModal);
 document.getElementById('btnConfirmBackHome').addEventListener('click', () => {
-  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html';
+  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-bin-1';
 });
 
 document.getElementById('parentPhone').addEventListener('input', event => {
@@ -1310,13 +1326,13 @@ document.getElementById('reportForm').addEventListener('submit', event => {
 
   // Buka WhatsApp untuk mengirim laporan, lalu kembalikan halaman EDUYASA ke homepage.
   window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
-  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html';
+  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-bin-1';
 });
 
 async function testGitHub() {
   const indicator = document.getElementById("connection");
   try {
-    const response = await fetch(BASE_URL + "mtk/mtk-b01.json");
+    const response = await fetch(BASE_URL + `${subjects[0].id.toLowerCase()}/${subjects[0].id.toLowerCase()}-b01.json`);
     if(!response.ok) throw new Error("HTTP " + response.status);
     const data = await response.json();
     

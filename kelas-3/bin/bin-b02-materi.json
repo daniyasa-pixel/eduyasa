@@ -1,0 +1,51 @@
+{
+  "subject_id": "BIN",
+  "subject_name": "Bahasa Indonesia",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Bahasa Indonesia: Kawan Seiring untuk SD/MI Kelas III (Edisi Revisi)",
+    "year": 2025,
+    "authors": [
+      "Gantino Habibi",
+      "S. Nailul Muna Aljamaliah"
+    ],
+    "isbn_pdf": "978-634-00-3315-1",
+    "reading_url": "https://fliphtml5.com/Yenny_73/Bahasa-Indonesia_BS_KLS_III_Rev/",
+    "note": "Buku pemerintah dibaca melalui salinan daring. Judul dan urutan bab mengikuti edisi revisi 2025. Bacaan, soal, dan SVG EDUYASA ditulis sendiri; bukan salinan latihan buku."
+  },
+  "chapter_id": "K03-BIN-B02",
+  "chapter_title": "Yuk, Berpendapat!",
+  "learning_objectives": [
+    "Membedakan informasi yang dapat diperiksa dan penilaian pribadi yang sederhana.",
+    "Menyampaikan pendapat dengan alasan yang sesuai serta menanggapi secara santun.",
+    "Mengenali perasaan dan menjelaskan penyebabnya berdasarkan cerita.",
+    "Membuat kamus kecil berisi kata, arti, dan contoh; mengurutkan kata menurut abjad."
+  ],
+  "modules": [
+    {
+      "id": "K03-BIN-B02-MOD-01",
+      "version": "MOD-01",
+      "title": "Belajar dan mencoba: Yuk, Berpendapat!",
+      "learning_objectives": [
+        "Membedakan informasi yang dapat diperiksa dan penilaian pribadi yang sederhana.",
+        "Menyampaikan pendapat dengan alasan yang sesuai serta menanggapi secara santun.",
+        "Mengenali perasaan dan menjelaskan penyebabnya berdasarkan cerita.",
+        "Membuat kamus kecil berisi kata, arti, dan contoh; mengurutkan kata menurut abjad."
+      ],
+      "content": "# Yuk, Berpendapat!\n\nPendapat adalah pandangan atau penilaian seseorang. “Menurutku, membaca di taman menyenangkan” merupakan pendapat. Teman dapat mempunyai pendapat lain. Informasi “Ada dua buku di meja” dapat diperiksa dengan melihat dan menghitung. Penilaian “Buku ini paling seru” dapat berbeda pada setiap orang.\n\n![Pilihan dan alasan. NINA: Taman nyaman karena teduh. DENGARKAN: Pilihan teman boleh berbeda. YUDI: Kelas nyaman karena ada meja.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-materi-01.svg)\n\n## Sertakan alasan\n\nPendapat lebih mudah dipahami jika disertai alasan yang sesuai. Contohnya: “Aku suka membaca di taman **karena** tempatnya teduh.” Alasan itu berkaitan dengan tempat membaca. Kalimat “karena sepatuku baru” tidak menjelaskan mengapa taman dipilih.\n\nSaat teman berbicara, dengarkan dahulu. Kamu dapat berkata, “Aku memahami alasanmu. Menurutku, di kelas juga nyaman karena ada meja.” Berbeda pendapat boleh; mengejek teman tidak membantu diskusi. Jika belum paham, tanyakan alasannya dengan sopan.\n\n## Perasaan mempunyai penyebab\n\nLayang-layang Rudi robek sehingga ia kecewa. Ketika diperbaiki bersama Kakak, Rudi merasa senang. Cari kejadian yang menjelaskan perasaan tokoh. Ucapkan kebutuhan dengan jelas: “Kak, boleh bantu memperbaiki layang-layangku?”\n\n![Kamus kecil yang teratur. KATA DAN ARTI: Rimbun: banyak daun dan cabang. CONTOH: Pohon rimbun membuat teduh. URUT ABJAD: ceria → damai → gigih](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-materi-02.svg)\n\n## Kamus kecilku\n\nCatat kata baru, arti, dan contoh kalimat. Misalnya: **rimbun** berarti banyak daun dan cabangnya. Contohnya: “Pohon rimbun membuat halaman teduh.” Contoh membantu kita menggunakan kata dengan tepat.\n\nSusun kata menurut abjad agar mudah dicari. Urutan ceria, damai, gigih mengikuti c, d, g. Jika huruf awal sama, bandingkan huruf selanjutnya. Ceria mendahului cermat karena setelah cer, huruf i mendahului m.\n\n## Ayo mencoba\n\nSampaikan satu usulan kegiatan kelas beserta alasan. Dengarkan usulan teman sampai selesai, lalu tanggapi dengan santun. Tambahkan dua kata ke kamus kecilmu dan urutkan menurut abjad. Periksa arti bersama guru atau kamus jika kamu ragu."
+    },
+    {
+      "id": "K03-BIN-B02-MOD-02",
+      "version": "MOD-02",
+      "title": "Cerita dan tantangan: Yuk, Berpendapat!",
+      "learning_objectives": [
+        "Membedakan informasi yang dapat diperiksa dan penilaian pribadi yang sederhana.",
+        "Menyampaikan pendapat dengan alasan yang sesuai serta menanggapi secara santun.",
+        "Mengenali perasaan dan menjelaskan penyebabnya berdasarkan cerita.",
+        "Membuat kamus kecil berisi kata, arti, dan contoh; mengurutkan kata menurut abjad."
+      ],
+      "content": "# Yuk, Berpendapat!\n\nNina memilih membaca di taman. Yudi memilih kelas. Apakah salah satu pasti salah? Mereka dapat mempunyai pilihan berbeda. Mari belajar menjelaskan pilihan dan mendengarkan alasan teman.\n\n![Pilihan dan alasan. NINA: Taman nyaman karena teduh. DENGARKAN: Pilihan teman boleh berbeda. YUDI: Kelas nyaman karena ada meja.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-materi-01.svg)\n\n## Pilihan dan penjelasannya\n\nNina berkata, “Menurutku, taman nyaman karena teduh.” Yudi menjawab, “Aku suka kelas karena mejanya memudahkan menulis.” Keduanya memberikan **pendapat dan alasan yang berkaitan**. Kata karena menghubungkan pilihan dengan penjelasannya. Coba tanyakan “Mengapa?” untuk memeriksa alasan.\n\nBedakan dengan informasi yang bisa dicek. “Ada dua buku di meja” dapat diperiksa dengan menghitung. “Buku itu paling menarik” merupakan penilaian pribadi. Pendapat teman tidak harus sama dengan pendapatmu.\n\n## Percakapan yang ramah\n\nTunggu giliran sebelum bicara. Gunakan suara jelas dan kata santun: “Bolehkah aku menjelaskan pendapatku?” Jika berbeda, katakan, “Aku punya pandangan lain karena ...” Hindari mengejek atau memaksa. Pertanyaan “Mengapa kamu memilih itu?” membantu memahami alasan teman.\n\nPerhatikan juga perasaan. Jika teman kecewa karena hasil karyanya rusak, kamu bisa berkata, “Aku mengerti kamu kecewa. Boleh aku membantu?” Hubungkan perasaan dengan kejadian yang disebutkan, bukan dengan tebakan tanpa dasar.\n\n![Kamus kecil yang teratur. KATA DAN ARTI: Rimbun: banyak daun dan cabang. CONTOH: Pohon rimbun membuat teduh. URUT ABJAD: ceria → damai → gigih](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-materi-02.svg)\n\n## Koleksi kata\n\nBuat satu kartu untuk setiap kata baru. Tuliskan kata **rimbun**, artinya “banyak daun dan cabangnya”, lalu contoh tentang pohon. Dengan contoh, kita tahu rimbun tidak cocok digunakan untuk menggambarkan pensil.\n\nUrutkan kartu seperti kamus. Ceria berada sebelum damai, lalu gigih. Untuk ceria dan cermat, tiga huruf awal sama; bandingkan i dan m berikutnya. Huruf i lebih dahulu.\n\n## Misi hari ini\n\nPilih kegiatan kelas, beri satu alasan yang sesuai, lalu dengarkan tanggapan teman. Setelah itu, tulis dua kata baru beserta arti dan contoh, kemudian susun menurut abjad."
+    }
+  ]
+}

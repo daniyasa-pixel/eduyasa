@@ -1,0 +1,22 @@
+{
+  "subject_id": "BIN",
+  "grade": 3,
+  "chapters": {
+    "K03-BIN-B01": [
+      "bin/bin-b01.json",
+      "bin/bin-b01a.json"
+    ],
+    "K03-BIN-B02": [
+      "bin/bin-b02.json",
+      "bin/bin-b02a.json"
+    ],
+    "K03-BIN-B03": [
+      "bin/bin-b03.json",
+      "bin/bin-b03a.json"
+    ],
+    "K03-BIN-B04": [
+      "bin/bin-b04.json",
+      "bin/bin-b04a.json"
+    ]
+  }
+}
