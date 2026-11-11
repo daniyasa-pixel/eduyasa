@@ -1,503 +1,483 @@
 # PAI Kelas 3 — Bab 2: Ayo Mengenal Tuhan Kita
 
-**STATUS DRAF:** 30 soal pilihan ganda. Ada pengulangan kompetensi antarpertanyaan; wajib revisi variasi dan audit agama sebelum rilis.
+**STATUS AUDIT ISI:** 30 soal diperiksa. Sumber Markdown untuk tahap revisi EDUYASA.
 
 ## Soal 1 — K03-PAI-B02-M01-001
 
-**Pertanyaan:** Sifat wajib Allah berarti sifat yang ....
+**Pertanyaan:** Apa yang dimaksud dengan sifat wajib bagi Allah?
 
 **Pilihan jawaban:**
-- mustahil ada pada Allah
-- hanya dimiliki manusia
-- berubah setiap hari
-- pasti ada pada Allah
+- Sifat kekurangan yang mustahil bagi Allah
+- Perbuatan yang Allah kehendaki untuk terjadi atau tidak
+- Nama-nama indah Allah
+- Sifat kesempurnaan yang pasti ada pada Allah
 
-**Kunci Jawaban:** pasti ada pada Allah
+**Kunci Jawaban:** Sifat kesempurnaan yang pasti ada pada Allah
 
-**Pembahasan:** Sifat wajib Allah berarti sifat yang pasti ada pada Allah.
+**Pembahasan:** Kata wajib di sini berarti pasti ada pada Allah. Ini berbeda dengan kewajiban yang diperintahkan kepada manusia.
 
 ---
 
 ## Soal 2 — K03-PAI-B02-M01-002
 
-**Pertanyaan:** Wujud berarti Allah ....
+**Pertanyaan:** Manakah pernyataan yang sesuai dengan arti Wujud?
 
 **Pilihan jawaban:**
-- ada
-- tidur
-- lelah
-- lupa
+- Allah ada
+- Allah Maha Esa
+- Allah Maha Mengetahui
+- Allah Maha Kuasa
 
-**Kunci Jawaban:** ada
+**Kunci Jawaban:** Allah ada
 
-**Pembahasan:** Wujud berarti Allah ada.
+**Pembahasan:** Wujud berkaitan dengan keberadaan Allah. Tiga pilihan lainnya menjelaskan sifat wajib yang berbeda.
 
 ---
 
 ## Soal 3 — K03-PAI-B02-M01-003
 
-**Pertanyaan:** Qidam berarti Allah ....
+**Pertanyaan:** Tanaman di kelas mulai tumbuh pada hari Senin. Apa yang membedakan permulaan tanaman itu dari makna Qidam?
 
 **Pilihan jawaban:**
-- memiliki orang tua
-- terdahulu tanpa permulaan
-- memerlukan makanan
-- mempunyai akhir
+- Allah mulai ada sebelum tanaman tumbuh
+- Allah tidak mempunyai permulaan
+- Allah mulai ada ketika alam diciptakan
+- Allah mulai ada sebelum manusia lahir
 
-**Kunci Jawaban:** terdahulu tanpa permulaan
+**Kunci Jawaban:** Allah tidak mempunyai permulaan
 
-**Pembahasan:** Qidam berarti Allah terdahulu tanpa permulaan.
+**Pembahasan:** Qidam berarti keberadaan Allah tidak berawal. Menyebut waktu yang lebih awal masih berarti memberi permulaan.
 
 ---
 
 ## Soal 4 — K03-PAI-B02-M01-004
 
-**Pertanyaan:** Baqa berarti Allah ....
+**Pertanyaan:** Nina menulis bahwa Baqa artinya “bertahan sangat lama”. Bagaimana ia perlu memperbaiki catatannya?
 
 **Pilihan jawaban:**
-- lemah
-- berubah-ubah
-- kekal
-- sementara
+- Baqa berarti Allah ada tanpa permulaan
+- Baqa berarti Allah ada tanpa bantuan
+- Baqa berarti Allah kekal tanpa akhir
+- Baqa berarti Allah kuasa atas segala sesuatu
 
-**Kunci Jawaban:** kekal
+**Kunci Jawaban:** Baqa berarti Allah kekal tanpa akhir
 
-**Pembahasan:** Baqa berarti Allah kekal.
+**Pembahasan:** Sesuatu yang bertahan lama masih dapat berakhir. Baqa berarti kekal tanpa akhir.
 
 ---
 
 ## Soal 5 — K03-PAI-B02-M01-005
 
-**Pertanyaan:** Wahdaniyah berarti Allah ....
+**Pertanyaan:** Manakah tindakan yang sesuai dengan makna Wahdaniyah?
 
 **Pilihan jawaban:**
-- berbilang
-- bergantung
-- membutuhkan bantuan
-- Maha Esa
+- Beribadah kepada Allah dan benda keramat
+- Meminta teman menentukan kepada siapa ia beribadah
+- Memuja benda yang dianggap membawa keberuntungan
+- Beribadah hanya kepada Allah
 
-**Kunci Jawaban:** Maha Esa
+**Kunci Jawaban:** Beribadah hanya kepada Allah
 
-**Pembahasan:** Wahdaniyah berarti Allah Maha Esa.
+**Pembahasan:** Wahdaniyah berarti Allah Maha Esa. Karena itu ibadah ditujukan hanya kepada-Nya.
 
 ---
 
 ## Soal 6 — K03-PAI-B02-M01-006
 
-**Pertanyaan:** Qudrat berarti Allah ....
+**Pertanyaan:** Kelompok Lala hendak membuat kartu “Allah Maha Kuasa”. Istilah mana yang perlu ditulis di balik kartu?
 
 **Pilihan jawaban:**
-- Maha Kuasa
-- Maha Lupa
-- Maha Lemah
-- Maha Tidur
+- Iradah
+- Qudrah
+- Sama’
+- Basar
 
-**Kunci Jawaban:** Maha Kuasa
+**Kunci Jawaban:** Qudrah
 
-**Pembahasan:** Qudrat berarti Allah Maha Kuasa.
+**Pembahasan:** Qudrah, yang juga dikenal sebagai Qudrat, berarti Maha Kuasa. Iradah berarti Maha Berkehendak.
 
 ---
 
 ## Soal 7 — K03-PAI-B02-M01-007
 
-**Pertanyaan:** Ilmu sebagai sifat Allah berarti Allah ....
+**Pertanyaan:** Roni mengembalikan penghapus yang ia pinjam walau pemiliknya tidak melihat. Sifat apa yang mengingatkannya bahwa Allah tetap mengetahui perbuatannya?
 
 **Pilihan jawaban:**
-- perlu diajari
-- Maha Mengetahui
-- tidak tahu masa depan
-- hanya tahu satu tempat
+- Baqa
+- Wujud
+- Ilmu
+- Qidam
 
-**Kunci Jawaban:** Maha Mengetahui
+**Kunci Jawaban:** Ilmu
 
-**Pembahasan:** Ilmu sebagai sifat Allah berarti Allah Maha Mengetahui.
+**Pembahasan:** Ilmu berarti Allah Maha Mengetahui. Perbuatan yang luput dari perhatian orang lain tetap diketahui Allah.
 
 ---
 
 ## Soal 8 — K03-PAI-B02-M01-008
 
-**Pertanyaan:** Sifat mustahil Allah adalah sifat yang ....
+**Pertanyaan:** Manakah sifat kekurangan yang mustahil bagi Allah?
 
 **Pilihan jawaban:**
-- menjadi kewajiban manusia
-- berupa nama nabi
-- tidak mungkin ada pada Allah
-- wajib ada pada Allah
+- Lemah
+- Mengetahui
+- Berkehendak
+- Mendengar
 
-**Kunci Jawaban:** tidak mungkin ada pada Allah
+**Kunci Jawaban:** Lemah
 
-**Pembahasan:** Sifat mustahil Allah adalah sifat yang tidak mungkin ada pada Allah.
+**Pembahasan:** Lemah adalah kebalikan dari kuasa. Allah Maha Kuasa, Maha Mengetahui, Maha Berkehendak, dan Maha Mendengar.
 
 ---
 
 ## Soal 9 — K03-PAI-B02-M01-009
 
-**Pertanyaan:** Al-Wahhab berarti Allah ....
+**Pertanyaan:** Di kartu Asmaulhusna, Tia menulis “Maha Pemberi Karunia”. Nama mana yang cocok?
 
 **Pilihan jawaban:**
-- Maha Lemah
-- Maha Tidur
-- Maha Lupa
-- Maha Pemberi Karunia
+- Al-Kabir
+- As-Sami’
+- Al-Basir
+- Al-Wahhab
 
-**Kunci Jawaban:** Maha Pemberi Karunia
+**Kunci Jawaban:** Al-Wahhab
 
-**Pembahasan:** Al-Wahhab berarti Allah Maha Pemberi Karunia.
+**Pembahasan:** Al-Wahhab berarti Allah Maha Pemberi Karunia. Kita mensyukuri karunia-Nya dengan memanfaatkannya untuk kebaikan.
 
 ---
 
 ## Soal 10 — K03-PAI-B02-M01-010
 
-**Pertanyaan:** Al-Kabir berarti Allah ....
+**Pertanyaan:** Seorang siswa mengira Al-Kabir dapat dijelaskan dengan mengukur benda paling tinggi di kelas. Penjelasan mana yang tepat?
 
 **Pilihan jawaban:**
-- Maha Besar
-- Maha Kecil
-- Maha Terbatas
-- Maha Membutuhkan
+- Al-Kabir berarti Allah lebih tinggi daripada benda yang diukur
+- Al-Kabir berarti Allah Maha Besar dan kebesaran-Nya tidak diukur seperti benda
+- Al-Kabir berarti Allah sebesar benda terbesar yang kita kenal
+- Al-Kabir berarti kebesaran Allah berubah mengikuti ukuran benda
 
-**Kunci Jawaban:** Maha Besar
+**Kunci Jawaban:** Al-Kabir berarti Allah Maha Besar dan kebesaran-Nya tidak diukur seperti benda
 
-**Pembahasan:** Al-Kabir berarti Allah Maha Besar.
+**Pembahasan:** Al-Kabir menyatakan kebesaran Allah yang tak tertandingi. Penggaris hanya mengukur benda.
 
 ---
 
 ## Soal 11 — K03-PAI-B02-M01-011
 
-**Pertanyaan:** Setelah belajar sifat-sifat Allah, Fatimah memahami bahwa sifat wajib adalah ....
+**Pertanyaan:** Siti mengelompokkan Maha Mendengar dan Maha Melihat sebagai sifat wajib. Apa alasannya?
 
 **Pilihan jawaban:**
-- Sifat yang tidak mungkin dimiliki Allah
-- Sifat yang pasti ada pada Allah
-- Sifat yang hanya dimiliki manusia
-- Sifat yang berubah sesuai waktu
+- Keduanya boleh ada atau tiada pada Allah
+- Keduanya hanya dimiliki makhluk
+- Keduanya pasti ada pada Allah
+- Keduanya sifat kekurangan
 
-**Kunci Jawaban:** Sifat yang pasti ada pada Allah
+**Kunci Jawaban:** Keduanya pasti ada pada Allah
 
-**Pembahasan:** Dalam pelajaran akidah, sifat wajib Allah berarti sifat kesempurnaan yang pasti ada pada Allah.
+**Pembahasan:** Maha Mendengar dan Maha Melihat termasuk sifat kesempurnaan Allah. Cara Allah mendengar dan melihat tidak disamakan dengan makhluk.
 
 ---
 
 ## Soal 12 — K03-PAI-B02-M01-012
 
-**Pertanyaan:** Guru meminta contoh arti sifat Wujud. Pernyataan yang tepat adalah ....
+**Pertanyaan:** Tanaman membutuhkan air. Sifat apa yang menjelaskan bahwa Allah tidak membutuhkan siapa pun atau apa pun?
 
 **Pilihan jawaban:**
-- Allah memerlukan tempat tinggal
-- Allah baru ada setelah manusia
-- Allah ada, tidak bergantung pada ciptaan
-- Allah dapat menghilang karena lelah
+- Qiyamuhu binafsihi
+- Wahdaniyah
+- Baqa
+- Qidam
 
-**Kunci Jawaban:** Allah ada, tidak bergantung pada ciptaan
+**Kunci Jawaban:** Qiyamuhu binafsihi
 
-**Pembahasan:** Wujud berarti Allah ada. Keberadaan Allah tidak bergantung pada makhluk.
+**Pembahasan:** Qiyamuhu binafsihi berarti Allah berdiri sendiri dan tidak bergantung pada makhluk.
 
 ---
 
 ## Soal 13 — K03-PAI-B02-M01-013
 
-**Pertanyaan:** Kata Qidam dalam sifat wajib Allah mengajarkan bahwa ....
+**Pertanyaan:** Alif menyandingkan sifat wajib dan sifat mustahil. Pasangan mana yang tepat?
 
 **Pilihan jawaban:**
-- Allah lahir pada waktu tertentu
-- Allah memiliki usia seperti manusia
-- Allah memiliki awal seperti makhluk
-- Allah terdahulu tanpa permulaan
+- Qidam dan kekal
+- Wujud dan tiada
+- Baqa dan Maha Esa
+- Qudrah dan Maha Mengetahui
 
-**Kunci Jawaban:** Allah terdahulu tanpa permulaan
+**Kunci Jawaban:** Wujud dan tiada
 
-**Pembahasan:** Qidam berarti Allah tidak didahului oleh ketiadaan dan tidak memiliki permulaan.
+**Pembahasan:** Wujud berarti ada. Tiada merupakan kebalikannya dan mustahil bagi Allah.
 
 ---
 
 ## Soal 14 — K03-PAI-B02-M01-014
 
-**Pertanyaan:** Ketika semua benda dapat rusak atau berakhir, sifat Baqa mengingatkan kita bahwa ....
+**Pertanyaan:** Pada tabelnya, Rina menulis “Baqa — baru ada” sebagai pasangan sifat wajib dan lawannya. Apa perbaikannya?
 
 **Pilihan jawaban:**
-- Allah kekal, tidak berakhir
-- Allah berubah menjadi makhluk
-- Allah bergantung pada waktu
-- Allah hanya ada saat manusia berdoa
+- Ganti “baru ada” menjadi “Maha Esa”
+- Ganti “baru ada” menjadi “tidak berawal”
+- Ganti “baru ada” menjadi “ada”
+- Ganti “baru ada” menjadi “berakhir”
 
-**Kunci Jawaban:** Allah kekal, tidak berakhir
+**Kunci Jawaban:** Ganti “baru ada” menjadi “berakhir”
 
-**Pembahasan:** Baqa berarti Allah kekal; berbeda dengan makhluk yang memiliki keterbatasan.
+**Pembahasan:** Baqa berarti kekal, sehingga lawannya berakhir. Baru ada merupakan lawan dari Qidam.
 
 ---
 
 ## Soal 15 — K03-PAI-B02-M01-015
 
-**Pertanyaan:** Umat Islam beribadah hanya kepada Allah. Hal ini sesuai dengan sifat ....
+**Pertanyaan:** Faris melihat dua kartu, “Maha Esa” dan “berbilang”. Bagaimana mengelompokkannya?
 
 **Pilihan jawaban:**
-- Qidam yang berarti terdahulu
-- Wahdaniyah yang berarti Maha Esa
-- Baqa yang berarti kekal
-- Ilmu yang berarti mengetahui
+- Maha Esa masuk sifat mustahil dan berbilang masuk sifat wajib
+- Keduanya masuk sifat wajib
+- Maha Esa masuk sifat wajib dan berbilang masuk sifat mustahil
+- Keduanya masuk sifat mustahil
 
-**Kunci Jawaban:** Wahdaniyah yang berarti Maha Esa
+**Kunci Jawaban:** Maha Esa masuk sifat wajib dan berbilang masuk sifat mustahil
 
-**Pembahasan:** Wahdaniyah menegaskan keesaan Allah sehingga ibadah ditujukan hanya kepada-Nya.
+**Pembahasan:** Wahdaniyah berarti Allah Maha Esa. Berbilang atau lebih dari satu mustahil bagi Allah.
 
 ---
 
 ## Soal 16 — K03-PAI-B02-M01-016
 
-**Pertanyaan:** Seorang siswa melihat luasnya alam dan mengingat bahwa Allah Maha Kuasa. Sifat yang dipelajari adalah ....
+**Pertanyaan:** Ayu berkata bahwa Allah Maha Kuasa dan Allah Maha Berkehendak. Bagaimana membedakan arti kedua sifat itu?
 
 **Pilihan jawaban:**
-- Baqa
-- Wujud
-- Qudrat
-- Qidam
+- Qudrah berarti Maha Berkehendak dan Iradah berarti Maha Kuasa
+- Qudrah berarti Maha Kuasa dan Iradah berarti Maha Berkehendak
+- Keduanya berarti Maha Mendengar
+- Keduanya berarti Maha Mengetahui
 
-**Kunci Jawaban:** Qudrat
+**Kunci Jawaban:** Qudrah berarti Maha Kuasa dan Iradah berarti Maha Berkehendak
 
-**Pembahasan:** Qudrat berarti Allah Maha Kuasa; pengamatan alam dapat menjadi pengingat kekuasaan-Nya.
+**Pembahasan:** Qudrah menerangkan kekuasaan Allah. Iradah menerangkan kehendak-Nya.
 
 ---
 
 ## Soal 17 — K03-PAI-B02-M01-017
 
-**Pertanyaan:** Dina berkata, 'Allah mengetahui apa yang kita lakukan, bahkan ketika tidak ada teman yang melihat.' Ini berkaitan dengan sifat ....
+**Pertanyaan:** Kelompok Rafi mencari lawan sifat Ilmu. Kartu mana yang perlu dipilih?
 
 **Pilihan jawaban:**
-- Qidam
-- Baqa
-- Wahdaniyah
-- Ilmu
+- Tidak mendengar
+- Tidak melihat
+- Tidak berkuasa
+- Tidak mengetahui
 
-**Kunci Jawaban:** Ilmu
+**Kunci Jawaban:** Tidak mengetahui
 
-**Pembahasan:** Sifat Ilmu berarti Allah Maha Mengetahui, tidak terbatas pada hal yang terlihat manusia.
+**Pembahasan:** Ilmu berarti Allah Maha Mengetahui. Tidak mengetahui adalah lawannya dan mustahil bagi Allah.
 
 ---
 
 ## Soal 18 — K03-PAI-B02-M01-018
 
-**Pertanyaan:** Manakah contoh pengertian sifat mustahil bagi Allah?
+**Pertanyaan:** Dua teman bertanya mengapa “menyerupai makhluk” masuk kelompok sifat mustahil. Apa jawabannya?
 
 **Pilihan jawaban:**
-- Sifat kekurangan yang tidak mungkin ada pada Allah
-- Sifat yang pasti ada pada Allah
-- Nama malaikat yang wajib diketahui
-- Perbuatan baik yang dianjurkan
+- Semua makhluk bergantung pada hal yang sama
+- Allah hanya menyerupai sebagian makhluk
+- Tidak ada makhluk yang menyamai Allah
+- Kemiripan Allah berubah menurut keadaan
 
-**Kunci Jawaban:** Sifat kekurangan yang tidak mungkin ada pada Allah
+**Kunci Jawaban:** Tidak ada makhluk yang menyamai Allah
 
-**Pembahasan:** Sifat mustahil adalah kebalikan sifat wajib, yaitu kekurangan yang tidak mungkin ada pada Allah.
+**Pembahasan:** Allah berbeda dari makhluk. Karena itu menyerupai makhluk termasuk sifat mustahil.
 
 ---
 
 ## Soal 19 — K03-PAI-B02-M01-019
 
-**Pertanyaan:** Ketika memperoleh hadiah, Rafi bersyukur kepada Allah Yang Maha Pemberi Karunia. Asmaulhusna yang sesuai adalah ....
+**Pertanyaan:** Rafi membawa dua pensil dan melihat temannya belum punya pensil untuk menulis. Apa yang mencerminkan rasa syukur setelah belajar Al-Wahhab?
 
 **Pilihan jawaban:**
-- Al-Kabir
-- Al-Wahhab
-- Al-'Alim
-- As-Sami'
+- Menawarkan satu pensil untuk dipinjam dengan sopan
+- Meminjamkan pensil jika dipuji teman
+- Memamerkan kedua pensilnya kepada kelas
+- Menunggu sampai temannya menawarkan imbalan
 
-**Kunci Jawaban:** Al-Wahhab
+**Kunci Jawaban:** Menawarkan satu pensil untuk dipinjam dengan sopan
 
-**Pembahasan:** Al-Wahhab berarti Allah Maha Pemberi Karunia, sehingga manusia dianjurkan bersyukur atas nikmat-Nya.
+**Pembahasan:** Memakai karunia untuk membantu merupakan wujud syukur dan kepedulian. Bantuan dapat diberikan tanpa mengharap pujian.
 
 ---
 
 ## Soal 20 — K03-PAI-B02-M01-020
 
-**Pertanyaan:** Guru menjelaskan bahwa kebesaran Allah tidak dapat disamakan dengan ukuran benda. Nama Allah yang berarti Maha Besar adalah ....
+**Pertanyaan:** Setelah belajar Al-Kabir, Salma menjadi juara lomba. Sikap apa yang menunjukkan rendah hati?
 
 **Pilihan jawaban:**
-- Al-Wahhab
-- Al-Basir
-- Al-Kabir
-- Ar-Razzaq
+- Menganggap peserta lain tidak pantas ikut lomba
+- Bersyukur, berterima kasih, dan menghargai usaha peserta lain
+- Menolak masukan karena merasa sudah paling hebat
+- Hanya menghargai peserta yang mendapat piala
 
-**Kunci Jawaban:** Al-Kabir
+**Kunci Jawaban:** Bersyukur, berterima kasih, dan menghargai usaha peserta lain
 
-**Pembahasan:** Al-Kabir berarti Allah Maha Besar. Kebesaran-Nya tidak sama dengan ukuran fisik makhluk.
+**Pembahasan:** Mengingat kebesaran Allah membantu Salma bersyukur atas keberhasilannya dan tetap menghargai orang lain.
 
 ---
 
 ## Soal 21 — K03-PAI-B02-M01-021
 
-**Pertanyaan:** Saat belajar tentang "Ayo Mengenal Tuhan Kita", bagaimana melengkapi pernyataan ini dengan benar?
-
-Sifat wajib Allah berarti sifat yang ....
+**Pertanyaan:** Apa makna sifat jaiz yang dipelajari di bab ini?
 
 **Pilihan jawaban:**
-- mustahil ada pada Allah
-- hanya dimiliki manusia
-- berubah setiap hari
-- pasti ada pada Allah
+- Allah harus mewujudkan semua hal yang mungkin
+- Allah kadang memiliki sifat kekurangan
+- Allah berbuat atau tidak berbuat sesuatu yang mungkin sesuai kehendak-Nya
+- Allah perlu meminta persetujuan sebelum berbuat
 
-**Kunci Jawaban:** pasti ada pada Allah
+**Kunci Jawaban:** Allah berbuat atau tidak berbuat sesuatu yang mungkin sesuai kehendak-Nya
 
-**Pembahasan:** Sifat wajib Allah berarti sifat yang pasti ada pada Allah.
+**Pembahasan:** Sifat jaiz menjelaskan kebebasan Allah dalam mewujudkan atau tidak mewujudkan sesuatu yang mungkin.
 
 ---
 
 ## Soal 22 — K03-PAI-B02-M01-022
 
-**Pertanyaan:** Saat belajar tentang "Ayo Mengenal Tuhan Kita", bagaimana melengkapi pernyataan ini dengan benar?
-
-Wujud berarti Allah ....
+**Pertanyaan:** Lina membuat kartu “Allah menciptakan sesuatu sesuai kehendak-Nya”. Kartu itu paling sesuai untuk menjelaskan apa?
 
 **Pilihan jawaban:**
-- ada
-- tidur
-- lelah
-- lupa
+- Sifat jaiz
+- Arti Wujud
+- Arti Baqa
+- Lawan Qudrah
 
-**Kunci Jawaban:** ada
+**Kunci Jawaban:** Sifat jaiz
 
-**Pembahasan:** Wujud berarti Allah ada.
+**Pembahasan:** Menciptakan atau tidak menciptakan sesuatu yang mungkin adalah contoh pembahasan sifat jaiz.
 
 ---
 
 ## Soal 23 — K03-PAI-B02-M01-023
 
-**Pertanyaan:** Saat belajar tentang "Ayo Mengenal Tuhan Kita", bagaimana melengkapi pernyataan ini dengan benar?
-
-Qidam berarti Allah ....
+**Pertanyaan:** Amin berkata, “Sifat jaiz berarti Allah kadang lemah.” Apa tanggapan yang tepat?
 
 **Pilihan jawaban:**
-- memiliki orang tua
-- terdahulu tanpa permulaan
-- memerlukan makanan
-- mempunyai akhir
+- Lemah menjadi jaiz jika tidak ada yang melihat.
+- Lemah menjadi sifat wajib ketika Allah tidak melakukan sesuatu.
+- Jaiz berarti Maha Kuasa hanya pada waktu tertentu.
+- Lemah tetap mustahil bagi Allah. Jaiz berkaitan dengan sesuatu yang mungkin Allah lakukan atau tidak.
 
-**Kunci Jawaban:** terdahulu tanpa permulaan
+**Kunci Jawaban:** Lemah tetap mustahil bagi Allah. Jaiz berkaitan dengan sesuatu yang mungkin Allah lakukan atau tidak.
 
-**Pembahasan:** Qidam berarti Allah terdahulu tanpa permulaan.
+**Pembahasan:** Sifat jaiz berkaitan dengan perbuatan yang mungkin. Kekurangan seperti lemah tetap mustahil bagi Allah.
 
 ---
 
 ## Soal 24 — K03-PAI-B02-M01-024
 
-**Pertanyaan:** Saat belajar tentang "Ayo Mengenal Tuhan Kita", bagaimana melengkapi pernyataan ini dengan benar?
-
-Baqa berarti Allah ....
+**Pertanyaan:** Ada tiga catatan: (1) Allah Maha Kuasa, (2) lemah bagi Allah, (3) Allah menciptakan sesuatu sesuai kehendak-Nya. Urutan kelompok yang tepat adalah ....
 
 **Pilihan jawaban:**
-- lemah
-- berubah-ubah
-- kekal
-- sementara
+- wajib, jaiz, mustahil
+- wajib, mustahil, jaiz
+- mustahil, wajib, jaiz
+- jaiz, mustahil, wajib
 
-**Kunci Jawaban:** kekal
+**Kunci Jawaban:** wajib, mustahil, jaiz
 
-**Pembahasan:** Baqa berarti Allah kekal.
+**Pembahasan:** Maha Kuasa pasti ada pada Allah, lemah mustahil, dan mewujudkan sesuatu yang mungkin sesuai kehendak-Nya merupakan contoh jaiz.
 
 ---
 
 ## Soal 25 — K03-PAI-B02-M01-025
 
-**Pertanyaan:** Saat belajar tentang "Ayo Mengenal Tuhan Kita", bagaimana melengkapi pernyataan ini dengan benar?
-
-Wahdaniyah berarti Allah ....
+**Pertanyaan:** Teman Nisa berkata, “Karena ada sifat jaiz, semua doaku harus terjadi persis seperti yang kuminta.” Apa tanggapan yang tepat?
 
 **Pilihan jawaban:**
-- berbilang
-- bergantung
-- membutuhkan bantuan
-- Maha Esa
+- Kita cukup berdoa karena semua permintaan pasti terjadi persis.
+- Jika belum terkabul, artinya Allah tidak mendengar.
+- Kita tetap berdoa dan berusaha. Apa yang terjadi bergantung pada kehendak Allah.
+- Sifat jaiz membuat manusia menentukan apa yang Allah lakukan.
 
-**Kunci Jawaban:** Maha Esa
+**Kunci Jawaban:** Kita tetap berdoa dan berusaha. Apa yang terjadi bergantung pada kehendak Allah.
 
-**Pembahasan:** Wahdaniyah berarti Allah Maha Esa.
+**Pembahasan:** Sifat jaiz mengajarkan bahwa keputusan atas hal yang mungkin ada pada Allah. Kita tetap berdoa dan berusaha.
 
 ---
 
 ## Soal 26 — K03-PAI-B02-M01-026
 
-**Pertanyaan:** Saat belajar tentang "Ayo Mengenal Tuhan Kita", bagaimana melengkapi pernyataan ini dengan benar?
-
-Qudrat berarti Allah ....
+**Pertanyaan:** Guru menunjukkan daftar 20 sifat wajib dalam buku. Cara mana yang membantu Kiki belajar arti dan pasangan lawannya?
 
 **Pilihan jawaban:**
-- Maha Kuasa
-- Maha Lupa
-- Maha Lemah
-- Maha Tidur
+- Menghafal nomor urut saja
+- Membaca daftar sekali tanpa memeriksa arti
+- Menebak arti dari panjang kata
+- Membuat kartu istilah, arti, dan lawannya lalu saling menguji
 
-**Kunci Jawaban:** Maha Kuasa
+**Kunci Jawaban:** Membuat kartu istilah, arti, dan lawannya lalu saling menguji
 
-**Pembahasan:** Qudrat berarti Allah Maha Kuasa.
+**Pembahasan:** Kartu membantu Kiki mengingat istilah sekaligus memeriksa maknanya. Berlatih bersama memberi kesempatan memperbaiki pasangan yang tertukar.
 
 ---
 
 ## Soal 27 — K03-PAI-B02-M01-027
 
-**Pertanyaan:** Saat belajar tentang "Ayo Mengenal Tuhan Kita", bagaimana melengkapi pernyataan ini dengan benar?
-
-Ilmu sebagai sifat Allah berarti Allah ....
+**Pertanyaan:** Hana mendengar bel dan melihat pintu terbuka. Pasangan istilah mana yang berarti Allah Maha Mendengar dan Maha Melihat secara berurutan?
 
 **Pilihan jawaban:**
-- perlu diajari
-- Maha Mengetahui
-- tidak tahu masa depan
-- hanya tahu satu tempat
+- Sama’ dan Basar
+- Basar dan Sama’
+- Ilmu dan Qudrah
+- Kalam dan Hayat
 
-**Kunci Jawaban:** Maha Mengetahui
+**Kunci Jawaban:** Sama’ dan Basar
 
-**Pembahasan:** Ilmu sebagai sifat Allah berarti Allah Maha Mengetahui.
+**Pembahasan:** Sama’ berarti Maha Mendengar dan Basar berarti Maha Melihat. Pengalaman Hana membantu mengingat arti kedua istilah.
 
 ---
 
 ## Soal 28 — K03-PAI-B02-M01-028
 
-**Pertanyaan:** Saat belajar tentang "Ayo Mengenal Tuhan Kita", bagaimana melengkapi pernyataan ini dengan benar?
-
-Sifat mustahil Allah adalah sifat yang ....
+**Pertanyaan:** Beni membuat poster dan memasangkan Al-Wahhab dengan rendah hati karena kebesaran Allah, lalu Al-Kabir dengan syukur atas karunia. Bagaimana memperbaiki pasangannya agar sesuai makna setiap nama?
 
 **Pilihan jawaban:**
-- menjadi kewajiban manusia
-- berupa nama nabi
-- tidak mungkin ada pada Allah
-- wajib ada pada Allah
+- Al-Wahhab dengan kebesaran, Al-Kabir dengan pemberian
+- Al-Wahhab dengan Maha Mendengar, Al-Kabir dengan Maha Melihat
+- Al-Wahhab dengan syukur dan berbagi, Al-Kabir dengan rendah hati
+- Al-Wahhab dengan kekal, Al-Kabir dengan tidak berawal
 
-**Kunci Jawaban:** tidak mungkin ada pada Allah
+**Kunci Jawaban:** Al-Wahhab dengan syukur dan berbagi, Al-Kabir dengan rendah hati
 
-**Pembahasan:** Sifat mustahil Allah adalah sifat yang tidak mungkin ada pada Allah.
+**Pembahasan:** Al-Wahhab mengingatkan kita akan karunia Allah. Al-Kabir mengingatkan kita akan kebesaran-Nya.
 
 ---
 
 ## Soal 29 — K03-PAI-B02-M01-029
 
-**Pertanyaan:** Saat belajar tentang "Ayo Mengenal Tuhan Kita", bagaimana melengkapi pernyataan ini dengan benar?
-
-Al-Wahhab berarti Allah ....
+**Pertanyaan:** Dua siswa ingin membantu teman yang tertinggal pelajaran. Pilihan mana yang paling menunjukkan kepedulian?
 
 **Pilihan jawaban:**
-- Maha Lemah
-- Maha Tidur
-- Maha Lupa
-- Maha Pemberi Karunia
+- Memberi semua jawaban agar tugas segera selesai
+- Menanyakan bagian yang sulit lalu menawarkan belajar bersama
+- Menceritakan kesulitannya kepada seluruh kelas tanpa izin
+- Menentukan sendiri bantuan yang harus ia terima
 
-**Kunci Jawaban:** Maha Pemberi Karunia
+**Kunci Jawaban:** Menanyakan bagian yang sulit lalu menawarkan belajar bersama
 
-**Pembahasan:** Al-Wahhab berarti Allah Maha Pemberi Karunia.
+**Pembahasan:** Bertanya lebih dulu membantu kita memberi bantuan yang sesuai dan tetap menghargai teman.
 
 ---
 
 ## Soal 30 — K03-PAI-B02-M01-030
 
-**Pertanyaan:** Saat belajar tentang "Ayo Mengenal Tuhan Kita", bagaimana melengkapi pernyataan ini dengan benar?
-
-Al-Kabir berarti Allah ....
+**Pertanyaan:** Arman mahir menggambar. Setelah belajar Al-Wahhab dan Al-Kabir, tindakan mana yang menunjukkan syukur sekaligus rendah hati?
 
 **Pilihan jawaban:**
-- Maha Besar
-- Maha Kecil
-- Maha Terbatas
-- Maha Membutuhkan
+- Mengajari teman yang meminta bantuan dan mau mendengarkan saran
+- Memasang gambar agar semua teman mengakui ia paling hebat
+- Menyimpan semua cara menggambar agar tak ada yang menyamainya
+- Membantu teman hanya jika namanya ditulis paling besar
 
-**Kunci Jawaban:** Maha Besar
+**Kunci Jawaban:** Mengajari teman yang meminta bantuan dan mau mendengarkan saran
 
-**Pembahasan:** Al-Kabir berarti Allah Maha Besar.
+**Pembahasan:** Berbagi keterampilan menunjukkan syukur atas karunia. Mendengarkan saran menunjukkan rendah hati.
 
 ---
