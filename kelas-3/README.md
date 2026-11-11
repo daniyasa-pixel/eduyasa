@@ -8,6 +8,7 @@ empat bab berdasarkan buku edisi revisi 2025. Daftar kerja delapan mapel/50 bab
 dari riset awal belum berarti seluruh kontennya sudah tersedia atau diaudit.
 
 - [Paket Bahasa Indonesia dan laporan pemeriksaan](bin/README.md)
+- [Paket Pendidikan Pancasila empat bab (Markdown, menunggu Codex)](pkn/README.md)
 - [Konfigurasi kelas](../HTML/grade-config.js)
 - [Ketentuan konten yang berlaku](../docs/CONTENT_GUIDE.md)
 

@@ -326,17 +326,17 @@ Semua soal dalam dokumen ini tidak memakai gambar.
 
 ## Soal 21 — K03-PKN-B04-M01-021
 
-**Pertanyaan:** Mengejek teman karena berbeda keyakinan bertentangan dengan nilai ...
+**Pertanyaan:** Sikap yang sesuai nilai Pancasila kepada teman berbeda keyakinan adalah ...
 
 **Pilihan jawaban:**
-- persatuan dan toleransi
-- kemanusiaan
-- keadilan
-- menghormati kepercayaan
+- Menghormati ibadah dan keyakinannya
+- Mengejek kebiasaannya
+- Memaksanya mengikuti keyakinan kita
+- Melarangnya berteman
 
-**Kunci jawaban:** menghormati kepercayaan
+**Kunci jawaban:** Menghormati ibadah dan keyakinannya
 
-**Pembahasan:** Semua nilai Pancasila mengajarkan hormat; sikap mengejek bertentangan dengannya.
+**Pembahasan:** Menghormati keyakinan dan ibadah orang lain mencerminkan nilai Ketuhanan serta penghargaan terhadap sesama.
 
 ---
 
