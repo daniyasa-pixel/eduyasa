@@ -53,6 +53,27 @@
             border: none;
         }
 
+        /* Kelas yang tersedia tetap biru meskipun belum dipilih. */
+        .class-choice[data-available="true"] {
+            background: #eff6ff;
+            border-color: #3b82f6;
+            color: #1e40af;
+            cursor: pointer;
+        }
+        .class-choice[data-available="true"]:hover,
+        .class-choice[data-available="true"]:focus-visible {
+            background: #dbeafe;
+            outline: 3px solid #93c5fd;
+            outline-offset: 3px;
+        }
+        .class-choice[data-available="true"][aria-pressed="true"] {
+            background: #2563eb;
+            border-color: #1d4ed8;
+            color: #fff;
+        }
+        .class-choice .class-availability { color: inherit; }
+        .class-choice:disabled { cursor: not-allowed; opacity: 1; }
+
         /* Glow berdenyut pada tombol kelas yang sudah tersedia */
         @keyframes classSixGlow {
             0%, 100% {
@@ -151,30 +172,30 @@
                             <div id="pilih-kelas" class="mb-3">
                                 <p class="text-gray-700 font-semibold mb-3">Pilih Kelas SD:</p>
                                 <div class="grid grid-cols-3 sm:grid-cols-6 gap-2 max-w-xl mx-auto lg:mx-0">
-                                    <button type="button" data-kelas="1" aria-pressed="false"
+                                    <button type="button" data-kelas="1" data-available="false" disabled aria-pressed="false"
                                         class="class-choice rounded-xl border-2 border-gray-200 bg-gray-100 text-gray-500 py-3 px-2 font-semibold transition-all hover:border-gray-200 focus:outline-none focus:ring-0 active:border-gray-200">
                                         <span>Kelas 1</span>
                                         <span class="block text-[9px] font-semibold text-gray-400 mt-0.5">BELUM TERSEDIA</span>
-                                    </button><button type="button" data-kelas="2" aria-pressed="false"
+                                    </button><button type="button" data-kelas="2" data-available="false" disabled aria-pressed="false"
                                         class="class-choice rounded-xl border-2 border-gray-200 bg-gray-100 text-gray-500 py-3 px-2 font-semibold transition-all hover:border-gray-200 focus:outline-none focus:ring-0 active:border-gray-200">
                                         <span>Kelas 2</span>
                                         <span class="block text-[9px] font-semibold text-gray-400 mt-0.5">BELUM TERSEDIA</span>
-                                    </button><button type="button" data-kelas="3" aria-pressed="false"
-                                        class="class-choice class-six-glow rounded-xl border-2 border-gray-200 bg-gray-100 text-gray-500 py-3 px-2 font-semibold transition-all hover:border-gray-200 focus:outline-none focus:ring-0 active:border-gray-200">
+                                    </button><button type="button" data-kelas="3" data-available="true" aria-pressed="false"
+                                        class="class-choice class-six-glow rounded-xl border-2 border-blue-400 bg-blue-50 text-blue-800 py-3 px-2 font-semibold transition-all">
                                         <span>Kelas 3</span>
-                                        <span class="block text-[9px] font-semibold text-primary-600 mt-0.5">BAHASA INDONESIA</span>
-                                    </button><button type="button" data-kelas="4" aria-pressed="false"
+                                        <span class="class-availability block text-[10px] font-bold mt-0.5">TERSEDIA</span>
+                                    </button><button type="button" data-kelas="4" data-available="false" disabled aria-pressed="false"
                                         class="class-choice rounded-xl border-2 border-gray-200 bg-gray-100 text-gray-500 py-3 px-2 font-semibold transition-all hover:border-gray-200 focus:outline-none focus:ring-0 active:border-gray-200">
                                         <span>Kelas 4</span>
                                         <span class="block text-[9px] font-semibold text-gray-400 mt-0.5">BELUM TERSEDIA</span>
-                                    </button><button type="button" data-kelas="5" aria-pressed="false"
+                                    </button><button type="button" data-kelas="5" data-available="false" disabled aria-pressed="false"
                                         class="class-choice rounded-xl border-2 border-gray-200 bg-gray-100 text-gray-500 py-3 px-2 font-semibold transition-all hover:border-gray-200 focus:outline-none focus:ring-0 active:border-gray-200">
                                         <span>Kelas 5</span>
                                         <span class="block text-[9px] font-semibold text-gray-400 mt-0.5">BELUM TERSEDIA</span>
-                                    </button><button type="button" data-kelas="6" aria-pressed="false"
-                                        class="class-choice class-six-glow rounded-xl border-2 border-gray-200 bg-gray-100 text-gray-500 py-3 px-2 font-semibold transition-all">
+                                    </button><button type="button" data-kelas="6" data-available="true" aria-pressed="false"
+                                        class="class-choice class-six-glow rounded-xl border-2 border-blue-400 bg-blue-50 text-blue-800 py-3 px-2 font-semibold transition-all">
                                         <span>Kelas 6</span>
-                                        <span class="block text-[10px] font-bold text-primary-600 mt-0.5">TERSEDIA</span>
+                                        <span class="class-availability block text-[10px] font-bold mt-0.5">TERSEDIA</span>
                                     </button>
                                 </div>
                                 <p id="class-selection-message" class="text-sm text-gray-500 mt-3" aria-live="polite">Silakan pilih kelas terlebih dahulu.</p>
@@ -302,26 +323,12 @@
             button.addEventListener('click', () => {
                 const grade = Number(button.dataset.kelas);
 
-                if (!EduyasaGrades.grades[grade]) {
-                    selectedClass = null;
-                    classChoiceButtons.forEach(item => { item.setAttribute('aria-pressed', 'false'); item.classList.remove('border-primary-600', 'bg-primary-600', 'text-white', 'shadow-md'); item.classList.add('border-gray-200', 'bg-gray-100', 'text-gray-500'); });
-                    startLearningBtn.disabled = true;
-                    startLearningBtn.className = 'bg-gray-300 text-gray-500 cursor-not-allowed px-8 py-4 rounded-full font-semibold text-lg transition-all shadow-md flex items-center justify-center gap-2';
-                    classSelectionMessage.textContent = 'Kelas ' + grade + ' belum tersedia.';
-                    classSelectionMessage.className = 'text-sm text-amber-600 mt-3';
-                    return;
-                }
+                if (!EduyasaGrades.grades[grade]) return;
 
                 selectedClass = grade;
                 classChoiceButtons.forEach(item => {
-                    item.setAttribute('aria-pressed', 'false');
-                    item.classList.remove('border-primary-600', 'bg-primary-600', 'text-white', 'shadow-md');
-                    item.classList.add('border-gray-200', 'bg-gray-100', 'text-gray-500');
+                    item.setAttribute('aria-pressed', String(item === button));
                 });
-
-                button.setAttribute('aria-pressed', 'true');
-                button.classList.remove('border-gray-200', 'bg-gray-100', 'text-gray-500');
-                button.classList.add('border-primary-600', 'bg-primary-600', 'text-white', 'shadow-md');
 
                 startLearningBtn.disabled = false;
                 startLearningBtn.className = 'bg-primary-600 hover:bg-primary-700 text-white px-8 py-4 rounded-full font-semibold text-lg transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-1 flex items-center justify-center gap-2';
