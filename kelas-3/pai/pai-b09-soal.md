@@ -1,503 +1,481 @@
 # PAI Kelas 3 — Bab 9: Senangnya Salat Rawatib
 
-**STATUS DRAF:** 30 soal pilihan ganda. Ada pengulangan kompetensi antarpertanyaan; wajib revisi variasi dan audit agama sebelum rilis.
+30 soal pilihan ganda. Sumber pembelajaran tercantum pada modul bab ini.
 
 ## Soal 1 — K03-PAI-B09-M01-001
 
-**Pertanyaan:** Salat rawatib adalah salat sunah yang dikerjakan ....
+**Pertanyaan:** Rina membaca jadwal “salat sunah yang mengiringi salat fardu”. Jenis salat apa yang dimaksud?
 
 **Pilihan jawaban:**
-- mengiringi salat fardu
-- hanya pada Idulfitri
-- hanya saat hujan
-- mengganti puasa
+- Tahajud
+- Duha
+- Witir
+- Rawatib
 
-**Kunci Jawaban:** mengiringi salat fardu
+**Kunci Jawaban:** Rawatib
 
-**Pembahasan:** Salat rawatib adalah salat sunah yang dikerjakan mengiringi salat fardu.
+**Pembahasan:** Rawatib terikat pada salat fardu tertentu dan dikerjakan sebelum atau sesudahnya sesuai jenisnya.
 
 ---
 
 ## Soal 2 — K03-PAI-B09-M01-002
 
-**Pertanyaan:** Salat rawatib sebelum salat fardu disebut ....
+**Pertanyaan:** Zaid salat dua rakaat setelah masuk waktu Subuh dan sebelum fardu Subuh. Bagaimana nama rawatib tersebut?
 
 **Pilihan jawaban:**
-- witir
-- qabliyah
-- ba'diyah
-- tarawih
+- Ba'diyah Zuhur
+- Qabliyah Subuh
+- Ba'diyah Subuh
+- Qabliyah Zuhur
 
-**Kunci Jawaban:** qabliyah
+**Kunci Jawaban:** Qabliyah Subuh
 
-**Pembahasan:** Salat rawatib sebelum salat fardu disebut qabliyah.
+**Pembahasan:** Qabliyah berarti sebelum salat fardu. Salat sunah pada contoh ini mendahului fardu Subuh.
 
 ---
 
 ## Soal 3 — K03-PAI-B09-M01-003
 
-**Pertanyaan:** Salat rawatib sesudah salat fardu disebut ....
+**Pertanyaan:** Setelah salam fardu Magrib, Lina mengerjakan dua rakaat rawatib. Apa nama salat itu?
 
 **Pilihan jawaban:**
-- jenazah
-- istikharah
-- ba'diyah
-- qabliyah
+- Ba'diyah Isya
+- Qabliyah Magrib
+- Ba'diyah Magrib
+- Qabliyah Isya
 
-**Kunci Jawaban:** ba'diyah
+**Kunci Jawaban:** Ba'diyah Magrib
 
-**Pembahasan:** Salat rawatib sesudah salat fardu disebut ba'diyah.
+**Pembahasan:** Ba'diyah berarti sesudah salat fardu. Salat fardu yang mendahuluinya ialah Magrib.
 
 ---
 
 ## Soal 4 — K03-PAI-B09-M01-004
 
-**Pertanyaan:** Salat rawatib termasuk salat ....
+**Pertanyaan:** Manakah urutan yang menempatkan dua rawatib Zuhur di sisi yang tepat?
 
 **Pilihan jawaban:**
-- fardu lima waktu
-- wajib setiap hari
-- pengganti zakat
-- sunah
+- Qabliyah Zuhur → fardu Zuhur → ba'diyah Zuhur
+- Ba'diyah Zuhur → fardu Zuhur → qabliyah Zuhur
+- Fardu Zuhur → qabliyah Zuhur → ba'diyah Zuhur
+- Qabliyah Zuhur → ba'diyah Zuhur → fardu Zuhur
 
-**Kunci Jawaban:** sunah
+**Kunci Jawaban:** Qabliyah Zuhur → fardu Zuhur → ba'diyah Zuhur
 
-**Pembahasan:** Salat rawatib termasuk salat sunah.
+**Pembahasan:** Rawatib qabliyah berada sebelum fardu Zuhur, sedangkan ba'diyah berada sesudahnya.
 
 ---
 
 ## Soal 5 — K03-PAI-B09-M01-005
 
-**Pertanyaan:** Salat qabliyah Subuh dilakukan ....
+**Pertanyaan:** Fardu Magrib sudah akan dimulai. Beni ingin mengerjakan salat sunah. Apa yang ia dahulukan?
 
 **Pilihan jawaban:**
-- sebelum salat Subuh
-- setelah salat Magrib
-- sebelum salat Isya
-- setelah salat Asar
+- Ikut salat fardu Magrib
+- Kerjakan rawatib saja karena jumlah rakaatnya lebih sedikit
+- Mulai qabliyah saat fardu sudah dimulai
+- Mulai ba'diyah Magrib sebelum fardu
 
-**Kunci Jawaban:** sebelum salat Subuh
+**Kunci Jawaban:** Ikut salat fardu Magrib
 
-**Pembahasan:** Salat qabliyah Subuh dilakukan sebelum salat Subuh.
+**Pembahasan:** Salat fardu didahulukan ketika jemaah akan mulai. Rawatib berstatus sunah.
 
 ---
 
 ## Soal 6 — K03-PAI-B09-M01-006
 
-**Pertanyaan:** Salat ba'diyah Magrib dilakukan ....
+**Pertanyaan:** Guru menulis “sangat dianjurkan”. Istilah apa yang cocok dengan keterangan tersebut?
 
 **Pilihan jawaban:**
-- sebelum salat Jumat
-- setelah salat Magrib
-- sebelum salat Subuh
-- setelah salat Asar
+- Fardu kifayah
+- Sunah muakkadah
+- Fardu ain
+- Sunah ghairu muakkadah
 
-**Kunci Jawaban:** setelah salat Magrib
+**Kunci Jawaban:** Sunah muakkadah
 
-**Pembahasan:** Salat ba'diyah Magrib dilakukan setelah salat Magrib.
+**Pembahasan:** Muakkadah berarti sangat dianjurkan. Jenis ini tetap salat sunah.
 
 ---
 
 ## Soal 7 — K03-PAI-B09-M01-007
 
-**Pertanyaan:** Salat rawatib mengajarkan ....
+**Pertanyaan:** Dalam tabel kelas, 2 rakaat sebelum Subuh dan 4 rakaat sebelum Asar berada di dua kelompok berbeda. Bagaimana klasifikasinya menurut buku?
 
 **Pilihan jawaban:**
-- meremehkan waktu
-- mengabaikan wudu
-- membiasakan ibadah sunah
-- meninggalkan salat wajib
+- Keduanya muakkadah
+- Keduanya ghairu muakkadah
+- Sebelum Subuh muakkadah, sebelum Asar ghairu muakkadah
+- Sebelum Subuh ghairu muakkadah, sebelum Asar muakkadah
 
-**Kunci Jawaban:** membiasakan ibadah sunah
+**Kunci Jawaban:** Sebelum Subuh muakkadah, sebelum Asar ghairu muakkadah
 
-**Pembahasan:** Salat rawatib mengajarkan membiasakan ibadah sunah.
+**Pembahasan:** Buku mencantumkan qabliyah Subuh sebagai sangat dianjurkan, sedangkan qabliyah Asar sebagai anjuran yang tidak sekuat itu.
 
 ---
 
 ## Soal 8 — K03-PAI-B09-M01-008
 
-**Pertanyaan:** Salat rawatib dilakukan dengan niat ....
+**Pertanyaan:** Kapan dua rakaat ba'diyah Isya dilaksanakan?
 
 **Pilihan jawaban:**
-- mendapat pujian teman
-- membanggakan diri
-- mengganggu orang
-- beribadah kepada Allah
+- Setelah fardu Magrib
+- Sebelum fardu Subuh
+- Sebelum fardu Isya
+- Setelah fardu Isya
 
-**Kunci Jawaban:** beribadah kepada Allah
+**Kunci Jawaban:** Setelah fardu Isya
 
-**Pembahasan:** Salat rawatib dilakukan dengan niat beribadah kepada Allah.
+**Pembahasan:** Nama Isya menunjukkan salat fardu yang diiringi. Kata ba'diyah menempatkan rawatib sesudahnya.
 
 ---
 
 ## Soal 9 — K03-PAI-B09-M01-009
 
-**Pertanyaan:** Salat rawatib tidak boleh dijadikan alasan untuk ....
+**Pertanyaan:** Menurut contoh buku, kelompok mana yang semuanya contoh ba'diyah muakkadah?
 
 **Pilihan jawaban:**
-- meninggalkan salat fardu
-- meningkatkan kedisiplinan
-- mendekatkan diri kepada Allah
-- menjaga kebersihan
+- Sebelum Zuhur, sesudah Magrib, dan sebelum Isya
+- Sesudah Zuhur, Magrib, dan Isya
+- Sebelum Subuh, Zuhur, dan Isya
+- Sesudah Zuhur, sebelum Subuh, dan sesudah Isya
 
-**Kunci Jawaban:** meninggalkan salat fardu
+**Kunci Jawaban:** Sesudah Zuhur, Magrib, dan Isya
 
-**Pembahasan:** Salat rawatib tidak boleh dijadikan alasan untuk meninggalkan salat fardu.
+**Pembahasan:** Ketiga contoh itu mengikuti salat fardunya dan dicantumkan sebagai ba'diyah yang sangat dianjurkan.
 
 ---
 
 ## Soal 10 — K03-PAI-B09-M01-010
 
-**Pertanyaan:** Contoh membiasakan salat rawatib adalah ....
+**Pertanyaan:** Damar menaruh dua rakaat sebelum Magrib dalam daftar ba'diyah. Di mana catatan itu seharusnya diletakkan?
 
 **Pilihan jawaban:**
-- bermain saat imam salat
-- melaksanakan dua rakaat qabliyah Subuh
-- mengganti semua salat fardu
-- tidak pernah berwudu
+- Qabliyah ghairu muakkadah
+- Qabliyah muakkadah
+- Ba'diyah muakkadah
+- Ba'diyah ghairu muakkadah
 
-**Kunci Jawaban:** melaksanakan dua rakaat qabliyah Subuh
+**Kunci Jawaban:** Qabliyah ghairu muakkadah
 
-**Pembahasan:** Contoh membiasakan salat rawatib adalah melaksanakan dua rakaat qabliyah Subuh.
+**Pembahasan:** Kata “sebelum” menunjukkan qabliyah. Dua rakaat sebelum Magrib termasuk contoh ghairu muakkadah dalam buku.
 
 ---
 
 ## Soal 11 — K03-PAI-B09-M01-011
 
-**Pertanyaan:** Pilih jawaban yang tepat: salat rawatib adalah salat sunah yang dikerjakan ....
+**Pertanyaan:** Kartu “qabliyah Subuh” terselip setelah kartu “fardu Subuh”. Bagaimana memperbaiki urutannya?
 
 **Pilihan jawaban:**
-- hanya saat hujan
-- mengganti puasa
-- mengiringi salat fardu
-- hanya pada Idulfitri
+- Ganti fardu Subuh dengan fardu Magrib.
+- Tukar nama Subuh dengan Zuhur di kedua kartu.
+- Pindahkan kartu qabliyah ke sebelum kartu fardu Subuh.
+- Tambahkan kartu ba'diyah sebelum qabliyah.
 
-**Kunci Jawaban:** mengiringi salat fardu
+**Kunci Jawaban:** Pindahkan kartu qabliyah ke sebelum kartu fardu Subuh.
 
-**Pembahasan:** Salat rawatib adalah salat sunah yang dikerjakan mengiringi salat fardu.
+**Pembahasan:** Urutan keliru terletak pada posisi qabliyah. Nama salat fardu pada kedua kartu sudah tepat.
 
 ---
 
 ## Soal 12 — K03-PAI-B09-M01-012
 
-**Pertanyaan:** Pilih jawaban yang tepat: salat rawatib sebelum salat fardu disebut ....
+**Pertanyaan:** Nisa melihat ada yang mencontohkan dua rakaat sebelum Zuhur dan ada yang mengerjakan empat. Apa tanggapan paling tepat?
 
 **Pilihan jawaban:**
-- ba'diyah
-- tarawih
-- witir
-- qabliyah
+- Dua rakaat selalu keliru untuk rawatib Zuhur.
+- Ada beberapa contoh dari riwayat yang dipelajari. Tanyakan rinciannya kepada guru.
+- Salah satu pasti ba'diyah meski keduanya sebelum fardu.
+- Empat rakaat berarti salat fardu sudah selesai.
 
-**Kunci Jawaban:** qabliyah
+**Kunci Jawaban:** Ada beberapa contoh dari riwayat yang dipelajari. Tanyakan rinciannya kepada guru.
 
-**Pembahasan:** Salat rawatib sebelum salat fardu disebut qabliyah.
+**Pembahasan:** Jumlah rakaat sunah sebelum Zuhur muncul dalam beberapa riwayat. Posisi terhadap salat fardu menentukan sebutan qabliyah.
 
 ---
 
 ## Soal 13 — K03-PAI-B09-M01-013
 
-**Pertanyaan:** Pilih jawaban yang tepat: salat rawatib sesudah salat fardu disebut ....
+**Pertanyaan:** Apa yang diniatkan dalam hati ketika akan berlatih dua rakaat sebelum fardu Subuh?
 
 **Pilihan jawaban:**
-- ba'diyah
-- qabliyah
-- jenazah
-- istikharah
+- Melaksanakan salat sunah qabliyah Zuhur karena Allah
+- Melaksanakan salat sunah ba'diyah Subuh karena Allah
+- Melaksanakan salat fardu Subuh karena Allah
+- Melaksanakan salat sunah qabliyah Subuh karena Allah
 
-**Kunci Jawaban:** ba'diyah
+**Kunci Jawaban:** Melaksanakan salat sunah qabliyah Subuh karena Allah
 
-**Pembahasan:** Salat rawatib sesudah salat fardu disebut ba'diyah.
+**Pembahasan:** Niat dalam hati menentukan ibadah yang akan dikerjakan. Pada contoh ini salatnya sunah sebelum Subuh.
 
 ---
 
 ## Soal 14 — K03-PAI-B09-M01-014
 
-**Pertanyaan:** Pilih jawaban yang tepat: salat rawatib termasuk salat ....
+**Pertanyaan:** Dio lancar mengucapkan contoh lafaz niat, tetapi bingung menentukan salatnya. Apa yang perlu dibenahi terlebih dahulu?
 
 **Pilihan jawaban:**
-- pengganti zakat
-- sunah
-- fardu lima waktu
-- wajib setiap hari
+- Ulangi lafaz secepat mungkin sebelum tahu jenis salatnya.
+- Ganti niat sesuai salat yang dikerjakan temannya.
+- Tunggu sampai salam untuk menentukan niatnya.
+- Sadari dalam hati salat yang akan ia kerjakan.
 
-**Kunci Jawaban:** sunah
+**Kunci Jawaban:** Sadari dalam hati salat yang akan ia kerjakan.
 
-**Pembahasan:** Salat rawatib termasuk salat sunah.
+**Pembahasan:** Niat terletak di hati ketika memulai ibadah. Memahami salat yang dituju membantu Dio meniatkannya dengan tepat.
 
 ---
 
 ## Soal 15 — K03-PAI-B09-M01-015
 
-**Pertanyaan:** Pilih jawaban yang tepat: salat qabliyah Subuh dilakukan ....
+**Pertanyaan:** Sebelum berlatih rawatib, bagaimana persiapan yang benar?
 
 **Pilihan jawaban:**
-- sebelum salat Isya
-- setelah salat Asar
-- sebelum salat Subuh
-- setelah salat Magrib
+- Bersuci tetapi bebas memilih arah tanpa memperhatikan kiblat
+- Memilih tempat lalu mulai meski belum bersuci
+- Bersuci, menutup aurat, dan menghadap kiblat
+- Menghadap kiblat lalu bersuci setelah salam
 
-**Kunci Jawaban:** sebelum salat Subuh
+**Kunci Jawaban:** Bersuci, menutup aurat, dan menghadap kiblat
 
-**Pembahasan:** Salat qabliyah Subuh dilakukan sebelum salat Subuh.
+**Pembahasan:** Rawatib adalah salat, sehingga persiapannya tetap mengikuti syarat salat yang dipelajari.
 
 ---
 
 ## Soal 16 — K03-PAI-B09-M01-016
 
-**Pertanyaan:** Pilih jawaban yang tepat: salat ba'diyah Magrib dilakukan ....
+**Pertanyaan:** Apa urutan yang tepat setelah takbir pembuka dan bacaan pada rakaat pertama?
 
 **Pilihan jawaban:**
-- sebelum salat Subuh
-- setelah salat Asar
-- sebelum salat Jumat
-- setelah salat Magrib
+- Rukuk → iktidal → sujud
+- Sujud → rukuk → iktidal
+- Rukuk → sujud → iktidal
+- Iktidal → rukuk → sujud
 
-**Kunci Jawaban:** setelah salat Magrib
+**Kunci Jawaban:** Rukuk → iktidal → sujud
 
-**Pembahasan:** Salat ba'diyah Magrib dilakukan setelah salat Magrib.
+**Pembahasan:** Iktidal adalah bangkit dan berdiri kembali setelah rukuk. Sesudah itu barulah sujud.
 
 ---
 
 ## Soal 17 — K03-PAI-B09-M01-017
 
-**Pertanyaan:** Pilih jawaban yang tepat: salat rawatib mengajarkan ....
+**Pertanyaan:** Rani baru melakukan sujud pertama pada rakaat pertama. Apa yang ia kerjakan berikutnya?
 
 **Pilihan jawaban:**
-- membiasakan ibadah sunah
-- meninggalkan salat wajib
-- meremehkan waktu
-- mengabaikan wudu
+- Rukuk kembali sebelum sujud kedua
+- Duduk di antara dua sujud, lalu sujud kedua
+- Duduk tasyahud akhir, lalu salam
+- Berdiri langsung untuk rakaat berikutnya
 
-**Kunci Jawaban:** membiasakan ibadah sunah
+**Kunci Jawaban:** Duduk di antara dua sujud, lalu sujud kedua
 
-**Pembahasan:** Salat rawatib mengajarkan membiasakan ibadah sunah.
+**Pembahasan:** Setiap rakaat memiliki dua sujud dengan duduk di antaranya. Setelah sujud kedua pada rakaat pertama, barulah bersiap berdiri untuk rakaat kedua.
 
 ---
 
 ## Soal 18 — K03-PAI-B09-M01-018
 
-**Pertanyaan:** Pilih jawaban yang tepat: salat rawatib dilakukan dengan niat ....
+**Pertanyaan:** Pada latihan rawatib dua rakaat, kapan tasyahud akhir dilakukan?
 
 **Pilihan jawaban:**
-- mengganggu orang
-- beribadah kepada Allah
-- mendapat pujian teman
-- membanggakan diri
+- Sebelum rukuk pada rakaat kedua
+- Setelah salam pada rakaat kedua
+- Setelah sujud pertama pada rakaat pertama
+- Setelah sujud kedua pada rakaat kedua, sebelum salam
 
-**Kunci Jawaban:** beribadah kepada Allah
+**Kunci Jawaban:** Setelah sujud kedua pada rakaat kedua, sebelum salam
 
-**Pembahasan:** Salat rawatib dilakukan dengan niat beribadah kepada Allah.
+**Pembahasan:** Tasyahud akhir adalah duduk dan bacaan penutup sebelum salam. Pada latihan dua rakaat, posisinya di akhir rakaat kedua.
 
 ---
 
 ## Soal 19 — K03-PAI-B09-M01-019
 
-**Pertanyaan:** Pilih jawaban yang tepat: salat rawatib tidak boleh dijadikan alasan untuk ....
+**Pertanyaan:** Andi terburu-buru berpindah gerakan tanpa sempat tenang ketika rukuk. Apa masukan yang tepat?
 
 **Pilihan jawaban:**
-- mendekatkan diri kepada Allah
-- menjaga kebersihan
-- meninggalkan salat fardu
-- meningkatkan kedisiplinan
+- Percepat juga sujud supaya waktunya seimbang.
+- Akhiri salat sesaat setelah rukuk pertama.
+- Berhenti sejenak dengan tenang ketika rukuk sebelum bangkit.
+- Ganti rukuk dengan berdiri lebih lama pada rakaat berikutnya.
 
-**Kunci Jawaban:** meninggalkan salat fardu
+**Kunci Jawaban:** Berhenti sejenak dengan tenang ketika rukuk sebelum bangkit.
 
-**Pembahasan:** Salat rawatib tidak boleh dijadikan alasan untuk meninggalkan salat fardu.
+**Pembahasan:** Tuma'ninah berarti tenang sejenak pada posisi yang dipelajari. Gerakan tidak dilakukan tergesa-gesa.
 
 ---
 
 ## Soal 20 — K03-PAI-B09-M01-020
 
-**Pertanyaan:** Pilih jawaban yang tepat: contoh membiasakan salat rawatib adalah ....
+**Pertanyaan:** Temanmu ingin mengoreksi praktik rawatibnya. Umpan balik mana yang paling membantu?
 
 **Pilihan jawaban:**
-- mengganti semua salat fardu
-- tidak pernah berwudu
-- bermain saat imam salat
-- melaksanakan dua rakaat qabliyah Subuh
+- Bandingkan jumlah rakaatnya dengan semua teman tanpa melihat jenis salat.
+- Sebutkan satu langkah yang perlu diulang dan minta guru memandu.
+- Beri nilai dari kecepatan menyelesaikan gerakan.
+- Katakan bahwa semua urutannya benar tanpa menyimak.
 
-**Kunci Jawaban:** melaksanakan dua rakaat qabliyah Subuh
+**Kunci Jawaban:** Sebutkan satu langkah yang perlu diulang dan minta guru memandu.
 
-**Pembahasan:** Contoh membiasakan salat rawatib adalah melaksanakan dua rakaat qabliyah Subuh.
+**Pembahasan:** Koreksi yang spesifik dan arahan guru membantu teman mengetahui langkah yang perlu diperbaiki.
 
 ---
 
 ## Soal 21 — K03-PAI-B09-M01-021
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
-
-Salat rawatib adalah salat sunah yang dikerjakan ....
+**Pertanyaan:** Bagaimana menghubungkan rawatib dengan kebiasaan disiplin di rumah?
 
 **Pilihan jawaban:**
-- mengiringi salat fardu
-- hanya pada Idulfitri
-- hanya saat hujan
-- mengganti puasa
+- Menyiapkan kebutuhan dan mengerjakan tugas sesuai waktu yang disepakati.
+- Mengerjakan semua tugas sekaligus ketika sudah terlambat.
+- Memilih tugas hanya berdasarkan mana yang paling mudah.
+- Mengubah jadwal tanpa memberi tahu orang yang terlibat.
 
-**Kunci Jawaban:** mengiringi salat fardu
+**Kunci Jawaban:** Menyiapkan kebutuhan dan mengerjakan tugas sesuai waktu yang disepakati.
 
-**Pembahasan:** Salat rawatib adalah salat sunah yang dikerjakan mengiringi salat fardu.
+**Pembahasan:** Rawatib mengajarkan memperhatikan waktu. Disiplin juga terlihat saat menyiapkan dan menjalankan kegiatan sesuai jadwal.
 
 ---
 
 ## Soal 22 — K03-PAI-B09-M01-022
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
-
-Salat rawatib sebelum salat fardu disebut ....
+**Pertanyaan:** Mengapa menjaga urutan gerakan saat latihan dapat melatih sikap tertib?
 
 **Pilihan jawaban:**
-- witir
-- qabliyah
-- ba'diyah
-- tarawih
+- Karena yang penting semua gerakan selesai secepatnya.
+- Karena anak bebas menukar setiap langkah yang diingat.
+- Karena anak membiasakan diri mengikuti langkah pada tempatnya.
+- Karena tertib hanya berarti diam selama latihan.
 
-**Kunci Jawaban:** qabliyah
+**Kunci Jawaban:** Karena anak membiasakan diri mengikuti langkah pada tempatnya.
 
-**Pembahasan:** Salat rawatib sebelum salat fardu disebut qabliyah.
+**Pembahasan:** Ketertiban ditunjukkan dengan menjalankan langkah pada urutan yang benar, baik saat salat maupun kegiatan bersama.
 
 ---
 
 ## Soal 23 — K03-PAI-B09-M01-023
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
-
-Salat rawatib sesudah salat fardu disebut ....
+**Pertanyaan:** Hana berkata bahwa salat rawatib membuatnya terbiasa menyiapkan waktu beribadah. Apa sikap yang sedang tumbuh?
 
 **Pilihan jawaban:**
-- jenazah
-- istikharah
-- ba'diyah
-- qabliyah
+- Disiplin
+- Mudah putus asa
+- Tergesa-gesa
+- Ingin dipuji
 
-**Kunci Jawaban:** ba'diyah
+**Kunci Jawaban:** Disiplin
 
-**Pembahasan:** Salat rawatib sesudah salat fardu disebut ba'diyah.
+**Pembahasan:** Menyiapkan waktu dan menjaga kebiasaan secara teratur adalah contoh disiplin.
 
 ---
 
 ## Soal 24 — K03-PAI-B09-M01-024
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
-
-Salat rawatib termasuk salat ....
+**Pertanyaan:** Fikri berkata, “Kalau sempat rawatib, aku boleh melewatkan fardu.” Bagaimana memperbaiki pendapatnya?
 
 **Pilihan jawaban:**
-- fardu lima waktu
-- wajib setiap hari
-- pengganti zakat
-- sunah
+- Fardu dan rawatib dapat dipilih bergantian.
+- Fardu tetap kewajiban. Rawatib adalah ibadah sunah yang menyertai fardu.
+- Fardu berubah menjadi sunah jika rawatib dilakukan.
+- Rawatib menjadi fardu saat tidak sempat salat wajib.
 
-**Kunci Jawaban:** sunah
+**Kunci Jawaban:** Fardu tetap kewajiban. Rawatib adalah ibadah sunah yang menyertai fardu.
 
-**Pembahasan:** Salat rawatib termasuk salat sunah.
+**Pembahasan:** Rawatib memberi kesempatan menambah ibadah. Kewajiban salat fardu tetap berlaku.
 
 ---
 
 ## Soal 25 — K03-PAI-B09-M01-025
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
-
-Salat qabliyah Subuh dilakukan ....
+**Pertanyaan:** Hadis riwayat Muslim menyebut keutamaan dua rakaat sebelum Subuh. Apa pelajaran yang sesuai?
 
 **Pilihan jawaban:**
-- sebelum salat Subuh
-- setelah salat Magrib
-- sebelum salat Isya
-- setelah salat Asar
+- Menganggap semua salat dua rakaat pasti qabliyah Subuh.
+- Menjaga qabliyah Subuh sebagai ibadah sunah yang bernilai.
+- Mengganti fardu Subuh dengan dua rakaat qabliyah.
+- Menunda fardu Subuh karena rawatib lebih utama daripada kewajiban.
 
-**Kunci Jawaban:** sebelum salat Subuh
+**Kunci Jawaban:** Menjaga qabliyah Subuh sebagai ibadah sunah yang bernilai.
 
-**Pembahasan:** Salat qabliyah Subuh dilakukan sebelum salat Subuh.
+**Pembahasan:** Hadis menerangkan keutamaan dua rakaat sunah tersebut. Ia tetap dikerjakan dengan mendahulukan kewajiban bila fardu segera dimulai.
 
 ---
 
 ## Soal 26 — K03-PAI-B09-M01-026
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
-
-Salat ba'diyah Magrib dilakukan ....
+**Pertanyaan:** Nani melewatkan rawatib karena harus segera mengikuti fardu. Apa kesimpulan yang tepat untuk kasus ini?
 
 **Pilihan jawaban:**
-- sebelum salat Jumat
-- setelah salat Magrib
-- sebelum salat Subuh
-- setelah salat Asar
+- Ia mendahulukan fardu dan dapat membiasakan rawatib pada kesempatan yang sesuai.
+- Fardu harus diganti dengan rawatib pada hari berikutnya.
+- Fardunya tidak sah karena rawatibnya terlewat.
+- Ia harus keluar dari jemaah untuk menyelesaikan rawatib dulu.
 
-**Kunci Jawaban:** setelah salat Magrib
+**Kunci Jawaban:** Ia mendahulukan fardu dan dapat membiasakan rawatib pada kesempatan yang sesuai.
 
-**Pembahasan:** Salat ba'diyah Magrib dilakukan setelah salat Magrib.
+**Pembahasan:** Rawatib bukan syarat sah salat fardu. Saat jemaah fardu akan mulai, yang wajib didahulukan.
 
 ---
 
 ## Soal 27 — K03-PAI-B09-M01-027
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
-
-Salat rawatib mengajarkan ....
+**Pertanyaan:** Catatan mana yang menunjukkan nama, waktu, dan jumlah rakaat yang cocok?
 
 **Pilihan jawaban:**
-- meremehkan waktu
-- mengabaikan wudu
-- membiasakan ibadah sunah
-- meninggalkan salat wajib
+- Ba'diyah Magrib — sesudah fardu Magrib — dua rakaat
+- Qabliyah Subuh — sesudah fardu Subuh — dua rakaat
+- Qabliyah Subuh — sebelum fardu Subuh — empat rakaat
+- Ba'diyah Magrib — sebelum fardu Magrib — dua rakaat
 
-**Kunci Jawaban:** membiasakan ibadah sunah
+**Kunci Jawaban:** Ba'diyah Magrib — sesudah fardu Magrib — dua rakaat
 
-**Pembahasan:** Salat rawatib mengajarkan membiasakan ibadah sunah.
+**Pembahasan:** Ba'diyah Magrib dicontohkan dua rakaat dan dilakukan sesudah fardu. Qabliyah Subuh dicontohkan dua rakaat sebelum fardu.
 
 ---
 
 ## Soal 28 — K03-PAI-B09-M01-028
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
-
-Salat rawatib dilakukan dengan niat ....
+**Pertanyaan:** Apa arti melengkapi salat fardu sebagai salah satu hikmah rawatib?
 
 **Pilihan jawaban:**
-- mendapat pujian teman
-- membanggakan diri
-- mengganggu orang
-- beribadah kepada Allah
+- Menghapus kebutuhan belajar tata cara salat fardu.
+- Mengubah syarat fardu sesuai waktu yang tersedia.
+- Membuat fardu yang ditinggalkan dianggap sudah dikerjakan.
+- Menambah ibadah sunah sambil tetap melaksanakan fardu sesuai ketentuannya.
 
-**Kunci Jawaban:** beribadah kepada Allah
+**Kunci Jawaban:** Menambah ibadah sunah sambil tetap melaksanakan fardu sesuai ketentuannya.
 
-**Pembahasan:** Salat rawatib dilakukan dengan niat beribadah kepada Allah.
+**Pembahasan:** Ibadah sunah menyertai ibadah wajib. Syarat dan tata cara fardu tetap perlu dijaga.
 
 ---
 
 ## Soal 29 — K03-PAI-B09-M01-029
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
-
-Salat rawatib tidak boleh dijadikan alasan untuk ....
+**Pertanyaan:** Kelompokmu ingin belajar rawatib Isya dari dua kartu. Mana pasangan kartu yang sama-sama sesuai dengan contoh buku?
 
 **Pilihan jawaban:**
-- meninggalkan salat fardu
-- meningkatkan kedisiplinan
-- mendekatkan diri kepada Allah
-- menjaga kebersihan
+- Sebelum Isya ba'diyah dan sesudah Isya qabliyah
+- Sebelum Isya muakkadah dan sesudah Isya ghairu muakkadah
+- Sebelum Isya fardu dan sesudah Isya fardu
+- Sebelum Isya ghairu muakkadah dan sesudah Isya muakkadah
 
-**Kunci Jawaban:** meninggalkan salat fardu
+**Kunci Jawaban:** Sebelum Isya ghairu muakkadah dan sesudah Isya muakkadah
 
-**Pembahasan:** Salat rawatib tidak boleh dijadikan alasan untuk meninggalkan salat fardu.
+**Pembahasan:** Buku memberi contoh dua rakaat sebelum Isya sebagai ghairu muakkadah dan dua rakaat sesudahnya sebagai muakkadah.
 
 ---
 
 ## Soal 30 — K03-PAI-B09-M01-030
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
-
-Contoh membiasakan salat rawatib adalah ....
+**Pertanyaan:** Untuk menilai pemahaman dan praktik rawatib, kegiatan apa yang paling lengkap?
 
 **Pilihan jawaban:**
-- bermain saat imam salat
-- melaksanakan dua rakaat qabliyah Subuh
-- mengganti semua salat fardu
-- tidak pernah berwudu
+- Hafalkan nama salat tanpa menyebut kapan waktunya.
+- Kerjakan dua rakaat tanpa menjelaskan salat yang sedang dilatih.
+- Jelaskan waktu salatnya, susun urutannya, lalu praktikkan dua rakaat di hadapan guru.
+- Buat daftar waktu fardu tanpa membahas rawatib.
 
-**Kunci Jawaban:** melaksanakan dua rakaat qabliyah Subuh
+**Kunci Jawaban:** Jelaskan waktu salatnya, susun urutannya, lalu praktikkan dua rakaat di hadapan guru.
 
-**Pembahasan:** Contoh membiasakan salat rawatib adalah melaksanakan dua rakaat qabliyah Subuh.
-
----
+**Pembahasan:** Menjelaskan waktu dan urutan menilai pemahaman. Praktik yang disimak guru menilai pelaksanaan gerakan serta bacaan.
