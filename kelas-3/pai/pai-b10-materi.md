@@ -2,30 +2,33 @@
 
 ## MOD-01 — K03-PAI-B10-MOD-01
 
-### Yuk, pahami!
+### Dari Gua Hira sampai berdakwah
 
-Nabi Muhammad saw. Rasulku mengajak kita memahami ajaran Islam dan menerapkannya dengan baik dalam kehidupan sehari-hari. Bacalah setiap poin perlahan, lalu diskusikan dengan guru atau orang tua.
+1. **Berkhalwat di Gua Hira.** Nabi Muhammad saw. menyendiri untuk beribadah dan mendekat kepada Allah.
+2. **Wahyu pertama.** Ketika beliau berusia sekitar 40 tahun, Malaikat Jibril menyampaikan Q.S. Al-‘Alaq 96:1–5 di Gua Hira. Ayat-ayat itu dimulai dengan perintah membaca. Beliau pulang dalam keadaan bergetar. Khadijah menyelimuti dan menenangkan beliau.
+3. **Wahyu berikutnya.** Bab ini membahas Q.S. Al-Muddassir 74:1–7 setelah wahyu pertama. Ayat-ayat awalnya menyeru orang yang berselimut untuk bangkit dan memberi peringatan.
+4. **Dua tahap dakwah.** Nabi menyampaikan ajaran Islam secara terbatas kepada orang-orang terdekat. Khadijah, Abu Bakar, dan Ali bin Abi Talib termasuk yang menerima Islam pada masa awal. Kemudian Nabi berdakwah secara terbuka, misalnya menyeru kaum Quraisy di Bukit Safa. Ajarannya tetap mengajak manusia menyembah Allah Yang Maha Esa. Beliau tetap sabar dan gigih walau menghadapi ejekan dan penolakan.
 
-- **Gua Hira** — Nabi Muhammad saw. menerima wahyu pertama di Gua Hira.
-- **Jibril** — Malaikat yang menyampaikan wahyu pertama adalah Jibril.
-- **40 tahun** — Usia Nabi Muhammad saw. ketika menerima wahyu pertama sekitar 40 tahun.
-- **QS. Al-'Alaq ayat 1–5** — Wahyu pertama yang diterima Nabi Muhammad saw. adalah QS. Al-'Alaq ayat 1–5.
-- **sembunyi-sembunyi kepada orang terdekat** — Dakwah Nabi Muhammad saw. pada awalnya dilakukan secara sembunyi-sembunyi kepada orang terdekat.
+### Apa itu mukjizat?
 
-**Ayo praktik:** Ceritakan satu hal yang kamu pelajari hari ini dengan bahasamu sendiri.
+Mukjizat adalah perkara luar biasa yang Allah karuniakan sebagai tanda kenabian atau kerasulan. Al-Qur’an adalah mukjizat utama Nabi Muhammad saw. dan menjadi petunjuk. Buku juga membahas Isra dan Mikraj serta peristiwa bulan terbelah. Isra adalah perjalanan malam dari Masjidilharam ke Masjidilaqsa. Mikraj adalah perjalanan naik ke langit. Q.S. Al-Qamar 54:1 menyebut bulan terbelah.
+
+**Ayo cerita ulang.** Susun kartu Hira, Al-‘Alaq, Khadijah, Al-Muddassir, dakwah kepada orang terdekat, dan Bukit Safa. Ceritakan siapa yang terlibat dan apa yang terjadi. Sebutkan satu contoh sabar dan satu contoh percaya diri di kelas.
 
 ---
 
 ## MOD-02 — K03-PAI-B10-MOD-02
 
-### Belajar lewat contoh
+### Bantu Dita menyusun cerita
 
-Bayangkan kamu sedang berdiskusi dengan teman tentang nabi muhammad saw. rasulku. Kalian saling bertanya, mendengarkan, dan memberi contoh yang baik.
+Dita mulai dengan dua tempat. **Gua Hira** adalah tempat Nabi Muhammad saw. berkhalwat, yaitu menyendiri untuk beribadah. Saat beliau berusia sekitar 40 tahun, Jibril menyampaikan lima ayat awal **Al-‘Alaq** di sana. Wahyu pertama dimulai dengan perintah membaca. Setelah pulang, beliau diselimuti dan ditenangkan oleh Khadijah. Pada kartu berikutnya, Dita menulis **Al-Muddassir 1–7**. Dalam urutan yang dipelajari di bab ini, ayat tersebut datang sesudah wahyu pertama dan memuat perintah bangkit serta memberi peringatan.
 
-- **Khadijah r.a.** — Istri Nabi yang pertama beriman kepada beliau adalah Khadijah r.a..
-- **Abu Bakar ash-Shiddiq r.a.** — Sahabat laki-laki dewasa yang termasuk pemeluk Islam awal adalah Abu Bakar ash-Shiddiq r.a..
-- **nabi dan rasul sebagai bukti kerasulan** — Mukjizat adalah kejadian luar biasa yang Allah berikan kepada nabi dan rasul sebagai bukti kerasulan.
-- **Al-Qur'an** — Mukjizat terbesar Nabi Muhammad saw. adalah Al-Qur'an.
-- **jujur, amanah, dan penyayang** — Sikap meneladani Rasulullah adalah jujur, amanah, dan penyayang.
+**Bukit Safa** mengingatkan Dita pada dakwah terbuka. Sebelumnya, Nabi menyampaikan Islam kepada orang-orang terdekat secara sembunyi-sembunyi. Khadijah, Abu Bakar, dan Ali bin Abi Talib termasuk pemeluk Islam awal. Di Bukit Safa, Nabi menyampaikan seruan kepada kaum Quraisy. Jangkauan dakwah bertambah luas. Nabi tetap mengajak manusia menyembah Allah Yang Maha Esa dan terus berdakwah dengan sabar meski diejek.
 
-**Ayo coba:** Pilih dua hal dari materi ini, lalu jelaskan manfaat atau contohnya kepada orang tua.
+Dita membuat kartu terpisah untuk **mukjizat**. Mukjizat adalah perkara luar biasa yang dikaruniakan Allah sebagai tanda kenabian atau kerasulan. Mukjizat utama Nabi Muhammad saw. adalah Al-Qur’an, wahyu yang menjadi petunjuk. Contoh lain dalam buku ialah bulan terbelah, disebut dalam Q.S. Al-Qamar 54:1, dan Isra serta Mikraj. Isra ialah perjalanan malam dari Masjidilharam ke Masjidilaqsa. Mikraj ialah perjalanan naik ke langit.
+
+**Ayo main peran.** Jadilah pemandu yang menjelaskan urutan wahyu dan dakwah kepada teman. Sebutkan siapa yang membantu Nabi setelah beliau pulang dari Hira. Ceritakan pula satu mukjizat. Saat teman memberi masukan, dengarkan dengan tenang, lalu coba jelaskan lagi dengan percaya diri.
+
+---
+
+Acuan: [buku siswa Bab X](https://www.belajarpai.com/wp-content/uploads/2023/09/BAB-X_Nabi-Muhammad-saw.-Rasulku_BS-3.pdf), [panduan guru Bab X](https://www.belajarpai.com/wp-content/uploads/2023/09/BUKU-GURU-PAI-KELAS-III.pdf), [Q.S. Al-‘Alaq 96:1–5](https://quran.com/96/1-5), [Q.S. Al-Muddassir 74:1–7](https://quran.com/74/1-7), [Q.S. Al-Isra’ 17:1](https://quran.com/17/1), [Q.S. Al-Qamar 54:1](https://quran.com/54/1), dan Sahih al-Bukhari tentang [awal wahyu](https://sunnah.com/bukhari:3), [turunnya Al-Muddassir](https://sunnah.com/bukhari:4) serta [seruan di Safa](https://sunnah.com/bukhari:4770).

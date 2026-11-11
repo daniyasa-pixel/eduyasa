@@ -14,7 +14,7 @@ Buka Surah Al-'Alaq, surah ke-96. Lima ayat pertamanya adalah wahyu pertama yang
 
 ### Kapan bunyi huruf memantul?
 
-Lima huruf qalqalah ialah **ق ط ب ج د**. Jika salah satunya bersukun atau mati karena berhenti, bunyinya dipantulkan tanpa menambah vokal baru. Pada **اِقْرَأْ** (ayat 1 dan 3), qaf sudah bersukun. Pantulannya ringan, disebut **sugra**. Pada **خَلَقَ** di akhir ayat 1, qaf mati saat pembaca berhenti. Pantulannya lebih jelas, disebut **kubra**. Dengarkan kedua contoh dari guru.
+Lima huruf qalqalah ialah **<span lang="ar" dir="rtl">ق ط ب ج د</span>**. Jika salah satunya bersukun atau mati karena berhenti, bunyinya dipantulkan tanpa menambah vokal baru. Pada **<span lang="ar" dir="rtl">اِقْرَأْ</span>** (ayat 1 dan 3), qaf sudah bersukun. Pantulannya ringan, disebut **sugra**. Pada **<span lang="ar" dir="rtl">خَلَقَ</span>** di akhir ayat 1, qaf mati saat pembaca berhenti. Pantulannya lebih jelas, disebut **kubra**. Dengarkan kedua contoh dari guru.
 
 ### Coba sendiri
 
@@ -32,7 +32,7 @@ Ia menyiapkan lima kartu makna untuk membantu hafalannya. Kartu pertama menginga
 
 ### Dua cara menemukan qalqalah
 
-Aisyah menandai qaf pada **اِقْرَأْ**. Qaf termasuk kelompok **ق ط ب ج د** dan sudah bersukun, jadi ia membaca dengan pantulan ringan (**sugra**). Ia lalu berhenti di akhir ayat 1, pada **خَلَقَ**. Qaf menjadi mati karena berhenti, sehingga pantulannya lebih jelas (**kubra**). Ia meminta guru menyimak agar pantulannya jelas tanpa menambah vokal.
+Aisyah menandai qaf pada **<span lang="ar" dir="rtl">اِقْرَأْ</span>**. Qaf termasuk kelompok **<span lang="ar" dir="rtl">ق ط ب ج د</span>** dan sudah bersukun, jadi ia membaca dengan pantulan ringan (**sugra**). Ia lalu berhenti di akhir ayat 1, pada **<span lang="ar" dir="rtl">خَلَقَ</span>**. Qaf menjadi mati karena berhenti, sehingga pantulannya lebih jelas (**kubra**). Ia meminta guru menyimak agar pantulannya jelas tanpa menambah vokal.
 
 ### Latihan bersama teman
 

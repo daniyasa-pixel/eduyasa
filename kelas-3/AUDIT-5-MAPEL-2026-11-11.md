@@ -8,7 +8,7 @@
 |---|---:|---:|---|---|---|
 | IPAS | 8 | 560 | Pola berulang, opsi ambigu, gambar membocorkan definisi, penyederhanaan konsep diperbaiki | 560 diperiksa; 546 diubah; 16 modul dan media delapan bab diselaraskan | Putaran isi/media selesai; belum konversi atau uji siswa |
 | ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Belum | Variasi kompetensi bahasa, stimulus gambar, audio TTS dan uji WebView |
-| PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; Bab 1–9 diperiksa per butir dan 18 modul diselaraskan | Bab 10 dan pratinjau HP Bab 1, 6, dan 8 |
+| PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; 300 soal diperiksa per butir; 293 diubah; 20 modul diselaraskan | Isi selesai; cuplikan Arab ditinjau pada 390 px; uji browser HP/WebView dan pelafalan di tahap aplikasi |
 | PJOK | 8 | 360 | Soal berulang; ilustrasi hanya simbol; berkas soal lama dengan ID lain masih ada | Belum | Revisi teknik gerak dan keselamatan, ilustrasi, pilih bank resmi, modul belum ada |
 | SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik; bab internal belum diverifikasi terhadap buku | Belum | Soal pengamatan visual, distraktor, ilustrasi, verifikasi bab resmi |
 
@@ -190,3 +190,13 @@ penyalinan, pelafalan, dan disiplin. Semua ID tetap. Validator kanonis:
 Cakupan: rawatib qabliyah dan ba'diyah, jenis anjuran, hikmah, dan praktik.
 ID tetap. Validator kanonis: 1.945 soal, 0 kesalahan struktur. Kumulatif
 830 soal diperiksa; sisa 1.115 pada 24 bab atau unit. Lanjut PAI Bab 10.
+
+### Kelanjutan: PAI Bab 10 — audit isi PAI selesai
+
+30 soal dan dua modul direvisi berdasarkan buku siswa, panduan guru, serta
+ayat dan hadis tentang wahyu dan dakwah. Cakupan: Gua Hira, Khadijah, dua
+wahyu awal, tahap dakwah, mukjizat, dan teladan. Total PAI: 300 soal dan 20
+modul, seluruh ID tetap. Delapan cuplikan Arab Bab 1, 6, dan 8 ditinjau pada
+lebar 390 px lewat render luring; uji browser HP dan WebView masih tertunda.
+Validator kanonis: 1.945 soal, 0 kesalahan struktur. Kumulatif audit isi
+860 soal; sisa 1.085 pada 23 bab/unit. Lanjut Bahasa Inggris Unit 1.

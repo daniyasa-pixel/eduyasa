@@ -5,14 +5,14 @@
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
-| PAI | Bab 1–9: 263 butir berubah dan 18 modul direvisi | 270/300 diperiksa; pratinjau HP teks Arab Bab 1, 6, dan 8 tertunda | 30 soal/1 bab, serta pratinjau HP Bab 1, 6, dan 8 |
+| PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **830/1.945**. Jumlah diubah: **809**.
-Sisa audit isi: **1.115 soal pada 24 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
-24 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **860/1.945**. Jumlah diubah: **839**.
+Sisa audit isi: **1.085 soal pada 23 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
+23 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -270,7 +270,7 @@ belum dipenuhi dan tidak diklaim sudah dilakukan. Tidak ada JSON/rilis aplikasi.
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS dan PAI Bab 1–9. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
+Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS dan seluruh sepuluh bab PAI. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
 Dua belas SVG Bab 1 dirender pada Chromium dan diperiksa batas teksnya;
@@ -336,9 +336,9 @@ Pemeriksaan: 30 stem unik, empat opsi berbeda, kunci cocok, pembahasan ada.
 
 ## Posisi lanjut yang tepat
 
-Uji pratinjau HP PAI Bab 1 saat browser tersedia dan lanjutkan audit isi PAI
-Bab 10, lalu ENG, PJOK, dan Seni Rupa. Pertahankan Markdown dan tunda
-konversi JSON serta aktivasi aplikasi. Jangan ubah BIN, MTK, atau PKN.
+Lanjutkan audit isi Bahasa Inggris Unit 1–10, lalu PJOK dan Seni Rupa.
+Pertahankan Markdown. Konversi JSON, aktivasi, dan uji di aplikasi dilakukan
+pada tahap berikutnya. Jangan ubah BIN, MTK, atau PKN.
 
 ## PAI Bab 6 — Senangnya Belajar Hadis
 
@@ -397,3 +397,26 @@ Keutamaan dua rakaat qabliyah Subuh merujuk Sahih Muslim 725a. Buku siswa,
 panduan guru, dan rujukan hadis tercantum pada modul. Tidak ada aset gambar
 atau audio terpisah. Seluruh ID tetap. Validator: 1.945 soal, 0 kesalahan
 struktur. Titik lanjut: PAI Bab 10.
+
+## PAI Bab 10 dan penutupan audit isi PAI
+
+Semua 30 soal diperiksa dan ditulis ulang. Kedua modul mencakup berkhalwat,
+wahyu pertama Al-‘Alaq 1–5, wahyu berikutnya Al-Muddassir 1–7 dalam urutan
+buku, dukungan Khadijah, perubahan jangkauan dakwah hingga seruan di Safa,
+mukjizat, serta teladan sabar, gigih, dan percaya diri. Rujukan buku siswa,
+panduan guru, ayat, dan hadis awal wahyu serta seruan di Safa tertaut pada
+modul. Seluruh ID tetap. Tidak ada media terpisah pada Bab 8–10.
+
+PAI: 300/300 soal diperiksa secara isi, 293 berubah, 20 modul diselaraskan.
+Semua 300 ID soal dan 20 ID modul dibandingkan dengan checkpoint awal dan
+tetap sama. Validator kanonis: 1.945 soal, 0 kesalahan struktur.
+
+Pratinjau sumber Arab Bab 1, 6, dan 8: delapan cuplikan unik dirender RTL
+dengan Noto Naskh Arabic dan Pillow/RAQM pada bidang 390 piksel, diperiksa
+batasnya, dan ditinjau visual untuk sambungan huruf, harakat, serta
+pembungkusan baris hadis. Bab 1 diberi penanda bahasa dan arah baca. Chromium
+masih gagal membuat soket. Uji tampilan browser HP, teks Arab campuran di
+layar soal, WebView, dan pelafalan masih perlu tahap aplikasi.
+
+Kumulatif audit isi: 860/1.945 soal. Sisa 1.085 soal pada 23 bab atau unit.
+Titik lanjut: Bahasa Inggris Unit 1.
