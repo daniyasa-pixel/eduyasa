@@ -1,6 +1,6 @@
 # PAI Kelas 3 — Bab 4: Aku Bangga Mampu Berpuasa
 
-## MOD-01 — PAI-B04-MOD-01
+## MOD-01 — K03-PAI-B04-MOD-01
 
 ### Yuk, pahami!
 
@@ -16,7 +16,7 @@ Aku Bangga Mampu Berpuasa mengajak kita memahami ajaran Islam dan menerapkannya 
 
 ---
 
-## MOD-02 — PAI-B04-MOD-02
+## MOD-02 — K03-PAI-B04-MOD-02
 
 ### Belajar lewat contoh
 

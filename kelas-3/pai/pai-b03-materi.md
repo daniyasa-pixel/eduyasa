@@ -1,6 +1,6 @@
 # PAI Kelas 3 — Bab 3: Perilaku Terpuji Adalah Kepribadianku
 
-## MOD-01 — PAI-B03-MOD-01
+## MOD-01 — K03-PAI-B03-MOD-01
 
 ### Yuk, pahami!
 
@@ -16,7 +16,7 @@ Perilaku Terpuji Adalah Kepribadianku mengajak kita memahami ajaran Islam dan me
 
 ---
 
-## MOD-02 — PAI-B03-MOD-02
+## MOD-02 — K03-PAI-B03-MOD-02
 
 ### Belajar lewat contoh
 

@@ -1,6 +1,6 @@
 # PAI Kelas 3 — Bab 7: Ayo Beriman Kepada Kitab-Kitab Allah Swt.
 
-## MOD-01 — PAI-B07-MOD-01
+## MOD-01 — K03-PAI-B07-MOD-01
 
 ### Yuk, pahami!
 
@@ -16,7 +16,7 @@ Ayo Beriman Kepada Kitab-Kitab Allah Swt. mengajak kita memahami ajaran Islam da
 
 ---
 
-## MOD-02 — PAI-B07-MOD-02
+## MOD-02 — K03-PAI-B07-MOD-02
 
 ### Belajar lewat contoh
 

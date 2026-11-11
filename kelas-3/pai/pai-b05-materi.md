@@ -1,6 +1,6 @@
 # PAI Kelas 3 — Bab 5: Aku Suka Belajar Sejarah Islam
 
-## MOD-01 — PAI-B05-MOD-01
+## MOD-01 — K03-PAI-B05-MOD-01
 
 ### Yuk, pahami!
 
@@ -16,7 +16,7 @@ Aku Suka Belajar Sejarah Islam mengajak kita memahami ajaran Islam dan menerapka
 
 ---
 
-## MOD-02 — PAI-B05-MOD-02
+## MOD-02 — K03-PAI-B05-MOD-02
 
 ### Belajar lewat contoh
 

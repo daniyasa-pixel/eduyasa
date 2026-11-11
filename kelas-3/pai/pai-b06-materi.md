@@ -1,6 +1,6 @@
 # PAI Kelas 3 — Bab 6: Senangnya Belajar Hadis
 
-## MOD-01 — PAI-B06-MOD-01
+## MOD-01 — K03-PAI-B06-MOD-01
 
 ### Yuk, pahami!
 
@@ -16,7 +16,7 @@ Senangnya Belajar Hadis mengajak kita memahami ajaran Islam dan menerapkannya de
 
 ---
 
-## MOD-02 — PAI-B06-MOD-02
+## MOD-02 — K03-PAI-B06-MOD-02
 
 ### Belajar lewat contoh
 

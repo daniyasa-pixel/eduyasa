@@ -1,6 +1,6 @@
 # PAI Kelas 3 — Bab 10: Nabi Muhammad saw. Rasulku
 
-## MOD-01 — PAI-B10-MOD-01
+## MOD-01 — K03-PAI-B10-MOD-01
 
 ### Yuk, pahami!
 
@@ -16,7 +16,7 @@ Nabi Muhammad saw. Rasulku mengajak kita memahami ajaran Islam dan menerapkannya
 
 ---
 
-## MOD-02 — PAI-B10-MOD-02
+## MOD-02 — K03-PAI-B10-MOD-02
 
 ### Belajar lewat contoh
 

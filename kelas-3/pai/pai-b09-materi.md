@@ -1,6 +1,6 @@
 # PAI Kelas 3 — Bab 9: Senangnya Salat Rawatib
 
-## MOD-01 — PAI-B09-MOD-01
+## MOD-01 — K03-PAI-B09-MOD-01
 
 ### Yuk, pahami!
 
@@ -16,7 +16,7 @@ Senangnya Salat Rawatib mengajak kita memahami ajaran Islam dan menerapkannya de
 
 ---
 
-## MOD-02 — PAI-B09-MOD-02
+## MOD-02 — K03-PAI-B09-MOD-02
 
 ### Belajar lewat contoh
 

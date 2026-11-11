@@ -1,6 +1,6 @@
 # PAI Kelas 3 — Bab 1: Asyiknya Belajar Surah Al-'Alaq
 
-## MOD-01 — PAI-B01-MOD-01
+## MOD-01 — K03-PAI-B01-MOD-01
 
 ### Yuk, pahami!
 
@@ -16,7 +16,7 @@ Asyiknya Belajar Surah Al-'Alaq mengajak kita memahami ajaran Islam dan menerapk
 
 ---
 
-## MOD-02 — PAI-B01-MOD-02
+## MOD-02 — K03-PAI-B01-MOD-02
 
 ### Belajar lewat contoh
 

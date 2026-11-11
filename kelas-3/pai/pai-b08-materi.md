@@ -1,6 +1,6 @@
 # PAI Kelas 3 — Bab 8: Aku Senang Berkalimah Tayyibah
 
-## MOD-01 — PAI-B08-MOD-01
+## MOD-01 — K03-PAI-B08-MOD-01
 
 ### Yuk, pahami!
 
@@ -16,7 +16,7 @@ Aku Senang Berkalimah Tayyibah mengajak kita memahami ajaran Islam dan menerapka
 
 ---
 
-## MOD-02 — PAI-B08-MOD-02
+## MOD-02 — K03-PAI-B08-MOD-02
 
 ### Belajar lewat contoh
 
