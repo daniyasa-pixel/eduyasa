@@ -30,12 +30,12 @@ Seluruh operasi, nilai, rumus, pecahan, satuan matematis, simbol perbandingan, d
 Contoh sumber Markdown (bukan JSON):
 
 - Inline: `$28+15=43$`
-- Perkalian: `$4\\times5=20$`
-- Pembagian: `$20\\div4=5$`
-- Pecahan: `$\\frac{1}{2}$`
-- Satuan: `$2\\ \\text{m}=200\\ \\text{cm}$`
-- Sudut: `$90^{\\circ}$`
-- Blok: `$$\\frac{1}{2}+\\frac{1}{4}=\\frac{3}{4}$$`
+- Perkalian: `$4\times5=20$`
+- Pembagian: `$20\div4=5$`
+- Pecahan: `$\frac{1}{2}$`
+- Satuan: `$2\ \text{m}=200\ \text{cm}$`
+- Sudut: `$90^{\circ}$`
+- Blok: `$$\frac{1}{2}+\frac{1}{4}=\frac{3}{4}$$`
 
 **Jangan menghapus atau mengganti delimiter `$...$`, `$$...$$`, tanda backslash, `\text{}`, kurung kurawal, atau simbol saat konversi.** MathJax di aplikasi akan menampilkannya; Codex wajib menangani escape backslash di JSON.
 

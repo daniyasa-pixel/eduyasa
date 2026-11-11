@@ -16,9 +16,9 @@ Untuk N = 01, 02, 03, 04, 05:
 
 ## Standar wajib MathJax (prioritas tinggi)
 
-Sumber sudah menggunakan delimiter inline `$...$` atau display `$$...$$` dengan LaTeX seperti `\\frac`, `\\times`, `\\div`, `\\text{}`, `\\square`, `\\circ`. Biarkan rumus tetap utuh. Dalam JSON, escape backslash sesuai sintaks JSON agar setelah parse muncul kembali sebagai teks LaTeX semula; jangan double-escape teks yang sudah diparse.
+Sumber sudah menggunakan delimiter inline `$...$` atau display `$$...$$` dengan LaTeX seperti `\frac`, `\times`, `\div`, `\text{}`, `\square`, `\circ`. Biarkan rumus tetap utuh. Dalam JSON, escape backslash sesuai sintaks JSON agar setelah parse muncul kembali sebagai teks LaTeX semula; jangan double-escape teks yang sudah diparse.
 
-Contoh dalam Markdown `$4\\times5=20$` harus diterima MathJax setelah parsing JSON dalam bentuk yang **identik**, bukan berubah menjadi tab (`\\t`) atau hilang garis miringnya.
+Contoh dalam Markdown `$4\times5=20$` harus diterima MathJax setelah parsing JSON dalam bentuk yang **identik**, bukan berubah menjadi tab (`\t`) atau hilang garis miringnya.
 
 Pasang/cek MathJax pada **materi, stem pertanyaan, semua pilihan, kunci, dan pembahasan**, termasuk bila konten dimasukkan dinamis. Ikuti `docs/CONTENT_GUIDE.md`.
 

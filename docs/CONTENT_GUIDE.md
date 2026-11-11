@@ -46,11 +46,11 @@ soal dan opsi jawaban diacak. Jumlah ini berbeda dari bank 70 soal per bab.
 
 **Wajib** menggunakan teks LaTeX/MathJax untuk notasi matematika, bukan teks operasi biasa. Ini adalah standar yang sama seperti Matematika Kelas 6.
 
-- Inline: `$28+15=43$`, `$4\\times5=20$`, `$20\\div4=5$`, `$\\frac{3}{5}$`, `$90^{\\circ}$`.
-- Display (bila rumus perlu berdiri sendiri): `$$\\frac{1}{2}+\\frac{1}{4}=\\frac{3}{4}$$`.
-- Satuan dalam ekspresi: `$2\\ \\text{m}=200\\ \\text{cm}$`, `$1\\ \\text{kg}=1000\\ \\text{g}$`.
+- Inline: `$28+15=43$`, `$4\times5=20$`, `$20\div4=5$`, `$\frac{3}{5}$`, `$90^{\circ}$`.
+- Display (bila rumus perlu berdiri sendiri): `$$\frac{1}{2}+\frac{1}{4}=\frac{3}{4}$$`.
+- Satuan dalam ekspresi: `$2\ \text{m}=200\ \text{cm}$`, `$1\ \text{kg}=1000\ \text{g}$`.
 - Terapkan konsisten pada **modul, pertanyaan, opsi, kunci jawaban, pembahasan**, dan contoh.
-- Sumber Markdown **menyimpan backslash LaTeX tunggal** seperti `\\frac`. Jangan mengubahnya menjadi JSON pada tahap produksi. Saat Codex mengonversi, escape backslash sesuai aturan JSON (contoh `\\frac` di Markdown menjadi `\\\\frac` di teks sumber JSON). Setelah JSON diparse harus kembali identik.
+- Sumber Markdown **menyimpan backslash LaTeX tunggal** seperti `\frac`. Jangan mengubahnya menjadi JSON pada tahap produksi. Saat Codex mengonversi, escape backslash sesuai aturan JSON (contoh `\frac` di Markdown menjadi `\\frac` di teks sumber JSON). Setelah JSON diparse harus kembali identik.
 - Jangan hilangkan delimiter `$...$` dan `$$...$$`, kurung kurawal, atau perintah LaTeX. Pastikan tidak ada ekspresi templat `${...}` tersisa.
 - Teks di dalam gambar SVG adalah label gambar, sedangkan semua rumus yang muncul di **konten teks** disimpan sebagai MathJax.
 
