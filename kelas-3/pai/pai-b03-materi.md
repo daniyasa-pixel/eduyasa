@@ -2,30 +2,33 @@
 
 ## MOD-01 — K03-PAI-B03-MOD-01
 
-### Yuk, pahami!
+### Berbakti di rumah dan di sekolah
 
-Perilaku Terpuji Adalah Kepribadianku mengajak kita memahami ajaran Islam dan menerapkannya dengan baik dalam kehidupan sehari-hari. Bacalah setiap poin perlahan, lalu diskusikan dengan guru atau orang tua.
+Dalam Islam, kita berbuat baik kepada orang tua, menghargai guru, dan menghormati orang lain. Berbakti kepada orang tua dapat dilakukan setiap hari. Jawab panggilan mereka dengan santun, lakukan pekerjaan rumah yang sesuai kemampuan, doakan kebaikan bagi mereka, dan beri kesempatan mereka beristirahat saat sakit. Jika perlu menyampaikan pendapat yang berbeda, pilih kata yang lembut. Kamu bisa menolak ajakan berbohong dengan tetap sopan.
 
-- **membantu mereka dengan sopan** — Contoh berbakti kepada orang tua adalah membantu mereka dengan sopan.
-- **mendengarkan dengan tertib** — Saat guru menjelaskan pelajaran, sikap yang baik adalah mendengarkan dengan tertib.
-- **menghargai dan berbicara santun** — Ketika berbeda pendapat dengan teman, kita sebaiknya menghargai dan berbicara santun.
-- **membantu sesuai kemampuan** — Jika orang tua sedang sakit, tindakan terpuji adalah membantu sesuai kemampuan.
-- **meminta maaf dan memperbaiki sikap** — Jika berbuat salah kepada guru, kita sebaiknya meminta maaf dan memperbaiki sikap.
+Berbakti kepada guru tampak ketika kamu menyimak penjelasan, menunggu giliran bertanya, dan memakai saran guru untuk memperbaiki tugas. Jika melakukan kesalahan, akui, minta maaf, lalu perbaiki yang bisa kamu perbaiki. Kalau arahan belum jelas, tanyakan bagian yang membingungkan.
 
-**Ayo praktik:** Ceritakan satu hal yang kamu pelajari hari ini dengan bahasamu sendiri.
+### Menghormati siapa pun
+
+Dengarkan orang sampai selesai bicara. Minta izin sebelum memakai barangnya. Jika teman kesulitan, tanyakan bantuan yang ia perlukan. Kalau pendapat berbeda, dengarkan alasan satu sama lain dan cari kesepakatan. Sikap ini berlaku kepada teman lama maupun orang yang baru kamu kenal. Dengan saling menghormati, orang lebih mudah belajar, bekerja sama, dan menjaga hubungan baik.
+
+**Ayo coba:** Praktikkan cara meminta izin meminjam alat tulis. Lalu ceritakan satu kebiasaan baik yang akan kamu lakukan di rumah dan satu di sekolah.
 
 ---
 
 ## MOD-02 — K03-PAI-B03-MOD-02
 
-### Belajar lewat contoh
+### Satu hari bersama Lina
 
-Bayangkan kamu sedang berdiskusi dengan teman tentang perilaku terpuji adalah kepribadianku. Kalian saling bertanya, mendengarkan, dan memberi contoh yang baik.
+Pagi ini ibu Lina kurang sehat. Lina menawarkan air dan merapikan perlengkapan makannya sendiri agar ibu bisa beristirahat. Saat pergi sekolah, ia mendoakan ibu. Membantu sesuai kemampuan, berbicara lembut, dan mendoakan orang tua adalah cara berbakti. Jika diajak berkata tidak jujur, Lina dapat memilih berkata jujur sambil menolak ajakan itu dengan sopan.
 
-- **perbedaan suku dan keadaan** — Menghormati orang lain tidak bergantung pada perbedaan suku dan keadaan.
-- **tidak memotong pembicaraan** — Saat teman berbicara, kita menunjukkan hormat dengan tidak memotong pembicaraan.
-- **mendoakan kebaikan mereka** — Bakti kepada orang tua dapat ditunjukkan dengan mendoakan kebaikan mereka.
-- **membantu tanpa merendahkan** — Ketika teman kesulitan belajar, kita dapat membantu tanpa merendahkan.
-- **membangun hubungan baik** — Manfaat perilaku terpuji adalah membangun hubungan baik.
+Di sekolah, Lina belum paham satu langkah yang dijelaskan guru. Ia menunggu giliran, lalu bertanya dengan santun. Ketika guru menunjukkan kesalahan pada tugasnya, ia berterima kasih dan memperbaikinya. Kalau pernah menyela penjelasan, Lina dapat meminta maaf dan kembali menyimak. Itulah cara menghargai bimbingan guru.
 
-**Ayo coba:** Pilih dua hal dari materi ini, lalu jelaskan manfaat atau contohnya kepada orang tua.
+Saat kerja kelompok, Lina dan teman baru berbeda pendapat. Mereka bergantian menjelaskan alasannya. Lina meminta izin sebelum memakai penggaris milik temannya. Saat melihat seorang teman kesulitan, ia menawarkan contoh dan memberi kesempatan temannya mencoba sendiri. Dengan menghormati giliran, barang, dan pendapat setiap orang, kelompok menjadi lebih mudah bekerja sama.
+
+**Ayo coba:** Peragakan dua cara menanggapi pendapat teman. Pilih cara yang membuat teman merasa didengarkan. Lalu ceritakan pengalamanmu membantu orang tua atau mengikuti bimbingan guru.
+
+### Rujukan untuk kedua versi
+
+- [Buku siswa PAI dan Budi Pekerti SD/MI Kelas III, Bab III](https://www.belajarpai.com/wp-content/uploads/2023/09/BAB-III_Perilaku-Terpuji-adalah-Kepribadianku_BS-3.pdf)
+- [Panduan guru PAI dan Budi Pekerti SD/MI Kelas III, Bab III](https://static.sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/Islam_BG_KLS_III.pdf)

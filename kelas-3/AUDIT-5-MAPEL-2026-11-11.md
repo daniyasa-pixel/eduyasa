@@ -8,7 +8,7 @@
 |---|---:|---:|---|---|---|
 | IPAS | 8 | 560 | Pola berulang, opsi ambigu, gambar membocorkan definisi, penyederhanaan konsep diperbaiki | 560 diperiksa; 546 diubah; 16 modul dan media delapan bab diselaraskan | Putaran isi/media selesai; belum konversi atau uji siswa |
 | ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Belum | Variasi kompetensi bahasa, stimulus gambar, audio TTS dan uji WebView |
-| PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; Bab 1–2 diperiksa per butir dan empat modul diselaraskan | Bab 3–10 dan pratinjau HP Bab 1 |
+| PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; Bab 1–3 diperiksa per butir dan enam modul diselaraskan | Bab 4–10 dan pratinjau HP Bab 1 |
 | PJOK | 8 | 360 | Soal berulang; ilustrasi hanya simbol; berkas soal lama dengan ID lain masih ada | Belum | Revisi teknik gerak dan keselamatan, ilustrasi, pilih bank resmi, modul belum ada |
 | SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik; bab internal belum diverifikasi terhadap buku | Belum | Soal pengamatan visual, distraktor, ilustrasi, verifikasi bab resmi |
 
@@ -139,3 +139,9 @@ jaiz, pasangan sifat wajib dan mustahil, serta penghayatan Al-Wahhab dan
 Al-Kabir diperiksa terhadap Bab II buku siswa dan panduan guru. ID dan jumlah
 tetap. Kumulatif 620 diperiksa; 1.325 soal pada 31 bab atau unit tersisa.
 Lanjut PAI Bab 3. Pratinjau HP Bab 1 masih tertunda.
+
+### Kelanjutan: PAI Bab 3
+
+30 soal diperiksa dan ditulis ulang. Kedua modul mencakup bakti kepada orang
+tua dan guru serta menghormati orang lain. Semua ID tetap. Kumulatif 650
+soal diperiksa; 1.295 soal pada 30 bab atau unit tersisa. Lanjut PAI Bab 4.

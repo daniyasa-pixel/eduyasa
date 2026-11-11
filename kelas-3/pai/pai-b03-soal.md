@@ -1,503 +1,483 @@
 # PAI Kelas 3 — Bab 3: Perilaku Terpuji Adalah Kepribadianku
 
-**STATUS DRAF:** 30 soal pilihan ganda. Ada pengulangan kompetensi antarpertanyaan; wajib revisi variasi dan audit agama sebelum rilis.
+**STATUS AUDIT ISI:** 30 soal diperiksa. Sumber Markdown untuk tahap revisi EDUYASA.
 
 ## Soal 1 — K03-PAI-B03-M01-001
 
-**Pertanyaan:** Contoh berbakti kepada orang tua adalah ....
+**Pertanyaan:** Ibu menata meja saat Adi selesai makan. Apa yang dapat Adi lakukan untuk meringankan pekerjaannya?
 
 **Pilihan jawaban:**
-- menolak nasihat baik
-- berbohong setiap hari
-- membantu mereka dengan sopan
-- membentak ketika diminta tolong
+- Menaruh piring di kursi kosong
+- Menyuruh adik membereskannya
+- Membawa piringnya ke tempat cuci
+- Memindahkan piring ke meja lain
 
-**Kunci Jawaban:** membantu mereka dengan sopan
+**Kunci Jawaban:** Membawa piringnya ke tempat cuci
 
-**Pembahasan:** Contoh berbakti kepada orang tua adalah membantu mereka dengan sopan.
+**Pembahasan:** Membereskan piring sendiri mengurangi pekerjaan ibu.
 
 ---
 
 ## Soal 2 — K03-PAI-B03-M01-002
 
-**Pertanyaan:** Saat guru menjelaskan pelajaran, sikap yang baik adalah ....
+**Pertanyaan:** Rara sedang bermain ketika ayah memintanya menutup pintu. Bagaimana ia menjawab dengan santun?
 
 **Pilihan jawaban:**
-- berteriak
-- mengganggu teman
-- meninggalkan kelas tanpa izin
-- mendengarkan dengan tertib
+- Baik, Yah. Rara tutup sekarang.
+- Ayah saja, Rara lagi main.
+- Sebentar! Jangan panggil terus.
+- Nanti juga ada yang menutup.
 
-**Kunci Jawaban:** mendengarkan dengan tertib
+**Kunci Jawaban:** Baik, Yah. Rara tutup sekarang.
 
-**Pembahasan:** Saat guru menjelaskan pelajaran, sikap yang baik adalah mendengarkan dengan tertib.
+**Pembahasan:** Jawaban Rara menghargai permintaan ayah dan disertai tindakan.
 
 ---
 
 ## Soal 3 — K03-PAI-B03-M01-003
 
-**Pertanyaan:** Ketika berbeda pendapat dengan teman, kita sebaiknya ....
+**Pertanyaan:** Ibu sedang beristirahat karena kurang sehat. Nisa ingin membantu. Apa yang bisa ia lakukan?
 
 **Pilihan jawaban:**
-- menghargai dan berbicara santun
-- menghina pendapatnya
-- memaksakan kehendak
-- memutus pertemanan
+- Menentukan sendiri obat yang harus diminum ibu
+- Membangunkan ibu untuk memilih permainan
+- Meminta ibu segera menyelesaikan pekerjaan rumah
+- Menawarkan mengambilkan air dan menjaga suasana tenang
 
-**Kunci Jawaban:** menghargai dan berbicara santun
+**Kunci Jawaban:** Menawarkan mengambilkan air dan menjaga suasana tenang
 
-**Pembahasan:** Ketika berbeda pendapat dengan teman, kita sebaiknya menghargai dan berbicara santun.
+**Pembahasan:** Bantuan sederhana dan suasana tenang memudahkan ibu beristirahat. Urusan obat perlu ditangani orang dewasa.
 
 ---
 
 ## Soal 4 — K03-PAI-B03-M01-004
 
-**Pertanyaan:** Jika orang tua sedang sakit, tindakan terpuji adalah ....
+**Pertanyaan:** Fikri tidak sengaja menumpahkan air setelah diperingatkan ayah. Bagaimana ia menunjukkan tanggung jawab?
 
 **Pilihan jawaban:**
-- mengejek
-- membantu sesuai kemampuan
-- membiarkan tanpa peduli
-- menambah pekerjaan mereka
+- Mengelap sedikit lalu menyalahkan adik
+- Mengakui kesalahan, meminta maaf, dan mengelap tumpahan
+- Mengganti topik agar ayah lupa
+- Meminta maaf dan meninggalkan lantai basah
 
-**Kunci Jawaban:** membantu sesuai kemampuan
+**Kunci Jawaban:** Mengakui kesalahan, meminta maaf, dan mengelap tumpahan
 
-**Pembahasan:** Jika orang tua sedang sakit, tindakan terpuji adalah membantu sesuai kemampuan.
+**Pembahasan:** Mengakui kesalahan dan mengelap tumpahan membantu memperbaiki akibatnya.
 
 ---
 
 ## Soal 5 — K03-PAI-B03-M01-005
 
-**Pertanyaan:** Jika berbuat salah kepada guru, kita sebaiknya ....
+**Pertanyaan:** Manakah contoh berbakti yang bisa Rina lakukan ketika sedang jauh dari orang tuanya?
 
 **Pilihan jawaban:**
-- mengulangi kesalahan
-- bersembunyi terus
-- meminta maaf dan memperbaiki sikap
-- menyalahkan teman
+- Mendoakan kebaikan bagi mereka dan menanyakan kabar
+- Menghubungi mereka hanya untuk meminta uang
+- Menunggu mereka menghubungi lebih dulu setiap kali
+- Mengabaikan pesan yang sudah ia baca
 
-**Kunci Jawaban:** meminta maaf dan memperbaiki sikap
+**Kunci Jawaban:** Mendoakan kebaikan bagi mereka dan menanyakan kabar
 
-**Pembahasan:** Jika berbuat salah kepada guru, kita sebaiknya meminta maaf dan memperbaiki sikap.
+**Pembahasan:** Doa dan perhatian dapat diberikan dari jauh.
 
 ---
 
 ## Soal 6 — K03-PAI-B03-M01-006
 
-**Pertanyaan:** Menghormati orang lain tidak bergantung pada ....
+**Pertanyaan:** Ayah meminta Ilham berhenti bermain karena sudah waktunya belajar. Ilham ingin menyimpan mainannya dulu. Kalimat mana yang sopan?
 
 **Pilihan jawaban:**
-- kekayaan semata
-- kesamaan hobi
-- usia yang sama
-- perbedaan suku dan keadaan
+- Pokoknya Ilham masih mau main.
+- Baik, Yah. Boleh Ilham rapikan mainannya dulu?
+- Ayah selalu mengganggu permainan Ilham.
+- Nanti saja, Ilham yang menentukan semuanya.
 
-**Kunci Jawaban:** perbedaan suku dan keadaan
+**Kunci Jawaban:** Baik, Yah. Boleh Ilham rapikan mainannya dulu?
 
-**Pembahasan:** Menghormati orang lain tidak bergantung pada perbedaan suku dan keadaan.
+**Pembahasan:** Ilham menanggapi ayah dengan baik dan menyampaikan maksudnya secara jelas.
 
 ---
 
 ## Soal 7 — K03-PAI-B03-M01-007
 
-**Pertanyaan:** Saat teman berbicara, kita menunjukkan hormat dengan ....
+**Pertanyaan:** Mila melihat nenek membawa beberapa barang ringan. Bagaimana Mila bisa membantu dengan menghargai nenek?
 
 **Pilihan jawaban:**
-- tidak memotong pembicaraan
-- menertawakan
-- menutup telinga
-- membentak
+- Mengambil semua barang dari tangan nenek tanpa bertanya
+- Meminta nenek segera meletakkan barangnya
+- Memanggil teman supaya melihat ia membantu
+- Menawarkan bantuan dan bertanya barang mana yang boleh dibawa
 
-**Kunci Jawaban:** tidak memotong pembicaraan
+**Kunci Jawaban:** Menawarkan bantuan dan bertanya barang mana yang boleh dibawa
 
-**Pembahasan:** Saat teman berbicara, kita menunjukkan hormat dengan tidak memotong pembicaraan.
+**Pembahasan:** Menawarkan bantuan memberi kesempatan kepada nenek untuk memilih.
 
 ---
 
 ## Soal 8 — K03-PAI-B03-M01-008
 
-**Pertanyaan:** Bakti kepada orang tua dapat ditunjukkan dengan ....
+**Pertanyaan:** Dua anak membantu di rumah. Riko merapikan buku yang dipakainya. Dina merapikan meja sambil mengejek adiknya. Apa yang perlu diperbaiki Dina?
 
 **Pilihan jawaban:**
-- berkata kasar
-- mendoakan kebaikan mereka
-- menuntut hadiah
-- mengabaikan pesan
+- Berhenti membantu agar tidak perlu bicara
+- Meminta adiknya menyelesaikan semua pekerjaan
+- Tetap membantu dan berbicara dengan santun
+- Merapikan meja hanya ketika dipuji
 
-**Kunci Jawaban:** mendoakan kebaikan mereka
+**Kunci Jawaban:** Tetap membantu dan berbicara dengan santun
 
-**Pembahasan:** Bakti kepada orang tua dapat ditunjukkan dengan mendoakan kebaikan mereka.
+**Pembahasan:** Sikap baik terlihat dari bantuan dan cara memperlakukan orang lain.
 
 ---
 
 ## Soal 9 — K03-PAI-B03-M01-009
 
-**Pertanyaan:** Ketika teman kesulitan belajar, kita dapat ....
+**Pertanyaan:** Kakak mengajak Bayu berbohong kepada ibu. Bagaimana Bayu menolak dengan tetap sopan?
 
 **Pilihan jawaban:**
-- menyembunyikan bukunya
-- menjauhi
-- membantu tanpa merendahkan
-- mengejek
+- Aku mau berkata jujur. Ayo kita ceritakan yang sebenarnya.
+- Aku ikut saja karena kamu kakakku.
+- Aku akan berbohong kalau kamu berjanji merahasiakannya.
+- Aku akan mengejekmu di depan ibu.
 
-**Kunci Jawaban:** membantu tanpa merendahkan
+**Kunci Jawaban:** Aku mau berkata jujur. Ayo kita ceritakan yang sebenarnya.
 
-**Pembahasan:** Ketika teman kesulitan belajar, kita dapat membantu tanpa merendahkan.
+**Pembahasan:** Bayu dapat menghargai kakaknya sambil tetap memilih berkata jujur.
 
 ---
 
 ## Soal 10 — K03-PAI-B03-M01-010
 
-**Pertanyaan:** Manfaat perilaku terpuji adalah ....
+**Pertanyaan:** Apa yang paling menunjukkan bahwa Rani menjadikan bakti sebagai kebiasaan?
 
 **Pilihan jawaban:**
-- menambah permusuhan
-- membuat orang takut
-- membenarkan kebohongan
-- membangun hubungan baik
+- Ia membantu sekali saat ada tamu
+- Ia merapikan perlengkapannya setiap hari meski tidak diingatkan
+- Ia hanya membantu jika diberi hadiah
+- Ia menunggu dipuji sebelum menyelesaikan tugas
 
-**Kunci Jawaban:** membangun hubungan baik
+**Kunci Jawaban:** Ia merapikan perlengkapannya setiap hari meski tidak diingatkan
 
-**Pembahasan:** Manfaat perilaku terpuji adalah membangun hubungan baik.
+**Pembahasan:** Kebiasaan terlihat dari tindakan baik yang dilakukan berulang kali.
 
 ---
 
 ## Soal 11 — K03-PAI-B03-M01-011
 
-**Pertanyaan:** Pilih jawaban yang tepat: contoh berbakti kepada orang tua adalah ....
+**Pertanyaan:** Saat guru menjelaskan, Dito belum paham langkah kedua. Kapan ia dapat bertanya dengan tertib?
 
 **Pilihan jawaban:**
-- membantu mereka dengan sopan
-- membentak ketika diminta tolong
-- menolak nasihat baik
-- berbohong setiap hari
+- Saat guru sedang menjelaskan kepada teman, dengan menyela
+- Saat teman menjawab, dengan berbicara lebih keras
+- Saat guru memberi kesempatan, setelah mengangkat tangan
+- Sesudah pulang, dengan mengirim pesan tanpa salam pada malam hari
 
-**Kunci Jawaban:** membantu mereka dengan sopan
+**Kunci Jawaban:** Saat guru memberi kesempatan, setelah mengangkat tangan
 
-**Pembahasan:** Contoh berbakti kepada orang tua adalah membantu mereka dengan sopan.
+**Pembahasan:** Mengikuti giliran bertanya membantu Dito dan teman-temannya tetap menyimak.
 
 ---
 
 ## Soal 12 — K03-PAI-B03-M01-012
 
-**Pertanyaan:** Pilih jawaban yang tepat: saat guru menjelaskan pelajaran, sikap yang baik adalah ....
+**Pertanyaan:** Guru mengoreksi tulisan Sari. Sikap apa yang menunjukkan bahwa Sari menghargai bimbingan guru?
 
 **Pilihan jawaban:**
-- meninggalkan kelas tanpa izin
-- mendengarkan dengan tertib
-- berteriak
-- mengganggu teman
+- Menutup catatan lalu menyalin pekerjaan teman
+- Menyembunyikan tulisan agar tidak diperiksa lagi
+- Menghapus catatan tanpa membaca isinya
+- Membaca catatan guru dan memperbaiki tulisannya
 
-**Kunci Jawaban:** mendengarkan dengan tertib
+**Kunci Jawaban:** Membaca catatan guru dan memperbaiki tulisannya
 
-**Pembahasan:** Saat guru menjelaskan pelajaran, sikap yang baik adalah mendengarkan dengan tertib.
+**Pembahasan:** Menggunakan masukan untuk belajar menunjukkan bahwa Sari menghargai bimbingan guru.
 
 ---
 
 ## Soal 13 — K03-PAI-B03-M01-013
 
-**Pertanyaan:** Pilih jawaban yang tepat: ketika berbeda pendapat dengan teman, kita sebaiknya ....
+**Pertanyaan:** Arman terlambat menyerahkan tugas. Apa yang sebaiknya ia katakan kepada guru?
 
 **Pilihan jawaban:**
-- memaksakan kehendak
-- memutus pertemanan
-- menghargai dan berbicara santun
-- menghina pendapatnya
+- Saya terlambat karena teman-teman juga begitu.
+- Maaf, Bu. Tugas saya terlambat. Boleh saya menyerahkannya sekarang?
+- Ibu seharusnya mengingatkan saya lagi.
+- Anggap saja saya sudah menyerahkannya kemarin.
 
-**Kunci Jawaban:** menghargai dan berbicara santun
+**Kunci Jawaban:** Maaf, Bu. Tugas saya terlambat. Boleh saya menyerahkannya sekarang?
 
-**Pembahasan:** Ketika berbeda pendapat dengan teman, kita sebaiknya menghargai dan berbicara santun.
+**Pembahasan:** Ucapan Arman mengakui kesalahan dan meminta izin memperbaikinya.
 
 ---
 
 ## Soal 14 — K03-PAI-B03-M01-014
 
-**Pertanyaan:** Pilih jawaban yang tepat: jika orang tua sedang sakit, tindakan terpuji adalah ....
+**Pertanyaan:** Lina merasa petunjuk guru berbeda dengan catatannya. Apa langkah pertama yang santun?
 
 **Pilihan jawaban:**
-- membiarkan tanpa peduli
-- menambah pekerjaan mereka
-- mengejek
-- membantu sesuai kemampuan
+- Menanyakan bagian yang berbeda dan mendengarkan penjelasannya
+- Mengubah petunjuk untuk semua teman tanpa bertanya
+- Mengumumkan bahwa guru pasti keliru
+- Meminta teman mengabaikan penjelasan guru
 
-**Kunci Jawaban:** membantu sesuai kemampuan
+**Kunci Jawaban:** Menanyakan bagian yang berbeda dan mendengarkan penjelasannya
 
-**Pembahasan:** Jika orang tua sedang sakit, tindakan terpuji adalah membantu sesuai kemampuan.
+**Pembahasan:** Bertanya dengan santun membantu Lina memeriksa pemahamannya.
 
 ---
 
 ## Soal 15 — K03-PAI-B03-M01-015
 
-**Pertanyaan:** Pilih jawaban yang tepat: jika berbuat salah kepada guru, kita sebaiknya ....
+**Pertanyaan:** Seorang guru membawa buku untuk dibagikan. Apa tawaran bantuan yang paling tepat?
 
 **Pilihan jawaban:**
-- meminta maaf dan memperbaiki sikap
-- menyalahkan teman
-- mengulangi kesalahan
-- bersembunyi terus
+- Bu, bukunya saya ambil semua saja sekarang.
+- Bu, saya bagikan kalau boleh memilih buku dulu.
+- Bu, suruh teman saya saja membagikannya.
+- Bu, apakah saya boleh membantu membagikan buku?
 
-**Kunci Jawaban:** meminta maaf dan memperbaiki sikap
+**Kunci Jawaban:** Bu, apakah saya boleh membantu membagikan buku?
 
-**Pembahasan:** Jika berbuat salah kepada guru, kita sebaiknya meminta maaf dan memperbaiki sikap.
+**Pembahasan:** Meminta izin membantu menjaga agar pembagian buku berjalan sesuai arahan guru.
 
 ---
 
 ## Soal 16 — K03-PAI-B03-M01-016
 
-**Pertanyaan:** Pilih jawaban yang tepat: menghormati orang lain tidak bergantung pada ....
+**Pertanyaan:** Guru sedang mendengarkan jawaban Andi. Rika punya jawaban berbeda. Apa yang sebaiknya Rika lakukan?
 
 **Pilihan jawaban:**
-- usia yang sama
-- perbedaan suku dan keadaan
-- kekayaan semata
-- kesamaan hobi
+- Langsung mengoreksi Andi saat ia bicara
+- Membisikkan bahwa jawaban Andi lucu
+- Menunggu giliran lalu menjelaskan jawabannya
+- Membuat suara agar guru beralih kepadanya
 
-**Kunci Jawaban:** perbedaan suku dan keadaan
+**Kunci Jawaban:** Menunggu giliran lalu menjelaskan jawabannya
 
-**Pembahasan:** Menghormati orang lain tidak bergantung pada perbedaan suku dan keadaan.
+**Pembahasan:** Menunggu giliran menghormati Andi dan guru.
 
 ---
 
 ## Soal 17 — K03-PAI-B03-M01-017
 
-**Pertanyaan:** Pilih jawaban yang tepat: saat teman berbicara, kita menunjukkan hormat dengan ....
+**Pertanyaan:** Saat guru piket mengingatkan aturan antre, apa yang menunjukkan bahwa Iqbal memahami nasihatnya?
 
 **Pilihan jawaban:**
-- menutup telinga
-- membentak
-- tidak memotong pembicaraan
-- menertawakan
+- Mengucapkan baik sambil tetap menyerobot
+- Kembali ke tempat antre dan menunggu giliran
+- Pindah ke antrean lain lalu menyelak
+- Meminta teman menahan tempat paling depan
 
-**Kunci Jawaban:** tidak memotong pembicaraan
+**Kunci Jawaban:** Kembali ke tempat antre dan menunggu giliran
 
-**Pembahasan:** Saat teman berbicara, kita menunjukkan hormat dengan tidak memotong pembicaraan.
+**Pembahasan:** Nasihat terlihat dipahami ketika Iqbal memperbaiki tindakannya.
 
 ---
 
 ## Soal 18 — K03-PAI-B03-M01-018
 
-**Pertanyaan:** Pilih jawaban yang tepat: bakti kepada orang tua dapat ditunjukkan dengan ....
+**Pertanyaan:** Tari ingin berterima kasih kepada guru yang membantunya membaca. Kalimat mana yang menjelaskan bantuannya dengan jelas?
 
 **Pilihan jawaban:**
-- menuntut hadiah
-- mengabaikan pesan
-- berkata kasar
-- mendoakan kebaikan mereka
+- Terima kasih, Bu, tolong bacakan semua tugas saya.
+- Saya sudah bisa, Bu, jadi bimbingannya tidak penting.
+- Saya berterima kasih kalau nilai saya paling tinggi.
+- Terima kasih, Bu, sudah membimbing saya mengeja kata sulit.
 
-**Kunci Jawaban:** mendoakan kebaikan mereka
+**Kunci Jawaban:** Terima kasih, Bu, sudah membimbing saya mengeja kata sulit.
 
-**Pembahasan:** Bakti kepada orang tua dapat ditunjukkan dengan mendoakan kebaikan mereka.
+**Pembahasan:** Tari menyebutkan bimbingan yang ia terima dan menghargai usaha gurunya.
 
 ---
 
 ## Soal 19 — K03-PAI-B03-M01-019
 
-**Pertanyaan:** Pilih jawaban yang tepat: ketika teman kesulitan belajar, kita dapat ....
+**Pertanyaan:** Di perpustakaan, guru meminta siswa berbicara pelan. Apa alasan mengikuti arahan itu?
 
 **Pilihan jawaban:**
-- membantu tanpa merendahkan
-- mengejek
-- menyembunyikan bukunya
-- menjauhi
+- Supaya orang lain dapat membaca dengan tenang
+- Supaya siswa paling cepat bisa berbicara keras
+- Supaya hanya guru yang boleh membaca buku
+- Supaya buku dapat dipinjam tanpa dicatat
 
-**Kunci Jawaban:** membantu tanpa merendahkan
+**Kunci Jawaban:** Supaya orang lain dapat membaca dengan tenang
 
-**Pembahasan:** Ketika teman kesulitan belajar, kita dapat membantu tanpa merendahkan.
+**Pembahasan:** Arahan guru menjaga kenyamanan semua pembaca.
 
 ---
 
 ## Soal 20 — K03-PAI-B03-M01-020
 
-**Pertanyaan:** Pilih jawaban yang tepat: manfaat perilaku terpuji adalah ....
+**Pertanyaan:** Manakah catatan harian yang menjelaskan cara berbakti kepada guru dan manfaatnya?
 
 **Pilihan jawaban:**
-- membenarkan kebohongan
-- membangun hubungan baik
-- menambah permusuhan
-- membuat orang takut
+- Aku menerima tugas lalu memasukkannya ke tas.
+- Aku melihat guru berjalan ke ruang kelas.
+- Aku memperbaiki tugas dari masukan Bu Guru. Kini aku paham letak kesalahanku.
+- Aku mengumpulkan tugas karena temanku sudah mengumpulkan.
 
-**Kunci Jawaban:** membangun hubungan baik
+**Kunci Jawaban:** Aku memperbaiki tugas dari masukan Bu Guru. Kini aku paham letak kesalahanku.
 
-**Pembahasan:** Manfaat perilaku terpuji adalah membangun hubungan baik.
+**Pembahasan:** Catatan itu menunjukkan tindakan dan hasil yang dirasakan.
 
 ---
 
 ## Soal 21 — K03-PAI-B03-M01-021
 
-**Pertanyaan:** Saat belajar tentang "Perilaku Terpuji Adalah Kepribadianku", bagaimana melengkapi pernyataan ini dengan benar?
-
-Contoh berbakti kepada orang tua adalah ....
+**Pertanyaan:** Dua teman ingin warna berbeda untuk judul poster. Bagaimana mereka dapat menyelesaikan perbedaan dengan hormat?
 
 **Pilihan jawaban:**
-- menolak nasihat baik
-- berbohong setiap hari
-- membantu mereka dengan sopan
-- membentak ketika diminta tolong
+- Mencoret warna pilihan teman
+- Mengikuti orang yang suaranya paling keras
+- Menyelesaikan poster diam-diam tanpa teman
+- Mendengarkan alasan masing-masing lalu memilih bersama
 
-**Kunci Jawaban:** membantu mereka dengan sopan
+**Kunci Jawaban:** Mendengarkan alasan masing-masing lalu memilih bersama
 
-**Pembahasan:** Contoh berbakti kepada orang tua adalah membantu mereka dengan sopan.
+**Pembahasan:** Mendengarkan alasan memberi keduanya kesempatan menyampaikan pendapat.
 
 ---
 
 ## Soal 22 — K03-PAI-B03-M01-022
 
-**Pertanyaan:** Saat belajar tentang "Perilaku Terpuji Adalah Kepribadianku", bagaimana melengkapi pernyataan ini dengan benar?
-
-Saat guru menjelaskan pelajaran, sikap yang baik adalah ....
+**Pertanyaan:** Teman baru mengucapkan sebuah kata dengan logat yang berbeda. Apa tanggapan yang menghargainya?
 
 **Pilihan jawaban:**
-- berteriak
-- mengganggu teman
-- meninggalkan kelas tanpa izin
-- mendengarkan dengan tertib
+- Menirukan logatnya agar kelompok tertawa
+- Menyimak maksudnya dan bertanya sopan jika belum paham
+- Menyuruhnya diam selama diskusi
+- Meminta ia mengganti logat sebelum berbicara
 
-**Kunci Jawaban:** mendengarkan dengan tertib
+**Kunci Jawaban:** Menyimak maksudnya dan bertanya sopan jika belum paham
 
-**Pembahasan:** Saat guru menjelaskan pelajaran, sikap yang baik adalah mendengarkan dengan tertib.
+**Pembahasan:** Kita dapat mencari kejelasan sambil tetap menghargai cara orang berbicara.
 
 ---
 
 ## Soal 23 — K03-PAI-B03-M01-023
 
-**Pertanyaan:** Saat belajar tentang "Perilaku Terpuji Adalah Kepribadianku", bagaimana melengkapi pernyataan ini dengan benar?
-
-Ketika berbeda pendapat dengan teman, kita sebaiknya ....
+**Pertanyaan:** Ketika bermain, Hana ingin meminjam penggaris temannya. Apa yang perlu ia lakukan lebih dulu?
 
 **Pilihan jawaban:**
-- menghargai dan berbicara santun
-- menghina pendapatnya
-- memaksakan kehendak
-- memutus pertemanan
+- Mengambilnya karena penggaris ada di meja
+- Meminta izin kepada teman lain
+- Meminta izin kepada pemiliknya
+- Menukarnya dengan penggaris sendiri tanpa bertanya
 
-**Kunci Jawaban:** menghargai dan berbicara santun
+**Kunci Jawaban:** Meminta izin kepada pemiliknya
 
-**Pembahasan:** Ketika berbeda pendapat dengan teman, kita sebaiknya menghargai dan berbicara santun.
+**Pembahasan:** Meminta izin menghargai hak teman atas barangnya.
 
 ---
 
 ## Soal 24 — K03-PAI-B03-M01-024
 
-**Pertanyaan:** Saat belajar tentang "Perilaku Terpuji Adalah Kepribadianku", bagaimana melengkapi pernyataan ini dengan benar?
-
-Jika orang tua sedang sakit, tindakan terpuji adalah ....
+**Pertanyaan:** Seseorang bercerita bahwa ia sedih karena gambarnya rusak. Bagaimana cara menyimaknya?
 
 **Pilihan jawaban:**
-- mengejek
-- membantu sesuai kemampuan
-- membiarkan tanpa peduli
-- menambah pekerjaan mereka
+- Mendengarkan hingga selesai lalu menanyakan bantuan yang ia inginkan
+- Memotong cerita untuk membandingkan gambarnya sendiri
+- Langsung menceritakan masalah itu kepada satu kelas
+- Menyuruhnya berhenti sedih agar kelompok cepat bekerja
 
-**Kunci Jawaban:** membantu sesuai kemampuan
+**Kunci Jawaban:** Mendengarkan hingga selesai lalu menanyakan bantuan yang ia inginkan
 
-**Pembahasan:** Jika orang tua sedang sakit, tindakan terpuji adalah membantu sesuai kemampuan.
+**Pembahasan:** Menyimak dan bertanya membantu kita memahami perasaan serta kebutuhan teman.
 
 ---
 
 ## Soal 25 — K03-PAI-B03-M01-025
 
-**Pertanyaan:** Saat belajar tentang "Perilaku Terpuji Adalah Kepribadianku", bagaimana melengkapi pernyataan ini dengan benar?
-
-Jika berbuat salah kepada guru, kita sebaiknya ....
+**Pertanyaan:** Teman Ica belum memahami cara mengerjakan tugas. Bantuan mana yang tetap menghargai usahanya?
 
 **Pilihan jawaban:**
-- mengulangi kesalahan
-- bersembunyi terus
-- meminta maaf dan memperbaiki sikap
-- menyalahkan teman
+- Mengerjakan semua soal atas namanya
+- Menyebut kesalahannya keras-keras di depan kelas
+- Menyimpan bukunya agar ia berhenti mencoba
+- Menjelaskan contoh lalu memberi kesempatan ia mencoba
 
-**Kunci Jawaban:** meminta maaf dan memperbaiki sikap
+**Kunci Jawaban:** Menjelaskan contoh lalu memberi kesempatan ia mencoba
 
-**Pembahasan:** Jika berbuat salah kepada guru, kita sebaiknya meminta maaf dan memperbaiki sikap.
+**Pembahasan:** Petunjuk yang diikuti kesempatan berlatih membantu teman belajar sendiri.
 
 ---
 
 ## Soal 26 — K03-PAI-B03-M01-026
 
-**Pertanyaan:** Saat belajar tentang "Perilaku Terpuji Adalah Kepribadianku", bagaimana melengkapi pernyataan ini dengan benar?
-
-Menghormati orang lain tidak bergantung pada ....
+**Pertanyaan:** Dani berada di antrean bersama teman akrab dan teman yang belum ia kenal. Apa cara menunjukkan hormat kepada keduanya?
 
 **Pilihan jawaban:**
-- kekayaan semata
-- kesamaan hobi
-- usia yang sama
-- perbedaan suku dan keadaan
+- Menyilakan teman akrab menyerobot
+- Meminta teman baru selalu berada di belakang
+- Menjaga giliran semua orang
+- Memberi giliran hanya kepada teman sekelas
 
-**Kunci Jawaban:** perbedaan suku dan keadaan
+**Kunci Jawaban:** Menjaga giliran semua orang
 
-**Pembahasan:** Menghormati orang lain tidak bergantung pada perbedaan suku dan keadaan.
+**Pembahasan:** Menjaga giliran memperlakukan setiap orang dengan adil.
 
 ---
 
 ## Soal 27 — K03-PAI-B03-M01-027
 
-**Pertanyaan:** Saat belajar tentang "Perilaku Terpuji Adalah Kepribadianku", bagaimana melengkapi pernyataan ini dengan benar?
-
-Saat teman berbicara, kita menunjukkan hormat dengan ....
+**Pertanyaan:** Nina menyela ketika Alia menyampaikan pendapat. Apa cara memperbaikinya saat itu juga?
 
 **Pilihan jawaban:**
-- tidak memotong pembicaraan
-- menertawakan
-- menutup telinga
-- membentak
+- Berhenti bicara lalu meninggalkan kelompok
+- Meminta maaf dan mempersilakan Alia melanjutkan
+- Menyuruh Alia mengulang dengan suara lebih keras
+- Mengajak kelompok membahas hal lain
 
-**Kunci Jawaban:** tidak memotong pembicaraan
+**Kunci Jawaban:** Meminta maaf dan mempersilakan Alia melanjutkan
 
-**Pembahasan:** Saat teman berbicara, kita menunjukkan hormat dengan tidak memotong pembicaraan.
+**Pembahasan:** Mengembalikan giliran memberi Alia kesempatan menyelesaikan pendapatnya.
 
 ---
 
 ## Soal 28 — K03-PAI-B03-M01-028
 
-**Pertanyaan:** Saat belajar tentang "Perilaku Terpuji Adalah Kepribadianku", bagaimana melengkapi pernyataan ini dengan benar?
-
-Bakti kepada orang tua dapat ditunjukkan dengan ....
+**Pertanyaan:** Kelompok Ilham berbeda pilihan permainan. Pilihan mana yang menjaga hubungan baik untuk pertemuan berikutnya?
 
 **Pilihan jawaban:**
-- berkata kasar
-- mendoakan kebaikan mereka
-- menuntut hadiah
-- mengabaikan pesan
+- Menyepakati giliran memilih permainan secara bergantian
+- Memilih permainan yang disukai ketua setiap kali
+- Melarang anak yang berbeda pilihan untuk ikut
+- Mengumumkan pilihan sebelum mendengar anggota lain
 
-**Kunci Jawaban:** mendoakan kebaikan mereka
+**Kunci Jawaban:** Menyepakati giliran memilih permainan secara bergantian
 
-**Pembahasan:** Bakti kepada orang tua dapat ditunjukkan dengan mendoakan kebaikan mereka.
+**Pembahasan:** Giliran memberi setiap anggota kesempatan berpartisipasi dalam keputusan.
 
 ---
 
 ## Soal 29 — K03-PAI-B03-M01-029
 
-**Pertanyaan:** Saat belajar tentang "Perilaku Terpuji Adalah Kepribadianku", bagaimana melengkapi pernyataan ini dengan benar?
-
-Ketika teman kesulitan belajar, kita dapat ....
+**Pertanyaan:** Sinta melihat dua teman mengejek nama seorang siswa. Apa tindakan yang menghormati siswa itu?
 
 **Pilihan jawaban:**
-- menyembunyikan bukunya
-- menjauhi
-- membantu tanpa merendahkan
-- mengejek
+- Ikut tertawa agar tetap diterima kelompok
+- Mengulang ejekan ketika siswa itu sudah pergi
+- Mengajak mereka berhenti dan meminta bantuan guru bila ejekan berlanjut
+- Meminta siswa itu mengganti nama panggilannya
 
-**Kunci Jawaban:** membantu tanpa merendahkan
+**Kunci Jawaban:** Mengajak mereka berhenti dan meminta bantuan guru bila ejekan berlanjut
 
-**Pembahasan:** Ketika teman kesulitan belajar, kita dapat membantu tanpa merendahkan.
+**Pembahasan:** Menghentikan ejekan menjaga martabat teman. Guru dapat membantu jika ejekan berlanjut.
 
 ---
 
 ## Soal 30 — K03-PAI-B03-M01-030
 
-**Pertanyaan:** Saat belajar tentang "Perilaku Terpuji Adalah Kepribadianku", bagaimana melengkapi pernyataan ini dengan benar?
-
-Manfaat perilaku terpuji adalah ....
+**Pertanyaan:** Apa persamaan antara membantu orang tua, mengikuti arahan guru, dan mendengarkan teman?
 
 **Pilihan jawaban:**
-- menambah permusuhan
-- membuat orang takut
-- membenarkan kebohongan
-- membangun hubungan baik
+- Ketiganya harus dilakukan supaya mendapat hadiah
+- Ketiganya menunjukkan penghargaan melalui tindakan
+- Ketiganya hanya penting saat ada orang yang menilai
+- Ketiganya berarti selalu menyetujui semua permintaan
 
-**Kunci Jawaban:** membangun hubungan baik
+**Kunci Jawaban:** Ketiganya menunjukkan penghargaan melalui tindakan
 
-**Pembahasan:** Manfaat perilaku terpuji adalah membangun hubungan baik.
+**Pembahasan:** Menghargai orang dapat terlihat dari cara membantu, mengikuti arahan baik, dan memberi kesempatan bicara.
 
 ---
