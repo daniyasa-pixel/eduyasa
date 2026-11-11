@@ -4,14 +4,16 @@
 
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
-| IPAS | Bab 1–3: 196 butir berubah | 210 butir diperiksa ulang | Bab 4–8: 350 soal |
+| IPAS | Bab 1–4: 266 butir berubah | 280 butir diperiksa secara isi; visual Bab 4 belum diuji render | Bab 5–8: 280 soal; verifikasi visual Bab 4 |
 | PAI | Belum dikerjakan | Belum diperiksa ulang | 300 soal/10 bab |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **210/1.945**. Jumlah diubah: **196**.
-Sisa audit isi: **1.735 soal pada 38 bab/unit**. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **280/1.945**. Jumlah diubah: **266**.
+Sisa audit isi: **1.665 soal pada 37 bab/unit**. Selain itu, Bab 4 IPAS masih
+memerlukan pemeriksaan render dan peninjauan visual 12 SVG. Jadi baru Bab 1–3
+yang menutup seluruh pemeriksaan putaran ini; 38 bab/unit belum sepenuhnya ditutup. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -87,14 +89,56 @@ lolos XML dan uji batas teks pada lebar 390 piksel. Perintah LaTeX satuan pada
 sumber Markdown diperiksa agar tidak berubah menjadi tab atau double escape.
 Tidak ada konversi JSON atau perubahan pada materi yang dilarang.
 
+## IPAS Bab 4 — isi direvisi, pemeriksaan visual tertunda
+
+Semua nomor 001–070 dibaca, dibandingkan dengan cakupan buku revisi 2025
+halaman 67–90, dan ditulis ulang. ID serta jumlah 50+20 tetap. Instruksi
+“Tantangan” yang keliru dijadikan konsep dikeluarkan. Pengulangan pasangan
+istilah/definisi diganti dengan urutan tahap, perbandingan daur, sebab-akibat,
+bukti pengamatan, rancangan percobaan, batas kesimpulan, dan pelestarian.
+
+Kunci dan pengecoh ditelaah satu per satu. Perhatian khusus:
+- Panah daur menjelaskan generasi berikutnya, bukan individu dewasa menjadi telur.
+- Kupu-kupu memiliki pupa; jangkrik tidak. Katak tidak dipaksakan mempunyai pupa.
+- Biji memerlukan air, udara, dan suhu sesuai. Kacang hijau dapat mulai
+  berkecambah tanpa matahari langsung; tumbuhan hijau berdaun tetap membutuhkan cahaya.
+- Akar menyerap air/mineral, bukan makanan jadi. Kecambah tinggi dalam gelap
+  belum tentu sehat. Hasil percobaan tidak digeneralisasi kepada semua biji.
+- Catatan telur pada 12 Juni dan menetas 13 Juni tidak menyatakan bahwa seluruh
+  pengeraman hanya sehari: waktu awal pengeraman tidak diketahui.
+- Keselamatan mencakup pengamatan hewan tanpa gangguan, tidak mencicipi biji
+  tak dikenal, serta bantuan orang dewasa untuk perawatan berisiko.
+
+Dua modul ditulis ulang dengan cakupan setara, masing-masing dua gambar.
+Sepuluh SVG soal dan dua SVG materi diganti. Stimulus mencakup diagram
+hewan/tomat, tabel perkecambahan, perbandingan tanaman terang/gelap,
+kondisi pot, penunjuk bagian tanaman, denah habitat, dan catatan ayam.
+
+**Pemeriksaan yang berhasil saat checkpoint ini:** melalui konektor GitHub
+dan JavaScript, 82 file bank kanonis dihitung ulang: 1.945 soal, ID unik,
+empat opsi berbeda, kunci cocok dengan opsi, serta path gambar tersedia;
+0 kesalahan struktur. Khusus Bab 4: 70 ID dipertahankan, 70 stem unik,
+70 butir berubah, pembahasan tersedia dan bukan sekadar teks kunci.
+Dua belas sumber SVG diperiksa keseimbangan tag, entity, viewBox,
+title/desc, dan ketiadaan skrip/tautan eksternal. Pemeriksaan tag sederhana
+ini bukan parser konformansi XML atau bukti kualitas visual.
+
+**Hambatan nyata:** lingkungan eksekusi terputus saat hendak menulis
+skrip penulis lokal. Percobaan shell berikutnya menghasilkan
+“No usable execution environment is available”. Revisi dilanjutkan melalui
+konektor GitHub. Chromium/Playwright, pemeriksaan batas teks pada lebar 390
+piksel, serta peninjauan lembar gambar Bab 4 belum dapat dijalankan.
+Jangan menandai Bab 4 lulus media atau siap konversi sebelum itu selesai.
+Tidak ada JSON yang dibuat atau konten BIN, MTK, PKN yang diubah.
+
 ## Pemeriksaan
 
 `python scripts/check-k03-question-sources.py` memeriksa paket kanonis lima
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–3
-belum memperoleh pemeriksaan isi putaran ini. Script juga tidak menyimpulkan
+Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–4
+belum memperoleh pemeriksaan isi putaran ini. Media Bab 4 masih tertunda. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
 Dua belas SVG Bab 1 dirender pada Chromium dan diperiksa batas teksnya;
@@ -103,10 +147,17 @@ Pemeriksaan ini bukan uji coba kepada siswa atau pengukuran kesulitan empiris.
 
 ## Posisi lanjut yang tepat
 
-Lanjut **IPAS Bab 4, nomor 001–070**, dengan memeriksa dua modul dan 12 SVG
-terkait, lalu Bab 5 sampai Bab 8. Setelah IPAS tuntas, lanjut PAI, ENG, PJOK,
-dan Seni Rupa sesuai instruksi. Pertahankan pemeriksaan terhadap buku revisi 2025. Instruksi kegiatan yang
-sebelumnya dijadikan istilah pelajaran juga harus diperiksa pada bab lain.
+Ambil kondisi terbaru dari main terlebih dahulu: Bab 4 direvisi melalui
+konektor saat shell tidak tersedia; jangan menimpa perubahan ini dengan
+draft lokal lama. Selesaikan pemeriksaan XML penuh, rendering lebar 390
+piksel, batas teks, dan peninjauan visual **12 SVG IPAS Bab 4**. Perbaiki
+temuan dan pastikan kesesuaian gambar dengan nomor 051–070 serta kedua modul.
+Ulangi validator Python yang tersedia setelah lingkungan kembali.
+
+Setelah Bab 4 lolos pemeriksaan tersebut, lanjut **IPAS Bab 5, nomor 001–070**
+hingga Bab 8, kemudian PAI, ENG, PJOK, dan Seni Rupa sesuai urutan.
+Pertahankan pemeriksaan buku revisi 2025; instruksi kegiatan yang keliru
+dijadikan konsep juga perlu diperiksa pada bab lain.
 
 Dilarang menyimpulkan keseluruhan selesai dari checkpoint ini. Jangan membuat
 JSON, mengaktifkan draft pada aplikasi, atau mengubah BIN, MTK, dan PKN.

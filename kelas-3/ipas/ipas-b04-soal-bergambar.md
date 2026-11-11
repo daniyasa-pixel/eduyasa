@@ -2,360 +2,360 @@
 
 ## Soal 51 — K03-IPAS-B04-M01-051
 
-![Kartu pengamatan](assets/ipas-b04-gambar-01.svg)
+![Urutan gambar kupu-kupu: A telur pada daun; B ulat memakan daun; C tubuh terbungkus melekat pada ranting; D kupu-kupu bersayap lebar.](assets/ipas-b04-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Daun** adalah ...
+**Pertanyaan:** Pada tahap berlabel mana hewan aktif memakan daun?
 
 **Pilihan jawaban:**
-- tempat utama pembuatan makanan tumbuhan
-- perubahan bentuk selama pertumbuhan
-- dibutuhkan tumbuhan untuk fotosintesis
-- membantu kelangsungan makhluk hidup
+- A
+- C
+- B
+- D
 
-**Kunci Jawaban:** tempat utama pembuatan makanan tumbuhan
+**Kunci Jawaban:** B
 
-**Pembahasan:** Daun: tempat utama pembuatan makanan tumbuhan.
+**Pembahasan:** Gambar B menunjukkan ulat pada tahap makan; A telur, C pupa, dan D dewasa.
 
 ---
 
 ## Soal 52 — K03-IPAS-B04-M01-052
 
-![Kartu pengamatan](assets/ipas-b04-gambar-01.svg)
+![Urutan gambar kupu-kupu: A telur pada daun; B ulat memakan daun; C tubuh terbungkus melekat pada ranting; D kupu-kupu bersayap lebar.](assets/ipas-b04-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Bunga** adalah ...
+**Pertanyaan:** Tahap berlabel mana berada tepat sebelum kupu-kupu bersayap?
 
 **Pilihan jawaban:**
-- tahapan hidup makhluk hidup
-- berperan dalam perkembangbiakan banyak tumbuhan
-- dibutuhkan hewan untuk tumbuh
-- Pilih tiga hal yang kamu temukan hari ini
+- A
+- B
+- D
+- C
 
-**Kunci Jawaban:** berperan dalam perkembangbiakan banyak tumbuhan
+**Kunci Jawaban:** C
 
-**Pembahasan:** Bunga: berperan dalam perkembangbiakan banyak tumbuhan.
+**Pembahasan:** Panah menempatkan tubuh terbungkus pada C sebelum bentuk dewasa D.
 
 ---
 
 ## Soal 53 — K03-IPAS-B04-M01-053
 
-![Kartu pengamatan](assets/ipas-b04-gambar-02.svg)
+![Daur jangkrik terdiri atas A telur, B nimfa kecil dengan sayap belum sempurna, C dewasa dengan sayap berkembang; tidak ada tahap pupa.](assets/ipas-b04-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Buah** adalah ...
+**Pertanyaan:** Berdasarkan tahap pada diagram, daur jangkrik termasuk ...
 
 **Pilihan jawaban:**
-- dibutuhkan untuk perkecambahan
-- tempat makhluk hidup tinggal
-- dapat melindungi biji
-- tahap awal hidup ayam
+- Metamorfosis tidak sempurna
+- Metamorfosis sempurna dengan pupa
+- Daur yang tidak mempunyai telur
+- Daur yang hanya mempunyai tahap dewasa
 
-**Kunci Jawaban:** dapat melindungi biji
+**Kunci Jawaban:** Metamorfosis tidak sempurna
 
-**Pembahasan:** Buah: dapat melindungi biji.
+**Pembahasan:** Diagram menampilkan telur, nimfa, dan dewasa tanpa pupa, ciri metamorfosis tidak sempurna.
 
 ---
 
 ## Soal 54 — K03-IPAS-B04-M01-054
 
-![Kartu pengamatan](assets/ipas-b04-gambar-02.svg)
+![Daur jangkrik terdiri atas A telur, B nimfa kecil dengan sayap belum sempurna, C dewasa dengan sayap berkembang; tidak ada tahap pupa.](assets/ipas-b04-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Metamorfosis** adalah ...
+**Pertanyaan:** Perubahan dari B ke C terutama tampak pada ...
 
 **Pilihan jawaban:**
-- dibutuhkan tumbuhan untuk fotosintesis
-- membantu kelangsungan makhluk hidup
-- tumbuh menjadi ayam dewasa
-- perubahan bentuk selama pertumbuhan
+- Hilangnya semua kaki
+- Perkembangan sayap dan ukuran tubuh
+- Munculnya pupa yang membungkus tubuh
+- Perubahan menjadi berudu
 
-**Kunci Jawaban:** perubahan bentuk selama pertumbuhan
+**Kunci Jawaban:** Perkembangan sayap dan ukuran tubuh
 
-**Pembahasan:** Metamorfosis: perubahan bentuk selama pertumbuhan.
+**Pembahasan:** B menunjukkan nimfa kecil dengan sayap belum sempurna, sedangkan C dewasa dengan sayap berkembang.
 
 ---
 
 ## Soal 55 — K03-IPAS-B04-M01-055
 
-![Kartu pengamatan](assets/ipas-b04-gambar-03.svg)
+![Urutan katak: A telur; B berudu berekor tanpa kaki yang tampak; C berudu berkaki dengan ekor panjang; D katak berkaki tanpa ekor.](assets/ipas-b04-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Siklus hidup** adalah ...
+**Pertanyaan:** Label mana menunjukkan tahap berkaki tetapi masih berekor panjang?
 
 **Pilihan jawaban:**
-- tahapan hidup makhluk hidup
-- dibutuhkan hewan untuk tumbuh
-- Pilih tiga hal yang kamu temukan hari ini
-- tahap larva kupu-kupu
+- A
+- B
+- C
+- D
 
-**Kunci Jawaban:** tahapan hidup makhluk hidup
+**Kunci Jawaban:** C
 
-**Pembahasan:** Siklus hidup: tahapan hidup makhluk hidup.
+**Pembahasan:** Pada C terlihat kaki dan ekor panjang sekaligus; B belum berkaki, sedangkan D tidak berekor.
 
 ---
 
 ## Soal 56 — K03-IPAS-B04-M01-056
 
-![Kartu pengamatan](assets/ipas-b04-gambar-03.svg)
+![Urutan katak: A telur; B berudu berekor tanpa kaki yang tampak; C berudu berkaki dengan ekor panjang; D katak berkaki tanpa ekor.](assets/ipas-b04-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Air** adalah ...
+**Pertanyaan:** Perubahan bagian tubuh yang tampak dari C ke D ialah ...
 
 **Pilihan jawaban:**
-- tempat makhluk hidup tinggal
-- dibutuhkan untuk perkecambahan
-- tahap awal hidup ayam
-- tahap pupa kupu-kupu
+- Kaki hilang dan ekor makin panjang
+- Tubuh kembali menjadi telur yang sama
+- Tubuh terbungkus pupa
+- Ekor berangsur hilang sementara kaki tetap ada
 
-**Kunci Jawaban:** dibutuhkan untuk perkecambahan
+**Kunci Jawaban:** Ekor berangsur hilang sementara kaki tetap ada
 
-**Pembahasan:** Air: dibutuhkan untuk perkecambahan.
+**Pembahasan:** C masih berekor dan berkaki, sedangkan D berkaki tanpa ekor, sesuai perubahan menuju katak muda.
 
 ---
 
 ## Soal 57 — K03-IPAS-B04-M01-057
 
-![Kartu pengamatan](assets/ipas-b04-gambar-04.svg)
+![Urutan tomat: A biji; B akar kecil keluar; C tanaman muda berdaun; D berbunga; E berbuah.](assets/ipas-b04-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Cahaya** adalah ...
+**Pertanyaan:** Tahap berlabel mana menunjukkan awal perkecambahan?
 
 **Pilihan jawaban:**
-- membantu kelangsungan makhluk hidup
-- tumbuh menjadi ayam dewasa
-- dibutuhkan tumbuhan untuk fotosintesis
-- dapat berkembang biak
+- B
+- A
+- D
+- E
 
-**Kunci Jawaban:** dibutuhkan tumbuhan untuk fotosintesis
+**Kunci Jawaban:** B
 
-**Pembahasan:** Cahaya: dibutuhkan tumbuhan untuk fotosintesis.
+**Pembahasan:** B memperlihatkan akar kecil keluar dari biji; A belum berkecambah dan D serta E tahap lebih lanjut.
 
 ---
 
 ## Soal 58 — K03-IPAS-B04-M01-058
 
-![Kartu pengamatan](assets/ipas-b04-gambar-04.svg)
+![Urutan tomat: A biji; B akar kecil keluar; C tanaman muda berdaun; D berbunga; E berbuah.](assets/ipas-b04-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Makanan** adalah ...
+**Pertanyaan:** Jika ingin memperoleh biji untuk menanam generasi berikutnya, bagian pada tahap mana dapat diperiksa?
 
 **Pilihan jawaban:**
-- Pilih tiga hal yang kamu temukan hari ini
-- tahap larva kupu-kupu
-- anak katak yang hidup di air
-- dibutuhkan hewan untuk tumbuh
+- B
+- E
+- C
+- D
 
-**Kunci Jawaban:** dibutuhkan hewan untuk tumbuh
+**Kunci Jawaban:** E
 
-**Pembahasan:** Makanan: dibutuhkan hewan untuk tumbuh.
+**Pembahasan:** E memperlihatkan buah tomat yang dapat berisi biji; akar dan daun bukan tempat biji tomat terbentuk.
 
 ---
 
 ## Soal 59 — K03-IPAS-B04-M01-059
 
-![Kartu pengamatan](assets/ipas-b04-gambar-05.svg)
+![Hasil hari keempat: empat biji kacang hijau tiap wadah. P kapas kering: nol berkecambah; Q kapas lembap: empat; R tergenang: satu. Jenis biji, suhu, tempat, dan waktu sama.](assets/ipas-b04-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Habitat** adalah ...
+**Pertanyaan:** Wadah mana mempunyai paling banyak biji berkecambah pada catatan itu?
 
 **Pilihan jawaban:**
-- tempat makhluk hidup tinggal
-- tahap awal hidup ayam
-- tahap pupa kupu-kupu
-- dapat hidup di darat dan air
+- P
+- R
+- Q
+- Ketiganya sama banyak
 
-**Kunci Jawaban:** tempat makhluk hidup tinggal
+**Kunci Jawaban:** Q
 
-**Pembahasan:** Habitat: tempat makhluk hidup tinggal.
+**Pembahasan:** Tabel menunjukkan Q empat biji, R satu, dan P tidak ada yang berkecambah pada hari keempat.
 
 ---
 
 ## Soal 60 — K03-IPAS-B04-M01-060
 
-![Kartu pengamatan](assets/ipas-b04-gambar-05.svg)
+![Hasil hari keempat: empat biji kacang hijau tiap wadah. P kapas kering: nol berkecambah; Q kapas lembap: empat; R tergenang: satu. Jenis biji, suhu, tempat, dan waktu sama.](assets/ipas-b04-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Pelestarian** adalah ...
+**Pertanyaan:** Kesimpulan mana melampaui hasil percobaan yang ditampilkan?
 
 **Pilihan jawaban:**
-- tumbuh menjadi ayam dewasa
-- membantu kelangsungan makhluk hidup
-- dapat berkembang biak
-- dapat tumbuh menjadi tumbuhan
+- Pada pengamatan ini hasil P dan Q berbeda
+- Pada hari keempat masih ada biji R yang belum berkecambah
+- Dalam catatan ini Q lebih banyak berkecambah daripada R
+- Semua biji dari semua jenis pasti tumbuh jika tergenang
 
-**Kunci Jawaban:** membantu kelangsungan makhluk hidup
+**Kunci Jawaban:** Semua biji dari semua jenis pasti tumbuh jika tergenang
 
-**Pembahasan:** Pelestarian: membantu kelangsungan makhluk hidup.
+**Pembahasan:** Data hanya berasal dari kacang hijau pada percobaan ini; hasilnya tidak membuktikan kepastian untuk semua jenis biji.
 
 ---
 
 ## Soal 61 — K03-IPAS-B04-M01-061
 
-![Kartu pengamatan](assets/ipas-b04-gambar-06.svg)
+![Dua tanaman kacang hijau sejenis dan seumur, air serta media sama. A dekat jendela, lebih pendek, hijau dan tegak. B dalam lemari gelap, lebih panjang, pucat dan lemah.](assets/ipas-b04-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Tantangan** adalah ...
+**Pertanyaan:** Kesimpulan yang didukung perbandingan dua tanaman ialah ...
 
 **Pilihan jawaban:**
-- tahap larva kupu-kupu
-- anak katak yang hidup di air
-- Pilih tiga hal yang kamu temukan hari ini
-- tumbuhan muda dari biji
+- Tanaman yang lebih panjang belum tentu lebih sehat
+- Tanaman B pasti lebih sehat karena lebih panjang
+- Tanaman A tidak memerlukan air
+- Kegelapan selalu menghasilkan daun hijau kuat
 
-**Kunci Jawaban:** Pilih tiga hal yang kamu temukan hari ini
+**Kunci Jawaban:** Tanaman yang lebih panjang belum tentu lebih sehat
 
-**Pembahasan:** Tantangan: Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** B lebih panjang tetapi pucat dan lemah, sedangkan A hijau dan tegak; tinggi bukan satu-satunya ciri pertumbuhan baik.
 
 ---
 
 ## Soal 62 — K03-IPAS-B04-M01-062
 
-![Kartu pengamatan](assets/ipas-b04-gambar-06.svg)
+![Dua tanaman kacang hijau sejenis dan seumur, air serta media sama. A dekat jendela, lebih pendek, hijau dan tegak. B dalam lemari gelap, lebih panjang, pucat dan lemah.](assets/ipas-b04-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Telur** adalah ...
+**Pertanyaan:** Untuk membantu tanaman B, perubahan tempat yang sesuai ialah ...
 
 **Pilihan jawaban:**
-- tahap pupa kupu-kupu
-- dapat hidup di darat dan air
-- tempat utama pembuatan makanan tumbuhan
-- tahap awal hidup ayam
+- Tetap dalam lemari gelap selamanya
+- Ke tempat bercahaya yang sesuai secara bertahap dengan arahan guru
+- Ke wadah tertutup rapat tanpa udara
+- Ke tempat yang airnya ditiadakan seluruhnya
 
-**Kunci Jawaban:** tahap awal hidup ayam
+**Kunci Jawaban:** Ke tempat bercahaya yang sesuai secara bertahap dengan arahan guru
 
-**Pembahasan:** Telur: tahap awal hidup ayam.
+**Pembahasan:** B kekurangan cahaya dalam lemari; guru dapat membantunya memperoleh cahaya sesuai kebutuhan, sambil menjaga air dan kondisi lain.
 
 ---
 
 ## Soal 63 — K03-IPAS-B04-M01-063
 
-![Kartu pengamatan](assets/ipas-b04-gambar-07.svg)
+![Tiga kondisi: P tanah pot retak dan kering; Q air menggenang di pot; R batang bengkok karena angin.](assets/ipas-b04-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Anak ayam** adalah ...
+**Pertanyaan:** Pot mana perlu diperiksa lubang pembuangan airnya?
 
 **Pilihan jawaban:**
-- tumbuh menjadi ayam dewasa
-- dapat berkembang biak
-- dapat tumbuh menjadi tumbuhan
-- berperan dalam perkembangbiakan banyak tumbuhan
+- P
+- R
+- Q
+- Semua pot pasti sudah kering
 
-**Kunci Jawaban:** tumbuh menjadi ayam dewasa
+**Kunci Jawaban:** Q
 
-**Pembahasan:** Anak ayam: tumbuh menjadi ayam dewasa.
+**Pembahasan:** Q tampak tergenang; lubang tersumbat dapat mempertahankan genangan dan mengganggu akar.
 
 ---
 
 ## Soal 64 — K03-IPAS-B04-M01-064
 
-![Kartu pengamatan](assets/ipas-b04-gambar-07.svg)
+![Tiga kondisi: P tanah pot retak dan kering; Q air menggenang di pot; R batang bengkok karena angin.](assets/ipas-b04-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Ulat** adalah ...
+**Pertanyaan:** Tindakan yang paling sesuai untuk kondisi R ialah ...
 
 **Pilihan jawaban:**
-- anak katak yang hidup di air
-- tahap larva kupu-kupu
-- tumbuhan muda dari biji
-- dapat melindungi biji
+- Menambahkan air sampai menggenang
+- Meletakkan pot di tempat yang lebih terbuka terhadap angin
+- Mengurangi air saja tanpa mengatasi angin
+- Melindungi dari angin kencang dengan bantuan orang dewasa
 
-**Kunci Jawaban:** tahap larva kupu-kupu
+**Kunci Jawaban:** Melindungi dari angin kencang dengan bantuan orang dewasa
 
-**Pembahasan:** Ulat: tahap larva kupu-kupu.
+**Pembahasan:** Batang R bengkok akibat angin, sehingga perlindungan tempat perlu didahulukan, bukan menambah genangan.
 
 ---
 
 ## Soal 65 — K03-IPAS-B04-M01-065
 
-![Kartu pengamatan](assets/ipas-b04-gambar-08.svg)
+![Tanaman tomat dengan garis penunjuk: A ke akar di bawah tanah, B ke batang, C ke daun, D ke bunga, E ke buah.](assets/ipas-b04-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kepompong** adalah ...
+**Pertanyaan:** Kerusakan luas pada bagian C terutama dapat mengganggu ...
 
 **Pilihan jawaban:**
-- dapat hidup di darat dan air
-- tempat utama pembuatan makanan tumbuhan
-- tahap pupa kupu-kupu
-- perubahan bentuk selama pertumbuhan
+- Pembuatan makanan oleh tumbuhan
+- Penyerapan air langsung oleh akar
+- Penyimpanan biji di dalam buah
+- Pembentukan serbuk sari pada bunga
 
-**Kunci Jawaban:** tahap pupa kupu-kupu
+**Kunci Jawaban:** Pembuatan makanan oleh tumbuhan
 
-**Pembahasan:** Kepompong: tahap pupa kupu-kupu.
+**Pembahasan:** C menunjuk daun, tempat utama pembuatan makanan tumbuhan hijau. Opsi lain terutama berkaitan dengan bagian yang berbeda.
 
 ---
 
 ## Soal 66 — K03-IPAS-B04-M01-066
 
-![Kartu pengamatan](assets/ipas-b04-gambar-08.svg)
+![Tanaman tomat dengan garis penunjuk: A ke akar di bawah tanah, B ke batang, C ke daun, D ke bunga, E ke buah.](assets/ipas-b04-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kupu-kupu dewasa** adalah ...
+**Pertanyaan:** Bagian berlabel mana melindungi biji tomat yang berkembang di dalamnya?
 
 **Pilihan jawaban:**
-- dapat tumbuh menjadi tumbuhan
-- berperan dalam perkembangbiakan banyak tumbuhan
-- tahapan hidup makhluk hidup
-- dapat berkembang biak
+- A
+- E
+- B
+- D
 
-**Kunci Jawaban:** dapat berkembang biak
+**Kunci Jawaban:** E
 
-**Pembahasan:** Kupu-kupu dewasa: dapat berkembang biak.
+**Pembahasan:** E menunjuk buah, sedangkan A akar, B batang, dan D bunga; biji tomat berkembang di dalam buah.
 
 ---
 
 ## Soal 67 — K03-IPAS-B04-M01-067
 
-![Kartu pengamatan](assets/ipas-b04-gambar-09.svg)
+![Denah taman dari kiri: P berisi tanaman berdaun dan bunga; Q jalur berpaving; R kolam. Ulat pengamatan makan daun tanaman P; kupu-kupu dewasa mengunjungi bunganya.](assets/ipas-b04-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Berudu** adalah ...
+**Pertanyaan:** Jika seluruh tanaman di P diganti paving, kebutuhan mana yang langsung kehilangan sumber pada denah?
 
 **Pilihan jawaban:**
-- anak katak yang hidup di air
-- tumbuhan muda dari biji
-- dapat melindungi biji
-- dibutuhkan untuk perkecambahan
+- Air kolam R yang masih ada
+- Jalur berpaving Q yang masih ada
+- Makanan ulat pengamatan
+- Ruang berjalan pada jalur Q
 
-**Kunci Jawaban:** anak katak yang hidup di air
+**Kunci Jawaban:** Makanan ulat pengamatan
 
-**Pembahasan:** Berudu: anak katak yang hidup di air.
+**Pembahasan:** Keterangan menyatakan ulat makan daun tanaman P; penggantian semua tanaman menghilangkan sumber makan itu.
 
 ---
 
 ## Soal 68 — K03-IPAS-B04-M01-068
 
-![Kartu pengamatan](assets/ipas-b04-gambar-09.svg)
+![Denah taman dari kiri: P berisi tanaman berdaun dan bunga; Q jalur berpaving; R kolam. Ulat pengamatan makan daun tanaman P; kupu-kupu dewasa mengunjungi bunganya.](assets/ipas-b04-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Katak dewasa** adalah ...
+**Pertanyaan:** Agar tanaman makanan ulat tidak terinjak, jalur berjalan yang sesuai pada denah ialah ...
 
 **Pilihan jawaban:**
-- tempat utama pembuatan makanan tumbuhan
-- dapat hidup di darat dan air
-- perubahan bentuk selama pertumbuhan
-- dibutuhkan tumbuhan untuk fotosintesis
+- P
+- R
+- Melintasi P lalu masuk R
+- Q
 
-**Kunci Jawaban:** dapat hidup di darat dan air
+**Kunci Jawaban:** Q
 
-**Pembahasan:** Katak dewasa: dapat hidup di darat dan air.
+**Pembahasan:** Q merupakan jalur berpaving; menggunakannya menjaga tanaman P dan menghindari masuk ke kolam.
 
 ---
 
 ## Soal 69 — K03-IPAS-B04-M01-069
 
-![Kartu pengamatan](assets/ipas-b04-gambar-10.svg)
+![Catatan satu ayam: 12 Juni telur yang sedang dierami; 13 Juni anak ayam baru menetas; 30 Juni anak ayam yang sama lebih besar. Tanggal menunjukkan waktu pengamatan, bukan lama seluruh daur.](assets/ipas-b04-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Biji** adalah ...
+**Pertanyaan:** Bukti pertumbuhan ukuran ayam terdapat pada perbandingan catatan ...
 
 **Pilihan jawaban:**
-- berperan dalam perkembangbiakan banyak tumbuhan
-- tahapan hidup makhluk hidup
-- dapat tumbuh menjadi tumbuhan
-- dibutuhkan hewan untuk tumbuh
+- 13 Juni dengan 30 Juni
+- 12 Juni dengan 13 Juni saja
+- Judul dengan tanggal 12 Juni
+- Keterangan 12 Juni saja
 
-**Kunci Jawaban:** dapat tumbuh menjadi tumbuhan
+**Kunci Jawaban:** 13 Juni dengan 30 Juni
 
-**Pembahasan:** Biji: dapat tumbuh menjadi tumbuhan.
+**Pembahasan:** Pada 13 Juni anak ayam baru menetas, lalu 30 Juni anak yang sama lebih besar. Perbandingan dua tahap anak ayam itu menunjukkan perubahan ukuran.
 
 ---
 
 ## Soal 70 — K03-IPAS-B04-M01-070
 
-![Kartu pengamatan](assets/ipas-b04-gambar-10.svg)
+![Catatan satu ayam: 12 Juni telur yang sedang dierami; 13 Juni anak ayam baru menetas; 30 Juni anak ayam yang sama lebih besar. Tanggal menunjukkan waktu pengamatan, bukan lama seluruh daur.](assets/ipas-b04-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kecambah** adalah ...
+**Pertanyaan:** Mengapa tidak boleh menyimpulkan semua telur ayam hanya memerlukan satu hari untuk menetas dari catatan ini?
 
 **Pilihan jawaban:**
-- dapat melindungi biji
-- dibutuhkan untuk perkecambahan
-- tempat makhluk hidup tinggal
-- tumbuhan muda dari biji
+- Tanggal pengamatan selalu menunjukkan awal terbentuknya telur
+- Catatan tidak menyebut kapan telur mulai berkembang atau dierami
+- Setiap telur mulai dierami pada 12 Juni
+- Gambar menyatakan semua ayam menetas pada tanggal sama
 
-**Kunci Jawaban:** tumbuhan muda dari biji
+**Kunci Jawaban:** Catatan tidak menyebut kapan telur mulai berkembang atau dierami
 
-**Pembahasan:** Kecambah: tumbuhan muda dari biji.
+**Pembahasan:** Telur sudah sedang dierami saat pertama dicatat; selisih waktu pengamatan bukan lama seluruh perkembangan telur.
 
 ---

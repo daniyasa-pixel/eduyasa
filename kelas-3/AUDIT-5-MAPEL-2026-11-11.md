@@ -54,3 +54,20 @@ Seluruh 70 butir Bab 3 ditulis ulang dan diperiksa terhadap cakupan pertumbuhan,
 perkembangan, tahapan manusia, dan berbagi peran keluarga. Dua modul serta 12
 SVG diganti dan diperiksa. Kumulatif 210 diperiksa, 196 diubah; sisa 1.735 soal
 pada 38 bab/unit. Status tetap **BELUM SELESAI**. Titik lanjut: IPAS Bab 4.
+
+### Kelanjutan: IPAS Bab 4 — verifikasi visual belum selesai
+
+Semua 70 butir dan kedua modul Bab 4 ditulis ulang. Dua belas SVG diganti;
+70 ID lama dipertahankan. Kumulatif pemeriksaan isi 280, berubah 266;
+sisa isi 1.665 soal pada 37 bab/unit. Bab 4 belum ditutup karena uji render
+dan peninjauan visual tertunda akibat lingkungan eksekusi tidak tersedia.
+
+Validasi JavaScript terhadap 82 bank kanonis melalui konektor GitHub:
+1.945 soal, ID unik, empat opsi berbeda, kunci cocok, path gambar tersedia,
+0 kesalahan struktur. Tag/entity dan atribut dasar 12 SVG Bab 4 diperiksa;
+ini bukan sertifikasi XML penuh maupun verifikasi tampilan HP.
+Kunci dan isi tidak dinyatakan benar hanya karena validasi struktur.
+
+**BELUM SELESAI.** Langkah pertama berikutnya: sinkronkan main, uji serta
+tinjau 12 SVG Bab 4 pada Chromium lebar 390 piksel, lalu lanjut Bab 5.
+Lihat rincian dan batas pemeriksaan dalam PROGRES-REVISI-1945.md.
