@@ -8,7 +8,7 @@
 |---|---:|---:|---|---|---|
 | IPAS | 8 | 560 | Pola berulang, opsi ambigu, gambar membocorkan definisi, penyederhanaan konsep diperbaiki | 560 diperiksa; 546 diubah; 16 modul dan media delapan bab diselaraskan | Putaran isi/media selesai; belum konversi atau uji siswa |
 | ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Belum | Variasi kompetensi bahasa, stimulus gambar, audio TTS dan uji WebView |
-| PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; Bab 1–6 diperiksa per butir dan dua belas modul diselaraskan | Bab 7–10 dan pratinjau HP Bab 1 dan 6 |
+| PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; Bab 1–7 diperiksa per butir dan empat belas modul diselaraskan | Bab 8–10 dan pratinjau HP Bab 1 dan 6 |
 | PJOK | 8 | 360 | Soal berulang; ilustrasi hanya simbol; berkas soal lama dengan ID lain masih ada | Belum | Revisi teknik gerak dan keselamatan, ilustrasi, pilih bank resmi, modul belum ada |
 | SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik; bab internal belum diverifikasi terhadap buku | Belum | Soal pengamatan visual, distraktor, ilustrasi, verifikasi bab resmi |
 
@@ -166,3 +166,12 @@ membaca, menulis dan menghafal, makna hadis serta praktik salat berjemaah.
 Semua ID dan jumlah tetap. Validator kanonis: 1.945 soal, 0 kesalahan
 struktur. Kumulatif 740 diperiksa; 1.205 soal pada 27 bab/unit tersisa.
 Pratinjau HP teks Arab Bab 1 dan 6 tertunda. Lanjut PAI Bab 7.
+
+### Kelanjutan: PAI Bab 7
+
+30 soal diperiksa dan ditulis ulang. Dua modul mencakup kitab dan nabi
+penerimanya, dalil, cara beriman dan penerapannya. Soal menguji pasangan
+kitab dan nabi, pesan dalil, keputusan dalam skenario kelas, serta cara
+membuat pohon iman. Semua ID tetap. Validator kanonis: 1.945 soal, 0
+kesalahan struktur. Kumulatif 770 soal diperiksa, dengan 1.175 soal pada
+26 bab atau unit tersisa. Lanjut PAI Bab 8.

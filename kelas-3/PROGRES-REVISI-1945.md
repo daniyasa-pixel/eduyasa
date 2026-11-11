@@ -5,14 +5,14 @@
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
-| PAI | Bab 1–6: 173 butir berubah dan dua belas modul direvisi | 180/300 diperiksa; pratinjau HP teks Arab Bab 1 dan 6 tertunda | 120 soal/4 bab, serta pratinjau HP Bab 1 dan 6 |
+| PAI | Bab 1–7: 203 butir berubah dan empat belas modul direvisi | 210/300 diperiksa; pratinjau HP teks Arab Bab 1 dan 6 tertunda | 90 soal/3 bab, serta pratinjau HP Bab 1 dan 6 |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **740/1.945**. Jumlah diubah: **719**.
-Sisa audit isi: **1.205 soal pada 27 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
-27 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **770/1.945**. Jumlah diubah: **749**.
+Sisa audit isi: **1.175 soal pada 26 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
+26 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -337,7 +337,7 @@ Pemeriksaan: 30 stem unik, empat opsi berbeda, kunci cocok, pembahasan ada.
 ## Posisi lanjut yang tepat
 
 Uji pratinjau HP PAI Bab 1 saat browser tersedia dan lanjutkan audit isi PAI
-Bab 6–10, lalu ENG, PJOK, dan Seni Rupa. Pertahankan Markdown dan tunda
+Bab 8–10, lalu ENG, PJOK, dan Seni Rupa. Pertahankan Markdown dan tunda
 konversi JSON serta aktivasi aplikasi. Jangan ubah BIN, MTK, atau PKN.
 
 ## PAI Bab 6 — Senangnya Belajar Hadis
@@ -355,3 +355,19 @@ pembahasan tersedia. Validator kanonis: 1.945 soal, 0 kesalahan struktur.
 Penanda arah RTL dan bahasa Arab ditambahkan pada matan. Pratinjau HP
 Bab 1 dan Bab 6 tertunda karena Chromium gagal membuat soket.
 Titik lanjut: PAI Bab 7. Tidak ada konversi JSON atau aktivasi aplikasi.
+
+## PAI Bab 7 — Ayo Beriman Kepada Kitab-Kitab Allah Swt.
+
+Seluruh 30 butir diperiksa dan ditulis ulang. Dua modul kini memuat makna
+iman kepada kitab Allah, empat kitab dan penerimanya, suhuf, dalil, cara
+beriman, manfaat dan akibat mengabaikan petunjuk. Latihan pohon iman dan
+skenario kelas melatih gotong royong serta saling menghargai.
+
+Dalil diperiksa terhadap Q.S. An-Nisa’ 4:136, Q.S. Ali ‘Imran 3:3, dan
+hadis Jibril riwayat Muslim. Cakupan mengikuti Bab VII buku PAI dan Budi
+Pekerti SD/MI III, edisi 2022.
+- Buku siswa: https://www.belajarpai.com/wp-content/uploads/2023/09/BAB-VII_Ayo-Beriman-Kepada-Kitab-Kitab-Allah_BS-3.pdf
+- Panduan guru: https://www.belajarpai.com/wp-content/uploads/2023/09/BUKU-GURU-PAI-KELAS-III.pdf
+
+Seluruh ID dan jumlah tetap. Validator kanonis: 1.945 soal, 0 kesalahan
+struktur. Titik lanjut: PAI Bab 8.
