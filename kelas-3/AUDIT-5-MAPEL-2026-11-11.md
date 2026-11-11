@@ -28,3 +28,9 @@
 - `bc7e622`: perbaikan awalan K03 untuk 20 ID modul PAI.
 
 **Catatan integritas:** Perubahan redaksi otomatis IPAS tidak otomatis memperbaiki kualitas pedagogis; butuh penulisan ulang manual yang terarah. Jangan menyatakan revisi menyeluruh telah selesai.
+
+## Kemajuan tambahan (commit f9c98e2)
+- IPAS B01 soal teks nomor 001–020: ditulis ulang secara substantif dengan konteks, distraktor, dan pembahasan baru.
+- PAI B01 soal nomor 001–010: ditulis ulang secara substantif dengan konteks, distraktor, dan pembahasan baru.
+- Pemeriksaan pasca-commit: berkas IPAS B01 tetap memuat 50 nomor dan PAI B01 tetap 30 nomor; ID awal dan akhir masih tersedia.
+- **Belum selesai:** 1.915 butir lain belum mendapatkan penulisan ulang substantif dalam putaran ini. Audit kunci satu per satu, kesesuaian buku resmi, dan inspeksi semua gambar belum selesai. Status keseluruhan tetap BELUM FINAL.
