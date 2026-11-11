@@ -2,321 +2,321 @@
 
 ## Soal 1 — K03-IPAS-B01-M01-001
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "melihat warna dan bentuk". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Rani melihat pelangi setelah hujan. Indra apa yang terutama digunakan untuk mengenali warna pelangi?
 
 **Pilihan jawaban:**
 - Mata
+- Telinga
+- Hidung
 - Lidah
-- Kacamata
-- Makanan bergizi
 
 **Kunci Jawaban:** Mata
 
-**Pembahasan:** Mata adalah pilihan yang sesuai karena petunjuk soal menyebutkan "melihat warna dan bentuk". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Warna diterima oleh mata. Telinga mendengar bunyi, hidung mencium aroma, dan lidah mengenali rasa.
 
 ---
 
 ## Soal 2 — K03-IPAS-B01-M01-002
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "mendengar suara". Konsep apa yang dimaksud?
+**Pertanyaan:** Saat bel sekolah berbunyi dari belakang kelas, Dito segera menoleh. Indra yang membantunya mengetahui arah bunyi ialah ....
 
 **Pilihan jawaban:**
 - Kulit
 - Telinga
-- Sabun
-- Minum air
+- Mata
+- Lidah
 
 **Kunci Jawaban:** Telinga
 
-**Pembahasan:** Telinga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mendengar suara". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Telinga menerima bunyi sehingga Dito dapat mengetahui ada suara dari belakang.
 
 ---
 
 ## Soal 3 — K03-IPAS-B01-M01-003
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "mencium aroma"?
+**Pertanyaan:** Ibu memasak sup di dapur. Sebelum melihat makanannya, Sinta mengenali aromanya. Bagian tubuh yang bekerja terutama adalah ....
 
 **Pilihan jawaban:**
 - Otak
-- Tidur cukup
+- Kulit
 - Hidung
-- Menghargai perbedaan
+- Mata
 
 **Kunci Jawaban:** Hidung
 
-**Pembahasan:** Hidung adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mencium aroma". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Hidung mendeteksi aroma yang dibawa udara, sedangkan mata digunakan untuk melihat.
 
 ---
 
 ## Soal 4 — K03-IPAS-B01-M01-004
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk mengenali rasa. Istilah apakah yang paling tepat?
+**Pertanyaan:** Dua potong buah tampak mirip, tetapi rasanya berbeda. Indra yang paling membantu membedakan rasanya ialah ....
 
 **Pilihan jawaban:**
-- Kacamata
-- Makanan bergizi
-- Meminta izin
+- Telinga
+- Hidung
+- Kulit
 - Lidah
 
 **Kunci Jawaban:** Lidah
 
-**Pembahasan:** Lidah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengenali rasa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Lidah memiliki pengecap yang membantu mengenali rasa makanan.
 
 ---
 
 ## Soal 5 — K03-IPAS-B01-M01-005
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "merasakan sentuhan dan suhu". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Bima memegang gelas yang terasa hangat. Indra apa yang memberinya informasi tentang suhu gelas?
 
 **Pilihan jawaban:**
 - Kulit
-- Sabun
-- Minum air
-- Orang dewasa tepercaya
+- Mata
+- Hidung
+- Telinga
 
 **Kunci Jawaban:** Kulit
 
-**Pembahasan:** Kulit adalah pilihan yang sesuai karena petunjuk soal menyebutkan "merasakan sentuhan dan suhu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Kulit dapat merasakan suhu dan sentuhan; mata hanya melihat gelas.
 
 ---
 
 ## Soal 6 — K03-IPAS-B01-M01-006
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "mengolah informasi dari indra". Konsep apa yang dimaksud?
+**Pertanyaan:** Mata melihat bola datang, lalu tangan bergerak menangkapnya. Organ yang membantu mengolah informasi dan mengatur respons itu adalah ....
 
 **Pilihan jawaban:**
-- Tidur cukup
+- Lidah
 - Otak
-- Menghargai perbedaan
-- Matahari langsung
+- Hidung
+- Kuku
 
 **Kunci Jawaban:** Otak
 
-**Pembahasan:** Otak adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengolah informasi dari indra". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Otak memproses informasi dari mata dan membantu mengoordinasikan gerakan tangan.
 
 ---
 
 ## Soal 7 — K03-IPAS-B01-M01-007
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "membantu penglihatan sebagian orang"?
+**Pertanyaan:** Nina sulit membaca tulisan di papan. Dokter menyarankan alat bantu sesuai hasil pemeriksaan. Alat yang mungkin digunakan ialah ....
 
 **Pilihan jawaban:**
-- Makanan bergizi
-- Meminta izin
+- Sarung tangan
+- Penutup telinga
 - Kacamata
-- Benda asing
+- Masker
 
 **Kunci Jawaban:** Kacamata
 
-**Pembahasan:** Kacamata adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu penglihatan sebagian orang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Kacamata dapat membantu mengoreksi penglihatan pada kondisi tertentu sesuai pemeriksaan tenaga kesehatan.
 
 ---
 
 ## Soal 8 — K03-IPAS-B01-M01-008
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk membantu membersihkan tangan. Istilah apakah yang paling tepat?
+**Pertanyaan:** Saat bermain di luar, debu masuk ke mata. Tindakan yang paling aman adalah ....
 
 **Pilihan jawaban:**
-- Minum air
-- Orang dewasa tepercaya
-- Bahan tak dikenal
-- Sabun
+- Menggosok mata kuat-kuat
+- Memakai ujung pensil untuk mengambil debu
+- Membiarkannya sambil terus bermain
+- Meminta bantuan orang dewasa dan membilas dengan air bersih
 
-**Kunci Jawaban:** Sabun
+**Kunci Jawaban:** Meminta bantuan orang dewasa dan membilas dengan air bersih
 
-**Pembahasan:** Sabun adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu membersihkan tangan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Menggosok atau memasukkan benda ke mata dapat melukai mata. Bilas dengan air bersih dan minta bantuan.
 
 ---
 
 ## Soal 9 — K03-IPAS-B01-M01-009
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "membantu tubuh beristirahat". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Adi ingin menjaga kesehatan telinganya ketika memakai headphone. Pilihan yang lebih baik ialah ....
 
 **Pilihan jawaban:**
-- Tidur cukup
-- Menghargai perbedaan
-- Matahari langsung
-- Olahraga
+- Mengatur volume tidak terlalu keras
+- Memakai volume maksimal
+- Mendengarkan suara keras sepanjang hari
+- Memasukkan benda kecil ke telinga
 
-**Kunci Jawaban:** Tidur cukup
+**Kunci Jawaban:** Mengatur volume tidak terlalu keras
 
-**Pembahasan:** Tidur cukup adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu tubuh beristirahat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Suara terlalu keras berisiko merusak pendengaran. Volume wajar membantu melindungi telinga.
 
 ---
 
 ## Soal 10 — K03-IPAS-B01-M01-010
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "mendukung kesehatan tubuh". Konsep apa yang dimaksud?
+**Pertanyaan:** Setelah memegang tanah saat berkebun, Lala hendak makan. Apa yang sebaiknya dilakukan lebih dahulu?
 
 **Pilihan jawaban:**
-- Meminta izin
-- Makanan bergizi
-- Benda asing
-- Mencuci tangan
+- Mengusap tangan ke baju
+- Mencuci tangan memakai sabun dan air
+- Langsung makan
+- Memegang makanan teman
 
-**Kunci Jawaban:** Makanan bergizi
+**Kunci Jawaban:** Mencuci tangan memakai sabun dan air
 
-**Pembahasan:** Makanan bergizi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mendukung kesehatan tubuh". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Sabun dan air membantu membersihkan kotoran serta kuman pada tangan sebelum makan.
 
 ---
 
 ## Soal 11 — K03-IPAS-B01-M01-011
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "membantu memenuhi kebutuhan cairan"?
+**Pertanyaan:** Dua teman merasakan aroma bunga yang sama, tetapi pendapat mereka tentang harumnya berbeda. Sikap terbaik adalah ....
 
 **Pilihan jawaban:**
-- Orang dewasa tepercaya
-- Bahan tak dikenal
-- Minum air
-- Indra
+- Memaksa teman setuju
+- Mengejek penciuman teman
+- Menghargai perbedaan pendapat
+- Menganggap teman berbohong
 
-**Kunci Jawaban:** Minum air
+**Kunci Jawaban:** Menghargai perbedaan pendapat
 
-**Pembahasan:** Minum air adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu memenuhi kebutuhan cairan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Penilaian terhadap aroma dapat berbeda. Menghargai pendapat teman adalah sikap yang tepat.
 
 ---
 
 ## Soal 12 — K03-IPAS-B01-M01-012
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk membuat teman merasa diterima. Istilah apakah yang paling tepat?
+**Pertanyaan:** Agar mata tidak cepat lelah saat membaca, kebiasaan yang lebih baik adalah ....
 
 **Pilihan jawaban:**
-- Matahari langsung
-- Olahraga
-- Mata
-- Menghargai perbedaan
+- Membaca di ruangan sangat gelap
+- Menempelkan buku ke mata
+- Membaca sambil berlari
+- Menggunakan pencahayaan cukup dan beristirahat berkala
 
-**Kunci Jawaban:** Menghargai perbedaan
+**Kunci Jawaban:** Menggunakan pencahayaan cukup dan beristirahat berkala
 
-**Pembahasan:** Menghargai perbedaan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membuat teman merasa diterima". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Cahaya yang cukup dan jeda membantu kenyamanan mata saat membaca.
 
 ---
 
 ## Soal 13 — K03-IPAS-B01-M01-013
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "menghormati batas tubuh orang lain". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Ketika sedang flu, makanan terasa kurang beraroma. Hal ini menunjukkan bahwa ....
 
 **Pilihan jawaban:**
-- Meminta izin
-- Benda asing
-- Mencuci tangan
-- Telinga
+- Penciuman ikut membantu pengalaman menikmati makanan
+- Telinga menentukan rasa manis
+- Kulit menggantikan fungsi lidah
+- Mata selalu menentukan rasa asin
 
-**Kunci Jawaban:** Meminta izin
+**Kunci Jawaban:** Penciuman ikut membantu pengalaman menikmati makanan
 
-**Pembahasan:** Meminta izin adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menghormati batas tubuh orang lain". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Aroma yang ditangkap hidung berperan dalam pengalaman merasakan makanan bersama indra pengecap.
 
 ---
 
 ## Soal 14 — K03-IPAS-B01-M01-014
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "tempat bercerita saat ada masalah". Konsep apa yang dimaksud?
+**Pertanyaan:** Saat teman berbicara, kita mendengarkan dan melihat ekspresi wajahnya. Artinya ....
 
 **Pilihan jawaban:**
-- Bahan tak dikenal
-- Orang dewasa tepercaya
-- Indra
-- Hidung
+- Hanya satu indra bekerja setiap saat
+- Beberapa indra dapat bekerja sama
+- Indra tidak diperlukan untuk berkomunikasi
+- Lidah bertugas melihat wajah
 
-**Kunci Jawaban:** Orang dewasa tepercaya
+**Kunci Jawaban:** Beberapa indra dapat bekerja sama
 
-**Pembahasan:** Orang dewasa tepercaya adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tempat bercerita saat ada masalah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Telinga menangkap suara dan mata menangkap ekspresi; keduanya membantu memahami pesan.
 
 ---
 
 ## Soal 15 — K03-IPAS-B01-M01-015
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "tidak boleh ditatap"?
+**Pertanyaan:** Raka menemukan botol cairan tanpa label di gudang. Ia penasaran dengan baunya. Apa yang sebaiknya ia lakukan?
 
 **Pilihan jawaban:**
-- Olahraga
-- Mata
-- Matahari langsung
-- Lidah
+- Mencicipinya sedikit
+- Menghirupnya dekat-dekat
+- Tidak membuka atau mencium langsung dan memberi tahu orang dewasa
+- Menyemprotkannya ke teman
 
-**Kunci Jawaban:** Matahari langsung
+**Kunci Jawaban:** Tidak membuka atau mencium langsung dan memberi tahu orang dewasa
 
-**Pembahasan:** Matahari langsung adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tidak boleh ditatap". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Cairan tidak dikenal bisa berbahaya. Hindari mencicipi atau menghirup langsung dan mintalah bantuan orang dewasa.
 
 ---
 
 ## Soal 16 — K03-IPAS-B01-M01-016
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk tidak dimasukkan ke telinga. Istilah apakah yang paling tepat?
+**Pertanyaan:** Saat bermain, Dini merasa permukaan batu kasar dan daun halus. Perbedaan ini dikenali terutama melalui ....
 
 **Pilihan jawaban:**
-- Mencuci tangan
-- Telinga
-- Kulit
-- Benda asing
+- Pendengaran
+- Penglihatan warna saja
+- Penciuman
+- Sentuhan kulit
 
-**Kunci Jawaban:** Benda asing
+**Kunci Jawaban:** Sentuhan kulit
 
-**Pembahasan:** Benda asing adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tidak dimasukkan ke telinga". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Reseptor pada kulit membantu mengenali tekstur ketika menyentuh benda.
 
 ---
 
 ## Soal 17 — K03-IPAS-B01-M01-017
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "tidak boleh dicicipi". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Mengapa kita perlu tidur cukup setiap malam?
 
 **Pilihan jawaban:**
-- Bahan tak dikenal
-- Indra
-- Hidung
-- Otak
+- Agar tubuh dan otak memiliki waktu beristirahat
+- Agar tidak perlu minum air
+- Agar mata tidak pernah berkedip
+- Agar tidak perlu makan
 
-**Kunci Jawaban:** Bahan tak dikenal
+**Kunci Jawaban:** Agar tubuh dan otak memiliki waktu beristirahat
 
-**Pembahasan:** Bahan tak dikenal adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tidak boleh dicicipi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Tidur membantu pemulihan tubuh serta mendukung konsentrasi dan aktivitas belajar.
 
 ---
 
 ## Soal 18 — K03-IPAS-B01-M01-018
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "membantu menjaga kebugaran". Konsep apa yang dimaksud?
+**Pertanyaan:** Saat makan siang, pilihan yang lebih mendukung kesehatan tubuh adalah ....
 
 **Pilihan jawaban:**
-- Mata
-- Olahraga
-- Lidah
-- Kacamata
+- Hanya permen
+- Makanan beragam dengan sayur, lauk, dan sumber karbohidrat
+- Hanya minuman manis
+- Tidak makan sepanjang hari
 
-**Kunci Jawaban:** Olahraga
+**Kunci Jawaban:** Makanan beragam dengan sayur, lauk, dan sumber karbohidrat
 
-**Pembahasan:** Olahraga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu menjaga kebugaran". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Makanan beragam menyediakan zat gizi yang diperlukan tubuh untuk tumbuh dan beraktivitas.
 
 ---
 
 ## Soal 19 — K03-IPAS-B01-M01-019
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "dilakukan sebelum makan"?
+**Pertanyaan:** Tomi melihat temannya kesulitan membaca tulisan kecil. Sikap yang tepat adalah ....
 
 **Pilihan jawaban:**
-- Telinga
-- Kulit
-- Mencuci tangan
-- Sabun
+- Mengejek temannya
+- Menyembunyikan buku temannya
+- Membantu dan menyarankan meminta bantuan guru atau orang tua
+- Memaksanya membaca lebih cepat
 
-**Kunci Jawaban:** Mencuci tangan
+**Kunci Jawaban:** Membantu dan menyarankan meminta bantuan guru atau orang tua
 
-**Pembahasan:** Mencuci tangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dilakukan sebelum makan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Membantu tanpa mengejek dan meminta dukungan orang dewasa merupakan sikap peduli.
 
 ---
 
 ## Soal 20 — K03-IPAS-B01-M01-020
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk membantu mengenal lingkungan. Istilah apakah yang paling tepat?
+**Pertanyaan:** Saat hujan deras disertai petir, Edo ingin bermain di lapangan terbuka. Pilihan paling aman adalah ....
 
 **Pilihan jawaban:**
-- Hidung
-- Otak
-- Tidur cukup
-- Indra
+- Berlindung di bawah pohon tinggi
+- Tetap bermain sambil membawa payung logam
+- Berdiri di tempat paling tinggi
+- Masuk ke bangunan yang aman dan menunggu badai reda
 
-**Kunci Jawaban:** Indra
+**Kunci Jawaban:** Masuk ke bangunan yang aman dan menunggu badai reda
 
-**Pembahasan:** Indra adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu mengenal lingkungan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Petir berbahaya di ruang terbuka. Bangunan tertutup yang aman merupakan tempat berlindung yang lebih baik.
 
 ---
 

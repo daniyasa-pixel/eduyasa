@@ -4,161 +4,161 @@
 
 ## Soal 1 — K03-PAI-B01-M01-001
 
-**Pertanyaan:** Surah Al-'Alaq ayat 1–5 mengajak manusia untuk ....
+**Pertanyaan:** Saat belajar Surah Al-'Alaq ayat 1–5, perilaku yang paling sesuai dengan pesan membaca dan belajar ialah ....
 
 **Pilihan jawaban:**
-- membaca dan belajar
-- bermalas-malasan
-- meninggalkan ilmu
-- mengejek teman
+- Membaca buku lalu bertanya jika belum paham
+- Menolak belajar hal baru
+- Mengganggu teman membaca
+- Menyembunyikan buku kelas
 
-**Kunci Jawaban:** membaca dan belajar
+**Kunci Jawaban:** Membaca buku lalu bertanya jika belum paham
 
-**Pembahasan:** Surah Al-'Alaq ayat 1–5 mengajak manusia untuk membaca dan belajar.
+**Pembahasan:** Ayat-ayat awal Surah Al-'Alaq mengajarkan pentingnya membaca dan ilmu. Bertanya ketika belum paham membantu proses belajar.
 
 ---
 
 ## Soal 2 — K03-PAI-B01-M01-002
 
-**Pertanyaan:** Kata pertama wahyu yang diterima Nabi Muhammad saw. adalah ....
+**Pertanyaan:** Guru mengajak siswa mengingat kata pembuka wahyu pertama. Kata yang dimaksud adalah ....
 
 **Pilihan jawaban:**
 - Amin
 - Iqra'
-- Alhamdulillah
-- Subhanallah
+- Salam
+- Takbir
 
 **Kunci Jawaban:** Iqra'
 
-**Pembahasan:** Kata pertama wahyu yang diterima Nabi Muhammad saw. adalah Iqra'.
+**Pembahasan:** Iqra' berarti bacalah dan merupakan kata pembuka wahyu pertama yang diterima Nabi Muhammad saw.
 
 ---
 
 ## Soal 3 — K03-PAI-B01-M01-003
 
-**Pertanyaan:** Surah Al-'Alaq merupakan surah ke- ....
+**Pertanyaan:** Siswa ingin mencari Surah Al-'Alaq dalam mushaf. Surah tersebut bernomor ....
 
 **Pilihan jawaban:**
-- 97
-- 99
-- 96
 - 95
+- 97
+- 96
+- 98
 
 **Kunci Jawaban:** 96
 
-**Pembahasan:** Surah Al-'Alaq merupakan surah ke- 96.
+**Pembahasan:** Surah Al-'Alaq adalah surah ke-96 dalam Al-Qur'an.
 
 ---
 
 ## Soal 4 — K03-PAI-B01-M01-004
 
-**Pertanyaan:** Jumlah ayat yang dipelajari pada awal Surah Al-'Alaq adalah ....
+**Pertanyaan:** Dalam pelajaran ini siswa membaca bagian awal Surah Al-'Alaq. Bagian awal yang dikenal sebagai wahyu pertama terdiri atas ....
 
 **Pilihan jawaban:**
-- 3
-- 7
-- 10
-- 5
+- 3 ayat
+- 4 ayat
+- 6 ayat
+- 5 ayat
 
-**Kunci Jawaban:** 5
+**Kunci Jawaban:** 5 ayat
 
-**Pembahasan:** Jumlah ayat yang dipelajari pada awal Surah Al-'Alaq adalah 5.
+**Pembahasan:** Lima ayat pertama Surah Al-'Alaq dikenal sebagai wahyu pertama yang diterima Nabi Muhammad saw.
 
 ---
 
 ## Soal 5 — K03-PAI-B01-M01-005
 
-**Pertanyaan:** Qalqalah berarti bunyi huruf yang ....
+**Pertanyaan:** Saat membaca huruf qalqalah dalam keadaan sukun, cara membacanya yang tepat ialah ....
 
 **Pilihan jawaban:**
-- memantul ketika dibaca sesuai kaidah
-- selalu dipanjangkan enam harakat
-- selalu dibaca samar
-- selalu dihilangkan
+- Memantulkan bunyi huruf sesuai kaidah tajwid
+- Selalu memanjangkan enam harakat
+- Menghilangkan huruf
+- Mengganti huruf menjadi alif
 
-**Kunci Jawaban:** memantul ketika dibaca sesuai kaidah
+**Kunci Jawaban:** Memantulkan bunyi huruf sesuai kaidah tajwid
 
-**Pembahasan:** Qalqalah berarti bunyi huruf yang memantul ketika dibaca sesuai kaidah.
+**Pembahasan:** Qalqalah adalah pantulan bunyi pada huruf tertentu ketika sukun, bukan pemanjangan bacaan.
 
 ---
 
 ## Soal 6 — K03-PAI-B01-M01-006
 
-**Pertanyaan:** Huruf qalqalah terkumpul dalam ungkapan ....
+**Pertanyaan:** Kelompok huruf qalqalah dapat diingat dengan ungkapan ....
 
 **Pilihan jawaban:**
-- ha kha ain
-- quthbu jaddin
-- alif lam mim
-- nun mim waw
+- Alif lam mim
+- Quthbu jaddin
+- Nun mim waw
+- Ha kha 'ain
 
-**Kunci Jawaban:** quthbu jaddin
+**Kunci Jawaban:** Quthbu jaddin
 
-**Pembahasan:** Huruf qalqalah terkumpul dalam ungkapan quthbu jaddin.
+**Pembahasan:** Ungkapan quthbu jaddin merangkum lima huruf qalqalah: qaf, tha, ba, jim, dan dal.
 
 ---
 
 ## Soal 7 — K03-PAI-B01-M01-007
 
-**Pertanyaan:** Allah mengajar manusia dengan perantaraan ....
+**Pertanyaan:** Ayat keempat Surah Al-'Alaq menyebut bahwa Allah mengajar dengan perantaraan ....
 
 **Pilihan jawaban:**
-- permainan
-- perhiasan
-- pena (qalam)
-- harta
+- Harta
+- Perhiasan
+- Qalam atau pena
+- Permainan
 
-**Kunci Jawaban:** pena (qalam)
+**Kunci Jawaban:** Qalam atau pena
 
-**Pembahasan:** Allah mengajar manusia dengan perantaraan pena (qalam).
+**Pembahasan:** Surah Al-'Alaq ayat 4 menyebut pengajaran dengan qalam, yang menunjukkan pentingnya ilmu dan tulisan.
 
 ---
 
 ## Soal 8 — K03-PAI-B01-M01-008
 
-**Pertanyaan:** Manusia diciptakan Allah dari ....
+**Pertanyaan:** Rafa tidak memahami arti kata dalam bacaan. Sikap yang sesuai dengan semangat belajar ialah ....
 
 **Pilihan jawaban:**
-- api
-- cahaya bulan
-- tanah liat yang dibakar
-- 'alaq menurut QS. Al-'Alaq ayat 2
+- Berpura-pura sudah paham
+- Mengejek teman yang bertanya
+- Berhenti belajar selamanya
+- Bertanya dengan sopan kepada guru
 
-**Kunci Jawaban:** 'alaq menurut QS. Al-'Alaq ayat 2
+**Kunci Jawaban:** Bertanya dengan sopan kepada guru
 
-**Pembahasan:** Manusia diciptakan Allah dari 'alaq menurut QS. Al-'Alaq ayat 2.
+**Pembahasan:** Bertanya dengan sopan merupakan cara mencari ilmu ketika belum memahami pelajaran.
 
 ---
 
 ## Soal 9 — K03-PAI-B01-M01-009
 
-**Pertanyaan:** Membaca Al-Qur'an dengan tartil berarti ....
+**Pertanyaan:** Dua siswa berbeda kemampuan membaca Al-Qur'an. Sikap yang tepat adalah ....
 
 **Pilihan jawaban:**
-- membaca dengan jelas dan teratur
-- membaca secepat mungkin
-- membaca tanpa memperhatikan huruf
-- membaca sambil bercanda
+- Saling membantu berlatih tanpa mengejek
+- Menertawakan yang belum lancar
+- Melarang teman belajar
+- Membandingkan dengan kasar
 
-**Kunci Jawaban:** membaca dengan jelas dan teratur
+**Kunci Jawaban:** Saling membantu berlatih tanpa mengejek
 
-**Pembahasan:** Membaca Al-Qur'an dengan tartil berarti membaca dengan jelas dan teratur.
+**Pembahasan:** Belajar Al-Qur'an memerlukan latihan. Saling membantu dan menjaga adab lebih baik daripada mengejek.
 
 ---
 
 ## Soal 10 — K03-PAI-B01-M01-010
 
-**Pertanyaan:** Sikap yang sesuai pesan Surah Al-'Alaq adalah ....
+**Pertanyaan:** Ketika membaca Al-Qur'an, siswa menemukan bacaan yang belum benar. Langkah yang tepat ialah ....
 
 **Pilihan jawaban:**
-- menolak membaca
-- rajin belajar dengan rendah hati
-- menyombongkan kepandaian
-- mengabaikan nasihat guru
+- Menebak tanpa belajar
+- Meminta bimbingan guru dan berlatih lagi
+- Meninggalkan semua latihan
+- Mengubah huruf sesuka hati
 
-**Kunci Jawaban:** rajin belajar dengan rendah hati
+**Kunci Jawaban:** Meminta bimbingan guru dan berlatih lagi
 
-**Pembahasan:** Sikap yang sesuai pesan Surah Al-'Alaq adalah rajin belajar dengan rendah hati.
+**Pembahasan:** Bimbingan guru membantu memperbaiki makhraj dan tajwid agar bacaan lebih tepat.
 
 ---
 
