@@ -5,14 +5,14 @@
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
-| PAI | Belum dikerjakan | Belum diperiksa ulang | 300 soal/10 bab |
+| PAI | Bab 1: 23 butir berubah dan dua modul direvisi | 30/300 diperiksa; pratinjau HP Bab 1 tertunda | 270 soal/9 bab, serta pratinjau HP Bab 1 |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **560/1.945**. Jumlah diubah: **546**.
-Sisa audit isi: **1.385 soal pada 33 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
-33 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **590/1.945**. Jumlah diubah: **569**.
+Sisa audit isi: **1.355 soal pada 32 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
+32 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -270,20 +270,29 @@ belum dipenuhi dan tidak diklaim sudah dilakukan. Tidak ada JSON/rilis aplikasi.
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar delapan bab IPAS
-belum memperoleh pemeriksaan isi putaran ini. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
+Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS dan PAI Bab 1. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
 Dua belas SVG Bab 1 dirender pada Chromium dan diperiksa batas teksnya;
 lembar gambar ditinjau secara visual. Perubahan akhir ikon diuji ulang.
 Pemeriksaan ini bukan uji coba kepada siswa atau pengukuran kesulitan empiris.
 
+## PAI Bab 1 — isi diperiksa, pratinjau HP tertunda
+
+Semua 30 soal diperiksa terhadap QS. Al-'Alaq 1–5 serta Bab I buku siswa
+dan panduan guru edisi 2022, tertaut di kedua modul. 23 soal berubah.
+ID/jumlah kedua modul dan 30 soal dipertahankan. Soal pengulangan diganti
+dengan pemahaman urutan dan makna ayat, penerapan qalqalah sugra/kubra,
+penyalinan, strategi hafalan, serta belajar dengan rendah hati. Penyebutan
+asal nama surah mengikuti ayat 2, sesuai teks ayat dan rangkuman buku.
+Kedua modul mencakup kompetensi yang sama dan memuat contoh tajwid sebagai
+teks Arab. Bab ini tidak mempunyai aset gambar atau audio terpisah.
+Pelafalan perlu disimak guru. Validator kanonis: 1.945 soal, 0 kesalahan
+struktur; 30 stem unik dan ID sama dengan versi sebelumnya. Chromium lokal
+gagal membuat soket, sehingga tampilan teks Arab pada lebar HP masih perlu diuji.
+
 ## Posisi lanjut yang tepat
 
-Lanjut **PAI Bab 1, nomor 001–030**, kedua modul dan rujukan resmi ayat/tajwid,
-lalu Bab 2–10. Baca kondisi terbaru karena beberapa revisi terdahulu belum
-otomatis lulus. Pertahankan 30 soal/bab dan ID K03. Kemudian lanjut ENG,
-PJOK, dan Seni Rupa sesuai urutan. Dilarang konversi JSON pada tahap ini.
-
-Dilarang menyimpulkan keseluruhan selesai dari checkpoint ini. Jangan membuat
-JSON, mengaktifkan draft pada aplikasi, atau mengubah BIN, MTK, dan PKN.
+Uji pratinjau HP PAI Bab 1 saat browser tersedia dan lanjutkan audit isi PAI
+Bab 2–10, lalu ENG, PJOK, dan Seni Rupa. Pertahankan Markdown dan tunda
+konversi JSON serta aktivasi aplikasi. Jangan ubah BIN, MTK, atau PKN.

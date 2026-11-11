@@ -8,7 +8,7 @@
 |---|---:|---:|---|---|---|
 | IPAS | 8 | 560 | Pola berulang, opsi ambigu, gambar membocorkan definisi, penyederhanaan konsep diperbaiki | 560 diperiksa; 546 diubah; 16 modul dan media delapan bab diselaraskan | Putaran isi/media selesai; belum konversi atau uji siswa |
 | ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Belum | Variasi kompetensi bahasa, stimulus gambar, audio TTS dan uji WebView |
-| PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID soal dan modul 10 bab sudah diperbaiki | Tulis ulang duplikasi, audit ayat/hadis/tajwid, ketepatan materi dan pembahasan |
+| PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; Bab 1 diperiksa per butir dan kedua modul diselaraskan | Bab 2–10 dan pratinjau HP Bab 1 |
 | PJOK | 8 | 360 | Soal berulang; ilustrasi hanya simbol; berkas soal lama dengan ID lain masih ada | Belum | Revisi teknik gerak dan keselamatan, ilustrasi, pilih bank resmi, modul belum ada |
 | SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik; bab internal belum diverifikasi terhadap buku | Belum | Soal pengamatan visual, distraktor, ilustrasi, verifikasi bab resmi |
 
@@ -122,3 +122,12 @@ tersedia, 96 SVG valid XML; tidak ada badan soal lengkap identik dalam 560
 butir. Validator kanonis lima mapel: 1.945 soal, 0 kesalahan struktur.
 Keseluruhan tetap **BELUM SELESAI**: PAI, ENG, PJOK, Seni Rupa masih 1.385
 soal/33 bab. Titik lanjut PAI Bab 1, tanpa konversi JSON atau aktivasi aplikasi.
+
+### Kelanjutan: PAI Bab 1
+
+30 butir diperiksa, 23 diubah, kedua modul direvisi berdasarkan buku siswa
+dan panduan guru. ID dan jumlah tetap. Audit makna ayat, qalqalah, penyalinan,
+hafalan dan penerapan selesai untuk Bab 1. Pratinjau HP teks Arab tertunda
+karena Chromium lokal tidak dapat membuat soket. Kumulatif 590 diperiksa;
+1.355 soal/32 bab atau unit tersisa. Lanjut PAI Bab 2. Status keseluruhan
+tetap **BELUM SELESAI**. Tidak ada konversi JSON atau aktivasi aplikasi.

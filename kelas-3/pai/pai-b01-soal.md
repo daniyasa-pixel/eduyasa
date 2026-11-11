@@ -1,16 +1,16 @@
 # PAI Kelas 3 — Bab 1: Asyiknya Belajar Surah Al-'Alaq
 
-**STATUS DRAF:** 30 soal pilihan ganda. Ada pengulangan kompetensi antarpertanyaan; wajib revisi variasi dan audit agama sebelum rilis.
+30 soal pilihan ganda untuk memahami ayat 1–5, tajwid, penyalinan, hafalan, dan penerapan pesan. Praktik pelafalan diperiksa bersama guru.
 
 ## Soal 1 — K03-PAI-B01-M01-001
 
-**Pertanyaan:** Saat belajar Surah Al-'Alaq ayat 1–5, perilaku yang paling sesuai dengan pesan membaca dan belajar ialah ....
+**Pertanyaan:** Saat belajar Surah Al-'Alaq ayat 1–5, perilaku apa yang paling membantu siswa memahami bacaan?
 
 **Pilihan jawaban:**
 - Membaca buku lalu bertanya jika belum paham
-- Menolak belajar hal baru
-- Mengganggu teman membaca
-- Menyembunyikan buku kelas
+- Membaca judulnya lalu langsung menebak isi
+- Menyalin paragraf tanpa memikirkan maknanya
+- Membaca cepat dan melewatkan bagian sulit
 
 **Kunci Jawaban:** Membaca buku lalu bertanya jika belum paham
 
@@ -94,7 +94,7 @@
 
 **Kunci Jawaban:** Quthbu jaddin
 
-**Pembahasan:** Ungkapan quthbu jaddin merangkum lima huruf qalqalah: qaf, tha, ba, jim, dan dal.
+**Pembahasan:** Ungkapan quthbu jaddin merangkum lima huruf qalqalah: qaf, ṭa (ط), ba, jim, dan dal.
 
 ---
 
@@ -103,10 +103,10 @@
 **Pertanyaan:** Ayat keempat Surah Al-'Alaq menyebut bahwa Allah mengajar dengan perantaraan ....
 
 **Pilihan jawaban:**
-- Harta
-- Perhiasan
+- Kitab
+- Mushaf
 - Qalam atau pena
-- Permainan
+- Lisan
 
 **Kunci Jawaban:** Qalam atau pena
 
@@ -164,340 +164,320 @@
 
 ## Soal 11 — K03-PAI-B01-M01-011
 
-**Pertanyaan:** Pilih jawaban yang tepat: surah Al-'Alaq ayat 1–5 mengajak manusia untuk ....
+**Pertanyaan:** Di ayat pertama, perintah membaca disertai petunjuk untuk menyebut nama siapa?
 
 **Pilihan jawaban:**
-- meninggalkan ilmu
-- mengejek teman
-- membaca dan belajar
-- bermalas-malasan
+- Nama guru yang membimbing
+- Nama orang yang menulis
+- Nama Tuhan yang menciptakan
+- Nama orang yang mendengarkan
 
-**Kunci Jawaban:** membaca dan belajar
+**Kunci Jawaban:** Nama Tuhan yang menciptakan
 
-**Pembahasan:** Surah Al-'Alaq ayat 1–5 mengajak manusia untuk membaca dan belajar.
+**Pembahasan:** Perintah membaca pada ayat 1 dikaitkan dengan nama Tuhan yang menciptakan.
 
 ---
 
 ## Soal 12 — K03-PAI-B01-M01-012
 
-**Pertanyaan:** Pilih jawaban yang tepat: kata pertama wahyu yang diterima Nabi Muhammad saw. adalah ....
+**Pertanyaan:** Kata عَلَقٍ dalam bagian yang sedang dipelajari ada pada ayat berapa?
 
 **Pilihan jawaban:**
-- Alhamdulillah
-- Subhanallah
-- Amin
-- Iqra'
+- Ayat 1
+- Ayat 3
+- Ayat 4
+- Ayat 2
 
-**Kunci Jawaban:** Iqra'
+**Kunci Jawaban:** Ayat 2
 
-**Pembahasan:** Kata pertama wahyu yang diterima Nabi Muhammad saw. adalah Iqra'.
+**Pembahasan:** Ayat 2 menyebut asal penciptaan manusia dan memuat kata yang menjadi nama surah.
 
 ---
 
 ## Soal 13 — K03-PAI-B01-M01-013
 
-**Pertanyaan:** Pilih jawaban yang tepat: surah Al-'Alaq merupakan surah ke- ....
+**Pertanyaan:** Ayat mana yang menyandingkan perintah membaca dengan penyebutan Tuhan Yang Mahamulia?
 
 **Pilihan jawaban:**
-- 96
-- 95
-- 97
-- 99
+- Ayat 3
+- Ayat 1
+- Ayat 2
+- Ayat 5
 
-**Kunci Jawaban:** 96
+**Kunci Jawaban:** Ayat 3
 
-**Pembahasan:** Surah Al-'Alaq merupakan surah ke- 96.
+**Pembahasan:** Perintah membaca muncul lagi pada ayat 3, kali ini diikuti penyebutan Tuhan Yang Mahamulia.
 
 ---
 
 ## Soal 14 — K03-PAI-B01-M01-014
 
-**Pertanyaan:** Pilih jawaban yang tepat: jumlah ayat yang dipelajari pada awal Surah Al-'Alaq adalah ....
+**Pertanyaan:** Apa yang diajarkan Allah kepada manusia menurut ayat 5?
 
 **Pilihan jawaban:**
-- 10
-- 5
-- 3
-- 7
+- Hanya cara memakai pena
+- Apa yang sebelumnya tidak ia ketahui
+- Hanya cara membaca huruf
+- Apa yang sudah ia kuasai
 
-**Kunci Jawaban:** 5
+**Kunci Jawaban:** Apa yang sebelumnya tidak ia ketahui
 
-**Pembahasan:** Jumlah ayat yang dipelajari pada awal Surah Al-'Alaq adalah 5.
+**Pembahasan:** Ayat 5 menyebut ilmu yang semula belum diketahui manusia. Pena dibicarakan pada ayat sebelumnya.
 
 ---
 
 ## Soal 15 — K03-PAI-B01-M01-015
 
-**Pertanyaan:** Pilih jawaban yang tepat: qalqalah berarti bunyi huruf yang ....
+**Pertanyaan:** Catatan kelompok menaruh pesan tentang pena sebelum pesan tentang Tuhan Yang Mahamulia. Apa perbaikan urutannya?
 
 **Pilihan jawaban:**
-- selalu dibaca samar
-- selalu dihilangkan
-- memantul ketika dibaca sesuai kaidah
-- selalu dipanjangkan enam harakat
+- Pesan tentang pena lalu pesan penciptaan manusia
+- Pesan tentang pena lalu perintah pertama membaca
+- Pesan tentang Tuhan Yang Mahamulia lalu pesan tentang pena
+- Kedua pesan digabung sebagai isi ayat 2
 
-**Kunci Jawaban:** memantul ketika dibaca sesuai kaidah
+**Kunci Jawaban:** Pesan tentang Tuhan Yang Mahamulia lalu pesan tentang pena
 
-**Pembahasan:** Qalqalah berarti bunyi huruf yang memantul ketika dibaca sesuai kaidah.
+**Pembahasan:** Penyebutan Tuhan Yang Mahamulia ada pada ayat 3 dan pena pada ayat 4.
 
 ---
 
 ## Soal 16 — K03-PAI-B01-M01-016
 
-**Pertanyaan:** Pilih jawaban yang tepat: huruf qalqalah terkumpul dalam ungkapan ....
+**Pertanyaan:** Ketika membaca اِقْرَأْ, huruf mana yang dipantulkan?
 
 **Pilihan jawaban:**
-- alif lam mim
-- nun mim waw
-- ha kha ain
-- quthbu jaddin
+- ر
+- ا
+- ء
+- ق
 
-**Kunci Jawaban:** quthbu jaddin
+**Kunci Jawaban:** ق
 
-**Pembahasan:** Huruf qalqalah terkumpul dalam ungkapan quthbu jaddin.
+**Pembahasan:** Huruf ق pada kata itu bersukun dan termasuk huruf qalqalah. Hamzah di akhir kata juga bersukun, tetapi tidak termasuk kelompok huruf qalqalah.
 
 ---
 
 ## Soal 17 — K03-PAI-B01-M01-017
 
-**Pertanyaan:** Pilih jawaban yang tepat: allah mengajar manusia dengan perantaraan ....
+**Pertanyaan:** Pada خَلَقَ di akhir ayat 1, apa yang terjadi pada ق ketika pembaca berhenti?
 
 **Pilihan jawaban:**
-- pena (qalam)
-- harta
-- permainan
-- perhiasan
+- Dibaca mati dengan pantulan
+- Dibaca hidup dengan bunyi a
+- Dipanjangkan seperti alif
+- Dilewati dan tidak dibaca
 
-**Kunci Jawaban:** pena (qalam)
+**Kunci Jawaban:** Dibaca mati dengan pantulan
 
-**Pembahasan:** Allah mengajar manusia dengan perantaraan pena (qalam).
+**Pembahasan:** Ketika berhenti pada akhir kata ini, qaf menjadi mati sehingga dibaca dengan qalqalah kubra.
 
 ---
 
 ## Soal 18 — K03-PAI-B01-M01-018
 
-**Pertanyaan:** Pilih jawaban yang tepat: manusia diciptakan Allah dari ....
+**Pertanyaan:** Huruf ق pada اِقْرَأْ sudah bersukun saat bacaan diteruskan. Apa jenis qalqalahnya?
 
 **Pilihan jawaban:**
-- tanah liat yang dibakar
-- 'alaq menurut QS. Al-'Alaq ayat 2
-- api
-- cahaya bulan
+- Qalqalah kubra
+- Qalqalah sugra
+- Mad
+- Idgam
 
-**Kunci Jawaban:** 'alaq menurut QS. Al-'Alaq ayat 2
+**Kunci Jawaban:** Qalqalah sugra
 
-**Pembahasan:** Manusia diciptakan Allah dari 'alaq menurut QS. Al-'Alaq ayat 2.
+**Pembahasan:** Sukun pada qaf sudah ada dalam kata. Pantulannya ringan dan tidak menunggu pembaca berhenti.
 
 ---
 
 ## Soal 19 — K03-PAI-B01-M01-019
 
-**Pertanyaan:** Pilih jawaban yang tepat: membaca Al-Qur'an dengan tartil berarti ....
+**Pertanyaan:** Dalam اِقْرَأْ, ada dua huruf bersukun. Apa syarat tambahan untuk mendapat pantulan qalqalah?
 
 **Pilihan jawaban:**
-- membaca tanpa memperhatikan huruf
-- membaca sambil bercanda
-- membaca dengan jelas dan teratur
-- membaca secepat mungkin
+- Huruf yang bersukun berada di akhir kata
+- Huruf yang bersukun didahului alif
+- Huruf yang bersukun termasuk ق ط ب ج د
+- Huruf yang bersukun harus berupa hamzah
 
-**Kunci Jawaban:** membaca dengan jelas dan teratur
+**Kunci Jawaban:** Huruf yang bersukun termasuk ق ط ب ج د
 
-**Pembahasan:** Membaca Al-Qur'an dengan tartil berarti membaca dengan jelas dan teratur.
+**Pembahasan:** Sukun saja belum cukup. Pantulan hanya berlaku untuk lima huruf qalqalah.
 
 ---
 
 ## Soal 20 — K03-PAI-B01-M01-020
 
-**Pertanyaan:** Pilih jawaban yang tepat: sikap yang sesuai pesan Surah Al-'Alaq adalah ....
+**Pertanyaan:** Saat berhenti di akhir ayat 5 pada يَعْلَمْ, mengapa mim tidak dipantulkan?
 
 **Pilihan jawaban:**
-- menyombongkan kepandaian
-- mengabaikan nasihat guru
-- menolak membaca
-- rajin belajar dengan rendah hati
+- Semua huruf terakhir harus dipanjangkan
+- Qalqalah hanya dapat muncul pada ayat 1
+- Sukun pada mim perlu diubah menjadi fathah
+- Mim tidak termasuk huruf qalqalah
 
-**Kunci Jawaban:** rajin belajar dengan rendah hati
+**Kunci Jawaban:** Mim tidak termasuk huruf qalqalah
 
-**Pembahasan:** Sikap yang sesuai pesan Surah Al-'Alaq adalah rajin belajar dengan rendah hati.
+**Pembahasan:** Mim tetap dibaca mati sesuai bunyinya. Kelompok qalqalah terdiri atas qaf, tha, ba, jim, dan dal.
 
 ---
 
 ## Soal 21 — K03-PAI-B01-M01-021
 
-**Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
-
-Surah Al-'Alaq ayat 1–5 mengajak manusia untuk ....
+**Pertanyaan:** Saat berlatih mengucapkan qaf bersukun, Hasan menambah bunyi vokal a setelah pantulan. Apa yang perlu ia perbaiki?
 
 **Pilihan jawaban:**
-- membaca dan belajar
-- bermalas-malasan
-- meninggalkan ilmu
-- mengejek teman
+- Pertahankan pantulan tanpa menambahkan vokal
+- Panjangkan bunyi a agar lebih terdengar
+- Ubah sukun menjadi fathah
+- Lewati qaf saat membaca
 
-**Kunci Jawaban:** membaca dan belajar
+**Kunci Jawaban:** Pertahankan pantulan tanpa menambahkan vokal
 
-**Pembahasan:** Surah Al-'Alaq ayat 1–5 mengajak manusia untuk membaca dan belajar.
+**Pembahasan:** Qalqalah memberi pantulan pada huruf mati. Menambahkan bunyi a akan membuatnya terdengar seperti huruf berfathah.
 
 ---
 
 ## Soal 22 — K03-PAI-B01-M01-022
 
-**Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
-
-Kata pertama wahyu yang diterima Nabi Muhammad saw. adalah ....
+**Pertanyaan:** Guru meminta murid membandingkan qaf pada اِقْرَأْ dan qaf ketika berhenti pada خَلَقَ. Apa yang membedakan keduanya?
 
 **Pilihan jawaban:**
-- Amin
-- Iqra'
-- Alhamdulillah
-- Subhanallah
+- Keduanya mati karena berhenti
+- Yang pertama bersukun sejak awal, yang kedua mati karena berhenti
+- Yang pertama dibaca panjang, yang kedua tidak dibaca
+- Yang pertama berfathah, yang kedua sejak awal bersukun
 
-**Kunci Jawaban:** Iqra'
+**Kunci Jawaban:** Yang pertama bersukun sejak awal, yang kedua mati karena berhenti
 
-**Pembahasan:** Kata pertama wahyu yang diterima Nabi Muhammad saw. adalah Iqra'.
+**Pembahasan:** Sukun asli dan sukun karena berhenti menjadi dasar pembedaan sugra dan kubra pada dua contoh ini.
 
 ---
 
 ## Soal 23 — K03-PAI-B01-M01-023
 
-**Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
-
-Surah Al-'Alaq merupakan surah ke- ....
+**Pertanyaan:** Dita menyalin sebuah potongan ayat ke buku tulis. Dari sisi mana ia mulai menulis teks Arab?
 
 **Pilihan jawaban:**
-- 97
-- 99
-- 96
-- 95
+- Dari kiri menuju kanan
+- Dari tengah menuju kanan
+- Dari kanan menuju kiri
+- Dari tengah menuju kiri
 
-**Kunci Jawaban:** 96
+**Kunci Jawaban:** Dari kanan menuju kiri
 
-**Pembahasan:** Surah Al-'Alaq merupakan surah ke- 96.
+**Pembahasan:** Arah penulisan teks Arab adalah dari kanan ke kiri. Letakkan contoh di posisi yang mudah dilihat saat menyalin.
 
 ---
 
 ## Soal 24 — K03-PAI-B01-M01-024
 
-**Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
-
-Jumlah ayat yang dipelajari pada awal Surah Al-'Alaq adalah ....
+**Pertanyaan:** Sesudah menyalin satu ayat, Rina ingin memastikan sukunnya tidak tertinggal. Apa yang perlu ia bandingkan?
 
 **Pilihan jawaban:**
-- 3
-- 7
-- 10
-- 5
+- Hanya jumlah barisnya
+- Hanya ukuran hurufnya
+- Hanya kata terakhirnya
+- Setiap huruf beserta tanda bacanya
 
-**Kunci Jawaban:** 5
+**Kunci Jawaban:** Setiap huruf beserta tanda bacanya
 
-**Pembahasan:** Jumlah ayat yang dipelajari pada awal Surah Al-'Alaq adalah 5.
+**Pembahasan:** Sukun adalah salah satu tanda baca. Membandingkan seluruh huruf dan tanda membantu menemukan bagian yang terlewat.
 
 ---
 
 ## Soal 25 — K03-PAI-B01-M01-025
 
-**Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
-
-Qalqalah berarti bunyi huruf yang ....
+**Pertanyaan:** Dua tulisan menyalin urutan huruf yang sama. Tulisan pertama menyambung huruf yang seharusnya terpisah. Apa yang perlu diperiksa bersama guru?
 
 **Pilihan jawaban:**
-- memantul ketika dibaca sesuai kaidah
-- selalu dipanjangkan enam harakat
-- selalu dibaca samar
-- selalu dihilangkan
+- Cara menyambung setiap huruf
+- Jumlah ayat dalam seluruh surah
+- Tempat turunnya ayat
+- Arti semua kata pada surah
 
-**Kunci Jawaban:** memantul ketika dibaca sesuai kaidah
+**Kunci Jawaban:** Cara menyambung setiap huruf
 
-**Pembahasan:** Qalqalah berarti bunyi huruf yang memantul ketika dibaca sesuai kaidah.
+**Pembahasan:** Dalam tulisan Arab, aturan sambungan bergantung pada bentuk huruf. Menyalin urutan huruf saja belum memeriksa sambungannya.
 
 ---
 
 ## Soal 26 — K03-PAI-B01-M01-026
 
-**Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
-
-Huruf qalqalah terkumpul dalam ungkapan ....
+**Pertanyaan:** Fikri sering lupa ayat setelah ayat 2. Latihan mana yang langsung membantu masalah itu?
 
 **Pilihan jawaban:**
-- ha kha ain
-- quthbu jaddin
-- alif lam mim
-- nun mim waw
+- Ulangi nomor surah beberapa kali
+- Latih peralihan dari ayat 2 ke ayat 3 dengan menyimak mushaf
+- Salin nama surah di sampul buku
+- Latih ayat 5 saja tanpa ayat sebelumnya
 
-**Kunci Jawaban:** quthbu jaddin
+**Kunci Jawaban:** Latih peralihan dari ayat 2 ke ayat 3 dengan menyimak mushaf
 
-**Pembahasan:** Huruf qalqalah terkumpul dalam ungkapan quthbu jaddin.
+**Pembahasan:** Berlatih pada bagian yang sering terlewat membantu menjaga urutan hafalan.
 
 ---
 
 ## Soal 27 — K03-PAI-B01-M01-027
 
-**Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
-
-Allah mengajar manusia dengan perantaraan ....
+**Pertanyaan:** Temanmu hafal lima ayat, tetapi belum bisa menceritakan maknanya. Latihan mana yang membantunya memahami pesan ayat 4?
 
 **Pilihan jawaban:**
-- permainan
-- perhiasan
-- pena (qalam)
-- harta
+- Hitung jumlah kata tanpa melihat maknanya
+- Sebutkan nomor surah berulang kali
+- Baca makna ayat lalu beri contoh manfaat mencatat
+- Tulis nama surah dengan warna berbeda
 
-**Kunci Jawaban:** pena (qalam)
+**Kunci Jawaban:** Baca makna ayat lalu beri contoh manfaat mencatat
 
-**Pembahasan:** Allah mengajar manusia dengan perantaraan pena (qalam).
+**Pembahasan:** Ayat 4 menyebut pena. Contoh mencatat pelajaran menghubungkan isi ayat dengan pengalaman sehari-hari.
 
 ---
 
 ## Soal 28 — K03-PAI-B01-M01-028
 
-**Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
-
-Manusia diciptakan Allah dari ....
+**Pertanyaan:** Nisa dapat menjawab soal tajwid tertulis. Bagaimana guru dapat memeriksa apakah ia bisa melafalkannya?
 
 **Pilihan jawaban:**
-- api
-- cahaya bulan
-- tanah liat yang dibakar
-- 'alaq menurut QS. Al-'Alaq ayat 2
+- Minta Nisa menulis nomor ayat
+- Minta Nisa memilih arti kata pena
+- Minta Nisa menyebut nama surah
+- Minta Nisa membaca contoh dengan suara terdengar
 
-**Kunci Jawaban:** 'alaq menurut QS. Al-'Alaq ayat 2
+**Kunci Jawaban:** Minta Nisa membaca contoh dengan suara terdengar
 
-**Pembahasan:** Manusia diciptakan Allah dari 'alaq menurut QS. Al-'Alaq ayat 2.
+**Pembahasan:** Praktik membaca memungkinkan guru mendengar bunyi huruf dan pantulannya.
 
 ---
 
 ## Soal 29 — K03-PAI-B01-M01-029
 
-**Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
-
-Membaca Al-Qur'an dengan tartil berarti ....
+**Pertanyaan:** Saat membaca bergantian, Jamil melihat temannya berhenti karena ragu. Bantuan apa yang paling tepat?
 
 **Pilihan jawaban:**
-- membaca dengan jelas dan teratur
-- membaca secepat mungkin
-- membaca tanpa memperhatikan huruf
-- membaca sambil bercanda
+- Tunggu sebentar lalu tawarkan untuk menyimak bersama
+- Langsung baca keras bersamaan sejak awal
+- Pindahkan giliran tanpa memberi kesempatan
+- Hitung berapa kali ia berhenti dan umumkan
 
-**Kunci Jawaban:** membaca dengan jelas dan teratur
+**Kunci Jawaban:** Tunggu sebentar lalu tawarkan untuk menyimak bersama
 
-**Pembahasan:** Membaca Al-Qur'an dengan tartil berarti membaca dengan jelas dan teratur.
+**Pembahasan:** Memberi waktu dan menawarkan bantuan menjaga giliran sekaligus membantu teman kembali mengikuti bacaan.
 
 ---
 
 ## Soal 30 — K03-PAI-B01-M01-030
 
-**Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
-
-Sikap yang sesuai pesan Surah Al-'Alaq adalah ....
+**Pertanyaan:** Setelah membaca buku tentang cara merawat tanaman, Rani membuat catatan untuk dipakai besok. Pesan mana yang paling tampak dari tindakannya?
 
 **Pilihan jawaban:**
-- menolak membaca
-- rajin belajar dengan rendah hati
-- menyombongkan kepandaian
-- mengabaikan nasihat guru
+- Menghafal semua kalimat tanpa memahami isinya
+- Membaca untuk belajar dan menulis agar ilmu bisa digunakan lagi
+- Mempercepat bacaan untuk mengejar banyak halaman
+- Mengutamakan tulisan rapi meski petunjuk tidak dipahami
 
-**Kunci Jawaban:** rajin belajar dengan rendah hati
+**Kunci Jawaban:** Membaca untuk belajar dan menulis agar ilmu bisa digunakan lagi
 
-**Pembahasan:** Sikap yang sesuai pesan Surah Al-'Alaq adalah rajin belajar dengan rendah hati.
+**Pembahasan:** Rani memperoleh pengetahuan lewat bacaan dan menyimpannya melalui catatan, sesuai kaitan membaca dan pena dalam ayat 1–5.
 
 ---
