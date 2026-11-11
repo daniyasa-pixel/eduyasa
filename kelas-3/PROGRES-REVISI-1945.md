@@ -4,15 +4,15 @@
 
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
-| IPAS | Bab 1–4: 266 butir berubah | 280 butir diperiksa; Bab 1–4 selesai pemeriksaan isi dan media | Bab 5–8: 280 soal |
+| IPAS | Bab 1–5: 336 butir berubah | 350 butir diperiksa; Bab 1–5 selesai pemeriksaan isi dan media | Bab 6–8: 210 soal |
 | PAI | Belum dikerjakan | Belum diperiksa ulang | 300 soal/10 bab |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **280/1.945**. Jumlah diubah: **266**.
-Sisa audit isi: **1.665 soal pada 37 bab/unit**. Bab 1–4 IPAS telah menutup pemeriksaan isi dan media putaran ini;
-37 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **350/1.945**. Jumlah diubah: **336**.
+Sisa audit isi: **1.595 soal pada 36 bab/unit**. Bab 1–5 IPAS telah menutup pemeriksaan isi dan media putaran ini;
+36 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -135,13 +135,45 @@ Python kanonis juga dijalankan ulang: 1.945 soal, 0 kesalahan struktur.
 Hambatan Bab 4 ditutup; tidak ada persetujuan konversi JSON.
 Tidak ada JSON yang dibuat atau konten BIN, MTK, PKN yang diubah.
 
+## IPAS Bab 5
+
+Seluruh 70 butir ditulis ulang dan diperiksa satu per satu; 50+20 serta
+seluruh ID dipertahankan. Pengulangan definisi dan konsep instruksi Tantangan
+diganti dengan fungsi/nilai uang, barter dan kesepakatan, barang/jasa,
+perhitungan anggaran, kebutuhan/keinginan sesuai keadaan, empat jenis nilai
+guna, dan keputusan belanja. Sumber: buku revisi 2025 halaman 91–114.
+Tidak menguji tanggal sejarah asal uang yang tidak diperlukan untuk tujuan ini.
+
+Kunci aritmetika dihitung ulang; nilai kartu, harga, kembalian, alokasi uang,
+selisih harga dan saldo dengan penarikan konsisten dengan gambar. Diagram
+alokasi menggunakan panjang proporsional dengan nilainya. Contoh harga
+merupakan data rekaan. Kebutuhan sepatu/alat dipertimbangkan menurut fungsi
+dan kondisi; tidak menggolongkan barang secara mutlak atau menilai keluarga
+berdasarkan uang. Hemat tidak mengorbankan makan, kesehatan, atau hak orang lain.
+Metode 3D dan perawatan uang diperiksa dengan materi Bank Indonesia.
+
+Dua modul ditulis ulang dengan cakupan setara. Dua belas SVG diganti;
+sepuluh stimulus soal berupa kartu nilai, tabel harga, anggaran proporsional,
+tawaran barter, struk dengan kesalahan total, kondisi barang, saldo tabungan,
+nilai guna, dan label kemasan. Ikon pensil dipendekkan sesuai konteks habis,
+dan jas hujan digambar sebagai jas, bukan hanya awan. Data gambar harus dibaca
+untuk menentukan jawaban; tidak mencetak klasifikasi/kunci jawaban.
+
+Pemeriksaan Bab 5: 70 ID dan stem unik, 70 butir berubah; tidak ada ID hilang.
+Seluruh 12 SVG lolos XML, rendering Chromium lebar 390 piksel, batas teks,
+dan peninjauan lembar gambar setelah koreksi ikon. Sebanyak 46 ekspresi unik
+dari sumber Markdown berhasil dirender MathJax 3 tanpa kesalahan matematika;
+delimiter, kurung kurawal, dan backslash juga diperiksa. Ini pemeriksaan
+sumber materi/soal, bukan aktivasi JSON atau uji alur aplikasi. Validasi
+Python bank kanonis tetap 1.945 soal, 0 kesalahan struktur.
+
 ## Pemeriksaan
 
 `python scripts/check-k03-question-sources.py` memeriksa paket kanonis lima
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–4
+Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–5
 belum memperoleh pemeriksaan isi putaran ini. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
@@ -151,7 +183,7 @@ Pemeriksaan ini bukan uji coba kepada siswa atau pengukuran kesulitan empiris.
 
 ## Posisi lanjut yang tepat
 
-Lanjut **IPAS Bab 5, nomor 001–070**, dua modul, dan 12 SVG, kemudian Bab 6–8.
+Lanjut **IPAS Bab 6, nomor 001–070**, dua modul, dan 12 SVG, kemudian Bab 7–8.
 Sesudah IPAS, lanjut PAI, ENG, PJOK, dan Seni Rupa. Pertahankan pemeriksaan
 buku revisi 2025 dan larangan konversi JSON.
 

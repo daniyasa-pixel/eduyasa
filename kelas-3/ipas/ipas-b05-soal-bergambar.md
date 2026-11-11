@@ -2,360 +2,360 @@
 
 ## Soal 51 — K03-IPAS-B05-M01-051
 
-![Kartu pengamatan](assets/ipas-b05-gambar-01.svg)
+![Kartu nilai uang mainan: kelompok A satu kartu Rp5.000; kelompok B dua kartu masing-masing Rp2.000. Baca nominal, bukan jumlah kartu.](assets/ipas-b05-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Prioritas** adalah ...
+**Pertanyaan:** Kelompok mana bernilai lebih besar?
 
 **Pilihan jawaban:**
-- mendahulukan yang paling penting
-- bukti transaksi pembelian
-- tempat kegiatan jual beli
-- dapat mengurangi kantong sekali pakai
+- B
+- Keduanya sama
+- A
+- Belum dapat dibandingkan karena jumlah kartu berbeda
 
-**Kunci Jawaban:** mendahulukan yang paling penting
+**Kunci Jawaban:** A
 
-**Pembahasan:** Prioritas: mendahulukan yang paling penting.
+**Pembahasan:** A bernilai $5.000$ rupiah; B bernilai $2.000+2.000=4.000$ rupiah. Nilai dibaca dari nominal, bukan jumlah kartu.
 
 ---
 
 ## Soal 52 — K03-IPAS-B05-M01-052
 
-![Kartu pengamatan](assets/ipas-b05-gambar-01.svg)
+![Kartu nilai uang mainan: kelompok A satu kartu Rp5.000; kelompok B dua kartu masing-masing Rp2.000. Baca nominal, bukan jumlah kartu.](assets/ipas-b05-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Membandingkan harga** adalah ...
+**Pertanyaan:** Berapa nilai yang masih perlu ditambahkan ke B agar sama dengan A?
 
 **Pilihan jawaban:**
-- orang yang menjual barang
-- membantu memilih sesuai kebutuhan
-- alat pembayaran
-- Pilih tiga hal yang kamu temukan hari ini
+- $\text{Rp}2.000$
+- $\text{Rp}4.000$
+- $\text{Rp}5.000$
+- $\text{Rp}1.000$
 
-**Kunci Jawaban:** membantu memilih sesuai kebutuhan
+**Kunci Jawaban:** $\text{Rp}1.000$
 
-**Pembahasan:** Membandingkan harga: membantu memilih sesuai kebutuhan.
+**Pembahasan:** Selisih nilai A dan B ialah $5.000-4.000=1.000$ rupiah.
 
 ---
 
 ## Soal 53 — K03-IPAS-B05-M01-053
 
-![Kartu pengamatan](assets/ipas-b05-gambar-02.svg)
+![Daftar harga contoh kantin: roti Rp3.000, air minum Rp2.000, buah Rp4.000. Harga untuk satu porsi masing-masing.](assets/ipas-b05-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Tanggal kedaluwarsa** adalah ...
+**Pertanyaan:** Berapa biaya membeli satu roti dan satu air minum pada daftar?
 
 **Pilihan jawaban:**
-- orang yang membeli barang
-- menggunakan uang dengan bijak
-- perlu diperiksa pada produk tertentu
-- hal yang diperlukan untuk hidup
+- $\text{Rp}5.000$
+- $\text{Rp}3.000$
+- $\text{Rp}6.000$
+- $\text{Rp}7.000$
 
-**Kunci Jawaban:** perlu diperiksa pada produk tertentu
+**Kunci Jawaban:** $\text{Rp}5.000$
 
-**Pembahasan:** Tanggal kedaluwarsa: perlu diperiksa pada produk tertentu.
+**Pembahasan:** Daftar menunjukkan roti $3.000$ rupiah dan air $2.000$ rupiah; total $3.000+2.000=5.000$ rupiah.
 
 ---
 
 ## Soal 54 — K03-IPAS-B05-M01-054
 
-![Kartu pengamatan](assets/ipas-b05-gambar-02.svg)
+![Daftar harga contoh kantin: roti Rp3.000, air minum Rp2.000, buah Rp4.000. Harga untuk satu porsi masing-masing.](assets/ipas-b05-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Struk** adalah ...
+**Pertanyaan:** Jika uangmu $\text{Rp}5.000$ dan membeli satu buah, kembalian yang sesuai ialah ...
 
 **Pilihan jawaban:**
-- tempat kegiatan jual beli
-- dapat mengurangi kantong sekali pakai
-- hal yang ingin dimiliki tetapi tidak selalu diperlukan
-- bukti transaksi pembelian
+- $\text{Rp}2.000$
+- $\text{Rp}1.000$
+- $\text{Rp}4.000$
+- $\text{Rp}9.000$
 
-**Kunci Jawaban:** bukti transaksi pembelian
+**Kunci Jawaban:** $\text{Rp}1.000$
 
-**Pembahasan:** Struk: bukti transaksi pembelian.
+**Pembahasan:** Harga buah pada daftar $4.000$ rupiah sehingga kembalian $5.000-4.000=1.000$ rupiah.
 
 ---
 
 ## Soal 55 — K03-IPAS-B05-M01-055
 
-![Kartu pengamatan](assets/ipas-b05-gambar-03.svg)
+![Rencana uang Rp10.000: makan Rp4.000, alat tulis Rp3.000, tabungan Rp2.000, belum ditentukan Rp1.000.](assets/ipas-b05-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Pedagang** adalah ...
+**Pertanyaan:** Bagian rencana yang mendapat alokasi paling kecil ialah ...
 
 **Pilihan jawaban:**
-- orang yang menjual barang
-- alat pembayaran
-- Pilih tiga hal yang kamu temukan hari ini
-- contoh kebutuhan sehari-hari
+- Makan
+- Alat tulis
+- Uang yang belum ditentukan
+- Tabungan
 
-**Kunci Jawaban:** orang yang menjual barang
+**Kunci Jawaban:** Uang yang belum ditentukan
 
-**Pembahasan:** Pedagang: orang yang menjual barang.
+**Pembahasan:** Legenda menunjukkan bagian belum ditentukan $1.000$ rupiah, lebih kecil dari tiga bagian lain.
 
 ---
 
 ## Soal 56 — K03-IPAS-B05-M01-056
 
-![Kartu pengamatan](assets/ipas-b05-gambar-03.svg)
+![Rencana uang Rp10.000: makan Rp4.000, alat tulis Rp3.000, tabungan Rp2.000, belum ditentukan Rp1.000.](assets/ipas-b05-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Pembeli** adalah ...
+**Pertanyaan:** Jika bagian yang belum ditentukan ikut ditabung tanpa mengubah belanja lain, jumlah untuk tabungan menjadi ...
 
 **Pilihan jawaban:**
-- menggunakan uang dengan bijak
-- orang yang membeli barang
-- hal yang diperlukan untuk hidup
-- contoh kebutuhan dasar
+- $\text{Rp}1.000$
+- $\text{Rp}2.000$
+- $\text{Rp}7.000$
+- $\text{Rp}3.000$
 
-**Kunci Jawaban:** orang yang membeli barang
+**Kunci Jawaban:** $\text{Rp}3.000$
 
-**Pembahasan:** Pembeli: orang yang membeli barang.
+**Pembahasan:** Tabungan semula $2.000$ rupiah ditambah sisa $1.000$ rupiah menjadi $3.000$ rupiah.
 
 ---
 
 ## Soal 57 — K03-IPAS-B05-M01-057
 
-![Kartu pengamatan](assets/ipas-b05-gambar-04.svg)
+![Dua tawaran barter: A Rina membawa pisang dan membutuhkan beras; Bimo membawa beras dan membutuhkan pisang. B Dika membawa mangga dan membutuhkan ikan; Sita membawa ikan tetapi membutuhkan beras.](assets/ipas-b05-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Pasar** adalah ...
+**Pertanyaan:** Pasangan mana sudah saling membutuhkan barang yang dibawa, sebelum menyepakati banyaknya?
 
 **Pilihan jawaban:**
-- dapat mengurangi kantong sekali pakai
-- hal yang ingin dimiliki tetapi tidak selalu diperlukan
-- tempat kegiatan jual beli
-- contoh keinginan
+- Pasangan A
+- Pasangan B
+- Keduanya belum saling membutuhkan
+- Tidak ada informasi kebutuhan kedua pasangan
 
-**Kunci Jawaban:** tempat kegiatan jual beli
+**Kunci Jawaban:** Pasangan A
 
-**Pembahasan:** Pasar: tempat kegiatan jual beli.
+**Pembahasan:** Rina memerlukan beras Bimo dan Bimo memerlukan pisang Rina; kebutuhan mereka cocok, tetapi banyaknya barang masih perlu disepakati.
 
 ---
 
 ## Soal 58 — K03-IPAS-B05-M01-058
 
-![Kartu pengamatan](assets/ipas-b05-gambar-04.svg)
+![Dua tawaran barter: A Rina membawa pisang dan membutuhkan beras; Bimo membawa beras dan membutuhkan pisang. B Dika membawa mangga dan membutuhkan ikan; Sita membawa ikan tetapi membutuhkan beras.](assets/ipas-b05-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Uang** adalah ...
+**Pertanyaan:** Mengapa pasangan B belum cocok untuk barter langsung?
 
 **Pilihan jawaban:**
-- Pilih tiga hal yang kamu temukan hari ini
-- contoh kebutuhan sehari-hari
-- membantu menentukan prioritas
-- alat pembayaran
+- Dika tidak membutuhkan ikan
+- Sita membutuhkan beras, bukan mangga Dika
+- Sita tidak membawa barang untuk ditukar
+- Kedua orang sudah saling membutuhkan barang masing-masing
 
-**Kunci Jawaban:** alat pembayaran
+**Kunci Jawaban:** Sita membutuhkan beras, bukan mangga Dika
 
-**Pembahasan:** Uang: alat pembayaran.
+**Pembahasan:** Dika memerlukan ikan Sita, tetapi barang Dika tidak sesuai kebutuhan Sita, sehingga kecocokan baru satu arah.
 
 ---
 
 ## Soal 59 — K03-IPAS-B05-M01-059
 
-![Kartu pengamatan](assets/ipas-b05-gambar-05.svg)
+![Toko A satu buku tulis 40 halaman Rp4.000. Toko B satu buku tulis 40 halaman Rp3.500. Jenis, ukuran, kualitas buku sama dan biaya perjalanan diabaikan.](assets/ipas-b05-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Hemat** adalah ...
+**Pertanyaan:** Berdasarkan data itu, toko mana memerlukan biaya beli satu buku lebih kecil?
 
 **Pilihan jawaban:**
-- menggunakan uang dengan bijak
-- hal yang diperlukan untuk hidup
-- contoh kebutuhan dasar
-- rencana penggunaan uang
+- A
+- Keduanya sama
+- B
+- Tidak dapat dibandingkan meski barangnya sama
 
-**Kunci Jawaban:** menggunakan uang dengan bijak
+**Kunci Jawaban:** B
 
-**Pembahasan:** Hemat: menggunakan uang dengan bijak.
+**Pembahasan:** Harga buku setara di B lebih rendah daripada di A, dengan biaya perjalanan diabaikan sesuai catatan.
 
 ---
 
 ## Soal 60 — K03-IPAS-B05-M01-060
 
-![Kartu pengamatan](assets/ipas-b05-gambar-05.svg)
+![Toko A satu buku tulis 40 halaman Rp4.000. Toko B satu buku tulis 40 halaman Rp3.500. Jenis, ukuran, kualitas buku sama dan biaya perjalanan diabaikan.](assets/ipas-b05-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Membawa tas belanja** adalah ...
+**Pertanyaan:** Selisih harga satu buku di dua toko itu ialah ...
 
 **Pilihan jawaban:**
-- hal yang ingin dimiliki tetapi tidak selalu diperlukan
-- dapat mengurangi kantong sekali pakai
-- contoh keinginan
-- jumlah uang untuk membeli barang
+- $\text{Rp}1.500$
+- $\text{Rp}3.500$
+- $\text{Rp}7.500$
+- $\text{Rp}500$
 
-**Kunci Jawaban:** dapat mengurangi kantong sekali pakai
+**Kunci Jawaban:** $\text{Rp}500$
 
-**Pembahasan:** Membawa tas belanja: dapat mengurangi kantong sekali pakai.
+**Pembahasan:** Selisihnya $4.000-3.500=500$ rupiah; menjumlahkan kedua harga tidak menghasilkan selisih.
 
 ---
 
 ## Soal 61 — K03-IPAS-B05-M01-061
 
-![Kartu pengamatan](assets/ipas-b05-gambar-06.svg)
+![Catatan belanja: buku Rp4.000, pensil Rp2.000, total tertulis Rp7.000. Tidak ada biaya lain.](assets/ipas-b05-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Tantangan** adalah ...
+**Pertanyaan:** Bagian mana perlu diperbaiki pada catatan?
 
 **Pilihan jawaban:**
-- contoh kebutuhan sehari-hari
-- membantu menentukan prioritas
-- Pilih tiga hal yang kamu temukan hari ini
-- uang yang diterima setelah pembayaran berlebih
+- Total seharusnya $\text{Rp}6.000$
+- Harga buku seharusnya dihapus
+- Jumlah barang harus dianggap tiga
+- Total $\text{Rp}7.000$ sudah sesuai
 
-**Kunci Jawaban:** Pilih tiga hal yang kamu temukan hari ini
+**Kunci Jawaban:** Total seharusnya $\text{Rp}6.000$
 
-**Pembahasan:** Tantangan: Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Dua harga yang tertera berjumlah $4.000+2.000=6.000$ rupiah, bukan total yang ditulis.
 
 ---
 
 ## Soal 62 — K03-IPAS-B05-M01-062
 
-![Kartu pengamatan](assets/ipas-b05-gambar-06.svg)
+![Catatan belanja: buku Rp4.000, pensil Rp2.000, total tertulis Rp7.000. Tidak ada biaya lain.](assets/ipas-b05-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kebutuhan** adalah ...
+**Pertanyaan:** Jika menemukan catatan seperti ini saat berbelanja, tindakan yang membantu ialah ...
 
 **Pilihan jawaban:**
-- contoh kebutuhan dasar
-- rencana penggunaan uang
-- mendahulukan yang paling penting
-- hal yang diperlukan untuk hidup
+- Menganggap angka total selalu benar meski berbeda
+- Menanyakan perhitungan total kepada penjual dengan sopan
+- Langsung menuduh penjual sengaja menipu
+- Mengambil barang tambahan agar total terasa sesuai
 
-**Kunci Jawaban:** hal yang diperlukan untuk hidup
+**Kunci Jawaban:** Menanyakan perhitungan total kepada penjual dengan sopan
 
-**Pembahasan:** Kebutuhan: hal yang diperlukan untuk hidup.
+**Pembahasan:** Perbedaan pada total perlu diperiksa bersama; catatan tidak membuktikan niat orang yang menulisnya.
 
 ---
 
 ## Soal 63 — K03-IPAS-B05-M01-063
 
-![Kartu pengamatan](assets/ipas-b05-gambar-07.svg)
+![Kondisi barang Sari: A pensil satu-satunya habis untuk tugas besok; B tas masih kuat tetapi ingin gambar baru; C kotak makan masih layak tetapi ingin warna lain. Makanan dan minuman besok sudah tersedia.](assets/ipas-b05-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Keinginan** adalah ...
+**Pertanyaan:** Barang berlabel mana paling perlu diganti untuk memenuhi kebutuhan belajar besok?
 
 **Pilihan jawaban:**
-- hal yang ingin dimiliki tetapi tidak selalu diperlukan
-- contoh keinginan
-- jumlah uang untuk membeli barang
-- membantu memilih sesuai kebutuhan
+- B
+- C
+- A
+- B dan C lebih mendesak daripada A
 
-**Kunci Jawaban:** hal yang ingin dimiliki tetapi tidak selalu diperlukan
+**Kunci Jawaban:** A
 
-**Pembahasan:** Keinginan: hal yang ingin dimiliki tetapi tidak selalu diperlukan.
+**Pembahasan:** Pensil A sudah habis dan diperlukan besok, sedangkan B serta C masih berfungsi; konteks kebutuhan lain sudah terpenuhi.
 
 ---
 
 ## Soal 64 — K03-IPAS-B05-M01-064
 
-![Kartu pengamatan](assets/ipas-b05-gambar-07.svg)
+![Kondisi barang Sari: A pensil satu-satunya habis untuk tugas besok; B tas masih kuat tetapi ingin gambar baru; C kotak makan masih layak tetapi ingin warna lain. Makanan dan minuman besok sudah tersedia.](assets/ipas-b05-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Makanan pokok** adalah ...
+**Pertanyaan:** Mengapa pembelian pengganti B dan C dapat ditunda pada kondisi gambar?
 
 **Pilihan jawaban:**
-- membantu menentukan prioritas
-- contoh kebutuhan sehari-hari
-- uang yang diterima setelah pembayaran berlebih
-- perlu diperiksa pada produk tertentu
+- Keduanya tidak pernah berguna bagi siapa pun
+- Semua tas dan kotak makan selalu merupakan barang mewah
+- Keduanya pasti rusak walau catatan menyebut layak
+- Barangnya masih berfungsi dan alasan penggantian berupa tampilan
 
-**Kunci Jawaban:** contoh kebutuhan sehari-hari
+**Kunci Jawaban:** Barangnya masih berfungsi dan alasan penggantian berupa tampilan
 
-**Pembahasan:** Makanan pokok: contoh kebutuhan sehari-hari.
+**Pembahasan:** Keadaan dan alasan pada kartu menunjukkan keinginan mengganti tampilan, bukan hilangnya fungsi.
 
 ---
 
 ## Soal 65 — K03-IPAS-B05-M01-065
 
-![Kartu pengamatan](assets/ipas-b05-gambar-08.svg)
+![Catatan tabungan Naya dari saldo awal nol: Senin masuk Rp1.000, Selasa masuk Rp2.000, Rabu keluar Rp1.000. Tidak ada transaksi lain.](assets/ipas-b05-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Air minum** adalah ...
+**Pertanyaan:** Berapa saldo setelah catatan Rabu?
 
 **Pilihan jawaban:**
-- rencana penggunaan uang
-- mendahulukan yang paling penting
-- contoh kebutuhan dasar
-- bukti transaksi pembelian
+- $\text{Rp}2.000$
+- $\text{Rp}1.000$
+- $\text{Rp}3.000$
+- $\text{Rp}4.000$
 
-**Kunci Jawaban:** contoh kebutuhan dasar
+**Kunci Jawaban:** $\text{Rp}2.000$
 
-**Pembahasan:** Air minum: contoh kebutuhan dasar.
+**Pembahasan:** Dua setoran dikurangi penarikan: $1.000+2.000-1.000=2.000$ rupiah.
 
 ---
 
 ## Soal 66 — K03-IPAS-B05-M01-066
 
-![Kartu pengamatan](assets/ipas-b05-gambar-08.svg)
+![Catatan tabungan Naya dari saldo awal nol: Senin masuk Rp1.000, Selasa masuk Rp2.000, Rabu keluar Rp1.000. Tidak ada transaksi lain.](assets/ipas-b05-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Mainan tambahan** adalah ...
+**Pertanyaan:** Catatan mana mengurangi saldo tabungan?
 
 **Pilihan jawaban:**
-- jumlah uang untuk membeli barang
-- membantu memilih sesuai kebutuhan
-- orang yang menjual barang
-- contoh keinginan
+- Senin
+- Rabu
+- Selasa
+- Senin dan Selasa
 
-**Kunci Jawaban:** contoh keinginan
+**Kunci Jawaban:** Rabu
 
-**Pembahasan:** Mainan tambahan: contoh keinginan.
+**Pembahasan:** Rabu bertanda keluar; Senin dan Selasa bertanda masuk sehingga menambah saldo.
 
 ---
 
 ## Soal 67 — K03-IPAS-B05-M01-067
 
-![Kartu pengamatan](assets/ipas-b05-gambar-09.svg)
+![Tiga contoh: A gelondongan kayu diolah menjadi kursi; B jaket dibawa ke tempat dingin; C jas hujan dipakai saat hujan turun.](assets/ipas-b05-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Daftar belanja** adalah ...
+**Pertanyaan:** Contoh yang menunjukkan nilai guna bentuk berlabel ...
 
 **Pilihan jawaban:**
-- membantu menentukan prioritas
-- uang yang diterima setelah pembayaran berlebih
-- perlu diperiksa pada produk tertentu
-- orang yang membeli barang
+- B
+- C
+- A
+- B dan C
 
-**Kunci Jawaban:** membantu menentukan prioritas
+**Kunci Jawaban:** A
 
-**Pembahasan:** Daftar belanja: membantu menentukan prioritas.
+**Pembahasan:** A menunjukkan bahan kayu diubah menjadi bentuk kursi; B menekankan tempat, C waktu.
 
 ---
 
 ## Soal 68 — K03-IPAS-B05-M01-068
 
-![Kartu pengamatan](assets/ipas-b05-gambar-09.svg)
+![Tiga contoh: A gelondongan kayu diolah menjadi kursi; B jaket dibawa ke tempat dingin; C jas hujan dipakai saat hujan turun.](assets/ipas-b05-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Anggaran** adalah ...
+**Pertanyaan:** Pasangan contoh nilai guna tempat lalu waktu pada gambar ialah ...
 
 **Pilihan jawaban:**
-- mendahulukan yang paling penting
-- rencana penggunaan uang
-- bukti transaksi pembelian
-- tempat kegiatan jual beli
+- A lalu B
+- C lalu A
+- A lalu C
+- B lalu C
 
-**Kunci Jawaban:** rencana penggunaan uang
+**Kunci Jawaban:** B lalu C
 
-**Pembahasan:** Anggaran: rencana penggunaan uang.
+**Pembahasan:** Jaket B lebih berguna di tempat dingin, sedangkan jas hujan C berguna pada waktu hujan.
 
 ---
 
 ## Soal 69 — K03-IPAS-B05-M01-069
 
-![Kartu pengamatan](assets/ipas-b05-gambar-10.svg)
+![Hari ini 10 Mei 2026. Dua kemasan contoh: A masih utuh, tertulis baik digunakan sebelum 20 Juni 2026; B robek, tertulis baik digunakan sebelum 30 Juni 2026. Keduanya produk sama dan disimpan sesuai petunjuk.](assets/ipas-b05-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Harga** adalah ...
+**Pertanyaan:** Kemasan mana perlu dihindari karena kerusakan meskipun tanggalnya belum terlewati?
 
 **Pilihan jawaban:**
-- membantu memilih sesuai kebutuhan
-- orang yang menjual barang
-- jumlah uang untuk membeli barang
-- alat pembayaran
+- B
+- A
+- Keduanya pasti sudah melewati tanggal
+- Tidak perlu memeriksa kemasan
 
-**Kunci Jawaban:** jumlah uang untuk membeli barang
+**Kunci Jawaban:** B
 
-**Pembahasan:** Harga: jumlah uang untuk membeli barang.
+**Pembahasan:** B robek, sehingga perlindungan isi terganggu meskipun tanggal tercetak belum lewat.
 
 ---
 
 ## Soal 70 — K03-IPAS-B05-M01-070
 
-![Kartu pengamatan](assets/ipas-b05-gambar-10.svg)
+![Hari ini 10 Mei 2026. Dua kemasan contoh: A masih utuh, tertulis baik digunakan sebelum 20 Juni 2026; B robek, tertulis baik digunakan sebelum 30 Juni 2026. Keduanya produk sama dan disimpan sesuai petunjuk.](assets/ipas-b05-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kembalian** adalah ...
+**Pertanyaan:** Kesimpulan yang paling hati-hati tentang kemasan A ialah ...
 
 **Pilihan jawaban:**
-- perlu diperiksa pada produk tertentu
-- orang yang membeli barang
-- menggunakan uang dengan bijak
-- uang yang diterima setelah pembayaran berlebih
+- Gambar memastikan isi selalu aman apa pun penyimpanannya
+- Tanggal belum lewat dan kemasan tampak utuh; tetap periksa petunjuk serta kondisi produk
+- Produk pasti sudah kedaluwarsa pada hari pengamatan
+- Kemasan utuh membolehkan mengabaikan petunjuk penyimpanan
 
-**Kunci Jawaban:** uang yang diterima setelah pembayaran berlebih
+**Kunci Jawaban:** Tanggal belum lewat dan kemasan tampak utuh; tetap periksa petunjuk serta kondisi produk
 
-**Pembahasan:** Kembalian: uang yang diterima setelah pembayaran berlebih.
+**Pembahasan:** Data A memenuhi dua hal yang diamati, tetapi tidak menjamin keamanan tanpa memperhatikan penyimpanan serta keadaan produk.
 
 ---

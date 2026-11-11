@@ -80,3 +80,13 @@ gambar ditinjau secara visual. Validator Python: 1.945 soal, 0 kesalahan
 struktur. Hambatan media Bab 4 ditutup. Bab 1–4 berjumlah 280 soal diperiksa,
 266 berubah; sisa 1.665 soal/37 bab. Titik lanjut Bab 5. Status keseluruhan
 BELUM SELESAI, tanpa konversi JSON.
+
+### Kelanjutan: IPAS Bab 5
+
+Semua 70 butir Bab 5 ditulis ulang dan diperiksa; seluruh ID dan jumlah tetap.
+Dua modul serta 12 SVG diganti. Nilai uang, barter, kebutuhan sesuai konteks,
+anggaran, nilai guna dan keputusan belanja dicakup. XML, render 390 piksel,
+batas teks dan tinjauan visual berhasil; 46 ekspresi unik sumber berhasil
+dirender MathJax tanpa kesalahan. Validasi bank kanonis: 1.945, 0 kesalahan
+struktur. Kumulatif 350 diperiksa, 336 diubah; sisa 1.595 soal/36 bab.
+Status **BELUM SELESAI**. Titik lanjut IPAS Bab 6. Tidak ada konversi JSON.

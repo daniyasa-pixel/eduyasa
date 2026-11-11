@@ -19,7 +19,8 @@ Acuan: Buku Siswa IPAS SD/MI Kelas III **Edisi Revisi 2025**, Kemendikdasmen (Al
 - Audit kebenaran akademik, ketunggalan jawaban, kecocokan gambar dan penjelasan sebelum status selesai.
 
 **Status:** Sumber delapan bab tersedia (560 soal). Putaran revisi menyeluruh
-sudah memeriksa isi Bab 1–4 (280 soal; 266 berubah). Seluruh 12 SVG Bab 4 telah lolos parser XML, rendering pada lebar 390 piksel,
-pemeriksaan batas teks, dan peninjauan visual setelah lingkungan pulih.
-Bab 5–8 belum diperiksa ulang; Bab 1–4 menutup pemeriksaan putaran ini. Status keseluruhan tetap **BELUM SELESAI**; jangan mengonversi JSON
-atau menganggap bank siap rilis. Lihat [laporan progres](../PROGRES-REVISI-1945.md).
+sudah memeriksa isi dan media Bab 1–5 (350 soal; 336 berubah). Bab 6–8
+belum diperiksa ulang. Seluruh SVG Bab 4–5 lolos XML, rendering lebar HP,
+batas teks dan peninjauan visual. Ekspresi MathJax Bab 5 juga diuji render.
+Status keseluruhan **BELUM SELESAI**; jangan mengonversi JSON atau menganggap
+bank siap rilis. Lihat [laporan progres](../PROGRES-REVISI-1945.md).
