@@ -2,7 +2,7 @@
 
 ## Soal 1 — K03-IPAS-B07-M01-001
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "contoh lokasi pada denah" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "contoh lokasi pada denah". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Sekolah
@@ -12,13 +12,13 @@
 
 **Kunci Jawaban:** Sekolah
 
-**Pembahasan:** Sekolah berkaitan dengan contoh lokasi pada denah.
+**Pembahasan:** Sekolah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh lokasi pada denah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 2 — K03-IPAS-B07-M01-002
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "jalur penghubung tempat" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "jalur penghubung tempat". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Dataran rendah
@@ -28,13 +28,13 @@
 
 **Kunci Jawaban:** Jalan
 
-**Pembahasan:** Jalan berkaitan dengan jalur penghubung tempat.
+**Pembahasan:** Jalan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "jalur penghubung tempat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 3 — K03-IPAS-B07-M01-003
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "aliran air alami" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "aliran air alami"?
 
 **Pilihan jawaban:**
 - Dataran tinggi
@@ -44,13 +44,13 @@
 
 **Kunci Jawaban:** Sungai
 
-**Pembahasan:** Sungai berkaitan dengan aliran air alami.
+**Pembahasan:** Sungai adalah pilihan yang sesuai karena petunjuk soal menyebutkan "aliran air alami". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 4 — K03-IPAS-B07-M01-004
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "bentuk permukaan bumi yang tinggi" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk bentuk permukaan bumi yang tinggi. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Pengamatan
@@ -60,13 +60,13 @@
 
 **Kunci Jawaban:** Gunung
 
-**Pembahasan:** Gunung berkaitan dengan bentuk permukaan bumi yang tinggi.
+**Pembahasan:** Gunung adalah pilihan yang sesuai karena petunjuk soal menyebutkan "bentuk permukaan bumi yang tinggi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 5 — K03-IPAS-B07-M01-005
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "wilayah berketinggian relatif rendah" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "wilayah berketinggian relatif rendah". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Dataran rendah
@@ -76,13 +76,13 @@
 
 **Kunci Jawaban:** Dataran rendah
 
-**Pembahasan:** Dataran rendah berkaitan dengan wilayah berketinggian relatif rendah.
+**Pembahasan:** Dataran rendah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "wilayah berketinggian relatif rendah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 6 — K03-IPAS-B07-M01-006
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "wilayah yang relatif tinggi" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "wilayah yang relatif tinggi". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Keselamatan
@@ -92,13 +92,13 @@
 
 **Kunci Jawaban:** Dataran tinggi
 
-**Pembahasan:** Dataran tinggi berkaitan dengan wilayah yang relatif tinggi.
+**Pembahasan:** Dataran tinggi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "wilayah yang relatif tinggi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 7 — K03-IPAS-B07-M01-007
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mengumpulkan informasi dengan indra" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "mengumpulkan informasi dengan indra"?
 
 **Pilihan jawaban:**
 - Menjaga alam
@@ -108,13 +108,13 @@
 
 **Kunci Jawaban:** Pengamatan
 
-**Pembahasan:** Pengamatan berkaitan dengan mengumpulkan informasi dengan indra.
+**Pembahasan:** Pengamatan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengumpulkan informasi dengan indra". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 8 — K03-IPAS-B07-M01-008
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu mengingat hasil penjelajahan" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk membantu mengingat hasil penjelajahan. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Tantangan
@@ -124,13 +124,13 @@
 
 **Kunci Jawaban:** Mencatat temuan
 
-**Pembahasan:** Mencatat temuan berkaitan dengan membantu mengingat hasil penjelajahan.
+**Pembahasan:** Mencatat temuan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu mengingat hasil penjelajahan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 9 — K03-IPAS-B07-M01-009
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "diutamakan saat menjelajah" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "diutamakan saat menjelajah". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Keselamatan
@@ -140,13 +140,13 @@
 
 **Kunci Jawaban:** Keselamatan
 
-**Pembahasan:** Keselamatan berkaitan dengan diutamakan saat menjelajah.
+**Pembahasan:** Keselamatan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "diutamakan saat menjelajah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 10 — K03-IPAS-B07-M01-010
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tidak merusak tempat yang dikunjungi" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "tidak merusak tempat yang dikunjungi". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Denah
@@ -156,13 +156,13 @@
 
 **Kunci Jawaban:** Menjaga alam
 
-**Pembahasan:** Menjaga alam berkaitan dengan tidak merusak tempat yang dikunjungi.
+**Pembahasan:** Menjaga alam adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tidak merusak tempat yang dikunjungi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 11 — K03-IPAS-B07-M01-011
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "Pilih tiga hal yang kamu temukan hari ini" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "Pilih tiga hal yang kamu temukan hari ini"?
 
 **Pilihan jawaban:**
 - Legenda
@@ -172,13 +172,13 @@
 
 **Kunci Jawaban:** Tantangan
 
-**Pembahasan:** Tantangan berkaitan dengan Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Tantangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "Pilih tiga hal yang kamu temukan hari ini". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 12 — K03-IPAS-B07-M01-012
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "gambaran suatu wilayah" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk gambaran suatu wilayah. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Simbol
@@ -188,13 +188,13 @@
 
 **Kunci Jawaban:** Peta
 
-**Pembahasan:** Peta berkaitan dengan gambaran suatu wilayah.
+**Pembahasan:** Peta adalah pilihan yang sesuai karena petunjuk soal menyebutkan "gambaran suatu wilayah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 13 — K03-IPAS-B07-M01-013
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "gambaran letak tempat secara sederhana" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "gambaran letak tempat secara sederhana". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Denah
@@ -204,13 +204,13 @@
 
 **Kunci Jawaban:** Denah
 
-**Pembahasan:** Denah berkaitan dengan gambaran letak tempat secara sederhana.
+**Pembahasan:** Denah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "gambaran letak tempat secara sederhana". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 14 — K03-IPAS-B07-M01-014
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "penjelasan simbol pada peta" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "penjelasan simbol pada peta". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Arah timur
@@ -220,13 +220,13 @@
 
 **Kunci Jawaban:** Legenda
 
-**Pembahasan:** Legenda berkaitan dengan penjelasan simbol pada peta.
+**Pembahasan:** Legenda adalah pilihan yang sesuai karena petunjuk soal menyebutkan "penjelasan simbol pada peta". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 15 — K03-IPAS-B07-M01-015
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tanda yang mewakili objek" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "tanda yang mewakili objek"?
 
 **Pilihan jawaban:**
 - Arah barat
@@ -236,13 +236,13 @@
 
 **Kunci Jawaban:** Simbol
 
-**Pembahasan:** Simbol berkaitan dengan tanda yang mewakili objek.
+**Pembahasan:** Simbol adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tanda yang mewakili objek". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 16 — K03-IPAS-B07-M01-016
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "berlawanan dengan selatan" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk berlawanan dengan selatan. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Kompas
@@ -252,13 +252,13 @@
 
 **Kunci Jawaban:** Arah utara
 
-**Pembahasan:** Arah utara berkaitan dengan berlawanan dengan selatan.
+**Pembahasan:** Arah utara adalah pilihan yang sesuai karena petunjuk soal menyebutkan "berlawanan dengan selatan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 17 — K03-IPAS-B07-M01-017
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "arah matahari terbit secara umum" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "arah matahari terbit secara umum". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Arah timur
@@ -268,13 +268,13 @@
 
 **Kunci Jawaban:** Arah timur
 
-**Pembahasan:** Arah timur berkaitan dengan arah matahari terbit secara umum.
+**Pembahasan:** Arah timur adalah pilihan yang sesuai karena petunjuk soal menyebutkan "arah matahari terbit secara umum". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 18 — K03-IPAS-B07-M01-018
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "arah matahari terbenam secara umum" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "arah matahari terbenam secara umum". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Sekolah
@@ -284,13 +284,13 @@
 
 **Kunci Jawaban:** Arah barat
 
-**Pembahasan:** Arah barat berkaitan dengan arah matahari terbenam secara umum.
+**Pembahasan:** Arah barat adalah pilihan yang sesuai karena petunjuk soal menyebutkan "arah matahari terbenam secara umum". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 19 — K03-IPAS-B07-M01-019
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "alat penunjuk arah" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "alat penunjuk arah"?
 
 **Pilihan jawaban:**
 - Jalan
@@ -300,13 +300,13 @@
 
 **Kunci Jawaban:** Kompas
 
-**Pembahasan:** Kompas berkaitan dengan alat penunjuk arah.
+**Pembahasan:** Kompas adalah pilihan yang sesuai karena petunjuk soal menyebutkan "alat penunjuk arah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 20 — K03-IPAS-B07-M01-020
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "jalur menuju tujuan" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk jalur menuju tujuan. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Sungai
@@ -316,7 +316,7 @@
 
 **Kunci Jawaban:** Rute
 
-**Pembahasan:** Rute berkaitan dengan jalur menuju tujuan.
+**Pembahasan:** Rute adalah pilihan yang sesuai karena petunjuk soal menyebutkan "jalur menuju tujuan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -652,7 +652,7 @@
 
 **Kunci Jawaban:** Sekolah
 
-**Pembahasan:** Sekolah berkaitan dengan contoh lokasi pada denah.
+**Pembahasan:** Sekolah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh lokasi pada denah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -668,7 +668,7 @@
 
 **Kunci Jawaban:** Jalan
 
-**Pembahasan:** Jalan berkaitan dengan jalur penghubung tempat.
+**Pembahasan:** Jalan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "jalur penghubung tempat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -684,7 +684,7 @@
 
 **Kunci Jawaban:** Sungai
 
-**Pembahasan:** Sungai berkaitan dengan aliran air alami.
+**Pembahasan:** Sungai adalah pilihan yang sesuai karena petunjuk soal menyebutkan "aliran air alami". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -700,7 +700,7 @@
 
 **Kunci Jawaban:** Gunung
 
-**Pembahasan:** Gunung berkaitan dengan bentuk permukaan bumi yang tinggi.
+**Pembahasan:** Gunung adalah pilihan yang sesuai karena petunjuk soal menyebutkan "bentuk permukaan bumi yang tinggi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -716,7 +716,7 @@
 
 **Kunci Jawaban:** Dataran rendah
 
-**Pembahasan:** Dataran rendah berkaitan dengan wilayah berketinggian relatif rendah.
+**Pembahasan:** Dataran rendah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "wilayah berketinggian relatif rendah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -732,7 +732,7 @@
 
 **Kunci Jawaban:** Dataran tinggi
 
-**Pembahasan:** Dataran tinggi berkaitan dengan wilayah yang relatif tinggi.
+**Pembahasan:** Dataran tinggi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "wilayah yang relatif tinggi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -748,7 +748,7 @@
 
 **Kunci Jawaban:** Pengamatan
 
-**Pembahasan:** Pengamatan berkaitan dengan mengumpulkan informasi dengan indra.
+**Pembahasan:** Pengamatan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengumpulkan informasi dengan indra". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -764,7 +764,7 @@
 
 **Kunci Jawaban:** Mencatat temuan
 
-**Pembahasan:** Mencatat temuan berkaitan dengan membantu mengingat hasil penjelajahan.
+**Pembahasan:** Mencatat temuan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu mengingat hasil penjelajahan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -780,7 +780,7 @@
 
 **Kunci Jawaban:** Keselamatan
 
-**Pembahasan:** Keselamatan berkaitan dengan diutamakan saat menjelajah.
+**Pembahasan:** Keselamatan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "diutamakan saat menjelajah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -796,6 +796,6 @@
 
 **Kunci Jawaban:** Menjaga alam
 
-**Pembahasan:** Menjaga alam berkaitan dengan tidak merusak tempat yang dikunjungi.
+**Pembahasan:** Menjaga alam adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tidak merusak tempat yang dikunjungi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---

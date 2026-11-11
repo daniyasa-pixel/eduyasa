@@ -2,7 +2,7 @@
 
 ## Soal 1 — K03-IPAS-B06-M01-001
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu kita melihat" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "membantu kita melihat". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Cahaya
@@ -12,13 +12,13 @@
 
 **Kunci Jawaban:** Cahaya
 
-**Pembahasan:** Cahaya berkaitan dengan membantu kita melihat.
+**Pembahasan:** Cahaya adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu kita melihat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 2 — K03-IPAS-B06-M01-002
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat mengubah suhu benda" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "dapat mengubah suhu benda". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Mematikan lampu
@@ -28,13 +28,13 @@
 
 **Kunci Jawaban:** Panas
 
-**Pembahasan:** Panas berkaitan dengan dapat mengubah suhu benda.
+**Pembahasan:** Panas adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat mengubah suhu benda". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 3 — K03-IPAS-B06-M01-003
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mengubah cahaya matahari menjadi listrik" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "mengubah cahaya matahari menjadi listrik"?
 
 **Pilihan jawaban:**
 - Mengayuh sepeda
@@ -44,13 +44,13 @@
 
 **Kunci Jawaban:** Panel surya
 
-**Pembahasan:** Panel surya berkaitan dengan mengubah cahaya matahari menjadi listrik.
+**Pembahasan:** Panel surya adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengubah cahaya matahari menjadi listrik". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 4 — K03-IPAS-B06-M01-004
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mengurangi penggunaan yang tidak perlu" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk mengurangi penggunaan yang tidak perlu. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Kompor
@@ -60,13 +60,13 @@
 
 **Kunci Jawaban:** Hemat energi
 
-**Pembahasan:** Hemat energi berkaitan dengan mengurangi penggunaan yang tidak perlu.
+**Pembahasan:** Hemat energi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengurangi penggunaan yang tidak perlu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 5 — K03-IPAS-B06-M01-005
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "contoh menghemat listrik" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "contoh menghemat listrik". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Mematikan lampu
@@ -76,13 +76,13 @@
 
 **Kunci Jawaban:** Mematikan lampu
 
-**Pembahasan:** Mematikan lampu berkaitan dengan contoh menghemat listrik.
+**Pembahasan:** Mematikan lampu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh menghemat listrik". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 6 — K03-IPAS-B06-M01-006
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menggunakan energi dari tubuh" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "menggunakan energi dari tubuh". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Energi listrik
@@ -92,13 +92,13 @@
 
 **Kunci Jawaban:** Mengayuh sepeda
 
-**Pembahasan:** Mengayuh sepeda berkaitan dengan menggunakan energi dari tubuh.
+**Pembahasan:** Mengayuh sepeda adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menggunakan energi dari tubuh". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 7 — K03-IPAS-B06-M01-007
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menghasilkan panas untuk memasak" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "menghasilkan panas untuk memasak"?
 
 **Pilihan jawaban:**
 - Perubahan energi
@@ -108,13 +108,13 @@
 
 **Kunci Jawaban:** Kompor
 
-**Pembahasan:** Kompor berkaitan dengan menghasilkan panas untuk memasak.
+**Pembahasan:** Kompor adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menghasilkan panas untuk memasak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 8 — K03-IPAS-B06-M01-008
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dimiliki benda yang bergerak" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk dimiliki benda yang bergerak. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Tantangan
@@ -124,13 +124,13 @@
 
 **Kunci Jawaban:** Energi gerak
 
-**Pembahasan:** Energi gerak berkaitan dengan dimiliki benda yang bergerak.
+**Pembahasan:** Energi gerak adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dimiliki benda yang bergerak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 9 — K03-IPAS-B06-M01-009
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menghidupkan banyak alat" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "menghidupkan banyak alat". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Energi listrik
@@ -140,13 +140,13 @@
 
 **Kunci Jawaban:** Energi listrik
 
-**Pembahasan:** Energi listrik berkaitan dengan menghidupkan banyak alat.
+**Pembahasan:** Energi listrik adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menghidupkan banyak alat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 10 — K03-IPAS-B06-M01-010
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "peralihan dari satu bentuk ke bentuk lain" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "peralihan dari satu bentuk ke bentuk lain". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Matahari
@@ -156,13 +156,13 @@
 
 **Kunci Jawaban:** Perubahan energi
 
-**Pembahasan:** Perubahan energi berkaitan dengan peralihan dari satu bentuk ke bentuk lain.
+**Pembahasan:** Perubahan energi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "peralihan dari satu bentuk ke bentuk lain". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 11 — K03-IPAS-B06-M01-011
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "Pilih tiga hal yang kamu temukan hari ini" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "Pilih tiga hal yang kamu temukan hari ini"?
 
 **Pilihan jawaban:**
 - Baterai
@@ -172,13 +172,13 @@
 
 **Kunci Jawaban:** Tantangan
 
-**Pembahasan:** Tantangan berkaitan dengan Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Tantangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "Pilih tiga hal yang kamu temukan hari ini". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 12 — K03-IPAS-B06-M01-012
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "kemampuan untuk melakukan kerja atau perubahan" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk kemampuan untuk melakukan kerja atau perubahan. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Lampu
@@ -188,13 +188,13 @@
 
 **Kunci Jawaban:** Energi
 
-**Pembahasan:** Energi berkaitan dengan kemampuan untuk melakukan kerja atau perubahan.
+**Pembahasan:** Energi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "kemampuan untuk melakukan kerja atau perubahan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 13 — K03-IPAS-B06-M01-013
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "sumber energi cahaya dan panas" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "sumber energi cahaya dan panas". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Matahari
@@ -204,13 +204,13 @@
 
 **Kunci Jawaban:** Matahari
 
-**Pembahasan:** Matahari berkaitan dengan sumber energi cahaya dan panas.
+**Pembahasan:** Matahari adalah pilihan yang sesuai karena petunjuk soal menyebutkan "sumber energi cahaya dan panas". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 14 — K03-IPAS-B06-M01-014
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menyimpan energi kimia" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "menyimpan energi kimia". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Setrika
@@ -220,13 +220,13 @@
 
 **Kunci Jawaban:** Baterai
 
-**Pembahasan:** Baterai berkaitan dengan menyimpan energi kimia.
+**Pembahasan:** Baterai adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menyimpan energi kimia". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 15 — K03-IPAS-B06-M01-015
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mengubah energi listrik menjadi cahaya" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "mengubah energi listrik menjadi cahaya"?
 
 **Pilihan jawaban:**
 - Makanan
@@ -236,13 +236,13 @@
 
 **Kunci Jawaban:** Lampu
 
-**Pembahasan:** Lampu berkaitan dengan mengubah energi listrik menjadi cahaya.
+**Pembahasan:** Lampu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengubah energi listrik menjadi cahaya". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 16 — K03-IPAS-B06-M01-016
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mengubah energi listrik menjadi gerak" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk mengubah energi listrik menjadi gerak. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Angin
@@ -252,13 +252,13 @@
 
 **Kunci Jawaban:** Kipas angin
 
-**Pembahasan:** Kipas angin berkaitan dengan mengubah energi listrik menjadi gerak.
+**Pembahasan:** Kipas angin adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengubah energi listrik menjadi gerak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 17 — K03-IPAS-B06-M01-017
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mengubah energi listrik menjadi panas" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "mengubah energi listrik menjadi panas". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Setrika
@@ -268,13 +268,13 @@
 
 **Kunci Jawaban:** Setrika
 
-**Pembahasan:** Setrika berkaitan dengan mengubah energi listrik menjadi panas.
+**Pembahasan:** Setrika adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengubah energi listrik menjadi panas". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 18 — K03-IPAS-B06-M01-018
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "sumber energi bagi tubuh" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "sumber energi bagi tubuh". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Cahaya
@@ -284,13 +284,13 @@
 
 **Kunci Jawaban:** Makanan
 
-**Pembahasan:** Makanan berkaitan dengan sumber energi bagi tubuh.
+**Pembahasan:** Makanan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "sumber energi bagi tubuh". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 19 — K03-IPAS-B06-M01-019
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat menggerakkan kincir" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "dapat menggerakkan kincir"?
 
 **Pilihan jawaban:**
 - Panas
@@ -300,13 +300,13 @@
 
 **Kunci Jawaban:** Angin
 
-**Pembahasan:** Angin berkaitan dengan dapat menggerakkan kincir.
+**Pembahasan:** Angin adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat menggerakkan kincir". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 20 — K03-IPAS-B06-M01-020
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat menggerakkan turbin" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk dapat menggerakkan turbin. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Panel surya
@@ -316,7 +316,7 @@
 
 **Kunci Jawaban:** Air mengalir
 
-**Pembahasan:** Air mengalir berkaitan dengan dapat menggerakkan turbin.
+**Pembahasan:** Air mengalir adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat menggerakkan turbin". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -652,7 +652,7 @@
 
 **Kunci Jawaban:** Cahaya
 
-**Pembahasan:** Cahaya berkaitan dengan membantu kita melihat.
+**Pembahasan:** Cahaya adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu kita melihat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -668,7 +668,7 @@
 
 **Kunci Jawaban:** Panas
 
-**Pembahasan:** Panas berkaitan dengan dapat mengubah suhu benda.
+**Pembahasan:** Panas adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat mengubah suhu benda". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -684,7 +684,7 @@
 
 **Kunci Jawaban:** Panel surya
 
-**Pembahasan:** Panel surya berkaitan dengan mengubah cahaya matahari menjadi listrik.
+**Pembahasan:** Panel surya adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengubah cahaya matahari menjadi listrik". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -700,7 +700,7 @@
 
 **Kunci Jawaban:** Hemat energi
 
-**Pembahasan:** Hemat energi berkaitan dengan mengurangi penggunaan yang tidak perlu.
+**Pembahasan:** Hemat energi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengurangi penggunaan yang tidak perlu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -716,7 +716,7 @@
 
 **Kunci Jawaban:** Mematikan lampu
 
-**Pembahasan:** Mematikan lampu berkaitan dengan contoh menghemat listrik.
+**Pembahasan:** Mematikan lampu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh menghemat listrik". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -732,7 +732,7 @@
 
 **Kunci Jawaban:** Mengayuh sepeda
 
-**Pembahasan:** Mengayuh sepeda berkaitan dengan menggunakan energi dari tubuh.
+**Pembahasan:** Mengayuh sepeda adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menggunakan energi dari tubuh". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -748,7 +748,7 @@
 
 **Kunci Jawaban:** Kompor
 
-**Pembahasan:** Kompor berkaitan dengan menghasilkan panas untuk memasak.
+**Pembahasan:** Kompor adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menghasilkan panas untuk memasak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -764,7 +764,7 @@
 
 **Kunci Jawaban:** Energi gerak
 
-**Pembahasan:** Energi gerak berkaitan dengan dimiliki benda yang bergerak.
+**Pembahasan:** Energi gerak adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dimiliki benda yang bergerak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -780,7 +780,7 @@
 
 **Kunci Jawaban:** Energi listrik
 
-**Pembahasan:** Energi listrik berkaitan dengan menghidupkan banyak alat.
+**Pembahasan:** Energi listrik adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menghidupkan banyak alat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -796,6 +796,6 @@
 
 **Kunci Jawaban:** Perubahan energi
 
-**Pembahasan:** Perubahan energi berkaitan dengan peralihan dari satu bentuk ke bentuk lain.
+**Pembahasan:** Perubahan energi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "peralihan dari satu bentuk ke bentuk lain". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---

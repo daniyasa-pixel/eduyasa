@@ -2,7 +2,7 @@
 
 ## Soal 1 — K03-IPAS-B02-M01-001
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "cara menggali cerita narasumber" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "cara menggali cerita narasumber". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Wawancara
@@ -12,13 +12,13 @@
 
 **Kunci Jawaban:** Wawancara
 
-**Pembahasan:** Wawancara berkaitan dengan cara menggali cerita narasumber.
+**Pembahasan:** Wawancara adalah pilihan yang sesuai karena petunjuk soal menyebutkan "cara menggali cerita narasumber". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 2 — K03-IPAS-B02-M01-002
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "orang yang memberikan informasi" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "orang yang memberikan informasi". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Transportasi
@@ -28,13 +28,13 @@
 
 **Kunci Jawaban:** Narasumber
 
-**Pembahasan:** Narasumber berkaitan dengan orang yang memberikan informasi.
+**Pembahasan:** Narasumber adalah pilihan yang sesuai karena petunjuk soal menyebutkan "orang yang memberikan informasi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 3 — K03-IPAS-B02-M01-003
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "catatan atau bukti kegiatan" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "catatan atau bukti kegiatan"?
 
 **Pilihan jawaban:**
 - Komunikasi
@@ -44,13 +44,13 @@
 
 **Kunci Jawaban:** Dokumentasi
 
-**Pembahasan:** Dokumentasi berkaitan dengan catatan atau bukti kegiatan.
+**Pembahasan:** Dokumentasi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "catatan atau bukti kegiatan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 4 — K03-IPAS-B02-M01-004
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "perbedaan keadaan dari waktu ke waktu" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk perbedaan keadaan dari waktu ke waktu. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Kenangan
@@ -60,13 +60,13 @@
 
 **Kunci Jawaban:** Perubahan
 
-**Pembahasan:** Perubahan berkaitan dengan perbedaan keadaan dari waktu ke waktu.
+**Pembahasan:** Perubahan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perbedaan keadaan dari waktu ke waktu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 5 — K03-IPAS-B02-M01-005
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat berkembang dari masa ke masa" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "dapat berkembang dari masa ke masa". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Transportasi
@@ -76,13 +76,13 @@
 
 **Kunci Jawaban:** Transportasi
 
-**Pembahasan:** Transportasi berkaitan dengan dapat berkembang dari masa ke masa.
+**Pembahasan:** Transportasi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat berkembang dari masa ke masa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 6 — K03-IPAS-B02-M01-006
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat berubah karena teknologi" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "dapat berubah karena teknologi". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Rencana
@@ -92,13 +92,13 @@
 
 **Kunci Jawaban:** Komunikasi
 
-**Pembahasan:** Komunikasi berkaitan dengan dapat berubah karena teknologi.
+**Pembahasan:** Komunikasi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat berubah karena teknologi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 7 — K03-IPAS-B02-M01-007
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "pengalaman yang diingat" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "pengalaman yang diingat"?
 
 **Pilihan jawaban:**
 - Merawat peninggalan
@@ -108,13 +108,13 @@
 
 **Kunci Jawaban:** Kenangan
 
-**Pembahasan:** Kenangan berkaitan dengan pengalaman yang diingat.
+**Pembahasan:** Kenangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "pengalaman yang diingat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 8 — K03-IPAS-B02-M01-008
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menempatkan kejadian menurut waktu" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk menempatkan kejadian menurut waktu. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Tantangan
@@ -124,13 +124,13 @@
 
 **Kunci Jawaban:** Urutan kronologis
 
-**Pembahasan:** Urutan kronologis berkaitan dengan menempatkan kejadian menurut waktu.
+**Pembahasan:** Urutan kronologis adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menempatkan kejadian menurut waktu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 9 — K03-IPAS-B02-M01-009
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "persiapan kegiatan yang akan datang" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "persiapan kegiatan yang akan datang". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Rencana
@@ -140,13 +140,13 @@
 
 **Kunci Jawaban:** Rencana
 
-**Pembahasan:** Rencana berkaitan dengan persiapan kegiatan yang akan datang.
+**Pembahasan:** Rencana adalah pilihan yang sesuai karena petunjuk soal menyebutkan "persiapan kegiatan yang akan datang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 10 — K03-IPAS-B02-M01-010
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu menjaga sejarah" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "membantu menjaga sejarah". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Masa kini
@@ -156,13 +156,13 @@
 
 **Kunci Jawaban:** Merawat peninggalan
 
-**Pembahasan:** Merawat peninggalan berkaitan dengan membantu menjaga sejarah.
+**Pembahasan:** Merawat peninggalan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu menjaga sejarah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 11 — K03-IPAS-B02-M01-011
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "Pilih tiga hal yang kamu temukan hari ini" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "Pilih tiga hal yang kamu temukan hari ini"?
 
 **Pilihan jawaban:**
 - Masa depan
@@ -172,13 +172,13 @@
 
 **Kunci Jawaban:** Tantangan
 
-**Pembahasan:** Tantangan berkaitan dengan Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Tantangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "Pilih tiga hal yang kamu temukan hari ini". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 12 — K03-IPAS-B02-M01-012
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "peristiwa yang sudah terjadi" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk peristiwa yang sudah terjadi. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Foto lama
@@ -188,13 +188,13 @@
 
 **Kunci Jawaban:** Masa lalu
 
-**Pembahasan:** Masa lalu berkaitan dengan peristiwa yang sudah terjadi.
+**Pembahasan:** Masa lalu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "peristiwa yang sudah terjadi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 13 — K03-IPAS-B02-M01-013
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "waktu yang sedang berlangsung" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "waktu yang sedang berlangsung". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Masa kini
@@ -204,13 +204,13 @@
 
 **Kunci Jawaban:** Masa kini
 
-**Pembahasan:** Masa kini berkaitan dengan waktu yang sedang berlangsung.
+**Pembahasan:** Masa kini adalah pilihan yang sesuai karena petunjuk soal menyebutkan "waktu yang sedang berlangsung". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 14 — K03-IPAS-B02-M01-014
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "waktu yang belum terjadi" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "waktu yang belum terjadi". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Garis waktu
@@ -220,13 +220,13 @@
 
 **Kunci Jawaban:** Masa depan
 
-**Pembahasan:** Masa depan berkaitan dengan waktu yang belum terjadi.
+**Pembahasan:** Masa depan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "waktu yang belum terjadi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 15 — K03-IPAS-B02-M01-015
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu mengenang peristiwa" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "membantu mengenang peristiwa"?
 
 **Pilihan jawaban:**
 - Kalender
@@ -236,13 +236,13 @@
 
 **Kunci Jawaban:** Foto lama
 
-**Pembahasan:** Foto lama berkaitan dengan membantu mengenang peristiwa.
+**Pembahasan:** Foto lama adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu mengenang peristiwa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 16 — K03-IPAS-B02-M01-016
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menjadi sumber kisah masa lalu" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk menjadi sumber kisah masa lalu. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Kemarin
@@ -252,13 +252,13 @@
 
 **Kunci Jawaban:** Cerita keluarga
 
-**Pembahasan:** Cerita keluarga berkaitan dengan menjadi sumber kisah masa lalu.
+**Pembahasan:** Cerita keluarga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menjadi sumber kisah masa lalu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 17 — K03-IPAS-B02-M01-017
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menunjukkan urutan peristiwa" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "menunjukkan urutan peristiwa". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Garis waktu
@@ -268,13 +268,13 @@
 
 **Kunci Jawaban:** Garis waktu
 
-**Pembahasan:** Garis waktu berkaitan dengan menunjukkan urutan peristiwa.
+**Pembahasan:** Garis waktu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menunjukkan urutan peristiwa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 18 — K03-IPAS-B02-M01-018
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menunjukkan tanggal dan bulan" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "menunjukkan tanggal dan bulan". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Wawancara
@@ -284,13 +284,13 @@
 
 **Kunci Jawaban:** Kalender
 
-**Pembahasan:** Kalender berkaitan dengan menunjukkan tanggal dan bulan.
+**Pembahasan:** Kalender adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menunjukkan tanggal dan bulan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 19 — K03-IPAS-B02-M01-019
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "termasuk masa lalu" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "termasuk masa lalu"?
 
 **Pilihan jawaban:**
 - Narasumber
@@ -300,13 +300,13 @@
 
 **Kunci Jawaban:** Kemarin
 
-**Pembahasan:** Kemarin berkaitan dengan termasuk masa lalu.
+**Pembahasan:** Kemarin adalah pilihan yang sesuai karena petunjuk soal menyebutkan "termasuk masa lalu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 20 — K03-IPAS-B02-M01-020
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "termasuk masa kini" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk termasuk masa kini. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Dokumentasi
@@ -316,7 +316,7 @@
 
 **Kunci Jawaban:** Hari ini
 
-**Pembahasan:** Hari ini berkaitan dengan termasuk masa kini.
+**Pembahasan:** Hari ini adalah pilihan yang sesuai karena petunjuk soal menyebutkan "termasuk masa kini". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -652,7 +652,7 @@
 
 **Kunci Jawaban:** Wawancara
 
-**Pembahasan:** Wawancara berkaitan dengan cara menggali cerita narasumber.
+**Pembahasan:** Wawancara adalah pilihan yang sesuai karena petunjuk soal menyebutkan "cara menggali cerita narasumber". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -668,7 +668,7 @@
 
 **Kunci Jawaban:** Narasumber
 
-**Pembahasan:** Narasumber berkaitan dengan orang yang memberikan informasi.
+**Pembahasan:** Narasumber adalah pilihan yang sesuai karena petunjuk soal menyebutkan "orang yang memberikan informasi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -684,7 +684,7 @@
 
 **Kunci Jawaban:** Dokumentasi
 
-**Pembahasan:** Dokumentasi berkaitan dengan catatan atau bukti kegiatan.
+**Pembahasan:** Dokumentasi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "catatan atau bukti kegiatan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -700,7 +700,7 @@
 
 **Kunci Jawaban:** Perubahan
 
-**Pembahasan:** Perubahan berkaitan dengan perbedaan keadaan dari waktu ke waktu.
+**Pembahasan:** Perubahan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perbedaan keadaan dari waktu ke waktu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -716,7 +716,7 @@
 
 **Kunci Jawaban:** Transportasi
 
-**Pembahasan:** Transportasi berkaitan dengan dapat berkembang dari masa ke masa.
+**Pembahasan:** Transportasi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat berkembang dari masa ke masa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -732,7 +732,7 @@
 
 **Kunci Jawaban:** Komunikasi
 
-**Pembahasan:** Komunikasi berkaitan dengan dapat berubah karena teknologi.
+**Pembahasan:** Komunikasi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat berubah karena teknologi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -748,7 +748,7 @@
 
 **Kunci Jawaban:** Kenangan
 
-**Pembahasan:** Kenangan berkaitan dengan pengalaman yang diingat.
+**Pembahasan:** Kenangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "pengalaman yang diingat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -764,7 +764,7 @@
 
 **Kunci Jawaban:** Urutan kronologis
 
-**Pembahasan:** Urutan kronologis berkaitan dengan menempatkan kejadian menurut waktu.
+**Pembahasan:** Urutan kronologis adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menempatkan kejadian menurut waktu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -780,7 +780,7 @@
 
 **Kunci Jawaban:** Rencana
 
-**Pembahasan:** Rencana berkaitan dengan persiapan kegiatan yang akan datang.
+**Pembahasan:** Rencana adalah pilihan yang sesuai karena petunjuk soal menyebutkan "persiapan kegiatan yang akan datang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -796,6 +796,6 @@
 
 **Kunci Jawaban:** Merawat peninggalan
 
-**Pembahasan:** Merawat peninggalan berkaitan dengan membantu menjaga sejarah.
+**Pembahasan:** Merawat peninggalan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu menjaga sejarah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---

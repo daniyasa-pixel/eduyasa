@@ -2,7 +2,7 @@
 
 ## Soal 1 — K03-IPAS-B04-M01-001
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tempat utama pembuatan makanan tumbuhan" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "tempat utama pembuatan makanan tumbuhan". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Daun
@@ -12,13 +12,13 @@
 
 **Kunci Jawaban:** Daun
 
-**Pembahasan:** Daun berkaitan dengan tempat utama pembuatan makanan tumbuhan.
+**Pembahasan:** Daun adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tempat utama pembuatan makanan tumbuhan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 2 — K03-IPAS-B04-M01-002
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "berperan dalam perkembangbiakan banyak tumbuhan" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "berperan dalam perkembangbiakan banyak tumbuhan". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Siklus hidup
@@ -28,13 +28,13 @@
 
 **Kunci Jawaban:** Bunga
 
-**Pembahasan:** Bunga berkaitan dengan berperan dalam perkembangbiakan banyak tumbuhan.
+**Pembahasan:** Bunga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "berperan dalam perkembangbiakan banyak tumbuhan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 3 — K03-IPAS-B04-M01-003
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat melindungi biji" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "dapat melindungi biji"?
 
 **Pilihan jawaban:**
 - Air
@@ -44,13 +44,13 @@
 
 **Kunci Jawaban:** Buah
 
-**Pembahasan:** Buah berkaitan dengan dapat melindungi biji.
+**Pembahasan:** Buah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat melindungi biji". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 4 — K03-IPAS-B04-M01-004
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "perubahan bentuk selama pertumbuhan" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk perubahan bentuk selama pertumbuhan. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Cahaya
@@ -60,13 +60,13 @@
 
 **Kunci Jawaban:** Metamorfosis
 
-**Pembahasan:** Metamorfosis berkaitan dengan perubahan bentuk selama pertumbuhan.
+**Pembahasan:** Metamorfosis adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perubahan bentuk selama pertumbuhan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 5 — K03-IPAS-B04-M01-005
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tahapan hidup makhluk hidup" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "tahapan hidup makhluk hidup". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Siklus hidup
@@ -76,13 +76,13 @@
 
 **Kunci Jawaban:** Siklus hidup
 
-**Pembahasan:** Siklus hidup berkaitan dengan tahapan hidup makhluk hidup.
+**Pembahasan:** Siklus hidup adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tahapan hidup makhluk hidup". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 6 — K03-IPAS-B04-M01-006
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dibutuhkan untuk perkecambahan" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "dibutuhkan untuk perkecambahan". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Habitat
@@ -92,13 +92,13 @@
 
 **Kunci Jawaban:** Air
 
-**Pembahasan:** Air berkaitan dengan dibutuhkan untuk perkecambahan.
+**Pembahasan:** Air adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dibutuhkan untuk perkecambahan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 7 — K03-IPAS-B04-M01-007
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dibutuhkan tumbuhan untuk fotosintesis" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "dibutuhkan tumbuhan untuk fotosintesis"?
 
 **Pilihan jawaban:**
 - Pelestarian
@@ -108,13 +108,13 @@
 
 **Kunci Jawaban:** Cahaya
 
-**Pembahasan:** Cahaya berkaitan dengan dibutuhkan tumbuhan untuk fotosintesis.
+**Pembahasan:** Cahaya adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dibutuhkan tumbuhan untuk fotosintesis". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 8 — K03-IPAS-B04-M01-008
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dibutuhkan hewan untuk tumbuh" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk dibutuhkan hewan untuk tumbuh. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Tantangan
@@ -124,13 +124,13 @@
 
 **Kunci Jawaban:** Makanan
 
-**Pembahasan:** Makanan berkaitan dengan dibutuhkan hewan untuk tumbuh.
+**Pembahasan:** Makanan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dibutuhkan hewan untuk tumbuh". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 9 — K03-IPAS-B04-M01-009
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tempat makhluk hidup tinggal" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "tempat makhluk hidup tinggal". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Habitat
@@ -140,13 +140,13 @@
 
 **Kunci Jawaban:** Habitat
 
-**Pembahasan:** Habitat berkaitan dengan tempat makhluk hidup tinggal.
+**Pembahasan:** Habitat adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tempat makhluk hidup tinggal". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 10 — K03-IPAS-B04-M01-010
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu kelangsungan makhluk hidup" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "membantu kelangsungan makhluk hidup". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Anak ayam
@@ -156,13 +156,13 @@
 
 **Kunci Jawaban:** Pelestarian
 
-**Pembahasan:** Pelestarian berkaitan dengan membantu kelangsungan makhluk hidup.
+**Pembahasan:** Pelestarian adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu kelangsungan makhluk hidup". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 11 — K03-IPAS-B04-M01-011
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "Pilih tiga hal yang kamu temukan hari ini" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "Pilih tiga hal yang kamu temukan hari ini"?
 
 **Pilihan jawaban:**
 - Ulat
@@ -172,13 +172,13 @@
 
 **Kunci Jawaban:** Tantangan
 
-**Pembahasan:** Tantangan berkaitan dengan Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Tantangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "Pilih tiga hal yang kamu temukan hari ini". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 12 — K03-IPAS-B04-M01-012
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tahap awal hidup ayam" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk tahap awal hidup ayam. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Kepompong
@@ -188,13 +188,13 @@
 
 **Kunci Jawaban:** Telur
 
-**Pembahasan:** Telur berkaitan dengan tahap awal hidup ayam.
+**Pembahasan:** Telur adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tahap awal hidup ayam". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 13 — K03-IPAS-B04-M01-013
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tumbuh menjadi ayam dewasa" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "tumbuh menjadi ayam dewasa". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Anak ayam
@@ -204,13 +204,13 @@
 
 **Kunci Jawaban:** Anak ayam
 
-**Pembahasan:** Anak ayam berkaitan dengan tumbuh menjadi ayam dewasa.
+**Pembahasan:** Anak ayam adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tumbuh menjadi ayam dewasa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 14 — K03-IPAS-B04-M01-014
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tahap larva kupu-kupu" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "tahap larva kupu-kupu". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Berudu
@@ -220,13 +220,13 @@
 
 **Kunci Jawaban:** Ulat
 
-**Pembahasan:** Ulat berkaitan dengan tahap larva kupu-kupu.
+**Pembahasan:** Ulat adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tahap larva kupu-kupu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 15 — K03-IPAS-B04-M01-015
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tahap pupa kupu-kupu" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "tahap pupa kupu-kupu"?
 
 **Pilihan jawaban:**
 - Katak dewasa
@@ -236,13 +236,13 @@
 
 **Kunci Jawaban:** Kepompong
 
-**Pembahasan:** Kepompong berkaitan dengan tahap pupa kupu-kupu.
+**Pembahasan:** Kepompong adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tahap pupa kupu-kupu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 16 — K03-IPAS-B04-M01-016
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat berkembang biak" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk dapat berkembang biak. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Biji
@@ -252,13 +252,13 @@
 
 **Kunci Jawaban:** Kupu-kupu dewasa
 
-**Pembahasan:** Kupu-kupu dewasa berkaitan dengan dapat berkembang biak.
+**Pembahasan:** Kupu-kupu dewasa adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat berkembang biak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 17 — K03-IPAS-B04-M01-017
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "anak katak yang hidup di air" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "anak katak yang hidup di air". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Berudu
@@ -268,13 +268,13 @@
 
 **Kunci Jawaban:** Berudu
 
-**Pembahasan:** Berudu berkaitan dengan anak katak yang hidup di air.
+**Pembahasan:** Berudu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "anak katak yang hidup di air". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 18 — K03-IPAS-B04-M01-018
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat hidup di darat dan air" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "dapat hidup di darat dan air". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Daun
@@ -284,13 +284,13 @@
 
 **Kunci Jawaban:** Katak dewasa
 
-**Pembahasan:** Katak dewasa berkaitan dengan dapat hidup di darat dan air.
+**Pembahasan:** Katak dewasa adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat hidup di darat dan air". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 19 — K03-IPAS-B04-M01-019
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat tumbuh menjadi tumbuhan" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "dapat tumbuh menjadi tumbuhan"?
 
 **Pilihan jawaban:**
 - Bunga
@@ -300,13 +300,13 @@
 
 **Kunci Jawaban:** Biji
 
-**Pembahasan:** Biji berkaitan dengan dapat tumbuh menjadi tumbuhan.
+**Pembahasan:** Biji adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat tumbuh menjadi tumbuhan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 20 — K03-IPAS-B04-M01-020
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tumbuhan muda dari biji" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk tumbuhan muda dari biji. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Buah
@@ -316,7 +316,7 @@
 
 **Kunci Jawaban:** Kecambah
 
-**Pembahasan:** Kecambah berkaitan dengan tumbuhan muda dari biji.
+**Pembahasan:** Kecambah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tumbuhan muda dari biji". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -652,7 +652,7 @@
 
 **Kunci Jawaban:** Daun
 
-**Pembahasan:** Daun berkaitan dengan tempat utama pembuatan makanan tumbuhan.
+**Pembahasan:** Daun adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tempat utama pembuatan makanan tumbuhan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -668,7 +668,7 @@
 
 **Kunci Jawaban:** Bunga
 
-**Pembahasan:** Bunga berkaitan dengan berperan dalam perkembangbiakan banyak tumbuhan.
+**Pembahasan:** Bunga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "berperan dalam perkembangbiakan banyak tumbuhan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -684,7 +684,7 @@
 
 **Kunci Jawaban:** Buah
 
-**Pembahasan:** Buah berkaitan dengan dapat melindungi biji.
+**Pembahasan:** Buah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat melindungi biji". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -700,7 +700,7 @@
 
 **Kunci Jawaban:** Metamorfosis
 
-**Pembahasan:** Metamorfosis berkaitan dengan perubahan bentuk selama pertumbuhan.
+**Pembahasan:** Metamorfosis adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perubahan bentuk selama pertumbuhan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -716,7 +716,7 @@
 
 **Kunci Jawaban:** Siklus hidup
 
-**Pembahasan:** Siklus hidup berkaitan dengan tahapan hidup makhluk hidup.
+**Pembahasan:** Siklus hidup adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tahapan hidup makhluk hidup". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -732,7 +732,7 @@
 
 **Kunci Jawaban:** Air
 
-**Pembahasan:** Air berkaitan dengan dibutuhkan untuk perkecambahan.
+**Pembahasan:** Air adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dibutuhkan untuk perkecambahan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -748,7 +748,7 @@
 
 **Kunci Jawaban:** Cahaya
 
-**Pembahasan:** Cahaya berkaitan dengan dibutuhkan tumbuhan untuk fotosintesis.
+**Pembahasan:** Cahaya adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dibutuhkan tumbuhan untuk fotosintesis". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -764,7 +764,7 @@
 
 **Kunci Jawaban:** Makanan
 
-**Pembahasan:** Makanan berkaitan dengan dibutuhkan hewan untuk tumbuh.
+**Pembahasan:** Makanan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dibutuhkan hewan untuk tumbuh". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -780,7 +780,7 @@
 
 **Kunci Jawaban:** Habitat
 
-**Pembahasan:** Habitat berkaitan dengan tempat makhluk hidup tinggal.
+**Pembahasan:** Habitat adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tempat makhluk hidup tinggal". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -796,6 +796,6 @@
 
 **Kunci Jawaban:** Pelestarian
 
-**Pembahasan:** Pelestarian berkaitan dengan membantu kelangsungan makhluk hidup.
+**Pembahasan:** Pelestarian adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu kelangsungan makhluk hidup". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---

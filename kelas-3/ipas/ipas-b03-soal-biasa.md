@@ -2,7 +2,7 @@
 
 ## Soal 1 — K03-IPAS-B03-M01-001
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "berbicara dan bertindak dengan hormat" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "berbicara dan bertindak dengan hormat". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Sopan santun
@@ -12,13 +12,13 @@
 
 **Kunci Jawaban:** Sopan santun
 
-**Pembahasan:** Sopan santun berkaitan dengan berbicara dan bertindak dengan hormat.
+**Pembahasan:** Sopan santun adalah pilihan yang sesuai karena petunjuk soal menyebutkan "berbicara dan bertindak dengan hormat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 2 — K03-IPAS-B03-M01-002
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "memperhatikan orang yang berbicara" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "memperhatikan orang yang berbicara". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Membantu teman
@@ -28,13 +28,13 @@
 
 **Kunci Jawaban:** Mendengarkan
 
-**Pembahasan:** Mendengarkan berkaitan dengan memperhatikan orang yang berbicara.
+**Pembahasan:** Mendengarkan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memperhatikan orang yang berbicara". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 3 — K03-IPAS-B03-M01-003
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menyelesaikan tugas yang disepakati" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "menyelesaikan tugas yang disepakati"?
 
 **Pilihan jawaban:**
 - Perbedaan
@@ -44,13 +44,13 @@
 
 **Kunci Jawaban:** Tanggung jawab
 
-**Pembahasan:** Tanggung jawab berkaitan dengan menyelesaikan tugas yang disepakati.
+**Pembahasan:** Tanggung jawab adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menyelesaikan tugas yang disepakati". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 4 — K03-IPAS-B03-M01-004
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menjaga kebersihan dan kelestarian" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk menjaga kebersihan dan kelestarian. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Donasi layak pakai
@@ -60,13 +60,13 @@
 
 **Kunci Jawaban:** Peduli lingkungan
 
-**Pembahasan:** Peduli lingkungan berkaitan dengan menjaga kebersihan dan kelestarian.
+**Pembahasan:** Peduli lingkungan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menjaga kebersihan dan kelestarian". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 5 — K03-IPAS-B03-M01-005
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dilakukan tanpa merendahkan" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "dilakukan tanpa merendahkan". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Membantu teman
@@ -76,13 +76,13 @@
 
 **Kunci Jawaban:** Membantu teman
 
-**Pembahasan:** Membantu teman berkaitan dengan dilakukan tanpa merendahkan.
+**Pembahasan:** Membantu teman adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dilakukan tanpa merendahkan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 6 — K03-IPAS-B03-M01-006
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "perlu dihormati" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "perlu dihormati". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Menjaga fasilitas umum
@@ -92,13 +92,13 @@
 
 **Kunci Jawaban:** Perbedaan
 
-**Pembahasan:** Perbedaan berkaitan dengan perlu dihormati.
+**Pembahasan:** Perbedaan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perlu dihormati". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 7 — K03-IPAS-B03-M01-007
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "barang yang masih bermanfaat" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "barang yang masih bermanfaat"?
 
 **Pilihan jawaban:**
 - Kerja sama
@@ -108,13 +108,13 @@
 
 **Kunci Jawaban:** Donasi layak pakai
 
-**Pembahasan:** Donasi layak pakai berkaitan dengan barang yang masih bermanfaat.
+**Pembahasan:** Donasi layak pakai adalah pilihan yang sesuai karena petunjuk soal menyebutkan "barang yang masih bermanfaat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 8 — K03-IPAS-B03-M01-008
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "memisahkan sesuai jenis" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk memisahkan sesuai jenis. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Tantangan
@@ -124,13 +124,13 @@
 
 **Kunci Jawaban:** Memilah sampah
 
-**Pembahasan:** Memilah sampah berkaitan dengan memisahkan sesuai jenis.
+**Pembahasan:** Memilah sampah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memisahkan sesuai jenis". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 9 — K03-IPAS-B03-M01-009
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menggunakan dengan hati-hati" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "menggunakan dengan hati-hati". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Menjaga fasilitas umum
@@ -140,13 +140,13 @@
 
 **Kunci Jawaban:** Menjaga fasilitas umum
 
-**Pembahasan:** Menjaga fasilitas umum berkaitan dengan menggunakan dengan hati-hati.
+**Pembahasan:** Menjaga fasilitas umum adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menggunakan dengan hati-hati". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 10 — K03-IPAS-B03-M01-010
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membagi tugas secara adil" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "membagi tugas secara adil". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Berbagi
@@ -156,13 +156,13 @@
 
 **Kunci Jawaban:** Kerja sama
 
-**Pembahasan:** Kerja sama berkaitan dengan membagi tugas secara adil.
+**Pembahasan:** Kerja sama adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membagi tugas secara adil". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 11 — K03-IPAS-B03-M01-011
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "Pilih tiga hal yang kamu temukan hari ini" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "Pilih tiga hal yang kamu temukan hari ini"?
 
 **Pilihan jawaban:**
 - Gotong royong
@@ -172,13 +172,13 @@
 
 **Kunci Jawaban:** Tantangan
 
-**Pembahasan:** Tantangan berkaitan dengan Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Tantangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "Pilih tiga hal yang kamu temukan hari ini". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 12 — K03-IPAS-B03-M01-012
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "memahami perasaan orang lain" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk memahami perasaan orang lain. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Tolong-menolong
@@ -188,13 +188,13 @@
 
 **Kunci Jawaban:** Empati
 
-**Pembahasan:** Empati berkaitan dengan memahami perasaan orang lain.
+**Pembahasan:** Empati adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memahami perasaan orang lain". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 13 — K03-IPAS-B03-M01-013
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "memberikan sebagian yang dimiliki" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "memberikan sebagian yang dimiliki". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Berbagi
@@ -204,13 +204,13 @@
 
 **Kunci Jawaban:** Berbagi
 
-**Pembahasan:** Berbagi berkaitan dengan memberikan sebagian yang dimiliki.
+**Pembahasan:** Berbagi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memberikan sebagian yang dimiliki". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 14 — K03-IPAS-B03-M01-014
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "bekerja bersama untuk tujuan baik" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "bekerja bersama untuk tujuan baik". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Mengantre
@@ -220,13 +220,13 @@
 
 **Kunci Jawaban:** Gotong royong
 
-**Pembahasan:** Gotong royong berkaitan dengan bekerja bersama untuk tujuan baik.
+**Pembahasan:** Gotong royong adalah pilihan yang sesuai karena petunjuk soal menyebutkan "bekerja bersama untuk tujuan baik". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 15 — K03-IPAS-B03-M01-015
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "saling membantu saat diperlukan" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "saling membantu saat diperlukan"?
 
 **Pilihan jawaban:**
 - Sampah
@@ -236,13 +236,13 @@
 
 **Kunci Jawaban:** Tolong-menolong
 
-**Pembahasan:** Tolong-menolong berkaitan dengan saling membantu saat diperlukan.
+**Pembahasan:** Tolong-menolong adalah pilihan yang sesuai karena petunjuk soal menyebutkan "saling membantu saat diperlukan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 16 — K03-IPAS-B03-M01-016
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "berdiskusi untuk mengambil keputusan" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk berdiskusi untuk mengambil keputusan. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Hemat air
@@ -252,13 +252,13 @@
 
 **Kunci Jawaban:** Musyawarah
 
-**Pembahasan:** Musyawarah berkaitan dengan berdiskusi untuk mengambil keputusan.
+**Pembahasan:** Musyawarah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "berdiskusi untuk mengambil keputusan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 17 — K03-IPAS-B03-M01-017
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menghargai giliran orang lain" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "menghargai giliran orang lain". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Mengantre
@@ -268,13 +268,13 @@
 
 **Kunci Jawaban:** Mengantre
 
-**Pembahasan:** Mengantre berkaitan dengan menghargai giliran orang lain.
+**Pembahasan:** Mengantre adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menghargai giliran orang lain". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 18 — K03-IPAS-B03-M01-018
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dibuang ke tempatnya" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "dibuang ke tempatnya". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Sopan santun
@@ -284,13 +284,13 @@
 
 **Kunci Jawaban:** Sampah
 
-**Pembahasan:** Sampah berkaitan dengan dibuang ke tempatnya.
+**Pembahasan:** Sampah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dibuang ke tempatnya". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 19 — K03-IPAS-B03-M01-019
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menggunakan air seperlunya" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "menggunakan air seperlunya"?
 
 **Pilihan jawaban:**
 - Mendengarkan
@@ -300,13 +300,13 @@
 
 **Kunci Jawaban:** Hemat air
 
-**Pembahasan:** Hemat air berkaitan dengan menggunakan air seperlunya.
+**Pembahasan:** Hemat air adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menggunakan air seperlunya". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 20 — K03-IPAS-B03-M01-020
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mematikan lampu yang tidak diperlukan" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk mematikan lampu yang tidak diperlukan. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Tanggung jawab
@@ -316,7 +316,7 @@
 
 **Kunci Jawaban:** Hemat listrik
 
-**Pembahasan:** Hemat listrik berkaitan dengan mematikan lampu yang tidak diperlukan.
+**Pembahasan:** Hemat listrik adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mematikan lampu yang tidak diperlukan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -652,7 +652,7 @@
 
 **Kunci Jawaban:** Sopan santun
 
-**Pembahasan:** Sopan santun berkaitan dengan berbicara dan bertindak dengan hormat.
+**Pembahasan:** Sopan santun adalah pilihan yang sesuai karena petunjuk soal menyebutkan "berbicara dan bertindak dengan hormat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -668,7 +668,7 @@
 
 **Kunci Jawaban:** Mendengarkan
 
-**Pembahasan:** Mendengarkan berkaitan dengan memperhatikan orang yang berbicara.
+**Pembahasan:** Mendengarkan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memperhatikan orang yang berbicara". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -684,7 +684,7 @@
 
 **Kunci Jawaban:** Tanggung jawab
 
-**Pembahasan:** Tanggung jawab berkaitan dengan menyelesaikan tugas yang disepakati.
+**Pembahasan:** Tanggung jawab adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menyelesaikan tugas yang disepakati". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -700,7 +700,7 @@
 
 **Kunci Jawaban:** Peduli lingkungan
 
-**Pembahasan:** Peduli lingkungan berkaitan dengan menjaga kebersihan dan kelestarian.
+**Pembahasan:** Peduli lingkungan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menjaga kebersihan dan kelestarian". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -716,7 +716,7 @@
 
 **Kunci Jawaban:** Membantu teman
 
-**Pembahasan:** Membantu teman berkaitan dengan dilakukan tanpa merendahkan.
+**Pembahasan:** Membantu teman adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dilakukan tanpa merendahkan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -732,7 +732,7 @@
 
 **Kunci Jawaban:** Perbedaan
 
-**Pembahasan:** Perbedaan berkaitan dengan perlu dihormati.
+**Pembahasan:** Perbedaan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perlu dihormati". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -748,7 +748,7 @@
 
 **Kunci Jawaban:** Donasi layak pakai
 
-**Pembahasan:** Donasi layak pakai berkaitan dengan barang yang masih bermanfaat.
+**Pembahasan:** Donasi layak pakai adalah pilihan yang sesuai karena petunjuk soal menyebutkan "barang yang masih bermanfaat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -764,7 +764,7 @@
 
 **Kunci Jawaban:** Memilah sampah
 
-**Pembahasan:** Memilah sampah berkaitan dengan memisahkan sesuai jenis.
+**Pembahasan:** Memilah sampah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memisahkan sesuai jenis". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -780,7 +780,7 @@
 
 **Kunci Jawaban:** Menjaga fasilitas umum
 
-**Pembahasan:** Menjaga fasilitas umum berkaitan dengan menggunakan dengan hati-hati.
+**Pembahasan:** Menjaga fasilitas umum adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menggunakan dengan hati-hati". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -796,6 +796,6 @@
 
 **Kunci Jawaban:** Kerja sama
 
-**Pembahasan:** Kerja sama berkaitan dengan membagi tugas secara adil.
+**Pembahasan:** Kerja sama adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membagi tugas secara adil". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---

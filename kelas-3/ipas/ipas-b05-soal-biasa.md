@@ -2,7 +2,7 @@
 
 ## Soal 1 — K03-IPAS-B05-M01-001
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mendahulukan yang paling penting" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "mendahulukan yang paling penting". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Prioritas
@@ -12,13 +12,13 @@
 
 **Kunci Jawaban:** Prioritas
 
-**Pembahasan:** Prioritas berkaitan dengan mendahulukan yang paling penting.
+**Pembahasan:** Prioritas adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mendahulukan yang paling penting". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 2 — K03-IPAS-B05-M01-002
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu memilih sesuai kebutuhan" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "membantu memilih sesuai kebutuhan". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Pedagang
@@ -28,13 +28,13 @@
 
 **Kunci Jawaban:** Membandingkan harga
 
-**Pembahasan:** Membandingkan harga berkaitan dengan membantu memilih sesuai kebutuhan.
+**Pembahasan:** Membandingkan harga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu memilih sesuai kebutuhan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 3 — K03-IPAS-B05-M01-003
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "perlu diperiksa pada produk tertentu" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "perlu diperiksa pada produk tertentu"?
 
 **Pilihan jawaban:**
 - Pembeli
@@ -44,13 +44,13 @@
 
 **Kunci Jawaban:** Tanggal kedaluwarsa
 
-**Pembahasan:** Tanggal kedaluwarsa berkaitan dengan perlu diperiksa pada produk tertentu.
+**Pembahasan:** Tanggal kedaluwarsa adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perlu diperiksa pada produk tertentu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 4 — K03-IPAS-B05-M01-004
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "bukti transaksi pembelian" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk bukti transaksi pembelian. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Pasar
@@ -60,13 +60,13 @@
 
 **Kunci Jawaban:** Struk
 
-**Pembahasan:** Struk berkaitan dengan bukti transaksi pembelian.
+**Pembahasan:** Struk adalah pilihan yang sesuai karena petunjuk soal menyebutkan "bukti transaksi pembelian". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 5 — K03-IPAS-B05-M01-005
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "orang yang menjual barang" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "orang yang menjual barang". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Pedagang
@@ -76,13 +76,13 @@
 
 **Kunci Jawaban:** Pedagang
 
-**Pembahasan:** Pedagang berkaitan dengan orang yang menjual barang.
+**Pembahasan:** Pedagang adalah pilihan yang sesuai karena petunjuk soal menyebutkan "orang yang menjual barang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 6 — K03-IPAS-B05-M01-006
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "orang yang membeli barang" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "orang yang membeli barang". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Hemat
@@ -92,13 +92,13 @@
 
 **Kunci Jawaban:** Pembeli
 
-**Pembahasan:** Pembeli berkaitan dengan orang yang membeli barang.
+**Pembahasan:** Pembeli adalah pilihan yang sesuai karena petunjuk soal menyebutkan "orang yang membeli barang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 7 — K03-IPAS-B05-M01-007
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tempat kegiatan jual beli" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "tempat kegiatan jual beli"?
 
 **Pilihan jawaban:**
 - Membawa tas belanja
@@ -108,13 +108,13 @@
 
 **Kunci Jawaban:** Pasar
 
-**Pembahasan:** Pasar berkaitan dengan tempat kegiatan jual beli.
+**Pembahasan:** Pasar adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tempat kegiatan jual beli". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 8 — K03-IPAS-B05-M01-008
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "alat pembayaran" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk alat pembayaran. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Tantangan
@@ -124,13 +124,13 @@
 
 **Kunci Jawaban:** Uang
 
-**Pembahasan:** Uang berkaitan dengan alat pembayaran.
+**Pembahasan:** Uang adalah pilihan yang sesuai karena petunjuk soal menyebutkan "alat pembayaran". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 9 — K03-IPAS-B05-M01-009
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menggunakan uang dengan bijak" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "menggunakan uang dengan bijak". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Hemat
@@ -140,13 +140,13 @@
 
 **Kunci Jawaban:** Hemat
 
-**Pembahasan:** Hemat berkaitan dengan menggunakan uang dengan bijak.
+**Pembahasan:** Hemat adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menggunakan uang dengan bijak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 10 — K03-IPAS-B05-M01-010
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat mengurangi kantong sekali pakai" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "dapat mengurangi kantong sekali pakai". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Keinginan
@@ -156,13 +156,13 @@
 
 **Kunci Jawaban:** Membawa tas belanja
 
-**Pembahasan:** Membawa tas belanja berkaitan dengan dapat mengurangi kantong sekali pakai.
+**Pembahasan:** Membawa tas belanja adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat mengurangi kantong sekali pakai". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 11 — K03-IPAS-B05-M01-011
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "Pilih tiga hal yang kamu temukan hari ini" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "Pilih tiga hal yang kamu temukan hari ini"?
 
 **Pilihan jawaban:**
 - Makanan pokok
@@ -172,13 +172,13 @@
 
 **Kunci Jawaban:** Tantangan
 
-**Pembahasan:** Tantangan berkaitan dengan Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Tantangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "Pilih tiga hal yang kamu temukan hari ini". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 12 — K03-IPAS-B05-M01-012
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "hal yang diperlukan untuk hidup" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk hal yang diperlukan untuk hidup. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Air minum
@@ -188,13 +188,13 @@
 
 **Kunci Jawaban:** Kebutuhan
 
-**Pembahasan:** Kebutuhan berkaitan dengan hal yang diperlukan untuk hidup.
+**Pembahasan:** Kebutuhan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "hal yang diperlukan untuk hidup". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 13 — K03-IPAS-B05-M01-013
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "hal yang ingin dimiliki tetapi tidak selalu diperlukan" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "hal yang ingin dimiliki tetapi tidak selalu diperlukan". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Keinginan
@@ -204,13 +204,13 @@
 
 **Kunci Jawaban:** Keinginan
 
-**Pembahasan:** Keinginan berkaitan dengan hal yang ingin dimiliki tetapi tidak selalu diperlukan.
+**Pembahasan:** Keinginan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "hal yang ingin dimiliki tetapi tidak selalu diperlukan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 14 — K03-IPAS-B05-M01-014
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "contoh kebutuhan sehari-hari" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "contoh kebutuhan sehari-hari". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Daftar belanja
@@ -220,13 +220,13 @@
 
 **Kunci Jawaban:** Makanan pokok
 
-**Pembahasan:** Makanan pokok berkaitan dengan contoh kebutuhan sehari-hari.
+**Pembahasan:** Makanan pokok adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh kebutuhan sehari-hari". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 15 — K03-IPAS-B05-M01-015
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "contoh kebutuhan dasar" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "contoh kebutuhan dasar"?
 
 **Pilihan jawaban:**
 - Anggaran
@@ -236,13 +236,13 @@
 
 **Kunci Jawaban:** Air minum
 
-**Pembahasan:** Air minum berkaitan dengan contoh kebutuhan dasar.
+**Pembahasan:** Air minum adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh kebutuhan dasar". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 16 — K03-IPAS-B05-M01-016
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "contoh keinginan" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk contoh keinginan. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Harga
@@ -252,13 +252,13 @@
 
 **Kunci Jawaban:** Mainan tambahan
 
-**Pembahasan:** Mainan tambahan berkaitan dengan contoh keinginan.
+**Pembahasan:** Mainan tambahan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh keinginan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 17 — K03-IPAS-B05-M01-017
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu menentukan prioritas" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "membantu menentukan prioritas". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Daftar belanja
@@ -268,13 +268,13 @@
 
 **Kunci Jawaban:** Daftar belanja
 
-**Pembahasan:** Daftar belanja berkaitan dengan membantu menentukan prioritas.
+**Pembahasan:** Daftar belanja adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu menentukan prioritas". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 18 — K03-IPAS-B05-M01-018
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "rencana penggunaan uang" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "rencana penggunaan uang". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Prioritas
@@ -284,13 +284,13 @@
 
 **Kunci Jawaban:** Anggaran
 
-**Pembahasan:** Anggaran berkaitan dengan rencana penggunaan uang.
+**Pembahasan:** Anggaran adalah pilihan yang sesuai karena petunjuk soal menyebutkan "rencana penggunaan uang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 19 — K03-IPAS-B05-M01-019
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "jumlah uang untuk membeli barang" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "jumlah uang untuk membeli barang"?
 
 **Pilihan jawaban:**
 - Membandingkan harga
@@ -300,13 +300,13 @@
 
 **Kunci Jawaban:** Harga
 
-**Pembahasan:** Harga berkaitan dengan jumlah uang untuk membeli barang.
+**Pembahasan:** Harga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "jumlah uang untuk membeli barang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 20 — K03-IPAS-B05-M01-020
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "uang yang diterima setelah pembayaran berlebih" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk uang yang diterima setelah pembayaran berlebih. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Tanggal kedaluwarsa
@@ -316,7 +316,7 @@
 
 **Kunci Jawaban:** Kembalian
 
-**Pembahasan:** Kembalian berkaitan dengan uang yang diterima setelah pembayaran berlebih.
+**Pembahasan:** Kembalian adalah pilihan yang sesuai karena petunjuk soal menyebutkan "uang yang diterima setelah pembayaran berlebih". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -652,7 +652,7 @@
 
 **Kunci Jawaban:** Prioritas
 
-**Pembahasan:** Prioritas berkaitan dengan mendahulukan yang paling penting.
+**Pembahasan:** Prioritas adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mendahulukan yang paling penting". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -668,7 +668,7 @@
 
 **Kunci Jawaban:** Membandingkan harga
 
-**Pembahasan:** Membandingkan harga berkaitan dengan membantu memilih sesuai kebutuhan.
+**Pembahasan:** Membandingkan harga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu memilih sesuai kebutuhan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -684,7 +684,7 @@
 
 **Kunci Jawaban:** Tanggal kedaluwarsa
 
-**Pembahasan:** Tanggal kedaluwarsa berkaitan dengan perlu diperiksa pada produk tertentu.
+**Pembahasan:** Tanggal kedaluwarsa adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perlu diperiksa pada produk tertentu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -700,7 +700,7 @@
 
 **Kunci Jawaban:** Struk
 
-**Pembahasan:** Struk berkaitan dengan bukti transaksi pembelian.
+**Pembahasan:** Struk adalah pilihan yang sesuai karena petunjuk soal menyebutkan "bukti transaksi pembelian". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -716,7 +716,7 @@
 
 **Kunci Jawaban:** Pedagang
 
-**Pembahasan:** Pedagang berkaitan dengan orang yang menjual barang.
+**Pembahasan:** Pedagang adalah pilihan yang sesuai karena petunjuk soal menyebutkan "orang yang menjual barang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -732,7 +732,7 @@
 
 **Kunci Jawaban:** Pembeli
 
-**Pembahasan:** Pembeli berkaitan dengan orang yang membeli barang.
+**Pembahasan:** Pembeli adalah pilihan yang sesuai karena petunjuk soal menyebutkan "orang yang membeli barang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -748,7 +748,7 @@
 
 **Kunci Jawaban:** Pasar
 
-**Pembahasan:** Pasar berkaitan dengan tempat kegiatan jual beli.
+**Pembahasan:** Pasar adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tempat kegiatan jual beli". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -764,7 +764,7 @@
 
 **Kunci Jawaban:** Uang
 
-**Pembahasan:** Uang berkaitan dengan alat pembayaran.
+**Pembahasan:** Uang adalah pilihan yang sesuai karena petunjuk soal menyebutkan "alat pembayaran". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -780,7 +780,7 @@
 
 **Kunci Jawaban:** Hemat
 
-**Pembahasan:** Hemat berkaitan dengan menggunakan uang dengan bijak.
+**Pembahasan:** Hemat adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menggunakan uang dengan bijak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -796,6 +796,6 @@
 
 **Kunci Jawaban:** Membawa tas belanja
 
-**Pembahasan:** Membawa tas belanja berkaitan dengan dapat mengurangi kantong sekali pakai.
+**Pembahasan:** Membawa tas belanja adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat mengurangi kantong sekali pakai". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---

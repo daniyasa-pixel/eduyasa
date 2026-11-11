@@ -2,7 +2,7 @@
 
 ## Soal 1 — K03-IPAS-B08-M01-001
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat mencair" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "dapat mencair". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Es dipanaskan
@@ -12,13 +12,13 @@
 
 **Kunci Jawaban:** Es dipanaskan
 
-**Pembahasan:** Es dipanaskan berkaitan dengan dapat mencair.
+**Pembahasan:** Es dipanaskan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat mencair". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 2 — K03-IPAS-B08-M01-002
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menjadi es" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "menjadi es". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Udara
@@ -28,13 +28,13 @@
 
 **Kunci Jawaban:** Air didinginkan hingga membeku
 
-**Pembahasan:** Air didinginkan hingga membeku berkaitan dengan menjadi es.
+**Pembahasan:** Air didinginkan hingga membeku adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menjadi es". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 3 — K03-IPAS-B08-M01-003
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat menguap" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "dapat menguap"?
 
 **Pilihan jawaban:**
 - Batu
@@ -44,13 +44,13 @@
 
 **Kunci Jawaban:** Air dipanaskan
 
-**Pembahasan:** Air dipanaskan berkaitan dengan dapat menguap.
+**Pembahasan:** Air dipanaskan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat menguap". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 4 — K03-IPAS-B08-M01-004
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat terbentuk karena pengembunan" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk dapat terbentuk karena pengembunan. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Minyak goreng
@@ -60,13 +60,13 @@
 
 **Kunci Jawaban:** Tetes air di gelas dingin
 
-**Pembahasan:** Tetes air di gelas dingin berkaitan dengan dapat terbentuk karena pengembunan.
+**Pembahasan:** Tetes air di gelas dingin adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat terbentuk karena pengembunan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 5 — K03-IPAS-B08-M01-005
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "contoh campuran gas" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "contoh campuran gas". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Udara
@@ -76,13 +76,13 @@
 
 **Kunci Jawaban:** Udara
 
-**Pembahasan:** Udara berkaitan dengan contoh campuran gas.
+**Pembahasan:** Udara adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh campuran gas". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 6 — K03-IPAS-B08-M01-006
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "contoh benda padat" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "contoh benda padat". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Perubahan wujud
@@ -92,13 +92,13 @@
 
 **Kunci Jawaban:** Batu
 
-**Pembahasan:** Batu berkaitan dengan contoh benda padat.
+**Pembahasan:** Batu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh benda padat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 7 — K03-IPAS-B08-M01-007
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "contoh zat cair" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "contoh zat cair"?
 
 **Pilihan jawaban:**
 - Wadah
@@ -108,13 +108,13 @@
 
 **Kunci Jawaban:** Minyak goreng
 
-**Pembahasan:** Minyak goreng berkaitan dengan contoh zat cair.
+**Pembahasan:** Minyak goreng adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh zat cair". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 8 — K03-IPAS-B08-M01-008
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menunjukkan gas menempati ruang" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk menunjukkan gas menempati ruang. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Tantangan
@@ -124,13 +124,13 @@
 
 **Kunci Jawaban:** Balon berisi udara
 
-**Pembahasan:** Balon berisi udara berkaitan dengan menunjukkan gas menempati ruang.
+**Pembahasan:** Balon berisi udara adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menunjukkan gas menempati ruang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 9 — K03-IPAS-B08-M01-009
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dapat terjadi karena perubahan suhu" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "dapat terjadi karena perubahan suhu". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Perubahan wujud
@@ -140,13 +140,13 @@
 
 **Kunci Jawaban:** Perubahan wujud
 
-**Pembahasan:** Perubahan wujud berkaitan dengan dapat terjadi karena perubahan suhu.
+**Pembahasan:** Perubahan wujud adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat terjadi karena perubahan suhu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 10 — K03-IPAS-B08-M01-010
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mempengaruhi bentuk zat cair" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "mempengaruhi bentuk zat cair". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Cair
@@ -156,13 +156,13 @@
 
 **Kunci Jawaban:** Wadah
 
-**Pembahasan:** Wadah berkaitan dengan mempengaruhi bentuk zat cair.
+**Pembahasan:** Wadah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mempengaruhi bentuk zat cair". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 11 — K03-IPAS-B08-M01-011
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "Pilih tiga hal yang kamu temukan hari ini" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "Pilih tiga hal yang kamu temukan hari ini"?
 
 **Pilihan jawaban:**
 - Gas
@@ -172,13 +172,13 @@
 
 **Kunci Jawaban:** Tantangan
 
-**Pembahasan:** Tantangan berkaitan dengan Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Tantangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "Pilih tiga hal yang kamu temukan hari ini". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 12 — K03-IPAS-B08-M01-012
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "memiliki bentuk dan volume relatif tetap" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk memiliki bentuk dan volume relatif tetap. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Es
@@ -188,13 +188,13 @@
 
 **Kunci Jawaban:** Padat
 
-**Pembahasan:** Padat berkaitan dengan memiliki bentuk dan volume relatif tetap.
+**Pembahasan:** Padat adalah pilihan yang sesuai karena petunjuk soal menyebutkan "memiliki bentuk dan volume relatif tetap". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 13 — K03-IPAS-B08-M01-013
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mengikuti bentuk wadah dengan volume relatif tetap" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "mengikuti bentuk wadah dengan volume relatif tetap". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Cair
@@ -204,13 +204,13 @@
 
 **Kunci Jawaban:** Cair
 
-**Pembahasan:** Cair berkaitan dengan mengikuti bentuk wadah dengan volume relatif tetap.
+**Pembahasan:** Cair adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengikuti bentuk wadah dengan volume relatif tetap". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 14 — K03-IPAS-B08-M01-014
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mengisi ruang yang tersedia" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "mengisi ruang yang tersedia". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Uap air
@@ -220,13 +220,13 @@
 
 **Kunci Jawaban:** Gas
 
-**Pembahasan:** Gas berkaitan dengan mengisi ruang yang tersedia.
+**Pembahasan:** Gas adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengisi ruang yang tersedia". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 15 — K03-IPAS-B08-M01-015
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "contoh air berwujud padat" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "contoh air berwujud padat"?
 
 **Pilihan jawaban:**
 - Mencair
@@ -236,13 +236,13 @@
 
 **Kunci Jawaban:** Es
 
-**Pembahasan:** Es berkaitan dengan contoh air berwujud padat.
+**Pembahasan:** Es adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh air berwujud padat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 16 — K03-IPAS-B08-M01-016
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "contoh zat cair" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk contoh zat cair. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Membeku
@@ -252,13 +252,13 @@
 
 **Kunci Jawaban:** Air minum
 
-**Pembahasan:** Air minum berkaitan dengan contoh zat cair.
+**Pembahasan:** Air minum adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh zat cair". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 17 — K03-IPAS-B08-M01-017
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "air dalam wujud gas" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "air dalam wujud gas". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Uap air
@@ -268,13 +268,13 @@
 
 **Kunci Jawaban:** Uap air
 
-**Pembahasan:** Uap air berkaitan dengan air dalam wujud gas.
+**Pembahasan:** Uap air adalah pilihan yang sesuai karena petunjuk soal menyebutkan "air dalam wujud gas". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 18 — K03-IPAS-B08-M01-018
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "perubahan padat menjadi cair" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "perubahan padat menjadi cair". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Es dipanaskan
@@ -284,13 +284,13 @@
 
 **Kunci Jawaban:** Mencair
 
-**Pembahasan:** Mencair berkaitan dengan perubahan padat menjadi cair.
+**Pembahasan:** Mencair adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perubahan padat menjadi cair". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 19 — K03-IPAS-B08-M01-019
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "perubahan cair menjadi padat" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "perubahan cair menjadi padat"?
 
 **Pilihan jawaban:**
 - Air didinginkan hingga membeku
@@ -300,13 +300,13 @@
 
 **Kunci Jawaban:** Membeku
 
-**Pembahasan:** Membeku berkaitan dengan perubahan cair menjadi padat.
+**Pembahasan:** Membeku adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perubahan cair menjadi padat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 20 — K03-IPAS-B08-M01-020
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "perubahan cair menjadi gas" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk perubahan cair menjadi gas. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Air dipanaskan
@@ -316,7 +316,7 @@
 
 **Kunci Jawaban:** Menguap
 
-**Pembahasan:** Menguap berkaitan dengan perubahan cair menjadi gas.
+**Pembahasan:** Menguap adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perubahan cair menjadi gas". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -652,7 +652,7 @@
 
 **Kunci Jawaban:** Es dipanaskan
 
-**Pembahasan:** Es dipanaskan berkaitan dengan dapat mencair.
+**Pembahasan:** Es dipanaskan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat mencair". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -668,7 +668,7 @@
 
 **Kunci Jawaban:** Air didinginkan hingga membeku
 
-**Pembahasan:** Air didinginkan hingga membeku berkaitan dengan menjadi es.
+**Pembahasan:** Air didinginkan hingga membeku adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menjadi es". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -684,7 +684,7 @@
 
 **Kunci Jawaban:** Air dipanaskan
 
-**Pembahasan:** Air dipanaskan berkaitan dengan dapat menguap.
+**Pembahasan:** Air dipanaskan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat menguap". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -700,7 +700,7 @@
 
 **Kunci Jawaban:** Tetes air di gelas dingin
 
-**Pembahasan:** Tetes air di gelas dingin berkaitan dengan dapat terbentuk karena pengembunan.
+**Pembahasan:** Tetes air di gelas dingin adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat terbentuk karena pengembunan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -716,7 +716,7 @@
 
 **Kunci Jawaban:** Udara
 
-**Pembahasan:** Udara berkaitan dengan contoh campuran gas.
+**Pembahasan:** Udara adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh campuran gas". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -732,7 +732,7 @@
 
 **Kunci Jawaban:** Batu
 
-**Pembahasan:** Batu berkaitan dengan contoh benda padat.
+**Pembahasan:** Batu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh benda padat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -748,7 +748,7 @@
 
 **Kunci Jawaban:** Minyak goreng
 
-**Pembahasan:** Minyak goreng berkaitan dengan contoh zat cair.
+**Pembahasan:** Minyak goreng adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh zat cair". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -764,7 +764,7 @@
 
 **Kunci Jawaban:** Balon berisi udara
 
-**Pembahasan:** Balon berisi udara berkaitan dengan menunjukkan gas menempati ruang.
+**Pembahasan:** Balon berisi udara adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menunjukkan gas menempati ruang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -780,7 +780,7 @@
 
 **Kunci Jawaban:** Perubahan wujud
 
-**Pembahasan:** Perubahan wujud berkaitan dengan dapat terjadi karena perubahan suhu.
+**Pembahasan:** Perubahan wujud adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat terjadi karena perubahan suhu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -796,6 +796,6 @@
 
 **Kunci Jawaban:** Wadah
 
-**Pembahasan:** Wadah berkaitan dengan mempengaruhi bentuk zat cair.
+**Pembahasan:** Wadah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mempengaruhi bentuk zat cair". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---

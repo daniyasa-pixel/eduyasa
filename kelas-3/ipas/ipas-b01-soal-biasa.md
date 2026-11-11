@@ -2,7 +2,7 @@
 
 ## Soal 1 — K03-IPAS-B01-M01-001
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "melihat warna dan bentuk" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "melihat warna dan bentuk". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Mata
@@ -12,13 +12,13 @@
 
 **Kunci Jawaban:** Mata
 
-**Pembahasan:** Mata berkaitan dengan melihat warna dan bentuk.
+**Pembahasan:** Mata adalah pilihan yang sesuai karena petunjuk soal menyebutkan "melihat warna dan bentuk". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 2 — K03-IPAS-B01-M01-002
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mendengar suara" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "mendengar suara". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Kulit
@@ -28,13 +28,13 @@
 
 **Kunci Jawaban:** Telinga
 
-**Pembahasan:** Telinga berkaitan dengan mendengar suara.
+**Pembahasan:** Telinga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mendengar suara". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 3 — K03-IPAS-B01-M01-003
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mencium aroma" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "mencium aroma"?
 
 **Pilihan jawaban:**
 - Otak
@@ -44,13 +44,13 @@
 
 **Kunci Jawaban:** Hidung
 
-**Pembahasan:** Hidung berkaitan dengan mencium aroma.
+**Pembahasan:** Hidung adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mencium aroma". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 4 — K03-IPAS-B01-M01-004
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mengenali rasa" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk mengenali rasa. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Kacamata
@@ -60,13 +60,13 @@
 
 **Kunci Jawaban:** Lidah
 
-**Pembahasan:** Lidah berkaitan dengan mengenali rasa.
+**Pembahasan:** Lidah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengenali rasa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 5 — K03-IPAS-B01-M01-005
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "merasakan sentuhan dan suhu" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "merasakan sentuhan dan suhu". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Kulit
@@ -76,13 +76,13 @@
 
 **Kunci Jawaban:** Kulit
 
-**Pembahasan:** Kulit berkaitan dengan merasakan sentuhan dan suhu.
+**Pembahasan:** Kulit adalah pilihan yang sesuai karena petunjuk soal menyebutkan "merasakan sentuhan dan suhu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 6 — K03-IPAS-B01-M01-006
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mengolah informasi dari indra" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "mengolah informasi dari indra". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Tidur cukup
@@ -92,13 +92,13 @@
 
 **Kunci Jawaban:** Otak
 
-**Pembahasan:** Otak berkaitan dengan mengolah informasi dari indra.
+**Pembahasan:** Otak adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengolah informasi dari indra". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 7 — K03-IPAS-B01-M01-007
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu penglihatan sebagian orang" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "membantu penglihatan sebagian orang"?
 
 **Pilihan jawaban:**
 - Makanan bergizi
@@ -108,13 +108,13 @@
 
 **Kunci Jawaban:** Kacamata
 
-**Pembahasan:** Kacamata berkaitan dengan membantu penglihatan sebagian orang.
+**Pembahasan:** Kacamata adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu penglihatan sebagian orang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 8 — K03-IPAS-B01-M01-008
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu membersihkan tangan" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk membantu membersihkan tangan. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Minum air
@@ -124,13 +124,13 @@
 
 **Kunci Jawaban:** Sabun
 
-**Pembahasan:** Sabun berkaitan dengan membantu membersihkan tangan.
+**Pembahasan:** Sabun adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu membersihkan tangan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 9 — K03-IPAS-B01-M01-009
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu tubuh beristirahat" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "membantu tubuh beristirahat". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Tidur cukup
@@ -140,13 +140,13 @@
 
 **Kunci Jawaban:** Tidur cukup
 
-**Pembahasan:** Tidur cukup berkaitan dengan membantu tubuh beristirahat.
+**Pembahasan:** Tidur cukup adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu tubuh beristirahat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 10 — K03-IPAS-B01-M01-010
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "mendukung kesehatan tubuh" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "mendukung kesehatan tubuh". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Meminta izin
@@ -156,13 +156,13 @@
 
 **Kunci Jawaban:** Makanan bergizi
 
-**Pembahasan:** Makanan bergizi berkaitan dengan mendukung kesehatan tubuh.
+**Pembahasan:** Makanan bergizi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mendukung kesehatan tubuh". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 11 — K03-IPAS-B01-M01-011
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu memenuhi kebutuhan cairan" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "membantu memenuhi kebutuhan cairan"?
 
 **Pilihan jawaban:**
 - Orang dewasa tepercaya
@@ -172,13 +172,13 @@
 
 **Kunci Jawaban:** Minum air
 
-**Pembahasan:** Minum air berkaitan dengan membantu memenuhi kebutuhan cairan.
+**Pembahasan:** Minum air adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu memenuhi kebutuhan cairan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 12 — K03-IPAS-B01-M01-012
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membuat teman merasa diterima" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk membuat teman merasa diterima. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Matahari langsung
@@ -188,13 +188,13 @@
 
 **Kunci Jawaban:** Menghargai perbedaan
 
-**Pembahasan:** Menghargai perbedaan berkaitan dengan membuat teman merasa diterima.
+**Pembahasan:** Menghargai perbedaan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membuat teman merasa diterima". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 13 — K03-IPAS-B01-M01-013
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "menghormati batas tubuh orang lain" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "menghormati batas tubuh orang lain". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Meminta izin
@@ -204,13 +204,13 @@
 
 **Kunci Jawaban:** Meminta izin
 
-**Pembahasan:** Meminta izin berkaitan dengan menghormati batas tubuh orang lain.
+**Pembahasan:** Meminta izin adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menghormati batas tubuh orang lain". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 14 — K03-IPAS-B01-M01-014
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tempat bercerita saat ada masalah" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "tempat bercerita saat ada masalah". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Bahan tak dikenal
@@ -220,13 +220,13 @@
 
 **Kunci Jawaban:** Orang dewasa tepercaya
 
-**Pembahasan:** Orang dewasa tepercaya berkaitan dengan tempat bercerita saat ada masalah.
+**Pembahasan:** Orang dewasa tepercaya adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tempat bercerita saat ada masalah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 15 — K03-IPAS-B01-M01-015
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tidak boleh ditatap" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "tidak boleh ditatap"?
 
 **Pilihan jawaban:**
 - Olahraga
@@ -236,13 +236,13 @@
 
 **Kunci Jawaban:** Matahari langsung
 
-**Pembahasan:** Matahari langsung berkaitan dengan tidak boleh ditatap.
+**Pembahasan:** Matahari langsung adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tidak boleh ditatap". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 16 — K03-IPAS-B01-M01-016
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tidak dimasukkan ke telinga" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk tidak dimasukkan ke telinga. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Mencuci tangan
@@ -252,13 +252,13 @@
 
 **Kunci Jawaban:** Benda asing
 
-**Pembahasan:** Benda asing berkaitan dengan tidak dimasukkan ke telinga.
+**Pembahasan:** Benda asing adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tidak dimasukkan ke telinga". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 17 — K03-IPAS-B01-M01-017
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "tidak boleh dicicipi" adalah ...
+**Pertanyaan:** Seorang siswa mencatat ciri berikut: "tidak boleh dicicipi". Pilih konsep yang sesuai dengan catatan itu.
 
 **Pilihan jawaban:**
 - Bahan tak dikenal
@@ -268,13 +268,13 @@
 
 **Kunci Jawaban:** Bahan tak dikenal
 
-**Pembahasan:** Bahan tak dikenal berkaitan dengan tidak boleh dicicipi.
+**Pembahasan:** Bahan tak dikenal adalah pilihan yang sesuai karena petunjuk soal menyebutkan "tidak boleh dicicipi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 18 — K03-IPAS-B01-M01-018
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu menjaga kebugaran" adalah ...
+**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "membantu menjaga kebugaran". Konsep apa yang dimaksud?
 
 **Pilihan jawaban:**
 - Mata
@@ -284,13 +284,13 @@
 
 **Kunci Jawaban:** Olahraga
 
-**Pembahasan:** Olahraga berkaitan dengan membantu menjaga kebugaran.
+**Pembahasan:** Olahraga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu menjaga kebugaran". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 19 — K03-IPAS-B01-M01-019
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "dilakukan sebelum makan" adalah ...
+**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "dilakukan sebelum makan"?
 
 **Pilihan jawaban:**
 - Telinga
@@ -300,13 +300,13 @@
 
 **Kunci Jawaban:** Mencuci tangan
 
-**Pembahasan:** Mencuci tangan berkaitan dengan dilakukan sebelum makan.
+**Pembahasan:** Mencuci tangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dilakukan sebelum makan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
 ## Soal 20 — K03-IPAS-B01-M01-020
 
-**Pertanyaan:** Istilah yang cocok untuk keterangan "membantu mengenal lingkungan" adalah ...
+**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk membantu mengenal lingkungan. Istilah apakah yang paling tepat?
 
 **Pilihan jawaban:**
 - Hidung
@@ -316,7 +316,7 @@
 
 **Kunci Jawaban:** Indra
 
-**Pembahasan:** Indra berkaitan dengan membantu mengenal lingkungan.
+**Pembahasan:** Indra adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu mengenal lingkungan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -652,7 +652,7 @@
 
 **Kunci Jawaban:** Mata
 
-**Pembahasan:** Mata berkaitan dengan melihat warna dan bentuk.
+**Pembahasan:** Mata adalah pilihan yang sesuai karena petunjuk soal menyebutkan "melihat warna dan bentuk". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -668,7 +668,7 @@
 
 **Kunci Jawaban:** Telinga
 
-**Pembahasan:** Telinga berkaitan dengan mendengar suara.
+**Pembahasan:** Telinga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mendengar suara". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -684,7 +684,7 @@
 
 **Kunci Jawaban:** Hidung
 
-**Pembahasan:** Hidung berkaitan dengan mencium aroma.
+**Pembahasan:** Hidung adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mencium aroma". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -700,7 +700,7 @@
 
 **Kunci Jawaban:** Lidah
 
-**Pembahasan:** Lidah berkaitan dengan mengenali rasa.
+**Pembahasan:** Lidah adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengenali rasa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -716,7 +716,7 @@
 
 **Kunci Jawaban:** Kulit
 
-**Pembahasan:** Kulit berkaitan dengan merasakan sentuhan dan suhu.
+**Pembahasan:** Kulit adalah pilihan yang sesuai karena petunjuk soal menyebutkan "merasakan sentuhan dan suhu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -732,7 +732,7 @@
 
 **Kunci Jawaban:** Otak
 
-**Pembahasan:** Otak berkaitan dengan mengolah informasi dari indra.
+**Pembahasan:** Otak adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengolah informasi dari indra". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -748,7 +748,7 @@
 
 **Kunci Jawaban:** Kacamata
 
-**Pembahasan:** Kacamata berkaitan dengan membantu penglihatan sebagian orang.
+**Pembahasan:** Kacamata adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu penglihatan sebagian orang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -764,7 +764,7 @@
 
 **Kunci Jawaban:** Sabun
 
-**Pembahasan:** Sabun berkaitan dengan membantu membersihkan tangan.
+**Pembahasan:** Sabun adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu membersihkan tangan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -780,7 +780,7 @@
 
 **Kunci Jawaban:** Tidur cukup
 
-**Pembahasan:** Tidur cukup berkaitan dengan membantu tubuh beristirahat.
+**Pembahasan:** Tidur cukup adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu tubuh beristirahat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
 
@@ -796,6 +796,6 @@
 
 **Kunci Jawaban:** Makanan bergizi
 
-**Pembahasan:** Makanan bergizi berkaitan dengan mendukung kesehatan tubuh.
+**Pembahasan:** Makanan bergizi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mendukung kesehatan tubuh". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
 
 ---
