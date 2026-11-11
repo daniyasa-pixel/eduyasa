@@ -1,503 +1,479 @@
 # PAI Kelas 3 — Bab 6: Senangnya Belajar Hadis
 
-**STATUS DRAF:** 30 soal pilihan ganda. Ada pengulangan kompetensi antarpertanyaan; wajib revisi variasi dan audit agama sebelum rilis.
-
 ## Soal 1 — K03-PAI-B06-M01-001
 
-**Pertanyaan:** Hadis adalah perkataan, perbuatan, atau ketetapan yang disandarkan kepada ....
+**Pertanyaan:** Apa yang dimaksud dengan hadis Nabi?
 
 **Pilihan jawaban:**
-- semua raja
-- setiap pedagang
-- semua penyair
-- Nabi Muhammad saw.
+- Catatan pribadi seorang makmum
+- Teks pengumuman jadwal salat
+- Riwayat tentang perkataan, perbuatan, atau ketetapan Nabi Muhammad saw.
+- Pendapat seseorang tentang susunan saf
 
-**Kunci Jawaban:** Nabi Muhammad saw.
+**Kunci Jawaban:** Riwayat tentang perkataan, perbuatan, atau ketetapan Nabi Muhammad saw.
 
-**Pembahasan:** Hadis adalah perkataan, perbuatan, atau ketetapan yang disandarkan kepada Nabi Muhammad saw..
+**Pembahasan:** Hadis menjadi sumber untuk mengenal sabda, teladan, dan persetujuan Nabi.
 
 ---
 
 ## Soal 2 — K03-PAI-B06-M01-002
 
-**Pertanyaan:** Salat berjemaah dipimpin oleh ....
+**Pertanyaan:** Menurut hadis riwayat al-Bukhari yang dipelajari, salat berjemaah lebih utama berapa derajat daripada salat sendirian?
 
 **Pilihan jawaban:**
-- imam
-- makmum
-- muazin saja
-- penonton
+- 27 derajat
+- 17 derajat
+- 20 derajat
+- 30 derajat
 
-**Kunci Jawaban:** imam
+**Kunci Jawaban:** 27 derajat
 
-**Pembahasan:** Salat berjemaah dipimpin oleh imam.
+**Pembahasan:** Dalam hadis ini disebut sab‘in wa ‘isyrīna, yang berarti dua puluh tujuh.
 
 ---
 
 ## Soal 3 — K03-PAI-B06-M01-003
 
-**Pertanyaan:** Orang yang mengikuti imam dalam salat disebut ....
+**Pertanyaan:** Apa dua cara salat yang dibandingkan dalam hadis bab ini?
 
 **Pilihan jawaban:**
-- musafir
-- makmum
-- khatib
-- penjual
+- Di rumah dan dalam perjalanan
+- Pada pagi dan malam hari
+- Dengan bacaan keras dan pelan
+- Berjemaah dan sendirian
 
-**Kunci Jawaban:** makmum
+**Kunci Jawaban:** Berjemaah dan sendirian
 
-**Pembahasan:** Orang yang mengikuti imam dalam salat disebut makmum.
+**Pembahasan:** Hadis membandingkan keutamaan salat bersama imam dengan salat seorang diri.
 
 ---
 
 ## Soal 4 — K03-PAI-B06-M01-004
 
-**Pertanyaan:** Dalam salat berjemaah, makmum sebaiknya ....
+**Pertanyaan:** Rani mengira angka 27 adalah jumlah orang yang harus hadir. Bagaimana memperbaiki catatannya?
 
 **Pilihan jawaban:**
-- berbicara keras
-- bermain
-- mengikuti gerakan imam sesuai tuntunan
-- mendahului imam dengan sengaja
+- Angka itu menunjukkan jumlah saf.
+- Angka itu menyatakan derajat keutamaan.
+- Angka itu menunjukkan jumlah rakaat.
+- Angka itu menyatakan lama salat dalam menit.
 
-**Kunci Jawaban:** mengikuti gerakan imam sesuai tuntunan
+**Kunci Jawaban:** Angka itu menyatakan derajat keutamaan.
 
-**Pembahasan:** Dalam salat berjemaah, makmum sebaiknya mengikuti gerakan imam sesuai tuntunan.
+**Pembahasan:** Perbandingan dalam hadis menyebut derajat, sehingga angka itu bukan syarat jumlah peserta.
 
 ---
 
 ## Soal 5 — K03-PAI-B06-M01-005
 
-**Pertanyaan:** Keutamaan salat berjemaah dalam hadis yang masyhur adalah ....
+**Pertanyaan:** Siapa sahabat yang disebut meriwayatkan hadis ini dari Nabi?
 
 **Pilihan jawaban:**
-- 2 derajat saja
-- 1000 hari
-- tidak ada keutamaan
-- 27 derajat dibanding salat sendirian
+- Umar bin Abdul Aziz
+- Abdullah bin Umar
+- Abdullah bin Abdul Muthalib
+- Muhammad bin Ismail al-Bukhari
 
-**Kunci Jawaban:** 27 derajat dibanding salat sendirian
+**Kunci Jawaban:** Abdullah bin Umar
 
-**Pembahasan:** Keutamaan salat berjemaah dalam hadis yang masyhur adalah 27 derajat dibanding salat sendirian.
+**Pembahasan:** Riwayat ini sampai dari Abdullah bin Umar. Al-Bukhari mencantumkannya dalam kitabnya.
 
 ---
 
 ## Soal 6 — K03-PAI-B06-M01-006
 
-**Pertanyaan:** Makmum yang datang terlambat mengikuti salat disebut ....
+**Pertanyaan:** Guru membaca hadis perlahan dan jelas. Apa langkah pertama yang membantu Tio menirukannya?
 
 **Pilihan jawaban:**
-- masbuk
-- imam tetap
-- muazin
-- khatib
+- Langsung baca penggalan terakhir.
+- Catat artinya sambil melewatkan contoh bacaan.
+- Ulangi dengan tempo lebih cepat dari guru.
+- Simak satu penggalan sampai selesai, lalu tirukan.
 
-**Kunci Jawaban:** masbuk
+**Kunci Jawaban:** Simak satu penggalan sampai selesai, lalu tirukan.
 
-**Pembahasan:** Makmum yang datang terlambat mengikuti salat disebut masbuk.
+**Pembahasan:** Menyimak lebih dahulu membantu mendengar bunyi huruf dan panjang pendek bacaan.
 
 ---
 
 ## Soal 7 — K03-PAI-B06-M01-007
 
-**Pertanyaan:** Sebelum salat, muslim harus memperhatikan ....
+**Pertanyaan:** Mira sudah hafal artinya tetapi masih ragu melafalkan satu penggalan. Apa yang perlu dilatih?
 
 **Pilihan jawaban:**
-- merek tas
-- kesucian dan syarat salat
-- warna sepatu
-- jumlah penonton
+- Menyimak contoh dan menirukan penggalan itu.
+- Mengulang terjemahannya saja.
+- Mengganti bagian yang sulit dengan artinya.
+- Melatih penggalan lain yang sudah lancar.
 
-**Kunci Jawaban:** kesucian dan syarat salat
+**Kunci Jawaban:** Menyimak contoh dan menirukan penggalan itu.
 
-**Pembahasan:** Sebelum salat, muslim harus memperhatikan kesucian dan syarat salat.
+**Pembahasan:** Pemahaman arti dan ketepatan lafal merupakan keterampilan yang dapat dilatih terpisah.
 
 ---
 
 ## Soal 8 — K03-PAI-B06-M01-008
 
-**Pertanyaan:** Saf dalam salat berjemaah sebaiknya ....
+**Pertanyaan:** Saat membaca hadis, dua penggalan selalu tertukar. Apa cara berlatih yang sesuai?
 
 **Pilihan jawaban:**
-- dipisahkan tanpa alasan
-- diisi sambil berlari
-- diluruskan dan dirapatkan sesuai tuntunan
-- dibuat berantakan
+- Latih hanya penggalan yang terakhir.
+- Baca keduanya terbalik setiap kali.
+- Baca ulang keduanya sesuai urutan pada contoh.
+- Ganti keduanya dengan judul bab.
 
-**Kunci Jawaban:** diluruskan dan dirapatkan sesuai tuntunan
+**Kunci Jawaban:** Baca ulang keduanya sesuai urutan pada contoh.
 
-**Pembahasan:** Saf dalam salat berjemaah sebaiknya diluruskan dan dirapatkan sesuai tuntunan.
+**Pembahasan:** Melihat urutan model, lalu melatih sambungannya, membantu memperbaiki bagian yang tertukar.
 
 ---
 
 ## Soal 9 — K03-PAI-B06-M01-009
 
-**Pertanyaan:** Salat berjemaah mengajarkan ....
+**Pertanyaan:** Bagaimana menyalin satu baris Arab dari buku?
 
 **Pilihan jawaban:**
-- permusuhan
-- kesombongan
-- kecurangan
-- disiplin dan kebersamaan
+- Mulai dari kiri dengan urutan huruf terbalik.
+- Salin hanya kata di tengah baris.
+- Susun kata dari yang terpendek.
+- Mulai dari kanan dan ikuti urutan pada contoh.
 
-**Kunci Jawaban:** disiplin dan kebersamaan
+**Kunci Jawaban:** Mulai dari kanan dan ikuti urutan pada contoh.
 
-**Pembahasan:** Salat berjemaah mengajarkan disiplin dan kebersamaan.
+**Pembahasan:** Tulisan Arab dibaca dan ditulis dari kanan ke kiri.
 
 ---
 
 ## Soal 10 — K03-PAI-B06-M01-010
 
-**Pertanyaan:** Hadis salat berjemaah sebaiknya dipelajari dengan ....
+**Pertanyaan:** Saat membandingkan salinan dengan buku, Nisa melihat satu titik huruf tertinggal. Apa tindakannya?
 
 **Pilihan jawaban:**
-- membaca, memahami, dan mempraktikkan
-- mengabaikan makna
-- mengolok-olok
-- mengubah isi sesuka hati
+- Hapus titik pada huruf lain.
+- Lengkapi titik sesuai contoh.
+- Ubah seluruh baris menjadi terjemahan.
+- Tambah tanda baca di akhir saja.
 
-**Kunci Jawaban:** membaca, memahami, dan mempraktikkan
+**Kunci Jawaban:** Lengkapi titik sesuai contoh.
 
-**Pembahasan:** Hadis salat berjemaah sebaiknya dipelajari dengan membaca, memahami, dan mempraktikkan.
+**Pembahasan:** Titik membantu membedakan huruf Arab dan perlu disalin tepat.
 
 ---
 
 ## Soal 11 — K03-PAI-B06-M01-011
 
-**Pertanyaan:** Pilih jawaban yang tepat: hadis adalah perkataan, perbuatan, atau ketetapan yang disandarkan kepada ....
+**Pertanyaan:** Apa yang diperiksa ketika satu kata salinan tampak berbeda dari contoh?
 
 **Pilihan jawaban:**
-- semua penyair
-- Nabi Muhammad saw.
-- semua raja
-- setiap pedagang
+- Warna tinta pada kata berikutnya.
+- Panjang judul bab pada buku.
+- Bentuk, sambungan, titik, dan harakatnya.
+- Banyaknya halaman buku.
 
-**Kunci Jawaban:** Nabi Muhammad saw.
+**Kunci Jawaban:** Bentuk, sambungan, titik, dan harakatnya.
 
-**Pembahasan:** Hadis adalah perkataan, perbuatan, atau ketetapan yang disandarkan kepada Nabi Muhammad saw..
+**Pembahasan:** Membandingkan unsur tulisan membantu menemukan letak kesalahan salinan.
 
 ---
 
 ## Soal 12 — K03-PAI-B06-M01-012
 
-**Pertanyaan:** Pilih jawaban yang tepat: salat berjemaah dipimpin oleh ....
+**Pertanyaan:** Setelah bisa menyalin dengan garis pemandu, latihan apa yang mengikuti kegiatan di buku?
 
 **Pilihan jawaban:**
-- muazin saja
-- penonton
-- imam
-- makmum
+- Salin lagi tanpa garis pemandu dengan model di depan.
+- Ubah urutan kata supaya mudah ditulis.
+- Tulis judul saja tanpa isi hadis.
+- Salin terjemahan sebagai pengganti tulisan Arab.
 
-**Kunci Jawaban:** imam
+**Kunci Jawaban:** Salin lagi tanpa garis pemandu dengan model di depan.
 
-**Pembahasan:** Salat berjemaah dipimpin oleh imam.
+**Pembahasan:** Latihan berikutnya mengurangi bantuan garis sambil mempertahankan ketepatan teks.
 
 ---
 
 ## Soal 13 — K03-PAI-B06-M01-013
 
-**Pertanyaan:** Pilih jawaban yang tepat: orang yang mengikuti imam dalam salat disebut ....
+**Pertanyaan:** Bagaimana mengetahui apakah hafalan sudah bisa diucapkan tanpa bantuan teks?
 
 **Pilihan jawaban:**
-- khatib
-- penjual
-- musafir
-- makmum
+- Baca sambil melihat setiap baris.
+- Tutup buku, ucapkan, lalu cocokkan dengan contoh.
+- Hitung waktu saat menyalin hadis.
+- Dengar teman membaca tanpa ikut mengulang.
 
-**Kunci Jawaban:** makmum
+**Kunci Jawaban:** Tutup buku, ucapkan, lalu cocokkan dengan contoh.
 
-**Pembahasan:** Orang yang mengikuti imam dalam salat disebut makmum.
+**Pembahasan:** Mencoba tanpa teks menunjukkan bagian yang sudah diingat dan bagian yang perlu diperbaiki.
 
 ---
 
 ## Soal 14 — K03-PAI-B06-M01-014
 
-**Pertanyaan:** Pilih jawaban yang tepat: dalam salat berjemaah, makmum sebaiknya ....
+**Pertanyaan:** Tari lancar melafalkan setiap penggalan sendiri, tetapi berhenti lama di antaranya. Latihan apa yang cocok?
 
 **Pilihan jawaban:**
-- mengikuti gerakan imam sesuai tuntunan
-- mendahului imam dengan sengaja
-- berbicara keras
-- bermain
+- Ulangi hanya bagian pembuka.
+- Hafalkan terjemahan bagian terakhir.
+- Ganti urutan penggalan setiap berlatih.
+- Sambungkan dua penggalan berurutan, lalu tambah bagian berikutnya.
 
-**Kunci Jawaban:** mengikuti gerakan imam sesuai tuntunan
+**Kunci Jawaban:** Sambungkan dua penggalan berurutan, lalu tambah bagian berikutnya.
 
-**Pembahasan:** Dalam salat berjemaah, makmum sebaiknya mengikuti gerakan imam sesuai tuntunan.
+**Pembahasan:** Latihan menyambung menargetkan jeda di batas penggalan.
 
 ---
 
 ## Soal 15 — K03-PAI-B06-M01-015
 
-**Pertanyaan:** Pilih jawaban yang tepat: keutamaan salat berjemaah dalam hadis yang masyhur adalah ....
+**Pertanyaan:** Dalam latihan berpasangan, apa bantuan yang paling tepat saat teman lupa kelanjutannya?
 
 **Pilihan jawaban:**
-- tidak ada keutamaan
-- 27 derajat dibanding salat sendirian
-- 2 derajat saja
-- 1000 hari
+- Langsung ucapkan seluruh hadis untuknya.
+- Ubah urutan bacaannya agar selesai lebih cepat.
+- Beri petunjuk singkat lalu beri waktu untuk melanjutkan.
+- Nilai hafalannya sebelum ia mencoba lagi.
 
-**Kunci Jawaban:** 27 derajat dibanding salat sendirian
+**Kunci Jawaban:** Beri petunjuk singkat lalu beri waktu untuk melanjutkan.
 
-**Pembahasan:** Keutamaan salat berjemaah dalam hadis yang masyhur adalah 27 derajat dibanding salat sendirian.
+**Pembahasan:** Petunjuk singkat membantu teman mengingat sambil tetap berlatih mengucapkan sendiri.
 
 ---
 
 ## Soal 16 — K03-PAI-B06-M01-016
 
-**Pertanyaan:** Pilih jawaban yang tepat: makmum yang datang terlambat mengikuti salat disebut ....
+**Pertanyaan:** Siapa yang diikuti oleh makmum ketika salat berjemaah?
 
 **Pilihan jawaban:**
-- muazin
-- khatib
-- masbuk
-- imam tetap
+- Imam yang memimpin salat itu
+- Orang yang berdiri paling dekat pintu
+- Teman di samping yang bergerak duluan
+- Muazin yang sudah selesai azan
 
-**Kunci Jawaban:** masbuk
+**Kunci Jawaban:** Imam yang memimpin salat itu
 
-**Pembahasan:** Makmum yang datang terlambat mengikuti salat disebut masbuk.
+**Pembahasan:** Imam memimpin rangkaian salat, sedangkan makmum mengikutinya.
 
 ---
 
 ## Soal 17 — K03-PAI-B06-M01-017
 
-**Pertanyaan:** Pilih jawaban yang tepat: sebelum salat, muslim harus memperhatikan ....
+**Pertanyaan:** Ketika imam mulai rukuk, apa yang dilakukan makmum?
 
 **Pilihan jawaban:**
-- warna sepatu
-- jumlah penonton
-- merek tas
-- kesucian dan syarat salat
+- Rukuk lebih dahulu agar sejajar.
+- Tetap berdiri sampai imam sujud.
+- Mengikuti rukuk imam.
+- Memilih mengikuti gerakan teman yang mendahului.
 
-**Kunci Jawaban:** kesucian dan syarat salat
+**Kunci Jawaban:** Mengikuti rukuk imam.
 
-**Pembahasan:** Sebelum salat, muslim harus memperhatikan kesucian dan syarat salat.
+**Pembahasan:** Makmum bergerak mengikuti imam, sehingga tidak mendahuluinya.
 
 ---
 
 ## Soal 18 — K03-PAI-B06-M01-018
 
-**Pertanyaan:** Pilih jawaban yang tepat: saf dalam salat berjemaah sebaiknya ....
+**Pertanyaan:** Saf anak-anak tampak renggang karena ada celah di tengah. Apa yang sebaiknya mereka lakukan sebelum salat?
 
 **Pilihan jawaban:**
-- diluruskan dan dirapatkan sesuai tuntunan
-- dibuat berantakan
-- dipisahkan tanpa alasan
-- diisi sambil berlari
+- Membiarkan celah dan bergerak setelah salam saja.
+- Merapikan barisan dan menutup celah dengan tertib.
+- Berpindah ke depan imam.
+- Membuat barisan miring mengikuti dinding.
 
-**Kunci Jawaban:** diluruskan dan dirapatkan sesuai tuntunan
+**Kunci Jawaban:** Merapikan barisan dan menutup celah dengan tertib.
 
-**Pembahasan:** Saf dalam salat berjemaah sebaiknya diluruskan dan dirapatkan sesuai tuntunan.
+**Pembahasan:** Saf yang lurus dan rapat membantu jemaah berdiri teratur.
 
 ---
 
 ## Soal 19 — K03-PAI-B06-M01-019
 
-**Pertanyaan:** Pilih jawaban yang tepat: salat berjemaah mengajarkan ....
+**Pertanyaan:** Dalam simulasi kelas, satu imam dan beberapa makmum berlatih. Di mana para makmum membentuk saf?
 
 **Pilihan jawaban:**
-- kecurangan
-- disiplin dan kebersamaan
-- permusuhan
-- kesombongan
+- Di depan imam.
+- Mengelilingi imam.
+- Berpencar menghadap imam.
+- Di belakang imam.
 
-**Kunci Jawaban:** disiplin dan kebersamaan
+**Kunci Jawaban:** Di belakang imam.
 
-**Pembahasan:** Salat berjemaah mengajarkan disiplin dan kebersamaan.
+**Pembahasan:** Pada contoh dengan beberapa makmum, saf berada di belakang imam dan menghadap kiblat.
 
 ---
 
 ## Soal 20 — K03-PAI-B06-M01-020
 
-**Pertanyaan:** Pilih jawaban yang tepat: hadis salat berjemaah sebaiknya dipelajari dengan ....
+**Pertanyaan:** Apa yang dilakukan sebelum mulai latihan salat berjemaah sesungguhnya?
 
 **Pilihan jawaban:**
-- mengolok-olok
-- mengubah isi sesuka hati
-- membaca, memahami, dan mempraktikkan
-- mengabaikan makna
+- Pastikan bersuci dan arah kiblat.
+- Mulai dulu lalu berwudu setelah salam.
+- Tunggu sampai imam sujud untuk mencari kiblat.
+- Rapikan saf tanpa memeriksa syarat salat.
 
-**Kunci Jawaban:** membaca, memahami, dan mempraktikkan
+**Kunci Jawaban:** Pastikan bersuci dan arah kiblat.
 
-**Pembahasan:** Hadis salat berjemaah sebaiknya dipelajari dengan membaca, memahami, dan mempraktikkan.
+**Pembahasan:** Salat berjemaah tetap memiliki syarat salat, termasuk bersuci dan menghadap kiblat.
 
 ---
 
 ## Soal 21 — K03-PAI-B06-M01-021
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Belajar Hadis", bagaimana melengkapi pernyataan ini dengan benar?
-
-Hadis adalah perkataan, perbuatan, atau ketetapan yang disandarkan kepada ....
+**Pertanyaan:** Ketika Arif tiba, jemaah sudah memulai salat. Sebutan bagi Arif bila ia terlambat mengikuti imam adalah ....
 
 **Pilihan jawaban:**
-- semua raja
-- setiap pedagang
-- semua penyair
-- Nabi Muhammad saw.
+- imam pengganti
+- makmum masbuk
+- muazin
+- makmum yang hadir sejak awal
 
-**Kunci Jawaban:** Nabi Muhammad saw.
+**Kunci Jawaban:** makmum masbuk
 
-**Pembahasan:** Hadis adalah perkataan, perbuatan, atau ketetapan yang disandarkan kepada Nabi Muhammad saw..
+**Pembahasan:** Masbuk adalah sebutan bagi makmum yang terlambat mengikuti salat bersama imam.
 
 ---
 
 ## Soal 22 — K03-PAI-B06-M01-022
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Belajar Hadis", bagaimana melengkapi pernyataan ini dengan benar?
-
-Salat berjemaah dipimpin oleh ....
+**Pertanyaan:** Setelah imam salam, Sari yakin masih ada satu rakaat yang belum ia kerjakan. Apa yang perlu ia lakukan?
 
 **Pilihan jawaban:**
-- imam
-- makmum
-- muazin saja
-- penonton
+- Langsung beranjak bersama teman.
+- Ulangi semua rakaat dari awal setiap kali terlambat.
+- Lengkapi rakaat yang tertinggal sesuai tuntunan.
+- Minta imam mengulang salat untuknya.
 
-**Kunci Jawaban:** imam
+**Kunci Jawaban:** Lengkapi rakaat yang tertinggal sesuai tuntunan.
 
-**Pembahasan:** Salat berjemaah dipimpin oleh imam.
+**Pembahasan:** Makmum masbuk melengkapi bagian yang tertinggal setelah imam salam.
 
 ---
 
 ## Soal 23 — K03-PAI-B06-M01-023
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Belajar Hadis", bagaimana melengkapi pernyataan ini dengan benar?
-
-Orang yang mengikuti imam dalam salat disebut ....
+**Pertanyaan:** Tindakan mana yang menunjukkan disiplin sebelum berjemaah?
 
 **Pilihan jawaban:**
-- musafir
-- makmum
-- khatib
-- penjual
+- Bersiap lebih awal agar sempat berwudu dan masuk saf dengan tenang.
+- Menunggu imam rukuk baru bersiap.
+- Merapikan perlengkapan ketika semua mulai salat.
+- Berpindah-pindah saf sambil menunggu.
 
-**Kunci Jawaban:** makmum
+**Kunci Jawaban:** Bersiap lebih awal agar sempat berwudu dan masuk saf dengan tenang.
 
-**Pembahasan:** Orang yang mengikuti imam dalam salat disebut makmum.
+**Pembahasan:** Persiapan lebih awal memudahkan datang tepat waktu dan menjaga ketertiban.
 
 ---
 
 ## Soal 24 — K03-PAI-B06-M01-024
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Belajar Hadis", bagaimana melengkapi pernyataan ini dengan benar?
-
-Dalam salat berjemaah, makmum sebaiknya ....
+**Pertanyaan:** Tindakan mana yang menunjukkan kebersamaan dalam salat berjemaah?
 
 **Pilihan jawaban:**
-- berbicara keras
-- bermain
-- mengikuti gerakan imam sesuai tuntunan
-- mendahului imam dengan sengaja
+- Menentukan gerakan masing-masing.
+- Memilih posisi agar teman sulit masuk saf.
+- Saling mendahului agar cepat selesai.
+- Merapikan saf bersama dan mengikuti imam.
 
-**Kunci Jawaban:** mengikuti gerakan imam sesuai tuntunan
+**Kunci Jawaban:** Merapikan saf bersama dan mengikuti imam.
 
-**Pembahasan:** Dalam salat berjemaah, makmum sebaiknya mengikuti gerakan imam sesuai tuntunan.
+**Pembahasan:** Kebersamaan tampak pada barisan yang tertib dan gerakan yang mengikuti pimpinan yang sama.
 
 ---
 
 ## Soal 25 — K03-PAI-B06-M01-025
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Belajar Hadis", bagaimana melengkapi pernyataan ini dengan benar?
-
-Keutamaan salat berjemaah dalam hadis yang masyhur adalah ....
+**Pertanyaan:** Teman baru belum mengerti cara mengikuti imam. Bagaimana cara membantu?
 
 **Pilihan jawaban:**
-- 2 derajat saja
-- 1000 hari
-- tidak ada keutamaan
-- 27 derajat dibanding salat sendirian
+- Tertawakan kesalahannya setelah latihan.
+- Suruh ia menebak urutan sendiri.
+- Jelaskan dengan ramah sebelum latihan dimulai.
+- Potong salat untuk membahas setiap gerakannya.
 
-**Kunci Jawaban:** 27 derajat dibanding salat sendirian
+**Kunci Jawaban:** Jelaskan dengan ramah sebelum latihan dimulai.
 
-**Pembahasan:** Keutamaan salat berjemaah dalam hadis yang masyhur adalah 27 derajat dibanding salat sendirian.
+**Pembahasan:** Penjelasan sebelum praktik memberi teman kesempatan belajar tanpa mengganggu ibadah.
 
 ---
 
 ## Soal 26 — K03-PAI-B06-M01-026
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Belajar Hadis", bagaimana melengkapi pernyataan ini dengan benar?
-
-Makmum yang datang terlambat mengikuti salat disebut ....
+**Pertanyaan:** Apa pesan yang tepat untuk ajakan salat berjemaah di rumah?
 
 **Pilihan jawaban:**
-- masbuk
-- imam tetap
-- muazin
-- khatib
+- Ayo salat bersama supaya jumlah rakaat bertambah.
+- Ayo bersiap dan salat bersama karena berjemaah punya keutamaan.
+- Kita harus menunggu sampai peserta berjumlah 27.
+- Salat berjemaah hanya boleh dilatih di sekolah.
 
-**Kunci Jawaban:** masbuk
+**Kunci Jawaban:** Ayo bersiap dan salat bersama karena berjemaah punya keutamaan.
 
-**Pembahasan:** Makmum yang datang terlambat mengikuti salat disebut masbuk.
+**Pembahasan:** Hadis mendorong berjemaah dengan menjelaskan keutamaannya. Angka 27 menyatakan derajat.
 
 ---
 
 ## Soal 27 — K03-PAI-B06-M01-027
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Belajar Hadis", bagaimana melengkapi pernyataan ini dengan benar?
-
-Sebelum salat, muslim harus memperhatikan ....
+**Pertanyaan:** Apa sebutan untuk isi atau redaksi sebuah hadis?
 
 **Pilihan jawaban:**
-- merek tas
-- kesucian dan syarat salat
-- warna sepatu
-- jumlah penonton
+- Matan
+- Sanad
+- Saf
+- Rawi
 
-**Kunci Jawaban:** kesucian dan syarat salat
+**Kunci Jawaban:** Matan
 
-**Pembahasan:** Sebelum salat, muslim harus memperhatikan kesucian dan syarat salat.
+**Pembahasan:** Matan adalah bagian yang memuat isi hadis, seperti kalimat tentang keutamaan berjemaah.
 
 ---
 
 ## Soal 28 — K03-PAI-B06-M01-028
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Belajar Hadis", bagaimana melengkapi pernyataan ini dengan benar?
-
-Saf dalam salat berjemaah sebaiknya ....
+**Pertanyaan:** Apa sebutan untuk rangkaian orang yang menyampaikan sebuah hadis?
 
 **Pilihan jawaban:**
-- dipisahkan tanpa alasan
-- diisi sambil berlari
-- diluruskan dan dirapatkan sesuai tuntunan
-- dibuat berantakan
+- Matan
+- Saf
+- Takbir
+- Sanad
 
-**Kunci Jawaban:** diluruskan dan dirapatkan sesuai tuntunan
+**Kunci Jawaban:** Sanad
 
-**Pembahasan:** Saf dalam salat berjemaah sebaiknya diluruskan dan dirapatkan sesuai tuntunan.
+**Pembahasan:** Sanad adalah jalur periwayatan yang membawa hadis sampai kepada sumbernya.
 
 ---
 
 ## Soal 29 — K03-PAI-B06-M01-029
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Belajar Hadis", bagaimana melengkapi pernyataan ini dengan benar?
-
-Salat berjemaah mengajarkan ....
+**Pertanyaan:** Saat praktik, imam dan makmum sama-sama lupa urutan gerakan. Apa langkah belajar berikutnya?
 
 **Pilihan jawaban:**
-- permusuhan
-- kesombongan
-- kecurangan
-- disiplin dan kebersamaan
+- Pilih urutan berdasarkan gerakan yang paling mudah.
+- Ganti seluruh latihan dengan menyalin judul.
+- Minta guru mencontohkan urutan, lalu coba kembali.
+- Coba ulang dengan urutan yang berbeda-beda.
 
-**Kunci Jawaban:** disiplin dan kebersamaan
+**Kunci Jawaban:** Minta guru mencontohkan urutan, lalu coba kembali.
 
-**Pembahasan:** Salat berjemaah mengajarkan disiplin dan kebersamaan.
+**Pembahasan:** Contoh guru membantu membetulkan tata cara sebelum peserta mencoba kembali.
 
 ---
 
 ## Soal 30 — K03-PAI-B06-M01-030
 
-**Pertanyaan:** Saat belajar tentang "Senangnya Belajar Hadis", bagaimana melengkapi pernyataan ini dengan benar?
-
-Hadis salat berjemaah sebaiknya dipelajari dengan ....
+**Pertanyaan:** Doni lancar melafalkan hadis, tetapi saat praktik ia mendahului imam. Bagian apa yang masih perlu ia latih?
 
 **Pilihan jawaban:**
-- membaca, memahami, dan mempraktikkan
-- mengabaikan makna
-- mengolok-olok
-- mengubah isi sesuka hati
+- Menyalin judul bab lebih cepat.
+- Menerapkan tuntunan mengikuti imam.
+- Menghafal nama teman satu saf.
+- Menghitung jumlah huruf terjemahan.
 
-**Kunci Jawaban:** membaca, memahami, dan mempraktikkan
+**Kunci Jawaban:** Menerapkan tuntunan mengikuti imam.
 
-**Pembahasan:** Hadis salat berjemaah sebaiknya dipelajari dengan membaca, memahami, dan mempraktikkan.
-
----
+**Pembahasan:** Hafalan menunjukkan kemampuan mengingat teks, sedangkan praktik menunjukkan bagaimana tuntunan diterapkan.

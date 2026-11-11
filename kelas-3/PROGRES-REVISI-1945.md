@@ -5,14 +5,14 @@
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
-| PAI | Bab 1–5: 143 butir berubah dan sepuluh modul direvisi | 150/300 diperiksa; pratinjau HP Bab 1 tertunda | 150 soal/5 bab, serta pratinjau HP Bab 1 |
+| PAI | Bab 1–6: 173 butir berubah dan dua belas modul direvisi | 180/300 diperiksa; pratinjau HP teks Arab Bab 1 dan 6 tertunda | 120 soal/4 bab, serta pratinjau HP Bab 1 dan 6 |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **710/1.945**. Jumlah diubah: **689**.
-Sisa audit isi: **1.235 soal pada 28 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
-28 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **740/1.945**. Jumlah diubah: **719**.
+Sisa audit isi: **1.205 soal pada 27 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
+27 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -339,3 +339,19 @@ Pemeriksaan: 30 stem unik, empat opsi berbeda, kunci cocok, pembahasan ada.
 Uji pratinjau HP PAI Bab 1 saat browser tersedia dan lanjutkan audit isi PAI
 Bab 6–10, lalu ENG, PJOK, dan Seni Rupa. Pertahankan Markdown dan tunda
 konversi JSON serta aktivasi aplikasi. Jangan ubah BIN, MTK, atau PKN.
+
+## PAI Bab 6 — Senangnya Belajar Hadis
+
+Seluruh 30 butir ditelaah dan ditulis ulang. Dua modul memuat makna hadis,
+latihan membaca, menulis dan menghafal, serta praktik salat berjemaah.
+Lafal dan 27 derajat diperiksa terhadap Sahih al-Bukhari no. 645.
+Cakupan: Bab VI buku siswa dan panduan guru PAI dan Budi Pekerti SD/MI III.
+- Buku siswa: https://static.sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/Islam_BS_KLS_III.pdf
+- Panduan guru: https://www.belajarpai.com/wp-content/uploads/2023/09/BUKU-GURU-PAI-KELAS-III.pdf
+- Hadis: https://sunnah.com/bukhari/10/42
+
+Semua ID soal dan modul tetap. Stem unik, empat opsi, kunci cocok dan
+pembahasan tersedia. Validator kanonis: 1.945 soal, 0 kesalahan struktur.
+Penanda arah RTL dan bahasa Arab ditambahkan pada matan. Pratinjau HP
+Bab 1 dan Bab 6 tertunda karena Chromium gagal membuat soket.
+Titik lanjut: PAI Bab 7. Tidak ada konversi JSON atau aktivasi aplikasi.

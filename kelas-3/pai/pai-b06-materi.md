@@ -2,30 +2,44 @@
 
 ## MOD-01 — K03-PAI-B06-MOD-01
 
-### Yuk, pahami!
+### Baca, tulis, lalu coba hafalkan
 
-Senangnya Belajar Hadis mengajak kita memahami ajaran Islam dan menerapkannya dengan baik dalam kehidupan sehari-hari. Bacalah setiap poin perlahan, lalu diskusikan dengan guru atau orang tua.
+Hadis adalah riwayat tentang perkataan, perbuatan, atau ketetapan Nabi Muhammad saw. Dari Abdullah bin Umar, Nabi bersabda tentang keutamaan salat bersama.
 
-- **Nabi Muhammad saw.** — Hadis adalah perkataan, perbuatan, atau ketetapan yang disandarkan kepada Nabi Muhammad saw..
-- **imam** — Salat berjemaah dipimpin oleh imam.
-- **makmum** — Orang yang mengikuti imam dalam salat disebut makmum.
-- **mengikuti gerakan imam sesuai tuntunan** — Dalam salat berjemaah, makmum sebaiknya mengikuti gerakan imam sesuai tuntunan.
-- **27 derajat dibanding salat sendirian** — Keutamaan salat berjemaah dalam hadis yang masyhur adalah 27 derajat dibanding salat sendirian.
+<div lang="ar" dir="rtl">صَلَاةُ الْجَمَاعَةِ تَفْضُلُ صَلَاةَ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً</div>
 
-**Ayo praktik:** Ceritakan satu hal yang kamu pelajari hari ini dengan bahasamu sendiri.
+Salat berjemaah lebih utama 27 derajat daripada salat sendirian. Angka itu menyatakan keutamaan. Itulah salah satu alasan untuk membiasakan diri salat berjemaah.
+
+1. **Baca.** Simak guru membaca satu penggalan, lalu tirukan perlahan dan jelas. Perhatikan bunyi huruf dan panjang pendeknya.
+2. **Tulis.** Salin teks dari kanan ke kiri. Pakai garis pemandu dahulu jika perlu. Bandingkan bentuk huruf, sambungan, titik, dan harakat dengan contoh. Lalu coba tanpa garis pemandu.
+3. **Hafalkan.** Ulangi satu penggalan, lalu sambungkan dengan penggalan berikutnya. Tutup teks, ucapkan, dan cocokkan kembali.
+
+Kalimat yang kamu baca adalah **matan** atau isi hadis. **Sanad** adalah rangkaian periwayat yang menyampaikan hadis. Orang yang meriwayatkannya disebut **rawi**.
+
+### Ayo praktik bersama guru
+
+Sebelum salat, bersuci dan pastikan arah kiblat. Dalam latihan dengan beberapa makmum, luruskan dan rapatkan saf di belakang imam. Ikuti gerakan imam tanpa mendahuluinya. Makmum yang terlambat disebut **masbuk**. Ia melengkapi rakaat yang tertinggal setelah imam salam. Minta guru memperagakannya.
+
+Datang lebih awal memberi waktu untuk bersiap. Saling membantu merapikan saf melatih kebersamaan.
+
+Acuan lafal: [Sahih al-Bukhari no. 645](https://sunnah.com/bukhari/10/42).
 
 ---
 
 ## MOD-02 — K03-PAI-B06-MOD-02
 
-### Belajar lewat contoh
+### Dari ruang kelas ke saf
 
-Bayangkan kamu sedang berdiskusi dengan teman tentang senangnya belajar hadis. Kalian saling bertanya, mendengarkan, dan memberi contoh yang baik.
+“Kenapa kita bersiap salat bersama?” tanya Rara. Guru menceritakan hadis dari Abdullah bin Umar tentang keutamaan berjemaah. Hadis adalah riwayat tentang perkataan, perbuatan, atau ketetapan Nabi Muhammad saw. Inilah isi hadis yang mereka pelajari.
 
-- **masbuk** — Makmum yang datang terlambat mengikuti salat disebut masbuk.
-- **kesucian dan syarat salat** — Sebelum salat, muslim harus memperhatikan kesucian dan syarat salat.
-- **diluruskan dan dirapatkan sesuai tuntunan** — Saf dalam salat berjemaah sebaiknya diluruskan dan dirapatkan sesuai tuntunan.
-- **disiplin dan kebersamaan** — Salat berjemaah mengajarkan disiplin dan kebersamaan.
-- **membaca, memahami, dan mempraktikkan** — Hadis salat berjemaah sebaiknya dipelajari dengan membaca, memahami, dan mempraktikkan.
+<div lang="ar" dir="rtl">صَلَاةُ الْجَمَاعَةِ تَفْضُلُ صَلَاةَ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً</div>
 
-**Ayo coba:** Pilih dua hal dari materi ini, lalu jelaskan manfaat atau contohnya kepada orang tua.
+Rara menjelaskan maknanya dengan bahasanya sendiri. Salat berjemaah lebih utama 27 derajat daripada salat sendirian. Derajat menunjukkan keutamaan. Isi sabda tadi disebut **matan**. Rangkaian periwayatnya disebut **sanad**, dan orang yang meriwayatkan hadis disebut **rawi**.
+
+Rara menyimak bacaan guru, lalu menirukan setiap penggalan perlahan dan jelas. Ia menyalin teks dari kanan ke kiri. Mula-mula ia memakai garis pemandu, lalu mencoba tanpa garis. Ia mengecek bentuk huruf, sambungan, titik, dan harakat. Untuk menghafal, ia menyambungkan penggalan secara berurutan, lalu mengucapkannya tanpa melihat. Temannya memberi petunjuk singkat saat ia lupa.
+
+Waktu praktik tiba. Mereka bersuci dan memastikan arah kiblat. Satu anak menjadi **imam**. Beberapa **makmum** membentuk saf yang lurus dan rapat di belakangnya. Ketika imam mulai rukuk, mereka mengikutinya tanpa mendahului. Guru juga memperagakan cara makmum **masbuk** melengkapi rakaat yang tertinggal sesudah imam salam.
+
+**Ayo coba.** Jelaskan makna hadis kepada teman, lalu peragakan cara merapikan saf dan mengikuti imam bersama guru. Ceritakan bagaimana datang lebih awal dan memberi ruang di saf membantu semua orang beribadah dengan tertib.
+
+Acuan lafal: [Sahih al-Bukhari no. 645](https://sunnah.com/bukhari/10/42).
