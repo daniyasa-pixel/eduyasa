@@ -1,0 +1,26 @@
+{
+  "subject_id": "MTK",
+  "grade": 3,
+  "chapters": {
+    "K03-MTK-B01": [
+      "mtk/mtk-b01.json",
+      "mtk/mtk-b01a.json"
+    ],
+    "K03-MTK-B02": [
+      "mtk/mtk-b02.json",
+      "mtk/mtk-b02a.json"
+    ],
+    "K03-MTK-B03": [
+      "mtk/mtk-b03.json",
+      "mtk/mtk-b03a.json"
+    ],
+    "K03-MTK-B04": [
+      "mtk/mtk-b04.json",
+      "mtk/mtk-b04a.json"
+    ],
+    "K03-MTK-B05": [
+      "mtk/mtk-b05.json",
+      "mtk/mtk-b05a.json"
+    ]
+  }
+}

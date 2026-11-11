@@ -1,0 +1,373 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b01-soal-bergambar.md",
+    "sha256": "3913173d5f585ea9e81053f87413a878380993ae8fc95563dc33a63d36a29ea0"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-MTK-B01",
+      "chapter_title": "Bilangan Cacah sampai 1.000",
+      "questions": [
+        {
+          "id": "K03-MTK-B01-M01-051",
+          "type": "PG",
+          "text": "Berapakah bilangan yang ditunjukkan blok ratusan, puluhan, dan satuan pada gambar?",
+          "options": [
+            "$243$",
+            "$244$",
+            "$242$",
+            "$253$"
+          ],
+          "answer": "$243$",
+          "discussion": "Nilainya $200+40+3=243$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-01.svg",
+            "alt": "Dua kotak ratusan, empat batang puluhan, tiga titik satuan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-052",
+          "type": "PG",
+          "text": "Berapa nilai dari blok puluhan pada gambar?",
+          "options": [
+            "$41$",
+            "$40$",
+            "$50$",
+            "$30$"
+          ],
+          "answer": "$40$",
+          "discussion": "$4$ batang puluhan memiliki nilai $40$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-01.svg",
+            "alt": "Dua kotak ratusan, empat batang puluhan, tiga titik satuan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-053",
+          "type": "PG",
+          "text": "Berapakah bilangan yang ditunjukkan blok ratusan, puluhan, dan satuan pada gambar?",
+          "options": [
+            "$516$",
+            "$527$",
+            "$517$",
+            "$518$"
+          ],
+          "answer": "$517$",
+          "discussion": "Nilainya $500+10+7=517$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-02.svg",
+            "alt": "Lima kotak ratusan, satu batang puluhan, tujuh titik satuan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-054",
+          "type": "PG",
+          "text": "Berapa nilai dari blok puluhan pada gambar?",
+          "options": [
+            "$20$",
+            "$0$",
+            "$11$",
+            "$10$"
+          ],
+          "answer": "$10$",
+          "discussion": "$1$ batang puluhan memiliki nilai $10$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-02.svg",
+            "alt": "Lima kotak ratusan, satu batang puluhan, tujuh titik satuan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-055",
+          "type": "PG",
+          "text": "Berapakah bilangan yang ditunjukkan blok ratusan, puluhan, dan satuan pada gambar?",
+          "options": [
+            "$631$",
+            "$629$",
+            "$640$",
+            "$630$"
+          ],
+          "answer": "$630$",
+          "discussion": "Nilainya $600+30+0=630$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-03.svg",
+            "alt": "Enam kotak ratusan, tiga batang puluhan, nol titik satuan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-056",
+          "type": "PG",
+          "text": "Berapa nilai dari blok puluhan pada gambar?",
+          "options": [
+            "$30$",
+            "$40$",
+            "$20$",
+            "$31$"
+          ],
+          "answer": "$30$",
+          "discussion": "$3$ batang puluhan memiliki nilai $30$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-03.svg",
+            "alt": "Enam kotak ratusan, tiga batang puluhan, nol titik satuan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-057",
+          "type": "PG",
+          "text": "Berapakah bilangan yang ditunjukkan blok ratusan, puluhan, dan satuan pada gambar?",
+          "options": [
+            "$418$",
+            "$408$",
+            "$409$",
+            "$407$"
+          ],
+          "answer": "$408$",
+          "discussion": "Nilainya $400+0+8=408$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-04.svg",
+            "alt": "Empat kotak ratusan, nol batang puluhan, delapan titik satuan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-058",
+          "type": "PG",
+          "text": "Berapa nilai dari blok puluhan pada gambar?",
+          "options": [
+            "$1$",
+            "$20$",
+            "$0$",
+            "$10$"
+          ],
+          "answer": "$0$",
+          "discussion": "$0$ batang puluhan memiliki nilai $0$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-04.svg",
+            "alt": "Empat kotak ratusan, nol batang puluhan, delapan titik satuan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-059",
+          "type": "PG",
+          "text": "Berapakah jumlah semua bulatan pada gambar?",
+          "options": [
+            "$11$",
+            "$16$",
+            "$12$",
+            "$13$"
+          ],
+          "answer": "$12$",
+          "discussion": "$3\\times4=12$ bulatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-05.svg",
+            "alt": "Tiga baris, tiap baris memuat empat bulatan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-060",
+          "type": "PG",
+          "text": "Berapa bulatan dalam satu baris pada gambar?",
+          "options": [
+            "$5$",
+            "$3$",
+            "$6$",
+            "$4$"
+          ],
+          "answer": "$4$",
+          "discussion": "Semua $12$ bulatan dibagi ke $3$ baris: $12\\div3=4$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-05.svg",
+            "alt": "Tiga baris, tiap baris memuat empat bulatan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-061",
+          "type": "PG",
+          "text": "Berapakah jumlah semua bulatan pada gambar?",
+          "options": [
+            "$20$",
+            "$21$",
+            "$19$",
+            "$25$"
+          ],
+          "answer": "$20$",
+          "discussion": "$4\\times5=20$ bulatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-06.svg",
+            "alt": "Empat baris, tiap baris memuat lima bulatan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-062",
+          "type": "PG",
+          "text": "Berapa bulatan dalam satu baris pada gambar?",
+          "options": [
+            "$7$",
+            "$5$",
+            "$6$",
+            "$4$"
+          ],
+          "answer": "$5$",
+          "discussion": "Semua $20$ bulatan dibagi ke $4$ baris: $20\\div4=5$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-06.svg",
+            "alt": "Empat baris, tiap baris memuat lima bulatan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-063",
+          "type": "PG",
+          "text": "Berapakah jumlah semua bulatan pada gambar?",
+          "options": [
+            "$21$",
+            "$14$",
+            "$15$",
+            "$13$"
+          ],
+          "answer": "$14$",
+          "discussion": "$2\\times7=14$ bulatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-07.svg",
+            "alt": "Dua baris, tiap baris memuat tujuh bulatan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-064",
+          "type": "PG",
+          "text": "Berapa bulatan dalam satu baris pada gambar?",
+          "options": [
+            "$6$",
+            "$9$",
+            "$7$",
+            "$8$"
+          ],
+          "answer": "$7$",
+          "discussion": "Semua $14$ bulatan dibagi ke $2$ baris: $14\\div2=7$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-07.svg",
+            "alt": "Dua baris, tiap baris memuat tujuh bulatan."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-065",
+          "type": "PG",
+          "text": "Tanda tanya pada garis bilangan bernilai ...",
+          "options": [
+            "$160$",
+            "$140$",
+            "$151$",
+            "$150$"
+          ],
+          "answer": "$150$",
+          "discussion": "Mulai dari $120$, tambah $10$ tiap langkah, sampai $150$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-08.svg",
+            "alt": "Garis bilangan 120, 130, 140, tanda tanya, 160."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-066",
+          "type": "PG",
+          "text": "Berapakah selisih dua titik bersebelahan pada garis bilangan itu?",
+          "options": [
+            "$10$",
+            "$11$",
+            "$9$",
+            "$20$"
+          ],
+          "answer": "$10$",
+          "discussion": "Setiap perpindahan pada garis bernilai $10$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-08.svg",
+            "alt": "Garis bilangan 120, 130, 140, tanda tanya, 160."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-067",
+          "type": "PG",
+          "text": "Tanda tanya pada garis bilangan bernilai ...",
+          "options": [
+            "$220$",
+            "$225$",
+            "$215$",
+            "$221$"
+          ],
+          "answer": "$220$",
+          "discussion": "Mulai dari $205$, tambah $5$ tiap langkah, sampai $220$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-09.svg",
+            "alt": "Garis bilangan 205, 210, 215, tanda tanya, 225."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-068",
+          "type": "PG",
+          "text": "Berapakah selisih dua titik bersebelahan pada garis bilangan itu?",
+          "options": [
+            "$15$",
+            "$5$",
+            "$6$",
+            "$4$"
+          ],
+          "answer": "$5$",
+          "discussion": "Setiap perpindahan pada garis bernilai $5$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-09.svg",
+            "alt": "Garis bilangan 205, 210, 215, tanda tanya, 225."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-069",
+          "type": "PG",
+          "text": "Tanda tanya pada garis bilangan bernilai ...",
+          "options": [
+            "$440$",
+            "$461$",
+            "$460$",
+            "$480$"
+          ],
+          "answer": "$460$",
+          "discussion": "Mulai dari $400$, tambah $20$ tiap langkah, sampai $460$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-10.svg",
+            "alt": "Garis bilangan 400, 420, 440, tanda tanya, 480."
+          }
+        },
+        {
+          "id": "K03-MTK-B01-M01-070",
+          "type": "PG",
+          "text": "Berapakah selisih dua titik bersebelahan pada garis bilangan itu?",
+          "options": [
+            "$21$",
+            "$19$",
+            "$30$",
+            "$20$"
+          ],
+          "answer": "$20$",
+          "discussion": "Setiap perpindahan pada garis bernilai $20$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-gambar-10.svg",
+            "alt": "Garis bilangan 400, 420, 440, tanda tanya, 480."
+          }
+        }
+      ]
+    }
+  ]
+}

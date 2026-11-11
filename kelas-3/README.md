@@ -4,19 +4,18 @@ Data Kelas 3 berada di folder ini. Data Kelas 6 tetap memakai folder mapel di ak
 repository. Keduanya berada pada branch `main`; branch berbeda dengan folder.
 
 Mata pelajaran yang sudah tersedia sebagai JSON dan terhubung ke aplikasi:
-**Bahasa Indonesia (4 bab)** dan **Pendidikan Pancasila (4 bab)**. Daftar kerja delapan mapel/50 bab
+**Bahasa Indonesia (4 bab)**, **Pendidikan Pancasila (4 bab)**, dan
+**Matematika (5 bab, LaTeX/MathJax)**. Daftar kerja delapan mapel/50 bab
 dari riset awal belum berarti seluruh kontennya sudah tersedia atau diaudit.
 
 - [Paket Bahasa Indonesia dan laporan pemeriksaan](bin/README.md)
 - [Paket Pendidikan Pancasila empat bab (JSON dan sumber Markdown)](pkn/README.md)
-- [Paket Matematika lima bab (Markdown + MathJax, menunggu Codex)](mtk/README.md)
+- [Paket Matematika lima bab (JSON + LaTeX/MathJax)](mtk/README.md)
 - [Konfigurasi kelas](../HTML/grade-config.js)
 - [Ketentuan konten yang berlaku](../docs/CONTENT_GUIDE.md)
 
 Buka aplikasi dengan `?kelas=3`, atau pilih Kelas 3 di halaman awal. URL aplikasi
-lama tanpa parameter kelas tetap membaca Kelas 6. Matematika Kelas 3 tetap
-pada tahap sumber; konversi dan aktivasinya ditunda sesuai instruksi pemilik
-agar tidak bertabrakan dengan pengerjaan konten yang sedang berlangsung. Kelas 1, 2, 4, dan 5 masih
+lama tanpa parameter kelas tetap membaca Kelas 6. Kelas 1, 2, 4, dan 5 masih
 ditandai belum tersedia; penambahan mapel berikutnya dilakukan setelah data
 tersedia dan konfigurasi kelas diperbarui.
 

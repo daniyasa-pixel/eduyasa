@@ -1,0 +1,373 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b03-soal-bergambar.md",
+    "sha256": "0d7fbf05ede924653dc13e25c52ec015d444425efdaaec2933d24550ea5fb476"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-MTK-B03",
+      "chapter_title": "Pengukuran Panjang dan Berat",
+      "questions": [
+        {
+          "id": "K03-MTK-B03-M01-051",
+          "type": "PG",
+          "text": "Menurut gambar, panjang pita biru adalah ...",
+          "options": [
+            "$8\\ \\text{cm}$",
+            "$9\\ \\text{cm}$",
+            "$7\\ \\text{cm}$",
+            "$10\\ \\text{cm}$"
+          ],
+          "answer": "$8\\ \\text{cm}$",
+          "discussion": "Pita biru berakhir di tanda $8\\ \\text{cm}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-01.svg",
+            "alt": "Dua pita ditunjukkan dari nol: pita biru 8 cm dan pita jingga 5 cm."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-052",
+          "type": "PG",
+          "text": "Berapa selisih panjang kedua pita pada gambar?",
+          "options": [
+            "$5\\ \\text{cm}$",
+            "$3\\ \\text{cm}$",
+            "$4\\ \\text{cm}$",
+            "$2\\ \\text{cm}$"
+          ],
+          "answer": "$3\\ \\text{cm}$",
+          "discussion": "$8-5=3$ sentimeter.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-01.svg",
+            "alt": "Dua pita ditunjukkan dari nol: pita biru 8 cm dan pita jingga 5 cm."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-053",
+          "type": "PG",
+          "text": "Menurut gambar, panjang pita biru adalah ...",
+          "options": [
+            "$10\\ \\text{cm}$",
+            "$13\\ \\text{cm}$",
+            "$11\\ \\text{cm}$",
+            "$12\\ \\text{cm}$"
+          ],
+          "answer": "$11\\ \\text{cm}$",
+          "discussion": "Pita biru berakhir di tanda $11\\ \\text{cm}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-02.svg",
+            "alt": "Dua pita ditunjukkan dari nol: pita biru 11 cm dan pita jingga 7 cm."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-054",
+          "type": "PG",
+          "text": "Berapa selisih panjang kedua pita pada gambar?",
+          "options": [
+            "$5\\ \\text{cm}$",
+            "$3\\ \\text{cm}$",
+            "$6\\ \\text{cm}$",
+            "$4\\ \\text{cm}$"
+          ],
+          "answer": "$4\\ \\text{cm}$",
+          "discussion": "$11-7=4$ sentimeter.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-02.svg",
+            "alt": "Dua pita ditunjukkan dari nol: pita biru 11 cm dan pita jingga 7 cm."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-055",
+          "type": "PG",
+          "text": "Menurut gambar, panjang pita biru adalah ...",
+          "options": [
+            "$16\\ \\text{cm}$",
+            "$14\\ \\text{cm}$",
+            "$17\\ \\text{cm}$",
+            "$15\\ \\text{cm}$"
+          ],
+          "answer": "$15\\ \\text{cm}$",
+          "discussion": "Pita biru berakhir di tanda $15\\ \\text{cm}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-03.svg",
+            "alt": "Dua pita ditunjukkan dari nol: pita biru 15 cm dan pita jingga 9 cm."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-056",
+          "type": "PG",
+          "text": "Berapa selisih panjang kedua pita pada gambar?",
+          "options": [
+            "$6\\ \\text{cm}$",
+            "$7\\ \\text{cm}$",
+            "$5\\ \\text{cm}$",
+            "$8\\ \\text{cm}$"
+          ],
+          "answer": "$6\\ \\text{cm}$",
+          "discussion": "$15-9=6$ sentimeter.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-03.svg",
+            "alt": "Dua pita ditunjukkan dari nol: pita biru 15 cm dan pita jingga 9 cm."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-057",
+          "type": "PG",
+          "text": "Menurut gambar, panjang pita biru adalah ...",
+          "options": [
+            "$16\\ \\text{cm}$",
+            "$14\\ \\text{cm}$",
+            "$15\\ \\text{cm}$",
+            "$13\\ \\text{cm}$"
+          ],
+          "answer": "$14\\ \\text{cm}$",
+          "discussion": "Pita biru berakhir di tanda $14\\ \\text{cm}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-04.svg",
+            "alt": "Dua pita ditunjukkan dari nol: pita biru 14 cm dan pita jingga 6 cm."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-058",
+          "type": "PG",
+          "text": "Berapa selisih panjang kedua pita pada gambar?",
+          "options": [
+            "$7\\ \\text{cm}$",
+            "$10\\ \\text{cm}$",
+            "$8\\ \\text{cm}$",
+            "$9\\ \\text{cm}$"
+          ],
+          "answer": "$8\\ \\text{cm}$",
+          "discussion": "$14-6=8$ sentimeter.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-04.svg",
+            "alt": "Dua pita ditunjukkan dari nol: pita biru 14 cm dan pita jingga 6 cm."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-059",
+          "type": "PG",
+          "text": "Menurut gambar, panjang pita biru adalah ...",
+          "options": [
+            "$17\\ \\text{cm}$",
+            "$20\\ \\text{cm}$",
+            "$18\\ \\text{cm}$",
+            "$19\\ \\text{cm}$"
+          ],
+          "answer": "$18\\ \\text{cm}$",
+          "discussion": "Pita biru berakhir di tanda $18\\ \\text{cm}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-05.svg",
+            "alt": "Dua pita ditunjukkan dari nol: pita biru 18 cm dan pita jingga 12 cm."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-060",
+          "type": "PG",
+          "text": "Berapa selisih panjang kedua pita pada gambar?",
+          "options": [
+            "$7\\ \\text{cm}$",
+            "$5\\ \\text{cm}$",
+            "$8\\ \\text{cm}$",
+            "$6\\ \\text{cm}$"
+          ],
+          "answer": "$6\\ \\text{cm}$",
+          "discussion": "$18-12=6$ sentimeter.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-05.svg",
+            "alt": "Dua pita ditunjukkan dari nol: pita biru 18 cm dan pita jingga 12 cm."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-061",
+          "type": "PG",
+          "text": "Berapakah massa benda A menurut gambar?",
+          "options": [
+            "$400\\ \\text{g}$",
+            "$410\\ \\text{g}$",
+            "$390\\ \\text{g}$",
+            "$450\\ \\text{g}$"
+          ],
+          "answer": "$400\\ \\text{g}$",
+          "discussion": "Label benda A menunjukkan $400\\ \\text{g}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-06.svg",
+            "alt": "Kartu massa benda A 400 g dan benda B 250 g."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-062",
+          "type": "PG",
+          "text": "Berapa selisih massa benda A dan benda B?",
+          "options": [
+            "$200\\ \\text{g}$",
+            "$150\\ \\text{g}$",
+            "$160\\ \\text{g}$",
+            "$140\\ \\text{g}$"
+          ],
+          "answer": "$150\\ \\text{g}$",
+          "discussion": "$400-250=150$ gram.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-06.svg",
+            "alt": "Kartu massa benda A 400 g dan benda B 250 g."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-063",
+          "type": "PG",
+          "text": "Berapakah massa benda A menurut gambar?",
+          "options": [
+            "$700\\ \\text{g}$",
+            "$650\\ \\text{g}$",
+            "$660\\ \\text{g}$",
+            "$640\\ \\text{g}$"
+          ],
+          "answer": "$650\\ \\text{g}$",
+          "discussion": "Label benda A menunjukkan $650\\ \\text{g}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-07.svg",
+            "alt": "Kartu massa benda A 650 g dan benda B 350 g."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-064",
+          "type": "PG",
+          "text": "Berapa selisih massa benda A dan benda B?",
+          "options": [
+            "$290\\ \\text{g}$",
+            "$350\\ \\text{g}$",
+            "$300\\ \\text{g}$",
+            "$310\\ \\text{g}$"
+          ],
+          "answer": "$300\\ \\text{g}$",
+          "discussion": "$650-350=300$ gram.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-07.svg",
+            "alt": "Kartu massa benda A 650 g dan benda B 350 g."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-065",
+          "type": "PG",
+          "text": "Berapakah massa benda A menurut gambar?",
+          "options": [
+            "$810\\ \\text{g}$",
+            "$790\\ \\text{g}$",
+            "$850\\ \\text{g}$",
+            "$800\\ \\text{g}$"
+          ],
+          "answer": "$800\\ \\text{g}$",
+          "discussion": "Label benda A menunjukkan $800\\ \\text{g}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-08.svg",
+            "alt": "Kartu massa benda A 800 g dan benda B 500 g."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-066",
+          "type": "PG",
+          "text": "Berapa selisih massa benda A dan benda B?",
+          "options": [
+            "$300\\ \\text{g}$",
+            "$310\\ \\text{g}$",
+            "$290\\ \\text{g}$",
+            "$350\\ \\text{g}$"
+          ],
+          "answer": "$300\\ \\text{g}$",
+          "discussion": "$800-500=300$ gram.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-08.svg",
+            "alt": "Kartu massa benda A 800 g dan benda B 500 g."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-067",
+          "type": "PG",
+          "text": "Berapakah massa benda A menurut gambar?",
+          "options": [
+            "$750\\ \\text{g}$",
+            "$760\\ \\text{g}$",
+            "$740\\ \\text{g}$",
+            "$800\\ \\text{g}$"
+          ],
+          "answer": "$750\\ \\text{g}$",
+          "discussion": "Label benda A menunjukkan $750\\ \\text{g}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-09.svg",
+            "alt": "Kartu massa benda A 750 g dan benda B 420 g."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-068",
+          "type": "PG",
+          "text": "Berapa selisih massa benda A dan benda B?",
+          "options": [
+            "$380\\ \\text{g}$",
+            "$330\\ \\text{g}$",
+            "$340\\ \\text{g}$",
+            "$320\\ \\text{g}$"
+          ],
+          "answer": "$330\\ \\text{g}$",
+          "discussion": "$750-420=330$ gram.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-09.svg",
+            "alt": "Kartu massa benda A 750 g dan benda B 420 g."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-069",
+          "type": "PG",
+          "text": "Berapakah massa benda A menurut gambar?",
+          "options": [
+            "$890\\ \\text{g}$",
+            "$950\\ \\text{g}$",
+            "$900\\ \\text{g}$",
+            "$910\\ \\text{g}$"
+          ],
+          "answer": "$900\\ \\text{g}$",
+          "discussion": "Label benda A menunjukkan $900\\ \\text{g}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-10.svg",
+            "alt": "Kartu massa benda A 900 g dan benda B 600 g."
+          }
+        },
+        {
+          "id": "K03-MTK-B03-M01-070",
+          "type": "PG",
+          "text": "Berapa selisih massa benda A dan benda B?",
+          "options": [
+            "$310\\ \\text{g}$",
+            "$290\\ \\text{g}$",
+            "$350\\ \\text{g}$",
+            "$300\\ \\text{g}$"
+          ],
+          "answer": "$300\\ \\text{g}$",
+          "discussion": "$900-600=300$ gram.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-gambar-10.svg",
+            "alt": "Kartu massa benda A 900 g dan benda B 600 g."
+          }
+        }
+      ]
+    }
+  ]
+}

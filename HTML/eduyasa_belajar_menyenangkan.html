@@ -282,7 +282,7 @@ img[role="button"]:focus-visible { outline: 3px solid var(--primary); outline-of
     }
   };
 </script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script id="MathJax-script" async onload="this.dataset.mathjaxState='loaded'" onerror="this.dataset.mathjaxState='error'" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 </head>
 <body>
 
@@ -462,15 +462,16 @@ img[role="button"]:focus-visible { outline: 3px solid var(--primary); outline-of
 <div id="toast-container"></div>
 <footer>EDUYASA © 2026 • Kurikulum Merdeka</footer>
 
-<script src="./grade-config.js?v=20261111-k03-pkn-1"></script>
-<script src="./quiz-bank.js?v=20261111-k03-pkn-1"></script>
+<script src="./grade-config.js?v=20261111-k03-mtk-1"></script>
+<script src="./math-renderer.js?v=20261111-k03-mtk-1"></script>
+<script src="./quiz-bank.js?v=20261111-k03-mtk-1"></script>
 <script>
 let gradeConfig;
 try { gradeConfig = EduyasaGrades.resolve(window.location.search); }
 catch (error) {
   document.body.textContent = error.message;
   const back = document.createElement('a');
-  back.href = '../index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-pkn-1';
+  back.href = '../index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-mtk-1';
   back.textContent = ' Kembali ke pilihan kelas'; document.body.append(back);
   throw error;
 }
@@ -567,6 +568,15 @@ document.getElementById('imageZoomIn').onclick = () => resizeLearningImage(50);
 document.getElementById('imageZoomOut').onclick = () => resizeLearningImage(-50);
 document.getElementById('imagePreviewClose').onclick = () => document.getElementById('imagePreviewDialog').close();
 
+function learningImageUrl(src) {
+  const url = new URL(src, document.baseURI);
+  if (url.hostname === 'raw.githubusercontent.com' && url.pathname.startsWith('/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/')) {
+    url.searchParams.set('v', '20261111-k03-mtk-1');
+    return url.href;
+  }
+  return src;
+}
+
 function renderModuleMarkdown(markdown) {
   const escapeHtml = (value) => String(value).split("&").join("&amp;").split("<").join("&lt;").split(">").join("&gt;").split(String.fromCharCode(34)).join("&quot;");
   const inline = (value) => {
@@ -596,7 +606,7 @@ function renderModuleMarkdown(markdown) {
       const closeAlt = t.indexOf("]("); const closeUrl = t.lastIndexOf(")");
       if (closeAlt > 1 && closeUrl > closeAlt + 2) {
         const alt = t.substring(2, closeAlt); const src = t.substring(closeAlt + 2, closeUrl);
-        html += '<figure class="module-image"><img class="module-inline-image" src="' + escapeHtml(src) + '" alt="' + escapeHtml(alt) + '" loading="lazy"><figcaption class="image-zoom-hint">Ketuk gambar untuk memperbesar</figcaption></figure>';
+        html += '<figure class="module-image"><img class="module-inline-image" src="' + escapeHtml(learningImageUrl(src)) + '" alt="' + escapeHtml(alt) + '" loading="lazy"><figcaption class="image-zoom-hint">Ketuk gambar untuk memperbesar</figcaption></figure>';
       }
     } else if (t.startsWith("### ")) { if (inList) { html += inOrdered ? "</ol>" : "</ul>"; inList = false; inOrdered = false; } html += "<h4>" + inline(t.substring(4)) + "</h4>"; }
     else if (t.startsWith("## ")) { if (inList) { html += inOrdered ? "</ol>" : "</ul>"; inList = false; inOrdered = false; } html += "<h3>" + inline(t.substring(3)) + "</h3>"; }
@@ -610,21 +620,23 @@ function renderModuleMarkdown(markdown) {
   if (inList) html += inOrdered ? "</ol>" : "</ul>";
   return html;
 }
+const mathRenderer = EduyasaMath.createRenderer({
+  script: document.getElementById('MathJax-script'),
+  onError: error => console.error('Math rendering failed:', error)
+});
 async function renderMath(elementId) {
-  if (window.MathJax && window.MathJax.typesetPromise) {
-    if (MathJax.typesetClear) {
-      MathJax.typesetClear();
-    }
-    try {
-      if (elementId) {
-        const el = document.getElementById(elementId);
-        if (el) await MathJax.typesetPromise([el]);
-      } else {
-        await MathJax.typesetPromise();
-      }
-    } catch (e) {
-      console.error("MathJax rendering failed", e);
-    }
+  const element = elementId ? document.getElementById(elementId) : document.body;
+  if (!element) return;
+  element.querySelector(':scope > .math-render-error')?.remove();
+  element.setAttribute('aria-busy', 'true');
+  const success = await mathRenderer.render(element);
+  element.setAttribute('aria-busy', 'false');
+  if (!success) {
+    const notice = document.createElement('p');
+    notice.className = 'status error math-render-error';
+    notice.setAttribute('role', 'status');
+    notice.textContent = 'Rumus belum dapat ditampilkan. Periksa koneksi lalu muat ulang halaman.';
+    element.appendChild(notice);
   }
 }
 
@@ -922,6 +934,7 @@ async function fetchMateri() {
   busy = true;
 
   const container = document.getElementById("materiContainer");
+  mathRenderer.clear(container);
   container.innerHTML = `<div class="status loading" style="margin-top:0">Mengambil materi dari GitHub...</div>`;
   document.getElementById("btnNext2").disabled = true;
 
@@ -1079,6 +1092,7 @@ async function renderQuizQuestion() {
   selectedOptionText = null;
   selectedOptionLabel = null;
   const q = quizQuestions[currentQuestionIndex];
+  mathRenderer.clear(document.getElementById('step5'));
   
   // Acak posisi opsi; label A, B, C, D mengikuti urutan tampilan.
   currentDisplayOptions = EduyasaQuestionBank.shuffle(q.options);
@@ -1094,7 +1108,7 @@ async function renderQuizQuestion() {
     const imageData = typeof q.image === 'string' ? { src: q.image, alt: 'Ilustrasi soal' } : q.image;
     if (imageData.src) {
       const questionImage = document.createElement('img');
-      questionImage.src = imageData.src;
+      questionImage.src = learningImageUrl(imageData.src);
       questionImage.alt = imageData.alt || 'Ilustrasi soal';
       questionImage.loading = 'lazy';
       questionImage.className = 'quiz-question-image';
@@ -1194,7 +1208,9 @@ async function checkAnswer() {
     <span style="color:${isCorrect ? 'var(--success)' : '#dc2626'};font-weight:bold;">(${isCorrect ? 'Benar' : 'Belum tepat'})</span><br>
     <strong>Jawaban benar:</strong> ${correctOptionLabel}
   </div>`;
-  explDiv.innerHTML = `${answerStatus}<strong style="color:var(--primary); font-size:14px; margin-bottom:5px; display:block;">Pembahasan:</strong>${q.explanation}`;
+  mathRenderer.clear(explDiv);
+  explDiv.innerHTML = `${answerStatus}<strong style="color:var(--primary); font-size:14px; margin-bottom:5px; display:block;">Pembahasan:</strong>`;
+  explDiv.appendChild(document.createTextNode(q.explanation));
   explDiv.classList.remove('hidden');
 
   // Update Progress Full
@@ -1298,7 +1314,7 @@ document.getElementById('btnBackToHome').addEventListener('click', () => {
 });
 document.getElementById('btnCancelBackHome').addEventListener('click', closeRestartModal);
 document.getElementById('btnConfirmBackHome').addEventListener('click', () => {
-  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-pkn-1';
+  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-mtk-1';
 });
 
 document.getElementById('parentPhone').addEventListener('input', event => {
@@ -1326,7 +1342,7 @@ document.getElementById('reportForm').addEventListener('submit', event => {
 
   // Buka WhatsApp untuk mengirim laporan, lalu kembalikan halaman EDUYASA ke homepage.
   window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
-  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-pkn-1';
+  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-mtk-1';
 });
 
 async function testGitHub() {

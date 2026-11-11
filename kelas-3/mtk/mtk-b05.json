@@ -1,0 +1,683 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b05-soal-biasa.md",
+    "sha256": "7872a394d86c28eaedbb4702b634a1e92c9a03bda46d49c2661b32bbfe25a6cb"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-MTK-B05",
+      "chapter_title": "Penyajian Data dalam Tabel",
+      "questions": [
+        {
+          "id": "K03-MTK-B05-M01-001",
+          "type": "PG",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa banyak mangga?",
+          "options": [
+            "$12$",
+            "$13$",
+            "$11$",
+            "$14$"
+          ],
+          "answer": "$12$",
+          "discussion": "Dalam data, Mangga tercatat $12$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-002",
+          "type": "PG",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa banyak apel?",
+          "options": [
+            "$11$",
+            "$9$",
+            "$10$",
+            "$8$"
+          ],
+          "answer": "$9$",
+          "discussion": "Apel memiliki nilai $9$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-003",
+          "type": "PG",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Kategori dengan jumlah terbanyak adalah ...",
+          "options": [
+            "Apel",
+            "Jambu",
+            "Pisang",
+            "Mangga"
+          ],
+          "answer": "Pisang",
+          "discussion": "Pisang paling banyak, yaitu $15$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-004",
+          "type": "PG",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Kategori dengan jumlah paling sedikit adalah ...",
+          "options": [
+            "Mangga",
+            "Apel",
+            "Pisang",
+            "Jambu"
+          ],
+          "answer": "Jambu",
+          "discussion": "Jambu paling sedikit, yaitu $7$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-005",
+          "type": "PG",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa jumlah seluruh data?",
+          "options": [
+            "$44$",
+            "$42$",
+            "$48$",
+            "$43$"
+          ],
+          "answer": "$43$",
+          "discussion": "Jumlah $12+9+15+7=43$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-006",
+          "type": "PG",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa selisih yang terbanyak dan paling sedikit?",
+          "options": [
+            "$8$",
+            "$9$",
+            "$7$",
+            "$10$"
+          ],
+          "answer": "$8$",
+          "discussion": "Selisih $15-7=8$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-007",
+          "type": "PG",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa jumlah Mangga dan Pisang?",
+          "options": [
+            "$29$",
+            "$27$",
+            "$28$",
+            "$26$"
+          ],
+          "answer": "$27$",
+          "discussion": "$12+15=27$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-008",
+          "type": "PG",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa jumlah Apel dan Jambu?",
+          "options": [
+            "$15$",
+            "$18$",
+            "$16$",
+            "$17$"
+          ],
+          "answer": "$16$",
+          "discussion": "$9+7=16$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-009",
+          "type": "PG",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Urutan kategori dari paling sedikit ke paling banyak adalah ...",
+          "options": [
+            "Apel – Jambu – Mangga – Pisang",
+            "Jambu – Mangga – Apel – Pisang",
+            "Jambu – Apel – Mangga – Pisang",
+            "Pisang – Mangga – Apel – Jambu"
+          ],
+          "answer": "Jambu – Apel – Mangga – Pisang",
+          "discussion": "Urutan dari kecil adalah Jambu ($7$), Apel ($9$), Mangga ($12$), Pisang ($15$)."
+        },
+        {
+          "id": "K03-MTK-B05-M01-010",
+          "type": "PG",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Pernyataan mana yang benar?",
+          "options": [
+            "Jambu lebih banyak daripada Pisang.",
+            "Jambu dan Pisang selalu sama banyak.",
+            "Semua kategori berjumlah $15$.",
+            "Pisang lebih banyak daripada Jambu."
+          ],
+          "answer": "Pisang lebih banyak daripada Jambu.",
+          "discussion": "Data Pisang=$15$ dan Jambu=$7$ sehingga $15$ lebih besar daripada $7$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-011",
+          "type": "PG",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa banyak dongeng?",
+          "options": [
+            "$8$",
+            "$9$",
+            "$7$",
+            "$10$"
+          ],
+          "answer": "$8$",
+          "discussion": "Dalam data, Dongeng tercatat $8$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-012",
+          "type": "PG",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa banyak sains?",
+          "options": [
+            "$15$",
+            "$13$",
+            "$14$",
+            "$12$"
+          ],
+          "answer": "$13$",
+          "discussion": "Sains memiliki nilai $13$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-013",
+          "type": "PG",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Kategori dengan jumlah terbanyak adalah ...",
+          "options": [
+            "Puisi",
+            "Sains",
+            "Dongeng",
+            "Cerita"
+          ],
+          "answer": "Sains",
+          "discussion": "Sains paling banyak, yaitu $13$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-014",
+          "type": "PG",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Kategori dengan jumlah paling sedikit adalah ...",
+          "options": [
+            "Sains",
+            "Cerita",
+            "Puisi",
+            "Dongeng"
+          ],
+          "answer": "Puisi",
+          "discussion": "Puisi paling sedikit, yaitu $6$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-015",
+          "type": "PG",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa jumlah seluruh data?",
+          "options": [
+            "$39$",
+            "$37$",
+            "$43$",
+            "$38$"
+          ],
+          "answer": "$38$",
+          "discussion": "Jumlah $8+13+11+6=38$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-016",
+          "type": "PG",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa selisih yang terbanyak dan paling sedikit?",
+          "options": [
+            "$7$",
+            "$8$",
+            "$6$",
+            "$9$"
+          ],
+          "answer": "$7$",
+          "discussion": "Selisih $13-6=7$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-017",
+          "type": "PG",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa jumlah Dongeng dan Cerita?",
+          "options": [
+            "$19$",
+            "$20$",
+            "$18$",
+            "$21$"
+          ],
+          "answer": "$19$",
+          "discussion": "$8+11=19$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-018",
+          "type": "PG",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa jumlah Sains dan Puisi?",
+          "options": [
+            "$21$",
+            "$19$",
+            "$20$",
+            "$18$"
+          ],
+          "answer": "$19$",
+          "discussion": "$13+6=19$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-019",
+          "type": "PG",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Urutan kategori dari paling sedikit ke paling banyak adalah ...",
+          "options": [
+            "Dongeng – Puisi – Cerita – Sains",
+            "Puisi – Cerita – Dongeng – Sains",
+            "Puisi – Dongeng – Cerita – Sains",
+            "Sains – Cerita – Dongeng – Puisi"
+          ],
+          "answer": "Puisi – Dongeng – Cerita – Sains",
+          "discussion": "Urutan dari kecil adalah Puisi ($6$), Dongeng ($8$), Cerita ($11$), Sains ($13$)."
+        },
+        {
+          "id": "K03-MTK-B05-M01-020",
+          "type": "PG",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Pernyataan mana yang benar?",
+          "options": [
+            "Puisi lebih banyak daripada Sains.",
+            "Puisi dan Sains selalu sama banyak.",
+            "Semua kategori berjumlah $13$.",
+            "Sains lebih banyak daripada Puisi."
+          ],
+          "answer": "Sains lebih banyak daripada Puisi.",
+          "discussion": "Data Sains=$13$ dan Puisi=$6$ sehingga $13$ lebih besar daripada $6$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-021",
+          "type": "PG",
+          "text": "Data bunga di taman sekolah: Mawar $17$, Melati $14$, Anggrek $10$, dan Kamboja $8$. Berapa banyak mawar?",
+          "options": [
+            "$18$",
+            "$16$",
+            "$19$",
+            "$17$"
+          ],
+          "answer": "$17$",
+          "discussion": "Dalam data, Mawar tercatat $17$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-022",
+          "type": "PG",
+          "text": "Data bunga di taman sekolah: Mawar $17$, Melati $14$, Anggrek $10$, dan Kamboja $8$. Berapa banyak melati?",
+          "options": [
+            "$14$",
+            "$15$",
+            "$13$",
+            "$16$"
+          ],
+          "answer": "$14$",
+          "discussion": "Melati memiliki nilai $14$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-023",
+          "type": "PG",
+          "text": "Data bunga di taman sekolah: Mawar $17$, Melati $14$, Anggrek $10$, dan Kamboja $8$. Kategori dengan jumlah terbanyak adalah ...",
+          "options": [
+            "Kamboja",
+            "Mawar",
+            "Melati",
+            "Anggrek"
+          ],
+          "answer": "Mawar",
+          "discussion": "Mawar paling banyak, yaitu $17$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-024",
+          "type": "PG",
+          "text": "Data bunga di taman sekolah: Mawar $17$, Melati $14$, Anggrek $10$, dan Kamboja $8$. Kategori dengan jumlah paling sedikit adalah ...",
+          "options": [
+            "Melati",
+            "Anggrek",
+            "Kamboja",
+            "Mawar"
+          ],
+          "answer": "Kamboja",
+          "discussion": "Kamboja paling sedikit, yaitu $8$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-025",
+          "type": "PG",
+          "text": "Data bunga di taman sekolah: Mawar $17$, Melati $14$, Anggrek $10$, dan Kamboja $8$. Berapa jumlah seluruh data?",
+          "options": [
+            "$48$",
+            "$54$",
+            "$49$",
+            "$50$"
+          ],
+          "answer": "$49$",
+          "discussion": "Jumlah $17+14+10+8=49$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-026",
+          "type": "PG",
+          "text": "Data bunga di taman sekolah: Mawar $17$, Melati $14$, Anggrek $10$, dan Kamboja $8$. Berapa selisih yang terbanyak dan paling sedikit?",
+          "options": [
+            "$10$",
+            "$8$",
+            "$11$",
+            "$9$"
+          ],
+          "answer": "$9$",
+          "discussion": "Selisih $17-8=9$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-027",
+          "type": "PG",
+          "text": "Data bunga di taman sekolah: Mawar $17$, Melati $14$, Anggrek $10$, dan Kamboja $8$. Berapa jumlah Mawar dan Anggrek?",
+          "options": [
+            "$27$",
+            "$28$",
+            "$26$",
+            "$29$"
+          ],
+          "answer": "$27$",
+          "discussion": "$17+10=27$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-028",
+          "type": "PG",
+          "text": "Data bunga di taman sekolah: Mawar $17$, Melati $14$, Anggrek $10$, dan Kamboja $8$. Berapa jumlah Melati dan Kamboja?",
+          "options": [
+            "$24$",
+            "$22$",
+            "$23$",
+            "$21$"
+          ],
+          "answer": "$22$",
+          "discussion": "$14+8=22$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-029",
+          "type": "PG",
+          "text": "Data bunga di taman sekolah: Mawar $17$, Melati $14$, Anggrek $10$, dan Kamboja $8$. Urutan kategori dari paling sedikit ke paling banyak adalah ...",
+          "options": [
+            "Kamboja – Melati – Anggrek – Mawar",
+            "Kamboja – Anggrek – Melati – Mawar",
+            "Mawar – Melati – Anggrek – Kamboja",
+            "Anggrek – Kamboja – Melati – Mawar"
+          ],
+          "answer": "Kamboja – Anggrek – Melati – Mawar",
+          "discussion": "Urutan dari kecil adalah Kamboja ($8$), Anggrek ($10$), Melati ($14$), Mawar ($17$)."
+        },
+        {
+          "id": "K03-MTK-B05-M01-030",
+          "type": "PG",
+          "text": "Data bunga di taman sekolah: Mawar $17$, Melati $14$, Anggrek $10$, dan Kamboja $8$. Pernyataan mana yang benar?",
+          "options": [
+            "Kamboja dan Mawar selalu sama banyak.",
+            "Semua kategori berjumlah $17$.",
+            "Mawar lebih banyak daripada Kamboja.",
+            "Kamboja lebih banyak daripada Mawar."
+          ],
+          "answer": "Mawar lebih banyak daripada Kamboja.",
+          "discussion": "Data Mawar=$17$ dan Kamboja=$8$ sehingga $17$ lebih besar daripada $8$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-031",
+          "type": "PG",
+          "text": "Data alat tulis di kotak bersama: Pensil $20$, Penghapus $12$, Penggaris $6$, dan Spidol $9$. Berapa banyak pensil?",
+          "options": [
+            "$21$",
+            "$19$",
+            "$22$",
+            "$20$"
+          ],
+          "answer": "$20$",
+          "discussion": "Dalam data, Pensil tercatat $20$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-032",
+          "type": "PG",
+          "text": "Data alat tulis di kotak bersama: Pensil $20$, Penghapus $12$, Penggaris $6$, dan Spidol $9$. Berapa banyak penghapus?",
+          "options": [
+            "$12$",
+            "$13$",
+            "$11$",
+            "$14$"
+          ],
+          "answer": "$12$",
+          "discussion": "Penghapus memiliki nilai $12$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-033",
+          "type": "PG",
+          "text": "Data alat tulis di kotak bersama: Pensil $20$, Penghapus $12$, Penggaris $6$, dan Spidol $9$. Kategori dengan jumlah terbanyak adalah ...",
+          "options": [
+            "Pensil",
+            "Penghapus",
+            "Penggaris",
+            "Spidol"
+          ],
+          "answer": "Pensil",
+          "discussion": "Pensil paling banyak, yaitu $20$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-034",
+          "type": "PG",
+          "text": "Data alat tulis di kotak bersama: Pensil $20$, Penghapus $12$, Penggaris $6$, dan Spidol $9$. Kategori dengan jumlah paling sedikit adalah ...",
+          "options": [
+            "Spidol",
+            "Penggaris",
+            "Pensil",
+            "Penghapus"
+          ],
+          "answer": "Penggaris",
+          "discussion": "Penggaris paling sedikit, yaitu $6$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-035",
+          "type": "PG",
+          "text": "Data alat tulis di kotak bersama: Pensil $20$, Penghapus $12$, Penggaris $6$, dan Spidol $9$. Berapa jumlah seluruh data?",
+          "options": [
+            "$46$",
+            "$52$",
+            "$47$",
+            "$48$"
+          ],
+          "answer": "$47$",
+          "discussion": "Jumlah $20+12+6+9=47$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-036",
+          "type": "PG",
+          "text": "Data alat tulis di kotak bersama: Pensil $20$, Penghapus $12$, Penggaris $6$, dan Spidol $9$. Berapa selisih yang terbanyak dan paling sedikit?",
+          "options": [
+            "$15$",
+            "$13$",
+            "$16$",
+            "$14$"
+          ],
+          "answer": "$14$",
+          "discussion": "Selisih $20-6=14$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-037",
+          "type": "PG",
+          "text": "Data alat tulis di kotak bersama: Pensil $20$, Penghapus $12$, Penggaris $6$, dan Spidol $9$. Berapa jumlah Pensil dan Penggaris?",
+          "options": [
+            "$27$",
+            "$25$",
+            "$28$",
+            "$26$"
+          ],
+          "answer": "$26$",
+          "discussion": "$20+6=26$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-038",
+          "type": "PG",
+          "text": "Data alat tulis di kotak bersama: Pensil $20$, Penghapus $12$, Penggaris $6$, dan Spidol $9$. Berapa jumlah Penghapus dan Spidol?",
+          "options": [
+            "$21$",
+            "$22$",
+            "$20$",
+            "$23$"
+          ],
+          "answer": "$21$",
+          "discussion": "$12+9=21$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-039",
+          "type": "PG",
+          "text": "Data alat tulis di kotak bersama: Pensil $20$, Penghapus $12$, Penggaris $6$, dan Spidol $9$. Urutan kategori dari paling sedikit ke paling banyak adalah ...",
+          "options": [
+            "Penggaris – Penghapus – Spidol – Pensil",
+            "Penggaris – Spidol – Penghapus – Pensil",
+            "Pensil – Penghapus – Spidol – Penggaris",
+            "Spidol – Penggaris – Penghapus – Pensil"
+          ],
+          "answer": "Penggaris – Spidol – Penghapus – Pensil",
+          "discussion": "Urutan dari kecil adalah Penggaris ($6$), Spidol ($9$), Penghapus ($12$), Pensil ($20$)."
+        },
+        {
+          "id": "K03-MTK-B05-M01-040",
+          "type": "PG",
+          "text": "Data alat tulis di kotak bersama: Pensil $20$, Penghapus $12$, Penggaris $6$, dan Spidol $9$. Pernyataan mana yang benar?",
+          "options": [
+            "Penggaris dan Pensil selalu sama banyak.",
+            "Semua kategori berjumlah $20$.",
+            "Pensil lebih banyak daripada Penggaris.",
+            "Penggaris lebih banyak daripada Pensil."
+          ],
+          "answer": "Pensil lebih banyak daripada Penggaris.",
+          "discussion": "Data Pensil=$20$ dan Penggaris=$6$ sehingga $20$ lebih besar daripada $6$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-041",
+          "type": "PG",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa banyak renang?",
+          "options": [
+            "$8$",
+            "$11$",
+            "$9$",
+            "$10$"
+          ],
+          "answer": "$9$",
+          "discussion": "Dalam data, Renang tercatat $9$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-042",
+          "type": "PG",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa banyak sepak bola?",
+          "options": [
+            "$17$",
+            "$15$",
+            "$18$",
+            "$16$"
+          ],
+          "answer": "$16$",
+          "discussion": "Sepak bola memiliki nilai $16$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-043",
+          "type": "PG",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Kategori dengan jumlah terbanyak adalah ...",
+          "options": [
+            "Sepak bola",
+            "Renang",
+            "Badminton",
+            "Lari"
+          ],
+          "answer": "Sepak bola",
+          "discussion": "Sepak bola paling banyak, yaitu $16$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-044",
+          "type": "PG",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Kategori dengan jumlah paling sedikit adalah ...",
+          "options": [
+            "Badminton",
+            "Lari",
+            "Renang",
+            "Sepak bola"
+          ],
+          "answer": "Lari",
+          "discussion": "Lari paling sedikit, yaitu $8$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-045",
+          "type": "PG",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa jumlah seluruh data?",
+          "options": [
+            "$49$",
+            "$44$",
+            "$45$",
+            "$43$"
+          ],
+          "answer": "$44$",
+          "discussion": "Jumlah $9+16+11+8=44$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-046",
+          "type": "PG",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa selisih yang terbanyak dan paling sedikit?",
+          "options": [
+            "$7$",
+            "$10$",
+            "$8$",
+            "$9$"
+          ],
+          "answer": "$8$",
+          "discussion": "Selisih $16-8=8$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-047",
+          "type": "PG",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa jumlah Renang dan Badminton?",
+          "options": [
+            "$21$",
+            "$19$",
+            "$22$",
+            "$20$"
+          ],
+          "answer": "$20$",
+          "discussion": "$9+11=20$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-048",
+          "type": "PG",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa jumlah Sepak bola dan Lari?",
+          "options": [
+            "$24$",
+            "$25$",
+            "$23$",
+            "$26$"
+          ],
+          "answer": "$24$",
+          "discussion": "$16+8=24$."
+        },
+        {
+          "id": "K03-MTK-B05-M01-049",
+          "type": "PG",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Urutan kategori dari paling sedikit ke paling banyak adalah ...",
+          "options": [
+            "Lari – Renang – Badminton – Sepak bola",
+            "Sepak bola – Badminton – Renang – Lari",
+            "Renang – Lari – Badminton – Sepak bola",
+            "Lari – Badminton – Renang – Sepak bola"
+          ],
+          "answer": "Lari – Renang – Badminton – Sepak bola",
+          "discussion": "Urutan dari kecil adalah Lari ($8$), Renang ($9$), Badminton ($11$), Sepak bola ($16$)."
+        },
+        {
+          "id": "K03-MTK-B05-M01-050",
+          "type": "PG",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Pernyataan mana yang benar?",
+          "options": [
+            "Semua kategori berjumlah $16$.",
+            "Sepak bola lebih banyak daripada Lari.",
+            "Lari lebih banyak daripada Sepak bola.",
+            "Lari dan Sepak bola selalu sama banyak."
+          ],
+          "answer": "Sepak bola lebih banyak daripada Lari.",
+          "discussion": "Data Sepak bola=$16$ dan Lari=$8$ sehingga $16$ lebih besar daripada $8$."
+        }
+      ]
+    }
+  ]
+}

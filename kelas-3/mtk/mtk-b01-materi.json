@@ -1,0 +1,56 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "chapter_id": "K03-MTK-B01",
+  "chapter_title": "Bilangan Cacah sampai 1.000",
+  "learning_objectives": [
+    "Membaca dan menulis bilangan cacah sampai 1.000 serta memahami nilai tempat.",
+    "Membandingkan dan mengurutkan bilangan.",
+    "Memahami penjumlahan, pengurangan, perkalian, dan pembagian dalam cakupan sampai 100."
+  ],
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b01-materi.md",
+    "sha256": "2b3e6d66ff2d395bbd27e11a4dc614161a4e245252467ec9b43e62c75bdb2252"
+  },
+  "modules": [
+    {
+      "id": "K03-MTK-B01-MOD-01",
+      "version": "MOD-01",
+      "title": "Si Detektif Bilangan",
+      "learning_objectives": [
+        "Membaca dan menulis bilangan cacah sampai 1.000 serta memahami nilai tempat.",
+        "Membandingkan dan mengurutkan bilangan.",
+        "Memahami penjumlahan, pengurangan, perkalian, dan pembagian dalam cakupan sampai 100."
+      ],
+      "content": "# Si Detektif Bilangan\n\nHalo! Bayangkan kita sedang menghitung koleksi kartu di perpustakaan. Bilangan cacah dimulai dari $0,1,2,3,\\ldots$. Kali ini kita belajar mengenali bilangan sampai $1.000$.\n\n## Tiga rumah angka\n\nLihat bilangan $243$. Angka $2$ menempati ratusan, angka $4$ puluhan, dan angka $3$ satuan. Jadi $243=200+40+3$. Dibaca **dua ratus empat puluh tiga**. Jangan lupa, angka nol juga penting: $407=400+0+7$.\n\n![Blok ratusan, puluhan, satuan menunjukkan bilangan 243.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-materi-01.svg)\n\n**Ayo tebak:** Pada $365$, berapa nilai angka $6$? Betul, $60$, karena berada di puluhan!\n\n## Mana yang lebih besar?\n\nBandingkan mulai dari ratusan, kemudian puluhan, lalu satuan. Contohnya, $526>519$. Urutan kecil ke besar $205<250<502$. Tanda $<$ berarti kurang dari, $>$ lebih dari, dan $=$ sama dengan.\n\n## Empat operasi hitung\n\nKita dapat menghitung $28+15=43$, lalu $43-17=26$. Jika ada empat kelompok masing-masing lima benda, jumlahnya $4\\times5=20$.\n\n![Empat baris berisi masing-masing lima bulatan: jumlah dua puluh.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-materi-02.svg)\n\nJika $20$ benda dibagi sama rata menjadi $4$ kelompok, setiap kelompok mendapat $20\\div4=5$ benda. Pada latihan bab ini, penjumlahan, pengurangan, perkalian, dan pembagian memakai bilangan dalam cakupan sampai $100$.\n\n**Misi akhir:** Tulis bentuk panjang $703$, lalu coba $6\\times4$ dan $24\\div6$. Jelaskan caramu, bukan hanya hasilnya!"
+    },
+    {
+      "id": "K03-MTK-B01-MOD-02",
+      "version": "MOD-02",
+      "title": "Petualangan Lima Laci Angka",
+      "learning_objectives": [
+        "Membaca dan menulis bilangan cacah sampai 1.000 serta memahami nilai tempat.",
+        "Membandingkan dan mengurutkan bilangan.",
+        "Memahami penjumlahan, pengurangan, perkalian, dan pembagian dalam cakupan sampai 100."
+      ],
+      "content": "# Petualangan Lima Laci Angka\n\nHai, Penjelajah! Kamu masuk ke ruang misteri dengan lima laci: *membaca, nilai tempat, urutan, tambah-kurang, kali-bagi.* Ayo buka satu per satu.\n\n## Laci baca dan nilai tempat\n\nKartu $709$ dibaca **tujuh ratus sembilan**. Di kartu ini ada $7$ ratusan, $0$ puluhan, dan $9$ satuan: $709=700+0+9$.\n\n![Blok warna untuk menunjukkan ratusan, puluhan, dan satuan.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-materi-01.svg)\n\nLihat juga $243$. Nilai angka $4$ bukan hanya empat, melainkan $40$. Posisi angka menentukan nilainya. Sekarang bayangkan kamu menukar posisi puluhan dan satuan. Apakah nilainya tetap? **Tidak!**\n\n## Laci urutan bilangan\n\nAda kartu $318$, $381$, dan $183$. Susun dari terkecil: $183<318<381$. Periksa ratusan dulu, setelah itu puluhan dan satuannya.\n\n## Laci operasi\n\nAlya punya $37$ stiker, lalu diberi $25$. Maka $37+25=62$. Jika ia meminjamkan $18$ stiker, tinggal $62-18=44$.\n\n![Benda disusun dalam kelompok berukuran sama untuk perkalian dan pembagian.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b01-materi-02.svg)\n\nEmpat baris masing-masing $5$ bulatan adalah $4\\times5=20$. Jika dibagi sama banyak ke $4$ baris, setiap baris punya $20\\div4=5$ bulatan. Perkalian menggabungkan kelompok sama banyak, pembagian membagi sama rata.\n\n**Tantangan laci terakhir:** Apa angka paling besar dari $408$, $480$, dan $804$? Setelah itu, jelaskan mengapa $9\\times3=27$ memakai kelompok yang sama banyak."
+    }
+  ]
+}

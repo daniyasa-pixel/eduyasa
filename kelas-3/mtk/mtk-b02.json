@@ -1,0 +1,683 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b02-soal-biasa.md",
+    "sha256": "8543cf3c25389d0603dd9455a74efd830c34754c1348a6f9e9d8e2f89ce46a98"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-MTK-B02",
+      "chapter_title": "Kalimat Matematika",
+      "questions": [
+        {
+          "id": "K03-MTK-B02-M01-001",
+          "type": "PG",
+          "text": "Lengkapi kalimat $12+\\square=37$. Nilai kotaknya adalah ...",
+          "options": [
+            "$25$",
+            "$26$",
+            "$24$",
+            "$35$"
+          ],
+          "answer": "$25$",
+          "discussion": "Cari suku yang hilang: $37-12=25$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-002",
+          "type": "PG",
+          "text": "Lengkapi kalimat $18+\\square=54$. Nilai kotaknya adalah ...",
+          "options": [
+            "$46$",
+            "$36$",
+            "$37$",
+            "$35$"
+          ],
+          "answer": "$36$",
+          "discussion": "Cari suku yang hilang: $54-18=36$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-003",
+          "type": "PG",
+          "text": "Lengkapi kalimat $26+\\square=61$. Nilai kotaknya adalah ...",
+          "options": [
+            "$34$",
+            "$45$",
+            "$35$",
+            "$36$"
+          ],
+          "answer": "$35$",
+          "discussion": "Cari suku yang hilang: $61-26=35$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-004",
+          "type": "PG",
+          "text": "Lengkapi kalimat $35+\\square=72$. Nilai kotaknya adalah ...",
+          "options": [
+            "$38$",
+            "$36$",
+            "$47$",
+            "$37$"
+          ],
+          "answer": "$37$",
+          "discussion": "Cari suku yang hilang: $72-35=37$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-005",
+          "type": "PG",
+          "text": "Lengkapi kalimat $48+\\square=91$. Nilai kotaknya adalah ...",
+          "options": [
+            "$44$",
+            "$42$",
+            "$53$",
+            "$43$"
+          ],
+          "answer": "$43$",
+          "discussion": "Cari suku yang hilang: $91-48=43$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-006",
+          "type": "PG",
+          "text": "Bilangan $\\square$ yang membuat $\\square+28=42$ benar adalah ...",
+          "options": [
+            "$14$",
+            "$15$",
+            "$13$",
+            "$24$"
+          ],
+          "answer": "$14$",
+          "discussion": "Bilangan hilang dihitung dengan $42-28=14$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-007",
+          "type": "PG",
+          "text": "Bilangan $\\square$ yang membuat $\\square+36=58$ benar adalah ...",
+          "options": [
+            "$32$",
+            "$22$",
+            "$23$",
+            "$21$"
+          ],
+          "answer": "$22$",
+          "discussion": "Bilangan hilang dihitung dengan $58-36=22$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-008",
+          "type": "PG",
+          "text": "Bilangan $\\square$ yang membuat $\\square+45=76$ benar adalah ...",
+          "options": [
+            "$30$",
+            "$41$",
+            "$31$",
+            "$32$"
+          ],
+          "answer": "$31$",
+          "discussion": "Bilangan hilang dihitung dengan $76-45=31$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-009",
+          "type": "PG",
+          "text": "Bilangan $\\square$ yang membuat $\\square+59=76$ benar adalah ...",
+          "options": [
+            "$16$",
+            "$27$",
+            "$17$",
+            "$18$"
+          ],
+          "answer": "$17$",
+          "discussion": "Bilangan hilang dihitung dengan $76-59=17$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-010",
+          "type": "PG",
+          "text": "Bilangan $\\square$ yang membuat $\\square+42=81$ benar adalah ...",
+          "options": [
+            "$40$",
+            "$38$",
+            "$49$",
+            "$39$"
+          ],
+          "answer": "$39$",
+          "discussion": "Bilangan hilang dihitung dengan $81-42=39$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-011",
+          "type": "PG",
+          "text": "Jika $73-\\square=49$, nilai kotak adalah ...",
+          "options": [
+            "$24$",
+            "$25$",
+            "$23$",
+            "$34$"
+          ],
+          "answer": "$24$",
+          "discussion": "$73-49=24$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-012",
+          "type": "PG",
+          "text": "Jika $65-\\square=46$, nilai kotak adalah ...",
+          "options": [
+            "$29$",
+            "$19$",
+            "$20$",
+            "$18$"
+          ],
+          "answer": "$19$",
+          "discussion": "$65-46=19$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-013",
+          "type": "PG",
+          "text": "Jika $92-\\square=55$, nilai kotak adalah ...",
+          "options": [
+            "$47$",
+            "$37$",
+            "$38$",
+            "$36$"
+          ],
+          "answer": "$37$",
+          "discussion": "$92-55=37$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-014",
+          "type": "PG",
+          "text": "Jika $81-\\square=35$, nilai kotak adalah ...",
+          "options": [
+            "$45$",
+            "$56$",
+            "$46$",
+            "$47$"
+          ],
+          "answer": "$46$",
+          "discussion": "$81-35=46$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-015",
+          "type": "PG",
+          "text": "Jika $57-\\square=29$, nilai kotak adalah ...",
+          "options": [
+            "$29$",
+            "$27$",
+            "$38$",
+            "$28$"
+          ],
+          "answer": "$28$",
+          "discussion": "$57-29=28$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-016",
+          "type": "PG",
+          "text": "Pada $\\square-18=23$, bilangan mula-mula dalam kotak adalah ...",
+          "options": [
+            "$41$",
+            "$42$",
+            "$40$",
+            "$51$"
+          ],
+          "answer": "$41$",
+          "discussion": "Kembalikan bagian yang dikurangi: $23+18=41$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-017",
+          "type": "PG",
+          "text": "Pada $\\square-16=42$, bilangan mula-mula dalam kotak adalah ...",
+          "options": [
+            "$58$",
+            "$59$",
+            "$57$",
+            "$68$"
+          ],
+          "answer": "$58$",
+          "discussion": "Kembalikan bagian yang dikurangi: $42+16=58$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-018",
+          "type": "PG",
+          "text": "Pada $\\square-27=35$, bilangan mula-mula dalam kotak adalah ...",
+          "options": [
+            "$72$",
+            "$62$",
+            "$63$",
+            "$61$"
+          ],
+          "answer": "$62$",
+          "discussion": "Kembalikan bagian yang dikurangi: $35+27=62$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-019",
+          "type": "PG",
+          "text": "Pada $\\square-54=12$, bilangan mula-mula dalam kotak adalah ...",
+          "options": [
+            "$65$",
+            "$76$",
+            "$66$",
+            "$67$"
+          ],
+          "answer": "$66$",
+          "discussion": "Kembalikan bagian yang dikurangi: $12+54=66$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-020",
+          "type": "PG",
+          "text": "Pada $\\square-31=29$, bilangan mula-mula dalam kotak adalah ...",
+          "options": [
+            "$61$",
+            "$59$",
+            "$70$",
+            "$60$"
+          ],
+          "answer": "$60$",
+          "discussion": "Kembalikan bagian yang dikurangi: $29+31=60$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-021",
+          "type": "PG",
+          "text": "Pita A panjangnya $15\\ \\text{cm}$, pita B belum diketahui. Jumlah panjangnya $39\\ \\text{cm}$. Berapa panjang pita B dalam cm?",
+          "options": [
+            "$25$",
+            "$23$",
+            "$34$",
+            "$24$"
+          ],
+          "answer": "$24$",
+          "discussion": "Pita B = $39-15=24$ cm."
+        },
+        {
+          "id": "K03-MTK-B02-M01-022",
+          "type": "PG",
+          "text": "Pita A panjangnya $22\\ \\text{cm}$, pita B belum diketahui. Jumlah panjangnya $40\\ \\text{cm}$. Berapa panjang pita B dalam cm?",
+          "options": [
+            "$18$",
+            "$19$",
+            "$17$",
+            "$28$"
+          ],
+          "answer": "$18$",
+          "discussion": "Pita B = $40-22=18$ cm."
+        },
+        {
+          "id": "K03-MTK-B02-M01-023",
+          "type": "PG",
+          "text": "Pita A panjangnya $31\\ \\text{cm}$, pita B belum diketahui. Jumlah panjangnya $56\\ \\text{cm}$. Berapa panjang pita B dalam cm?",
+          "options": [
+            "$35$",
+            "$25$",
+            "$26$",
+            "$24$"
+          ],
+          "answer": "$25$",
+          "discussion": "Pita B = $56-31=25$ cm."
+        },
+        {
+          "id": "K03-MTK-B02-M01-024",
+          "type": "PG",
+          "text": "Pita A panjangnya $46\\ \\text{cm}$, pita B belum diketahui. Jumlah panjangnya $65\\ \\text{cm}$. Berapa panjang pita B dalam cm?",
+          "options": [
+            "$18$",
+            "$29$",
+            "$19$",
+            "$20$"
+          ],
+          "answer": "$19$",
+          "discussion": "Pita B = $65-46=19$ cm."
+        },
+        {
+          "id": "K03-MTK-B02-M01-025",
+          "type": "PG",
+          "text": "Pita A panjangnya $9\\ \\text{cm}$, pita B belum diketahui. Jumlah panjangnya $56\\ \\text{cm}$. Berapa panjang pita B dalam cm?",
+          "options": [
+            "$46$",
+            "$57$",
+            "$47$",
+            "$48$"
+          ],
+          "answer": "$47$",
+          "discussion": "Pita B = $56-9=47$ cm."
+        },
+        {
+          "id": "K03-MTK-B02-M01-026",
+          "type": "PG",
+          "text": "Ada $78$ buku, beberapa dipinjam hingga tersisa $55$. Buku yang dipinjam berjumlah ...",
+          "options": [
+            "$24$",
+            "$22$",
+            "$33$",
+            "$23$"
+          ],
+          "answer": "$23$",
+          "discussion": "Buku dipinjam $78-55=23$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-027",
+          "type": "PG",
+          "text": "Ada $65$ buku, beberapa dipinjam hingga tersisa $48$. Buku yang dipinjam berjumlah ...",
+          "options": [
+            "$17$",
+            "$18$",
+            "$16$",
+            "$27$"
+          ],
+          "answer": "$17$",
+          "discussion": "Buku dipinjam $65-48=17$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-028",
+          "type": "PG",
+          "text": "Ada $91$ buku, beberapa dipinjam hingga tersisa $45$. Buku yang dipinjam berjumlah ...",
+          "options": [
+            "$56$",
+            "$46$",
+            "$47$",
+            "$45$"
+          ],
+          "answer": "$46$",
+          "discussion": "Buku dipinjam $91-45=46$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-029",
+          "type": "PG",
+          "text": "Ada $72$ buku, beberapa dipinjam hingga tersisa $44$. Buku yang dipinjam berjumlah ...",
+          "options": [
+            "$38$",
+            "$28$",
+            "$29$",
+            "$27$"
+          ],
+          "answer": "$28$",
+          "discussion": "Buku dipinjam $72-44=28$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-030",
+          "type": "PG",
+          "text": "Ada $56$ buku, beberapa dipinjam hingga tersisa $37$. Buku yang dipinjam berjumlah ...",
+          "options": [
+            "$18$",
+            "$29$",
+            "$19$",
+            "$20$"
+          ],
+          "answer": "$19$",
+          "discussion": "Buku dipinjam $56-37=19$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-031",
+          "type": "PG",
+          "text": "Satu kotak berisi $12$ bola, kotak lain belum diketahui, seluruhnya $31$. Kalimat yang sesuai adalah ...",
+          "options": [
+            "$12-\\square=31$",
+            "$31+\\square=12$",
+            "$\\square-12=31$",
+            "$12+\\square=31$"
+          ],
+          "answer": "$12+\\square=31$",
+          "discussion": "Gabungan kedua kotak memberi jumlah $31$ sehingga kalimatnya $12+\\square=31$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-032",
+          "type": "PG",
+          "text": "Satu kotak berisi $24$ bola, kotak lain belum diketahui, seluruhnya $41$. Kalimat yang sesuai adalah ...",
+          "options": [
+            "$24+\\square=41$",
+            "$24-\\square=41$",
+            "$41+\\square=24$",
+            "$\\square-24=41$"
+          ],
+          "answer": "$24+\\square=41$",
+          "discussion": "Gabungan kedua kotak memberi jumlah $41$ sehingga kalimatnya $24+\\square=41$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-033",
+          "type": "PG",
+          "text": "Satu kotak berisi $33$ bola, kotak lain belum diketahui, seluruhnya $54$. Kalimat yang sesuai adalah ...",
+          "options": [
+            "$33+\\square=54$",
+            "$33-\\square=54$",
+            "$54+\\square=33$",
+            "$\\square-33=54$"
+          ],
+          "answer": "$33+\\square=54$",
+          "discussion": "Gabungan kedua kotak memberi jumlah $54$ sehingga kalimatnya $33+\\square=54$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-034",
+          "type": "PG",
+          "text": "Satu kotak berisi $18$ bola, kotak lain belum diketahui, seluruhnya $44$. Kalimat yang sesuai adalah ...",
+          "options": [
+            "$\\square-18=44$",
+            "$18+\\square=44$",
+            "$18-\\square=44$",
+            "$44+\\square=18$"
+          ],
+          "answer": "$18+\\square=44$",
+          "discussion": "Gabungan kedua kotak memberi jumlah $44$ sehingga kalimatnya $18+\\square=44$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-035",
+          "type": "PG",
+          "text": "Satu kotak berisi $45$ bola, kotak lain belum diketahui, seluruhnya $57$. Kalimat yang sesuai adalah ...",
+          "options": [
+            "$57+\\square=45$",
+            "$\\square-45=57$",
+            "$45+\\square=57$",
+            "$45-\\square=57$"
+          ],
+          "answer": "$45+\\square=57$",
+          "discussion": "Gabungan kedua kotak memberi jumlah $57$ sehingga kalimatnya $45+\\square=57$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-036",
+          "type": "PG",
+          "text": "Dari $43$ jeruk, sebagian dijual dan tersisa $26$. Kalimat untuk banyak jeruk terjual ($\\square$) adalah ...",
+          "options": [
+            "$43+\\square=26$",
+            "$26-\\square=43$",
+            "$\\square-43=26$",
+            "$43-\\square=26$"
+          ],
+          "answer": "$43-\\square=26$",
+          "discussion": "Bilangan awal dikurangi yang dijual sama dengan sisa: $43-\\square=26$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-037",
+          "type": "PG",
+          "text": "Dari $67$ jeruk, sebagian dijual dan tersisa $42$. Kalimat untuk banyak jeruk terjual ($\\square$) adalah ...",
+          "options": [
+            "$67+\\square=42$",
+            "$42-\\square=67$",
+            "$\\square-67=42$",
+            "$67-\\square=42$"
+          ],
+          "answer": "$67-\\square=42$",
+          "discussion": "Bilangan awal dikurangi yang dijual sama dengan sisa: $67-\\square=42$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-038",
+          "type": "PG",
+          "text": "Dari $88$ jeruk, sebagian dijual dan tersisa $49$. Kalimat untuk banyak jeruk terjual ($\\square$) adalah ...",
+          "options": [
+            "$88-\\square=49$",
+            "$88+\\square=49$",
+            "$49-\\square=88$",
+            "$\\square-88=49$"
+          ],
+          "answer": "$88-\\square=49$",
+          "discussion": "Bilangan awal dikurangi yang dijual sama dengan sisa: $88-\\square=49$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-039",
+          "type": "PG",
+          "text": "Dari $73$ jeruk, sebagian dijual dan tersisa $37$. Kalimat untuk banyak jeruk terjual ($\\square$) adalah ...",
+          "options": [
+            "$\\square-73=37$",
+            "$73-\\square=37$",
+            "$73+\\square=37$",
+            "$37-\\square=73$"
+          ],
+          "answer": "$73-\\square=37$",
+          "discussion": "Bilangan awal dikurangi yang dijual sama dengan sisa: $73-\\square=37$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-040",
+          "type": "PG",
+          "text": "Dari $91$ jeruk, sebagian dijual dan tersisa $37$. Kalimat untuk banyak jeruk terjual ($\\square$) adalah ...",
+          "options": [
+            "$37-\\square=91$",
+            "$\\square-91=37$",
+            "$91-\\square=37$",
+            "$91+\\square=37$"
+          ],
+          "answer": "$91-\\square=37$",
+          "discussion": "Bilangan awal dikurangi yang dijual sama dengan sisa: $91-\\square=37$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-041",
+          "type": "PG",
+          "text": "Nilai dari $43-17$ yang berpasangan dengan kalimat $17+\\square=43$ adalah ...",
+          "options": [
+            "$25$",
+            "$36$",
+            "$26$",
+            "$27$"
+          ],
+          "answer": "$26$",
+          "discussion": "Pengurangan membalikkan penjumlahan: $43-17=26$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-042",
+          "type": "PG",
+          "text": "Nilai dari $58-22$ yang berpasangan dengan kalimat $22+\\square=58$ adalah ...",
+          "options": [
+            "$37$",
+            "$35$",
+            "$46$",
+            "$36$"
+          ],
+          "answer": "$36$",
+          "discussion": "Pengurangan membalikkan penjumlahan: $58-22=36$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-043",
+          "type": "PG",
+          "text": "Nilai dari $64-31$ yang berpasangan dengan kalimat $31+\\square=64$ adalah ...",
+          "options": [
+            "$33$",
+            "$34$",
+            "$32$",
+            "$43$"
+          ],
+          "answer": "$33$",
+          "discussion": "Pengurangan membalikkan penjumlahan: $64-31=33$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-044",
+          "type": "PG",
+          "text": "Nilai dari $72-16$ yang berpasangan dengan kalimat $16+\\square=72$ adalah ...",
+          "options": [
+            "$66$",
+            "$56$",
+            "$57$",
+            "$55$"
+          ],
+          "answer": "$56$",
+          "discussion": "Pengurangan membalikkan penjumlahan: $72-16=56$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-045",
+          "type": "PG",
+          "text": "Nilai dari $53-28$ yang berpasangan dengan kalimat $28+\\square=53$ adalah ...",
+          "options": [
+            "$35$",
+            "$25$",
+            "$26$",
+            "$24$"
+          ],
+          "answer": "$25$",
+          "discussion": "Pengurangan membalikkan penjumlahan: $53-28=25$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-046",
+          "type": "PG",
+          "text": "Nita memiliki $26$ kelereng, lalu diberi beberapa kelereng sehingga menjadi $54$. Berapa kelereng tambahan?",
+          "options": [
+            "$27$",
+            "$38$",
+            "$28$",
+            "$29$"
+          ],
+          "answer": "$28$",
+          "discussion": "Hitung $54-26=28$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-047",
+          "type": "PG",
+          "text": "Dira memiliki $19$ kelereng, lalu diberi beberapa kelereng sehingga menjadi $65$. Berapa kelereng tambahan?",
+          "options": [
+            "$47$",
+            "$45$",
+            "$56$",
+            "$46$"
+          ],
+          "answer": "$46$",
+          "discussion": "Hitung $65-19=46$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-048",
+          "type": "PG",
+          "text": "Tono memiliki $32$ kelereng, lalu diberi beberapa kelereng sehingga menjadi $80$. Berapa kelereng tambahan?",
+          "options": [
+            "$48$",
+            "$49$",
+            "$47$",
+            "$58$"
+          ],
+          "answer": "$48$",
+          "discussion": "Hitung $80-32=48$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-049",
+          "type": "PG",
+          "text": "Mira memiliki $24$ kelereng, lalu diberi beberapa kelereng sehingga menjadi $62$. Berapa kelereng tambahan?",
+          "options": [
+            "$38$",
+            "$39$",
+            "$37$",
+            "$48$"
+          ],
+          "answer": "$38$",
+          "discussion": "Hitung $62-24=38$."
+        },
+        {
+          "id": "K03-MTK-B02-M01-050",
+          "type": "PG",
+          "text": "Ayu memiliki $17$ kelereng, lalu diberi beberapa kelereng sehingga menjadi $55$. Berapa kelereng tambahan?",
+          "options": [
+            "$48$",
+            "$38$",
+            "$39$",
+            "$37$"
+          ],
+          "answer": "$38$",
+          "discussion": "Hitung $55-17=38$."
+        }
+      ]
+    }
+  ]
+}

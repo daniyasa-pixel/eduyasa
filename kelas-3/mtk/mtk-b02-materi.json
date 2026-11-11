@@ -1,0 +1,56 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "chapter_id": "K03-MTK-B02",
+  "chapter_title": "Kalimat Matematika",
+  "learning_objectives": [
+    "Menyusun kalimat matematika penjumlahan dan pengurangan dari cerita.",
+    "Menentukan bilangan yang belum diketahui dengan hubungan penjumlahan dan pengurangan.",
+    "Memeriksa hasil dengan memasukkan jawaban kembali ke kalimat matematika."
+  ],
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b02-materi.md",
+    "sha256": "e44cee8d46e4f17fee89d7c7907018d28b06cf65bf9ba9d636f2f49191031cb4"
+  },
+  "modules": [
+    {
+      "id": "K03-MTK-B02-MOD-01",
+      "version": "MOD-01",
+      "title": "Kotak Misteri Matematika",
+      "learning_objectives": [
+        "Menyusun kalimat matematika penjumlahan dan pengurangan dari cerita.",
+        "Menentukan bilangan yang belum diketahui dengan hubungan penjumlahan dan pengurangan.",
+        "Memeriksa hasil dengan memasukkan jawaban kembali ke kalimat matematika."
+      ],
+      "content": "# Kotak Misteri Matematika\n\nHalo, Penemu! Kadang kita tahu jumlah seluruh benda, tetapi belum tahu salah satu bagiannya. Di sinilah **kalimat matematika** membantu. Kotak kosong $\\square$ menyimpan bilangan yang harus dicari.\n\n## Kotak penjumlahan\n\nContoh: Ada $17$ buku cerita dan beberapa buku komik. Seluruhnya $45$ buku. Kalimatnya $17+\\square=45$. Untuk menemukan yang hilang, hitung $45-17=28$. Jadi $\\square=28$.\n\n![Diagram pita: satu bagian diketahui dan bagian lainnya belum diketahui.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-materi-01.svg)\n\n**Coba jawab:** Mengapa kita tidak menjumlahkan $45$ dengan $17$? Karena $45$ sudah jumlah keseluruhan. Kita mencari *selisihnya*.\n\n## Kotak pengurangan\n\nAda $68$ apel. Setelah sebagian dibagikan, tersisa $29$. Kalimatnya $68-\\square=29$. Berapakah apel dibagikan? Hitung $68-29=39$. Jadi $\\square=39$.\n\n![Diagram pita: total, bagian diambil, dan sisa.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-materi-02.svg)\n\nJika yang belum diketahui justru bilangan mula-mula, misalnya $\\square-18=25$, cari dengan $25+18=43$. Kita bisa memeriksa: $43-18=25$.\n\n## Rahasia memeriksa jawaban\n\nHubungan penjumlahan dan pengurangan saling membantu: dari $24+16=40$, kita tahu $40-24=16$ dan $40-16=24$.\n\n**Misi akhir:** Tuliskan kalimat matematika dari cerita: Nara memiliki $32$ kelereng, lalu diberi lagi hingga $57$. Berapa tambahan kelereng? Jelaskan langkahnya!"
+    },
+    {
+      "id": "K03-MTK-B02-MOD-02",
+      "version": "MOD-02",
+      "title": "Penyelidik Bagian Hilang",
+      "learning_objectives": [
+        "Menyusun kalimat matematika penjumlahan dan pengurangan dari cerita.",
+        "Menentukan bilangan yang belum diketahui dengan hubungan penjumlahan dan pengurangan.",
+        "Memeriksa hasil dengan memasukkan jawaban kembali ke kalimat matematika."
+      ],
+      "content": "# Penyelidik Bagian Hilang\n\nSelamat datang di toko mainan khayalan! Ada dua kantong mainan; satu kantong tidak memiliki label. Kamu perlu membantu penjaga toko mencari **bilangan yang hilang**.\n\n## Penyelidikan pertama: benda bertambah\n\nDi meja ada $26$ mobil mainan. Setelah kotak misteri dibuka, semuanya menjadi $63$. Tuliskan $26+\\square=63$. Karena kita ingin mencari bagian yang ditambahkan, hitung $63-26=37$. Hasilnya $\\square=37$.\n\n![Diagram pita menyatukan dua bagian menjadi total.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-materi-01.svg)\n\n**Pertanyaan:** Jika hasil hitungmu benar, berapa $26+37$? Jawab: $63$. Jadi jawabanmu cocok.\n\n## Penyelidikan kedua: benda berkurang\n\nAda $74$ balok. Sebagiannya dipinjam teman, sehingga tersisa $48$. Bentuk kalimatnya $74-\\square=48$. Maka bagian dipinjam adalah $74-48=26$.\n\n![Diagram pita memperlihatkan total berkurang satu bagian.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-materi-02.svg)\n\nBagaimana bila yang hilang bilangan awal? Contoh $\\square-23=19$. Jumlahkan kembali $19+23=42$. Periksa $42-23=19$.\n\n## Tiga pertanyaan penting\n\nSaat membaca soal cerita, tanyakan: **(1)** Apa yang sudah diketahui? **(2)** Apa yang belum diketahui? **(3)** Apakah ceritanya bertambah atau berkurang? Setelah itu pilih kalimat yang tepat. Tidak semua cerita langsung selesai dengan menjumlahkan angka-angkanya.\n\n**Tantangan detektif:** Ciptakan cerita yang sesuai dengan $18+\\square=52$. Minta teman menyelesaikannya, kemudian bandingkan caramu."
+    }
+  ]
+}

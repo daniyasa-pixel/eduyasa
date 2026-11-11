@@ -1,0 +1,683 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b01-soal-biasa.md",
+    "sha256": "36008f1b25bd9b308a1f0fcc765734ed8294ba2ac62dd3fe5b67e965c52ff0a6"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-MTK-B01",
+      "chapter_title": "Bilangan Cacah sampai 1.000",
+      "questions": [
+        {
+          "id": "K03-MTK-B01-M01-001",
+          "type": "PG",
+          "text": "Lambang bilangan untuk \"tiga ratus enam belas\" adalah ...",
+          "options": [
+            "$316$",
+            "$317$",
+            "$315$",
+            "$326$"
+          ],
+          "answer": "$316$",
+          "discussion": "Ucapan \"tiga ratus enam belas\" menunjukkan bilangan $316$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-002",
+          "type": "PG",
+          "text": "Lambang bilangan untuk \"empat ratus tujuh\" adalah ...",
+          "options": [
+            "$417$",
+            "$407$",
+            "$408$",
+            "$406$"
+          ],
+          "answer": "$407$",
+          "discussion": "Ucapan \"empat ratus tujuh\" menunjukkan bilangan $407$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-003",
+          "type": "PG",
+          "text": "Lambang bilangan untuk \"lima ratus enam puluh delapan\" adalah ...",
+          "options": [
+            "$567$",
+            "$578$",
+            "$568$",
+            "$569$"
+          ],
+          "answer": "$568$",
+          "discussion": "Ucapan \"lima ratus enam puluh delapan\" menunjukkan bilangan $568$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-004",
+          "type": "PG",
+          "text": "Lambang bilangan untuk \"tujuh ratus dua puluh\" adalah ...",
+          "options": [
+            "$721$",
+            "$719$",
+            "$730$",
+            "$720$"
+          ],
+          "answer": "$720$",
+          "discussion": "Ucapan \"tujuh ratus dua puluh\" menunjukkan bilangan $720$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-005",
+          "type": "PG",
+          "text": "Lambang bilangan untuk \"sembilan ratus lima\" adalah ...",
+          "options": [
+            "$906$",
+            "$904$",
+            "$915$",
+            "$905$"
+          ],
+          "answer": "$905$",
+          "discussion": "Ucapan \"sembilan ratus lima\" menunjukkan bilangan $905$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-006",
+          "type": "PG",
+          "text": "Bagaimana cara membaca bilangan $316$?",
+          "options": [
+            "tiga ratus enam belas",
+            "empat ratus tujuh",
+            "lima ratus enam puluh delapan",
+            "tujuh ratus dua puluh"
+          ],
+          "answer": "tiga ratus enam belas",
+          "discussion": "Bilangan $316$ dibaca \"tiga ratus enam belas\"."
+        },
+        {
+          "id": "K03-MTK-B01-M01-007",
+          "type": "PG",
+          "text": "Bagaimana cara membaca bilangan $407$?",
+          "options": [
+            "tujuh ratus dua puluh",
+            "empat ratus tujuh",
+            "tiga ratus enam belas",
+            "lima ratus enam puluh delapan"
+          ],
+          "answer": "empat ratus tujuh",
+          "discussion": "Bilangan $407$ dibaca \"empat ratus tujuh\"."
+        },
+        {
+          "id": "K03-MTK-B01-M01-008",
+          "type": "PG",
+          "text": "Bagaimana cara membaca bilangan $568$?",
+          "options": [
+            "empat ratus tujuh",
+            "tujuh ratus dua puluh",
+            "lima ratus enam puluh delapan",
+            "tiga ratus enam belas"
+          ],
+          "answer": "lima ratus enam puluh delapan",
+          "discussion": "Bilangan $568$ dibaca \"lima ratus enam puluh delapan\"."
+        },
+        {
+          "id": "K03-MTK-B01-M01-009",
+          "type": "PG",
+          "text": "Bagaimana cara membaca bilangan $720$?",
+          "options": [
+            "empat ratus tujuh",
+            "lima ratus enam puluh delapan",
+            "tujuh ratus dua puluh",
+            "tiga ratus enam belas"
+          ],
+          "answer": "tujuh ratus dua puluh",
+          "discussion": "Bilangan $720$ dibaca \"tujuh ratus dua puluh\"."
+        },
+        {
+          "id": "K03-MTK-B01-M01-010",
+          "type": "PG",
+          "text": "Bagaimana cara membaca bilangan $905$?",
+          "options": [
+            "tiga ratus enam belas",
+            "empat ratus tujuh",
+            "lima ratus enam puluh delapan",
+            "sembilan ratus lima"
+          ],
+          "answer": "sembilan ratus lima",
+          "discussion": "Bilangan $905$ dibaca \"sembilan ratus lima\"."
+        },
+        {
+          "id": "K03-MTK-B01-M01-011",
+          "type": "PG",
+          "text": "Nilai tempat ratusan pada bilangan $346$ adalah ...",
+          "options": [
+            "$300$",
+            "$310$",
+            "$290$",
+            "$301$"
+          ],
+          "answer": "$300$",
+          "discussion": "Nilai tempat ratusan pada $346$ ialah $300$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-012",
+          "type": "PG",
+          "text": "Nilai tempat puluhan pada bilangan $583$ adalah ...",
+          "options": [
+            "$81$",
+            "$80$",
+            "$90$",
+            "$70$"
+          ],
+          "answer": "$80$",
+          "discussion": "Nilai tempat puluhan pada $583$ ialah $80$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-013",
+          "type": "PG",
+          "text": "Nilai tempat satuan pada bilangan $274$ adalah ...",
+          "options": [
+            "$104$",
+            "$4$",
+            "$14$",
+            "$5$"
+          ],
+          "answer": "$4$",
+          "discussion": "Nilai tempat satuan pada $274$ ialah $4$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-014",
+          "type": "PG",
+          "text": "Nilai tempat puluhan pada bilangan $907$ adalah ...",
+          "options": [
+            "$1$",
+            "$100$",
+            "$0$",
+            "$10$"
+          ],
+          "answer": "$0$",
+          "discussion": "Nilai tempat puluhan pada $907$ ialah $0$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-015",
+          "type": "PG",
+          "text": "Nilai tempat ratusan pada bilangan $650$ adalah ...",
+          "options": [
+            "$610$",
+            "$590$",
+            "$601$",
+            "$600$"
+          ],
+          "answer": "$600$",
+          "discussion": "Nilai tempat ratusan pada $650$ ialah $600$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-016",
+          "type": "PG",
+          "text": "Bentuk panjang yang sesuai untuk bilangan $245$ adalah ...",
+          "options": [
+            "$200+40+5$",
+            "$300+40+5$",
+            "$200+50+5$",
+            "$200+40+6$"
+          ],
+          "answer": "$200+40+5$",
+          "discussion": "Bilangan $245$ tersusun atas nilai ratusan $200$, puluhan $40$, dan satuan $5$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-017",
+          "type": "PG",
+          "text": "Bentuk panjang yang sesuai untuk bilangan $609$ adalah ...",
+          "options": [
+            "$600+0+9$",
+            "$700+0+9$",
+            "$600+10+9$",
+            "$600+0+10$"
+          ],
+          "answer": "$600+0+9$",
+          "discussion": "Bilangan $609$ tersusun atas nilai ratusan $600$, puluhan $0$, dan satuan $9$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-018",
+          "type": "PG",
+          "text": "Bentuk panjang yang sesuai untuk bilangan $381$ adalah ...",
+          "options": [
+            "$300+80+2$",
+            "$300+80+1$",
+            "$400+80+1$",
+            "$300+90+1$"
+          ],
+          "answer": "$300+80+1$",
+          "discussion": "Bilangan $381$ tersusun atas nilai ratusan $300$, puluhan $80$, dan satuan $1$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-019",
+          "type": "PG",
+          "text": "Bentuk panjang yang sesuai untuk bilangan $720$ adalah ...",
+          "options": [
+            "$700+30+0$",
+            "$700+20+1$",
+            "$700+20+0$",
+            "$800+20+0$"
+          ],
+          "answer": "$700+20+0$",
+          "discussion": "Bilangan $720$ tersusun atas nilai ratusan $700$, puluhan $20$, dan satuan $0$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-020",
+          "type": "PG",
+          "text": "Bentuk panjang yang sesuai untuk bilangan $954$ adalah ...",
+          "options": [
+            "$1000+50+4$",
+            "$900+60+4$",
+            "$900+50+5$",
+            "$900+50+4$"
+          ],
+          "answer": "$900+50+4$",
+          "discussion": "Bilangan $954$ tersusun atas nilai ratusan $900$, puluhan $50$, dan satuan $4$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-021",
+          "type": "PG",
+          "text": "Manakah bilangan terbesar dari $325$, $352$, $253$, $235$?",
+          "options": [
+            "$325$",
+            "$253$",
+            "$235$",
+            "$352$"
+          ],
+          "answer": "$352$",
+          "discussion": "Bandingkan angka ratusan, lalu puluhan dan satuan. Bilangan terbesarnya $352$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-022",
+          "type": "PG",
+          "text": "Manakah bilangan terbesar dari $418$, $481$, $814$, $148$?",
+          "options": [
+            "$814$",
+            "$418$",
+            "$481$",
+            "$148$"
+          ],
+          "answer": "$814$",
+          "discussion": "Bandingkan angka ratusan, lalu puluhan dan satuan. Bilangan terbesarnya $814$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-023",
+          "type": "PG",
+          "text": "Manakah bilangan terbesar dari $607$, $670$, $706$, $760$?",
+          "options": [
+            "$706$",
+            "$760$",
+            "$607$",
+            "$670$"
+          ],
+          "answer": "$760$",
+          "discussion": "Bandingkan angka ratusan, lalu puluhan dan satuan. Bilangan terbesarnya $760$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-024",
+          "type": "PG",
+          "text": "Manakah bilangan terbesar dari $954$, $945$, $594$, $495$?",
+          "options": [
+            "$594$",
+            "$495$",
+            "$954$",
+            "$945$"
+          ],
+          "answer": "$954$",
+          "discussion": "Bandingkan angka ratusan, lalu puluhan dan satuan. Bilangan terbesarnya $954$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-025",
+          "type": "PG",
+          "text": "Manakah bilangan terbesar dari $319$, $391$, $193$, $139$?",
+          "options": [
+            "$193$",
+            "$139$",
+            "$391$",
+            "$319$"
+          ],
+          "answer": "$391$",
+          "discussion": "Bandingkan angka ratusan, lalu puluhan dan satuan. Bilangan terbesarnya $391$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-026",
+          "type": "PG",
+          "text": "Urutan dari yang terkecil untuk $204$, $240$, $402$, $420$ adalah ...",
+          "options": [
+            "$420 < 402 < 240 < 204$",
+            "$240 < 204 < 402 < 420$",
+            "$204 < 402 < 240 < 420$",
+            "$204 < 240 < 402 < 420$"
+          ],
+          "answer": "$204 < 240 < 402 < 420$",
+          "discussion": "Urutan kecil ke besar: $204 < 240 < 402 < 420$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-027",
+          "type": "PG",
+          "text": "Urutan dari yang terkecil untuk $517$, $571$, $715$, $751$ adalah ...",
+          "options": [
+            "$517 < 571 < 715 < 751$",
+            "$751 < 715 < 571 < 517$",
+            "$571 < 517 < 715 < 751$",
+            "$517 < 715 < 571 < 751$"
+          ],
+          "answer": "$517 < 571 < 715 < 751$",
+          "discussion": "Urutan kecil ke besar: $517 < 571 < 715 < 751$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-028",
+          "type": "PG",
+          "text": "Urutan dari yang terkecil untuk $806$, $680$, $608$, $860$ adalah ...",
+          "options": [
+            "$608 < 806 < 680 < 860$",
+            "$608 < 680 < 806 < 860$",
+            "$860 < 806 < 680 < 608$",
+            "$680 < 608 < 806 < 860$"
+          ],
+          "answer": "$608 < 680 < 806 < 860$",
+          "discussion": "Urutan kecil ke besar: $608 < 680 < 806 < 860$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-029",
+          "type": "PG",
+          "text": "Urutan dari yang terkecil untuk $312$, $321$, $213$, $231$ adalah ...",
+          "options": [
+            "$213 < 312 < 231 < 321$",
+            "$213 < 231 < 312 < 321$",
+            "$321 < 312 < 231 < 213$",
+            "$231 < 213 < 312 < 321$"
+          ],
+          "answer": "$213 < 231 < 312 < 321$",
+          "discussion": "Urutan kecil ke besar: $213 < 231 < 312 < 321$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-030",
+          "type": "PG",
+          "text": "Urutan dari yang terkecil untuk $109$, $190$, $901$, $910$ adalah ...",
+          "options": [
+            "$190 < 109 < 901 < 910$",
+            "$109 < 901 < 190 < 910$",
+            "$109 < 190 < 901 < 910$",
+            "$910 < 901 < 190 < 109$"
+          ],
+          "answer": "$109 < 190 < 901 < 910$",
+          "discussion": "Urutan kecil ke besar: $109 < 190 < 901 < 910$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-031",
+          "type": "PG",
+          "text": "Hitung $28+34$!",
+          "options": [
+            "$63$",
+            "$61$",
+            "$72$",
+            "$62$"
+          ],
+          "answer": "$62$",
+          "discussion": "$28+34=62$. Kita gabungkan kedua bilangan."
+        },
+        {
+          "id": "K03-MTK-B01-M01-032",
+          "type": "PG",
+          "text": "Hitung $46+17$!",
+          "options": [
+            "$63$",
+            "$64$",
+            "$62$",
+            "$73$"
+          ],
+          "answer": "$63$",
+          "discussion": "$46+17=63$. Kita gabungkan kedua bilangan."
+        },
+        {
+          "id": "K03-MTK-B01-M01-033",
+          "type": "PG",
+          "text": "Hitung $39+24$!",
+          "options": [
+            "$63$",
+            "$64$",
+            "$62$",
+            "$73$"
+          ],
+          "answer": "$63$",
+          "discussion": "$39+24=63$. Kita gabungkan kedua bilangan."
+        },
+        {
+          "id": "K03-MTK-B01-M01-034",
+          "type": "PG",
+          "text": "Hitung $56+29$!",
+          "options": [
+            "$95$",
+            "$85$",
+            "$86$",
+            "$84$"
+          ],
+          "answer": "$85$",
+          "discussion": "$56+29=85$. Kita gabungkan kedua bilangan."
+        },
+        {
+          "id": "K03-MTK-B01-M01-035",
+          "type": "PG",
+          "text": "Hitung $18+67$!",
+          "options": [
+            "$84$",
+            "$95$",
+            "$85$",
+            "$86$"
+          ],
+          "answer": "$85$",
+          "discussion": "$18+67=85$. Kita gabungkan kedua bilangan."
+        },
+        {
+          "id": "K03-MTK-B01-M01-036",
+          "type": "PG",
+          "text": "Hitung $84-39$!",
+          "options": [
+            "$46$",
+            "$44$",
+            "$55$",
+            "$45$"
+          ],
+          "answer": "$45$",
+          "discussion": "$84-39=45$. Mulailah dari bilangan pertama."
+        },
+        {
+          "id": "K03-MTK-B01-M01-037",
+          "type": "PG",
+          "text": "Hitung $92-47$!",
+          "options": [
+            "$46$",
+            "$44$",
+            "$55$",
+            "$45$"
+          ],
+          "answer": "$45$",
+          "discussion": "$92-47=45$. Mulailah dari bilangan pertama."
+        },
+        {
+          "id": "K03-MTK-B01-M01-038",
+          "type": "PG",
+          "text": "Hitung $76-28$!",
+          "options": [
+            "$48$",
+            "$49$",
+            "$47$",
+            "$58$"
+          ],
+          "answer": "$48$",
+          "discussion": "$76-28=48$. Mulailah dari bilangan pertama."
+        },
+        {
+          "id": "K03-MTK-B01-M01-039",
+          "type": "PG",
+          "text": "Hitung $65-19$!",
+          "options": [
+            "$56$",
+            "$46$",
+            "$47$",
+            "$45$"
+          ],
+          "answer": "$46$",
+          "discussion": "$65-19=46$. Mulailah dari bilangan pertama."
+        },
+        {
+          "id": "K03-MTK-B01-M01-040",
+          "type": "PG",
+          "text": "Hitung $90-54$!",
+          "options": [
+            "$35$",
+            "$46$",
+            "$36$",
+            "$37$"
+          ],
+          "answer": "$36$",
+          "discussion": "$90-54=36$. Mulailah dari bilangan pertama."
+        },
+        {
+          "id": "K03-MTK-B01-M01-041",
+          "type": "PG",
+          "text": "Hasil $4\\times6$ adalah ...",
+          "options": [
+            "$23$",
+            "$28$",
+            "$24$",
+            "$25$"
+          ],
+          "answer": "$24$",
+          "discussion": "$4\\times6=24$ karena ada $4$ kelompok, masing-masing $6$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-042",
+          "type": "PG",
+          "text": "Hasil $7\\times8$ adalah ...",
+          "options": [
+            "$57$",
+            "$55$",
+            "$63$",
+            "$56$"
+          ],
+          "answer": "$56$",
+          "discussion": "$7\\times8=56$ karena ada $7$ kelompok, masing-masing $8$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-043",
+          "type": "PG",
+          "text": "Hasil $9\\times3$ adalah ...",
+          "options": [
+            "$27$",
+            "$28$",
+            "$26$",
+            "$36$"
+          ],
+          "answer": "$27$",
+          "discussion": "$9\\times3=27$ karena ada $9$ kelompok, masing-masing $3$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-044",
+          "type": "PG",
+          "text": "Hasil $5\\times9$ adalah ...",
+          "options": [
+            "$50$",
+            "$45$",
+            "$46$",
+            "$44$"
+          ],
+          "answer": "$45$",
+          "discussion": "$5\\times9=45$ karena ada $5$ kelompok, masing-masing $9$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-045",
+          "type": "PG",
+          "text": "Hasil $8\\times4$ adalah ...",
+          "options": [
+            "$40$",
+            "$32$",
+            "$33$",
+            "$31$"
+          ],
+          "answer": "$32$",
+          "discussion": "$8\\times4=32$ karena ada $8$ kelompok, masing-masing $4$."
+        },
+        {
+          "id": "K03-MTK-B01-M01-046",
+          "type": "PG",
+          "text": "Hasil $48\\div6$ adalah ...",
+          "options": [
+            "$7$",
+            "$10$",
+            "$8$",
+            "$9$"
+          ],
+          "answer": "$8$",
+          "discussion": "$48\\div6=8$; setiap kelompok menerima sama banyak."
+        },
+        {
+          "id": "K03-MTK-B01-M01-047",
+          "type": "PG",
+          "text": "Hasil $63\\div9$ adalah ...",
+          "options": [
+            "$8$",
+            "$6$",
+            "$9$",
+            "$7$"
+          ],
+          "answer": "$7$",
+          "discussion": "$63\\div9=7$; setiap kelompok menerima sama banyak."
+        },
+        {
+          "id": "K03-MTK-B01-M01-048",
+          "type": "PG",
+          "text": "Hasil $54\\div6$ adalah ...",
+          "options": [
+            "$9$",
+            "$10$",
+            "$8$",
+            "$11$"
+          ],
+          "answer": "$9$",
+          "discussion": "$54\\div6=9$; setiap kelompok menerima sama banyak."
+        },
+        {
+          "id": "K03-MTK-B01-M01-049",
+          "type": "PG",
+          "text": "Hasil $32\\div4$ adalah ...",
+          "options": [
+            "$8$",
+            "$9$",
+            "$7$",
+            "$10$"
+          ],
+          "answer": "$8$",
+          "discussion": "$32\\div4=8$; setiap kelompok menerima sama banyak."
+        },
+        {
+          "id": "K03-MTK-B01-M01-050",
+          "type": "PG",
+          "text": "Hasil $72\\div8$ adalah ...",
+          "options": [
+            "$11$",
+            "$9$",
+            "$10$",
+            "$8$"
+          ],
+          "answer": "$9$",
+          "discussion": "$72\\div8=9$; setiap kelompok menerima sama banyak."
+        }
+      ]
+    }
+  ]
+}

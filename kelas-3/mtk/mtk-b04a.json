@@ -1,0 +1,373 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b04-soal-bergambar.md",
+    "sha256": "a69b3c51ed036edcf8859128882c9686a86e8227e13521ceebea83c9011e6795"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-MTK-B04",
+      "chapter_title": "Unsur-Unsur Bangun Datar",
+      "questions": [
+        {
+          "id": "K03-MTK-B04-M01-051",
+          "type": "PG",
+          "text": "Banyak sisi pada bangun yang terlihat adalah ...",
+          "options": [
+            "$3$",
+            "$4$",
+            "$2$",
+            "$5$"
+          ],
+          "answer": "$3$",
+          "discussion": "Bangun segitiga memiliki $3$ sisi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-01.svg",
+            "alt": "Sebuah bentuk segitiga dengan sisi dan titik sudut yang terlihat jelas."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-052",
+          "type": "PG",
+          "text": "Nama bangun pada gambar adalah ...",
+          "options": [
+            "segi lima",
+            "segitiga",
+            "persegi",
+            "persegi panjang"
+          ],
+          "answer": "segitiga",
+          "discussion": "Gambar menunjukkan bangun segitiga.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-01.svg",
+            "alt": "Sebuah bentuk segitiga dengan sisi dan titik sudut yang terlihat jelas."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-053",
+          "type": "PG",
+          "text": "Banyak sisi pada bangun yang terlihat adalah ...",
+          "options": [
+            "$3$",
+            "$6$",
+            "$4$",
+            "$5$"
+          ],
+          "answer": "$4$",
+          "discussion": "Bangun persegi memiliki $4$ sisi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-02.svg",
+            "alt": "Sebuah bentuk persegi dengan sisi dan titik sudut yang terlihat jelas."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-054",
+          "type": "PG",
+          "text": "Nama bangun pada gambar adalah ...",
+          "options": [
+            "segitiga",
+            "persegi panjang",
+            "segi lima",
+            "persegi"
+          ],
+          "answer": "persegi",
+          "discussion": "Gambar menunjukkan bangun persegi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-02.svg",
+            "alt": "Sebuah bentuk persegi dengan sisi dan titik sudut yang terlihat jelas."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-055",
+          "type": "PG",
+          "text": "Banyak sisi pada bangun yang terlihat adalah ...",
+          "options": [
+            "$5$",
+            "$3$",
+            "$6$",
+            "$4$"
+          ],
+          "answer": "$4$",
+          "discussion": "Bangun persegi panjang memiliki $4$ sisi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-03.svg",
+            "alt": "Sebuah bentuk persegi panjang dengan sisi dan titik sudut yang terlihat jelas."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-056",
+          "type": "PG",
+          "text": "Nama bangun pada gambar adalah ...",
+          "options": [
+            "persegi panjang",
+            "segitiga",
+            "persegi",
+            "segi lima"
+          ],
+          "answer": "persegi panjang",
+          "discussion": "Gambar menunjukkan bangun persegi panjang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-03.svg",
+            "alt": "Sebuah bentuk persegi panjang dengan sisi dan titik sudut yang terlihat jelas."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-057",
+          "type": "PG",
+          "text": "Banyak sisi pada bangun yang terlihat adalah ...",
+          "options": [
+            "$7$",
+            "$5$",
+            "$6$",
+            "$4$"
+          ],
+          "answer": "$5$",
+          "discussion": "Bangun segi lima memiliki $5$ sisi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-04.svg",
+            "alt": "Sebuah bentuk segi lima dengan sisi dan titik sudut yang terlihat jelas."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-058",
+          "type": "PG",
+          "text": "Nama bangun pada gambar adalah ...",
+          "options": [
+            "persegi",
+            "persegi panjang",
+            "segi lima",
+            "segitiga"
+          ],
+          "answer": "segi lima",
+          "discussion": "Gambar menunjukkan bangun segi lima.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-04.svg",
+            "alt": "Sebuah bentuk segi lima dengan sisi dan titik sudut yang terlihat jelas."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-059",
+          "type": "PG",
+          "text": "Banyak sisi pada bangun yang terlihat adalah ...",
+          "options": [
+            "$5$",
+            "$8$",
+            "$6$",
+            "$7$"
+          ],
+          "answer": "$6$",
+          "discussion": "Bangun segi enam memiliki $6$ sisi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-05.svg",
+            "alt": "Sebuah bentuk segi enam dengan sisi dan titik sudut yang terlihat jelas."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-060",
+          "type": "PG",
+          "text": "Nama bangun pada gambar adalah ...",
+          "options": [
+            "segitiga",
+            "persegi",
+            "persegi panjang",
+            "segi enam"
+          ],
+          "answer": "segi enam",
+          "discussion": "Gambar menunjukkan bangun segi enam.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-05.svg",
+            "alt": "Sebuah bentuk segi enam dengan sisi dan titik sudut yang terlihat jelas."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-061",
+          "type": "PG",
+          "text": "Jenis sudut yang terlihat pada gambar adalah ...",
+          "options": [
+            "sudut lancip",
+            "sudut siku-siku",
+            "sudut tumpul",
+            "sudut lurus"
+          ],
+          "answer": "sudut lancip",
+          "discussion": "$45^{\\circ}$ termasuk sudut lancip.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-06.svg",
+            "alt": "Dua sinar membentuk sudut 45 derajat, dengan titik sudut O serta busur penanda."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-062",
+          "type": "PG",
+          "text": "Berapa ukuran sudut yang ditunjukkan?",
+          "options": [
+            "$180^{\\circ}$",
+            "$45^{\\circ}$",
+            "$90^{\\circ}$",
+            "$125^{\\circ}$"
+          ],
+          "answer": "$45^{\\circ}$",
+          "discussion": "Busur penanda menunjukkan $45^{\\circ}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-06.svg",
+            "alt": "Dua sinar membentuk sudut 45 derajat, dengan titik sudut O serta busur penanda."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-063",
+          "type": "PG",
+          "text": "Jenis sudut yang terlihat pada gambar adalah ...",
+          "options": [
+            "sudut lurus",
+            "sudut siku-siku",
+            "sudut lancip",
+            "sudut tumpul"
+          ],
+          "answer": "sudut siku-siku",
+          "discussion": "$90^{\\circ}$ termasuk sudut siku-siku.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-07.svg",
+            "alt": "Dua sinar membentuk sudut 90 derajat, dengan titik sudut O serta busur penanda."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-064",
+          "type": "PG",
+          "text": "Berapa ukuran sudut yang ditunjukkan?",
+          "options": [
+            "$125^{\\circ}$",
+            "$180^{\\circ}$",
+            "$90^{\\circ}$",
+            "$45^{\\circ}$"
+          ],
+          "answer": "$90^{\\circ}$",
+          "discussion": "Busur penanda menunjukkan $90^{\\circ}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-07.svg",
+            "alt": "Dua sinar membentuk sudut 90 derajat, dengan titik sudut O serta busur penanda."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-065",
+          "type": "PG",
+          "text": "Jenis sudut yang terlihat pada gambar adalah ...",
+          "options": [
+            "sudut lancip",
+            "sudut siku-siku",
+            "sudut lurus",
+            "sudut tumpul"
+          ],
+          "answer": "sudut tumpul",
+          "discussion": "$125^{\\circ}$ termasuk sudut tumpul.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-08.svg",
+            "alt": "Dua sinar membentuk sudut 125 derajat, dengan titik sudut O serta busur penanda."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-066",
+          "type": "PG",
+          "text": "Berapa ukuran sudut yang ditunjukkan?",
+          "options": [
+            "$125^{\\circ}$",
+            "$45^{\\circ}$",
+            "$90^{\\circ}$",
+            "$180^{\\circ}$"
+          ],
+          "answer": "$125^{\\circ}$",
+          "discussion": "Busur penanda menunjukkan $125^{\\circ}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-08.svg",
+            "alt": "Dua sinar membentuk sudut 125 derajat, dengan titik sudut O serta busur penanda."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-067",
+          "type": "PG",
+          "text": "Hubungan kedua garis pada gambar ialah ...",
+          "options": [
+            "sejajar",
+            "tegak lurus",
+            "melengkung",
+            "berimpit"
+          ],
+          "answer": "sejajar",
+          "discussion": "Kedua garis tampak sejajar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-09.svg",
+            "alt": "Dua garis mendatar yang terpisah dan tidak berpotongan."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-068",
+          "type": "PG",
+          "text": "Apa ciri yang membuktikan hubungan dua garis pada gambar?",
+          "options": [
+            "Bertemu di satu ujung",
+            "Tidak bertemu walau diperpanjang",
+            "Berpotongan membentuk sudut siku-siku",
+            "Membentuk garis melingkar"
+          ],
+          "answer": "Tidak bertemu walau diperpanjang",
+          "discussion": "Pada gambar, garis sejajar mempunyai ciri itu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-09.svg",
+            "alt": "Dua garis mendatar yang terpisah dan tidak berpotongan."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-069",
+          "type": "PG",
+          "text": "Hubungan kedua garis pada gambar ialah ...",
+          "options": [
+            "melengkung",
+            "berimpit",
+            "tegak lurus",
+            "sejajar"
+          ],
+          "answer": "tegak lurus",
+          "discussion": "Kedua garis tampak tegak lurus.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-10.svg",
+            "alt": "Satu garis vertikal dan satu horizontal berpotongan pada sudut siku-siku."
+          }
+        },
+        {
+          "id": "K03-MTK-B04-M01-070",
+          "type": "PG",
+          "text": "Apa ciri yang membuktikan hubungan dua garis pada gambar?",
+          "options": [
+            "Tidak bertemu walau diperpanjang",
+            "Membentuk lengkungan",
+            "Tidak mempunyai titik pertemuan",
+            "Berpotongan membentuk sudut siku-siku"
+          ],
+          "answer": "Berpotongan membentuk sudut siku-siku",
+          "discussion": "Pada gambar, garis tegak lurus mempunyai ciri itu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-10.svg",
+            "alt": "Satu garis vertikal dan satu horizontal berpotongan pada sudut siku-siku."
+          }
+        }
+      ]
+    }
+  ]
+}

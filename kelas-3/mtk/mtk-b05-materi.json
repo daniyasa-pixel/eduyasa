@@ -1,0 +1,56 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "chapter_id": "K03-MTK-B05",
+  "chapter_title": "Penyajian Data dalam Tabel",
+  "learning_objectives": [
+    "Membaca judul, kategori, dan banyak data dalam tabel.",
+    "Membandingkan, mengurutkan, menjumlahkan, dan menghitung selisih data.",
+    "Mengumpulkan data sederhana dan menyajikannya dengan jujur dalam tabel."
+  ],
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b05-materi.md",
+    "sha256": "5c0fb7e07f090ad8fe984fd57e51b737792af39159299baf19e037cab486b9fe"
+  },
+  "modules": [
+    {
+      "id": "K03-MTK-B05-MOD-01",
+      "version": "MOD-01",
+      "title": "Detektif Tabel: Membaca Cerita Angka",
+      "learning_objectives": [
+        "Membaca judul, kategori, dan banyak data dalam tabel.",
+        "Membandingkan, mengurutkan, menjumlahkan, dan menghitung selisih data.",
+        "Mengumpulkan data sederhana dan menyajikannya dengan jujur dalam tabel."
+      ],
+      "content": "# Detektif Tabel: Membaca Cerita Angka\n\nHai, Penyelidik Data! Pernah menghitung teman yang suka buah tertentu? Setelah dihitung, hasilnya bisa kita susun menjadi **data**. Tabel membantu kita membaca data dengan cepat dan rapi.\n\n## Cara membaca tabel\n\nPerhatikan tabel hewan kesukaan. Bacalah **judul**, lalu **nama kategori pada baris**, dan **banyaknya** pada kolom. Misalnya, kucing disukai $12$ anak, kelinci $8$, ikan $15$, dan burung $6$.\n\n![Tabel bergambar data hewan kesukaan dengan empat baris kategori.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-materi-01.svg)\n\n**Tebakan:** Mana yang paling banyak? Ikan, karena $15$ lebih besar dari $12$, $8$, dan $6$. Mana paling sedikit? Burung, yaitu $6$.\n\n## Bandingkan dan urutkan\n\nUrutkan data dari yang paling sedikit: burung $6$, kelinci $8$, kucing $12$, ikan $15$. Selisih paling banyak dengan paling sedikit adalah $15-6=9$. Jumlah seluruh pilihan adalah $12+8+15+6=41$.\n\n![Tabel data buku perpustakaan dengan jumlah tiap jenis buku.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-materi-02.svg)\n\n## Ayo membuat tabel\n\nTanyakan kepada beberapa anggota keluarga tentang buah kesukaan mereka. Catat satu pilihan dari setiap orang, lalu hitung banyaknya untuk setiap buah. Tulis dua kolom: **nama buah** dan **banyak orang**. Ingat, isi tabel harus sesuai jawaban sebenarnya, bukan dikarang.\n\n**Tantangan penutup:** Baca tabel buku pada gambar. Temukan kategori tertinggi, kategori terendah, dan jelaskan bagaimana kamu menemukannya."
+    },
+    {
+      "id": "K03-MTK-B05-MOD-02",
+      "version": "MOD-02",
+      "title": "Penjaga Perpustakaan dan Tabel Rahasia",
+      "learning_objectives": [
+        "Membaca judul, kategori, dan banyak data dalam tabel.",
+        "Membandingkan, mengurutkan, menjumlahkan, dan menghitung selisih data.",
+        "Mengumpulkan data sederhana dan menyajikannya dengan jujur dalam tabel."
+      ],
+      "content": "# Penjaga Perpustakaan dan Tabel Rahasia\n\nSelamat datang di perpustakaan mini! Penjaganya ingin tahu jenis buku apa yang paling diminati. Ia tidak bisa hanya menebak. Ia perlu **mengumpulkan data, mengelompokkan, lalu membuat tabel**.\n\n## Rak satu: kumpulkan data\n\nMisalnya, hasil pengamatan menunjukkan buku cerita $9$, sains $14$, puisi $6$, dan komik $11$. Tulis setiap nama pada satu baris tabel dan masukkan angka yang benar di sampingnya.\n\n![Tabel jumlah empat jenis buku perpustakaan.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-materi-02.svg)\n\n**Bisa kamu jawab?** Buku paling banyak adalah buku sains, $14$. Paling sedikit puisi, $6$. Perbedaan jumlahnya $14-6=8$.\n\n## Rak dua: tabel bercerita\n\nTabel yang baik punya **judul** dan kolom yang jelas. Jangan menambahkan angka yang tidak dikumpulkan. Dari tabel kita dapat melihat mana terbesar, mana terkecil, jumlah seluruh data, dan perbandingan dua kategori.\n\n![Tabel hewan kesukaan dengan kategori dan banyaknya.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-materi-01.svg)\n\nPada tabel hewan, total semua pilihan $12+8+15+6=41$. Urutan dari kecil ke besar $6<8<12<15$. Kamu tidak perlu menebak; cukup baca baris lalu hitung!\n\n## Misi penjaga tabel\n\nAmbil empat jenis benda yang aman di rumah, misalnya pensil, penghapus, buku, dan penggaris. Hitung masing-masing, buat tabel dua kolom, lalu ajukan dua pertanyaan kepada teman: *“Yang paling banyak apa?”* dan *“Berapa selisih dua jenis benda?”*\n\n**Pesan penting:** Data adalah hasil pengamatan atau pencatatan; tabel membantu orang lain memahami hasilnya."
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b05-soal-bergambar.md",
+    "sha256": "9aa5c507d5407500b4330ee0d67494a83af0373ea1b3cb0324487daa55a68ef7"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-MTK-B05",
+      "chapter_title": "Penyajian Data dalam Tabel",
+      "questions": [
+        {
+          "id": "K03-MTK-B05-M01-051",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, kategori terbanyak adalah ...",
+          "options": [
+            "Ikan",
+            "Kucing",
+            "Kelinci",
+            "Burung"
+          ],
+          "answer": "Ikan",
+          "discussion": "Ikan memiliki $15$, jumlah paling tinggi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-01.svg",
+            "alt": "Tabel data hewan kesukaan empat baris: Kucing 12, Kelinci 8, Ikan 15, Burung 6."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-052",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, berapa selisih kategori Ikan dan Burung?",
+          "options": [
+            "$11$",
+            "$9$",
+            "$10$",
+            "$8$"
+          ],
+          "answer": "$9$",
+          "discussion": "Kurangkan nilai terbesar dan terkecil: $15-6=9$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-01.svg",
+            "alt": "Tabel data hewan kesukaan empat baris: Kucing 12, Kelinci 8, Ikan 15, Burung 6."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-053",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, kategori terbanyak adalah ...",
+          "options": [
+            "Puisi",
+            "Komik",
+            "Sains",
+            "Cerita"
+          ],
+          "answer": "Sains",
+          "discussion": "Sains memiliki $14$, jumlah paling tinggi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-02.svg",
+            "alt": "Tabel data buku perpustakaan empat baris: Cerita 9, Sains 14, Puisi 6, Komik 11."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-054",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, berapa selisih kategori Sains dan Puisi?",
+          "options": [
+            "$9$",
+            "$7$",
+            "$10$",
+            "$8$"
+          ],
+          "answer": "$8$",
+          "discussion": "Kurangkan nilai terbesar dan terkecil: $14-6=8$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-02.svg",
+            "alt": "Tabel data buku perpustakaan empat baris: Cerita 9, Sains 14, Puisi 6, Komik 11."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-055",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, kategori terbanyak adalah ...",
+          "options": [
+            "Cabai",
+            "Terong",
+            "Wortel",
+            "Tomat"
+          ],
+          "answer": "Tomat",
+          "discussion": "Tomat memiliki $18$, jumlah paling tinggi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-03.svg",
+            "alt": "Tabel data hasil kebun empat baris: Tomat 18, Cabai 12, Terong 8, Wortel 14."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-056",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, berapa selisih kategori Tomat dan Terong?",
+          "options": [
+            "$10$",
+            "$11$",
+            "$9$",
+            "$12$"
+          ],
+          "answer": "$10$",
+          "discussion": "Kurangkan nilai terbesar dan terkecil: $18-8=10$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-03.svg",
+            "alt": "Tabel data hasil kebun empat baris: Tomat 18, Cabai 12, Terong 8, Wortel 14."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-057",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, kategori terbanyak adalah ...",
+          "options": [
+            "Kamboja",
+            "Melati",
+            "Mawar",
+            "Anggrek"
+          ],
+          "answer": "Melati",
+          "discussion": "Melati memiliki $17$, jumlah paling tinggi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-04.svg",
+            "alt": "Tabel data bunga di halaman empat baris: Mawar 13, Melati 17, Anggrek 9, Kamboja 7."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-058",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, berapa selisih kategori Melati dan Kamboja?",
+          "options": [
+            "$9$",
+            "$12$",
+            "$10$",
+            "$11$"
+          ],
+          "answer": "$10$",
+          "discussion": "Kurangkan nilai terbesar dan terkecil: $17-7=10$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-04.svg",
+            "alt": "Tabel data bunga di halaman empat baris: Mawar 13, Melati 17, Anggrek 9, Kamboja 7."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-059",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, kategori terbanyak adalah ...",
+          "options": [
+            "Bolu",
+            "Kue lapis",
+            "Roti",
+            "Donat"
+          ],
+          "answer": "Roti",
+          "discussion": "Roti memiliki $16$, jumlah paling tinggi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-05.svg",
+            "alt": "Tabel data kue di kantin empat baris: Roti 16, Donat 10, Bolu 8, Kue lapis 12."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-060",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, berapa selisih kategori Roti dan Bolu?",
+          "options": [
+            "$9$",
+            "$7$",
+            "$10$",
+            "$8$"
+          ],
+          "answer": "$8$",
+          "discussion": "Kurangkan nilai terbesar dan terkecil: $16-8=8$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-05.svg",
+            "alt": "Tabel data kue di kantin empat baris: Roti 16, Donat 10, Bolu 8, Kue lapis 12."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-061",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, kategori terbanyak adalah ...",
+          "options": [
+            "Bola",
+            "Lari",
+            "Renang",
+            "Senam"
+          ],
+          "answer": "Bola",
+          "discussion": "Bola memiliki $14$, jumlah paling tinggi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-06.svg",
+            "alt": "Tabel data olahraga favorit empat baris: Bola 14, Lari 11, Renang 7, Senam 9."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-062",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, berapa selisih kategori Bola dan Renang?",
+          "options": [
+            "$9$",
+            "$7$",
+            "$8$",
+            "$6$"
+          ],
+          "answer": "$7$",
+          "discussion": "Kurangkan nilai terbesar dan terkecil: $14-7=7$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-06.svg",
+            "alt": "Tabel data olahraga favorit empat baris: Bola 14, Lari 11, Renang 7, Senam 9."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-063",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, kategori terbanyak adalah ...",
+          "options": [
+            "Puzzle",
+            "Mobil",
+            "Boneka",
+            "Balok"
+          ],
+          "answer": "Mobil",
+          "discussion": "Mobil memiliki $17$, jumlah paling tinggi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-07.svg",
+            "alt": "Tabel data mainan di rak empat baris: Boneka 12, Mobil 17, Balok 9, Puzzle 6."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-064",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, berapa selisih kategori Mobil dan Puzzle?",
+          "options": [
+            "$10$",
+            "$13$",
+            "$11$",
+            "$12$"
+          ],
+          "answer": "$11$",
+          "discussion": "Kurangkan nilai terbesar dan terkecil: $17-6=11$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-07.svg",
+            "alt": "Tabel data mainan di rak empat baris: Boneka 12, Mobil 17, Balok 9, Puzzle 6."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-065",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, kategori terbanyak adalah ...",
+          "options": [
+            "Pulpen",
+            "Spidol",
+            "Penghapus",
+            "Pensil"
+          ],
+          "answer": "Pensil",
+          "discussion": "Pensil memiliki $20$, jumlah paling tinggi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-08.svg",
+            "alt": "Tabel data alat tulis empat baris: Pensil 20, Pulpen 11, Spidol 8, Penghapus 14."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-066",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, berapa selisih kategori Pensil dan Spidol?",
+          "options": [
+            "$12$",
+            "$13$",
+            "$11$",
+            "$14$"
+          ],
+          "answer": "$12$",
+          "discussion": "Kurangkan nilai terbesar dan terkecil: $20-8=12$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-08.svg",
+            "alt": "Tabel data alat tulis empat baris: Pensil 20, Pulpen 11, Spidol 8, Penghapus 14."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-067",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, kategori terbanyak adalah ...",
+          "options": [
+            "Lidah buaya",
+            "Sirih",
+            "Kaktus",
+            "Paku"
+          ],
+          "answer": "Lidah buaya",
+          "discussion": "Lidah buaya memiliki $13$, jumlah paling tinggi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-09.svg",
+            "alt": "Tabel data tanaman kelas empat baris: Sirih 7, Lidah buaya 13, Kaktus 10, Paku 5."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-068",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, berapa selisih kategori Lidah buaya dan Paku?",
+          "options": [
+            "$10$",
+            "$8$",
+            "$9$",
+            "$7$"
+          ],
+          "answer": "$8$",
+          "discussion": "Kurangkan nilai terbesar dan terkecil: $13-5=8$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-09.svg",
+            "alt": "Tabel data tanaman kelas empat baris: Sirih 7, Lidah buaya 13, Kaktus 10, Paku 5."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-069",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, kategori terbanyak adalah ...",
+          "options": [
+            "Rabu",
+            "Kamis",
+            "Selasa",
+            "Senin"
+          ],
+          "answer": "Selasa",
+          "discussion": "Selasa memiliki $21$, jumlah paling tinggi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-10.svg",
+            "alt": "Tabel data kunjungan membaca empat baris: Senin 18, Selasa 21, Rabu 15, Kamis 12."
+          }
+        },
+        {
+          "id": "K03-MTK-B05-M01-070",
+          "type": "PG",
+          "text": "Menurut tabel pada gambar, berapa selisih kategori Selasa dan Kamis?",
+          "options": [
+            "$10$",
+            "$8$",
+            "$11$",
+            "$9$"
+          ],
+          "answer": "$9$",
+          "discussion": "Kurangkan nilai terbesar dan terkecil: $21-12=9$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b05-gambar-10.svg",
+            "alt": "Tabel data kunjungan membaca empat baris: Senin 18, Selasa 21, Rabu 15, Kamis 12."
+          }
+        }
+      ]
+    }
+  ]
+}

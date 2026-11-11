@@ -1,0 +1,56 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "chapter_id": "K03-MTK-B03",
+  "chapter_title": "Pengukuran Panjang dan Berat",
+  "learning_objectives": [
+    "Memilih alat dan satuan baku untuk mengukur panjang dan massa benda.",
+    "Membaca pengukuran dan memahami hubungan cm, m, km serta g dan kg.",
+    "Membandingkan dan menghitung pengukuran setelah menyamakan satuan."
+  ],
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b03-materi.md",
+    "sha256": "3cb16abaf250e533e69badf56c99f06f3ca9691665e8d2242cc4010311491e34"
+  },
+  "modules": [
+    {
+      "id": "K03-MTK-B03-MOD-01",
+      "version": "MOD-01",
+      "title": "Laboratorium Ukur yang Seru!",
+      "learning_objectives": [
+        "Memilih alat dan satuan baku untuk mengukur panjang dan massa benda.",
+        "Membaca pengukuran dan memahami hubungan cm, m, km serta g dan kg.",
+        "Membandingkan dan menghitung pengukuran setelah menyamakan satuan."
+      ],
+      "content": "# Laboratorium Ukur yang Seru!\n\nHalo, Peneliti Cilik! Pernah mengukur pensil, tinggi pintu, atau menimbang sebungkus beras? Agar semua orang memperoleh hasil yang sama, kita memakai **satuan baku**.\n\n## Panjang: ayo mulai dari nol\n\nPanjang pensil bisa diukur dengan penggaris, sedangkan panjang meja lebih mudah dengan meteran. Tempelkan ujung benda tepat di angka $0$ dan baca skala di ujung lainnya. Untuk benda kecil gunakan sentimeter atau $\\text{cm}$; untuk yang lebih besar, meter atau $\\text{m}$.\n\n![Dua pita diukur dengan skala sentimeter dari angka nol.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-materi-01.svg)\n\nIngat hubungan $1\\ \\text{m}=100\\ \\text{cm}$. Jadi $3\\ \\text{m}=300\\ \\text{cm}$. Untuk jarak antar-kota, kita dapat memakai kilometer; $1\\ \\text{km}=1000\\ \\text{m}$.\n\n## Berat atau massa benda\n\nDi pasar, beras dan buah ditimbang dengan timbangan. Dalam pelajaran sehari-hari, kita menyebutnya berat benda; alat ukur menunjukkan massa dalam gram ($\\text{g}$) atau kilogram ($\\text{kg}$).\n\n![Dua benda ditimbang dengan label gram yang bisa dibandingkan.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-materi-02.svg)\n\nSatu kilogram sama dengan $1000\\ \\text{g}$. Jika sebuah paket berisi $2\\ \\text{kg}$, itu berarti $2000\\ \\text{g}$. Kamu bisa membandingkan paket tanpa menebak dari ukuran kemasannya.\n\n**Tantangan:** Ukur pensilmu dengan penggaris, lalu catat dalam $\\text{cm}$. Diskusikan mengapa orang harus memakai satuan yang sama. Jangan mengangkat benda berat sendirian!"
+    },
+    {
+      "id": "K03-MTK-B03-MOD-02",
+      "version": "MOD-02",
+      "title": "Agen Ukur: Misi Pita dan Timbangan",
+      "learning_objectives": [
+        "Memilih alat dan satuan baku untuk mengukur panjang dan massa benda.",
+        "Membaca pengukuran dan memahami hubungan cm, m, km serta g dan kg.",
+        "Membandingkan dan menghitung pengukuran setelah menyamakan satuan."
+      ],
+      "content": "# Agen Ukur: Misi Pita dan Timbangan\n\nSelamat datang, Agen Ukur! Di meja ada penggaris, meteran, serta timbangan. Pilih alat yang tepat: **penggaris untuk pensil**, **meteran untuk meja**, dan **timbangan untuk bahan makanan**.\n\n## Misi pertama: dua pita\n\nPita biru panjangnya $8\\ \\text{cm}$ dan pita jingga $5\\ \\text{cm}$. Pita mana lebih panjang? Ya, pita biru! Selisihnya $8-5=3\\ \\text{cm}$. Perhatikan gambar, pastikan pengukuran dimulai dari $0$.\n\n![Perbandingan dua pita pada penggaris dalam satuan sentimeter.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-materi-01.svg)\n\nJika kamu punya pita sepanjang $2\\ \\text{m}$, berapa sentimeter? Karena $1\\ \\text{m}=100\\ \\text{cm}$, panjangnya $200\\ \\text{cm}$. Jarak jauh bisa ditulis dalam $\\text{km}$ dan $1\\ \\text{km}=1000\\ \\text{m}$.\n\n## Misi kedua: menimbang belanjaan\n\nBerapa gram dalam $1\\ \\text{kg}$? Betul, $1000\\ \\text{g}$. Dua bungkus beras masing-masing $1\\ \\text{kg}$ memiliki jumlah $2\\ \\text{kg}$ atau $2000\\ \\text{g}$.\n\n![Dua label massa benda dalam satuan gram.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b03-materi-02.svg)\n\n**Jebakan detektif:** Kotak besar belum tentu lebih berat daripada kotak kecil. Yang menentukan adalah hasil timbangan, bukan rupa kemasannya.\n\n## Coba sendiri\n\nCatat dua panjang benda di kelas dan hitung selisihnya dengan satuan yang sama. Lalu pilih satu benda di rumah yang biasa ditimbang dengan gram dan satu lagi dengan kilogram. Jelaskan pilihanmu kepada keluarga.\n\n**Catatan keamanan:** Pengukuran dan penimbangan dilakukan dengan alat yang aman, bersama pendamping jika diperlukan."
+    }
+  ]
+}

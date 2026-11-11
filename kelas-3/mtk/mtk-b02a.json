@@ -1,0 +1,373 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b02-soal-bergambar.md",
+    "sha256": "520d0cb8789cfe7b25e8a078a61e79796e00b94e4acbf4a0110c3b17a41c4d8f"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-MTK-B02",
+      "chapter_title": "Kalimat Matematika",
+      "questions": [
+        {
+          "id": "K03-MTK-B02-M01-051",
+          "type": "PG",
+          "text": "Berapakah nilai bagian bertanda $\\square$ pada diagram pita?",
+          "options": [
+            "$18$",
+            "$19$",
+            "$17$",
+            "$28$"
+          ],
+          "answer": "$18$",
+          "discussion": "$30-12=18$ karena jumlah sama dengan seluruh bagiannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-01.svg",
+            "alt": "Diagram pita jumlah 30, bagian diketahui 12, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-052",
+          "type": "PG",
+          "text": "Kalimat penjumlahan yang sesuai dengan gambar adalah ...",
+          "options": [
+            "$12-18=30$",
+            "$12+18=30$",
+            "$12+30=18$",
+            "$30+18=12$"
+          ],
+          "answer": "$12+18=30$",
+          "discussion": "Jumlah $30$, bagian pertama $12$, dan bagian kedua $18$; maka $12+18=30$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-01.svg",
+            "alt": "Diagram pita jumlah 30, bagian diketahui 12, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-053",
+          "type": "PG",
+          "text": "Berapakah nilai bagian bertanda $\\square$ pada diagram pita?",
+          "options": [
+            "$14$",
+            "$25$",
+            "$15$",
+            "$16$"
+          ],
+          "answer": "$15$",
+          "discussion": "$40-25=15$ karena jumlah sama dengan seluruh bagiannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-02.svg",
+            "alt": "Diagram pita jumlah 40, bagian diketahui 25, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-054",
+          "type": "PG",
+          "text": "Kalimat penjumlahan yang sesuai dengan gambar adalah ...",
+          "options": [
+            "$25+40=15$",
+            "$40+15=25$",
+            "$25-15=40$",
+            "$25+15=40$"
+          ],
+          "answer": "$25+15=40$",
+          "discussion": "Jumlah $40$, bagian pertama $25$, dan bagian kedua $15$; maka $25+15=40$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-02.svg",
+            "alt": "Diagram pita jumlah 40, bagian diketahui 25, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-055",
+          "type": "PG",
+          "text": "Berapakah nilai bagian bertanda $\\square$ pada diagram pita?",
+          "options": [
+            "$24$",
+            "$22$",
+            "$33$",
+            "$23$"
+          ],
+          "answer": "$23$",
+          "discussion": "$60-37=23$ karena jumlah sama dengan seluruh bagiannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-03.svg",
+            "alt": "Diagram pita jumlah 60, bagian diketahui 37, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-056",
+          "type": "PG",
+          "text": "Kalimat penjumlahan yang sesuai dengan gambar adalah ...",
+          "options": [
+            "$37+23=60$",
+            "$37+60=23$",
+            "$60+23=37$",
+            "$37-23=60$"
+          ],
+          "answer": "$37+23=60$",
+          "discussion": "Jumlah $60$, bagian pertama $37$, dan bagian kedua $23$; maka $37+23=60$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-03.svg",
+            "alt": "Diagram pita jumlah 60, bagian diketahui 37, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-057",
+          "type": "PG",
+          "text": "Berapakah nilai bagian bertanda $\\square$ pada diagram pita?",
+          "options": [
+            "$44$",
+            "$34$",
+            "$35$",
+            "$33$"
+          ],
+          "answer": "$34$",
+          "discussion": "$50-16=34$ karena jumlah sama dengan seluruh bagiannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-04.svg",
+            "alt": "Diagram pita jumlah 50, bagian diketahui 16, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-058",
+          "type": "PG",
+          "text": "Kalimat penjumlahan yang sesuai dengan gambar adalah ...",
+          "options": [
+            "$50+34=16$",
+            "$16-34=50$",
+            "$16+34=50$",
+            "$16+50=34$"
+          ],
+          "answer": "$16+34=50$",
+          "discussion": "Jumlah $50$, bagian pertama $16$, dan bagian kedua $34$; maka $16+34=50$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-04.svg",
+            "alt": "Diagram pita jumlah 50, bagian diketahui 16, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-059",
+          "type": "PG",
+          "text": "Berapakah nilai bagian bertanda $\\square$ pada diagram pita?",
+          "options": [
+            "$26$",
+            "$37$",
+            "$27$",
+            "$28$"
+          ],
+          "answer": "$27$",
+          "discussion": "$69-42=27$ karena jumlah sama dengan seluruh bagiannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-05.svg",
+            "alt": "Diagram pita jumlah 69, bagian diketahui 42, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-060",
+          "type": "PG",
+          "text": "Kalimat penjumlahan yang sesuai dengan gambar adalah ...",
+          "options": [
+            "$42+69=27$",
+            "$69+27=42$",
+            "$42-27=69$",
+            "$42+27=69$"
+          ],
+          "answer": "$42+27=69$",
+          "discussion": "Jumlah $69$, bagian pertama $42$, dan bagian kedua $27$; maka $42+27=69$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-05.svg",
+            "alt": "Diagram pita jumlah 69, bagian diketahui 42, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-061",
+          "type": "PG",
+          "text": "Berapakah nilai bagian bertanda $\\square$ pada diagram pita?",
+          "options": [
+            "$17$",
+            "$18$",
+            "$16$",
+            "$27$"
+          ],
+          "answer": "$17$",
+          "discussion": "$48-31=17$ karena jumlah sama dengan seluruh bagiannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-06.svg",
+            "alt": "Diagram pita jumlah 48, bagian diketahui 31, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-062",
+          "type": "PG",
+          "text": "Kalimat pengurangan yang sesuai dengan gambar adalah ...",
+          "options": [
+            "$17-31=48$",
+            "$48-31=17$",
+            "$31-48=17$",
+            "$48+31=17$"
+          ],
+          "answer": "$48-31=17$",
+          "discussion": "Jumlah $48$, bagian pertama $31$, dan bagian kedua $17$; maka $48-31=17$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-06.svg",
+            "alt": "Diagram pita jumlah 48, bagian diketahui 31, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-063",
+          "type": "PG",
+          "text": "Berapakah nilai bagian bertanda $\\square$ pada diagram pita?",
+          "options": [
+            "$29$",
+            "$19$",
+            "$20$",
+            "$18$"
+          ],
+          "answer": "$19$",
+          "discussion": "$64-45=19$ karena jumlah sama dengan seluruh bagiannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-07.svg",
+            "alt": "Diagram pita jumlah 64, bagian diketahui 45, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-064",
+          "type": "PG",
+          "text": "Kalimat pengurangan yang sesuai dengan gambar adalah ...",
+          "options": [
+            "$64+45=19$",
+            "$19-45=64$",
+            "$64-45=19$",
+            "$45-64=19$"
+          ],
+          "answer": "$64-45=19$",
+          "discussion": "Jumlah $64$, bagian pertama $45$, dan bagian kedua $19$; maka $64-45=19$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-07.svg",
+            "alt": "Diagram pita jumlah 64, bagian diketahui 45, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-065",
+          "type": "PG",
+          "text": "Berapakah nilai bagian bertanda $\\square$ pada diagram pita?",
+          "options": [
+            "$30$",
+            "$28$",
+            "$39$",
+            "$29$"
+          ],
+          "answer": "$29$",
+          "discussion": "$51-22=29$ karena jumlah sama dengan seluruh bagiannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-08.svg",
+            "alt": "Diagram pita jumlah 51, bagian diketahui 22, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-066",
+          "type": "PG",
+          "text": "Kalimat pengurangan yang sesuai dengan gambar adalah ...",
+          "options": [
+            "$51-22=29$",
+            "$22-51=29$",
+            "$51+22=29$",
+            "$29-22=51$"
+          ],
+          "answer": "$51-22=29$",
+          "discussion": "Jumlah $51$, bagian pertama $22$, dan bagian kedua $29$; maka $51-22=29$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-08.svg",
+            "alt": "Diagram pita jumlah 51, bagian diketahui 22, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-067",
+          "type": "PG",
+          "text": "Berapakah nilai bagian bertanda $\\square$ pada diagram pita?",
+          "options": [
+            "$25$",
+            "$26$",
+            "$24$",
+            "$35$"
+          ],
+          "answer": "$25$",
+          "discussion": "$61-36=25$ karena jumlah sama dengan seluruh bagiannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-09.svg",
+            "alt": "Diagram pita jumlah 61, bagian diketahui 36, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-068",
+          "type": "PG",
+          "text": "Kalimat pengurangan yang sesuai dengan gambar adalah ...",
+          "options": [
+            "$25-36=61$",
+            "$61-36=25$",
+            "$36-61=25$",
+            "$61+36=25$"
+          ],
+          "answer": "$61-36=25$",
+          "discussion": "Jumlah $61$, bagian pertama $36$, dan bagian kedua $25$; maka $61-36=25$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-09.svg",
+            "alt": "Diagram pita jumlah 61, bagian diketahui 36, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-069",
+          "type": "PG",
+          "text": "Berapakah nilai bagian bertanda $\\square$ pada diagram pita?",
+          "options": [
+            "$17$",
+            "$28$",
+            "$18$",
+            "$19$"
+          ],
+          "answer": "$18$",
+          "discussion": "$69-51=18$ karena jumlah sama dengan seluruh bagiannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-10.svg",
+            "alt": "Diagram pita jumlah 69, bagian diketahui 51, dan bagian lain belum diketahui."
+          }
+        },
+        {
+          "id": "K03-MTK-B02-M01-070",
+          "type": "PG",
+          "text": "Kalimat pengurangan yang sesuai dengan gambar adalah ...",
+          "options": [
+            "$51-69=18$",
+            "$69+51=18$",
+            "$18-51=69$",
+            "$69-51=18$"
+          ],
+          "answer": "$69-51=18$",
+          "discussion": "Jumlah $69$, bagian pertama $51$, dan bagian kedua $18$; maka $69-51=18$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b02-gambar-10.svg",
+            "alt": "Diagram pita jumlah 69, bagian diketahui 51, dan bagian lain belum diketahui."
+          }
+        }
+      ]
+    }
+  ]
+}

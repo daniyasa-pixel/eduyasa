@@ -1,0 +1,683 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b03-soal-biasa.md",
+    "sha256": "9fb506d398f7bff67236db1dfb1b763d1e0d896d25f98df024cc9153005db482"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-MTK-B03",
+      "chapter_title": "Pengukuran Panjang dan Berat",
+      "questions": [
+        {
+          "id": "K03-MTK-B03-M01-001",
+          "type": "PG",
+          "text": "Alat untuk mengukur panjang meja secara tepat adalah ...",
+          "options": [
+            "meteran",
+            "timbangan",
+            "termometer",
+            "jam dinding"
+          ],
+          "answer": "meteran",
+          "discussion": "Meteran mengukur panjang."
+        },
+        {
+          "id": "K03-MTK-B03-M01-002",
+          "type": "PG",
+          "text": "Alat yang cocok untuk mengukur panjang pensil adalah ...",
+          "options": [
+            "kompas",
+            "penggaris",
+            "timbangan",
+            "gelas ukur"
+          ],
+          "answer": "penggaris",
+          "discussion": "Penggaris memiliki skala panjang pendek."
+        },
+        {
+          "id": "K03-MTK-B03-M01-003",
+          "type": "PG",
+          "text": "Alat untuk menimbang beras adalah ...",
+          "options": [
+            "meteran",
+            "busur derajat",
+            "timbangan",
+            "penggaris"
+          ],
+          "answer": "timbangan",
+          "discussion": "Timbangan digunakan mengukur massa atau berat benda dalam konteks sekolah."
+        },
+        {
+          "id": "K03-MTK-B03-M01-004",
+          "type": "PG",
+          "text": "Satuan yang lebih sesuai untuk panjang buku tulis adalah ...",
+          "options": [
+            "$\\text{kg}$",
+            "$\\text{g}$",
+            "$\\text{L}$",
+            "$\\text{cm}$"
+          ],
+          "answer": "$\\text{cm}$",
+          "discussion": "Panjang buku biasanya diukur sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-005",
+          "type": "PG",
+          "text": "Satuan yang lebih sesuai untuk jarak antar-kota adalah ...",
+          "options": [
+            "$\\text{g}$",
+            "$\\text{cm}$",
+            "$\\text{kg}$",
+            "$\\text{km}$"
+          ],
+          "answer": "$\\text{km}$",
+          "discussion": "Jarak sangat jauh biasa memakai kilometer."
+        },
+        {
+          "id": "K03-MTK-B03-M01-006",
+          "type": "PG",
+          "text": "Satuan yang cocok untuk tinggi pintu adalah ...",
+          "options": [
+            "$\\text{m}$",
+            "$\\text{g}$",
+            "$\\text{kg}$",
+            "$\\text{mm}$"
+          ],
+          "answer": "$\\text{m}$",
+          "discussion": "Tinggi pintu biasa sekitar dua meter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-007",
+          "type": "PG",
+          "text": "Satuan yang sesuai untuk massa sebuah apel adalah ...",
+          "options": [
+            "$\\text{cm}$",
+            "$\\text{g}$",
+            "$\\text{km}$",
+            "$\\text{m}$"
+          ],
+          "answer": "$\\text{g}$",
+          "discussion": "Buah kecil lebih cocok ditimbang dalam gram."
+        },
+        {
+          "id": "K03-MTK-B03-M01-008",
+          "type": "PG",
+          "text": "Satuan yang sesuai untuk massa sekarung beras adalah ...",
+          "options": [
+            "$\\text{cm}$",
+            "$\\text{m}$",
+            "$\\text{kg}$",
+            "$\\text{km}$"
+          ],
+          "answer": "$\\text{kg}$",
+          "discussion": "Benda yang cukup berat dapat diukur kilogram."
+        },
+        {
+          "id": "K03-MTK-B03-M01-009",
+          "type": "PG",
+          "text": "Saat mengukur dengan penggaris, ujung benda sebaiknya diletakkan pada tanda ...",
+          "options": [
+            "$5$",
+            "$10$",
+            "$0$",
+            "$1$"
+          ],
+          "answer": "$0$",
+          "discussion": "Pengukuran dimulai dari tanda nol."
+        },
+        {
+          "id": "K03-MTK-B03-M01-010",
+          "type": "PG",
+          "text": "Ketika membaca hasil pengukuran, posisi mata sebaiknya ...",
+          "options": [
+            "jauh di samping",
+            "dari belakang benda",
+            "menutup angka skala",
+            "sejajar dengan skala"
+          ],
+          "answer": "sejajar dengan skala",
+          "discussion": "Membaca sejajar skala mengurangi kesalahan."
+        },
+        {
+          "id": "K03-MTK-B03-M01-011",
+          "type": "PG",
+          "text": "$2\\ \\text{m}$ sama dengan berapa sentimeter?",
+          "options": [
+            "$200\\ \\text{cm}$",
+            "$300\\ \\text{cm}$",
+            "$100\\ \\text{cm}$",
+            "$210\\ \\text{cm}$"
+          ],
+          "answer": "$200\\ \\text{cm}$",
+          "discussion": "$1\\ \\text{m}=100\\ \\text{cm}$, jadi $2\\times100=200$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-012",
+          "type": "PG",
+          "text": "$3\\ \\text{m}$ sama dengan berapa sentimeter?",
+          "options": [
+            "$310\\ \\text{cm}$",
+            "$300\\ \\text{cm}$",
+            "$400\\ \\text{cm}$",
+            "$200\\ \\text{cm}$"
+          ],
+          "answer": "$300\\ \\text{cm}$",
+          "discussion": "$1\\ \\text{m}=100\\ \\text{cm}$, jadi $3\\times100=300$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-013",
+          "type": "PG",
+          "text": "$5\\ \\text{m}$ sama dengan berapa sentimeter?",
+          "options": [
+            "$510\\ \\text{cm}$",
+            "$500\\ \\text{cm}$",
+            "$600\\ \\text{cm}$",
+            "$400\\ \\text{cm}$"
+          ],
+          "answer": "$500\\ \\text{cm}$",
+          "discussion": "$1\\ \\text{m}=100\\ \\text{cm}$, jadi $5\\times100=500$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-014",
+          "type": "PG",
+          "text": "$7\\ \\text{m}$ sama dengan berapa sentimeter?",
+          "options": [
+            "$600\\ \\text{cm}$",
+            "$710\\ \\text{cm}$",
+            "$700\\ \\text{cm}$",
+            "$800\\ \\text{cm}$"
+          ],
+          "answer": "$700\\ \\text{cm}$",
+          "discussion": "$1\\ \\text{m}=100\\ \\text{cm}$, jadi $7\\times100=700$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-015",
+          "type": "PG",
+          "text": "$9\\ \\text{m}$ sama dengan berapa sentimeter?",
+          "options": [
+            "$1000\\ \\text{cm}$",
+            "$800\\ \\text{cm}$",
+            "$910\\ \\text{cm}$",
+            "$900\\ \\text{cm}$"
+          ],
+          "answer": "$900\\ \\text{cm}$",
+          "discussion": "$1\\ \\text{m}=100\\ \\text{cm}$, jadi $9\\times100=900$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-016",
+          "type": "PG",
+          "text": "$300\\ \\text{cm}$ sama dengan berapa meter?",
+          "options": [
+            "$3\\ \\text{m}$",
+            "$4\\ \\text{m}$",
+            "$2\\ \\text{m}$",
+            "$5\\ \\text{m}$"
+          ],
+          "answer": "$3\\ \\text{m}$",
+          "discussion": "Karena $100\\ \\text{cm}=1\\ \\text{m}$, maka $300\\ \\text{cm}$ sama dengan $3\\ \\text{m}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-017",
+          "type": "PG",
+          "text": "$400\\ \\text{cm}$ sama dengan berapa meter?",
+          "options": [
+            "$4\\ \\text{m}$",
+            "$5\\ \\text{m}$",
+            "$3\\ \\text{m}$",
+            "$6\\ \\text{m}$"
+          ],
+          "answer": "$4\\ \\text{m}$",
+          "discussion": "Karena $100\\ \\text{cm}=1\\ \\text{m}$, maka $400\\ \\text{cm}$ sama dengan $4\\ \\text{m}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-018",
+          "type": "PG",
+          "text": "$600\\ \\text{cm}$ sama dengan berapa meter?",
+          "options": [
+            "$8\\ \\text{m}$",
+            "$6\\ \\text{m}$",
+            "$7\\ \\text{m}$",
+            "$5\\ \\text{m}$"
+          ],
+          "answer": "$6\\ \\text{m}$",
+          "discussion": "Karena $100\\ \\text{cm}=1\\ \\text{m}$, maka $600\\ \\text{cm}$ sama dengan $6\\ \\text{m}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-019",
+          "type": "PG",
+          "text": "$800\\ \\text{cm}$ sama dengan berapa meter?",
+          "options": [
+            "$7\\ \\text{m}$",
+            "$10\\ \\text{m}$",
+            "$8\\ \\text{m}$",
+            "$9\\ \\text{m}$"
+          ],
+          "answer": "$8\\ \\text{m}$",
+          "discussion": "Karena $100\\ \\text{cm}=1\\ \\text{m}$, maka $800\\ \\text{cm}$ sama dengan $8\\ \\text{m}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-020",
+          "type": "PG",
+          "text": "$900\\ \\text{cm}$ sama dengan berapa meter?",
+          "options": [
+            "$10\\ \\text{m}$",
+            "$8\\ \\text{m}$",
+            "$11\\ \\text{m}$",
+            "$9\\ \\text{m}$"
+          ],
+          "answer": "$9\\ \\text{m}$",
+          "discussion": "Karena $100\\ \\text{cm}=1\\ \\text{m}$, maka $900\\ \\text{cm}$ sama dengan $9\\ \\text{m}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-021",
+          "type": "PG",
+          "text": "$2\\ \\text{kg}$ setara dengan berapa gram?",
+          "options": [
+            "$3000\\ \\text{g}$",
+            "$1000\\ \\text{g}$",
+            "$2100\\ \\text{g}$",
+            "$2000\\ \\text{g}$"
+          ],
+          "answer": "$2000\\ \\text{g}$",
+          "discussion": "$1\\ \\text{kg}=1000\\ \\text{g}$. Jadi $2\\ \\text{kg}$ = $2000\\ \\text{g}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-022",
+          "type": "PG",
+          "text": "$3\\ \\text{kg}$ setara dengan berapa gram?",
+          "options": [
+            "$3000\\ \\text{g}$",
+            "$4000\\ \\text{g}$",
+            "$2000\\ \\text{g}$",
+            "$3100\\ \\text{g}$"
+          ],
+          "answer": "$3000\\ \\text{g}$",
+          "discussion": "$1\\ \\text{kg}=1000\\ \\text{g}$. Jadi $3\\ \\text{kg}$ = $3000\\ \\text{g}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-023",
+          "type": "PG",
+          "text": "$4\\ \\text{kg}$ setara dengan berapa gram?",
+          "options": [
+            "$4100\\ \\text{g}$",
+            "$4000\\ \\text{g}$",
+            "$5000\\ \\text{g}$",
+            "$3000\\ \\text{g}$"
+          ],
+          "answer": "$4000\\ \\text{g}$",
+          "discussion": "$1\\ \\text{kg}=1000\\ \\text{g}$. Jadi $4\\ \\text{kg}$ = $4000\\ \\text{g}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-024",
+          "type": "PG",
+          "text": "$5\\ \\text{kg}$ setara dengan berapa gram?",
+          "options": [
+            "$4000\\ \\text{g}$",
+            "$5100\\ \\text{g}$",
+            "$5000\\ \\text{g}$",
+            "$6000\\ \\text{g}$"
+          ],
+          "answer": "$5000\\ \\text{g}$",
+          "discussion": "$1\\ \\text{kg}=1000\\ \\text{g}$. Jadi $5\\ \\text{kg}$ = $5000\\ \\text{g}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-025",
+          "type": "PG",
+          "text": "$7\\ \\text{kg}$ setara dengan berapa gram?",
+          "options": [
+            "$6000\\ \\text{g}$",
+            "$7100\\ \\text{g}$",
+            "$7000\\ \\text{g}$",
+            "$8000\\ \\text{g}$"
+          ],
+          "answer": "$7000\\ \\text{g}$",
+          "discussion": "$1\\ \\text{kg}=1000\\ \\text{g}$. Jadi $7\\ \\text{kg}$ = $7000\\ \\text{g}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-026",
+          "type": "PG",
+          "text": "$1000\\ \\text{g}$ berapa kilogram?",
+          "options": [
+            "$2\\ \\text{kg}$",
+            "$0\\ \\text{kg}$",
+            "$3\\ \\text{kg}$",
+            "$1\\ \\text{kg}$"
+          ],
+          "answer": "$1\\ \\text{kg}$",
+          "discussion": "$1000\\ \\text{g}$ dibagi $1000$ sehingga menjadi $1\\ \\text{kg}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-027",
+          "type": "PG",
+          "text": "$2000\\ \\text{g}$ berapa kilogram?",
+          "options": [
+            "$2\\ \\text{kg}$",
+            "$3\\ \\text{kg}$",
+            "$1\\ \\text{kg}$",
+            "$4\\ \\text{kg}$"
+          ],
+          "answer": "$2\\ \\text{kg}$",
+          "discussion": "$2000\\ \\text{g}$ dibagi $1000$ sehingga menjadi $2\\ \\text{kg}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-028",
+          "type": "PG",
+          "text": "$3000\\ \\text{g}$ berapa kilogram?",
+          "options": [
+            "$5\\ \\text{kg}$",
+            "$3\\ \\text{kg}$",
+            "$4\\ \\text{kg}$",
+            "$2\\ \\text{kg}$"
+          ],
+          "answer": "$3\\ \\text{kg}$",
+          "discussion": "$3000\\ \\text{g}$ dibagi $1000$ sehingga menjadi $3\\ \\text{kg}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-029",
+          "type": "PG",
+          "text": "$5000\\ \\text{g}$ berapa kilogram?",
+          "options": [
+            "$7\\ \\text{kg}$",
+            "$5\\ \\text{kg}$",
+            "$6\\ \\text{kg}$",
+            "$4\\ \\text{kg}$"
+          ],
+          "answer": "$5\\ \\text{kg}$",
+          "discussion": "$5000\\ \\text{g}$ dibagi $1000$ sehingga menjadi $5\\ \\text{kg}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-030",
+          "type": "PG",
+          "text": "$6000\\ \\text{g}$ berapa kilogram?",
+          "options": [
+            "$5\\ \\text{kg}$",
+            "$8\\ \\text{kg}$",
+            "$6\\ \\text{kg}$",
+            "$7\\ \\text{kg}$"
+          ],
+          "answer": "$6\\ \\text{kg}$",
+          "discussion": "$6000\\ \\text{g}$ dibagi $1000$ sehingga menjadi $6\\ \\text{kg}$."
+        },
+        {
+          "id": "K03-MTK-B03-M01-031",
+          "type": "PG",
+          "text": "Tali biru $18\\ \\text{cm}$ dan tali merah $12\\ \\text{cm}$. Berapa selisih panjangnya?",
+          "options": [
+            "$7\\ \\text{cm}$",
+            "$5\\ \\text{cm}$",
+            "$8\\ \\text{cm}$",
+            "$6\\ \\text{cm}$"
+          ],
+          "answer": "$6\\ \\text{cm}$",
+          "discussion": "$18-12=6$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-032",
+          "type": "PG",
+          "text": "Tali biru $24\\ \\text{cm}$ dan tali merah $17\\ \\text{cm}$. Berapa selisih panjangnya?",
+          "options": [
+            "$7\\ \\text{cm}$",
+            "$8\\ \\text{cm}$",
+            "$6\\ \\text{cm}$",
+            "$9\\ \\text{cm}$"
+          ],
+          "answer": "$7\\ \\text{cm}$",
+          "discussion": "$24-17=7$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-033",
+          "type": "PG",
+          "text": "Tali biru $35\\ \\text{cm}$ dan tali merah $26\\ \\text{cm}$. Berapa selisih panjangnya?",
+          "options": [
+            "$9\\ \\text{cm}$",
+            "$10\\ \\text{cm}$",
+            "$8\\ \\text{cm}$",
+            "$11\\ \\text{cm}$"
+          ],
+          "answer": "$9\\ \\text{cm}$",
+          "discussion": "$35-26=9$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-034",
+          "type": "PG",
+          "text": "Tali biru $42\\ \\text{cm}$ dan tali merah $29\\ \\text{cm}$. Berapa selisih panjangnya?",
+          "options": [
+            "$15\\ \\text{cm}$",
+            "$13\\ \\text{cm}$",
+            "$14\\ \\text{cm}$",
+            "$12\\ \\text{cm}$"
+          ],
+          "answer": "$13\\ \\text{cm}$",
+          "discussion": "$42-29=13$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-035",
+          "type": "PG",
+          "text": "Tali biru $30\\ \\text{cm}$ dan tali merah $18\\ \\text{cm}$. Berapa selisih panjangnya?",
+          "options": [
+            "$11\\ \\text{cm}$",
+            "$14\\ \\text{cm}$",
+            "$12\\ \\text{cm}$",
+            "$13\\ \\text{cm}$"
+          ],
+          "answer": "$12\\ \\text{cm}$",
+          "discussion": "$30-18=12$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-036",
+          "type": "PG",
+          "text": "Massa dua bungkus masing-masing $450\\ \\text{g}$ dan $275\\ \\text{g}$. Berapa total massanya?",
+          "options": [
+            "$735\\ \\text{g}$",
+            "$715\\ \\text{g}$",
+            "$825\\ \\text{g}$",
+            "$725\\ \\text{g}$"
+          ],
+          "answer": "$725\\ \\text{g}$",
+          "discussion": "Jumlahkan $450+275=725$ gram."
+        },
+        {
+          "id": "K03-MTK-B03-M01-037",
+          "type": "PG",
+          "text": "Massa dua bungkus masing-masing $600\\ \\text{g}$ dan $320\\ \\text{g}$. Berapa total massanya?",
+          "options": [
+            "$930\\ \\text{g}$",
+            "$910\\ \\text{g}$",
+            "$1020\\ \\text{g}$",
+            "$920\\ \\text{g}$"
+          ],
+          "answer": "$920\\ \\text{g}$",
+          "discussion": "Jumlahkan $600+320=920$ gram."
+        },
+        {
+          "id": "K03-MTK-B03-M01-038",
+          "type": "PG",
+          "text": "Massa dua bungkus masing-masing $750\\ \\text{g}$ dan $425\\ \\text{g}$. Berapa total massanya?",
+          "options": [
+            "$1175\\ \\text{g}$",
+            "$1185\\ \\text{g}$",
+            "$1165\\ \\text{g}$",
+            "$1275\\ \\text{g}$"
+          ],
+          "answer": "$1175\\ \\text{g}$",
+          "discussion": "Jumlahkan $750+425=1175$ gram."
+        },
+        {
+          "id": "K03-MTK-B03-M01-039",
+          "type": "PG",
+          "text": "Massa dua bungkus masing-masing $900\\ \\text{g}$ dan $560\\ \\text{g}$. Berapa total massanya?",
+          "options": [
+            "$1560\\ \\text{g}$",
+            "$1460\\ \\text{g}$",
+            "$1470\\ \\text{g}$",
+            "$1450\\ \\text{g}$"
+          ],
+          "answer": "$1460\\ \\text{g}$",
+          "discussion": "Jumlahkan $900+560=1460$ gram."
+        },
+        {
+          "id": "K03-MTK-B03-M01-040",
+          "type": "PG",
+          "text": "Massa dua bungkus masing-masing $820\\ \\text{g}$ dan $440\\ \\text{g}$. Berapa total massanya?",
+          "options": [
+            "$1250\\ \\text{g}$",
+            "$1360\\ \\text{g}$",
+            "$1260\\ \\text{g}$",
+            "$1270\\ \\text{g}$"
+          ],
+          "answer": "$1260\\ \\text{g}$",
+          "discussion": "Jumlahkan $820+440=1260$ gram."
+        },
+        {
+          "id": "K03-MTK-B03-M01-041",
+          "type": "PG",
+          "text": "Sebuah pensil panjangnya $14\\ \\text{cm}$ dan penghapus $6\\ \\text{cm}$. Berapa jumlah panjang keduanya?",
+          "options": [
+            "$19\\ \\text{cm}$",
+            "$25\\ \\text{cm}$",
+            "$20\\ \\text{cm}$",
+            "$21\\ \\text{cm}$"
+          ],
+          "answer": "$20\\ \\text{cm}$",
+          "discussion": "Jumlah panjang $14+6=20$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-042",
+          "type": "PG",
+          "text": "Pita $90\\ \\text{cm}$ dipotong $35\\ \\text{cm}$. Berapa panjang sisa pita?",
+          "options": [
+            "$56\\ \\text{cm}$",
+            "$54\\ \\text{cm}$",
+            "$60\\ \\text{cm}$",
+            "$55\\ \\text{cm}$"
+          ],
+          "answer": "$55\\ \\text{cm}$",
+          "discussion": "Sisa $90-35=55$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-043",
+          "type": "PG",
+          "text": "Satu tas bermassa $2\\ \\text{kg}$ dan satu koper kecil $3\\ \\text{kg}$. Berapa massa keduanya?",
+          "options": [
+            "$5\\ \\text{kg}$",
+            "$6\\ \\text{kg}$",
+            "$4\\ \\text{kg}$",
+            "$10\\ \\text{kg}$"
+          ],
+          "answer": "$5\\ \\text{kg}$",
+          "discussion": "Jumlah $2+3=5$ kilogram."
+        },
+        {
+          "id": "K03-MTK-B03-M01-044",
+          "type": "PG",
+          "text": "Tepung $5\\ \\text{kg}$ dipakai $2\\ \\text{kg}$. Berapa kg tersisa?",
+          "options": [
+            "$8\\ \\text{kg}$",
+            "$3\\ \\text{kg}$",
+            "$4\\ \\text{kg}$",
+            "$2\\ \\text{kg}$"
+          ],
+          "answer": "$3\\ \\text{kg}$",
+          "discussion": "Sisa $5-2=3$ kilogram."
+        },
+        {
+          "id": "K03-MTK-B03-M01-045",
+          "type": "PG",
+          "text": "Dua batang kayu masing-masing $27\\ \\text{cm}$ dan $33\\ \\text{cm}$ disambungkan. Berapa panjang totalnya?",
+          "options": [
+            "$65\\ \\text{cm}$",
+            "$60\\ \\text{cm}$",
+            "$61\\ \\text{cm}$",
+            "$59\\ \\text{cm}$"
+          ],
+          "answer": "$60\\ \\text{cm}$",
+          "discussion": "Panjang total $27+33=60$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-046",
+          "type": "PG",
+          "text": "Jarak rumah ke sekolah $1\\ \\text{km}$ dan sekolah ke taman $2\\ \\text{km}$. Berapa km seluruh perjalanan searah itu?",
+          "options": [
+            "$2\\ \\text{km}$",
+            "$8\\ \\text{km}$",
+            "$3\\ \\text{km}$",
+            "$4\\ \\text{km}$"
+          ],
+          "answer": "$3\\ \\text{km}$",
+          "discussion": "Jarak total $1+2=3$ kilometer."
+        },
+        {
+          "id": "K03-MTK-B03-M01-047",
+          "type": "PG",
+          "text": "Buah dalam tas bermassa $350\\ \\text{g}$, lalu ditambah buah $250\\ \\text{g}$. Berapa massa buah semuanya?",
+          "options": [
+            "$601\\ \\text{g}$",
+            "$599\\ \\text{g}$",
+            "$605\\ \\text{g}$",
+            "$600\\ \\text{g}$"
+          ],
+          "answer": "$600\\ \\text{g}$",
+          "discussion": "Total $350+250=600$ gram."
+        },
+        {
+          "id": "K03-MTK-B03-M01-048",
+          "type": "PG",
+          "text": "Dari gula $800\\ \\text{g}$ digunakan $375\\ \\text{g}$. Berapa gram gula yang tersisa?",
+          "options": [
+            "$425\\ \\text{g}$",
+            "$426\\ \\text{g}$",
+            "$424\\ \\text{g}$",
+            "$430\\ \\text{g}$"
+          ],
+          "answer": "$425\\ \\text{g}$",
+          "discussion": "Sisa $800-375=425$ gram."
+        },
+        {
+          "id": "K03-MTK-B03-M01-049",
+          "type": "PG",
+          "text": "Rani membaca skala $0\\ \\text{cm}$ hingga $12\\ \\text{cm}$ pada penggaris. Berapa panjang benda?",
+          "options": [
+            "$12\\ \\text{cm}$",
+            "$13\\ \\text{cm}$",
+            "$11\\ \\text{cm}$",
+            "$17\\ \\text{cm}$"
+          ],
+          "answer": "$12\\ \\text{cm}$",
+          "discussion": "Selisih $12-0=12$ sentimeter."
+        },
+        {
+          "id": "K03-MTK-B03-M01-050",
+          "type": "PG",
+          "text": "Panjang lapangan kecil $25\\ \\text{m}$ dan lebarnya $15\\ \\text{m}$. Berapa selisih panjang dan lebar?",
+          "options": [
+            "$15\\ \\text{m}$",
+            "$10\\ \\text{m}$",
+            "$11\\ \\text{m}$",
+            "$9\\ \\text{m}$"
+          ],
+          "answer": "$10\\ \\text{m}$",
+          "discussion": "Selisih $25-15=10$ meter."
+        }
+      ]
+    }
+  ]
+}

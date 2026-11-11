@@ -1,0 +1,683 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b04-soal-biasa.md",
+    "sha256": "9fd02a81ce856a8b4870f060926d87c7e929f5d77e6ff056066e2ac93c5ef8f7"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-MTK-B04",
+      "chapter_title": "Unsur-Unsur Bangun Datar",
+      "questions": [
+        {
+          "id": "K03-MTK-B04-M01-001",
+          "type": "PG",
+          "text": "Bagian batas bangun datar yang berupa ruas garis disebut ...",
+          "options": [
+            "sisi",
+            "massa",
+            "suhu",
+            "warna"
+          ],
+          "answer": "sisi",
+          "discussion": "Sisi membatasi bentuk bangun datar."
+        },
+        {
+          "id": "K03-MTK-B04-M01-002",
+          "type": "PG",
+          "text": "Titik pertemuan dua sisi bangun bersudut disebut ...",
+          "options": [
+            "suhu",
+            "titik sudut",
+            "titik massa",
+            "satuan berat"
+          ],
+          "answer": "titik sudut",
+          "discussion": "Titik sudut terletak di pertemuan dua sisi."
+        },
+        {
+          "id": "K03-MTK-B04-M01-003",
+          "type": "PG",
+          "text": "Bagian yang terbentuk ketika dua kaki sudut bertemu disebut ...",
+          "options": [
+            "volume",
+            "massa",
+            "sudut",
+            "berat"
+          ],
+          "answer": "sudut",
+          "discussion": "Sudut merupakan bukaan di antara dua kaki sudut."
+        },
+        {
+          "id": "K03-MTK-B04-M01-004",
+          "type": "PG",
+          "text": "Garis yang memiliki dua titik ujung disebut ...",
+          "options": [
+            "garis tak berujung",
+            "sinar garis",
+            "lingkaran",
+            "ruas garis"
+          ],
+          "answer": "ruas garis",
+          "discussion": "Ruas garis punya dua titik ujung."
+        },
+        {
+          "id": "K03-MTK-B04-M01-005",
+          "type": "PG",
+          "text": "Sinar garis dapat diperpanjang ...",
+          "options": [
+            "ke dua arah",
+            "tidak ke mana-mana",
+            "hanya melengkung",
+            "ke satu arah"
+          ],
+          "answer": "ke satu arah",
+          "discussion": "Sinar garis memiliki satu titik awal dan memanjang satu arah."
+        },
+        {
+          "id": "K03-MTK-B04-M01-006",
+          "type": "PG",
+          "text": "Garis lurus dapat diperpanjang ...",
+          "options": [
+            "ke dua arah",
+            "ke satu arah saja",
+            "tidak bisa diperpanjang",
+            "hanya ke atas"
+          ],
+          "answer": "ke dua arah",
+          "discussion": "Garis tidak memiliki ujung dan dapat diperpanjang dua arah."
+        },
+        {
+          "id": "K03-MTK-B04-M01-007",
+          "type": "PG",
+          "text": "Dua garis yang berpotongan membentuk sudut siku-siku disebut ...",
+          "options": [
+            "berimpit",
+            "tegak lurus",
+            "sejajar",
+            "melengkung"
+          ],
+          "answer": "tegak lurus",
+          "discussion": "Garis tegak lurus membentuk sudut siku-siku."
+        },
+        {
+          "id": "K03-MTK-B04-M01-008",
+          "type": "PG",
+          "text": "Dua garis sejajar pada suatu bidang jika diperpanjang akan ...",
+          "options": [
+            "membentuk satu titik akhir",
+            "selalu melengkung",
+            "tidak berpotongan",
+            "selalu membentuk sudut siku-siku"
+          ],
+          "answer": "tidak berpotongan",
+          "discussion": "Garis sejajar tetap berjarak dan tidak berpotongan."
+        },
+        {
+          "id": "K03-MTK-B04-M01-009",
+          "type": "PG",
+          "text": "Sudut siku-siku besarnya adalah ...",
+          "options": [
+            "$180^{\\circ}$",
+            "$120^{\\circ}$",
+            "$90^{\\circ}$",
+            "$45^{\\circ}$"
+          ],
+          "answer": "$90^{\\circ}$",
+          "discussion": "Sudut siku-siku bernilai 90 derajat."
+        },
+        {
+          "id": "K03-MTK-B04-M01-010",
+          "type": "PG",
+          "text": "Sudut lurus besarnya adalah ...",
+          "options": [
+            "$90^{\\circ}$",
+            "$45^{\\circ}$",
+            "$60^{\\circ}$",
+            "$180^{\\circ}$"
+          ],
+          "answer": "$180^{\\circ}$",
+          "discussion": "Sudut lurus adalah setengah putaran sebesar 180 derajat."
+        },
+        {
+          "id": "K03-MTK-B04-M01-011",
+          "type": "PG",
+          "text": "Banyak sisi bangun segitiga adalah ...",
+          "options": [
+            "$3$",
+            "$4$",
+            "$2$",
+            "$5$"
+          ],
+          "answer": "$3$",
+          "discussion": "segitiga memiliki $3$ sisi."
+        },
+        {
+          "id": "K03-MTK-B04-M01-012",
+          "type": "PG",
+          "text": "Banyak sisi bangun persegi adalah ...",
+          "options": [
+            "$6$",
+            "$4$",
+            "$5$",
+            "$3$"
+          ],
+          "answer": "$4$",
+          "discussion": "persegi memiliki $4$ sisi."
+        },
+        {
+          "id": "K03-MTK-B04-M01-013",
+          "type": "PG",
+          "text": "Banyak sisi bangun persegi panjang adalah ...",
+          "options": [
+            "$6$",
+            "$4$",
+            "$5$",
+            "$3$"
+          ],
+          "answer": "$4$",
+          "discussion": "persegi panjang memiliki $4$ sisi."
+        },
+        {
+          "id": "K03-MTK-B04-M01-014",
+          "type": "PG",
+          "text": "Banyak sisi bangun segi lima adalah ...",
+          "options": [
+            "$4$",
+            "$7$",
+            "$5$",
+            "$6$"
+          ],
+          "answer": "$5$",
+          "discussion": "segi lima memiliki $5$ sisi."
+        },
+        {
+          "id": "K03-MTK-B04-M01-015",
+          "type": "PG",
+          "text": "Banyak sisi bangun segi enam adalah ...",
+          "options": [
+            "$7$",
+            "$5$",
+            "$8$",
+            "$6$"
+          ],
+          "answer": "$6$",
+          "discussion": "segi enam memiliki $6$ sisi."
+        },
+        {
+          "id": "K03-MTK-B04-M01-016",
+          "type": "PG",
+          "text": "Banyak titik sudut bangun segitiga adalah ...",
+          "options": [
+            "$3$",
+            "$4$",
+            "$2$",
+            "$5$"
+          ],
+          "answer": "$3$",
+          "discussion": "segitiga memiliki $3$ titik sudut."
+        },
+        {
+          "id": "K03-MTK-B04-M01-017",
+          "type": "PG",
+          "text": "Banyak titik sudut bangun persegi adalah ...",
+          "options": [
+            "$4$",
+            "$5$",
+            "$3$",
+            "$6$"
+          ],
+          "answer": "$4$",
+          "discussion": "persegi memiliki $4$ titik sudut."
+        },
+        {
+          "id": "K03-MTK-B04-M01-018",
+          "type": "PG",
+          "text": "Banyak titik sudut bangun persegi panjang adalah ...",
+          "options": [
+            "$6$",
+            "$4$",
+            "$5$",
+            "$3$"
+          ],
+          "answer": "$4$",
+          "discussion": "persegi panjang memiliki $4$ titik sudut."
+        },
+        {
+          "id": "K03-MTK-B04-M01-019",
+          "type": "PG",
+          "text": "Banyak titik sudut bangun segi lima adalah ...",
+          "options": [
+            "$4$",
+            "$7$",
+            "$5$",
+            "$6$"
+          ],
+          "answer": "$5$",
+          "discussion": "segi lima memiliki $5$ titik sudut."
+        },
+        {
+          "id": "K03-MTK-B04-M01-020",
+          "type": "PG",
+          "text": "Banyak titik sudut bangun segi enam adalah ...",
+          "options": [
+            "$7$",
+            "$5$",
+            "$8$",
+            "$6$"
+          ],
+          "answer": "$6$",
+          "discussion": "segi enam memiliki $6$ titik sudut."
+        },
+        {
+          "id": "K03-MTK-B04-M01-021",
+          "type": "PG",
+          "text": "Sudut berukuran $35^{\\circ}$ termasuk sudut ...",
+          "options": [
+            "siku-siku",
+            "tumpul",
+            "lurus",
+            "lancip"
+          ],
+          "answer": "lancip",
+          "discussion": "Sudut $35^{\\circ}$ adalah lancip, karena dibandingkan dengan $90^{\\circ}$ dan $180^{\\circ}$."
+        },
+        {
+          "id": "K03-MTK-B04-M01-022",
+          "type": "PG",
+          "text": "Sudut berukuran $60^{\\circ}$ termasuk sudut ...",
+          "options": [
+            "lancip",
+            "siku-siku",
+            "tumpul",
+            "lurus"
+          ],
+          "answer": "lancip",
+          "discussion": "Sudut $60^{\\circ}$ adalah lancip, karena dibandingkan dengan $90^{\\circ}$ dan $180^{\\circ}$."
+        },
+        {
+          "id": "K03-MTK-B04-M01-023",
+          "type": "PG",
+          "text": "Sudut berukuran $90^{\\circ}$ termasuk sudut ...",
+          "options": [
+            "lurus",
+            "siku-siku",
+            "lancip",
+            "tumpul"
+          ],
+          "answer": "siku-siku",
+          "discussion": "Sudut $90^{\\circ}$ adalah siku-siku, karena dibandingkan dengan $90^{\\circ}$ dan $180^{\\circ}$."
+        },
+        {
+          "id": "K03-MTK-B04-M01-024",
+          "type": "PG",
+          "text": "Sudut berukuran $115^{\\circ}$ termasuk sudut ...",
+          "options": [
+            "siku-siku",
+            "lurus",
+            "tumpul",
+            "lancip"
+          ],
+          "answer": "tumpul",
+          "discussion": "Sudut $115^{\\circ}$ adalah tumpul, karena dibandingkan dengan $90^{\\circ}$ dan $180^{\\circ}$."
+        },
+        {
+          "id": "K03-MTK-B04-M01-025",
+          "type": "PG",
+          "text": "Sudut berukuran $140^{\\circ}$ termasuk sudut ...",
+          "options": [
+            "siku-siku",
+            "lurus",
+            "tumpul",
+            "lancip"
+          ],
+          "answer": "tumpul",
+          "discussion": "Sudut $140^{\\circ}$ adalah tumpul, karena dibandingkan dengan $90^{\\circ}$ dan $180^{\\circ}$."
+        },
+        {
+          "id": "K03-MTK-B04-M01-026",
+          "type": "PG",
+          "text": "Pernyataan benar tentang sudut $15^{\\circ}$ adalah ...",
+          "options": [
+            "Sudut siku-siku",
+            "Sudut tumpul",
+            "Sudut lurus",
+            "Sudut lancip"
+          ],
+          "answer": "Sudut lancip",
+          "discussion": "$15^{\\circ}$ sesuai jenis sudut lancip."
+        },
+        {
+          "id": "K03-MTK-B04-M01-027",
+          "type": "PG",
+          "text": "Pernyataan benar tentang sudut $75^{\\circ}$ adalah ...",
+          "options": [
+            "Sudut lancip",
+            "Sudut siku-siku",
+            "Sudut tumpul",
+            "Sudut lurus"
+          ],
+          "answer": "Sudut lancip",
+          "discussion": "$75^{\\circ}$ sesuai jenis sudut lancip."
+        },
+        {
+          "id": "K03-MTK-B04-M01-028",
+          "type": "PG",
+          "text": "Pernyataan benar tentang sudut $90^{\\circ}$ adalah ...",
+          "options": [
+            "Sudut lurus",
+            "Sudut siku-siku",
+            "Sudut lancip",
+            "Sudut tumpul"
+          ],
+          "answer": "Sudut siku-siku",
+          "discussion": "$90^{\\circ}$ sesuai jenis sudut siku-siku."
+        },
+        {
+          "id": "K03-MTK-B04-M01-029",
+          "type": "PG",
+          "text": "Pernyataan benar tentang sudut $130^{\\circ}$ adalah ...",
+          "options": [
+            "Sudut lurus",
+            "Sudut tumpul",
+            "Sudut lancip",
+            "Sudut siku-siku"
+          ],
+          "answer": "Sudut tumpul",
+          "discussion": "$130^{\\circ}$ sesuai jenis sudut tumpul."
+        },
+        {
+          "id": "K03-MTK-B04-M01-030",
+          "type": "PG",
+          "text": "Pernyataan benar tentang sudut $180^{\\circ}$ adalah ...",
+          "options": [
+            "Sudut siku-siku",
+            "Sudut tumpul",
+            "Sudut lurus",
+            "Sudut lancip"
+          ],
+          "answer": "Sudut lurus",
+          "discussion": "$180^{\\circ}$ sesuai jenis sudut lurus."
+        },
+        {
+          "id": "K03-MTK-B04-M01-031",
+          "type": "PG",
+          "text": "Dua tepi panjang buku tulis yang saling berhadapan membentuk ruas garis ...",
+          "options": [
+            "tegak lurus",
+            "bertemu di satu ujung",
+            "melengkung",
+            "sejajar"
+          ],
+          "answer": "sejajar",
+          "discussion": "Tepi yang berhadapan pada persegi panjang sejajar."
+        },
+        {
+          "id": "K03-MTK-B04-M01-032",
+          "type": "PG",
+          "text": "Tepi atas dan tepi samping buku persegi panjang membentuk garis ...",
+          "options": [
+            "tegak lurus",
+            "sejajar",
+            "melengkung",
+            "berimpit"
+          ],
+          "answer": "tegak lurus",
+          "discussion": "Sudut di sudut buku adalah siku-siku."
+        },
+        {
+          "id": "K03-MTK-B04-M01-033",
+          "type": "PG",
+          "text": "Dua rel kereta yang lurus pada lintasan sama membentuk dua garis ...",
+          "options": [
+            "sejajar",
+            "tegak lurus",
+            "berpotongan",
+            "melingkar"
+          ],
+          "answer": "sejajar",
+          "discussion": "Rel berjalan sejajar pada bagian lurus."
+        },
+        {
+          "id": "K03-MTK-B04-M01-034",
+          "type": "PG",
+          "text": "Garis mendatar dan tegak yang berpotongan membentuk ...",
+          "options": [
+            "sebuah lingkaran",
+            "sudut siku-siku",
+            "dua garis sejajar",
+            "sudut lurus saja"
+          ],
+          "answer": "sudut siku-siku",
+          "discussion": "Garis horizontal dan vertikal tegak lurus."
+        },
+        {
+          "id": "K03-MTK-B04-M01-035",
+          "type": "PG",
+          "text": "Tiga garis mendatar pada buku tulis merupakan contoh garis ...",
+          "options": [
+            "melingkar",
+            "berpotongan",
+            "sejajar",
+            "tegak lurus"
+          ],
+          "answer": "sejajar",
+          "discussion": "Garis-garis mendatar tersebut sejajar."
+        },
+        {
+          "id": "K03-MTK-B04-M01-036",
+          "type": "PG",
+          "text": "Dua sisi persegi yang bersebelahan membentuk sudut ...",
+          "options": [
+            "lancip",
+            "tumpul",
+            "refleks",
+            "siku-siku"
+          ],
+          "answer": "siku-siku",
+          "discussion": "Setiap pojok persegi merupakan sudut siku-siku."
+        },
+        {
+          "id": "K03-MTK-B04-M01-037",
+          "type": "PG",
+          "text": "Ujung garis pada ruas garis berjumlah ...",
+          "options": [
+            "$1$",
+            "$3$",
+            "$0$",
+            "$2$"
+          ],
+          "answer": "$2$",
+          "discussion": "Ruas garis punya dua titik ujung."
+        },
+        {
+          "id": "K03-MTK-B04-M01-038",
+          "type": "PG",
+          "text": "Sinar garis mempunyai titik awal sebanyak ...",
+          "options": [
+            "$1$",
+            "$2$",
+            "$3$",
+            "$0$"
+          ],
+          "answer": "$1$",
+          "discussion": "Sinar garis bermula dari satu titik."
+        },
+        {
+          "id": "K03-MTK-B04-M01-039",
+          "type": "PG",
+          "text": "Bila dua garis tidak pernah berpotongan dan terletak dalam satu bidang, mereka ...",
+          "options": [
+            "melengkung",
+            "sejajar",
+            "tegak lurus",
+            "membentuk sudut lancip"
+          ],
+          "answer": "sejajar",
+          "discussion": "Garis sejajar tidak berpotongan."
+        },
+        {
+          "id": "K03-MTK-B04-M01-040",
+          "type": "PG",
+          "text": "Jika dua ruas garis bertemu dan membentuk sudut tepat $90^{\\circ}$, hubungan keduanya ...",
+          "options": [
+            "melingkar",
+            "tidak menyentuh",
+            "tegak lurus",
+            "sejajar"
+          ],
+          "answer": "tegak lurus",
+          "discussion": "Garis yang membentuk $90^{\\circ}$ tegak lurus."
+        },
+        {
+          "id": "K03-MTK-B04-M01-041",
+          "type": "PG",
+          "text": "Bangun yang memiliki tepat tiga sisi adalah ...",
+          "options": [
+            "segi lima",
+            "persegi panjang",
+            "segitiga",
+            "persegi"
+          ],
+          "answer": "segitiga",
+          "discussion": "Segitiga mempunyai tiga sisi."
+        },
+        {
+          "id": "K03-MTK-B04-M01-042",
+          "type": "PG",
+          "text": "Bangun dengan empat sisi sama panjang dan empat sudut siku-siku disebut ...",
+          "options": [
+            "segitiga",
+            "segi lima",
+            "lingkaran",
+            "persegi"
+          ],
+          "answer": "persegi",
+          "discussion": "Persegi memiliki empat sisi sama dan empat sudut siku-siku."
+        },
+        {
+          "id": "K03-MTK-B04-M01-043",
+          "type": "PG",
+          "text": "Bangun dengan empat sudut siku-siku tetapi tidak semua sisi harus sama panjang ialah ...",
+          "options": [
+            "persegi panjang",
+            "segitiga",
+            "segi lima",
+            "lingkaran"
+          ],
+          "answer": "persegi panjang",
+          "discussion": "Persegi panjang punya empat sudut siku-siku."
+        },
+        {
+          "id": "K03-MTK-B04-M01-044",
+          "type": "PG",
+          "text": "Sudut yang lebih kecil dari $90^{\\circ}$ disebut ...",
+          "options": [
+            "sudut lurus",
+            "sudut lancip",
+            "sudut tumpul",
+            "sudut siku-siku"
+          ],
+          "answer": "sudut lancip",
+          "discussion": "Sudut lancip lebih kecil dari 90 derajat."
+        },
+        {
+          "id": "K03-MTK-B04-M01-045",
+          "type": "PG",
+          "text": "Sudut yang lebih besar dari $90^{\\circ}$ tetapi lebih kecil dari $180^{\\circ}$ disebut ...",
+          "options": [
+            "sudut lurus",
+            "sudut tumpul",
+            "sudut lancip",
+            "sudut siku-siku"
+          ],
+          "answer": "sudut tumpul",
+          "discussion": "Sudut tumpul terletak antara 90 dan 180 derajat."
+        },
+        {
+          "id": "K03-MTK-B04-M01-046",
+          "type": "PG",
+          "text": "Berapa pasang sisi sejajar pada persegi panjang?",
+          "options": [
+            "$3$",
+            "$4$",
+            "$2$",
+            "$1$"
+          ],
+          "answer": "$2$",
+          "discussion": "Sisi atas-sebelah bawah satu pasang, kiri-kanan satu pasang."
+        },
+        {
+          "id": "K03-MTK-B04-M01-047",
+          "type": "PG",
+          "text": "Berapa sudut siku-siku pada sebuah persegi?",
+          "options": [
+            "$1$",
+            "$2$",
+            "$3$",
+            "$4$"
+          ],
+          "answer": "$4$",
+          "discussion": "Persegi memiliki empat sudut yang masing-masing 90 derajat."
+        },
+        {
+          "id": "K03-MTK-B04-M01-048",
+          "type": "PG",
+          "text": "Bentuk permukaan sebuah papan tulis umumnya menyerupai ...",
+          "options": [
+            "persegi panjang",
+            "segitiga",
+            "segi lima",
+            "lingkaran"
+          ],
+          "answer": "persegi panjang",
+          "discussion": "Papan tulis lazim berbentuk persegi panjang."
+        },
+        {
+          "id": "K03-MTK-B04-M01-049",
+          "type": "PG",
+          "text": "Jika kertas dilipat membentuk pojok berbentuk huruf L, besar sudut pojok itu ...",
+          "options": [
+            "$90^{\\circ}$",
+            "$45^{\\circ}$",
+            "$120^{\\circ}$",
+            "$180^{\\circ}$"
+          ],
+          "answer": "$90^{\\circ}$",
+          "discussion": "Pojok huruf L membentuk sudut siku-siku."
+        },
+        {
+          "id": "K03-MTK-B04-M01-050",
+          "type": "PG",
+          "text": "Dua tepi penggaris panjang yang tidak bertemu merupakan contoh ...",
+          "options": [
+            "sudut tumpul",
+            "garis sejajar",
+            "garis tegak lurus",
+            "sudut lancip"
+          ],
+          "answer": "garis sejajar",
+          "discussion": "Tepi berhadapan pada penggaris lurus adalah sejajar."
+        }
+      ]
+    }
+  ]
+}

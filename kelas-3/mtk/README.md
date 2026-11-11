@@ -1,6 +1,6 @@
 # Matematika — EDUYASA Kelas 3
 
-**Status:** SUMBER KONTEN MARKDOWN SELESAI. Belum dikonversi ke JSON dan belum dihubungkan ke aplikasi; konversi dan integrasi dilakukan Codex nanti.
+**Status:** Lima bab sudah dikonversi ke JSON dan terhubung ke pilihan Matematika Kelas 3. LaTeX asli dipertahankan; MathJax merender konten dinamis. [Laporan konversi dan pemeriksaan](CONVERSION.md).
 
 ## Dasar materi
 
@@ -47,8 +47,22 @@ Contoh sumber Markdown (bukan JSON):
 - Tiap soal mempunyai tepat 4 opsi berbeda, 1 kunci identik dengan salah satu opsi, dan pembahasan.
 - 50 gambar stimulus unik untuk 100 soal bergambar; 10 SVG ilustrasi modul; seluruh 60 aset ada dan setiap tautan sumber ditemukan.
 - Semua ekspresi MathJax diperiksa terhadap pembatas `$` yang ganjil, kurung kurawal, dan ekspresi templat tertinggal: tidak ditemukan kesalahan struktur.
-- **Batasan:** Belum ada pemeriksaan visual seluruh SVG pada browser, belum pengujian MathJax pada frontend, dan belum review akademik menyeluruh oleh pendidik. Lakukan sebelum merilisnya untuk siswa.
+- **Pembaruan sesudah konversi:** browser, seluruh SVG, dan MathJax sudah diperiksa; hasil serta koreksi diagram tercatat dalam CONVERSION.md. Review akademik menyeluruh oleh pendidik tetap belum dilakukan.
 
-**Catatan:** Tidak mengubah aplikasi, konfigurasi kelas, JSON kelas lain, atau paket lama.
+## Berkas aplikasi dan pemeriksaan ulang
+
+Setiap bab dibaca dari `mtk-bNN-materi.json`, `mtk-bNN.json`, dan `mtk-bNNa.json`.
+`question-packs.json` mendaftarkan kedua paket soal. Sesi tetap 20 soal dengan
+15 soal biasa dan 5 bergambar. ID tetap berawalan `K03-MTK-`.
+
+Dari akar repository, jalankan `python scripts/convert-k03-mtk.py --check`
+untuk membandingkan JSON dengan sumber, atau `--write` untuk membuat ulang JSON
+setelah penyuntingan sumber diperiksa. Sumber Markdown asli dipertahankan.
+Tujuan belajar pada metadata dirangkum dari cakupan sumber; teks modulnya tidak
+ditulis ulang. Setiap JSON konten menyimpan lokasi dan SHA-256 sumber.
+
+Pemeriksaan pascakonversi, perbaikan lima SVG Bab 4, perubahan proses rendering,
+dan batas audit tercatat di [CONVERSION.md](CONVERSION.md). Data dan ID Kelas 6,
+Bahasa Indonesia Kelas 3, dan Pendidikan Pancasila Kelas 3 tidak ditulis ulang.
 
 [Handover untuk Codex](HANDOFF-CODEX.md)

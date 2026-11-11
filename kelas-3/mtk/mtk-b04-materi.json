@@ -1,0 +1,56 @@
+{
+  "subject_id": "MTK",
+  "subject_name": "Matematika",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Matematika untuk SD/MI Kelas III",
+    "year": 2022,
+    "authors": [
+      "Susanto",
+      "Arika Indah Kristiana",
+      "Arif Fatahillah",
+      "Eko Waluyo",
+      "Ridho Alfarisi",
+      "Hobri"
+    ],
+    "isbn_pdf": "978-602-427-935-6",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/matematika-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README unggahan. Tujuan dirangkum dari cakupan sumber; teks dan rumus asli dipertahankan."
+  },
+  "chapter_id": "K03-MTK-B04",
+  "chapter_title": "Unsur-Unsur Bangun Datar",
+  "learning_objectives": [
+    "Mengenali sisi dan titik sudut bangun datar serta ruas garis, sinar garis, dan garis lurus.",
+    "Membedakan sudut lancip, siku-siku, tumpul, dan lurus.",
+    "Mengenali pasangan garis sejajar dan tegak lurus."
+  ],
+  "source_markdown": {
+    "path": "kelas-3/mtk/mtk-b04-materi.md",
+    "sha256": "fccb100e0c9389e549caa2197e563a28963f3dab6625bc8d9f6a4f61aaac7d0d"
+  },
+  "modules": [
+    {
+      "id": "K03-MTK-B04-MOD-01",
+      "version": "MOD-01",
+      "title": "Kota Bentuk: Berburu Sisi dan Sudut",
+      "learning_objectives": [
+        "Mengenali sisi dan titik sudut bangun datar serta ruas garis, sinar garis, dan garis lurus.",
+        "Membedakan sudut lancip, siku-siku, tumpul, dan lurus.",
+        "Mengenali pasangan garis sejajar dan tegak lurus."
+      ],
+      "content": "# Kota Bentuk: Berburu Sisi dan Sudut\n\nHalo, Arsitek Cilik! Lihatlah papan tulis, jendela, atau ubin. Semuanya dapat mengingatkan kita pada **bangun datar**, yaitu bentuk pada bidang yang mempunyai panjang dan lebar.\n\n## Sisi dan titik sudut\n\n**Segitiga** mempunyai $3$ sisi dan $3$ titik sudut. **Persegi** dan **persegi panjang** sama-sama memiliki $4$ sisi serta $4$ titik sudut. Persegi punya sisi-sisi sama panjang, sedangkan pada persegi panjang sisi-sisi yang berhadapan sama panjang.\n\n![Diagram persegi dengan keempat sisi dan titik sudutnya.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-materi-01.svg)\n\nRuas garis memiliki **dua titik ujung**. Sinar garis memiliki satu titik awal dan memanjang satu arah. Garis lurus dapat diperpanjang ke kedua arah. Benda nyata biasanya menunjukkan **ruas garis**, misalnya tepi penggaris.\n\n## Sudut bisa dibuka lebar\n\nSudut terbentuk oleh dua kaki sudut yang bertemu. Sudut **lancip** lebih kecil dari $90^{\\circ}$; **siku-siku** tepat $90^{\\circ}$; **tumpul** di antara $90^{\\circ}$ dan $180^{\\circ}$; **lurus** tepat $180^{\\circ}$.\n\n![Dua garis berpotongan membentuk sudut siku-siku.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-materi-02.svg)\n\n## Sejajar atau tegak lurus?\n\nTepi atas dan bawah persegi panjang **sejajar** karena jika diperpanjang tidak bertemu. Sisi atas dan sampingnya **tegak lurus**, sebab berpotongan membentuk sudut $90^{\\circ}$.\n\n**Misi pengamat:** Temukan satu contoh ruas garis, satu sudut siku-siku, dan sepasang garis sejajar di kelas. Jelaskan pilihanmu kepada teman!"
+    },
+    {
+      "id": "K03-MTK-B04-MOD-02",
+      "version": "MOD-02",
+      "title": "Permainan Bangun Datar — Siapa Aku?",
+      "learning_objectives": [
+        "Mengenali sisi dan titik sudut bangun datar serta ruas garis, sinar garis, dan garis lurus.",
+        "Membedakan sudut lancip, siku-siku, tumpul, dan lurus.",
+        "Mengenali pasangan garis sejajar dan tegak lurus."
+      ],
+      "content": "# Permainan Bangun Datar — Siapa Aku?\n\nSelamat datang di **Museum Bentuk Mini**. Setiap bangun punya kartu rahasia. Kamu harus menebaknya dari jumlah sisi, sudut, dan bentuk garisnya. Ayo mulai!\n\n## Kartu pertama: hitung sisi\n\nKartu berbunyi: “Aku punya $3$ ruas garis sebagai sisi.” Jawabannya **segitiga**. Kartu lain: “Aku punya $4$ sisi yang sama panjang dan $4$ sudut siku-siku.” Jawabannya **persegi**.\n\n![Bangun persegi dengan sisi dan titik sudut yang mudah diamati.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-materi-01.svg)\n\nPerhatikan setiap pojok yang mempertemukan dua sisi. Itulah titik sudut. Pada persegi panjang ada $4$ titik sudut. Berbeda dengan lingkaran, yang tidak dibatasi oleh sisi lurus seperti segi banyak.\n\n## Kartu kedua: buka sudut!\n\nBuat sudut dari dua batang sedotan dengan ujung yang disatukan (dibantu orang dewasa). Buka sedikit: kamu mendapat sudut lancip, lebih kecil dari $90^{\\circ}$. Bentuk pojok huruf L: sudut siku-siku, tepat $90^{\\circ}$. Buka lebih lebar dari siku-siku tapi kurang dari lurus: sudut tumpul.\n\n![Sudut siku-siku terbentuk dari garis mendatar dan tegak.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-materi-02.svg)\n\n## Kartu ketiga: pasangan garis\n\nBayangkan dua garis pada buku tulis yang sejajar. Keduanya tak berpotongan walau diperpanjang. Sekarang bayangkan bingkai jendela: garis atas dan samping bertemu tegak lurus. Ruas garis punya dua ujung; sinar garis satu titik awal; garis lurus tidak punya ujung dalam gambaran matematika.\n\n**Tantangan mini:** Gambarlah persegi panjang. Lingkari semua titik sudutnya. Pilih dua sisi sejajar dan dua sisi tegak lurus, lalu jelaskan bagaimana kamu tahu."
+    }
+  ]
+}

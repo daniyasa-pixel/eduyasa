@@ -25,7 +25,7 @@ test('URL lama tetap Kelas 6; Kelas 3 memakai folder dan awalan terpisah; kelas 
   assert.equal(config.grade, 3);
   assert.equal(config.dataPath, 'kelas-3/');
   assert.equal(config.chapterPrefix, 'K03-');
-  assert.deepEqual(config.subjects.map(s => s.id), ['BIN', 'PKN']);
+  assert.deepEqual(config.subjects.map(s => s.id), ['BIN', 'PKN', 'MTK']);
   assert.equal(config.subjects[0].chapters.length, 4);
   for (const query of ['?kelas=1', '?kelas=2', '?kelas=4', '?kelas=5', '?kelas=0', '?kelas=xyz']) {
     assert.throws(() => grades.resolve(query), /Kelas belum tersedia/);
