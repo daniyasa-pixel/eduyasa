@@ -4,16 +4,15 @@
 
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
-| IPAS | Bab 1–4: 266 butir berubah | 280 butir diperiksa secara isi; visual Bab 4 belum diuji render | Bab 5–8: 280 soal; verifikasi visual Bab 4 |
+| IPAS | Bab 1–4: 266 butir berubah | 280 butir diperiksa; Bab 1–4 selesai pemeriksaan isi dan media | Bab 5–8: 280 soal |
 | PAI | Belum dikerjakan | Belum diperiksa ulang | 300 soal/10 bab |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
 Jumlah diperiksa secara isi: **280/1.945**. Jumlah diubah: **266**.
-Sisa audit isi: **1.665 soal pada 37 bab/unit**. Selain itu, Bab 4 IPAS masih
-memerlukan pemeriksaan render dan peninjauan visual 12 SVG. Jadi baru Bab 1–3
-yang menutup seluruh pemeriksaan putaran ini; 38 bab/unit belum sepenuhnya ditutup. Revisi terdahulu pada mapel
+Sisa audit isi: **1.665 soal pada 37 bab/unit**. Bab 1–4 IPAS telah menutup pemeriksaan isi dan media putaran ini;
+37 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -89,7 +88,7 @@ lolos XML dan uji batas teks pada lebar 390 piksel. Perintah LaTeX satuan pada
 sumber Markdown diperiksa agar tidak berubah menjadi tab atau double escape.
 Tidak ada konversi JSON atau perubahan pada materi yang dilarang.
 
-## IPAS Bab 4 — isi direvisi, pemeriksaan visual tertunda
+## IPAS Bab 4 — revisi isi dan pemeriksaan media
 
 Semua nomor 001–070 dibaca, dibandingkan dengan cakupan buku revisi 2025
 halaman 67–90, dan ditulis ulang. ID serta jumlah 50+20 tetap. Instruksi
@@ -123,12 +122,17 @@ Dua belas sumber SVG diperiksa keseimbangan tag, entity, viewBox,
 title/desc, dan ketiadaan skrip/tautan eksternal. Pemeriksaan tag sederhana
 ini bukan parser konformansi XML atau bukti kualitas visual.
 
-**Hambatan nyata:** lingkungan eksekusi terputus saat hendak menulis
+**Hambatan pada checkpoint sebelumnya (kini teratasi):** lingkungan eksekusi terputus saat hendak menulis
 skrip penulis lokal. Percobaan shell berikutnya menghasilkan
 “No usable execution environment is available”. Revisi dilanjutkan melalui
 konektor GitHub. Chromium/Playwright, pemeriksaan batas teks pada lebar 390
 piksel, serta peninjauan lembar gambar Bab 4 belum dapat dijalankan.
-Jangan menandai Bab 4 lulus media atau siap konversi sebelum itu selesai.
+Pada checkpoint berikutnya, lingkungan kembali tersedia: seluruh 12 SVG
+lolos parser XML, rendering Chromium pada lebar 390 piksel, dan pemeriksaan
+batas teks. Lembar gambar ditinjau: tahapan hewan/tomat, penunjuk bagian,
+tabel perkecambahan, dan perbandingan pot sesuai stimulus soal. Validator
+Python kanonis juga dijalankan ulang: 1.945 soal, 0 kesalahan struktur.
+Hambatan Bab 4 ditutup; tidak ada persetujuan konversi JSON.
 Tidak ada JSON yang dibuat atau konten BIN, MTK, PKN yang diubah.
 
 ## Pemeriksaan
@@ -138,7 +142,7 @@ mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
 Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–4
-belum memperoleh pemeriksaan isi putaran ini. Media Bab 4 masih tertunda. Script juga tidak menyimpulkan
+belum memperoleh pemeriksaan isi putaran ini. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
 Dua belas SVG Bab 1 dirender pada Chromium dan diperiksa batas teksnya;
@@ -147,17 +151,9 @@ Pemeriksaan ini bukan uji coba kepada siswa atau pengukuran kesulitan empiris.
 
 ## Posisi lanjut yang tepat
 
-Ambil kondisi terbaru dari main terlebih dahulu: Bab 4 direvisi melalui
-konektor saat shell tidak tersedia; jangan menimpa perubahan ini dengan
-draft lokal lama. Selesaikan pemeriksaan XML penuh, rendering lebar 390
-piksel, batas teks, dan peninjauan visual **12 SVG IPAS Bab 4**. Perbaiki
-temuan dan pastikan kesesuaian gambar dengan nomor 051–070 serta kedua modul.
-Ulangi validator Python yang tersedia setelah lingkungan kembali.
-
-Setelah Bab 4 lolos pemeriksaan tersebut, lanjut **IPAS Bab 5, nomor 001–070**
-hingga Bab 8, kemudian PAI, ENG, PJOK, dan Seni Rupa sesuai urutan.
-Pertahankan pemeriksaan buku revisi 2025; instruksi kegiatan yang keliru
-dijadikan konsep juga perlu diperiksa pada bab lain.
+Lanjut **IPAS Bab 5, nomor 001–070**, dua modul, dan 12 SVG, kemudian Bab 6–8.
+Sesudah IPAS, lanjut PAI, ENG, PJOK, dan Seni Rupa. Pertahankan pemeriksaan
+buku revisi 2025 dan larangan konversi JSON.
 
 Dilarang menyimpulkan keseluruhan selesai dari checkpoint ini. Jangan membuat
 JSON, mengaktifkan draft pada aplikasi, atau mengubah BIN, MTK, dan PKN.

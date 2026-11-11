@@ -71,3 +71,12 @@ Kunci dan isi tidak dinyatakan benar hanya karena validasi struktur.
 **BELUM SELESAI.** Langkah pertama berikutnya: sinkronkan main, uji serta
 tinjau 12 SVG Bab 4 pada Chromium lebar 390 piksel, lalu lanjut Bab 5.
 Lihat rincian dan batas pemeriksaan dalam PROGRES-REVISI-1945.md.
+
+### Pemulihan pemeriksaan media IPAS Bab 4
+
+Lingkungan tersedia kembali. Dua belas SVG Bab 4 lolos parser XML,
+rendering Chromium lebar 390 piksel dan pemeriksaan batas teks; lembar
+gambar ditinjau secara visual. Validator Python: 1.945 soal, 0 kesalahan
+struktur. Hambatan media Bab 4 ditutup. Bab 1–4 berjumlah 280 soal diperiksa,
+266 berubah; sisa 1.665 soal/37 bab. Titik lanjut Bab 5. Status keseluruhan
+BELUM SELESAI, tanpa konversi JSON.
