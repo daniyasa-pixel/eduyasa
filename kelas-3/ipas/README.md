@@ -1,0 +1,21 @@
+# IPAS Kelas 3 — EDUYASA
+
+Acuan: Buku Siswa IPAS SD/MI Kelas III **Edisi Revisi 2025**, Kemendikdasmen (Aldilla Kusumawardhani dkk.). Jangan campur dengan urutan bab edisi 2022.
+
+1. Keajaiban Tubuhku
+2. Dahulu, Kini, dan Nanti
+3. Peduli dan Berbagi
+4. Siklus Hidup yang Menakjubkan
+5. Bijak Berbelanja Kebutuhan
+6. Energi, sang Pemberi Kekuatan
+7. Jejak Penjelajah
+8. Rahasia Tiga Wujud Zat
+
+## Aturan produksi
+- Per bab: dua modul setara dan berbeda pendekatan, **masing-masing bergambar**; 50 soal tanpa gambar + 20 soal bergambar, masing-masing 4 opsi, kunci dan pembahasan.
+- Gunakan PNG terkompresi untuk visual rinci dan SVG untuk diagram sederhana; seluruh gambar harus punya teks alternatif dan tidak boleh mengungkap jawaban secara keliru.
+- Format kerja Markdown; JSON dikerjakan Codex setelah audit.
+- ID: `K03-IPAS-B01-MOD-01`, `K03-IPAS-B01-M01-001` dan seterusnya; ID unik lintas bab.
+- Audit kebenaran akademik, ketunggalan jawaban, kecocokan gambar dan penjelasan sebelum status selesai.
+
+**Status:** Bab 1 modul awal tersedia; bank soal dan gambar bab berikutnya belum diproduksi. Jangan menganggap target 560 soal sudah terpenuhi.
