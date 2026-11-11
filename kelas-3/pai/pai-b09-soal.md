@@ -2,7 +2,7 @@
 
 **STATUS DRAF:** 30 soal pilihan ganda. Ada pengulangan kompetensi antarpertanyaan; wajib revisi variasi dan audit agama sebelum rilis.
 
-## Soal 1 — PAI-B09-M01-001
+## Soal 1 — K03-PAI-B09-M01-001
 
 **Pertanyaan:** Salat rawatib adalah salat sunah yang dikerjakan ....
 
@@ -18,7 +18,7 @@
 
 ---
 
-## Soal 2 — PAI-B09-M01-002
+## Soal 2 — K03-PAI-B09-M01-002
 
 **Pertanyaan:** Salat rawatib sebelum salat fardu disebut ....
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Soal 3 — PAI-B09-M01-003
+## Soal 3 — K03-PAI-B09-M01-003
 
 **Pertanyaan:** Salat rawatib sesudah salat fardu disebut ....
 
@@ -50,7 +50,7 @@
 
 ---
 
-## Soal 4 — PAI-B09-M01-004
+## Soal 4 — K03-PAI-B09-M01-004
 
 **Pertanyaan:** Salat rawatib termasuk salat ....
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Soal 5 — PAI-B09-M01-005
+## Soal 5 — K03-PAI-B09-M01-005
 
 **Pertanyaan:** Salat qabliyah Subuh dilakukan ....
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Soal 6 — PAI-B09-M01-006
+## Soal 6 — K03-PAI-B09-M01-006
 
 **Pertanyaan:** Salat ba'diyah Magrib dilakukan ....
 
@@ -98,7 +98,7 @@
 
 ---
 
-## Soal 7 — PAI-B09-M01-007
+## Soal 7 — K03-PAI-B09-M01-007
 
 **Pertanyaan:** Salat rawatib mengajarkan ....
 
@@ -114,7 +114,7 @@
 
 ---
 
-## Soal 8 — PAI-B09-M01-008
+## Soal 8 — K03-PAI-B09-M01-008
 
 **Pertanyaan:** Salat rawatib dilakukan dengan niat ....
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Soal 9 — PAI-B09-M01-009
+## Soal 9 — K03-PAI-B09-M01-009
 
 **Pertanyaan:** Salat rawatib tidak boleh dijadikan alasan untuk ....
 
@@ -146,7 +146,7 @@
 
 ---
 
-## Soal 10 — PAI-B09-M01-010
+## Soal 10 — K03-PAI-B09-M01-010
 
 **Pertanyaan:** Contoh membiasakan salat rawatib adalah ....
 
@@ -162,7 +162,7 @@
 
 ---
 
-## Soal 11 — PAI-B09-M01-011
+## Soal 11 — K03-PAI-B09-M01-011
 
 **Pertanyaan:** Pilih jawaban yang tepat: salat rawatib adalah salat sunah yang dikerjakan ....
 
@@ -178,7 +178,7 @@
 
 ---
 
-## Soal 12 — PAI-B09-M01-012
+## Soal 12 — K03-PAI-B09-M01-012
 
 **Pertanyaan:** Pilih jawaban yang tepat: salat rawatib sebelum salat fardu disebut ....
 
@@ -194,7 +194,7 @@
 
 ---
 
-## Soal 13 — PAI-B09-M01-013
+## Soal 13 — K03-PAI-B09-M01-013
 
 **Pertanyaan:** Pilih jawaban yang tepat: salat rawatib sesudah salat fardu disebut ....
 
@@ -210,7 +210,7 @@
 
 ---
 
-## Soal 14 — PAI-B09-M01-014
+## Soal 14 — K03-PAI-B09-M01-014
 
 **Pertanyaan:** Pilih jawaban yang tepat: salat rawatib termasuk salat ....
 
@@ -226,7 +226,7 @@
 
 ---
 
-## Soal 15 — PAI-B09-M01-015
+## Soal 15 — K03-PAI-B09-M01-015
 
 **Pertanyaan:** Pilih jawaban yang tepat: salat qabliyah Subuh dilakukan ....
 
@@ -242,7 +242,7 @@
 
 ---
 
-## Soal 16 — PAI-B09-M01-016
+## Soal 16 — K03-PAI-B09-M01-016
 
 **Pertanyaan:** Pilih jawaban yang tepat: salat ba'diyah Magrib dilakukan ....
 
@@ -258,7 +258,7 @@
 
 ---
 
-## Soal 17 — PAI-B09-M01-017
+## Soal 17 — K03-PAI-B09-M01-017
 
 **Pertanyaan:** Pilih jawaban yang tepat: salat rawatib mengajarkan ....
 
@@ -274,7 +274,7 @@
 
 ---
 
-## Soal 18 — PAI-B09-M01-018
+## Soal 18 — K03-PAI-B09-M01-018
 
 **Pertanyaan:** Pilih jawaban yang tepat: salat rawatib dilakukan dengan niat ....
 
@@ -290,7 +290,7 @@
 
 ---
 
-## Soal 19 — PAI-B09-M01-019
+## Soal 19 — K03-PAI-B09-M01-019
 
 **Pertanyaan:** Pilih jawaban yang tepat: salat rawatib tidak boleh dijadikan alasan untuk ....
 
@@ -306,7 +306,7 @@
 
 ---
 
-## Soal 20 — PAI-B09-M01-020
+## Soal 20 — K03-PAI-B09-M01-020
 
 **Pertanyaan:** Pilih jawaban yang tepat: contoh membiasakan salat rawatib adalah ....
 
@@ -322,7 +322,7 @@
 
 ---
 
-## Soal 21 — PAI-B09-M01-021
+## Soal 21 — K03-PAI-B09-M01-021
 
 **Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -340,7 +340,7 @@ Salat rawatib adalah salat sunah yang dikerjakan ....
 
 ---
 
-## Soal 22 — PAI-B09-M01-022
+## Soal 22 — K03-PAI-B09-M01-022
 
 **Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -358,7 +358,7 @@ Salat rawatib sebelum salat fardu disebut ....
 
 ---
 
-## Soal 23 — PAI-B09-M01-023
+## Soal 23 — K03-PAI-B09-M01-023
 
 **Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -376,7 +376,7 @@ Salat rawatib sesudah salat fardu disebut ....
 
 ---
 
-## Soal 24 — PAI-B09-M01-024
+## Soal 24 — K03-PAI-B09-M01-024
 
 **Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -394,7 +394,7 @@ Salat rawatib termasuk salat ....
 
 ---
 
-## Soal 25 — PAI-B09-M01-025
+## Soal 25 — K03-PAI-B09-M01-025
 
 **Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -412,7 +412,7 @@ Salat qabliyah Subuh dilakukan ....
 
 ---
 
-## Soal 26 — PAI-B09-M01-026
+## Soal 26 — K03-PAI-B09-M01-026
 
 **Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -430,7 +430,7 @@ Salat ba'diyah Magrib dilakukan ....
 
 ---
 
-## Soal 27 — PAI-B09-M01-027
+## Soal 27 — K03-PAI-B09-M01-027
 
 **Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -448,7 +448,7 @@ Salat rawatib mengajarkan ....
 
 ---
 
-## Soal 28 — PAI-B09-M01-028
+## Soal 28 — K03-PAI-B09-M01-028
 
 **Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -466,7 +466,7 @@ Salat rawatib dilakukan dengan niat ....
 
 ---
 
-## Soal 29 — PAI-B09-M01-029
+## Soal 29 — K03-PAI-B09-M01-029
 
 **Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -484,7 +484,7 @@ Salat rawatib tidak boleh dijadikan alasan untuk ....
 
 ---
 
-## Soal 30 — PAI-B09-M01-030
+## Soal 30 — K03-PAI-B09-M01-030
 
 **Pertanyaan:** Saat belajar tentang "Senangnya Salat Rawatib", bagaimana melengkapi pernyataan ini dengan benar?
 

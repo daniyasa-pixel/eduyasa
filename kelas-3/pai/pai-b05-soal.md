@@ -2,7 +2,7 @@
 
 **STATUS DRAF:** 30 soal pilihan ganda. Ada pengulangan kompetensi antarpertanyaan; wajib revisi variasi dan audit agama sebelum rilis.
 
-## Soal 1 — PAI-B05-M01-001
+## Soal 1 — K03-PAI-B05-M01-001
 
 **Pertanyaan:** Sebelum Islam datang, masyarakat Arab disebut berada pada masa ....
 
@@ -18,7 +18,7 @@
 
 ---
 
-## Soal 2 — PAI-B05-M01-002
+## Soal 2 — K03-PAI-B05-M01-002
 
 **Pertanyaan:** Nabi Muhammad saw. lahir di kota ....
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Soal 3 — PAI-B05-M01-003
+## Soal 3 — K03-PAI-B05-M01-003
 
 **Pertanyaan:** Ayah Nabi Muhammad saw. bernama ....
 
@@ -50,7 +50,7 @@
 
 ---
 
-## Soal 4 — PAI-B05-M01-004
+## Soal 4 — K03-PAI-B05-M01-004
 
 **Pertanyaan:** Ibu Nabi Muhammad saw. bernama ....
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Soal 5 — PAI-B05-M01-005
+## Soal 5 — K03-PAI-B05-M01-005
 
 **Pertanyaan:** Kakek Nabi Muhammad saw. bernama ....
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Soal 6 — PAI-B05-M01-006
+## Soal 6 — K03-PAI-B05-M01-006
 
 **Pertanyaan:** Nabi Muhammad saw. dikenal dengan gelar Al-Amin yang berarti ....
 
@@ -98,7 +98,7 @@
 
 ---
 
-## Soal 7 — PAI-B05-M01-007
+## Soal 7 — K03-PAI-B05-M01-007
 
 **Pertanyaan:** Nabi Muhammad saw. berasal dari suku ....
 
@@ -114,7 +114,7 @@
 
 ---
 
-## Soal 8 — PAI-B05-M01-008
+## Soal 8 — K03-PAI-B05-M01-008
 
 **Pertanyaan:** Sebelum menerima wahyu, Nabi Muhammad saw. sering berkhalwat di ....
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Soal 9 — PAI-B05-M01-009
+## Soal 9 — K03-PAI-B05-M01-009
 
 **Pertanyaan:** Selawat adalah doa memohon ....
 
@@ -146,7 +146,7 @@
 
 ---
 
-## Soal 10 — PAI-B05-M01-010
+## Soal 10 — K03-PAI-B05-M01-010
 
 **Pertanyaan:** Meneladani kejujuran Nabi berarti ....
 
@@ -162,7 +162,7 @@
 
 ---
 
-## Soal 11 — PAI-B05-M01-011
+## Soal 11 — K03-PAI-B05-M01-011
 
 **Pertanyaan:** Pilih jawaban yang tepat: sebelum Islam datang, masyarakat Arab disebut berada pada masa ....
 
@@ -178,7 +178,7 @@
 
 ---
 
-## Soal 12 — PAI-B05-M01-012
+## Soal 12 — K03-PAI-B05-M01-012
 
 **Pertanyaan:** Pilih jawaban yang tepat: nabi Muhammad saw. lahir di kota ....
 
@@ -194,7 +194,7 @@
 
 ---
 
-## Soal 13 — PAI-B05-M01-013
+## Soal 13 — K03-PAI-B05-M01-013
 
 **Pertanyaan:** Pilih jawaban yang tepat: ayah Nabi Muhammad saw. bernama ....
 
@@ -210,7 +210,7 @@
 
 ---
 
-## Soal 14 — PAI-B05-M01-014
+## Soal 14 — K03-PAI-B05-M01-014
 
 **Pertanyaan:** Pilih jawaban yang tepat: ibu Nabi Muhammad saw. bernama ....
 
@@ -226,7 +226,7 @@
 
 ---
 
-## Soal 15 — PAI-B05-M01-015
+## Soal 15 — K03-PAI-B05-M01-015
 
 **Pertanyaan:** Pilih jawaban yang tepat: kakek Nabi Muhammad saw. bernama ....
 
@@ -242,7 +242,7 @@
 
 ---
 
-## Soal 16 — PAI-B05-M01-016
+## Soal 16 — K03-PAI-B05-M01-016
 
 **Pertanyaan:** Pilih jawaban yang tepat: nabi Muhammad saw. dikenal dengan gelar Al-Amin yang berarti ....
 
@@ -258,7 +258,7 @@
 
 ---
 
-## Soal 17 — PAI-B05-M01-017
+## Soal 17 — K03-PAI-B05-M01-017
 
 **Pertanyaan:** Pilih jawaban yang tepat: nabi Muhammad saw. berasal dari suku ....
 
@@ -274,7 +274,7 @@
 
 ---
 
-## Soal 18 — PAI-B05-M01-018
+## Soal 18 — K03-PAI-B05-M01-018
 
 **Pertanyaan:** Pilih jawaban yang tepat: sebelum menerima wahyu, Nabi Muhammad saw. sering berkhalwat di ....
 
@@ -290,7 +290,7 @@
 
 ---
 
-## Soal 19 — PAI-B05-M01-019
+## Soal 19 — K03-PAI-B05-M01-019
 
 **Pertanyaan:** Pilih jawaban yang tepat: selawat adalah doa memohon ....
 
@@ -306,7 +306,7 @@
 
 ---
 
-## Soal 20 — PAI-B05-M01-020
+## Soal 20 — K03-PAI-B05-M01-020
 
 **Pertanyaan:** Pilih jawaban yang tepat: meneladani kejujuran Nabi berarti ....
 
@@ -322,7 +322,7 @@
 
 ---
 
-## Soal 21 — PAI-B05-M01-021
+## Soal 21 — K03-PAI-B05-M01-021
 
 **Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -340,7 +340,7 @@ Sebelum Islam datang, masyarakat Arab disebut berada pada masa ....
 
 ---
 
-## Soal 22 — PAI-B05-M01-022
+## Soal 22 — K03-PAI-B05-M01-022
 
 **Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -358,7 +358,7 @@ Nabi Muhammad saw. lahir di kota ....
 
 ---
 
-## Soal 23 — PAI-B05-M01-023
+## Soal 23 — K03-PAI-B05-M01-023
 
 **Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -376,7 +376,7 @@ Ayah Nabi Muhammad saw. bernama ....
 
 ---
 
-## Soal 24 — PAI-B05-M01-024
+## Soal 24 — K03-PAI-B05-M01-024
 
 **Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -394,7 +394,7 @@ Ibu Nabi Muhammad saw. bernama ....
 
 ---
 
-## Soal 25 — PAI-B05-M01-025
+## Soal 25 — K03-PAI-B05-M01-025
 
 **Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -412,7 +412,7 @@ Kakek Nabi Muhammad saw. bernama ....
 
 ---
 
-## Soal 26 — PAI-B05-M01-026
+## Soal 26 — K03-PAI-B05-M01-026
 
 **Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -430,7 +430,7 @@ Nabi Muhammad saw. dikenal dengan gelar Al-Amin yang berarti ....
 
 ---
 
-## Soal 27 — PAI-B05-M01-027
+## Soal 27 — K03-PAI-B05-M01-027
 
 **Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -448,7 +448,7 @@ Nabi Muhammad saw. berasal dari suku ....
 
 ---
 
-## Soal 28 — PAI-B05-M01-028
+## Soal 28 — K03-PAI-B05-M01-028
 
 **Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -466,7 +466,7 @@ Sebelum menerima wahyu, Nabi Muhammad saw. sering berkhalwat di ....
 
 ---
 
-## Soal 29 — PAI-B05-M01-029
+## Soal 29 — K03-PAI-B05-M01-029
 
 **Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -484,7 +484,7 @@ Selawat adalah doa memohon ....
 
 ---
 
-## Soal 30 — PAI-B05-M01-030
+## Soal 30 — K03-PAI-B05-M01-030
 
 **Pertanyaan:** Saat belajar tentang "Aku Suka Belajar Sejarah Islam", bagaimana melengkapi pernyataan ini dengan benar?
 

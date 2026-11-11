@@ -2,7 +2,7 @@
 
 **STATUS DRAF:** 30 soal pilihan ganda. Ada pengulangan kompetensi antarpertanyaan; wajib revisi variasi dan audit agama sebelum rilis.
 
-## Soal 1 — PAI-B01-M01-001
+## Soal 1 — K03-PAI-B01-M01-001
 
 **Pertanyaan:** Surah Al-'Alaq ayat 1–5 mengajak manusia untuk ....
 
@@ -18,7 +18,7 @@
 
 ---
 
-## Soal 2 — PAI-B01-M01-002
+## Soal 2 — K03-PAI-B01-M01-002
 
 **Pertanyaan:** Kata pertama wahyu yang diterima Nabi Muhammad saw. adalah ....
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Soal 3 — PAI-B01-M01-003
+## Soal 3 — K03-PAI-B01-M01-003
 
 **Pertanyaan:** Surah Al-'Alaq merupakan surah ke- ....
 
@@ -50,7 +50,7 @@
 
 ---
 
-## Soal 4 — PAI-B01-M01-004
+## Soal 4 — K03-PAI-B01-M01-004
 
 **Pertanyaan:** Jumlah ayat yang dipelajari pada awal Surah Al-'Alaq adalah ....
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Soal 5 — PAI-B01-M01-005
+## Soal 5 — K03-PAI-B01-M01-005
 
 **Pertanyaan:** Qalqalah berarti bunyi huruf yang ....
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Soal 6 — PAI-B01-M01-006
+## Soal 6 — K03-PAI-B01-M01-006
 
 **Pertanyaan:** Huruf qalqalah terkumpul dalam ungkapan ....
 
@@ -98,7 +98,7 @@
 
 ---
 
-## Soal 7 — PAI-B01-M01-007
+## Soal 7 — K03-PAI-B01-M01-007
 
 **Pertanyaan:** Allah mengajar manusia dengan perantaraan ....
 
@@ -114,7 +114,7 @@
 
 ---
 
-## Soal 8 — PAI-B01-M01-008
+## Soal 8 — K03-PAI-B01-M01-008
 
 **Pertanyaan:** Manusia diciptakan Allah dari ....
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Soal 9 — PAI-B01-M01-009
+## Soal 9 — K03-PAI-B01-M01-009
 
 **Pertanyaan:** Membaca Al-Qur'an dengan tartil berarti ....
 
@@ -146,7 +146,7 @@
 
 ---
 
-## Soal 10 — PAI-B01-M01-010
+## Soal 10 — K03-PAI-B01-M01-010
 
 **Pertanyaan:** Sikap yang sesuai pesan Surah Al-'Alaq adalah ....
 
@@ -162,7 +162,7 @@
 
 ---
 
-## Soal 11 — PAI-B01-M01-011
+## Soal 11 — K03-PAI-B01-M01-011
 
 **Pertanyaan:** Pilih jawaban yang tepat: surah Al-'Alaq ayat 1–5 mengajak manusia untuk ....
 
@@ -178,7 +178,7 @@
 
 ---
 
-## Soal 12 — PAI-B01-M01-012
+## Soal 12 — K03-PAI-B01-M01-012
 
 **Pertanyaan:** Pilih jawaban yang tepat: kata pertama wahyu yang diterima Nabi Muhammad saw. adalah ....
 
@@ -194,7 +194,7 @@
 
 ---
 
-## Soal 13 — PAI-B01-M01-013
+## Soal 13 — K03-PAI-B01-M01-013
 
 **Pertanyaan:** Pilih jawaban yang tepat: surah Al-'Alaq merupakan surah ke- ....
 
@@ -210,7 +210,7 @@
 
 ---
 
-## Soal 14 — PAI-B01-M01-014
+## Soal 14 — K03-PAI-B01-M01-014
 
 **Pertanyaan:** Pilih jawaban yang tepat: jumlah ayat yang dipelajari pada awal Surah Al-'Alaq adalah ....
 
@@ -226,7 +226,7 @@
 
 ---
 
-## Soal 15 — PAI-B01-M01-015
+## Soal 15 — K03-PAI-B01-M01-015
 
 **Pertanyaan:** Pilih jawaban yang tepat: qalqalah berarti bunyi huruf yang ....
 
@@ -242,7 +242,7 @@
 
 ---
 
-## Soal 16 — PAI-B01-M01-016
+## Soal 16 — K03-PAI-B01-M01-016
 
 **Pertanyaan:** Pilih jawaban yang tepat: huruf qalqalah terkumpul dalam ungkapan ....
 
@@ -258,7 +258,7 @@
 
 ---
 
-## Soal 17 — PAI-B01-M01-017
+## Soal 17 — K03-PAI-B01-M01-017
 
 **Pertanyaan:** Pilih jawaban yang tepat: allah mengajar manusia dengan perantaraan ....
 
@@ -274,7 +274,7 @@
 
 ---
 
-## Soal 18 — PAI-B01-M01-018
+## Soal 18 — K03-PAI-B01-M01-018
 
 **Pertanyaan:** Pilih jawaban yang tepat: manusia diciptakan Allah dari ....
 
@@ -290,7 +290,7 @@
 
 ---
 
-## Soal 19 — PAI-B01-M01-019
+## Soal 19 — K03-PAI-B01-M01-019
 
 **Pertanyaan:** Pilih jawaban yang tepat: membaca Al-Qur'an dengan tartil berarti ....
 
@@ -306,7 +306,7 @@
 
 ---
 
-## Soal 20 — PAI-B01-M01-020
+## Soal 20 — K03-PAI-B01-M01-020
 
 **Pertanyaan:** Pilih jawaban yang tepat: sikap yang sesuai pesan Surah Al-'Alaq adalah ....
 
@@ -322,7 +322,7 @@
 
 ---
 
-## Soal 21 — PAI-B01-M01-021
+## Soal 21 — K03-PAI-B01-M01-021
 
 **Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -340,7 +340,7 @@ Surah Al-'Alaq ayat 1–5 mengajak manusia untuk ....
 
 ---
 
-## Soal 22 — PAI-B01-M01-022
+## Soal 22 — K03-PAI-B01-M01-022
 
 **Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -358,7 +358,7 @@ Kata pertama wahyu yang diterima Nabi Muhammad saw. adalah ....
 
 ---
 
-## Soal 23 — PAI-B01-M01-023
+## Soal 23 — K03-PAI-B01-M01-023
 
 **Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -376,7 +376,7 @@ Surah Al-'Alaq merupakan surah ke- ....
 
 ---
 
-## Soal 24 — PAI-B01-M01-024
+## Soal 24 — K03-PAI-B01-M01-024
 
 **Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -394,7 +394,7 @@ Jumlah ayat yang dipelajari pada awal Surah Al-'Alaq adalah ....
 
 ---
 
-## Soal 25 — PAI-B01-M01-025
+## Soal 25 — K03-PAI-B01-M01-025
 
 **Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -412,7 +412,7 @@ Qalqalah berarti bunyi huruf yang ....
 
 ---
 
-## Soal 26 — PAI-B01-M01-026
+## Soal 26 — K03-PAI-B01-M01-026
 
 **Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -430,7 +430,7 @@ Huruf qalqalah terkumpul dalam ungkapan ....
 
 ---
 
-## Soal 27 — PAI-B01-M01-027
+## Soal 27 — K03-PAI-B01-M01-027
 
 **Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -448,7 +448,7 @@ Allah mengajar manusia dengan perantaraan ....
 
 ---
 
-## Soal 28 — PAI-B01-M01-028
+## Soal 28 — K03-PAI-B01-M01-028
 
 **Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -466,7 +466,7 @@ Manusia diciptakan Allah dari ....
 
 ---
 
-## Soal 29 — PAI-B01-M01-029
+## Soal 29 — K03-PAI-B01-M01-029
 
 **Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
 
@@ -484,7 +484,7 @@ Membaca Al-Qur'an dengan tartil berarti ....
 
 ---
 
-## Soal 30 — PAI-B01-M01-030
+## Soal 30 — K03-PAI-B01-M01-030
 
 **Pertanyaan:** Saat belajar tentang "Asyiknya Belajar Surah Al-'Alaq", bagaimana melengkapi pernyataan ini dengan benar?
 
