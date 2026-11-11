@@ -5,14 +5,14 @@
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
-| PAI | Bab 1–7: 203 butir berubah dan empat belas modul direvisi | 210/300 diperiksa; pratinjau HP teks Arab Bab 1 dan 6 tertunda | 90 soal/3 bab, serta pratinjau HP Bab 1 dan 6 |
+| PAI | Bab 1–8: 233 butir berubah dan 16 modul direvisi | 240/300 diperiksa; pratinjau HP teks Arab Bab 1 dan 6 tertunda | 60 soal/2 bab, serta pratinjau HP Bab 1 dan 6 |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **770/1.945**. Jumlah diubah: **749**.
-Sisa audit isi: **1.175 soal pada 26 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
-26 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **800/1.945**. Jumlah diubah: **779**.
+Sisa audit isi: **1.145 soal pada 25 bab/unit**. Bab 1–8 IPAS telah menutup pemeriksaan isi dan media putaran ini;
+25 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -270,7 +270,7 @@ belum dipenuhi dan tidak diklaim sudah dilakukan. Tidak ada JSON/rilis aplikasi.
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS dan PAI Bab 1–5. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
+Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS dan PAI Bab 1–8. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
 Dua belas SVG Bab 1 dirender pada Chromium dan diperiksa batas teksnya;
@@ -337,7 +337,7 @@ Pemeriksaan: 30 stem unik, empat opsi berbeda, kunci cocok, pembahasan ada.
 ## Posisi lanjut yang tepat
 
 Uji pratinjau HP PAI Bab 1 saat browser tersedia dan lanjutkan audit isi PAI
-Bab 8–10, lalu ENG, PJOK, dan Seni Rupa. Pertahankan Markdown dan tunda
+Bab 9–10, lalu ENG, PJOK, dan Seni Rupa. Pertahankan Markdown dan tunda
 konversi JSON serta aktivasi aplikasi. Jangan ubah BIN, MTK, atau PKN.
 
 ## PAI Bab 6 — Senangnya Belajar Hadis
@@ -371,3 +371,18 @@ Pekerti SD/MI III, edisi 2022.
 
 Seluruh ID dan jumlah tetap. Validator kanonis: 1.945 soal, 0 kesalahan
 struktur. Titik lanjut: PAI Bab 8.
+
+## PAI Bab 8 — Aku Senang Berkalimah Tayyibah
+
+Seluruh 30 soal ditelaah dan ditulis ulang. Soal dan dua modul mencakup
+makna, pelafalan, penyalinan empat lafaz, konteks penggunaan, dan disiplin.
+Soal rasa kagum menentukan maksud penutur karena Subhanallah dan Masyaallah
+keduanya dapat sesuai. Insyaallah dikaitkan dengan usaha dan tanggung jawab.
+Rujukan: buku siswa dan panduan guru Bab VIII, serta Q.S. Ali ‘Imran 3:41
+dan Al-Kahf 18:23–24, 39, tertaut pada modul.
+
+Seluruh ID dan jumlah tetap. Teks Arab modul memakai penanda bahasa dan
+arah baca. Tidak ada berkas gambar atau audio. Pelafalan dan penyalinan
+tetap perlu praktik yang disimak guru. Validator kanonis: 1.945 soal,
+0 kesalahan struktur. Pratinjau browser HP teks Arab Bab 1, 6, dan 8 masih
+tertunda karena Chromium gagal membuat soket. Titik lanjut: PAI Bab 9.

@@ -2,30 +2,35 @@
 
 ## MOD-01 — K03-PAI-B08-MOD-01
 
-### Yuk, pahami!
+### Empat ucapan baik
 
-Aku Senang Berkalimah Tayyibah mengajak kita memahami ajaran Islam dan menerapkannya dengan baik dalam kehidupan sehari-hari. Bacalah setiap poin perlahan, lalu diskusikan dengan guru atau orang tua.
+Kalimah tayyibah adalah ucapan baik yang membantu kita mengingat Allah. Yuk, baca maknanya dan coba lafalkan bersama guru.
 
-- **Mahasuci Allah** — Subhanallah berarti Mahasuci Allah.
-- **mengagumi sesuatu atas kehendak Allah** — Masyaallah diucapkan saat mengagumi sesuatu atas kehendak Allah.
-- **jika Allah menghendaki** — Insyaallah berarti jika Allah menghendaki.
-- **Allah Maha Besar** — Allahu Akbar berarti Allah Maha Besar.
-- **Masyaallah** — Saat melihat keindahan ciptaan Allah, kita dapat mengucap Masyaallah.
+- **Subhanallah** (<span lang="ar" dir="rtl">سُبْحَانَ اللَّهِ</span>) berarti **Mahasuci Allah**. Ini lafaz tasbih. Kamu dapat mengucapkannya saat berzikir atau ketika takjub melihat ciptaan Allah. Q.S. Ali ‘Imran 3:41 mengingatkan untuk bertasbih pada petang dan pagi.
+- **Masyaallah** (<span lang="ar" dir="rtl">مَا شَاءَ اللَّهُ</span>) berarti **atas kehendak Allah**. Kamu bisa mengucapkannya saat mengagumi hasil karya teman sambil menghargai usahanya. Q.S. Al-Kahf 18:39 memberi contoh ketika seseorang melihat nikmat berupa kebun.
+- **Insyaallah** (<span lang="ar" dir="rtl">إِنْ شَاءَ اللَّهُ</span>) berarti **jika Allah menghendaki**. Ucapkan saat membicarakan rencana, seperti “Insyaallah besok aku membawa buku.” Siapkan bukunya, catat waktunya, dan beri kabar jika ada halangan. Q.S. Al-Kahf 18:23–24 mengingatkan tentang kehendak Allah dalam rencana.
+- **Allahu Akbar** (<span lang="ar" dir="rtl">اللَّهُ أَكْبَرُ</span>) berarti **Allah Maha Besar**. Ini lafaz takbir. Kita mendengarnya ketika salat dimulai dan saat takbir Id.
 
-**Ayo praktik:** Ceritakan satu hal yang kamu pelajari hari ini dengan bahasamu sendiri.
+Pemandangan indah bisa mengingatkanmu untuk bertasbih. Kamu juga bisa mengucap Masyaallah untuk mengakui karunia Allah. Perhatikan makna yang ingin kamu sampaikan.
+
+**Ayo praktik.** Salin empat lafaz dari kanan ke kiri. Periksa huruf dan harakat bersama guru. Perhatikan kata pertama Masyaallah dan Insyaallah. Lalu ucapkan setiap lafaz dan beri satu contoh penggunaan. Untuk contoh rencana, sebutkan satu persiapan yang menunjukkan disiplin.
 
 ---
 
 ## MOD-02 — K03-PAI-B08-MOD-02
 
-### Belajar lewat contoh
+### Dari kebun sampai waktu salat
 
-Bayangkan kamu sedang berdiskusi dengan teman tentang aku senang berkalimah tayyibah. Kalian saling bertanya, mendengarkan, dan memberi contoh yang baik.
+Rara dan Damar berjalan melewati kebun. Rara melihat langit cerah dan bertasbih, **Subhanallah** (<span lang="ar" dir="rtl">سُبْحَانَ اللَّهِ</span>). Ia sedang mengingat bahwa Allah Mahasuci. Q.S. Ali ‘Imran 3:41 mengajarkan untuk bertasbih pada petang dan pagi.
 
-- **Insyaallah** — Saat berjanji tentang rencana masa depan, kita dapat mengucap Insyaallah.
-- **ucapan yang baik** — Kalimah tayyibah adalah ucapan yang baik.
-- **kebesaran Allah** — Saat mengucap Allahu Akbar, kita mengingat kebesaran Allah.
-- **kesucian Allah** — Ucapan Subhanallah menunjukkan pengakuan atas kesucian Allah.
-- **pemahaman dan perilaku baik** — Mengucapkan kalimah tayyibah sebaiknya disertai pemahaman dan perilaku baik.
+Damar mengagumi panen. Ia berkata, **Masyaallah** (<span lang="ar" dir="rtl">مَا شَاءَ اللَّهُ</span>). Ia mengakui karunia itu terjadi atas kehendak Allah dan menghargai kerja petani. Q.S. Al-Kahf 18:39 menyebut lafaz ini dalam kisah pemilik kebun. Saat sama-sama kagum, tasbih dan Masyaallah bisa menyampaikan dua makna yang berbeda.
 
-**Ayo coba:** Pilih dua hal dari materi ini, lalu jelaskan manfaat atau contohnya kepada orang tua.
+Mereka hendak menggambar kebun besok. “**Insyaallah** (<span lang="ar" dir="rtl">إِنْ شَاءَ اللَّهُ</span>), besok aku bawa kertas,” ujar Damar. Artinya “jika Allah menghendaki”. Ia menyiapkan kertas malam itu dan akan memberi kabar jika berhalangan. Kebiasaan itu melatih disiplin. Q.S. Al-Kahf 18:23–24 mengingatkan kita untuk menyebut kehendak Allah saat membuat rencana.
+
+Saat salat dimulai, Rara mendengar **Allahu Akbar** (<span lang="ar" dir="rtl">اللَّهُ أَكْبَرُ</span>). Ini lafaz takbir, artinya Allah Maha Besar. Takbir juga terdengar pada perayaan Id.
+
+**Ayo main kartu.** Buat empat kartu lafaz dan empat kartu arti. Tulis lafaz Arab dari kanan ke kiri lalu cek huruf dan harakatnya dengan contoh. Pasangkan kartu, bacakan kepada guru, dan ceritakan satu keadaan untuk tiap lafaz. Tunjukkan bagaimana kamu akan menepati rencanamu.
+
+---
+
+Acuan: [buku siswa Bab VIII](https://www.belajarpai.com/wp-content/uploads/2023/09/BAB-VIII_Aku-Senang-Berkalimah-Thayyibah_BS-3.pdf), [panduan guru Bab VIII](https://www.belajarpai.com/wp-content/uploads/2023/09/BUKU-GURU-PAI-KELAS-III.pdf), [Q.S. Ali ‘Imran 3:41](https://quran.com/3/41), [Q.S. Al-Kahf 18:39](https://quran.com/18/39) dan [Q.S. Al-Kahf 18:23–24](https://quran.com/18/23-24).
