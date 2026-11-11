@@ -1,79 +1,61 @@
-# Bahasa Inggris Kelas 3 — Unit 1: I like Mi Aceh
+# Bahasa Inggris Kelas 3 — Unit 1: I Like Mi Aceh
 
 ## MOD-01 — K03-ENG-B01-MOD-01
 
-### Let's talk about food!
+### Let's learn!
 
-Saat istirahat, kamu melihat makanan di kantin. Yuk, belajar menyebutkan makanan dan minuman dalam bahasa Inggris!
+Ayo belajar kosakata baru dengan melihat gambar dan membacanya keras-keras.
 
-![Makanan dan minuman](assets/eng-b01-gambar-01.svg)
+![Vocabulary picture](assets/eng-b01-gambar-01.svg)
 
 **Kosakata:**
-- **fried rice** = nasi goreng
-- **fried chicken** = ayam goreng
+- **rice** = nasi
 - **noodles** = mi
-- **meatballs** = bakso
+- **chicken** = ayam
 - **bread** = roti
 - **milk** = susu
 - **tea** = teh
 - **banana** = pisang
 - **ice cream** = es krim
-- **rice** = nasi
-- **water** = air putih
-- **orange juice** = jus jeruk
+- **water** = air
+- **fish** = ikan
 
-**Pola kalimat penting:**
-- **I like fried rice.** = Aku suka nasi goreng.
-- **I don't like tea.** = Aku tidak suka teh.
-- **Do you like milk?** = Apakah kamu suka susu?
-- **Yes, I do.** = Ya, aku suka.
-- **No, I don't.** = Tidak, aku tidak suka.
+**Contoh:**
+- A: What is "nasi" in English?
+- B: It is "rice".
+- A: What about "mi"?
+- B: It is "noodles".
 
-**Percakapan singkat:**
-- A: Do you like bread?
-- B: Yes, I do. I like bread.
-- A: Do you like tea?
-- B: No, I don't. I like milk.
-
-**Coba praktik:** Sebutkan tiga makanan yang kamu suka dalam bahasa Inggris. Tanyakan kepada anggota keluarga, “Do you like ...?”
+**Latihan:** Sebutkan lima kata yang kamu ingat, lalu buat kalimat sederhana bersama guru atau orang tua.
 
 
 ---
 
 ## MOD-02 — K03-ENG-B01-MOD-02
 
-### A day at the canteen
+### Let's practice!
 
-Bayangkan kamu dan temanmu sedang memilih makanan. Kamu bisa bercerita tentang makanan yang disukai dan bertanya kepada teman.
+Ajak teman bergantian menyebut kata bahasa Inggris dan artinya. Gunakan dalam percakapan sederhana.
 
-![Makanan dan minuman](assets/eng-b01-gambar-01.svg)
+![Vocabulary picture](assets/eng-b01-gambar-02.svg)
 
 **Kosakata:**
-- **fried rice** = nasi goreng
-- **fried chicken** = ayam goreng
+- **rice** = nasi
 - **noodles** = mi
-- **meatballs** = bakso
+- **chicken** = ayam
 - **bread** = roti
 - **milk** = susu
 - **tea** = teh
 - **banana** = pisang
 - **ice cream** = es krim
-- **rice** = nasi
-- **water** = air putih
-- **orange juice** = jus jeruk
+- **water** = air
+- **fish** = ikan
 
-**Pola kalimat penting:**
-- **I like fried rice.** = Aku suka nasi goreng.
-- **I don't like tea.** = Aku tidak suka teh.
-- **Do you like milk?** = Apakah kamu suka susu?
-- **Yes, I do.** = Ya, aku suka.
-- **No, I don't.** = Tidak, aku tidak suka.
+**Contoh:**
+- A: What is "nasi" in English?
+- B: It is "rice".
+- A: What about "mi"?
+- B: It is "noodles".
 
-**Percakapan singkat:**
-- A: Do you like bread?
-- B: Yes, I do. I like bread.
-- A: Do you like tea?
-- B: No, I don't. I like milk.
-
-**Coba praktik:** Sebutkan tiga makanan yang kamu suka dalam bahasa Inggris. Tanyakan kepada anggota keluarga, “Do you like ...?”
+**Latihan:** Sebutkan lima kata yang kamu ingat, lalu buat kalimat sederhana bersama guru atau orang tua.
 

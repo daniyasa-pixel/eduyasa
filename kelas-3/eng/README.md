@@ -1,9 +1,18 @@
 # Bahasa Inggris Kelas 3 — EDUYASA
 
-**Sumber acuan awal:** *My Next Words Grade 3* (Kemdikbudristek, 2022), Unit 1: I like Mi Aceh. https://static.perangkat-ajar.belajar.id/Buku%20Murid%20Bahasa%20Inggris%20-%20Bahasa%20Inggris%3A%20My%20Next%20Words%20Buku%20Siswa%20SD%20Kelas%20III%20BAB%201%20-%20Fase%20B.pdf
+**Target terbaru per unit:** 2 modul, 35 soal teks, 10 soal bergambar, 5 soal listening. Total 10 unit: **20 modul dan 500 soal**.
 
-**Target per unit:** 2 modul bergambar, 50 soal teks, 20 soal bergambar, 10 soal listening dengan MP3.
+- Unit 1: I Like Mi Aceh
+- Unit 2: I Don't Like Rice
+- Unit 3: I Have Fried Chicken for Breakfast
+- Unit 4: Do You Like Swimming?
+- Unit 5: I Like Riding a Bike on Sunday
+- Unit 6: Is It the Canteen?
+- Unit 7: My Class Is Behind the Office
+- Unit 8: I Drink Orange Juice in the Canteen
+- Unit 9: My Classroom Is Clean
+- Unit 10: There Are Twenty Books on the Shelf
 
-**Status Unit 1:** Modul dan 80 soal Markdown + 10 SVG diunggah sebagai **draf**, belum lulus audit kualitas penuh. Audio MP3 **belum tersedia**, jadi listening belum siap diputar. Unit berikutnya belum diproduksi.
+**STATUS: DRAF BELUM FINAL.** Semua unit memiliki berkas Markdown dan 100 SVG sederhana. **50 MP3 belum dibuat**; listening tidak dapat diputar. Soal masih dominan pengenalan kosakata, ilustrasi masih ikon/emoji dan belum lulus audit variasi serta kecocokan detail dengan buku resmi. Jangan menganggap paket siap rilis.
 
-**Aturan:** 4 opsi unik, jawaban sama persis dengan salah satu opsi, pembahasan ada, transkrip audio tidak ditampilkan saat pengerjaan, dan aset audio harus benar-benar bisa diputar sebelum publikasi.
+**ID:** `K03-ENG-B##-MOD-01/02`; soal `K03-ENG-B##-M01-001`–`050`. Soal 1–35 teks, 36–45 bergambar, 46–50 listening.

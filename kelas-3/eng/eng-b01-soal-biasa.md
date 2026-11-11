@@ -1,801 +1,561 @@
-# Unit 1 — 50 soal teks
+# Unit 1 — 35 Soal Teks
 
 ## Soal 1 — K03-ENG-B01-M01-001
 
-**Pertanyaan:** What is the English word for "nasi goreng"?
+**Pertanyaan:** What is the English word for "nasi"?
 
 **Pilihan jawaban:**
-- fried rice
-- fried chicken
-- noodles
-- meatballs
+- milk
+- ice cream
+- bread
+- rice
 
-**Kunci Jawaban:** fried rice
+**Kunci Jawaban:** rice
 
-**Pembahasan:** "nasi goreng" dalam bahasa Inggris adalah "fried rice".
+**Pembahasan:** "rice" berarti "nasi".
 
 ---
 
 ## Soal 2 — K03-ENG-B01-M01-002
 
-**Pertanyaan:** What is the English word for "ayam goreng"?
+**Pertanyaan:** What is the English word for "mi"?
 
 **Pilihan jawaban:**
-- fried rice
+- water
+- milk
 - noodles
-- meatballs
-- fried chicken
+- tea
 
-**Kunci Jawaban:** fried chicken
+**Kunci Jawaban:** noodles
 
-**Pembahasan:** "ayam goreng" dalam bahasa Inggris adalah "fried chicken".
+**Pembahasan:** "noodles" berarti "mi".
 
 ---
 
 ## Soal 3 — K03-ENG-B01-M01-003
 
-**Pertanyaan:** What is the English word for "mi"?
+**Pertanyaan:** What is the English word for "ayam"?
 
 **Pilihan jawaban:**
-- fried chicken
-- meatballs
-- noodles
-- fried rice
+- tea
+- chicken
+- banana
+- fish
 
-**Kunci Jawaban:** noodles
+**Kunci Jawaban:** chicken
 
-**Pembahasan:** "mi" dalam bahasa Inggris adalah "noodles".
+**Pembahasan:** "chicken" berarti "ayam".
 
 ---
 
 ## Soal 4 — K03-ENG-B01-M01-004
 
-**Pertanyaan:** What is the English word for "bakso"?
+**Pertanyaan:** What is the English word for "roti"?
 
 **Pilihan jawaban:**
-- noodles
-- meatballs
-- fried rice
-- fried chicken
+- bread
+- ice cream
+- rice
+- banana
 
-**Kunci Jawaban:** meatballs
+**Kunci Jawaban:** bread
 
-**Pembahasan:** "bakso" dalam bahasa Inggris adalah "meatballs".
+**Pembahasan:** "bread" berarti "roti".
 
 ---
 
 ## Soal 5 — K03-ENG-B01-M01-005
 
-**Pertanyaan:** What is the English word for "roti"?
+**Pertanyaan:** What is the English word for "susu"?
 
 **Pilihan jawaban:**
-- bread
-- fried rice
-- fried chicken
+- water
 - noodles
+- ice cream
+- milk
 
-**Kunci Jawaban:** bread
+**Kunci Jawaban:** milk
 
-**Pembahasan:** "roti" dalam bahasa Inggris adalah "bread".
+**Pembahasan:** "milk" berarti "susu".
 
 ---
 
 ## Soal 6 — K03-ENG-B01-M01-006
 
-**Pertanyaan:** What is the English word for "susu"?
+**Pertanyaan:** What is the English word for "teh"?
 
 **Pilihan jawaban:**
-- fried rice
-- fried chicken
-- noodles
-- milk
+- chicken
+- water
+- tea
+- fish
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** tea
 
-**Pembahasan:** "susu" dalam bahasa Inggris adalah "milk".
+**Pembahasan:** "tea" berarti "teh".
 
 ---
 
 ## Soal 7 — K03-ENG-B01-M01-007
 
-**Pertanyaan:** What is the English word for "teh"?
+**Pertanyaan:** What is the English word for "pisang"?
 
 **Pilihan jawaban:**
-- fried chicken
-- noodles
-- tea
-- fried rice
+- fish
+- banana
+- rice
+- bread
 
-**Kunci Jawaban:** tea
+**Kunci Jawaban:** banana
 
-**Pembahasan:** "teh" dalam bahasa Inggris adalah "tea".
+**Pembahasan:** "banana" berarti "pisang".
 
 ---
 
 ## Soal 8 — K03-ENG-B01-M01-008
 
-**Pertanyaan:** What is the English word for "pisang"?
+**Pertanyaan:** What is the English word for "es krim"?
 
 **Pilihan jawaban:**
+- ice cream
 - noodles
-- banana
-- fried rice
-- fried chicken
+- milk
+- rice
 
-**Kunci Jawaban:** banana
+**Kunci Jawaban:** ice cream
 
-**Pembahasan:** "pisang" dalam bahasa Inggris adalah "banana".
+**Pembahasan:** "ice cream" berarti "es krim".
 
 ---
 
 ## Soal 9 — K03-ENG-B01-M01-009
 
-**Pertanyaan:** What is the English word for "es krim"?
+**Pertanyaan:** What is the English word for "air"?
 
 **Pilihan jawaban:**
-- ice cream
-- fried rice
-- fried chicken
+- chicken
+- tea
 - noodles
+- water
 
-**Kunci Jawaban:** ice cream
+**Kunci Jawaban:** water
 
-**Pembahasan:** "es krim" dalam bahasa Inggris adalah "ice cream".
+**Pembahasan:** "water" berarti "air".
 
 ---
 
 ## Soal 10 — K03-ENG-B01-M01-010
 
-**Pertanyaan:** What is the English word for "nasi"?
+**Pertanyaan:** What is the English word for "ikan"?
 
 **Pilihan jawaban:**
-- fried rice
-- fried chicken
-- noodles
-- rice
+- banana
+- chicken
+- fish
+- bread
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** fish
 
-**Pembahasan:** "nasi" dalam bahasa Inggris adalah "rice".
+**Pembahasan:** "fish" berarti "ikan".
 
 ---
 
 ## Soal 11 — K03-ENG-B01-M01-011
 
-**Pertanyaan:** What is the English word for "air putih"?
+**Pertanyaan:** What does "rice" mean in Indonesian?
 
 **Pilihan jawaban:**
-- fried chicken
-- noodles
-- water
-- fried rice
+- roti
+- nasi
+- susu
+- es krim
 
-**Kunci Jawaban:** water
+**Kunci Jawaban:** nasi
 
-**Pembahasan:** "air putih" dalam bahasa Inggris adalah "water".
+**Pembahasan:** "rice" berarti "nasi".
 
 ---
 
 ## Soal 12 — K03-ENG-B01-M01-012
 
-**Pertanyaan:** What is the English word for "jus jeruk"?
+**Pertanyaan:** What does "noodles" mean in Indonesian?
 
 **Pilihan jawaban:**
-- noodles
-- orange juice
-- fried rice
-- fried chicken
+- mi
+- teh
+- air
+- susu
 
-**Kunci Jawaban:** orange juice
+**Kunci Jawaban:** mi
 
-**Pembahasan:** "jus jeruk" dalam bahasa Inggris adalah "orange juice".
+**Pembahasan:** "noodles" berarti "mi".
 
 ---
 
 ## Soal 13 — K03-ENG-B01-M01-013
 
-**Pertanyaan:** What does "fried rice" mean in Indonesian?
+**Pertanyaan:** What does "chicken" mean in Indonesian?
 
 **Pilihan jawaban:**
-- nasi goreng
-- ayam goreng
-- mi
-- bakso
+- pisang
+- ikan
+- teh
+- ayam
 
-**Kunci Jawaban:** nasi goreng
+**Kunci Jawaban:** ayam
 
-**Pembahasan:** "fried rice" artinya "nasi goreng".
+**Pembahasan:** "chicken" berarti "ayam".
 
 ---
 
 ## Soal 14 — K03-ENG-B01-M01-014
 
-**Pertanyaan:** What does "fried chicken" mean in Indonesian?
+**Pertanyaan:** What does "bread" mean in Indonesian?
 
 **Pilihan jawaban:**
-- nasi goreng
-- mi
-- bakso
-- ayam goreng
+- nasi
+- pisang
+- roti
+- es krim
 
-**Kunci Jawaban:** ayam goreng
+**Kunci Jawaban:** roti
 
-**Pembahasan:** "fried chicken" artinya "ayam goreng".
+**Pembahasan:** "bread" berarti "roti".
 
 ---
 
 ## Soal 15 — K03-ENG-B01-M01-015
 
-**Pertanyaan:** What does "noodles" mean in Indonesian?
+**Pertanyaan:** What does "milk" mean in Indonesian?
 
 **Pilihan jawaban:**
-- ayam goreng
-- bakso
+- es krim
+- susu
+- air
 - mi
-- nasi goreng
 
-**Kunci Jawaban:** mi
+**Kunci Jawaban:** susu
 
-**Pembahasan:** "noodles" artinya "mi".
+**Pembahasan:** "milk" berarti "susu".
 
 ---
 
 ## Soal 16 — K03-ENG-B01-M01-016
 
-**Pertanyaan:** What does "meatballs" mean in Indonesian?
+**Pertanyaan:** What does "tea" mean in Indonesian?
 
 **Pilihan jawaban:**
-- mi
-- bakso
-- nasi goreng
-- ayam goreng
+- teh
+- ikan
+- ayam
+- air
 
-**Kunci Jawaban:** bakso
+**Kunci Jawaban:** teh
 
-**Pembahasan:** "meatballs" artinya "bakso".
+**Pembahasan:** "tea" berarti "teh".
 
 ---
 
 ## Soal 17 — K03-ENG-B01-M01-017
 
-**Pertanyaan:** What does "bread" mean in Indonesian?
+**Pertanyaan:** What does "banana" mean in Indonesian?
 
 **Pilihan jawaban:**
+- nasi
 - roti
-- nasi goreng
-- ayam goreng
-- mi
+- ikan
+- pisang
 
-**Kunci Jawaban:** roti
+**Kunci Jawaban:** pisang
 
-**Pembahasan:** "bread" artinya "roti".
+**Pembahasan:** "banana" berarti "pisang".
 
 ---
 
 ## Soal 18 — K03-ENG-B01-M01-018
 
-**Pertanyaan:** What does "milk" mean in Indonesian?
+**Pertanyaan:** What does "ice cream" mean in Indonesian?
 
 **Pilihan jawaban:**
-- nasi goreng
-- ayam goreng
-- mi
 - susu
+- nasi
+- es krim
+- mi
 
-**Kunci Jawaban:** susu
+**Kunci Jawaban:** es krim
 
-**Pembahasan:** "milk" artinya "susu".
+**Pembahasan:** "ice cream" berarti "es krim".
 
 ---
 
 ## Soal 19 — K03-ENG-B01-M01-019
 
-**Pertanyaan:** What does "tea" mean in Indonesian?
+**Pertanyaan:** What does "water" mean in Indonesian?
 
 **Pilihan jawaban:**
-- ayam goreng
 - mi
+- air
+- ayam
 - teh
-- nasi goreng
 
-**Kunci Jawaban:** teh
+**Kunci Jawaban:** air
 
-**Pembahasan:** "tea" artinya "teh".
+**Pembahasan:** "water" berarti "air".
 
 ---
 
 ## Soal 20 — K03-ENG-B01-M01-020
 
-**Pertanyaan:** What does "banana" mean in Indonesian?
+**Pertanyaan:** What does "fish" mean in Indonesian?
 
 **Pilihan jawaban:**
-- mi
+- ikan
+- roti
 - pisang
-- nasi goreng
-- ayam goreng
+- ayam
 
-**Kunci Jawaban:** pisang
+**Kunci Jawaban:** ikan
 
-**Pembahasan:** "banana" artinya "pisang".
+**Pembahasan:** "fish" berarti "ikan".
 
 ---
 
 ## Soal 21 — K03-ENG-B01-M01-021
 
-**Pertanyaan:** What does "ice cream" mean in Indonesian?
+**Pertanyaan:** Which English word matches "nasi" in the lesson?
 
 **Pilihan jawaban:**
-- es krim
-- nasi goreng
-- ayam goreng
-- mi
+- milk
+- ice cream
+- bread
+- rice
 
-**Kunci Jawaban:** es krim
+**Kunci Jawaban:** rice
 
-**Pembahasan:** "ice cream" artinya "es krim".
+**Pembahasan:** "rice" berarti "nasi".
 
 ---
 
 ## Soal 22 — K03-ENG-B01-M01-022
 
-**Pertanyaan:** What does "rice" mean in Indonesian?
+**Pertanyaan:** Which English word matches "mi" in the lesson?
 
 **Pilihan jawaban:**
-- nasi goreng
-- ayam goreng
-- mi
-- nasi
+- water
+- milk
+- noodles
+- tea
 
-**Kunci Jawaban:** nasi
+**Kunci Jawaban:** noodles
 
-**Pembahasan:** "rice" artinya "nasi".
+**Pembahasan:** "noodles" berarti "mi".
 
 ---
 
 ## Soal 23 — K03-ENG-B01-M01-023
 
-**Pertanyaan:** What does "water" mean in Indonesian?
+**Pertanyaan:** Which English word matches "ayam" in the lesson?
 
 **Pilihan jawaban:**
-- ayam goreng
-- mi
-- air putih
-- nasi goreng
+- tea
+- chicken
+- banana
+- fish
 
-**Kunci Jawaban:** air putih
+**Kunci Jawaban:** chicken
 
-**Pembahasan:** "water" artinya "air putih".
+**Pembahasan:** "chicken" berarti "ayam".
 
 ---
 
 ## Soal 24 — K03-ENG-B01-M01-024
 
-**Pertanyaan:** What does "orange juice" mean in Indonesian?
+**Pertanyaan:** Which English word matches "roti" in the lesson?
 
 **Pilihan jawaban:**
-- mi
-- jus jeruk
-- nasi goreng
-- ayam goreng
+- bread
+- ice cream
+- rice
+- banana
 
-**Kunci Jawaban:** jus jeruk
+**Kunci Jawaban:** bread
 
-**Pembahasan:** "orange juice" artinya "jus jeruk".
+**Pembahasan:** "bread" berarti "roti".
 
 ---
 
 ## Soal 25 — K03-ENG-B01-M01-025
 
-**Pertanyaan:** Aisyah likes fried rice. Which sentence says that correctly?
+**Pertanyaan:** Which English word matches "susu" in the lesson?
 
 **Pilihan jawaban:**
-- I like fried rice.
-- I like fried chicken.
-- I like noodles.
-- I like meatballs.
+- water
+- noodles
+- ice cream
+- milk
 
-**Kunci Jawaban:** I like fried rice.
+**Kunci Jawaban:** milk
 
-**Pembahasan:** Untuk menyatakan suka, gunakan "I like ..." diikuti nama makanan atau minuman.
+**Pembahasan:** "milk" berarti "susu".
 
 ---
 
 ## Soal 26 — K03-ENG-B01-M01-026
 
-**Pertanyaan:** Aisyah likes fried chicken. Which sentence says that correctly?
+**Pertanyaan:** Which English word matches "teh" in the lesson?
 
 **Pilihan jawaban:**
-- I like fried rice.
-- I like noodles.
-- I like meatballs.
-- I like fried chicken.
+- chicken
+- water
+- tea
+- fish
 
-**Kunci Jawaban:** I like fried chicken.
+**Kunci Jawaban:** tea
 
-**Pembahasan:** Untuk menyatakan suka, gunakan "I like ..." diikuti nama makanan atau minuman.
+**Pembahasan:** "tea" berarti "teh".
 
 ---
 
 ## Soal 27 — K03-ENG-B01-M01-027
 
-**Pertanyaan:** Aisyah likes noodles. Which sentence says that correctly?
+**Pertanyaan:** Which English word matches "pisang" in the lesson?
 
 **Pilihan jawaban:**
-- I like fried chicken.
-- I like meatballs.
-- I like noodles.
-- I like fried rice.
+- fish
+- banana
+- rice
+- bread
 
-**Kunci Jawaban:** I like noodles.
+**Kunci Jawaban:** banana
 
-**Pembahasan:** Untuk menyatakan suka, gunakan "I like ..." diikuti nama makanan atau minuman.
+**Pembahasan:** "banana" berarti "pisang".
 
 ---
 
 ## Soal 28 — K03-ENG-B01-M01-028
 
-**Pertanyaan:** Aisyah likes meatballs. Which sentence says that correctly?
+**Pertanyaan:** Which English word matches "es krim" in the lesson?
 
 **Pilihan jawaban:**
-- I like noodles.
-- I like meatballs.
-- I like fried rice.
-- I like fried chicken.
+- ice cream
+- noodles
+- milk
+- rice
 
-**Kunci Jawaban:** I like meatballs.
+**Kunci Jawaban:** ice cream
 
-**Pembahasan:** Untuk menyatakan suka, gunakan "I like ..." diikuti nama makanan atau minuman.
+**Pembahasan:** "ice cream" berarti "es krim".
 
 ---
 
 ## Soal 29 — K03-ENG-B01-M01-029
 
-**Pertanyaan:** Aisyah likes bread. Which sentence says that correctly?
+**Pertanyaan:** Which English word matches "air" in the lesson?
 
 **Pilihan jawaban:**
-- I like bread.
-- I like fried rice.
-- I like fried chicken.
-- I like noodles.
+- chicken
+- tea
+- noodles
+- water
 
-**Kunci Jawaban:** I like bread.
+**Kunci Jawaban:** water
 
-**Pembahasan:** Untuk menyatakan suka, gunakan "I like ..." diikuti nama makanan atau minuman.
+**Pembahasan:** "water" berarti "air".
 
 ---
 
 ## Soal 30 — K03-ENG-B01-M01-030
 
-**Pertanyaan:** Aisyah likes milk. Which sentence says that correctly?
+**Pertanyaan:** Which English word matches "ikan" in the lesson?
 
 **Pilihan jawaban:**
-- I like fried rice.
-- I like fried chicken.
-- I like noodles.
-- I like milk.
+- banana
+- chicken
+- fish
+- bread
 
-**Kunci Jawaban:** I like milk.
+**Kunci Jawaban:** fish
 
-**Pembahasan:** Untuk menyatakan suka, gunakan "I like ..." diikuti nama makanan atau minuman.
+**Pembahasan:** "fish" berarti "ikan".
 
 ---
 
 ## Soal 31 — K03-ENG-B01-M01-031
 
-**Pertanyaan:** Aisyah likes tea. Which sentence says that correctly?
+**Pertanyaan:** What is the English word for "nasi"?
 
 **Pilihan jawaban:**
-- I like fried chicken.
-- I like noodles.
-- I like tea.
-- I like fried rice.
+- bread
+- rice
+- milk
+- ice cream
 
-**Kunci Jawaban:** I like tea.
+**Kunci Jawaban:** rice
 
-**Pembahasan:** Untuk menyatakan suka, gunakan "I like ..." diikuti nama makanan atau minuman.
+**Pembahasan:** "rice" berarti "nasi".
 
 ---
 
 ## Soal 32 — K03-ENG-B01-M01-032
 
-**Pertanyaan:** Aisyah likes banana. Which sentence says that correctly?
+**Pertanyaan:** What is the English word for "mi"?
 
 **Pilihan jawaban:**
-- I like noodles.
-- I like banana.
-- I like fried rice.
-- I like fried chicken.
+- noodles
+- tea
+- water
+- milk
 
-**Kunci Jawaban:** I like banana.
+**Kunci Jawaban:** noodles
 
-**Pembahasan:** Untuk menyatakan suka, gunakan "I like ..." diikuti nama makanan atau minuman.
+**Pembahasan:** "noodles" berarti "mi".
 
 ---
 
 ## Soal 33 — K03-ENG-B01-M01-033
 
-**Pertanyaan:** Aisyah likes ice cream. Which sentence says that correctly?
+**Pertanyaan:** What is the English word for "ayam"?
 
 **Pilihan jawaban:**
-- I like ice cream.
-- I like fried rice.
-- I like fried chicken.
-- I like noodles.
+- banana
+- fish
+- tea
+- chicken
 
-**Kunci Jawaban:** I like ice cream.
+**Kunci Jawaban:** chicken
 
-**Pembahasan:** Untuk menyatakan suka, gunakan "I like ..." diikuti nama makanan atau minuman.
+**Pembahasan:** "chicken" berarti "ayam".
 
 ---
 
 ## Soal 34 — K03-ENG-B01-M01-034
 
-**Pertanyaan:** Aisyah likes rice. Which sentence says that correctly?
+**Pertanyaan:** What is the English word for "roti"?
 
 **Pilihan jawaban:**
-- I like fried rice.
-- I like fried chicken.
-- I like noodles.
-- I like rice.
+- rice
+- banana
+- bread
+- ice cream
 
-**Kunci Jawaban:** I like rice.
+**Kunci Jawaban:** bread
 
-**Pembahasan:** Untuk menyatakan suka, gunakan "I like ..." diikuti nama makanan atau minuman.
+**Pembahasan:** "bread" berarti "roti".
 
 ---
 
 ## Soal 35 — K03-ENG-B01-M01-035
 
-**Pertanyaan:** Aisyah likes water. Which sentence says that correctly?
+**Pertanyaan:** What is the English word for "susu"?
 
 **Pilihan jawaban:**
-- I like fried chicken.
-- I like noodles.
-- I like water.
-- I like fried rice.
+- ice cream
+- milk
+- water
+- noodles
 
-**Kunci Jawaban:** I like water.
+**Kunci Jawaban:** milk
 
-**Pembahasan:** Untuk menyatakan suka, gunakan "I like ..." diikuti nama makanan atau minuman.
-
----
-
-## Soal 36 — K03-ENG-B01-M01-036
-
-**Pertanyaan:** Aisyah likes orange juice. Which sentence says that correctly?
-
-**Pilihan jawaban:**
-- I like noodles.
-- I like orange juice.
-- I like fried rice.
-- I like fried chicken.
-
-**Kunci Jawaban:** I like orange juice.
-
-**Pembahasan:** Untuk menyatakan suka, gunakan "I like ..." diikuti nama makanan atau minuman.
-
----
-
-## Soal 37 — K03-ENG-B01-M01-037
-
-**Pertanyaan:** Your friend asks, "Do you like fried rice?" You like it. What do you say?
-
-**Pilihan jawaban:**
-- Yes, I do.
-- No, I don't.
-- I am nine.
-- Good morning.
-
-**Kunci Jawaban:** Yes, I do.
-
-**Pembahasan:** Jawaban positif untuk "Do you like ...?" adalah "Yes, I do."
-
----
-
-## Soal 38 — K03-ENG-B01-M01-038
-
-**Pertanyaan:** Your friend asks, "Do you like fried chicken?" You like it. What do you say?
-
-**Pilihan jawaban:**
-- No, I don't.
-- I am nine.
-- Good morning.
-- Yes, I do.
-
-**Kunci Jawaban:** Yes, I do.
-
-**Pembahasan:** Jawaban positif untuk "Do you like ...?" adalah "Yes, I do."
-
----
-
-## Soal 39 — K03-ENG-B01-M01-039
-
-**Pertanyaan:** Your friend asks, "Do you like noodles?" You like it. What do you say?
-
-**Pilihan jawaban:**
-- I am nine.
-- Good morning.
-- Yes, I do.
-- No, I don't.
-
-**Kunci Jawaban:** Yes, I do.
-
-**Pembahasan:** Jawaban positif untuk "Do you like ...?" adalah "Yes, I do."
-
----
-
-## Soal 40 — K03-ENG-B01-M01-040
-
-**Pertanyaan:** Your friend asks, "Do you like meatballs?" You like it. What do you say?
-
-**Pilihan jawaban:**
-- Good morning.
-- Yes, I do.
-- No, I don't.
-- I am nine.
-
-**Kunci Jawaban:** Yes, I do.
-
-**Pembahasan:** Jawaban positif untuk "Do you like ...?" adalah "Yes, I do."
-
----
-
-## Soal 41 — K03-ENG-B01-M01-041
-
-**Pertanyaan:** Your friend asks, "Do you like bread?" You like it. What do you say?
-
-**Pilihan jawaban:**
-- Yes, I do.
-- No, I don't.
-- I am nine.
-- Good morning.
-
-**Kunci Jawaban:** Yes, I do.
-
-**Pembahasan:** Jawaban positif untuk "Do you like ...?" adalah "Yes, I do."
-
----
-
-## Soal 42 — K03-ENG-B01-M01-042
-
-**Pertanyaan:** Your friend asks, "Do you like milk?" You like it. What do you say?
-
-**Pilihan jawaban:**
-- No, I don't.
-- I am nine.
-- Good morning.
-- Yes, I do.
-
-**Kunci Jawaban:** Yes, I do.
-
-**Pembahasan:** Jawaban positif untuk "Do you like ...?" adalah "Yes, I do."
-
----
-
-## Soal 43 — K03-ENG-B01-M01-043
-
-**Pertanyaan:** Your friend asks, "Do you like tea?" You like it. What do you say?
-
-**Pilihan jawaban:**
-- I am nine.
-- Good morning.
-- Yes, I do.
-- No, I don't.
-
-**Kunci Jawaban:** Yes, I do.
-
-**Pembahasan:** Jawaban positif untuk "Do you like ...?" adalah "Yes, I do."
-
----
-
-## Soal 44 — K03-ENG-B01-M01-044
-
-**Pertanyaan:** Your friend asks, "Do you like banana?" You like it. What do you say?
-
-**Pilihan jawaban:**
-- Good morning.
-- Yes, I do.
-- No, I don't.
-- I am nine.
-
-**Kunci Jawaban:** Yes, I do.
-
-**Pembahasan:** Jawaban positif untuk "Do you like ...?" adalah "Yes, I do."
-
----
-
-## Soal 45 — K03-ENG-B01-M01-045
-
-**Pertanyaan:** Your friend asks, "Do you like ice cream?" You like it. What do you say?
-
-**Pilihan jawaban:**
-- Yes, I do.
-- No, I don't.
-- I am nine.
-- Good morning.
-
-**Kunci Jawaban:** Yes, I do.
-
-**Pembahasan:** Jawaban positif untuk "Do you like ...?" adalah "Yes, I do."
-
----
-
-## Soal 46 — K03-ENG-B01-M01-046
-
-**Pertanyaan:** Your friend asks, "Do you like rice?" You like it. What do you say?
-
-**Pilihan jawaban:**
-- No, I don't.
-- I am nine.
-- Good morning.
-- Yes, I do.
-
-**Kunci Jawaban:** Yes, I do.
-
-**Pembahasan:** Jawaban positif untuk "Do you like ...?" adalah "Yes, I do."
-
----
-
-## Soal 47 — K03-ENG-B01-M01-047
-
-**Pertanyaan:** Your friend asks, "Do you like water?" You like it. What do you say?
-
-**Pilihan jawaban:**
-- I am nine.
-- Good morning.
-- Yes, I do.
-- No, I don't.
-
-**Kunci Jawaban:** Yes, I do.
-
-**Pembahasan:** Jawaban positif untuk "Do you like ...?" adalah "Yes, I do."
-
----
-
-## Soal 48 — K03-ENG-B01-M01-048
-
-**Pertanyaan:** Your friend asks, "Do you like orange juice?" You like it. What do you say?
-
-**Pilihan jawaban:**
-- Good morning.
-- Yes, I do.
-- No, I don't.
-- I am nine.
-
-**Kunci Jawaban:** Yes, I do.
-
-**Pembahasan:** Jawaban positif untuk "Do you like ...?" adalah "Yes, I do."
-
----
-
-## Soal 49 — K03-ENG-B01-M01-049
-
-**Pertanyaan:** Your friend asks, "Do you like fried rice?" You do not like it. What do you say?
-
-**Pilihan jawaban:**
-- No, I don't.
-- Yes, I do.
-- Thank you.
-- I am fine.
-
-**Kunci Jawaban:** No, I don't.
-
-**Pembahasan:** Jawaban negatif adalah "No, I don't."
-
----
-
-## Soal 50 — K03-ENG-B01-M01-050
-
-**Pertanyaan:** Your friend asks, "Do you like fried chicken?" You do not like it. What do you say?
-
-**Pilihan jawaban:**
-- Yes, I do.
-- Thank you.
-- I am fine.
-- No, I don't.
-
-**Kunci Jawaban:** No, I don't.
-
-**Pembahasan:** Jawaban negatif adalah "No, I don't."
+**Pembahasan:** "milk" berarti "susu".
 
 ---

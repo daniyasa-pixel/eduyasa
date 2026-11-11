@@ -1,361 +1,181 @@
-# Unit 1 — 20 soal bergambar
+# Unit 1 — 10 Soal Bergambar
 
-## Soal 51 — K03-ENG-B01-M01-051
+## Soal 36 — K03-ENG-B01-M01-036
 
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-01.svg)
+![Picture](assets/eng-b01-gambar-01.svg)
 
-**Pertanyaan:** Look at the picture. What food or drink is shown?
-
-**Pilihan jawaban:**
-- fried rice
-- fried chicken
-- noodles
-- meatballs
-
-**Kunci Jawaban:** fried rice
-
-**Pembahasan:** Gambar menunjukkan nasi goreng (fried rice).
-
----
-
-## Soal 52 — K03-ENG-B01-M01-052
-
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-02.svg)
-
-**Pertanyaan:** Look at the picture. What food or drink is shown?
+**Pertanyaan:** Look at the picture. Choose the matching English word.
 
 **Pilihan jawaban:**
-- fried rice
-- noodles
-- meatballs
-- fried chicken
-
-**Kunci Jawaban:** fried chicken
-
-**Pembahasan:** Gambar menunjukkan ayam goreng (fried chicken).
-
----
-
-## Soal 53 — K03-ENG-B01-M01-053
-
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-03.svg)
-
-**Pertanyaan:** Look at the picture. What food or drink is shown?
-
-**Pilihan jawaban:**
-- fried chicken
-- meatballs
-- noodles
-- fried rice
-
-**Kunci Jawaban:** noodles
-
-**Pembahasan:** Gambar menunjukkan mi (noodles).
-
----
-
-## Soal 54 — K03-ENG-B01-M01-054
-
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-04.svg)
-
-**Pertanyaan:** Look at the picture. What food or drink is shown?
-
-**Pilihan jawaban:**
-- noodles
-- meatballs
-- fried rice
-- fried chicken
-
-**Kunci Jawaban:** meatballs
-
-**Pembahasan:** Gambar menunjukkan bakso (meatballs).
-
----
-
-## Soal 55 — K03-ENG-B01-M01-055
-
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-05.svg)
-
-**Pertanyaan:** Look at the picture. What food or drink is shown?
-
-**Pilihan jawaban:**
-- bread
-- fried rice
-- fried chicken
-- noodles
-
-**Kunci Jawaban:** bread
-
-**Pembahasan:** Gambar menunjukkan roti (bread).
-
----
-
-## Soal 56 — K03-ENG-B01-M01-056
-
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-06.svg)
-
-**Pertanyaan:** Look at the picture. What food or drink is shown?
-
-**Pilihan jawaban:**
-- fried rice
-- fried chicken
-- noodles
-- milk
-
-**Kunci Jawaban:** milk
-
-**Pembahasan:** Gambar menunjukkan susu (milk).
-
----
-
-## Soal 57 — K03-ENG-B01-M01-057
-
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-07.svg)
-
-**Pertanyaan:** Look at the picture. What food or drink is shown?
-
-**Pilihan jawaban:**
-- fried chicken
-- noodles
-- tea
-- fried rice
-
-**Kunci Jawaban:** tea
-
-**Pembahasan:** Gambar menunjukkan teh (tea).
-
----
-
-## Soal 58 — K03-ENG-B01-M01-058
-
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-08.svg)
-
-**Pertanyaan:** Look at the picture. What food or drink is shown?
-
-**Pilihan jawaban:**
-- noodles
-- banana
-- fried rice
-- fried chicken
-
-**Kunci Jawaban:** banana
-
-**Pembahasan:** Gambar menunjukkan pisang (banana).
-
----
-
-## Soal 59 — K03-ENG-B01-M01-059
-
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-09.svg)
-
-**Pertanyaan:** Look at the picture. What food or drink is shown?
-
-**Pilihan jawaban:**
-- ice cream
-- fried rice
-- fried chicken
-- noodles
-
-**Kunci Jawaban:** ice cream
-
-**Pembahasan:** Gambar menunjukkan es krim (ice cream).
-
----
-
-## Soal 60 — K03-ENG-B01-M01-060
-
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-10.svg)
-
-**Pertanyaan:** Look at the picture. What food or drink is shown?
-
-**Pilihan jawaban:**
-- fried rice
-- fried chicken
-- noodles
 - rice
+- fish
+- chicken
+- tea
 
 **Kunci Jawaban:** rice
 
-**Pembahasan:** Gambar menunjukkan nasi (rice).
+**Pembahasan:** Gambar menunjukkan "rice" (nasi).
 
 ---
 
-## Soal 61 — K03-ENG-B01-M01-061
+## Soal 37 — K03-ENG-B01-M01-037
 
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-01.svg)
+![Picture](assets/eng-b01-gambar-02.svg)
 
-**Pertanyaan:** Look at the picture. Which sentence describes what you see?
+**Pertanyaan:** Look at the picture. Choose the matching English word.
 
 **Pilihan jawaban:**
-- I like noodles.
-- I like meatballs.
-- I like fried rice.
-- I like fried chicken.
+- rice
+- bread
+- banana
+- noodles
 
-**Kunci Jawaban:** I like fried rice.
+**Kunci Jawaban:** noodles
 
-**Pembahasan:** Kalimat yang sesuai adalah "I like fried rice."
+**Pembahasan:** Gambar menunjukkan "noodles" (mi).
 
 ---
 
-## Soal 62 — K03-ENG-B01-M01-062
+## Soal 38 — K03-ENG-B01-M01-038
 
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-02.svg)
+![Picture](assets/eng-b01-gambar-03.svg)
 
-**Pertanyaan:** Look at the picture. Which sentence describes what you see?
+**Pertanyaan:** Look at the picture. Choose the matching English word.
 
 **Pilihan jawaban:**
-- I like meatballs.
-- I like fried chicken.
-- I like fried rice.
-- I like noodles.
+- milk
+- ice cream
+- chicken
+- noodles
 
-**Kunci Jawaban:** I like fried chicken.
+**Kunci Jawaban:** chicken
 
-**Pembahasan:** Kalimat yang sesuai adalah "I like fried chicken."
+**Pembahasan:** Gambar menunjukkan "chicken" (ayam).
 
 ---
 
-## Soal 63 — K03-ENG-B01-M01-063
+## Soal 39 — K03-ENG-B01-M01-039
 
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-03.svg)
+![Picture](assets/eng-b01-gambar-04.svg)
 
-**Pertanyaan:** Look at the picture. Which sentence describes what you see?
+**Pertanyaan:** Look at the picture. Choose the matching English word.
 
 **Pilihan jawaban:**
-- I like noodles.
-- I like fried rice.
-- I like fried chicken.
-- I like meatballs.
+- water
+- bread
+- chicken
+- tea
 
-**Kunci Jawaban:** I like noodles.
+**Kunci Jawaban:** bread
 
-**Pembahasan:** Kalimat yang sesuai adalah "I like noodles."
+**Pembahasan:** Gambar menunjukkan "bread" (roti).
 
 ---
 
-## Soal 64 — K03-ENG-B01-M01-064
+## Soal 40 — K03-ENG-B01-M01-040
 
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-04.svg)
+![Picture](assets/eng-b01-gambar-05.svg)
 
-**Pertanyaan:** Look at the picture. Which sentence describes what you see?
+**Pertanyaan:** Look at the picture. Choose the matching English word.
 
 **Pilihan jawaban:**
-- I like fried rice.
-- I like fried chicken.
-- I like noodles.
-- I like meatballs.
+- milk
+- bread
+- banana
+- fish
 
-**Kunci Jawaban:** I like meatballs.
+**Kunci Jawaban:** milk
 
-**Pembahasan:** Kalimat yang sesuai adalah "I like meatballs."
+**Pembahasan:** Gambar menunjukkan "milk" (susu).
 
 ---
 
-## Soal 65 — K03-ENG-B01-M01-065
+## Soal 41 — K03-ENG-B01-M01-041
 
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-05.svg)
+![Picture](assets/eng-b01-gambar-06.svg)
 
-**Pertanyaan:** Look at the picture. Which sentence describes what you see?
+**Pertanyaan:** Look at the picture. Choose the matching English word.
 
 **Pilihan jawaban:**
-- I like fried chicken.
-- I like noodles.
-- I like bread.
-- I like fried rice.
+- milk
+- ice cream
+- rice
+- tea
 
-**Kunci Jawaban:** I like bread.
+**Kunci Jawaban:** tea
 
-**Pembahasan:** Kalimat yang sesuai adalah "I like bread."
+**Pembahasan:** Gambar menunjukkan "tea" (teh).
 
 ---
 
-## Soal 66 — K03-ENG-B01-M01-066
+## Soal 42 — K03-ENG-B01-M01-042
 
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-06.svg)
+![Picture](assets/eng-b01-gambar-07.svg)
 
-**Pertanyaan:** Look at the picture. Which sentence describes what you see?
+**Pertanyaan:** Look at the picture. Choose the matching English word.
 
 **Pilihan jawaban:**
-- I like noodles.
-- I like milk.
-- I like fried rice.
-- I like fried chicken.
+- water
+- noodles
+- banana
+- tea
 
-**Kunci Jawaban:** I like milk.
+**Kunci Jawaban:** banana
 
-**Pembahasan:** Kalimat yang sesuai adalah "I like milk."
+**Pembahasan:** Gambar menunjukkan "banana" (pisang).
 
 ---
 
-## Soal 67 — K03-ENG-B01-M01-067
+## Soal 43 — K03-ENG-B01-M01-043
 
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-07.svg)
+![Picture](assets/eng-b01-gambar-08.svg)
 
-**Pertanyaan:** Look at the picture. Which sentence describes what you see?
+**Pertanyaan:** Look at the picture. Choose the matching English word.
 
 **Pilihan jawaban:**
-- I like tea.
-- I like fried rice.
-- I like fried chicken.
-- I like noodles.
+- chicken
+- ice cream
+- banana
+- fish
 
-**Kunci Jawaban:** I like tea.
+**Kunci Jawaban:** ice cream
 
-**Pembahasan:** Kalimat yang sesuai adalah "I like tea."
+**Pembahasan:** Gambar menunjukkan "ice cream" (es krim).
 
 ---
 
-## Soal 68 — K03-ENG-B01-M01-068
+## Soal 44 — K03-ENG-B01-M01-044
 
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-08.svg)
+![Picture](assets/eng-b01-gambar-09.svg)
 
-**Pertanyaan:** Look at the picture. Which sentence describes what you see?
+**Pertanyaan:** Look at the picture. Choose the matching English word.
 
 **Pilihan jawaban:**
-- I like fried rice.
-- I like fried chicken.
-- I like noodles.
-- I like banana.
+- water
+- ice cream
+- rice
+- bread
 
-**Kunci Jawaban:** I like banana.
+**Kunci Jawaban:** water
 
-**Pembahasan:** Kalimat yang sesuai adalah "I like banana."
+**Pembahasan:** Gambar menunjukkan "water" (air).
 
 ---
 
-## Soal 69 — K03-ENG-B01-M01-069
+## Soal 45 — K03-ENG-B01-M01-045
 
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-09.svg)
+![Picture](assets/eng-b01-gambar-10.svg)
 
-**Pertanyaan:** Look at the picture. Which sentence describes what you see?
-
-**Pilihan jawaban:**
-- I like fried chicken.
-- I like noodles.
-- I like ice cream.
-- I like fried rice.
-
-**Kunci Jawaban:** I like ice cream.
-
-**Pembahasan:** Kalimat yang sesuai adalah "I like ice cream."
-
----
-
-## Soal 70 — K03-ENG-B01-M01-070
-
-![Ilustrasi makanan dan minuman](assets/eng-b01-gambar-10.svg)
-
-**Pertanyaan:** Look at the picture. Which sentence describes what you see?
+**Pertanyaan:** Look at the picture. Choose the matching English word.
 
 **Pilihan jawaban:**
-- I like noodles.
-- I like rice.
-- I like fried rice.
-- I like fried chicken.
+- water
+- noodles
+- milk
+- fish
 
-**Kunci Jawaban:** I like rice.
+**Kunci Jawaban:** fish
 
-**Pembahasan:** Kalimat yang sesuai adalah "I like rice."
+**Pembahasan:** Gambar menunjukkan "fish" (ikan).
 
 ---
