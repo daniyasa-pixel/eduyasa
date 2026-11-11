@@ -164,161 +164,161 @@
 
 ## Soal 11 — K03-PAI-B02-M01-011
 
-**Pertanyaan:** Pilih jawaban yang tepat: sifat wajib Allah berarti sifat yang ....
+**Pertanyaan:** Setelah belajar sifat-sifat Allah, Fatimah memahami bahwa sifat wajib adalah ....
 
 **Pilihan jawaban:**
-- berubah setiap hari
-- pasti ada pada Allah
-- mustahil ada pada Allah
-- hanya dimiliki manusia
+- Sifat yang tidak mungkin dimiliki Allah
+- Sifat yang pasti ada pada Allah
+- Sifat yang hanya dimiliki manusia
+- Sifat yang berubah sesuai waktu
 
-**Kunci Jawaban:** pasti ada pada Allah
+**Kunci Jawaban:** Sifat yang pasti ada pada Allah
 
-**Pembahasan:** Sifat wajib Allah berarti sifat yang pasti ada pada Allah.
+**Pembahasan:** Dalam pelajaran akidah, sifat wajib Allah berarti sifat kesempurnaan yang pasti ada pada Allah.
 
 ---
 
 ## Soal 12 — K03-PAI-B02-M01-012
 
-**Pertanyaan:** Pilih jawaban yang tepat: wujud berarti Allah ....
+**Pertanyaan:** Guru meminta contoh arti sifat Wujud. Pernyataan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- lelah
-- lupa
-- ada
-- tidur
+- Allah memerlukan tempat tinggal
+- Allah baru ada setelah manusia
+- Allah ada, tidak bergantung pada ciptaan
+- Allah dapat menghilang karena lelah
 
-**Kunci Jawaban:** ada
+**Kunci Jawaban:** Allah ada, tidak bergantung pada ciptaan
 
-**Pembahasan:** Wujud berarti Allah ada.
+**Pembahasan:** Wujud berarti Allah ada. Keberadaan Allah tidak bergantung pada makhluk.
 
 ---
 
 ## Soal 13 — K03-PAI-B02-M01-013
 
-**Pertanyaan:** Pilih jawaban yang tepat: qidam berarti Allah ....
+**Pertanyaan:** Kata Qidam dalam sifat wajib Allah mengajarkan bahwa ....
 
 **Pilihan jawaban:**
-- memerlukan makanan
-- mempunyai akhir
-- memiliki orang tua
-- terdahulu tanpa permulaan
+- Allah lahir pada waktu tertentu
+- Allah memiliki usia seperti manusia
+- Allah memiliki awal seperti makhluk
+- Allah terdahulu tanpa permulaan
 
-**Kunci Jawaban:** terdahulu tanpa permulaan
+**Kunci Jawaban:** Allah terdahulu tanpa permulaan
 
-**Pembahasan:** Qidam berarti Allah terdahulu tanpa permulaan.
+**Pembahasan:** Qidam berarti Allah tidak didahului oleh ketiadaan dan tidak memiliki permulaan.
 
 ---
 
 ## Soal 14 — K03-PAI-B02-M01-014
 
-**Pertanyaan:** Pilih jawaban yang tepat: baqa berarti Allah ....
+**Pertanyaan:** Ketika semua benda dapat rusak atau berakhir, sifat Baqa mengingatkan kita bahwa ....
 
 **Pilihan jawaban:**
-- kekal
-- sementara
-- lemah
-- berubah-ubah
+- Allah kekal, tidak berakhir
+- Allah berubah menjadi makhluk
+- Allah bergantung pada waktu
+- Allah hanya ada saat manusia berdoa
 
-**Kunci Jawaban:** kekal
+**Kunci Jawaban:** Allah kekal, tidak berakhir
 
-**Pembahasan:** Baqa berarti Allah kekal.
+**Pembahasan:** Baqa berarti Allah kekal; berbeda dengan makhluk yang memiliki keterbatasan.
 
 ---
 
 ## Soal 15 — K03-PAI-B02-M01-015
 
-**Pertanyaan:** Pilih jawaban yang tepat: wahdaniyah berarti Allah ....
+**Pertanyaan:** Umat Islam beribadah hanya kepada Allah. Hal ini sesuai dengan sifat ....
 
 **Pilihan jawaban:**
-- membutuhkan bantuan
-- Maha Esa
-- berbilang
-- bergantung
+- Qidam yang berarti terdahulu
+- Wahdaniyah yang berarti Maha Esa
+- Baqa yang berarti kekal
+- Ilmu yang berarti mengetahui
 
-**Kunci Jawaban:** Maha Esa
+**Kunci Jawaban:** Wahdaniyah yang berarti Maha Esa
 
-**Pembahasan:** Wahdaniyah berarti Allah Maha Esa.
+**Pembahasan:** Wahdaniyah menegaskan keesaan Allah sehingga ibadah ditujukan hanya kepada-Nya.
 
 ---
 
 ## Soal 16 — K03-PAI-B02-M01-016
 
-**Pertanyaan:** Pilih jawaban yang tepat: qudrat berarti Allah ....
+**Pertanyaan:** Seorang siswa melihat luasnya alam dan mengingat bahwa Allah Maha Kuasa. Sifat yang dipelajari adalah ....
 
 **Pilihan jawaban:**
-- Maha Lemah
-- Maha Tidur
-- Maha Kuasa
-- Maha Lupa
+- Baqa
+- Wujud
+- Qudrat
+- Qidam
 
-**Kunci Jawaban:** Maha Kuasa
+**Kunci Jawaban:** Qudrat
 
-**Pembahasan:** Qudrat berarti Allah Maha Kuasa.
+**Pembahasan:** Qudrat berarti Allah Maha Kuasa; pengamatan alam dapat menjadi pengingat kekuasaan-Nya.
 
 ---
 
 ## Soal 17 — K03-PAI-B02-M01-017
 
-**Pertanyaan:** Pilih jawaban yang tepat: ilmu sebagai sifat Allah berarti Allah ....
+**Pertanyaan:** Dina berkata, 'Allah mengetahui apa yang kita lakukan, bahkan ketika tidak ada teman yang melihat.' Ini berkaitan dengan sifat ....
 
 **Pilihan jawaban:**
-- tidak tahu masa depan
-- hanya tahu satu tempat
-- perlu diajari
-- Maha Mengetahui
+- Qidam
+- Baqa
+- Wahdaniyah
+- Ilmu
 
-**Kunci Jawaban:** Maha Mengetahui
+**Kunci Jawaban:** Ilmu
 
-**Pembahasan:** Ilmu sebagai sifat Allah berarti Allah Maha Mengetahui.
+**Pembahasan:** Sifat Ilmu berarti Allah Maha Mengetahui, tidak terbatas pada hal yang terlihat manusia.
 
 ---
 
 ## Soal 18 — K03-PAI-B02-M01-018
 
-**Pertanyaan:** Pilih jawaban yang tepat: sifat mustahil Allah adalah sifat yang ....
+**Pertanyaan:** Manakah contoh pengertian sifat mustahil bagi Allah?
 
 **Pilihan jawaban:**
-- tidak mungkin ada pada Allah
-- wajib ada pada Allah
-- menjadi kewajiban manusia
-- berupa nama nabi
+- Sifat kekurangan yang tidak mungkin ada pada Allah
+- Sifat yang pasti ada pada Allah
+- Nama malaikat yang wajib diketahui
+- Perbuatan baik yang dianjurkan
 
-**Kunci Jawaban:** tidak mungkin ada pada Allah
+**Kunci Jawaban:** Sifat kekurangan yang tidak mungkin ada pada Allah
 
-**Pembahasan:** Sifat mustahil Allah adalah sifat yang tidak mungkin ada pada Allah.
+**Pembahasan:** Sifat mustahil adalah kebalikan sifat wajib, yaitu kekurangan yang tidak mungkin ada pada Allah.
 
 ---
 
 ## Soal 19 — K03-PAI-B02-M01-019
 
-**Pertanyaan:** Pilih jawaban yang tepat: al-Wahhab berarti Allah ....
+**Pertanyaan:** Ketika memperoleh hadiah, Rafi bersyukur kepada Allah Yang Maha Pemberi Karunia. Asmaulhusna yang sesuai adalah ....
 
 **Pilihan jawaban:**
-- Maha Lupa
-- Maha Pemberi Karunia
-- Maha Lemah
-- Maha Tidur
+- Al-Kabir
+- Al-Wahhab
+- Al-'Alim
+- As-Sami'
 
-**Kunci Jawaban:** Maha Pemberi Karunia
+**Kunci Jawaban:** Al-Wahhab
 
-**Pembahasan:** Al-Wahhab berarti Allah Maha Pemberi Karunia.
+**Pembahasan:** Al-Wahhab berarti Allah Maha Pemberi Karunia, sehingga manusia dianjurkan bersyukur atas nikmat-Nya.
 
 ---
 
 ## Soal 20 — K03-PAI-B02-M01-020
 
-**Pertanyaan:** Pilih jawaban yang tepat: al-Kabir berarti Allah ....
+**Pertanyaan:** Guru menjelaskan bahwa kebesaran Allah tidak dapat disamakan dengan ukuran benda. Nama Allah yang berarti Maha Besar adalah ....
 
 **Pilihan jawaban:**
-- Maha Terbatas
-- Maha Membutuhkan
-- Maha Besar
-- Maha Kecil
+- Al-Wahhab
+- Al-Basir
+- Al-Kabir
+- Ar-Razzaq
 
-**Kunci Jawaban:** Maha Besar
+**Kunci Jawaban:** Al-Kabir
 
-**Pembahasan:** Al-Kabir berarti Allah Maha Besar.
+**Pembahasan:** Al-Kabir berarti Allah Maha Besar. Kebesaran-Nya tidak sama dengan ukuran fisik makhluk.
 
 ---
 
