@@ -1,9 +1,5 @@
-# Naskah Audio Unit 10
+# Listening Unit 10 — TTS
 
-- eng-b10-listening-01.mp3 — ten
-- eng-b10-listening-02.mp3 — eleven
-- eng-b10-listening-03.mp3 — twelve
-- eng-b10-listening-04.mp3 — thirteen
-- eng-b10-listening-05.mp3 — fourteen
+Tidak menggunakan file MP3. Teks yang diucapkan tersimpan dalam `../eng-b10-soal-listening.md` sebagai data `type: tts`, `lang: en-US`, `rate: 0.85`.
 
-MP3 belum dibuat. Wajib diuji di Android dan browser sebelum digunakan.
+Teks transkrip tidak boleh ditampilkan kepada siswa sebelum menjawab.

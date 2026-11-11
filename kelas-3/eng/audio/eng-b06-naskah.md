@@ -1,9 +1,5 @@
-# Naskah Audio Unit 6
+# Listening Unit 6 — TTS
 
-- eng-b06-listening-01.mp3 — canteen
-- eng-b06-listening-02.mp3 — library
-- eng-b06-listening-03.mp3 — classroom
-- eng-b06-listening-04.mp3 — office
-- eng-b06-listening-05.mp3 — toilet
+Tidak menggunakan file MP3. Teks yang diucapkan tersimpan dalam `../eng-b06-soal-listening.md` sebagai data `type: tts`, `lang: en-US`, `rate: 0.85`.
 
-MP3 belum dibuat. Wajib diuji di Android dan browser sebelum digunakan.
+Teks transkrip tidak boleh ditampilkan kepada siswa sebelum menjawab.

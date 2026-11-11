@@ -1,10 +1,10 @@
 # Unit 5 — 5 Soal Listening
 
-**Status:** Naskah saja; MP3 belum dibuat. Jangan aktifkan sebelum tersedia.
+**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
 
 ## Soal 46 — K03-ENG-B05-M01-046
 
-**Audio:** `audio/eng-b05-listening-01.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Monday","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** Monday
 
@@ -24,7 +24,7 @@
 
 ## Soal 47 — K03-ENG-B05-M01-047
 
-**Audio:** `audio/eng-b05-listening-02.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Tuesday","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** Tuesday
 
@@ -44,7 +44,7 @@
 
 ## Soal 48 — K03-ENG-B05-M01-048
 
-**Audio:** `audio/eng-b05-listening-03.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Wednesday","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** Wednesday
 
@@ -64,7 +64,7 @@
 
 ## Soal 49 — K03-ENG-B05-M01-049
 
-**Audio:** `audio/eng-b05-listening-04.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Thursday","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** Thursday
 
@@ -84,7 +84,7 @@
 
 ## Soal 50 — K03-ENG-B05-M01-050
 
-**Audio:** `audio/eng-b05-listening-05.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Friday","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** Friday
 

@@ -1,10 +1,10 @@
 # Unit 6 — 5 Soal Listening
 
-**Status:** Naskah saja; MP3 belum dibuat. Jangan aktifkan sebelum tersedia.
+**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
 
 ## Soal 46 — K03-ENG-B06-M01-046
 
-**Audio:** `audio/eng-b06-listening-01.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"canteen","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** canteen
 
@@ -24,7 +24,7 @@
 
 ## Soal 47 — K03-ENG-B06-M01-047
 
-**Audio:** `audio/eng-b06-listening-02.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"library","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** library
 
@@ -44,7 +44,7 @@
 
 ## Soal 48 — K03-ENG-B06-M01-048
 
-**Audio:** `audio/eng-b06-listening-03.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"classroom","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** classroom
 
@@ -64,7 +64,7 @@
 
 ## Soal 49 — K03-ENG-B06-M01-049
 
-**Audio:** `audio/eng-b06-listening-04.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"office","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** office
 
@@ -84,7 +84,7 @@
 
 ## Soal 50 — K03-ENG-B06-M01-050
 
-**Audio:** `audio/eng-b06-listening-05.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"toilet","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** toilet
 

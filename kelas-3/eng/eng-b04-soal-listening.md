@@ -1,10 +1,10 @@
 # Unit 4 — 5 Soal Listening
 
-**Status:** Naskah saja; MP3 belum dibuat. Jangan aktifkan sebelum tersedia.
+**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
 
 ## Soal 46 — K03-ENG-B04-M01-046
 
-**Audio:** `audio/eng-b04-listening-01.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"swimming","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** swimming
 
@@ -24,7 +24,7 @@
 
 ## Soal 47 — K03-ENG-B04-M01-047
 
-**Audio:** `audio/eng-b04-listening-02.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"reading","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** reading
 
@@ -44,7 +44,7 @@
 
 ## Soal 48 — K03-ENG-B04-M01-048
 
-**Audio:** `audio/eng-b04-listening-03.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"singing","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** singing
 
@@ -64,7 +64,7 @@
 
 ## Soal 49 — K03-ENG-B04-M01-049
 
-**Audio:** `audio/eng-b04-listening-04.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"dancing","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** dancing
 
@@ -84,7 +84,7 @@
 
 ## Soal 50 — K03-ENG-B04-M01-050
 
-**Audio:** `audio/eng-b04-listening-05.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"drawing","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** drawing
 

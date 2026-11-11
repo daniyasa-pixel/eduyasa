@@ -1,9 +1,5 @@
-# Naskah Audio Unit 9
+# Listening Unit 9 — TTS
 
-- eng-b09-listening-01.mp3 — clean
-- eng-b09-listening-02.mp3 — dirty
-- eng-b09-listening-03.mp3 — big
-- eng-b09-listening-04.mp3 — small
-- eng-b09-listening-05.mp3 — tidy
+Tidak menggunakan file MP3. Teks yang diucapkan tersimpan dalam `../eng-b09-soal-listening.md` sebagai data `type: tts`, `lang: en-US`, `rate: 0.85`.
 
-MP3 belum dibuat. Wajib diuji di Android dan browser sebelum digunakan.
+Teks transkrip tidak boleh ditampilkan kepada siswa sebelum menjawab.

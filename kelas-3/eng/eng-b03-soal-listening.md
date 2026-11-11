@@ -1,10 +1,10 @@
 # Unit 3 — 5 Soal Listening
 
-**Status:** Naskah saja; MP3 belum dibuat. Jangan aktifkan sebelum tersedia.
+**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
 
 ## Soal 46 — K03-ENG-B03-M01-046
 
-**Audio:** `audio/eng-b03-listening-01.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"breakfast","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** breakfast
 
@@ -24,7 +24,7 @@
 
 ## Soal 47 — K03-ENG-B03-M01-047
 
-**Audio:** `audio/eng-b03-listening-02.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"lunch","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** lunch
 
@@ -44,7 +44,7 @@
 
 ## Soal 48 — K03-ENG-B03-M01-048
 
-**Audio:** `audio/eng-b03-listening-03.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"dinner","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** dinner
 
@@ -64,7 +64,7 @@
 
 ## Soal 49 — K03-ENG-B03-M01-049
 
-**Audio:** `audio/eng-b03-listening-04.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"rice","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** rice
 
@@ -84,7 +84,7 @@
 
 ## Soal 50 — K03-ENG-B03-M01-050
 
-**Audio:** `audio/eng-b03-listening-05.mp3`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"chicken","rate":0.85}`
 
 **Transkrip produksi (disembunyikan dari siswa):** chicken
 

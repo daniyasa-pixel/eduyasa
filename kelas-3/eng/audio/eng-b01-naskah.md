@@ -1,9 +1,5 @@
-# Naskah Audio Unit 1
+# Listening Unit 1 — TTS
 
-- eng-b01-listening-01.mp3 — rice
-- eng-b01-listening-02.mp3 — noodles
-- eng-b01-listening-03.mp3 — chicken
-- eng-b01-listening-04.mp3 — bread
-- eng-b01-listening-05.mp3 — milk
+Tidak menggunakan file MP3. Teks yang diucapkan tersimpan dalam `../eng-b01-soal-listening.md` sebagai data `type: tts`, `lang: en-US`, `rate: 0.85`.
 
-MP3 belum dibuat. Wajib diuji di Android dan browser sebelum digunakan.
+Teks transkrip tidak boleh ditampilkan kepada siswa sebelum menjawab.

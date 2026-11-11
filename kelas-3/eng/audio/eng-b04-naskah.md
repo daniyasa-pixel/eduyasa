@@ -1,9 +1,5 @@
-# Naskah Audio Unit 4
+# Listening Unit 4 — TTS
 
-- eng-b04-listening-01.mp3 — swimming
-- eng-b04-listening-02.mp3 — reading
-- eng-b04-listening-03.mp3 — singing
-- eng-b04-listening-04.mp3 — dancing
-- eng-b04-listening-05.mp3 — drawing
+Tidak menggunakan file MP3. Teks yang diucapkan tersimpan dalam `../eng-b04-soal-listening.md` sebagai data `type: tts`, `lang: en-US`, `rate: 0.85`.
 
-MP3 belum dibuat. Wajib diuji di Android dan browser sebelum digunakan.
+Teks transkrip tidak boleh ditampilkan kepada siswa sebelum menjawab.

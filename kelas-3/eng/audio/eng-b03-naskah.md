@@ -1,9 +1,5 @@
-# Naskah Audio Unit 3
+# Listening Unit 3 — TTS
 
-- eng-b03-listening-01.mp3 — breakfast
-- eng-b03-listening-02.mp3 — lunch
-- eng-b03-listening-03.mp3 — dinner
-- eng-b03-listening-04.mp3 — rice
-- eng-b03-listening-05.mp3 — chicken
+Tidak menggunakan file MP3. Teks yang diucapkan tersimpan dalam `../eng-b03-soal-listening.md` sebagai data `type: tts`, `lang: en-US`, `rate: 0.85`.
 
-MP3 belum dibuat. Wajib diuji di Android dan browser sebelum digunakan.
+Teks transkrip tidak boleh ditampilkan kepada siswa sebelum menjawab.

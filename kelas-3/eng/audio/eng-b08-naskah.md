@@ -1,9 +1,5 @@
-# Naskah Audio Unit 8
+# Listening Unit 8 — TTS
 
-- eng-b08-listening-01.mp3 — orange juice
-- eng-b08-listening-02.mp3 — water
-- eng-b08-listening-03.mp3 — milk
-- eng-b08-listening-04.mp3 — tea
-- eng-b08-listening-05.mp3 — canteen
+Tidak menggunakan file MP3. Teks yang diucapkan tersimpan dalam `../eng-b08-soal-listening.md` sebagai data `type: tts`, `lang: en-US`, `rate: 0.85`.
 
-MP3 belum dibuat. Wajib diuji di Android dan browser sebelum digunakan.
+Teks transkrip tidak boleh ditampilkan kepada siswa sebelum menjawab.
