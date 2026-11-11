@@ -2,360 +2,360 @@
 
 ## Soal 51 — K03-IPAS-B06-M01-051
 
-![Kartu pengamatan](assets/ipas-b06-gambar-01.svg)
+![Tiga alat: A lampu menyala; B pengeras suara dengan tanda gelombang bunyi; C kipas dengan tanda berputar dan gelombang bunyi.](assets/ipas-b06-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Cahaya** adalah ...
+**Pertanyaan:** Alat berlabel mana terutama digunakan untuk mengeluarkan suara?
 
 **Pilihan jawaban:**
-- membantu kita melihat
-- mengurangi penggunaan yang tidak perlu
-- menghasilkan panas untuk memasak
-- peralihan dari satu bentuk ke bentuk lain
+- A
+- C
+- B
+- A dan C saja
 
-**Kunci Jawaban:** membantu kita melihat
+**Kunci Jawaban:** B
 
-**Pembahasan:** Cahaya: membantu kita melihat.
+**Pembahasan:** B memperlihatkan pengeras suara; A merupakan lampu, C kipas. Bunyi pada kipas adalah keluaran tambahan, bukan fungsi utamanya.
 
 ---
 
 ## Soal 52 — K03-IPAS-B06-M01-052
 
-![Kartu pengamatan](assets/ipas-b06-gambar-01.svg)
+![Tiga alat: A lampu menyala; B pengeras suara dengan tanda gelombang bunyi; C kipas dengan tanda berputar dan gelombang bunyi.](assets/ipas-b06-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Panas** adalah ...
+**Pertanyaan:** Pada C, dua bentuk energi yang ditunjukkan keterangannya ialah ...
 
 **Pilihan jawaban:**
-- contoh menghemat listrik
-- dapat mengubah suhu benda
-- dimiliki benda yang bergerak
-- Pilih tiga hal yang kamu temukan hari ini
+- Hanya kimia dan cahaya
+- Hanya panas dan kimia
+- Hanya cahaya dan gravitasi
+- Gerak dan bunyi
 
-**Kunci Jawaban:** dapat mengubah suhu benda
+**Kunci Jawaban:** Gerak dan bunyi
 
-**Pembahasan:** Panas: dapat mengubah suhu benda.
+**Pembahasan:** Keterangan C menyebut putaran dan suara; keduanya menjadi bukti gerak dan bunyi pada alat yang sama.
 
 ---
 
 ## Soal 53 — K03-IPAS-B06-M01-053
 
-![Kartu pengamatan](assets/ipas-b06-gambar-02.svg)
+![Bagan senter: A baterai di awal; panah ke B sambungan kabel tertutup; panah ke C lampu menyala. Rangkaian skematis, bukan petunjuk merakit.](assets/ipas-b06-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Panel surya** adalah ...
+**Pertanyaan:** Bagian awal berlabel mana menyimpan energi kimia untuk senter?
 
 **Pilihan jawaban:**
-- menggunakan energi dari tubuh
-- menghidupkan banyak alat
-- mengubah cahaya matahari menjadi listrik
-- kemampuan untuk melakukan kerja atau perubahan
+- A
+- B
+- C
+- B dan C
 
-**Kunci Jawaban:** mengubah cahaya matahari menjadi listrik
+**Kunci Jawaban:** A
 
-**Pembahasan:** Panel surya: mengubah cahaya matahari menjadi listrik.
+**Pembahasan:** A menunjuk baterai; sambungan B menyalurkan listrik dan lampu C menghasilkan cahaya serta panas.
 
 ---
 
 ## Soal 54 — K03-IPAS-B06-M01-054
 
-![Kartu pengamatan](assets/ipas-b06-gambar-02.svg)
+![Bagan senter: A baterai di awal; panah ke B sambungan kabel tertutup; panah ke C lampu menyala. Rangkaian skematis, bukan petunjuk merakit.](assets/ipas-b06-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Hemat energi** adalah ...
+**Pertanyaan:** Bentuk energi yang disalurkan melalui B menuju C ialah ...
 
 **Pilihan jawaban:**
-- menghasilkan panas untuk memasak
-- peralihan dari satu bentuk ke bentuk lain
-- sumber energi cahaya dan panas
-- mengurangi penggunaan yang tidak perlu
+- Bensin
+- Listrik
+- Makanan
+- Angin
 
-**Kunci Jawaban:** mengurangi penggunaan yang tidak perlu
+**Kunci Jawaban:** Listrik
 
-**Pembahasan:** Hemat energi: mengurangi penggunaan yang tidak perlu.
+**Pembahasan:** Panah menunjukkan energi dari baterai menuju lampu melalui sambungan kabel; pada bagian itu energi disalurkan secara listrik.
 
 ---
 
 ## Soal 55 — K03-IPAS-B06-M01-055
 
-![Kartu pengamatan](assets/ipas-b06-gambar-03.svg)
+![Uji lampu model bertenaga panel surya tanpa baterai: A panel terkena cahaya, lampu menyala; B panel ditutup rapat dari cahaya, lampu padam. Alat sama, penutup aman ditangani guru.](assets/ipas-b06-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Mematikan lampu** adalah ...
+**Pertanyaan:** Perubahan yang terjadi ketika panel ditutup pada uji itu ialah ...
 
 **Pilihan jawaban:**
-- contoh menghemat listrik
-- dimiliki benda yang bergerak
-- Pilih tiga hal yang kamu temukan hari ini
-- menyimpan energi kimia
+- Lampu makin terang
+- Panel berubah menjadi baterai
+- Lampu yang semula menyala menjadi padam
+- Kedua keadaan menunjukkan lampu menyala
 
-**Kunci Jawaban:** contoh menghemat listrik
+**Kunci Jawaban:** Lampu yang semula menyala menjadi padam
 
-**Pembahasan:** Mematikan lampu: contoh menghemat listrik.
+**Pembahasan:** A menunjukkan lampu menyala, sedangkan B padam setelah panel tertutup dari cahaya pada model tanpa baterai.
 
 ---
 
 ## Soal 56 — K03-IPAS-B06-M01-056
 
-![Kartu pengamatan](assets/ipas-b06-gambar-03.svg)
+![Uji lampu model bertenaga panel surya tanpa baterai: A panel terkena cahaya, lampu menyala; B panel ditutup rapat dari cahaya, lampu padam. Alat sama, penutup aman ditangani guru.](assets/ipas-b06-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Mengayuh sepeda** adalah ...
+**Pertanyaan:** Kesimpulan yang sesuai dengan uji model ini ialah ...
 
 **Pilihan jawaban:**
-- menghidupkan banyak alat
-- menggunakan energi dari tubuh
-- kemampuan untuk melakukan kerja atau perubahan
-- mengubah energi listrik menjadi cahaya
+- Semua lampu hanya dapat menyala siang hari
+- Semua alat listrik mempunyai panel surya
+- Panel itu menghasilkan listrik sama banyak ketika tertutup
+- Cahaya yang diterima panel memengaruhi nyala lampu
 
-**Kunci Jawaban:** menggunakan energi dari tubuh
+**Kunci Jawaban:** Cahaya yang diterima panel memengaruhi nyala lampu
 
-**Pembahasan:** Mengayuh sepeda: menggunakan energi dari tubuh.
+**Pembahasan:** Data berasal dari model panel tanpa baterai; tidak menunjukkan cara kerja semua lampu atau semua alat listrik.
 
 ---
 
 ## Soal 57 — K03-IPAS-B06-M01-057
 
-![Kartu pengamatan](assets/ipas-b06-gambar-04.svg)
+![Pengamatan kincir yang sama selama 10 detik: P tanpa hembusan, nol putaran; Q hembusan pelan, delapan putaran; R hembusan lebih kuat, lima belas putaran. Guru mengatur hembusan aman.](assets/ipas-b06-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kompor** adalah ...
+**Pertanyaan:** Uji mana menunjukkan putaran paling banyak dalam waktu pengamatan yang sama?
 
 **Pilihan jawaban:**
-- peralihan dari satu bentuk ke bentuk lain
-- sumber energi cahaya dan panas
-- menghasilkan panas untuk memasak
-- mengubah energi listrik menjadi gerak
+- R
+- P
+- Q
+- Semua sama
 
-**Kunci Jawaban:** menghasilkan panas untuk memasak
+**Kunci Jawaban:** R
 
-**Pembahasan:** Kompor: menghasilkan panas untuk memasak.
+**Pembahasan:** R mencatat lima belas putaran, lebih banyak daripada delapan di Q dan nol di P.
 
 ---
 
 ## Soal 58 — K03-IPAS-B06-M01-058
 
-![Kartu pengamatan](assets/ipas-b06-gambar-04.svg)
+![Pengamatan kincir yang sama selama 10 detik: P tanpa hembusan, nol putaran; Q hembusan pelan, delapan putaran; R hembusan lebih kuat, lima belas putaran. Guru mengatur hembusan aman.](assets/ipas-b06-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Energi gerak** adalah ...
+**Pertanyaan:** Mengapa waktu tiap uji pada catatan dibuat sama?
 
 **Pilihan jawaban:**
-- Pilih tiga hal yang kamu temukan hari ini
-- menyimpan energi kimia
-- mengubah energi listrik menjadi panas
-- dimiliki benda yang bergerak
+- Agar hembusan tidak perlu dicatat
+- Agar jumlah putaran dapat dibandingkan secara lebih adil
+- Agar ukuran kincir boleh diganti sesuka hati
+- Agar hasil pasti sama pada semua uji
 
-**Kunci Jawaban:** dimiliki benda yang bergerak
+**Kunci Jawaban:** Agar jumlah putaran dapat dibandingkan secara lebih adil
 
-**Pembahasan:** Energi gerak: dimiliki benda yang bergerak.
+**Pembahasan:** Jika lamanya berbeda, jumlah putaran bisa berubah karena waktu, bukan hanya hembusan; tabel menyamakan waktu untuk membantu perbandingan.
 
 ---
 
 ## Soal 59 — K03-IPAS-B06-M01-059
 
-![Kartu pengamatan](assets/ipas-b06-gambar-05.svg)
+![Pengukuran contoh oleh guru: telapak tangan sebelum digosok 29 derajat Celsius, sesudah digosok perlahan 32 derajat Celsius; suhu ruangan tetap 28 derajat Celsius.](assets/ipas-b06-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Energi listrik** adalah ...
+**Pertanyaan:** Pada catatan, kenaikan suhu tangan ialah ...
 
 **Pilihan jawaban:**
-- menghidupkan banyak alat
-- kemampuan untuk melakukan kerja atau perubahan
-- mengubah energi listrik menjadi cahaya
-- sumber energi bagi tubuh
+- $1\ ^\circ\text{C}$
+- $4\ ^\circ\text{C}$
+- $3\ ^\circ\text{C}$
+- $61\ ^\circ\text{C}$
 
-**Kunci Jawaban:** menghidupkan banyak alat
+**Kunci Jawaban:** $3\ ^\circ\text{C}$
 
-**Pembahasan:** Energi listrik: menghidupkan banyak alat.
+**Pembahasan:** Suhu berubah dari $29\ ^\circ\text{C}$ menjadi $32\ ^\circ\text{C}$; kenaikannya $(32-29)\ ^\circ\text{C}=3\ ^\circ\text{C}$.
 
 ---
 
 ## Soal 60 — K03-IPAS-B06-M01-060
 
-![Kartu pengamatan](assets/ipas-b06-gambar-05.svg)
+![Pengukuran contoh oleh guru: telapak tangan sebelum digosok 29 derajat Celsius, sesudah digosok perlahan 32 derajat Celsius; suhu ruangan tetap 28 derajat Celsius.](assets/ipas-b06-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Perubahan energi** adalah ...
+**Pertanyaan:** Perbandingan mana mendukung bahwa tangan menjadi lebih hangat setelah kegiatan?
 
 **Pilihan jawaban:**
-- sumber energi cahaya dan panas
-- peralihan dari satu bentuk ke bentuk lain
-- mengubah energi listrik menjadi gerak
-- dapat menggerakkan kincir
+- Suhu ruangan naik pada catatan
+- Suhu tangan sesudah lebih rendah
+- Tidak ada perbedaan angka suhu tangan
+- Suhu tangan sesudah lebih tinggi daripada sebelum
 
-**Kunci Jawaban:** peralihan dari satu bentuk ke bentuk lain
+**Kunci Jawaban:** Suhu tangan sesudah lebih tinggi daripada sebelum
 
-**Pembahasan:** Perubahan energi: peralihan dari satu bentuk ke bentuk lain.
+**Pembahasan:** Angka suhu tangan meningkat, sedangkan angka suhu ruangan yang dicatat tetap; data ini menunjukkan pemanasan pada tangan selama kegiatan.
 
 ---
 
 ## Soal 61 — K03-IPAS-B06-M01-061
 
-![Kartu pengamatan](assets/ipas-b06-gambar-06.svg)
+![Pengamatan satu senar model oleh guru: P senar diam tanpa petikan, tidak terdengar bunyi; Q senar dipetik pelan, tampak bergetar dan terdengar bunyi; R senar disentuh lembut hingga berhenti bergetar, bunyi berhenti.](assets/ipas-b06-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Tantangan** adalah ...
+**Pertanyaan:** Keadaan mana menunjukkan senar sedang bergetar dan terdengar bunyi?
 
 **Pilihan jawaban:**
-- menyimpan energi kimia
-- mengubah energi listrik menjadi panas
-- Pilih tiga hal yang kamu temukan hari ini
-- dapat menggerakkan turbin
+- Q
+- P
+- R
+- P dan R
 
-**Kunci Jawaban:** Pilih tiga hal yang kamu temukan hari ini
+**Kunci Jawaban:** Q
 
-**Pembahasan:** Tantangan: Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Pada Q, senar dipetik dan getaran tampak; P serta R tidak menunjukkan getaran yang menghasilkan bunyi teramati.
 
 ---
 
 ## Soal 62 — K03-IPAS-B06-M01-062
 
-![Kartu pengamatan](assets/ipas-b06-gambar-06.svg)
+![Pengamatan satu senar model oleh guru: P senar diam tanpa petikan, tidak terdengar bunyi; Q senar dipetik pelan, tampak bergetar dan terdengar bunyi; R senar disentuh lembut hingga berhenti bergetar, bunyi berhenti.](assets/ipas-b06-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Energi** adalah ...
+**Pertanyaan:** Hubungan yang didukung perubahan Q ke R ialah ...
 
 **Pilihan jawaban:**
-- mengubah energi listrik menjadi cahaya
-- sumber energi bagi tubuh
-- membantu kita melihat
-- kemampuan untuk melakukan kerja atau perubahan
+- Bunyi makin kuat meski getaran berhenti
+- Ketika getaran dihentikan, bunyi senar juga berhenti
+- Bunyi selalu ada walaupun senar diam
+- Petikan tidak mempunyai hubungan dengan bunyi senar
 
-**Kunci Jawaban:** kemampuan untuk melakukan kerja atau perubahan
+**Kunci Jawaban:** Ketika getaran dihentikan, bunyi senar juga berhenti
 
-**Pembahasan:** Energi: kemampuan untuk melakukan kerja atau perubahan.
+**Pembahasan:** Q bergetar dan berbunyi, lalu R berhenti bergetar serta tidak berbunyi; pengamatan menghubungkan bunyi dengan getaran.
 
 ---
 
 ## Soal 63 — K03-IPAS-B06-M01-063
 
-![Kartu pengamatan](assets/ipas-b06-gambar-07.svg)
+![Bagan pembangkit air: A air bergerak menuju B roda turbin; B dihubungkan ke C generator; C menyalurkan listrik menuju D lampu. Panah mengikuti A ke B ke C ke D.](assets/ipas-b06-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Matahari** adalah ...
+**Pertanyaan:** Bagian mana pada bagan menerima gerakan turbin lalu menghasilkan listrik?
 
 **Pilihan jawaban:**
-- sumber energi cahaya dan panas
-- mengubah energi listrik menjadi gerak
-- dapat menggerakkan kincir
-- dapat mengubah suhu benda
+- A
+- B
+- C
+- D
 
-**Kunci Jawaban:** sumber energi cahaya dan panas
+**Kunci Jawaban:** C
 
-**Pembahasan:** Matahari: sumber energi cahaya dan panas.
+**Pembahasan:** C adalah generator yang terhubung setelah turbin B dan sebelum lampu D.
 
 ---
 
 ## Soal 64 — K03-IPAS-B06-M01-064
 
-![Kartu pengamatan](assets/ipas-b06-gambar-07.svg)
+![Bagan pembangkit air: A air bergerak menuju B roda turbin; B dihubungkan ke C generator; C menyalurkan listrik menuju D lampu. Panah mengikuti A ke B ke C ke D.](assets/ipas-b06-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Baterai** adalah ...
+**Pertanyaan:** Urutan aliran energi sesuai panah ialah ...
 
 **Pilihan jawaban:**
-- mengubah energi listrik menjadi panas
-- menyimpan energi kimia
-- dapat menggerakkan turbin
-- mengubah cahaya matahari menjadi listrik
+- Lampu → turbin → air → generator
+- Generator → air → lampu → turbin
+- Turbin → lampu → air → generator
+- Air bergerak → turbin → generator → lampu
 
-**Kunci Jawaban:** menyimpan energi kimia
+**Kunci Jawaban:** Air bergerak → turbin → generator → lampu
 
-**Pembahasan:** Baterai: menyimpan energi kimia.
+**Pembahasan:** Panah pada bagan bergerak berurutan A ke B ke C ke D; air menggerakkan turbin sebelum generator memasok lampu.
 
 ---
 
 ## Soal 65 — K03-IPAS-B06-M01-065
 
-![Kartu pengamatan](assets/ipas-b06-gambar-08.svg)
+![Ruangan kosong siang hari. A jendela memasukkan cahaya cukup; B lampu menyala; C kipas menyala tanpa kebutuhan lain; D kulkas menyala menyimpan makanan yang harus tetap dingin.](assets/ipas-b06-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Lampu** adalah ...
+**Pertanyaan:** Alat mana dapat dimatikan sesuai keadaan pada gambar?
 
 **Pilihan jawaban:**
-- sumber energi bagi tubuh
-- membantu kita melihat
-- mengubah energi listrik menjadi cahaya
-- mengurangi penggunaan yang tidak perlu
+- B dan C
+- D saja
+- B dan D
+- C dan D
 
-**Kunci Jawaban:** mengubah energi listrik menjadi cahaya
+**Kunci Jawaban:** B dan C
 
-**Pembahasan:** Lampu: mengubah energi listrik menjadi cahaya.
+**Pembahasan:** Lampu B tidak diperlukan karena cahaya cukup dan kipas C juga tidak diperlukan; kulkas D masih mempunyai fungsi penyimpanan.
 
 ---
 
 ## Soal 66 — K03-IPAS-B06-M01-066
 
-![Kartu pengamatan](assets/ipas-b06-gambar-08.svg)
+![Ruangan kosong siang hari. A jendela memasukkan cahaya cukup; B lampu menyala; C kipas menyala tanpa kebutuhan lain; D kulkas menyala menyimpan makanan yang harus tetap dingin.](assets/ipas-b06-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kipas angin** adalah ...
+**Pertanyaan:** Mengapa tidak tepat langsung mematikan D untuk menghemat pada keadaan ini?
 
 **Pilihan jawaban:**
-- dapat menggerakkan kincir
-- dapat mengubah suhu benda
-- contoh menghemat listrik
-- mengubah energi listrik menjadi gerak
+- Kulkas pada gambar tidak mempunyai kegunaan
+- Makanan di dalamnya masih memerlukan pendinginan
+- Semua alat menyala harus dipertahankan meski tidak diperlukan
+- Cahaya jendela dapat menggantikan pendinginan makanan
 
-**Kunci Jawaban:** mengubah energi listrik menjadi gerak
+**Kunci Jawaban:** Makanan di dalamnya masih memerlukan pendinginan
 
-**Pembahasan:** Kipas angin: mengubah energi listrik menjadi gerak.
+**Pembahasan:** D menyimpan makanan yang perlu tetap dingin; penghematan mempertimbangkan kebutuhan dan keamanan makanan.
 
 ---
 
 ## Soal 67 — K03-IPAS-B06-M01-067
 
-![Kartu pengamatan](assets/ipas-b06-gambar-09.svg)
+![Tiga kegiatan: A memukul gendang, membran bergetar dan berbunyi; B menjemur pakaian dengan Matahari, pakaian menghangat dan mengering; C makan nasi sebelum berjalan.](assets/ipas-b06-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Setrika** adalah ...
+**Pertanyaan:** Kegiatan yang menunjukkan manfaat panas Matahari berlabel ...
 
 **Pilihan jawaban:**
-- mengubah energi listrik menjadi panas
-- dapat menggerakkan turbin
-- mengubah cahaya matahari menjadi listrik
-- menggunakan energi dari tubuh
+- A
+- C
+- B
+- A dan C
 
-**Kunci Jawaban:** mengubah energi listrik menjadi panas
+**Kunci Jawaban:** B
 
-**Pembahasan:** Setrika: mengubah energi listrik menjadi panas.
+**Pembahasan:** B menyebut pakaian menghangat dan mengering ketika dijemur; A berfokus getaran bunyi dan C makanan.
 
 ---
 
 ## Soal 68 — K03-IPAS-B06-M01-068
 
-![Kartu pengamatan](assets/ipas-b06-gambar-09.svg)
+![Tiga kegiatan: A memukul gendang, membran bergetar dan berbunyi; B menjemur pakaian dengan Matahari, pakaian menghangat dan mengering; C makan nasi sebelum berjalan.](assets/ipas-b06-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Makanan** adalah ...
+**Pertanyaan:** Pada kegiatan mana tubuh memperoleh bahan yang menyimpan energi kimia untuk bergerak?
 
 **Pilihan jawaban:**
-- membantu kita melihat
-- sumber energi bagi tubuh
-- mengurangi penggunaan yang tidak perlu
-- menghasilkan panas untuk memasak
+- A
+- B
+- A dan B
+- C
 
-**Kunci Jawaban:** sumber energi bagi tubuh
+**Kunci Jawaban:** C
 
-**Pembahasan:** Makanan: sumber energi bagi tubuh.
+**Pembahasan:** C menunjukkan makan nasi sebelum berjalan; zat gizi nasi menyediakan energi kimia bagi tubuh.
 
 ---
 
 ## Soal 69 — K03-IPAS-B06-M01-069
 
-![Kartu pengamatan](assets/ipas-b06-gambar-10.svg)
+![Dua lampu identik dengan daya tetap sama. A digunakan satu jam, B digunakan tiga jam. Grafik waktu dimulai dari nol; tidak ada informasi harga listrik.](assets/ipas-b06-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Angin** adalah ...
+**Pertanyaan:** Lampu mana menggunakan listrik lebih sedikit dalam keadaan pada grafik?
 
 **Pilihan jawaban:**
-- dapat mengubah suhu benda
-- contoh menghemat listrik
-- dapat menggerakkan kincir
-- dimiliki benda yang bergerak
+- A
+- B
+- Keduanya pasti sama
+- Waktu tidak berpengaruh jika lampu identik
 
-**Kunci Jawaban:** dapat menggerakkan kincir
+**Kunci Jawaban:** A
 
-**Pembahasan:** Angin: dapat menggerakkan kincir.
+**Pembahasan:** Lampu identik dengan daya sama menggunakan listrik lebih sedikit saat waktu menyalanya lebih singkat; A satu jam dan B tiga jam.
 
 ---
 
 ## Soal 70 — K03-IPAS-B06-M01-070
 
-![Kartu pengamatan](assets/ipas-b06-gambar-10.svg)
+![Dua lampu identik dengan daya tetap sama. A digunakan satu jam, B digunakan tiga jam. Grafik waktu dimulai dari nol; tidak ada informasi harga listrik.](assets/ipas-b06-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Air mengalir** adalah ...
+**Pertanyaan:** Informasi apa yang belum dapat ditentukan dari grafik saja?
 
 **Pilihan jawaban:**
-- mengubah cahaya matahari menjadi listrik
-- menggunakan energi dari tubuh
-- menghidupkan banyak alat
-- dapat menggerakkan turbin
+- Lampu mana menyala lebih lama
+- Biaya listrik tepat dalam rupiah
+- Lama pemakaian A
+- Lama pemakaian B
 
-**Kunci Jawaban:** dapat menggerakkan turbin
+**Kunci Jawaban:** Biaya listrik tepat dalam rupiah
 
-**Pembahasan:** Air mengalir: dapat menggerakkan turbin.
+**Pembahasan:** Grafik berisi waktu dan kesamaan daya, tetapi tidak mencantumkan nilai daya serta tarif untuk menghitung biaya tepat.
 
 ---

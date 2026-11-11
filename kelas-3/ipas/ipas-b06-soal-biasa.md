@@ -2,800 +2,800 @@
 
 ## Soal 1 — K03-IPAS-B06-M01-001
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "membantu kita melihat". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Manakah pasangan yang tepat antara sumber dan bentuk energi?
 
 **Pilihan jawaban:**
-- Cahaya
-- Hemat energi
-- Kompor
-- Perubahan energi
+- Matahari sebagai sumber, cahaya sebagai bentuk energi
+- Cahaya sebagai sumber, Matahari sebagai bentuk energi
+- Bunyi sebagai sumber, baterai sebagai bentuk energi
+- Panas sebagai sumber, makanan sebagai bentuk energi
 
-**Kunci Jawaban:** Cahaya
+**Kunci Jawaban:** Matahari sebagai sumber, cahaya sebagai bentuk energi
 
-**Pembahasan:** Cahaya adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu kita melihat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Matahari menyediakan energi yang sampai sebagai cahaya dan panas; nama sumber berbeda dari nama bentuk energinya.
 
 ---
 
 ## Soal 2 — K03-IPAS-B06-M01-002
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "dapat mengubah suhu benda". Konsep apa yang dimaksud?
+**Pertanyaan:** Bola sedang menggelinding di lantai. Bentuk energi yang langsung ditunjukkan gerakan itu ialah ...
 
 **Pilihan jawaban:**
-- Mematikan lampu
-- Panas
-- Energi gerak
-- Tantangan
+- Energi kimia dalam makanan
+- Energi gerak atau kinetik
+- Energi cahaya dari lampu
+- Energi listrik dari stopkontak
 
-**Kunci Jawaban:** Panas
+**Kunci Jawaban:** Energi gerak atau kinetik
 
-**Pembahasan:** Panas adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat mengubah suhu benda". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Benda yang bergerak memiliki energi kinetik; bola tidak perlu memancarkan cahaya atau terhubung listrik agar bergerak.
 
 ---
 
 ## Soal 3 — K03-IPAS-B06-M01-003
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "mengubah cahaya matahari menjadi listrik"?
+**Pertanyaan:** Dua bola sama jenis dan massanya bergerak di lantai. Bola P lebih cepat daripada Q. Pernyataan yang tepat ialah ...
 
 **Pilihan jawaban:**
-- Mengayuh sepeda
-- Energi listrik
-- Panel surya
-- Energi
+- Energi gerak Q lebih besar hanya karena lebih lambat
+- Keduanya tidak mempunyai energi gerak
+- Energi gerak P lebih besar daripada Q
+- Kecepatan tidak berhubungan dengan energi gerak
 
-**Kunci Jawaban:** Panel surya
+**Kunci Jawaban:** Energi gerak P lebih besar daripada Q
 
-**Pembahasan:** Panel surya adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengubah cahaya matahari menjadi listrik". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Untuk benda bermassa sama, gerak yang lebih cepat mempunyai energi kinetik lebih besar; syarat kesamaan massanya penting.
 
 ---
 
 ## Soal 4 — K03-IPAS-B06-M01-004
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk mengurangi penggunaan yang tidak perlu. Istilah apakah yang paling tepat?
+**Pertanyaan:** Mengapa membran drum dapat menghasilkan bunyi saat dipukul?
 
 **Pilihan jawaban:**
-- Kompor
-- Perubahan energi
-- Matahari
-- Hemat energi
+- Membran menciptakan cahaya untuk telinga
+- Drum harus selalu dipanaskan dahulu
+- Bunyi hanya berasal dari warna membran
+- Membran bergetar dan getarannya merambat ke sekitar
 
-**Kunci Jawaban:** Hemat energi
+**Kunci Jawaban:** Membran bergetar dan getarannya merambat ke sekitar
 
-**Pembahasan:** Hemat energi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengurangi penggunaan yang tidak perlu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Pukulan membuat membran bergetar; getaran dapat menghasilkan bunyi yang merambat melalui udara menuju pendengar.
 
 ---
 
 ## Soal 5 — K03-IPAS-B06-M01-005
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "contoh menghemat listrik". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Bunyi teman yang berbicara dapat sampai ke telinga kita di kelas karena ...
 
 **Pilihan jawaban:**
-- Mematikan lampu
-- Energi gerak
-- Tantangan
-- Baterai
+- Getaran bunyi merambat melalui udara
+- Kata-katanya berubah menjadi cahaya
+- Udara di kelas tidak berperan sama sekali
+- Bunyi hanya merambat jika ada kabel listrik
 
-**Kunci Jawaban:** Mematikan lampu
+**Kunci Jawaban:** Getaran bunyi merambat melalui udara
 
-**Pembahasan:** Mematikan lampu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh menghemat listrik". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Udara merupakan salah satu medium perambatan bunyi; percakapan tidak memerlukan sambungan listrik antartelinga.
 
 ---
 
 ## Soal 6 — K03-IPAS-B06-M01-006
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "menggunakan energi dari tubuh". Konsep apa yang dimaksud?
+**Pertanyaan:** Di ruang tanpa cahaya sama sekali, mengapa benda sulit dilihat?
 
 **Pilihan jawaban:**
-- Energi listrik
-- Mengayuh sepeda
-- Energi
-- Lampu
+- Semua benda pasti berhenti memiliki bentuk
+- Tidak ada cahaya dari benda yang masuk ke mata
+- Telinga berhenti menerima bunyi
+- Benda harus panas agar selalu terlihat
 
-**Kunci Jawaban:** Mengayuh sepeda
+**Kunci Jawaban:** Tidak ada cahaya dari benda yang masuk ke mata
 
-**Pembahasan:** Mengayuh sepeda adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menggunakan energi dari tubuh". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Melihat memerlukan cahaya yang masuk ke mata, biasanya setelah dipantulkan oleh benda di sekitar.
 
 ---
 
 ## Soal 7 — K03-IPAS-B06-M01-007
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "menghasilkan panas untuk memasak"?
+**Pertanyaan:** Bulan tampak terang pada malam hari. Pernyataan yang tepat ialah ...
 
 **Pilihan jawaban:**
-- Perubahan energi
-- Matahari
-- Kompor
-- Kipas angin
+- Bulan menyalakan api seperti lilin
+- Bulan selalu mendapat listrik dari Bumi
+- Bulan memantulkan cahaya Matahari
+- Bulan merupakan lampu buatan manusia
 
-**Kunci Jawaban:** Kompor
+**Kunci Jawaban:** Bulan memantulkan cahaya Matahari
 
-**Pembahasan:** Kompor adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menghasilkan panas untuk memasak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Bulan terlihat terang karena memantulkan cahaya Matahari, bukan menghasilkan cahaya tampak sendiri seperti lampu menyala.
 
 ---
 
 ## Soal 8 — K03-IPAS-B06-M01-008
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk dimiliki benda yang bergerak. Istilah apakah yang paling tepat?
+**Pertanyaan:** Dua bentuk energi yang kita terima dari Matahari dalam kegiatan sehari-hari ialah ...
 
 **Pilihan jawaban:**
-- Tantangan
-- Baterai
-- Setrika
-- Energi gerak
+- Bunyi dan listrik dari kabel
+- Energi baterai dan bensin
+- Gerak roda dan bunyi drum
+- Cahaya dan panas
 
-**Kunci Jawaban:** Energi gerak
+**Kunci Jawaban:** Cahaya dan panas
 
-**Pembahasan:** Energi gerak adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dimiliki benda yang bergerak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Cahaya membantu penglihatan dan tumbuhan, sedangkan panas Matahari dapat menghangatkan serta membantu pengeringan.
 
 ---
 
 ## Soal 9 — K03-IPAS-B06-M01-009
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "menghidupkan banyak alat". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Teman menyebut lampu biasa menghasilkan listrik untuk rumah. Perbaikannya ialah ...
 
 **Pilihan jawaban:**
-- Energi listrik
-- Energi
-- Lampu
-- Makanan
+- Lampu menggunakan listrik dan menghasilkan cahaya serta panas
+- Lampu memasok seluruh listrik dari stopkontak
+- Lampu hanya bekerja tanpa sumber energi
+- Lampu selalu menyimpan bensin untuk menyala
 
-**Kunci Jawaban:** Energi listrik
+**Kunci Jawaban:** Lampu menggunakan listrik dan menghasilkan cahaya serta panas
 
-**Pembahasan:** Energi listrik adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menghidupkan banyak alat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Lampu listrik adalah alat pengguna energi listrik, bukan pembangkit listrik; keluarannya terutama cahaya disertai panas.
 
 ---
 
 ## Soal 10 — K03-IPAS-B06-M01-010
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "peralihan dari satu bentuk ke bentuk lain". Konsep apa yang dimaksud?
+**Pertanyaan:** Kipas angin sedang berputar dan terdengar suaranya. Apa yang ditunjukkan keadaan itu?
 
 **Pilihan jawaban:**
-- Matahari
-- Perubahan energi
-- Kipas angin
-- Angin
+- Setiap alat hanya dapat mempunyai satu bentuk energi
+- Satu alat dapat menghasilkan lebih dari satu bentuk energi
+- Bunyi kipas membuktikan tidak ada gerakan
+- Kipas selalu membuat energi tanpa masukan
 
-**Kunci Jawaban:** Perubahan energi
+**Kunci Jawaban:** Satu alat dapat menghasilkan lebih dari satu bentuk energi
 
-**Pembahasan:** Perubahan energi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "peralihan dari satu bentuk ke bentuk lain". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Kipas memakai listrik untuk gerakan baling-baling dan juga menghasilkan bunyi; satu proses dapat mempunyai beberapa keluaran.
 
 ---
 
 ## Soal 11 — K03-IPAS-B06-M01-011
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "Pilih tiga hal yang kamu temukan hari ini"?
+**Pertanyaan:** Mengapa setrika listrik dapat membantu merapikan pakaian?
 
 **Pilihan jawaban:**
-- Baterai
-- Setrika
-- Tantangan
-- Air mengalir
+- Pakaian menerima energi kimia dari baterai setrika biasa
+- Setrika hanya menghasilkan cahaya tanpa panas
+- Energi listrik diubah menjadi panas pada setrika
+- Setrika bekerja tanpa listrik dan tanpa sumber lain
 
-**Kunci Jawaban:** Tantangan
+**Kunci Jawaban:** Energi listrik diubah menjadi panas pada setrika
 
-**Pembahasan:** Tantangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "Pilih tiga hal yang kamu temukan hari ini". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Panas yang dihasilkan setrika membantu proses merapikan; orang dewasa mengoperasikannya karena ada risiko panas dan listrik.
 
 ---
 
 ## Soal 12 — K03-IPAS-B06-M01-012
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk kemampuan untuk melakukan kerja atau perubahan. Istilah apakah yang paling tepat?
+**Pertanyaan:** Makanan seperti nasi menyimpan energi terutama dalam bentuk ...
 
 **Pilihan jawaban:**
-- Lampu
-- Makanan
-- Cahaya
-- Energi
+- Energi listrik dari stopkontak
+- Bunyi yang sudah jadi
+- Cahaya yang langsung keluar dari nasi
+- Energi kimia
 
-**Kunci Jawaban:** Energi
+**Kunci Jawaban:** Energi kimia
 
-**Pembahasan:** Energi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "kemampuan untuk melakukan kerja atau perubahan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Zat gizi dalam makanan menyimpan energi kimia yang dapat digunakan tubuh untuk berbagai kegiatan.
 
 ---
 
 ## Soal 13 — K03-IPAS-B06-M01-013
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "sumber energi cahaya dan panas". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Apakah tubuh masih menggunakan energi ketika duduk diam?
 
 **Pilihan jawaban:**
-- Matahari
-- Kipas angin
-- Angin
-- Panas
+- Ya, untuk bernapas dan menjalankan fungsi tubuh
+- Tidak, energi hanya dipakai saat berlari
+- Tidak, semua organ berhenti bekerja
+- Ya, tetapi hanya untuk menggerakkan kaki
 
-**Kunci Jawaban:** Matahari
+**Kunci Jawaban:** Ya, untuk bernapas dan menjalankan fungsi tubuh
 
-**Pembahasan:** Matahari adalah pilihan yang sesuai karena petunjuk soal menyebutkan "sumber energi cahaya dan panas". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Tubuh tetap menjalankan pernapasan dan fungsi lainnya saat diam; penggunaan energi tidak hanya tampak sebagai perpindahan tubuh.
 
 ---
 
 ## Soal 14 — K03-IPAS-B06-M01-014
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "menyimpan energi kimia". Konsep apa yang dimaksud?
+**Pertanyaan:** Air minum putih penting bagi tubuh. Pernyataan tentang sumber energi makanan yang tepat ialah ...
 
 **Pilihan jawaban:**
-- Setrika
-- Baterai
-- Air mengalir
-- Panel surya
+- Air putih mengandung energi makanan sama dengan nasi
+- Air putih diperlukan tubuh tetapi tidak memasok energi makanan seperti nasi
+- Semua minuman pasti mempunyai jumlah energi makanan sama
+- Air putih dapat menggantikan semua kebutuhan makanan
 
-**Kunci Jawaban:** Baterai
+**Kunci Jawaban:** Air putih diperlukan tubuh tetapi tidak memasok energi makanan seperti nasi
 
-**Pembahasan:** Baterai adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menyimpan energi kimia". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Air putih tidak mengandung kalori makanan, walaupun sangat diperlukan tubuh; tidak semua minuman memasok energi yang sama.
 
 ---
 
 ## Soal 15 — K03-IPAS-B06-M01-015
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "mengubah energi listrik menjadi cahaya"?
+**Pertanyaan:** Urutan perubahan energi pada senter berbaterai yang menyala ialah ...
 
 **Pilihan jawaban:**
-- Makanan
-- Cahaya
-- Lampu
-- Hemat energi
+- Cahaya → kimia dalam baterai → air mengalir
+- Gerak angin → bensin → bunyi
+- Kimia dalam baterai → listrik → cahaya dan panas
+- Panas → makanan → listrik stopkontak
 
-**Kunci Jawaban:** Lampu
+**Kunci Jawaban:** Kimia dalam baterai → listrik → cahaya dan panas
 
-**Pembahasan:** Lampu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengubah energi listrik menjadi cahaya". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Baterai menyimpan energi kimia dan memasok listrik ke lampu, yang menghasilkan cahaya serta sebagian panas.
 
 ---
 
 ## Soal 16 — K03-IPAS-B06-M01-016
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk mengubah energi listrik menjadi gerak. Istilah apakah yang paling tepat?
+**Pertanyaan:** Baterai mainan habis. Apa yang perlu diperhatikan sebelum mengisi ulang?
 
 **Pilihan jawaban:**
-- Angin
-- Panas
-- Mematikan lampu
-- Kipas angin
+- Semua baterai sekali pakai boleh dimasukkan ke pengisi daya
+- Baterai boleh dipanaskan agar energinya kembali
+- Baterai harus dibuka untuk ditambah air sembarangan
+- Hanya baterai yang memang dapat diisi ulang boleh diisi dengan alat sesuai, oleh orang dewasa
 
-**Kunci Jawaban:** Kipas angin
+**Kunci Jawaban:** Hanya baterai yang memang dapat diisi ulang boleh diisi dengan alat sesuai, oleh orang dewasa
 
-**Pembahasan:** Kipas angin adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengubah energi listrik menjadi gerak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Jenis baterai berbeda; pengisian yang tidak sesuai dapat berbahaya. Anak meminta bantuan orang dewasa dan tidak membongkar baterai.
 
 ---
 
 ## Soal 17 — K03-IPAS-B06-M01-017
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "mengubah energi listrik menjadi panas". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Pada kompor gas yang digunakan orang dewasa, energi kimia dalam bahan bakar terutama dimanfaatkan menjadi ...
 
 **Pilihan jawaban:**
-- Setrika
-- Air mengalir
-- Panel surya
-- Mengayuh sepeda
+- Panas untuk memasak
+- Gerak baling-baling kipas
+- Listrik untuk semua rumah tanpa alat lain
+- Cahaya Matahari untuk tumbuhan
 
-**Kunci Jawaban:** Setrika
+**Kunci Jawaban:** Panas untuk memasak
 
-**Pembahasan:** Setrika adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengubah energi listrik menjadi panas". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Pembakaran gas melepaskan energi kimia terutama sebagai panas untuk memasak; juga dapat ada cahaya dari nyala api.
 
 ---
 
 ## Soal 18 — K03-IPAS-B06-M01-018
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "sumber energi bagi tubuh". Konsep apa yang dimaksud?
+**Pertanyaan:** Bensin membantu mesin kendaraan bekerja karena ...
 
 **Pilihan jawaban:**
-- Cahaya
-- Makanan
-- Hemat energi
-- Kompor
+- Bensin hanya berfungsi memberi warna kendaraan
+- Bensin menyimpan energi kimia yang dapat diubah untuk menggerakkan kendaraan
+- Bensin menghasilkan gerakan tanpa proses pada mesin
+- Bensin adalah udara yang bergerak
 
-**Kunci Jawaban:** Makanan
+**Kunci Jawaban:** Bensin menyimpan energi kimia yang dapat diubah untuk menggerakkan kendaraan
 
-**Pembahasan:** Makanan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "sumber energi bagi tubuh". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Energi kimia bahan bakar dimanfaatkan mesin; bensin bukan angin dan tidak bekerja sebagai cat atau hiasan.
 
 ---
 
 ## Soal 19 — K03-IPAS-B06-M01-019
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "dapat menggerakkan kincir"?
+**Pertanyaan:** Angin dapat memutar kincir karena angin merupakan ...
 
 **Pilihan jawaban:**
-- Panas
-- Mematikan lampu
-- Angin
-- Energi gerak
+- Udara yang tidak pernah bergerak
+- Cahaya yang berubah menjadi kain
+- Udara bergerak yang dapat memindahkan energi ke baling-baling
+- Air yang diam di dasar gelas
 
-**Kunci Jawaban:** Angin
+**Kunci Jawaban:** Udara bergerak yang dapat memindahkan energi ke baling-baling
 
-**Pembahasan:** Angin adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat menggerakkan kincir". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Gerakan udara mendorong baling-baling sehingga energi dapat dipindahkan dan kincir berputar.
 
 ---
 
 ## Soal 20 — K03-IPAS-B06-M01-020
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk dapat menggerakkan turbin. Istilah apakah yang paling tepat?
+**Pertanyaan:** Pada pembangkit listrik tenaga air, apa yang langsung membantu memutar turbin?
 
 **Pilihan jawaban:**
-- Panel surya
-- Mengayuh sepeda
-- Energi listrik
-- Air mengalir
+- Air minum yang diam di botol tertutup
+- Warna dinding bendungan
+- Banyaknya nama pada papan pembangkit
+- Air yang mengalir atau jatuh
 
-**Kunci Jawaban:** Air mengalir
+**Kunci Jawaban:** Air yang mengalir atau jatuh
 
-**Pembahasan:** Air mengalir adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat menggerakkan turbin". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Gerakan air dimanfaatkan untuk memutar turbin; generator yang terhubung kemudian menghasilkan listrik.
 
 ---
 
 ## Soal 21 — K03-IPAS-B06-M01-021
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Cahaya**?
+**Pertanyaan:** Panel surya pada lampu taman terutama mengubah ...
 
 **Pilihan jawaban:**
-- membantu kita melihat
-- mengurangi penggunaan yang tidak perlu
-- menghasilkan panas untuk memasak
-- peralihan dari satu bentuk ke bentuk lain
+- Energi cahaya Matahari menjadi listrik
+- Panas kompor menjadi makanan
+- Bunyi burung menjadi baterai baru
+- Air hujan menjadi bensin
 
-**Kunci Jawaban:** membantu kita melihat
+**Kunci Jawaban:** Energi cahaya Matahari menjadi listrik
 
-**Pembahasan:** Cahaya: membantu kita melihat.
+**Pembahasan:** Panel surya fotovoltaik memanfaatkan cahaya untuk menghasilkan listrik, bukan langsung mengubah panas menjadi listrik pada contoh ini.
 
 ---
 
 ## Soal 22 — K03-IPAS-B06-M01-022
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Panas**?
+**Pertanyaan:** Mengapa keluaran pembangkit angin dapat berubah saat angin melemah?
 
 **Pilihan jawaban:**
-- contoh menghemat listrik
-- dapat mengubah suhu benda
-- dimiliki benda yang bergerak
-- Pilih tiga hal yang kamu temukan hari ini
+- Angin lemah selalu membuat turbin makin cepat
+- Masukan gerak angin yang tersedia berubah
+- Turbin tidak membutuhkan gerakan udara
+- Semua sumber energi selalu tersedia sama setiap saat
 
-**Kunci Jawaban:** dapat mengubah suhu benda
+**Kunci Jawaban:** Masukan gerak angin yang tersedia berubah
 
-**Pembahasan:** Panas: dapat mengubah suhu benda.
+**Pembahasan:** Kecepatan dan ketersediaan angin memengaruhi gerak turbin serta keluaran pembangkit; kondisi alam perlu diperhatikan.
 
 ---
 
 ## Soal 23 — K03-IPAS-B06-M01-023
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Panel surya**?
+**Pertanyaan:** Mengapa penggunaan batu bara perlu dihemat?
 
 **Pilihan jawaban:**
-- menggunakan energi dari tubuh
-- menghidupkan banyak alat
-- mengubah cahaya matahari menjadi listrik
-- kemampuan untuk melakukan kerja atau perubahan
+- Batu bara baru terbentuk seluruhnya setiap pagi
+- Semua batu bara dapat kembali setelah dibakar
+- Persediaannya terbatas dan terbentuk sangat lama
+- Batu bara tidak pernah dipakai untuk energi
 
-**Kunci Jawaban:** mengubah cahaya matahari menjadi listrik
+**Kunci Jawaban:** Persediaannya terbatas dan terbentuk sangat lama
 
-**Pembahasan:** Panel surya: mengubah cahaya matahari menjadi listrik.
+**Pembahasan:** Batu bara termasuk bahan bakar fosil yang tidak tergantikan dalam waktu singkat; penghematan mengurangi penggunaan yang tidak perlu.
 
 ---
 
 ## Soal 24 — K03-IPAS-B06-M01-024
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Hemat energi**?
+**Pertanyaan:** Matahari, angin, dan aliran air disebut sumber terbarukan. Apa yang tetap perlu diingat?
 
 **Pilihan jawaban:**
-- menghasilkan panas untuk memasak
-- peralihan dari satu bentuk ke bentuk lain
-- sumber energi cahaya dan panas
-- mengurangi penggunaan yang tidak perlu
+- Ketiganya selalu tersedia sama kuat di semua tempat
+- Terbarukan berarti setiap alat boleh dibiarkan menyala terus
+- Sumber terbarukan tidak memerlukan alat untuk menjadi listrik
+- Pemanfaatannya bergantung kondisi dan tetap perlu dikelola bijak
 
-**Kunci Jawaban:** mengurangi penggunaan yang tidak perlu
+**Kunci Jawaban:** Pemanfaatannya bergantung kondisi dan tetap perlu dikelola bijak
 
-**Pembahasan:** Hemat energi: mengurangi penggunaan yang tidak perlu.
+**Pembahasan:** Terbarukan tidak berarti keluaran selalu sama; malam, cuaca, angin, dan aliran air memengaruhi pemanfaatannya.
 
 ---
 
 ## Soal 25 — K03-IPAS-B06-M01-025
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Mematikan lampu**?
+**Pertanyaan:** Pembangkit panas bumi memanfaatkan panas yang berasal dari ...
 
 **Pilihan jawaban:**
-- contoh menghemat listrik
-- dimiliki benda yang bergerak
-- Pilih tiga hal yang kamu temukan hari ini
-- menyimpan energi kimia
+- Bagian dalam Bumi
+- Hanya lampu rumah di permukaan
+- Baterai yang ditanam anak
+- Hanya panas tubuh manusia
 
-**Kunci Jawaban:** contoh menghemat listrik
+**Kunci Jawaban:** Bagian dalam Bumi
 
-**Pembahasan:** Mematikan lampu: contoh menghemat listrik.
+**Pembahasan:** Panas dari dalam Bumi dapat dimanfaatkan dengan teknologi pembangkit; berbeda dari panas setrika atau baterai.
 
 ---
 
 ## Soal 26 — K03-IPAS-B06-M01-026
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Mengayuh sepeda**?
+**Pertanyaan:** Dua daerah mendapat listrik dari pembangkit air dan pembangkit batu bara. Kesimpulan yang tepat ialah ...
 
 **Pilihan jawaban:**
-- menghidupkan banyak alat
-- menggunakan energi dari tubuh
-- kemampuan untuk melakukan kerja atau perubahan
-- mengubah energi listrik menjadi cahaya
+- Semua listrik hanya berasal dari batu bara
+- Listrik dapat dihasilkan dengan memanfaatkan sumber yang berbeda
+- Bentuk energi listrik berubah menjadi nama daerah
+- Stopkontak menciptakan sendiri semua energi tanpa sumber
 
-**Kunci Jawaban:** menggunakan energi dari tubuh
+**Kunci Jawaban:** Listrik dapat dihasilkan dengan memanfaatkan sumber yang berbeda
 
-**Pembahasan:** Mengayuh sepeda: menggunakan energi dari tubuh.
+**Pembahasan:** Air bergerak dan bahan bakar dapat dimanfaatkan melalui proses pembangkitan berbeda untuk menghasilkan listrik.
 
 ---
 
 ## Soal 27 — K03-IPAS-B06-M01-027
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Kompor**?
+**Pertanyaan:** Kabel alat listrik tampak terkelupas. Apa yang harus dilakukan anak?
 
 **Pilihan jawaban:**
-- peralihan dari satu bentuk ke bentuk lain
-- sumber energi cahaya dan panas
-- menghasilkan panas untuk memasak
-- mengubah energi listrik menjadi gerak
+- Memegang bagian terbuka untuk menguji listrik
+- Membasahi kabel agar lebih dingin
+- Menjauh dan memberi tahu orang dewasa tanpa menyentuh bagian rusak
+- Menutupnya dengan tangan saat alat menyala
 
-**Kunci Jawaban:** menghasilkan panas untuk memasak
+**Kunci Jawaban:** Menjauh dan memberi tahu orang dewasa tanpa menyentuh bagian rusak
 
-**Pembahasan:** Kompor: menghasilkan panas untuk memasak.
+**Pembahasan:** Kabel rusak dapat menimbulkan sengatan atau kebakaran; pemeriksaan dan perbaikan harus ditangani orang dewasa yang mampu.
 
 ---
 
 ## Soal 28 — K03-IPAS-B06-M01-028
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Energi gerak**?
+**Pertanyaan:** Saat mengamati sumber bunyi, tindakan yang menjaga pendengaran ialah ...
 
 **Pilihan jawaban:**
-- Pilih tiga hal yang kamu temukan hari ini
-- menyimpan energi kimia
-- mengubah energi listrik menjadi panas
-- dimiliki benda yang bergerak
+- Membunyikan peluit tepat di telinga teman
+- Menaikkan suara setinggi mungkin
+- Menempelkan telinga pada pengeras suara nyaring
+- Menggunakan bunyi pelan dan menjaga jarak dari telinga
 
-**Kunci Jawaban:** dimiliki benda yang bergerak
+**Kunci Jawaban:** Menggunakan bunyi pelan dan menjaga jarak dari telinga
 
-**Pembahasan:** Energi gerak: dimiliki benda yang bergerak.
+**Pembahasan:** Bunyi terlalu kuat atau terlalu dekat dapat merusak pendengaran; kegiatan cukup memakai bunyi aman dan pelan.
 
 ---
 
 ## Soal 29 — K03-IPAS-B06-M01-029
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Energi listrik**?
+**Pertanyaan:** Guru menunjukkan bahwa setrika yang sudah dicabut masih hangat. Cara pengamatan anak yang tepat ialah ...
 
 **Pilihan jawaban:**
-- menghidupkan banyak alat
-- kemampuan untuk melakukan kerja atau perubahan
-- mengubah energi listrik menjadi cahaya
-- sumber energi bagi tubuh
+- Mengikuti penjelasan guru tanpa menyentuh permukaan panas
+- Menempelkan jari untuk memastikan panas
+- Meletakkannya di pangkuan agar terasa
+- Menyiram setrika untuk melihat percikan
 
-**Kunci Jawaban:** menghidupkan banyak alat
+**Kunci Jawaban:** Mengikuti penjelasan guru tanpa menyentuh permukaan panas
 
-**Pembahasan:** Energi listrik: menghidupkan banyak alat.
+**Pembahasan:** Alat yang dicabut masih dapat menyimpan panas; pengamatan tidak memerlukan sentuhan berbahaya.
 
 ---
 
 ## Soal 30 — K03-IPAS-B06-M01-030
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Perubahan energi**?
+**Pertanyaan:** Cara aman mengenali manfaat cahaya Matahari ialah ...
 
 **Pilihan jawaban:**
-- sumber energi cahaya dan panas
-- peralihan dari satu bentuk ke bentuk lain
-- mengubah energi listrik menjadi gerak
-- dapat menggerakkan kincir
+- Menatap Matahari selama mungkin
+- Mengamati tempat yang terang tanpa menatap Matahari langsung
+- Mengarahkan kaca pembesar ke mata
+- Menggunakan cermin untuk memantulkan sinar ke mata teman
 
-**Kunci Jawaban:** peralihan dari satu bentuk ke bentuk lain
+**Kunci Jawaban:** Mengamati tempat yang terang tanpa menatap Matahari langsung
 
-**Pembahasan:** Perubahan energi: peralihan dari satu bentuk ke bentuk lain.
+**Pembahasan:** Cahaya Matahari dapat diamati melalui penerangan lingkungan; melihat Matahari langsung atau memusatkan sinar ke mata berbahaya.
 
 ---
 
 ## Soal 31 — K03-IPAS-B06-M01-031
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Tantangan**?
+**Pertanyaan:** Kelompok ingin memeriksa pengaruh hembusan angin pada kincir kertas. Rancangan yang paling adil ialah ...
 
 **Pilihan jawaban:**
-- menyimpan energi kimia
-- mengubah energi listrik menjadi panas
-- Pilih tiga hal yang kamu temukan hari ini
-- dapat menggerakkan turbin
+- Mengganti ukuran kincir, hembusan, dan waktu sekaligus
+- Membandingkan kincir kecil di luar dengan kincir besar dalam lemari
+- Memakai kincir yang sama dengan hembusan berbeda dan waktu pengamatan sama
+- Menulis hasil tanpa mengamati putaran
 
-**Kunci Jawaban:** Pilih tiga hal yang kamu temukan hari ini
+**Kunci Jawaban:** Memakai kincir yang sama dengan hembusan berbeda dan waktu pengamatan sama
 
-**Pembahasan:** Tantangan: Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Menjaga kincir dan waktu tetap sama membantu menilai pengaruh hembusan, bukan campuran banyak perubahan.
 
 ---
 
 ## Soal 32 — K03-IPAS-B06-M01-032
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Energi**?
+**Pertanyaan:** Manakah catatan yang berupa hasil pengamatan langsung?
 
 **Pilihan jawaban:**
-- mengubah energi listrik menjadi cahaya
-- sumber energi bagi tubuh
-- membantu kita melihat
-- kemampuan untuk melakukan kerja atau perubahan
+- Kincir ini pasti bekerja sama baik di semua cuaca
+- Semua alat di rumah pasti memakai baterai
+- Angin besok pasti sekuat hari ini
+- Baling-baling berputar setelah terkena hembusan
 
-**Kunci Jawaban:** kemampuan untuk melakukan kerja atau perubahan
+**Kunci Jawaban:** Baling-baling berputar setelah terkena hembusan
 
-**Pembahasan:** Energi: kemampuan untuk melakukan kerja atau perubahan.
+**Pembahasan:** Putaran yang terlihat dapat dicatat sebagai bukti; kepastian tentang semua alat atau cuaca besok tidak berasal dari pengamatan itu.
 
 ---
 
 ## Soal 33 — K03-IPAS-B06-M01-033
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Matahari**?
+**Pertanyaan:** Mengapa percobaan sederhana sebaiknya diamati beberapa kali?
 
 **Pilihan jawaban:**
-- sumber energi cahaya dan panas
-- mengubah energi listrik menjadi gerak
-- dapat menggerakkan kincir
-- dapat mengubah suhu benda
+- Untuk mengetahui apakah pola hasilnya cukup konsisten
+- Agar hasil yang tidak disukai boleh dihapus
+- Agar semua penyebab tidak perlu diperiksa
+- Agar dugaan otomatis menjadi benar
 
-**Kunci Jawaban:** sumber energi cahaya dan panas
+**Kunci Jawaban:** Untuk mengetahui apakah pola hasilnya cukup konsisten
 
-**Pembahasan:** Matahari: sumber energi cahaya dan panas.
+**Pembahasan:** Pengulangan membantu memeriksa pola dan kemungkinan kekeliruan; hasil sebenarnya tetap dicatat meskipun berbeda dari dugaan.
 
 ---
 
 ## Soal 34 — K03-IPAS-B06-M01-034
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Baterai**?
+**Pertanyaan:** Guru menaruh dua wadah air yang sama, satu di tempat terkena Matahari dan satu di tempat teduh. Apa yang perlu disamakan untuk membandingkan pemanasannya?
 
 **Pilihan jawaban:**
-- mengubah energi listrik menjadi panas
-- menyimpan energi kimia
-- dapat menggerakkan turbin
-- mengubah cahaya matahari menjadi listrik
+- Hanya nama wadah, sementara semua kondisi lain berbeda
+- Banyak air, wadah, suhu awal, dan lama pengamatan
+- Warna pensil pencatat saja
+- Perkiraan suhu tanpa pengukuran
 
-**Kunci Jawaban:** menyimpan energi kimia
+**Kunci Jawaban:** Banyak air, wadah, suhu awal, dan lama pengamatan
 
-**Pembahasan:** Baterai: menyimpan energi kimia.
+**Pembahasan:** Kondisi awal dan cara pengamatan yang sama membantu membandingkan pengaruh tempat; pengukuran dilakukan dengan alat aman oleh guru.
 
 ---
 
 ## Soal 35 — K03-IPAS-B06-M01-035
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Lampu**?
+**Pertanyaan:** Ruangan cukup terang pada siang hari meskipun lampu dimatikan. Sumber cahaya yang mungkin meneranginya ialah ...
 
 **Pilihan jawaban:**
-- sumber energi bagi tubuh
-- membantu kita melihat
-- mengubah energi listrik menjadi cahaya
-- mengurangi penggunaan yang tidak perlu
+- Bunyi percakapan di kelas
+- Panas dari buku tertutup
+- Cahaya Matahari yang masuk lewat jendela
+- Udara diam di dalam lemari
 
-**Kunci Jawaban:** mengubah energi listrik menjadi cahaya
+**Kunci Jawaban:** Cahaya Matahari yang masuk lewat jendela
 
-**Pembahasan:** Lampu: mengubah energi listrik menjadi cahaya.
+**Pembahasan:** Jendela dapat meneruskan cahaya dari luar; lampu bukan satu-satunya sumber penerangan ruangan.
 
 ---
 
 ## Soal 36 — K03-IPAS-B06-M01-036
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Kipas angin**?
+**Pertanyaan:** Kedua telapak tangan digosok perlahan lalu terasa hangat. Perubahan yang terutama dirasakan ialah ...
 
 **Pilihan jawaban:**
-- dapat menggerakkan kincir
-- dapat mengubah suhu benda
-- contoh menghemat listrik
-- mengubah energi listrik menjadi gerak
+- Bunyi berubah menjadi air
+- Panas berubah menjadi makanan baru
+- Energi kimia berubah langsung menjadi cahaya tampak di tangan
+- Sebagian energi gerak berubah menjadi panas
 
-**Kunci Jawaban:** mengubah energi listrik menjadi gerak
+**Kunci Jawaban:** Sebagian energi gerak berubah menjadi panas
 
-**Pembahasan:** Kipas angin: mengubah energi listrik menjadi gerak.
+**Pembahasan:** Gesekan saat tangan bergerak dapat menghasilkan panas; lakukan lembut dan berhenti jika tidak nyaman.
 
 ---
 
 ## Soal 37 — K03-IPAS-B06-M01-037
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Setrika**?
+**Pertanyaan:** Karet diregangkan secara aman oleh guru lalu dilepas untuk menggerakkan model kecil. Sebelum dilepas, karet menyimpan ...
 
 **Pilihan jawaban:**
-- mengubah energi listrik menjadi panas
-- dapat menggerakkan turbin
-- mengubah cahaya matahari menjadi listrik
-- menggunakan energi dari tubuh
+- Energi elastis
+- Energi bensin
+- Cahaya lampu
+- Bunyi yang sudah terdengar
 
-**Kunci Jawaban:** mengubah energi listrik menjadi panas
+**Kunci Jawaban:** Energi elastis
 
-**Pembahasan:** Setrika: mengubah energi listrik menjadi panas.
+**Pembahasan:** Benda elastis yang diregangkan dapat menyimpan energi yang kemudian berubah menjadi gerak. Karet tidak diarahkan ke orang.
 
 ---
 
 ## Soal 38 — K03-IPAS-B06-M01-038
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Makanan**?
+**Pertanyaan:** Bola yang berada lebih tinggi dapat bergerak turun saat dilepas. Bentuk energi yang berkaitan dengan kedudukannya itu ialah ...
 
 **Pilihan jawaban:**
-- membantu kita melihat
-- sumber energi bagi tubuh
-- mengurangi penggunaan yang tidak perlu
-- menghasilkan panas untuk memasak
+- Energi kimia dari baterai bola
+- Energi potensial gravitasi
+- Energi bunyi dari warna bola
+- Energi listrik dari meja
 
-**Kunci Jawaban:** sumber energi bagi tubuh
+**Kunci Jawaban:** Energi potensial gravitasi
 
-**Pembahasan:** Makanan: sumber energi bagi tubuh.
+**Pembahasan:** Kedudukan pada ketinggian berkaitan dengan energi potensial gravitasi yang dapat berubah menjadi gerak; demonstrasi cukup pada ketinggian rendah oleh guru.
 
 ---
 
 ## Soal 39 — K03-IPAS-B06-M01-039
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Angin**?
+**Pertanyaan:** Ketika listrik menyalakan lampu, energi ...
 
 **Pilihan jawaban:**
-- dapat mengubah suhu benda
-- contoh menghemat listrik
-- dapat menggerakkan kincir
-- dimiliki benda yang bergerak
+- Diciptakan lampu tanpa masukan apa pun
+- Seluruhnya berubah menjadi benda baru
+- Berubah bentuk menjadi cahaya dan panas
+- Hilang sehingga tidak mempunyai pengaruh di sekitar
 
-**Kunci Jawaban:** dapat menggerakkan kincir
+**Kunci Jawaban:** Berubah bentuk menjadi cahaya dan panas
 
-**Pembahasan:** Angin: dapat menggerakkan kincir.
+**Pembahasan:** Lampu memindahkan dan mengubah bentuk energi yang diterimanya; cahaya serta panas merupakan pengaruh di sekitar.
 
 ---
 
 ## Soal 40 — K03-IPAS-B06-M01-040
 
-**Pertanyaan:** Apa penjelasan yang tepat tentang **Air mengalir**?
+**Pertanyaan:** Kipas dimatikan dan akhirnya berhenti. Apa yang paling tepat tentang energi geraknya?
 
 **Pilihan jawaban:**
-- mengubah cahaya matahari menjadi listrik
-- menggunakan energi dari tubuh
-- menghidupkan banyak alat
-- dapat menggerakkan turbin
+- Energi gerak tetap sama meskipun tidak lagi berputar
+- Energi berubah menjadi baterai baru di dalam baling-baling
+- Energi bertambah sendiri saat kipas berhenti
+- Sebagian berpindah ke sekitar sebagai panas dan bunyi selama berhenti
 
-**Kunci Jawaban:** dapat menggerakkan turbin
+**Kunci Jawaban:** Sebagian berpindah ke sekitar sebagai panas dan bunyi selama berhenti
 
-**Pembahasan:** Air mengalir: dapat menggerakkan turbin.
+**Pembahasan:** Gesekan dan hambatan udara memindahkan energi ke sekitar; berhenti bukan berarti energi diciptakan atau tetap menjadi gerak yang sama.
 
 ---
 
 ## Soal 41 — K03-IPAS-B06-M01-041
 
-**Pertanyaan:** Pada bab **Energi, sang Pemberi Kekuatan**, hal apa yang berkaitan dengan "membantu kita melihat"?
+**Pertanyaan:** Bola menggelinding menabrak bola lain yang kemudian bergerak. Kejadian itu menunjukkan ...
 
 **Pilihan jawaban:**
-- Cahaya
-- Hemat energi
-- Kompor
-- Perubahan energi
+- Gerakan dapat memindahkan energi ke benda lain
+- Bola kedua selalu mempunyai baterai
+- Tidak ada hubungan antara benturan dan gerak
+- Bola pertama harus mengeluarkan cahaya
 
-**Kunci Jawaban:** Cahaya
+**Kunci Jawaban:** Gerakan dapat memindahkan energi ke benda lain
 
-**Pembahasan:** Cahaya adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu kita melihat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Interaksi saat benturan dapat memindahkan sebagian energi sehingga bola lain bergerak; baterai tidak diperlukan untuk contoh itu.
 
 ---
 
 ## Soal 42 — K03-IPAS-B06-M01-042
 
-**Pertanyaan:** Pada bab **Energi, sang Pemberi Kekuatan**, hal apa yang berkaitan dengan "dapat mengubah suhu benda"?
+**Pertanyaan:** Dalam pertunjukan tari dengan iringan gendang, bentuk energi yang mudah diamati ialah ...
 
 **Pilihan jawaban:**
-- Mematikan lampu
-- Panas
-- Energi gerak
-- Tantangan
+- Hanya listrik karena semua tari wajib memakai listrik
+- Gerak penari dan bunyi gendang
+- Hanya cahaya karena gerakan tidak memakai energi
+- Energi bahan bakar dari setiap kostum
 
-**Kunci Jawaban:** Panas
+**Kunci Jawaban:** Gerak penari dan bunyi gendang
 
-**Pembahasan:** Panas adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat mengubah suhu benda". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Tubuh penari bergerak dan membran gendang bergetar menghasilkan bunyi; pertunjukan dapat menampilkan beberapa bentuk energi.
 
 ---
 
 ## Soal 43 — K03-IPAS-B06-M01-043
 
-**Pertanyaan:** Pada bab **Energi, sang Pemberi Kekuatan**, hal apa yang berkaitan dengan "mengubah cahaya matahari menjadi listrik"?
+**Pertanyaan:** Pompa tangan dan pompa listrik sama-sama menaikkan air. Perbedaan masukan langsung pada kedua alat ialah ...
 
 **Pilihan jawaban:**
-- Mengayuh sepeda
-- Energi listrik
-- Panel surya
-- Energi
+- Keduanya selalu mendapat listrik dari kabel
+- Pompa tangan bekerja tanpa energi apa pun
+- Pompa tangan digerakkan tubuh, pompa listrik memakai listrik
+- Pompa listrik hanya memakai cahaya tanpa rangkaian
 
-**Kunci Jawaban:** Panel surya
+**Kunci Jawaban:** Pompa tangan digerakkan tubuh, pompa listrik memakai listrik
 
-**Pembahasan:** Panel surya adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengubah cahaya matahari menjadi listrik". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Hasil kegiatannya dapat sama walaupun masukan langsung berbeda; tubuh memperoleh tenaga dari energi makanan.
 
 ---
 
 ## Soal 44 — K03-IPAS-B06-M01-044
 
-**Pertanyaan:** Pada bab **Energi, sang Pemberi Kekuatan**, hal apa yang berkaitan dengan "mengurangi penggunaan yang tidak perlu"?
+**Pertanyaan:** Saat listrik rumah padam, alat penerangan yang dapat dipakai anak dengan arahan orang dewasa ialah ...
 
 **Pilihan jawaban:**
-- Kompor
-- Perubahan energi
-- Matahari
-- Hemat energi
+- Lampu berkabel yang tidak mempunyai pasokan listrik
+- Menyalakan kompor gas untuk dibawa berkeliling
+- Menyentuh kabel terbuka agar mencari sumber listrik
+- Senter dengan baterai yang berfungsi
 
-**Kunci Jawaban:** Hemat energi
+**Kunci Jawaban:** Senter dengan baterai yang berfungsi
 
-**Pembahasan:** Hemat energi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "mengurangi penggunaan yang tidak perlu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Senter mempunyai sumber energi sendiri; penggunaan api atau kabel rusak berbahaya dan bukan pilihan aman bagi anak.
 
 ---
 
 ## Soal 45 — K03-IPAS-B06-M01-045
 
-**Pertanyaan:** Pada bab **Energi, sang Pemberi Kekuatan**, hal apa yang berkaitan dengan "contoh menghemat listrik"?
+**Pertanyaan:** Kegiatan mana masih dapat dilakukan di ruang cukup terang ketika listrik padam?
 
 **Pilihan jawaban:**
-- Mematikan lampu
-- Energi gerak
-- Tantangan
-- Baterai
+- Menggambar dengan pensil di kertas
+- Menyalakan kipas listrik tanpa sumber cadangan
+- Memakai setrika listrik tanpa pasokan
+- Menonton televisi listrik tanpa sumber cadangan
 
-**Kunci Jawaban:** Mematikan lampu
+**Kunci Jawaban:** Menggambar dengan pensil di kertas
 
-**Pembahasan:** Mematikan lampu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "contoh menghemat listrik". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Menggambar menggunakan tenaga tubuh dan cahaya yang tersedia; tiga alat lain memerlukan pasokan listrik pada kondisi yang disebut.
 
 ---
 
 ## Soal 46 — K03-IPAS-B06-M01-046
 
-**Pertanyaan:** Pada bab **Energi, sang Pemberi Kekuatan**, hal apa yang berkaitan dengan "menggunakan energi dari tubuh"?
+**Pertanyaan:** Lampu belajar masih menyala padahal cahaya dari jendela sudah cukup. Tindakan hemat yang tepat ialah ...
 
 **Pilihan jawaban:**
-- Energi listrik
-- Mengayuh sepeda
-- Energi
-- Lampu
+- Menyalakan semua lampu tambahan
+- Mematikan lampu jika penerangan tetap aman dan cukup
+- Menutup jendela agar lampu harus terus dipakai
+- Menganggap lampu tidak memakai energi pada siang hari
 
-**Kunci Jawaban:** Mengayuh sepeda
+**Kunci Jawaban:** Mematikan lampu jika penerangan tetap aman dan cukup
 
-**Pembahasan:** Mengayuh sepeda adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menggunakan energi dari tubuh". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Mengurangi penerangan listrik yang tidak diperlukan menghemat penggunaan tanpa mengurangi keselamatan dan kenyamanan belajar.
 
 ---
 
 ## Soal 47 — K03-IPAS-B06-M01-047
 
-**Pertanyaan:** Pada bab **Energi, sang Pemberi Kekuatan**, hal apa yang berkaitan dengan "menghasilkan panas untuk memasak"?
+**Pertanyaan:** Kipas menyala di ruang kosong dan tidak diperlukan untuk keperluan lain. Apa tindakan yang tepat?
 
 **Pilihan jawaban:**
-- Perubahan energi
-- Matahari
-- Kompor
-- Kipas angin
+- Membiarkannya karena ruang kosong tidak memakai listrik
+- Menahan baling-baling dengan tangan
+- Mematikannya melalui sakelar yang aman dengan arahan orang dewasa
+- Menarik kabel dengan tangan basah
 
-**Kunci Jawaban:** Kompor
+**Kunci Jawaban:** Mematikannya melalui sakelar yang aman dengan arahan orang dewasa
 
-**Pembahasan:** Kompor adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menghasilkan panas untuk memasak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Alat yang menyala tetap menggunakan energi meski tidak ada orang; gunakan kendali yang aman, bukan menyentuh bagian bergerak atau kabel.
 
 ---
 
 ## Soal 48 — K03-IPAS-B06-M01-048
 
-**Pertanyaan:** Pada bab **Energi, sang Pemberi Kekuatan**, hal apa yang berkaitan dengan "dimiliki benda yang bergerak"?
+**Pertanyaan:** Televisi dibiarkan menyala tanpa ditonton. Mengapa mematikannya dapat menghemat energi?
 
 **Pilihan jawaban:**
-- Tantangan
-- Baterai
-- Setrika
-- Energi gerak
+- Mematikan televisi membuat semua rumah tidak perlu listrik
+- Televisi hanya memakai listrik ketika ditatap
+- Bunyi televisi merupakan satu-satunya masukan energi
+- Mengurangi penggunaan listrik yang tidak diperlukan
 
-**Kunci Jawaban:** Energi gerak
+**Kunci Jawaban:** Mengurangi penggunaan listrik yang tidak diperlukan
 
-**Pembahasan:** Energi gerak adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dimiliki benda yang bergerak". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Alat tetap memakai listrik saat menyala tanpa penonton; kebutuhan pemakaian perlu diperiksa.
 
 ---
 
 ## Soal 49 — K03-IPAS-B06-M01-049
 
-**Pertanyaan:** Pada bab **Energi, sang Pemberi Kekuatan**, hal apa yang berkaitan dengan "menghidupkan banyak alat"?
+**Pertanyaan:** Catatan apa yang paling membantu membuat rencana hemat energi di kelas?
 
 **Pilihan jawaban:**
-- Energi listrik
-- Energi
-- Lampu
-- Makanan
+- Alat yang dipakai, waktu pemakaian, dan apakah benar-benar diperlukan
+- Hanya warna alat tanpa kegiatan pemakaian
+- Hanya jumlah poster tentang hemat energi
+- Dugaan bahwa semua alat selalu harus dimatikan
 
-**Kunci Jawaban:** Energi listrik
+**Kunci Jawaban:** Alat yang dipakai, waktu pemakaian, dan apakah benar-benar diperlukan
 
-**Pembahasan:** Energi listrik adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menghidupkan banyak alat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Data pemakaian dan kebutuhan membantu memilih perubahan yang sesuai; alat yang diperlukan tidak boleh sembarang dimatikan.
 
 ---
 
 ## Soal 50 — K03-IPAS-B06-M01-050
 
-**Pertanyaan:** Pada bab **Energi, sang Pemberi Kekuatan**, hal apa yang berkaitan dengan "peralihan dari satu bentuk ke bentuk lain"?
+**Pertanyaan:** Mengapa hemat energi tidak berarti mematikan semua alat setiap saat?
 
 **Pilihan jawaban:**
-- Matahari
-- Perubahan energi
-- Kipas angin
-- Angin
+- Semua alat aman dimatikan tanpa melihat fungsinya
+- Sebagian alat tetap diperlukan untuk keselamatan atau kebutuhan penting
+- Penggunaan energi tidak pernah bermanfaat
+- Hemat berarti tidak boleh belajar dengan lampu saat gelap
 
-**Kunci Jawaban:** Perubahan energi
+**Kunci Jawaban:** Sebagian alat tetap diperlukan untuk keselamatan atau kebutuhan penting
 
-**Pembahasan:** Perubahan energi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "peralihan dari satu bentuk ke bentuk lain". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Penghematan mengurangi pemakaian yang tidak perlu sambil menjaga fungsi penting, seperti penerangan aman dan penyimpanan makanan.
 
 ---

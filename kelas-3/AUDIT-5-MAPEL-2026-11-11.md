@@ -90,3 +90,13 @@ batas teks dan tinjauan visual berhasil; 46 ekspresi unik sumber berhasil
 dirender MathJax tanpa kesalahan. Validasi bank kanonis: 1.945, 0 kesalahan
 struktur. Kumulatif 350 diperiksa, 336 diubah; sisa 1.595 soal/36 bab.
 Status **BELUM SELESAI**. Titik lanjut IPAS Bab 6. Tidak ada konversi JSON.
+
+### Kelanjutan: IPAS Bab 6
+
+Seluruh 70 soal dan kedua modul ditulis ulang, 12 SVG diganti. ID dan jumlah
+tetap. Koreksi sumber/bentuk energi, lampu sebagai pengguna listrik, panel
+fotovoltaik, energi makanan versus air putih, keselamatan dan penghematan
+sesuai kebutuhan. Pemeriksaan XML, render 390 piksel, batas teks dan tinjauan
+visual berhasil; 7 ekspresi sumber berhasil dirender MathJax. Validator:
+1.945 soal, 0 kesalahan struktur. Kumulatif 420 diperiksa, 406 diubah;
+sisa 1.525 soal/35 bab. **BELUM SELESAI**; titik lanjut IPAS Bab 7.

@@ -4,15 +4,15 @@
 
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
-| IPAS | Bab 1–5: 336 butir berubah | 350 butir diperiksa; Bab 1–5 selesai pemeriksaan isi dan media | Bab 6–8: 210 soal |
+| IPAS | Bab 1–6: 406 butir berubah | 420 butir diperiksa; Bab 1–6 selesai pemeriksaan isi dan media | Bab 7–8: 140 soal |
 | PAI | Belum dikerjakan | Belum diperiksa ulang | 300 soal/10 bab |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **350/1.945**. Jumlah diubah: **336**.
-Sisa audit isi: **1.595 soal pada 36 bab/unit**. Bab 1–5 IPAS telah menutup pemeriksaan isi dan media putaran ini;
-36 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **420/1.945**. Jumlah diubah: **406**.
+Sisa audit isi: **1.525 soal pada 35 bab/unit**. Bab 1–6 IPAS telah menutup pemeriksaan isi dan media putaran ini;
+35 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -167,13 +167,46 @@ delimiter, kurung kurawal, dan backslash juga diperiksa. Ini pemeriksaan
 sumber materi/soal, bukan aktivasi JSON atau uji alur aplikasi. Validasi
 Python bank kanonis tetap 1.945 soal, 0 kesalahan struktur.
 
+## IPAS Bab 6
+
+Seluruh 70 soal dan dua modul ditulis ulang sesuai cakupan buku revisi 2025
+halaman 115–144. ID dan jumlah 50+20 tetap. Enam bentuk energi dipisahkan
+dari nama sumber/alat. Soal mencakup bukti pengamatan, aliran/perubahan energi,
+beberapa keluaran satu alat, rancangan perbandingan adil, batas kesimpulan,
+serta penghematan sesuai kebutuhan. Pengenalan elastis/gravitasi tetap tanpa
+rumus sesuai bagian pengayaan buku.
+
+Koreksi konsep: lampu memakai listrik, bukan menghasilkan listrik untuk rumah;
+panel fotovoltaik memanfaatkan cahaya; baterai menyimpan energi kimia dan
+menyalurkan energi listrik. Air putih dibutuhkan tubuh tetapi tidak memasok
+kalori makanan seperti nasi. Tubuh tetap menggunakan energi saat diam.
+Kesamaan massa dinyatakan saat membandingkan energi gerak lewat kecepatan;
+kesamaan daya dinyatakan saat membandingkan pemakaian lampu lewat waktu.
+
+Kebutuhan air/bahan bakar/baterai diperiksa; tidak semua baterai boleh diisi ulang.
+Kegiatan menggunakan model/guru, tanpa meminta anak menyentuh kabel, sumber
+panas, menatap Matahari, atau memakai suara kuat. Penghematan tidak berarti
+mematikan kulkas yang masih diperlukan untuk makanan.
+
+Dua belas SVG diganti: gambar alat, aliran senter, panel terang/tertutup,
+tabel putaran serta suhu, getaran senar, bagan pembangkit air, ruang kebutuhan,
+jurnal kegiatan, dan grafik waktu bersumbu nol. Ikon benar-benar menggambar
+lampu, kipas, baterai, drum, nasi, dan pakaian dijemur. Stimulus tidak mencetak
+klasifikasi kunci. Semua soal bergambar memerlukan label/data pada stimulus.
+
+Pemeriksaan: 70 ID lama dipertahankan, 70 butir berubah, stem unik; 12 SVG
+lolos XML, render Chromium lebar 390 piksel, batas teks dan tinjauan visual
+setelah koreksi gambar. Tujuh ekspresi unik dari sumber berhasil dirender
+MathJax 3 tanpa kesalahan. Validator bank kanonis: 1.945, 0 kesalahan struktur.
+Belum ada uji kesulitan empiris pada siswa, konversi JSON, atau aktivasi aplikasi.
+
 ## Pemeriksaan
 
 `python scripts/check-k03-question-sources.py` memeriksa paket kanonis lima
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–5
+Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–6
 belum memperoleh pemeriksaan isi putaran ini. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
@@ -183,7 +216,7 @@ Pemeriksaan ini bukan uji coba kepada siswa atau pengukuran kesulitan empiris.
 
 ## Posisi lanjut yang tepat
 
-Lanjut **IPAS Bab 6, nomor 001–070**, dua modul, dan 12 SVG, kemudian Bab 7–8.
+Lanjut **IPAS Bab 7, nomor 001–070**, dua modul, dan 12 SVG, kemudian Bab 8.
 Sesudah IPAS, lanjut PAI, ENG, PJOK, dan Seni Rupa. Pertahankan pemeriksaan
 buku revisi 2025 dan larangan konversi JSON.
 
