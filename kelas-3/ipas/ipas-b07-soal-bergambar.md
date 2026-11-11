@@ -2,360 +2,360 @@
 
 ## Soal 51 — K03-IPAS-B07-M01-051
 
-![Kartu pengamatan](assets/ipas-b07-gambar-01.svg)
+![Denah utara di atas: sekolah di tengah, taman di atas sekolah, pasar di kanan sekolah, rumah di bawah sekolah. Jalan menghubungkan sekolah dengan ketiganya. Tidak berskala.](assets/ipas-b07-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Sekolah** adalah ...
+**Pertanyaan:** Tempat apa yang berada di utara sekolah pada denah?
 
 **Pilihan jawaban:**
-- contoh lokasi pada denah
-- bentuk permukaan bumi yang tinggi
-- mengumpulkan informasi dengan indra
-- tidak merusak tempat yang dikunjungi
+- Pasar
+- Rumah
+- Taman
+- Sekolah itu sendiri
 
-**Kunci Jawaban:** contoh lokasi pada denah
+**Kunci Jawaban:** Taman
 
-**Pembahasan:** Sekolah: contoh lokasi pada denah.
+**Pembahasan:** Panah utara mengarah ke atas dan taman berada di atas sekolah; pasar di timur dan rumah di selatan.
 
 ---
 
 ## Soal 52 — K03-IPAS-B07-M01-052
 
-![Kartu pengamatan](assets/ipas-b07-gambar-01.svg)
+![Denah utara di atas: sekolah di tengah, taman di atas sekolah, pasar di kanan sekolah, rumah di bawah sekolah. Jalan menghubungkan sekolah dengan ketiganya. Tidak berskala.](assets/ipas-b07-gambar-01.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Jalan** adalah ...
+**Pertanyaan:** Jika berangkat dari rumah ke sekolah melalui jalan lurus pada gambar, arah perjalanan ialah ...
 
 **Pilihan jawaban:**
-- wilayah berketinggian relatif rendah
-- jalur penghubung tempat
-- membantu mengingat hasil penjelajahan
-- Pilih tiga hal yang kamu temukan hari ini
+- Selatan
+- Timur
+- Barat
+- Utara
 
-**Kunci Jawaban:** jalur penghubung tempat
+**Kunci Jawaban:** Utara
 
-**Pembahasan:** Jalan: jalur penghubung tempat.
+**Pembahasan:** Rumah terletak di bawah sekolah, sedangkan utara ditunjukkan ke atas; perjalanan dari rumah bergerak ke utara.
 
 ---
 
 ## Soal 53 — K03-IPAS-B07-M01-053
 
-![Kartu pengamatan](assets/ipas-b07-gambar-02.svg)
+![Diagram delapan arah: utara di atas, timur di kanan, selatan di bawah, barat di kiri. Titik A kanan atas, titik B kanan bawah, titik C kiri bawah, titik D kiri atas.](assets/ipas-b07-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Sungai** adalah ...
+**Pertanyaan:** Nama arah pada titik C ialah ...
 
 **Pilihan jawaban:**
-- wilayah yang relatif tinggi
-- diutamakan saat menjelajah
-- aliran air alami
-- gambaran suatu wilayah
+- Barat daya
+- Timur laut
+- Barat laut
+- Tenggara
 
-**Kunci Jawaban:** aliran air alami
+**Kunci Jawaban:** Barat daya
 
-**Pembahasan:** Sungai: aliran air alami.
+**Pembahasan:** C berada di antara selatan dan barat, sehingga merupakan barat daya.
 
 ---
 
 ## Soal 54 — K03-IPAS-B07-M01-054
 
-![Kartu pengamatan](assets/ipas-b07-gambar-02.svg)
+![Diagram delapan arah: utara di atas, timur di kanan, selatan di bawah, barat di kiri. Titik A kanan atas, titik B kanan bawah, titik C kiri bawah, titik D kiri atas.](assets/ipas-b07-gambar-02.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Gunung** adalah ...
+**Pertanyaan:** Titik mana menunjukkan arah yang berlawanan dengan A?
 
 **Pilihan jawaban:**
-- mengumpulkan informasi dengan indra
-- tidak merusak tempat yang dikunjungi
-- gambaran letak tempat secara sederhana
-- bentuk permukaan bumi yang tinggi
+- B
+- C
+- D
+- Utara
 
-**Kunci Jawaban:** bentuk permukaan bumi yang tinggi
+**Kunci Jawaban:** C
 
-**Pembahasan:** Gunung: bentuk permukaan bumi yang tinggi.
+**Pembahasan:** A berada di timur laut dan titik yang berhadapan di barat daya adalah C.
 
 ---
 
 ## Soal 55 — K03-IPAS-B07-M01-055
 
-![Kartu pengamatan](assets/ipas-b07-gambar-03.svg)
+![Denah dengan utara ke kiri halaman dan timur ke atas. Perpustakaan di tengah, kantin di atasnya, kebun di kiri, gerbang di kanan. Tidak berskala.](assets/ipas-b07-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Dataran rendah** adalah ...
+**Pertanyaan:** Kantin berada di arah mana dari perpustakaan menurut petunjuk pada denah?
 
 **Pilihan jawaban:**
-- wilayah berketinggian relatif rendah
-- membantu mengingat hasil penjelajahan
-- Pilih tiga hal yang kamu temukan hari ini
-- penjelasan simbol pada peta
+- Utara
+- Selatan
+- Timur
+- Barat
 
-**Kunci Jawaban:** wilayah berketinggian relatif rendah
+**Kunci Jawaban:** Timur
 
-**Pembahasan:** Dataran rendah: wilayah berketinggian relatif rendah.
+**Pembahasan:** Pada petunjuk ini timur berada ke atas halaman, dan kantin terletak di atas perpustakaan.
 
 ---
 
 ## Soal 56 — K03-IPAS-B07-M01-056
 
-![Kartu pengamatan](assets/ipas-b07-gambar-03.svg)
+![Denah dengan utara ke kiri halaman dan timur ke atas. Perpustakaan di tengah, kantin di atasnya, kebun di kiri, gerbang di kanan. Tidak berskala.](assets/ipas-b07-gambar-03.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Dataran tinggi** adalah ...
+**Pertanyaan:** Jika bergerak dari perpustakaan menuju kebun, arah geraknya ialah ...
 
 **Pilihan jawaban:**
-- diutamakan saat menjelajah
-- wilayah yang relatif tinggi
-- gambaran suatu wilayah
-- tanda yang mewakili objek
+- Barat
+- Selatan
+- Timur
+- Utara
 
-**Kunci Jawaban:** wilayah yang relatif tinggi
+**Kunci Jawaban:** Utara
 
-**Pembahasan:** Dataran tinggi: wilayah yang relatif tinggi.
+**Pembahasan:** Kebun berada di kiri perpustakaan; panah kompas menyatakan kiri halaman adalah utara.
 
 ---
 
 ## Soal 57 — K03-IPAS-B07-M01-057
 
-![Kartu pengamatan](assets/ipas-b07-gambar-04.svg)
+![Denah utara di atas. Rute berpanah A rumah di kiri bawah ke B toko di kanan bawah, lalu ke C sekolah di kanan atas. Jalan berbentuk siku, tidak berskala.](assets/ipas-b07-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Pengamatan** adalah ...
+**Pertanyaan:** Urutan arah dari A ke B lalu C sesuai panah ialah ...
 
 **Pilihan jawaban:**
-- tidak merusak tempat yang dikunjungi
-- gambaran letak tempat secara sederhana
-- mengumpulkan informasi dengan indra
-- berlawanan dengan selatan
+- Timur lalu utara
+- Utara lalu timur
+- Barat lalu selatan
+- Selatan lalu barat
 
-**Kunci Jawaban:** mengumpulkan informasi dengan indra
+**Kunci Jawaban:** Timur lalu utara
 
-**Pembahasan:** Pengamatan: mengumpulkan informasi dengan indra.
+**Pembahasan:** A ke B bergerak ke kanan atau timur, kemudian B ke C ke atas atau utara.
 
 ---
 
 ## Soal 58 — K03-IPAS-B07-M01-058
 
-![Kartu pengamatan](assets/ipas-b07-gambar-04.svg)
+![Denah utara di atas. Rute berpanah A rumah di kiri bawah ke B toko di kanan bawah, lalu ke C sekolah di kanan atas. Jalan berbentuk siku, tidak berskala.](assets/ipas-b07-gambar-04.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Mencatat temuan** adalah ...
+**Pertanyaan:** Jika pulang dari C melalui B ke A, urutan arahnya ialah ...
 
 **Pilihan jawaban:**
-- Pilih tiga hal yang kamu temukan hari ini
-- penjelasan simbol pada peta
-- arah matahari terbit secara umum
-- membantu mengingat hasil penjelajahan
+- Barat lalu selatan
+- Selatan lalu barat
+- Utara lalu timur
+- Timur lalu utara
 
-**Kunci Jawaban:** membantu mengingat hasil penjelajahan
+**Kunci Jawaban:** Selatan lalu barat
 
-**Pembahasan:** Mencatat temuan: membantu mengingat hasil penjelajahan.
+**Pembahasan:** C ke B berlawanan dengan perjalanan B ke C, lalu B ke A berlawanan dengan A ke B: selatan kemudian barat.
 
 ---
 
 ## Soal 59 — K03-IPAS-B07-M01-059
 
-![Kartu pengamatan](assets/ipas-b07-gambar-05.svg)
+![Legenda denah rekaan: segitiga hijau melambangkan bukit, persegi biru melambangkan sekolah, lingkaran jingga melambangkan pasar. Pada jalur dari Mulai terdapat persegi biru lalu lingkaran jingga. Tidak berskala.](assets/ipas-b07-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Keselamatan** adalah ...
+**Pertanyaan:** Tempat pertama setelah Mulai yang ditunjukkan simbol pada jalur ialah ...
 
 **Pilihan jawaban:**
-- diutamakan saat menjelajah
-- gambaran suatu wilayah
-- tanda yang mewakili objek
-- arah matahari terbenam secara umum
+- Bukit
+- Pasar
+- Sekolah
+- Kantor pos
 
-**Kunci Jawaban:** diutamakan saat menjelajah
+**Kunci Jawaban:** Sekolah
 
-**Pembahasan:** Keselamatan: diutamakan saat menjelajah.
+**Pembahasan:** Simbol pertama dari kiri adalah persegi biru, yang pada legenda berarti sekolah.
 
 ---
 
 ## Soal 60 — K03-IPAS-B07-M01-060
 
-![Kartu pengamatan](assets/ipas-b07-gambar-05.svg)
+![Legenda denah rekaan: segitiga hijau melambangkan bukit, persegi biru melambangkan sekolah, lingkaran jingga melambangkan pasar. Pada jalur dari Mulai terdapat persegi biru lalu lingkaran jingga. Tidak berskala.](assets/ipas-b07-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Menjaga alam** adalah ...
+**Pertanyaan:** Pernyataan yang didukung gambar ialah ...
 
 **Pilihan jawaban:**
-- gambaran letak tempat secara sederhana
-- tidak merusak tempat yang dikunjungi
-- berlawanan dengan selatan
-- alat penunjuk arah
+- Jalur pasti menaiki bukit
+- Semua persegi pada semua denah berarti sekolah
+- Jarak sekolah ke pasar tepat seratus meter
+- Jalur melewati sekolah lalu pasar
 
-**Kunci Jawaban:** tidak merusak tempat yang dikunjungi
+**Kunci Jawaban:** Jalur melewati sekolah lalu pasar
 
-**Pembahasan:** Menjaga alam: tidak merusak tempat yang dikunjungi.
+**Pembahasan:** Urutan simbol pada jalur adalah sekolah kemudian pasar; tidak ada bukit di jalur dan tidak ada skala jarak.
 
 ---
 
 ## Soal 61 — K03-IPAS-B07-M01-061
 
-![Kartu pengamatan](assets/ipas-b07-gambar-06.svg)
+![Dua rute rekaan dari rumah ke sekolah: P lebih pendek tetapi melalui jembatan rusak dan ditutup; Q melalui jembatan resmi terbuka dengan pendamping. Panjang nyata tidak dicantumkan.](assets/ipas-b07-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Tantangan** adalah ...
+**Pertanyaan:** Rute mana yang sesuai dipilih pada keadaan gambar?
 
 **Pilihan jawaban:**
-- penjelasan simbol pada peta
-- arah matahari terbit secara umum
-- Pilih tiga hal yang kamu temukan hari ini
-- jalur menuju tujuan
+- Q
+- P
+- P karena selalu lebih aman jika pendek
+- Keduanya boleh diterobos tanpa pendamping
 
-**Kunci Jawaban:** Pilih tiga hal yang kamu temukan hari ini
+**Kunci Jawaban:** Q
 
-**Pembahasan:** Tantangan: Pilih tiga hal yang kamu temukan hari ini.
+**Pembahasan:** Q terbuka dan memakai jembatan resmi bersama pendamping; P ditutup karena rusak walau lebih pendek.
 
 ---
 
 ## Soal 62 — K03-IPAS-B07-M01-062
 
-![Kartu pengamatan](assets/ipas-b07-gambar-06.svg)
+![Dua rute rekaan dari rumah ke sekolah: P lebih pendek tetapi melalui jembatan rusak dan ditutup; Q melalui jembatan resmi terbuka dengan pendamping. Panjang nyata tidak dicantumkan.](assets/ipas-b07-gambar-06.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Peta** adalah ...
+**Pertanyaan:** Informasi apa yang paling menentukan bahwa P tidak boleh dilalui saat ini?
 
 **Pilihan jawaban:**
-- tanda yang mewakili objek
-- arah matahari terbenam secara umum
-- contoh lokasi pada denah
-- gambaran suatu wilayah
+- P menuju sekolah
+- Jembatan rusak dan ditutup
+- P bermula dari rumah
+- P digambar sebelum Q
 
-**Kunci Jawaban:** gambaran suatu wilayah
+**Kunci Jawaban:** Jembatan rusak dan ditutup
 
-**Pembahasan:** Peta: gambaran suatu wilayah.
+**Pembahasan:** Kondisi penutupan karena kerusakan menunjukkan hambatan keselamatan; tujuan dan urutan gambar tidak menghapus hambatan itu.
 
 ---
 
 ## Soal 63 — K03-IPAS-B07-M01-063
 
-![Kartu pengamatan](assets/ipas-b07-gambar-07.svg)
+![Dua catatan satu lokasi: A tertulis denah pekan lalu, jalan utara terbuka; B tertulis pemberitahuan hari ini, jalan utara ditutup untuk perbaikan. Pendamping mencari jalur lain.](assets/ipas-b07-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Denah** adalah ...
+**Pertanyaan:** Informasi mana lebih baru untuk jalan yang sama?
 
 **Pilihan jawaban:**
-- gambaran letak tempat secara sederhana
-- berlawanan dengan selatan
-- alat penunjuk arah
-- jalur penghubung tempat
+- A
+- Keduanya dari hari yang sama
+- B
+- Tidak ada keterangan waktu
 
-**Kunci Jawaban:** gambaran letak tempat secara sederhana
+**Kunci Jawaban:** B
 
-**Pembahasan:** Denah: gambaran letak tempat secara sederhana.
+**Pembahasan:** A berasal dari pekan lalu, sedangkan B dari hari ini; tanggal informasi membantu mengetahui pembaruannya.
 
 ---
 
 ## Soal 64 — K03-IPAS-B07-M01-064
 
-![Kartu pengamatan](assets/ipas-b07-gambar-07.svg)
+![Dua catatan satu lokasi: A tertulis denah pekan lalu, jalan utara terbuka; B tertulis pemberitahuan hari ini, jalan utara ditutup untuk perbaikan. Pendamping mencari jalur lain.](assets/ipas-b07-gambar-07.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Legenda** adalah ...
+**Pertanyaan:** Kesimpulan yang tepat tentang perbedaan kedua catatan ialah ...
 
 **Pilihan jawaban:**
-- arah matahari terbit secara umum
-- penjelasan simbol pada peta
-- jalur menuju tujuan
-- aliran air alami
+- Utara berubah menjadi selatan
+- Semua denah pasti tidak berguna
+- Jalan tertutup harus diterobos agar sesuai catatan A
+- Keadaan jalan berubah sehingga rute perlu disesuaikan
 
-**Kunci Jawaban:** penjelasan simbol pada peta
+**Kunci Jawaban:** Keadaan jalan berubah sehingga rute perlu disesuaikan
 
-**Pembahasan:** Legenda: penjelasan simbol pada peta.
+**Pembahasan:** Informasi terbaru menyatakan perbaikan dan penutupan; perbedaan waktu menjelaskan perubahan tanpa menolak semua kegunaan denah.
 
 ---
 
 ## Soal 65 — K03-IPAS-B07-M01-065
 
-![Kartu pengamatan](assets/ipas-b07-gambar-08.svg)
+![Empat gambar: A gunung, B jembatan buatan manusia di atas sungai, C sungai yang terbentuk alami, D gedung sekolah. Gambar skematis lingkungan.](assets/ipas-b07-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Simbol** adalah ...
+**Pertanyaan:** Pasangan label yang menunjukkan kenampakan alam ialah ...
 
 **Pilihan jawaban:**
-- arah matahari terbenam secara umum
-- contoh lokasi pada denah
-- tanda yang mewakili objek
-- bentuk permukaan bumi yang tinggi
+- A dan C
+- B dan D
+- A dan B
+- C dan D
 
-**Kunci Jawaban:** tanda yang mewakili objek
+**Kunci Jawaban:** A dan C
 
-**Pembahasan:** Simbol: tanda yang mewakili objek.
+**Pembahasan:** Gunung A dan sungai C pada lingkungan contoh merupakan bentang alam; jembatan B dan sekolah D dibangun manusia.
 
 ---
 
 ## Soal 66 — K03-IPAS-B07-M01-066
 
-![Kartu pengamatan](assets/ipas-b07-gambar-08.svg)
+![Empat gambar: A gunung, B jembatan buatan manusia di atas sungai, C sungai yang terbentuk alami, D gedung sekolah. Gambar skematis lingkungan.](assets/ipas-b07-gambar-08.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Arah utara** adalah ...
+**Pertanyaan:** Gambar berlabel mana menunjukkan sarana buatan untuk menghubungkan dua sisi sungai?
 
 **Pilihan jawaban:**
-- alat penunjuk arah
-- jalur penghubung tempat
-- wilayah berketinggian relatif rendah
-- berlawanan dengan selatan
+- A
+- B
+- C
+- D
 
-**Kunci Jawaban:** berlawanan dengan selatan
+**Kunci Jawaban:** B
 
-**Pembahasan:** Arah utara: berlawanan dengan selatan.
+**Pembahasan:** B adalah jembatan yang melintasi sungai; gunung, aliran sungai, dan sekolah mempunyai fungsi atau asal berbeda.
 
 ---
 
 ## Soal 67 — K03-IPAS-B07-M01-067
 
-![Kartu pengamatan](assets/ipas-b07-gambar-09.svg)
+![Denah jalur yang diizinkan: rumah A ke simpang B, lalu sekolah C. Jalur lurus A ke C melewati kebun pribadi berpagar dan ditandai tidak boleh dilalui. Utara di atas, tidak berskala.](assets/ipas-b07-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Arah timur** adalah ...
+**Pertanyaan:** Urutan tempat yang mengikuti jalan diizinkan ialah ...
 
 **Pilihan jawaban:**
-- arah matahari terbit secara umum
-- jalur menuju tujuan
-- aliran air alami
-- wilayah yang relatif tinggi
+- A langsung ke C melewati kebun
+- C langsung ke A melewati pagar
+- A → B → C
+- A → kebun pribadi → C
 
-**Kunci Jawaban:** arah matahari terbit secara umum
+**Kunci Jawaban:** A → B → C
 
-**Pembahasan:** Arah timur: arah matahari terbit secara umum.
+**Pembahasan:** Garis hijau menghubungkan A dengan B lalu C; garis merah melintasi kebun pribadi dan dilarang.
 
 ---
 
 ## Soal 68 — K03-IPAS-B07-M01-068
 
-![Kartu pengamatan](assets/ipas-b07-gambar-09.svg)
+![Denah jalur yang diizinkan: rumah A ke simpang B, lalu sekolah C. Jalur lurus A ke C melewati kebun pribadi berpagar dan ditandai tidak boleh dilalui. Utara di atas, tidak berskala.](assets/ipas-b07-gambar-09.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Arah barat** adalah ...
+**Pertanyaan:** Mengapa garis lurus A ke C tidak dipilih meski tampak lebih singkat?
 
 **Pilihan jawaban:**
-- contoh lokasi pada denah
-- arah matahari terbenam secara umum
-- bentuk permukaan bumi yang tinggi
-- mengumpulkan informasi dengan indra
+- Semua perjalanan lurus selalu dilarang
+- Sekolah C tidak ada pada gambar
+- Titik B bukan bagian jalan hijau
+- Melintasi kebun pribadi yang tidak diizinkan
 
-**Kunci Jawaban:** arah matahari terbenam secara umum
+**Kunci Jawaban:** Melintasi kebun pribadi yang tidak diizinkan
 
-**Pembahasan:** Arah barat: arah matahari terbenam secara umum.
+**Pembahasan:** Legenda dan keterangan kebun menunjukkan batas akses; bentuk garis lebih singkat tidak memberi izin melintas.
 
 ---
 
 ## Soal 69 — K03-IPAS-B07-M01-069
 
-![Kartu pengamatan](assets/ipas-b07-gambar-10.svg)
+![Tiga versi petunjuk menuju perpustakaan: A mulai gerbang, ke utara sampai taman, lalu ke timur menuju perpustakaan; B hanya tertulis taman dan perpustakaan tanpa urutan; C tertulis mulai gerbang lalu berjalan sampai tempat yang bagus.](assets/ipas-b07-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Kompas** adalah ...
+**Pertanyaan:** Petunjuk berlabel mana paling jelas titik awal, arah, urutan, dan tujuannya?
 
 **Pilihan jawaban:**
-- jalur penghubung tempat
-- wilayah berketinggian relatif rendah
-- alat penunjuk arah
-- membantu mengingat hasil penjelajahan
+- A
+- B
+- C
+- B dan C
 
-**Kunci Jawaban:** alat penunjuk arah
+**Kunci Jawaban:** A
 
-**Pembahasan:** Kompas: alat penunjuk arah.
+**Pembahasan:** A menyebut gerbang sebagai awal dan dua tahap berarah hingga perpustakaan; B serta C kehilangan informasi penting.
 
 ---
 
 ## Soal 70 — K03-IPAS-B07-M01-070
 
-![Kartu pengamatan](assets/ipas-b07-gambar-10.svg)
+![Tiga versi petunjuk menuju perpustakaan: A mulai gerbang, ke utara sampai taman, lalu ke timur menuju perpustakaan; B hanya tertulis taman dan perpustakaan tanpa urutan; C tertulis mulai gerbang lalu berjalan sampai tempat yang bagus.](assets/ipas-b07-gambar-10.svg)
 
-**Pertanyaan:** Berdasarkan kartu pengamatan, pernyataan yang tepat tentang **Rute** adalah ...
+**Pertanyaan:** Bagian apa yang perlu diperjelas pada C?
 
 **Pilihan jawaban:**
-- aliran air alami
-- wilayah yang relatif tinggi
-- diutamakan saat menjelajah
-- jalur menuju tujuan
+- Warna buku di perpustakaan
+- Tujuan yang dimaksud dengan tempat yang bagus dan rutenya
+- Harga gerbang sekolah
+- Selera gambar pembuat petunjuk saja
 
-**Kunci Jawaban:** jalur menuju tujuan
+**Kunci Jawaban:** Tujuan yang dimaksud dengan tempat yang bagus dan rutenya
 
-**Pembahasan:** Rute: jalur menuju tujuan.
+**Pembahasan:** Tempat yang bagus merupakan penilaian tidak pasti, sehingga pembaca belum mengetahui tujuan dan arah yang harus ditempuh.
 
 ---

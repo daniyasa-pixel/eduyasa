@@ -4,15 +4,15 @@
 
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
-| IPAS | Bab 1–6: 406 butir berubah | 420 butir diperiksa; Bab 1–6 selesai pemeriksaan isi dan media | Bab 7–8: 140 soal |
+| IPAS | Bab 1–7: 476 butir berubah | 490 butir diperiksa; Bab 1–7 selesai pemeriksaan isi dan media | Bab 8: 70 soal |
 | PAI | Belum dikerjakan | Belum diperiksa ulang | 300 soal/10 bab |
 | Bahasa Inggris | Belum dikerjakan | Belum diperiksa ulang | 500 soal/10 unit |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **420/1.945**. Jumlah diubah: **406**.
-Sisa audit isi: **1.525 soal pada 35 bab/unit**. Bab 1–6 IPAS telah menutup pemeriksaan isi dan media putaran ini;
-35 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **490/1.945**. Jumlah diubah: **476**.
+Sisa audit isi: **1.455 soal pada 34 bab/unit**. Bab 1–7 IPAS telah menutup pemeriksaan isi dan media putaran ini;
+34 bab/unit masih tersisa. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -200,13 +200,41 @@ setelah koreksi gambar. Tujuh ekspresi unik dari sumber berhasil dirender
 MathJax 3 tanpa kesalahan. Validator bank kanonis: 1.945, 0 kesalahan struktur.
 Belum ada uji kesulitan empiris pada siswa, konversi JSON, atau aktivasi aplikasi.
 
+## IPAS Bab 7
+
+Semua 70 butir, kedua modul, dan 12 SVG ditulis ulang sesuai buku revisi
+2025 halaman 145–164. ID dan jumlah tetap. Cakupan meliputi delapan arah,
+arah relatif terhadap tubuh, orientasi denah termasuk utara ke kiri,
+kompas dan gangguan magnet, simbol/legenda, urutan ruas pergi–pulang,
+kenampakan alam/buatan, pembaruan informasi rute, akses dan keselamatan.
+
+Matahari hanya digunakan sebagai perkiraan sisi timur/barat tanpa menatap
+langsung. Jarum kompas mengikuti medan magnet dan perlu dijauhkan dari
+pengganggu; kompas mekanis dibedakan dari aplikasi bertenaga listrik.
+Denah contoh tidak berskala: ukuran simbol/warna tidak menyatakan ukuran
+atau warna nyata, dan jarak meter tidak ditebak. Rute pulang membalik urutan
+ruas dan arah. Jalan pendek tidak otomatis aman atau diizinkan.
+
+Gambar soal berupa denah lokasi, arah antara, orientasi diputar, jalur siku,
+legenda simbol, dua rute berbeda kondisi, pembaruan penutupan, empat
+kenampakan, batas kebun pribadi, serta tiga petunjuk rute. Ikon jembatan
+rusak/utuh, larangan masuk, gedung sekolah dan mini-rute digambar sesuai
+isi; tidak memakai ranting atau penunjuk kiri untuk menggantikan informasi itu.
+Kedua modul mempunyai dua ilustrasi, cakupan setara, dan contoh rekaan untuk
+menjaga privasi. Pengamatan tidak meminta anak pergi tanpa pendamping.
+
+Pemeriksaan: 70 ID dipertahankan, 70 butir berubah, stem unik; 12 SVG lolos
+XML, rendering Chromium lebar 390 piksel, batas teks, dan peninjauan lembar
+gambar setelah koreksi ikon. Validator kanonis tetap 1.945 soal, 0 kesalahan
+struktur. Tidak ada konversi JSON atau perubahan mapel yang dilarang.
+
 ## Pemeriksaan
 
 `python scripts/check-k03-question-sources.py` memeriksa paket kanonis lima
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–6
+Itu **bukan** bukti seluruh kunci benar secara akademik. Butir di luar Bab 1–7
 belum memperoleh pemeriksaan isi putaran ini. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
@@ -216,7 +244,7 @@ Pemeriksaan ini bukan uji coba kepada siswa atau pengukuran kesulitan empiris.
 
 ## Posisi lanjut yang tepat
 
-Lanjut **IPAS Bab 7, nomor 001–070**, dua modul, dan 12 SVG, kemudian Bab 8.
+Lanjut **IPAS Bab 8, nomor 001–070**, dua modul, dan 12 SVG.
 Sesudah IPAS, lanjut PAI, ENG, PJOK, dan Seni Rupa. Pertahankan pemeriksaan
 buku revisi 2025 dan larangan konversi JSON.
 

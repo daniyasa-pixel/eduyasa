@@ -100,3 +100,12 @@ sesuai kebutuhan. Pemeriksaan XML, render 390 piksel, batas teks dan tinjauan
 visual berhasil; 7 ekspresi sumber berhasil dirender MathJax. Validator:
 1.945 soal, 0 kesalahan struktur. Kumulatif 420 diperiksa, 406 diubah;
 sisa 1.525 soal/35 bab. **BELUM SELESAI**; titik lanjut IPAS Bab 7.
+
+### Kelanjutan: IPAS Bab 7
+
+70 butir, kedua modul dan 12 SVG ditulis ulang. ID/jumlah tetap. Arah,
+orientasi denah, legenda, rute pulang, kenampakan, serta akses dan keselamatan
+diperiksa. Semua SVG lolos XML, render 390 piksel, batas teks dan peninjauan
+visual setelah koreksi ikon. Validator: 1.945 soal, 0 kesalahan struktur.
+Kumulatif 490 diperiksa, 476 diubah; sisa 1.455 soal/34 bab.
+Status **BELUM SELESAI**, titik lanjut IPAS Bab 8.
