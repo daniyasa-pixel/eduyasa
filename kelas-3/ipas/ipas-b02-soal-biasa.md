@@ -2,321 +2,321 @@
 
 ## Soal 1 — K03-IPAS-B02-M01-001
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "cara menggali cerita narasumber". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Sari ingin mengetahui permainan yang populer saat neneknya kecil. Cara memperoleh informasi langsung adalah ....
 
 **Pilihan jawaban:**
-- Wawancara
-- Perubahan
-- Kenangan
-- Merawat peninggalan
+- Mewawancarai nenek
+- Menebak sendiri
+- Melihat ramalan cuaca
+- Menghitung jumlah kursi
 
-**Kunci Jawaban:** Wawancara
+**Kunci Jawaban:** Mewawancarai nenek
 
-**Pembahasan:** Wawancara adalah pilihan yang sesuai karena petunjuk soal menyebutkan "cara menggali cerita narasumber". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Nenek mengalami masa tersebut sehingga wawancara dapat memberikan kesaksian langsung tentang permainan dahulu.
 
 ---
 
 ## Soal 2 — K03-IPAS-B02-M01-002
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "orang yang memberikan informasi". Konsep apa yang dimaksud?
+**Pertanyaan:** Dalam wawancara sejarah keluarga, orang yang menjawab pertanyaan disebut ....
 
 **Pilihan jawaban:**
-- Transportasi
+- Penonton
 - Narasumber
-- Urutan kronologis
-- Tantangan
+- Pembaca papan tulis
+- Penjaga waktu
 
 **Kunci Jawaban:** Narasumber
 
-**Pembahasan:** Narasumber adalah pilihan yang sesuai karena petunjuk soal menyebutkan "orang yang memberikan informasi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Narasumber adalah orang yang memberikan keterangan berdasarkan pengetahuan atau pengalamannya.
 
 ---
 
 ## Soal 3 — K03-IPAS-B02-M01-003
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "catatan atau bukti kegiatan"?
+**Pertanyaan:** Kelas ingin menyimpan bukti kegiatan kunjungan museum. Pilihan dokumentasi yang tepat adalah ....
 
 **Pilihan jawaban:**
-- Komunikasi
-- Rencana
-- Dokumentasi
-- Masa lalu
+- Menghapus catatan
+- Mengingat tanpa menulis
+- Membuat catatan dan foto dengan izin
+- Membuang tiket kunjungan
 
-**Kunci Jawaban:** Dokumentasi
+**Kunci Jawaban:** Membuat catatan dan foto dengan izin
 
-**Pembahasan:** Dokumentasi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "catatan atau bukti kegiatan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Catatan dan foto yang diambil dengan izin membantu merekam informasi agar dapat dipelajari kembali.
 
 ---
 
 ## Soal 4 — K03-IPAS-B02-M01-004
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk perbedaan keadaan dari waktu ke waktu. Istilah apakah yang paling tepat?
+**Pertanyaan:** Dahulu ayah pergi ke sekolah dengan berjalan kaki, sekarang naik sepeda. Cerita itu menunjukkan ....
 
 **Pilihan jawaban:**
-- Kenangan
-- Merawat peninggalan
-- Masa kini
-- Perubahan
+- Tidak ada perubahan
+- Semua orang memakai sepeda
+- Sekolah berpindah setiap hari
+- Perubahan cara berangkat sekolah
 
-**Kunci Jawaban:** Perubahan
+**Kunci Jawaban:** Perubahan cara berangkat sekolah
 
-**Pembahasan:** Perubahan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "perbedaan keadaan dari waktu ke waktu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Perbandingan kegiatan dahulu dan sekarang memperlihatkan perubahan cara bepergian.
 
 ---
 
 ## Soal 5 — K03-IPAS-B02-M01-005
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "dapat berkembang dari masa ke masa". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Manakah pasangan yang menunjukkan perkembangan alat transportasi?
 
 **Pilihan jawaban:**
-- Transportasi
-- Urutan kronologis
-- Tantangan
-- Masa depan
+- Delman dan bus listrik
+- Pensil dan penghapus
+- Piring dan sendok
+- Buku dan penggaris
 
-**Kunci Jawaban:** Transportasi
+**Kunci Jawaban:** Delman dan bus listrik
 
-**Pembahasan:** Transportasi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat berkembang dari masa ke masa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Delman dan bus listrik adalah sarana transportasi dari teknologi yang berbeda.
 
 ---
 
 ## Soal 6 — K03-IPAS-B02-M01-006
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "dapat berubah karena teknologi". Konsep apa yang dimaksud?
+**Pertanyaan:** Kakek dahulu mengirim surat yang tiba beberapa hari kemudian. Kini keluarga dapat bertukar kabar lewat panggilan video. Perbedaan utamanya adalah ....
 
 **Pilihan jawaban:**
-- Rencana
-- Komunikasi
-- Masa lalu
-- Foto lama
+- Warna kertas
+- Kecepatan dan cara komunikasi
+- Jumlah anggota keluarga
+- Nama pengirim
 
-**Kunci Jawaban:** Komunikasi
+**Kunci Jawaban:** Kecepatan dan cara komunikasi
 
-**Pembahasan:** Komunikasi adalah pilihan yang sesuai karena petunjuk soal menyebutkan "dapat berubah karena teknologi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Teknologi memungkinkan pesan dan gambar diterima lebih cepat melalui jaringan komunikasi.
 
 ---
 
 ## Soal 7 — K03-IPAS-B02-M01-007
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "pengalaman yang diingat"?
+**Pertanyaan:** Lani masih mengingat hari pertama masuk sekolah. Pengalaman yang tersimpan dalam ingatan disebut ....
 
 **Pilihan jawaban:**
-- Merawat peninggalan
-- Masa kini
+- Rencana
+- Ramalan
 - Kenangan
-- Cerita keluarga
+- Jadwal
 
 **Kunci Jawaban:** Kenangan
 
-**Pembahasan:** Kenangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "pengalaman yang diingat". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Kenangan adalah pengalaman masa lalu yang masih diingat.
 
 ---
 
 ## Soal 8 — K03-IPAS-B02-M01-008
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk menempatkan kejadian menurut waktu. Istilah apakah yang paling tepat?
+**Pertanyaan:** Perhatikan peristiwa: lahir, masuk TK, masuk SD. Urutan kronologis yang benar adalah ....
 
 **Pilihan jawaban:**
-- Tantangan
-- Masa depan
-- Garis waktu
-- Urutan kronologis
+- Masuk SD–lahir–masuk TK
+- Masuk TK–masuk SD–lahir
+- Masuk SD–masuk TK–lahir
+- Lahir–masuk TK–masuk SD
 
-**Kunci Jawaban:** Urutan kronologis
+**Kunci Jawaban:** Lahir–masuk TK–masuk SD
 
-**Pembahasan:** Urutan kronologis adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menempatkan kejadian menurut waktu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Urutan kronologis menempatkan peristiwa berdasarkan waktu terjadinya dari paling awal ke paling akhir.
 
 ---
 
 ## Soal 9 — K03-IPAS-B02-M01-009
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "persiapan kegiatan yang akan datang". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Kelas akan mengadakan pameran minggu depan. Agar kegiatan teratur, siswa perlu ....
 
 **Pilihan jawaban:**
-- Rencana
-- Masa lalu
-- Foto lama
-- Kalender
+- Menyusun rencana tugas dan waktu
+- Menunggu tanpa persiapan
+- Membuang daftar kegiatan
+- Mengubah semua tugas saat acara dimulai
 
-**Kunci Jawaban:** Rencana
+**Kunci Jawaban:** Menyusun rencana tugas dan waktu
 
-**Pembahasan:** Rencana adalah pilihan yang sesuai karena petunjuk soal menyebutkan "persiapan kegiatan yang akan datang". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Rencana membantu membagi tugas, menyiapkan perlengkapan, dan menentukan waktu pelaksanaan.
 
 ---
 
 ## Soal 10 — K03-IPAS-B02-M01-010
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "membantu menjaga sejarah". Konsep apa yang dimaksud?
+**Pertanyaan:** Di rumah ada foto keluarga lama. Cara merawat peninggalan itu adalah ....
 
 **Pilihan jawaban:**
-- Masa kini
-- Merawat peninggalan
-- Cerita keluarga
-- Kemarin
+- Melipat dan merobeknya
+- Menyimpannya di tempat aman dan kering
+- Mencoret wajah orang di foto
+- Membiarkannya terkena hujan
 
-**Kunci Jawaban:** Merawat peninggalan
+**Kunci Jawaban:** Menyimpannya di tempat aman dan kering
 
-**Pembahasan:** Merawat peninggalan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu menjaga sejarah". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Foto lama merupakan sumber informasi keluarga sehingga perlu disimpan agar tidak rusak.
 
 ---
 
 ## Soal 11 — K03-IPAS-B02-M01-011
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "Pilih tiga hal yang kamu temukan hari ini"?
+**Pertanyaan:** Guru meminta siswa memilih tiga perubahan di lingkungan sekolah. Langkah awal yang tepat ialah ....
 
 **Pilihan jawaban:**
-- Masa depan
-- Garis waktu
-- Tantangan
-- Hari ini
+- Menyalin jawaban teman
+- Menebak perubahan tanpa melihat
+- Mengamati keadaan sekolah dan mencatat temuan
+- Mengabaikan keadaan sekitar
 
-**Kunci Jawaban:** Tantangan
+**Kunci Jawaban:** Mengamati keadaan sekolah dan mencatat temuan
 
-**Pembahasan:** Tantangan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "Pilih tiga hal yang kamu temukan hari ini". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Pengamatan langsung dan catatan membantu menemukan perubahan yang benar-benar terjadi.
 
 ---
 
 ## Soal 12 — K03-IPAS-B02-M01-012
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk peristiwa yang sudah terjadi. Istilah apakah yang paling tepat?
+**Pertanyaan:** Peristiwa yang sudah terjadi, seperti ulang tahun tahun lalu, termasuk ....
 
 **Pilihan jawaban:**
-- Foto lama
-- Kalender
-- Wawancara
+- Masa depan
+- Besok
+- Masa kini
 - Masa lalu
 
 **Kunci Jawaban:** Masa lalu
 
-**Pembahasan:** Masa lalu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "peristiwa yang sudah terjadi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Masa lalu mencakup kejadian yang waktunya sudah terlewati.
 
 ---
 
 ## Soal 13 — K03-IPAS-B02-M01-013
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "waktu yang sedang berlangsung". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Saat ini Budi sedang membaca di perpustakaan. Kegiatan itu termasuk ....
 
 **Pilihan jawaban:**
 - Masa kini
-- Cerita keluarga
-- Kemarin
-- Narasumber
+- Masa lalu
+- Masa depan
+- Zaman prasejarah
 
 **Kunci Jawaban:** Masa kini
 
-**Pembahasan:** Masa kini adalah pilihan yang sesuai karena petunjuk soal menyebutkan "waktu yang sedang berlangsung". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Kegiatan yang berlangsung sekarang berada pada masa kini.
 
 ---
 
 ## Soal 14 — K03-IPAS-B02-M01-014
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "waktu yang belum terjadi". Konsep apa yang dimaksud?
+**Pertanyaan:** Besok kelas akan menanam pohon. Kata 'besok' menunjukkan ....
 
 **Pilihan jawaban:**
-- Garis waktu
+- Kemarin
 - Masa depan
-- Hari ini
-- Dokumentasi
+- Masa lalu
+- Tahun lalu
 
 **Kunci Jawaban:** Masa depan
 
-**Pembahasan:** Masa depan adalah pilihan yang sesuai karena petunjuk soal menyebutkan "waktu yang belum terjadi". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Masa depan adalah waktu yang belum terjadi, termasuk kegiatan yang direncanakan besok.
 
 ---
 
 ## Soal 15 — K03-IPAS-B02-M01-015
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "membantu mengenang peristiwa"?
+**Pertanyaan:** Untuk mengetahui kapan gedung sekolah dibangun, sumber yang lebih dapat diperiksa adalah ....
 
 **Pilihan jawaban:**
-- Kalender
-- Wawancara
-- Foto lama
-- Perubahan
+- Tebakan teman
+- Cerita tanpa sumber
+- Arsip sekolah dan keterangan pihak yang mengetahui
+- Warna pagar sekolah
 
-**Kunci Jawaban:** Foto lama
+**Kunci Jawaban:** Arsip sekolah dan keterangan pihak yang mengetahui
 
-**Pembahasan:** Foto lama adalah pilihan yang sesuai karena petunjuk soal menyebutkan "membantu mengenang peristiwa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Arsip dan keterangan narasumber dapat digunakan untuk memeriksa informasi sejarah sekolah.
 
 ---
 
 ## Soal 16 — K03-IPAS-B02-M01-016
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk menjadi sumber kisah masa lalu. Istilah apakah yang paling tepat?
+**Pertanyaan:** Rina membandingkan foto jalan desa tahun 2000 dengan foto sekarang. Hal yang dapat diamati dari kedua foto ialah ....
 
 **Pilihan jawaban:**
-- Kemarin
-- Narasumber
-- Transportasi
-- Cerita keluarga
+- Suara kendaraan
+- Bau makanan
+- Suhu udara saat foto diambil
+- Perubahan bangunan dan kondisi jalan yang terlihat
 
-**Kunci Jawaban:** Cerita keluarga
+**Kunci Jawaban:** Perubahan bangunan dan kondisi jalan yang terlihat
 
-**Pembahasan:** Cerita keluarga adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menjadi sumber kisah masa lalu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Foto memperlihatkan unsur visual seperti bangunan dan kondisi jalan, tetapi tidak langsung merekam suara atau bau.
 
 ---
 
 ## Soal 17 — K03-IPAS-B02-M01-017
 
-**Pertanyaan:** Seorang siswa mencatat ciri berikut: "menunjukkan urutan peristiwa". Pilih konsep yang sesuai dengan catatan itu.
+**Pertanyaan:** Saat mewawancarai tetangga yang lebih tua, pertanyaan yang baik adalah ....
 
 **Pilihan jawaban:**
-- Garis waktu
-- Hari ini
-- Dokumentasi
-- Komunikasi
+- Bagaimana keadaan pasar di desa ini ketika Bapak/Ibu kecil?
+- Kenapa jawaban Bapak/Ibu pasti salah?
+- Apakah semua orang harus setuju dengan saya?
+- Mengapa tidak mau menjawab pertanyaan yang belum saya ajukan?
 
-**Kunci Jawaban:** Garis waktu
+**Kunci Jawaban:** Bagaimana keadaan pasar di desa ini ketika Bapak/Ibu kecil?
 
-**Pembahasan:** Garis waktu adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menunjukkan urutan peristiwa". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Pertanyaan terbuka dan sopan mendorong narasumber menceritakan pengalaman dengan lebih lengkap.
 
 ---
 
 ## Soal 18 — K03-IPAS-B02-M01-018
 
-**Pertanyaan:** Pada pelajaran IPAS, guru memberi petunjuk "menunjukkan tanggal dan bulan". Konsep apa yang dimaksud?
+**Pertanyaan:** Dua orang mengingat tanggal peristiwa berbeda. Cara yang lebih teliti adalah ....
 
 **Pilihan jawaban:**
-- Wawancara
-- Kalender
-- Perubahan
-- Kenangan
+- Memilih cerita yang paling lucu
+- Membandingkan dengan dokumen atau sumber lain
+- Menganggap keduanya berbohong
+- Menghapus semua catatan
 
-**Kunci Jawaban:** Kalender
+**Kunci Jawaban:** Membandingkan dengan dokumen atau sumber lain
 
-**Pembahasan:** Kalender adalah pilihan yang sesuai karena petunjuk soal menyebutkan "menunjukkan tanggal dan bulan". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Membandingkan sumber membantu memeriksa informasi ketika ingatan narasumber berbeda.
 
 ---
 
 ## Soal 19 — K03-IPAS-B02-M01-019
 
-**Pertanyaan:** Manakah istilah yang paling tepat untuk menjelaskan "termasuk masa lalu"?
+**Pertanyaan:** Ayah menunjukkan kalender untuk menentukan hari kunjungan bulan depan. Kalender terutama membantu mengetahui ....
 
 **Pilihan jawaban:**
-- Narasumber
-- Transportasi
-- Kemarin
-- Urutan kronologis
+- Rasa makanan
+- Arah angin
+- Tanggal dan urutan hari
+- Berat tas sekolah
 
-**Kunci Jawaban:** Kemarin
+**Kunci Jawaban:** Tanggal dan urutan hari
 
-**Pembahasan:** Kemarin adalah pilihan yang sesuai karena petunjuk soal menyebutkan "termasuk masa lalu". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Kalender menyajikan hari, tanggal, dan bulan sehingga memudahkan perencanaan waktu.
 
 ---
 
 ## Soal 20 — K03-IPAS-B02-M01-020
 
-**Pertanyaan:** Dalam pengamatan sehari-hari, kita menemukan hal yang berfungsi untuk termasuk masa kini. Istilah apakah yang paling tepat?
+**Pertanyaan:** Keluarga menemukan surat lama yang rapuh. Tindakan yang paling tepat adalah ....
 
 **Pilihan jawaban:**
-- Dokumentasi
-- Komunikasi
-- Rencana
-- Hari ini
+- Menarik kertas kuat-kuat
+- Mencuci dengan sabun
+- Menempelkan di luar rumah
+- Memegang hati-hati dan meminta orang dewasa membantu menyimpannya
 
-**Kunci Jawaban:** Hari ini
+**Kunci Jawaban:** Memegang hati-hati dan meminta orang dewasa membantu menyimpannya
 
-**Pembahasan:** Hari ini adalah pilihan yang sesuai karena petunjuk soal menyebutkan "termasuk masa kini". Perhatikan ciri tersebut untuk membedakannya dari pilihan lain.
+**Pembahasan:** Kertas tua mudah rusak. Penanganan hati-hati membantu menjaga peninggalan keluarga.
 
 ---
 
