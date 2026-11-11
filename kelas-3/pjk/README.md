@@ -1,6 +1,6 @@
 # PJOK Kelas 3 — EDUYASA
 
-Acuan: Muhajir dan Umi Hariyani, *Buku Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SD/MI Kelas III* (2022), ISBN 978-602-427-937-0.
+Acuan: Buku Panduan Guru PJOK SD/MI Kelas III (Muhajir dan Umi Hariyani, 2022), 8 unit pembelajaran.
 
 1. Aktivitas Pola Gerak Dasar Lokomotor
 2. Aktivitas Pola Gerak Dasar Nonlokomotor
@@ -11,6 +11,6 @@ Acuan: Muhajir dan Umi Hariyani, *Buku Panduan Guru Pendidikan Jasmani, Olahraga
 7. Aktivitas Kebugaran untuk Kesehatan
 8. Aktivitas Fisik dan Memilih Makanan Bergizi
 
-Target per unit: 35 soal teks, 10 soal bergambar, 2 modul materi. Konversi JSON ditangani Codex.
+Produksi awal: **280 soal teks + 80 soal bergambar = 360 soal**; 80 SVG simbolik. ID: `K03-PJK-B##-M01-001` s.d. `045`. Konversi JSON untuk Codex.
 
-**Status aktual:** Unit 1 memiliki 45 draf soal, termasuk 10 spesifikasi ilustrasi yang **belum digambar**. Unit 2–8 belum diproduksi. Tidak boleh dinyatakan final sebelum gambar dibuat, materi diproduksi, dan audit kualitas selesai.
+**Status DRAF AWAL:** Banyak soal mengulang konsep dengan variasi kalimat, belum memenuhi standar variasi pedagogis; SVG menampilkan simbol dan label, sehingga dapat memberi petunjuk jawaban. **Perlu revisi substansial sebelum digunakan siswa.** Belum ada modul materi. Utamakan keselamatan aktivitas air dan senam saat revisi.
