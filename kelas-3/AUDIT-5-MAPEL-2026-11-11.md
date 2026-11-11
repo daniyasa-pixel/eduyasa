@@ -7,7 +7,7 @@
 | Mapel | Bab | Soal | Temuan yang terverifikasi | Revisi selesai | Sisa pekerjaan |
 |---|---:|---:|---|---|---|
 | IPAS | 8 | 560 | Pola berulang, opsi ambigu, gambar membocorkan definisi, penyederhanaan konsep diperbaiki | 560 diperiksa; 546 diubah; 16 modul dan media delapan bab diselaraskan | Putaran isi/media selesai; belum konversi atau uji siswa |
-| ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Belum | Variasi kompetensi bahasa, stimulus gambar, audio TTS dan uji WebView |
+| ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Unit 1: 50 soal, dua modul, 12 SVG, dan pemeriksaan sumber TTS | Unit 2–10; uji suara browser HP dan WebView di tahap aplikasi |
 | PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; 300 soal diperiksa per butir; 293 diubah; 20 modul diselaraskan | Isi selesai; cuplikan Arab ditinjau pada 390 px; uji browser HP/WebView dan pelafalan di tahap aplikasi |
 | PJOK | 8 | 360 | Soal berulang; ilustrasi hanya simbol; berkas soal lama dengan ID lain masih ada | Belum | Revisi teknik gerak dan keselamatan, ilustrasi, pilih bank resmi, modul belum ada |
 | SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik; bab internal belum diverifikasi terhadap buku | Belum | Soal pengamatan visual, distraktor, ilustrasi, verifikasi bab resmi |
@@ -200,3 +200,13 @@ modul, seluruh ID tetap. Delapan cuplikan Arab Bab 1, 6, dan 8 ditinjau pada
 lebar 390 px lewat render luring; uji browser HP dan WebView masih tertunda.
 Validator kanonis: 1.945 soal, 0 kesalahan struktur. Kumulatif audit isi
 860 soal; sisa 1.085 pada 23 bab/unit. Lanjut Bahasa Inggris Unit 1.
+
+### Kelanjutan: Bahasa Inggris Unit 1
+
+50 soal dan dua modul ditulis ulang sesuai cakupan *My Next Words Grade 3*
+Unit 1. Seluruh ID tetap. Sepuluh stimulus soal dan dua ilustrasi modul
+diperiksa pada render luring 390 px. Lima naskah listening dan perilaku
+helper TTS diperiksa melalui simulasi API. Pemutaran suara browser HP dan
+WebView tetap menunggu tahap aplikasi. Validator kanonis: 1.945 soal,
+0 kesalahan struktur. Kumulatif audit isi 910; sisa 1.035 soal pada
+22 bab/unit. Titik lanjut: Bahasa Inggris Unit 2.

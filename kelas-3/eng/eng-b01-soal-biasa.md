@@ -2,560 +2,560 @@
 
 ## Soal 1 — K03-ENG-B01-M01-001
 
-**Pertanyaan:** What is the English word for "nasi"?
+**Pertanyaan:** Nia wants nasi goreng. Which menu item should she point to?
 
 **Pilihan jawaban:**
-- milk
-- ice cream
-- bread
 - rice
+- fried rice
+- fried chicken
+- noodles
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** fried rice
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** Fried rice berarti nasi goreng. Rice saja berarti nasi dalam konteks menu ini.
 
 ---
 
 ## Soal 2 — K03-ENG-B01-M01-002
 
-**Pertanyaan:** What is the English word for "mi"?
+**Pertanyaan:** Which word can complete the label “fried ___” for ayam goreng?
 
 **Pilihan jawaban:**
-- water
-- milk
+- rice
 - noodles
-- tea
+- bread
+- chicken
 
-**Kunci Jawaban:** noodles
+**Kunci Jawaban:** chicken
 
-**Pembahasan:** "noodles" berarti "mi".
+**Pembahasan:** Chicken berarti ayam. Digabung dengan fried, frasanya menjadi ayam goreng.
 
 ---
 
 ## Soal 3 — K03-ENG-B01-M01-003
 
-**Pertanyaan:** What is the English word for "ayam"?
+**Pertanyaan:** Choose the pair that contains two drinks.
 
 **Pilihan jawaban:**
-- tea
-- chicken
-- banana
-- fish
+- tea and milk
+- milk and bread
+- rice and tea
+- coffee and ice cream
 
-**Kunci Jawaban:** chicken
+**Kunci Jawaban:** tea and milk
 
-**Pembahasan:** "chicken" berarti "ayam".
+**Pembahasan:** Tea dan milk adalah minuman. Bread, rice, dan ice cream termasuk makanan.
 
 ---
 
 ## Soal 4 — K03-ENG-B01-M01-004
 
-**Pertanyaan:** What is the English word for "roti"?
+**Pertanyaan:** Which menu word means bakso?
 
 **Pilihan jawaban:**
+- noodles
+- fried chicken
+- meatballs
 - bread
-- ice cream
-- rice
-- banana
 
-**Kunci Jawaban:** bread
+**Kunci Jawaban:** meatballs
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** Meatballs berarti bakso. Di menu, bentuk jamak bisa dipakai untuk satu porsi berisi beberapa bakso.
 
 ---
 
 ## Soal 5 — K03-ENG-B01-M01-005
 
-**Pertanyaan:** What is the English word for "susu"?
+**Pertanyaan:** What does “banana” name on a snack card?
 
 **Pilihan jawaban:**
-- water
-- noodles
-- ice cream
-- milk
+- roti
+- es krim
+- pisang
+- bakso
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** pisang
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** Banana adalah nama buah pisang. Snack pada kartu menunjukkan makanan ringan.
 
 ---
 
 ## Soal 6 — K03-ENG-B01-M01-006
 
-**Pertanyaan:** What is the English word for "teh"?
+**Pertanyaan:** The menu lists tea, coffee, milk, and bread. Which item belongs under “Food”?
 
 **Pilihan jawaban:**
-- chicken
-- water
+- bread
 - tea
-- fish
+- coffee
+- milk
 
-**Kunci Jawaban:** tea
+**Kunci Jawaban:** bread
 
-**Pembahasan:** "tea" berarti "teh".
+**Pembahasan:** Bread adalah roti. Tiga pilihan lain bisa dicantumkan di bagian minuman.
 
 ---
 
 ## Soal 7 — K03-ENG-B01-M01-007
 
-**Pertanyaan:** What is the English word for "pisang"?
+**Pertanyaan:** Which spelling belongs on the es krim label?
 
 **Pilihan jawaban:**
-- fish
-- banana
-- rice
-- bread
+- ice creem
+- ice cram
+- ice creame
+- ice cream
 
-**Kunci Jawaban:** banana
+**Kunci Jawaban:** ice cream
 
-**Pembahasan:** "banana" berarti "pisang".
+**Pembahasan:** Ejaan yang benar terdiri dari dua kata, ice dan cream.
 
 ---
 
 ## Soal 8 — K03-ENG-B01-M01-008
 
-**Pertanyaan:** What is the English word for "es krim"?
+**Pertanyaan:** Which note means “Aku suka mi”?
 
 **Pilihan jawaban:**
-- ice cream
-- noodles
-- milk
-- rice
+- I don’t like noodles.
+- I like noodles.
+- Do you like noodles?
+- I like rice.
 
-**Kunci Jawaban:** ice cream
+**Kunci Jawaban:** I like noodles.
 
-**Pembahasan:** "ice cream" berarti "es krim".
+**Pembahasan:** I like menyatakan kesukaan penutur. Noodles adalah mi.
 
 ---
 
 ## Soal 9 — K03-ENG-B01-M01-009
 
-**Pertanyaan:** What is the English word for "air"?
+**Pertanyaan:** Put “like / I / milk” in order to make a statement.
 
 **Pilihan jawaban:**
-- chicken
-- tea
-- noodles
-- water
+- I like milk.
+- Like I milk.
+- Milk I like?
+- I milk like.
 
-**Kunci Jawaban:** water
+**Kunci Jawaban:** I like milk.
 
-**Pembahasan:** "water" berarti "air".
+**Pembahasan:** Kalimat ini menaruh I sebagai subjek, lalu like, dan milk sebagai benda yang disukai.
 
 ---
 
 ## Soal 10 — K03-ENG-B01-M01-010
 
-**Pertanyaan:** What is the English word for "ikan"?
+**Pertanyaan:** Choose the question that asks a friend about bread.
 
 **Pilihan jawaban:**
-- banana
-- chicken
-- fish
-- bread
+- I like bread.
+- Do you like milk?
+- I don’t like bread.
+- Do you like bread?
 
-**Kunci Jawaban:** fish
+**Kunci Jawaban:** Do you like bread?
 
-**Pembahasan:** "fish" berarti "ikan".
+**Pembahasan:** Do you like memulai pertanyaan tentang kesukaan teman. Benda yang ditanyakan di sini adalah bread.
 
 ---
 
 ## Soal 11 — K03-ENG-B01-M01-011
 
-**Pertanyaan:** What does "rice" mean in Indonesian?
+**Pertanyaan:** Lina says, “Yes, I do.” What does “do” stand for when the question is “Do you like tea?”?
 
 **Pilihan jawaban:**
-- roti
-- nasi
-- susu
-- es krim
+- drink milk
+- like tea
+- like coffee
+- eat bread
 
-**Kunci Jawaban:** nasi
+**Kunci Jawaban:** like tea
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** Do dalam jawaban singkat menggantikan like tea dari pertanyaan sebelumnya.
 
 ---
 
 ## Soal 12 — K03-ENG-B01-M01-012
 
-**Pertanyaan:** What does "noodles" mean in Indonesian?
+**Pertanyaan:** Adi asks, “Do you like fried chicken?” Beni likes it. How can Beni reply?
 
 **Pilihan jawaban:**
-- mi
-- teh
-- air
-- susu
+- No, I don’t.
+- Yes, you do.
+- Yes, I do.
+- Do you like it?
 
-**Kunci Jawaban:** mi
+**Kunci Jawaban:** Yes, I do.
 
-**Pembahasan:** "noodles" berarti "mi".
+**Pembahasan:** Beni menyatakan kesukaan dirinya, jadi jawabannya memakai Yes dan I.
 
 ---
 
 ## Soal 13 — K03-ENG-B01-M01-013
 
-**Pertanyaan:** What does "chicken" mean in Indonesian?
+**Pertanyaan:** Sita asks, “Do you like milk?” Ari does not like it. What can Ari say?
 
 **Pilihan jawaban:**
-- pisang
-- ikan
-- teh
-- ayam
+- Yes, I do.
+- No, you don’t.
+- I like milk.
+- No, I don’t.
 
-**Kunci Jawaban:** ayam
+**Kunci Jawaban:** No, I don’t.
 
-**Pembahasan:** "chicken" berarti "ayam".
+**Pembahasan:** Jawaban No, I don’t menyatakan bahwa penutur sendiri tidak menyukai susu.
 
 ---
 
 ## Soal 14 — K03-ENG-B01-M01-014
 
-**Pertanyaan:** What does "bread" mean in Indonesian?
+**Pertanyaan:** What does “it” refer to in this exchange? “I like coffee. Do you like it?”
 
 **Pilihan jawaban:**
-- nasi
-- pisang
-- roti
-- es krim
+- tea
+- coffee
+- the speaker
+- the question
 
-**Kunci Jawaban:** roti
+**Kunci Jawaban:** coffee
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** It merujuk kembali pada minuman yang baru disebut, yaitu coffee.
 
 ---
 
 ## Soal 15 — K03-ENG-B01-M01-015
 
-**Pertanyaan:** What does "milk" mean in Indonesian?
+**Pertanyaan:** “I like bread. I don’t like rice.” Which item does the speaker like?
 
 **Pilihan jawaban:**
-- es krim
-- susu
-- air
-- mi
+- bread
+- rice
+- milk
+- noodles
 
-**Kunci Jawaban:** susu
+**Kunci Jawaban:** bread
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** Kalimat pertama menyatakan suka roti. Kalimat kedua menyatakan tidak suka nasi.
 
 ---
 
 ## Soal 16 — K03-ENG-B01-M01-016
 
-**Pertanyaan:** What does "tea" mean in Indonesian?
+**Pertanyaan:** Rani says, “I don’t like tea. I like milk.” Which statement is true?
 
 **Pilihan jawaban:**
-- teh
-- ikan
-- ayam
-- air
+- Rani likes tea.
+- Rani likes both drinks.
+- Rani likes milk.
+- Rani dislikes both drinks.
 
-**Kunci Jawaban:** teh
+**Kunci Jawaban:** Rani likes milk.
 
-**Pembahasan:** "tea" berarti "teh".
+**Pembahasan:** Rani memilih susu sebagai minuman yang disukai. Don’t like hanya menjelaskan sikapnya terhadap teh.
 
 ---
 
 ## Soal 17 — K03-ENG-B01-M01-017
 
-**Pertanyaan:** What does "banana" mean in Indonesian?
+**Pertanyaan:** “Do you like bananas?” “Yes, I do. I like ice cream, too.” Which pair does the speaker like?
 
 **Pilihan jawaban:**
-- nasi
-- roti
-- ikan
-- pisang
+- bananas and ice cream
+- bananas and bread
+- bread and ice cream
+- milk and bananas
 
-**Kunci Jawaban:** pisang
+**Kunci Jawaban:** bananas and ice cream
 
-**Pembahasan:** "banana" berarti "pisang".
+**Pembahasan:** Yes menjawab pertanyaan tentang pisang. Too menambahkan es krim pada daftar kesukaan.
 
 ---
 
 ## Soal 18 — K03-ENG-B01-M01-018
 
-**Pertanyaan:** What does "ice cream" mean in Indonesian?
+**Pertanyaan:** Ayu likes tea. Dito says, “I don’t like tea. I like coffee.” What is different?
 
 **Pilihan jawaban:**
-- susu
-- nasi
-- es krim
-- mi
+- Ayu likes coffee, and Dito likes tea.
+- Both like tea.
+- Ayu likes tea, and Dito likes coffee.
+- Neither likes tea.
 
-**Kunci Jawaban:** es krim
+**Kunci Jawaban:** Ayu likes tea, and Dito likes coffee.
 
-**Pembahasan:** "ice cream" berarti "es krim".
+**Pembahasan:** Kesukaan Ayu diberikan di kalimat awal. Dito menyebut kopi setelah menolak teh.
 
 ---
 
 ## Soal 19 — K03-ENG-B01-M01-019
 
-**Pertanyaan:** What does "water" mean in Indonesian?
+**Pertanyaan:** Lala says, “I like noodles.” Which response says you share her preference?
 
 **Pilihan jawaban:**
-- mi
-- air
-- ayam
-- teh
+- I don’t like noodles.
+- I like rice.
+- Do you like rice?
+- I like noodles, too.
 
-**Kunci Jawaban:** air
+**Kunci Jawaban:** I like noodles, too.
 
-**Pembahasan:** "water" berarti "air".
+**Pembahasan:** Too berarti juga. Jawaban ini menyebut kesukaan yang sama, yaitu mi.
 
 ---
 
 ## Soal 20 — K03-ENG-B01-M01-020
 
-**Pertanyaan:** What does "fish" mean in Indonesian?
+**Pertanyaan:** Choose the best opening question if the survey column is titled “Ice cream”.
 
 **Pilihan jawaban:**
-- ikan
-- roti
-- pisang
-- ayam
+- Do you like bread?
+- Do you like ice cream?
+- I like ice cream.
+- No, I don’t.
 
-**Kunci Jawaban:** ikan
+**Kunci Jawaban:** Do you like ice cream?
 
-**Pembahasan:** "fish" berarti "ikan".
+**Pembahasan:** Untuk mengisi kolom tentang es krim, pewawancara perlu menanyakan kesukaan pada ice cream.
 
 ---
 
 ## Soal 21 — K03-ENG-B01-M01-021
 
-**Pertanyaan:** Which English word matches "nasi" in the lesson?
+**Pertanyaan:** A friend answers “No, I don’t” to “Do you like bread?” What goes in the bread column?
 
 **Pilihan jawaban:**
-- milk
-- ice cream
-- bread
-- rice
+- Yes
+- Milk
+- No
+- Leave it blank
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** No
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** No menandai jawaban negatif untuk roti. Jawaban teman sudah diketahui, jadi kolom tidak dikosongkan.
 
 ---
 
 ## Soal 22 — K03-ENG-B01-M01-022
 
-**Pertanyaan:** Which English word matches "mi" in the lesson?
+**Pertanyaan:** Your survey note says “Mira: bananas — Yes; milk — No.” What can Mira say?
 
 **Pilihan jawaban:**
-- water
-- milk
-- noodles
-- tea
+- I like milk. I don’t like bananas.
+- I like bananas and milk.
+- I don’t like bananas or milk.
+- I like bananas. I don’t like milk.
 
-**Kunci Jawaban:** noodles
+**Kunci Jawaban:** I like bananas. I don’t like milk.
 
-**Pembahasan:** "noodles" berarti "mi".
+**Pembahasan:** Tanda Yes berlaku untuk pisang dan No untuk susu. Pernyataan dari sudut pandang Mira memakai I.
 
 ---
 
 ## Soal 23 — K03-ENG-B01-M01-023
 
-**Pertanyaan:** Which English word matches "ayam" in the lesson?
+**Pertanyaan:** Read the notes: “Dina — tea: Yes. Rio — tea: No. Tia — tea: Yes.” Which two children like tea?
 
 **Pilihan jawaban:**
-- tea
-- chicken
-- banana
-- fish
+- Dina and Rio
+- Dina and Tia
+- Rio and Tia
+- Dina and Rio and Tia
 
-**Kunci Jawaban:** chicken
+**Kunci Jawaban:** Dina and Tia
 
-**Pembahasan:** "chicken" berarti "ayam".
+**Pembahasan:** Hanya Dina dan Tia memiliki jawaban Yes pada catatan teh.
 
 ---
 
 ## Soal 24 — K03-ENG-B01-M01-024
 
-**Pertanyaan:** Which English word matches "roti" in the lesson?
+**Pertanyaan:** “Do you like fried rice?” “No, I don’t. I like fried chicken.” What can you record?
 
 **Pilihan jawaban:**
-- bread
-- ice cream
-- rice
-- banana
+- Fried rice: No. Fried chicken: Yes.
+- Fried rice: Yes. Fried chicken: No.
+- Fried rice: Yes. Fried chicken: Yes.
+- Fried rice: No. Fried chicken: No.
 
-**Kunci Jawaban:** bread
+**Kunci Jawaban:** Fried rice: No. Fried chicken: Yes.
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** No menjawab pertanyaan tentang nasi goreng, sedangkan I like menyatakan kesukaan pada ayam goreng.
 
 ---
 
 ## Soal 25 — K03-ENG-B01-M01-025
 
-**Pertanyaan:** Which English word matches "susu" in the lesson?
+**Pertanyaan:** Ana says, “I like bread and milk.” Which line has the same meaning?
 
 **Pilihan jawaban:**
-- water
-- noodles
-- ice cream
-- milk
+- I like bread. I don’t like milk.
+- I like milk. I don’t like bread.
+- I don’t like bread or milk.
+- I like bread. I like milk, too.
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** I like bread. I like milk, too.
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** And menghubungkan dua benda yang sama-sama disukai. Too menyatakan tambahan dengan makna setara.
 
 ---
 
 ## Soal 26 — K03-ENG-B01-M01-026
 
-**Pertanyaan:** Which English word matches "teh" in the lesson?
+**Pertanyaan:** Complete the question: “___ you like tea?”
 
 **Pilihan jawaban:**
-- chicken
-- water
-- tea
-- fish
+- Do
+- I
+- Yes
+- It
 
-**Kunci Jawaban:** tea
+**Kunci Jawaban:** Do
 
-**Pembahasan:** "tea" berarti "teh".
+**Pembahasan:** Do diletakkan di depan you untuk membentuk pertanyaan kesukaan.
 
 ---
 
 ## Soal 27 — K03-ENG-B01-M01-027
 
-**Pertanyaan:** Which English word matches "pisang" in the lesson?
+**Pertanyaan:** Complete the answer: “Yes, I ___.”
 
 **Pilihan jawaban:**
-- fish
-- banana
-- rice
-- bread
+- don’t
+- you
+- do
+- it
 
-**Kunci Jawaban:** banana
+**Kunci Jawaban:** do
 
-**Pembahasan:** "banana" berarti "pisang".
+**Pembahasan:** Do melengkapi jawaban singkat positif untuk pertanyaan Do you like ...?
 
 ---
 
 ## Soal 28 — K03-ENG-B01-M01-028
 
-**Pertanyaan:** Which English word matches "es krim" in the lesson?
+**Pertanyaan:** Complete the note about food you dislike: “I ___ like coffee.”
 
 **Pilihan jawaban:**
-- ice cream
-- noodles
-- milk
-- rice
+- do you
+- don’t
+- yes
+- it
 
-**Kunci Jawaban:** ice cream
+**Kunci Jawaban:** don’t
 
-**Pembahasan:** "ice cream" berarti "es krim".
+**Pembahasan:** Don’t diletakkan sebelum like agar maknanya menjadi tidak suka.
 
 ---
 
 ## Soal 29 — K03-ENG-B01-M01-029
 
-**Pertanyaan:** Which English word matches "air" in the lesson?
+**Pertanyaan:** Which sentence has the right word order and punctuation for a question?
 
 **Pilihan jawaban:**
-- chicken
-- tea
-- noodles
-- water
+- You like do bananas?
+- Do you like bananas?
+- Do like you bananas?
+- Do you like bananas.
 
-**Kunci Jawaban:** water
+**Kunci Jawaban:** Do you like bananas?
 
-**Pembahasan:** "water" berarti "air".
+**Pembahasan:** Pertanyaan berpola Do + you + like + benda dan diakhiri tanda tanya.
 
 ---
 
 ## Soal 30 — K03-ENG-B01-M01-030
 
-**Pertanyaan:** Which English word matches "ikan" in the lesson?
+**Pertanyaan:** Which sentence has the right capital letter and ending mark for a statement?
 
 **Pilihan jawaban:**
-- banana
-- chicken
-- fish
-- bread
+- i like meatballs.
+- I like meatballs?
+- i like meatballs?
+- I like meatballs.
 
-**Kunci Jawaban:** fish
+**Kunci Jawaban:** I like meatballs.
 
-**Pembahasan:** "fish" berarti "ikan".
+**Pembahasan:** Kata ganti I selalu ditulis dengan huruf kapital. Pernyataan ini diakhiri titik.
 
 ---
 
 ## Soal 31 — K03-ENG-B01-M01-031
 
-**Pertanyaan:** What is the English word for "nasi"?
+**Pertanyaan:** “I like Mi Aceh.” Which part names the food?
 
 **Pilihan jawaban:**
-- bread
-- rice
-- milk
-- ice cream
+- I
+- like
+- Mi Aceh
+- I like
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** Mi Aceh
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** Mi Aceh adalah nama hidangan. I menyebut penutur dan like menyatakan kesukaan.
 
 ---
 
 ## Soal 32 — K03-ENG-B01-M01-032
 
-**Pertanyaan:** What is the English word for "mi"?
+**Pertanyaan:** Bima wrote “I like bread” below a drawing of milk. He wants to keep the drawing. Which word should replace “bread”?
 
 **Pilihan jawaban:**
-- noodles
-- tea
-- water
 - milk
+- tea
+- rice
+- noodles
 
-**Kunci Jawaban:** noodles
+**Kunci Jawaban:** milk
 
-**Pembahasan:** "noodles" berarti "mi".
+**Pembahasan:** Agar kalimat cocok dengan gambar susu, kata untuk makanan diganti dengan milk.
 
 ---
 
 ## Soal 33 — K03-ENG-B01-M01-033
 
-**Pertanyaan:** What is the English word for "ayam"?
+**Pertanyaan:** A menu shows only fried chicken and meatballs. Which choice is available for someone who likes bakso?
 
 **Pilihan jawaban:**
-- banana
-- fish
-- tea
-- chicken
+- fried chicken
+- meatballs
+- fried rice
+- noodles
 
-**Kunci Jawaban:** chicken
+**Kunci Jawaban:** meatballs
 
-**Pembahasan:** "chicken" berarti "ayam".
+**Pembahasan:** Meatballs berarti bakso dan tercantum pada menu. Fried chicken adalah ayam goreng.
 
 ---
 
 ## Soal 34 — K03-ENG-B01-M01-034
 
-**Pertanyaan:** What is the English word for "roti"?
+**Pertanyaan:** One friend likes tea. The other says, “I like tea, too.” Which survey summary fits?
 
 **Pilihan jawaban:**
-- rice
-- banana
-- bread
-- ice cream
+- Only the first friend likes tea.
+- Only the second friend likes tea.
+- Both like tea.
+- Neither likes tea.
 
-**Kunci Jawaban:** bread
+**Kunci Jawaban:** Both like tea.
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** Too berarti juga, sehingga kesukaan pada teh berlaku untuk keduanya.
 
 ---
 
 ## Soal 35 — K03-ENG-B01-M01-035
 
-**Pertanyaan:** What is the English word for "susu"?
+**Pertanyaan:** “I like rice.” “Do you like fried rice?” “I don’t know.” What do we know for sure?
 
 **Pilihan jawaban:**
-- ice cream
-- milk
-- water
-- noodles
+- The speaker likes fried rice.
+- The speaker dislikes fried rice.
+- The speaker dislikes rice.
+- The speaker likes rice.
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** The speaker likes rice.
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** Kesukaan pada nasi dinyatakan langsung. I don’t know tidak menetapkan jawaban untuk nasi goreng.
 
 ---

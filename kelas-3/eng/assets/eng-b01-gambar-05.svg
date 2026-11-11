@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240"><rect width="400" height="240" rx="20" fill="#e0f2fe"/><circle cx="200" cy="110" r="80" fill="white"/><text x="200" y="145" font-size="92" text-anchor="middle" font-family="sans-serif">🥛</text><text x="200" y="215" text-anchor="middle" font-family="sans-serif" fill="#0369a1">Look at the picture</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 210" role="img" aria-labelledby="t d">
+  <title id="t">Dua jajanan dan sebuah panah</title>
+  <desc id="d">Panah menunjuk es krim di sebelah kanan roti.</desc>
+  <rect width="390" height="210" rx="18" fill="#eaf4f4"/>
+  <rect x="25" y="59" width="340" height="132" rx="14" fill="#fff" stroke="#aecad2" stroke-width="2"/><g transform="translate(65 73) scale(1.5)"><path d="M18 27C1 12 17 6 40 6S79 12 62 27V61Q62 67 56 67H24Q18 67 18 61Z" fill="#aa5b32"/><path d="M23 25C13 15 25 12 40 12S67 15 57 25V60H23Z" fill="#f6cf8b"/><path d="M29 33h2m12 9h2m-11 8h2" stroke="#b87544" stroke-width="3" stroke-linecap="round"/></g><g transform="translate(205 73) scale(1.5)"><path d="M25 33 40 69 55 33Z" fill="#d99a54" stroke="#915024" stroke-width="3"/><path d="M31 43l17 10m-12-2 8-8" stroke="#915024" stroke-width="2"/><path d="M23 37Q15 29 24 25C22 5 58 4 57 24Q65 30 57 37Z" fill="#e67e96" stroke="#a74865" stroke-width="3"/></g><path d="M265 17v54m-10-12 10 12 10-12" fill="none" stroke="#18314a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
