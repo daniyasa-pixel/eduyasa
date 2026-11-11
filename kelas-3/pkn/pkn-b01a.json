@@ -1,0 +1,370 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Pendidikan Pancasila untuk SD/MI Kelas III",
+    "year": 2023,
+    "authors": [
+      "Ressi Kartika Dewi",
+      "Kamala Rahayu Candra Sary",
+      "Hani Hanifah"
+    ],
+    "isbn_pdf": "978-623-194-631-7",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/pendidikan-pancasila-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README sumber unggahan; konversi ini bukan audit akademik ulang."
+  },
+  "source_markdown": {
+    "path": "kelas-3/pkn/pkn-b01-soal-bergambar.md",
+    "sha256": "e933f283315c375ba493465e5dd5223773913c74742142855460ddc7bc0c42d8"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-PKN-B01",
+      "chapter_title": "Aku Anak Indonesia",
+      "questions": [
+        {
+          "id": "K03-PKN-B01-M01-051",
+          "type": "PG",
+          "text": "Menurut kartu bergambar, apa hobi Lala?",
+          "options": [
+            "Melukis",
+            "Menari",
+            "Memasak",
+            "Bersepeda"
+          ],
+          "answer": "Melukis",
+          "discussion": "Kartu ketiga menyebut hobi melukis.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-01.svg",
+            "alt": "Profil singkat Lala yang bersekolah di kelas tiga dan gemar melukis."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-052",
+          "type": "PG",
+          "text": "Lala belajar di kelas berapa?",
+          "options": [
+            "Kelas 6",
+            "Kelas 3",
+            "Kelas 1",
+            "Kelas 5"
+          ],
+          "answer": "Kelas 3",
+          "discussion": "Kartu identitas Lala menunjukkan kelas 3.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-01.svg",
+            "alt": "Profil singkat Lala yang bersekolah di kelas tiga dan gemar melukis."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-053",
+          "type": "PG",
+          "text": "Siapa nama kakek Nara pada gambar?",
+          "options": [
+            "Lala",
+            "Bimo",
+            "Tono",
+            "Rina"
+          ],
+          "answer": "Tono",
+          "discussion": "Gambar keluarga mencantumkan Kakek Tono.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-02.svg",
+            "alt": "Tiga anggota keluarga Nara adalah Nara, Ibu Rina, dan Kakek Tono."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-054",
+          "type": "PG",
+          "text": "Siapa yang menjadi ibu Nara?",
+          "options": [
+            "Tono",
+            "Mira",
+            "Sinta",
+            "Rina"
+          ],
+          "answer": "Rina",
+          "discussion": "Ibu Nara pada gambar bernama Rina.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-02.svg",
+            "alt": "Tiga anggota keluarga Nara adalah Nara, Ibu Rina, dan Kakek Tono."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-055",
+          "type": "PG",
+          "text": "Siapa yang suka berkebun?",
+          "options": [
+            "Raka",
+            "Lala",
+            "Nara",
+            "Mira"
+          ],
+          "answer": "Mira",
+          "discussion": "Panel tengah menjelaskan hobi Mira adalah berkebun.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-03.svg",
+            "alt": "Raka suka membaca, Mira suka berkebun, dan keduanya merawat kelas."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-056",
+          "type": "PG",
+          "text": "Apa kegiatan yang dilakukan bersama Raka dan Mira?",
+          "options": [
+            "Merawat kelas",
+            "Menonton film",
+            "Memasak di kantin",
+            "Membeli seragam"
+          ],
+          "answer": "Merawat kelas",
+          "discussion": "Panel ketiga menunjukkan mereka merawat kelas.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-03.svg",
+            "alt": "Raka suka membaca, Mira suka berkebun, dan keduanya merawat kelas."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-057",
+          "type": "PG",
+          "text": "Apa nomor RT pada kartu alamat Tia?",
+          "options": [
+            "12",
+            "02",
+            "04",
+            "10"
+          ],
+          "answer": "02",
+          "discussion": "Kartu kiri bertuliskan RT 02.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-04.svg",
+            "alt": "Kartu alamat menampilkan RT 02/RW 04, Desa Melati, dan Kecamatan Sukamaju."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-058",
+          "type": "PG",
+          "text": "Kartu alamat Tia menyebut desa bernama ...",
+          "options": [
+            "Makmur",
+            "Kenanga",
+            "Melati",
+            "Sukamaju"
+          ],
+          "answer": "Melati",
+          "discussion": "Nama desa pada gambar adalah Desa Melati.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-04.svg",
+            "alt": "Kartu alamat menampilkan RT 02/RW 04, Desa Melati, dan Kecamatan Sukamaju."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-059",
+          "type": "PG",
+          "text": "Desa Kenanga berada di dalam kecamatan bernama ...",
+          "options": [
+            "Kenanga Baru",
+            "Indah",
+            "Ceria",
+            "Makmur"
+          ],
+          "answer": "Ceria",
+          "discussion": "Diagram wilayah menunjukkan Kecamatan Ceria.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-05.svg",
+            "alt": "Diagram menunjukkan Desa Kenanga berada dalam Kecamatan Ceria yang berada dalam Kabupaten Makmur."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-060",
+          "type": "PG",
+          "text": "Wilayah paling luas di antara tiga panel adalah ...",
+          "options": [
+            "Desa Kenanga",
+            "Kecamatan Ceria",
+            "Rumah warga",
+            "Kabupaten Makmur"
+          ],
+          "answer": "Kabupaten Makmur",
+          "discussion": "Kabupaten meliputi kecamatan dan desa pada diagram.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-05.svg",
+            "alt": "Diagram menunjukkan Desa Kenanga berada dalam Kecamatan Ceria yang berada dalam Kabupaten Makmur."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-061",
+          "type": "PG",
+          "text": "Tempat apa berada di tengah denah?",
+          "options": [
+            "Taman",
+            "Sekolah",
+            "Perpustakaan",
+            "Rumah"
+          ],
+          "answer": "Taman",
+          "discussion": "Denah menempatkan taman di tengah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-06.svg",
+            "alt": "Denah horizontal menunjukkan perpustakaan di kiri, taman di tengah, dan sekolah di kanan."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-062",
+          "type": "PG",
+          "text": "Bangunan di sebelah kanan taman adalah ...",
+          "options": [
+            "Pasar",
+            "Sekolah",
+            "Perpustakaan",
+            "Rumah"
+          ],
+          "answer": "Sekolah",
+          "discussion": "Panel kanan denah menunjukkan sekolah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-06.svg",
+            "alt": "Denah horizontal menunjukkan perpustakaan di kiri, taman di tengah, dan sekolah di kanan."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-063",
+          "type": "PG",
+          "text": "Warna bagian atas bendera yang tampak adalah ...",
+          "options": [
+            "Hijau",
+            "Merah",
+            "Putih",
+            "Biru"
+          ],
+          "answer": "Merah",
+          "discussion": "Bagian atas bendera Indonesia berwarna merah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-07.svg",
+            "alt": "Bendera Indonesia mempunyai bidang merah bagian atas dan putih bagian bawah."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-064",
+          "type": "PG",
+          "text": "Gabungan warna bendera tersebut dikenal sebagai ...",
+          "options": [
+            "Putih Biru",
+            "Hijau Merah",
+            "Merah Putih",
+            "Merah Kuning"
+          ],
+          "answer": "Merah Putih",
+          "discussion": "Bendera Indonesia disebut Sang Merah Putih.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-07.svg",
+            "alt": "Bendera Indonesia mempunyai bidang merah bagian atas dan putih bagian bawah."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-065",
+          "type": "PG",
+          "text": "Bimo berasal dari pulau ...",
+          "options": [
+            "Jawa",
+            "Bali",
+            "Sumatra",
+            "Sulawesi"
+          ],
+          "answer": "Sulawesi",
+          "discussion": "Panel Bimo menyebut Sulawesi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-08.svg",
+            "alt": "Ayu berasal dari Jawa, Bimo dari Sulawesi, dan keduanya tinggal di Indonesia."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-066",
+          "type": "PG",
+          "text": "Walau berasal dari dua pulau berbeda, Ayu dan Bimo tetap ...",
+          "options": [
+            "anak Indonesia",
+            "wajib sama hobinya",
+            "tidak boleh berteman",
+            "berasal dari satu desa"
+          ],
+          "answer": "anak Indonesia",
+          "discussion": "Panel ketiga menunjukkan keduanya Indonesia.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-08.svg",
+            "alt": "Ayu berasal dari Jawa, Bimo dari Sulawesi, dan keduanya tinggal di Indonesia."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-067",
+          "type": "PG",
+          "text": "Siapa yang menata rak buku?",
+          "options": [
+            "Sari",
+            "Doni",
+            "Tia",
+            "Ayu"
+          ],
+          "answer": "Sari",
+          "discussion": "Panel kedua menyebut Sari menata rak.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-09.svg",
+            "alt": "Doni membawa buku dan Sari menata rak hingga pojok baca rapi."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-068",
+          "type": "PG",
+          "text": "Apa hasil kerja sama Doni dan Sari?",
+          "options": [
+            "Taman rusak",
+            "Pojok baca menjadi rapi",
+            "Buku hilang",
+            "Kelas ditutup"
+          ],
+          "answer": "Pojok baca menjadi rapi",
+          "discussion": "Panel terakhir menunjukkan pojok baca rapi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-09.svg",
+            "alt": "Doni membawa buku dan Sari menata rak hingga pojok baca rapi."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-069",
+          "type": "PG",
+          "text": "Apa yang dilakukan Sinta pada panel pertama?",
+          "options": [
+            "Menangis",
+            "Berlari menjauh",
+            "Menyapa",
+            "Mengejek"
+          ],
+          "answer": "Menyapa",
+          "discussion": "Panel pertama menampilkan Sinta menyapa.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-10.svg",
+            "alt": "Sinta menyapa Tono dan mereka menjadi teman setelah saling mendengar."
+          }
+        },
+        {
+          "id": "K03-PKN-B01-M01-070",
+          "type": "PG",
+          "text": "Sikap Tono yang membantu persahabatan adalah ...",
+          "options": [
+            "Mengabaikan",
+            "Mengejek",
+            "Memalingkan wajah",
+            "Mendengarkan"
+          ],
+          "answer": "Mendengarkan",
+          "discussion": "Panel kedua menampilkan Tono yang mendengar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-10.svg",
+            "alt": "Sinta menyapa Tono dan mereka menjadi teman setelah saling mendengar."
+          }
+        }
+      ]
+    }
+  ]
+}

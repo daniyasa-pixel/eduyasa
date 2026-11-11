@@ -1,0 +1,53 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Pendidikan Pancasila untuk SD/MI Kelas III",
+    "year": 2023,
+    "authors": [
+      "Ressi Kartika Dewi",
+      "Kamala Rahayu Candra Sary",
+      "Hani Hanifah"
+    ],
+    "isbn_pdf": "978-623-194-631-7",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/pendidikan-pancasila-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README sumber unggahan; konversi ini bukan audit akademik ulang."
+  },
+  "chapter_id": "K03-PKN-B01",
+  "chapter_title": "Aku Anak Indonesia",
+  "learning_objectives": [
+    "Mengenalkan identitas diri, keluarga, serta teman dengan sikap menghargai.",
+    "Mengenali lingkungan alamat dan hubungan wilayah hingga NKRI.",
+    "Menunjukkan kebanggaan sebagai anak Indonesia serta menjaga kerukunan."
+  ],
+  "source_markdown": {
+    "path": "kelas-3/pkn/pkn-b01-materi.md",
+    "sha256": "890de0093f9d61303aa1c19f2fde18d2720c0099b90fafe340ec74fc78e85cc2"
+  },
+  "modules": [
+    {
+      "id": "K03-PKN-B01-MOD-01",
+      "version": "MOD-01",
+      "title": "Aku Anak Indonesia — Yuk, Kenalan!",
+      "learning_objectives": [
+        "Mengenalkan identitas diri, keluarga, serta teman dengan sikap menghargai.",
+        "Mengenali lingkungan alamat dan hubungan wilayah hingga NKRI.",
+        "Menunjukkan kebanggaan sebagai anak Indonesia serta menjaga kerukunan."
+      ],
+      "content": "# Aku Anak Indonesia — Yuk, Kenalan!\n\nHalo, Sahabat! Kamu pernah mengenalkan diri kepada teman baru? **Setiap anak punya identitas yang istimewa.** Identitas bisa berupa nama, tempat tinggal, kegemaran, dan cerita keluarga. Namun, hal pribadi seperti kata sandi tidak untuk dibagikan.\n\n![Ilustrasi anak memperkenalkan diri, keluarga, dan teman.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-materi-01.svg)\n\n## Aku, keluargaku, dan teman-temanku\n\nNamaku boleh berbeda dari nama temanmu. Keluargaku pun bisa berbeda susunannya dengan keluarga teman. Ada yang tinggal bersama kedua orang tua, ada yang tinggal bersama satu orang tua, kakek, nenek, atau wali. **Semua keluarga tetap perlu dihormati.**\n\nCoba bayangkan: Lala suka melukis, sedangkan Bimo suka membaca. Apakah mereka harus punya hobi sama supaya berteman? Tentu tidak! Mereka justru dapat membuat buku cerita bersama: Lala menggambar, Bimo menulis. Itulah kerja sama.\n\n**Ayo berpikir:** Sebutkan dua hal yang membuatmu unik tanpa membandingkan dirimu dengan orang lain.\n\n## Alamat rumahku bagian dari Indonesia\n\nRumahmu berada dalam lingkungan tempat tinggal. Alamat sering memuat nama jalan atau dusun, **RT/RW**, desa atau kelurahan, kecamatan, kabupaten atau kota, dan provinsi. Wilayah tersebut merupakan bagian dari **Negara Kesatuan Republik Indonesia (NKRI)**. Susunan alamat dapat berbeda menurut daerah.\n\n![Diagram wilayah tempat tinggal dari lingkungan rumah hingga Indonesia.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-materi-02.svg)\n\nBayangkan gambar lingkaran besar dan kecil. Desa berada dalam kecamatan; kecamatan berada dalam kabupaten atau kota; kabupaten atau kota berada dalam provinsi; provinsi berada di Indonesia. Dengan mengenali alamat, kita lebih memahami lingkungan. Untuk keselamatan, alamat lengkap tidak perlu diberikan kepada orang asing di internet.\n\n## Aku bangga menjadi anak Indonesia\n\nIndonesia memiliki banyak pulau, bahasa daerah, dan budaya. Bendera kebangsaan kita berwarna **merah di atas, putih di bawah**. Bahasa Indonesia membantu kita saling memahami meskipun berasal dari daerah berbeda. Bangga menjadi anak Indonesia bukan berarti mengejek negara atau daerah lain.\n\n**Tantangan kecil:** Gambarlah rumah dan dua tempat di sekitarnya. Beri keterangan dengan bantuan keluarga. Setelah itu, ceritakan satu cara menjaga kerukunan dengan tetangga.\n\n**Ingat!** Aku punya identitas, teman-temanku juga. Kita boleh berbeda, tetapi tetap saling menghormati sebagai sesama anak Indonesia."
+    },
+    {
+      "id": "K03-PKN-B01-MOD-02",
+      "version": "MOD-02",
+      "title": "Aku Anak Indonesia — Petualangan Si Penjelajah Mini",
+      "learning_objectives": [
+        "Mengenalkan identitas diri, keluarga, serta teman dengan sikap menghargai.",
+        "Mengenali lingkungan alamat dan hubungan wilayah hingga NKRI.",
+        "Menunjukkan kebanggaan sebagai anak Indonesia serta menjaga kerukunan."
+      ],
+      "content": "# Aku Anak Indonesia — Petualangan Si Penjelajah Mini\n\nAyo, kita bermain menjadi **penjelajah mini**! Kamu membawa tiga kartu petualangan: kartu DIRI, kartu RUMAH, dan kartu INDONESIA. Siap? Mari mulai!\n\n## Kartu 1: Aku istimewa\n\nCoba katakan dalam hati: “Namaku ..., aku senang ..., dan aku ingin belajar ...”. Itulah sebagian identitasmu. Nama dan kegemaran tidak menentukan siapa yang lebih hebat. Kita semua boleh berkembang dengan cara berbeda.\n\n![Gambar kartu identitas, keluarga, dan persahabatan yang beragam.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-materi-01.svg)\n\nPada suatu hari, Nara mengenalkan Kakek Tono kepada teman-temannya. Raka tinggal bersama ibu dan adiknya. Keduanya tetap punya keluarga yang patut disayangi. **Tidak ada alasan mengejek susunan keluarga orang lain.**\n\n**Tebak sikap:** Jika temanmu kesulitan menyebut namamu, apakah kamu akan marah atau mengajarkannya dengan ramah? Mengajarkan dengan ramah lebih membantu!\n\n## Kartu 2: Temukan tempat tinggalku\n\nMulailah dari rumah. Lihat jalan, RT atau RW, desa atau kelurahan, lalu kecamatan. Daerahmu berada di kabupaten atau kota, kemudian provinsi. Semuanya bagian dari **NKRI**. Coba minta orang tua atau wali menunjukkan alamat tempat tinggalmu. Jangan membagikan alamat rinci kepada orang yang tidak dikenal.\n\n![Gambar penanda rumah dan wilayah dalam Negara Kesatuan Republik Indonesia.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-materi-02.svg)\n\nBayangkan temanmu bertanya, “Kamu dari mana?” Kamu dapat menjawab nama kota atau kabupaten tanpa menyebut alamat lengkap. Ketika melihat denah, perhatikan letak kiri, kanan, depan, dan belakang; denah membantu kita mencari tempat.\n\n## Kartu 3: Bersama dalam Indonesia\n\nBendera kita adalah **Merah Putih**. Teman dari Jawa, Sumatra, Kalimantan, Sulawesi, Bali, Papua, dan berbagai wilayah lain bisa berbicara bersama menggunakan Bahasa Indonesia. Bahasa daerah mereka tetap berharga.\n\n**Misi penjelajah:** (1) Perkenalkan hobimu dengan satu kalimat. (2) Sebutkan nama kabupaten/kota tempat tinggalmu. (3) Ceritakan cara menyambut teman baru.\n\n**Bintang petualangan:** Kamu berhasil jika dapat mengenali diri, menghargai keluarga dan teman, serta menyadari bahwa tempat tinggalmu termasuk Indonesia."
+    }
+  ]
+}

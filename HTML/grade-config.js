@@ -3,8 +3,9 @@
   'use strict';
   const grades = {
     6: { grade: 6, dataPath: '', chapterPrefix: '', manifestSubjects: ['MTK', 'SBD', 'PJK'], imageQuotaSubjects: ['MTK', 'SBD', 'PJK'] },
-    3: { grade: 3, dataPath: 'kelas-3/', chapterPrefix: 'K03-', manifestSubjects: ['BIN'], imageQuotaSubjects: ['BIN'], subjects: [
-      { id: 'BIN', name: 'Bahasa Indonesia', icon: '📚', chapters: ['Kawan Seiring', 'Yuk, Berpendapat!', 'Pribadi yang Hebat', 'Menyelamatkan Lingkungan'] }
+    3: { grade: 3, dataPath: 'kelas-3/', chapterPrefix: 'K03-', manifestSubjects: ['BIN', 'PKN'], imageQuotaSubjects: ['BIN', 'PKN'], subjects: [
+      { id: 'BIN', name: 'Bahasa Indonesia', icon: '📚', chapters: ['Kawan Seiring', 'Yuk, Berpendapat!', 'Pribadi yang Hebat', 'Menyelamatkan Lingkungan'] },
+      { id: 'PKN', name: 'Pendidikan Pancasila', icon: '🇮🇩', chapters: ['Aku Anak Indonesia', 'Aku Patuh Aturan', 'Berbeda Itu Indah', 'Ayo Mengenal Pancasila'] }
     ] }
   };
   function resolve(search = '') {

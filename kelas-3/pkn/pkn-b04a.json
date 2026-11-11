@@ -1,0 +1,370 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Pendidikan Pancasila untuk SD/MI Kelas III",
+    "year": 2023,
+    "authors": [
+      "Ressi Kartika Dewi",
+      "Kamala Rahayu Candra Sary",
+      "Hani Hanifah"
+    ],
+    "isbn_pdf": "978-623-194-631-7",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/pendidikan-pancasila-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README sumber unggahan; konversi ini bukan audit akademik ulang."
+  },
+  "source_markdown": {
+    "path": "kelas-3/pkn/pkn-b04-soal-bergambar.md",
+    "sha256": "746e81944f59d33bcd2ecf0c6f54cb6f00fd7c6fe6ea62142f7ec62c8ee76e21"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-PKN-B04",
+      "chapter_title": "Ayo Mengenal Pancasila",
+      "questions": [
+        {
+          "id": "K03-PKN-B04-M01-051",
+          "type": "PG",
+          "text": "Pada gambar pertama, lambang sila pertama adalah ...",
+          "options": [
+            "bintang",
+            "rantai",
+            "pohon beringin",
+            "kapas"
+          ],
+          "answer": "bintang",
+          "discussion": "Panel pertama memperlihatkan bintang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-01.svg",
+            "alt": "Simbol pertama bintang, kedua rantai, ketiga pohon beringin."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-052",
+          "type": "PG",
+          "text": "Menurut urutan gambar, lambang sila kedua ialah ...",
+          "options": [
+            "kepala banteng",
+            "rantai",
+            "bintang",
+            "pohon beringin"
+          ],
+          "answer": "rantai",
+          "discussion": "Panel kedua memperlihatkan rantai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-01.svg",
+            "alt": "Simbol pertama bintang, kedua rantai, ketiga pohon beringin."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-053",
+          "type": "PG",
+          "text": "Kepala banteng melambangkan sila ke ...",
+          "options": [
+            "dua",
+            "lima",
+            "empat",
+            "satu"
+          ],
+          "answer": "empat",
+          "discussion": "Panel pertama menuliskan 4 Kepala banteng.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-02.svg",
+            "alt": "Simbol sila keempat kepala banteng dan sila kelima padi serta kapas."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-054",
+          "type": "PG",
+          "text": "Padi dan kapas merupakan lambang sila ...",
+          "options": [
+            "pertama",
+            "kedua",
+            "ketiga",
+            "kelima"
+          ],
+          "answer": "kelima",
+          "discussion": "Panel kedua menyebut 5 Padi dan kapas.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-02.svg",
+            "alt": "Simbol sila keempat kepala banteng dan sila kelima padi serta kapas."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-055",
+          "type": "PG",
+          "text": "Pada gambar, nilai sila pertama berkaitan dengan ...",
+          "options": [
+            "Persatuan",
+            "Keadilan sosial",
+            "Permusyawaratan",
+            "Ketuhanan"
+          ],
+          "answer": "Ketuhanan",
+          "discussion": "Panel pertama berbunyi Sila 1 Ketuhanan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-03.svg",
+            "alt": "Kartu tiga nilai sila: ketuhanan, kemanusiaan, persatuan."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-056",
+          "type": "PG",
+          "text": "Nilai kemanusiaan terletak pada sila ke ...",
+          "options": [
+            "dua",
+            "satu",
+            "tiga",
+            "lima"
+          ],
+          "answer": "dua",
+          "discussion": "Panel kedua bertuliskan Sila 2 Kemanusiaan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-03.svg",
+            "alt": "Kartu tiga nilai sila: ketuhanan, kemanusiaan, persatuan."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-057",
+          "type": "PG",
+          "text": "Siapa yang memberi usul dalam musyawarah pada gambar?",
+          "options": [
+            "Roni",
+            "Dina",
+            "Raka",
+            "Mira"
+          ],
+          "answer": "Dina",
+          "discussion": "Panel pertama menyebut Dina.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-04.svg",
+            "alt": "Musyawarah diawali usul, mendengarkan, kemudian mencapai keputusan bersama."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-058",
+          "type": "PG",
+          "text": "Setelah mendengarkan usul, kelompok sebaiknya ...",
+          "options": [
+            "melarang orang bicara",
+            "merobek catatan",
+            "mencapai kesepakatan bersama",
+            "membubarkan kelompok"
+          ],
+          "answer": "mencapai kesepakatan bersama",
+          "discussion": "Panel ketiga menunjukkan kesepakatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-04.svg",
+            "alt": "Musyawarah diawali usul, mendengarkan, kemudian mencapai keputusan bersama."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-059",
+          "type": "PG",
+          "text": "Bagaimana buku digunakan menurut gambar?",
+          "options": [
+            "Disembunyikan",
+            "Dibuang",
+            "Bergiliran",
+            "Direbut satu anak"
+          ],
+          "answer": "Bergiliran",
+          "discussion": "Panel kedua menyebut bergiliran.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-05.svg",
+            "alt": "Empat anak memakai buku bersama secara bergiliran dan adil."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-060",
+          "type": "PG",
+          "text": "Apa nilai utama dari semua anak memperoleh giliran?",
+          "options": [
+            "Kesombongan",
+            "Kecurangan",
+            "Paksaan",
+            "Keadilan"
+          ],
+          "answer": "Keadilan",
+          "discussion": "Panel akhir menampilkan semua kebagian.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-05.svg",
+            "alt": "Empat anak memakai buku bersama secara bergiliran dan adil."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-061",
+          "type": "PG",
+          "text": "Apa yang dilakukan teman saat orang lain beribadah?",
+          "options": [
+            "Memberi kesempatan",
+            "Mengganggu",
+            "Mengejek",
+            "Memaksa berhenti"
+          ],
+          "answer": "Memberi kesempatan",
+          "discussion": "Panel kedua memperlihatkan teman menunggu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-06.svg",
+            "alt": "Teman yang beribadah diberi kesempatan dan dihormati."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-062",
+          "type": "PG",
+          "text": "Sikap yang menjadi pesan gambar adalah ...",
+          "options": [
+            "saling mengancam",
+            "saling menghormati",
+            "saling mengejek",
+            "saling menghalangi"
+          ],
+          "answer": "saling menghormati",
+          "discussion": "Panel akhir berbunyi saling menghormati.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-06.svg",
+            "alt": "Teman yang beribadah diberi kesempatan dan dihormati."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-063",
+          "type": "PG",
+          "text": "Siapa yang menolong Roni?",
+          "options": [
+            "Hatta",
+            "Mira",
+            "Dina",
+            "Sukarno"
+          ],
+          "answer": "Mira",
+          "discussion": "Panel kedua menyebut Mira menolong.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-07.svg",
+            "alt": "Mira membantu Roni yang terjatuh dan Roni akhirnya tertolong."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-064",
+          "type": "PG",
+          "text": "Sila apa yang terutama dicontohkan oleh menolong teman jatuh?",
+          "options": [
+            "Kelima",
+            "Pertama",
+            "Kedua",
+            "Keempat"
+          ],
+          "answer": "Kedua",
+          "discussion": "Menolong sesama mencerminkan kemanusiaan yang adil dan beradab.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-07.svg",
+            "alt": "Mira membantu Roni yang terjatuh dan Roni akhirnya tertolong."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-065",
+          "type": "PG",
+          "text": "Tanggal Hari Lahir Pancasila pada gambar adalah ...",
+          "options": [
+            "17 Agustus 1945",
+            "18 Agustus 1945",
+            "1 Januari 1945",
+            "1 Juni 1945"
+          ],
+          "answer": "1 Juni 1945",
+          "discussion": "Panel pertama menunjukkan 1 Juni 1945.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-08.svg",
+            "alt": "Tanggal penting: Hari Lahir Pancasila 1 Juni 1945, Proklamasi 17 Agustus 1945, pengesahan UUD 1945 pada 18 Agustus 1945."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-066",
+          "type": "PG",
+          "text": "Tanggal proklamasi kemerdekaan pada gambar adalah ...",
+          "options": [
+            "17 Agustus 1945",
+            "1 Juni 1945",
+            "18 Agustus 1945",
+            "2 Mei 1945"
+          ],
+          "answer": "17 Agustus 1945",
+          "discussion": "Panel kedua menunjukkan 17 Agustus 1945.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-08.svg",
+            "alt": "Tanggal penting: Hari Lahir Pancasila 1 Juni 1945, Proklamasi 17 Agustus 1945, pengesahan UUD 1945 pada 18 Agustus 1945."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-067",
+          "type": "PG",
+          "text": "Siapa tokoh yang menjadi Presiden pertama Republik Indonesia?",
+          "options": [
+            "Sukarno",
+            "Mohammad Hatta",
+            "Dina",
+            "Raka"
+          ],
+          "answer": "Sukarno",
+          "discussion": "Panel Sukarno menunjukkan Presiden pertama RI.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-09.svg",
+            "alt": "Sukarno Presiden pertama, Mohammad Hatta Wakil Presiden pertama; keduanya berjuang bagi bangsa."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-068",
+          "type": "PG",
+          "text": "Siapa tokoh yang menjadi Wakil Presiden pertama Republik Indonesia?",
+          "options": [
+            "Mira",
+            "Mohammad Hatta",
+            "Sukarno",
+            "Roni"
+          ],
+          "answer": "Mohammad Hatta",
+          "discussion": "Mohammad Hatta merupakan Wakil Presiden pertama RI.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-09.svg",
+            "alt": "Sukarno Presiden pertama, Mohammad Hatta Wakil Presiden pertama; keduanya berjuang bagi bangsa."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-069",
+          "type": "PG",
+          "text": "Kegiatan pada panel pertama merupakan contoh ...",
+          "options": [
+            "perebutan alat",
+            "pemaksaan pendapat",
+            "gotong royong",
+            "mengejek teman"
+          ],
+          "answer": "gotong royong",
+          "discussion": "Panel pertama menunjukkan gotong royong.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-10.svg",
+            "alt": "Contoh pengamalan nilai Pancasila: gotong royong, musyawarah, berbagi adil."
+          }
+        },
+        {
+          "id": "K03-PKN-B04-M01-070",
+          "type": "PG",
+          "text": "Apa kegiatan pada panel terakhir yang memperlihatkan sila kelima?",
+          "options": [
+            "Merebut makanan",
+            "Memaksa kelompok",
+            "Mengejek teman",
+            "Berbagi adil"
+          ],
+          "answer": "Berbagi adil",
+          "discussion": "Berbagi adil sesuai nilai keadilan sosial.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-10.svg",
+            "alt": "Contoh pengamalan nilai Pancasila: gotong royong, musyawarah, berbagi adil."
+          }
+        }
+      ]
+    }
+  ]
+}

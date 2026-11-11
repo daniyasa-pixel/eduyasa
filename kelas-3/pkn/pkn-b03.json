@@ -1,0 +1,680 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Pendidikan Pancasila untuk SD/MI Kelas III",
+    "year": 2023,
+    "authors": [
+      "Ressi Kartika Dewi",
+      "Kamala Rahayu Candra Sary",
+      "Hani Hanifah"
+    ],
+    "isbn_pdf": "978-623-194-631-7",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/pendidikan-pancasila-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README sumber unggahan; konversi ini bukan audit akademik ulang."
+  },
+  "source_markdown": {
+    "path": "kelas-3/pkn/pkn-b03-soal-biasa.md",
+    "sha256": "f735f5acf44a82cedbb9696d8e199d050795c8f8b9ad568bc09892756b28a5ba"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-PKN-B03",
+      "chapter_title": "Berbeda Itu Indah",
+      "questions": [
+        {
+          "id": "K03-PKN-B03-M01-001",
+          "type": "PG",
+          "text": "Semboyan Bhinneka Tunggal Ika berarti ...",
+          "options": [
+            "berbeda-beda tetapi tetap satu",
+            "semua harus punya hobi sama",
+            "hanya satu budaya boleh ada",
+            "perbedaan harus dihapus"
+          ],
+          "answer": "berbeda-beda tetapi tetap satu",
+          "discussion": "Bhinneka Tunggal Ika mengajak kita bersatu meskipun beragam."
+        },
+        {
+          "id": "K03-PKN-B03-M01-002",
+          "type": "PG",
+          "text": "Indonesia memiliki beragam ...",
+          "options": [
+            "hanya satu jenis permainan",
+            "suku bangsa, bahasa, dan budaya",
+            "hanya satu makanan daerah",
+            "hanya satu bentuk rumah"
+          ],
+          "answer": "suku bangsa, bahasa, dan budaya",
+          "discussion": "Keragaman Indonesia meliputi suku, bahasa, dan budaya."
+        },
+        {
+          "id": "K03-PKN-B03-M01-003",
+          "type": "PG",
+          "text": "Suku bangsa adalah kelompok masyarakat yang memiliki ...",
+          "options": [
+            "nilai rapor sama",
+            "jadwal pelajaran sama",
+            "identitas serta tradisi budaya tertentu",
+            "warna seragam sekolah sama"
+          ],
+          "answer": "identitas serta tradisi budaya tertentu",
+          "discussion": "Suku bangsa terkait identitas dan warisan budaya masyarakat."
+        },
+        {
+          "id": "K03-PKN-B03-M01-004",
+          "type": "PG",
+          "text": "Contoh suku bangsa di Indonesia adalah ...",
+          "options": [
+            "Afrika",
+            "Eropa",
+            "Antartika",
+            "Batak"
+          ],
+          "answer": "Batak",
+          "discussion": "Batak merupakan salah satu kelompok suku bangsa di Indonesia."
+        },
+        {
+          "id": "K03-PKN-B03-M01-005",
+          "type": "PG",
+          "text": "Suku Batak memiliki akar budaya yang kuat di wilayah ...",
+          "options": [
+            "Kalimantan Timur",
+            "Jawa Barat",
+            "Maluku Utara",
+            "Sumatra Utara"
+          ],
+          "answer": "Sumatra Utara",
+          "discussion": "Suku Batak dikenal berasal dari wilayah Sumatra Utara."
+        },
+        {
+          "id": "K03-PKN-B03-M01-006",
+          "type": "PG",
+          "text": "Suku Betawi berkaitan erat dengan budaya masyarakat ...",
+          "options": [
+            "Jakarta",
+            "Bali",
+            "Papua",
+            "Sulawesi Utara"
+          ],
+          "answer": "Jakarta",
+          "discussion": "Betawi merupakan kelompok masyarakat asli wilayah Jakarta dan sekitarnya."
+        },
+        {
+          "id": "K03-PKN-B03-M01-007",
+          "type": "PG",
+          "text": "Suku Baduy atau Kanekes dikenal berasal dari ...",
+          "options": [
+            "Papua Selatan",
+            "Banten",
+            "Aceh",
+            "Bali"
+          ],
+          "answer": "Banten",
+          "discussion": "Masyarakat Baduy/Kanekes berasal dari wilayah Banten."
+        },
+        {
+          "id": "K03-PKN-B03-M01-008",
+          "type": "PG",
+          "text": "Suku Asmat dikenal sebagai salah satu suku dari wilayah ...",
+          "options": [
+            "Jawa Tengah",
+            "Kalimantan Selatan",
+            "Papua",
+            "Lampung"
+          ],
+          "answer": "Papua",
+          "discussion": "Asmat merupakan salah satu suku di kawasan Papua."
+        },
+        {
+          "id": "K03-PKN-B03-M01-009",
+          "type": "PG",
+          "text": "Suku Dayak merupakan sebutan untuk berbagai kelompok suku di ...",
+          "options": [
+            "Bali",
+            "Nusa Tenggara",
+            "Kalimantan",
+            "Jawa"
+          ],
+          "answer": "Kalimantan",
+          "discussion": "Dayak mencakup beragam kelompok masyarakat Kalimantan."
+        },
+        {
+          "id": "K03-PKN-B03-M01-010",
+          "type": "PG",
+          "text": "Jika ada teman dari suku berbeda, kita harus ...",
+          "options": [
+            "mengejek bahasa daerahnya",
+            "melarang ikut bermain",
+            "memaksa mengganti nama",
+            "menghormati dan berteman dengannya"
+          ],
+          "answer": "menghormati dan berteman dengannya",
+          "discussion": "Perbedaan suku bukan alasan membeda-bedakan teman."
+        },
+        {
+          "id": "K03-PKN-B03-M01-011",
+          "type": "PG",
+          "text": "Ketika teman berbicara dengan logat daerah berbeda, sikap tepat ...",
+          "options": [
+            "mendengarkan tanpa mengejek",
+            "meniru untuk menghina",
+            "menutup telinga",
+            "melarangnya berbicara"
+          ],
+          "answer": "mendengarkan tanpa mengejek",
+          "discussion": "Logat daerah patut dihormati."
+        },
+        {
+          "id": "K03-PKN-B03-M01-012",
+          "type": "PG",
+          "text": "Keragaman budaya bangsa bisa menjadi ...",
+          "options": [
+            "alasan merendahkan orang",
+            "kekayaan yang kita pelajari dan jaga",
+            "alasan untuk bermusuhan",
+            "hambatan yang harus dilarang"
+          ],
+          "answer": "kekayaan yang kita pelajari dan jaga",
+          "discussion": "Budaya beragam memperkaya kehidupan bersama."
+        },
+        {
+          "id": "K03-PKN-B03-M01-013",
+          "type": "PG",
+          "text": "Sikap yang menunjukkan persatuan dalam keberagaman adalah ...",
+          "options": [
+            "menyembunyikan teman",
+            "bermain bersama tanpa membedakan suku",
+            "hanya memilih teman dari daerah sendiri",
+            "menolak budaya lain"
+          ],
+          "answer": "bermain bersama tanpa membedakan suku",
+          "discussion": "Bersahabat tanpa membeda-bedakan suku mencerminkan persatuan."
+        },
+        {
+          "id": "K03-PKN-B03-M01-014",
+          "type": "PG",
+          "text": "Saat ingin tahu tradisi keluarga teman, kita sebaiknya ...",
+          "options": [
+            "mengejek tradisinya",
+            "menganggap tradisi sendiri selalu terbaik",
+            "bertanya dengan sopan dan menghormati jawaban",
+            "memaksa ikut ritual"
+          ],
+          "answer": "bertanya dengan sopan dan menghormati jawaban",
+          "discussion": "Rasa ingin tahu perlu disertai sopan santun."
+        },
+        {
+          "id": "K03-PKN-B03-M01-015",
+          "type": "PG",
+          "text": "Teman membawa makanan khas daerah. Tindakan baik ialah ...",
+          "options": [
+            "langsung membuang makanannya",
+            "mengejek aromanya",
+            "memaksa semua orang mencicipi",
+            "menghargai dan bertanya dengan santun"
+          ],
+          "answer": "menghargai dan bertanya dengan santun",
+          "discussion": "Menghargai makanan daerah tidak mengharuskan setiap orang menyukainya."
+        },
+        {
+          "id": "K03-PKN-B03-M01-016",
+          "type": "PG",
+          "text": "Pakaian adat biasanya mencerminkan ...",
+          "options": [
+            "ciri budaya suatu daerah",
+            "nilai ulangan pemakainya",
+            "aturan semua sekolah",
+            "nama mata pelajaran"
+          ],
+          "answer": "ciri budaya suatu daerah",
+          "discussion": "Pakaian adat merupakan bagian warisan budaya."
+        },
+        {
+          "id": "K03-PKN-B03-M01-017",
+          "type": "PG",
+          "text": "Ketika melihat pakaian adat yang berbeda dari pakaianmu, kamu sebaiknya ...",
+          "options": [
+            "menghargai keunikannya",
+            "menertawakan pemakainya",
+            "menarik hiasannya",
+            "melarang dipakai"
+          ],
+          "answer": "menghargai keunikannya",
+          "discussion": "Pakaian adat patut dihargai."
+        },
+        {
+          "id": "K03-PKN-B03-M01-018",
+          "type": "PG",
+          "text": "Rumah adat dapat berbeda bentuk karena ...",
+          "options": [
+            "agar masyarakat bertengkar",
+            "tradisi dan kondisi lingkungan yang berbeda",
+            "semua daerah mempunyai bahan sama",
+            "semua keluarga wajib punya rumah sama"
+          ],
+          "answer": "tradisi dan kondisi lingkungan yang berbeda",
+          "discussion": "Keragaman rumah adat terkait budaya dan lingkungan."
+        },
+        {
+          "id": "K03-PKN-B03-M01-019",
+          "type": "PG",
+          "text": "Contoh cara melestarikan budaya adalah ...",
+          "options": [
+            "mengejek tari daerah",
+            "melarang bahasa daerah",
+            "belajar permainan tradisional dengan bimbingan",
+            "merusak alat musik"
+          ],
+          "answer": "belajar permainan tradisional dengan bimbingan",
+          "discussion": "Belajar dan mempraktikkan budaya secara hormat membantu pelestarian."
+        },
+        {
+          "id": "K03-PKN-B03-M01-020",
+          "type": "PG",
+          "text": "Jika kamu belum mengenal tarian daerah lain, langkah baik ialah ...",
+          "options": [
+            "mengarang asal tarian",
+            "mengejek gerakannya",
+            "menolak belajar",
+            "mencari informasi dari sumber tepercaya"
+          ],
+          "answer": "mencari informasi dari sumber tepercaya",
+          "discussion": "Belajar dari sumber tepercaya membantu mengenal budaya dengan benar."
+        },
+        {
+          "id": "K03-PKN-B03-M01-021",
+          "type": "PG",
+          "text": "Permainan tradisional merupakan bagian dari ...",
+          "options": [
+            "aturan matematika",
+            "nama alamat rumah",
+            "tanda lalu lintas",
+            "budaya masyarakat"
+          ],
+          "answer": "budaya masyarakat",
+          "discussion": "Permainan turun-temurun termasuk kekayaan budaya."
+        },
+        {
+          "id": "K03-PKN-B03-M01-022",
+          "type": "PG",
+          "text": "Contoh permainan tradisional yang dikenal di Indonesia adalah ...",
+          "options": [
+            "egrang",
+            "permainan konsol elektronik",
+            "menonton televisi",
+            "membuka internet"
+          ],
+          "answer": "egrang",
+          "discussion": "Egrang merupakan salah satu permainan tradisional."
+        },
+        {
+          "id": "K03-PKN-B03-M01-023",
+          "type": "PG",
+          "text": "Saat bermain egrang, hal penting diperhatikan adalah ...",
+          "options": [
+            "berjalan dengan mata tertutup",
+            "keselamatan dan pendampingan",
+            "melakukannya di jalan raya",
+            "memaksa semua anak mencoba"
+          ],
+          "answer": "keselamatan dan pendampingan",
+          "discussion": "Permainan harus dilakukan di tempat aman dengan pendamping."
+        },
+        {
+          "id": "K03-PKN-B03-M01-024",
+          "type": "PG",
+          "text": "Karya kerajinan khas daerah sebaiknya ...",
+          "options": [
+            "diambil tanpa izin",
+            "dibuang karena berbeda",
+            "dirawat dan dihargai",
+            "dirusak untuk bercanda"
+          ],
+          "answer": "dirawat dan dihargai",
+          "discussion": "Kerajinan daerah merupakan hasil keterampilan yang patut dihargai."
+        },
+        {
+          "id": "K03-PKN-B03-M01-025",
+          "type": "PG",
+          "text": "Ketika ada pameran budaya, kita bisa ...",
+          "options": [
+            "menertawakan penampil",
+            "merusak pajangan",
+            "mengamati dan belajar dengan hormat",
+            "menyentuh semua barang tanpa izin"
+          ],
+          "answer": "mengamati dan belajar dengan hormat",
+          "discussion": "Pameran memberi kesempatan mengenal budaya."
+        },
+        {
+          "id": "K03-PKN-B03-M01-026",
+          "type": "PG",
+          "text": "Gotong royong dalam festival budaya berarti ...",
+          "options": [
+            "satu orang bekerja untuk semua",
+            "kelompok lain dilarang ikut",
+            "setiap orang saling menyalahkan",
+            "semua membantu sesuai tugas"
+          ],
+          "answer": "semua membantu sesuai tugas",
+          "discussion": "Gotong royong membuat pekerjaan bersama lebih ringan."
+        },
+        {
+          "id": "K03-PKN-B03-M01-027",
+          "type": "PG",
+          "text": "Saat teman menunjukkan seni tradisinya, tanggapan yang baik adalah ...",
+          "options": [
+            "Terima kasih sudah berbagi cerita budayamu.",
+            "Budayamu pasti salah.",
+            "Hanya budayaku paling bagus.",
+            "Jangan tampil lagi."
+          ],
+          "answer": "Terima kasih sudah berbagi cerita budayamu.",
+          "discussion": "Ucapan menghargai menunjukkan respek terhadap budaya teman."
+        },
+        {
+          "id": "K03-PKN-B03-M01-028",
+          "type": "PG",
+          "text": "Budaya daerah sebaiknya dipelajari tanpa ...",
+          "options": [
+            "membaca buku",
+            "menganggap satu budaya lebih tinggi dari yang lain",
+            "bertanya kepada narasumber",
+            "mengikuti acara dengan izin"
+          ],
+          "answer": "menganggap satu budaya lebih tinggi dari yang lain",
+          "discussion": "Semua budaya patut dihormati tanpa peringkat unggul."
+        },
+        {
+          "id": "K03-PKN-B03-M01-029",
+          "type": "PG",
+          "text": "Mengapa kita mempelajari budaya daerah lain?",
+          "options": [
+            "agar menjadi pemilik budaya orang",
+            "agar saling mengenal dan memahami",
+            "agar bisa mengejek",
+            "agar semua budaya berubah sama"
+          ],
+          "answer": "agar saling mengenal dan memahami",
+          "discussion": "Belajar budaya menumbuhkan pemahaman dan penghargaan."
+        },
+        {
+          "id": "K03-PKN-B03-M01-030",
+          "type": "PG",
+          "text": "Jika belum memahami makna suatu tradisi, sebaiknya ...",
+          "options": [
+            "menyebarkan kabar palsu",
+            "menghina pelakunya",
+            "bertanya kepada orang yang mengetahuinya",
+            "langsung menganggapnya buruk"
+          ],
+          "answer": "bertanya kepada orang yang mengetahuinya",
+          "discussion": "Bertanya menghindarkan prasangka."
+        },
+        {
+          "id": "K03-PKN-B03-M01-031",
+          "type": "PG",
+          "text": "Bahasa persatuan Indonesia ialah ...",
+          "options": [
+            "hanya Bahasa Jawa",
+            "hanya Bahasa Sunda",
+            "bahasa buatan satu kelas",
+            "Bahasa Indonesia"
+          ],
+          "answer": "Bahasa Indonesia",
+          "discussion": "Bahasa Indonesia mempersatukan penutur bahasa daerah."
+        },
+        {
+          "id": "K03-PKN-B03-M01-032",
+          "type": "PG",
+          "text": "Kita menggunakan Bahasa Indonesia saat teman dari daerah berbeda agar ...",
+          "options": [
+            "lebih mudah saling memahami",
+            "bahasa daerah harus dihapus",
+            "logat semua menjadi sama",
+            "semua budaya jadi satu"
+          ],
+          "answer": "lebih mudah saling memahami",
+          "discussion": "Bahasa Indonesia menjadi jembatan komunikasi."
+        },
+        {
+          "id": "K03-PKN-B03-M01-033",
+          "type": "PG",
+          "text": "Bahasa daerah sebaiknya ...",
+          "options": [
+            "dihargai dan dapat dipelajari",
+            "dilarang di rumah",
+            "ditertawakan",
+            "dianggap tak berguna"
+          ],
+          "answer": "dihargai dan dapat dipelajari",
+          "discussion": "Bahasa daerah merupakan bagian kekayaan budaya."
+        },
+        {
+          "id": "K03-PKN-B03-M01-034",
+          "type": "PG",
+          "text": "Saat rapat kelas diikuti anak dari berbagai daerah, bahasa yang cocok untuk dipakai bersama ...",
+          "options": [
+            "diam sepanjang rapat",
+            "Bahasa Indonesia",
+            "bahasa yang tidak dipahami peserta lain",
+            "hanya sandi satu kelompok"
+          ],
+          "answer": "Bahasa Indonesia",
+          "discussion": "Bahasa Indonesia memudahkan komunikasi bersama."
+        },
+        {
+          "id": "K03-PKN-B03-M01-035",
+          "type": "PG",
+          "text": "Teman menggunakan bahasa daerah bersama keluarganya. Sikapmu ...",
+          "options": [
+            "menyebarkan ejekan",
+            "menilai keluarganya salah",
+            "menghormati kebiasaan mereka",
+            "melarangnya"
+          ],
+          "answer": "menghormati kebiasaan mereka",
+          "discussion": "Bahasa daerah dapat digunakan dalam keluarga."
+        },
+        {
+          "id": "K03-PKN-B03-M01-036",
+          "type": "PG",
+          "text": "Jika mendengar kata bahasa daerah yang belum dikenal, kita bisa ...",
+          "options": [
+            "menertawakan penuturnya",
+            "mengarang arti yang buruk",
+            "langsung menyalahkan",
+            "bertanya artinya dengan sopan"
+          ],
+          "answer": "bertanya artinya dengan sopan",
+          "discussion": "Bertanya sopan menunjukkan rasa ingin tahu."
+        },
+        {
+          "id": "K03-PKN-B03-M01-037",
+          "type": "PG",
+          "text": "Bahasa Indonesia yang santun dapat terlihat dari ucapan ...",
+          "options": [
+            "Diam, kamu salah terus!",
+            "Logatmu lucu sekali!",
+            "Aku tak mau mendengar!",
+            "Tolong jelaskan sekali lagi, ya."
+          ],
+          "answer": "Tolong jelaskan sekali lagi, ya.",
+          "discussion": "Bahasa santun menghargai lawan bicara."
+        },
+        {
+          "id": "K03-PKN-B03-M01-038",
+          "type": "PG",
+          "text": "Bahasa persatuan membantu kita ketika ...",
+          "options": [
+            "bertemu orang dari berbagai daerah",
+            "ingin mengejek teman",
+            "melarang budaya lokal",
+            "tidak mau belajar"
+          ],
+          "answer": "bertemu orang dari berbagai daerah",
+          "discussion": "Bahasa Indonesia dapat dipakai lintas daerah."
+        },
+        {
+          "id": "K03-PKN-B03-M01-039",
+          "type": "PG",
+          "text": "Penggunaan Bahasa Indonesia tidak berarti ...",
+          "options": [
+            "kegiatan bersama berjalan baik",
+            "bahasa daerah harus dihilangkan",
+            "komunikasi menjadi lebih mudah",
+            "anak bisa saling mengenal"
+          ],
+          "answer": "bahasa daerah harus dihilangkan",
+          "discussion": "Bahasa persatuan dan bahasa daerah saling melengkapi."
+        },
+        {
+          "id": "K03-PKN-B03-M01-040",
+          "type": "PG",
+          "text": "Contoh bangga berbahasa Indonesia ialah ...",
+          "options": [
+            "membuat teman takut bertanya",
+            "menolak membaca",
+            "menggunakannya dengan jelas dan santun",
+            "menghina penutur daerah"
+          ],
+          "answer": "menggunakannya dengan jelas dan santun",
+          "discussion": "Bahasa Indonesia perlu digunakan dengan baik."
+        },
+        {
+          "id": "K03-PKN-B03-M01-041",
+          "type": "PG",
+          "text": "Saat ada teman baru berbahasa daerah berbeda, kamu dapat berkata ...",
+          "options": [
+            "Bahasamu aneh sekali.",
+            "Kamu harus pindah daerah.",
+            "Ayo bermain bersama, kita bisa berbicara Bahasa Indonesia.",
+            "Kamu tak boleh bermain di sini."
+          ],
+          "answer": "Ayo bermain bersama, kita bisa berbicara Bahasa Indonesia.",
+          "discussion": "Ajakan ramah dengan bahasa bersama memperkuat pertemanan."
+        },
+        {
+          "id": "K03-PKN-B03-M01-042",
+          "type": "PG",
+          "text": "Dalam kelompok tari daerah, pembagian tugas terbaik ...",
+          "options": [
+            "hanya anak satu suku boleh ikut",
+            "anak lain dilarang membantu",
+            "semua berebut menjadi pemimpin",
+            "disesuaikan kemampuan dan disepakati bersama"
+          ],
+          "answer": "disesuaikan kemampuan dan disepakati bersama",
+          "discussion": "Kerja sama melibatkan berbagai kemampuan."
+        },
+        {
+          "id": "K03-PKN-B03-M01-043",
+          "type": "PG",
+          "text": "Saat teman memakai pakaian adat pada acara sekolah, kita ...",
+          "options": [
+            "memberi apresiasi tanpa mengejek",
+            "menarik pakaiannya",
+            "membuat julukan hinaan",
+            "menolaknya"
+          ],
+          "answer": "memberi apresiasi tanpa mengejek",
+          "discussion": "Apresiasi menghormati identitas budaya."
+        },
+        {
+          "id": "K03-PKN-B03-M01-044",
+          "type": "PG",
+          "text": "Menyaksikan pertunjukan budaya sebaiknya dilakukan dengan ...",
+          "options": [
+            "meneriaki ejekan",
+            "tertib dan menghormati penampil",
+            "mengganggu panggung",
+            "melempar benda"
+          ],
+          "answer": "tertib dan menghormati penampil",
+          "discussion": "Tertib menunjukkan penghargaan terhadap seniman."
+        },
+        {
+          "id": "K03-PKN-B03-M01-045",
+          "type": "PG",
+          "text": "Jika dua teman berbeda adat saat merayakan hari keluarga, mereka tetap ...",
+          "options": [
+            "dilarang berteman",
+            "bisa saling menghormati",
+            "harus saling bermusuhan",
+            "wajib melakukan acara sama"
+          ],
+          "answer": "bisa saling menghormati",
+          "discussion": "Perbedaan adat tidak menghalangi kerukunan."
+        },
+        {
+          "id": "K03-PKN-B03-M01-046",
+          "type": "PG",
+          "text": "Kerja bakti yang diikuti warga berbagai suku menunjukkan ...",
+          "options": [
+            "persaingan suku",
+            "larangan bekerja sama",
+            "persatuan dan gotong royong",
+            "perpecahan"
+          ],
+          "answer": "persatuan dan gotong royong",
+          "discussion": "Kerja bakti lintas suku merupakan wujud persatuan."
+        },
+        {
+          "id": "K03-PKN-B03-M01-047",
+          "type": "PG",
+          "text": "Bila teman menceritakan makanan khas daerah, kamu bisa ...",
+          "options": [
+            "mengatakan daerahnya buruk",
+            "memaksa dia berhenti",
+            "membuang catatannya",
+            "mendengarkan dan bertanya tentang bahan"
+          ],
+          "answer": "mendengarkan dan bertanya tentang bahan",
+          "discussion": "Mendengarkan cerita budaya adalah sikap menghargai."
+        },
+        {
+          "id": "K03-PKN-B03-M01-048",
+          "type": "PG",
+          "text": "Salah satu manfaat mengenal bahasa daerah lain adalah ...",
+          "options": [
+            "menambah wawasan dan keakraban",
+            "agar dapat mengolok",
+            "agar menghentikan bahasa persatuan",
+            "agar tak mau berbicara"
+          ],
+          "answer": "menambah wawasan dan keakraban",
+          "discussion": "Mengenal bahasa memperluas wawasan."
+        },
+        {
+          "id": "K03-PKN-B03-M01-049",
+          "type": "PG",
+          "text": "Sikap terbaik bila tidak menyukai makanan khas tertentu ...",
+          "options": [
+            "menolak dengan sopan tanpa menghina",
+            "menghina makanannya",
+            "mengejek pembuatnya",
+            "membuang di depan teman"
+          ],
+          "answer": "menolak dengan sopan tanpa menghina",
+          "discussion": "Selera boleh berbeda, penghargaan tetap diperlukan."
+        },
+        {
+          "id": "K03-PKN-B03-M01-050",
+          "type": "PG",
+          "text": "Pesan utama keberagaman bagi anak Indonesia adalah ...",
+          "options": [
+            "hanya satu bahasa daerah boleh dipakai",
+            "berbeda budaya tetap rukun dan bersatu",
+            "semua harus punya adat sama",
+            "anak dari suku lain tidak boleh bermain"
+          ],
+          "answer": "berbeda budaya tetap rukun dan bersatu",
+          "discussion": "Keberagaman harus disertai persatuan dan penghormatan."
+        }
+      ]
+    }
+  ]
+}

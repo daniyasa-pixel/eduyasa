@@ -1,0 +1,53 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Pendidikan Pancasila untuk SD/MI Kelas III",
+    "year": 2023,
+    "authors": [
+      "Ressi Kartika Dewi",
+      "Kamala Rahayu Candra Sary",
+      "Hani Hanifah"
+    ],
+    "isbn_pdf": "978-623-194-631-7",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/pendidikan-pancasila-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README sumber unggahan; konversi ini bukan audit akademik ulang."
+  },
+  "chapter_id": "K03-PKN-B03",
+  "chapter_title": "Berbeda Itu Indah",
+  "learning_objectives": [
+    "Mengenali beberapa suku bangsa dan keberagaman budaya Indonesia tanpa stereotip.",
+    "Menghargai karya budaya, tradisi, dan identitas teman melalui tindakan santun.",
+    "Menjelaskan fungsi Bahasa Indonesia sebagai bahasa persatuan dan makna Bhinneka Tunggal Ika."
+  ],
+  "source_markdown": {
+    "path": "kelas-3/pkn/pkn-b03-materi.md",
+    "sha256": "8b6b722fc60be2b3772f35ab6dde0a4cf79dc65f5094bb84ebc34145a5d340d0"
+  },
+  "modules": [
+    {
+      "id": "K03-PKN-B03-MOD-01",
+      "version": "MOD-01",
+      "title": "Berbeda Itu Indah — Jelajah Nusantara!",
+      "learning_objectives": [
+        "Mengenali beberapa suku bangsa dan keberagaman budaya Indonesia tanpa stereotip.",
+        "Menghargai karya budaya, tradisi, dan identitas teman melalui tindakan santun.",
+        "Menjelaskan fungsi Bahasa Indonesia sebagai bahasa persatuan dan makna Bhinneka Tunggal Ika."
+      ],
+      "content": "# Berbeda Itu Indah — Jelajah Nusantara!\n\nHalo, Teman Hebat! Bayangkan kita naik kereta khayalan melintasi Nusantara. Di tiap pemberhentian, kita bertemu orang dengan bahasa, pakaian, makanan, dan cerita yang berbeda. **Perbedaan adalah kekayaan, bukan alasan untuk mengejek.**\n\n![Peta sederhana tentang suku dan budaya Nusantara.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-materi-01.svg)\n\n## Kekayaan suku bangsaku\n\nIndonesia dihuni banyak suku bangsa. Contohnya, Batak berkaitan dengan Sumatra Utara, Betawi dengan Jakarta, Baduy/Kanekes dengan Banten, Dayak dengan Kalimantan, serta Asmat dengan wilayah Papua. Ini hanya **contoh**, bukan daftar semua suku! Di satu daerah juga dapat hidup banyak suku berbeda.\n\nTemanmu mungkin punya nama, kebiasaan keluarga, atau logat berbeda. Kamu boleh bertanya dengan santun: “Boleh ceritakan kebiasaan unik di daerahmu?” Jangan menirukan logat untuk mengejek.\n\n## Budaya yang beraneka warna\n\n**Budaya** dapat berupa pakaian adat, rumah tradisional, tarian, musik, makanan, kerajinan, bahasa daerah, dan permainan seperti congklak atau egrang. Kita belajar mengenalnya tanpa menganggap salah satu budaya paling hebat. Jika memamerkan benda budaya, mintalah izin sebelum menyentuhnya.\n\n**Ayo berpikir:** Sinta membawa cerita tentang makanan daerahnya, tetapi kamu tidak suka makanan itu. Apakah kamu harus menghinanya? Tentu tidak. Selera berbeda boleh, saling menghormati tetap wajib.\n\n![Gambar ragam budaya, permainan, dan Bahasa Indonesia yang mempersatukan.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-materi-02.svg)\n\n## Bahasa Indonesia menyatukan kita\n\nBahasa Indonesia adalah **bahasa persatuan**. Ketika Nia dan Riko memiliki bahasa daerah berbeda, mereka bisa memakai Bahasa Indonesia untuk berbicara bersama. **Bahasa daerah tidak perlu ditinggalkan**; keduanya berharga.\n\nSemboyan **Bhinneka Tunggal Ika** berarti *berbeda-beda tetapi tetap satu*. Kita dapat hidup rukun melalui kerja sama, sikap hormat, dan kesediaan mendengarkan.\n\n**Misi jelajah:** Ceritakan satu budaya daerah yang ingin kamu pelajari dan alasanmu. Sebutkan juga satu cara bersahabat dengan teman dari daerah lain.\n\n**Pesan utama:** Aku bangga pada budayaku, menghormati budaya teman, dan bersatu sebagai anak Indonesia."
+    },
+    {
+      "id": "K03-PKN-B03-MOD-02",
+      "version": "MOD-02",
+      "title": "Berbeda Itu Indah — Festival Sahabat Indonesia",
+      "learning_objectives": [
+        "Mengenali beberapa suku bangsa dan keberagaman budaya Indonesia tanpa stereotip.",
+        "Menghargai karya budaya, tradisi, dan identitas teman melalui tindakan santun.",
+        "Menjelaskan fungsi Bahasa Indonesia sebagai bahasa persatuan dan makna Bhinneka Tunggal Ika."
+      ],
+      "content": "# Berbeda Itu Indah — Festival Sahabat Indonesia\n\nSelamat datang di **Festival Sahabat Indonesia**! Kamu adalah pembawa acara. Di hadapanmu ada tiga panggung: panggung SUKU, panggung BUDAYA, dan panggung BAHASA. Mari kita jelajahi!\n\n## Panggung 1: Berkenalan dengan suku bangsa\n\nSuku bangsa adalah kelompok masyarakat dengan identitas dan tradisi budaya tertentu. Indonesia memiliki banyak sekali kelompok suku. Misalnya, ada suku Batak di Sumatra Utara, Betawi di Jakarta, Baduy/Kanekes di Banten, Dayak di Kalimantan, dan Asmat di Papua.\n\n![Ilustrasi kartu beragam suku bangsa dan wilayah di Nusantara.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-materi-01.svg)\n\n**Pertanyaan festival:** Ketika temanmu menyebut daerah asal yang baru kamu dengar, apa ucapan yang baik? “Wah, aku belum tahu. Boleh ceritakan lebih banyak?” Itulah rasa ingin tahu yang santun.\n\n## Panggung 2: Galeri budaya\n\nLihatlah pameran kita! Ada contoh rumah tradisional, pakaian adat, permainan tradisional, kerajinan, tarian, serta makanan khas. Tiap daerah punya kisahnya sendiri. Belajarlah dari keluarga, guru, museum, buku, atau narasumber yang tahu tradisinya agar informasi tidak asal tebak.\n\nKamu boleh punya makanan kesukaan sendiri. Kamu juga boleh belum berani mencoba permainan egrang. **Tidak suka suatu hal bukan alasan untuk menghina budaya orang lain.** Pilih kegiatan yang aman dan sesuai kemampuan.\n\n![Gambar festival budaya dan bahasa persatuan.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-materi-02.svg)\n\n## Panggung 3: Bahasa yang menyambungkan\n\nNia berbicara bahasa daerah dengan neneknya. Riko berbicara bahasa daerah lain dengan keluarganya. Saat mereka belajar bersama, keduanya menggunakan **Bahasa Indonesia**. Mereka dapat saling memahami tanpa harus meninggalkan bahasa keluarga.\n\nDi bagian atas panggung tertulis **Bhinneka Tunggal Ika**. Coba ucapkan artinya: “Berbeda-beda tetapi tetap satu.” Persatuan bukan berarti semua orang harus sama. Justru kita saling membantu walaupun berbeda.\n\n## Permainan tiga kartu\n\nPilih satu contoh suku bangsa, satu contoh kegiatan budaya, dan satu cara berbicara santun. Ceritakan ketiganya dalam tiga kalimat pendek. Jika teman punya jawaban lain, dengarkan tanpa mengejek.\n\n**Tepuk persatuan:** Berbeda? Boleh! Menghormati? Pasti! Bersatu? Indonesia!"
+    }
+  ]
+}

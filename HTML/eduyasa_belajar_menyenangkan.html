@@ -462,15 +462,15 @@ img[role="button"]:focus-visible { outline: 3px solid var(--primary); outline-of
 <div id="toast-container"></div>
 <footer>EDUYASA © 2026 • Kurikulum Merdeka</footer>
 
-<script src="./grade-config.js?v=20261111-k03-bin-1"></script>
-<script src="./quiz-bank.js?v=20261111-k03-bin-1"></script>
+<script src="./grade-config.js?v=20261111-k03-pkn-1"></script>
+<script src="./quiz-bank.js?v=20261111-k03-pkn-1"></script>
 <script>
 let gradeConfig;
 try { gradeConfig = EduyasaGrades.resolve(window.location.search); }
 catch (error) {
   document.body.textContent = error.message;
   const back = document.createElement('a');
-  back.href = '../index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-bin-1';
+  back.href = '../index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-pkn-1';
   back.textContent = ' Kembali ke pilihan kelas'; document.body.append(back);
   throw error;
 }
@@ -1298,7 +1298,7 @@ document.getElementById('btnBackToHome').addEventListener('click', () => {
 });
 document.getElementById('btnCancelBackHome').addEventListener('click', closeRestartModal);
 document.getElementById('btnConfirmBackHome').addEventListener('click', () => {
-  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-bin-1';
+  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-pkn-1';
 });
 
 document.getElementById('parentPhone').addEventListener('input', event => {
@@ -1326,7 +1326,7 @@ document.getElementById('reportForm').addEventListener('submit', event => {
 
   // Buka WhatsApp untuk mengirim laporan, lalu kembalikan halaman EDUYASA ke homepage.
   window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
-  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-bin-1';
+  window.location.href = 'https://daniyasa-pixel.github.io/eduyasa/index/EDUYASA%20-%20Belajar%20Menyenangkan.html?v=20261111-k03-pkn-1';
 });
 
 async function testGitHub() {

@@ -1,0 +1,680 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Pendidikan Pancasila untuk SD/MI Kelas III",
+    "year": 2023,
+    "authors": [
+      "Ressi Kartika Dewi",
+      "Kamala Rahayu Candra Sary",
+      "Hani Hanifah"
+    ],
+    "isbn_pdf": "978-623-194-631-7",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/pendidikan-pancasila-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README sumber unggahan; konversi ini bukan audit akademik ulang."
+  },
+  "source_markdown": {
+    "path": "kelas-3/pkn/pkn-b04-soal-biasa.md",
+    "sha256": "dca6c8acb5a276689a496ec377826b794246162d1bc4e5048c9cdeddedf2c9be"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-PKN-B04",
+      "chapter_title": "Ayo Mengenal Pancasila",
+      "questions": [
+        {
+          "id": "K03-PKN-B04-M01-001",
+          "type": "PG",
+          "text": "Pancasila merupakan dasar negara ...",
+          "options": [
+            "Indonesia",
+            "Malaysia",
+            "Jepang",
+            "Australia"
+          ],
+          "answer": "Indonesia",
+          "discussion": "Pancasila adalah dasar negara Indonesia."
+        },
+        {
+          "id": "K03-PKN-B04-M01-002",
+          "type": "PG",
+          "text": "Kata panca dalam Pancasila berarti ...",
+          "options": [
+            "enam",
+            "lima",
+            "tiga",
+            "empat"
+          ],
+          "answer": "lima",
+          "discussion": "Panca bermakna lima."
+        },
+        {
+          "id": "K03-PKN-B04-M01-003",
+          "type": "PG",
+          "text": "Jumlah sila dalam Pancasila adalah ...",
+          "options": [
+            "tiga",
+            "tujuh",
+            "lima",
+            "dua"
+          ],
+          "answer": "lima",
+          "discussion": "Pancasila terdiri dari lima sila."
+        },
+        {
+          "id": "K03-PKN-B04-M01-004",
+          "type": "PG",
+          "text": "Sila pertama Pancasila berbunyi ...",
+          "options": [
+            "Persatuan Indonesia",
+            "Keadilan sosial bagi seluruh rakyat Indonesia",
+            "Kemanusiaan yang adil dan beradab",
+            "Ketuhanan Yang Maha Esa"
+          ],
+          "answer": "Ketuhanan Yang Maha Esa",
+          "discussion": "Bunyi sila pertama adalah Ketuhanan Yang Maha Esa."
+        },
+        {
+          "id": "K03-PKN-B04-M01-005",
+          "type": "PG",
+          "text": "Sila kedua Pancasila berbunyi ...",
+          "options": [
+            "Ketuhanan Yang Maha Esa",
+            "Persatuan Indonesia",
+            "Keadilan sosial bagi seluruh rakyat Indonesia",
+            "Kemanusiaan yang adil dan beradab"
+          ],
+          "answer": "Kemanusiaan yang adil dan beradab",
+          "discussion": "Sila kedua menekankan kemanusiaan yang adil dan beradab."
+        },
+        {
+          "id": "K03-PKN-B04-M01-006",
+          "type": "PG",
+          "text": "Sila ketiga Pancasila berbunyi ...",
+          "options": [
+            "Persatuan Indonesia",
+            "Ketuhanan Yang Maha Esa",
+            "Kemanusiaan yang adil dan beradab",
+            "Keadilan sosial bagi seluruh rakyat Indonesia"
+          ],
+          "answer": "Persatuan Indonesia",
+          "discussion": "Sila ketiga berbunyi Persatuan Indonesia."
+        },
+        {
+          "id": "K03-PKN-B04-M01-007",
+          "type": "PG",
+          "text": "Sila keempat menekankan pengambilan keputusan melalui ...",
+          "options": [
+            "undian untuk semua keputusan",
+            "musyawarah yang bijaksana",
+            "paksaan satu orang",
+            "pertengkaran"
+          ],
+          "answer": "musyawarah yang bijaksana",
+          "discussion": "Musyawarah dan kebijaksanaan merupakan nilai sila keempat."
+        },
+        {
+          "id": "K03-PKN-B04-M01-008",
+          "type": "PG",
+          "text": "Sila kelima berbunyi ...",
+          "options": [
+            "Ketuhanan Yang Maha Esa",
+            "Kemanusiaan yang adil dan beradab",
+            "Keadilan sosial bagi seluruh rakyat Indonesia",
+            "Persatuan Indonesia"
+          ],
+          "answer": "Keadilan sosial bagi seluruh rakyat Indonesia",
+          "discussion": "Sila kelima berbunyi Keadilan sosial bagi seluruh rakyat Indonesia."
+        },
+        {
+          "id": "K03-PKN-B04-M01-009",
+          "type": "PG",
+          "text": "Lambang sila pertama adalah ...",
+          "options": [
+            "pohon beringin",
+            "kepala banteng",
+            "bintang",
+            "rantai"
+          ],
+          "answer": "bintang",
+          "discussion": "Bintang menjadi lambang sila pertama."
+        },
+        {
+          "id": "K03-PKN-B04-M01-010",
+          "type": "PG",
+          "text": "Lambang sila kedua adalah ...",
+          "options": [
+            "bintang",
+            "padi dan kapas",
+            "pohon beringin",
+            "rantai"
+          ],
+          "answer": "rantai",
+          "discussion": "Rantai menjadi lambang sila kedua."
+        },
+        {
+          "id": "K03-PKN-B04-M01-011",
+          "type": "PG",
+          "text": "Lambang sila ketiga adalah ...",
+          "options": [
+            "pohon beringin",
+            "bintang",
+            "kepala banteng",
+            "rantai"
+          ],
+          "answer": "pohon beringin",
+          "discussion": "Pohon beringin menjadi lambang sila ketiga."
+        },
+        {
+          "id": "K03-PKN-B04-M01-012",
+          "type": "PG",
+          "text": "Lambang sila keempat adalah ...",
+          "options": [
+            "padi dan kapas",
+            "kepala banteng",
+            "rantai",
+            "bintang"
+          ],
+          "answer": "kepala banteng",
+          "discussion": "Kepala banteng melambangkan sila keempat."
+        },
+        {
+          "id": "K03-PKN-B04-M01-013",
+          "type": "PG",
+          "text": "Lambang sila kelima adalah ...",
+          "options": [
+            "bintang",
+            "padi dan kapas",
+            "pohon beringin",
+            "rantai"
+          ],
+          "answer": "padi dan kapas",
+          "discussion": "Padi dan kapas melambangkan sila kelima."
+        },
+        {
+          "id": "K03-PKN-B04-M01-014",
+          "type": "PG",
+          "text": "Lambang negara Indonesia yang pada perisainya memuat simbol sila-sila adalah ...",
+          "options": [
+            "burung pipit",
+            "burung cenderawasih",
+            "Garuda Pancasila",
+            "burung merpati"
+          ],
+          "answer": "Garuda Pancasila",
+          "discussion": "Garuda Pancasila adalah lambang negara Indonesia."
+        },
+        {
+          "id": "K03-PKN-B04-M01-015",
+          "type": "PG",
+          "text": "Contoh penerapan sila pertama ialah ...",
+          "options": [
+            "mengganggu ibadah orang lain",
+            "memaksa semua beribadah sama",
+            "mengejek keyakinan teman",
+            "menghormati teman yang sedang beribadah"
+          ],
+          "answer": "menghormati teman yang sedang beribadah",
+          "discussion": "Menghormati ibadah merupakan penerapan nilai Ketuhanan."
+        },
+        {
+          "id": "K03-PKN-B04-M01-016",
+          "type": "PG",
+          "text": "Sikap yang mencerminkan sila kedua ialah ...",
+          "options": [
+            "menolong teman yang jatuh",
+            "menertawakan teman sakit",
+            "merundung anak yang berbeda",
+            "membiarkan teman kesulitan"
+          ],
+          "answer": "menolong teman yang jatuh",
+          "discussion": "Menolong sesama menunjukkan kemanusiaan."
+        },
+        {
+          "id": "K03-PKN-B04-M01-017",
+          "type": "PG",
+          "text": "Saat kerja bakti bersama tanpa membeda-bedakan suku, kita menerapkan sila ...",
+          "options": [
+            "ketiga",
+            "pertama saja",
+            "kedua saja",
+            "kelima saja"
+          ],
+          "answer": "ketiga",
+          "discussion": "Kerja sama yang mempersatukan mencerminkan sila ketiga."
+        },
+        {
+          "id": "K03-PKN-B04-M01-018",
+          "type": "PG",
+          "text": "Saat kelas memilih kegiatan melalui musyawarah, nilai yang tampak terutama sila ...",
+          "options": [
+            "kelima",
+            "keempat",
+            "pertama",
+            "kedua"
+          ],
+          "answer": "keempat",
+          "discussion": "Musyawarah berkaitan dengan sila keempat."
+        },
+        {
+          "id": "K03-PKN-B04-M01-019",
+          "type": "PG",
+          "text": "Membagi alat belajar secara adil mencerminkan terutama sila ...",
+          "options": [
+            "ketiga",
+            "kedua",
+            "kelima",
+            "pertama"
+          ],
+          "answer": "kelima",
+          "discussion": "Perilaku adil merupakan penerapan sila kelima."
+        },
+        {
+          "id": "K03-PKN-B04-M01-020",
+          "type": "PG",
+          "text": "Ketika teman membutuhkan kesempatan berbicara, kamu sebaiknya ...",
+          "options": [
+            "memaksanya diam",
+            "mengejek pendapatnya",
+            "langsung menyalahkan",
+            "mendengarkan dengan hormat"
+          ],
+          "answer": "mendengarkan dengan hormat",
+          "discussion": "Menghargai suara orang lain mendukung musyawarah."
+        },
+        {
+          "id": "K03-PKN-B04-M01-021",
+          "type": "PG",
+          "text": "Sikap yang sesuai nilai Pancasila kepada teman berbeda keyakinan adalah ...",
+          "options": [
+            "Menghormati ibadah dan keyakinannya",
+            "Mengejek kebiasaannya",
+            "Memaksanya mengikuti keyakinan kita",
+            "Melarangnya berteman"
+          ],
+          "answer": "Menghormati ibadah dan keyakinannya",
+          "discussion": "Menghormati keyakinan dan ibadah orang lain mencerminkan nilai Ketuhanan serta penghargaan terhadap sesama."
+        },
+        {
+          "id": "K03-PKN-B04-M01-022",
+          "type": "PG",
+          "text": "Tindakan peduli ketika tetangga terkena musibah ialah ...",
+          "options": [
+            "membantu sesuai kemampuan dengan aman",
+            "menertawakannya",
+            "menjauhi karena berbeda",
+            "menyebarkan ejekan"
+          ],
+          "answer": "membantu sesuai kemampuan dengan aman",
+          "discussion": "Kepedulian dan kemanusiaan mendorong kita membantu."
+        },
+        {
+          "id": "K03-PKN-B04-M01-023",
+          "type": "PG",
+          "text": "Saat bermain bersama, sikap yang sesuai Pancasila adalah ...",
+          "options": [
+            "selalu ingin menang",
+            "mengajak semua teman tanpa membeda-bedakan",
+            "memilih hanya anak kaya",
+            "mengusir yang berbeda suku"
+          ],
+          "answer": "mengajak semua teman tanpa membeda-bedakan",
+          "discussion": "Kebersamaan tanpa diskriminasi sesuai nilai Pancasila."
+        },
+        {
+          "id": "K03-PKN-B04-M01-024",
+          "type": "PG",
+          "text": "Musyawarah dilakukan agar keputusan ...",
+          "options": [
+            "ditentukan anak paling keras",
+            "selalu dibuat diam-diam",
+            "memperhatikan pendapat dan kepentingan bersama",
+            "hanya menguntungkan ketua"
+          ],
+          "answer": "memperhatikan pendapat dan kepentingan bersama",
+          "discussion": "Musyawarah bertujuan mencapai keputusan bersama yang bijaksana."
+        },
+        {
+          "id": "K03-PKN-B04-M01-025",
+          "type": "PG",
+          "text": "Jika pendapatmu tidak dipilih dalam musyawarah, kamu sebaiknya ...",
+          "options": [
+            "menghina semua teman",
+            "membubarkan rapat",
+            "menerima hasil yang disepakati dan tetap membantu",
+            "merusak alat kelompok"
+          ],
+          "answer": "menerima hasil yang disepakati dan tetap membantu",
+          "discussion": "Menerima keputusan yang adil merupakan sikap lapang dada."
+        },
+        {
+          "id": "K03-PKN-B04-M01-026",
+          "type": "PG",
+          "text": "Sikap adil saat membagi giliran menggunakan alat ialah ...",
+          "options": [
+            "mengambil terus untuk diri sendiri",
+            "melarang anggota lain",
+            "menjual alat teman",
+            "memberi kesempatan sesuai aturan bersama"
+          ],
+          "answer": "memberi kesempatan sesuai aturan bersama",
+          "discussion": "Keadilan memberi kesempatan wajar kepada semua."
+        },
+        {
+          "id": "K03-PKN-B04-M01-027",
+          "type": "PG",
+          "text": "Ketika satu teman kesulitan karena keterbatasannya, kamu ...",
+          "options": [
+            "menawarkan bantuan dengan hormat",
+            "menjadikannya bahan tertawaan",
+            "menghindarinya selamanya",
+            "menyembunyikan alat bantu"
+          ],
+          "answer": "menawarkan bantuan dengan hormat",
+          "discussion": "Menghargai martabat dan membantu orang adalah nilai kemanusiaan."
+        },
+        {
+          "id": "K03-PKN-B04-M01-028",
+          "type": "PG",
+          "text": "Saat teman menjalankan ibadah menurut keyakinannya, kita ...",
+          "options": [
+            "membuat keributan",
+            "memberi kesempatan dan menghormati",
+            "memaksa berhenti",
+            "mengolok-olok"
+          ],
+          "answer": "memberi kesempatan dan menghormati",
+          "discussion": "Sikap hormat sesuai sila pertama."
+        },
+        {
+          "id": "K03-PKN-B04-M01-029",
+          "type": "PG",
+          "text": "Kegiatan warga memperbaiki lingkungan bersama merupakan contoh ...",
+          "options": [
+            "pengucilan",
+            "gotong royong",
+            "perundungan",
+            "pertengkaran"
+          ],
+          "answer": "gotong royong",
+          "discussion": "Gotong royong memperkuat persatuan."
+        },
+        {
+          "id": "K03-PKN-B04-M01-030",
+          "type": "PG",
+          "text": "Jika teman memiliki makanan berbeda karena keyakinannya, sikap benar adalah ...",
+          "options": [
+            "mengejeknya",
+            "mengambil makanannya",
+            "menghormati pilihannya",
+            "memaksa memakan"
+          ],
+          "answer": "menghormati pilihannya",
+          "discussion": "Penghormatan terhadap keyakinan dan pilihan pribadi penting."
+        },
+        {
+          "id": "K03-PKN-B04-M01-031",
+          "type": "PG",
+          "text": "Tanggal 1 Juni diperingati sebagai hari ...",
+          "options": [
+            "Kemerdekaan Republik Indonesia",
+            "Pendidikan Nasional",
+            "Sumpah Pemuda",
+            "Kelahiran Pancasila"
+          ],
+          "answer": "Kelahiran Pancasila",
+          "discussion": "Tanggal 1 Juni adalah Hari Lahir Pancasila."
+        },
+        {
+          "id": "K03-PKN-B04-M01-032",
+          "type": "PG",
+          "text": "Tanggal 17 Agustus 1945 diperingati sebagai hari ...",
+          "options": [
+            "Proklamasi Kemerdekaan Indonesia",
+            "Kelahiran Pancasila",
+            "Hari Kartini",
+            "Hari Pendidikan Nasional"
+          ],
+          "answer": "Proklamasi Kemerdekaan Indonesia",
+          "discussion": "Indonesia memproklamasikan kemerdekaan pada 17 Agustus 1945."
+        },
+        {
+          "id": "K03-PKN-B04-M01-033",
+          "type": "PG",
+          "text": "Tanggal 18 Agustus 1945 berkaitan dengan ...",
+          "options": [
+            "pengesahan UUD 1945 yang memuat rumusan Pancasila dalam Pembukaan",
+            "pencetakan buku pelajaran pertama",
+            "pembukaan taman bermain",
+            "peresmian sekolah pertama"
+          ],
+          "answer": "pengesahan UUD 1945 yang memuat rumusan Pancasila dalam Pembukaan",
+          "discussion": "Pada 18 Agustus 1945 PPKI mengesahkan UUD 1945 dengan rumusan Pancasila di Pembukaannya."
+        },
+        {
+          "id": "K03-PKN-B04-M01-034",
+          "type": "PG",
+          "text": "Sukarno dikenal sebagai ...",
+          "options": [
+            "penulis buku geometri pertama",
+            "Presiden pertama Republik Indonesia",
+            "Wakil Presiden pertama Republik Indonesia",
+            "penemu mesin uap"
+          ],
+          "answer": "Presiden pertama Republik Indonesia",
+          "discussion": "Sukarno adalah Presiden pertama RI."
+        },
+        {
+          "id": "K03-PKN-B04-M01-035",
+          "type": "PG",
+          "text": "Mohammad Hatta dikenal sebagai ...",
+          "options": [
+            "pencipta lambang rantai",
+            "penyanyi lagu daerah",
+            "Wakil Presiden pertama Republik Indonesia",
+            "Presiden pertama Republik Indonesia"
+          ],
+          "answer": "Wakil Presiden pertama Republik Indonesia",
+          "discussion": "Mohammad Hatta adalah Wakil Presiden pertama Republik Indonesia."
+        },
+        {
+          "id": "K03-PKN-B04-M01-036",
+          "type": "PG",
+          "text": "Panitia Sembilan berkaitan dengan ...",
+          "options": [
+            "pemilihan juara kelas",
+            "lomba sepak bola sekolah",
+            "pembuatan aturan kantin",
+            "proses penyusunan rumusan dasar negara"
+          ],
+          "answer": "proses penyusunan rumusan dasar negara",
+          "discussion": "Panitia Sembilan berperan dalam proses perumusan dasar negara."
+        },
+        {
+          "id": "K03-PKN-B04-M01-037",
+          "type": "PG",
+          "text": "Teladan tokoh perumus Pancasila yang bisa kita tiru adalah ...",
+          "options": [
+            "memaksakan kehendak",
+            "mengejek perbedaan",
+            "menolak bekerja sama",
+            "mendahulukan persatuan dan berdiskusi"
+          ],
+          "answer": "mendahulukan persatuan dan berdiskusi",
+          "discussion": "Tokoh perumus menunjukkan semangat persatuan dan musyawarah."
+        },
+        {
+          "id": "K03-PKN-B04-M01-038",
+          "type": "PG",
+          "text": "Ketika terjadi perbedaan pendapat saat rapat kelas, teladan para perumus ialah ...",
+          "options": [
+            "berdialog untuk mencari kesepakatan",
+            "saling berteriak terus",
+            "menghina kelompok lain",
+            "meninggalkan tugas bersama"
+          ],
+          "answer": "berdialog untuk mencari kesepakatan",
+          "discussion": "Musyawarah dan saling menghormati penting dalam perumusan Pancasila."
+        },
+        {
+          "id": "K03-PKN-B04-M01-039",
+          "type": "PG",
+          "text": "Sikap berani menyampaikan gagasan dengan sopan mencerminkan keteladanan ...",
+          "options": [
+            "pelanggar aturan",
+            "para tokoh perumus Pancasila",
+            "anak yang suka mengejek",
+            "orang yang selalu memaksakan kehendak"
+          ],
+          "answer": "para tokoh perumus Pancasila",
+          "discussion": "Perumus Pancasila menyampaikan gagasan untuk kepentingan bangsa."
+        },
+        {
+          "id": "K03-PKN-B04-M01-040",
+          "type": "PG",
+          "text": "Mengapa para tokoh perumus perlu bekerja sama?",
+          "options": [
+            "agar satu kelompok paling berkuasa",
+            "agar tidak perlu mendengar orang lain",
+            "karena bangsa Indonesia beragam dan membutuhkan dasar negara pemersatu",
+            "karena semua setuju tanpa pembicaraan"
+          ],
+          "answer": "karena bangsa Indonesia beragam dan membutuhkan dasar negara pemersatu",
+          "discussion": "Kerja sama dan menghargai perbedaan penting untuk menyatukan bangsa."
+        },
+        {
+          "id": "K03-PKN-B04-M01-041",
+          "type": "PG",
+          "text": "Sikap yang menghormati jasa perumus Pancasila adalah ...",
+          "options": [
+            "mengejek para tokoh",
+            "memaksa teman berbeda pendapat",
+            "mempelajari dan mengamalkan nilai Pancasila",
+            "melupakan sejarah dengan sengaja"
+          ],
+          "answer": "mempelajari dan mengamalkan nilai Pancasila",
+          "discussion": "Mengamalkan nilai Pancasila merupakan penghormatan nyata."
+        },
+        {
+          "id": "K03-PKN-B04-M01-042",
+          "type": "PG",
+          "text": "Di sekolah, bentuk sederhana musyawarah adalah ...",
+          "options": [
+            "merebut semua tugas",
+            "menyerah tanpa mendengar",
+            "membiarkan satu anak menentukan semuanya",
+            "membicarakan pembagian tugas kelompok"
+          ],
+          "answer": "membicarakan pembagian tugas kelompok",
+          "discussion": "Pembagian tugas dapat disepakati bersama."
+        },
+        {
+          "id": "K03-PKN-B04-M01-043",
+          "type": "PG",
+          "text": "Salah satu wujud kemanusiaan di sekolah ialah ...",
+          "options": [
+            "membantu teman yang sakit",
+            "mengucilkan teman",
+            "merampas alat belajar",
+            "menyebarkan gosip buruk"
+          ],
+          "answer": "membantu teman yang sakit",
+          "discussion": "Menolong teman merupakan kepedulian terhadap sesama."
+        },
+        {
+          "id": "K03-PKN-B04-M01-044",
+          "type": "PG",
+          "text": "Contoh persatuan di rumah adalah ...",
+          "options": [
+            "menolak semua pekerjaan",
+            "membantu anggota keluarga merapikan rumah",
+            "saling menyalahkan",
+            "membagi keluarga menjadi kelompok bermusuhan"
+          ],
+          "answer": "membantu anggota keluarga merapikan rumah",
+          "discussion": "Kerja sama keluarga menguatkan persatuan."
+        },
+        {
+          "id": "K03-PKN-B04-M01-045",
+          "type": "PG",
+          "text": "Cara adil membagi makanan saat kegiatan kelas adalah ...",
+          "options": [
+            "melarang murid baru",
+            "membagikan sesuai kebutuhan dan kesepakatan tanpa pilih kasih",
+            "memberi semua kepada sahabat saja",
+            "menyembunyikan makanan untuk sendiri"
+          ],
+          "answer": "membagikan sesuai kebutuhan dan kesepakatan tanpa pilih kasih",
+          "discussion": "Keadilan mempertimbangkan hak serta kebutuhan semua orang."
+        },
+        {
+          "id": "K03-PKN-B04-M01-046",
+          "type": "PG",
+          "text": "Jika kamu dipilih memimpin diskusi, sebaiknya ...",
+          "options": [
+            "mengejek usul",
+            "mengutamakan geng sendiri",
+            "memberi kesempatan semua anggota bicara",
+            "memutuskan sendiri tanpa mendengar"
+          ],
+          "answer": "memberi kesempatan semua anggota bicara",
+          "discussion": "Pemimpin diskusi harus mendengarkan berbagai pendapat."
+        },
+        {
+          "id": "K03-PKN-B04-M01-047",
+          "type": "PG",
+          "text": "Mengapa rantai cocok menjadi lambang kemanusiaan?",
+          "options": [
+            "rantai untuk mengikat teman",
+            "rantai harus disembunyikan",
+            "rantai dipakai agar teman takut",
+            "mata rantai saling terhubung melambangkan hubungan antarmanusia"
+          ],
+          "answer": "mata rantai saling terhubung melambangkan hubungan antarmanusia",
+          "discussion": "Mata rantai melambangkan manusia yang saling terhubung."
+        },
+        {
+          "id": "K03-PKN-B04-M01-048",
+          "type": "PG",
+          "text": "Pohon beringin mengingatkan kita untuk ...",
+          "options": [
+            "bersatu dan menjadi tempat bernaung bersama",
+            "hanya bergaul dengan orang yang sama",
+            "melarang perbedaan",
+            "hidup sendiri-sendiri"
+          ],
+          "answer": "bersatu dan menjadi tempat bernaung bersama",
+          "discussion": "Beringin menjadi lambang persatuan Indonesia."
+        },
+        {
+          "id": "K03-PKN-B04-M01-049",
+          "type": "PG",
+          "text": "Kepala banteng melambangkan antara lain ...",
+          "options": [
+            "kebersamaan dalam mengambil keputusan",
+            "keharusan bertengkar",
+            "larangan berdiskusi",
+            "hak satu orang berkuasa"
+          ],
+          "answer": "kebersamaan dalam mengambil keputusan",
+          "discussion": "Banteng merupakan lambang sila musyawarah."
+        },
+        {
+          "id": "K03-PKN-B04-M01-050",
+          "type": "PG",
+          "text": "Padi dan kapas mengingatkan kita pada ...",
+          "options": [
+            "keharusan hanya menanam padi",
+            "keadilan sosial dan kebutuhan hidup yang layak",
+            "membeda-bedakan teman",
+            "larangan bekerja sama"
+          ],
+          "answer": "keadilan sosial dan kebutuhan hidup yang layak",
+          "discussion": "Padi dan kapas melambangkan kebutuhan pangan dan sandang dalam keadilan sosial."
+        }
+      ]
+    }
+  ]
+}

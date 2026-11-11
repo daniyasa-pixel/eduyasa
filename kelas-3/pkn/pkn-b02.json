@@ -1,0 +1,680 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Pendidikan Pancasila untuk SD/MI Kelas III",
+    "year": 2023,
+    "authors": [
+      "Ressi Kartika Dewi",
+      "Kamala Rahayu Candra Sary",
+      "Hani Hanifah"
+    ],
+    "isbn_pdf": "978-623-194-631-7",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/pendidikan-pancasila-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README sumber unggahan; konversi ini bukan audit akademik ulang."
+  },
+  "source_markdown": {
+    "path": "kelas-3/pkn/pkn-b02-soal-biasa.md",
+    "sha256": "ee43eff1cc4ccbd8473573f5d3dd7c9c030592961b4732502230eb439d74b7b4"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-PKN-B02",
+      "chapter_title": "Aku Patuh Aturan",
+      "questions": [
+        {
+          "id": "K03-PKN-B02-M01-001",
+          "type": "PG",
+          "text": "Aturan dibuat agar kehidupan bersama menjadi ...",
+          "options": [
+            "tertib dan aman",
+            "kacau dan bising",
+            "penuh pertengkaran",
+            "tanpa tanggung jawab"
+          ],
+          "answer": "tertib dan aman",
+          "discussion": "Aturan membantu orang hidup tertib dan aman."
+        },
+        {
+          "id": "K03-PKN-B02-M01-002",
+          "type": "PG",
+          "text": "Salah satu aturan di kelas adalah ...",
+          "options": [
+            "menyela terus-menerus",
+            "mengangkat tangan sebelum berbicara saat diskusi",
+            "mencoret meja",
+            "berlari di atas bangku"
+          ],
+          "answer": "mengangkat tangan sebelum berbicara saat diskusi",
+          "discussion": "Mengangkat tangan membantu semua mendapat giliran bicara."
+        },
+        {
+          "id": "K03-PKN-B02-M01-003",
+          "type": "PG",
+          "text": "Mengapa kita berjalan hati-hati di koridor sekolah?",
+          "options": [
+            "agar lebih cepat mengganggu teman",
+            "agar lantai cepat rusak",
+            "agar tidak bertabrakan",
+            "agar terlihat paling hebat"
+          ],
+          "answer": "agar tidak bertabrakan",
+          "discussion": "Berjalan tertib mengurangi risiko bertabrakan."
+        },
+        {
+          "id": "K03-PKN-B02-M01-004",
+          "type": "PG",
+          "text": "Ketika bel masuk berbunyi, tindakan tepat ialah ...",
+          "options": [
+            "menyembunyikan buku teman",
+            "terus berlari di halaman tanpa izin",
+            "berteriak di depan kelas",
+            "bersiap mengikuti pelajaran"
+          ],
+          "answer": "bersiap mengikuti pelajaran",
+          "discussion": "Bel masuk menandai waktu kegiatan belajar."
+        },
+        {
+          "id": "K03-PKN-B02-M01-005",
+          "type": "PG",
+          "text": "Saat menggunakan perpustakaan, siswa harus ...",
+          "options": [
+            "mengembalikan buku pada tempat yang ditentukan",
+            "merobek halaman",
+            "menyembunyikan buku",
+            "membawa pulang tanpa izin"
+          ],
+          "answer": "mengembalikan buku pada tempat yang ditentukan",
+          "discussion": "Memelihara dan mengembalikan buku menjaga hak pembaca lain."
+        },
+        {
+          "id": "K03-PKN-B02-M01-006",
+          "type": "PG",
+          "text": "Jika menemukan sampah di kelas, tindakan yang sesuai aturan kebersihan ...",
+          "options": [
+            "membuang ke tempat sampah",
+            "melempar ke meja teman",
+            "meninggalkan di lantai",
+            "menyembunyikan di laci"
+          ],
+          "answer": "membuang ke tempat sampah",
+          "discussion": "Kebersihan kelas adalah tanggung jawab bersama."
+        },
+        {
+          "id": "K03-PKN-B02-M01-007",
+          "type": "PG",
+          "text": "Aturan sekolah berlaku bagi ...",
+          "options": [
+            "hanya siswa yang terlambat",
+            "semua warga sekolah sesuai perannya",
+            "hanya siswa baru",
+            "hanya ketua kelas"
+          ],
+          "answer": "semua warga sekolah sesuai perannya",
+          "discussion": "Aturan dipatuhi oleh semua warga sekolah sesuai tanggung jawabnya."
+        },
+        {
+          "id": "K03-PKN-B02-M01-008",
+          "type": "PG",
+          "text": "Jika tidak memahami aturan kelas, sebaiknya ...",
+          "options": [
+            "mengejek pembuat aturan",
+            "mengajak teman melanggar",
+            "bertanya dengan sopan kepada guru",
+            "langsung melanggarnya"
+          ],
+          "answer": "bertanya dengan sopan kepada guru",
+          "discussion": "Memahami aturan membantu kita mematuhinya."
+        },
+        {
+          "id": "K03-PKN-B02-M01-009",
+          "type": "PG",
+          "text": "Ketika teman tidak sengaja melanggar aturan, kita dapat ...",
+          "options": [
+            "langsung mempermalukannya",
+            "membalas dengan pelanggaran",
+            "merekam untuk mengejek",
+            "mengingatkannya dengan baik"
+          ],
+          "answer": "mengingatkannya dengan baik",
+          "discussion": "Peringatan yang santun membantu teman memperbaiki sikap."
+        },
+        {
+          "id": "K03-PKN-B02-M01-010",
+          "type": "PG",
+          "text": "Aturan keselamatan di tangga sekolah adalah ...",
+          "options": [
+            "tidak saling mendorong",
+            "berlomba melompat",
+            "berjalan sambil menutup mata",
+            "menahan jalan orang lain"
+          ],
+          "answer": "tidak saling mendorong",
+          "discussion": "Tidak mendorong membantu mencegah jatuh."
+        },
+        {
+          "id": "K03-PKN-B02-M01-011",
+          "type": "PG",
+          "text": "Kesepakatan kelas sebaiknya dibuat melalui ...",
+          "options": [
+            "diskusi dan persetujuan bersama",
+            "perintah satu anak saja",
+            "undi nasib tanpa berbicara",
+            "ancaman kepada teman"
+          ],
+          "answer": "diskusi dan persetujuan bersama",
+          "discussion": "Kesepakatan lahir dari pembicaraan dan persetujuan bersama."
+        },
+        {
+          "id": "K03-PKN-B02-M01-012",
+          "type": "PG",
+          "text": "Saat menyusun kesepakatan, semua siswa sebaiknya ...",
+          "options": [
+            "saling mengejek",
+            "mendapat kesempatan menyampaikan pendapat",
+            "dipaksa diam",
+            "hanya mengikuti anak paling keras"
+          ],
+          "answer": "mendapat kesempatan menyampaikan pendapat",
+          "discussion": "Setiap siswa perlu didengar saat membuat kesepakatan."
+        },
+        {
+          "id": "K03-PKN-B02-M01-013",
+          "type": "PG",
+          "text": "Jika pendapatmu berbeda dalam musyawarah kelas, kamu sebaiknya ...",
+          "options": [
+            "mengancam teman",
+            "langsung meninggalkan diskusi",
+            "menyampaikan alasan dengan santun",
+            "memukul meja"
+          ],
+          "answer": "menyampaikan alasan dengan santun",
+          "discussion": "Pendapat berbeda boleh disampaikan dengan santun."
+        },
+        {
+          "id": "K03-PKN-B02-M01-014",
+          "type": "PG",
+          "text": "Ketika kesepakatan kelas sudah disetujui, siswa perlu ...",
+          "options": [
+            "mengabaikannya esok hari",
+            "melanggarnya ketika guru pergi",
+            "menertawakannya",
+            "melaksanakannya dengan tanggung jawab"
+          ],
+          "answer": "melaksanakannya dengan tanggung jawab",
+          "discussion": "Kesepakatan bersama perlu dijalankan bersama."
+        },
+        {
+          "id": "K03-PKN-B02-M01-015",
+          "type": "PG",
+          "text": "Contoh kesepakatan untuk diskusi kelompok adalah ...",
+          "options": [
+            "mendengarkan teman sampai selesai",
+            "semua berbicara bersamaan",
+            "melarang anggota baru bicara",
+            "mengejek jawaban salah"
+          ],
+          "answer": "mendengarkan teman sampai selesai",
+          "discussion": "Mendengarkan bergiliran membuat diskusi tertib."
+        },
+        {
+          "id": "K03-PKN-B02-M01-016",
+          "type": "PG",
+          "text": "Jika kesepakatan kelas terasa kurang tepat, langkah baik adalah ...",
+          "options": [
+            "mengusulkan pembahasan ulang secara sopan",
+            "melanggar diam-diam",
+            "merusak poster",
+            "menyalahkan semua teman"
+          ],
+          "answer": "mengusulkan pembahasan ulang secara sopan",
+          "discussion": "Kesepakatan dapat ditinjau bersama melalui diskusi."
+        },
+        {
+          "id": "K03-PKN-B02-M01-017",
+          "type": "PG",
+          "text": "Alasan mematuhi kesepakatan bukan hanya takut hukuman, tetapi ...",
+          "options": [
+            "ingin selalu menang",
+            "menghargai kepentingan bersama",
+            "ingin dipuji saja",
+            "agar teman takut"
+          ],
+          "answer": "menghargai kepentingan bersama",
+          "discussion": "Kepatuhan lahir dari tanggung jawab bersama."
+        },
+        {
+          "id": "K03-PKN-B02-M01-018",
+          "type": "PG",
+          "text": "Saat memilih aturan kerja kelompok, pilihan adil adalah ...",
+          "options": [
+            "anak pendiam tidak diberi kesempatan",
+            "anak yang berbeda diusir",
+            "semua berbagi tugas sesuai kemampuan",
+            "satu anak bekerja sendiri"
+          ],
+          "answer": "semua berbagi tugas sesuai kemampuan",
+          "discussion": "Pembagian tugas adil memperhatikan kemampuan anggota."
+        },
+        {
+          "id": "K03-PKN-B02-M01-019",
+          "type": "PG",
+          "text": "Sikap selama teman memberikan usul adalah ...",
+          "options": [
+            "membuat keributan",
+            "menutup telinga",
+            "memotong setiap kalimat",
+            "mendengarkan tanpa mengejek"
+          ],
+          "answer": "mendengarkan tanpa mengejek",
+          "discussion": "Mendengarkan adalah bagian dari musyawarah."
+        },
+        {
+          "id": "K03-PKN-B02-M01-020",
+          "type": "PG",
+          "text": "Contoh konsekuensi wajar ketika lupa merapikan alat belajar ialah ...",
+          "options": [
+            "segera merapikannya",
+            "menuduh teman",
+            "menyembunyikan alat",
+            "merusak alat lain"
+          ],
+          "answer": "segera merapikannya",
+          "discussion": "Memperbaiki kekeliruan merupakan tanggung jawab."
+        },
+        {
+          "id": "K03-PKN-B02-M01-021",
+          "type": "PG",
+          "text": "Hak adalah sesuatu yang ...",
+          "options": [
+            "layak kita terima",
+            "wajib selalu kita kerjakan",
+            "boleh kita rebut dari orang lain",
+            "tidak boleh dimiliki anak"
+          ],
+          "answer": "layak kita terima",
+          "discussion": "Hak ialah hal yang layak diterima seseorang."
+        },
+        {
+          "id": "K03-PKN-B02-M01-022",
+          "type": "PG",
+          "text": "Kewajiban adalah sesuatu yang ...",
+          "options": [
+            "dapat dilemparkan ke teman",
+            "perlu kita lakukan dengan tanggung jawab",
+            "boleh selalu diabaikan",
+            "hanya dilakukan saat diawasi"
+          ],
+          "answer": "perlu kita lakukan dengan tanggung jawab",
+          "discussion": "Kewajiban adalah tanggung jawab yang mesti dilaksanakan."
+        },
+        {
+          "id": "K03-PKN-B02-M01-023",
+          "type": "PG",
+          "text": "Contoh hak anak di rumah ialah ...",
+          "options": [
+            "merusak rumah",
+            "melarang orang tua istirahat",
+            "mendapat kasih sayang dan perlindungan",
+            "memerintah semua orang"
+          ],
+          "answer": "mendapat kasih sayang dan perlindungan",
+          "discussion": "Anak berhak atas kasih sayang dan perlindungan."
+        },
+        {
+          "id": "K03-PKN-B02-M01-024",
+          "type": "PG",
+          "text": "Contoh kewajiban sesuai usia di rumah ialah ...",
+          "options": [
+            "menggunakan alat listrik berbahaya sendiri",
+            "mengerjakan semua pekerjaan orang dewasa",
+            "memaksa adik bekerja",
+            "merapikan mainan setelah digunakan"
+          ],
+          "answer": "merapikan mainan setelah digunakan",
+          "discussion": "Merapikan mainan sesuai kemampuan merupakan tanggung jawab."
+        },
+        {
+          "id": "K03-PKN-B02-M01-025",
+          "type": "PG",
+          "text": "Saat orang tua sedang bekerja, anak dapat membantu dengan ...",
+          "options": [
+            "menjaga kerapian ruang bermain",
+            "membuat rumah semakin kotor",
+            "berteriak tanpa henti",
+            "menyembunyikan alat rumah tangga"
+          ],
+          "answer": "menjaga kerapian ruang bermain",
+          "discussion": "Bantuan kecil yang aman meringankan tugas keluarga."
+        },
+        {
+          "id": "K03-PKN-B02-M01-026",
+          "type": "PG",
+          "text": "Anak mempunyai hak untuk beristirahat. Contoh memenuhinya adalah ...",
+          "options": [
+            "tidur cukup sesuai kebutuhan",
+            "belajar tanpa jeda sepanjang malam",
+            "bermain gawai sampai pagi",
+            "menolak makan"
+          ],
+          "answer": "tidur cukup sesuai kebutuhan",
+          "discussion": "Istirahat cukup mendukung kesehatan dan belajar."
+        },
+        {
+          "id": "K03-PKN-B02-M01-027",
+          "type": "PG",
+          "text": "Jika mendapat tugas menyiram tanaman di rumah, tindakan tepat ialah ...",
+          "options": [
+            "menghilangkan alat",
+            "melakukannya sesuai kesepakatan",
+            "menunggu tanaman layu",
+            "menyalahkan adik"
+          ],
+          "answer": "melakukannya sesuai kesepakatan",
+          "discussion": "Menjalankan tugas yang disepakati adalah kewajiban."
+        },
+        {
+          "id": "K03-PKN-B02-M01-028",
+          "type": "PG",
+          "text": "Ketika ibu atau ayah memberi nasihat keselamatan, kita sebaiknya ...",
+          "options": [
+            "menutup telinga",
+            "mengejek nasihat",
+            "mendengarkan dan bertanya jika belum paham",
+            "sengaja melanggar"
+          ],
+          "answer": "mendengarkan dan bertanya jika belum paham",
+          "discussion": "Nasihat keselamatan membantu menjaga diri."
+        },
+        {
+          "id": "K03-PKN-B02-M01-029",
+          "type": "PG",
+          "text": "Hak belajar di rumah perlu didukung dengan ...",
+          "options": [
+            "larangan membaca semua buku",
+            "gangguan terus-menerus",
+            "paksaan bekerja tanpa istirahat",
+            "tempat dan waktu belajar yang sesuai"
+          ],
+          "answer": "tempat dan waktu belajar yang sesuai",
+          "discussion": "Anak perlu dukungan untuk belajar."
+        },
+        {
+          "id": "K03-PKN-B02-M01-030",
+          "type": "PG",
+          "text": "Mengapa hak setiap anggota keluarga harus dihargai?",
+          "options": [
+            "supaya semua merasa aman dan diperlakukan baik",
+            "supaya satu orang berkuasa",
+            "supaya tak ada tugas bersama",
+            "supaya bebas menyakiti"
+          ],
+          "answer": "supaya semua merasa aman dan diperlakukan baik",
+          "discussion": "Menghormati hak membuat keluarga hidup nyaman."
+        },
+        {
+          "id": "K03-PKN-B02-M01-031",
+          "type": "PG",
+          "text": "Hak siswa di sekolah antara lain ...",
+          "options": [
+            "mendapat kesempatan belajar",
+            "memukul teman",
+            "merusak buku sekolah",
+            "mengusir teman"
+          ],
+          "answer": "mendapat kesempatan belajar",
+          "discussion": "Belajar dengan aman merupakan hak siswa."
+        },
+        {
+          "id": "K03-PKN-B02-M01-032",
+          "type": "PG",
+          "text": "Kewajiban siswa terhadap fasilitas sekolah adalah ...",
+          "options": [
+            "membawa pulang tanpa izin",
+            "menggunakannya dengan hati-hati",
+            "mencoret dinding",
+            "merusak kursi"
+          ],
+          "answer": "menggunakannya dengan hati-hati",
+          "discussion": "Fasilitas bersama harus dijaga."
+        },
+        {
+          "id": "K03-PKN-B02-M01-033",
+          "type": "PG",
+          "text": "Jika ingin meminjam penghapus teman, sebaiknya ...",
+          "options": [
+            "menyembunyikan setelah dipakai",
+            "merusaknya",
+            "meminta izin terlebih dahulu",
+            "langsung mengambil diam-diam"
+          ],
+          "answer": "meminta izin terlebih dahulu",
+          "discussion": "Meminta izin menghargai hak milik teman."
+        },
+        {
+          "id": "K03-PKN-B02-M01-034",
+          "type": "PG",
+          "text": "Siswa yang mendapatkan penjelasan guru seharusnya ...",
+          "options": [
+            "mengganggu teman",
+            "menutup buku semua orang",
+            "berteriak tanpa alasan",
+            "menyimak dan bertanya saat perlu"
+          ],
+          "answer": "menyimak dan bertanya saat perlu",
+          "discussion": "Kesempatan belajar perlu dimanfaatkan dengan baik."
+        },
+        {
+          "id": "K03-PKN-B02-M01-035",
+          "type": "PG",
+          "text": "Ketika teman sedang belajar, tindakan yang menghormati haknya ialah ...",
+          "options": [
+            "menjaga ketenangan",
+            "berteriak dekat telinganya",
+            "menarik bukunya",
+            "mengambil kursinya"
+          ],
+          "answer": "menjaga ketenangan",
+          "discussion": "Ketenangan membantu orang lain belajar."
+        },
+        {
+          "id": "K03-PKN-B02-M01-036",
+          "type": "PG",
+          "text": "Jika melihat perundungan di sekolah, tindakan aman ialah ...",
+          "options": [
+            "mencari bantuan guru atau orang dewasa tepercaya",
+            "ikut menertawakan",
+            "membalas dengan kekerasan",
+            "membagikan video ejekan"
+          ],
+          "answer": "mencari bantuan guru atau orang dewasa tepercaya",
+          "discussion": "Orang dewasa tepercaya dapat membantu menghentikan perundungan."
+        },
+        {
+          "id": "K03-PKN-B02-M01-037",
+          "type": "PG",
+          "text": "Ketika memerlukan bantuan memahami tugas, kamu berhak ...",
+          "options": [
+            "mengejek pengajar",
+            "bertanya kepada guru dengan sopan",
+            "memaksa teman memberikan jawaban",
+            "merobek lembar tugas"
+          ],
+          "answer": "bertanya kepada guru dengan sopan",
+          "discussion": "Bertanya membantu memperoleh pembelajaran."
+        },
+        {
+          "id": "K03-PKN-B02-M01-038",
+          "type": "PG",
+          "text": "Kewajiban saat piket kelas adalah ...",
+          "options": [
+            "melempar pekerjaan ke satu teman",
+            "meninggalkan kelas kotor",
+            "mengerjakan bagian tugas yang disepakati",
+            "bersembunyi saat piket"
+          ],
+          "answer": "mengerjakan bagian tugas yang disepakati",
+          "discussion": "Piket merupakan tanggung jawab bersama."
+        },
+        {
+          "id": "K03-PKN-B02-M01-039",
+          "type": "PG",
+          "text": "Saat antre membeli makanan, kita wajib ...",
+          "options": [
+            "menyela antrean",
+            "mendorong teman",
+            "mengambil makanan orang lain",
+            "menunggu giliran"
+          ],
+          "answer": "menunggu giliran",
+          "discussion": "Antre menunjukkan ketertiban dan menghargai hak orang lain."
+        },
+        {
+          "id": "K03-PKN-B02-M01-040",
+          "type": "PG",
+          "text": "Ketika menemukan barang tertinggal, tindakan tepat adalah ...",
+          "options": [
+            "menyerahkan kepada guru atau petugas",
+            "menyimpannya tanpa izin",
+            "membuangnya",
+            "mengklaim milik sendiri"
+          ],
+          "answer": "menyerahkan kepada guru atau petugas",
+          "discussion": "Barang orang lain harus dikembalikan dengan bantuan petugas."
+        },
+        {
+          "id": "K03-PKN-B02-M01-041",
+          "type": "PG",
+          "text": "Hak dan kewajiban perlu dijalankan ...",
+          "options": [
+            "secara seimbang",
+            "hanya haknya saja",
+            "hanya saat dipuji",
+            "sesuka hati dengan merugikan orang lain"
+          ],
+          "answer": "secara seimbang",
+          "discussion": "Menjalankan kewajiban membantu hak bersama terpenuhi."
+        },
+        {
+          "id": "K03-PKN-B02-M01-042",
+          "type": "PG",
+          "text": "Dodi ingin bermain saat adiknya tidur. Sikap baik adalah ...",
+          "options": [
+            "melompat di dekatnya",
+            "bermain dengan suara pelan",
+            "memutar musik keras",
+            "membangunkan sengaja"
+          ],
+          "answer": "bermain dengan suara pelan",
+          "discussion": "Menghormati hak istirahat keluarga penting."
+        },
+        {
+          "id": "K03-PKN-B02-M01-043",
+          "type": "PG",
+          "text": "Ada aturan membawa botol minum sendiri. Tujuan yang masuk akal ialah ...",
+          "options": [
+            "membuat siswa kehausan",
+            "memaksa semua botol sama warna",
+            "membantu siswa memenuhi kebutuhan minum",
+            "melarang anak minum"
+          ],
+          "answer": "membantu siswa memenuhi kebutuhan minum",
+          "discussion": "Botol minum membantu kebutuhan minum saat kegiatan."
+        },
+        {
+          "id": "K03-PKN-B02-M01-044",
+          "type": "PG",
+          "text": "Ketika terlambat masuk sekolah, sikap bertanggung jawab ialah ...",
+          "options": [
+            "menyalahkan teman tanpa sebab",
+            "berbohong",
+            "mengganggu kelas",
+            "meminta izin dan menjelaskan dengan jujur"
+          ],
+          "answer": "meminta izin dan menjelaskan dengan jujur",
+          "discussion": "Kejujuran dan izin menunjukkan tanggung jawab."
+        },
+        {
+          "id": "K03-PKN-B02-M01-045",
+          "type": "PG",
+          "text": "Kesepakatan menjaga kelas bersih dipatuhi dengan ...",
+          "options": [
+            "membuang sampah pada tempatnya",
+            "mengabaikan sampah",
+            "mencoret dinding",
+            "menumpahkan minum sengaja"
+          ],
+          "answer": "membuang sampah pada tempatnya",
+          "discussion": "Tindakan nyata memenuhi kesepakatan kebersihan."
+        },
+        {
+          "id": "K03-PKN-B02-M01-046",
+          "type": "PG",
+          "text": "Mengapa kita tidak boleh memotong antrean?",
+          "options": [
+            "karena orang lain juga berhak dilayani sesuai giliran",
+            "karena kita tidak suka berdiri",
+            "karena petugas selalu marah",
+            "karena antrean tidak penting"
+          ],
+          "answer": "karena orang lain juga berhak dilayani sesuai giliran",
+          "discussion": "Antre menghargai urutan giliran orang lain."
+        },
+        {
+          "id": "K03-PKN-B02-M01-047",
+          "type": "PG",
+          "text": "Setelah meminjam buku perpustakaan, siswa perlu ...",
+          "options": [
+            "meminjamkan tanpa aturan",
+            "mengembalikannya tepat sesuai ketentuan",
+            "menyimpannya selamanya",
+            "merobek halamannya"
+          ],
+          "answer": "mengembalikannya tepat sesuai ketentuan",
+          "discussion": "Mengembalikan buku memberi kesempatan pembaca lain."
+        },
+        {
+          "id": "K03-PKN-B02-M01-048",
+          "type": "PG",
+          "text": "Jika ada siswa kesulitan menjalankan piket karena sakit, sikap kelompok yang tepat ialah ...",
+          "options": [
+            "memaksanya bekerja berat",
+            "mengusirnya",
+            "membantunya dan melapor kepada guru",
+            "mengejeknya"
+          ],
+          "answer": "membantunya dan melapor kepada guru",
+          "discussion": "Kerja sama dan kepedulian perlu disesuaikan kondisi teman."
+        },
+        {
+          "id": "K03-PKN-B02-M01-049",
+          "type": "PG",
+          "text": "Contoh tanggung jawab menggunakan air di sekolah adalah ...",
+          "options": [
+            "membiarkan air mengalir",
+            "bermain membuang air",
+            "merusak keran",
+            "menutup keran setelah dipakai"
+          ],
+          "answer": "menutup keran setelah dipakai",
+          "discussion": "Menghemat air merupakan perilaku bertanggung jawab."
+        },
+        {
+          "id": "K03-PKN-B02-M01-050",
+          "type": "PG",
+          "text": "Kalau kamu belum melaksanakan kewajiban tetapi meminta hak, langkah baik ialah ...",
+          "options": [
+            "menjalankan kewajiban sesuai kemampuan tanpa kehilangan hak dasar",
+            "mengambil hak orang lain",
+            "menyalahkan teman",
+            "mengabaikan tugas terus"
+          ],
+          "answer": "menjalankan kewajiban sesuai kemampuan tanpa kehilangan hak dasar",
+          "discussion": "Hak dasar anak tetap berlaku; kewajiban perlu dilakukan dengan tanggung jawab."
+        }
+      ]
+    }
+  ]
+}

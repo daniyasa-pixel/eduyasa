@@ -1,6 +1,6 @@
 # Pendidikan Pancasila — EDUYASA Kelas 3
 
-**Status:** KONTEN SUMBER MARKDOWN SELESAI; **belum dikonversi ke JSON dan belum diaktifkan di aplikasi**. Konversi serta integrasi hanya dilakukan oleh Codex sesuai permintaan pemilik proyek.
+**Status:** Empat bab sudah dikonversi ke JSON dan dihubungkan ke pilihan Pendidikan Pancasila pada **Kelas 3**. Seluruh sumber Markdown dan SVG asli dipertahankan. [Laporan konversi dan pemeriksaan](CONVERSION.md).
 
 ## Acuan resmi
 
@@ -31,6 +31,19 @@ Total: **8 modul, 200 soal biasa, 80 soal bergambar, 48 aset SVG.** Terdapat **1
 - Referensi gambar pada soal: 80; 40 stimulus unik; aset 48 terdaftar pada folder, tidak ada nama aset hilang.
 - **Batas audit:** struktur dan konsistensi berkas telah diperiksa; masih diperlukan inspeksi visual/browser serta pemeriksaan pedagogis oleh pendidik sebelum rilis siswa. SVG adalah ilustrasi statis; latihan yang mengajak anak menjawab/mengamati ada pada teks modul. Jika ingin interaksi klik animasi, itu tugas frontend Codex.
 
-**Penting:** Jangan ubah dokumen ini menjadi JSON pada tahap produksi sumber. Jangan mengubah bank Bahasa Indonesia Kelas 3 atau data Kelas 6.
+## File yang dibaca aplikasi
+
+Setiap bab menggunakan `pkn-bNN-materi.json` (dua versi materi),
+`pkn-bNN.json` (50 soal biasa), dan `pkn-bNNa.json` (20 soal bergambar).
+`question-packs.json` mendaftarkan kedua bank untuk tiap bab. Sesi tetap
+20 soal: 15 biasa + 5 bergambar, kemudian urutan soal dan opsi diacak.
+
+Untuk memverifikasi kesesuaian JSON dengan sumber:
+`python scripts/convert-k03-pkn.py --check` dari akar repository.
+Konverter hanya membaca/menulis PKN, bukan Matematika. Gunakan `--write`
+untuk membuat ulang JSON setelah sumber PKN diperbarui dan diperiksa.
+
+Sumber Markdown tetap dipertahankan sebagai bahan penyuntingan dan audit.
+Bank Bahasa Indonesia Kelas 3 dan data Kelas 6 tidak ditulis ulang.
 
 [Handover konversi khusus Codex](HANDOFF-CODEX.md)

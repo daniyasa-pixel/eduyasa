@@ -1,0 +1,22 @@
+{
+  "subject_id": "PKN",
+  "grade": 3,
+  "chapters": {
+    "K03-PKN-B01": [
+      "pkn/pkn-b01.json",
+      "pkn/pkn-b01a.json"
+    ],
+    "K03-PKN-B02": [
+      "pkn/pkn-b02.json",
+      "pkn/pkn-b02a.json"
+    ],
+    "K03-PKN-B03": [
+      "pkn/pkn-b03.json",
+      "pkn/pkn-b03a.json"
+    ],
+    "K03-PKN-B04": [
+      "pkn/pkn-b04.json",
+      "pkn/pkn-b04a.json"
+    ]
+  }
+}

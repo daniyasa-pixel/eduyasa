@@ -1,0 +1,680 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Pendidikan Pancasila untuk SD/MI Kelas III",
+    "year": 2023,
+    "authors": [
+      "Ressi Kartika Dewi",
+      "Kamala Rahayu Candra Sary",
+      "Hani Hanifah"
+    ],
+    "isbn_pdf": "978-623-194-631-7",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/pendidikan-pancasila-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README sumber unggahan; konversi ini bukan audit akademik ulang."
+  },
+  "source_markdown": {
+    "path": "kelas-3/pkn/pkn-b01-soal-biasa.md",
+    "sha256": "e1a1a452b9389f5675b2b4c85aa8d05e01c8b721d4ba64dfd2d1c104cb495d5e"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-PKN-B01",
+      "chapter_title": "Aku Anak Indonesia",
+      "questions": [
+        {
+          "id": "K03-PKN-B01-M01-001",
+          "type": "PG",
+          "text": "Nama, kesukaan, dan tempat tinggal seseorang termasuk ...",
+          "options": [
+            "identitas diri",
+            "jadwal pelajaran",
+            "aturan lalu lintas",
+            "nama negara lain"
+          ],
+          "answer": "identitas diri",
+          "discussion": "Identitas diri memuat informasi yang mengenalkan seseorang."
+        },
+        {
+          "id": "K03-PKN-B01-M01-002",
+          "type": "PG",
+          "text": "Saat memperkenalkan diri kepada teman baru, informasi yang tepat ialah ...",
+          "options": [
+            "rahasia keluarga",
+            "nama panggilan dan kesukaan",
+            "nomor PIN orang tua",
+            "kata sandi telepon"
+          ],
+          "answer": "nama panggilan dan kesukaan",
+          "discussion": "Nama panggilan dan kesukaan aman dibagikan dalam perkenalan biasa."
+        },
+        {
+          "id": "K03-PKN-B01-M01-003",
+          "type": "PG",
+          "text": "Contoh keunikan diri yang boleh dibanggakan adalah ...",
+          "options": [
+            "mengejek teman yang berbeda",
+            "selalu ingin dipuji",
+            "pandai membuat kerajinan kertas",
+            "memiliki barang paling mahal"
+          ],
+          "answer": "pandai membuat kerajinan kertas",
+          "discussion": "Keterampilan merupakan keunikan positif tanpa merendahkan orang lain."
+        },
+        {
+          "id": "K03-PKN-B01-M01-004",
+          "type": "PG",
+          "text": "Ketika teman memperkenalkan namanya, kita sebaiknya ...",
+          "options": [
+            "langsung meninggalkan ruangan",
+            "menertawakan namanya",
+            "berbicara lebih keras",
+            "mendengarkan dengan sopan"
+          ],
+          "answer": "mendengarkan dengan sopan",
+          "discussion": "Mendengarkan menunjukkan penghargaan terhadap teman."
+        },
+        {
+          "id": "K03-PKN-B01-M01-005",
+          "type": "PG",
+          "text": "Dua orang yang mempunyai hobi berbeda tetap dapat ...",
+          "options": [
+            "dilarang duduk berdekatan",
+            "menukar hobi secara paksa",
+            "saling menghina",
+            "berteman dan bekerja sama"
+          ],
+          "answer": "berteman dan bekerja sama",
+          "discussion": "Perbedaan hobi tidak menghalangi persahabatan."
+        },
+        {
+          "id": "K03-PKN-B01-M01-006",
+          "type": "PG",
+          "text": "Manakah yang termasuk anggota keluarga inti dalam contoh umum?",
+          "options": [
+            "ayah, ibu, dan anak",
+            "guru, penjaga sekolah, dan murid",
+            "petugas pos dan pembeli",
+            "ketua RT dan warga"
+          ],
+          "answer": "ayah, ibu, dan anak",
+          "discussion": "Keluarga inti dapat terdiri dari orang tua dan anak; susunan keluarga nyata bisa beragam."
+        },
+        {
+          "id": "K03-PKN-B01-M01-007",
+          "type": "PG",
+          "text": "Keluarga Dita terdiri dari nenek, ibu, Dita, dan adik. Sikap Dita yang baik ialah ...",
+          "options": [
+            "mengejek keluarga lain",
+            "menghormati semua anggota keluarga",
+            "merasa keluarganya salah",
+            "menyembunyikan neneknya"
+          ],
+          "answer": "menghormati semua anggota keluarga",
+          "discussion": "Setiap susunan keluarga patut dihormati."
+        },
+        {
+          "id": "K03-PKN-B01-M01-008",
+          "type": "PG",
+          "text": "Jika ada keluarga teman yang susunannya berbeda, kita ...",
+          "options": [
+            "meminta dia menjauh",
+            "melarang dia bercerita",
+            "tetap menghargainya",
+            "menjadikannya bahan ejekan"
+          ],
+          "answer": "tetap menghargainya",
+          "discussion": "Setiap keluarga dapat memiliki susunan yang berbeda."
+        },
+        {
+          "id": "K03-PKN-B01-M01-009",
+          "type": "PG",
+          "text": "Ari suka menggambar dan Nisa suka membaca. Saat kerja kelompok, mereka bisa ...",
+          "options": [
+            "membubarkan kelompok",
+            "saling menyalahkan",
+            "membagi tugas sesuai kemampuan",
+            "memaksa hanya satu hobi"
+          ],
+          "answer": "membagi tugas sesuai kemampuan",
+          "discussion": "Kemampuan yang berbeda bisa saling melengkapi."
+        },
+        {
+          "id": "K03-PKN-B01-M01-010",
+          "type": "PG",
+          "text": "Saat teman bercerita tentang kesukaannya, pertanyaan yang sopan adalah ...",
+          "options": [
+            "Mengapa hobimu aneh sekali?",
+            "Kamu pasti salah memilih, ya?",
+            "Bolehkah aku mengejekmu?",
+            "Apa yang membuatmu menyukainya?"
+          ],
+          "answer": "Apa yang membuatmu menyukainya?",
+          "discussion": "Pertanyaan yang ramah membantu kita mengenal teman."
+        },
+        {
+          "id": "K03-PKN-B01-M01-011",
+          "type": "PG",
+          "text": "Tempat tinggal kita berada di lingkungan ...",
+          "options": [
+            "masyarakat",
+            "lautan saja",
+            "khayalan",
+            "planet lain"
+          ],
+          "answer": "masyarakat",
+          "discussion": "Rumah berada dalam lingkungan masyarakat."
+        },
+        {
+          "id": "K03-PKN-B01-M01-012",
+          "type": "PG",
+          "text": "Pada alamat rumah, RT dan RW berguna untuk ...",
+          "options": [
+            "menunjukkan kesukaan makanan",
+            "membantu mengenali lingkungan tempat tinggal",
+            "menentukan nilai ulangan",
+            "mengganti nama orang"
+          ],
+          "answer": "membantu mengenali lingkungan tempat tinggal",
+          "discussion": "RT dan RW merupakan bagian penanda lingkungan alamat."
+        },
+        {
+          "id": "K03-PKN-B01-M01-013",
+          "type": "PG",
+          "text": "Di banyak daerah, desa atau kelurahan berada dalam wilayah ...",
+          "options": [
+            "pulau pribadi",
+            "kecamatan",
+            "kelas",
+            "kelompok belajar"
+          ],
+          "answer": "kecamatan",
+          "discussion": "Desa atau kelurahan merupakan bagian wilayah kecamatan."
+        },
+        {
+          "id": "K03-PKN-B01-M01-014",
+          "type": "PG",
+          "text": "Kecamatan merupakan bagian dari ...",
+          "options": [
+            "kelompok piket",
+            "keluarga inti",
+            "kabupaten atau kota",
+            "ruang kelas"
+          ],
+          "answer": "kabupaten atau kota",
+          "discussion": "Kecamatan berada dalam wilayah kabupaten atau kota."
+        },
+        {
+          "id": "K03-PKN-B01-M01-015",
+          "type": "PG",
+          "text": "Provinsi adalah bagian wilayah dari ...",
+          "options": [
+            "satu sekolah saja",
+            "sebuah RT saja",
+            "satu keluarga",
+            "Negara Kesatuan Republik Indonesia"
+          ],
+          "answer": "Negara Kesatuan Republik Indonesia",
+          "discussion": "Provinsi adalah bagian dari Indonesia."
+        },
+        {
+          "id": "K03-PKN-B01-M01-016",
+          "type": "PG",
+          "text": "Tulisan NKRI merupakan singkatan dari ...",
+          "options": [
+            "Negara Kesatuan Republik Indonesia",
+            "Negara Keluarga Rukun Indonesia",
+            "Negeri Kesatuan Rakyat Indah",
+            "Nama Kota Republik Indonesia"
+          ],
+          "answer": "Negara Kesatuan Republik Indonesia",
+          "discussion": "NKRI adalah singkatan resmi Negara Kesatuan Republik Indonesia."
+        },
+        {
+          "id": "K03-PKN-B01-M01-017",
+          "type": "PG",
+          "text": "Bila kamu belum hafal alamat rumah, yang tepat adalah ...",
+          "options": [
+            "belajar mengingatnya bersama orang tua",
+            "mengarang nama jalan",
+            "memberikan alamat palsu",
+            "meminta teman menebak"
+          ],
+          "answer": "belajar mengingatnya bersama orang tua",
+          "discussion": "Alamat yang benar penting dikenali untuk keselamatan."
+        },
+        {
+          "id": "K03-PKN-B01-M01-018",
+          "type": "PG",
+          "text": "Saat tersesat di tempat ramai, anak sebaiknya ...",
+          "options": [
+            "menyembunyikan diri",
+            "mendekati petugas resmi dan meminta bantuan",
+            "mengikuti sembarang orang",
+            "pergi jauh sendirian"
+          ],
+          "answer": "mendekati petugas resmi dan meminta bantuan",
+          "discussion": "Meminta bantuan petugas resmi lebih aman."
+        },
+        {
+          "id": "K03-PKN-B01-M01-019",
+          "type": "PG",
+          "text": "Pada denah, tanda rumah biasanya membantu kita mengetahui ...",
+          "options": [
+            "hobi pemilik rumah",
+            "jumlah anggota keluarga",
+            "letak rumah",
+            "nilai rapor"
+          ],
+          "answer": "letak rumah",
+          "discussion": "Denah menunjukkan posisi tempat."
+        },
+        {
+          "id": "K03-PKN-B01-M01-020",
+          "type": "PG",
+          "text": "Jika sekolah berada di sebelah kanan taman pada denah, sekolah berada ...",
+          "options": [
+            "di kiri taman",
+            "di bawah tanah",
+            "di dalam taman",
+            "di kanan taman"
+          ],
+          "answer": "di kanan taman",
+          "discussion": "Keterangan kanan pada denah menunjukkan posisi relatif."
+        },
+        {
+          "id": "K03-PKN-B01-M01-021",
+          "type": "PG",
+          "text": "Alamat yang jelas biasanya memuat ...",
+          "options": [
+            "warna sepatu pemilik rumah",
+            "nilai matematika",
+            "lagu kesukaan",
+            "nama jalan atau lingkungan dan wilayah"
+          ],
+          "answer": "nama jalan atau lingkungan dan wilayah",
+          "discussion": "Nama jalan atau lingkungan dan wilayah membantu mengenali alamat."
+        },
+        {
+          "id": "K03-PKN-B01-M01-022",
+          "type": "PG",
+          "text": "Dua tetangga berbeda daerah asal. Sikap baik ketika bertemu adalah ...",
+          "options": [
+            "saling menyapa",
+            "saling menjauhi",
+            "membandingkan siapa paling hebat",
+            "menertawakan logat"
+          ],
+          "answer": "saling menyapa",
+          "discussion": "Kerukunan lingkungan dimulai dengan sapaan yang ramah."
+        },
+        {
+          "id": "K03-PKN-B01-M01-023",
+          "type": "PG",
+          "text": "Gotong royong membersihkan jalan bermanfaat karena ...",
+          "options": [
+            "orang tidak boleh bekerja sama",
+            "pekerjaan menjadi lebih ringan",
+            "semua orang wajib bersaing",
+            "jalan menjadi makin kotor"
+          ],
+          "answer": "pekerjaan menjadi lebih ringan",
+          "discussion": "Kerja sama meringankan tugas."
+        },
+        {
+          "id": "K03-PKN-B01-M01-024",
+          "type": "PG",
+          "text": "Ketika ada kegiatan lingkungan yang sesuai usia, kamu dapat ...",
+          "options": [
+            "meninggalkan rumah diam-diam",
+            "mengganggu tetangga",
+            "membantu sesuai kemampuan dengan izin orang tua",
+            "memegang alat berbahaya tanpa izin"
+          ],
+          "answer": "membantu sesuai kemampuan dengan izin orang tua",
+          "discussion": "Anak dapat berpartisipasi dengan aman sesuai kemampuan."
+        },
+        {
+          "id": "K03-PKN-B01-M01-025",
+          "type": "PG",
+          "text": "Ketika tetangga baru datang, kita bisa ...",
+          "options": [
+            "mengabaikan terus-menerus",
+            "mengejek logatnya",
+            "menyambut dengan ramah",
+            "menolaknya karena berbeda suku"
+          ],
+          "answer": "menyambut dengan ramah",
+          "discussion": "Sikap ramah membangun kehidupan masyarakat yang rukun."
+        },
+        {
+          "id": "K03-PKN-B01-M01-026",
+          "type": "PG",
+          "text": "Bendera negara Indonesia berwarna ...",
+          "options": [
+            "hijau dan kuning",
+            "biru dan putih",
+            "ungu dan jingga",
+            "merah dan putih"
+          ],
+          "answer": "merah dan putih",
+          "discussion": "Bendera Indonesia adalah Sang Merah Putih."
+        },
+        {
+          "id": "K03-PKN-B01-M01-027",
+          "type": "PG",
+          "text": "Bagian atas bendera Indonesia berwarna ...",
+          "options": [
+            "merah",
+            "putih",
+            "biru",
+            "hitam"
+          ],
+          "answer": "merah",
+          "discussion": "Warna merah berada di bagian atas bendera."
+        },
+        {
+          "id": "K03-PKN-B01-M01-028",
+          "type": "PG",
+          "text": "Bahasa persatuan bangsa Indonesia adalah ...",
+          "options": [
+            "bahasa rahasia kelompok",
+            "Bahasa Indonesia",
+            "hanya bahasa dari satu desa",
+            "bahasa asing tertentu"
+          ],
+          "answer": "Bahasa Indonesia",
+          "discussion": "Bahasa Indonesia mempersatukan warga dari beragam daerah."
+        },
+        {
+          "id": "K03-PKN-B01-M01-029",
+          "type": "PG",
+          "text": "Anak yang tinggal di Sulawesi dan anak yang tinggal di Jawa sama-sama ...",
+          "options": [
+            "tidak boleh berteman",
+            "warga Indonesia jika berkewarganegaraan Indonesia",
+            "harus memiliki hobi sama",
+            "harus berbicara dengan logat sama"
+          ],
+          "answer": "warga Indonesia jika berkewarganegaraan Indonesia",
+          "discussion": "Asal pulau yang berbeda tidak mengurangi kebersamaan sebagai warga negara."
+        },
+        {
+          "id": "K03-PKN-B01-M01-030",
+          "type": "PG",
+          "text": "Contoh cara sederhana menunjukkan cinta tanah air adalah ...",
+          "options": [
+            "mengejek daerah lain",
+            "membuang sampah ke sungai",
+            "merawat kebersihan lingkungan",
+            "merusak fasilitas umum"
+          ],
+          "answer": "merawat kebersihan lingkungan",
+          "discussion": "Merawat lingkungan adalah tindakan baik bagi tempat tinggal."
+        },
+        {
+          "id": "K03-PKN-B01-M01-031",
+          "type": "PG",
+          "text": "Indonesia mempunyai banyak pulau. Hal itu berarti ...",
+          "options": [
+            "setiap pulau adalah negara sendiri",
+            "semua rumah berada di satu pulau",
+            "tidak ada laut di Indonesia",
+            "wilayah Indonesia terdiri atas banyak pulau"
+          ],
+          "answer": "wilayah Indonesia terdiri atas banyak pulau",
+          "discussion": "Banyak pulau tetap termasuk satu negara Indonesia."
+        },
+        {
+          "id": "K03-PKN-B01-M01-032",
+          "type": "PG",
+          "text": "Jika melihat orang mengibarkan Merah Putih dengan benar, sikapmu adalah ...",
+          "options": [
+            "menghormatinya",
+            "menertawakan bendera",
+            "merobek bendera",
+            "mengganti warnanya"
+          ],
+          "answer": "menghormatinya",
+          "discussion": "Bendera negara merupakan lambang kebangsaan yang dihormati."
+        },
+        {
+          "id": "K03-PKN-B01-M01-033",
+          "type": "PG",
+          "text": "Kita bisa bangga menjadi orang Indonesia tanpa ...",
+          "options": [
+            "merendahkan bangsa lain",
+            "belajar budaya sendiri",
+            "menjaga lingkungan",
+            "menghargai perbedaan"
+          ],
+          "answer": "merendahkan bangsa lain",
+          "discussion": "Bangga terhadap bangsa tidak berarti merendahkan bangsa lain."
+        },
+        {
+          "id": "K03-PKN-B01-M01-034",
+          "type": "PG",
+          "text": "Kalimat yang paling sesuai dengan semangat persatuan adalah ...",
+          "options": [
+            "Teman berbeda tidak boleh bermain.",
+            "Walau berbeda, kita tetap satu Indonesia.",
+            "Hanya hobiku yang boleh dipilih.",
+            "Daerah lain tidak penting."
+          ],
+          "answer": "Walau berbeda, kita tetap satu Indonesia.",
+          "discussion": "Persatuan mengakui perbedaan dan tetap bersama."
+        },
+        {
+          "id": "K03-PKN-B01-M01-035",
+          "type": "PG",
+          "text": "Saat menyanyikan lagu kebangsaan dalam upacara, peserta sebaiknya ...",
+          "options": [
+            "berlarian",
+            "bermain gawai",
+            "bersikap tertib dan hormat",
+            "bercanda keras"
+          ],
+          "answer": "bersikap tertib dan hormat",
+          "discussion": "Sikap tertib menunjukkan penghormatan."
+        },
+        {
+          "id": "K03-PKN-B01-M01-036",
+          "type": "PG",
+          "text": "Seorang teman baru berasal dari pulau lain. Hal yang baik untuk ditanyakan ialah ...",
+          "options": [
+            "Mengapa kamu tidak sama denganku?",
+            "Apa daerahmu paling buruk?",
+            "Mengapa kamu pindah saja?",
+            "Apa hal menarik dari daerahmu?"
+          ],
+          "answer": "Apa hal menarik dari daerahmu?",
+          "discussion": "Bertanya dengan rasa ingin tahu dan hormat dapat mempererat pertemanan."
+        },
+        {
+          "id": "K03-PKN-B01-M01-037",
+          "type": "PG",
+          "text": "Nina tidak suka sepak bola, sedangkan Budi suka. Mereka tetap bisa ...",
+          "options": [
+            "saling mengejek",
+            "memaksa satu hobi",
+            "berhenti saling menyapa",
+            "memilih kegiatan lain untuk dilakukan bersama"
+          ],
+          "answer": "memilih kegiatan lain untuk dilakukan bersama",
+          "discussion": "Persahabatan tidak harus mempunyai hobi sama."
+        },
+        {
+          "id": "K03-PKN-B01-M01-038",
+          "type": "PG",
+          "text": "Saat kerja kelompok, semua anggota memiliki kesempatan ...",
+          "options": [
+            "memberi pendapat",
+            "mengejek yang berbeda",
+            "mengambil tugas orang lain tanpa izin",
+            "menolak mendengar"
+          ],
+          "answer": "memberi pendapat",
+          "discussion": "Memberi kesempatan bicara menjaga kerja sama."
+        },
+        {
+          "id": "K03-PKN-B01-M01-039",
+          "type": "PG",
+          "text": "Rina memiliki nama khas daerahnya. Teman-temannya sebaiknya ...",
+          "options": [
+            "melarangnya memperkenalkan diri",
+            "menyebut nama dengan hormat",
+            "mengganti namanya untuk bercanda",
+            "menertawakannya"
+          ],
+          "answer": "menyebut nama dengan hormat",
+          "discussion": "Nama adalah bagian identitas yang dihargai."
+        },
+        {
+          "id": "K03-PKN-B01-M01-040",
+          "type": "PG",
+          "text": "Jika kita berbeda bahasa daerah, kita dapat berkomunikasi bersama menggunakan ...",
+          "options": [
+            "ejekan",
+            "sandi rahasia",
+            "Bahasa Indonesia",
+            "teriakan"
+          ],
+          "answer": "Bahasa Indonesia",
+          "discussion": "Bahasa Indonesia memudahkan komunikasi lintas bahasa daerah."
+        },
+        {
+          "id": "K03-PKN-B01-M01-041",
+          "type": "PG",
+          "text": "Temanmu ingin menjelaskan asal daerahnya. Sebaiknya kamu ...",
+          "options": [
+            "mengabaikan ceritanya",
+            "menutup telinga",
+            "memberinya kesempatan bercerita",
+            "menyela setiap kalimat"
+          ],
+          "answer": "memberinya kesempatan bercerita",
+          "discussion": "Mendengar cerita teman membantu mengenal keberagaman."
+        },
+        {
+          "id": "K03-PKN-B01-M01-042",
+          "type": "PG",
+          "text": "Dalam kelompok, seseorang tidak dapat menggambar tetapi pandai menulis. Sikap tepat adalah ...",
+          "options": [
+            "mengejek kelemahannya",
+            "melarang dia bergabung",
+            "memaksa menggambar tanpa bantuan",
+            "memberinya tugas menulis"
+          ],
+          "answer": "memberinya tugas menulis",
+          "discussion": "Pembagian tugas bisa disesuaikan dengan kemampuan."
+        },
+        {
+          "id": "K03-PKN-B01-M01-043",
+          "type": "PG",
+          "text": "Cara bertanya tentang agama teman dengan sopan adalah ...",
+          "options": [
+            "menghormati privasinya dan tidak memaksa menjawab",
+            "memaksanya menjelaskan semua ibadah",
+            "mengejek kepercayaannya",
+            "menganggap semua harus sama"
+          ],
+          "answer": "menghormati privasinya dan tidak memaksa menjawab",
+          "discussion": "Identitas dan keyakinan teman harus dihormati."
+        },
+        {
+          "id": "K03-PKN-B01-M01-044",
+          "type": "PG",
+          "text": "Jika satu anggota keluarga sedang sakit, kita bisa ...",
+          "options": [
+            "menyuruhnya bekerja berat",
+            "membantu sesuai kemampuan",
+            "menambah kebisingan",
+            "mengabaikan kebutuhannya"
+          ],
+          "answer": "membantu sesuai kemampuan",
+          "discussion": "Saling peduli menguatkan keluarga."
+        },
+        {
+          "id": "K03-PKN-B01-M01-045",
+          "type": "PG",
+          "text": "Mengapa perlu mengetahui nama daerah tempat tinggal sendiri?",
+          "options": [
+            "agar tak perlu belajar alamat",
+            "agar mengenal lingkungan dan asal wilayah",
+            "agar dapat mengejek daerah lain",
+            "agar selalu menang lomba"
+          ],
+          "answer": "agar mengenal lingkungan dan asal wilayah",
+          "discussion": "Mengenal tempat tinggal memperkuat identitas wilayah dan keselamatan."
+        },
+        {
+          "id": "K03-PKN-B01-M01-046",
+          "type": "PG",
+          "text": "Kegiatan bermain bersama anak berbeda suku memperlihatkan ...",
+          "options": [
+            "larangan berteman",
+            "perbedaan yang harus dihapus",
+            "persahabatan dalam keberagaman",
+            "persaingan daerah"
+          ],
+          "answer": "persahabatan dalam keberagaman",
+          "discussion": "Pertemanan lintas suku merupakan contoh hidup rukun."
+        },
+        {
+          "id": "K03-PKN-B01-M01-047",
+          "type": "PG",
+          "text": "Kalau ada kesalahan menyebut nama tempat asal teman, sebaiknya ...",
+          "options": [
+            "menyalahkan teman",
+            "terus mengulang ejekan",
+            "meninggalkan kelas",
+            "meminta maaf dan memperbaiki ucapan"
+          ],
+          "answer": "meminta maaf dan memperbaiki ucapan",
+          "discussion": "Meminta maaf dan belajar mengucapkan nama dengan benar merupakan sikap hormat."
+        },
+        {
+          "id": "K03-PKN-B01-M01-048",
+          "type": "PG",
+          "text": "Contoh menunjukkan kebanggaan pada lingkungan sendiri adalah ...",
+          "options": [
+            "menceritakan hal baik daerah dengan jujur",
+            "mengarang semua fakta",
+            "merendahkan tempat lain",
+            "merusak tempat umum"
+          ],
+          "answer": "menceritakan hal baik daerah dengan jujur",
+          "discussion": "Bangga dapat disampaikan dengan cerita yang benar dan santun."
+        },
+        {
+          "id": "K03-PKN-B01-M01-049",
+          "type": "PG",
+          "text": "Ketika membuat denah rumah, simbol sebaiknya diberi ...",
+          "options": [
+            "keterangan yang jelas",
+            "tebakan tanpa nama",
+            "warna acak tanpa arti",
+            "nilai ulangan"
+          ],
+          "answer": "keterangan yang jelas",
+          "discussion": "Keterangan membantu pembaca memahami simbol denah."
+        },
+        {
+          "id": "K03-PKN-B01-M01-050",
+          "type": "PG",
+          "text": "Menghargai identitas teman berarti ...",
+          "options": [
+            "membandingkan suku terbaik",
+            "menerima perbedaan tanpa mengejek",
+            "memilih teman yang mirip saja",
+            "mengganti nama mereka"
+          ],
+          "answer": "menerima perbedaan tanpa mengejek",
+          "discussion": "Penghargaan tampak melalui sikap menerima dan menghormati."
+        }
+      ]
+    }
+  ]
+}

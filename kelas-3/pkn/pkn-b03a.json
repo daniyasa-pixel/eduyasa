@@ -1,0 +1,370 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Pendidikan Pancasila untuk SD/MI Kelas III",
+    "year": 2023,
+    "authors": [
+      "Ressi Kartika Dewi",
+      "Kamala Rahayu Candra Sary",
+      "Hani Hanifah"
+    ],
+    "isbn_pdf": "978-623-194-631-7",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/pendidikan-pancasila-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README sumber unggahan; konversi ini bukan audit akademik ulang."
+  },
+  "source_markdown": {
+    "path": "kelas-3/pkn/pkn-b03-soal-bergambar.md",
+    "sha256": "02425e6b2dc1008df7e195b109309fab4e64c1466999b7441d62438653dee111"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-PKN-B03",
+      "chapter_title": "Berbeda Itu Indah",
+      "questions": [
+        {
+          "id": "K03-PKN-B03-M01-051",
+          "type": "PG",
+          "text": "Dari gambar, suku Batak dicontohkan berasal dari ...",
+          "options": [
+            "Sumatra Utara",
+            "Banten",
+            "Papua",
+            "Bali"
+          ],
+          "answer": "Sumatra Utara",
+          "discussion": "Panel pertama menyebut Batak dan Sumatra Utara.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-01.svg",
+            "alt": "Tiga contoh suku dan asal wilayah: Batak Sumatra Utara, Betawi Jakarta, Baduy Banten."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-052",
+          "type": "PG",
+          "text": "Suku Betawi pada gambar dihubungkan dengan ...",
+          "options": [
+            "Maluku",
+            "Jakarta",
+            "Kalimantan",
+            "Aceh"
+          ],
+          "answer": "Jakarta",
+          "discussion": "Panel kedua menyebut Betawi dari Jakarta.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-01.svg",
+            "alt": "Tiga contoh suku dan asal wilayah: Batak Sumatra Utara, Betawi Jakarta, Baduy Banten."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-053",
+          "type": "PG",
+          "text": "Kelompok suku Asmat pada gambar dikaitkan dengan ...",
+          "options": [
+            "Sumatra",
+            "Jawa",
+            "Papua",
+            "Sulawesi"
+          ],
+          "answer": "Papua",
+          "discussion": "Panel pertama menuliskan Asmat Papua.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-02.svg",
+            "alt": "Contoh kelompok suku Asmat dan Dayak yang berbeda wilayah tetapi satu Indonesia."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-054",
+          "type": "PG",
+          "text": "Apa pesan panel ketiga setelah melihat dua suku berbeda?",
+          "options": [
+            "Semua suku harus sama",
+            "Perbedaan dilarang",
+            "Hanya satu daerah penting",
+            "Kita tetap satu Indonesia"
+          ],
+          "answer": "Kita tetap satu Indonesia",
+          "discussion": "Panel ketiga mengajak bersatu sebagai Indonesia.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-02.svg",
+            "alt": "Contoh kelompok suku Asmat dan Dayak yang berbeda wilayah tetapi satu Indonesia."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-055",
+          "type": "PG",
+          "text": "Kegiatan apa ditampilkan pada panel kedua?",
+          "options": [
+            "Lari pagi",
+            "Lomba matematika",
+            "Berkebun",
+            "Musik daerah"
+          ],
+          "answer": "Musik daerah",
+          "discussion": "Panel kedua menyebut musik daerah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-03.svg",
+            "alt": "Pesta budaya menampilkan pakaian adat, musik daerah, dan perayaan bersama."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-056",
+          "type": "PG",
+          "text": "Kesimpulan gambar pesta budaya ialah ...",
+          "options": [
+            "budaya beragam dirayakan bersama",
+            "hanya satu pakaian boleh dipakai",
+            "musik daerah dilarang",
+            "anak berbeda tidak boleh ikut"
+          ],
+          "answer": "budaya beragam dirayakan bersama",
+          "discussion": "Ketiga panel menunjukkan keberagaman yang dirayakan bersama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-03.svg",
+            "alt": "Pesta budaya menampilkan pakaian adat, musik daerah, dan perayaan bersama."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-057",
+          "type": "PG",
+          "text": "Benda budaya apa yang tampil pada panel pertama?",
+          "options": [
+            "Telepon",
+            "Rumah tradisional",
+            "Kereta api",
+            "Sepeda"
+          ],
+          "answer": "Rumah tradisional",
+          "discussion": "Panel pertama menunjukkan rumah tradisional.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-04.svg",
+            "alt": "Pameran memperlihatkan rumah adat, karya kerajinan, dan apresiasi."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-058",
+          "type": "PG",
+          "text": "Sikap terhadap kerajinan yang dipamerkan adalah ...",
+          "options": [
+            "mengejeknya",
+            "mencurinya",
+            "menghargainya",
+            "merusaknya"
+          ],
+          "answer": "menghargainya",
+          "discussion": "Panel terakhir memperlihatkan karya dihargai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-04.svg",
+            "alt": "Pameran memperlihatkan rumah adat, karya kerajinan, dan apresiasi."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-059",
+          "type": "PG",
+          "text": "Permainan pertama yang ditampilkan ialah ...",
+          "options": [
+            "Bola basket",
+            "Catur",
+            "Egrang",
+            "Sepak bola"
+          ],
+          "answer": "Egrang",
+          "discussion": "Panel pertama menampilkan egrang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-05.svg",
+            "alt": "Permainan tradisional egrang dan congklak dilakukan dengan aman."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-060",
+          "type": "PG",
+          "text": "Apa aturan penting pada akhir rangkaian permainan?",
+          "options": [
+            "Bermain di jalan raya",
+            "Mendorong teman",
+            "Mengambil alat tanpa izin",
+            "Bermain aman"
+          ],
+          "answer": "Bermain aman",
+          "discussion": "Panel ketiga mengingatkan bermain aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-05.svg",
+            "alt": "Permainan tradisional egrang dan congklak dilakukan dengan aman."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-061",
+          "type": "PG",
+          "text": "Bahasa apa dipakai Nia dan Riko saat berbicara bersama?",
+          "options": [
+            "Bahasa Indonesia",
+            "Hanya bahasa Nia",
+            "Hanya bahasa Riko",
+            "Bahasa rahasia"
+          ],
+          "answer": "Bahasa Indonesia",
+          "discussion": "Panel ketiga menampilkan Bahasa Indonesia.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-06.svg",
+            "alt": "Nia dan Riko menggunakan bahasa daerah masing-masing dan Bahasa Indonesia bersama."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-062",
+          "type": "PG",
+          "text": "Mengapa Bahasa Indonesia dipilih pada panel ketiga?",
+          "options": [
+            "Untuk mengejek logat",
+            "Agar saling memahami",
+            "Untuk menghapus bahasa daerah",
+            "Agar satu anak selalu menang"
+          ],
+          "answer": "Agar saling memahami",
+          "discussion": "Bahasa Indonesia menghubungkan penutur bahasa daerah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-06.svg",
+            "alt": "Nia dan Riko menggunakan bahasa daerah masing-masing dan Bahasa Indonesia bersama."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-063",
+          "type": "PG",
+          "text": "Bunyi semboyan yang tampak pada poster ialah ...",
+          "options": [
+            "Hemat Pangkal Kaya",
+            "Bhinneka Tunggal Ika",
+            "Rajin Pangkal Pandai",
+            "Sekali Merdeka Tetap Belajar"
+          ],
+          "answer": "Bhinneka Tunggal Ika",
+          "discussion": "Panel ketiga tertulis Bhinneka Tunggal Ika.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-07.svg",
+            "alt": "Poster memperlihatkan makna semboyan Bhinneka Tunggal Ika."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-064",
+          "type": "PG",
+          "text": "Apa arti pesan dua panel pertama poster?",
+          "options": [
+            "Semua harus satu suku",
+            "Perbedaan harus disembunyikan",
+            "Berbeda-beda tetap bersatu",
+            "Berbeda berarti bermusuhan"
+          ],
+          "answer": "Berbeda-beda tetap bersatu",
+          "discussion": "Panel menunjukkan berbeda lalu bersatu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-07.svg",
+            "alt": "Poster memperlihatkan makna semboyan Bhinneka Tunggal Ika."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-065",
+          "type": "PG",
+          "text": "Apa yang dilakukan Nino saat Sari bercerita?",
+          "options": [
+            "Menertawakan",
+            "Meninggalkan",
+            "Memotong cerita",
+            "Mendengarkan"
+          ],
+          "answer": "Mendengarkan",
+          "discussion": "Panel kedua menyatakan Nino mendengar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-08.svg",
+            "alt": "Sari bercerita tentang budaya, Nino mendengar dan bertanya dengan sopan."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-066",
+          "type": "PG",
+          "text": "Cara Nino menggali informasi setelah mendengar ialah ...",
+          "options": [
+            "bertanya sopan",
+            "mengejek logat",
+            "melarang Sari bercerita",
+            "mengarang cerita"
+          ],
+          "answer": "bertanya sopan",
+          "discussion": "Panel ketiga menunjukkan pertanyaan sopan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-08.svg",
+            "alt": "Sari bercerita tentang budaya, Nino mendengar dan bertanya dengan sopan."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-067",
+          "type": "PG",
+          "text": "Kegiatan pada panel kedua kerja bakti adalah ...",
+          "options": [
+            "menanam",
+            "membeli seragam",
+            "memasak di kantin",
+            "menonton televisi"
+          ],
+          "answer": "menanam",
+          "discussion": "Panel kedua menunjukkan warga menanam.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-09.svg",
+            "alt": "Warga dari beragam latar bekerja sama membersihkan lingkungan."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-068",
+          "type": "PG",
+          "text": "Hasil kegiatan kerja bakti pada gambar ialah ...",
+          "options": [
+            "tanaman dicabut",
+            "lingkungan bersih",
+            "lingkungan penuh sampah",
+            "warga bertengkar"
+          ],
+          "answer": "lingkungan bersih",
+          "discussion": "Panel terakhir menyebut lingkungan bersih.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-09.svg",
+            "alt": "Warga dari beragam latar bekerja sama membersihkan lingkungan."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-069",
+          "type": "PG",
+          "text": "Selain salam daerah, bahasa penghubung yang ditunjukkan ialah ...",
+          "options": [
+            "bahasa asing wajib",
+            "bahasa sandi",
+            "Bahasa Indonesia",
+            "hanya bahasa satu suku"
+          ],
+          "answer": "Bahasa Indonesia",
+          "discussion": "Panel tengah menunjukkan Bahasa Indonesia.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-10.svg",
+            "alt": "Festival bahasa mengenalkan salam daerah dan Bahasa Indonesia sebagai penghubung."
+          }
+        },
+        {
+          "id": "K03-PKN-B03-M01-070",
+          "type": "PG",
+          "text": "Apa hasil memakai bahasa bersama dalam festival?",
+          "options": [
+            "Saling mengejek",
+            "Salah paham disengaja",
+            "Tidak boleh berbicara",
+            "Saling memahami"
+          ],
+          "answer": "Saling memahami",
+          "discussion": "Panel akhir menggambarkan saling memahami.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-10.svg",
+            "alt": "Festival bahasa mengenalkan salam daerah dan Bahasa Indonesia sebagai penghubung."
+          }
+        }
+      ]
+    }
+  ]
+}

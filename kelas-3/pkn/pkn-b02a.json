@@ -1,0 +1,370 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Pendidikan Pancasila untuk SD/MI Kelas III",
+    "year": 2023,
+    "authors": [
+      "Ressi Kartika Dewi",
+      "Kamala Rahayu Candra Sary",
+      "Hani Hanifah"
+    ],
+    "isbn_pdf": "978-623-194-631-7",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/pendidikan-pancasila-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README sumber unggahan; konversi ini bukan audit akademik ulang."
+  },
+  "source_markdown": {
+    "path": "kelas-3/pkn/pkn-b02-soal-bergambar.md",
+    "sha256": "2de03200d3e18d89828fb0421c020910debe805bc823536d23aca51eadb2a719"
+  },
+  "chapters": [
+    {
+      "chapter_id": "K03-PKN-B02",
+      "chapter_title": "Aku Patuh Aturan",
+      "questions": [
+        {
+          "id": "K03-PKN-B02-M01-051",
+          "type": "PG",
+          "text": "Pada poster, apa yang perlu dilakukan sebelum berbicara?",
+          "options": [
+            "Mengangkat tangan",
+            "Menutup telinga",
+            "Mengetuk meja keras",
+            "Meninggalkan kelas"
+          ],
+          "answer": "Mengangkat tangan",
+          "discussion": "Poster memuat aturan angkat tangan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-01.svg",
+            "alt": "Poster berisi tiga aturan: dengarkan guru, angkat tangan, baca bergiliran."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-052",
+          "type": "PG",
+          "text": "Apa aturan saat membaca di kelas pada gambar?",
+          "options": [
+            "Meninggalkan buku",
+            "Membaca bergiliran",
+            "Bersuara bersama tanpa giliran",
+            "Merebut buku"
+          ],
+          "answer": "Membaca bergiliran",
+          "discussion": "Poster menyebut baca bergiliran.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-01.svg",
+            "alt": "Poster berisi tiga aturan: dengarkan guru, angkat tangan, baca bergiliran."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-053",
+          "type": "PG",
+          "text": "Gambar koridor menganjurkan siswa untuk ...",
+          "options": [
+            "melompat di tangga",
+            "bermain di tengah tangga",
+            "berjalan tertib",
+            "berlari sambil mendorong"
+          ],
+          "answer": "berjalan tertib",
+          "discussion": "Panel pertama menunjukkan berjalan tertib.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-02.svg",
+            "alt": "Koridor sekolah aman bila anak berjalan tertib, tidak mendorong, dan berhati-hati di tangga."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-054",
+          "type": "PG",
+          "text": "Perilaku yang dilarang pada koridor aman ialah ...",
+          "options": [
+            "berjalan hati-hati",
+            "menunggu giliran",
+            "memegang pegangan tangga",
+            "mendorong teman"
+          ],
+          "answer": "mendorong teman",
+          "discussion": "Panel kedua meminta tidak mendorong.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-02.svg",
+            "alt": "Koridor sekolah aman bila anak berjalan tertib, tidak mendorong, dan berhati-hati di tangga."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-055",
+          "type": "PG",
+          "text": "Apa kegiatan pertama dalam membuat kesepakatan pada gambar?",
+          "options": [
+            "Menyampaikan usul",
+            "Mengejek teman",
+            "Langsung pergi",
+            "Merobek poster"
+          ],
+          "answer": "Menyampaikan usul",
+          "discussion": "Panel pertama menunjukkan penyampaian usul.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-03.svg",
+            "alt": "Urutan musyawarah kelas: usul, mendengar, menyepakati bersama."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-056",
+          "type": "PG",
+          "text": "Setelah mendengar berbagai usul, kelas ...",
+          "options": [
+            "mencapai kesepakatan bersama",
+            "melarang semua usul",
+            "mengabaikan keputusan",
+            "berkelahi"
+          ],
+          "answer": "mencapai kesepakatan bersama",
+          "discussion": "Panel ketiga menunjukkan persetujuan bersama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-03.svg",
+            "alt": "Urutan musyawarah kelas: usul, mendengar, menyepakati bersama."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-057",
+          "type": "PG",
+          "text": "Apa yang dilakukan terakhir setelah membaca buku?",
+          "options": [
+            "Membuang buku",
+            "Mengembalikan buku",
+            "Merobek halaman",
+            "Menyembunyikannya"
+          ],
+          "answer": "Mengembalikan buku",
+          "discussion": "Panel terakhir adalah mengembalikan buku.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-04.svg",
+            "alt": "Siswa meminjam buku, membaca dengan tenang, lalu mengembalikan buku."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-058",
+          "type": "PG",
+          "text": "Bagaimana cara membaca di perpustakaan pada gambar?",
+          "options": [
+            "Sambil berlari",
+            "Sambil menendang meja",
+            "Dengan tenang",
+            "Sambil berteriak"
+          ],
+          "answer": "Dengan tenang",
+          "discussion": "Panel tengah menampilkan membaca dengan pelan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-04.svg",
+            "alt": "Siswa meminjam buku, membaca dengan tenang, lalu mengembalikan buku."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-059",
+          "type": "PG",
+          "text": "Hak apa yang ditunjukkan panel pertama?",
+          "options": [
+            "Merusak mainan",
+            "Mengatur semua orang",
+            "Memukul orang lain",
+            "Mendapat kasih sayang"
+          ],
+          "answer": "Mendapat kasih sayang",
+          "discussion": "Panel pertama menyebut hak disayangi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-05.svg",
+            "alt": "Tiga kegiatan di rumah menunjukkan hak kasih sayang, kewajiban merapikan, dan hak istirahat."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-060",
+          "type": "PG",
+          "text": "Kegiatan yang merupakan kewajiban pada gambar ialah ...",
+          "options": [
+            "merapikan barang",
+            "melarang istirahat",
+            "meminta hadiah",
+            "mengambil mainan orang lain"
+          ],
+          "answer": "merapikan barang",
+          "discussion": "Panel tengah menunjukkan tugas merapikan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-05.svg",
+            "alt": "Tiga kegiatan di rumah menunjukkan hak kasih sayang, kewajiban merapikan, dan hak istirahat."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-061",
+          "type": "PG",
+          "text": "Tugas rumah yang sesuai kemampuan pada panel pertama adalah ...",
+          "options": [
+            "menyiram bunga",
+            "menggunakan pisau tanpa izin",
+            "memanjat atap",
+            "bermain listrik"
+          ],
+          "answer": "menyiram bunga",
+          "discussion": "Panel pertama menunjukkan menyiram bunga.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-06.svg",
+            "alt": "Dua tugas rumah aman dan satu tindakan yang berbahaya tanpa pendampingan."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-062",
+          "type": "PG",
+          "text": "Panel terakhir mengingatkan kita untuk tidak ...",
+          "options": [
+            "menjaga kebersihan",
+            "memakai alat tajam tanpa pendampingan",
+            "merapikan mainan",
+            "menyiram bunga"
+          ],
+          "answer": "memakai alat tajam tanpa pendampingan",
+          "discussion": "Panel ketiga memberi peringatan tentang alat tajam.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-06.svg",
+            "alt": "Dua tugas rumah aman dan satu tindakan yang berbahaya tanpa pendampingan."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-063",
+          "type": "PG",
+          "text": "Hak siswa yang digambarkan pada panel pertama ialah ...",
+          "options": [
+            "merusak meja",
+            "melarang pertanyaan",
+            "belajar di sekolah",
+            "mengusir teman"
+          ],
+          "answer": "belajar di sekolah",
+          "discussion": "Panel pertama memperlihatkan belajar bersama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-07.svg",
+            "alt": "Hak belajar disertai kewajiban meminta izin dan menjaga fasilitas sekolah."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-064",
+          "type": "PG",
+          "text": "Saat meminjam barang berdasarkan gambar, kita perlu ...",
+          "options": [
+            "mengambil diam-diam",
+            "menyembunyikannya",
+            "merusaknya",
+            "meminta izin"
+          ],
+          "answer": "meminta izin",
+          "discussion": "Panel kedua menyebut meminjam dengan izin.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-07.svg",
+            "alt": "Hak belajar disertai kewajiban meminta izin dan menjaga fasilitas sekolah."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-065",
+          "type": "PG",
+          "text": "Siapa yang menyapu pada gambar piket?",
+          "options": [
+            "Rini",
+            "Dika",
+            "Ani",
+            "Cici"
+          ],
+          "answer": "Rini",
+          "discussion": "Panel pertama menyebut Rini menyapu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-08.svg",
+            "alt": "Rini menyapu, Dika merapikan buku, lalu kelas menjadi bersih."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-066",
+          "type": "PG",
+          "text": "Apa hasil dari kerja sama piket?",
+          "options": [
+            "Kelas menjadi bersih",
+            "Kelas makin kotor",
+            "Buku hilang",
+            "Guru pergi"
+          ],
+          "answer": "Kelas menjadi bersih",
+          "discussion": "Panel terakhir menunjukkan kelas bersih.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-08.svg",
+            "alt": "Rini menyapu, Dika merapikan buku, lalu kelas menjadi bersih."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-067",
+          "type": "PG",
+          "text": "Siapa yang mendapat giliran kedua?",
+          "options": [
+            "Dika",
+            "Budi",
+            "Ani",
+            "Cici"
+          ],
+          "answer": "Budi",
+          "discussion": "Gambar menempatkan Budi pada posisi kedua.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-09.svg",
+            "alt": "Urutan antre kantin: Ani pertama, Budi kedua, Cici ketiga."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-068",
+          "type": "PG",
+          "text": "Siapa yang seharusnya dilayani pertama?",
+          "options": [
+            "Cici",
+            "Semua menyela",
+            "Ani",
+            "Budi"
+          ],
+          "answer": "Ani",
+          "discussion": "Ani berdiri paling awal dalam urutan antre.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-09.svg",
+            "alt": "Urutan antre kantin: Ani pertama, Budi kedua, Cici ketiga."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-069",
+          "type": "PG",
+          "text": "Kepada siapa buku temuan diserahkan?",
+          "options": [
+            "Penjual",
+            "Tetangga yang tak dikenal",
+            "Disembunyikan sendiri",
+            "Guru"
+          ],
+          "answer": "Guru",
+          "discussion": "Panel kedua menunjukkan buku dibawa ke guru.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-10.svg",
+            "alt": "Buku yang ditemukan siswa diserahkan kepada guru dan dikembalikan ke pemiliknya."
+          }
+        },
+        {
+          "id": "K03-PKN-B02-M01-070",
+          "type": "PG",
+          "text": "Apa akhir yang baik dari cerita buku temuan?",
+          "options": [
+            "Buku kembali kepada pemiliknya",
+            "Buku rusak",
+            "Buku disembunyikan",
+            "Buku dibuang"
+          ],
+          "answer": "Buku kembali kepada pemiliknya",
+          "discussion": "Panel terakhir menggambarkan buku kembali kepada pemilik.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-10.svg",
+            "alt": "Buku yang ditemukan siswa diserahkan kepada guru dan dikembalikan ke pemiliknya."
+          }
+        }
+      ]
+    }
+  ]
+}

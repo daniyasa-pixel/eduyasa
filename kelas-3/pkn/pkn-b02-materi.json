@@ -1,0 +1,53 @@
+{
+  "subject_id": "PKN",
+  "subject_name": "Pendidikan Pancasila",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "source": {
+    "title": "Pendidikan Pancasila untuk SD/MI Kelas III",
+    "year": 2023,
+    "authors": [
+      "Ressi Kartika Dewi",
+      "Kamala Rahayu Candra Sary",
+      "Hani Hanifah"
+    ],
+    "isbn_pdf": "978-623-194-631-7",
+    "catalog_url": "https://buku.kemendikdasmen.go.id/katalog/pendidikan-pancasila-untuk-sdmi-kelas-iii",
+    "metadata_note": "Identitas buku mengikuti README sumber unggahan; konversi ini bukan audit akademik ulang."
+  },
+  "chapter_id": "K03-PKN-B02",
+  "chapter_title": "Aku Patuh Aturan",
+  "learning_objectives": [
+    "Memahami alasan dan contoh aturan sekolah beserta akibat pelanggaran.",
+    "Menjelaskan cara membuat serta menjalankan kesepakatan kelas melalui diskusi.",
+    "Membedakan hak dan kewajiban anak di rumah dan sekolah serta menerapkannya."
+  ],
+  "source_markdown": {
+    "path": "kelas-3/pkn/pkn-b02-materi.md",
+    "sha256": "540e3084b1881ea72aa161edc3905ff1b3f924c32bb04ed411138add7c5c3517"
+  },
+  "modules": [
+    {
+      "id": "K03-PKN-B02-MOD-01",
+      "version": "MOD-01",
+      "title": "Aku Patuh Aturan — Sekolahku Nyaman!",
+      "learning_objectives": [
+        "Memahami alasan dan contoh aturan sekolah beserta akibat pelanggaran.",
+        "Menjelaskan cara membuat serta menjalankan kesepakatan kelas melalui diskusi.",
+        "Membedakan hak dan kewajiban anak di rumah dan sekolah serta menerapkannya."
+      ],
+      "content": "# Aku Patuh Aturan — Sekolahku Nyaman!\n\nHai, Sahabat! Bayangkan semua siswa berbicara sekaligus, berlarian di koridor, dan membuang sampah sesuka hati. Wah, pasti sulit belajar, ya? **Aturan membantu kita aman, tertib, dan saling menghormati.**\n\n![Poster tiga aturan di kelas untuk menjaga ketertiban.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-materi-01.svg)\n\n## Ayo kenali aturan sekolah\n\nContoh aturan: datang mengikuti jadwal, berjalan aman di koridor, antre, menjaga fasilitas, dan mendengarkan saat orang lain berbicara. Aturan bukan untuk menakuti anak; aturan membantu semua orang mendapatkan lingkungan belajar yang baik.\n\n**Coba pikir:** Mengapa kita tidak boleh mendorong teman di tangga? Karena teman bisa jatuh dan terluka. Itulah alasan di balik aturan keselamatan.\n\n## Kesepakatan: aturan yang kita bicarakan bersama\n\nTeman-teman bisa bermusyawarah membuat kesepakatan kelas, misalnya bergiliran bicara atau mengembalikan alat gambar setelah dipakai. Langkahnya: **beri usul, dengarkan pendapat, sepakati bersama, lalu jalankan.** Jika suatu kesepakatan perlu ditinjau, ajak guru dan teman berdiskusi.\n\n## Bedakan hak dan kewajiban\n\n**Hak** adalah hal yang layak kita terima, seperti kasih sayang, perlindungan, istirahat, dan kesempatan belajar. **Kewajiban** adalah hal yang perlu kita lakukan dengan tanggung jawab, misalnya merapikan mainan, menjaga kebersihan, dan mengerjakan bagian piket yang disepakati. Hak dasar anak tetap berlaku meskipun ia belum sempurna menjalankan tugas.\n\n![Contoh hak dan kewajiban di rumah dan sekolah.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-materi-02.svg)\n\nDi rumah, kamu berhak disayangi sekaligus bisa membantu pekerjaan **yang aman dan sesuai usia**. Di sekolah, kamu berhak belajar tanpa gangguan; kamu juga perlu menghargai teman yang belajar.\n\n## Uji dirimu!\n\nLala menemukan buku yang bukan miliknya. Apa sebaiknya ia lakukan? Serahkan kepada guru agar kembali ke pemilik! Sekarang buat satu contoh hak dan satu contoh kewajibanmu di sekolah.\n\n**Pesan penting:** Patuh aturan bukan sekadar takut dihukum. Kita melakukannya karena peduli kepada diri sendiri dan orang lain."
+    },
+    {
+      "id": "K03-PKN-B02-MOD-02",
+      "version": "MOD-02",
+      "title": "Aku Patuh Aturan — Misi Penjaga Ketertiban",
+      "learning_objectives": [
+        "Memahami alasan dan contoh aturan sekolah beserta akibat pelanggaran.",
+        "Menjelaskan cara membuat serta menjalankan kesepakatan kelas melalui diskusi.",
+        "Membedakan hak dan kewajiban anak di rumah dan sekolah serta menerapkannya."
+      ],
+      "content": "# Aku Patuh Aturan — Misi Penjaga Ketertiban\n\nSelamat datang, **Detektif Kebaikan!** Hari ini kita punya tiga misi: menjaga kelas, membuat kesepakatan, dan membedakan hak serta kewajiban. Kamu siap?\n\n## Misi 1: Periksa kelas!\n\nSebelum pelajaran, lihat kondisi kelas. Ada sampah? Buang ke tempatnya. Ada teman berbicara? Dengarkan sampai selesai. Ada antrean? Tunggu giliran. Perilaku kecil itu membuat sekolah nyaman untuk semuanya.\n\n![Ilustrasi aturan kelas, antre, dan menjaga kebersihan.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-materi-01.svg)\n\n**Pertanyaan detektif:** Kalau kamu berlari di tangga lalu menabrak teman, apakah aturan berjalan pelan itu berguna? Ya, aturan melindungi kita. Kamu boleh bertanya kepada guru jika suatu aturan belum jelas.\n\n## Misi 2: Rapat kelas yang adil\n\nBayangkan kelompokmu membuat peraturan meminjam pensil warna. Dito ingin satu anak memegang semua pensil, sedangkan Ayu ingin memakai bergantian. Dengarkan keduanya. Sepakati aturan yang adil, misalnya setiap anak meminjam secukupnya lalu mengembalikan. **Kesepakatan harus dilaksanakan, bukan hanya ditulis di poster.**\n\n## Misi 3: Pilah dua kotak\n\nKotak **HAK** berisi sesuatu yang layak diterima: belajar, perlindungan, kasih sayang, dan waktu beristirahat. Kotak **KEWAJIBAN** berisi tindakan bertanggung jawab: menjaga buku, piket, menghormati giliran, dan merapikan barang.\n\n![Kartu bergambar hak anak dan tugas aman di rumah serta sekolah.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-materi-02.svg)\n\nCoba kamu pilah: “Mendapat penjelasan guru” termasuk hak. “Tidak mengganggu teman yang sedang belajar” termasuk kewajiban. Keduanya saling mendukung. Namun, hak atas keselamatan dan perlindungan **tidak boleh dicabut** sebagai hukuman.\n\n## Tantangan untukmu\n\nTuliskan satu kesepakatan kelas yang membuat semua orang nyaman. Jelaskan alasannya. Lalu ceritakan satu tugas kecil di rumah yang kamu kerjakan dengan aman.\n\n**Bintang detektif:** Kamu hebat jika mampu menaati aturan, mendengar teman, dan menjaga hak bersama!"
+    }
+  ]
+}
