@@ -1,0 +1,109 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B03",
+      "chapter_title": "I Have Fried Chicken for Breakfast",
+      "questions": [
+        {
+          "id": "K03-ENG-B03-M01-046",
+          "type": "PG",
+          "text": "What does the speaker drink at breakfast?",
+          "options": [
+            "water",
+            "milk",
+            "tea",
+            "orange juice"
+          ],
+          "answer": "milk",
+          "discussion": "The speaker names bread and milk. Milk is the drink.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "I have bread and milk for breakfast.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-047",
+          "type": "PG",
+          "text": "When does Ayu have rice?",
+          "options": [
+            "at dinner",
+            "at breakfast",
+            "at lunch",
+            "at lunch and dinner"
+          ],
+          "answer": "at dinner",
+          "discussion": "The second part links rice to dinner.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Ayu has soup for lunch and rice for dinner.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-048",
+          "type": "PG",
+          "text": "Which food should you record for Beni?",
+          "options": [
+            "fried rice",
+            "fried chicken",
+            "noodles",
+            "bread"
+          ],
+          "answer": "fried rice",
+          "discussion": "Beni mentions fried rice as the food and water as the drink.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "What do you have for lunch, Beni? I have fried rice and water.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-049",
+          "type": "PG",
+          "text": "Who has bread?",
+          "options": [
+            "the speaker",
+            "both people",
+            "neither person",
+            "the speaker's sister"
+          ],
+          "answer": "the speaker's sister",
+          "discussion": "The second sentence says the speaker's sister has bread.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "I have eggs for breakfast. My sister has bread for breakfast.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-050",
+          "type": "PG",
+          "text": "Which order matches the recording?",
+          "options": [
+            "noodles at lunch, then rice at dinner",
+            "rice at both meals",
+            "rice at lunch, then noodles at dinner",
+            "noodles at both meals"
+          ],
+          "answer": "rice at lunch, then noodles at dinner",
+          "discussion": "The recording connects rice with lunch and noodles with dinner.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "We have rice for lunch. We have noodles for dinner.",
+            "rate": 0.85
+          }
+        }
+      ]
+    }
+  ]
+}
