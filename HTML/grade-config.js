@@ -3,10 +3,11 @@
   'use strict';
   const grades = {
     6: { grade: 6, dataPath: '', chapterPrefix: '', manifestSubjects: ['MTK', 'SBD', 'PJK'], imageQuotaSubjects: ['MTK', 'SBD', 'PJK'] },
-    3: { grade: 3, dataPath: 'kelas-3/', chapterPrefix: 'K03-', manifestSubjects: ['BIN', 'PKN', 'MTK'], imageQuotaSubjects: ['BIN', 'PKN', 'MTK'], subjects: [
+    3: { grade: 3, dataPath: 'kelas-3/', chapterPrefix: 'K03-', manifestSubjects: ['BIN', 'PKN', 'MTK', 'SBD'], imageQuotaSubjects: ['BIN', 'PKN', 'MTK', 'SBD'], subjects: [
       { id: 'BIN', name: 'Bahasa Indonesia', icon: '📚', chapters: ['Kawan Seiring', 'Yuk, Berpendapat!', 'Pribadi yang Hebat', 'Menyelamatkan Lingkungan'] },
       { id: 'PKN', name: 'Pendidikan Pancasila', icon: '🇮🇩', chapters: ['Aku Anak Indonesia', 'Aku Patuh Aturan', 'Berbeda Itu Indah', 'Ayo Mengenal Pancasila'] },
-      { id: 'MTK', name: 'Matematika', icon: '🔢', chapters: ['Bilangan Cacah sampai 1.000', 'Kalimat Matematika', 'Pengukuran Panjang dan Berat', 'Unsur-Unsur Bangun Datar', 'Penyajian Data dalam Tabel'] }
+      { id: 'MTK', name: 'Matematika', icon: '🔢', chapters: ['Bilangan Cacah sampai 1.000', 'Kalimat Matematika', 'Pengukuran Panjang dan Berat', 'Unsur-Unsur Bangun Datar', 'Penyajian Data dalam Tabel'] },
+      { id: 'SBD', name: 'Seni Rupa', icon: '🎨', chapters: ['Menemukan Keindahan di Sekitar Kita', 'Belajar dari Karya Orang Lain', 'Ideku, Gagasanku', 'Karya yang Mewakili Diriku', 'Aku Seniman Cilik'] }
     ] }
   };
   function resolve(search = '') {
