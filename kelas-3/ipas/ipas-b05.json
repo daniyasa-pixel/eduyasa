@@ -1,0 +1,664 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B05",
+      "chapter_title": "Bijak Berbelanja Kebutuhan",
+      "questions": [
+        {
+          "id": "K03-IPAS-B05-M01-001",
+          "type": "PG",
+          "text": "Uang memudahkan kegiatan jual beli karena dapat digunakan sebagai ...",
+          "options": [
+            "Alat tukar untuk barang atau jasa",
+            "Jaminan bahwa semua barang selalu murah",
+            "Pengganti semua kebutuhan manusia",
+            "Tanda bahwa pemiliknya tidak perlu membuat pilihan"
+          ],
+          "answer": "Alat tukar untuk barang atau jasa",
+          "discussion": "Uang diterima sebagai alat pembayaran sehingga pembeli tidak perlu mencari barang yang diinginkan penjual untuk ditukar."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-002",
+          "type": "PG",
+          "text": "Raka menukar beberapa mangga dengan beras milik tetangga tanpa memakai uang. Kegiatan ini disebut ...",
+          "options": [
+            "Menabung",
+            "Barter",
+            "Membayar dengan uang tunai",
+            "Menerima kembalian"
+          ],
+          "answer": "Barter",
+          "discussion": "Barter adalah pertukaran barang atau jasa tanpa menggunakan uang, seperti mangga dengan beras."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-003",
+          "type": "PG",
+          "text": "Dina ingin menukar roti dengan pensil. Pemilik pensil tidak membutuhkan roti. Mengapa barter belum terjadi?",
+          "options": [
+            "Setiap orang harus menerima barang apa pun",
+            "Barter hanya memerlukan keinginan satu pihak",
+            "Keduanya belum saling menyetujui barang yang ditukar",
+            "Roti tidak pernah mempunyai kegunaan"
+          ],
+          "answer": "Keduanya belum saling menyetujui barang yang ditukar",
+          "discussion": "Barter memerlukan kesesuaian kebutuhan dan kesepakatan kedua pihak; keinginan Dina saja belum cukup."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-004",
+          "type": "PG",
+          "text": "Dua orang berbeda pendapat tentang banyak jeruk yang setara dengan sebuah keranjang. Apa yang perlu dilakukan agar barter berlangsung baik?",
+          "options": [
+            "Memaksa orang yang membawa jeruk mengikuti kemauan sendiri",
+            "Mengambil keranjang sebelum disetujui",
+            "Menganggap semua barang pasti bernilai sama",
+            "Membicarakan nilai pertukaran hingga keduanya setuju"
+          ],
+          "answer": "Membicarakan nilai pertukaran hingga keduanya setuju",
+          "discussion": "Nilai barang dalam barter perlu disepakati; tidak ada aturan bahwa satu barang selalu setara satu barang lain."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-005",
+          "type": "PG",
+          "text": "Mengapa ikan segar dapat menyulitkan barter jika harus dibawa berhari-hari?",
+          "options": [
+            "Ikan dapat membusuk sebelum berhasil ditukar",
+            "Nilai ikan selalu sama dengan semua barang",
+            "Ikan pasti tidak dibutuhkan siapa pun",
+            "Ikan tidak boleh ditukar dalam keadaan apa pun"
+          ],
+          "answer": "Ikan dapat membusuk sebelum berhasil ditukar",
+          "discussion": "Barang yang mudah rusak dapat berkurang kegunaannya selama menunggu pertukaran; ini salah satu kesulitan barter."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-006",
+          "type": "PG",
+          "text": "Penjual buku tidak membutuhkan buah milik Beni, tetapi menerima uang. Bagaimana uang membantu Beni memperoleh buku?",
+          "options": [
+            "Uang membuat penjual wajib menerima buah",
+            "Beni dapat membayar harga buku tanpa menukar buah langsung",
+            "Beni bebas menentukan harga tanpa persetujuan",
+            "Uang membuat semua buku menjadi gratis"
+          ],
+          "answer": "Beni dapat membayar harga buku tanpa menukar buah langsung",
+          "discussion": "Dengan alat pembayaran yang diterima penjual, kebutuhan kedua pihak tidak harus cocok dalam bentuk barang barter."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-007",
+          "type": "PG",
+          "text": "Contoh penggunaan uang untuk memperoleh jasa ialah ...",
+          "options": [
+            "Membeli satu buku tulis",
+            "Membeli satu penghapus",
+            "Membayar ongkos potong rambut",
+            "Membeli satu botol air minum"
+          ],
+          "answer": "Membayar ongkos potong rambut",
+          "discussion": "Potong rambut adalah layanan atau pekerjaan untuk pelanggan; tiga pilihan lain merupakan pembelian barang."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-008",
+          "type": "PG",
+          "text": "Bu Mira menjual sayur dan Pak Danu membayar untuk membelinya. Peran mereka dalam transaksi itu ialah ...",
+          "options": [
+            "Bu Mira pembeli, Pak Danu penjual",
+            "Keduanya hanya menjadi penjual",
+            "Keduanya hanya menjadi pembeli",
+            "Bu Mira penjual, Pak Danu pembeli"
+          ],
+          "answer": "Bu Mira penjual, Pak Danu pembeli",
+          "discussion": "Peran ditentukan oleh tindakan dalam transaksi: menawarkan barang untuk dijual dan membayar untuk memperolehnya."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-009",
+          "type": "PG",
+          "text": "Apa yang membuat pasar menjadi tempat kegiatan ekonomi?",
+          "options": [
+            "Di sana orang dapat melakukan jual beli barang atau jasa",
+            "Semua barang yang ada pasti gratis",
+            "Pengunjung harus menukar barang tanpa uang",
+            "Semua penjual selalu menjual barang yang sama"
+          ],
+          "answer": "Di sana orang dapat melakukan jual beli barang atau jasa",
+          "discussion": "Pasar mempertemukan pihak yang menawarkan dan membutuhkan barang atau jasa; barang serta cara pembayarannya dapat beragam."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-010",
+          "type": "PG",
+          "text": "Apa manfaat mencatat untuk apa uang dipakai?",
+          "options": [
+            "Membuat uang yang dibelanjakan kembali sendiri",
+            "Membantu mengetahui pengeluaran dan merencanakan sisa uang",
+            "Menghilangkan kebutuhan menghitung pembayaran",
+            "Menjamin harga tidak akan berubah"
+          ],
+          "answer": "Membantu mengetahui pengeluaran dan merencanakan sisa uang",
+          "discussion": "Catatan menunjukkan penggunaan uang yang dapat dibandingkan dengan rencana; catatan bukan penambah uang."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-011",
+          "type": "PG",
+          "text": "Satu lembar bernilai $\\text{Rp}2.000$ setara dengan empat keping yang masing-masing bernilai ...",
+          "options": [
+            "$\\text{Rp}100$",
+            "$\\text{Rp}200$",
+            "$\\text{Rp}500$",
+            "$\\text{Rp}1.000$"
+          ],
+          "answer": "$\\text{Rp}500$",
+          "discussion": "Empat keping bernilai $500$ rupiah berjumlah $4\\times500=2.000$ rupiah, sama dengan nilai lembar itu."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-012",
+          "type": "PG",
+          "text": "Lala mempunyai dua lembar masing-masing $\\text{Rp}1.000$. Dito mempunyai satu lembar $\\text{Rp}5.000$. Pernyataan yang benar ialah ...",
+          "options": [
+            "Nilai uang Lala lebih besar karena lembarnya lebih banyak",
+            "Nilai keduanya pasti sama karena berbentuk kertas",
+            "Jumlah lembar selalu menentukan nilai tanpa membaca nominal",
+            "Nilai uang Dito lebih besar meski jumlah lembarnya lebih sedikit"
+          ],
+          "answer": "Nilai uang Dito lebih besar meski jumlah lembarnya lebih sedikit",
+          "discussion": "Uang Lala bernilai $2\\times1.000=2.000$ rupiah, sedangkan Dito $5.000$ rupiah; nominal perlu dijumlahkan."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-013",
+          "type": "PG",
+          "text": "Nama mata uang yang digunakan di Indonesia ialah ...",
+          "options": [
+            "Rupiah",
+            "Ringgit",
+            "Yen",
+            "Dolar Amerika Serikat"
+          ],
+          "answer": "Rupiah",
+          "discussion": "Rupiah adalah mata uang Indonesia; nama mata uang negara lain tidak menjadi nama uang Indonesia."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-014",
+          "type": "PG",
+          "text": "Dua toko menjual satu buku tulis dengan jenis, ukuran, dan jumlah halaman sama. Informasi yang paling membantu membandingkan biaya pembelian ialah ...",
+          "options": [
+            "Warna papan nama toko saja",
+            "Harga satu buku di masing-masing toko",
+            "Banyak orang yang memegang buku saja",
+            "Merek tas milik penjaga toko"
+          ],
+          "answer": "Harga satu buku di masing-masing toko",
+          "discussion": "Perbandingan harga bermakna jika barang dan jumlah yang dibandingkan setara; ciri toko saja tidak menyatakan biaya buku."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-015",
+          "type": "PG",
+          "text": "Harga penggaris $\\text{Rp}4.000$, sedangkan uang yang tersedia $\\text{Rp}3.000$. Keputusan yang sesuai ialah ...",
+          "options": [
+            "Mengambil penggaris tanpa membayar penuh",
+            "Menganggap uang cukup karena hanya kurang sedikit",
+            "Menunda pembelian atau mencari penggaris sesuai uang yang tersedia",
+            "Meminta kembalian sebelum menyerahkan uang"
+          ],
+          "answer": "Menunda pembelian atau mencari penggaris sesuai uang yang tersedia",
+          "discussion": "Uang belum cukup karena $3.000<4.000$; pilihan perlu disesuaikan tanpa mengambil hak penjual."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-016",
+          "type": "PG",
+          "text": "Harga roti $\\text{Rp}6.500$ dibayar dengan $\\text{Rp}10.000$. Kembalian yang sesuai ialah ...",
+          "options": [
+            "$\\text{Rp}6.500$",
+            "$\\text{Rp}4.500$",
+            "$\\text{Rp}16.500$",
+            "$\\text{Rp}3.500$"
+          ],
+          "answer": "$\\text{Rp}3.500$",
+          "discussion": "Kembalian adalah pembayaran dikurangi harga, yaitu $10.000-6.500=3.500$ rupiah."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-017",
+          "type": "PG",
+          "text": "Satu pensil berharga $\\text{Rp}2.000$ dan satu penghapus $\\text{Rp}3.000$. Biaya membeli keduanya ialah ...",
+          "options": [
+            "$\\text{Rp}5.000$",
+            "$\\text{Rp}1.000$",
+            "$\\text{Rp}6.000$",
+            "$\\text{Rp}3.000$"
+          ],
+          "answer": "$\\text{Rp}5.000$",
+          "discussion": "Kedua harga dijumlahkan: $2.000+3.000=5.000$ rupiah; selisih harga bukan biaya keseluruhannya."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-018",
+          "type": "PG",
+          "text": "Nisa mempunyai $\\text{Rp}10.000$. Ia perlu buku $\\text{Rp}7.000$ dan pensil $\\text{Rp}4.000$. Apa masalah pada rencana membeli keduanya?",
+          "options": [
+            "Uang tersedia lebih besar daripada total belanja",
+            "Total belanja melebihi uang yang tersedia",
+            "Kedua barang dapat dibeli tanpa membayar",
+            "Nisa pasti mendapat kembalian $\\text{Rp}1.000$"
+          ],
+          "answer": "Total belanja melebihi uang yang tersedia",
+          "discussion": "Totalnya $7.000+4.000=11.000$ rupiah, lebih besar daripada uang $10.000$ rupiah; rencana perlu disesuaikan."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-019",
+          "type": "PG",
+          "text": "Rencana penggunaan $\\text{Rp}10.000$ mana yang tidak melebihi uang itu?",
+          "options": [
+            "Makan $\\text{Rp}5.000$, alat tulis $\\text{Rp}4.000$, menabung $\\text{Rp}3.000$",
+            "Makan $\\text{Rp}6.000$, alat tulis $\\text{Rp}3.000$, menabung $\\text{Rp}2.000$",
+            "Makan $\\text{Rp}4.000$, alat tulis $\\text{Rp}3.000$, menabung $\\text{Rp}3.000$",
+            "Makan $\\text{Rp}4.000$, alat tulis $\\text{Rp}5.000$, menabung $\\text{Rp}4.000$"
+          ],
+          "answer": "Makan $\\text{Rp}4.000$, alat tulis $\\text{Rp}3.000$, menabung $\\text{Rp}3.000$",
+          "discussion": "Pilihan benar berjumlah $4.000+3.000+3.000=10.000$ rupiah. Pilihan lain masing-masing berjumlah $12.000$, $11.000$, dan $13.000$ rupiah."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-020",
+          "type": "PG",
+          "text": "Tabungan awal kosong. Sari menyimpan $\\text{Rp}2.000$ sehari selama tiga hari tanpa mengambilnya. Jumlah tabungannya ialah ...",
+          "options": [
+            "$\\text{Rp}2.000$",
+            "$\\text{Rp}3.000$",
+            "$\\text{Rp}5.000$",
+            "$\\text{Rp}6.000$"
+          ],
+          "answer": "$\\text{Rp}6.000$",
+          "discussion": "Tiga setoran yang sama dijumlahkan: $2.000+2.000+2.000=6.000$ rupiah. Tidak ada penarikan pada cerita."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-021",
+          "type": "PG",
+          "text": "Uang Rino $\\text{Rp}8.000$. Ia menyisihkan $\\text{Rp}2.000$ untuk ditabung. Berapa uang yang masih boleh dipakai dalam rencana belanjanya?",
+          "options": [
+            "$\\text{Rp}6.000$",
+            "$\\text{Rp}8.000$",
+            "$\\text{Rp}10.000$",
+            "$\\text{Rp}2.000$"
+          ],
+          "answer": "$\\text{Rp}6.000$",
+          "discussion": "Uang untuk belanja tinggal $8.000-2.000=6.000$ rupiah; uang tabungan tetap miliknya tetapi sudah dipisahkan dari rencana belanja."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-022",
+          "type": "PG",
+          "text": "Kelompok yang semuanya merupakan kebutuhan pokok manusia ialah ...",
+          "options": [
+            "Mainan koleksi, gelang hias, dan stiker",
+            "Makanan, pakaian layak, dan tempat tinggal",
+            "Mobil mewah, jam mewah, dan perhiasan",
+            "Tas mode terbaru, aksesori tambahan, dan hiasan"
+          ],
+          "answer": "Makanan, pakaian layak, dan tempat tinggal",
+          "discussion": "Pangan, sandang, dan papan menunjang kehidupan dasar; kelompok lain berisi barang tambahan atau mewah."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-023",
+          "type": "PG",
+          "text": "Pensil satu-satunya milik Ari habis dan ia perlu menulis besok. Ia juga ingin stiker baru. Barang yang perlu didahulukan ialah ...",
+          "options": [
+            "Stiker untuk menghias",
+            "Kedua barang harus dibeli meski uang tidak cukup",
+            "Pensil untuk menulis",
+            "Barang yang paling banyak diiklankan"
+          ],
+          "answer": "Pensil untuk menulis",
+          "discussion": "Cerita menunjukkan pensil diperlukan untuk kegiatan belajar segera, sedangkan stiker dapat ditunda."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-024",
+          "type": "PG",
+          "text": "Tas lama Mila masih kuat dan cukup membawa buku. Ia ingin tas lain hanya karena gambar tokohnya baru. Tas tambahan itu dalam cerita termasuk ...",
+          "options": [
+            "Kebutuhan mendesak karena tas lama rusak",
+            "Pengganti makanan pokok",
+            "Barang yang wajib dimiliki semua siswa",
+            "Keinginan yang dapat ditunda"
+          ],
+          "answer": "Keinginan yang dapat ditunda",
+          "discussion": "Tas yang ada masih memenuhi fungsi; alasan gambar baru belum menunjukkan kebutuhan menggantinya sekarang."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-025",
+          "type": "PG",
+          "text": "Uang keluarga terbatas. Ada kebutuhan obat sesuai arahan tenaga kesehatan dan keinginan hiasan kamar baru. Apa yang perlu dibicarakan untuk didahulukan?",
+          "options": [
+            "Kebutuhan kesehatan yang sedang diperlukan",
+            "Hiasan baru agar mengikuti tren",
+            "Barang yang paling menarik iklannya",
+            "Barang yang ingin dibeli tetangga"
+          ],
+          "answer": "Kebutuhan kesehatan yang sedang diperlukan",
+          "discussion": "Kebutuhan kesehatan mempunyai akibat penting bila ditunda; penggunaan obat tetap mengikuti arahan tenaga kesehatan dan orang dewasa."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-026",
+          "type": "PG",
+          "text": "Mengapa sepatu pengganti dapat menjadi kebutuhan ketika sepatu lama sudah rusak dan tidak aman dipakai ke sekolah?",
+          "options": [
+            "Semua sepatu baru selalu merupakan kemewahan",
+            "Fungsi melindungi kaki tidak lagi terpenuhi dengan baik",
+            "Merek terkenal adalah satu-satunya alasan membeli",
+            "Harga paling tinggi selalu menjadi syarat keselamatan"
+          ],
+          "answer": "Fungsi melindungi kaki tidak lagi terpenuhi dengan baik",
+          "discussion": "Penilaian kebutuhan mempertimbangkan fungsi dan keadaan barang lama; bukan hanya apakah barang itu baru atau bermerek."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-027",
+          "type": "PG",
+          "text": "Seorang pekerja memerlukan alat tertentu untuk bekerja, sedangkan anak tidak memerlukannya untuk tugas sekolah. Apa yang ditunjukkan keadaan itu?",
+          "options": [
+            "Semua orang harus membeli alat yang sama",
+            "Anak selalu memerlukan semua alat kerja orang dewasa",
+            "Kebutuhan dapat berbeda sesuai kegiatan orang",
+            "Kegunaan barang tidak perlu dipertimbangkan"
+          ],
+          "answer": "Kebutuhan dapat berbeda sesuai kegiatan orang",
+          "discussion": "Kebutuhan dipengaruhi kegiatan dan kondisi; barang yang penting bagi satu orang belum tentu perlu bagi orang lain."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-028",
+          "type": "PG",
+          "text": "Teman tidak membeli mainan baru karena uangnya dipakai untuk kebutuhan rumah. Sikap yang baik ialah ...",
+          "options": [
+            "Menilai pertemanan dari banyaknya mainan",
+            "Memaksanya membeli agar sama dengan kelompok",
+            "Menyebarkan keadaan uang keluarganya",
+            "Menghargai pilihannya tanpa mengejek"
+          ],
+          "answer": "Menghargai pilihannya tanpa mengejek",
+          "discussion": "Kondisi keluarga berbeda; menghormati prioritas dan privasi teman tidak bergantung pada barang yang dimiliki."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-029",
+          "type": "PG",
+          "text": "Dalam pembagian kebutuhan menurut kepentingannya, kebutuhan sekunder terutama berfungsi untuk ...",
+          "options": [
+            "Melengkapi kebutuhan utama yang sudah terpenuhi",
+            "Menggantikan semua makanan dan minuman",
+            "Menjadi kemewahan yang harus dibeli paling dahulu",
+            "Menghapus kebutuhan tempat tinggal"
+          ],
+          "answer": "Melengkapi kebutuhan utama yang sudah terpenuhi",
+          "discussion": "Kebutuhan sekunder bersifat pelengkap. Contohnya perlu dinilai menurut keadaan, bukan menganggap semua barang selalu berada di kelompok yang sama."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-030",
+          "type": "PG",
+          "text": "Contoh keinginan yang berkaitan dengan kemewahan, bukan fungsi dasar, ialah ...",
+          "options": [
+            "Membeli makanan pokok yang sudah habis",
+            "Membeli jam berhias permata hanya untuk koleksi mewah",
+            "Memperbaiki atap bocor yang membahayakan",
+            "Mendapatkan air minum bersih"
+          ],
+          "answer": "Membeli jam berhias permata hanya untuk koleksi mewah",
+          "discussion": "Koleksi jam mewah menonjolkan kemewahan setelah kebutuhan utama; tiga pilihan lain berhubungan dengan kebutuhan dasar atau keselamatan."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-031",
+          "type": "PG",
+          "text": "Jaket hangat lebih berguna saat dibawa ke daerah pegunungan yang dingin daripada ditinggal di tempat panas. Contoh ini menekankan nilai guna ...",
+          "options": [
+            "Bentuk",
+            "Bahan dasar",
+            "Tempat",
+            "Kemasan"
+          ],
+          "answer": "Tempat",
+          "discussion": "Kegunaan bertambah karena lokasi penggunaannya sesuai, tanpa perlu mengubah bentuk jaket."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-032",
+          "type": "PG",
+          "text": "Kayu diolah menjadi kursi yang dapat diduduki. Kegunaan yang berubah pada contoh itu terutama karena ...",
+          "options": [
+            "Kayu hanya dipindahkan ke ruangan lain",
+            "Waktu pembelian kursi ditunda",
+            "Harga kursi ditulis lebih besar",
+            "Bentuk kayu diubah menjadi barang siap digunakan"
+          ],
+          "answer": "Bentuk kayu diubah menjadi barang siap digunakan",
+          "discussion": "Perubahan bentuk bahan menjadi kursi menghasilkan kegunaan baru; ini contoh nilai guna bentuk."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-033",
+          "type": "PG",
+          "text": "Jas hujan terasa sangat berguna ketika hujan mulai turun. Contoh ini terutama menekankan nilai guna ...",
+          "options": [
+            "Waktu",
+            "Bentuk",
+            "Bahan dasar",
+            "Merek"
+          ],
+          "answer": "Waktu",
+          "discussion": "Saat pemakaian membuat manfaatnya terasa; jas hujan tidak perlu berubah bentuk atau merek untuk melindungi dari hujan."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-034",
+          "type": "PG",
+          "text": "Kayu mentah dapat menjadi bahan untuk membuat berbagai perabot. Kegunaan yang sudah dimiliki bahan mentah itu disebut nilai guna ...",
+          "options": [
+            "Waktu",
+            "Dasar",
+            "Tempat",
+            "Kemasan"
+          ],
+          "answer": "Dasar",
+          "discussion": "Nilai guna dasar berkaitan dengan manfaat bahan mentah yang dapat dipakai atau diolah; contoh ini belum menunjukkan perubahan menjadi perabot tertentu."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-035",
+          "type": "PG",
+          "text": "Dua botol minum aman dan berfungsi sama. Yang lebih mahal hanya mempunyai gambar tambahan. Mengapa harga lebih tinggi belum tentu membuatnya lebih diperlukan?",
+          "options": [
+            "Semua barang mahal pasti rusak",
+            "Semua barang murah pasti lebih aman",
+            "Tambahan harga dapat berasal dari hiasan, bukan kebutuhan fungsi",
+            "Gambar tambahan selalu menggantikan fungsi minum"
+          ],
+          "answer": "Tambahan harga dapat berasal dari hiasan, bukan kebutuhan fungsi",
+          "discussion": "Kebutuhan dinilai dari fungsi, keamanan, keadaan barang, dan anggaran; harga saja tidak membuktikan bahwa barang lebih diperlukan."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-036",
+          "type": "PG",
+          "text": "Sampul buku sedikit terlepas, tetapi halaman masih baik. Langkah hemat yang dapat dibantu orang dewasa ialah ...",
+          "options": [
+            "Membuang semua halaman yang masih baik",
+            "Selalu membeli buku baru tanpa memeriksa kerusakan",
+            "Membiarkan sampul makin rusak agar segera diganti",
+            "Memperbaiki sampul agar buku tetap dapat digunakan"
+          ],
+          "answer": "Memperbaiki sampul agar buku tetap dapat digunakan",
+          "discussion": "Perbaikan sederhana dapat mempertahankan fungsi barang dan mengurangi pembelian yang belum perlu."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-037",
+          "type": "PG",
+          "text": "Apa langkah yang berguna sebelum membuat daftar belanja keluarga?",
+          "options": [
+            "Memeriksa persediaan dan kebutuhan yang belum terpenuhi",
+            "Menyalin semua barang pada iklan",
+            "Menulis barang yang sudah banyak meski tidak dipakai",
+            "Menentukan daftar hanya dari kemasan menarik"
+          ],
+          "answer": "Memeriksa persediaan dan kebutuhan yang belum terpenuhi",
+          "discussion": "Memeriksa persediaan mencegah membeli berlebihan dan membantu menentukan barang yang benar-benar diperlukan."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-038",
+          "type": "PG",
+          "text": "Harga barang pada daftar naik sehingga total rencana melebihi anggaran. Apa yang sebaiknya dilakukan?",
+          "options": [
+            "Tetap mengambil semua barang meski uang kurang",
+            "Menghitung ulang dan menyesuaikan jumlah atau pilihan barang",
+            "Menganggap harga lama pasti berlaku",
+            "Menghabiskan uang tabungan orang lain tanpa izin"
+          ],
+          "answer": "Menghitung ulang dan menyesuaikan jumlah atau pilihan barang",
+          "discussion": "Perubahan harga memengaruhi jumlah biaya; rencana perlu diperiksa ulang sambil mempertahankan kebutuhan yang lebih penting."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-039",
+          "type": "PG",
+          "text": "Saat membandingkan dua makanan kemasan, apa yang perlu diperhatikan selain harga?",
+          "options": [
+            "Hanya warna yang paling cerah",
+            "Hanya besar gambar di bagian depan",
+            "Kondisi kemasan, isi, dan keterangan masa pakai",
+            "Hanya banyaknya teman yang tertarik"
+          ],
+          "answer": "Kondisi kemasan, isi, dan keterangan masa pakai",
+          "discussion": "Harga murah saja belum cukup; isi dan keamanan produk juga perlu diperiksa bersama orang dewasa."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-040",
+          "type": "PG",
+          "text": "Kemasan makanan murah sudah robek dan terkena kotoran. Keputusan paling tepat ialah ...",
+          "options": [
+            "Membelinya karena harga murah menghapus risiko",
+            "Menganggap isi pasti aman tanpa memeriksa",
+            "Menutup robekan lalu langsung memakannya",
+            "Tidak membelinya dan mencari pilihan yang layak"
+          ],
+          "answer": "Tidak membelinya dan mencari pilihan yang layak",
+          "discussion": "Kemasan rusak dapat membuat makanan tercemar; hemat tidak berarti mengabaikan keamanan."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-041",
+          "type": "PG",
+          "text": "Jumlah pada struk berbeda dari harga yang disepakati. Apa tindakan yang tepat?",
+          "options": [
+            "Memeriksa bersama penjual dan menanyakan perbedaannya dengan sopan",
+            "Langsung menuduh penjual tanpa memeriksa",
+            "Membuang struk agar tidak perlu menghitung",
+            "Mengambil barang tambahan diam-diam"
+          ],
+          "answer": "Memeriksa bersama penjual dan menanyakan perbedaannya dengan sopan",
+          "discussion": "Struk membantu memeriksa transaksi; bertanya memberi kesempatan memperbaiki kekeliruan tanpa langsung menuduh."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-042",
+          "type": "PG",
+          "text": "Mengapa membawa tas belanja yang dapat digunakan berulang kali bisa membantu lingkungan?",
+          "options": [
+            "Membuat semua barang menjadi lebih murah secara otomatis",
+            "Mengurangi kebutuhan kantong sekali pakai",
+            "Menghilangkan kebutuhan menjaga kebersihan tas",
+            "Membuat barang tidak perlu dibayar"
+          ],
+          "answer": "Mengurangi kebutuhan kantong sekali pakai",
+          "discussion": "Tas yang layak dipakai berulang dapat mengurangi kantong sekali pakai; harga dan kebersihannya tetap perlu diperhatikan."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-043",
+          "type": "PG",
+          "text": "Metode 3D untuk membantu mengenali ciri keaslian uang Rupiah kertas ialah ...",
+          "options": [
+            "Dicuci, dilipat, dilem",
+            "Dicoret, diremas, digunting",
+            "Dilihat, diraba, diterawang",
+            "Dihitung, dibelanjakan, ditabung"
+          ],
+          "answer": "Dilihat, diraba, diterawang",
+          "discussion": "Bank Indonesia mengenalkan 3D untuk memeriksa ciri pengaman uang kertas, bukan merusak atau sekadar menghitung uang."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-044",
+          "type": "PG",
+          "text": "Mengapa warna uang saja tidak cukup untuk memastikan keasliannya?",
+          "options": [
+            "Setiap uang dengan warna cerah pasti asli",
+            "Uang yang pudar pasti palsu",
+            "Jumlah lembar selalu membuktikan keaslian",
+            "Pemeriksaan perlu memperhatikan beberapa ciri pengaman, bukan satu warna"
+          ],
+          "answer": "Pemeriksaan perlu memperhatikan beberapa ciri pengaman, bukan satu warna",
+          "discussion": "Ciri keaslian perlu diperiksa dengan panduan 3D; warna saja tidak cukup untuk mengambil keputusan."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-045",
+          "type": "PG",
+          "text": "Cara merawat uang kertas yang sesuai ialah ...",
+          "options": [
+            "Menyimpannya dengan baik tanpa mencoret atau membasahinya",
+            "Menulis nama pada seluruh permukaannya",
+            "Meremas agar mudah dimasukkan ke saku",
+            "Mencucinya agar warna selalu baru"
+          ],
+          "answer": "Menyimpannya dengan baik tanpa mencoret atau membasahinya",
+          "discussion": "Menjaga kondisi fisik uang membantu uang tetap layak digunakan; coretan, remasan, dan air dapat merusaknya."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-046",
+          "type": "PG",
+          "text": "Anak kehilangan uang titipan untuk belanja. Langkah pertama yang bertanggung jawab ialah ...",
+          "options": [
+            "Mengambil uang teman untuk mengganti tanpa izin",
+            "Memberi tahu orang dewasa yang menitipkan uang dengan jujur",
+            "Menutupi kejadian dengan cerita palsu",
+            "Menyalahkan penjual tanpa bukti"
+          ],
+          "answer": "Memberi tahu orang dewasa yang menitipkan uang dengan jujur",
+          "discussion": "Kejujuran membantu orang dewasa mencari solusi; mengambil milik orang lain atau menuduh tanpa bukti menambah masalah."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-047",
+          "type": "PG",
+          "text": "Beni ingin mainan tambahan, tetapi uangnya belum cukup dan kebutuhan lain harus dipenuhi. Pilihan yang bijak ialah ...",
+          "options": [
+            "Memaksa teman meminjamkan uang",
+            "Memakai uang titipan belanja tanpa izin",
+            "Menunda dan menabung jika kebutuhan utama sudah tercukupi",
+            "Mengurangi kebutuhan makan penting hanya demi mainan"
+          ],
+          "answer": "Menunda dan menabung jika kebutuhan utama sudah tercukupi",
+          "discussion": "Keinginan tambahan dapat direncanakan kemudian tanpa mengorbankan kebutuhan pokok atau hak orang lain."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-048",
+          "type": "PG",
+          "text": "Ada tawaran membeli dua barang agar harga per barang lebih murah. Kamu hanya membutuhkan satu. Apa yang perlu dipikirkan sebelum memilih?",
+          "options": [
+            "Harga per barang murah berarti total belanja pasti lebih kecil",
+            "Setiap promosi harus segera diikuti",
+            "Barang tambahan selalu menjadi kebutuhan mendesak",
+            "Apakah barang kedua akan digunakan dan total biaya sesuai anggaran"
+          ],
+          "answer": "Apakah barang kedua akan digunakan dan total biaya sesuai anggaran",
+          "discussion": "Potongan harga tidak otomatis membuat pembelian tambahan perlu; total biaya dan kegunaan tetap diperiksa."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-049",
+          "type": "PG",
+          "text": "Mengapa keputusan belanja untuk kebutuhan bersama sebaiknya dibicarakan dengan keluarga?",
+          "options": [
+            "Agar kebutuhan anggota dan uang yang tersedia dapat dipertimbangkan",
+            "Agar keinginan orang yang paling keras selalu menang",
+            "Agar daftar belanja tidak pernah boleh berubah",
+            "Agar semua anggota harus menyukai barang yang sama"
+          ],
+          "answer": "Agar kebutuhan anggota dan uang yang tersedia dapat dipertimbangkan",
+          "discussion": "Pembicaraan membantu mengenali kebutuhan dan menyepakati prioritas sesuai kondisi keluarga."
+        },
+        {
+          "id": "K03-IPAS-B05-M01-050",
+          "type": "PG",
+          "text": "Catatan menunjukkan uang banyak habis untuk aksesori tambahan sementara alat tulis perlu diganti. Perbaikan rencana yang sesuai ialah ...",
+          "options": [
+            "Menghentikan makan agar aksesori tetap terbeli",
+            "Mengurangi pembelian aksesori dan mendahulukan alat tulis yang diperlukan",
+            "Mengabaikan alat tulis karena tidak menarik",
+            "Mengubah catatan agar pengeluaran tampak lebih sedikit"
+          ],
+          "answer": "Mengurangi pembelian aksesori dan mendahulukan alat tulis yang diperlukan",
+          "discussion": "Catatan dipakai untuk memperbaiki pilihan; kebutuhan belajar dapat didahulukan tanpa mengorbankan kebutuhan makan atau kejujuran."
+        }
+      ]
+    }
+  ]
+}
