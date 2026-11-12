@@ -1,0 +1,184 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PJK-B02",
+      "chapter_title": "Aktivitas Pola Gerak Dasar Nonlokomotor",
+      "questions": [
+        {
+          "id": "K03-PJK-B02-M01-036",
+          "type": "PG",
+          "text": "Siswa bertahan dengan satu kaki terangkat. Apa yang perlu dikendalikan agar tidak terjatuh?",
+          "options": [
+            "mengatur posisi tubuh agar tidak jatuh",
+            "menutup mata sambil berlari",
+            "mendorong teman",
+            "berputar sangat cepat"
+          ],
+          "answer": "mengatur posisi tubuh agar tidak jatuh",
+          "discussion": "Menjaga keseimbangan satu kaki: mengatur posisi tubuh agar tidak jatuh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-01.svg",
+            "alt": "Ilustrasi Menjaga keseimbangan satu kaki"
+          }
+        },
+        {
+          "id": "K03-PJK-B02-M01-037",
+          "type": "PG",
+          "text": "Anak mengarahkan wajah ke samping. Bagaimana gerakan kepala yang aman?",
+          "options": [
+            "melompat jauh",
+            "menggiring bola",
+            "berlari",
+            "memutar kepala perlahan ke arah samping"
+          ],
+          "answer": "memutar kepala perlahan ke arah samping",
+          "discussion": "Menoleh: memutar kepala perlahan ke arah samping.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-02.svg",
+            "alt": "Ilustrasi Menoleh"
+          }
+        },
+        {
+          "id": "K03-PJK-B02-M01-038",
+          "type": "PG",
+          "text": "Gambar memperlihatkan gerakan batang tubuh ke samping. Manakah penjelasan yang tepat?",
+          "options": [
+            "melompat melewati garis",
+            "menangkap bola",
+            "menggerakkan badan ke samping secara terkendali",
+            "menendang bola"
+          ],
+          "answer": "menggerakkan badan ke samping secara terkendali",
+          "discussion": "Meliukkan badan: menggerakkan badan ke samping secara terkendali.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-03.svg",
+            "alt": "Ilustrasi Meliukkan badan"
+          }
+        },
+        {
+          "id": "K03-PJK-B02-M01-039",
+          "type": "PG",
+          "text": "Siswa menggerakkan anggota badan tetapi posisi kakinya tetap. Jenis gerak apakah ini?",
+          "options": [
+            "hanya gerak di kolam",
+            "gerak tubuh tanpa perpindahan tempat utama",
+            "gerak yang selalu berpindah jauh",
+            "hanya gerak dengan bola"
+          ],
+          "answer": "gerak tubuh tanpa perpindahan tempat utama",
+          "discussion": "Gerak nonlokomotor: gerak tubuh tanpa perpindahan tempat utama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-04.svg",
+            "alt": "Ilustrasi Gerak nonlokomotor"
+          }
+        },
+        {
+          "id": "K03-PJK-B02-M01-040",
+          "type": "PG",
+          "text": "Seorang anak berusaha meningkatkan kelenturan. Prinsip latihan mana yang aman?",
+          "options": [
+            "dilakukan perlahan sesuai kemampuan",
+            "dipaksakan sampai sakit",
+            "dilakukan sambil saling menarik keras",
+            "harus tanpa pemanasan"
+          ],
+          "answer": "dilakukan perlahan sesuai kemampuan",
+          "discussion": "Latihan kelentukan: dilakukan perlahan sesuai kemampuan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-05.svg",
+            "alt": "Ilustrasi Latihan kelentukan"
+          }
+        },
+        {
+          "id": "K03-PJK-B02-M01-041",
+          "type": "PG",
+          "text": "Siswa mencondongkan tubuh ke depan, tanpa maju. Gerak apa yang tampak?",
+          "options": [
+            "berlari ke depan",
+            "melompat jauh",
+            "menendang bola",
+            "menggerakkan badan ke depan tanpa berpindah tempat"
+          ],
+          "answer": "menggerakkan badan ke depan tanpa berpindah tempat",
+          "discussion": "Membungkuk: menggerakkan badan ke depan tanpa berpindah tempat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-06.svg",
+            "alt": "Ilustrasi Membungkuk"
+          }
+        },
+        {
+          "id": "K03-PJK-B02-M01-042",
+          "type": "PG",
+          "text": "Anak berubah arah hadap namun masih berdiri di titik yang sama. Gerak yang tepat adalah ....",
+          "options": [
+            "berlari cepat",
+            "melempar bola",
+            "mengubah arah hadap tubuh tanpa berpindah tempat",
+            "berjalan jauh"
+          ],
+          "answer": "mengubah arah hadap tubuh tanpa berpindah tempat",
+          "discussion": "Memutar badan: mengubah arah hadap tubuh tanpa berpindah tempat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-07.svg",
+            "alt": "Ilustrasi Memutar badan"
+          }
+        },
+        {
+          "id": "K03-PJK-B02-M01-043",
+          "type": "PG",
+          "text": "Lengan pada gambar bergerak maju dan mundur. Bagaimana seharusnya gerakan dilakukan?",
+          "options": [
+            "melompat tali",
+            "menggerakkan lengan bolak-balik secara terkontrol",
+            "menendang bola",
+            "berlari zig-zag"
+          ],
+          "answer": "menggerakkan lengan bolak-balik secara terkontrol",
+          "discussion": "Mengayun lengan: menggerakkan lengan bolak-balik secara terkontrol.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-08.svg",
+            "alt": "Ilustrasi Mengayun lengan"
+          }
+        },
+        {
+          "id": "K03-PJK-B02-M01-044",
+          "type": "PG",
+          "text": "Posisi kaki membentuk sudut di sendi lutut. Tindakan mana yang digambarkan?",
+          "options": [
+            "membengkokkan sendi lutut secara wajar",
+            "mengunci lutut lurus",
+            "melempar bola",
+            "berjalan cepat"
+          ],
+          "answer": "membengkokkan sendi lutut secara wajar",
+          "discussion": "Menekuk lutut: membengkokkan sendi lutut secara wajar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-09.svg",
+            "alt": "Ilustrasi Menekuk lutut"
+          }
+        },
+        {
+          "id": "K03-PJK-B02-M01-045",
+          "type": "PG",
+          "text": "Anak memanjangkan sisi tubuh ke kanan. Cara gerak yang benar adalah ....",
+          "options": [
+            "berlari sambil menabrak",
+            "melempar keras",
+            "menendang tinggi",
+            "memanjangkan sisi tubuh dengan gerakan terkendali"
+          ],
+          "answer": "memanjangkan sisi tubuh dengan gerakan terkendali",
+          "discussion": "Meregang ke samping: memanjangkan sisi tubuh dengan gerakan terkendali.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-10.svg",
+            "alt": "Ilustrasi Meregang ke samping"
+          }
+        }
+      ]
+    }
+  ]
+}
