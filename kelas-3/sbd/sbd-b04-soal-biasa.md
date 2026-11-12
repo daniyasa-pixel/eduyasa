@@ -1,10 +1,10 @@
 # Bab 4 — Karya yang Mewakili Diriku
 
-35 soal teks — draf untuk audit.
+35 soal teks — konteks karya identitas diri, simbol dan penghargaan perbedaan telah diperbarui.
 
 ## Soal 1 — K03-SBD-B04-M01-001
 
-**Pertanyaan:** Apa jawaban yang tepat? Potret diri adalah karya yang menggambarkan ....
+**Pertanyaan:** Fina membuat gambar wajah dan ciri dirinya untuk menceritakan siapa dirinya. Jenis karya ini menggambarkan ....
 
 **Pilihan jawaban:**
 - hanya bangunan
@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-SBD-B04-M01-002
 
-**Pertanyaan:** Apa jawaban yang tepat? Simbol hobi membaca dapat digambarkan dengan ....
+**Pertanyaan:** Raka ingin menunjukkan kesukaannya membaca lewat sebuah simbol sederhana. Objek apa yang cocok digambar?
 
 **Pilihan jawaban:**
 - sepeda
@@ -36,7 +36,7 @@
 
 ## Soal 3 — K03-SBD-B04-M01-003
 
-**Pertanyaan:** Apa jawaban yang tepat? Warna kesukaan pada karya diri dapat dipilih untuk ....
+**Pertanyaan:** Dina memilih warna ungu karena menyukainya, walaupun teman memilih hijau. Tujuan penggunaan warna pribadi adalah ....
 
 **Pilihan jawaban:**
 - menentukan nilai teman
@@ -52,7 +52,7 @@
 
 ## Soal 4 — K03-SBD-B04-M01-004
 
-**Pertanyaan:** Apa jawaban yang tepat? Identitas pada karya dapat ditulis berupa ....
+**Pertanyaan:** Saat menempelkan label pada hasil karyanya, Sita tidak ingin menulis nama panjang. Identitas yang dapat digunakan adalah ....
 
 **Pilihan jawaban:**
 - nama atau inisial pembuat
@@ -68,7 +68,7 @@
 
 ## Soal 5 — K03-SBD-B04-M01-005
 
-**Pertanyaan:** Apa jawaban yang tepat? Karya tentang pengalaman liburan dapat menggambarkan ....
+**Pertanyaan:** Seorang anak ingin mengabadikan perjalanan ke pantai. Informasi visual yang tepat untuk karya kenangan itu berupa ....
 
 **Pilihan jawaban:**
 - tabel harga
@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-SBD-B04-M01-006
 
-**Pertanyaan:** Apa jawaban yang tepat? Ekspresi wajah tersenyum sering menunjukkan ....
+**Pertanyaan:** Pada ilustrasi kegiatan menyenangkan, tokoh tersenyum lebar. Ekspresi ini biasanya menunjukkan ....
 
 **Pilihan jawaban:**
 - perasaan takut
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-SBD-B04-M01-007
 
-**Pertanyaan:** Apa jawaban yang tepat? Ekspresi wajah dengan alis menurun dan air mata dapat menunjukkan ....
+**Pertanyaan:** Tokoh dalam komik tampak menangis, alisnya menurun. Perasaan yang mungkin diwakili adalah ....
 
 **Pilihan jawaban:**
 - gembira
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-SBD-B04-M01-008
 
-**Pertanyaan:** Apa jawaban yang tepat? Karya yang mewakili diri tidak harus ....
+**Pertanyaan:** Dua anak menggambar potret diri dengan gaya berbeda. Apakah gambar mereka harus sama persis?
 
 **Pilihan jawaban:**
 - sama persis dengan karya teman
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-SBD-B04-M01-009
 
-**Pertanyaan:** Apa jawaban yang tepat? Menggambar kegiatan favorit membantu ....
+**Pertanyaan:** Nina membuat gambar saat berlatih menari untuk mengenalkan kesukaannya. Kegiatan berkarya itu membantu ....
 
 **Pilihan jawaban:**
 - mengganti teman
@@ -148,7 +148,7 @@
 
 ## Soal 10 — K03-SBD-B04-M01-010
 
-**Pertanyaan:** Apa jawaban yang tepat? Menghargai gambar diri teman berarti ....
+**Pertanyaan:** Seorang teman menggambar wajah dengan bentuk berbeda dari wajah kita. Sikap menghargai karya adalah ....
 
 **Pilihan jawaban:**
 - mencoret wajah
@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-SBD-B04-M01-011
 
-**Pertanyaan:** Apa jawaban yang tepat? Kolase identitas diri dapat memuat ....
+**Pertanyaan:** Untuk mengenalkan kegemarannya, Rafi membuat kolase berisi sepeda dan buku. Bahan isi yang cocok adalah ....
 
 **Pilihan jawaban:**
 - hanya sampah kotor
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-SBD-B04-M01-012
 
-**Pertanyaan:** Apa jawaban yang tepat? Saat menjelaskan karya sendiri, kita sebaiknya ....
+**Pertanyaan:** Guru meminta murid menjelaskan alasan memilih simbol bintang pada gambar diri. Cara menyampaikan penjelasan yang tepat adalah ....
 
 **Pilihan jawaban:**
 - menyampaikan makna gambar dengan percaya diri dan santun
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-SBD-B04-M01-013
 
-**Pertanyaan:** Apa jawaban yang tepat? Bentuk rumah dalam karya pribadi dapat melambangkan ....
+**Pertanyaan:** Pada karya, anak menempatkan gambar rumah untuk menunjukkan hal yang dekat dengan hidupnya. Rumah dapat melambangkan ....
 
 **Pilihan jawaban:**
 - ukuran sepatu
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-SBD-B04-M01-014
 
-**Pertanyaan:** Apa jawaban yang tepat? Memilih tema keluargaku berarti karya dapat menampilkan ....
+**Pertanyaan:** Di dalam tugas bertema keluargaku, siswa ingin menggambar kegiatan makan bersama. Apa yang dapat ditampilkan?
 
 **Pilihan jawaban:**
 - daftar harga
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-SBD-B04-M01-015
 
-**Pertanyaan:** Apa jawaban yang tepat? Setelah berkarya, sikap baik adalah ....
+**Pertanyaan:** Setelah melukis, cat dan kertas menumpuk di meja. Kebiasaan baik berikutnya adalah ....
 
 **Pilihan jawaban:**
 - membuang cat ke lantai
@@ -244,7 +244,7 @@
 
 ## Soal 16 — K03-SBD-B04-M01-016
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Potret diri adalah karya yang menggambarkan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Anak membuat gambar dirinya memakai seragam pramuka. Apa yang ingin diwujudkan melalui karya potret tersebut?
 
 **Pilihan jawaban:**
 - diri pembuat karya
@@ -260,7 +260,7 @@
 
 ## Soal 17 — K03-SBD-B04-M01-017
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Simbol hobi membaca dapat digambarkan dengan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Ketika ingin menggambar minat membaca, anak memilih ikon benda yang sering dibuka untuk dibaca. Benda apa itu?
 
 **Pilihan jawaban:**
 - panci
@@ -276,7 +276,7 @@
 
 ## Soal 18 — K03-SBD-B04-M01-018
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Warna kesukaan pada karya diri dapat dipilih untuk ...." Pilih jawaban yang benar.
+**Pertanyaan:** Guru memberi kebebasan memilih warna pada gambar pribadi. Apa alasan pilihan warna tersebut layak dihargai?
 
 **Pilihan jawaban:**
 - mengganti nama
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-SBD-B04-M01-019
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Identitas pada karya dapat ditulis berupa ...." Pilih jawaban yang benar.
+**Pertanyaan:** Seorang murid malu menuliskan nama lengkap pada halaman pajangan karya. Identitas singkat yang dapat ditulis berupa ....
 
 **Pilihan jawaban:**
 - kata ejekan
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-SBD-B04-M01-020
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Karya tentang pengalaman liburan dapat menggambarkan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Rina menggambarkan saat ia melihat pegunungan bersama keluarga. Jenis kenangan yang diperlihatkan adalah ....
 
 **Pilihan jawaban:**
 - tempat dan kegiatan yang diingat
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-SBD-B04-M01-021
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Ekspresi wajah tersenyum sering menunjukkan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Ekspresi mata berbinar dan senyum pada tokoh dalam karya mengarah pada perasaan ....
 
 **Pilihan jawaban:**
 - perasaan bosan
@@ -340,7 +340,7 @@
 
 ## Soal 22 — K03-SBD-B04-M01-022
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Ekspresi wajah dengan alis menurun dan air mata dapat menunjukkan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Wajah tokoh yang menangis ketika kehilangan benda kesukaan dapat menunjukkan perasaan ....
 
 **Pilihan jawaban:**
 - bangga
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-SBD-B04-M01-023
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Karya yang mewakili diri tidak harus ...." Pilih jawaban yang benar.
+**Pertanyaan:** Poster identitas diri murid berbeda satu dengan yang lain. Hal yang tidak menjadi keharusan adalah ....
 
 **Pilihan jawaban:**
 - memiliki tema
@@ -372,7 +372,7 @@
 
 ## Soal 24 — K03-SBD-B04-M01-024
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Menggambar kegiatan favorit membantu ...." Pilih jawaban yang benar.
+**Pertanyaan:** Anak menggambar diri sedang bermain bola karena itulah kegemaran yang ingin dibagikan. Gambar itu bertujuan ....
 
 **Pilihan jawaban:**
 - menceritakan minat diri
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-SBD-B04-M01-025
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Menghargai gambar diri teman berarti ...." Pilih jawaban yang benar.
+**Pertanyaan:** Saat mengomentari potret diri temannya, murid menghindari candaan mengenai bentuk wajah. Sikap yang benar ialah ....
 
 **Pilihan jawaban:**
 - menghina warna kulit
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-SBD-B04-M01-026
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Kolase identitas diri dapat memuat ...." Pilih jawaban yang benar.
+**Pertanyaan:** Karya kolase pribadi akan dibuat memakai gambar alat musik dan tanaman favorit. Isinya merupakan ....
 
 **Pilihan jawaban:**
 - benda berbahaya
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-SBD-B04-M01-027
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Saat menjelaskan karya sendiri, kita sebaiknya ...." Pilih jawaban yang benar.
+**Pertanyaan:** Di depan kelas, Bima menjelaskan lambang matahari pada gambar dirinya. Cara berbicara yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - merendahkan karya teman
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-SBD-B04-M01-028
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Bentuk rumah dalam karya pribadi dapat melambangkan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Seorang anak menggambar rumah tempat ia tumbuh. Gambar rumah itu dapat merepresentasikan ....
 
 **Pilihan jawaban:**
 - tempat tinggal atau keluarga
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-SBD-B04-M01-029
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Memilih tema keluargaku berarti karya dapat menampilkan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Tema 'keluargaku' dipilih oleh siswa. Bagian cerita yang sesuai untuk digambar adalah ....
 
 **Pilihan jawaban:**
 - peta cuaca
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-SBD-B04-M01-030
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Setelah berkarya, sikap baik adalah ...." Pilih jawaban yang benar.
+**Pertanyaan:** Selesai menggunakan pensil warna bersama, siswa mengembalikannya dan membuang sampah pada tempatnya. Sikap ini berarti ....
 
 **Pilihan jawaban:**
 - meninggalkan gunting terbuka
@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-SBD-B04-M01-031
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Potret diri adalah karya yang menggambarkan ....
+**Pertanyaan:** Ketika anak menggambar wajahnya sendiri, pusat cerita visual karya tersebut ialah ....
 
 **Pilihan jawaban:**
 - hanya pemandangan
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-SBD-B04-M01-032
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Simbol hobi membaca dapat digambarkan dengan ....
+**Pertanyaan:** Anak ingin menceritakan kegemaran membaca tanpa menuliskan paragraf panjang. Lambang yang mudah dikenali adalah ....
 
 **Pilihan jawaban:**
 - buku terbuka
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-SBD-B04-M01-033
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Warna kesukaan pada karya diri dapat dipilih untuk ....
+**Pertanyaan:** Pada potret diri, warna biru dipilih karena paling disukai pembuatnya. Warna itu membantu ....
 
 **Pilihan jawaban:**
 - menyembunyikan karya
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-SBD-B04-M01-034
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Identitas pada karya dapat ditulis berupa ....
+**Pertanyaan:** Agar pengunjung tahu siapa pembuat gambar, kartu karya dapat memuat ....
 
 **Pilihan jawaban:**
 - data rahasia keluarga
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-SBD-B04-M01-035
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Karya tentang pengalaman liburan dapat menggambarkan ....
+**Pertanyaan:** Untuk menggambarkan pengalaman naik kereta saat liburan, anak dapat menampilkan ....
 
 **Pilihan jawaban:**
 - hanya angka acak
