@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 204" role="img" aria-labelledby="title desc">
+  <title id="title">Three survey entries</title>
+  <desc id="desc">Rina: Friday: drawing. Tono: Saturday: cycling. Maya: Sunday: swimming</desc>
+  <rect width="390" height="204" rx="14" fill="#f0f5ff"/>
+  <rect x="8" y="8" width="374" height="44" rx="9" fill="#253d69"/>
+  <text x="22" y="37" fill="#fff" font-family="sans-serif" font-size="21" font-weight="700">Three survey entries</text>
+  <rect x="12" y="60" width="366" height="38" rx="7" fill="#fff"/>
+  <text x="22" y="85" fill="#253d69" font-family="sans-serif" font-size="16" font-weight="700">Rina</text>
+  <text x="148" y="85" fill="#253d69" font-family="sans-serif" font-size="16">Friday: drawing</text>
+  <rect x="12" y="104" width="366" height="38" rx="7" fill="#e3ecfa"/>
+  <text x="22" y="129" fill="#253d69" font-family="sans-serif" font-size="16" font-weight="700">Tono</text>
+  <text x="148" y="129" fill="#253d69" font-family="sans-serif" font-size="16">Saturday: cycling</text>
+  <rect x="12" y="148" width="366" height="38" rx="7" fill="#fff"/>
+  <text x="22" y="173" fill="#253d69" font-family="sans-serif" font-size="16" font-weight="700">Maya</text>
+  <text x="148" y="173" fill="#253d69" font-family="sans-serif" font-size="16">Sunday: swimming</text>
+</svg>

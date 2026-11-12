@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 248" role="img" aria-labelledby="title desc">
+  <title id="title">Dina's hobby calendar</title>
+  <desc id="desc">Friday: singing. Saturday: playing badminton. Sunday: riding a bike. Monday: reading</desc>
+  <rect width="390" height="248" rx="14" fill="#f0f5ff"/>
+  <rect x="8" y="8" width="374" height="44" rx="9" fill="#253d69"/>
+  <text x="22" y="37" fill="#fff" font-family="sans-serif" font-size="21" font-weight="700">Dina's hobby calendar</text>
+  <rect x="12" y="60" width="366" height="38" rx="7" fill="#fff"/>
+  <text x="22" y="85" fill="#253d69" font-family="sans-serif" font-size="16" font-weight="700">Friday</text>
+  <text x="148" y="85" fill="#253d69" font-family="sans-serif" font-size="16">singing</text>
+  <rect x="12" y="104" width="366" height="38" rx="7" fill="#e3ecfa"/>
+  <text x="22" y="129" fill="#253d69" font-family="sans-serif" font-size="16" font-weight="700">Saturday</text>
+  <text x="148" y="129" fill="#253d69" font-family="sans-serif" font-size="16">playing badminton</text>
+  <rect x="12" y="148" width="366" height="38" rx="7" fill="#fff"/>
+  <text x="22" y="173" fill="#253d69" font-family="sans-serif" font-size="16" font-weight="700">Sunday</text>
+  <text x="148" y="173" fill="#253d69" font-family="sans-serif" font-size="16">riding a bike</text>
+  <rect x="12" y="192" width="366" height="38" rx="7" fill="#e3ecfa"/>
+  <text x="22" y="217" fill="#253d69" font-family="sans-serif" font-size="16" font-weight="700">Monday</text>
+  <text x="148" y="217" fill="#253d69" font-family="sans-serif" font-size="16">reading</text>
+</svg>

@@ -1,103 +1,101 @@
 # Unit 5 — 5 Soal Listening
 
-**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
-
 ## Soal 46 — K03-ENG-B05-M01-046
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Monday","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"I like riding my bike on Sunday and reading on Monday.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** Monday
+**Transkrip produksi (disembunyikan dari siswa):** I like riding my bike on Sunday and reading on Monday.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** On which day does the speaker like reading?
 
 **Pilihan jawaban:**
-- Wednesday
-- Saturday
+- Sunday
 - Monday
-- ball
+- Saturday
+- Tuesday
 
 **Kunci Jawaban:** Monday
 
-**Pembahasan:** Audio menyebutkan "Monday" (Senin).
+**Pembahasan:** Monday is linked to reading.
 
 ---
 
 ## Soal 47 — K03-ENG-B05-M01-047
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Tuesday","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Do you like playing badminton on Saturday? No, I like playing badminton on Friday.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** Tuesday
+**Transkrip produksi (disembunyikan dari siswa):** Do you like playing badminton on Saturday? No, I like playing badminton on Friday.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Which day does the speaker prefer for badminton?
 
 **Pilihan jawaban:**
-- Sunday
-- Tuesday
-- Monday
+- Saturday
 - Thursday
+- Friday
+- Sunday
 
-**Kunci Jawaban:** Tuesday
+**Kunci Jawaban:** Friday
 
-**Pembahasan:** Audio menyebutkan "Tuesday" (Selasa).
+**Pembahasan:** The reply gives Friday as the preferred day.
 
 ---
 
 ## Soal 48 — K03-ENG-B05-M01-048
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Wednesday","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Ayu likes drawing on Wednesday. Her brother likes drawing the next day.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** Wednesday
+**Transkrip produksi (disembunyikan dari siswa):** Ayu likes drawing on Wednesday. Her brother likes drawing the next day.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** When does Ayu’s brother like drawing?
 
 **Pilihan jawaban:**
-- Wednesday
+- Thursday
 - Tuesday
+- Wednesday
 - Friday
-- bike
 
-**Kunci Jawaban:** Wednesday
+**Kunci Jawaban:** Thursday
 
-**Pembahasan:** Audio menyebutkan "Wednesday" (Rabu).
+**Pembahasan:** The next day after Wednesday is Thursday.
 
 ---
 
 ## Soal 49 — K03-ENG-B05-M01-049
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Thursday","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Bima likes singing on Monday. Sari likes swimming on Monday.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** Thursday
+**Transkrip produksi (disembunyikan dari siswa):** Bima likes singing on Monday. Sari likes swimming on Monday.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** What is the same in both plans?
 
 **Pilihan jawaban:**
-- Wednesday
-- Saturday
-- book
-- Thursday
+- the activity
+- the day
+- the person
+- the place
 
-**Kunci Jawaban:** Thursday
+**Kunci Jawaban:** the day
 
-**Pembahasan:** Audio menyebutkan "Thursday" (Kamis).
+**Pembahasan:** Both plans are for Monday.
 
 ---
 
 ## Soal 50 — K03-ENG-B05-M01-050
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Friday","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Our club meets on Tuesday this week. Next week, we meet on Thursday.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** Friday
+**Transkrip produksi (disembunyikan dari siswa):** Our club meets on Tuesday this week. Next week, we meet on Thursday.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Which day should you mark for next week?
 
 **Pilihan jawaban:**
-- Sunday
-- ball
-- Friday
+- Tuesday
+- Wednesday
 - Thursday
+- Friday
 
-**Kunci Jawaban:** Friday
+**Kunci Jawaban:** Thursday
 
-**Pembahasan:** Audio menyebutkan "Friday" (Jumat).
+**Pembahasan:** Thursday is the day mentioned for next week.
 
 ---

@@ -7,7 +7,7 @@
 | Mapel | Bab | Soal | Temuan yang terverifikasi | Revisi selesai | Sisa pekerjaan |
 |---|---:|---:|---|---|---|
 | IPAS | 8 | 560 | Pola berulang, opsi ambigu, gambar membocorkan definisi, penyederhanaan konsep diperbaiki | 560 diperiksa; 546 diubah; 16 modul dan media delapan bab diselaraskan | Putaran isi/media selesai; belum konversi atau uji siswa |
-| ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Unit 1–4: 200 soal, delapan modul, 48 SVG, dan pemeriksaan sumber TTS | Unit 5–10; uji suara browser HP dan WebView di tahap aplikasi |
+| ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Unit 1–5: 250 soal, sepuluh modul, 60 SVG, dan pemeriksaan sumber TTS | Unit 6–10; uji suara browser HP dan WebView di tahap aplikasi |
 | PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; 300 soal diperiksa per butir; 293 diubah; 20 modul diselaraskan | Isi selesai; cuplikan Arab ditinjau pada 390 px; uji browser HP/WebView dan pelafalan di tahap aplikasi |
 | PJOK | 8 | 360 | Soal berulang; ilustrasi hanya simbol; berkas soal lama dengan ID lain masih ada | Belum | Revisi teknik gerak dan keselamatan, ilustrasi, pilih bank resmi, modul belum ada |
 | SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik; bab internal belum diverifikasi terhadap buku | Belum | Soal pengamatan visual, distraktor, ilustrasi, verifikasi bab resmi |
@@ -259,3 +259,18 @@ Validator seluruh sumber melalui konektor GitHub dan JavaScript memeriksa
 310 rujukan aset unik; 0 kesalahan struktur. Kumulatif audit isi
 1.060/1.945; sisa 885 soal pada 19 bab/unit. Titik lanjut: Bahasa Inggris
 Unit 5.
+
+### Kelanjutan: Bahasa Inggris Unit 5
+
+50 soal dan kedua modul ditulis ulang sesuai buku siswa dan panduan guru.
+Seluruh ID tetap. Cakupan meliputi nama dan urutan hari, before/after,
+preposisi on, respons yes/no, serta tanya-jawab dan laporan tentang hobi
+pada hari tertentu. Sepuluh kartu jadwal dan survei berfungsi sebagai
+stimulus, dan dua ilustrasi mendukung modul. Semua 12 SVG berhasil
+dirender pada lebar 390 piksel. Lima naskah TTS cocok dengan transkrip
+dan kunci. Pemutaran di HP/WebView masih menunggu uji aplikasi.
+
+Pemeriksaan struktur melalui JavaScript mengikuti validator sumber:
+82 bank, 1.945 soal, 310 rujukan aset unik, 0 kesalahan. Kumulatif audit
+isi 1.110/1.945, dengan 835 soal pada 18 bab/unit tersisa. Titik lanjut
+Bahasa Inggris Unit 6.

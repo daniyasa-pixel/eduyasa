@@ -6,12 +6,12 @@
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
-| Bahasa Inggris | Unit 1–4: 200 soal, delapan modul, dan 48 SVG direvisi | 200/500 diperiksa; 20 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | 300 soal/6 unit; uji suara dan WebView di tahap aplikasi |
+| Bahasa Inggris | Unit 1–5: 250 soal, sepuluh modul, dan 60 SVG direvisi | 250/500 diperiksa; 25 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | 250 soal/5 unit; uji suara dan WebView di tahap aplikasi |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **1.060/1.945**. Jumlah diubah: **1.039**.
-Sisa audit isi: **885 soal pada 19 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **1.110/1.945**. Jumlah diubah: **1.089**.
+Sisa audit isi: **835 soal pada 18 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -269,7 +269,7 @@ belum dipenuhi dan tidak diklaim sudah dilakukan. Tidak ada JSON/rilis aplikasi.
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS, sepuluh bab PAI, dan Bahasa Inggris Unit 1–4. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
+Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS, sepuluh bab PAI, dan Bahasa Inggris Unit 1–5. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
 Dua belas SVG Bab 1 dirender pada Chromium dan diperiksa batas teksnya;
@@ -335,7 +335,7 @@ Pemeriksaan: 30 stem unik, empat opsi berbeda, kunci cocok, pembahasan ada.
 
 ## Posisi lanjut yang tepat
 
-Lanjutkan audit isi Bahasa Inggris Unit 5–10, lalu PJOK dan Seni Rupa.
+Lanjutkan audit isi Bahasa Inggris Unit 6–10, lalu PJOK dan Seni Rupa.
 Pertahankan Markdown. Konversi JSON, aktivasi, dan uji di aplikasi dilakukan
 pada tahap berikutnya. Jangan ubah BIN, MTK, atau PKN.
 
@@ -507,3 +507,18 @@ Validator seluruh sumber melalui konektor GitHub dan JavaScript memeriksa
 310 rujukan aset unik; 0 kesalahan struktur. Kumulatif audit isi
 1.060/1.945; sisa 885 soal pada 19 bab/unit. Titik lanjut: Bahasa Inggris
 Unit 5.
+
+## Bahasa Inggris Unit 5 — I Like Riding a Bike on Sunday
+
+50 soal dan kedua modul ditulis ulang sesuai buku siswa dan panduan guru.
+Seluruh ID tetap. Cakupan meliputi nama dan urutan hari, before/after,
+preposisi on, respons yes/no, serta tanya-jawab dan laporan tentang hobi
+pada hari tertentu. Sepuluh kartu jadwal dan survei berfungsi sebagai
+stimulus, dan dua ilustrasi mendukung modul. Semua 12 SVG berhasil
+dirender pada lebar 390 piksel. Lima naskah TTS cocok dengan transkrip
+dan kunci. Pemutaran di HP/WebView masih menunggu uji aplikasi.
+
+Pemeriksaan struktur melalui JavaScript mengikuti validator sumber:
+82 bank, 1.945 soal, 310 rujukan aset unik, 0 kesalahan. Kumulatif audit
+isi 1.110/1.945, dengan 835 soal pada 18 bab/unit tersisa. Titik lanjut
+Bahasa Inggris Unit 6.
