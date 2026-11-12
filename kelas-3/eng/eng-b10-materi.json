@@ -1,0 +1,22 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "K03-ENG-B10",
+  "chapter_title": "There Are Twenty Books on the Shelf",
+  "modules": [
+    {
+      "id": "K03-ENG-B10-MOD-01",
+      "version": "MOD-01",
+      "title": "Let's learn! — Menghitung dan menyebut jumlah",
+      "content": "![Counting objects](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-01.svg)\n\n**Bilangan 10–20:**\n- 10 ten; 11 eleven; 12 twelve; 13 thirteen; 14 fourteen\n- 15 fifteen; 16 sixteen; 17 seventeen; 18 eighteen; 19 nineteen; 20 twenty\n\nBaca dan ucapkan setiap bilangan dengan jelas. Kata **fifteen** berarti 15; **fifty** berbeda dan tidak termasuk rentang ini.\n\n**Pola kalimat:**\n- `There are twenty books on the shelf.` (Ada dua puluh buku di rak.)\n- `There are twelve pencils in the box.` (Ada dua belas pensil di kotak.)\n- `How many books are there?` (Ada berapa buku?)\n- `There are fifteen books.` (Ada lima belas buku.)\n\nGunakan `There are` dengan bilangan lebih dari satu dan bentuk jamak **books, pencils, chairs**. Gunakan `There is one book` untuk satu benda.\n\n**Latihan:** Hitung antara 10 dan 20 benda pada gambar atau benda nyata. Tuliskan jumlahnya dengan angka dan kata Inggris."
+    },
+    {
+      "id": "K03-ENG-B10-MOD-02",
+      "version": "MOD-02",
+      "title": "Let's practice! — Menghitung dari informasi",
+      "content": "![Counting objects](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-02.svg)\n\n**Latihan membaca data (contoh rekaan):**\n- Shelf A: 12 books.\n- Shelf B: 7 books.\n- Box C: 15 pencils.\n- Box D: 5 pencils.\n\n**Pertanyaan:**\n- How many books are there on Shelves A and B? **Nineteen books**, because 12 + 7 = 19.\n- How many pencils are there in Boxes C and D? **Twenty pencils**, because 15 + 5 = 20.\n- Are there twenty books? **No, there aren't. There are nineteen books.**\n\n**Pola dialog:**\n- A: How many books are there?\n- B: There are nineteen books.\n- A: Are there twenty books?\n- B: No, there aren't.\n\n**Perhatikan:** Pertanyaan `How many ...?` meminta jumlah. Jika informasi mengatakan `No, there are eighteen`, jangan memakai angka yang ditebak pada pertanyaan awal.\n\n**Latihan berpasangan:** Buat data dua rak dengan 10–20 benda seluruhnya, kemudian jawab `How many ... are there?`. Teman harus menjelaskan dari mana jumlah berasal. Hindari menghitung benda yang sama dua kali."
+    }
+  ]
+}
