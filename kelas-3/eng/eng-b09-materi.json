@@ -1,0 +1,22 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "K03-ENG-B09",
+  "chapter_title": "My Classroom Is Clean",
+  "modules": [
+    {
+      "id": "K03-ENG-B09-MOD-01",
+      "version": "MOD-01",
+      "title": "Let's learn! — Menggambarkan kelas",
+      "content": "![Classroom property](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-01.svg)\n\n**Sepuluh kata sifat:**\n- **clean** bersih; **dirty** kotor\n- **big** besar; **small** kecil\n- **tidy** rapi; **messy** berantakan\n- **bright** terang; **dark** gelap\n- **quiet** tenang/tidak berisik; **noisy** berisik\n\nKata sifat mendeskripsikan keadaan atau ciri benda/tempat. **Tidy** tidak sama persis dengan **clean**: buku dapat tersusun rapi, sedangkan lantai masih kotor. **Bright** dan **big** juga menjelaskan dua hal berbeda.\n\n**Pola kalimat:**\n- `My classroom is clean.` (Kelas saya bersih.)\n- `The room is bright.` (Ruangan itu terang.)\n- `The books are tidy.` (Buku-buku itu tertata rapi.)\n\nGunakan **is** untuk satu ruangan atau benda dan **are** untuk lebih dari satu benda.\n\n**Dialog:**\n- A: Is your classroom clean?\n- B: Yes, it is.\n- A: Is it noisy?\n- B: No, it isn't. It is quiet.\n\n**Latihan:** Pilih dua kata sifat yang menggambarkan ruangan berbeda. Buat kalimat tanpa menganggap kelas yang kecil pasti gelap atau kelas yang tenang pasti bersih."
+    },
+    {
+      "id": "K03-ENG-B09-MOD-02",
+      "version": "MOD-02",
+      "title": "Let's practice! — Membandingkan bukti",
+      "content": "![Classroom property](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-02.svg)\n\n**Baca catatan contoh (rekaan):**\n- Classroom A: books arranged on shelves, a clean floor, and bright windows.\n- Classroom B: papers scattered on desks, a dirty floor, and little light.\n- Both rooms have the same size.\n\n**Pertanyaan dan jawaban:**\n- Which room is tidy? **Classroom A**, because the books are arranged.\n- Which room has a dirty floor? **Classroom B**.\n- Which room is bright? **Classroom A**.\n- Is Classroom A bigger? **We do not know that.** The text says the rooms have the same size.\n\n**Latihan dialog:**\n- A: Is Classroom B clean?\n- B: No, it isn't.\n- A: Is Classroom A bright?\n- B: Yes, it is.\n\n**Cara membedakan:** Kebersihan, kerapian, ukuran, pencahayaan, dan kebisingan adalah ciri yang berlainan. Dari kata **quiet** saja kita tidak boleh menyimpulkan ruangan pasti **tidy**.\n\n**Latihan berpasangan:** Tulis deskripsi rekaan dua ruang dalam dua kalimat. Teman menebak kata sifat yang cocok dan menunjuk bukti dari kalimat. Gunakan bahasa yang sopan ketika mendeskripsikan kondisi kelas."
+    }
+  ]
+}
