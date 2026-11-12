@@ -1,0 +1,664 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B03",
+      "chapter_title": "Peduli dan Berbagi",
+      "questions": [
+        {
+          "id": "K03-IPAS-B03-M01-001",
+          "type": "PG",
+          "text": "Urutan tahapan hidup yang sesuai sejak awal kehidupan ialah ...",
+          "options": [
+            "Bayi → kanak-kanak → remaja",
+            "Remaja → bayi → kanak-kanak",
+            "Kanak-kanak → lanjut usia → bayi",
+            "Dewasa → bayi → remaja"
+          ],
+          "answer": "Bayi → kanak-kanak → remaja",
+          "discussion": "Manusia memulai hidup sebagai bayi lalu melalui masa kanak-kanak sebelum remaja; bukan kembali menjadi bayi."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-002",
+          "type": "PG",
+          "text": "Perubahan mana merupakan contoh pertumbuhan ukuran tubuh?",
+          "options": [
+            "Makin terampil mengancingkan baju",
+            "Tinggi badan bertambah",
+            "Makin lancar bercerita",
+            "Makin mampu membaca"
+          ],
+          "answer": "Tinggi badan bertambah",
+          "discussion": "Pertumbuhan ukuran tubuh dapat diamati melalui tinggi atau berat; bertambahnya keterampilan merupakan perkembangan kemampuan."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-003",
+          "type": "PG",
+          "text": "Contoh perkembangan kemampuan seorang anak ialah ...",
+          "options": [
+            "Ukuran kakinya bertambah",
+            "Tinggi badannya bertambah",
+            "Mulai dapat mengikat tali sepatu sendiri",
+            "Berat badannya bertambah"
+          ],
+          "answer": "Mulai dapat mengikat tali sepatu sendiri",
+          "discussion": "Mengikat tali memerlukan keterampilan yang dipelajari; pilihan lain membahas perubahan ukuran tubuh."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-004",
+          "type": "PG",
+          "text": "Apa yang terjadi sesudah masa kanak-kanak dalam urutan tahapan yang dipelajari?",
+          "options": [
+            "Masa bayi",
+            "Masa lanjut usia",
+            "Kembali ke masa sebelum lahir",
+            "Masa remaja"
+          ],
+          "answer": "Masa remaja",
+          "discussion": "Masa remaja berada setelah kanak-kanak dan sebelum masa dewasa muda dalam urutan pembelajaran ini."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-005",
+          "type": "PG",
+          "text": "Keterangan mana sesuai tentang bayi?",
+          "options": [
+            "Memerlukan bantuan orang dewasa untuk memenuhi banyak kebutuhannya",
+            "Sudah dapat menjalankan semua tugas rumah",
+            "Selalu dapat membaca sendiri",
+            "Mampu merawat dirinya tanpa bantuan"
+          ],
+          "answer": "Memerlukan bantuan orang dewasa untuk memenuhi banyak kebutuhannya",
+          "discussion": "Bayi bergantung pada pengasuhan untuk makan, kebersihan, dan perlindungan, sedangkan kemampuan berkembang bertahap."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-006",
+          "type": "PG",
+          "text": "Mengapa kemampuan membaca tidak muncul hanya karena tubuh bertambah tinggi?",
+          "options": [
+            "Semua anak tinggi selalu sudah lancar membaca",
+            "Kemampuan membaca juga memerlukan belajar dan latihan",
+            "Pertumbuhan tubuh menghapus kebutuhan berlatih",
+            "Membaca hanya ditentukan ukuran kaki"
+          ],
+          "answer": "Kemampuan membaca juga memerlukan belajar dan latihan",
+          "discussion": "Perkembangan keterampilan dipengaruhi kesempatan belajar dan latihan; tinggi badan saja tidak menentukan kemampuan membaca."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-007",
+          "type": "PG",
+          "text": "Untuk mengetahui perubahan tinggi seorang anak, catatan yang tepat membandingkan ...",
+          "options": [
+            "Tinggi anak itu dengan panjang meja pada hari yang sama",
+            "Dua anak berbeda tanpa catatan sebelumnya",
+            "Pengukuran anak yang sama pada waktu berbeda",
+            "Warna baju anak pada dua hari"
+          ],
+          "answer": "Pengukuran anak yang sama pada waktu berbeda",
+          "discussion": "Perbandingan pengukuran diri yang sama dari waktu ke waktu menunjukkan perubahan yang dialaminya."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-008",
+          "type": "PG",
+          "text": "Saat mengukur tinggi, mengapa cara pengukurannya perlu sama?",
+          "options": [
+            "Agar hasil selalu menunjukkan pertambahan",
+            "Agar semua anak mendapatkan angka sama",
+            "Agar tidak perlu mencatat waktu pengukuran",
+            "Agar hasil lebih mudah dibandingkan"
+          ],
+          "answer": "Agar hasil lebih mudah dibandingkan",
+          "discussion": "Cara yang sama membantu mengurangi perbedaan akibat alat atau posisi, bukan memaksa hasil tertentu."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-009",
+          "type": "PG",
+          "text": "Sepatu lama mulai sempit. Apa kemungkinan yang perlu dibicarakan bersama orang tua atau wali?",
+          "options": [
+            "Ukuran kaki dapat berubah ketika tubuh tumbuh",
+            "Sepatu sempit membuktikan anak lebih pandai",
+            "Semua sepatu harus berukuran sama selamanya",
+            "Kaki berhenti tumbuh setelah masuk sekolah"
+          ],
+          "answer": "Ukuran kaki dapat berubah ketika tubuh tumbuh",
+          "discussion": "Pertumbuhan dapat mengubah ukuran kaki; orang dewasa dapat membantu memilih alas kaki yang sesuai."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-010",
+          "type": "PG",
+          "text": "Dua anak sebaya mempunyai tinggi berbeda. Kesimpulan yang tepat ialah ...",
+          "options": [
+            "Anak yang lebih pendek pasti malas belajar",
+            "Pertumbuhan tiap anak dapat berbeda",
+            "Anak yang lebih tinggi pasti selalu sehat",
+            "Keduanya harus dipaksa mempunyai ukuran sama"
+          ],
+          "answer": "Pertumbuhan tiap anak dapat berbeda",
+          "discussion": "Tinggi badan saja tidak cukup untuk menilai kesehatan atau kemampuan; pertumbuhan dipengaruhi banyak hal."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-011",
+          "type": "PG",
+          "text": "Peran makanan beragam bagi pertumbuhan ialah ...",
+          "options": [
+            "Menggantikan seluruh kebutuhan tidur",
+            "Menjamin semua anak tumbuh dengan kecepatan sama",
+            "Menyediakan zat gizi yang dibutuhkan tubuh",
+            "Membuat tubuh tidak perlu bergerak"
+          ],
+          "answer": "Menyediakan zat gizi yang dibutuhkan tubuh",
+          "discussion": "Zat gizi mendukung pertumbuhan, tetapi tetap diperlukan tidur, aktivitas, dan perhatian pada kebutuhan masing-masing anak."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-012",
+          "type": "PG",
+          "text": "Saat ingin belajar menyapu, tindakan yang sesuai ialah ...",
+          "options": [
+            "Langsung memakai semua alat tanpa penjelasan",
+            "Memanjat atap agar dianggap sudah besar",
+            "Menunggu tinggi badan sama dengan orang dewasa",
+            "Berlatih dengan alat yang aman dan bimbingan bila diperlukan"
+          ],
+          "answer": "Berlatih dengan alat yang aman dan bimbingan bila diperlukan",
+          "discussion": "Keterampilan berkembang melalui latihan yang aman dan disesuaikan dengan kemampuan, bukan dengan mengambil pekerjaan berbahaya."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-013",
+          "type": "PG",
+          "text": "Apa yang membedakan remaja dan bayi dalam urutan tahapan hidup?",
+          "options": [
+            "Remaja berada pada tahap setelah kanak-kanak, bayi pada tahap awal",
+            "Remaja selalu menjadi bayi lagi sebelum dewasa",
+            "Bayi berada setelah lanjut usia pada hidup orang yang sama",
+            "Kedua istilah menunjukkan tahapan yang sama"
+          ],
+          "answer": "Remaja berada pada tahap setelah kanak-kanak, bayi pada tahap awal",
+          "discussion": "Tahapan memberi gambaran urutan perjalanan hidup; bukan perpindahan bolak-balik menurut pilihan seseorang."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-014",
+          "type": "PG",
+          "text": "Setelah remaja, urutan umum yang dipelajari ialah ...",
+          "options": [
+            "Lanjut usia → bayi → dewasa",
+            "Dewasa muda → dewasa → lanjut usia",
+            "Bayi → dewasa → kanak-kanak",
+            "Dewasa → kanak-kanak → remaja"
+          ],
+          "answer": "Dewasa muda → dewasa → lanjut usia",
+          "discussion": "Urutan tersebut mengikuti tahapan pada buku tanpa menetapkan bahwa semua perubahan terjadi pada usia yang persis sama."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-015",
+          "type": "PG",
+          "text": "Seseorang pada tahap lanjut usia tetap dapat berperan dengan ...",
+          "options": [
+            "Dilarang menyampaikan pendapat keluarga",
+            "Diberi semua pekerjaan berat tanpa ditanya",
+            "Berbagi pengalaman dan berkegiatan sesuai kemampuan",
+            "Dianggap tidak mempunyai pengetahuan"
+          ],
+          "answer": "Berbagi pengalaman dan berkegiatan sesuai kemampuan",
+          "discussion": "Usia lanjut tidak menghapus kemampuan, pengalaman, atau hak berpartisipasi; dukungan mengikuti kebutuhan orangnya."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-016",
+          "type": "PG",
+          "text": "Apa maksud perkembangan dalam pembelajaran tentang manusia?",
+          "options": [
+            "Hanya bertambahnya ukuran sepatu",
+            "Hanya naiknya angka timbangan",
+            "Perubahan warna pakaian",
+            "Perubahan kemampuan dan keterampilan yang makin berkembang"
+          ],
+          "answer": "Perubahan kemampuan dan keterampilan yang makin berkembang",
+          "discussion": "Perkembangan mencakup bertambahnya kemampuan, sedangkan ukuran tubuh berkaitan dengan pertumbuhan."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-017",
+          "type": "PG",
+          "text": "Dulu Lani perlu bantuan memakai baju. Kini ia mampu mengancingkannya sendiri. Bukti perkembangan yang disebut ialah ...",
+          "options": [
+            "Keterampilan mengancingkan baju",
+            "Pertambahan tinggi yang telah diukur",
+            "Pertambahan berat yang telah ditimbang",
+            "Perubahan ukuran rumah"
+          ],
+          "answer": "Keterampilan mengancingkan baju",
+          "discussion": "Cerita membandingkan kemampuan melakukan tugas, bukan memberikan data tinggi atau berat tubuh."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-018",
+          "type": "PG",
+          "text": "Jika anak kesulitan melakukan keterampilan baru, dukungan yang tepat ialah ...",
+          "options": [
+            "Mengejek agar ia cepat bisa",
+            "Memberi kesempatan berlatih dan bantuan sesuai kebutuhan",
+            "Memaksanya langsung sama dengan orang dewasa",
+            "Menyimpulkan ia tidak akan pernah mampu"
+          ],
+          "answer": "Memberi kesempatan berlatih dan bantuan sesuai kebutuhan",
+          "discussion": "Kesempatan berlatih dan dukungan membantu belajar; kesulitan saat ini tidak menentukan semua kemampuan masa depannya."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-019",
+          "type": "PG",
+          "text": "Mengapa foto masa bayi dan foto kini berguna untuk belajar perubahan diri?",
+          "options": [
+            "Dapat memastikan semua keadaan kesehatan tanpa pemeriksaan",
+            "Dapat mengukur berat tepat tanpa data timbangan",
+            "Dapat memperlihatkan perubahan ciri tubuh yang tampak",
+            "Dapat menunjukkan seluruh kemampuan berpikir"
+          ],
+          "answer": "Dapat memperlihatkan perubahan ciri tubuh yang tampak",
+          "discussion": "Foto memberi informasi visual terbatas; berat tepat dan kondisi kesehatan memerlukan data lain."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-020",
+          "type": "PG",
+          "text": "Apakah pertambahan usia berarti setiap orang pasti mempunyai peran keluarga yang sama?",
+          "options": [
+            "Ya, semua orang harus mempunyai pekerjaan sama",
+            "Ya, setiap keluarga selalu beranggota sama",
+            "Ya, usia menentukan semua kesukaan",
+            "Tidak, peran dapat berbeda sesuai keadaan, kemampuan, dan kesepakatan"
+          ],
+          "answer": "Tidak, peran dapat berbeda sesuai keadaan, kemampuan, dan kesepakatan",
+          "discussion": "Keluarga memiliki keadaan berbeda; peran tidak ditentukan oleh usia saja dan dapat dibicarakan bersama."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-021",
+          "type": "PG",
+          "text": "Dalam tahap hidup seorang manusia, apakah lanjut usia berubah kembali menjadi bayi?",
+          "options": [
+            "Tidak, bayi pada generasi berikutnya adalah individu baru",
+            "Ya, orang yang sama selalu kembali menjadi bayi",
+            "Ya, jika ia berhenti bekerja",
+            "Ya, jika ia mengganti nama"
+          ],
+          "answer": "Tidak, bayi pada generasi berikutnya adalah individu baru",
+          "discussion": "Urutan hidup individu tidak berputar kembali menjadi bayi; kelahiran generasi baru bukan perubahan orang lanjut usia menjadi bayi."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-022",
+          "type": "PG",
+          "text": "Catatan pertumbuhan hanya berisi satu pengukuran tinggi. Apa yang belum dapat disimpulkan?",
+          "options": [
+            "Angka tinggi pada saat diukur",
+            "Seberapa besar tinggi anak itu berubah dari waktu sebelumnya",
+            "Tanggal pengukuran jika tercatat",
+            "Alat yang dipakai jika disebutkan"
+          ],
+          "answer": "Seberapa besar tinggi anak itu berubah dari waktu sebelumnya",
+          "discussion": "Untuk mengetahui perubahan diperlukan pembanding pada waktu lain, bukan hanya satu hasil pengukuran."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-023",
+          "type": "PG",
+          "text": "Mengapa tanggal perlu dicatat bersama hasil pengukuran?",
+          "options": [
+            "Agar semua hasil pasti sama",
+            "Agar angka boleh diganti sesuai keinginan",
+            "Agar perubahan dapat dibandingkan menurut waktu",
+            "Agar tidak perlu menggunakan alat ukur"
+          ],
+          "answer": "Agar perubahan dapat dibandingkan menurut waktu",
+          "discussion": "Tanggal menghubungkan hasil dengan waktu pengamatan dan membantu menata urutannya."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-024",
+          "type": "PG",
+          "text": "Contoh kegiatan yang mendukung perkembangan sekaligus aman untuk anak ialah ...",
+          "options": [
+            "Memperbaiki kabel listrik terkelupas",
+            "Mengangkat lemari berat seorang diri",
+            "Membersihkan atap tanpa pendamping",
+            "Berlatih merapikan alat belajar sendiri"
+          ],
+          "answer": "Berlatih merapikan alat belajar sendiri",
+          "discussion": "Merapikan alat belajar melatih keterampilan dan tanggung jawab dengan risiko yang dapat disesuaikan untuk anak."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-025",
+          "type": "PG",
+          "text": "Saat mencatat perubahan diri, laporan yang tepat ialah ...",
+          "options": [
+            "Menulis hasil pengamatan apa adanya",
+            "Mengubah angka agar tampak paling tinggi",
+            "Menyalin ukuran teman agar tidak berbeda",
+            "Membuang catatan yang tidak sesuai harapan"
+          ],
+          "answer": "Menulis hasil pengamatan apa adanya",
+          "discussion": "Catatan yang jujur membantu memahami perubahan; memalsukan data justru menghilangkan manfaat pengamatan."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-026",
+          "type": "PG",
+          "text": "Mengapa anggota keluarga perlu berbagi tugas rumah?",
+          "options": [
+            "Agar semua tugas diberikan kepada satu orang",
+            "Agar pekerjaan dan kenyamanan rumah menjadi tanggung jawab bersama",
+            "Agar anak mengambil pekerjaan berbahaya",
+            "Agar tidak ada yang perlu beristirahat"
+          ],
+          "answer": "Agar pekerjaan dan kenyamanan rumah menjadi tanggung jawab bersama",
+          "discussion": "Pembagian peran membantu pekerjaan selesai dan mencegah beban selalu jatuh pada orang yang sama."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-027",
+          "type": "PG",
+          "text": "Cara membagi tugas yang adil ialah ...",
+          "options": [
+            "Memberikan beban yang persis sama tanpa melihat kemampuan",
+            "Menentukan semua tugas hanya dari jenis kelamin",
+            "Mempertimbangkan kemampuan, waktu, dan kebutuhan anggota keluarga",
+            "Membiarkan satu orang memutuskan tanpa mendengar yang lain"
+          ],
+          "answer": "Mempertimbangkan kemampuan, waktu, dan kebutuhan anggota keluarga",
+          "discussion": "Adil tidak selalu berarti tugas identik; keadaan dan kemampuan perlu dipertimbangkan bersama."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-028",
+          "type": "PG",
+          "text": "Ibu sedang memperbaiki kursi bersama orang dewasa lain, Ayah memasak. Kesimpulan yang tepat ialah ...",
+          "options": [
+            "Memasak hanya boleh dilakukan ibu",
+            "Memperbaiki barang hanya boleh dilakukan ayah",
+            "Tugas keluarga tidak boleh berubah",
+            "Tugas dapat dilakukan sesuai kemampuan dan kesepakatan"
+          ],
+          "answer": "Tugas dapat dilakukan sesuai kemampuan dan kesepakatan",
+          "discussion": "Peran rumah tangga tidak terbatas pada jenis kelamin; kemampuan dan keselamatan tetap diperhatikan."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-029",
+          "type": "PG",
+          "text": "Raka bertugas menyiram tanaman tetapi akan pergi bersama keluarga. Apa tindakan bertanggung jawab?",
+          "options": [
+            "Memberi tahu dan menyepakati pengganti atau waktu lain",
+            "Diam agar tidak ada yang tahu tugasnya tertunda",
+            "Menyalahkan adiknya sebelum bertanya",
+            "Membuang tanaman agar tugas hilang"
+          ],
+          "answer": "Memberi tahu dan menyepakati pengganti atau waktu lain",
+          "discussion": "Komunikasi memungkinkan penyesuaian sehingga kebutuhan rumah tetap terpenuhi tanpa menyembunyikan tugas yang belum dilakukan."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-030",
+          "type": "PG",
+          "text": "Dua anggota keluarga ingin memakai alat kebersihan yang sama. Penyelesaian yang sesuai ialah ...",
+          "options": [
+            "Merebut alat sampai salah satu menyerah",
+            "Menyepakati giliran pemakaian",
+            "Menyembunyikan alat dari semua orang",
+            "Menganggap pekerjaan orang lain tidak penting"
+          ],
+          "answer": "Menyepakati giliran pemakaian",
+          "discussion": "Kesepakatan giliran membantu keduanya menggunakan alat tanpa merusak hubungan atau menghambat pekerjaan."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-031",
+          "type": "PG",
+          "text": "Salah satu anggota keluarga sedang sakit. Pembagian tugas sebaiknya ...",
+          "options": [
+            "Dipaksakan tetap sama tanpa melihat kondisinya",
+            "Diberikan seluruhnya kepada anak terkecil",
+            "Disesuaikan sementara setelah dibicarakan",
+            "Dihentikan semua tanpa mencari cara lain"
+          ],
+          "answer": "Disesuaikan sementara setelah dibicarakan",
+          "discussion": "Kondisi dapat berubah; pembagian peran perlu menyesuaikan kemampuan dan kebutuhan saat itu."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-032",
+          "type": "PG",
+          "text": "Contoh tanggung jawab setelah memakai mainan bersama ialah ...",
+          "options": [
+            "Membiarkannya berserakan karena dipakai bersama",
+            "Menunggu orang lain merapikan tanpa berbicara",
+            "Menyembunyikan bagian mainan agar milik sendiri",
+            "Mengembalikannya ke tempat yang disepakati"
+          ],
+          "answer": "Mengembalikannya ke tempat yang disepakati",
+          "discussion": "Mengembalikan barang menjaga kerapian dan memudahkan anggota keluarga lain menggunakannya."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-033",
+          "type": "PG",
+          "text": "Mengapa meminta izin sebelum membantu seseorang itu penting?",
+          "options": [
+            "Bantuan yang dibutuhkan orang dapat berbeda",
+            "Semua orang selalu ingin tugasnya diambil alih",
+            "Meminta izin membuat orang tidak boleh menolak",
+            "Bantuan hanya boleh diberikan jika ada hadiah"
+          ],
+          "answer": "Bantuan yang dibutuhkan orang dapat berbeda",
+          "discussion": "Bertanya membantu mengetahui kebutuhan dan menghargai pilihan orang yang dibantu."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-034",
+          "type": "PG",
+          "text": "Adik menumpahkan air di lantai. Apa langkah yang menunjukkan kepedulian dan keselamatan?",
+          "options": [
+            "Berlari melewati air agar cepat",
+            "Memberi tahu orang dewasa dan membantu membersihkan sesuai arahan",
+            "Membiarkan lantai licin tanpa memberi tahu",
+            "Menyalahkan adik sambil menutupi tumpahan dengan mainan"
+          ],
+          "answer": "Memberi tahu orang dewasa dan membantu membersihkan sesuai arahan",
+          "discussion": "Lantai basah dapat membuat orang terpeleset; pemberitahuan dan pembersihan yang aman membantu semua penghuni rumah."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-035",
+          "type": "PG",
+          "text": "Apa manfaat mendengarkan pendapat sebelum menentukan jadwal tugas?",
+          "options": [
+            "Membuat semua pendapat harus sama",
+            "Menghindari kesepakatan bersama",
+            "Mengetahui kebutuhan dan waktu anggota keluarga",
+            "Memastikan orang yang paling keras selalu menang"
+          ],
+          "answer": "Mengetahui kebutuhan dan waktu anggota keluarga",
+          "discussion": "Mendengarkan memberi informasi agar jadwal dapat dijalankan dan mempertimbangkan keadaan anggota keluarga."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-036",
+          "type": "PG",
+          "text": "Teman tinggal bersama kakek dan wali, sedangkan kamu bersama orang tua. Sikap yang tepat ialah ...",
+          "options": [
+            "Menganggap hanya satu susunan keluarga yang berharga",
+            "Meminta ia mengubah cerita agar sama",
+            "Menyebarkan pertanyaan pribadinya tanpa izin",
+            "Menghargai keluarganya dan tidak mengejek susunannya"
+          ],
+          "answer": "Menghargai keluarganya dan tidak mengejek susunannya",
+          "discussion": "Keluarga dapat mempunyai susunan berbeda; semua anak berhak dihormati dan merasa diterima."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-037",
+          "type": "PG",
+          "text": "Apa yang dimaksud peran dalam kegiatan keluarga?",
+          "options": [
+            "Bagian tanggung jawab atau kegiatan yang dijalankan seseorang",
+            "Semua benda yang dimiliki keluarga",
+            "Ukuran tubuh setiap penghuni",
+            "Daftar barang yang dijual di rumah"
+          ],
+          "answer": "Bagian tanggung jawab atau kegiatan yang dijalankan seseorang",
+          "discussion": "Peran berkaitan dengan kontribusi atau tanggung jawab, bukan ukuran tubuh atau kepemilikan barang."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-038",
+          "type": "PG",
+          "text": "Kesepakatan keluarga tentang merapikan sepatu membantu ...",
+          "options": [
+            "Menentukan siapa yang paling disukai",
+            "Mencegah jalan terhalang dan memudahkan mencari sepatu",
+            "Menghapus kebutuhan semua pekerjaan lain",
+            "Membuat semua ukuran sepatu sama"
+          ],
+          "answer": "Mencegah jalan terhalang dan memudahkan mencari sepatu",
+          "discussion": "Kesepakatan itu mempunyai tujuan nyata bagi kerapian dan keamanan tempat bersama."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-039",
+          "type": "PG",
+          "text": "Ketika tugas terasa terlalu berat untuk anak, ia sebaiknya ...",
+          "options": [
+            "Memaksakan diri agar dianggap dewasa",
+            "Menyembunyikan rasa sakit",
+            "Menyampaikan kesulitan dan meminta penyesuaian",
+            "Mengajak adik yang lebih kecil melakukan pekerjaan berat"
+          ],
+          "answer": "Menyampaikan kesulitan dan meminta penyesuaian",
+          "discussion": "Tugas perlu disesuaikan dengan kemampuan dan keselamatan; menyampaikan kesulitan membantu keluarga memperbaiki pembagiannya."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-040",
+          "type": "PG",
+          "text": "Bagaimana cara menegur anggota keluarga yang lupa merapikan barang?",
+          "options": [
+            "Menghina di depan semua orang",
+            "Membuang barangnya diam-diam",
+            "Membalas dengan mengotori ruangan lain",
+            "Mengingatkan dengan sopan dan menyebut kesepakatan"
+          ],
+          "answer": "Mengingatkan dengan sopan dan menyebut kesepakatan",
+          "discussion": "Pengingat yang sopan berfokus pada tindakan dan kesepakatan, bukan merendahkan orangnya."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-041",
+          "type": "PG",
+          "text": "Keluarga mempunyai kebiasaan mencuci tangan sebelum makan. Kebiasaan itu terutama mendukung ...",
+          "options": [
+            "Kebersihan sebelum memegang makanan",
+            "Penentuan siapa yang paling berkuasa",
+            "Penggantian seluruh kebutuhan makan",
+            "Penghilangan semua perbedaan kebiasaan"
+          ],
+          "answer": "Kebersihan sebelum memegang makanan",
+          "discussion": "Kebiasaan tersebut mengurangi perpindahan kotoran ke makanan; tujuannya berkaitan dengan kesehatan bersama."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-042",
+          "type": "PG",
+          "text": "Mengapa alat dan ruangan bersama perlu dirawat setelah digunakan?",
+          "options": [
+            "Agar hanya pemakai pertama yang boleh memakainya",
+            "Agar tetap aman dan dapat dipakai orang berikutnya",
+            "Agar tugas orang lain bertambah",
+            "Agar barang cepat rusak dan diganti"
+          ],
+          "answer": "Agar tetap aman dan dapat dipakai orang berikutnya",
+          "discussion": "Merawat barang bersama mempertimbangkan kenyamanan pemakai berikutnya serta keberlanjutan penggunaannya."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-043",
+          "type": "PG",
+          "text": "Contoh musyawarah tentang pekerjaan rumah ialah ...",
+          "options": [
+            "Satu orang memilih semua tugas tanpa mendengar yang lain",
+            "Anggota keluarga menyembunyikan kebutuhan masing-masing",
+            "Membicarakan pilihan tugas dan menyepakati pembagiannya",
+            "Semua orang berbicara sekaligus tanpa mendengar"
+          ],
+          "answer": "Membicarakan pilihan tugas dan menyepakati pembagiannya",
+          "discussion": "Musyawarah memberi ruang membahas pendapat dan mencari kesepakatan yang dapat dijalankan."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-044",
+          "type": "PG",
+          "text": "Apa yang membedakan adil dengan selalu sama dalam pembagian tugas?",
+          "options": [
+            "Adil selalu berarti anak melakukan pekerjaan orang dewasa",
+            "Adil berarti orang yang lebih tua tidak perlu berperan",
+            "Adil berarti tidak ada yang boleh meminta bantuan",
+            "Adil mempertimbangkan kemampuan dan keadaan, tidak harus identik"
+          ],
+          "answer": "Adil mempertimbangkan kemampuan dan keadaan, tidak harus identik",
+          "discussion": "Kemampuan, waktu, dan kebutuhan berbeda sehingga kesamaan tugas belum tentu menghasilkan pembagian yang wajar."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-045",
+          "type": "PG",
+          "text": "Dua saudara mempunyai waktu luang berbeda. Apa dasar yang baik untuk membuat jadwal?",
+          "options": [
+            "Membicarakan waktu yang tersedia dan berbagi tanggung jawab",
+            "Memberi semua tugas kepada yang pulang paling akhir",
+            "Menganggap jadwal belajar tidak perlu diperhatikan",
+            "Memilih jadwal yang sengaja tidak dapat dilakukan"
+          ],
+          "answer": "Membicarakan waktu yang tersedia dan berbagi tanggung jawab",
+          "discussion": "Jadwal yang realistis mempertimbangkan kegiatan lain sambil tetap berbagi peran."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-046",
+          "type": "PG",
+          "text": "Mengapa pekerjaan bersama tidak cukup hanya direncanakan?",
+          "options": [
+            "Rencana selalu langsung membuat rumah bersih",
+            "Perlu dilaksanakan dan diperiksa hasilnya",
+            "Menulis tugas menghilangkan kebutuhan bekerja",
+            "Kesepakatan tidak perlu dipahami pelakunya"
+          ],
+          "answer": "Perlu dilaksanakan dan diperiksa hasilnya",
+          "discussion": "Rencana membantu mengatur tindakan, tetapi hasil baru terlihat setelah pekerjaan dilakukan."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-047",
+          "type": "PG",
+          "text": "Apa yang dapat dilakukan keluarga sesudah mencoba jadwal tugas baru?",
+          "options": [
+            "Melarang semua orang memberi masukan",
+            "Menjaga jadwal selamanya walau keadaan berubah",
+            "Membahas apakah pembagian berjalan dan perlu disesuaikan",
+            "Menilai hasil hanya dari siapa yang paling tua"
+          ],
+          "answer": "Membahas apakah pembagian berjalan dan perlu disesuaikan",
+          "discussion": "Peninjauan membantu mengetahui bagian yang berhasil dan memperbaiki beban atau waktu yang kurang sesuai."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-048",
+          "type": "PG",
+          "text": "Anak membantu menyiapkan meja makan. Hal yang perlu diperhatikan ialah ...",
+          "options": [
+            "Membawa panci panas sendiri agar lebih cepat",
+            "Mengangkat semua peralatan sekaligus meski berat",
+            "Berlari sambil membawa piring kaca",
+            "Memakai benda aman dan meminta bantuan untuk benda panas atau berat"
+          ],
+          "answer": "Memakai benda aman dan meminta bantuan untuk benda panas atau berat",
+          "discussion": "Bantuan anak harus sesuai kemampuan dan memperhatikan risiko benda panas, berat, atau mudah pecah."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-049",
+          "type": "PG",
+          "text": "Apa alasan mengucapkan terima kasih setelah mendapat bantuan?",
+          "options": [
+            "Menghargai usaha orang yang membantu",
+            "Menggantikan kewajiban menjaga barang selamanya",
+            "Membuktikan orang lain wajib selalu membantu",
+            "Membuat bantuan boleh dipaksakan"
+          ],
+          "answer": "Menghargai usaha orang yang membantu",
+          "discussion": "Ucapan terima kasih mengakui kontribusi orang lain, tanpa menghapus batas dan tanggung jawab kita."
+        },
+        {
+          "id": "K03-IPAS-B03-M01-050",
+          "type": "PG",
+          "text": "Bagaimana hubungan pertumbuhan, perkembangan, dan peran di rumah?",
+          "options": [
+            "Semua anak harus segera melakukan tugas orang dewasa",
+            "Kemampuan dapat berkembang sehingga tugas dapat disesuaikan secara aman",
+            "Tinggi badan menentukan semua tanggung jawab",
+            "Peran keluarga tidak pernah dapat berubah"
+          ],
+          "answer": "Kemampuan dapat berkembang sehingga tugas dapat disesuaikan secara aman",
+          "discussion": "Ketika kemampuan berubah, kontribusi dapat berkembang melalui kesepakatan, bimbingan, dan pertimbangan keselamatan."
+        }
+      ]
+    }
+  ]
+}
