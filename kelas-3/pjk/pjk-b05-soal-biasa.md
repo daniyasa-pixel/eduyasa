@@ -1,10 +1,10 @@
 # Unit 5 — Aktivitas Gerak Berirama
 
-35 soal teks, **DRAF**. Perlu audit variasi soal.
+35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
 
 ## Soal 1 — K03-PJK-B05-M01-001
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk gerak berirama?
+**Pertanyaan:** Guru menghitung satu-dua-tiga-empat, siswa bergerak sesuai hitungan. Kegiatan itu adalah ....
 
 **Pilihan jawaban:**
 - gerakan tubuh mengikuti irama atau ketukan
@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-PJK-B05-M01-002
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk tepuk tangan sesuai ketukan?
+**Pertanyaan:** Anak-anak bertepuk pada ketukan kedua dan keempat. Fungsi tepuk itu adalah ....
 
 **Pilihan jawaban:**
 - menggantikan minum
@@ -36,7 +36,7 @@
 
 ## Soal 3 — K03-PJK-B05-M01-003
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk langkah ke kanan dan kiri?
+**Pertanyaan:** Guru memberi aba-aba dua langkah ke kanan lalu dua ke kiri. Cara yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - dilakukan tanpa melihat sekitar
@@ -52,7 +52,7 @@
 
 ## Soal 4 — K03-PJK-B05-M01-004
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk ayunan lengan berirama?
+**Pertanyaan:** Siswa menggerakkan lengan setiap bunyi ketukan. Bagaimana gerakan itu diatur?
 
 **Pilihan jawaban:**
 - tidak perlu terkendali
@@ -68,7 +68,7 @@
 
 ## Soal 5 — K03-PJK-B05-M01-005
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk hitungan satu sampai empat?
+**Pertanyaan:** Guru memberi urutan empat hitungan untuk latihan kelompok. Tujuannya ialah ....
 
 **Pilihan jawaban:**
 - membantu mengatur urutan gerak
@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-PJK-B05-M01-006
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk gerak kelompok berirama?
+**Pertanyaan:** Kelompok bergerak dengan waktu yang sama, bukan saling mendahului. Apa kemampuan yang dibutuhkan?
 
 **Pilihan jawaban:**
 - memerlukan saling mengejek
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-PJK-B05-M01-007
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk tempo lambat?
+**Pertanyaan:** Ketukan musik terdengar berjeda panjang. Bagaimana tempo gerak siswa?
 
 **Pilihan jawaban:**
 - gerakan berhenti total
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-PJK-B05-M01-008
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk tempo cepat?
+**Pertanyaan:** Guru mempercepat ketukan tetapi tetap menjaga gerakan aman. Penjelasannya adalah ....
 
 **Pilihan jawaban:**
 - gerakan tidak perlu kendali
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-PJK-B05-M01-009
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk jarak antarpeserta?
+**Pertanyaan:** Saat mengayunkan lengan, tangan siswa hampir mengenai teman. Apa yang harus diperbaiki?
 
 **Pilihan jawaban:**
 - perlu cukup agar tidak bertabrakan
@@ -148,7 +148,7 @@
 
 ## Soal 10 — K03-PJK-B05-M01-010
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk pendinginan setelah bergerak?
+**Pertanyaan:** Selesai latihan berirama, guru mengajak peserta mengurangi gerak perlahan. Tujuan kegiatan ini adalah ....
 
 **Pilihan jawaban:**
 - menggantikan tidur malam
@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-PJK-B05-M01-011
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak berirama, guru membahas "Gerak berirama". Pernyataan manakah yang benar?
+**Pertanyaan:** Siswa menyesuaikan langkah dengan musik yang diputar pelan. Penjelasan gerak yang sesuai ialah ....
 
 **Pilihan jawaban:**
 - hanya duduk diam
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-PJK-B05-M01-012
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak berirama, guru membahas "Tepuk tangan sesuai ketukan". Pernyataan manakah yang benar?
+**Pertanyaan:** Ketika ketukan sulit diikuti, guru meminta siswa menepuk tangan sesuai pola. Manfaatnya ialah ....
 
 **Pilihan jawaban:**
 - menjadi gerak renang
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-PJK-B05-M01-013
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak berirama, guru membahas "Langkah ke kanan dan kiri". Pernyataan manakah yang benar?
+**Pertanyaan:** Agar tidak bertabrakan saat berpindah ke sisi, gerak langkah perlu ....
 
 **Pilihan jawaban:**
 - dilakukan mengikuti hitungan dengan ruang aman
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-PJK-B05-M01-014
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak berirama, guru membahas "Ayunan lengan berirama". Pernyataan manakah yang benar?
+**Pertanyaan:** Musik menjadi lebih lambat. Bagaimana ayunan lengan seharusnya menyesuaikan?
 
 **Pilihan jawaban:**
 - selalu melawan ketukan
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-PJK-B05-M01-015
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak berirama, guru membahas "Hitungan satu sampai empat". Pernyataan manakah yang benar?
+**Pertanyaan:** Ketika kelompok lupa urutan, guru mengulang hitungan 1 sampai 4. Hitungan membantu ....
 
 **Pilihan jawaban:**
 - mengganti pemanasan
@@ -244,7 +244,7 @@
 
 ## Soal 16 — K03-PJK-B05-M01-016
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak berirama, guru membahas "Gerak kelompok berirama". Pernyataan manakah yang benar?
+**Pertanyaan:** Dua teman berbeda kecepatan geraknya. Apa yang perlu dilakukan supaya serasi?
 
 **Pilihan jawaban:**
 - hanya dilakukan sendiri
@@ -260,7 +260,7 @@
 
 ## Soal 17 — K03-PJK-B05-M01-017
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak berirama, guru membahas "Tempo lambat". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru mengurangi kecepatan hitungan. Tindakan peserta yang benar adalah ....
 
 **Pilihan jawaban:**
 - gerakan mengikuti ketukan yang lebih pelan
@@ -276,7 +276,7 @@
 
 ## Soal 18 — K03-PJK-B05-M01-018
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak berirama, guru membahas "Tempo cepat". Pernyataan manakah yang benar?
+**Pertanyaan:** Ketukan musik semakin rapat. Bagaimana siswa menyesuaikan gerak tanpa terburu-buru berbahaya?
 
 **Pilihan jawaban:**
 - gerakan harus sembarangan
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-PJK-B05-M01-019
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak berirama, guru membahas "Jarak antarpeserta". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru mengatur posisi barisan agar ada ruang untuk gerak ke samping. Tujuannya adalah ....
 
 **Pilihan jawaban:**
 - tidak perlu diperhatikan
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-PJK-B05-M01-020
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak berirama, guru membahas "Pendinginan setelah bergerak". Pernyataan manakah yang benar?
+**Pertanyaan:** Setelah musik berhenti, siswa melakukan pendinginan, bukan langsung lari lagi. Manfaatnya adalah ....
 
 **Pilihan jawaban:**
 - berarti berhenti bernapas
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-PJK-B05-M01-021
 
-**Pertanyaan:** Rani ingin memahami gerak berirama. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa ciri utama aktivitas gerak mengikuti pola ketukan?
 
 **Pilihan jawaban:**
 - gerakan tubuh mengikuti irama atau ketukan
@@ -340,7 +340,7 @@
 
 ## Soal 22 — K03-PJK-B05-M01-022
 
-**Pertanyaan:** Rani ingin memahami tepuk tangan sesuai ketukan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa tepuk tangan dapat membantu siswa menjaga irama bersama?
 
 **Pilihan jawaban:**
 - menggantikan minum
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-PJK-B05-M01-023
 
-**Pertanyaan:** Rani ingin memahami langkah ke kanan dan kiri. Pilih penjelasan yang tepat.
+**Pertanyaan:** Saat menghitung langkah kanan-kiri, apa hal yang perlu dijaga?
 
 **Pilihan jawaban:**
 - dilakukan tanpa melihat sekitar
@@ -372,7 +372,7 @@
 
 ## Soal 24 — K03-PJK-B05-M01-024
 
-**Pertanyaan:** Rani ingin memahami ayunan lengan berirama. Pilih penjelasan yang tepat.
+**Pertanyaan:** Saat latihan lengan berirama, gerak tepat mengikuti apa?
 
 **Pilihan jawaban:**
 - tidak perlu terkendali
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-PJK-B05-M01-025
 
-**Pertanyaan:** Rani ingin memahami hitungan satu sampai empat. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa urutan angka dipakai dalam latihan gerak berirama?
 
 **Pilihan jawaban:**
 - membantu mengatur urutan gerak
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-PJK-B05-M01-026
 
-**Pertanyaan:** Rani ingin memahami gerak kelompok berirama. Pilih penjelasan yang tepat.
+**Pertanyaan:** Latihan gerak berirama bersama melatih sikap apa?
 
 **Pilihan jawaban:**
 - memerlukan saling mengejek
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-PJK-B05-M01-027
 
-**Pertanyaan:** Rani ingin memahami tempo lambat. Pilih penjelasan yang tepat.
+**Pertanyaan:** Jika tempo diperlambat, irama gerakan sebaiknya ....
 
 **Pilihan jawaban:**
 - gerakan berhenti total
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-PJK-B05-M01-028
 
-**Pertanyaan:** Rani ingin memahami tempo cepat. Pilih penjelasan yang tepat.
+**Pertanyaan:** Jika tempo lebih cepat, prinsip gerak yang tepat ialah ....
 
 **Pilihan jawaban:**
 - gerakan tidak perlu kendali
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-PJK-B05-M01-029
 
-**Pertanyaan:** Rani ingin memahami jarak antarpeserta. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa jarak antaranggota kelompok harus dijaga saat bergerak mengikuti irama?
 
 **Pilihan jawaban:**
 - perlu cukup agar tidak bertabrakan
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-PJK-B05-M01-030
 
-**Pertanyaan:** Rani ingin memahami pendinginan setelah bergerak. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa fungsi gerakan ringan pada akhir kegiatan berirama?
 
 **Pilihan jawaban:**
 - menggantikan tidur malam
@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B05-M01-031
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Gerak berirama". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Guru menghitung satu-dua-tiga-empat, siswa bergerak sesuai hitungan. Kegiatan itu adalah ....
 
 **Pilihan jawaban:**
 - hanya duduk diam
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B05-M01-032
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Tepuk tangan sesuai ketukan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Anak-anak bertepuk pada ketukan kedua dan keempat. Fungsi tepuk itu adalah ....
 
 **Pilihan jawaban:**
 - menjadi gerak renang
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B05-M01-033
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Langkah ke kanan dan kiri". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Guru memberi aba-aba dua langkah ke kanan lalu dua ke kiri. Cara yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - dilakukan mengikuti hitungan dengan ruang aman
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B05-M01-034
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Ayunan lengan berirama". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Siswa menggerakkan lengan setiap bunyi ketukan. Bagaimana gerakan itu diatur?
 
 **Pilihan jawaban:**
 - selalu melawan ketukan
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B05-M01-035
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Hitungan satu sampai empat". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Guru memberi urutan empat hitungan untuk latihan kelompok. Tujuannya ialah ....
 
 **Pilihan jawaban:**
 - mengganti pemanasan
