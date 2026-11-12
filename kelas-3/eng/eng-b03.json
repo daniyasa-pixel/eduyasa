@@ -1,0 +1,469 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B03",
+      "chapter_title": "I Have Fried Chicken for Breakfast",
+      "questions": [
+        {
+          "id": "K03-ENG-B03-M01-001",
+          "type": "PG",
+          "text": "What do we call the first meal of the day?",
+          "options": [
+            "lunch",
+            "dinner",
+            "a drink",
+            "breakfast"
+          ],
+          "answer": "breakfast",
+          "discussion": "Breakfast is the first meal of the day."
+        },
+        {
+          "id": "K03-ENG-B03-M01-002",
+          "type": "PG",
+          "text": "It's noon. Tio eats with his classmates during the midday break. Which meal is it?",
+          "options": [
+            "breakfast",
+            "dinner",
+            "lunch",
+            "a drink"
+          ],
+          "answer": "lunch",
+          "discussion": "The midday meal is lunch."
+        },
+        {
+          "id": "K03-ENG-B03-M01-003",
+          "type": "PG",
+          "text": "At seven in the evening, Sari sits down for her main evening meal. Which word fits?",
+          "options": [
+            "breakfast",
+            "lunch",
+            "dinner",
+            "a drink"
+          ],
+          "answer": "dinner",
+          "discussion": "Dinner is the evening meal in Sari's schedule."
+        },
+        {
+          "id": "K03-ENG-B03-M01-004",
+          "type": "PG",
+          "text": "“I have ___ for breakfast.” Which choice names both a food and a drink?",
+          "options": [
+            "rice and eggs",
+            "toast and milk",
+            "milk and water",
+            "noodles and fish"
+          ],
+          "answer": "toast and milk",
+          "discussion": "Toast is a food and milk is a drink. The other pairs contain two foods or two drinks."
+        },
+        {
+          "id": "K03-ENG-B03-M01-005",
+          "type": "PG",
+          "text": "Which sentence reports someone's drink at lunch?",
+          "options": [
+            "I drink water at lunch.",
+            "I eat fish at lunch.",
+            "I drink water at dinner.",
+            "I have lunch at school."
+          ],
+          "answer": "I drink water at lunch.",
+          "discussion": "The sentence names the drink, water, and the meal, lunch."
+        },
+        {
+          "id": "K03-ENG-B03-M01-006",
+          "type": "PG",
+          "text": "Dita says, “I have eggs for breakfast.” What should her partner put in the breakfast column?",
+          "options": [
+            "eggs",
+            "bread",
+            "rice",
+            "noodles"
+          ],
+          "answer": "eggs",
+          "discussion": "Dita names eggs after have, then tells us the meal."
+        },
+        {
+          "id": "K03-ENG-B03-M01-007",
+          "type": "PG",
+          "text": "The note says “Lunch: rice and fish.” Which sentence matches?",
+          "options": [
+            "I have rice and fish for breakfast.",
+            "I have rice and eggs for lunch.",
+            "I have noodles and fish for lunch.",
+            "I have rice and fish for lunch."
+          ],
+          "answer": "I have rice and fish for lunch.",
+          "discussion": "The note lists both rice and fish under lunch."
+        },
+        {
+          "id": "K03-ENG-B03-M01-008",
+          "type": "PG",
+          "text": "Reno has soup in the evening. Complete his sentence: “I have soup for ___.”",
+          "options": [
+            "breakfast",
+            "lunch",
+            "dinner",
+            "water"
+          ],
+          "answer": "dinner",
+          "discussion": "The evening meal here is dinner."
+        },
+        {
+          "id": "K03-ENG-B03-M01-009",
+          "type": "PG",
+          "text": "“What do you have for breakfast?” Which answer gives the requested information?",
+          "options": [
+            "I have breakfast at seven.",
+            "I have breakfast at home.",
+            "I have bread and milk.",
+            "Yes, I do."
+          ],
+          "answer": "I have bread and milk.",
+          "discussion": "What asks for the food or drink, so bread and milk answer the question."
+        },
+        {
+          "id": "K03-ENG-B03-M01-010",
+          "type": "PG",
+          "text": "You want to learn what Maya eats at lunchtime. Which question should you ask her?",
+          "options": [
+            "When do you have lunch?",
+            "What do you have for lunch?",
+            "What do you have for dinner?",
+            "Where do you have lunch?"
+          ],
+          "answer": "What do you have for lunch?",
+          "discussion": "What asks about the menu, and for lunch identifies the meal."
+        },
+        {
+          "id": "K03-ENG-B03-M01-011",
+          "type": "PG",
+          "text": "Ani says, “I have noodles for lunch.” Tell the class about Ani.",
+          "options": [
+            "Ani has noodles for lunch.",
+            "Ani have noodles for lunch.",
+            "Ani has noodles for dinner.",
+            "I have noodles for lunch."
+          ],
+          "answer": "Ani has noodles for lunch.",
+          "discussion": "Use has for one other person and keep the meal as lunch."
+        },
+        {
+          "id": "K03-ENG-B03-M01-012",
+          "type": "PG",
+          "text": "“My brother ___ fried rice for dinner.” Choose the missing word.",
+          "options": [
+            "has",
+            "have",
+            "do",
+            "eat"
+          ],
+          "answer": "has",
+          "discussion": "My brother refers to one other person, so use has."
+        },
+        {
+          "id": "K03-ENG-B03-M01-013",
+          "type": "PG",
+          "text": "Nina and Bima eat together. “They ___ soup for lunch.”",
+          "options": [
+            "has",
+            "having",
+            "does",
+            "have"
+          ],
+          "answer": "have",
+          "discussion": "They refers to two people and takes have."
+        },
+        {
+          "id": "K03-ENG-B03-M01-014",
+          "type": "PG",
+          "text": "Which sentence uses the words in the right order?",
+          "options": [
+            "We eggs have for breakfast.",
+            "Have we eggs for breakfast.",
+            "We have eggs for breakfast.",
+            "We for breakfast eggs have."
+          ],
+          "answer": "We have eggs for breakfast.",
+          "discussion": "Start with the subject, then have, the food, and for breakfast."
+        },
+        {
+          "id": "K03-ENG-B03-M01-015",
+          "type": "PG",
+          "text": "Rani wrote “I have for lunch rice.” Which correction keeps her meaning?",
+          "options": [
+            "I have lunch for rice.",
+            "Rice have I for lunch.",
+            "I have rice for lunch.",
+            "I have rice lunch for."
+          ],
+          "answer": "I have rice for lunch.",
+          "discussion": "Rice follows have. For lunch comes after the food."
+        },
+        {
+          "id": "K03-ENG-B03-M01-016",
+          "type": "PG",
+          "text": "Ben says, “I have rice for lunch. I have noodles for dinner.” What changes?",
+          "options": [
+            "Only the meal.",
+            "Both the meal and the food.",
+            "Only the food.",
+            "Neither the meal nor the food."
+          ],
+          "answer": "Both the meal and the food.",
+          "discussion": "Lunch changes to dinner and rice changes to noodles."
+        },
+        {
+          "id": "K03-ENG-B03-M01-017",
+          "type": "PG",
+          "text": "Mira has milk at breakfast and at lunch. Which report matches?",
+          "options": [
+            "Mira has milk at both meals.",
+            "Mira has milk only at breakfast.",
+            "Mira has milk only at lunch.",
+            "Mira has milk at dinner."
+          ],
+          "answer": "Mira has milk at both meals.",
+          "discussion": "Milk is mentioned for breakfast and lunch."
+        },
+        {
+          "id": "K03-ENG-B03-M01-018",
+          "type": "PG",
+          "text": "Breakfast: bread and milk. Dinner: noodles and water. Which drink is listed for dinner?",
+          "options": [
+            "water",
+            "milk",
+            "bread",
+            "noodles"
+          ],
+          "answer": "water",
+          "discussion": "The dinner entry lists water as the drink."
+        },
+        {
+          "id": "K03-ENG-B03-M01-019",
+          "type": "PG",
+          "text": "“I have tea for breakfast, and water for dinner.” Which part tells you when the speaker has tea?",
+          "options": [
+            "I have",
+            "and water",
+            "for dinner",
+            "for breakfast"
+          ],
+          "answer": "for breakfast",
+          "discussion": "For breakfast connects tea with the breakfast meal."
+        },
+        {
+          "id": "K03-ENG-B03-M01-020",
+          "type": "PG",
+          "text": "What word is missing? “I have fried chicken ___ lunch.”",
+          "options": [
+            "from",
+            "under",
+            "for",
+            "between"
+          ],
+          "answer": "for",
+          "discussion": "For connects what the speaker has with the meal."
+        },
+        {
+          "id": "K03-ENG-B03-M01-021",
+          "type": "PG",
+          "text": "Ali says, “I have bread for breakfast.” Ana says, “I have eggs for breakfast.” What is the same?",
+          "options": [
+            "the food",
+            "the speaker",
+            "the meal",
+            "the whole menu"
+          ],
+          "answer": "the meal",
+          "discussion": "Both name breakfast, but their foods differ."
+        },
+        {
+          "id": "K03-ENG-B03-M01-022",
+          "type": "PG",
+          "text": "Dani has rice and soup for lunch. Ema has rice and fish for lunch. What food appears in both lunches?",
+          "options": [
+            "soup",
+            "rice",
+            "fish",
+            "bread"
+          ],
+          "answer": "rice",
+          "discussion": "Rice appears in both menus."
+        },
+        {
+          "id": "K03-ENG-B03-M01-023",
+          "type": "PG",
+          "text": "“For lunch, I have soup. I drink orange juice.” Which belongs in the Drinks column?",
+          "options": [
+            "orange juice",
+            "soup",
+            "lunch",
+            "rice"
+          ],
+          "answer": "orange juice",
+          "discussion": "The second sentence identifies orange juice as the drink."
+        },
+        {
+          "id": "K03-ENG-B03-M01-024",
+          "type": "PG",
+          "text": "A survey has two columns: Lunch Food and Lunch Drink. Lia says, “I have noodles and water.” What goes under Lunch Food?",
+          "options": [
+            "noodles",
+            "water",
+            "lunch",
+            "juice"
+          ],
+          "answer": "noodles",
+          "discussion": "Noodles are the food. Water belongs in the drink column."
+        },
+        {
+          "id": "K03-ENG-B03-M01-025",
+          "type": "PG",
+          "text": "Your worksheet has the heading Dinner. Which answer belongs under it?",
+          "options": [
+            "I have fish for lunch.",
+            "I have fish for breakfast.",
+            "Do you like fish?",
+            "I have fish for dinner."
+          ],
+          "answer": "I have fish for dinner.",
+          "discussion": "Only this statement gives the menu for dinner."
+        },
+        {
+          "id": "K03-ENG-B03-M01-026",
+          "type": "PG",
+          "text": "Read the note: “Breakfast: eggs. Lunch: soup. Dinner: rice.” Which order follows the day?",
+          "options": [
+            "soup, rice, eggs",
+            "rice, eggs, soup",
+            "eggs, soup, rice",
+            "eggs, rice, soup"
+          ],
+          "answer": "eggs, soup, rice",
+          "discussion": "Read the menus in breakfast, lunch, dinner order."
+        },
+        {
+          "id": "K03-ENG-B03-M01-027",
+          "type": "PG",
+          "text": "Class note: “I have breakfast at Grandma’s house. I have lunch at school. I have dinner at my home.” Which meal is at the speaker’s home?",
+          "options": [
+            "breakfast",
+            "lunch",
+            "dinner",
+            "breakfast and lunch"
+          ],
+          "answer": "dinner",
+          "discussion": "The last sentence puts dinner at the speaker’s home."
+        },
+        {
+          "id": "K03-ENG-B03-M01-028",
+          "type": "PG",
+          "text": "A friend says, “For breakfast I have bread.” How can you check what the friend drinks at that meal?",
+          "options": [
+            "What do you eat for dinner?",
+            "What do you drink for breakfast?",
+            "Do you have lunch at school?",
+            "What time is breakfast?"
+          ],
+          "answer": "What do you drink for breakfast?",
+          "discussion": "Drink asks about the beverage, and breakfast keeps the question on the same meal."
+        },
+        {
+          "id": "K03-ENG-B03-M01-029",
+          "type": "PG",
+          "text": "Nuri says, “I have soup for lunch.” Which question remains unanswered?",
+          "options": [
+            "What does Nuri drink for lunch?",
+            "Which meal does Nuri mention?",
+            "What food does Nuri have for lunch?",
+            "Who says they have soup for lunch?"
+          ],
+          "answer": "What does Nuri drink for lunch?",
+          "discussion": "The note gives the person, food and meal. It does not give a drink."
+        },
+        {
+          "id": "K03-ENG-B03-M01-030",
+          "type": "PG",
+          "text": "“We have rice for dinner.” Who has rice according to this sentence?",
+          "options": [
+            "the speaker and at least one other person",
+            "only the speaker",
+            "only the listener",
+            "one person outside the group"
+          ],
+          "answer": "the speaker and at least one other person",
+          "discussion": "We includes the speaker and at least one other person."
+        },
+        {
+          "id": "K03-ENG-B03-M01-031",
+          "type": "PG",
+          "text": "Your group wants to present its meal. Choose the line that gives both menu and meal.",
+          "options": [
+            "We have lunch together.",
+            "We eat at school.",
+            "We have rice and eggs.",
+            "We have rice and eggs for lunch."
+          ],
+          "answer": "We have rice and eggs for lunch.",
+          "discussion": "The line names rice and eggs and identifies lunch."
+        },
+        {
+          "id": "K03-ENG-B03-M01-032",
+          "type": "PG",
+          "text": "The food label is spelled incorrectly: “bred.” Which spelling should you use?",
+          "options": [
+            "broad",
+            "breed",
+            "bread",
+            "beard"
+          ],
+          "answer": "bread",
+          "discussion": "Bread is the spelling for roti."
+        },
+        {
+          "id": "K03-ENG-B03-M01-033",
+          "type": "PG",
+          "text": "A child writes “I have soup for lunch?” as a statement. Which punctuation fits the statement?",
+          "options": [
+            "I have soup for lunch?",
+            "I have soup for lunch,",
+            "I have soup for lunch.",
+            "I have soup for lunch:"
+          ],
+          "answer": "I have soup for lunch.",
+          "discussion": "A period ends this complete statement."
+        },
+        {
+          "id": "K03-ENG-B03-M01-034",
+          "type": "PG",
+          "text": "Teacher: “What does Riko have for dinner?” Note: “Riko, dinner: fish and rice.” Which reply matches?",
+          "options": [
+            "He has chicken and rice.",
+            "He has fish and rice.",
+            "They have fish and rice.",
+            "He has fish and bread."
+          ],
+          "answer": "He has fish and rice.",
+          "discussion": "He refers to Riko, and the note gives fish and rice."
+        },
+        {
+          "id": "K03-ENG-B03-M01-035",
+          "type": "PG",
+          "text": "Sinta says, “Today I have eggs for breakfast. Tomorrow I will have bread for breakfast.” What should the class record for today?",
+          "options": [
+            "eggs",
+            "bread",
+            "eggs and bread",
+            "milk"
+          ],
+          "answer": "eggs",
+          "discussion": "Today refers to the first menu. Bread is for tomorrow."
+        }
+      ]
+    }
+  ]
+}
