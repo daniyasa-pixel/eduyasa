@@ -1,0 +1,184 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B03",
+      "chapter_title": "I Have Fried Chicken for Breakfast",
+      "questions": [
+        {
+          "id": "K03-ENG-B03-M01-036",
+          "type": "PG",
+          "text": "Which food does Tari have for dinner?",
+          "options": [
+            "noodles",
+            "eggs",
+            "rice",
+            "fish"
+          ],
+          "answer": "noodles",
+          "discussion": "The dinner row shows noodles and water. Noodles are the food.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b03-gambar-01.svg",
+            "alt": "Tari's meal card. Breakfast: eggs and milk. Lunch: rice and fish. Dinner: noodles and water."
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-037",
+          "type": "PG",
+          "text": "What do both children have for lunch?",
+          "options": [
+            "soup",
+            "fish",
+            "milk",
+            "rice"
+          ],
+          "answer": "rice",
+          "discussion": "Rice appears on both lunch trays.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b03-gambar-02.svg",
+            "alt": "Two lunch trays. Ayu: rice, soup, water. Dito: rice, fish, milk."
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-038",
+          "type": "PG",
+          "text": "Which sentence matches Beni's lunch drink?",
+          "options": [
+            "Beni drinks milk at lunch.",
+            "Beni drinks water at lunch.",
+            "Beni drinks orange juice at lunch.",
+            "Beni drinks orange juice at dinner."
+          ],
+          "answer": "Beni drinks orange juice at lunch.",
+          "discussion": "The Lunch row lists orange juice.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b03-gambar-03.svg",
+            "alt": "Beni's drink chart. Breakfast: milk. Lunch: orange juice. Dinner: water."
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-039",
+          "type": "PG",
+          "text": "Which question should the group ask to complete Sasa's card?",
+          "options": [
+            "What do you have for breakfast?",
+            "What do you have for lunch?",
+            "What do you have for dinner?",
+            "Do you like bread?"
+          ],
+          "answer": "What do you have for dinner?",
+          "discussion": "Only the dinner row has no entry.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b03-gambar-04.svg",
+            "alt": "Sasa's survey card. Breakfast: bread. Lunch: soup. Dinner: (no entry)."
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-040",
+          "type": "PG",
+          "text": "What is the same on the two cards?",
+          "options": [
+            "the food",
+            "the drink",
+            "the name",
+            "the complete menu"
+          ],
+          "answer": "the drink",
+          "discussion": "Both cards list tea, but they show different foods.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b03-gambar-05.svg",
+            "alt": "Two breakfast cards. Ina: eggs and tea. Bayu: bread and tea."
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-041",
+          "type": "PG",
+          "text": "Which meal includes fried rice?",
+          "options": [
+            "lunch",
+            "breakfast",
+            "dinner",
+            "breakfast and dinner"
+          ],
+          "answer": "lunch",
+          "discussion": "The plan puts fried rice at midday, which is lunchtime.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b03-gambar-06.svg",
+            "alt": "Lani's plan for the day. Morning: bread. Midday: fried rice. Evening: soup."
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-042",
+          "type": "PG",
+          "text": "Which card shows Adi's first meal of the day?",
+          "options": [
+            "Card B",
+            "Card A",
+            "Card C",
+            "Cards A and C"
+          ],
+          "answer": "Card B",
+          "discussion": "Card B is marked breakfast, the first meal of the day.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b03-gambar-07.svg",
+            "alt": "Adi's meal cards. Card A: dinner, fish. Card B: breakfast, eggs. Card C: lunch, noodles."
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-043",
+          "type": "PG",
+          "text": "What changes from Monday to Tuesday?",
+          "options": [
+            "Rice changes to bread.",
+            "Eggs change to fish.",
+            "Lunch changes to dinner.",
+            "Fish changes to eggs."
+          ],
+          "answer": "Fish changes to eggs.",
+          "discussion": "Both entries list rice. Fish appears on Monday and eggs appear on Tuesday.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b03-gambar-08.svg",
+            "alt": "Maya's lunch notes. Monday: rice and fish. Tuesday: rice and eggs."
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-044",
+          "type": "PG",
+          "text": "Who has soup and milk for lunch?",
+          "options": [
+            "Hana",
+            "Iwan",
+            "Putri",
+            "Hana and Iwan"
+          ],
+          "answer": "Putri",
+          "discussion": "Putri's row is the only one that lists both soup and milk.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b03-gambar-09.svg",
+            "alt": "Lunch survey. Hana: soup and water. Iwan: rice and milk. Putri: soup and milk."
+          }
+        },
+        {
+          "id": "K03-ENG-B03-M01-045",
+          "type": "PG",
+          "text": "Which report matches the meal Riko has at school?",
+          "options": [
+            "He has bread for breakfast.",
+            "He has soup for dinner.",
+            "He has rice for lunch.",
+            "He has rice for dinner."
+          ],
+          "answer": "He has rice for lunch.",
+          "discussion": "The school entry is in the lunch row and lists rice.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b03-gambar-10.svg",
+            "alt": "Riko's meal record. Breakfast: home, bread. Lunch: school, rice. Dinner: home, soup."
+          }
+        }
+      ]
+    }
+  ]
+}
