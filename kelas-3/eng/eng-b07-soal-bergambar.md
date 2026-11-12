@@ -4,7 +4,7 @@
 
 ![Picture](assets/eng-b07-gambar-01.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which word shows the position of the object in the picture?
 
 **Pilihan jawaban:**
 - behind
@@ -22,7 +22,7 @@
 
 ![Picture](assets/eng-b07-gambar-02.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Look at the picture. Is the object in front of or behind the other object? Choose the correct phrase.
 
 **Pilihan jawaban:**
 - behind
@@ -40,7 +40,7 @@
 
 ![Picture](assets/eng-b07-gambar-03.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which phrase best describes the two objects' positions?
 
 **Pilihan jawaban:**
 - near
@@ -58,7 +58,7 @@
 
 ![Picture](assets/eng-b07-gambar-04.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** What word describes the middle position shown?
 
 **Pilihan jawaban:**
 - on
@@ -76,7 +76,7 @@
 
 ![Picture](assets/eng-b07-gambar-05.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which distance word matches the picture?
 
 **Pilihan jawaban:**
 - near
@@ -94,7 +94,7 @@
 
 ![Picture](assets/eng-b07-gambar-06.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which word describes the distance shown between the objects?
 
 **Pilihan jawaban:**
 - near
@@ -112,7 +112,7 @@
 
 ![Picture](assets/eng-b07-gambar-07.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Where is the object relative to its container?
 
 **Pilihan jawaban:**
 - on
@@ -130,7 +130,7 @@
 
 ![Picture](assets/eng-b07-gambar-08.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Is the object inside or outside? Choose the correct word.
 
 **Pilihan jawaban:**
 - next to
@@ -148,7 +148,7 @@
 
 ![Picture](assets/eng-b07-gambar-09.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which word describes the object's position on a surface?
 
 **Pilihan jawaban:**
 - on
@@ -166,7 +166,7 @@
 
 ![Picture](assets/eng-b07-gambar-10.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which word describes the position below the other object?
 
 **Pilihan jawaban:**
 - on
