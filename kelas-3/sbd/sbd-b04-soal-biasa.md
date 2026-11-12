@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-SBD-B04-M01-008
 
-**Pertanyaan:** Dua anak menggambar potret diri dengan gaya berbeda. Apakah gambar mereka harus sama persis?
+**Pertanyaan:** Dua anak menggambar potret diri dengan gaya berbeda. Persamaan seperti apa yang tidak wajib dipaksakan pada kedua karya?
 
 **Pilihan jawaban:**
 - sama persis dengan karya teman
