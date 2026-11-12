@@ -1,0 +1,469 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B08",
+      "chapter_title": "I Drink Orange Juice in the Canteen",
+      "questions": [
+        {
+          "id": "K03-ENG-B08-M01-001",
+          "type": "PG",
+          "text": "Mira says, 'I drink orange juice in the canteen.' What does she drink?",
+          "options": [
+            "orange juice",
+            "water",
+            "milk",
+            "tea"
+          ],
+          "answer": "orange juice",
+          "discussion": "The drink is orange juice."
+        },
+        {
+          "id": "K03-ENG-B08-M01-002",
+          "type": "PG",
+          "text": "Bima drinks water after playing. Which drink does he choose?",
+          "options": [
+            "water",
+            "canteen",
+            "classroom",
+            "library"
+          ],
+          "answer": "water",
+          "discussion": "The sentence names water."
+        },
+        {
+          "id": "K03-ENG-B08-M01-003",
+          "type": "PG",
+          "text": "Siti has a glass of milk at breakfast. What is in her glass?",
+          "options": [
+            "milk",
+            "bread",
+            "rice",
+            "noodles"
+          ],
+          "answer": "milk",
+          "discussion": "Milk is stated as the drink."
+        },
+        {
+          "id": "K03-ENG-B08-M01-004",
+          "type": "PG",
+          "text": "A teacher says, 'I drink tea.' Which drink does the teacher name?",
+          "options": [
+            "tea",
+            "milk",
+            "canteen",
+            "classroom"
+          ],
+          "answer": "tea",
+          "discussion": "The sentence names tea."
+        },
+        {
+          "id": "K03-ENG-B08-M01-005",
+          "type": "PG",
+          "text": "The children buy food at school. Which place sells food?",
+          "options": [
+            "canteen",
+            "library",
+            "bread",
+            "rice"
+          ],
+          "answer": "canteen",
+          "discussion": "A canteen is a place to buy food at school."
+        },
+        {
+          "id": "K03-ENG-B08-M01-006",
+          "type": "PG",
+          "text": "Where do students usually study with their teacher?",
+          "options": [
+            "classroom",
+            "water",
+            "milk",
+            "tea"
+          ],
+          "answer": "classroom",
+          "discussion": "A classroom is used for lessons."
+        },
+        {
+          "id": "K03-ENG-B08-M01-007",
+          "type": "PG",
+          "text": "A student borrows a book. Which place should the student visit?",
+          "options": [
+            "library",
+            "canteen",
+            "classroom",
+            "bread"
+          ],
+          "answer": "library",
+          "discussion": "Books can be read or borrowed in a library."
+        },
+        {
+          "id": "K03-ENG-B08-M01-008",
+          "type": "PG",
+          "text": "Rudi eats bread for breakfast. What does he eat?",
+          "options": [
+            "bread",
+            "orange juice",
+            "water",
+            "milk"
+          ],
+          "answer": "bread",
+          "discussion": "Bread is the food mentioned."
+        },
+        {
+          "id": "K03-ENG-B08-M01-009",
+          "type": "PG",
+          "text": "Nina says, 'I eat rice for lunch.' Which food does she eat?",
+          "options": [
+            "rice",
+            "tea",
+            "canteen",
+            "classroom"
+          ],
+          "answer": "rice",
+          "discussion": "She names rice."
+        },
+        {
+          "id": "K03-ENG-B08-M01-010",
+          "type": "PG",
+          "text": "Ali likes noodles. Which food does Ali like?",
+          "options": [
+            "noodles",
+            "library",
+            "bread",
+            "rice"
+          ],
+          "answer": "noodles",
+          "discussion": "Noodles is explicitly the food."
+        },
+        {
+          "id": "K03-ENG-B08-M01-011",
+          "type": "PG",
+          "text": "Choose the correct sentence about drinking orange juice.",
+          "options": [
+            "I drink orange juice.",
+            "I eat orange juice.",
+            "I drink noodles.",
+            "I eat water."
+          ],
+          "answer": "I drink orange juice.",
+          "discussion": "Use 'drink' with orange juice."
+        },
+        {
+          "id": "K03-ENG-B08-M01-012",
+          "type": "PG",
+          "text": "Choose the correct sentence about eating bread.",
+          "options": [
+            "I drink bread.",
+            "I eat bread.",
+            "I eat water.",
+            "I drink rice."
+          ],
+          "answer": "I eat bread.",
+          "discussion": "Use 'eat' with bread."
+        },
+        {
+          "id": "K03-ENG-B08-M01-013",
+          "type": "PG",
+          "text": "A: What do you drink? B: ___.",
+          "options": [
+            "I eat water.",
+            "I drink water.",
+            "I drink bread.",
+            "I eat tea."
+          ],
+          "answer": "I drink water.",
+          "discussion": "The response names a drink with the verb 'drink'."
+        },
+        {
+          "id": "K03-ENG-B08-M01-014",
+          "type": "PG",
+          "text": "A: What do you eat? B: ___.",
+          "options": [
+            "I drink rice.",
+            "I eat tea.",
+            "I eat rice.",
+            "I drink bread."
+          ],
+          "answer": "I eat rice.",
+          "discussion": "The response uses 'eat' with a food."
+        },
+        {
+          "id": "K03-ENG-B08-M01-015",
+          "type": "PG",
+          "text": "Choose the correct phrase for a place to have a school snack.",
+          "options": [
+            "under the classroom",
+            "on the library",
+            "in the canteen",
+            "between the water"
+          ],
+          "answer": "in the canteen",
+          "discussion": "The canteen is the location; 'in the' introduces the place."
+        },
+        {
+          "id": "K03-ENG-B08-M01-016",
+          "type": "PG",
+          "text": "Complete: I ___ milk at breakfast.",
+          "options": [
+            "eat",
+            "draw",
+            "drink",
+            "read"
+          ],
+          "answer": "drink",
+          "discussion": "Milk is a drink."
+        },
+        {
+          "id": "K03-ENG-B08-M01-017",
+          "type": "PG",
+          "text": "Complete: I ___ noodles for lunch.",
+          "options": [
+            "read",
+            "drink",
+            "eat",
+            "write"
+          ],
+          "answer": "eat",
+          "discussion": "Noodles are food, so use eat."
+        },
+        {
+          "id": "K03-ENG-B08-M01-018",
+          "type": "PG",
+          "text": "A: Do you drink tea? B: Yes, ___.",
+          "options": [
+            "I am.",
+            "I do.",
+            "I is.",
+            "I are."
+          ],
+          "answer": "I do.",
+          "discussion": "'Do you ...?' can take 'Yes, I do.'"
+        },
+        {
+          "id": "K03-ENG-B08-M01-019",
+          "type": "PG",
+          "text": "A: Do you eat rice? B: No, ___.",
+          "options": [
+            "I am not.",
+            "I don't.",
+            "I isn't.",
+            "I aren't."
+          ],
+          "answer": "I don't.",
+          "discussion": "The correct negative short reply is 'No, I don't.'"
+        },
+        {
+          "id": "K03-ENG-B08-M01-020",
+          "type": "PG",
+          "text": "A: Where do you drink water at school? B: ___.",
+          "options": [
+            "In the canteen.",
+            "On the water.",
+            "Under the milk.",
+            "Between the tea."
+          ],
+          "answer": "In the canteen.",
+          "discussion": "This answer names the place."
+        },
+        {
+          "id": "K03-ENG-B08-M01-021",
+          "type": "PG",
+          "text": "Read: 'I eat bread and drink milk.' Which item is the drink?",
+          "options": [
+            "milk",
+            "classroom",
+            "library",
+            "bread"
+          ],
+          "answer": "milk",
+          "discussion": "Milk follows 'drink'."
+        },
+        {
+          "id": "K03-ENG-B08-M01-022",
+          "type": "PG",
+          "text": "Read: 'I eat noodles and drink tea.' Which item is food?",
+          "options": [
+            "noodles",
+            "orange juice",
+            "water",
+            "milk"
+          ],
+          "answer": "noodles",
+          "discussion": "Noodles follows 'eat'."
+        },
+        {
+          "id": "K03-ENG-B08-M01-023",
+          "type": "PG",
+          "text": "Lina says, 'I drink water, not tea.' What does Lina drink?",
+          "options": [
+            "water",
+            "canteen",
+            "classroom",
+            "library"
+          ],
+          "answer": "water",
+          "discussion": "'Not tea' rules out tea; she names water."
+        },
+        {
+          "id": "K03-ENG-B08-M01-024",
+          "type": "PG",
+          "text": "Beni says, 'I eat rice, not bread.' What food does he eat?",
+          "options": [
+            "rice",
+            "library",
+            "bread",
+            "noodles"
+          ],
+          "answer": "rice",
+          "discussion": "The sentence identifies rice."
+        },
+        {
+          "id": "K03-ENG-B08-M01-025",
+          "type": "PG",
+          "text": "A friend says, 'I drink orange juice.' Which question fits the answer?",
+          "options": [
+            "What do you drink?",
+            "What do you eat?",
+            "Where do you sleep?",
+            "How old are you?"
+          ],
+          "answer": "What do you drink?",
+          "discussion": "The question asks about a drink."
+        },
+        {
+          "id": "K03-ENG-B08-M01-026",
+          "type": "PG",
+          "text": "A friend says, 'I eat bread.' Which question fits the answer?",
+          "options": [
+            "What do you drink?",
+            "What do you eat?",
+            "Where is the gate?",
+            "Is it the office?"
+          ],
+          "answer": "What do you eat?",
+          "discussion": "The question asks about food."
+        },
+        {
+          "id": "K03-ENG-B08-M01-027",
+          "type": "PG",
+          "text": "Which sentence uses 'in the canteen' correctly?",
+          "options": [
+            "I eat orange juice in the canteen.",
+            "I drink water in the canteen.",
+            "I drink noodles in the canteen.",
+            "I eat milk in the canteen."
+          ],
+          "answer": "I drink water in the canteen.",
+          "discussion": "The phrase identifies where the action happens."
+        },
+        {
+          "id": "K03-ENG-B08-M01-028",
+          "type": "PG",
+          "text": "Which sentence is about a drink, not a food?",
+          "options": [
+            "I eat bread.",
+            "I drink milk.",
+            "I eat noodles.",
+            "I eat rice."
+          ],
+          "answer": "I drink milk.",
+          "discussion": "Milk is a drink in this context."
+        },
+        {
+          "id": "K03-ENG-B08-M01-029",
+          "type": "PG",
+          "text": "Which sentence is about eating, not drinking?",
+          "options": [
+            "I drink tea.",
+            "I drink water.",
+            "I eat noodles.",
+            "I drink milk."
+          ],
+          "answer": "I eat noodles.",
+          "discussion": "Noodles are food."
+        },
+        {
+          "id": "K03-ENG-B08-M01-030",
+          "type": "PG",
+          "text": "A: Do you drink water? B: Yes, I do. What do we know?",
+          "options": [
+            "The speaker drinks water.",
+            "The speaker eats water.",
+            "The speaker does not drink water.",
+            "The speaker drinks bread."
+          ],
+          "answer": "The speaker drinks water.",
+          "discussion": "'Yes, I do' confirms the question."
+        },
+        {
+          "id": "K03-ENG-B08-M01-031",
+          "type": "PG",
+          "text": "A: Do you drink milk? B: No, I don't. What do we know?",
+          "options": [
+            "The speaker drinks milk.",
+            "The speaker eats milk.",
+            "The speaker does not drink milk.",
+            "The speaker drinks noodles."
+          ],
+          "answer": "The speaker does not drink milk.",
+          "discussion": "The negative reply denies the action."
+        },
+        {
+          "id": "K03-ENG-B08-M01-032",
+          "type": "PG",
+          "text": "Read: 'The canteen is beside the classroom.' Which place is beside the classroom?",
+          "options": [
+            "canteen",
+            "milk",
+            "tea",
+            "classroom"
+          ],
+          "answer": "canteen",
+          "discussion": "The sentence names the canteen as beside the classroom."
+        },
+        {
+          "id": "K03-ENG-B08-M01-033",
+          "type": "PG",
+          "text": "Rara goes to the library and reads books. What does she do there?",
+          "options": [
+            "reads books",
+            "classroom",
+            "library",
+            "bread"
+          ],
+          "answer": "reads books",
+          "discussion": "The sentence states that she reads books."
+        },
+        {
+          "id": "K03-ENG-B08-M01-034",
+          "type": "PG",
+          "text": "Which words complete 'I ___ tea in the ___'?",
+          "options": [
+            "drink; canteen",
+            "eat; library",
+            "drink; noodles",
+            "read; milk"
+          ],
+          "answer": "drink; canteen",
+          "discussion": "'Drink' fits tea and 'canteen' fits the place."
+        },
+        {
+          "id": "K03-ENG-B08-M01-035",
+          "type": "PG",
+          "text": "Which words complete 'I ___ rice in the ___'?",
+          "options": [
+            "drink; classroom",
+            "eat; canteen",
+            "sleep; tea",
+            "draw; rice"
+          ],
+          "answer": "eat; canteen",
+          "discussion": "'Eat' fits rice and 'canteen' fits the place."
+        }
+      ]
+    }
+  ]
+}
