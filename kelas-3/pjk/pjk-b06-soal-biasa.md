@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B06-M01-031
 
-**Pertanyaan:** Siswa ingin masuk kolam tanpa pendamping. Apa aturan utama yang harus dipenuhi?
+**Pertanyaan:** Ada siswa ingin masuk ke air lebih awal daripada pengawas. Prinsip keselamatan yang harus ditaati ialah ....
 
 **Pilihan jawaban:**
 - mendorong teman ke air
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B06-M01-032
 
-**Pertanyaan:** Anak yang baru belajar merasa takut terkena air. Pendekatan apa yang tepat?
+**Pertanyaan:** Siswa pemula belajar membasahi kaki di area aman dengan guru. Pendekatan itu menunjukkan ....
 
 **Pilihan jawaban:**
 - dilakukan bertahap di tempat aman dan diawasi
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B06-M01-033
 
-**Pertanyaan:** Di kolam dangkal, anak mengikuti petunjuk guru untuk berjalan. Syarat yang sesuai adalah ....
+**Pertanyaan:** Jalur latihan di kolam dangkal telah diberi batas. Bagaimana anak seharusnya berjalan?
 
 **Pilihan jawaban:**
 - dilakukan di air deras
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B06-M01-034
 
-**Pertanyaan:** Guru memandu latihan napas sederhana dengan kondisi aman dan sesuai kesiapan siswa. Cara yang tepat adalah ....
+**Pertanyaan:** Guru memberi contoh latihan pernapasan kepada anak yang siap, tanpa dipaksa. Prinsip yang tepat adalah ....
 
 **Pilihan jawaban:**
 - dilakukan tanpa bernapas lama
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B06-M01-035
 
-**Pertanyaan:** Dengan bantuan dan arahan guru, tubuh seorang siswa bertahan di permukaan air. Latihan itu adalah ....
+**Pertanyaan:** Siswa didampingi mempelajari posisi tubuh di permukaan air. Keterampilan ini disebut ....
 
 **Pilihan jawaban:**
 - melempar batu
