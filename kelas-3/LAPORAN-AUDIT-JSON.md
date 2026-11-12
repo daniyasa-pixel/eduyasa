@@ -131,3 +131,35 @@ Sepuluh unit Bahasa Inggris telah dikonversi langsung dari sumber Markdown, **50
 **Batas audit:** Validasi ini memeriksa kecocokan path media terhadap sumber; bukan pemeriksaan pemuatan URL SVG dari jaringan pada HP. SVG pernah diperiksa pada fase produksi sumber, tetapi belum diuji ulang dalam browser pascakonversi. Pemetaan modul mengganti hanya URL `assets/...` menjadi URL GitHub raw untuk akses dari JSON. Tidak menyunting teks pengajaran, LaTeX, atau sumber Markdown. `HTML/grade-config.js` tidak diubah, sehingga menu IPAS belum aktif. Belum ada uji WebView.
 
 **Akumulasi fase konversi:** SBD 225 + PAI 300 + ENG 500 + IPAS 560 = **1.585 dari 1.945 soal**, termasuk **66 modul**. Total **99 JSON bank/materi**, dan 4 manifest. Masih tersisa **PJOK Kelas 3: 360 soal** (8 bab). PJOK belum memiliki modul pada sumber sehingga harus diberi status `NOT_AVAILABLE_IN_SOURCE`, bukan menciptakan modul.
+
+## Konversi batch 6 — PJOK Unit 1–8 (12 November 2026)
+
+**Seluruh 360 soal PJOK Kelas 3 berhasil dikonversi** menjadi 16 JSON (8 paket soal teks `pjk-bNN.json` @35 soal, 8 paket soal bergambar `pjk-bNNa.json` @10 soal). Manifest `kelas-3/pjk/question-packs.json` dibuat berisi seluruh delapan unit dan dua bank per unit, commit `70441ee0f73cb0022698992d9de1f4e5711ad801`.
+
+**Audit kesetiaan JSON pascakonversi:** 8 × 45 soal diperiksa lagi langsung dari file Markdown dan JSON di GitHub. ID 001–035 (biasa), 036–045 (gambar) sesuai posisi dan urutan; setiap teks stem, empat opsi berurutan, jawaban teks penuh, pembahasan, rujukan media (`src`/ `alt`) identik setelah pemetaan path relatif ke URL GitHub raw. JSON berhasil diparse; **360 dari 360 soal, 360 ID unik, 0 mismatch**. Pemeriksaan isi akademik dan kelayakan ilustrasi bukan bagian dari pekerjaan ini. Belum ada pemeriksaan render SVG pada HP/WebView.
+
+| Unit | Teks | Bergambar | Status JSON | SHA sumber Markdown (teks · bergambar) |
+|---|---:|---:|---|---|
+| 01 | 35 | 10 | PASS | `bd77d6611e07fa50196e86ccf697500bd638602f` · `c04b875fbf4fc824650a93db5bddacad62eacdbc` |
+| 02 | 35 | 10 | PASS | `6af151aa37a9fad5ac3f9ddb9801534da9ece5ea` · `e66b0826bb03d3a6aa6a1e84c395b7d08d0d5a0d` |
+| 03 | 35 | 10 | PASS | `9c2e4c42db520af688e7adf10c9b0ecc9f74c46d` · `582b19db811f455a13829064e41b69f8d6023df7` |
+| 04 | 35 | 10 | PASS | `a7a99927db9961ac8fead7574679510182282dc4` · `5f1e47535729206bdcf9d1a9aea0ef673e0d5926` |
+| 05 | 35 | 10 | PASS | `0d4a605cac42b1891ebf110af5374105967babf0` · `824b4f19a01f54c8911285b81e4973f7142de2a7` |
+| 06 | 35 | 10 | PASS | `c2733c497d74a1c344f160ee2ebe646529d8488e` · `1ef04e9f57998fec5395ec74dcf75772536d04f4` |
+| 07 | 35 | 10 | PASS | `6e136348a375ee35cf6b7bc14562cec91d1fee33` · `d53baca2cf046ae8e922df12912cb781c7f4ca7d` |
+| 08 | 35 | 10 | PASS | `c7fc76629ef510dc9948a42b6cab2d8d471285fb` · `2736eefe7f53ee6a074792f3e42cb3e35aaedfde` |
+
+**PENTING: Materi PJOK belum tersedia di sumber Markdown.** Oleh sebab itu **tidak dibuat JSON MOD-01/MOD-02**, status untuk 8 unit: `NOT_AVAILABLE_IN_SOURCE`. Jangan mengisi modul dengan konten rekaan, dan jangan menganggap PJOK siap dipakai siswa untuk belajar materi sampai modul dibuat dan dikonversi. Menu PJOK Kelas 3 dan konfigurasi pemuatannya belum diaktifkan.
+
+### Checkpoint akhir 5 mapel Kelas 3
+
+| Mapel | Soal target | Soal JSON | Modul JSON | Status |
+|---|---:|---:|---:|---|
+| SBD | 225 | 225 | 10 | PASS audit JSON |
+| PAI | 300 | 300 | 20 | PASS audit JSON |
+| ENG | 500 | 500 | 20 | PASS audit JSON (TTS perlu uji HP) |
+| IPAS | 560 | 560 | 16 | PASS audit JSON |
+| PJK | 360 | 360 | 0 (tidak ada sumber) | PASS audit JSON soal; modul belum tersedia |
+| **TOTAL** | **1.945** | **1.945** | **66** | **Selesai konversi soal 100%** |
+
+Total **115 file JSON hasil konversi fase ini** (SBD 15 + PAI 20 + ENG 40 + IPAS 24 + PJK 16), ditambah **5 manifest**. Pengujian runtime aplikasi, gambar, TTS, modul PJOK, dan aktivasi menu mapel selain SBD tetap tahap terpisah. Ini **bukan** klaim aplikasi sepenuhnya siap rilis.
