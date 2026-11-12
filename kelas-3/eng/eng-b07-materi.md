@@ -4,58 +4,57 @@
 
 ### Let's learn! — Menjelaskan letak
 
-Kita belajar menyebutkan letak ruang dan benda menggunakan kata posisi. Lihat gambar berikut, kemudian sebutkan nama tempat yang terlihat.
+Pada unit ini kita belajar menanyakan dan menjelaskan letak benda serta ruangan di sekolah. Perhatikan posisi ruang kelas dan kantor pada gambar.
 
-![School place](assets/eng-b07-gambar-01.svg)
+![Classroom behind office](assets/eng-b07-gambar-01.svg)
 
-**Kata posisi:**
+**Kata posisi utama:**
+- **in** = di dalam
+- **on** = di atas dan menyentuh permukaan
+- **under** = di bawah
+- **beside** = di sebelah
 - **behind** = di belakang
 - **in front of** = di depan
-- **next to** = di sebelah, berdampingan
-- **between** = di antara dua tempat atau benda
-- **near** = dekat
-- **far from** = jauh dari
-- **inside** = di dalam
-- **outside** = di luar
-- **on** = di atas permukaan, biasanya menyentuhnya
-- **under** = di bawah
+- **between** = di antara dua benda atau tempat
 
-**Pola kalimat:** `The classroom is behind the office.` (Ruang kelas berada di belakang kantor.) Kita memakai `is` untuk satu tempat atau benda. Untuk bertanya, gunakan `Where is the classroom?` (Di mana ruang kelas?)
+**Pola bertanya:** `Where is the classroom?`
+
+**Pola menjawab:** `It is behind the office.`
+
+Untuk satu benda atau tempat, gunakan **is**. Kata **between** memakai dua acuan, misalnya `The canteen is between the library and the office.`
 
 **Contoh dialog:**
-- A: Where is your classroom?
-- B: It is behind the office.
-- A: Is the office in front of your classroom?
-- B: Yes, it is.
+- A: Where is the laboratory?
+- B: It is beside the parking area.
+- A: Where is the gate?
+- B: It is in front of the school.
 
-**Penting:** Jika A berada di belakang B, maka B berada di depan A. Kata `near` dan `far from` tidak memberi ukuran jarak yang pasti. Kata `between` perlu dua acuan, misalnya `The office is between the library and the canteen.`
-
-**Latihan:** Gunakan buku dan pensil di atas meja. Letakkan pensil `on`, `under`, dan `next to` buku. Ucapkan kalimat lengkap untuk setiap posisi.
+**Ayo mencoba:** Letakkan buku **on** the desk, tas **under** the chair, dan pensil **in** the pencil case. Ucapkan satu kalimat untuk setiap posisi.
 
 ---
 
 ## MOD-02 — K03-ENG-B07-MOD-02
 
-### Let's practice! — Membaca petunjuk lokasi
+### Let's practice! — Membaca posisi pada denah
 
-Perhatikan ilustrasi tempat sekolah. Guru atau teman dapat membuat denah sederhana dengan tiga kotak: **LIBRARY — OFFICE — CANTEEN**. Urutan kotak ini adalah contoh untuk latihan, bukan informasi yang harus diasumsikan dari ilustrasi.
+Kita dapat menggunakan denah sederhana untuk menjelaskan letak. Pada gambar berikut, perpustakaan berada di sebelah kantor.
 
-![School place](assets/eng-b07-gambar-02.svg)
+![Library beside office](assets/eng-b07-gambar-03.svg)
 
-**Baca denah latihan:** Library berada di kiri Office, dan Canteen di kanan Office. Jadi, `The office is between the library and the canteen.` Jika ketiga kotak berjajar dan saling bersentuhan, `The library is next to the office.`
+**Ingat pasangan posisi:**
+- Jika kelas berada **behind** the office, kantor berada **in front of** the classroom.
+- Jika perpustakaan berada **beside** the office, kedua tempat itu berdampingan.
+- Jika kantin berada **between** the library and the office, kantin berada di tengah dua tempat.
 
-**Percakapan:**
-- A: Where is the office?
-- B: It is between the library and the canteen.
-- A: Where is the library?
-- B: It is next to the office.
+**Latihan membaca:**
+1. `The ball is under the chair.` Di mana bola? Bola berada di bawah kursi.
+2. `The book is on the desk.` Di mana buku? Buku berada di atas meja.
+3. `The ruler is between the book and the pencil case.` Benda apa yang di tengah? Penggaris.
+4. `The pencil is in the pencil case.` Di mana pensil? Pensil berada di dalam kotak pensil.
 
-**Latihan membandingkan informasi:**
-1. `The classroom is behind the office.` Lengkapi: `The office is ___ the classroom.` Jawaban: `in front of`.
-2. `The ball is under the desk.` Apakah bola berada di atas meja? `No, it isn't.`
-3. `The gate is near the yard.` Apakah kita tahu jarak persisnya? Tidak. Kata `near` tidak menyebut jumlah meter.
-4. `The garden is outside the classroom.` Artinya taman tidak berada di dalam ruang kelas.
+**Percakapan berpasangan:**
+- Siswa A bertanya, `Where is the ...?`
+- Siswa B menjawab, `It is ...` lalu menyebutkan kata posisi dan tempat acuannya.
+- Tukar peran setelah tiga pertanyaan.
 
-**Ayo bermain:** Buat denah tiga tempat di kertas. Siswa A memilih satu tempat dan memberi dua petunjuk posisi. Siswa B menanyakan `Where is ...?` dan menyusun kalimat `It is ...`. Tukar peran. Saat menjelaskan `behind` dan `in front of`, sepakati arah depan bangunan agar tidak membingungkan.
-
-**Cek pemahaman:** Kalimat `The library is next to the office` menyatakan letak relatif, bukan jarak pasti dalam meter.
+**Cek pemahaman:** Kata posisi harus dibaca bersama tempat acuannya. Kalimat `It is behind` belum lengkap jika pendengar belum tahu benda atau tempat yang menjadi acuan.

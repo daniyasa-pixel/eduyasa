@@ -18,12 +18,12 @@
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
-| Bahasa Inggris | Unit 1–6: 300 soal, dua belas modul, dan 72 SVG direvisi | 300/500 diperiksa; 30 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | 200 soal/4 unit; uji suara dan WebView di tahap aplikasi |
+| Bahasa Inggris | Unit 1–7: 350 soal dan empat belas modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7 memiliki 10 SVG fungsional | 350/500 diperiksa; 35 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | 150 soal/3 unit; uji suara dan WebView di tahap aplikasi |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **1.160/1.945**. Jumlah diubah: **1.139**.
-Sisa audit isi: **785 soal pada 17 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **1.210/1.945**. Jumlah diubah: **1.189**.
+Sisa audit isi: **735 soal pada 16 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -636,3 +636,25 @@ Bahasa Inggris Unit 7.
 - **Modul:** 10 modul Seni Rupa yang telah ada dipertahankan apa adanya, tidak dihitung sebagai yang ditulis ulang. **PJOK tetap belum punya modul.**
 - **Handover Codex diubah** melalui commit `84e9877bd381ba6fb9dc3384f325a9d109a5fe1c`: audit yang diminta **hanya audit integritas output JSON**, termasuk anti-pengacakan ID/nomor dan urutan opsi; tidak ada audit isi sebelum konversi. README SBD diperbarui pada `542c2ad2362f2b67826bd245f84b97560de1e385`.
 - **Status:** fase revisi sumber 225 Seni Rupa **selesai**. Total pekerjaan Kelas 3 sudah mencakup 1.945 soal di lima mapel; fase berikutnya **Codex konversi Markdown → JSON dan validasi transfer**. Tidak ada JSON yang dibuat dalam batch ini.
+
+
+### Kelanjutan: Bahasa Inggris Unit 7
+
+Seluruh 50 soal dan dua modul diperiksa terhadap Unit 7 buku siswa dan panduan
+guru *My Next Words Grade 3*. Daftar lama memasukkan **near, far, inside,** dan
+**outside** sebagai kosakata inti. Sumber ditulis ulang mengikuti tujuh
+preposisi buku: **in, on, under, beside, behind, in front of,** dan **between**.
+Semua ID 001–050 serta pembagian 35 teks, 10 gambar, dan 5 listening tetap.
+
+Sepuluh SVG generik berupa panah, pin, peta, kotak, dan pohon diganti dengan
+stimulus yang benar-benar memperlihatkan ruang atau benda pada posisi yang
+ditanyakan. Seluruh SVG mempunyai title/desc dan lolos parser XML. Lima data
+TTS cocok dengan transkrip, pertanyaan, opsi, kunci, dan pembahasan. Pemutaran
+suara pada HP/WebView tetap menunggu tahap aplikasi.
+
+Pemeriksaan paket Unit 7: 50 ID unik dan berurutan, 50 stem unik, empat opsi
+berbeda, satu kunci identik dengan opsi, serta pembahasan tersedia. Kumulatif
+audit isi **1.210/1.945**. Masih ada **735 soal pada 16 bab/unit** yang belum
+lulus audit final. Titik lanjut audit akademik: Bahasa Inggris Unit 8. Instruksi
+Codex tetap mengikuti handover terbaru: konversi sumber `main` dan audit
+integritas JSON, bukan mengulang audit isi.

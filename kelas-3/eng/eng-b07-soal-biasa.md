@@ -6,13 +6,13 @@
 
 **Pilihan jawaban:**
 - behind the office
+- beside the office
 - in front of the office
-- inside the office
-- on the office
+- between two offices
 
 **Kunci Jawaban:** behind the office
 
-**Pembahasan:** Behind means at the back of the office.
+**Pembahasan:** Kalimat menyatakan bahwa ruang kelas berada **behind the office** atau di belakang kantor.
 
 ---
 
@@ -21,30 +21,30 @@
 **Pertanyaan:** The gate is in front of the school. Where is the gate?
 
 **Pilihan jawaban:**
+- under the school
 - behind the school
 - in front of the school
-- under the school
-- inside the school
+- between the classrooms
 
 **Kunci Jawaban:** in front of the school
 
-**Pembahasan:** In front of means before the front side.
+**Pembahasan:** **In front of** berarti di depan.
 
 ---
 
 ## Soal 3 — K03-ENG-B07-M01-003
 
-**Pertanyaan:** The library is next to the office. What is beside the office?
+**Pertanyaan:** The library is beside the office. What is beside the office?
 
 **Pilihan jawaban:**
-- the garden
-- the gate
 - the library
-- the yard
+- the canteen
+- the mosque
+- the restroom
 
 **Kunci Jawaban:** the library
 
-**Pembahasan:** Next to means beside.
+**Pembahasan:** Yang disebut berada di sebelah kantor adalah **the library**.
 
 ---
 
@@ -53,509 +53,509 @@
 **Pertanyaan:** The canteen is between the library and the office. Where is the canteen?
 
 **Pilihan jawaban:**
-- behind both rooms
-- between the two places
-- inside the library
-- under the office
+- behind the library
+- in front of the office
+- between the library and the office
+- under the library
 
-**Kunci Jawaban:** between the two places
+**Kunci Jawaban:** between the library and the office
 
-**Pembahasan:** Between locates something in the middle of two places.
+**Pembahasan:** **Between** menunjukkan posisi di tengah dua tempat.
 
 ---
 
 ## Soal 5 — K03-ENG-B07-M01-005
 
-**Pertanyaan:** The garden is near the classroom. Which word describes the distance?
+**Pertanyaan:** The pencil is in the pencil case. Where is the pencil?
 
 **Pilihan jawaban:**
-- far
-- outside
-- near
-- under
+- in the pencil case
+- on the pencil case
+- under the pencil case
+- behind the pencil case
 
-**Kunci Jawaban:** near
+**Kunci Jawaban:** in the pencil case
 
-**Pembahasan:** Near means not far away.
+**Pembahasan:** **In** berarti di dalam suatu tempat atau wadah.
 
 ---
 
 ## Soal 6 — K03-ENG-B07-M01-006
 
-**Pertanyaan:** The sports field is far from the library. Which sentence is correct?
+**Pertanyaan:** The book is on the desk. Where is the book?
 
 **Pilihan jawaban:**
-- They are next to each other.
-- They are far apart.
-- The field is inside the library.
-- The field is on the library.
+- behind the desk
+- on the desk
+- under the desk
+- between two desks
 
-**Kunci Jawaban:** They are far apart.
+**Kunci Jawaban:** on the desk
 
-**Pembahasan:** Far from means a long distance away.
+**Pembahasan:** **On the desk** berarti berada di atas permukaan meja.
 
 ---
 
 ## Soal 7 — K03-ENG-B07-M01-007
 
-**Pertanyaan:** Rani is inside the classroom. Where is Rani?
+**Pertanyaan:** The bag is under the chair. Which word tells its position?
 
 **Pilihan jawaban:**
-- outside the classroom
-- behind the classroom
-- inside the classroom
-- under the classroom
+- beside
+- behind
+- under
+- on
 
-**Kunci Jawaban:** inside the classroom
+**Kunci Jawaban:** under
 
-**Pembahasan:** Inside means within the room.
+**Pembahasan:** **Under** berarti di bawah.
 
 ---
 
 ## Soal 8 — K03-ENG-B07-M01-008
 
-**Pertanyaan:** The students are outside the library. Which sentence is correct?
+**Pertanyaan:** A: Where is the laboratory? B: It is beside the parking area. Which place is beside the parking area?
 
 **Pilihan jawaban:**
-- They are not inside the library.
-- They are under the library.
-- They are on the library.
-- They are between books.
+- the office
+- the laboratory
+- the canteen
+- the restroom
 
-**Kunci Jawaban:** They are not inside the library.
+**Kunci Jawaban:** the laboratory
 
-**Pembahasan:** Outside means not inside the building or room.
+**Pembahasan:** Jawaban B menyebutkan bahwa laboratorium berada di sebelah area parkir.
 
 ---
 
 ## Soal 9 — K03-ENG-B07-M01-009
 
-**Pertanyaan:** The book is on the desk. Where is the book?
+**Pertanyaan:** Which question asks about the location of the office?
 
 **Pilihan jawaban:**
-- under the desk
-- behind the desk
-- on the desk
-- inside the desk
+- What is the office?
+- Who is in the office?
+- Where is the office?
+- Is it an office?
 
-**Kunci Jawaban:** on the desk
+**Kunci Jawaban:** Where is the office?
 
-**Pembahasan:** On indicates the book rests on the desk surface.
+**Pembahasan:** Kata tanya **where** digunakan untuk menanyakan letak.
 
 ---
 
 ## Soal 10 — K03-ENG-B07-M01-010
 
-**Pertanyaan:** The bag is under the chair. Where is the bag?
+**Pertanyaan:** Complete the dialogue. A: Where is the library? B: ___ behind the canteen.
 
 **Pilihan jawaban:**
-- on the chair
-- under the chair
-- next to the gate
-- inside the library
+- It is
+- They are
+- Where is
+- This are
 
-**Kunci Jawaban:** under the chair
+**Kunci Jawaban:** It is
 
-**Pembahasan:** Under means below the chair.
+**Pembahasan:** Untuk menjawab letak satu tempat, pola yang tepat adalah **It is ...**.
 
 ---
 
 ## Soal 11 — K03-ENG-B07-M01-011
 
-**Pertanyaan:** A: Where is your class? B: It is behind the office. Which place is in front of the class?
+**Pertanyaan:** The office is in front of the classroom. Complete the sentence: The classroom is ___ the office.
 
 **Pilihan jawaban:**
-- the office
-- the canteen
-- the garden
-- the library
+- on
+- behind
+- beside
+- between
 
-**Kunci Jawaban:** the office
+**Kunci Jawaban:** behind
 
-**Pembahasan:** If the class is behind the office, the office is in front of the class.
+**Pembahasan:** Jika kantor berada di depan kelas, kelas berada **behind** atau di belakang kantor.
 
 ---
 
 ## Soal 12 — K03-ENG-B07-M01-012
 
-**Pertanyaan:** The office is in front of the classroom. Complete: The classroom is ___ the office.
+**Pertanyaan:** The mosque is between the canteen and the restroom. Which places are on the two sides of the mosque?
 
 **Pilihan jawaban:**
-- on
-- between
-- behind
-- inside
+- the office and the gate
+- the canteen and the restroom
+- the library and the laboratory
+- the classroom and the parking area
 
-**Kunci Jawaban:** behind
+**Kunci Jawaban:** the canteen and the restroom
 
-**Pembahasan:** Behind is the reverse of in front of.
+**Pembahasan:** Dua tempat yang menjadi acuan kata **between** adalah kantin dan toilet.
 
 ---
 
 ## Soal 13 — K03-ENG-B07-M01-013
 
-**Pertanyaan:** The library is next to the canteen. Which statement is supported?
+**Pertanyaan:** Which sentence uses **between** correctly?
 
 **Pilihan jawaban:**
-- The library is beside the canteen.
-- The library is far away.
-- The library is under the canteen.
-- The library is inside the canteen.
+- The gate is between the office and the library.
+- The gate is between the office.
+- The gate between is library.
+- Between the gate the office.
 
-**Kunci Jawaban:** The library is beside the canteen.
+**Kunci Jawaban:** The gate is between the office and the library.
 
-**Pembahasan:** Next to means beside.
+**Pembahasan:** **Between** memerlukan dua acuan yang dihubungkan dengan **and**.
 
 ---
 
 ## Soal 14 — K03-ENG-B07-M01-014
 
-**Pertanyaan:** The office is between the library and the canteen. Which place is in the middle?
+**Pertanyaan:** Which sentence tells that the ball is below the table?
 
 **Pilihan jawaban:**
-- the library
-- the canteen
-- the office
-- the playground
+- The ball is on the table.
+- The ball is in the table.
+- The ball is under the table.
+- The ball is beside the table.
 
-**Kunci Jawaban:** the office
+**Kunci Jawaban:** The ball is under the table.
 
-**Pembahasan:** The sentence names the office as the middle place.
+**Pembahasan:** Posisi di bawah dinyatakan dengan **under**.
 
 ---
 
 ## Soal 15 — K03-ENG-B07-M01-015
 
-**Pertanyaan:** Which sentence uses 'between' correctly?
+**Pertanyaan:** Which sentence tells that the eraser touches the top of the book?
 
 **Pilihan jawaban:**
-- The gate is between the office and the library.
-- The gate is between the office.
-- The gate between office is.
-- Between the gate is office.
+- The eraser is behind the book.
+- The eraser is on the book.
+- The eraser is under the book.
+- The eraser is between two books.
 
-**Kunci Jawaban:** The gate is between the office and the library.
+**Kunci Jawaban:** The eraser is on the book.
 
-**Pembahasan:** Between needs two reference places in this sentence.
+**Pembahasan:** **On** menunjukkan benda berada di atas dan menyentuh permukaan.
 
 ---
 
 ## Soal 16 — K03-ENG-B07-M01-016
 
-**Pertanyaan:** Which question asks about the location of a room?
+**Pertanyaan:** A: Where is the teacher room? B: It is ___ the office. They are side by side.
 
 **Pilihan jawaban:**
-- What is your name?
-- Where is the classroom?
-- Do you like apples?
-- How old are you?
+- beside
+- behind
+- under
+- in
 
-**Kunci Jawaban:** Where is the classroom?
+**Kunci Jawaban:** beside
 
-**Pembahasan:** Where asks about location.
+**Pembahasan:** Dua tempat yang berdampingan dinyatakan dengan **beside**.
 
 ---
 
 ## Soal 17 — K03-ENG-B07-M01-017
 
-**Pertanyaan:** A: Where is the library? B: It is next to the office. Which answer is correct?
+**Pertanyaan:** The flagpole is in front of the library. What is behind the flagpole?
 
 **Pilihan jawaban:**
-- It is next to the office.
-- It is under the chair.
-- It is in my bag.
-- It is on the desk.
+- the library
+- the canteen
+- the office
+- the laboratory
 
-**Kunci Jawaban:** It is next to the office.
+**Kunci Jawaban:** the library
 
-**Pembahasan:** The reply directly states the library's position.
+**Pembahasan:** Jika tiang bendera di depan perpustakaan, perpustakaan berada di belakang tiang bendera.
 
 ---
 
 ## Soal 18 — K03-ENG-B07-M01-018
 
-**Pertanyaan:** The cat is under the table. Which word describes its position?
+**Pertanyaan:** Choose the correct order to make a sentence: **is – The cat – the chair – under**.
 
 **Pilihan jawaban:**
-- on
-- under
-- near
-- far
+- The cat under is the chair.
+- Is the cat the chair under.
+- The cat is under the chair.
+- Under the cat is chair the.
 
-**Kunci Jawaban:** under
+**Kunci Jawaban:** The cat is under the chair.
 
-**Pembahasan:** Under describes a position below something.
+**Pembahasan:** Urutan kalimat yang tepat adalah subjek + **is** + kata posisi + tempat.
 
 ---
 
 ## Soal 19 — K03-ENG-B07-M01-019
 
-**Pertanyaan:** The pencil is on the table, not under it. Which statement is true?
+**Pertanyaan:** The ruler is between the book and the pencil case. Which object is in the middle?
 
 **Pilihan jawaban:**
-- The pencil is under the table.
-- The pencil is outside the school.
-- The pencil is on the table.
-- The pencil is behind the school.
+- the book
+- the ruler
+- the pencil case
+- the desk
 
-**Kunci Jawaban:** The pencil is on the table.
+**Kunci Jawaban:** the ruler
 
-**Pembahasan:** The sentence explicitly says the pencil is on the table.
+**Pembahasan:** Benda yang disebut sebelum **between** adalah benda yang berada di tengah.
 
 ---
 
 ## Soal 20 — K03-ENG-B07-M01-020
 
-**Pertanyaan:** A: Is the ball inside the box? B: No, it is outside the box. Where is the ball?
+**Pertanyaan:** Which answer matches the question, “Where is the canteen?”
 
 **Pilihan jawaban:**
-- inside the box
-- under the box
-- on the box
-- outside the box
+- It is beside the parking area.
+- It is a school canteen.
+- I eat rice in the canteen.
+- The canteen is clean.
 
-**Kunci Jawaban:** outside the box
+**Kunci Jawaban:** It is beside the parking area.
 
-**Pembahasan:** The second speaker corrects the location to outside.
+**Pembahasan:** Pertanyaan **where** dijawab dengan keterangan letak.
 
 ---
 
 ## Soal 21 — K03-ENG-B07-M01-021
 
-**Pertanyaan:** The classroom is behind the office. Which question can the answer respond to?
+**Pertanyaan:** Complete the question: “___ is the restroom?”
 
 **Pilihan jawaban:**
-- Where is the classroom?
-- What is for lunch?
-- Who is your teacher?
-- When is the break?
+- What
+- Where
+- Who
+- How many
 
-**Kunci Jawaban:** Where is the classroom?
+**Kunci Jawaban:** Where
 
-**Pembahasan:** A location statement answers a where-question.
+**Pembahasan:** **Where is the restroom?** berarti “Di mana toilet?”
 
 ---
 
 ## Soal 22 — K03-ENG-B07-M01-022
 
-**Pertanyaan:** Which sentence describes two rooms beside each other?
+**Pertanyaan:** The cat is behind the chair. Which sentence has the opposite position?
 
 **Pilihan jawaban:**
-- The rooms are far apart.
-- The rooms are next to each other.
-- One room is under the other.
-- One room is on a desk.
+- The cat is in front of the chair.
+- The cat is under the chair.
+- The cat is on the chair.
+- The cat is between two chairs.
 
-**Kunci Jawaban:** The rooms are next to each other.
+**Kunci Jawaban:** The cat is in front of the chair.
 
-**Pembahasan:** Next to each other means side by side.
+**Pembahasan:** Lawan posisi **behind** adalah **in front of**.
 
 ---
 
 ## Soal 23 — K03-ENG-B07-M01-023
 
-**Pertanyaan:** A: Where is the canteen? B: It is near the gate. What do we know?
+**Pertanyaan:** The office is beside the laboratory. Which sentence has the same meaning?
 
 **Pilihan jawaban:**
-- The canteen is near the gate.
-- The canteen is inside the gate.
-- The canteen is far from the gate.
-- The canteen is under the gate.
+- The office is under the laboratory.
+- The office is next to the laboratory.
+- The office is behind the laboratory.
+- The office is in the laboratory.
 
-**Kunci Jawaban:** The canteen is near the gate.
+**Kunci Jawaban:** The office is next to the laboratory.
 
-**Pembahasan:** Near describes a short distance without giving an exact measurement.
+**Pembahasan:** **Beside** dan **next to** sama-sama berarti di sebelah. Kata target buku adalah **beside**.
 
 ---
 
 ## Soal 24 — K03-ENG-B07-M01-024
 
-**Pertanyaan:** The office is far from the playground. Can we tell the exact distance?
+**Pertanyaan:** The ball is in the box. Which sentence is NOT correct?
 
 **Pilihan jawaban:**
-- Yes, exactly one meter.
-- Yes, exactly ten meters.
-- No, 'far' gives no exact number.
-- Yes, exactly one kilometer.
+- The ball is inside the box.
+- The ball is in the box.
+- The box contains the ball.
+- The ball is under the box.
 
-**Kunci Jawaban:** No, 'far' gives no exact number.
+**Kunci Jawaban:** The ball is under the box.
 
-**Pembahasan:** Far is a relative description, not a measurement.
+**Pembahasan:** **In the box** tidak sama dengan berada di bawah kotak.
 
 ---
 
 ## Soal 25 — K03-ENG-B07-M01-025
 
-**Pertanyaan:** The yard is in front of the classroom. Which place is behind the yard?
+**Pertanyaan:** The grade 5 classroom is between the grade 4 and grade 6 classrooms. Which classroom is in the middle?
 
 **Pilihan jawaban:**
-- the classroom
-- the gate
-- the office
-- the garden
+- grade 3
+- grade 4
+- grade 5
+- grade 6
 
-**Kunci Jawaban:** the classroom
+**Kunci Jawaban:** grade 5
 
-**Pembahasan:** If the yard is in front of the classroom, the classroom is behind the yard.
+**Pembahasan:** Kalimat menempatkan kelas 5 di antara kelas 4 dan kelas 6.
 
 ---
 
 ## Soal 26 — K03-ENG-B07-M01-026
 
-**Pertanyaan:** The library is between the office and the canteen. Which statement must be true?
+**Pertanyaan:** Choose the correct sentence.
 
 **Pilihan jawaban:**
-- The library is in the middle.
-- The library is on the office.
-- The library is under the canteen.
-- The library is outside the school.
+- The book are on the desk.
+- The book is on the desk.
+- The book on is the desk.
+- On the book the desk is.
 
-**Kunci Jawaban:** The library is in the middle.
+**Kunci Jawaban:** The book is on the desk.
 
-**Pembahasan:** Between identifies the middle position.
+**Pembahasan:** Subjek tunggal **the book** memakai **is**.
 
 ---
 
 ## Soal 27 — K03-ENG-B07-M01-027
 
-**Pertanyaan:** Choose the missing word: 'The classroom is ___ the office.' (at the back)
+**Pertanyaan:** The parking area is behind the laboratory. Where is the laboratory compared with the parking area?
 
 **Pilihan jawaban:**
-- behind
-- on
-- inside
-- under
+- in front of the parking area
+- under the parking area
+- between two parking areas
+- in the parking area
 
-**Kunci Jawaban:** behind
+**Kunci Jawaban:** in front of the parking area
 
-**Pembahasan:** At the back corresponds to behind.
+**Pembahasan:** Posisi kebalikan dari **behind** adalah **in front of**.
 
 ---
 
 ## Soal 28 — K03-ENG-B07-M01-028
 
-**Pertanyaan:** Choose the correct question: '___ is the office?'
+**Pertanyaan:** Which word completes the sentence? “The shoes are ___ the table, not on it.”
 
 **Pilihan jawaban:**
-- Who
-- Where
-- When
-- Why
+- between
+- behind
+- under
+- in front of
 
-**Kunci Jawaban:** Where
+**Kunci Jawaban:** under
 
-**Pembahasan:** Where asks about a place's location.
+**Pembahasan:** Petunjuk “not on it” dan letak di bawah meja sesuai dengan **under**.
 
 ---
 
 ## Soal 29 — K03-ENG-B07-M01-029
 
-**Pertanyaan:** The teacher says, 'Put the book on the table.' Where should the book go?
+**Pertanyaan:** Read the two facts: The library is beside the office. The canteen is behind the office. Where is the canteen?
 
 **Pilihan jawaban:**
-- below the table
-- on top of the table
-- outside the classroom
-- behind the gate
+- beside the library
+- behind the office
+- in front of the office
+- between two offices
 
-**Kunci Jawaban:** on top of the table
+**Kunci Jawaban:** behind the office
 
-**Pembahasan:** On the table means on its top surface.
+**Pembahasan:** Informasi kedua langsung menyebutkan letak kantin.
 
 ---
 
 ## Soal 30 — K03-ENG-B07-M01-030
 
-**Pertanyaan:** The teacher says, 'Put your bag under the desk.' Where should it go?
+**Pertanyaan:** A teacher puts a marker on the table. Which instruction matches the action?
 
 **Pilihan jawaban:**
-- on the desk
-- in the canteen
-- below the desk
-- behind the office
+- Put the marker under the table.
+- Put the marker behind the table.
+- Put the marker on the table.
+- Put the marker between two tables.
 
-**Kunci Jawaban:** below the desk
+**Kunci Jawaban:** Put the marker on the table.
 
-**Pembahasan:** Under means below.
+**Pembahasan:** Meletakkan spidol di atas permukaan meja dinyatakan dengan **on the table**.
 
 ---
 
 ## Soal 31 — K03-ENG-B07-M01-031
 
-**Pertanyaan:** Which sentence tells where the office is?
+**Pertanyaan:** Which sentence describes a room located at the back of the office?
 
 **Pilihan jawaban:**
-- The office is next to the library.
-- The office is a room.
-- I like the office.
-- The office has a door.
+- The room is behind the office.
+- The room is in front of the office.
+- The room is on the office.
+- The room is under the office.
 
-**Kunci Jawaban:** The office is next to the library.
+**Kunci Jawaban:** The room is behind the office.
 
-**Pembahasan:** The sentence with next to describes location.
+**Pembahasan:** **At the back of** berarti **behind**.
 
 ---
 
 ## Soal 32 — K03-ENG-B07-M01-032
 
-**Pertanyaan:** The garden is outside the classroom. Which sentence matches?
+**Pertanyaan:** The teacher room and the office are side by side. Which sentence is correct?
 
 **Pilihan jawaban:**
-- The garden is not inside the classroom.
-- The garden is inside the classroom.
-- The garden is under a chair.
-- The garden is on the table.
+- The teacher room is behind the office.
+- The teacher room is beside the office.
+- The teacher room is under the office.
+- The teacher room is in the office.
 
-**Kunci Jawaban:** The garden is not inside the classroom.
+**Kunci Jawaban:** The teacher room is beside the office.
 
-**Pembahasan:** Outside contrasts with inside.
+**Pembahasan:** **Side by side** berarti berdampingan atau **beside**.
 
 ---
 
 ## Soal 33 — K03-ENG-B07-M01-033
 
-**Pertanyaan:** A: Where is the office? B: It is in front of the library. Where is the library relative to the office?
+**Pertanyaan:** A: Where is the ball? B: It is between the chair and the table. How many reference objects are mentioned?
 
 **Pilihan jawaban:**
-- in front of the office
-- behind the office
-- on the office
-- inside the office
+- one
+- two
+- three
+- four
 
-**Kunci Jawaban:** behind the office
+**Kunci Jawaban:** two
 
-**Pembahasan:** The reverse of in front of is behind.
+**Pembahasan:** Dua benda acuan disebutkan, yaitu kursi dan meja.
 
 ---
 
 ## Soal 34 — K03-ENG-B07-M01-034
 
-**Pertanyaan:** Two rooms are next to each other. Which statement is NOT supported?
+**Pertanyaan:** Choose the best Indonesian meaning of “The bag is beside the chair.”
 
 **Pilihan jawaban:**
-- They are beside each other.
-- They are adjacent.
-- They must be exactly two meters apart.
-- They are next to each other.
+- Tas berada di bawah kursi.
+- Tas berada di atas kursi.
+- Tas berada di sebelah kursi.
+- Tas berada di belakang kursi.
 
-**Kunci Jawaban:** They must be exactly two meters apart.
+**Kunci Jawaban:** Tas berada di sebelah kursi.
 
-**Pembahasan:** Next to does not specify an exact distance.
+**Pembahasan:** **Beside** berarti di sebelah.
 
 ---
 
 ## Soal 35 — K03-ENG-B07-M01-035
 
-**Pertanyaan:** The gate is near the yard, and the library is far from the yard. Which place is described as nearer to the yard?
+**Pertanyaan:** A: Where is your classroom? B: It is behind the office. What information does B give?
 
 **Pilihan jawaban:**
-- the library
-- the gate
-- both are equally far
-- we know their exact distances
+- the classroom's color
+- the classroom's location
+- the classroom's size
+- the classroom's number of doors
 
-**Kunci Jawaban:** the gate
+**Kunci Jawaban:** the classroom's location
 
-**Pembahasan:** Near versus far identifies the gate as nearer in this description.
+**Pembahasan:** Jawaban B memberikan informasi tentang letak ruang kelas.
 
 ---

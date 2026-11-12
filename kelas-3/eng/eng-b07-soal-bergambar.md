@@ -2,180 +2,180 @@
 
 ## Soal 36 — K03-ENG-B07-M01-036
 
-![Picture](assets/eng-b07-gambar-01.svg)
+![Classroom behind office](assets/eng-b07-gambar-01.svg)
 
-**Pertanyaan:** Which word shows the position of the object in the picture?
+**Pertanyaan:** Where is the classroom?
 
 **Pilihan jawaban:**
-- behind
-- under
-- next to
-- far
+- behind the office
+- in front of the office
+- under the office
+- between two offices
 
-**Kunci Jawaban:** behind
+**Kunci Jawaban:** behind the office
 
-**Pembahasan:** Gambar menunjukkan "behind" (di belakang).
+**Pembahasan:** Pada gambar, ruang kelas berada di belakang kantor.
 
 ---
 
 ## Soal 37 — K03-ENG-B07-M01-037
 
-![Picture](assets/eng-b07-gambar-02.svg)
+![Gate in front of school](assets/eng-b07-gambar-02.svg)
 
-**Pertanyaan:** Look at the picture. Is the object in front of or behind the other object? Choose the correct phrase.
+**Pertanyaan:** Where is the gate?
 
 **Pilihan jawaban:**
-- behind
-- between
-- inside
-- in front of
+- behind the school
+- in front of the school
+- on the school
+- under the school
 
-**Kunci Jawaban:** in front of
+**Kunci Jawaban:** in front of the school
 
-**Pembahasan:** Gambar menunjukkan "in front of" (di depan).
+**Pembahasan:** Gerbang tampak di depan sekolah, yaitu **in front of the school**.
 
 ---
 
 ## Soal 38 — K03-ENG-B07-M01-038
 
-![Picture](assets/eng-b07-gambar-03.svg)
+![Library beside office](assets/eng-b07-gambar-03.svg)
 
-**Pertanyaan:** Which phrase best describes the two objects' positions?
+**Pertanyaan:** Which place is beside the office?
 
 **Pilihan jawaban:**
-- near
-- outside
-- next to
-- in front of
+- the library
+- the canteen
+- the classroom
+- the restroom
 
-**Kunci Jawaban:** next to
+**Kunci Jawaban:** the library
 
-**Pembahasan:** Gambar menunjukkan "next to" (di sebelah).
+**Pembahasan:** Perpustakaan dan kantor tampak berdampingan.
 
 ---
 
 ## Soal 39 — K03-ENG-B07-M01-039
 
-![Picture](assets/eng-b07-gambar-04.svg)
+![Canteen between library and office](assets/eng-b07-gambar-04.svg)
 
-**Pertanyaan:** What word describes the middle position shown?
+**Pertanyaan:** Which place is between the library and the office?
 
 **Pilihan jawaban:**
-- on
-- between
-- next to
-- far
+- the gate
+- the canteen
+- the laboratory
+- the parking area
 
-**Kunci Jawaban:** between
+**Kunci Jawaban:** the canteen
 
-**Pembahasan:** Gambar menunjukkan "between" (di antara).
+**Pembahasan:** Kantin berada di tengah perpustakaan dan kantor.
 
 ---
 
 ## Soal 40 — K03-ENG-B07-M01-040
 
-![Picture](assets/eng-b07-gambar-05.svg)
+![Pencil in pencil case](assets/eng-b07-gambar-05.svg)
 
-**Pertanyaan:** Which distance word matches the picture?
+**Pertanyaan:** Where is the pencil?
 
 **Pilihan jawaban:**
-- near
-- between
-- inside
-- under
+- in the pencil case
+- behind the pencil case
+- under the pencil case
+- beside the pencil case
 
-**Kunci Jawaban:** near
+**Kunci Jawaban:** in the pencil case
 
-**Pembahasan:** Gambar menunjukkan "near" (dekat).
+**Pembahasan:** Pensil tampak berada **in the pencil case**.
 
 ---
 
 ## Soal 41 — K03-ENG-B07-M01-041
 
-![Picture](assets/eng-b07-gambar-06.svg)
+![Book on desk](assets/eng-b07-gambar-06.svg)
 
-**Pertanyaan:** Which word describes the distance shown between the objects?
+**Pertanyaan:** Where is the book?
 
 **Pilihan jawaban:**
-- near
-- outside
-- behind
-- far
+- under the desk
+- on the desk
+- behind the desk
+- between two desks
 
-**Kunci Jawaban:** far
+**Kunci Jawaban:** on the desk
 
-**Pembahasan:** Gambar menunjukkan "far" (jauh).
+**Pembahasan:** Buku berada di atas dan menyentuh permukaan meja.
 
 ---
 
 ## Soal 42 — K03-ENG-B07-M01-042
 
-![Picture](assets/eng-b07-gambar-07.svg)
+![Bag under chair](assets/eng-b07-gambar-07.svg)
 
-**Pertanyaan:** Where is the object relative to its container?
+**Pertanyaan:** Which sentence matches the picture?
 
 **Pilihan jawaban:**
-- on
-- in front of
-- inside
-- far
+- The bag is on the chair.
+- The bag is beside the chair.
+- The bag is behind the chair.
+- The bag is under the chair.
 
-**Kunci Jawaban:** inside
+**Kunci Jawaban:** The bag is under the chair.
 
-**Pembahasan:** Gambar menunjukkan "inside" (di dalam).
+**Pembahasan:** Tas tampak berada di bawah kursi.
 
 ---
 
 ## Soal 43 — K03-ENG-B07-M01-043
 
-![Picture](assets/eng-b07-gambar-08.svg)
+![Ball behind chair](assets/eng-b07-gambar-08.svg)
 
-**Pertanyaan:** Is the object inside or outside? Choose the correct word.
+**Pertanyaan:** Where is the ball?
 
 **Pilihan jawaban:**
-- next to
-- outside
-- inside
-- under
+- behind the chair
+- in front of the chair
+- on the chair
+- between two chairs
 
-**Kunci Jawaban:** outside
+**Kunci Jawaban:** behind the chair
 
-**Pembahasan:** Gambar menunjukkan "outside" (di luar).
+**Pembahasan:** Sebagian bola tertutup kursi sehingga letaknya **behind the chair**.
 
 ---
 
 ## Soal 44 — K03-ENG-B07-M01-044
 
-![Picture](assets/eng-b07-gambar-09.svg)
+![Cat in front of table](assets/eng-b07-gambar-09.svg)
 
-**Pertanyaan:** Which word describes the object's position on a surface?
+**Pertanyaan:** Where is the cat?
 
 **Pilihan jawaban:**
-- on
-- outside
-- behind
-- between
+- under the table
+- behind the table
+- in front of the table
+- on the table
 
-**Kunci Jawaban:** on
+**Kunci Jawaban:** in front of the table
 
-**Pembahasan:** Gambar menunjukkan "on" (di atas).
+**Pembahasan:** Kucing digambar di depan meja.
 
 ---
 
 ## Soal 45 — K03-ENG-B07-M01-045
 
-![Picture](assets/eng-b07-gambar-10.svg)
+![Ruler between book and pencil case](assets/eng-b07-gambar-10.svg)
 
-**Pertanyaan:** Which word describes the position below the other object?
+**Pertanyaan:** Which object is between the book and the pencil case?
 
 **Pilihan jawaban:**
-- on
-- in front of
-- near
-- under
+- the ruler
+- the chair
+- the ball
+- the bag
 
-**Kunci Jawaban:** under
+**Kunci Jawaban:** the ruler
 
-**Pembahasan:** Gambar menunjukkan "under" (di bawah).
+**Pembahasan:** Penggaris berada di tengah buku dan kotak pensil.
 
 ---

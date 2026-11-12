@@ -294,3 +294,16 @@ Validator kanonis ekuivalen melalui konektor GitHub memeriksa 82 bank,
 dengan 0 kesalahan struktur. Kumulatif audit isi 1.160/1.945. Masih ada
 785 soal pada 17 bab/unit yang belum lulus audit final. Titik lanjut
 Bahasa Inggris Unit 7.
+
+
+## Kelanjutan 12 November 2026 — Bahasa Inggris Unit 7
+
+Unit 7 diperiksa terhadap buku siswa dan panduan guru *My Next Words Grade 3*.
+Cakupan dikoreksi menjadi **in, on, under, beside, behind, in front of,** dan
+**between**. Semua 50 soal, dua modul, lima naskah TTS, dan sepuluh SVG
+ditinjau. Sepuluh SVG generik diganti dengan diagram posisi fungsional.
+ID 001–050 dan jumlah 35+10+5 dipertahankan. Pemeriksaan lokal: 50 ID unik,
+empat opsi unik, kunci berada di opsi, pembahasan ada, JSON metadata TTS dapat
+diparse, dan 10 SVG valid XML. Kumulatif audit isi menjadi **1.210/1.945**,
+dengan **735 soal pada 16 bab/unit** belum lulus audit final. Uji suara nyata
+dan WebView tetap menunggu tahap aplikasi. Titik lanjut: Bahasa Inggris Unit 8.
