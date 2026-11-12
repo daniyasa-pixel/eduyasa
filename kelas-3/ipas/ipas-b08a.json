@@ -1,0 +1,354 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B08",
+      "chapter_title": "Rahasia Tiga Wujud Zat",
+      "questions": [
+        {
+          "id": "K03-IPAS-B08-M01-051",
+          "type": "PG",
+          "text": "Pernyataan yang sesuai dengan data kedua wadah ialah ...",
+          "options": [
+            "Volume B lebih kecil karena air lebih rendah",
+            "Air B sudah berubah menjadi gas seluruhnya",
+            "Volume sama walaupun tinggi permukaan berbeda",
+            "Volume A bertambah saat wadah dipersempit"
+          ],
+          "answer": "Volume sama walaupun tinggi permukaan berbeda",
+          "discussion": "Label keduanya menunjukkan $200\\ \\text{mL}$; bentuk wadah memengaruhi tinggi, bukan berarti volume berkurang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-01.svg",
+            "alt": "Air yang sama dipindahkan tanpa tumpah pada suhu sama: A gelas sempit berisi 200 mL dengan permukaan tinggi; B wadah lebar berisi 200 mL dengan permukaan lebih rendah."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-052",
+          "type": "PG",
+          "text": "Sifat cairan yang ditunjukkan pemindahan A ke B ialah ...",
+          "options": [
+            "Bentuk air selalu seperti kubus",
+            "Volume harus berubah mengikuti lebar wadah",
+            "Air menjadi padat saat dimasukkan wadah lebar",
+            "Bentuknya mengikuti wadah"
+          ],
+          "answer": "Bentuknya mengikuti wadah",
+          "discussion": "Air berubah susunan bentuk sesuai bagian wadah yang ditempati; volume yang tertera tetap sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-01.svg",
+            "alt": "Air yang sama dipindahkan tanpa tumpah pada suhu sama: A gelas sempit berisi 200 mL dengan permukaan tinggi; B wadah lebar berisi 200 mL dengan permukaan lebih rendah."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-053",
+          "type": "PG",
+          "text": "Bukti sifat padat yang ditunjukkan kubus ialah ...",
+          "options": [
+            "Bentuk kubus tetap meskipun wadah berbeda",
+            "Kubus menyebar memenuhi seluruh wadah B",
+            "Kubus berubah menjadi cairan di B",
+            "Kubus menjadi gas saat dipindahkan"
+          ],
+          "answer": "Bentuk kubus tetap meskipun wadah berbeda",
+          "discussion": "Gambar memperlihatkan kubus sama bentuk dan ukuran pada dua wadah berbeda, sesuai sifat benda padat pada pemindahan biasa.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-02.svg",
+            "alt": "Satu kubus kayu dipindahkan dari wadah A yang sempit ke wadah B yang lebar. Kubus tetap berukuran dan berbentuk sama, tidak dipanaskan atau dirusak."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-054",
+          "type": "PG",
+          "text": "Apakah gambar menunjukkan bahwa kubus mencair?",
+          "options": [
+            "Ya, karena wadah B lebih lebar",
+            "Tidak, bentuk kubus masih sama dan tidak ada cairan yang ditunjukkan",
+            "Ya, karena setiap perpindahan membuat benda mencair",
+            "Tidak, karena semua kayu pasti tidak mempunyai wujud"
+          ],
+          "answer": "Tidak, bentuk kubus masih sama dan tidak ada cairan yang ditunjukkan",
+          "discussion": "Tidak ada perubahan padat menjadi cair; yang berubah pada kegiatan ini hanya tempat kubus.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-02.svg",
+            "alt": "Satu kubus kayu dipindahkan dari wadah A yang sempit ke wadah B yang lebar. Kubus tetap berukuran dan berbentuk sama, tidak dipanaskan atau dirusak."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-055",
+          "type": "PG",
+          "text": "Sifat gas yang ditunjukkan perubahan A ke B ialah ...",
+          "options": [
+            "Selalu membentuk kubus kaku",
+            "Berubah menjadi cairan hanya karena ruang lebih besar",
+            "Menyebar mengisi ruang lebih besar yang tersedia",
+            "Tidak menempati ruang sama sekali"
+          ],
+          "answer": "Menyebar mengisi ruang lebih besar yang tersedia",
+          "discussion": "Titik model tersebar pada ruang B yang lebih besar, bukan mempertahankan bentuk kaku seperti padatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-03.svg",
+            "alt": "Model gas yang sama dalam wadah tertutup: A ruang kecil dengan enam titik model, B ruang lebih besar dengan enam titik lebih tersebar. Titik biru adalah model, bukan warna atau ukuran nyata udara. Tidak ada zat keluar atau masuk."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-056",
+          "type": "PG",
+          "text": "Apa yang tidak boleh disimpulkan dari warna titik pada model?",
+          "options": [
+            "Titik pada B lebih tersebar",
+            "Ruang B digambar lebih besar",
+            "Kedua wadah menampilkan enam titik model",
+            "Udara asli pasti berwarna biru dan tampak sebagai titik besar"
+          ],
+          "answer": "Udara asli pasti berwarna biru dan tampak sebagai titik besar",
+          "discussion": "Warna serta ukuran titik dipilih agar model terbaca; bukan ciri tampak udara asli.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-03.svg",
+            "alt": "Model gas yang sama dalam wadah tertutup: A ruang kecil dengan enam titik model, B ruang lebih besar dengan enam titik lebih tersebar. Titik biru adalah model, bukan warna atau ukuran nyata udara. Tidak ada zat keluar atau masuk."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-057",
+          "type": "PG",
+          "text": "Panah berlabel mana menunjukkan menyublim?",
+          "options": [
+            "E",
+            "A",
+            "C",
+            "D"
+          ],
+          "answer": "E",
+          "discussion": "E menunjukkan padat langsung menjadi gas; A mencair, C menguap, dan D mengembun.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-04.svg",
+            "alt": "Enam panah berlabel: A padat ke cair, B cair ke padat, C cair ke gas, D gas ke cair, E padat ke gas, F gas ke padat. Semua panah menyatakan perubahan langsung."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-058",
+          "type": "PG",
+          "text": "Pasangan panah yang menunjukkan membeku lalu mencair ialah ...",
+          "options": [
+            "A lalu B",
+            "B lalu A",
+            "C lalu D",
+            "E lalu F"
+          ],
+          "answer": "B lalu A",
+          "discussion": "Membeku berarti cair ke padat pada B, kemudian mencair berarti padat ke cair pada A.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-04.svg",
+            "alt": "Enam panah berlabel: A padat ke cair, B cair ke padat, C cair ke gas, D gas ke cair, E padat ke gas, F gas ke padat. Semua panah menyatakan perubahan langsung."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-059",
+          "type": "PG",
+          "text": "Pada catatan ini es paling cepat habis mencair di alas ...",
+          "options": [
+            "Q",
+            "R",
+            "P",
+            "Ketiganya sama cepat"
+          ],
+          "answer": "P",
+          "discussion": "P memerlukan lima menit, waktu paling singkat dibanding sepuluh dan lima belas menit pada dua alas lain.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-05.svg",
+            "alt": "Catatan contoh es sama ukuran dan suhu awal dalam ruang sama: P di atas logam habis mencair 5 menit, Q di atas plastik 10 menit, R di atas kain 15 menit. Bukan pemanasan oleh anak."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-060",
+          "type": "PG",
+          "text": "Kesimpulan yang melampaui data ialah ...",
+          "options": [
+            "Pada pengamatan ini waktu P paling singkat",
+            "Pada pengamatan ini R lebih lama daripada Q",
+            "Waktu P dan R pada tabel berbeda",
+            "Semua jenis logam dan semua ukuran es pasti selalu mencair dalam lima menit"
+          ],
+          "answer": "Semua jenis logam dan semua ukuran es pasti selalu mencair dalam lima menit",
+          "discussion": "Tabel hanya contoh kondisi tertentu; hasil tidak menjamin waktu sama untuk semua logam, ukuran es, dan lingkungan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-05.svg",
+            "alt": "Catatan contoh es sama ukuran dan suhu awal dalam ruang sama: P di atas logam habis mencair 5 menit, Q di atas plastik 10 menit, R di atas kain 15 menit. Bukan pemanasan oleh anak."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-061",
+          "type": "PG",
+          "text": "Penjelasan yang tepat tentang titik air di luar A ialah ...",
+          "options": [
+            "Uap air sekitar mengembun pada permukaan yang dingin",
+            "Air menembus kaca utuh yang tidak bocor",
+            "Es selalu terlempar menembus tutup",
+            "Kaca A larut menjadi air"
+          ],
+          "answer": "Uap air sekitar mengembun pada permukaan yang dingin",
+          "discussion": "Tutup serta kaca utuh dan bagian luar awal kering; permukaan dingin memungkinkan uap air udara mengembun di luar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-06.svg",
+            "alt": "Dua gelas tertutup utuh, bagian luar awalnya kering. A berisi air es dan kemudian bertitik air di luar; B berisi air suhu ruang dan bagian luar tetap kering pada pengamatan. Gelas sama jenis dan waktu pengamatan sama."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-062",
+          "type": "PG",
+          "text": "Mengapa B membantu perbandingan pada pengamatan ini?",
+          "options": [
+            "Membuktikan semua gas berwarna biru",
+            "Menunjukkan keadaan luar gelas sejenis tanpa air es pada waktu sama",
+            "Menjamin setiap gelas di mana pun pasti selalu kering",
+            "Menunjukkan bahwa kaca tidak termasuk benda padat"
+          ],
+          "answer": "Menunjukkan keadaan luar gelas sejenis tanpa air es pada waktu sama",
+          "discussion": "B menjadi pembanding suhu isi pada gelas sejenis dengan waktu sama; kondisi dingin A berbeda dari B.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-06.svg",
+            "alt": "Dua gelas tertutup utuh, bagian luar awalnya kering. A berisi air es dan kemudian bertitik air di luar; B berisi air suhu ruang dan bagian luar tetap kering pada pengamatan. Gelas sama jenis dan waktu pengamatan sama."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-063",
+          "type": "PG",
+          "text": "Cara yang lebih cepat kering pada data ialah ...",
+          "options": [
+            "Melipat seperti B",
+            "Keduanya sama cepat",
+            "Membentangkan seperti A",
+            "Tidak ada kain yang kering"
+          ],
+          "answer": "Membentangkan seperti A",
+          "discussion": "A kering dalam empat puluh menit, lebih singkat daripada sembilan puluh menit pada B.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-07.svg",
+            "alt": "Dua kain sama jenis, ukuran, dan kebasahan awal: A dibentangkan kering setelah 40 menit; B dilipat kering setelah 90 menit. Suhu dan aliran udara sama, diamati guru."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-064",
+          "type": "PG",
+          "text": "Penerapan yang sesuai untuk membantu pengeringan kain tanpa alat panas ialah ...",
+          "options": [
+            "Melipat makin rapat agar permukaan tertutup",
+            "Membasahinya terus selama dijemur",
+            "Menutup rapat dalam kantong berisi air",
+            "Membentangkan di tempat berventilasi sesuai arahan"
+          ],
+          "answer": "Membentangkan di tempat berventilasi sesuai arahan",
+          "discussion": "Data mendukung permukaan kain yang terbuka lebih baik untuk pengeringan; aliran udara juga dapat membantu membawa uap air.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-07.svg",
+            "alt": "Dua kain sama jenis, ukuran, dan kebasahan awal: A dibentangkan kering setelah 40 menit; B dilipat kering setelah 90 menit. Suhu dan aliran udara sama, diamati guru."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-065",
+          "type": "PG",
+          "text": "Nama perubahan yang dijelaskan catatan ialah ...",
+          "options": [
+            "Menyublim",
+            "Mengembun",
+            "Membeku",
+            "Mencair"
+          ],
+          "answer": "Menyublim",
+          "discussion": "Catatan menyebut padat langsung menjadi gas, yaitu menyublim, tanpa melalui cairan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-08.svg",
+            "alt": "Catatan guru tentang kamper: awal padatan besar; kemudian padatan mengecil tanpa cairan di alas. Guru menjelaskan sebagian zat berpindah langsung dari padat menjadi gas. Bahan tidak ditangani atau dicium dekat oleh siswa."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-066",
+          "type": "PG",
+          "text": "Pernyataan yang tidak sesuai dengan catatan ialah ...",
+          "options": [
+            "Padatan yang tersisa mengecil",
+            "Seluruh padatan lebih dahulu menjadi genangan cair di alas",
+            "Sebagian padat berpindah menjadi gas",
+            "Tidak ada cairan yang terlihat di alas"
+          ],
+          "answer": "Seluruh padatan lebih dahulu menjadi genangan cair di alas",
+          "discussion": "Catatan secara khusus menyatakan perubahan langsung dan tidak ada cairan; tidak mendukung cerita genangan cair sebagai tahap wajib.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-08.svg",
+            "alt": "Catatan guru tentang kamper: awal padatan besar; kemudian padatan mengecil tanpa cairan di alas. Guru menjelaskan sebagian zat berpindah langsung dari padat menjadi gas. Bahan tidak ditangani atau dicium dekat oleh siswa."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-067",
+          "type": "PG",
+          "text": "Peristiwa yang merupakan pelarutan, bukan pencairan ialah ...",
+          "options": [
+            "B",
+            "Keduanya membeku",
+            "A",
+            "Keduanya langsung menjadi gas"
+          ],
+          "answer": "A",
+          "discussion": "A mencampurkan gula dalam air sampai larut; B merupakan perubahan es padat menjadi air cair.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-09.svg",
+            "alt": "Dua kegiatan: A gula diaduk dalam air, butir tak tampak, tetap berada dalam larutan; B es dibiarkan di ruang lebih hangat lalu menjadi air cair. Tidak ada pemanasan larutan gula."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-068",
+          "type": "PG",
+          "text": "Mengapa butir gula yang tak tampak tidak berarti gula musnah?",
+          "options": [
+            "Semua gula berubah menjadi es",
+            "Air berubah menjadi gula padat seluruhnya",
+            "Gula pasti keluar dari wadah walau tidak tumpah",
+            "Gula masih ada dalam larutan sesuai catatan"
+          ],
+          "answer": "Gula masih ada dalam larutan sesuai catatan",
+          "discussion": "Keterangan menyatakan gula tetap dalam larutan; tidak terlihat sebagai butir tidak sama dengan tidak ada zat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-09.svg",
+            "alt": "Dua kegiatan: A gula diaduk dalam air, butir tak tampak, tetap berada dalam larutan; B es dibiarkan di ruang lebih hangat lalu menjadi air cair. Tidak ada pemanasan larutan gula."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-069",
+          "type": "PG",
+          "text": "Apa yang tetap sama pada data penimbangan sebelum dan sesudah?",
+          "options": [
+            "Massa total kantong beserta isinya",
+            "Wujud isi kantong",
+            "Bentuk isi kantong",
+            "Jumlah es padat yang tersisa"
+          ],
+          "answer": "Massa total kantong beserta isinya",
+          "discussion": "Kedua timbangan menunjukkan $30\\ \\text{g}$ pada kantong sama tanpa keluar-masuk zat; isinya berubah dari padat ke cair.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-10.svg",
+            "alt": "Kantong yang sama ditutup rapat tanpa bocor. Penimbangan bersama kantong: A sebelum, es padat, 30 g; B sesudah, air cair, 30 g. Gambar tidak mengukur volume."
+          }
+        },
+        {
+          "id": "K03-IPAS-B08-M01-070",
+          "type": "PG",
+          "text": "Kesimpulan mana belum dibuktikan oleh gambar penimbangan itu?",
+          "options": [
+            "Massa total kedua pengukuran sama",
+            "Volume es pasti sama dengan volume air cair",
+            "Sebelum perubahan ada es",
+            "Sesudah perubahan ada air cair"
+          ],
+          "answer": "Volume es pasti sama dengan volume air cair",
+          "discussion": "Gambar mengukur massa, bukan volume; massa tetap tidak berarti volume es dan air harus sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b08-gambar-10.svg",
+            "alt": "Kantong yang sama ditutup rapat tanpa bocor. Penimbangan bersama kantong: A sebelum, es padat, 30 g; B sesudah, air cair, 30 g. Gambar tidak mengukur volume."
+          }
+        }
+      ]
+    }
+  ]
+}
