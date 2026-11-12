@@ -1,10 +1,10 @@
 # Bab 3 — Ideku, Gagasanku
 
-35 soal teks — draf untuk audit.
+35 soal teks — konteks ide, sketsa dan proses perancangan telah diperbarui.
 
 ## Soal 1 — K03-SBD-B03-M01-001
 
-**Pertanyaan:** Apa jawaban yang tepat? Sketsa adalah ....
+**Pertanyaan:** Arman ingin membuat gambar taman, lalu menggambar versi cepat dengan pensil sebelum mewarnai. Gambar awal ini disebut ....
 
 **Pilihan jawaban:**
 - alat untuk menghapus
@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-SBD-B03-M01-002
 
-**Pertanyaan:** Apa jawaban yang tepat? Sebelum membuat karya, langkah awal yang baik adalah ....
+**Pertanyaan:** Sebelum memilih objek untuk poster sekolah, Sinta menuliskan apa yang ingin disampaikan. Langkah tersebut adalah ....
 
 **Pilihan jawaban:**
 - membuang semua alat
@@ -36,7 +36,7 @@
 
 ## Soal 3 — K03-SBD-B03-M01-003
 
-**Pertanyaan:** Apa jawaban yang tepat? Peta pikiran membantu ....
+**Pertanyaan:** Dina menaruh kata 'lingkungan' di tengah kertas, lalu membuat cabang 'air', 'sampah', dan 'pohon'. Cara ini membantu ....
 
 **Pilihan jawaban:**
 - mengembangkan hubungan antaride
@@ -52,7 +52,7 @@
 
 ## Soal 4 — K03-SBD-B03-M01-004
 
-**Pertanyaan:** Apa jawaban yang tepat? Gambar bertema lingkungan dapat memuat ....
+**Pertanyaan:** Poster menjaga kebersihan sungai akan dibuat. Objek mana yang paling sesuai untuk tema itu?
 
 **Pilihan jawaban:**
 - daftar harga
@@ -68,7 +68,7 @@
 
 ## Soal 5 — K03-SBD-B03-M01-005
 
-**Pertanyaan:** Apa jawaban yang tepat? Bahan yang cocok untuk sketsa awal adalah ....
+**Pertanyaan:** Untuk mencoba beberapa susunan bentuk tanpa menghabiskan cat, alat sederhana yang dipakai ialah ....
 
 **Pilihan jawaban:**
 - kaca pecah
@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-SBD-B03-M01-006
 
-**Pertanyaan:** Apa jawaban yang tepat? Ide karya dapat berasal dari ....
+**Pertanyaan:** Raka bingung mencari ide karya. Ia mengingat kegiatan bersepeda dan bermain dengan keluarga. Sumber ide itu adalah ....
 
 **Pilihan jawaban:**
 - hanya televisi
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-SBD-B03-M01-007
 
-**Pertanyaan:** Apa jawaban yang tepat? Saat ide pertama kurang cocok, kita dapat ....
+**Pertanyaan:** Gambar rancangan pertama terlihat terlalu penuh. Daripada menyerah, langkah yang baik adalah ....
 
 **Pilihan jawaban:**
 - mencoba alternatif dan memperbaiki rancangan
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-SBD-B03-M01-008
 
-**Pertanyaan:** Apa jawaban yang tepat? Warna hangat mencakup ....
+**Pertanyaan:** Untuk menggambarkan suasana hangat, Nina memilih kelompok cat warna ....
 
 **Pilihan jawaban:**
 - abu-abu saja
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-SBD-B03-M01-009
 
-**Pertanyaan:** Apa jawaban yang tepat? Warna sejuk mencakup ....
+**Pertanyaan:** Untuk menampilkan kesan sejuk pada gambar taman, Beni dapat memilih warna ....
 
 **Pilihan jawaban:**
 - kuning dan merah
@@ -148,7 +148,7 @@
 
 ## Soal 10 — K03-SBD-B03-M01-010
 
-**Pertanyaan:** Apa jawaban yang tepat? Komposisi berarti ....
+**Pertanyaan:** Saat menata pohon, jalan, dan matahari di halaman gambar, siswa sedang mengatur ....
 
 **Pilihan jawaban:**
 - jenis lem
@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-SBD-B03-M01-011
 
-**Pertanyaan:** Apa jawaban yang tepat? Titik fokus dalam gambar adalah bagian yang ....
+**Pertanyaan:** Pada poster, gambar keran dibuat paling menonjol supaya mata pengamat tertuju ke sana. Bagian itu berfungsi ....
 
 **Pilihan jawaban:**
 - menarik perhatian utama
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-SBD-B03-M01-012
 
-**Pertanyaan:** Apa jawaban yang tepat? Rancangan poster hemat air dapat menampilkan ....
+**Pertanyaan:** Untuk mengajak warga menghemat air, simbol visual dan teks apa yang tepat disatukan pada poster?
 
 **Pilihan jawaban:**
 - gambar tanpa hubungan
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-SBD-B03-M01-013
 
-**Pertanyaan:** Apa jawaban yang tepat? Memilih bahan berkarya perlu mempertimbangkan ....
+**Pertanyaan:** Siswa ingin membuat karya dengan bahan bekas dari rumah. Faktor utama yang harus dipikirkan sebelum memakai bahan adalah ....
 
 **Pilihan jawaban:**
 - warna kemasan saja
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-SBD-B03-M01-014
 
-**Pertanyaan:** Apa jawaban yang tepat? Gagasan orisinal berarti ....
+**Pertanyaan:** Ari melihat karya kakaknya sebagai inspirasi, tetapi menggambar versi idenya sendiri. Sikap tersebut menunjukkan ....
 
 **Pilihan jawaban:**
 - menyalin karya teman lalu mengaku milik sendiri
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-SBD-B03-M01-015
 
-**Pertanyaan:** Apa jawaban yang tepat? Membuat beberapa sketsa kecil membantu ....
+**Pertanyaan:** Rina membuat tiga rancangan kecil dengan susunan yang berbeda. Apa manfaat membandingkannya?
 
 **Pilihan jawaban:**
 - membandingkan pilihan komposisi
@@ -244,7 +244,7 @@
 
 ## Soal 16 — K03-SBD-B03-M01-016
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Sketsa adalah ...." Pilih jawaban yang benar.
+**Pertanyaan:** Seorang anak menggambar susunan kasar kursi dan meja untuk rancangan poster, belum menjadi karya akhir. Itu adalah ....
 
 **Pilihan jawaban:**
 - jenis cat
@@ -260,7 +260,7 @@
 
 ## Soal 17 — K03-SBD-B03-M01-017
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Sebelum membuat karya, langkah awal yang baik adalah ...." Pilih jawaban yang benar.
+**Pertanyaan:** Guru meminta tiap kelompok menentukan pesan karya terlebih dahulu agar pilihan gambar terarah. Tahap yang dilakukan ialah ....
 
 **Pilihan jawaban:**
 - meniru persis karya teman
@@ -276,7 +276,7 @@
 
 ## Soal 18 — K03-SBD-B03-M01-018
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Peta pikiran membantu ...." Pilih jawaban yang benar.
+**Pertanyaan:** Dari ide 'sekolah hijau', anak membuat cabang 'tanaman', 'air bersih', dan 'sampah'. Metode ini menghubungkan ....
 
 **Pilihan jawaban:**
 - mengeringkan cat
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-SBD-B03-M01-019
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Gambar bertema lingkungan dapat memuat ...." Pilih jawaban yang benar.
+**Pertanyaan:** Dalam sketsa tentang menjaga alam, anak ingin memperlihatkan air bersih, pohon, dan pengelolaan sampah. Objek yang cocok adalah ....
 
 **Pilihan jawaban:**
 - pohon, sungai, dan tempat sampah
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-SBD-B03-M01-020
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Bahan yang cocok untuk sketsa awal adalah ...." Pilih jawaban yang benar.
+**Pertanyaan:** Sebelum mencoba melukis dengan cat, Mira menggambar garis tipis pada kertas. Alat praktis yang ia perlukan ialah ....
 
 **Pilihan jawaban:**
 - pisau tajam
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-SBD-B03-M01-021
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Ide karya dapat berasal dari ...." Pilih jawaban yang benar.
+**Pertanyaan:** Kegiatan jalan pagi memberi kesan menyenangkan bagi Raka dan ingin digambarkan. Ide tersebut berasal dari ....
 
 **Pilihan jawaban:**
 - hanya buku mahal
@@ -340,7 +340,7 @@
 
 ## Soal 22 — K03-SBD-B03-M01-022
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Saat ide pertama kurang cocok, kita dapat ...." Pilih jawaban yang benar.
+**Pertanyaan:** Sebelum mengumpulkan karya, anak melihat tata letak belum jelas. Pilihan terbaik adalah ....
 
 **Pilihan jawaban:**
 - langsung menyerah
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-SBD-B03-M01-023
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Warna hangat mencakup ...." Pilih jawaban yang benar.
+**Pertanyaan:** Anak menyiapkan kombinasi merah, oranye, dan kuning untuk kesan hangat. Kelompok ini dinamakan ....
 
 **Pilihan jawaban:**
 - merah, oranye, dan kuning
@@ -372,7 +372,7 @@
 
 ## Soal 24 — K03-SBD-B03-M01-024
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Warna sejuk mencakup ...." Pilih jawaban yang benar.
+**Pertanyaan:** Jika ingin menciptakan nuansa dingin pada air dan pepohonan, contoh warna yang sesuai ialah ....
 
 **Pilihan jawaban:**
 - cokelat dan oranye
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-SBD-B03-M01-025
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Komposisi berarti ...." Pilih jawaban yang benar.
+**Pertanyaan:** Ketika gambar terkesan timpang, siswa mengubah posisi objek agar lebih nyaman dilihat. Ia memperbaiki ....
 
 **Pilihan jawaban:**
 - ukuran kuas
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-SBD-B03-M01-026
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Titik fokus dalam gambar adalah bagian yang ...." Pilih jawaban yang benar.
+**Pertanyaan:** Guru meminta siswa memilih bagian yang ingin pertama kali dilihat penonton dalam poster. Bagian ini menjadi ....
 
 **Pilihan jawaban:**
 - selalu tersembunyi
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-SBD-B03-M01-027
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Rancangan poster hemat air dapat menampilkan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Siswa membuat poster untuk menutup keran sesudah dipakai. Unsur visual yang paling sesuai adalah ....
 
 **Pilihan jawaban:**
 - keran tertutup dan pesan singkat
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-SBD-B03-M01-028
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Memilih bahan berkarya perlu mempertimbangkan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Sebelum mengambil cutter, cat, atau lem, siswa perlu memikirkan ....
 
 **Pilihan jawaban:**
 - merek terkenal saja
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-SBD-B03-M01-029
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Gagasan orisinal berarti ...." Pilih jawaban yang benar.
+**Pertanyaan:** Sinta belajar dari poster yang dilihatnya tetapi tidak menyalin mentah-mentah. Ia berusaha ....
 
 **Pilihan jawaban:**
 - menghapus nama pembuat
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-SBD-B03-M01-030
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Membuat beberapa sketsa kecil membantu ...." Pilih jawaban yang benar.
+**Pertanyaan:** Untuk menentukan susunan terbaik bagi poster, Bima membuat beberapa kotak rancangan kecil. Tujuannya adalah ....
 
 **Pilihan jawaban:**
 - membuat kertas selalu basah
@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-SBD-B03-M01-031
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Sketsa adalah ....
+**Pertanyaan:** Susunan awal bentuk dan teks masih berupa gambar sederhana untuk diuji. Nama rancangan ini adalah ....
 
 **Pilihan jawaban:**
 - gambar rancangan awal
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-SBD-B03-M01-032
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Sebelum membuat karya, langkah awal yang baik adalah ....
+**Pertanyaan:** Anak memilih tema persahabatan sebelum menentukan tokoh dan warna gambar. Langkah awal itu berarti ....
 
 **Pilihan jawaban:**
 - mengabaikan tugas
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-SBD-B03-M01-033
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Peta pikiran membantu ....
+**Pertanyaan:** Pada peta gagasan, setiap cabang menunjukkan alasan sebuah objek cocok dengan tema. Fungsi peta itu adalah ....
 
 **Pilihan jawaban:**
 - memotong kertas
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-SBD-B03-M01-034
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Gambar bertema lingkungan dapat memuat ....
+**Pertanyaan:** Anak ingin menggambar ajakan menjaga lingkungan. Pilihan objek yang menyampaikan pesan adalah ....
 
 **Pilihan jawaban:**
 - hanya angka acak
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-SBD-B03-M01-035
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Bahan yang cocok untuk sketsa awal adalah ....
+**Pertanyaan:** Untuk membuat sketsa cepat di meja kelas, pasangan alat yang paling sesuai ialah ....
 
 **Pilihan jawaban:**
 - pensil dan kertas
