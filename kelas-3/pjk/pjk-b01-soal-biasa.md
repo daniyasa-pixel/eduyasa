@@ -1,563 +1,564 @@
 # Unit 1 — Aktivitas Pola Gerak Dasar Lokomotor
 
-35 soal teks, **DRAF**. Perlu audit variasi soal.
+35 soal teks, revisi konteks dan keselamatan. Ilustrasi dinilai terpisah.
 
 ## Soal 1 — K03-PJK-B01-M01-001
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk berjalan?
+**Pertanyaan:** Saat menuju garis mulai, Rina melangkahkan kaki tanpa berlari. Gerak apa yang dilakukan Rina?
 
 **Pilihan jawaban:**
-- berpindah tempat dengan melangkahkan kaki
-- memutar badan tanpa berpindah
-- melempar bola
-- menekuk lengan
+- berjalan
+- melempar
+- menangkap
+- memutar lengan
 
-**Kunci Jawaban:** berpindah tempat dengan melangkahkan kaki
+**Kunci Jawaban:** berjalan
 
-**Pembahasan:** Berjalan: berpindah tempat dengan melangkahkan kaki.
+**Pembahasan:** Berjalan adalah gerak berpindah tempat dengan langkah kaki.
 
 ---
 
 ## Soal 2 — K03-PJK-B01-M01-002
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk berlari?
+**Pertanyaan:** Ketika lomba lari, kedua kaki pelari sesaat tidak menyentuh tanah. Ciri tersebut menunjukkan gerak ....
 
 **Pilihan jawaban:**
-- diam di tempat
-- menangkap bola
-- mengayun lengan tanpa berpindah
-- berpindah lebih cepat dengan fase kedua kaki melayang
+- duduk
+- berlari
+- mengayun lengan di tempat
+- membungkuk
 
-**Kunci Jawaban:** berpindah lebih cepat dengan fase kedua kaki melayang
+**Kunci Jawaban:** berlari
 
-**Pembahasan:** Berlari: berpindah lebih cepat dengan fase kedua kaki melayang.
+**Pembahasan:** Saat berlari ada fase melayang singkat.
 
 ---
 
 ## Soal 3 — K03-PJK-B01-M01-003
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk melompat?
+**Pertanyaan:** Beni menolak tubuh memakai satu kaki untuk melewati garis. Geraknya disebut ....
 
 **Pilihan jawaban:**
-- melempar bola
-- menarik tali
-- menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak
-- duduk diam
+- mengayun
+- berjalan
+- melompat
+- memutar badan
 
-**Kunci Jawaban:** menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak
+**Kunci Jawaban:** melompat
 
-**Pembahasan:** Melompat: menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak.
+**Pembahasan:** Melompat dalam latihan ini memakai tolakan satu kaki.
 
 ---
 
 ## Soal 4 — K03-PJK-B01-M01-004
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk meloncat?
+**Pertanyaan:** Ayu menolak tubuh dengan kedua kaki secara bersamaan. Gerak itu disebut ....
 
 **Pilihan jawaban:**
-- menendang bola
-- menolak dengan kedua kaki untuk berpindah
-- menggiring bola
-- memutar kepala
+- menoleh
+- melangkah
+- berlari
+- meloncat
 
-**Kunci Jawaban:** menolak dengan kedua kaki untuk berpindah
+**Kunci Jawaban:** meloncat
 
-**Pembahasan:** Meloncat: menolak dengan kedua kaki untuk berpindah.
+**Pembahasan:** Meloncat menggunakan tolakan kedua kaki.
 
 ---
 
 ## Soal 5 — K03-PJK-B01-M01-005
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk berjalan menyamping?
+**Pertanyaan:** Guru meminta siswa berpindah ke kanan tanpa menghadap depan. Langkah aman yang sesuai adalah ....
 
 **Pilihan jawaban:**
-- melangkah ke samping sambil menjaga keseimbangan
-- bergerak maju sambil berlari cepat
-- melempar jauh
-- berbaring
+- berlari menabrak teman
+- melangkah menyamping dengan seimbang
+- menutup mata
+- melompat ke belakang tanpa melihat
 
-**Kunci Jawaban:** melangkah ke samping sambil menjaga keseimbangan
+**Kunci Jawaban:** melangkah menyamping dengan seimbang
 
-**Pembahasan:** Berjalan menyamping: melangkah ke samping sambil menjaga keseimbangan.
+**Pembahasan:** Berjalan menyamping memerlukan keseimbangan dan ruang yang aman.
 
 ---
 
 ## Soal 6 — K03-PJK-B01-M01-006
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk berjalan mundur?
+**Pertanyaan:** Sebelum berjalan mundur, tindakan paling tepat adalah ....
 
 **Pilihan jawaban:**
-- menutup mata saat bergerak
-- melompat tanpa melihat
-- menabrak teman
-- melangkah ke belakang sambil memeriksa keamanan
+- menutup mata
+- berlari secepatnya
+- memeriksa ruang di belakang
+- mendorong teman
 
-**Kunci Jawaban:** melangkah ke belakang sambil memeriksa keamanan
+**Kunci Jawaban:** memeriksa ruang di belakang
 
-**Pembahasan:** Berjalan mundur: melangkah ke belakang sambil memeriksa keamanan.
+**Pembahasan:** Jalur belakang perlu dipastikan kosong sebelum bergerak.
 
 ---
 
 ## Soal 7 — K03-PJK-B01-M01-007
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk lari zig-zag?
+**Pertanyaan:** Pada lintasan zig-zag ada tiga penanda. Apa keterampilan utama yang dilatih?
 
 **Pilihan jawaban:**
-- duduk di garis
-- mengangkat bola
-- berlari melewati rintangan dengan perubahan arah
-- berlari lurus tanpa belok
+- mengubah arah gerak sambil menjaga kendali
+- duduk di satu tempat
+- melempar sejauh mungkin
+- menahan napas
 
-**Kunci Jawaban:** berlari melewati rintangan dengan perubahan arah
+**Kunci Jawaban:** mengubah arah gerak sambil menjaga kendali
 
-**Pembahasan:** Lari zig-zag: berlari melewati rintangan dengan perubahan arah.
+**Pembahasan:** Zig-zag melatih perubahan arah dan kontrol gerak.
 
 ---
 
 ## Soal 8 — K03-PJK-B01-M01-008
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk mendarat setelah meloncat?
+**Pertanyaan:** Setelah meloncat pendek, siswa sebaiknya mendarat dengan ....
 
 **Pilihan jawaban:**
-- menutup mata
-- menekuk lutut secara wajar agar lebih aman
-- mengunci lutut kaku
-- mendarat pada teman
+- lutut kaku terkunci
+- lutut sedikit menekuk
+- mata tertutup
+- menabrak teman
 
-**Kunci Jawaban:** menekuk lutut secara wajar agar lebih aman
+**Kunci Jawaban:** lutut sedikit menekuk
 
-**Pembahasan:** Mendarat setelah meloncat: menekuk lutut secara wajar agar lebih aman.
+**Pembahasan:** Tekukan lutut yang wajar membantu meredam pendaratan.
 
 ---
 
 ## Soal 9 — K03-PJK-B01-M01-009
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk pemanasan sebelum berlari?
+**Pertanyaan:** Mengapa siswa melakukan pemanasan sebelum permainan lari?
 
 **Pilihan jawaban:**
-- menyiapkan tubuh sebelum aktivitas
-- membuat tubuh langsung lelah
-- mengganti minum air
-- menghilangkan kebutuhan istirahat
+- agar tidak perlu minum
+- agar langsung kelelahan
+- agar tubuh bersiap bergerak secara bertahap
+- agar tidak perlu istirahat
 
-**Kunci Jawaban:** menyiapkan tubuh sebelum aktivitas
+**Kunci Jawaban:** agar tubuh bersiap bergerak secara bertahap
 
-**Pembahasan:** Pemanasan sebelum berlari: menyiapkan tubuh sebelum aktivitas.
+**Pembahasan:** Pemanasan mempersiapkan tubuh secara bertahap.
 
 ---
 
 ## Soal 10 — K03-PJK-B01-M01-010
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk lintasan yang aman?
+**Pertanyaan:** Lantai lapangan basah setelah hujan. Keputusan paling aman adalah ....
 
 **Pilihan jawaban:**
-- penuh pecahan kaca
-- dipenuhi tas berserakan
-- basah dan licin
-- bebas dari benda tajam dan licin
+- berlari semakin cepat
+- melompat di genangan
+- menunda atau pindah ke tempat yang tidak licin
+- mendorong teman
 
-**Kunci Jawaban:** bebas dari benda tajam dan licin
+**Kunci Jawaban:** menunda atau pindah ke tempat yang tidak licin
 
-**Pembahasan:** Lintasan yang aman: bebas dari benda tajam dan licin.
+**Pembahasan:** Permukaan licin meningkatkan risiko tergelincir.
 
 ---
 
 ## Soal 11 — K03-PJK-B01-M01-011
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar lokomotor, guru membahas "Berjalan". Pernyataan manakah yang benar?
+**Pertanyaan:** Ketika berjalan mengikuti garis, siswa harus ....
 
 **Pilihan jawaban:**
-- melempar bola
-- menekuk lengan
-- berpindah tempat dengan melangkahkan kaki
-- memutar badan tanpa berpindah
+- melihat arah jalan dan menjaga jarak
+- menutup mata
+- menarik baju teman
+- berlari tanpa kendali
 
-**Kunci Jawaban:** berpindah tempat dengan melangkahkan kaki
+**Kunci Jawaban:** melihat arah jalan dan menjaga jarak
 
-**Pembahasan:** Berjalan: berpindah tempat dengan melangkahkan kaki.
+**Pembahasan:** Perhatian pada arah dan jarak membantu keselamatan.
 
 ---
 
 ## Soal 12 — K03-PJK-B01-M01-012
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar lokomotor, guru membahas "Berlari". Pernyataan manakah yang benar?
+**Pertanyaan:** Rafi berpindah dari satu penanda ke penanda berikutnya dengan langkah cepat dan fase melayang. Ia sedang ....
 
 **Pilihan jawaban:**
-- mengayun lengan tanpa berpindah
-- berpindah lebih cepat dengan fase kedua kaki melayang
-- diam di tempat
-- menangkap bola
+- berjalan lambat
+- berlari
+- duduk
+- membungkuk
 
-**Kunci Jawaban:** berpindah lebih cepat dengan fase kedua kaki melayang
+**Kunci Jawaban:** berlari
 
-**Pembahasan:** Berlari: berpindah lebih cepat dengan fase kedua kaki melayang.
+**Pembahasan:** Gerak berpindah cepat dengan fase melayang termasuk berlari.
 
 ---
 
 ## Soal 13 — K03-PJK-B01-M01-013
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar lokomotor, guru membahas "Melompat". Pernyataan manakah yang benar?
+**Pertanyaan:** Apa perbedaan utama latihan meloncat dan melompat dalam contoh PJOK ini?
 
 **Pilihan jawaban:**
-- menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak
-- duduk diam
-- melempar bola
-- menarik tali
+- keduanya selalu dilakukan sambil duduk
+- meloncat bertolak dua kaki, melompat satu kaki
+- meloncat hanya memakai tangan
+- melompat tidak berpindah tempat
 
-**Kunci Jawaban:** menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak
+**Kunci Jawaban:** meloncat bertolak dua kaki, melompat satu kaki
 
-**Pembahasan:** Melompat: menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak.
+**Pembahasan:** Perbedaan yang dikenalkan ialah jumlah kaki saat menolak.
 
 ---
 
 ## Soal 14 — K03-PJK-B01-M01-014
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar lokomotor, guru membahas "Meloncat". Pernyataan manakah yang benar?
+**Pertanyaan:** Dalam permainan pindah posisi ke kiri, gerak yang tepat adalah ....
 
 **Pilihan jawaban:**
-- menggiring bola
-- memutar kepala
-- menendang bola
-- menolak dengan kedua kaki untuk berpindah
+- langkah menyamping ke kiri
+- melempar bola ke atas
+- berputar di tempat saja
+- duduk diam
 
-**Kunci Jawaban:** menolak dengan kedua kaki untuk berpindah
+**Kunci Jawaban:** langkah menyamping ke kiri
 
-**Pembahasan:** Meloncat: menolak dengan kedua kaki untuk berpindah.
+**Pembahasan:** Melangkah menyamping mengubah posisi ke samping.
 
 ---
 
 ## Soal 15 — K03-PJK-B01-M01-015
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar lokomotor, guru membahas "Berjalan menyamping". Pernyataan manakah yang benar?
+**Pertanyaan:** Rintangan terlalu tinggi untuk kemampuan siswa. Apa tindakan yang tepat?
 
 **Pilihan jawaban:**
-- melempar jauh
-- berbaring
-- melangkah ke samping sambil menjaga keseimbangan
-- bergerak maju sambil berlari cepat
+- memaksa melompati rintangan
+- meminta guru menyesuaikan tinggi rintangan
+- mendorong teman lebih dahulu
+- menutup mata lalu mencoba
 
-**Kunci Jawaban:** melangkah ke samping sambil menjaga keseimbangan
+**Kunci Jawaban:** meminta guru menyesuaikan tinggi rintangan
 
-**Pembahasan:** Berjalan menyamping: melangkah ke samping sambil menjaga keseimbangan.
+**Pembahasan:** Tinggi rintangan harus sesuai kemampuan dan pengawasan.
 
 ---
 
 ## Soal 16 — K03-PJK-B01-M01-016
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar lokomotor, guru membahas "Berjalan mundur". Pernyataan manakah yang benar?
+**Pertanyaan:** Siswa ingin menambah kecepatan lari saat permainan. Ia tetap harus ....
 
 **Pilihan jawaban:**
-- menabrak teman
-- melangkah ke belakang sambil memeriksa keamanan
-- menutup mata saat bergerak
-- melompat tanpa melihat
+- mengabaikan teman
+- berlari ke arah tembok
+- memperhatikan lintasan dan teman lain
+- melepas sepatu di lintasan
 
-**Kunci Jawaban:** melangkah ke belakang sambil memeriksa keamanan
+**Kunci Jawaban:** memperhatikan lintasan dan teman lain
 
-**Pembahasan:** Berjalan mundur: melangkah ke belakang sambil memeriksa keamanan.
+**Pembahasan:** Kecepatan tidak menghilangkan kebutuhan keselamatan.
 
 ---
 
 ## Soal 17 — K03-PJK-B01-M01-017
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar lokomotor, guru membahas "Lari zig-zag". Pernyataan manakah yang benar?
+**Pertanyaan:** Dalam berjalan mundur, mengapa langkah pendek lebih baik untuk pemula?
 
 **Pilihan jawaban:**
-- berlari melewati rintangan dengan perubahan arah
-- berlari lurus tanpa belok
-- duduk di garis
-- mengangkat bola
+- membuat mata tidak perlu melihat
+- lebih mudah mengendalikan keseimbangan
+- menghindari semua kebutuhan pengawasan
+- meningkatkan risiko jatuh
 
-**Kunci Jawaban:** berlari melewati rintangan dengan perubahan arah
+**Kunci Jawaban:** lebih mudah mengendalikan keseimbangan
 
-**Pembahasan:** Lari zig-zag: berlari melewati rintangan dengan perubahan arah.
+**Pembahasan:** Langkah pendek membantu kontrol saat arah pandang terbatas.
 
 ---
 
 ## Soal 18 — K03-PJK-B01-M01-018
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar lokomotor, guru membahas "Mendarat setelah meloncat". Pernyataan manakah yang benar?
+**Pertanyaan:** Dalam permainan lari zig-zag, apa yang perlu dilakukan saat mendekati penanda?
 
 **Pilihan jawaban:**
-- mengunci lutut kaku
-- mendarat pada teman
+- menabrak penanda
+- mengurangi kecepatan bila perlu dan mengubah arah terkontrol
 - menutup mata
-- menekuk lutut secara wajar agar lebih aman
+- menghalangi teman
 
-**Kunci Jawaban:** menekuk lutut secara wajar agar lebih aman
+**Kunci Jawaban:** mengurangi kecepatan bila perlu dan mengubah arah terkontrol
 
-**Pembahasan:** Mendarat setelah meloncat: menekuk lutut secara wajar agar lebih aman.
+**Pembahasan:** Pergantian arah membutuhkan kendali kecepatan.
 
 ---
 
 ## Soal 19 — K03-PJK-B01-M01-019
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar lokomotor, guru membahas "Pemanasan sebelum berlari". Pernyataan manakah yang benar?
+**Pertanyaan:** Saat lelah dan pusing setelah berlari, siswa sebaiknya ....
 
 **Pilihan jawaban:**
-- mengganti minum air
-- menghilangkan kebutuhan istirahat
-- menyiapkan tubuh sebelum aktivitas
-- membuat tubuh langsung lelah
+- memaksa terus berlari
+- berhenti dan memberi tahu guru
+- menyembunyikan keluhan
+- berlari lebih cepat
 
-**Kunci Jawaban:** menyiapkan tubuh sebelum aktivitas
+**Kunci Jawaban:** berhenti dan memberi tahu guru
 
-**Pembahasan:** Pemanasan sebelum berlari: menyiapkan tubuh sebelum aktivitas.
+**Pembahasan:** Keluhan pusing memerlukan penghentian aktivitas dan bantuan orang dewasa.
 
 ---
 
 ## Soal 20 — K03-PJK-B01-M01-020
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar lokomotor, guru membahas "Lintasan yang aman". Pernyataan manakah yang benar?
+**Pertanyaan:** Apa yang membedakan gerak lokomotor dari gerak memutar lengan di tempat?
 
 **Pilihan jawaban:**
-- basah dan licin
-- bebas dari benda tajam dan licin
-- penuh pecahan kaca
-- dipenuhi tas berserakan
+- gerak lokomotor menyebabkan perpindahan tempat
+- lokomotor selalu menggunakan bola
+- lokomotor selalu dilakukan duduk
+- lokomotor hanya dilakukan di air
 
-**Kunci Jawaban:** bebas dari benda tajam dan licin
+**Kunci Jawaban:** gerak lokomotor menyebabkan perpindahan tempat
 
-**Pembahasan:** Lintasan yang aman: bebas dari benda tajam dan licin.
+**Pembahasan:** Lokomotor melibatkan perpindahan posisi tubuh.
 
 ---
 
 ## Soal 21 — K03-PJK-B01-M01-021
 
-**Pertanyaan:** Rani ingin memahami berjalan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Dua siswa berlatih lari bergantian pada jalur sempit. Mengapa perlu antre?
 
 **Pilihan jawaban:**
-- berpindah tempat dengan melangkahkan kaki
-- memutar badan tanpa berpindah
-- melempar bola
-- menekuk lengan
+- agar bisa saling menghalangi
+- agar lintasan tidak terlalu padat
+- agar lari lebih berbahaya
+- agar tidak perlu melihat arah
 
-**Kunci Jawaban:** berpindah tempat dengan melangkahkan kaki
+**Kunci Jawaban:** agar lintasan tidak terlalu padat
 
-**Pembahasan:** Berjalan: berpindah tempat dengan melangkahkan kaki.
+**Pembahasan:** Bergantian mengurangi risiko bertabrakan.
 
 ---
 
 ## Soal 22 — K03-PJK-B01-M01-022
 
-**Pertanyaan:** Rani ingin memahami berlari. Pilih penjelasan yang tepat.
+**Pertanyaan:** Pada latihan estafet sederhana, siswa berpindah tempat sambil membawa benda ringan. Gerak berpindahnya adalah ....
 
 **Pilihan jawaban:**
-- diam di tempat
-- menangkap bola
-- mengayun lengan tanpa berpindah
-- berpindah lebih cepat dengan fase kedua kaki melayang
+- nonlokomotor saja
+- lokomotor
+- diam statis
+- gerak mata
 
-**Kunci Jawaban:** berpindah lebih cepat dengan fase kedua kaki melayang
+**Kunci Jawaban:** lokomotor
 
-**Pembahasan:** Berlari: berpindah lebih cepat dengan fase kedua kaki melayang.
+**Pembahasan:** Berpindah tempat termasuk gerak lokomotor.
 
 ---
 
 ## Soal 23 — K03-PJK-B01-M01-023
 
-**Pertanyaan:** Rani ingin memahami melompat. Pilih penjelasan yang tepat.
+**Pertanyaan:** Ada tas di tengah jalur lari. Apa langkah pertama yang aman?
 
 **Pilihan jawaban:**
-- melempar bola
-- menarik tali
-- menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak
-- duduk diam
+- menghentikan latihan dan menyingkirkan tas bersama guru
+- menendang tas ke teman
+- tetap berlari sambil menutup mata
+- melompat asal-asalan
 
-**Kunci Jawaban:** menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak
+**Kunci Jawaban:** menghentikan latihan dan menyingkirkan tas bersama guru
 
-**Pembahasan:** Melompat: menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak.
+**Pembahasan:** Rintangan tak terencana harus ditangani sebelum latihan dilanjutkan.
 
 ---
 
 ## Soal 24 — K03-PJK-B01-M01-024
 
-**Pertanyaan:** Rani ingin memahami meloncat. Pilih penjelasan yang tepat.
+**Pertanyaan:** Dalam meloncat ke depan, tempat mendarat sebaiknya ....
 
 **Pilihan jawaban:**
-- menendang bola
-- menolak dengan kedua kaki untuk berpindah
-- menggiring bola
-- memutar kepala
+- penuh batu tajam
+- basah dan licin
+- datar dan tidak licin
+- dipenuhi tas
 
-**Kunci Jawaban:** menolak dengan kedua kaki untuk berpindah
+**Kunci Jawaban:** datar dan tidak licin
 
-**Pembahasan:** Meloncat: menolak dengan kedua kaki untuk berpindah.
+**Pembahasan:** Permukaan pendaratan harus aman.
 
 ---
 
 ## Soal 25 — K03-PJK-B01-M01-025
 
-**Pertanyaan:** Rani ingin memahami berjalan menyamping. Pilih penjelasan yang tepat.
+**Pertanyaan:** Guru berkata 'langkah ke belakang dua kali'. Gerak apa yang paling sesuai?
 
 **Pilihan jawaban:**
-- melangkah ke samping sambil menjaga keseimbangan
-- bergerak maju sambil berlari cepat
-- melempar jauh
-- berbaring
+- berjalan mundur
+- lari zig-zag
+- meloncat ke depan
+- melempar bola
 
-**Kunci Jawaban:** melangkah ke samping sambil menjaga keseimbangan
+**Kunci Jawaban:** berjalan mundur
 
-**Pembahasan:** Berjalan menyamping: melangkah ke samping sambil menjaga keseimbangan.
+**Pembahasan:** Langkah ke belakang adalah berjalan mundur.
 
 ---
 
 ## Soal 26 — K03-PJK-B01-M01-026
 
-**Pertanyaan:** Rani ingin memahami berjalan mundur. Pilih penjelasan yang tepat.
+**Pertanyaan:** Siswa harus mengikuti jalur berbentuk huruf Z. Pola lari yang dipakai adalah ....
 
 **Pilihan jawaban:**
-- menutup mata saat bergerak
-- melompat tanpa melihat
-- menabrak teman
-- melangkah ke belakang sambil memeriksa keamanan
+- lurus saja
+- berputar di satu titik
+- zig-zag
+- diam
 
-**Kunci Jawaban:** melangkah ke belakang sambil memeriksa keamanan
+**Kunci Jawaban:** zig-zag
 
-**Pembahasan:** Berjalan mundur: melangkah ke belakang sambil memeriksa keamanan.
+**Pembahasan:** Lintasan berubah arah menyerupai zig-zag.
 
 ---
 
 ## Soal 27 — K03-PJK-B01-M01-027
 
-**Pertanyaan:** Rani ingin memahami lari zig-zag. Pilih penjelasan yang tepat.
+**Pertanyaan:** Jika kaki kanan digunakan menolak tubuh dan kaki kiri mendarat, gerak ini termasuk contoh ....
 
 **Pilihan jawaban:**
-- duduk di garis
-- mengangkat bola
-- berlari melewati rintangan dengan perubahan arah
-- berlari lurus tanpa belok
+- meloncat dengan dua kaki
+- melompat
+- duduk seimbang
+- berputar lengan
 
-**Kunci Jawaban:** berlari melewati rintangan dengan perubahan arah
+**Kunci Jawaban:** melompat
 
-**Pembahasan:** Lari zig-zag: berlari melewati rintangan dengan perubahan arah.
+**Pembahasan:** Tolakan satu kaki merupakan contoh melompat.
 
 ---
 
 ## Soal 28 — K03-PJK-B01-M01-028
 
-**Pertanyaan:** Rani ingin memahami mendarat setelah meloncat. Pilih penjelasan yang tepat.
+**Pertanyaan:** Jika kedua kaki menolak dan mendarat bersama, gerak tersebut contoh ....
 
 **Pilihan jawaban:**
-- menutup mata
-- menekuk lutut secara wajar agar lebih aman
-- mengunci lutut kaku
-- mendarat pada teman
+- berjalan menyamping
+- berlari cepat
+- menoleh
+- meloncat
 
-**Kunci Jawaban:** menekuk lutut secara wajar agar lebih aman
+**Kunci Jawaban:** meloncat
 
-**Pembahasan:** Mendarat setelah meloncat: menekuk lutut secara wajar agar lebih aman.
+**Pembahasan:** Tolakan kedua kaki adalah contoh meloncat.
 
 ---
 
 ## Soal 29 — K03-PJK-B01-M01-029
 
-**Pertanyaan:** Rani ingin memahami pemanasan sebelum berlari. Pilih penjelasan yang tepat.
+**Pertanyaan:** Seorang siswa lebih lambat saat berlari dibanding temannya. Sikap yang tepat adalah ....
 
 **Pilihan jawaban:**
-- menyiapkan tubuh sebelum aktivitas
-- membuat tubuh langsung lelah
-- mengganti minum air
-- menghilangkan kebutuhan istirahat
+- mengejeknya
+- memaksanya berlari lebih jauh
+- menghargai kemampuan setiap siswa
+- melarangnya belajar
 
-**Kunci Jawaban:** menyiapkan tubuh sebelum aktivitas
+**Kunci Jawaban:** menghargai kemampuan setiap siswa
 
-**Pembahasan:** Pemanasan sebelum berlari: menyiapkan tubuh sebelum aktivitas.
+**Pembahasan:** Kecepatan siswa berbeda dan latihan harus aman serta menghargai sesama.
 
 ---
 
 ## Soal 30 — K03-PJK-B01-M01-030
 
-**Pertanyaan:** Rani ingin memahami lintasan yang aman. Pilih penjelasan yang tepat.
+**Pertanyaan:** Sebelum berjalan menyamping, siswa perlu memeriksa ....
 
 **Pilihan jawaban:**
-- penuh pecahan kaca
-- dipenuhi tas berserakan
-- basah dan licin
-- bebas dari benda tajam dan licin
+- ruang di sisi tujuan
+- warna sepatu teman
+- jumlah pohon jauh
+- nama jalan lain
 
-**Kunci Jawaban:** bebas dari benda tajam dan licin
+**Kunci Jawaban:** ruang di sisi tujuan
 
-**Pembahasan:** Lintasan yang aman: bebas dari benda tajam dan licin.
+**Pembahasan:** Pergerakan ke samping memerlukan ruang bebas.
 
 ---
 
 ## Soal 31 — K03-PJK-B01-M01-031
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Berjalan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Untuk melatih kontrol saat mendarat, guru memilih loncatan ....
 
 **Pilihan jawaban:**
-- melempar bola
-- menekuk lengan
-- berpindah tempat dengan melangkahkan kaki
-- memutar badan tanpa berpindah
+- setinggi mungkin tanpa matras
+- rendah sesuai kemampuan
+- ke arah permukaan licin
+- tanpa pengawasan
 
-**Kunci Jawaban:** berpindah tempat dengan melangkahkan kaki
+**Kunci Jawaban:** rendah sesuai kemampuan
 
-**Pembahasan:** Berjalan: berpindah tempat dengan melangkahkan kaki.
+**Pembahasan:** Latihan awal menggunakan ketinggian aman sesuai kemampuan.
 
 ---
 
 ## Soal 32 — K03-PJK-B01-M01-032
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Berlari". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Apa tanda siswa perlu berhenti sejenak saat beraktivitas?
 
 **Pilihan jawaban:**
-- mengayun lengan tanpa berpindah
-- berpindah lebih cepat dengan fase kedua kaki melayang
-- diam di tempat
-- menangkap bola
+- masih nyaman bergerak
+- sudah selesai pemanasan
+- napas sangat berat atau merasa tidak enak badan
+- teman bergerak lebih cepat
 
-**Kunci Jawaban:** berpindah lebih cepat dengan fase kedua kaki melayang
+**Kunci Jawaban:** napas sangat berat atau merasa tidak enak badan
 
-**Pembahasan:** Berlari: berpindah lebih cepat dengan fase kedua kaki melayang.
+**Pembahasan:** Respons tubuh perlu diperhatikan dan disampaikan kepada guru.
 
 ---
 
 ## Soal 33 — K03-PJK-B01-M01-033
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Melompat". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Berjalan, berlari, melompat, dan meloncat sama-sama ....
 
 **Pilihan jawaban:**
-- menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak
-- duduk diam
-- melempar bola
-- menarik tali
+- hanya menggerakkan tangan
+- melibatkan perpindahan tempat
+- harus memakai bola
+- selalu dilakukan di air
 
-**Kunci Jawaban:** menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak
+**Kunci Jawaban:** melibatkan perpindahan tempat
 
-**Pembahasan:** Melompat: menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak.
+**Pembahasan:** Keempatnya termasuk pola gerak lokomotor.
 
 ---
 
 ## Soal 34 — K03-PJK-B01-M01-034
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Meloncat". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Setelah guru memberi tanda berhenti, siswa yang berlari sebaiknya ....
 
 **Pilihan jawaban:**
-- menggiring bola
-- memutar kepala
-- menendang bola
-- menolak dengan kedua kaki untuk berpindah
+- menabrak penanda
+- memperlambat gerak dan berhenti dengan terkendali
+- langsung mendorong teman
+- menutup mata
 
-**Kunci Jawaban:** menolak dengan kedua kaki untuk berpindah
+**Kunci Jawaban:** memperlambat gerak dan berhenti dengan terkendali
 
-**Pembahasan:** Meloncat: menolak dengan kedua kaki untuk berpindah.
+**Pembahasan:** Berhenti perlu dilakukan dengan kontrol tubuh.
 
 ---
 
 ## Soal 35 — K03-PJK-B01-M01-035
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Berjalan menyamping". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Tujuan latihan lokomotor yang aman untuk siswa kelas 3 adalah ....
 
 **Pilihan jawaban:**
-- melempar jauh
-- berbaring
-- melangkah ke samping sambil menjaga keseimbangan
-- bergerak maju sambil berlari cepat
+- mewajibkan semua siswa menjadi tercepat
+- meningkatkan keterampilan bergerak sesuai kemampuan
+- menang tanpa memperhatikan keselamatan
+- memaksa siswa saat sakit
 
-**Kunci Jawaban:** melangkah ke samping sambil menjaga keseimbangan
+**Kunci Jawaban:** meningkatkan keterampilan bergerak sesuai kemampuan
 
-**Pembahasan:** Berjalan menyamping: melangkah ke samping sambil menjaga keseimbangan.
+**Pembahasan:** Tujuan latihan ialah keterampilan gerak, kerja sama, dan keselamatan.
 
 ---
+
