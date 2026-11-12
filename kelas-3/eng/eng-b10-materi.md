@@ -2,60 +2,51 @@
 
 ## MOD-01 — K03-ENG-B10-MOD-01
 
-### Let's learn!
+### Let's learn! — Menghitung dan menyebut jumlah
 
-Ayo belajar kosakata baru dengan melihat gambar dan membacanya keras-keras.
+![Counting objects](assets/eng-b10-gambar-01.svg)
 
-![Vocabulary picture](assets/eng-b10-gambar-01.svg)
+**Bilangan 10–20:**
+- 10 ten; 11 eleven; 12 twelve; 13 thirteen; 14 fourteen
+- 15 fifteen; 16 sixteen; 17 seventeen; 18 eighteen; 19 nineteen; 20 twenty
 
-**Kosakata:**
-- **ten** = sepuluh
-- **eleven** = sebelas
-- **twelve** = dua belas
-- **thirteen** = tiga belas
-- **fourteen** = empat belas
-- **fifteen** = lima belas
-- **sixteen** = enam belas
-- **seventeen** = tujuh belas
-- **eighteen** = delapan belas
-- **twenty** = dua puluh
+Baca dan ucapkan setiap bilangan dengan jelas. Kata **fifteen** berarti 15; **fifty** berbeda dan tidak termasuk rentang ini.
 
-**Contoh:**
-- A: What is "sepuluh" in English?
-- B: It is "ten".
-- A: What about "sebelas"?
-- B: It is "eleven".
+**Pola kalimat:**
+- `There are twenty books on the shelf.` (Ada dua puluh buku di rak.)
+- `There are twelve pencils in the box.` (Ada dua belas pensil di kotak.)
+- `How many books are there?` (Ada berapa buku?)
+- `There are fifteen books.` (Ada lima belas buku.)
 
-**Latihan:** Sebutkan lima kata yang kamu ingat, lalu buat kalimat sederhana bersama guru atau orang tua.
+Gunakan `There are` dengan bilangan lebih dari satu dan bentuk jamak **books, pencils, chairs**. Gunakan `There is one book` untuk satu benda.
 
+**Latihan:** Hitung antara 10 dan 20 benda pada gambar atau benda nyata. Tuliskan jumlahnya dengan angka dan kata Inggris.
 
 ---
 
 ## MOD-02 — K03-ENG-B10-MOD-02
 
-### Let's practice!
+### Let's practice! — Menghitung dari informasi
 
-Ajak teman bergantian menyebut kata bahasa Inggris dan artinya. Gunakan dalam percakapan sederhana.
+![Counting objects](assets/eng-b10-gambar-02.svg)
 
-![Vocabulary picture](assets/eng-b10-gambar-02.svg)
+**Latihan membaca data (contoh rekaan):**
+- Shelf A: 12 books.
+- Shelf B: 7 books.
+- Box C: 15 pencils.
+- Box D: 5 pencils.
 
-**Kosakata:**
-- **ten** = sepuluh
-- **eleven** = sebelas
-- **twelve** = dua belas
-- **thirteen** = tiga belas
-- **fourteen** = empat belas
-- **fifteen** = lima belas
-- **sixteen** = enam belas
-- **seventeen** = tujuh belas
-- **eighteen** = delapan belas
-- **twenty** = dua puluh
+**Pertanyaan:**
+- How many books are there on Shelves A and B? **Nineteen books**, because 12 + 7 = 19.
+- How many pencils are there in Boxes C and D? **Twenty pencils**, because 15 + 5 = 20.
+- Are there twenty books? **No, there aren't. There are nineteen books.**
 
-**Contoh:**
-- A: What is "sepuluh" in English?
-- B: It is "ten".
-- A: What about "sebelas"?
-- B: It is "eleven".
+**Pola dialog:**
+- A: How many books are there?
+- B: There are nineteen books.
+- A: Are there twenty books?
+- B: No, there aren't.
 
-**Latihan:** Sebutkan lima kata yang kamu ingat, lalu buat kalimat sederhana bersama guru atau orang tua.
+**Perhatikan:** Pertanyaan `How many ...?` meminta jumlah. Jika informasi mengatakan `No, there are eighteen`, jangan memakai angka yang ditebak pada pertanyaan awal.
 
+**Latihan berpasangan:** Buat data dua rak dengan 10–20 benda seluruhnya, kemudian jawab `How many ... are there?`. Teman harus menjelaskan dari mana jumlah berasal. Hindari menghitung benda yang sama dua kali.
