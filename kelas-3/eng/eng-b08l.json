@@ -1,0 +1,109 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B08",
+      "chapter_title": "I Drink Orange Juice in the Canteen",
+      "questions": [
+        {
+          "id": "K03-ENG-B08-M01-046",
+          "type": "PG",
+          "text": "Listen carefully. What does the speaker drink?",
+          "options": [
+            "water",
+            "orange juice",
+            "milk",
+            "tea"
+          ],
+          "answer": "orange juice",
+          "discussion": "The speaker names orange juice.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "I drink orange juice in the canteen.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-047",
+          "type": "PG",
+          "text": "Listen carefully. What does the speaker drink?",
+          "options": [
+            "rice",
+            "noodles",
+            "water",
+            "bread"
+          ],
+          "answer": "water",
+          "discussion": "Drink water is in the sentence.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "I eat rice and drink water.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-048",
+          "type": "PG",
+          "text": "Listen carefully. What drink does the speaker confirm?",
+          "options": [
+            "milk",
+            "tea",
+            "orange juice",
+            "water"
+          ],
+          "answer": "milk",
+          "discussion": "Yes confirms milk.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Do you drink milk? Yes, I do.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-049",
+          "type": "PG",
+          "text": "Listen carefully. Which drink is chosen?",
+          "options": [
+            "milk",
+            "orange juice",
+            "water",
+            "tea"
+          ],
+          "answer": "tea",
+          "discussion": "The speaker says tea, not orange juice.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "I drink tea, not orange juice.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-050",
+          "type": "PG",
+          "text": "Listen carefully. Where does the speaker eat?",
+          "options": [
+            "library",
+            "canteen",
+            "classroom",
+            "garden"
+          ],
+          "answer": "canteen",
+          "discussion": "The place is the canteen.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Where do you eat lunch? I eat lunch in the canteen.",
+            "rate": 0.85
+          }
+        }
+      ]
+    }
+  ]
+}
