@@ -1,0 +1,184 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PJK-B08",
+      "chapter_title": "Aktivitas Fisik dan Memilih Makanan Bergizi",
+      "questions": [
+        {
+          "id": "K03-PJK-B08-M01-036",
+          "type": "PG",
+          "text": "Setelah bergerak, anak mengisi kembali minumannya. Untuk kebutuhan tubuh apa hal ini dilakukan?",
+          "options": [
+            "tidak diperlukan",
+            "selalu diganti sirup",
+            "penting untuk membantu kebutuhan cairan",
+            "harus dihindari setelah bermain"
+          ],
+          "answer": "penting untuk membantu kebutuhan cairan",
+          "discussion": "Air putih: penting untuk membantu kebutuhan cairan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-01.svg",
+            "alt": "Ilustrasi Air putih"
+          }
+        },
+        {
+          "id": "K03-PJK-B08-M01-037",
+          "type": "PG",
+          "text": "Anak memilih sarapan beragam sebelum belajar. Manfaatnya ialah ....",
+          "options": [
+            "harus dilewatkan",
+            "membantu menyediakan energi untuk belajar dan bergerak",
+            "membuat tidak perlu makan lagi",
+            "hanya berupa permen"
+          ],
+          "answer": "membantu menyediakan energi untuk belajar dan bergerak",
+          "discussion": "Sarapan bergizi: membantu menyediakan energi untuk belajar dan bergerak.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-02.svg",
+            "alt": "Ilustrasi Sarapan bergizi"
+          }
+        },
+        {
+          "id": "K03-PJK-B08-M01-038",
+          "type": "PG",
+          "text": "Siswa mencuci tangan sebelum memegang makanan. Mengapa kebiasaan itu baik?",
+          "options": [
+            "membantu mengurangi perpindahan kuman",
+            "membuat makanan lebih mahal",
+            "mengganti olahraga",
+            "tidak penting"
+          ],
+          "answer": "membantu mengurangi perpindahan kuman",
+          "discussion": "Cuci tangan sebelum makan: membantu mengurangi perpindahan kuman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-03.svg",
+            "alt": "Ilustrasi Cuci tangan sebelum makan"
+          }
+        },
+        {
+          "id": "K03-PJK-B08-M01-039",
+          "type": "PG",
+          "text": "Gambar menunjukkan waktu istirahat malam. Manfaatnya bagi tubuh ialah ....",
+          "options": [
+            "menggantikan makan",
+            "berarti tidak perlu bergerak",
+            "selalu membuang waktu",
+            "mendukung pertumbuhan dan pemulihan"
+          ],
+          "answer": "mendukung pertumbuhan dan pemulihan",
+          "discussion": "Tidur cukup: mendukung pertumbuhan dan pemulihan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-04.svg",
+            "alt": "Ilustrasi Tidur cukup"
+          }
+        },
+        {
+          "id": "K03-PJK-B08-M01-040",
+          "type": "PG",
+          "text": "Dua jajanan berbeda kebersihannya. Cara memilih yang aman adalah ....",
+          "options": [
+            "pilih yang kedaluwarsa",
+            "pilih tanpa memperhatikan kebersihan",
+            "utamakan yang bersih, aman, dan bergizi",
+            "pilih yang terbuka dekat sampah"
+          ],
+          "answer": "utamakan yang bersih, aman, dan bergizi",
+          "discussion": "Pilihan jajanan: utamakan yang bersih, aman, dan bergizi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-05.svg",
+            "alt": "Ilustrasi Pilihan jajanan"
+          }
+        },
+        {
+          "id": "K03-PJK-B08-M01-041",
+          "type": "PG",
+          "text": "Anak berjalan dan bermain aktif. Mengapa kegiatan ini termasuk aktivitas fisik?",
+          "options": [
+            "hanya duduk",
+            "gerakan tubuh yang menggunakan energi",
+            "hanya tidur",
+            "hanya menonton"
+          ],
+          "answer": "gerakan tubuh yang menggunakan energi",
+          "discussion": "Aktivitas fisik: gerakan tubuh yang menggunakan energi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-06.svg",
+            "alt": "Ilustrasi Aktivitas fisik"
+          }
+        },
+        {
+          "id": "K03-PJK-B08-M01-042",
+          "type": "PG",
+          "text": "Satu piring berisi makanan beragam, bukan satu jenis saja. Prinsip makan yang sesuai ialah ....",
+          "options": [
+            "beragam sesuai kebutuhan tubuh",
+            "hanya makanan manis",
+            "hanya gorengan",
+            "hanya satu jenis makanan"
+          ],
+          "answer": "beragam sesuai kebutuhan tubuh",
+          "discussion": "Makanan bergizi seimbang: beragam sesuai kebutuhan tubuh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-07.svg",
+            "alt": "Ilustrasi Makanan bergizi seimbang"
+          }
+        },
+        {
+          "id": "K03-PJK-B08-M01-043",
+          "type": "PG",
+          "text": "Gambar menampilkan telur, ikan, dan tempe. Zat gizi utama apa yang dicontohkan?",
+          "options": [
+            "permen",
+            "minuman bersoda",
+            "kerupuk saja",
+            "telur, ikan, atau tempe"
+          ],
+          "answer": "telur, ikan, atau tempe",
+          "discussion": "Sumber protein: telur, ikan, atau tempe.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-08.svg",
+            "alt": "Ilustrasi Sumber protein"
+          }
+        },
+        {
+          "id": "K03-PJK-B08-M01-044",
+          "type": "PG",
+          "text": "Sayur dan buah disajikan dalam menu anak. Apa manfaatnya?",
+          "options": [
+            "selalu harus digoreng",
+            "tidak berguna",
+            "menyumbang vitamin, mineral, dan serat",
+            "menggantikan semua makanan"
+          ],
+          "answer": "menyumbang vitamin, mineral, dan serat",
+          "discussion": "Sayur dan buah: menyumbang vitamin, mineral, dan serat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-09.svg",
+            "alt": "Ilustrasi Sayur dan buah"
+          }
+        },
+        {
+          "id": "K03-PJK-B08-M01-045",
+          "type": "PG",
+          "text": "Makanan pokok seperti nasi dan kentang membantu tubuh memperoleh apa?",
+          "options": [
+            "menggantikan air minum",
+            "menjadi salah satu sumber energi tubuh",
+            "selalu berbahaya",
+            "tidak boleh dimakan"
+          ],
+          "answer": "menjadi salah satu sumber energi tubuh",
+          "discussion": "Karbohidrat: menjadi salah satu sumber energi tubuh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-10.svg",
+            "alt": "Ilustrasi Karbohidrat"
+          }
+        }
+      ]
+    }
+  ]
+}
