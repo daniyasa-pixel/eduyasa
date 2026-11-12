@@ -4,7 +4,7 @@
 
 ![Picture](assets/eng-b10-gambar-01.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which English number word matches the pictured count?
 
 **Pilihan jawaban:**
 - ten
@@ -22,7 +22,7 @@
 
 ![Picture](assets/eng-b10-gambar-02.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Count the objects or read the numeral in the image. Which word fits?
 
 **Pilihan jawaban:**
 - ten
@@ -40,7 +40,7 @@
 
 ![Picture](assets/eng-b10-gambar-03.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which number name is shown?
 
 **Pilihan jawaban:**
 - fourteen
@@ -58,7 +58,7 @@
 
 ![Picture](assets/eng-b10-gambar-04.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Choose the English word for the count shown.
 
 **Pilihan jawaban:**
 - eighteen
@@ -76,7 +76,7 @@
 
 ![Picture](assets/eng-b10-gambar-05.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which number word is indicated?
 
 **Pilihan jawaban:**
 - fourteen
@@ -94,7 +94,7 @@
 
 ![Picture](assets/eng-b10-gambar-06.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** What is the number word for the objects shown?
 
 **Pilihan jawaban:**
 - fourteen
@@ -112,7 +112,7 @@
 
 ![Picture](assets/eng-b10-gambar-07.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which English number name fits the picture?
 
 **Pilihan jawaban:**
 - eighteen
@@ -130,7 +130,7 @@
 
 ![Picture](assets/eng-b10-gambar-08.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Choose the matching number word.
 
 **Pilihan jawaban:**
 - twelve
@@ -148,7 +148,7 @@
 
 ![Picture](assets/eng-b10-gambar-09.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which number word represents the amount?
 
 **Pilihan jawaban:**
 - eighteen
@@ -166,7 +166,7 @@
 
 ![Picture](assets/eng-b10-gambar-10.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which number name matches the image?
 
 **Pilihan jawaban:**
 - eighteen
