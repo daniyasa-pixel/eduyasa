@@ -1,0 +1,469 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B10",
+      "chapter_title": "There Are Twenty Books on the Shelf",
+      "questions": [
+        {
+          "id": "K03-ENG-B10-M01-001",
+          "type": "PG",
+          "text": "There are 10 books on the shelf or in the classroom. Which English number word matches 10?",
+          "options": [
+            "ten",
+            "eleven",
+            "twelve",
+            "thirteen"
+          ],
+          "answer": "ten",
+          "discussion": "The number 10 is ten."
+        },
+        {
+          "id": "K03-ENG-B10-M01-002",
+          "type": "PG",
+          "text": "There are 11 pencils on the shelf or in the classroom. Which English number word matches 11?",
+          "options": [
+            "eleven",
+            "thirteen",
+            "fourteen",
+            "fifteen"
+          ],
+          "answer": "eleven",
+          "discussion": "The number 11 is eleven."
+        },
+        {
+          "id": "K03-ENG-B10-M01-003",
+          "type": "PG",
+          "text": "There are 12 rulers on the shelf or in the classroom. Which English number word matches 12?",
+          "options": [
+            "twelve",
+            "fifteen",
+            "sixteen",
+            "seventeen"
+          ],
+          "answer": "twelve",
+          "discussion": "The number 12 is twelve."
+        },
+        {
+          "id": "K03-ENG-B10-M01-004",
+          "type": "PG",
+          "text": "There are 13 erasers on the shelf or in the classroom. Which English number word matches 13?",
+          "options": [
+            "thirteen",
+            "seventeen",
+            "eighteen",
+            "nineteen"
+          ],
+          "answer": "thirteen",
+          "discussion": "The number 13 is thirteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-005",
+          "type": "PG",
+          "text": "There are 14 notebooks on the shelf or in the classroom. Which English number word matches 14?",
+          "options": [
+            "fourteen",
+            "eleven",
+            "twelve",
+            "thirteen"
+          ],
+          "answer": "fourteen",
+          "discussion": "The number 14 is fourteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-006",
+          "type": "PG",
+          "text": "There are 15 crayons on the shelf or in the classroom. Which English number word matches 15?",
+          "options": [
+            "fifteen",
+            "thirteen",
+            "fourteen",
+            "sixteen"
+          ],
+          "answer": "fifteen",
+          "discussion": "The number 15 is fifteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-007",
+          "type": "PG",
+          "text": "There are 16 bags on the shelf or in the classroom. Which English number word matches 16?",
+          "options": [
+            "sixteen",
+            "fifteen",
+            "seventeen",
+            "eighteen"
+          ],
+          "answer": "sixteen",
+          "discussion": "The number 16 is sixteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-008",
+          "type": "PG",
+          "text": "There are 17 chairs on the shelf or in the classroom. Which English number word matches 17?",
+          "options": [
+            "seventeen",
+            "ten",
+            "eleven",
+            "twelve"
+          ],
+          "answer": "seventeen",
+          "discussion": "The number 17 is seventeen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-009",
+          "type": "PG",
+          "text": "There are 18 desks on the shelf or in the classroom. Which English number word matches 18?",
+          "options": [
+            "eighteen",
+            "twelve",
+            "thirteen",
+            "fourteen"
+          ],
+          "answer": "eighteen",
+          "discussion": "The number 18 is eighteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-010",
+          "type": "PG",
+          "text": "There are 19 markers on the shelf or in the classroom. Which English number word matches 19?",
+          "options": [
+            "nineteen",
+            "fourteen",
+            "fifteen",
+            "sixteen"
+          ],
+          "answer": "nineteen",
+          "discussion": "The number 19 is nineteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-011",
+          "type": "PG",
+          "text": "There are 20 sheets on the shelf or in the classroom. Which English number word matches 20?",
+          "options": [
+            "twenty",
+            "sixteen",
+            "seventeen",
+            "eighteen"
+          ],
+          "answer": "twenty",
+          "discussion": "The number 20 is twenty."
+        },
+        {
+          "id": "K03-ENG-B10-M01-012",
+          "type": "PG",
+          "text": "There are twelve books on one shelf and three more on another. How many books are there in all?",
+          "options": [
+            "fifteen",
+            "ten",
+            "eleven",
+            "twelve"
+          ],
+          "answer": "fifteen",
+          "discussion": "Twelve plus three is fifteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-013",
+          "type": "PG",
+          "text": "A box has twenty pencils. Five pencils are taken out. How many remain?",
+          "options": [
+            "fifteen",
+            "thirteen",
+            "fourteen",
+            "sixteen"
+          ],
+          "answer": "fifteen",
+          "discussion": "Twenty minus five is fifteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-014",
+          "type": "PG",
+          "text": "Rani has ten crayons. Her friend gives her four more. How many now?",
+          "options": [
+            "fourteen",
+            "seventeen",
+            "eighteen",
+            "nineteen"
+          ],
+          "answer": "fourteen",
+          "discussion": "Ten plus four is fourteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-015",
+          "type": "PG",
+          "text": "There are eighteen chairs. Two chairs are moved out. How many remain?",
+          "options": [
+            "sixteen",
+            "twelve",
+            "thirteen",
+            "fourteen"
+          ],
+          "answer": "sixteen",
+          "discussion": "Eighteen minus two is sixteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-016",
+          "type": "PG",
+          "text": "Eleven students are reading. Two more join. How many students are reading?",
+          "options": [
+            "thirteen",
+            "sixteen",
+            "seventeen",
+            "eighteen"
+          ],
+          "answer": "thirteen",
+          "discussion": "Eleven plus two is thirteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-017",
+          "type": "PG",
+          "text": "A shelf has thirteen books. Six more are added. How many books now?",
+          "options": [
+            "nineteen",
+            "eleven",
+            "twelve",
+            "thirteen"
+          ],
+          "answer": "nineteen",
+          "discussion": "Thirteen plus six is nineteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-018",
+          "type": "PG",
+          "text": "The class has twenty bags. Three bags are taken away. How many bags remain?",
+          "options": [
+            "seventeen",
+            "fourteen",
+            "fifteen",
+            "sixteen"
+          ],
+          "answer": "seventeen",
+          "discussion": "Twenty minus three is seventeen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-019",
+          "type": "PG",
+          "text": "Eight pencils and four pencils are in a box. How many pencils?",
+          "options": [
+            "twelve",
+            "ten",
+            "eleven",
+            "thirteen"
+          ],
+          "answer": "twelve",
+          "discussion": "Eight plus four is twelve."
+        },
+        {
+          "id": "K03-ENG-B10-M01-020",
+          "type": "PG",
+          "text": "There are fourteen notebooks. Four more arrive. How many now?",
+          "options": [
+            "eighteen",
+            "thirteen",
+            "fourteen",
+            "fifteen"
+          ],
+          "answer": "eighteen",
+          "discussion": "Fourteen plus four is eighteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-021",
+          "type": "PG",
+          "text": "Nine markers are red and eleven are blue. How many markers in all?",
+          "options": [
+            "twenty",
+            "sixteen",
+            "seventeen",
+            "eighteen"
+          ],
+          "answer": "twenty",
+          "discussion": "Nine plus eleven is twenty."
+        },
+        {
+          "id": "K03-ENG-B10-M01-022",
+          "type": "PG",
+          "text": "Choose a correct sentence about 20 books.",
+          "options": [
+            "There is twenty books on the shelf.",
+            "There are twenty books on the shelf.",
+            "There are twenty book on the shelf.",
+            "There twenty books on shelf."
+          ],
+          "answer": "There are twenty books on the shelf.",
+          "discussion": "The plural subject 'twenty books' takes 'There are'."
+        },
+        {
+          "id": "K03-ENG-B10-M01-023",
+          "type": "PG",
+          "text": "Complete: 'There ___ eleven pencils in the box.'",
+          "options": [
+            "is",
+            "am",
+            "are",
+            "be"
+          ],
+          "answer": "are",
+          "discussion": "'Eleven pencils' is plural, so use 'are'."
+        },
+        {
+          "id": "K03-ENG-B10-M01-024",
+          "type": "PG",
+          "text": "Complete: 'There is ___ book on the table.'",
+          "options": [
+            "eleven",
+            "twelve",
+            "one",
+            "twenty"
+          ],
+          "answer": "one",
+          "discussion": "A singular book uses one."
+        },
+        {
+          "id": "K03-ENG-B10-M01-025",
+          "type": "PG",
+          "text": "A: How many books are there? B: There are fifteen books. What number does B say?",
+          "options": [
+            "thirteen",
+            "fourteen",
+            "fifteen",
+            "sixteen"
+          ],
+          "answer": "fifteen",
+          "discussion": "The reply says fifteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-026",
+          "type": "PG",
+          "text": "Which question asks about a count?",
+          "options": [
+            "What color are the pencils?",
+            "Where are the pencils?",
+            "How many pencils are there?",
+            "Who owns the pencils?"
+          ],
+          "answer": "How many pencils are there?",
+          "discussion": "How many asks for a number."
+        },
+        {
+          "id": "K03-ENG-B10-M01-027",
+          "type": "PG",
+          "text": "Choose the correct plural noun after 'twenty'.",
+          "options": [
+            "book",
+            "books",
+            "book's",
+            "booking"
+          ],
+          "answer": "books",
+          "discussion": "Twenty is followed by the plural 'books'."
+        },
+        {
+          "id": "K03-ENG-B10-M01-028",
+          "type": "PG",
+          "text": "A: Are there twelve books? B: No, there are thirteen. How many books?",
+          "options": [
+            "twelve",
+            "thirteen",
+            "eleven",
+            "ten"
+          ],
+          "answer": "thirteen",
+          "discussion": "The correction says thirteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-029",
+          "type": "PG",
+          "text": "There are ten notebooks and ten pencils. Which item count is twenty?",
+          "options": [
+            "the notebooks alone",
+            "the pencils alone",
+            "all the items together",
+            "neither item nor their total"
+          ],
+          "answer": "all the items together",
+          "discussion": "Ten plus ten gives twenty items in total."
+        },
+        {
+          "id": "K03-ENG-B10-M01-030",
+          "type": "PG",
+          "text": "Which number word comes just after eighteen?",
+          "options": [
+            "seventeen",
+            "twenty",
+            "nineteen",
+            "sixteen"
+          ],
+          "answer": "nineteen",
+          "discussion": "Nineteen follows eighteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-031",
+          "type": "PG",
+          "text": "Which number word comes just before fifteen?",
+          "options": [
+            "sixteen",
+            "fourteen",
+            "thirteen",
+            "seventeen"
+          ],
+          "answer": "fourteen",
+          "discussion": "Fourteen comes before fifteen."
+        },
+        {
+          "id": "K03-ENG-B10-M01-032",
+          "type": "PG",
+          "text": "A: How many chairs are there? B: There are sixteen. Which reply matches?",
+          "options": [
+            "There is sixteen chair.",
+            "There are sixteen chairs.",
+            "There are sixty chairs.",
+            "There sixteen chairs."
+          ],
+          "answer": "There are sixteen chairs.",
+          "discussion": "Plural chairs uses 'There are'."
+        },
+        {
+          "id": "K03-ENG-B10-M01-033",
+          "type": "PG",
+          "text": "Choose the correct phrase for 12 pencils.",
+          "options": [
+            "twelve pencil",
+            "twelve pencils",
+            "twelfth pencils",
+            "twelve penciling"
+          ],
+          "answer": "twelve pencils",
+          "discussion": "Twelve is a count and pencils is plural."
+        },
+        {
+          "id": "K03-ENG-B10-M01-034",
+          "type": "PG",
+          "text": "There are twenty books, not twelve. Which number is correct?",
+          "options": [
+            "twelve",
+            "ten",
+            "twenty",
+            "eleven"
+          ],
+          "answer": "twenty",
+          "discussion": "The sentence explicitly corrects twelve to twenty."
+        },
+        {
+          "id": "K03-ENG-B10-M01-035",
+          "type": "PG",
+          "text": "The teacher counts nineteen desks. Which numeral matches 'nineteen'?",
+          "options": [
+            "17",
+            "18",
+            "19",
+            "20"
+          ],
+          "answer": "19",
+          "discussion": "Nineteen is written 19."
+        }
+      ]
+    }
+  ]
+}
