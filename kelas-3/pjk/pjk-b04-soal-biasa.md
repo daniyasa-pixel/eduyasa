@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B04-M01-031
 
-**Pertanyaan:** Saat latihan dasar senam, telapak tangan membantu menopang tubuh. Gerak dominan apa yang tampak?
+**Pertanyaan:** Dalam posisi senam, tangan dan kaki menahan sebagian berat tubuh. Keterampilan dominan apa ini?
 
 **Pilihan jawaban:**
 - melempar bola
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B04-M01-032
 
-**Pertanyaan:** Guru menyiapkan matras dan membimbing gerak tubuh berputar ke arah depan. Manakah uraian yang tepat?
+**Pertanyaan:** Guru melarang anak mencoba gerak guling di lantai keras. Gerakan yang dimaksud perlu matras dan bimbingan karena ....
 
 **Pilihan jawaban:**
 - menendang bola
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B04-M01-033
 
-**Pertanyaan:** Siswa berdiri pada posisi yang ditunjukkan guru tanpa jatuh. Kemampuan yang dilatih adalah ....
+**Pertanyaan:** Pada latihan posisi statis, tubuh harus tetap stabil meski tumpuan berubah. Apa keterampilan yang dipraktikkan?
 
 **Pilihan jawaban:**
 - melempar bola
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B04-M01-034
 
-**Pertanyaan:** Untuk latihan lantai, guru memilih alas empuk yang sesuai. Fungsinya adalah ....
+**Pertanyaan:** Di pojok senam tersedia alas khusus. Untuk apa alas tersebut digunakan?
 
 **Pilihan jawaban:**
 - membantu menyediakan permukaan latihan yang lebih aman
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B04-M01-035
 
-**Pertanyaan:** Seorang siswa turun dari loncatan rendah dan menekuk lututnya secara wajar. Ini menunjukkan ....
+**Pertanyaan:** Setelah gerak loncat rendah, siswa mendarat dengan lutut lentur dan tidak kaku. Prinsip ini berkaitan dengan ....
 
 **Pilihan jawaban:**
 - dilakukan sambil menutup mata
