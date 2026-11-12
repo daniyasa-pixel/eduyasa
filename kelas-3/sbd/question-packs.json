@@ -1,0 +1,18 @@
+{
+  "subject_id": "SBD",
+  "grade": 3,
+  "chapters": {
+    "K03-SBD-B01": [
+      "sbd/sbd-b01.json",
+      "sbd/sbd-b01a.json"
+    ],
+    "K03-SBD-B02": [
+      "sbd/sbd-b02.json",
+      "sbd/sbd-b02a.json"
+    ],
+    "K03-SBD-B03": [
+      "sbd/sbd-b03.json",
+      "sbd/sbd-b03a.json"
+    ]
+  }
+}
