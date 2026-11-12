@@ -1,0 +1,354 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B01",
+      "chapter_title": "Keajaiban Tubuhku",
+      "questions": [
+        {
+          "id": "K03-IPAS-B01-M01-051",
+          "type": "PG",
+          "text": "Pada kartu mana terdapat lingkaran merah?",
+          "options": [
+            "Kartu B",
+            "Kedua kartu",
+            "Kartu A",
+            "Tidak ada kartu"
+          ],
+          "answer": "Kartu A",
+          "discussion": "Hanya kartu A memuat lingkaran merah; kartu B memiliki lingkaran berwarna biru.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-01.svg",
+            "alt": "Pola kartu. A: Lingkaran merah; segitiga biru. B: Persegi merah; lingkaran biru. Amati: Bandingkan bentuk dan warna."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-052",
+          "type": "PG",
+          "text": "Ciri apa yang sama pada kedua kartu?",
+          "options": [
+            "Semua bentuknya segitiga",
+            "Semua bendanya merah",
+            "Keduanya hanya memiliki satu bentuk",
+            "Sama-sama memiliki lingkaran"
+          ],
+          "answer": "Sama-sama memiliki lingkaran",
+          "discussion": "Kedua kartu mempunyai lingkaran meskipun warnanya berbeda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-01.svg",
+            "alt": "Pola kartu. A: Lingkaran merah; segitiga biru. B: Persegi merah; lingkaran biru. Amati: Bandingkan bentuk dan warna."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-053",
+          "type": "PG",
+          "text": "Catatan mana memuat lebih banyak ketukan?",
+          "options": [
+            "Catatan A",
+            "Catatan B",
+            "Jumlah keduanya sama",
+            "Keduanya tidak memuat ketukan"
+          ],
+          "answer": "Catatan A",
+          "discussion": "A mencatat tiga ketukan, sedangkan B dua; jumlah diamati dari catatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-02.svg",
+            "alt": "Catatan bunyi. A: Ketukan: tok — tok — tok B: Ketukan: ting — ting Catatan: Setiap kata mewakili satu ketukan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-054",
+          "type": "PG",
+          "text": "Perbedaan apa yang tercatat antara A dan B?",
+          "options": [
+            "Warna benda dan rasanya",
+            "Jenis bunyi dan jumlah ketukan",
+            "Suhu benda dan aromanya",
+            "Hanya warna tulisan"
+          ],
+          "answer": "Jenis bunyi dan jumlah ketukan",
+          "discussion": "Catatan menggunakan kata bunyi yang berbeda serta jumlah ketukan yang berbeda; tidak mencatat warna atau suhu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-02.svg",
+            "alt": "Catatan bunyi. A: Ketukan: tok — tok — tok B: Ketukan: ting — ting Catatan: Setiap kata mewakili satu ketukan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-055",
+          "type": "PG",
+          "text": "Apa hasil penglihatan yang sama pada P dan Q?",
+          "options": [
+            "Tekstur berbulu",
+            "Tekstur licin",
+            "Warna hijau",
+            "Bunyi berdenting"
+          ],
+          "answer": "Warna hijau",
+          "discussion": "Warna kedua kain sama; tekstur pada catatan justru berbeda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-03.svg",
+            "alt": "Pengamatan kain. P: Terasa berbulu; warna hijau. Q: Terasa licin; warna hijau. Cara: Diamati dengan mata dan sentuhan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-056",
+          "type": "PG",
+          "text": "Jika hanya membandingkan hasil sentuhan, kesimpulan yang tepat ialah ...",
+          "options": [
+            "Keduanya berbulu",
+            "Keduanya licin",
+            "P licin, Q berbulu",
+            "P berbulu, Q licin"
+          ],
+          "answer": "P berbulu, Q licin",
+          "discussion": "Keterangan tekstur P dan Q menunjukkan perbedaan yang diterima melalui kulit.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-03.svg",
+            "alt": "Pengamatan kain. P: Terasa berbulu; warna hijau. Q: Terasa licin; warna hijau. Cara: Diamati dengan mata dan sentuhan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-057",
+          "type": "PG",
+          "text": "Benda apa di sebelah kiri buku pada denah?",
+          "options": [
+            "Lampu meja",
+            "Gelas air",
+            "Tas sekolah",
+            "Rak sepatu"
+          ],
+          "answer": "Lampu meja",
+          "discussion": "Posisi lampu terdapat di kiri, buku di tengah, dan gelas di kanan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-04.svg",
+            "alt": "Denah tempat membaca. Kiri: Lampu meja Tengah: Buku bacaan Kanan: Gelas air"
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-058",
+          "type": "PG",
+          "text": "Benda yang membantu penerangan di dekat buku terletak ...",
+          "options": [
+            "Di sebelah kanan gelas",
+            "Di sebelah kiri buku",
+            "Di dalam gelas",
+            "Di belakang rak sepatu"
+          ],
+          "answer": "Di sebelah kiri buku",
+          "discussion": "Lampu membantu menyediakan cahaya dan pada denah berada di kiri buku.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-04.svg",
+            "alt": "Denah tempat membaca. Kiri: Lampu meja Tengah: Buku bacaan Kanan: Gelas air"
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-059",
+          "type": "PG",
+          "text": "Pada bagian jadwal mana tercatat minum setelah aktivitas?",
+          "options": [
+            "Pagi",
+            "Malam",
+            "Siang",
+            "Semua bagian"
+          ],
+          "answer": "Siang",
+          "discussion": "Catatan siang secara khusus menghubungkan bermain aktif dengan minum air.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-05.svg",
+            "alt": "Jadwal kegiatan. Pagi: Sarapan lalu berangkat sekolah. Siang: Bermain aktif lalu minum air. Malam: Bersiap tidur."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-060",
+          "type": "PG",
+          "text": "Kegiatan apa yang tercatat setelah bagian siang?",
+          "options": [
+            "Berangkat sekolah pada pagi hari",
+            "Sarapan pagi",
+            "Membaca suhu air",
+            "Bersiap tidur pada malam hari"
+          ],
+          "answer": "Bersiap tidur pada malam hari",
+          "discussion": "Urutan jadwal bergerak dari pagi ke siang kemudian malam, yang memuat persiapan tidur.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-05.svg",
+            "alt": "Jadwal kegiatan. Pagi: Sarapan lalu berangkat sekolah. Siang: Bermain aktif lalu minum air. Malam: Bersiap tidur."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-061",
+          "type": "PG",
+          "text": "Tempat mana mendukung membaca berdasarkan catatan?",
+          "options": [
+            "Tempat A",
+            "Tempat B",
+            "Keduanya sama redup",
+            "Tidak ada informasi tentang tulisan"
+          ],
+          "answer": "Tempat A",
+          "discussion": "Di A tulisan terlihat jelas dengan penerangan cukup, sedangkan B tercatat redup.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-06.svg",
+            "alt": "Dua tempat membaca. A: Cahaya cukup; tulisan tampak jelas. B: Cahaya redup; tulisan sulit terlihat. Tugas: Pilih berdasarkan hasil pengamatan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-062",
+          "type": "PG",
+          "text": "Bukti apa yang mendukung pilihan itu?",
+          "options": [
+            "Buku di B pasti lebih mahal",
+            "Tulisan tampak jelas di A",
+            "Anak di A pasti lebih tinggi",
+            "Semua buku di A berwarna sama"
+          ],
+          "answer": "Tulisan tampak jelas di A",
+          "discussion": "Hanya kejelasan tulisan yang tercantum sebagai bukti; harga dan tinggi badan tidak disebutkan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-06.svg",
+            "alt": "Dua tempat membaca. A: Cahaya cukup; tulisan tampak jelas. B: Cahaya redup; tulisan sulit terlihat. Tugas: Pilih berdasarkan hasil pengamatan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-063",
+          "type": "PG",
+          "text": "Pernyataan mana sesuai pengamatan permukaan?",
+          "options": [
+            "P halus, Q berbintil",
+            "Keduanya halus",
+            "P berbintil, Q halus",
+            "Keduanya berbintil"
+          ],
+          "answer": "P berbintil, Q halus",
+          "discussion": "Perbandingan mengikuti catatan permukaan masing-masing buah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-07.svg",
+            "alt": "Catatan buah. P: Kulit jingga; permukaan berbintil. Q: Kulit kuning; permukaan halus. Catatan: Rasa kedua buah belum diuji."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-064",
+          "type": "PG",
+          "text": "Kesimpulan mana belum didukung oleh kartu?",
+          "options": [
+            "Kulit P berwarna jingga",
+            "Kulit Q berwarna kuning",
+            "Permukaan kedua buah berbeda",
+            "Pasti P lebih manis daripada Q"
+          ],
+          "answer": "Pasti P lebih manis daripada Q",
+          "discussion": "Kartu tidak memberikan hasil pengecapan; rasa manis tidak dapat dipastikan dari warna atau tekstur saja.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-07.svg",
+            "alt": "Catatan buah. P: Kulit jingga; permukaan berbintil. Q: Kulit kuning; permukaan halus. Catatan: Rasa kedua buah belum diuji."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-065",
+          "type": "PG",
+          "text": "Bantuan mana sesuai kebutuhan Alya pada kartu?",
+          "options": [
+            "Menyediakan tulisan lebih besar",
+            "Hanya menambah volume suara",
+            "Mengambil semua tugasnya",
+            "Memintanya menunggu di luar"
+          ],
+          "answer": "Menyediakan tulisan lebih besar",
+          "discussion": "Tulisan lebih besar menanggapi permintaan Alya secara langsung.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-08.svg",
+            "alt": "Bantuan dalam kelompok. Alya: Meminta tulisan lebih besar. Beni: Meminta pembicara menghadapnya. Tugas: Tanyakan kebutuhan setiap teman."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-066",
+          "type": "PG",
+          "text": "Mengapa bantuan untuk Alya dan Beni tidak harus sama?",
+          "options": [
+            "Nama mereka menentukan kepandaiannya",
+            "Kebutuhan yang mereka sampaikan berbeda",
+            "Semua teman wajib mendapat alat yang sama",
+            "Beni tidak ingin ikut belajar"
+          ],
+          "answer": "Kebutuhan yang mereka sampaikan berbeda",
+          "discussion": "Alya meminta ukuran tulisan, sedangkan Beni meminta posisi pembicara; dukungan mengikuti kebutuhan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-08.svg",
+            "alt": "Bantuan dalam kelompok. Alya: Meminta tulisan lebih besar. Beni: Meminta pembicara menghadapnya. Tugas: Tanyakan kebutuhan setiap teman."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-067",
+          "type": "PG",
+          "text": "Langkah apa ditempatkan di antara berkebun dan memegang makanan?",
+          "options": [
+            "Mengelap tanah ke baju",
+            "Memegang makanan terlebih dahulu",
+            "Mencuci tangan dengan sabun dan air",
+            "Menyiram semua makanan"
+          ],
+          "answer": "Mencuci tangan dengan sabun dan air",
+          "discussion": "Kartu tengah menunjukkan tindakan membersihkan tangan sebelum kartu terakhir.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-09.svg",
+            "alt": "Catatan kebersihan. Sebelum: Tangan terkena tanah saat berkebun. Langkah: Cuci dengan sabun dan air. Sesudah: Baru memegang makanan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-068",
+          "type": "PG",
+          "text": "Mengapa urutan pada gambar membantu kebersihan?",
+          "options": [
+            "Tanah membuat semua makanan lebih bergizi",
+            "Makanan menggantikan fungsi sabun",
+            "Mencuci tangan hanya untuk mengubah warna kulit",
+            "Kotoran dibersihkan sebelum tangan menyentuh makanan"
+          ],
+          "answer": "Kotoran dibersihkan sebelum tangan menyentuh makanan",
+          "discussion": "Urutan membersihkan dahulu mengurangi perpindahan kotoran dari tangan ke makanan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-09.svg",
+            "alt": "Catatan kebersihan. Sebelum: Tangan terkena tanah saat berkebun. Langkah: Cuci dengan sabun dan air. Sesudah: Baru memegang makanan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-069",
+          "type": "PG",
+          "text": "Laporan mana mencatat hasil pengamatan tekstur?",
+          "options": [
+            "Laporan A",
+            "Laporan B",
+            "Keduanya hanya menyebut warna",
+            "Tidak ada hasil sentuhan"
+          ],
+          "answer": "Laporan A",
+          "discussion": "A menyebut ciri kasar dari sentuhan; B menyatakan penilaian bagus untuk semua orang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-10.svg",
+            "alt": "Dua laporan. Laporan A: Kain terasa kasar ketika disentuh. Laporan B: Kain ini paling bagus untuk semua orang. Tugas: Bedakan bukti dan penilaian selera."
+          }
+        },
+        {
+          "id": "K03-IPAS-B01-M01-070",
+          "type": "PG",
+          "text": "Apa kelemahan kesimpulan pada laporan B?",
+          "options": [
+            "Mencantumkan hasil sentuhan dengan jelas",
+            "Menganggap selera semua orang pasti sama",
+            "Menjelaskan warna secara rinci",
+            "Memberikan ukuran yang telah dibandingkan"
+          ],
+          "answer": "Menganggap selera semua orang pasti sama",
+          "discussion": "Penilaian bagus bergantung kebutuhan dan selera, sehingga tidak dapat diberlakukan untuk semua orang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b01-gambar-10.svg",
+            "alt": "Dua laporan. Laporan A: Kain terasa kasar ketika disentuh. Laporan B: Kain ini paling bagus untuk semua orang. Tugas: Bedakan bukti dan penilaian selera."
+          }
+        }
+      ]
+    }
+  ]
+}
