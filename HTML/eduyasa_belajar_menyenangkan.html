@@ -462,7 +462,7 @@ img[role="button"]:focus-visible { outline: 3px solid var(--primary); outline-of
 <div id="toast-container"></div>
 <footer>EDUYASA © 2026 • Kurikulum Merdeka</footer>
 
-<script src="./grade-config.js?v=20261111-k03-mtk-1"></script>
+<script src="./grade-config.js?v=20261113-k03-menu-1"></script>
 <script src="./math-renderer.js?v=20261111-k03-mtk-1"></script>
 <script src="./quiz-bank.js?v=20261111-k03-mtk-1"></script>
 <script>
@@ -947,6 +947,10 @@ async function fetchMateri() {
 
     for(const chapNum of chosen) {
       const chapStr = String(chapNum).padStart(2, "0");
+      if (subject.materialsAvailable === false) {
+        allMateriHTML += `<div class="materi-item"><h2>${subject.name} - Bab ${chapNum}</h2><p>Materi bab ini belum tersedia. Kamu tetap bisa melanjutkan ke latihan soal.</p></div>`;
+        continue;
+      }
       const url = BASE_URL + `${subjectId.toLowerCase()}/${subjectId.toLowerCase()}-b${chapStr}-materi.json`;
 
       try {
