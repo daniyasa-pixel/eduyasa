@@ -1,0 +1,184 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PJK-B03",
+      "chapter_title": "Aktivitas Pola Gerak Dasar Manipulatif",
+      "questions": [
+        {
+          "id": "K03-PJK-B03-M01-036",
+          "type": "PG",
+          "text": "Dua anak saling memberi bola. Tindakan kerja sama apa yang sesuai?",
+          "options": [
+            "menyembunyikan bola",
+            "melempar ke penonton",
+            "mengabaikan teman",
+            "memberikan bola kepada teman satu tim"
+          ],
+          "answer": "memberikan bola kepada teman satu tim",
+          "discussion": "Mengoper bola: memberikan bola kepada teman satu tim.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-01.svg",
+            "alt": "Ilustrasi Mengoper bola"
+          }
+        },
+        {
+          "id": "K03-PJK-B03-M01-037",
+          "type": "PG",
+          "text": "Panah menunjukkan bola bergerak ke sasaran kosong. Ke mana sebaiknya lemparan diarahkan?",
+          "options": [
+            "ke kaca jendela",
+            "ke jalan raya",
+            "diarahkan ke sasaran yang aman",
+            "ke wajah teman"
+          ],
+          "answer": "diarahkan ke sasaran yang aman",
+          "discussion": "Arah lemparan: diarahkan ke sasaran yang aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-02.svg",
+            "alt": "Ilustrasi Arah lemparan"
+          }
+        },
+        {
+          "id": "K03-PJK-B03-M01-038",
+          "type": "PG",
+          "text": "Bola bergerak mendatar ke anak yang siap menerima. Bagaimana posisi perhatian dan tangannya?",
+          "options": [
+            "berlari tanpa melihat",
+            "memperhatikan arah datang bola dan menyiapkan tangan",
+            "memejamkan mata",
+            "membelakangi bola"
+          ],
+          "answer": "memperhatikan arah datang bola dan menyiapkan tangan",
+          "discussion": "Menangkap bola mendatar: memperhatikan arah datang bola dan menyiapkan tangan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-03.svg",
+            "alt": "Ilustrasi Menangkap bola mendatar"
+          }
+        },
+        {
+          "id": "K03-PJK-B03-M01-039",
+          "type": "PG",
+          "text": "Anak-anak bermain dengan satu bola bergantian. Aturan yang penting ialah ....",
+          "options": [
+            "mematuhi aturan dan bergiliran",
+            "merebut secara kasar",
+            "mengejek teman",
+            "mendorong lawan"
+          ],
+          "answer": "mematuhi aturan dan bergiliran",
+          "discussion": "Bermain bola bersama: mematuhi aturan dan bergiliran.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-04.svg",
+            "alt": "Ilustrasi Bermain bola bersama"
+          }
+        },
+        {
+          "id": "K03-PJK-B03-M01-040",
+          "type": "PG",
+          "text": "Ada beberapa ukuran bola latihan. Bagaimana memilih bola bagi anak?",
+          "options": [
+            "harus paling berat",
+            "harus keras seperti batu",
+            "selalu lebih besar dari tubuh",
+            "dipilih sesuai ukuran dan kemampuan"
+          ],
+          "answer": "dipilih sesuai ukuran dan kemampuan",
+          "discussion": "Bola untuk latihan anak: dipilih sesuai ukuran dan kemampuan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-05.svg",
+            "alt": "Ilustrasi Bola untuk latihan anak"
+          }
+        },
+        {
+          "id": "K03-PJK-B03-M01-041",
+          "type": "PG",
+          "text": "Bola berpindah dari tangan pelempar ke depan. Keterampilan apa yang dilakukan?",
+          "options": [
+            "berdiri satu kaki",
+            "membungkuk",
+            "menggerakkan bola menjauh menggunakan tangan",
+            "menahan bola dengan kaki"
+          ],
+          "answer": "menggerakkan bola menjauh menggunakan tangan",
+          "discussion": "Melempar bola: menggerakkan bola menjauh menggunakan tangan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-06.svg",
+            "alt": "Ilustrasi Melempar bola"
+          }
+        },
+        {
+          "id": "K03-PJK-B03-M01-042",
+          "type": "PG",
+          "text": "Bola datang menuju tangan penerima. Tindakan yang sesuai ialah ....",
+          "options": [
+            "berjalan mundur",
+            "menerima bola dengan tangan secara terkendali",
+            "menendang bola",
+            "memutar badan"
+          ],
+          "answer": "menerima bola dengan tangan secara terkendali",
+          "discussion": "Menangkap bola: menerima bola dengan tangan secara terkendali.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-07.svg",
+            "alt": "Ilustrasi Menangkap bola"
+          }
+        },
+        {
+          "id": "K03-PJK-B03-M01-043",
+          "type": "PG",
+          "text": "Anak menggerakkan bola ke depan dengan kaki. Keterampilan apa yang sesuai?",
+          "options": [
+            "menggerakkan bola menggunakan kaki",
+            "memukul bola dengan tangan",
+            "menangkap bola",
+            "mengayun lengan"
+          ],
+          "answer": "menggerakkan bola menggunakan kaki",
+          "discussion": "Menendang bola: menggerakkan bola menggunakan kaki.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-08.svg",
+            "alt": "Ilustrasi Menendang bola"
+          }
+        },
+        {
+          "id": "K03-PJK-B03-M01-044",
+          "type": "PG",
+          "text": "Bola digerakkan melalui beberapa sentuhan kaki. Bagaimana cara mengontrolnya?",
+          "options": [
+            "melempar bola ke udara",
+            "duduk diam",
+            "berputar",
+            "mengontrol bola lewat sentuhan kaki berulang"
+          ],
+          "answer": "mengontrol bola lewat sentuhan kaki berulang",
+          "discussion": "Menggiring bola dengan kaki: mengontrol bola lewat sentuhan kaki berulang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-09.svg",
+            "alt": "Ilustrasi Menggiring bola dengan kaki"
+          }
+        },
+        {
+          "id": "K03-PJK-B03-M01-045",
+          "type": "PG",
+          "text": "Bola menyentuh lantai dan kembali naik. Manakah uraian gerak yang tepat?",
+          "options": [
+            "menendang jauh",
+            "membungkuk",
+            "mendorong bola ke lantai agar memantul kembali",
+            "menahan bola di tas"
+          ],
+          "answer": "mendorong bola ke lantai agar memantul kembali",
+          "discussion": "Memantulkan bola: mendorong bola ke lantai agar memantul kembali.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-10.svg",
+            "alt": "Ilustrasi Memantulkan bola"
+          }
+        }
+      ]
+    }
+  ]
+}
