@@ -1,0 +1,664 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B01",
+      "chapter_title": "Keajaiban Tubuhku",
+      "questions": [
+        {
+          "id": "K03-IPAS-B01-M01-001",
+          "type": "PG",
+          "text": "Rani melihat pelangi setelah hujan. Indra apa yang terutama digunakan untuk mengenali warna pelangi?",
+          "options": [
+            "Mata",
+            "Telinga",
+            "Hidung",
+            "Lidah"
+          ],
+          "answer": "Mata",
+          "discussion": "Warna diterima oleh mata. Telinga mendengar bunyi, hidung mencium aroma, dan lidah mengenali rasa."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-002",
+          "type": "PG",
+          "text": "Saat bel sekolah berbunyi dari belakang kelas, Dito segera menoleh. Indra yang membantunya mengetahui arah bunyi ialah ....",
+          "options": [
+            "Kulit",
+            "Telinga",
+            "Mata",
+            "Lidah"
+          ],
+          "answer": "Telinga",
+          "discussion": "Telinga menerima bunyi sehingga Dito dapat mengetahui ada suara dari belakang."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-003",
+          "type": "PG",
+          "text": "Ibu memasak sup di dapur. Sebelum melihat makanannya, Sinta mengenali aromanya. Bagian tubuh yang bekerja terutama adalah ....",
+          "options": [
+            "Otak",
+            "Kulit",
+            "Hidung",
+            "Mata"
+          ],
+          "answer": "Hidung",
+          "discussion": "Hidung mendeteksi aroma yang dibawa udara, sedangkan mata digunakan untuk melihat."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-004",
+          "type": "PG",
+          "text": "Dua potong buah tampak mirip, tetapi rasanya berbeda. Indra yang paling membantu membedakan rasanya ialah ....",
+          "options": [
+            "Telinga",
+            "Hidung",
+            "Kulit",
+            "Lidah"
+          ],
+          "answer": "Lidah",
+          "discussion": "Lidah memiliki pengecap yang membantu mengenali rasa makanan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-005",
+          "type": "PG",
+          "text": "Bima memegang gelas yang terasa hangat. Indra apa yang memberinya informasi tentang suhu gelas?",
+          "options": [
+            "Kulit",
+            "Mata",
+            "Hidung",
+            "Telinga"
+          ],
+          "answer": "Kulit",
+          "discussion": "Kulit dapat merasakan suhu dan sentuhan; mata hanya melihat gelas."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-006",
+          "type": "PG",
+          "text": "Mata melihat bola datang, lalu tangan bergerak menangkapnya. Organ yang membantu mengolah informasi dan mengatur respons itu adalah ....",
+          "options": [
+            "Lidah",
+            "Otak",
+            "Hidung",
+            "Kuku"
+          ],
+          "answer": "Otak",
+          "discussion": "Otak memproses informasi dari mata dan membantu mengoordinasikan gerakan tangan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-007",
+          "type": "PG",
+          "text": "Nina sulit membaca tulisan di papan. Dokter menyarankan alat bantu sesuai hasil pemeriksaan. Alat yang mungkin digunakan ialah ....",
+          "options": [
+            "Sarung tangan",
+            "Penutup telinga",
+            "Kacamata",
+            "Masker"
+          ],
+          "answer": "Kacamata",
+          "discussion": "Kacamata dapat membantu mengoreksi penglihatan pada kondisi tertentu sesuai pemeriksaan tenaga kesehatan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-008",
+          "type": "PG",
+          "text": "Ketika bermain, debu mengenai mata Lala. Apa tindakan pertama yang tepat?",
+          "options": [
+            "Mengusap mata dengan tangan yang kotor",
+            "Meminta teman meniup mata dari dekat",
+            "Mencoba mengambil debu dengan ujung baju",
+            "Berhenti bermain dan meminta bantuan orang dewasa"
+          ],
+          "answer": "Berhenti bermain dan meminta bantuan orang dewasa",
+          "discussion": "Bantuan orang dewasa diperlukan; menggosok atau memasukkan benda ke mata dapat melukainya."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-009",
+          "type": "PG",
+          "text": "Adi memakai headphone di tempat yang ramai. Kebiasaan yang lebih aman ialah ...",
+          "options": [
+            "Menjaga volume tidak keras dan memberi jeda",
+            "Menaikkan volume agar menutupi semua suara sekitar",
+            "Memakai volume tertinggi pada satu telinga saja",
+            "Tetap mendengarkan ketika telinga terasa sakit"
+          ],
+          "answer": "Menjaga volume tidak keras dan memberi jeda",
+          "discussion": "Volume keras dapat mengganggu pendengaran; jeda dan volume wajar membantu melindungi telinga."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-010",
+          "type": "PG",
+          "text": "Setelah memegang tanah saat berkebun, Lala hendak makan. Apa yang sebaiknya dilakukan lebih dahulu?",
+          "options": [
+            "Mengusap tangan ke baju",
+            "Mencuci tangan memakai sabun dan air",
+            "Langsung makan",
+            "Memegang makanan teman"
+          ],
+          "answer": "Mencuci tangan memakai sabun dan air",
+          "discussion": "Sabun dan air membantu membersihkan kotoran serta kuman pada tangan sebelum makan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-011",
+          "type": "PG",
+          "text": "Dua teman merasakan aroma bunga yang sama, tetapi pendapat mereka tentang harumnya berbeda. Sikap terbaik adalah ....",
+          "options": [
+            "Memaksa teman setuju",
+            "Mengejek penciuman teman",
+            "Menghargai perbedaan pendapat",
+            "Menganggap teman berbohong"
+          ],
+          "answer": "Menghargai perbedaan pendapat",
+          "discussion": "Penilaian terhadap aroma dapat berbeda. Menghargai pendapat teman adalah sikap yang tepat."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-012",
+          "type": "PG",
+          "text": "Agar mata tidak cepat lelah saat membaca, kebiasaan yang lebih baik adalah ....",
+          "options": [
+            "Membaca di ruangan sangat gelap",
+            "Menempelkan buku ke mata",
+            "Membaca sambil berlari",
+            "Menggunakan pencahayaan cukup dan beristirahat berkala"
+          ],
+          "answer": "Menggunakan pencahayaan cukup dan beristirahat berkala",
+          "discussion": "Cahaya yang cukup dan jeda membantu kenyamanan mata saat membaca."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-013",
+          "type": "PG",
+          "text": "Ketika sedang flu, makanan terasa kurang beraroma. Hal ini menunjukkan bahwa ....",
+          "options": [
+            "Penciuman ikut membantu pengalaman menikmati makanan",
+            "Telinga menentukan rasa manis",
+            "Kulit menggantikan fungsi lidah",
+            "Mata selalu menentukan rasa asin"
+          ],
+          "answer": "Penciuman ikut membantu pengalaman menikmati makanan",
+          "discussion": "Aroma yang ditangkap hidung berperan dalam pengalaman merasakan makanan bersama indra pengecap."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-014",
+          "type": "PG",
+          "text": "Saat teman berbicara, kita mendengarkan dan melihat ekspresi wajahnya. Artinya ....",
+          "options": [
+            "Hanya satu indra bekerja setiap saat",
+            "Beberapa indra dapat bekerja sama",
+            "Indra tidak diperlukan untuk berkomunikasi",
+            "Lidah bertugas melihat wajah"
+          ],
+          "answer": "Beberapa indra dapat bekerja sama",
+          "discussion": "Telinga menangkap suara dan mata menangkap ekspresi; keduanya membantu memahami pesan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-015",
+          "type": "PG",
+          "text": "Raka menemukan botol cairan tanpa label di gudang. Ia penasaran dengan baunya. Apa yang sebaiknya ia lakukan?",
+          "options": [
+            "Mencicipinya sedikit",
+            "Menghirupnya dekat-dekat",
+            "Tidak membuka atau mencium langsung dan memberi tahu orang dewasa",
+            "Menyemprotkannya ke teman"
+          ],
+          "answer": "Tidak membuka atau mencium langsung dan memberi tahu orang dewasa",
+          "discussion": "Cairan tidak dikenal bisa berbahaya. Hindari mencicipi atau menghirup langsung dan mintalah bantuan orang dewasa."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-016",
+          "type": "PG",
+          "text": "Saat bermain, Dini merasa permukaan batu kasar dan daun halus. Perbedaan ini dikenali terutama melalui ....",
+          "options": [
+            "Pendengaran",
+            "Penglihatan warna saja",
+            "Penciuman",
+            "Sentuhan kulit"
+          ],
+          "answer": "Sentuhan kulit",
+          "discussion": "Reseptor pada kulit membantu mengenali tekstur ketika menyentuh benda."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-017",
+          "type": "PG",
+          "text": "Apa manfaat tidur cukup bagi kegiatan belajar?",
+          "options": [
+            "Membantu pemulihan tubuh dan konsentrasi",
+            "Menggantikan seluruh kebutuhan makan pagi",
+            "Membuat tubuh tidak memerlukan air minum",
+            "Menghilangkan kebutuhan bergerak pada siang hari"
+          ],
+          "answer": "Membantu pemulihan tubuh dan konsentrasi",
+          "discussion": "Tidur mendukung pemulihan dan perhatian saat belajar, tetapi tidak menggantikan makan, minum, atau aktivitas fisik."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-018",
+          "type": "PG",
+          "text": "Menu makan siang mana yang paling beragam kelompok pangannya?",
+          "options": [
+            "Nasi, kentang, dan roti saja",
+            "Nasi, ikan, sayur, dan buah",
+            "Ikan dan telur saja",
+            "Pisang dan jeruk saja"
+          ],
+          "answer": "Nasi, ikan, sayur, dan buah",
+          "discussion": "Menu pertama menggabungkan makanan pokok, lauk, sayur, dan buah sehingga menyediakan zat gizi yang beragam."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-019",
+          "type": "PG",
+          "text": "Teman Tomi kesulitan membaca tulisan kecil. Bantuan yang menghargainya ialah ...",
+          "options": [
+            "Mengambil bukunya tanpa bertanya terlebih dahulu",
+            "Menjawab semua tugasnya agar cepat selesai",
+            "Menanyakan kebutuhannya dan menawarkan bantuan guru",
+            "Mengumumkan kesulitannya kepada seluruh kelas"
+          ],
+          "answer": "Menanyakan kebutuhannya dan menawarkan bantuan guru",
+          "discussion": "Menanyakan kebutuhan memberi teman pilihan dan menjaga kenyamanannya; guru dapat membantu menyediakan cara belajar yang sesuai."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-020",
+          "type": "PG",
+          "text": "Dua anak berbeda tinggi badan. Apakah kita dapat menentukan siapa lebih pandai hanya dari tinggi badannya?",
+          "options": [
+            "Ya, anak yang lebih tinggi selalu lebih pandai",
+            "Ya, anak yang lebih pendek selalu lebih pandai",
+            "Ya, tinggi badan menunjukkan nilai pelajaran setiap anak",
+            "Tidak, kemampuan belajar tidak dapat dinilai dari tinggi badan saja"
+          ],
+          "answer": "Tidak, kemampuan belajar tidak dapat dinilai dari tinggi badan saja",
+          "discussion": "Ciri fisik tidak menentukan kepandaian seseorang; setiap anak perlu mendapat kesempatan belajar dan dukungan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-021",
+          "type": "PG",
+          "text": "Apa manfaat bulu mata bagi mata?",
+          "options": [
+            "Membantu menghalangi debu yang mendekat",
+            "Mengubah warna benda yang dilihat",
+            "Menghasilkan air liur untuk mata",
+            "Menggantikan tugas telinga menerima bunyi"
+          ],
+          "answer": "Membantu menghalangi debu yang mendekat",
+          "discussion": "Bulu mata membantu melindungi permukaan mata dari partikel; bukan alat untuk mendengar atau mengecap."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-022",
+          "type": "PG",
+          "text": "Daun telinga memiliki lekukan. Bentuk itu membantu ...",
+          "options": [
+            "Mengecap rasa makanan yang masuk mulut",
+            "Mengumpulkan dan mengarahkan bunyi ke liang telinga",
+            "Menyaring cahaya sebelum masuk mata",
+            "Mengatur jumlah udara yang masuk hidung"
+          ],
+          "answer": "Mengumpulkan dan mengarahkan bunyi ke liang telinga",
+          "discussion": "Bentuk daun telinga membantu bunyi menuju bagian dalam telinga, tempat proses pendengaran berlanjut."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-023",
+          "type": "PG",
+          "text": "Di mana indra peraba terdapat?",
+          "options": [
+            "Hanya pada ujung kuku",
+            "Hanya di permukaan lidah",
+            "Pada kulit di berbagai bagian tubuh",
+            "Hanya pada daun telinga"
+          ],
+          "answer": "Pada kulit di berbagai bagian tubuh",
+          "discussion": "Kulit menyelimuti tubuh dan memiliki penerima rangsangan sentuhan; peraba tidak hanya terdapat di tangan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-024",
+          "type": "PG",
+          "text": "Seseorang melihat semangka dari jauh. Informasi mana yang belum dapat dipastikan hanya dengan mata?",
+          "options": [
+            "Warna kulit buahnya",
+            "Bentuk luar buahnya",
+            "Ada atau tidaknya garis pada kulit buah",
+            "Rasa daging buahnya"
+          ],
+          "answer": "Rasa daging buahnya",
+          "discussion": "Mata memberi informasi tampilan luar; rasa tidak dapat dipastikan tanpa informasi lain."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-025",
+          "type": "PG",
+          "text": "Benda dalam kantong terasa bulat dan halus. Mengapa kita belum boleh menyimpulkan warnanya?",
+          "options": [
+            "Warna tidak diketahui hanya melalui sentuhan",
+            "Semua benda bulat pasti berwarna merah",
+            "Benda halus selalu memiliki warna yang sama",
+            "Warna benda berubah setiap kali disentuh"
+          ],
+          "answer": "Warna tidak diketahui hanya melalui sentuhan",
+          "discussion": "Sentuhan memberi informasi bentuk atau tekstur, sedangkan warna memerlukan pengamatan penglihatan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-026",
+          "type": "PG",
+          "text": "Nia melihat bentuk benda di ruang terang dan sangat redup. Apa yang membuatnya lebih sulit melihat di ruang redup?",
+          "options": [
+            "Bentuk benda pasti berubah menjadi lebih kecil",
+            "Cahaya yang tersedia lebih sedikit",
+            "Mata berubah menjadi indra pendengar",
+            "Semua benda kehilangan warnanya selamanya"
+          ],
+          "answer": "Cahaya yang tersedia lebih sedikit",
+          "discussion": "Penglihatan memerlukan cahaya; ruangan redup mengurangi informasi cahaya yang diterima mata."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-027",
+          "type": "PG",
+          "text": "Guru menguji bunyi dua wadah tertutup tanpa memperlihatkan isinya. Mengapa wadah ditutup?",
+          "options": [
+            "Agar semua bunyi pasti menjadi sama",
+            "Agar hidung dapat menentukan warna wadah",
+            "Agar siswa berfokus pada informasi bunyi",
+            "Agar siswa tidak perlu mendengarkan"
+          ],
+          "answer": "Agar siswa berfokus pada informasi bunyi",
+          "discussion": "Menutup tampilan isi mengurangi petunjuk penglihatan sehingga siswa membandingkan bunyi yang didengar."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-028",
+          "type": "PG",
+          "text": "Dalam pengamatan tekstur, benda mana yang paling aman dipakai?",
+          "options": [
+            "Pecahan gelas kecil",
+            "Permukaan kompor yang baru dipakai",
+            "Kawat yang ujungnya runcing",
+            "Kain bersih yang tidak tajam"
+          ],
+          "answer": "Kain bersih yang tidak tajam",
+          "discussion": "Kain bersih memungkinkan pengamatan sentuhan tanpa risiko tajam atau panas seperti pilihan lain."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-029",
+          "type": "PG",
+          "text": "Mengapa kita tidak menatap Matahari langsung saat mempelajari cahaya?",
+          "options": [
+            "Cahaya sangat kuat dapat merusak mata",
+            "Mata akan belajar melihat lebih cepat",
+            "Warna mata pasti berubah sesuai cahaya",
+            "Matahari hanya terlihat melalui lidah"
+          ],
+          "answer": "Cahaya sangat kuat dapat merusak mata",
+          "discussion": "Menatap Matahari langsung berisiko melukai mata dan bukan cara aman menyelidiki cahaya."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-030",
+          "type": "PG",
+          "text": "Telinga Danu terasa sakit. Kepada siapa ia sebaiknya bercerita?",
+          "options": [
+            "Teman yang menyuruh memasukkan benda ke telinga",
+            "Orang tua, wali, atau guru yang dapat membantu",
+            "Orang asing yang meminta foto pribadi",
+            "Teman yang meminta keluhannya dirahasiakan dari semua orang dewasa"
+          ],
+          "answer": "Orang tua, wali, atau guru yang dapat membantu",
+          "discussion": "Orang dewasa tepercaya dapat membantu mencari penanganan yang sesuai dan tidak membiarkan anak menanganinya sendiri."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-031",
+          "type": "PG",
+          "text": "Raka ingin meminjam kacamata temannya untuk bermain. Apa pilihan yang tepat?",
+          "options": [
+            "Memakainya selama mungkin agar mata menjadi sama",
+            "Menukar kacamatanya dengan semua teman",
+            "Tidak memakainya; kacamata itu disesuaikan untuk penggunanya",
+            "Mengubah sendiri bagian lensa agar cocok"
+          ],
+          "answer": "Tidak memakainya; kacamata itu disesuaikan untuk penggunanya",
+          "discussion": "Kacamata koreksi dipilih menurut kebutuhan pemakainya dan perlu dijaga sebagai alat bantu pribadi."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-032",
+          "type": "PG",
+          "text": "Seorang teman memakai alat bantu dengar. Cara mengajaknya berbicara yang baik ialah ...",
+          "options": [
+            "Selalu berteriak tepat di telinganya",
+            "Menyentuh alat bantunya tanpa meminta izin",
+            "Menghindarinya karena dianggap tidak dapat belajar",
+            "Menghadapnya dan menanyakan cara berkomunikasi yang nyaman"
+          ],
+          "answer": "Menghadapnya dan menanyakan cara berkomunikasi yang nyaman",
+          "discussion": "Kebutuhan komunikasi dapat berbeda; menghadap teman dan bertanya menghargai kenyamanan serta pilihannya."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-033",
+          "type": "PG",
+          "text": "Alya hendak memegang tangan temannya untuk membantu berjalan. Apa yang perlu dilakukan dahulu?",
+          "options": [
+            "Bertanya apakah ia memerlukan dan mengizinkan bantuan",
+            "Langsung menarik tangannya agar cepat",
+            "Mengajak semua teman memegangnya bersamaan",
+            "Mengambil tasnya tanpa memberi penjelasan"
+          ],
+          "answer": "Bertanya apakah ia memerlukan dan mengizinkan bantuan",
+          "discussion": "Meminta izin menghormati batas tubuh dan membantu mengetahui bantuan yang benar-benar diperlukan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-034",
+          "type": "PG",
+          "text": "Manakah laporan pengamatan yang menyebutkan bukti, bukan sekadar kesukaan?",
+          "options": [
+            "Kain ini pasti paling bagus untuk semua orang.",
+            "Permukaan kain ini terasa berbulu ketika disentuh.",
+            "Semua teman harus menyukai kain pilihanku.",
+            "Kain ini lebih hebat karena milikku."
+          ],
+          "answer": "Permukaan kain ini terasa berbulu ketika disentuh.",
+          "discussion": "Laporan pertama menyatakan hasil sentuhan yang dapat dibandingkan, sedangkan pilihan lain berupa penilaian atau pemaksaan selera."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-035",
+          "type": "PG",
+          "text": "Rini ingin membandingkan dua kain. Agar pengamatannya terarah, ia sebaiknya membandingkan ...",
+          "options": [
+            "Tekstur kain pertama dengan bunyi kain kedua",
+            "Warna kain pertama dengan rasa makanan",
+            "Tekstur kedua kain dengan cara sentuhan yang sama",
+            "Kesukaan teman tanpa mengamati kain"
+          ],
+          "answer": "Tekstur kedua kain dengan cara sentuhan yang sama",
+          "discussion": "Membandingkan ciri yang sama dengan cara yang sama membantu memperoleh informasi yang sesuai tujuan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-036",
+          "type": "PG",
+          "text": "Apa yang membedakan pengamatan aroma dengan pengamatan rasa?",
+          "options": [
+            "Keduanya hanya diterima oleh kulit",
+            "Aroma selalu dapat diketahui dari warna benda",
+            "Rasa makanan dapat ditentukan dari keras bunyinya",
+            "Aroma dikenali terutama oleh hidung, rasa oleh lidah"
+          ],
+          "answer": "Aroma dikenali terutama oleh hidung, rasa oleh lidah",
+          "discussion": "Penciuman dan pengecapan memiliki penerima yang berbeda meskipun bekerja sama ketika menikmati makanan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-037",
+          "type": "PG",
+          "text": "Guru menyediakan dua botol bahan yang tidak dikenal. Mengapa siswa tidak boleh menebak isinya dengan mencicipi?",
+          "options": [
+            "Bahan itu belum dipastikan aman untuk dimakan",
+            "Semua bahan dalam botol pasti asin",
+            "Rasa hanya dapat diketahui melalui warna",
+            "Mencicipi membuat botol kehilangan bentuk"
+          ],
+          "answer": "Bahan itu belum dipastikan aman untuk dimakan",
+          "discussion": "Pengamatan harus mempertimbangkan keamanan; bahan yang tidak dikenal tidak boleh dicicipi."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-038",
+          "type": "PG",
+          "text": "Bima ingin menguji apakah ia dapat mengenali arah bunyi. Tempat kegiatan yang sesuai ialah ...",
+          "options": [
+            "Tepi jalan ramai sambil menutup mata",
+            "Ruang aman bersama guru, sambil tetap diam di tempat",
+            "Tangga sekolah sambil berjalan mundur",
+            "Dekat kolam tanpa pendamping"
+          ],
+          "answer": "Ruang aman bersama guru, sambil tetap diam di tempat",
+          "discussion": "Pengamatan bunyi tidak boleh menghilangkan kewaspadaan terhadap lalu lintas, jatuh, atau air."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-039",
+          "type": "PG",
+          "text": "Apa peran otak ketika kita membaca tulisan?",
+          "options": [
+            "Menggantikan cahaya di dalam ruangan",
+            "Menghasilkan tinta pada halaman",
+            "Mengolah informasi yang diterima melalui mata",
+            "Membuat telinga melihat huruf"
+          ],
+          "answer": "Mengolah informasi yang diterima melalui mata",
+          "discussion": "Mata menerima informasi penglihatan dan otak membantu mengenali serta memahami tulisan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-040",
+          "type": "PG",
+          "text": "Bola melaju ke arah Rudi. Mengapa penglihatan dan gerakan tubuh perlu bekerja sama?",
+          "options": [
+            "Mata dapat memegang bola tanpa tangan",
+            "Tangan menentukan warna bola tanpa informasi lain",
+            "Bola berubah arah hanya karena dilihat",
+            "Informasi arah bola membantu mengatur tindakan menangkap"
+          ],
+          "answer": "Informasi arah bola membantu mengatur tindakan menangkap",
+          "discussion": "Informasi indra diproses untuk membantu tubuh memilih dan mengoordinasikan tindakan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-041",
+          "type": "PG",
+          "text": "Manakah contoh ciri fisik yang tidak menentukan nilai seseorang?",
+          "options": [
+            "Warna kulit",
+            "Kejujuran dalam bermain",
+            "Kesediaan menghormati teman",
+            "Tanggung jawab menyelesaikan tugas"
+          ],
+          "answer": "Warna kulit",
+          "discussion": "Warna kulit merupakan ciri fisik, bukan ukuran kepandaian atau kebaikan seseorang."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-042",
+          "type": "PG",
+          "text": "Kelompok akan mengamati bentuk benda. Teman yang sulit melihat dapat dibantu dengan ...",
+          "options": [
+            "Larangan ikut agar kelompok cepat selesai",
+            "Benda bertekstur aman dan penjelasan sesuai kebutuhannya",
+            "Tugas yang dijawabkan tanpa bertanya kepadanya",
+            "Paksaan memakai cara yang sama walau tidak nyaman"
+          ],
+          "answer": "Benda bertekstur aman dan penjelasan sesuai kebutuhannya",
+          "discussion": "Cara pengamatan dapat disesuaikan agar teman tetap berpartisipasi dengan aman dan bermakna."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-043",
+          "type": "PG",
+          "text": "Mengapa tangan perlu dibersihkan sebelum menyentuh area wajah?",
+          "options": [
+            "Agar kulit wajah tidak lagi memerlukan perawatan",
+            "Agar semua bau dapat dilihat oleh mata",
+            "Agar kotoran tidak mudah berpindah ke mata, hidung, atau mulut",
+            "Agar tangan tidak dapat merasakan suhu"
+          ],
+          "answer": "Agar kotoran tidak mudah berpindah ke mata, hidung, atau mulut",
+          "discussion": "Tangan dapat membawa kotoran; kebersihan mengurangi perpindahannya ketika menyentuh wajah."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-044",
+          "type": "PG",
+          "text": "Setelah bermain aktif, tubuh berkeringat dan terasa lelah. Pilihan yang sesuai ialah ...",
+          "options": [
+            "Memaksa terus bermain tanpa jeda",
+            "Menghindari minum sampai malam",
+            "Menganggap rasa lelah harus selalu disembunyikan",
+            "Beristirahat dan minum air sesuai kebutuhan"
+          ],
+          "answer": "Beristirahat dan minum air sesuai kebutuhan",
+          "discussion": "Istirahat dan cairan membantu kebutuhan tubuh setelah aktivitas; rasa tidak nyaman perlu disampaikan kepada orang dewasa."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-045",
+          "type": "PG",
+          "text": "Guru meminta siswa menyebutkan hasil penglihatan. Jawaban yang sesuai ialah ...",
+          "options": [
+            "Bola itu berwarna biru dan berbentuk bulat.",
+            "Bola itu terasa kasar saat diraba.",
+            "Bola itu berbunyi ketika diketuk.",
+            "Bola itu beraroma seperti karet."
+          ],
+          "answer": "Bola itu berwarna biru dan berbentuk bulat.",
+          "discussion": "Warna dan bentuk luar diamati melalui penglihatan; pilihan lain menggunakan sentuhan, pendengaran, dan penciuman."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-046",
+          "type": "PG",
+          "text": "Manakah contoh penggunaan indra yang keliru?",
+          "options": [
+            "Membedakan bunyi dua lonceng dengan telinga",
+            "Menentukan rasa asin hanya dari warna makanan",
+            "Membandingkan tekstur kain dengan kulit",
+            "Melihat pola pada daun dengan mata"
+          ],
+          "answer": "Menentukan rasa asin hanya dari warna makanan",
+          "discussion": "Warna tidak cukup untuk memastikan rasa asin; rasa dikenali terutama melalui pengecapan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-047",
+          "type": "PG",
+          "text": "Dua siswa melaporkan hasil pengamatan yang berbeda. Apa langkah yang membantu menyelidikinya?",
+          "options": [
+            "Langsung memilih siswa yang lebih tinggi",
+            "Menghapus laporan yang berbeda tanpa memeriksa",
+            "Mengulang pengamatan dengan kondisi yang sama",
+            "Mengikuti laporan teman yang paling keras berbicara"
+          ],
+          "answer": "Mengulang pengamatan dengan kondisi yang sama",
+          "discussion": "Pengamatan ulang membantu membandingkan bukti; tinggi badan atau suara keras bukan ukuran ketepatan laporan."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-048",
+          "type": "PG",
+          "text": "Apa persamaan kelima indra yang dipelajari?",
+          "options": [
+            "Semuanya hanya terletak pada wajah",
+            "Semuanya mengenali semua warna",
+            "Semuanya hanya bekerja ketika makan",
+            "Membantu menerima informasi dari lingkungan"
+          ],
+          "answer": "Membantu menerima informasi dari lingkungan",
+          "discussion": "Indra menerima jenis informasi yang berbeda; kulit terdapat di berbagai bagian tubuh dan bukan hanya wajah."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-049",
+          "type": "PG",
+          "text": "Mengapa menggunakan kacamata bukan alasan mengejek teman?",
+          "options": [
+            "Alat bantu mendukung kebutuhan penggunanya",
+            "Kacamata menunjukkan semua kemampuan belajar seseorang",
+            "Semua pemakai kacamata mempunyai kebutuhan yang sama",
+            "Kacamata membuat seseorang tidak boleh bermain"
+          ],
+          "answer": "Alat bantu mendukung kebutuhan penggunanya",
+          "discussion": "Alat bantu membantu akses dan kegiatan; pemakaiannya tidak menentukan nilai atau seluruh kemampuan seseorang."
+        },
+        {
+          "id": "K03-IPAS-B01-M01-050",
+          "type": "PG",
+          "text": "Apa yang perlu dilakukan jika pengamatan membuat tubuh terasa sakit?",
+          "options": [
+            "Teruskan sampai jawaban ditemukan",
+            "Hentikan kegiatan dan beri tahu orang dewasa tepercaya",
+            "Sembunyikan rasa sakit agar tidak mengganggu kelompok",
+            "Minta teman menekan bagian yang sakit"
+          ],
+          "answer": "Hentikan kegiatan dan beri tahu orang dewasa tepercaya",
+          "discussion": "Kegiatan pengamatan harus aman; rasa sakit adalah alasan berhenti dan meminta bantuan, bukan memaksakan percobaan."
+        }
+      ]
+    }
+  ]
+}
