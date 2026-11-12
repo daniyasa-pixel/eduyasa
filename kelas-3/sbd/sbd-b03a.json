@@ -1,0 +1,184 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Rupa",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-SBD-B03",
+      "chapter_title": "Ideku, Gagasanku",
+      "questions": [
+        {
+          "id": "K03-SBD-B03-M01-036",
+          "type": "PG",
+          "text": "Anak pada ilustrasi mengingat kegiatan sehari-hari sebagai sumber gambar. Ide karya dapat berasal dari ....",
+          "options": [
+            "hanya gambar orang lain",
+            "pengalaman sehari-hari",
+            "hanya televisi",
+            "hanya buku mahal"
+          ],
+          "answer": "pengalaman sehari-hari",
+          "discussion": "Ide karya dapat berasal dari pengalaman sehari-hari.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b03-gambar-01.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B03-M01-037",
+          "type": "PG",
+          "text": "Dua rancangan diperlihatkan; rancangan awal belum sesuai tujuan. Langkah yang sebaiknya dilakukan adalah ....",
+          "options": [
+            "menyalahkan teman",
+            "merusak alat",
+            "mencoba alternatif dan memperbaiki rancangan",
+            "langsung menyerah"
+          ],
+          "answer": "mencoba alternatif dan memperbaiki rancangan",
+          "discussion": "Saat ide pertama kurang cocok, kita dapat mencoba alternatif dan memperbaiki rancangan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b03-gambar-02.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B03-M01-038",
+          "type": "PG",
+          "text": "Perhatikan tiga bidang cat pada palet. Merah, oranye, dan kuning merupakan kelompok warna ....",
+          "options": [
+            "biru dan hijau saja",
+            "hitam dan putih saja",
+            "abu-abu saja",
+            "merah, oranye, dan kuning"
+          ],
+          "answer": "merah, oranye, dan kuning",
+          "discussion": "Warna hangat mencakup merah, oranye, dan kuning.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b03-gambar-03.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B03-M01-039",
+          "type": "PG",
+          "text": "Perhatikan pilihan warna biru dan hijau pada palet. Kelompok itu biasanya memberikan kesan ....",
+          "options": [
+            "biru dan hijau",
+            "merah dan oranye",
+            "kuning dan merah",
+            "cokelat dan oranye"
+          ],
+          "answer": "biru dan hijau",
+          "discussion": "Warna sejuk mencakup biru dan hijau.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b03-gambar-04.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B03-M01-040",
+          "type": "PG",
+          "text": "Pada rancangan, beberapa objek dipindahkan posisinya agar gambar seimbang. Aspek yang diperbaiki adalah ....",
+          "options": [
+            "harga kertas",
+            "penataan unsur dalam bidang gambar",
+            "jenis lem",
+            "ukuran kuas"
+          ],
+          "answer": "penataan unsur dalam bidang gambar",
+          "discussion": "Komposisi berarti penataan unsur dalam bidang gambar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b03-gambar-05.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B03-M01-041",
+          "type": "PG",
+          "text": "Ada satu objek yang sengaja dibuat paling terlihat pada poster. Bagian itu berfungsi ....",
+          "options": [
+            "tidak terlihat",
+            "harus dihapus",
+            "menarik perhatian utama",
+            "selalu tersembunyi"
+          ],
+          "answer": "menarik perhatian utama",
+          "discussion": "Titik fokus dalam gambar adalah bagian yang menarik perhatian utama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b03-gambar-06.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B03-M01-042",
+          "type": "PG",
+          "text": "Poster tentang penggunaan air memperlihatkan keran dan kalimat singkat. Unsur yang sesuai dengan pesannya adalah ....",
+          "options": [
+            "air terbuang tanpa pesan",
+            "hanya coretan acak",
+            "gambar tanpa hubungan",
+            "keran tertutup dan pesan singkat"
+          ],
+          "answer": "keran tertutup dan pesan singkat",
+          "discussion": "Rancangan poster hemat air dapat menampilkan keran tertutup dan pesan singkat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b03-gambar-07.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B03-M01-043",
+          "type": "PG",
+          "text": "Sebelum menggunakan bahan untuk karya, siswa mengecek apakah aman dan mudah diperoleh. Pertimbangan ini berkaitan dengan ....",
+          "options": [
+            "keamanan dan ketersediaan bahan",
+            "harga paling mahal saja",
+            "warna kemasan saja",
+            "merek terkenal saja"
+          ],
+          "answer": "keamanan dan ketersediaan bahan",
+          "discussion": "Memilih bahan berkarya perlu mempertimbangkan keamanan dan ketersediaan bahan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b03-gambar-08.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B03-M01-044",
+          "type": "PG",
+          "text": "Gambar inspirasi dan hasil rancangan pribadi diperlihatkan bersebelahan. Sikap kreatif yang diharapkan adalah ....",
+          "options": [
+            "meniru tanpa memahami",
+            "mengembangkan ide sendiri dengan jujur",
+            "menyalin karya teman lalu mengaku milik sendiri",
+            "menghapus nama pembuat"
+          ],
+          "answer": "mengembangkan ide sendiri dengan jujur",
+          "discussion": "Gagasan orisinal berarti mengembangkan ide sendiri dengan jujur.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b03-gambar-09.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B03-M01-045",
+          "type": "PG",
+          "text": "Tiga sketsa kecil memiliki tata letak berbeda. Mengapa siswa perlu membuat dan membandingkannya?",
+          "options": [
+            "menghilangkan ide",
+            "menghindari belajar",
+            "membandingkan pilihan komposisi",
+            "membuat kertas selalu basah"
+          ],
+          "answer": "membandingkan pilihan komposisi",
+          "discussion": "Membuat beberapa sketsa kecil membantu membandingkan pilihan komposisi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b03-gambar-10.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        }
+      ]
+    }
+  ]
+}
