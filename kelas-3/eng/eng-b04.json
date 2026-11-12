@@ -1,0 +1,469 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B04",
+      "chapter_title": "Do You Like Swimming?",
+      "questions": [
+        {
+          "id": "K03-ENG-B04-M01-001",
+          "type": "PG",
+          "text": "Which sentence tells your own hobby?",
+          "options": [
+            "He likes swimming.",
+            "I like swimming.",
+            "Do you like swimming?",
+            "They like swimming."
+          ],
+          "answer": "I like swimming.",
+          "discussion": "Use I like to tell an activity you enjoy."
+        },
+        {
+          "id": "K03-ENG-B04-M01-002",
+          "type": "PG",
+          "text": "Rara enjoys reading storybooks. What can she say?",
+          "options": [
+            "I likes reading storybooks.",
+            "I like read storybooks.",
+            "I like reading storybooks.",
+            "She like reading storybooks."
+          ],
+          "answer": "I like reading storybooks.",
+          "discussion": "After I like, use the activity form reading."
+        },
+        {
+          "id": "K03-ENG-B04-M01-003",
+          "type": "PG",
+          "text": "Which question asks a friend about swimming?",
+          "options": [
+            "Does you like swimming?",
+            "You like swimming?",
+            "Do he like swimming?",
+            "Do you like swimming?"
+          ],
+          "answer": "Do you like swimming?",
+          "discussion": "Use Do you like ...? when asking the person directly."
+        },
+        {
+          "id": "K03-ENG-B04-M01-004",
+          "type": "PG",
+          "text": "Doni answers, “Yes, I do.” Which question could come before it?",
+          "options": [
+            "Does Rina like football?",
+            "Do you like playing football?",
+            "What is your hobby?",
+            "Who likes football?"
+          ],
+          "answer": "Do you like playing football?",
+          "discussion": "Yes, I do answers a Do you ...? question."
+        },
+        {
+          "id": "K03-ENG-B04-M01-005",
+          "type": "PG",
+          "text": "Maya does not enjoy singing. Which answer fits “Do you like singing?”",
+          "options": [
+            "No, she doesn’t.",
+            "Yes, I do.",
+            "No, I don’t.",
+            "No, I do."
+          ],
+          "answer": "No, I don’t.",
+          "discussion": "A person answering about themself uses No, I don’t."
+        },
+        {
+          "id": "K03-ENG-B04-M01-006",
+          "type": "PG",
+          "text": "You ask Lila, “Do you like drawing?” She enjoys it. What should she answer?",
+          "options": [
+            "Yes, she does.",
+            "No, I don’t.",
+            "Yes, I like draw.",
+            "Yes, I do."
+          ],
+          "answer": "Yes, I do.",
+          "discussion": "Yes, I do is the short answer to Do you ...?"
+        },
+        {
+          "id": "K03-ENG-B04-M01-007",
+          "type": "PG",
+          "text": "Riko says, “I like riding a bike.” Report his hobby.",
+          "options": [
+            "Riko likes riding a bike.",
+            "Riko like riding a bike.",
+            "Riko likes ride a bike.",
+            "I likes riding a bike."
+          ],
+          "answer": "Riko likes riding a bike.",
+          "discussion": "Use likes for one other person and keep riding."
+        },
+        {
+          "id": "K03-ENG-B04-M01-008",
+          "type": "PG",
+          "text": "Complete the report: “Sinta ___ reading storybooks.”",
+          "options": [
+            "like",
+            "do",
+            "likes",
+            "is"
+          ],
+          "answer": "likes",
+          "discussion": "Sinta is one person, so the verb is likes."
+        },
+        {
+          "id": "K03-ENG-B04-M01-009",
+          "type": "PG",
+          "text": "Two friends enjoy football. Which sentence is correct?",
+          "options": [
+            "They likes playing football.",
+            "He like playing football.",
+            "They like play footballs.",
+            "They like playing football."
+          ],
+          "answer": "They like playing football.",
+          "discussion": "They takes like, and the activity is playing football."
+        },
+        {
+          "id": "K03-ENG-B04-M01-010",
+          "type": "PG",
+          "text": "Which question asks about one other person?",
+          "options": [
+            "Does your brother like swimming?",
+            "Do your brother like swimming?",
+            "Does your brother likes swimming?",
+            "Is your brother like swimming?"
+          ],
+          "answer": "Does your brother like swimming?",
+          "discussion": "Use Does + one person + like."
+        },
+        {
+          "id": "K03-ENG-B04-M01-011",
+          "type": "PG",
+          "text": "Ayu’s brother enjoys swimming. How does Ayu answer “Does your brother like swimming?”",
+          "options": [
+            "Yes, I do.",
+            "Yes, he does.",
+            "Yes, he do.",
+            "No, he doesn’t."
+          ],
+          "answer": "Yes, he does.",
+          "discussion": "He does is the short answer about Ayu’s brother."
+        },
+        {
+          "id": "K03-ENG-B04-M01-012",
+          "type": "PG",
+          "text": "Beni’s sister does not enjoy dancing. Which answer fits?",
+          "options": [
+            "No, she don’t.",
+            "No, I don’t.",
+            "Yes, she does.",
+            "No, she doesn’t."
+          ],
+          "answer": "No, she doesn’t.",
+          "discussion": "Use she doesn’t for one female person."
+        },
+        {
+          "id": "K03-ENG-B04-M01-013",
+          "type": "PG",
+          "text": "Which sentence correctly reports a hobby?",
+          "options": [
+            "Cici likes singing.",
+            "Cici like singing.",
+            "Cici likes sing.",
+            "Cici singing likes."
+          ],
+          "answer": "Cici likes singing.",
+          "discussion": "One person takes likes followed by the activity singing."
+        },
+        {
+          "id": "K03-ENG-B04-M01-014",
+          "type": "PG",
+          "text": "Complete the question: “___ Made like flying a kite?”",
+          "options": [
+            "Do",
+            "Does",
+            "Is",
+            "Has"
+          ],
+          "answer": "Does",
+          "discussion": "Use Does when asking about Made, one other person."
+        },
+        {
+          "id": "K03-ENG-B04-M01-015",
+          "type": "PG",
+          "text": "After Does, which form is correct?",
+          "options": [
+            "likes",
+            "liked",
+            "like",
+            "liking"
+          ],
+          "answer": "like",
+          "discussion": "Does already marks the third-person question, so the main verb stays like."
+        },
+        {
+          "id": "K03-ENG-B04-M01-016",
+          "type": "PG",
+          "text": "“Does Nara like drawing?” The survey says No. Choose the report.",
+          "options": [
+            "Nara doesn’t like drawing.",
+            "Nara don’t like drawing.",
+            "Nara doesn’t likes drawing.",
+            "Nara not like drawing."
+          ],
+          "answer": "Nara doesn’t like drawing.",
+          "discussion": "For one other person, use doesn’t like."
+        },
+        {
+          "id": "K03-ENG-B04-M01-017",
+          "type": "PG",
+          "text": "Tono likes swimming and reading. Which statement is supported?",
+          "options": [
+            "Tono dislikes swimming.",
+            "Tono likes two hobbies.",
+            "Tono likes only reading.",
+            "Tono has no hobby."
+          ],
+          "answer": "Tono likes two hobbies.",
+          "discussion": "The sentence names two activities that Tono likes."
+        },
+        {
+          "id": "K03-ENG-B04-M01-018",
+          "type": "PG",
+          "text": "A survey has Yes for cycling and No for dancing. Which report matches?",
+          "options": [
+            "She doesn’t like cycling or dancing.",
+            "She likes cycling and dancing.",
+            "She likes cycling, but she doesn’t like dancing.",
+            "She likes dancing, but not cycling."
+          ],
+          "answer": "She likes cycling, but she doesn’t like dancing.",
+          "discussion": "Yes marks cycling as liked and No marks dancing as not liked."
+        },
+        {
+          "id": "K03-ENG-B04-M01-019",
+          "type": "PG",
+          "text": "What does “hobby” mean in this unit?",
+          "options": [
+            "a meal eaten in the morning",
+            "a room at school",
+            "a number in a book",
+            "an activity someone likes doing"
+          ],
+          "answer": "an activity someone likes doing",
+          "discussion": "Unit 4 uses hobby for an activity a person enjoys."
+        },
+        {
+          "id": "K03-ENG-B04-M01-020",
+          "type": "PG",
+          "text": "Which activity needs a storybook in the unit?",
+          "options": [
+            "swimming",
+            "reading a storybook",
+            "riding a bike",
+            "playing football"
+          ],
+          "answer": "reading a storybook",
+          "discussion": "A storybook is used for reading."
+        },
+        {
+          "id": "K03-ENG-B04-M01-021",
+          "type": "PG",
+          "text": "Which phrase names an activity with a bicycle?",
+          "options": [
+            "playing a bike",
+            "reading a bike",
+            "riding a bike",
+            "swimming a bike"
+          ],
+          "answer": "riding a bike",
+          "discussion": "Riding a bike is the expression used for cycling."
+        },
+        {
+          "id": "K03-ENG-B04-M01-022",
+          "type": "PG",
+          "text": "Which phrase names the team ball activity in the unit?",
+          "options": [
+            "doing football",
+            "reading football",
+            "riding football",
+            "playing football"
+          ],
+          "answer": "playing football",
+          "discussion": "The unit uses playing football."
+        },
+        {
+          "id": "K03-ENG-B04-M01-023",
+          "type": "PG",
+          "text": "Which sentence keeps the same meaning as “Joshua enjoys swimming”?",
+          "options": [
+            "Joshua likes swimming.",
+            "Joshua doesn’t like swimming.",
+            "Does Joshua like swimming?",
+            "Joshua likes singing."
+          ],
+          "answer": "Joshua likes swimming.",
+          "discussion": "Likes swimming reports that swimming is an activity Joshua enjoys."
+        },
+        {
+          "id": "K03-ENG-B04-M01-024",
+          "type": "PG",
+          "text": "You do not know whether Wati likes drawing. What should you do?",
+          "options": [
+            "Mark Yes without asking.",
+            "Mark No without asking.",
+            "Ask Wati, “Do you like drawing?”",
+            "Copy another friend’s answer."
+          ],
+          "answer": "Ask Wati, “Do you like drawing?”",
+          "discussion": "A survey answer must come from Wati’s response."
+        },
+        {
+          "id": "K03-ENG-B04-M01-025",
+          "type": "PG",
+          "text": "A survey cell is blank. What does the blank safely mean?",
+          "options": [
+            "The answer is No.",
+            "The answer is Yes.",
+            "The hobby is impossible.",
+            "The answer has not been recorded."
+          ],
+          "answer": "The answer has not been recorded.",
+          "discussion": "A blank cell gives no recorded Yes or No answer."
+        },
+        {
+          "id": "K03-ENG-B04-M01-026",
+          "type": "PG",
+          "text": "Rani says Yes to swimming and singing. Which report matches?",
+          "options": [
+            "Rani likes swimming and singing.",
+            "Rani dislikes swimming.",
+            "Rani likes only singing.",
+            "Rani dislikes both hobbies."
+          ],
+          "answer": "Rani likes swimming and singing.",
+          "discussion": "Both recorded answers are Yes."
+        },
+        {
+          "id": "K03-ENG-B04-M01-027",
+          "type": "PG",
+          "text": "“Do you like reading?” “No, I don’t. I like drawing.” What does the speaker like?",
+          "options": [
+            "reading",
+            "drawing",
+            "reading and drawing",
+            "neither activity"
+          ],
+          "answer": "drawing",
+          "discussion": "The speaker rejects reading and then says they like drawing."
+        },
+        {
+          "id": "K03-ENG-B04-M01-028",
+          "type": "PG",
+          "text": "“Does Edo like football?” “Yes, he does.” Which full sentence matches?",
+          "options": [
+            "Edo doesn’t like football.",
+            "I like playing football.",
+            "Edo like playing football.",
+            "Edo likes playing football."
+          ],
+          "answer": "Edo likes playing football.",
+          "discussion": "Yes, he does confirms Edo’s football hobby."
+        },
+        {
+          "id": "K03-ENG-B04-M01-029",
+          "type": "PG",
+          "text": "Nina and Sari like watching TV. Replace their names with a pronoun.",
+          "options": [
+            "They like watching TV.",
+            "She likes watching TV.",
+            "He likes watching TV.",
+            "We likes watching TV."
+          ],
+          "answer": "They like watching TV.",
+          "discussion": "They refers to Nina and Sari together."
+        },
+        {
+          "id": "K03-ENG-B04-M01-030",
+          "type": "PG",
+          "text": "Which response politely gives a different hobby?",
+          "options": [
+            "No swimming.",
+            "No, I don’t. I like reading.",
+            "I not.",
+            "Reading yes."
+          ],
+          "answer": "No, I don’t. I like reading.",
+          "discussion": "The complete response answers No and then names the preferred hobby."
+        },
+        {
+          "id": "K03-ENG-B04-M01-031",
+          "type": "PG",
+          "text": "Put the words in the correct order: like / Do / swimming / you?",
+          "options": [
+            "You do like swimming?",
+            "Like you do swimming?",
+            "Do you like swimming?",
+            "Swimming do you like."
+          ],
+          "answer": "Do you like swimming?",
+          "discussion": "A yes/no question begins Do you like, then the activity."
+        },
+        {
+          "id": "K03-ENG-B04-M01-032",
+          "type": "PG",
+          "text": "Correct the sentence “He like singing.”",
+          "options": [
+            "He likes singing.",
+            "He like sings.",
+            "He does likes singing.",
+            "He liking singing."
+          ],
+          "answer": "He likes singing.",
+          "discussion": "He takes likes in a statement."
+        },
+        {
+          "id": "K03-ENG-B04-M01-033",
+          "type": "PG",
+          "text": "Correct the question “Does she likes dancing?”",
+          "options": [
+            "Do she likes dancing?",
+            "Does she like dancing?",
+            "Does she liking dancing?",
+            "She does like dancing."
+          ],
+          "answer": "Does she like dancing?",
+          "discussion": "After Does, use the base form like."
+        },
+        {
+          "id": "K03-ENG-B04-M01-034",
+          "type": "PG",
+          "text": "A class survey records five Yes answers for reading and two for swimming. Which hobby has more Yes answers?",
+          "options": [
+            "swimming",
+            "both are equal",
+            "reading",
+            "the survey gives no comparison"
+          ],
+          "answer": "reading",
+          "discussion": "Five is greater than two, so reading has more Yes answers."
+        },
+        {
+          "id": "K03-ENG-B04-M01-035",
+          "type": "PG",
+          "text": "A friend says, “I like swimming.” Which follow-up stays on the same topic?",
+          "options": [
+            "What do you have for dinner?",
+            "Is it behind the office?",
+            "How many books are there?",
+            "Do you like swimming at the pool?"
+          ],
+          "answer": "Do you like swimming at the pool?",
+          "discussion": "The follow-up still asks about the friend’s swimming hobby."
+        }
+      ]
+    }
+  ]
+}
