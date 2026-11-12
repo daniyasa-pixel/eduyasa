@@ -1,0 +1,22 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "K03-ENG-B01",
+  "chapter_title": "I Like Mi Aceh",
+  "modules": [
+    {
+      "id": "K03-ENG-B01-MOD-01",
+      "version": "MOD-01",
+      "title": "Ngobrol di kantin",
+      "content": "Mau bilang kamu suka sesuatu? Mulai dengan **I like**. Contohnya, **I like Mi Aceh.** Kalau mau tahu kesukaan teman, mulai dengan **Do you like ...?**\n\n- A: Do you like milk?\n- B: Yes, I do. Do you like fried chicken?\n- A: No, I don’t. I like noodles.\n\n**Yes, I do** berarti “Ya, aku suka.” **No, I don’t** berarti “Tidak, aku tidak suka.” Kamu juga bisa menyebut bendanya lagi, seperti **I don’t like tea.** Pada **Do you like it?**, kata **it** merujuk pada makanan atau minuman yang baru disebut. Untuk menambahkan kesukaan yang sama, ucapkan **I like it, too.**\n\n**Food (makanan)** — *rice* (nasi), *fried rice* (nasi goreng), *fried chicken* (ayam goreng), *noodles* (mi), *meatballs* (bakso), *bread* (roti), *bananas* (pisang), dan *ice cream* (es krim).\n\n**Drinks (minuman)** — *milk* (susu), *tea* (teh), dan *coffee* (kopi).\n\n![Contoh kartu survei kesukaan dengan legenda Yes dan No](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-materi-01.svg)\n\n**Coba sendiri.** Tunjuk dua gambar makanan atau minuman. Sebutkan namanya, lalu tanya teman, **Do you like ...?** Beri tanda centang untuk Yes dan silang untuk No. Dengarkan jawabannya sampai selesai. Gambar satu makanan yang kamu suka dan tulis **I like ...** di bawahnya."
+    },
+    {
+      "id": "K03-ENG-B01-MOD-02",
+      "version": "MOD-02",
+      "title": "Survei menu kelas",
+      "content": "Bayangkan kelompokmu sedang mencatat kesukaan teman. Baca menu dan pilih dua hal untuk ditanyakan.\n\n![Menu bergambar dengan roti, es krim, susu dan teh](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-materi-02.svg)\n\n| Food (makanan) | Drinks (minuman) |\n| --- | --- |\n| rice (nasi), fried rice (nasi goreng), fried chicken (ayam goreng), noodles (mi), meatballs (bakso), bread (roti), bananas (pisang), ice cream (es krim) | milk (susu), tea (teh), coffee (kopi) |\n\n1. Tanya **Do you like ice cream?** (“Kamu suka es krim?”).\n2. Jawab **Yes, I do.** atau **No, I don’t.** sesuai kesukaanmu. Pasanganmu mencatat Yes atau No.\n3. Tambahkan kesukaanmu dengan **I like Mi Aceh.** atau penolakan dengan **I don’t like coffee.**\n4. Kalau satu benda sudah disebut, coba pakai **it**. Contoh percakapan: **I like bread. Do you like it?** Jika kalian sama-sama suka, jawab **I like it, too.**\n\n**Tutup dengan gambar.** Gambar dua item dari menu. Tulis satu kalimat **I like ...** dan satu pertanyaan **Do you like ...?** Tukar hasil dengan teman dan bacakan pertanyaan bergantian. Ingat huruf kapital **I** dan tanda tanya di akhir pertanyaan.\n\n### Acuan Unit 1\n\n- [My Next Words Grade 3, buku siswa, Kemdikbudristek 2022, Unit 1, hlm. 1–12](https://static.perangkat-ajar.belajar.id/Buku%20Murid%20Bahasa%20Inggris%20-%20Bahasa%20Inggris%3A%20My%20Next%20Words%20Buku%20Siswa%20SD%20Kelas%20III%20BAB%201%20-%20Fase%20B.pdf)\n- [Teacher’s Book – My Next Words Grade 3, Kemdikbudristek 2022, Unit 1, tujuan pembelajaran](https://fliphtml5.com/wbjhr/dgev/BUKU_GURU_BAHASA_INGGRIS_KELAS_3/16/)"
+    }
+  ]
+}
