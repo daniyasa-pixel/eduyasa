@@ -1,0 +1,404 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PAI-B01",
+      "chapter_title": "Asyiknya Belajar Surah Al-'Alaq",
+      "questions": [
+        {
+          "id": "K03-PAI-B01-M01-001",
+          "type": "PG",
+          "text": "Saat belajar Surah Al-'Alaq ayat 1–5, perilaku apa yang paling membantu siswa memahami bacaan?",
+          "options": [
+            "Membaca buku lalu bertanya jika belum paham",
+            "Membaca judulnya lalu langsung menebak isi",
+            "Menyalin paragraf tanpa memikirkan maknanya",
+            "Membaca cepat dan melewatkan bagian sulit"
+          ],
+          "answer": "Membaca buku lalu bertanya jika belum paham",
+          "discussion": "Ayat-ayat awal Surah Al-'Alaq mengajarkan pentingnya membaca dan ilmu. Bertanya ketika belum paham membantu proses belajar."
+        },
+        {
+          "id": "K03-PAI-B01-M01-002",
+          "type": "PG",
+          "text": "Guru mengajak siswa mengingat kata pembuka wahyu pertama. Kata yang dimaksud adalah ....",
+          "options": [
+            "Amin",
+            "Iqra'",
+            "Salam",
+            "Takbir"
+          ],
+          "answer": "Iqra'",
+          "discussion": "Iqra' berarti bacalah dan merupakan kata pembuka wahyu pertama yang diterima Nabi Muhammad saw."
+        },
+        {
+          "id": "K03-PAI-B01-M01-003",
+          "type": "PG",
+          "text": "Siswa ingin mencari Surah Al-'Alaq dalam mushaf. Surah tersebut bernomor ....",
+          "options": [
+            "95",
+            "97",
+            "96",
+            "98"
+          ],
+          "answer": "96",
+          "discussion": "Surah Al-'Alaq adalah surah ke-96 dalam Al-Qur'an."
+        },
+        {
+          "id": "K03-PAI-B01-M01-004",
+          "type": "PG",
+          "text": "Dalam pelajaran ini siswa membaca bagian awal Surah Al-'Alaq. Bagian awal yang dikenal sebagai wahyu pertama terdiri atas ....",
+          "options": [
+            "3 ayat",
+            "4 ayat",
+            "6 ayat",
+            "5 ayat"
+          ],
+          "answer": "5 ayat",
+          "discussion": "Lima ayat pertama Surah Al-'Alaq dikenal sebagai wahyu pertama yang diterima Nabi Muhammad saw."
+        },
+        {
+          "id": "K03-PAI-B01-M01-005",
+          "type": "PG",
+          "text": "Saat membaca huruf qalqalah dalam keadaan sukun, cara membacanya yang tepat ialah ....",
+          "options": [
+            "Memantulkan bunyi huruf sesuai kaidah tajwid",
+            "Selalu memanjangkan enam harakat",
+            "Menghilangkan huruf",
+            "Mengganti huruf menjadi alif"
+          ],
+          "answer": "Memantulkan bunyi huruf sesuai kaidah tajwid",
+          "discussion": "Qalqalah adalah pantulan bunyi pada huruf tertentu ketika sukun, bukan pemanjangan bacaan."
+        },
+        {
+          "id": "K03-PAI-B01-M01-006",
+          "type": "PG",
+          "text": "Kelompok huruf qalqalah dapat diingat dengan ungkapan ....",
+          "options": [
+            "Alif lam mim",
+            "Quthbu jaddin",
+            "Nun mim waw",
+            "Ha kha 'ain"
+          ],
+          "answer": "Quthbu jaddin",
+          "discussion": "Ungkapan quthbu jaddin merangkum lima huruf qalqalah: qaf, ṭa (ط), ba, jim, dan dal."
+        },
+        {
+          "id": "K03-PAI-B01-M01-007",
+          "type": "PG",
+          "text": "Ayat keempat Surah Al-'Alaq menyebut bahwa Allah mengajar dengan perantaraan ....",
+          "options": [
+            "Kitab",
+            "Mushaf",
+            "Qalam atau pena",
+            "Lisan"
+          ],
+          "answer": "Qalam atau pena",
+          "discussion": "Surah Al-'Alaq ayat 4 menyebut pengajaran dengan qalam, yang menunjukkan pentingnya ilmu dan tulisan."
+        },
+        {
+          "id": "K03-PAI-B01-M01-008",
+          "type": "PG",
+          "text": "Rafa tidak memahami arti kata dalam bacaan. Sikap yang sesuai dengan semangat belajar ialah ....",
+          "options": [
+            "Berpura-pura sudah paham",
+            "Mengejek teman yang bertanya",
+            "Berhenti belajar selamanya",
+            "Bertanya dengan sopan kepada guru"
+          ],
+          "answer": "Bertanya dengan sopan kepada guru",
+          "discussion": "Bertanya dengan sopan merupakan cara mencari ilmu ketika belum memahami pelajaran."
+        },
+        {
+          "id": "K03-PAI-B01-M01-009",
+          "type": "PG",
+          "text": "Dua siswa berbeda kemampuan membaca Al-Qur'an. Sikap yang tepat adalah ....",
+          "options": [
+            "Saling membantu berlatih tanpa mengejek",
+            "Menertawakan yang belum lancar",
+            "Melarang teman belajar",
+            "Membandingkan dengan kasar"
+          ],
+          "answer": "Saling membantu berlatih tanpa mengejek",
+          "discussion": "Belajar Al-Qur'an memerlukan latihan. Saling membantu dan menjaga adab lebih baik daripada mengejek."
+        },
+        {
+          "id": "K03-PAI-B01-M01-010",
+          "type": "PG",
+          "text": "Ketika membaca Al-Qur'an, siswa menemukan bacaan yang belum benar. Langkah yang tepat ialah ....",
+          "options": [
+            "Menebak tanpa belajar",
+            "Meminta bimbingan guru dan berlatih lagi",
+            "Meninggalkan semua latihan",
+            "Mengubah huruf sesuka hati"
+          ],
+          "answer": "Meminta bimbingan guru dan berlatih lagi",
+          "discussion": "Bimbingan guru membantu memperbaiki makhraj dan tajwid agar bacaan lebih tepat."
+        },
+        {
+          "id": "K03-PAI-B01-M01-011",
+          "type": "PG",
+          "text": "Di ayat pertama, perintah membaca disertai petunjuk untuk menyebut nama siapa?",
+          "options": [
+            "Nama guru yang membimbing",
+            "Nama orang yang menulis",
+            "Nama Tuhan yang menciptakan",
+            "Nama orang yang mendengarkan"
+          ],
+          "answer": "Nama Tuhan yang menciptakan",
+          "discussion": "Perintah membaca pada ayat 1 dikaitkan dengan nama Tuhan yang menciptakan."
+        },
+        {
+          "id": "K03-PAI-B01-M01-012",
+          "type": "PG",
+          "text": "Kata عَلَقٍ dalam bagian yang sedang dipelajari ada pada ayat berapa?",
+          "options": [
+            "Ayat 1",
+            "Ayat 3",
+            "Ayat 4",
+            "Ayat 2"
+          ],
+          "answer": "Ayat 2",
+          "discussion": "Ayat 2 menyebut asal penciptaan manusia dan memuat kata yang menjadi nama surah."
+        },
+        {
+          "id": "K03-PAI-B01-M01-013",
+          "type": "PG",
+          "text": "Ayat mana yang menyandingkan perintah membaca dengan penyebutan Tuhan Yang Mahamulia?",
+          "options": [
+            "Ayat 3",
+            "Ayat 1",
+            "Ayat 2",
+            "Ayat 5"
+          ],
+          "answer": "Ayat 3",
+          "discussion": "Perintah membaca muncul lagi pada ayat 3, kali ini diikuti penyebutan Tuhan Yang Mahamulia."
+        },
+        {
+          "id": "K03-PAI-B01-M01-014",
+          "type": "PG",
+          "text": "Apa yang diajarkan Allah kepada manusia menurut ayat 5?",
+          "options": [
+            "Hanya cara memakai pena",
+            "Apa yang sebelumnya tidak ia ketahui",
+            "Hanya cara membaca huruf",
+            "Apa yang sudah ia kuasai"
+          ],
+          "answer": "Apa yang sebelumnya tidak ia ketahui",
+          "discussion": "Ayat 5 menyebut ilmu yang semula belum diketahui manusia. Pena dibicarakan pada ayat sebelumnya."
+        },
+        {
+          "id": "K03-PAI-B01-M01-015",
+          "type": "PG",
+          "text": "Catatan kelompok menaruh pesan tentang pena sebelum pesan tentang Tuhan Yang Mahamulia. Apa perbaikan urutannya?",
+          "options": [
+            "Pesan tentang pena lalu pesan penciptaan manusia",
+            "Pesan tentang pena lalu perintah pertama membaca",
+            "Pesan tentang Tuhan Yang Mahamulia lalu pesan tentang pena",
+            "Kedua pesan digabung sebagai isi ayat 2"
+          ],
+          "answer": "Pesan tentang Tuhan Yang Mahamulia lalu pesan tentang pena",
+          "discussion": "Penyebutan Tuhan Yang Mahamulia ada pada ayat 3 dan pena pada ayat 4."
+        },
+        {
+          "id": "K03-PAI-B01-M01-016",
+          "type": "PG",
+          "text": "Ketika membaca اِقْرَأْ, huruf mana yang dipantulkan?",
+          "options": [
+            "ر",
+            "ا",
+            "ء",
+            "ق"
+          ],
+          "answer": "ق",
+          "discussion": "Huruf ق pada kata itu bersukun dan termasuk huruf qalqalah. Hamzah di akhir kata juga bersukun, tetapi tidak termasuk kelompok huruf qalqalah."
+        },
+        {
+          "id": "K03-PAI-B01-M01-017",
+          "type": "PG",
+          "text": "Pada خَلَقَ di akhir ayat 1, apa yang terjadi pada ق ketika pembaca berhenti?",
+          "options": [
+            "Dibaca mati dengan pantulan",
+            "Dibaca hidup dengan bunyi a",
+            "Dipanjangkan seperti alif",
+            "Dilewati dan tidak dibaca"
+          ],
+          "answer": "Dibaca mati dengan pantulan",
+          "discussion": "Ketika berhenti pada akhir kata ini, qaf menjadi mati sehingga dibaca dengan qalqalah kubra."
+        },
+        {
+          "id": "K03-PAI-B01-M01-018",
+          "type": "PG",
+          "text": "Huruf ق pada اِقْرَأْ sudah bersukun saat bacaan diteruskan. Apa jenis qalqalahnya?",
+          "options": [
+            "Qalqalah kubra",
+            "Qalqalah sugra",
+            "Mad",
+            "Idgam"
+          ],
+          "answer": "Qalqalah sugra",
+          "discussion": "Sukun pada qaf sudah ada dalam kata. Pantulannya ringan dan tidak menunggu pembaca berhenti."
+        },
+        {
+          "id": "K03-PAI-B01-M01-019",
+          "type": "PG",
+          "text": "Dalam اِقْرَأْ, ada dua huruf bersukun. Apa syarat tambahan untuk mendapat pantulan qalqalah?",
+          "options": [
+            "Huruf yang bersukun berada di akhir kata",
+            "Huruf yang bersukun didahului alif",
+            "Huruf yang bersukun termasuk ق ط ب ج د",
+            "Huruf yang bersukun harus berupa hamzah"
+          ],
+          "answer": "Huruf yang bersukun termasuk ق ط ب ج د",
+          "discussion": "Sukun saja belum cukup. Pantulan hanya berlaku untuk lima huruf qalqalah."
+        },
+        {
+          "id": "K03-PAI-B01-M01-020",
+          "type": "PG",
+          "text": "Saat berhenti di akhir ayat 5 pada يَعْلَمْ, mengapa mim tidak dipantulkan?",
+          "options": [
+            "Semua huruf terakhir harus dipanjangkan",
+            "Qalqalah hanya dapat muncul pada ayat 1",
+            "Sukun pada mim perlu diubah menjadi fathah",
+            "Mim tidak termasuk huruf qalqalah"
+          ],
+          "answer": "Mim tidak termasuk huruf qalqalah",
+          "discussion": "Mim tetap dibaca mati sesuai bunyinya. Kelompok qalqalah terdiri atas qaf, tha, ba, jim, dan dal."
+        },
+        {
+          "id": "K03-PAI-B01-M01-021",
+          "type": "PG",
+          "text": "Saat berlatih mengucapkan qaf bersukun, Hasan menambah bunyi vokal a setelah pantulan. Apa yang perlu ia perbaiki?",
+          "options": [
+            "Pertahankan pantulan tanpa menambahkan vokal",
+            "Panjangkan bunyi a agar lebih terdengar",
+            "Ubah sukun menjadi fathah",
+            "Lewati qaf saat membaca"
+          ],
+          "answer": "Pertahankan pantulan tanpa menambahkan vokal",
+          "discussion": "Qalqalah memberi pantulan pada huruf mati. Menambahkan bunyi a akan membuatnya terdengar seperti huruf berfathah."
+        },
+        {
+          "id": "K03-PAI-B01-M01-022",
+          "type": "PG",
+          "text": "Guru meminta murid membandingkan qaf pada اِقْرَأْ dan qaf ketika berhenti pada خَلَقَ. Apa yang membedakan keduanya?",
+          "options": [
+            "Keduanya mati karena berhenti",
+            "Yang pertama bersukun sejak awal, yang kedua mati karena berhenti",
+            "Yang pertama dibaca panjang, yang kedua tidak dibaca",
+            "Yang pertama berfathah, yang kedua sejak awal bersukun"
+          ],
+          "answer": "Yang pertama bersukun sejak awal, yang kedua mati karena berhenti",
+          "discussion": "Sukun asli dan sukun karena berhenti menjadi dasar pembedaan sugra dan kubra pada dua contoh ini."
+        },
+        {
+          "id": "K03-PAI-B01-M01-023",
+          "type": "PG",
+          "text": "Dita menyalin sebuah potongan ayat ke buku tulis. Dari sisi mana ia mulai menulis teks Arab?",
+          "options": [
+            "Dari kiri menuju kanan",
+            "Dari tengah menuju kanan",
+            "Dari kanan menuju kiri",
+            "Dari tengah menuju kiri"
+          ],
+          "answer": "Dari kanan menuju kiri",
+          "discussion": "Arah penulisan teks Arab adalah dari kanan ke kiri. Letakkan contoh di posisi yang mudah dilihat saat menyalin."
+        },
+        {
+          "id": "K03-PAI-B01-M01-024",
+          "type": "PG",
+          "text": "Sesudah menyalin satu ayat, Rina ingin memastikan sukunnya tidak tertinggal. Apa yang perlu ia bandingkan?",
+          "options": [
+            "Hanya jumlah barisnya",
+            "Hanya ukuran hurufnya",
+            "Hanya kata terakhirnya",
+            "Setiap huruf beserta tanda bacanya"
+          ],
+          "answer": "Setiap huruf beserta tanda bacanya",
+          "discussion": "Sukun adalah salah satu tanda baca. Membandingkan seluruh huruf dan tanda membantu menemukan bagian yang terlewat."
+        },
+        {
+          "id": "K03-PAI-B01-M01-025",
+          "type": "PG",
+          "text": "Dua tulisan menyalin urutan huruf yang sama. Tulisan pertama menyambung huruf yang seharusnya terpisah. Apa yang perlu diperiksa bersama guru?",
+          "options": [
+            "Cara menyambung setiap huruf",
+            "Jumlah ayat dalam seluruh surah",
+            "Tempat turunnya ayat",
+            "Arti semua kata pada surah"
+          ],
+          "answer": "Cara menyambung setiap huruf",
+          "discussion": "Dalam tulisan Arab, aturan sambungan bergantung pada bentuk huruf. Menyalin urutan huruf saja belum memeriksa sambungannya."
+        },
+        {
+          "id": "K03-PAI-B01-M01-026",
+          "type": "PG",
+          "text": "Fikri sering lupa ayat setelah ayat 2. Latihan mana yang langsung membantu masalah itu?",
+          "options": [
+            "Ulangi nomor surah beberapa kali",
+            "Latih peralihan dari ayat 2 ke ayat 3 dengan menyimak mushaf",
+            "Salin nama surah di sampul buku",
+            "Latih ayat 5 saja tanpa ayat sebelumnya"
+          ],
+          "answer": "Latih peralihan dari ayat 2 ke ayat 3 dengan menyimak mushaf",
+          "discussion": "Berlatih pada bagian yang sering terlewat membantu menjaga urutan hafalan."
+        },
+        {
+          "id": "K03-PAI-B01-M01-027",
+          "type": "PG",
+          "text": "Temanmu hafal lima ayat, tetapi belum bisa menceritakan maknanya. Latihan mana yang membantunya memahami pesan ayat 4?",
+          "options": [
+            "Hitung jumlah kata tanpa melihat maknanya",
+            "Sebutkan nomor surah berulang kali",
+            "Baca makna ayat lalu beri contoh manfaat mencatat",
+            "Tulis nama surah dengan warna berbeda"
+          ],
+          "answer": "Baca makna ayat lalu beri contoh manfaat mencatat",
+          "discussion": "Ayat 4 menyebut pena. Contoh mencatat pelajaran menghubungkan isi ayat dengan pengalaman sehari-hari."
+        },
+        {
+          "id": "K03-PAI-B01-M01-028",
+          "type": "PG",
+          "text": "Nisa dapat menjawab soal tajwid tertulis. Bagaimana guru dapat memeriksa apakah ia bisa melafalkannya?",
+          "options": [
+            "Minta Nisa menulis nomor ayat",
+            "Minta Nisa memilih arti kata pena",
+            "Minta Nisa menyebut nama surah",
+            "Minta Nisa membaca contoh dengan suara terdengar"
+          ],
+          "answer": "Minta Nisa membaca contoh dengan suara terdengar",
+          "discussion": "Praktik membaca memungkinkan guru mendengar bunyi huruf dan pantulannya."
+        },
+        {
+          "id": "K03-PAI-B01-M01-029",
+          "type": "PG",
+          "text": "Saat membaca bergantian, Jamil melihat temannya berhenti karena ragu. Bantuan apa yang paling tepat?",
+          "options": [
+            "Tunggu sebentar lalu tawarkan untuk menyimak bersama",
+            "Langsung baca keras bersamaan sejak awal",
+            "Pindahkan giliran tanpa memberi kesempatan",
+            "Hitung berapa kali ia berhenti dan umumkan"
+          ],
+          "answer": "Tunggu sebentar lalu tawarkan untuk menyimak bersama",
+          "discussion": "Memberi waktu dan menawarkan bantuan menjaga giliran sekaligus membantu teman kembali mengikuti bacaan."
+        },
+        {
+          "id": "K03-PAI-B01-M01-030",
+          "type": "PG",
+          "text": "Setelah membaca buku tentang cara merawat tanaman, Rani membuat catatan untuk dipakai besok. Pesan mana yang paling tampak dari tindakannya?",
+          "options": [
+            "Menghafal semua kalimat tanpa memahami isinya",
+            "Membaca untuk belajar dan menulis agar ilmu bisa digunakan lagi",
+            "Mempercepat bacaan untuk mengejar banyak halaman",
+            "Mengutamakan tulisan rapi meski petunjuk tidak dipahami"
+          ],
+          "answer": "Membaca untuk belajar dan menulis agar ilmu bisa digunakan lagi",
+          "discussion": "Rani memperoleh pengetahuan lewat bacaan dan menyimpannya melalui catatan, sesuai kaitan membaca dan pena dalam ayat 1–5."
+        }
+      ]
+    }
+  ]
+}
