@@ -1,0 +1,184 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B08",
+      "chapter_title": "I Drink Orange Juice in the Canteen",
+      "questions": [
+        {
+          "id": "K03-ENG-B08-M01-036",
+          "type": "PG",
+          "text": "Which drink is shown?",
+          "options": [
+            "orange juice",
+            "noodles",
+            "milk",
+            "classroom"
+          ],
+          "answer": "orange juice",
+          "discussion": "Gambar menunjukkan \"orange juice\" (jus jeruk).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-01.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-037",
+          "type": "PG",
+          "text": "What liquid is pictured?",
+          "options": [
+            "orange juice",
+            "tea",
+            "library",
+            "water"
+          ],
+          "answer": "water",
+          "discussion": "Gambar menunjukkan \"water\" (air).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-02.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-038",
+          "type": "PG",
+          "text": "Which drink appears in the picture?",
+          "options": [
+            "canteen",
+            "bread",
+            "milk",
+            "water"
+          ],
+          "answer": "milk",
+          "discussion": "Gambar menunjukkan \"milk\" (susu).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-03.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-039",
+          "type": "PG",
+          "text": "Which word names the pictured beverage?",
+          "options": [
+            "rice",
+            "tea",
+            "milk",
+            "classroom"
+          ],
+          "answer": "tea",
+          "discussion": "Gambar menunjukkan \"tea\" (teh).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-04.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-040",
+          "type": "PG",
+          "text": "Which school place is pictured?",
+          "options": [
+            "canteen",
+            "tea",
+            "library",
+            "noodles"
+          ],
+          "answer": "canteen",
+          "discussion": "Gambar menunjukkan \"canteen\" (kantin).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-05.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-041",
+          "type": "PG",
+          "text": "Where do students study in the picture?",
+          "options": [
+            "canteen",
+            "bread",
+            "orange juice",
+            "classroom"
+          ],
+          "answer": "classroom",
+          "discussion": "Gambar menunjukkan \"classroom\" (kelas).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-06.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-042",
+          "type": "PG",
+          "text": "Which place is used to read books?",
+          "options": [
+            "rice",
+            "water",
+            "library",
+            "classroom"
+          ],
+          "answer": "library",
+          "discussion": "Gambar menunjukkan \"library\" (perpustakaan).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-07.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-043",
+          "type": "PG",
+          "text": "Which food is pictured?",
+          "options": [
+            "milk",
+            "bread",
+            "library",
+            "noodles"
+          ],
+          "answer": "bread",
+          "discussion": "Gambar menunjukkan \"bread\" (roti).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-08.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-044",
+          "type": "PG",
+          "text": "What food appears in the image?",
+          "options": [
+            "rice",
+            "bread",
+            "orange juice",
+            "tea"
+          ],
+          "answer": "rice",
+          "discussion": "Gambar menunjukkan \"rice\" (nasi).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-09.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B08-M01-045",
+          "type": "PG",
+          "text": "Which food is shown here?",
+          "options": [
+            "rice",
+            "water",
+            "canteen",
+            "noodles"
+          ],
+          "answer": "noodles",
+          "discussion": "Gambar menunjukkan \"noodles\" (mi).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-10.svg",
+            "alt": "Picture"
+          }
+        }
+      ]
+    }
+  ]
+}
