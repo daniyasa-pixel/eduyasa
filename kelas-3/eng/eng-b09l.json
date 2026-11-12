@@ -1,0 +1,109 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B09",
+      "chapter_title": "My Classroom Is Clean",
+      "questions": [
+        {
+          "id": "K03-ENG-B09-M01-046",
+          "type": "PG",
+          "text": "Listen carefully. How is the classroom described?",
+          "options": [
+            "dirty",
+            "messy",
+            "clean",
+            "dark"
+          ],
+          "answer": "clean",
+          "discussion": "The room is called clean.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "My classroom is clean. The floor has no rubbish.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-047",
+          "type": "PG",
+          "text": "Listen carefully. Which adjective describes the shoes?",
+          "options": [
+            "bright",
+            "dirty",
+            "quiet",
+            "tidy"
+          ],
+          "answer": "dirty",
+          "discussion": "The audio says dirty.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "The shoes are dirty after the rain.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-048",
+          "type": "PG",
+          "text": "Listen carefully. How is the lighting described?",
+          "options": [
+            "dark",
+            "noisy",
+            "bright",
+            "messy"
+          ],
+          "answer": "bright",
+          "discussion": "Bright describes the light.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "The room is small, but it is bright.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-049",
+          "type": "PG",
+          "text": "Listen carefully. How are the books described?",
+          "options": [
+            "messy",
+            "dirty",
+            "big",
+            "tidy"
+          ],
+          "answer": "tidy",
+          "discussion": "Books are described as tidy.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "The books are tidy on the shelf.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-050",
+          "type": "PG",
+          "text": "Listen carefully. Which adjective describes the classroom?",
+          "options": [
+            "noisy",
+            "quiet",
+            "dirty",
+            "small"
+          ],
+          "answer": "quiet",
+          "discussion": "The answer corrects noisy to quiet.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Is the classroom noisy? No, it is quiet.",
+            "rate": 0.85
+          }
+        }
+      ]
+    }
+  ]
+}
