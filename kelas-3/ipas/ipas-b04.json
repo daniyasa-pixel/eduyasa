@@ -1,0 +1,664 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B04",
+      "chapter_title": "Siklus Hidup yang Menakjubkan",
+      "questions": [
+        {
+          "id": "K03-IPAS-B04-M01-001",
+          "type": "PG",
+          "text": "Mengapa daur hidup ayam sering digambar dengan panah dari ayam dewasa menuju telur?",
+          "options": [
+            "Ayam betina dewasa dapat menghasilkan telur untuk generasi berikutnya",
+            "Tubuh ayam dewasa mengecil menjadi telur yang sama",
+            "Setiap anak ayam langsung menghasilkan telur",
+            "Ayam dewasa tidak mengalami akhir kehidupan"
+          ],
+          "answer": "Ayam betina dewasa dapat menghasilkan telur untuk generasi berikutnya",
+          "discussion": "Panah menunjukkan perkembangbiakan dan awal generasi baru, bukan ayam dewasa kembali menjadi telur."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-002",
+          "type": "PG",
+          "text": "Anak kucing dan induknya mempunyai bentuk tubuh dasar yang mirip. Perubahan yang terutama tampak saat anak kucing tumbuh ialah ...",
+          "options": [
+            "Tubuhnya terbungkus pupa",
+            "Ukuran tubuhnya bertambah",
+            "Tubuhnya berubah menjadi jenis hewan lain",
+            "Ia melewati tahap berudu"
+          ],
+          "answer": "Ukuran tubuhnya bertambah",
+          "discussion": "Kucing tumbuh membesar tanpa tahap larva dan pupa seperti kupu-kupu."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-003",
+          "type": "PG",
+          "text": "Ulat pada tanaman yang diamati guru kemudian membentuk pupa. Hewan apakah yang sedang diamati daur hidupnya?",
+          "options": [
+            "Ayam",
+            "Kucing",
+            "Kupu-kupu",
+            "Jangkrik"
+          ],
+          "answer": "Kupu-kupu",
+          "discussion": "Ulat merupakan larva kupu-kupu; setelah pupa, muncul kupu-kupu dewasa. Tiga hewan lain tidak mempunyai tahap ulat dan pupa."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-004",
+          "type": "PG",
+          "text": "Apa yang berlangsung di dalam pupa kupu-kupu meskipun dari luar tampak diam?",
+          "options": [
+            "Seluruh proses kehidupan berhenti selamanya",
+            "Pupa sedang kembali menjadi telur",
+            "Pupa tidak mengalami perubahan sampai keluar",
+            "Tubuh mengalami perubahan menuju bentuk dewasa"
+          ],
+          "answer": "Tubuh mengalami perubahan menuju bentuk dewasa",
+          "discussion": "Pupa adalah tahap perubahan tubuh; tampak diam bukan berarti tidak berlangsung perkembangan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-005",
+          "type": "PG",
+          "text": "Ciri yang membedakan metamorfosis sempurna kupu-kupu dari metamorfosis tidak sempurna jangkrik ialah ...",
+          "options": [
+            "Kupu-kupu melalui tahap pupa",
+            "Hanya kupu-kupu yang berasal dari telur",
+            "Jangkrik tidak mengalami pertumbuhan",
+            "Kupu-kupu tidak mempunyai tahap dewasa"
+          ],
+          "answer": "Kupu-kupu melalui tahap pupa",
+          "discussion": "Keduanya bertelur dan tumbuh, tetapi hanya daur kupu-kupu di antara dua contoh ini yang mempunyai pupa."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-006",
+          "type": "PG",
+          "text": "Hewan muda jangkrik disebut nimfa. Dibanding jangkrik dewasa, nimfa umumnya ...",
+          "options": [
+            "Berbentuk ulat tanpa kaki",
+            "Mirip bentuk dasarnya tetapi lebih kecil dan sayapnya belum sempurna",
+            "Terbungkus pupa sepanjang pertumbuhan",
+            "Sudah berukuran sama dan tidak tumbuh lagi"
+          ],
+          "answer": "Mirip bentuk dasarnya tetapi lebih kecil dan sayapnya belum sempurna",
+          "discussion": "Nimfa menyerupai bentuk dasar jangkrik dewasa; ukuran dan kelengkapan sayap berubah saat tumbuh."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-007",
+          "type": "PG",
+          "text": "Teman berkata, “Semua hewan yang bertelur pasti melalui tahap pupa.” Contoh yang membantah pendapat itu ialah ...",
+          "options": [
+            "Kupu-kupu yang mempunyai pupa",
+            "Lebah yang mempunyai pupa",
+            "Ayam yang menetas lalu tumbuh menjadi ayam dewasa",
+            "Nyamuk yang mempunyai pupa"
+          ],
+          "answer": "Ayam yang menetas lalu tumbuh menjadi ayam dewasa",
+          "discussion": "Ayam bertelur tetapi tidak mempunyai pupa. Cara bertelur saja tidak menentukan adanya tahap pupa."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-008",
+          "type": "PG",
+          "text": "Urutan perubahan yang sesuai pada daur katak yang biasa dipelajari ialah ...",
+          "options": [
+            "Telur → pupa → berudu → katak muda",
+            "Telur → katak muda → berudu → berudu berkaki",
+            "Berudu → telur → pupa → katak muda",
+            "Telur → berudu → berudu berkaki → katak muda"
+          ],
+          "answer": "Telur → berudu → berudu berkaki → katak muda",
+          "discussion": "Pada contoh katak ini, berudu tumbuh kaki dan ekornya berangsur memendek sebelum menjadi katak muda."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-009",
+          "type": "PG",
+          "text": "Berudu pada contoh daur katak hidup di air. Mengapa tidak tepat memindahkannya ke wadah kering untuk diamati?",
+          "options": [
+            "Lingkungan kering tidak memenuhi kebutuhan hidup berudu",
+            "Berudu harus dikeringkan agar tumbuh kaki",
+            "Semua tahap katak hanya dapat hidup di tanah kering",
+            "Berudu berhenti membutuhkan air setelah menetas"
+          ],
+          "answer": "Lingkungan kering tidak memenuhi kebutuhan hidup berudu",
+          "discussion": "Berudu memerlukan lingkungan air yang sesuai; pengamatan tidak boleh merusak tempat hidupnya."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-010",
+          "type": "PG",
+          "text": "Perubahan yang merupakan metamorfosis, bukan sekadar membesar, ialah ...",
+          "options": [
+            "Anak kucing bertambah berat",
+            "Berudu berekor berubah menjadi katak berkaki",
+            "Anak sapi bertambah tinggi",
+            "Anak ayam bertambah besar"
+          ],
+          "answer": "Berudu berekor berubah menjadi katak berkaki",
+          "discussion": "Bentuk dan cara hidup berudu berbeda nyata dari katak, sedangkan contoh lain terutama perubahan ukuran tubuh."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-011",
+          "type": "PG",
+          "text": "Apa persamaan daur hidup kucing dan kupu-kupu?",
+          "options": [
+            "Keduanya mempunyai tahap pupa",
+            "Keduanya lahir sebagai ulat",
+            "Keduanya tumbuh dan dapat menghasilkan keturunan ketika dewasa",
+            "Keduanya menetas dari telur di luar tubuh induk"
+          ],
+          "answer": "Keduanya tumbuh dan dapat menghasilkan keturunan ketika dewasa",
+          "discussion": "Tahapan khususnya berbeda, tetapi keduanya mengalami pertumbuhan dan dapat berkembang biak ketika dewasa."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-012",
+          "type": "PG",
+          "text": "Bagian daur hidup yang menjaga agar suatu jenis makhluk hidup tetap mempunyai generasi baru ialah ...",
+          "options": [
+            "Perpindahan tempat tinggal saja",
+            "Pertambahan ukuran tubuh saja",
+            "Perubahan warna tubuh saja",
+            "Perkembangbiakan"
+          ],
+          "answer": "Perkembangbiakan",
+          "discussion": "Perkembangbiakan menghasilkan individu baru; membesar atau berpindah tempat saja tidak menghasilkan keturunan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-013",
+          "type": "PG",
+          "text": "Apakah setiap telur ayam yang dibeli di pasar pasti dapat menetas?",
+          "options": [
+            "Tidak, telur perlu dibuahi dan mendapat kondisi pengeraman yang sesuai",
+            "Ya, asal cangkangnya berwarna cokelat",
+            "Ya, semua telur akan menetas jika dicuci",
+            "Tidak, ayam tidak pernah berkembang dalam telur"
+          ],
+          "answer": "Tidak, telur perlu dibuahi dan mendapat kondisi pengeraman yang sesuai",
+          "discussion": "Tidak semua telur merupakan telur yang dibuahi; telur yang dapat berkembang juga memerlukan kondisi pengeraman yang sesuai."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-014",
+          "type": "PG",
+          "text": "Mengapa mengamati satu anak ayam selama beberapa menit belum cukup untuk menceritakan seluruh daur hidupnya?",
+          "options": [
+            "Semua tahap selalu selesai dalam beberapa menit",
+            "Perubahan tahap memerlukan waktu dan catatan lanjutan",
+            "Ayam tidak mengalami perubahan sepanjang hidup",
+            "Warna bulu saja sudah menunjukkan seluruh tahap"
+          ],
+          "answer": "Perubahan tahap memerlukan waktu dan catatan lanjutan",
+          "discussion": "Pengamatan singkat hanya menunjukkan keadaan saat itu; urutan tahap memerlukan pengamatan berulang atau sumber tepercaya."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-015",
+          "type": "PG",
+          "text": "Pernyataan yang tepat tentang akhir kehidupan seekor hewan ialah ...",
+          "options": [
+            "Hewan dewasa tidak pernah mati",
+            "Setiap hewan tua langsung menjadi bayi",
+            "Hewan dapat mati; keturunannya dapat melanjutkan daur jenisnya",
+            "Hewan yang mati tumbuh kembali menjadi telur"
+          ],
+          "answer": "Hewan dapat mati; keturunannya dapat melanjutkan daur jenisnya",
+          "discussion": "Lingkaran daur hidup menunjukkan keberlanjutan generasi, bukan bahwa satu individu hidup tanpa akhir."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-016",
+          "type": "PG",
+          "text": "Biji kacang hijau mulai berkecambah. Tanda yang dapat diamati ialah ...",
+          "options": [
+            "Biji langsung menghasilkan buah matang",
+            "Biji berubah menjadi bunga tanpa bagian lain",
+            "Batang besar berkayu langsung terbentuk",
+            "Akar kecil mulai keluar dari biji"
+          ],
+          "answer": "Akar kecil mulai keluar dari biji",
+          "discussion": "Kemunculan akar kecil adalah tanda awal perkecambahan; batang, daun, dan tahap dewasa berkembang kemudian."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-017",
+          "type": "PG",
+          "text": "Biji yang belum berdaun mulai tumbuh. Dari mana terutama cadangan makanan untuk awal pertumbuhannya?",
+          "options": [
+            "Cadangan yang tersimpan di dalam biji",
+            "Tanah yang langsung diserap sebagai makanan jadi",
+            "Bunga yang belum terbentuk",
+            "Buah baru yang sudah dihasilkannya"
+          ],
+          "answer": "Cadangan yang tersimpan di dalam biji",
+          "discussion": "Biji menyimpan cadangan makanan untuk awal pertumbuhan sebelum daun dapat membuat makanan dengan baik."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-018",
+          "type": "PG",
+          "text": "Akar tumbuhan menyerap air dan mineral. Bagian yang terutama menyalurkan air serta menopang daun ialah ...",
+          "options": [
+            "Bunga",
+            "Batang",
+            "Buah",
+            "Kelopak bunga"
+          ],
+          "answer": "Batang",
+          "discussion": "Batang menopang bagian atas tumbuhan dan mempunyai jalur pengangkutan air dari akar."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-019",
+          "type": "PG",
+          "text": "Mengapa cahaya penting bagi tumbuhan hijau yang sudah berdaun?",
+          "options": [
+            "Menggantikan seluruh kebutuhan air",
+            "Membuat akar tidak lagi diperlukan",
+            "Membantu daun membuat makanan melalui fotosintesis",
+            "Menggantikan seluruh kebutuhan udara"
+          ],
+          "answer": "Membantu daun membuat makanan melalui fotosintesis",
+          "discussion": "Tumbuhan hijau menggunakan energi cahaya untuk membuat makanan; air dan udara tetap dibutuhkan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-020",
+          "type": "PG",
+          "text": "Teman berkata biji kacang hijau harus selalu terkena matahari langsung agar dapat mulai berkecambah. Perbaikannya ialah ...",
+          "options": [
+            "Semua biji hanya berkecambah jika kapasnya kering",
+            "Biji tidak membutuhkan udara sama sekali",
+            "Cahaya tidak diperlukan tumbuhan hijau pada tahap apa pun",
+            "Biji dapat mulai berkecambah tanpa matahari langsung jika air, udara, dan suhunya sesuai"
+          ],
+          "answer": "Biji dapat mulai berkecambah tanpa matahari langsung jika air, udara, dan suhunya sesuai",
+          "discussion": "Awal perkecambahan kacang hijau memakai cadangan biji; setelah berdaun, cahaya penting untuk membuat makanan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-021",
+          "type": "PG",
+          "text": "Urutan tahap pada tanaman tomat yang ditanam dari biji ialah ...",
+          "options": [
+            "Biji → kecambah → tanaman muda → tanaman berbunga → berbuah",
+            "Biji → buah matang → kecambah → bunga",
+            "Biji → bunga → kecambah → tanaman muda → buah",
+            "Kecambah → buah → biji → akar pertama"
+          ],
+          "answer": "Biji → kecambah → tanaman muda → tanaman berbunga → berbuah",
+          "discussion": "Tanaman dari biji berkecambah dan tumbuh sebelum dapat berbunga serta menghasilkan buah berbiji."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-022",
+          "type": "PG",
+          "text": "Mengapa biji di dalam buah tomat dapat mengawali generasi tanaman berikutnya?",
+          "options": [
+            "Buah selalu berubah utuh menjadi batang besar",
+            "Biji yang hidup dapat berkecambah dalam kondisi sesuai",
+            "Setiap biji pasti tumbuh walau rusak",
+            "Biji baru tidak perlu mengalami perkecambahan"
+          ],
+          "answer": "Biji yang hidup dapat berkecambah dalam kondisi sesuai",
+          "discussion": "Biji berisi calon tumbuhan; keberhasilan tumbuh bergantung pada keadaan biji dan lingkungannya."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-023",
+          "type": "PG",
+          "text": "Bagian bunga yang rontok tidak selalu berarti tanaman gagal tumbuh. Mengapa?",
+          "options": [
+            "Setiap bunga yang rontok pasti menghasilkan banyak buah",
+            "Semua bagian bunga harus tetap utuh pada buah matang",
+            "Setelah penyerbukan dan pembuahan, bagian bunga dapat berkembang menjadi buah",
+            "Buah hanya berasal dari akar yang membesar"
+          ],
+          "answer": "Setelah penyerbukan dan pembuahan, bagian bunga dapat berkembang menjadi buah",
+          "discussion": "Sebagian bagian bunga dapat gugur saat buah berkembang; tidak semua bunga berhasil menjadi buah."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-024",
+          "type": "PG",
+          "text": "Mengapa tidak tepat mengatakan akar menyerap makanan jadi dari tanah?",
+          "options": [
+            "Akar hanya berfungsi sebagai penahan tanpa menyerap air",
+            "Makanan tumbuhan hanya berasal dari bunga",
+            "Tumbuhan hijau tidak memerlukan air",
+            "Akar menyerap air dan mineral; tumbuhan hijau membuat makanan terutama di daun"
+          ],
+          "answer": "Akar menyerap air dan mineral; tumbuhan hijau membuat makanan terutama di daun",
+          "discussion": "Air dan mineral dari tanah berbeda dari makanan yang dibuat tumbuhan melalui fotosintesis."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-025",
+          "type": "PG",
+          "text": "Pada tanaman kacang hijau, kecambah berakar dan berdaun tumbuh sebelum bunga muncul. Apa hubungan kedua tahap itu?",
+          "options": [
+            "Tanaman perlu tumbuh dan berkembang sebelum mencapai tahap berbunga",
+            "Bunga harus muncul sebelum akar pertama",
+            "Kecambah selalu menghasilkan biji setiap hari",
+            "Tahap berbunga tidak memerlukan pertumbuhan sebelumnya"
+          ],
+          "answer": "Tanaman perlu tumbuh dan berkembang sebelum mencapai tahap berbunga",
+          "discussion": "Akar, batang, dan daun berkembang lebih dahulu pada tanaman dari biji sebelum mencapai kemampuan berbunga."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-026",
+          "type": "PG",
+          "text": "Kelompok ingin mengetahui pengaruh air terhadap perkecambahan kacang hijau. Perbandingan yang paling adil ialah ...",
+          "options": [
+            "Kacang hijau basah di kelas dibanding biji jagung kering di lemari",
+            "Biji sejenis pada kapas lembap dan kapas kering, dengan tempat serta jumlah biji sama",
+            "Satu pot diberi air sekaligus pupuk baru, pot lain tidak keduanya",
+            "Dua jenis biji diberi tempat, air, dan jumlah berbeda"
+          ],
+          "answer": "Biji sejenis pada kapas lembap dan kapas kering, dengan tempat serta jumlah biji sama",
+          "discussion": "Mengubah air saja membantu melihat pengaruhnya; perbedaan jenis biji atau banyak keadaan lain membuat hasil sulit ditafsirkan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-027",
+          "type": "PG",
+          "text": "Mengapa biji tidak sebaiknya direndam dalam wadah tertutup rapat tanpa udara untuk percobaan tumbuh?",
+          "options": [
+            "Biji harus selalu bebas dari air",
+            "Biji hanya memerlukan panas setinggi mungkin",
+            "Biji hidup juga membutuhkan udara untuk perkecambahan",
+            "Biji tumbuh lebih baik jika tidak dapat bernapas"
+          ],
+          "answer": "Biji hidup juga membutuhkan udara untuk perkecambahan",
+          "discussion": "Selain air dan suhu sesuai, biji memerlukan oksigen dari udara; genangan tanpa udara dapat menghambatnya."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-028",
+          "type": "PG",
+          "text": "Catatan apa yang paling membantu membandingkan pertumbuhan kecambah dari hari ke hari?",
+          "options": [
+            "Hanya nama anak yang paling menyukai tanaman",
+            "Dugaan tinggi tanpa mengukur tanaman",
+            "Hanya hasil terakhir tanpa tanggal pengamatan",
+            "Tanggal, tinggi yang diukur dengan cara sama, dan perubahan yang terlihat"
+          ],
+          "answer": "Tanggal, tinggi yang diukur dengan cara sama, dan perubahan yang terlihat",
+          "discussion": "Catatan berulang dengan cara yang sama memberi bukti perubahan; dugaan atau hasil tanpa waktu tidak cukup menggambarkan pertumbuhan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-029",
+          "type": "PG",
+          "text": "Dua biji sejenis tidak tumbuh bersamaan meski dirawat serupa. Kesimpulan yang wajar ialah ...",
+          "options": [
+            "Keadaan tiap biji dapat berbeda; pengamatan perlu diteruskan",
+            "Semua biji pasti tumbuh pada detik yang sama",
+            "Biji yang belum tumbuh pasti bukan makhluk hidup",
+            "Air tidak berpengaruh pada biji mana pun"
+          ],
+          "answer": "Keadaan tiap biji dapat berbeda; pengamatan perlu diteruskan",
+          "discussion": "Biji dapat berbeda dalam keadaan dan kemampuannya tumbuh; satu perbedaan waktu belum menjelaskan seluruh penyebab."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-030",
+          "type": "PG",
+          "text": "Apa alasan memakai beberapa biji pada tiap kelompok percobaan, bukan hanya satu?",
+          "options": [
+            "Membuat semua biji pasti berhasil tumbuh",
+            "Mengurangi ketergantungan hasil pada keadaan satu biji",
+            "Menghilangkan kebutuhan mencatat kondisi",
+            "Menjadikan perbedaan jenis biji tidak penting"
+          ],
+          "answer": "Mengurangi ketergantungan hasil pada keadaan satu biji",
+          "discussion": "Satu biji mungkin rusak; beberapa biji memberi gambaran lebih baik, meskipun hasil tetap perlu ditafsirkan dengan hati-hati."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-031",
+          "type": "PG",
+          "text": "Tanaman kecil di pot tampak layu. Tindakan awal yang masuk akal sebelum menyiram ialah ...",
+          "options": [
+            "Langsung menuang air sebanyak-banyaknya",
+            "Segera menyimpulkan semua akar sudah mati",
+            "Memeriksa kelembapan tanah dan keadaan tempatnya",
+            "Memotong seluruh daun tanpa memeriksa"
+          ],
+          "answer": "Memeriksa kelembapan tanah dan keadaan tempatnya",
+          "discussion": "Layu dapat berkaitan dengan kondisi air atau keadaan lain; pemeriksaan membantu memilih perawatan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-032",
+          "type": "PG",
+          "text": "Setelah hujan deras, air lama menggenang di pot. Perbaikan yang dapat dibantu orang dewasa ialah ...",
+          "options": [
+            "Menutup semua lubang agar air makin tinggi",
+            "Menambahkan air setiap beberapa menit",
+            "Membungkus tanaman dengan plastik rapat",
+            "Memastikan lubang pembuangan air pot tidak tersumbat"
+          ],
+          "answer": "Memastikan lubang pembuangan air pot tidak tersumbat",
+          "discussion": "Pembuangan air yang baik mencegah akar terus tergenang dan membantu tersedianya udara."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-033",
+          "type": "PG",
+          "text": "Angin kencang berulang kali membengkokkan tanaman muda. Upaya yang sesuai ialah ...",
+          "options": [
+            "Memindahkan pot ke tempat lebih terlindung bersama orang dewasa",
+            "Mencabut akar agar batang ringan",
+            "Meletakkan pot di tepi tinggi yang mudah jatuh",
+            "Menghentikan semua penyiraman selamanya"
+          ],
+          "answer": "Memindahkan pot ke tempat lebih terlindung bersama orang dewasa",
+          "discussion": "Tempat yang terlindung mengurangi risiko kerusakan; kebutuhan cahaya dan air tetap diperhatikan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-034",
+          "type": "PG",
+          "text": "Mengapa jadwal menyiram tanaman dapat perlu berubah saat musim hujan?",
+          "options": [
+            "Semua tanaman berhenti membutuhkan air",
+            "Tanah mungkin tetap basah sehingga kebutuhan tambahan air berbeda",
+            "Hujan selalu membuat tanah kering",
+            "Semua tanaman harus disiram lebih banyak meski tergenang"
+          ],
+          "answer": "Tanah mungkin tetap basah sehingga kebutuhan tambahan air berbeda",
+          "discussion": "Penyiraman mengikuti kebutuhan tanaman dan kelembapan tanah, bukan jadwal kaku tanpa pengamatan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-035",
+          "type": "PG",
+          "text": "Kecambah dalam gelap lebih panjang tetapi pucat dan lemah. Apa yang sebaiknya diperhatikan saat menilai pertumbuhannya?",
+          "options": [
+            "Tinggi saja karena lebih panjang pasti lebih sehat",
+            "Waktu pengamatan tidak perlu diperhatikan",
+            "Warna, kekuatan batang, dan daun selain tinggi",
+            "Panjang batang selalu menunjukkan banyaknya makanan yang dibuat"
+          ],
+          "answer": "Warna, kekuatan batang, dan daun selain tinggi",
+          "discussion": "Memanjang dalam gelap tidak selalu menunjukkan pertumbuhan sehat; beberapa ciri perlu dibandingkan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-036",
+          "type": "PG",
+          "text": "Di kebun, ulat memakan daun dan burung memakan ulat. Jika semua ulat dimusnahkan, akibat yang mungkin ialah ...",
+          "options": [
+            "Burung pasti memperoleh lebih banyak ulat",
+            "Semua burung pasti berhenti membutuhkan makanan",
+            "Daun pasti tidak pernah rusak oleh hal lain",
+            "Salah satu sumber makanan burung berkurang"
+          ],
+          "answer": "Salah satu sumber makanan burung berkurang",
+          "discussion": "Ulat merupakan bagian hubungan makan; menghilangkannya dapat memengaruhi hewan yang memakannya."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-037",
+          "type": "PG",
+          "text": "Kupu-kupu sering mengunjungi bunga. Peran yang dapat dilakukannya bagi banyak tumbuhan berbunga ialah ...",
+          "options": [
+            "Membantu memindahkan serbuk sari",
+            "Menggantikan akar menyerap air",
+            "Menyimpan seluruh biji di sayapnya",
+            "Membuat setiap bunga pasti berbuah"
+          ],
+          "answer": "Membantu memindahkan serbuk sari",
+          "discussion": "Kunjungan kupu-kupu dapat membantu penyerbukan, tetapi tidak menjamin setiap bunga menjadi buah."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-038",
+          "type": "PG",
+          "text": "Tanaman tempat ulat mendapat makanan dicabut seluruhnya. Risiko bagi daur kupu-kupu ialah ...",
+          "options": [
+            "Ulat pasti tetap tumbuh tanpa makanan",
+            "Ulat kehilangan sumber makan sebelum mencapai tahap berikutnya",
+            "Kupu-kupu tidak lagi membutuhkan tahap larva",
+            "Setiap ulat langsung menjadi dewasa tanpa pupa"
+          ],
+          "answer": "Ulat kehilangan sumber makan sebelum mencapai tahap berikutnya",
+          "discussion": "Tahap larva memerlukan makanan sesuai jenisnya; hilangnya tanaman makanan dapat menghambat daur."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-039",
+          "type": "PG",
+          "text": "Cara aman siswa mengamati daur hewan liar ialah ...",
+          "options": [
+            "Menyentuh ulat yang belum dikenal untuk menguji reaksinya",
+            "Mengambil semua telur dari sarang",
+            "Mengamati dari jarak aman, mencatat, dan didampingi orang dewasa",
+            "Mengguncang pupa agar cepat keluar"
+          ],
+          "answer": "Mengamati dari jarak aman, mencatat, dan didampingi orang dewasa",
+          "discussion": "Pengamatan tidak perlu merusak hewan atau habitat; sebagian ulat dapat menyebabkan iritasi dan sarang tidak boleh diganggu."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-040",
+          "type": "PG",
+          "text": "Mengapa guru tidak menyarankan menutup hewan pengamatan dalam stoples kedap udara?",
+          "options": [
+            "Hewan tidak dapat diamati melalui kaca",
+            "Semua hewan hanya hidup tanpa udara",
+            "Tutup rapat mempercepat seluruh daur hidup",
+            "Hewan memerlukan udara dan kondisi hidup sesuai"
+          ],
+          "answer": "Hewan memerlukan udara dan kondisi hidup sesuai",
+          "discussion": "Wadah kedap udara dapat membahayakan hewan; pilih pengamatan di habitat atau pengaturan aman oleh guru."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-041",
+          "type": "PG",
+          "text": "Taman sekolah akan ditata ulang. Rencana yang mendukung daur kupu-kupu ialah ...",
+          "options": [
+            "Mempertahankan tanaman makanan ulat dan bunga yang sesuai",
+            "Mengganti semua tanaman dengan lantai semen",
+            "Memetik setiap daun yang berisi telur",
+            "Memindahkan semua hewan ke lokasi asing tanpa arahan"
+          ],
+          "answer": "Mempertahankan tanaman makanan ulat dan bunga yang sesuai",
+          "discussion": "Ulat memerlukan tanaman makanan dan banyak kupu-kupu dewasa memerlukan bunga; kebutuhan lebih dari satu tahap perlu dijaga."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-042",
+          "type": "PG",
+          "text": "Mengapa membuang sampah ke kolam dapat mengganggu daur katak?",
+          "options": [
+            "Sampah selalu menjadi makanan baik bagi berudu",
+            "Kualitas tempat hidup telur dan berudu dapat memburuk",
+            "Kolam kotor membuat semua telur lebih cepat menetas",
+            "Katak tidak pernah membutuhkan lingkungan air"
+          ],
+          "answer": "Kualitas tempat hidup telur dan berudu dapat memburuk",
+          "discussion": "Pada contoh katak yang dipelajari, tahap awal hidup di air; pencemaran dapat menghambat kelangsungannya."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-043",
+          "type": "PG",
+          "text": "Siswa menemukan beberapa biji yang tidak dikenal di kebun. Langkah aman ialah ...",
+          "options": [
+            "Mencicipi biji untuk menebak jenisnya",
+            "Memakai biji untuk percobaan tanpa menanyakan asalnya",
+            "Meminta guru mengenali biji sebelum digunakan untuk kegiatan",
+            "Menyimpulkan biji aman hanya karena warnanya menarik"
+          ],
+          "answer": "Meminta guru mengenali biji sebelum digunakan untuk kegiatan",
+          "discussion": "Tidak semua biji aman dimakan atau disentuh sembarangan; identifikasi dan pendampingan diperlukan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-044",
+          "type": "PG",
+          "text": "Setelah menanam bibit baru, mengapa perawatan tetap diperlukan?",
+          "options": [
+            "Menanam sekali menjamin semua bibit hidup selamanya",
+            "Bibit tidak perlu akar setelah dipindahkan",
+            "Semua tanaman dapat hidup dalam wadah kedap udara",
+            "Bibit masih membutuhkan air, cahaya, dan lingkungan sesuai untuk tumbuh"
+          ],
+          "answer": "Bibit masih membutuhkan air, cahaya, dan lingkungan sesuai untuk tumbuh",
+          "discussion": "Pelestarian mencakup perawatan lanjutan, bukan hanya memasukkan bibit ke tanah."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-045",
+          "type": "PG",
+          "text": "Manakah catatan pengamatan yang menyampaikan bukti, bukan perkiraan tanpa dasar?",
+          "options": [
+            "Pada pagi ini tampak dua daun baru pada tanaman yang sama",
+            "Tanaman ini pasti tidak akan pernah mati",
+            "Biji ini pasti paling baik karena potnya biru",
+            "Kupu-kupu ini pasti berasal dari kebun yang belum dilihat"
+          ],
+          "answer": "Pada pagi ini tampak dua daun baru pada tanaman yang sama",
+          "discussion": "Daun yang benar-benar diamati dapat dicatat; asal atau masa depan yang belum diketahui bukan fakta pengamatan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-046",
+          "type": "PG",
+          "text": "Sebuah gambar menampilkan telur lalu kupu-kupu dewasa tanpa tahap lain. Perbaikan agar menunjukkan daur lebih lengkap ialah ...",
+          "options": [
+            "Menambahkan nimfa di antara kedua tahap",
+            "Menambahkan larva dan pupa di antara telur dan dewasa",
+            "Menghapus telur dan hanya menyisakan dewasa",
+            "Mengganti pupa dengan berudu"
+          ],
+          "answer": "Menambahkan larva dan pupa di antara telur dan dewasa",
+          "discussion": "Larva dan pupa merupakan tahap penting kupu-kupu; nimfa serta berudu adalah tahap pada hewan lain."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-047",
+          "type": "PG",
+          "text": "Teman menyatakan setiap jenis tumbuhan selalu mempunyai tahap berbunga. Contoh yang menunjukkan pernyataan itu terlalu umum ialah ...",
+          "options": [
+            "Tomat yang menghasilkan bunga",
+            "Pepaya yang menghasilkan bunga",
+            "Lumut yang tidak menghasilkan bunga",
+            "Cabai yang menghasilkan bunga"
+          ],
+          "answer": "Lumut yang tidak menghasilkan bunga",
+          "discussion": "Tidak semua tumbuhan berbunga. Urutan bunga dan buah pada bab ini berlaku bagi contoh tumbuhan berbunga dari biji, bukan semua tumbuhan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-048",
+          "type": "PG",
+          "text": "Mengapa waktu munculnya bunga pada semua tanaman tidak dapat disamakan begitu saja?",
+          "options": [
+            "Semua tanaman berbunga setelah satu malam",
+            "Semua tanaman harus berbunga pada tinggi yang sama",
+            "Air tidak mempunyai pengaruh pada pertumbuhan",
+            "Jenis tanaman dan keadaan tumbuh dapat berbeda"
+          ],
+          "answer": "Jenis tanaman dan keadaan tumbuh dapat berbeda",
+          "discussion": "Perbedaan jenis dan lingkungan membuat waktu berkembang bervariasi; pengamatan perlu menyebut tanaman dan kondisinya."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-049",
+          "type": "PG",
+          "text": "Apa yang sebaiknya dilakukan jika hasil percobaan berbeda dari dugaan awal?",
+          "options": [
+            "Mencatat hasil sebenarnya lalu memeriksa kondisi dan mengulang bila perlu",
+            "Mengubah catatan agar sesuai dugaan",
+            "Membuang semua catatan yang tidak cocok",
+            "Memilih hanya biji pendukung dugaan tanpa menjelaskan"
+          ],
+          "answer": "Mencatat hasil sebenarnya lalu memeriksa kondisi dan mengulang bila perlu",
+          "discussion": "Hasil jujur diperlukan untuk belajar; perbedaan mendorong pemeriksaan cara dan kondisi percobaan."
+        },
+        {
+          "id": "K03-IPAS-B04-M01-050",
+          "type": "PG",
+          "text": "Apa hubungan menjaga habitat dengan kelanjutan daur makhluk hidup?",
+          "options": [
+            "Habitat membuat setiap individu hidup tanpa akhir",
+            "Habitat sesuai menyediakan kebutuhan untuk melewati tahap hidup dan berkembang biak",
+            "Menjaga habitat berarti makanan tidak diperlukan lagi",
+            "Semua jenis hewan memerlukan tempat yang persis sama"
+          ],
+          "answer": "Habitat sesuai menyediakan kebutuhan untuk melewati tahap hidup dan berkembang biak",
+          "discussion": "Kebutuhan air, makanan, ruang, dan perlindungan dapat berbeda antartahap serta antarjenis; habitat sesuai membantu kelangsungannya."
+        }
+      ]
+    }
+  ]
+}
