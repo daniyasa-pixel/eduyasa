@@ -1,10 +1,10 @@
 # Unit 7 — Aktivitas Kebugaran untuk Kesehatan
 
-35 soal teks, **DRAF**. Perlu audit variasi soal.
+35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
 
 ## Soal 1 — K03-PJK-B07-M01-001
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk kebugaran jasmani?
+**Pertanyaan:** Doni bisa mengikuti permainan ringan tanpa kelelahan yang berlebihan. Kemampuan ini berkaitan dengan ....
 
 **Pilihan jawaban:**
 - kemampuan makan paling banyak
@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-PJK-B07-M01-002
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk latihan kekuatan sederhana?
+**Pertanyaan:** Guru memilih aktivitas penguatan tubuh tanpa beban berat. Prinsip yang tepat adalah ....
 
 **Pilihan jawaban:**
 - dilakukan tanpa pengawasan
@@ -36,7 +36,7 @@
 
 ## Soal 3 — K03-PJK-B07-M01-003
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk latihan daya tahan?
+**Pertanyaan:** Kelompok melakukan jalan cepat atau lari ringan dengan durasi sesuai kemampuan. Tujuan latihan adalah ....
 
 **Pilihan jawaban:**
 - dapat berupa jalan cepat atau lari ringan sesuai kemampuan
@@ -52,7 +52,7 @@
 
 ## Soal 4 — K03-PJK-B07-M01-004
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk kelentukan?
+**Pertanyaan:** Siswa menggerakkan sendi dengan jangkauan nyaman. Kemampuan yang dipakai adalah ....
 
 **Pilihan jawaban:**
 - kemampuan melempar jauh saja
@@ -68,7 +68,7 @@
 
 ## Soal 5 — K03-PJK-B07-M01-005
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk keseimbangan?
+**Pertanyaan:** Saat berdiri satu kaki, seorang anak mengatur lengan untuk tidak jatuh. Apa keterampilan yang diperlukan?
 
 **Pilihan jawaban:**
 - kemampuan berlari tanpa arah
@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-PJK-B07-M01-006
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk istirahat setelah olahraga?
+**Pertanyaan:** Selesai aktivitas fisik, tubuh membutuhkan waktu pulih. Apa manfaat beristirahat?
 
 **Pilihan jawaban:**
 - tidak diperlukan
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-PJK-B07-M01-007
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk air minum?
+**Pertanyaan:** Setelah bergerak, siswa minum air sesuai kebutuhan tubuh. Tujuannya adalah ....
 
 **Pilihan jawaban:**
 - membantu memenuhi kebutuhan cairan tubuh
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-PJK-B07-M01-008
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk latihan rutin?
+**Pertanyaan:** Guru mengajak siswa melakukan kegiatan fisik teratur tanpa memaksakan. Polanya adalah ....
 
 **Pilihan jawaban:**
 - harus selalu berlebihan
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-PJK-B07-M01-009
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk tanda perlu berhenti latihan?
+**Pertanyaan:** Seorang siswa tiba-tiba pusing ketika berlatih. Kondisi apa yang menandakan perlu berhenti?
 
 **Pilihan jawaban:**
 - napas sedikit lebih cepat yang wajar
@@ -148,7 +148,7 @@
 
 ## Soal 10 — K03-PJK-B07-M01-010
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk aktivitas kebugaran bersama?
+**Pertanyaan:** Kelompok jalan santai dengan kecepatan anggota yang berbeda. Sikap yang tepat ialah ....
 
 **Pilihan jawaban:**
 - dilakukan di jalan ramai
@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-PJK-B07-M01-011
 
-**Pertanyaan:** Saat pelajaran aktivitas kebugaran untuk kesehatan, guru membahas "Kebugaran jasmani". Pernyataan manakah yang benar?
+**Pertanyaan:** Dalam kegiatan harian, tubuh dapat bergerak dan tetap memiliki tenaga untuk aktivitas berikutnya. Hal itu menggambarkan ....
 
 **Pilihan jawaban:**
 - kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-PJK-B07-M01-012
 
-**Pertanyaan:** Saat pelajaran aktivitas kebugaran untuk kesehatan, guru membahas "Latihan kekuatan sederhana". Pernyataan manakah yang benar?
+**Pertanyaan:** Seorang siswa belum mampu mengikuti latihan kekuatan teman lain. Bagaimana latihan seharusnya disesuaikan?
 
 **Pilihan jawaban:**
 - mengangkat beban berbahaya
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-PJK-B07-M01-013
 
-**Pertanyaan:** Saat pelajaran aktivitas kebugaran untuk kesehatan, guru membahas "Latihan daya tahan". Pernyataan manakah yang benar?
+**Pertanyaan:** Agar tidak terlalu lelah, siswa menyesuaikan intensitas gerak berulang. Ini contoh ....
 
 **Pilihan jawaban:**
 - selalu mengangkat beban berat
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-PJK-B07-M01-014
 
-**Pertanyaan:** Saat pelajaran aktivitas kebugaran untuk kesehatan, guru membahas "Kelentukan". Pernyataan manakah yang benar?
+**Pertanyaan:** Ada siswa yang dapat meraih lebih jauh dari teman, namun keduanya tidak dipaksa. Apa konsep yang diukur?
 
 **Pilihan jawaban:**
 - kemampuan makan
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-PJK-B07-M01-015
 
-**Pertanyaan:** Saat pelajaran aktivitas kebugaran untuk kesehatan, guru membahas "Keseimbangan". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru memberikan latihan mempertahankan posisi tubuh. Hasil yang ingin dilatih ialah ....
 
 **Pilihan jawaban:**
 - kemampuan menjaga posisi tubuh agar stabil
@@ -244,7 +244,7 @@
 
 ## Soal 16 — K03-PJK-B07-M01-016
 
-**Pertanyaan:** Saat pelajaran aktivitas kebugaran untuk kesehatan, guru membahas "Istirahat setelah olahraga". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru menyelingi permainan dengan jeda yang cukup. Tujuannya adalah ....
 
 **Pilihan jawaban:**
 - berarti tidak boleh minum
@@ -260,7 +260,7 @@
 
 ## Soal 17 — K03-PJK-B07-M01-017
 
-**Pertanyaan:** Saat pelajaran aktivitas kebugaran untuk kesehatan, guru membahas "Air minum". Pernyataan manakah yang benar?
+**Pertanyaan:** Anak merasa haus setelah bermain. Minuman yang tersedia membantu memenuhi kebutuhan apa?
 
 **Pilihan jawaban:**
 - tidak diperlukan saat panas
@@ -276,7 +276,7 @@
 
 ## Soal 18 — K03-PJK-B07-M01-018
 
-**Pertanyaan:** Saat pelajaran aktivitas kebugaran untuk kesehatan, guru membahas "Latihan rutin". Pernyataan manakah yang benar?
+**Pertanyaan:** Siswa ingin lebih aktif setiap hari. Cara yang berkelanjutan seharusnya ....
 
 **Pilihan jawaban:**
 - tidak perlu aman
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-PJK-B07-M01-019
 
-**Pertanyaan:** Saat pelajaran aktivitas kebugaran untuk kesehatan, guru membahas "Tanda perlu berhenti latihan". Pernyataan manakah yang benar?
+**Pertanyaan:** Anak mengeluh sesak tak wajar saat berlari. Apa tanda yang harus diperhatikan?
 
 **Pilihan jawaban:**
 - nyeri hebat, pusing, atau sesak yang tidak wajar
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-PJK-B07-M01-020
 
-**Pertanyaan:** Saat pelajaran aktivitas kebugaran untuk kesehatan, guru membahas "Aktivitas kebugaran bersama". Pernyataan manakah yang benar?
+**Pertanyaan:** Anak yang bergerak lebih lambat tetap mendapat kesempatan berlatih. Bagaimana seharusnya kegiatan berlangsung?
 
 **Pilihan jawaban:**
 - dilakukan sambil mengejek
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-PJK-B07-M01-021
 
-**Pertanyaan:** Rani ingin memahami kebugaran jasmani. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa yang ditunjukkan tubuh saat mampu beraktivitas sesuai kapasitas tanpa cepat kelelahan berlebihan?
 
 **Pilihan jawaban:**
 - kemampuan makan paling banyak
@@ -340,7 +340,7 @@
 
 ## Soal 22 — K03-PJK-B07-M01-022
 
-**Pertanyaan:** Rani ingin memahami latihan kekuatan sederhana. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa patokan keamanan untuk latihan kekuatan anak sekolah dasar?
 
 **Pilihan jawaban:**
 - dilakukan tanpa pengawasan
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-PJK-B07-M01-023
 
-**Pertanyaan:** Rani ingin memahami latihan daya tahan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Bagaimana bentuk latihan daya tahan yang wajar untuk siswa kelas 3?
 
 **Pilihan jawaban:**
 - dapat berupa jalan cepat atau lari ringan sesuai kemampuan
@@ -372,7 +372,7 @@
 
 ## Soal 24 — K03-PJK-B07-M01-024
 
-**Pertanyaan:** Rani ingin memahami kelentukan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa yang dimaksud gerak sendi dalam rentang wajar tanpa dipaksakan?
 
 **Pilihan jawaban:**
 - kemampuan melempar jauh saja
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-PJK-B07-M01-025
 
-**Pertanyaan:** Rani ingin memahami keseimbangan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa mengatur posisi tubuh penting dalam gerak keseimbangan?
 
 **Pilihan jawaban:**
 - kemampuan berlari tanpa arah
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-PJK-B07-M01-026
 
-**Pertanyaan:** Rani ingin memahami istirahat setelah olahraga. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa anak tidak dianjurkan berlatih terus tanpa jeda?
 
 **Pilihan jawaban:**
 - tidak diperlukan
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-PJK-B07-M01-027
 
-**Pertanyaan:** Rani ingin memahami air minum. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa air minum penting ketika tubuh aktif bergerak?
 
 **Pilihan jawaban:**
 - membantu memenuhi kebutuhan cairan tubuh
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-PJK-B07-M01-028
 
-**Pertanyaan:** Rani ingin memahami latihan rutin. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa prinsip membuat kebiasaan aktivitas kebugaran?
 
 **Pilihan jawaban:**
 - harus selalu berlebihan
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-PJK-B07-M01-029
 
-**Pertanyaan:** Rani ingin memahami tanda perlu berhenti latihan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Dalam latihan, apakah rasa sakit hebat perlu diabaikan? Pilih penjelasan yang sesuai.
 
 **Pilihan jawaban:**
 - napas sedikit lebih cepat yang wajar
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-PJK-B07-M01-030
 
-**Pertanyaan:** Rani ingin memahami aktivitas kebugaran bersama. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa aturan penting agar latihan kebugaran bersama terasa aman dan inklusif?
 
 **Pilihan jawaban:**
 - dilakukan di jalan ramai
@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B07-M01-031
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Kebugaran jasmani". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Doni bisa mengikuti permainan ringan tanpa kelelahan yang berlebihan. Kemampuan ini berkaitan dengan ....
 
 **Pilihan jawaban:**
 - kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B07-M01-032
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Latihan kekuatan sederhana". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Guru memilih aktivitas penguatan tubuh tanpa beban berat. Prinsip yang tepat adalah ....
 
 **Pilihan jawaban:**
 - mengangkat beban berbahaya
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B07-M01-033
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Latihan daya tahan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Kelompok melakukan jalan cepat atau lari ringan dengan durasi sesuai kemampuan. Tujuan latihan adalah ....
 
 **Pilihan jawaban:**
 - selalu mengangkat beban berat
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B07-M01-034
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Kelentukan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Siswa menggerakkan sendi dengan jangkauan nyaman. Kemampuan yang dipakai adalah ....
 
 **Pilihan jawaban:**
 - kemampuan makan
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B07-M01-035
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Keseimbangan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Saat berdiri satu kaki, seorang anak mengatur lengan untuk tidak jatuh. Apa keterampilan yang diperlukan?
 
 **Pilihan jawaban:**
 - kemampuan menjaga posisi tubuh agar stabil
