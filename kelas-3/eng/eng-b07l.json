@@ -1,0 +1,109 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B07",
+      "chapter_title": "My Class Is Behind the Office",
+      "questions": [
+        {
+          "id": "K03-ENG-B07-M01-046",
+          "type": "PG",
+          "text": "Listen carefully. Where is the classroom?",
+          "options": [
+            "behind the office",
+            "beside the office",
+            "in front of the office",
+            "under the office"
+          ],
+          "answer": "behind the office",
+          "discussion": "Audio menjawab bahwa ruang kelas berada di belakang kantor.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Where is the classroom? It is behind the office.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-047",
+          "type": "PG",
+          "text": "Listen carefully. Which place is beside the parking area?",
+          "options": [
+            "the office",
+            "the laboratory",
+            "the canteen",
+            "the restroom"
+          ],
+          "answer": "the laboratory",
+          "discussion": "Audio menyatakan bahwa laboratorium berada di sebelah area parkir.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "The laboratory is beside the parking area.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-048",
+          "type": "PG",
+          "text": "Listen carefully. Which place is in the middle?",
+          "options": [
+            "the classroom",
+            "the library",
+            "the office",
+            "the playground"
+          ],
+          "answer": "the office",
+          "discussion": "**Between** menempatkan kantor di tengah perpustakaan dan ruang kelas.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "The office is between the library and the classroom.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-049",
+          "type": "PG",
+          "text": "Listen carefully. Where is the bag?",
+          "options": [
+            "on the desk",
+            "behind the desk",
+            "beside the desk",
+            "under the desk"
+          ],
+          "answer": "under the desk",
+          "discussion": "Audio menyebutkan dengan jelas bahwa tas berada di bawah meja.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "The bag is under the desk, not on the desk.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-050",
+          "type": "PG",
+          "text": "Listen carefully. Which sentence matches the audio?",
+          "options": [
+            "The gate is behind the school.",
+            "The gate is beside the school.",
+            "The gate is in front of the school.",
+            "The gate is under the school."
+          ],
+          "answer": "The gate is in front of the school.",
+          "discussion": "Audio menjawab bahwa gerbang berada di depan sekolah.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Where is the gate? It is in front of the school.",
+            "rate": 0.85
+          }
+        }
+      ]
+    }
+  ]
+}
