@@ -1,0 +1,404 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PAI-B06",
+      "chapter_title": "Senangnya Belajar Hadis",
+      "questions": [
+        {
+          "id": "K03-PAI-B06-M01-001",
+          "type": "PG",
+          "text": "Apa yang dimaksud dengan hadis Nabi?",
+          "options": [
+            "Catatan pribadi seorang makmum",
+            "Teks pengumuman jadwal salat",
+            "Riwayat tentang perkataan, perbuatan, atau ketetapan Nabi Muhammad saw.",
+            "Pendapat seseorang tentang susunan saf"
+          ],
+          "answer": "Riwayat tentang perkataan, perbuatan, atau ketetapan Nabi Muhammad saw.",
+          "discussion": "Hadis menjadi sumber untuk mengenal sabda, teladan, dan persetujuan Nabi."
+        },
+        {
+          "id": "K03-PAI-B06-M01-002",
+          "type": "PG",
+          "text": "Menurut hadis riwayat al-Bukhari yang dipelajari, salat berjemaah lebih utama berapa derajat daripada salat sendirian?",
+          "options": [
+            "27 derajat",
+            "17 derajat",
+            "20 derajat",
+            "30 derajat"
+          ],
+          "answer": "27 derajat",
+          "discussion": "Dalam hadis ini disebut sab‘in wa ‘isyrīna, yang berarti dua puluh tujuh."
+        },
+        {
+          "id": "K03-PAI-B06-M01-003",
+          "type": "PG",
+          "text": "Apa dua cara salat yang dibandingkan dalam hadis bab ini?",
+          "options": [
+            "Di rumah dan dalam perjalanan",
+            "Pada pagi dan malam hari",
+            "Dengan bacaan keras dan pelan",
+            "Berjemaah dan sendirian"
+          ],
+          "answer": "Berjemaah dan sendirian",
+          "discussion": "Hadis membandingkan keutamaan salat bersama imam dengan salat seorang diri."
+        },
+        {
+          "id": "K03-PAI-B06-M01-004",
+          "type": "PG",
+          "text": "Rani mengira angka 27 adalah jumlah orang yang harus hadir. Bagaimana memperbaiki catatannya?",
+          "options": [
+            "Angka itu menunjukkan jumlah saf.",
+            "Angka itu menyatakan derajat keutamaan.",
+            "Angka itu menunjukkan jumlah rakaat.",
+            "Angka itu menyatakan lama salat dalam menit."
+          ],
+          "answer": "Angka itu menyatakan derajat keutamaan.",
+          "discussion": "Perbandingan dalam hadis menyebut derajat, sehingga angka itu bukan syarat jumlah peserta."
+        },
+        {
+          "id": "K03-PAI-B06-M01-005",
+          "type": "PG",
+          "text": "Siapa sahabat yang disebut meriwayatkan hadis ini dari Nabi?",
+          "options": [
+            "Umar bin Abdul Aziz",
+            "Abdullah bin Umar",
+            "Abdullah bin Abdul Muthalib",
+            "Muhammad bin Ismail al-Bukhari"
+          ],
+          "answer": "Abdullah bin Umar",
+          "discussion": "Riwayat ini sampai dari Abdullah bin Umar. Al-Bukhari mencantumkannya dalam kitabnya."
+        },
+        {
+          "id": "K03-PAI-B06-M01-006",
+          "type": "PG",
+          "text": "Guru membaca hadis perlahan dan jelas. Apa langkah pertama yang membantu Tio menirukannya?",
+          "options": [
+            "Langsung baca penggalan terakhir.",
+            "Catat artinya sambil melewatkan contoh bacaan.",
+            "Ulangi dengan tempo lebih cepat dari guru.",
+            "Simak satu penggalan sampai selesai, lalu tirukan."
+          ],
+          "answer": "Simak satu penggalan sampai selesai, lalu tirukan.",
+          "discussion": "Menyimak lebih dahulu membantu mendengar bunyi huruf dan panjang pendek bacaan."
+        },
+        {
+          "id": "K03-PAI-B06-M01-007",
+          "type": "PG",
+          "text": "Mira sudah hafal artinya tetapi masih ragu melafalkan satu penggalan. Apa yang perlu dilatih?",
+          "options": [
+            "Menyimak contoh dan menirukan penggalan itu.",
+            "Mengulang terjemahannya saja.",
+            "Mengganti bagian yang sulit dengan artinya.",
+            "Melatih penggalan lain yang sudah lancar."
+          ],
+          "answer": "Menyimak contoh dan menirukan penggalan itu.",
+          "discussion": "Pemahaman arti dan ketepatan lafal merupakan keterampilan yang dapat dilatih terpisah."
+        },
+        {
+          "id": "K03-PAI-B06-M01-008",
+          "type": "PG",
+          "text": "Saat membaca hadis, dua penggalan selalu tertukar. Apa cara berlatih yang sesuai?",
+          "options": [
+            "Latih hanya penggalan yang terakhir.",
+            "Baca keduanya terbalik setiap kali.",
+            "Baca ulang keduanya sesuai urutan pada contoh.",
+            "Ganti keduanya dengan judul bab."
+          ],
+          "answer": "Baca ulang keduanya sesuai urutan pada contoh.",
+          "discussion": "Melihat urutan model, lalu melatih sambungannya, membantu memperbaiki bagian yang tertukar."
+        },
+        {
+          "id": "K03-PAI-B06-M01-009",
+          "type": "PG",
+          "text": "Bagaimana menyalin satu baris Arab dari buku?",
+          "options": [
+            "Mulai dari kiri dengan urutan huruf terbalik.",
+            "Salin hanya kata di tengah baris.",
+            "Susun kata dari yang terpendek.",
+            "Mulai dari kanan dan ikuti urutan pada contoh."
+          ],
+          "answer": "Mulai dari kanan dan ikuti urutan pada contoh.",
+          "discussion": "Tulisan Arab dibaca dan ditulis dari kanan ke kiri."
+        },
+        {
+          "id": "K03-PAI-B06-M01-010",
+          "type": "PG",
+          "text": "Saat membandingkan salinan dengan buku, Nisa melihat satu titik huruf tertinggal. Apa tindakannya?",
+          "options": [
+            "Hapus titik pada huruf lain.",
+            "Lengkapi titik sesuai contoh.",
+            "Ubah seluruh baris menjadi terjemahan.",
+            "Tambah tanda baca di akhir saja."
+          ],
+          "answer": "Lengkapi titik sesuai contoh.",
+          "discussion": "Titik membantu membedakan huruf Arab dan perlu disalin tepat."
+        },
+        {
+          "id": "K03-PAI-B06-M01-011",
+          "type": "PG",
+          "text": "Apa yang diperiksa ketika satu kata salinan tampak berbeda dari contoh?",
+          "options": [
+            "Warna tinta pada kata berikutnya.",
+            "Panjang judul bab pada buku.",
+            "Bentuk, sambungan, titik, dan harakatnya.",
+            "Banyaknya halaman buku."
+          ],
+          "answer": "Bentuk, sambungan, titik, dan harakatnya.",
+          "discussion": "Membandingkan unsur tulisan membantu menemukan letak kesalahan salinan."
+        },
+        {
+          "id": "K03-PAI-B06-M01-012",
+          "type": "PG",
+          "text": "Setelah bisa menyalin dengan garis pemandu, latihan apa yang mengikuti kegiatan di buku?",
+          "options": [
+            "Salin lagi tanpa garis pemandu dengan model di depan.",
+            "Ubah urutan kata supaya mudah ditulis.",
+            "Tulis judul saja tanpa isi hadis.",
+            "Salin terjemahan sebagai pengganti tulisan Arab."
+          ],
+          "answer": "Salin lagi tanpa garis pemandu dengan model di depan.",
+          "discussion": "Latihan berikutnya mengurangi bantuan garis sambil mempertahankan ketepatan teks."
+        },
+        {
+          "id": "K03-PAI-B06-M01-013",
+          "type": "PG",
+          "text": "Bagaimana mengetahui apakah hafalan sudah bisa diucapkan tanpa bantuan teks?",
+          "options": [
+            "Baca sambil melihat setiap baris.",
+            "Tutup buku, ucapkan, lalu cocokkan dengan contoh.",
+            "Hitung waktu saat menyalin hadis.",
+            "Dengar teman membaca tanpa ikut mengulang."
+          ],
+          "answer": "Tutup buku, ucapkan, lalu cocokkan dengan contoh.",
+          "discussion": "Mencoba tanpa teks menunjukkan bagian yang sudah diingat dan bagian yang perlu diperbaiki."
+        },
+        {
+          "id": "K03-PAI-B06-M01-014",
+          "type": "PG",
+          "text": "Tari lancar melafalkan setiap penggalan sendiri, tetapi berhenti lama di antaranya. Latihan apa yang cocok?",
+          "options": [
+            "Ulangi hanya bagian pembuka.",
+            "Hafalkan terjemahan bagian terakhir.",
+            "Ganti urutan penggalan setiap berlatih.",
+            "Sambungkan dua penggalan berurutan, lalu tambah bagian berikutnya."
+          ],
+          "answer": "Sambungkan dua penggalan berurutan, lalu tambah bagian berikutnya.",
+          "discussion": "Latihan menyambung menargetkan jeda di batas penggalan."
+        },
+        {
+          "id": "K03-PAI-B06-M01-015",
+          "type": "PG",
+          "text": "Dalam latihan berpasangan, apa bantuan yang paling tepat saat teman lupa kelanjutannya?",
+          "options": [
+            "Langsung ucapkan seluruh hadis untuknya.",
+            "Ubah urutan bacaannya agar selesai lebih cepat.",
+            "Beri petunjuk singkat lalu beri waktu untuk melanjutkan.",
+            "Nilai hafalannya sebelum ia mencoba lagi."
+          ],
+          "answer": "Beri petunjuk singkat lalu beri waktu untuk melanjutkan.",
+          "discussion": "Petunjuk singkat membantu teman mengingat sambil tetap berlatih mengucapkan sendiri."
+        },
+        {
+          "id": "K03-PAI-B06-M01-016",
+          "type": "PG",
+          "text": "Siapa yang diikuti oleh makmum ketika salat berjemaah?",
+          "options": [
+            "Imam yang memimpin salat itu",
+            "Orang yang berdiri paling dekat pintu",
+            "Teman di samping yang bergerak duluan",
+            "Muazin yang sudah selesai azan"
+          ],
+          "answer": "Imam yang memimpin salat itu",
+          "discussion": "Imam memimpin rangkaian salat, sedangkan makmum mengikutinya."
+        },
+        {
+          "id": "K03-PAI-B06-M01-017",
+          "type": "PG",
+          "text": "Ketika imam mulai rukuk, apa yang dilakukan makmum?",
+          "options": [
+            "Rukuk lebih dahulu agar sejajar.",
+            "Tetap berdiri sampai imam sujud.",
+            "Mengikuti rukuk imam.",
+            "Memilih mengikuti gerakan teman yang mendahului."
+          ],
+          "answer": "Mengikuti rukuk imam.",
+          "discussion": "Makmum bergerak mengikuti imam, sehingga tidak mendahuluinya."
+        },
+        {
+          "id": "K03-PAI-B06-M01-018",
+          "type": "PG",
+          "text": "Saf anak-anak tampak renggang karena ada celah di tengah. Apa yang sebaiknya mereka lakukan sebelum salat?",
+          "options": [
+            "Membiarkan celah dan bergerak setelah salam saja.",
+            "Merapikan barisan dan menutup celah dengan tertib.",
+            "Berpindah ke depan imam.",
+            "Membuat barisan miring mengikuti dinding."
+          ],
+          "answer": "Merapikan barisan dan menutup celah dengan tertib.",
+          "discussion": "Saf yang lurus dan rapat membantu jemaah berdiri teratur."
+        },
+        {
+          "id": "K03-PAI-B06-M01-019",
+          "type": "PG",
+          "text": "Dalam simulasi kelas, satu imam dan beberapa makmum berlatih. Di mana para makmum membentuk saf?",
+          "options": [
+            "Di depan imam.",
+            "Mengelilingi imam.",
+            "Berpencar menghadap imam.",
+            "Di belakang imam."
+          ],
+          "answer": "Di belakang imam.",
+          "discussion": "Pada contoh dengan beberapa makmum, saf berada di belakang imam dan menghadap kiblat."
+        },
+        {
+          "id": "K03-PAI-B06-M01-020",
+          "type": "PG",
+          "text": "Apa yang dilakukan sebelum mulai latihan salat berjemaah sesungguhnya?",
+          "options": [
+            "Pastikan bersuci dan arah kiblat.",
+            "Mulai dulu lalu berwudu setelah salam.",
+            "Tunggu sampai imam sujud untuk mencari kiblat.",
+            "Rapikan saf tanpa memeriksa syarat salat."
+          ],
+          "answer": "Pastikan bersuci dan arah kiblat.",
+          "discussion": "Salat berjemaah tetap memiliki syarat salat, termasuk bersuci dan menghadap kiblat."
+        },
+        {
+          "id": "K03-PAI-B06-M01-021",
+          "type": "PG",
+          "text": "Ketika Arif tiba, jemaah sudah memulai salat. Sebutan bagi Arif bila ia terlambat mengikuti imam adalah ....",
+          "options": [
+            "imam pengganti",
+            "makmum masbuk",
+            "muazin",
+            "makmum yang hadir sejak awal"
+          ],
+          "answer": "makmum masbuk",
+          "discussion": "Masbuk adalah sebutan bagi makmum yang terlambat mengikuti salat bersama imam."
+        },
+        {
+          "id": "K03-PAI-B06-M01-022",
+          "type": "PG",
+          "text": "Setelah imam salam, Sari yakin masih ada satu rakaat yang belum ia kerjakan. Apa yang perlu ia lakukan?",
+          "options": [
+            "Langsung beranjak bersama teman.",
+            "Ulangi semua rakaat dari awal setiap kali terlambat.",
+            "Lengkapi rakaat yang tertinggal sesuai tuntunan.",
+            "Minta imam mengulang salat untuknya."
+          ],
+          "answer": "Lengkapi rakaat yang tertinggal sesuai tuntunan.",
+          "discussion": "Makmum masbuk melengkapi bagian yang tertinggal setelah imam salam."
+        },
+        {
+          "id": "K03-PAI-B06-M01-023",
+          "type": "PG",
+          "text": "Tindakan mana yang menunjukkan disiplin sebelum berjemaah?",
+          "options": [
+            "Bersiap lebih awal agar sempat berwudu dan masuk saf dengan tenang.",
+            "Menunggu imam rukuk baru bersiap.",
+            "Merapikan perlengkapan ketika semua mulai salat.",
+            "Berpindah-pindah saf sambil menunggu."
+          ],
+          "answer": "Bersiap lebih awal agar sempat berwudu dan masuk saf dengan tenang.",
+          "discussion": "Persiapan lebih awal memudahkan datang tepat waktu dan menjaga ketertiban."
+        },
+        {
+          "id": "K03-PAI-B06-M01-024",
+          "type": "PG",
+          "text": "Tindakan mana yang menunjukkan kebersamaan dalam salat berjemaah?",
+          "options": [
+            "Menentukan gerakan masing-masing.",
+            "Memilih posisi agar teman sulit masuk saf.",
+            "Saling mendahului agar cepat selesai.",
+            "Merapikan saf bersama dan mengikuti imam."
+          ],
+          "answer": "Merapikan saf bersama dan mengikuti imam.",
+          "discussion": "Kebersamaan tampak pada barisan yang tertib dan gerakan yang mengikuti pimpinan yang sama."
+        },
+        {
+          "id": "K03-PAI-B06-M01-025",
+          "type": "PG",
+          "text": "Teman baru belum mengerti cara mengikuti imam. Bagaimana cara membantu?",
+          "options": [
+            "Tertawakan kesalahannya setelah latihan.",
+            "Suruh ia menebak urutan sendiri.",
+            "Jelaskan dengan ramah sebelum latihan dimulai.",
+            "Potong salat untuk membahas setiap gerakannya."
+          ],
+          "answer": "Jelaskan dengan ramah sebelum latihan dimulai.",
+          "discussion": "Penjelasan sebelum praktik memberi teman kesempatan belajar tanpa mengganggu ibadah."
+        },
+        {
+          "id": "K03-PAI-B06-M01-026",
+          "type": "PG",
+          "text": "Apa pesan yang tepat untuk ajakan salat berjemaah di rumah?",
+          "options": [
+            "Ayo salat bersama supaya jumlah rakaat bertambah.",
+            "Ayo bersiap dan salat bersama karena berjemaah punya keutamaan.",
+            "Kita harus menunggu sampai peserta berjumlah 27.",
+            "Salat berjemaah hanya boleh dilatih di sekolah."
+          ],
+          "answer": "Ayo bersiap dan salat bersama karena berjemaah punya keutamaan.",
+          "discussion": "Hadis mendorong berjemaah dengan menjelaskan keutamaannya. Angka 27 menyatakan derajat."
+        },
+        {
+          "id": "K03-PAI-B06-M01-027",
+          "type": "PG",
+          "text": "Apa sebutan untuk isi atau redaksi sebuah hadis?",
+          "options": [
+            "Matan",
+            "Sanad",
+            "Saf",
+            "Rawi"
+          ],
+          "answer": "Matan",
+          "discussion": "Matan adalah bagian yang memuat isi hadis, seperti kalimat tentang keutamaan berjemaah."
+        },
+        {
+          "id": "K03-PAI-B06-M01-028",
+          "type": "PG",
+          "text": "Apa sebutan untuk rangkaian orang yang menyampaikan sebuah hadis?",
+          "options": [
+            "Matan",
+            "Saf",
+            "Takbir",
+            "Sanad"
+          ],
+          "answer": "Sanad",
+          "discussion": "Sanad adalah jalur periwayatan yang membawa hadis sampai kepada sumbernya."
+        },
+        {
+          "id": "K03-PAI-B06-M01-029",
+          "type": "PG",
+          "text": "Saat praktik, imam dan makmum sama-sama lupa urutan gerakan. Apa langkah belajar berikutnya?",
+          "options": [
+            "Pilih urutan berdasarkan gerakan yang paling mudah.",
+            "Ganti seluruh latihan dengan menyalin judul.",
+            "Minta guru mencontohkan urutan, lalu coba kembali.",
+            "Coba ulang dengan urutan yang berbeda-beda."
+          ],
+          "answer": "Minta guru mencontohkan urutan, lalu coba kembali.",
+          "discussion": "Contoh guru membantu membetulkan tata cara sebelum peserta mencoba kembali."
+        },
+        {
+          "id": "K03-PAI-B06-M01-030",
+          "type": "PG",
+          "text": "Doni lancar melafalkan hadis, tetapi saat praktik ia mendahului imam. Bagian apa yang masih perlu ia latih?",
+          "options": [
+            "Menyalin judul bab lebih cepat.",
+            "Menerapkan tuntunan mengikuti imam.",
+            "Menghafal nama teman satu saf.",
+            "Menghitung jumlah huruf terjemahan."
+          ],
+          "answer": "Menerapkan tuntunan mengikuti imam.",
+          "discussion": "Hafalan menunjukkan kemampuan mengingat teks, sedangkan praktik menunjukkan bagaimana tuntunan diterapkan."
+        }
+      ]
+    }
+  ]
+}
