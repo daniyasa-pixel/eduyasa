@@ -1,0 +1,109 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B01",
+      "chapter_title": "I Like Mi Aceh",
+      "questions": [
+        {
+          "id": "K03-ENG-B01-M01-046",
+          "type": "PG",
+          "text": "Listen. Which food does the speaker like?",
+          "options": [
+            "fried chicken",
+            "rice",
+            "noodles",
+            "fried rice"
+          ],
+          "answer": "fried rice",
+          "discussion": "Pembicara menyebut fried rice setelah I like. Fried mengubah makna rice menjadi nasi goreng.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "I like fried rice.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-047",
+          "type": "PG",
+          "text": "Listen to the question. Which food is the speaker asking about?",
+          "options": [
+            "bananas",
+            "bread",
+            "ice cream",
+            "meatballs"
+          ],
+          "answer": "bread",
+          "discussion": "Kata bread disebut setelah Do you like, sehingga yang ditanyakan adalah roti.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Do you like bread?",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-048",
+          "type": "PG",
+          "text": "Listen. Which drink does the speaker dislike?",
+          "options": [
+            "tea",
+            "milk",
+            "coffee",
+            "both tea and milk"
+          ],
+          "answer": "tea",
+          "discussion": "Frasa don’t like menerangkan tea. Milk muncul setelah like dan justru disukai.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "I like milk. I don't like tea.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-049",
+          "type": "PG",
+          "text": "Listen. What can you write in the survey row for Mila?",
+          "options": [
+            "Ice cream: No. Bananas: Yes.",
+            "Ice cream: Yes. Bananas: Yes.",
+            "Ice cream: No. Bananas: No.",
+            "Ice cream: Yes. Bananas: No."
+          ],
+          "answer": "Ice cream: Yes. Bananas: No.",
+          "discussion": "Mila menyebut es krim setelah I like dan pisang setelah I don’t like.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "I'm Mila. I like ice cream. I don't like bananas.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-050",
+          "type": "PG",
+          "text": "Listen to the exchange. What does Nina say about meatballs?",
+          "options": [
+            "No, I don’t.",
+            "Nina only likes bread.",
+            "Yes, I do.",
+            "Nina gives no answer."
+          ],
+          "answer": "Yes, I do.",
+          "discussion": "Pertanyaan menyebut meatballs. Respons Yes, I do langsung menyatakan bahwa penutur kedua menyukainya.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Rafa asks, do you like meatballs? Nina answers, yes, I do.",
+            "rate": 0.85
+          }
+        }
+      ]
+    }
+  ]
+}
