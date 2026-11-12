@@ -2,60 +2,55 @@
 
 ## MOD-01 — K03-ENG-B08-MOD-01
 
-### Let's learn!
+### Let's learn! — Makanan, minuman, dan tempat
 
-Ayo belajar kosakata baru dengan melihat gambar dan membacanya keras-keras.
+![Orange juice](assets/eng-b08-gambar-01.svg)
 
-![Vocabulary picture](assets/eng-b08-gambar-01.svg)
+**Kosakata minuman:** orange juice (jus jeruk), water (air), milk (susu), tea (teh).
 
-**Kosakata:**
-- **orange juice** = jus jeruk
-- **water** = air
-- **milk** = susu
-- **tea** = teh
-- **canteen** = kantin
-- **classroom** = kelas
-- **library** = perpustakaan
-- **bread** = roti
-- **rice** = nasi
-- **noodles** = mi
+**Kosakata makanan:** bread (roti), rice (nasi), noodles (mi).
 
-**Contoh:**
-- A: What is "jus jeruk" in English?
-- B: It is "orange juice".
-- A: What about "air"?
-- B: It is "water".
+**Tempat:** canteen (kantin), classroom (ruang kelas), library (perpustakaan).
 
-**Latihan:** Sebutkan lima kata yang kamu ingat, lalu buat kalimat sederhana bersama guru atau orang tua.
+**Pola kalimat:**
+- `I drink orange juice.` (Saya minum jus jeruk.)
+- `I eat rice.` (Saya makan nasi.)
+- `I drink water in the canteen.` (Saya minum air di kantin.)
 
+Kata **drink** digunakan saat minum; **eat** digunakan saat makan. Kata **in the canteen** menunjukkan tempat melakukan kegiatan. Jangan menukar kata kerja eat dan drink pada kalimat contoh.
+
+**Dialog:**
+- A: What do you drink?
+- B: I drink water.
+- A: Where do you drink water?
+- B: In the canteen.
+
+**Latihan:** Pilih satu makanan, satu minuman, dan satu tempat. Buat dua kalimat menggunakan `I eat ...` dan `I drink ... in the ...`.
 
 ---
 
 ## MOD-02 — K03-ENG-B08-MOD-02
 
-### Let's practice!
+### Let's practice! — Percakapan di kantin
 
-Ajak teman bergantian menyebut kata bahasa Inggris dan artinya. Gunakan dalam percakapan sederhana.
+![Water](assets/eng-b08-gambar-02.svg)
 
-![Vocabulary picture](assets/eng-b08-gambar-02.svg)
+**Baca contoh kegiatan:**
+- Sari eats **bread** and drinks **milk**.
+- Beni eats **rice** and drinks **water**.
+- Rina eats **noodles** and drinks **orange juice**.
+- Dika drinks **tea** in the **canteen**.
 
-**Kosakata:**
-- **orange juice** = jus jeruk
-- **water** = air
-- **milk** = susu
-- **tea** = teh
-- **canteen** = kantin
-- **classroom** = kelas
-- **library** = perpustakaan
-- **bread** = roti
-- **rice** = nasi
-- **noodles** = mi
+**Temukan jawaban dari informasi di atas:** Who drinks milk? Sari. What does Beni eat? Rice. Where does Dika drink tea? In the canteen.
 
-**Contoh:**
-- A: What is "jus jeruk" in English?
-- B: It is "orange juice".
-- A: What about "air"?
-- B: It is "water".
+**Pola tanya-jawab:**
+- A: Do you drink water?
+- B: Yes, I do.
+- A: Do you drink tea?
+- B: No, I don't.
 
-**Latihan:** Sebutkan lima kata yang kamu ingat, lalu buat kalimat sederhana bersama guru atau orang tua.
+`Yes, I do` dan `No, I don't` menjawab pertanyaan `Do you ...?`. Pertanyaan `What do you drink?` meminta nama minuman; `Where ...?` meminta tempat.
 
+**Latihan berpasangan:** Buat kartu bertuliskan drink, eat, orange juice, bread, water, rice, canteen. Susun tiga kalimat dan ajukan tiga pertanyaan kepada teman. Jawab sesuai isi kartu, bukan tebakan.
+
+**Ingat:** Bahasa Inggris dipakai untuk mendeskripsikan pilihan makanan/minuman, bukan untuk menyatakan bahwa satu pilihan harus diminum oleh setiap anak.
