@@ -1,0 +1,404 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PAI-B07",
+      "chapter_title": "Ayo Beriman Kepada Kitab-Kitab Allah Swt.",
+      "questions": [
+        {
+          "id": "K03-PAI-B07-M01-001",
+          "type": "PG",
+          "text": "Iman kepada kitab-kitab Allah Swt. termasuk rukun iman yang ke-berapa?",
+          "options": [
+            "Kedua",
+            "Ketiga",
+            "Keempat",
+            "Kelima"
+          ],
+          "answer": "Ketiga",
+          "discussion": "Dalam urutan rukun iman, beriman kepada kitab-kitab Allah berada sesudah iman kepada malaikat dan sebelum iman kepada rasul."
+        },
+        {
+          "id": "K03-PAI-B07-M01-002",
+          "type": "PG",
+          "text": "Apa yang diyakini ketika seseorang beriman kepada kitab-kitab Allah Swt.?",
+          "options": [
+            "Semua nasihat manusia termasuk wahyu Allah.",
+            "Kitab-kitab Allah ditulis oleh para nabi atas gagasan mereka sendiri.",
+            "Allah hanya memberi petunjuk melalui tulisan manusia.",
+            "Allah menurunkan kitab-kitab-Nya kepada para rasul sebagai pedoman hidup."
+          ],
+          "answer": "Allah menurunkan kitab-kitab-Nya kepada para rasul sebagai pedoman hidup.",
+          "discussion": "Allah adalah sumber wahyu. Para rasul menerima wahyu dan menyampaikannya kepada umat."
+        },
+        {
+          "id": "K03-PAI-B07-M01-003",
+          "type": "PG",
+          "text": "Mengapa Allah Swt. menurunkan kitab kepada para rasul?",
+          "options": [
+            "Untuk membimbing manusia dalam beriman dan berbuat baik.",
+            "Untuk mengajarkan keterampilan membaca saja.",
+            "Untuk mencatat riwayat hidup semua rasul.",
+            "Untuk menggantikan tugas rasul dalam membimbing umat."
+          ],
+          "answer": "Untuk membimbing manusia dalam beriman dan berbuat baik.",
+          "discussion": "Kitab Allah memberi petunjuk tentang keyakinan dan perbuatan. Para rasul menyampaikan petunjuk itu kepada umatnya."
+        },
+        {
+          "id": "K03-PAI-B07-M01-004",
+          "type": "PG",
+          "text": "Fara menulis dua kata pada papan: “wahyu” dan “suhuf”. Bagaimana hubungan keduanya?",
+          "options": [
+            "Suhuf adalah nama lain dari semua kitab Allah.",
+            "Wahyu adalah sebutan untuk catatan buatan murid.",
+            "Suhuf adalah lembaran yang memuat wahyu Allah.",
+            "Suhuf adalah kumpulan nasihat yang dibuat para sahabat."
+          ],
+          "answer": "Suhuf adalah lembaran yang memuat wahyu Allah.",
+          "discussion": "Wahyu adalah petunjuk dari Allah kepada nabi atau rasul. Sebagian wahyu diturunkan dalam bentuk lembaran yang disebut suhuf."
+        },
+        {
+          "id": "K03-PAI-B07-M01-005",
+          "type": "PG",
+          "text": "Lembar belajar Rafi bertuliskan “Taurat → ...”. Nama siapa yang mengisi bagian kosong?",
+          "options": [
+            "Nabi Musa a.s.",
+            "Nabi Dawud a.s.",
+            "Nabi Isa a.s.",
+            "Nabi Muhammad saw."
+          ],
+          "answer": "Nabi Musa a.s.",
+          "discussion": "Taurat Allah turunkan kepada Nabi Musa a.s. sebagai pedoman bagi umatnya."
+        },
+        {
+          "id": "K03-PAI-B07-M01-006",
+          "type": "PG",
+          "text": "Satu kartu berisi “Nabi Dawud a.s.”. Kartu kitab mana yang harus dipasangkan dengannya?",
+          "options": [
+            "Taurat",
+            "Injil",
+            "Al-Qur’an",
+            "Zabur"
+          ],
+          "answer": "Zabur",
+          "discussion": "Allah menurunkan Zabur kepada Nabi Dawud a.s. Di antara isinya ada nasihat dan peringatan."
+        },
+        {
+          "id": "K03-PAI-B07-M01-007",
+          "type": "PG",
+          "text": "Dua pasangan dalam catatan tertukar: “Injil — Nabi Muhammad saw.” dan “Al-Qur’an — Nabi Isa a.s.”. Bagaimana perbaikannya?",
+          "options": [
+            "Injil — Nabi Musa a.s. dan Al-Qur’an — Nabi Muhammad saw.",
+            "Injil — Nabi Isa a.s. dan Al-Qur’an — Nabi Muhammad saw.",
+            "Injil — Nabi Isa a.s. dan Al-Qur’an — Nabi Dawud a.s.",
+            "Injil — Nabi Dawud a.s. dan Al-Qur’an — Nabi Musa a.s."
+          ],
+          "answer": "Injil — Nabi Isa a.s. dan Al-Qur’an — Nabi Muhammad saw.",
+          "discussion": "Nabi Isa a.s. menerima Injil, sedangkan Nabi Muhammad saw. menerima Al-Qur’an. Menukar kembali kedua nama memperbaiki dua pasangan sekaligus."
+        },
+        {
+          "id": "K03-PAI-B07-M01-008",
+          "type": "PG",
+          "text": "Guru menjelaskan bahwa salah satu kitab berisi hukum dan aturan bagi umat Nabi Musa a.s. Kitab apa yang sedang dibahas?",
+          "options": [
+            "Al-Qur’an",
+            "Injil",
+            "Taurat",
+            "Zabur"
+          ],
+          "answer": "Taurat",
+          "discussion": "Petunjuknya adalah umat Nabi Musa a.s. Allah memberi mereka Taurat sebagai pedoman, termasuk aturan yang berlaku bagi mereka saat itu."
+        },
+        {
+          "id": "K03-PAI-B07-M01-009",
+          "type": "PG",
+          "text": "Kartu manakah yang memuat keterangan tepat tentang Injil?",
+          "options": [
+            "Kitab yang diturunkan kepada Nabi Dawud a.s.",
+            "Kitab terakhir yang menjadi pedoman umat Islam.",
+            "Kitab yang berisi aturan bagi umat Nabi Musa a.s.",
+            "Kitab yang menyeru umat Nabi Isa a.s. untuk mengesakan Allah."
+          ],
+          "answer": "Kitab yang menyeru umat Nabi Isa a.s. untuk mengesakan Allah.",
+          "discussion": "Nabi Isa a.s. menerima Injil. Salah satu pokok ajarannya ialah tauhid, yaitu mengesakan Allah."
+        },
+        {
+          "id": "K03-PAI-B07-M01-010",
+          "type": "PG",
+          "text": "Alya ingin menandai kitab Allah yang terakhir di pohon iman. Apa yang harus ia tandai?",
+          "options": [
+            "Al-Qur’an",
+            "Injil",
+            "Zabur",
+            "Taurat"
+          ],
+          "answer": "Al-Qur’an",
+          "discussion": "Al-Qur’an diturunkan kepada Nabi Muhammad saw. sebagai kitab Allah yang terakhir dan pedoman bagi umat Islam."
+        },
+        {
+          "id": "K03-PAI-B07-M01-011",
+          "type": "PG",
+          "text": "Apa peran Malaikat Jibril dalam turunnya Al-Qur’an?",
+          "options": [
+            "Menentukan isi wahyu",
+            "Menulis wahyu sebagai penulis di antara para sahabat",
+            "Menyampaikan wahyu kepada Nabi Muhammad saw.",
+            "Mengumpulkan lembaran wahyu menjadi mushaf"
+          ],
+          "answer": "Menyampaikan wahyu kepada Nabi Muhammad saw.",
+          "discussion": "Allah menurunkan wahyu. Malaikat Jibril bertugas menyampaikan wahyu tersebut kepada Nabi Muhammad saw."
+        },
+        {
+          "id": "K03-PAI-B07-M01-012",
+          "type": "PG",
+          "text": "Dina membaca penjelasan Q.S. An-Nisa’ ayat 136 tentang kitab Allah. Pesan mana yang sesuai?",
+          "options": [
+            "Cukup percaya kepada kitab yang terakhir diturunkan.",
+            "Beriman kepada Al-Qur’an dan kepada kitab yang Allah turunkan sebelumnya.",
+            "Cukup hafal nama kitab tanpa meyakini asalnya.",
+            "Beriman hanya kepada kitab yang disebut dalam Q.S. Ali ‘Imran ayat 3."
+          ],
+          "answer": "Beriman kepada Al-Qur’an dan kepada kitab yang Allah turunkan sebelumnya.",
+          "discussion": "Ayat ini menyebut kitab yang diturunkan kepada Nabi Muhammad saw. dan kitab yang diturunkan sebelumnya. Keduanya termasuk dalam cakupan iman kepada kitab Allah."
+        },
+        {
+          "id": "K03-PAI-B07-M01-013",
+          "type": "PG",
+          "text": "Q.S. Ali ‘Imran ayat 3 menyebut dua kitab terdahulu dengan namanya. Manakah keduanya?",
+          "options": [
+            "Taurat dan Zabur",
+            "Zabur dan Injil",
+            "Injil dan suhuf",
+            "Taurat dan Injil"
+          ],
+          "answer": "Taurat dan Injil",
+          "discussion": "Ayat itu menjelaskan turunnya Al-Qur’an serta menyebut Taurat dan Injil sebagai kitab yang Allah turunkan sebelumnya."
+        },
+        {
+          "id": "K03-PAI-B07-M01-014",
+          "type": "PG",
+          "text": "Dalam hadis tentang rukun iman, Malaikat Jibril bertanya kepada Nabi Muhammad saw. tentang iman. Apa kaitan jawaban Nabi dengan bab ini?",
+          "options": [
+            "Beriman kepada kitab Allah termasuk pokok iman.",
+            "Beriman kepada kitab Allah menggantikan iman kepada para rasul.",
+            "Membaca kitab termasuk salah satu dari lima rukun Islam.",
+            "Menghafal nama kitab mencakup seluruh makna iman."
+          ],
+          "answer": "Beriman kepada kitab Allah termasuk pokok iman.",
+          "discussion": "Nabi menyebut iman kepada kitab-kitab Allah bersama pokok iman lainnya. Ini menunjukkan kedudukannya sebagai salah satu rukun iman."
+        },
+        {
+          "id": "K03-PAI-B07-M01-015",
+          "type": "PG",
+          "text": "Mengapa Q.S. An-Nisa’ ayat 136 dan hadis riwayat Muslim bisa dipakai untuk menjelaskan pelajaran yang sama?",
+          "options": [
+            "Keduanya memuat nama empat kitab dan semua nabi penerimanya.",
+            "Keduanya menceritakan waktu turunnya Al-Qur’an.",
+            "Keduanya mengajarkan bahwa kitab-kitab Allah termasuk perkara yang harus diimani.",
+            "Keduanya menjelaskan peran penulis wahyu."
+          ],
+          "answer": "Keduanya mengajarkan bahwa kitab-kitab Allah termasuk perkara yang harus diimani.",
+          "discussion": "Kedua dalil memberi dasar untuk beriman kepada kitab-kitab Allah. Daftar lengkap pasangan kitab dan nabi dipelajari dari keterangan lain."
+        },
+        {
+          "id": "K03-PAI-B07-M01-016",
+          "type": "PG",
+          "text": "Apa cara yang tepat untuk beriman kepada kitab yang Allah turunkan sebelum Al-Qur’an?",
+          "options": [
+            "Meyakini Taurat, Zabur, dan Injil merupakan tulisan biasa.",
+            "Meyakini ketiganya baru turun setelah Al-Qur’an.",
+            "Menjadikan ketiganya pengganti Al-Qur’an bagi umat Islam.",
+            "Meyakini kitab-kitab tersebut berasal dari Allah dan menjadi pedoman bagi umat yang menerimanya."
+          ],
+          "answer": "Meyakini kitab-kitab tersebut berasal dari Allah dan menjadi pedoman bagi umat yang menerimanya.",
+          "discussion": "Kitab terdahulu merupakan wahyu Allah dan menjadi petunjuk bagi umat para nabi penerimanya. Umat Islam menjadikan Al-Qur’an sebagai pedoman."
+        },
+        {
+          "id": "K03-PAI-B07-M01-017",
+          "type": "PG",
+          "text": "Reno bertanya, “Kalau beriman kepada Taurat, apa kitab pedoman bagi umat Islam?” Apa jawaban yang tepat?",
+          "options": [
+            "Al-Qur’an, sambil tetap meyakini Taurat yang Allah turunkan kepada Nabi Musa a.s.",
+            "Taurat, karena kitab terdahulu selalu menjadi pedoman semua umat.",
+            "Zabur, karena berisi nasihat tentang kebaikan.",
+            "Semua kitab dipakai bergantian sebagai pedoman ibadah umat Islam."
+          ],
+          "answer": "Al-Qur’an, sambil tetap meyakini Taurat yang Allah turunkan kepada Nabi Musa a.s.",
+          "discussion": "Beriman mencakup pengakuan bahwa Taurat yang diturunkan kepada Nabi Musa a.s. berasal dari Allah. Pedoman hidup umat Islam adalah Al-Qur’an."
+        },
+        {
+          "id": "K03-PAI-B07-M01-018",
+          "type": "PG",
+          "text": "Rina ingin memahami bacaan Al-Qur’an yang baru dipelajarinya. Langkah mana yang paling membantu?",
+          "options": [
+            "Mencatat jumlah halaman yang telah dibaca.",
+            "Mendengarkan penjelasan guru tentang maknanya dan mencari contoh yang bisa dilakukan.",
+            "Memilih bacaan berikutnya berdasarkan panjang halamannya.",
+            "Menyalin judul surah ke sampul buku."
+          ],
+          "answer": "Mendengarkan penjelasan guru tentang maknanya dan mencari contoh yang bisa dilakukan.",
+          "discussion": "Memahami makna dan mencari contoh penerapan membantu Rina membawa pelajaran dari bacaan ke kehidupan sehari-hari."
+        },
+        {
+          "id": "K03-PAI-B07-M01-019",
+          "type": "PG",
+          "text": "Selesai mengaji, Hadi menemukan uang di lantai kelas. Bagaimana ia dapat menerapkan pelajaran tentang amanah?",
+          "options": [
+            "Menyimpan uang itu sebagai hadiah karena ia menemukannya.",
+            "Membagikan uang itu kepada teman di dekatnya.",
+            "Menitipkan uang kepada guru supaya pemiliknya dapat dicari.",
+            "Menukar uang itu dengan barang yang bisa dipakai kelas."
+          ],
+          "answer": "Menitipkan uang kepada guru supaya pemiliknya dapat dicari.",
+          "discussion": "Amanah terlihat ketika Hadi menjaga hak pemilik dan membantu mengembalikan uang melalui guru."
+        },
+        {
+          "id": "K03-PAI-B07-M01-020",
+          "type": "PG",
+          "text": "Di kelas, Wulan dan temannya berbeda agama. Bagaimana Wulan menunjukkan sikap saling menghargai saat bekerja kelompok?",
+          "options": [
+            "Menolak pendapat temannya sebelum mendengar alasannya.",
+            "Mengajak temannya mengikuti ibadah Wulan sebelum mulai bekerja.",
+            "Mengambil semua tugas supaya temannya hanya melihat.",
+            "Mendengarkan usul temannya dan membagi pekerjaan secara adil."
+          ],
+          "answer": "Mendengarkan usul temannya dan membagi pekerjaan secara adil.",
+          "discussion": "Menghargai teman terlihat dari cara mendengarkan dan memberi kesempatan yang adil. Mereka dapat bekerja sama menyelesaikan tugas kelas."
+        },
+        {
+          "id": "K03-PAI-B07-M01-021",
+          "type": "PG",
+          "text": "Rak buku kelas berantakan. Kegiatan mana yang menunjukkan gotong royong?",
+          "options": [
+            "Beberapa murid menyortir buku, sementara yang lain merapikan rak dan menyusun buku kembali.",
+            "Semua murid menunggu satu orang menyelesaikannya.",
+            "Setiap murid hanya merapikan buku yang ingin dipinjamnya.",
+            "Murid tercepat merapikan semuanya agar bisa mendapat pujian."
+          ],
+          "answer": "Beberapa murid menyortir buku, sementara yang lain merapikan rak dan menyusun buku kembali.",
+          "discussion": "Gotong royong berarti bekerja bersama untuk tujuan bersama. Pembagian tugas membuat setiap anggota ikut berperan."
+        },
+        {
+          "id": "K03-PAI-B07-M01-022",
+          "type": "PG",
+          "text": "Sari dan Nisa sama-sama ingin memakai alat gambar kelas. Bagaimana pedoman berbuat adil membantu mereka?",
+          "options": [
+            "Alat diberikan kepada orang yang paling keras meminta.",
+            "Alat diberikan kepada orang yang paling akrab dengan ketua kelas.",
+            "Mereka mendengarkan kebutuhan masing-masing dan menyepakati giliran.",
+            "Mereka menyimpan alat itu supaya keduanya batal memakai."
+          ],
+          "answer": "Mereka mendengarkan kebutuhan masing-masing dan menyepakati giliran.",
+          "discussion": "Menyepakati giliran memberi kesempatan kepada keduanya. Sikap adil dapat mencegah perselisihan menjadi lebih besar."
+        },
+        {
+          "id": "K03-PAI-B07-M01-023",
+          "type": "PG",
+          "text": "Apa manfaat berpegang pada ajaran Al-Qur’an saat memilih tindakan?",
+          "options": [
+            "Selalu tahu apa yang akan terjadi besok.",
+            "Mempunyai pedoman untuk memilih yang benar dan menghindari yang salah.",
+            "Selalu menjadi anak pertama yang menyelesaikan tugas.",
+            "Dapat membuat semua orang setuju dengan pilihannya."
+          ],
+          "answer": "Mempunyai pedoman untuk memilih yang benar dan menghindari yang salah.",
+          "discussion": "Pedoman membantu kita menilai tindakan dan memilih kebaikan, termasuk saat pilihan yang baik memerlukan usaha."
+        },
+        {
+          "id": "K03-PAI-B07-M01-024",
+          "type": "PG",
+          "text": "Apa yang bisa terjadi jika seseorang terbiasa mengabaikan petunjuk tentang kejujuran?",
+          "options": [
+            "Ia selalu lebih mudah memilih tindakan yang baik.",
+            "Ia semakin terbiasa meminta izin sebelum memakai milik orang lain.",
+            "Ia akan hafal semua nama kitab dengan sendirinya.",
+            "Ia bisa menganggap berbohong sebagai hal biasa dan merusak kepercayaan orang lain."
+          ],
+          "answer": "Ia bisa menganggap berbohong sebagai hal biasa dan merusak kepercayaan orang lain.",
+          "discussion": "Jika nasihat kejujuran sering diabaikan, kebiasaan berbohong bisa terbentuk. Orang lain pun lebih sulit mempercayainya."
+        },
+        {
+          "id": "K03-PAI-B07-M01-025",
+          "type": "PG",
+          "text": "Bagaimana mempelajari petunjuk dalam kitab Allah dapat memperkuat iman?",
+          "options": [
+            "Kita semakin mengenal petunjuk Allah dan belajar menaatinya.",
+            "Kita cukup menambah jumlah buku di rak.",
+            "Kita semakin pandai mengurutkan semua buku sesuai ukurannya.",
+            "Kita cukup menghafal judul tanpa memahami maknanya."
+          ],
+          "answer": "Kita semakin mengenal petunjuk Allah dan belajar menaatinya.",
+          "discussion": "Iman dapat bertambah kuat ketika kita memahami petunjuk Allah dan berusaha menjalankannya dalam kehidupan sehari-hari."
+        },
+        {
+          "id": "K03-PAI-B07-M01-026",
+          "type": "PG",
+          "text": "Iman sedang menggambar pohon iman. Ia ingin menuliskan empat nama kitab dan penerimanya agar mudah dipelajari. Bagaimana ia sebaiknya memakai cabang-cabang pohon?",
+          "options": [
+            "Menulis empat nama kitab dalam satu cabang dan membiarkan cabang lain kosong.",
+            "Menulis empat nama nabi tanpa nama kitab pada semua cabang.",
+            "Menulis satu pasangan kitab dan nabi penerimanya pada setiap cabang.",
+            "Menulis nama Nabi Muhammad saw. di samping nama keempat kitab."
+          ],
+          "answer": "Menulis satu pasangan kitab dan nabi penerimanya pada setiap cabang.",
+          "discussion": "Satu pasangan pada tiap cabang memperjelas siapa yang menerima setiap kitab. Empat cabang dapat menampung Taurat, Zabur, Injil, dan Al-Qur’an."
+        },
+        {
+          "id": "K03-PAI-B07-M01-027",
+          "type": "PG",
+          "text": "Pada pohon iman, tiga pasangan sudah benar: “Taurat — Musa”, “Injil — Isa”, dan “Al-Qur’an — Muhammad”. Pasangan apa yang masih harus ditambahkan?",
+          "options": [
+            "Taurat — Dawud",
+            "Zabur — Dawud",
+            "Zabur — Musa",
+            "Injil — Dawud"
+          ],
+          "answer": "Zabur — Dawud",
+          "discussion": "Zabur belum tercantum dan penerimanya adalah Nabi Dawud a.s. Pasangan itu melengkapi empat cabang."
+        },
+        {
+          "id": "K03-PAI-B07-M01-028",
+          "type": "PG",
+          "text": "Manakah kalimat yang cocok ditulis di bawah pohon iman untuk merangkum pelajaran?",
+          "options": [
+            "Iman cukup ditunjukkan dengan membuat gambar pohon.",
+            "Seluruh kitab Allah turun kepada satu nabi.",
+            "Kitab Allah hanya berisi cerita untuk dihafalkan.",
+            "Allah menurunkan kitab sebagai petunjuk, dan kita belajar menjalankan petunjuk-Nya."
+          ],
+          "answer": "Allah menurunkan kitab sebagai petunjuk, dan kita belajar menjalankan petunjuk-Nya.",
+          "discussion": "Ringkasan ini menyebut asal kitab, tujuan diturunkannya, dan sikap setelah mempelajarinya."
+        },
+        {
+          "id": "K03-PAI-B07-M01-029",
+          "type": "PG",
+          "text": "Bima rajin mengaji. Saat berebut tugas kelompok, ia memotong ucapan temannya. Perbaikan apa yang paling sesuai dengan pelajaran bab ini?",
+          "options": [
+            "Mendengarkan temannya sampai selesai, lalu menyampaikan pendapat dengan sopan.",
+            "Mengulang usulnya lebih keras supaya didengar.",
+            "Menyerahkan semua keputusan kepada murid yang paling cepat bicara.",
+            "Menambah waktu mengaji sambil membiarkan cara berdiskusinya seperti semula."
+          ],
+          "answer": "Mendengarkan temannya sampai selesai, lalu menyampaikan pendapat dengan sopan.",
+          "discussion": "Membaca Al-Qur’an dapat berjalan bersama upaya mengamalkan ajarannya. Mendengarkan dan berbicara sopan melatih sikap saling menghargai."
+        },
+        {
+          "id": "K03-PAI-B07-M01-030",
+          "type": "PG",
+          "text": "Kalimat mana yang paling lengkap untuk menjawab pertanyaan “Apa yang kamu pelajari dari bab ini?”",
+          "options": [
+            "Aku hafal nama kitab sehingga sudah cukup belajar tentang iman.",
+            "Aku tahu cara membuat pohon, tetapi setiap cabang boleh berisi pasangan kitab dan nabi secara bebas.",
+            "Aku yakin kitab-kitab Allah berasal dari-Nya, menjadikan Al-Qur’an pedoman, dan berlatih berbuat baik kepada sesama.",
+            "Aku hanya perlu mengetahui kitab yang pernah aku lihat di rumah."
+          ],
+          "answer": "Aku yakin kitab-kitab Allah berasal dari-Nya, menjadikan Al-Qur’an pedoman, dan berlatih berbuat baik kepada sesama.",
+          "discussion": "Jawaban itu merangkum keyakinan kepada kitab-kitab Allah, kedudukan Al-Qur’an, dan penerapan ajaran dalam keseharian."
+        }
+      ]
+    }
+  ]
+}
