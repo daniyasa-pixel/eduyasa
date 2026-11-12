@@ -1,0 +1,184 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Rupa",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-SBD-B05",
+      "chapter_title": "Aku Seniman Cilik",
+      "questions": [
+        {
+          "id": "K03-SBD-B05-M01-036",
+          "type": "PG",
+          "text": "Kuas yang telah dipakai cat tampak di dekat wadah air. Tindakan perawatan kuas yang tepat adalah ....",
+          "options": [
+            "dibiarkan kotor selamanya",
+            "dilempar ke lantai",
+            "digunakan menusuk teman",
+            "dibersihkan sesuai jenis cat"
+          ],
+          "answer": "dibersihkan sesuai jenis cat",
+          "discussion": "Kuas setelah digunakan sebaiknya dibersihkan sesuai jenis cat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-01.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B05-M01-037",
+          "type": "PG",
+          "text": "Bahan bekas dalam ilustrasi akan menjadi karya baru. Apa yang perlu dilakukan sebelum bahan dipakai?",
+          "options": [
+            "dibersihkan dan dipastikan aman",
+            "selalu dipakai meski tajam",
+            "dibakar di kelas",
+            "diambil dari tempat berbahaya"
+          ],
+          "answer": "dibersihkan dan dipastikan aman",
+          "discussion": "Bahan daur ulang untuk karya perlu dibersihkan dan dipastikan aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-02.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B05-M01-038",
+          "type": "PG",
+          "text": "Gambar rancangan pertama belum berhasil diwujudkan. Sikap yang tepat pada percobaan berikutnya adalah ....",
+          "options": [
+            "berhenti belajar selamanya",
+            "mengevaluasi lalu mencoba lagi",
+            "menyalahkan teman",
+            "merusak meja"
+          ],
+          "answer": "mengevaluasi lalu mencoba lagi",
+          "discussion": "Saat karya gagal sesuai rencana, seniman cilik dapat mengevaluasi lalu mencoba lagi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-03.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B05-M01-039",
+          "type": "PG",
+          "text": "Beberapa anak membuat mural di satu lembar besar. Apa kebutuhan utama agar tugas berjalan baik?",
+          "options": [
+            "saling mengejek",
+            "mengabaikan kesepakatan",
+            "pembagian tugas dan kerja sama",
+            "saling berebut alat"
+          ],
+          "answer": "pembagian tugas dan kerja sama",
+          "discussion": "Kerja kelompok membuat mural kertas memerlukan pembagian tugas dan kerja sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-04.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B05-M01-040",
+          "type": "PG",
+          "text": "Meja pameran menampilkan banyak karya dan pengunjung perlu lewat. Hal yang harus diperhatikan adalah ....",
+          "options": [
+            "barang menutupi semua karya",
+            "jalan keluar tertutup",
+            "kertas berserakan",
+            "kerapian dan ruang pengunjung"
+          ],
+          "answer": "kerapian dan ruang pengunjung",
+          "discussion": "Menata karya di meja pameran perlu memperhatikan kerapian dan ruang pengunjung.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-05.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B05-M01-041",
+          "type": "PG",
+          "text": "Pengunjung berdiri di depan karya teman di pameran mini. Perilaku yang sesuai adalah ....",
+          "options": [
+            "melihat dengan tertib dan menghargai karya",
+            "menyentuh semua karya tanpa izin",
+            "mencoret pajangan",
+            "mendorong teman"
+          ],
+          "answer": "melihat dengan tertib dan menghargai karya",
+          "discussion": "Sikap pengunjung pameran adalah melihat dengan tertib dan menghargai karya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-06.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B05-M01-042",
+          "type": "PG",
+          "text": "Ilustrasi memperlihatkan alat cap sederhana dan cat. Bahan yang aman digunakan untuk mencap adalah ....",
+          "options": [
+            "api",
+            "spons atau daun bersih dengan cat yang aman",
+            "pisau tajam",
+            "pecahan kaca"
+          ],
+          "answer": "spons atau daun bersih dengan cat yang aman",
+          "discussion": "Teknik cap sederhana dapat memakai spons atau daun bersih dengan cat yang aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-07.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B05-M01-043",
+          "type": "PG",
+          "text": "Dua anak bekerja sama membuat karya; salah satu membantu temannya. Sikap yang ditunjukkan adalah ....",
+          "options": [
+            "mencela hasil orang lain",
+            "tidak mau berbagi",
+            "tanggung jawab dan saling menghormati",
+            "menyembunyikan bahan"
+          ],
+          "answer": "tanggung jawab dan saling menghormati",
+          "discussion": "Membuat karya bersama teman mengajarkan tanggung jawab dan saling menghormati.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-08.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B05-M01-044",
+          "type": "PG",
+          "text": "Seorang siswa mengamati hasil lalu menentukan bagian untuk diperbaiki. Kegiatan itu disebut ....",
+          "options": [
+            "membuang karya tanpa melihat",
+            "menghina pembuat",
+            "mengabaikan proses",
+            "meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki"
+          ],
+          "answer": "meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki",
+          "discussion": "Evaluasi karya berarti meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-09.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B05-M01-045",
+          "type": "PG",
+          "text": "Pameran selesai dan alat masih di meja. Cara penanganan alat dan karya yang benar adalah ....",
+          "options": [
+            "dikembalikan atau disimpan dengan rapi",
+            "dibiarkan tercecer",
+            "dibuang tanpa izin",
+            "dirusak"
+          ],
+          "answer": "dikembalikan atau disimpan dengan rapi",
+          "discussion": "Setelah pameran, karya dan alat sebaiknya dikembalikan atau disimpan dengan rapi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-10.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        }
+      ]
+    }
+  ]
+}
