@@ -13,6 +13,14 @@
     "K03-SBD-B03": [
       "sbd/sbd-b03.json",
       "sbd/sbd-b03a.json"
+    ],
+    "K03-SBD-B04": [
+      "sbd/sbd-b04.json",
+      "sbd/sbd-b04a.json"
+    ],
+    "K03-SBD-B05": [
+      "sbd/sbd-b05.json",
+      "sbd/sbd-b05a.json"
     ]
   }
 }
