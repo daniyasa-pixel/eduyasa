@@ -2,560 +2,560 @@
 
 ## Soal 1 — K03-ENG-B06-M01-001
 
-**Pertanyaan:** What is the English word for "kantin"?
+**Pertanyaan:** Rina wants to borrow a storybook. Where should she go?
 
 **Pilihan jawaban:**
-- toilet
-- gate
-- office
+- library
 - canteen
+- gate
+- toilet
 
-**Kunci Jawaban:** canteen
+**Kunci Jawaban:** library
 
-**Pembahasan:** "canteen" berarti "kantin".
+**Pembahasan:** A library is a place to read or borrow books.
 
 ---
 
 ## Soal 2 — K03-ENG-B06-M01-002
 
-**Pertanyaan:** What is the English word for "perpustakaan"?
+**Pertanyaan:** Budi wants to buy lunch at school. Which place does he need?
 
 **Pilihan jawaban:**
-- yard
-- toilet
-- library
-- playground
+- office
+- canteen
+- garden
+- classroom
 
-**Kunci Jawaban:** library
+**Kunci Jawaban:** canteen
 
-**Pembahasan:** "library" berarti "perpustakaan".
+**Pembahasan:** Students can buy food at the canteen.
 
 ---
 
 ## Soal 3 — K03-ENG-B06-M01-003
 
-**Pertanyaan:** What is the English word for "ruang kelas"?
+**Pertanyaan:** The teacher says, 'Please sit at your desk.' Where are the students?
 
 **Pilihan jawaban:**
-- playground
+- gate
+- yard
 - classroom
-- garden
-- computer
+- library
 
 **Kunci Jawaban:** classroom
 
-**Pembahasan:** "classroom" berarti "ruang kelas".
+**Pembahasan:** Students sit at their desks in the classroom.
 
 ---
 
 ## Soal 4 — K03-ENG-B06-M01-004
 
-**Pertanyaan:** What is the English word for "kantor"?
+**Pertanyaan:** A visitor wants to meet the head teacher. Which room should she ask for?
 
 **Pilihan jawaban:**
+- playground
 - office
-- gate
-- canteen
 - garden
+- toilet
 
 **Kunci Jawaban:** office
 
-**Pembahasan:** "office" berarti "kantor".
+**Pembahasan:** The school office is where visitors can ask for staff.
 
 ---
 
 ## Soal 5 — K03-ENG-B06-M01-005
 
-**Pertanyaan:** What is the English word for "toilet"?
+**Pertanyaan:** A student needs to wash their hands after using the toilet. Which place is mentioned?
 
 **Pilihan jawaban:**
-- yard
-- library
-- gate
 - toilet
+- library
+- canteen
+- gate
 
 **Kunci Jawaban:** toilet
 
-**Pembahasan:** "toilet" berarti "toilet".
+**Pembahasan:** The sentence mentions the toilet.
 
 ---
 
 ## Soal 6 — K03-ENG-B06-M01-006
 
-**Pertanyaan:** What is the English word for "taman bermain"?
+**Pertanyaan:** Children play on the swings. Where are they?
 
 **Pilihan jawaban:**
-- classroom
-- yard
+- office
 - playground
-- computer
+- library
+- canteen
 
 **Kunci Jawaban:** playground
 
-**Pembahasan:** "playground" berarti "taman bermain".
+**Pembahasan:** Swings are found in a playground.
 
 ---
 
 ## Soal 7 — K03-ENG-B06-M01-007
 
-**Pertanyaan:** What is the English word for "taman"?
+**Pertanyaan:** There are flowers and small plants in this school area. What is it?
 
 **Pilihan jawaban:**
-- computer
 - garden
-- canteen
 - office
+- classroom
+- toilet
 
 **Kunci Jawaban:** garden
 
-**Pembahasan:** "garden" berarti "taman".
+**Pembahasan:** A garden is an area where plants grow.
 
 ---
 
 ## Soal 8 — K03-ENG-B06-M01-008
 
-**Pertanyaan:** What is the English word for "gerbang"?
+**Pertanyaan:** A parent enters the school through a large entrance. What is it called?
 
 **Pilihan jawaban:**
-- gate
+- yard
 - library
-- toilet
+- gate
 - canteen
 
 **Kunci Jawaban:** gate
 
-**Pembahasan:** "gate" berarti "gerbang".
+**Pembahasan:** A gate is an entrance to the school grounds.
 
 ---
 
 ## Soal 9 — K03-ENG-B06-M01-009
 
-**Pertanyaan:** What is the English word for "halaman"?
+**Pertanyaan:** Students line up in the open school area. Which word names that area?
 
 **Pilihan jawaban:**
-- classroom
-- playground
-- library
+- computer
 - yard
+- office
+- library
 
 **Kunci Jawaban:** yard
 
-**Pembahasan:** "yard" berarti "halaman".
+**Pembahasan:** A school yard is an open area on the school grounds.
 
 ---
 
 ## Soal 10 — K03-ENG-B06-M01-010
 
-**Pertanyaan:** What is the English word for "komputer"?
+**Pertanyaan:** Dina types her homework on a machine with a keyboard and screen. What is it?
 
 **Pilihan jawaban:**
+- gate
 - garden
-- classroom
 - computer
-- office
+- canteen
 
 **Kunci Jawaban:** computer
 
-**Pembahasan:** "computer" berarti "komputer".
+**Pembahasan:** A computer can have a keyboard and a screen.
 
 ---
 
 ## Soal 11 — K03-ENG-B06-M01-011
 
-**Pertanyaan:** What does "canteen" mean in Indonesian?
+**Pertanyaan:** A: Is it the canteen? B: Yes, ___.
 
 **Pilihan jawaban:**
-- kantor
-- kantin
-- toilet
-- gerbang
+- it is
+- it isn't
+- they are
+- I am
 
-**Kunci Jawaban:** kantin
+**Kunci Jawaban:** it is
 
-**Pembahasan:** "canteen" berarti "kantin".
+**Pembahasan:** A positive answer to 'Is it ...?' is 'Yes, it is.'
 
 ---
 
 ## Soal 12 — K03-ENG-B06-M01-012
 
-**Pertanyaan:** What does "library" mean in Indonesian?
+**Pertanyaan:** A: Is it the library? B: No, ___. It is the office.
 
 **Pilihan jawaban:**
-- perpustakaan
-- taman bermain
-- halaman
-- toilet
+- it is
+- it isn't
+- he is
+- we are
 
-**Kunci Jawaban:** perpustakaan
+**Kunci Jawaban:** it isn't
 
-**Pembahasan:** "library" berarti "perpustakaan".
+**Pembahasan:** A negative answer to 'Is it ...?' is 'No, it isn't.'
 
 ---
 
 ## Soal 13 — K03-ENG-B06-M01-013
 
-**Pertanyaan:** What does "classroom" mean in Indonesian?
+**Pertanyaan:** Which question asks whether a room is the classroom?
 
 **Pilihan jawaban:**
-- taman
-- komputer
-- taman bermain
-- ruang kelas
+- It is the classroom.
+- Is it the classroom?
+- Where classroom?
+- The classroom is.
 
-**Kunci Jawaban:** ruang kelas
+**Kunci Jawaban:** Is it the classroom?
 
-**Pembahasan:** "classroom" berarti "ruang kelas".
+**Pembahasan:** 'Is it the classroom?' is a yes/no question.
 
 ---
 
 ## Soal 14 — K03-ENG-B06-M01-014
 
-**Pertanyaan:** What does "office" mean in Indonesian?
+**Pertanyaan:** A: Is it the gate? B: Yes, it is. What place is it?
 
 **Pilihan jawaban:**
-- kantin
-- taman
-- kantor
-- gerbang
+- garden
+- office
+- gate
+- toilet
 
-**Kunci Jawaban:** kantor
+**Kunci Jawaban:** gate
 
-**Pembahasan:** "office" berarti "kantor".
+**Pembahasan:** 'Yes, it is' confirms that it is the gate.
 
 ---
 
 ## Soal 15 — K03-ENG-B06-M01-015
 
-**Pertanyaan:** What does "toilet" mean in Indonesian?
+**Pertanyaan:** A: Is it the office? B: No, it isn't. It is the library. Where are they?
 
 **Pilihan jawaban:**
-- gerbang
-- toilet
-- halaman
-- perpustakaan
+- office
+- library
+- canteen
+- yard
 
-**Kunci Jawaban:** toilet
+**Kunci Jawaban:** library
 
-**Pembahasan:** "toilet" berarti "toilet".
+**Pembahasan:** The second sentence corrects the guess: it is the library.
 
 ---
 
 ## Soal 16 — K03-ENG-B06-M01-016
 
-**Pertanyaan:** What does "playground" mean in Indonesian?
+**Pertanyaan:** Choose the correct sentence to identify a place.
 
 **Pilihan jawaban:**
-- taman bermain
-- komputer
-- ruang kelas
-- halaman
+- It the garden is.
+- It is the garden.
+- Is garden the it.
+- The it is garden.
 
-**Kunci Jawaban:** taman bermain
+**Kunci Jawaban:** It is the garden.
 
-**Pembahasan:** "playground" berarti "taman bermain".
+**Pembahasan:** 'It is the garden' has the correct word order.
 
 ---
 
 ## Soal 17 — K03-ENG-B06-M01-017
 
-**Pertanyaan:** What does "garden" mean in Indonesian?
+**Pertanyaan:** Which reply agrees with 'Is it the playground?'
 
 **Pilihan jawaban:**
-- kantin
-- kantor
-- komputer
-- taman
+- No, it isn't.
+- Yes, it is.
+- It is not a playground.
+- No, it is a library.
 
-**Kunci Jawaban:** taman
+**Kunci Jawaban:** Yes, it is.
 
-**Pembahasan:** "garden" berarti "taman".
+**Pembahasan:** 'Yes, it is' confirms the question.
 
 ---
 
 ## Soal 18 — K03-ENG-B06-M01-018
 
-**Pertanyaan:** What does "gate" mean in Indonesian?
+**Pertanyaan:** A: Is it the toilet? B: No, it isn't. Which statement matches B's answer?
 
 **Pilihan jawaban:**
-- toilet
-- kantin
-- gerbang
-- perpustakaan
+- It is definitely the toilet.
+- It is not the toilet.
+- It is the same toilet.
+- The toilet is open.
 
-**Kunci Jawaban:** gerbang
+**Kunci Jawaban:** It is not the toilet.
 
-**Pembahasan:** "gate" berarti "gerbang".
+**Pembahasan:** 'No, it isn't' means the place is not the toilet.
 
 ---
 
 ## Soal 19 — K03-ENG-B06-M01-019
 
-**Pertanyaan:** What does "yard" mean in Indonesian?
+**Pertanyaan:** A: What is this place? B: It is the canteen. Which question checks B's answer?
 
 **Pilihan jawaban:**
-- perpustakaan
-- halaman
-- ruang kelas
-- taman bermain
+- Is it the canteen?
+- Is it a computer?
+- Where is my book?
+- Do you like rice?
 
-**Kunci Jawaban:** halaman
+**Kunci Jawaban:** Is it the canteen?
 
-**Pembahasan:** "yard" berarti "halaman".
+**Pembahasan:** This yes/no question checks the identified place.
 
 ---
 
 ## Soal 20 — K03-ENG-B06-M01-020
 
-**Pertanyaan:** What does "computer" mean in Indonesian?
+**Pertanyaan:** A: Is it a computer? B: Yes, it is. Which item is being identified?
 
 **Pilihan jawaban:**
-- komputer
-- kantor
-- taman
-- ruang kelas
+- a garden
+- a computer
+- a yard
+- a gate
 
-**Kunci Jawaban:** komputer
+**Kunci Jawaban:** a computer
 
-**Pembahasan:** "computer" berarti "komputer".
+**Pembahasan:** The positive reply confirms 'a computer'.
 
 ---
 
 ## Soal 21 — K03-ENG-B06-M01-021
 
-**Pertanyaan:** Which English word matches "kantin" in the lesson?
+**Pertanyaan:** Read: 'This is not the library. It is the canteen.' Which place is correct?
 
 **Pilihan jawaban:**
-- toilet
-- gate
+- library
 - office
 - canteen
+- garden
 
 **Kunci Jawaban:** canteen
 
-**Pembahasan:** "canteen" berarti "kantin".
+**Pembahasan:** The second sentence identifies the place as the canteen.
 
 ---
 
 ## Soal 22 — K03-ENG-B06-M01-022
 
-**Pertanyaan:** Which English word matches "perpustakaan" in the lesson?
+**Pertanyaan:** Read: 'It has bookshelves. We read books there.' Which place fits?
 
 **Pilihan jawaban:**
-- yard
-- toilet
-- library
 - playground
+- library
+- gate
+- toilet
 
 **Kunci Jawaban:** library
 
-**Pembahasan:** "library" berarti "perpustakaan".
+**Pembahasan:** Bookshelves and reading are clues for a library.
 
 ---
 
 ## Soal 23 — K03-ENG-B06-M01-023
 
-**Pertanyaan:** Which English word matches "ruang kelas" in the lesson?
+**Pertanyaan:** Read: 'There are desks and a board. We study here.' Which place fits?
 
 **Pilihan jawaban:**
-- playground
 - classroom
+- yard
+- canteen
 - garden
-- computer
 
 **Kunci Jawaban:** classroom
 
-**Pembahasan:** "classroom" berarti "ruang kelas".
+**Pembahasan:** Desks and a board for lessons suggest a classroom.
 
 ---
 
 ## Soal 24 — K03-ENG-B06-M01-024
 
-**Pertanyaan:** Which English word matches "kantor" in the lesson?
+**Pertanyaan:** A student says, 'Is it the garden?' The teacher says, 'Yes, it is.' What can we conclude?
 
 **Pilihan jawaban:**
-- office
-- gate
-- canteen
-- garden
+- It is the garden.
+- It is the office.
+- It is not a garden.
+- It is the library.
 
-**Kunci Jawaban:** office
+**Kunci Jawaban:** It is the garden.
 
-**Pembahasan:** "office" berarti "kantor".
+**Pembahasan:** The teacher confirms the student's guess.
 
 ---
 
 ## Soal 25 — K03-ENG-B06-M01-025
 
-**Pertanyaan:** Which English word matches "toilet" in the lesson?
+**Pertanyaan:** Which pair is a correct question and short answer?
 
 **Pilihan jawaban:**
-- yard
-- library
-- gate
-- toilet
+- Is it the office? — Yes, it is.
+- Is it the office? — Yes, I do.
+- Is it the office? — Yes, they do.
+- Is it the office? — Yes, he are.
 
-**Kunci Jawaban:** toilet
+**Kunci Jawaban:** Is it the office? — Yes, it is.
 
-**Pembahasan:** "toilet" berarti "toilet".
+**Pembahasan:** 'Is it ...?' takes 'Yes, it is' for a positive short answer.
 
 ---
 
 ## Soal 26 — K03-ENG-B06-M01-026
 
-**Pertanyaan:** Which English word matches "taman bermain" in the lesson?
+**Pertanyaan:** A: Is it the yard? B: No, it isn't. It is the playground. What is the correct place?
 
 **Pilihan jawaban:**
-- classroom
 - yard
+- office
 - playground
-- computer
+- gate
 
 **Kunci Jawaban:** playground
 
-**Pembahasan:** "playground" berarti "taman bermain".
+**Pembahasan:** The speaker corrects 'yard' to 'playground'.
 
 ---
 
 ## Soal 27 — K03-ENG-B06-M01-027
 
-**Pertanyaan:** Which English word matches "taman" in the lesson?
+**Pertanyaan:** Which word completes '___ it the library?'
 
 **Pilihan jawaban:**
-- computer
-- garden
-- canteen
-- office
+- Am
+- Are
+- Is
+- Do
 
-**Kunci Jawaban:** garden
+**Kunci Jawaban:** Is
 
-**Pembahasan:** "garden" berarti "taman".
+**Pembahasan:** Use 'Is' to begin a question about one place with 'it'.
 
 ---
 
 ## Soal 28 — K03-ENG-B06-M01-028
 
-**Pertanyaan:** Which English word matches "gerbang" in the lesson?
+**Pertanyaan:** Which words complete 'No, it ___.'?
 
 **Pilihan jawaban:**
-- gate
-- library
-- toilet
-- canteen
+- is
+- are
+- isn't
+- am
 
-**Kunci Jawaban:** gate
+**Kunci Jawaban:** isn't
 
-**Pembahasan:** "gate" berarti "gerbang".
+**Pembahasan:** The negative short answer is 'No, it isn't.'
 
 ---
 
 ## Soal 29 — K03-ENG-B06-M01-029
 
-**Pertanyaan:** Which English word matches "halaman" in the lesson?
+**Pertanyaan:** A: Is it the gate? B: Yes, it is. Which sentence reports the answer?
 
 **Pilihan jawaban:**
-- classroom
-- playground
-- library
-- yard
+- It is the gate.
+- It isn't the gate.
+- It is the toilet.
+- It is a computer.
 
-**Kunci Jawaban:** yard
+**Kunci Jawaban:** It is the gate.
 
-**Pembahasan:** "yard" berarti "halaman".
+**Pembahasan:** A positive answer confirms the gate.
 
 ---
 
 ## Soal 30 — K03-ENG-B06-M01-030
 
-**Pertanyaan:** Which English word matches "komputer" in the lesson?
+**Pertanyaan:** A: Is it the classroom? B: No, it isn't. Which sentence is supported?
 
 **Pilihan jawaban:**
-- garden
-- classroom
-- computer
-- office
+- It is the classroom.
+- It is not the classroom.
+- It is definitely the office.
+- It is definitely the canteen.
 
-**Kunci Jawaban:** computer
+**Kunci Jawaban:** It is not the classroom.
 
-**Pembahasan:** "computer" berarti "komputer".
+**Pembahasan:** The reply rules out the classroom but does not name another place.
 
 ---
 
 ## Soal 31 — K03-ENG-B06-M01-031
 
-**Pertanyaan:** What is the English word for "kantin"?
+**Pertanyaan:** The school map says 'LIBRARY' above one room. Which sentence is correct?
 
 **Pilihan jawaban:**
-- office
-- canteen
-- toilet
-- gate
+- It is the canteen.
+- It is the library.
+- It is the yard.
+- It is the office.
 
-**Kunci Jawaban:** canteen
+**Kunci Jawaban:** It is the library.
 
-**Pembahasan:** "canteen" berarti "kantin".
+**Pembahasan:** The label identifies the room as the library.
 
 ---
 
 ## Soal 32 — K03-ENG-B06-M01-032
 
-**Pertanyaan:** What is the English word for "perpustakaan"?
+**Pertanyaan:** Siti points to a sign reading 'OFFICE'. Which question matches her guess?
 
 **Pilihan jawaban:**
-- library
-- playground
-- yard
-- toilet
+- Is it the office?
+- Is it the playground?
+- Is it the garden?
+- Is it the toilet?
 
-**Kunci Jawaban:** library
+**Kunci Jawaban:** Is it the office?
 
-**Pembahasan:** "library" berarti "perpustakaan".
+**Pembahasan:** The sign says 'OFFICE', so the matching question asks about the office.
 
 ---
 
 ## Soal 33 — K03-ENG-B06-M01-033
 
-**Pertanyaan:** What is the English word for "ruang kelas"?
+**Pertanyaan:** A friend asks, 'Is it the canteen?' You see a library sign. What should you say?
 
 **Pilihan jawaban:**
-- garden
-- computer
-- playground
-- classroom
+- Yes, it is.
+- No, it isn't. It is the library.
+- No, it isn't. It is the canteen.
+- Yes, it is the playground.
 
-**Kunci Jawaban:** classroom
+**Kunci Jawaban:** No, it isn't. It is the library.
 
-**Pembahasan:** "classroom" berarti "ruang kelas".
+**Pembahasan:** The library sign disproves the canteen guess and names the place.
 
 ---
 
 ## Soal 34 — K03-ENG-B06-M01-034
 
-**Pertanyaan:** What is the English word for "kantor"?
+**Pertanyaan:** Which sentence correctly says that a place is NOT the garden?
 
 **Pilihan jawaban:**
-- canteen
-- garden
-- office
-- gate
+- It is the garden.
+- It isn't the garden.
+- Is it the garden?
+- The garden it is.
 
-**Kunci Jawaban:** office
+**Kunci Jawaban:** It isn't the garden.
 
-**Pembahasan:** "office" berarti "kantor".
+**Pembahasan:** 'Isn't' is the contraction of 'is not'.
 
 ---
 
 ## Soal 35 — K03-ENG-B06-M01-035
 
-**Pertanyaan:** What is the English word for "toilet"?
+**Pertanyaan:** A: Is it the playground? B: No, it isn't. It is the yard. Which place does B name?
 
 **Pilihan jawaban:**
-- gate
-- toilet
+- playground
 - yard
 - library
+- canteen
 
-**Kunci Jawaban:** toilet
+**Kunci Jawaban:** yard
 
-**Pembahasan:** "toilet" berarti "toilet".
+**Pembahasan:** The correction names the yard.
 
 ---
