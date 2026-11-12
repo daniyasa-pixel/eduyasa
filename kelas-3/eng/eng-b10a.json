@@ -1,0 +1,184 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B10",
+      "chapter_title": "There Are Twenty Books on the Shelf",
+      "questions": [
+        {
+          "id": "K03-ENG-B10-M01-036",
+          "type": "PG",
+          "text": "Which English number word matches the pictured count?",
+          "options": [
+            "ten",
+            "twenty",
+            "twelve",
+            "fifteen"
+          ],
+          "answer": "ten",
+          "discussion": "Gambar menunjukkan \"ten\" (sepuluh).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-01.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-037",
+          "type": "PG",
+          "text": "Count the objects or read the numeral in the image. Which word fits?",
+          "options": [
+            "ten",
+            "thirteen",
+            "sixteen",
+            "eleven"
+          ],
+          "answer": "eleven",
+          "discussion": "Gambar menunjukkan \"eleven\" (sebelas).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-02.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-038",
+          "type": "PG",
+          "text": "Which number name is shown?",
+          "options": [
+            "fourteen",
+            "seventeen",
+            "twelve",
+            "eleven"
+          ],
+          "answer": "twelve",
+          "discussion": "Gambar menunjukkan \"twelve\" (dua belas).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-03.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-039",
+          "type": "PG",
+          "text": "Choose the English word for the count shown.",
+          "options": [
+            "eighteen",
+            "thirteen",
+            "twelve",
+            "fifteen"
+          ],
+          "answer": "thirteen",
+          "discussion": "Gambar menunjukkan \"thirteen\" (tiga belas).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-04.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-040",
+          "type": "PG",
+          "text": "Which number word is indicated?",
+          "options": [
+            "fourteen",
+            "thirteen",
+            "sixteen",
+            "twenty"
+          ],
+          "answer": "fourteen",
+          "discussion": "Gambar menunjukkan \"fourteen\" (empat belas).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-05.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-041",
+          "type": "PG",
+          "text": "What is the number word for the objects shown?",
+          "options": [
+            "fourteen",
+            "seventeen",
+            "ten",
+            "fifteen"
+          ],
+          "answer": "fifteen",
+          "discussion": "Gambar menunjukkan \"fifteen\" (lima belas).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-06.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-042",
+          "type": "PG",
+          "text": "Which English number name fits the picture?",
+          "options": [
+            "eighteen",
+            "eleven",
+            "sixteen",
+            "fifteen"
+          ],
+          "answer": "sixteen",
+          "discussion": "Gambar menunjukkan \"sixteen\" (enam belas).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-07.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-043",
+          "type": "PG",
+          "text": "Choose the matching number word.",
+          "options": [
+            "twelve",
+            "seventeen",
+            "sixteen",
+            "twenty"
+          ],
+          "answer": "seventeen",
+          "discussion": "Gambar menunjukkan \"seventeen\" (tujuh belas).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-08.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-044",
+          "type": "PG",
+          "text": "Which number word represents the amount?",
+          "options": [
+            "eighteen",
+            "seventeen",
+            "ten",
+            "thirteen"
+          ],
+          "answer": "eighteen",
+          "discussion": "Gambar menunjukkan \"eighteen\" (delapan belas).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-09.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-045",
+          "type": "PG",
+          "text": "Which number name matches the image?",
+          "options": [
+            "eighteen",
+            "eleven",
+            "fourteen",
+            "twenty"
+          ],
+          "answer": "twenty",
+          "discussion": "Gambar menunjukkan \"twenty\" (dua puluh).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-10.svg",
+            "alt": "Picture"
+          }
+        }
+      ]
+    }
+  ]
+}
