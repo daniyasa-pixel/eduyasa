@@ -1,0 +1,184 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B04",
+      "chapter_title": "Do You Like Swimming?",
+      "questions": [
+        {
+          "id": "K03-ENG-B04-M01-036",
+          "type": "PG",
+          "text": "Who likes reading?",
+          "options": [
+            "Ayu",
+            "Bima",
+            "Ayu and Bima",
+            "neither child"
+          ],
+          "answer": "Bima",
+          "discussion": "Bima’s reading entry is Yes.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b04-gambar-01.svg",
+            "alt": "Hobby survey. Ayu: swimming Yes, reading No. Bima: swimming No, reading Yes."
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-037",
+          "type": "PG",
+          "text": "Which activity does Cici not like?",
+          "options": [
+            "singing",
+            "drawing",
+            "swimming",
+            "singing and drawing"
+          ],
+          "answer": "swimming",
+          "discussion": "Swimming is the only activity marked No.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b04-gambar-02.svg",
+            "alt": "Cici's hobby card. singing: Yes. drawing: Yes. swimming: No."
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-038",
+          "type": "PG",
+          "text": "Which report matches Joshua’s card?",
+          "options": [
+            "Joshua likes football.",
+            "Made likes swimming.",
+            "They like swimming.",
+            "Joshua likes swimming."
+          ],
+          "answer": "Joshua likes swimming.",
+          "discussion": "Joshua’s card names swimming.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b04-gambar-03.svg",
+            "alt": "Two hobby cards. Made: playing football. Joshua: swimming."
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-039",
+          "type": "PG",
+          "text": "Which hobby has the most Yes answers?",
+          "options": [
+            "reading",
+            "swimming",
+            "singing",
+            "all are equal"
+          ],
+          "answer": "reading",
+          "discussion": "Reading has six Yes answers, the largest tally.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b04-gambar-04.svg",
+            "alt": "Class tally. reading: 6 Yes. swimming: 4 Yes. singing: 5 Yes."
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-040",
+          "type": "PG",
+          "text": "Which report matches both answers?",
+          "options": [
+            "Rani likes cycling and dancing.",
+            "Rani doesn’t like cycling or dancing.",
+            "Rani likes cycling but doesn’t like dancing.",
+            "Rani likes dancing but not cycling."
+          ],
+          "answer": "Rani likes cycling but doesn’t like dancing.",
+          "discussion": "Yes belongs to cycling and No belongs to dancing.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b04-gambar-05.svg",
+            "alt": "Rani's answers. Cycling: Yes. Dancing: No."
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-041",
+          "type": "PG",
+          "text": "What should the surveyor do next?",
+          "options": [
+            "Change the blank to No.",
+            "Change the blank to Yes.",
+            "Copy the football answer.",
+            "Ask Tono about reading."
+          ],
+          "answer": "Ask Tono about reading.",
+          "discussion": "The blank means Tono’s reading answer has not been recorded.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b04-gambar-06.svg",
+            "alt": "Unfinished survey. Tono: football Yes. Tono: reading (blank)."
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-042",
+          "type": "PG",
+          "text": "What does the child do on Sunday?",
+          "options": [
+            "reads a storybook",
+            "rides a bike",
+            "plays football",
+            "swims"
+          ],
+          "answer": "reads a storybook",
+          "discussion": "Sunday is paired with reading a storybook.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b04-gambar-07.svg",
+            "alt": "Hobby schedule. Saturday: riding a bike. Sunday: reading a storybook."
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-043",
+          "type": "PG",
+          "text": "Which sentence describes Lia and Nisa?",
+          "options": [
+            "They like football.",
+            "They like playing dolls.",
+            "She likes playing dolls.",
+            "They don’t like dolls."
+          ],
+          "answer": "They like playing dolls.",
+          "discussion": "Lia and Nisa are two people and their card names playing dolls.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b04-gambar-08.svg",
+            "alt": "Friends' hobbies. Lia & Nisa: playing dolls. Riko & Bayu: playing football."
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-044",
+          "type": "PG",
+          "text": "Which full report is supported?",
+          "options": [
+            "Arif likes swimming.",
+            "Arif doesn’t like reading.",
+            "Arif likes only swimming.",
+            "Arif doesn’t like swimming."
+          ],
+          "answer": "Arif doesn’t like swimming.",
+          "discussion": "The answer No, he doesn’t refers to swimming.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b04-gambar-09.svg",
+            "alt": "Question and answer card. Question: Does Arif like swimming?. Answer: No, he doesn’t.. Arif: reading Yes."
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-045",
+          "type": "PG",
+          "text": "Which two hobbies are liked?",
+          "options": [
+            "reading and swimming",
+            "reading and flying a kite",
+            "flying a kite and swimming",
+            "all three hobbies"
+          ],
+          "answer": "reading and swimming",
+          "discussion": "The check marks are beside reading and swimming.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b04-gambar-10.svg",
+            "alt": "Picture-choice record. 1: reading a storybook ✓. 2: flying a kite ✗. 3: swimming ✓."
+          }
+        }
+      ]
+    }
+  ]
+}
