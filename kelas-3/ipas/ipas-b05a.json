@@ -1,0 +1,354 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B05",
+      "chapter_title": "Bijak Berbelanja Kebutuhan",
+      "questions": [
+        {
+          "id": "K03-IPAS-B05-M01-051",
+          "type": "PG",
+          "text": "Kelompok mana bernilai lebih besar?",
+          "options": [
+            "B",
+            "Keduanya sama",
+            "A",
+            "Belum dapat dibandingkan karena jumlah kartu berbeda"
+          ],
+          "answer": "A",
+          "discussion": "A bernilai $5.000$ rupiah; B bernilai $2.000+2.000=4.000$ rupiah. Nilai dibaca dari nominal, bukan jumlah kartu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-01.svg",
+            "alt": "Kartu nilai uang mainan: kelompok A satu kartu Rp5.000; kelompok B dua kartu masing-masing Rp2.000. Baca nominal, bukan jumlah kartu."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-052",
+          "type": "PG",
+          "text": "Berapa nilai yang masih perlu ditambahkan ke B agar sama dengan A?",
+          "options": [
+            "$\\text{Rp}2.000$",
+            "$\\text{Rp}4.000$",
+            "$\\text{Rp}5.000$",
+            "$\\text{Rp}1.000$"
+          ],
+          "answer": "$\\text{Rp}1.000$",
+          "discussion": "Selisih nilai A dan B ialah $5.000-4.000=1.000$ rupiah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-01.svg",
+            "alt": "Kartu nilai uang mainan: kelompok A satu kartu Rp5.000; kelompok B dua kartu masing-masing Rp2.000. Baca nominal, bukan jumlah kartu."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-053",
+          "type": "PG",
+          "text": "Berapa biaya membeli satu roti dan satu air minum pada daftar?",
+          "options": [
+            "$\\text{Rp}5.000$",
+            "$\\text{Rp}3.000$",
+            "$\\text{Rp}6.000$",
+            "$\\text{Rp}7.000$"
+          ],
+          "answer": "$\\text{Rp}5.000$",
+          "discussion": "Daftar menunjukkan roti $3.000$ rupiah dan air $2.000$ rupiah; total $3.000+2.000=5.000$ rupiah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-02.svg",
+            "alt": "Daftar harga contoh kantin: roti Rp3.000, air minum Rp2.000, buah Rp4.000. Harga untuk satu porsi masing-masing."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-054",
+          "type": "PG",
+          "text": "Jika uangmu $\\text{Rp}5.000$ dan membeli satu buah, kembalian yang sesuai ialah ...",
+          "options": [
+            "$\\text{Rp}2.000$",
+            "$\\text{Rp}1.000$",
+            "$\\text{Rp}4.000$",
+            "$\\text{Rp}9.000$"
+          ],
+          "answer": "$\\text{Rp}1.000$",
+          "discussion": "Harga buah pada daftar $4.000$ rupiah sehingga kembalian $5.000-4.000=1.000$ rupiah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-02.svg",
+            "alt": "Daftar harga contoh kantin: roti Rp3.000, air minum Rp2.000, buah Rp4.000. Harga untuk satu porsi masing-masing."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-055",
+          "type": "PG",
+          "text": "Bagian rencana yang mendapat alokasi paling kecil ialah ...",
+          "options": [
+            "Makan",
+            "Alat tulis",
+            "Uang yang belum ditentukan",
+            "Tabungan"
+          ],
+          "answer": "Uang yang belum ditentukan",
+          "discussion": "Legenda menunjukkan bagian belum ditentukan $1.000$ rupiah, lebih kecil dari tiga bagian lain.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-03.svg",
+            "alt": "Rencana uang Rp10.000: makan Rp4.000, alat tulis Rp3.000, tabungan Rp2.000, belum ditentukan Rp1.000."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-056",
+          "type": "PG",
+          "text": "Jika bagian yang belum ditentukan ikut ditabung tanpa mengubah belanja lain, jumlah untuk tabungan menjadi ...",
+          "options": [
+            "$\\text{Rp}1.000$",
+            "$\\text{Rp}2.000$",
+            "$\\text{Rp}7.000$",
+            "$\\text{Rp}3.000$"
+          ],
+          "answer": "$\\text{Rp}3.000$",
+          "discussion": "Tabungan semula $2.000$ rupiah ditambah sisa $1.000$ rupiah menjadi $3.000$ rupiah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-03.svg",
+            "alt": "Rencana uang Rp10.000: makan Rp4.000, alat tulis Rp3.000, tabungan Rp2.000, belum ditentukan Rp1.000."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-057",
+          "type": "PG",
+          "text": "Pasangan mana sudah saling membutuhkan barang yang dibawa, sebelum menyepakati banyaknya?",
+          "options": [
+            "Pasangan A",
+            "Pasangan B",
+            "Keduanya belum saling membutuhkan",
+            "Tidak ada informasi kebutuhan kedua pasangan"
+          ],
+          "answer": "Pasangan A",
+          "discussion": "Rina memerlukan beras Bimo dan Bimo memerlukan pisang Rina; kebutuhan mereka cocok, tetapi banyaknya barang masih perlu disepakati.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-04.svg",
+            "alt": "Dua tawaran barter: A Rina membawa pisang dan membutuhkan beras; Bimo membawa beras dan membutuhkan pisang. B Dika membawa mangga dan membutuhkan ikan; Sita membawa ikan tetapi membutuhkan beras."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-058",
+          "type": "PG",
+          "text": "Mengapa pasangan B belum cocok untuk barter langsung?",
+          "options": [
+            "Dika tidak membutuhkan ikan",
+            "Sita membutuhkan beras, bukan mangga Dika",
+            "Sita tidak membawa barang untuk ditukar",
+            "Kedua orang sudah saling membutuhkan barang masing-masing"
+          ],
+          "answer": "Sita membutuhkan beras, bukan mangga Dika",
+          "discussion": "Dika memerlukan ikan Sita, tetapi barang Dika tidak sesuai kebutuhan Sita, sehingga kecocokan baru satu arah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-04.svg",
+            "alt": "Dua tawaran barter: A Rina membawa pisang dan membutuhkan beras; Bimo membawa beras dan membutuhkan pisang. B Dika membawa mangga dan membutuhkan ikan; Sita membawa ikan tetapi membutuhkan beras."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-059",
+          "type": "PG",
+          "text": "Berdasarkan data itu, toko mana memerlukan biaya beli satu buku lebih kecil?",
+          "options": [
+            "A",
+            "Keduanya sama",
+            "B",
+            "Tidak dapat dibandingkan meski barangnya sama"
+          ],
+          "answer": "B",
+          "discussion": "Harga buku setara di B lebih rendah daripada di A, dengan biaya perjalanan diabaikan sesuai catatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-05.svg",
+            "alt": "Toko A satu buku tulis 40 halaman Rp4.000. Toko B satu buku tulis 40 halaman Rp3.500. Jenis, ukuran, kualitas buku sama dan biaya perjalanan diabaikan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-060",
+          "type": "PG",
+          "text": "Selisih harga satu buku di dua toko itu ialah ...",
+          "options": [
+            "$\\text{Rp}1.500$",
+            "$\\text{Rp}3.500$",
+            "$\\text{Rp}7.500$",
+            "$\\text{Rp}500$"
+          ],
+          "answer": "$\\text{Rp}500$",
+          "discussion": "Selisihnya $4.000-3.500=500$ rupiah; menjumlahkan kedua harga tidak menghasilkan selisih.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-05.svg",
+            "alt": "Toko A satu buku tulis 40 halaman Rp4.000. Toko B satu buku tulis 40 halaman Rp3.500. Jenis, ukuran, kualitas buku sama dan biaya perjalanan diabaikan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-061",
+          "type": "PG",
+          "text": "Bagian mana perlu diperbaiki pada catatan?",
+          "options": [
+            "Total seharusnya $\\text{Rp}6.000$",
+            "Harga buku seharusnya dihapus",
+            "Jumlah barang harus dianggap tiga",
+            "Total $\\text{Rp}7.000$ sudah sesuai"
+          ],
+          "answer": "Total seharusnya $\\text{Rp}6.000$",
+          "discussion": "Dua harga yang tertera berjumlah $4.000+2.000=6.000$ rupiah, bukan total yang ditulis.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-06.svg",
+            "alt": "Catatan belanja: buku Rp4.000, pensil Rp2.000, total tertulis Rp7.000. Tidak ada biaya lain."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-062",
+          "type": "PG",
+          "text": "Jika menemukan catatan seperti ini saat berbelanja, tindakan yang membantu ialah ...",
+          "options": [
+            "Menganggap angka total selalu benar meski berbeda",
+            "Menanyakan perhitungan total kepada penjual dengan sopan",
+            "Langsung menuduh penjual sengaja menipu",
+            "Mengambil barang tambahan agar total terasa sesuai"
+          ],
+          "answer": "Menanyakan perhitungan total kepada penjual dengan sopan",
+          "discussion": "Perbedaan pada total perlu diperiksa bersama; catatan tidak membuktikan niat orang yang menulisnya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-06.svg",
+            "alt": "Catatan belanja: buku Rp4.000, pensil Rp2.000, total tertulis Rp7.000. Tidak ada biaya lain."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-063",
+          "type": "PG",
+          "text": "Barang berlabel mana paling perlu diganti untuk memenuhi kebutuhan belajar besok?",
+          "options": [
+            "B",
+            "C",
+            "A",
+            "B dan C lebih mendesak daripada A"
+          ],
+          "answer": "A",
+          "discussion": "Pensil A sudah habis dan diperlukan besok, sedangkan B serta C masih berfungsi; konteks kebutuhan lain sudah terpenuhi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-07.svg",
+            "alt": "Kondisi barang Sari: A pensil satu-satunya habis untuk tugas besok; B tas masih kuat tetapi ingin gambar baru; C kotak makan masih layak tetapi ingin warna lain. Makanan dan minuman besok sudah tersedia."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-064",
+          "type": "PG",
+          "text": "Mengapa pembelian pengganti B dan C dapat ditunda pada kondisi gambar?",
+          "options": [
+            "Keduanya tidak pernah berguna bagi siapa pun",
+            "Semua tas dan kotak makan selalu merupakan barang mewah",
+            "Keduanya pasti rusak walau catatan menyebut layak",
+            "Barangnya masih berfungsi dan alasan penggantian berupa tampilan"
+          ],
+          "answer": "Barangnya masih berfungsi dan alasan penggantian berupa tampilan",
+          "discussion": "Keadaan dan alasan pada kartu menunjukkan keinginan mengganti tampilan, bukan hilangnya fungsi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-07.svg",
+            "alt": "Kondisi barang Sari: A pensil satu-satunya habis untuk tugas besok; B tas masih kuat tetapi ingin gambar baru; C kotak makan masih layak tetapi ingin warna lain. Makanan dan minuman besok sudah tersedia."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-065",
+          "type": "PG",
+          "text": "Berapa saldo setelah catatan Rabu?",
+          "options": [
+            "$\\text{Rp}2.000$",
+            "$\\text{Rp}1.000$",
+            "$\\text{Rp}3.000$",
+            "$\\text{Rp}4.000$"
+          ],
+          "answer": "$\\text{Rp}2.000$",
+          "discussion": "Dua setoran dikurangi penarikan: $1.000+2.000-1.000=2.000$ rupiah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-08.svg",
+            "alt": "Catatan tabungan Naya dari saldo awal nol: Senin masuk Rp1.000, Selasa masuk Rp2.000, Rabu keluar Rp1.000. Tidak ada transaksi lain."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-066",
+          "type": "PG",
+          "text": "Catatan mana mengurangi saldo tabungan?",
+          "options": [
+            "Senin",
+            "Rabu",
+            "Selasa",
+            "Senin dan Selasa"
+          ],
+          "answer": "Rabu",
+          "discussion": "Rabu bertanda keluar; Senin dan Selasa bertanda masuk sehingga menambah saldo.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-08.svg",
+            "alt": "Catatan tabungan Naya dari saldo awal nol: Senin masuk Rp1.000, Selasa masuk Rp2.000, Rabu keluar Rp1.000. Tidak ada transaksi lain."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-067",
+          "type": "PG",
+          "text": "Contoh yang menunjukkan nilai guna bentuk berlabel ...",
+          "options": [
+            "B",
+            "C",
+            "A",
+            "B dan C"
+          ],
+          "answer": "A",
+          "discussion": "A menunjukkan bahan kayu diubah menjadi bentuk kursi; B menekankan tempat, C waktu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-09.svg",
+            "alt": "Tiga contoh: A gelondongan kayu diolah menjadi kursi; B jaket dibawa ke tempat dingin; C jas hujan dipakai saat hujan turun."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-068",
+          "type": "PG",
+          "text": "Pasangan contoh nilai guna tempat lalu waktu pada gambar ialah ...",
+          "options": [
+            "A lalu B",
+            "C lalu A",
+            "A lalu C",
+            "B lalu C"
+          ],
+          "answer": "B lalu C",
+          "discussion": "Jaket B lebih berguna di tempat dingin, sedangkan jas hujan C berguna pada waktu hujan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-09.svg",
+            "alt": "Tiga contoh: A gelondongan kayu diolah menjadi kursi; B jaket dibawa ke tempat dingin; C jas hujan dipakai saat hujan turun."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-069",
+          "type": "PG",
+          "text": "Kemasan mana perlu dihindari karena kerusakan meskipun tanggalnya belum terlewati?",
+          "options": [
+            "B",
+            "A",
+            "Keduanya pasti sudah melewati tanggal",
+            "Tidak perlu memeriksa kemasan"
+          ],
+          "answer": "B",
+          "discussion": "B robek, sehingga perlindungan isi terganggu meskipun tanggal tercetak belum lewat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-10.svg",
+            "alt": "Hari ini 10 Mei 2026. Dua kemasan contoh: A masih utuh, tertulis baik digunakan sebelum 20 Juni 2026; B robek, tertulis baik digunakan sebelum 30 Juni 2026. Keduanya produk sama dan disimpan sesuai petunjuk."
+          }
+        },
+        {
+          "id": "K03-IPAS-B05-M01-070",
+          "type": "PG",
+          "text": "Kesimpulan yang paling hati-hati tentang kemasan A ialah ...",
+          "options": [
+            "Gambar memastikan isi selalu aman apa pun penyimpanannya",
+            "Tanggal belum lewat dan kemasan tampak utuh; tetap periksa petunjuk serta kondisi produk",
+            "Produk pasti sudah kedaluwarsa pada hari pengamatan",
+            "Kemasan utuh membolehkan mengabaikan petunjuk penyimpanan"
+          ],
+          "answer": "Tanggal belum lewat dan kemasan tampak utuh; tetap periksa petunjuk serta kondisi produk",
+          "discussion": "Data A memenuhi dua hal yang diamati, tetapi tidak menjamin keamanan tanpa memperhatikan penyimpanan serta keadaan produk.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b05-gambar-10.svg",
+            "alt": "Hari ini 10 Mei 2026. Dua kemasan contoh: A masih utuh, tertulis baik digunakan sebelum 20 Juni 2026; B robek, tertulis baik digunakan sebelum 30 Juni 2026. Keduanya produk sama dan disimpan sesuai petunjuk."
+          }
+        }
+      ]
+    }
+  ]
+}
