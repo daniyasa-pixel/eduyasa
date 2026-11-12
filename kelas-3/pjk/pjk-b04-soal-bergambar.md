@@ -1,12 +1,12 @@
 # Unit 4 — Aktivitas Gerak Dominan Senam
 
-10 soal bergambar, **DRAF**. Ilustrasi SVG bersifat simbolik, belum ilustrasi gerak yang spesifik.
+10 soal bergambar telah direvisi dengan konteks; diagram SVG diproses terpisah dan pemeriksaan visual akhir masih diperlukan.
 
 ## Soal 36 — K03-PJK-B04-M01-036
 
 ![Ilustrasi Latihan senam dasar](assets/pjk-b04-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Latihan senam dasar". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Siswa mencoba posisi dasar dengan instruksi guru. Apa prinsip keamanan utama latihan?
 
 **Pilihan jawaban:**
 - selalu dilakukan sendirian
@@ -24,7 +24,7 @@
 
 ![Ilustrasi Pemanasan senam](assets/pjk-b04-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Pemanasan senam". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Siswa bergerak ringan sebelum berlatih senam. Apa tujuan tahap persiapan ini?
 
 **Pilihan jawaban:**
 - menghilangkan risiko sepenuhnya
@@ -42,7 +42,7 @@
 
 ![Ilustrasi Sikap tubuh saat berguling](assets/pjk-b04-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Sikap tubuh saat berguling". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Anak hendak berguling di atas matras. Bagian tubuh apa yang harus diperhatikan?
 
 **Pilihan jawaban:**
 - kepala dan leher dijaga sesuai arahan guru
@@ -60,7 +60,7 @@
 
 ![Ilustrasi Teman saat senam](assets/pjk-b04-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Teman saat senam". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Dua siswa berbagi matras. Bagaimana mereka mengatur waktu dan jarak?
 
 **Pilihan jawaban:**
 - saling mendorong
@@ -78,7 +78,7 @@
 
 ![Ilustrasi Gerak dominan senam](assets/pjk-b04-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Gerak dominan senam". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Gambar memperlihatkan rangkaian tumpuan dan gerak. Kelompok kemampuan senam apa yang dilatih?
 
 **Pilihan jawaban:**
 - hanya berenang
@@ -96,7 +96,7 @@
 
 ![Ilustrasi Bertumpu](assets/pjk-b04-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang bertumpu?
+**Pertanyaan:** Siswa menahan sebagian berat tubuh di atas tangan dan kaki. Gerak yang sesuai ialah ....
 
 **Pilihan jawaban:**
 - berlari sprint
@@ -114,7 +114,7 @@
 
 ![Ilustrasi Berguling depan](assets/pjk-b04-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang berguling depan?
+**Pertanyaan:** Siswa bergerak berguling ke depan menggunakan matras dan pengawasan. Manakah uraian yang tepat?
 
 **Pilihan jawaban:**
 - menggulingkan tubuh ke depan di matras dengan bimbingan
@@ -132,7 +132,7 @@
 
 ![Ilustrasi Sikap keseimbangan](assets/pjk-b04-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang sikap keseimbangan?
+**Pertanyaan:** Anak berusaha tetap stabil pada satu posisi. Keterampilan apa yang dilatih?
 
 **Pilihan jawaban:**
 - mendorong teman
@@ -150,7 +150,7 @@
 
 ![Ilustrasi Matras senam](assets/pjk-b04-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang matras senam?
+**Pertanyaan:** Seorang guru memasang alas latihan lunak. Mengapa alas tersebut digunakan?
 
 **Pilihan jawaban:**
 - dipakai sebagai bola
@@ -168,7 +168,7 @@
 
 ![Ilustrasi Gerakan mendarat](assets/pjk-b04-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang gerakan mendarat?
+**Pertanyaan:** Anak turun dari gerak meloncat rendah. Cara mendarat yang tepat adalah ....
 
 **Pilihan jawaban:**
 - dilakukan sambil mendorong teman
