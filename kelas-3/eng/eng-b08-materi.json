@@ -1,0 +1,22 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "K03-ENG-B08",
+  "chapter_title": "I Drink Orange Juice in the Canteen",
+  "modules": [
+    {
+      "id": "K03-ENG-B08-MOD-01",
+      "version": "MOD-01",
+      "title": "Let's learn! — Makanan, minuman, dan tempat",
+      "content": "![Orange juice](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-01.svg)\n\n**Kosakata minuman:** orange juice (jus jeruk), water (air), milk (susu), tea (teh).\n\n**Kosakata makanan:** bread (roti), rice (nasi), noodles (mi).\n\n**Tempat:** canteen (kantin), classroom (ruang kelas), library (perpustakaan).\n\n**Pola kalimat:**\n- `I drink orange juice.` (Saya minum jus jeruk.)\n- `I eat rice.` (Saya makan nasi.)\n- `I drink water in the canteen.` (Saya minum air di kantin.)\n\nKata **drink** digunakan saat minum; **eat** digunakan saat makan. Kata **in the canteen** menunjukkan tempat melakukan kegiatan. Jangan menukar kata kerja eat dan drink pada kalimat contoh.\n\n**Dialog:**\n- A: What do you drink?\n- B: I drink water.\n- A: Where do you drink water?\n- B: In the canteen.\n\n**Latihan:** Pilih satu makanan, satu minuman, dan satu tempat. Buat dua kalimat menggunakan `I eat ...` dan `I drink ... in the ...`."
+    },
+    {
+      "id": "K03-ENG-B08-MOD-02",
+      "version": "MOD-02",
+      "title": "Let's practice! — Percakapan di kantin",
+      "content": "![Water](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-02.svg)\n\n**Baca contoh kegiatan:**\n- Sari eats **bread** and drinks **milk**.\n- Beni eats **rice** and drinks **water**.\n- Rina eats **noodles** and drinks **orange juice**.\n- Dika drinks **tea** in the **canteen**.\n\n**Temukan jawaban dari informasi di atas:** Who drinks milk? Sari. What does Beni eat? Rice. Where does Dika drink tea? In the canteen.\n\n**Pola tanya-jawab:**\n- A: Do you drink water?\n- B: Yes, I do.\n- A: Do you drink tea?\n- B: No, I don't.\n\n`Yes, I do` dan `No, I don't` menjawab pertanyaan `Do you ...?`. Pertanyaan `What do you drink?` meminta nama minuman; `Where ...?` meminta tempat.\n\n**Latihan berpasangan:** Buat kartu bertuliskan drink, eat, orange juice, bread, water, rice, canteen. Susun tiga kalimat dan ajukan tiga pertanyaan kepada teman. Jawab sesuai isi kartu, bukan tebakan.\n\n**Ingat:** Bahasa Inggris dipakai untuk mendeskripsikan pilihan makanan/minuman, bukan untuk menyatakan bahwa satu pilihan harus diminum oleh setiap anak."
+    }
+  ]
+}
