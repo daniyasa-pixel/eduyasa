@@ -1,12 +1,12 @@
 # Unit 2 — Aktivitas Pola Gerak Dasar Nonlokomotor
 
-10 soal bergambar, **DRAF**. Ilustrasi SVG bersifat simbolik, belum ilustrasi gerak yang spesifik.
+10 soal bergambar telah direvisi dengan konteks; diagram SVG diproses terpisah dan pemeriksaan visual akhir masih diperlukan.
 
 ## Soal 36 — K03-PJK-B02-M01-036
 
 ![Ilustrasi Menjaga keseimbangan satu kaki](assets/pjk-b02-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Menjaga keseimbangan satu kaki". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Siswa bertahan dengan satu kaki terangkat. Apa yang perlu dikendalikan agar tidak terjatuh?
 
 **Pilihan jawaban:**
 - mengatur posisi tubuh agar tidak jatuh
@@ -24,7 +24,7 @@
 
 ![Ilustrasi Menoleh](assets/pjk-b02-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Menoleh". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Anak mengarahkan wajah ke samping. Bagaimana gerakan kepala yang aman?
 
 **Pilihan jawaban:**
 - melompat jauh
@@ -42,7 +42,7 @@
 
 ![Ilustrasi Meliukkan badan](assets/pjk-b02-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Meliukkan badan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Gambar memperlihatkan gerakan batang tubuh ke samping. Manakah penjelasan yang tepat?
 
 **Pilihan jawaban:**
 - melompat melewati garis
@@ -60,7 +60,7 @@
 
 ![Ilustrasi Gerak nonlokomotor](assets/pjk-b02-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Gerak nonlokomotor". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Siswa menggerakkan anggota badan tetapi posisi kakinya tetap. Jenis gerak apakah ini?
 
 **Pilihan jawaban:**
 - hanya gerak di kolam
@@ -78,7 +78,7 @@
 
 ![Ilustrasi Latihan kelentukan](assets/pjk-b02-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Latihan kelentukan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Seorang anak berusaha meningkatkan kelenturan. Prinsip latihan mana yang aman?
 
 **Pilihan jawaban:**
 - dilakukan perlahan sesuai kemampuan
@@ -96,7 +96,7 @@
 
 ![Ilustrasi Membungkuk](assets/pjk-b02-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang membungkuk?
+**Pertanyaan:** Siswa mencondongkan tubuh ke depan, tanpa maju. Gerak apa yang tampak?
 
 **Pilihan jawaban:**
 - berlari ke depan
@@ -114,7 +114,7 @@
 
 ![Ilustrasi Memutar badan](assets/pjk-b02-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang memutar badan?
+**Pertanyaan:** Anak berubah arah hadap namun masih berdiri di titik yang sama. Gerak yang tepat adalah ....
 
 **Pilihan jawaban:**
 - berlari cepat
@@ -132,7 +132,7 @@
 
 ![Ilustrasi Mengayun lengan](assets/pjk-b02-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang mengayun lengan?
+**Pertanyaan:** Lengan pada gambar bergerak maju dan mundur. Bagaimana seharusnya gerakan dilakukan?
 
 **Pilihan jawaban:**
 - melompat tali
@@ -150,7 +150,7 @@
 
 ![Ilustrasi Menekuk lutut](assets/pjk-b02-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang menekuk lutut?
+**Pertanyaan:** Posisi kaki membentuk sudut di sendi lutut. Tindakan mana yang digambarkan?
 
 **Pilihan jawaban:**
 - membengkokkan sendi lutut secara wajar
@@ -168,7 +168,7 @@
 
 ![Ilustrasi Meregang ke samping](assets/pjk-b02-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang meregang ke samping?
+**Pertanyaan:** Anak memanjangkan sisi tubuh ke kanan. Cara gerak yang benar adalah ....
 
 **Pilihan jawaban:**
 - berlari sambil menabrak
