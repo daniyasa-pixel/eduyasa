@@ -1,0 +1,184 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PJK-B05",
+      "chapter_title": "Aktivitas Gerak Berirama",
+      "questions": [
+        {
+          "id": "K03-PJK-B05-M01-036",
+          "type": "PG",
+          "text": "Anak-anak mengikuti hitungan secara bersamaan. Apa yang membantu gerak kelompok tetap serasi?",
+          "options": [
+            "hanya dilakukan sendiri",
+            "memerlukan kerja sama dan kekompakan",
+            "memerlukan saling mengejek",
+            "harus tanpa aturan"
+          ],
+          "answer": "memerlukan kerja sama dan kekompakan",
+          "discussion": "Gerak kelompok berirama: memerlukan kerja sama dan kekompakan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-01.svg",
+            "alt": "Ilustrasi Gerak kelompok berirama"
+          }
+        },
+        {
+          "id": "K03-PJK-B05-M01-037",
+          "type": "PG",
+          "text": "Panah ketukan berjeda panjang. Bagaimana kecepatan gerak sebaiknya?",
+          "options": [
+            "gerakan mengikuti ketukan yang lebih pelan",
+            "gerakan selalu secepat mungkin",
+            "gerakan berhenti total",
+            "gerakan tanpa hitungan"
+          ],
+          "answer": "gerakan mengikuti ketukan yang lebih pelan",
+          "discussion": "Tempo lambat: gerakan mengikuti ketukan yang lebih pelan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-02.svg",
+            "alt": "Ilustrasi Tempo lambat"
+          }
+        },
+        {
+          "id": "K03-PJK-B05-M01-038",
+          "type": "PG",
+          "text": "Ketukan pada diagram semakin rapat. Bagaimana siswa menyesuaikan tempo dengan aman?",
+          "options": [
+            "gerakan harus sembarangan",
+            "gerakan harus di lantai licin",
+            "gerakan tidak perlu kendali",
+            "gerakan mengikuti ketukan lebih rapat dengan tetap aman"
+          ],
+          "answer": "gerakan mengikuti ketukan lebih rapat dengan tetap aman",
+          "discussion": "Tempo cepat: gerakan mengikuti ketukan lebih rapat dengan tetap aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-03.svg",
+            "alt": "Ilustrasi Tempo cepat"
+          }
+        },
+        {
+          "id": "K03-PJK-B05-M01-039",
+          "type": "PG",
+          "text": "Dua siswa mengayunkan tangan dekat satu sama lain. Mengapa ruang di antaranya perlu cukup?",
+          "options": [
+            "tidak perlu diperhatikan",
+            "harus di lorong sempit",
+            "perlu cukup agar tidak bertabrakan",
+            "harus saling menempel"
+          ],
+          "answer": "perlu cukup agar tidak bertabrakan",
+          "discussion": "Jarak antarpeserta: perlu cukup agar tidak bertabrakan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-04.svg",
+            "alt": "Ilustrasi Jarak antarpeserta"
+          }
+        },
+        {
+          "id": "K03-PJK-B05-M01-040",
+          "type": "PG",
+          "text": "Gerakan berakhir, lalu siswa menurunkan aktivitas perlahan. Apa tujuan tahap tersebut?",
+          "options": [
+            "berarti berhenti bernapas",
+            "membantu tubuh beralih ke keadaan lebih tenang",
+            "menggantikan tidur malam",
+            "membuat tubuh tidak perlu air"
+          ],
+          "answer": "membantu tubuh beralih ke keadaan lebih tenang",
+          "discussion": "Pendinginan setelah bergerak: membantu tubuh beralih ke keadaan lebih tenang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-05.svg",
+            "alt": "Ilustrasi Pendinginan setelah bergerak"
+          }
+        },
+        {
+          "id": "K03-PJK-B05-M01-041",
+          "type": "PG",
+          "text": "Anak bergerak mengikuti bunyi tepuk yang teratur. Jenis gerak apakah ini?",
+          "options": [
+            "gerakan tubuh mengikuti irama atau ketukan",
+            "gerak tanpa memperhatikan irama",
+            "hanya duduk diam",
+            "hanya melempar bola"
+          ],
+          "answer": "gerakan tubuh mengikuti irama atau ketukan",
+          "discussion": "Gerak berirama: gerakan tubuh mengikuti irama atau ketukan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-06.svg",
+            "alt": "Ilustrasi Gerak berirama"
+          }
+        },
+        {
+          "id": "K03-PJK-B05-M01-042",
+          "type": "PG",
+          "text": "Siswa menggunakan tepukan untuk menjaga urutan bunyi. Fungsinya ialah ....",
+          "options": [
+            "menggantikan minum",
+            "menyebabkan harus berlari",
+            "menjadi gerak renang",
+            "membantu mengikuti pola irama"
+          ],
+          "answer": "membantu mengikuti pola irama",
+          "discussion": "Tepuk tangan sesuai ketukan: membantu mengikuti pola irama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-07.svg",
+            "alt": "Ilustrasi Tepuk tangan sesuai ketukan"
+          }
+        },
+        {
+          "id": "K03-PJK-B05-M01-043",
+          "type": "PG",
+          "text": "Panah mengarah ke kanan lalu ke kiri. Bagaimana langkah dilakukan?",
+          "options": [
+            "dilakukan tanpa melihat sekitar",
+            "harus sangat cepat",
+            "dilakukan mengikuti hitungan dengan ruang aman",
+            "dilakukan sambil mendorong teman"
+          ],
+          "answer": "dilakukan mengikuti hitungan dengan ruang aman",
+          "discussion": "Langkah ke kanan dan kiri: dilakukan mengikuti hitungan dengan ruang aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-08.svg",
+            "alt": "Ilustrasi Langkah ke kanan dan kiri"
+          }
+        },
+        {
+          "id": "K03-PJK-B05-M01-044",
+          "type": "PG",
+          "text": "Lengan bergerak setiap ketukan musik. Bagaimana seharusnya ayunannya?",
+          "options": [
+            "tidak perlu terkendali",
+            "disesuaikan dengan ketukan musik",
+            "selalu melawan ketukan",
+            "dilakukan sambil memukul teman"
+          ],
+          "answer": "disesuaikan dengan ketukan musik",
+          "discussion": "Ayunan lengan berirama: disesuaikan dengan ketukan musik.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-09.svg",
+            "alt": "Ilustrasi Ayunan lengan berirama"
+          }
+        },
+        {
+          "id": "K03-PJK-B05-M01-045",
+          "type": "PG",
+          "text": "Angka 1, 2, 3, 4 muncul berurutan. Apa fungsi urutan dalam latihan?",
+          "options": [
+            "membantu mengatur urutan gerak",
+            "menentukan ukuran sepatu",
+            "mengganti pemanasan",
+            "mengubah tinggi badan"
+          ],
+          "answer": "membantu mengatur urutan gerak",
+          "discussion": "Hitungan satu sampai empat: membantu mengatur urutan gerak.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-10.svg",
+            "alt": "Ilustrasi Hitungan satu sampai empat"
+          }
+        }
+      ]
+    }
+  ]
+}
