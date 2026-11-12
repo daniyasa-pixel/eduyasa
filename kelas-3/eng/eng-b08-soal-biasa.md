@@ -2,560 +2,560 @@
 
 ## Soal 1 — K03-ENG-B08-M01-001
 
-**Pertanyaan:** What is the English word for "jus jeruk"?
+**Pertanyaan:** Mira says, 'I drink orange juice in the canteen.' What does she drink?
 
 **Pilihan jawaban:**
-- canteen
-- bread
-- tea
 - orange juice
+- water
+- milk
+- tea
 
 **Kunci Jawaban:** orange juice
 
-**Pembahasan:** "orange juice" berarti "jus jeruk".
+**Pembahasan:** The drink is orange juice.
 
 ---
 
 ## Soal 2 — K03-ENG-B08-M01-002
 
-**Pertanyaan:** What is the English word for "air"?
+**Pertanyaan:** Bima drinks water after playing. Which drink does he choose?
 
 **Pilihan jawaban:**
-- rice
-- canteen
 - water
+- canteen
 - classroom
+- library
 
 **Kunci Jawaban:** water
 
-**Pembahasan:** "water" berarti "air".
+**Pembahasan:** The sentence names water.
 
 ---
 
 ## Soal 3 — K03-ENG-B08-M01-003
 
-**Pertanyaan:** What is the English word for "susu"?
+**Pertanyaan:** Siti has a glass of milk at breakfast. What is in her glass?
 
 **Pilihan jawaban:**
-- classroom
 - milk
-- library
+- bread
+- rice
 - noodles
 
 **Kunci Jawaban:** milk
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** Milk is stated as the drink.
 
 ---
 
 ## Soal 4 — K03-ENG-B08-M01-004
 
-**Pertanyaan:** What is the English word for "teh"?
+**Pertanyaan:** A teacher says, 'I drink tea.' Which drink does the teacher name?
 
 **Pilihan jawaban:**
 - tea
-- bread
-- orange juice
-- library
+- milk
+- canteen
+- classroom
 
 **Kunci Jawaban:** tea
 
-**Pembahasan:** "tea" berarti "teh".
+**Pembahasan:** The sentence names tea.
 
 ---
 
 ## Soal 5 — K03-ENG-B08-M01-005
 
-**Pertanyaan:** What is the English word for "kantin"?
+**Pertanyaan:** The children buy food at school. Which place sells food?
 
 **Pilihan jawaban:**
-- rice
-- water
-- bread
 - canteen
+- library
+- bread
+- rice
 
 **Kunci Jawaban:** canteen
 
-**Pembahasan:** "canteen" berarti "kantin".
+**Pembahasan:** A canteen is a place to buy food at school.
 
 ---
 
 ## Soal 6 — K03-ENG-B08-M01-006
 
-**Pertanyaan:** What is the English word for "kelas"?
+**Pertanyaan:** Where do students usually study with their teacher?
 
 **Pilihan jawaban:**
-- milk
-- rice
 - classroom
-- noodles
+- water
+- milk
+- tea
 
 **Kunci Jawaban:** classroom
 
-**Pembahasan:** "classroom" berarti "kelas".
+**Pembahasan:** A classroom is used for lessons.
 
 ---
 
 ## Soal 7 — K03-ENG-B08-M01-007
 
-**Pertanyaan:** What is the English word for "perpustakaan"?
+**Pertanyaan:** A student borrows a book. Which place should the student visit?
 
 **Pilihan jawaban:**
-- noodles
 - library
-- orange juice
-- tea
+- canteen
+- classroom
+- bread
 
 **Kunci Jawaban:** library
 
-**Pembahasan:** "library" berarti "perpustakaan".
+**Pembahasan:** Books can be read or borrowed in a library.
 
 ---
 
 ## Soal 8 — K03-ENG-B08-M01-008
 
-**Pertanyaan:** What is the English word for "roti"?
+**Pertanyaan:** Rudi eats bread for breakfast. What does he eat?
 
 **Pilihan jawaban:**
 - bread
-- water
-- canteen
 - orange juice
+- water
+- milk
 
 **Kunci Jawaban:** bread
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** Bread is the food mentioned.
 
 ---
 
 ## Soal 9 — K03-ENG-B08-M01-009
 
-**Pertanyaan:** What is the English word for "nasi"?
+**Pertanyaan:** Nina says, 'I eat rice for lunch.' Which food does she eat?
 
 **Pilihan jawaban:**
-- milk
-- classroom
-- water
 - rice
+- tea
+- canteen
+- classroom
 
 **Kunci Jawaban:** rice
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** She names rice.
 
 ---
 
 ## Soal 10 — K03-ENG-B08-M01-010
 
-**Pertanyaan:** What is the English word for "mi"?
+**Pertanyaan:** Ali likes noodles. Which food does Ali like?
 
 **Pilihan jawaban:**
-- library
-- milk
 - noodles
-- tea
+- library
+- bread
+- rice
 
 **Kunci Jawaban:** noodles
 
-**Pembahasan:** "noodles" berarti "mi".
+**Pembahasan:** Noodles is explicitly the food.
 
 ---
 
 ## Soal 11 — K03-ENG-B08-M01-011
 
-**Pertanyaan:** What does "orange juice" mean in Indonesian?
+**Pertanyaan:** Choose the correct sentence about drinking orange juice.
 
 **Pilihan jawaban:**
-- teh
-- jus jeruk
-- kantin
-- roti
+- I drink orange juice.
+- I eat orange juice.
+- I drink noodles.
+- I eat water.
 
-**Kunci Jawaban:** jus jeruk
+**Kunci Jawaban:** I drink orange juice.
 
-**Pembahasan:** "orange juice" berarti "jus jeruk".
+**Pembahasan:** Use 'drink' with orange juice.
 
 ---
 
 ## Soal 12 — K03-ENG-B08-M01-012
 
-**Pertanyaan:** What does "water" mean in Indonesian?
+**Pertanyaan:** Choose the correct sentence about eating bread.
 
 **Pilihan jawaban:**
-- air
-- kelas
-- nasi
-- kantin
+- I drink bread.
+- I eat bread.
+- I eat water.
+- I drink rice.
 
-**Kunci Jawaban:** air
+**Kunci Jawaban:** I eat bread.
 
-**Pembahasan:** "water" berarti "air".
+**Pembahasan:** Use 'eat' with bread.
 
 ---
 
 ## Soal 13 — K03-ENG-B08-M01-013
 
-**Pertanyaan:** What does "milk" mean in Indonesian?
+**Pertanyaan:** A: What do you drink? B: ___.
 
 **Pilihan jawaban:**
-- perpustakaan
-- mi
-- kelas
-- susu
+- I eat water.
+- I drink water.
+- I drink bread.
+- I eat tea.
 
-**Kunci Jawaban:** susu
+**Kunci Jawaban:** I drink water.
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** The response names a drink with the verb 'drink'.
 
 ---
 
 ## Soal 14 — K03-ENG-B08-M01-014
 
-**Pertanyaan:** What does "tea" mean in Indonesian?
+**Pertanyaan:** A: What do you eat? B: ___.
 
 **Pilihan jawaban:**
-- jus jeruk
-- perpustakaan
-- teh
-- roti
+- I drink rice.
+- I eat tea.
+- I eat rice.
+- I drink bread.
 
-**Kunci Jawaban:** teh
+**Kunci Jawaban:** I eat rice.
 
-**Pembahasan:** "tea" berarti "teh".
+**Pembahasan:** The response uses 'eat' with a food.
 
 ---
 
 ## Soal 15 — K03-ENG-B08-M01-015
 
-**Pertanyaan:** What does "canteen" mean in Indonesian?
+**Pertanyaan:** Choose the correct phrase for a place to have a school snack.
 
 **Pilihan jawaban:**
-- roti
-- kantin
-- nasi
-- air
+- under the classroom
+- on the library
+- in the canteen
+- between the water
 
-**Kunci Jawaban:** kantin
+**Kunci Jawaban:** in the canteen
 
-**Pembahasan:** "canteen" berarti "kantin".
+**Pembahasan:** The canteen is the location; 'in the' introduces the place.
 
 ---
 
 ## Soal 16 — K03-ENG-B08-M01-016
 
-**Pertanyaan:** What does "classroom" mean in Indonesian?
+**Pertanyaan:** Complete: I ___ milk at breakfast.
 
 **Pilihan jawaban:**
-- kelas
-- mi
-- susu
-- nasi
+- eat
+- draw
+- drink
+- read
 
-**Kunci Jawaban:** kelas
+**Kunci Jawaban:** drink
 
-**Pembahasan:** "classroom" berarti "kelas".
+**Pembahasan:** Milk is a drink.
 
 ---
 
 ## Soal 17 — K03-ENG-B08-M01-017
 
-**Pertanyaan:** What does "library" mean in Indonesian?
+**Pertanyaan:** Complete: I ___ noodles for lunch.
 
 **Pilihan jawaban:**
-- jus jeruk
-- teh
-- mi
-- perpustakaan
+- read
+- drink
+- eat
+- write
 
-**Kunci Jawaban:** perpustakaan
+**Kunci Jawaban:** eat
 
-**Pembahasan:** "library" berarti "perpustakaan".
+**Pembahasan:** Noodles are food, so use eat.
 
 ---
 
 ## Soal 18 — K03-ENG-B08-M01-018
 
-**Pertanyaan:** What does "bread" mean in Indonesian?
+**Pertanyaan:** A: Do you drink tea? B: Yes, ___.
 
 **Pilihan jawaban:**
-- kantin
-- jus jeruk
-- roti
-- air
+- I am.
+- I do.
+- I is.
+- I are.
 
-**Kunci Jawaban:** roti
+**Kunci Jawaban:** I do.
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** 'Do you ...?' can take 'Yes, I do.'
 
 ---
 
 ## Soal 19 — K03-ENG-B08-M01-019
 
-**Pertanyaan:** What does "rice" mean in Indonesian?
+**Pertanyaan:** A: Do you eat rice? B: No, ___.
 
 **Pilihan jawaban:**
-- air
-- nasi
-- susu
-- kelas
+- I am not.
+- I don't.
+- I isn't.
+- I aren't.
 
-**Kunci Jawaban:** nasi
+**Kunci Jawaban:** I don't.
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** The correct negative short reply is 'No, I don't.'
 
 ---
 
 ## Soal 20 — K03-ENG-B08-M01-020
 
-**Pertanyaan:** What does "noodles" mean in Indonesian?
+**Pertanyaan:** A: Where do you drink water at school? B: ___.
 
 **Pilihan jawaban:**
-- mi
-- teh
-- perpustakaan
-- susu
+- In the canteen.
+- On the water.
+- Under the milk.
+- Between the tea.
 
-**Kunci Jawaban:** mi
+**Kunci Jawaban:** In the canteen.
 
-**Pembahasan:** "noodles" berarti "mi".
+**Pembahasan:** This answer names the place.
 
 ---
 
 ## Soal 21 — K03-ENG-B08-M01-021
 
-**Pertanyaan:** Which English word matches "jus jeruk" in the lesson?
+**Pertanyaan:** Read: 'I eat bread and drink milk.' Which item is the drink?
 
 **Pilihan jawaban:**
-- canteen
+- milk
+- classroom
+- library
 - bread
-- tea
-- orange juice
 
-**Kunci Jawaban:** orange juice
+**Kunci Jawaban:** milk
 
-**Pembahasan:** "orange juice" berarti "jus jeruk".
+**Pembahasan:** Milk follows 'drink'.
 
 ---
 
 ## Soal 22 — K03-ENG-B08-M01-022
 
-**Pertanyaan:** Which English word matches "air" in the lesson?
+**Pertanyaan:** Read: 'I eat noodles and drink tea.' Which item is food?
 
 **Pilihan jawaban:**
-- rice
-- canteen
+- noodles
+- orange juice
 - water
-- classroom
+- milk
 
-**Kunci Jawaban:** water
+**Kunci Jawaban:** noodles
 
-**Pembahasan:** "water" berarti "air".
+**Pembahasan:** Noodles follows 'eat'.
 
 ---
 
 ## Soal 23 — K03-ENG-B08-M01-023
 
-**Pertanyaan:** Which English word matches "susu" in the lesson?
+**Pertanyaan:** Lina says, 'I drink water, not tea.' What does Lina drink?
 
 **Pilihan jawaban:**
+- water
+- canteen
 - classroom
-- milk
 - library
-- noodles
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** water
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** 'Not tea' rules out tea; she names water.
 
 ---
 
 ## Soal 24 — K03-ENG-B08-M01-024
 
-**Pertanyaan:** Which English word matches "teh" in the lesson?
+**Pertanyaan:** Beni says, 'I eat rice, not bread.' What food does he eat?
 
 **Pilihan jawaban:**
-- tea
-- bread
-- orange juice
+- rice
 - library
+- bread
+- noodles
 
-**Kunci Jawaban:** tea
+**Kunci Jawaban:** rice
 
-**Pembahasan:** "tea" berarti "teh".
+**Pembahasan:** The sentence identifies rice.
 
 ---
 
 ## Soal 25 — K03-ENG-B08-M01-025
 
-**Pertanyaan:** Which English word matches "kantin" in the lesson?
+**Pertanyaan:** A friend says, 'I drink orange juice.' Which question fits the answer?
 
 **Pilihan jawaban:**
-- rice
-- water
-- bread
-- canteen
+- What do you drink?
+- What do you eat?
+- Where do you sleep?
+- How old are you?
 
-**Kunci Jawaban:** canteen
+**Kunci Jawaban:** What do you drink?
 
-**Pembahasan:** "canteen" berarti "kantin".
+**Pembahasan:** The question asks about a drink.
 
 ---
 
 ## Soal 26 — K03-ENG-B08-M01-026
 
-**Pertanyaan:** Which English word matches "kelas" in the lesson?
+**Pertanyaan:** A friend says, 'I eat bread.' Which question fits the answer?
 
 **Pilihan jawaban:**
-- milk
-- rice
-- classroom
-- noodles
+- What do you drink?
+- What do you eat?
+- Where is the gate?
+- Is it the office?
 
-**Kunci Jawaban:** classroom
+**Kunci Jawaban:** What do you eat?
 
-**Pembahasan:** "classroom" berarti "kelas".
+**Pembahasan:** The question asks about food.
 
 ---
 
 ## Soal 27 — K03-ENG-B08-M01-027
 
-**Pertanyaan:** Which English word matches "perpustakaan" in the lesson?
+**Pertanyaan:** Which sentence uses 'in the canteen' correctly?
 
 **Pilihan jawaban:**
-- noodles
-- library
-- orange juice
-- tea
+- I eat orange juice in the canteen.
+- I drink water in the canteen.
+- I drink noodles in the canteen.
+- I eat milk in the canteen.
 
-**Kunci Jawaban:** library
+**Kunci Jawaban:** I drink water in the canteen.
 
-**Pembahasan:** "library" berarti "perpustakaan".
+**Pembahasan:** The phrase identifies where the action happens.
 
 ---
 
 ## Soal 28 — K03-ENG-B08-M01-028
 
-**Pertanyaan:** Which English word matches "roti" in the lesson?
+**Pertanyaan:** Which sentence is about a drink, not a food?
 
 **Pilihan jawaban:**
-- bread
-- water
-- canteen
-- orange juice
+- I eat bread.
+- I drink milk.
+- I eat noodles.
+- I eat rice.
 
-**Kunci Jawaban:** bread
+**Kunci Jawaban:** I drink milk.
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** Milk is a drink in this context.
 
 ---
 
 ## Soal 29 — K03-ENG-B08-M01-029
 
-**Pertanyaan:** Which English word matches "nasi" in the lesson?
+**Pertanyaan:** Which sentence is about eating, not drinking?
 
 **Pilihan jawaban:**
-- milk
-- classroom
-- water
-- rice
+- I drink tea.
+- I drink water.
+- I eat noodles.
+- I drink milk.
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** I eat noodles.
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** Noodles are food.
 
 ---
 
 ## Soal 30 — K03-ENG-B08-M01-030
 
-**Pertanyaan:** Which English word matches "mi" in the lesson?
+**Pertanyaan:** A: Do you drink water? B: Yes, I do. What do we know?
 
 **Pilihan jawaban:**
-- library
-- milk
-- noodles
-- tea
+- The speaker drinks water.
+- The speaker eats water.
+- The speaker does not drink water.
+- The speaker drinks bread.
 
-**Kunci Jawaban:** noodles
+**Kunci Jawaban:** The speaker drinks water.
 
-**Pembahasan:** "noodles" berarti "mi".
+**Pembahasan:** 'Yes, I do' confirms the question.
 
 ---
 
 ## Soal 31 — K03-ENG-B08-M01-031
 
-**Pertanyaan:** What is the English word for "jus jeruk"?
+**Pertanyaan:** A: Do you drink milk? B: No, I don't. What do we know?
 
 **Pilihan jawaban:**
-- tea
-- orange juice
-- canteen
-- bread
+- The speaker drinks milk.
+- The speaker eats milk.
+- The speaker does not drink milk.
+- The speaker drinks noodles.
 
-**Kunci Jawaban:** orange juice
+**Kunci Jawaban:** The speaker does not drink milk.
 
-**Pembahasan:** "orange juice" berarti "jus jeruk".
+**Pembahasan:** The negative reply denies the action.
 
 ---
 
 ## Soal 32 — K03-ENG-B08-M01-032
 
-**Pertanyaan:** What is the English word for "air"?
+**Pertanyaan:** Read: 'The canteen is beside the classroom.' Which place is beside the classroom?
 
 **Pilihan jawaban:**
-- water
-- classroom
-- rice
 - canteen
+- milk
+- tea
+- classroom
 
-**Kunci Jawaban:** water
+**Kunci Jawaban:** canteen
 
-**Pembahasan:** "water" berarti "air".
+**Pembahasan:** The sentence names the canteen as beside the classroom.
 
 ---
 
 ## Soal 33 — K03-ENG-B08-M01-033
 
-**Pertanyaan:** What is the English word for "susu"?
+**Pertanyaan:** Rara goes to the library and reads books. What does she do there?
 
 **Pilihan jawaban:**
-- library
-- noodles
+- reads books
 - classroom
-- milk
+- library
+- bread
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** reads books
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** The sentence states that she reads books.
 
 ---
 
 ## Soal 34 — K03-ENG-B08-M01-034
 
-**Pertanyaan:** What is the English word for "teh"?
+**Pertanyaan:** Which words complete 'I ___ tea in the ___'?
 
 **Pilihan jawaban:**
-- orange juice
-- library
-- tea
-- bread
+- drink; canteen
+- eat; library
+- drink; noodles
+- read; milk
 
-**Kunci Jawaban:** tea
+**Kunci Jawaban:** drink; canteen
 
-**Pembahasan:** "tea" berarti "teh".
+**Pembahasan:** 'Drink' fits tea and 'canteen' fits the place.
 
 ---
 
 ## Soal 35 — K03-ENG-B08-M01-035
 
-**Pertanyaan:** What is the English word for "kantin"?
+**Pertanyaan:** Which words complete 'I ___ rice in the ___'?
 
 **Pilihan jawaban:**
-- bread
-- canteen
-- rice
-- water
+- drink; classroom
+- eat; canteen
+- sleep; tea
+- draw; rice
 
-**Kunci Jawaban:** canteen
+**Kunci Jawaban:** eat; canteen
 
-**Pembahasan:** "canteen" berarti "kantin".
+**Pembahasan:** 'Eat' fits rice and 'canteen' fits the place.
 
 ---
