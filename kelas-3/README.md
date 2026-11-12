@@ -4,13 +4,15 @@ Data Kelas 3 berada di folder ini. Data Kelas 6 tetap memakai folder mapel di ak
 repository. Keduanya berada pada branch `main`; branch berbeda dengan folder.
 
 Mata pelajaran yang sudah tersedia sebagai JSON dan terhubung ke aplikasi:
-**Bahasa Indonesia (4 bab)**, **Pendidikan Pancasila (4 bab)**, dan
-**Matematika (5 bab, LaTeX/MathJax)**. Daftar kerja delapan mapel/50 bab
+**Bahasa Indonesia (4 bab)**, **Pendidikan Pancasila (4 bab)**,
+**Matematika (5 bab, LaTeX/MathJax)**, dan **Seni Rupa (5 bab, JSON dan manifest)**. Daftar kerja delapan mapel/50 bab
 dari riset awal belum berarti seluruh kontennya sudah tersedia atau diaudit.
 
 - [Paket Bahasa Indonesia dan laporan pemeriksaan](bin/README.md)
 - [Paket Pendidikan Pancasila empat bab (JSON dan sumber Markdown)](pkn/README.md)
 - [Paket Matematika lima bab (JSON + LaTeX/MathJax)](mtk/README.md)
+- [Paket Seni Rupa lima bab](sbd/README.md)
+- [Laporan audit JSON](LAPORAN-AUDIT-JSON.md)
 - [Handover Codex untuk konversi JSON](HANDOVER-KONVERSI-JSON.md)
 - [Konfigurasi kelas](../HTML/grade-config.js)
 - [Ketentuan konten yang berlaku](../docs/CONTENT_GUIDE.md)
@@ -31,3 +33,7 @@ ID modul: `K03-BIN-B01-MOD-01` dan `MOD-02`.
 `subject_id` tetap `BIN`; lokasi data dan awalan ID membedakan kelas. Manifest
 `bin/question-packs.json` menggunakan jalur relatif terhadap `kelas-3/`.
 Jangan menyalin bank Kelas 6 ke sini atau menambahkan nama kelas pada ID lama.
+
+## Aktivasi Seni Rupa — 12 November 2026
+
+Konfigurasi `HTML/grade-config.js` ditambah subjek `SBD` pada menu Kelas 3, `manifestSubjects`, dan `imageQuotaSubjects` untuk Bab 1–5. Manifest `sbd/question-packs.json` memetakan 10 bank JSON (5 teks, 5 bergambar); 5 JSON modul turut tersedia. Pemeriksaan statis: daftar bab, metadata manifest, dan 10 bank JSON valid. **Belum diuji secara langsung dalam HP/WebView**; jika masalah tampilan atau loading ditemukan, tindak lanjuti sebelum dinyatakan selesai pada tahap aplikasi. Kelas 6 tidak disentuh.
