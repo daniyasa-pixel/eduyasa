@@ -1,103 +1,101 @@
 # Unit 4 — 5 Soal Listening
 
-**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
-
 ## Soal 46 — K03-ENG-B04-M01-046
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"swimming","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Do you like swimming? Yes, I do.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** swimming
+**Transkrip produksi (disembunyikan dari siswa):** Do you like swimming? Yes, I do.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** What hobby does the speaker say Yes to?
 
 **Pilihan jawaban:**
-- singing
-- running
+- reading
 - swimming
-- cooking
+- singing
+- cycling
 
 **Kunci Jawaban:** swimming
 
-**Pembahasan:** Audio menyebutkan "swimming" (berenang).
+**Pembahasan:** The question asks about swimming and the reply is Yes.
 
 ---
 
 ## Soal 47 — K03-ENG-B04-M01-047
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"reading","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Does Sinta like singing? No, she doesn’t. She likes drawing.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** reading
+**Transkrip produksi (disembunyikan dari siswa):** Does Sinta like singing? No, she doesn’t. She likes drawing.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** What hobby does Sinta like?
 
 **Pilihan jawaban:**
-- cycling
-- reading
+- singing
 - swimming
-- dancing
-
-**Kunci Jawaban:** reading
-
-**Pembahasan:** Audio menyebutkan "reading" (membaca).
-
----
-
-## Soal 48 — K03-ENG-B04-M01-048
-
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"singing","rate":0.85}`
-
-**Transkrip produksi (disembunyikan dari siswa):** singing
-
-**Pertanyaan:** Listen. Which English word do you hear?
-
-**Pilihan jawaban:**
-- singing
-- reading
-- drawing
-- football
-
-**Kunci Jawaban:** singing
-
-**Pembahasan:** Audio menyebutkan "singing" (bernyanyi).
-
----
-
-## Soal 49 — K03-ENG-B04-M01-049
-
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"dancing","rate":0.85}`
-
-**Transkrip produksi (disembunyikan dari siswa):** dancing
-
-**Pertanyaan:** Listen. Which English word do you hear?
-
-**Pilihan jawaban:**
-- singing
-- running
-- jumping
-- dancing
-
-**Kunci Jawaban:** dancing
-
-**Pembahasan:** Audio menyebutkan "dancing" (menari).
-
----
-
-## Soal 50 — K03-ENG-B04-M01-050
-
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"drawing","rate":0.85}`
-
-**Transkrip produksi (disembunyikan dari siswa):** drawing
-
-**Pertanyaan:** Listen. Which English word do you hear?
-
-**Pilihan jawaban:**
-- cycling
-- cooking
 - drawing
 - dancing
 
 **Kunci Jawaban:** drawing
 
-**Pembahasan:** Audio menyebutkan "drawing" (menggambar).
+**Pembahasan:** The speaker says No to singing and then names drawing.
+
+---
+
+## Soal 48 — K03-ENG-B04-M01-048
+
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Riko likes playing football, but he doesn’t like riding a bike.","rate":0.85}`
+
+**Transkrip produksi (disembunyikan dari siswa):** Riko likes playing football, but he doesn’t like riding a bike.
+
+**Pertanyaan:** Which activity does Riko not like?
+
+**Pilihan jawaban:**
+- riding a bike
+- playing football
+- reading
+- swimming
+
+**Kunci Jawaban:** riding a bike
+
+**Pembahasan:** The second clause says he doesn’t like riding a bike.
+
+---
+
+## Soal 49 — K03-ENG-B04-M01-049
+
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Do Maya and Lani like reading? Yes, they do.","rate":0.85}`
+
+**Transkrip produksi (disembunyikan dari siswa):** Do Maya and Lani like reading? Yes, they do.
+
+**Pertanyaan:** Which two children give a Yes answer for reading?
+
+**Pilihan jawaban:**
+- only Maya
+- Maya and Lani
+- only Lani
+- neither child
+
+**Kunci Jawaban:** Maya and Lani
+
+**Pembahasan:** They refers to Maya and Lani, and the response is Yes.
+
+---
+
+## Soal 50 — K03-ENG-B04-M01-050
+
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"I like swimming and reading. My brother likes flying a kite.","rate":0.85}`
+
+**Transkrip produksi (disembunyikan dari siswa):** I like swimming and reading. My brother likes flying a kite.
+
+**Pertanyaan:** Which hobby belongs to the speaker’s brother?
+
+**Pilihan jawaban:**
+- swimming
+- reading
+- flying a kite
+- swimming and reading
+
+**Kunci Jawaban:** flying a kite
+
+**Pembahasan:** The last sentence assigns flying a kite to the brother.
 
 ---

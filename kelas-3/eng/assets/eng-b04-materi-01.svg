@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 207" role="img" aria-labelledby="title desc">
+  <title id="title">Two friends' hobby survey</title>
+  <desc id="desc">Ayu: swimming Yes, reading No. Bima: swimming No, reading Yes. Both: singing Yes</desc>
+  <rect width="390" height="207" rx="16" fill="#f1f4fb"/>
+  <path d="M16 0h358a16 16 0 0 1 16 16v40H0V16A16 16 0 0 1 16 0z" fill="#263f78"/>
+  <text x="20" y="35" fill="white" font-family="sans-serif" font-size="21" font-weight="700">Two friends' hobby survey</text>
+  <rect x="12" y="64" width="366" height="39" rx="7" fill="#ffffff"/>
+  <text x="22" y="89" fill="#23355e" font-family="sans-serif" font-size="15" font-weight="700">Ayu</text>
+  <text x="130" y="89" fill="#23355e" font-family="sans-serif" font-size="15">swimming Yes, reading No</text>
+  <rect x="12" y="109" width="366" height="39" rx="7" fill="#e2e8f5"/>
+  <text x="22" y="134" fill="#23355e" font-family="sans-serif" font-size="15" font-weight="700">Bima</text>
+  <text x="130" y="134" fill="#23355e" font-family="sans-serif" font-size="15">swimming No, reading Yes</text>
+  <rect x="12" y="154" width="366" height="39" rx="7" fill="#ffffff"/>
+  <text x="22" y="179" fill="#23355e" font-family="sans-serif" font-size="15" font-weight="700">Both</text>
+  <text x="130" y="179" fill="#23355e" font-family="sans-serif" font-size="15">singing Yes</text>
+</svg>

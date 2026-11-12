@@ -2,180 +2,180 @@
 
 ## Soal 36 — K03-ENG-B04-M01-036
 
-![Picture](assets/eng-b04-gambar-01.svg)
+![Hobby survey. Ayu: swimming Yes, reading No. Bima: swimming No, reading Yes.](assets/eng-b04-gambar-01.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Who likes reading?
 
 **Pilihan jawaban:**
-- swimming
-- cooking
-- singing
-- running
+- Ayu
+- Bima
+- Ayu and Bima
+- neither child
 
-**Kunci Jawaban:** swimming
+**Kunci Jawaban:** Bima
 
-**Pembahasan:** Gambar menunjukkan "swimming" (berenang).
+**Pembahasan:** Bima’s reading entry is Yes.
 
 ---
 
 ## Soal 37 — K03-ENG-B04-M01-037
 
-![Picture](assets/eng-b04-gambar-02.svg)
+![Cici's hobby card. singing: Yes. drawing: Yes. swimming: No.](assets/eng-b04-gambar-02.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which activity does Cici not like?
 
 **Pilihan jawaban:**
+- singing
+- drawing
 - swimming
-- dancing
-- cycling
-- reading
+- singing and drawing
 
-**Kunci Jawaban:** reading
+**Kunci Jawaban:** swimming
 
-**Pembahasan:** Gambar menunjukkan "reading" (membaca).
+**Pembahasan:** Swimming is the only activity marked No.
 
 ---
 
 ## Soal 38 — K03-ENG-B04-M01-038
 
-![Picture](assets/eng-b04-gambar-03.svg)
+![Two hobby cards. Made: playing football. Joshua: swimming.](assets/eng-b04-gambar-03.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which report matches Joshua’s card?
 
 **Pilihan jawaban:**
-- drawing
-- football
-- singing
-- reading
+- Joshua likes football.
+- Made likes swimming.
+- They like swimming.
+- Joshua likes swimming.
 
-**Kunci Jawaban:** singing
+**Kunci Jawaban:** Joshua likes swimming.
 
-**Pembahasan:** Gambar menunjukkan "singing" (bernyanyi).
+**Pembahasan:** Joshua’s card names swimming.
 
 ---
 
 ## Soal 39 — K03-ENG-B04-M01-039
 
-![Picture](assets/eng-b04-gambar-04.svg)
+![Class tally. reading: 6 Yes. swimming: 4 Yes. singing: 5 Yes.](assets/eng-b04-gambar-04.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which hobby has the most Yes answers?
 
 **Pilihan jawaban:**
-- jumping
-- dancing
+- reading
+- swimming
 - singing
-- running
+- all are equal
 
-**Kunci Jawaban:** dancing
+**Kunci Jawaban:** reading
 
-**Pembahasan:** Gambar menunjukkan "dancing" (menari).
+**Pembahasan:** Reading has six Yes answers, the largest tally.
 
 ---
 
 ## Soal 40 — K03-ENG-B04-M01-040
 
-![Picture](assets/eng-b04-gambar-05.svg)
+![Rani's answers. Cycling: Yes. Dancing: No.](assets/eng-b04-gambar-05.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which report matches both answers?
 
 **Pilihan jawaban:**
-- drawing
-- dancing
-- cycling
-- cooking
+- Rani likes cycling and dancing.
+- Rani doesn’t like cycling or dancing.
+- Rani likes cycling but doesn’t like dancing.
+- Rani likes dancing but not cycling.
 
-**Kunci Jawaban:** drawing
+**Kunci Jawaban:** Rani likes cycling but doesn’t like dancing.
 
-**Pembahasan:** Gambar menunjukkan "drawing" (menggambar).
+**Pembahasan:** Yes belongs to cycling and No belongs to dancing.
 
 ---
 
 ## Soal 41 — K03-ENG-B04-M01-041
 
-![Picture](assets/eng-b04-gambar-06.svg)
+![Unfinished survey. Tono: football Yes. Tono: reading (blank).](assets/eng-b04-gambar-06.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** What should the surveyor do next?
 
 **Pilihan jawaban:**
-- drawing
-- football
-- swimming
-- running
+- Change the blank to No.
+- Change the blank to Yes.
+- Copy the football answer.
+- Ask Tono about reading.
 
-**Kunci Jawaban:** running
+**Kunci Jawaban:** Ask Tono about reading.
 
-**Pembahasan:** Gambar menunjukkan "running" (berlari).
+**Pembahasan:** The blank means Tono’s reading answer has not been recorded.
 
 ---
 
 ## Soal 42 — K03-ENG-B04-M01-042
 
-![Picture](assets/eng-b04-gambar-07.svg)
+![Hobby schedule. Saturday: riding a bike. Sunday: reading a storybook.](assets/eng-b04-gambar-07.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** What does the child do on Sunday?
 
 **Pilihan jawaban:**
-- jumping
-- reading
-- cycling
-- running
+- reads a storybook
+- rides a bike
+- plays football
+- swims
 
-**Kunci Jawaban:** cycling
+**Kunci Jawaban:** reads a storybook
 
-**Pembahasan:** Gambar menunjukkan "cycling" (bersepeda).
+**Pembahasan:** Sunday is paired with reading a storybook.
 
 ---
 
 ## Soal 43 — K03-ENG-B04-M01-043
 
-![Picture](assets/eng-b04-gambar-08.svg)
+![Friends' hobbies. Lia & Nisa: playing dolls. Riko & Bayu: playing football.](assets/eng-b04-gambar-08.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which sentence describes Lia and Nisa?
 
 **Pilihan jawaban:**
-- singing
-- football
-- cycling
-- cooking
+- They like football.
+- They like playing dolls.
+- She likes playing dolls.
+- They don’t like dolls.
 
-**Kunci Jawaban:** football
+**Kunci Jawaban:** They like playing dolls.
 
-**Pembahasan:** Gambar menunjukkan "football" (sepak bola).
+**Pembahasan:** Lia and Nisa are two people and their card names playing dolls.
 
 ---
 
 ## Soal 44 — K03-ENG-B04-M01-044
 
-![Picture](assets/eng-b04-gambar-09.svg)
+![Question and answer card. Question: Does Arif like swimming?. Answer: No, he doesn’t.. Arif: reading Yes.](assets/eng-b04-gambar-09.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which full report is supported?
 
 **Pilihan jawaban:**
-- jumping
-- football
-- swimming
-- dancing
+- Arif likes swimming.
+- Arif doesn’t like reading.
+- Arif likes only swimming.
+- Arif doesn’t like swimming.
 
-**Kunci Jawaban:** jumping
+**Kunci Jawaban:** Arif doesn’t like swimming.
 
-**Pembahasan:** Gambar menunjukkan "jumping" (melompat).
+**Pembahasan:** The answer No, he doesn’t refers to swimming.
 
 ---
 
 ## Soal 45 — K03-ENG-B04-M01-045
 
-![Picture](assets/eng-b04-gambar-10.svg)
+![Picture-choice record. 1: reading a storybook ✓. 2: flying a kite ✗. 3: swimming ✓.](assets/eng-b04-gambar-10.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which two hobbies are liked?
 
 **Pilihan jawaban:**
-- jumping
-- reading
-- drawing
-- cooking
+- reading and swimming
+- reading and flying a kite
+- flying a kite and swimming
+- all three hobbies
 
-**Kunci Jawaban:** cooking
+**Kunci Jawaban:** reading and swimming
 
-**Pembahasan:** Gambar menunjukkan "cooking" (memasak).
+**Pembahasan:** The check marks are beside reading and swimming.
 
 ---
