@@ -27,3 +27,7 @@ notasi matematika baru Bab 5, 6, 8 juga diuji MathJax.
 Putaran IPAS selesai; keseluruhan lima mapel **BELUM SELESAI**. Belum ada uji
 kesulitan empiris siswa, konversi JSON, atau aktivasi paket aplikasi. Lanjut PAI
 sesuai [laporan progres](../PROGRES-REVISI-1945.md).
+
+## Checkpoint JSON — 12 November 2026
+
+**Konversi seluruh Bab 1–8 selesai:** 8 bank soal teks `ipas-bNN.json`, 8 bank bergambar `ipas-bNNa.json`, dan 8 file materi `ipas-bNN-materi.json` (dua modul per bab). Total **560 soal, 16 modul, 24 JSON**. Manifest `question-packs.json` tersedia untuk semua delapan bab. Audit integritas hasil JSON vs Markdown per posisi/ID/opsi/kunci/pembahasan/gambar/teks modul: **0 mismatch**; bukan audit ulang isi akademik. Aturan pra-konversi yang tertulis pada bagian produksi di atas adalah catatan historis, digantikan oleh `../HANDOVER-KONVERSI-JSON.md`. **Belum diaktifkan pada menu Kelas 3** dan belum diuji pada HP/WebView.
