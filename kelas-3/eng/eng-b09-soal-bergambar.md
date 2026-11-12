@@ -4,7 +4,7 @@
 
 ![Picture](assets/eng-b09-gambar-01.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which adjective matches what the picture shows?
 
 **Pilihan jawaban:**
 - clean
@@ -22,7 +22,7 @@
 
 ![Picture](assets/eng-b09-gambar-02.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Look carefully. Is the pictured item clean or dirty?
 
 **Pilihan jawaban:**
 - clean
@@ -40,7 +40,7 @@
 
 ![Picture](assets/eng-b09-gambar-03.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which size word is represented?
 
 **Pilihan jawaban:**
 - tidy
@@ -58,7 +58,7 @@
 
 ![Picture](assets/eng-b09-gambar-04.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which word describes the small object?
 
 **Pilihan jawaban:**
 - quiet
@@ -76,7 +76,7 @@
 
 ![Picture](assets/eng-b09-gambar-05.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which word describes the arranged objects?
 
 **Pilihan jawaban:**
 - tidy
@@ -94,7 +94,7 @@
 
 ![Picture](assets/eng-b09-gambar-06.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** How would you describe the objects' arrangement?
 
 **Pilihan jawaban:**
 - tidy
@@ -112,7 +112,7 @@
 
 ![Picture](assets/eng-b09-gambar-07.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which adjective describes the lighting?
 
 **Pilihan jawaban:**
 - quiet
@@ -130,7 +130,7 @@
 
 ![Picture](assets/eng-b09-gambar-08.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** What word describes the lack of light?
 
 **Pilihan jawaban:**
 - big
@@ -148,7 +148,7 @@
 
 ![Picture](assets/eng-b09-gambar-09.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which word is illustrated about noise?
 
 **Pilihan jawaban:**
 - quiet
@@ -166,7 +166,7 @@
 
 ![Picture](assets/eng-b09-gambar-10.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** What adjective best describes the noise shown?
 
 **Pilihan jawaban:**
 - quiet
