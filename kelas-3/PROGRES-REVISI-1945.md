@@ -534,3 +534,17 @@ Sumber Unit 6 dibaca langsung dari GitHub: `eng/eng-b06-soal-biasa.md`, `eng/eng
 - Dua modul saat ini mengulang daftar sepuluh kosakata dan contoh percakapan yang sama; perlu dua penyajian berbeda dengan cakupan sepadan, termasuk latihan pertanyaan konfirmasi lokasi.
 
 **Status:** pemeriksaan diagnostik awal, **belum revisi sumber dan belum audit tuntas**; Unit 6 tidak ditambahkan ke total soal lolos audit. Angka terverifikasi dari checkpoint sebelumnya tetap **1.110/1.945**, sisa **835**. Selanjutnya tulis ulang 50 soal dan dua modul Unit 6, audit 12 SVG terhadap stimulus baru, periksa sumber buku resmi, pertahankan seluruh ID, jalankan validator kanonis dan catat hasil. Jangan konversi JSON sebelum audit ulang. Jangan ubah BIN/MTK/PKN.
+
+## Checkpoint 2026-11-12 — revisi sumber Bahasa Inggris Unit 6
+
+Revisi **sudah ditulis langsung ke branch main**, bukan hanya audit. Empat sumber Unit 6 diperbarui:
+- `eng/eng-b06-soal-biasa.md`: 35/35 soal teks ditulis ulang untuk mengganti terjemahan berulang dengan konteks sekolah, dialog konfirmasi `Is it ...?`, jawaban positif/negatif, dan inferensi yang tidak melebihi bukti.
+- `eng/eng-b06-soal-bergambar.md`: 10/10 stem dibuat lebih beragam; gambar SVG lama masih dipakai, **belum ditinjau visual atau diganti**, sehingga kualitas stimulus gambar belum dinyatakan final.
+- `eng/eng-b06-soal-listening.md`: 5/5 soal diganti menjadi kalimat/dialog pendek; metadata TTS `en-US`, laju 0.85 dan transkrip produksi dipertahankan.
+- `eng/eng-b06-materi.md`: kedua modul ditulis ulang dengan pendekatan berbeda, mencakup kosakata tempat, `Is it ...?`, `Yes, it is`, `No, it isn't`, dan latihan dialog.
+
+Commit masing-masing: `b4f234e8a800f93c8433f7c3abb532a7acc5b867`, `74542d6992d02ff6f3aa00cb4b010550f6a19b65`, `74e07615a25c498fd5276e7634b6840715bc06b9`, `dc14e148ace7ddd2b7f3045dde93d0e3c91f71ab`.
+
+**Audit ulang struktur Unit 6 setelah revisi:** 35 teks + 10 bergambar + 5 listening = 50 soal; 50 ID unik; semua butir empat opsi berbeda dan satu kunci yang identik dengan opsi; metadata TTS JSON valid dan teksnya sama dengan transkrip; **0 kesalahan dalam pemeriksaan ini**. Ini pemeriksaan sumber Unit 6, **bukan** validator Python kanonis seluruh 1.945 soal atau uji kesesuaian penuh dengan buku resmi.
+
+**Status akademik Unit 6: revisi isi dilakukan, audit final tertunda.** Wajib selesaikan: cocokkan dengan buku siswa/panduan guru resmi Unit 6; audit visual sepuluh gambar soal dan dua gambar modul (termasuk kesesuaian stem dan aset), periksa keunikan jawaban secara semantik; jalankan validator kanonis 1.945 soal; uji TTS di browser HP dan WebView pada tahap aplikasi. **Jangan tandai siap konversi JSON sebelum audit akhir lolos.** Angka konservatif paket audit selesai tetap **1.110/1.945**, sisa paket yang belum final **835**; dari sisa itu, 50 soal Unit 6 kini sudah mengalami revisi sumber dan pemeriksaan struktur. Lanjutkan penutupan audit Unit 6 sebelum Unit 7.
