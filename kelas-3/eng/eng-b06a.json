@@ -1,0 +1,184 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B06",
+      "chapter_title": "Is It the Canteen?",
+      "questions": [
+        {
+          "id": "K03-ENG-B06-M01-036",
+          "type": "PG",
+          "text": "Which room is marked B?",
+          "options": [
+            "library",
+            "office",
+            "canteen",
+            "classroom"
+          ],
+          "answer": "library",
+          "discussion": "The map key pairs B with library.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b06-gambar-01.svg",
+            "alt": "School map. A: office. B: library. C: canteen."
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-037",
+          "type": "PG",
+          "text": "What room does the card show?",
+          "options": [
+            "laboratory",
+            "restroom",
+            "office",
+            "prayer room"
+          ],
+          "answer": "prayer room",
+          "discussion": "The sign and prayer mats identify the prayer room.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b06-gambar-02.svg",
+            "alt": "Room clue card. sign: PRAYER ROOM. inside: prayer mats."
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-038",
+          "type": "PG",
+          "text": "Which school room matches the card?",
+          "options": [
+            "library",
+            "canteen",
+            "laboratory",
+            "schoolyard"
+          ],
+          "answer": "laboratory",
+          "discussion": "Experiment tools and supervision are clues for a laboratory.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b06-gambar-03.svg",
+            "alt": "Science room card. tables: experiment tools. rule: teacher supervises."
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-039",
+          "type": "PG",
+          "text": "A friend asks “Is it the canteen?” Which answer fits?",
+          "options": [
+            "No, it isn’t.",
+            "Yes, I do.",
+            "Yes, it is.",
+            "No, they don’t."
+          ],
+          "answer": "Yes, it is.",
+          "discussion": "The sign confirms the canteen.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b06-gambar-04.svg",
+            "alt": "Lunch area. sign: CANTEEN. tables: meal trays."
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-040",
+          "type": "PG",
+          "text": "Which reply corrects the guess?",
+          "options": [
+            "Yes, it is an office.",
+            "No, it isn’t. It is a classroom.",
+            "No, it isn’t. It is an office.",
+            "Yes, they are."
+          ],
+          "answer": "No, it isn’t. It is a classroom.",
+          "discussion": "The sign identifies a classroom, so the office guess is wrong.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b06-gambar-05.svg",
+            "alt": "Wrong guess. guess: office. sign: CLASSROOM."
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-041",
+          "type": "PG",
+          "text": "What place is described?",
+          "options": [
+            "schoolyard",
+            "restroom",
+            "office",
+            "library"
+          ],
+          "answer": "schoolyard",
+          "discussion": "An outdoor lineup area is the schoolyard.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b06-gambar-06.svg",
+            "alt": "Schoolyard plan. area: outdoors. activity: students line up."
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-042",
+          "type": "PG",
+          "text": "Which sentence identifies the room?",
+          "options": [
+            "It is the restroom.",
+            "It is the library.",
+            "It is the laboratory.",
+            "It is the canteen."
+          ],
+          "answer": "It is the restroom.",
+          "discussion": "The door sign says restroom.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b06-gambar-07.svg",
+            "alt": "Restroom sign. door: RESTROOM. nearby: handwashing area."
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-043",
+          "type": "PG",
+          "text": "What is Joshua’s answer?",
+          "options": [
+            "classroom",
+            "library",
+            "office",
+            "laboratory"
+          ],
+          "answer": "laboratory",
+          "discussion": "Joshua’s row contains laboratory.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b06-gambar-08.svg",
+            "alt": "Room survey. Made: classroom. Cici: library. Joshua: laboratory."
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-044",
+          "type": "PG",
+          "text": "Which question is a sensible guess?",
+          "options": [
+            "Is it the canteen?",
+            "Is it the restroom?",
+            "Is it the library?",
+            "Is it the schoolyard?"
+          ],
+          "answer": "Is it the library?",
+          "discussion": "Bookshelves and reading indicate the library.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b06-gambar-09.svg",
+            "alt": "Book room. shelves: storybooks. activity: quiet reading."
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-045",
+          "type": "PG",
+          "text": "How many names are listed altogether?",
+          "options": [
+            "four",
+            "six",
+            "eight",
+            "ten"
+          ],
+          "answer": "eight",
+          "discussion": "The two lines contain four names each, for eight altogether.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b06-gambar-10.svg",
+            "alt": "Eight-place list. rooms: office, classroom, library, prayer room. places: canteen, schoolyard, laboratory, restroom."
+          }
+        }
+      ]
+    }
+  ]
+}
