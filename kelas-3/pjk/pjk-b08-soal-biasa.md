@@ -1,10 +1,10 @@
 # Unit 8 — Aktivitas Fisik dan Memilih Makanan Bergizi
 
-35 soal teks, **DRAF**. Perlu audit variasi soal.
+35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
 
 ## Soal 1 — K03-PJK-B08-M01-001
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk aktivitas fisik?
+**Pertanyaan:** Dina berjalan kaki menuju sekolah dengan pendamping. Kegiatan itu termasuk apa?
 
 **Pilihan jawaban:**
 - hanya duduk
@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-PJK-B08-M01-002
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk makanan bergizi seimbang?
+**Pertanyaan:** Keluarga menyiapkan aneka jenis makanan sesuai kebutuhan anak. Pola tersebut menggambarkan ....
 
 **Pilihan jawaban:**
 - beragam sesuai kebutuhan tubuh
@@ -36,7 +36,7 @@
 
 ## Soal 3 — K03-PJK-B08-M01-003
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk sumber protein?
+**Pertanyaan:** Saat makan, ada tempe dan ikan yang disajikan. Kelompok pangan itu merupakan sumber ....
 
 **Pilihan jawaban:**
 - permen
@@ -52,7 +52,7 @@
 
 ## Soal 4 — K03-PJK-B08-M01-004
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk sayur dan buah?
+**Pertanyaan:** Ibu menambahkan sayuran dan buah pada menu keluarga. Apa sumbangan bahan itu?
 
 **Pilihan jawaban:**
 - selalu harus digoreng
@@ -68,7 +68,7 @@
 
 ## Soal 5 — K03-PJK-B08-M01-005
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk karbohidrat?
+**Pertanyaan:** Nasi, kentang, dan ubi menyediakan zat gizi untuk aktivitas. Fungsinya yang utama adalah ....
 
 **Pilihan jawaban:**
 - menggantikan air minum
@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-PJK-B08-M01-006
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk air putih?
+**Pertanyaan:** Saat haus setelah bergerak, siswa minum air putih. Kebutuhan apa yang dibantu?
 
 **Pilihan jawaban:**
 - penting untuk membantu kebutuhan cairan
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-PJK-B08-M01-007
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk sarapan bergizi?
+**Pertanyaan:** Anak akan belajar dan bermain setelah pagi hari. Apa manfaat menu sarapan bergizi?
 
 **Pilihan jawaban:**
 - membuat tidak perlu makan lagi
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-PJK-B08-M01-008
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk cuci tangan sebelum makan?
+**Pertanyaan:** Sebelum memegang makanan, siswa mencuci tangan pakai sabun. Tujuan yang tepat ialah ....
 
 **Pilihan jawaban:**
 - mengganti olahraga
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-PJK-B08-M01-009
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk tidur cukup?
+**Pertanyaan:** Setelah hari aktif, anak memerlukan tidur yang memadai. Manfaat utamanya ialah ....
 
 **Pilihan jawaban:**
 - selalu membuang waktu
@@ -148,7 +148,7 @@
 
 ## Soal 10 — K03-PJK-B08-M01-010
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk pilihan jajanan?
+**Pertanyaan:** Dua jajanan dijual: satu tertutup bersih, satu terbuka di dekat debu. Apa dasar memilih yang lebih aman?
 
 **Pilihan jawaban:**
 - utamakan yang bersih, aman, dan bergizi
@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-PJK-B08-M01-011
 
-**Pertanyaan:** Saat pelajaran aktivitas fisik dan memilih makanan bergizi, guru membahas "Aktivitas fisik". Pernyataan manakah yang benar?
+**Pertanyaan:** Ketika bermain aktif, tubuh bergerak dan memakai tenaga. Konsep yang dimaksud ialah ....
 
 **Pilihan jawaban:**
 - hanya tidur
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-PJK-B08-M01-012
 
-**Pertanyaan:** Saat pelajaran aktivitas fisik dan memilih makanan bergizi, guru membahas "Makanan bergizi seimbang". Pernyataan manakah yang benar?
+**Pertanyaan:** Mengapa makan hanya satu jenis makanan terus-menerus belum tentu memenuhi semua zat gizi?
 
 **Pilihan jawaban:**
 - hanya gorengan
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-PJK-B08-M01-013
 
-**Pertanyaan:** Saat pelajaran aktivitas fisik dan memilih makanan bergizi, guru membahas "Sumber protein". Pernyataan manakah yang benar?
+**Pertanyaan:** Anak memilih lauk yang membantu pertumbuhan dan perbaikan jaringan. Contoh yang sesuai ialah ....
 
 **Pilihan jawaban:**
 - kerupuk saja
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-PJK-B08-M01-014
 
-**Pertanyaan:** Saat pelajaran aktivitas fisik dan memilih makanan bergizi, guru membahas "Sayur dan buah". Pernyataan manakah yang benar?
+**Pertanyaan:** Selain makanan pokok, anak dianjurkan makan sayur dan buah beragam. Mengapa?
 
 **Pilihan jawaban:**
 - menyumbang vitamin, mineral, dan serat
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-PJK-B08-M01-015
 
-**Pertanyaan:** Saat pelajaran aktivitas fisik dan memilih makanan bergizi, guru membahas "Karbohidrat". Pernyataan manakah yang benar?
+**Pertanyaan:** Ketika anak bergerak, tubuh memerlukan sumber energi, salah satunya dari ....
 
 **Pilihan jawaban:**
 - selalu berbahaya
@@ -244,7 +244,7 @@
 
 ## Soal 16 — K03-PJK-B08-M01-016
 
-**Pertanyaan:** Saat pelajaran aktivitas fisik dan memilih makanan bergizi, guru membahas "Air putih". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru memastikan peserta memiliki akses air minum selama kegiatan. Mengapa?
 
 **Pilihan jawaban:**
 - tidak diperlukan
@@ -260,7 +260,7 @@
 
 ## Soal 17 — K03-PJK-B08-M01-017
 
-**Pertanyaan:** Saat pelajaran aktivitas fisik dan memilih makanan bergizi, guru membahas "Sarapan bergizi". Pernyataan manakah yang benar?
+**Pertanyaan:** Sarapan beragam membantu tubuh mendapat energi sebelum aktivitas. Penjelasan yang tepat ialah ....
 
 **Pilihan jawaban:**
 - harus dilewatkan
@@ -276,7 +276,7 @@
 
 ## Soal 18 — K03-PJK-B08-M01-018
 
-**Pertanyaan:** Saat pelajaran aktivitas fisik dan memilih makanan bergizi, guru membahas "Cuci tangan sebelum makan". Pernyataan manakah yang benar?
+**Pertanyaan:** Saat tangan kotor setelah bermain, apa manfaat mencucinya sebelum makan?
 
 **Pilihan jawaban:**
 - membantu mengurangi perpindahan kuman
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-PJK-B08-M01-019
 
-**Pertanyaan:** Saat pelajaran aktivitas fisik dan memilih makanan bergizi, guru membahas "Tidur cukup". Pernyataan manakah yang benar?
+**Pertanyaan:** Seorang anak sering kurang tidur dan kelelahan. Apa fungsi istirahat malam yang cukup?
 
 **Pilihan jawaban:**
 - menggantikan makan
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-PJK-B08-M01-020
 
-**Pertanyaan:** Saat pelajaran aktivitas fisik dan memilih makanan bergizi, guru membahas "Pilihan jajanan". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru mengajak siswa memeriksa kebersihan dan nilai gizi jajanan. Pilihan yang tepat adalah ....
 
 **Pilihan jawaban:**
 - pilih yang kedaluwarsa
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-PJK-B08-M01-021
 
-**Pertanyaan:** Rani ingin memahami aktivitas fisik. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa ciri aktivitas yang melibatkan gerakan tubuh dan penggunaan energi?
 
 **Pilihan jawaban:**
 - hanya duduk
@@ -340,7 +340,7 @@
 
 ## Soal 22 — K03-PJK-B08-M01-022
 
-**Pertanyaan:** Rani ingin memahami makanan bergizi seimbang. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa prinsip memilih susunan makan agar zat gizi lebih beragam?
 
 **Pilihan jawaban:**
 - beragam sesuai kebutuhan tubuh
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-PJK-B08-M01-023
 
-**Pertanyaan:** Rani ingin memahami sumber protein. Pilih penjelasan yang tepat.
+**Pertanyaan:** Manakah pilihan lauk yang dapat menyumbang protein?
 
 **Pilihan jawaban:**
 - permen
@@ -372,7 +372,7 @@
 
 ## Soal 24 — K03-PJK-B08-M01-024
 
-**Pertanyaan:** Rani ingin memahami sayur dan buah. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa peran penting buah dan sayur dalam menu harian?
 
 **Pilihan jawaban:**
 - selalu harus digoreng
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-PJK-B08-M01-025
 
-**Pertanyaan:** Rani ingin memahami karbohidrat. Pilih penjelasan yang tepat.
+**Pertanyaan:** Manakah manfaat zat gizi karbohidrat bagi tubuh?
 
 **Pilihan jawaban:**
 - menggantikan air minum
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-PJK-B08-M01-026
 
-**Pertanyaan:** Rani ingin memahami air putih. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa air putih penting meskipun tidak menyumbang kalori seperti nasi?
 
 **Pilihan jawaban:**
 - penting untuk membantu kebutuhan cairan
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-PJK-B08-M01-027
 
-**Pertanyaan:** Rani ingin memahami sarapan bergizi. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa sarapan bergizi dapat mendukung kegiatan belajar dan gerak?
 
 **Pilihan jawaban:**
 - membuat tidak perlu makan lagi
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-PJK-B08-M01-028
 
-**Pertanyaan:** Rani ingin memahami cuci tangan sebelum makan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa kebiasaan cuci tangan berkaitan dengan keamanan makanan?
 
 **Pilihan jawaban:**
 - mengganti olahraga
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-PJK-B08-M01-029
 
-**Pertanyaan:** Rani ingin memahami tidur cukup. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa tidur penting bagi pertumbuhan dan pemulihan?
 
 **Pilihan jawaban:**
 - selalu membuang waktu
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-PJK-B08-M01-030
 
-**Pertanyaan:** Rani ingin memahami pilihan jajanan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa pertimbangan penting ketika memilih makanan ringan di sekolah?
 
 **Pilihan jawaban:**
 - utamakan yang bersih, aman, dan bergizi
@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B08-M01-031
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Aktivitas fisik". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Dina berjalan kaki menuju sekolah dengan pendamping. Kegiatan itu termasuk apa?
 
 **Pilihan jawaban:**
 - hanya tidur
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B08-M01-032
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Makanan bergizi seimbang". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Keluarga menyiapkan aneka jenis makanan sesuai kebutuhan anak. Pola tersebut menggambarkan ....
 
 **Pilihan jawaban:**
 - hanya gorengan
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B08-M01-033
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Sumber protein". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Saat makan, ada tempe dan ikan yang disajikan. Kelompok pangan itu merupakan sumber ....
 
 **Pilihan jawaban:**
 - kerupuk saja
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B08-M01-034
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Sayur dan buah". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Ibu menambahkan sayuran dan buah pada menu keluarga. Apa sumbangan bahan itu?
 
 **Pilihan jawaban:**
 - menyumbang vitamin, mineral, dan serat
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B08-M01-035
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Karbohidrat". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Nasi, kentang, dan ubi menyediakan zat gizi untuk aktivitas. Fungsinya yang utama adalah ....
 
 **Pilihan jawaban:**
 - selalu berbahaya
