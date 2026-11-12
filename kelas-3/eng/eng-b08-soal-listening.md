@@ -1,103 +1,104 @@
 # Unit 8 — 5 Soal Listening
 
-**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
+**Status:** Web Speech API (speechSynthesis), bukan MP3; transkrip produksi harus disembunyikan dari siswa. Uji perangkat masih diperlukan.
 
 ## Soal 46 — K03-ENG-B08-M01-046
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"orange juice","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"I drink orange juice in the canteen.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** orange juice
+**Transkrip produksi (disembunyikan dari siswa):** I drink orange juice in the canteen.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. What does the speaker drink?
 
 **Pilihan jawaban:**
-- milk
-- classroom
+- water
 - orange juice
-- noodles
+- milk
+- tea
 
 **Kunci Jawaban:** orange juice
 
-**Pembahasan:** Audio menyebutkan "orange juice" (jus jeruk).
+**Pembahasan:** The speaker names orange juice.
 
 ---
 
 ## Soal 47 — K03-ENG-B08-M01-047
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"water","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"I eat rice and drink water.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** water
+**Transkrip produksi (disembunyikan dari siswa):** I eat rice and drink water.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. What does the speaker drink?
 
 **Pilihan jawaban:**
-- library
+- rice
+- noodles
 - water
-- orange juice
-- tea
+- bread
 
 **Kunci Jawaban:** water
 
-**Pembahasan:** Audio menyebutkan "water" (air).
+**Pembahasan:** Drink water is in the sentence.
 
 ---
 
 ## Soal 48 — K03-ENG-B08-M01-048
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"milk","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Do you drink milk? Yes, I do.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** milk
+**Transkrip produksi (disembunyikan dari siswa):** Do you drink milk? Yes, I do.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. What drink does the speaker confirm?
 
 **Pilihan jawaban:**
 - milk
+- tea
+- orange juice
 - water
-- canteen
-- bread
 
 **Kunci Jawaban:** milk
 
-**Pembahasan:** Audio menyebutkan "milk" (susu).
+**Pembahasan:** Yes confirms milk.
 
 ---
 
 ## Soal 49 — K03-ENG-B08-M01-049
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"tea","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"I drink tea, not orange juice.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** tea
+**Transkrip produksi (disembunyikan dari siswa):** I drink tea, not orange juice.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. Which drink is chosen?
 
 **Pilihan jawaban:**
 - milk
-- classroom
-- rice
+- orange juice
+- water
 - tea
 
 **Kunci Jawaban:** tea
 
-**Pembahasan:** Audio menyebutkan "tea" (teh).
+**Pembahasan:** The speaker says tea, not orange juice.
 
 ---
 
 ## Soal 50 — K03-ENG-B08-M01-050
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"canteen","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Where do you eat lunch? I eat lunch in the canteen.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** canteen
+**Transkrip produksi (disembunyikan dari siswa):** Where do you eat lunch? I eat lunch in the canteen.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. Where does the speaker eat?
 
 **Pilihan jawaban:**
 - library
-- noodles
 - canteen
-- tea
+- classroom
+- garden
 
 **Kunci Jawaban:** canteen
 
-**Pembahasan:** Audio menyebutkan "canteen" (kantin).
+**Pembahasan:** The place is the canteen.
 
 ---
+
