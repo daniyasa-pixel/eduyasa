@@ -1,0 +1,36 @@
+{
+  "subject_id": "PAI",
+  "grade": 3,
+  "chapters": {
+    "K03-PAI-B01": [
+      "pai/pai-b01.json"
+    ],
+    "K03-PAI-B02": [
+      "pai/pai-b02.json"
+    ],
+    "K03-PAI-B03": [
+      "pai/pai-b03.json"
+    ],
+    "K03-PAI-B04": [
+      "pai/pai-b04.json"
+    ],
+    "K03-PAI-B05": [
+      "pai/pai-b05.json"
+    ],
+    "K03-PAI-B06": [
+      "pai/pai-b06.json"
+    ],
+    "K03-PAI-B07": [
+      "pai/pai-b07.json"
+    ],
+    "K03-PAI-B08": [
+      "pai/pai-b08.json"
+    ],
+    "K03-PAI-B09": [
+      "pai/pai-b09.json"
+    ],
+    "K03-PAI-B10": [
+      "pai/pai-b10.json"
+    ]
+  }
+}
