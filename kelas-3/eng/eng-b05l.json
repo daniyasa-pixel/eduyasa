@@ -1,0 +1,109 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B05",
+      "chapter_title": "I Like Riding a Bike on Sunday",
+      "questions": [
+        {
+          "id": "K03-ENG-B05-M01-046",
+          "type": "PG",
+          "text": "On which day does the speaker like reading?",
+          "options": [
+            "Sunday",
+            "Monday",
+            "Saturday",
+            "Tuesday"
+          ],
+          "answer": "Monday",
+          "discussion": "Monday is linked to reading.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "I like riding my bike on Sunday and reading on Monday.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-047",
+          "type": "PG",
+          "text": "Which day does the speaker prefer for badminton?",
+          "options": [
+            "Saturday",
+            "Thursday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": "Friday",
+          "discussion": "The reply gives Friday as the preferred day.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Do you like playing badminton on Saturday? No, I like playing badminton on Friday.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-048",
+          "type": "PG",
+          "text": "When does Ayu’s brother like drawing?",
+          "options": [
+            "Thursday",
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+          ],
+          "answer": "Thursday",
+          "discussion": "The next day after Wednesday is Thursday.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Ayu likes drawing on Wednesday. Her brother likes drawing the next day.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-049",
+          "type": "PG",
+          "text": "What is the same in both plans?",
+          "options": [
+            "the activity",
+            "the day",
+            "the person",
+            "the place"
+          ],
+          "answer": "the day",
+          "discussion": "Both plans are for Monday.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Bima likes singing on Monday. Sari likes swimming on Monday.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-050",
+          "type": "PG",
+          "text": "Which day should you mark for next week?",
+          "options": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "answer": "Thursday",
+          "discussion": "Thursday is the day mentioned for next week.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Our club meets on Tuesday this week. Next week, we meet on Thursday.",
+            "rate": 0.85
+          }
+        }
+      ]
+    }
+  ]
+}
