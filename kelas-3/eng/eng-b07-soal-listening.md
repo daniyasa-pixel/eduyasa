@@ -1,103 +1,103 @@
 # Unit 7 — 5 Soal Listening
 
-**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
+**Status:** Web Speech API (speechSynthesis), bukan MP3. Transkrip produksi disembunyikan dari siswa. Perlu uji perangkat.
 
 ## Soal 46 — K03-ENG-B07-M01-046
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"behind","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Where is your classroom? It is behind the office.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** behind
+**Transkrip produksi (disembunyikan dari siswa):** Where is your classroom? It is behind the office.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. Where is the classroom?
 
 **Pilihan jawaban:**
-- next to
-- far
-- behind
-- under
+- behind the office
+- in front of the office
+- inside the office
+- under the office
 
-**Kunci Jawaban:** behind
+**Kunci Jawaban:** behind the office
 
-**Pembahasan:** Audio menyebutkan "behind" (di belakang).
+**Pembahasan:** The speaker says the classroom is behind the office.
 
 ---
 
 ## Soal 47 — K03-ENG-B07-M01-047
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"in front of","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The library is in front of the canteen.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** in front of
+**Transkrip produksi (disembunyikan dari siswa):** The library is in front of the canteen.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. Where is the library?
 
 **Pilihan jawaban:**
-- inside
-- in front of
-- behind
-- between
+- behind the canteen
+- in front of the canteen
+- under the canteen
+- inside the canteen
 
-**Kunci Jawaban:** in front of
+**Kunci Jawaban:** in front of the canteen
 
-**Pembahasan:** Audio menyebutkan "in front of" (di depan).
+**Pembahasan:** In front of identifies the library's location.
 
 ---
 
 ## Soal 48 — K03-ENG-B07-M01-048
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"next to","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The office is between the library and the classroom.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** next to
+**Transkrip produksi (disembunyikan dari siswa):** The office is between the library and the classroom.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. Which place is in the middle?
 
 **Pilihan jawaban:**
-- next to
-- in front of
-- near
-- outside
+- the classroom
+- the library
+- the office
+- the playground
 
-**Kunci Jawaban:** next to
+**Kunci Jawaban:** the office
 
-**Pembahasan:** Audio menyebutkan "next to" (di sebelah).
+**Pembahasan:** Between identifies the office as the middle place.
 
 ---
 
 ## Soal 49 — K03-ENG-B07-M01-049
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"between","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The bag is under the desk, not on the desk.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** between
+**Transkrip produksi (disembunyikan dari siswa):** The bag is under the desk, not on the desk.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. Where is the bag?
 
 **Pilihan jawaban:**
-- next to
-- far
-- on
-- between
+- on the desk
+- behind the office
+- next to the gate
+- under the desk
 
-**Kunci Jawaban:** between
+**Kunci Jawaban:** under the desk
 
-**Pembahasan:** Audio menyebutkan "between" (di antara).
+**Pembahasan:** The sentence explicitly says the bag is under the desk.
 
 ---
 
 ## Soal 50 — K03-ENG-B07-M01-050
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"near","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Is the garden near the gate? Yes, it is. The garden is near the gate.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** near
+**Transkrip produksi (disembunyikan dari siswa):** Is the garden near the gate? Yes, it is. The garden is near the gate.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. Which sentence matches the audio?
 
 **Pilihan jawaban:**
-- inside
-- under
-- near
-- between
+- The garden is far from the gate.
+- The garden is near the gate.
+- The garden is inside the office.
+- The garden is under the gate.
 
-**Kunci Jawaban:** near
+**Kunci Jawaban:** The garden is near the gate.
 
-**Pembahasan:** Audio menyebutkan "near" (dekat).
+**Pembahasan:** The answer confirms the garden is near the gate.
 
 ---
