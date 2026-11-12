@@ -1,0 +1,56 @@
+{
+  "subject_id": "ENG",
+  "grade": 3,
+  "chapters": {
+    "K03-ENG-B01": [
+      "eng/eng-b01.json",
+      "eng/eng-b01a.json",
+      "eng/eng-b01l.json"
+    ],
+    "K03-ENG-B02": [
+      "eng/eng-b02.json",
+      "eng/eng-b02a.json",
+      "eng/eng-b02l.json"
+    ],
+    "K03-ENG-B03": [
+      "eng/eng-b03.json",
+      "eng/eng-b03a.json",
+      "eng/eng-b03l.json"
+    ],
+    "K03-ENG-B04": [
+      "eng/eng-b04.json",
+      "eng/eng-b04a.json",
+      "eng/eng-b04l.json"
+    ],
+    "K03-ENG-B05": [
+      "eng/eng-b05.json",
+      "eng/eng-b05a.json",
+      "eng/eng-b05l.json"
+    ],
+    "K03-ENG-B06": [
+      "eng/eng-b06.json",
+      "eng/eng-b06a.json",
+      "eng/eng-b06l.json"
+    ],
+    "K03-ENG-B07": [
+      "eng/eng-b07.json",
+      "eng/eng-b07a.json",
+      "eng/eng-b07l.json"
+    ],
+    "K03-ENG-B08": [
+      "eng/eng-b08.json",
+      "eng/eng-b08a.json",
+      "eng/eng-b08l.json"
+    ],
+    "K03-ENG-B09": [
+      "eng/eng-b09.json",
+      "eng/eng-b09a.json",
+      "eng/eng-b09l.json"
+    ],
+    "K03-ENG-B10": [
+      "eng/eng-b10.json",
+      "eng/eng-b10a.json",
+      "eng/eng-b10l.json"
+    ]
+  }
+}
