@@ -1,0 +1,22 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "K03-ENG-B06",
+  "chapter_title": "Is It the Canteen?",
+  "modules": [
+    {
+      "id": "K03-ENG-B06-MOD-01",
+      "version": "MOD-01",
+      "title": "Kenali delapan tempat di sekolah",
+      "content": "Unit ini mengenalkan **office** (kantor), **classroom** (ruang kelas), **library** (perpustakaan), **prayer room** (ruang ibadah), **canteen** (kantin), **schoolyard** (halaman sekolah), **laboratory** (laboratorium), dan **restroom** (toilet). Gunakan gambar, tanda ruangan, dan kegiatan sebagai petunjuk.\n\n![Daftar delapan nama tempat sekolah dalam Unit 6](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b06-materi-01.svg)\n\nTanyakan nama ruangan dengan **What room is it?** Jawab **It is a classroom.** Untuk mengecek satu tebakan, gunakan **Is it a laboratory?** Jawab **Yes, it is.** jika benar. Jika salah, jawab **No, it isn’t. It is the library.**\n\nGunakan **a** sebelum kata yang diawali bunyi konsonan, seperti **a classroom** atau **a laboratory**. Gunakan **an** sebelum bunyi vokal, seperti **an office**. Saat membicarakan tempat tertentu di sekolah, bentuk **the library** atau **the canteen** juga dapat digunakan.\n\n**Coba berpasangan.** Pilih tiga kartu tempat. Satu anak membacakan petunjuk tanpa menyebut nama ruangan, lalu temannya bertanya dan menjawab. Tukar peran. Gunakan area sekolah hanya sesuai izin dan aturan sekolah."
+    },
+    {
+      "id": "K03-ENG-B06-MOD-02",
+      "version": "MOD-02",
+      "title": "Tebak ruangan dari petunjuk",
+      "content": "Setiap ruangan mempunyai petunjuk. Books dan quiet reading mengarah ke **library**. Meal tables mengarah ke **canteen**. Desks dan lesson board mengarah ke **classroom**. Experiment tools dengan pengawasan guru mengarah ke **laboratory**.\n\n![Contoh petunjuk, pertanyaan, dan jawaban tentang perpustakaan](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b06-materi-02.svg)\n\nIkuti alur berikut.\n\n1. Dengarkan petunjuk sampai selesai.\n2. Tanyakan **What room is it?** jika kamu meminta namanya.\n3. Gunakan **Is it the office?** atau **Is it a restroom?** untuk mengecek tebakan.\n4. Jawab **Yes, it is.** atau **No, it isn’t.**\n5. Setelah jawaban No, sebutkan ruangan yang benar jika sudah diketahui.\n\nJawaban **No, it isn’t** hanya menunjukkan tebakan awal salah. Kita masih membutuhkan petunjuk atau koreksi untuk mengetahui ruangan yang benar.\n\n**Latihan kelompok.** Buat delapan kartu nama tempat. Satu anak mengambil kartu, satu memberi petunjuk, dan satu menebak. Catat nama anak dan jawaban seperti contoh “Made — classroom”.\n\n### Acuan Unit 6\n\n- [My Next Words Grade 3, buku siswa, Kemdikbudristek 2022, Unit 6](https://fliphtml5.com/hytuwb/My-Next-Words-Grade-3-Buku-Siswa/76/)\n- [Teacher’s Book — My Next Words Grade 3, Kemdikbudristek 2022, Unit 6](https://fliphtml5.com/qpnzc/gudm/Buku_Guru_Bahasa_Inggris_Kelas_III/64/)"
+    }
+  ]
+}
