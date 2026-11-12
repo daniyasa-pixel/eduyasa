@@ -1,12 +1,12 @@
 # Bab 2 — Belajar dari Karya Orang Lain
 
-10 soal bergambar — ilustrasi masih skematis dan perlu pengembangan sesuai konteks pertanyaan.
+10 soal bergambar — pertanyaan sudah disesuaikan dengan situasi ilustrasi; media ditangani terpisah.
 
 ## Soal 36 — K03-SBD-B02-M01-036
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Kolase dibuat dengan ....
+**Pertanyaan:** Perhatikan potongan bahan berbeda yang direkatkan pada bidang kertas. Cara membuat karya itu disebut ....
 
 **Pilihan jawaban:**
 - memukul drum
@@ -24,7 +24,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Mozaik dapat dibuat dari ....
+**Pertanyaan:** Keping-keping kecil disusun berdekatan untuk mengisi gambar pada ilustrasi. Teknik yang dicontohkan memakai ....
 
 **Pilihan jawaban:**
 - satu nada panjang
@@ -42,7 +42,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Kritik membangun sebaiknya berisi ....
+**Pertanyaan:** Seorang anak menanggapi karya teman pada ilustrasi. Agar tanggapannya membantu, isi komentar harus berupa ....
 
 **Pilihan jawaban:**
 - saran yang jelas dan santun
@@ -60,7 +60,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Karya teman yang berbeda gaya sebaiknya ....
+**Pertanyaan:** Dua karya pada gambar menggunakan gaya berbeda. Bagaimana pengunjung seharusnya memperlakukan keduanya?
 
 **Pilihan jawaban:**
 - ditertawakan
@@ -78,7 +78,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Label karya pameran dapat memuat ....
+**Pertanyaan:** Pada kartu pengenal karya yang ditunjukkan, informasi apa yang seharusnya tercantum?
 
 **Pilihan jawaban:**
 - kata ejekan
@@ -96,7 +96,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Bahan bekas bersih dapat dijadikan ....
+**Pertanyaan:** Di meja tampak kardus bekas bersih yang hendak dipakai membuat hiasan. Bahan itu dapat menjadi ....
 
 **Pilihan jawaban:**
 - sampah yang harus dibakar
@@ -114,7 +114,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Mengunjungi pameran seni sebaiknya ....
+**Pertanyaan:** Pengunjung melihat karya yang diberi tanda tidak boleh disentuh. Apa perilaku yang tepat?
 
 **Pilihan jawaban:**
 - mengikuti aturan dan tidak menyentuh karya tanpa izin
@@ -132,7 +132,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Warna yang dominan pada karya berarti warna yang ....
+**Pertanyaan:** Dalam karya berwarna pada ilustrasi, ada satu warna mengisi sebagian besar bidang. Warna dominan berarti warna yang ....
 
 **Pilihan jawaban:**
 - tidak terlihat
@@ -150,7 +150,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Lukisan pemandangan biasanya menampilkan ....
+**Pertanyaan:** Perhatikan karya berisi pegunungan dan aliran air. Jenis objek utama gambar itu adalah ....
 
 **Pilihan jawaban:**
 - rumus matematika
@@ -168,7 +168,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Menyebut kelebihan karya teman merupakan contoh ....
+**Pertanyaan:** Siswa menjelaskan bagian menarik dari lukisan temannya. Tindakan itu merupakan contoh ....
 
 **Pilihan jawaban:**
 - perundungan
