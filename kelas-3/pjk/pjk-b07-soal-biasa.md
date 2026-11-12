@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B07-M01-031
 
-**Pertanyaan:** Doni bisa mengikuti permainan ringan tanpa kelelahan yang berlebihan. Kemampuan ini berkaitan dengan ....
+**Pertanyaan:** Kegiatan fisik dapat diselesaikan sesuai kemampuan tanpa kelelahan yang terlalu berat. Hal tersebut menunjukkan ....
 
 **Pilihan jawaban:**
 - kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B07-M01-032
 
-**Pertanyaan:** Guru memilih aktivitas penguatan tubuh tanpa beban berat. Prinsip yang tepat adalah ....
+**Pertanyaan:** Guru tidak memberikan beban berat untuk semua peserta dan menyesuaikan latihan. Itu contoh prinsip ....
 
 **Pilihan jawaban:**
 - mengangkat beban berbahaya
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B07-M01-033
 
-**Pertanyaan:** Kelompok melakukan jalan cepat atau lari ringan dengan durasi sesuai kemampuan. Tujuan latihan adalah ....
+**Pertanyaan:** Pada hari olahraga, siswa berlatih jalan cepat dan lari ringan sesuai kemampuan. Ini termasuk ....
 
 **Pilihan jawaban:**
 - selalu mengangkat beban berat
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B07-M01-034
 
-**Pertanyaan:** Siswa menggerakkan sendi dengan jangkauan nyaman. Kemampuan yang dipakai adalah ....
+**Pertanyaan:** Siswa melakukan gerak rentang sendi tanpa nyeri dan tanpa memaksa. Kemampuan itu dinamakan ....
 
 **Pilihan jawaban:**
 - kemampuan makan
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B07-M01-035
 
-**Pertanyaan:** Saat berdiri satu kaki, seorang anak mengatur lengan untuk tidak jatuh. Apa keterampilan yang diperlukan?
+**Pertanyaan:** Anak mencoba tetap berdiri stabil saat posisi kedua kakinya berubah. Keterampilan ini ialah ....
 
 **Pilihan jawaban:**
 - kemampuan menjaga posisi tubuh agar stabil
