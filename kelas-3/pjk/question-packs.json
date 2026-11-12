@@ -1,0 +1,38 @@
+{
+  "subject_id": "PJK",
+  "grade": 3,
+  "chapters": {
+    "K03-PJK-B01": [
+      "pjk/pjk-b01.json",
+      "pjk/pjk-b01a.json"
+    ],
+    "K03-PJK-B02": [
+      "pjk/pjk-b02.json",
+      "pjk/pjk-b02a.json"
+    ],
+    "K03-PJK-B03": [
+      "pjk/pjk-b03.json",
+      "pjk/pjk-b03a.json"
+    ],
+    "K03-PJK-B04": [
+      "pjk/pjk-b04.json",
+      "pjk/pjk-b04a.json"
+    ],
+    "K03-PJK-B05": [
+      "pjk/pjk-b05.json",
+      "pjk/pjk-b05a.json"
+    ],
+    "K03-PJK-B06": [
+      "pjk/pjk-b06.json",
+      "pjk/pjk-b06a.json"
+    ],
+    "K03-PJK-B07": [
+      "pjk/pjk-b07.json",
+      "pjk/pjk-b07a.json"
+    ],
+    "K03-PJK-B08": [
+      "pjk/pjk-b08.json",
+      "pjk/pjk-b08a.json"
+    ]
+  }
+}
