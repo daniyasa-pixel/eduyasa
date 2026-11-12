@@ -1,12 +1,12 @@
 # Unit 7 — Aktivitas Kebugaran untuk Kesehatan
 
-10 soal bergambar, **DRAF**. Ilustrasi SVG bersifat simbolik, belum ilustrasi gerak yang spesifik.
+10 soal bergambar telah direvisi dengan konteks; diagram SVG diproses terpisah dan pemeriksaan visual akhir masih diperlukan.
 
 ## Soal 36 — K03-PJK-B07-M01-036
 
 ![Ilustrasi Istirahat setelah olahraga](assets/pjk-b07-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Istirahat setelah olahraga". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Setelah bermain, anak beristirahat. Apa manfaat jeda aktivitas tersebut?
 
 **Pilihan jawaban:**
 - berarti tidak boleh minum
@@ -24,7 +24,7 @@
 
 ![Ilustrasi Air minum](assets/pjk-b07-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Air minum". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Gambar menunjukkan botol air di dekat area latihan. Untuk apa air minum diperlukan?
 
 **Pilihan jawaban:**
 - tidak diperlukan saat panas
@@ -42,7 +42,7 @@
 
 ![Ilustrasi Latihan rutin](assets/pjk-b07-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Latihan rutin". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Jadwal latihan memiliki waktu teratur dan jeda. Pola yang baik ialah ....
 
 **Pilihan jawaban:**
 - tidak perlu aman
@@ -60,7 +60,7 @@
 
 ![Ilustrasi Tanda perlu berhenti latihan](assets/pjk-b07-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Tanda perlu berhenti latihan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Anak tampak pusing saat latihan. Gejala apa yang menandakan perlunya berhenti?
 
 **Pilihan jawaban:**
 - nyeri hebat, pusing, atau sesak yang tidak wajar
@@ -78,7 +78,7 @@
 
 ![Ilustrasi Aktivitas kebugaran bersama](assets/pjk-b07-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Aktivitas kebugaran bersama". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Anak-anak dengan kemampuan berbeda berlatih bersama. Sikap yang tepat adalah ....
 
 **Pilihan jawaban:**
 - dilakukan sambil mengejek
@@ -96,7 +96,7 @@
 
 ![Ilustrasi Kebugaran jasmani](assets/pjk-b07-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang kebugaran jasmani?
+**Pertanyaan:** Siswa menjalani kegiatan fisik tanpa kelelahan berlebihan. Kemampuan apa yang ditunjukkan?
 
 **Pilihan jawaban:**
 - kemampuan makan paling banyak
@@ -114,7 +114,7 @@
 
 ![Ilustrasi Latihan kekuatan sederhana](assets/pjk-b07-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang latihan kekuatan sederhana?
+**Pertanyaan:** Seorang siswa memilih latihan tubuh yang sesuai usianya. Prinsipnya adalah ....
 
 **Pilihan jawaban:**
 - dilakukan tanpa pengawasan
@@ -132,7 +132,7 @@
 
 ![Ilustrasi Latihan daya tahan](assets/pjk-b07-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang latihan daya tahan?
+**Pertanyaan:** Gambar memperlihatkan jalan cepat dan gerak ringan. Latihan tersebut melatih apa?
 
 **Pilihan jawaban:**
 - dapat berupa jalan cepat atau lari ringan sesuai kemampuan
@@ -150,7 +150,7 @@
 
 ![Ilustrasi Kelentukan](assets/pjk-b07-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang kelentukan?
+**Pertanyaan:** Anak meregangkan sendi dalam rentang yang nyaman. Kemampuan itu adalah ....
 
 **Pilihan jawaban:**
 - kemampuan melempar jauh saja
@@ -168,7 +168,7 @@
 
 ![Ilustrasi Keseimbangan](assets/pjk-b07-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang keseimbangan?
+**Pertanyaan:** Anak berdiri di atas satu kaki sambil menjaga tubuh. Kemampuan apa yang digunakan?
 
 **Pilihan jawaban:**
 - kemampuan berlari tanpa arah
