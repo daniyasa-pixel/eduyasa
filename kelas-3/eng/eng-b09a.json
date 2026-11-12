@@ -1,0 +1,184 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B09",
+      "chapter_title": "My Classroom Is Clean",
+      "questions": [
+        {
+          "id": "K03-ENG-B09-M01-036",
+          "type": "PG",
+          "text": "Which adjective matches what the picture shows?",
+          "options": [
+            "clean",
+            "noisy",
+            "big",
+            "messy"
+          ],
+          "answer": "clean",
+          "discussion": "Gambar menunjukkan \"clean\" (bersih).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-01.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-037",
+          "type": "PG",
+          "text": "Look carefully. Is the pictured item clean or dirty?",
+          "options": [
+            "clean",
+            "small",
+            "bright",
+            "dirty"
+          ],
+          "answer": "dirty",
+          "discussion": "Gambar menunjukkan \"dirty\" (kotor).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-02.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-038",
+          "type": "PG",
+          "text": "Which size word is represented?",
+          "options": [
+            "tidy",
+            "dark",
+            "big",
+            "dirty"
+          ],
+          "answer": "big",
+          "discussion": "Gambar menunjukkan \"big\" (besar).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-03.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-039",
+          "type": "PG",
+          "text": "Which word describes the small object?",
+          "options": [
+            "quiet",
+            "small",
+            "big",
+            "messy"
+          ],
+          "answer": "small",
+          "discussion": "Gambar menunjukkan \"small\" (kecil).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-04.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-040",
+          "type": "PG",
+          "text": "Which word describes the arranged objects?",
+          "options": [
+            "tidy",
+            "small",
+            "bright",
+            "noisy"
+          ],
+          "answer": "tidy",
+          "discussion": "Gambar menunjukkan \"tidy\" (rapi).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-05.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-041",
+          "type": "PG",
+          "text": "How would you describe the objects' arrangement?",
+          "options": [
+            "tidy",
+            "dark",
+            "clean",
+            "messy"
+          ],
+          "answer": "messy",
+          "discussion": "Gambar menunjukkan \"messy\" (berantakan).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-06.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-042",
+          "type": "PG",
+          "text": "Which adjective describes the lighting?",
+          "options": [
+            "quiet",
+            "dirty",
+            "bright",
+            "messy"
+          ],
+          "answer": "bright",
+          "discussion": "Gambar menunjukkan \"bright\" (terang).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-07.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-043",
+          "type": "PG",
+          "text": "What word describes the lack of light?",
+          "options": [
+            "big",
+            "dark",
+            "bright",
+            "noisy"
+          ],
+          "answer": "dark",
+          "discussion": "Gambar menunjukkan \"dark\" (gelap).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-08.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-044",
+          "type": "PG",
+          "text": "Which word is illustrated about noise?",
+          "options": [
+            "quiet",
+            "dark",
+            "clean",
+            "small"
+          ],
+          "answer": "quiet",
+          "discussion": "Gambar menunjukkan \"quiet\" (tenang).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-09.svg",
+            "alt": "Picture"
+          }
+        },
+        {
+          "id": "K03-ENG-B09-M01-045",
+          "type": "PG",
+          "text": "What adjective best describes the noise shown?",
+          "options": [
+            "quiet",
+            "dirty",
+            "tidy",
+            "noisy"
+          ],
+          "answer": "noisy",
+          "discussion": "Gambar menunjukkan \"noisy\" (berisik).",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-10.svg",
+            "alt": "Picture"
+          }
+        }
+      ]
+    }
+  ]
+}
