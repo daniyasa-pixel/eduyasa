@@ -1,10 +1,10 @@
 # Bab 2 — Belajar dari Karya Orang Lain
 
-35 soal teks — draf untuk audit.
+35 soal teks — konteks apresiasi dan praktik seni telah diperbarui.
 
 ## Soal 1 — K03-SBD-B02-M01-001
 
-**Pertanyaan:** Apa jawaban yang tepat? Apresiasi karya seni berarti ....
+**Pertanyaan:** Ketika melihat lukisan teman, Tia mengamati warna dan berusaha memahami maksudnya. Kegiatan itu merupakan ....
 
 **Pilihan jawaban:**
 - mengejek pembuatnya
@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-SBD-B02-M01-002
 
-**Pertanyaan:** Apa jawaban yang tepat? Saat melihat lukisan teman, komentar yang baik adalah ....
+**Pertanyaan:** Raka menyukai perpaduan warna pada gambar temannya. Ia ingin memberi tanggapan. Apa yang sebaiknya dikatakan?
 
 **Pilihan jawaban:**
 - menyebut bagian yang disukai dengan sopan
@@ -36,7 +36,7 @@
 
 ## Soal 3 — K03-SBD-B02-M01-003
 
-**Pertanyaan:** Apa jawaban yang tepat? Karya seni dua dimensi memiliki ....
+**Pertanyaan:** Di dinding kelas tergantung gambar yang hanya memiliki ukuran panjang dan lebar. Sifat utama karya ini adalah ....
 
 **Pilihan jawaban:**
 - hanya gerakan
@@ -52,7 +52,7 @@
 
 ## Soal 4 — K03-SBD-B02-M01-004
 
-**Pertanyaan:** Apa jawaban yang tepat? Patung termasuk karya seni ....
+**Pertanyaan:** Di sudut pameran terdapat patung kecil yang dapat dilihat dari berbagai sisi. Karya tersebut termasuk ....
 
 **Pilihan jawaban:**
 - musik
@@ -68,7 +68,7 @@
 
 ## Soal 5 — K03-SBD-B02-M01-005
 
-**Pertanyaan:** Apa jawaban yang tepat? Poster biasanya memadukan ....
+**Pertanyaan:** Panitia kelas membuat media berisi pesan hemat air disertai gambar keran. Bentuk penyampaian pesan tersebut adalah ....
 
 **Pilihan jawaban:**
 - bunyi alat musik
@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-SBD-B02-M01-006
 
-**Pertanyaan:** Apa jawaban yang tepat? Kolase dibuat dengan ....
+**Pertanyaan:** Guru mengajak murid menyusun potongan kain, daun, dan kertas lalu merekatkannya ke karton. Teknik ini disebut ....
 
 **Pilihan jawaban:**
 - menempel berbagai bahan pada bidang
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-SBD-B02-M01-007
 
-**Pertanyaan:** Apa jawaban yang tepat? Mozaik dapat dibuat dari ....
+**Pertanyaan:** Murid mengisi gambar burung dengan keping-keping kertas kecil yang disusun bersebelahan. Teknik tersebut memanfaatkan ....
 
 **Pilihan jawaban:**
 - gerakan lari
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-SBD-B02-M01-008
 
-**Pertanyaan:** Apa jawaban yang tepat? Kritik membangun sebaiknya berisi ....
+**Pertanyaan:** Sinta ingin menyarankan perbaikan komposisi gambar teman tanpa menyakiti perasaannya. Komentar yang tepat memuat ....
 
 **Pilihan jawaban:**
 - ancaman
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-SBD-B02-M01-009
 
-**Pertanyaan:** Apa jawaban yang tepat? Karya teman yang berbeda gaya sebaiknya ....
+**Pertanyaan:** Dua murid menggambar rumah dengan gaya berbeda. Bagaimana seharusnya kelas menilai perbedaan itu?
 
 **Pilihan jawaban:**
 - disembunyikan
@@ -148,7 +148,7 @@
 
 ## Soal 10 — K03-SBD-B02-M01-010
 
-**Pertanyaan:** Apa jawaban yang tepat? Label karya pameran dapat memuat ....
+**Pertanyaan:** Pada pameran sekolah, setiap karya diberi kartu kecil agar pengunjung mengenalnya. Informasi apa yang layak dicantumkan?
 
 **Pilihan jawaban:**
 - judul dan nama pembuat
@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-SBD-B02-M01-011
 
-**Pertanyaan:** Apa jawaban yang tepat? Bahan bekas bersih dapat dijadikan ....
+**Pertanyaan:** Di meja karya ada kardus bekas yang sudah bersih dan aman. Kardus itu sebaiknya diperlakukan sebagai ....
 
 **Pilihan jawaban:**
 - alat musik otomatis
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-SBD-B02-M01-012
 
-**Pertanyaan:** Apa jawaban yang tepat? Mengunjungi pameran seni sebaiknya ....
+**Pertanyaan:** Guru mengajak murid berkunjung ke pameran. Perilaku yang paling tepat selama melihat karya adalah ....
 
 **Pilihan jawaban:**
 - mencoret karya
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-SBD-B02-M01-013
 
-**Pertanyaan:** Apa jawaban yang tepat? Warna yang dominan pada karya berarti warna yang ....
+**Pertanyaan:** Pada lukisan, warna biru mengisi sebagian besar bidang dan sangat mudah terlihat. Warna tersebut disebut warna yang ....
 
 **Pilihan jawaban:**
 - tidak dipakai
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-SBD-B02-M01-014
 
-**Pertanyaan:** Apa jawaban yang tepat? Lukisan pemandangan biasanya menampilkan ....
+**Pertanyaan:** Gambar menunjukkan pegunungan, sawah, dan sungai. Tema utama lukisan itu adalah ....
 
 **Pilihan jawaban:**
 - alam seperti gunung atau sungai
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-SBD-B02-M01-015
 
-**Pertanyaan:** Apa jawaban yang tepat? Menyebut kelebihan karya teman merupakan contoh ....
+**Pertanyaan:** Seorang anak menyebut bagian paling berhasil dari karya temannya. Tindakan tersebut merupakan bentuk ....
 
 **Pilihan jawaban:**
 - perusakan
@@ -244,7 +244,7 @@
 
 ## Soal 16 — K03-SBD-B02-M01-016
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Apresiasi karya seni berarti ...." Pilih jawaban yang benar.
+**Pertanyaan:** Dalam diskusi karya, Lani mengamati pilihan warna, bentuk dan usaha pembuatnya sebelum memberi tanggapan. Itu contoh ....
 
 **Pilihan jawaban:**
 - merusak karya
@@ -260,7 +260,7 @@
 
 ## Soal 17 — K03-SBD-B02-M01-017
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Saat melihat lukisan teman, komentar yang baik adalah ...." Pilih jawaban yang benar.
+**Pertanyaan:** Dina berkata, 'Aku suka cara kamu membuat daun, garisnya terlihat hidup.' Komentar ini menunjukkan sikap ....
 
 **Pilihan jawaban:**
 - mengatakan jelek tanpa alasan
@@ -276,7 +276,7 @@
 
 ## Soal 18 — K03-SBD-B02-M01-018
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Karya seni dua dimensi memiliki ...." Pilih jawaban yang benar.
+**Pertanyaan:** Seorang murid membandingkan gambar datar dengan benda berupa patung. Gambar datar terutama mempunyai ukuran ....
 
 **Pilihan jawaban:**
 - panjang dan lebar
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-SBD-B02-M01-019
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Patung termasuk karya seni ...." Pilih jawaban yang benar.
+**Pertanyaan:** Kerajinan yang memiliki panjang, lebar, dan tinggi termasuk kategori ....
 
 **Pilihan jawaban:**
 - tari
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-SBD-B02-M01-020
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Poster biasanya memadukan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Untuk mengingatkan warga membuang sampah pada tempatnya, kelas membuat lembar berisi ilustrasi dan pesan singkat. Lembar itu memadukan ....
 
 **Pilihan jawaban:**
 - gerakan tari
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-SBD-B02-M01-021
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Kolase dibuat dengan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Anak membuat karya dengan menyusun aneka bahan di permukaan papan lalu menempelkannya. Tekniknya adalah ....
 
 **Pilihan jawaban:**
 - menyanyi bersama
@@ -340,7 +340,7 @@
 
 ## Soal 22 — K03-SBD-B02-M01-022
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Mozaik dapat dibuat dari ...." Pilih jawaban yang benar.
+**Pertanyaan:** Untuk mengisi gambar ikan, murid memilih potongan-potongan kecil yang ditata rapat. Ini ciri teknik ....
 
 **Pilihan jawaban:**
 - potongan kecil bahan yang disusun
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-SBD-B02-M01-023
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Kritik membangun sebaiknya berisi ...." Pilih jawaban yang benar.
+**Pertanyaan:** Teman meminta pendapat soal karya yang sulit dipahami. Agar membantu, saran seharusnya berupa ....
 
 **Pilihan jawaban:**
 - kebohongan
@@ -372,7 +372,7 @@
 
 ## Soal 24 — K03-SBD-B02-M01-024
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Karya teman yang berbeda gaya sebaiknya ...." Pilih jawaban yang benar.
+**Pertanyaan:** Meski gaya menggambar teman tidak sama dengan kita, hasilnya harus ....
 
 **Pilihan jawaban:**
 - dihancurkan
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-SBD-B02-M01-025
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Label karya pameran dapat memuat ...." Pilih jawaban yang benar.
+**Pertanyaan:** Sebelum karya dipajang, panitia ingin mengenalkan pembuatnya kepada pengunjung. Label yang sesuai berisi ....
 
 **Pilihan jawaban:**
 - nilai rapor teman
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-SBD-B02-M01-026
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Bahan bekas bersih dapat dijadikan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Gulungan kertas bekas yang sudah bersih dikumpulkan untuk proyek seni kelas. Bahan tersebut dapat menjadi ....
 
 **Pilihan jawaban:**
 - bahan berkarya kreatif
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-SBD-B02-M01-027
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Mengunjungi pameran seni sebaiknya ...." Pilih jawaban yang benar.
+**Pertanyaan:** Pengunjung penasaran pada tekstur patung, tetapi ada larangan menyentuh. Sikap terbaik ialah ....
 
 **Pilihan jawaban:**
 - berlari di dekat pajangan
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-SBD-B02-M01-028
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Warna yang dominan pada karya berarti warna yang ...." Pilih jawaban yang benar.
+**Pertanyaan:** Saat sebagian besar bidang karya dipenuhi hijau dan mata langsung tertuju ke warna itu, hijau adalah warna yang ....
 
 **Pilihan jawaban:**
 - selalu putih
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-SBD-B02-M01-029
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Lukisan pemandangan biasanya menampilkan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Pelukis menggambar air terjun, batu, dan pepohonan. Objek utamanya merupakan ....
 
 **Pilihan jawaban:**
 - hanya angka
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-SBD-B02-M01-030
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Menyebut kelebihan karya teman merupakan contoh ...." Pilih jawaban yang benar.
+**Pertanyaan:** Rani memberi pujian atas gagasan menarik pada karya Sari tanpa membandingkan kemampuan teman. Ini adalah ....
 
 **Pilihan jawaban:**
 - apresiasi positif
@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-SBD-B02-M01-031
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Apresiasi karya seni berarti ....
+**Pertanyaan:** Saat pameran mini, seorang murid memilih mengamati karya lalu menunjukkan penghargaan kepada pembuatnya. Kegiatan ini disebut ....
 
 **Pilihan jawaban:**
 - menyalin tanpa izin
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-SBD-B02-M01-032
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Saat melihat lukisan teman, komentar yang baik adalah ....
+**Pertanyaan:** Seorang siswa ingin mengomentari gambar temannya. Ia memilih kata yang ramah dan menyebut satu bagian yang disukai. Ini contoh ....
 
 **Pilihan jawaban:**
 - menertawakan
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-SBD-B02-M01-033
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Karya seni dua dimensi memiliki ....
+**Pertanyaan:** Guru meminta murid menunjukkan dua ukuran yang dimiliki gambar pada kertas. Jawabannya adalah ....
 
 **Pilihan jawaban:**
 - panjang, lebar, dan tinggi nyata
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-SBD-B02-M01-034
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Patung termasuk karya seni ....
+**Pertanyaan:** Patung tanah liat dapat dilihat dari depan, samping, dan belakang karena termasuk karya ....
 
 **Pilihan jawaban:**
 - tiga dimensi
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-SBD-B02-M01-035
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Poster biasanya memadukan ....
+**Pertanyaan:** Siswa hendak mengumumkan pesan 'Jaga Kebersihan' melalui poster. Isi yang tepat menggabungkan ....
 
 **Pilihan jawaban:**
 - aroma makanan
