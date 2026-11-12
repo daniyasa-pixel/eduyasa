@@ -1,103 +1,103 @@
 # Unit 6 — 5 Soal Listening
 
-**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
+**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Transkrip produksi harus disembunyikan dari siswa selama kuis. Perlu uji suara dan WebView pada perangkat nyata.
 
 ## Soal 46 — K03-ENG-B06-M01-046
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"canteen","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Excuse me. Is it the canteen? Yes, it is.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** canteen
+**Transkrip produksi (disembunyikan dari siswa):** Excuse me. Is it the canteen? Yes, it is.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen to the dialogue. Which place is confirmed?
 
 **Pilihan jawaban:**
-- classroom
-- playground
-- canteen
-- computer
+- the library
+- the canteen
+- the office
+- the garden
 
-**Kunci Jawaban:** canteen
+**Kunci Jawaban:** the canteen
 
-**Pembahasan:** Audio menyebutkan "canteen" (kantin).
+**Pembahasan:** The answer 'Yes, it is' confirms the canteen.
 
 ---
 
 ## Soal 47 — K03-ENG-B06-M01-047
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"library","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Is it the library? No, it isn't. It is the classroom.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** library
+**Transkrip produksi (disembunyikan dari siswa):** Is it the library? No, it isn't. It is the classroom.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen to the dialogue. Where is the speaker?
 
 **Pilihan jawaban:**
-- garden
-- library
-- canteen
-- office
+- the library
+- the yard
+- the classroom
+- the gate
 
-**Kunci Jawaban:** library
+**Kunci Jawaban:** the classroom
 
-**Pembahasan:** Audio menyebutkan "library" (perpustakaan).
+**Pembahasan:** The speaker corrects the guess to the classroom.
 
 ---
 
 ## Soal 48 — K03-ENG-B06-M01-048
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"classroom","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"This is the office. The head teacher works here.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** classroom
+**Transkrip produksi (disembunyikan dari siswa):** This is the office. The head teacher works here.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen to the dialogue. What place does the speaker name?
 
 **Pilihan jawaban:**
-- classroom
-- library
-- toilet
-- gate
+- the office
+- the playground
+- the toilet
+- the canteen
 
-**Kunci Jawaban:** classroom
+**Kunci Jawaban:** the office
 
-**Pembahasan:** Audio menyebutkan "classroom" (ruang kelas).
+**Pembahasan:** The first sentence names the office.
 
 ---
 
 ## Soal 49 — K03-ENG-B06-M01-049
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"office","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Is it the playground? No, it isn't. It is the garden.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** office
+**Transkrip produksi (disembunyikan dari siswa):** Is it the playground? No, it isn't. It is the garden.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen to the dialogue. What is the correct place?
 
 **Pilihan jawaban:**
-- classroom
-- playground
-- yard
-- office
+- the yard
+- the gate
+- the playground
+- the garden
 
-**Kunci Jawaban:** office
+**Kunci Jawaban:** the garden
 
-**Pembahasan:** Audio menyebutkan "office" (kantor).
+**Pembahasan:** The second sentence identifies the garden.
 
 ---
 
 ## Soal 50 — K03-ENG-B06-M01-050
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"toilet","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Look at the books. Is it the library? Yes, it is.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** toilet
+**Transkrip produksi (disembunyikan dari siswa):** Look at the books. Is it the library? Yes, it is.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen to the dialogue. Which answer matches the dialogue?
 
 **Pilihan jawaban:**
-- garden
-- computer
-- toilet
-- office
+- No, it isn't.
+- Yes, it is.
+- Yes, they are.
+- No, they don't.
 
-**Kunci Jawaban:** toilet
+**Kunci Jawaban:** Yes, it is.
 
-**Pembahasan:** Audio menyebutkan "toilet" (toilet).
+**Pembahasan:** The final sentence gives the positive short answer.
 
 ---
