@@ -1,0 +1,184 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PJK-B01",
+      "chapter_title": "Aktivitas Pola Gerak Dasar Lokomotor",
+      "questions": [
+        {
+          "id": "K03-PJK-B01-M01-036",
+          "type": "PG",
+          "text": "Diagram menunjukkan arah langkah ke belakang. Apa sikap yang aman sebelum mengikuti arah itu?",
+          "options": [
+            "menabrak teman",
+            "melangkah ke belakang sambil memeriksa keamanan",
+            "menutup mata saat bergerak",
+            "melompat tanpa melihat"
+          ],
+          "answer": "melangkah ke belakang sambil memeriksa keamanan",
+          "discussion": "Berjalan mundur: melangkah ke belakang sambil memeriksa keamanan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b01-gambar-01.svg",
+            "alt": "Ilustrasi Berjalan mundur"
+          }
+        },
+        {
+          "id": "K03-PJK-B01-M01-037",
+          "type": "PG",
+          "text": "Lintasan bergaris berbelok beberapa kali. Bagaimana cara bergerak melewatinya?",
+          "options": [
+            "berlari melewati rintangan dengan perubahan arah",
+            "berlari lurus tanpa belok",
+            "duduk di garis",
+            "mengangkat bola"
+          ],
+          "answer": "berlari melewati rintangan dengan perubahan arah",
+          "discussion": "Lari zig-zag: berlari melewati rintangan dengan perubahan arah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b01-gambar-02.svg",
+            "alt": "Ilustrasi Lari zig-zag"
+          }
+        },
+        {
+          "id": "K03-PJK-B01-M01-038",
+          "type": "PG",
+          "text": "Perhatikan diagram posisi kaki saat mendarat. Apa yang sebaiknya dilakukan pada lutut?",
+          "options": [
+            "mengunci lutut kaku",
+            "mendarat pada teman",
+            "menutup mata",
+            "menekuk lutut secara wajar agar lebih aman"
+          ],
+          "answer": "menekuk lutut secara wajar agar lebih aman",
+          "discussion": "Mendarat setelah meloncat: menekuk lutut secara wajar agar lebih aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b01-gambar-03.svg",
+            "alt": "Ilustrasi Mendarat setelah meloncat"
+          }
+        },
+        {
+          "id": "K03-PJK-B01-M01-039",
+          "type": "PG",
+          "text": "Diagram menunjukkan kegiatan persiapan sebelum berlari. Apa tujuan gerak persiapan itu?",
+          "options": [
+            "mengganti minum air",
+            "menghilangkan kebutuhan istirahat",
+            "menyiapkan tubuh sebelum aktivitas",
+            "membuat tubuh langsung lelah"
+          ],
+          "answer": "menyiapkan tubuh sebelum aktivitas",
+          "discussion": "Pemanasan sebelum berlari: menyiapkan tubuh sebelum aktivitas.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b01-gambar-04.svg",
+            "alt": "Ilustrasi Pemanasan sebelum berlari"
+          }
+        },
+        {
+          "id": "K03-PJK-B01-M01-040",
+          "type": "PG",
+          "text": "Perhatikan jalur pada diagram. Apa ciri jalur yang layak dipakai latihan?",
+          "options": [
+            "basah dan licin",
+            "bebas dari benda tajam dan licin",
+            "penuh pecahan kaca",
+            "dipenuhi tas berserakan"
+          ],
+          "answer": "bebas dari benda tajam dan licin",
+          "discussion": "Lintasan yang aman: bebas dari benda tajam dan licin.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b01-gambar-05.svg",
+            "alt": "Ilustrasi Lintasan yang aman"
+          }
+        },
+        {
+          "id": "K03-PJK-B01-M01-041",
+          "type": "PG",
+          "text": "Diagram menunjukkan perpindahan tempat dengan langkah kaki. Gerak apakah itu?",
+          "options": [
+            "berpindah tempat dengan melangkahkan kaki",
+            "memutar badan tanpa berpindah",
+            "melempar bola",
+            "menekuk lengan"
+          ],
+          "answer": "berpindah tempat dengan melangkahkan kaki",
+          "discussion": "Berjalan: berpindah tempat dengan melangkahkan kaki.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b01-gambar-06.svg",
+            "alt": "Ilustrasi Berjalan"
+          }
+        },
+        {
+          "id": "K03-PJK-B01-M01-042",
+          "type": "PG",
+          "text": "Diagram menunjukkan perpindahan tempat dengan langkah cepat. Apa ciri gerak lari?",
+          "options": [
+            "diam di tempat",
+            "menangkap bola",
+            "mengayun lengan tanpa berpindah",
+            "berpindah lebih cepat dengan fase kedua kaki melayang"
+          ],
+          "answer": "berpindah lebih cepat dengan fase kedua kaki melayang",
+          "discussion": "Berlari: berpindah lebih cepat dengan fase kedua kaki melayang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b01-gambar-07.svg",
+            "alt": "Ilustrasi Berlari"
+          }
+        },
+        {
+          "id": "K03-PJK-B01-M01-043",
+          "type": "PG",
+          "text": "Diagram menunjukkan tolakan dengan satu kaki. Manakah penjelasan gerak yang sesuai?",
+          "options": [
+            "melempar bola",
+            "menarik tali",
+            "menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak",
+            "duduk diam"
+          ],
+          "answer": "menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak",
+          "discussion": "Melompat: menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b01-gambar-08.svg",
+            "alt": "Ilustrasi Melompat"
+          }
+        },
+        {
+          "id": "K03-PJK-B01-M01-044",
+          "type": "PG",
+          "text": "Diagram menunjukkan tolakan dengan kedua kaki. Manakah penjelasan gerak yang sesuai?",
+          "options": [
+            "menendang bola",
+            "menolak dengan kedua kaki untuk berpindah",
+            "menggiring bola",
+            "memutar kepala"
+          ],
+          "answer": "menolak dengan kedua kaki untuk berpindah",
+          "discussion": "Meloncat: menolak dengan kedua kaki untuk berpindah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b01-gambar-09.svg",
+            "alt": "Ilustrasi Meloncat"
+          }
+        },
+        {
+          "id": "K03-PJK-B01-M01-045",
+          "type": "PG",
+          "text": "Diagram menunjukkan langkah ke samping. Apa cara yang tepat untuk melakukannya?",
+          "options": [
+            "melangkah ke samping sambil menjaga keseimbangan",
+            "bergerak maju sambil berlari cepat",
+            "melempar jauh",
+            "berbaring"
+          ],
+          "answer": "melangkah ke samping sambil menjaga keseimbangan",
+          "discussion": "Berjalan menyamping: melangkah ke samping sambil menjaga keseimbangan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b01-gambar-10.svg",
+            "alt": "Ilustrasi Berjalan menyamping"
+          }
+        }
+      ]
+    }
+  ]
+}
