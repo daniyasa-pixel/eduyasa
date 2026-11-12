@@ -1,0 +1,184 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B05",
+      "chapter_title": "I Like Riding a Bike on Sunday",
+      "questions": [
+        {
+          "id": "K03-ENG-B05-M01-036",
+          "type": "PG",
+          "text": "When does Mira swim?",
+          "options": [
+            "Monday",
+            "Tuesday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": "Tuesday",
+          "discussion": "Swimming is listed on Tuesday.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b05-gambar-01.svg",
+            "alt": "Mira's week. Monday: reading. Tuesday: swimming. Friday: drawing."
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-037",
+          "type": "PG",
+          "text": "Which numbered card is one day before Friday?",
+          "options": [
+            "Card 1",
+            "Card 3",
+            "Card 2",
+            "Cards 1 and 3"
+          ],
+          "answer": "Card 2",
+          "discussion": "Thursday, on card 2, immediately precedes Friday.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b05-gambar-02.svg",
+            "alt": "Before and after. 1: Wednesday. 2: Thursday. 3: Friday."
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-038",
+          "type": "PG",
+          "text": "Who plays badminton on Sunday?",
+          "options": [
+            "Dina",
+            "Bimo",
+            "Dina and Bimo",
+            "Rani"
+          ],
+          "answer": "Rani",
+          "discussion": "The Sunday plan pairs Rani with badminton.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b05-gambar-03.svg",
+            "alt": "Sunday plans. Dina: riding a bike. Rani: playing badminton. Bimo: reading."
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-039",
+          "type": "PG",
+          "text": "What do the two notes have in common?",
+          "options": [
+            "the day",
+            "the person",
+            "the activity",
+            "the whole plan"
+          ],
+          "answer": "the day",
+          "discussion": "Both notes name Friday, with different activities.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b05-gambar-04.svg",
+            "alt": "Two hobby notes. Riko: Friday: singing. Maya: Friday: drawing."
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-040",
+          "type": "PG",
+          "text": "How did the session move?",
+          "options": [
+            "one day later",
+            "two days later",
+            "one day earlier",
+            "it stayed on Sunday"
+          ],
+          "answer": "one day earlier",
+          "discussion": "Saturday comes immediately before Sunday.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b05-gambar-05.svg",
+            "alt": "Moved session. Old day: Sunday. New day: Saturday."
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-041",
+          "type": "PG",
+          "text": "What should you ask Lia to complete the entry?",
+          "options": [
+            "Do you like reading?",
+            "Do you like riding a bike?",
+            "Who likes reading?",
+            "When do you like reading?"
+          ],
+          "answer": "When do you like reading?",
+          "discussion": "The activity is already known. The missing information is its day.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b05-gambar-06.svg",
+            "alt": "Lia's survey entry. Hobby: reading. Day: (blank)."
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-042",
+          "type": "PG",
+          "text": "On which two days does Bayu play football?",
+          "options": [
+            "Monday and Friday",
+            "Monday and Wednesday",
+            "Wednesday and Friday",
+            "Tuesday and Friday"
+          ],
+          "answer": "Monday and Friday",
+          "discussion": "Football appears in the Monday and Friday rows.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b05-gambar-07.svg",
+            "alt": "Bayu's plans. Monday: football. Wednesday: swimming. Friday: football."
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-043",
+          "type": "PG",
+          "text": "Who shares Sita’s activity on a different day?",
+          "options": [
+            "Nara",
+            "Edo",
+            "Sita and Nara",
+            "Nara and Edo"
+          ],
+          "answer": "Edo",
+          "discussion": "Sita and Edo both draw, on Tuesday and Thursday respectively.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b05-gambar-08.svg",
+            "alt": "Hobby survey. Sita: Tuesday: drawing. Nara: Tuesday: swimming. Edo: Thursday: drawing."
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-044",
+          "type": "PG",
+          "text": "Which activity immediately follows the bike ride on the chart?",
+          "options": [
+            "singing",
+            "swimming",
+            "drawing",
+            "reading a book"
+          ],
+          "answer": "reading a book",
+          "discussion": "Sunday’s reading entry follows Saturday’s bike ride.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b05-gambar-09.svg",
+            "alt": "Activity order. Saturday: ride a bike. Sunday: read a book. Monday: sing."
+          }
+        },
+        {
+          "id": "K03-ENG-B05-M01-045",
+          "type": "PG",
+          "text": "Which report matches both answers?",
+          "options": [
+            "The child likes swimming on Saturday, but not on Friday.",
+            "The child likes swimming on both days.",
+            "The child likes swimming on Friday only.",
+            "The child dislikes swimming on both days."
+          ],
+          "answer": "The child likes swimming on Saturday, but not on Friday.",
+          "discussion": "The Friday entry is No and the Saturday entry is Yes.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b05-gambar-10.svg",
+            "alt": "Survey answers. Friday: swimming: No. Saturday: swimming: Yes."
+          }
+        }
+      ]
+    }
+  ]
+}
