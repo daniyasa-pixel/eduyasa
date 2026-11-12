@@ -1,0 +1,184 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B02",
+      "chapter_title": "I Don't Like Rice",
+      "questions": [
+        {
+          "id": "K03-ENG-B02-M01-036",
+          "type": "PG",
+          "text": "Look at Lina’s picture card. Which report matches the marked food?",
+          "options": [
+            "Lina doesn’t like ice cream.",
+            "Lina likes ice cream.",
+            "Lina doesn’t like bread.",
+            "Lina likes bread."
+          ],
+          "answer": "Lina doesn’t like ice cream.",
+          "discussion": "Kartu menampilkan es krim dengan tanda silang yang bermakna No.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-01.svg",
+            "alt": "Stimulus soal 36"
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-037",
+          "type": "PG",
+          "text": "Look at Oki’s card. What two things does it tell us?",
+          "options": [
+            "Oki likes milk but doesn’t like tea.",
+            "Oki likes both drinks.",
+            "Oki likes tea but doesn’t like milk.",
+            "Oki doesn’t like either drink."
+          ],
+          "answer": "Oki likes tea but doesn’t like milk.",
+          "discussion": "Gelas teh diberi centang dan karton susu diberi silang. Legenda menjelaskan kedua tanda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-02.svg",
+            "alt": "Stimulus soal 37"
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-038",
+          "type": "PG",
+          "text": "Use the survey card. Who likes bread and milk?",
+          "options": [
+            "Rino",
+            "Both children",
+            "Neither child",
+            "Dara"
+          ],
+          "answer": "Dara",
+          "discussion": "Pada baris Dara, kedua kolom bertanda centang. Rino menyukai susu, tetapi tidak menyukai roti.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-03.svg",
+            "alt": "Stimulus soal 38"
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-039",
+          "type": "PG",
+          "text": "Which food is missing a survey answer on Dini’s card?",
+          "options": [
+            "pizza",
+            "bread",
+            "rice",
+            "noodles"
+          ],
+          "answer": "pizza",
+          "discussion": "Kolom pizza berisi tanda tanya yang berarti belum dijawab. Roti dan nasi sudah ditandai, sedangkan mi tidak tercantum.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-04.svg",
+            "alt": "Stimulus soal 39"
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-040",
+          "type": "PG",
+          "text": "Read the two illustrated cards. What can we say about both children?",
+          "options": [
+            "They like bananas.",
+            "They don’t like bananas.",
+            "They don’t like noodles.",
+            "They like the same two foods."
+          ],
+          "answer": "They don’t like bananas.",
+          "discussion": "Pisang diberi tanda silang pada kedua kartu. Tanda pada roti dan mi berbeda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-05.svg",
+            "alt": "Stimulus soal 40"
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-041",
+          "type": "PG",
+          "text": "Look at the speech bubble. Which sentence retells Yuni’s answer?",
+          "options": [
+            "Yuni likes coffee.",
+            "Yuni doesn’t like milk.",
+            "Yuni likes both drinks.",
+            "Yuni doesn’t like coffee."
+          ],
+          "answer": "Yuni doesn’t like coffee.",
+          "discussion": "Balon ucapan Yuni menolak kopi. Laporan tentang Yuni menggunakan bentuk doesn’t like.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-06.svg",
+            "alt": "Stimulus soal 41"
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-042",
+          "type": "PG",
+          "text": "The arrow points to a snack. Does Bima like it?",
+          "options": [
+            "No, he doesn’t.",
+            "The card marks both Yes and No.",
+            "Yes, he does.",
+            "The card leaves the snack unmarked."
+          ],
+          "answer": "Yes, he does.",
+          "discussion": "Panah menunjuk roti yang diberi tanda centang. Tanda silang pada kartu berlaku untuk es krim.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-07.svg",
+            "alt": "Stimulus soal 42"
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-043",
+          "type": "PG",
+          "text": "Match the card number to the sentence “Sita likes noodles.”",
+          "options": [
+            "Card 1",
+            "Card 2",
+            "Card 3",
+            "Card 4"
+          ],
+          "answer": "Card 2",
+          "discussion": "Kartu 2 memuat nama Sita, gambar mi, dan centang. Kartu lain berbeda pada nama, gambar, atau tanda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-08.svg",
+            "alt": "Stimulus soal 43"
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-044",
+          "type": "PG",
+          "text": "Compare the two surveys. Which drink gets a Yes from only one child?",
+          "options": [
+            "tea",
+            "milk",
+            "coffee",
+            "water"
+          ],
+          "answer": "tea",
+          "discussion": "Teh mendapat satu centang. Susu dicentang keduanya, kopi disilang keduanya, dan air tidak ditampilkan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-09.svg",
+            "alt": "Stimulus soal 44"
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-045",
+          "type": "PG",
+          "text": "Use the illustrated card. Which question would get “No, I don’t” from Rani?",
+          "options": [
+            "Do you like bread?",
+            "Do you like milk?",
+            "Do you like pizza?",
+            "Do you like bread and milk?"
+          ],
+          "answer": "Do you like pizza?",
+          "discussion": "Rani menandai pizza dengan silang. Roti dan susu masing-masing dicentang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-10.svg",
+            "alt": "Stimulus soal 45"
+          }
+        }
+      ]
+    }
+  ]
+}
