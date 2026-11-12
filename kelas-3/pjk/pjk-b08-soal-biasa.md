@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B08-M01-031
 
-**Pertanyaan:** Dina berjalan kaki menuju sekolah dengan pendamping. Kegiatan itu termasuk apa?
+**Pertanyaan:** Saat siswa bermain dan berjalan, ototnya bergerak dan energi digunakan. Kegiatan tersebut dikenal sebagai ....
 
 **Pilihan jawaban:**
 - hanya tidur
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B08-M01-032
 
-**Pertanyaan:** Keluarga menyiapkan aneka jenis makanan sesuai kebutuhan anak. Pola tersebut menggambarkan ....
+**Pertanyaan:** Piring keluarga memuat lauk, sayur, buah, dan makanan pokok. Apa prinsip pemilihan makannya?
 
 **Pilihan jawaban:**
 - hanya gorengan
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B08-M01-033
 
-**Pertanyaan:** Saat makan, ada tempe dan ikan yang disajikan. Kelompok pangan itu merupakan sumber ....
+**Pertanyaan:** Di meja terdapat telur, ikan, dan tempe. Kelompok makanan ini dapat menjadi ....
 
 **Pilihan jawaban:**
 - kerupuk saja
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B08-M01-034
 
-**Pertanyaan:** Ibu menambahkan sayuran dan buah pada menu keluarga. Apa sumbangan bahan itu?
+**Pertanyaan:** Saat makan, buah dan sayur melengkapi hidangan lain. Apa yang disumbangkannya?
 
 **Pilihan jawaban:**
 - menyumbang vitamin, mineral, dan serat
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B08-M01-035
 
-**Pertanyaan:** Nasi, kentang, dan ubi menyediakan zat gizi untuk aktivitas. Fungsinya yang utama adalah ....
+**Pertanyaan:** Setelah olahraga, nasi atau ubi menjadi salah satu sumber tenaga dari kelompok zat gizi apa?
 
 **Pilihan jawaban:**
 - selalu berbahaya
