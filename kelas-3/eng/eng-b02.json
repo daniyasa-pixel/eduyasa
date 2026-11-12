@@ -1,0 +1,469 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B02",
+      "chapter_title": "I Don't Like Rice",
+      "questions": [
+        {
+          "id": "K03-ENG-B02-M01-001",
+          "type": "PG",
+          "text": "Which sentence means “Aku tidak suka nasi”?",
+          "options": [
+            "I like rice.",
+            "I don’t like rice.",
+            "I don’t like bread.",
+            "Do you like rice?"
+          ],
+          "answer": "I don’t like rice.",
+          "discussion": "Don’t like menyatakan tidak suka. Rice berarti nasi dalam konteks makanan."
+        },
+        {
+          "id": "K03-ENG-B02-M01-002",
+          "type": "PG",
+          "text": "Nina says, “I like pizza.” Retell her answer using Nina’s name.",
+          "options": [
+            "Nina like pizza.",
+            "Nina doesn’t like pizza.",
+            "Nina likes rice.",
+            "Nina likes pizza."
+          ],
+          "answer": "Nina likes pizza.",
+          "discussion": "Kalimat positif tentang satu orang memakai likes. Makanan yang disebut adalah pizza."
+        },
+        {
+          "id": "K03-ENG-B02-M01-003",
+          "type": "PG",
+          "text": "Fajar says, “I don’t like coffee.” What can you tell a friend about Fajar?",
+          "options": [
+            "Fajar doesn’t like coffee.",
+            "Fajar don’t like coffee.",
+            "Fajar likes coffee.",
+            "Fajar doesn’t like tea."
+          ],
+          "answer": "Fajar doesn’t like coffee.",
+          "discussion": "Untuk satu orang lain, bentuk negatifnya doesn’t like. Coffee tetap menjadi minuman yang dibahas."
+        },
+        {
+          "id": "K03-ENG-B02-M01-004",
+          "type": "PG",
+          "text": "Ayu likes tea. Choose the sentence that replaces “Ayu” with “She” and keeps the meaning.",
+          "options": [
+            "She like tea.",
+            "She doesn’t like tea.",
+            "She likes tea.",
+            "She likes milk."
+          ],
+          "answer": "She likes tea.",
+          "discussion": "She menggantikan Ayu dan tetap diikuti likes. Minumannya masih tea."
+        },
+        {
+          "id": "K03-ENG-B02-M01-005",
+          "type": "PG",
+          "text": "Tono doesn’t like spaghetti. Choose the sentence that replaces “Tono” with “He” and keeps the meaning.",
+          "options": [
+            "He don’t like spaghetti.",
+            "He doesn’t likes spaghetti.",
+            "He doesn’t like spaghetti.",
+            "He likes spaghetti."
+          ],
+          "answer": "He doesn’t like spaghetti.",
+          "discussion": "He menggantikan Tono. Sesudah doesn’t, gunakan bentuk dasar like."
+        },
+        {
+          "id": "K03-ENG-B02-M01-006",
+          "type": "PG",
+          "text": "Dina and Riko both like milk. How can you write this using “they”?",
+          "options": [
+            "They like milk.",
+            "They likes milk.",
+            "They don’t like milk.",
+            "They like tea."
+          ],
+          "answer": "They like milk.",
+          "discussion": "They merujuk kepada dua orang dan diikuti like dalam kalimat positif."
+        },
+        {
+          "id": "K03-ENG-B02-M01-007",
+          "type": "PG",
+          "text": "Which words complete the note? “I ___ coffee. My sister ___ coffee, too.”",
+          "options": [
+            "likes, then like",
+            "like, then like",
+            "likes, then likes",
+            "like, then likes"
+          ],
+          "answer": "like, then likes",
+          "discussion": "I memakai like, sedangkan my sister merujuk pada satu orang lain dan memakai likes."
+        },
+        {
+          "id": "K03-ENG-B02-M01-008",
+          "type": "PG",
+          "text": "Which sentence says both children dislike tea?",
+          "options": [
+            "Rani and Bima doesn’t like tea.",
+            "Rani and Bima don’t like tea.",
+            "Rani and Bima like tea.",
+            "Rani and Bima don’t like milk."
+          ],
+          "answer": "Rani and Bima don’t like tea.",
+          "discussion": "Dua nama bersama-sama memakai don’t like. Tea adalah minuman yang tidak mereka sukai."
+        },
+        {
+          "id": "K03-ENG-B02-M01-009",
+          "type": "PG",
+          "text": "Ria wrote “My father doesn’t likes coffee.” Which edit fixes the grammar?",
+          "options": [
+            "Change “likes” to “like”.",
+            "Change “doesn’t” to “don’t”.",
+            "Change “father” to “fathers”.",
+            "Change “coffee” to “tea”."
+          ],
+          "answer": "Change “likes” to “like”.",
+          "discussion": "Kata kerja setelah doesn’t harus berbentuk dasar like. Mengganti nama minuman tidak memperbaiki bentuk kata kerja."
+        },
+        {
+          "id": "K03-ENG-B02-M01-010",
+          "type": "PG",
+          "text": "Put “ice cream / doesn’t like / Lila” in order to make a sentence.",
+          "options": [
+            "Ice cream doesn’t like Lila.",
+            "Doesn’t Lila like ice cream?",
+            "Lila ice cream doesn’t like.",
+            "Lila doesn’t like ice cream."
+          ],
+          "answer": "Lila doesn’t like ice cream.",
+          "discussion": "Nama orang yang mempunyai kesukaan diletakkan di awal, diikuti doesn’t like dan nama makanan."
+        },
+        {
+          "id": "K03-ENG-B02-M01-011",
+          "type": "PG",
+          "text": "Sari likes satay. She doesn’t like pizza. What does Sari dislike?",
+          "options": [
+            "satay",
+            "pizza",
+            "both foods",
+            "neither food"
+          ],
+          "answer": "pizza",
+          "discussion": "Kalimat dengan doesn’t like menunjuk pizza. Sari menyebut sate sebagai makanan yang disukai."
+        },
+        {
+          "id": "K03-ENG-B02-M01-012",
+          "type": "PG",
+          "text": "Reno likes spaghetti and pizza. He doesn’t like rice. Which pair does he like?",
+          "options": [
+            "spaghetti and rice",
+            "pizza and rice",
+            "spaghetti and pizza",
+            "rice and bread"
+          ],
+          "answer": "spaghetti and pizza",
+          "discussion": "Kedua makanan setelah likes dihubungkan dengan and. Rice muncul pada kalimat negatif."
+        },
+        {
+          "id": "K03-ENG-B02-M01-013",
+          "type": "PG",
+          "text": "Rina likes coffee, but Dewi doesn’t like it. What does “it” mean?",
+          "options": [
+            "Rina",
+            "Dewi",
+            "orange juice",
+            "coffee"
+          ],
+          "answer": "coffee",
+          "discussion": "It merujuk pada coffee, benda yang dibicarakan pada bagian awal kalimat."
+        },
+        {
+          "id": "K03-ENG-B02-M01-014",
+          "type": "PG",
+          "text": "Lani likes bakso. Nino doesn’t like bakso. Which statement is true?",
+          "options": [
+            "Only Nino likes bakso.",
+            "Only Lani likes bakso.",
+            "Both like bakso.",
+            "Neither likes bakso."
+          ],
+          "answer": "Only Lani likes bakso.",
+          "discussion": "Kalimat Lani memakai likes, sedangkan kalimat Nino memakai doesn’t like."
+        },
+        {
+          "id": "K03-ENG-B02-M01-015",
+          "type": "PG",
+          "text": "Dito says he likes Papeda. His note also says he likes satay. Which note keeps both facts?",
+          "options": [
+            "Dito likes Papeda and satay.",
+            "Dito likes Papeda but doesn’t like satay.",
+            "Dito likes satay but doesn’t like Papeda.",
+            "Dito doesn’t like Papeda or satay."
+          ],
+          "answer": "Dito likes Papeda and satay.",
+          "discussion": "Kedua makanan disukai Dito. And menggabungkan dua fakta positif itu."
+        },
+        {
+          "id": "K03-ENG-B02-M01-016",
+          "type": "PG",
+          "text": "“Arif likes orange juice. Tia likes it, too.” Who likes orange juice?",
+          "options": [
+            "Arif only",
+            "Tia only",
+            "Arif and Tia",
+            "Neither Arif nor Tia"
+          ],
+          "answer": "Arif and Tia",
+          "discussion": "It merujuk pada orange juice. Too menunjukkan Tia memiliki kesukaan yang sama."
+        },
+        {
+          "id": "K03-ENG-B02-M01-017",
+          "type": "PG",
+          "text": "Raka likes Ayam Betutu. What is true about Raka’s view of fried chicken?",
+          "options": [
+            "The note doesn’t say.",
+            "He likes fried chicken.",
+            "He doesn’t like fried chicken.",
+            "He likes only fried chicken."
+          ],
+          "answer": "The note doesn’t say.",
+          "discussion": "Catatan hanya menyebut Ayam Betutu. Kesukaan terhadap hidangan lain belum diketahui."
+        },
+        {
+          "id": "K03-ENG-B02-M01-018",
+          "type": "PG",
+          "text": "Mila likes milk and doesn’t like coffee. A note says “Mila likes both drinks.” What needs to change?",
+          "options": [
+            "Record milk as No.",
+            "Record both drinks as No.",
+            "Record coffee as No.",
+            "Replace Mila’s name."
+          ],
+          "answer": "Record coffee as No.",
+          "discussion": "Catatan tentang susu sudah sesuai. Coffee harus dicatat No karena Mila tidak menyukainya."
+        },
+        {
+          "id": "K03-ENG-B02-M01-019",
+          "type": "PG",
+          "text": "Choose the best question for a survey column called “Orange juice”.",
+          "options": [
+            "Do you like oranges?",
+            "I like orange juice.",
+            "Who drinks orange juice at lunch?",
+            "Do you like orange juice?"
+          ],
+          "answer": "Do you like orange juice?",
+          "discussion": "Do you like menanyakan kesukaan, dan orange juice menyebut minuman yang tercantum pada judul kolom."
+        },
+        {
+          "id": "K03-ENG-B02-M01-020",
+          "type": "PG",
+          "text": "Rara answers “Yes, I do” to “Do you like satay?” What should you write in her report?",
+          "options": [
+            "Rara doesn’t like satay.",
+            "Rara likes satay.",
+            "Rara likes rice.",
+            "Rara doesn’t like rice."
+          ],
+          "answer": "Rara likes satay.",
+          "discussion": "Yes, I do memberi jawaban positif. Laporan tentang Rara menggunakan likes satay."
+        },
+        {
+          "id": "K03-ENG-B02-M01-021",
+          "type": "PG",
+          "text": "Putri’s card says “Pizza — No; Bread — Yes.” Choose a sentence about Putri that matches both marks.",
+          "options": [
+            "Putri likes pizza. She doesn’t like bread.",
+            "Putri likes pizza and bread.",
+            "Putri doesn’t like pizza. She likes bread.",
+            "Putri doesn’t like pizza or bread."
+          ],
+          "answer": "Putri doesn’t like pizza. She likes bread.",
+          "discussion": "No berlaku untuk pizza, sementara Yes berlaku untuk roti."
+        },
+        {
+          "id": "K03-ENG-B02-M01-022",
+          "type": "PG",
+          "text": "The notes say “Ardi — tea: No; Lia — tea: No; Joko — tea: Yes.” Which two children don’t like tea?",
+          "options": [
+            "Ardi and Joko",
+            "Lia and Joko",
+            "All three children",
+            "Ardi and Lia"
+          ],
+          "answer": "Ardi and Lia",
+          "discussion": "Ardi dan Lia sama-sama bertanda No. Joko bertanda Yes sehingga tidak masuk pasangan."
+        },
+        {
+          "id": "K03-ENG-B02-M01-023",
+          "type": "PG",
+          "text": "Tara says, “I like tea, not coffee.” Which pair of marks matches what she says?",
+          "options": [
+            "Tea: No. Coffee: Yes.",
+            "Tea: Yes. Coffee: No.",
+            "Tea: Yes. Coffee: Yes.",
+            "Tea: No. Coffee: No."
+          ],
+          "answer": "Tea: Yes. Coffee: No.",
+          "discussion": "Tea disebut sebagai yang disukai. Not coffee menolak kopi."
+        },
+        {
+          "id": "K03-ENG-B02-M01-024",
+          "type": "PG",
+          "text": "You asked Niko about bread, and he said “Yes.” You have yet to ask about milk. Which report fits the information?",
+          "options": [
+            "Niko likes bread. We don’t know about milk.",
+            "Niko likes bread and milk.",
+            "Niko likes bread but doesn’t like milk.",
+            "Niko likes milk but doesn’t like bread."
+          ],
+          "answer": "Niko likes bread. We don’t know about milk.",
+          "discussion": "Hanya roti yang sudah ditanyakan. Sel kosong untuk susu berbeda dari jawaban No."
+        },
+        {
+          "id": "K03-ENG-B02-M01-025",
+          "type": "PG",
+          "text": "Sinta says, “I don’t like ice cream, but I like bread.” Which word shows the change from dislike to like?",
+          "options": [
+            "and",
+            "she",
+            "too",
+            "but"
+          ],
+          "answer": "but",
+          "discussion": "But menghubungkan dua gagasan yang berbeda arah, yaitu tidak suka es krim dan suka roti."
+        },
+        {
+          "id": "K03-ENG-B02-M01-026",
+          "type": "PG",
+          "text": "Riko’s card says “Noodles — Yes; Fried chicken — No.” Which question can you answer with this card?",
+          "options": [
+            "Does Riko like noodles?",
+            "Does Riko like bread?",
+            "Does Riko like milk?",
+            "Does Riko like rice?"
+          ],
+          "answer": "Does Riko like noodles?",
+          "discussion": "Hanya mi yang tercantum di antara empat benda dalam pilihan. Tanda Yes menjawab pertanyaan tentang mi."
+        },
+        {
+          "id": "K03-ENG-B02-M01-027",
+          "type": "PG",
+          "text": "“Does Lani like Papeda?” The note says “Papeda — No.” Which short answer fits?",
+          "options": [
+            "Yes, she does.",
+            "No, I don’t.",
+            "No, she doesn’t.",
+            "Yes, I do."
+          ],
+          "answer": "No, she doesn’t.",
+          "discussion": "Pertanyaan tentang Lani dijawab dengan she. No pada catatan membuat jawabannya negatif."
+        },
+        {
+          "id": "K03-ENG-B02-M01-028",
+          "type": "PG",
+          "text": "“Does Beni like pizza?” His note says “Pizza — Yes.” Which answer fits?",
+          "options": [
+            "No, he doesn’t.",
+            "Yes, he does.",
+            "Yes, I do.",
+            "No, I don’t."
+          ],
+          "answer": "Yes, he does.",
+          "discussion": "Karena orang yang dibahas Beni, jawabannya memakai he. Tanda Yes menentukan respons positif."
+        },
+        {
+          "id": "K03-ENG-B02-M01-029",
+          "type": "PG",
+          "text": "You want to ask Rani directly about bakso. Which sentence fits?",
+          "options": [
+            "Does she like bakso?",
+            "Do you like bakso?",
+            "Rani likes bakso.",
+            "Does he like bakso?"
+          ],
+          "answer": "Do you like bakso?",
+          "discussion": "Saat bertanya langsung kepada Rani, pakai you. She dan he dipakai saat membicarakan orang lain."
+        },
+        {
+          "id": "K03-ENG-B02-M01-030",
+          "type": "PG",
+          "text": "Your friend says, “My brother likes satay.” Who likes satay?",
+          "options": [
+            "Your friend",
+            "You",
+            "Both you and your friend",
+            "Your friend’s brother"
+          ],
+          "answer": "Your friend’s brother",
+          "discussion": "Dalam kalimat tersebut my brother adalah subjek. Tidak ada informasi kesukaan orang lain."
+        },
+        {
+          "id": "K03-ENG-B02-M01-031",
+          "type": "PG",
+          "text": "Beni says, “I don’t like noodles.” Ina also says, “I don’t like noodles.” Which sentence combines the two answers?",
+          "options": [
+            "Beni and Ina doesn’t like noodles.",
+            "Beni and Ina like noodles.",
+            "Beni and Ina don’t like noodles.",
+            "Beni and Ina don’t like rice."
+          ],
+          "answer": "Beni and Ina don’t like noodles.",
+          "discussion": "Kedua anak memiliki jawaban negatif yang sama. Gabungan dua nama memakai don’t like."
+        },
+        {
+          "id": "K03-ENG-B02-M01-032",
+          "type": "PG",
+          "text": "A label says “orange juice”. Which drink should be on that label?",
+          "options": [
+            "jus jeruk",
+            "teh jeruk",
+            "susu",
+            "air putih"
+          ],
+          "answer": "jus jeruk",
+          "discussion": "Juice berarti jus. Orange menerangkan buah yang digunakan, yaitu jeruk."
+        },
+        {
+          "id": "K03-ENG-B02-M01-033",
+          "type": "PG",
+          "text": "Which report uses the capital letter and punctuation correctly?",
+          "options": [
+            "mila likes rice.",
+            "Mila likes rice.",
+            "Mila likes rice?",
+            "mila likes rice?"
+          ],
+          "answer": "Mila likes rice.",
+          "discussion": "Nama Mila diawali huruf kapital. Kalimat yang melaporkan kesukaan diakhiri titik."
+        },
+        {
+          "id": "K03-ENG-B02-M01-034",
+          "type": "PG",
+          "text": "You are making a card for a classmate. The classmate said “I like pizza.” Which mark belongs beside the pizza picture?",
+          "options": [
+            "A cross for No",
+            "A question mark for unknown",
+            "A tick for Yes",
+            "Two marks for both Yes and No"
+          ],
+          "answer": "A tick for Yes",
+          "discussion": "I like menunjukkan jawaban positif, yang diwakili tanda centang pada kartu."
+        },
+        {
+          "id": "K03-ENG-B02-M01-035",
+          "type": "PG",
+          "text": "A note says “Mira doesn’t like tea. Beni likes it.” Which survey summary is right?",
+          "options": [
+            "Mira: Yes. Beni: No.",
+            "Mira: No. Beni: No.",
+            "Mira: Yes. Beni: Yes.",
+            "Mira: No. Beni: Yes."
+          ],
+          "answer": "Mira: No. Beni: Yes.",
+          "discussion": "It masih mengacu pada teh. Mira memakai bentuk negatif dan Beni bentuk positif."
+        }
+      ]
+    }
+  ]
+}
