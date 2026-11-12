@@ -1,0 +1,354 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B02",
+      "chapter_title": "Dahulu, Kini, dan Nanti",
+      "questions": [
+        {
+          "id": "K03-IPAS-B02-M01-051",
+          "type": "PG",
+          "text": "Peristiwa apa yang paling akhir pada garis waktu?",
+          "options": [
+            "Perpustakaan mulai dibangun",
+            "Perpustakaan dibuka",
+            "Ruang baca diperluas",
+            "Semua peristiwa terjadi bersamaan"
+          ],
+          "answer": "Ruang baca diperluas",
+          "discussion": "Tahun 2023 terletak setelah 2018 dan 2020 dalam garis waktu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-01.svg",
+            "alt": "Riwayat perpustakaan. Tahun 2018: Bangunan perpustakaan mulai dibangun. Tahun 2020: Perpustakaan dibuka. Tahun 2023: Ruang baca diperluas."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-052",
+          "type": "PG",
+          "text": "Apa yang terjadi di antara pembangunan awal dan perluasan ruang baca?",
+          "options": [
+            "Perpustakaan mulai dibangun",
+            "Ruang baca diperluas",
+            "Tidak ada peristiwa lain",
+            "Perpustakaan dibuka"
+          ],
+          "answer": "Perpustakaan dibuka",
+          "discussion": "Pembukaan pada 2020 ditempatkan sesudah pembangunan 2018 dan sebelum perluasan 2023.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-01.svg",
+            "alt": "Riwayat perpustakaan. Tahun 2018: Bangunan perpustakaan mulai dibangun. Tahun 2020: Perpustakaan dibuka. Tahun 2023: Ruang baca diperluas."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-053",
+          "type": "PG",
+          "text": "Perubahan apa yang ditunjukkan oleh catatan?",
+          "options": [
+            "Bangku bertambah",
+            "Pohon berkurang",
+            "Semua pohon berganti tempat",
+            "Bangku menjadi lebih sedikit"
+          ],
+          "answer": "Bangku bertambah",
+          "discussion": "Jumlah pohon tetap tiga, sedangkan jumlah bangku berubah dari satu menjadi tiga.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-02.svg",
+            "alt": "Catatan taman di tempat yang sama. Dahulu: Tiga pohon dan satu bangku. Kini: Tiga pohon dan tiga bangku. Catatan: Gambar mewakili catatan pengamatan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-054",
+          "type": "PG",
+          "text": "Informasi apa yang belum diberikan gambar?",
+          "options": [
+            "Jumlah bangku dahulu",
+            "Alasan penambahan bangku",
+            "Jumlah pohon kini",
+            "Jumlah bangku kini"
+          ],
+          "answer": "Alasan penambahan bangku",
+          "discussion": "Catatan memuat jumlah objek, tetapi tidak menyebut sebab bangku ditambah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-02.svg",
+            "alt": "Catatan taman di tempat yang sama. Dahulu: Tiga pohon dan satu bangku. Kini: Tiga pohon dan tiga bangku. Catatan: Gambar mewakili catatan pengamatan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-055",
+          "type": "PG",
+          "text": "Pada kartu mana dua orang dapat bertukar suara dan gambar secara langsung lewat jaringan?",
+          "options": [
+            "Kartu P",
+            "Kedua kartu hanya menunjukkan surat",
+            "Kartu Q",
+            "Tidak ada kegiatan komunikasi"
+          ],
+          "answer": "Kartu Q",
+          "discussion": "Panggilan video pada Q memungkinkan suara dan gambar diterima melalui jaringan selama percakapan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-03.svg",
+            "alt": "Berkabar kepada keluarga. P: Surat ditulis lalu dikirim. Q: Dua orang berbicara melalui panggilan video. Catatan: Media berbeda untuk menyampaikan kabar."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-056",
+          "type": "PG",
+          "text": "Kesamaan tujuan dua kegiatan pada kartu ialah ...",
+          "options": [
+            "Mengangkut penumpang",
+            "Menyusun bangunan",
+            "Menentukan cuaca",
+            "Menyampaikan kabar"
+          ],
+          "answer": "Menyampaikan kabar",
+          "discussion": "Surat dan panggilan video sama-sama digunakan untuk berkomunikasi walaupun medianya berbeda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-03.svg",
+            "alt": "Berkabar kepada keluarga. P: Surat ditulis lalu dikirim. Q: Dua orang berbicara melalui panggilan video. Catatan: Media berbeda untuk menyampaikan kabar."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-057",
+          "type": "PG",
+          "text": "Bagian keterangan mana yang berbeda?",
+          "options": [
+            "Tahun pembukaan",
+            "Nama desa",
+            "Jenis bangunan",
+            "Kegiatan yang dibicarakan"
+          ],
+          "answer": "Tahun pembukaan",
+          "discussion": "Kedua sumber menyebut jembatan dan Desa Melati, tetapi tahunnya berbeda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-04.svg",
+            "alt": "Dua ingatan tentang jembatan. Sumber A: Jembatan dibuka pada 2010 di Desa Melati. Sumber B: Jembatan dibuka pada 2011 di Desa Melati. Tugas: Bandingkan kedua keterangan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-058",
+          "type": "PG",
+          "text": "Apa yang sebaiknya diperiksa melalui sumber tambahan?",
+          "options": [
+            "Nama desa yang sama-sama disebut sebagai perbedaan",
+            "Tahun pembukaan jembatan",
+            "Warna pakaian pewawancara",
+            "Makanan kesukaan sumber"
+          ],
+          "answer": "Tahun pembukaan jembatan",
+          "discussion": "Perbedaan yang perlu diperiksa ialah tanggal atau tahun pembukaan, misalnya melalui catatan pembangunan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-04.svg",
+            "alt": "Dua ingatan tentang jembatan. Sumber A: Jembatan dibuka pada 2010 di Desa Melati. Sumber B: Jembatan dibuka pada 2011 di Desa Melati. Tugas: Bandingkan kedua keterangan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-059",
+          "type": "PG",
+          "text": "Benda mana menggambarkan rencana yang belum dinyatakan telah terlaksana?",
+          "options": [
+            "Foto pada A",
+            "Catatan pada C",
+            "Rancangan pada B",
+            "Ketiganya bukti taman sudah dibuat"
+          ],
+          "answer": "Rancangan pada B",
+          "discussion": "Kartu B menyebut rancangan yang akan dibuat, berbeda dari foto dan catatan kegiatan yang telah terjadi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-05.svg",
+            "alt": "Album dan rancangan. A: Foto kelas pada 2019. B: Rancangan taman yang akan dibuat. C: Catatan kegiatan kemarin."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-060",
+          "type": "PG",
+          "text": "Pasangan mana mencatat sesuatu yang telah terjadi?",
+          "options": [
+            "A dan B",
+            "B saja",
+            "B dan C",
+            "A dan C"
+          ],
+          "answer": "A dan C",
+          "discussion": "Foto tahun 2019 dan catatan kemarin merujuk peristiwa yang sudah terjadi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-05.svg",
+            "alt": "Album dan rancangan. A: Foto kelas pada 2019. B: Rancangan taman yang akan dibuat. C: Catatan kegiatan kemarin."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-061",
+          "type": "PG",
+          "text": "Menurut catatan, alat yang digunakan Bibi pada 2010 ialah ...",
+          "options": [
+            "Bus",
+            "Sepeda",
+            "Kereta",
+            "Perahu"
+          ],
+          "answer": "Bus",
+          "discussion": "Kartu bertahun 2010 mencatat penggunaan bus, bukan alat pada dua tahun lainnya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-06.svg",
+            "alt": "Riwayat perjalanan keluarga. 1990: Dalam catatan, Bibi berangkat dengan sepeda. 2010: Dalam catatan, Bibi memakai bus. 2020: Dalam catatan, Bibi memakai kereta."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-062",
+          "type": "PG",
+          "text": "Kesimpulan mana didukung oleh riwayat ini?",
+          "options": [
+            "Semua orang berhenti memakai sepeda pada 2010",
+            "Cara bepergian Bibi berbeda pada tiga tahun yang dicatat",
+            "Bus tidak ada lagi setelah 2020",
+            "Semua daerah mempunyai kereta"
+          ],
+          "answer": "Cara bepergian Bibi berbeda pada tiga tahun yang dicatat",
+          "discussion": "Catatan hanya memberi informasi perjalanan Bibi, bukan seluruh orang atau semua daerah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-06.svg",
+            "alt": "Riwayat perjalanan keluarga. 1990: Dalam catatan, Bibi berangkat dengan sepeda. 2010: Dalam catatan, Bibi memakai bus. 2020: Dalam catatan, Bibi memakai kereta."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-063",
+          "type": "PG",
+          "text": "Apa yang tetap dilakukan menurut dua kartu?",
+          "options": [
+            "Mengirim undangan hanya lewat surat",
+            "Mengirim undangan hanya lewat pesan digital",
+            "Berbagi makanan",
+            "Menggunakan media undangan yang sama"
+          ],
+          "answer": "Berbagi makanan",
+          "discussion": "Kedua kartu menyebut berbagi makanan meskipun media undangannya berbeda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-07.svg",
+            "alt": "Perayaan keluarga. Dahulu: Keluarga berbagi makanan; undangan berupa surat. Kini: Keluarga berbagi makanan; undangan lewat pesan digital. Tugas: Cari yang berubah dan yang tetap."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-064",
+          "type": "PG",
+          "text": "Apa perubahan yang dapat dibuktikan dari kartu?",
+          "options": [
+            "Jumlah seluruh anggota keluarga",
+            "Jenis semua makanan",
+            "Tempat lahir setiap tamu",
+            "Media undangan"
+          ],
+          "answer": "Media undangan",
+          "discussion": "Kartu menunjukkan surat dan pesan digital sebagai dua media; data jumlah keluarga atau tempat lahir tidak tersedia.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-07.svg",
+            "alt": "Perayaan keluarga. Dahulu: Keluarga berbagi makanan; undangan berupa surat. Kini: Keluarga berbagi makanan; undangan lewat pesan digital. Tugas: Cari yang berubah dan yang tetap."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-065",
+          "type": "PG",
+          "text": "Kegiatan apa dilakukan sebelum wawancara pada jadwal?",
+          "options": [
+            "Menyiapkan pertanyaan",
+            "Memeriksa ringkasan hasil wawancara",
+            "Menghapus rekaman hasil",
+            "Membagikan laporan akhir"
+          ],
+          "answer": "Menyiapkan pertanyaan",
+          "discussion": "Menyiapkan pertanyaan berada pada Senin, sebelum wawancara Rabu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-08.svg",
+            "alt": "Persiapan wawancara. Senin: Menyiapkan pertanyaan. Rabu: Mewawancarai narasumber. Jumat: Memeriksa ringkasan bersama narasumber."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-066",
+          "type": "PG",
+          "text": "Mengapa kegiatan Jumat ditempatkan sesudah Rabu?",
+          "options": [
+            "Hari Jumat selalu merupakan hari pertama dalam minggu",
+            "Ringkasan perlu berdasarkan wawancara yang telah dilakukan",
+            "Jawaban harus ditentukan sebelum pertanyaan",
+            "Semua kegiatan pada jadwal harus dilakukan bersamaan"
+          ],
+          "answer": "Ringkasan perlu berdasarkan wawancara yang telah dilakukan",
+          "discussion": "Ringkasan dibuat dari hasil wawancara sehingga pemeriksaannya mengikuti kegiatan mengumpulkan informasi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-08.svg",
+            "alt": "Persiapan wawancara. Senin: Menyiapkan pertanyaan. Rabu: Mewawancarai narasumber. Jumat: Memeriksa ringkasan bersama narasumber."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-067",
+          "type": "PG",
+          "text": "Pada hari dan tanggal berapa izin narasumber diminta?",
+          "options": [
+            "Senin tanggal 4",
+            "Kamis tanggal 7",
+            "Rabu tanggal 6",
+            "Rabu tanggal 7"
+          ],
+          "answer": "Rabu tanggal 6",
+          "discussion": "Kartu tengah memasangkan kegiatan meminta izin dengan Rabu tanggal 6.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-09.svg",
+            "alt": "Cuplikan jadwal kunjungan. Senin tanggal 4: Membagi tugas kelompok. Rabu tanggal 6: Meminta izin narasumber. Kamis tanggal 7: Melakukan wawancara."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-068",
+          "type": "PG",
+          "text": "Urutan kegiatan mana sesuai jadwal?",
+          "options": [
+            "Wawancara → meminta izin → membagi tugas",
+            "Meminta izin → wawancara → membagi tugas",
+            "Ketiga kegiatan tidak memiliki urutan",
+            "Membagi tugas → meminta izin → wawancara"
+          ],
+          "answer": "Membagi tugas → meminta izin → wawancara",
+          "discussion": "Membaca kartu dari Senin ke Rabu lalu Kamis menghasilkan urutan persiapan, izin, dan wawancara.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-09.svg",
+            "alt": "Cuplikan jadwal kunjungan. Senin tanggal 4: Membagi tugas kelompok. Rabu tanggal 6: Meminta izin narasumber. Kamis tanggal 7: Melakukan wawancara."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-069",
+          "type": "PG",
+          "text": "Perubahan apa yang diketahui dari keterangan dua foto?",
+          "options": [
+            "Fungsi bangunan",
+            "Arah letak lapangan",
+            "Nama semua pekerja",
+            "Tanggal pasti pembongkaran"
+          ],
+          "answer": "Fungsi bangunan",
+          "discussion": "Keterangan menunjukkan fungsi gudang berubah menjadi perpustakaan pada lokasi yang sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-10.svg",
+            "alt": "Lokasi di tepi lapangan. Foto lama: Bangunan di tepi lapangan dipakai sebagai gudang. Foto baru: Bangunan di tempat yang sama menjadi perpustakaan. Catatan: Tahun perubahan fungsi belum diketahui."
+          }
+        },
+        {
+          "id": "K03-IPAS-B02-M01-070",
+          "type": "PG",
+          "text": "Apa yang belum boleh disimpulkan dari gambar?",
+          "options": [
+            "Fungsi pada foto lama adalah gudang",
+            "Tahun pasti perubahan fungsi",
+            "Fungsi pada foto baru adalah perpustakaan",
+            "Kedua foto membahas lokasi yang sama"
+          ],
+          "answer": "Tahun pasti perubahan fungsi",
+          "discussion": "Catatan secara tegas menyebut tahun perubahan belum diketahui, sehingga perlu sumber tambahan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b02-gambar-10.svg",
+            "alt": "Lokasi di tepi lapangan. Foto lama: Bangunan di tepi lapangan dipakai sebagai gudang. Foto baru: Bangunan di tempat yang sama menjadi perpustakaan. Catatan: Tahun perubahan fungsi belum diketahui."
+          }
+        }
+      ]
+    }
+  ]
+}
