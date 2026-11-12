@@ -2,560 +2,560 @@
 
 ## Soal 1 — K03-ENG-B10-M01-001
 
-**Pertanyaan:** What is the English word for "sepuluh"?
+**Pertanyaan:** There are 10 books on the shelf or in the classroom. Which English number word matches 10?
 
 **Pilihan jawaban:**
-- fourteen
-- seventeen
-- thirteen
 - ten
+- eleven
+- twelve
+- thirteen
 
 **Kunci Jawaban:** ten
 
-**Pembahasan:** "ten" berarti "sepuluh".
+**Pembahasan:** The number 10 is ten.
 
 ---
 
 ## Soal 2 — K03-ENG-B10-M01-002
 
-**Pertanyaan:** What is the English word for "sebelas"?
+**Pertanyaan:** There are 11 pencils on the shelf or in the classroom. Which English number word matches 11?
 
 **Pilihan jawaban:**
-- eighteen
-- fourteen
 - eleven
+- thirteen
+- fourteen
 - fifteen
 
 **Kunci Jawaban:** eleven
 
-**Pembahasan:** "eleven" berarti "sebelas".
+**Pembahasan:** The number 11 is eleven.
 
 ---
 
 ## Soal 3 — K03-ENG-B10-M01-003
 
-**Pertanyaan:** What is the English word for "dua belas"?
+**Pertanyaan:** There are 12 rulers on the shelf or in the classroom. Which English number word matches 12?
 
 **Pilihan jawaban:**
-- fifteen
 - twelve
+- fifteen
 - sixteen
-- twenty
+- seventeen
 
 **Kunci Jawaban:** twelve
 
-**Pembahasan:** "twelve" berarti "dua belas".
+**Pembahasan:** The number 12 is twelve.
 
 ---
 
 ## Soal 4 — K03-ENG-B10-M01-004
 
-**Pertanyaan:** What is the English word for "tiga belas"?
+**Pertanyaan:** There are 13 erasers on the shelf or in the classroom. Which English number word matches 13?
 
 **Pilihan jawaban:**
 - thirteen
 - seventeen
-- ten
-- sixteen
+- eighteen
+- nineteen
 
 **Kunci Jawaban:** thirteen
 
-**Pembahasan:** "thirteen" berarti "tiga belas".
+**Pembahasan:** The number 13 is thirteen.
 
 ---
 
 ## Soal 5 — K03-ENG-B10-M01-005
 
-**Pertanyaan:** What is the English word for "empat belas"?
+**Pertanyaan:** There are 14 notebooks on the shelf or in the classroom. Which English number word matches 14?
 
 **Pilihan jawaban:**
-- eighteen
-- eleven
-- seventeen
 - fourteen
+- eleven
+- twelve
+- thirteen
 
 **Kunci Jawaban:** fourteen
 
-**Pembahasan:** "fourteen" berarti "empat belas".
+**Pembahasan:** The number 14 is fourteen.
 
 ---
 
 ## Soal 6 — K03-ENG-B10-M01-006
 
-**Pertanyaan:** What is the English word for "lima belas"?
+**Pertanyaan:** There are 15 crayons on the shelf or in the classroom. Which English number word matches 15?
 
 **Pilihan jawaban:**
-- twelve
-- eighteen
 - fifteen
-- twenty
+- thirteen
+- fourteen
+- sixteen
 
 **Kunci Jawaban:** fifteen
 
-**Pembahasan:** "fifteen" berarti "lima belas".
+**Pembahasan:** The number 15 is fifteen.
 
 ---
 
 ## Soal 7 — K03-ENG-B10-M01-007
 
-**Pertanyaan:** What is the English word for "enam belas"?
+**Pertanyaan:** There are 16 bags on the shelf or in the classroom. Which English number word matches 16?
 
 **Pilihan jawaban:**
-- twenty
 - sixteen
-- ten
-- thirteen
+- fifteen
+- seventeen
+- eighteen
 
 **Kunci Jawaban:** sixteen
 
-**Pembahasan:** "sixteen" berarti "enam belas".
+**Pembahasan:** The number 16 is sixteen.
 
 ---
 
 ## Soal 8 — K03-ENG-B10-M01-008
 
-**Pertanyaan:** What is the English word for "tujuh belas"?
+**Pertanyaan:** There are 17 chairs on the shelf or in the classroom. Which English number word matches 17?
 
 **Pilihan jawaban:**
 - seventeen
-- eleven
-- fourteen
 - ten
+- eleven
+- twelve
 
 **Kunci Jawaban:** seventeen
 
-**Pembahasan:** "seventeen" berarti "tujuh belas".
+**Pembahasan:** The number 17 is seventeen.
 
 ---
 
 ## Soal 9 — K03-ENG-B10-M01-009
 
-**Pertanyaan:** What is the English word for "delapan belas"?
+**Pertanyaan:** There are 18 desks on the shelf or in the classroom. Which English number word matches 18?
 
 **Pilihan jawaban:**
-- twelve
-- fifteen
-- eleven
 - eighteen
+- twelve
+- thirteen
+- fourteen
 
 **Kunci Jawaban:** eighteen
 
-**Pembahasan:** "eighteen" berarti "delapan belas".
+**Pembahasan:** The number 18 is eighteen.
 
 ---
 
 ## Soal 10 — K03-ENG-B10-M01-010
 
-**Pertanyaan:** What is the English word for "dua puluh"?
+**Pertanyaan:** There are 19 markers on the shelf or in the classroom. Which English number word matches 19?
 
 **Pilihan jawaban:**
+- nineteen
+- fourteen
+- fifteen
 - sixteen
-- twelve
-- twenty
-- thirteen
 
-**Kunci Jawaban:** twenty
+**Kunci Jawaban:** nineteen
 
-**Pembahasan:** "twenty" berarti "dua puluh".
+**Pembahasan:** The number 19 is nineteen.
 
 ---
 
 ## Soal 11 — K03-ENG-B10-M01-011
 
-**Pertanyaan:** What does "ten" mean in Indonesian?
+**Pertanyaan:** There are 20 sheets on the shelf or in the classroom. Which English number word matches 20?
 
 **Pilihan jawaban:**
-- tiga belas
-- sepuluh
-- empat belas
-- tujuh belas
+- twenty
+- sixteen
+- seventeen
+- eighteen
 
-**Kunci Jawaban:** sepuluh
+**Kunci Jawaban:** twenty
 
-**Pembahasan:** "ten" berarti "sepuluh".
+**Pembahasan:** The number 20 is twenty.
 
 ---
 
 ## Soal 12 — K03-ENG-B10-M01-012
 
-**Pertanyaan:** What does "eleven" mean in Indonesian?
+**Pertanyaan:** There are twelve books on one shelf and three more on another. How many books are there in all?
 
 **Pilihan jawaban:**
-- sebelas
-- lima belas
-- delapan belas
-- empat belas
+- fifteen
+- ten
+- eleven
+- twelve
 
-**Kunci Jawaban:** sebelas
+**Kunci Jawaban:** fifteen
 
-**Pembahasan:** "eleven" berarti "sebelas".
+**Pembahasan:** Twelve plus three is fifteen.
 
 ---
 
 ## Soal 13 — K03-ENG-B10-M01-013
 
-**Pertanyaan:** What does "twelve" mean in Indonesian?
+**Pertanyaan:** A box has twenty pencils. Five pencils are taken out. How many remain?
 
 **Pilihan jawaban:**
-- enam belas
-- dua puluh
-- lima belas
-- dua belas
+- fifteen
+- thirteen
+- fourteen
+- sixteen
 
-**Kunci Jawaban:** dua belas
+**Kunci Jawaban:** fifteen
 
-**Pembahasan:** "twelve" berarti "dua belas".
+**Pembahasan:** Twenty minus five is fifteen.
 
 ---
 
 ## Soal 14 — K03-ENG-B10-M01-014
 
-**Pertanyaan:** What does "thirteen" mean in Indonesian?
+**Pertanyaan:** Rani has ten crayons. Her friend gives her four more. How many now?
 
 **Pilihan jawaban:**
-- sepuluh
-- enam belas
-- tiga belas
-- tujuh belas
+- fourteen
+- seventeen
+- eighteen
+- nineteen
 
-**Kunci Jawaban:** tiga belas
+**Kunci Jawaban:** fourteen
 
-**Pembahasan:** "thirteen" berarti "tiga belas".
+**Pembahasan:** Ten plus four is fourteen.
 
 ---
 
 ## Soal 15 — K03-ENG-B10-M01-015
 
-**Pertanyaan:** What does "fourteen" mean in Indonesian?
+**Pertanyaan:** There are eighteen chairs. Two chairs are moved out. How many remain?
 
 **Pilihan jawaban:**
-- tujuh belas
-- empat belas
-- delapan belas
-- sebelas
+- sixteen
+- twelve
+- thirteen
+- fourteen
 
-**Kunci Jawaban:** empat belas
+**Kunci Jawaban:** sixteen
 
-**Pembahasan:** "fourteen" berarti "empat belas".
+**Pembahasan:** Eighteen minus two is sixteen.
 
 ---
 
 ## Soal 16 — K03-ENG-B10-M01-016
 
-**Pertanyaan:** What does "fifteen" mean in Indonesian?
+**Pertanyaan:** Eleven students are reading. Two more join. How many students are reading?
 
 **Pilihan jawaban:**
-- lima belas
-- dua puluh
-- dua belas
-- delapan belas
+- thirteen
+- sixteen
+- seventeen
+- eighteen
 
-**Kunci Jawaban:** lima belas
+**Kunci Jawaban:** thirteen
 
-**Pembahasan:** "fifteen" berarti "lima belas".
+**Pembahasan:** Eleven plus two is thirteen.
 
 ---
 
 ## Soal 17 — K03-ENG-B10-M01-017
 
-**Pertanyaan:** What does "sixteen" mean in Indonesian?
+**Pertanyaan:** A shelf has thirteen books. Six more are added. How many books now?
 
 **Pilihan jawaban:**
-- sepuluh
-- tiga belas
-- dua puluh
-- enam belas
+- nineteen
+- eleven
+- twelve
+- thirteen
 
-**Kunci Jawaban:** enam belas
+**Kunci Jawaban:** nineteen
 
-**Pembahasan:** "sixteen" berarti "enam belas".
+**Pembahasan:** Thirteen plus six is nineteen.
 
 ---
 
 ## Soal 18 — K03-ENG-B10-M01-018
 
-**Pertanyaan:** What does "seventeen" mean in Indonesian?
+**Pertanyaan:** The class has twenty bags. Three bags are taken away. How many bags remain?
 
 **Pilihan jawaban:**
-- empat belas
-- sepuluh
-- tujuh belas
-- sebelas
+- seventeen
+- fourteen
+- fifteen
+- sixteen
 
-**Kunci Jawaban:** tujuh belas
+**Kunci Jawaban:** seventeen
 
-**Pembahasan:** "seventeen" berarti "tujuh belas".
+**Pembahasan:** Twenty minus three is seventeen.
 
 ---
 
 ## Soal 19 — K03-ENG-B10-M01-019
 
-**Pertanyaan:** What does "eighteen" mean in Indonesian?
+**Pertanyaan:** Eight pencils and four pencils are in a box. How many pencils?
 
 **Pilihan jawaban:**
-- sebelas
-- delapan belas
-- dua belas
-- lima belas
+- twelve
+- ten
+- eleven
+- thirteen
 
-**Kunci Jawaban:** delapan belas
+**Kunci Jawaban:** twelve
 
-**Pembahasan:** "eighteen" berarti "delapan belas".
+**Pembahasan:** Eight plus four is twelve.
 
 ---
 
 ## Soal 20 — K03-ENG-B10-M01-020
 
-**Pertanyaan:** What does "twenty" mean in Indonesian?
+**Pertanyaan:** There are fourteen notebooks. Four more arrive. How many now?
 
 **Pilihan jawaban:**
-- dua puluh
-- tiga belas
-- enam belas
-- dua belas
+- eighteen
+- thirteen
+- fourteen
+- fifteen
 
-**Kunci Jawaban:** dua puluh
+**Kunci Jawaban:** eighteen
 
-**Pembahasan:** "twenty" berarti "dua puluh".
+**Pembahasan:** Fourteen plus four is eighteen.
 
 ---
 
 ## Soal 21 — K03-ENG-B10-M01-021
 
-**Pertanyaan:** Which English word matches "sepuluh" in the lesson?
+**Pertanyaan:** Nine markers are red and eleven are blue. How many markers in all?
 
 **Pilihan jawaban:**
-- fourteen
+- twenty
+- sixteen
 - seventeen
-- thirteen
-- ten
+- eighteen
 
-**Kunci Jawaban:** ten
+**Kunci Jawaban:** twenty
 
-**Pembahasan:** "ten" berarti "sepuluh".
+**Pembahasan:** Nine plus eleven is twenty.
 
 ---
 
 ## Soal 22 — K03-ENG-B10-M01-022
 
-**Pertanyaan:** Which English word matches "sebelas" in the lesson?
+**Pertanyaan:** Choose a correct sentence about 20 books.
 
 **Pilihan jawaban:**
-- eighteen
-- fourteen
-- eleven
-- fifteen
+- There is twenty books on the shelf.
+- There are twenty books on the shelf.
+- There are twenty book on the shelf.
+- There twenty books on shelf.
 
-**Kunci Jawaban:** eleven
+**Kunci Jawaban:** There are twenty books on the shelf.
 
-**Pembahasan:** "eleven" berarti "sebelas".
+**Pembahasan:** The plural subject 'twenty books' takes 'There are'.
 
 ---
 
 ## Soal 23 — K03-ENG-B10-M01-023
 
-**Pertanyaan:** Which English word matches "dua belas" in the lesson?
+**Pertanyaan:** Complete: 'There ___ eleven pencils in the box.'
 
 **Pilihan jawaban:**
-- fifteen
-- twelve
-- sixteen
-- twenty
+- is
+- am
+- are
+- be
 
-**Kunci Jawaban:** twelve
+**Kunci Jawaban:** are
 
-**Pembahasan:** "twelve" berarti "dua belas".
+**Pembahasan:** 'Eleven pencils' is plural, so use 'are'.
 
 ---
 
 ## Soal 24 — K03-ENG-B10-M01-024
 
-**Pertanyaan:** Which English word matches "tiga belas" in the lesson?
+**Pertanyaan:** Complete: 'There is ___ book on the table.'
 
 **Pilihan jawaban:**
-- thirteen
-- seventeen
-- ten
-- sixteen
+- eleven
+- twelve
+- one
+- twenty
 
-**Kunci Jawaban:** thirteen
+**Kunci Jawaban:** one
 
-**Pembahasan:** "thirteen" berarti "tiga belas".
+**Pembahasan:** A singular book uses one.
 
 ---
 
 ## Soal 25 — K03-ENG-B10-M01-025
 
-**Pertanyaan:** Which English word matches "empat belas" in the lesson?
+**Pertanyaan:** A: How many books are there? B: There are fifteen books. What number does B say?
 
 **Pilihan jawaban:**
-- eighteen
-- eleven
-- seventeen
+- thirteen
 - fourteen
+- fifteen
+- sixteen
 
-**Kunci Jawaban:** fourteen
+**Kunci Jawaban:** fifteen
 
-**Pembahasan:** "fourteen" berarti "empat belas".
+**Pembahasan:** The reply says fifteen.
 
 ---
 
 ## Soal 26 — K03-ENG-B10-M01-026
 
-**Pertanyaan:** Which English word matches "lima belas" in the lesson?
+**Pertanyaan:** Which question asks about a count?
 
 **Pilihan jawaban:**
-- twelve
-- eighteen
-- fifteen
-- twenty
+- What color are the pencils?
+- Where are the pencils?
+- How many pencils are there?
+- Who owns the pencils?
 
-**Kunci Jawaban:** fifteen
+**Kunci Jawaban:** How many pencils are there?
 
-**Pembahasan:** "fifteen" berarti "lima belas".
+**Pembahasan:** How many asks for a number.
 
 ---
 
 ## Soal 27 — K03-ENG-B10-M01-027
 
-**Pertanyaan:** Which English word matches "enam belas" in the lesson?
+**Pertanyaan:** Choose the correct plural noun after 'twenty'.
 
 **Pilihan jawaban:**
-- twenty
-- sixteen
-- ten
-- thirteen
+- book
+- books
+- book's
+- booking
 
-**Kunci Jawaban:** sixteen
+**Kunci Jawaban:** books
 
-**Pembahasan:** "sixteen" berarti "enam belas".
+**Pembahasan:** Twenty is followed by the plural 'books'.
 
 ---
 
 ## Soal 28 — K03-ENG-B10-M01-028
 
-**Pertanyaan:** Which English word matches "tujuh belas" in the lesson?
+**Pertanyaan:** A: Are there twelve books? B: No, there are thirteen. How many books?
 
 **Pilihan jawaban:**
-- seventeen
+- twelve
+- thirteen
 - eleven
-- fourteen
 - ten
 
-**Kunci Jawaban:** seventeen
+**Kunci Jawaban:** thirteen
 
-**Pembahasan:** "seventeen" berarti "tujuh belas".
+**Pembahasan:** The correction says thirteen.
 
 ---
 
 ## Soal 29 — K03-ENG-B10-M01-029
 
-**Pertanyaan:** Which English word matches "delapan belas" in the lesson?
+**Pertanyaan:** There are ten notebooks and ten pencils. Which item count is twenty?
 
 **Pilihan jawaban:**
-- twelve
-- fifteen
-- eleven
-- eighteen
+- the notebooks alone
+- the pencils alone
+- all the items together
+- neither item nor their total
 
-**Kunci Jawaban:** eighteen
+**Kunci Jawaban:** all the items together
 
-**Pembahasan:** "eighteen" berarti "delapan belas".
+**Pembahasan:** Ten plus ten gives twenty items in total.
 
 ---
 
 ## Soal 30 — K03-ENG-B10-M01-030
 
-**Pertanyaan:** Which English word matches "dua puluh" in the lesson?
+**Pertanyaan:** Which number word comes just after eighteen?
 
 **Pilihan jawaban:**
-- sixteen
-- twelve
+- seventeen
 - twenty
-- thirteen
+- nineteen
+- sixteen
 
-**Kunci Jawaban:** twenty
+**Kunci Jawaban:** nineteen
 
-**Pembahasan:** "twenty" berarti "dua puluh".
+**Pembahasan:** Nineteen follows eighteen.
 
 ---
 
 ## Soal 31 — K03-ENG-B10-M01-031
 
-**Pertanyaan:** What is the English word for "sepuluh"?
+**Pertanyaan:** Which number word comes just before fifteen?
 
 **Pilihan jawaban:**
-- thirteen
-- ten
+- sixteen
 - fourteen
+- thirteen
 - seventeen
 
-**Kunci Jawaban:** ten
+**Kunci Jawaban:** fourteen
 
-**Pembahasan:** "ten" berarti "sepuluh".
+**Pembahasan:** Fourteen comes before fifteen.
 
 ---
 
 ## Soal 32 — K03-ENG-B10-M01-032
 
-**Pertanyaan:** What is the English word for "sebelas"?
+**Pertanyaan:** A: How many chairs are there? B: There are sixteen. Which reply matches?
 
 **Pilihan jawaban:**
-- eleven
-- fifteen
-- eighteen
-- fourteen
+- There is sixteen chair.
+- There are sixteen chairs.
+- There are sixty chairs.
+- There sixteen chairs.
 
-**Kunci Jawaban:** eleven
+**Kunci Jawaban:** There are sixteen chairs.
 
-**Pembahasan:** "eleven" berarti "sebelas".
+**Pembahasan:** Plural chairs uses 'There are'.
 
 ---
 
 ## Soal 33 — K03-ENG-B10-M01-033
 
-**Pertanyaan:** What is the English word for "dua belas"?
+**Pertanyaan:** Choose the correct phrase for 12 pencils.
 
 **Pilihan jawaban:**
-- sixteen
-- twenty
-- fifteen
-- twelve
+- twelve pencil
+- twelve pencils
+- twelfth pencils
+- twelve penciling
 
-**Kunci Jawaban:** twelve
+**Kunci Jawaban:** twelve pencils
 
-**Pembahasan:** "twelve" berarti "dua belas".
+**Pembahasan:** Twelve is a count and pencils is plural.
 
 ---
 
 ## Soal 34 — K03-ENG-B10-M01-034
 
-**Pertanyaan:** What is the English word for "tiga belas"?
+**Pertanyaan:** There are twenty books, not twelve. Which number is correct?
 
 **Pilihan jawaban:**
+- twelve
 - ten
-- sixteen
-- thirteen
-- seventeen
+- twenty
+- eleven
 
-**Kunci Jawaban:** thirteen
+**Kunci Jawaban:** twenty
 
-**Pembahasan:** "thirteen" berarti "tiga belas".
+**Pembahasan:** The sentence explicitly corrects twelve to twenty.
 
 ---
 
 ## Soal 35 — K03-ENG-B10-M01-035
 
-**Pertanyaan:** What is the English word for "empat belas"?
+**Pertanyaan:** The teacher counts nineteen desks. Which numeral matches 'nineteen'?
 
 **Pilihan jawaban:**
-- seventeen
-- fourteen
-- eighteen
-- eleven
+- 17
+- 18
+- 19
+- 20
 
-**Kunci Jawaban:** fourteen
+**Kunci Jawaban:** 19
 
-**Pembahasan:** "fourteen" berarti "empat belas".
+**Pembahasan:** Nineteen is written 19.
 
 ---
