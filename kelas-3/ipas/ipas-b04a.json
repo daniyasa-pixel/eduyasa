@@ -1,0 +1,354 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B04",
+      "chapter_title": "Siklus Hidup yang Menakjubkan",
+      "questions": [
+        {
+          "id": "K03-IPAS-B04-M01-051",
+          "type": "PG",
+          "text": "Pada tahap berlabel mana hewan aktif memakan daun?",
+          "options": [
+            "A",
+            "C",
+            "B",
+            "D"
+          ],
+          "answer": "B",
+          "discussion": "Gambar B menunjukkan ulat pada tahap makan; A telur, C pupa, dan D dewasa.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-01.svg",
+            "alt": "Urutan gambar kupu-kupu: A telur pada daun; B ulat memakan daun; C tubuh terbungkus melekat pada ranting; D kupu-kupu bersayap lebar."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-052",
+          "type": "PG",
+          "text": "Tahap berlabel mana berada tepat sebelum kupu-kupu bersayap?",
+          "options": [
+            "A",
+            "B",
+            "D",
+            "C"
+          ],
+          "answer": "C",
+          "discussion": "Panah menempatkan tubuh terbungkus pada C sebelum bentuk dewasa D.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-01.svg",
+            "alt": "Urutan gambar kupu-kupu: A telur pada daun; B ulat memakan daun; C tubuh terbungkus melekat pada ranting; D kupu-kupu bersayap lebar."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-053",
+          "type": "PG",
+          "text": "Berdasarkan tahap pada diagram, daur jangkrik termasuk ...",
+          "options": [
+            "Metamorfosis tidak sempurna",
+            "Metamorfosis sempurna dengan pupa",
+            "Daur yang tidak mempunyai telur",
+            "Daur yang hanya mempunyai tahap dewasa"
+          ],
+          "answer": "Metamorfosis tidak sempurna",
+          "discussion": "Diagram menampilkan telur, nimfa, dan dewasa tanpa pupa, ciri metamorfosis tidak sempurna.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-02.svg",
+            "alt": "Daur jangkrik terdiri atas A telur, B nimfa kecil dengan sayap belum sempurna, C dewasa dengan sayap berkembang; tidak ada tahap pupa."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-054",
+          "type": "PG",
+          "text": "Perubahan dari B ke C terutama tampak pada ...",
+          "options": [
+            "Hilangnya semua kaki",
+            "Perkembangan sayap dan ukuran tubuh",
+            "Munculnya pupa yang membungkus tubuh",
+            "Perubahan menjadi berudu"
+          ],
+          "answer": "Perkembangan sayap dan ukuran tubuh",
+          "discussion": "B menunjukkan nimfa kecil dengan sayap belum sempurna, sedangkan C dewasa dengan sayap berkembang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-02.svg",
+            "alt": "Daur jangkrik terdiri atas A telur, B nimfa kecil dengan sayap belum sempurna, C dewasa dengan sayap berkembang; tidak ada tahap pupa."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-055",
+          "type": "PG",
+          "text": "Label mana menunjukkan tahap berkaki tetapi masih berekor panjang?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "C",
+          "discussion": "Pada C terlihat kaki dan ekor panjang sekaligus; B belum berkaki, sedangkan D tidak berekor.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-03.svg",
+            "alt": "Urutan katak: A telur; B berudu berekor tanpa kaki yang tampak; C berudu berkaki dengan ekor panjang; D katak berkaki tanpa ekor."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-056",
+          "type": "PG",
+          "text": "Perubahan bagian tubuh yang tampak dari C ke D ialah ...",
+          "options": [
+            "Kaki hilang dan ekor makin panjang",
+            "Tubuh kembali menjadi telur yang sama",
+            "Tubuh terbungkus pupa",
+            "Ekor berangsur hilang sementara kaki tetap ada"
+          ],
+          "answer": "Ekor berangsur hilang sementara kaki tetap ada",
+          "discussion": "C masih berekor dan berkaki, sedangkan D berkaki tanpa ekor, sesuai perubahan menuju katak muda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-03.svg",
+            "alt": "Urutan katak: A telur; B berudu berekor tanpa kaki yang tampak; C berudu berkaki dengan ekor panjang; D katak berkaki tanpa ekor."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-057",
+          "type": "PG",
+          "text": "Tahap berlabel mana menunjukkan awal perkecambahan?",
+          "options": [
+            "B",
+            "A",
+            "D",
+            "E"
+          ],
+          "answer": "B",
+          "discussion": "B memperlihatkan akar kecil keluar dari biji; A belum berkecambah dan D serta E tahap lebih lanjut.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-04.svg",
+            "alt": "Urutan tomat: A biji; B akar kecil keluar; C tanaman muda berdaun; D berbunga; E berbuah."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-058",
+          "type": "PG",
+          "text": "Jika ingin memperoleh biji untuk menanam generasi berikutnya, bagian pada tahap mana dapat diperiksa?",
+          "options": [
+            "B",
+            "E",
+            "C",
+            "D"
+          ],
+          "answer": "E",
+          "discussion": "E memperlihatkan buah tomat yang dapat berisi biji; akar dan daun bukan tempat biji tomat terbentuk.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-04.svg",
+            "alt": "Urutan tomat: A biji; B akar kecil keluar; C tanaman muda berdaun; D berbunga; E berbuah."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-059",
+          "type": "PG",
+          "text": "Wadah mana mempunyai paling banyak biji berkecambah pada catatan itu?",
+          "options": [
+            "P",
+            "R",
+            "Q",
+            "Ketiganya sama banyak"
+          ],
+          "answer": "Q",
+          "discussion": "Tabel menunjukkan Q empat biji, R satu, dan P tidak ada yang berkecambah pada hari keempat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-05.svg",
+            "alt": "Hasil hari keempat: empat biji kacang hijau tiap wadah. P kapas kering: nol berkecambah; Q kapas lembap: empat; R tergenang: satu. Jenis biji, suhu, tempat, dan waktu sama."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-060",
+          "type": "PG",
+          "text": "Kesimpulan mana melampaui hasil percobaan yang ditampilkan?",
+          "options": [
+            "Pada pengamatan ini hasil P dan Q berbeda",
+            "Pada hari keempat masih ada biji R yang belum berkecambah",
+            "Dalam catatan ini Q lebih banyak berkecambah daripada R",
+            "Semua biji dari semua jenis pasti tumbuh jika tergenang"
+          ],
+          "answer": "Semua biji dari semua jenis pasti tumbuh jika tergenang",
+          "discussion": "Data hanya berasal dari kacang hijau pada percobaan ini; hasilnya tidak membuktikan kepastian untuk semua jenis biji.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-05.svg",
+            "alt": "Hasil hari keempat: empat biji kacang hijau tiap wadah. P kapas kering: nol berkecambah; Q kapas lembap: empat; R tergenang: satu. Jenis biji, suhu, tempat, dan waktu sama."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-061",
+          "type": "PG",
+          "text": "Kesimpulan yang didukung perbandingan dua tanaman ialah ...",
+          "options": [
+            "Tanaman yang lebih panjang belum tentu lebih sehat",
+            "Tanaman B pasti lebih sehat karena lebih panjang",
+            "Tanaman A tidak memerlukan air",
+            "Kegelapan selalu menghasilkan daun hijau kuat"
+          ],
+          "answer": "Tanaman yang lebih panjang belum tentu lebih sehat",
+          "discussion": "B lebih panjang tetapi pucat dan lemah, sedangkan A hijau dan tegak; tinggi bukan satu-satunya ciri pertumbuhan baik.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-06.svg",
+            "alt": "Dua tanaman kacang hijau sejenis dan seumur, air serta media sama. A dekat jendela, lebih pendek, hijau dan tegak. B dalam lemari gelap, lebih panjang, pucat dan lemah."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-062",
+          "type": "PG",
+          "text": "Untuk membantu tanaman B, perubahan tempat yang sesuai ialah ...",
+          "options": [
+            "Tetap dalam lemari gelap selamanya",
+            "Ke tempat bercahaya yang sesuai secara bertahap dengan arahan guru",
+            "Ke wadah tertutup rapat tanpa udara",
+            "Ke tempat yang airnya ditiadakan seluruhnya"
+          ],
+          "answer": "Ke tempat bercahaya yang sesuai secara bertahap dengan arahan guru",
+          "discussion": "B kekurangan cahaya dalam lemari; guru dapat membantunya memperoleh cahaya sesuai kebutuhan, sambil menjaga air dan kondisi lain.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-06.svg",
+            "alt": "Dua tanaman kacang hijau sejenis dan seumur, air serta media sama. A dekat jendela, lebih pendek, hijau dan tegak. B dalam lemari gelap, lebih panjang, pucat dan lemah."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-063",
+          "type": "PG",
+          "text": "Pot mana perlu diperiksa lubang pembuangan airnya?",
+          "options": [
+            "P",
+            "R",
+            "Q",
+            "Semua pot pasti sudah kering"
+          ],
+          "answer": "Q",
+          "discussion": "Q tampak tergenang; lubang tersumbat dapat mempertahankan genangan dan mengganggu akar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-07.svg",
+            "alt": "Tiga kondisi: P tanah pot retak dan kering; Q air menggenang di pot; R batang bengkok karena angin."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-064",
+          "type": "PG",
+          "text": "Tindakan yang paling sesuai untuk kondisi R ialah ...",
+          "options": [
+            "Menambahkan air sampai menggenang",
+            "Meletakkan pot di tempat yang lebih terbuka terhadap angin",
+            "Mengurangi air saja tanpa mengatasi angin",
+            "Melindungi dari angin kencang dengan bantuan orang dewasa"
+          ],
+          "answer": "Melindungi dari angin kencang dengan bantuan orang dewasa",
+          "discussion": "Batang R bengkok akibat angin, sehingga perlindungan tempat perlu didahulukan, bukan menambah genangan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-07.svg",
+            "alt": "Tiga kondisi: P tanah pot retak dan kering; Q air menggenang di pot; R batang bengkok karena angin."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-065",
+          "type": "PG",
+          "text": "Kerusakan luas pada bagian C terutama dapat mengganggu ...",
+          "options": [
+            "Pembuatan makanan oleh tumbuhan",
+            "Penyerapan air langsung oleh akar",
+            "Penyimpanan biji di dalam buah",
+            "Pembentukan serbuk sari pada bunga"
+          ],
+          "answer": "Pembuatan makanan oleh tumbuhan",
+          "discussion": "C menunjuk daun, tempat utama pembuatan makanan tumbuhan hijau. Opsi lain terutama berkaitan dengan bagian yang berbeda.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-08.svg",
+            "alt": "Tanaman tomat dengan garis penunjuk: A ke akar di bawah tanah, B ke batang, C ke daun, D ke bunga, E ke buah."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-066",
+          "type": "PG",
+          "text": "Bagian berlabel mana melindungi biji tomat yang berkembang di dalamnya?",
+          "options": [
+            "A",
+            "E",
+            "B",
+            "D"
+          ],
+          "answer": "E",
+          "discussion": "E menunjuk buah, sedangkan A akar, B batang, dan D bunga; biji tomat berkembang di dalam buah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-08.svg",
+            "alt": "Tanaman tomat dengan garis penunjuk: A ke akar di bawah tanah, B ke batang, C ke daun, D ke bunga, E ke buah."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-067",
+          "type": "PG",
+          "text": "Jika seluruh tanaman di P diganti paving, kebutuhan mana yang langsung kehilangan sumber pada denah?",
+          "options": [
+            "Air kolam R yang masih ada",
+            "Jalur berpaving Q yang masih ada",
+            "Makanan ulat pengamatan",
+            "Ruang berjalan pada jalur Q"
+          ],
+          "answer": "Makanan ulat pengamatan",
+          "discussion": "Keterangan menyatakan ulat makan daun tanaman P; penggantian semua tanaman menghilangkan sumber makan itu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-09.svg",
+            "alt": "Denah taman dari kiri: P berisi tanaman berdaun dan bunga; Q jalur berpaving; R kolam. Ulat pengamatan makan daun tanaman P; kupu-kupu dewasa mengunjungi bunganya."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-068",
+          "type": "PG",
+          "text": "Agar tanaman makanan ulat tidak terinjak, jalur berjalan yang sesuai pada denah ialah ...",
+          "options": [
+            "P",
+            "R",
+            "Melintasi P lalu masuk R",
+            "Q"
+          ],
+          "answer": "Q",
+          "discussion": "Q merupakan jalur berpaving; menggunakannya menjaga tanaman P dan menghindari masuk ke kolam.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-09.svg",
+            "alt": "Denah taman dari kiri: P berisi tanaman berdaun dan bunga; Q jalur berpaving; R kolam. Ulat pengamatan makan daun tanaman P; kupu-kupu dewasa mengunjungi bunganya."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-069",
+          "type": "PG",
+          "text": "Bukti pertumbuhan ukuran ayam terdapat pada perbandingan catatan ...",
+          "options": [
+            "13 Juni dengan 30 Juni",
+            "12 Juni dengan 13 Juni saja",
+            "Judul dengan tanggal 12 Juni",
+            "Keterangan 12 Juni saja"
+          ],
+          "answer": "13 Juni dengan 30 Juni",
+          "discussion": "Pada 13 Juni anak ayam baru menetas, lalu 30 Juni anak yang sama lebih besar. Perbandingan dua tahap anak ayam itu menunjukkan perubahan ukuran.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-10.svg",
+            "alt": "Catatan satu ayam: 12 Juni telur yang sedang dierami; 13 Juni anak ayam baru menetas; 30 Juni anak ayam yang sama lebih besar. Tanggal menunjukkan waktu pengamatan, bukan lama seluruh daur."
+          }
+        },
+        {
+          "id": "K03-IPAS-B04-M01-070",
+          "type": "PG",
+          "text": "Mengapa tidak boleh menyimpulkan semua telur ayam hanya memerlukan satu hari untuk menetas dari catatan ini?",
+          "options": [
+            "Tanggal pengamatan selalu menunjukkan awal terbentuknya telur",
+            "Catatan tidak menyebut kapan telur mulai berkembang atau dierami",
+            "Setiap telur mulai dierami pada 12 Juni",
+            "Gambar menyatakan semua ayam menetas pada tanggal sama"
+          ],
+          "answer": "Catatan tidak menyebut kapan telur mulai berkembang atau dierami",
+          "discussion": "Telur sudah sedang dierami saat pertama dicatat; selisih waktu pengamatan bukan lama seluruh perkembangan telur.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b04-gambar-10.svg",
+            "alt": "Catatan satu ayam: 12 Juni telur yang sedang dierami; 13 Juni anak ayam baru menetas; 30 Juni anak ayam yang sama lebih besar. Tanggal menunjukkan waktu pengamatan, bukan lama seluruh daur."
+          }
+        }
+      ]
+    }
+  ]
+}
