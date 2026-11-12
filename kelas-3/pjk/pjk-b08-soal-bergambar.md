@@ -1,12 +1,12 @@
 # Unit 8 — Aktivitas Fisik dan Memilih Makanan Bergizi
 
-10 soal bergambar, **DRAF**. Ilustrasi SVG bersifat simbolik, belum ilustrasi gerak yang spesifik.
+10 soal bergambar telah direvisi dengan konteks; diagram SVG diproses terpisah dan pemeriksaan visual akhir masih diperlukan.
 
 ## Soal 36 — K03-PJK-B08-M01-036
 
 ![Ilustrasi Air putih](assets/pjk-b08-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Air putih". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Setelah bergerak, anak mengisi kembali minumannya. Untuk kebutuhan tubuh apa hal ini dilakukan?
 
 **Pilihan jawaban:**
 - tidak diperlukan
@@ -24,7 +24,7 @@
 
 ![Ilustrasi Sarapan bergizi](assets/pjk-b08-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Sarapan bergizi". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Anak memilih sarapan beragam sebelum belajar. Manfaatnya ialah ....
 
 **Pilihan jawaban:**
 - harus dilewatkan
@@ -42,7 +42,7 @@
 
 ![Ilustrasi Cuci tangan sebelum makan](assets/pjk-b08-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Cuci tangan sebelum makan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Siswa mencuci tangan sebelum memegang makanan. Mengapa kebiasaan itu baik?
 
 **Pilihan jawaban:**
 - membantu mengurangi perpindahan kuman
@@ -60,7 +60,7 @@
 
 ![Ilustrasi Tidur cukup](assets/pjk-b08-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Tidur cukup". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Gambar menunjukkan waktu istirahat malam. Manfaatnya bagi tubuh ialah ....
 
 **Pilihan jawaban:**
 - menggantikan makan
@@ -78,7 +78,7 @@
 
 ![Ilustrasi Pilihan jajanan](assets/pjk-b08-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Pilihan jajanan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Dua jajanan berbeda kebersihannya. Cara memilih yang aman adalah ....
 
 **Pilihan jawaban:**
 - pilih yang kedaluwarsa
@@ -96,7 +96,7 @@
 
 ![Ilustrasi Aktivitas fisik](assets/pjk-b08-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang aktivitas fisik?
+**Pertanyaan:** Anak berjalan dan bermain aktif. Mengapa kegiatan ini termasuk aktivitas fisik?
 
 **Pilihan jawaban:**
 - hanya duduk
@@ -114,7 +114,7 @@
 
 ![Ilustrasi Makanan bergizi seimbang](assets/pjk-b08-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang makanan bergizi seimbang?
+**Pertanyaan:** Satu piring berisi makanan beragam, bukan satu jenis saja. Prinsip makan yang sesuai ialah ....
 
 **Pilihan jawaban:**
 - beragam sesuai kebutuhan tubuh
@@ -132,7 +132,7 @@
 
 ![Ilustrasi Sumber protein](assets/pjk-b08-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang sumber protein?
+**Pertanyaan:** Gambar menampilkan telur, ikan, dan tempe. Zat gizi utama apa yang dicontohkan?
 
 **Pilihan jawaban:**
 - permen
@@ -150,7 +150,7 @@
 
 ![Ilustrasi Sayur dan buah](assets/pjk-b08-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang sayur dan buah?
+**Pertanyaan:** Sayur dan buah disajikan dalam menu anak. Apa manfaatnya?
 
 **Pilihan jawaban:**
 - selalu harus digoreng
@@ -168,7 +168,7 @@
 
 ![Ilustrasi Karbohidrat](assets/pjk-b08-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang karbohidrat?
+**Pertanyaan:** Makanan pokok seperti nasi dan kentang membantu tubuh memperoleh apa?
 
 **Pilihan jawaban:**
 - menggantikan air minum
