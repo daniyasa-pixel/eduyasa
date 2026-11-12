@@ -668,3 +668,7 @@ Laporan lengkap termasuk SHA Markdown dan aturan audit output ada pada `kelas-3/
 ## Checkpoint 2026-11-12 — konversi SBD Bab 4–5 selesai
 
 Konversi tambahan **90 soal (70 teks, 20 bergambar) dan 4 modul Seni Rupa** menjadi 6 JSON selesai. Audit output JSON terhadap Markdown selesai: 90 ID unik dan berurutan, opsi/kunci/pembahasan/media serta keempat konten modul tepat sama, tidak ada mismatch. 20 SVG acuan tersedia. Manifest `kelas-3/sbd/question-packs.json` kini mencakup kelima bab. **TOTAL SBD: 225/225 soal dan 10 modul sudah terkonversi** ke 15 JSON. Laporan: `kelas-3/LAPORAN-AUDIT-JSON.md`. Integrasi `HTML/grade-config.js` dan uji browser/WebView **belum dikerjakan**; jangan klaim paket sudah aktif di aplikasi. Konversi ini tidak melibatkan audit ulang isi akademik.
+
+## Checkpoint 2026-11-12 — Konversi PAI 10 bab selesai
+
+Sepuluh bank PAI (`kelas-3/pai/pai-b01.json` hingga `pai-b10.json`) dan sepuluh modul JSON (`pai-b01-materi.json` hingga `pai-b10-materi.json`) dibuat dari Markdown tanpa perubahan konten. **300 soal + 20 modul** berhasil dibandingkan per ID/urutan/opsi/kunci/pembahasan/konten modul terhadap sumber pada GitHub; **0 mismatch**. Manifest `kelas-3/pai/question-packs.json` telah dibuat dengan 10 bab. Laporan detail dan SHA per sumber ada di `kelas-3/LAPORAN-AUDIT-JSON.md`. **PAI belum ditambahkan ke grade-config.js** dan belum diuji pada aplikasi HP/WebView. Konversi berikutnya dapat dilakukan tanpa audit akademik sesuai handover terbaru.
