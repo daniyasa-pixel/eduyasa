@@ -36,7 +36,7 @@
 
 ## Soal 3 — K03-SBD-B01-M01-003
 
-**Pertanyaan:** Seorang murid mengamati bentuk roda yang bundar. Roda dapat disederhanakan menjadi bentuk apa?
+**Pertanyaan:** Lingkaran pada roda dapat dikelompokkan sebagai bentuk apa dalam seni rupa?
 
 **Pilihan jawaban:**
 - rasa
