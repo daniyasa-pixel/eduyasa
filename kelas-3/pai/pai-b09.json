@@ -1,0 +1,404 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PAI-B09",
+      "chapter_title": "Senangnya Salat Rawatib",
+      "questions": [
+        {
+          "id": "K03-PAI-B09-M01-001",
+          "type": "PG",
+          "text": "Rina membaca jadwal “salat sunah yang mengiringi salat fardu”. Jenis salat apa yang dimaksud?",
+          "options": [
+            "Tahajud",
+            "Duha",
+            "Witir",
+            "Rawatib"
+          ],
+          "answer": "Rawatib",
+          "discussion": "Rawatib terikat pada salat fardu tertentu dan dikerjakan sebelum atau sesudahnya sesuai jenisnya."
+        },
+        {
+          "id": "K03-PAI-B09-M01-002",
+          "type": "PG",
+          "text": "Zaid salat dua rakaat setelah masuk waktu Subuh dan sebelum fardu Subuh. Bagaimana nama rawatib tersebut?",
+          "options": [
+            "Ba'diyah Zuhur",
+            "Qabliyah Subuh",
+            "Ba'diyah Subuh",
+            "Qabliyah Zuhur"
+          ],
+          "answer": "Qabliyah Subuh",
+          "discussion": "Qabliyah berarti sebelum salat fardu. Salat sunah pada contoh ini mendahului fardu Subuh."
+        },
+        {
+          "id": "K03-PAI-B09-M01-003",
+          "type": "PG",
+          "text": "Setelah salam fardu Magrib, Lina mengerjakan dua rakaat rawatib. Apa nama salat itu?",
+          "options": [
+            "Ba'diyah Isya",
+            "Qabliyah Magrib",
+            "Ba'diyah Magrib",
+            "Qabliyah Isya"
+          ],
+          "answer": "Ba'diyah Magrib",
+          "discussion": "Ba'diyah berarti sesudah salat fardu. Salat fardu yang mendahuluinya ialah Magrib."
+        },
+        {
+          "id": "K03-PAI-B09-M01-004",
+          "type": "PG",
+          "text": "Manakah urutan yang menempatkan dua rawatib Zuhur di sisi yang tepat?",
+          "options": [
+            "Qabliyah Zuhur → fardu Zuhur → ba'diyah Zuhur",
+            "Ba'diyah Zuhur → fardu Zuhur → qabliyah Zuhur",
+            "Fardu Zuhur → qabliyah Zuhur → ba'diyah Zuhur",
+            "Qabliyah Zuhur → ba'diyah Zuhur → fardu Zuhur"
+          ],
+          "answer": "Qabliyah Zuhur → fardu Zuhur → ba'diyah Zuhur",
+          "discussion": "Rawatib qabliyah berada sebelum fardu Zuhur, sedangkan ba'diyah berada sesudahnya."
+        },
+        {
+          "id": "K03-PAI-B09-M01-005",
+          "type": "PG",
+          "text": "Fardu Magrib sudah akan dimulai. Beni ingin mengerjakan salat sunah. Apa yang ia dahulukan?",
+          "options": [
+            "Ikut salat fardu Magrib",
+            "Kerjakan rawatib saja karena jumlah rakaatnya lebih sedikit",
+            "Mulai qabliyah saat fardu sudah dimulai",
+            "Mulai ba'diyah Magrib sebelum fardu"
+          ],
+          "answer": "Ikut salat fardu Magrib",
+          "discussion": "Salat fardu didahulukan ketika jemaah akan mulai. Rawatib berstatus sunah."
+        },
+        {
+          "id": "K03-PAI-B09-M01-006",
+          "type": "PG",
+          "text": "Guru menulis “sangat dianjurkan”. Istilah apa yang cocok dengan keterangan tersebut?",
+          "options": [
+            "Fardu kifayah",
+            "Sunah muakkadah",
+            "Fardu ain",
+            "Sunah ghairu muakkadah"
+          ],
+          "answer": "Sunah muakkadah",
+          "discussion": "Muakkadah berarti sangat dianjurkan. Jenis ini tetap salat sunah."
+        },
+        {
+          "id": "K03-PAI-B09-M01-007",
+          "type": "PG",
+          "text": "Dalam tabel kelas, 2 rakaat sebelum Subuh dan 4 rakaat sebelum Asar berada di dua kelompok berbeda. Bagaimana klasifikasinya menurut buku?",
+          "options": [
+            "Keduanya muakkadah",
+            "Keduanya ghairu muakkadah",
+            "Sebelum Subuh muakkadah, sebelum Asar ghairu muakkadah",
+            "Sebelum Subuh ghairu muakkadah, sebelum Asar muakkadah"
+          ],
+          "answer": "Sebelum Subuh muakkadah, sebelum Asar ghairu muakkadah",
+          "discussion": "Buku mencantumkan qabliyah Subuh sebagai sangat dianjurkan, sedangkan qabliyah Asar sebagai anjuran yang tidak sekuat itu."
+        },
+        {
+          "id": "K03-PAI-B09-M01-008",
+          "type": "PG",
+          "text": "Kapan dua rakaat ba'diyah Isya dilaksanakan?",
+          "options": [
+            "Setelah fardu Magrib",
+            "Sebelum fardu Subuh",
+            "Sebelum fardu Isya",
+            "Setelah fardu Isya"
+          ],
+          "answer": "Setelah fardu Isya",
+          "discussion": "Nama Isya menunjukkan salat fardu yang diiringi. Kata ba'diyah menempatkan rawatib sesudahnya."
+        },
+        {
+          "id": "K03-PAI-B09-M01-009",
+          "type": "PG",
+          "text": "Menurut contoh buku, kelompok mana yang semuanya contoh ba'diyah muakkadah?",
+          "options": [
+            "Sebelum Zuhur, sesudah Magrib, dan sebelum Isya",
+            "Sesudah Zuhur, Magrib, dan Isya",
+            "Sebelum Subuh, Zuhur, dan Isya",
+            "Sesudah Zuhur, sebelum Subuh, dan sesudah Isya"
+          ],
+          "answer": "Sesudah Zuhur, Magrib, dan Isya",
+          "discussion": "Ketiga contoh itu mengikuti salat fardunya dan dicantumkan sebagai ba'diyah yang sangat dianjurkan."
+        },
+        {
+          "id": "K03-PAI-B09-M01-010",
+          "type": "PG",
+          "text": "Damar menaruh dua rakaat sebelum Magrib dalam daftar ba'diyah. Di mana catatan itu seharusnya diletakkan?",
+          "options": [
+            "Qabliyah ghairu muakkadah",
+            "Qabliyah muakkadah",
+            "Ba'diyah muakkadah",
+            "Ba'diyah ghairu muakkadah"
+          ],
+          "answer": "Qabliyah ghairu muakkadah",
+          "discussion": "Kata “sebelum” menunjukkan qabliyah. Dua rakaat sebelum Magrib termasuk contoh ghairu muakkadah dalam buku."
+        },
+        {
+          "id": "K03-PAI-B09-M01-011",
+          "type": "PG",
+          "text": "Kartu “qabliyah Subuh” terselip setelah kartu “fardu Subuh”. Bagaimana memperbaiki urutannya?",
+          "options": [
+            "Ganti fardu Subuh dengan fardu Magrib.",
+            "Tukar nama Subuh dengan Zuhur di kedua kartu.",
+            "Pindahkan kartu qabliyah ke sebelum kartu fardu Subuh.",
+            "Tambahkan kartu ba'diyah sebelum qabliyah."
+          ],
+          "answer": "Pindahkan kartu qabliyah ke sebelum kartu fardu Subuh.",
+          "discussion": "Urutan keliru terletak pada posisi qabliyah. Nama salat fardu pada kedua kartu sudah tepat."
+        },
+        {
+          "id": "K03-PAI-B09-M01-012",
+          "type": "PG",
+          "text": "Nisa melihat ada yang mencontohkan dua rakaat sebelum Zuhur dan ada yang mengerjakan empat. Apa tanggapan paling tepat?",
+          "options": [
+            "Dua rakaat selalu keliru untuk rawatib Zuhur.",
+            "Ada beberapa contoh dari riwayat yang dipelajari. Tanyakan rinciannya kepada guru.",
+            "Salah satu pasti ba'diyah meski keduanya sebelum fardu.",
+            "Empat rakaat berarti salat fardu sudah selesai."
+          ],
+          "answer": "Ada beberapa contoh dari riwayat yang dipelajari. Tanyakan rinciannya kepada guru.",
+          "discussion": "Jumlah rakaat sunah sebelum Zuhur muncul dalam beberapa riwayat. Posisi terhadap salat fardu menentukan sebutan qabliyah."
+        },
+        {
+          "id": "K03-PAI-B09-M01-013",
+          "type": "PG",
+          "text": "Apa yang diniatkan dalam hati ketika akan berlatih dua rakaat sebelum fardu Subuh?",
+          "options": [
+            "Melaksanakan salat sunah qabliyah Zuhur karena Allah",
+            "Melaksanakan salat sunah ba'diyah Subuh karena Allah",
+            "Melaksanakan salat fardu Subuh karena Allah",
+            "Melaksanakan salat sunah qabliyah Subuh karena Allah"
+          ],
+          "answer": "Melaksanakan salat sunah qabliyah Subuh karena Allah",
+          "discussion": "Niat dalam hati menentukan ibadah yang akan dikerjakan. Pada contoh ini salatnya sunah sebelum Subuh."
+        },
+        {
+          "id": "K03-PAI-B09-M01-014",
+          "type": "PG",
+          "text": "Dio lancar mengucapkan contoh lafaz niat, tetapi bingung menentukan salatnya. Apa yang perlu dibenahi terlebih dahulu?",
+          "options": [
+            "Ulangi lafaz secepat mungkin sebelum tahu jenis salatnya.",
+            "Ganti niat sesuai salat yang dikerjakan temannya.",
+            "Tunggu sampai salam untuk menentukan niatnya.",
+            "Sadari dalam hati salat yang akan ia kerjakan."
+          ],
+          "answer": "Sadari dalam hati salat yang akan ia kerjakan.",
+          "discussion": "Niat terletak di hati ketika memulai ibadah. Memahami salat yang dituju membantu Dio meniatkannya dengan tepat."
+        },
+        {
+          "id": "K03-PAI-B09-M01-015",
+          "type": "PG",
+          "text": "Sebelum berlatih rawatib, bagaimana persiapan yang benar?",
+          "options": [
+            "Bersuci tetapi bebas memilih arah tanpa memperhatikan kiblat",
+            "Memilih tempat lalu mulai meski belum bersuci",
+            "Bersuci, menutup aurat, dan menghadap kiblat",
+            "Menghadap kiblat lalu bersuci setelah salam"
+          ],
+          "answer": "Bersuci, menutup aurat, dan menghadap kiblat",
+          "discussion": "Rawatib adalah salat, sehingga persiapannya tetap mengikuti syarat salat yang dipelajari."
+        },
+        {
+          "id": "K03-PAI-B09-M01-016",
+          "type": "PG",
+          "text": "Apa urutan yang tepat setelah takbir pembuka dan bacaan pada rakaat pertama?",
+          "options": [
+            "Rukuk → iktidal → sujud",
+            "Sujud → rukuk → iktidal",
+            "Rukuk → sujud → iktidal",
+            "Iktidal → rukuk → sujud"
+          ],
+          "answer": "Rukuk → iktidal → sujud",
+          "discussion": "Iktidal adalah bangkit dan berdiri kembali setelah rukuk. Sesudah itu barulah sujud."
+        },
+        {
+          "id": "K03-PAI-B09-M01-017",
+          "type": "PG",
+          "text": "Rani baru melakukan sujud pertama pada rakaat pertama. Apa yang ia kerjakan berikutnya?",
+          "options": [
+            "Rukuk kembali sebelum sujud kedua",
+            "Duduk di antara dua sujud, lalu sujud kedua",
+            "Duduk tasyahud akhir, lalu salam",
+            "Berdiri langsung untuk rakaat berikutnya"
+          ],
+          "answer": "Duduk di antara dua sujud, lalu sujud kedua",
+          "discussion": "Setiap rakaat memiliki dua sujud dengan duduk di antaranya. Setelah sujud kedua pada rakaat pertama, barulah bersiap berdiri untuk rakaat kedua."
+        },
+        {
+          "id": "K03-PAI-B09-M01-018",
+          "type": "PG",
+          "text": "Pada latihan rawatib dua rakaat, kapan tasyahud akhir dilakukan?",
+          "options": [
+            "Sebelum rukuk pada rakaat kedua",
+            "Setelah salam pada rakaat kedua",
+            "Setelah sujud pertama pada rakaat pertama",
+            "Setelah sujud kedua pada rakaat kedua, sebelum salam"
+          ],
+          "answer": "Setelah sujud kedua pada rakaat kedua, sebelum salam",
+          "discussion": "Tasyahud akhir adalah duduk dan bacaan penutup sebelum salam. Pada latihan dua rakaat, posisinya di akhir rakaat kedua."
+        },
+        {
+          "id": "K03-PAI-B09-M01-019",
+          "type": "PG",
+          "text": "Andi terburu-buru berpindah gerakan tanpa sempat tenang ketika rukuk. Apa masukan yang tepat?",
+          "options": [
+            "Percepat juga sujud supaya waktunya seimbang.",
+            "Akhiri salat sesaat setelah rukuk pertama.",
+            "Berhenti sejenak dengan tenang ketika rukuk sebelum bangkit.",
+            "Ganti rukuk dengan berdiri lebih lama pada rakaat berikutnya."
+          ],
+          "answer": "Berhenti sejenak dengan tenang ketika rukuk sebelum bangkit.",
+          "discussion": "Tuma'ninah berarti tenang sejenak pada posisi yang dipelajari. Gerakan tidak dilakukan tergesa-gesa."
+        },
+        {
+          "id": "K03-PAI-B09-M01-020",
+          "type": "PG",
+          "text": "Temanmu ingin mengoreksi praktik rawatibnya. Umpan balik mana yang paling membantu?",
+          "options": [
+            "Bandingkan jumlah rakaatnya dengan semua teman tanpa melihat jenis salat.",
+            "Sebutkan satu langkah yang perlu diulang dan minta guru memandu.",
+            "Beri nilai dari kecepatan menyelesaikan gerakan.",
+            "Katakan bahwa semua urutannya benar tanpa menyimak."
+          ],
+          "answer": "Sebutkan satu langkah yang perlu diulang dan minta guru memandu.",
+          "discussion": "Koreksi yang spesifik dan arahan guru membantu teman mengetahui langkah yang perlu diperbaiki."
+        },
+        {
+          "id": "K03-PAI-B09-M01-021",
+          "type": "PG",
+          "text": "Bagaimana menghubungkan rawatib dengan kebiasaan disiplin di rumah?",
+          "options": [
+            "Menyiapkan kebutuhan dan mengerjakan tugas sesuai waktu yang disepakati.",
+            "Mengerjakan semua tugas sekaligus ketika sudah terlambat.",
+            "Memilih tugas hanya berdasarkan mana yang paling mudah.",
+            "Mengubah jadwal tanpa memberi tahu orang yang terlibat."
+          ],
+          "answer": "Menyiapkan kebutuhan dan mengerjakan tugas sesuai waktu yang disepakati.",
+          "discussion": "Rawatib mengajarkan memperhatikan waktu. Disiplin juga terlihat saat menyiapkan dan menjalankan kegiatan sesuai jadwal."
+        },
+        {
+          "id": "K03-PAI-B09-M01-022",
+          "type": "PG",
+          "text": "Mengapa menjaga urutan gerakan saat latihan dapat melatih sikap tertib?",
+          "options": [
+            "Karena yang penting semua gerakan selesai secepatnya.",
+            "Karena anak bebas menukar setiap langkah yang diingat.",
+            "Karena anak membiasakan diri mengikuti langkah pada tempatnya.",
+            "Karena tertib hanya berarti diam selama latihan."
+          ],
+          "answer": "Karena anak membiasakan diri mengikuti langkah pada tempatnya.",
+          "discussion": "Ketertiban ditunjukkan dengan menjalankan langkah pada urutan yang benar, baik saat salat maupun kegiatan bersama."
+        },
+        {
+          "id": "K03-PAI-B09-M01-023",
+          "type": "PG",
+          "text": "Hana berkata bahwa salat rawatib membuatnya terbiasa menyiapkan waktu beribadah. Apa sikap yang sedang tumbuh?",
+          "options": [
+            "Disiplin",
+            "Mudah putus asa",
+            "Tergesa-gesa",
+            "Ingin dipuji"
+          ],
+          "answer": "Disiplin",
+          "discussion": "Menyiapkan waktu dan menjaga kebiasaan secara teratur adalah contoh disiplin."
+        },
+        {
+          "id": "K03-PAI-B09-M01-024",
+          "type": "PG",
+          "text": "Fikri berkata, “Kalau sempat rawatib, aku boleh melewatkan fardu.” Bagaimana memperbaiki pendapatnya?",
+          "options": [
+            "Fardu dan rawatib dapat dipilih bergantian.",
+            "Fardu tetap kewajiban. Rawatib adalah ibadah sunah yang menyertai fardu.",
+            "Fardu berubah menjadi sunah jika rawatib dilakukan.",
+            "Rawatib menjadi fardu saat tidak sempat salat wajib."
+          ],
+          "answer": "Fardu tetap kewajiban. Rawatib adalah ibadah sunah yang menyertai fardu.",
+          "discussion": "Rawatib memberi kesempatan menambah ibadah. Kewajiban salat fardu tetap berlaku."
+        },
+        {
+          "id": "K03-PAI-B09-M01-025",
+          "type": "PG",
+          "text": "Hadis riwayat Muslim menyebut keutamaan dua rakaat sebelum Subuh. Apa pelajaran yang sesuai?",
+          "options": [
+            "Menganggap semua salat dua rakaat pasti qabliyah Subuh.",
+            "Menjaga qabliyah Subuh sebagai ibadah sunah yang bernilai.",
+            "Mengganti fardu Subuh dengan dua rakaat qabliyah.",
+            "Menunda fardu Subuh karena rawatib lebih utama daripada kewajiban."
+          ],
+          "answer": "Menjaga qabliyah Subuh sebagai ibadah sunah yang bernilai.",
+          "discussion": "Hadis menerangkan keutamaan dua rakaat sunah tersebut. Ia tetap dikerjakan dengan mendahulukan kewajiban bila fardu segera dimulai."
+        },
+        {
+          "id": "K03-PAI-B09-M01-026",
+          "type": "PG",
+          "text": "Nani melewatkan rawatib karena harus segera mengikuti fardu. Apa kesimpulan yang tepat untuk kasus ini?",
+          "options": [
+            "Ia mendahulukan fardu dan dapat membiasakan rawatib pada kesempatan yang sesuai.",
+            "Fardu harus diganti dengan rawatib pada hari berikutnya.",
+            "Fardunya tidak sah karena rawatibnya terlewat.",
+            "Ia harus keluar dari jemaah untuk menyelesaikan rawatib dulu."
+          ],
+          "answer": "Ia mendahulukan fardu dan dapat membiasakan rawatib pada kesempatan yang sesuai.",
+          "discussion": "Rawatib bukan syarat sah salat fardu. Saat jemaah fardu akan mulai, yang wajib didahulukan."
+        },
+        {
+          "id": "K03-PAI-B09-M01-027",
+          "type": "PG",
+          "text": "Catatan mana yang menunjukkan nama, waktu, dan jumlah rakaat yang cocok?",
+          "options": [
+            "Ba'diyah Magrib — sesudah fardu Magrib — dua rakaat",
+            "Qabliyah Subuh — sesudah fardu Subuh — dua rakaat",
+            "Qabliyah Subuh — sebelum fardu Subuh — empat rakaat",
+            "Ba'diyah Magrib — sebelum fardu Magrib — dua rakaat"
+          ],
+          "answer": "Ba'diyah Magrib — sesudah fardu Magrib — dua rakaat",
+          "discussion": "Ba'diyah Magrib dicontohkan dua rakaat dan dilakukan sesudah fardu. Qabliyah Subuh dicontohkan dua rakaat sebelum fardu."
+        },
+        {
+          "id": "K03-PAI-B09-M01-028",
+          "type": "PG",
+          "text": "Apa arti melengkapi salat fardu sebagai salah satu hikmah rawatib?",
+          "options": [
+            "Menghapus kebutuhan belajar tata cara salat fardu.",
+            "Mengubah syarat fardu sesuai waktu yang tersedia.",
+            "Membuat fardu yang ditinggalkan dianggap sudah dikerjakan.",
+            "Menambah ibadah sunah sambil tetap melaksanakan fardu sesuai ketentuannya."
+          ],
+          "answer": "Menambah ibadah sunah sambil tetap melaksanakan fardu sesuai ketentuannya.",
+          "discussion": "Ibadah sunah menyertai ibadah wajib. Syarat dan tata cara fardu tetap perlu dijaga."
+        },
+        {
+          "id": "K03-PAI-B09-M01-029",
+          "type": "PG",
+          "text": "Kelompokmu ingin belajar rawatib Isya dari dua kartu. Mana pasangan kartu yang sama-sama sesuai dengan contoh buku?",
+          "options": [
+            "Sebelum Isya ba'diyah dan sesudah Isya qabliyah",
+            "Sebelum Isya muakkadah dan sesudah Isya ghairu muakkadah",
+            "Sebelum Isya fardu dan sesudah Isya fardu",
+            "Sebelum Isya ghairu muakkadah dan sesudah Isya muakkadah"
+          ],
+          "answer": "Sebelum Isya ghairu muakkadah dan sesudah Isya muakkadah",
+          "discussion": "Buku memberi contoh dua rakaat sebelum Isya sebagai ghairu muakkadah dan dua rakaat sesudahnya sebagai muakkadah."
+        },
+        {
+          "id": "K03-PAI-B09-M01-030",
+          "type": "PG",
+          "text": "Untuk menilai pemahaman dan praktik rawatib, kegiatan apa yang paling lengkap?",
+          "options": [
+            "Hafalkan nama salat tanpa menyebut kapan waktunya.",
+            "Kerjakan dua rakaat tanpa menjelaskan salat yang sedang dilatih.",
+            "Jelaskan waktu salatnya, susun urutannya, lalu praktikkan dua rakaat di hadapan guru.",
+            "Buat daftar waktu fardu tanpa membahas rawatib."
+          ],
+          "answer": "Jelaskan waktu salatnya, susun urutannya, lalu praktikkan dua rakaat di hadapan guru.",
+          "discussion": "Menjelaskan waktu dan urutan menilai pemahaman. Praktik yang disimak guru menilai pelaksanaan gerakan serta bacaan."
+        }
+      ]
+    }
+  ]
+}
