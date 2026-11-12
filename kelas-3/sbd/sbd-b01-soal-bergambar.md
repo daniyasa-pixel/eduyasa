@@ -1,12 +1,12 @@
 # Bab 1 — Menemukan Keindahan di Sekitar Kita
 
-10 soal bergambar — ilustrasi masih skematis dan perlu pengembangan sesuai konteks pertanyaan.
+10 soal bergambar — pertanyaan sudah disesuaikan dengan situasi ilustrasi; media ditangani terpisah.
 
 ## Soal 36 — K03-SBD-B01-M01-036
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Pencampuran cat merah dan kuning umumnya menghasilkan ....
+**Pertanyaan:** Dua cat pada ilustrasi dicampurkan. Hasil campuran merah dan kuning umumnya berwarna ....
 
 **Pilihan jawaban:**
 - hijau
@@ -24,7 +24,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Benda yang terlihat lebih dekat biasanya digambar ....
+**Pertanyaan:** Perhatikan dua pohon sejenis dengan jarak pandang berbeda. Agar kesan kedalaman tampak, pohon depan sebaiknya digambar ....
 
 **Pilihan jawaban:**
 - lebih besar dibanding benda sejenis yang jauh
@@ -42,7 +42,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Mengamati daun sebelum menggambar membantu mengenali ....
+**Pertanyaan:** Perhatikan gambar daun. Sebelum menggambar ulang, detail apa yang sebaiknya diamati?
 
 **Pilihan jawaban:**
 - harga daun
@@ -60,7 +60,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Garis mendatar disebut juga garis ....
+**Pertanyaan:** Garis pada ilustrasi terbentang mendatar sejajar tepi bawah kertas. Nama garis itu adalah ....
 
 **Pilihan jawaban:**
 - diagonal
@@ -78,7 +78,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Garis tegak disebut garis ....
+**Pertanyaan:** Perhatikan garis yang ditarik dari bawah ke atas pada ilustrasi. Sebutan garis itu adalah ....
 
 **Pilihan jawaban:**
 - horizontal
@@ -96,7 +96,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Pola yang berulang pada kain disebut ....
+**Pertanyaan:** Pada pola hias kain, bentuk yang sama muncul berulang. Istilah untuk susunan berulang ialah ....
 
 **Pilihan jawaban:**
 - motif
@@ -114,7 +114,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Saat menggambar pemandangan, bagian langit biasanya berada ....
+**Pertanyaan:** Gambar pemandangan dibagi oleh garis cakrawala. Letak langit yang umum adalah ....
 
 **Pilihan jawaban:**
 - di belakang kertas
@@ -132,7 +132,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Permukaan kapas umumnya terasa ....
+**Pertanyaan:** Ilustrasi menunjukkan kapas dengan permukaan yang tidak tajam. Kesan raba kapas adalah ....
 
 **Pilihan jawaban:**
 - keras seperti besi
@@ -150,7 +150,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Garis miring disebut garis ....
+**Pertanyaan:** Perhatikan jejak dari sudut kiri bawah menuju kanan atas. Jenis garis pada gambar tersebut ialah ....
 
 **Pilihan jawaban:**
 - horizontal
@@ -168,7 +168,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Sikap baik saat mengamati lingkungan untuk menggambar adalah ....
+**Pertanyaan:** Sekelompok siswa mengamati tanaman di halaman untuk digambar. Apa sikap yang sesuai saat berkarya di sana?
 
 **Pilihan jawaban:**
 - menjaga kebersihan dan tidak merusak tanaman
