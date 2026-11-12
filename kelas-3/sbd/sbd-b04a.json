@@ -1,0 +1,184 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Rupa",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-SBD-B04",
+      "chapter_title": "Karya yang Mewakili Diriku",
+      "questions": [
+        {
+          "id": "K03-SBD-B04-M01-036",
+          "type": "PG",
+          "text": "Tokoh pada gambar tersenyum dan matanya tampak ceria. Perasaan yang biasa ditampilkan adalah ....",
+          "options": [
+            "perasaan senang",
+            "perasaan marah",
+            "perasaan takut",
+            "perasaan bosan"
+          ],
+          "answer": "perasaan senang",
+          "discussion": "Ekspresi wajah tersenyum sering menunjukkan perasaan senang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b04-gambar-01.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B04-M01-037",
+          "type": "PG",
+          "text": "Wajah dalam gambar menunjukkan alis menurun dan air mata. Perasaan yang mungkin ditunjukkan adalah ....",
+          "options": [
+            "terkejut",
+            "sedih",
+            "gembira",
+            "bangga"
+          ],
+          "answer": "sedih",
+          "discussion": "Ekspresi wajah dengan alis menurun dan air mata dapat menunjukkan sedih.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b04-gambar-02.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B04-M01-038",
+          "type": "PG",
+          "text": "Dua potret diri pada ilustrasi berbeda gaya. Karya pribadi tidak perlu dibuat ....",
+          "options": [
+            "dibuat dengan usaha",
+            "menampilkan pilihan pribadi",
+            "sama persis dengan karya teman",
+            "memiliki tema"
+          ],
+          "answer": "sama persis dengan karya teman",
+          "discussion": "Karya yang mewakili diri tidak harus sama persis dengan karya teman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b04-gambar-03.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B04-M01-039",
+          "type": "PG",
+          "text": "Gambar menunjukkan anak sedang melakukan hobi kesukaan. Hal apa yang hendak dikomunikasikan pembuat karya?",
+          "options": [
+            "menghilangkan hobi",
+            "mengubah nama",
+            "mengganti teman",
+            "menceritakan minat diri"
+          ],
+          "answer": "menceritakan minat diri",
+          "discussion": "Menggambar kegiatan favorit membantu menceritakan minat diri.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b04-gambar-04.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B04-M01-040",
+          "type": "PG",
+          "text": "Perhatikan tanggapan pengunjung terhadap gambar diri temannya. Sikap menghargai yang tepat adalah ....",
+          "options": [
+            "tidak mengejek ciri fisiknya",
+            "menertawakan bentuk tubuh",
+            "mencoret wajah",
+            "menghina warna kulit"
+          ],
+          "answer": "tidak mengejek ciri fisiknya",
+          "discussion": "Menghargai gambar diri teman berarti tidak mengejek ciri fisiknya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b04-gambar-05.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B04-M01-041",
+          "type": "PG",
+          "text": "Kolase identitas pada gambar berisi benda favorit dan kegiatan harian. Isinya dapat berupa ....",
+          "options": [
+            "informasi rahasia",
+            "gambar aktivitas dan benda kesukaan",
+            "hanya sampah kotor",
+            "benda berbahaya"
+          ],
+          "answer": "gambar aktivitas dan benda kesukaan",
+          "discussion": "Kolase identitas diri dapat memuat gambar aktivitas dan benda kesukaan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b04-gambar-06.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B04-M01-042",
+          "type": "PG",
+          "text": "Siswa berdiri di dekat gambar dirinya untuk menjelaskan makna simbol. Cara menyampaikan yang baik adalah ....",
+          "options": [
+            "berbohong tentang proses",
+            "memaksa semua orang setuju",
+            "menyampaikan makna gambar dengan percaya diri dan santun",
+            "merendahkan karya teman"
+          ],
+          "answer": "menyampaikan makna gambar dengan percaya diri dan santun",
+          "discussion": "Saat menjelaskan karya sendiri, kita sebaiknya menyampaikan makna gambar dengan percaya diri dan santun.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b04-gambar-07.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B04-M01-043",
+          "type": "PG",
+          "text": "Gambar rumah dijadikan simbol kedekatan pribadi. Rumah dalam karya bisa melambangkan ....",
+          "options": [
+            "bunyi alat musik",
+            "rasa makanan",
+            "ukuran sepatu",
+            "tempat tinggal atau keluarga"
+          ],
+          "answer": "tempat tinggal atau keluarga",
+          "discussion": "Bentuk rumah dalam karya pribadi dapat melambangkan tempat tinggal atau keluarga.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b04-gambar-08.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B04-M01-044",
+          "type": "PG",
+          "text": "Gambar memperlihatkan kegiatan bersama beberapa orang di rumah. Tema keluarga dapat menampilkan ....",
+          "options": [
+            "anggota keluarga atau kegiatan bersama",
+            "hanya angka ujian",
+            "daftar harga",
+            "peta cuaca"
+          ],
+          "answer": "anggota keluarga atau kegiatan bersama",
+          "discussion": "Memilih tema keluargaku berarti karya dapat menampilkan anggota keluarga atau kegiatan bersama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b04-gambar-09.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        },
+        {
+          "id": "K03-SBD-B04-M01-045",
+          "type": "PG",
+          "text": "Seusai berkarya, meja pada gambar dipenuhi alat dan sisa kertas. Langkah baik berikutnya adalah ....",
+          "options": [
+            "merusak karya teman",
+            "merapikan alat dan tempat kerja",
+            "membuang cat ke lantai",
+            "meninggalkan gunting terbuka"
+          ],
+          "answer": "merapikan alat dan tempat kerja",
+          "discussion": "Setelah berkarya, sikap baik adalah merapikan alat dan tempat kerja.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b04-gambar-10.svg",
+            "alt": "Ilustrasi unsur seni rupa"
+          }
+        }
+      ]
+    }
+  ]
+}
