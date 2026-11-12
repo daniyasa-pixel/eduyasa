@@ -1,0 +1,469 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PJK-B01",
+      "chapter_title": "Aktivitas Pola Gerak Dasar Lokomotor",
+      "questions": [
+        {
+          "id": "K03-PJK-B01-M01-001",
+          "type": "PG",
+          "text": "Saat menuju garis mulai, Rina melangkahkan kaki tanpa berlari. Gerak apa yang dilakukan Rina?",
+          "options": [
+            "berjalan",
+            "melempar",
+            "menangkap",
+            "memutar lengan"
+          ],
+          "answer": "berjalan",
+          "discussion": "Berjalan adalah gerak berpindah tempat dengan langkah kaki."
+        },
+        {
+          "id": "K03-PJK-B01-M01-002",
+          "type": "PG",
+          "text": "Ketika lomba lari, kedua kaki pelari sesaat tidak menyentuh tanah. Ciri tersebut menunjukkan gerak ....",
+          "options": [
+            "duduk",
+            "berlari",
+            "mengayun lengan di tempat",
+            "membungkuk"
+          ],
+          "answer": "berlari",
+          "discussion": "Saat berlari ada fase melayang singkat."
+        },
+        {
+          "id": "K03-PJK-B01-M01-003",
+          "type": "PG",
+          "text": "Beni menolak tubuh memakai satu kaki untuk melewati garis. Geraknya disebut ....",
+          "options": [
+            "mengayun",
+            "berjalan",
+            "melompat",
+            "memutar badan"
+          ],
+          "answer": "melompat",
+          "discussion": "Melompat dalam latihan ini memakai tolakan satu kaki."
+        },
+        {
+          "id": "K03-PJK-B01-M01-004",
+          "type": "PG",
+          "text": "Ayu menolak tubuh dengan kedua kaki secara bersamaan. Gerak itu disebut ....",
+          "options": [
+            "menoleh",
+            "melangkah",
+            "berlari",
+            "meloncat"
+          ],
+          "answer": "meloncat",
+          "discussion": "Meloncat menggunakan tolakan kedua kaki."
+        },
+        {
+          "id": "K03-PJK-B01-M01-005",
+          "type": "PG",
+          "text": "Guru meminta siswa berpindah ke kanan tanpa menghadap depan. Langkah aman yang sesuai adalah ....",
+          "options": [
+            "berlari menabrak teman",
+            "melangkah menyamping dengan seimbang",
+            "menutup mata",
+            "melompat ke belakang tanpa melihat"
+          ],
+          "answer": "melangkah menyamping dengan seimbang",
+          "discussion": "Berjalan menyamping memerlukan keseimbangan dan ruang yang aman."
+        },
+        {
+          "id": "K03-PJK-B01-M01-006",
+          "type": "PG",
+          "text": "Sebelum berjalan mundur, tindakan paling tepat adalah ....",
+          "options": [
+            "menutup mata",
+            "berlari secepatnya",
+            "memeriksa ruang di belakang",
+            "mendorong teman"
+          ],
+          "answer": "memeriksa ruang di belakang",
+          "discussion": "Jalur belakang perlu dipastikan kosong sebelum bergerak."
+        },
+        {
+          "id": "K03-PJK-B01-M01-007",
+          "type": "PG",
+          "text": "Pada lintasan zig-zag ada tiga penanda. Apa keterampilan utama yang dilatih?",
+          "options": [
+            "mengubah arah gerak sambil menjaga kendali",
+            "duduk di satu tempat",
+            "melempar sejauh mungkin",
+            "menahan napas"
+          ],
+          "answer": "mengubah arah gerak sambil menjaga kendali",
+          "discussion": "Zig-zag melatih perubahan arah dan kontrol gerak."
+        },
+        {
+          "id": "K03-PJK-B01-M01-008",
+          "type": "PG",
+          "text": "Setelah meloncat pendek, siswa sebaiknya mendarat dengan ....",
+          "options": [
+            "lutut kaku terkunci",
+            "lutut sedikit menekuk",
+            "mata tertutup",
+            "menabrak teman"
+          ],
+          "answer": "lutut sedikit menekuk",
+          "discussion": "Tekukan lutut yang wajar membantu meredam pendaratan."
+        },
+        {
+          "id": "K03-PJK-B01-M01-009",
+          "type": "PG",
+          "text": "Mengapa siswa melakukan pemanasan sebelum permainan lari?",
+          "options": [
+            "agar tidak perlu minum",
+            "agar langsung kelelahan",
+            "agar tubuh bersiap bergerak secara bertahap",
+            "agar tidak perlu istirahat"
+          ],
+          "answer": "agar tubuh bersiap bergerak secara bertahap",
+          "discussion": "Pemanasan mempersiapkan tubuh secara bertahap."
+        },
+        {
+          "id": "K03-PJK-B01-M01-010",
+          "type": "PG",
+          "text": "Lantai lapangan basah setelah hujan. Keputusan paling aman adalah ....",
+          "options": [
+            "berlari semakin cepat",
+            "melompat di genangan",
+            "menunda atau pindah ke tempat yang tidak licin",
+            "mendorong teman"
+          ],
+          "answer": "menunda atau pindah ke tempat yang tidak licin",
+          "discussion": "Permukaan licin meningkatkan risiko tergelincir."
+        },
+        {
+          "id": "K03-PJK-B01-M01-011",
+          "type": "PG",
+          "text": "Ketika berjalan mengikuti garis, siswa harus ....",
+          "options": [
+            "melihat arah jalan dan menjaga jarak",
+            "menutup mata",
+            "menarik baju teman",
+            "berlari tanpa kendali"
+          ],
+          "answer": "melihat arah jalan dan menjaga jarak",
+          "discussion": "Perhatian pada arah dan jarak membantu keselamatan."
+        },
+        {
+          "id": "K03-PJK-B01-M01-012",
+          "type": "PG",
+          "text": "Rafi berpindah dari satu penanda ke penanda berikutnya dengan langkah cepat dan fase melayang. Ia sedang ....",
+          "options": [
+            "berjalan lambat",
+            "berlari",
+            "duduk",
+            "membungkuk"
+          ],
+          "answer": "berlari",
+          "discussion": "Gerak berpindah cepat dengan fase melayang termasuk berlari."
+        },
+        {
+          "id": "K03-PJK-B01-M01-013",
+          "type": "PG",
+          "text": "Apa perbedaan utama latihan meloncat dan melompat dalam contoh PJOK ini?",
+          "options": [
+            "keduanya selalu dilakukan sambil duduk",
+            "meloncat bertolak dua kaki, melompat satu kaki",
+            "meloncat hanya memakai tangan",
+            "melompat tidak berpindah tempat"
+          ],
+          "answer": "meloncat bertolak dua kaki, melompat satu kaki",
+          "discussion": "Perbedaan yang dikenalkan ialah jumlah kaki saat menolak."
+        },
+        {
+          "id": "K03-PJK-B01-M01-014",
+          "type": "PG",
+          "text": "Dalam permainan pindah posisi ke kiri, gerak yang tepat adalah ....",
+          "options": [
+            "langkah menyamping ke kiri",
+            "melempar bola ke atas",
+            "berputar di tempat saja",
+            "duduk diam"
+          ],
+          "answer": "langkah menyamping ke kiri",
+          "discussion": "Melangkah menyamping mengubah posisi ke samping."
+        },
+        {
+          "id": "K03-PJK-B01-M01-015",
+          "type": "PG",
+          "text": "Rintangan terlalu tinggi untuk kemampuan siswa. Apa tindakan yang tepat?",
+          "options": [
+            "memaksa melompati rintangan",
+            "meminta guru menyesuaikan tinggi rintangan",
+            "mendorong teman lebih dahulu",
+            "menutup mata lalu mencoba"
+          ],
+          "answer": "meminta guru menyesuaikan tinggi rintangan",
+          "discussion": "Tinggi rintangan harus sesuai kemampuan dan pengawasan."
+        },
+        {
+          "id": "K03-PJK-B01-M01-016",
+          "type": "PG",
+          "text": "Siswa ingin menambah kecepatan lari saat permainan. Ia tetap harus ....",
+          "options": [
+            "mengabaikan teman",
+            "berlari ke arah tembok",
+            "memperhatikan lintasan dan teman lain",
+            "melepas sepatu di lintasan"
+          ],
+          "answer": "memperhatikan lintasan dan teman lain",
+          "discussion": "Kecepatan tidak menghilangkan kebutuhan keselamatan."
+        },
+        {
+          "id": "K03-PJK-B01-M01-017",
+          "type": "PG",
+          "text": "Dalam berjalan mundur, mengapa langkah pendek lebih baik untuk pemula?",
+          "options": [
+            "membuat mata tidak perlu melihat",
+            "lebih mudah mengendalikan keseimbangan",
+            "menghindari semua kebutuhan pengawasan",
+            "meningkatkan risiko jatuh"
+          ],
+          "answer": "lebih mudah mengendalikan keseimbangan",
+          "discussion": "Langkah pendek membantu kontrol saat arah pandang terbatas."
+        },
+        {
+          "id": "K03-PJK-B01-M01-018",
+          "type": "PG",
+          "text": "Dalam permainan lari zig-zag, apa yang perlu dilakukan saat mendekati penanda?",
+          "options": [
+            "menabrak penanda",
+            "mengurangi kecepatan bila perlu dan mengubah arah terkontrol",
+            "menutup mata",
+            "menghalangi teman"
+          ],
+          "answer": "mengurangi kecepatan bila perlu dan mengubah arah terkontrol",
+          "discussion": "Pergantian arah membutuhkan kendali kecepatan."
+        },
+        {
+          "id": "K03-PJK-B01-M01-019",
+          "type": "PG",
+          "text": "Saat lelah dan pusing setelah berlari, siswa sebaiknya ....",
+          "options": [
+            "memaksa terus berlari",
+            "berhenti dan memberi tahu guru",
+            "menyembunyikan keluhan",
+            "berlari lebih cepat"
+          ],
+          "answer": "berhenti dan memberi tahu guru",
+          "discussion": "Keluhan pusing memerlukan penghentian aktivitas dan bantuan orang dewasa."
+        },
+        {
+          "id": "K03-PJK-B01-M01-020",
+          "type": "PG",
+          "text": "Apa yang membedakan gerak lokomotor dari gerak memutar lengan di tempat?",
+          "options": [
+            "gerak lokomotor menyebabkan perpindahan tempat",
+            "lokomotor selalu menggunakan bola",
+            "lokomotor selalu dilakukan duduk",
+            "lokomotor hanya dilakukan di air"
+          ],
+          "answer": "gerak lokomotor menyebabkan perpindahan tempat",
+          "discussion": "Lokomotor melibatkan perpindahan posisi tubuh."
+        },
+        {
+          "id": "K03-PJK-B01-M01-021",
+          "type": "PG",
+          "text": "Dua siswa berlatih lari bergantian pada jalur sempit. Mengapa perlu antre?",
+          "options": [
+            "agar bisa saling menghalangi",
+            "agar lintasan tidak terlalu padat",
+            "agar lari lebih berbahaya",
+            "agar tidak perlu melihat arah"
+          ],
+          "answer": "agar lintasan tidak terlalu padat",
+          "discussion": "Bergantian mengurangi risiko bertabrakan."
+        },
+        {
+          "id": "K03-PJK-B01-M01-022",
+          "type": "PG",
+          "text": "Pada latihan estafet sederhana, siswa berpindah tempat sambil membawa benda ringan. Gerak berpindahnya adalah ....",
+          "options": [
+            "nonlokomotor saja",
+            "lokomotor",
+            "diam statis",
+            "gerak mata"
+          ],
+          "answer": "lokomotor",
+          "discussion": "Berpindah tempat termasuk gerak lokomotor."
+        },
+        {
+          "id": "K03-PJK-B01-M01-023",
+          "type": "PG",
+          "text": "Ada tas di tengah jalur lari. Apa langkah pertama yang aman?",
+          "options": [
+            "menghentikan latihan dan menyingkirkan tas bersama guru",
+            "menendang tas ke teman",
+            "tetap berlari sambil menutup mata",
+            "melompat asal-asalan"
+          ],
+          "answer": "menghentikan latihan dan menyingkirkan tas bersama guru",
+          "discussion": "Rintangan tak terencana harus ditangani sebelum latihan dilanjutkan."
+        },
+        {
+          "id": "K03-PJK-B01-M01-024",
+          "type": "PG",
+          "text": "Dalam meloncat ke depan, tempat mendarat sebaiknya ....",
+          "options": [
+            "penuh batu tajam",
+            "basah dan licin",
+            "datar dan tidak licin",
+            "dipenuhi tas"
+          ],
+          "answer": "datar dan tidak licin",
+          "discussion": "Permukaan pendaratan harus aman."
+        },
+        {
+          "id": "K03-PJK-B01-M01-025",
+          "type": "PG",
+          "text": "Guru berkata 'langkah ke belakang dua kali'. Gerak apa yang paling sesuai?",
+          "options": [
+            "berjalan mundur",
+            "lari zig-zag",
+            "meloncat ke depan",
+            "melempar bola"
+          ],
+          "answer": "berjalan mundur",
+          "discussion": "Langkah ke belakang adalah berjalan mundur."
+        },
+        {
+          "id": "K03-PJK-B01-M01-026",
+          "type": "PG",
+          "text": "Siswa harus mengikuti jalur berbentuk huruf Z. Pola lari yang dipakai adalah ....",
+          "options": [
+            "lurus saja",
+            "berputar di satu titik",
+            "zig-zag",
+            "diam"
+          ],
+          "answer": "zig-zag",
+          "discussion": "Lintasan berubah arah menyerupai zig-zag."
+        },
+        {
+          "id": "K03-PJK-B01-M01-027",
+          "type": "PG",
+          "text": "Jika kaki kanan digunakan menolak tubuh dan kaki kiri mendarat, gerak ini termasuk contoh ....",
+          "options": [
+            "meloncat dengan dua kaki",
+            "melompat",
+            "duduk seimbang",
+            "berputar lengan"
+          ],
+          "answer": "melompat",
+          "discussion": "Tolakan satu kaki merupakan contoh melompat."
+        },
+        {
+          "id": "K03-PJK-B01-M01-028",
+          "type": "PG",
+          "text": "Jika kedua kaki menolak dan mendarat bersama, gerak tersebut contoh ....",
+          "options": [
+            "berjalan menyamping",
+            "berlari cepat",
+            "menoleh",
+            "meloncat"
+          ],
+          "answer": "meloncat",
+          "discussion": "Tolakan kedua kaki adalah contoh meloncat."
+        },
+        {
+          "id": "K03-PJK-B01-M01-029",
+          "type": "PG",
+          "text": "Seorang siswa lebih lambat saat berlari dibanding temannya. Sikap yang tepat adalah ....",
+          "options": [
+            "mengejeknya",
+            "memaksanya berlari lebih jauh",
+            "menghargai kemampuan setiap siswa",
+            "melarangnya belajar"
+          ],
+          "answer": "menghargai kemampuan setiap siswa",
+          "discussion": "Kecepatan siswa berbeda dan latihan harus aman serta menghargai sesama."
+        },
+        {
+          "id": "K03-PJK-B01-M01-030",
+          "type": "PG",
+          "text": "Sebelum berjalan menyamping, siswa perlu memeriksa ....",
+          "options": [
+            "ruang di sisi tujuan",
+            "warna sepatu teman",
+            "jumlah pohon jauh",
+            "nama jalan lain"
+          ],
+          "answer": "ruang di sisi tujuan",
+          "discussion": "Pergerakan ke samping memerlukan ruang bebas."
+        },
+        {
+          "id": "K03-PJK-B01-M01-031",
+          "type": "PG",
+          "text": "Untuk melatih kontrol saat mendarat, guru memilih loncatan ....",
+          "options": [
+            "setinggi mungkin tanpa matras",
+            "rendah sesuai kemampuan",
+            "ke arah permukaan licin",
+            "tanpa pengawasan"
+          ],
+          "answer": "rendah sesuai kemampuan",
+          "discussion": "Latihan awal menggunakan ketinggian aman sesuai kemampuan."
+        },
+        {
+          "id": "K03-PJK-B01-M01-032",
+          "type": "PG",
+          "text": "Apa tanda siswa perlu berhenti sejenak saat beraktivitas?",
+          "options": [
+            "masih nyaman bergerak",
+            "sudah selesai pemanasan",
+            "napas sangat berat atau merasa tidak enak badan",
+            "teman bergerak lebih cepat"
+          ],
+          "answer": "napas sangat berat atau merasa tidak enak badan",
+          "discussion": "Respons tubuh perlu diperhatikan dan disampaikan kepada guru."
+        },
+        {
+          "id": "K03-PJK-B01-M01-033",
+          "type": "PG",
+          "text": "Berjalan, berlari, melompat, dan meloncat sama-sama ....",
+          "options": [
+            "hanya menggerakkan tangan",
+            "melibatkan perpindahan tempat",
+            "harus memakai bola",
+            "selalu dilakukan di air"
+          ],
+          "answer": "melibatkan perpindahan tempat",
+          "discussion": "Keempatnya termasuk pola gerak lokomotor."
+        },
+        {
+          "id": "K03-PJK-B01-M01-034",
+          "type": "PG",
+          "text": "Setelah guru memberi tanda berhenti, siswa yang berlari sebaiknya ....",
+          "options": [
+            "menabrak penanda",
+            "memperlambat gerak dan berhenti dengan terkendali",
+            "langsung mendorong teman",
+            "menutup mata"
+          ],
+          "answer": "memperlambat gerak dan berhenti dengan terkendali",
+          "discussion": "Berhenti perlu dilakukan dengan kontrol tubuh."
+        },
+        {
+          "id": "K03-PJK-B01-M01-035",
+          "type": "PG",
+          "text": "Tujuan latihan lokomotor yang aman untuk siswa kelas 3 adalah ....",
+          "options": [
+            "mewajibkan semua siswa menjadi tercepat",
+            "meningkatkan keterampilan bergerak sesuai kemampuan",
+            "menang tanpa memperhatikan keselamatan",
+            "memaksa siswa saat sakit"
+          ],
+          "answer": "meningkatkan keterampilan bergerak sesuai kemampuan",
+          "discussion": "Tujuan latihan ialah keterampilan gerak, kerja sama, dan keselamatan."
+        }
+      ]
+    }
+  ]
+}
