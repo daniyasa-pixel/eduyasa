@@ -1,10 +1,10 @@
 # Unit 3 — Aktivitas Pola Gerak Dasar Manipulatif
 
-35 soal teks, **DRAF**. Perlu audit variasi soal.
+35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
 
 ## Soal 1 — K03-PJK-B03-M01-001
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk melempar bola?
+**Pertanyaan:** Ari memindahkan bola dari tangannya ke arah sasaran tanpa menendangnya. Apa gerak yang dilakukan?
 
 **Pilihan jawaban:**
 - berdiri satu kaki
@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-PJK-B03-M01-002
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk menangkap bola?
+**Pertanyaan:** Bola datang perlahan ke arah dada Maya. Apa yang perlu dilakukan tangannya?
 
 **Pilihan jawaban:**
 - berjalan mundur
@@ -36,7 +36,7 @@
 
 ## Soal 3 — K03-PJK-B03-M01-003
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk menendang bola?
+**Pertanyaan:** Bima mengirim bola ke depan dengan bagian kaki. Penjelasan gerak yang cocok adalah ....
 
 **Pilihan jawaban:**
 - menggerakkan bola menggunakan kaki
@@ -52,7 +52,7 @@
 
 ## Soal 4 — K03-PJK-B03-M01-004
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk menggiring bola dengan kaki?
+**Pertanyaan:** Rani membawa bola sambil berjalan dan menyentuhnya berkali-kali memakai kaki. Tekniknya adalah ....
 
 **Pilihan jawaban:**
 - melempar bola ke udara
@@ -68,7 +68,7 @@
 
 ## Soal 5 — K03-PJK-B03-M01-005
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk memantulkan bola?
+**Pertanyaan:** Seorang siswa mendorong bola ke lantai lalu menangkap pantulannya. Kegiatan ini adalah ....
 
 **Pilihan jawaban:**
 - menendang jauh
@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-PJK-B03-M01-006
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk mengoper bola?
+**Pertanyaan:** Dalam permainan, Lani memberikan bola kepada pemain lain pada tim yang sama. Gerak apakah itu?
 
 **Pilihan jawaban:**
 - mengabaikan teman
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-PJK-B03-M01-007
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk arah lemparan?
+**Pertanyaan:** Sebelum melempar, siswa memeriksa agar tidak ada teman di jalur sasaran. Prinsip yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - diarahkan ke sasaran yang aman
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-PJK-B03-M01-008
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk menangkap bola mendatar?
+**Pertanyaan:** Bola bergerak lurus ke arah dada. Apa yang perlu diperhatikan sebelum menerimanya?
 
 **Pilihan jawaban:**
 - memejamkan mata
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-PJK-B03-M01-009
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk bermain bola bersama?
+**Pertanyaan:** Semua anggota kelompok ingin memegang bola. Bagaimana permainan seharusnya berlangsung?
 
 **Pilihan jawaban:**
 - mengejek teman
@@ -148,7 +148,7 @@
 
 ## Soal 10 — K03-PJK-B03-M01-010
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk bola untuk latihan anak?
+**Pertanyaan:** Bola latihan terlalu berat bagi anak kelas tiga. Apa keputusan yang tepat?
 
 **Pilihan jawaban:**
 - selalu lebih besar dari tubuh
@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-PJK-B03-M01-011
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar manipulatif, guru membahas "Melempar bola". Pernyataan manakah yang benar?
+**Pertanyaan:** Dalam permainan target, bola bergerak menjauh setelah dilepas dari tangan. Cara gerak yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - menggerakkan bola menjauh menggunakan tangan
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-PJK-B03-M01-012
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar manipulatif, guru membahas "Menangkap bola". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru mengirim bola lunak kepada siswa. Apa teknik dasar untuk menerimanya?
 
 **Pilihan jawaban:**
 - menendang bola
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-PJK-B03-M01-013
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar manipulatif, guru membahas "Menendang bola". Pernyataan manakah yang benar?
+**Pertanyaan:** Dalam permainan sederhana, bola dipindahkan tanpa menggunakan tangan, melainkan dengan kaki. Itu contoh ....
 
 **Pilihan jawaban:**
 - menangkap bola
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-PJK-B03-M01-014
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar manipulatif, guru membahas "Menggiring bola dengan kaki". Pernyataan manakah yang benar?
+**Pertanyaan:** Saat melewati penanda, bola tetap dekat dengan kaki dan dikendalikan. Uraian yang benar adalah ....
 
 **Pilihan jawaban:**
 - berputar
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-PJK-B03-M01-015
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar manipulatif, guru membahas "Memantulkan bola". Pernyataan manakah yang benar?
+**Pertanyaan:** Dalam latihan, bola menyentuh lantai dan kembali ke tangan. Penjelasan gerak yang sesuai ialah ....
 
 **Pilihan jawaban:**
 - mendorong bola ke lantai agar memantul kembali
@@ -244,7 +244,7 @@
 
 ## Soal 16 — K03-PJK-B03-M01-016
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar manipulatif, guru membahas "Mengoper bola". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru meminta anak mengirim bola kepada teman yang siap menerima. Pilih deskripsi tindakannya.
 
 **Pilihan jawaban:**
 - menyembunyikan bola
@@ -260,7 +260,7 @@
 
 ## Soal 17 — K03-PJK-B03-M01-017
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar manipulatif, guru membahas "Arah lemparan". Pernyataan manakah yang benar?
+**Pertanyaan:** Papan sasaran berada dekat kerumunan. Apa penyesuaian arah yang paling aman?
 
 **Pilihan jawaban:**
 - ke kaca jendela
@@ -276,7 +276,7 @@
 
 ## Soal 18 — K03-PJK-B03-M01-018
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar manipulatif, guru membahas "Menangkap bola mendatar". Pernyataan manakah yang benar?
+**Pertanyaan:** Saat bola datang sejajar badan, tangan disiapkan mengikuti arah bola. Cara yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - berlari tanpa melihat
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-PJK-B03-M01-019
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar manipulatif, guru membahas "Bermain bola bersama". Pernyataan manakah yang benar?
+**Pertanyaan:** Seorang teman belum mendapat giliran bermain. Tindakan yang baik adalah ....
 
 **Pilihan jawaban:**
 - mematuhi aturan dan bergiliran
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-PJK-B03-M01-020
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar manipulatif, guru membahas "Bola untuk latihan anak". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru menyediakan bola besar dan bola kecil. Apa dasar memilih alat latihan?
 
 **Pilihan jawaban:**
 - harus paling berat
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-PJK-B03-M01-021
 
-**Pertanyaan:** Rani ingin memahami melempar bola. Pilih penjelasan yang tepat.
+**Pertanyaan:** Saat melempar, sumber dorongan utama bola berasal dari bagian tubuh mana? Pilih penjelasan geraknya.
 
 **Pilihan jawaban:**
 - berdiri satu kaki
@@ -340,7 +340,7 @@
 
 ## Soal 22 — K03-PJK-B03-M01-022
 
-**Pertanyaan:** Rani ingin memahami menangkap bola. Pilih penjelasan yang tepat.
+**Pertanyaan:** Ketika bola mendekat, siswa mengamati arah lalu menerima bola. Gerak yang tepat disebut ....
 
 **Pilihan jawaban:**
 - berjalan mundur
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-PJK-B03-M01-023
 
-**Pertanyaan:** Rani ingin memahami menendang bola. Pilih penjelasan yang tepat.
+**Pertanyaan:** Jika bola berada di tanah dan harus digerakkan dengan kaki, pilih keterampilan yang sesuai.
 
 **Pilihan jawaban:**
 - menggerakkan bola menggunakan kaki
@@ -372,7 +372,7 @@
 
 ## Soal 24 — K03-PJK-B03-M01-024
 
-**Pertanyaan:** Rani ingin memahami menggiring bola dengan kaki. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa cara mempertahankan kendali bola selama berpindah tempat menggunakan kaki?
 
 **Pilihan jawaban:**
 - melempar bola ke udara
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-PJK-B03-M01-025
 
-**Pertanyaan:** Rani ingin memahami memantulkan bola. Pilih penjelasan yang tepat.
+**Pertanyaan:** Agar bola dapat memantul kembali dari permukaan yang aman, tindakan yang tepat adalah ....
 
 **Pilihan jawaban:**
 - menendang jauh
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-PJK-B03-M01-026
 
-**Pertanyaan:** Rani ingin memahami mengoper bola. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa tujuan gerakan memberi bola dari satu pemain kepada rekan satu kelompok?
 
 **Pilihan jawaban:**
 - mengabaikan teman
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-PJK-B03-M01-027
 
-**Pertanyaan:** Rani ingin memahami arah lemparan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Jika teman sedang melintas di depan, apa prinsip memilih arah lemparan?
 
 **Pilihan jawaban:**
 - diarahkan ke sasaran yang aman
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-PJK-B03-M01-028
 
-**Pertanyaan:** Rani ingin memahami menangkap bola mendatar. Pilih penjelasan yang tepat.
+**Pertanyaan:** Agar tangkapan bola mendatar tidak mengenai wajah, siswa sebaiknya ....
 
 **Pilihan jawaban:**
 - memejamkan mata
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-PJK-B03-M01-029
 
-**Pertanyaan:** Rani ingin memahami bermain bola bersama. Pilih penjelasan yang tepat.
+**Pertanyaan:** Saat aturan permainan bola disepakati bersama, apa yang perlu dilakukan pemain?
 
 **Pilihan jawaban:**
 - mengejek teman
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-PJK-B03-M01-030
 
-**Pertanyaan:** Rani ingin memahami bola untuk latihan anak. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa penggunaan bola untuk latihan perlu disesuaikan dengan peserta?
 
 **Pilihan jawaban:**
 - selalu lebih besar dari tubuh
@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B03-M01-031
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Melempar bola". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Ari memindahkan bola dari tangannya ke arah sasaran tanpa menendangnya. Apa gerak yang dilakukan?
 
 **Pilihan jawaban:**
 - menggerakkan bola menjauh menggunakan tangan
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B03-M01-032
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Menangkap bola". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Bola datang perlahan ke arah dada Maya. Apa yang perlu dilakukan tangannya?
 
 **Pilihan jawaban:**
 - menendang bola
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B03-M01-033
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Menendang bola". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Bima mengirim bola ke depan dengan bagian kaki. Penjelasan gerak yang cocok adalah ....
 
 **Pilihan jawaban:**
 - menangkap bola
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B03-M01-034
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Menggiring bola dengan kaki". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Rani membawa bola sambil berjalan dan menyentuhnya berkali-kali memakai kaki. Tekniknya adalah ....
 
 **Pilihan jawaban:**
 - berputar
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B03-M01-035
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Memantulkan bola". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Seorang siswa mendorong bola ke lantai lalu menangkap pantulannya. Kegiatan ini adalah ....
 
 **Pilihan jawaban:**
 - mendorong bola ke lantai agar memantul kembali
