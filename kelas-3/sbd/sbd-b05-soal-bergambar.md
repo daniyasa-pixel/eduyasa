@@ -1,12 +1,12 @@
 # Bab 5 — Aku Seniman Cilik
 
-10 soal bergambar — ilustrasi masih skematis dan perlu pengembangan sesuai konteks pertanyaan.
+10 soal bergambar — pertanyaan sudah disesuaikan dengan situasi ilustrasi; media ditangani terpisah.
 
 ## Soal 36 — K03-SBD-B05-M01-036
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Kuas setelah digunakan sebaiknya ....
+**Pertanyaan:** Kuas yang telah dipakai cat tampak di dekat wadah air. Tindakan perawatan kuas yang tepat adalah ....
 
 **Pilihan jawaban:**
 - dibiarkan kotor selamanya
@@ -24,7 +24,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Bahan daur ulang untuk karya perlu ....
+**Pertanyaan:** Bahan bekas dalam ilustrasi akan menjadi karya baru. Apa yang perlu dilakukan sebelum bahan dipakai?
 
 **Pilihan jawaban:**
 - dibersihkan dan dipastikan aman
@@ -42,7 +42,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Saat karya gagal sesuai rencana, seniman cilik dapat ....
+**Pertanyaan:** Gambar rancangan pertama belum berhasil diwujudkan. Sikap yang tepat pada percobaan berikutnya adalah ....
 
 **Pilihan jawaban:**
 - berhenti belajar selamanya
@@ -60,7 +60,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Kerja kelompok membuat mural kertas memerlukan ....
+**Pertanyaan:** Beberapa anak membuat mural di satu lembar besar. Apa kebutuhan utama agar tugas berjalan baik?
 
 **Pilihan jawaban:**
 - saling mengejek
@@ -78,7 +78,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Menata karya di meja pameran perlu memperhatikan ....
+**Pertanyaan:** Meja pameran menampilkan banyak karya dan pengunjung perlu lewat. Hal yang harus diperhatikan adalah ....
 
 **Pilihan jawaban:**
 - barang menutupi semua karya
@@ -96,7 +96,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Sikap pengunjung pameran adalah ....
+**Pertanyaan:** Pengunjung berdiri di depan karya teman di pameran mini. Perilaku yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - melihat dengan tertib dan menghargai karya
@@ -114,7 +114,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Teknik cap sederhana dapat memakai ....
+**Pertanyaan:** Ilustrasi memperlihatkan alat cap sederhana dan cat. Bahan yang aman digunakan untuk mencap adalah ....
 
 **Pilihan jawaban:**
 - api
@@ -132,7 +132,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Membuat karya bersama teman mengajarkan ....
+**Pertanyaan:** Dua anak bekerja sama membuat karya; salah satu membantu temannya. Sikap yang ditunjukkan adalah ....
 
 **Pilihan jawaban:**
 - mencela hasil orang lain
@@ -150,7 +150,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Evaluasi karya berarti ....
+**Pertanyaan:** Seorang siswa mengamati hasil lalu menentukan bagian untuk diperbaiki. Kegiatan itu disebut ....
 
 **Pilihan jawaban:**
 - membuang karya tanpa melihat
@@ -168,7 +168,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Setelah pameran, karya dan alat sebaiknya ....
+**Pertanyaan:** Pameran selesai dan alat masih di meja. Cara penanganan alat dan karya yang benar adalah ....
 
 **Pilihan jawaban:**
 - dikembalikan atau disimpan dengan rapi
