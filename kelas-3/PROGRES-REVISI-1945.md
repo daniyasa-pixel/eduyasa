@@ -522,3 +522,15 @@ Pemeriksaan struktur melalui JavaScript mengikuti validator sumber:
 82 bank, 1.945 soal, 310 rujukan aset unik, 0 kesalahan. Kumulatif audit
 isi 1.110/1.945, dengan 835 soal pada 18 bab/unit tersisa. Titik lanjut
 Bahasa Inggris Unit 6.
+
+## Checkpoint 2026-11-12 — pemeriksaan awal Bahasa Inggris Unit 6
+
+Sumber Unit 6 dibaca langsung dari GitHub: `eng/eng-b06-soal-biasa.md`, `eng/eng-b06-soal-bergambar.md`, `eng/eng-b06-soal-listening.md`, dan `eng/eng-b06-materi.md`. SHA awal masing-masing: `8384507ea5b620c7f662df2178dcf05186a429cc`, `653af4434f4da075286d4fb7aa35c8233ed4dfcd`, `8935c749350f5e3499b517c52c3576325074ff8e`, `536734283a273862c8f7bbb2163bb22786c16ea5`.
+
+**Temuan awal yang harus diperbaiki sebelum Unit 6 boleh dinyatakan lolos audit:**
+- Soal teks nomor 001–010 menanyakan terjemahan Indonesia ke Inggris; nomor 011–020 mengulang kosakata yang sama dalam arah terbalik. Variasi kompetensi terlalu rendah dan belum cukup menguji dialog `Is it the ...?`, `Yes, it is` / `No, it isn't` sesuai judul unit.
+- Soal bergambar 036–045 seluruhnya memakai stem identik `Look at the picture. Choose the matching English word.`; perlu stimulus dan tugas beragam, bukan sekadar identifikasi satu gambar.
+- Listening 046–050 hanya menyuarakan satu kata dan mengulang `Listen. Which English word do you hear?`; perlu ditingkatkan menjadi kalimat/dialog pendek dengan kunci yang tetap jelas, menjaga metadata TTS dan transkrip tersembunyi.
+- Dua modul saat ini mengulang daftar sepuluh kosakata dan contoh percakapan yang sama; perlu dua penyajian berbeda dengan cakupan sepadan, termasuk latihan pertanyaan konfirmasi lokasi.
+
+**Status:** pemeriksaan diagnostik awal, **belum revisi sumber dan belum audit tuntas**; Unit 6 tidak ditambahkan ke total soal lolos audit. Angka terverifikasi dari checkpoint sebelumnya tetap **1.110/1.945**, sisa **835**. Selanjutnya tulis ulang 50 soal dan dua modul Unit 6, audit 12 SVG terhadap stimulus baru, periksa sumber buku resmi, pertahankan seluruh ID, jalankan validator kanonis dan catat hasil. Jangan konversi JSON sebelum audit ulang. Jangan ubah BIN/MTK/PKN.
