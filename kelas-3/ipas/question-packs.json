@@ -1,0 +1,38 @@
+{
+  "subject_id": "IPAS",
+  "grade": 3,
+  "chapters": {
+    "K03-IPAS-B01": [
+      "ipas/ipas-b01.json",
+      "ipas/ipas-b01a.json"
+    ],
+    "K03-IPAS-B02": [
+      "ipas/ipas-b02.json",
+      "ipas/ipas-b02a.json"
+    ],
+    "K03-IPAS-B03": [
+      "ipas/ipas-b03.json",
+      "ipas/ipas-b03a.json"
+    ],
+    "K03-IPAS-B04": [
+      "ipas/ipas-b04.json",
+      "ipas/ipas-b04a.json"
+    ],
+    "K03-IPAS-B05": [
+      "ipas/ipas-b05.json",
+      "ipas/ipas-b05a.json"
+    ],
+    "K03-IPAS-B06": [
+      "ipas/ipas-b06.json",
+      "ipas/ipas-b06a.json"
+    ],
+    "K03-IPAS-B07": [
+      "ipas/ipas-b07.json",
+      "ipas/ipas-b07a.json"
+    ],
+    "K03-IPAS-B08": [
+      "ipas/ipas-b08.json",
+      "ipas/ipas-b08a.json"
+    ]
+  }
+}
