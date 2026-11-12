@@ -2,68 +2,41 @@
 
 ## MOD-01 — K03-ENG-B06-MOD-01
 
-### Let's learn! — Mengenal tempat dan bertanya
+### Kenali delapan tempat di sekolah
 
-Kita belajar mengenali tempat di sekolah, lalu memastikan nama tempat menggunakan pertanyaan sederhana. Perhatikan gambar kantin berikut.
+Unit ini mengenalkan **office** (kantor), **classroom** (ruang kelas), **library** (perpustakaan), **prayer room** (ruang ibadah), **canteen** (kantin), **schoolyard** (halaman sekolah), **laboratory** (laboratorium), dan **restroom** (toilet). Gunakan gambar, tanda ruangan, dan kegiatan sebagai petunjuk.
 
-![School canteen](assets/eng-b06-gambar-01.svg)
+![Daftar delapan nama tempat sekolah dalam Unit 6](assets/eng-b06-materi-01.svg)
 
-**Kosakata tempat:**
-- **canteen** = kantin; tempat membeli makanan
-- **library** = perpustakaan; tempat membaca atau meminjam buku
-- **classroom** = ruang kelas; tempat belajar
-- **office** = kantor; tempat bekerja staf sekolah
-- **toilet** = toilet
-- **playground** = taman bermain
-- **garden** = taman
-- **gate** = gerbang
-- **yard** = halaman sekolah
-- **computer** = komputer (benda, bukan nama ruangan)
+Tanyakan nama ruangan dengan **What room is it?** Jawab **It is a classroom.** Untuk mengecek satu tebakan, gunakan **Is it a laboratory?** Jawab **Yes, it is.** jika benar. Jika salah, jawab **No, it isn’t. It is the library.**
 
-**Pola kalimat:**
-- **It is the canteen.** = Itu kantin.
-- **Is it the canteen?** = Apakah itu kantin?
-- **Yes, it is.** = Ya, benar.
-- **No, it isn't.** = Tidak, bukan.
-- **No, it isn't. It is the library.** = Bukan. Itu perpustakaan.
+Gunakan **a** sebelum kata yang diawali bunyi konsonan, seperti **a classroom** atau **a laboratory**. Gunakan **an** sebelum bunyi vokal, seperti **an office**. Saat membicarakan tempat tertentu di sekolah, bentuk **the library** atau **the canteen** juga dapat digunakan.
 
-**Perhatikan:** `Is it ...?` digunakan untuk menanyakan satu tempat atau benda. Gunakan `the` saat merujuk tempat tertentu di sekolah; untuk benda seperti komputer, kita dapat mengatakan `Is it a computer?`. Jawaban `No, it isn't` hanya menolak tebakan, belum menunjukkan tempat yang benar jika tidak ada keterangan tambahan.
-
-**Contoh percakapan:**
-- A: Is it the canteen?
-- B: No, it isn't. It is the library.
-- A: Is it the library?
-- B: Yes, it is.
-
-**Latihan:** Tunjuk tiga tempat di sekolah atau pada gambar. Tanyakan `Is it the ...?` kepada teman, lalu jawab dengan `Yes, it is` atau `No, it isn't`. Jangan masuk ke area sekolah tanpa izin.
+**Coba berpasangan.** Pilih tiga kartu tempat. Satu anak membacakan petunjuk tanpa menyebut nama ruangan, lalu temannya bertanya dan menjawab. Tukar peran. Gunakan area sekolah hanya sesuai izin dan aturan sekolah.
 
 ---
 
 ## MOD-02 — K03-ENG-B06-MOD-02
 
-### Let's practice! — Menebak tempat dari petunjuk
+### Tebak ruangan dari petunjuk
 
-Dalam permainan ini, satu anak memberikan petunjuk, sedangkan temannya menebak nama tempat. Perhatikan gambar perpustakaan.
+Setiap ruangan mempunyai petunjuk. Books dan quiet reading mengarah ke **library**. Meal tables mengarah ke **canteen**. Desks dan lesson board mengarah ke **classroom**. Experiment tools dengan pengawasan guru mengarah ke **laboratory**.
 
-![School library](assets/eng-b06-gambar-02.svg)
+![Contoh petunjuk, pertanyaan, dan jawaban tentang perpustakaan](assets/eng-b06-materi-02.svg)
 
-**Ingat kosakata:** canteen (kantin), library (perpustakaan), classroom (ruang kelas), office (kantor), toilet, playground (taman bermain), garden (taman), gate (gerbang), yard (halaman), dan computer (komputer). Komputer adalah benda, sedangkan kata lainnya di sini menyebut tempat atau area sekolah.
+Ikuti alur berikut.
 
-**Petunjuk dan jawaban:**
+1. Dengarkan petunjuk sampai selesai.
+2. Tanyakan **What room is it?** jika kamu meminta namanya.
+3. Gunakan **Is it the office?** atau **Is it a restroom?** untuk mengecek tebakan.
+4. Jawab **Yes, it is.** atau **No, it isn’t.**
+5. Setelah jawaban No, sebutkan ruangan yang benar jika sudah diketahui.
 
-| Petunjuk | Tebakan | Jawaban |
-| --- | --- | --- |
-| We read books here. | Is it the library? | Yes, it is. |
-| We buy food here. | Is it the office? | No, it isn't. It is the canteen. |
-| We study at desks here. | Is it the classroom? | Yes, it is. |
-| We see flowers here. | Is it the gate? | No, it isn't. It is the garden. |
+Jawaban **No, it isn’t** hanya menunjukkan tebakan awal salah. Kita masih membutuhkan petunjuk atau koreksi untuk mengetahui ruangan yang benar.
 
-**Susunan pertanyaan:** `Is + it + the + nama tempat + ?`
+**Latihan kelompok.** Buat delapan kartu nama tempat. Satu anak mengambil kartu, satu memberi petunjuk, dan satu menebak. Catat nama anak dan jawaban seperti contoh “Made — classroom”.
 
-**Jawaban singkat:** `Yes, it is.` atau `No, it isn't.` Kata `isn't` berarti `is not`. Untuk benda: `Is it a computer?`
+### Acuan Unit 6
 
-**Ayo berlatih menyimak:** Dengarkan guru mengatakan `Is it the playground? No, it isn't. It is the yard.` Tuliskan tempat yang benar, yaitu `yard`. Dengarkan kalimat sampai selesai agar tidak memilih tebakan awal yang salah.
-
-**Latihan berpasangan:** Buat empat kartu nama tempat. Siswa A membaca petunjuk atau menunjuk gambar tanpa menyebut jawabannya. Siswa B bertanya `Is it the ...?`. Siswa A memberi jawaban singkat dan, jika perlu, menyebut tempat yang benar. Tukar peran setelah empat giliran.
-
-**Cek pemahaman:** Jika teman mengatakan `No, it isn't`, apakah kita sudah tahu nama tempat yang benar? Belum tentu. Kita perlu petunjuk atau jawaban berikutnya.
+- [My Next Words Grade 3, buku siswa, Kemdikbudristek 2022, Unit 6](https://fliphtml5.com/hytuwb/My-Next-Words-Grade-3-Buku-Siswa/76/)
+- [Teacher’s Book — My Next Words Grade 3, Kemdikbudristek 2022, Unit 6](https://fliphtml5.com/qpnzc/gudm/Buku_Guru_Bahasa_Inggris_Kelas_III/64/)

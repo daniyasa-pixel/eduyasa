@@ -6,12 +6,12 @@
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
-| Bahasa Inggris | Unit 1–5: 250 soal, sepuluh modul, dan 60 SVG direvisi | 250/500 diperiksa; 25 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | 250 soal/5 unit; uji suara dan WebView di tahap aplikasi |
+| Bahasa Inggris | Unit 1–6: 300 soal, dua belas modul, dan 72 SVG direvisi | 300/500 diperiksa; 30 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | 200 soal/4 unit; uji suara dan WebView di tahap aplikasi |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **1.110/1.945**. Jumlah diubah: **1.089**.
-Sisa audit isi: **835 soal pada 18 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **1.160/1.945**. Jumlah diubah: **1.139**.
+Sisa audit isi: **785 soal pada 17 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -269,7 +269,7 @@ belum dipenuhi dan tidak diklaim sudah dilakukan. Tidak ada JSON/rilis aplikasi.
 mapel: jumlah 1.945, ID unik, empat opsi berbeda, kunci ada di opsi, serta
 referensi gambar soal tersedia. Hasil: **0 kesalahan struktur**.
 
-Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS, sepuluh bab PAI, dan Bahasa Inggris Unit 1–5. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
+Itu **bukan** bukti seluruh kunci benar secara akademik. Pemeriksaan isi mencakup delapan bab IPAS, sepuluh bab PAI, dan Bahasa Inggris Unit 1–6. Media Bab 4 sudah diperiksa pada kelanjutan ini. Script juga tidak menyimpulkan
 ketunggalan jawaban, kesesuaian buku, kualitas pengecoh, atau kompetensi.
 
 Dua belas SVG Bab 1 dirender pada Chromium dan diperiksa batas teksnya;
@@ -335,7 +335,7 @@ Pemeriksaan: 30 stem unik, empat opsi berbeda, kunci cocok, pembahasan ada.
 
 ## Posisi lanjut yang tepat
 
-Lanjutkan audit isi Bahasa Inggris Unit 6–10, lalu PJOK dan Seni Rupa.
+Lanjutkan audit isi Bahasa Inggris Unit 7–10, lalu PJOK dan Seni Rupa.
 Pertahankan Markdown. Konversi JSON, aktivasi, dan uji di aplikasi dilakukan
 pada tahap berikutnya. Jangan ubah BIN, MTK, atau PKN.
 
@@ -591,3 +591,23 @@ Commit soal bergambar: Unit 2 `ea295d69dc02544d4a6264558f1b15e517c14c2d`; Unit 3
 **Status progres konservatif:** Seluruh 1.945 soal telah melewati tahap pemeriksaan/revisi sumber menurut rincian batch (IPAS 560 + PAI 300 + ENG 500 + PJOK 360 + Seni Rupa 225 tetap **belum masuk revisi lanjutan**). **Terkait permintaan lanjutan**, sisa yang belum masuk putaran revisi baru menjadi **225 soal Seni Rupa**; sementara **610 soal ENG 6–10 (250) + PJOK 1–8 (360)** sudah direvisi sumber namun masih harus disahkan melalui audit final isi, buku, gambar, dan TTS bila relevan. Jangan menafsirkan angka "revisi sumber" sebagai sudah siap JSON.
 
 **Tugas wajib berikutnya:** (1) audit detail kesesuaian sumber PJOK dengan buku guru 2022, keselamatan gerak senam dan air, dan validitas setiap kunci/pengecoh; (2) ganti ikon sederhana dengan stimulus visual yang benar-benar menggambarkan gerak atau data untuk 80 SVG PJOK, uji SVG XML dan tampilan 390 px; (3) buat dua modul pembelajaran per unit PJOK jika sesuai spesifikasi EDUYASA karena hingga checkpoint ini PJOK **belum memiliki modul**; (4) audit akhir ENG 6–10; (5) revisi 225 Seni Rupa; (6) jalankan `scripts/check-k03-question-sources.py` pada keseluruhan repo sebelum Codex konversi JSON. Belum ada konversi JSON pada batch ini.
+
+## Bahasa Inggris Unit 6 — Is It the Canteen?
+
+Seluruh 50 soal dan dua modul diperiksa terhadap cakupan resmi Unit 6.
+Sumber lama memasukkan garden, gate, playground, yard, computer, dan toilet
+sebagai daftar utama. Bank ditulis ulang memakai delapan nama dalam buku:
+office, classroom, library, prayer room, canteen, schoolyard, laboratory,
+dan restroom. Soal mencakup identifikasi melalui fungsi/tanda, `What room
+is it?`, `Is it ...?`, jawaban Yes/No, serta koreksi tebakan.
+
+Sepuluh stimulus soal dan dua ilustrasi modul diganti. Lima naskah listening
+cocok dengan transkrip, jawaban, dan pembahasan. Dua belas SVG lolos
+pemeriksaan struktur XML dan batas teks berbasis sumber, sedangkan render
+browser 390 piksel belum dijalankan pada lingkungan putaran ini.
+
+Validator kanonis ekuivalen melalui konektor GitHub memeriksa 82 bank,
+1.945 ID unik, empat opsi unik, kunci di opsi, dan 310 rujukan aset unik
+dengan 0 kesalahan struktur. Kumulatif audit isi 1.160/1.945. Masih ada
+785 soal pada 17 bab/unit yang belum lulus audit final. Titik lanjut
+Bahasa Inggris Unit 7.

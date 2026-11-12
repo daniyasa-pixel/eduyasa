@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 204" role="img" aria-labelledby="title desc">
+<title id="title">Room guessing game</title><desc id="desc">clue: books and quiet reading. question: Is it the library?. answer: Yes, it is.</desc>
+<rect width="390" height="204" rx="15" fill="#f1f6f3"/><rect x="8" y="8" width="374" height="44" rx="9" fill="#235441"/>
+<text x="20" y="37" fill="#fff" font-family="sans-serif" font-size="21" font-weight="700">Room guessing game</text>
+<rect x="12" y="60" width="366" height="38" rx="7" fill="#fff"/><text x="22" y="85" fill="#214638" font-family="sans-serif" font-size="15" font-weight="700">clue</text><text x="146" y="85" fill="#214638" font-family="sans-serif" font-size="15">books and quiet reading</text>
+<rect x="12" y="104" width="366" height="38" rx="7" fill="#e1eee8"/><text x="22" y="129" fill="#214638" font-family="sans-serif" font-size="15" font-weight="700">question</text><text x="146" y="129" fill="#214638" font-family="sans-serif" font-size="15">Is it the library?</text>
+<rect x="12" y="148" width="366" height="38" rx="7" fill="#fff"/><text x="22" y="173" fill="#214638" font-family="sans-serif" font-size="15" font-weight="700">answer</text><text x="146" y="173" fill="#214638" font-family="sans-serif" font-size="15">Yes, it is.</text>
+</svg>

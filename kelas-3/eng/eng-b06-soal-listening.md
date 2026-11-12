@@ -1,103 +1,101 @@
 # Unit 6 — 5 Soal Listening
 
-**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Transkrip produksi harus disembunyikan dari siswa selama kuis. Perlu uji suara dan WebView pada perangkat nyata.
-
 ## Soal 46 — K03-ENG-B06-M01-046
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Excuse me. Is it the canteen? Yes, it is.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"What room is it? It is a library.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** Excuse me. Is it the canteen? Yes, it is.
+**Transkrip produksi (disembunyikan dari siswa):** What room is it? It is a library.
 
-**Pertanyaan:** Listen to the dialogue. Which place is confirmed?
+**Pertanyaan:** Which room does the speaker name?
 
 **Pilihan jawaban:**
-- the library
-- the canteen
-- the office
-- the garden
+- office
+- library
+- canteen
+- restroom
 
-**Kunci Jawaban:** the canteen
+**Kunci Jawaban:** library
 
-**Pembahasan:** The answer 'Yes, it is' confirms the canteen.
+**Pembahasan:** The answer names a library.
 
 ---
 
 ## Soal 47 — K03-ENG-B06-M01-047
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Is it the library? No, it isn't. It is the classroom.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Is it a laboratory? No, it isn't. It is a classroom.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** Is it the library? No, it isn't. It is the classroom.
+**Transkrip produksi (disembunyikan dari siswa):** Is it a laboratory? No, it isn't. It is a classroom.
 
-**Pertanyaan:** Listen to the dialogue. Where is the speaker?
+**Pertanyaan:** What is the correct room?
 
 **Pilihan jawaban:**
-- the library
-- the yard
-- the classroom
-- the gate
+- classroom
+- laboratory
+- office
+- schoolyard
 
-**Kunci Jawaban:** the classroom
+**Kunci Jawaban:** classroom
 
-**Pembahasan:** The speaker corrects the guess to the classroom.
+**Pembahasan:** The second sentence corrects the guess to classroom.
 
 ---
 
 ## Soal 48 — K03-ENG-B06-M01-048
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"This is the office. The head teacher works here.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Look at the meal tables. Is it the canteen? Yes, it is.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** This is the office. The head teacher works here.
+**Transkrip produksi (disembunyikan dari siswa):** Look at the meal tables. Is it the canteen? Yes, it is.
 
-**Pertanyaan:** Listen to the dialogue. What place does the speaker name?
+**Pertanyaan:** Which answer is heard?
 
 **Pilihan jawaban:**
-- the office
-- the playground
-- the toilet
-- the canteen
+- Yes, it is.
+- No, it isn't.
+- Yes, I do.
+- No, they aren't.
 
-**Kunci Jawaban:** the office
+**Kunci Jawaban:** Yes, it is.
 
-**Pembahasan:** The first sentence names the office.
+**Pembahasan:** The recording ends with Yes, it is.
 
 ---
 
 ## Soal 49 — K03-ENG-B06-M01-049
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Is it the playground? No, it isn't. It is the garden.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"This is the prayer room. Students pray here.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** Is it the playground? No, it isn't. It is the garden.
+**Transkrip produksi (disembunyikan dari siswa):** This is the prayer room. Students pray here.
 
-**Pertanyaan:** Listen to the dialogue. What is the correct place?
+**Pertanyaan:** What activity is connected to the room?
 
 **Pilihan jawaban:**
-- the yard
-- the gate
-- the playground
-- the garden
+- eating lunch
+- borrowing books
+- doing an experiment
+- praying
 
-**Kunci Jawaban:** the garden
+**Kunci Jawaban:** praying
 
-**Pembahasan:** The second sentence identifies the garden.
+**Pembahasan:** The recording connects the prayer room with praying.
 
 ---
 
 ## Soal 50 — K03-ENG-B06-M01-050
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Look at the books. Is it the library? Yes, it is.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The sign says restroom. Is it the office? No, it isn't.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** Look at the books. Is it the library? Yes, it is.
+**Transkrip produksi (disembunyikan dari siswa):** The sign says restroom. Is it the office? No, it isn't.
 
-**Pertanyaan:** Listen to the dialogue. Which answer matches the dialogue?
+**Pertanyaan:** Which room name appears on the sign?
 
 **Pilihan jawaban:**
-- No, it isn't.
-- Yes, it is.
-- Yes, they are.
-- No, they don't.
+- office
+- library
+- restroom
+- canteen
 
-**Kunci Jawaban:** Yes, it is.
+**Kunci Jawaban:** restroom
 
-**Pembahasan:** The final sentence gives the positive short answer.
+**Pembahasan:** The first sentence says the sign reads restroom.
 
 ---

@@ -7,7 +7,7 @@
 | Mapel | Bab | Soal | Temuan yang terverifikasi | Revisi selesai | Sisa pekerjaan |
 |---|---:|---:|---|---|---|
 | IPAS | 8 | 560 | Pola berulang, opsi ambigu, gambar membocorkan definisi, penyederhanaan konsep diperbaiki | 560 diperiksa; 546 diubah; 16 modul dan media delapan bab diselaraskan | Putaran isi/media selesai; belum konversi atau uji siswa |
-| ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Unit 1–5: 250 soal, sepuluh modul, 60 SVG, dan pemeriksaan sumber TTS | Unit 6–10; uji suara browser HP dan WebView di tahap aplikasi |
+| ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Unit 1–6: 300 soal, dua belas modul, 72 SVG, dan pemeriksaan sumber TTS | Unit 7–10; uji suara browser HP dan WebView di tahap aplikasi |
 | PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; 300 soal diperiksa per butir; 293 diubah; 20 modul diselaraskan | Isi selesai; cuplikan Arab ditinjau pada 390 px; uji browser HP/WebView dan pelafalan di tahap aplikasi |
 | PJOK | 8 | 360 | Soal berulang; ilustrasi hanya simbol; berkas soal lama dengan ID lain masih ada | Belum | Revisi teknik gerak dan keselamatan, ilustrasi, pilih bank resmi, modul belum ada |
 | SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik; bab internal belum diverifikasi terhadap buku | Belum | Soal pengamatan visual, distraktor, ilustrasi, verifikasi bab resmi |
@@ -274,3 +274,23 @@ Pemeriksaan struktur melalui JavaScript mengikuti validator sumber:
 82 bank, 1.945 soal, 310 rujukan aset unik, 0 kesalahan. Kumulatif audit
 isi 1.110/1.945, dengan 835 soal pada 18 bab/unit tersisa. Titik lanjut
 Bahasa Inggris Unit 6.
+
+### Kelanjutan: Bahasa Inggris Unit 6
+
+Seluruh 50 soal dan dua modul diperiksa terhadap cakupan resmi Unit 6.
+Sumber lama memasukkan garden, gate, playground, yard, computer, dan toilet
+sebagai daftar utama. Bank ditulis ulang memakai delapan nama dalam buku:
+office, classroom, library, prayer room, canteen, schoolyard, laboratory,
+dan restroom. Soal mencakup identifikasi melalui fungsi/tanda, `What room
+is it?`, `Is it ...?`, jawaban Yes/No, serta koreksi tebakan.
+
+Sepuluh stimulus soal dan dua ilustrasi modul diganti. Lima naskah listening
+cocok dengan transkrip, jawaban, dan pembahasan. Dua belas SVG lolos
+pemeriksaan struktur XML dan batas teks berbasis sumber, sedangkan render
+browser 390 piksel belum dijalankan pada lingkungan putaran ini.
+
+Validator kanonis ekuivalen melalui konektor GitHub memeriksa 82 bank,
+1.945 ID unik, empat opsi unik, kunci di opsi, dan 310 rujukan aset unik
+dengan 0 kesalahan struktur. Kumulatif audit isi 1.160/1.945. Masih ada
+785 soal pada 17 bab/unit yang belum lulus audit final. Titik lanjut
+Bahasa Inggris Unit 7.

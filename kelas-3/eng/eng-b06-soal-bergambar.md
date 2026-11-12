@@ -2,180 +2,180 @@
 
 ## Soal 36 — K03-ENG-B06-M01-036
 
-![Picture](assets/eng-b06-gambar-01.svg)
+![School map. A: office. B: library. C: canteen.](assets/eng-b06-gambar-01.svg)
 
-**Pertanyaan:** Which school place is shown in the picture?
+**Pertanyaan:** Which room is marked B?
 
 **Pilihan jawaban:**
+- library
+- office
 - canteen
-- computer
 - classroom
-- playground
 
-**Kunci Jawaban:** canteen
+**Kunci Jawaban:** library
 
-**Pembahasan:** Gambar menunjukkan "canteen" (kantin).
+**Pembahasan:** The map key pairs B with library.
 
 ---
 
 ## Soal 37 — K03-ENG-B06-M01-037
 
-![Picture](assets/eng-b06-gambar-02.svg)
+![Room clue card. sign: PRAYER ROOM. inside: prayer mats.](assets/eng-b06-gambar-02.svg)
 
-**Pertanyaan:** A student wants to borrow books. Which place does the picture show?
+**Pertanyaan:** What room does the card show?
 
 **Pilihan jawaban:**
-- canteen
+- laboratory
+- restroom
 - office
-- garden
-- library
+- prayer room
 
-**Kunci Jawaban:** library
+**Kunci Jawaban:** prayer room
 
-**Pembahasan:** Gambar menunjukkan "library" (perpustakaan).
+**Pembahasan:** The sign and prayer mats identify the prayer room.
 
 ---
 
 ## Soal 38 — K03-ENG-B06-M01-038
 
-![Picture](assets/eng-b06-gambar-03.svg)
+![Science room card. tables: experiment tools. rule: teacher supervises.](assets/eng-b06-gambar-03.svg)
 
-**Pertanyaan:** Look at the building in the picture. What is it?
+**Pertanyaan:** Which school room matches the card?
 
 **Pilihan jawaban:**
-- toilet
-- gate
-- classroom
 - library
+- canteen
+- laboratory
+- schoolyard
 
-**Kunci Jawaban:** classroom
+**Kunci Jawaban:** laboratory
 
-**Pembahasan:** Gambar menunjukkan "classroom" (ruang kelas).
+**Pembahasan:** Experiment tools and supervision are clues for a laboratory.
 
 ---
 
 ## Soal 39 — K03-ENG-B06-M01-039
 
-![Picture](assets/eng-b06-gambar-04.svg)
+![Lunch area. sign: CANTEEN. tables: meal trays.](assets/eng-b06-gambar-04.svg)
 
-**Pertanyaan:** Which place matches the picture?
+**Pertanyaan:** A friend asks “Is it the canteen?” Which answer fits?
 
 **Pilihan jawaban:**
-- yard
-- office
-- classroom
-- playground
+- No, it isn’t.
+- Yes, I do.
+- Yes, it is.
+- No, they don’t.
 
-**Kunci Jawaban:** office
+**Kunci Jawaban:** Yes, it is.
 
-**Pembahasan:** Gambar menunjukkan "office" (kantor).
+**Pembahasan:** The sign confirms the canteen.
 
 ---
 
 ## Soal 40 — K03-ENG-B06-M01-040
 
-![Picture](assets/eng-b06-gambar-05.svg)
+![Wrong guess. guess: office. sign: CLASSROOM.](assets/eng-b06-gambar-05.svg)
 
-**Pertanyaan:** A visitor asks for the name of this place. What should you say?
+**Pertanyaan:** Which reply corrects the guess?
 
 **Pilihan jawaban:**
-- toilet
-- office
-- garden
-- computer
+- Yes, it is an office.
+- No, it isn’t. It is a classroom.
+- No, it isn’t. It is an office.
+- Yes, they are.
 
-**Kunci Jawaban:** toilet
+**Kunci Jawaban:** No, it isn’t. It is a classroom.
 
-**Pembahasan:** Gambar menunjukkan "toilet" (toilet).
+**Pembahasan:** The sign identifies a classroom, so the office guess is wrong.
 
 ---
 
 ## Soal 41 — K03-ENG-B06-M01-041
 
-![Picture](assets/eng-b06-gambar-06.svg)
+![Schoolyard plan. area: outdoors. activity: students line up.](assets/eng-b06-gambar-06.svg)
 
-**Pertanyaan:** Look carefully. Which place is pictured?
+**Pertanyaan:** What place is described?
 
 **Pilihan jawaban:**
-- toilet
-- gate
-- canteen
-- playground
+- schoolyard
+- restroom
+- office
+- library
 
-**Kunci Jawaban:** playground
+**Kunci Jawaban:** schoolyard
 
-**Pembahasan:** Gambar menunjukkan "playground" (taman bermain).
+**Pembahasan:** An outdoor lineup area is the schoolyard.
 
 ---
 
 ## Soal 42 — K03-ENG-B06-M01-042
 
-![Picture](assets/eng-b06-gambar-07.svg)
+![Restroom sign. door: RESTROOM. nearby: handwashing area.](assets/eng-b06-gambar-07.svg)
 
-**Pertanyaan:** Which word identifies the area in the picture?
+**Pertanyaan:** Which sentence identifies the room?
 
 **Pilihan jawaban:**
-- yard
-- library
-- garden
-- playground
+- It is the restroom.
+- It is the library.
+- It is the laboratory.
+- It is the canteen.
 
-**Kunci Jawaban:** garden
+**Kunci Jawaban:** It is the restroom.
 
-**Pembahasan:** Gambar menunjukkan "garden" (taman).
+**Pembahasan:** The door sign says restroom.
 
 ---
 
 ## Soal 43 — K03-ENG-B06-M01-043
 
-![Picture](assets/eng-b06-gambar-08.svg)
+![Room survey. Made: classroom. Cici: library. Joshua: laboratory.](assets/eng-b06-gambar-08.svg)
 
-**Pertanyaan:** A student points to this school entrance. Which word fits?
+**Pertanyaan:** What is Joshua’s answer?
 
 **Pilihan jawaban:**
 - classroom
-- gate
-- garden
-- computer
+- library
+- office
+- laboratory
 
-**Kunci Jawaban:** gate
+**Kunci Jawaban:** laboratory
 
-**Pembahasan:** Gambar menunjukkan "gate" (gerbang).
+**Pembahasan:** Joshua’s row contains laboratory.
 
 ---
 
 ## Soal 44 — K03-ENG-B06-M01-044
 
-![Picture](assets/eng-b06-gambar-09.svg)
+![Book room. shelves: storybooks. activity: quiet reading.](assets/eng-b06-gambar-09.svg)
 
-**Pertanyaan:** What is the name of the open school area shown?
+**Pertanyaan:** Which question is a sensible guess?
 
 **Pilihan jawaban:**
-- yard
-- gate
-- canteen
-- office
+- Is it the canteen?
+- Is it the restroom?
+- Is it the library?
+- Is it the schoolyard?
 
-**Kunci Jawaban:** yard
+**Kunci Jawaban:** Is it the library?
 
-**Pembahasan:** Gambar menunjukkan "yard" (halaman).
+**Pembahasan:** Bookshelves and reading indicate the library.
 
 ---
 
 ## Soal 45 — K03-ENG-B06-M01-045
 
-![Picture](assets/eng-b06-gambar-10.svg)
+![Eight-place list. rooms: office, classroom, library, prayer room. places: canteen, schoolyard, laboratory, restroom.](assets/eng-b06-gambar-10.svg)
 
-**Pertanyaan:** Which object is shown in the picture?
+**Pertanyaan:** How many names are listed altogether?
 
 **Pilihan jawaban:**
-- yard
-- library
-- toilet
-- computer
+- four
+- six
+- eight
+- ten
 
-**Kunci Jawaban:** computer
+**Kunci Jawaban:** eight
 
-**Pembahasan:** Gambar menunjukkan "computer" (komputer).
+**Pembahasan:** The two lines contain four names each, for eight altogether.
 
 ---

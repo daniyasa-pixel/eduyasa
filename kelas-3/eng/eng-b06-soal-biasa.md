@@ -2,560 +2,560 @@
 
 ## Soal 1 — K03-ENG-B06-M01-001
 
-**Pertanyaan:** Rina wants to borrow a storybook. Where should she go?
+**Pertanyaan:** Which school room has shelves of books for reading?
 
 **Pilihan jawaban:**
-- library
 - canteen
-- gate
-- toilet
+- laboratory
+- restroom
+- library
 
 **Kunci Jawaban:** library
 
-**Pembahasan:** A library is a place to read or borrow books.
+**Pembahasan:** A library is the school room used for reading and books.
 
 ---
 
 ## Soal 2 — K03-ENG-B06-M01-002
 
-**Pertanyaan:** Budi wants to buy lunch at school. Which place does he need?
+**Pertanyaan:** Students eat lunch in this school place. What is it?
 
 **Pilihan jawaban:**
 - office
-- canteen
-- garden
 - classroom
+- canteen
+- library
 
 **Kunci Jawaban:** canteen
 
-**Pembahasan:** Students can buy food at the canteen.
+**Pembahasan:** A school canteen is used for eating or buying food.
 
 ---
 
 ## Soal 3 — K03-ENG-B06-M01-003
 
-**Pertanyaan:** The teacher says, 'Please sit at your desk.' Where are the students?
+**Pertanyaan:** The teacher writes on the board while students sit at desks. Which room is this?
 
 **Pilihan jawaban:**
-- gate
-- yard
+- office
+- restroom
 - classroom
-- library
+- schoolyard
 
 **Kunci Jawaban:** classroom
 
-**Pembahasan:** Students sit at their desks in the classroom.
+**Pembahasan:** Desks and a lesson board are clues for a classroom.
 
 ---
 
 ## Soal 4 — K03-ENG-B06-M01-004
 
-**Pertanyaan:** A visitor wants to meet the head teacher. Which room should she ask for?
+**Pertanyaan:** A parent needs information from school staff. Which room should the parent visit?
 
 **Pilihan jawaban:**
-- playground
+- canteen
 - office
-- garden
-- toilet
+- laboratory
+- prayer room
 
 **Kunci Jawaban:** office
 
-**Pembahasan:** The school office is where visitors can ask for staff.
+**Pembahasan:** The office is the room where school staff handle information and administration.
 
 ---
 
 ## Soal 5 — K03-ENG-B06-M01-005
 
-**Pertanyaan:** A student needs to wash their hands after using the toilet. Which place is mentioned?
+**Pertanyaan:** Students use this room for worship. Which phrase names it?
 
 **Pilihan jawaban:**
-- toilet
-- library
-- canteen
-- gate
+- prayer room
+- classroom
+- restroom
+- laboratory
 
-**Kunci Jawaban:** toilet
+**Kunci Jawaban:** prayer room
 
-**Pembahasan:** The sentence mentions the toilet.
+**Pembahasan:** Prayer room is the unit’s name for a room used for worship.
 
 ---
 
 ## Soal 6 — K03-ENG-B06-M01-006
 
-**Pertanyaan:** Children play on the swings. Where are they?
+**Pertanyaan:** Children line up outdoors before class. Which school area fits?
 
 **Pilihan jawaban:**
-- office
-- playground
+- schoolyard
 - library
-- canteen
+- office
+- restroom
 
-**Kunci Jawaban:** playground
+**Kunci Jawaban:** schoolyard
 
-**Pembahasan:** Swings are found in a playground.
+**Pembahasan:** The schoolyard is an outdoor area at school.
 
 ---
 
 ## Soal 7 — K03-ENG-B06-M01-007
 
-**Pertanyaan:** There are flowers and small plants in this school area. What is it?
+**Pertanyaan:** Students perform a simple supervised science activity. Which room fits?
 
 **Pilihan jawaban:**
-- garden
+- canteen
+- prayer room
 - office
-- classroom
-- toilet
+- laboratory
 
-**Kunci Jawaban:** garden
+**Kunci Jawaban:** laboratory
 
-**Pembahasan:** A garden is an area where plants grow.
+**Pembahasan:** A laboratory is used for supervised science activities.
 
 ---
 
 ## Soal 8 — K03-ENG-B06-M01-008
 
-**Pertanyaan:** A parent enters the school through a large entrance. What is it called?
+**Pertanyaan:** Which school room is used when someone needs the toilet?
 
 **Pilihan jawaban:**
-- yard
-- library
-- gate
+- classroom
 - canteen
+- restroom
+- library
 
-**Kunci Jawaban:** gate
+**Kunci Jawaban:** restroom
 
-**Pembahasan:** A gate is an entrance to the school grounds.
+**Pembahasan:** Restroom is the word used in this unit for that room.
 
 ---
 
 ## Soal 9 — K03-ENG-B06-M01-009
 
-**Pertanyaan:** Students line up in the open school area. Which word names that area?
+**Pertanyaan:** A sign says “LIBRARY.” Which sentence identifies the room?
 
 **Pilihan jawaban:**
-- computer
-- yard
-- office
-- library
+- It is an office.
+- It is a canteen.
+- It is a library.
+- It is a laboratory.
 
-**Kunci Jawaban:** yard
+**Kunci Jawaban:** It is a library.
 
-**Pembahasan:** A school yard is an open area on the school grounds.
+**Pembahasan:** The sign names a library.
 
 ---
 
 ## Soal 10 — K03-ENG-B06-M01-010
 
-**Pertanyaan:** Dina types her homework on a machine with a keyboard and screen. What is it?
+**Pertanyaan:** Complete the question: “What room ___ it?”
 
 **Pilihan jawaban:**
-- gate
-- garden
-- computer
-- canteen
+- are
+- is
+- do
+- does
 
-**Kunci Jawaban:** computer
+**Kunci Jawaban:** is
 
-**Pembahasan:** A computer can have a keyboard and a screen.
+**Pembahasan:** The unit’s question pattern is What room is it?
 
 ---
 
 ## Soal 11 — K03-ENG-B06-M01-011
 
-**Pertanyaan:** A: Is it the canteen? B: Yes, ___.
+**Pertanyaan:** “What room is it?” Which reply gives a room name?
 
 **Pilihan jawaban:**
-- it is
-- it isn't
-- they are
-- I am
+- It is a classroom.
+- Yes, I do.
+- On Monday.
+- I like reading.
 
-**Kunci Jawaban:** it is
+**Kunci Jawaban:** It is a classroom.
 
-**Pembahasan:** A positive answer to 'Is it ...?' is 'Yes, it is.'
+**Pembahasan:** It is a classroom directly identifies the room.
 
 ---
 
 ## Soal 12 — K03-ENG-B06-M01-012
 
-**Pertanyaan:** A: Is it the library? B: No, ___. It is the office.
+**Pertanyaan:** Which question checks whether a picture shows a laboratory?
 
 **Pilihan jawaban:**
-- it is
-- it isn't
-- he is
-- we are
+- Is it a laboratory?
+- Does it laboratory?
+- What laboratory it?
+- It is a laboratory?
 
-**Kunci Jawaban:** it isn't
+**Kunci Jawaban:** Is it a laboratory?
 
-**Pembahasan:** A negative answer to 'Is it ...?' is 'No, it isn't.'
+**Pembahasan:** Use Is it a ...? to ask whether one room matches a name.
 
 ---
 
 ## Soal 13 — K03-ENG-B06-M01-013
 
-**Pertanyaan:** Which question asks whether a room is the classroom?
+**Pertanyaan:** “Is it a canteen?” The picture really shows a canteen. Choose the short answer.
 
 **Pilihan jawaban:**
-- It is the classroom.
-- Is it the classroom?
-- Where classroom?
-- The classroom is.
+- No, it isn’t.
+- Yes, I do.
+- No, they aren’t.
+- Yes, it is.
 
-**Kunci Jawaban:** Is it the classroom?
+**Kunci Jawaban:** Yes, it is.
 
-**Pembahasan:** 'Is it the classroom?' is a yes/no question.
+**Pembahasan:** Yes, it is confirms an Is it ...? question.
 
 ---
 
 ## Soal 14 — K03-ENG-B06-M01-014
 
-**Pertanyaan:** A: Is it the gate? B: Yes, it is. What place is it?
+**Pertanyaan:** “Is it a restroom?” The picture shows a library. Choose the first part of the reply.
 
 **Pilihan jawaban:**
-- garden
-- office
-- gate
-- toilet
+- Yes, it is.
+- No, I don’t.
+- No, it isn’t.
+- Yes, they are.
 
-**Kunci Jawaban:** gate
+**Kunci Jawaban:** No, it isn’t.
 
-**Pembahasan:** 'Yes, it is' confirms that it is the gate.
+**Pembahasan:** No, it isn’t rejects the incorrect room guess.
 
 ---
 
 ## Soal 15 — K03-ENG-B06-M01-015
 
-**Pertanyaan:** A: Is it the office? B: No, it isn't. It is the library. Where are they?
+**Pertanyaan:** Which complete correction matches a library picture after someone guesses “office”?
 
 **Pilihan jawaban:**
-- office
-- library
-- canteen
-- yard
+- Yes, it is an office.
+- No, I don’t. It is a library.
+- No, it isn’t. It is a library.
+- It isn’t a library. It is an office.
 
-**Kunci Jawaban:** library
+**Kunci Jawaban:** No, it isn’t. It is a library.
 
-**Pembahasan:** The second sentence corrects the guess: it is the library.
+**Pembahasan:** Reject the office guess, then identify the library.
 
 ---
 
 ## Soal 16 — K03-ENG-B06-M01-016
 
-**Pertanyaan:** Choose the correct sentence to identify a place.
+**Pertanyaan:** Why does “Is it the library?” sometimes use the?
 
 **Pilihan jawaban:**
-- It the garden is.
-- It is the garden.
-- Is garden the it.
-- The it is garden.
+- Every library must always use the.
+- The speakers mean a particular library at their school.
+- Library is a person’s name.
+- The word the means many rooms.
 
-**Kunci Jawaban:** It is the garden.
+**Kunci Jawaban:** The speakers mean a particular library at their school.
 
-**Pembahasan:** 'It is the garden' has the correct word order.
+**Pembahasan:** The can point to the particular school room being discussed.
 
 ---
 
 ## Soal 17 — K03-ENG-B06-M01-017
 
-**Pertanyaan:** Which reply agrees with 'Is it the playground?'
+**Pertanyaan:** The book pattern also uses “Is it a laboratory?” Which word comes before laboratory here?
 
 **Pilihan jawaban:**
-- No, it isn't.
-- Yes, it is.
-- It is not a playground.
-- No, it is a library.
+- a
+- an
+- the two
+- some of
 
-**Kunci Jawaban:** Yes, it is.
+**Kunci Jawaban:** a
 
-**Pembahasan:** 'Yes, it is' confirms the question.
+**Pembahasan:** Laboratory begins with a consonant sound, so a is suitable.
 
 ---
 
 ## Soal 18 — K03-ENG-B06-M01-018
 
-**Pertanyaan:** A: Is it the toilet? B: No, it isn't. Which statement matches B's answer?
+**Pertanyaan:** Choose the correct phrase before office.
 
 **Pilihan jawaban:**
-- It is definitely the toilet.
-- It is not the toilet.
-- It is the same toilet.
-- The toilet is open.
+- an office
+- a office
+- an offices
+- the an office
 
-**Kunci Jawaban:** It is not the toilet.
+**Kunci Jawaban:** an office
 
-**Pembahasan:** 'No, it isn't' means the place is not the toilet.
+**Pembahasan:** Office begins with a vowel sound, so an is used.
 
 ---
 
 ## Soal 19 — K03-ENG-B06-M01-019
 
-**Pertanyaan:** A: What is this place? B: It is the canteen. Which question checks B's answer?
+**Pertanyaan:** Which sentence correctly identifies the prayer room?
 
 **Pilihan jawaban:**
-- Is it the canteen?
-- Is it a computer?
-- Where is my book?
-- Do you like rice?
+- It the prayer room is.
+- It is prayer room the.
+- Is it prayer the room.
+- It is the prayer room.
 
-**Kunci Jawaban:** Is it the canteen?
+**Kunci Jawaban:** It is the prayer room.
 
-**Pembahasan:** This yes/no question checks the identified place.
+**Pembahasan:** The subject, verb, and room phrase are in the correct order.
 
 ---
 
 ## Soal 20 — K03-ENG-B06-M01-020
 
-**Pertanyaan:** A: Is it a computer? B: Yes, it is. Which item is being identified?
+**Pertanyaan:** Arrange the words: it / a / Is / classroom?
 
 **Pilihan jawaban:**
-- a garden
-- a computer
-- a yard
-- a gate
+- It is a classroom?
+- Is classroom it a?
+- Is it a classroom?
+- A classroom is it.
 
-**Kunci Jawaban:** a computer
+**Kunci Jawaban:** Is it a classroom?
 
-**Pembahasan:** The positive reply confirms 'a computer'.
+**Pembahasan:** An Is it ...? question begins with Is, then it.
 
 ---
 
 ## Soal 21 — K03-ENG-B06-M01-021
 
-**Pertanyaan:** Read: 'This is not the library. It is the canteen.' Which place is correct?
+**Pertanyaan:** A card says “schoolyard,” but a friend guesses “canteen.” Which reply corrects the friend?
 
 **Pilihan jawaban:**
-- library
-- office
-- canteen
-- garden
+- Yes, it is the canteen.
+- No, it isn’t. It is the canteen.
+- No, it isn’t. It is the schoolyard.
+- Yes, they are.
 
-**Kunci Jawaban:** canteen
+**Kunci Jawaban:** No, it isn’t. It is the schoolyard.
 
-**Pembahasan:** The second sentence identifies the place as the canteen.
+**Pembahasan:** The card gives schoolyard, so reject canteen and state the correct place.
 
 ---
 
 ## Soal 22 — K03-ENG-B06-M01-022
 
-**Pertanyaan:** Read: 'It has bookshelves. We read books there.' Which place fits?
+**Pertanyaan:** Read the clues: “It has tables for meals. Students eat here.” What room is it?
 
 **Pilihan jawaban:**
-- playground
-- library
-- gate
-- toilet
+- laboratory
+- canteen
+- office
+- prayer room
 
-**Kunci Jawaban:** library
+**Kunci Jawaban:** canteen
 
-**Pembahasan:** Bookshelves and reading are clues for a library.
+**Pembahasan:** Tables for meals and eating identify the canteen.
 
 ---
 
 ## Soal 23 — K03-ENG-B06-M01-023
 
-**Pertanyaan:** Read: 'There are desks and a board. We study here.' Which place fits?
+**Pertanyaan:** Read the clues: “There are books. Students read here.” Which question is a sensible guess?
 
 **Pilihan jawaban:**
-- classroom
-- yard
-- canteen
-- garden
+- Is it the library?
+- Is it the restroom?
+- Is it the canteen?
+- Is it the schoolyard?
 
-**Kunci Jawaban:** classroom
+**Kunci Jawaban:** Is it the library?
 
-**Pembahasan:** Desks and a board for lessons suggest a classroom.
+**Pembahasan:** The clues support a library guess.
 
 ---
 
 ## Soal 24 — K03-ENG-B06-M01-024
 
-**Pertanyaan:** A student says, 'Is it the garden?' The teacher says, 'Yes, it is.' What can we conclude?
+**Pertanyaan:** Read the clues: “Students wash their hands here after using the toilet.” Which room fits?
 
 **Pilihan jawaban:**
-- It is the garden.
-- It is the office.
-- It is not a garden.
-- It is the library.
+- restroom
+- office
+- laboratory
+- classroom
 
-**Kunci Jawaban:** It is the garden.
+**Kunci Jawaban:** restroom
 
-**Pembahasan:** The teacher confirms the student's guess.
+**Pembahasan:** The restroom is the room described.
 
 ---
 
 ## Soal 25 — K03-ENG-B06-M01-025
 
-**Pertanyaan:** Which pair is a correct question and short answer?
+**Pertanyaan:** The teacher says only, “No, it isn’t.” What do you know?
 
 **Pilihan jawaban:**
-- Is it the office? — Yes, it is.
-- Is it the office? — Yes, I do.
-- Is it the office? — Yes, they do.
-- Is it the office? — Yes, he are.
+- The room is definitely the library.
+- The room is definitely the canteen.
+- The first guess is correct.
+- The first guess is wrong, but the correct room is still unknown.
 
-**Kunci Jawaban:** Is it the office? — Yes, it is.
+**Kunci Jawaban:** The first guess is wrong, but the correct room is still unknown.
 
-**Pembahasan:** 'Is it ...?' takes 'Yes, it is' for a positive short answer.
+**Pembahasan:** A negative short answer rejects the guess without naming another room.
 
 ---
 
 ## Soal 26 — K03-ENG-B06-M01-026
 
-**Pertanyaan:** A: Is it the yard? B: No, it isn't. It is the playground. What is the correct place?
+**Pertanyaan:** A card is hidden. Nita asks “Is it a classroom?” Her friend says “Yes, it is.” What should Nita record?
 
 **Pilihan jawaban:**
-- yard
+- library
+- laboratory
+- classroom
 - office
-- playground
-- gate
 
-**Kunci Jawaban:** playground
+**Kunci Jawaban:** classroom
 
-**Pembahasan:** The speaker corrects 'yard' to 'playground'.
+**Pembahasan:** The positive reply confirms classroom.
 
 ---
 
 ## Soal 27 — K03-ENG-B06-M01-027
 
-**Pertanyaan:** Which word completes '___ it the library?'
+**Pertanyaan:** Which pair contains two school rooms from Unit 6?
 
 **Pilihan jawaban:**
-- Am
-- Are
-- Is
-- Do
+- Sunday and Monday
+- rice and water
+- library and laboratory
+- clean and dirty
 
-**Kunci Jawaban:** Is
+**Kunci Jawaban:** library and laboratory
 
-**Pembahasan:** Use 'Is' to begin a question about one place with 'it'.
+**Pembahasan:** Both library and laboratory are school-room words in this unit.
 
 ---
 
 ## Soal 28 — K03-ENG-B06-M01-028
 
-**Pertanyaan:** Which words complete 'No, it ___.'?
+**Pertanyaan:** Which one is an outdoor school area in the Unit 6 list?
 
 **Pilihan jawaban:**
-- is
-- are
-- isn't
-- am
+- restroom
+- schoolyard
+- office
+- prayer room
 
-**Kunci Jawaban:** isn't
+**Kunci Jawaban:** schoolyard
 
-**Pembahasan:** The negative short answer is 'No, it isn't.'
+**Pembahasan:** Schoolyard is the outdoor area among these choices.
 
 ---
 
 ## Soal 29 — K03-ENG-B06-M01-029
 
-**Pertanyaan:** A: Is it the gate? B: Yes, it is. Which sentence reports the answer?
+**Pertanyaan:** A student says “It is a laboratory,” but the card says “office.” Which correction is accurate?
 
 **Pilihan jawaban:**
-- It is the gate.
-- It isn't the gate.
-- It is the toilet.
-- It is a computer.
+- It is an office.
+- It is a laboratory.
+- Is it the laboratory?
+- It is a schoolyard.
 
-**Kunci Jawaban:** It is the gate.
+**Kunci Jawaban:** It is an office.
 
-**Pembahasan:** A positive answer confirms the gate.
+**Pembahasan:** The card identifies the room as an office.
 
 ---
 
 ## Soal 30 — K03-ENG-B06-M01-030
 
-**Pertanyaan:** A: Is it the classroom? B: No, it isn't. Which sentence is supported?
+**Pertanyaan:** Which sentence contains both a question and an appropriate answer?
 
 **Pilihan jawaban:**
-- It is the classroom.
-- It is not the classroom.
-- It is definitely the office.
-- It is definitely the canteen.
+- Is it the office? — Yes, it is.
+- Is it the office? — Yes, I do.
+- What room is it? — No, I don’t.
+- Is it the office? — On Friday.
 
-**Kunci Jawaban:** It is not the classroom.
+**Kunci Jawaban:** Is it the office? — Yes, it is.
 
-**Pembahasan:** The reply rules out the classroom but does not name another place.
+**Pembahasan:** Yes, it is appropriately answers Is it the office?
 
 ---
 
 ## Soal 31 — K03-ENG-B06-M01-031
 
-**Pertanyaan:** The school map says 'LIBRARY' above one room. Which sentence is correct?
+**Pertanyaan:** The class list has office, classroom, library, and prayer room. Which word belongs in the same group?
 
 **Pilihan jawaban:**
-- It is the canteen.
-- It is the library.
-- It is the yard.
-- It is the office.
+- breakfast
+- Sunday
+- swimming
+- canteen
 
-**Kunci Jawaban:** It is the library.
+**Kunci Jawaban:** canteen
 
-**Pembahasan:** The label identifies the room as the library.
+**Pembahasan:** Canteen is another school room or place from Unit 6.
 
 ---
 
 ## Soal 32 — K03-ENG-B06-M01-032
 
-**Pertanyaan:** Siti points to a sign reading 'OFFICE'. Which question matches her guess?
+**Pertanyaan:** “Is it a laboratory?” “No, it isn’t. It is a classroom.” Which room is correct?
 
 **Pilihan jawaban:**
-- Is it the office?
-- Is it the playground?
-- Is it the garden?
-- Is it the toilet?
+- laboratory
+- office
+- classroom
+- restroom
 
-**Kunci Jawaban:** Is it the office?
+**Kunci Jawaban:** classroom
 
-**Pembahasan:** The sign says 'OFFICE', so the matching question asks about the office.
+**Pembahasan:** The second sentence corrects the laboratory guess to classroom.
 
 ---
 
 ## Soal 33 — K03-ENG-B06-M01-033
 
-**Pertanyaan:** A friend asks, 'Is it the canteen?' You see a library sign. What should you say?
+**Pertanyaan:** Which question asks for the room’s name rather than checking one guess?
 
 **Pilihan jawaban:**
-- Yes, it is.
-- No, it isn't. It is the library.
-- No, it isn't. It is the canteen.
-- Yes, it is the playground.
+- Is it the office?
+- Is it the library?
+- What room is it?
+- Is it a canteen?
 
-**Kunci Jawaban:** No, it isn't. It is the library.
+**Kunci Jawaban:** What room is it?
 
-**Pembahasan:** The library sign disproves the canteen guess and names the place.
+**Pembahasan:** What room is it? requests the room name.
 
 ---
 
 ## Soal 34 — K03-ENG-B06-M01-034
 
-**Pertanyaan:** Which sentence correctly says that a place is NOT the garden?
+**Pertanyaan:** A survey card gives “Made — classroom.” What can you report?
 
 **Pilihan jawaban:**
-- It is the garden.
-- It isn't the garden.
-- Is it the garden?
-- The garden it is.
+- Made’s answer is canteen.
+- Made’s answer is classroom.
+- Made has no answer.
+- Made’s answer is Sunday.
 
-**Kunci Jawaban:** It isn't the garden.
+**Kunci Jawaban:** Made’s answer is classroom.
 
-**Pembahasan:** 'Isn't' is the contraction of 'is not'.
+**Pembahasan:** The card pairs Made with classroom.
 
 ---
 
 ## Soal 35 — K03-ENG-B06-M01-035
 
-**Pertanyaan:** A: Is it the playground? B: No, it isn't. It is the yard. Which place does B name?
+**Pertanyaan:** You hear “It is the prayer room.” Which Yes/No question checks the same information?
 
 **Pilihan jawaban:**
-- playground
-- yard
-- library
-- canteen
+- Is it the prayer room?
+- Is it the restroom?
+- What day is it?
+- Do you like praying?
 
-**Kunci Jawaban:** yard
+**Kunci Jawaban:** Is it the prayer room?
 
-**Pembahasan:** The correction names the yard.
+**Pembahasan:** The question repeats the named room as a check.
 
 ---
