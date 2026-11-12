@@ -658,3 +658,9 @@ audit isi **1.210/1.945**. Masih ada **735 soal pada 16 bab/unit** yang belum
 lulus audit final. Titik lanjut audit akademik: Bahasa Inggris Unit 8. Instruksi
 Codex tetap mengikuti handover terbaru: konversi sumber `main` dan audit
 integritas JSON, bukan mengulang audit isi.
+
+## Checkpoint 2026-11-12 — konversi JSON batch awal (SBD Bab 1–3)
+
+Setelah seluruh sumber soal selesai ditangani, konversi JSON telah **dimulai langsung di GitHub**. Berhasil membuat **9 JSON** untuk Seni Rupa/SBD Bab 1, 2, 3: 3 bank teks @35, 3 bank bergambar @10, 3 berkas materi @2 versi. Total **135 soal dan 6 modul** terkonversi; jumlah/ID/urutan/empat opsi+kunci+pembahasan/media serta isi modul berhasil dicocokkan dengan Markdown sumber terbaru, **0 mismatch** dalam pemeriksaan pascakonversi. Ketiga puluh aset SVG soal terverifikasi ada. Manifest parsial `sbd/question-packs.json` tersedia untuk Bab 1–3. **Tidak ada perubahan ke HTML/grade-config.js**, sehingga mapel ini belum diaktifkan dalam frontend. Batch belum mencakup Bab 4–5 atau paket lain yang masih Markdown, dan belum ada uji browser HP/WebView.
+
+Laporan lengkap termasuk SHA Markdown dan aturan audit output ada pada `kelas-3/LAPORAN-AUDIT-JSON.md`. Sesuai keputusan pengguna, **jangan audit ulang isi akademik soal**; fokus Codex atau sesi berikutnya adalah konversi dan pemeriksaan integritas hasil JSON.
