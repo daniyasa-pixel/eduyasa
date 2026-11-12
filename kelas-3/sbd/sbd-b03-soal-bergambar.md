@@ -1,12 +1,12 @@
 # Bab 3 — Ideku, Gagasanku
 
-10 soal bergambar — ilustrasi masih skematis dan perlu pengembangan sesuai konteks pertanyaan.
+10 soal bergambar — pertanyaan sudah disesuaikan dengan situasi ilustrasi; media ditangani terpisah.
 
 ## Soal 36 — K03-SBD-B03-M01-036
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Ide karya dapat berasal dari ....
+**Pertanyaan:** Anak pada ilustrasi mengingat kegiatan sehari-hari sebagai sumber gambar. Ide karya dapat berasal dari ....
 
 **Pilihan jawaban:**
 - hanya gambar orang lain
@@ -24,7 +24,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Saat ide pertama kurang cocok, kita dapat ....
+**Pertanyaan:** Dua rancangan diperlihatkan; rancangan awal belum sesuai tujuan. Langkah yang sebaiknya dilakukan adalah ....
 
 **Pilihan jawaban:**
 - menyalahkan teman
@@ -42,7 +42,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Warna hangat mencakup ....
+**Pertanyaan:** Perhatikan tiga bidang cat pada palet. Merah, oranye, dan kuning merupakan kelompok warna ....
 
 **Pilihan jawaban:**
 - biru dan hijau saja
@@ -60,7 +60,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Warna sejuk mencakup ....
+**Pertanyaan:** Perhatikan pilihan warna biru dan hijau pada palet. Kelompok itu biasanya memberikan kesan ....
 
 **Pilihan jawaban:**
 - biru dan hijau
@@ -78,7 +78,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Komposisi berarti ....
+**Pertanyaan:** Pada rancangan, beberapa objek dipindahkan posisinya agar gambar seimbang. Aspek yang diperbaiki adalah ....
 
 **Pilihan jawaban:**
 - harga kertas
@@ -96,7 +96,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Titik fokus dalam gambar adalah bagian yang ....
+**Pertanyaan:** Ada satu objek yang sengaja dibuat paling terlihat pada poster. Bagian itu berfungsi ....
 
 **Pilihan jawaban:**
 - tidak terlihat
@@ -114,7 +114,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Rancangan poster hemat air dapat menampilkan ....
+**Pertanyaan:** Poster tentang penggunaan air memperlihatkan keran dan kalimat singkat. Unsur yang sesuai dengan pesannya adalah ....
 
 **Pilihan jawaban:**
 - air terbuang tanpa pesan
@@ -132,7 +132,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Memilih bahan berkarya perlu mempertimbangkan ....
+**Pertanyaan:** Sebelum menggunakan bahan untuk karya, siswa mengecek apakah aman dan mudah diperoleh. Pertimbangan ini berkaitan dengan ....
 
 **Pilihan jawaban:**
 - keamanan dan ketersediaan bahan
@@ -150,7 +150,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Gagasan orisinal berarti ....
+**Pertanyaan:** Gambar inspirasi dan hasil rancangan pribadi diperlihatkan bersebelahan. Sikap kreatif yang diharapkan adalah ....
 
 **Pilihan jawaban:**
 - meniru tanpa memahami
@@ -168,7 +168,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Membuat beberapa sketsa kecil membantu ....
+**Pertanyaan:** Tiga sketsa kecil memiliki tata letak berbeda. Mengapa siswa perlu membuat dan membandingkannya?
 
 **Pilihan jawaban:**
 - menghilangkan ide
