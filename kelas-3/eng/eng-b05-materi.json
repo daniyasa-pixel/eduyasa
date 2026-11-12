@@ -1,0 +1,22 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "K03-ENG-B05",
+  "chapter_title": "I Like Riding a Bike on Sunday",
+  "modules": [
+    {
+      "id": "K03-ENG-B05-MOD-01",
+      "version": "MOD-01",
+      "title": "Susun hari dan ceritakan hobimu",
+      "content": "Baca tujuh nama hari secara urut: **Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday**. Sesudah Sunday, urutan berulang ke Monday. Awali setiap nama hari dengan huruf kapital.\n\n**Before** berarti sebelum. **After** berarti sesudah. Untuk satu hari yang langsung berdekatan, kamu bisa bilang **right before** atau **right after**. Saturday datang tepat sebelum Sunday, dan Monday datang tepat sesudah Sunday.\n\n![Jadwal hobi Dina dari Jumat sampai Senin](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b05-materi-01.svg)\n\nSaat menyebutkan hari kegiatan, pakai **on**. Coba tanya teman, **What do you like doing on Sunday?** Jawaban yang cocok misalnya **I like riding a bike on Sunday.** Pertanyaan **Do you like riding a bike on Sunday?** bisa dijawab **Yes, I do.** atau **No, I don’t.** Saat melaporkan hobi satu teman, gunakan **likes**: **Dina likes riding a bike on Sunday.**\n\n**Coba berpasangan.** Pilih dua hari. Tanya hobi teman pada kedua hari itu, lalu laporkan satu jawaban memakai nama teman. Pakai jadwalnya untuk menjawab satu pertanyaan tentang hari sebelum atau sesudahnya."
+    },
+    {
+      "id": "K03-ENG-B05-MOD-02",
+      "version": "MOD-02",
+      "title": "Buat kartu jadwal hobi",
+      "content": "Tulis tujuh kartu hari: **Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday**. Susun melingkar agar kamu bisa melihat bahwa sesudah Saturday kembali ke Sunday. Periksa huruf kapital pada setiap kartu. Pakai **before** untuk sebelum dan **after** untuk sesudah. Sebagai latihan, letakkan Friday tepat sebelum Saturday dan Monday tepat sesudah Sunday.\n\n![Tiga catatan survei yang memasangkan nama, hari, dan hobi](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b05-materi-02.svg)\n\nPilih satu hari dan satu hobi, seperti **drawing**, **swimming**, **reading**, **playing badminton**, atau **riding a bike**. Tanya **What do you like doing on Saturday?** Temanmu bisa menjawab **I like swimming on Saturday.** Kalau ingin memastikan pilihan, tanya **Do you like swimming on Saturday?** Jawabannya bisa **Yes, I do.** atau **No, I don’t.**\n\nCatat hari dan hobi yang kamu dengar. Gunakan **on** sebelum nama hari dan **likes** ketika melaporkan hobi satu orang. Contohnya **Maya likes swimming on Sunday.**\n\n**Coba bertiga.** Satu anak bertanya, satu menjawab, dan satu membaca kembali catatan. Tukar peran. Geser satu kartu hobi satu hari lebih awal, lalu sebutkan hari barunya.\n\n### Acuan Unit 5\n\n- [My Next Words Grade 3, buku siswa, Kemdikbudristek 2022, Unit 5](https://fliphtml5.com/hcjff/zlru/Inggris_BS_KLS_III/73/)\n- [Teacher’s Book — My Next Words Grade 3, Kemdikbudristek 2022, Unit 5](https://fliphtml5.com/qpnzc/gudm/Buku_Guru_Bahasa_Inggris_Kelas_III/55/)"
+    }
+  ]
+}
