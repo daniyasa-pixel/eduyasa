@@ -1,3 +1,27 @@
+# HANDOVER CODEX — ATURAN TERBARU (12 NOVEMBER 2026)
+
+**Prioritas tertinggi: instruksi pengguna terbaru menggantikan prosedur audit isi pada dokumen lama.** Codex bertugas **mengonversi sumber Markdown EDUYASA Kelas 3 menjadi JSON dan melakukan AUDIT HASIL KONVERSI JSON**, **BUKAN** mengaudit ulang atau menulis ulang mutu pedagogis/akademik soal dan modul. Tidak perlu audit kecocokan buku, ulang soal, penilaian distraktor, atau revisi isi sumber sebelum konversi. Ambil Markdown versi terakhir di branch `main` apa adanya. Jika sumber berubah saat pekerjaan, baca SHA terbaru dan konversi ulang paket terdampak.
+
+## Apa saja yang WAJIB diaudit setelah konversi
+
+1. **Kelengkapan & jumlah:** bandingkan setiap ID Markdown vs JSON satu per satu. Target paket: IPAS 8 x 70 = 560; PAI 10 x 30 = 300; Inggris 10 x 50 = 500; PJOK 8 x 45 = 360; Seni Rupa/SBD 5 x 45 = 225. Total **1.945 soal**. Kecocokan jumlah saja tidak cukup: **himpunan ID wajib identik**, tak boleh nomor hilang, ganda, bertambah, bergeser atau teracak.
+2. **Urutan nomor:** urutan soal di JSON mengikuti urutan Markdown secara persis, bukan sort alfabet/string yang merusak urutan angka. Jangan mengacak urutan bank sewaktu konversi. Jika aplikasi membutuhkan pengacakan tampilan soal atau pilihan, lakukan **hanya pada runtime**, bukan dengan mengubah susunan data kanonis atau ID. Audit nomor 001 hingga nomor terakhir setiap bab, termasuk file teks dan gambar (contoh 001–035 lalu 036–045, listening 046–050).
+3. **Kesetiaan isi antarsumber:** bandingkan teks pertanyaan, pilihan jawaban (tepat empat, **urutannya persis dan tanpa awalan A/B/C/D**), kunci jawaban berupa **teks lengkap dan persis sama** salah satu opsi, serta pembahasan. Tidak boleh dipotong, dirangkum, diparafrase, salah kutip, atau tertukar antar-ID; pemeriksaan ini adalah **audit kesetiaan transfer**, bukan audit apakah isi pelajaran benar.
+4. **Metadata dan tipe:** `subject_id`, `subject_name`, `grade=3`, `curriculum`, `chapter_id`, `chapter_title`, `type=PG`, jalur media. Pertahankan ID `K03-<MAPEL>-B##-M01-###`; modul `K03-<MAPEL>-B##-MOD-01/02`. Jangan mengganti kode `SBD` menjadi `SRP` atau `PJK` menjadi `PJOK` pada ID sumber. Jangan salah tempatkan bab atau mencampur kelas 3 dengan kelas 6.
+5. **Media:** referensi gambar harus menunjuk aset yang benar dan dapat diakses; metadata TTS Inggris `type/lang/text/rate` tidak berubah; transkrip produksi tidak tampil kepada siswa. Jagalah teks Arab, harakat, karakter khusus dan LaTeX agar tidak rusak oleh JSON escaping. Bila nama path harus diubah untuk aplikasi, buat pemetaan yang dapat diuji satu-ke-satu.
+6. **Modul:** jumlah dan urutan dua versi MOD-01/MOD-02 per bab yang memang tersedia, judul, teks utuh termasuk Markdown/LaTeX dan gambar harus sama dengan Markdown. **PJOK saat ini tidak memiliki modul**; jangan mengarang, jangan klaim selesai, dan catat sebagai keterbatasan sumber.
+7. **Teknis:** semua JSON dapat di-parse, sesuai skema aplikasi, manifest mengarah ke file benar, path aset valid, dan bank dapat dimuat. Audit otomatis difokuskan pada perbandingan Markdown–JSON per-ID dan per-kolom. Tampilkan laporan PASS/FAIL dengan daftar **path + ID + field** yang berbeda, jumlah expected/actual, dan SHA asal; lalu **perbaiki JSON/konverter** dan jalankan kembali audit sampai lulus.
+
+**Aturan penanganan masalah:** Jika JSON tidak cocok dengan sumber, perbaiki proses konversi atau JSON—**bukan mengubah isi Markdown** agar cocok dengan JSON. Jika sumber Markdown ternyata ambigu secara sintaks sehingga tidak dapat dipetakan dengan pasti, laporkan ID/path sebagai `SOURCE_BLOCKER`, jangan menebak atau diam-diam mengubah soal. Kesalahan akademik yang tidak berkaitan dengan transfer **di luar ruang lingkup tugas Codex ini**. Jangan memblokir konversi karena status audit isi dari handover lama; cukup catat batasan tersebut terpisah. Lakukan pekerjaan dan lapor setelah semua paket yang sumbernya ada terkonversi serta audit JSON lulus. Jangan mengklaim seluruh aplikasi siap rilis hanya karena JSON lulus.
+
+## Format dan rute output
+
+Gunakan JSON soal berstruktur `subject_id`, `subject_name`, `grade`, `curriculum`, `chapters[]` dengan setiap soal `id`, `type`, `text`, `options`, `answer`, `discussion`. Gunakan nama `<kode>-bNN.json` (teks), `<kode>-bNNa.json` (bergambar), `<kode>-bNN-materi.json` (modul). Untuk sumber Inggris, file listening terpisah atau metadata khusus yang kompatibel aplikasi boleh digunakan, **asalkan** seluruh 5 listening/Unit utuh dan tercatat manifestnya. Gunakan pola yang memang dipakai oleh aplikasi—jangan mengubah skema secara spekulatif. Setelah konversi, perbarui status paket, manifest dan dokumentasi sesuai kesiapan teknisnya.
+
+---
+
+## ARSIP HANDOVER LAMA — aturan audit konten sebelum konversi di bawah ini SUDAH DIGANTIKAN
+
 # Handover Codex — konversi JSON EDUYASA Kelas 3
 
 Repositori [daniyasa-pixel/Eduyasa](https://github.com/daniyasa-pixel/eduyasa), branch `main`. Inventaris per 12 November 2026 berdasarkan audit isi sampai Bahasa Inggris Unit 5. Baca [catatan progres](PROGRES-REVISI-1945.md) dan [laporan audit](AUDIT-5-MAPEL-2026-11-11.md) di `main` sebelum mulai. Gunakan versi Markdown terbaru dan catat SHA sumber yang diperiksa.
