@@ -2,560 +2,560 @@
 
 ## Soal 1 — K03-ENG-B07-M01-001
 
-**Pertanyaan:** What is the English word for "di belakang"?
+**Pertanyaan:** The classroom is behind the office. Where is the classroom?
 
 **Pilihan jawaban:**
-- near
-- outside
-- between
-- behind
+- behind the office
+- in front of the office
+- inside the office
+- on the office
 
-**Kunci Jawaban:** behind
+**Kunci Jawaban:** behind the office
 
-**Pembahasan:** "behind" berarti "di belakang".
+**Pembahasan:** Behind means at the back of the office.
 
 ---
 
 ## Soal 2 — K03-ENG-B07-M01-002
 
-**Pertanyaan:** What is the English word for "di depan"?
+**Pertanyaan:** The gate is in front of the school. Where is the gate?
 
 **Pilihan jawaban:**
-- on
-- near
-- in front of
-- far
+- behind the school
+- in front of the school
+- under the school
+- inside the school
 
-**Kunci Jawaban:** in front of
+**Kunci Jawaban:** in front of the school
 
-**Pembahasan:** "in front of" berarti "di depan".
+**Pembahasan:** In front of means before the front side.
 
 ---
 
 ## Soal 3 — K03-ENG-B07-M01-003
 
-**Pertanyaan:** What is the English word for "di sebelah"?
+**Pertanyaan:** The library is next to the office. What is beside the office?
 
 **Pilihan jawaban:**
-- far
-- next to
-- inside
-- under
+- the garden
+- the gate
+- the library
+- the yard
 
-**Kunci Jawaban:** next to
+**Kunci Jawaban:** the library
 
-**Pembahasan:** "next to" berarti "di sebelah".
+**Pembahasan:** Next to means beside.
 
 ---
 
 ## Soal 4 — K03-ENG-B07-M01-004
 
-**Pertanyaan:** What is the English word for "di antara"?
+**Pertanyaan:** The canteen is between the library and the office. Where is the canteen?
 
 **Pilihan jawaban:**
-- between
-- outside
-- behind
-- inside
+- behind both rooms
+- between the two places
+- inside the library
+- under the office
 
-**Kunci Jawaban:** between
+**Kunci Jawaban:** between the two places
 
-**Pembahasan:** "between" berarti "di antara".
+**Pembahasan:** Between locates something in the middle of two places.
 
 ---
 
 ## Soal 5 — K03-ENG-B07-M01-005
 
-**Pertanyaan:** What is the English word for "dekat"?
+**Pertanyaan:** The garden is near the classroom. Which word describes the distance?
 
 **Pilihan jawaban:**
-- on
-- in front of
+- far
 - outside
 - near
+- under
 
 **Kunci Jawaban:** near
 
-**Pembahasan:** "near" berarti "dekat".
+**Pembahasan:** Near means not far away.
 
 ---
 
 ## Soal 6 — K03-ENG-B07-M01-006
 
-**Pertanyaan:** What is the English word for "jauh"?
+**Pertanyaan:** The sports field is far from the library. Which sentence is correct?
 
 **Pilihan jawaban:**
-- next to
-- on
-- far
-- under
+- They are next to each other.
+- They are far apart.
+- The field is inside the library.
+- The field is on the library.
 
-**Kunci Jawaban:** far
+**Kunci Jawaban:** They are far apart.
 
-**Pembahasan:** "far" berarti "jauh".
+**Pembahasan:** Far from means a long distance away.
 
 ---
 
 ## Soal 7 — K03-ENG-B07-M01-007
 
-**Pertanyaan:** What is the English word for "di dalam"?
+**Pertanyaan:** Rani is inside the classroom. Where is Rani?
 
 **Pilihan jawaban:**
-- under
-- inside
-- behind
-- between
+- outside the classroom
+- behind the classroom
+- inside the classroom
+- under the classroom
 
-**Kunci Jawaban:** inside
+**Kunci Jawaban:** inside the classroom
 
-**Pembahasan:** "inside" berarti "di dalam".
+**Pembahasan:** Inside means within the room.
 
 ---
 
 ## Soal 8 — K03-ENG-B07-M01-008
 
-**Pertanyaan:** What is the English word for "di luar"?
+**Pertanyaan:** The students are outside the library. Which sentence is correct?
 
 **Pilihan jawaban:**
-- outside
-- in front of
-- near
-- behind
+- They are not inside the library.
+- They are under the library.
+- They are on the library.
+- They are between books.
 
-**Kunci Jawaban:** outside
+**Kunci Jawaban:** They are not inside the library.
 
-**Pembahasan:** "outside" berarti "di luar".
+**Pembahasan:** Outside means not inside the building or room.
 
 ---
 
 ## Soal 9 — K03-ENG-B07-M01-009
 
-**Pertanyaan:** What is the English word for "di atas"?
+**Pertanyaan:** The book is on the desk. Where is the book?
 
 **Pilihan jawaban:**
-- next to
-- far
-- in front of
-- on
+- under the desk
+- behind the desk
+- on the desk
+- inside the desk
 
-**Kunci Jawaban:** on
+**Kunci Jawaban:** on the desk
 
-**Pembahasan:** "on" berarti "di atas".
+**Pembahasan:** On indicates the book rests on the desk surface.
 
 ---
 
 ## Soal 10 — K03-ENG-B07-M01-010
 
-**Pertanyaan:** What is the English word for "di bawah"?
+**Pertanyaan:** The bag is under the chair. Where is the bag?
 
 **Pilihan jawaban:**
-- inside
-- next to
-- under
-- between
+- on the chair
+- under the chair
+- next to the gate
+- inside the library
 
-**Kunci Jawaban:** under
+**Kunci Jawaban:** under the chair
 
-**Pembahasan:** "under" berarti "di bawah".
+**Pembahasan:** Under means below the chair.
 
 ---
 
 ## Soal 11 — K03-ENG-B07-M01-011
 
-**Pertanyaan:** What does "behind" mean in Indonesian?
+**Pertanyaan:** A: Where is your class? B: It is behind the office. Which place is in front of the class?
 
 **Pilihan jawaban:**
-- di antara
-- di belakang
-- dekat
-- di luar
+- the office
+- the canteen
+- the garden
+- the library
 
-**Kunci Jawaban:** di belakang
+**Kunci Jawaban:** the office
 
-**Pembahasan:** "behind" berarti "di belakang".
+**Pembahasan:** If the class is behind the office, the office is in front of the class.
 
 ---
 
 ## Soal 12 — K03-ENG-B07-M01-012
 
-**Pertanyaan:** What does "in front of" mean in Indonesian?
+**Pertanyaan:** The office is in front of the classroom. Complete: The classroom is ___ the office.
 
 **Pilihan jawaban:**
-- di depan
-- jauh
-- di atas
-- dekat
+- on
+- between
+- behind
+- inside
 
-**Kunci Jawaban:** di depan
+**Kunci Jawaban:** behind
 
-**Pembahasan:** "in front of" berarti "di depan".
+**Pembahasan:** Behind is the reverse of in front of.
 
 ---
 
 ## Soal 13 — K03-ENG-B07-M01-013
 
-**Pertanyaan:** What does "next to" mean in Indonesian?
+**Pertanyaan:** The library is next to the canteen. Which statement is supported?
 
 **Pilihan jawaban:**
-- di dalam
-- di bawah
-- jauh
-- di sebelah
+- The library is beside the canteen.
+- The library is far away.
+- The library is under the canteen.
+- The library is inside the canteen.
 
-**Kunci Jawaban:** di sebelah
+**Kunci Jawaban:** The library is beside the canteen.
 
-**Pembahasan:** "next to" berarti "di sebelah".
+**Pembahasan:** Next to means beside.
 
 ---
 
 ## Soal 14 — K03-ENG-B07-M01-014
 
-**Pertanyaan:** What does "between" mean in Indonesian?
+**Pertanyaan:** The office is between the library and the canteen. Which place is in the middle?
 
 **Pilihan jawaban:**
-- di belakang
-- di dalam
-- di antara
-- di luar
+- the library
+- the canteen
+- the office
+- the playground
 
-**Kunci Jawaban:** di antara
+**Kunci Jawaban:** the office
 
-**Pembahasan:** "between" berarti "di antara".
+**Pembahasan:** The sentence names the office as the middle place.
 
 ---
 
 ## Soal 15 — K03-ENG-B07-M01-015
 
-**Pertanyaan:** What does "near" mean in Indonesian?
+**Pertanyaan:** Which sentence uses 'between' correctly?
 
 **Pilihan jawaban:**
-- di luar
-- dekat
-- di atas
-- di depan
+- The gate is between the office and the library.
+- The gate is between the office.
+- The gate between office is.
+- Between the gate is office.
 
-**Kunci Jawaban:** dekat
+**Kunci Jawaban:** The gate is between the office and the library.
 
-**Pembahasan:** "near" berarti "dekat".
+**Pembahasan:** Between needs two reference places in this sentence.
 
 ---
 
 ## Soal 16 — K03-ENG-B07-M01-016
 
-**Pertanyaan:** What does "far" mean in Indonesian?
+**Pertanyaan:** Which question asks about the location of a room?
 
 **Pilihan jawaban:**
-- jauh
-- di bawah
-- di sebelah
-- di atas
+- What is your name?
+- Where is the classroom?
+- Do you like apples?
+- How old are you?
 
-**Kunci Jawaban:** jauh
+**Kunci Jawaban:** Where is the classroom?
 
-**Pembahasan:** "far" berarti "jauh".
+**Pembahasan:** Where asks about location.
 
 ---
 
 ## Soal 17 — K03-ENG-B07-M01-017
 
-**Pertanyaan:** What does "inside" mean in Indonesian?
+**Pertanyaan:** A: Where is the library? B: It is next to the office. Which answer is correct?
 
 **Pilihan jawaban:**
-- di belakang
-- di antara
-- di bawah
-- di dalam
+- It is next to the office.
+- It is under the chair.
+- It is in my bag.
+- It is on the desk.
 
-**Kunci Jawaban:** di dalam
+**Kunci Jawaban:** It is next to the office.
 
-**Pembahasan:** "inside" berarti "di dalam".
+**Pembahasan:** The reply directly states the library's position.
 
 ---
 
 ## Soal 18 — K03-ENG-B07-M01-018
 
-**Pertanyaan:** What does "outside" mean in Indonesian?
+**Pertanyaan:** The cat is under the table. Which word describes its position?
 
 **Pilihan jawaban:**
-- dekat
-- di belakang
-- di luar
-- di depan
+- on
+- under
+- near
+- far
 
-**Kunci Jawaban:** di luar
+**Kunci Jawaban:** under
 
-**Pembahasan:** "outside" berarti "di luar".
+**Pembahasan:** Under describes a position below something.
 
 ---
 
 ## Soal 19 — K03-ENG-B07-M01-019
 
-**Pertanyaan:** What does "on" mean in Indonesian?
+**Pertanyaan:** The pencil is on the table, not under it. Which statement is true?
 
 **Pilihan jawaban:**
-- di depan
-- di atas
-- di sebelah
-- jauh
+- The pencil is under the table.
+- The pencil is outside the school.
+- The pencil is on the table.
+- The pencil is behind the school.
 
-**Kunci Jawaban:** di atas
+**Kunci Jawaban:** The pencil is on the table.
 
-**Pembahasan:** "on" berarti "di atas".
+**Pembahasan:** The sentence explicitly says the pencil is on the table.
 
 ---
 
 ## Soal 20 — K03-ENG-B07-M01-020
 
-**Pertanyaan:** What does "under" mean in Indonesian?
+**Pertanyaan:** A: Is the ball inside the box? B: No, it is outside the box. Where is the ball?
 
 **Pilihan jawaban:**
-- di bawah
-- di antara
-- di dalam
-- di sebelah
+- inside the box
+- under the box
+- on the box
+- outside the box
 
-**Kunci Jawaban:** di bawah
+**Kunci Jawaban:** outside the box
 
-**Pembahasan:** "under" berarti "di bawah".
+**Pembahasan:** The second speaker corrects the location to outside.
 
 ---
 
 ## Soal 21 — K03-ENG-B07-M01-021
 
-**Pertanyaan:** Which English word matches "di belakang" in the lesson?
+**Pertanyaan:** The classroom is behind the office. Which question can the answer respond to?
 
 **Pilihan jawaban:**
-- near
-- outside
-- between
-- behind
+- Where is the classroom?
+- What is for lunch?
+- Who is your teacher?
+- When is the break?
 
-**Kunci Jawaban:** behind
+**Kunci Jawaban:** Where is the classroom?
 
-**Pembahasan:** "behind" berarti "di belakang".
+**Pembahasan:** A location statement answers a where-question.
 
 ---
 
 ## Soal 22 — K03-ENG-B07-M01-022
 
-**Pertanyaan:** Which English word matches "di depan" in the lesson?
+**Pertanyaan:** Which sentence describes two rooms beside each other?
 
 **Pilihan jawaban:**
-- on
-- near
-- in front of
-- far
+- The rooms are far apart.
+- The rooms are next to each other.
+- One room is under the other.
+- One room is on a desk.
 
-**Kunci Jawaban:** in front of
+**Kunci Jawaban:** The rooms are next to each other.
 
-**Pembahasan:** "in front of" berarti "di depan".
+**Pembahasan:** Next to each other means side by side.
 
 ---
 
 ## Soal 23 — K03-ENG-B07-M01-023
 
-**Pertanyaan:** Which English word matches "di sebelah" in the lesson?
+**Pertanyaan:** A: Where is the canteen? B: It is near the gate. What do we know?
 
 **Pilihan jawaban:**
-- far
-- next to
-- inside
-- under
+- The canteen is near the gate.
+- The canteen is inside the gate.
+- The canteen is far from the gate.
+- The canteen is under the gate.
 
-**Kunci Jawaban:** next to
+**Kunci Jawaban:** The canteen is near the gate.
 
-**Pembahasan:** "next to" berarti "di sebelah".
+**Pembahasan:** Near describes a short distance without giving an exact measurement.
 
 ---
 
 ## Soal 24 — K03-ENG-B07-M01-024
 
-**Pertanyaan:** Which English word matches "di antara" in the lesson?
+**Pertanyaan:** The office is far from the playground. Can we tell the exact distance?
 
 **Pilihan jawaban:**
-- between
-- outside
-- behind
-- inside
+- Yes, exactly one meter.
+- Yes, exactly ten meters.
+- No, 'far' gives no exact number.
+- Yes, exactly one kilometer.
 
-**Kunci Jawaban:** between
+**Kunci Jawaban:** No, 'far' gives no exact number.
 
-**Pembahasan:** "between" berarti "di antara".
+**Pembahasan:** Far is a relative description, not a measurement.
 
 ---
 
 ## Soal 25 — K03-ENG-B07-M01-025
 
-**Pertanyaan:** Which English word matches "dekat" in the lesson?
+**Pertanyaan:** The yard is in front of the classroom. Which place is behind the yard?
 
 **Pilihan jawaban:**
-- on
-- in front of
-- outside
-- near
+- the classroom
+- the gate
+- the office
+- the garden
 
-**Kunci Jawaban:** near
+**Kunci Jawaban:** the classroom
 
-**Pembahasan:** "near" berarti "dekat".
+**Pembahasan:** If the yard is in front of the classroom, the classroom is behind the yard.
 
 ---
 
 ## Soal 26 — K03-ENG-B07-M01-026
 
-**Pertanyaan:** Which English word matches "jauh" in the lesson?
+**Pertanyaan:** The library is between the office and the canteen. Which statement must be true?
 
 **Pilihan jawaban:**
-- next to
-- on
-- far
-- under
+- The library is in the middle.
+- The library is on the office.
+- The library is under the canteen.
+- The library is outside the school.
 
-**Kunci Jawaban:** far
+**Kunci Jawaban:** The library is in the middle.
 
-**Pembahasan:** "far" berarti "jauh".
+**Pembahasan:** Between identifies the middle position.
 
 ---
 
 ## Soal 27 — K03-ENG-B07-M01-027
 
-**Pertanyaan:** Which English word matches "di dalam" in the lesson?
+**Pertanyaan:** Choose the missing word: 'The classroom is ___ the office.' (at the back)
 
 **Pilihan jawaban:**
-- under
-- inside
 - behind
-- between
+- on
+- inside
+- under
 
-**Kunci Jawaban:** inside
+**Kunci Jawaban:** behind
 
-**Pembahasan:** "inside" berarti "di dalam".
+**Pembahasan:** At the back corresponds to behind.
 
 ---
 
 ## Soal 28 — K03-ENG-B07-M01-028
 
-**Pertanyaan:** Which English word matches "di luar" in the lesson?
+**Pertanyaan:** Choose the correct question: '___ is the office?'
 
 **Pilihan jawaban:**
-- outside
-- in front of
-- near
-- behind
+- Who
+- Where
+- When
+- Why
 
-**Kunci Jawaban:** outside
+**Kunci Jawaban:** Where
 
-**Pembahasan:** "outside" berarti "di luar".
+**Pembahasan:** Where asks about a place's location.
 
 ---
 
 ## Soal 29 — K03-ENG-B07-M01-029
 
-**Pertanyaan:** Which English word matches "di atas" in the lesson?
+**Pertanyaan:** The teacher says, 'Put the book on the table.' Where should the book go?
 
 **Pilihan jawaban:**
-- next to
-- far
-- in front of
-- on
+- below the table
+- on top of the table
+- outside the classroom
+- behind the gate
 
-**Kunci Jawaban:** on
+**Kunci Jawaban:** on top of the table
 
-**Pembahasan:** "on" berarti "di atas".
+**Pembahasan:** On the table means on its top surface.
 
 ---
 
 ## Soal 30 — K03-ENG-B07-M01-030
 
-**Pertanyaan:** Which English word matches "di bawah" in the lesson?
+**Pertanyaan:** The teacher says, 'Put your bag under the desk.' Where should it go?
 
 **Pilihan jawaban:**
-- inside
-- next to
-- under
-- between
+- on the desk
+- in the canteen
+- below the desk
+- behind the office
 
-**Kunci Jawaban:** under
+**Kunci Jawaban:** below the desk
 
-**Pembahasan:** "under" berarti "di bawah".
+**Pembahasan:** Under means below.
 
 ---
 
 ## Soal 31 — K03-ENG-B07-M01-031
 
-**Pertanyaan:** What is the English word for "di belakang"?
+**Pertanyaan:** Which sentence tells where the office is?
 
 **Pilihan jawaban:**
-- between
-- behind
-- near
-- outside
+- The office is next to the library.
+- The office is a room.
+- I like the office.
+- The office has a door.
 
-**Kunci Jawaban:** behind
+**Kunci Jawaban:** The office is next to the library.
 
-**Pembahasan:** "behind" berarti "di belakang".
+**Pembahasan:** The sentence with next to describes location.
 
 ---
 
 ## Soal 32 — K03-ENG-B07-M01-032
 
-**Pertanyaan:** What is the English word for "di depan"?
+**Pertanyaan:** The garden is outside the classroom. Which sentence matches?
 
 **Pilihan jawaban:**
-- in front of
-- far
-- on
-- near
+- The garden is not inside the classroom.
+- The garden is inside the classroom.
+- The garden is under a chair.
+- The garden is on the table.
 
-**Kunci Jawaban:** in front of
+**Kunci Jawaban:** The garden is not inside the classroom.
 
-**Pembahasan:** "in front of" berarti "di depan".
+**Pembahasan:** Outside contrasts with inside.
 
 ---
 
 ## Soal 33 — K03-ENG-B07-M01-033
 
-**Pertanyaan:** What is the English word for "di sebelah"?
+**Pertanyaan:** A: Where is the office? B: It is in front of the library. Where is the library relative to the office?
 
 **Pilihan jawaban:**
-- inside
-- under
-- far
-- next to
+- in front of the office
+- behind the office
+- on the office
+- inside the office
 
-**Kunci Jawaban:** next to
+**Kunci Jawaban:** behind the office
 
-**Pembahasan:** "next to" berarti "di sebelah".
+**Pembahasan:** The reverse of in front of is behind.
 
 ---
 
 ## Soal 34 — K03-ENG-B07-M01-034
 
-**Pertanyaan:** What is the English word for "di antara"?
+**Pertanyaan:** Two rooms are next to each other. Which statement is NOT supported?
 
 **Pilihan jawaban:**
-- behind
-- inside
-- between
-- outside
+- They are beside each other.
+- They are adjacent.
+- They must be exactly two meters apart.
+- They are next to each other.
 
-**Kunci Jawaban:** between
+**Kunci Jawaban:** They must be exactly two meters apart.
 
-**Pembahasan:** "between" berarti "di antara".
+**Pembahasan:** Next to does not specify an exact distance.
 
 ---
 
 ## Soal 35 — K03-ENG-B07-M01-035
 
-**Pertanyaan:** What is the English word for "dekat"?
+**Pertanyaan:** The gate is near the yard, and the library is far from the yard. Which place is described as nearer to the yard?
 
 **Pilihan jawaban:**
-- outside
-- near
-- on
-- in front of
+- the library
+- the gate
+- both are equally far
+- we know their exact distances
 
-**Kunci Jawaban:** near
+**Kunci Jawaban:** the gate
 
-**Pembahasan:** "near" berarti "dekat".
+**Pembahasan:** Near versus far identifies the gate as nearer in this description.
 
 ---
