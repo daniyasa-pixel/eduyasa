@@ -1,10 +1,10 @@
 # Bab 5 — Aku Seniman Cilik
 
-35 soal teks — draf untuk audit.
+35 soal teks — konteks proses produksi, keselamatan alat, kerja sama dan pameran telah diperbarui.
 
 ## Soal 1 — K03-SBD-B05-M01-001
 
-**Pertanyaan:** Apa jawaban yang tepat? Pameran kelas bertujuan ....
+**Pertanyaan:** Setelah sebulan berkarya, kelas ingin mengadakan pameran. Tujuan utama kegiatan itu adalah ....
 
 **Pilihan jawaban:**
 - menampilkan dan menghargai karya siswa
@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-SBD-B05-M01-002
 
-**Pertanyaan:** Apa jawaban yang tepat? Kurator sederhana dalam pameran kelas membantu ....
+**Pertanyaan:** Sebelum karya dipajang, kelompok memilih hasil yang akan ditampilkan lalu mengatur posisinya. Tugas panitia kurasi sederhana adalah ....
 
 **Pilihan jawaban:**
 - menghapus nama pembuat
@@ -36,7 +36,7 @@
 
 ## Soal 3 — K03-SBD-B05-M01-003
 
-**Pertanyaan:** Apa jawaban yang tepat? Karya sebaiknya diberi label ....
+**Pertanyaan:** Pengunjung ingin mengenal nama pembuat dan judul lukisan di meja. Informasi yang harus ada pada label ialah ....
 
 **Pilihan jawaban:**
 - jawaban ujian
@@ -52,7 +52,7 @@
 
 ## Soal 4 — K03-SBD-B05-M01-004
 
-**Pertanyaan:** Apa jawaban yang tepat? Sebelum memakai gunting, siswa perlu ....
+**Pertanyaan:** Dina akan memotong karton untuk membuat bingkai karya. Apa hal yang harus diperiksa sebelum menggunakan gunting?
 
 **Pilihan jawaban:**
 - berlari sambil membawa gunting
@@ -68,7 +68,7 @@
 
 ## Soal 5 — K03-SBD-B05-M01-005
 
-**Pertanyaan:** Apa jawaban yang tepat? Lem digunakan untuk ....
+**Pertanyaan:** Anak menempelkan bentuk kertas warna pada bidang gambar. Fungsi lem dalam proses itu ialah ....
 
 **Pilihan jawaban:**
 - merekatkan bahan
@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-SBD-B05-M01-006
 
-**Pertanyaan:** Apa jawaban yang tepat? Kuas setelah digunakan sebaiknya ....
+**Pertanyaan:** Setelah memakai cat air, kuas masih mengandung cat. Bagaimana kuas sebaiknya dirawat?
 
 **Pilihan jawaban:**
 - digunakan menusuk teman
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-SBD-B05-M01-007
 
-**Pertanyaan:** Apa jawaban yang tepat? Bahan daur ulang untuk karya perlu ....
+**Pertanyaan:** Kelompok membuat karya dari botol bekas yang ditemukan. Tindakan awal sebelum memakai botol ialah ....
 
 **Pilihan jawaban:**
 - dibakar di kelas
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-SBD-B05-M01-008
 
-**Pertanyaan:** Apa jawaban yang tepat? Saat karya gagal sesuai rencana, seniman cilik dapat ....
+**Pertanyaan:** Percobaan membuat bentuk kertas tidak sesuai sketsa. Sikap kreatif yang sebaiknya dilakukan adalah ....
 
 **Pilihan jawaban:**
 - menyalahkan teman
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-SBD-B05-M01-009
 
-**Pertanyaan:** Apa jawaban yang tepat? Kerja kelompok membuat mural kertas memerlukan ....
+**Pertanyaan:** Untuk membuat mural bersama di kertas besar, tiap anak mendapat bagian gambar. Kegiatan ini memerlukan ....
 
 **Pilihan jawaban:**
 - pembagian tugas dan kerja sama
@@ -148,7 +148,7 @@
 
 ## Soal 10 — K03-SBD-B05-M01-010
 
-**Pertanyaan:** Apa jawaban yang tepat? Menata karya di meja pameran perlu memperhatikan ....
+**Pertanyaan:** Ketika menyusun karya untuk pameran, siswa ingin memastikan pengunjung bisa lewat. Hal yang diperhatikan ialah ....
 
 **Pilihan jawaban:**
 - kertas berserakan
@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-SBD-B05-M01-011
 
-**Pertanyaan:** Apa jawaban yang tepat? Sikap pengunjung pameran adalah ....
+**Pertanyaan:** Pengunjung datang ke pameran kelas dan melihat karya teman. Sikap yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - mencoret pajangan
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-SBD-B05-M01-012
 
-**Pertanyaan:** Apa jawaban yang tepat? Teknik cap sederhana dapat memakai ....
+**Pertanyaan:** Untuk menghias kertas melalui teknik cap, guru menyiapkan alat sederhana. Bahan yang dapat dipakai ialah ....
 
 **Pilihan jawaban:**
 - pisau tajam
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-SBD-B05-M01-013
 
-**Pertanyaan:** Apa jawaban yang tepat? Membuat karya bersama teman mengajarkan ....
+**Pertanyaan:** Ketika berkarya bersama, satu teman kesulitan menempel. Sikap yang membantu kegiatan tim adalah ....
 
 **Pilihan jawaban:**
 - tanggung jawab dan saling menghormati
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-SBD-B05-M01-014
 
-**Pertanyaan:** Apa jawaban yang tepat? Evaluasi karya berarti ....
+**Pertanyaan:** Seorang siswa menilai karyanya setelah selesai dan mencatat bagian yang perlu diperbaiki. Tindakan ini disebut ....
 
 **Pilihan jawaban:**
 - mengabaikan proses
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-SBD-B05-M01-015
 
-**Pertanyaan:** Apa jawaban yang tepat? Setelah pameran, karya dan alat sebaiknya ....
+**Pertanyaan:** Pameran telah berakhir. Bagaimana seharusnya panitia memperlakukan alat dan hasil karya?
 
 **Pilihan jawaban:**
 - dibuang tanpa izin
@@ -244,7 +244,7 @@
 
 ## Soal 16 — K03-SBD-B05-M01-016
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Pameran kelas bertujuan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Pameran kelas memperlihatkan berbagai karya tiap murid kepada orang tua. Tujuan acaranya ialah ....
 
 **Pilihan jawaban:**
 - mengejek karya yang berbeda
@@ -260,7 +260,7 @@
 
 ## Soal 17 — K03-SBD-B05-M01-017
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Kurator sederhana dalam pameran kelas membantu ...." Pilih jawaban yang benar.
+**Pertanyaan:** Guru menunjuk dua siswa untuk mengurutkan karya yang akan dipajang sesuai kesepakatan. Peran mereka adalah ....
 
 **Pilihan jawaban:**
 - memilih dan menata karya sesuai kesepakatan
@@ -276,7 +276,7 @@
 
 ## Soal 18 — K03-SBD-B05-M01-018
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Karya sebaiknya diberi label ...." Pilih jawaban yang benar.
+**Pertanyaan:** Pada meja pameran ada dua lukisan tanpa keterangan. Untuk membedakan keduanya, label dapat menuliskan ....
 
 **Pilihan jawaban:**
 - rahasia pribadi
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-SBD-B05-M01-019
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Sebelum memakai gunting, siswa perlu ...." Pilih jawaban yang benar.
+**Pertanyaan:** Anak memegang gunting untuk pertama kali dan guru memberi petunjuk. Langkah aman yang perlu dilakukan adalah ....
 
 **Pilihan jawaban:**
 - mengarahkannya ke teman
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-SBD-B05-M01-020
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Lem digunakan untuk ...." Pilih jawaban yang benar.
+**Pertanyaan:** Ketika membuat kolase, kertas harus melekat pada alasnya. Bahan yang berguna ialah ....
 
 **Pilihan jawaban:**
 - mengukur panjang
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-SBD-B05-M01-021
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Kuas setelah digunakan sebaiknya ...." Pilih jawaban yang benar.
+**Pertanyaan:** Kuas yang dibiarkan penuh cat dapat rusak. Setelah melukis, kuas perlu ....
 
 **Pilihan jawaban:**
 - dibersihkan sesuai jenis cat
@@ -340,7 +340,7 @@
 
 ## Soal 22 — K03-SBD-B05-M01-022
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Bahan daur ulang untuk karya perlu ...." Pilih jawaban yang benar.
+**Pertanyaan:** Sebelum botol bekas diubah menjadi vas, guru memastikan bagian tepinya tidak tajam. Bahan itu harus ....
 
 **Pilihan jawaban:**
 - diambil dari tempat berbahaya
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-SBD-B05-M01-023
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Saat karya gagal sesuai rencana, seniman cilik dapat ...." Pilih jawaban yang benar.
+**Pertanyaan:** Kertas karya sobek ketika ditempel. Daripada menyalahkan teman, murid sebaiknya ....
 
 **Pilihan jawaban:**
 - merusak meja
@@ -372,7 +372,7 @@
 
 ## Soal 24 — K03-SBD-B05-M01-024
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Kerja kelompok membuat mural kertas memerlukan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Kelompok mural membagi bagian langit, pohon, dan rumah. Supaya selesai baik, mereka memerlukan ....
 
 **Pilihan jawaban:**
 - saling berebut alat
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-SBD-B05-M01-025
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Menata karya di meja pameran perlu memperhatikan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Meja pajangan terlihat penuh sehingga pengunjung sulit berjalan. Pengaturan ulang perlu mengutamakan ....
 
 **Pilihan jawaban:**
 - kerapian dan ruang pengunjung
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-SBD-B05-M01-026
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Sikap pengunjung pameran adalah ...." Pilih jawaban yang benar.
+**Pertanyaan:** Di galeri mini sekolah, anak ingin melihat karya tanpa merusaknya. Sikap yang cocok ialah ....
 
 **Pilihan jawaban:**
 - mendorong teman
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-SBD-B05-M01-027
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Teknik cap sederhana dapat memakai ...." Pilih jawaban yang benar.
+**Pertanyaan:** Anak mencoba membuat pola berulang dengan mencelupkan spons ke cat aman. Pilihan alat tepat adalah ....
 
 **Pilihan jawaban:**
 - pecahan kaca
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-SBD-B05-M01-028
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Membuat karya bersama teman mengajarkan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Seorang teman mengusulkan tata letak lain. Anggota kelompok menanggapinya dengan sikap ....
 
 **Pilihan jawaban:**
 - menyembunyikan bahan
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-SBD-B05-M01-029
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Evaluasi karya berarti ...." Pilih jawaban yang benar.
+**Pertanyaan:** Saat mengevaluasi gambar, siswa menyebut satu kelebihan dan satu hal yang akan dilatih lagi. Ini berarti ....
 
 **Pilihan jawaban:**
 - meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-SBD-B05-M01-030
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Setelah pameran, karya dan alat sebaiknya ...." Pilih jawaban yang benar.
+**Pertanyaan:** Seusai pertunjukan hasil karya, panitia mengumpulkan alat lalu menyimpannya. Langkah tersebut adalah ....
 
 **Pilihan jawaban:**
 - dirusak
@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-SBD-B05-M01-031
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Pameran kelas bertujuan ....
+**Pertanyaan:** Di kelas, siswa menggelar hasil gambar, kolase, dan patung mini. Sasaran pameran itu adalah ....
 
 **Pilihan jawaban:**
 - membuang karya
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-SBD-B05-M01-032
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Kurator sederhana dalam pameran kelas membantu ....
+**Pertanyaan:** Panitia ingin memilih dan menempatkan karya secara adil. Tugas mereka adalah ....
 
 **Pilihan jawaban:**
 - merusak bingkai
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-SBD-B05-M01-033
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Karya sebaiknya diberi label ....
+**Pertanyaan:** Jika sebuah gambar belum diberi kartu pengenal, informasi yang seharusnya ditambahkan ialah ....
 
 **Pilihan jawaban:**
 - judul dan nama pembuat
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-SBD-B05-M01-034
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Sebelum memakai gunting, siswa perlu ....
+**Pertanyaan:** Sebelum membuat bentuk hias dengan alat pemotong, siswa perlu ....
 
 **Pilihan jawaban:**
 - melemparkannya
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-SBD-B05-M01-035
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Lem digunakan untuk ....
+**Pertanyaan:** Pada tahap akhir menempel mozaik, bahan untuk melekatkan potongan pada karton ialah ....
 
 **Pilihan jawaban:**
 - mewarnai dengan suara
