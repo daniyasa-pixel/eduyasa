@@ -1,0 +1,469 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PJK-B07",
+      "chapter_title": "Aktivitas Kebugaran untuk Kesehatan",
+      "questions": [
+        {
+          "id": "K03-PJK-B07-M01-001",
+          "type": "PG",
+          "text": "Doni bisa mengikuti permainan ringan tanpa kelelahan yang berlebihan. Kemampuan ini berkaitan dengan ....",
+          "options": [
+            "kemampuan makan paling banyak",
+            "kemampuan menghindari gerak",
+            "kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan",
+            "kemampuan tidur sepanjang hari"
+          ],
+          "answer": "kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan",
+          "discussion": "Kebugaran jasmani: kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-002",
+          "type": "PG",
+          "text": "Guru memilih aktivitas penguatan tubuh tanpa beban berat. Prinsip yang tepat adalah ....",
+          "options": [
+            "dilakukan tanpa pengawasan",
+            "dilakukan sesuai usia dan kemampuan",
+            "mengangkat beban berbahaya",
+            "dipaksakan sampai sakit"
+          ],
+          "answer": "dilakukan sesuai usia dan kemampuan",
+          "discussion": "Latihan kekuatan sederhana: dilakukan sesuai usia dan kemampuan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-003",
+          "type": "PG",
+          "text": "Kelompok melakukan jalan cepat atau lari ringan dengan durasi sesuai kemampuan. Tujuan latihan adalah ....",
+          "options": [
+            "dapat berupa jalan cepat atau lari ringan sesuai kemampuan",
+            "hanya duduk diam",
+            "selalu mengangkat beban berat",
+            "tidak perlu istirahat"
+          ],
+          "answer": "dapat berupa jalan cepat atau lari ringan sesuai kemampuan",
+          "discussion": "Latihan daya tahan: dapat berupa jalan cepat atau lari ringan sesuai kemampuan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-004",
+          "type": "PG",
+          "text": "Siswa menggerakkan sendi dengan jangkauan nyaman. Kemampuan yang dipakai adalah ....",
+          "options": [
+            "kemampuan melempar jauh saja",
+            "kemampuan tidur",
+            "kemampuan makan",
+            "kemampuan sendi bergerak dalam rentang yang wajar"
+          ],
+          "answer": "kemampuan sendi bergerak dalam rentang yang wajar",
+          "discussion": "Kelentukan: kemampuan sendi bergerak dalam rentang yang wajar."
+        },
+        {
+          "id": "K03-PJK-B07-M01-005",
+          "type": "PG",
+          "text": "Saat berdiri satu kaki, seorang anak mengatur lengan untuk tidak jatuh. Apa keterampilan yang diperlukan?",
+          "options": [
+            "kemampuan berlari tanpa arah",
+            "kemampuan makan cepat",
+            "kemampuan menjaga posisi tubuh agar stabil",
+            "kemampuan berteriak"
+          ],
+          "answer": "kemampuan menjaga posisi tubuh agar stabil",
+          "discussion": "Keseimbangan: kemampuan menjaga posisi tubuh agar stabil."
+        },
+        {
+          "id": "K03-PJK-B07-M01-006",
+          "type": "PG",
+          "text": "Selesai aktivitas fisik, tubuh membutuhkan waktu pulih. Apa manfaat beristirahat?",
+          "options": [
+            "tidak diperlukan",
+            "membantu pemulihan tubuh",
+            "berarti tidak boleh minum",
+            "berarti harus terus berlari"
+          ],
+          "answer": "membantu pemulihan tubuh",
+          "discussion": "Istirahat setelah olahraga: membantu pemulihan tubuh."
+        },
+        {
+          "id": "K03-PJK-B07-M01-007",
+          "type": "PG",
+          "text": "Setelah bergerak, siswa minum air sesuai kebutuhan tubuh. Tujuannya adalah ....",
+          "options": [
+            "membantu memenuhi kebutuhan cairan tubuh",
+            "dapat diganti minuman sembarang",
+            "tidak diperlukan saat panas",
+            "harus dihindari"
+          ],
+          "answer": "membantu memenuhi kebutuhan cairan tubuh",
+          "discussion": "Air minum: membantu memenuhi kebutuhan cairan tubuh."
+        },
+        {
+          "id": "K03-PJK-B07-M01-008",
+          "type": "PG",
+          "text": "Guru mengajak siswa melakukan kegiatan fisik teratur tanpa memaksakan. Polanya adalah ....",
+          "options": [
+            "harus selalu berlebihan",
+            "harus dilakukan saat sakit berat",
+            "tidak perlu aman",
+            "lebih baik dilakukan teratur sesuai kemampuan"
+          ],
+          "answer": "lebih baik dilakukan teratur sesuai kemampuan",
+          "discussion": "Latihan rutin: lebih baik dilakukan teratur sesuai kemampuan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-009",
+          "type": "PG",
+          "text": "Seorang siswa tiba-tiba pusing ketika berlatih. Kondisi apa yang menandakan perlu berhenti?",
+          "options": [
+            "napas sedikit lebih cepat yang wajar",
+            "keringat ringan",
+            "nyeri hebat, pusing, atau sesak yang tidak wajar",
+            "rasa senang"
+          ],
+          "answer": "nyeri hebat, pusing, atau sesak yang tidak wajar",
+          "discussion": "Tanda perlu berhenti latihan: nyeri hebat, pusing, atau sesak yang tidak wajar."
+        },
+        {
+          "id": "K03-PJK-B07-M01-010",
+          "type": "PG",
+          "text": "Kelompok jalan santai dengan kecepatan anggota yang berbeda. Sikap yang tepat ialah ....",
+          "options": [
+            "dilakukan di jalan ramai",
+            "dilakukan dengan aturan dan saling mendukung",
+            "dilakukan sambil mengejek",
+            "dilakukan tanpa pemanasan"
+          ],
+          "answer": "dilakukan dengan aturan dan saling mendukung",
+          "discussion": "Aktivitas kebugaran bersama: dilakukan dengan aturan dan saling mendukung."
+        },
+        {
+          "id": "K03-PJK-B07-M01-011",
+          "type": "PG",
+          "text": "Dalam kegiatan harian, tubuh dapat bergerak dan tetap memiliki tenaga untuk aktivitas berikutnya. Hal itu menggambarkan ....",
+          "options": [
+            "kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan",
+            "kemampuan tidur sepanjang hari",
+            "kemampuan makan paling banyak",
+            "kemampuan menghindari gerak"
+          ],
+          "answer": "kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan",
+          "discussion": "Kebugaran jasmani: kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-012",
+          "type": "PG",
+          "text": "Seorang siswa belum mampu mengikuti latihan kekuatan teman lain. Bagaimana latihan seharusnya disesuaikan?",
+          "options": [
+            "mengangkat beban berbahaya",
+            "dipaksakan sampai sakit",
+            "dilakukan tanpa pengawasan",
+            "dilakukan sesuai usia dan kemampuan"
+          ],
+          "answer": "dilakukan sesuai usia dan kemampuan",
+          "discussion": "Latihan kekuatan sederhana: dilakukan sesuai usia dan kemampuan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-013",
+          "type": "PG",
+          "text": "Agar tidak terlalu lelah, siswa menyesuaikan intensitas gerak berulang. Ini contoh ....",
+          "options": [
+            "selalu mengangkat beban berat",
+            "tidak perlu istirahat",
+            "dapat berupa jalan cepat atau lari ringan sesuai kemampuan",
+            "hanya duduk diam"
+          ],
+          "answer": "dapat berupa jalan cepat atau lari ringan sesuai kemampuan",
+          "discussion": "Latihan daya tahan: dapat berupa jalan cepat atau lari ringan sesuai kemampuan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-014",
+          "type": "PG",
+          "text": "Ada siswa yang dapat meraih lebih jauh dari teman, namun keduanya tidak dipaksa. Apa konsep yang diukur?",
+          "options": [
+            "kemampuan makan",
+            "kemampuan sendi bergerak dalam rentang yang wajar",
+            "kemampuan melempar jauh saja",
+            "kemampuan tidur"
+          ],
+          "answer": "kemampuan sendi bergerak dalam rentang yang wajar",
+          "discussion": "Kelentukan: kemampuan sendi bergerak dalam rentang yang wajar."
+        },
+        {
+          "id": "K03-PJK-B07-M01-015",
+          "type": "PG",
+          "text": "Guru memberikan latihan mempertahankan posisi tubuh. Hasil yang ingin dilatih ialah ....",
+          "options": [
+            "kemampuan menjaga posisi tubuh agar stabil",
+            "kemampuan berteriak",
+            "kemampuan berlari tanpa arah",
+            "kemampuan makan cepat"
+          ],
+          "answer": "kemampuan menjaga posisi tubuh agar stabil",
+          "discussion": "Keseimbangan: kemampuan menjaga posisi tubuh agar stabil."
+        },
+        {
+          "id": "K03-PJK-B07-M01-016",
+          "type": "PG",
+          "text": "Guru menyelingi permainan dengan jeda yang cukup. Tujuannya adalah ....",
+          "options": [
+            "berarti tidak boleh minum",
+            "berarti harus terus berlari",
+            "tidak diperlukan",
+            "membantu pemulihan tubuh"
+          ],
+          "answer": "membantu pemulihan tubuh",
+          "discussion": "Istirahat setelah olahraga: membantu pemulihan tubuh."
+        },
+        {
+          "id": "K03-PJK-B07-M01-017",
+          "type": "PG",
+          "text": "Anak merasa haus setelah bermain. Minuman yang tersedia membantu memenuhi kebutuhan apa?",
+          "options": [
+            "tidak diperlukan saat panas",
+            "harus dihindari",
+            "membantu memenuhi kebutuhan cairan tubuh",
+            "dapat diganti minuman sembarang"
+          ],
+          "answer": "membantu memenuhi kebutuhan cairan tubuh",
+          "discussion": "Air minum: membantu memenuhi kebutuhan cairan tubuh."
+        },
+        {
+          "id": "K03-PJK-B07-M01-018",
+          "type": "PG",
+          "text": "Siswa ingin lebih aktif setiap hari. Cara yang berkelanjutan seharusnya ....",
+          "options": [
+            "tidak perlu aman",
+            "lebih baik dilakukan teratur sesuai kemampuan",
+            "harus selalu berlebihan",
+            "harus dilakukan saat sakit berat"
+          ],
+          "answer": "lebih baik dilakukan teratur sesuai kemampuan",
+          "discussion": "Latihan rutin: lebih baik dilakukan teratur sesuai kemampuan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-019",
+          "type": "PG",
+          "text": "Anak mengeluh sesak tak wajar saat berlari. Apa tanda yang harus diperhatikan?",
+          "options": [
+            "nyeri hebat, pusing, atau sesak yang tidak wajar",
+            "rasa senang",
+            "napas sedikit lebih cepat yang wajar",
+            "keringat ringan"
+          ],
+          "answer": "nyeri hebat, pusing, atau sesak yang tidak wajar",
+          "discussion": "Tanda perlu berhenti latihan: nyeri hebat, pusing, atau sesak yang tidak wajar."
+        },
+        {
+          "id": "K03-PJK-B07-M01-020",
+          "type": "PG",
+          "text": "Anak yang bergerak lebih lambat tetap mendapat kesempatan berlatih. Bagaimana seharusnya kegiatan berlangsung?",
+          "options": [
+            "dilakukan sambil mengejek",
+            "dilakukan tanpa pemanasan",
+            "dilakukan di jalan ramai",
+            "dilakukan dengan aturan dan saling mendukung"
+          ],
+          "answer": "dilakukan dengan aturan dan saling mendukung",
+          "discussion": "Aktivitas kebugaran bersama: dilakukan dengan aturan dan saling mendukung."
+        },
+        {
+          "id": "K03-PJK-B07-M01-021",
+          "type": "PG",
+          "text": "Apa yang ditunjukkan tubuh saat mampu beraktivitas sesuai kapasitas tanpa cepat kelelahan berlebihan?",
+          "options": [
+            "kemampuan makan paling banyak",
+            "kemampuan menghindari gerak",
+            "kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan",
+            "kemampuan tidur sepanjang hari"
+          ],
+          "answer": "kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan",
+          "discussion": "Kebugaran jasmani: kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-022",
+          "type": "PG",
+          "text": "Apa patokan keamanan untuk latihan kekuatan anak sekolah dasar?",
+          "options": [
+            "dilakukan tanpa pengawasan",
+            "dilakukan sesuai usia dan kemampuan",
+            "mengangkat beban berbahaya",
+            "dipaksakan sampai sakit"
+          ],
+          "answer": "dilakukan sesuai usia dan kemampuan",
+          "discussion": "Latihan kekuatan sederhana: dilakukan sesuai usia dan kemampuan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-023",
+          "type": "PG",
+          "text": "Bagaimana bentuk latihan daya tahan yang wajar untuk siswa kelas 3?",
+          "options": [
+            "dapat berupa jalan cepat atau lari ringan sesuai kemampuan",
+            "hanya duduk diam",
+            "selalu mengangkat beban berat",
+            "tidak perlu istirahat"
+          ],
+          "answer": "dapat berupa jalan cepat atau lari ringan sesuai kemampuan",
+          "discussion": "Latihan daya tahan: dapat berupa jalan cepat atau lari ringan sesuai kemampuan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-024",
+          "type": "PG",
+          "text": "Apa yang dimaksud gerak sendi dalam rentang wajar tanpa dipaksakan?",
+          "options": [
+            "kemampuan melempar jauh saja",
+            "kemampuan tidur",
+            "kemampuan makan",
+            "kemampuan sendi bergerak dalam rentang yang wajar"
+          ],
+          "answer": "kemampuan sendi bergerak dalam rentang yang wajar",
+          "discussion": "Kelentukan: kemampuan sendi bergerak dalam rentang yang wajar."
+        },
+        {
+          "id": "K03-PJK-B07-M01-025",
+          "type": "PG",
+          "text": "Mengapa mengatur posisi tubuh penting dalam gerak keseimbangan?",
+          "options": [
+            "kemampuan berlari tanpa arah",
+            "kemampuan makan cepat",
+            "kemampuan menjaga posisi tubuh agar stabil",
+            "kemampuan berteriak"
+          ],
+          "answer": "kemampuan menjaga posisi tubuh agar stabil",
+          "discussion": "Keseimbangan: kemampuan menjaga posisi tubuh agar stabil."
+        },
+        {
+          "id": "K03-PJK-B07-M01-026",
+          "type": "PG",
+          "text": "Mengapa anak tidak dianjurkan berlatih terus tanpa jeda?",
+          "options": [
+            "tidak diperlukan",
+            "membantu pemulihan tubuh",
+            "berarti tidak boleh minum",
+            "berarti harus terus berlari"
+          ],
+          "answer": "membantu pemulihan tubuh",
+          "discussion": "Istirahat setelah olahraga: membantu pemulihan tubuh."
+        },
+        {
+          "id": "K03-PJK-B07-M01-027",
+          "type": "PG",
+          "text": "Mengapa air minum penting ketika tubuh aktif bergerak?",
+          "options": [
+            "membantu memenuhi kebutuhan cairan tubuh",
+            "dapat diganti minuman sembarang",
+            "tidak diperlukan saat panas",
+            "harus dihindari"
+          ],
+          "answer": "membantu memenuhi kebutuhan cairan tubuh",
+          "discussion": "Air minum: membantu memenuhi kebutuhan cairan tubuh."
+        },
+        {
+          "id": "K03-PJK-B07-M01-028",
+          "type": "PG",
+          "text": "Apa prinsip membuat kebiasaan aktivitas kebugaran?",
+          "options": [
+            "harus selalu berlebihan",
+            "harus dilakukan saat sakit berat",
+            "tidak perlu aman",
+            "lebih baik dilakukan teratur sesuai kemampuan"
+          ],
+          "answer": "lebih baik dilakukan teratur sesuai kemampuan",
+          "discussion": "Latihan rutin: lebih baik dilakukan teratur sesuai kemampuan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-029",
+          "type": "PG",
+          "text": "Dalam latihan, apakah rasa sakit hebat perlu diabaikan? Pilih penjelasan yang sesuai.",
+          "options": [
+            "napas sedikit lebih cepat yang wajar",
+            "keringat ringan",
+            "nyeri hebat, pusing, atau sesak yang tidak wajar",
+            "rasa senang"
+          ],
+          "answer": "nyeri hebat, pusing, atau sesak yang tidak wajar",
+          "discussion": "Tanda perlu berhenti latihan: nyeri hebat, pusing, atau sesak yang tidak wajar."
+        },
+        {
+          "id": "K03-PJK-B07-M01-030",
+          "type": "PG",
+          "text": "Apa aturan penting agar latihan kebugaran bersama terasa aman dan inklusif?",
+          "options": [
+            "dilakukan di jalan ramai",
+            "dilakukan dengan aturan dan saling mendukung",
+            "dilakukan sambil mengejek",
+            "dilakukan tanpa pemanasan"
+          ],
+          "answer": "dilakukan dengan aturan dan saling mendukung",
+          "discussion": "Aktivitas kebugaran bersama: dilakukan dengan aturan dan saling mendukung."
+        },
+        {
+          "id": "K03-PJK-B07-M01-031",
+          "type": "PG",
+          "text": "Kegiatan fisik dapat diselesaikan sesuai kemampuan tanpa kelelahan yang terlalu berat. Hal tersebut menunjukkan ....",
+          "options": [
+            "kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan",
+            "kemampuan tidur sepanjang hari",
+            "kemampuan makan paling banyak",
+            "kemampuan menghindari gerak"
+          ],
+          "answer": "kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan",
+          "discussion": "Kebugaran jasmani: kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-032",
+          "type": "PG",
+          "text": "Guru tidak memberikan beban berat untuk semua peserta dan menyesuaikan latihan. Itu contoh prinsip ....",
+          "options": [
+            "mengangkat beban berbahaya",
+            "dipaksakan sampai sakit",
+            "dilakukan tanpa pengawasan",
+            "dilakukan sesuai usia dan kemampuan"
+          ],
+          "answer": "dilakukan sesuai usia dan kemampuan",
+          "discussion": "Latihan kekuatan sederhana: dilakukan sesuai usia dan kemampuan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-033",
+          "type": "PG",
+          "text": "Pada hari olahraga, siswa berlatih jalan cepat dan lari ringan sesuai kemampuan. Ini termasuk ....",
+          "options": [
+            "selalu mengangkat beban berat",
+            "tidak perlu istirahat",
+            "dapat berupa jalan cepat atau lari ringan sesuai kemampuan",
+            "hanya duduk diam"
+          ],
+          "answer": "dapat berupa jalan cepat atau lari ringan sesuai kemampuan",
+          "discussion": "Latihan daya tahan: dapat berupa jalan cepat atau lari ringan sesuai kemampuan."
+        },
+        {
+          "id": "K03-PJK-B07-M01-034",
+          "type": "PG",
+          "text": "Siswa melakukan gerak rentang sendi tanpa nyeri dan tanpa memaksa. Kemampuan itu dinamakan ....",
+          "options": [
+            "kemampuan makan",
+            "kemampuan sendi bergerak dalam rentang yang wajar",
+            "kemampuan melempar jauh saja",
+            "kemampuan tidur"
+          ],
+          "answer": "kemampuan sendi bergerak dalam rentang yang wajar",
+          "discussion": "Kelentukan: kemampuan sendi bergerak dalam rentang yang wajar."
+        },
+        {
+          "id": "K03-PJK-B07-M01-035",
+          "type": "PG",
+          "text": "Anak mencoba tetap berdiri stabil saat posisi kedua kakinya berubah. Keterampilan ini ialah ....",
+          "options": [
+            "kemampuan menjaga posisi tubuh agar stabil",
+            "kemampuan berteriak",
+            "kemampuan berlari tanpa arah",
+            "kemampuan makan cepat"
+          ],
+          "answer": "kemampuan menjaga posisi tubuh agar stabil",
+          "discussion": "Keseimbangan: kemampuan menjaga posisi tubuh agar stabil."
+        }
+      ]
+    }
+  ]
+}
