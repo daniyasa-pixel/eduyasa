@@ -110,3 +110,24 @@ Sepuluh unit Bahasa Inggris telah dikonversi langsung dari sumber Markdown, **50
 **Batas pengujian:** Keberadaan/akses semua SVG melalui browser dan kualitas pelafalan TTS belum diuji. Nama bank listening `eng-bNNl.json` perlu disinkronkan dengan loader frontend saat aktivasi karena ini nama keluaran tambahan. `HTML/grade-config.js` belum mengaktifkan Inggris di menu Kelas 3. Modul memiliki URL gambar absolut dari sumber relatif; tidak ada perubahan narasi. Jangan menganggap paket siap rilis HP sebelum uji WebView dan manifest.
 
 **Akumulasi batch baru (SBD + PAI + ENG):** **1.025 soal** dan **50 modul** dikonversi, dengan **75 JSON bank/materi** (15 + 20 + 40) dan tiga manifest. Sisa dari target 1.945 pada lima mapel: **920 soal**, yaitu IPAS 560 dan PJOK 360. Angka tidak menghitung mata pelajaran Kelas 3 (BIN, PKN, MTK) yang sudah punya JSON lebih dahulu.
+
+## Konversi batch 5 — IPAS Bab 1–8 (12 November 2026)
+
+**Selesai:** delapan bab IPAS dengan **560 soal (400 teks + 160 bergambar)**, **16 modul dua versi** dikonversi menjadi **24 file JSON** (8 bank teks `ipas-bNN.json`, 8 bank gambar `ipas-bNNa.json`, 8 modul `ipas-bNN-materi.json`). Manifest baru `kelas-3/ipas/question-packs.json` memetakan `K03-IPAS-B01`–`K03-IPAS-B08` ke kedua bank masing-masing (commit `e4691c716f47649820e8c510069bb4d67f67cfb9`).
+
+**Audit setelah konversi:** delapan bab dibaca ulang dari GitHub dengan enam file tiap bab (3 Markdown + 3 JSON). Audit JS per-posisi soal dan modul membandingkan ID dan urutan sumber (001–050 teks, 051–070 gambar), 4 pilihan dalam urutan identik, teks pertanyaan, kunci teks penuh, pembahasan, `image.src` dan `image.alt`; konten lengkap kedua modul dibandingkan setelah substitusi tautan gambar relatif Markdown ke URL GitHub raw absolut. **560 soal + 16 modul PASS, 0 mismatch**, seluruh JSON dapat di-parse. Tidak dilakukan audit ulang mutu akademik atau pemeriksaan empiris siswa.
+
+| Bab | Soal teks | Soal bergambar | Modul | Audit JSON | SHA sumber Markdown (teks · gambar · materi) |
+|---|---:|---:|---:|---|---|
+| B01 | 50 | 20 | 2 | PASS | `9141d6dc7dcf63e63b87ef5e12383c73647fcddd` · `7e18371134eb5ae351b4455a9f9498b82573fed0` · `fa8b1023078d4f0c80c562a1a24df023cf15333c` |
+| B02 | 50 | 20 | 2 | PASS | `fc4e222ed300c125b817f0f54f6de285cb68c727` · `dfbb3e586e5f4bdcdb7673ba8f798fea3cdb58de` · `88eaea96f9f177cfe50c31a84fd181e3fa6031b8` |
+| B03 | 50 | 20 | 2 | PASS | `ef61ffa8a069bfd98faafcefecaf3f45174db164` · `e8fcf330688be30991be9141edc7777c7f465c5e` · `9e09a7a9851d9bcb7f03aa72e2fe5cc6ce7818c3` |
+| B04 | 50 | 20 | 2 | PASS | `04fd8a899ccf83dc0b7d7b8b21a24500c3238333` · `0ae4982b3cd5434ee33372b6377c5e76d6d41cfd` · `3d1832781072528712684c6b29ef3ffcf0ecf935` |
+| B05 | 50 | 20 | 2 | PASS | `c8e9ed3c42d963dedb28cbc016a6df0e81748c0d` · `fb03c8bc4c2e7f9408d8f782868cad83ee826601` · `2c9b2c21406903f749a9c2e4200099c85aec2a79` |
+| B06 | 50 | 20 | 2 | PASS | `765d8920c17a4d0a8fd9497fb8239d1ac8174917` · `a8f1810a9d09ba0ca1c8e723f03cd8cbce9aaa3b` · `6e6b94bb27b33350a3ececbf7d5fe2c606567e46` |
+| B07 | 50 | 20 | 2 | PASS | `4fe803d82a1642489a53bb0b43fbab8546a9d3ac` · `1b8ae4b55a4e2290dd06336aacfe0df2bb9012e8` · `8ea6204d4a9b87fec44595d490340ba4006f0e80` |
+| B08 | 50 | 20 | 2 | PASS | `df48ffa1b84398c65ee1032a522e4dae8d441c80` · `90d11e5add8a160842837679941ab58f0f77c76e` · `9ebe6daa6fd8044a81fe7e231b654c3e656fa675` |
+
+**Batas audit:** Validasi ini memeriksa kecocokan path media terhadap sumber; bukan pemeriksaan pemuatan URL SVG dari jaringan pada HP. SVG pernah diperiksa pada fase produksi sumber, tetapi belum diuji ulang dalam browser pascakonversi. Pemetaan modul mengganti hanya URL `assets/...` menjadi URL GitHub raw untuk akses dari JSON. Tidak menyunting teks pengajaran, LaTeX, atau sumber Markdown. `HTML/grade-config.js` tidak diubah, sehingga menu IPAS belum aktif. Belum ada uji WebView.
+
+**Akumulasi fase konversi:** SBD 225 + PAI 300 + ENG 500 + IPAS 560 = **1.585 dari 1.945 soal**, termasuk **66 modul**. Total **99 JSON bank/materi**, dan 4 manifest. Masih tersisa **PJOK Kelas 3: 360 soal** (8 bab). PJOK belum memiliki modul pada sumber sehingga harus diberi status `NOT_AVAILABLE_IN_SOURCE`, bukan menciptakan modul.
