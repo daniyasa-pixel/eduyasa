@@ -1,0 +1,469 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B01",
+      "chapter_title": "I Like Mi Aceh",
+      "questions": [
+        {
+          "id": "K03-ENG-B01-M01-001",
+          "type": "PG",
+          "text": "Nia wants nasi goreng. Which menu item should she point to?",
+          "options": [
+            "rice",
+            "fried rice",
+            "fried chicken",
+            "noodles"
+          ],
+          "answer": "fried rice",
+          "discussion": "Fried rice berarti nasi goreng. Rice saja berarti nasi dalam konteks menu ini."
+        },
+        {
+          "id": "K03-ENG-B01-M01-002",
+          "type": "PG",
+          "text": "Which word can complete the label “fried ___” for ayam goreng?",
+          "options": [
+            "rice",
+            "noodles",
+            "bread",
+            "chicken"
+          ],
+          "answer": "chicken",
+          "discussion": "Chicken berarti ayam. Digabung dengan fried, frasanya menjadi ayam goreng."
+        },
+        {
+          "id": "K03-ENG-B01-M01-003",
+          "type": "PG",
+          "text": "Choose the pair that contains two drinks.",
+          "options": [
+            "tea and milk",
+            "milk and bread",
+            "rice and tea",
+            "coffee and ice cream"
+          ],
+          "answer": "tea and milk",
+          "discussion": "Tea dan milk adalah minuman. Bread, rice, dan ice cream termasuk makanan."
+        },
+        {
+          "id": "K03-ENG-B01-M01-004",
+          "type": "PG",
+          "text": "Which menu word means bakso?",
+          "options": [
+            "noodles",
+            "fried chicken",
+            "meatballs",
+            "bread"
+          ],
+          "answer": "meatballs",
+          "discussion": "Meatballs berarti bakso. Di menu, bentuk jamak bisa dipakai untuk satu porsi berisi beberapa bakso."
+        },
+        {
+          "id": "K03-ENG-B01-M01-005",
+          "type": "PG",
+          "text": "What does “banana” name on a snack card?",
+          "options": [
+            "roti",
+            "es krim",
+            "pisang",
+            "bakso"
+          ],
+          "answer": "pisang",
+          "discussion": "Banana adalah nama buah pisang. Snack pada kartu menunjukkan makanan ringan."
+        },
+        {
+          "id": "K03-ENG-B01-M01-006",
+          "type": "PG",
+          "text": "The menu lists tea, coffee, milk, and bread. Which item belongs under “Food”?",
+          "options": [
+            "bread",
+            "tea",
+            "coffee",
+            "milk"
+          ],
+          "answer": "bread",
+          "discussion": "Bread adalah roti. Tiga pilihan lain bisa dicantumkan di bagian minuman."
+        },
+        {
+          "id": "K03-ENG-B01-M01-007",
+          "type": "PG",
+          "text": "Which spelling belongs on the es krim label?",
+          "options": [
+            "ice creem",
+            "ice cram",
+            "ice creame",
+            "ice cream"
+          ],
+          "answer": "ice cream",
+          "discussion": "Ejaan yang benar terdiri dari dua kata, ice dan cream."
+        },
+        {
+          "id": "K03-ENG-B01-M01-008",
+          "type": "PG",
+          "text": "Which note means “Aku suka mi”?",
+          "options": [
+            "I don’t like noodles.",
+            "I like noodles.",
+            "Do you like noodles?",
+            "I like rice."
+          ],
+          "answer": "I like noodles.",
+          "discussion": "I like menyatakan kesukaan penutur. Noodles adalah mi."
+        },
+        {
+          "id": "K03-ENG-B01-M01-009",
+          "type": "PG",
+          "text": "Put “like / I / milk” in order to make a statement.",
+          "options": [
+            "I like milk.",
+            "Like I milk.",
+            "Milk I like?",
+            "I milk like."
+          ],
+          "answer": "I like milk.",
+          "discussion": "Kalimat ini menaruh I sebagai subjek, lalu like, dan milk sebagai benda yang disukai."
+        },
+        {
+          "id": "K03-ENG-B01-M01-010",
+          "type": "PG",
+          "text": "Choose the question that asks a friend about bread.",
+          "options": [
+            "I like bread.",
+            "Do you like milk?",
+            "I don’t like bread.",
+            "Do you like bread?"
+          ],
+          "answer": "Do you like bread?",
+          "discussion": "Do you like memulai pertanyaan tentang kesukaan teman. Benda yang ditanyakan di sini adalah bread."
+        },
+        {
+          "id": "K03-ENG-B01-M01-011",
+          "type": "PG",
+          "text": "Lina says, “Yes, I do.” What does “do” stand for when the question is “Do you like tea?”?",
+          "options": [
+            "drink milk",
+            "like tea",
+            "like coffee",
+            "eat bread"
+          ],
+          "answer": "like tea",
+          "discussion": "Do dalam jawaban singkat menggantikan like tea dari pertanyaan sebelumnya."
+        },
+        {
+          "id": "K03-ENG-B01-M01-012",
+          "type": "PG",
+          "text": "Adi asks, “Do you like fried chicken?” Beni likes it. How can Beni reply?",
+          "options": [
+            "No, I don’t.",
+            "Yes, you do.",
+            "Yes, I do.",
+            "Do you like it?"
+          ],
+          "answer": "Yes, I do.",
+          "discussion": "Beni menyatakan kesukaan dirinya, jadi jawabannya memakai Yes dan I."
+        },
+        {
+          "id": "K03-ENG-B01-M01-013",
+          "type": "PG",
+          "text": "Sita asks, “Do you like milk?” Ari does not like it. What can Ari say?",
+          "options": [
+            "Yes, I do.",
+            "No, you don’t.",
+            "I like milk.",
+            "No, I don’t."
+          ],
+          "answer": "No, I don’t.",
+          "discussion": "Jawaban No, I don’t menyatakan bahwa penutur sendiri tidak menyukai susu."
+        },
+        {
+          "id": "K03-ENG-B01-M01-014",
+          "type": "PG",
+          "text": "What does “it” refer to in this exchange? “I like coffee. Do you like it?”",
+          "options": [
+            "tea",
+            "coffee",
+            "the speaker",
+            "the question"
+          ],
+          "answer": "coffee",
+          "discussion": "It merujuk kembali pada minuman yang baru disebut, yaitu coffee."
+        },
+        {
+          "id": "K03-ENG-B01-M01-015",
+          "type": "PG",
+          "text": "“I like bread. I don’t like rice.” Which item does the speaker like?",
+          "options": [
+            "bread",
+            "rice",
+            "milk",
+            "noodles"
+          ],
+          "answer": "bread",
+          "discussion": "Kalimat pertama menyatakan suka roti. Kalimat kedua menyatakan tidak suka nasi."
+        },
+        {
+          "id": "K03-ENG-B01-M01-016",
+          "type": "PG",
+          "text": "Rani says, “I don’t like tea. I like milk.” Which statement is true?",
+          "options": [
+            "Rani likes tea.",
+            "Rani likes both drinks.",
+            "Rani likes milk.",
+            "Rani dislikes both drinks."
+          ],
+          "answer": "Rani likes milk.",
+          "discussion": "Rani memilih susu sebagai minuman yang disukai. Don’t like hanya menjelaskan sikapnya terhadap teh."
+        },
+        {
+          "id": "K03-ENG-B01-M01-017",
+          "type": "PG",
+          "text": "“Do you like bananas?” “Yes, I do. I like ice cream, too.” Which pair does the speaker like?",
+          "options": [
+            "bananas and ice cream",
+            "bananas and bread",
+            "bread and ice cream",
+            "milk and bananas"
+          ],
+          "answer": "bananas and ice cream",
+          "discussion": "Yes menjawab pertanyaan tentang pisang. Too menambahkan es krim pada daftar kesukaan."
+        },
+        {
+          "id": "K03-ENG-B01-M01-018",
+          "type": "PG",
+          "text": "Ayu likes tea. Dito says, “I don’t like tea. I like coffee.” What is different?",
+          "options": [
+            "Ayu likes coffee, and Dito likes tea.",
+            "Both like tea.",
+            "Ayu likes tea, and Dito likes coffee.",
+            "Neither likes tea."
+          ],
+          "answer": "Ayu likes tea, and Dito likes coffee.",
+          "discussion": "Kesukaan Ayu diberikan di kalimat awal. Dito menyebut kopi setelah menolak teh."
+        },
+        {
+          "id": "K03-ENG-B01-M01-019",
+          "type": "PG",
+          "text": "Lala says, “I like noodles.” Which response says you share her preference?",
+          "options": [
+            "I don’t like noodles.",
+            "I like rice.",
+            "Do you like rice?",
+            "I like noodles, too."
+          ],
+          "answer": "I like noodles, too.",
+          "discussion": "Too berarti juga. Jawaban ini menyebut kesukaan yang sama, yaitu mi."
+        },
+        {
+          "id": "K03-ENG-B01-M01-020",
+          "type": "PG",
+          "text": "Choose the best opening question if the survey column is titled “Ice cream”.",
+          "options": [
+            "Do you like bread?",
+            "Do you like ice cream?",
+            "I like ice cream.",
+            "No, I don’t."
+          ],
+          "answer": "Do you like ice cream?",
+          "discussion": "Untuk mengisi kolom tentang es krim, pewawancara perlu menanyakan kesukaan pada ice cream."
+        },
+        {
+          "id": "K03-ENG-B01-M01-021",
+          "type": "PG",
+          "text": "A friend answers “No, I don’t” to “Do you like bread?” What goes in the bread column?",
+          "options": [
+            "Yes",
+            "Milk",
+            "No",
+            "Leave it blank"
+          ],
+          "answer": "No",
+          "discussion": "No menandai jawaban negatif untuk roti. Jawaban teman sudah diketahui, jadi kolom tidak dikosongkan."
+        },
+        {
+          "id": "K03-ENG-B01-M01-022",
+          "type": "PG",
+          "text": "Your survey note says “Mira: bananas — Yes; milk — No.” What can Mira say?",
+          "options": [
+            "I like milk. I don’t like bananas.",
+            "I like bananas and milk.",
+            "I don’t like bananas or milk.",
+            "I like bananas. I don’t like milk."
+          ],
+          "answer": "I like bananas. I don’t like milk.",
+          "discussion": "Tanda Yes berlaku untuk pisang dan No untuk susu. Pernyataan dari sudut pandang Mira memakai I."
+        },
+        {
+          "id": "K03-ENG-B01-M01-023",
+          "type": "PG",
+          "text": "Read the notes: “Dina — tea: Yes. Rio — tea: No. Tia — tea: Yes.” Which two children like tea?",
+          "options": [
+            "Dina and Rio",
+            "Dina and Tia",
+            "Rio and Tia",
+            "Dina and Rio and Tia"
+          ],
+          "answer": "Dina and Tia",
+          "discussion": "Hanya Dina dan Tia memiliki jawaban Yes pada catatan teh."
+        },
+        {
+          "id": "K03-ENG-B01-M01-024",
+          "type": "PG",
+          "text": "“Do you like fried rice?” “No, I don’t. I like fried chicken.” What can you record?",
+          "options": [
+            "Fried rice: No. Fried chicken: Yes.",
+            "Fried rice: Yes. Fried chicken: No.",
+            "Fried rice: Yes. Fried chicken: Yes.",
+            "Fried rice: No. Fried chicken: No."
+          ],
+          "answer": "Fried rice: No. Fried chicken: Yes.",
+          "discussion": "No menjawab pertanyaan tentang nasi goreng, sedangkan I like menyatakan kesukaan pada ayam goreng."
+        },
+        {
+          "id": "K03-ENG-B01-M01-025",
+          "type": "PG",
+          "text": "Ana says, “I like bread and milk.” Which line has the same meaning?",
+          "options": [
+            "I like bread. I don’t like milk.",
+            "I like milk. I don’t like bread.",
+            "I don’t like bread or milk.",
+            "I like bread. I like milk, too."
+          ],
+          "answer": "I like bread. I like milk, too.",
+          "discussion": "And menghubungkan dua benda yang sama-sama disukai. Too menyatakan tambahan dengan makna setara."
+        },
+        {
+          "id": "K03-ENG-B01-M01-026",
+          "type": "PG",
+          "text": "Complete the question: “___ you like tea?”",
+          "options": [
+            "Do",
+            "I",
+            "Yes",
+            "It"
+          ],
+          "answer": "Do",
+          "discussion": "Do diletakkan di depan you untuk membentuk pertanyaan kesukaan."
+        },
+        {
+          "id": "K03-ENG-B01-M01-027",
+          "type": "PG",
+          "text": "Complete the answer: “Yes, I ___.”",
+          "options": [
+            "don’t",
+            "you",
+            "do",
+            "it"
+          ],
+          "answer": "do",
+          "discussion": "Do melengkapi jawaban singkat positif untuk pertanyaan Do you like ...?"
+        },
+        {
+          "id": "K03-ENG-B01-M01-028",
+          "type": "PG",
+          "text": "Complete the note about food you dislike: “I ___ like coffee.”",
+          "options": [
+            "do you",
+            "don’t",
+            "yes",
+            "it"
+          ],
+          "answer": "don’t",
+          "discussion": "Don’t diletakkan sebelum like agar maknanya menjadi tidak suka."
+        },
+        {
+          "id": "K03-ENG-B01-M01-029",
+          "type": "PG",
+          "text": "Which sentence has the right word order and punctuation for a question?",
+          "options": [
+            "You like do bananas?",
+            "Do you like bananas?",
+            "Do like you bananas?",
+            "Do you like bananas."
+          ],
+          "answer": "Do you like bananas?",
+          "discussion": "Pertanyaan berpola Do + you + like + benda dan diakhiri tanda tanya."
+        },
+        {
+          "id": "K03-ENG-B01-M01-030",
+          "type": "PG",
+          "text": "Which sentence has the right capital letter and ending mark for a statement?",
+          "options": [
+            "i like meatballs.",
+            "I like meatballs?",
+            "i like meatballs?",
+            "I like meatballs."
+          ],
+          "answer": "I like meatballs.",
+          "discussion": "Kata ganti I selalu ditulis dengan huruf kapital. Pernyataan ini diakhiri titik."
+        },
+        {
+          "id": "K03-ENG-B01-M01-031",
+          "type": "PG",
+          "text": "“I like Mi Aceh.” Which part names the food?",
+          "options": [
+            "I",
+            "like",
+            "Mi Aceh",
+            "I like"
+          ],
+          "answer": "Mi Aceh",
+          "discussion": "Mi Aceh adalah nama hidangan. I menyebut penutur dan like menyatakan kesukaan."
+        },
+        {
+          "id": "K03-ENG-B01-M01-032",
+          "type": "PG",
+          "text": "Bima wrote “I like bread” below a drawing of milk. He wants to keep the drawing. Which word should replace “bread”?",
+          "options": [
+            "milk",
+            "tea",
+            "rice",
+            "noodles"
+          ],
+          "answer": "milk",
+          "discussion": "Agar kalimat cocok dengan gambar susu, kata untuk makanan diganti dengan milk."
+        },
+        {
+          "id": "K03-ENG-B01-M01-033",
+          "type": "PG",
+          "text": "A menu shows only fried chicken and meatballs. Which choice is available for someone who likes bakso?",
+          "options": [
+            "fried chicken",
+            "meatballs",
+            "fried rice",
+            "noodles"
+          ],
+          "answer": "meatballs",
+          "discussion": "Meatballs berarti bakso dan tercantum pada menu. Fried chicken adalah ayam goreng."
+        },
+        {
+          "id": "K03-ENG-B01-M01-034",
+          "type": "PG",
+          "text": "One friend likes tea. The other says, “I like tea, too.” Which survey summary fits?",
+          "options": [
+            "Only the first friend likes tea.",
+            "Only the second friend likes tea.",
+            "Both like tea.",
+            "Neither likes tea."
+          ],
+          "answer": "Both like tea.",
+          "discussion": "Too berarti juga, sehingga kesukaan pada teh berlaku untuk keduanya."
+        },
+        {
+          "id": "K03-ENG-B01-M01-035",
+          "type": "PG",
+          "text": "“I like rice.” “Do you like fried rice?” “I don’t know.” What do we know for sure?",
+          "options": [
+            "The speaker likes fried rice.",
+            "The speaker dislikes fried rice.",
+            "The speaker dislikes rice.",
+            "The speaker likes rice."
+          ],
+          "answer": "The speaker likes rice.",
+          "discussion": "Kesukaan pada nasi dinyatakan langsung. I don’t know tidak menetapkan jawaban untuk nasi goreng."
+        }
+      ]
+    }
+  ]
+}
