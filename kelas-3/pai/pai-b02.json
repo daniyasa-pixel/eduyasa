@@ -1,0 +1,404 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PAI-B02",
+      "chapter_title": "Ayo Mengenal Tuhan Kita",
+      "questions": [
+        {
+          "id": "K03-PAI-B02-M01-001",
+          "type": "PG",
+          "text": "Apa yang dimaksud dengan sifat wajib bagi Allah?",
+          "options": [
+            "Sifat kekurangan yang mustahil bagi Allah",
+            "Perbuatan yang Allah kehendaki untuk terjadi atau tidak",
+            "Nama-nama indah Allah",
+            "Sifat kesempurnaan yang pasti ada pada Allah"
+          ],
+          "answer": "Sifat kesempurnaan yang pasti ada pada Allah",
+          "discussion": "Kata wajib di sini berarti pasti ada pada Allah. Ini berbeda dengan kewajiban yang diperintahkan kepada manusia."
+        },
+        {
+          "id": "K03-PAI-B02-M01-002",
+          "type": "PG",
+          "text": "Manakah pernyataan yang sesuai dengan arti Wujud?",
+          "options": [
+            "Allah ada",
+            "Allah Maha Esa",
+            "Allah Maha Mengetahui",
+            "Allah Maha Kuasa"
+          ],
+          "answer": "Allah ada",
+          "discussion": "Wujud berkaitan dengan keberadaan Allah. Tiga pilihan lainnya menjelaskan sifat wajib yang berbeda."
+        },
+        {
+          "id": "K03-PAI-B02-M01-003",
+          "type": "PG",
+          "text": "Tanaman di kelas mulai tumbuh pada hari Senin. Apa yang membedakan permulaan tanaman itu dari makna Qidam?",
+          "options": [
+            "Allah mulai ada sebelum tanaman tumbuh",
+            "Allah tidak mempunyai permulaan",
+            "Allah mulai ada ketika alam diciptakan",
+            "Allah mulai ada sebelum manusia lahir"
+          ],
+          "answer": "Allah tidak mempunyai permulaan",
+          "discussion": "Qidam berarti keberadaan Allah tidak berawal. Menyebut waktu yang lebih awal masih berarti memberi permulaan."
+        },
+        {
+          "id": "K03-PAI-B02-M01-004",
+          "type": "PG",
+          "text": "Nina menulis bahwa Baqa artinya “bertahan sangat lama”. Bagaimana ia perlu memperbaiki catatannya?",
+          "options": [
+            "Baqa berarti Allah ada tanpa permulaan",
+            "Baqa berarti Allah ada tanpa bantuan",
+            "Baqa berarti Allah kekal tanpa akhir",
+            "Baqa berarti Allah kuasa atas segala sesuatu"
+          ],
+          "answer": "Baqa berarti Allah kekal tanpa akhir",
+          "discussion": "Sesuatu yang bertahan lama masih dapat berakhir. Baqa berarti kekal tanpa akhir."
+        },
+        {
+          "id": "K03-PAI-B02-M01-005",
+          "type": "PG",
+          "text": "Manakah tindakan yang sesuai dengan makna Wahdaniyah?",
+          "options": [
+            "Beribadah kepada Allah dan benda keramat",
+            "Meminta teman menentukan kepada siapa ia beribadah",
+            "Memuja benda yang dianggap membawa keberuntungan",
+            "Beribadah hanya kepada Allah"
+          ],
+          "answer": "Beribadah hanya kepada Allah",
+          "discussion": "Wahdaniyah berarti Allah Maha Esa. Karena itu ibadah ditujukan hanya kepada-Nya."
+        },
+        {
+          "id": "K03-PAI-B02-M01-006",
+          "type": "PG",
+          "text": "Kelompok Lala hendak membuat kartu “Allah Maha Kuasa”. Istilah mana yang perlu ditulis di balik kartu?",
+          "options": [
+            "Iradah",
+            "Qudrah",
+            "Sama’",
+            "Basar"
+          ],
+          "answer": "Qudrah",
+          "discussion": "Qudrah, yang juga dikenal sebagai Qudrat, berarti Maha Kuasa. Iradah berarti Maha Berkehendak."
+        },
+        {
+          "id": "K03-PAI-B02-M01-007",
+          "type": "PG",
+          "text": "Roni mengembalikan penghapus yang ia pinjam walau pemiliknya tidak melihat. Sifat apa yang mengingatkannya bahwa Allah tetap mengetahui perbuatannya?",
+          "options": [
+            "Baqa",
+            "Wujud",
+            "Ilmu",
+            "Qidam"
+          ],
+          "answer": "Ilmu",
+          "discussion": "Ilmu berarti Allah Maha Mengetahui. Perbuatan yang luput dari perhatian orang lain tetap diketahui Allah."
+        },
+        {
+          "id": "K03-PAI-B02-M01-008",
+          "type": "PG",
+          "text": "Manakah sifat kekurangan yang mustahil bagi Allah?",
+          "options": [
+            "Lemah",
+            "Mengetahui",
+            "Berkehendak",
+            "Mendengar"
+          ],
+          "answer": "Lemah",
+          "discussion": "Lemah adalah kebalikan dari kuasa. Allah Maha Kuasa, Maha Mengetahui, Maha Berkehendak, dan Maha Mendengar."
+        },
+        {
+          "id": "K03-PAI-B02-M01-009",
+          "type": "PG",
+          "text": "Di kartu Asmaulhusna, Tia menulis “Maha Pemberi Karunia”. Nama mana yang cocok?",
+          "options": [
+            "Al-Kabir",
+            "As-Sami’",
+            "Al-Basir",
+            "Al-Wahhab"
+          ],
+          "answer": "Al-Wahhab",
+          "discussion": "Al-Wahhab berarti Allah Maha Pemberi Karunia. Kita mensyukuri karunia-Nya dengan memanfaatkannya untuk kebaikan."
+        },
+        {
+          "id": "K03-PAI-B02-M01-010",
+          "type": "PG",
+          "text": "Seorang siswa mengira Al-Kabir dapat dijelaskan dengan mengukur benda paling tinggi di kelas. Penjelasan mana yang tepat?",
+          "options": [
+            "Al-Kabir berarti Allah lebih tinggi daripada benda yang diukur",
+            "Al-Kabir berarti Allah Maha Besar dan kebesaran-Nya tidak diukur seperti benda",
+            "Al-Kabir berarti Allah sebesar benda terbesar yang kita kenal",
+            "Al-Kabir berarti kebesaran Allah berubah mengikuti ukuran benda"
+          ],
+          "answer": "Al-Kabir berarti Allah Maha Besar dan kebesaran-Nya tidak diukur seperti benda",
+          "discussion": "Al-Kabir menyatakan kebesaran Allah yang tak tertandingi. Penggaris hanya mengukur benda."
+        },
+        {
+          "id": "K03-PAI-B02-M01-011",
+          "type": "PG",
+          "text": "Siti mengelompokkan Maha Mendengar dan Maha Melihat sebagai sifat wajib. Apa alasannya?",
+          "options": [
+            "Keduanya boleh ada atau tiada pada Allah",
+            "Keduanya hanya dimiliki makhluk",
+            "Keduanya pasti ada pada Allah",
+            "Keduanya sifat kekurangan"
+          ],
+          "answer": "Keduanya pasti ada pada Allah",
+          "discussion": "Maha Mendengar dan Maha Melihat termasuk sifat kesempurnaan Allah. Cara Allah mendengar dan melihat tidak disamakan dengan makhluk."
+        },
+        {
+          "id": "K03-PAI-B02-M01-012",
+          "type": "PG",
+          "text": "Tanaman membutuhkan air. Sifat apa yang menjelaskan bahwa Allah tidak membutuhkan siapa pun atau apa pun?",
+          "options": [
+            "Qiyamuhu binafsihi",
+            "Wahdaniyah",
+            "Baqa",
+            "Qidam"
+          ],
+          "answer": "Qiyamuhu binafsihi",
+          "discussion": "Qiyamuhu binafsihi berarti Allah berdiri sendiri dan tidak bergantung pada makhluk."
+        },
+        {
+          "id": "K03-PAI-B02-M01-013",
+          "type": "PG",
+          "text": "Alif menyandingkan sifat wajib dan sifat mustahil. Pasangan mana yang tepat?",
+          "options": [
+            "Qidam dan kekal",
+            "Wujud dan tiada",
+            "Baqa dan Maha Esa",
+            "Qudrah dan Maha Mengetahui"
+          ],
+          "answer": "Wujud dan tiada",
+          "discussion": "Wujud berarti ada. Tiada merupakan kebalikannya dan mustahil bagi Allah."
+        },
+        {
+          "id": "K03-PAI-B02-M01-014",
+          "type": "PG",
+          "text": "Pada tabelnya, Rina menulis “Baqa — baru ada” sebagai pasangan sifat wajib dan lawannya. Apa perbaikannya?",
+          "options": [
+            "Ganti “baru ada” menjadi “Maha Esa”",
+            "Ganti “baru ada” menjadi “tidak berawal”",
+            "Ganti “baru ada” menjadi “ada”",
+            "Ganti “baru ada” menjadi “berakhir”"
+          ],
+          "answer": "Ganti “baru ada” menjadi “berakhir”",
+          "discussion": "Baqa berarti kekal, sehingga lawannya berakhir. Baru ada merupakan lawan dari Qidam."
+        },
+        {
+          "id": "K03-PAI-B02-M01-015",
+          "type": "PG",
+          "text": "Faris melihat dua kartu, “Maha Esa” dan “berbilang”. Bagaimana mengelompokkannya?",
+          "options": [
+            "Maha Esa masuk sifat mustahil dan berbilang masuk sifat wajib",
+            "Keduanya masuk sifat wajib",
+            "Maha Esa masuk sifat wajib dan berbilang masuk sifat mustahil",
+            "Keduanya masuk sifat mustahil"
+          ],
+          "answer": "Maha Esa masuk sifat wajib dan berbilang masuk sifat mustahil",
+          "discussion": "Wahdaniyah berarti Allah Maha Esa. Berbilang atau lebih dari satu mustahil bagi Allah."
+        },
+        {
+          "id": "K03-PAI-B02-M01-016",
+          "type": "PG",
+          "text": "Ayu berkata bahwa Allah Maha Kuasa dan Allah Maha Berkehendak. Bagaimana membedakan arti kedua sifat itu?",
+          "options": [
+            "Qudrah berarti Maha Berkehendak dan Iradah berarti Maha Kuasa",
+            "Qudrah berarti Maha Kuasa dan Iradah berarti Maha Berkehendak",
+            "Keduanya berarti Maha Mendengar",
+            "Keduanya berarti Maha Mengetahui"
+          ],
+          "answer": "Qudrah berarti Maha Kuasa dan Iradah berarti Maha Berkehendak",
+          "discussion": "Qudrah menerangkan kekuasaan Allah. Iradah menerangkan kehendak-Nya."
+        },
+        {
+          "id": "K03-PAI-B02-M01-017",
+          "type": "PG",
+          "text": "Kelompok Rafi mencari lawan sifat Ilmu. Kartu mana yang perlu dipilih?",
+          "options": [
+            "Tidak mendengar",
+            "Tidak melihat",
+            "Tidak berkuasa",
+            "Tidak mengetahui"
+          ],
+          "answer": "Tidak mengetahui",
+          "discussion": "Ilmu berarti Allah Maha Mengetahui. Tidak mengetahui adalah lawannya dan mustahil bagi Allah."
+        },
+        {
+          "id": "K03-PAI-B02-M01-018",
+          "type": "PG",
+          "text": "Dua teman bertanya mengapa “menyerupai makhluk” masuk kelompok sifat mustahil. Apa jawabannya?",
+          "options": [
+            "Semua makhluk bergantung pada hal yang sama",
+            "Allah hanya menyerupai sebagian makhluk",
+            "Tidak ada makhluk yang menyamai Allah",
+            "Kemiripan Allah berubah menurut keadaan"
+          ],
+          "answer": "Tidak ada makhluk yang menyamai Allah",
+          "discussion": "Allah berbeda dari makhluk. Karena itu menyerupai makhluk termasuk sifat mustahil."
+        },
+        {
+          "id": "K03-PAI-B02-M01-019",
+          "type": "PG",
+          "text": "Rafi membawa dua pensil dan melihat temannya belum punya pensil untuk menulis. Apa yang mencerminkan rasa syukur setelah belajar Al-Wahhab?",
+          "options": [
+            "Menawarkan satu pensil untuk dipinjam dengan sopan",
+            "Meminjamkan pensil jika dipuji teman",
+            "Memamerkan kedua pensilnya kepada kelas",
+            "Menunggu sampai temannya menawarkan imbalan"
+          ],
+          "answer": "Menawarkan satu pensil untuk dipinjam dengan sopan",
+          "discussion": "Memakai karunia untuk membantu merupakan wujud syukur dan kepedulian. Bantuan dapat diberikan tanpa mengharap pujian."
+        },
+        {
+          "id": "K03-PAI-B02-M01-020",
+          "type": "PG",
+          "text": "Setelah belajar Al-Kabir, Salma menjadi juara lomba. Sikap apa yang menunjukkan rendah hati?",
+          "options": [
+            "Menganggap peserta lain tidak pantas ikut lomba",
+            "Bersyukur, berterima kasih, dan menghargai usaha peserta lain",
+            "Menolak masukan karena merasa sudah paling hebat",
+            "Hanya menghargai peserta yang mendapat piala"
+          ],
+          "answer": "Bersyukur, berterima kasih, dan menghargai usaha peserta lain",
+          "discussion": "Mengingat kebesaran Allah membantu Salma bersyukur atas keberhasilannya dan tetap menghargai orang lain."
+        },
+        {
+          "id": "K03-PAI-B02-M01-021",
+          "type": "PG",
+          "text": "Apa makna sifat jaiz yang dipelajari di bab ini?",
+          "options": [
+            "Allah harus mewujudkan semua hal yang mungkin",
+            "Allah kadang memiliki sifat kekurangan",
+            "Allah berbuat atau tidak berbuat sesuatu yang mungkin sesuai kehendak-Nya",
+            "Allah perlu meminta persetujuan sebelum berbuat"
+          ],
+          "answer": "Allah berbuat atau tidak berbuat sesuatu yang mungkin sesuai kehendak-Nya",
+          "discussion": "Sifat jaiz menjelaskan kebebasan Allah dalam mewujudkan atau tidak mewujudkan sesuatu yang mungkin."
+        },
+        {
+          "id": "K03-PAI-B02-M01-022",
+          "type": "PG",
+          "text": "Lina membuat kartu “Allah menciptakan sesuatu sesuai kehendak-Nya”. Kartu itu paling sesuai untuk menjelaskan apa?",
+          "options": [
+            "Sifat jaiz",
+            "Arti Wujud",
+            "Arti Baqa",
+            "Lawan Qudrah"
+          ],
+          "answer": "Sifat jaiz",
+          "discussion": "Menciptakan atau tidak menciptakan sesuatu yang mungkin adalah contoh pembahasan sifat jaiz."
+        },
+        {
+          "id": "K03-PAI-B02-M01-023",
+          "type": "PG",
+          "text": "Amin berkata, “Sifat jaiz berarti Allah kadang lemah.” Apa tanggapan yang tepat?",
+          "options": [
+            "Lemah menjadi jaiz jika tidak ada yang melihat.",
+            "Lemah menjadi sifat wajib ketika Allah tidak melakukan sesuatu.",
+            "Jaiz berarti Maha Kuasa hanya pada waktu tertentu.",
+            "Lemah tetap mustahil bagi Allah. Jaiz berkaitan dengan sesuatu yang mungkin Allah lakukan atau tidak."
+          ],
+          "answer": "Lemah tetap mustahil bagi Allah. Jaiz berkaitan dengan sesuatu yang mungkin Allah lakukan atau tidak.",
+          "discussion": "Sifat jaiz berkaitan dengan perbuatan yang mungkin. Kekurangan seperti lemah tetap mustahil bagi Allah."
+        },
+        {
+          "id": "K03-PAI-B02-M01-024",
+          "type": "PG",
+          "text": "Ada tiga catatan: (1) Allah Maha Kuasa, (2) lemah bagi Allah, (3) Allah menciptakan sesuatu sesuai kehendak-Nya. Urutan kelompok yang tepat adalah ....",
+          "options": [
+            "wajib, jaiz, mustahil",
+            "wajib, mustahil, jaiz",
+            "mustahil, wajib, jaiz",
+            "jaiz, mustahil, wajib"
+          ],
+          "answer": "wajib, mustahil, jaiz",
+          "discussion": "Maha Kuasa pasti ada pada Allah, lemah mustahil, dan mewujudkan sesuatu yang mungkin sesuai kehendak-Nya merupakan contoh jaiz."
+        },
+        {
+          "id": "K03-PAI-B02-M01-025",
+          "type": "PG",
+          "text": "Teman Nisa berkata, “Karena ada sifat jaiz, semua doaku harus terjadi persis seperti yang kuminta.” Apa tanggapan yang tepat?",
+          "options": [
+            "Kita cukup berdoa karena semua permintaan pasti terjadi persis.",
+            "Jika belum terkabul, artinya Allah tidak mendengar.",
+            "Kita tetap berdoa dan berusaha. Apa yang terjadi bergantung pada kehendak Allah.",
+            "Sifat jaiz membuat manusia menentukan apa yang Allah lakukan."
+          ],
+          "answer": "Kita tetap berdoa dan berusaha. Apa yang terjadi bergantung pada kehendak Allah.",
+          "discussion": "Sifat jaiz mengajarkan bahwa keputusan atas hal yang mungkin ada pada Allah. Kita tetap berdoa dan berusaha."
+        },
+        {
+          "id": "K03-PAI-B02-M01-026",
+          "type": "PG",
+          "text": "Guru menunjukkan daftar 20 sifat wajib dalam buku. Cara mana yang membantu Kiki belajar arti dan pasangan lawannya?",
+          "options": [
+            "Menghafal nomor urut saja",
+            "Membaca daftar sekali tanpa memeriksa arti",
+            "Menebak arti dari panjang kata",
+            "Membuat kartu istilah, arti, dan lawannya lalu saling menguji"
+          ],
+          "answer": "Membuat kartu istilah, arti, dan lawannya lalu saling menguji",
+          "discussion": "Kartu membantu Kiki mengingat istilah sekaligus memeriksa maknanya. Berlatih bersama memberi kesempatan memperbaiki pasangan yang tertukar."
+        },
+        {
+          "id": "K03-PAI-B02-M01-027",
+          "type": "PG",
+          "text": "Hana mendengar bel dan melihat pintu terbuka. Pasangan istilah mana yang berarti Allah Maha Mendengar dan Maha Melihat secara berurutan?",
+          "options": [
+            "Sama’ dan Basar",
+            "Basar dan Sama’",
+            "Ilmu dan Qudrah",
+            "Kalam dan Hayat"
+          ],
+          "answer": "Sama’ dan Basar",
+          "discussion": "Sama’ berarti Maha Mendengar dan Basar berarti Maha Melihat. Pengalaman Hana membantu mengingat arti kedua istilah."
+        },
+        {
+          "id": "K03-PAI-B02-M01-028",
+          "type": "PG",
+          "text": "Beni membuat poster dan memasangkan Al-Wahhab dengan rendah hati karena kebesaran Allah, lalu Al-Kabir dengan syukur atas karunia. Bagaimana memperbaiki pasangannya agar sesuai makna setiap nama?",
+          "options": [
+            "Al-Wahhab dengan kebesaran, Al-Kabir dengan pemberian",
+            "Al-Wahhab dengan Maha Mendengar, Al-Kabir dengan Maha Melihat",
+            "Al-Wahhab dengan syukur dan berbagi, Al-Kabir dengan rendah hati",
+            "Al-Wahhab dengan kekal, Al-Kabir dengan tidak berawal"
+          ],
+          "answer": "Al-Wahhab dengan syukur dan berbagi, Al-Kabir dengan rendah hati",
+          "discussion": "Al-Wahhab mengingatkan kita akan karunia Allah. Al-Kabir mengingatkan kita akan kebesaran-Nya."
+        },
+        {
+          "id": "K03-PAI-B02-M01-029",
+          "type": "PG",
+          "text": "Dua siswa ingin membantu teman yang tertinggal pelajaran. Pilihan mana yang paling menunjukkan kepedulian?",
+          "options": [
+            "Memberi semua jawaban agar tugas segera selesai",
+            "Menanyakan bagian yang sulit lalu menawarkan belajar bersama",
+            "Menceritakan kesulitannya kepada seluruh kelas tanpa izin",
+            "Menentukan sendiri bantuan yang harus ia terima"
+          ],
+          "answer": "Menanyakan bagian yang sulit lalu menawarkan belajar bersama",
+          "discussion": "Bertanya lebih dulu membantu kita memberi bantuan yang sesuai dan tetap menghargai teman."
+        },
+        {
+          "id": "K03-PAI-B02-M01-030",
+          "type": "PG",
+          "text": "Arman mahir menggambar. Setelah belajar Al-Wahhab dan Al-Kabir, tindakan mana yang menunjukkan syukur sekaligus rendah hati?",
+          "options": [
+            "Mengajari teman yang meminta bantuan dan mau mendengarkan saran",
+            "Memasang gambar agar semua teman mengakui ia paling hebat",
+            "Menyimpan semua cara menggambar agar tak ada yang menyamainya",
+            "Membantu teman hanya jika namanya ditulis paling besar"
+          ],
+          "answer": "Mengajari teman yang meminta bantuan dan mau mendengarkan saran",
+          "discussion": "Berbagi keterampilan menunjukkan syukur atas karunia. Mendengarkan saran menunjukkan rendah hati."
+        }
+      ]
+    }
+  ]
+}
