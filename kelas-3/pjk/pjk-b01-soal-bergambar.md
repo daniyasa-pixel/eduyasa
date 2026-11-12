@@ -1,12 +1,12 @@
 # Unit 1 — Aktivitas Pola Gerak Dasar Lokomotor
 
-10 soal bergambar, **DRAF**. Ilustrasi SVG bersifat simbolik, belum ilustrasi gerak yang spesifik.
+10 soal bergambar. Gambar skematis menunjukkan arah/pola gerak; kesesuaian visual dan keterbacaan perangkat perlu diuji.
 
 ## Soal 36 — K03-PJK-B01-M01-036
 
 ![Ilustrasi Berjalan mundur](assets/pjk-b01-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Berjalan mundur". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Diagram menunjukkan arah langkah ke belakang. Apa sikap yang aman sebelum mengikuti arah itu?
 
 **Pilihan jawaban:**
 - menabrak teman
@@ -24,7 +24,7 @@
 
 ![Ilustrasi Lari zig-zag](assets/pjk-b01-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Lari zig-zag". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Lintasan bergaris berbelok beberapa kali. Bagaimana cara bergerak melewatinya?
 
 **Pilihan jawaban:**
 - berlari melewati rintangan dengan perubahan arah
@@ -42,7 +42,7 @@
 
 ![Ilustrasi Mendarat setelah meloncat](assets/pjk-b01-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Mendarat setelah meloncat". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Perhatikan diagram posisi kaki saat mendarat. Apa yang sebaiknya dilakukan pada lutut?
 
 **Pilihan jawaban:**
 - mengunci lutut kaku
@@ -60,7 +60,7 @@
 
 ![Ilustrasi Pemanasan sebelum berlari](assets/pjk-b01-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Pemanasan sebelum berlari". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Diagram menunjukkan kegiatan persiapan sebelum berlari. Apa tujuan gerak persiapan itu?
 
 **Pilihan jawaban:**
 - mengganti minum air
@@ -78,7 +78,7 @@
 
 ![Ilustrasi Lintasan yang aman](assets/pjk-b01-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Lintasan yang aman". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Perhatikan jalur pada diagram. Apa ciri jalur yang layak dipakai latihan?
 
 **Pilihan jawaban:**
 - basah dan licin
@@ -96,7 +96,7 @@
 
 ![Ilustrasi Berjalan](assets/pjk-b01-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang berjalan?
+**Pertanyaan:** Diagram menunjukkan perpindahan tempat dengan langkah kaki. Gerak apakah itu?
 
 **Pilihan jawaban:**
 - berpindah tempat dengan melangkahkan kaki
@@ -114,7 +114,7 @@
 
 ![Ilustrasi Berlari](assets/pjk-b01-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang berlari?
+**Pertanyaan:** Diagram menunjukkan perpindahan tempat dengan langkah cepat. Apa ciri gerak lari?
 
 **Pilihan jawaban:**
 - diam di tempat
@@ -132,7 +132,7 @@
 
 ![Ilustrasi Melompat](assets/pjk-b01-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang melompat?
+**Pertanyaan:** Diagram menunjukkan tolakan dengan satu kaki. Manakah penjelasan gerak yang sesuai?
 
 **Pilihan jawaban:**
 - melempar bola
@@ -150,7 +150,7 @@
 
 ![Ilustrasi Meloncat](assets/pjk-b01-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang meloncat?
+**Pertanyaan:** Diagram menunjukkan tolakan dengan kedua kaki. Manakah penjelasan gerak yang sesuai?
 
 **Pilihan jawaban:**
 - menendang bola
@@ -168,7 +168,7 @@
 
 ![Ilustrasi Berjalan menyamping](assets/pjk-b01-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang berjalan menyamping?
+**Pertanyaan:** Diagram menunjukkan langkah ke samping. Apa cara yang tepat untuk melakukannya?
 
 **Pilihan jawaban:**
 - melangkah ke samping sambil menjaga keseimbangan
