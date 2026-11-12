@@ -1,103 +1,104 @@
 # Unit 10 — 5 Soal Listening
 
-**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
+**Status:** Web Speech API (speechSynthesis), bukan MP3; transkrip produksi harus disembunyikan dari siswa. Uji perangkat masih diperlukan.
 
 ## Soal 46 — K03-ENG-B10-M01-046
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"ten","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"There are twelve books on the shelf.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** ten
+**Transkrip produksi (disembunyikan dari siswa):** There are twelve books on the shelf.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. How many books are there?
 
 **Pilihan jawaban:**
+- ten
+- eleven
 - twelve
 - fifteen
-- ten
-- twenty
 
-**Kunci Jawaban:** ten
+**Kunci Jawaban:** twelve
 
-**Pembahasan:** Audio menyebutkan "ten" (sepuluh).
+**Pembahasan:** The audio states twelve books.
 
 ---
 
 ## Soal 47 — K03-ENG-B10-M01-047
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"eleven","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"There are fifteen pencils in the box.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** eleven
+**Transkrip produksi (disembunyikan dari siswa):** There are fifteen pencils in the box.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. How many pencils are in the box?
 
 **Pilihan jawaban:**
-- sixteen
-- eleven
-- ten
+- fifteen
 - thirteen
+- seventeen
+- twenty
 
-**Kunci Jawaban:** eleven
+**Kunci Jawaban:** fifteen
 
-**Pembahasan:** Audio menyebutkan "eleven" (sebelas).
+**Pembahasan:** The count is fifteen.
 
 ---
 
 ## Soal 48 — K03-ENG-B10-M01-048
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"twelve","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"I have fourteen notebooks and two more. Now I have sixteen notebooks.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** twelve
+**Transkrip produksi (disembunyikan dari siswa):** I have fourteen notebooks and two more. Now I have sixteen notebooks.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. How many notebooks are there now?
 
 **Pilihan jawaban:**
 - twelve
-- eleven
 - fourteen
-- seventeen
+- fifteen
+- sixteen
 
-**Kunci Jawaban:** twelve
+**Kunci Jawaban:** sixteen
 
-**Pembahasan:** Audio menyebutkan "twelve" (dua belas).
+**Pembahasan:** Fourteen plus two makes sixteen.
 
 ---
 
 ## Soal 49 — K03-ENG-B10-M01-049
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"thirteen","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Are there twenty chairs? No, there are eighteen chairs.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** thirteen
+**Transkrip produksi (disembunyikan dari siswa):** Are there twenty chairs? No, there are eighteen chairs.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. How many chairs are there?
 
 **Pilihan jawaban:**
-- twelve
-- fifteen
+- twenty
 - eighteen
+- eleven
 - thirteen
 
-**Kunci Jawaban:** thirteen
+**Kunci Jawaban:** eighteen
 
-**Pembahasan:** Audio menyebutkan "thirteen" (tiga belas).
+**Pembahasan:** The reply corrects twenty to eighteen.
 
 ---
 
 ## Soal 50 — K03-ENG-B10-M01-050
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"fourteen","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"There are ten books on the first shelf and nine on the second shelf.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** fourteen
+**Transkrip produksi (disembunyikan dari siswa):** There are ten books on the first shelf and nine on the second shelf.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. How many books are there altogether?
 
 **Pilihan jawaban:**
-- sixteen
+- seventeen
+- eighteen
+- nineteen
 - twenty
-- fourteen
-- thirteen
 
-**Kunci Jawaban:** fourteen
+**Kunci Jawaban:** nineteen
 
-**Pembahasan:** Audio menyebutkan "fourteen" (empat belas).
+**Pembahasan:** Ten plus nine is nineteen.
 
 ---
+
