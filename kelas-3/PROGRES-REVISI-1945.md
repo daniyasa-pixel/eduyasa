@@ -680,3 +680,7 @@ Sebanyak **500 soal (350 teks + 100 bergambar + 50 listening) dan 20 modul** tel
 ## Checkpoint 2026-11-12 — konversi JSON IPAS Bab 1–8
 
 IPAS Kelas 3 selesai dikonversi: **560 soal** (400 teks, 160 bergambar), **16 modul**, **24 JSON** dan manifest `ipas/question-packs.json`. Audit ulang setelah konversi dibanding sumber Markdown dilakukan per ID/posisi/opsi/kunci/pembahasan/media/konten modul pada tiap bab; hasil **8/8 PASS, 0 mismatch**. Materi modul mempertahankan teks dan mengonversi path gambar relatif ke URL raw GitHub. **Total fase konversi baru: 1.585/1.945 soal** (SBD 225, PAI 300, ENG 500, IPAS 560). Sisa **360 soal PJOK** (modul PJOK tidak tersedia di sumber). Tidak ada perubahan `HTML/grade-config.js` dan tidak ada pengujian HP/WebView pada batch ini. Laporan dan SHA lengkap: `kelas-3/LAPORAN-AUDIT-JSON.md`.
+
+## Checkpoint final 2026-11-12 — 1.945/1.945 soal sudah dikonversi JSON
+
+Semua bank soal lima mapel sasaran **sudah dikonversi dan lulus audit integritas data Markdown ↔ JSON**: IPAS 560, PAI 300, ENG 500, PJOK 360, SBD 225. Fase konversi menghasilkan **115 berkas JSON** soal/materi dan **5 manifest**. Batch PJOK: 16 bank JSON untuk 8 unit (280 soal teks + 80 bergambar), 360 ID unik, posisi/opsi/kunci/pembahasan/media cocok, **0 mismatch**. Tidak dilakukan audit akademik. **Modul PJOK belum tersedia di sumber**, status NOT_AVAILABLE_IN_SOURCE untuk delapan unit; tidak membuat JSON modul fiktif. Aktivasi menu serta pengujian HP/WebView masih tahap terpisah. Laporan rinci: `kelas-3/LAPORAN-AUDIT-JSON.md`.
