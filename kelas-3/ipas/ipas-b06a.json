@@ -1,0 +1,354 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B06",
+      "chapter_title": "Energi, sang Pemberi Kekuatan",
+      "questions": [
+        {
+          "id": "K03-IPAS-B06-M01-051",
+          "type": "PG",
+          "text": "Alat berlabel mana terutama digunakan untuk mengeluarkan suara?",
+          "options": [
+            "A",
+            "C",
+            "B",
+            "A dan C saja"
+          ],
+          "answer": "B",
+          "discussion": "B memperlihatkan pengeras suara; A merupakan lampu, C kipas. Bunyi pada kipas adalah keluaran tambahan, bukan fungsi utamanya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-01.svg",
+            "alt": "Tiga alat: A lampu menyala; B pengeras suara dengan tanda gelombang bunyi; C kipas dengan tanda berputar dan gelombang bunyi."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-052",
+          "type": "PG",
+          "text": "Pada C, dua bentuk energi yang ditunjukkan keterangannya ialah ...",
+          "options": [
+            "Hanya kimia dan cahaya",
+            "Hanya panas dan kimia",
+            "Hanya cahaya dan gravitasi",
+            "Gerak dan bunyi"
+          ],
+          "answer": "Gerak dan bunyi",
+          "discussion": "Keterangan C menyebut putaran dan suara; keduanya menjadi bukti gerak dan bunyi pada alat yang sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-01.svg",
+            "alt": "Tiga alat: A lampu menyala; B pengeras suara dengan tanda gelombang bunyi; C kipas dengan tanda berputar dan gelombang bunyi."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-053",
+          "type": "PG",
+          "text": "Bagian awal berlabel mana menyimpan energi kimia untuk senter?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "B dan C"
+          ],
+          "answer": "A",
+          "discussion": "A menunjuk baterai; sambungan B menyalurkan listrik dan lampu C menghasilkan cahaya serta panas.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-02.svg",
+            "alt": "Bagan senter: A baterai di awal; panah ke B sambungan kabel tertutup; panah ke C lampu menyala. Rangkaian skematis, bukan petunjuk merakit."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-054",
+          "type": "PG",
+          "text": "Bentuk energi yang disalurkan melalui B menuju C ialah ...",
+          "options": [
+            "Bensin",
+            "Listrik",
+            "Makanan",
+            "Angin"
+          ],
+          "answer": "Listrik",
+          "discussion": "Panah menunjukkan energi dari baterai menuju lampu melalui sambungan kabel; pada bagian itu energi disalurkan secara listrik.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-02.svg",
+            "alt": "Bagan senter: A baterai di awal; panah ke B sambungan kabel tertutup; panah ke C lampu menyala. Rangkaian skematis, bukan petunjuk merakit."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-055",
+          "type": "PG",
+          "text": "Perubahan yang terjadi ketika panel ditutup pada uji itu ialah ...",
+          "options": [
+            "Lampu makin terang",
+            "Panel berubah menjadi baterai",
+            "Lampu yang semula menyala menjadi padam",
+            "Kedua keadaan menunjukkan lampu menyala"
+          ],
+          "answer": "Lampu yang semula menyala menjadi padam",
+          "discussion": "A menunjukkan lampu menyala, sedangkan B padam setelah panel tertutup dari cahaya pada model tanpa baterai.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-03.svg",
+            "alt": "Uji lampu model bertenaga panel surya tanpa baterai: A panel terkena cahaya, lampu menyala; B panel ditutup rapat dari cahaya, lampu padam. Alat sama, penutup aman ditangani guru."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-056",
+          "type": "PG",
+          "text": "Kesimpulan yang sesuai dengan uji model ini ialah ...",
+          "options": [
+            "Semua lampu hanya dapat menyala siang hari",
+            "Semua alat listrik mempunyai panel surya",
+            "Panel itu menghasilkan listrik sama banyak ketika tertutup",
+            "Cahaya yang diterima panel memengaruhi nyala lampu"
+          ],
+          "answer": "Cahaya yang diterima panel memengaruhi nyala lampu",
+          "discussion": "Data berasal dari model panel tanpa baterai; tidak menunjukkan cara kerja semua lampu atau semua alat listrik.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-03.svg",
+            "alt": "Uji lampu model bertenaga panel surya tanpa baterai: A panel terkena cahaya, lampu menyala; B panel ditutup rapat dari cahaya, lampu padam. Alat sama, penutup aman ditangani guru."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-057",
+          "type": "PG",
+          "text": "Uji mana menunjukkan putaran paling banyak dalam waktu pengamatan yang sama?",
+          "options": [
+            "R",
+            "P",
+            "Q",
+            "Semua sama"
+          ],
+          "answer": "R",
+          "discussion": "R mencatat lima belas putaran, lebih banyak daripada delapan di Q dan nol di P.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-04.svg",
+            "alt": "Pengamatan kincir yang sama selama 10 detik: P tanpa hembusan, nol putaran; Q hembusan pelan, delapan putaran; R hembusan lebih kuat, lima belas putaran. Guru mengatur hembusan aman."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-058",
+          "type": "PG",
+          "text": "Mengapa waktu tiap uji pada catatan dibuat sama?",
+          "options": [
+            "Agar hembusan tidak perlu dicatat",
+            "Agar jumlah putaran dapat dibandingkan secara lebih adil",
+            "Agar ukuran kincir boleh diganti sesuka hati",
+            "Agar hasil pasti sama pada semua uji"
+          ],
+          "answer": "Agar jumlah putaran dapat dibandingkan secara lebih adil",
+          "discussion": "Jika lamanya berbeda, jumlah putaran bisa berubah karena waktu, bukan hanya hembusan; tabel menyamakan waktu untuk membantu perbandingan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-04.svg",
+            "alt": "Pengamatan kincir yang sama selama 10 detik: P tanpa hembusan, nol putaran; Q hembusan pelan, delapan putaran; R hembusan lebih kuat, lima belas putaran. Guru mengatur hembusan aman."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-059",
+          "type": "PG",
+          "text": "Pada catatan, kenaikan suhu tangan ialah ...",
+          "options": [
+            "$1\\ ^\\circ\\text{C}$",
+            "$4\\ ^\\circ\\text{C}$",
+            "$3\\ ^\\circ\\text{C}$",
+            "$61\\ ^\\circ\\text{C}$"
+          ],
+          "answer": "$3\\ ^\\circ\\text{C}$",
+          "discussion": "Suhu berubah dari $29\\ ^\\circ\\text{C}$ menjadi $32\\ ^\\circ\\text{C}$; kenaikannya $(32-29)\\ ^\\circ\\text{C}=3\\ ^\\circ\\text{C}$.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-05.svg",
+            "alt": "Pengukuran contoh oleh guru: telapak tangan sebelum digosok 29 derajat Celsius, sesudah digosok perlahan 32 derajat Celsius; suhu ruangan tetap 28 derajat Celsius."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-060",
+          "type": "PG",
+          "text": "Perbandingan mana mendukung bahwa tangan menjadi lebih hangat setelah kegiatan?",
+          "options": [
+            "Suhu ruangan naik pada catatan",
+            "Suhu tangan sesudah lebih rendah",
+            "Tidak ada perbedaan angka suhu tangan",
+            "Suhu tangan sesudah lebih tinggi daripada sebelum"
+          ],
+          "answer": "Suhu tangan sesudah lebih tinggi daripada sebelum",
+          "discussion": "Angka suhu tangan meningkat, sedangkan angka suhu ruangan yang dicatat tetap; data ini menunjukkan pemanasan pada tangan selama kegiatan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-05.svg",
+            "alt": "Pengukuran contoh oleh guru: telapak tangan sebelum digosok 29 derajat Celsius, sesudah digosok perlahan 32 derajat Celsius; suhu ruangan tetap 28 derajat Celsius."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-061",
+          "type": "PG",
+          "text": "Keadaan mana menunjukkan senar sedang bergetar dan terdengar bunyi?",
+          "options": [
+            "Q",
+            "P",
+            "R",
+            "P dan R"
+          ],
+          "answer": "Q",
+          "discussion": "Pada Q, senar dipetik dan getaran tampak; P serta R tidak menunjukkan getaran yang menghasilkan bunyi teramati.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-06.svg",
+            "alt": "Pengamatan satu senar model oleh guru: P senar diam tanpa petikan, tidak terdengar bunyi; Q senar dipetik pelan, tampak bergetar dan terdengar bunyi; R senar disentuh lembut hingga berhenti bergetar, bunyi berhenti."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-062",
+          "type": "PG",
+          "text": "Hubungan yang didukung perubahan Q ke R ialah ...",
+          "options": [
+            "Bunyi makin kuat meski getaran berhenti",
+            "Ketika getaran dihentikan, bunyi senar juga berhenti",
+            "Bunyi selalu ada walaupun senar diam",
+            "Petikan tidak mempunyai hubungan dengan bunyi senar"
+          ],
+          "answer": "Ketika getaran dihentikan, bunyi senar juga berhenti",
+          "discussion": "Q bergetar dan berbunyi, lalu R berhenti bergetar serta tidak berbunyi; pengamatan menghubungkan bunyi dengan getaran.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-06.svg",
+            "alt": "Pengamatan satu senar model oleh guru: P senar diam tanpa petikan, tidak terdengar bunyi; Q senar dipetik pelan, tampak bergetar dan terdengar bunyi; R senar disentuh lembut hingga berhenti bergetar, bunyi berhenti."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-063",
+          "type": "PG",
+          "text": "Bagian mana pada bagan menerima gerakan turbin lalu menghasilkan listrik?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "C",
+          "discussion": "C adalah generator yang terhubung setelah turbin B dan sebelum lampu D.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-07.svg",
+            "alt": "Bagan pembangkit air: A air bergerak menuju B roda turbin; B dihubungkan ke C generator; C menyalurkan listrik menuju D lampu. Panah mengikuti A ke B ke C ke D."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-064",
+          "type": "PG",
+          "text": "Urutan aliran energi sesuai panah ialah ...",
+          "options": [
+            "Lampu → turbin → air → generator",
+            "Generator → air → lampu → turbin",
+            "Turbin → lampu → air → generator",
+            "Air bergerak → turbin → generator → lampu"
+          ],
+          "answer": "Air bergerak → turbin → generator → lampu",
+          "discussion": "Panah pada bagan bergerak berurutan A ke B ke C ke D; air menggerakkan turbin sebelum generator memasok lampu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-07.svg",
+            "alt": "Bagan pembangkit air: A air bergerak menuju B roda turbin; B dihubungkan ke C generator; C menyalurkan listrik menuju D lampu. Panah mengikuti A ke B ke C ke D."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-065",
+          "type": "PG",
+          "text": "Alat mana dapat dimatikan sesuai keadaan pada gambar?",
+          "options": [
+            "B dan C",
+            "D saja",
+            "B dan D",
+            "C dan D"
+          ],
+          "answer": "B dan C",
+          "discussion": "Lampu B tidak diperlukan karena cahaya cukup dan kipas C juga tidak diperlukan; kulkas D masih mempunyai fungsi penyimpanan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-08.svg",
+            "alt": "Ruangan kosong siang hari. A jendela memasukkan cahaya cukup; B lampu menyala; C kipas menyala tanpa kebutuhan lain; D kulkas menyala menyimpan makanan yang harus tetap dingin."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-066",
+          "type": "PG",
+          "text": "Mengapa tidak tepat langsung mematikan D untuk menghemat pada keadaan ini?",
+          "options": [
+            "Kulkas pada gambar tidak mempunyai kegunaan",
+            "Makanan di dalamnya masih memerlukan pendinginan",
+            "Semua alat menyala harus dipertahankan meski tidak diperlukan",
+            "Cahaya jendela dapat menggantikan pendinginan makanan"
+          ],
+          "answer": "Makanan di dalamnya masih memerlukan pendinginan",
+          "discussion": "D menyimpan makanan yang perlu tetap dingin; penghematan mempertimbangkan kebutuhan dan keamanan makanan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-08.svg",
+            "alt": "Ruangan kosong siang hari. A jendela memasukkan cahaya cukup; B lampu menyala; C kipas menyala tanpa kebutuhan lain; D kulkas menyala menyimpan makanan yang harus tetap dingin."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-067",
+          "type": "PG",
+          "text": "Kegiatan yang menunjukkan manfaat panas Matahari berlabel ...",
+          "options": [
+            "A",
+            "C",
+            "B",
+            "A dan C"
+          ],
+          "answer": "B",
+          "discussion": "B menyebut pakaian menghangat dan mengering ketika dijemur; A berfokus getaran bunyi dan C makanan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-09.svg",
+            "alt": "Tiga kegiatan: A memukul gendang, membran bergetar dan berbunyi; B menjemur pakaian dengan Matahari, pakaian menghangat dan mengering; C makan nasi sebelum berjalan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-068",
+          "type": "PG",
+          "text": "Pada kegiatan mana tubuh memperoleh bahan yang menyimpan energi kimia untuk bergerak?",
+          "options": [
+            "A",
+            "B",
+            "A dan B",
+            "C"
+          ],
+          "answer": "C",
+          "discussion": "C menunjukkan makan nasi sebelum berjalan; zat gizi nasi menyediakan energi kimia bagi tubuh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-09.svg",
+            "alt": "Tiga kegiatan: A memukul gendang, membran bergetar dan berbunyi; B menjemur pakaian dengan Matahari, pakaian menghangat dan mengering; C makan nasi sebelum berjalan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-069",
+          "type": "PG",
+          "text": "Lampu mana menggunakan listrik lebih sedikit dalam keadaan pada grafik?",
+          "options": [
+            "A",
+            "B",
+            "Keduanya pasti sama",
+            "Waktu tidak berpengaruh jika lampu identik"
+          ],
+          "answer": "A",
+          "discussion": "Lampu identik dengan daya sama menggunakan listrik lebih sedikit saat waktu menyalanya lebih singkat; A satu jam dan B tiga jam.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-10.svg",
+            "alt": "Dua lampu identik dengan daya tetap sama. A digunakan satu jam, B digunakan tiga jam. Grafik waktu dimulai dari nol; tidak ada informasi harga listrik."
+          }
+        },
+        {
+          "id": "K03-IPAS-B06-M01-070",
+          "type": "PG",
+          "text": "Informasi apa yang belum dapat ditentukan dari grafik saja?",
+          "options": [
+            "Lampu mana menyala lebih lama",
+            "Biaya listrik tepat dalam rupiah",
+            "Lama pemakaian A",
+            "Lama pemakaian B"
+          ],
+          "answer": "Biaya listrik tepat dalam rupiah",
+          "discussion": "Grafik berisi waktu dan kesamaan daya, tetapi tidak mencantumkan nilai daya serta tarif untuk menghitung biaya tepat.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b06-gambar-10.svg",
+            "alt": "Dua lampu identik dengan daya tetap sama. A digunakan satu jam, B digunakan tiga jam. Grafik waktu dimulai dari nol; tidak ada informasi harga listrik."
+          }
+        }
+      ]
+    }
+  ]
+}
