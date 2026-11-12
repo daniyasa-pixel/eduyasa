@@ -672,3 +672,7 @@ Konversi tambahan **90 soal (70 teks, 20 bergambar) dan 4 modul Seni Rupa** menj
 ## Checkpoint 2026-11-12 — Konversi PAI 10 bab selesai
 
 Sepuluh bank PAI (`kelas-3/pai/pai-b01.json` hingga `pai-b10.json`) dan sepuluh modul JSON (`pai-b01-materi.json` hingga `pai-b10-materi.json`) dibuat dari Markdown tanpa perubahan konten. **300 soal + 20 modul** berhasil dibandingkan per ID/urutan/opsi/kunci/pembahasan/konten modul terhadap sumber pada GitHub; **0 mismatch**. Manifest `kelas-3/pai/question-packs.json` telah dibuat dengan 10 bab. Laporan detail dan SHA per sumber ada di `kelas-3/LAPORAN-AUDIT-JSON.md`. **PAI belum ditambahkan ke grade-config.js** dan belum diuji pada aplikasi HP/WebView. Konversi berikutnya dapat dilakukan tanpa audit akademik sesuai handover terbaru.
+
+## Checkpoint 2026-11-12 — Konversi Bahasa Inggris Unit 1–10 selesai
+
+Sebanyak **500 soal (350 teks + 100 bergambar + 50 listening) dan 20 modul** telah dikonversi menjadi 40 JSON (empat berkas per unit); manifest `kelas-3/eng/question-packs.json` dibuat untuk Unit 1–10 dengan bank listening `eng-bNNl.json`. Pemeriksaan Markdown vs JSON per ID/urutan/opsi/kunci/pembahasan/media/TTS dan teks penuh modul yang dipetakan URL gambarnya: **0 mismatch**. Tidak ada audit ulang isi akademik. **Total dikonversi pada fase baru: 1.025 soal** (SBD 225 + PAI 300 + ENG 500); **sisa 920 soal: IPAS 560, PJOK 360**. Kelas 3 grade-config belum mengaktifkan ENG/PAI; uji browser/WebView dan kompatibilitas TTS masih diperlukan. Detail dan SHA sumber lihat `kelas-3/LAPORAN-AUDIT-JSON.md`.
