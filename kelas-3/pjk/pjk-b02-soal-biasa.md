@@ -1,6 +1,6 @@
 # Unit 2 — Aktivitas Pola Gerak Dasar Nonlokomotor
 
-35 soal teks, **DRAF**. Perlu audit variasi soal.
+35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
 
 ## Soal 1 — K03-PJK-B02-M01-001
 
@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-PJK-B02-M01-006
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk menjaga keseimbangan satu kaki?
+**Pertanyaan:** Saat berdiri di satu kaki, Rani merentangkan lengan untuk menjaga posisi. Apa tujuan penyesuaian itu?
 
 **Pilihan jawaban:**
 - mendorong teman
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-PJK-B02-M01-007
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk menoleh?
+**Pertanyaan:** Murid mendengar suara dari kanan lalu mengarahkan wajah ke kanan perlahan. Gerak yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - berlari
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-PJK-B02-M01-008
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk meliukkan badan?
+**Pertanyaan:** Saat musik berbunyi, Rina menggerakkan badan ke samping secara perlahan tanpa berpindah. Geraknya adalah ....
 
 **Pilihan jawaban:**
 - menggerakkan badan ke samping secara terkendali
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-PJK-B02-M01-009
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk gerak nonlokomotor?
+**Pertanyaan:** Dalam kegiatan ini lengan bergerak tetapi kaki tidak berpindah lokasi. Kegiatan tersebut termasuk ....
 
 **Pilihan jawaban:**
 - gerak yang selalu berpindah jauh
@@ -148,7 +148,7 @@
 
 ## Soal 10 — K03-PJK-B02-M01-010
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk latihan kelentukan?
+**Pertanyaan:** Guru tidak meminta siswa memaksakan tubuh ketika peregangan. Manakah prinsip yang digunakan?
 
 **Pilihan jawaban:**
 - dilakukan sambil saling menarik keras
@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-PJK-B02-M01-011
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar nonlokomotor, guru membahas "Membungkuk". Pernyataan manakah yang benar?
+**Pertanyaan:** Dalam permainan 'ambil benda imajiner', siswa mencondongkan badan ke depan tanpa maju. Teknik yang benar adalah ....
 
 **Pilihan jawaban:**
 - menendang bola
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-PJK-B02-M01-012
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar nonlokomotor, guru membahas "Memutar badan". Pernyataan manakah yang benar?
+**Pertanyaan:** Dalam senam di tempat, arah hadap siswa berubah dari depan ke samping. Bagaimana gerak dilakukan?
 
 **Pilihan jawaban:**
 - mengubah arah hadap tubuh tanpa berpindah tempat
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-PJK-B02-M01-013
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar nonlokomotor, guru membahas "Mengayun lengan". Pernyataan manakah yang benar?
+**Pertanyaan:** Saat gerak di tempat, lengan Dina bergerak bergantian ke depan dan belakang. Cara yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - menendang bola
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-PJK-B02-M01-014
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar nonlokomotor, guru membahas "Menekuk lutut". Pernyataan manakah yang benar?
+**Pertanyaan:** Ketika mendarat dari langkah kecil, siswa tidak mengunci lutut. Tindakan yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - melempar bola
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-PJK-B02-M01-015
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar nonlokomotor, guru membahas "Meregang ke samping". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru meminta regangan sisi kanan dan kiri secara bergantian. Teknik aman ialah ....
 
 **Pilihan jawaban:**
 - menendang tinggi
@@ -244,7 +244,7 @@
 
 ## Soal 16 — K03-PJK-B02-M01-016
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar nonlokomotor, guru membahas "Menjaga keseimbangan satu kaki". Pernyataan manakah yang benar?
+**Pertanyaan:** Siswa hampir kehilangan keseimbangan ketika satu kaki terangkat. Tindakan yang paling tepat ialah ....
 
 **Pilihan jawaban:**
 - mengatur posisi tubuh agar tidak jatuh
@@ -260,7 +260,7 @@
 
 ## Soal 17 — K03-PJK-B02-M01-017
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar nonlokomotor, guru membahas "Menoleh". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru mengajak siswa melihat ke sisi kiri tanpa menggerakkan seluruh badan. Cara yang benar ialah ....
 
 **Pilihan jawaban:**
 - melompat jauh
@@ -276,7 +276,7 @@
 
 ## Soal 18 — K03-PJK-B02-M01-018
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar nonlokomotor, guru membahas "Meliukkan badan". Pernyataan manakah yang benar?
+**Pertanyaan:** Siswa memiringkan badan dari pinggang ke kanan dan kiri secara terkendali. Manakah deskripsi yang cocok?
 
 **Pilihan jawaban:**
 - melompat melewati garis
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-PJK-B02-M01-019
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar nonlokomotor, guru membahas "Gerak nonlokomotor". Pernyataan manakah yang benar?
+**Pertanyaan:** Apakah mengayun lengan di tempat memerlukan perpindahan jauh? Pilih definisi yang sesuai.
 
 **Pilihan jawaban:**
 - hanya gerak di kolam
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-PJK-B02-M01-020
 
-**Pertanyaan:** Saat pelajaran aktivitas pola gerak dasar nonlokomotor, guru membahas "Latihan kelentukan". Pernyataan manakah yang benar?
+**Pertanyaan:** Dua siswa punya kelenturan berbeda. Bagaimana latihan yang benar dilakukan?
 
 **Pilihan jawaban:**
 - dilakukan perlahan sesuai kemampuan
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-PJK-B02-M01-021
 
-**Pertanyaan:** Rani ingin memahami membungkuk. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa gerak mencondongkan badan itu disebut nonlokomotor? Pilih uraian paling tepat.
 
 **Pilihan jawaban:**
 - berlari ke depan
@@ -340,7 +340,7 @@
 
 ## Soal 22 — K03-PJK-B02-M01-022
 
-**Pertanyaan:** Rani ingin memahami memutar badan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa yang membedakan perubahan arah hadap badan di tempat dari berjalan maju?
 
 **Pilihan jawaban:**
 - berlari cepat
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-PJK-B02-M01-023
 
-**Pertanyaan:** Rani ingin memahami mengayun lengan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Gerak lengan terkontrol dilakukan tanpa memindahkan posisi kaki. Pilih uraian yang tepat.
 
 **Pilihan jawaban:**
 - melompat tali
@@ -372,7 +372,7 @@
 
 ## Soal 24 — K03-PJK-B02-M01-024
 
-**Pertanyaan:** Rani ingin memahami menekuk lutut. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa tindakan aman untuk mengurangi kekakuan lutut ketika latihan di tempat?
 
 **Pilihan jawaban:**
 - membengkokkan sendi lutut secara wajar
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-PJK-B02-M01-025
 
-**Pertanyaan:** Rani ingin memahami meregang ke samping. Pilih penjelasan yang tepat.
+**Pertanyaan:** Jika terasa sakit saat meregang ke samping, manakah prinsip gerak yang tepat?
 
 **Pilihan jawaban:**
 - berlari sambil menabrak
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-PJK-B02-M01-026
 
-**Pertanyaan:** Rani ingin memahami menjaga keseimbangan satu kaki. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa kemampuan yang digunakan ketika seseorang mempertahankan posisi satu kaki?
 
 **Pilihan jawaban:**
 - mendorong teman
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-PJK-B02-M01-027
 
-**Pertanyaan:** Rani ingin memahami menoleh. Pilih penjelasan yang tepat.
+**Pertanyaan:** Dalam latihan gerak kepala, bagaimana siswa mengubah arah pandang dengan aman?
 
 **Pilihan jawaban:**
 - berlari
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-PJK-B02-M01-028
 
-**Pertanyaan:** Rani ingin memahami meliukkan badan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa cara aman menggerakkan badan ke sisi kiri dan kanan sambil tetap di tempat?
 
 **Pilihan jawaban:**
 - menggerakkan badan ke samping secara terkendali
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-PJK-B02-M01-029
 
-**Pertanyaan:** Rani ingin memahami gerak nonlokomotor. Pilih penjelasan yang tepat.
+**Pertanyaan:** Seorang anak membungkuk dan kembali berdiri pada titik yang sama. Jenis geraknya adalah ....
 
 **Pilihan jawaban:**
 - gerak yang selalu berpindah jauh
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-PJK-B02-M01-030
 
-**Pertanyaan:** Rani ingin memahami latihan kelentukan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Jika seorang siswa belum dapat meregang jauh, pilihan tindakan tepat adalah ....
 
 **Pilihan jawaban:**
 - dilakukan sambil saling menarik keras
@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B02-M01-031
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Membungkuk". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Sinta mencondongkan badan ke depan tetapi kakinya tetap di tempat. Manakah penjelasan gerak yang sesuai?
 
 **Pilihan jawaban:**
 - menendang bola
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B02-M01-032
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Memutar badan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Seorang siswa berbalik menghadap papan tulis tanpa berjalan ke tempat lain. Gerak apakah yang digambarkan?
 
 **Pilihan jawaban:**
 - mengubah arah hadap tubuh tanpa berpindah tempat
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B02-M01-033
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Mengayun lengan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Guru meminta siswa menggerakkan dua lengan maju-mundur mengikuti aba-aba. Manakah penjelasan geraknya?
 
 **Pilihan jawaban:**
 - menendang bola
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B02-M01-034
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Menekuk lutut". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Dika membuat posisi lututnya sedikit bengkok saat berdiri. Manakah cara yang tepat?
 
 **Pilihan jawaban:**
 - melempar bola
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B02-M01-035
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Meregang ke samping". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Siswa mencoba memanjangkan sisi tubuh ke kiri, tanpa gerakan tiba-tiba. Cara yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - menendang tinggi
