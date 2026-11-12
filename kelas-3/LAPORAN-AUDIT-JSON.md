@@ -30,3 +30,25 @@ Catatan: SHA di atas adalah SHA blob isi file GitHub yang dikonversi. Jika Markd
 - Pengujian render gambar di HP/WebView, urutan soal ketika runtime berjalan, dan akses URL GitHub raw dalam WebView **belum dilakukan**. Verifikasi 30 aset berupa keberadaan file pada repo; bukan pengujian browser.
 - Audit JSON ini tidak mencakup kualitas akademik, cocoknya ilustrasi dengan jawaban secara pedagogis, ataupun kecocokan bab buku pemerintah, sesuai arahan pengguna.
 - Standar umum dan pekerjaan berikutnya lihat `HANDOVER-KONVERSI-JSON.md`.
+
+## Konversi batch 2 — SBD Bab 4–5 (12 November 2026)
+
+Konversi langsung dari Markdown sumber pada branch `main`, tanpa audit ulang isi soal. Telah dibuat **6 file JSON** baru:
+
+| Bab | Bank teks | Bank gambar | Modul | Soal | Hasil audit konversi |
+|---|---|---|---|---:|---|
+| Bab 4 | `sbd/sbd-b04.json` (35) | `sbd/sbd-b04a.json` (10) | `sbd/sbd-b04-materi.json` (MOD-01, MOD-02) | 45 | PASS |
+| Bab 5 | `sbd/sbd-b05.json` (35) | `sbd/sbd-b05a.json` (10) | `sbd/sbd-b05-materi.json` (MOD-01, MOD-02) | 45 | PASS |
+
+**Audit hasil JSON terhadap Markdown:** 90 soal terkonversi, 90 ID unik, semua nomor/urutan identik dengan sumber, pilihan jawaban (termasuk urutan), kunci teks, pembahasan, `image.src`/`image.alt`, dan isi lengkap 4 modul cocok **tanpa mismatch (0)**. Semua 20 referensi SVG tersedia di GitHub. Enam file JSON berhasil di-parse dan diverifikasi ulang setelah ditulis. Ini audit kesetiaan konversi, **bukan audit isi akademik**.
+
+**SHA Markdown acuan:**
+
+| Bab | Teks | Bergambar | Materi |
+|---|---|---|---|
+| B04 | `808324bdeccbbb5c905dc5ae6e453418d89664e7` | `b0d606cb9b48a312b8a96df54845efab21ba14e9` | `88c65393f0d0367cc89b110aa4f677c1ccb5b8a7` |
+| B05 | `cb0c3ba843049650a59806b8ccae7073e5612fd3` | `35a203c4e1d2e4b56a99d0b7361f03e93e86b818` | `7aae37f249eeec5764d67d07002a2b91393eb12d` |
+
+Manifest `sbd/question-packs.json` telah diperluas hingga **B01–B05** dalam commit `6b63761833a2420e251d6863a2a5e57070ae2558`.
+
+**Status kumulatif Seni Rupa:** Bab 1–5 telah dikonversi: **225 soal** (175 teks + 50 bergambar), **10 modul**, **15 file JSON** plus satu manifest. Belum berarti aktif di menu aplikasi: `HTML/grade-config.js` belum diubah dan pemuatan dalam browser/WebView belum diuji. Integrasi frontend dapat dilakukan setelah uji kompatibilitas data dan manifest. **PJOK, IPAS, PAI, ENG** tidak dihitung selesai konversi hanya karena sumber Markdown-nya tersedia.
