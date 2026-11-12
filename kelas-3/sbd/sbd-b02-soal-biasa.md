@@ -68,7 +68,7 @@
 
 ## Soal 5 — K03-SBD-B02-M01-005
 
-**Pertanyaan:** Panitia kelas membuat media berisi pesan hemat air disertai gambar keran. Bentuk penyampaian pesan tersebut adalah ....
+**Pertanyaan:** Sebuah poster hemat air memuat ilustrasi keran dan kalimat ajakan. Unsur apa yang biasanya dipadukan dalam poster itu?
 
 **Pilihan jawaban:**
 - bunyi alat musik
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-SBD-B02-M01-020
 
-**Pertanyaan:** Untuk mengingatkan warga membuang sampah pada tempatnya, kelas membuat lembar berisi ilustrasi dan pesan singkat. Lembar itu memadukan ....
+**Pertanyaan:** Untuk mengingatkan warga membuang sampah pada tempatnya, kelas membuat poster. Unsur apa yang dipadukan untuk menyampaikan pesan?
 
 **Pilihan jawaban:**
 - gerakan tari
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-SBD-B02-M01-035
 
-**Pertanyaan:** Siswa hendak mengumumkan pesan 'Jaga Kebersihan' melalui poster. Isi yang tepat menggabungkan ....
+**Pertanyaan:** Siswa hendak mengumumkan pesan 'Jaga Kebersihan' melalui poster. Unsur apa yang sebaiknya digabungkan?
 
 **Pilihan jawaban:**
 - aroma makanan
