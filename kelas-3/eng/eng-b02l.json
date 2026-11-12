@@ -1,0 +1,109 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B02",
+      "chapter_title": "I Don't Like Rice",
+      "questions": [
+        {
+          "id": "K03-ENG-B02-M01-046",
+          "type": "PG",
+          "text": "Listen. Which food does Niko not like?",
+          "options": [
+            "pizza",
+            "spaghetti",
+            "bread",
+            "rice"
+          ],
+          "answer": "rice",
+          "discussion": "Doesn’t like diikuti rice. Pizza dan spaghetti muncul pada pernyataan positif.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Niko likes pizza and spaghetti. He doesn't like rice.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-047",
+          "type": "PG",
+          "text": "Listen. Who likes coffee?",
+          "options": [
+            "Lina",
+            "Maya",
+            "Both Maya and Lina",
+            "Neither Maya nor Lina"
+          ],
+          "answer": "Maya",
+          "discussion": "Maya disebut dengan likes, sedangkan Lina disebut dengan doesn’t like.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Maya likes coffee. Lina doesn't like coffee.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-048",
+          "type": "PG",
+          "text": "Listen. Which marks match Doni’s answer?",
+          "options": [
+            "Milk: No. Tea: Yes.",
+            "Milk: Yes. Tea: No.",
+            "Milk: Yes. Tea: Yes.",
+            "Milk: No. Tea: No."
+          ],
+          "answer": "Milk: No. Tea: Yes.",
+          "discussion": "Doni memakai don’t like untuk susu dan like untuk teh.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "I'm Doni. I don't like milk. I like tea.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-049",
+          "type": "PG",
+          "text": "Listen. What do the two children agree on?",
+          "options": [
+            "They both dislike bread.",
+            "They both like ice cream.",
+            "They both dislike rice.",
+            "They both like bread."
+          ],
+          "answer": "They both like bread.",
+          "discussion": "Kedua nama dihubungkan dengan and dan diikuti like bread. Kesukaan tentang makanan lain tidak disebut.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Rani and Rudi like bread. Rani doesn't like ice cream.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B02-M01-050",
+          "type": "PG",
+          "text": "Listen to the question and answer. What can you tell a friend about Rina?",
+          "options": [
+            "Rina likes orange juice.",
+            "Rina doesn’t like tea.",
+            "Rina doesn’t like orange juice.",
+            "Rina likes milk."
+          ],
+          "answer": "Rina doesn’t like orange juice.",
+          "discussion": "Pertanyaan menyebut orange juice dan Rina menjawab No. Saat melaporkan jawabannya, gunakan Rina doesn’t like.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Dina asks, do you like orange juice? Rina answers, no, I don't.",
+            "rate": 0.85
+          }
+        }
+      ]
+    }
+  ]
+}
