@@ -1,0 +1,184 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PJK-B07",
+      "chapter_title": "Aktivitas Kebugaran untuk Kesehatan",
+      "questions": [
+        {
+          "id": "K03-PJK-B07-M01-036",
+          "type": "PG",
+          "text": "Setelah bermain, anak beristirahat. Apa manfaat jeda aktivitas tersebut?",
+          "options": [
+            "berarti tidak boleh minum",
+            "berarti harus terus berlari",
+            "tidak diperlukan",
+            "membantu pemulihan tubuh"
+          ],
+          "answer": "membantu pemulihan tubuh",
+          "discussion": "Istirahat setelah olahraga: membantu pemulihan tubuh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-01.svg",
+            "alt": "Ilustrasi Istirahat setelah olahraga"
+          }
+        },
+        {
+          "id": "K03-PJK-B07-M01-037",
+          "type": "PG",
+          "text": "Gambar menunjukkan botol air di dekat area latihan. Untuk apa air minum diperlukan?",
+          "options": [
+            "tidak diperlukan saat panas",
+            "harus dihindari",
+            "membantu memenuhi kebutuhan cairan tubuh",
+            "dapat diganti minuman sembarang"
+          ],
+          "answer": "membantu memenuhi kebutuhan cairan tubuh",
+          "discussion": "Air minum: membantu memenuhi kebutuhan cairan tubuh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-02.svg",
+            "alt": "Ilustrasi Air minum"
+          }
+        },
+        {
+          "id": "K03-PJK-B07-M01-038",
+          "type": "PG",
+          "text": "Jadwal latihan memiliki waktu teratur dan jeda. Pola yang baik ialah ....",
+          "options": [
+            "tidak perlu aman",
+            "lebih baik dilakukan teratur sesuai kemampuan",
+            "harus selalu berlebihan",
+            "harus dilakukan saat sakit berat"
+          ],
+          "answer": "lebih baik dilakukan teratur sesuai kemampuan",
+          "discussion": "Latihan rutin: lebih baik dilakukan teratur sesuai kemampuan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-03.svg",
+            "alt": "Ilustrasi Latihan rutin"
+          }
+        },
+        {
+          "id": "K03-PJK-B07-M01-039",
+          "type": "PG",
+          "text": "Anak tampak pusing saat latihan. Gejala apa yang menandakan perlunya berhenti?",
+          "options": [
+            "nyeri hebat, pusing, atau sesak yang tidak wajar",
+            "rasa senang",
+            "napas sedikit lebih cepat yang wajar",
+            "keringat ringan"
+          ],
+          "answer": "nyeri hebat, pusing, atau sesak yang tidak wajar",
+          "discussion": "Tanda perlu berhenti latihan: nyeri hebat, pusing, atau sesak yang tidak wajar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-04.svg",
+            "alt": "Ilustrasi Tanda perlu berhenti latihan"
+          }
+        },
+        {
+          "id": "K03-PJK-B07-M01-040",
+          "type": "PG",
+          "text": "Anak-anak dengan kemampuan berbeda berlatih bersama. Sikap yang tepat adalah ....",
+          "options": [
+            "dilakukan sambil mengejek",
+            "dilakukan tanpa pemanasan",
+            "dilakukan di jalan ramai",
+            "dilakukan dengan aturan dan saling mendukung"
+          ],
+          "answer": "dilakukan dengan aturan dan saling mendukung",
+          "discussion": "Aktivitas kebugaran bersama: dilakukan dengan aturan dan saling mendukung.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-05.svg",
+            "alt": "Ilustrasi Aktivitas kebugaran bersama"
+          }
+        },
+        {
+          "id": "K03-PJK-B07-M01-041",
+          "type": "PG",
+          "text": "Siswa menjalani kegiatan fisik tanpa kelelahan berlebihan. Kemampuan apa yang ditunjukkan?",
+          "options": [
+            "kemampuan makan paling banyak",
+            "kemampuan menghindari gerak",
+            "kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan",
+            "kemampuan tidur sepanjang hari"
+          ],
+          "answer": "kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan",
+          "discussion": "Kebugaran jasmani: kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-06.svg",
+            "alt": "Ilustrasi Kebugaran jasmani"
+          }
+        },
+        {
+          "id": "K03-PJK-B07-M01-042",
+          "type": "PG",
+          "text": "Seorang siswa memilih latihan tubuh yang sesuai usianya. Prinsipnya adalah ....",
+          "options": [
+            "dilakukan tanpa pengawasan",
+            "dilakukan sesuai usia dan kemampuan",
+            "mengangkat beban berbahaya",
+            "dipaksakan sampai sakit"
+          ],
+          "answer": "dilakukan sesuai usia dan kemampuan",
+          "discussion": "Latihan kekuatan sederhana: dilakukan sesuai usia dan kemampuan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-07.svg",
+            "alt": "Ilustrasi Latihan kekuatan sederhana"
+          }
+        },
+        {
+          "id": "K03-PJK-B07-M01-043",
+          "type": "PG",
+          "text": "Gambar memperlihatkan jalan cepat dan gerak ringan. Latihan tersebut melatih apa?",
+          "options": [
+            "dapat berupa jalan cepat atau lari ringan sesuai kemampuan",
+            "hanya duduk diam",
+            "selalu mengangkat beban berat",
+            "tidak perlu istirahat"
+          ],
+          "answer": "dapat berupa jalan cepat atau lari ringan sesuai kemampuan",
+          "discussion": "Latihan daya tahan: dapat berupa jalan cepat atau lari ringan sesuai kemampuan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-08.svg",
+            "alt": "Ilustrasi Latihan daya tahan"
+          }
+        },
+        {
+          "id": "K03-PJK-B07-M01-044",
+          "type": "PG",
+          "text": "Anak meregangkan sendi dalam rentang yang nyaman. Kemampuan itu adalah ....",
+          "options": [
+            "kemampuan melempar jauh saja",
+            "kemampuan tidur",
+            "kemampuan makan",
+            "kemampuan sendi bergerak dalam rentang yang wajar"
+          ],
+          "answer": "kemampuan sendi bergerak dalam rentang yang wajar",
+          "discussion": "Kelentukan: kemampuan sendi bergerak dalam rentang yang wajar.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-09.svg",
+            "alt": "Ilustrasi Kelentukan"
+          }
+        },
+        {
+          "id": "K03-PJK-B07-M01-045",
+          "type": "PG",
+          "text": "Anak berdiri di atas satu kaki sambil menjaga tubuh. Kemampuan apa yang digunakan?",
+          "options": [
+            "kemampuan berlari tanpa arah",
+            "kemampuan makan cepat",
+            "kemampuan menjaga posisi tubuh agar stabil",
+            "kemampuan berteriak"
+          ],
+          "answer": "kemampuan menjaga posisi tubuh agar stabil",
+          "discussion": "Keseimbangan: kemampuan menjaga posisi tubuh agar stabil.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-10.svg",
+            "alt": "Ilustrasi Keseimbangan"
+          }
+        }
+      ]
+    }
+  ]
+}
