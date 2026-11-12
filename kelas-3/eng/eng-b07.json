@@ -1,0 +1,469 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B07",
+      "chapter_title": "My Class Is Behind the Office",
+      "questions": [
+        {
+          "id": "K03-ENG-B07-M01-001",
+          "type": "PG",
+          "text": "The classroom is behind the office. Where is the classroom?",
+          "options": [
+            "behind the office",
+            "beside the office",
+            "in front of the office",
+            "between two offices"
+          ],
+          "answer": "behind the office",
+          "discussion": "Kalimat menyatakan bahwa ruang kelas berada **behind the office** atau di belakang kantor."
+        },
+        {
+          "id": "K03-ENG-B07-M01-002",
+          "type": "PG",
+          "text": "The gate is in front of the school. Where is the gate?",
+          "options": [
+            "under the school",
+            "behind the school",
+            "in front of the school",
+            "between the classrooms"
+          ],
+          "answer": "in front of the school",
+          "discussion": "**In front of** berarti di depan."
+        },
+        {
+          "id": "K03-ENG-B07-M01-003",
+          "type": "PG",
+          "text": "The library is beside the office. What is beside the office?",
+          "options": [
+            "the library",
+            "the canteen",
+            "the mosque",
+            "the restroom"
+          ],
+          "answer": "the library",
+          "discussion": "Yang disebut berada di sebelah kantor adalah **the library**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-004",
+          "type": "PG",
+          "text": "The canteen is between the library and the office. Where is the canteen?",
+          "options": [
+            "behind the library",
+            "in front of the office",
+            "between the library and the office",
+            "under the library"
+          ],
+          "answer": "between the library and the office",
+          "discussion": "**Between** menunjukkan posisi di tengah dua tempat."
+        },
+        {
+          "id": "K03-ENG-B07-M01-005",
+          "type": "PG",
+          "text": "The pencil is in the pencil case. Where is the pencil?",
+          "options": [
+            "in the pencil case",
+            "on the pencil case",
+            "under the pencil case",
+            "behind the pencil case"
+          ],
+          "answer": "in the pencil case",
+          "discussion": "**In** berarti di dalam suatu tempat atau wadah."
+        },
+        {
+          "id": "K03-ENG-B07-M01-006",
+          "type": "PG",
+          "text": "The book is on the desk. Where is the book?",
+          "options": [
+            "behind the desk",
+            "on the desk",
+            "under the desk",
+            "between two desks"
+          ],
+          "answer": "on the desk",
+          "discussion": "**On the desk** berarti berada di atas permukaan meja."
+        },
+        {
+          "id": "K03-ENG-B07-M01-007",
+          "type": "PG",
+          "text": "The bag is under the chair. Which word tells its position?",
+          "options": [
+            "beside",
+            "behind",
+            "under",
+            "on"
+          ],
+          "answer": "under",
+          "discussion": "**Under** berarti di bawah."
+        },
+        {
+          "id": "K03-ENG-B07-M01-008",
+          "type": "PG",
+          "text": "A: Where is the laboratory? B: It is beside the parking area. Which place is beside the parking area?",
+          "options": [
+            "the office",
+            "the laboratory",
+            "the canteen",
+            "the restroom"
+          ],
+          "answer": "the laboratory",
+          "discussion": "Jawaban B menyebutkan bahwa laboratorium berada di sebelah area parkir."
+        },
+        {
+          "id": "K03-ENG-B07-M01-009",
+          "type": "PG",
+          "text": "Which question asks about the location of the office?",
+          "options": [
+            "What is the office?",
+            "Who is in the office?",
+            "Where is the office?",
+            "Is it an office?"
+          ],
+          "answer": "Where is the office?",
+          "discussion": "Kata tanya **where** digunakan untuk menanyakan letak."
+        },
+        {
+          "id": "K03-ENG-B07-M01-010",
+          "type": "PG",
+          "text": "Complete the dialogue. A: Where is the library? B: ___ behind the canteen.",
+          "options": [
+            "It is",
+            "They are",
+            "Where is",
+            "This are"
+          ],
+          "answer": "It is",
+          "discussion": "Untuk menjawab letak satu tempat, pola yang tepat adalah **It is ...**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-011",
+          "type": "PG",
+          "text": "The office is in front of the classroom. Complete the sentence: The classroom is ___ the office.",
+          "options": [
+            "on",
+            "behind",
+            "beside",
+            "between"
+          ],
+          "answer": "behind",
+          "discussion": "Jika kantor berada di depan kelas, kelas berada **behind** atau di belakang kantor."
+        },
+        {
+          "id": "K03-ENG-B07-M01-012",
+          "type": "PG",
+          "text": "The mosque is between the canteen and the restroom. Which places are on the two sides of the mosque?",
+          "options": [
+            "the office and the gate",
+            "the canteen and the restroom",
+            "the library and the laboratory",
+            "the classroom and the parking area"
+          ],
+          "answer": "the canteen and the restroom",
+          "discussion": "Dua tempat yang menjadi acuan kata **between** adalah kantin dan toilet."
+        },
+        {
+          "id": "K03-ENG-B07-M01-013",
+          "type": "PG",
+          "text": "Which sentence uses **between** correctly?",
+          "options": [
+            "The gate is between the office and the library.",
+            "The gate is between the office.",
+            "The gate between is library.",
+            "Between the gate the office."
+          ],
+          "answer": "The gate is between the office and the library.",
+          "discussion": "**Between** memerlukan dua acuan yang dihubungkan dengan **and**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-014",
+          "type": "PG",
+          "text": "Which sentence tells that the ball is below the table?",
+          "options": [
+            "The ball is on the table.",
+            "The ball is in the table.",
+            "The ball is under the table.",
+            "The ball is beside the table."
+          ],
+          "answer": "The ball is under the table.",
+          "discussion": "Posisi di bawah dinyatakan dengan **under**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-015",
+          "type": "PG",
+          "text": "Which sentence tells that the eraser touches the top of the book?",
+          "options": [
+            "The eraser is behind the book.",
+            "The eraser is on the book.",
+            "The eraser is under the book.",
+            "The eraser is between two books."
+          ],
+          "answer": "The eraser is on the book.",
+          "discussion": "**On** menunjukkan benda berada di atas dan menyentuh permukaan."
+        },
+        {
+          "id": "K03-ENG-B07-M01-016",
+          "type": "PG",
+          "text": "A: Where is the teacher room? B: It is ___ the office. They are side by side.",
+          "options": [
+            "beside",
+            "behind",
+            "under",
+            "in"
+          ],
+          "answer": "beside",
+          "discussion": "Dua tempat yang berdampingan dinyatakan dengan **beside**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-017",
+          "type": "PG",
+          "text": "The flagpole is in front of the library. What is behind the flagpole?",
+          "options": [
+            "the library",
+            "the canteen",
+            "the office",
+            "the laboratory"
+          ],
+          "answer": "the library",
+          "discussion": "Jika tiang bendera di depan perpustakaan, perpustakaan berada di belakang tiang bendera."
+        },
+        {
+          "id": "K03-ENG-B07-M01-018",
+          "type": "PG",
+          "text": "Choose the correct order to make a sentence: **is – The cat – the chair – under**.",
+          "options": [
+            "The cat under is the chair.",
+            "Is the cat the chair under.",
+            "The cat is under the chair.",
+            "Under the cat is chair the."
+          ],
+          "answer": "The cat is under the chair.",
+          "discussion": "Urutan kalimat yang tepat adalah subjek + **is** + kata posisi + tempat."
+        },
+        {
+          "id": "K03-ENG-B07-M01-019",
+          "type": "PG",
+          "text": "The ruler is between the book and the pencil case. Which object is in the middle?",
+          "options": [
+            "the book",
+            "the ruler",
+            "the pencil case",
+            "the desk"
+          ],
+          "answer": "the ruler",
+          "discussion": "Benda yang disebut sebelum **between** adalah benda yang berada di tengah."
+        },
+        {
+          "id": "K03-ENG-B07-M01-020",
+          "type": "PG",
+          "text": "Which answer matches the question, “Where is the canteen?”",
+          "options": [
+            "It is beside the parking area.",
+            "It is a school canteen.",
+            "I eat rice in the canteen.",
+            "The canteen is clean."
+          ],
+          "answer": "It is beside the parking area.",
+          "discussion": "Pertanyaan **where** dijawab dengan keterangan letak."
+        },
+        {
+          "id": "K03-ENG-B07-M01-021",
+          "type": "PG",
+          "text": "Complete the question: “___ is the restroom?”",
+          "options": [
+            "What",
+            "Where",
+            "Who",
+            "How many"
+          ],
+          "answer": "Where",
+          "discussion": "**Where is the restroom?** berarti “Di mana toilet?”"
+        },
+        {
+          "id": "K03-ENG-B07-M01-022",
+          "type": "PG",
+          "text": "The cat is behind the chair. Which sentence has the opposite position?",
+          "options": [
+            "The cat is in front of the chair.",
+            "The cat is under the chair.",
+            "The cat is on the chair.",
+            "The cat is between two chairs."
+          ],
+          "answer": "The cat is in front of the chair.",
+          "discussion": "Lawan posisi **behind** adalah **in front of**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-023",
+          "type": "PG",
+          "text": "The office is beside the laboratory. Which sentence has the same meaning?",
+          "options": [
+            "The office is under the laboratory.",
+            "The office is next to the laboratory.",
+            "The office is behind the laboratory.",
+            "The office is in the laboratory."
+          ],
+          "answer": "The office is next to the laboratory.",
+          "discussion": "**Beside** dan **next to** sama-sama berarti di sebelah. Kata target buku adalah **beside**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-024",
+          "type": "PG",
+          "text": "The ball is in the box. Which sentence is NOT correct?",
+          "options": [
+            "The ball is inside the box.",
+            "The ball is in the box.",
+            "The box contains the ball.",
+            "The ball is under the box."
+          ],
+          "answer": "The ball is under the box.",
+          "discussion": "**In the box** tidak sama dengan berada di bawah kotak."
+        },
+        {
+          "id": "K03-ENG-B07-M01-025",
+          "type": "PG",
+          "text": "The grade 5 classroom is between the grade 4 and grade 6 classrooms. Which classroom is in the middle?",
+          "options": [
+            "grade 3",
+            "grade 4",
+            "grade 5",
+            "grade 6"
+          ],
+          "answer": "grade 5",
+          "discussion": "Kalimat menempatkan kelas 5 di antara kelas 4 dan kelas 6."
+        },
+        {
+          "id": "K03-ENG-B07-M01-026",
+          "type": "PG",
+          "text": "Choose the correct sentence.",
+          "options": [
+            "The book are on the desk.",
+            "The book is on the desk.",
+            "The book on is the desk.",
+            "On the book the desk is."
+          ],
+          "answer": "The book is on the desk.",
+          "discussion": "Subjek tunggal **the book** memakai **is**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-027",
+          "type": "PG",
+          "text": "The parking area is behind the laboratory. Where is the laboratory compared with the parking area?",
+          "options": [
+            "in front of the parking area",
+            "under the parking area",
+            "between two parking areas",
+            "in the parking area"
+          ],
+          "answer": "in front of the parking area",
+          "discussion": "Posisi kebalikan dari **behind** adalah **in front of**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-028",
+          "type": "PG",
+          "text": "Which word completes the sentence? “The shoes are ___ the table, not on it.”",
+          "options": [
+            "between",
+            "behind",
+            "under",
+            "in front of"
+          ],
+          "answer": "under",
+          "discussion": "Petunjuk “not on it” dan letak di bawah meja sesuai dengan **under**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-029",
+          "type": "PG",
+          "text": "Read the two facts: The library is beside the office. The canteen is behind the office. Where is the canteen?",
+          "options": [
+            "beside the library",
+            "behind the office",
+            "in front of the office",
+            "between two offices"
+          ],
+          "answer": "behind the office",
+          "discussion": "Informasi kedua langsung menyebutkan letak kantin."
+        },
+        {
+          "id": "K03-ENG-B07-M01-030",
+          "type": "PG",
+          "text": "A teacher puts a marker on the table. Which instruction matches the action?",
+          "options": [
+            "Put the marker under the table.",
+            "Put the marker behind the table.",
+            "Put the marker on the table.",
+            "Put the marker between two tables."
+          ],
+          "answer": "Put the marker on the table.",
+          "discussion": "Meletakkan spidol di atas permukaan meja dinyatakan dengan **on the table**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-031",
+          "type": "PG",
+          "text": "Which sentence describes a room located at the back of the office?",
+          "options": [
+            "The room is behind the office.",
+            "The room is in front of the office.",
+            "The room is on the office.",
+            "The room is under the office."
+          ],
+          "answer": "The room is behind the office.",
+          "discussion": "**At the back of** berarti **behind**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-032",
+          "type": "PG",
+          "text": "The teacher room and the office are side by side. Which sentence is correct?",
+          "options": [
+            "The teacher room is behind the office.",
+            "The teacher room is beside the office.",
+            "The teacher room is under the office.",
+            "The teacher room is in the office."
+          ],
+          "answer": "The teacher room is beside the office.",
+          "discussion": "**Side by side** berarti berdampingan atau **beside**."
+        },
+        {
+          "id": "K03-ENG-B07-M01-033",
+          "type": "PG",
+          "text": "A: Where is the ball? B: It is between the chair and the table. How many reference objects are mentioned?",
+          "options": [
+            "one",
+            "two",
+            "three",
+            "four"
+          ],
+          "answer": "two",
+          "discussion": "Dua benda acuan disebutkan, yaitu kursi dan meja."
+        },
+        {
+          "id": "K03-ENG-B07-M01-034",
+          "type": "PG",
+          "text": "Choose the best Indonesian meaning of “The bag is beside the chair.”",
+          "options": [
+            "Tas berada di bawah kursi.",
+            "Tas berada di atas kursi.",
+            "Tas berada di sebelah kursi.",
+            "Tas berada di belakang kursi."
+          ],
+          "answer": "Tas berada di sebelah kursi.",
+          "discussion": "**Beside** berarti di sebelah."
+        },
+        {
+          "id": "K03-ENG-B07-M01-035",
+          "type": "PG",
+          "text": "A: Where is your classroom? B: It is behind the office. What information does B give?",
+          "options": [
+            "the classroom's color",
+            "the classroom's location",
+            "the classroom's size",
+            "the classroom's number of doors"
+          ],
+          "answer": "the classroom's location",
+          "discussion": "Jawaban B memberikan informasi tentang letak ruang kelas."
+        }
+      ]
+    }
+  ]
+}
