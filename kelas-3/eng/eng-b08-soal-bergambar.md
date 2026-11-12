@@ -4,7 +4,7 @@
 
 ![Picture](assets/eng-b08-gambar-01.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which drink is shown?
 
 **Pilihan jawaban:**
 - orange juice
@@ -22,7 +22,7 @@
 
 ![Picture](assets/eng-b08-gambar-02.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** What liquid is pictured?
 
 **Pilihan jawaban:**
 - orange juice
@@ -40,7 +40,7 @@
 
 ![Picture](assets/eng-b08-gambar-03.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which drink appears in the picture?
 
 **Pilihan jawaban:**
 - canteen
@@ -58,7 +58,7 @@
 
 ![Picture](assets/eng-b08-gambar-04.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which word names the pictured beverage?
 
 **Pilihan jawaban:**
 - rice
@@ -76,7 +76,7 @@
 
 ![Picture](assets/eng-b08-gambar-05.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which school place is pictured?
 
 **Pilihan jawaban:**
 - canteen
@@ -94,7 +94,7 @@
 
 ![Picture](assets/eng-b08-gambar-06.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Where do students study in the picture?
 
 **Pilihan jawaban:**
 - canteen
@@ -112,7 +112,7 @@
 
 ![Picture](assets/eng-b08-gambar-07.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which place is used to read books?
 
 **Pilihan jawaban:**
 - rice
@@ -130,7 +130,7 @@
 
 ![Picture](assets/eng-b08-gambar-08.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which food is pictured?
 
 **Pilihan jawaban:**
 - milk
@@ -148,7 +148,7 @@
 
 ![Picture](assets/eng-b08-gambar-09.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** What food appears in the image?
 
 **Pilihan jawaban:**
 - rice
@@ -166,7 +166,7 @@
 
 ![Picture](assets/eng-b08-gambar-10.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which food is shown here?
 
 **Pilihan jawaban:**
 - rice
