@@ -16,3 +16,7 @@ Sumber bab: Moh. Ghozali dan Erwin Wasti, *Pendidikan Agama Islam dan Budi Peker
 **Produksi:** 10 bab × 2 modul Markdown = 20 modul; 10 bab × 30 soal = 300 soal.
 
 **Status: DRAF AWAL, BUKAN FINAL.** Pertanyaan mode kedua dan ketiga masih mengulang fakta yang sama. Harus dilakukan penulisan ulang untuk variasi pemahaman, penerapan, dan analisis sederhana; audit ayat/hadis/istilah; serta pemeriksaan pedagogis sebelum rilis. Belum ada ilustrasi. Konversi JSON dikerjakan Codex sesuai arahan pemilik proyek.
+
+## Checkpoint konversi — 12 November 2026
+
+**JSON Bab 1–10 sekarang tersedia:** 10 bank soal (`pai-bNN.json`), 10 file materi dua versi (`pai-bNN-materi.json`), total **300 soal dan 20 modul**. Manifest pemuatan `question-packs.json` tersedia. Pemeriksaan JSON dibanding Markdown sumber meliputi urutan/ID/opsi/kunci/pembahasan/konten modul, **0 mismatch**. Instruksi lama pada paragraf `DRAF AWAL` di atas adalah catatan historis produksi, bukan kewajiban Codex untuk audit isi lagi. Pemilik proyek telah memutuskan fase ini fokus pada **integritas JSON setelah konversi**. Belum diaktifkan pada `HTML/grade-config.js` dan belum melalui tes browser HP/WebView.
