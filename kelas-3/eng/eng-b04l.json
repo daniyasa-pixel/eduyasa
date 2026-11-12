@@ -1,0 +1,109 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B04",
+      "chapter_title": "Do You Like Swimming?",
+      "questions": [
+        {
+          "id": "K03-ENG-B04-M01-046",
+          "type": "PG",
+          "text": "What hobby does the speaker say Yes to?",
+          "options": [
+            "reading",
+            "swimming",
+            "singing",
+            "cycling"
+          ],
+          "answer": "swimming",
+          "discussion": "The question asks about swimming and the reply is Yes.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Do you like swimming? Yes, I do.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-047",
+          "type": "PG",
+          "text": "What hobby does Sinta like?",
+          "options": [
+            "singing",
+            "swimming",
+            "drawing",
+            "dancing"
+          ],
+          "answer": "drawing",
+          "discussion": "The speaker says No to singing and then names drawing.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Does Sinta like singing? No, she doesn’t. She likes drawing.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-048",
+          "type": "PG",
+          "text": "Which activity does Riko not like?",
+          "options": [
+            "riding a bike",
+            "playing football",
+            "reading",
+            "swimming"
+          ],
+          "answer": "riding a bike",
+          "discussion": "The second clause says he doesn’t like riding a bike.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Riko likes playing football, but he doesn’t like riding a bike.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-049",
+          "type": "PG",
+          "text": "Which two children give a Yes answer for reading?",
+          "options": [
+            "only Maya",
+            "Maya and Lani",
+            "only Lani",
+            "neither child"
+          ],
+          "answer": "Maya and Lani",
+          "discussion": "They refers to Maya and Lani, and the response is Yes.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Do Maya and Lani like reading? Yes, they do.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B04-M01-050",
+          "type": "PG",
+          "text": "Which hobby belongs to the speaker’s brother?",
+          "options": [
+            "swimming",
+            "reading",
+            "flying a kite",
+            "swimming and reading"
+          ],
+          "answer": "flying a kite",
+          "discussion": "The last sentence assigns flying a kite to the brother.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "I like swimming and reading. My brother likes flying a kite.",
+            "rate": 0.85
+          }
+        }
+      ]
+    }
+  ]
+}
