@@ -1,12 +1,12 @@
 # Unit 3 — Aktivitas Pola Gerak Dasar Manipulatif
 
-10 soal bergambar, **DRAF**. Ilustrasi SVG bersifat simbolik, belum ilustrasi gerak yang spesifik.
+10 soal bergambar telah direvisi dengan konteks; diagram SVG diproses terpisah dan pemeriksaan visual akhir masih diperlukan.
 
 ## Soal 36 — K03-PJK-B03-M01-036
 
 ![Ilustrasi Mengoper bola](assets/pjk-b03-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Mengoper bola". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Dua anak saling memberi bola. Tindakan kerja sama apa yang sesuai?
 
 **Pilihan jawaban:**
 - menyembunyikan bola
@@ -24,7 +24,7 @@
 
 ![Ilustrasi Arah lemparan](assets/pjk-b03-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Arah lemparan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Panah menunjukkan bola bergerak ke sasaran kosong. Ke mana sebaiknya lemparan diarahkan?
 
 **Pilihan jawaban:**
 - ke kaca jendela
@@ -42,7 +42,7 @@
 
 ![Ilustrasi Menangkap bola mendatar](assets/pjk-b03-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Menangkap bola mendatar". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Bola bergerak mendatar ke anak yang siap menerima. Bagaimana posisi perhatian dan tangannya?
 
 **Pilihan jawaban:**
 - berlari tanpa melihat
@@ -60,7 +60,7 @@
 
 ![Ilustrasi Bermain bola bersama](assets/pjk-b03-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Bermain bola bersama". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Anak-anak bermain dengan satu bola bergantian. Aturan yang penting ialah ....
 
 **Pilihan jawaban:**
 - mematuhi aturan dan bergiliran
@@ -78,7 +78,7 @@
 
 ![Ilustrasi Bola untuk latihan anak](assets/pjk-b03-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Bola untuk latihan anak". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Ada beberapa ukuran bola latihan. Bagaimana memilih bola bagi anak?
 
 **Pilihan jawaban:**
 - harus paling berat
@@ -96,7 +96,7 @@
 
 ![Ilustrasi Melempar bola](assets/pjk-b03-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang melempar bola?
+**Pertanyaan:** Bola berpindah dari tangan pelempar ke depan. Keterampilan apa yang dilakukan?
 
 **Pilihan jawaban:**
 - berdiri satu kaki
@@ -114,7 +114,7 @@
 
 ![Ilustrasi Menangkap bola](assets/pjk-b03-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang menangkap bola?
+**Pertanyaan:** Bola datang menuju tangan penerima. Tindakan yang sesuai ialah ....
 
 **Pilihan jawaban:**
 - berjalan mundur
@@ -132,7 +132,7 @@
 
 ![Ilustrasi Menendang bola](assets/pjk-b03-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang menendang bola?
+**Pertanyaan:** Anak menggerakkan bola ke depan dengan kaki. Keterampilan apa yang sesuai?
 
 **Pilihan jawaban:**
 - menggerakkan bola menggunakan kaki
@@ -150,7 +150,7 @@
 
 ![Ilustrasi Menggiring bola dengan kaki](assets/pjk-b03-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang menggiring bola dengan kaki?
+**Pertanyaan:** Bola digerakkan melalui beberapa sentuhan kaki. Bagaimana cara mengontrolnya?
 
 **Pilihan jawaban:**
 - melempar bola ke udara
@@ -168,7 +168,7 @@
 
 ![Ilustrasi Memantulkan bola](assets/pjk-b03-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang memantulkan bola?
+**Pertanyaan:** Bola menyentuh lantai dan kembali naik. Manakah uraian gerak yang tepat?
 
 **Pilihan jawaban:**
 - menendang jauh
