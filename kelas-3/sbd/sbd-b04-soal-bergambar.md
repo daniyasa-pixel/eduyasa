@@ -1,12 +1,12 @@
 # Bab 4 — Karya yang Mewakili Diriku
 
-10 soal bergambar — ilustrasi masih skematis dan perlu pengembangan sesuai konteks pertanyaan.
+10 soal bergambar — pertanyaan sudah disesuaikan dengan situasi ilustrasi; media ditangani terpisah.
 
 ## Soal 36 — K03-SBD-B04-M01-036
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Ekspresi wajah tersenyum sering menunjukkan ....
+**Pertanyaan:** Tokoh pada gambar tersenyum dan matanya tampak ceria. Perasaan yang biasa ditampilkan adalah ....
 
 **Pilihan jawaban:**
 - perasaan senang
@@ -24,7 +24,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Ekspresi wajah dengan alis menurun dan air mata dapat menunjukkan ....
+**Pertanyaan:** Wajah dalam gambar menunjukkan alis menurun dan air mata. Perasaan yang mungkin ditunjukkan adalah ....
 
 **Pilihan jawaban:**
 - terkejut
@@ -42,7 +42,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Karya yang mewakili diri tidak harus ....
+**Pertanyaan:** Dua potret diri pada ilustrasi berbeda gaya. Karya pribadi tidak perlu dibuat ....
 
 **Pilihan jawaban:**
 - dibuat dengan usaha
@@ -60,7 +60,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Menggambar kegiatan favorit membantu ....
+**Pertanyaan:** Gambar menunjukkan anak sedang melakukan hobi kesukaan. Hal apa yang hendak dikomunikasikan pembuat karya?
 
 **Pilihan jawaban:**
 - menghilangkan hobi
@@ -78,7 +78,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Menghargai gambar diri teman berarti ....
+**Pertanyaan:** Perhatikan tanggapan pengunjung terhadap gambar diri temannya. Sikap menghargai yang tepat adalah ....
 
 **Pilihan jawaban:**
 - tidak mengejek ciri fisiknya
@@ -96,7 +96,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Kolase identitas diri dapat memuat ....
+**Pertanyaan:** Kolase identitas pada gambar berisi benda favorit dan kegiatan harian. Isinya dapat berupa ....
 
 **Pilihan jawaban:**
 - informasi rahasia
@@ -114,7 +114,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Saat menjelaskan karya sendiri, kita sebaiknya ....
+**Pertanyaan:** Siswa berdiri di dekat gambar dirinya untuk menjelaskan makna simbol. Cara menyampaikan yang baik adalah ....
 
 **Pilihan jawaban:**
 - berbohong tentang proses
@@ -132,7 +132,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Bentuk rumah dalam karya pribadi dapat melambangkan ....
+**Pertanyaan:** Gambar rumah dijadikan simbol kedekatan pribadi. Rumah dalam karya bisa melambangkan ....
 
 **Pilihan jawaban:**
 - bunyi alat musik
@@ -150,7 +150,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Memilih tema keluargaku berarti karya dapat menampilkan ....
+**Pertanyaan:** Gambar memperlihatkan kegiatan bersama beberapa orang di rumah. Tema keluarga dapat menampilkan ....
 
 **Pilihan jawaban:**
 - anggota keluarga atau kegiatan bersama
@@ -168,7 +168,7 @@
 
 ![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Setelah berkarya, sikap baik adalah ....
+**Pertanyaan:** Seusai berkarya, meja pada gambar dipenuhi alat dan sisa kertas. Langkah baik berikutnya adalah ....
 
 **Pilihan jawaban:**
 - merusak karya teman
