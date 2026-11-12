@@ -1,0 +1,109 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B06",
+      "chapter_title": "Is It the Canteen?",
+      "questions": [
+        {
+          "id": "K03-ENG-B06-M01-046",
+          "type": "PG",
+          "text": "Which room does the speaker name?",
+          "options": [
+            "office",
+            "library",
+            "canteen",
+            "restroom"
+          ],
+          "answer": "library",
+          "discussion": "The answer names a library.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "What room is it? It is a library.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-047",
+          "type": "PG",
+          "text": "What is the correct room?",
+          "options": [
+            "classroom",
+            "laboratory",
+            "office",
+            "schoolyard"
+          ],
+          "answer": "classroom",
+          "discussion": "The second sentence corrects the guess to classroom.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Is it a laboratory? No, it isn't. It is a classroom.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-048",
+          "type": "PG",
+          "text": "Which answer is heard?",
+          "options": [
+            "Yes, it is.",
+            "No, it isn't.",
+            "Yes, I do.",
+            "No, they aren't."
+          ],
+          "answer": "Yes, it is.",
+          "discussion": "The recording ends with Yes, it is.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Look at the meal tables. Is it the canteen? Yes, it is.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-049",
+          "type": "PG",
+          "text": "What activity is connected to the room?",
+          "options": [
+            "eating lunch",
+            "borrowing books",
+            "doing an experiment",
+            "praying"
+          ],
+          "answer": "praying",
+          "discussion": "The recording connects the prayer room with praying.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "This is the prayer room. Students pray here.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B06-M01-050",
+          "type": "PG",
+          "text": "Which room name appears on the sign?",
+          "options": [
+            "office",
+            "library",
+            "restroom",
+            "canteen"
+          ],
+          "answer": "restroom",
+          "discussion": "The first sentence says the sign reads restroom.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "The sign says restroom. Is it the office? No, it isn't.",
+            "rate": 0.85
+          }
+        }
+      ]
+    }
+  ]
+}
