@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B03-M01-031
 
-**Pertanyaan:** Ari memindahkan bola dari tangannya ke arah sasaran tanpa menendangnya. Apa gerak yang dilakukan?
+**Pertanyaan:** Pada latihan berpasangan, bola harus dikirim dari tangan siswa A menuju siswa B. Gerak pengiriman ini disebut apa?
 
 **Pilihan jawaban:**
 - menggerakkan bola menjauh menggunakan tangan
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B03-M01-032
 
-**Pertanyaan:** Bola datang perlahan ke arah dada Maya. Apa yang perlu dilakukan tangannya?
+**Pertanyaan:** Saat bola datang ke arah badan, guru mencontohkan cara menerima dengan tangan yang siap. Itu merupakan keterampilan ....
 
 **Pilihan jawaban:**
 - menendang bola
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B03-M01-033
 
-**Pertanyaan:** Bima mengirim bola ke depan dengan bagian kaki. Penjelasan gerak yang cocok adalah ....
+**Pertanyaan:** Siswa diminta menggerakkan bola tanpa menyentuh dengan tangan. Bagaimana bola dapat dikirim dengan kaki?
 
 **Pilihan jawaban:**
 - menangkap bola
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B03-M01-034
 
-**Pertanyaan:** Rani membawa bola sambil berjalan dan menyentuhnya berkali-kali memakai kaki. Tekniknya adalah ....
+**Pertanyaan:** Dalam rute berpenanda, bola dijaga tetap dekat melalui sentuhan kaki yang berulang. Ini contoh ....
 
 **Pilihan jawaban:**
 - berputar
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B03-M01-035
 
-**Pertanyaan:** Seorang siswa mendorong bola ke lantai lalu menangkap pantulannya. Kegiatan ini adalah ....
+**Pertanyaan:** Siswa melatih pantulan bola agar kembali dari lantai ke tangan. Tekniknya adalah ....
 
 **Pilihan jawaban:**
 - mendorong bola ke lantai agar memantul kembali
