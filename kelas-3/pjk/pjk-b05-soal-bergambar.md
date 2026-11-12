@@ -1,12 +1,12 @@
 # Unit 5 — Aktivitas Gerak Berirama
 
-10 soal bergambar, **DRAF**. Ilustrasi SVG bersifat simbolik, belum ilustrasi gerak yang spesifik.
+10 soal bergambar telah direvisi dengan konteks; diagram SVG diproses terpisah dan pemeriksaan visual akhir masih diperlukan.
 
 ## Soal 36 — K03-PJK-B05-M01-036
 
 ![Ilustrasi Gerak kelompok berirama](assets/pjk-b05-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Gerak kelompok berirama". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Anak-anak mengikuti hitungan secara bersamaan. Apa yang membantu gerak kelompok tetap serasi?
 
 **Pilihan jawaban:**
 - hanya dilakukan sendiri
@@ -24,7 +24,7 @@
 
 ![Ilustrasi Tempo lambat](assets/pjk-b05-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Tempo lambat". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Panah ketukan berjeda panjang. Bagaimana kecepatan gerak sebaiknya?
 
 **Pilihan jawaban:**
 - gerakan mengikuti ketukan yang lebih pelan
@@ -42,7 +42,7 @@
 
 ![Ilustrasi Tempo cepat](assets/pjk-b05-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Tempo cepat". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Ketukan pada diagram semakin rapat. Bagaimana siswa menyesuaikan tempo dengan aman?
 
 **Pilihan jawaban:**
 - gerakan harus sembarangan
@@ -60,7 +60,7 @@
 
 ![Ilustrasi Jarak antarpeserta](assets/pjk-b05-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Jarak antarpeserta". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Dua siswa mengayunkan tangan dekat satu sama lain. Mengapa ruang di antaranya perlu cukup?
 
 **Pilihan jawaban:**
 - tidak perlu diperhatikan
@@ -78,7 +78,7 @@
 
 ![Ilustrasi Pendinginan setelah bergerak](assets/pjk-b05-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Pendinginan setelah bergerak". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Gerakan berakhir, lalu siswa menurunkan aktivitas perlahan. Apa tujuan tahap tersebut?
 
 **Pilihan jawaban:**
 - berarti berhenti bernapas
@@ -96,7 +96,7 @@
 
 ![Ilustrasi Gerak berirama](assets/pjk-b05-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang gerak berirama?
+**Pertanyaan:** Anak bergerak mengikuti bunyi tepuk yang teratur. Jenis gerak apakah ini?
 
 **Pilihan jawaban:**
 - gerakan tubuh mengikuti irama atau ketukan
@@ -114,7 +114,7 @@
 
 ![Ilustrasi Tepuk tangan sesuai ketukan](assets/pjk-b05-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang tepuk tangan sesuai ketukan?
+**Pertanyaan:** Siswa menggunakan tepukan untuk menjaga urutan bunyi. Fungsinya ialah ....
 
 **Pilihan jawaban:**
 - menggantikan minum
@@ -132,7 +132,7 @@
 
 ![Ilustrasi Langkah ke kanan dan kiri](assets/pjk-b05-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang langkah ke kanan dan kiri?
+**Pertanyaan:** Panah mengarah ke kanan lalu ke kiri. Bagaimana langkah dilakukan?
 
 **Pilihan jawaban:**
 - dilakukan tanpa melihat sekitar
@@ -150,7 +150,7 @@
 
 ![Ilustrasi Ayunan lengan berirama](assets/pjk-b05-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang ayunan lengan berirama?
+**Pertanyaan:** Lengan bergerak setiap ketukan musik. Bagaimana seharusnya ayunannya?
 
 **Pilihan jawaban:**
 - tidak perlu terkendali
@@ -168,7 +168,7 @@
 
 ![Ilustrasi Hitungan satu sampai empat](assets/pjk-b05-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang hitungan satu sampai empat?
+**Pertanyaan:** Angka 1, 2, 3, 4 muncul berurutan. Apa fungsi urutan dalam latihan?
 
 **Pilihan jawaban:**
 - membantu mengatur urutan gerak
