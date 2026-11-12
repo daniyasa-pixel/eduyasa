@@ -1,0 +1,664 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B07",
+      "chapter_title": "Jejak Penjelajah",
+      "questions": [
+        {
+          "id": "K03-IPAS-B07-M01-001",
+          "type": "PG",
+          "text": "Kelompok yang semuanya merupakan empat arah mata angin utama ialah ...",
+          "options": [
+            "Utara, timur, selatan, barat",
+            "Utara, depan, kanan, belakang",
+            "Kiri, kanan, dekat, jauh",
+            "Timur, atas, bawah, depan"
+          ],
+          "answer": "Utara, timur, selatan, barat",
+          "discussion": "Empat arah utama adalah utara, timur, selatan, dan barat; depan atau kanan bergantung arah hadap orang."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-002",
+          "type": "PG",
+          "text": "Arah antara utara dan timur disebut ...",
+          "options": [
+            "Tenggara",
+            "Timur laut",
+            "Barat daya",
+            "Barat laut"
+          ],
+          "answer": "Timur laut",
+          "discussion": "Timur laut terletak di antara utara dan timur; arah antara selatan dan timur adalah tenggara."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-003",
+          "type": "PG",
+          "text": "Arah yang berlawanan dengan tenggara ialah ...",
+          "options": [
+            "Timur laut",
+            "Barat daya",
+            "Barat laut",
+            "Timur"
+          ],
+          "answer": "Barat laut",
+          "discussion": "Pada delapan arah mata angin, tenggara berhadapan dengan barat laut, sedangkan timur berhadapan dengan barat."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-004",
+          "type": "PG",
+          "text": "Rani menghadap utara. Arah di sebelah kanannya ialah ...",
+          "options": [
+            "Barat",
+            "Selatan",
+            "Barat laut",
+            "Timur"
+          ],
+          "answer": "Timur",
+          "discussion": "Dengan tubuh menghadap utara, kanan berada di timur dan kiri di barat."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-005",
+          "type": "PG",
+          "text": "Bayu sedang menghadap timur. Arah tepat di belakang tubuhnya ialah ...",
+          "options": [
+            "Barat",
+            "Utara",
+            "Selatan",
+            "Timur laut"
+          ],
+          "answer": "Barat",
+          "discussion": "Belakang berlawanan dengan arah hadap; lawan timur adalah barat."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-006",
+          "type": "PG",
+          "text": "Dua anak berdiri saling berhadapan. Mengapa petunjuk “di kananmu” dapat berbeda bagi keduanya?",
+          "options": [
+            "Arah timur berpindah mengikuti siapa yang berbicara",
+            "Arah kanan bergantung pada arah hadap masing-masing",
+            "Utara selalu sama dengan kanan semua orang",
+            "Arah mata angin hilang jika orang berputar"
+          ],
+          "answer": "Arah kanan bergantung pada arah hadap masing-masing",
+          "discussion": "Kanan dan kiri mengacu tubuh orang yang menghadap tertentu; arah mata angin tidak ikut berubah karena tubuh berputar."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-007",
+          "type": "PG",
+          "text": "Sari menghadap barat lalu berbelok seperempat putaran ke kanan. Kini ia menghadap ...",
+          "options": [
+            "Selatan",
+            "Timur",
+            "Utara",
+            "Tenggara"
+          ],
+          "answer": "Utara",
+          "discussion": "Dari barat, belok kanan seperempat putaran menuju utara. Titik awal dan arah belok harus diperhatikan bersama."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-008",
+          "type": "PG",
+          "text": "Rumah berada tepat di barat sekolah pada jalan lurus. Arah perjalanan pulang dari sekolah ke rumah ialah ...",
+          "options": [
+            "Timur",
+            "Utara",
+            "Selatan",
+            "Barat"
+          ],
+          "answer": "Barat",
+          "discussion": "Perjalanan menuju rumah dari sekolah mengikuti posisi rumah di barat, berlawanan dengan perjalanan rumah ke sekolah."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-009",
+          "type": "PG",
+          "text": "Di persimpangan, Riko berjalan ke utara lalu ke timur. Untuk kembali melalui jalan yang sama, urutan arahnya ialah ...",
+          "options": [
+            "Barat lalu selatan",
+            "Selatan lalu barat",
+            "Timur lalu utara",
+            "Utara lalu timur"
+          ],
+          "answer": "Barat lalu selatan",
+          "discussion": "Rute pulang membalik urutan ruas sekaligus arah tiap ruas: ruas timur dilalui ke barat, lalu ruas utara ke selatan."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-010",
+          "type": "PG",
+          "text": "Matahari terbit secara umum di sisi ...",
+          "options": [
+            "Barat",
+            "Timur",
+            "Utara",
+            "Selatan"
+          ],
+          "answer": "Timur",
+          "discussion": "Arah terbit secara umum digunakan sebagai perkiraan timur; letak tepatnya dapat berubah sepanjang tahun."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-011",
+          "type": "PG",
+          "text": "Cara aman memakai petunjuk Matahari terbenam ialah ...",
+          "options": [
+            "Menatap Matahari selama mungkin",
+            "Mengarahkan pantulan cermin ke mata",
+            "Mengenali sisi langit tempatnya terbenam tanpa menatap Matahari langsung",
+            "Menganggap arah terbenam selalu utara"
+          ],
+          "answer": "Mengenali sisi langit tempatnya terbenam tanpa menatap Matahari langsung",
+          "discussion": "Matahari terbenam secara umum di sisi barat; mengenali sisi langit tidak memerlukan menatap sumber cahaya kuat."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-012",
+          "type": "PG",
+          "text": "Langit tertutup awan sehingga arah terbit tidak tampak. Alat yang sesuai untuk membantu menentukan arah ialah ...",
+          "options": [
+            "Jam dinding tanpa informasi arah",
+            "Penggaris tanpa denah",
+            "Termometer ruangan",
+            "Kompas yang digunakan dengan benar"
+          ],
+          "answer": "Kompas yang digunakan dengan benar",
+          "discussion": "Kompas membantu menunjukkan arah melalui jarum magnet; tiga alat lain tidak langsung menunjukkan arah mata angin."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-013",
+          "type": "PG",
+          "text": "Kompas magnet dapat membantu menentukan arah karena jarumnya ...",
+          "options": [
+            "Merespons medan magnet Bumi",
+            "Selalu mengikuti suara paling keras",
+            "Hanya bergerak mengikuti warna langit",
+            "Menunjuk benda yang paling dekat"
+          ],
+          "answer": "Merespons medan magnet Bumi",
+          "discussion": "Jarum kompas merupakan magnet yang menyesuaikan arah dengan medan magnet; benda magnet atau logam tertentu di dekatnya dapat mengganggu bacaan."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-014",
+          "type": "PG",
+          "text": "Jarum kompas berubah ketika didekatkan ke magnet mainan. Apa yang perlu dilakukan sebelum membaca arah?",
+          "options": [
+            "Menganggap arah utara Bumi berpindah ke mainan",
+            "Menjauhkan kompas dari magnet pengganggu dan menunggu jarum tenang",
+            "Menempelkan lebih banyak magnet agar cepat",
+            "Memutar huruf pada kompas sesuai dugaan"
+          ],
+          "answer": "Menjauhkan kompas dari magnet pengganggu dan menunggu jarum tenang",
+          "discussion": "Magnet dekat dapat mengganggu jarum; pembacaan perlu dilakukan jauh dari gangguan dan setelah jarum stabil."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-015",
+          "type": "PG",
+          "text": "Kompas magnet sederhana berbeda dari aplikasi kompas di ponsel karena ...",
+          "options": [
+            "Semua kompas harus tersambung internet",
+            "Jarum kompas sederhana harus diisi bensin",
+            "Kompas magnet sederhana dapat bekerja tanpa baterai",
+            "Aplikasi ponsel selalu bekerja saat baterainya habis"
+          ],
+          "answer": "Kompas magnet sederhana dapat bekerja tanpa baterai",
+          "discussion": "Jarum magnet mekanis tidak memerlukan listrik, sedangkan ponsel memerlukan daya untuk menjalankan aplikasinya."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-016",
+          "type": "PG",
+          "text": "Mengapa perlu mengenali ujung utara pada jarum kompas, bukan menganggap kedua ujung sama?",
+          "options": [
+            "Kedua ujung selalu menunjuk utara bersamaan",
+            "Ujung selatan selalu menunjuk timur",
+            "Warna jarum tidak pernah mempunyai keterangan",
+            "Dua ujung menunjuk arah berlawanan dalam garis utara–selatan"
+          ],
+          "answer": "Dua ujung menunjuk arah berlawanan dalam garis utara–selatan",
+          "discussion": "Pembaca harus mengikuti penanda dan panduan kompas untuk membedakan ujung utara dari ujung yang berlawanan."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-017",
+          "type": "PG",
+          "text": "Pada denah, panah utara mengarah ke kiri halaman. Bagaimana menentukan utara pada denah itu?",
+          "options": [
+            "Mengikuti panah ke kiri halaman",
+            "Tetap menganggap bagian atas pasti utara",
+            "Memilih kanan karena berlawanan dengan panah",
+            "Mengabaikan panah dan menebak dari warna"
+          ],
+          "answer": "Mengikuti panah ke kiri halaman",
+          "discussion": "Arah pada denah ditentukan petunjuk orientasinya; utara tidak harus selalu berada di atas halaman."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-018",
+          "type": "PG",
+          "text": "Apa fungsi legenda pada denah?",
+          "options": [
+            "Menjamin semua jalan selalu terbuka",
+            "Menjelaskan arti simbol yang digunakan",
+            "Menunjukkan perasaan pembuat denah",
+            "Mengganti kebutuhan mengetahui titik awal"
+          ],
+          "answer": "Menjelaskan arti simbol yang digunakan",
+          "discussion": "Legenda menghubungkan simbol dengan objek atau informasi yang diwakilinya, sehingga pembaca tidak perlu menebak makna tanda."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-019",
+          "type": "PG",
+          "text": "Pada dua denah, tanda persegi mempunyai arti berbeda menurut legendanya. Apa yang harus dilakukan pembaca?",
+          "options": [
+            "Memakai arti dari denah pertama untuk semua denah",
+            "Menganggap semua persegi selalu sekolah",
+            "Membaca legenda masing-masing denah",
+            "Mengabaikan simbol yang tidak sama"
+          ],
+          "answer": "Membaca legenda masing-masing denah",
+          "discussion": "Simbol tidak selalu mempunyai arti sama pada setiap denah; legenda setempat menjadi acuan."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-020",
+          "type": "PG",
+          "text": "Denah ruangan biasanya menggambarkan letak benda seolah dilihat dari ...",
+          "options": [
+            "Dalam laci",
+            "Bawah lantai",
+            "Mata orang di luar jendela saja",
+            "Atas"
+          ],
+          "answer": "Atas",
+          "discussion": "Pandangan atas membantu memperlihatkan susunan tempat dan jalur secara sederhana, bukan gambar pemandangan dari satu sisi."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-021",
+          "type": "PG",
+          "text": "Informasi yang paling berguna pada denah ruang kelas ialah ...",
+          "options": [
+            "Letak pintu, meja, dan jalan yang dapat dilewati",
+            "Hanya warna kesukaan setiap siswa",
+            "Hanya nama makanan bekal",
+            "Hanya cerita liburan pembuatnya"
+          ],
+          "answer": "Letak pintu, meja, dan jalan yang dapat dilewati",
+          "discussion": "Denah bertujuan menunjukkan susunan tempat; pintu dan jalur membantu orang bergerak di ruang tersebut."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-022",
+          "type": "PG",
+          "text": "Sebelum mengikuti petunjuk rute pada denah, hal yang perlu diketahui ialah ...",
+          "options": [
+            "Harga pensil pembuat denah",
+            "Titik awal dan arah orientasi denah",
+            "Nama semua orang yang pernah lewat",
+            "Warna baju orang yang memberi petunjuk"
+          ],
+          "answer": "Titik awal dan arah orientasi denah",
+          "discussion": "Rute bermula dari lokasi tertentu dan memakai acuan arah; tanpa keduanya pembaca dapat memilih jalur yang salah."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-023",
+          "type": "PG",
+          "text": "Mengapa kalimat “toko ada di sebelah timur” belum lengkap sebagai petunjuk letak?",
+          "options": [
+            "Timur bukan arah mata angin",
+            "Semua toko pasti berada di barat",
+            "Belum disebut di timur dari tempat acuan mana",
+            "Letak tidak pernah membutuhkan acuan"
+          ],
+          "answer": "Belum disebut di timur dari tempat acuan mana",
+          "discussion": "Hubungan posisi memerlukan tempat acuan, misalnya toko di timur sekolah, agar arah mempunyai makna jelas."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-024",
+          "type": "PG",
+          "text": "Patokan yang paling membantu untuk rute esok hari ialah ...",
+          "options": [
+            "Sepeda yang sedang melintas",
+            "Pedagang keliling yang sedang berjalan",
+            "Mobil yang baru saja lewat",
+            "Gedung perpustakaan yang tetap di sudut jalan"
+          ],
+          "answer": "Gedung perpustakaan yang tetap di sudut jalan",
+          "discussion": "Patokan yang relatif tetap lebih mudah ditemukan lagi dibanding benda yang berpindah-pindah."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-025",
+          "type": "PG",
+          "text": "Dua teman menuju sekolah dari rumah yang berbeda. Mengapa petunjuk perjalanannya dapat berbeda?",
+          "options": [
+            "Titik awal dan jalan yang dilalui berbeda",
+            "Arah utara berubah untuk setiap rumah",
+            "Sekolah tidak dapat mempunyai lebih dari satu jalan masuk",
+            "Setiap perjalanan harus berawal dari tempat yang sama"
+          ],
+          "answer": "Titik awal dan jalan yang dilalui berbeda",
+          "discussion": "Tujuan sama dapat dicapai dari lokasi awal berbeda dengan rute berbeda; arah mata angin tetap menjadi acuan bersama."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-026",
+          "type": "PG",
+          "text": "Jalan pada rute yang direncanakan ternyata ditutup. Tindakan yang sesuai ialah ...",
+          "options": [
+            "Menerobos penutupan karena denah lama menggambarnya terbuka",
+            "Bersama pendamping mencari jalur aman yang masih terbuka",
+            "Menaiki pagar agar tidak perlu mengubah rute",
+            "Mengabaikan petugas di lokasi"
+          ],
+          "answer": "Bersama pendamping mencari jalur aman yang masih terbuka",
+          "discussion": "Keadaan nyata dapat berubah; petunjuk penutupan dan keselamatan harus dipertimbangkan saat menyesuaikan rute."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-027",
+          "type": "PG",
+          "text": "Rute pendek melewati tepi sungai tanpa pengaman, sedangkan rute lain memakai jalan resmi yang aman. Pilihan yang tepat ialah ...",
+          "options": [
+            "Selalu memilih yang paling pendek tanpa melihat bahaya",
+            "Berjalan di tepi sungai sendiri agar cepat",
+            "Menggunakan jalan resmi bersama pendamping",
+            "Menganggap semua garis pada denah sama aman"
+          ],
+          "answer": "Menggunakan jalan resmi bersama pendamping",
+          "discussion": "Perencanaan rute mempertimbangkan keselamatan, bukan hanya panjang; denah sederhana belum tentu menunjukkan semua risiko."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-028",
+          "type": "PG",
+          "text": "Agar petunjuk “belok kiri” jelas, informasi tambahan yang diperlukan ialah ...",
+          "options": [
+            "Warna sepatu orang yang berjalan",
+            "Nama pembuat jalan saja",
+            "Jumlah pohon di kota lain",
+            "Dari mana orang datang atau ke arah mana ia menghadap"
+          ],
+          "answer": "Dari mana orang datang atau ke arah mana ia menghadap",
+          "discussion": "Kiri mengacu arah hadap pelaku; tanpa titik datang atau arah gerak, orang dapat menafsirkan belokan berbeda."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-029",
+          "type": "PG",
+          "text": "Sebuah denah tidak memiliki skala atau keterangan panjang. Apa yang belum dapat diketahui dengan tepat?",
+          "options": [
+            "Jarak sebenarnya dalam meter",
+            "Nama tempat yang tertulis",
+            "Simbol yang dijelaskan legenda",
+            "Arah yang ditunjukkan panah utara"
+          ],
+          "answer": "Jarak sebenarnya dalam meter",
+          "discussion": "Letak relatif dapat dibaca, tetapi jarak nyata memerlukan skala atau keterangan pengukuran."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-030",
+          "type": "PG",
+          "text": "Mengapa tanggal pembaruan denah rute dapat berguna?",
+          "options": [
+            "Tanggal otomatis menunjukkan arah utara",
+            "Jalan atau bangunan mungkin berubah sejak denah dibuat",
+            "Denah lama selalu salah dalam semua hal",
+            "Denah baru tidak pernah memerlukan pemeriksaan"
+          ],
+          "answer": "Jalan atau bangunan mungkin berubah sejak denah dibuat",
+          "discussion": "Tanggal membantu menilai kemungkinan perubahan; keadaan terkini tetap perlu diperiksa, bukan menganggap semua gambar pasti berlaku selamanya."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-031",
+          "type": "PG",
+          "text": "Petunjuk pada denah berbeda dari papan penutupan jalan di lokasi. Apa yang perlu didahulukan?",
+          "options": [
+            "Memaksa berjalan karena denah tidak boleh dikoreksi",
+            "Menyembunyikan papan agar rute sesuai gambar",
+            "Berhenti dan mengikuti arahan aman petugas atau pendamping",
+            "Menebak celah masuk tanpa bertanya"
+          ],
+          "answer": "Berhenti dan mengikuti arahan aman petugas atau pendamping",
+          "discussion": "Informasi keselamatan terkini di lokasi perlu diperhatikan; pembaca dapat memeriksa kembali rute bersama pendamping."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-032",
+          "type": "PG",
+          "text": "Aplikasi peta menunjukkan jalan melalui pagar terkunci. Apa yang sebaiknya dilakukan anak?",
+          "options": [
+            "Memanjat pagar karena aplikasi selalu benar",
+            "Masuk ke pekarangan tanpa izin",
+            "Memisahkan diri agar dapat mencoba jalan sendiri",
+            "Tetap bersama pendamping dan mencari jalur yang diizinkan"
+          ],
+          "answer": "Tetap bersama pendamping dan mencari jalur yang diizinkan",
+          "discussion": "Alat bantu peta tidak menggantikan izin, keadaan nyata, dan pertimbangan keselamatan."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-033",
+          "type": "PG",
+          "text": "Saat terpisah dari rombongan di tempat umum, pilihan yang aman ialah ...",
+          "options": [
+            "Tetap di tempat aman dan meminta bantuan petugas resmi untuk menghubungi pendamping",
+            "Berjalan makin jauh sendiri mencari jalan pintas",
+            "Mengikuti orang tidak dikenal ke tempat sepi",
+            "Menyeberang jalan ramai tanpa bantuan"
+          ],
+          "answer": "Tetap di tempat aman dan meminta bantuan petugas resmi untuk menghubungi pendamping",
+          "discussion": "Berhenti di tempat aman dan bantuan petugas membantu pendamping menemukan anak; menjauh dapat memperbesar risiko."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-034",
+          "type": "PG",
+          "text": "Persiapan kelompok sebelum menjelajah lingkungan sekolah ialah ...",
+          "options": [
+            "Membebaskan setiap anak keluar batas tanpa kabar",
+            "Menyepakati batas area, rute, dan cara tetap bersama pendamping",
+            "Menyembunyikan tujuan dari guru",
+            "Menganggap kompas menggantikan semua aturan keselamatan"
+          ],
+          "answer": "Menyepakati batas area, rute, dan cara tetap bersama pendamping",
+          "discussion": "Kesepakatan rute dan pendampingan mencegah anggota pergi ke tempat yang tidak disiapkan atau berbahaya."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-035",
+          "type": "PG",
+          "text": "Denah menunjukkan tujuan dekat, tetapi jalur lurus melewati halaman pribadi. Apa keputusan yang benar?",
+          "options": [
+            "Masuk karena jaraknya lebih dekat",
+            "Menganggap halaman orang selalu menjadi jalan umum",
+            "Memakai jalan yang diizinkan tanpa masuk pekarangan sembarangan",
+            "Memindahkan pagar sendiri"
+          ],
+          "answer": "Memakai jalan yang diizinkan tanpa masuk pekarangan sembarangan",
+          "discussion": "Kedekatan pada gambar tidak memberi izin melewati tanah milik orang lain; rute harus mempertimbangkan akses yang sah."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-036",
+          "type": "PG",
+          "text": "Sikap yang menjaga tempat saat penjelajahan ialah ...",
+          "options": [
+            "Memetik semua bunga sebagai tanda pernah datang",
+            "Mencoret batu agar menjadi patokan",
+            "Membuang kemasan ke sungai agar tas ringan",
+            "Membawa kembali sampah dan tidak merusak tanaman"
+          ],
+          "answer": "Membawa kembali sampah dan tidak merusak tanaman",
+          "discussion": "Mengamati dapat dilakukan tanpa merusak tempat; sampah dan coretan dapat mengganggu lingkungan serta orang lain."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-037",
+          "type": "PG",
+          "text": "Manakah catatan yang merupakan fakta pengamatan, bukan penilaian selera?",
+          "options": [
+            "Ada jembatan di atas sungai yang diamati",
+            "Sungai ini pasti paling indah di seluruh negeri",
+            "Semua orang pasti menyukai jembatan ini",
+            "Gunung ini selalu lebih menarik bagi setiap orang"
+          ],
+          "answer": "Ada jembatan di atas sungai yang diamati",
+          "discussion": "Letak jembatan yang terlihat dapat diperiksa bersama; keindahan dan ketertarikan merupakan penilaian yang dapat berbeda."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-038",
+          "type": "PG",
+          "text": "Dua denah sekolah mempunyai susunan ruang berbeda. Cara memeriksa mana yang lebih sesuai sekarang ialah ...",
+          "options": [
+            "Memilih yang kertasnya paling cerah",
+            "Membandingkan tanggal dan mengecek susunan nyata bersama guru",
+            "Memilih yang ukurannya paling besar tanpa melihat isi",
+            "Menganggap keduanya pasti sama benar untuk keadaan sekarang"
+          ],
+          "answer": "Membandingkan tanggal dan mengecek susunan nyata bersama guru",
+          "discussion": "Sumber dan pengamatan terkini membantu memeriksa kesesuaian, bukan tampilan kertas saja."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-039",
+          "type": "PG",
+          "text": "Saat berlatih membuat denah untuk dipajang kepada umum, pilihan yang menjaga privasi ialah ...",
+          "options": [
+            "Menambahkan nomor telepon semua teman tanpa izin",
+            "Memasang jadwal rumah kosong keluarga",
+            "Memakai lokasi rekaan tanpa alamat rumah pribadi",
+            "Menyebarkan lokasi langsung setiap anggota keluarga"
+          ],
+          "answer": "Memakai lokasi rekaan tanpa alamat rumah pribadi",
+          "discussion": "Tujuan belajar denah dapat dicapai dengan contoh rekaan tanpa membuka informasi pribadi keluarga."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-040",
+          "type": "PG",
+          "text": "Pasangan kenampakan alam lalu kenampakan buatan ialah ...",
+          "options": [
+            "Gedung sekolah lalu gunung alami",
+            "Jalan raya lalu kantor pos",
+            "Waduk buatan lalu rumah",
+            "Sungai alami lalu jembatan"
+          ],
+          "answer": "Sungai alami lalu jembatan",
+          "discussion": "Sungai alami terbentuk oleh proses alam, sedangkan jembatan dibangun manusia untuk menghubungkan tempat."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-041",
+          "type": "PG",
+          "text": "Gunung alami dan gedung sekolah dibedakan menurut ...",
+          "options": [
+            "Proses terbentuknya secara alami atau dibangun manusia",
+            "Apakah keduanya dapat terlihat pada siang hari",
+            "Apakah keduanya mempunyai nama",
+            "Apakah keduanya dapat digambar pada denah"
+          ],
+          "answer": "Proses terbentuknya secara alami atau dibangun manusia",
+          "discussion": "Keduanya dapat dinamai dan digambar; pembeda alam/buatan berkaitan dengan asal terbentuknya."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-042",
+          "type": "PG",
+          "text": "Sebuah genangan luas sengaja dibuat dengan bendungan untuk menyimpan air. Kenampakan itu termasuk ...",
+          "options": [
+            "Danau yang pasti terbentuk alami",
+            "Waduk buatan manusia",
+            "Laut yang tidak pernah dibangun",
+            "Gumuk pasir alami"
+          ],
+          "answer": "Waduk buatan manusia",
+          "discussion": "Waduk pada cerita sengaja dibangun; bentuk berair saja tidak membuat suatu tempat pasti alami."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-043",
+          "type": "PG",
+          "text": "Tumpukan pasir di pantai yang terbentuk oleh angin disebut gumuk pasir. Mengapa termasuk kenampakan alam?",
+          "options": [
+            "Semua tumpukan pasir di mana pun pasti alami",
+            "Pasir tidak pernah dapat dipindahkan manusia",
+            "Terbentuk melalui proses alam, bukan sengaja ditumpuk manusia",
+            "Hanya tempat berair yang dapat menjadi kenampakan alam"
+          ],
+          "answer": "Terbentuk melalui proses alam, bukan sengaja ditumpuk manusia",
+          "discussion": "Cerita menyebut proses angin sebagai pembentuknya; tumpukan pasir bangunan manusia mempunyai asal berbeda."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-044",
+          "type": "PG",
+          "text": "Dataran tinggi dan dataran rendah terutama dibedakan berdasarkan ...",
+          "options": [
+            "Warna semua bangunannya",
+            "Jumlah toko yang selalu sama",
+            "Merek kendaraan penduduk",
+            "Ketinggian wilayah dibanding permukaan laut"
+          ],
+          "answer": "Ketinggian wilayah dibanding permukaan laut",
+          "discussion": "Ketinggian merupakan acuan perbandingan wilayah; jumlah toko atau warna bangunan tidak menentukan dataran tinggi/rendah."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-045",
+          "type": "PG",
+          "text": "Mengapa saluran air beton tidak langsung disebut sungai alami hanya karena dialiri air?",
+          "options": [
+            "Saluran itu dapat sengaja dibangun manusia",
+            "Semua tempat berair pasti laut",
+            "Air hanya dapat mengalir di tempat alami",
+            "Bahan beton pasti terbentuk sendiri dari aliran air"
+          ],
+          "answer": "Saluran itu dapat sengaja dibangun manusia",
+          "discussion": "Jenis kenampakan ditentukan pula dari proses pembuatannya; aliran air dapat berada pada saluran buatan."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-046",
+          "type": "PG",
+          "text": "Denah memakai warna biru untuk ruang kelas. Apakah itu membuktikan dinding kelas sebenarnya berwarna biru?",
+          "options": [
+            "Ya, semua warna denah pasti sama dengan warna benda",
+            "Tidak, warna pada denah dapat menjadi kode menurut legenda",
+            "Ya, denah selalu merupakan foto berwarna asli",
+            "Tidak, karena denah tidak boleh memakai warna"
+          ],
+          "answer": "Tidak, warna pada denah dapat menjadi kode menurut legenda",
+          "discussion": "Warna dapat dipakai sebagai simbol; kondisi nyata perlu dilihat atau dijelaskan, bukan ditebak dari kode."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-047",
+          "type": "PG",
+          "text": "Gambar sekolah pada denah lebih besar daripada gambar rumah. Apa yang belum tentu benar?",
+          "options": [
+            "Denah menampilkan kedua tempat",
+            "Ada simbol sekolah pada denah",
+            "Bangunan sekolah sebenarnya lebih luas daripada rumah itu",
+            "Ada simbol rumah pada denah"
+          ],
+          "answer": "Bangunan sekolah sebenarnya lebih luas daripada rumah itu",
+          "discussion": "Ukuran simbol tidak selalu berskala; perbandingan luas nyata membutuhkan data atau gambar yang memang berskala."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-048",
+          "type": "PG",
+          "text": "Cara mencatat lingkungan tanpa mengganggu warga ialah ...",
+          "options": [
+            "Masuk rumah orang untuk memeriksa setiap kamar",
+            "Merekam percakapan pribadi tanpa izin",
+            "Menghalangi jalan agar semua orang berhenti",
+            "Mengamati dari tempat yang diizinkan dan bertanya sopan bila perlu"
+          ],
+          "answer": "Mengamati dari tempat yang diizinkan dan bertanya sopan bila perlu",
+          "discussion": "Pengamatan tetap menghormati ruang pribadi, izin, dan penggunaan tempat oleh orang lain."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-049",
+          "type": "PG",
+          "text": "Petunjuk rute yang paling mudah diikuti memuat ...",
+          "options": [
+            "Titik awal, urutan ruas atau belokan, dan tujuan",
+            "Hanya daftar tempat tanpa urutan",
+            "Hanya nama tujuan tanpa lokasi awal",
+            "Hanya pendapat bahwa jalan itu indah"
+          ],
+          "answer": "Titik awal, urutan ruas atau belokan, dan tujuan",
+          "discussion": "Urutan menghubungkan tempat awal ke tujuan sehingga pembaca mengetahui langkah yang harus dilakukan."
+        },
+        {
+          "id": "K03-IPAS-B07-M01-050",
+          "type": "PG",
+          "text": "Sebelum menyerahkan denah buatan sendiri, pemeriksaan yang berguna ialah ...",
+          "options": [
+            "Menambah hiasan meskipun menutupi nama jalan",
+            "Memastikan judul, nama tempat, arah, simbol, dan jalur konsisten",
+            "Menghapus arah agar pembaca bebas menebak",
+            "Menyamakan semua simbol tanpa legenda"
+          ],
+          "answer": "Memastikan judul, nama tempat, arah, simbol, dan jalur konsisten",
+          "discussion": "Unsur yang jelas dan konsisten membantu orang memahami serta memeriksa denah; hiasan tidak boleh menghilangkan informasi penting."
+        }
+      ]
+    }
+  ]
+}
