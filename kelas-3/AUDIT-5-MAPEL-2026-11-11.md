@@ -2,7 +2,7 @@
 
 **Cakupan eksklusif:** IPAS, Bahasa Inggris, PAI, PJOK, Seni Rupa. BIN, MTK, PKN tidak disentuh.
 
-**STATUS KESELURUHAN: BELUM LULUS / BELUM FINAL.** Audit struktur dan pola berulang telah dilakukan. Revisi akademik menyeluruh, validasi visual, dan verifikasi per-butir terhadap buku resmi **belum selesai**. Jangan konversi atau rilis sebagai bank final.
+**STATUS KESELURUHAN: BELUM LULUS / BELUM FINAL.** Audit struktur dan pola berulang telah dilakukan. Revisi akademik menyeluruh, validasi visual, dan verifikasi per-butir terhadap buku resmi **belum selesai**. Konversi JSON per bab atau unit yang sudah diaudit mengikuti [handover Codex](HANDOVER-KONVERSI-JSON.md), dengan satu audit ulang sebelum konversi. Status rilis mengikuti verifikasi aplikasi.
 
 | Mapel | Bab | Soal | Temuan yang terverifikasi | Revisi selesai | Sisa pekerjaan |
 |---|---:|---:|---|---|---|

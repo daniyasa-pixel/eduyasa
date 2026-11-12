@@ -11,6 +11,7 @@ dari riset awal belum berarti seluruh kontennya sudah tersedia atau diaudit.
 - [Paket Bahasa Indonesia dan laporan pemeriksaan](bin/README.md)
 - [Paket Pendidikan Pancasila empat bab (JSON dan sumber Markdown)](pkn/README.md)
 - [Paket Matematika lima bab (JSON + LaTeX/MathJax)](mtk/README.md)
+- [Handover Codex untuk konversi JSON](HANDOVER-KONVERSI-JSON.md)
 - [Konfigurasi kelas](../HTML/grade-config.js)
 - [Ketentuan konten yang berlaku](../docs/CONTENT_GUIDE.md)
 

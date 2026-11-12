@@ -1,6 +1,6 @@
 # Revisi 1.945 soal — checkpoint 2026-11-11
 
-**STATUS: BELUM SELESAI. Bukan persetujuan rilis atau konversi JSON.**
+**STATUS KESELURUHAN: AUDIT MASIH BERJALAN.** Konversi JSON per bab atau unit yang sudah diaudit mengikuti [handover Codex](HANDOVER-KONVERSI-JSON.md), dengan satu audit ulang sebelum konversi.
 
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
