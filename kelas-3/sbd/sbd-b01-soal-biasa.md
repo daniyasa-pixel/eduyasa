@@ -1,10 +1,10 @@
 # Bab 1 — Menemukan Keindahan di Sekitar Kita
 
-35 soal teks — draf untuk audit.
+35 soal teks — revisi konteks pengamatan unsur seni, posisi ruang gambar dan perilaku berkarya.
 
 ## Soal 1 — K03-SBD-B01-M01-001
 
-**Pertanyaan:** Apa jawaban yang tepat? Unsur seni rupa berupa jejak memanjang disebut ....
+**Pertanyaan:** Rina menarik pensil dari kiri ke kanan hingga meninggalkan jejak panjang. Unsur visual apa yang dibuat?
 
 **Pilihan jawaban:**
 - garis
@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-SBD-B01-M01-002
 
-**Pertanyaan:** Apa jawaban yang tepat? Titik-titik yang disusun berdekatan dapat membentuk ....
+**Pertanyaan:** Dari jarak dekat, titik-titik pada kertas tampak tersusun rapat dan menyambung. Unsur apa yang terbentuk?
 
 **Pilihan jawaban:**
 - aroma
@@ -36,7 +36,7 @@
 
 ## Soal 3 — K03-SBD-B01-M01-003
 
-**Pertanyaan:** Apa jawaban yang tepat? Bentuk lingkaran termasuk bentuk ....
+**Pertanyaan:** Seorang murid mengamati bentuk roda yang bundar. Roda dapat disederhanakan menjadi bentuk apa?
 
 **Pilihan jawaban:**
 - rasa
@@ -52,7 +52,7 @@
 
 ## Soal 4 — K03-SBD-B01-M01-004
 
-**Pertanyaan:** Apa jawaban yang tepat? Permukaan batu yang terasa kasar menunjukkan ....
+**Pertanyaan:** Saat membuat gambar batu, Bima ingin menunjukkan kesan permukaan kasar. Unsur rupa apa yang digunakan?
 
 **Pilihan jawaban:**
 - nada
@@ -68,7 +68,7 @@
 
 ## Soal 5 — K03-SBD-B01-M01-005
 
-**Pertanyaan:** Apa jawaban yang tepat? Warna merah, kuning, dan biru dalam teori warna dasar seni rupa disebut ....
+**Pertanyaan:** Guru menyiapkan cat merah, kuning, dan biru pada palet. Dalam teori pencampuran cat dasar, kelompok warna itu disebut ....
 
 **Pilihan jawaban:**
 - warna primer
@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-SBD-B01-M01-006
 
-**Pertanyaan:** Apa jawaban yang tepat? Pencampuran cat merah dan kuning umumnya menghasilkan ....
+**Pertanyaan:** Raka mencampurkan cat merah dan kuning dengan perbandingan seimbang. Warna yang umumnya muncul adalah ....
 
 **Pilihan jawaban:**
 - hitam
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-SBD-B01-M01-007
 
-**Pertanyaan:** Apa jawaban yang tepat? Benda yang terlihat lebih dekat biasanya digambar ....
+**Pertanyaan:** Pada gambar jalan, dua pohon sejenis berjarak berbeda dari pengamat. Agar tampak memiliki kedalaman, pohon dekat digambar ....
 
 **Pilihan jawaban:**
 - tanpa garis
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-SBD-B01-M01-008
 
-**Pertanyaan:** Apa jawaban yang tepat? Mengamati daun sebelum menggambar membantu mengenali ....
+**Pertanyaan:** Sebelum menggambar daun mangga, Siti melihat tepi, urat, dan arah tangkainya. Informasi apa yang ia kumpulkan?
 
 **Pilihan jawaban:**
 - suara daun saja
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-SBD-B01-M01-009
 
-**Pertanyaan:** Apa jawaban yang tepat? Garis mendatar disebut juga garis ....
+**Pertanyaan:** Anak menggambar garis sejajar dengan sisi bawah kertas. Jenis garis itu adalah ....
 
 **Pilihan jawaban:**
 - horizontal
@@ -148,7 +148,7 @@
 
 ## Soal 10 — K03-SBD-B01-M01-010
 
-**Pertanyaan:** Apa jawaban yang tepat? Garis tegak disebut garis ....
+**Pertanyaan:** Pada gambar tiang bendera, garisnya mengarah lurus dari bawah ke atas. Nama garis tersebut adalah ....
 
 **Pilihan jawaban:**
 - zig-zag
@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-SBD-B01-M01-011
 
-**Pertanyaan:** Apa jawaban yang tepat? Pola yang berulang pada kain disebut ....
+**Pertanyaan:** Kain batik menampilkan rangkaian bentuk yang berulang. Sebutan untuk pola berulang ini adalah ....
 
 **Pilihan jawaban:**
 - tempo
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-SBD-B01-M01-012
 
-**Pertanyaan:** Apa jawaban yang tepat? Saat menggambar pemandangan, bagian langit biasanya berada ....
+**Pertanyaan:** Dalam sketsa bukit, garis cakrawala memisahkan langit dan daratan. Di mana biasanya bagian langit diletakkan?
 
 **Pilihan jawaban:**
 - di bawah tanah
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-SBD-B01-M01-013
 
-**Pertanyaan:** Apa jawaban yang tepat? Permukaan kapas umumnya terasa ....
+**Pertanyaan:** Guru menyiapkan kapas sebagai contoh permukaan benda. Kesan rabaan yang paling sesuai adalah ....
 
 **Pilihan jawaban:**
 - lembut
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-SBD-B01-M01-014
 
-**Pertanyaan:** Apa jawaban yang tepat? Garis miring disebut garis ....
+**Pertanyaan:** Seorang siswa menarik garis miring dari sudut kiri bawah menuju kanan atas. Garis ini disebut ....
 
 **Pilihan jawaban:**
 - lingkaran
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-SBD-B01-M01-015
 
-**Pertanyaan:** Apa jawaban yang tepat? Sikap baik saat mengamati lingkungan untuk menggambar adalah ....
+**Pertanyaan:** Ketika mencari objek daun untuk digambar, siswa memasuki taman sekolah. Sikap yang tepat adalah ....
 
 **Pilihan jawaban:**
 - mencoret dinding
@@ -244,7 +244,7 @@
 
 ## Soal 16 — K03-SBD-B01-M01-016
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Unsur seni rupa berupa jejak memanjang disebut ...." Pilih jawaban yang benar.
+**Pertanyaan:** Pensil digerakkan mengikuti jejak memanjang yang berbelok. Walaupun berbelok, jejak tersebut termasuk unsur ....
 
 **Pilihan jawaban:**
 - warna
@@ -260,7 +260,7 @@
 
 ## Soal 17 — K03-SBD-B01-M01-017
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Titik-titik yang disusun berdekatan dapat membentuk ...." Pilih jawaban yang benar.
+**Pertanyaan:** Untuk membuat batas jalan pada ilustrasi, Dita menghubungkan beberapa titik hingga menjadi jejak panjang. Hasilnya berupa ....
 
 **Pilihan jawaban:**
 - garis
@@ -276,7 +276,7 @@
 
 ## Soal 18 — K03-SBD-B01-M01-018
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Bentuk lingkaran termasuk bentuk ...." Pilih jawaban yang benar.
+**Pertanyaan:** Di antara segitiga, kotak, dan lingkaran pada penggaris pola, lingkaran termasuk kelompok bentuk ....
 
 **Pilihan jawaban:**
 - irama
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-SBD-B01-M01-019
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Permukaan batu yang terasa kasar menunjukkan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Seorang siswa membuat arsiran untuk menampilkan kesan permukaan kulit pohon. Unsur yang ditekankan adalah ....
 
 **Pilihan jawaban:**
 - tempo
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-SBD-B01-M01-020
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Warna merah, kuning, dan biru dalam teori warna dasar seni rupa disebut ...." Pilih jawaban yang benar.
+**Pertanyaan:** Ketika memilih tiga cat dasar untuk latihan campuran warna, guru menunjukkan merah, kuning, dan biru. Kelompoknya adalah ....
 
 **Pilihan jawaban:**
 - warna netral
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-SBD-B01-M01-021
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Pencampuran cat merah dan kuning umumnya menghasilkan ...." Pilih jawaban yang benar.
+**Pertanyaan:** Pada percobaan cat, warna merah bertemu warna kuning. Hasil umum yang dapat dicatat siswa adalah ....
 
 **Pilihan jawaban:**
 - oranye
@@ -340,7 +340,7 @@
 
 ## Soal 22 — K03-SBD-B01-M01-022
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Benda yang terlihat lebih dekat biasanya digambar ...." Pilih jawaban yang benar.
+**Pertanyaan:** Untuk menampilkan dua rumah yang ukuran aslinya sama, rumah depan sebaiknya digambarkan ....
 
 **Pilihan jawaban:**
 - selalu transparan
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-SBD-B01-M01-023
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Mengamati daun sebelum menggambar membantu mengenali ...." Pilih jawaban yang benar.
+**Pertanyaan:** Seorang anak membandingkan dua daun yang tampak serupa. Sebelum menggambar, ia meneliti rincian ....
 
 **Pilihan jawaban:**
 - rasa daun
@@ -372,7 +372,7 @@
 
 ## Soal 24 — K03-SBD-B01-M01-024
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Garis mendatar disebut juga garis ...." Pilih jawaban yang benar.
+**Pertanyaan:** Seorang murid menggambar permukaan meja dengan garis yang melintang datar. Garis itu bernama ....
 
 **Pilihan jawaban:**
 - vertikal
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-SBD-B01-M01-025
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Garis tegak disebut garis ...." Pilih jawaban yang benar.
+**Pertanyaan:** Untuk batang pohon yang tumbuh tegak, jenis garis awal paling cocok adalah ....
 
 **Pilihan jawaban:**
 - vertikal
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-SBD-B01-M01-026
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Pola yang berulang pada kain disebut ...." Pilih jawaban yang benar.
+**Pertanyaan:** Pada hiasan kertas, gambar bunga diulang dalam susunan teratur. Susunan berulang itu dinamakan ....
 
 **Pilihan jawaban:**
 - nada
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-SBD-B01-M01-027
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Saat menggambar pemandangan, bagian langit biasanya berada ...." Pilih jawaban yang benar.
+**Pertanyaan:** Siswa akan melukis langit dan ladang. Letak langit terhadap garis cakrawala umumnya ....
 
 **Pilihan jawaban:**
 - di dalam rumah
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-SBD-B01-M01-028
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Permukaan kapas umumnya terasa ...." Pilih jawaban yang benar.
+**Pertanyaan:** Pada karya kolase, kapas dipilih untuk memberi kesan halus dan empuk. Kesan raba yang mewakilinya adalah ....
 
 **Pilihan jawaban:**
 - tajam
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-SBD-B01-M01-029
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Garis miring disebut garis ...." Pilih jawaban yang benar.
+**Pertanyaan:** Pada denah sederhana, jalur menyerong dari satu sudut ke sudut lain disebut garis ....
 
 **Pilihan jawaban:**
 - diagonal
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-SBD-B01-M01-030
 
-**Pertanyaan:** Saat belajar seni rupa, guru bertanya: "Sikap baik saat mengamati lingkungan untuk menggambar adalah ...." Pilih jawaban yang benar.
+**Pertanyaan:** Sekelompok anak mengamati taman untuk bahan gambar. Perilaku yang mendukung kegiatan tersebut ialah ....
 
 **Pilihan jawaban:**
 - membuang sampah
@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-SBD-B01-M01-031
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Unsur seni rupa berupa jejak memanjang disebut ....
+**Pertanyaan:** Ketika pena ditarik membentuk jejak panjang pada kertas, jejak itu dikenal sebagai unsur ....
 
 **Pilihan jawaban:**
 - ruang
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-SBD-B01-M01-032
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Titik-titik yang disusun berdekatan dapat membentuk ....
+**Pertanyaan:** Beberapa titik yang terus ditambahkan berurutan dapat membentuk sebuah ....
 
 **Pilihan jawaban:**
 - suara
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-SBD-B01-M01-033
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Bentuk lingkaran termasuk bentuk ....
+**Pertanyaan:** Lingkaran di antara bentuk pada pola hias termasuk bentuk ....
 
 **Pilihan jawaban:**
 - geometris
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-SBD-B01-M01-034
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Permukaan batu yang terasa kasar menunjukkan ....
+**Pertanyaan:** Untuk membedakan gambar batu kasar dan kain halus, siswa perlu memperhatikan unsur ....
 
 **Pilihan jawaban:**
 - cerita
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-SBD-B01-M01-035
 
-**Pertanyaan:** Perhatikan situasi kegiatan seni rupa berikut. Warna merah, kuning, dan biru dalam teori warna dasar seni rupa disebut ....
+**Pertanyaan:** Siswa menyusun palet berisi merah, kuning, dan biru sebagai warna dasar cat. Istilah kelompok warna itu ialah ....
 
 **Pilihan jawaban:**
 - warna sekunder
