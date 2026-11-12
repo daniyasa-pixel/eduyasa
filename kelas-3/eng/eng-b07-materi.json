@@ -1,0 +1,22 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapter_id": "K03-ENG-B07",
+  "chapter_title": "My Class Is Behind the Office",
+  "modules": [
+    {
+      "id": "K03-ENG-B07-MOD-01",
+      "version": "MOD-01",
+      "title": "Let's learn! — Menjelaskan letak",
+      "content": "Pada unit ini kita belajar menanyakan dan menjelaskan letak benda serta ruangan di sekolah. Perhatikan posisi ruang kelas dan kantor pada gambar.\n\n![Classroom behind office](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b07-gambar-01.svg)\n\n**Kata posisi utama:**\n- **in** = di dalam\n- **on** = di atas dan menyentuh permukaan\n- **under** = di bawah\n- **beside** = di sebelah\n- **behind** = di belakang\n- **in front of** = di depan\n- **between** = di antara dua benda atau tempat\n\n**Pola bertanya:** `Where is the classroom?`\n\n**Pola menjawab:** `It is behind the office.`\n\nUntuk satu benda atau tempat, gunakan **is**. Kata **between** memakai dua acuan, misalnya `The canteen is between the library and the office.`\n\n**Contoh dialog:**\n- A: Where is the laboratory?\n- B: It is beside the parking area.\n- A: Where is the gate?\n- B: It is in front of the school.\n\n**Ayo mencoba:** Letakkan buku **on** the desk, tas **under** the chair, dan pensil **in** the pencil case. Ucapkan satu kalimat untuk setiap posisi."
+    },
+    {
+      "id": "K03-ENG-B07-MOD-02",
+      "version": "MOD-02",
+      "title": "Let's practice! — Membaca posisi pada denah",
+      "content": "Kita dapat menggunakan denah sederhana untuk menjelaskan letak. Pada gambar berikut, perpustakaan berada di sebelah kantor.\n\n![Library beside office](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b07-gambar-03.svg)\n\n**Ingat pasangan posisi:**\n- Jika kelas berada **behind** the office, kantor berada **in front of** the classroom.\n- Jika perpustakaan berada **beside** the office, kedua tempat itu berdampingan.\n- Jika kantin berada **between** the library and the office, kantin berada di tengah dua tempat.\n\n**Latihan membaca:**\n1. `The ball is under the chair.` Di mana bola? Bola berada di bawah kursi.\n2. `The book is on the desk.` Di mana buku? Buku berada di atas meja.\n3. `The ruler is between the book and the pencil case.` Benda apa yang di tengah? Penggaris.\n4. `The pencil is in the pencil case.` Di mana pensil? Pensil berada di dalam kotak pensil.\n\n**Percakapan berpasangan:**\n- Siswa A bertanya, `Where is the ...?`\n- Siswa B menjawab, `It is ...` lalu menyebutkan kata posisi dan tempat acuannya.\n- Tukar peran setelah tiga pertanyaan.\n\n**Cek pemahaman:** Kata posisi harus dibaca bersama tempat acuannya. Kalimat `It is behind` belum lengkap jika pendengar belum tahu benda atau tempat yang menjadi acuan."
+    }
+  ]
+}
