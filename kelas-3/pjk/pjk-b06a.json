@@ -1,0 +1,184 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PJK-B06",
+      "chapter_title": "Aktivitas Permainan dan Olahraga di Air",
+      "questions": [
+        {
+          "id": "K03-PJK-B06-M01-036",
+          "type": "PG",
+          "text": "Anak memakai alat bantu apung saat belajar. Apa batas keamanan penggunaan alat?",
+          "options": [
+            "alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan",
+            "jaminan boleh berenang sendirian",
+            "alat untuk memukul",
+            "pengganti guru"
+          ],
+          "answer": "alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan",
+          "discussion": "Pelampung latihan: alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b06-gambar-01.svg",
+            "alt": "Ilustrasi Pelampung latihan"
+          }
+        },
+        {
+          "id": "K03-PJK-B06-M01-037",
+          "type": "PG",
+          "text": "Gambar menunjukkan jalur basah di sekitar kolam. Cara melintas yang aman adalah ....",
+          "options": [
+            "dilewati dengan berlari",
+            "digunakan melompat tanpa izin",
+            "digunakan mendorong teman",
+            "dilewati dengan berjalan hati-hati"
+          ],
+          "answer": "dilewati dengan berjalan hati-hati",
+          "discussion": "Tepi kolam basah: dilewati dengan berjalan hati-hati.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b06-gambar-02.svg",
+            "alt": "Ilustrasi Tepi kolam basah"
+          }
+        },
+        {
+          "id": "K03-PJK-B06-M01-038",
+          "type": "PG",
+          "text": "Seorang teman terlihat meminta pertolongan dari air. Apa tindakan anak yang tepat?",
+          "options": [
+            "menertawakan",
+            "meninggalkan tanpa memberi tahu",
+            "segera memanggil guru atau penjaga kolam",
+            "langsung melompat tanpa kemampuan"
+          ],
+          "answer": "segera memanggil guru atau penjaga kolam",
+          "discussion": "Jika teman kesulitan di air: segera memanggil guru atau penjaga kolam.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b06-gambar-03.svg",
+            "alt": "Ilustrasi Jika teman kesulitan di air"
+          }
+        },
+        {
+          "id": "K03-PJK-B06-M01-039",
+          "type": "PG",
+          "text": "Papan petunjuk terlihat sebelum memasuki kolam. Bagaimana peserta menyikapinya?",
+          "options": [
+            "berlaku saat lomba saja",
+            "dipatuhi untuk keselamatan semua orang",
+            "boleh diabaikan",
+            "hanya untuk guru"
+          ],
+          "answer": "dipatuhi untuk keselamatan semua orang",
+          "discussion": "Aturan kolam renang: dipatuhi untuk keselamatan semua orang.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b06-gambar-04.svg",
+            "alt": "Ilustrasi Aturan kolam renang"
+          }
+        },
+        {
+          "id": "K03-PJK-B06-M01-040",
+          "type": "PG",
+          "text": "Guru memandu gerakan kaki dengan pegangan. Bagaimana siswa melatihnya?",
+          "options": [
+            "dilakukan dengan pegangan atau bantuan sesuai arahan",
+            "dilakukan tanpa pengawasan di kolam dalam",
+            "dilakukan di air deras",
+            "dilakukan sambil mengganggu teman"
+          ],
+          "answer": "dilakukan dengan pegangan atau bantuan sesuai arahan",
+          "discussion": "Latihan gerak kaki di air: dilakukan dengan pegangan atau bantuan sesuai arahan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b06-gambar-05.svg",
+            "alt": "Ilustrasi Latihan gerak kaki di air"
+          }
+        },
+        {
+          "id": "K03-PJK-B06-M01-041",
+          "type": "PG",
+          "text": "Siswa masuk area air saat guru mengawasi. Aturan paling penting apa?",
+          "options": [
+            "berenang sendirian",
+            "berlari di tepi licin",
+            "mendorong teman ke air",
+            "selalu mengikuti pengawasan guru atau orang dewasa yang kompeten"
+          ],
+          "answer": "selalu mengikuti pengawasan guru atau orang dewasa yang kompeten",
+          "discussion": "Keselamatan di kolam: selalu mengikuti pengawasan guru atau orang dewasa yang kompeten.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b06-gambar-06.svg",
+            "alt": "Ilustrasi Keselamatan di kolam"
+          }
+        },
+        {
+          "id": "K03-PJK-B06-M01-042",
+          "type": "PG",
+          "text": "Anak pemula dikenalkan pada air secara bertahap. Prinsip yang benar adalah ....",
+          "options": [
+            "tanpa pengawasan",
+            "dengan menahan teman",
+            "dilakukan bertahap di tempat aman dan diawasi",
+            "langsung ke kolam dalam"
+          ],
+          "answer": "dilakukan bertahap di tempat aman dan diawasi",
+          "discussion": "Pengenalan air: dilakukan bertahap di tempat aman dan diawasi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b06-gambar-07.svg",
+            "alt": "Ilustrasi Pengenalan air"
+          }
+        },
+        {
+          "id": "K03-PJK-B06-M01-043",
+          "type": "PG",
+          "text": "Siswa berada di kolam dangkal bersama pengawas. Bagaimana berjalan di air dengan aman?",
+          "options": [
+            "dilakukan sendirian di sungai",
+            "dilakukan sesuai arahan dan kedalaman aman",
+            "dilakukan di air deras",
+            "dilakukan tanpa melihat dasar"
+          ],
+          "answer": "dilakukan sesuai arahan dan kedalaman aman",
+          "discussion": "Berjalan di air dangkal: dilakukan sesuai arahan dan kedalaman aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b06-gambar-08.svg",
+            "alt": "Ilustrasi Berjalan di air dangkal"
+          }
+        },
+        {
+          "id": "K03-PJK-B06-M01-044",
+          "type": "PG",
+          "text": "Guru memberi instruksi latihan napas sederhana. Cara melakukannya adalah ....",
+          "options": [
+            "dilatih perlahan sesuai instruksi",
+            "dilakukan dengan panik",
+            "dilakukan tanpa bernapas lama",
+            "dilakukan di air dalam sendirian"
+          ],
+          "answer": "dilatih perlahan sesuai instruksi",
+          "discussion": "Mengembuskan napas ke air: dilatih perlahan sesuai instruksi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b06-gambar-09.svg",
+            "alt": "Ilustrasi Mengembuskan napas ke air"
+          }
+        },
+        {
+          "id": "K03-PJK-B06-M01-045",
+          "type": "PG",
+          "text": "Tubuh berada dekat permukaan air dengan alat bantu bila perlu. Penjelasan yang sesuai ialah ....",
+          "options": [
+            "menyelam tanpa batas",
+            "berlari di tepi kolam",
+            "melempar batu",
+            "menjaga posisi tubuh di permukaan air dengan bantuan bila perlu"
+          ],
+          "answer": "menjaga posisi tubuh di permukaan air dengan bantuan bila perlu",
+          "discussion": "Mengapung: menjaga posisi tubuh di permukaan air dengan bantuan bila perlu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b06-gambar-10.svg",
+            "alt": "Ilustrasi Mengapung"
+          }
+        }
+      ]
+    }
+  ]
+}
