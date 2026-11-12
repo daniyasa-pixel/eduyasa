@@ -1,0 +1,664 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B02",
+      "chapter_title": "Dahulu, Kini, dan Nanti",
+      "questions": [
+        {
+          "id": "K03-IPAS-B02-M01-001",
+          "type": "PG",
+          "text": "Dina ingin mengetahui permainan yang pernah dimainkan bibinya saat kecil. Sumber langsung yang sesuai ialah ...",
+          "options": [
+            "Bibi yang mengalami masa itu",
+            "Dina yang menebak dari mainannya sendiri",
+            "Teman yang belum pernah bertemu bibi",
+            "Penonton yang hanya membaca judul cerita"
+          ],
+          "answer": "Bibi yang mengalami masa itu",
+          "discussion": "Orang yang mengalami peristiwa dapat memberi kesaksian langsung, meskipun keterangannya tetap dapat dibandingkan dengan sumber lain."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-002",
+          "type": "PG",
+          "text": "Dalam wawancara, orang yang memberikan keterangan berdasarkan pengetahuannya disebut ...",
+          "options": [
+            "Pewawancara",
+            "Narasumber",
+            "Penyunting",
+            "Penonton"
+          ],
+          "answer": "Narasumber",
+          "discussion": "Narasumber menyampaikan informasi; pewawancara mengajukan pertanyaan, sedangkan penyunting merapikan hasil tulisan."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-003",
+          "type": "PG",
+          "text": "Sebelum merekam cerita seorang tetangga, apa yang perlu dilakukan?",
+          "options": [
+            "Menyalakan perekam diam-diam agar ceritanya alami",
+            "Mengirim rekaman ke semua teman sebelum bertanya",
+            "Menjelaskan tujuan dan meminta izin merekam",
+            "Mengubah jawaban agar sesuai perkiraan sendiri"
+          ],
+          "answer": "Menjelaskan tujuan dan meminta izin merekam",
+          "discussion": "Izin menghormati narasumber dan memastikan ia mengetahui penggunaan rekamannya."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-004",
+          "type": "PG",
+          "text": "Dalam cerita keluarga, dulu Paman berjalan kaki ke sekolah dan kini bersepeda ke tempat kerja. Perubahan yang jelas disebut ialah ...",
+          "options": [
+            "Semua jalan di daerah itu",
+            "Cara semua keluarga bekerja",
+            "Tempat sekolah seluruh warga",
+            "Cara bepergian Paman"
+          ],
+          "answer": "Cara bepergian Paman",
+          "discussion": "Cerita menyebut perubahan kegiatan satu orang; tidak menyediakan bukti tentang semua warga atau semua jalan."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-005",
+          "type": "PG",
+          "text": "Bus dan sepeda sama-sama dapat digunakan untuk ...",
+          "options": [
+            "Memindahkan orang dari satu tempat ke tempat lain",
+            "Merekam percakapan keluarga",
+            "Menunjukkan hari dalam satu bulan",
+            "Menyimpan foto dalam album"
+          ],
+          "answer": "Memindahkan orang dari satu tempat ke tempat lain",
+          "discussion": "Keduanya sarana transportasi meskipun bentuk, sumber tenaga, dan kapasitasnya berbeda."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-006",
+          "type": "PG",
+          "text": "Keluarga dahulu bertukar kabar melalui surat, kini kadang memakai panggilan video. Fungsi yang tetap sama ialah ...",
+          "options": [
+            "Mengangkut barang antarkota",
+            "Menyampaikan kabar kepada orang lain",
+            "Menggantikan semua pertemuan keluarga",
+            "Menentukan umur setiap anggota keluarga"
+          ],
+          "answer": "Menyampaikan kabar kepada orang lain",
+          "discussion": "Alat dan cara komunikasi dapat berubah, sementara tujuannya tetap saling menyampaikan informasi."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-007",
+          "type": "PG",
+          "text": "Nina mengingat pengalaman menyenangkan saat pertama kali berkunjung ke museum. Itu merupakan ...",
+          "options": [
+            "Rencana yang belum dilakukan",
+            "Jadwal kunjungan besok",
+            "Kenangan tentang masa lalu",
+            "Prediksi tentang tahun depan"
+          ],
+          "answer": "Kenangan tentang masa lalu",
+          "discussion": "Kenangan merujuk pada pengalaman yang sudah terjadi dan masih diingat, bukan kegiatan yang baru direncanakan."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-008",
+          "type": "PG",
+          "text": "Catatan Nara menyebut lahir, lalu masuk TK, kemudian masuk SD. Bagaimana urutan catatan itu ditulis pada garis waktu?",
+          "options": [
+            "SD → lahir → TK",
+            "TK → SD → lahir",
+            "SD → TK → lahir",
+            "Lahir → TK → SD"
+          ],
+          "answer": "Lahir → TK → SD",
+          "discussion": "Untuk riwayat Nara yang diberikan, kelahiran terjadi sebelum ia masuk TK dan SD; tidak berarti semua anak mempunyai riwayat sekolah yang sama."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-009",
+          "type": "PG",
+          "text": "Kelas akan mewawancarai penjaga sekolah pekan depan. Persiapan yang paling membantu ialah ...",
+          "options": [
+            "Membagi tugas dan menyiapkan pertanyaan",
+            "Menulis jawaban sebelum wawancara",
+            "Memilih kesimpulan sebelum mendengar cerita",
+            "Menyimpan semua pertanyaan sampai kegiatan selesai"
+          ],
+          "answer": "Membagi tugas dan menyiapkan pertanyaan",
+          "discussion": "Pembagian tugas dan pertanyaan membantu wawancara terarah; jawaban harus diperoleh dari sumber, bukan dikarang sebelumnya."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-010",
+          "type": "PG",
+          "text": "Sebuah foto keluarga lama disimpan dalam album. Cara merawatnya yang sesuai ialah ...",
+          "options": [
+            "Menempelkan foto di tempat terkena hujan",
+            "Menaruh album di tempat kering dan mengambilnya dengan hati-hati",
+            "Melipat foto agar mudah masuk saku",
+            "Menggosok permukaan foto dengan benda kasar"
+          ],
+          "answer": "Menaruh album di tempat kering dan mengambilnya dengan hati-hati",
+          "discussion": "Tempat kering dan penanganan hati-hati membantu menjaga foto sebagai sumber cerita keluarga."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-011",
+          "type": "PG",
+          "text": "Lila hendak membandingkan lingkungan sekolah dahulu dan sekarang. Pasangan sumber paling berguna ialah ...",
+          "options": [
+            "Dua foto baru dari kota yang berbeda",
+            "Daftar harga makanan hari ini",
+            "Foto lama dan foto baru dari lokasi yang sama",
+            "Foto lama tanpa keterangan tempat dan foto acak"
+          ],
+          "answer": "Foto lama dan foto baru dari lokasi yang sama",
+          "discussion": "Lokasi yang sama membantu menilai perubahan, sedangkan lokasi berbeda dapat menunjukkan perbedaan tempat saja."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-012",
+          "type": "PG",
+          "text": "Kemarin kelas mengunjungi museum. Dilihat dari hari ini, kunjungan itu termasuk ...",
+          "options": [
+            "Masa kini",
+            "Masa depan",
+            "Rencana yang belum dimulai",
+            "Masa lalu"
+          ],
+          "answer": "Masa lalu",
+          "discussion": "Kegiatan kemarin sudah berlangsung sehingga termasuk masa lalu meskipun belum lama terjadi."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-013",
+          "type": "PG",
+          "text": "Sari sedang menulis laporan sekarang. Bagian kalimat mana yang menunjukkan masa kini?",
+          "options": [
+            "Sedang menulis sekarang",
+            "Akan mengunjungi besok",
+            "Pernah berkunjung dahulu",
+            "Sudah selesai kemarin"
+          ],
+          "answer": "Sedang menulis sekarang",
+          "discussion": "Kata sedang dan sekarang menunjukkan kegiatan yang berlangsung pada saat ini."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-014",
+          "type": "PG",
+          "text": "Keluarga berencana berkunjung akhir pekan depan. Pernyataan yang tepat ialah ...",
+          "options": [
+            "Kunjungan pasti sudah selesai",
+            "Kunjungan itu masih direncanakan untuk masa depan",
+            "Semua rencana pasti terlaksana tanpa perubahan",
+            "Kunjungan merupakan bukti kegiatan masa lalu"
+          ],
+          "answer": "Kunjungan itu masih direncanakan untuk masa depan",
+          "discussion": "Rencana menyangkut waktu yang belum terjadi dan dapat disesuaikan bila keadaan berubah."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-015",
+          "type": "PG",
+          "text": "Untuk memeriksa tahun pembangunan gedung sekolah, sumber yang paling sesuai ialah ...",
+          "options": [
+            "Warna cat gedung saat ini",
+            "Jumlah tanaman di halaman",
+            "Catatan pembangunan sekolah dan keterangan pihak yang mengetahuinya",
+            "Nama makanan yang dijual di kantin"
+          ],
+          "answer": "Catatan pembangunan sekolah dan keterangan pihak yang mengetahuinya",
+          "discussion": "Catatan dan keterangan yang terkait pembangunan dapat diperiksa; warna atau jumlah tanaman tidak membuktikan tahun pembangunan."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-016",
+          "type": "PG",
+          "text": "Dua foto jalan diambil pada tahun berbeda. Informasi mana dapat dibandingkan dari foto saja?",
+          "options": [
+            "Bau makanan saat foto diambil",
+            "Suara kendaraan ketika itu",
+            "Perasaan semua warga yang lewat",
+            "Bangunan dan permukaan jalan yang terlihat"
+          ],
+          "answer": "Bangunan dan permukaan jalan yang terlihat",
+          "discussion": "Foto memberikan informasi visual, tetapi tidak langsung merekam bau, suara, atau perasaan semua orang."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-017",
+          "type": "PG",
+          "text": "Pertanyaan mana mengundang cerita tentang perubahan kebiasaan warga?",
+          "options": [
+            "Bagaimana warga mengadakan kerja bakti ketika Ibu masih kecil?",
+            "Apakah jawaban Ibu harus sama dengan perkiraan saya?",
+            "Mengapa semua alat lama pasti buruk?",
+            "Ibu setuju bahwa semua keluarga selalu sama, bukan?"
+          ],
+          "answer": "Bagaimana warga mengadakan kerja bakti ketika Ibu masih kecil?",
+          "discussion": "Pertanyaan pertama terbuka dan terkait pengalaman; pilihan lain memaksa jawaban atau mengandung anggapan yang belum terbukti."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-018",
+          "type": "PG",
+          "text": "Dua narasumber mengingat tahun peristiwa secara berbeda. Tindakan paling teliti ialah ...",
+          "options": [
+            "Memilih narasumber yang berbicara paling keras",
+            "Membandingkan keterangannya dengan catatan lain",
+            "Menganggap keduanya sengaja berbohong",
+            "Mengganti salah satu jawaban tanpa memberi tahu"
+          ],
+          "answer": "Membandingkan keterangannya dengan catatan lain",
+          "discussion": "Ingatan dapat berbeda; dokumen atau sumber tambahan membantu memeriksa waktunya tanpa langsung menuduh."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-019",
+          "type": "PG",
+          "text": "Kalender digunakan untuk merencanakan kunjungan. Informasi utama yang diberikannya ialah ...",
+          "options": [
+            "Nama semua peserta kunjungan",
+            "Tujuan setiap keluarga bepergian",
+            "Hubungan hari dan tanggal",
+            "Cerita lengkap peristiwa di museum"
+          ],
+          "answer": "Hubungan hari dan tanggal",
+          "discussion": "Kalender menunjukkan penanggalan; nama peserta dan cerita kegiatan perlu dicatat pada sumber lain."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-020",
+          "type": "PG",
+          "text": "Surat lama mudah robek. Apa yang sebaiknya dilakukan anak saat ingin membacanya?",
+          "options": [
+            "Menarik lipatan surat dengan kuat",
+            "Mencuci tulisan agar tampak baru",
+            "Membuang bagian yang sulit dibaca",
+            "Meminta orang dewasa membantu membuka dan menyimpannya"
+          ],
+          "answer": "Meminta orang dewasa membantu membuka dan menyimpannya",
+          "discussion": "Bantuan dan penanganan hati-hati menjaga surat agar tidak semakin rusak serta tetap dapat dipelajari."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-021",
+          "type": "PG",
+          "text": "Saat wawancara, narasumber belum selesai berbicara. Apa sikap yang membantu memperoleh cerita utuh?",
+          "options": [
+            "Mendengarkan hingga selesai lalu bertanya",
+            "Memotong setiap kalimat untuk menebak jawabannya",
+            "Mengganti ceritanya dengan pengalaman sendiri",
+            "Meminta ia hanya menyebut hal yang kita sukai"
+          ],
+          "answer": "Mendengarkan hingga selesai lalu bertanya",
+          "discussion": "Mendengarkan memberi kesempatan sumber menjelaskan urutan dan maksud cerita sebelum pertanyaan lanjutan diajukan."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-022",
+          "type": "PG",
+          "text": "Narasumber menyebut kata yang belum dipahami. Tanggapan yang tepat ialah ...",
+          "options": [
+            "Menuliskan arti tebakan sebagai fakta",
+            "Meminta penjelasan arti kata dengan sopan",
+            "Menghapus seluruh wawancara",
+            "Menganggap kata itu tidak penting sebelum memahaminya"
+          ],
+          "answer": "Meminta penjelasan arti kata dengan sopan",
+          "discussion": "Pertanyaan lanjutan membantu memastikan catatan sesuai maksud narasumber dan menghindari salah tafsir."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-023",
+          "type": "PG",
+          "text": "Apa yang sebaiknya dicatat bersama cerita wawancara?",
+          "options": [
+            "Hanya nama pewawancara tanpa isi cerita",
+            "Kesimpulan yang dibuat sebelum wawancara",
+            "Siapa sumbernya dan kapan wawancara dilakukan",
+            "Pendapat teman yang tidak hadir saja"
+          ],
+          "answer": "Siapa sumbernya dan kapan wawancara dilakukan",
+          "discussion": "Identitas sumber yang relevan dan waktu wawancara membantu menelusuri asal informasi; bukan berarti semua data pribadi perlu disebarkan."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-024",
+          "type": "PG",
+          "text": "Dua foto memperlihatkan pasar yang sama. Foto lama menunjukkan atap daun, foto baru atap genting. Kesimpulan yang didukung ialah ...",
+          "options": [
+            "Semua pedagang lama telah pindah",
+            "Harga semua barang pasti naik",
+            "Tidak ada lagi kegiatan jual beli",
+            "Bahan atap yang tampak berbeda"
+          ],
+          "answer": "Bahan atap yang tampak berbeda",
+          "discussion": "Perubahan bahan atap terlihat pada foto; perpindahan pedagang dan harga memerlukan informasi lain."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-025",
+          "type": "PG",
+          "text": "Apakah keberadaan delman dan bus dalam satu daerah berarti delman pasti tidak dipakai lagi?",
+          "options": [
+            "Tidak, alat lama dan baru dapat digunakan bersamaan",
+            "Ya, setiap alat baru langsung menghapus semua alat lama",
+            "Ya, semua warga selalu memilih alat yang sama",
+            "Ya, usia alat menentukan satu-satunya pilihan warga"
+          ],
+          "answer": "Tidak, alat lama dan baru dapat digunakan bersamaan",
+          "discussion": "Perubahan tidak selalu menggantikan seluruh kebiasaan; penggunaan alat bergantung kebutuhan dan keadaan daerah."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-026",
+          "type": "PG",
+          "text": "Surat dan panggilan video mempunyai perbedaan. Mana yang memerlukan jaringan agar percakapan video jarak jauh berlangsung?",
+          "options": [
+            "Surat tulisan tangan yang dikirim biasa",
+            "Panggilan video",
+            "Foto cetak yang disimpan di album",
+            "Kartu ucapan yang diberikan langsung"
+          ],
+          "answer": "Panggilan video",
+          "discussion": "Panggilan video melalui internet membutuhkan jaringan; benda cetak yang dibaca langsung tidak memerlukan koneksi internet."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-027",
+          "type": "PG",
+          "text": "Mengapa ingatan seseorang sebaiknya tidak menjadi satu-satunya sumber tanggal peristiwa lama?",
+          "options": [
+            "Semua cerita lisan pasti dibuat-buat",
+            "Dokumen selalu bebas dari kesalahan",
+            "Orang dapat mengingat pengalaman tetapi keliru pada tanggalnya",
+            "Orang yang lebih tua tidak boleh diwawancarai"
+          ],
+          "answer": "Orang dapat mengingat pengalaman tetapi keliru pada tanggalnya",
+          "discussion": "Ingatan tetap berguna, tetapi tanggalnya dapat diperiksa melalui sumber tambahan; dokumen juga perlu diperhatikan asalnya."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-028",
+          "type": "PG",
+          "text": "Garis waktu membantu pembaca memahami ...",
+          "options": [
+            "Tempat semua bangunan tanpa keterangan",
+            "Pendapat yang paling disukai penulis",
+            "Tinggi badan semua pelaku cerita",
+            "Peristiwa mana terjadi lebih awal atau lebih akhir"
+          ],
+          "answer": "Peristiwa mana terjadi lebih awal atau lebih akhir",
+          "discussion": "Penempatan menurut waktu memperlihatkan urutan peristiwa; informasi tempat atau ciri tubuh tidak otomatis diketahui."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-029",
+          "type": "PG",
+          "text": "Apa perbedaan rencana kunjungan dengan laporan kunjungan yang sudah terjadi?",
+          "options": [
+            "Rencana memuat persiapan, laporan mencatat pelaksanaan",
+            "Keduanya selalu ditulis sesudah kegiatan",
+            "Laporan harus berisi kejadian yang dibayangkan",
+            "Rencana membuktikan seluruh kegiatan pasti terlaksana"
+          ],
+          "answer": "Rencana memuat persiapan, laporan mencatat pelaksanaan",
+          "discussion": "Rencana membahas kegiatan yang akan dilakukan; laporan disusun berdasarkan kejadian saat pelaksanaan."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-030",
+          "type": "PG",
+          "text": "Mengapa alat rumah tangga lama tetap dapat disimpan di museum?",
+          "options": [
+            "Karena semua benda lama pasti lebih nyaman dipakai",
+            "Sebagai bukti cara hidup atau teknologi pada masa tertentu",
+            "Karena alat baru tidak mempunyai manfaat",
+            "Agar semua pengunjung wajib memakainya sehari-hari"
+          ],
+          "answer": "Sebagai bukti cara hidup atau teknologi pada masa tertentu",
+          "discussion": "Benda lama dapat menunjukkan cara kerja dan kehidupan masa lalu, tanpa berarti semua alat lama harus dipakai kembali."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-031",
+          "type": "PG",
+          "text": "Nama suatu kampung mempunyai beberapa cerita asal-usul. Apa yang tepat ditulis siswa?",
+          "options": [
+            "Satu versi pasti benar hanya karena paling menarik",
+            "Semua versi harus digabung tanpa keterangan",
+            "Ada beberapa versi cerita dan sumbernya perlu disebutkan",
+            "Nama tempat dapat dibuktikan hanya dari warna papan"
+          ],
+          "answer": "Ada beberapa versi cerita dan sumbernya perlu disebutkan",
+          "discussion": "Menyebut versi dan sumber menjaga kejujuran ketika bukti belum cukup untuk menetapkan satu kisah sebagai kepastian."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-032",
+          "type": "PG",
+          "text": "Foto memperlihatkan keluarga berkumpul di halaman. Informasi mana memerlukan sumber tambahan?",
+          "options": [
+            "Adanya orang di halaman",
+            "Bentuk benda yang tampak jelas",
+            "Posisi pohon yang terlihat",
+            "Alasan keluarga itu berkumpul"
+          ],
+          "answer": "Alasan keluarga itu berkumpul",
+          "discussion": "Alasan berkumpul tidak selalu tampak pada foto; narasumber atau catatan dapat memberi penjelasan."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-033",
+          "type": "PG",
+          "text": "Cerita keluarga teman berbeda dengan cerita keluargamu. Sikap yang tepat ialah ...",
+          "options": [
+            "Mendengarkan tanpa menganggap keluarganya lebih rendah",
+            "Memaksa ceritanya mengikuti keluargamu",
+            "Mengejek karena kebiasaannya berbeda",
+            "Mengganti ceritanya saat ditulis agar sama"
+          ],
+          "answer": "Mendengarkan tanpa menganggap keluarganya lebih rendah",
+          "discussion": "Setiap keluarga mempunyai pengalaman dan kebiasaan berbeda yang patut dihargai, selama tidak merugikan orang lain."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-034",
+          "type": "PG",
+          "text": "Saat menulis rencana, guru meminta membedakan keinginan dan kepastian. Kalimat yang sesuai ialah ...",
+          "options": [
+            "Kami sudah berkunjung, padahal belum berangkat.",
+            "Kami berencana mengunjungi museum minggu depan.",
+            "Semua peserta pasti hadir tanpa pengecekan.",
+            "Kegiatan tidak mungkin berubah dalam keadaan apa pun."
+          ],
+          "answer": "Kami berencana mengunjungi museum minggu depan.",
+          "discussion": "Kata berencana menunjukkan niat untuk masa depan, bukan klaim bahwa kejadian telah berlangsung atau pasti terjadi."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-035",
+          "type": "PG",
+          "text": "Dalam album, foto tidak mempunyai keterangan waktu. Apa langkah yang membantu menelusurinya?",
+          "options": [
+            "Memberi tahun sembarang agar album lengkap",
+            "Menentukan tahun hanya dari ukuran foto",
+            "Menanyakan kepada orang yang mengetahui foto tersebut",
+            "Menganggap semua foto tanpa tanggal diambil pada hari yang sama"
+          ],
+          "answer": "Menanyakan kepada orang yang mengetahui foto tersebut",
+          "discussion": "Orang yang mengenal peristiwa dapat membantu memberi petunjuk waktu yang kemudian dapat dibandingkan dengan sumber lain."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-036",
+          "type": "PG",
+          "text": "Mengapa mencatat perubahan kebiasaan keluarga penting bagi sejarah lingkungan?",
+          "options": [
+            "Satu keluarga selalu mewakili semua kebiasaan warga",
+            "Cerita keluarga menggantikan semua sumber lainnya",
+            "Hanya keluarga terkenal yang mempunyai sejarah",
+            "Pengalaman keluarga dapat memberi petunjuk kehidupan masyarakat pada masa tertentu"
+          ],
+          "answer": "Pengalaman keluarga dapat memberi petunjuk kehidupan masyarakat pada masa tertentu",
+          "discussion": "Cerita keluarga membantu memahami lingkungan, tetapi perlu dibandingkan karena pengalaman keluarga tidak selalu sama."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-037",
+          "type": "PG",
+          "text": "Apa yang perlu ditanyakan agar foto lama tidak salah diberi keterangan?",
+          "options": [
+            "Siapa yang tampak, di mana, dan peristiwa apa yang terjadi",
+            "Warna bingkai yang paling disukai saja",
+            "Harga album yang akan dibeli",
+            "Jumlah foto milik teman yang tidak terkait"
+          ],
+          "answer": "Siapa yang tampak, di mana, dan peristiwa apa yang terjadi",
+          "discussion": "Keterangan pelaku, tempat, dan peristiwa membantu menjelaskan isi foto dan mencegah cerita yang tidak didukung."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-038",
+          "type": "PG",
+          "text": "Kakek bercerita bahwa warga dahulu bergotong royong membangun jembatan. Data apa yang paling membantu memperjelas perubahan jembatan?",
+          "options": [
+            "Daftar makanan kesukaan semua cucu",
+            "Foto lama dan kondisi jembatan sekarang",
+            "Warna pakaian pewawancara",
+            "Ramalan tentang hujan tahun depan"
+          ],
+          "answer": "Foto lama dan kondisi jembatan sekarang",
+          "discussion": "Foto lama dan kondisi kini memungkinkan perbandingan bentuk atau bahan jembatan sesuai cerita yang diperiksa."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-039",
+          "type": "PG",
+          "text": "Sebuah upacara keluarga tetap dilakukan, tetapi undangannya kini dikirim melalui pesan digital. Apa yang berubah?",
+          "options": [
+            "Pasti seluruh makna upacaranya",
+            "Pasti semua anggota keluarganya",
+            "Cara menyampaikan undangan",
+            "Pasti nama daerah asalnya"
+          ],
+          "answer": "Cara menyampaikan undangan",
+          "discussion": "Cerita hanya memberikan bukti perubahan media undangan; perubahan makna atau asal-usul tidak disebutkan."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-040",
+          "type": "PG",
+          "text": "Hari ini Rabu. Dalam rencana mingguan, kegiatan pada Jumat berada ...",
+          "options": [
+            "Sebelum Selasa pada minggu yang sama",
+            "Pada hari yang sama dengan Rabu",
+            "Di antara Senin dan Selasa",
+            "Sesudah hari ini"
+          ],
+          "answer": "Sesudah hari ini",
+          "discussion": "Dalam urutan minggu yang sama, Kamis diikuti Jumat, sehingga Jumat berada setelah Rabu."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-041",
+          "type": "PG",
+          "text": "Ketika membandingkan dua foto, mengapa sudut pengambilan yang mirip membantu?",
+          "options": [
+            "Objek yang sama lebih mudah dikenali dan dibandingkan",
+            "Semua foto otomatis mempunyai tanggal yang sama",
+            "Warna lama dan baru pasti sama",
+            "Kita langsung mengetahui perasaan semua warga"
+          ],
+          "answer": "Objek yang sama lebih mudah dikenali dan dibandingkan",
+          "discussion": "Sudut serupa membantu mencocokkan letak objek; tidak membuktikan tanggal atau perasaan orang."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-042",
+          "type": "PG",
+          "text": "Apa yang sebaiknya dilakukan terhadap informasi yang belum dapat diperiksa?",
+          "options": [
+            "Menulisnya sebagai fakta agar laporan tegas",
+            "Memberi keterangan bahwa informasinya belum pasti",
+            "Menghapus nama semua sumber yang lain",
+            "Memilih versi yang paling banyak dipuji"
+          ],
+          "answer": "Memberi keterangan bahwa informasinya belum pasti",
+          "discussion": "Menandai ketidakpastian menjaga pembaca agar tidak menganggap dugaan sebagai fakta yang telah dibuktikan."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-043",
+          "type": "PG",
+          "text": "Mengapa siswa sebaiknya tidak menambahkan kejadian rekaan ke laporan sejarah keluarga?",
+          "options": [
+            "Cerita keluarga harus selalu panjang",
+            "Semua laporan harus mempunyai akhir bahagia",
+            "Pembaca dapat mengira kejadian rekaan itu benar-benar terjadi",
+            "Nama tokoh harus selalu sama"
+          ],
+          "answer": "Pembaca dapat mengira kejadian rekaan itu benar-benar terjadi",
+          "discussion": "Laporan perlu membedakan bukti, ingatan, dan cerita rekaan agar informasi tidak menyesatkan."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-044",
+          "type": "PG",
+          "text": "Guru meminta sumber lisan tentang pasar dahulu. Pilihan yang sesuai ialah ...",
+          "options": [
+            "Foto pasar tanpa rekaman suara",
+            "Denah pasar yang dicetak",
+            "Tiket parkir tanpa catatan wawancara",
+            "Cerita pedagang yang mengetahui pengalaman pasar tersebut"
+          ],
+          "answer": "Cerita pedagang yang mengetahui pengalaman pasar tersebut",
+          "discussion": "Sumber lisan berasal dari keterangan yang disampaikan melalui tuturan; foto dan denah merupakan jenis bukti lain."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-045",
+          "type": "PG",
+          "text": "Mengapa kita tidak boleh menulis alamat lengkap keluarga teman dalam laporan yang akan dibagikan umum?",
+          "options": [
+            "Karena informasi pribadi perlu dilindungi dan tidak selalu diperlukan untuk cerita",
+            "Karena semua keterangan keluarga pasti salah",
+            "Karena laporan hanya boleh berisi gambar",
+            "Karena cerita masa lalu tidak boleh ditulis"
+          ],
+          "answer": "Karena informasi pribadi perlu dilindungi dan tidak selalu diperlukan untuk cerita",
+          "discussion": "Laporan dapat membahas pengalaman dan daerah secara umum tanpa menyebarkan data pribadi yang tidak diperlukan."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-046",
+          "type": "PG",
+          "text": "Apa alasan membandingkan lebih dari satu sumber ketika mempelajari masa lalu?",
+          "options": [
+            "Membuat semua sumber harus mempunyai kata-kata sama",
+            "Memperkuat atau memperbaiki kesimpulan berdasarkan bukti",
+            "Memilih cerita yang paling panjang saja",
+            "Membuktikan narasumber termuda selalu benar"
+          ],
+          "answer": "Memperkuat atau memperbaiki kesimpulan berdasarkan bukti",
+          "discussion": "Sumber berbeda dapat saling melengkapi dan menunjukkan bagian yang perlu diperiksa kembali."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-047",
+          "type": "PG",
+          "text": "Setelah wawancara, mengapa siswa sebaiknya membacakan ringkasan kepada narasumber?",
+          "options": [
+            "Agar jawaban baru boleh dikarang",
+            "Agar pewawancara tidak perlu menyebut sumber",
+            "Agar narasumber dapat mengoreksi bagian yang salah dipahami",
+            "Agar semua cerita menjadi sama"
+          ],
+          "answer": "Agar narasumber dapat mengoreksi bagian yang salah dipahami",
+          "discussion": "Pemeriksaan ringkasan membantu memastikan tulisan sesuai maksud sumber, bukan hanya dugaan pewawancara."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-048",
+          "type": "PG",
+          "text": "Sekarang banyak orang memakai alat baru. Kesimpulan mana paling hati-hati?",
+          "options": [
+            "Semua kebiasaan lama pasti hilang",
+            "Setiap alat baru selalu cocok untuk semua orang",
+            "Semua keluarga mengalami perubahan yang sama",
+            "Sebagian cara hidup berubah, tetapi kebiasaan lama dapat tetap ada"
+          ],
+          "answer": "Sebagian cara hidup berubah, tetapi kebiasaan lama dapat tetap ada",
+          "discussion": "Perubahan dapat berbeda menurut kebutuhan dan kondisi; adanya alat baru tidak membuktikan semua kebiasaan lama hilang."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-049",
+          "type": "PG",
+          "text": "Siswa diminta menulis urutan peristiwa nyata. Apa yang perlu ditentukan dahulu?",
+          "options": [
+            "Waktu atau urutan terjadinya peristiwa",
+            "Urutan warna hiasan pada laporan",
+            "Tokoh yang paling disukai saja",
+            "Kalimat penutup sebelum memperoleh data"
+          ],
+          "answer": "Waktu atau urutan terjadinya peristiwa",
+          "discussion": "Urutan kejadian perlu diketahui agar cerita runtut, sedangkan hiasan tidak menentukan kronologi."
+        },
+        {
+          "id": "K03-IPAS-B02-M01-050",
+          "type": "PG",
+          "text": "Dalam suatu cerita, warga tetap bertukar makanan saat hari perayaan. Apa yang dapat menjadi contoh kesinambungan budaya?",
+          "options": [
+            "Warna sampul buku catatan siswa",
+            "Kebiasaan berbagi yang masih dilakukan",
+            "Tanggal wawancara yang baru ditulis",
+            "Banyaknya foto yang belum diurutkan"
+          ],
+          "answer": "Kebiasaan berbagi yang masih dilakukan",
+          "discussion": "Kesinambungan berarti ada praktik atau kebiasaan yang bertahan dari waktu ke waktu dalam cerita yang diberikan."
+        }
+      ]
+    }
+  ]
+}
