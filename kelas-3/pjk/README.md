@@ -22,3 +22,7 @@ Pemeriksaan sumber setelah revisi: **360 soal, 360 ID unik, 360 stem unik, empat
 **Modul pembelajaran:** belum dibuat untuk PJOK Kelas 3; ini tetap kekurangan paket EDUYASA yang harus diselesaikan sesuai spesifikasi aplikasi, tidak boleh dianggap selesai karena bank soal diperbaiki.
 
 Catatan serah-terima dan progres lihat `../PROGRES-REVISI-1945.md` dan `../HANDOVER-KONVERSI-JSON.md`.
+
+## Checkpoint konversi JSON — 12 November 2026
+
+**Bank soal seluruh Unit 1–8 sudah dikonversi:** 16 JSON bank (`pjk-bNN.json` 35 teks + `pjk-bNNa.json` 10 bergambar per unit), 360/360 soal. Manifest `question-packs.json` dibuat. Audit JSON vs sumber Markdown langsung: 360 ID unik berurutan dan semua field/opsi/kunci/pembahasan/path+alt gambar cocok, **0 mismatch**. Keterangan historis `jangan langsung konversi JSON` pada bagian sebelumnya digantikan instruksi terbaru `../HANDOVER-KONVERSI-JSON.md`: audit **hasil JSON**, bukan konten akademik pra-konversi. **Modul PJOK belum tersedia, status NOT_AVAILABLE_IN_SOURCE**, sehingga belum dibuat berkas materi JSON. Menu belum diaktifkan untuk Kelas 3; perangkat HP/WebView belum diuji.
