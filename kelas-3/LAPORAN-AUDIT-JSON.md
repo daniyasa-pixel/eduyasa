@@ -75,3 +75,38 @@ Hasil audit kesetiaan hasil konversi dibandingkan langsung dengan Markdown sumbe
 **Total akumulatif hasil konversi dalam laporan ini:** SBD 225 soal/10 modul + PAI 300 soal/20 modul = **525 soal, 30 modul, 35 file JSON bank dan materi** (SBD 15 + PAI 20) dan dua manifest. Angka ini tidak termasuk BIN, PKN, MTK yang sudah lama berada dalam aplikasi.
 
 **Batas status:** PAI belum diaktifkan di `HTML/grade-config.js` atau menu Kelas 3; uji di HP/WebView, rendering teks Arab/RTL, dan uji praktik modul belum dilakukan. Jangan menganggap konversi JSON sama dengan integrasi atau rilis; tetap tidak perlu audit ulang isi akademik pada tahap teknis ini. Jika sumber Markdown berganti SHA, konversi ulang dan cocokkan seluruh JSON terkait.
+
+## Konversi batch 4 — Bahasa Inggris Unit 1–10 (12 November 2026)
+
+Sepuluh unit Bahasa Inggris telah dikonversi langsung dari sumber Markdown, **500 soal** dengan komposisi per unit **35 teks + 10 bergambar + 5 listening**, serta **20 modul** (MOD-01 dan MOD-02 per unit). Dibuat **40 JSON**: `eng-bNN.json` untuk teks, `eng-bNNa.json` untuk bergambar, `eng-bNNl.json` untuk listening, `eng-bNN-materi.json` untuk materi; seluruhnya berada di `kelas-3/eng/`. Manifest `kelas-3/eng/question-packs.json` memuat 10 entri bab dan masing-masing tiga bank soal, commit `21e477ed96da574ea7e6aa71415ae616bda3ecf9`.
+
+**Audit JSON setelah konversi:** seluruh 10 unit dibaca kembali dari GitHub bersama keempat file sumber Markdown masing-masing; 50 nomor 001–050 per unit tepat urut, 4 opsi tiap soal sama persis dan dalam urutan yang sama, jawaban teks penuh dan pembahasan cocok, metadata gambar `src/alt` cocok dengan pemetaan path sumber, metadata `audio` identik dengan TTS sumber (`type`, `lang`, `text`, `rate`). Transkrip produksi **tidak dimasukkan** sebagai teks pertanyaan maupun properti produksi pada JSON; `audio.text` tetap disimpan untuk pembaca TTS. Konten MOD-01 dan MOD-02 cocok setelah hanya memetakan URL gambar Markdown relatif ke GitHub raw absolut. **500 soal / 20 modul, 0 mismatch** pada pemeriksaan per-butir/per-modul, **tanpa audit ulang akademik**.
+
+| Unit | Bank soal | Jumlah | Modul | Audit |
+|---|---|---:|---:|---|
+| 01 | `eng-b01.json`, `eng-b01a.json`, `eng-b01l.json` | 50 | `eng-b01-materi.json` (2) | PASS |
+| 02 | `eng-b02.json`, `eng-b02a.json`, `eng-b02l.json` | 50 | `eng-b02-materi.json` (2) | PASS |
+| 03 | `eng-b03.json`, `eng-b03a.json`, `eng-b03l.json` | 50 | `eng-b03-materi.json` (2) | PASS |
+| 04 | `eng-b04.json`, `eng-b04a.json`, `eng-b04l.json` | 50 | `eng-b04-materi.json` (2) | PASS |
+| 05 | `eng-b05.json`, `eng-b05a.json`, `eng-b05l.json` | 50 | `eng-b05-materi.json` (2) | PASS |
+| 06 | `eng-b06.json`, `eng-b06a.json`, `eng-b06l.json` | 50 | `eng-b06-materi.json` (2) | PASS |
+| 07 | `eng-b07.json`, `eng-b07a.json`, `eng-b07l.json` | 50 | `eng-b07-materi.json` (2) | PASS |
+| 08 | `eng-b08.json`, `eng-b08a.json`, `eng-b08l.json` | 50 | `eng-b08-materi.json` (2) | PASS |
+| 09 | `eng-b09.json`, `eng-b09a.json`, `eng-b09l.json` | 50 | `eng-b09-materi.json` (2) | PASS |
+| 10 | `eng-b10.json`, `eng-b10a.json`, `eng-b10l.json` | 50 | `eng-b10-materi.json` (2) | PASS |
+
+**SHA file Markdown acuan sebelum konversi** (urut: teks, gambar, listening, materi):
+- B01: `96053270acaac362cad6b40ba06bf946225bd39a` · `13024e7e8fcd044bdd3779fbf8b32b1d57c1950d` · `339fefff8b77a839e5cd8a8fae9b29f5d362ead0` · `9c8d93a7f62576e637fc490540c995d089222e68`
+- B02: `069e07e15bd6f31d87a7d2fc713a11cf8a181f05` · `91ac0102dbb2f22bb8b7c1b3b463935665991d3e` · `0e8cd6e727795bc780557ade71e47be9eb7b6e9e` · `8cb0cd20a2c9f7aed726dd0bea55be819476b5a8`
+- B03: `d44251cf3528cce8ac4db2aa23cacdb54f566394` · `841e731d3886a0f55f4f62e1c314faf627fef91b` · `8a84d4edc16dbd59fafb3927c90a0bbb8f5d1383` · `442d0bf1688ab3ec136b1443364876c7d7290646`
+- B04: `ad137287778aee715e46885c754759d1d6132c29` · `5b7acf79258aac1e828374e0a7b9dc1e0c60db64` · `29e672e0adca6560dea73e677a3bfab7c7031858` · `392062286e38b4d345807f2efd28265a6e635991`
+- B05: `335add63e4749807c14dc5031c439b86112867c8` · `59f9129a40523b7bb17bddb41f02d3fce5a8326b` · `be654e871822514915b13746788d1f1fa3b84961` · `ec06227857e668dcaafa9ead661a0d129efe5470`
+- B06: `58c5e2d2795d7177f08f81fa9e9a541dee314f65` · `5b7ab7a8f023065b20896a355f70f8f563049108` · `af5b7c9c14432830133ca012efa3ded5a561635c` · `85b271ba720341e7e3630a27258431b91e8c1f1a`
+- B07: `b8472a23bed71e8f72aae0a24d905ef9947e18c0` · `53f15f9f7ea04d10136ffd70f3814260b9cb4ffb` · `e7676a59f6f9221cfb61e401c81e57695304e45f` · `3b5f62be1ffb82c030e3b9694875f8b7a18352c8`
+- B08: `3d40b88bc962ee42144d2c876f957d0b725b64e9` · `951b635687b475399f0bc2ce016f2d8fc9752414` · `11ece08a240c2ceeb38f56884545625a73f22ad6` · `7ecb43dbd664f044e1e5336b0db80892685802a6`
+- B09: `536bc5bf8a894c6397509974eebb7854a4eb6419` · `240bc615299b9435be75062165ee23a1d550518a` · `309740997c38f7c76f8debd29587ebc56ee44a8e` · `82e56ad9400b9c09da14b46d79dc7ad24575c321`
+- B10: `2cc0270dcaf1ba1cc060baefa284406abbe947b3` · `c962285e0e5b2f60488a3d5f9b88d8585f1e30b4` · `cfba22ea44594f780b5fbe1bc4eb0d4cc4832a9e` · `c016f495cfc84f92966509c3758cb01b3b599a73`
+
+**Batas pengujian:** Keberadaan/akses semua SVG melalui browser dan kualitas pelafalan TTS belum diuji. Nama bank listening `eng-bNNl.json` perlu disinkronkan dengan loader frontend saat aktivasi karena ini nama keluaran tambahan. `HTML/grade-config.js` belum mengaktifkan Inggris di menu Kelas 3. Modul memiliki URL gambar absolut dari sumber relatif; tidak ada perubahan narasi. Jangan menganggap paket siap rilis HP sebelum uji WebView dan manifest.
+
+**Akumulasi batch baru (SBD + PAI + ENG):** **1.025 soal** dan **50 modul** dikonversi, dengan **75 JSON bank/materi** (15 + 20 + 40) dan tiga manifest. Sisa dari target 1.945 pada lima mapel: **920 soal**, yaitu IPAS 560 dan PJOK 360. Angka tidak menghitung mata pelajaran Kelas 3 (BIN, PKN, MTK) yang sudah punya JSON lebih dahulu.
