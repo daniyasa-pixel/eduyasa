@@ -1,0 +1,404 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PAI-B03",
+      "chapter_title": "Perilaku Terpuji Adalah Kepribadianku",
+      "questions": [
+        {
+          "id": "K03-PAI-B03-M01-001",
+          "type": "PG",
+          "text": "Ibu menata meja saat Adi selesai makan. Apa yang dapat Adi lakukan untuk meringankan pekerjaannya?",
+          "options": [
+            "Menaruh piring di kursi kosong",
+            "Menyuruh adik membereskannya",
+            "Membawa piringnya ke tempat cuci",
+            "Memindahkan piring ke meja lain"
+          ],
+          "answer": "Membawa piringnya ke tempat cuci",
+          "discussion": "Membereskan piring sendiri mengurangi pekerjaan ibu."
+        },
+        {
+          "id": "K03-PAI-B03-M01-002",
+          "type": "PG",
+          "text": "Rara sedang bermain ketika ayah memintanya menutup pintu. Bagaimana ia menjawab dengan santun?",
+          "options": [
+            "Baik, Yah. Rara tutup sekarang.",
+            "Ayah saja, Rara lagi main.",
+            "Sebentar! Jangan panggil terus.",
+            "Nanti juga ada yang menutup."
+          ],
+          "answer": "Baik, Yah. Rara tutup sekarang.",
+          "discussion": "Jawaban Rara menghargai permintaan ayah dan disertai tindakan."
+        },
+        {
+          "id": "K03-PAI-B03-M01-003",
+          "type": "PG",
+          "text": "Ibu sedang beristirahat karena kurang sehat. Nisa ingin membantu. Apa yang bisa ia lakukan?",
+          "options": [
+            "Menentukan sendiri obat yang harus diminum ibu",
+            "Membangunkan ibu untuk memilih permainan",
+            "Meminta ibu segera menyelesaikan pekerjaan rumah",
+            "Menawarkan mengambilkan air dan menjaga suasana tenang"
+          ],
+          "answer": "Menawarkan mengambilkan air dan menjaga suasana tenang",
+          "discussion": "Bantuan sederhana dan suasana tenang memudahkan ibu beristirahat. Urusan obat perlu ditangani orang dewasa."
+        },
+        {
+          "id": "K03-PAI-B03-M01-004",
+          "type": "PG",
+          "text": "Fikri tidak sengaja menumpahkan air setelah diperingatkan ayah. Bagaimana ia menunjukkan tanggung jawab?",
+          "options": [
+            "Mengelap sedikit lalu menyalahkan adik",
+            "Mengakui kesalahan, meminta maaf, dan mengelap tumpahan",
+            "Mengganti topik agar ayah lupa",
+            "Meminta maaf dan meninggalkan lantai basah"
+          ],
+          "answer": "Mengakui kesalahan, meminta maaf, dan mengelap tumpahan",
+          "discussion": "Mengakui kesalahan dan mengelap tumpahan membantu memperbaiki akibatnya."
+        },
+        {
+          "id": "K03-PAI-B03-M01-005",
+          "type": "PG",
+          "text": "Manakah contoh berbakti yang bisa Rina lakukan ketika sedang jauh dari orang tuanya?",
+          "options": [
+            "Mendoakan kebaikan bagi mereka dan menanyakan kabar",
+            "Menghubungi mereka hanya untuk meminta uang",
+            "Menunggu mereka menghubungi lebih dulu setiap kali",
+            "Mengabaikan pesan yang sudah ia baca"
+          ],
+          "answer": "Mendoakan kebaikan bagi mereka dan menanyakan kabar",
+          "discussion": "Doa dan perhatian dapat diberikan dari jauh."
+        },
+        {
+          "id": "K03-PAI-B03-M01-006",
+          "type": "PG",
+          "text": "Ayah meminta Ilham berhenti bermain karena sudah waktunya belajar. Ilham ingin menyimpan mainannya dulu. Kalimat mana yang sopan?",
+          "options": [
+            "Pokoknya Ilham masih mau main.",
+            "Baik, Yah. Boleh Ilham rapikan mainannya dulu?",
+            "Ayah selalu mengganggu permainan Ilham.",
+            "Nanti saja, Ilham yang menentukan semuanya."
+          ],
+          "answer": "Baik, Yah. Boleh Ilham rapikan mainannya dulu?",
+          "discussion": "Ilham menanggapi ayah dengan baik dan menyampaikan maksudnya secara jelas."
+        },
+        {
+          "id": "K03-PAI-B03-M01-007",
+          "type": "PG",
+          "text": "Mila melihat nenek membawa beberapa barang ringan. Bagaimana Mila bisa membantu dengan menghargai nenek?",
+          "options": [
+            "Mengambil semua barang dari tangan nenek tanpa bertanya",
+            "Meminta nenek segera meletakkan barangnya",
+            "Memanggil teman supaya melihat ia membantu",
+            "Menawarkan bantuan dan bertanya barang mana yang boleh dibawa"
+          ],
+          "answer": "Menawarkan bantuan dan bertanya barang mana yang boleh dibawa",
+          "discussion": "Menawarkan bantuan memberi kesempatan kepada nenek untuk memilih."
+        },
+        {
+          "id": "K03-PAI-B03-M01-008",
+          "type": "PG",
+          "text": "Dua anak membantu di rumah. Riko merapikan buku yang dipakainya. Dina merapikan meja sambil mengejek adiknya. Apa yang perlu diperbaiki Dina?",
+          "options": [
+            "Berhenti membantu agar tidak perlu bicara",
+            "Meminta adiknya menyelesaikan semua pekerjaan",
+            "Tetap membantu dan berbicara dengan santun",
+            "Merapikan meja hanya ketika dipuji"
+          ],
+          "answer": "Tetap membantu dan berbicara dengan santun",
+          "discussion": "Sikap baik terlihat dari bantuan dan cara memperlakukan orang lain."
+        },
+        {
+          "id": "K03-PAI-B03-M01-009",
+          "type": "PG",
+          "text": "Kakak mengajak Bayu berbohong kepada ibu. Bagaimana Bayu menolak dengan tetap sopan?",
+          "options": [
+            "Aku mau berkata jujur. Ayo kita ceritakan yang sebenarnya.",
+            "Aku ikut saja karena kamu kakakku.",
+            "Aku akan berbohong kalau kamu berjanji merahasiakannya.",
+            "Aku akan mengejekmu di depan ibu."
+          ],
+          "answer": "Aku mau berkata jujur. Ayo kita ceritakan yang sebenarnya.",
+          "discussion": "Bayu dapat menghargai kakaknya sambil tetap memilih berkata jujur."
+        },
+        {
+          "id": "K03-PAI-B03-M01-010",
+          "type": "PG",
+          "text": "Apa yang paling menunjukkan bahwa Rani menjadikan bakti sebagai kebiasaan?",
+          "options": [
+            "Ia membantu sekali saat ada tamu",
+            "Ia merapikan perlengkapannya setiap hari meski tidak diingatkan",
+            "Ia hanya membantu jika diberi hadiah",
+            "Ia menunggu dipuji sebelum menyelesaikan tugas"
+          ],
+          "answer": "Ia merapikan perlengkapannya setiap hari meski tidak diingatkan",
+          "discussion": "Kebiasaan terlihat dari tindakan baik yang dilakukan berulang kali."
+        },
+        {
+          "id": "K03-PAI-B03-M01-011",
+          "type": "PG",
+          "text": "Saat guru menjelaskan, Dito belum paham langkah kedua. Kapan ia dapat bertanya dengan tertib?",
+          "options": [
+            "Saat guru sedang menjelaskan kepada teman, dengan menyela",
+            "Saat teman menjawab, dengan berbicara lebih keras",
+            "Saat guru memberi kesempatan, setelah mengangkat tangan",
+            "Sesudah pulang, dengan mengirim pesan tanpa salam pada malam hari"
+          ],
+          "answer": "Saat guru memberi kesempatan, setelah mengangkat tangan",
+          "discussion": "Mengikuti giliran bertanya membantu Dito dan teman-temannya tetap menyimak."
+        },
+        {
+          "id": "K03-PAI-B03-M01-012",
+          "type": "PG",
+          "text": "Guru mengoreksi tulisan Sari. Sikap apa yang menunjukkan bahwa Sari menghargai bimbingan guru?",
+          "options": [
+            "Menutup catatan lalu menyalin pekerjaan teman",
+            "Menyembunyikan tulisan agar tidak diperiksa lagi",
+            "Menghapus catatan tanpa membaca isinya",
+            "Membaca catatan guru dan memperbaiki tulisannya"
+          ],
+          "answer": "Membaca catatan guru dan memperbaiki tulisannya",
+          "discussion": "Menggunakan masukan untuk belajar menunjukkan bahwa Sari menghargai bimbingan guru."
+        },
+        {
+          "id": "K03-PAI-B03-M01-013",
+          "type": "PG",
+          "text": "Arman terlambat menyerahkan tugas. Apa yang sebaiknya ia katakan kepada guru?",
+          "options": [
+            "Saya terlambat karena teman-teman juga begitu.",
+            "Maaf, Bu. Tugas saya terlambat. Boleh saya menyerahkannya sekarang?",
+            "Ibu seharusnya mengingatkan saya lagi.",
+            "Anggap saja saya sudah menyerahkannya kemarin."
+          ],
+          "answer": "Maaf, Bu. Tugas saya terlambat. Boleh saya menyerahkannya sekarang?",
+          "discussion": "Ucapan Arman mengakui kesalahan dan meminta izin memperbaikinya."
+        },
+        {
+          "id": "K03-PAI-B03-M01-014",
+          "type": "PG",
+          "text": "Lina merasa petunjuk guru berbeda dengan catatannya. Apa langkah pertama yang santun?",
+          "options": [
+            "Menanyakan bagian yang berbeda dan mendengarkan penjelasannya",
+            "Mengubah petunjuk untuk semua teman tanpa bertanya",
+            "Mengumumkan bahwa guru pasti keliru",
+            "Meminta teman mengabaikan penjelasan guru"
+          ],
+          "answer": "Menanyakan bagian yang berbeda dan mendengarkan penjelasannya",
+          "discussion": "Bertanya dengan santun membantu Lina memeriksa pemahamannya."
+        },
+        {
+          "id": "K03-PAI-B03-M01-015",
+          "type": "PG",
+          "text": "Seorang guru membawa buku untuk dibagikan. Apa tawaran bantuan yang paling tepat?",
+          "options": [
+            "Bu, bukunya saya ambil semua saja sekarang.",
+            "Bu, saya bagikan kalau boleh memilih buku dulu.",
+            "Bu, suruh teman saya saja membagikannya.",
+            "Bu, apakah saya boleh membantu membagikan buku?"
+          ],
+          "answer": "Bu, apakah saya boleh membantu membagikan buku?",
+          "discussion": "Meminta izin membantu menjaga agar pembagian buku berjalan sesuai arahan guru."
+        },
+        {
+          "id": "K03-PAI-B03-M01-016",
+          "type": "PG",
+          "text": "Guru sedang mendengarkan jawaban Andi. Rika punya jawaban berbeda. Apa yang sebaiknya Rika lakukan?",
+          "options": [
+            "Langsung mengoreksi Andi saat ia bicara",
+            "Membisikkan bahwa jawaban Andi lucu",
+            "Menunggu giliran lalu menjelaskan jawabannya",
+            "Membuat suara agar guru beralih kepadanya"
+          ],
+          "answer": "Menunggu giliran lalu menjelaskan jawabannya",
+          "discussion": "Menunggu giliran menghormati Andi dan guru."
+        },
+        {
+          "id": "K03-PAI-B03-M01-017",
+          "type": "PG",
+          "text": "Saat guru piket mengingatkan aturan antre, apa yang menunjukkan bahwa Iqbal memahami nasihatnya?",
+          "options": [
+            "Mengucapkan baik sambil tetap menyerobot",
+            "Kembali ke tempat antre dan menunggu giliran",
+            "Pindah ke antrean lain lalu menyelak",
+            "Meminta teman menahan tempat paling depan"
+          ],
+          "answer": "Kembali ke tempat antre dan menunggu giliran",
+          "discussion": "Nasihat terlihat dipahami ketika Iqbal memperbaiki tindakannya."
+        },
+        {
+          "id": "K03-PAI-B03-M01-018",
+          "type": "PG",
+          "text": "Tari ingin berterima kasih kepada guru yang membantunya membaca. Kalimat mana yang menjelaskan bantuannya dengan jelas?",
+          "options": [
+            "Terima kasih, Bu, tolong bacakan semua tugas saya.",
+            "Saya sudah bisa, Bu, jadi bimbingannya tidak penting.",
+            "Saya berterima kasih kalau nilai saya paling tinggi.",
+            "Terima kasih, Bu, sudah membimbing saya mengeja kata sulit."
+          ],
+          "answer": "Terima kasih, Bu, sudah membimbing saya mengeja kata sulit.",
+          "discussion": "Tari menyebutkan bimbingan yang ia terima dan menghargai usaha gurunya."
+        },
+        {
+          "id": "K03-PAI-B03-M01-019",
+          "type": "PG",
+          "text": "Di perpustakaan, guru meminta siswa berbicara pelan. Apa alasan mengikuti arahan itu?",
+          "options": [
+            "Supaya orang lain dapat membaca dengan tenang",
+            "Supaya siswa paling cepat bisa berbicara keras",
+            "Supaya hanya guru yang boleh membaca buku",
+            "Supaya buku dapat dipinjam tanpa dicatat"
+          ],
+          "answer": "Supaya orang lain dapat membaca dengan tenang",
+          "discussion": "Arahan guru menjaga kenyamanan semua pembaca."
+        },
+        {
+          "id": "K03-PAI-B03-M01-020",
+          "type": "PG",
+          "text": "Manakah catatan harian yang menjelaskan cara berbakti kepada guru dan manfaatnya?",
+          "options": [
+            "Aku menerima tugas lalu memasukkannya ke tas.",
+            "Aku melihat guru berjalan ke ruang kelas.",
+            "Aku memperbaiki tugas dari masukan Bu Guru. Kini aku paham letak kesalahanku.",
+            "Aku mengumpulkan tugas karena temanku sudah mengumpulkan."
+          ],
+          "answer": "Aku memperbaiki tugas dari masukan Bu Guru. Kini aku paham letak kesalahanku.",
+          "discussion": "Catatan itu menunjukkan tindakan dan hasil yang dirasakan."
+        },
+        {
+          "id": "K03-PAI-B03-M01-021",
+          "type": "PG",
+          "text": "Dua teman ingin warna berbeda untuk judul poster. Bagaimana mereka dapat menyelesaikan perbedaan dengan hormat?",
+          "options": [
+            "Mencoret warna pilihan teman",
+            "Mengikuti orang yang suaranya paling keras",
+            "Menyelesaikan poster diam-diam tanpa teman",
+            "Mendengarkan alasan masing-masing lalu memilih bersama"
+          ],
+          "answer": "Mendengarkan alasan masing-masing lalu memilih bersama",
+          "discussion": "Mendengarkan alasan memberi keduanya kesempatan menyampaikan pendapat."
+        },
+        {
+          "id": "K03-PAI-B03-M01-022",
+          "type": "PG",
+          "text": "Teman baru mengucapkan sebuah kata dengan logat yang berbeda. Apa tanggapan yang menghargainya?",
+          "options": [
+            "Menirukan logatnya agar kelompok tertawa",
+            "Menyimak maksudnya dan bertanya sopan jika belum paham",
+            "Menyuruhnya diam selama diskusi",
+            "Meminta ia mengganti logat sebelum berbicara"
+          ],
+          "answer": "Menyimak maksudnya dan bertanya sopan jika belum paham",
+          "discussion": "Kita dapat mencari kejelasan sambil tetap menghargai cara orang berbicara."
+        },
+        {
+          "id": "K03-PAI-B03-M01-023",
+          "type": "PG",
+          "text": "Ketika bermain, Hana ingin meminjam penggaris temannya. Apa yang perlu ia lakukan lebih dulu?",
+          "options": [
+            "Mengambilnya karena penggaris ada di meja",
+            "Meminta izin kepada teman lain",
+            "Meminta izin kepada pemiliknya",
+            "Menukarnya dengan penggaris sendiri tanpa bertanya"
+          ],
+          "answer": "Meminta izin kepada pemiliknya",
+          "discussion": "Meminta izin menghargai hak teman atas barangnya."
+        },
+        {
+          "id": "K03-PAI-B03-M01-024",
+          "type": "PG",
+          "text": "Seseorang bercerita bahwa ia sedih karena gambarnya rusak. Bagaimana cara menyimaknya?",
+          "options": [
+            "Mendengarkan hingga selesai lalu menanyakan bantuan yang ia inginkan",
+            "Memotong cerita untuk membandingkan gambarnya sendiri",
+            "Langsung menceritakan masalah itu kepada satu kelas",
+            "Menyuruhnya berhenti sedih agar kelompok cepat bekerja"
+          ],
+          "answer": "Mendengarkan hingga selesai lalu menanyakan bantuan yang ia inginkan",
+          "discussion": "Menyimak dan bertanya membantu kita memahami perasaan serta kebutuhan teman."
+        },
+        {
+          "id": "K03-PAI-B03-M01-025",
+          "type": "PG",
+          "text": "Teman Ica belum memahami cara mengerjakan tugas. Bantuan mana yang tetap menghargai usahanya?",
+          "options": [
+            "Mengerjakan semua soal atas namanya",
+            "Menyebut kesalahannya keras-keras di depan kelas",
+            "Menyimpan bukunya agar ia berhenti mencoba",
+            "Menjelaskan contoh lalu memberi kesempatan ia mencoba"
+          ],
+          "answer": "Menjelaskan contoh lalu memberi kesempatan ia mencoba",
+          "discussion": "Petunjuk yang diikuti kesempatan berlatih membantu teman belajar sendiri."
+        },
+        {
+          "id": "K03-PAI-B03-M01-026",
+          "type": "PG",
+          "text": "Dani berada di antrean bersama teman akrab dan teman yang belum ia kenal. Apa cara menunjukkan hormat kepada keduanya?",
+          "options": [
+            "Menyilakan teman akrab menyerobot",
+            "Meminta teman baru selalu berada di belakang",
+            "Menjaga giliran semua orang",
+            "Memberi giliran hanya kepada teman sekelas"
+          ],
+          "answer": "Menjaga giliran semua orang",
+          "discussion": "Menjaga giliran memperlakukan setiap orang dengan adil."
+        },
+        {
+          "id": "K03-PAI-B03-M01-027",
+          "type": "PG",
+          "text": "Nina menyela ketika Alia menyampaikan pendapat. Apa cara memperbaikinya saat itu juga?",
+          "options": [
+            "Berhenti bicara lalu meninggalkan kelompok",
+            "Meminta maaf dan mempersilakan Alia melanjutkan",
+            "Menyuruh Alia mengulang dengan suara lebih keras",
+            "Mengajak kelompok membahas hal lain"
+          ],
+          "answer": "Meminta maaf dan mempersilakan Alia melanjutkan",
+          "discussion": "Mengembalikan giliran memberi Alia kesempatan menyelesaikan pendapatnya."
+        },
+        {
+          "id": "K03-PAI-B03-M01-028",
+          "type": "PG",
+          "text": "Kelompok Ilham berbeda pilihan permainan. Pilihan mana yang menjaga hubungan baik untuk pertemuan berikutnya?",
+          "options": [
+            "Menyepakati giliran memilih permainan secara bergantian",
+            "Memilih permainan yang disukai ketua setiap kali",
+            "Melarang anak yang berbeda pilihan untuk ikut",
+            "Mengumumkan pilihan sebelum mendengar anggota lain"
+          ],
+          "answer": "Menyepakati giliran memilih permainan secara bergantian",
+          "discussion": "Giliran memberi setiap anggota kesempatan berpartisipasi dalam keputusan."
+        },
+        {
+          "id": "K03-PAI-B03-M01-029",
+          "type": "PG",
+          "text": "Sinta melihat dua teman mengejek nama seorang siswa. Apa tindakan yang menghormati siswa itu?",
+          "options": [
+            "Ikut tertawa agar tetap diterima kelompok",
+            "Mengulang ejekan ketika siswa itu sudah pergi",
+            "Mengajak mereka berhenti dan meminta bantuan guru bila ejekan berlanjut",
+            "Meminta siswa itu mengganti nama panggilannya"
+          ],
+          "answer": "Mengajak mereka berhenti dan meminta bantuan guru bila ejekan berlanjut",
+          "discussion": "Menghentikan ejekan menjaga martabat teman. Guru dapat membantu jika ejekan berlanjut."
+        },
+        {
+          "id": "K03-PAI-B03-M01-030",
+          "type": "PG",
+          "text": "Apa persamaan antara membantu orang tua, mengikuti arahan guru, dan mendengarkan teman?",
+          "options": [
+            "Ketiganya harus dilakukan supaya mendapat hadiah",
+            "Ketiganya menunjukkan penghargaan melalui tindakan",
+            "Ketiganya hanya penting saat ada orang yang menilai",
+            "Ketiganya berarti selalu menyetujui semua permintaan"
+          ],
+          "answer": "Ketiganya menunjukkan penghargaan melalui tindakan",
+          "discussion": "Menghargai orang dapat terlihat dari cara membantu, mengikuti arahan baik, dan memberi kesempatan bicara."
+        }
+      ]
+    }
+  ]
+}
