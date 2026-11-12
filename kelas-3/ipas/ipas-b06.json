@@ -1,0 +1,664 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B06",
+      "chapter_title": "Energi, sang Pemberi Kekuatan",
+      "questions": [
+        {
+          "id": "K03-IPAS-B06-M01-001",
+          "type": "PG",
+          "text": "Manakah pasangan yang tepat antara sumber dan bentuk energi?",
+          "options": [
+            "Matahari sebagai sumber, cahaya sebagai bentuk energi",
+            "Cahaya sebagai sumber, Matahari sebagai bentuk energi",
+            "Bunyi sebagai sumber, baterai sebagai bentuk energi",
+            "Panas sebagai sumber, makanan sebagai bentuk energi"
+          ],
+          "answer": "Matahari sebagai sumber, cahaya sebagai bentuk energi",
+          "discussion": "Matahari menyediakan energi yang sampai sebagai cahaya dan panas; nama sumber berbeda dari nama bentuk energinya."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-002",
+          "type": "PG",
+          "text": "Bola sedang menggelinding di lantai. Bentuk energi yang langsung ditunjukkan gerakan itu ialah ...",
+          "options": [
+            "Energi kimia dalam makanan",
+            "Energi gerak atau kinetik",
+            "Energi cahaya dari lampu",
+            "Energi listrik dari stopkontak"
+          ],
+          "answer": "Energi gerak atau kinetik",
+          "discussion": "Benda yang bergerak memiliki energi kinetik; bola tidak perlu memancarkan cahaya atau terhubung listrik agar bergerak."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-003",
+          "type": "PG",
+          "text": "Dua bola sama jenis dan massanya bergerak di lantai. Bola P lebih cepat daripada Q. Pernyataan yang tepat ialah ...",
+          "options": [
+            "Energi gerak Q lebih besar hanya karena lebih lambat",
+            "Keduanya tidak mempunyai energi gerak",
+            "Energi gerak P lebih besar daripada Q",
+            "Kecepatan tidak berhubungan dengan energi gerak"
+          ],
+          "answer": "Energi gerak P lebih besar daripada Q",
+          "discussion": "Untuk benda bermassa sama, gerak yang lebih cepat mempunyai energi kinetik lebih besar; syarat kesamaan massanya penting."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-004",
+          "type": "PG",
+          "text": "Mengapa membran drum dapat menghasilkan bunyi saat dipukul?",
+          "options": [
+            "Membran menciptakan cahaya untuk telinga",
+            "Drum harus selalu dipanaskan dahulu",
+            "Bunyi hanya berasal dari warna membran",
+            "Membran bergetar dan getarannya merambat ke sekitar"
+          ],
+          "answer": "Membran bergetar dan getarannya merambat ke sekitar",
+          "discussion": "Pukulan membuat membran bergetar; getaran dapat menghasilkan bunyi yang merambat melalui udara menuju pendengar."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-005",
+          "type": "PG",
+          "text": "Bunyi teman yang berbicara dapat sampai ke telinga kita di kelas karena ...",
+          "options": [
+            "Getaran bunyi merambat melalui udara",
+            "Kata-katanya berubah menjadi cahaya",
+            "Udara di kelas tidak berperan sama sekali",
+            "Bunyi hanya merambat jika ada kabel listrik"
+          ],
+          "answer": "Getaran bunyi merambat melalui udara",
+          "discussion": "Udara merupakan salah satu medium perambatan bunyi; percakapan tidak memerlukan sambungan listrik antartelinga."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-006",
+          "type": "PG",
+          "text": "Di ruang tanpa cahaya sama sekali, mengapa benda sulit dilihat?",
+          "options": [
+            "Semua benda pasti berhenti memiliki bentuk",
+            "Tidak ada cahaya dari benda yang masuk ke mata",
+            "Telinga berhenti menerima bunyi",
+            "Benda harus panas agar selalu terlihat"
+          ],
+          "answer": "Tidak ada cahaya dari benda yang masuk ke mata",
+          "discussion": "Melihat memerlukan cahaya yang masuk ke mata, biasanya setelah dipantulkan oleh benda di sekitar."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-007",
+          "type": "PG",
+          "text": "Bulan tampak terang pada malam hari. Pernyataan yang tepat ialah ...",
+          "options": [
+            "Bulan menyalakan api seperti lilin",
+            "Bulan selalu mendapat listrik dari Bumi",
+            "Bulan memantulkan cahaya Matahari",
+            "Bulan merupakan lampu buatan manusia"
+          ],
+          "answer": "Bulan memantulkan cahaya Matahari",
+          "discussion": "Bulan terlihat terang karena memantulkan cahaya Matahari, bukan menghasilkan cahaya tampak sendiri seperti lampu menyala."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-008",
+          "type": "PG",
+          "text": "Dua bentuk energi yang kita terima dari Matahari dalam kegiatan sehari-hari ialah ...",
+          "options": [
+            "Bunyi dan listrik dari kabel",
+            "Energi baterai dan bensin",
+            "Gerak roda dan bunyi drum",
+            "Cahaya dan panas"
+          ],
+          "answer": "Cahaya dan panas",
+          "discussion": "Cahaya membantu penglihatan dan tumbuhan, sedangkan panas Matahari dapat menghangatkan serta membantu pengeringan."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-009",
+          "type": "PG",
+          "text": "Teman menyebut lampu biasa menghasilkan listrik untuk rumah. Perbaikannya ialah ...",
+          "options": [
+            "Lampu menggunakan listrik dan menghasilkan cahaya serta panas",
+            "Lampu memasok seluruh listrik dari stopkontak",
+            "Lampu hanya bekerja tanpa sumber energi",
+            "Lampu selalu menyimpan bensin untuk menyala"
+          ],
+          "answer": "Lampu menggunakan listrik dan menghasilkan cahaya serta panas",
+          "discussion": "Lampu listrik adalah alat pengguna energi listrik, bukan pembangkit listrik; keluarannya terutama cahaya disertai panas."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-010",
+          "type": "PG",
+          "text": "Kipas angin sedang berputar dan terdengar suaranya. Apa yang ditunjukkan keadaan itu?",
+          "options": [
+            "Setiap alat hanya dapat mempunyai satu bentuk energi",
+            "Satu alat dapat menghasilkan lebih dari satu bentuk energi",
+            "Bunyi kipas membuktikan tidak ada gerakan",
+            "Kipas selalu membuat energi tanpa masukan"
+          ],
+          "answer": "Satu alat dapat menghasilkan lebih dari satu bentuk energi",
+          "discussion": "Kipas memakai listrik untuk gerakan baling-baling dan juga menghasilkan bunyi; satu proses dapat mempunyai beberapa keluaran."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-011",
+          "type": "PG",
+          "text": "Mengapa setrika listrik dapat membantu merapikan pakaian?",
+          "options": [
+            "Pakaian menerima energi kimia dari baterai setrika biasa",
+            "Setrika hanya menghasilkan cahaya tanpa panas",
+            "Energi listrik diubah menjadi panas pada setrika",
+            "Setrika bekerja tanpa listrik dan tanpa sumber lain"
+          ],
+          "answer": "Energi listrik diubah menjadi panas pada setrika",
+          "discussion": "Panas yang dihasilkan setrika membantu proses merapikan; orang dewasa mengoperasikannya karena ada risiko panas dan listrik."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-012",
+          "type": "PG",
+          "text": "Makanan seperti nasi menyimpan energi terutama dalam bentuk ...",
+          "options": [
+            "Energi listrik dari stopkontak",
+            "Bunyi yang sudah jadi",
+            "Cahaya yang langsung keluar dari nasi",
+            "Energi kimia"
+          ],
+          "answer": "Energi kimia",
+          "discussion": "Zat gizi dalam makanan menyimpan energi kimia yang dapat digunakan tubuh untuk berbagai kegiatan."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-013",
+          "type": "PG",
+          "text": "Apakah tubuh masih menggunakan energi ketika duduk diam?",
+          "options": [
+            "Ya, untuk bernapas dan menjalankan fungsi tubuh",
+            "Tidak, energi hanya dipakai saat berlari",
+            "Tidak, semua organ berhenti bekerja",
+            "Ya, tetapi hanya untuk menggerakkan kaki"
+          ],
+          "answer": "Ya, untuk bernapas dan menjalankan fungsi tubuh",
+          "discussion": "Tubuh tetap menjalankan pernapasan dan fungsi lainnya saat diam; penggunaan energi tidak hanya tampak sebagai perpindahan tubuh."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-014",
+          "type": "PG",
+          "text": "Air minum putih penting bagi tubuh. Pernyataan tentang sumber energi makanan yang tepat ialah ...",
+          "options": [
+            "Air putih mengandung energi makanan sama dengan nasi",
+            "Air putih diperlukan tubuh tetapi tidak memasok energi makanan seperti nasi",
+            "Semua minuman pasti mempunyai jumlah energi makanan sama",
+            "Air putih dapat menggantikan semua kebutuhan makanan"
+          ],
+          "answer": "Air putih diperlukan tubuh tetapi tidak memasok energi makanan seperti nasi",
+          "discussion": "Air putih tidak mengandung kalori makanan, walaupun sangat diperlukan tubuh; tidak semua minuman memasok energi yang sama."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-015",
+          "type": "PG",
+          "text": "Urutan perubahan energi pada senter berbaterai yang menyala ialah ...",
+          "options": [
+            "Cahaya → kimia dalam baterai → air mengalir",
+            "Gerak angin → bensin → bunyi",
+            "Kimia dalam baterai → listrik → cahaya dan panas",
+            "Panas → makanan → listrik stopkontak"
+          ],
+          "answer": "Kimia dalam baterai → listrik → cahaya dan panas",
+          "discussion": "Baterai menyimpan energi kimia dan memasok listrik ke lampu, yang menghasilkan cahaya serta sebagian panas."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-016",
+          "type": "PG",
+          "text": "Baterai mainan habis. Apa yang perlu diperhatikan sebelum mengisi ulang?",
+          "options": [
+            "Semua baterai sekali pakai boleh dimasukkan ke pengisi daya",
+            "Baterai boleh dipanaskan agar energinya kembali",
+            "Baterai harus dibuka untuk ditambah air sembarangan",
+            "Hanya baterai yang memang dapat diisi ulang boleh diisi dengan alat sesuai, oleh orang dewasa"
+          ],
+          "answer": "Hanya baterai yang memang dapat diisi ulang boleh diisi dengan alat sesuai, oleh orang dewasa",
+          "discussion": "Jenis baterai berbeda; pengisian yang tidak sesuai dapat berbahaya. Anak meminta bantuan orang dewasa dan tidak membongkar baterai."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-017",
+          "type": "PG",
+          "text": "Pada kompor gas yang digunakan orang dewasa, energi kimia dalam bahan bakar terutama dimanfaatkan menjadi ...",
+          "options": [
+            "Panas untuk memasak",
+            "Gerak baling-baling kipas",
+            "Listrik untuk semua rumah tanpa alat lain",
+            "Cahaya Matahari untuk tumbuhan"
+          ],
+          "answer": "Panas untuk memasak",
+          "discussion": "Pembakaran gas melepaskan energi kimia terutama sebagai panas untuk memasak; juga dapat ada cahaya dari nyala api."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-018",
+          "type": "PG",
+          "text": "Bensin membantu mesin kendaraan bekerja karena ...",
+          "options": [
+            "Bensin hanya berfungsi memberi warna kendaraan",
+            "Bensin menyimpan energi kimia yang dapat diubah untuk menggerakkan kendaraan",
+            "Bensin menghasilkan gerakan tanpa proses pada mesin",
+            "Bensin adalah udara yang bergerak"
+          ],
+          "answer": "Bensin menyimpan energi kimia yang dapat diubah untuk menggerakkan kendaraan",
+          "discussion": "Energi kimia bahan bakar dimanfaatkan mesin; bensin bukan angin dan tidak bekerja sebagai cat atau hiasan."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-019",
+          "type": "PG",
+          "text": "Angin dapat memutar kincir karena angin merupakan ...",
+          "options": [
+            "Udara yang tidak pernah bergerak",
+            "Cahaya yang berubah menjadi kain",
+            "Udara bergerak yang dapat memindahkan energi ke baling-baling",
+            "Air yang diam di dasar gelas"
+          ],
+          "answer": "Udara bergerak yang dapat memindahkan energi ke baling-baling",
+          "discussion": "Gerakan udara mendorong baling-baling sehingga energi dapat dipindahkan dan kincir berputar."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-020",
+          "type": "PG",
+          "text": "Pada pembangkit listrik tenaga air, apa yang langsung membantu memutar turbin?",
+          "options": [
+            "Air minum yang diam di botol tertutup",
+            "Warna dinding bendungan",
+            "Banyaknya nama pada papan pembangkit",
+            "Air yang mengalir atau jatuh"
+          ],
+          "answer": "Air yang mengalir atau jatuh",
+          "discussion": "Gerakan air dimanfaatkan untuk memutar turbin; generator yang terhubung kemudian menghasilkan listrik."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-021",
+          "type": "PG",
+          "text": "Panel surya pada lampu taman terutama mengubah ...",
+          "options": [
+            "Energi cahaya Matahari menjadi listrik",
+            "Panas kompor menjadi makanan",
+            "Bunyi burung menjadi baterai baru",
+            "Air hujan menjadi bensin"
+          ],
+          "answer": "Energi cahaya Matahari menjadi listrik",
+          "discussion": "Panel surya fotovoltaik memanfaatkan cahaya untuk menghasilkan listrik, bukan langsung mengubah panas menjadi listrik pada contoh ini."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-022",
+          "type": "PG",
+          "text": "Mengapa keluaran pembangkit angin dapat berubah saat angin melemah?",
+          "options": [
+            "Angin lemah selalu membuat turbin makin cepat",
+            "Masukan gerak angin yang tersedia berubah",
+            "Turbin tidak membutuhkan gerakan udara",
+            "Semua sumber energi selalu tersedia sama setiap saat"
+          ],
+          "answer": "Masukan gerak angin yang tersedia berubah",
+          "discussion": "Kecepatan dan ketersediaan angin memengaruhi gerak turbin serta keluaran pembangkit; kondisi alam perlu diperhatikan."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-023",
+          "type": "PG",
+          "text": "Mengapa penggunaan batu bara perlu dihemat?",
+          "options": [
+            "Batu bara baru terbentuk seluruhnya setiap pagi",
+            "Semua batu bara dapat kembali setelah dibakar",
+            "Persediaannya terbatas dan terbentuk sangat lama",
+            "Batu bara tidak pernah dipakai untuk energi"
+          ],
+          "answer": "Persediaannya terbatas dan terbentuk sangat lama",
+          "discussion": "Batu bara termasuk bahan bakar fosil yang tidak tergantikan dalam waktu singkat; penghematan mengurangi penggunaan yang tidak perlu."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-024",
+          "type": "PG",
+          "text": "Matahari, angin, dan aliran air disebut sumber terbarukan. Apa yang tetap perlu diingat?",
+          "options": [
+            "Ketiganya selalu tersedia sama kuat di semua tempat",
+            "Terbarukan berarti setiap alat boleh dibiarkan menyala terus",
+            "Sumber terbarukan tidak memerlukan alat untuk menjadi listrik",
+            "Pemanfaatannya bergantung kondisi dan tetap perlu dikelola bijak"
+          ],
+          "answer": "Pemanfaatannya bergantung kondisi dan tetap perlu dikelola bijak",
+          "discussion": "Terbarukan tidak berarti keluaran selalu sama; malam, cuaca, angin, dan aliran air memengaruhi pemanfaatannya."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-025",
+          "type": "PG",
+          "text": "Pembangkit panas bumi memanfaatkan panas yang berasal dari ...",
+          "options": [
+            "Bagian dalam Bumi",
+            "Hanya lampu rumah di permukaan",
+            "Baterai yang ditanam anak",
+            "Hanya panas tubuh manusia"
+          ],
+          "answer": "Bagian dalam Bumi",
+          "discussion": "Panas dari dalam Bumi dapat dimanfaatkan dengan teknologi pembangkit; berbeda dari panas setrika atau baterai."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-026",
+          "type": "PG",
+          "text": "Dua daerah mendapat listrik dari pembangkit air dan pembangkit batu bara. Kesimpulan yang tepat ialah ...",
+          "options": [
+            "Semua listrik hanya berasal dari batu bara",
+            "Listrik dapat dihasilkan dengan memanfaatkan sumber yang berbeda",
+            "Bentuk energi listrik berubah menjadi nama daerah",
+            "Stopkontak menciptakan sendiri semua energi tanpa sumber"
+          ],
+          "answer": "Listrik dapat dihasilkan dengan memanfaatkan sumber yang berbeda",
+          "discussion": "Air bergerak dan bahan bakar dapat dimanfaatkan melalui proses pembangkitan berbeda untuk menghasilkan listrik."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-027",
+          "type": "PG",
+          "text": "Kabel alat listrik tampak terkelupas. Apa yang harus dilakukan anak?",
+          "options": [
+            "Memegang bagian terbuka untuk menguji listrik",
+            "Membasahi kabel agar lebih dingin",
+            "Menjauh dan memberi tahu orang dewasa tanpa menyentuh bagian rusak",
+            "Menutupnya dengan tangan saat alat menyala"
+          ],
+          "answer": "Menjauh dan memberi tahu orang dewasa tanpa menyentuh bagian rusak",
+          "discussion": "Kabel rusak dapat menimbulkan sengatan atau kebakaran; pemeriksaan dan perbaikan harus ditangani orang dewasa yang mampu."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-028",
+          "type": "PG",
+          "text": "Saat mengamati sumber bunyi, tindakan yang menjaga pendengaran ialah ...",
+          "options": [
+            "Membunyikan peluit tepat di telinga teman",
+            "Menaikkan suara setinggi mungkin",
+            "Menempelkan telinga pada pengeras suara nyaring",
+            "Menggunakan bunyi pelan dan menjaga jarak dari telinga"
+          ],
+          "answer": "Menggunakan bunyi pelan dan menjaga jarak dari telinga",
+          "discussion": "Bunyi terlalu kuat atau terlalu dekat dapat merusak pendengaran; kegiatan cukup memakai bunyi aman dan pelan."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-029",
+          "type": "PG",
+          "text": "Guru menunjukkan bahwa setrika yang sudah dicabut masih hangat. Cara pengamatan anak yang tepat ialah ...",
+          "options": [
+            "Mengikuti penjelasan guru tanpa menyentuh permukaan panas",
+            "Menempelkan jari untuk memastikan panas",
+            "Meletakkannya di pangkuan agar terasa",
+            "Menyiram setrika untuk melihat percikan"
+          ],
+          "answer": "Mengikuti penjelasan guru tanpa menyentuh permukaan panas",
+          "discussion": "Alat yang dicabut masih dapat menyimpan panas; pengamatan tidak memerlukan sentuhan berbahaya."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-030",
+          "type": "PG",
+          "text": "Cara aman mengenali manfaat cahaya Matahari ialah ...",
+          "options": [
+            "Menatap Matahari selama mungkin",
+            "Mengamati tempat yang terang tanpa menatap Matahari langsung",
+            "Mengarahkan kaca pembesar ke mata",
+            "Menggunakan cermin untuk memantulkan sinar ke mata teman"
+          ],
+          "answer": "Mengamati tempat yang terang tanpa menatap Matahari langsung",
+          "discussion": "Cahaya Matahari dapat diamati melalui penerangan lingkungan; melihat Matahari langsung atau memusatkan sinar ke mata berbahaya."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-031",
+          "type": "PG",
+          "text": "Kelompok ingin memeriksa pengaruh hembusan angin pada kincir kertas. Rancangan yang paling adil ialah ...",
+          "options": [
+            "Mengganti ukuran kincir, hembusan, dan waktu sekaligus",
+            "Membandingkan kincir kecil di luar dengan kincir besar dalam lemari",
+            "Memakai kincir yang sama dengan hembusan berbeda dan waktu pengamatan sama",
+            "Menulis hasil tanpa mengamati putaran"
+          ],
+          "answer": "Memakai kincir yang sama dengan hembusan berbeda dan waktu pengamatan sama",
+          "discussion": "Menjaga kincir dan waktu tetap sama membantu menilai pengaruh hembusan, bukan campuran banyak perubahan."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-032",
+          "type": "PG",
+          "text": "Manakah catatan yang berupa hasil pengamatan langsung?",
+          "options": [
+            "Kincir ini pasti bekerja sama baik di semua cuaca",
+            "Semua alat di rumah pasti memakai baterai",
+            "Angin besok pasti sekuat hari ini",
+            "Baling-baling berputar setelah terkena hembusan"
+          ],
+          "answer": "Baling-baling berputar setelah terkena hembusan",
+          "discussion": "Putaran yang terlihat dapat dicatat sebagai bukti; kepastian tentang semua alat atau cuaca besok tidak berasal dari pengamatan itu."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-033",
+          "type": "PG",
+          "text": "Mengapa percobaan sederhana sebaiknya diamati beberapa kali?",
+          "options": [
+            "Untuk mengetahui apakah pola hasilnya cukup konsisten",
+            "Agar hasil yang tidak disukai boleh dihapus",
+            "Agar semua penyebab tidak perlu diperiksa",
+            "Agar dugaan otomatis menjadi benar"
+          ],
+          "answer": "Untuk mengetahui apakah pola hasilnya cukup konsisten",
+          "discussion": "Pengulangan membantu memeriksa pola dan kemungkinan kekeliruan; hasil sebenarnya tetap dicatat meskipun berbeda dari dugaan."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-034",
+          "type": "PG",
+          "text": "Guru menaruh dua wadah air yang sama, satu di tempat terkena Matahari dan satu di tempat teduh. Apa yang perlu disamakan untuk membandingkan pemanasannya?",
+          "options": [
+            "Hanya nama wadah, sementara semua kondisi lain berbeda",
+            "Banyak air, wadah, suhu awal, dan lama pengamatan",
+            "Warna pensil pencatat saja",
+            "Perkiraan suhu tanpa pengukuran"
+          ],
+          "answer": "Banyak air, wadah, suhu awal, dan lama pengamatan",
+          "discussion": "Kondisi awal dan cara pengamatan yang sama membantu membandingkan pengaruh tempat; pengukuran dilakukan dengan alat aman oleh guru."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-035",
+          "type": "PG",
+          "text": "Ruangan cukup terang pada siang hari meskipun lampu dimatikan. Sumber cahaya yang mungkin meneranginya ialah ...",
+          "options": [
+            "Bunyi percakapan di kelas",
+            "Panas dari buku tertutup",
+            "Cahaya Matahari yang masuk lewat jendela",
+            "Udara diam di dalam lemari"
+          ],
+          "answer": "Cahaya Matahari yang masuk lewat jendela",
+          "discussion": "Jendela dapat meneruskan cahaya dari luar; lampu bukan satu-satunya sumber penerangan ruangan."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-036",
+          "type": "PG",
+          "text": "Kedua telapak tangan digosok perlahan lalu terasa hangat. Perubahan yang terutama dirasakan ialah ...",
+          "options": [
+            "Bunyi berubah menjadi air",
+            "Panas berubah menjadi makanan baru",
+            "Energi kimia berubah langsung menjadi cahaya tampak di tangan",
+            "Sebagian energi gerak berubah menjadi panas"
+          ],
+          "answer": "Sebagian energi gerak berubah menjadi panas",
+          "discussion": "Gesekan saat tangan bergerak dapat menghasilkan panas; lakukan lembut dan berhenti jika tidak nyaman."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-037",
+          "type": "PG",
+          "text": "Karet diregangkan secara aman oleh guru lalu dilepas untuk menggerakkan model kecil. Sebelum dilepas, karet menyimpan ...",
+          "options": [
+            "Energi elastis",
+            "Energi bensin",
+            "Cahaya lampu",
+            "Bunyi yang sudah terdengar"
+          ],
+          "answer": "Energi elastis",
+          "discussion": "Benda elastis yang diregangkan dapat menyimpan energi yang kemudian berubah menjadi gerak. Karet tidak diarahkan ke orang."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-038",
+          "type": "PG",
+          "text": "Bola yang berada lebih tinggi dapat bergerak turun saat dilepas. Bentuk energi yang berkaitan dengan kedudukannya itu ialah ...",
+          "options": [
+            "Energi kimia dari baterai bola",
+            "Energi potensial gravitasi",
+            "Energi bunyi dari warna bola",
+            "Energi listrik dari meja"
+          ],
+          "answer": "Energi potensial gravitasi",
+          "discussion": "Kedudukan pada ketinggian berkaitan dengan energi potensial gravitasi yang dapat berubah menjadi gerak; demonstrasi cukup pada ketinggian rendah oleh guru."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-039",
+          "type": "PG",
+          "text": "Ketika listrik menyalakan lampu, energi ...",
+          "options": [
+            "Diciptakan lampu tanpa masukan apa pun",
+            "Seluruhnya berubah menjadi benda baru",
+            "Berubah bentuk menjadi cahaya dan panas",
+            "Hilang sehingga tidak mempunyai pengaruh di sekitar"
+          ],
+          "answer": "Berubah bentuk menjadi cahaya dan panas",
+          "discussion": "Lampu memindahkan dan mengubah bentuk energi yang diterimanya; cahaya serta panas merupakan pengaruh di sekitar."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-040",
+          "type": "PG",
+          "text": "Kipas dimatikan dan akhirnya berhenti. Apa yang paling tepat tentang energi geraknya?",
+          "options": [
+            "Energi gerak tetap sama meskipun tidak lagi berputar",
+            "Energi berubah menjadi baterai baru di dalam baling-baling",
+            "Energi bertambah sendiri saat kipas berhenti",
+            "Sebagian berpindah ke sekitar sebagai panas dan bunyi selama berhenti"
+          ],
+          "answer": "Sebagian berpindah ke sekitar sebagai panas dan bunyi selama berhenti",
+          "discussion": "Gesekan dan hambatan udara memindahkan energi ke sekitar; berhenti bukan berarti energi diciptakan atau tetap menjadi gerak yang sama."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-041",
+          "type": "PG",
+          "text": "Bola menggelinding menabrak bola lain yang kemudian bergerak. Kejadian itu menunjukkan ...",
+          "options": [
+            "Gerakan dapat memindahkan energi ke benda lain",
+            "Bola kedua selalu mempunyai baterai",
+            "Tidak ada hubungan antara benturan dan gerak",
+            "Bola pertama harus mengeluarkan cahaya"
+          ],
+          "answer": "Gerakan dapat memindahkan energi ke benda lain",
+          "discussion": "Interaksi saat benturan dapat memindahkan sebagian energi sehingga bola lain bergerak; baterai tidak diperlukan untuk contoh itu."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-042",
+          "type": "PG",
+          "text": "Dalam pertunjukan tari dengan iringan gendang, bentuk energi yang mudah diamati ialah ...",
+          "options": [
+            "Hanya listrik karena semua tari wajib memakai listrik",
+            "Gerak penari dan bunyi gendang",
+            "Hanya cahaya karena gerakan tidak memakai energi",
+            "Energi bahan bakar dari setiap kostum"
+          ],
+          "answer": "Gerak penari dan bunyi gendang",
+          "discussion": "Tubuh penari bergerak dan membran gendang bergetar menghasilkan bunyi; pertunjukan dapat menampilkan beberapa bentuk energi."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-043",
+          "type": "PG",
+          "text": "Pompa tangan dan pompa listrik sama-sama menaikkan air. Perbedaan masukan langsung pada kedua alat ialah ...",
+          "options": [
+            "Keduanya selalu mendapat listrik dari kabel",
+            "Pompa tangan bekerja tanpa energi apa pun",
+            "Pompa tangan digerakkan tubuh, pompa listrik memakai listrik",
+            "Pompa listrik hanya memakai cahaya tanpa rangkaian"
+          ],
+          "answer": "Pompa tangan digerakkan tubuh, pompa listrik memakai listrik",
+          "discussion": "Hasil kegiatannya dapat sama walaupun masukan langsung berbeda; tubuh memperoleh tenaga dari energi makanan."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-044",
+          "type": "PG",
+          "text": "Saat listrik rumah padam, alat penerangan yang dapat dipakai anak dengan arahan orang dewasa ialah ...",
+          "options": [
+            "Lampu berkabel yang tidak mempunyai pasokan listrik",
+            "Menyalakan kompor gas untuk dibawa berkeliling",
+            "Menyentuh kabel terbuka agar mencari sumber listrik",
+            "Senter dengan baterai yang berfungsi"
+          ],
+          "answer": "Senter dengan baterai yang berfungsi",
+          "discussion": "Senter mempunyai sumber energi sendiri; penggunaan api atau kabel rusak berbahaya dan bukan pilihan aman bagi anak."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-045",
+          "type": "PG",
+          "text": "Kegiatan mana masih dapat dilakukan di ruang cukup terang ketika listrik padam?",
+          "options": [
+            "Menggambar dengan pensil di kertas",
+            "Menyalakan kipas listrik tanpa sumber cadangan",
+            "Memakai setrika listrik tanpa pasokan",
+            "Menonton televisi listrik tanpa sumber cadangan"
+          ],
+          "answer": "Menggambar dengan pensil di kertas",
+          "discussion": "Menggambar menggunakan tenaga tubuh dan cahaya yang tersedia; tiga alat lain memerlukan pasokan listrik pada kondisi yang disebut."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-046",
+          "type": "PG",
+          "text": "Lampu belajar masih menyala padahal cahaya dari jendela sudah cukup. Tindakan hemat yang tepat ialah ...",
+          "options": [
+            "Menyalakan semua lampu tambahan",
+            "Mematikan lampu jika penerangan tetap aman dan cukup",
+            "Menutup jendela agar lampu harus terus dipakai",
+            "Menganggap lampu tidak memakai energi pada siang hari"
+          ],
+          "answer": "Mematikan lampu jika penerangan tetap aman dan cukup",
+          "discussion": "Mengurangi penerangan listrik yang tidak diperlukan menghemat penggunaan tanpa mengurangi keselamatan dan kenyamanan belajar."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-047",
+          "type": "PG",
+          "text": "Kipas menyala di ruang kosong dan tidak diperlukan untuk keperluan lain. Apa tindakan yang tepat?",
+          "options": [
+            "Membiarkannya karena ruang kosong tidak memakai listrik",
+            "Menahan baling-baling dengan tangan",
+            "Mematikannya melalui sakelar yang aman dengan arahan orang dewasa",
+            "Menarik kabel dengan tangan basah"
+          ],
+          "answer": "Mematikannya melalui sakelar yang aman dengan arahan orang dewasa",
+          "discussion": "Alat yang menyala tetap menggunakan energi meski tidak ada orang; gunakan kendali yang aman, bukan menyentuh bagian bergerak atau kabel."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-048",
+          "type": "PG",
+          "text": "Televisi dibiarkan menyala tanpa ditonton. Mengapa mematikannya dapat menghemat energi?",
+          "options": [
+            "Mematikan televisi membuat semua rumah tidak perlu listrik",
+            "Televisi hanya memakai listrik ketika ditatap",
+            "Bunyi televisi merupakan satu-satunya masukan energi",
+            "Mengurangi penggunaan listrik yang tidak diperlukan"
+          ],
+          "answer": "Mengurangi penggunaan listrik yang tidak diperlukan",
+          "discussion": "Alat tetap memakai listrik saat menyala tanpa penonton; kebutuhan pemakaian perlu diperiksa."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-049",
+          "type": "PG",
+          "text": "Catatan apa yang paling membantu membuat rencana hemat energi di kelas?",
+          "options": [
+            "Alat yang dipakai, waktu pemakaian, dan apakah benar-benar diperlukan",
+            "Hanya warna alat tanpa kegiatan pemakaian",
+            "Hanya jumlah poster tentang hemat energi",
+            "Dugaan bahwa semua alat selalu harus dimatikan"
+          ],
+          "answer": "Alat yang dipakai, waktu pemakaian, dan apakah benar-benar diperlukan",
+          "discussion": "Data pemakaian dan kebutuhan membantu memilih perubahan yang sesuai; alat yang diperlukan tidak boleh sembarang dimatikan."
+        },
+        {
+          "id": "K03-IPAS-B06-M01-050",
+          "type": "PG",
+          "text": "Mengapa hemat energi tidak berarti mematikan semua alat setiap saat?",
+          "options": [
+            "Semua alat aman dimatikan tanpa melihat fungsinya",
+            "Sebagian alat tetap diperlukan untuk keselamatan atau kebutuhan penting",
+            "Penggunaan energi tidak pernah bermanfaat",
+            "Hemat berarti tidak boleh belajar dengan lampu saat gelap"
+          ],
+          "answer": "Sebagian alat tetap diperlukan untuk keselamatan atau kebutuhan penting",
+          "discussion": "Penghematan mengurangi pemakaian yang tidak perlu sambil menjaga fungsi penting, seperti penerangan aman dan penyimpanan makanan."
+        }
+      ]
+    }
+  ]
+}
