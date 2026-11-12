@@ -1,3 +1,15 @@
+# CHECKPOINT TERBARU — EDUYASA KELAS 3 (12 NOVEMBER 2026)
+
+**TAHAP REVISI SUMBER 1.945 SOAL: seluruh paket telah ditangani dalam putaran produksi/revisi yang tercatat.** IPAS 560, PAI 300, Inggris 500, PJOK 360, Seni Rupa (SBD) 225. **Tidak ada lagi 225 soal Seni Rupa yang menunggu revisi sumber.** Ini bukan klaim semua butir diubah secara literal, tidak berarti audit akademik/ilustrasi final selesai, dan **belum berarti JSON dikonversi atau aplikasi siap rilis**. Modul PJOK masih belum tersedia.
+
+**Keputusan pengguna yang berlaku untuk Codex:** Langsung konversi Markdown sumber ke JSON, **tanpa audit ulang isi akademik soal dan modul**. Audit hanya **HASIL KONVERSI JSON** terhadap sumber: jumlah 1.945, ID dan urutan 1:1, empat opsi termasuk urutan, kunci dan pembahasan tidak tertukar, materi modul tidak terpotong, media/TTS dan skema sesuai. Kesalahan transfer diperbaiki pada JSON/konverter, **bukan** mengubah Markdown. [Instruksi Codex terbaru](HANDOVER-KONVERSI-JSON.md).
+
+**Seni Rupa batch terakhir:** 225/225 soal telah direvisi: lima bab × (35 teks + 10 gambar); 175 stem teks dan 50 stem gambar diperbarui; 50 SVG pengganti dibuat; 10 modul sumber yang sudah ada dipertahankan. Audit struktur sumber: 225 ID unik, 225 pertanyaan unik, empat opsi berbeda, satu kunci tepat, 50 referensi gambar, pembahasan ada, **0 kesalahan struktur**. Pemeriksaan tag SVG statis lolos 50 file; bukan audit kualitas visual atau rendering HP. Codex tetap wajib memeriksa kesetiaan setiap konten saat mengonversi JSON.
+
+**Catatan:** Bagian-bagian berjudul 'audit isi sebelum konversi' pada riwayat di bawah ini **historis dan telah digantikan** oleh instruksi terbaru. Gunakan handover di atas untuk tahapan Codex.
+
+---
+
 # Revisi 1.945 soal — checkpoint 2026-11-11
 
 **STATUS KESELURUHAN: AUDIT MASIH BERJALAN.** Konversi JSON per bab atau unit yang sudah diaudit mengikuti [handover Codex](HANDOVER-KONVERSI-JSON.md), dengan satu audit ulang sebelum konversi.
@@ -611,3 +623,16 @@ Validator kanonis ekuivalen melalui konektor GitHub memeriksa 82 bank,
 dengan 0 kesalahan struktur. Kumulatif audit isi 1.160/1.945. Masih ada
 785 soal pada 17 bab/unit yang belum lulus audit final. Titik lanjut
 Bahasa Inggris Unit 7.
+
+## Checkpoint 2026-11-12 — Seni Rupa Bab 1–5 / 225 soal dan instruksi Codex baru
+
+- **Bab 1:** `sbd-b01-soal-biasa.md` 35 revisi redaksi/konteks, `sbd-b01-soal-bergambar.md` 10 revisi, `assets/sbd-b01-gambar-01.svg` hingga `-10.svg` diganti. Commit teks `e135962bfec8dcc9f1b5e4563cb43aef639baf0c`, gambar `a433024dbb4278e52378ca22c77d8299470c97cb`, koreksi pertanyaan `38c7625fd54a96de04f92b85b3fce2f776be2aec`.
+- **Bab 2:** 35 teks dan 10 gambar beserta 10 SVG. Commit teks `dc6ed3483175e8341e68a88216fdf6f49ab2601d`, gambar `1215c39979b2528a73a70889c45301583b3a748e`, koreksi `e8ae74a224a337345a327a00c0392745dd739488`.
+- **Bab 3:** 35 teks dan 10 gambar beserta 10 SVG. Commit teks `3ca2f6033369ad7278754e816ea06c1228f656eb`, gambar `b970ee8eaa8afa87c55ea4cb7c90bdd8f5edb00e`.
+- **Bab 4:** 35 teks dan 10 gambar beserta 10 SVG. Commit teks `970aaa516578c58754a373fbde00582290c0326a`, gambar `c46846159b89f18216a7cbac817a45ccfa1382fe`, koreksi `3f2a7c8c5b74439f40530a947c3f5443d2d808e3`.
+- **Bab 5:** 35 teks dan 10 gambar beserta 10 SVG. Commit teks `f4d844b1dc89446cd8e81320c4790830ccaf5054`, gambar `360c6bfae03ad30240a24401693a82171bc5b1b6`.
+- Semua 50 SVG memiliki commit sendiri dan dapat dilihat pada riwayat GitHub. Format gambar skematis; beberapa masih lebih tepat sebagai ilustrasi topik dibanding stimulus analitis dan belum dirender/ditinjau pada HP.
+- **Pemeriksaan sumber sesudah perubahan:** 225 soal (5 × 45), ID 001–045 benar, 225 ID unik, 225 pertanyaan unik, empat opsi berbeda per soal dan kunci cocok salah satunya, pembahasan tersedia; 50 referensi SVG; **0 kesalahan struktur JS**. Keberadaan/penutupan tag SVG dan ketiadaan skrip ditinjau secara statis untuk semua 50 aset. Ini bukan hasil validator Python seluruh bank, bukan audit semantik, bukan uji rendering.
+- **Modul:** 10 modul Seni Rupa yang telah ada dipertahankan apa adanya, tidak dihitung sebagai yang ditulis ulang. **PJOK tetap belum punya modul.**
+- **Handover Codex diubah** melalui commit `84e9877bd381ba6fb9dc3384f325a9d109a5fe1c`: audit yang diminta **hanya audit integritas output JSON**, termasuk anti-pengacakan ID/nomor dan urutan opsi; tidak ada audit isi sebelum konversi. README SBD diperbarui pada `542c2ad2362f2b67826bd245f84b97560de1e385`.
+- **Status:** fase revisi sumber 225 Seni Rupa **selesai**. Total pekerjaan Kelas 3 sudah mencakup 1.945 soal di lima mapel; fase berikutnya **Codex konversi Markdown → JSON dan validasi transfer**. Tidak ada JSON yang dibuat dalam batch ini.
