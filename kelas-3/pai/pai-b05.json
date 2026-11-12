@@ -1,0 +1,404 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PAI-B05",
+      "chapter_title": "Aku Suka Belajar Sejarah Islam",
+      "questions": [
+        {
+          "id": "K03-PAI-B05-M01-001",
+          "type": "PG",
+          "text": "Apa arti istilah Arab pra-Islam dalam bab ini?",
+          "options": [
+            "Masyarakat Arab setelah hijrah ke Madinah",
+            "Penduduk Madinah sesudah masa Nabi",
+            "Masyarakat Arab sebelum datangnya ajaran Islam",
+            "Para pedagang yang baru pulang dari Syam"
+          ],
+          "answer": "Masyarakat Arab sebelum datangnya ajaran Islam",
+          "discussion": "Pra berarti sebelum. Istilah ini menunjuk masa sebelum Islam datang."
+        },
+        {
+          "id": "K03-PAI-B05-M01-002",
+          "type": "PG",
+          "text": "Dua catatan menyebut perdagangan dan kegemaran bersyair di masyarakat Arab pra-Islam. Apa yang dapat disimpulkan?",
+          "options": [
+            "Masyarakat saat itu memiliki kegiatan ekonomi dan budaya",
+            "Semua orang bekerja sebagai penyair",
+            "Perdagangan baru dikenal setelah Islam datang",
+            "Semua orang memiliki pekerjaan yang sama"
+          ],
+          "answer": "Masyarakat saat itu memiliki kegiatan ekonomi dan budaya",
+          "discussion": "Perdagangan adalah kegiatan ekonomi, sedangkan syair bagian dari kehidupan budaya."
+        },
+        {
+          "id": "K03-PAI-B05-M01-003",
+          "type": "PG",
+          "text": "Mengapa sebutan jahiliah tidak berarti setiap orang Arab saat itu tidak memiliki keterampilan?",
+          "options": [
+            "Mereka semua tidak pernah belajar apa pun",
+            "Mereka hanya tinggal di satu kota",
+            "Mereka baru mengenal syair setelah masa Nabi",
+            "Mereka juga memiliki keterampilan seperti berdagang dan bersyair"
+          ],
+          "answer": "Mereka juga memiliki keterampilan seperti berdagang dan bersyair",
+          "discussion": "Sebutan jahiliah berkaitan dengan keadaan dan kebiasaan yang dikritik dalam ajaran Islam. Keterampilan tetap ada."
+        },
+        {
+          "id": "K03-PAI-B05-M01-004",
+          "type": "PG",
+          "text": "Manakah contoh kebiasaan yang dapat dibahas sebagai masalah dalam masyarakat Arab pra-Islam?",
+          "options": [
+            "Bertukar barang secara jujur",
+            "Pertikaian antarsuku",
+            "Menjamu tamu",
+            "Menyusun syair"
+          ],
+          "answer": "Pertikaian antarsuku",
+          "discussion": "Pertikaian menunjukkan masalah dalam hubungan antarkelompok. Contoh lain menggambarkan kegiatan atau kebiasaan yang berbeda."
+        },
+        {
+          "id": "K03-PAI-B05-M01-005",
+          "type": "PG",
+          "text": "Lala membuat dua kelompok catatan: kegiatan ekonomi dan budaya. Ia memasukkan syair ke kelompok ekonomi. Apa yang perlu diperbaiki?",
+          "options": [
+            "Tempatkan syair sebagai contoh budaya",
+            "Tempatkan syair sebagai nama suku",
+            "Tempatkan perdagangan sebagai jenis syair",
+            "Satukan semua catatan sebagai nama kota"
+          ],
+          "answer": "Tempatkan syair sebagai contoh budaya",
+          "discussion": "Syair adalah karya sastra. Perdagangan berkaitan dengan kegiatan ekonomi."
+        },
+        {
+          "id": "K03-PAI-B05-M01-006",
+          "type": "PG",
+          "text": "Kota mana yang harus ditulis pada kartu tempat kelahiran Nabi Muhammad saw.?",
+          "options": [
+            "Madinah",
+            "Makkah",
+            "Taif",
+            "Yerusalem"
+          ],
+          "answer": "Makkah",
+          "discussion": "Nabi Muhammad saw. lahir di Makkah."
+        },
+        {
+          "id": "K03-PAI-B05-M01-007",
+          "type": "PG",
+          "text": "Pada bagan keluarga Nabi Muhammad saw., siapa yang ditulis sebagai ayah beliau?",
+          "options": [
+            "Abu Talib",
+            "Abdul Muttalib",
+            "Abu Bakar",
+            "Abdullah"
+          ],
+          "answer": "Abdullah",
+          "discussion": "Ayah beliau bernama Abdullah. Abu Talib adalah paman dan Abdul Muttalib adalah kakek beliau."
+        },
+        {
+          "id": "K03-PAI-B05-M01-008",
+          "type": "PG",
+          "text": "Dua kartu bertuliskan Abdullah dan Aminah. Apa hubungan keduanya dengan Nabi Muhammad saw.?",
+          "options": [
+            "Abdullah kakek beliau dan Aminah ibu beliau",
+            "Abdullah paman beliau dan Aminah saudara beliau",
+            "Abdullah ayah beliau dan Aminah ibu beliau",
+            "Abdullah ayah beliau dan Aminah nenek beliau"
+          ],
+          "answer": "Abdullah ayah beliau dan Aminah ibu beliau",
+          "discussion": "Orang tua Nabi Muhammad saw. adalah Abdullah dan Aminah."
+        },
+        {
+          "id": "K03-PAI-B05-M01-009",
+          "type": "PG",
+          "text": "Mengapa Nabi Muhammad saw. sudah disebut yatim ketika lahir?",
+          "options": [
+            "Ayah beliau wafat sebelum beliau lahir",
+            "Ibu beliau wafat sebelum beliau lahir",
+            "Kakek beliau tinggal di kota lain",
+            "Paman beliau sedang pergi berdagang"
+          ],
+          "answer": "Ayah beliau wafat sebelum beliau lahir",
+          "discussion": "Ayah beliau wafat sebelum kelahiran beliau. Anak yang kehilangan ayah sebelum balig disebut yatim."
+        },
+        {
+          "id": "K03-PAI-B05-M01-010",
+          "type": "PG",
+          "text": "Tiga kartu tertukar: Abu Talib, Aminah, Abdul Muttalib. Urutan pengasuhan keluarga yang tepat adalah ....",
+          "options": [
+            "Aminah, Abu Talib, lalu Abdul Muttalib",
+            "Aminah, Abdul Muttalib, lalu Abu Talib",
+            "Abu Talib, Aminah, lalu Abdul Muttalib",
+            "Abdul Muttalib, Abu Talib, lalu Aminah"
+          ],
+          "answer": "Aminah, Abdul Muttalib, lalu Abu Talib",
+          "discussion": "Setelah Aminah wafat, Abdul Muttalib merawat Nabi. Sesudah kakeknya wafat, Abu Talib merawat beliau."
+        },
+        {
+          "id": "K03-PAI-B05-M01-011",
+          "type": "PG",
+          "text": "Siapa yang merawat Nabi Muhammad saw. setelah kakek beliau wafat?",
+          "options": [
+            "Abdullah",
+            "Abdul Muttalib",
+            "Abu Talib",
+            "Abu Bakar"
+          ],
+          "answer": "Abu Talib",
+          "discussion": "Abu Talib adalah paman Nabi Muhammad saw. dan meneruskan pengasuhan setelah Abdul Muttalib wafat."
+        },
+        {
+          "id": "K03-PAI-B05-M01-012",
+          "type": "PG",
+          "text": "Apa hubungan Abdul Muttalib dengan Nabi Muhammad saw.?",
+          "options": [
+            "Paman",
+            "Ayah",
+            "Saudara",
+            "Kakek"
+          ],
+          "answer": "Kakek",
+          "discussion": "Abdul Muttalib adalah ayah dari Abdullah dan kakek Nabi Muhammad saw."
+        },
+        {
+          "id": "K03-PAI-B05-M01-013",
+          "type": "PG",
+          "text": "Dalam kisah masa muda, pekerjaan apa yang menunjukkan latihan tanggung jawab merawat hewan?",
+          "options": [
+            "Menyusun syair",
+            "Menggembala kambing",
+            "Menulis surat dagang",
+            "Menjaga persediaan kain"
+          ],
+          "answer": "Menggembala kambing",
+          "discussion": "Menggembala berarti menjaga hewan ternak dan memperhatikan kebutuhannya."
+        },
+        {
+          "id": "K03-PAI-B05-M01-014",
+          "type": "PG",
+          "text": "Nabi Muhammad saw. ikut rombongan Abu Talib ke Syam ketika masih muda. Kegiatan apa yang dapat beliau pelajari dari perjalanan itu?",
+          "options": [
+            "Perdagangan",
+            "Pembuatan senjata",
+            "Pembangunan rumah",
+            "Penangkapan ikan di laut"
+          ],
+          "answer": "Perdagangan",
+          "discussion": "Rombongan itu melakukan perjalanan dagang. Pengalaman tersebut memberi kesempatan mengenal perdagangan."
+        },
+        {
+          "id": "K03-PAI-B05-M01-015",
+          "type": "PG",
+          "text": "Dalam catatan masa muda ada kata kafilah. Apa artinya dalam kisah perjalanan dagang?",
+          "options": [
+            "Pasar yang buka setiap pagi",
+            "Barang yang ditukar di pasar",
+            "Rumah tempat pedagang tinggal",
+            "Rombongan yang bepergian bersama"
+          ],
+          "answer": "Rombongan yang bepergian bersama",
+          "discussion": "Kafilah adalah rombongan perjalanan. Pada kisah ini anggotanya bepergian untuk berdagang."
+        },
+        {
+          "id": "K03-PAI-B05-M01-016",
+          "type": "PG",
+          "text": "Bagaimana mengurutkan tiga peristiwa ini: lahir di Makkah, diasuh Abu Talib, diasuh Abdul Muttalib?",
+          "options": [
+            "Diasuh Abdul Muttalib, lahir di Makkah, lalu diasuh Abu Talib",
+            "Lahir di Makkah, diasuh Abu Talib, lalu diasuh Abdul Muttalib",
+            "Lahir di Makkah, diasuh Abdul Muttalib, lalu diasuh Abu Talib",
+            "Diasuh Abu Talib, diasuh Abdul Muttalib, lalu lahir di Makkah"
+          ],
+          "answer": "Lahir di Makkah, diasuh Abdul Muttalib, lalu diasuh Abu Talib",
+          "discussion": "Kelahiran terjadi lebih dulu. Abu Talib meneruskan pengasuhan sesudah kakek Nabi wafat."
+        },
+        {
+          "id": "K03-PAI-B05-M01-017",
+          "type": "PG",
+          "text": "Suku mana yang tercatat dalam kisah keluarga Nabi Muhammad saw. di Makkah?",
+          "options": [
+            "Aus",
+            "Quraisy",
+            "Khazraj",
+            "Tsaqif"
+          ],
+          "answer": "Quraisy",
+          "discussion": "Keluarga Nabi Muhammad saw. berasal dari suku Quraisy."
+        },
+        {
+          "id": "K03-PAI-B05-M01-018",
+          "type": "PG",
+          "text": "Mengapa gelar Al-Amin sesuai untuk Nabi Muhammad saw.?",
+          "options": [
+            "Beliau berasal dari tempat yang jauh",
+            "Beliau pandai menyembunyikan barang",
+            "Beliau selalu memimpin rombongan",
+            "Beliau dikenal dapat dipercaya"
+          ],
+          "answer": "Beliau dikenal dapat dipercaya",
+          "discussion": "Al-Amin berarti dapat dipercaya. Gelar itu berkaitan dengan kejujuran dan amanah."
+        },
+        {
+          "id": "K03-PAI-B05-M01-019",
+          "type": "PG",
+          "text": "Rani menemukan uang kembalian berlebih. Bagaimana meneladani kejujuran Nabi?",
+          "options": [
+            "Memberi tahu penjual dan mengembalikan kelebihannya",
+            "Menyimpan semuanya karena penjual tidak melihat",
+            "Memberikan uang itu kepada teman tanpa bertanya",
+            "Menunggu sampai uang tersebut habis dipakai"
+          ],
+          "answer": "Memberi tahu penjual dan mengembalikan kelebihannya",
+          "discussion": "Mengembalikan kelebihan berarti berkata jujur dan menghargai hak penjual."
+        },
+        {
+          "id": "K03-PAI-B05-M01-020",
+          "type": "PG",
+          "text": "Farid dititipi buku sampai besok. Tindakan mana yang menunjukkan amanah?",
+          "options": [
+            "Meminjamkannya kepada orang lain tanpa izin",
+            "Menukar buku itu dengan miliknya",
+            "Menjaga buku dan mengembalikannya sesuai janji",
+            "Mengembalikan buku hanya setelah diberi hadiah"
+          ],
+          "answer": "Menjaga buku dan mengembalikannya sesuai janji",
+          "discussion": "Amanah terlihat ketika Farid menjaga titipan dan memenuhi kesepakatan."
+        },
+        {
+          "id": "K03-PAI-B05-M01-021",
+          "type": "PG",
+          "text": "Salma tak sengaja merusak barang kelompok. Tindakan mana yang menunjukkan keberanian dan kejujuran?",
+          "options": [
+            "Menyalahkan orang yang sedang tidak hadir",
+            "Menyembunyikan barang supaya masalah dilupakan",
+            "Menunggu orang lain mengaku lebih dulu",
+            "Mengaku kepada kelompok dan ikut mencari cara memperbaikinya"
+          ],
+          "answer": "Mengaku kepada kelompok dan ikut mencari cara memperbaikinya",
+          "discussion": "Berani mengakui kesalahan memberi kesempatan kepada kelompok untuk memperbaikinya."
+        },
+        {
+          "id": "K03-PAI-B05-M01-022",
+          "type": "PG",
+          "text": "Dua siswa membantu menjaga alat kelas. Mana yang menunjukkan bahwa seorang siswa dapat dipercaya?",
+          "options": [
+            "Membawa alat pulang tanpa izin lalu mengaku sudah mengembalikan",
+            "Mencatat alat yang dipinjam dan mengembalikannya ke tempat semula",
+            "Menjaga alat hanya ketika dilihat guru",
+            "Menitipkan tugasnya kepada orang lain tanpa memberi tahu guru"
+          ],
+          "answer": "Mencatat alat yang dipinjam dan mengembalikannya ke tempat semula",
+          "discussion": "Mencatat dan mengembalikan alat sesuai tugas menunjukkan tanggung jawab."
+        },
+        {
+          "id": "K03-PAI-B05-M01-023",
+          "type": "PG",
+          "text": "Apa yang kita lakukan ketika berselawat kepada Nabi Muhammad saw.?",
+          "options": [
+            "Meminta teman memuji suara kita",
+            "Menceritakan nama semua pedagang Makkah",
+            "Berdoa kepada Allah agar melimpahkan selawat kepada Nabi",
+            "Membaca daftar urutan perjalanan"
+          ],
+          "answer": "Berdoa kepada Allah agar melimpahkan selawat kepada Nabi",
+          "discussion": "Selawat merupakan doa yang ditujukan kepada Allah untuk Nabi."
+        },
+        {
+          "id": "K03-PAI-B05-M01-024",
+          "type": "PG",
+          "text": "Manakah pasangan bentuk dan contoh yang tepat?",
+          "options": [
+            "Syair — bait tentang kejujuran",
+            "Syair — daftar harga di pasar",
+            "Qasidah — bagan silsilah keluarga",
+            "Selawat — jadwal keberangkatan kafilah"
+          ],
+          "answer": "Syair — bait tentang kejujuran",
+          "discussion": "Syair berbentuk bait. Bait dapat memuat pesan kejujuran."
+        },
+        {
+          "id": "K03-PAI-B05-M01-025",
+          "type": "PG",
+          "text": "Guru ingin mengenalkan qasidah. Kegiatan mana yang sesuai?",
+          "options": [
+            "Membaca harga barang dari kuitansi",
+            "Menggambar rute pasar tanpa teks",
+            "Mengurutkan nama kota secara abjad",
+            "Melantunkan syair bernuansa keagamaan dengan bimbingan guru"
+          ],
+          "answer": "Melantunkan syair bernuansa keagamaan dengan bimbingan guru",
+          "discussion": "Qasidah dapat dilantunkan dan memuat pesan keagamaan."
+        },
+        {
+          "id": "K03-PAI-B05-M01-026",
+          "type": "PG",
+          "text": "Kelompok Ika ingin menyiapkan selawat untuk dibaca bersama. Apa langkah yang membantu mereka belajar dengan tepat?",
+          "options": [
+            "Menambah kata yang belum diketahui artinya secara bebas",
+            "Memilih bacaan hanya karena paling cepat selesai",
+            "Meminta guru mencontohkan bacaan lalu berlatih pelan bersama",
+            "Menyuruh teman menebak semua kata"
+          ],
+          "answer": "Meminta guru mencontohkan bacaan lalu berlatih pelan bersama",
+          "discussion": "Contoh dan bimbingan guru membantu siswa membaca dengan benar dan memahami maksudnya."
+        },
+        {
+          "id": "K03-PAI-B05-M01-027",
+          "type": "PG",
+          "text": "Apa perbedaan yang tepat antara selawat dan bagan perjalanan Nabi?",
+          "options": [
+            "Selawat menunjukkan rute, bagan berisi doa",
+            "Selawat berisi doa, bagan menunjukkan urutan atau tempat peristiwa",
+            "Selawat dan bagan sama-sama berisi daftar harga",
+            "Selawat dan bagan selalu dibaca dengan cara yang sama"
+          ],
+          "answer": "Selawat berisi doa, bagan menunjukkan urutan atau tempat peristiwa",
+          "discussion": "Keduanya mempunyai fungsi berbeda. Bagan membantu membaca peristiwa, sedangkan selawat adalah doa."
+        },
+        {
+          "id": "K03-PAI-B05-M01-028",
+          "type": "PG",
+          "text": "Dito menceritakan bahwa Nabi Muhammad saw. pertama kali belajar berdagang saat menerima wahyu. Apa perbaikannya sesuai pokok bab?",
+          "options": [
+            "Pengalaman berdagang sudah ada ketika beliau masih muda",
+            "Perdagangan baru dipelajari sesudah hijrah",
+            "Perdagangan dimulai setelah beliau tinggal di Madinah",
+            "Beliau berdagang sebelum lahir di Makkah"
+          ],
+          "answer": "Pengalaman berdagang sudah ada ketika beliau masih muda",
+          "discussion": "Beliau mengenal perdagangan melalui pengalaman masa muda, sebelum menerima wahyu."
+        },
+        {
+          "id": "K03-PAI-B05-M01-029",
+          "type": "PG",
+          "text": "Apa simpulan yang sesuai dari kisah menggembala dan ikut rombongan dagang?",
+          "options": [
+            "Setiap anak perlu pergi berdagang jauh",
+            "Kejujuran hanya diperlukan di pasar",
+            "Pengalaman masa muda dapat melatih tanggung jawab",
+            "Orang dapat dipercaya cukup dengan mengaku jujur"
+          ],
+          "answer": "Pengalaman masa muda dapat melatih tanggung jawab",
+          "discussion": "Merawat ternak dan mengikuti perjalanan dagang adalah pengalaman yang menuntut tanggung jawab."
+        },
+        {
+          "id": "K03-PAI-B05-M01-030",
+          "type": "PG",
+          "text": "Manakah catatan penutup yang menghubungkan kisah Al-Amin dengan tindakan sehari-hari?",
+          "options": [
+            "Aku akan menghafal gelar Al-Amin agar bisa mengejek teman.",
+            "Aku akan menjaga barang titipan dan mengembalikannya tepat waktu.",
+            "Aku akan meminta gelar yang sama sebelum menjalankan tugas.",
+            "Aku akan berkata jujur hanya jika diberi hadiah."
+          ],
+          "answer": "Aku akan menjaga barang titipan dan mengembalikannya tepat waktu.",
+          "discussion": "Meneladani sifat dapat dipercaya terlihat dari cara kita menjaga amanah."
+        }
+      ]
+    }
+  ]
+}
