@@ -1,12 +1,12 @@
 # Unit 6 — Aktivitas Permainan dan Olahraga di Air
 
-10 soal bergambar, **DRAF**. Ilustrasi SVG bersifat simbolik, belum ilustrasi gerak yang spesifik.
+10 soal bergambar telah direvisi dengan konteks; diagram SVG diproses terpisah dan pemeriksaan visual akhir masih diperlukan.
 
 ## Soal 36 — K03-PJK-B06-M01-036
 
 ![Ilustrasi Pelampung latihan](assets/pjk-b06-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Pelampung latihan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Anak memakai alat bantu apung saat belajar. Apa batas keamanan penggunaan alat?
 
 **Pilihan jawaban:**
 - alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan
@@ -24,7 +24,7 @@
 
 ![Ilustrasi Tepi kolam basah](assets/pjk-b06-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Tepi kolam basah". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Gambar menunjukkan jalur basah di sekitar kolam. Cara melintas yang aman adalah ....
 
 **Pilihan jawaban:**
 - dilewati dengan berlari
@@ -42,7 +42,7 @@
 
 ![Ilustrasi Jika teman kesulitan di air](assets/pjk-b06-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Jika teman kesulitan di air". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Seorang teman terlihat meminta pertolongan dari air. Apa tindakan anak yang tepat?
 
 **Pilihan jawaban:**
 - menertawakan
@@ -60,7 +60,7 @@
 
 ![Ilustrasi Aturan kolam renang](assets/pjk-b06-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Aturan kolam renang". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Papan petunjuk terlihat sebelum memasuki kolam. Bagaimana peserta menyikapinya?
 
 **Pilihan jawaban:**
 - berlaku saat lomba saja
@@ -78,7 +78,7 @@
 
 ![Ilustrasi Latihan gerak kaki di air](assets/pjk-b06-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Latihan gerak kaki di air". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Guru memandu gerakan kaki dengan pegangan. Bagaimana siswa melatihnya?
 
 **Pilihan jawaban:**
 - dilakukan dengan pegangan atau bantuan sesuai arahan
@@ -96,7 +96,7 @@
 
 ![Ilustrasi Keselamatan di kolam](assets/pjk-b06-gambar-06.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang keselamatan di kolam?
+**Pertanyaan:** Siswa masuk area air saat guru mengawasi. Aturan paling penting apa?
 
 **Pilihan jawaban:**
 - berenang sendirian
@@ -114,7 +114,7 @@
 
 ![Ilustrasi Pengenalan air](assets/pjk-b06-gambar-07.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang pengenalan air?
+**Pertanyaan:** Anak pemula dikenalkan pada air secara bertahap. Prinsip yang benar adalah ....
 
 **Pilihan jawaban:**
 - tanpa pengawasan
@@ -132,7 +132,7 @@
 
 ![Ilustrasi Berjalan di air dangkal](assets/pjk-b06-gambar-08.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang berjalan di air dangkal?
+**Pertanyaan:** Siswa berada di kolam dangkal bersama pengawas. Bagaimana berjalan di air dengan aman?
 
 **Pilihan jawaban:**
 - dilakukan sendirian di sungai
@@ -150,7 +150,7 @@
 
 ![Ilustrasi Mengembuskan napas ke air](assets/pjk-b06-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang mengembuskan napas ke air?
+**Pertanyaan:** Guru memberi instruksi latihan napas sederhana. Cara melakukannya adalah ....
 
 **Pilihan jawaban:**
 - dilatih perlahan sesuai instruksi
@@ -168,7 +168,7 @@
 
 ![Ilustrasi Mengapung](assets/pjk-b06-gambar-10.svg)
 
-**Pertanyaan:** Perhatikan ilustrasi berikut. Apa penjelasan yang tepat tentang mengapung?
+**Pertanyaan:** Tubuh berada dekat permukaan air dengan alat bantu bila perlu. Penjelasan yang sesuai ialah ....
 
 **Pilihan jawaban:**
 - menyelam tanpa batas
