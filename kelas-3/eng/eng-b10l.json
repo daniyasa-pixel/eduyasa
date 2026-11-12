@@ -1,0 +1,109 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B10",
+      "chapter_title": "There Are Twenty Books on the Shelf",
+      "questions": [
+        {
+          "id": "K03-ENG-B10-M01-046",
+          "type": "PG",
+          "text": "Listen carefully. How many books are there?",
+          "options": [
+            "ten",
+            "eleven",
+            "twelve",
+            "fifteen"
+          ],
+          "answer": "twelve",
+          "discussion": "The audio states twelve books.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "There are twelve books on the shelf.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-047",
+          "type": "PG",
+          "text": "Listen carefully. How many pencils are in the box?",
+          "options": [
+            "fifteen",
+            "thirteen",
+            "seventeen",
+            "twenty"
+          ],
+          "answer": "fifteen",
+          "discussion": "The count is fifteen.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "There are fifteen pencils in the box.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-048",
+          "type": "PG",
+          "text": "Listen carefully. How many notebooks are there now?",
+          "options": [
+            "twelve",
+            "fourteen",
+            "fifteen",
+            "sixteen"
+          ],
+          "answer": "sixteen",
+          "discussion": "Fourteen plus two makes sixteen.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "I have fourteen notebooks and two more. Now I have sixteen notebooks.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-049",
+          "type": "PG",
+          "text": "Listen carefully. How many chairs are there?",
+          "options": [
+            "twenty",
+            "eighteen",
+            "eleven",
+            "thirteen"
+          ],
+          "answer": "eighteen",
+          "discussion": "The reply corrects twenty to eighteen.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "Are there twenty chairs? No, there are eighteen chairs.",
+            "rate": 0.85
+          }
+        },
+        {
+          "id": "K03-ENG-B10-M01-050",
+          "type": "PG",
+          "text": "Listen carefully. How many books are there altogether?",
+          "options": [
+            "seventeen",
+            "eighteen",
+            "nineteen",
+            "twenty"
+          ],
+          "answer": "nineteen",
+          "discussion": "Ten plus nine is nineteen.",
+          "audio": {
+            "type": "tts",
+            "lang": "en-US",
+            "text": "There are ten books on the first shelf and nine on the second shelf.",
+            "rate": 0.85
+          }
+        }
+      ]
+    }
+  ]
+}
