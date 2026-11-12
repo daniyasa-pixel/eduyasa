@@ -1,103 +1,104 @@
 # Unit 9 — 5 Soal Listening
 
-**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
+**Status:** Web Speech API (speechSynthesis), bukan MP3; transkrip produksi harus disembunyikan dari siswa. Uji perangkat masih diperlukan.
 
 ## Soal 46 — K03-ENG-B09-M01-046
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"clean","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"My classroom is clean. The floor has no rubbish.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** clean
+**Transkrip produksi (disembunyikan dari siswa):** My classroom is clean. The floor has no rubbish.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. How is the classroom described?
 
 **Pilihan jawaban:**
-- big
+- dirty
 - messy
 - clean
-- noisy
+- dark
 
 **Kunci Jawaban:** clean
 
-**Pembahasan:** Audio menyebutkan "clean" (bersih).
+**Pembahasan:** The room is called clean.
 
 ---
 
 ## Soal 47 — K03-ENG-B09-M01-047
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"dirty","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The shoes are dirty after the rain.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** dirty
+**Transkrip produksi (disembunyikan dari siswa):** The shoes are dirty after the rain.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. Which adjective describes the shoes?
 
 **Pilihan jawaban:**
 - bright
 - dirty
-- clean
-- small
+- quiet
+- tidy
 
 **Kunci Jawaban:** dirty
 
-**Pembahasan:** Audio menyebutkan "dirty" (kotor).
+**Pembahasan:** The audio says dirty.
 
 ---
 
 ## Soal 48 — K03-ENG-B09-M01-048
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"big","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The room is small, but it is bright.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** big
+**Transkrip produksi (disembunyikan dari siswa):** The room is small, but it is bright.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. How is the lighting described?
 
 **Pilihan jawaban:**
-- big
-- dirty
-- tidy
 - dark
+- noisy
+- bright
+- messy
 
-**Kunci Jawaban:** big
+**Kunci Jawaban:** bright
 
-**Pembahasan:** Audio menyebutkan "big" (besar).
+**Pembahasan:** Bright describes the light.
 
 ---
 
 ## Soal 49 — K03-ENG-B09-M01-049
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"small","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The books are tidy on the shelf.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** small
+**Transkrip produksi (disembunyikan dari siswa):** The books are tidy on the shelf.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. How are the books described?
 
 **Pilihan jawaban:**
-- big
 - messy
-- quiet
-- small
+- dirty
+- big
+- tidy
 
-**Kunci Jawaban:** small
+**Kunci Jawaban:** tidy
 
-**Pembahasan:** Audio menyebutkan "small" (kecil).
+**Pembahasan:** Books are described as tidy.
 
 ---
 
 ## Soal 50 — K03-ENG-B09-M01-050
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"tidy","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Is the classroom noisy? No, it is quiet.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** tidy
+**Transkrip produksi (disembunyikan dari siswa):** Is the classroom noisy? No, it is quiet.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Listen carefully. Which adjective describes the classroom?
 
 **Pilihan jawaban:**
-- bright
 - noisy
-- tidy
+- quiet
+- dirty
 - small
 
-**Kunci Jawaban:** tidy
+**Kunci Jawaban:** quiet
 
-**Pembahasan:** Audio menyebutkan "tidy" (rapi).
+**Pembahasan:** The answer corrects noisy to quiet.
 
 ---
+
