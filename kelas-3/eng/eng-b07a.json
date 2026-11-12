@@ -1,0 +1,184 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B07",
+      "chapter_title": "My Class Is Behind the Office",
+      "questions": [
+        {
+          "id": "K03-ENG-B07-M01-036",
+          "type": "PG",
+          "text": "Where is the classroom?",
+          "options": [
+            "behind the office",
+            "in front of the office",
+            "under the office",
+            "between two offices"
+          ],
+          "answer": "behind the office",
+          "discussion": "Pada gambar, ruang kelas berada di belakang kantor.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b07-gambar-01.svg",
+            "alt": "Classroom behind office"
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-037",
+          "type": "PG",
+          "text": "Where is the gate?",
+          "options": [
+            "behind the school",
+            "in front of the school",
+            "on the school",
+            "under the school"
+          ],
+          "answer": "in front of the school",
+          "discussion": "Gerbang tampak di depan sekolah, yaitu **in front of the school**.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b07-gambar-02.svg",
+            "alt": "Gate in front of school"
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-038",
+          "type": "PG",
+          "text": "Which place is beside the office?",
+          "options": [
+            "the library",
+            "the canteen",
+            "the classroom",
+            "the restroom"
+          ],
+          "answer": "the library",
+          "discussion": "Perpustakaan dan kantor tampak berdampingan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b07-gambar-03.svg",
+            "alt": "Library beside office"
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-039",
+          "type": "PG",
+          "text": "Which place is between the library and the office?",
+          "options": [
+            "the gate",
+            "the canteen",
+            "the laboratory",
+            "the parking area"
+          ],
+          "answer": "the canteen",
+          "discussion": "Kantin berada di tengah perpustakaan dan kantor.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b07-gambar-04.svg",
+            "alt": "Canteen between library and office"
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-040",
+          "type": "PG",
+          "text": "Where is the pencil?",
+          "options": [
+            "in the pencil case",
+            "behind the pencil case",
+            "under the pencil case",
+            "beside the pencil case"
+          ],
+          "answer": "in the pencil case",
+          "discussion": "Pensil tampak berada **in the pencil case**.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b07-gambar-05.svg",
+            "alt": "Pencil in pencil case"
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-041",
+          "type": "PG",
+          "text": "Where is the book?",
+          "options": [
+            "under the desk",
+            "on the desk",
+            "behind the desk",
+            "between two desks"
+          ],
+          "answer": "on the desk",
+          "discussion": "Buku berada di atas dan menyentuh permukaan meja.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b07-gambar-06.svg",
+            "alt": "Book on desk"
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-042",
+          "type": "PG",
+          "text": "Which sentence matches the picture?",
+          "options": [
+            "The bag is on the chair.",
+            "The bag is beside the chair.",
+            "The bag is behind the chair.",
+            "The bag is under the chair."
+          ],
+          "answer": "The bag is under the chair.",
+          "discussion": "Tas tampak berada di bawah kursi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b07-gambar-07.svg",
+            "alt": "Bag under chair"
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-043",
+          "type": "PG",
+          "text": "Where is the ball?",
+          "options": [
+            "behind the chair",
+            "in front of the chair",
+            "on the chair",
+            "between two chairs"
+          ],
+          "answer": "behind the chair",
+          "discussion": "Sebagian bola tertutup kursi sehingga letaknya **behind the chair**.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b07-gambar-08.svg",
+            "alt": "Ball behind chair"
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-044",
+          "type": "PG",
+          "text": "Where is the cat?",
+          "options": [
+            "under the table",
+            "behind the table",
+            "in front of the table",
+            "on the table"
+          ],
+          "answer": "in front of the table",
+          "discussion": "Kucing digambar di depan meja.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b07-gambar-09.svg",
+            "alt": "Cat in front of table"
+          }
+        },
+        {
+          "id": "K03-ENG-B07-M01-045",
+          "type": "PG",
+          "text": "Which object is between the book and the pencil case?",
+          "options": [
+            "the ruler",
+            "the chair",
+            "the ball",
+            "the bag"
+          ],
+          "answer": "the ruler",
+          "discussion": "Penggaris berada di tengah buku dan kotak pensil.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b07-gambar-10.svg",
+            "alt": "Ruler between book and pencil case"
+          }
+        }
+      ]
+    }
+  ]
+}
