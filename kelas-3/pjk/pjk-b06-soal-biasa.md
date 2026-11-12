@@ -1,10 +1,10 @@
 # Unit 6 — Aktivitas Permainan dan Olahraga di Air
 
-35 soal teks, **DRAF**. Perlu audit variasi soal.
+35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
 
 ## Soal 1 — K03-PJK-B06-M01-001
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk keselamatan di kolam?
+**Pertanyaan:** Siswa ingin masuk kolam tanpa pendamping. Apa aturan utama yang harus dipenuhi?
 
 **Pilihan jawaban:**
 - berenang sendirian
@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-PJK-B06-M01-002
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk pengenalan air?
+**Pertanyaan:** Anak yang baru belajar merasa takut terkena air. Pendekatan apa yang tepat?
 
 **Pilihan jawaban:**
 - tanpa pengawasan
@@ -36,7 +36,7 @@
 
 ## Soal 3 — K03-PJK-B06-M01-003
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk berjalan di air dangkal?
+**Pertanyaan:** Di kolam dangkal, anak mengikuti petunjuk guru untuk berjalan. Syarat yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - dilakukan sendirian di sungai
@@ -52,7 +52,7 @@
 
 ## Soal 4 — K03-PJK-B06-M01-004
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk mengembuskan napas ke air?
+**Pertanyaan:** Guru memandu latihan napas sederhana dengan kondisi aman dan sesuai kesiapan siswa. Cara yang tepat adalah ....
 
 **Pilihan jawaban:**
 - dilatih perlahan sesuai instruksi
@@ -68,7 +68,7 @@
 
 ## Soal 5 — K03-PJK-B06-M01-005
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk mengapung?
+**Pertanyaan:** Dengan bantuan dan arahan guru, tubuh seorang siswa bertahan di permukaan air. Latihan itu adalah ....
 
 **Pilihan jawaban:**
 - menyelam tanpa batas
@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-PJK-B06-M01-006
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk pelampung latihan?
+**Pertanyaan:** Ada alat bantu apung di pinggir kolam. Bagaimana sebaiknya alat digunakan?
 
 **Pilihan jawaban:**
 - alat untuk memukul
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-PJK-B06-M01-007
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk tepi kolam basah?
+**Pertanyaan:** Lantai di sekitar kolam tampak licin. Bagaimana cara bergerak yang paling tepat?
 
 **Pilihan jawaban:**
 - digunakan mendorong teman
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-PJK-B06-M01-008
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk jika teman kesulitan di air?
+**Pertanyaan:** Seorang teman terlihat kesulitan di air. Apa tindakan siswa yang aman?
 
 **Pilihan jawaban:**
 - segera memanggil guru atau penjaga kolam
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-PJK-B06-M01-009
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk aturan kolam renang?
+**Pertanyaan:** Kolam memiliki aturan yang terpasang pada papan informasi. Bagaimana peserta harus bersikap?
 
 **Pilihan jawaban:**
 - boleh diabaikan
@@ -148,7 +148,7 @@
 
 ## Soal 10 — K03-PJK-B06-M01-010
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk latihan gerak kaki di air?
+**Pertanyaan:** Guru melatih gerak kaki sambil anak berpegangan pada tepian dalam pengawasan. Pilih cara sesuai.
 
 **Pilihan jawaban:**
 - dilakukan di air deras
@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-PJK-B06-M01-011
 
-**Pertanyaan:** Saat pelajaran aktivitas permainan dan olahraga di air, guru membahas "Keselamatan di kolam". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru mengawasi latihan pengenalan air. Mengapa pengawasan diperlukan?
 
 **Pilihan jawaban:**
 - mendorong teman ke air
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-PJK-B06-M01-012
 
-**Pertanyaan:** Saat pelajaran aktivitas permainan dan olahraga di air, guru membahas "Pengenalan air". Pernyataan manakah yang benar?
+**Pertanyaan:** Sebelum melakukan latihan lain, guru mengenalkan lingkungan air secara perlahan. Prinsipnya adalah ....
 
 **Pilihan jawaban:**
 - dilakukan bertahap di tempat aman dan diawasi
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-PJK-B06-M01-013
 
-**Pertanyaan:** Saat pelajaran aktivitas permainan dan olahraga di air, guru membahas "Berjalan di air dangkal". Pernyataan manakah yang benar?
+**Pertanyaan:** Sebelum mulai berjalan di kolam, guru mengecek kedalaman dan arahan. Mengapa hal itu penting?
 
 **Pilihan jawaban:**
 - dilakukan di air deras
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-PJK-B06-M01-014
 
-**Pertanyaan:** Saat pelajaran aktivitas permainan dan olahraga di air, guru membahas "Mengembuskan napas ke air". Pernyataan manakah yang benar?
+**Pertanyaan:** Seorang anak belum siap memasukkan wajah ke air. Bagaimana pembelajaran seharusnya berlangsung?
 
 **Pilihan jawaban:**
 - dilakukan tanpa bernapas lama
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-PJK-B06-M01-015
 
-**Pertanyaan:** Saat pelajaran aktivitas permainan dan olahraga di air, guru membahas "Mengapung". Pernyataan manakah yang benar?
+**Pertanyaan:** Siswa mempelajari posisi tubuh saat tetap berada di atas permukaan air. Pilih penjelasan sesuai.
 
 **Pilihan jawaban:**
 - melempar batu
@@ -244,7 +244,7 @@
 
 ## Soal 16 — K03-PJK-B06-M01-016
 
-**Pertanyaan:** Saat pelajaran aktivitas permainan dan olahraga di air, guru membahas "Pelampung latihan". Pernyataan manakah yang benar?
+**Pertanyaan:** Seorang siswa mengira memakai alat bantu berarti tidak perlu pengawas. Apa penjelasan yang benar?
 
 **Pilihan jawaban:**
 - alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan
@@ -260,7 +260,7 @@
 
 ## Soal 17 — K03-PJK-B06-M01-017
 
-**Pertanyaan:** Saat pelajaran aktivitas permainan dan olahraga di air, guru membahas "Tepi kolam basah". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru melarang siswa berlari di tepi kolam basah. Tindakan yang sesuai ialah ....
 
 **Pilihan jawaban:**
 - dilewati dengan berlari
@@ -276,7 +276,7 @@
 
 ## Soal 18 — K03-PJK-B06-M01-018
 
-**Pertanyaan:** Saat pelajaran aktivitas permainan dan olahraga di air, guru membahas "Jika teman kesulitan di air". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru berada tidak jauh dari kolam, sementara teman meminta bantuan. Apa yang sebaiknya dilakukan?
 
 **Pilihan jawaban:**
 - menertawakan
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-PJK-B06-M01-019
 
-**Pertanyaan:** Saat pelajaran aktivitas permainan dan olahraga di air, guru membahas "Aturan kolam renang". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru meminta semua anak mendengarkan aturan sebelum mendekat ke air. Tujuannya adalah ....
 
 **Pilihan jawaban:**
 - berlaku saat lomba saja
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-PJK-B06-M01-020
 
-**Pertanyaan:** Saat pelajaran aktivitas permainan dan olahraga di air, guru membahas "Latihan gerak kaki di air". Pernyataan manakah yang benar?
+**Pertanyaan:** Saat belajar gerakan kaki, siswa memerlukan bantuan dan tempat yang aman. Apa prinsipnya?
 
 **Pilihan jawaban:**
 - dilakukan dengan pegangan atau bantuan sesuai arahan
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-PJK-B06-M01-021
 
-**Pertanyaan:** Rani ingin memahami keselamatan di kolam. Pilih penjelasan yang tepat.
+**Pertanyaan:** Dalam semua aktivitas air sekolah, siapa yang sebaiknya memastikan keselamatan anak?
 
 **Pilihan jawaban:**
 - berenang sendirian
@@ -340,7 +340,7 @@
 
 ## Soal 22 — K03-PJK-B06-M01-022
 
-**Pertanyaan:** Rani ingin memahami pengenalan air. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa kegiatan pertama di air tidak boleh dipaksakan atau dilakukan tanpa pengawasan?
 
 **Pilihan jawaban:**
 - tanpa pengawasan
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-PJK-B06-M01-023
 
-**Pertanyaan:** Rani ingin memahami berjalan di air dangkal. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apakah siswa boleh berjalan sendiri ke bagian kolam yang semakin dalam? Pilih prinsipnya.
 
 **Pilihan jawaban:**
 - dilakukan sendirian di sungai
@@ -372,7 +372,7 @@
 
 ## Soal 24 — K03-PJK-B06-M01-024
 
-**Pertanyaan:** Rani ingin memahami mengembuskan napas ke air. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa prinsip mempelajari cara mengeluarkan napas saat latihan air?
 
 **Pilihan jawaban:**
 - dilatih perlahan sesuai instruksi
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-PJK-B06-M01-025
 
-**Pertanyaan:** Rani ingin memahami mengapung. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apakah siswa pemula boleh dipaksa mengapung tanpa dukungan? Pilih prinsip yang tepat.
 
 **Pilihan jawaban:**
 - menyelam tanpa batas
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-PJK-B06-M01-026
 
-**Pertanyaan:** Rani ingin memahami pelampung latihan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa batas penggunaan alat bantu apung dalam latihan siswa?
 
 **Pilihan jawaban:**
 - alat untuk memukul
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-PJK-B06-M01-027
 
-**Pertanyaan:** Rani ingin memahami tepi kolam basah. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa prinsip keselamatan saat melintasi permukaan basah di sekitar kolam?
 
 **Pilihan jawaban:**
 - digunakan mendorong teman
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-PJK-B06-M01-028
 
-**Pertanyaan:** Rani ingin memahami jika teman kesulitan di air. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa anak tidak boleh langsung melompat menolong tanpa keterampilan penyelamatan?
 
 **Pilihan jawaban:**
 - segera memanggil guru atau penjaga kolam
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-PJK-B06-M01-029
 
-**Pertanyaan:** Rani ingin memahami aturan kolam renang. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa aturan di area kolam berlaku bagi seluruh peserta?
 
 **Pilihan jawaban:**
 - boleh diabaikan
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-PJK-B06-M01-030
 
-**Pertanyaan:** Rani ingin memahami latihan gerak kaki di air. Pilih penjelasan yang tepat.
+**Pertanyaan:** Bagaimana latihan kaki pemula di air sebaiknya dilakukan?
 
 **Pilihan jawaban:**
 - dilakukan di air deras
@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B06-M01-031
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Keselamatan di kolam". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Siswa ingin masuk kolam tanpa pendamping. Apa aturan utama yang harus dipenuhi?
 
 **Pilihan jawaban:**
 - mendorong teman ke air
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B06-M01-032
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Pengenalan air". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Anak yang baru belajar merasa takut terkena air. Pendekatan apa yang tepat?
 
 **Pilihan jawaban:**
 - dilakukan bertahap di tempat aman dan diawasi
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B06-M01-033
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Berjalan di air dangkal". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Di kolam dangkal, anak mengikuti petunjuk guru untuk berjalan. Syarat yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - dilakukan di air deras
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B06-M01-034
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Mengembuskan napas ke air". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Guru memandu latihan napas sederhana dengan kondisi aman dan sesuai kesiapan siswa. Cara yang tepat adalah ....
 
 **Pilihan jawaban:**
 - dilakukan tanpa bernapas lama
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B06-M01-035
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Mengapung". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Dengan bantuan dan arahan guru, tubuh seorang siswa bertahan di permukaan air. Latihan itu adalah ....
 
 **Pilihan jawaban:**
 - melempar batu
