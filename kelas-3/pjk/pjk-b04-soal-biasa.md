@@ -1,10 +1,10 @@
 # Unit 4 — Aktivitas Gerak Dominan Senam
 
-35 soal teks, **DRAF**. Perlu audit variasi soal.
+35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
 
 ## Soal 1 — K03-PJK-B04-M01-001
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk bertumpu?
+**Pertanyaan:** Saat latihan dasar senam, telapak tangan membantu menopang tubuh. Gerak dominan apa yang tampak?
 
 **Pilihan jawaban:**
 - berlari sprint
@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-PJK-B04-M01-002
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk berguling depan?
+**Pertanyaan:** Guru menyiapkan matras dan membimbing gerak tubuh berputar ke arah depan. Manakah uraian yang tepat?
 
 **Pilihan jawaban:**
 - menggulingkan tubuh ke depan di matras dengan bimbingan
@@ -36,7 +36,7 @@
 
 ## Soal 3 — K03-PJK-B04-M01-003
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk sikap keseimbangan?
+**Pertanyaan:** Siswa berdiri pada posisi yang ditunjukkan guru tanpa jatuh. Kemampuan yang dilatih adalah ....
 
 **Pilihan jawaban:**
 - mendorong teman
@@ -52,7 +52,7 @@
 
 ## Soal 4 — K03-PJK-B04-M01-004
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk matras senam?
+**Pertanyaan:** Untuk latihan lantai, guru memilih alas empuk yang sesuai. Fungsinya adalah ....
 
 **Pilihan jawaban:**
 - dipakai sebagai bola
@@ -68,7 +68,7 @@
 
 ## Soal 5 — K03-PJK-B04-M01-005
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk gerakan mendarat?
+**Pertanyaan:** Seorang siswa turun dari loncatan rendah dan menekuk lututnya secara wajar. Ini menunjukkan ....
 
 **Pilihan jawaban:**
 - dilakukan sambil mendorong teman
@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-PJK-B04-M01-006
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk latihan senam dasar?
+**Pertanyaan:** Ada siswa yang belum siap melakukan gerakan senam tertentu. Bagaimana guru seharusnya mengatur latihan?
 
 **Pilihan jawaban:**
 - dilakukan sesuai kemampuan dan arahan guru
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-PJK-B04-M01-007
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk pemanasan senam?
+**Pertanyaan:** Sebelum aktivitas bertumpu dan berguling, siswa melakukan gerak persiapan. Apa manfaatnya?
 
 **Pilihan jawaban:**
 - menggantikan seluruh latihan
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-PJK-B04-M01-008
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk sikap tubuh saat berguling?
+**Pertanyaan:** Pada latihan berguling, guru menekankan posisi kepala dan leher yang aman. Pilih prinsip yang tepat.
 
 **Pilihan jawaban:**
 - mata selalu ditutup
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-PJK-B04-M01-009
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk teman saat senam?
+**Pertanyaan:** Dua siswa berlatih di satu matras kecil. Bagaimana pengaturan giliran yang aman?
 
 **Pilihan jawaban:**
 - melempar alat
@@ -148,7 +148,7 @@
 
 ## Soal 10 — K03-PJK-B04-M01-010
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk gerak dominan senam?
+**Pertanyaan:** Latihan terdiri atas menopang tubuh, menjaga stabilitas, dan gerak berguling. Ini termasuk ....
 
 **Pilihan jawaban:**
 - meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran
@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-PJK-B04-M01-011
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak dominan senam, guru membahas "Bertumpu". Pernyataan manakah yang benar?
+**Pertanyaan:** Siswa membagi berat tubuh antara kaki dan tangan pada posisi aman. Penjelasan yang sesuai ialah ....
 
 **Pilihan jawaban:**
 - melempar bola
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-PJK-B04-M01-012
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak dominan senam, guru membahas "Berguling depan". Pernyataan manakah yang benar?
+**Pertanyaan:** Seorang siswa akan mencoba gerak berguling. Apa syarat bimbingan dan alas yang sesuai?
 
 **Pilihan jawaban:**
 - menendang bola
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-PJK-B04-M01-013
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak dominan senam, guru membahas "Sikap keseimbangan". Pernyataan manakah yang benar?
+**Pertanyaan:** Saat bergerak lambat di atas garis lantai, anak harus tetap stabil. Uraian yang tepat adalah ....
 
 **Pilihan jawaban:**
 - melempar bola
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-PJK-B04-M01-014
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak dominan senam, guru membahas "Matras senam". Pernyataan manakah yang benar?
+**Pertanyaan:** Siswa tidak dianjurkan mencoba guling di lantai keras. Peralatan yang dibutuhkan berfungsi untuk ....
 
 **Pilihan jawaban:**
 - membantu menyediakan permukaan latihan yang lebih aman
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-PJK-B04-M01-015
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak dominan senam, guru membahas "Gerakan mendarat". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru mengingatkan agar lutut tidak terkunci saat kaki menyentuh lantai. Prinsipnya ialah ....
 
 **Pilihan jawaban:**
 - dilakukan sambil menutup mata
@@ -244,7 +244,7 @@
 
 ## Soal 16 — K03-PJK-B04-M01-016
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak dominan senam, guru membahas "Latihan senam dasar". Pernyataan manakah yang benar?
+**Pertanyaan:** Gerakan baru terasa sulit bagi beberapa anak. Prinsip pembelajaran yang sesuai ialah ....
 
 **Pilihan jawaban:**
 - selalu dilakukan sendirian
@@ -260,7 +260,7 @@
 
 ## Soal 17 — K03-PJK-B04-M01-017
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak dominan senam, guru membahas "Pemanasan senam". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru mengawali senam dengan pemanasan tubuh. Tujuan yang sesuai adalah ....
 
 **Pilihan jawaban:**
 - menghilangkan risiko sepenuhnya
@@ -276,7 +276,7 @@
 
 ## Soal 18 — K03-PJK-B04-M01-018
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak dominan senam, guru membahas "Sikap tubuh saat berguling". Pernyataan manakah yang benar?
+**Pertanyaan:** Siswa hendak melakukan guling tetapi belum memahami posisi kepala. Apa tindakan yang seharusnya dilakukan?
 
 **Pilihan jawaban:**
 - kepala dan leher dijaga sesuai arahan guru
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-PJK-B04-M01-019
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak dominan senam, guru membahas "Teman saat senam". Pernyataan manakah yang benar?
+**Pertanyaan:** Seorang siswa mendekati teman yang sedang berguling. Apa aturan jarak yang tepat?
 
 **Pilihan jawaban:**
 - saling mendorong
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-PJK-B04-M01-020
 
-**Pertanyaan:** Saat pelajaran aktivitas gerak dominan senam, guru membahas "Gerak dominan senam". Pernyataan manakah yang benar?
+**Pertanyaan:** Guru memperlihatkan kegiatan bertumpu dan keseimbangan. Kelompok gerak apakah yang dipelajari?
 
 **Pilihan jawaban:**
 - hanya berenang
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-PJK-B04-M01-021
 
-**Pertanyaan:** Rani ingin memahami bertumpu. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa prinsip gerak ketika sebagian berat badan ditopang tangan atau kaki?
 
 **Pilihan jawaban:**
 - berlari sprint
@@ -340,7 +340,7 @@
 
 ## Soal 22 — K03-PJK-B04-M01-022
 
-**Pertanyaan:** Rani ingin memahami berguling depan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Dalam senam, tubuh berpindah mengikuti gerak berguling ke depan. Pilih penjelasan benar.
 
 **Pilihan jawaban:**
 - menggulingkan tubuh ke depan di matras dengan bimbingan
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-PJK-B04-M01-023
 
-**Pertanyaan:** Rani ingin memahami sikap keseimbangan. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa postur stabil penting saat melakukan gerak dominan senam?
 
 **Pilihan jawaban:**
 - mendorong teman
@@ -372,7 +372,7 @@
 
 ## Soal 24 — K03-PJK-B04-M01-024
 
-**Pertanyaan:** Rani ingin memahami matras senam. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa pemilihan alas latihan termasuk bagian penting keselamatan senam?
 
 **Pilihan jawaban:**
 - dipakai sebagai bola
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-PJK-B04-M01-025
 
-**Pertanyaan:** Rani ingin memahami gerakan mendarat. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa cara mendarat yang lebih terkendali sesudah gerak senam?
 
 **Pilihan jawaban:**
 - dilakukan sambil mendorong teman
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-PJK-B04-M01-026
 
-**Pertanyaan:** Rani ingin memahami latihan senam dasar. Pilih penjelasan yang tepat.
+**Pertanyaan:** Bagaimana memilih tingkat kesulitan kegiatan senam untuk siswa dengan kemampuan berbeda?
 
 **Pilihan jawaban:**
 - dilakukan sesuai kemampuan dan arahan guru
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-PJK-B04-M01-027
 
-**Pertanyaan:** Rani ingin memahami pemanasan senam. Pilih penjelasan yang tepat.
+**Pertanyaan:** Mengapa pemanasan dilakukan sebelum gerakan senam utama?
 
 **Pilihan jawaban:**
 - menggantikan seluruh latihan
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-PJK-B04-M01-028
 
-**Pertanyaan:** Rani ingin memahami sikap tubuh saat berguling. Pilih penjelasan yang tepat.
+**Pertanyaan:** Apa yang harus diprioritaskan agar kepala dan leher tidak menanggung tekanan yang tidak aman saat berguling?
 
 **Pilihan jawaban:**
 - mata selalu ditutup
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-PJK-B04-M01-029
 
-**Pertanyaan:** Rani ingin memahami teman saat senam. Pilih penjelasan yang tepat.
+**Pertanyaan:** Saat senam kelompok, tindakan apa membantu menghindari tabrakan?
 
 **Pilihan jawaban:**
 - melempar alat
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-PJK-B04-M01-030
 
-**Pertanyaan:** Rani ingin memahami gerak dominan senam. Pilih penjelasan yang tepat.
+**Pertanyaan:** Manakah cakupan keterampilan yang cocok untuk gerak dominan dalam senam dasar?
 
 **Pilihan jawaban:**
 - meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran
@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B04-M01-031
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Bertumpu". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Saat latihan dasar senam, telapak tangan membantu menopang tubuh. Gerak dominan apa yang tampak?
 
 **Pilihan jawaban:**
 - melempar bola
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B04-M01-032
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Berguling depan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Guru menyiapkan matras dan membimbing gerak tubuh berputar ke arah depan. Manakah uraian yang tepat?
 
 **Pilihan jawaban:**
 - menendang bola
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B04-M01-033
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Sikap keseimbangan". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Siswa berdiri pada posisi yang ditunjukkan guru tanpa jatuh. Kemampuan yang dilatih adalah ....
 
 **Pilihan jawaban:**
 - melempar bola
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B04-M01-034
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Matras senam". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Untuk latihan lantai, guru memilih alas empuk yang sesuai. Fungsinya adalah ....
 
 **Pilihan jawaban:**
 - membantu menyediakan permukaan latihan yang lebih aman
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B04-M01-035
 
-**Pertanyaan:** Perhatikan kegiatan atau konsep "Gerakan mendarat". Jawaban yang paling sesuai adalah ....
+**Pertanyaan:** Seorang siswa turun dari loncatan rendah dan menekuk lututnya secara wajar. Ini menunjukkan ....
 
 **Pilihan jawaban:**
 - dilakukan sambil menutup mata
