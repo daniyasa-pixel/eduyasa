@@ -1,0 +1,469 @@
+{
+  "subject_id": "SBD",
+  "subject_name": "Seni Rupa",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-SBD-B03",
+      "chapter_title": "Ideku, Gagasanku",
+      "questions": [
+        {
+          "id": "K03-SBD-B03-M01-001",
+          "type": "PG",
+          "text": "Arman ingin membuat gambar taman, lalu menggambar versi cepat dengan pensil sebelum mewarnai. Gambar awal ini disebut ....",
+          "options": [
+            "alat untuk menghapus",
+            "jenis cat",
+            "gambar rancangan awal",
+            "karya yang selalu sudah selesai"
+          ],
+          "answer": "gambar rancangan awal",
+          "discussion": "Sketsa adalah gambar rancangan awal."
+        },
+        {
+          "id": "K03-SBD-B03-M01-002",
+          "type": "PG",
+          "text": "Sebelum memilih objek untuk poster sekolah, Sinta menuliskan apa yang ingin disampaikan. Langkah tersebut adalah ....",
+          "options": [
+            "membuang semua alat",
+            "meniru persis karya teman",
+            "mengabaikan tugas",
+            "menentukan ide atau tema"
+          ],
+          "answer": "menentukan ide atau tema",
+          "discussion": "Sebelum membuat karya, langkah awal yang baik adalah menentukan ide atau tema."
+        },
+        {
+          "id": "K03-SBD-B03-M01-003",
+          "type": "PG",
+          "text": "Dina menaruh kata 'lingkungan' di tengah kertas, lalu membuat cabang 'air', 'sampah', dan 'pohon'. Cara ini membantu ....",
+          "options": [
+            "mengembangkan hubungan antaride",
+            "mengeringkan cat",
+            "memotong kertas",
+            "mencampur lem"
+          ],
+          "answer": "mengembangkan hubungan antaride",
+          "discussion": "Peta pikiran membantu mengembangkan hubungan antaride."
+        },
+        {
+          "id": "K03-SBD-B03-M01-004",
+          "type": "PG",
+          "text": "Poster menjaga kebersihan sungai akan dibuat. Objek mana yang paling sesuai untuk tema itu?",
+          "options": [
+            "daftar harga",
+            "pohon, sungai, dan tempat sampah",
+            "hanya angka acak",
+            "jadwal kereta"
+          ],
+          "answer": "pohon, sungai, dan tempat sampah",
+          "discussion": "Gambar bertema lingkungan dapat memuat pohon, sungai, dan tempat sampah."
+        },
+        {
+          "id": "K03-SBD-B03-M01-005",
+          "type": "PG",
+          "text": "Untuk mencoba beberapa susunan bentuk tanpa menghabiskan cat, alat sederhana yang dipakai ialah ....",
+          "options": [
+            "kaca pecah",
+            "pisau tajam",
+            "pensil dan kertas",
+            "air mendidih"
+          ],
+          "answer": "pensil dan kertas",
+          "discussion": "Bahan yang cocok untuk sketsa awal adalah pensil dan kertas."
+        },
+        {
+          "id": "K03-SBD-B03-M01-006",
+          "type": "PG",
+          "text": "Raka bingung mencari ide karya. Ia mengingat kegiatan bersepeda dan bermain dengan keluarga. Sumber ide itu adalah ....",
+          "options": [
+            "hanya televisi",
+            "hanya buku mahal",
+            "hanya gambar orang lain",
+            "pengalaman sehari-hari"
+          ],
+          "answer": "pengalaman sehari-hari",
+          "discussion": "Ide karya dapat berasal dari pengalaman sehari-hari."
+        },
+        {
+          "id": "K03-SBD-B03-M01-007",
+          "type": "PG",
+          "text": "Gambar rancangan pertama terlihat terlalu penuh. Daripada menyerah, langkah yang baik adalah ....",
+          "options": [
+            "mencoba alternatif dan memperbaiki rancangan",
+            "langsung menyerah",
+            "menyalahkan teman",
+            "merusak alat"
+          ],
+          "answer": "mencoba alternatif dan memperbaiki rancangan",
+          "discussion": "Saat ide pertama kurang cocok, kita dapat mencoba alternatif dan memperbaiki rancangan."
+        },
+        {
+          "id": "K03-SBD-B03-M01-008",
+          "type": "PG",
+          "text": "Untuk menggambarkan suasana hangat, Nina memilih kelompok cat warna ....",
+          "options": [
+            "abu-abu saja",
+            "merah, oranye, dan kuning",
+            "biru dan hijau saja",
+            "hitam dan putih saja"
+          ],
+          "answer": "merah, oranye, dan kuning",
+          "discussion": "Warna hangat mencakup merah, oranye, dan kuning."
+        },
+        {
+          "id": "K03-SBD-B03-M01-009",
+          "type": "PG",
+          "text": "Untuk menampilkan kesan sejuk pada gambar taman, Beni dapat memilih warna ....",
+          "options": [
+            "kuning dan merah",
+            "cokelat dan oranye",
+            "biru dan hijau",
+            "merah dan oranye"
+          ],
+          "answer": "biru dan hijau",
+          "discussion": "Warna sejuk mencakup biru dan hijau."
+        },
+        {
+          "id": "K03-SBD-B03-M01-010",
+          "type": "PG",
+          "text": "Saat menata pohon, jalan, dan matahari di halaman gambar, siswa sedang mengatur ....",
+          "options": [
+            "jenis lem",
+            "ukuran kuas",
+            "harga kertas",
+            "penataan unsur dalam bidang gambar"
+          ],
+          "answer": "penataan unsur dalam bidang gambar",
+          "discussion": "Komposisi berarti penataan unsur dalam bidang gambar."
+        },
+        {
+          "id": "K03-SBD-B03-M01-011",
+          "type": "PG",
+          "text": "Pada poster, gambar keran dibuat paling menonjol supaya mata pengamat tertuju ke sana. Bagian itu berfungsi ....",
+          "options": [
+            "menarik perhatian utama",
+            "selalu tersembunyi",
+            "tidak terlihat",
+            "harus dihapus"
+          ],
+          "answer": "menarik perhatian utama",
+          "discussion": "Titik fokus dalam gambar adalah bagian yang menarik perhatian utama."
+        },
+        {
+          "id": "K03-SBD-B03-M01-012",
+          "type": "PG",
+          "text": "Untuk mengajak warga menghemat air, simbol visual dan teks apa yang tepat disatukan pada poster?",
+          "options": [
+            "gambar tanpa hubungan",
+            "keran tertutup dan pesan singkat",
+            "air terbuang tanpa pesan",
+            "hanya coretan acak"
+          ],
+          "answer": "keran tertutup dan pesan singkat",
+          "discussion": "Rancangan poster hemat air dapat menampilkan keran tertutup dan pesan singkat."
+        },
+        {
+          "id": "K03-SBD-B03-M01-013",
+          "type": "PG",
+          "text": "Siswa ingin membuat karya dengan bahan bekas dari rumah. Faktor utama yang harus dipikirkan sebelum memakai bahan adalah ....",
+          "options": [
+            "warna kemasan saja",
+            "merek terkenal saja",
+            "keamanan dan ketersediaan bahan",
+            "harga paling mahal saja"
+          ],
+          "answer": "keamanan dan ketersediaan bahan",
+          "discussion": "Memilih bahan berkarya perlu mempertimbangkan keamanan dan ketersediaan bahan."
+        },
+        {
+          "id": "K03-SBD-B03-M01-014",
+          "type": "PG",
+          "text": "Ari melihat karya kakaknya sebagai inspirasi, tetapi menggambar versi idenya sendiri. Sikap tersebut menunjukkan ....",
+          "options": [
+            "menyalin karya teman lalu mengaku milik sendiri",
+            "menghapus nama pembuat",
+            "meniru tanpa memahami",
+            "mengembangkan ide sendiri dengan jujur"
+          ],
+          "answer": "mengembangkan ide sendiri dengan jujur",
+          "discussion": "Gagasan orisinal berarti mengembangkan ide sendiri dengan jujur."
+        },
+        {
+          "id": "K03-SBD-B03-M01-015",
+          "type": "PG",
+          "text": "Rina membuat tiga rancangan kecil dengan susunan yang berbeda. Apa manfaat membandingkannya?",
+          "options": [
+            "membandingkan pilihan komposisi",
+            "membuat kertas selalu basah",
+            "menghilangkan ide",
+            "menghindari belajar"
+          ],
+          "answer": "membandingkan pilihan komposisi",
+          "discussion": "Membuat beberapa sketsa kecil membantu membandingkan pilihan komposisi."
+        },
+        {
+          "id": "K03-SBD-B03-M01-016",
+          "type": "PG",
+          "text": "Seorang anak menggambar susunan kasar kursi dan meja untuk rancangan poster, belum menjadi karya akhir. Itu adalah ....",
+          "options": [
+            "jenis cat",
+            "gambar rancangan awal",
+            "karya yang selalu sudah selesai",
+            "alat untuk menghapus"
+          ],
+          "answer": "gambar rancangan awal",
+          "discussion": "Sketsa adalah gambar rancangan awal."
+        },
+        {
+          "id": "K03-SBD-B03-M01-017",
+          "type": "PG",
+          "text": "Guru meminta tiap kelompok menentukan pesan karya terlebih dahulu agar pilihan gambar terarah. Tahap yang dilakukan ialah ....",
+          "options": [
+            "meniru persis karya teman",
+            "mengabaikan tugas",
+            "menentukan ide atau tema",
+            "membuang semua alat"
+          ],
+          "answer": "menentukan ide atau tema",
+          "discussion": "Sebelum membuat karya, langkah awal yang baik adalah menentukan ide atau tema."
+        },
+        {
+          "id": "K03-SBD-B03-M01-018",
+          "type": "PG",
+          "text": "Dari ide 'sekolah hijau', anak membuat cabang 'tanaman', 'air bersih', dan 'sampah'. Metode ini menghubungkan ....",
+          "options": [
+            "mengeringkan cat",
+            "memotong kertas",
+            "mencampur lem",
+            "mengembangkan hubungan antaride"
+          ],
+          "answer": "mengembangkan hubungan antaride",
+          "discussion": "Peta pikiran membantu mengembangkan hubungan antaride."
+        },
+        {
+          "id": "K03-SBD-B03-M01-019",
+          "type": "PG",
+          "text": "Dalam sketsa tentang menjaga alam, anak ingin memperlihatkan air bersih, pohon, dan pengelolaan sampah. Objek yang cocok adalah ....",
+          "options": [
+            "pohon, sungai, dan tempat sampah",
+            "hanya angka acak",
+            "jadwal kereta",
+            "daftar harga"
+          ],
+          "answer": "pohon, sungai, dan tempat sampah",
+          "discussion": "Gambar bertema lingkungan dapat memuat pohon, sungai, dan tempat sampah."
+        },
+        {
+          "id": "K03-SBD-B03-M01-020",
+          "type": "PG",
+          "text": "Sebelum mencoba melukis dengan cat, Mira menggambar garis tipis pada kertas. Alat praktis yang ia perlukan ialah ....",
+          "options": [
+            "pisau tajam",
+            "pensil dan kertas",
+            "air mendidih",
+            "kaca pecah"
+          ],
+          "answer": "pensil dan kertas",
+          "discussion": "Bahan yang cocok untuk sketsa awal adalah pensil dan kertas."
+        },
+        {
+          "id": "K03-SBD-B03-M01-021",
+          "type": "PG",
+          "text": "Kegiatan jalan pagi memberi kesan menyenangkan bagi Raka dan ingin digambarkan. Ide tersebut berasal dari ....",
+          "options": [
+            "hanya buku mahal",
+            "hanya gambar orang lain",
+            "pengalaman sehari-hari",
+            "hanya televisi"
+          ],
+          "answer": "pengalaman sehari-hari",
+          "discussion": "Ide karya dapat berasal dari pengalaman sehari-hari."
+        },
+        {
+          "id": "K03-SBD-B03-M01-022",
+          "type": "PG",
+          "text": "Sebelum mengumpulkan karya, anak melihat tata letak belum jelas. Pilihan terbaik adalah ....",
+          "options": [
+            "langsung menyerah",
+            "menyalahkan teman",
+            "merusak alat",
+            "mencoba alternatif dan memperbaiki rancangan"
+          ],
+          "answer": "mencoba alternatif dan memperbaiki rancangan",
+          "discussion": "Saat ide pertama kurang cocok, kita dapat mencoba alternatif dan memperbaiki rancangan."
+        },
+        {
+          "id": "K03-SBD-B03-M01-023",
+          "type": "PG",
+          "text": "Anak menyiapkan kombinasi merah, oranye, dan kuning untuk kesan hangat. Kelompok ini dinamakan ....",
+          "options": [
+            "merah, oranye, dan kuning",
+            "biru dan hijau saja",
+            "hitam dan putih saja",
+            "abu-abu saja"
+          ],
+          "answer": "merah, oranye, dan kuning",
+          "discussion": "Warna hangat mencakup merah, oranye, dan kuning."
+        },
+        {
+          "id": "K03-SBD-B03-M01-024",
+          "type": "PG",
+          "text": "Jika ingin menciptakan nuansa dingin pada air dan pepohonan, contoh warna yang sesuai ialah ....",
+          "options": [
+            "cokelat dan oranye",
+            "biru dan hijau",
+            "merah dan oranye",
+            "kuning dan merah"
+          ],
+          "answer": "biru dan hijau",
+          "discussion": "Warna sejuk mencakup biru dan hijau."
+        },
+        {
+          "id": "K03-SBD-B03-M01-025",
+          "type": "PG",
+          "text": "Ketika gambar terkesan timpang, siswa mengubah posisi objek agar lebih nyaman dilihat. Ia memperbaiki ....",
+          "options": [
+            "ukuran kuas",
+            "harga kertas",
+            "penataan unsur dalam bidang gambar",
+            "jenis lem"
+          ],
+          "answer": "penataan unsur dalam bidang gambar",
+          "discussion": "Komposisi berarti penataan unsur dalam bidang gambar."
+        },
+        {
+          "id": "K03-SBD-B03-M01-026",
+          "type": "PG",
+          "text": "Guru meminta siswa memilih bagian yang ingin pertama kali dilihat penonton dalam poster. Bagian ini menjadi ....",
+          "options": [
+            "selalu tersembunyi",
+            "tidak terlihat",
+            "harus dihapus",
+            "menarik perhatian utama"
+          ],
+          "answer": "menarik perhatian utama",
+          "discussion": "Titik fokus dalam gambar adalah bagian yang menarik perhatian utama."
+        },
+        {
+          "id": "K03-SBD-B03-M01-027",
+          "type": "PG",
+          "text": "Siswa membuat poster untuk menutup keran sesudah dipakai. Unsur visual yang paling sesuai adalah ....",
+          "options": [
+            "keran tertutup dan pesan singkat",
+            "air terbuang tanpa pesan",
+            "hanya coretan acak",
+            "gambar tanpa hubungan"
+          ],
+          "answer": "keran tertutup dan pesan singkat",
+          "discussion": "Rancangan poster hemat air dapat menampilkan keran tertutup dan pesan singkat."
+        },
+        {
+          "id": "K03-SBD-B03-M01-028",
+          "type": "PG",
+          "text": "Sebelum mengambil cutter, cat, atau lem, siswa perlu memikirkan ....",
+          "options": [
+            "merek terkenal saja",
+            "keamanan dan ketersediaan bahan",
+            "harga paling mahal saja",
+            "warna kemasan saja"
+          ],
+          "answer": "keamanan dan ketersediaan bahan",
+          "discussion": "Memilih bahan berkarya perlu mempertimbangkan keamanan dan ketersediaan bahan."
+        },
+        {
+          "id": "K03-SBD-B03-M01-029",
+          "type": "PG",
+          "text": "Sinta belajar dari poster yang dilihatnya tetapi tidak menyalin mentah-mentah. Ia berusaha ....",
+          "options": [
+            "menghapus nama pembuat",
+            "meniru tanpa memahami",
+            "mengembangkan ide sendiri dengan jujur",
+            "menyalin karya teman lalu mengaku milik sendiri"
+          ],
+          "answer": "mengembangkan ide sendiri dengan jujur",
+          "discussion": "Gagasan orisinal berarti mengembangkan ide sendiri dengan jujur."
+        },
+        {
+          "id": "K03-SBD-B03-M01-030",
+          "type": "PG",
+          "text": "Untuk menentukan susunan terbaik bagi poster, Bima membuat beberapa kotak rancangan kecil. Tujuannya adalah ....",
+          "options": [
+            "membuat kertas selalu basah",
+            "menghilangkan ide",
+            "menghindari belajar",
+            "membandingkan pilihan komposisi"
+          ],
+          "answer": "membandingkan pilihan komposisi",
+          "discussion": "Membuat beberapa sketsa kecil membantu membandingkan pilihan komposisi."
+        },
+        {
+          "id": "K03-SBD-B03-M01-031",
+          "type": "PG",
+          "text": "Susunan awal bentuk dan teks masih berupa gambar sederhana untuk diuji. Nama rancangan ini adalah ....",
+          "options": [
+            "gambar rancangan awal",
+            "karya yang selalu sudah selesai",
+            "alat untuk menghapus",
+            "jenis cat"
+          ],
+          "answer": "gambar rancangan awal",
+          "discussion": "Sketsa adalah gambar rancangan awal."
+        },
+        {
+          "id": "K03-SBD-B03-M01-032",
+          "type": "PG",
+          "text": "Anak memilih tema persahabatan sebelum menentukan tokoh dan warna gambar. Langkah awal itu berarti ....",
+          "options": [
+            "mengabaikan tugas",
+            "menentukan ide atau tema",
+            "membuang semua alat",
+            "meniru persis karya teman"
+          ],
+          "answer": "menentukan ide atau tema",
+          "discussion": "Sebelum membuat karya, langkah awal yang baik adalah menentukan ide atau tema."
+        },
+        {
+          "id": "K03-SBD-B03-M01-033",
+          "type": "PG",
+          "text": "Pada peta gagasan, setiap cabang menunjukkan alasan sebuah objek cocok dengan tema. Fungsi peta itu adalah ....",
+          "options": [
+            "memotong kertas",
+            "mencampur lem",
+            "mengembangkan hubungan antaride",
+            "mengeringkan cat"
+          ],
+          "answer": "mengembangkan hubungan antaride",
+          "discussion": "Peta pikiran membantu mengembangkan hubungan antaride."
+        },
+        {
+          "id": "K03-SBD-B03-M01-034",
+          "type": "PG",
+          "text": "Anak ingin menggambar ajakan menjaga lingkungan. Pilihan objek yang menyampaikan pesan adalah ....",
+          "options": [
+            "hanya angka acak",
+            "jadwal kereta",
+            "daftar harga",
+            "pohon, sungai, dan tempat sampah"
+          ],
+          "answer": "pohon, sungai, dan tempat sampah",
+          "discussion": "Gambar bertema lingkungan dapat memuat pohon, sungai, dan tempat sampah."
+        },
+        {
+          "id": "K03-SBD-B03-M01-035",
+          "type": "PG",
+          "text": "Untuk membuat sketsa cepat di meja kelas, pasangan alat yang paling sesuai ialah ....",
+          "options": [
+            "pensil dan kertas",
+            "air mendidih",
+            "kaca pecah",
+            "pisau tajam"
+          ],
+          "answer": "pensil dan kertas",
+          "discussion": "Bahan yang cocok untuk sketsa awal adalah pensil dan kertas."
+        }
+      ]
+    }
+  ]
+}
