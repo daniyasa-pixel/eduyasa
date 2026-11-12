@@ -1,0 +1,184 @@
+{
+  "subject_id": "ENG",
+  "subject_name": "Bahasa Inggris",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-ENG-B01",
+      "chapter_title": "I Like Mi Aceh",
+      "questions": [
+        {
+          "id": "K03-ENG-B01-M01-036",
+          "type": "PG",
+          "text": "Which label goes with the bowl in the picture?",
+          "options": [
+            "noodles",
+            "fried chicken",
+            "bread",
+            "meatballs"
+          ],
+          "answer": "noodles",
+          "discussion": "Untaian panjang di dalam mangkuk menunjukkan mi. Tidak terlihat potongan ayam, roti, atau bola bakso.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-01.svg",
+            "alt": "Stimulus soal 36"
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-037",
+          "type": "PG",
+          "text": "Look at the two trays. Which tray has both bread and bananas?",
+          "options": [
+            "Tray A",
+            "Both trays",
+            "Tray B",
+            "Neither tray"
+          ],
+          "answer": "Tray B",
+          "discussion": "Baki B menampilkan roti dan pisang. Baki A menampilkan roti dan es krim.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-02.svg",
+            "alt": "Stimulus soal 37"
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-038",
+          "type": "PG",
+          "text": "Use the survey card. What is Maya’s answer for milk?",
+          "options": [
+            "Yes.",
+            "Both Yes and No.",
+            "The card leaves milk blank.",
+            "No."
+          ],
+          "answer": "No.",
+          "discussion": "Baris Maya pada kolom milk bertanda silang. Legenda menyatakan silang berarti No.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-03.svg",
+            "alt": "Stimulus soal 38"
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-039",
+          "type": "PG",
+          "text": "Read the two name cards. Who likes fried rice?",
+          "options": [
+            "Riko",
+            "Nisa",
+            "Both children",
+            "Neither child"
+          ],
+          "answer": "Riko",
+          "discussion": "Riko menandai hidangan nasi goreng. Nisa menandai hidangan mi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-04.svg",
+            "alt": "Stimulus soal 39"
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-040",
+          "type": "PG",
+          "text": "Look at the arrow. Which question asks about the item it points to?",
+          "options": [
+            "Do you like bread?",
+            "Do you like ice cream?",
+            "Do you like bananas?",
+            "Do you like noodles?"
+          ],
+          "answer": "Do you like ice cream?",
+          "discussion": "Ujung panah menunjuk es krim dalam cone. Pertanyaan yang sesuai menyebut ice cream.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-05.svg",
+            "alt": "Stimulus soal 40"
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-041",
+          "type": "PG",
+          "text": "Which English word is missing from the menu’s Drinks section?",
+          "options": [
+            "bread",
+            "banana",
+            "noodles",
+            "milk"
+          ],
+          "answer": "milk",
+          "discussion": "Gambar pada baris kosong menunjukkan karton dan gelas susu. Baris tea sudah terisi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-06.svg",
+            "alt": "Stimulus soal 41"
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-042",
+          "type": "PG",
+          "text": "Which food do both children mark with a tick?",
+          "options": [
+            "ice cream",
+            "bananas",
+            "bread",
+            "noodles"
+          ],
+          "answer": "bread",
+          "discussion": "Kolom bread bertanda centang pada kedua baris. Kolom lain hanya bertanda centang pada satu baris atau tidak sama sekali.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-07.svg",
+            "alt": "Stimulus soal 42"
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-043",
+          "type": "PG",
+          "text": "Read the picture menu. Which item is listed as sold out?",
+          "options": [
+            "meatballs",
+            "fried chicken",
+            "fried rice",
+            "noodles"
+          ],
+          "answer": "fried chicken",
+          "discussion": "Pita Sold out ada di kartu yang bergambar paha ayam goreng, sehingga item itu sudah habis.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-08.svg",
+            "alt": "Stimulus soal 43"
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-044",
+          "type": "PG",
+          "text": "The two pictures form Dita’s snack. Which line names both items?",
+          "options": [
+            "Bread and milk.",
+            "Bread and tea.",
+            "Bananas and milk.",
+            "Bananas and tea."
+          ],
+          "answer": "Bread and milk.",
+          "discussion": "Gambar menunjukkan irisan roti serta karton dan gelas susu. Tidak ada pisang atau teh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-09.svg",
+            "alt": "Stimulus soal 44"
+          }
+        },
+        {
+          "id": "K03-ENG-B01-M01-045",
+          "type": "PG",
+          "text": "Use the survey card. Which statement could Sari say?",
+          "options": [
+            "I like fried rice. I don’t like fried chicken.",
+            "I like both foods.",
+            "I like fried chicken. I don’t like fried rice.",
+            "I don’t like either food."
+          ],
+          "answer": "I like fried chicken. I don’t like fried rice.",
+          "discussion": "Pada baris Sari, fried chicken bertanda Yes dan fried rice bertanda No.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-10.svg",
+            "alt": "Stimulus soal 45"
+          }
+        }
+      ]
+    }
+  ]
+}
