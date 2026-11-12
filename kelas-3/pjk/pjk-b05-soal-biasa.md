@@ -484,7 +484,7 @@
 
 ## Soal 31 — K03-PJK-B05-M01-031
 
-**Pertanyaan:** Guru menghitung satu-dua-tiga-empat, siswa bergerak sesuai hitungan. Kegiatan itu adalah ....
+**Pertanyaan:** Musik berhenti dan mulai dengan ketukan teratur. Siswa mengikuti pola bunyi dengan gerak. Kegiatan ini disebut ....
 
 **Pilihan jawaban:**
 - hanya duduk diam
@@ -500,7 +500,7 @@
 
 ## Soal 32 — K03-PJK-B05-M01-032
 
-**Pertanyaan:** Anak-anak bertepuk pada ketukan kedua dan keempat. Fungsi tepuk itu adalah ....
+**Pertanyaan:** Untuk memudahkan siswa mengenali saat mulai bergerak, guru mengajak menepuk di setiap ketukan. Apa fungsi tepuk?
 
 **Pilihan jawaban:**
 - menjadi gerak renang
@@ -516,7 +516,7 @@
 
 ## Soal 33 — K03-PJK-B05-M01-033
 
-**Pertanyaan:** Guru memberi aba-aba dua langkah ke kanan lalu dua ke kiri. Cara yang sesuai adalah ....
+**Pertanyaan:** Dalam ruang sempit, siswa diberi jalur langkah kanan dan kiri tanpa saling mendekat. Bagaimana langkah seharusnya?
 
 **Pilihan jawaban:**
 - dilakukan mengikuti hitungan dengan ruang aman
@@ -532,7 +532,7 @@
 
 ## Soal 34 — K03-PJK-B05-M01-034
 
-**Pertanyaan:** Siswa menggerakkan lengan setiap bunyi ketukan. Bagaimana gerakan itu diatur?
+**Pertanyaan:** Saat bunyi ketukan berubah, lengan siswa menyesuaikan waktu ayunannya. Cara yang tepat adalah ....
 
 **Pilihan jawaban:**
 - selalu melawan ketukan
@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B05-M01-035
 
-**Pertanyaan:** Guru memberi urutan empat hitungan untuk latihan kelompok. Tujuannya ialah ....
+**Pertanyaan:** Dalam rangkaian gerak, hitungan satu sampai empat diulang bersama. Hitungan berfungsi untuk ....
 
 **Pilihan jawaban:**
 - mengganti pemanasan
