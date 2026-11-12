@@ -1,0 +1,184 @@
+{
+  "subject_id": "PJK",
+  "subject_name": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PJK-B04",
+      "chapter_title": "Aktivitas Gerak Dominan Senam",
+      "questions": [
+        {
+          "id": "K03-PJK-B04-M01-036",
+          "type": "PG",
+          "text": "Siswa mencoba posisi dasar dengan instruksi guru. Apa prinsip keamanan utama latihan?",
+          "options": [
+            "selalu dilakukan sendirian",
+            "harus di tempat sempit",
+            "dilakukan sesuai kemampuan dan arahan guru",
+            "dipaksa sampai sakit"
+          ],
+          "answer": "dilakukan sesuai kemampuan dan arahan guru",
+          "discussion": "Latihan senam dasar: dilakukan sesuai kemampuan dan arahan guru.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-01.svg",
+            "alt": "Ilustrasi Latihan senam dasar"
+          }
+        },
+        {
+          "id": "K03-PJK-B04-M01-037",
+          "type": "PG",
+          "text": "Siswa bergerak ringan sebelum berlatih senam. Apa tujuan tahap persiapan ini?",
+          "options": [
+            "menghilangkan risiko sepenuhnya",
+            "mempersiapkan otot dan sendi",
+            "menggantikan seluruh latihan",
+            "membuat tidak perlu minum"
+          ],
+          "answer": "mempersiapkan otot dan sendi",
+          "discussion": "Pemanasan senam: mempersiapkan otot dan sendi.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-02.svg",
+            "alt": "Ilustrasi Pemanasan senam"
+          }
+        },
+        {
+          "id": "K03-PJK-B04-M01-038",
+          "type": "PG",
+          "text": "Anak hendak berguling di atas matras. Bagian tubuh apa yang harus diperhatikan?",
+          "options": [
+            "kepala dan leher dijaga sesuai arahan guru",
+            "leher ditumpu paksa",
+            "mata selalu ditutup",
+            "teman ditarik"
+          ],
+          "answer": "kepala dan leher dijaga sesuai arahan guru",
+          "discussion": "Sikap tubuh saat berguling: kepala dan leher dijaga sesuai arahan guru.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-03.svg",
+            "alt": "Ilustrasi Sikap tubuh saat berguling"
+          }
+        },
+        {
+          "id": "K03-PJK-B04-M01-039",
+          "type": "PG",
+          "text": "Dua siswa berbagi matras. Bagaimana mereka mengatur waktu dan jarak?",
+          "options": [
+            "saling mendorong",
+            "mengganggu gerakan",
+            "melempar alat",
+            "bergiliran dan menjaga jarak aman"
+          ],
+          "answer": "bergiliran dan menjaga jarak aman",
+          "discussion": "Teman saat senam: bergiliran dan menjaga jarak aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-04.svg",
+            "alt": "Ilustrasi Teman saat senam"
+          }
+        },
+        {
+          "id": "K03-PJK-B04-M01-040",
+          "type": "PG",
+          "text": "Gambar memperlihatkan rangkaian tumpuan dan gerak. Kelompok kemampuan senam apa yang dilatih?",
+          "options": [
+            "hanya berenang",
+            "hanya berlari",
+            "meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran",
+            "hanya menendang bola"
+          ],
+          "answer": "meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran",
+          "discussion": "Gerak dominan senam: meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-05.svg",
+            "alt": "Ilustrasi Gerak dominan senam"
+          }
+        },
+        {
+          "id": "K03-PJK-B04-M01-041",
+          "type": "PG",
+          "text": "Siswa menahan sebagian berat tubuh di atas tangan dan kaki. Gerak yang sesuai ialah ....",
+          "options": [
+            "berlari sprint",
+            "menopang berat badan dengan bagian tubuh tertentu",
+            "melempar bola",
+            "berenang jauh"
+          ],
+          "answer": "menopang berat badan dengan bagian tubuh tertentu",
+          "discussion": "Bertumpu: menopang berat badan dengan bagian tubuh tertentu.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-06.svg",
+            "alt": "Ilustrasi Bertumpu"
+          }
+        },
+        {
+          "id": "K03-PJK-B04-M01-042",
+          "type": "PG",
+          "text": "Siswa bergerak berguling ke depan menggunakan matras dan pengawasan. Manakah uraian yang tepat?",
+          "options": [
+            "menggulingkan tubuh ke depan di matras dengan bimbingan",
+            "melompat dari atap",
+            "menendang bola",
+            "berlari mundur"
+          ],
+          "answer": "menggulingkan tubuh ke depan di matras dengan bimbingan",
+          "discussion": "Berguling depan: menggulingkan tubuh ke depan di matras dengan bimbingan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-07.svg",
+            "alt": "Ilustrasi Berguling depan"
+          }
+        },
+        {
+          "id": "K03-PJK-B04-M01-043",
+          "type": "PG",
+          "text": "Anak berusaha tetap stabil pada satu posisi. Keterampilan apa yang dilatih?",
+          "options": [
+            "mendorong teman",
+            "berlari tanpa arah",
+            "melempar bola",
+            "menjaga tubuh tetap stabil"
+          ],
+          "answer": "menjaga tubuh tetap stabil",
+          "discussion": "Sikap keseimbangan: menjaga tubuh tetap stabil.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-08.svg",
+            "alt": "Ilustrasi Sikap keseimbangan"
+          }
+        },
+        {
+          "id": "K03-PJK-B04-M01-044",
+          "type": "PG",
+          "text": "Seorang guru memasang alas latihan lunak. Mengapa alas tersebut digunakan?",
+          "options": [
+            "dipakai sebagai bola",
+            "dipakai untuk berenang",
+            "membantu menyediakan permukaan latihan yang lebih aman",
+            "digunakan untuk melempar"
+          ],
+          "answer": "membantu menyediakan permukaan latihan yang lebih aman",
+          "discussion": "Matras senam: membantu menyediakan permukaan latihan yang lebih aman.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-09.svg",
+            "alt": "Ilustrasi Matras senam"
+          }
+        },
+        {
+          "id": "K03-PJK-B04-M01-045",
+          "type": "PG",
+          "text": "Anak turun dari gerak meloncat rendah. Cara mendarat yang tepat adalah ....",
+          "options": [
+            "dilakukan sambil mendorong teman",
+            "dilakukan terkendali dengan lutut tidak kaku",
+            "dilakukan sambil menutup mata",
+            "dilakukan di lantai licin"
+          ],
+          "answer": "dilakukan terkendali dengan lutut tidak kaku",
+          "discussion": "Gerakan mendarat: dilakukan terkendali dengan lutut tidak kaku.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-10.svg",
+            "alt": "Ilustrasi Gerakan mendarat"
+          }
+        }
+      ]
+    }
+  ]
+}
