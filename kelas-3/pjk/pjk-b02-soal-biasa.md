@@ -4,81 +4,81 @@
 
 ## Soal 1 — K03-PJK-B02-M01-001
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk membungkuk?
+**Pertanyaan:** Saat pemanasan, Dini mencondongkan badan perlahan ke depan tanpa melangkah. Gerak itu disebut ....
 
 **Pilihan jawaban:**
-- berlari ke depan
+- membungkuk
+- berlari
 - melompat jauh
 - menendang bola
-- menggerakkan badan ke depan tanpa berpindah tempat
 
-**Kunci Jawaban:** menggerakkan badan ke depan tanpa berpindah tempat
+**Kunci Jawaban:** membungkuk
 
-**Pembahasan:** Membungkuk: menggerakkan badan ke depan tanpa berpindah tempat.
+**Pembahasan:** Membungkuk adalah gerak nonlokomotor karena posisi utama tidak berpindah.
 
 ---
 
 ## Soal 2 — K03-PJK-B02-M01-002
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk memutar badan?
+**Pertanyaan:** Arif berdiri di tempat lalu mengubah arah hadap tubuhnya. Gerak apa yang dilakukan?
 
 **Pilihan jawaban:**
-- berlari cepat
+- berjalan maju
+- memutar badan
 - melempar bola
-- mengubah arah hadap tubuh tanpa berpindah tempat
-- berjalan jauh
+- lari zig-zag
 
-**Kunci Jawaban:** mengubah arah hadap tubuh tanpa berpindah tempat
+**Kunci Jawaban:** memutar badan
 
-**Pembahasan:** Memutar badan: mengubah arah hadap tubuh tanpa berpindah tempat.
+**Pembahasan:** Memutar badan mengubah orientasi tubuh tanpa perpindahan tempat utama.
 
 ---
 
 ## Soal 3 — K03-PJK-B02-M01-003
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk mengayun lengan?
+**Pertanyaan:** Guru meminta siswa menggerakkan lengan ke depan dan belakang perlahan. Gerak tersebut adalah ....
 
 **Pilihan jawaban:**
-- melompat tali
-- menggerakkan lengan bolak-balik secara terkontrol
-- menendang bola
-- berlari zig-zag
+- melompat
+- menendang
+- mengayun lengan
+- berlari
 
-**Kunci Jawaban:** menggerakkan lengan bolak-balik secara terkontrol
+**Kunci Jawaban:** mengayun lengan
 
-**Pembahasan:** Mengayun lengan: menggerakkan lengan bolak-balik secara terkontrol.
+**Pembahasan:** Ayunan lengan dilakukan secara terkontrol di tempat.
 
 ---
 
 ## Soal 4 — K03-PJK-B02-M01-004
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk menekuk lutut?
+**Pertanyaan:** Ketika latihan, guru meminta lutut sedikit dibengkokkan. Manakah cara yang tepat?
 
 **Pilihan jawaban:**
-- membengkokkan sendi lutut secara wajar
-- mengunci lutut lurus
-- melempar bola
-- berjalan cepat
+- mengunci lutut sekaku mungkin
+- melompat setinggi mungkin
+- memutar leher paksa
+- menekuk lutut secara wajar
 
-**Kunci Jawaban:** membengkokkan sendi lutut secara wajar
+**Kunci Jawaban:** menekuk lutut secara wajar
 
-**Pembahasan:** Menekuk lutut: membengkokkan sendi lutut secara wajar.
+**Pembahasan:** Menekuk lutut berarti membengkokkan sendinya dalam batas nyaman.
 
 ---
 
 ## Soal 5 — K03-PJK-B02-M01-005
 
-**Pertanyaan:** Apa pengertian atau cara yang tepat untuk meregang ke samping?
+**Pertanyaan:** Siswa meregangkan sisi tubuhnya. Apa sikap aman saat melakukan peregangan?
 
 **Pilihan jawaban:**
-- berlari sambil menabrak
-- melempar keras
-- menendang tinggi
-- memanjangkan sisi tubuh dengan gerakan terkendali
+- bergerak perlahan dan berhenti bila sakit
+- memaksa sampai terasa nyeri tajam
+- saling menarik badan dengan keras
+- melakukan gerakan tiba-tiba
 
-**Kunci Jawaban:** memanjangkan sisi tubuh dengan gerakan terkendali
+**Kunci Jawaban:** bergerak perlahan dan berhenti bila sakit
 
-**Pembahasan:** Meregang ke samping: memanjangkan sisi tubuh dengan gerakan terkendali.
+**Pembahasan:** Peregangan dilakukan perlahan sesuai kemampuan dan dihentikan bila sakit.
 
 ---
 
