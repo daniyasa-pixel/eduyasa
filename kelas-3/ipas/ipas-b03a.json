@@ -1,0 +1,354 @@
+{
+  "subject_id": "IPAS",
+  "subject_name": "Ilmu Pengetahuan Alam dan Sosial",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-IPAS-B03",
+      "chapter_title": "Peduli dan Berbagi",
+      "questions": [
+        {
+          "id": "K03-IPAS-B03-M01-051",
+          "type": "PG",
+          "text": "Pada diagram, tahap tepat sebelum kotak C ialah ...",
+          "options": [
+            "Bayi",
+            "Dewasa",
+            "Kanak-kanak",
+            "Lanjut usia"
+          ],
+          "answer": "Kanak-kanak",
+          "discussion": "Urutan pada diagram menempatkan kanak-kanak di antara bayi dan remaja.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-01.svg",
+            "alt": "Diagram urutan: A bayi, B kanak-kanak, C remaja, D dewasa muda, E dewasa, F lanjut usia. Gambar skematis; ukuran tubuh bukan skala baku."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-052",
+          "type": "PG",
+          "text": "Tahap pada kotak D dan E berturut-turut ialah ...",
+          "options": [
+            "Lanjut usia lalu bayi pada orang yang sama",
+            "Remaja lalu bayi",
+            "Dewasa muda lalu kanak-kanak",
+            "Dewasa muda lalu dewasa"
+          ],
+          "answer": "Dewasa muda lalu dewasa",
+          "discussion": "Kotak D bertuliskan dewasa muda, diikuti kotak E dewasa. Kotak F baru menunjukkan lanjut usia.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-01.svg",
+            "alt": "Diagram urutan: A bayi, B kanak-kanak, C remaja, D dewasa muda, E dewasa, F lanjut usia. Gambar skematis; ukuran tubuh bukan skala baku."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-053",
+          "type": "PG",
+          "text": "Perubahan apa yang dicatat pada Tio?",
+          "options": [
+            "Tinggi badannya bertambah",
+            "Kemampuan membacanya pasti bertambah",
+            "Ukuran rumahnya berubah",
+            "Jumlah anggota keluarganya bertambah"
+          ],
+          "answer": "Tinggi badannya bertambah",
+          "discussion": "Angka tinggi berubah dari $110\\ \\text{cm}$ menjadi $113\\ \\text{cm}$; catatan tidak mengukur kemampuan membaca atau rumah.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-02.svg",
+            "alt": "Catatan tinggi Tio. Awal semester: Tinggi 110 cm Akhir semester: Tinggi 113 cm Cara: Anak, alat, dan cara pengukuran sama."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-054",
+          "type": "PG",
+          "text": "Informasi mana tidak dapat ditentukan dari catatan?",
+          "options": [
+            "Tinggi pada awal semester",
+            "Penyebab pasti perubahan tinggi Tio",
+            "Tinggi pada akhir semester",
+            "Apakah angka tinggi bertambah"
+          ],
+          "answer": "Penyebab pasti perubahan tinggi Tio",
+          "discussion": "Catatan menunjukkan dua hasil pengukuran tetapi tidak menjelaskan penyebabnya secara pasti.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-02.svg",
+            "alt": "Catatan tinggi Tio. Awal semester: Tinggi 110 cm Akhir semester: Tinggi 113 cm Cara: Anak, alat, dan cara pengukuran sama."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-055",
+          "type": "PG",
+          "text": "Perubahan yang ditunjukkan kartu terutama mengenai ...",
+          "options": [
+            "Ukuran tinggi yang telah diukur",
+            "Berat tubuh yang telah ditimbang",
+            "Keterampilan melakukan kegiatan",
+            "Ukuran ruangan"
+          ],
+          "answer": "Keterampilan melakukan kegiatan",
+          "discussion": "Perbandingan membahas kemampuan mengancingkan baju, bukan data ukuran tubuh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-03.svg",
+            "alt": "Kemampuan Rani. Dahulu: Perlu bantuan mengancingkan baju. Kini: Dapat mengancingkan baju sendiri. Catatan: Tidak ada angka tinggi atau berat tubuh."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-056",
+          "type": "PG",
+          "text": "Kesimpulan apa yang belum didukung kartu?",
+          "options": [
+            "Kemampuan mengancingkan baju berubah",
+            "Dahulu Rani memerlukan bantuan",
+            "Kini Rani dapat melakukan kegiatan itu sendiri",
+            "Berat tubuh Rani bertambah"
+          ],
+          "answer": "Berat tubuh Rani bertambah",
+          "discussion": "Tidak ada data berat pada kartu, sehingga perubahan berat tidak dapat ditentukan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-03.svg",
+            "alt": "Kemampuan Rani. Dahulu: Perlu bantuan mengancingkan baju. Kini: Dapat mengancingkan baju sendiri. Catatan: Tidak ada angka tinggi atau berat tubuh."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-057",
+          "type": "PG",
+          "text": "Catatan mana merupakan contoh pertumbuhan ukuran tubuh?",
+          "options": [
+            "Catatan A",
+            "Catatan B",
+            "Keduanya hanya warna benda",
+            "Tidak ada perubahan ukuran"
+          ],
+          "answer": "Catatan A",
+          "discussion": "A menyebut ukuran kaki, sedangkan B menunjukkan keterampilan melakukan tugas.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-04.svg",
+            "alt": "Dua hasil pengamatan. A: Ukuran kaki bertambah. B: Makin terampil menyusun buku. Tugas: Bandingkan jenis perubahan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-058",
+          "type": "PG",
+          "text": "Catatan B menunjukkan ...",
+          "options": [
+            "Pertambahan ukuran kaki",
+            "Perkembangan keterampilan",
+            "Perubahan tinggi yang telah diukur",
+            "Perubahan warna kulit"
+          ],
+          "answer": "Perkembangan keterampilan",
+          "discussion": "Menyusun buku dengan lebih terampil merupakan perubahan kemampuan, bukan ukuran tubuh.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-04.svg",
+            "alt": "Dua hasil pengamatan. A: Ukuran kaki bertambah. B: Makin terampil menyusun buku. Tugas: Bandingkan jenis perubahan."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-059",
+          "type": "PG",
+          "text": "Dukungan yang sesuai untuk Sita pada kartu ialah ...",
+          "options": [
+            "Melarangnya mencoba karena belum terampil",
+            "Mengejeknya karena berbeda dengan Bima",
+            "Memberi kesempatan berlatih dan bantuan bila dibutuhkan",
+            "Menganggap ia tidak dapat belajar hal lain"
+          ],
+          "answer": "Memberi kesempatan berlatih dan bantuan bila dibutuhkan",
+          "discussion": "Sita sedang belajar; latihan dan bantuan yang sesuai mendukung perkembangannya.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-05.svg",
+            "alt": "Kesempatan belajar. Sita: Sedang belajar mengikat tali sepatu. Bima: Sudah terampil mengikat tali sepatu. Dukungan: Keduanya boleh belajar sesuai kebutuhannya."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-060",
+          "type": "PG",
+          "text": "Apa yang belum diketahui dari kartu?",
+          "options": [
+            "Kegiatan yang sedang dipelajari Sita",
+            "Keterampilan yang sudah dimiliki Bima",
+            "Bahwa kebutuhan belajar mereka dapat berbeda",
+            "Tinggi badan Sita dan Bima"
+          ],
+          "answer": "Tinggi badan Sita dan Bima",
+          "discussion": "Kartu memuat kemampuan, bukan data pengukuran tinggi kedua anak.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-05.svg",
+            "alt": "Kesempatan belajar. Sita: Sedang belajar mengikat tali sepatu. Bima: Sudah terampil mengikat tali sepatu. Dukungan: Keduanya boleh belajar sesuai kebutuhannya."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-061",
+          "type": "PG",
+          "text": "Tugas anak yang tercatat ialah ...",
+          "options": [
+            "Merapikan alat belajar",
+            "Memasak semua makanan sendiri",
+            "Memperbaiki kursi sendirian",
+            "Memperbaiki atap"
+          ],
+          "answer": "Merapikan alat belajar",
+          "discussion": "Kartu anak menyebut kegiatan merapikan alat belajar, berbeda dari dua tugas orang dewasa.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-06.svg",
+            "alt": "Pembagian kegiatan rumah. Ayah: Memasak. Ibu: Membantu memperbaiki kursi bersama orang dewasa lain. Anak: Merapikan alat belajar."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-062",
+          "type": "PG",
+          "text": "Pelajaran apa yang sesuai dengan pembagian pada gambar?",
+          "options": [
+            "Memasak harus selalu menjadi tugas ibu",
+            "Tugas dapat dibagi menurut kemampuan, bukan hanya jenis kelamin",
+            "Semua anak harus memperbaiki kursi",
+            "Setiap anggota wajib mendapat tugas yang sama persis"
+          ],
+          "answer": "Tugas dapat dibagi menurut kemampuan, bukan hanya jenis kelamin",
+          "discussion": "Gambar menunjukkan peran yang berbeda dan tidak membatasi memasak hanya pada perempuan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-06.svg",
+            "alt": "Pembagian kegiatan rumah. Ayah: Memasak. Ibu: Membantu memperbaiki kursi bersama orang dewasa lain. Anak: Merapikan alat belajar."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-063",
+          "type": "PG",
+          "text": "Siapa yang menyiram tanaman pada Selasa?",
+          "options": [
+            "Alya",
+            "Keduanya tercatat tidak bertugas",
+            "Beni",
+            "Tidak ada keterangan hari Selasa"
+          ],
+          "answer": "Beni",
+          "discussion": "Baris Selasa menyebut Beni menyiram dan Alya merapikan buku.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-07.svg",
+            "alt": "Jadwal bergiliran. Senin: Alya menyiram, Beni merapikan buku. Selasa: Beni menyiram, Alya merapikan buku. Kesepakatan: Tugas disesuaikan bila ada kebutuhan baru."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-064",
+          "type": "PG",
+          "text": "Pola pembagian tugas pada dua hari itu ialah ...",
+          "options": [
+            "Alya selalu melakukan kedua tugas",
+            "Beni selalu tidak bertugas",
+            "Tidak ada giliran",
+            "Berganti tugas"
+          ],
+          "answer": "Berganti tugas",
+          "discussion": "Kedua anak bertukar kegiatan dari Senin ke Selasa sehingga tugas tidak selalu dikerjakan orang yang sama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-07.svg",
+            "alt": "Jadwal bergiliran. Senin: Alya menyiram, Beni merapikan buku. Selasa: Beni menyiram, Alya merapikan buku. Kesepakatan: Tugas disesuaikan bila ada kebutuhan baru."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-065",
+          "type": "PG",
+          "text": "Kegiatan mana paling sesuai dilakukan anak dengan arahan?",
+          "options": [
+            "Mengelap meja rendah menggunakan alat A",
+            "Mengangkat panci panas B sendiri",
+            "Memindahkan lemari C sendiri",
+            "Mengangkat B dan C bersamaan"
+          ],
+          "answer": "Mengelap meja rendah menggunakan alat A",
+          "discussion": "Meja rendah dan kain lap dapat disesuaikan dengan kemampuan anak; panas dan beban berat memerlukan penanganan orang dewasa.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-08.svg",
+            "alt": "Peralatan untuk membantu. A: Kain lap dan meja rendah. B: Panci sangat panas. C: Lemari sangat berat."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-066",
+          "type": "PG",
+          "text": "Apa alasan tugas B dan C memerlukan perhatian orang dewasa?",
+          "options": [
+            "Keduanya pasti bukan barang rumah",
+            "Ada risiko panas atau beban berat",
+            "Semua anak harus mampu mengangkatnya",
+            "Alat A selalu lebih mahal"
+          ],
+          "answer": "Ada risiko panas atau beban berat",
+          "discussion": "Keterangan pada kartu menyebut panci panas dan lemari berat, dua risiko yang berbeda dari tugas A.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-08.svg",
+            "alt": "Peralatan untuk membantu. A: Kain lap dan meja rendah. B: Panci sangat panas. C: Lemari sangat berat."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-067",
+          "type": "PG",
+          "text": "Mengapa pembagian tugas perlu dibicarakan kembali?",
+          "options": [
+            "Menyapu tidak pernah diperlukan",
+            "Semua tugas harus diberikan kepada bayi",
+            "Kondisi orang yang bertugas berubah",
+            "Kesepakatan tidak boleh berubah"
+          ],
+          "answer": "Kondisi orang yang bertugas berubah",
+          "discussion": "Kakak sedang sakit sehingga kemampuan atau kebutuhannya saat itu perlu dipertimbangkan.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-09.svg",
+            "alt": "Tugas yang perlu disesuaikan. Semula: Kakak bertugas menyapu. Kini: Kakak sedang sakit. Rencana: Bicarakan pengganti sementara."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-068",
+          "type": "PG",
+          "text": "Perubahan yang disarankan gambar ialah ...",
+          "options": [
+            "Memaksa Kakak tetap menyapu meskipun tidak mampu",
+            "Menyembunyikan keadaan Kakak",
+            "Menghapus semua tanggung jawab selamanya",
+            "Mencari pengganti sementara melalui pembicaraan"
+          ],
+          "answer": "Mencari pengganti sementara melalui pembicaraan",
+          "discussion": "Rencana pada kartu menekankan penyesuaian sementara, bukan pemaksaan atau penghapusan semua tanggung jawab.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-09.svg",
+            "alt": "Tugas yang perlu disesuaikan. Semula: Kakak bertugas menyapu. Kini: Kakak sedang sakit. Rencana: Bicarakan pengganti sementara."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-069",
+          "type": "PG",
+          "text": "Bukti bahwa kegiatan membantu keamanan ruangan ialah ...",
+          "options": [
+            "Jalan kembali terbuka setelah dirapikan",
+            "Semua orang mempunyai tinggi sama",
+            "Mainan dibiarkan menutupi jalan",
+            "Tidak ada anggota keluarga yang bekerja"
+          ],
+          "answer": "Jalan kembali terbuka setelah dirapikan",
+          "discussion": "Keadaan sesudah menunjukkan jalur yang sebelumnya tertutup sudah dapat dilalui.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-10.svg",
+            "alt": "Hasil kegiatan bersama. Sebelum: Buku dan mainan menutupi jalan di ruang keluarga. Kegiatan: Keluarga berbagi tugas merapikan. Sesudah: Jalan di ruang keluarga kembali terbuka."
+          }
+        },
+        {
+          "id": "K03-IPAS-B03-M01-070",
+          "type": "PG",
+          "text": "Apa hubungan kegiatan dan hasil pada gambar?",
+          "options": [
+            "Ruangan rapi tanpa kegiatan apa pun",
+            "Berbagi tugas membantu ruangan kembali rapi",
+            "Buku bertambah karena tidak disentuh",
+            "Jalan menjadi lebih tertutup setelah dirapikan"
+          ],
+          "answer": "Berbagi tugas membantu ruangan kembali rapi",
+          "discussion": "Urutan sebelum, kegiatan, dan sesudah menunjukkan hasil tindakan bersama.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/ipas/assets/ipas-b03-gambar-10.svg",
+            "alt": "Hasil kegiatan bersama. Sebelum: Buku dan mainan menutupi jalan di ruang keluarga. Kegiatan: Keluarga berbagi tugas merapikan. Sesudah: Jalan di ruang keluarga kembali terbuka."
+          }
+        }
+      ]
+    }
+  ]
+}
