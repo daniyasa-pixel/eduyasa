@@ -2,560 +2,560 @@
 
 ## Soal 1 — K03-ENG-B03-M01-001
 
-**Pertanyaan:** What is the English word for "sarapan"?
+**Pertanyaan:** What do we call the first meal of the day?
 
 **Pilihan jawaban:**
-- chicken
-- milk
-- rice
+- lunch
+- dinner
+- a drink
 - breakfast
 
 **Kunci Jawaban:** breakfast
 
-**Pembahasan:** "breakfast" berarti "sarapan".
+**Pembahasan:** Breakfast is the first meal of the day.
 
 ---
 
 ## Soal 2 — K03-ENG-B03-M01-002
 
-**Pertanyaan:** What is the English word for "makan siang"?
+**Pertanyaan:** It's noon. Tio eats with his classmates during the midday break. Which meal is it?
 
 **Pilihan jawaban:**
-- noodles
-- chicken
+- breakfast
+- dinner
 - lunch
-- bread
+- a drink
 
 **Kunci Jawaban:** lunch
 
-**Pembahasan:** "lunch" berarti "makan siang".
+**Pembahasan:** The midday meal is lunch.
 
 ---
 
 ## Soal 3 — K03-ENG-B03-M01-003
 
-**Pertanyaan:** What is the English word for "makan malam"?
+**Pertanyaan:** At seven in the evening, Sari sits down for her main evening meal. Which word fits?
 
 **Pilihan jawaban:**
-- bread
+- breakfast
+- lunch
 - dinner
-- eggs
-- water
+- a drink
 
 **Kunci Jawaban:** dinner
 
-**Pembahasan:** "dinner" berarti "makan malam".
+**Pembahasan:** Dinner is the evening meal in Sari's schedule.
 
 ---
 
 ## Soal 4 — K03-ENG-B03-M01-004
 
-**Pertanyaan:** What is the English word for "nasi"?
+**Pertanyaan:** “I have ___ for breakfast.” Which choice names both a food and a drink?
 
 **Pilihan jawaban:**
-- rice
-- milk
-- breakfast
-- eggs
+- rice and eggs
+- toast and milk
+- milk and water
+- noodles and fish
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** toast and milk
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** Toast is a food and milk is a drink. The other pairs contain two foods or two drinks.
 
 ---
 
 ## Soal 5 — K03-ENG-B03-M01-005
 
-**Pertanyaan:** What is the English word for "ayam"?
+**Pertanyaan:** Which sentence reports someone's drink at lunch?
 
 **Pilihan jawaban:**
-- noodles
-- lunch
-- milk
-- chicken
+- I drink water at lunch.
+- I eat fish at lunch.
+- I drink water at dinner.
+- I have lunch at school.
 
-**Kunci Jawaban:** chicken
+**Kunci Jawaban:** I drink water at lunch.
 
-**Pembahasan:** "chicken" berarti "ayam".
+**Pembahasan:** The sentence names the drink, water, and the meal, lunch.
 
 ---
 
 ## Soal 6 — K03-ENG-B03-M01-006
 
-**Pertanyaan:** What is the English word for "roti"?
+**Pertanyaan:** Dita says, “I have eggs for breakfast.” What should her partner put in the breakfast column?
 
 **Pilihan jawaban:**
-- dinner
-- noodles
+- eggs
 - bread
-- water
+- rice
+- noodles
 
-**Kunci Jawaban:** bread
+**Kunci Jawaban:** eggs
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** Dita names eggs after have, then tells us the meal.
 
 ---
 
 ## Soal 7 — K03-ENG-B03-M01-007
 
-**Pertanyaan:** What is the English word for "telur"?
+**Pertanyaan:** The note says “Lunch: rice and fish.” Which sentence matches?
 
 **Pilihan jawaban:**
-- water
-- eggs
-- breakfast
-- rice
+- I have rice and fish for breakfast.
+- I have rice and eggs for lunch.
+- I have noodles and fish for lunch.
+- I have rice and fish for lunch.
 
-**Kunci Jawaban:** eggs
+**Kunci Jawaban:** I have rice and fish for lunch.
 
-**Pembahasan:** "eggs" berarti "telur".
+**Pembahasan:** The note lists both rice and fish under lunch.
 
 ---
 
 ## Soal 8 — K03-ENG-B03-M01-008
 
-**Pertanyaan:** What is the English word for "susu"?
+**Pertanyaan:** Reno has soup in the evening. Complete his sentence: “I have soup for ___.”
 
 **Pilihan jawaban:**
-- milk
-- lunch
-- chicken
 - breakfast
+- lunch
+- dinner
+- water
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** dinner
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** The evening meal here is dinner.
 
 ---
 
 ## Soal 9 — K03-ENG-B03-M01-009
 
-**Pertanyaan:** What is the English word for "mi"?
+**Pertanyaan:** “What do you have for breakfast?” Which answer gives the requested information?
 
 **Pilihan jawaban:**
-- dinner
-- bread
-- lunch
-- noodles
+- I have breakfast at seven.
+- I have breakfast at home.
+- I have bread and milk.
+- Yes, I do.
 
-**Kunci Jawaban:** noodles
+**Kunci Jawaban:** I have bread and milk.
 
-**Pembahasan:** "noodles" berarti "mi".
+**Pembahasan:** What asks for the food or drink, so bread and milk answer the question.
 
 ---
 
 ## Soal 10 — K03-ENG-B03-M01-010
 
-**Pertanyaan:** What is the English word for "air"?
+**Pertanyaan:** You want to learn what Maya eats at lunchtime. Which question should you ask her?
 
 **Pilihan jawaban:**
-- eggs
-- dinner
-- water
-- rice
+- When do you have lunch?
+- What do you have for lunch?
+- What do you have for dinner?
+- Where do you have lunch?
 
-**Kunci Jawaban:** water
+**Kunci Jawaban:** What do you have for lunch?
 
-**Pembahasan:** "water" berarti "air".
+**Pembahasan:** What asks about the menu, and for lunch identifies the meal.
 
 ---
 
 ## Soal 11 — K03-ENG-B03-M01-011
 
-**Pertanyaan:** What does "breakfast" mean in Indonesian?
+**Pertanyaan:** Ani says, “I have noodles for lunch.” Tell the class about Ani.
 
 **Pilihan jawaban:**
-- nasi
-- sarapan
-- ayam
-- susu
+- Ani has noodles for lunch.
+- Ani have noodles for lunch.
+- Ani has noodles for dinner.
+- I have noodles for lunch.
 
-**Kunci Jawaban:** sarapan
+**Kunci Jawaban:** Ani has noodles for lunch.
 
-**Pembahasan:** "breakfast" berarti "sarapan".
+**Pembahasan:** Use has for one other person and keep the meal as lunch.
 
 ---
 
 ## Soal 12 — K03-ENG-B03-M01-012
 
-**Pertanyaan:** What does "lunch" mean in Indonesian?
+**Pertanyaan:** “My brother ___ fried rice for dinner.” Choose the missing word.
 
 **Pilihan jawaban:**
-- makan siang
-- roti
-- mi
-- ayam
+- has
+- have
+- do
+- eat
 
-**Kunci Jawaban:** makan siang
+**Kunci Jawaban:** has
 
-**Pembahasan:** "lunch" berarti "makan siang".
+**Pembahasan:** My brother refers to one other person, so use has.
 
 ---
 
 ## Soal 13 — K03-ENG-B03-M01-013
 
-**Pertanyaan:** What does "dinner" mean in Indonesian?
+**Pertanyaan:** Nina and Bima eat together. “They ___ soup for lunch.”
 
 **Pilihan jawaban:**
-- telur
-- air
-- roti
-- makan malam
+- has
+- having
+- does
+- have
 
-**Kunci Jawaban:** makan malam
+**Kunci Jawaban:** have
 
-**Pembahasan:** "dinner" berarti "makan malam".
+**Pembahasan:** They refers to two people and takes have.
 
 ---
 
 ## Soal 14 — K03-ENG-B03-M01-014
 
-**Pertanyaan:** What does "rice" mean in Indonesian?
+**Pertanyaan:** Which sentence uses the words in the right order?
 
 **Pilihan jawaban:**
-- sarapan
-- telur
-- nasi
-- susu
+- We eggs have for breakfast.
+- Have we eggs for breakfast.
+- We have eggs for breakfast.
+- We for breakfast eggs have.
 
-**Kunci Jawaban:** nasi
+**Kunci Jawaban:** We have eggs for breakfast.
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** Start with the subject, then have, the food, and for breakfast.
 
 ---
 
 ## Soal 15 — K03-ENG-B03-M01-015
 
-**Pertanyaan:** What does "chicken" mean in Indonesian?
+**Pertanyaan:** Rani wrote “I have for lunch rice.” Which correction keeps her meaning?
 
 **Pilihan jawaban:**
-- susu
-- ayam
-- mi
-- makan siang
+- I have lunch for rice.
+- Rice have I for lunch.
+- I have rice for lunch.
+- I have rice lunch for.
 
-**Kunci Jawaban:** ayam
+**Kunci Jawaban:** I have rice for lunch.
 
-**Pembahasan:** "chicken" berarti "ayam".
+**Pembahasan:** Rice follows have. For lunch comes after the food.
 
 ---
 
 ## Soal 16 — K03-ENG-B03-M01-016
 
-**Pertanyaan:** What does "bread" mean in Indonesian?
+**Pertanyaan:** Ben says, “I have rice for lunch. I have noodles for dinner.” What changes?
 
 **Pilihan jawaban:**
-- roti
-- air
-- makan malam
-- mi
+- Only the meal.
+- Both the meal and the food.
+- Only the food.
+- Neither the meal nor the food.
 
-**Kunci Jawaban:** roti
+**Kunci Jawaban:** Both the meal and the food.
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** Lunch changes to dinner and rice changes to noodles.
 
 ---
 
 ## Soal 17 — K03-ENG-B03-M01-017
 
-**Pertanyaan:** What does "eggs" mean in Indonesian?
+**Pertanyaan:** Mira has milk at breakfast and at lunch. Which report matches?
 
 **Pilihan jawaban:**
-- sarapan
-- nasi
-- air
-- telur
+- Mira has milk at both meals.
+- Mira has milk only at breakfast.
+- Mira has milk only at lunch.
+- Mira has milk at dinner.
 
-**Kunci Jawaban:** telur
+**Kunci Jawaban:** Mira has milk at both meals.
 
-**Pembahasan:** "eggs" berarti "telur".
+**Pembahasan:** Milk is mentioned for breakfast and lunch.
 
 ---
 
 ## Soal 18 — K03-ENG-B03-M01-018
 
-**Pertanyaan:** What does "milk" mean in Indonesian?
+**Pertanyaan:** Breakfast: bread and milk. Dinner: noodles and water. Which drink is listed for dinner?
 
 **Pilihan jawaban:**
-- ayam
-- sarapan
-- susu
-- makan siang
+- water
+- milk
+- bread
+- noodles
 
-**Kunci Jawaban:** susu
+**Kunci Jawaban:** water
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** The dinner entry lists water as the drink.
 
 ---
 
 ## Soal 19 — K03-ENG-B03-M01-019
 
-**Pertanyaan:** What does "noodles" mean in Indonesian?
+**Pertanyaan:** “I have tea for breakfast, and water for dinner.” Which part tells you when the speaker has tea?
 
 **Pilihan jawaban:**
-- makan siang
-- mi
-- makan malam
-- roti
+- I have
+- and water
+- for dinner
+- for breakfast
 
-**Kunci Jawaban:** mi
+**Kunci Jawaban:** for breakfast
 
-**Pembahasan:** "noodles" berarti "mi".
+**Pembahasan:** For breakfast connects tea with the breakfast meal.
 
 ---
 
 ## Soal 20 — K03-ENG-B03-M01-020
 
-**Pertanyaan:** What does "water" mean in Indonesian?
+**Pertanyaan:** What word is missing? “I have fried chicken ___ lunch.”
 
 **Pilihan jawaban:**
-- air
-- nasi
-- telur
-- makan malam
+- from
+- under
+- for
+- between
 
-**Kunci Jawaban:** air
+**Kunci Jawaban:** for
 
-**Pembahasan:** "water" berarti "air".
+**Pembahasan:** For connects what the speaker has with the meal.
 
 ---
 
 ## Soal 21 — K03-ENG-B03-M01-021
 
-**Pertanyaan:** Which English word matches "sarapan" in the lesson?
+**Pertanyaan:** Ali says, “I have bread for breakfast.” Ana says, “I have eggs for breakfast.” What is the same?
 
 **Pilihan jawaban:**
-- chicken
-- milk
-- rice
-- breakfast
+- the food
+- the speaker
+- the meal
+- the whole menu
 
-**Kunci Jawaban:** breakfast
+**Kunci Jawaban:** the meal
 
-**Pembahasan:** "breakfast" berarti "sarapan".
+**Pembahasan:** Both name breakfast, but their foods differ.
 
 ---
 
 ## Soal 22 — K03-ENG-B03-M01-022
 
-**Pertanyaan:** Which English word matches "makan siang" in the lesson?
+**Pertanyaan:** Dani has rice and soup for lunch. Ema has rice and fish for lunch. What food appears in both lunches?
 
 **Pilihan jawaban:**
-- noodles
-- chicken
-- lunch
+- soup
+- rice
+- fish
 - bread
 
-**Kunci Jawaban:** lunch
+**Kunci Jawaban:** rice
 
-**Pembahasan:** "lunch" berarti "makan siang".
+**Pembahasan:** Rice appears in both menus.
 
 ---
 
 ## Soal 23 — K03-ENG-B03-M01-023
 
-**Pertanyaan:** Which English word matches "makan malam" in the lesson?
+**Pertanyaan:** “For lunch, I have soup. I drink orange juice.” Which belongs in the Drinks column?
 
 **Pilihan jawaban:**
-- bread
-- dinner
-- eggs
-- water
+- orange juice
+- soup
+- lunch
+- rice
 
-**Kunci Jawaban:** dinner
+**Kunci Jawaban:** orange juice
 
-**Pembahasan:** "dinner" berarti "makan malam".
+**Pembahasan:** The second sentence identifies orange juice as the drink.
 
 ---
 
 ## Soal 24 — K03-ENG-B03-M01-024
 
-**Pertanyaan:** Which English word matches "nasi" in the lesson?
+**Pertanyaan:** A survey has two columns: Lunch Food and Lunch Drink. Lia says, “I have noodles and water.” What goes under Lunch Food?
 
 **Pilihan jawaban:**
-- rice
-- milk
-- breakfast
-- eggs
+- noodles
+- water
+- lunch
+- juice
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** noodles
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** Noodles are the food. Water belongs in the drink column.
 
 ---
 
 ## Soal 25 — K03-ENG-B03-M01-025
 
-**Pertanyaan:** Which English word matches "ayam" in the lesson?
+**Pertanyaan:** Your worksheet has the heading Dinner. Which answer belongs under it?
 
 **Pilihan jawaban:**
-- noodles
-- lunch
-- milk
-- chicken
+- I have fish for lunch.
+- I have fish for breakfast.
+- Do you like fish?
+- I have fish for dinner.
 
-**Kunci Jawaban:** chicken
+**Kunci Jawaban:** I have fish for dinner.
 
-**Pembahasan:** "chicken" berarti "ayam".
+**Pembahasan:** Only this statement gives the menu for dinner.
 
 ---
 
 ## Soal 26 — K03-ENG-B03-M01-026
 
-**Pertanyaan:** Which English word matches "roti" in the lesson?
+**Pertanyaan:** Read the note: “Breakfast: eggs. Lunch: soup. Dinner: rice.” Which order follows the day?
 
 **Pilihan jawaban:**
-- dinner
-- noodles
-- bread
-- water
+- soup, rice, eggs
+- rice, eggs, soup
+- eggs, soup, rice
+- eggs, rice, soup
 
-**Kunci Jawaban:** bread
+**Kunci Jawaban:** eggs, soup, rice
 
-**Pembahasan:** "bread" berarti "roti".
+**Pembahasan:** Read the menus in breakfast, lunch, dinner order.
 
 ---
 
 ## Soal 27 — K03-ENG-B03-M01-027
 
-**Pertanyaan:** Which English word matches "telur" in the lesson?
+**Pertanyaan:** Class note: “I have breakfast at Grandma’s house. I have lunch at school. I have dinner at my home.” Which meal is at the speaker’s home?
 
 **Pilihan jawaban:**
-- water
-- eggs
 - breakfast
-- rice
+- lunch
+- dinner
+- breakfast and lunch
 
-**Kunci Jawaban:** eggs
+**Kunci Jawaban:** dinner
 
-**Pembahasan:** "eggs" berarti "telur".
+**Pembahasan:** The last sentence puts dinner at the speaker’s home.
 
 ---
 
 ## Soal 28 — K03-ENG-B03-M01-028
 
-**Pertanyaan:** Which English word matches "susu" in the lesson?
+**Pertanyaan:** A friend says, “For breakfast I have bread.” How can you check what the friend drinks at that meal?
 
 **Pilihan jawaban:**
-- milk
-- lunch
-- chicken
-- breakfast
+- What do you eat for dinner?
+- What do you drink for breakfast?
+- Do you have lunch at school?
+- What time is breakfast?
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** What do you drink for breakfast?
 
-**Pembahasan:** "milk" berarti "susu".
+**Pembahasan:** Drink asks about the beverage, and breakfast keeps the question on the same meal.
 
 ---
 
 ## Soal 29 — K03-ENG-B03-M01-029
 
-**Pertanyaan:** Which English word matches "mi" in the lesson?
+**Pertanyaan:** Nuri says, “I have soup for lunch.” Which question remains unanswered?
 
 **Pilihan jawaban:**
-- dinner
-- bread
-- lunch
-- noodles
+- What does Nuri drink for lunch?
+- Which meal does Nuri mention?
+- What food does Nuri have for lunch?
+- Who says they have soup for lunch?
 
-**Kunci Jawaban:** noodles
+**Kunci Jawaban:** What does Nuri drink for lunch?
 
-**Pembahasan:** "noodles" berarti "mi".
+**Pembahasan:** The note gives the person, food and meal. It does not give a drink.
 
 ---
 
 ## Soal 30 — K03-ENG-B03-M01-030
 
-**Pertanyaan:** Which English word matches "air" in the lesson?
+**Pertanyaan:** “We have rice for dinner.” Who has rice according to this sentence?
 
 **Pilihan jawaban:**
-- eggs
-- dinner
-- water
-- rice
+- the speaker and at least one other person
+- only the speaker
+- only the listener
+- one person outside the group
 
-**Kunci Jawaban:** water
+**Kunci Jawaban:** the speaker and at least one other person
 
-**Pembahasan:** "water" berarti "air".
+**Pembahasan:** We includes the speaker and at least one other person.
 
 ---
 
 ## Soal 31 — K03-ENG-B03-M01-031
 
-**Pertanyaan:** What is the English word for "sarapan"?
+**Pertanyaan:** Your group wants to present its meal. Choose the line that gives both menu and meal.
 
 **Pilihan jawaban:**
-- rice
-- breakfast
-- chicken
-- milk
+- We have lunch together.
+- We eat at school.
+- We have rice and eggs.
+- We have rice and eggs for lunch.
 
-**Kunci Jawaban:** breakfast
+**Kunci Jawaban:** We have rice and eggs for lunch.
 
-**Pembahasan:** "breakfast" berarti "sarapan".
+**Pembahasan:** The line names rice and eggs and identifies lunch.
 
 ---
 
 ## Soal 32 — K03-ENG-B03-M01-032
 
-**Pertanyaan:** What is the English word for "makan siang"?
+**Pertanyaan:** The food label is spelled incorrectly: “bred.” Which spelling should you use?
 
 **Pilihan jawaban:**
-- lunch
+- broad
+- breed
 - bread
-- noodles
-- chicken
+- beard
 
-**Kunci Jawaban:** lunch
+**Kunci Jawaban:** bread
 
-**Pembahasan:** "lunch" berarti "makan siang".
+**Pembahasan:** Bread is the spelling for roti.
 
 ---
 
 ## Soal 33 — K03-ENG-B03-M01-033
 
-**Pertanyaan:** What is the English word for "makan malam"?
+**Pertanyaan:** A child writes “I have soup for lunch?” as a statement. Which punctuation fits the statement?
 
 **Pilihan jawaban:**
-- eggs
-- water
-- bread
-- dinner
+- I have soup for lunch?
+- I have soup for lunch,
+- I have soup for lunch.
+- I have soup for lunch:
 
-**Kunci Jawaban:** dinner
+**Kunci Jawaban:** I have soup for lunch.
 
-**Pembahasan:** "dinner" berarti "makan malam".
+**Pembahasan:** A period ends this complete statement.
 
 ---
 
 ## Soal 34 — K03-ENG-B03-M01-034
 
-**Pertanyaan:** What is the English word for "nasi"?
+**Pertanyaan:** Teacher: “What does Riko have for dinner?” Note: “Riko, dinner: fish and rice.” Which reply matches?
 
 **Pilihan jawaban:**
-- breakfast
-- eggs
-- rice
-- milk
+- He has chicken and rice.
+- He has fish and rice.
+- They have fish and rice.
+- He has fish and bread.
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** He has fish and rice.
 
-**Pembahasan:** "rice" berarti "nasi".
+**Pembahasan:** He refers to Riko, and the note gives fish and rice.
 
 ---
 
 ## Soal 35 — K03-ENG-B03-M01-035
 
-**Pertanyaan:** What is the English word for "ayam"?
+**Pertanyaan:** Sinta says, “Today I have eggs for breakfast. Tomorrow I will have bread for breakfast.” What should the class record for today?
 
 **Pilihan jawaban:**
+- eggs
+- bread
+- eggs and bread
 - milk
-- chicken
-- noodles
-- lunch
 
-**Kunci Jawaban:** chicken
+**Kunci Jawaban:** eggs
 
-**Pembahasan:** "chicken" berarti "ayam".
+**Pembahasan:** Today refers to the first menu. Bread is for tomorrow.
 
 ---

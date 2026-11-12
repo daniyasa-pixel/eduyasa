@@ -2,180 +2,180 @@
 
 ## Soal 36 — K03-ENG-B03-M01-036
 
-![Picture](assets/eng-b03-gambar-01.svg)
+![Tari's meal card. Breakfast: eggs and milk. Lunch: rice and fish. Dinner: noodles and water.](assets/eng-b03-gambar-01.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which food does Tari have for dinner?
 
 **Pilihan jawaban:**
-- breakfast
-- water
-- dinner
-- bread
+- noodles
+- eggs
+- rice
+- fish
 
-**Kunci Jawaban:** breakfast
+**Kunci Jawaban:** noodles
 
-**Pembahasan:** Gambar menunjukkan "breakfast" (sarapan).
+**Pembahasan:** The dinner row shows noodles and water. Noodles are the food.
 
 ---
 
 ## Soal 37 — K03-ENG-B03-M01-037
 
-![Picture](assets/eng-b03-gambar-02.svg)
+![Two lunch trays. Ayu: rice, soup, water. Dito: rice, fish, milk.](assets/eng-b03-gambar-02.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** What do both children have for lunch?
 
 **Pilihan jawaban:**
-- breakfast
+- soup
+- fish
+- milk
 - rice
-- eggs
-- lunch
 
-**Kunci Jawaban:** lunch
+**Kunci Jawaban:** rice
 
-**Pembahasan:** Gambar menunjukkan "lunch" (makan siang).
+**Pembahasan:** Rice appears on both lunch trays.
 
 ---
 
 ## Soal 38 — K03-ENG-B03-M01-038
 
-![Picture](assets/eng-b03-gambar-03.svg)
+![Beni's drink chart. Breakfast: milk. Lunch: orange juice. Dinner: water.](assets/eng-b03-gambar-03.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which sentence matches Beni's lunch drink?
 
 **Pilihan jawaban:**
-- chicken
-- milk
-- dinner
-- lunch
+- Beni drinks milk at lunch.
+- Beni drinks water at lunch.
+- Beni drinks orange juice at lunch.
+- Beni drinks orange juice at dinner.
 
-**Kunci Jawaban:** dinner
+**Kunci Jawaban:** Beni drinks orange juice at lunch.
 
-**Pembahasan:** Gambar menunjukkan "dinner" (makan malam).
+**Pembahasan:** The Lunch row lists orange juice.
 
 ---
 
 ## Soal 39 — K03-ENG-B03-M01-039
 
-![Picture](assets/eng-b03-gambar-04.svg)
+![Sasa's survey card. Breakfast: bread. Lunch: soup. Dinner: (no entry).](assets/eng-b03-gambar-04.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which question should the group ask to complete Sasa's card?
 
 **Pilihan jawaban:**
-- noodles
-- rice
-- dinner
-- bread
+- What do you have for breakfast?
+- What do you have for lunch?
+- What do you have for dinner?
+- Do you like bread?
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** What do you have for dinner?
 
-**Pembahasan:** Gambar menunjukkan "rice" (nasi).
+**Pembahasan:** Only the dinner row has no entry.
 
 ---
 
 ## Soal 40 — K03-ENG-B03-M01-040
 
-![Picture](assets/eng-b03-gambar-05.svg)
+![Two breakfast cards. Ina: eggs and tea. Bayu: bread and tea.](assets/eng-b03-gambar-05.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** What is the same on the two cards?
 
 **Pilihan jawaban:**
-- chicken
-- rice
-- eggs
-- water
+- the food
+- the drink
+- the name
+- the complete menu
 
-**Kunci Jawaban:** chicken
+**Kunci Jawaban:** the drink
 
-**Pembahasan:** Gambar menunjukkan "chicken" (ayam).
+**Pembahasan:** Both cards list tea, but they show different foods.
 
 ---
 
 ## Soal 41 — K03-ENG-B03-M01-041
 
-![Picture](assets/eng-b03-gambar-06.svg)
+![Lani's plan for the day. Morning: bread. Midday: fried rice. Evening: soup.](assets/eng-b03-gambar-06.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which meal includes fried rice?
 
 **Pilihan jawaban:**
-- chicken
-- milk
+- lunch
 - breakfast
-- bread
+- dinner
+- breakfast and dinner
 
-**Kunci Jawaban:** bread
+**Kunci Jawaban:** lunch
 
-**Pembahasan:** Gambar menunjukkan "bread" (roti).
+**Pembahasan:** The plan puts fried rice at midday, which is lunchtime.
 
 ---
 
 ## Soal 42 — K03-ENG-B03-M01-042
 
-![Picture](assets/eng-b03-gambar-07.svg)
+![Adi's meal cards. Card A: dinner, fish. Card B: breakfast, eggs. Card C: lunch, noodles.](assets/eng-b03-gambar-07.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which card shows Adi's first meal of the day?
 
 **Pilihan jawaban:**
-- noodles
-- lunch
-- eggs
-- bread
+- Card B
+- Card A
+- Card C
+- Cards A and C
 
-**Kunci Jawaban:** eggs
+**Kunci Jawaban:** Card B
 
-**Pembahasan:** Gambar menunjukkan "eggs" (telur).
+**Pembahasan:** Card B is marked breakfast, the first meal of the day.
 
 ---
 
 ## Soal 43 — K03-ENG-B03-M01-043
 
-![Picture](assets/eng-b03-gambar-08.svg)
+![Maya's lunch notes. Monday: rice and fish. Tuesday: rice and eggs.](assets/eng-b03-gambar-08.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** What changes from Monday to Tuesday?
 
 **Pilihan jawaban:**
-- dinner
-- milk
-- eggs
-- water
+- Rice changes to bread.
+- Eggs change to fish.
+- Lunch changes to dinner.
+- Fish changes to eggs.
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** Fish changes to eggs.
 
-**Pembahasan:** Gambar menunjukkan "milk" (susu).
+**Pembahasan:** Both entries list rice. Fish appears on Monday and eggs appear on Tuesday.
 
 ---
 
 ## Soal 44 — K03-ENG-B03-M01-044
 
-![Picture](assets/eng-b03-gambar-09.svg)
+![Lunch survey. Hana: soup and water. Iwan: rice and milk. Putri: soup and milk.](assets/eng-b03-gambar-09.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Who has soup and milk for lunch?
 
 **Pilihan jawaban:**
-- noodles
-- milk
-- breakfast
-- rice
+- Hana
+- Iwan
+- Putri
+- Hana and Iwan
 
-**Kunci Jawaban:** noodles
+**Kunci Jawaban:** Putri
 
-**Pembahasan:** Gambar menunjukkan "noodles" (mi).
+**Pembahasan:** Putri's row is the only one that lists both soup and milk.
 
 ---
 
 ## Soal 45 — K03-ENG-B03-M01-045
 
-![Picture](assets/eng-b03-gambar-10.svg)
+![Riko's meal record. Breakfast: home, bread. Lunch: school, rice. Dinner: home, soup.](assets/eng-b03-gambar-10.svg)
 
-**Pertanyaan:** Look at the picture. Choose the matching English word.
+**Pertanyaan:** Which report matches the meal Riko has at school?
 
 **Pilihan jawaban:**
-- noodles
-- lunch
-- chicken
-- water
+- He has bread for breakfast.
+- He has soup for dinner.
+- He has rice for lunch.
+- He has rice for dinner.
 
-**Kunci Jawaban:** water
+**Kunci Jawaban:** He has rice for lunch.
 
-**Pembahasan:** Gambar menunjukkan "water" (air).
+**Pembahasan:** The school entry is in the lunch row and lists rice.
 
 ---

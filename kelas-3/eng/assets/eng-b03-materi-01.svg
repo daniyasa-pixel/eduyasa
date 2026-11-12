@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 207" role="img" aria-labelledby="title desc">
+  <title id="title">Mita's meals</title>
+  <desc id="desc">Breakfast: eggs and milk. Lunch: fried chicken and water. Dinner: soup and orange juice</desc>
+  <rect width="390" height="207" rx="16" fill="#eef5f2"/>
+  <path d="M16 0h358a16 16 0 0 1 16 16v40H0V16A16 16 0 0 1 16 0z" fill="#19463f"/>
+  <text x="20" y="35" fill="white" font-family="sans-serif" font-size="21" font-weight="700">Mita's meals</text>
+  <rect x="12" y="64" width="366" height="39" rx="7" fill="#ffffff"/>
+  <text x="22" y="89" fill="#183a34" font-family="sans-serif" font-size="16" font-weight="700">Breakfast</text>
+  <text x="136" y="89" fill="#183a34" font-family="sans-serif" font-size="16">eggs and milk</text>
+  <rect x="12" y="109" width="366" height="39" rx="7" fill="#e1eee9"/>
+  <text x="22" y="134" fill="#183a34" font-family="sans-serif" font-size="16" font-weight="700">Lunch</text>
+  <text x="136" y="134" fill="#183a34" font-family="sans-serif" font-size="16">fried chicken and water</text>
+  <rect x="12" y="154" width="366" height="39" rx="7" fill="#ffffff"/>
+  <text x="22" y="179" fill="#183a34" font-family="sans-serif" font-size="16" font-weight="700">Dinner</text>
+  <text x="136" y="179" fill="#183a34" font-family="sans-serif" font-size="16">soup and orange juice</text>
+</svg>

@@ -7,7 +7,7 @@
 | Mapel | Bab | Soal | Temuan yang terverifikasi | Revisi selesai | Sisa pekerjaan |
 |---|---:|---:|---|---|---|
 | IPAS | 8 | 560 | Pola berulang, opsi ambigu, gambar membocorkan definisi, penyederhanaan konsep diperbaiki | 560 diperiksa; 546 diubah; 16 modul dan media delapan bab diselaraskan | Putaran isi/media selesai; belum konversi atau uji siswa |
-| ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Unit 1–2: 100 soal, empat modul, 24 SVG, dan pemeriksaan sumber TTS | Unit 3–10; uji suara browser HP dan WebView di tahap aplikasi |
+| ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Unit 1–3: 150 soal, enam modul, 36 SVG, dan pemeriksaan sumber TTS | Unit 4–10; uji suara browser HP dan WebView di tahap aplikasi |
 | PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; 300 soal diperiksa per butir; 293 diubah; 20 modul diselaraskan | Isi selesai; cuplikan Arab ditinjau pada 390 px; uji browser HP/WebView dan pelafalan di tahap aplikasi |
 | PJOK | 8 | 360 | Soal berulang; ilustrasi hanya simbol; berkas soal lama dengan ID lain masih ada | Belum | Revisi teknik gerak dan keselamatan, ilustrasi, pilih bank resmi, modul belum ada |
 | SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik; bab internal belum diverifikasi terhadap buku | Belum | Soal pengamatan visual, distraktor, ilustrasi, verifikasi bab resmi |
@@ -219,3 +219,23 @@ serta membedakan No dari jawaban yang belum diketahui. Seluruh ID tetap.
 Dua belas SVG ditinjau pada 390 px dan lima naskah listening diperiksa
 dengan simulasi API. Validator: 1.945 soal, 0 kesalahan struktur.
 Kumulatif audit isi 960; sisa 985 soal pada 21 bab/unit. Lanjut Unit 3.
+
+### Kelanjutan: Bahasa Inggris Unit 3
+
+Seluruh 50 soal dan dua modul diperiksa dan ditulis ulang sesuai cakupan
+Unit 3 buku siswa dan panduan guru *My Next Words Grade 3*. Semua ID tetap.
+Soal menguji waktu makan, makanan/minuman, pertanyaan tentang menu,
+`have/has`, laporan dan perbandingan catatan, serta informasi yang belum
+tercatat. Kedua versi modul mengajarkan cakupan yang sama melalui latihan
+tanya-jawab, mencatat dan melaporkan menu.
+
+Sepuluh stimulus soal memerlukan pembacaan kartu menu, jadwal, atau hasil
+survei; dua SVG melengkapi modul. Dua belas SVG diparse sebagai XML dan
+diukur agar teks muat pada bidang 390 px. Lima naskah listening diperiksa
+terhadap transkrip dan jawaban; pemutaran suara di browser HP/WebView
+menunggu pengujian aplikasi.
+
+Pemeriksaan struktur setara validator kanonis melalui JavaScript: 82 bank,
+1.945 soal, 310 referensi aset unik, 0 kesalahan. Kumulatif audit isi
+1.010/1.945; sisa 935 soal pada 20 bab/unit. Titik lanjut: Bahasa Inggris
+Unit 4.

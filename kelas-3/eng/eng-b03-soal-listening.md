@@ -1,103 +1,101 @@
 # Unit 3 — 5 Soal Listening
 
-**Status:** Menggunakan Web Speech API (speechSynthesis), bukan MP3. Suara tersedia jika browser/perangkat mendukung English voice.
-
 ## Soal 46 — K03-ENG-B03-M01-046
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"breakfast","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"I have bread and milk for breakfast.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** breakfast
+**Transkrip produksi (disembunyikan dari siswa):** I have bread and milk for breakfast.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** What does the speaker drink at breakfast?
 
 **Pilihan jawaban:**
-- dinner
-- bread
-- breakfast
 - water
+- milk
+- tea
+- orange juice
 
-**Kunci Jawaban:** breakfast
+**Kunci Jawaban:** milk
 
-**Pembahasan:** Audio menyebutkan "breakfast" (sarapan).
+**Pembahasan:** The speaker names bread and milk. Milk is the drink.
 
 ---
 
 ## Soal 47 — K03-ENG-B03-M01-047
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"lunch","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Ayu has soup for lunch and rice for dinner.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** lunch
+**Transkrip produksi (disembunyikan dari siswa):** Ayu has soup for lunch and rice for dinner.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** When does Ayu have rice?
 
 **Pilihan jawaban:**
-- eggs
-- lunch
-- breakfast
-- rice
+- at dinner
+- at breakfast
+- at lunch
+- at lunch and dinner
 
-**Kunci Jawaban:** lunch
+**Kunci Jawaban:** at dinner
 
-**Pembahasan:** Audio menyebutkan "lunch" (makan siang).
+**Pembahasan:** The second part links rice to dinner.
 
 ---
 
 ## Soal 48 — K03-ENG-B03-M01-048
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"dinner","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"What do you have for lunch, Beni? I have fried rice and water.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** dinner
+**Transkrip produksi (disembunyikan dari siswa):** What do you have for lunch, Beni? I have fried rice and water.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Which food should you record for Beni?
 
 **Pilihan jawaban:**
-- dinner
-- lunch
-- chicken
-- milk
+- fried rice
+- fried chicken
+- noodles
+- bread
 
-**Kunci Jawaban:** dinner
+**Kunci Jawaban:** fried rice
 
-**Pembahasan:** Audio menyebutkan "dinner" (makan malam).
+**Pembahasan:** Beni mentions fried rice as the food and water as the drink.
 
 ---
 
 ## Soal 49 — K03-ENG-B03-M01-049
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"rice","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"I have eggs for breakfast. My sister has bread for breakfast.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** rice
+**Transkrip produksi (disembunyikan dari siswa):** I have eggs for breakfast. My sister has bread for breakfast.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Who has bread?
 
 **Pilihan jawaban:**
-- dinner
-- bread
-- noodles
-- rice
+- the speaker
+- both people
+- neither person
+- the speaker's sister
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** the speaker's sister
 
-**Pembahasan:** Audio menyebutkan "rice" (nasi).
+**Pembahasan:** The second sentence says the speaker's sister has bread.
 
 ---
 
 ## Soal 50 — K03-ENG-B03-M01-050
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"chicken","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"We have rice for lunch. We have noodles for dinner.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** chicken
+**Transkrip produksi (disembunyikan dari siswa):** We have rice for lunch. We have noodles for dinner.
 
-**Pertanyaan:** Listen. Which English word do you hear?
+**Pertanyaan:** Which order matches the recording?
 
 **Pilihan jawaban:**
-- eggs
-- water
-- chicken
-- rice
+- noodles at lunch, then rice at dinner
+- rice at both meals
+- rice at lunch, then noodles at dinner
+- noodles at both meals
 
-**Kunci Jawaban:** chicken
+**Kunci Jawaban:** rice at lunch, then noodles at dinner
 
-**Pembahasan:** Audio menyebutkan "chicken" (ayam).
+**Pembahasan:** The recording connects rice with lunch and noodles with dinner.
 
 ---

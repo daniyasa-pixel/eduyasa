@@ -13,6 +13,6 @@
 - Unit 9: My Classroom Is Clean
 - Unit 10: There Are Twenty Books on the Shelf
 
-**STATUS: DRAF BELUM FINAL.** Semua unit memiliki berkas Markdown dan 100 SVG sederhana. **Audio menggunakan Web Speech API**, tanpa berkas MP3. Berkas listening sudah memuat data TTS, tetapi integrasi ke halaman kuis dan uji perangkat belum selesai. Unit 1–2 telah diaudit terhadap buku siswa dan panduan guru serta memakai stimulus baru. Unit 3–10 masih menunggu audit isi dan ilustrasi. Jangan menganggap paket siap rilis.
+**STATUS: DRAF BELUM FINAL.** Semua unit memiliki berkas Markdown dan SVG pendukung. **Audio menggunakan Web Speech API**, tanpa berkas MP3. Berkas listening sudah memuat data TTS, tetapi integrasi ke halaman kuis dan uji perangkat belum selesai. Unit 1–3 telah diaudit terhadap buku siswa dan panduan guru serta memakai stimulus baru. Unit 4–10 masih menunggu audit isi dan ilustrasi. Jangan menganggap paket siap rilis.
 
 **ID:** `K03-ENG-B##-MOD-01/02`; soal `K03-ENG-B##-M01-001`–`050`. Soal 1–35 teks, 36–45 bergambar, 46–50 listening.
