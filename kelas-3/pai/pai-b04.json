@@ -1,0 +1,404 @@
+{
+  "subject_id": "PAI",
+  "subject_name": "Pendidikan Agama Islam dan Budi Pekerti",
+  "grade": 3,
+  "curriculum": "Kurikulum Merdeka",
+  "chapters": [
+    {
+      "chapter_id": "K03-PAI-B04",
+      "chapter_title": "Aku Bangga Mampu Berpuasa",
+      "questions": [
+        {
+          "id": "K03-PAI-B04-M01-001",
+          "type": "PG",
+          "text": "Dalam Islam, untuk siapa puasa Ramadan diwajibkan?",
+          "options": [
+            "Semua anak yang sudah masuk sekolah",
+            "Hanya orang yang menjadi imam",
+            "Muslim yang telah memenuhi syarat",
+            "Hanya orang yang mampu bersedekah"
+          ],
+          "answer": "Muslim yang telah memenuhi syarat",
+          "discussion": "Kewajiban puasa Ramadan berlaku bagi muslim yang memenuhi syarat. Anak dapat belajar sesuai kemampuannya."
+        },
+        {
+          "id": "K03-PAI-B04-M01-002",
+          "type": "PG",
+          "text": "Bagan waktu menunjukkan fajar, tengah hari, dan matahari terbenam. Bagian mana yang menandai waktu menahan diri ketika berpuasa?",
+          "options": [
+            "Dari fajar hingga matahari terbenam",
+            "Dari matahari terbit hingga tengah hari",
+            "Dari tengah hari hingga matahari terbenam",
+            "Dari matahari terbenam hingga tengah malam"
+          ],
+          "answer": "Dari fajar hingga matahari terbenam",
+          "discussion": "Puasa dimulai sejak fajar dan berakhir saat matahari terbenam."
+        },
+        {
+          "id": "K03-PAI-B04-M01-003",
+          "type": "PG",
+          "text": "Ketika berpuasa, Arif sengaja minum sebelum waktu Magrib. Bagaimana keadaan puasanya?",
+          "options": [
+            "Tetap sah selama airnya sedikit",
+            "Tetap sah jika belum makan nasi",
+            "Batal hanya jika orang lain melihat",
+            "Batal karena sengaja minum sebelum waktunya"
+          ],
+          "answer": "Batal karena sengaja minum sebelum waktunya",
+          "discussion": "Sengaja minum dalam waktu puasa membatalkan puasa."
+        },
+        {
+          "id": "K03-PAI-B04-M01-004",
+          "type": "PG",
+          "text": "Keluarga Nisa ingin makan sahur. Kapan waktu yang tepat?",
+          "options": [
+            "Setelah salat Subuh",
+            "Sebelum fajar",
+            "Ketika matahari terbit",
+            "Ketika azan Magrib"
+          ],
+          "answer": "Sebelum fajar",
+          "discussion": "Sahur adalah makan sebelum memulai puasa. Saat fajar tiba, waktu puasa sudah mulai."
+        },
+        {
+          "id": "K03-PAI-B04-M01-005",
+          "type": "PG",
+          "text": "Raka melihat jam dinding berhenti, sementara ia ingin tahu apakah sudah boleh berbuka. Apa yang perlu ia periksa?",
+          "options": [
+            "Jadwal Magrib yang berlaku di daerahnya atau tanda masuk waktunya",
+            "Jam pulang sekolah hari ini",
+            "Perkiraan teman yang tinggal di kota lain",
+            "Waktu ketika keluarga selesai memasak"
+          ],
+          "answer": "Jadwal Magrib yang berlaku di daerahnya atau tanda masuk waktunya",
+          "discussion": "Waktu berbuka mengikuti masuknya Magrib di tempat seseorang berpuasa."
+        },
+        {
+          "id": "K03-PAI-B04-M01-006",
+          "type": "PG",
+          "text": "Apa tujuan puasa yang disebut dalam QS. Al-Baqarah ayat 183?",
+          "options": [
+            "Agar orang beriman paling lama menahan lapar",
+            "Agar orang beriman bertakwa",
+            "Agar semua orang makan lebih banyak pada malam hari",
+            "Agar orang lain menilai ibadah kita"
+          ],
+          "answer": "Agar orang beriman bertakwa",
+          "discussion": "Ayat itu menghubungkan kewajiban puasa dengan takwa, yaitu menjalankan perintah Allah dan menjauhi larangan-Nya."
+        },
+        {
+          "id": "K03-PAI-B04-M01-007",
+          "type": "PG",
+          "text": "Hasil gambar Dita rusak terkena air. Saat berpuasa, apa cara yang menunjukkan pengendalian diri?",
+          "options": [
+            "Membalas dengan merusak gambar teman",
+            "Berteriak sampai teman mengaku bersalah",
+            "Menyimpan rasa kesal lalu menyebarkan ejekan",
+            "Menenangkan diri lalu membicarakan apa yang terjadi"
+          ],
+          "answer": "Menenangkan diri lalu membicarakan apa yang terjadi",
+          "discussion": "Mengendalikan diri berarti memilih tindakan baik saat marah."
+        },
+        {
+          "id": "K03-PAI-B04-M01-008",
+          "type": "PG",
+          "text": "Dari contoh berikut, manakah yang menunjukkan adanya keringanan saat berpuasa?",
+          "options": [
+            "Orang yang hanya ingin cepat makan boleh memilih waktu buka sendiri",
+            "Orang yang sibuk bermain bebas meninggalkan puasa",
+            "Orang yang sakit sehingga tidak mampu berpuasa dapat berbuka dan belajar ketentuan penggantinya",
+            "Orang yang lapar selalu dapat mengakhiri puasa kapan saja"
+          ],
+          "answer": "Orang yang sakit sehingga tidak mampu berpuasa dapat berbuka dan belajar ketentuan penggantinya",
+          "discussion": "Al-Qur’an memberi keringanan bagi orang sakit. Ketentuan pengganti bergantung pada keadaan."
+        },
+        {
+          "id": "K03-PAI-B04-M01-009",
+          "type": "PG",
+          "text": "Setelah merasakan lapar saat berpuasa, Salma ingin belajar peduli. Apa tindakannya?",
+          "options": [
+            "Mengajak keluarga berbagi makanan sesuai kemampuan",
+            "Meminta teman menceritakan siapa saja yang kekurangan makanan",
+            "Membagikan makanan hanya jika mendapat pujian",
+            "Membuat perlombaan untuk menentukan siapa yang paling lapar"
+          ],
+          "answer": "Mengajak keluarga berbagi makanan sesuai kemampuan",
+          "discussion": "Pengalaman lapar dapat menumbuhkan empati dan mendorong kita berbagi."
+        },
+        {
+          "id": "K03-PAI-B04-M01-010",
+          "type": "PG",
+          "text": "Keluarga menyiapkan makanan berbuka. Apa bentuk bantuan yang bisa dilakukan anak?",
+          "options": [
+            "Mengangkat panci panas sendirian",
+            "Menata gelas di meja setelah meminta arahan",
+            "Mencicipi masakan di tengah waktu puasa",
+            "Meninggalkan alat makan berserakan"
+          ],
+          "answer": "Menata gelas di meja setelah meminta arahan",
+          "discussion": "Menata gelas membantu keluarga sesuai kemampuan."
+        },
+        {
+          "id": "K03-PAI-B04-M01-011",
+          "type": "PG",
+          "text": "Manakah urutan kegiatan yang sesuai waktu puasa?",
+          "options": [
+            "Berbuka sebelum fajar, berpuasa, lalu sahur saat Magrib",
+            "Berpuasa sejak tengah hari, sahur saat sore, lalu berbuka saat Magrib",
+            "Sahur sebelum fajar, berpuasa pada siang hari, lalu berbuka saat Magrib",
+            "Sahur saat fajar sudah lewat, lalu berbuka sebelum Magrib"
+          ],
+          "answer": "Sahur sebelum fajar, berpuasa pada siang hari, lalu berbuka saat Magrib",
+          "discussion": "Urutan mengikuti batas fajar dan terbenamnya matahari."
+        },
+        {
+          "id": "K03-PAI-B04-M01-012",
+          "type": "PG",
+          "text": "Apa yang dimaksud dengan niat berpuasa?",
+          "options": [
+            "Keinginan agar teman tahu kita berpuasa",
+            "Ucapan yang hanya dibaca setelah selesai berbuka",
+            "Janji untuk tidak makan sampai tengah hari saja",
+            "Kesengajaan dalam hati untuk berpuasa karena Allah"
+          ],
+          "answer": "Kesengajaan dalam hati untuk berpuasa karena Allah",
+          "discussion": "Niat adalah maksud ibadah dalam hati. Lafal yang dipelajari dapat membantu mengingat maksud itu."
+        },
+        {
+          "id": "K03-PAI-B04-M01-013",
+          "type": "PG",
+          "text": "Kiki hendak menjalankan puasa Ramadan esok hari. Kapan ia dapat menyiapkan niat dalam hati?",
+          "options": [
+            "Setelah waktu berbuka esok hari",
+            "Pada malam hari sebelum fajar",
+            "Ketika melihat matahari terbit esok hari",
+            "Saat tengah hari esok setelah merasa lapar"
+          ],
+          "answer": "Pada malam hari sebelum fajar",
+          "discussion": "Untuk puasa Ramadan, siapkan niat pada malam hari sebelum fajar."
+        },
+        {
+          "id": "K03-PAI-B04-M01-014",
+          "type": "PG",
+          "text": "Pada malam hari Fadil sudah berniat puasa. Ia tertidur hingga tidak sempat sahur. Apa arti keadaan ini?",
+          "options": [
+            "Ia tetap bisa berpuasa karena sahur dianjurkan dan bukan syarat sah",
+            "Ia wajib makan setelah fajar agar puasanya sah",
+            "Ia baru boleh mulai berpuasa setelah makan siang",
+            "Ia harus menunggu sampai malam berikutnya untuk mulai"
+          ],
+          "answer": "Ia tetap bisa berpuasa karena sahur dianjurkan dan bukan syarat sah",
+          "discussion": "Sahur dianjurkan. Terlewat sahur sendiri tidak membatalkan niat puasa."
+        },
+        {
+          "id": "K03-PAI-B04-M01-015",
+          "type": "PG",
+          "text": "Alya lupa sedang berpuasa dan minum seteguk air. Apa yang ia lakukan begitu ingat?",
+          "options": [
+            "Menghabiskan gelas karena sudah terlanjur",
+            "Sengaja makan karena menganggap puasanya batal",
+            "Mengulang niat lalu terus minum sampai siang",
+            "Berhenti minum dan melanjutkan puasanya"
+          ],
+          "answer": "Berhenti minum dan melanjutkan puasanya",
+          "discussion": "Hadis mengajarkan untuk melanjutkan puasa jika makan atau minum karena lupa. Berhenti begitu ingat."
+        },
+        {
+          "id": "K03-PAI-B04-M01-016",
+          "type": "PG",
+          "text": "Roni berkata, “Sahur dan berbuka sama-sama makan, jadi waktunya boleh ditukar.” Bagaimana memperbaikinya?",
+          "options": [
+            "Sahur setelah fajar, berbuka sebelum matahari terbenam",
+            "Sahur saat Magrib, berbuka saat Subuh",
+            "Sahur sebelum fajar, berbuka setelah waktu puasa berakhir",
+            "Sahur dan berbuka keduanya dilakukan pada tengah hari"
+          ],
+          "answer": "Sahur sebelum fajar, berbuka setelah waktu puasa berakhir",
+          "discussion": "Sahur mendahului waktu puasa, sedangkan berbuka mengakhirinya."
+        },
+        {
+          "id": "K03-PAI-B04-M01-017",
+          "type": "PG",
+          "text": "Nana membuat bagan untuk pelajaran. Di kotak mana ia menaruh “makan atau minum dengan sengaja saat berpuasa”?",
+          "options": [
+            "Keringanan puasa karena sakit",
+            "Hal yang membatalkan puasa",
+            "Anjuran sebelum berpuasa",
+            "Hikmah berpuasa"
+          ],
+          "answer": "Hal yang membatalkan puasa",
+          "discussion": "Makan atau minum dengan sengaja selama waktu puasa termasuk pembatal puasa."
+        },
+        {
+          "id": "K03-PAI-B04-M01-018",
+          "type": "PG",
+          "text": "Matahari masih terlihat dan belum masuk Magrib. Piring berbuka sudah disiapkan. Apa yang dilakukan Siti?",
+          "options": [
+            "Mulai makan karena makanan sudah siap",
+            "Mulai minum jika semua teman sudah minum",
+            "Mengakhiri puasa karena sudah mendekati Magrib",
+            "Menunggu waktu berbuka sambil membantu merapikan meja"
+          ],
+          "answer": "Menunggu waktu berbuka sambil membantu merapikan meja",
+          "discussion": "Siapnya makanan tidak mengubah batas waktu puasa."
+        },
+        {
+          "id": "K03-PAI-B04-M01-019",
+          "type": "PG",
+          "text": "Saat berbuka, apa cara yang sesuai dengan latihan ibadah di bab ini?",
+          "options": [
+            "Berbuka ketika waktunya tiba dan berdoa sebagai ungkapan syukur",
+            "Berdoa sebelum Magrib lalu langsung makan",
+            "Menunggu semua orang memuji puasanya baru makan",
+            "Menyimpan semua makanan agar tidak dibagi"
+          ],
+          "answer": "Berbuka ketika waktunya tiba dan berdoa sebagai ungkapan syukur",
+          "discussion": "Berbuka mengikuti waktu yang ditetapkan. Doa berbuka mengingatkan kita untuk bersyukur."
+        },
+        {
+          "id": "K03-PAI-B04-M01-020",
+          "type": "PG",
+          "text": "Di malam hari, Ayu dan keluarganya sedang menyiapkan puasa esok. Apa yang termasuk persiapan ibadah?",
+          "options": [
+            "Menunggu fajar untuk mulai menyiapkan niat Ramadan",
+            "Memutuskan akan berbuka ketika jam istirahat sekolah",
+            "Berniat dan merencanakan sahur sebelum fajar",
+            "Mencari cara agar semua teman tahu ia akan berpuasa"
+          ],
+          "answer": "Berniat dan merencanakan sahur sebelum fajar",
+          "discussion": "Niat dan persiapan sahur membantu menjalani puasa sesuai ketentuannya."
+        },
+        {
+          "id": "K03-PAI-B04-M01-021",
+          "type": "PG",
+          "text": "Bima masih belajar berpuasa. Ia merasa sangat lemas dan ingin menyembunyikannya. Apa yang sebaiknya dilakukan?",
+          "options": [
+            "Tetap diam agar semua orang mengira ia kuat",
+            "Berlari supaya rasa lemas cepat hilang",
+            "Meminta teman merahasiakan keadaannya",
+            "Segera memberi tahu guru atau orang tua agar mendapat bantuan"
+          ],
+          "answer": "Segera memberi tahu guru atau orang tua agar mendapat bantuan",
+          "discussion": "Anak perlu memberi tahu orang dewasa saat merasa sangat lemas agar mendapat bantuan yang tepat."
+        },
+        {
+          "id": "K03-PAI-B04-M01-022",
+          "type": "PG",
+          "text": "Dua siswa membicarakan temannya yang sakit dan mendapat keringanan. Tanggapan mana yang baik?",
+          "options": [
+            "Memaksanya ikut puasa seperti teman lain",
+            "Menghormati keadaannya dan tidak mengejek",
+            "Meminta teman menilai apakah sakitnya benar",
+            "Menganggap semua anak harus berlatih dengan cara yang sama"
+          ],
+          "answer": "Menghormati keadaannya dan tidak mengejek",
+          "discussion": "Keringanan adalah bagian dari ketentuan agama. Kita menghormati keadaan orang lain."
+        },
+        {
+          "id": "K03-PAI-B04-M01-023",
+          "type": "PG",
+          "text": "Apa contoh menjaga ucapan ketika sedang berpuasa?",
+          "options": [
+            "Membalas ejekan dengan ejekan yang lebih keras",
+            "Mengajak teman membicarakan keburukan orang lain",
+            "Meminta giliran berbicara dengan sopan ketika berbeda pendapat",
+            "Berteriak setiap kali pendapatnya tidak dipilih"
+          ],
+          "answer": "Meminta giliran berbicara dengan sopan ketika berbeda pendapat",
+          "discussion": "Menjaga ucapan melatih kesabaran dan membantu menjaga hubungan dengan orang lain."
+        },
+        {
+          "id": "K03-PAI-B04-M01-024",
+          "type": "PG",
+          "text": "Rani ingin membedakan ketentuan dan hikmah puasa. Manakah yang merupakan hikmah?",
+          "options": [
+            "Belajar mengendalikan diri ketika kecewa",
+            "Mulai menahan diri sejak fajar",
+            "Berbuka ketika matahari terbenam",
+            "Berniat berpuasa karena Allah"
+          ],
+          "answer": "Belajar mengendalikan diri ketika kecewa",
+          "discussion": "Hikmah adalah pelajaran atau kebaikan yang diperoleh. Waktu dan niat termasuk ketentuan."
+        },
+        {
+          "id": "K03-PAI-B04-M01-025",
+          "type": "PG",
+          "text": "Ada yang berkata, “Puasa cukup menahan lapar.” Apa tanggapan yang sesuai materi?",
+          "options": [
+            "Puasa melatih supaya kita boleh marah saat lapar",
+            "Puasa hanya menghitung berapa jam seseorang tidak makan",
+            "Puasa cukup dilakukan ketika dilihat orang",
+            "Puasa juga melatih menjaga ucapan dan perbuatan"
+          ],
+          "answer": "Puasa juga melatih menjaga ucapan dan perbuatan",
+          "discussion": "Puasa adalah ibadah kepada Allah. Menjaga ucapan dan perbuatan termasuk latihan pengendalian diri."
+        },
+        {
+          "id": "K03-PAI-B04-M01-026",
+          "type": "PG",
+          "text": "Hani berbuka di rumah saudaranya. Cara mana yang menunjukkan syukur dan kepedulian?",
+          "options": [
+            "Mengambil semua makanan kesukaannya sebelum orang lain",
+            "Membuang makanan yang tidak dipilihnya",
+            "Mengambil secukupnya agar yang lain juga mendapat bagian",
+            "Membandingkan siapa yang membawa hidangan paling mahal"
+          ],
+          "answer": "Mengambil secukupnya agar yang lain juga mendapat bagian",
+          "discussion": "Mengambil sesuai kebutuhan mengurangi pemborosan dan memberi bagian bagi orang lain."
+        },
+        {
+          "id": "K03-PAI-B04-M01-027",
+          "type": "PG",
+          "text": "Di kelas, Danu menemukan makanan milik teman saat berpuasa. Apa tindakan yang menunjukkan kejujuran?",
+          "options": [
+            "Menyembunyikannya untuk dibawa pulang setelah berbuka",
+            "Mengembalikannya atau menyerahkan kepada guru jika pemiliknya belum diketahui",
+            "Membiarkannya hilang agar tidak perlu bertanya",
+            "Memberikannya kepada teman lain tanpa izin pemilik"
+          ],
+          "answer": "Mengembalikannya atau menyerahkan kepada guru jika pemiliknya belum diketahui",
+          "discussion": "Kejujuran tetap dijaga ketika tidak ada yang melihat."
+        },
+        {
+          "id": "K03-PAI-B04-M01-028",
+          "type": "PG",
+          "text": "Manakah catatan yang menunjukkan latihan sabar dalam puasa?",
+          "options": [
+            "Aku kecewa saat kalah bermain, lalu menenangkan diri sebelum berbicara.",
+            "Aku melihat jam setiap menit sampai sore.",
+            "Aku memamerkan jadwal puasaku kepada teman.",
+            "Aku meminta teman menunggu sampai aku boleh makan."
+          ],
+          "answer": "Aku kecewa saat kalah bermain, lalu menenangkan diri sebelum berbicara.",
+          "discussion": "Catatan pertama menunjukkan pilihan untuk mengendalikan respons saat kecewa."
+        },
+        {
+          "id": "K03-PAI-B04-M01-029",
+          "type": "PG",
+          "text": "Kelas ingin meninjau cara belajar ketentuan puasa. Bagan mana yang paling membantu?",
+          "options": [
+            "Bagan yang hanya berisi daftar menu berbuka",
+            "Bagan yang mengurutkan siswa dari yang paling lama berpuasa",
+            "Bagan yang memisahkan waktu, niat, pembatal, dan keringanan",
+            "Bagan yang mencatat jam pulang sekolah saja"
+          ],
+          "answer": "Bagan yang memisahkan waktu, niat, pembatal, dan keringanan",
+          "discussion": "Memisahkan kelompok aturan membuat peran tiap ketentuan mudah dipahami."
+        },
+        {
+          "id": "K03-PAI-B04-M01-030",
+          "type": "PG",
+          "text": "Guru meminta contoh hikmah puasa beserta tindakannya. Jawaban mana yang tepat?",
+          "options": [
+            "Puasa melatih kepedulian. Aku menyimpan semua makanan untuk diri sendiri.",
+            "Puasa melatih kepedulian. Aku membantu menyiapkan makanan untuk dibagi.",
+            "Puasa melatih kesabaran. Aku mengejek teman yang tidak setuju.",
+            "Puasa melatih kejujuran. Aku berbohong tentang latihanku."
+          ],
+          "answer": "Puasa melatih kepedulian. Aku membantu menyiapkan makanan untuk dibagi.",
+          "discussion": "Tindakan membantu berbagi sesuai dengan hikmah kepedulian."
+        }
+      ]
+    }
+  ]
+}
