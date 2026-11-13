@@ -1,563 +1,563 @@
 # Bab 2 — Belajar dari Karya Orang Lain
 
-35 soal teks — konteks apresiasi dan praktik seni telah diperbarui.
+35 soal teks — audit isi terhadap Bab II *Bicara Tentang Karya* pada buku guru Seni Rupa Kelas III revisi 2025.
 
 ## Soal 1 — K03-SBD-B02-M01-001
 
-**Pertanyaan:** Ketika melihat lukisan teman, Tia mengamati warna dan berusaha memahami maksudnya. Kegiatan itu merupakan ....
+**Pertanyaan:** Tujuan utama membicarakan karya seni di kelas adalah ....
 
 **Pilihan jawaban:**
-- mengejek pembuatnya
-- merusak karya
-- menyalin tanpa izin
-- mengamati dan menghargai karya
+- menjelaskan pengamatan dan belajar menghargai gagasan
+- menentukan siapa yang paling hebat
+- membuat semua karya tampak sama
+- mencari kesalahan pembuatnya
 
-**Kunci Jawaban:** mengamati dan menghargai karya
+**Kunci Jawaban:** menjelaskan pengamatan dan belajar menghargai gagasan
 
-**Pembahasan:** Apresiasi karya seni berarti mengamati dan menghargai karya.
+**Pembahasan:** Berbicara tentang karya membantu siswa menjelaskan apa yang diamati, memahami gagasan, dan menghargai proses berkarya.
 
 ---
 
 ## Soal 2 — K03-SBD-B02-M01-002
 
-**Pertanyaan:** Raka menyukai perpaduan warna pada gambar temannya. Ia ingin memberi tanggapan. Apa yang sebaiknya dikatakan?
+**Pertanyaan:** Sebelum memberi komentar tentang gambar teman, langkah pertama yang paling tepat adalah ....
 
 **Pilihan jawaban:**
-- menyebut bagian yang disukai dengan sopan
-- mengatakan jelek tanpa alasan
-- menertawakan
-- merobek kertas
+- mengamati karya dengan cermat
+- menebak nilai pembuatnya
+- membandingkan harga alat
+- langsung memberi saran
 
-**Kunci Jawaban:** menyebut bagian yang disukai dengan sopan
+**Kunci Jawaban:** mengamati karya dengan cermat
 
-**Pembahasan:** Saat melihat lukisan teman, komentar yang baik adalah menyebut bagian yang disukai dengan sopan.
+**Pembahasan:** Komentar yang berguna dimulai dari pengamatan terhadap karya, bukan dugaan tentang pembuatnya.
 
 ---
 
 ## Soal 3 — K03-SBD-B02-M01-003
 
-**Pertanyaan:** Di dinding kelas tergantung gambar yang hanya memiliki ukuran panjang dan lebar. Sifat utama karya ini adalah ....
+**Pertanyaan:** Kalimat yang menyebut unsur rupa pada sebuah karya adalah ....
 
 **Pilihan jawaban:**
-- hanya gerakan
-- panjang dan lebar
-- panjang, lebar, dan tinggi nyata
-- hanya suara
+- Garis melengkung terlihat pada bagian ombak
+- Kertas ini dibeli hari Minggu
+- Pembuatnya duduk dekat pintu
+- Kelas kami selesai pukul dua
 
-**Kunci Jawaban:** panjang dan lebar
+**Kunci Jawaban:** Garis melengkung terlihat pada bagian ombak
 
-**Pembahasan:** Karya seni dua dimensi memiliki panjang dan lebar.
+**Pembahasan:** Garis merupakan unsur rupa; kalimat itu menunjukkan unsur yang benar-benar tampak pada karya.
 
 ---
 
 ## Soal 4 — K03-SBD-B02-M01-004
 
-**Pertanyaan:** Di sudut pameran terdapat patung kecil yang dapat dilihat dari berbagai sisi. Karya tersebut termasuk ....
+**Pertanyaan:** Komentar yang paling berdasarkan bukti visual adalah ....
 
 **Pilihan jawaban:**
-- musik
-- tari
-- tiga dimensi
-- dua dimensi datar
+- Aku melihat titik-titik merah berulang di latar
+- Karya ini pasti dibuat paling cepat
+- Pembuatnya tentu sedang marah
+- Gambar ini pasti paling mahal
 
-**Kunci Jawaban:** tiga dimensi
+**Kunci Jawaban:** Aku melihat titik-titik merah berulang di latar
 
-**Pembahasan:** Patung termasuk karya seni tiga dimensi.
+**Pembahasan:** Bukti visual menyebut bagian yang dapat dilihat, seperti titik, warna, garis, bidang, atau bentuk.
 
 ---
 
 ## Soal 5 — K03-SBD-B02-M01-005
 
-**Pertanyaan:** Sebuah poster hemat air memuat ilustrasi keran dan kalimat ajakan. Unsur apa yang biasanya dipadukan dalam poster itu?
+**Pertanyaan:** Kata yang dapat dipakai untuk menceritakan kesan sebuah karya adalah ....
 
 **Pilihan jawaban:**
-- bunyi alat musik
-- gerakan tari
-- aroma makanan
-- gambar dan tulisan untuk menyampaikan pesan
+- tenang
+- berat tiga kilogram
+- panjang dua kilometer
+- bersuhu seratus derajat
 
-**Kunci Jawaban:** gambar dan tulisan untuk menyampaikan pesan
+**Kunci Jawaban:** tenang
 
-**Pembahasan:** Poster biasanya memadukan gambar dan tulisan untuk menyampaikan pesan.
+**Pembahasan:** Tenang merupakan kata untuk menyampaikan kesan yang dirasakan saat mengamati karya.
 
 ---
 
 ## Soal 6 — K03-SBD-B02-M01-006
 
-**Pertanyaan:** Guru mengajak murid menyusun potongan kain, daun, dan kertas lalu merekatkannya ke karton. Teknik ini disebut ....
+**Pertanyaan:** Dua anak merasakan kesan berbeda saat melihat gambar yang sama. Sikap yang tepat adalah ....
 
 **Pilihan jawaban:**
-- menempel berbagai bahan pada bidang
-- menyanyi bersama
-- memukul drum
-- menari berpasangan
+- mendengarkan alasan masing-masing
+- memaksa semua memilih satu kesan
+- menertawakan jawaban yang berbeda
+- menghapus komentar teman
 
-**Kunci Jawaban:** menempel berbagai bahan pada bidang
+**Kunci Jawaban:** mendengarkan alasan masing-masing
 
-**Pembahasan:** Kolase dibuat dengan menempel berbagai bahan pada bidang.
+**Pembahasan:** Kesan terhadap karya dapat berbeda; alasan yang berkaitan dengan karya perlu didengarkan dengan saling menghargai.
 
 ---
 
 ## Soal 7 — K03-SBD-B02-M01-007
 
-**Pertanyaan:** Murid mengisi gambar burung dengan keping-keping kertas kecil yang disusun bersebelahan. Teknik tersebut memanfaatkan ....
+**Pertanyaan:** Dalam pembicaraan seni, komposisi berarti ....
 
 **Pilihan jawaban:**
-- gerakan lari
-- potongan kecil bahan yang disusun
-- satu nada panjang
-- suara air
+- susunan unsur-unsur pada karya
+- harga seluruh alat gambar
+- nama lengkap pembuat karya
+- lama perjalanan ke sekolah
 
-**Kunci Jawaban:** potongan kecil bahan yang disusun
+**Kunci Jawaban:** susunan unsur-unsur pada karya
 
-**Pembahasan:** Mozaik dapat dibuat dari potongan kecil bahan yang disusun.
+**Pembahasan:** Komposisi adalah cara unsur seperti garis, bentuk, dan warna disusun dalam karya.
 
 ---
 
 ## Soal 8 — K03-SBD-B02-M01-008
 
-**Pertanyaan:** Sinta ingin menyarankan perbaikan komposisi gambar teman tanpa menyakiti perasaannya. Komentar yang tepat memuat ....
+**Pertanyaan:** Bagian kiri dan kanan gambar terasa sama-sama kuat, meskipun bentuknya tidak persis sama. Kesan susunan itu disebut ....
 
 **Pilihan jawaban:**
-- ancaman
-- kebohongan
-- saran yang jelas dan santun
-- ejekan pribadi
+- seimbang
+- terpotong
+- tanpa warna
+- belum diamati
 
-**Kunci Jawaban:** saran yang jelas dan santun
+**Kunci Jawaban:** seimbang
 
-**Pembahasan:** Kritik membangun sebaiknya berisi saran yang jelas dan santun.
+**Pembahasan:** Keseimbangan dapat muncul ketika kekuatan visual antarbagiannya terasa setara, tidak harus sama persis.
 
 ---
 
 ## Soal 9 — K03-SBD-B02-M01-009
 
-**Pertanyaan:** Dua murid menggambar rumah dengan gaya berbeda. Bagaimana seharusnya kelas menilai perbedaan itu?
+**Pertanyaan:** Saat menceritakan proses berkarya, informasi yang paling sesuai adalah ....
 
 **Pilihan jawaban:**
-- disembunyikan
-- dihancurkan
-- ditertawakan
-- tetap dihargai
+- urutan langkah dan perubahan yang dilakukan
+- nilai rapor seluruh teman
+- makanan kesukaan pengunjung
+- jumlah kendaraan di jalan
 
-**Kunci Jawaban:** tetap dihargai
+**Kunci Jawaban:** urutan langkah dan perubahan yang dilakukan
 
-**Pembahasan:** Karya teman yang berbeda gaya sebaiknya tetap dihargai.
+**Pembahasan:** Cerita proses menjelaskan langkah, pilihan, kesulitan, atau perubahan selama karya dibuat.
 
 ---
 
 ## Soal 10 — K03-SBD-B02-M01-010
 
-**Pertanyaan:** Pada pameran sekolah, setiap karya diberi kartu kecil agar pengunjung mengenalnya. Informasi apa yang layak dicantumkan?
+**Pertanyaan:** Pernyataan yang menjelaskan gagasan karya adalah ....
 
 **Pilihan jawaban:**
-- judul dan nama pembuat
-- nilai rapor teman
-- kata ejekan
-- rahasia keluarga
+- Aku menggambar kebun untuk menceritakan kegiatan bersama keluarga
+- Aku memakai kertas berukuran A4
+- Aku duduk di kursi depan
+- Aku membawa dua pensil
 
-**Kunci Jawaban:** judul dan nama pembuat
+**Kunci Jawaban:** Aku menggambar kebun untuk menceritakan kegiatan bersama keluarga
 
-**Pembahasan:** Label karya pameran dapat memuat judul dan nama pembuat.
+**Pembahasan:** Gagasan menjelaskan ide atau hal yang ingin disampaikan melalui karya.
 
 ---
 
 ## Soal 11 — K03-SBD-B02-M01-011
 
-**Pertanyaan:** Di meja karya ada kardus bekas yang sudah bersih dan aman. Kardus itu sebaiknya diperlakukan sebagai ....
+**Pertanyaan:** Ketika menjelaskan alat dan bahan, kalimat yang tepat adalah ....
 
 **Pilihan jawaban:**
-- alat musik otomatis
-- bahan berkarya kreatif
-- sampah yang harus dibakar
-- bahan makanan
+- Aku memakai krayon untuk membuat warna dan kapas untuk awan
+- Aku memakai warna agar karya menjadi seni terbaik
+- Aku memilih alat karena teman harus meniru
+- Aku merahasiakan semua bahan dari kelompok
 
-**Kunci Jawaban:** bahan berkarya kreatif
+**Kunci Jawaban:** Aku memakai krayon untuk membuat warna dan kapas untuk awan
 
-**Pembahasan:** Bahan bekas bersih dapat dijadikan bahan berkarya kreatif.
+**Pembahasan:** Penjelasan alat dan bahan menyebut apa yang digunakan serta fungsinya dalam karya.
 
 ---
 
 ## Soal 12 — K03-SBD-B02-M01-012
 
-**Pertanyaan:** Guru mengajak murid berkunjung ke pameran. Perilaku yang paling tepat selama melihat karya adalah ....
+**Pertanyaan:** Refleksi terhadap kelebihan karya sendiri ditunjukkan oleh kalimat ....
 
 **Pilihan jawaban:**
-- mencoret karya
-- berlari di dekat pajangan
-- mengikuti aturan dan tidak menyentuh karya tanpa izin
-- menarik bingkai
+- Aku berhasil membuat pola titik yang teratur
+- Karyaku pasti lebih baik dari semua teman
+- Tidak ada bagian yang perlu diamati
+- Aku menyalin karya lain seluruhnya
 
-**Kunci Jawaban:** mengikuti aturan dan tidak menyentuh karya tanpa izin
+**Kunci Jawaban:** Aku berhasil membuat pola titik yang teratur
 
-**Pembahasan:** Mengunjungi pameran seni sebaiknya mengikuti aturan dan tidak menyentuh karya tanpa izin.
+**Pembahasan:** Refleksi diri menyebut bagian yang berhasil tanpa merendahkan atau membandingkan karya teman.
 
 ---
 
 ## Soal 13 — K03-SBD-B02-M01-013
 
-**Pertanyaan:** Pada lukisan, warna biru mengisi sebagian besar bidang dan sangat mudah terlihat. Warna tersebut disebut warna yang ....
+**Pertanyaan:** Kalimat refleksi yang menunjukkan rencana perbaikan adalah ....
 
 **Pilihan jawaban:**
-- tidak dipakai
-- selalu putih
-- tidak terlihat
-- paling menonjol
+- Lain kali aku akan merapikan garis tepi
+- Semua bagian harus dikerjakan teman
+- Aku tidak mau melihat karya ini lagi
+- Karya orang lain harus dibuat sama
 
-**Kunci Jawaban:** paling menonjol
+**Kunci Jawaban:** Lain kali aku akan merapikan garis tepi
 
-**Pembahasan:** Warna yang dominan pada karya berarti warna yang paling menonjol.
+**Pembahasan:** Refleksi membantu siswa memilih hal khusus yang dapat dicoba pada karya berikutnya.
 
 ---
 
 ## Soal 14 — K03-SBD-B02-M01-014
 
-**Pertanyaan:** Gambar menunjukkan pegunungan, sawah, dan sungai. Tema utama lukisan itu adalah ....
+**Pertanyaan:** Saat teman mempresentasikan karya, pendengar sebaiknya ....
 
 **Pilihan jawaban:**
-- alam seperti gunung atau sungai
-- hanya angka
-- rumus matematika
-- daftar belanja
+- memperhatikan sampai giliran bertanya
+- berbicara keras dengan teman lain
+- memindahkan karya tanpa izin
+- memotong penjelasan di tengah
 
-**Kunci Jawaban:** alam seperti gunung atau sungai
+**Kunci Jawaban:** memperhatikan sampai giliran bertanya
 
-**Pembahasan:** Lukisan pemandangan biasanya menampilkan alam seperti gunung atau sungai.
+**Pembahasan:** Mendengarkan dengan tertib menunjukkan penghargaan dan membantu memahami ide serta proses pembuat.
 
 ---
 
 ## Soal 15 — K03-SBD-B02-M01-015
 
-**Pertanyaan:** Seorang anak menyebut bagian paling berhasil dari karya temannya. Tindakan tersebut merupakan bentuk ....
+**Pertanyaan:** Pertanyaan yang berkaitan langsung dengan presentasi karya adalah ....
 
 **Pilihan jawaban:**
-- perusakan
-- apresiasi positif
-- perundungan
-- plagiarisme
+- Mengapa kamu memilih garis berombak untuk air?
+- Berapa nilai ulangan matematikamu?
+- Siapa yang paling cepat berlari?
+- Apa makanan yang dijual di kantin?
 
-**Kunci Jawaban:** apresiasi positif
+**Kunci Jawaban:** Mengapa kamu memilih garis berombak untuk air?
 
-**Pembahasan:** Menyebut kelebihan karya teman merupakan contoh apresiasi positif.
+**Pembahasan:** Pertanyaan yang baik membahas keputusan visual, gagasan, alat, bahan, atau proses karya.
 
 ---
 
 ## Soal 16 — K03-SBD-B02-M01-016
 
-**Pertanyaan:** Dalam diskusi karya, Lani mengamati pilihan warna, bentuk dan usaha pembuatnya sebelum memberi tanggapan. Itu contoh ....
+**Pertanyaan:** Jika belum memahami penjelasan teman, tindakan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- merusak karya
-- menyalin tanpa izin
-- mengamati dan menghargai karya
-- mengejek pembuatnya
+- meminta penjelasan ulang dengan sopan
+- menertawakan pembicara
+- menebak lalu menyebarkannya
+- meninggalkan kelompok tanpa izin
 
-**Kunci Jawaban:** mengamati dan menghargai karya
+**Kunci Jawaban:** meminta penjelasan ulang dengan sopan
 
-**Pembahasan:** Apresiasi karya seni berarti mengamati dan menghargai karya.
+**Pembahasan:** Permintaan penjelasan ulang membantu komunikasi tanpa merendahkan pembicara.
 
 ---
 
 ## Soal 17 — K03-SBD-B02-M01-017
 
-**Pertanyaan:** Dina berkata, 'Aku suka cara kamu membuat daun, garisnya terlihat hidup.' Komentar ini menunjukkan sikap ....
+**Pertanyaan:** Umpan balik yang lengkap dan membangun sebaiknya memuat ....
 
 **Pilihan jawaban:**
-- mengatakan jelek tanpa alasan
-- menertawakan
-- merobek kertas
-- menyebut bagian yang disukai dengan sopan
+- pengamatan, alasan, dan saran yang dapat dicoba
+- ejekan, peringkat, dan ancaman
+- dugaan tentang pembuat dan keluarganya
+- perintah agar karya dibuang
 
-**Kunci Jawaban:** menyebut bagian yang disukai dengan sopan
+**Kunci Jawaban:** pengamatan, alasan, dan saran yang dapat dicoba
 
-**Pembahasan:** Saat melihat lukisan teman, komentar yang baik adalah menyebut bagian yang disukai dengan sopan.
+**Pembahasan:** Umpan balik membangun menyebut bukti pada karya, menjelaskan alasan, lalu menawarkan saran yang jelas.
 
 ---
 
 ## Soal 18 — K03-SBD-B02-M01-018
 
-**Pertanyaan:** Seorang murid membandingkan gambar datar dengan benda berupa patung. Gambar datar terutama mempunyai ukuran ....
+**Pertanyaan:** Pujian yang menghargai usaha pembuat karya adalah ....
 
 **Pilihan jawaban:**
-- panjang dan lebar
-- panjang, lebar, dan tinggi nyata
-- hanya suara
-- hanya gerakan
+- Susunan potonganmu rapi; terlihat kamu teliti menempelkannya
+- Kamu pasti tidak pernah salah
+- Karyamu bagus karena yang lain jelek
+- Semua orang harus membuat karya seperti ini
 
-**Kunci Jawaban:** panjang dan lebar
+**Kunci Jawaban:** Susunan potonganmu rapi; terlihat kamu teliti menempelkannya
 
-**Pembahasan:** Karya seni dua dimensi memiliki panjang dan lebar.
+**Pembahasan:** Pujian yang baik menyebut bagian nyata dan usaha tanpa membandingkan atau memberi klaim berlebihan.
 
 ---
 
 ## Soal 19 — K03-SBD-B02-M01-019
 
-**Pertanyaan:** Kerajinan yang memiliki panjang, lebar, dan tinggi termasuk kategori ....
+**Pertanyaan:** Mengapa karya teman tidak sebaiknya diberi urutan 'terbaik sampai terburuk' dalam diskusi apresiasi?
 
 **Pilihan jawaban:**
-- tari
-- tiga dimensi
-- dua dimensi datar
-- musik
+- Setiap karya membawa proses dan gagasan yang berbeda
+- Semua karya harus memakai warna yang sama
+- Hanya guru yang boleh melihat karya
+- Urutan angka tidak dapat ditulis di kertas
 
-**Kunci Jawaban:** tiga dimensi
+**Kunci Jawaban:** Setiap karya membawa proses dan gagasan yang berbeda
 
-**Pembahasan:** Patung termasuk karya seni tiga dimensi.
+**Pembahasan:** Apresiasi berfokus pada unsur, gagasan, usaha, dan hal yang dapat dipelajari, bukan merendahkan melalui peringkat.
 
 ---
 
 ## Soal 20 — K03-SBD-B02-M01-020
 
-**Pertanyaan:** Untuk mengingatkan warga membuang sampah pada tempatnya, kelas membuat poster. Unsur apa yang dipadukan untuk menyampaikan pesan?
+**Pertanyaan:** Raka menyukai warna cerah, sedangkan Sinta menyukai warna lembut. Mereka sebaiknya ....
 
 **Pilihan jawaban:**
-- gerakan tari
-- aroma makanan
-- gambar dan tulisan untuk menyampaikan pesan
-- bunyi alat musik
+- menjelaskan pilihan dan saling menghargai
+- memaksa teman mengubah selera
+- menyatakan satu selera selalu benar
+- menutupi karya yang berbeda
 
-**Kunci Jawaban:** gambar dan tulisan untuk menyampaikan pesan
+**Kunci Jawaban:** menjelaskan pilihan dan saling menghargai
 
-**Pembahasan:** Poster biasanya memadukan gambar dan tulisan untuk menyampaikan pesan.
+**Pembahasan:** Perbedaan selera dapat dibicarakan melalui alasan yang santun tanpa memaksakan pendapat.
 
 ---
 
 ## Soal 21 — K03-SBD-B02-M01-021
 
-**Pertanyaan:** Anak membuat karya dengan menyusun aneka bahan di permukaan papan lalu menempelkannya. Tekniknya adalah ....
+**Pertanyaan:** Sebelum memotret dan membagikan karya teman, siswa perlu ....
 
 **Pilihan jawaban:**
-- menyanyi bersama
-- memukul drum
-- menari berpasangan
-- menempel berbagai bahan pada bidang
+- meminta izin kepada pemilik karya dan mengikuti aturan
+- langsung mengunggah agar cepat dilihat
+- menghapus nama pembuat
+- mengubah karya tanpa memberi tahu
 
-**Kunci Jawaban:** menempel berbagai bahan pada bidang
+**Kunci Jawaban:** meminta izin kepada pemilik karya dan mengikuti aturan
 
-**Pembahasan:** Kolase dibuat dengan menempel berbagai bahan pada bidang.
+**Pembahasan:** Izin melindungi hak dan kenyamanan pembuat karya, terutama sebelum foto dibagikan.
 
 ---
 
 ## Soal 22 — K03-SBD-B02-M01-022
 
-**Pertanyaan:** Untuk mengisi gambar ikan, murid memilih potongan-potongan kecil yang ditata rapat. Ini ciri teknik ....
+**Pertanyaan:** Kalimat yang tepat saat menyampaikan tafsiran adalah ....
 
 **Pilihan jawaban:**
-- potongan kecil bahan yang disusun
-- satu nada panjang
-- suara air
-- gerakan lari
+- Menurutku suasananya tenang karena warna birunya lembut
+- Karya ini pasti berarti sedih dan tidak mungkin lain
+- Pembuatnya tentu malas karena bidangnya kosong
+- Semua orang wajib merasakan hal yang sama
 
-**Kunci Jawaban:** potongan kecil bahan yang disusun
+**Kunci Jawaban:** Menurutku suasananya tenang karena warna birunya lembut
 
-**Pembahasan:** Mozaik dapat dibuat dari potongan kecil bahan yang disusun.
+**Pembahasan:** Tafsiran perlu disampaikan sebagai pendapat dan disertai alasan visual, bukan kepastian tentang perasaan pembuat.
 
 ---
 
 ## Soal 23 — K03-SBD-B02-M01-023
 
-**Pertanyaan:** Teman meminta pendapat soal karya yang sulit dipahami. Agar membantu, saran seharusnya berupa ....
+**Pertanyaan:** Manakah yang merupakan hasil pengamatan, bukan tafsiran?
 
 **Pilihan jawaban:**
-- kebohongan
-- saran yang jelas dan santun
-- ejekan pribadi
-- ancaman
+- Terdapat tiga lingkaran kuning di tengah
+- Lingkaran itu melambangkan persahabatan
+- Pembuatnya pasti sedang gembira
+- Karya ini menceritakan masa depan
 
-**Kunci Jawaban:** saran yang jelas dan santun
+**Kunci Jawaban:** Terdapat tiga lingkaran kuning di tengah
 
-**Pembahasan:** Kritik membangun sebaiknya berisi saran yang jelas dan santun.
+**Pembahasan:** Jumlah, bentuk, warna, dan letak yang terlihat termasuk pengamatan; makna termasuk tafsiran.
 
 ---
 
 ## Soal 24 — K03-SBD-B02-M01-024
 
-**Pertanyaan:** Meski gaya menggambar teman tidak sama dengan kita, hasilnya harus ....
+**Pertanyaan:** Jika ingin mengetahui maksud karya secara lebih pasti, sumber yang paling tepat adalah ....
 
 **Pilihan jawaban:**
-- dihancurkan
-- ditertawakan
-- tetap dihargai
-- disembunyikan
+- penjelasan pembuat karya
+- tebakan pengunjung yang belum mengamati
+- jumlah meja di ruang pameran
+- warna pakaian pendengar
 
-**Kunci Jawaban:** tetap dihargai
+**Kunci Jawaban:** penjelasan pembuat karya
 
-**Pembahasan:** Karya teman yang berbeda gaya sebaiknya tetap dihargai.
+**Pembahasan:** Pembuat karya dapat menjelaskan gagasan dan prosesnya; pengunjung tetap boleh menafsirkan dengan menyebutnya sebagai pendapat.
 
 ---
 
 ## Soal 25 — K03-SBD-B02-M01-025
 
-**Pertanyaan:** Sebelum karya dipajang, panitia ingin mengenalkan pembuatnya kepada pengunjung. Label yang sesuai berisi ....
+**Pertanyaan:** Mengapa kita tidak boleh langsung menyimpulkan perasaan pembuat hanya dari satu warna?
 
 **Pilihan jawaban:**
-- nilai rapor teman
-- kata ejekan
-- rahasia keluarga
-- judul dan nama pembuat
+- Makna warna dapat bergantung pada gagasan dan konteks karya
+- Semua warna selalu tidak bermakna
+- Warna hanya dapat dilihat oleh pembuat
+- Setiap warna mempunyai satu arti yang mutlak
 
-**Kunci Jawaban:** judul dan nama pembuat
+**Kunci Jawaban:** Makna warna dapat bergantung pada gagasan dan konteks karya
 
-**Pembahasan:** Label karya pameran dapat memuat judul dan nama pembuat.
+**Pembahasan:** Warna dapat memberi kesan, tetapi maksud pembuat perlu dipahami bersama unsur dan penjelasan lain.
 
 ---
 
 ## Soal 26 — K03-SBD-B02-M01-026
 
-**Pertanyaan:** Gulungan kertas bekas yang sudah bersih dikumpulkan untuk proyek seni kelas. Bahan tersebut dapat menjadi ....
+**Pertanyaan:** Teman yang belum nyaman berbicara di depan kelas dapat tetap melakukan apresiasi dengan ....
 
 **Pilihan jawaban:**
-- bahan berkarya kreatif
-- sampah yang harus dibakar
-- bahan makanan
-- alat musik otomatis
+- menulis kartu tanggapan atau berbicara dalam kelompok kecil
+- dipaksa berbicara tanpa persiapan
+- tidak diberi kesempatan berpendapat
+- menyalin komentar orang lain
 
-**Kunci Jawaban:** bahan berkarya kreatif
+**Kunci Jawaban:** menulis kartu tanggapan atau berbicara dalam kelompok kecil
 
-**Pembahasan:** Bahan bekas bersih dapat dijadikan bahan berkarya kreatif.
+**Pembahasan:** Apresiasi dapat disampaikan lisan, tertulis, atau melalui kelompok kecil agar kebutuhan komunikasi siswa dihargai.
 
 ---
 
 ## Soal 27 — K03-SBD-B02-M01-027
 
-**Pertanyaan:** Pengunjung penasaran pada tekstur patung, tetapi ada larangan menyentuh. Sikap terbaik ialah ....
+**Pertanyaan:** Agar lebih percaya diri saat presentasi karya, siswa dapat ....
 
 **Pilihan jawaban:**
-- berlari di dekat pajangan
-- mengikuti aturan dan tidak menyentuh karya tanpa izin
-- menarik bingkai
-- mencoret karya
+- menyiapkan catatan singkat dan berlatih
+- menghafal komentar teman tanpa memahami
+- menyembunyikan karya dari semua orang
+- berbicara secepat mungkin tanpa jeda
 
-**Kunci Jawaban:** mengikuti aturan dan tidak menyentuh karya tanpa izin
+**Kunci Jawaban:** menyiapkan catatan singkat dan berlatih
 
-**Pembahasan:** Mengunjungi pameran seni sebaiknya mengikuti aturan dan tidak menyentuh karya tanpa izin.
+**Pembahasan:** Catatan singkat dan latihan membantu presentasi lebih runtut tanpa harus menghafal seluruh kalimat.
 
 ---
 
 ## Soal 28 — K03-SBD-B02-M01-028
 
-**Pertanyaan:** Saat sebagian besar bidang karya dipenuhi hijau dan mata langsung tertuju ke warna itu, hijau adalah warna yang ....
+**Pertanyaan:** Urutan presentasi karya yang paling runtut adalah ....
 
 **Pilihan jawaban:**
-- selalu putih
-- tidak terlihat
-- paling menonjol
-- tidak dipakai
+- judul dan ide, unsur rupa, proses, lalu refleksi
+- saran untuk teman, nilai rapor, lalu judul
+- harga alat, jumlah kursi, lalu warna baju
+- refleksi orang lain, ejekan, lalu proses
 
-**Kunci Jawaban:** paling menonjol
+**Kunci Jawaban:** judul dan ide, unsur rupa, proses, lalu refleksi
 
-**Pembahasan:** Warna yang dominan pada karya berarti warna yang paling menonjol.
+**Pembahasan:** Urutan itu membantu pendengar memahami apa yang dibuat, bagaimana dibuat, dan apa yang dipelajari.
 
 ---
 
 ## Soal 29 — K03-SBD-B02-M01-029
 
-**Pertanyaan:** Pelukis menggambar air terjun, batu, dan pepohonan. Objek utamanya merupakan ....
+**Pertanyaan:** Setelah menerima saran yang sopan, pembuat karya dapat ....
 
 **Pilihan jawaban:**
-- hanya angka
-- rumus matematika
-- daftar belanja
-- alam seperti gunung atau sungai
+- mengucapkan terima kasih lalu mempertimbangkan saran
+- wajib mengikuti semua saran tanpa berpikir
+- membalas dengan ejekan
+- merobek kartu tanggapan
 
-**Kunci Jawaban:** alam seperti gunung atau sungai
+**Kunci Jawaban:** mengucapkan terima kasih lalu mempertimbangkan saran
 
-**Pembahasan:** Lukisan pemandangan biasanya menampilkan alam seperti gunung atau sungai.
+**Pembahasan:** Saran adalah bahan pertimbangan; pembuat dapat memilih yang sesuai dengan gagasan dan keselamatan.
 
 ---
 
 ## Soal 30 — K03-SBD-B02-M01-030
 
-**Pertanyaan:** Rani memberi pujian atas gagasan menarik pada karya Sari tanpa membandingkan kemampuan teman. Ini adalah ....
+**Pertanyaan:** Kalimat manakah yang berupa saran, bukan perintah merendahkan?
 
 **Pilihan jawaban:**
-- apresiasi positif
-- perundungan
-- plagiarisme
-- perusakan
+- Kamu dapat mencoba menambah jarak agar bentuknya lebih jelas
+- Ganti semuanya karena karyamu salah
+- Ikuti caraku atau jangan memajang karya
+- Buang bagian itu sekarang juga
 
-**Kunci Jawaban:** apresiasi positif
+**Kunci Jawaban:** Kamu dapat mencoba menambah jarak agar bentuknya lebih jelas
 
-**Pembahasan:** Menyebut kelebihan karya teman merupakan contoh apresiasi positif.
+**Pembahasan:** Saran menawarkan hal yang dapat dicoba dengan bahasa santun dan tetap menghormati keputusan pembuat.
 
 ---
 
 ## Soal 31 — K03-SBD-B02-M01-031
 
-**Pertanyaan:** Saat pameran mini, seorang murid memilih mengamati karya lalu menunjukkan penghargaan kepada pembuatnya. Kegiatan ini disebut ....
+**Pertanyaan:** Saat berjalan dalam galeri kelas, perilaku yang tepat adalah ....
 
 **Pilihan jawaban:**
-- menyalin tanpa izin
-- mengamati dan menghargai karya
-- mengejek pembuatnya
-- merusak karya
+- bergerak bergiliran dan menjaga jarak dari karya
+- menyentuh semua karya untuk menguji bahan
+- berlari sambil membawa pajangan
+- menutupi karya yang tidak disukai
 
-**Kunci Jawaban:** mengamati dan menghargai karya
+**Kunci Jawaban:** bergerak bergiliran dan menjaga jarak dari karya
 
-**Pembahasan:** Apresiasi karya seni berarti mengamati dan menghargai karya.
+**Pembahasan:** Aturan galeri melindungi karya dan memberi kesempatan semua siswa mengamati dengan nyaman.
 
 ---
 
 ## Soal 32 — K03-SBD-B02-M01-032
 
-**Pertanyaan:** Seorang siswa ingin mengomentari gambar temannya. Ia memilih kata yang ramah dan menyebut satu bagian yang disukai. Ini contoh ....
+**Pertanyaan:** Kartu karya membantu pengunjung memahami konteks jika memuat ....
 
 **Pilihan jawaban:**
-- menertawakan
-- merobek kertas
-- menyebut bagian yang disukai dengan sopan
-- mengatakan jelek tanpa alasan
+- judul, nama pembuat, dan bahan utama
+- nilai ujian dan alamat rumah
+- peringkat kemampuan pembuat
+- komentar rahasia teman
 
-**Kunci Jawaban:** menyebut bagian yang disukai dengan sopan
+**Kunci Jawaban:** judul, nama pembuat, dan bahan utama
 
-**Pembahasan:** Saat melihat lukisan teman, komentar yang baik adalah menyebut bagian yang disukai dengan sopan.
+**Pembahasan:** Judul, pembuat, dan bahan utama memberi informasi yang relevan tanpa membuka data pribadi yang tidak diperlukan.
 
 ---
 
 ## Soal 33 — K03-SBD-B02-M01-033
 
-**Pertanyaan:** Guru meminta murid menunjukkan dua ukuran yang dimiliki gambar pada kertas. Jawabannya adalah ....
+**Pertanyaan:** Refleksi proses berbeda dari sekadar menilai hasil karena refleksi juga membahas ....
 
 **Pilihan jawaban:**
-- panjang, lebar, dan tinggi nyata
-- hanya suara
-- hanya gerakan
-- panjang dan lebar
+- langkah, kesulitan, dan hal yang dipelajari
+- siapa yang harus dikalahkan
+- harga karya jika dijual
+- berapa banyak orang yang memuji
 
-**Kunci Jawaban:** panjang dan lebar
+**Kunci Jawaban:** langkah, kesulitan, dan hal yang dipelajari
 
-**Pembahasan:** Karya seni dua dimensi memiliki panjang dan lebar.
+**Pembahasan:** Refleksi meninjau pengalaman membuat karya, termasuk keputusan, tantangan, dan rencana berikutnya.
 
 ---
 
 ## Soal 34 — K03-SBD-B02-M01-034
 
-**Pertanyaan:** Patung tanah liat dapat dilihat dari depan, samping, dan belakang karena termasuk karya ....
+**Pertanyaan:** Cara belajar dari karya orang lain tanpa menyalinnya adalah ....
 
 **Pilihan jawaban:**
-- tiga dimensi
-- dua dimensi datar
-- musik
-- tari
+- mengamati idenya lalu mengembangkan pilihan sendiri
+- meniru seluruh bagian dan mengganti nama
+- memotret diam-diam lalu mengaku membuatnya
+- meminta teman menyelesaikan karya kita
 
-**Kunci Jawaban:** tiga dimensi
+**Kunci Jawaban:** mengamati idenya lalu mengembangkan pilihan sendiri
 
-**Pembahasan:** Patung termasuk karya seni tiga dimensi.
+**Pembahasan:** Karya orang lain dapat menjadi inspirasi, tetapi gagasan perlu diolah dengan susunan, bahan, atau cara yang dipilih sendiri.
 
 ---
 
 ## Soal 35 — K03-SBD-B02-M01-035
 
-**Pertanyaan:** Siswa hendak mengumumkan pesan 'Jaga Kebersihan' melalui poster. Unsur apa yang sebaiknya digabungkan?
+**Pertanyaan:** Urutan kegiatan apresiasi yang paling lengkap adalah ....
 
 **Pilihan jawaban:**
-- aroma makanan
-- gambar dan tulisan untuk menyampaikan pesan
-- bunyi alat musik
-- gerakan tari
+- mengamati, mendeskripsikan, menafsirkan, menanggapi, lalu merefleksi
+- menilai pembuat, memberi peringkat, lalu menyalin
+- memotret, mengunggah, lalu meminta izin
+- memberi saran, baru melihat karya sekilas
 
-**Kunci Jawaban:** gambar dan tulisan untuk menyampaikan pesan
+**Kunci Jawaban:** mengamati, mendeskripsikan, menafsirkan, menanggapi, lalu merefleksi
 
-**Pembahasan:** Poster biasanya memadukan gambar dan tulisan untuk menyampaikan pesan.
+**Pembahasan:** Apresiasi yang utuh dimulai dari pengamatan, dilanjutkan uraian dan tafsiran berbukti, tanggapan santun, kemudian refleksi.
 
 ---
