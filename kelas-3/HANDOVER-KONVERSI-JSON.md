@@ -150,3 +150,15 @@ Seluruh 45 soal Bab 2, 10 SVG, dan dua modul ditulis ulang setelah konversi sebe
 ## Perubahan sumber Seni Rupa Bab 3 — 13 November 2026
 
 Seluruh 45 soal Bab 3, 10 SVG, dan dua modul ditulis ulang setelah konversi sebelumnya. Regenerasi `sbd-b03.json`, `sbd-b03a.json`, dan `sbd-b03-materi.json`, lalu audit per-ID, urutan empat opsi, kunci, pembahasan, media, serta dua modul terhadap Markdown `main` terbaru. Jika sumber berubah lagi, audit perubahan itu satu kali sebelum konversi; bila audit menemukan revisi yang diperlukan, revisi Markdown terlebih dahulu lalu konversi ulang. Uji praktik stensil, karya siswa, aksesibilitas, dan HP/WebView tetap tahap aplikasi.
+
+
+## Perubahan sumber Seni Rupa Bab 4 — 13 November 2026
+
+Seluruh 45 soal Bab 4, 10 SVG, dan dua modul berubah setelah audit isi terhadap
+Bab IV *Kisah Gunting dan Tempel* pada buku guru revisi 2025. Regenerasi
+`sbd-b04.json`, `sbd-b04a.json`, dan `sbd-b04-materi.json`, lalu
+bandingkan 45 ID, urutan opsi, kunci, pembahasan, sepuluh media, dan isi dua
+modul terhadap Markdown `main` terbaru. Jika sumber berubah lagi, audit
+perubahan itu satu kali sebelum konversi; bila audit menemukan masalah, revisi
+Markdown terlebih dahulu lalu konversi ulang. Jangan menganggap validator
+struktur sebagai audit isi. Uji siswa dan HP/WebView tetap tahap aplikasi.
