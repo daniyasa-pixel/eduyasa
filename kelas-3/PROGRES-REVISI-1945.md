@@ -19,11 +19,11 @@
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
 | Bahasa Inggris | Unit 1–10: 500 soal dan dua puluh modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7–10 masing-masing 10 SVG fungsional | 500/500 diperiksa; 50 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | Audit isi sumber Inggris selesai; uji suara dan WebView di tahap aplikasi |
-| PJOK | Unit 1–5: Unit 1 merevisi 10 soal gambar; Unit 2–5 menulis ulang 180 soal; 50 SVG direvisi; 10 modul dibuat | 225/360 diperiksa terhadap buku dan keselamatan gerak | 135 soal/3 unit; uji praktik dan HP/WebView di tahap aplikasi |
+| PJOK | Unit 1–6: Unit 1 merevisi 10 soal gambar; Unit 2–6 menulis ulang 225 soal; 60 SVG direvisi; 12 modul dibuat | 270/360 diperiksa terhadap buku dan keselamatan gerak | 90 soal/2 unit; uji praktik dan HP/WebView di tahap aplikasi |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **1.585/1.945**. Jumlah diubah: **1.529**.
-Sisa audit isi: **360 soal pada 8 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **1.630/1.945**. Jumlah diubah: **1.574**.
+Sisa audit isi: **315 soal pada 7 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -804,3 +804,8 @@ Empat puluh lima soal gerak dominan senam ditulis ulang untuk menghapus pengulan
 ### Kelanjutan: PJOK Unit 5
 
 Empat puluh lima soal gerak berirama ditulis ulang untuk menghapus pengulangan dan diselaraskan dengan variasi langkah kaki serta ayunan lengan resmi. Cakupan meliputi langkah maju, di tempat, tegap, mundur, lari di tempat/maju, hitungan satu–dua, ayunan setinggi bahu/atas/kanan–kiri/depan–belakang, koordinasi, tempo, ruang aman, adaptasi kemampuan, kreativitas kelompok, pendinginan, dan refleksi data. Permainan tidak memakai hukuman atau tindakan yang mempermalukan anak. Sepuluh SVG menjadi stimulus fungsional dan dua modul baru dibuat. Kumulatif audit isi 1.585/1.945; sisa 360 soal/8 unit. Titik lanjut PJOK Unit 6.
+
+
+### Kelanjutan: PJOK Unit 6
+
+Empat puluh lima soal aktivitas air ditulis ulang dan diselaraskan dengan Unit Pembelajaran 6 buku guru resmi: posisi tubuh, gerak kaki gaya dada, gerak lengan, pernapasan, serta alternatif latihan di darat bila kolam aman tidak tersedia. Keselamatan diperketat melalui acuan paling banyak 10 siswa per guru, pemeriksaan kesehatan, izin masuk, zona dangkal, jarak dan giliran, larangan berlari/mendorong, alat bantu yang tidak menggantikan pengawasan, tanpa lomba menahan napas, dan respons memanggil petugas terlatih. Sepuluh SVG menjadi stimulus fungsional dan dua modul baru dibuat. Kumulatif audit isi **1.630/1.945**; sisa **315 soal pada 7 unit**. Titik lanjut PJOK Unit 7.

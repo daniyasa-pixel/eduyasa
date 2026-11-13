@@ -1,183 +1,174 @@
 # Unit 6 — Aktivitas Permainan dan Olahraga di Air
 
-10 soal bergambar telah direvisi dengan konteks; diagram SVG diproses terpisah dan pemeriksaan visual akhir masih diperlukan.
+10 soal bergambar telah diaudit. Setiap ilustrasi memuat data atau urutan gerak yang diperlukan untuk menjawab, bukan label kunci.
 
 ## Soal 36 — K03-PJK-B06-M01-036
 
-![Ilustrasi Pelampung latihan](assets/pjk-b06-gambar-01.svg)
+![Diagram perbandingan jumlah siswa per guru](assets/pjk-b06-gambar-01.svg)
 
-**Pertanyaan:** Anak memakai alat bantu apung saat belajar. Apa batas keamanan penggunaan alat?
+**Pertanyaan:** Diagram menunjukkan satu guru mengawasi 10 siswa di kelompok A dan satu guru mengawasi 14 siswa di kelompok B. Kelompok yang memenuhi acuan paling banyak 10 siswa per guru adalah ....
 
 **Pilihan jawaban:**
-- alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan
-- jaminan boleh berenang sendirian
-- alat untuk memukul
-- pengganti guru
+- kelompok A saja
+- kelompok B saja
+- kedua kelompok
+- tidak satu pun
 
-**Kunci Jawaban:** alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan
+**Kunci Jawaban:** kelompok A saja
 
-**Pembahasan:** Pelampung latihan: alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan.
+**Pembahasan:** Kelompok A tepat 10 siswa per guru, sedangkan kelompok B melebihi acuan.
 
 ---
-
 ## Soal 37 — K03-PJK-B06-M01-037
 
-![Ilustrasi Tepi kolam basah](assets/pjk-b06-gambar-02.svg)
+![Denah zona dangkal dan zona dalam kolam](assets/pjk-b06-gambar-02.svg)
 
-**Pertanyaan:** Gambar menunjukkan jalur basah di sekitar kolam. Cara melintas yang aman adalah ....
+**Pertanyaan:** Pada denah, zona biru muda bertanda “dangkal—latihan pemula”, sedangkan zona biru tua bertanda “dalam—dilarang tanpa izin”. Siswa pemula harus berada di ....
 
 **Pilihan jawaban:**
-- dilewati dengan berlari
-- digunakan melompat tanpa izin
-- digunakan mendorong teman
-- dilewati dengan berjalan hati-hati
+- zona biru muda yang ditetapkan
+- zona biru tua agar cepat mahir
+- batas antara dua zona tanpa pengawas
+- area mana pun yang kosong
 
-**Kunci Jawaban:** dilewati dengan berjalan hati-hati
+**Kunci Jawaban:** zona biru muda yang ditetapkan
 
-**Pembahasan:** Tepi kolam basah: dilewati dengan berjalan hati-hati.
+**Pembahasan:** Pemula berlatih di zona dangkal yang telah diperiksa dan ditetapkan pengawas.
 
 ---
-
 ## Soal 38 — K03-PJK-B06-M01-038
 
-![Ilustrasi Jika teman kesulitan di air](assets/pjk-b06-gambar-03.svg)
+![Perbandingan berjalan dan berlari di tepi kolam](assets/pjk-b06-gambar-03.svg)
 
-**Pertanyaan:** Seorang teman terlihat meminta pertolongan dari air. Apa tindakan anak yang tepat?
+**Pertanyaan:** Gambar membandingkan anak berjalan dan anak berlari di lantai basah. Perilaku yang aman ditunjukkan oleh ....
 
 **Pilihan jawaban:**
-- menertawakan
-- meninggalkan tanpa memberi tahu
-- segera memanggil guru atau penjaga kolam
-- langsung melompat tanpa kemampuan
+- anak yang berjalan
+- anak yang berlari
+- keduanya sama aman
+- keduanya harus melompat
 
-**Kunci Jawaban:** segera memanggil guru atau penjaga kolam
+**Kunci Jawaban:** anak yang berjalan
 
-**Pembahasan:** Jika teman kesulitan di air: segera memanggil guru atau penjaga kolam.
+**Pembahasan:** Berjalan pelan mengurangi risiko terpeleset di permukaan basah.
 
 ---
-
 ## Soal 39 — K03-PJK-B06-M01-039
 
-![Ilustrasi Aturan kolam renang](assets/pjk-b06-gambar-04.svg)
+![Perbandingan penggunaan papan pelampung](assets/pjk-b06-gambar-04.svg)
 
-**Pertanyaan:** Papan petunjuk terlihat sebelum memasuki kolam. Bagaimana peserta menyikapinya?
+**Pertanyaan:** Gambar A menunjukkan anak memakai papan pelampung bersama guru. Gambar B menunjukkan anak membawa papan lalu masuk sendirian. Pernyataan yang benar adalah ....
 
 **Pilihan jawaban:**
-- berlaku saat lomba saja
-- dipatuhi untuk keselamatan semua orang
-- boleh diabaikan
-- hanya untuk guru
+- A aman karena alat dipakai dengan pengawasan
+- B aman karena papan menggantikan guru
+- A tidak aman karena guru berada dekat
+- A dan B sama-sama boleh
 
-**Kunci Jawaban:** dipatuhi untuk keselamatan semua orang
+**Kunci Jawaban:** A aman karena alat dipakai dengan pengawasan
 
-**Pembahasan:** Aturan kolam renang: dipatuhi untuk keselamatan semua orang.
+**Pembahasan:** Alat bantu tidak pernah menggantikan pengawasan orang dewasa yang kompeten.
 
 ---
-
 ## Soal 40 — K03-PJK-B06-M01-040
 
-![Ilustrasi Latihan gerak kaki di air](assets/pjk-b06-gambar-05.svg)
+![Urutan gerak kaki gaya dada](assets/pjk-b06-gambar-05.svg)
 
-**Pertanyaan:** Guru memandu gerakan kaki dengan pegangan. Bagaimana siswa melatihnya?
+**Pertanyaan:** Urutan gambar gerak kaki: (1) tumit mendekat, (2) telapak mengarah keluar, (3) kaki mendorong air. Gerak berikutnya adalah ....
 
 **Pilihan jawaban:**
-- dilakukan dengan pegangan atau bantuan sesuai arahan
-- dilakukan tanpa pengawasan di kolam dalam
-- dilakukan di air deras
-- dilakukan sambil mengganggu teman
+- meluruskan dan merapatkan kaki
+- menekuk leher ke belakang
+- berdiri di papan luncur
+- memutar satu kaki ke depan
 
-**Kunci Jawaban:** dilakukan dengan pegangan atau bantuan sesuai arahan
+**Kunci Jawaban:** meluruskan dan merapatkan kaki
 
-**Pembahasan:** Latihan gerak kaki di air: dilakukan dengan pegangan atau bantuan sesuai arahan.
+**Pembahasan:** Setelah mendorong, kedua kaki kembali lurus dan rapat.
 
 ---
-
 ## Soal 41 — K03-PJK-B06-M01-041
 
-![Ilustrasi Keselamatan di kolam](assets/pjk-b06-gambar-06.svg)
+![Urutan gerak lengan gaya dada](assets/pjk-b06-gambar-06.svg)
 
-**Pertanyaan:** Siswa masuk area air saat guru mengawasi. Aturan paling penting apa?
+**Pertanyaan:** Kartu gerak lengan menampilkan: lurus ke depan → membuka menyapu → tangan kembali mendekat. Tahap selanjutnya adalah ....
 
 **Pilihan jawaban:**
-- berenang sendirian
-- berlari di tepi licin
-- mendorong teman ke air
-- selalu mengikuti pengawasan guru atau orang dewasa yang kompeten
+- meluruskan lengan ke depan lagi
+- menaruh kedua tangan di belakang
+- mengepalkan tangan di dada
+- memegang kaki
 
-**Kunci Jawaban:** selalu mengikuti pengawasan guru atau orang dewasa yang kompeten
+**Kunci Jawaban:** meluruskan lengan ke depan lagi
 
-**Pembahasan:** Keselamatan di kolam: selalu mengikuti pengawasan guru atau orang dewasa yang kompeten.
+**Pembahasan:** Siklus lengan selesai dengan kembali ke posisi lurus untuk memulai gerak berikutnya.
 
 ---
-
 ## Soal 42 — K03-PJK-B06-M01-042
 
-![Ilustrasi Pengenalan air](assets/pjk-b06-gambar-07.svg)
+![Perbandingan posisi tubuh saat meluncur](assets/pjk-b06-gambar-07.svg)
 
-**Pertanyaan:** Anak pemula dikenalkan pada air secara bertahap. Prinsip yang benar adalah ....
+**Pertanyaan:** Gambar A menunjukkan tubuh memanjang sejajar permukaan; gambar B menunjukkan pinggul turun dan lutut menekuk. Posisi yang lebih mendukung meluncur adalah ....
 
 **Pilihan jawaban:**
-- tanpa pengawasan
-- dengan menahan teman
-- dilakukan bertahap di tempat aman dan diawasi
-- langsung ke kolam dalam
+- gambar A
+- gambar B
+- keduanya harus berdiri
+- keduanya harus memutar leher
 
-**Kunci Jawaban:** dilakukan bertahap di tempat aman dan diawasi
+**Kunci Jawaban:** gambar A
 
-**Pembahasan:** Pengenalan air: dilakukan bertahap di tempat aman dan diawasi.
+**Pembahasan:** Tubuh yang memanjang dan mendatar mengurangi hambatan saat meluncur.
 
 ---
-
 ## Soal 43 — K03-PJK-B06-M01-043
 
-![Ilustrasi Berjalan di air dangkal](assets/pjk-b06-gambar-08.svg)
+![Diagram mengambil dan mengeluarkan napas](assets/pjk-b06-gambar-08.svg)
 
-**Pertanyaan:** Siswa berada di kolam dangkal bersama pengawas. Bagaimana berjalan di air dengan aman?
+**Pertanyaan:** Diagram menunjukkan panah “tarik napas” saat mulut di atas air dan gelembung saat wajah di air. Ketika wajah berada di air, siswa ....
 
 **Pilihan jawaban:**
-- dilakukan sendirian di sungai
-- dilakukan sesuai arahan dan kedalaman aman
-- dilakukan di air deras
-- dilakukan tanpa melihat dasar
+- mengembuskan napas perlahan
+- menghirup melalui hidung
+- menahan napas selama mungkin
+- membuka mulut untuk minum
 
-**Kunci Jawaban:** dilakukan sesuai arahan dan kedalaman aman
+**Kunci Jawaban:** mengembuskan napas perlahan
 
-**Pembahasan:** Berjalan di air dangkal: dilakukan sesuai arahan dan kedalaman aman.
+**Pembahasan:** Gelembung menunjukkan udara dikeluarkan secara perlahan di air.
 
 ---
-
 ## Soal 44 — K03-PJK-B06-M01-044
 
-![Ilustrasi Mengembuskan napas ke air](assets/pjk-b06-gambar-09.svg)
+![Siswa memanggil penjaga saat teman kesulitan](assets/pjk-b06-gambar-09.svg)
 
-**Pertanyaan:** Guru memberi instruksi latihan napas sederhana. Cara melakukannya adalah ....
+**Pertanyaan:** Gambar menunjukkan anak di air mengangkat tangan, sedangkan siswa di tepi menunjuk ke penjaga kolam. Tindakan siswa di tepi adalah ....
 
 **Pilihan jawaban:**
-- dilatih perlahan sesuai instruksi
-- dilakukan dengan panik
-- dilakukan tanpa bernapas lama
-- dilakukan di air dalam sendirian
+- memanggil orang dewasa terlatih
+- melompat tanpa keterampilan
+- meninggalkan lokasi diam-diam
+- menertawakan teman
 
-**Kunci Jawaban:** dilatih perlahan sesuai instruksi
+**Kunci Jawaban:** memanggil orang dewasa terlatih
 
-**Pembahasan:** Mengembuskan napas ke air: dilatih perlahan sesuai instruksi.
+**Pembahasan:** Anak memberi tanda dan memanggil guru atau penjaga, bukan melakukan penyelamatan yang belum dikuasai.
 
 ---
-
 ## Soal 45 — K03-PJK-B06-M01-045
 
-![Ilustrasi Mengapung](assets/pjk-b06-gambar-10.svg)
+![Daftar pemeriksaan kesiapan latihan air](assets/pjk-b06-gambar-10.svg)
 
-**Pertanyaan:** Tubuh berada dekat permukaan air dengan alat bantu bila perlu. Penjelasan yang sesuai ialah ....
+**Pertanyaan:** Daftar pemeriksaan kelompok menunjukkan: guru hadir, zona dangkal ditetapkan, jalur kosong, tetapi satu siswa sedang demam. Keputusan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- menyelam tanpa batas
-- berlari di tepi kolam
-- melempar batu
-- menjaga posisi tubuh di permukaan air dengan bantuan bila perlu
+- siswa yang demam tidak masuk air dan memberi tahu guru
+- semua langsung berlatih agar jadwal tidak terlambat
+- siswa yang demam masuk paling akhir
+- kelompok pindah ke kolam dalam
 
-**Kunci Jawaban:** menjaga posisi tubuh di permukaan air dengan bantuan bila perlu
+**Kunci Jawaban:** siswa yang demam tidak masuk air dan memberi tahu guru
 
-**Pembahasan:** Mengapung: menjaga posisi tubuh di permukaan air dengan bantuan bila perlu.
+**Pembahasan:** Kehadiran pengawas dan area aman tidak menghapus syarat kesehatan peserta.
 
 ---
