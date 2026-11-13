@@ -1,183 +1,184 @@
 # Unit 3 — Aktivitas Pola Gerak Dasar Manipulatif
 
-10 soal bergambar telah direvisi dengan konteks; diagram SVG diproses terpisah dan pemeriksaan visual akhir masih diperlukan.
+10 soal bergambar dengan stimulus fungsional; seluruh butir telah diaudit terhadap cakupan resmi melempar, menangkap, menendang, dan menahan bola. ID dan jumlah dipertahankan.
 
 ## Soal 36 — K03-PJK-B03-M01-036
 
-![Ilustrasi Mengoper bola](assets/pjk-b03-gambar-01.svg)
+![Diagram lintasan operan bawah, dada, dan atas kepala](assets/pjk-b03-gambar-01.svg)
 
-**Pertanyaan:** Dua anak saling memberi bola. Tindakan kerja sama apa yang sesuai?
+**Pertanyaan:** Diagram tiga lintasan operan menunjukkan A dari bawah, B lurus setinggi dada, dan C dari atas kepala. Lintasan mana yang merupakan operan setinggi dada?
 
 **Pilihan jawaban:**
-- menyembunyikan bola
-- melempar ke penonton
-- mengabaikan teman
-- memberikan bola kepada teman satu tim
+- lintasan A
+- lintasan B
+- lintasan C
+- semua lintasan sama
 
-**Kunci Jawaban:** memberikan bola kepada teman satu tim
+**Kunci Jawaban:** lintasan B
 
-**Pembahasan:** Mengoper bola: memberikan bola kepada teman satu tim.
+**Pembahasan:** Pada diagram, lintasan B bergerak lurus dari dada pelempar ke dada penerima.
 
 ---
 
 ## Soal 37 — K03-PJK-B03-M01-037
 
-![Ilustrasi Arah lemparan](assets/pjk-b03-gambar-02.svg)
+![Urutan menangkap bola yang menyusur tanah](assets/pjk-b03-gambar-02.svg)
 
-**Pertanyaan:** Panah menunjukkan bola bergerak ke sasaran kosong. Ke mana sebaiknya lemparan diarahkan?
+**Pertanyaan:** Urutan gambar memperlihatkan bola menyusur tanah mendekati anak. Tindakan pada tahap berikutnya yang paling tepat adalah ....
 
 **Pilihan jawaban:**
-- ke kaca jendela
-- ke jalan raya
-- diarahkan ke sasaran yang aman
-- ke wajah teman
+- merendahkan badan dan menyiapkan tangan
+- berbalik lalu berlari menjauh
+- menutup mata dan berdiri tegak
+- menendang bola sebelum dilihat
 
-**Kunci Jawaban:** diarahkan ke sasaran yang aman
+**Kunci Jawaban:** merendahkan badan dan menyiapkan tangan
 
-**Pembahasan:** Arah lemparan: diarahkan ke sasaran yang aman.
+**Pembahasan:** Bola menyusur tanah ditangkap dengan badan direndahkan dan tangan pada jalur bola.
 
 ---
 
 ## Soal 38 — K03-PJK-B03-M01-038
 
-![Ilustrasi Menangkap bola mendatar](assets/pjk-b03-gambar-03.svg)
+![Kartu hasil latihan lempar dan tangkap](assets/pjk-b03-gambar-03.svg)
 
-**Pertanyaan:** Bola bergerak mendatar ke anak yang siap menerima. Bagaimana posisi perhatian dan tangannya?
+**Pertanyaan:** Catatan latihan menunjukkan 8 kali melempar dan 6 kali menangkap berhasil. Berapa tangkapan yang belum berhasil?
 
 **Pilihan jawaban:**
-- berlari tanpa melihat
-- memperhatikan arah datang bola dan menyiapkan tangan
-- memejamkan mata
-- membelakangi bola
+- 1 tangkapan
+- 2 tangkapan
+- 6 tangkapan
+- 14 tangkapan
 
-**Kunci Jawaban:** memperhatikan arah datang bola dan menyiapkan tangan
+**Kunci Jawaban:** 2 tangkapan
 
-**Pembahasan:** Menangkap bola mendatar: memperhatikan arah datang bola dan menyiapkan tangan.
+**Pembahasan:** Delapan kesempatan dikurangi enam tangkapan berhasil sama dengan dua tangkapan yang belum berhasil.
 
 ---
 
 ## Soal 39 — K03-PJK-B03-M01-039
 
-![Ilustrasi Bermain bola bersama](assets/pjk-b03-gambar-04.svg)
+![Perbandingan dua pengaturan latihan lempar tangkap](assets/pjk-b03-gambar-04.svg)
 
-**Pertanyaan:** Anak-anak bermain dengan satu bola bergantian. Aturan yang penting ialah ....
+**Pertanyaan:** Dua pilihan latihan pemula terlihat pada gambar. Pilihan A memakai bola lunak pada jarak 3 meter; pilihan B memakai bola keras pada jarak 6 meter. Pilihan yang lebih aman untuk memulai adalah ....
 
 **Pilihan jawaban:**
-- mematuhi aturan dan bergiliran
-- merebut secara kasar
-- mengejek teman
-- mendorong lawan
+- pilihan A
+- pilihan B
+- keduanya harus dilakukan bersamaan
+- tidak perlu menggunakan bola
 
-**Kunci Jawaban:** mematuhi aturan dan bergiliran
+**Kunci Jawaban:** pilihan A
 
-**Pembahasan:** Bermain bola bersama: mematuhi aturan dan bergiliran.
+**Pembahasan:** Bola lunak dan jarak lebih dekat membantu pemula belajar secara bertahap.
 
 ---
 
 ## Soal 40 — K03-PJK-B03-M01-040
 
-![Ilustrasi Bola untuk latihan anak](assets/pjk-b03-gambar-05.svg)
+![Formasi segitiga dengan arah operan A ke B ke C](assets/pjk-b03-gambar-05.svg)
 
-**Pertanyaan:** Ada beberapa ukuran bola latihan. Bagaimana memilih bola bagi anak?
+**Pertanyaan:** Tiga anak membentuk segitiga. Panah menunjukkan bola dari posisi A menuju B. Jika latihan mengikuti arah panah melingkar, penerima berikutnya adalah ....
 
 **Pilihan jawaban:**
-- harus paling berat
-- harus keras seperti batu
-- selalu lebih besar dari tubuh
-- dipilih sesuai ukuran dan kemampuan
+- posisi A
+- posisi B
+- posisi C
+- di luar segitiga
 
-**Kunci Jawaban:** dipilih sesuai ukuran dan kemampuan
+**Kunci Jawaban:** posisi C
 
-**Pembahasan:** Bola untuk latihan anak: dipilih sesuai ukuran dan kemampuan.
+**Pembahasan:** Setelah B menerima dari A, arah panah berikutnya menuju posisi C.
 
 ---
 
 ## Soal 41 — K03-PJK-B03-M01-041
 
-![Ilustrasi Melempar bola](assets/pjk-b03-gambar-06.svg)
+![Diagram bagian kaki untuk menendang bola](assets/pjk-b03-gambar-06.svg)
 
-**Pertanyaan:** Bola berpindah dari tangan pelempar ke depan. Keterampilan apa yang dilakukan?
+**Pertanyaan:** Gambar membandingkan tiga bagian kaki: A bagian dalam, B bagian luar, dan C punggung kaki. Panel mana yang menunjukkan kaki bagian dalam?
 
 **Pilihan jawaban:**
-- berdiri satu kaki
-- membungkuk
-- menggerakkan bola menjauh menggunakan tangan
-- menahan bola dengan kaki
+- panel A
+- panel B
+- panel C
+- semua panel menunjukkan telapak
 
-**Kunci Jawaban:** menggerakkan bola menjauh menggunakan tangan
+**Kunci Jawaban:** panel A
 
-**Pembahasan:** Melempar bola: menggerakkan bola menjauh menggunakan tangan.
+**Pembahasan:** Panel A menandai sisi dalam kaki yang menghadap kaki lainnya.
 
 ---
 
 ## Soal 42 — K03-PJK-B03-M01-042
 
-![Ilustrasi Menangkap bola](assets/pjk-b03-gambar-07.svg)
+![Urutan menahan bola dengan telapak kaki](assets/pjk-b03-gambar-07.svg)
 
-**Pertanyaan:** Bola datang menuju tangan penerima. Tindakan yang sesuai ialah ....
+**Pertanyaan:** Pada gambar, bola menggelinding pelan lalu telapak kaki diletakkan ringan di atasnya. Tujuan gerak itu adalah ....
 
 **Pilihan jawaban:**
-- berjalan mundur
-- menerima bola dengan tangan secara terkendali
-- menendang bola
-- memutar badan
+- menahan dan menguasai bola
+- memantulkan bola ke udara
+- melempar bola kepada teman
+- mempercepat bola ke gawang
 
-**Kunci Jawaban:** menerima bola dengan tangan secara terkendali
+**Kunci Jawaban:** menahan dan menguasai bola
 
-**Pembahasan:** Menangkap bola: menerima bola dengan tangan secara terkendali.
+**Pembahasan:** Sentuhan telapak kaki yang terkendali digunakan untuk menghentikan bola pelan.
 
 ---
 
 ## Soal 43 — K03-PJK-B03-M01-043
 
-![Ilustrasi Menendang bola](assets/pjk-b03-gambar-08.svg)
+![Diagram keselamatan jalur tendangan ke gawang](assets/pjk-b03-gambar-08.svg)
 
-**Pertanyaan:** Anak menggerakkan bola ke depan dengan kaki. Keterampilan apa yang sesuai?
+**Pertanyaan:** Diagram lapangan menunjukkan seorang anak masih berada pada jalur tendangan menuju gawang. Apa yang harus dilakukan penendang?
 
 **Pilihan jawaban:**
-- menggerakkan bola menggunakan kaki
-- memukul bola dengan tangan
-- menangkap bola
-- mengayun lengan
+- menunggu sampai jalur kosong
+- menendang melewati kepala anak
+- menambah tenaga agar bola cepat lewat
+- menutup mata lalu menendang
 
-**Kunci Jawaban:** menggerakkan bola menggunakan kaki
+**Kunci Jawaban:** menunggu sampai jalur kosong
 
-**Pembahasan:** Menendang bola: menggerakkan bola menggunakan kaki.
+**Pembahasan:** Tendangan baru dilakukan setelah tidak ada orang pada jalur bola.
 
 ---
 
 ## Soal 44 — K03-PJK-B03-M01-044
 
-![Ilustrasi Menggiring bola dengan kaki](assets/pjk-b03-gambar-09.svg)
+![Diagram rotasi tiga peran latihan ke gawang](assets/pjk-b03-gambar-09.svg)
 
-**Pertanyaan:** Bola digerakkan melalui beberapa sentuhan kaki. Bagaimana cara mengontrolnya?
+**Pertanyaan:** Gambar menunjukkan tiga peran: pengumpan, penendang, dan penjaga gawang, disertai panah pergantian. Setelah satu putaran, tindakan yang benar adalah ....
 
 **Pilihan jawaban:**
-- melempar bola ke udara
-- duduk diam
-- berputar
-- mengontrol bola lewat sentuhan kaki berulang
+- berganti peran mengikuti panah
+- pengumpan tetap memegang bola
+- penendang meninggalkan lapangan
+- semua berdiri di dalam gawang
 
-**Kunci Jawaban:** mengontrol bola lewat sentuhan kaki berulang
+**Kunci Jawaban:** berganti peran mengikuti panah
 
-**Pembahasan:** Menggiring bola dengan kaki: mengontrol bola lewat sentuhan kaki berulang.
+**Pembahasan:** Panah pada diagram menunjukkan rotasi agar setiap anak mencoba ketiga peran.
 
 ---
 
 ## Soal 45 — K03-PJK-B03-M01-045
 
-![Ilustrasi Memantulkan bola](assets/pjk-b03-gambar-10.svg)
+![Tabel hasil tiga percobaan oper dan tahan bola](assets/pjk-b03-gambar-10.svg)
 
-**Pertanyaan:** Bola menyentuh lantai dan kembali naik. Manakah uraian gerak yang tepat?
+**Pertanyaan:** Tabel menunjukkan keberhasilan oper–tahan: percobaan 1 = 6, percobaan 2 = 8, percobaan 3 = 9. Percobaan dengan hasil terbaik adalah ....
 
 **Pilihan jawaban:**
-- menendang jauh
-- membungkuk
-- mendorong bola ke lantai agar memantul kembali
-- menahan bola di tas
+- percobaan 1
+- percobaan 2
+- percobaan 3
+- semua sama
 
-**Kunci Jawaban:** mendorong bola ke lantai agar memantul kembali
+**Kunci Jawaban:** percobaan 3
 
-**Pembahasan:** Memantulkan bola: mendorong bola ke lantai agar memantul kembali.
+**Pembahasan:** Nilai terbesar pada tabel adalah 9, yaitu hasil percobaan ketiga.
 
 ---
+

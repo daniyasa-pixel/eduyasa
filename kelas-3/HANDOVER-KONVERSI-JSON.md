@@ -105,3 +105,8 @@ Regenerasi `pjk-b02.json`, `pjk-b02a.json`, buat
 `pjk-b02-materi.json`, lalu audit per-ID, opsi, media, dan konten dua modul
 terhadap Markdown `main` terbaru. Jika sumber berubah lagi, audit perubahan
 itu satu kali sebelum konversi.
+
+
+## Perubahan sumber PJOK Unit 3 — 13 November 2026
+
+Seluruh 45 soal Unit 3, 10 SVG, dan dua modul berubah/baru setelah konversi. Regenerasi `pjk-b03.json`, `pjk-b03a.json`, buat `pjk-b03-materi.json`, lalu audit per-ID, opsi, media, dan konten dua modul terhadap Markdown `main` terbaru. Jika sumber berubah lagi, audit perubahan itu satu kali sebelum konversi; bila audit menemukan revisi yang memang diperlukan, revisi Markdown terlebih dahulu lalu konversi ulang.

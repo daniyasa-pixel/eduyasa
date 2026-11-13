@@ -19,7 +19,7 @@ Pemeriksaan sumber setelah revisi: **360 soal, 360 ID unik, 360 stem unik, empat
 
 **STATUS: REVISI SUMBER SELESAI, AUDIT FINAL BELUM.** Belum dilaksanakan verifikasi bab demi bab terhadap buku resmi, validasi jawaban semantik dan pengecoh, rendering/peninjauan visual penuh pada HP 390 px, uji pembelajaran oleh guru atau siswa, maupun validator Python keseluruhan `scripts/check-k03-question-sources.py`. Perlu pemeriksaan rinci khusus unit senam dan air; jangan langsung konversi JSON.
 
-**Modul pembelajaran:** Unit 1–2 sudah masing-masing memiliki MOD-01 dan MOD-02. Unit 3–8 masih belum memiliki modul dan tetap menjadi kekurangan yang harus diselesaikan.
+**Modul pembelajaran:** Unit 1–3 sudah masing-masing memiliki MOD-01 dan MOD-02. Unit 4–8 masih belum memiliki modul dan tetap menjadi kekurangan yang harus diselesaikan.
 
 Catatan serah-terima dan progres lihat `../PROGRES-REVISI-1945.md` dan `../HANDOVER-KONVERSI-JSON.md`.
 
@@ -45,3 +45,8 @@ karena sumber lama mengulang pola yang sama; 10 SVG diganti dan dua modul baru
 dibuat. JSON `pjk-b02.json` dan `pjk-b02a.json` berstatus
 **STALE_SOURCE_CHANGED**; `pjk-b02-materi.json` belum ada dan perlu dibuat
 pada tahap konversi terpisah. Uji praktik siswa dan HP/WebView tetap diperlukan.
+
+
+## Audit final Unit 3 — 13 November 2026
+
+Unit 3 selesai diaudit terhadap buku guru resmi. Seluruh 45 soal ditulis ulang untuk menghapus pengulangan pola; cakupan dipusatkan pada variasi melempar, menangkap, menendang, dan menahan bola. Sepuluh SVG diganti dengan stimulus fungsional dan dua modul baru dibuat. JSON `pjk-b03.json` dan `pjk-b03a.json` berstatus **STALE_SOURCE_CHANGED**; `pjk-b03-materi.json` belum ada dan perlu dibuat pada tahap konversi terpisah. Uji praktik siswa serta HP/WebView tetap diperlukan.

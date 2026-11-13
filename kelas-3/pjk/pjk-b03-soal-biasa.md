@@ -1,563 +1,564 @@
 # Unit 3 — Aktivitas Pola Gerak Dasar Manipulatif
 
-35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
+35 soal teks; seluruh butir telah diaudit terhadap cakupan resmi melempar, menangkap, menendang, dan menahan bola. ID dan jumlah dipertahankan.
 
 ## Soal 1 — K03-PJK-B03-M01-001
 
-**Pertanyaan:** Ari memindahkan bola dari tangannya ke arah sasaran tanpa menendangnya. Apa gerak yang dilakukan?
+**Pertanyaan:** Gerak manipulatif berbeda dari gerak lokomotor karena pelakunya ....
 
 **Pilihan jawaban:**
-- berdiri satu kaki
-- membungkuk
-- menggerakkan bola menjauh menggunakan tangan
-- menahan bola dengan kaki
+- mengendalikan benda seperti bola
+- selalu berpindah tempat tanpa benda
+- hanya diam tanpa menggerakkan tubuh
+- harus berlari secepat mungkin
 
-**Kunci Jawaban:** menggerakkan bola menjauh menggunakan tangan
+**Kunci Jawaban:** mengendalikan benda seperti bola
 
-**Pembahasan:** Melempar bola: menggerakkan bola menjauh menggunakan tangan.
+**Pembahasan:** Gerak manipulatif melibatkan pengendalian benda di luar tubuh, misalnya melempar, menangkap, menendang, atau menahan bola.
 
 ---
 
 ## Soal 2 — K03-PJK-B03-M01-002
 
-**Pertanyaan:** Bola datang perlahan ke arah dada Maya. Apa yang perlu dilakukan tangannya?
+**Pertanyaan:** Dina melambungkan bola sendiri dari bawah. Urutan awal yang tepat adalah ....
 
 **Pilihan jawaban:**
-- berjalan mundur
-- menerima bola dengan tangan secara terkendali
-- menendang bola
-- memutar badan
+- berdiri seimbang, ayunkan tangan dari bawah, lalu lepaskan bola
+- pejamkan mata, lempar sekuatnya, lalu berputar
+- duduk, taruh bola, lalu tinggalkan
+- hadapkan badan ke belakang dan lempar tanpa melihat
 
-**Kunci Jawaban:** menerima bola dengan tangan secara terkendali
+**Kunci Jawaban:** berdiri seimbang, ayunkan tangan dari bawah, lalu lepaskan bola
 
-**Pembahasan:** Menangkap bola: menerima bola dengan tangan secara terkendali.
+**Pembahasan:** Lambungan bawah dimulai dari sikap seimbang, ayunan tangan dari bawah, dan pelepasan bola yang terkendali.
 
 ---
 
 ## Soal 3 — K03-PJK-B03-M01-003
 
-**Pertanyaan:** Bima mengirim bola ke depan dengan bagian kaki. Penjelasan gerak yang cocok adalah ....
+**Pertanyaan:** Saat bola yang dilambungkan sendiri turun, pandangan sebaiknya ....
 
 **Pilihan jawaban:**
-- menggerakkan bola menggunakan kaki
-- memukul bola dengan tangan
-- menangkap bola
-- mengayun lengan
+- mengikuti arah bola
+- melihat teman di belakang
+- menatap lantai terus-menerus
+- dipejamkan agar tidak silau
 
-**Kunci Jawaban:** menggerakkan bola menggunakan kaki
+**Kunci Jawaban:** mengikuti arah bola
 
-**Pembahasan:** Menendang bola: menggerakkan bola menggunakan kaki.
+**Pembahasan:** Mengikuti arah bola membantu tangan memperkirakan tempat dan waktu tangkapan.
 
 ---
 
 ## Soal 4 — K03-PJK-B03-M01-004
 
-**Pertanyaan:** Rani membawa bola sambil berjalan dan menyentuhnya berkali-kali memakai kaki. Tekniknya adalah ....
+**Pertanyaan:** Untuk menangkap lambungan sendiri dengan lebih terkendali, Raka sebaiknya ....
 
 **Pilihan jawaban:**
-- melempar bola ke udara
-- duduk diam
-- berputar
-- mengontrol bola lewat sentuhan kaki berulang
+- menyiapkan kedua tangan pada arah datang bola
+- menepuk bola menjauh dengan satu jari
+- membelakangi bola sampai jatuh
+- menunggu bola mengenai badan
 
-**Kunci Jawaban:** mengontrol bola lewat sentuhan kaki berulang
+**Kunci Jawaban:** menyiapkan kedua tangan pada arah datang bola
 
-**Pembahasan:** Menggiring bola dengan kaki: mengontrol bola lewat sentuhan kaki berulang.
+**Pembahasan:** Dua tangan yang siap pada jalur bola membantu menerima dan menguasai bola.
 
 ---
 
 ## Soal 5 — K03-PJK-B03-M01-005
 
-**Pertanyaan:** Seorang siswa mendorong bola ke lantai lalu menangkap pantulannya. Kegiatan ini adalah ....
+**Pertanyaan:** Siti dan Nara berdiri berhadapan. Agar bola tiba setinggi dada teman, Siti perlu ....
 
 **Pilihan jawaban:**
-- menendang jauh
-- membungkuk
-- mendorong bola ke lantai agar memantul kembali
-- menahan bola di tas
+- mengarahkan lemparan terukur ke dada teman yang siap
+- melempar ke atas kepala teman tanpa aba-aba
+- melempar ke samping menjauhi pasangan
+- menjatuhkan bola di belakang tubuh
 
-**Kunci Jawaban:** mendorong bola ke lantai agar memantul kembali
+**Kunci Jawaban:** mengarahkan lemparan terukur ke dada teman yang siap
 
-**Pembahasan:** Memantulkan bola: mendorong bola ke lantai agar memantul kembali.
+**Pembahasan:** Lemparan dada diarahkan terukur kepada pasangan yang sudah siap menerima.
 
 ---
 
 ## Soal 6 — K03-PJK-B03-M01-006
 
-**Pertanyaan:** Dalam permainan, Lani memberikan bola kepada pemain lain pada tim yang sama. Gerak apakah itu?
+**Pertanyaan:** Pada operan pantul, bola seharusnya ....
 
 **Pilihan jawaban:**
-- mengabaikan teman
-- memberikan bola kepada teman satu tim
-- menyembunyikan bola
-- melempar ke penonton
+- menyentuh lantai sebelum diterima pasangan
+- melewati kepala penerima tanpa memantul
+- digelindingkan ke luar lapangan
+- dipegang sambil berlari
 
-**Kunci Jawaban:** memberikan bola kepada teman satu tim
+**Kunci Jawaban:** menyentuh lantai sebelum diterima pasangan
 
-**Pembahasan:** Mengoper bola: memberikan bola kepada teman satu tim.
+**Pembahasan:** Ciri operan pantul adalah bola memantul di lantai sebelum sampai kepada penerima.
 
 ---
 
 ## Soal 7 — K03-PJK-B03-M01-007
 
-**Pertanyaan:** Sebelum melempar, siswa memeriksa agar tidak ada teman di jalur sasaran. Prinsip yang sesuai adalah ....
+**Pertanyaan:** Bola perlu dikirim melewati penghalang rendah menuju teman yang siap. Variasi yang dapat dipilih adalah ....
 
 **Pilihan jawaban:**
-- diarahkan ke sasaran yang aman
-- ke wajah teman
-- ke kaca jendela
-- ke jalan raya
+- operan dari atas kepala secara terkendali
+- tendangan keras ke arah wajah
+- lemparan tanpa melihat sasaran
+- menahan bola di bawah kaki
 
-**Kunci Jawaban:** diarahkan ke sasaran yang aman
+**Kunci Jawaban:** operan dari atas kepala secara terkendali
 
-**Pembahasan:** Arah lemparan: diarahkan ke sasaran yang aman.
+**Pembahasan:** Operan atas kepala merupakan salah satu variasi lempar-tangkap, tetapi arah dan tenaganya tetap harus terkendali.
 
 ---
 
 ## Soal 8 — K03-PJK-B03-M01-008
 
-**Pertanyaan:** Bola bergerak lurus ke arah dada. Apa yang perlu diperhatikan sebelum menerimanya?
+**Pertanyaan:** Bola menyusur tanah menuju Lala. Cara menerima yang paling sesuai ialah ....
 
 **Pilihan jawaban:**
-- memejamkan mata
-- membelakangi bola
-- berlari tanpa melihat
-- memperhatikan arah datang bola dan menyiapkan tangan
+- rendahkan badan dan siapkan tangan pada jalur bola
+- berdiri kaku sambil melihat ke arah lain
+- melompat membelakangi bola
+- menendang bola kembali sebelum menyentuh tangan
 
-**Kunci Jawaban:** memperhatikan arah datang bola dan menyiapkan tangan
+**Kunci Jawaban:** rendahkan badan dan siapkan tangan pada jalur bola
 
-**Pembahasan:** Menangkap bola mendatar: memperhatikan arah datang bola dan menyiapkan tangan.
+**Pembahasan:** Bola rendah atau menyusur tanah diterima dengan merendahkan badan dan menempatkan tangan pada jalurnya.
 
 ---
 
 ## Soal 9 — K03-PJK-B03-M01-009
 
-**Pertanyaan:** Semua anggota kelompok ingin memegang bola. Bagaimana permainan seharusnya berlangsung?
+**Pertanyaan:** Dua anak baru belajar lempar-tangkap. Pengaturan awal yang membantu mereka berhasil adalah ....
 
 **Pilihan jawaban:**
-- mengejek teman
-- mendorong lawan
-- mematuhi aturan dan bergiliran
-- merebut secara kasar
+- jarak dekat dengan bola ringan atau lunak
+- jarak sejauh mungkin dengan bola berat
+- melempar bersamaan tanpa aba-aba
+- berdiri di dekat kaca agar ada sasaran
 
-**Kunci Jawaban:** mematuhi aturan dan bergiliran
+**Kunci Jawaban:** jarak dekat dengan bola ringan atau lunak
 
-**Pembahasan:** Bermain bola bersama: mematuhi aturan dan bergiliran.
+**Pembahasan:** Jarak dekat dan bola yang mudah dikendalikan mengurangi kesulitan serta risiko pada tahap awal.
 
 ---
 
 ## Soal 10 — K03-PJK-B03-M01-010
 
-**Pertanyaan:** Bola latihan terlalu berat bagi anak kelas tiga. Apa keputusan yang tepat?
+**Pertanyaan:** Guru meminta tiga variasi lemparan bola kasti. Kelompok gerak yang sesuai adalah ....
 
 **Pilihan jawaban:**
-- selalu lebih besar dari tubuh
-- dipilih sesuai ukuran dan kemampuan
-- harus paling berat
-- harus keras seperti batu
+- ayunan atas, ayunan samping, dan ayunan bawah
+- duduk, tidur, dan diam
+- merangkak, berguling, dan meluncur
+- menendang, menginjak, dan menyundul
 
-**Kunci Jawaban:** dipilih sesuai ukuran dan kemampuan
+**Kunci Jawaban:** ayunan atas, ayunan samping, dan ayunan bawah
 
-**Pembahasan:** Bola untuk latihan anak: dipilih sesuai ukuran dan kemampuan.
+**Pembahasan:** Buku acuan memuat variasi lemparan ayunan atas, samping, dan bawah.
 
 ---
 
 ## Soal 11 — K03-PJK-B03-M01-011
 
-**Pertanyaan:** Dalam permainan target, bola bergerak menjauh setelah dilepas dari tangan. Cara gerak yang sesuai adalah ....
+**Pertanyaan:** Pada latihan individu, Bayu melempar bola ke atas lalu menangkapnya kembali. Kegiatan itu melatih ....
 
 **Pilihan jawaban:**
-- menggerakkan bola menjauh menggunakan tangan
-- menahan bola dengan kaki
-- berdiri satu kaki
-- membungkuk
+- ketepatan lambungan dan tangkapan sendiri
+- kecepatan menendang ke gawang
+- kemampuan bergantung pada palang
+- daya tahan berenang jauh
 
-**Kunci Jawaban:** menggerakkan bola menjauh menggunakan tangan
+**Kunci Jawaban:** ketepatan lambungan dan tangkapan sendiri
 
-**Pembahasan:** Melempar bola: menggerakkan bola menjauh menggunakan tangan.
+**Pembahasan:** Lempar-tangkap individu melatih pengendalian arah lambungan dan kesiapan menerima bola.
 
 ---
 
 ## Soal 12 — K03-PJK-B03-M01-012
 
-**Pertanyaan:** Guru mengirim bola lunak kepada siswa. Apa teknik dasar untuk menerimanya?
+**Pertanyaan:** Dalam latihan berbanjar, pemain telah melempar bola kepada barisan depan. Tindakan berikutnya sesuai aturan latihan adalah ....
 
 **Pilihan jawaban:**
-- menendang bola
-- memutar badan
-- berjalan mundur
-- menerima bola dengan tangan secara terkendali
+- berpindah ke tempat yang ditentukan agar giliran berjalan
+- tetap di jalur bola dan menghalangi teman
+- merebut bola dari penerima
+- keluar lapangan tanpa memberi tahu
 
-**Kunci Jawaban:** menerima bola dengan tangan secara terkendali
+**Kunci Jawaban:** berpindah ke tempat yang ditentukan agar giliran berjalan
 
-**Pembahasan:** Menangkap bola: menerima bola dengan tangan secara terkendali.
+**Pembahasan:** Perpindahan setelah melempar membuat latihan berbanjar berjalan tertib dan semua mendapat giliran.
 
 ---
 
 ## Soal 13 — K03-PJK-B03-M01-013
 
-**Pertanyaan:** Dalam permainan sederhana, bola dipindahkan tanpa menggunakan tangan, melainkan dengan kaki. Itu contoh ....
+**Pertanyaan:** Tiga siswa berdiri membentuk segitiga untuk latihan operan. Keuntungan formasi ini adalah ....
 
 **Pilihan jawaban:**
-- menangkap bola
-- mengayun lengan
-- menggerakkan bola menggunakan kaki
-- memukul bola dengan tangan
+- bola dapat diarahkan kepada lebih dari satu posisi teman
+- semua siswa harus berdiri pada satu titik
+- penerima tidak perlu melihat bola
+- bola hanya boleh disimpan oleh satu siswa
 
-**Kunci Jawaban:** menggerakkan bola menggunakan kaki
+**Kunci Jawaban:** bola dapat diarahkan kepada lebih dari satu posisi teman
 
-**Pembahasan:** Menendang bola: menggerakkan bola menggunakan kaki.
+**Pembahasan:** Formasi segitiga memberi beberapa arah operan dan melatih perhatian terhadap posisi teman.
 
 ---
 
 ## Soal 14 — K03-PJK-B03-M01-014
 
-**Pertanyaan:** Saat melewati penanda, bola tetap dekat dengan kaki dan dikendalikan. Uraian yang benar adalah ....
+**Pertanyaan:** Dalam formasi lingkaran, seorang pemain di tengah selesai mengoper. Ia kemudian bertukar tempat dengan pemain di garis lingkaran. Sikap yang tepat adalah ....
 
 **Pilihan jawaban:**
-- berputar
-- mengontrol bola lewat sentuhan kaki berulang
-- melempar bola ke udara
-- duduk diam
+- bergerak sesuai giliran tanpa memotong jalur bola
+- berlari sembarang arah saat bola dilempar
+- mendorong teman agar cepat berpindah
+- diam di tengah sepanjang latihan
 
-**Kunci Jawaban:** mengontrol bola lewat sentuhan kaki berulang
+**Kunci Jawaban:** bergerak sesuai giliran tanpa memotong jalur bola
 
-**Pembahasan:** Menggiring bola dengan kaki: mengontrol bola lewat sentuhan kaki berulang.
+**Pembahasan:** Perpindahan teratur menjaga alur latihan dan mengurangi tabrakan.
 
 ---
 
 ## Soal 15 — K03-PJK-B03-M01-015
 
-**Pertanyaan:** Dalam latihan, bola menyentuh lantai dan kembali ke tangan. Penjelasan gerak yang sesuai ialah ....
+**Pertanyaan:** Sebelum melempar kepada pasangan, tindakan paling aman adalah ....
 
 **Pilihan jawaban:**
-- mendorong bola ke lantai agar memantul kembali
-- menahan bola di tas
-- menendang jauh
-- membungkuk
+- memastikan pasangan melihat dan siap menerima
+- melempar tiba-tiba untuk menguji refleks
+- mengarahkan bola ke wajah pasangan
+- menambah tenaga walau jarak dekat
 
-**Kunci Jawaban:** mendorong bola ke lantai agar memantul kembali
+**Kunci Jawaban:** memastikan pasangan melihat dan siap menerima
 
-**Pembahasan:** Memantulkan bola: mendorong bola ke lantai agar memantul kembali.
+**Pembahasan:** Isyarat kesiapan mencegah bola mengenai teman yang belum memperhatikan.
 
 ---
 
 ## Soal 16 — K03-PJK-B03-M01-016
 
-**Pertanyaan:** Guru meminta anak mengirim bola kepada teman yang siap menerima. Pilih deskripsi tindakannya.
+**Pertanyaan:** Saat latihan, Tono merasa pusing. Ia sebaiknya ....
 
 **Pilihan jawaban:**
-- menyembunyikan bola
-- melempar ke penonton
-- mengabaikan teman
-- memberikan bola kepada teman satu tim
+- berhenti, menepi dengan aman, dan memberi tahu guru
+- memaksa berlatih agar tidak kehilangan giliran
+- berlari lebih cepat supaya segera selesai
+- diam-diam meninggalkan sekolah
 
-**Kunci Jawaban:** memberikan bola kepada teman satu tim
+**Kunci Jawaban:** berhenti, menepi dengan aman, dan memberi tahu guru
 
-**Pembahasan:** Mengoper bola: memberikan bola kepada teman satu tim.
+**Pembahasan:** Pusing merupakan alasan untuk berhenti beraktivitas dan meminta bantuan guru.
 
 ---
 
 ## Soal 17 — K03-PJK-B03-M01-017
 
-**Pertanyaan:** Papan sasaran berada dekat kerumunan. Apa penyesuaian arah yang paling aman?
+**Pertanyaan:** Anak takut menangkap bola kecil yang keras. Penyesuaian yang paling tepat adalah ....
 
 **Pilihan jawaban:**
-- ke kaca jendela
-- ke jalan raya
-- diarahkan ke sasaran yang aman
-- ke wajah teman
+- gunakan bola lebih besar dan lunak pada jarak dekat
+- tetap gunakan bola keras dari jarak jauh
+- suruh anak menutup mata saat menangkap
+- lempar lebih cepat agar segera terbiasa
 
-**Kunci Jawaban:** diarahkan ke sasaran yang aman
+**Kunci Jawaban:** gunakan bola lebih besar dan lunak pada jarak dekat
 
-**Pembahasan:** Arah lemparan: diarahkan ke sasaran yang aman.
+**Pembahasan:** Ukuran lebih besar, bahan lunak, dan jarak dekat dapat membantu belajar secara bertahap.
 
 ---
 
 ## Soal 18 — K03-PJK-B03-M01-018
 
-**Pertanyaan:** Saat bola datang sejajar badan, tangan disiapkan mengikuti arah bola. Cara yang sesuai adalah ....
+**Pertanyaan:** Kelompok mencatat 10 lemparan dan 8 tangkapan berhasil. Catatan itu paling tepat digunakan untuk ....
 
 **Pilihan jawaban:**
-- berlari tanpa melihat
-- memperhatikan arah datang bola dan menyiapkan tangan
-- memejamkan mata
-- membelakangi bola
+- menilai hasil latihan dan menentukan bagian yang perlu diperbaiki
+- menentukan siapa yang boleh mengejek temannya
+- membuktikan semua lemparan sudah sempurna
+- menghapus kebutuhan untuk berlatih lagi
 
-**Kunci Jawaban:** memperhatikan arah datang bola dan menyiapkan tangan
+**Kunci Jawaban:** menilai hasil latihan dan menentukan bagian yang perlu diperbaiki
 
-**Pembahasan:** Menangkap bola mendatar: memperhatikan arah datang bola dan menyiapkan tangan.
+**Pembahasan:** Catatan keberhasilan membantu refleksi; dua tangkapan yang belum berhasil dapat dipelajari penyebabnya.
 
 ---
 
 ## Soal 19 — K03-PJK-B03-M01-019
 
-**Pertanyaan:** Seorang teman belum mendapat giliran bermain. Tindakan yang baik adalah ....
+**Pertanyaan:** Satu bola digunakan oleh empat siswa. Agar latihan adil, mereka perlu ....
 
 **Pilihan jawaban:**
-- mematuhi aturan dan bergiliran
-- merebut secara kasar
-- mengejek teman
-- mendorong lawan
+- bergiliran sesuai urutan yang disepakati
+- membiarkan siswa terkuat bermain terus
+- berebut setiap kali bola jatuh
+- menyembunyikan bola dari kelompok lain
 
-**Kunci Jawaban:** mematuhi aturan dan bergiliran
+**Kunci Jawaban:** bergiliran sesuai urutan yang disepakati
 
-**Pembahasan:** Bermain bola bersama: mematuhi aturan dan bergiliran.
+**Pembahasan:** Bergiliran menunjukkan gotong royong dan memberi kesempatan belajar kepada semua anggota.
 
 ---
 
 ## Soal 20 — K03-PJK-B03-M01-020
 
-**Pertanyaan:** Guru menyediakan bola besar dan bola kecil. Apa dasar memilih alat latihan?
+**Pertanyaan:** Dalam permainan lempar-tangkap yang dimodifikasi, bola tidak boleh dibawa sambil berjalan. Ketika menerima bola, pemain harus ....
 
 **Pilihan jawaban:**
-- harus paling berat
-- harus keras seperti batu
-- selalu lebih besar dari tubuh
-- dipilih sesuai ukuran dan kemampuan
+- berhenti lalu mengoper kepada teman
+- berlari memeluk bola sampai gawang
+- menendang bola keluar lapangan
+- duduk dan menyimpan bola
 
-**Kunci Jawaban:** dipilih sesuai ukuran dan kemampuan
+**Kunci Jawaban:** berhenti lalu mengoper kepada teman
 
-**Pembahasan:** Bola untuk latihan anak: dipilih sesuai ukuran dan kemampuan.
+**Pembahasan:** Jika aturan melarang membawa bola sambil berjalan, penerima berhenti dan melanjutkan permainan dengan operan.
 
 ---
 
 ## Soal 21 — K03-PJK-B03-M01-021
 
-**Pertanyaan:** Saat melempar, sumber dorongan utama bola berasal dari bagian tubuh mana? Pilih penjelasan geraknya.
+**Pertanyaan:** Untuk mengoper bola mendatar dengan kaki secara lebih terarah, bagian kaki yang umum digunakan adalah ....
 
 **Pilihan jawaban:**
-- berdiri satu kaki
-- membungkuk
-- menggerakkan bola menjauh menggunakan tangan
-- menahan bola dengan kaki
+- kaki bagian dalam
+- ujung jari tangan
+- siku bagian luar
+- tumit sambil membelakangi sasaran
 
-**Kunci Jawaban:** menggerakkan bola menjauh menggunakan tangan
+**Kunci Jawaban:** kaki bagian dalam
 
-**Pembahasan:** Melempar bola: menggerakkan bola menjauh menggunakan tangan.
+**Pembahasan:** Kaki bagian dalam memberikan bidang sentuh yang lebar sehingga cocok untuk operan terarah.
 
 ---
 
 ## Soal 22 — K03-PJK-B03-M01-022
 
-**Pertanyaan:** Ketika bola mendekat, siswa mengamati arah lalu menerima bola. Gerak yang tepat disebut ....
+**Pertanyaan:** Bola berada sedikit di samping kaki. Variasi tendangan yang sesuai untuk dipelajari adalah menggunakan ....
 
 **Pilihan jawaban:**
-- berjalan mundur
-- menerima bola dengan tangan secara terkendali
-- menendang bola
-- memutar badan
+- kaki bagian luar
+- telapak tangan
+- lutut sambil duduk
+- bahu tanpa melihat
 
-**Kunci Jawaban:** menerima bola dengan tangan secara terkendali
+**Kunci Jawaban:** kaki bagian luar
 
-**Pembahasan:** Menangkap bola: menerima bola dengan tangan secara terkendali.
+**Pembahasan:** Kaki bagian luar termasuk variasi bagian kaki untuk menendang dalam unit ini.
 
 ---
 
 ## Soal 23 — K03-PJK-B03-M01-023
 
-**Pertanyaan:** Jika bola berada di tanah dan harus digerakkan dengan kaki, pilih keterampilan yang sesuai.
+**Pertanyaan:** Saat berlatih menendang dengan punggung kaki, kaki tumpu sebaiknya ....
 
 **Pilihan jawaban:**
-- menggerakkan bola menggunakan kaki
-- memukul bola dengan tangan
-- menangkap bola
-- mengayun lengan
+- diletakkan seimbang di samping bola
+- diangkat tinggi saat kaki lain menyentuh bola
+- diletakkan di atas bola yang bergerak cepat
+- disilangkan jauh di belakang tanpa keseimbangan
 
-**Kunci Jawaban:** menggerakkan bola menggunakan kaki
+**Kunci Jawaban:** diletakkan seimbang di samping bola
 
-**Pembahasan:** Menendang bola: menggerakkan bola menggunakan kaki.
+**Pembahasan:** Kaki tumpu di samping bola membantu keseimbangan dan arah tendangan.
 
 ---
 
 ## Soal 24 — K03-PJK-B03-M01-024
 
-**Pertanyaan:** Apa cara mempertahankan kendali bola selama berpindah tempat menggunakan kaki?
+**Pertanyaan:** Bola menggelinding pelan menuju kaki Rani. Untuk menahannya, Rani dapat ....
 
 **Pilihan jawaban:**
-- melempar bola ke udara
-- duduk diam
-- berputar
-- mengontrol bola lewat sentuhan kaki berulang
+- menempatkan telapak kaki dengan tekanan ringan di atas bola
+- menginjak keras bola yang masih melaju cepat
+- menendang bola ke arah teman yang tidak siap
+- melompat menjauhi bola tanpa melihat
 
-**Kunci Jawaban:** mengontrol bola lewat sentuhan kaki berulang
+**Kunci Jawaban:** menempatkan telapak kaki dengan tekanan ringan di atas bola
 
-**Pembahasan:** Menggiring bola dengan kaki: mengontrol bola lewat sentuhan kaki berulang.
+**Pembahasan:** Telapak kaki dapat digunakan menahan bola pelan dengan sentuhan terkendali, bukan injakan keras.
 
 ---
 
 ## Soal 25 — K03-PJK-B03-M01-025
 
-**Pertanyaan:** Agar bola dapat memantul kembali dari permukaan yang aman, tindakan yang tepat adalah ....
+**Pertanyaan:** Setelah bola ditahan, tujuan utama gerakan itu adalah ....
 
 **Pilihan jawaban:**
-- menendang jauh
-- membungkuk
-- mendorong bola ke lantai agar memantul kembali
-- menahan bola di tas
+- menguasai bola agar gerak berikutnya dapat dilakukan
+- membuat bola memantul setinggi mungkin
+- mengirim bola keluar area latihan
+- menghalangi semua teman mendekat
 
-**Kunci Jawaban:** mendorong bola ke lantai agar memantul kembali
+**Kunci Jawaban:** menguasai bola agar gerak berikutnya dapat dilakukan
 
-**Pembahasan:** Memantulkan bola: mendorong bola ke lantai agar memantul kembali.
+**Pembahasan:** Menahan atau menghentikan bola membuat pemain menguasai bola sebelum mengoper atau menendang lagi.
 
 ---
 
 ## Soal 26 — K03-PJK-B03-M01-026
 
-**Pertanyaan:** Apa tujuan gerakan memberi bola dari satu pemain kepada rekan satu kelompok?
+**Pertanyaan:** Pada latihan berpasangan, urutan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- mengabaikan teman
-- memberikan bola kepada teman satu tim
-- menyembunyikan bola
-- melempar ke penonton
+- A mengoper, B menahan, lalu B mengoper kembali
+- A dan B menendang bersamaan ke arah berlawanan
+- B membelakangi A saat bola dikirim
+- A menendang terus tanpa memberi giliran
 
-**Kunci Jawaban:** memberikan bola kepada teman satu tim
+**Kunci Jawaban:** A mengoper, B menahan, lalu B mengoper kembali
 
-**Pembahasan:** Mengoper bola: memberikan bola kepada teman satu tim.
+**Pembahasan:** Urutan oper–tahan–oper kembali melatih dua keterampilan secara bergantian.
 
 ---
 
 ## Soal 27 — K03-PJK-B03-M01-027
 
-**Pertanyaan:** Jika teman sedang melintas di depan, apa prinsip memilih arah lemparan?
+**Pertanyaan:** Dalam formasi bertiga, satu siswa berada di tengah dan dua siswa di sisi. Agar semua belajar, mereka sebaiknya ....
 
 **Pilihan jawaban:**
-- diarahkan ke sasaran yang aman
-- ke wajah teman
-- ke kaca jendela
-- ke jalan raya
+- bertukar peran setelah beberapa operan
+- menempatkan siswa yang sama di tengah selamanya
+- mengoper melewati siswa tengah tanpa aturan
+- berlari keluar formasi setiap kali menerima bola
 
-**Kunci Jawaban:** diarahkan ke sasaran yang aman
+**Kunci Jawaban:** bertukar peran setelah beberapa operan
 
-**Pembahasan:** Arah lemparan: diarahkan ke sasaran yang aman.
+**Pembahasan:** Pergantian peran memberi kesempatan setara untuk mengoper, menahan, dan bergerak.
 
 ---
 
 ## Soal 28 — K03-PJK-B03-M01-028
 
-**Pertanyaan:** Agar tangkapan bola mendatar tidak mengenai wajah, siswa sebaiknya ....
+**Pertanyaan:** Empat siswa berlatih mengoper dan menahan bola sambil bergerak ke kanan dan kiri. Hal yang harus dijaga adalah ....
 
 **Pilihan jawaban:**
-- memejamkan mata
-- membelakangi bola
-- berlari tanpa melihat
-- memperhatikan arah datang bola dan menyiapkan tangan
+- jarak antarpemain dan arah bola tetap terkendali
+- semua bergerak ke titik yang sama secepatnya
+- bola ditendang sekeras mungkin
+- pandangan selalu menjauhi bola
 
-**Kunci Jawaban:** memperhatikan arah datang bola dan menyiapkan tangan
+**Kunci Jawaban:** jarak antarpemain dan arah bola tetap terkendali
 
-**Pembahasan:** Menangkap bola mendatar: memperhatikan arah datang bola dan menyiapkan tangan.
+**Pembahasan:** Jarak dan arah yang terkendali membantu latihan formasi berempat berlangsung aman.
 
 ---
 
 ## Soal 29 — K03-PJK-B03-M01-029
 
-**Pertanyaan:** Saat aturan permainan bola disepakati bersama, apa yang perlu dilakukan pemain?
+**Pertanyaan:** Latihan mengumpan dan menendang ke gawang dilakukan oleh pengumpan, penendang, dan penjaga gawang. Setelah satu putaran, mereka perlu ....
 
 **Pilihan jawaban:**
-- mengejek teman
-- mendorong lawan
-- mematuhi aturan dan bergiliran
-- merebut secara kasar
+- berganti peran secara teratur
+- mempertahankan satu peran untuk satu anak
+- menambah bola tanpa aba-aba
+- berdiri bersama di depan gawang
 
-**Kunci Jawaban:** mematuhi aturan dan bergiliran
+**Kunci Jawaban:** berganti peran secara teratur
 
-**Pembahasan:** Bermain bola bersama: mematuhi aturan dan bergiliran.
+**Pembahasan:** Pergantian peran membuat setiap anak mencoba tugas yang berbeda dan menjaga latihan adil.
 
 ---
 
 ## Soal 30 — K03-PJK-B03-M01-030
 
-**Pertanyaan:** Mengapa penggunaan bola untuk latihan perlu disesuaikan dengan peserta?
+**Pertanyaan:** Guru meminta siswa berlatih menggunakan kaki kanan dan kiri. Tujuannya adalah ....
 
 **Pilihan jawaban:**
-- selalu lebih besar dari tubuh
-- dipilih sesuai ukuran dan kemampuan
-- harus paling berat
-- harus keras seperti batu
+- mengembangkan kendali gerak pada kedua sisi tubuh
+- menentukan kaki mana yang boleh dipakai selamanya
+- membuat tendangan selalu lebih keras
+- mengurangi kebutuhan melihat sasaran
 
-**Kunci Jawaban:** dipilih sesuai ukuran dan kemampuan
+**Kunci Jawaban:** mengembangkan kendali gerak pada kedua sisi tubuh
 
-**Pembahasan:** Bola untuk latihan anak: dipilih sesuai ukuran dan kemampuan.
+**Pembahasan:** Latihan kedua kaki memperkaya pengalaman gerak dan kemampuan menyesuaikan posisi bola.
 
 ---
 
 ## Soal 31 — K03-PJK-B03-M01-031
 
-**Pertanyaan:** Pada latihan berpasangan, bola harus dikirim dari tangan siswa A menuju siswa B. Gerak pengiriman ini disebut apa?
+**Pertanyaan:** Di belakang gawang terdapat jendela kelas. Penyesuaian paling aman adalah ....
 
 **Pilihan jawaban:**
-- menggerakkan bola menjauh menggunakan tangan
-- menahan bola dengan kaki
-- berdiri satu kaki
-- membungkuk
+- memindahkan arah gawang atau memasang pembatas yang aman
+- tetap menendang keras ke arah jendela
+- menyuruh teman berdiri di depan kaca
+- menggunakan bola lebih berat agar tidak melambung
 
-**Kunci Jawaban:** menggerakkan bola menjauh menggunakan tangan
+**Kunci Jawaban:** memindahkan arah gawang atau memasang pembatas yang aman
 
-**Pembahasan:** Melempar bola: menggerakkan bola menjauh menggunakan tangan.
+**Pembahasan:** Area sasaran harus bebas dari kaca, jalan, dan orang yang tidak ikut latihan.
 
 ---
 
 ## Soal 32 — K03-PJK-B03-M01-032
 
-**Pertanyaan:** Saat bola datang ke arah badan, guru mencontohkan cara menerima dengan tangan yang siap. Itu merupakan keterampilan ....
+**Pertanyaan:** Saat teman mengambil bola di depan gawang, penendang sebaiknya ....
 
 **Pilihan jawaban:**
-- menendang bola
-- memutar badan
-- berjalan mundur
-- menerima bola dengan tangan secara terkendali
+- menunggu sampai jalur benar-benar kosong
+- segera menendang sebelum teman kembali
+- mengarahkan bola melewati kepala teman
+- berlatih dengan mata tertutup
 
-**Kunci Jawaban:** menerima bola dengan tangan secara terkendali
+**Kunci Jawaban:** menunggu sampai jalur benar-benar kosong
 
-**Pembahasan:** Menangkap bola: menerima bola dengan tangan secara terkendali.
+**Pembahasan:** Tidak boleh menendang ketika ada orang di jalur bola.
 
 ---
 
 ## Soal 33 — K03-PJK-B03-M01-033
 
-**Pertanyaan:** Siswa diminta menggerakkan bola tanpa menyentuh dengan tangan. Bagaimana bola dapat dikirim dengan kaki?
+**Pertanyaan:** Operan Dodi selalu melewati temannya. Perbaikan pertama yang paling masuk akal adalah ....
 
 **Pilihan jawaban:**
-- menangkap bola
-- mengayun lengan
-- menggerakkan bola menggunakan kaki
-- memukul bola dengan tangan
+- mengurangi tenaga dan mengarahkan kaki ke sasaran
+- menambah tenaga pada setiap tendangan
+- menutup mata saat menyentuh bola
+- mengganti sasaran dengan jendela
 
-**Kunci Jawaban:** menggerakkan bola menggunakan kaki
+**Kunci Jawaban:** mengurangi tenaga dan mengarahkan kaki ke sasaran
 
-**Pembahasan:** Menendang bola: menggerakkan bola menggunakan kaki.
+**Pembahasan:** Bola yang terus melewati penerima menunjukkan tenaga atau arah perlu dikendalikan.
 
 ---
 
 ## Soal 34 — K03-PJK-B03-M01-034
 
-**Pertanyaan:** Dalam rute berpenanda, bola dijaga tetap dekat melalui sentuhan kaki yang berulang. Ini contoh ....
+**Pertanyaan:** Setelah beberapa tangkapan gagal, pasangan berdiskusi. Umpan balik yang baik adalah ....
 
 **Pilihan jawaban:**
-- berputar
-- mengontrol bola lewat sentuhan kaki berulang
-- melempar bola ke udara
-- duduk diam
+- bola terlalu tinggi; mari arahkan setinggi dada dan coba pelan
+- kamu selalu buruk dan tidak perlu mencoba
+- aku akan melempar tanpa aba-aba lagi
+- kita hentikan giliran teman yang lain
 
-**Kunci Jawaban:** mengontrol bola lewat sentuhan kaki berulang
+**Kunci Jawaban:** bola terlalu tinggi; mari arahkan setinggi dada dan coba pelan
 
-**Pembahasan:** Menggiring bola dengan kaki: mengontrol bola lewat sentuhan kaki berulang.
+**Pembahasan:** Umpan balik yang spesifik, sopan, dan menawarkan perbaikan membantu proses belajar.
 
 ---
 
 ## Soal 35 — K03-PJK-B03-M01-035
 
-**Pertanyaan:** Siswa melatih pantulan bola agar kembali dari lantai ke tangan. Tekniknya adalah ....
+**Pertanyaan:** Manakah pasangan keterampilan yang sama-sama termasuk gerak manipulatif pada Unit 3?
 
 **Pilihan jawaban:**
-- mendorong bola ke lantai agar memantul kembali
-- menahan bola di tas
-- menendang jauh
-- membungkuk
+- melempar bola dan menahan bola
+- berjalan dan berlari tanpa bola
+- membungkuk dan meliuk tanpa alat
+- bergantung dan mendarat
 
-**Kunci Jawaban:** mendorong bola ke lantai agar memantul kembali
+**Kunci Jawaban:** melempar bola dan menahan bola
 
-**Pembahasan:** Memantulkan bola: mendorong bola ke lantai agar memantul kembali.
+**Pembahasan:** Melempar dan menahan sama-sama mengendalikan bola; keduanya menjadi fokus Unit 3.
 
 ---
+

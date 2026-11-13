@@ -19,11 +19,11 @@
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
 | Bahasa Inggris | Unit 1–10: 500 soal dan dua puluh modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7–10 masing-masing 10 SVG fungsional | 500/500 diperiksa; 50 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | Audit isi sumber Inggris selesai; uji suara dan WebView di tahap aplikasi |
-| PJOK | Unit 1–2: Unit 1 merevisi 10 soal gambar; Unit 2 menulis ulang 45 soal; 20 SVG direvisi; 4 modul dibuat | 90/360 diperiksa terhadap buku dan keselamatan gerak | 270 soal/6 unit; uji praktik dan HP/WebView di tahap aplikasi |
+| PJOK | Unit 1–3: Unit 1 merevisi 10 soal gambar; Unit 2–3 menulis ulang 90 soal; 30 SVG direvisi; 6 modul dibuat | 135/360 diperiksa terhadap buku dan keselamatan gerak | 225 soal/5 unit; uji praktik dan HP/WebView di tahap aplikasi |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **1.450/1.945**. Jumlah diubah: **1.394**.
-Sisa audit isi: **495 soal pada 11 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **1.495/1.945**. Jumlah diubah: **1.439**.
+Sisa audit isi: **450 soal pada 10 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -789,3 +789,8 @@ Pemeriksaan paket: 45 ID unik, empat opsi unik, satu kunci cocok, pembahasan ada
 Kumulatif audit isi **1.450/1.945**; sisa **495 soal pada 11 unit**. Titik lanjut:
 PJOK Unit 3. JSON teks/gambar Unit 2 lama berstatus **STALE_SOURCE_CHANGED** dan
 materinya perlu dikonversi pada tahap JSON terpisah.
+
+
+### Kelanjutan: PJOK Unit 3
+
+Empat puluh lima soal manipulatif ditulis ulang untuk menghapus pengulangan definisi dan diselaraskan dengan Unit Pembelajaran 3 buku guru resmi. Cakupan meliputi variasi melempar dan menangkap (individu, berpasangan, serta formasi), menendang dengan bagian kaki, menahan bola, pengaturan tenaga dan arah, keselamatan jalur bola, penyesuaian alat, gotong royong, dan refleksi hasil. Sepuluh SVG menjadi stimulus fungsional dan dua modul baru dibuat. Kumulatif audit isi 1.495/1.945; sisa 450 soal/10 unit. Titik lanjut PJOK Unit 4.

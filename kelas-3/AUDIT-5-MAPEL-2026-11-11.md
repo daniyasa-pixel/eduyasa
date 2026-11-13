@@ -363,3 +363,10 @@ definisi. Cakupan resmi memutar, mengayun, membungkuk, menekuk, meliuk, dan
 permainan sederhana disertai batas gerak aman, kondisi tubuh, ruang pribadi,
 peralatan, serta penyesuaian kemampuan. Sepuluh SVG dan dua modul baru dibuat.
 Kumulatif audit isi 1.450/1.945; sisa 495 soal/11 unit. Titik lanjut Unit 3.
+
+
+### Kelanjutan: PJOK Unit 3
+
+Seluruh 45 soal ditulis ulang setelah dibandingkan dengan Unit Pembelajaran 3 buku guru PJOK kelas III. Bank kini mencakup lambung individu, lemparan bawah/samping/atas, tangkapan lurus dan menyusur tanah, operan dada/pantul/atas kepala, formasi segitiga/berbanjar/lingkaran, menendang dengan kaki bagian dalam/luar/punggung kaki, menahan dengan telapak kaki, latihan berpasangan/bertiga/berempat, dan latihan umpan–tendang ke gawang. Keselamatan jalur bola, kesiapan penerima, penyesuaian bola/jarak, kondisi tubuh, pergantian peran, dan umpan balik juga diperiksa.
+
+Sepuluh soal bergambar memakai stimulus baru berupa lintasan operan, urutan tangkapan, catatan hasil, pilihan alat/jarak, formasi, bagian kaki, urutan menahan, jalur gawang, rotasi peran, dan tabel percobaan. Dua modul dibuat dengan cakupan setara. Kumulatif audit isi **1.495/1.945**; sisa **450 soal pada 10 unit**. JSON Unit 3 lama harus dikonversi ulang. Uji praktik siswa dan HP/WebView menunggu tahap aplikasi. Titik lanjut: PJOK Unit 4.
