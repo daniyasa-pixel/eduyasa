@@ -19,11 +19,11 @@
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
 | Bahasa Inggris | Unit 1–10: 500 soal dan dua puluh modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7–10 masing-masing 10 SVG fungsional | 500/500 diperiksa; 50 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | Audit isi sumber Inggris selesai; uji suara dan WebView di tahap aplikasi |
-| PJOK | Unit 1–7: Unit 1 merevisi 10 soal gambar; Unit 2–7 menulis ulang 270 soal; 70 SVG direvisi; 14 modul dibuat | 315/360 diperiksa terhadap buku dan keselamatan gerak | 45 soal/1 unit; uji praktik dan HP/WebView di tahap aplikasi |
+| PJOK | Unit 1–8: Unit 1 merevisi 10 soal gambar; Unit 2–8 menulis ulang 315 soal; 80 SVG direvisi; 16 modul dibuat | 360/360 diperiksa terhadap buku, keselamatan, dan pola hidup sehat | Tidak ada sisa audit sumber; uji praktik dan HP/WebView di tahap aplikasi |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **1.675/1.945**. Jumlah diubah: **1.619**.
-Sisa audit isi: **270 soal pada 6 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **1.720/1.945**. Jumlah diubah: **1.664**.
+Sisa audit isi: **225 soal pada 5 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -814,3 +814,8 @@ Empat puluh lima soal aktivitas air ditulis ulang dan diselaraskan dengan Unit P
 ### Kelanjutan: PJOK Unit 7
 
 Empat puluh lima soal kebugaran ditulis ulang sesuai Unit Pembelajaran 7 buku guru resmi. Cakupan dipusatkan pada kekuatan otot dan daya tahan otot: dorong dinding/bahu terkendali, latihan perut, angkat kaki, push-up modifikasi, berjalan dengan tangan, lompat tali, dan tarik tali. Keselamatan meniadakan instruksi “sekuatnya”, beban berat, tarikan kepala/leher, tali yang dililitkan, pelepasan tali mendadak, serta latihan sampai nyeri. Bank juga mencakup pemanasan, progresi, jeda, minum, pemulihan, pencatatan ulangan benar, dan penghormatan perbedaan kemampuan. Sepuluh SVG fungsional dan dua modul baru dibuat. Kumulatif audit isi **1.675/1.945**; sisa **270 soal pada 6 unit**. Titik lanjut PJOK Unit 8.
+
+
+### Kelanjutan: PJOK Unit 8 dan penutupan putaran PJOK
+
+Empat puluh lima soal ditulis ulang sesuai Unit Pembelajaran 8 buku guru resmi: aktivitas fisik, istirahat, pengisian waktu luang, makanan bergizi seimbang, empat pilar gizi seimbang, fungsi zat gizi, kebersihan, dan keamanan pangan. Klaim mutlak sumber lama diganti: gizi tidak ditentukan harga; tidak ada satu makanan yang menggantikan semua kelompok; lemak tetap dibutuhkan dalam jumlah sesuai; air tidak menggantikan makanan; menu menyesuaikan budaya, ketersediaan, biaya, agama, kesehatan, dan alergi. Bank tidak menilai bentuk tubuh atau mempermalukan akses makanan anak. Sepuluh SVG fungsional dan dua modul baru dibuat. PJOK selesai **360/360** dengan 16 modul dan 80 SVG dalam cakupan audit. Kumulatif audit isi **1.720/1.945**; sisa **225 soal pada 5 bab** Seni Rupa. Titik lanjut Seni Rupa Bab 1.

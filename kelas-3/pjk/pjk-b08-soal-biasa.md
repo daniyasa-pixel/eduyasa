@@ -1,563 +1,529 @@
 # Unit 8 — Aktivitas Fisik dan Memilih Makanan Bergizi
 
-35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
+35 soal teks ditulis ulang sesuai Unit Pembelajaran 8 buku guru PJOK kelas III. Cakupan meliputi aktivitas fisik, istirahat, pengisian waktu luang, keamanan pangan, dan makanan bergizi seimbang tanpa menilai harga, budaya, atau bentuk tubuh.
 
 ## Soal 1 — K03-PJK-B08-M01-001
 
-**Pertanyaan:** Dina berjalan kaki menuju sekolah dengan pendamping. Kegiatan itu termasuk apa?
+**Pertanyaan:** Aktivitas fisik adalah ....
 
 **Pilihan jawaban:**
-- hanya duduk
-- gerakan tubuh yang menggunakan energi
-- hanya tidur
-- hanya menonton
+- gerakan tubuh yang memerlukan energi
+- setiap kegiatan yang dilakukan sambil tidur
+- hanya olahraga pertandingan
+- kegiatan membaca tanpa mengubah posisi
 
-**Kunci Jawaban:** gerakan tubuh yang menggunakan energi
+**Kunci Jawaban:** gerakan tubuh yang memerlukan energi
 
-**Pembahasan:** Aktivitas fisik: gerakan tubuh yang menggunakan energi.
+**Pembahasan:** Berjalan, bermain, membantu pekerjaan rumah yang aman, dan olahraga termasuk aktivitas fisik.
 
 ---
-
 ## Soal 2 — K03-PJK-B08-M01-002
 
-**Pertanyaan:** Keluarga menyiapkan aneka jenis makanan sesuai kebutuhan anak. Pola tersebut menggambarkan ....
+**Pertanyaan:** Contoh menambah aktivitas fisik dalam kegiatan harian adalah ....
 
 **Pilihan jawaban:**
-- beragam sesuai kebutuhan tubuh
-- hanya makanan manis
-- hanya gorengan
-- hanya satu jenis makanan
+- berjalan kaki dengan pendamping pada rute aman
+- duduk menonton sepanjang sore
+- menggunakan gawai tanpa jeda
+- tidur setiap waktu luang
 
-**Kunci Jawaban:** beragam sesuai kebutuhan tubuh
+**Kunci Jawaban:** berjalan kaki dengan pendamping pada rute aman
 
-**Pembahasan:** Makanan bergizi seimbang: beragam sesuai kebutuhan tubuh.
+**Pembahasan:** Gerak harian dapat menjadi aktivitas fisik bila dilakukan aman dan sesuai kemampuan.
 
 ---
-
 ## Soal 3 — K03-PJK-B08-M01-003
 
-**Pertanyaan:** Saat makan, ada tempe dan ikan yang disajikan. Kelompok pangan itu merupakan sumber ....
+**Pertanyaan:** Ketika cuaca sangat panas, rencana bermain di luar sebaiknya ....
 
 **Pilihan jawaban:**
-- permen
-- minuman bersoda
-- kerupuk saja
-- telur, ikan, atau tempe
+- dipindah ke waktu atau tempat lebih sejuk serta disertai minum
+- tetap dilakukan di bawah terik tanpa jeda
+- dilakukan tanpa air agar tidak kembung
+- ditambah pakaian tebal agar banyak berkeringat
 
-**Kunci Jawaban:** telur, ikan, atau tempe
+**Kunci Jawaban:** dipindah ke waktu atau tempat lebih sejuk serta disertai minum
 
-**Pembahasan:** Sumber protein: telur, ikan, atau tempe.
+**Pembahasan:** Kondisi cuaca, cairan, tempat, dan kemampuan perlu dipertimbangkan.
 
 ---
-
 ## Soal 4 — K03-PJK-B08-M01-004
 
-**Pertanyaan:** Ibu menambahkan sayuran dan buah pada menu keluarga. Apa sumbangan bahan itu?
+**Pertanyaan:** Istirahat setelah aktivitas bermanfaat untuk ....
 
 **Pilihan jawaban:**
-- selalu harus digoreng
-- tidak berguna
-- menyumbang vitamin, mineral, dan serat
-- menggantikan semua makanan
+- membantu tubuh dan pikiran pulih
+- menggantikan seluruh kebutuhan makan
+- membuat anak tidak perlu bergerak lagi
+- menghapus kebutuhan tidur malam
 
-**Kunci Jawaban:** menyumbang vitamin, mineral, dan serat
+**Kunci Jawaban:** membantu tubuh dan pikiran pulih
 
-**Pembahasan:** Sayur dan buah: menyumbang vitamin, mineral, dan serat.
+**Pembahasan:** Istirahat memberi kesempatan pemulihan, tetapi tetap perlu diseimbangkan dengan aktivitas dan kebutuhan lain.
 
 ---
-
 ## Soal 5 — K03-PJK-B08-M01-005
 
-**Pertanyaan:** Nasi, kentang, dan ubi menyediakan zat gizi untuk aktivitas. Fungsinya yang utama adalah ....
+**Pertanyaan:** Istirahat yang sehat berarti ....
 
 **Pilihan jawaban:**
-- menggantikan air minum
-- menjadi salah satu sumber energi tubuh
-- selalu berbahaya
-- tidak boleh dimakan
+- jeda yang cukup di antara kegiatan, bukan tidak bergerak sepanjang hari
+- menghindari seluruh aktivitas fisik
+- tidur setiap kali ada tugas
+- bermain gawai tanpa batas
 
-**Kunci Jawaban:** menjadi salah satu sumber energi tubuh
+**Kunci Jawaban:** jeda yang cukup di antara kegiatan, bukan tidak bergerak sepanjang hari
 
-**Pembahasan:** Karbohidrat: menjadi salah satu sumber energi tubuh.
+**Pembahasan:** Pola sehat menyeimbangkan aktivitas, jeda, dan tidur.
 
 ---
-
 ## Soal 6 — K03-PJK-B08-M01-006
 
-**Pertanyaan:** Saat haus setelah bergerak, siswa minum air putih. Kebutuhan apa yang dibantu?
+**Pertanyaan:** Kebiasaan yang mendukung tidur malam ialah ....
 
 **Pilihan jawaban:**
-- penting untuk membantu kebutuhan cairan
-- harus dihindari setelah bermain
-- tidak diperlukan
-- selalu diganti sirup
+- memiliki waktu tidur teratur dan menenangkan kegiatan menjelang tidur
+- minum minuman berkafein tepat sebelum tidur
+- menyalakan layar terang sepanjang malam
+- melakukan permainan sangat berat saat sudah mengantuk
 
-**Kunci Jawaban:** penting untuk membantu kebutuhan cairan
+**Kunci Jawaban:** memiliki waktu tidur teratur dan menenangkan kegiatan menjelang tidur
 
-**Pembahasan:** Air putih: penting untuk membantu kebutuhan cairan.
+**Pembahasan:** Rutinitas yang teratur membantu tubuh bersiap untuk tidur.
 
 ---
-
 ## Soal 7 — K03-PJK-B08-M01-007
 
-**Pertanyaan:** Anak akan belajar dan bermain setelah pagi hari. Apa manfaat menu sarapan bergizi?
+**Pertanyaan:** Pengisian waktu luang yang bermanfaat dapat berupa ....
 
 **Pilihan jawaban:**
-- membuat tidak perlu makan lagi
-- hanya berupa permen
-- harus dilewatkan
-- membantu menyediakan energi untuk belajar dan bergerak
+- bermain aktif, membaca, berkarya, atau membantu sesuai usia
+- mengganggu tetangga
+- bermain di jalan ramai
+- mengabaikan waktu makan dan tidur
 
-**Kunci Jawaban:** membantu menyediakan energi untuk belajar dan bergerak
+**Kunci Jawaban:** bermain aktif, membaca, berkarya, atau membantu sesuai usia
 
-**Pembahasan:** Sarapan bergizi: membantu menyediakan energi untuk belajar dan bergerak.
+**Pembahasan:** Waktu luang dapat dipakai untuk kegiatan aman yang menyenangkan, kreatif, sosial, atau aktif.
 
 ---
-
 ## Soal 8 — K03-PJK-B08-M01-008
 
-**Pertanyaan:** Sebelum memegang makanan, siswa mencuci tangan pakai sabun. Tujuan yang tepat ialah ....
+**Pertanyaan:** Rencana sepulang sekolah yang seimbang adalah ....
 
 **Pilihan jawaban:**
-- mengganti olahraga
-- tidak penting
-- membantu mengurangi perpindahan kuman
-- membuat makanan lebih mahal
+- makan, beristirahat, mengerjakan tugas, bermain aktif, lalu bersiap tidur
+- bermain gawai sampai larut tanpa makan
+- berolahraga berat terus tanpa jeda
+- tidur sore sangat lama lalu terjaga sepanjang malam
 
-**Kunci Jawaban:** membantu mengurangi perpindahan kuman
+**Kunci Jawaban:** makan, beristirahat, mengerjakan tugas, bermain aktif, lalu bersiap tidur
 
-**Pembahasan:** Cuci tangan sebelum makan: membantu mengurangi perpindahan kuman.
+**Pembahasan:** Keseimbangan kegiatan membantu memenuhi kebutuhan tubuh, belajar, gerak, dan pemulihan.
 
 ---
-
 ## Soal 9 — K03-PJK-B08-M01-009
 
-**Pertanyaan:** Setelah hari aktif, anak memerlukan tidur yang memadai. Manfaat utamanya ialah ....
+**Pertanyaan:** Saat menggunakan layar cukup lama, kebiasaan yang baik adalah ....
 
 **Pilihan jawaban:**
-- selalu membuang waktu
-- mendukung pertumbuhan dan pemulihan
-- menggantikan makan
-- berarti tidak perlu bergerak
+- mengambil jeda, mengubah posisi, dan memberi kesempatan tubuh bergerak
+- menatap tanpa berkedip selama mungkin
+- duduk membungkuk sepanjang waktu
+- mengurangi tidur agar waktu layar bertambah
 
-**Kunci Jawaban:** mendukung pertumbuhan dan pemulihan
+**Kunci Jawaban:** mengambil jeda, mengubah posisi, dan memberi kesempatan tubuh bergerak
 
-**Pembahasan:** Tidur cukup: mendukung pertumbuhan dan pemulihan.
+**Pembahasan:** Jeda membantu mata dan tubuh beristirahat dari posisi yang sama.
 
 ---
-
 ## Soal 10 — K03-PJK-B08-M01-010
 
-**Pertanyaan:** Dua jajanan dijual: satu tertutup bersih, satu terbuka di dekat debu. Apa dasar memilih yang lebih aman?
+**Pertanyaan:** Setelah bermain aktif, tindakan yang tepat ialah ....
 
 **Pilihan jawaban:**
-- utamakan yang bersih, aman, dan bergizi
-- pilih yang terbuka dekat sampah
-- pilih yang kedaluwarsa
-- pilih tanpa memperhatikan kebersihan
+- minum air, beristirahat, dan mengganti pakaian basah bila perlu
+- langsung bermain lagi walau pusing
+- menahan haus sampai malam
+- tetap memakai pakaian sangat basah dan dingin
 
-**Kunci Jawaban:** utamakan yang bersih, aman, dan bergizi
+**Kunci Jawaban:** minum air, beristirahat, dan mengganti pakaian basah bila perlu
 
-**Pembahasan:** Pilihan jajanan: utamakan yang bersih, aman, dan bergizi.
+**Pembahasan:** Pemulihan mencakup cairan, jeda, dan kenyamanan tubuh.
 
 ---
-
 ## Soal 11 — K03-PJK-B08-M01-011
 
-**Pertanyaan:** Ketika bermain aktif, tubuh bergerak dan memakai tenaga. Konsep yang dimaksud ialah ....
+**Pertanyaan:** Makanan sehat tidak hanya dinilai dari zat gizinya, tetapi juga harus ....
 
 **Pilihan jawaban:**
-- hanya tidur
-- hanya menonton
-- hanya duduk
-- gerakan tubuh yang menggunakan energi
+- bersih dan aman dikonsumsi
+- selalu mahal
+- berasal dari luar negeri
+- memiliki warna paling cerah
 
-**Kunci Jawaban:** gerakan tubuh yang menggunakan energi
+**Kunci Jawaban:** bersih dan aman dikonsumsi
 
-**Pembahasan:** Aktivitas fisik: gerakan tubuh yang menggunakan energi.
+**Pembahasan:** Keamanan pangan, kebersihan, dan kondisi makanan sama pentingnya dengan kandungan gizi.
 
 ---
-
 ## Soal 12 — K03-PJK-B08-M01-012
 
-**Pertanyaan:** Mengapa makan hanya satu jenis makanan terus-menerus belum tentu memenuhi semua zat gizi?
+**Pertanyaan:** Makan bergizi seimbang berarti ....
 
 **Pilihan jawaban:**
-- hanya gorengan
-- hanya satu jenis makanan
-- beragam sesuai kebutuhan tubuh
-- hanya makanan manis
+- memilih makanan beragam dalam jenis dan jumlah sesuai kebutuhan
+- makan satu jenis yang dianggap paling sehat setiap hari
+- membagi semua makanan dengan jumlah persis sama
+- menghindari seluruh lemak dan gula
 
-**Kunci Jawaban:** beragam sesuai kebutuhan tubuh
+**Kunci Jawaban:** memilih makanan beragam dalam jenis dan jumlah sesuai kebutuhan
 
-**Pembahasan:** Makanan bergizi seimbang: beragam sesuai kebutuhan tubuh.
+**Pembahasan:** Keseimbangan tidak berarti semua zat dimakan sama banyak; kebutuhan dan porsi perlu disesuaikan.
 
 ---
-
 ## Soal 13 — K03-PJK-B08-M01-013
 
-**Pertanyaan:** Anak memilih lauk yang membantu pertumbuhan dan perbaikan jaringan. Contoh yang sesuai ialah ....
+**Pertanyaan:** Empat pilar gizi seimbang mencakup ....
 
 **Pilihan jawaban:**
-- kerupuk saja
-- telur, ikan, atau tempe
-- permen
-- minuman bersoda
+- makanan beragam, hidup bersih, aktivitas fisik, dan pemantauan pertumbuhan
+- makanan mahal, suplemen, tidur siang, dan puasa tanpa arahan
+- hanya nasi, lauk, sayur, dan buah tanpa kebiasaan lain
+- lomba berat badan, diet ketat, minuman manis, dan olahraga maksimum
 
-**Kunci Jawaban:** telur, ikan, atau tempe
+**Kunci Jawaban:** makanan beragam, hidup bersih, aktivitas fisik, dan pemantauan pertumbuhan
 
-**Pembahasan:** Sumber protein: telur, ikan, atau tempe.
+**Pembahasan:** Pemantauan pertumbuhan dilakukan bersama orang tua atau tenaga kesehatan, bukan untuk mengejek bentuk tubuh.
 
 ---
-
 ## Soal 14 — K03-PJK-B08-M01-014
 
-**Pertanyaan:** Selain makanan pokok, anak dianjurkan makan sayur dan buah beragam. Mengapa?
+**Pertanyaan:** Nasi, jagung, kentang, dan ubi dapat menjadi ....
 
 **Pilihan jawaban:**
-- menyumbang vitamin, mineral, dan serat
-- menggantikan semua makanan
-- selalu harus digoreng
-- tidak berguna
+- sumber karbohidrat yang memberi energi
+- pengganti seluruh lauk
+- satu-satunya sumber vitamin
+- pengganti air minum
 
-**Kunci Jawaban:** menyumbang vitamin, mineral, dan serat
+**Kunci Jawaban:** sumber karbohidrat yang memberi energi
 
-**Pembahasan:** Sayur dan buah: menyumbang vitamin, mineral, dan serat.
+**Pembahasan:** Bahan pokok berkarbohidrat membantu menyediakan energi dan perlu dilengkapi kelompok pangan lain.
 
 ---
-
 ## Soal 15 — K03-PJK-B08-M01-015
 
-**Pertanyaan:** Ketika anak bergerak, tubuh memerlukan sumber energi, salah satunya dari ....
+**Pertanyaan:** Telur, ikan, tempe, tahu, daging, dan kacang-kacangan dapat menyumbang ....
 
 **Pilihan jawaban:**
-- selalu berbahaya
-- tidak boleh dimakan
-- menggantikan air minum
-- menjadi salah satu sumber energi tubuh
+- protein untuk pertumbuhan dan perbaikan jaringan
+- air sebagai satu-satunya zat gizi
+- karbohidrat saja
+- serat tanpa zat gizi lain
 
-**Kunci Jawaban:** menjadi salah satu sumber energi tubuh
+**Kunci Jawaban:** protein untuk pertumbuhan dan perbaikan jaringan
 
-**Pembahasan:** Karbohidrat: menjadi salah satu sumber energi tubuh.
+**Pembahasan:** Sumber protein dapat berasal dari hewan maupun tumbuhan.
 
 ---
-
 ## Soal 16 — K03-PJK-B08-M01-016
 
-**Pertanyaan:** Guru memastikan peserta memiliki akses air minum selama kegiatan. Mengapa?
+**Pertanyaan:** Pernyataan yang tepat tentang lemak adalah ....
 
 **Pilihan jawaban:**
-- tidak diperlukan
-- selalu diganti sirup
-- penting untuk membantu kebutuhan cairan
-- harus dihindari setelah bermain
+- tubuh memerlukannya dalam jumlah sesuai sebagai sumber energi dan membantu fungsi tertentu
+- semua lemak harus dihilangkan dari makanan
+- lemak selalu lebih baik daripada semua zat gizi lain
+- makan lemak sebanyak mungkin tidak memiliki risiko
 
-**Kunci Jawaban:** penting untuk membantu kebutuhan cairan
+**Kunci Jawaban:** tubuh memerlukannya dalam jumlah sesuai sebagai sumber energi dan membantu fungsi tertentu
 
-**Pembahasan:** Air putih: penting untuk membantu kebutuhan cairan.
+**Pembahasan:** Lemak dibutuhkan tubuh, tetapi jenis dan jumlahnya tetap perlu diperhatikan.
 
 ---
-
 ## Soal 17 — K03-PJK-B08-M01-017
 
-**Pertanyaan:** Sarapan beragam membantu tubuh mendapat energi sebelum aktivitas. Penjelasan yang tepat ialah ....
+**Pertanyaan:** Sayur dan buah beragam membantu menyediakan ....
 
 **Pilihan jawaban:**
-- harus dilewatkan
-- membantu menyediakan energi untuk belajar dan bergerak
-- membuat tidak perlu makan lagi
-- hanya berupa permen
+- vitamin, mineral, dan serat
+- protein sebagai satu-satunya zat
+- energi tanpa zat lain sama sekali
+- pengganti seluruh makanan pokok
 
-**Kunci Jawaban:** membantu menyediakan energi untuk belajar dan bergerak
+**Kunci Jawaban:** vitamin, mineral, dan serat
 
-**Pembahasan:** Sarapan bergizi: membantu menyediakan energi untuk belajar dan bergerak.
+**Pembahasan:** Warna dan jenis yang beragam dapat menyumbang zat gizi berbeda.
 
 ---
-
 ## Soal 18 — K03-PJK-B08-M01-018
 
-**Pertanyaan:** Saat tangan kotor setelah bermain, apa manfaat mencucinya sebelum makan?
+**Pertanyaan:** Air putih penting karena ....
 
 **Pilihan jawaban:**
-- membantu mengurangi perpindahan kuman
-- membuat makanan lebih mahal
-- mengganti olahraga
-- tidak penting
+- membantu memenuhi kebutuhan cairan tubuh
+- menggantikan seluruh makanan
+- selalu mengandung energi sebanyak nasi
+- tidak diperlukan saat cuaca panas
 
-**Kunci Jawaban:** membantu mengurangi perpindahan kuman
+**Kunci Jawaban:** membantu memenuhi kebutuhan cairan tubuh
 
-**Pembahasan:** Cuci tangan sebelum makan: membantu mengurangi perpindahan kuman.
+**Pembahasan:** Air tidak menggantikan makanan, tetapi sangat penting untuk cairan tubuh.
 
 ---
-
 ## Soal 19 — K03-PJK-B08-M01-019
 
-**Pertanyaan:** Seorang anak sering kurang tidur dan kelelahan. Apa fungsi istirahat malam yang cukup?
+**Pertanyaan:** Serat dari sayur, buah, kacang, dan beberapa biji-bijian membantu ....
 
 **Pilihan jawaban:**
-- menggantikan makan
-- berarti tidak perlu bergerak
-- selalu membuang waktu
-- mendukung pertumbuhan dan pemulihan
+- kerja pencernaan yang sehat
+- menggantikan semua protein
+- membuat anak tidak perlu minum
+- menyembuhkan semua penyakit
 
-**Kunci Jawaban:** mendukung pertumbuhan dan pemulihan
+**Kunci Jawaban:** kerja pencernaan yang sehat
 
-**Pembahasan:** Tidur cukup: mendukung pertumbuhan dan pemulihan.
+**Pembahasan:** Serat merupakan bagian pola makan beragam dan bukan obat untuk semua masalah.
 
 ---
-
 ## Soal 20 — K03-PJK-B08-M01-020
 
-**Pertanyaan:** Guru mengajak siswa memeriksa kebersihan dan nilai gizi jajanan. Pilihan yang tepat adalah ....
+**Pertanyaan:** Menu bergizi seimbang dapat menggunakan bahan pangan lokal karena ....
 
 **Pilihan jawaban:**
-- pilih yang kedaluwarsa
-- pilih tanpa memperhatikan kebersihan
-- utamakan yang bersih, aman, dan bergizi
-- pilih yang terbuka dekat sampah
+- nilai gizi tidak ditentukan oleh harga atau asal yang jauh
+- makanan lokal selalu tidak bergizi
+- hanya makanan kemasan yang memiliki zat gizi
+- semua anak harus makan menu yang sama persis
 
-**Kunci Jawaban:** utamakan yang bersih, aman, dan bergizi
+**Kunci Jawaban:** nilai gizi tidak ditentukan oleh harga atau asal yang jauh
 
-**Pembahasan:** Pilihan jajanan: utamakan yang bersih, aman, dan bergizi.
+**Pembahasan:** Nasi, jagung, ubi, ikan, telur, tempe, sayur, dan buah lokal dapat disusun beragam.
 
 ---
-
 ## Soal 21 — K03-PJK-B08-M01-021
 
-**Pertanyaan:** Apa ciri aktivitas yang melibatkan gerakan tubuh dan penggunaan energi?
+**Pertanyaan:** Anak memiliki alergi kacang yang telah diketahui. Saat memilih makanan ia perlu ....
 
 **Pilihan jawaban:**
-- hanya duduk
-- gerakan tubuh yang menggunakan energi
-- hanya tidur
-- hanya menonton
+- menghindari pemicu dan mengikuti arahan orang tua atau tenaga kesehatan
+- mencoba sedikit tanpa memberi tahu siapa pun
+- menganggap alergi sama dengan tidak suka
+- memilih makanan tanpa membaca informasi bahan
 
-**Kunci Jawaban:** gerakan tubuh yang menggunakan energi
+**Kunci Jawaban:** menghindari pemicu dan mengikuti arahan orang tua atau tenaga kesehatan
 
-**Pembahasan:** Aktivitas fisik: gerakan tubuh yang menggunakan energi.
+**Pembahasan:** Alergi perlu ditangani serius; pengganti zat gizi dipilih bersama orang dewasa yang memahami kebutuhannya.
 
 ---
-
 ## Soal 22 — K03-PJK-B08-M01-022
 
-**Pertanyaan:** Apa prinsip memilih susunan makan agar zat gizi lebih beragam?
+**Pertanyaan:** Mengapa tidak ada satu makanan yang harus menggantikan semua makanan lain?
 
 **Pilihan jawaban:**
-- beragam sesuai kebutuhan tubuh
-- hanya makanan manis
-- hanya gorengan
-- hanya satu jenis makanan
+- setiap jenis makanan menyumbang zat dan fungsi yang berbeda
+- semua makanan memiliki kandungan yang persis sama
+- tubuh hanya membutuhkan satu zat gizi
+- makan beragam selalu membuat sakit
 
-**Kunci Jawaban:** beragam sesuai kebutuhan tubuh
+**Kunci Jawaban:** setiap jenis makanan menyumbang zat dan fungsi yang berbeda
 
-**Pembahasan:** Makanan bergizi seimbang: beragam sesuai kebutuhan tubuh.
+**Pembahasan:** Keragaman membantu memenuhi berbagai kebutuhan tubuh.
 
 ---
-
 ## Soal 23 — K03-PJK-B08-M01-023
 
-**Pertanyaan:** Manakah pilihan lauk yang dapat menyumbang protein?
+**Pertanyaan:** Makanan dan minuman tinggi gula, garam, atau lemak sebaiknya ....
 
 **Pilihan jawaban:**
-- permen
-- minuman bersoda
-- kerupuk saja
-- telur, ikan, atau tempe
+- dibatasi jumlah dan frekuensinya, bukan dijadikan menu utama
+- dimakan tanpa batas setiap hari
+- menggantikan air putih dan makan utama
+- dilarang dengan cara mempermalukan anak
 
-**Kunci Jawaban:** telur, ikan, atau tempe
+**Kunci Jawaban:** dibatasi jumlah dan frekuensinya, bukan dijadikan menu utama
 
-**Pembahasan:** Sumber protein: telur, ikan, atau tempe.
+**Pembahasan:** Pola makan dilihat secara keseluruhan; edukasi tidak perlu memberi cap buruk pada anak.
 
 ---
-
 ## Soal 24 — K03-PJK-B08-M01-024
 
-**Pertanyaan:** Apa peran penting buah dan sayur dalam menu harian?
+**Pertanyaan:** Sebelum membeli makanan kemasan, hal yang perlu diperiksa adalah ....
 
 **Pilihan jawaban:**
-- selalu harus digoreng
-- tidak berguna
-- menyumbang vitamin, mineral, dan serat
-- menggantikan semua makanan
+- tanggal kedaluwarsa, kondisi kemasan, dan informasi penting pada label
+- warna iklan saja
+- hadiah di dalam kemasan saja
+- ukuran gambar pada bungkus
 
-**Kunci Jawaban:** menyumbang vitamin, mineral, dan serat
+**Kunci Jawaban:** tanggal kedaluwarsa, kondisi kemasan, dan informasi penting pada label
 
-**Pembahasan:** Sayur dan buah: menyumbang vitamin, mineral, dan serat.
+**Pembahasan:** Label dan kondisi kemasan membantu menilai keamanan serta kesesuaian produk.
 
 ---
-
 ## Soal 25 — K03-PJK-B08-M01-025
 
-**Pertanyaan:** Manakah manfaat zat gizi karbohidrat bagi tubuh?
+**Pertanyaan:** Mencuci tangan pakai sabun sebelum makan membantu ....
 
 **Pilihan jawaban:**
-- menggantikan air minum
-- menjadi salah satu sumber energi tubuh
-- selalu berbahaya
-- tidak boleh dimakan
+- mengurangi perpindahan kuman ke makanan
+- mengubah semua makanan menjadi bergizi
+- menggantikan kebutuhan mencuci bahan pangan
+- membuat tubuh tidak perlu istirahat
 
-**Kunci Jawaban:** menjadi salah satu sumber energi tubuh
+**Kunci Jawaban:** mengurangi perpindahan kuman ke makanan
 
-**Pembahasan:** Karbohidrat: menjadi salah satu sumber energi tubuh.
+**Pembahasan:** Tangan bersih merupakan bagian keamanan pangan dan pola hidup bersih.
 
 ---
-
 ## Soal 26 — K03-PJK-B08-M01-026
 
-**Pertanyaan:** Mengapa air putih penting meskipun tidak menyumbang kalori seperti nasi?
+**Pertanyaan:** Makanan dalam kemasan menggembung, bocor, atau berbau tidak biasa sebaiknya ....
 
 **Pilihan jawaban:**
-- penting untuk membantu kebutuhan cairan
-- harus dihindari setelah bermain
-- tidak diperlukan
-- selalu diganti sirup
+- tidak dimakan dan dilaporkan kepada orang dewasa
+- tetap dicicipi untuk memastikan
+- dicampur dengan makanan lain
+- dipilih karena bentuknya menarik
 
-**Kunci Jawaban:** penting untuk membantu kebutuhan cairan
+**Kunci Jawaban:** tidak dimakan dan dilaporkan kepada orang dewasa
 
-**Pembahasan:** Air putih: penting untuk membantu kebutuhan cairan.
+**Pembahasan:** Perubahan kemasan atau bau dapat menjadi tanda produk tidak aman.
 
 ---
-
 ## Soal 27 — K03-PJK-B08-M01-027
 
-**Pertanyaan:** Mengapa sarapan bergizi dapat mendukung kegiatan belajar dan gerak?
+**Pertanyaan:** Sarapan atau makan pagi yang beragam dapat ....
 
 **Pilihan jawaban:**
-- membuat tidak perlu makan lagi
-- hanya berupa permen
-- harus dilewatkan
-- membantu menyediakan energi untuk belajar dan bergerak
+- membantu menyediakan energi dan zat gizi untuk kegiatan pagi
+- membuat anak tidak perlu makan lagi seharian
+- hanya terdiri atas makanan manis
+- menjamin semua anak memiliki kebutuhan yang sama
 
-**Kunci Jawaban:** membantu menyediakan energi untuk belajar dan bergerak
+**Kunci Jawaban:** membantu menyediakan energi dan zat gizi untuk kegiatan pagi
 
-**Pembahasan:** Sarapan bergizi: membantu menyediakan energi untuk belajar dan bergerak.
+**Pembahasan:** Menu menyesuaikan kondisi keluarga dan kebutuhan anak; tidak sarapan sekali bukan alasan mempermalukan.
 
 ---
-
 ## Soal 28 — K03-PJK-B08-M01-028
 
-**Pertanyaan:** Mengapa kebiasaan cuci tangan berkaitan dengan keamanan makanan?
+**Pertanyaan:** Menu makan siang berisi nasi, tempe, sayur, buah, dan air. Kelebihan menu itu adalah ....
 
 **Pilihan jawaban:**
-- mengganti olahraga
-- tidak penting
-- membantu mengurangi perpindahan kuman
-- membuat makanan lebih mahal
+- memuat beberapa kelompok pangan dan air
+- hanya mengandung satu zat gizi
+- tidak memiliki sumber protein
+- buah menggantikan seluruh makanan lain
 
-**Kunci Jawaban:** membantu mengurangi perpindahan kuman
+**Kunci Jawaban:** memuat beberapa kelompok pangan dan air
 
-**Pembahasan:** Cuci tangan sebelum makan: membantu mengurangi perpindahan kuman.
+**Pembahasan:** Nasi, tempe, sayur, buah, dan air memberi keragaman fungsi pangan.
 
 ---
-
 ## Soal 29 — K03-PJK-B08-M01-029
 
-**Pertanyaan:** Mengapa tidur penting bagi pertumbuhan dan pemulihan?
+**Pertanyaan:** Pilihan jajanan yang lebih aman adalah ....
 
 **Pilihan jawaban:**
-- selalu membuang waktu
-- mendukung pertumbuhan dan pemulihan
-- menggantikan makan
-- berarti tidak perlu bergerak
+- makanan tertutup, tangan penjual bersih, dan belum kedaluwarsa
+- makanan terbuka di dekat sampah
+- kemasan bocor tanpa tanggal
+- makanan yang warnanya paling mencolok
 
-**Kunci Jawaban:** mendukung pertumbuhan dan pemulihan
+**Kunci Jawaban:** makanan tertutup, tangan penjual bersih, dan belum kedaluwarsa
 
-**Pembahasan:** Tidur cukup: mendukung pertumbuhan dan pemulihan.
+**Pembahasan:** Kebersihan, perlindungan dari debu, dan tanggal aman lebih penting daripada tampilan.
 
 ---
-
 ## Soal 30 — K03-PJK-B08-M01-030
 
-**Pertanyaan:** Apa pertimbangan penting ketika memilih makanan ringan di sekolah?
+**Pertanyaan:** Pada label tertulis “baik digunakan sebelum 12 November”, sedangkan hari ini 15 November. Tindakan tepat adalah ....
 
 **Pilihan jawaban:**
-- utamakan yang bersih, aman, dan bergizi
-- pilih yang terbuka dekat sampah
-- pilih yang kedaluwarsa
-- pilih tanpa memperhatikan kebersihan
+- tidak membeli atau memakannya
+- membeli karena kemasan masih berwarna cerah
+- mencicipi sedikit untuk menguji
+- menghapus tanggal pada kemasan
 
-**Kunci Jawaban:** utamakan yang bersih, aman, dan bergizi
+**Kunci Jawaban:** tidak membeli atau memakannya
 
-**Pembahasan:** Pilihan jajanan: utamakan yang bersih, aman, dan bergizi.
+**Pembahasan:** Tanggal pada contoh telah lewat, sehingga produk tidak dipilih.
 
 ---
-
 ## Soal 31 — K03-PJK-B08-M01-031
 
-**Pertanyaan:** Saat siswa bermain dan berjalan, ototnya bergerak dan energi digunakan. Kegiatan tersebut dikenal sebagai ....
+**Pertanyaan:** Cara membicarakan makanan dengan sehat adalah ....
 
 **Pilihan jawaban:**
-- hanya tidur
-- hanya menonton
-- hanya duduk
-- gerakan tubuh yang menggunakan energi
+- menilai pilihan dan kebiasaan tanpa memberi cap buruk pada tubuh atau anak
+- mengejek teman karena bekalnya berbeda
+- menyebut satu makanan pasti membuat gemuk
+- menyamakan harga makanan dengan nilai seseorang
 
-**Kunci Jawaban:** gerakan tubuh yang menggunakan energi
+**Kunci Jawaban:** menilai pilihan dan kebiasaan tanpa memberi cap buruk pada tubuh atau anak
 
-**Pembahasan:** Aktivitas fisik: gerakan tubuh yang menggunakan energi.
+**Pembahasan:** Edukasi gizi berfokus pada kebutuhan, keamanan, keragaman, dan kebiasaan.
 
 ---
-
 ## Soal 32 — K03-PJK-B08-M01-032
 
-**Pertanyaan:** Piring keluarga memuat lauk, sayur, buah, dan makanan pokok. Apa prinsip pemilihan makannya?
+**Pertanyaan:** Ketika menu keluarga berbeda karena budaya, ketersediaan, atau biaya, prinsip yang tetap dapat dipakai adalah ....
 
 **Pilihan jawaban:**
-- hanya gorengan
-- hanya satu jenis makanan
-- beragam sesuai kebutuhan tubuh
-- hanya makanan manis
+- mencari keragaman dan fungsi zat gizi dari bahan yang tersedia
+- memaksa semua keluarga membeli bahan yang sama
+- menganggap makanan tradisional selalu buruk
+- menilai keluarga dari harga makanannya
 
-**Kunci Jawaban:** beragam sesuai kebutuhan tubuh
+**Kunci Jawaban:** mencari keragaman dan fungsi zat gizi dari bahan yang tersedia
 
-**Pembahasan:** Makanan bergizi seimbang: beragam sesuai kebutuhan tubuh.
+**Pembahasan:** Pola seimbang dapat disusun dari banyak kombinasi bahan lokal dan terjangkau.
 
 ---
-
 ## Soal 33 — K03-PJK-B08-M01-033
 
-**Pertanyaan:** Di meja terdapat telur, ikan, dan tempe. Kelompok makanan ini dapat menjadi ....
+**Pertanyaan:** Jadwal menunjukkan 30 menit bermain aktif, 2 jam layar tanpa jeda, dan tidur terlambat. Perbaikan paling tepat adalah ....
 
 **Pilihan jawaban:**
-- kerupuk saja
-- telur, ikan, atau tempe
-- permen
-- minuman bersoda
+- menambah jeda layar dan menata waktu tidur lebih teratur
+- menghapus seluruh aktivitas fisik
+- menambah waktu layar sampai malam
+- melewatkan makan agar cepat tidur
 
-**Kunci Jawaban:** telur, ikan, atau tempe
+**Kunci Jawaban:** menambah jeda layar dan menata waktu tidur lebih teratur
 
-**Pembahasan:** Sumber protein: telur, ikan, atau tempe.
+**Pembahasan:** Masalah pada jadwal adalah layar panjang tanpa jeda dan waktu tidur yang terlambat.
 
 ---
-
 ## Soal 34 — K03-PJK-B08-M01-034
 
-**Pertanyaan:** Saat makan, buah dan sayur melengkapi hidangan lain. Apa yang disumbangkannya?
+**Pertanyaan:** Menu hanya berisi nasi dan kerupuk. Tambahan yang paling melengkapi adalah ....
 
 **Pilihan jawaban:**
-- menyumbang vitamin, mineral, dan serat
-- menggantikan semua makanan
-- selalu harus digoreng
-- tidak berguna
+- lauk sumber protein serta sayur atau buah
+- nasi tambahan saja
+- kerupuk tambahan saja
+- minuman manis sebagai pengganti lauk
 
-**Kunci Jawaban:** menyumbang vitamin, mineral, dan serat
+**Kunci Jawaban:** lauk sumber protein serta sayur atau buah
 
-**Pembahasan:** Sayur dan buah: menyumbang vitamin, mineral, dan serat.
+**Pembahasan:** Menu awal sudah memiliki makanan pokok, tetapi kurang keragaman protein serta sayur atau buah.
 
 ---
-
 ## Soal 35 — K03-PJK-B08-M01-035
 
-**Pertanyaan:** Setelah olahraga, nasi atau ubi menjadi salah satu sumber tenaga dari kelompok zat gizi apa?
+**Pertanyaan:** Rencana hari sehat yang paling lengkap adalah ....
 
 **Pilihan jawaban:**
-- selalu berbahaya
-- tidak boleh dimakan
-- menggantikan air minum
-- menjadi salah satu sumber energi tubuh
+- makan beragam, bergerak aman, minum, memakai waktu luang positif, dan tidur teratur
+- duduk sepanjang hari, makan satu jenis, dan tidur larut
+- berolahraga berat tanpa minum lalu melewatkan makan
+- bermain gawai tanpa jeda dan memilih makanan dari iklan saja
 
-**Kunci Jawaban:** menjadi salah satu sumber energi tubuh
+**Kunci Jawaban:** makan beragam, bergerak aman, minum, memakai waktu luang positif, dan tidur teratur
 
-**Pembahasan:** Karbohidrat: menjadi salah satu sumber energi tubuh.
+**Pembahasan:** Pola hidup sehat merupakan gabungan kebiasaan, bukan satu tindakan saja.
 
 ---

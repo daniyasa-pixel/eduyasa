@@ -19,7 +19,7 @@ Pemeriksaan sumber setelah revisi: **360 soal, 360 ID unik, 360 stem unik, empat
 
 **STATUS: REVISI SUMBER SELESAI, AUDIT FINAL BELUM.** Belum dilaksanakan verifikasi bab demi bab terhadap buku resmi, validasi jawaban semantik dan pengecoh, rendering/peninjauan visual penuh pada HP 390 px, uji pembelajaran oleh guru atau siswa, maupun validator Python keseluruhan `scripts/check-k03-question-sources.py`. Perlu pemeriksaan rinci khusus unit senam dan air; jangan langsung konversi JSON.
 
-**Modul pembelajaran:** Unit 1–7 sudah masing-masing memiliki MOD-01 dan MOD-02. Unit 8 masih belum memiliki modul dan tetap menjadi kekurangan yang harus diselesaikan.
+**Modul pembelajaran:** Unit 1–8 sudah masing-masing memiliki MOD-01 dan MOD-02; total 16 modul dan tetap menjadi kekurangan yang harus diselesaikan.
 
 Catatan serah-terima dan progres lihat `../PROGRES-REVISI-1945.md` dan `../HANDOVER-KONVERSI-JSON.md`.
 
@@ -70,3 +70,8 @@ Unit 6 selesai diaudit terhadap Unit Pembelajaran 6 buku guru resmi. Seluruh 45 
 ## Audit final Unit 7 — 13 November 2026
 
 Unit 7 selesai diaudit terhadap Unit Pembelajaran 7 buku guru resmi. Seluruh 45 soal ditulis ulang agar fokus pada kekuatan otot dan daya tahan otot; 10 SVG diganti menjadi stimulus fungsional dan dua modul baru dibuat. Keselamatan menegaskan tahanan sesuai usia, teknik lebih penting daripada jumlah, variasi pemula, pasangan seimbang, tanpa instruksi “sekuatnya”, tanpa beban berat, tanpa tarikan kepala/leher, tanpa melilit tali, dan tanpa melepaskan tali mendadak. JSON `pjk-b07.json` dan `pjk-b07a.json` berstatus **STALE_SOURCE_CHANGED**; `pjk-b07-materi.json` perlu dibuat pada tahap konversi terpisah. Uji praktik siswa dan HP/WebView tetap diperlukan.
+
+
+## Audit final Unit 8 dan penutupan PJOK — 13 November 2026
+
+Unit 8 selesai diaudit terhadap Unit Pembelajaran 8 buku guru resmi. Seluruh 45 soal ditulis ulang untuk mencakup aktivitas fisik, istirahat, waktu luang, empat pilar gizi seimbang, fungsi zat gizi, kebersihan, keamanan pangan, dan alergi; 10 SVG serta dua modul baru dibuat. Konten tidak memakai harga atau bentuk tubuh sebagai ukuran gizi dan mengakui variasi budaya, akses, agama, kesehatan, serta bahan lokal. JSON `pjk-b08.json` dan `pjk-b08a.json` berstatus **STALE_SOURCE_CHANGED**; `pjk-b08-materi.json` perlu dibuat terpisah. Audit isi sumber PJOK selesai 360/360, 16 modul, dan 80 SVG. Uji praktik dan HP/WebView tetap diperlukan.
