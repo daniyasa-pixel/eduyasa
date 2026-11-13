@@ -2,14 +2,14 @@
 
 **Cakupan eksklusif:** IPAS, Bahasa Inggris, PAI, PJOK, Seni Rupa. BIN, MTK, PKN tidak disentuh.
 
-**STATUS KESELURUHAN: BELUM LULUS / BELUM FINAL.** Audit struktur dan pola berulang telah dilakukan. Revisi akademik menyeluruh, validasi visual, dan verifikasi per-butir terhadap buku resmi **belum selesai**. Konversi JSON per bab atau unit yang sudah diaudit mengikuti [handover Codex](HANDOVER-KONVERSI-JSON.md), dengan satu audit ulang sebelum konversi. Status rilis mengikuti verifikasi aplikasi.
+**STATUS AUDIT ISI SUMBER: LULUS / SELESAI 1.945 DARI 1.945 SOAL.** Lima mapel telah diperiksa per butir terhadap cakupan buku, kualitas opsi dan kunci, pembahasan, modul, serta fungsi media. Status rilis aplikasi **belum final** karena konversi JSON, manifest, dan pengujian aplikasi merupakan tahap terpisah.
 
 | Mapel | Bab | Soal | Temuan yang terverifikasi | Revisi selesai | Sisa pekerjaan |
 |---|---:|---:|---|---|---|
 | IPAS | 8 | 560 | Pola berulang, opsi ambigu, gambar membocorkan definisi, penyederhanaan konsep diperbaiki | 560 diperiksa; 546 diubah; 16 modul dan media delapan bab diselaraskan | Putaran isi/media selesai; belum konversi atau uji siswa |
 | ENG | 10 | 500 | Pola repetitif, cakupan unit, gambar, dan listening diperiksa terhadap buku | Unit 1–10: 500 soal, 20 modul, 112 SVG, dan 50 naskah TTS diaudit | Audit isi sumber selesai; Unit 8–10 perlu konversi JSON ulang; uji suara HP/WebView di tahap aplikasi |
 | PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; 300 soal diperiksa per butir; 293 diubah; 20 modul diselaraskan | Isi selesai; cuplikan Arab ditinjau pada 390 px; uji browser HP/WebView dan pelafalan di tahap aplikasi |
-| PJOK | 8 | 360 | Soal berulang dan ilustrasi abstrak; keselamatan gerak perlu audit per unit | Unit 1–2: 90 soal diperiksa, 55 soal direvisi, 20 SVG diganti, 4 modul dibuat | Unit 3–8; uji praktik dan HP/WebView di tahap aplikasi |
+| PJOK | 8 | 360 | Soal berulang, ilustrasi abstrak, dan keselamatan gerak diperiksa per unit | Unit 1–8: 360 soal diperiksa, 325 soal direvisi, 80 SVG diganti, dan 16 modul tersedia | Audit isi sumber selesai; uji praktik dan HP/WebView di tahap aplikasi |
 | SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik, dan cakupan bab internal diperiksa terhadap buku revisi 2025 | Bab 1–5: 225 soal, 10 modul, dan 50 SVG ditulis ulang | Audit isi sumber selesai; uji siswa dan HP/WebView di tahap aplikasi |
 
 ## Standar wajib sebelum status FINAL
