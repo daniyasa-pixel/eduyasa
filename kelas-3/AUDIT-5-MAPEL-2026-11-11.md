@@ -10,7 +10,7 @@
 | ENG | 10 | 500 | Pola repetitif, cakupan unit, gambar, dan listening diperiksa terhadap buku | Unit 1–10: 500 soal, 20 modul, 112 SVG, dan 50 naskah TTS diaudit | Audit isi sumber selesai; Unit 8–10 perlu konversi JSON ulang; uji suara HP/WebView di tahap aplikasi |
 | PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; 300 soal diperiksa per butir; 293 diubah; 20 modul diselaraskan | Isi selesai; cuplikan Arab ditinjau pada 390 px; uji browser HP/WebView dan pelafalan di tahap aplikasi |
 | PJOK | 8 | 360 | Soal berulang dan ilustrasi abstrak; keselamatan gerak perlu audit per unit | Unit 1–2: 90 soal diperiksa, 55 soal direvisi, 20 SVG diganti, 4 modul dibuat | Unit 3–8; uji praktik dan HP/WebView di tahap aplikasi |
-| SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik; bab internal belum diverifikasi terhadap buku | Belum | Soal pengamatan visual, distraktor, ilustrasi, verifikasi bab resmi |
+| SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik, dan cakupan bab internal diperiksa terhadap buku revisi 2025 | Bab 1–4: 180 soal, 8 modul, dan 40 SVG ditulis ulang | Bab 5 (45 soal); uji siswa dan HP/WebView di tahap aplikasi |
 
 ## Standar wajib sebelum status FINAL
 1. Empat pilihan yang berbeda, tepat satu benar; jawaban identik dengan salah satu opsi.
@@ -426,3 +426,21 @@ Sepuluh SVG diganti agar informasi visual diperlukan untuk menjawab. Dua modul y
 Audit mengacu pada Bab III *Berkreasi dengan Warna* dalam buku guru Seni Rupa Kelas III revisi 2025. Seluruh 35 soal teks dan 10 soal bergambar ditulis ulang tanpa mengubah ID atau jumlah. Materi lama tentang sketsa/poster/peta pikiran dan klasifikasi warna hangat-sejuk diganti dengan gambar cerita, pengamatan lingkungan, uji alat/bahan, prosedur cetak stensil, eksplorasi warna, bingkai, keselamatan, privasi, serta presentasi dan refleksi proses.
 
 Sepuluh SVG menjadi stimulus yang harus dibaca untuk menjawab. Dua modul daftar-kunci ditulis ulang menjadi dua alur lengkap dan setara. Keduanya mencakup interpretasi cerita, penggunaan unsur rupa, kartu uji alat, stensil usap, tekanan krayon, alternatif bahan, pencampuran warna, komposisi bingkai, izin foto, alternatif gambar keluarga, kebersihan, apresiasi, dan refleksi. Kumulatif audit isi **1.855/1.945**; sisa **90 soal pada 2 bab**. JSON Bab 3 lama berstatus berubah dan harus dibuat ulang. Uji praktik stensil, karya siswa, dan HP/WebView menunggu tahap aplikasi. Titik lanjut: Seni Rupa Bab 4.
+
+
+### Kelanjutan: Seni Rupa Bab 4
+
+Seluruh 45 soal, dua modul, dan 10 SVG ditulis ulang sesuai Bab IV *Kisah
+Gunting dan Tempel* pada buku guru revisi 2025. ID dan jumlah 35+10 tetap.
+Audit mencakup pengertian kolase, fungsi alat, karakter bahan dan tekstur,
+tema lingkungan, rancangan sederhana, prosedur menggunting/menyobek,
+menyusun sebelum menempel, tumpang tindih, takaran lem, pengeringan,
+keselamatan, kerja sama, pemilahan sisa bahan, perbaikan, dan presentasi.
+Sepuluh gambar berfungsi sebagai data soal dan tidak mencetak jawaban.
+
+Pemeriksaan draf Bab 4: 45 ID serta stem unik; empat opsi berbeda; satu kunci
+cocok; pembahasan tersedia; dua ID modul ada; 10 SVG memiliki viewBox,
+title/desc, dan tanpa skrip atau tautan luar. Kumulatif audit isi
+**1.900/1.945**; Seni Rupa **180/225**. Sisa **45 soal/1 bab**, titik lanjut
+Seni Rupa Bab 5. Status tetap **BELUM FINAL**; konversi JSON serta uji
+siswa/HP/WebView merupakan tahap terpisah.
