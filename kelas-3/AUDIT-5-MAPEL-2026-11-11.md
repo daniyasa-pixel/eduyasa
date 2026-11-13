@@ -10,7 +10,7 @@
 | ENG | 10 | 500 | Pola repetitif, cakupan unit, gambar, dan listening diperiksa terhadap buku | Unit 1–10: 500 soal, 20 modul, 112 SVG, dan 50 naskah TTS diaudit | Audit isi sumber selesai; Unit 8–10 perlu konversi JSON ulang; uji suara HP/WebView di tahap aplikasi |
 | PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; 300 soal diperiksa per butir; 293 diubah; 20 modul diselaraskan | Isi selesai; cuplikan Arab ditinjau pada 390 px; uji browser HP/WebView dan pelafalan di tahap aplikasi |
 | PJOK | 8 | 360 | Soal berulang dan ilustrasi abstrak; keselamatan gerak perlu audit per unit | Unit 1–2: 90 soal diperiksa, 55 soal direvisi, 20 SVG diganti, 4 modul dibuat | Unit 3–8; uji praktik dan HP/WebView di tahap aplikasi |
-| SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik, dan cakupan bab internal diperiksa terhadap buku revisi 2025 | Bab 1–4: 180 soal, 8 modul, dan 40 SVG ditulis ulang | Bab 5 (45 soal); uji siswa dan HP/WebView di tahap aplikasi |
+| SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik, dan cakupan bab internal diperiksa terhadap buku revisi 2025 | Bab 1–5: 225 soal, 10 modul, dan 50 SVG ditulis ulang | Audit isi sumber selesai; uji siswa dan HP/WebView di tahap aplikasi |
 
 ## Standar wajib sebelum status FINAL
 1. Empat pilihan yang berbeda, tepat satu benar; jawaban identik dengan salah satu opsi.
@@ -444,3 +444,25 @@ title/desc, dan tanpa skrip atau tautan luar. Kumulatif audit isi
 **1.900/1.945**; Seni Rupa **180/225**. Sisa **45 soal/1 bab**, titik lanjut
 Seni Rupa Bab 5. Status tetap **BELUM FINAL**; konversi JSON serta uji
 siswa/HP/WebView merupakan tahap terpisah.
+
+
+### Kelanjutan: Seni Rupa Bab 5 — audit isi lima mapel selesai
+
+Seluruh 45 soal, dua modul, dan 10 SVG Bab 5 ditulis ulang sesuai Bab V
+*Eksplorasi Membuat Bentuk 3 Dimensi: Hewan di Sekitarku*. ID dan jumlah
+35+10 tetap. Bank kini menguji bentuk/volume, pengamatan ciri hewan, pemilihan
+dan uji bahan, keamanan, penyambungan, kestabilan, mengamati–menirukan–
+memodifikasi, upcycling, ruang diorama, kerja sama, perbaikan, presentasi,
+dan apresiasi. Stimulus gambar diperlukan untuk menjawab dan tidak mencetak
+kunci.
+
+Audit isi sumber lima mapel mencapai **1.945/1.945**: IPAS 560, PAI 300,
+Bahasa Inggris 500, PJOK 360, dan Seni Rupa 225. Cakupan modul berjumlah
+82 (IPAS 16, PAI 20, Inggris 20, PJOK 16, Seni Rupa 10). Cakupan media
+tercatat 338 SVG termasuk ilustrasi modul, ditambah 50 naskah TTS Inggris.
+Validator struktur dan ketersediaan media dijalankan setelah perubahan; hasil
+akhir serta SHA kepala `main` dicatat pada checkpoint penutupan.
+
+**Batas hasil:** audit isi Markdown selesai, tetapi konversi JSON, manifest,
+aktivasi aplikasi, uji HP/WebView, suara/TTS, pelafalan Arab, praktik PJOK,
+dan uji siswa belum termasuk kelulusan ini.
