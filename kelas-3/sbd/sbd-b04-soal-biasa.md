@@ -1,563 +1,563 @@
 # Bab 4 — Karya yang Mewakili Diriku
 
-35 soal teks — konteks karya identitas diri, simbol dan penghargaan perbedaan telah diperbarui.
+35 soal teks — audit isi terhadap Bab IV *Kisah Gunting dan Tempel* pada buku guru Seni Rupa Kelas III revisi 2025.
 
 ## Soal 1 — K03-SBD-B04-M01-001
 
-**Pertanyaan:** Fina membuat gambar wajah dan ciri dirinya untuk menceritakan siapa dirinya. Jenis karya ini menggambarkan ....
+**Pertanyaan:** Kolase adalah karya dua dimensi yang dibuat dengan cara ....
 
 **Pilihan jawaban:**
-- hanya bangunan
-- diri pembuat karya
-- hanya pemandangan
-- hanya hewan
+- menyusun dan menempel berbagai bahan pada bidang
+- meniup warna tanpa bidang
+- memahat batu menjadi patung
+- merekam bunyi lingkungan
 
-**Kunci Jawaban:** diri pembuat karya
+**Kunci Jawaban:** menyusun dan menempel berbagai bahan pada bidang
 
-**Pembahasan:** Potret diri adalah karya yang menggambarkan diri pembuat karya.
+**Pembahasan:** Kolase menggabungkan potongan bahan melalui susunan dan tempelan pada permukaan datar.
 
 ---
 
 ## Soal 2 — K03-SBD-B04-M01-002
 
-**Pertanyaan:** Raka ingin menunjukkan kesukaannya membaca lewat sebuah simbol sederhana. Objek apa yang cocok digambar?
+**Pertanyaan:** Perbedaan utama kolase dan gambar pensil biasa adalah kolase ....
 
 **Pilihan jawaban:**
-- sepeda
-- panci
-- buku terbuka
-- bola basket
+- memakai bahan yang ditempel sebagai unsur karya
+- selalu dibuat tanpa rancangan
+- hanya boleh memakai satu warna
+- tidak memiliki bentuk atau tekstur
 
-**Kunci Jawaban:** buku terbuka
+**Kunci Jawaban:** memakai bahan yang ditempel sebagai unsur karya
 
-**Pembahasan:** Simbol hobi membaca dapat digambarkan dengan buku terbuka.
+**Pembahasan:** Pada kolase, kertas, kain, daun, atau bahan lain menjadi bagian visual yang ditempel.
 
 ---
 
 ## Soal 3 — K03-SBD-B04-M01-003
 
-**Pertanyaan:** Dina memilih warna ungu karena menyukainya, walaupun teman memilih hijau. Tujuan penggunaan warna pribadi adalah ....
+**Pertanyaan:** Kelompok alat yang tepat untuk kegiatan kolase adalah ....
 
 **Pilihan jawaban:**
-- menentukan nilai teman
-- mengganti nama
-- menyembunyikan karya
-- menunjukkan selera pribadi
+- pensil, gunting, lem, dan krayon
+- sendok panas, paku, dan kaca
+- kompor, pisau dapur, dan bensin
+- peluit, drum, dan mikrofon
 
-**Kunci Jawaban:** menunjukkan selera pribadi
+**Kunci Jawaban:** pensil, gunting, lem, dan krayon
 
-**Pembahasan:** Warna kesukaan pada karya diri dapat dipilih untuk menunjukkan selera pribadi.
+**Pembahasan:** Pensil membantu merancang, gunting memotong, lem merekatkan, dan krayon memberi warna.
 
 ---
 
 ## Soal 4 — K03-SBD-B04-M01-004
 
-**Pertanyaan:** Saat menempelkan label pada hasil karyanya, Sita tidak ingin menulis nama panjang. Identitas yang dapat digunakan adalah ....
+**Pertanyaan:** Fungsi gunting dalam membuat kolase adalah ....
 
 **Pilihan jawaban:**
-- nama atau inisial pembuat
-- kata ejekan
-- data rahasia keluarga
-- kata kasar
+- memotong bahan sesuai bentuk yang diperlukan
+- merekatkan potongan pada bidang
+- menghapus garis sketsa
+- mencampur warna cair
 
-**Kunci Jawaban:** nama atau inisial pembuat
+**Kunci Jawaban:** memotong bahan sesuai bentuk yang diperlukan
 
-**Pembahasan:** Identitas pada karya dapat ditulis berupa nama atau inisial pembuat.
+**Pembahasan:** Gunting merupakan alat potong dan harus digunakan sesuai petunjuk keselamatan.
 
 ---
 
 ## Soal 5 — K03-SBD-B04-M01-005
 
-**Pertanyaan:** Seorang anak ingin mengabadikan perjalanan ke pantai. Informasi visual yang tepat untuk karya kenangan itu berupa ....
+**Pertanyaan:** Fungsi lem kertas pada kolase adalah ....
 
 **Pilihan jawaban:**
-- tabel harga
-- tempat dan kegiatan yang diingat
-- hanya angka acak
-- jadwal pelajaran orang lain
+- merekatkan potongan bahan pada bidang
+- membuat garis sketsa
+- memotong kain tebal
+- mengeringkan daun
 
-**Kunci Jawaban:** tempat dan kegiatan yang diingat
+**Kunci Jawaban:** merekatkan potongan bahan pada bidang
 
-**Pembahasan:** Karya tentang pengalaman liburan dapat menggambarkan tempat dan kegiatan yang diingat.
+**Pembahasan:** Lem digunakan secukupnya agar bahan menempel tanpa membuat karya terlalu basah.
 
 ---
 
 ## Soal 6 — K03-SBD-B04-M01-006
 
-**Pertanyaan:** Pada ilustrasi kegiatan menyenangkan, tokoh tersenyum lebar. Ekspresi ini biasanya menunjukkan ....
+**Pertanyaan:** Pensil paling berguna pada tahap awal kolase untuk ....
 
 **Pilihan jawaban:**
-- perasaan takut
-- perasaan bosan
-- perasaan senang
-- perasaan marah
+- membuat sketsa penempatan bentuk
+- menggantikan lem
+- memotong daun
+- mengeringkan kertas
 
-**Kunci Jawaban:** perasaan senang
+**Kunci Jawaban:** membuat sketsa penempatan bentuk
 
-**Pembahasan:** Ekspresi wajah tersenyum sering menunjukkan perasaan senang.
+**Pembahasan:** Sketsa tipis membantu merencanakan ukuran dan posisi sebelum bahan dipotong.
 
 ---
 
 ## Soal 7 — K03-SBD-B04-M01-007
 
-**Pertanyaan:** Tokoh dalam komik tampak menangis, alisnya menurun. Perasaan yang mungkin diwakili adalah ....
+**Pertanyaan:** Krayon atau pensil warna termasuk ....
 
 **Pilihan jawaban:**
-- gembira
-- bangga
-- terkejut
-- sedih
+- pewarna kering
+- alat potong
+- alat tempel
+- bahan makanan
 
-**Kunci Jawaban:** sedih
+**Kunci Jawaban:** pewarna kering
 
-**Pembahasan:** Ekspresi wajah dengan alis menurun dan air mata dapat menunjukkan sedih.
+**Pembahasan:** Krayon dan pensil warna memberi warna tanpa menggunakan cairan.
 
 ---
 
 ## Soal 8 — K03-SBD-B04-M01-008
 
-**Pertanyaan:** Dua anak menggambar potret diri dengan gaya berbeda. Persamaan seperti apa yang tidak wajib dipaksakan pada kedua karya?
+**Pertanyaan:** Bahan yang dapat memberi variasi pada kolase adalah ....
 
 **Pilihan jawaban:**
-- sama persis dengan karya teman
-- memiliki tema
-- dibuat dengan usaha
-- menampilkan pilihan pribadi
+- kertas warna, kain perca, dan daun kering
+- kaca pecah, paku, dan kawat tajam
+- makanan basah dan minuman
+- obat serta cairan tanpa label
 
-**Kunci Jawaban:** sama persis dengan karya teman
+**Kunci Jawaban:** kertas warna, kain perca, dan daun kering
 
-**Pembahasan:** Karya yang mewakili diri tidak harus sama persis dengan karya teman.
+**Pembahasan:** Bahan kolase dapat beragam selama bersih, kering, aman, dan sesuai bidang.
 
 ---
 
 ## Soal 9 — K03-SBD-B04-M01-009
 
-**Pertanyaan:** Nina membuat gambar saat berlatih menari untuk mengenalkan kesukaannya. Kegiatan berkarya itu membantu ....
+**Pertanyaan:** Sebelum memakai bahan temuan, siswa perlu memastikan bahan itu ....
 
 **Pilihan jawaban:**
-- mengganti teman
-- menceritakan minat diri
-- menghilangkan hobi
-- mengubah nama
+- bersih, kering, dan tidak tajam
+- basah agar mudah berjamur
+- berbau bahan kimia kuat
+- memiliki tepi yang melukai
 
-**Kunci Jawaban:** menceritakan minat diri
+**Kunci Jawaban:** bersih, kering, dan tidak tajam
 
-**Pembahasan:** Menggambar kegiatan favorit membantu menceritakan minat diri.
+**Pembahasan:** Pemeriksaan bahan melindungi tangan, karya, dan kebersihan ruang belajar.
 
 ---
 
 ## Soal 10 — K03-SBD-B04-M01-010
 
-**Pertanyaan:** Seorang teman menggambar wajah dengan bentuk berbeda dari wajah kita. Sikap menghargai karya adalah ....
+**Pertanyaan:** Cara memperoleh daun untuk kolase yang paling bertanggung jawab adalah ....
 
 **Pilihan jawaban:**
-- mencoret wajah
-- menghina warna kulit
-- tidak mengejek ciri fisiknya
-- menertawakan bentuk tubuh
+- mengambil daun kering yang sudah jatuh dan diizinkan
+- memetik semua daun muda
+- merusak tanaman sekolah
+- mengambil tanaman milik orang tanpa izin
 
-**Kunci Jawaban:** tidak mengejek ciri fisiknya
+**Kunci Jawaban:** mengambil daun kering yang sudah jatuh dan diizinkan
 
-**Pembahasan:** Menghargai gambar diri teman berarti tidak mengejek ciri fisiknya.
+**Pembahasan:** Bahan alam dikumpulkan tanpa merusak tanaman dan dengan mengikuti aturan lingkungan.
 
 ---
 
 ## Soal 11 — K03-SBD-B04-M01-011
 
-**Pertanyaan:** Untuk mengenalkan kegemarannya, Rafi membuat kolase berisi sepeda dan buku. Bahan isi yang cocok adalah ....
+**Pertanyaan:** Plastik bekas hanya layak digunakan pada kolase jika ....
 
 **Pilihan jawaban:**
-- hanya sampah kotor
-- benda berbahaya
-- informasi rahasia
-- gambar aktivitas dan benda kesukaan
+- sudah dibersihkan, aman, dan digunakan seperlunya
+- masih berisi sisa bahan berbahaya
+- memiliki ujung tajam
+- dibakar lebih dahulu
 
-**Kunci Jawaban:** gambar aktivitas dan benda kesukaan
+**Kunci Jawaban:** sudah dibersihkan, aman, dan digunakan seperlunya
 
-**Pembahasan:** Kolase identitas diri dapat memuat gambar aktivitas dan benda kesukaan.
+**Pembahasan:** Plastik perlu diperiksa kebersihan dan keamanannya serta tidak dijadikan alasan menambah sampah.
 
 ---
 
 ## Soal 12 — K03-SBD-B04-M01-012
 
-**Pertanyaan:** Guru meminta murid menjelaskan alasan memilih simbol bintang pada gambar diri. Cara menyampaikan penjelasan yang tepat adalah ....
+**Pertanyaan:** Kain perca dan kertas licin dapat memberi perbedaan terutama pada ....
 
 **Pilihan jawaban:**
-- menyampaikan makna gambar dengan percaya diri dan santun
-- merendahkan karya teman
-- berbohong tentang proses
-- memaksa semua orang setuju
+- tekstur permukaan
+- suara musik
+- rasa makanan
+- suhu ruangan
 
-**Kunci Jawaban:** menyampaikan makna gambar dengan percaya diri dan santun
+**Kunci Jawaban:** tekstur permukaan
 
-**Pembahasan:** Saat menjelaskan karya sendiri, kita sebaiknya menyampaikan makna gambar dengan percaya diri dan santun.
+**Pembahasan:** Bahan berbeda dapat memberi kesan kasar, lembut, licin, atau berpori pada kolase.
 
 ---
 
 ## Soal 13 — K03-SBD-B04-M01-013
 
-**Pertanyaan:** Pada karya, anak menempatkan gambar rumah untuk menunjukkan hal yang dekat dengan hidupnya. Rumah dapat melambangkan ....
+**Pertanyaan:** Tema kolase yang sesuai dengan lingkungan sekitar adalah ....
 
 **Pilihan jawaban:**
-- ukuran sepatu
-- tempat tinggal atau keluarga
-- bunyi alat musik
-- rasa makanan
+- taman sekolah dengan pohon, jalan, dan tempat sampah
+- daftar nilai pribadi teman
+- alamat rumah seluruh siswa
+- harga barang di toko
 
-**Kunci Jawaban:** tempat tinggal atau keluarga
+**Kunci Jawaban:** taman sekolah dengan pohon, jalan, dan tempat sampah
 
-**Pembahasan:** Bentuk rumah dalam karya pribadi dapat melambangkan tempat tinggal atau keluarga.
+**Pembahasan:** Lingkungan sekitar dapat menjadi sumber cerita dan objek kolase tanpa membuka data pribadi.
 
 ---
 
 ## Soal 14 — K03-SBD-B04-M01-014
 
-**Pertanyaan:** Di dalam tugas bertema keluargaku, siswa ingin menggambar kegiatan makan bersama. Apa yang dapat ditampilkan?
+**Pertanyaan:** Sebelum memilih potongan bahan, kelompok perlu menentukan ....
 
 **Pilihan jawaban:**
-- daftar harga
-- peta cuaca
-- anggota keluarga atau kegiatan bersama
-- hanya angka ujian
+- tema atau cerita yang ingin disampaikan
+- siapa yang karyanya paling mahal
+- cara membuat semua karya sama
+- nilai anggota kelompok
 
-**Kunci Jawaban:** anggota keluarga atau kegiatan bersama
+**Kunci Jawaban:** tema atau cerita yang ingin disampaikan
 
-**Pembahasan:** Memilih tema keluargaku berarti karya dapat menampilkan anggota keluarga atau kegiatan bersama.
+**Pembahasan:** Tema membantu memilih bentuk, warna, bahan, dan susunan yang saling berkaitan.
 
 ---
 
 ## Soal 15 — K03-SBD-B04-M01-015
 
-**Pertanyaan:** Setelah melukis, cat dan kertas menumpuk di meja. Kebiasaan baik berikutnya adalah ....
+**Pertanyaan:** Sketsa kolase berfungsi untuk ....
 
 **Pilihan jawaban:**
-- membuang cat ke lantai
-- meninggalkan gunting terbuka
-- merusak karya teman
-- merapikan alat dan tempat kerja
+- merencanakan letak dan ukuran unsur
+- menggantikan semua bahan tempel
+- membuat gunting menjadi tumpul
+- menentukan nilai akhir sebelum bekerja
 
-**Kunci Jawaban:** merapikan alat dan tempat kerja
+**Kunci Jawaban:** merencanakan letak dan ukuran unsur
 
-**Pembahasan:** Setelah berkarya, sikap baik adalah merapikan alat dan tempat kerja.
+**Pembahasan:** Sketsa menjadi panduan awal dan boleh diubah saat susunan bahan dicoba.
 
 ---
 
 ## Soal 16 — K03-SBD-B04-M01-016
 
-**Pertanyaan:** Anak membuat gambar dirinya memakai seragam pramuka. Apa yang ingin diwujudkan melalui karya potret tersebut?
+**Pertanyaan:** Untuk membuat gambar rumah dari potongan sederhana, bentuk yang dapat digabungkan adalah ....
 
 **Pilihan jawaban:**
-- diri pembuat karya
-- hanya pemandangan
-- hanya hewan
-- hanya bangunan
+- persegi panjang dan segitiga
+- hanya satu titik
+- garis tanpa bidang
+- warna tanpa bentuk
 
-**Kunci Jawaban:** diri pembuat karya
+**Kunci Jawaban:** persegi panjang dan segitiga
 
-**Pembahasan:** Potret diri adalah karya yang menggambarkan diri pembuat karya.
+**Pembahasan:** Persegi panjang dapat menjadi badan rumah dan segitiga menjadi atap.
 
 ---
 
 ## Soal 17 — K03-SBD-B04-M01-017
 
-**Pertanyaan:** Ketika ingin menggambar minat membaca, anak memilih ikon benda yang sering dibuka untuk dibaca. Benda apa itu?
+**Pertanyaan:** Saat menggunting pola, posisi yang lebih aman adalah ....
 
 **Pilihan jawaban:**
-- panci
-- buku terbuka
-- bola basket
-- sepeda
+- memotong menjauh dari tangan dengan perhatian pada garis
+- mengarahkah bilah ke telapak tangan
+- berjalan sambil menggunting
+- mengangkat gunting dekat wajah
 
-**Kunci Jawaban:** buku terbuka
+**Kunci Jawaban:** memotong menjauh dari tangan dengan perhatian pada garis
 
-**Pembahasan:** Simbol hobi membaca dapat digambarkan dengan buku terbuka.
+**Pembahasan:** Arah potong dan posisi tangan perlu dijaga; gunakan gunting anak sesuai arahan guru.
 
 ---
 
 ## Soal 18 — K03-SBD-B04-M01-018
 
-**Pertanyaan:** Guru memberi kebebasan memilih warna pada gambar pribadi. Apa alasan pilihan warna tersebut layak dihargai?
+**Pertanyaan:** Cara menyerahkan gunting kepada teman adalah ....
 
 **Pilihan jawaban:**
-- mengganti nama
-- menyembunyikan karya
-- menunjukkan selera pribadi
-- menentukan nilai teman
+- menutup bilah dan mengarahkan gagang kepada penerima
+- memberi bagian ujung yang terbuka
+- melemparkannya di atas meja
+- menyembunyikannya di bawah kertas
 
-**Kunci Jawaban:** menunjukkan selera pribadi
+**Kunci Jawaban:** menutup bilah dan mengarahkan gagang kepada penerima
 
-**Pembahasan:** Warna kesukaan pada karya diri dapat dipilih untuk menunjukkan selera pribadi.
+**Pembahasan:** Bilah tertutup dan gagang menghadap penerima mengurangi risiko terluka.
 
 ---
 
 ## Soal 19 — K03-SBD-B04-M01-019
 
-**Pertanyaan:** Seorang murid malu menuliskan nama lengkap pada halaman pajangan karya. Identitas singkat yang dapat ditulis berupa ....
+**Pertanyaan:** Siswa yang belum nyaman memakai gunting dapat membuat potongan dengan ....
 
 **Pilihan jawaban:**
-- kata ejekan
-- data rahasia keluarga
-- kata kasar
-- nama atau inisial pembuat
+- merobek kertas atau memakai bentuk siap potong
+- memakai pisau tajam sendiri
+- mematahkan kaca
+- membakar tepi kertas
 
-**Kunci Jawaban:** nama atau inisial pembuat
+**Kunci Jawaban:** merobek kertas atau memakai bentuk siap potong
 
-**Pembahasan:** Identitas pada karya dapat ditulis berupa nama atau inisial pembuat.
+**Pembahasan:** Merobek atau memakai potongan yang disiapkan memberi akses berkarya tanpa mengabaikan keselamatan.
 
 ---
 
 ## Soal 20 — K03-SBD-B04-M01-020
 
-**Pertanyaan:** Rina menggambarkan saat ia melihat pegunungan bersama keluarga. Jenis kenangan yang diperlihatkan adalah ....
+**Pertanyaan:** Sebelum potongan diberi lem, langkah yang paling membantu adalah ....
 
 **Pilihan jawaban:**
-- tempat dan kegiatan yang diingat
-- hanya angka acak
-- jadwal pelajaran orang lain
-- tabel harga
+- mencoba susunan di atas bidang
+- menuangkan lem pada semua bahan
+- membuang sketsa
+- menutup karya dengan buku
 
-**Kunci Jawaban:** tempat dan kegiatan yang diingat
+**Kunci Jawaban:** mencoba susunan di atas bidang
 
-**Pembahasan:** Karya tentang pengalaman liburan dapat menggambarkan tempat dan kegiatan yang diingat.
+**Pembahasan:** Susunan dapat dipindahkan dan diperbaiki lebih mudah sebelum potongan direkatkan.
 
 ---
 
 ## Soal 21 — K03-SBD-B04-M01-021
 
-**Pertanyaan:** Ekspresi mata berbinar dan senyum pada tokoh dalam karya mengarah pada perasaan ....
+**Pertanyaan:** Potongan daun diletakkan sebagian di depan potongan batang. Susunan ini disebut ....
 
 **Pilihan jawaban:**
-- perasaan bosan
-- perasaan senang
-- perasaan marah
-- perasaan takut
+- tumpang tindih
+- penghapusan
+- pelipatan simetris
+- pencampuran warna
 
-**Kunci Jawaban:** perasaan senang
+**Kunci Jawaban:** tumpang tindih
 
-**Pembahasan:** Ekspresi wajah tersenyum sering menunjukkan perasaan senang.
+**Pembahasan:** Tumpang tindih terjadi ketika satu bentuk menutupi sebagian bentuk lain dan dapat memberi kesan kedalaman.
 
 ---
 
 ## Soal 22 — K03-SBD-B04-M01-022
 
-**Pertanyaan:** Wajah tokoh yang menangis ketika kehilangan benda kesukaan dapat menunjukkan perasaan ....
+**Pertanyaan:** Agar mata tertuju pada bunga utama, bunga itu dapat dibuat ....
 
 **Pilihan jawaban:**
-- bangga
-- terkejut
-- sedih
-- gembira
+- lebih besar atau lebih kontras dari unsur lain
+- paling kecil dan tersembunyi
+- sama dengan latar tanpa batas
+- tertutup seluruhnya oleh daun
 
-**Kunci Jawaban:** sedih
+**Kunci Jawaban:** lebih besar atau lebih kontras dari unsur lain
 
-**Pembahasan:** Ekspresi wajah dengan alis menurun dan air mata dapat menunjukkan sedih.
+**Pembahasan:** Ukuran atau kontras dapat membentuk titik perhatian dalam komposisi kolase.
 
 ---
 
 ## Soal 23 — K03-SBD-B04-M01-023
 
-**Pertanyaan:** Poster identitas diri murid berbeda satu dengan yang lain. Hal yang tidak menjadi keharusan adalah ....
+**Pertanyaan:** Lem pada potongan kertas sebaiknya digunakan ....
 
 **Pilihan jawaban:**
-- memiliki tema
-- dibuat dengan usaha
-- menampilkan pilihan pribadi
-- sama persis dengan karya teman
+- tipis dan secukupnya pada bagian yang perlu direkatkan
+- sebanyak mungkin hingga menetes
+- pada meja dan lantai
+- tanpa memperhatikan petunjuk
 
-**Kunci Jawaban:** sama persis dengan karya teman
+**Kunci Jawaban:** tipis dan secukupnya pada bagian yang perlu direkatkan
 
-**Pembahasan:** Karya yang mewakili diri tidak harus sama persis dengan karya teman.
+**Pembahasan:** Lem secukupnya membantu potongan menempel dan menjaga karya tetap bersih.
 
 ---
 
 ## Soal 24 — K03-SBD-B04-M01-024
 
-**Pertanyaan:** Anak menggambar diri sedang bermain bola karena itulah kegemaran yang ingin dibagikan. Gambar itu bertujuan ....
+**Pertanyaan:** Untuk potongan yang tipis, lem dapat dioleskan terutama pada ....
 
 **Pilihan jawaban:**
-- menceritakan minat diri
-- menghilangkan hobi
-- mengubah nama
-- mengganti teman
+- bagian belakang dan tepinya secara tipis
+- permukaan depan seluruh karya
+- gagang gunting
+- tangan teman
 
-**Kunci Jawaban:** menceritakan minat diri
+**Kunci Jawaban:** bagian belakang dan tepinya secara tipis
 
-**Pembahasan:** Menggambar kegiatan favorit membantu menceritakan minat diri.
+**Pembahasan:** Olesan tipis pada belakang dan tepi membantu potongan melekat rata tanpa noda berlebihan.
 
 ---
 
 ## Soal 25 — K03-SBD-B04-M01-025
 
-**Pertanyaan:** Saat mengomentari potret diri temannya, murid menghindari candaan mengenai bentuk wajah. Sikap yang benar ialah ....
+**Pertanyaan:** Sesudah ditempel, potongan dapat dirapikan dengan cara ....
 
 **Pilihan jawaban:**
-- menghina warna kulit
-- tidak mengejek ciri fisiknya
-- menertawakan bentuk tubuh
-- mencoret wajah
+- menekan lembut memakai jari bersih atau alas pelindung
+- menggosoknya dengan ujung gunting
+- menyiramnya dengan air
+- menariknya berulang kali
 
-**Kunci Jawaban:** tidak mengejek ciri fisiknya
+**Kunci Jawaban:** menekan lembut memakai jari bersih atau alas pelindung
 
-**Pembahasan:** Menghargai gambar diri teman berarti tidak mengejek ciri fisiknya.
+**Pembahasan:** Tekanan lembut membantu potongan melekat rata tanpa merusak bentuk.
 
 ---
 
 ## Soal 26 — K03-SBD-B04-M01-026
 
-**Pertanyaan:** Karya kolase pribadi akan dibuat memakai gambar alat musik dan tanaman favorit. Isinya merupakan ....
+**Pertanyaan:** Karya yang masih lembap oleh lem sebaiknya ....
 
 **Pilihan jawaban:**
-- benda berbahaya
-- informasi rahasia
-- gambar aktivitas dan benda kesukaan
-- hanya sampah kotor
+- diletakkan rata di tempat aman hingga kering
+- langsung dilipat rapat
+- ditumpuk di bawah sepatu
+- dibawa sambil dikibas keras
 
-**Kunci Jawaban:** gambar aktivitas dan benda kesukaan
+**Kunci Jawaban:** diletakkan rata di tempat aman hingga kering
 
-**Pembahasan:** Kolase identitas diri dapat memuat gambar aktivitas dan benda kesukaan.
+**Pembahasan:** Pengeringan rata mencegah potongan bergeser, terlipat, atau menempel pada benda lain.
 
 ---
 
 ## Soal 27 — K03-SBD-B04-M01-027
 
-**Pertanyaan:** Di depan kelas, Bima menjelaskan lambang matahari pada gambar dirinya. Cara berbicara yang sesuai adalah ....
+**Pertanyaan:** Setelah membuat kolase, kelompok harus ....
 
 **Pilihan jawaban:**
-- merendahkan karya teman
-- berbohong tentang proses
-- memaksa semua orang setuju
-- menyampaikan makna gambar dengan percaya diri dan santun
+- menutup lem, menyimpan gunting, dan membersihkan meja
+- meninggalkan serpihan di lantai
+- menyimpan gunting dalam keadaan terbuka
+- mengoleskan sisa lem ke kursi
 
-**Kunci Jawaban:** menyampaikan makna gambar dengan percaya diri dan santun
+**Kunci Jawaban:** menutup lem, menyimpan gunting, dan membersihkan meja
 
-**Pembahasan:** Saat menjelaskan karya sendiri, kita sebaiknya menyampaikan makna gambar dengan percaya diri dan santun.
+**Pembahasan:** Perawatan alat dan kebersihan area merupakan bagian dari tanggung jawab berkarya.
 
 ---
 
 ## Soal 28 — K03-SBD-B04-M01-028
 
-**Pertanyaan:** Seorang anak menggambar rumah tempat ia tumbuh. Gambar rumah itu dapat merepresentasikan ....
+**Pertanyaan:** Sisa kertas yang masih cukup besar sebaiknya ....
 
 **Pilihan jawaban:**
-- tempat tinggal atau keluarga
-- bunyi alat musik
-- rasa makanan
-- ukuran sepatu
+- dipilah untuk digunakan pada karya berikutnya
+- langsung dibakar
+- dibuang bersama makanan basah
+- disobek menjadi sampah tanpa tujuan
 
-**Kunci Jawaban:** tempat tinggal atau keluarga
+**Kunci Jawaban:** dipilah untuk digunakan pada karya berikutnya
 
-**Pembahasan:** Bentuk rumah dalam karya pribadi dapat melambangkan tempat tinggal atau keluarga.
+**Pembahasan:** Pemilahan mengurangi limbah dan menyediakan bahan untuk kegiatan selanjutnya.
 
 ---
 
 ## Soal 29 — K03-SBD-B04-M01-029
 
-**Pertanyaan:** Tema 'keluargaku' dipilih oleh siswa. Bagian cerita yang sesuai untuk digambar adalah ....
+**Pertanyaan:** Pembagian peran yang adil dalam kelompok kolase adalah ....
 
 **Pilihan jawaban:**
-- peta cuaca
-- anggota keluarga atau kegiatan bersama
-- hanya angka ujian
-- daftar harga
+- ada yang merancang, menata, menempel, dan merapikan secara bergiliran
+- satu anak mengerjakan semuanya
+- anggota yang cepat mengambil semua alat
+- siswa tertentu hanya menonton sebagai hukuman
 
-**Kunci Jawaban:** anggota keluarga atau kegiatan bersama
+**Kunci Jawaban:** ada yang merancang, menata, menempel, dan merapikan secara bergiliran
 
-**Pembahasan:** Memilih tema keluargaku berarti karya dapat menampilkan anggota keluarga atau kegiatan bersama.
+**Pembahasan:** Peran dapat dibagi dan diputar agar semua anggota berpartisipasi sesuai kemampuan.
 
 ---
 
 ## Soal 30 — K03-SBD-B04-M01-030
 
-**Pertanyaan:** Selesai menggunakan pensil warna bersama, siswa mengembalikannya dan membuang sampah pada tempatnya. Sikap ini berarti ....
+**Pertanyaan:** Jika dua kelompok memerlukan lem yang sama, tindakan tepat adalah ....
 
 **Pilihan jawaban:**
-- meninggalkan gunting terbuka
-- merusak karya teman
-- merapikan alat dan tempat kerja
-- membuang cat ke lantai
+- mengatur giliran dan memakai secukupnya
+- merebut lem lebih dahulu
+- menyembunyikan lem dari kelompok lain
+- menuangkan seluruh lem ke satu karya
 
-**Kunci Jawaban:** merapikan alat dan tempat kerja
+**Kunci Jawaban:** mengatur giliran dan memakai secukupnya
 
-**Pembahasan:** Setelah berkarya, sikap baik adalah merapikan alat dan tempat kerja.
+**Pembahasan:** Berbagi alat secara tertib menjaga kerja sama dan mencegah bahan terbuang.
 
 ---
 
 ## Soal 31 — K03-SBD-B04-M01-031
 
-**Pertanyaan:** Ketika anak menggambar wajahnya sendiri, pusat cerita visual karya tersebut ialah ....
+**Pertanyaan:** Dukungan yang tepat bagi teman yang kesulitan memotong ialah ....
 
 **Pilihan jawaban:**
-- hanya pemandangan
-- hanya hewan
-- hanya bangunan
-- diri pembuat karya
+- menawarkan pola sederhana atau bantuan sesuai izin guru
+- mengambil alih seluruh karya tanpa bertanya
+- mengejek hasil potongannya
+- memaksa memakai gunting besar
 
-**Kunci Jawaban:** diri pembuat karya
+**Kunci Jawaban:** menawarkan pola sederhana atau bantuan sesuai izin guru
 
-**Pembahasan:** Potret diri adalah karya yang menggambarkan diri pembuat karya.
+**Pembahasan:** Dukungan menyesuaikan kebutuhan dan tetap memberi kesempatan teman membuat keputusan.
 
 ---
 
 ## Soal 32 — K03-SBD-B04-M01-032
 
-**Pertanyaan:** Anak ingin menceritakan kegemaran membaca tanpa menuliskan paragraf panjang. Lambang yang mudah dikenali adalah ....
+**Pertanyaan:** Untuk membandingkan dua kolase, bukti yang dapat diamati adalah ....
 
 **Pilihan jawaban:**
-- buku terbuka
-- bola basket
-- sepeda
-- panci
+- susunan bentuk, tekstur bahan, dan kerapian tempelan
+- harga tas pembuat
+- nilai pelajaran lain
+- alamat rumah kelompok
 
-**Kunci Jawaban:** buku terbuka
+**Kunci Jawaban:** susunan bentuk, tekstur bahan, dan kerapian tempelan
 
-**Pembahasan:** Simbol hobi membaca dapat digambarkan dengan buku terbuka.
+**Pembahasan:** Apresiasi karya memakai ciri visual dan proses yang berkaitan langsung.
 
 ---
 
 ## Soal 33 — K03-SBD-B04-M01-033
 
-**Pertanyaan:** Pada potret diri, warna biru dipilih karena paling disukai pembuatnya. Warna itu membantu ....
+**Pertanyaan:** Jika satu sudut potongan terlepas setelah kering, perbaikan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- menyembunyikan karya
-- menunjukkan selera pribadi
-- menentukan nilai teman
-- mengganti nama
+- mengoleskan sedikit lem di bawah sudut lalu menekannya
+- membasahi seluruh karya
+- merobek potongan lain
+- menambahkan lem pada bagian depan sebanyak mungkin
 
-**Kunci Jawaban:** menunjukkan selera pribadi
+**Kunci Jawaban:** mengoleskan sedikit lem di bawah sudut lalu menekannya
 
-**Pembahasan:** Warna kesukaan pada karya diri dapat dipilih untuk menunjukkan selera pribadi.
+**Pembahasan:** Perbaikan kecil dan terarah menjaga karya tetap bersih.
 
 ---
 
 ## Soal 34 — K03-SBD-B04-M01-034
 
-**Pertanyaan:** Agar pengunjung tahu siapa pembuat gambar, kartu karya dapat memuat ....
+**Pertanyaan:** Saat mempresentasikan kolase, kelompok sebaiknya menjelaskan ....
 
 **Pilihan jawaban:**
-- data rahasia keluarga
-- kata kasar
-- nama atau inisial pembuat
-- kata ejekan
+- tema, bahan, susunan, pembagian peran, dan refleksi
+- peringkat setiap anggota
+- harga barang pribadi
+- kesalahan kelompok lain
 
-**Kunci Jawaban:** nama atau inisial pembuat
+**Kunci Jawaban:** tema, bahan, susunan, pembagian peran, dan refleksi
 
-**Pembahasan:** Identitas pada karya dapat ditulis berupa nama atau inisial pembuat.
+**Pembahasan:** Presentasi proses menunjukkan hubungan gagasan, pilihan bahan, kerja sama, dan pembelajaran.
 
 ---
 
 ## Soal 35 — K03-SBD-B04-M01-035
 
-**Pertanyaan:** Untuk menggambarkan pengalaman naik kereta saat liburan, anak dapat menampilkan ....
+**Pertanyaan:** Urutan membuat kolase yang paling lengkap adalah ....
 
 **Pilihan jawaban:**
-- hanya angka acak
-- jadwal pelajaran orang lain
-- tabel harga
-- tempat dan kegiatan yang diingat
+- menentukan tema, membuat sketsa, memilih bahan, memotong, menyusun, menempel, lalu merapikan
+- menempel dulu, baru memilih tema dan membersihkan
+- memotong tanpa rencana lalu membuang semua sisa
+- memberi peringkat, merebut alat, lalu meninggalkan meja
 
-**Kunci Jawaban:** tempat dan kegiatan yang diingat
+**Kunci Jawaban:** menentukan tema, membuat sketsa, memilih bahan, memotong, menyusun, menempel, lalu merapikan
 
-**Pembahasan:** Karya tentang pengalaman liburan dapat menggambarkan tempat dan kegiatan yang diingat.
+**Pembahasan:** Urutan ini menjaga gagasan, komposisi, keselamatan, pemakaian bahan, dan kebersihan.
 
 ---
