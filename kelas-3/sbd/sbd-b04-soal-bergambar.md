@@ -1,183 +1,183 @@
 # Bab 4 — Karya yang Mewakili Diriku
 
-10 soal bergambar — pertanyaan sudah disesuaikan dengan situasi ilustrasi; media ditangani terpisah.
+10 soal bergambar — ilustrasi berfungsi sebagai stimulus alat, bahan, urutan, keselamatan, komposisi, tumpang tindih, lem, pemilahan, kerja sama, dan perbaikan kolase.
 
 ## Soal 36 — K03-SBD-B04-M01-036
 
-![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-01.svg)
+![Empat alat kolase bernomor](assets/sbd-b04-gambar-01.svg)
 
-**Pertanyaan:** Tokoh pada gambar tersenyum dan matanya tampak ceria. Perasaan yang biasa ditampilkan adalah ....
+**Pertanyaan:** Alat manakah yang digunakan untuk merekatkan potongan kolase?
 
 **Pilihan jawaban:**
-- perasaan senang
-- perasaan marah
-- perasaan takut
-- perasaan bosan
+- botol lem nomor 2
+- gunting nomor 1
+- krayon nomor 3
+- pensil nomor 4
 
-**Kunci Jawaban:** perasaan senang
+**Kunci Jawaban:** botol lem nomor 2
 
-**Pembahasan:** Ekspresi wajah tersenyum sering menunjukkan perasaan senang.
+**Pembahasan:** Botol lem pada nomor 2 merupakan alat tempel; gunting memotong, krayon mewarnai, dan pensil membuat sketsa.
 
 ---
 
 ## Soal 37 — K03-SBD-B04-M01-037
 
-![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-02.svg)
+![Kertas licin dan kain perca](assets/sbd-b04-gambar-02.svg)
 
-**Pertanyaan:** Wajah dalam gambar menunjukkan alis menurun dan air mata. Perasaan yang mungkin ditunjukkan adalah ....
+**Pertanyaan:** Bahan manakah yang paling mungkin memberi tekstur kain pada kolase?
 
 **Pilihan jawaban:**
-- terkejut
-- sedih
-- gembira
-- bangga
+- bahan nomor 2
+- bahan nomor 1
+- keduanya berupa kertas licin
+- tidak ada bahan yang dapat ditempel
 
-**Kunci Jawaban:** sedih
+**Kunci Jawaban:** bahan nomor 2
 
-**Pembahasan:** Ekspresi wajah dengan alis menurun dan air mata dapat menunjukkan sedih.
+**Pembahasan:** Bahan nomor 2 digambar sebagai kain perca dengan serat, sedangkan nomor 1 berupa kertas licin.
 
 ---
 
 ## Soal 38 — K03-SBD-B04-M01-038
 
-![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-03.svg)
+![Urutan sketsa, potong, susun, dan tempel](assets/sbd-b04-gambar-03.svg)
 
-**Pertanyaan:** Dua potret diri pada ilustrasi berbeda gaya. Karya pribadi tidak perlu dibuat ....
+**Pertanyaan:** Setelah bentuk dipotong pada kartu kedua, langkah berikutnya adalah ....
 
 **Pilihan jawaban:**
-- dibuat dengan usaha
-- menampilkan pilihan pribadi
-- sama persis dengan karya teman
-- memiliki tema
+- mencoba menyusun potongan seperti kartu ketiga
+- langsung membuang semua potongan
+- menuangkan lem sebelum melihat susunan
+- melipat karya hingga tertutup
 
-**Kunci Jawaban:** sama persis dengan karya teman
+**Kunci Jawaban:** mencoba menyusun potongan seperti kartu ketiga
 
-**Pembahasan:** Karya yang mewakili diri tidak harus sama persis dengan karya teman.
+**Pembahasan:** Potongan sebaiknya dicoba susunannya sebelum dilem agar komposisi masih dapat diubah.
 
 ---
 
 ## Soal 39 — K03-SBD-B04-M01-039
 
-![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-04.svg)
+![Cara menyerahkan gunting](assets/sbd-b04-gambar-04.svg)
 
-**Pertanyaan:** Gambar menunjukkan anak sedang melakukan hobi kesukaan. Hal apa yang hendak dikomunikasikan pembuat karya?
+**Pertanyaan:** Cara menyerahkan gunting yang lebih aman ditunjukkan oleh ....
 
 **Pilihan jawaban:**
-- menghilangkan hobi
-- mengubah nama
-- mengganti teman
-- menceritakan minat diri
+- gambar di sebelah kanan
+- gambar di sebelah kiri
+- keduanya mengarahkan bilah terbuka
+- keduanya melemparkan gunting
 
-**Kunci Jawaban:** menceritakan minat diri
+**Kunci Jawaban:** gambar di sebelah kanan
 
-**Pembahasan:** Menggambar kegiatan favorit membantu menceritakan minat diri.
+**Pembahasan:** Gambar kanan menunjukkan bilah tertutup dan gagang diarahkan kepada penerima.
 
 ---
 
 ## Soal 40 — K03-SBD-B04-M01-040
 
-![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-05.svg)
+![Tumpukan bahan dan rancangan rumah](assets/sbd-b04-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan tanggapan pengunjung terhadap gambar diri temannya. Sikap menghargai yang tepat adalah ....
+**Pertanyaan:** Rancangan manakah yang lebih baik dicoba sebelum potongan diberi lem?
 
 **Pilihan jawaban:**
-- tidak mengejek ciri fisiknya
-- menertawakan bentuk tubuh
-- mencoret wajah
-- menghina warna kulit
+- susunan di sebelah kanan
+- tumpukan di sebelah kiri
+- keduanya sudah direkatkan permanen
+- tidak perlu mencoba susunan
 
-**Kunci Jawaban:** tidak mengejek ciri fisiknya
+**Kunci Jawaban:** susunan di sebelah kanan
 
-**Pembahasan:** Menghargai gambar diri teman berarti tidak mengejek ciri fisiknya.
+**Pembahasan:** Susunan kanan memperlihatkan bentuk rumah yang dapat dinilai dan diubah sebelum direkatkan.
 
 ---
 
 ## Soal 41 — K03-SBD-B04-M01-041
 
-![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-06.svg)
+![Tumpang tindih daun dan batang](assets/sbd-b04-gambar-06.svg)
 
-**Pertanyaan:** Kolase identitas pada gambar berisi benda favorit dan kegiatan harian. Isinya dapat berupa ....
+**Pertanyaan:** Daun manakah yang tampak berada di depan batang karena menutup sebagian batang?
 
 **Pilihan jawaban:**
-- informasi rahasia
-- gambar aktivitas dan benda kesukaan
-- hanya sampah kotor
-- benda berbahaya
+- daun di sebelah kanan
+- daun di sebelah kiri
+- keduanya berada di belakang seluruh bidang
+- tidak ada bentuk yang saling menutup
 
-**Kunci Jawaban:** gambar aktivitas dan benda kesukaan
+**Kunci Jawaban:** daun di sebelah kanan
 
-**Pembahasan:** Kolase identitas diri dapat memuat gambar aktivitas dan benda kesukaan.
+**Pembahasan:** Daun kanan menutupi sebagian garis batang sehingga terlihat berada di depan.
 
 ---
 
 ## Soal 42 — K03-SBD-B04-M01-042
 
-![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-07.svg)
+![Perbandingan jumlah lem](assets/sbd-b04-gambar-07.svg)
 
-**Pertanyaan:** Siswa berdiri di dekat gambar dirinya untuk menjelaskan makna simbol. Cara menyampaikan yang baik adalah ....
+**Pertanyaan:** Penggunaan lem yang lebih tepat ditunjukkan oleh ....
 
 **Pilihan jawaban:**
-- berbohong tentang proses
-- memaksa semua orang setuju
-- menyampaikan makna gambar dengan percaya diri dan santun
-- merendahkan karya teman
+- potongan di sebelah kanan
+- potongan di sebelah kiri
+- keduanya memakai lem berlebihan
+- keduanya tidak memakai lem
 
-**Kunci Jawaban:** menyampaikan makna gambar dengan percaya diri dan santun
+**Kunci Jawaban:** potongan di sebelah kanan
 
-**Pembahasan:** Saat menjelaskan karya sendiri, kita sebaiknya menyampaikan makna gambar dengan percaya diri dan santun.
+**Pembahasan:** Potongan kanan memakai titik lem tipis di bagian belakang, sedangkan kiri diberi lem berlebihan hingga menetes.
 
 ---
 
 ## Soal 43 — K03-SBD-B04-M01-043
 
-![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-08.svg)
+![Dua wadah pemilahan sisa bahan](assets/sbd-b04-gambar-08.svg)
 
-**Pertanyaan:** Gambar rumah dijadikan simbol kedekatan pribadi. Rumah dalam karya bisa melambangkan ....
+**Pertanyaan:** Ke mana sisa kertas yang masih cukup besar sebaiknya dipindahkan?
 
 **Pilihan jawaban:**
-- bunyi alat musik
-- rasa makanan
-- ukuran sepatu
-- tempat tinggal atau keluarga
+- wadah guna ulang nomor 1
+- tempat sampah basah nomor 2
+- lantai di antara meja
+- di bawah karya yang masih basah
 
-**Kunci Jawaban:** tempat tinggal atau keluarga
+**Kunci Jawaban:** wadah guna ulang nomor 1
 
-**Pembahasan:** Bentuk rumah dalam karya pribadi dapat melambangkan tempat tinggal atau keluarga.
+**Pembahasan:** Potongan yang masih berguna dipilah agar dapat dipakai pada kegiatan berikutnya.
 
 ---
 
 ## Soal 44 — K03-SBD-B04-M01-044
 
-![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-09.svg)
+![Pembagian peran kelompok kolase](assets/sbd-b04-gambar-09.svg)
 
-**Pertanyaan:** Gambar memperlihatkan kegiatan bersama beberapa orang di rumah. Tema keluarga dapat menampilkan ....
+**Pertanyaan:** Kelompok manakah menunjukkan pembagian peran yang lebih adil?
 
 **Pilihan jawaban:**
-- anggota keluarga atau kegiatan bersama
-- hanya angka ujian
-- daftar harga
-- peta cuaca
+- kelompok di sebelah kanan
+- kelompok di sebelah kiri
+- keduanya dikerjakan satu anak
+- keduanya tidak memiliki tugas
 
-**Kunci Jawaban:** anggota keluarga atau kegiatan bersama
+**Kunci Jawaban:** kelompok di sebelah kanan
 
-**Pembahasan:** Memilih tema keluargaku berarti karya dapat menampilkan anggota keluarga atau kegiatan bersama.
+**Pembahasan:** Kelompok kanan membagi tugas merancang, memotong, menempel, dan merapikan kepada anggotanya.
 
 ---
 
 ## Soal 45 — K03-SBD-B04-M01-045
 
-![Ilustrasi unsur seni rupa](assets/sbd-b04-gambar-10.svg)
+![Sudut kolase yang terlepas](assets/sbd-b04-gambar-10.svg)
 
-**Pertanyaan:** Seusai berkarya, meja pada gambar dipenuhi alat dan sisa kertas. Langkah baik berikutnya adalah ....
+**Pertanyaan:** Apa perbaikan paling tepat untuk sudut potongan yang terlepas?
 
 **Pilihan jawaban:**
-- merusak karya teman
-- merapikan alat dan tempat kerja
-- membuang cat ke lantai
-- meninggalkan gunting terbuka
+- beri sedikit lem di bawah sudut lalu tekan lembut
+- tuang lem ke seluruh permukaan depan
+- sobek semua potongan lain
+- rendam karya dalam air
 
-**Kunci Jawaban:** merapikan alat dan tempat kerja
+**Kunci Jawaban:** beri sedikit lem di bawah sudut lalu tekan lembut
 
-**Pembahasan:** Setelah berkarya, sikap baik adalah merapikan alat dan tempat kerja.
+**Pembahasan:** Perbaikan terarah dengan sedikit lem merekatkan sudut tanpa mengotori seluruh karya.
 
 ---
