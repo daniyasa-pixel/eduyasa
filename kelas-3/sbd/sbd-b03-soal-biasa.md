@@ -1,563 +1,563 @@
 # Bab 3 — Ideku, Gagasanku
 
-35 soal teks — konteks ide, sketsa dan proses perancangan telah diperbarui.
+35 soal teks — audit isi terhadap Bab III *Berkreasi dengan Warna* pada buku guru Seni Rupa Kelas III revisi 2025.
 
 ## Soal 1 — K03-SBD-B03-M01-001
 
-**Pertanyaan:** Arman ingin membuat gambar taman, lalu menggambar versi cepat dengan pensil sebelum mewarnai. Gambar awal ini disebut ....
+**Pertanyaan:** Warna dalam karya seni dapat membantu pembuat menyampaikan ....
 
 **Pilihan jawaban:**
-- alat untuk menghapus
-- jenis cat
-- gambar rancangan awal
-- karya yang selalu sudah selesai
+- suasana atau gagasan
+- berat kertas secara pasti
+- waktu pembuatan hingga detik
+- harga seluruh alat
 
-**Kunci Jawaban:** gambar rancangan awal
+**Kunci Jawaban:** suasana atau gagasan
 
-**Pembahasan:** Sketsa adalah gambar rancangan awal.
+**Pembahasan:** Warna dapat memperkuat suasana dan gagasan, tetapi maknanya tetap bergantung pada konteks karya dan penjelasan pembuat.
 
 ---
 
 ## Soal 2 — K03-SBD-B03-M01-002
 
-**Pertanyaan:** Sebelum memilih objek untuk poster sekolah, Sinta menuliskan apa yang ingin disampaikan. Langkah tersebut adalah ....
+**Pertanyaan:** Gambar cerita adalah karya yang terutama digunakan untuk ....
 
 **Pilihan jawaban:**
-- membuang semua alat
-- meniru persis karya teman
-- mengabaikan tugas
-- menentukan ide atau tema
+- menggambarkan isi atau peristiwa dalam cerita
+- mencatat daftar harga bahan
+- mengukur panjang meja
+- menyimpan alat potong
 
-**Kunci Jawaban:** menentukan ide atau tema
+**Kunci Jawaban:** menggambarkan isi atau peristiwa dalam cerita
 
-**Pembahasan:** Sebelum membuat karya, langkah awal yang baik adalah menentukan ide atau tema.
+**Pembahasan:** Gambar cerita membantu pembaca memahami tokoh, tempat, atau kejadian melalui visual.
 
 ---
 
 ## Soal 3 — K03-SBD-B03-M01-003
 
-**Pertanyaan:** Dina menaruh kata 'lingkungan' di tengah kertas, lalu membuat cabang 'air', 'sampah', dan 'pohon'. Cara ini membantu ....
+**Pertanyaan:** Sebelum membuat gambar cerita, langkah yang paling membantu adalah ....
 
 **Pilihan jawaban:**
-- mengembangkan hubungan antaride
-- mengeringkan cat
-- memotong kertas
-- mencampur lem
+- membaca atau mendengarkan cerita dengan teliti
+- memilih warna tanpa mengetahui isi
+- menyalin gambar lain seluruhnya
+- memotong semua kertas lebih dahulu
 
-**Kunci Jawaban:** mengembangkan hubungan antaride
+**Kunci Jawaban:** membaca atau mendengarkan cerita dengan teliti
 
-**Pembahasan:** Peta pikiran membantu mengembangkan hubungan antaride.
+**Pembahasan:** Pemahaman terhadap cerita diperlukan sebelum memilih kejadian yang akan divisualkan.
 
 ---
 
 ## Soal 4 — K03-SBD-B03-M01-004
 
-**Pertanyaan:** Poster menjaga kebersihan sungai akan dibuat. Objek mana yang paling sesuai untuk tema itu?
+**Pertanyaan:** Dua siswa menggambar bagian berbeda dari cerita yang sama. Hal itu dapat diterima jika ....
 
 **Pilihan jawaban:**
-- daftar harga
-- pohon, sungai, dan tempat sampah
-- hanya angka acak
-- jadwal kereta
+- setiap gambar sesuai dengan penafsiran yang dapat dijelaskan
+- semua gambar wajib sama persis
+- salah satu siswa menghapus karyanya
+- keduanya meniru contoh tanpa perubahan
 
-**Kunci Jawaban:** pohon, sungai, dan tempat sampah
+**Kunci Jawaban:** setiap gambar sesuai dengan penafsiran yang dapat dijelaskan
 
-**Pembahasan:** Gambar bertema lingkungan dapat memuat pohon, sungai, dan tempat sampah.
+**Pembahasan:** Satu cerita dapat ditafsirkan melalui pilihan peristiwa dan visual yang berbeda selama masih berkaitan dengan isi.
 
 ---
 
 ## Soal 5 — K03-SBD-B03-M01-005
 
-**Pertanyaan:** Untuk mencoba beberapa susunan bentuk tanpa menghabiskan cat, alat sederhana yang dipakai ialah ....
+**Pertanyaan:** Untuk membuat satu ilustrasi dari cerita panjang, siswa sebaiknya memilih ....
 
 **Pilihan jawaban:**
-- kaca pecah
-- pisau tajam
-- pensil dan kertas
-- air mendidih
+- peristiwa penting yang mewakili cerita
+- semua kalimat menjadi tulisan kecil
+- bagian yang tidak berkaitan
+- gambar acak agar halaman penuh
 
-**Kunci Jawaban:** pensil dan kertas
+**Kunci Jawaban:** peristiwa penting yang mewakili cerita
 
-**Pembahasan:** Bahan yang cocok untuk sketsa awal adalah pensil dan kertas.
+**Pembahasan:** Peristiwa penting membantu ilustrasi menyampaikan bagian utama cerita dengan jelas.
 
 ---
 
 ## Soal 6 — K03-SBD-B03-M01-006
 
-**Pertanyaan:** Raka bingung mencari ide karya. Ia mengingat kegiatan bersepeda dan bermain dengan keluarga. Sumber ide itu adalah ....
+**Pertanyaan:** Unsur yang membantu pembaca mengenali apa yang terjadi dalam gambar cerita adalah ....
 
 **Pilihan jawaban:**
-- hanya televisi
-- hanya buku mahal
-- hanya gambar orang lain
-- pengalaman sehari-hari
+- tokoh, tempat, dan tindakan
+- merek alat, harga, dan toko
+- nomor kursi, jam istirahat, dan nilai
+- ukuran tas, makanan, dan cuaca di luar cerita
 
-**Kunci Jawaban:** pengalaman sehari-hari
+**Kunci Jawaban:** tokoh, tempat, dan tindakan
 
-**Pembahasan:** Ide karya dapat berasal dari pengalaman sehari-hari.
+**Pembahasan:** Tokoh, latar tempat, dan tindakan merupakan petunjuk visual penting dalam ilustrasi cerita.
 
 ---
 
 ## Soal 7 — K03-SBD-B03-M01-007
 
-**Pertanyaan:** Gambar rancangan pertama terlihat terlalu penuh. Daripada menyerah, langkah yang baik adalah ....
+**Pertanyaan:** Tiga gambar disusun untuk menunjukkan awal, tengah, dan akhir kejadian. Susunan itu membantu menjelaskan ....
 
 **Pilihan jawaban:**
-- mencoba alternatif dan memperbaiki rancangan
-- langsung menyerah
-- menyalahkan teman
-- merusak alat
+- urutan cerita
+- jenis lem
+- harga karya
+- ukuran gunting
 
-**Kunci Jawaban:** mencoba alternatif dan memperbaiki rancangan
+**Kunci Jawaban:** urutan cerita
 
-**Pembahasan:** Saat ide pertama kurang cocok, kita dapat mencoba alternatif dan memperbaiki rancangan.
+**Pembahasan:** Rangkaian gambar dapat menunjukkan perubahan peristiwa dari awal hingga akhir.
 
 ---
 
 ## Soal 8 — K03-SBD-B03-M01-008
 
-**Pertanyaan:** Untuk menggambarkan suasana hangat, Nina memilih kelompok cat warna ....
+**Pertanyaan:** Saat menggambar halaman sekolah, pengamatan langsung sebaiknya mencatat ....
 
 **Pilihan jawaban:**
-- abu-abu saja
-- merah, oranye, dan kuning
-- biru dan hijau saja
-- hitam dan putih saja
+- bentuk, garis, warna, dan letak benda
+- dugaan tentang harga bangunan
+- nama semua siswa
+- suara dari tempat lain saja
 
-**Kunci Jawaban:** merah, oranye, dan kuning
+**Kunci Jawaban:** bentuk, garis, warna, dan letak benda
 
-**Pembahasan:** Warna hangat mencakup merah, oranye, dan kuning.
+**Pembahasan:** Ciri visual dan posisi benda membantu membuat gambar lingkungan berdasarkan pengamatan.
 
 ---
 
 ## Soal 9 — K03-SBD-B03-M01-009
 
-**Pertanyaan:** Untuk menampilkan kesan sejuk pada gambar taman, Beni dapat memilih warna ....
+**Pertanyaan:** Pohon dalam gambar lingkungan dapat dibangun dengan unsur ....
 
 **Pilihan jawaban:**
-- kuning dan merah
-- cokelat dan oranye
-- biru dan hijau
-- merah dan oranye
+- garis batang, bidang daun, dan warna
+- suara, rasa, dan aroma
+- angka, jam, dan harga
+- gerak tari, nada, dan tempo
 
-**Kunci Jawaban:** biru dan hijau
+**Kunci Jawaban:** garis batang, bidang daun, dan warna
 
-**Pembahasan:** Warna sejuk mencakup biru dan hijau.
+**Pembahasan:** Garis, bidang, bentuk, dan warna dapat digabungkan untuk menggambarkan objek di sekitar.
 
 ---
 
 ## Soal 10 — K03-SBD-B03-M01-010
 
-**Pertanyaan:** Saat menata pohon, jalan, dan matahari di halaman gambar, siswa sedang mengatur ....
+**Pertanyaan:** Sebelum memakai alat pewarna baru pada karya, siswa sebaiknya ....
 
 **Pilihan jawaban:**
-- jenis lem
-- ukuran kuas
-- harga kertas
-- penataan unsur dalam bidang gambar
+- mencobanya pada kertas sisa
+- langsung menekan sekuatnya
+- mencicipi bahannya
+- menggunakannya pada meja
 
-**Kunci Jawaban:** penataan unsur dalam bidang gambar
+**Kunci Jawaban:** mencobanya pada kertas sisa
 
-**Pembahasan:** Komposisi berarti penataan unsur dalam bidang gambar.
+**Pembahasan:** Uji pada kertas sisa menunjukkan warna, jejak, dan tekanan yang sesuai tanpa merusak karya utama.
 
 ---
 
 ## Soal 11 — K03-SBD-B03-M01-011
 
-**Pertanyaan:** Pada poster, gambar keran dibuat paling menonjol supaya mata pengamat tertuju ke sana. Bagian itu berfungsi ....
+**Pertanyaan:** Pasangan alat dan kegunaan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- menarik perhatian utama
-- selalu tersembunyi
-- tidak terlihat
-- harus dihapus
+- krayon untuk memberi warna pada kertas
+- gunting untuk mencampur minuman
+- lem untuk menghapus garis pensil
+- penggaris untuk mewarnai seluruh bidang
 
-**Kunci Jawaban:** menarik perhatian utama
+**Kunci Jawaban:** krayon untuk memberi warna pada kertas
 
-**Pembahasan:** Titik fokus dalam gambar adalah bagian yang menarik perhatian utama.
+**Pembahasan:** Pemilihan alat perlu disesuaikan dengan fungsi dan bahan yang dikerjakan.
 
 ---
 
 ## Soal 12 — K03-SBD-B03-M01-012
 
-**Pertanyaan:** Untuk mengajak warga menghemat air, simbol visual dan teks apa yang tepat disatukan pada poster?
+**Pertanyaan:** Bahan pewarna untuk siswa sebaiknya digunakan ....
 
 **Pilihan jawaban:**
-- gambar tanpa hubungan
-- keran tertutup dan pesan singkat
-- air terbuang tanpa pesan
-- hanya coretan acak
+- sesuai label, petunjuk, dan pendampingan
+- tanpa membaca petunjuk
+- dekat makanan yang sedang dimakan
+- pada kulit untuk menguji warna
 
-**Kunci Jawaban:** keran tertutup dan pesan singkat
+**Kunci Jawaban:** sesuai label, petunjuk, dan pendampingan
 
-**Pembahasan:** Rancangan poster hemat air dapat menampilkan keran tertutup dan pesan singkat.
+**Pembahasan:** Petunjuk penggunaan membantu memastikan bahan dipakai dengan aman dan sesuai tujuan.
 
 ---
 
 ## Soal 13 — K03-SBD-B03-M01-013
 
-**Pertanyaan:** Siswa ingin membuat karya dengan bahan bekas dari rumah. Faktor utama yang harus dipikirkan sebelum memakai bahan adalah ....
+**Pertanyaan:** Cetak stensil menghasilkan jejak bentuk dengan cara ....
 
 **Pilihan jawaban:**
-- warna kemasan saja
-- merek terkenal saja
-- keamanan dan ketersediaan bahan
-- harga paling mahal saja
+- menahan bagian tertentu dari warna menggunakan pola
+- melipat kertas tanpa memberi warna
+- merendam karya dalam air panas
+- menempelkan semua alat pada meja
 
-**Kunci Jawaban:** keamanan dan ketersediaan bahan
+**Kunci Jawaban:** menahan bagian tertentu dari warna menggunakan pola
 
-**Pembahasan:** Memilih bahan berkarya perlu mempertimbangkan keamanan dan ketersediaan bahan.
+**Pembahasan:** Pola stensil menutup sebagian bidang; warna di sekitar pola meninggalkan jejak bentuk setelah pola diangkat.
 
 ---
 
 ## Soal 14 — K03-SBD-B03-M01-014
 
-**Pertanyaan:** Ari melihat karya kakaknya sebagai inspirasi, tetapi menggambar versi idenya sendiri. Sikap tersebut menunjukkan ....
+**Pertanyaan:** Pada kegiatan stensil, pola berfungsi sebagai ....
 
 **Pilihan jawaban:**
-- menyalin karya teman lalu mengaku milik sendiri
-- menghapus nama pembuat
-- meniru tanpa memahami
-- mengembangkan ide sendiri dengan jujur
+- penghalang warna untuk membentuk jejak
+- wadah air minum
+- alat untuk mengukur suhu
+- penghapus semua warna
 
-**Kunci Jawaban:** mengembangkan ide sendiri dengan jujur
+**Kunci Jawaban:** penghalang warna untuk membentuk jejak
 
-**Pembahasan:** Gagasan orisinal berarti mengembangkan ide sendiri dengan jujur.
+**Pembahasan:** Pola atau benda menahan warna pada bagian tertentu sehingga siluet atau jejaknya terlihat.
 
 ---
 
 ## Soal 15 — K03-SBD-B03-M01-015
 
-**Pertanyaan:** Rina membuat tiga rancangan kecil dengan susunan yang berbeda. Apa manfaat membandingkannya?
+**Pertanyaan:** Kertas agak tebal dipilih untuk pola stensil karena ....
 
 **Pilihan jawaban:**
-- membandingkan pilihan komposisi
-- membuat kertas selalu basah
-- menghilangkan ide
-- menghindari belajar
+- lebih kuat saat digunting dan digunakan
+- selalu menghasilkan warna primer
+- dapat menggantikan gunting
+- membuat semua pola sama
 
-**Kunci Jawaban:** membandingkan pilihan komposisi
+**Kunci Jawaban:** lebih kuat saat digunting dan digunakan
 
-**Pembahasan:** Membuat beberapa sketsa kecil membantu membandingkan pilihan komposisi.
+**Pembahasan:** Kertas yang cukup tebal tidak mudah robek ketika dipotong, diletakkan, dan diusap.
 
 ---
 
 ## Soal 16 — K03-SBD-B03-M01-016
 
-**Pertanyaan:** Seorang anak menggambar susunan kasar kursi dan meja untuk rancangan poster, belum menjadi karya akhir. Itu adalah ....
+**Pertanyaan:** Cara menggunakan gunting yang aman pada proyek stensil adalah ....
 
 **Pilihan jawaban:**
-- jenis cat
-- gambar rancangan awal
-- karya yang selalu sudah selesai
-- alat untuk menghapus
+- mengikuti contoh guru dengan gunting anak berujung tumpul
+- berlari sambil membawa gunting terbuka
+- memotong ke arah tangan
+- menyerahkan bagian tajam kepada teman
 
-**Kunci Jawaban:** gambar rancangan awal
+**Kunci Jawaban:** mengikuti contoh guru dengan gunting anak berujung tumpul
 
-**Pembahasan:** Sketsa adalah gambar rancangan awal.
+**Pembahasan:** Pendampingan dan gunting yang sesuai usia membantu mengurangi risiko saat memotong pola.
 
 ---
 
 ## Soal 17 — K03-SBD-B03-M01-017
 
-**Pertanyaan:** Guru meminta tiap kelompok menentukan pesan karya terlebih dahulu agar pilihan gambar terarah. Tahap yang dilakukan ialah ....
+**Pertanyaan:** Setelah bentuk digambar pada kertas tebal, langkah berikutnya dalam stensil sederhana adalah ....
 
 **Pilihan jawaban:**
-- meniru persis karya teman
-- mengabaikan tugas
-- menentukan ide atau tema
-- membuang semua alat
+- menggunting pola sesuai arahan
+- menyiram kertas dengan air
+- menghapus gambar hingga hilang
+- melipat gunting bersama kertas
 
-**Kunci Jawaban:** menentukan ide atau tema
+**Kunci Jawaban:** menggunting pola sesuai arahan
 
-**Pembahasan:** Sebelum membuat karya, langkah awal yang baik adalah menentukan ide atau tema.
+**Pembahasan:** Pola perlu dipotong sebelum diletakkan pada kertas gambar untuk proses pewarnaan.
 
 ---
 
 ## Soal 18 — K03-SBD-B03-M01-018
 
-**Pertanyaan:** Dari ide 'sekolah hijau', anak membuat cabang 'tanaman', 'air bersih', dan 'sampah'. Metode ini menghubungkan ....
+**Pertanyaan:** Agar pola tidak bergeser saat diwarnai, siswa sebaiknya ....
 
 **Pilihan jawaban:**
-- mengeringkan cat
-- memotong kertas
-- mencampur lem
-- mengembangkan hubungan antaride
+- menahannya dengan hati-hati pada posisi tetap
+- menggerakkannya terus-menerus
+- meletakkannya di tepi meja
+- meniupnya saat mengusap
 
-**Kunci Jawaban:** mengembangkan hubungan antaride
+**Kunci Jawaban:** menahannya dengan hati-hati pada posisi tetap
 
-**Pembahasan:** Peta pikiran membantu mengembangkan hubungan antaride.
+**Pembahasan:** Pola yang stabil menghasilkan tepi jejak yang lebih jelas.
 
 ---
 
 ## Soal 19 — K03-SBD-B03-M01-019
 
-**Pertanyaan:** Dalam sketsa tentang menjaga alam, anak ingin memperlihatkan air bersih, pohon, dan pengelolaan sampah. Objek yang cocok adalah ....
+**Pertanyaan:** Pada teknik usap krayon stensil, arah usapan yang dianjurkan adalah ....
 
 **Pilihan jawaban:**
-- pohon, sungai, dan tempat sampah
-- hanya angka acak
-- jadwal kereta
-- daftar harga
+- lembut ke arah luar pola
+- keras menuju tangan
+- acak sambil merobek kertas
+- hanya pada bagian belakang meja
 
-**Kunci Jawaban:** pohon, sungai, dan tempat sampah
+**Kunci Jawaban:** lembut ke arah luar pola
 
-**Pembahasan:** Gambar bertema lingkungan dapat memuat pohon, sungai, dan tempat sampah.
+**Pembahasan:** Usapan lembut ke arah luar membantu warna berpindah dari tepi pola ke bidang gambar.
 
 ---
 
 ## Soal 20 — K03-SBD-B03-M01-020
 
-**Pertanyaan:** Sebelum mencoba melukis dengan cat, Mira menggambar garis tipis pada kertas. Alat praktis yang ia perlukan ialah ....
+**Pertanyaan:** Sesudah warna diusap di sekitar pola, langkah untuk melihat hasilnya adalah ....
 
 **Pilihan jawaban:**
-- pisau tajam
-- pensil dan kertas
-- air mendidih
-- kaca pecah
+- mengangkat pola dengan perlahan
+- menambahkan lem pada gunting
+- menutup karya dengan air
+- menggosok pola sekuatnya
 
-**Kunci Jawaban:** pensil dan kertas
+**Kunci Jawaban:** mengangkat pola dengan perlahan
 
-**Pembahasan:** Bahan yang cocok untuk sketsa awal adalah pensil dan kertas.
+**Pembahasan:** Pola diangkat perlahan agar jejak bentuk tampak dan kertas tidak bergeser atau robek.
 
 ---
 
 ## Soal 21 — K03-SBD-B03-M01-021
 
-**Pertanyaan:** Kegiatan jalan pagi memberi kesan menyenangkan bagi Raka dan ingin digambarkan. Ide tersebut berasal dari ....
+**Pertanyaan:** Bagian yang tertutup pola saat pewarnaan biasanya tampak sebagai ....
 
 **Pilihan jawaban:**
-- hanya buku mahal
-- hanya gambar orang lain
-- pengalaman sehari-hari
-- hanya televisi
+- jejak bentuk yang lebih sedikit terkena warna
+- bidang yang selalu hitam
+- lubang nyata pada meja
+- warna yang sama dengan krayon tanpa perubahan
 
-**Kunci Jawaban:** pengalaman sehari-hari
+**Kunci Jawaban:** jejak bentuk yang lebih sedikit terkena warna
 
-**Pembahasan:** Ide karya dapat berasal dari pengalaman sehari-hari.
+**Pembahasan:** Pola melindungi bidang di bawahnya sehingga siluet atau bentuk negatif dapat terlihat.
 
 ---
 
 ## Soal 22 — K03-SBD-B03-M01-022
 
-**Pertanyaan:** Sebelum mengumpulkan karya, anak melihat tata letak belum jelas. Pilihan terbaik adalah ....
+**Pertanyaan:** Menekan krayon terlalu keras saat mengusap dapat menyebabkan ....
 
 **Pilihan jawaban:**
-- langsung menyerah
-- menyalahkan teman
-- merusak alat
-- mencoba alternatif dan memperbaiki rancangan
+- warna tidak rata atau krayon patah
+- pola otomatis menjadi tiga dimensi
+- kertas berubah menjadi kain
+- semua warna menjadi putih
 
-**Kunci Jawaban:** mencoba alternatif dan memperbaiki rancangan
+**Kunci Jawaban:** warna tidak rata atau krayon patah
 
-**Pembahasan:** Saat ide pertama kurang cocok, kita dapat mencoba alternatif dan memperbaiki rancangan.
+**Pembahasan:** Tekanan berlebihan tidak menjamin hasil lebih baik dan dapat merusak alat atau kertas.
 
 ---
 
 ## Soal 23 — K03-SBD-B03-M01-023
 
-**Pertanyaan:** Anak menyiapkan kombinasi merah, oranye, dan kuning untuk kesan hangat. Kelompok ini dinamakan ....
+**Pertanyaan:** Jika tidak membuat pola potong, alternatif cetak sederhana yang aman adalah ....
 
 **Pilihan jawaban:**
-- merah, oranye, dan kuning
-- biru dan hijau saja
-- hitam dan putih saja
-- abu-abu saja
+- memakai daun bersih atau spons dengan pendampingan
+- menggunakan kaca pecah sebagai pola
+- menyemprot cat berbahaya tanpa pelindung
+- mencelupkan tangan ke bahan tak dikenal
 
-**Kunci Jawaban:** merah, oranye, dan kuning
+**Kunci Jawaban:** memakai daun bersih atau spons dengan pendampingan
 
-**Pembahasan:** Warna hangat mencakup merah, oranye, dan kuning.
+**Pembahasan:** Daun atau spons dapat menghasilkan jejak bentuk dan tekstur dengan bahan yang sesuai serta pendampingan.
 
 ---
 
 ## Soal 24 — K03-SBD-B03-M01-024
 
-**Pertanyaan:** Jika ingin menciptakan nuansa dingin pada air dan pepohonan, contoh warna yang sesuai ialah ....
+**Pertanyaan:** Dua hasil stensil dari pola yang sama tidak harus persis serupa karena ....
 
 **Pilihan jawaban:**
-- cokelat dan oranye
-- biru dan hijau
-- merah dan oranye
-- kuning dan merah
+- tekanan, arah usap, dan pilihan warna dapat berbeda
+- setiap pola selalu berubah ukuran sendiri
+- kertas tidak dapat diberi warna
+- semua siswa wajib memakai cara berbeda
 
-**Kunci Jawaban:** biru dan hijau
+**Kunci Jawaban:** tekanan, arah usap, dan pilihan warna dapat berbeda
 
-**Pembahasan:** Warna sejuk mencakup biru dan hijau.
+**Pembahasan:** Variasi proses dan keputusan visual membuat setiap hasil memiliki ciri sendiri.
 
 ---
 
 ## Soal 25 — K03-SBD-B03-M01-025
 
-**Pertanyaan:** Ketika gambar terkesan timpang, siswa mengubah posisi objek agar lebih nyaman dilihat. Ia memperbaiki ....
+**Pertanyaan:** Merah dan kuning yang dicampur pada latihan cat dasar umumnya menghasilkan ....
 
 **Pilihan jawaban:**
-- ukuran kuas
-- harga kertas
-- penataan unsur dalam bidang gambar
-- jenis lem
+- oranye
+- hijau
+- ungu
+- biru
 
-**Kunci Jawaban:** penataan unsur dalam bidang gambar
+**Kunci Jawaban:** oranye
 
-**Pembahasan:** Komposisi berarti penataan unsur dalam bidang gambar.
+**Pembahasan:** Dalam model pencampuran cat dasar, merah dan kuning menghasilkan oranye.
 
 ---
 
 ## Soal 26 — K03-SBD-B03-M01-026
 
-**Pertanyaan:** Guru meminta siswa memilih bagian yang ingin pertama kali dilihat penonton dalam poster. Bagian ini menjadi ....
+**Pertanyaan:** Ketika memilih warna untuk suasana cerita, siswa sebaiknya ....
 
 **Pilihan jawaban:**
-- selalu tersembunyi
-- tidak terlihat
-- harus dihapus
-- menarik perhatian utama
+- menjelaskan hubungan warna dengan gagasannya
+- menganggap satu warna memiliki arti mutlak
+- meniru pilihan teman tanpa alasan
+- menghapus warna yang berbeda
 
-**Kunci Jawaban:** menarik perhatian utama
+**Kunci Jawaban:** menjelaskan hubungan warna dengan gagasannya
 
-**Pembahasan:** Titik fokus dalam gambar adalah bagian yang menarik perhatian utama.
+**Pembahasan:** Warna dapat menimbulkan kesan, tetapi pilihan terbaik dijelaskan berdasarkan cerita dan keputusan pembuat.
 
 ---
 
 ## Soal 27 — K03-SBD-B03-M01-027
 
-**Pertanyaan:** Siswa membuat poster untuk menutup keran sesudah dipakai. Unsur visual yang paling sesuai adalah ....
+**Pertanyaan:** Setelah kegiatan pewarnaan selesai, tindakan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- keran tertutup dan pesan singkat
-- air terbuang tanpa pesan
-- hanya coretan acak
-- gambar tanpa hubungan
+- membersihkan meja dan menyimpan alat
+- meninggalkan serpihan di lantai
+- membiarkan gunting terbuka
+- mengusap krayon pada dinding
 
-**Kunci Jawaban:** keran tertutup dan pesan singkat
+**Kunci Jawaban:** membersihkan meja dan menyimpan alat
 
-**Pembahasan:** Rancangan poster hemat air dapat menampilkan keran tertutup dan pesan singkat.
+**Pembahasan:** Kebersihan dan penyimpanan alat merupakan bagian dari tanggung jawab berkarya.
 
 ---
 
 ## Soal 28 — K03-SBD-B03-M01-028
 
-**Pertanyaan:** Sebelum mengambil cutter, cat, atau lem, siswa perlu memikirkan ....
+**Pertanyaan:** Pada bingkai karya, hiasan sebaiknya disusun agar ....
 
 **Pilihan jawaban:**
-- merek terkenal saja
-- keamanan dan ketersediaan bahan
-- harga paling mahal saja
-- warna kemasan saja
+- mendukung isi dan tidak menutup bagian utama
+- menutupi seluruh gambar atau foto
+- semua sudut menjadi sangat berat
+- nama pembuat tidak terlihat
 
-**Kunci Jawaban:** keamanan dan ketersediaan bahan
+**Kunci Jawaban:** mendukung isi dan tidak menutup bagian utama
 
-**Pembahasan:** Memilih bahan berkarya perlu mempertimbangkan keamanan dan ketersediaan bahan.
+**Pembahasan:** Bingkai menghias dan menguatkan penyajian tanpa menghalangi bagian utama.
 
 ---
 
 ## Soal 29 — K03-SBD-B03-M01-029
 
-**Pertanyaan:** Sinta belajar dari poster yang dilihatnya tetapi tidak menyalin mentah-mentah. Ia berusaha ....
+**Pertanyaan:** Jika memakai foto keluarga dalam karya kelas, siswa perlu ....
 
 **Pilihan jawaban:**
-- menghapus nama pembuat
-- meniru tanpa memahami
-- mengembangkan ide sendiri dengan jujur
-- menyalin karya teman lalu mengaku milik sendiri
+- memastikan ada izin dan memilih informasi yang nyaman dibagikan
+- mengunggahnya tanpa izin
+- menuliskan alamat rumah lengkap
+- memaksa teman memperlihatkan foto
 
-**Kunci Jawaban:** mengembangkan ide sendiri dengan jujur
+**Kunci Jawaban:** memastikan ada izin dan memilih informasi yang nyaman dibagikan
 
-**Pembahasan:** Gagasan orisinal berarti mengembangkan ide sendiri dengan jujur.
+**Pembahasan:** Foto keluarga termasuk informasi pribadi; izin dan kenyamanan perlu dihormati.
 
 ---
 
 ## Soal 30 — K03-SBD-B03-M01-030
 
-**Pertanyaan:** Untuk menentukan susunan terbaik bagi poster, Bima membuat beberapa kotak rancangan kecil. Tujuannya adalah ....
+**Pertanyaan:** Siswa yang tidak membawa atau tidak ingin memakai foto keluarga dapat ....
 
 **Pilihan jawaban:**
-- membuat kertas selalu basah
-- menghilangkan ide
-- menghindari belajar
-- membandingkan pilihan komposisi
+- membuat gambar orang-orang yang ia anggap dekat
+- dilarang mengikuti kegiatan
+- mengambil foto teman tanpa izin
+- mengosongkan tugas sebagai hukuman
 
-**Kunci Jawaban:** membandingkan pilihan komposisi
+**Kunci Jawaban:** membuat gambar orang-orang yang ia anggap dekat
 
-**Pembahasan:** Membuat beberapa sketsa kecil membantu membandingkan pilihan komposisi.
+**Pembahasan:** Alternatif gambar menjaga tujuan ekspresi dan bercerita tanpa memaksa siswa membuka informasi pribadi.
 
 ---
 
 ## Soal 31 — K03-SBD-B03-M01-031
 
-**Pertanyaan:** Susunan awal bentuk dan teks masih berupa gambar sederhana untuk diuji. Nama rancangan ini adalah ....
+**Pertanyaan:** Bahan hiasan bingkai yang sesuai untuk kelas adalah ....
 
 **Pilihan jawaban:**
-- gambar rancangan awal
-- karya yang selalu sudah selesai
-- alat untuk menghapus
-- jenis cat
+- kertas bersih, pita, atau daun kering yang aman
+- pecahan kaca tajam
+- bahan basah berjamur
+- cairan tanpa label
 
-**Kunci Jawaban:** gambar rancangan awal
+**Kunci Jawaban:** kertas bersih, pita, atau daun kering yang aman
 
-**Pembahasan:** Sketsa adalah gambar rancangan awal.
+**Pembahasan:** Bahan dipilih berdasarkan kebersihan, keamanan, dan kesesuaiannya untuk ditempel.
 
 ---
 
 ## Soal 32 — K03-SBD-B03-M01-032
 
-**Pertanyaan:** Anak memilih tema persahabatan sebelum menentukan tokoh dan warna gambar. Langkah awal itu berarti ....
+**Pertanyaan:** Untuk membandingkan dua cetak stensil, bukti yang dapat diamati adalah ....
 
 **Pilihan jawaban:**
-- mengabaikan tugas
-- menentukan ide atau tema
-- membuang semua alat
-- meniru persis karya teman
+- ketegasan tepi, sebaran warna, dan susunan bentuk
+- nilai ujian pembuat
+- harga tas siswa
+- jumlah kendaraan di luar sekolah
 
-**Kunci Jawaban:** menentukan ide atau tema
+**Kunci Jawaban:** ketegasan tepi, sebaran warna, dan susunan bentuk
 
-**Pembahasan:** Sebelum membuat karya, langkah awal yang baik adalah menentukan ide atau tema.
+**Pembahasan:** Perbandingan karya perlu memakai ciri visual yang tampak, bukan informasi yang tidak berkaitan.
 
 ---
 
 ## Soal 33 — K03-SBD-B03-M01-033
 
-**Pertanyaan:** Pada peta gagasan, setiap cabang menunjukkan alasan sebuah objek cocok dengan tema. Fungsi peta itu adalah ....
+**Pertanyaan:** Komentar apresiasi yang paling tepat setelah melihat stensil teman adalah ....
 
 **Pilihan jawaban:**
-- memotong kertas
-- mencampur lem
-- mengembangkan hubungan antaride
-- mengeringkan cat
+- Jejak daunnya jelas; usapan warna birunya terlihat merata
+- Karyamu harus sama dengan punyaku
+- Warna ini membuktikan kamu malas
+- Buang karya yang tepinya kurang rapi
 
-**Kunci Jawaban:** mengembangkan hubungan antaride
+**Kunci Jawaban:** Jejak daunnya jelas; usapan warna birunya terlihat merata
 
-**Pembahasan:** Peta pikiran membantu mengembangkan hubungan antaride.
+**Pembahasan:** Komentar yang baik menyebut bagian nyata dan menghargai usaha tanpa merendahkan.
 
 ---
 
 ## Soal 34 — K03-SBD-B03-M01-034
 
-**Pertanyaan:** Anak ingin menggambar ajakan menjaga lingkungan. Pilihan objek yang menyampaikan pesan adalah ....
+**Pertanyaan:** Saat mempresentasikan karya warna, siswa sebaiknya menjelaskan ....
 
 **Pilihan jawaban:**
-- hanya angka acak
-- jadwal kereta
-- daftar harga
-- pohon, sungai, dan tempat sampah
+- gagasan, alat, langkah, dan hasil percobaan
+- nilai teman dan peringkat kelas
+- alamat rumah serta nomor telepon
+- harga karya orang lain
 
-**Kunci Jawaban:** pohon, sungai, dan tempat sampah
+**Kunci Jawaban:** gagasan, alat, langkah, dan hasil percobaan
 
-**Pembahasan:** Gambar bertema lingkungan dapat memuat pohon, sungai, dan tempat sampah.
+**Pembahasan:** Presentasi proses membantu pendengar memahami keputusan warna, alat, dan cara karya dibuat.
 
 ---
 
 ## Soal 35 — K03-SBD-B03-M01-035
 
-**Pertanyaan:** Untuk membuat sketsa cepat di meja kelas, pasangan alat yang paling sesuai ialah ....
+**Pertanyaan:** Urutan berkarya yang paling lengkap adalah ....
 
 **Pilihan jawaban:**
-- pensil dan kertas
-- air mendidih
-- kaca pecah
-- pisau tajam
+- mengamati, merancang, menguji bahan, membuat, membersihkan, lalu merefleksi
+- mewarnai meja, memotong tanpa arahan, lalu pergi
+- memilih peringkat, menyalin, lalu menyembunyikan alat
+- mengunggah foto, meminta izin, lalu mengamati
 
-**Kunci Jawaban:** pensil dan kertas
+**Kunci Jawaban:** mengamati, merancang, menguji bahan, membuat, membersihkan, lalu merefleksi
 
-**Pembahasan:** Bahan yang cocok untuk sketsa awal adalah pensil dan kertas.
+**Pembahasan:** Urutan itu menggabungkan gagasan, keselamatan alat/bahan, tanggung jawab, dan refleksi proses.
 
 ---
