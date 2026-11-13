@@ -19,7 +19,7 @@ Pemeriksaan sumber setelah revisi: **360 soal, 360 ID unik, 360 stem unik, empat
 
 **STATUS: REVISI SUMBER SELESAI, AUDIT FINAL BELUM.** Belum dilaksanakan verifikasi bab demi bab terhadap buku resmi, validasi jawaban semantik dan pengecoh, rendering/peninjauan visual penuh pada HP 390 px, uji pembelajaran oleh guru atau siswa, maupun validator Python keseluruhan `scripts/check-k03-question-sources.py`. Perlu pemeriksaan rinci khusus unit senam dan air; jangan langsung konversi JSON.
 
-**Modul pembelajaran:** Unit 1–4 sudah masing-masing memiliki MOD-01 dan MOD-02. Unit 5–8 masih belum memiliki modul dan tetap menjadi kekurangan yang harus diselesaikan.
+**Modul pembelajaran:** Unit 1–5 sudah masing-masing memiliki MOD-01 dan MOD-02. Unit 6–8 masih belum memiliki modul dan tetap menjadi kekurangan yang harus diselesaikan.
 
 Catatan serah-terima dan progres lihat `../PROGRES-REVISI-1945.md` dan `../HANDOVER-KONVERSI-JSON.md`.
 
@@ -55,3 +55,8 @@ Unit 3 selesai diaudit terhadap buku guru resmi. Seluruh 45 soal ditulis ulang u
 ## Audit final Unit 4 — 13 November 2026
 
 Unit 4 selesai diaudit terhadap buku guru resmi. Seluruh 45 soal ditulis ulang karena sumber lama mengulang pola dan belum memusatkan tujuan resmi keseimbangan, sikap lilin, serta lompat kangkang. Sepuluh SVG diganti dengan stimulus fungsional dan dua modul baru dibuat. Instruksi latihan berdiri dengan kepala tidak diberikan sebagai latihan mandiri; sumber menegaskan pengawasan, matras, alat stabil, progresi rendah, area pendaratan kosong, dan penghentian saat nyeri. JSON `pjk-b04.json` dan `pjk-b04a.json` berstatus **STALE_SOURCE_CHANGED**; `pjk-b04-materi.json` perlu dibuat pada tahap konversi terpisah. Uji praktik siswa dan HP/WebView tetap diperlukan.
+
+
+## Audit final Unit 5 — 13 November 2026
+
+Unit 5 selesai diaudit terhadap buku guru resmi. Seluruh 45 soal ditulis ulang untuk menghapus pengulangan definisi dan memperluas cakupan langkah kaki, ayunan lengan, koordinasi, tempo, kreativitas, refleksi, dan keselamatan. Sepuluh SVG diganti dengan stimulus fungsional dan dua modul baru dibuat. Permainan kelompok disajikan tanpa hukuman atau tindakan yang mempermalukan anak. JSON `pjk-b05.json` dan `pjk-b05a.json` berstatus **STALE_SOURCE_CHANGED**; `pjk-b05-materi.json` perlu dibuat pada tahap konversi terpisah. Uji praktik siswa dan HP/WebView tetap diperlukan.

@@ -1,183 +1,184 @@
 # Unit 5 — Aktivitas Gerak Berirama
 
-10 soal bergambar telah direvisi dengan konteks; diagram SVG diproses terpisah dan pemeriksaan visual akhir masih diperlukan.
+10 soal bergambar dengan stimulus fungsional; seluruh butir telah diaudit terhadap variasi langkah kaki, ayunan lengan, koordinasi irama, kerja sama, dan keselamatan. ID dan jumlah dipertahankan.
 
 ## Soal 36 — K03-PJK-B05-M01-036
 
-![Ilustrasi Gerak kelompok berirama](assets/pjk-b05-gambar-01.svg)
+![Jejak kaki kiri dan kanan pada hitungan satu dua](assets/pjk-b05-gambar-01.svg)
 
-**Pertanyaan:** Anak-anak mengikuti hitungan secara bersamaan. Apa yang membantu gerak kelompok tetap serasi?
+**Pertanyaan:** Jejak kaki menunjukkan kiri pada hitungan 1 dan kanan pada hitungan 2. Kaki yang melangkah pada hitungan 2 adalah ....
 
 **Pilihan jawaban:**
-- hanya dilakukan sendiri
-- memerlukan kerja sama dan kekompakan
-- memerlukan saling mengejek
-- harus tanpa aturan
+- kaki kanan
+- kaki kiri
+- kedua kaki bersamaan
+- tidak ada kaki
 
-**Kunci Jawaban:** memerlukan kerja sama dan kekompakan
+**Kunci Jawaban:** kaki kanan
 
-**Pembahasan:** Gerak kelompok berirama: memerlukan kerja sama dan kekompakan.
+**Pembahasan:** Diagram menempatkan jejak kanan pada hitungan dua.
 
 ---
 
 ## Soal 37 — K03-PJK-B05-M01-037
 
-![Ilustrasi Tempo lambat](assets/pjk-b05-gambar-02.svg)
+![Perbandingan berjalan maju dan berjalan di tempat](assets/pjk-b05-gambar-02.svg)
 
-**Pertanyaan:** Panah ketukan berjeda panjang. Bagaimana kecepatan gerak sebaiknya?
+**Pertanyaan:** Dua panel menunjukkan A berjalan maju dan B mengangkat kaki bergantian tanpa berpindah. Panel langkah di tempat adalah ....
 
 **Pilihan jawaban:**
-- gerakan mengikuti ketukan yang lebih pelan
-- gerakan selalu secepat mungkin
-- gerakan berhenti total
-- gerakan tanpa hitungan
+- panel A
+- panel B
+- keduanya berjalan mundur
+- keduanya tanpa gerak kaki
 
-**Kunci Jawaban:** gerakan mengikuti ketukan yang lebih pelan
+**Kunci Jawaban:** panel B
 
-**Pembahasan:** Tempo lambat: gerakan mengikuti ketukan yang lebih pelan.
+**Pembahasan:** Pada panel B posisi tubuh tetap sementara kaki diangkat bergantian.
 
 ---
 
 ## Soal 38 — K03-PJK-B05-M01-038
 
-![Ilustrasi Tempo cepat](assets/pjk-b05-gambar-03.svg)
+![Dua jalur gerak mundur kosong dan terhalang](assets/pjk-b05-gambar-03.svg)
 
-**Pertanyaan:** Ketukan pada diagram semakin rapat. Bagaimana siswa menyesuaikan tempo dengan aman?
+**Pertanyaan:** Diagram jalur mundur menunjukkan pilihan A kosong dan pilihan B terhalang tas. Jalur yang aman digunakan adalah ....
 
 **Pilihan jawaban:**
-- gerakan harus sembarangan
-- gerakan harus di lantai licin
-- gerakan tidak perlu kendali
-- gerakan mengikuti ketukan lebih rapat dengan tetap aman
+- jalur A
+- jalur B
+- keduanya sambil berlari cepat
+- jalur yang paling sempit
 
-**Kunci Jawaban:** gerakan mengikuti ketukan lebih rapat dengan tetap aman
+**Kunci Jawaban:** jalur A
 
-**Pembahasan:** Tempo cepat: gerakan mengikuti ketukan lebih rapat dengan tetap aman.
+**Pembahasan:** Gerak mundur memerlukan ruang belakang yang kosong dari benda.
 
 ---
 
 ## Soal 39 — K03-PJK-B05-M01-039
 
-![Ilustrasi Jarak antarpeserta](assets/pjk-b05-gambar-04.svg)
+![Perbandingan ketukan lambat dan cepat](assets/pjk-b05-gambar-04.svg)
 
-**Pertanyaan:** Dua siswa mengayunkan tangan dekat satu sama lain. Mengapa ruang di antaranya perlu cukup?
+**Pertanyaan:** Pola A memiliki ketukan berjeda panjang, sedangkan pola B ketukannya rapat. Pola dengan tempo lebih lambat adalah ....
 
 **Pilihan jawaban:**
-- tidak perlu diperhatikan
-- harus di lorong sempit
-- perlu cukup agar tidak bertabrakan
-- harus saling menempel
+- pola A
+- pola B
+- keduanya selalu cepat
+- tidak ada pola berirama
 
-**Kunci Jawaban:** perlu cukup agar tidak bertabrakan
+**Kunci Jawaban:** pola A
 
-**Pembahasan:** Jarak antarpeserta: perlu cukup agar tidak bertabrakan.
+**Pembahasan:** Jeda yang lebih panjang antarketukan menunjukkan tempo lebih lambat.
 
 ---
 
 ## Soal 40 — K03-PJK-B05-M01-040
 
-![Ilustrasi Pendinginan setelah bergerak](assets/pjk-b05-gambar-05.svg)
+![Urutan empat hitungan ayunan lengan kanan dan kiri](assets/pjk-b05-gambar-05.svg)
 
-**Pertanyaan:** Gerakan berakhir, lalu siswa menurunkan aktivitas perlahan. Apa tujuan tahap tersebut?
+**Pertanyaan:** Kartu gerak menunjukkan hitungan 1 lengan kanan ke samping, 2 kembali ke depan, 3 lengan kiri ke samping, 4 kembali ke depan. Pada hitungan 3, lengan yang bergerak adalah ....
 
 **Pilihan jawaban:**
-- berarti berhenti bernapas
-- membantu tubuh beralih ke keadaan lebih tenang
-- menggantikan tidur malam
-- membuat tubuh tidak perlu air
+- lengan kiri
+- lengan kanan
+- kedua kaki
+- tidak ada lengan
 
-**Kunci Jawaban:** membantu tubuh beralih ke keadaan lebih tenang
+**Kunci Jawaban:** lengan kiri
 
-**Pembahasan:** Pendinginan setelah bergerak: membantu tubuh beralih ke keadaan lebih tenang.
+**Pembahasan:** Urutan gambar menunjukkan pergantian ke lengan kiri pada hitungan tiga.
 
 ---
 
 ## Soal 41 — K03-PJK-B05-M01-041
 
-![Ilustrasi Gerak berirama](assets/pjk-b05-gambar-06.svg)
+![Pola ayunan lengan kanan kiri pada hitungan ganjil genap](assets/pjk-b05-gambar-06.svg)
 
-**Pertanyaan:** Anak bergerak mengikuti bunyi tepuk yang teratur. Jenis gerak apakah ini?
+**Pertanyaan:** Diagram panah menunjukkan kedua lengan bergantian ke kanan pada hitungan ganjil dan ke kiri pada hitungan genap. Arah hitungan 7 adalah ....
 
 **Pilihan jawaban:**
-- gerakan tubuh mengikuti irama atau ketukan
-- gerak tanpa memperhatikan irama
-- hanya duduk diam
-- hanya melempar bola
+- kanan
+- kiri
+- atas
+- bawah
 
-**Kunci Jawaban:** gerakan tubuh mengikuti irama atau ketukan
+**Kunci Jawaban:** kanan
 
-**Pembahasan:** Gerak berirama: gerakan tubuh mengikuti irama atau ketukan.
+**Pembahasan:** Tujuh adalah hitungan ganjil sehingga ayunan mengarah ke kanan.
 
 ---
 
 ## Soal 42 — K03-PJK-B05-M01-042
 
-![Ilustrasi Tepuk tangan sesuai ketukan](assets/pjk-b05-gambar-07.svg)
+![Perbandingan ayunan dengan lutut lentur dan kaku](assets/pjk-b05-gambar-07.svg)
 
-**Pertanyaan:** Siswa menggunakan tepukan untuk menjaga urutan bunyi. Fungsinya ialah ....
+**Pertanyaan:** Dua panel memperlihatkan ayunan depan–belakang. Panel A menekuk lutut ringan, panel B mengunci lutut. Cara yang lebih lentur adalah ....
 
 **Pilihan jawaban:**
-- menggantikan minum
-- menyebabkan harus berlari
-- menjadi gerak renang
-- membantu mengikuti pola irama
+- panel A
+- panel B
+- keduanya harus melompat
+- keduanya harus jongkok penuh
 
-**Kunci Jawaban:** membantu mengikuti pola irama
+**Kunci Jawaban:** panel A
 
-**Pembahasan:** Tepuk tangan sesuai ketukan: membantu mengikuti pola irama.
+**Pembahasan:** Tekukan lutut ringan membantu mengikuti ayunan tanpa mengunci sendi.
 
 ---
 
 ## Soal 43 — K03-PJK-B05-M01-043
 
-![Ilustrasi Langkah ke kanan dan kiri](assets/pjk-b05-gambar-08.svg)
+![Denah jarak aman kelompok gerak berirama](assets/pjk-b05-gambar-08.svg)
 
-**Pertanyaan:** Panah mengarah ke kanan lalu ke kiri. Bagaimana langkah dilakukan?
+**Pertanyaan:** Pada denah kelompok, jarak antaranak lebih lebar daripada jangkauan lengan. Manfaat pengaturan itu adalah ....
 
 **Pilihan jawaban:**
-- dilakukan tanpa melihat sekitar
-- harus sangat cepat
-- dilakukan mengikuti hitungan dengan ruang aman
-- dilakukan sambil mendorong teman
+- mengurangi risiko tangan saling mengenai
+- membuat anak tidak mendengar hitungan
+- memaksa semua bergerak lebih cepat
+- menghilangkan kebutuhan pemanasan
 
-**Kunci Jawaban:** dilakukan mengikuti hitungan dengan ruang aman
+**Kunci Jawaban:** mengurangi risiko tangan saling mengenai
 
-**Pembahasan:** Langkah ke kanan dan kiri: dilakukan mengikuti hitungan dengan ruang aman.
+**Pembahasan:** Jarak yang cukup menyediakan ruang untuk ayunan lengan.
 
 ---
 
 ## Soal 44 — K03-PJK-B05-M01-044
 
-![Ilustrasi Ayunan lengan berirama](assets/pjk-b05-gambar-09.svg)
+![Kartu urutan empat gerak berirama](assets/pjk-b05-gambar-09.svg)
 
-**Pertanyaan:** Lengan bergerak setiap ketukan musik. Bagaimana seharusnya ayunannya?
+**Pertanyaan:** Empat kartu bertuliskan langkah di tempat, ayun kanan, ayun kiri, lalu kembali siap. Jika rangkaian dibaca dari kiri ke kanan, gerak ketiga adalah ....
 
 **Pilihan jawaban:**
-- tidak perlu terkendali
-- disesuaikan dengan ketukan musik
-- selalu melawan ketukan
-- dilakukan sambil memukul teman
+- ayun kiri
+- langkah di tempat
+- ayun kanan
+- kembali siap
 
-**Kunci Jawaban:** disesuaikan dengan ketukan musik
+**Kunci Jawaban:** ayun kiri
 
-**Pembahasan:** Ayunan lengan berirama: disesuaikan dengan ketukan musik.
+**Pembahasan:** Kartu ketiga pada urutan adalah ayun kiri.
 
 ---
 
 ## Soal 45 — K03-PJK-B05-M01-045
 
-![Ilustrasi Hitungan satu sampai empat](assets/pjk-b05-gambar-10.svg)
+![Tabel hasil tiga percobaan gerak serempak](assets/pjk-b05-gambar-10.svg)
 
-**Pertanyaan:** Angka 1, 2, 3, 4 muncul berurutan. Apa fungsi urutan dalam latihan?
+**Pertanyaan:** Tabel mencatat perpindahan serempak: percobaan 1 = 4, percobaan 2 = 6, percobaan 3 = 7. Hasil tertinggi terdapat pada ....
 
 **Pilihan jawaban:**
-- membantu mengatur urutan gerak
-- menentukan ukuran sepatu
-- mengganti pemanasan
-- mengubah tinggi badan
+- percobaan 1
+- percobaan 2
+- percobaan 3
+- semua sama
 
-**Kunci Jawaban:** membantu mengatur urutan gerak
+**Kunci Jawaban:** percobaan 3
 
-**Pembahasan:** Hitungan satu sampai empat: membantu mengatur urutan gerak.
+**Pembahasan:** Nilai tertinggi pada tabel adalah tujuh di percobaan ketiga.
 
 ---
+

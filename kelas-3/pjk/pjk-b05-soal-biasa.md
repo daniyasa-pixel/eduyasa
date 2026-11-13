@@ -1,563 +1,564 @@
 # Unit 5 — Aktivitas Gerak Berirama
 
-35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
+35 soal teks; seluruh butir telah diaudit terhadap variasi langkah kaki, ayunan lengan, koordinasi irama, kerja sama, dan keselamatan. ID dan jumlah dipertahankan.
 
 ## Soal 1 — K03-PJK-B05-M01-001
 
-**Pertanyaan:** Guru menghitung satu-dua-tiga-empat, siswa bergerak sesuai hitungan. Kegiatan itu adalah ....
+**Pertanyaan:** Gerak berirama adalah rangkaian gerak yang dilakukan ....
 
 **Pilihan jawaban:**
-- gerakan tubuh mengikuti irama atau ketukan
-- gerak tanpa memperhatikan irama
-- hanya duduk diam
-- hanya melempar bola
+- mengikuti irama atau hitungan teratur
+- tanpa urutan dan tanpa kendali
+- hanya ketika musik sangat cepat
+- dengan memejamkan mata
 
-**Kunci Jawaban:** gerakan tubuh mengikuti irama atau ketukan
+**Kunci Jawaban:** mengikuti irama atau hitungan teratur
 
-**Pembahasan:** Gerak berirama: gerakan tubuh mengikuti irama atau ketukan.
+**Pembahasan:** Irama dapat berasal dari hitungan, tepukan, atau musik yang membantu mengatur waktu gerak.
 
 ---
 
 ## Soal 2 — K03-PJK-B05-M01-002
 
-**Pertanyaan:** Anak-anak bertepuk pada ketukan kedua dan keempat. Fungsi tepuk itu adalah ....
+**Pertanyaan:** Kelas tidak memiliki pemutar musik. Gerak berirama tetap dapat dilakukan dengan ....
 
 **Pilihan jawaban:**
-- menggantikan minum
-- menyebabkan harus berlari
-- menjadi gerak renang
-- membantu mengikuti pola irama
+- hitungan atau tepukan yang teratur
+- teriakan acak dari setiap kelompok
+- berlari tanpa aba-aba
+- menunggu sampai ada musik
 
-**Kunci Jawaban:** membantu mengikuti pola irama
+**Kunci Jawaban:** hitungan atau tepukan yang teratur
 
-**Pembahasan:** Tepuk tangan sesuai ketukan: membantu mengikuti pola irama.
+**Pembahasan:** Musik bukan satu-satunya pengiring; hitungan dan tepukan juga dapat menjadi irama.
 
 ---
 
 ## Soal 3 — K03-PJK-B05-M01-003
 
-**Pertanyaan:** Guru memberi aba-aba dua langkah ke kanan lalu dua ke kiri. Cara yang sesuai adalah ....
+**Pertanyaan:** Pada pola satu–dua, kaki kiri melangkah pada hitungan satu dan kaki kanan pada hitungan dua. Tujuan pola itu adalah ....
 
 **Pilihan jawaban:**
-- dilakukan tanpa melihat sekitar
-- harus sangat cepat
-- dilakukan mengikuti hitungan dengan ruang aman
-- dilakukan sambil mendorong teman
+- mengatur pergantian langkah secara teratur
+- membuat satu kaki bekerja terus
+- menghilangkan kebutuhan melihat arah
+- membuat semua anak bergerak sama cepat
 
-**Kunci Jawaban:** dilakukan mengikuti hitungan dengan ruang aman
+**Kunci Jawaban:** mengatur pergantian langkah secara teratur
 
-**Pembahasan:** Langkah ke kanan dan kiri: dilakukan mengikuti hitungan dengan ruang aman.
+**Pembahasan:** Hitungan satu–dua membantu mengatur pergantian kaki kiri dan kanan.
 
 ---
 
 ## Soal 4 — K03-PJK-B05-M01-004
 
-**Pertanyaan:** Siswa menggerakkan lengan setiap bunyi ketukan. Bagaimana gerakan itu diatur?
+**Pertanyaan:** Kelompok berlatih berjalan ke depan dengan langkah biasa. Sebelum mulai, mereka perlu ....
 
 **Pilihan jawaban:**
-- tidak perlu terkendali
-- disesuaikan dengan ketukan musik
-- selalu melawan ketukan
-- dilakukan sambil memukul teman
+- memastikan jalur depan kosong dan mengikuti hitungan
+- berdiri saling berhimpitan
+- melangkah tanpa melihat arah
+- berlari mendahului pemimpin
 
-**Kunci Jawaban:** disesuaikan dengan ketukan musik
+**Kunci Jawaban:** memastikan jalur depan kosong dan mengikuti hitungan
 
-**Pembahasan:** Ayunan lengan berirama: disesuaikan dengan ketukan musik.
+**Pembahasan:** Jalur yang kosong dan hitungan bersama membantu gerak maju berlangsung aman dan teratur.
 
 ---
 
 ## Soal 5 — K03-PJK-B05-M01-005
 
-**Pertanyaan:** Guru memberi urutan empat hitungan untuk latihan kelompok. Tujuannya ialah ....
+**Pertanyaan:** Saat berjalan di tempat, kaki kiri dan kanan diangkat bergantian tetapi tubuh tidak maju. Ciri itu menunjukkan ....
 
 **Pilihan jawaban:**
-- membantu mengatur urutan gerak
-- menentukan ukuran sepatu
-- mengganti pemanasan
-- mengubah tinggi badan
+- langkah di tempat
+- lari mundur
+- ayunan lengan ke samping
+- lompatan melewati rintangan
 
-**Kunci Jawaban:** membantu mengatur urutan gerak
+**Kunci Jawaban:** langkah di tempat
 
-**Pembahasan:** Hitungan satu sampai empat: membantu mengatur urutan gerak.
+**Pembahasan:** Pada langkah di tempat, kaki bergerak bergantian sementara posisi tubuh tetap di area yang sama.
 
 ---
 
 ## Soal 6 — K03-PJK-B05-M01-006
 
-**Pertanyaan:** Kelompok bergerak dengan waktu yang sama, bukan saling mendahului. Apa kemampuan yang dibutuhkan?
+**Pertanyaan:** Langkah tegap dilakukan dengan sikap badan tegak dan pandangan ....
 
 **Pilihan jawaban:**
-- memerlukan saling mengejek
-- harus tanpa aturan
-- hanya dilakukan sendiri
-- memerlukan kerja sama dan kekompakan
+- lurus ke depan
+- terus melihat kaki teman
+- ke belakang sepanjang latihan
+- dipejamkan mengikuti musik
 
-**Kunci Jawaban:** memerlukan kerja sama dan kekompakan
+**Kunci Jawaban:** lurus ke depan
 
-**Pembahasan:** Gerak kelompok berirama: memerlukan kerja sama dan kekompakan.
+**Pembahasan:** Pandangan ke depan membantu arah gerak dan jarak dengan peserta lain.
 
 ---
 
 ## Soal 7 — K03-PJK-B05-M01-007
 
-**Pertanyaan:** Ketukan musik terdengar berjeda panjang. Bagaimana tempo gerak siswa?
+**Pertanyaan:** Sebelum berjalan mundur mengikuti irama, tindakan paling penting adalah ....
 
 **Pilihan jawaban:**
-- gerakan berhenti total
-- gerakan tanpa hitungan
-- gerakan mengikuti ketukan yang lebih pelan
-- gerakan selalu secepat mungkin
+- memeriksa ruang di belakang dan bergerak perlahan
+- mempercepat langkah tanpa menoleh
+- menutup mata agar tidak takut
+- berdiri sedekat mungkin dengan dinding
 
-**Kunci Jawaban:** gerakan mengikuti ketukan yang lebih pelan
+**Kunci Jawaban:** memeriksa ruang di belakang dan bergerak perlahan
 
-**Pembahasan:** Tempo lambat: gerakan mengikuti ketukan yang lebih pelan.
+**Pembahasan:** Gerak mundur memerlukan jalur belakang yang benar-benar kosong serta kecepatan terkendali.
 
 ---
 
 ## Soal 8 — K03-PJK-B05-M01-008
 
-**Pertanyaan:** Guru mempercepat ketukan tetapi tetap menjaga gerakan aman. Penjelasannya adalah ....
+**Pertanyaan:** Pada lari di tempat, lutut diangkat bergantian mengikuti hitungan satu–dua. Tubuh seharusnya ....
 
 **Pilihan jawaban:**
-- gerakan tidak perlu kendali
-- gerakan mengikuti ketukan lebih rapat dengan tetap aman
-- gerakan harus sembarangan
-- gerakan harus di lantai licin
+- tetap berada dalam ruang latihan sendiri
+- terus maju hingga keluar barisan
+- berputar tanpa aba-aba
+- mendekati teman di depan
 
-**Kunci Jawaban:** gerakan mengikuti ketukan lebih rapat dengan tetap aman
+**Kunci Jawaban:** tetap berada dalam ruang latihan sendiri
 
-**Pembahasan:** Tempo cepat: gerakan mengikuti ketukan lebih rapat dengan tetap aman.
+**Pembahasan:** Lari di tempat dilakukan tanpa berpindah sehingga jarak antarpeserta tetap terjaga.
 
 ---
 
 ## Soal 9 — K03-PJK-B05-M01-009
 
-**Pertanyaan:** Saat mengayunkan lengan, tangan siswa hampir mengenai teman. Apa yang harus diperbaiki?
+**Pertanyaan:** Saat berlari maju berirama, anak perlu menyesuaikan panjang langkah dengan ....
 
 **Pilihan jawaban:**
-- perlu cukup agar tidak bertabrakan
-- harus saling menempel
-- tidak perlu diperhatikan
-- harus di lorong sempit
+- kecepatan hitungan dan ruang yang tersedia
+- tinggi badan teman paling depan
+- suara paling keras di kelas
+- keinginan untuk selalu menang
 
-**Kunci Jawaban:** perlu cukup agar tidak bertabrakan
+**Kunci Jawaban:** kecepatan hitungan dan ruang yang tersedia
 
-**Pembahasan:** Jarak antarpeserta: perlu cukup agar tidak bertabrakan.
+**Pembahasan:** Panjang langkah disesuaikan agar irama dapat diikuti tanpa keluar jalur atau bertabrakan.
 
 ---
 
 ## Soal 10 — K03-PJK-B05-M01-010
 
-**Pertanyaan:** Selesai latihan berirama, guru mengajak peserta mengurangi gerak perlahan. Tujuan kegiatan ini adalah ....
+**Pertanyaan:** Jika ruang belakang sempit, variasi aman untuk mengganti lari mundur adalah ....
 
 **Pilihan jawaban:**
-- menggantikan tidur malam
-- membuat tubuh tidak perlu air
-- berarti berhenti bernapas
-- membantu tubuh beralih ke keadaan lebih tenang
+- lari di tempat mengikuti hitungan
+- tetap lari mundur secepat mungkin
+- melompat ke arah teman
+- berjalan mundur sambil memejamkan mata
 
-**Kunci Jawaban:** membantu tubuh beralih ke keadaan lebih tenang
+**Kunci Jawaban:** lari di tempat mengikuti hitungan
 
-**Pembahasan:** Pendinginan setelah bergerak: membantu tubuh beralih ke keadaan lebih tenang.
+**Pembahasan:** Latihan dapat dimodifikasi menjadi lari di tempat ketika jalur mundur tidak aman.
 
 ---
 
 ## Soal 11 — K03-PJK-B05-M01-011
 
-**Pertanyaan:** Siswa menyesuaikan langkah dengan musik yang diputar pelan. Penjelasan gerak yang sesuai ialah ....
+**Pertanyaan:** Ketukan berubah menjadi lebih lambat. Penyesuaian gerak yang tepat adalah ....
 
 **Pilihan jawaban:**
-- hanya duduk diam
-- hanya melempar bola
-- gerakan tubuh mengikuti irama atau ketukan
-- gerak tanpa memperhatikan irama
+- memperlambat langkah dan ayunan sesuai ketukan
+- tetap bergerak secepat sebelumnya
+- berhenti tanpa menunggu aba-aba
+- menambah lebar ayunan sampai mengenai teman
 
-**Kunci Jawaban:** gerakan tubuh mengikuti irama atau ketukan
+**Kunci Jawaban:** memperlambat langkah dan ayunan sesuai ketukan
 
-**Pembahasan:** Gerak berirama: gerakan tubuh mengikuti irama atau ketukan.
+**Pembahasan:** Tempo gerak mengikuti jarak antar ketukan.
 
 ---
 
 ## Soal 12 — K03-PJK-B05-M01-012
 
-**Pertanyaan:** Ketika ketukan sulit diikuti, guru meminta siswa menepuk tangan sesuai pola. Manfaatnya ialah ....
+**Pertanyaan:** Ketukan menjadi lebih cepat, tetapi seorang anak mulai kehilangan kendali. Ia sebaiknya ....
 
 **Pilihan jawaban:**
-- menjadi gerak renang
-- membantu mengikuti pola irama
-- menggantikan minum
-- menyebabkan harus berlari
+- mengecilkan gerak atau kembali ke tempo yang mampu diikuti
+- memaksa bergerak lebih lebar
+- berlari keluar dari barisan
+- mengikuti teman tanpa melihat ruang
 
-**Kunci Jawaban:** membantu mengikuti pola irama
+**Kunci Jawaban:** mengecilkan gerak atau kembali ke tempo yang mampu diikuti
 
-**Pembahasan:** Tepuk tangan sesuai ketukan: membantu mengikuti pola irama.
+**Pembahasan:** Kendali dan keselamatan lebih penting daripada mengikuti tempo yang terlalu cepat.
 
 ---
 
 ## Soal 13 — K03-PJK-B05-M01-013
 
-**Pertanyaan:** Agar tidak bertabrakan saat berpindah ke sisi, gerak langkah perlu ....
+**Pertanyaan:** Tepukan berbunyi teratur: tepuk–diam–tepuk–diam. Pola ini berfungsi sebagai ....
 
 **Pilihan jawaban:**
-- dilakukan mengikuti hitungan dengan ruang aman
-- dilakukan sambil mendorong teman
-- dilakukan tanpa melihat sekitar
-- harus sangat cepat
+- penanda waktu gerak
+- pengganti pemanasan sepenuhnya
+- tanda untuk saling mendorong
+- alat menentukan tinggi badan
 
-**Kunci Jawaban:** dilakukan mengikuti hitungan dengan ruang aman
+**Kunci Jawaban:** penanda waktu gerak
 
-**Pembahasan:** Langkah ke kanan dan kiri: dilakukan mengikuti hitungan dengan ruang aman.
+**Pembahasan:** Pola bunyi teratur memberi tanda kapan gerakan dimulai atau berubah.
 
 ---
 
 ## Soal 14 — K03-PJK-B05-M01-014
 
-**Pertanyaan:** Musik menjadi lebih lambat. Bagaimana ayunan lengan seharusnya menyesuaikan?
+**Pertanyaan:** Kelompok lupa rangkaian empat gerak. Cara membantu mengingat yang paling tepat adalah ....
 
 **Pilihan jawaban:**
-- selalu melawan ketukan
-- dilakukan sambil memukul teman
-- tidak perlu terkendali
-- disesuaikan dengan ketukan musik
+- pasangkan setiap gerak dengan nomor hitungan
+- ubah urutan setiap kali mencoba
+- biarkan semua bergerak sendiri
+- percepat musik agar lekas selesai
 
-**Kunci Jawaban:** disesuaikan dengan ketukan musik
+**Kunci Jawaban:** pasangkan setiap gerak dengan nomor hitungan
 
-**Pembahasan:** Ayunan lengan berirama: disesuaikan dengan ketukan musik.
+**Pembahasan:** Menghubungkan gerak dengan hitungan membantu mengingat urutan.
 
 ---
 
 ## Soal 15 — K03-PJK-B05-M01-015
 
-**Pertanyaan:** Ketika kelompok lupa urutan, guru mengulang hitungan 1 sampai 4. Hitungan membantu ....
+**Pertanyaan:** Koordinasi langkah kaki dan ayunan lengan berarti ....
 
 **Pilihan jawaban:**
-- mengganti pemanasan
-- mengubah tinggi badan
-- membantu mengatur urutan gerak
-- menentukan ukuran sepatu
+- kaki dan lengan bekerja sesuai pola waktu yang disepakati
+- lengan bergerak tanpa memperhatikan kaki
+- kaki berhenti ketika lengan bergerak
+- semua bagian tubuh harus bergerak sekuat mungkin
 
-**Kunci Jawaban:** membantu mengatur urutan gerak
+**Kunci Jawaban:** kaki dan lengan bekerja sesuai pola waktu yang disepakati
 
-**Pembahasan:** Hitungan satu sampai empat: membantu mengatur urutan gerak.
+**Pembahasan:** Koordinasi menyatukan dua bagian gerak dalam urutan dan waktu yang sesuai.
 
 ---
 
 ## Soal 16 — K03-PJK-B05-M01-016
 
-**Pertanyaan:** Dua teman berbeda kecepatan geraknya. Apa yang perlu dilakukan supaya serasi?
+**Pertanyaan:** Pada hitungan satu, lengan kanan diayun dari depan ke samping setinggi bahu. Pada hitungan dua, lengan kanan ....
 
 **Pilihan jawaban:**
-- hanya dilakukan sendiri
-- memerlukan kerja sama dan kekompakan
-- memerlukan saling mengejek
-- harus tanpa aturan
+- kembali ke depan secara terkendali
+- terus naik melewati batas nyaman
+- menarik lengan teman
+- diam di belakang badan
 
-**Kunci Jawaban:** memerlukan kerja sama dan kekompakan
+**Kunci Jawaban:** kembali ke depan secara terkendali
 
-**Pembahasan:** Gerak kelompok berirama: memerlukan kerja sama dan kekompakan.
+**Pembahasan:** Pola ayunan setinggi bahu kembali ke posisi depan pada hitungan berikutnya.
 
 ---
 
 ## Soal 17 — K03-PJK-B05-M01-017
 
-**Pertanyaan:** Guru mengurangi kecepatan hitungan. Tindakan peserta yang benar adalah ....
+**Pertanyaan:** Setelah lengan kanan bergerak pada hitungan satu–dua, giliran lengan kiri dilakukan pada ....
 
 **Pilihan jawaban:**
-- gerakan mengikuti ketukan yang lebih pelan
-- gerakan selalu secepat mungkin
-- gerakan berhenti total
-- gerakan tanpa hitungan
+- hitungan tiga–empat
+- hitungan satu lagi tanpa jeda
+- setelah latihan selesai
+- waktu yang dipilih sendiri
 
-**Kunci Jawaban:** gerakan mengikuti ketukan yang lebih pelan
+**Kunci Jawaban:** hitungan tiga–empat
 
-**Pembahasan:** Tempo lambat: gerakan mengikuti ketukan yang lebih pelan.
+**Pembahasan:** Urutan resmi berganti dari lengan kanan ke kiri pada hitungan tiga dan empat.
 
 ---
 
 ## Soal 18 — K03-PJK-B05-M01-018
 
-**Pertanyaan:** Ketukan musik semakin rapat. Bagaimana siswa menyesuaikan gerak tanpa terburu-buru berbahaya?
+**Pertanyaan:** Ayunan satu lengan ke atas dilakukan melalui arah depan lalu kembali. Geraknya harus ....
 
 **Pilihan jawaban:**
-- gerakan harus sembarangan
-- gerakan harus di lantai licin
-- gerakan tidak perlu kendali
-- gerakan mengikuti ketukan lebih rapat dengan tetap aman
+- terkendali dan dalam batas nyaman bahu
+- secepat mungkin sampai bahu sakit
+- disertai putaran leher paksa
+- mengenai tangan peserta di depan
 
-**Kunci Jawaban:** gerakan mengikuti ketukan lebih rapat dengan tetap aman
+**Kunci Jawaban:** terkendali dan dalam batas nyaman bahu
 
-**Pembahasan:** Tempo cepat: gerakan mengikuti ketukan lebih rapat dengan tetap aman.
+**Pembahasan:** Ayunan mengikuti jalur yang dicontohkan tanpa memaksa sendi melewati batas nyaman.
 
 ---
 
 ## Soal 19 — K03-PJK-B05-M01-019
 
-**Pertanyaan:** Guru mengatur posisi barisan agar ada ruang untuk gerak ke samping. Tujuannya adalah ....
+**Pertanyaan:** Pada ayunan kanan–kiri, hitungan ganjil mengarah ke kanan dan hitungan genap mengarah ke kiri. Ayunan hitungan enam menuju ....
 
 **Pilihan jawaban:**
-- tidak perlu diperhatikan
-- harus di lorong sempit
-- perlu cukup agar tidak bertabrakan
-- harus saling menempel
+- kiri
+- kanan
+- atas
+- depan
 
-**Kunci Jawaban:** perlu cukup agar tidak bertabrakan
+**Kunci Jawaban:** kiri
 
-**Pembahasan:** Jarak antarpeserta: perlu cukup agar tidak bertabrakan.
+**Pembahasan:** Enam adalah hitungan genap sehingga arah ayunan sesuai pola menuju kiri.
 
 ---
 
 ## Soal 20 — K03-PJK-B05-M01-020
 
-**Pertanyaan:** Setelah musik berhenti, siswa melakukan pendinginan, bukan langsung lari lagi. Manfaatnya adalah ....
+**Pertanyaan:** Ketika kedua lengan diayun ke depan dan belakang, lutut dapat ditekuk ringan mengikuti irama. Tekukan lutut harus ....
 
 **Pilihan jawaban:**
-- berarti berhenti bernapas
-- membantu tubuh beralih ke keadaan lebih tenang
-- menggantikan tidur malam
-- membuat tubuh tidak perlu air
+- lentur dan tidak dipaksakan terlalu dalam
+- dikunci lurus sepanjang gerak
+- dibuat sampai terasa nyeri
+- dilakukan hanya pada satu kaki
 
-**Kunci Jawaban:** membantu tubuh beralih ke keadaan lebih tenang
+**Kunci Jawaban:** lentur dan tidak dipaksakan terlalu dalam
 
-**Pembahasan:** Pendinginan setelah bergerak: membantu tubuh beralih ke keadaan lebih tenang.
+**Pembahasan:** Tekukan ringan membantu mengikuti irama, tetapi kedalaman gerak disesuaikan kemampuan.
 
 ---
 
 ## Soal 21 — K03-PJK-B05-M01-021
 
-**Pertanyaan:** Apa ciri utama aktivitas gerak mengikuti pola ketukan?
+**Pertanyaan:** Ayunan lengan ke samping dapat disertai pemindahan berat badan. Jika lengan bergerak ke kanan, tubuh dapat ....
 
 **Pilihan jawaban:**
-- gerakan tubuh mengikuti irama atau ketukan
-- gerak tanpa memperhatikan irama
-- hanya duduk diam
-- hanya melempar bola
+- memindahkan berat secara terkendali ke arah kanan
+- menjatuhkan diri ke kiri
+- mengangkat kedua kaki bersamaan
+- memutar kepala secepat mungkin
 
-**Kunci Jawaban:** gerakan tubuh mengikuti irama atau ketukan
+**Kunci Jawaban:** memindahkan berat secara terkendali ke arah kanan
 
-**Pembahasan:** Gerak berirama: gerakan tubuh mengikuti irama atau ketukan.
+**Pembahasan:** Pemindahan berat badan mendukung arah ayunan selama tetap seimbang.
 
 ---
 
 ## Soal 22 — K03-PJK-B05-M01-022
 
-**Pertanyaan:** Mengapa tepuk tangan dapat membantu siswa menjaga irama bersama?
+**Pertanyaan:** Saat mengayun lengan, bahu sebaiknya ....
 
 **Pilihan jawaban:**
-- menggantikan minum
-- menyebabkan harus berlari
-- menjadi gerak renang
-- membantu mengikuti pola irama
+- rileks dan tidak diangkat tegang
+- ditarik paksa ke belakang
+- diputar sampai terasa sakit
+- dikunci agar tidak bergerak
 
-**Kunci Jawaban:** membantu mengikuti pola irama
+**Kunci Jawaban:** rileks dan tidak diangkat tegang
 
-**Pembahasan:** Tepuk tangan sesuai ketukan: membantu mengikuti pola irama.
+**Pembahasan:** Bahu yang rileks membantu ayunan lebih wajar dan mengurangi ketegangan.
 
 ---
 
 ## Soal 23 — K03-PJK-B05-M01-023
 
-**Pertanyaan:** Saat menghitung langkah kanan-kiri, apa hal yang perlu dijaga?
+**Pertanyaan:** Seorang anak hanya nyaman mengangkat lengan sampai setinggi dada. Penyesuaian yang tepat adalah ....
 
 **Pilihan jawaban:**
-- dilakukan tanpa melihat sekitar
-- harus sangat cepat
-- dilakukan mengikuti hitungan dengan ruang aman
-- dilakukan sambil mendorong teman
+- gunakan jangkauan nyaman sambil memperbaiki bertahap
+- paksa sampai di atas kepala
+- hentikan anak dari seluruh kegiatan
+- minta teman menarik lengannya
 
-**Kunci Jawaban:** dilakukan mengikuti hitungan dengan ruang aman
+**Kunci Jawaban:** gunakan jangkauan nyaman sambil memperbaiki bertahap
 
-**Pembahasan:** Langkah ke kanan dan kiri: dilakukan mengikuti hitungan dengan ruang aman.
+**Pembahasan:** Jangkauan gerak dapat disesuaikan; peningkatan dilakukan bertahap tanpa paksaan.
 
 ---
 
 ## Soal 24 — K03-PJK-B05-M01-024
 
-**Pertanyaan:** Saat latihan lengan berirama, gerak tepat mengikuti apa?
+**Pertanyaan:** Agar ayunan lengan tidak mengenai teman, setiap anak perlu ....
 
 **Pilihan jawaban:**
-- tidak perlu terkendali
-- disesuaikan dengan ketukan musik
-- selalu melawan ketukan
-- dilakukan sambil memukul teman
+- memiliki ruang gerak dan jarak yang cukup
+- berdiri dengan bahu saling menempel
+- membuat ayunan selebar mungkin
+- menghadap arah yang berbeda tanpa aturan
 
-**Kunci Jawaban:** disesuaikan dengan ketukan musik
+**Kunci Jawaban:** memiliki ruang gerak dan jarak yang cukup
 
-**Pembahasan:** Ayunan lengan berirama: disesuaikan dengan ketukan musik.
+**Pembahasan:** Jarak antar peserta harus lebih lebar daripada jangkauan ayunan.
 
 ---
 
 ## Soal 25 — K03-PJK-B05-M01-025
 
-**Pertanyaan:** Mengapa urutan angka dipakai dalam latihan gerak berirama?
+**Pertanyaan:** Permukaan untuk latihan gerak berirama sebaiknya ....
 
 **Pilihan jawaban:**
-- membantu mengatur urutan gerak
-- menentukan ukuran sepatu
-- mengganti pemanasan
-- mengubah tinggi badan
+- rata, kering, dan bebas benda berserakan
+- basah agar kaki mudah bergeser
+- dipenuhi tas sebagai penanda
+- berada di dekat tangga tanpa pembatas
 
-**Kunci Jawaban:** membantu mengatur urutan gerak
+**Kunci Jawaban:** rata, kering, dan bebas benda berserakan
 
-**Pembahasan:** Hitungan satu sampai empat: membantu mengatur urutan gerak.
+**Pembahasan:** Permukaan yang bersih dan tidak licin membantu mencegah tersandung dan terpeleset.
 
 ---
 
 ## Soal 26 — K03-PJK-B05-M01-026
 
-**Pertanyaan:** Latihan gerak berirama bersama melatih sikap apa?
+**Pertanyaan:** Dalam permainan mencari pasangan, seorang anak tidak mendapat pasangan. Tindakan yang mendukung suasana aman adalah ....
 
 **Pilihan jawaban:**
-- memerlukan saling mengejek
-- harus tanpa aturan
-- hanya dilakukan sendiri
-- memerlukan kerja sama dan kekompakan
+- ajak bergabung pada kelompok tanpa mempermalukan atau menghukum
+- beri hukuman gerak di depan kelas
+- tempel tanda agar semua menertawakan
+- larang mengikuti putaran berikutnya
 
-**Kunci Jawaban:** memerlukan kerja sama dan kekompakan
+**Kunci Jawaban:** ajak bergabung pada kelompok tanpa mempermalukan atau menghukum
 
-**Pembahasan:** Gerak kelompok berirama: memerlukan kerja sama dan kekompakan.
+**Pembahasan:** Kegiatan berirama harus membangun kebersamaan; anak tidak dipermalukan karena hasil permainan.
 
 ---
 
 ## Soal 27 — K03-PJK-B05-M01-027
 
-**Pertanyaan:** Jika tempo diperlambat, irama gerakan sebaiknya ....
+**Pertanyaan:** Kelompok diminta menyusun rangkaian ayunan sendiri. Langkah pertama yang baik adalah ....
 
 **Pilihan jawaban:**
-- gerakan berhenti total
-- gerakan tanpa hitungan
-- gerakan mengikuti ketukan yang lebih pelan
-- gerakan selalu secepat mungkin
+- menyepakati urutan sederhana dan mencoba dengan tempo lambat
+- memulai dengan musik tercepat
+- membiarkan setiap anggota memakai urutan berbeda
+- menambah gerak sulit tanpa latihan
 
-**Kunci Jawaban:** gerakan mengikuti ketukan yang lebih pelan
+**Kunci Jawaban:** menyepakati urutan sederhana dan mencoba dengan tempo lambat
 
-**Pembahasan:** Tempo lambat: gerakan mengikuti ketukan yang lebih pelan.
+**Pembahasan:** Urutan sederhana dan tempo lambat memudahkan kelompok menguji koordinasi sebelum menambah variasi.
 
 ---
 
 ## Soal 28 — K03-PJK-B05-M01-028
 
-**Pertanyaan:** Jika tempo lebih cepat, prinsip gerak yang tepat ialah ....
+**Pertanyaan:** Pemimpin hitungan kelompok sebaiknya ....
 
 **Pilihan jawaban:**
-- gerakan tidak perlu kendali
-- gerakan mengikuti ketukan lebih rapat dengan tetap aman
-- gerakan harus sembarangan
-- gerakan harus di lantai licin
+- memberi aba-aba jelas dan tempo yang dapat diikuti
+- mengubah tempo tanpa tanda
+- menghitung sambil membelakangi kelompok
+- memilih gerak yang hanya ia mampu
 
-**Kunci Jawaban:** gerakan mengikuti ketukan lebih rapat dengan tetap aman
+**Kunci Jawaban:** memberi aba-aba jelas dan tempo yang dapat diikuti
 
-**Pembahasan:** Tempo cepat: gerakan mengikuti ketukan lebih rapat dengan tetap aman.
+**Pembahasan:** Aba-aba yang jelas membantu semua anggota memulai dan berpindah gerak bersama.
 
 ---
 
 ## Soal 29 — K03-PJK-B05-M01-029
 
-**Pertanyaan:** Mengapa jarak antaranggota kelompok harus dijaga saat bergerak mengikuti irama?
+**Pertanyaan:** Siswa terlambat satu ketukan. Tindakan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- perlu cukup agar tidak bertabrakan
-- harus saling menempel
-- tidak perlu diperhatikan
-- harus di lorong sempit
+- tenang dan bergabung kembali pada hitungan berikutnya
+- mendorong teman agar ikut terlambat
+- mempercepat semua gerak tanpa kendali
+- berhenti mengikuti pelajaran
 
-**Kunci Jawaban:** perlu cukup agar tidak bertabrakan
+**Kunci Jawaban:** tenang dan bergabung kembali pada hitungan berikutnya
 
-**Pembahasan:** Jarak antarpeserta: perlu cukup agar tidak bertabrakan.
+**Pembahasan:** Kesalahan ketukan dapat diperbaiki dengan kembali mengikuti pola, bukan dengan panik.
 
 ---
 
 ## Soal 30 — K03-PJK-B05-M01-030
 
-**Pertanyaan:** Apa fungsi gerakan ringan pada akhir kegiatan berirama?
+**Pertanyaan:** Pemanasan sebelum gerak berirama dilakukan agar ....
 
 **Pilihan jawaban:**
-- menggantikan tidur malam
-- membuat tubuh tidak perlu air
-- berarti berhenti bernapas
-- membantu tubuh beralih ke keadaan lebih tenang
+- tubuh siap bergerak secara bertahap
+- musik terdengar lebih keras
+- semua gerakan pasti sempurna
+- anak tidak perlu istirahat
 
-**Kunci Jawaban:** membantu tubuh beralih ke keadaan lebih tenang
+**Kunci Jawaban:** tubuh siap bergerak secara bertahap
 
-**Pembahasan:** Pendinginan setelah bergerak: membantu tubuh beralih ke keadaan lebih tenang.
+**Pembahasan:** Pemanasan menyiapkan tubuh, tetapi tidak menjamin gerak sempurna atau menghapus kebutuhan keselamatan.
 
 ---
 
 ## Soal 31 — K03-PJK-B05-M01-031
 
-**Pertanyaan:** Musik berhenti dan mulai dengan ketukan teratur. Siswa mengikuti pola bunyi dengan gerak. Kegiatan ini disebut ....
+**Pertanyaan:** Ketika haus setelah beberapa rangkaian, peserta sebaiknya ....
 
 **Pilihan jawaban:**
-- hanya duduk diam
-- hanya melempar bola
-- gerakan tubuh mengikuti irama atau ketukan
-- gerak tanpa memperhatikan irama
+- beristirahat dan minum sesuai arahan guru
+- menahan haus sampai kegiatan selesai
+- menambah tempo agar cepat selesai
+- keluar tanpa memberi tahu
 
-**Kunci Jawaban:** gerakan tubuh mengikuti irama atau ketukan
+**Kunci Jawaban:** beristirahat dan minum sesuai arahan guru
 
-**Pembahasan:** Gerak berirama: gerakan tubuh mengikuti irama atau ketukan.
+**Pembahasan:** Istirahat dan cairan membantu menjaga kondisi tubuh selama aktivitas.
 
 ---
 
 ## Soal 32 — K03-PJK-B05-M01-032
 
-**Pertanyaan:** Untuk memudahkan siswa mengenali saat mulai bergerak, guru mengajak menepuk di setiap ketukan. Apa fungsi tepuk?
+**Pertanyaan:** Saat bergerak, seorang anak merasa pusing. Ia harus ....
 
 **Pilihan jawaban:**
-- menjadi gerak renang
-- membantu mengikuti pola irama
-- menggantikan minum
-- menyebabkan harus berlari
+- berhenti di tempat aman dan memberi tahu guru
+- tetap bergerak agar tidak tertinggal
+- duduk di tengah jalur kelompok
+- menutup mata sambil berjalan
 
-**Kunci Jawaban:** membantu mengikuti pola irama
+**Kunci Jawaban:** berhenti di tempat aman dan memberi tahu guru
 
-**Pembahasan:** Tepuk tangan sesuai ketukan: membantu mengikuti pola irama.
+**Pembahasan:** Pusing merupakan tanda untuk menghentikan aktivitas dan meminta bantuan.
 
 ---
 
 ## Soal 33 — K03-PJK-B05-M01-033
 
-**Pertanyaan:** Dalam ruang sempit, siswa diberi jalur langkah kanan dan kiri tanpa saling mendekat. Bagaimana langkah seharusnya?
+**Pertanyaan:** Pada akhir latihan, tempo dan besar gerak diturunkan perlahan. Tahap ini disebut ....
 
 **Pilihan jawaban:**
-- dilakukan mengikuti hitungan dengan ruang aman
-- dilakukan sambil mendorong teman
-- dilakukan tanpa melihat sekitar
-- harus sangat cepat
+- pendinginan
+- tolakan
+- awalan
+- fase melayang
 
-**Kunci Jawaban:** dilakukan mengikuti hitungan dengan ruang aman
+**Kunci Jawaban:** pendinginan
 
-**Pembahasan:** Langkah ke kanan dan kiri: dilakukan mengikuti hitungan dengan ruang aman.
+**Pembahasan:** Pendinginan membantu tubuh beralih bertahap menuju keadaan lebih tenang.
 
 ---
 
 ## Soal 34 — K03-PJK-B05-M01-034
 
-**Pertanyaan:** Saat bunyi ketukan berubah, lengan siswa menyesuaikan waktu ayunannya. Cara yang tepat adalah ....
+**Pertanyaan:** Umpan balik yang baik untuk kelompok adalah ....
 
 **Pilihan jawaban:**
-- selalu melawan ketukan
-- dilakukan sambil memukul teman
-- tidak perlu terkendali
-- disesuaikan dengan ketukan musik
+- urutan sudah benar; mari samakan awal ayunan pada hitungan satu
+- gerakan kalian buruk semua
+- yang lambat tidak boleh ikut
+- musik harus dipercepat agar terlihat hebat
 
-**Kunci Jawaban:** disesuaikan dengan ketukan musik
+**Kunci Jawaban:** urutan sudah benar; mari samakan awal ayunan pada hitungan satu
 
-**Pembahasan:** Ayunan lengan berirama: disesuaikan dengan ketukan musik.
+**Pembahasan:** Umpan balik yang spesifik dan sopan menunjukkan keberhasilan serta hal yang dapat diperbaiki.
 
 ---
 
 ## Soal 35 — K03-PJK-B05-M01-035
 
-**Pertanyaan:** Dalam rangkaian gerak, hitungan satu sampai empat diulang bersama. Hitungan berfungsi untuk ....
+**Pertanyaan:** Catatan kelompok menunjukkan 6 dari 8 perpindahan gerak dilakukan serempak. Kesimpulan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- mengganti pemanasan
-- mengubah tinggi badan
-- membantu mengatur urutan gerak
-- menentukan ukuran sepatu
+- dua perpindahan masih perlu dilatih
+- semua gerak sudah pasti sempurna
+- kelompok harus mengganti seluruh rangkaian
+- angka itu membuktikan tempo selalu terlalu lambat
 
-**Kunci Jawaban:** membantu mengatur urutan gerak
+**Kunci Jawaban:** dua perpindahan masih perlu dilatih
 
-**Pembahasan:** Hitungan satu sampai empat: membantu mengatur urutan gerak.
+**Pembahasan:** Delapan dikurangi enam sama dengan dua; catatan itu menunjukkan bagian yang perlu diperbaiki tanpa menyimpulkan penyebab yang belum diamati.
 
 ---
+

@@ -115,3 +115,8 @@ Seluruh 45 soal Unit 3, 10 SVG, dan dua modul berubah/baru setelah konversi. Reg
 ## Perubahan sumber PJOK Unit 4 — 13 November 2026
 
 Seluruh 45 soal Unit 4, 10 SVG, dan dua modul berubah/baru setelah konversi. Regenerasi `pjk-b04.json`, `pjk-b04a.json`, buat `pjk-b04-materi.json`, lalu audit per-ID, opsi, media, dan konten dua modul terhadap Markdown `main` terbaru. Jika sumber berubah lagi, audit perubahan itu satu kali sebelum konversi; bila audit menemukan revisi yang diperlukan, revisi Markdown terlebih dahulu lalu konversi ulang.
+
+
+## Perubahan sumber PJOK Unit 5 — 13 November 2026
+
+Seluruh 45 soal Unit 5, 10 SVG, dan dua modul berubah/baru setelah konversi. Regenerasi `pjk-b05.json`, `pjk-b05a.json`, buat `pjk-b05-materi.json`, lalu audit per-ID, opsi, media, dan konten dua modul terhadap Markdown `main` terbaru. Jika sumber berubah lagi, audit perubahan itu satu kali sebelum konversi; bila audit menemukan revisi yang diperlukan, revisi Markdown terlebih dahulu lalu konversi ulang.
