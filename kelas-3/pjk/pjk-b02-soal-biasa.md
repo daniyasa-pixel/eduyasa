@@ -1,563 +1,564 @@
 # Unit 2 — Aktivitas Pola Gerak Dasar Nonlokomotor
 
-35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
+35 soal teks hasil audit isi terhadap variasi memutar, mengayun, membungkuk, menekuk, meliuk, permainan sederhana, dan keselamatan.
 
 ## Soal 1 — K03-PJK-B02-M01-001
 
-**Pertanyaan:** Saat pemanasan, Dini mencondongkan badan perlahan ke depan tanpa melangkah. Gerak itu disebut ....
+**Pertanyaan:** Gerak nonlokomotor adalah gerak yang ....
 
 **Pilihan jawaban:**
-- membungkuk
-- berlari
-- melompat jauh
-- menendang bola
+- dilakukan tanpa perpindahan tempat utama
+- selalu membuat tubuh berlari jauh
+- hanya memakai bola
+- hanya dilakukan di air
 
-**Kunci Jawaban:** membungkuk
+**Kunci Jawaban:** dilakukan tanpa perpindahan tempat utama
 
-**Pembahasan:** Membungkuk adalah gerak nonlokomotor karena posisi utama tidak berpindah.
+**Pembahasan:** Pada gerak nonlokomotor, anggota tubuh bergerak sementara posisi utama tubuh tetap di tempat.
 
 ---
 
 ## Soal 2 — K03-PJK-B02-M01-002
 
-**Pertanyaan:** Arif berdiri di tempat lalu mengubah arah hadap tubuhnya. Gerak apa yang dilakukan?
+**Pertanyaan:** Manakah contoh gerak nonlokomotor?
 
 **Pilihan jawaban:**
-- berjalan maju
-- memutar badan
-- melempar bola
-- lari zig-zag
+- berlari menuju garis akhir
+- berjalan mengelilingi lapangan
+- mengayunkan lengan sambil berdiri di titik yang sama
+- melompat melewati parit
 
-**Kunci Jawaban:** memutar badan
+**Kunci Jawaban:** mengayunkan lengan sambil berdiri di titik yang sama
 
-**Pembahasan:** Memutar badan mengubah orientasi tubuh tanpa perpindahan tempat utama.
+**Pembahasan:** Ayunan lengan dilakukan di tempat sehingga termasuk nonlokomotor.
 
 ---
 
 ## Soal 3 — K03-PJK-B02-M01-003
 
-**Pertanyaan:** Guru meminta siswa menggerakkan lengan ke depan dan belakang perlahan. Gerak tersebut adalah ....
+**Pertanyaan:** Guru meminta lengan bergerak ke atas, ke samping, ke belakang, lalu ke bawah. Gerak utama yang dilakukan adalah ....
 
 **Pilihan jawaban:**
-- melompat
-- menendang
 - mengayun lengan
-- berlari
+- berlari zig-zag
+- menendang bola
+- meloncat dua kaki
 
 **Kunci Jawaban:** mengayun lengan
 
-**Pembahasan:** Ayunan lengan dilakukan secara terkontrol di tempat.
+**Pembahasan:** Arah lengan berubah secara terkontrol tanpa perpindahan tempat.
 
 ---
 
 ## Soal 4 — K03-PJK-B02-M01-004
 
-**Pertanyaan:** Ketika latihan, guru meminta lutut sedikit dibengkokkan. Manakah cara yang tepat?
+**Pertanyaan:** Siswa mengubah arah hadap badan, tetapi kedua kaki tetap di titik semula. Gerak tersebut adalah ....
 
 **Pilihan jawaban:**
-- mengunci lutut sekaku mungkin
-- melompat setinggi mungkin
-- memutar leher paksa
-- menekuk lutut secara wajar
+- memutar badan
+- berjalan maju
+- berlari mundur
+- melompat jauh
 
-**Kunci Jawaban:** menekuk lutut secara wajar
+**Kunci Jawaban:** memutar badan
 
-**Pembahasan:** Menekuk lutut berarti membengkokkan sendinya dalam batas nyaman.
+**Pembahasan:** Memutar badan mengubah arah hadap tanpa berpindah ke tempat lain.
 
 ---
 
 ## Soal 5 — K03-PJK-B02-M01-005
 
-**Pertanyaan:** Siswa meregangkan sisi tubuhnya. Apa sikap aman saat melakukan peregangan?
+**Pertanyaan:** Kaki kanan diangkat lalu lututnya dibengkokkan sesuai kemampuan. Gerak yang dilatih adalah ....
 
 **Pilihan jawaban:**
-- bergerak perlahan dan berhenti bila sakit
-- memaksa sampai terasa nyeri tajam
-- saling menarik badan dengan keras
-- melakukan gerakan tiba-tiba
+- menekuk kaki
+- mengayun kepala
+- berlari cepat
+- melempar bola
 
-**Kunci Jawaban:** bergerak perlahan dan berhenti bila sakit
+**Kunci Jawaban:** menekuk kaki
 
-**Pembahasan:** Peregangan dilakukan perlahan sesuai kemampuan dan dihentikan bila sakit.
+**Pembahasan:** Menekuk kaki berarti membengkokkan sendi kaki secara terkontrol.
 
 ---
 
 ## Soal 6 — K03-PJK-B02-M01-006
 
-**Pertanyaan:** Saat berdiri di satu kaki, Rani merentangkan lengan untuk menjaga posisi. Apa tujuan penyesuaian itu?
+**Pertanyaan:** Badan bergerak ke kanan dan kiri dengan pusat gerak di pinggang. Gerak ini disebut ....
 
 **Pilihan jawaban:**
-- mendorong teman
-- berputar sangat cepat
-- mengatur posisi tubuh agar tidak jatuh
-- menutup mata sambil berlari
+- meliukkan badan
+- berjalan menyamping
+- berlari berkelok
+- menendang ke samping
 
-**Kunci Jawaban:** mengatur posisi tubuh agar tidak jatuh
+**Kunci Jawaban:** meliukkan badan
 
-**Pembahasan:** Menjaga keseimbangan satu kaki: mengatur posisi tubuh agar tidak jatuh.
+**Pembahasan:** Meliuk menggerakkan batang tubuh ke sisi yang berbeda tanpa berpindah tempat.
 
 ---
 
 ## Soal 7 — K03-PJK-B02-M01-007
 
-**Pertanyaan:** Murid mendengar suara dari kanan lalu mengarahkan wajah ke kanan perlahan. Gerak yang sesuai adalah ....
+**Pertanyaan:** Siswa mencondongkan badan ke depan lalu kembali tegak di titik yang sama. Gerak tersebut termasuk ....
 
 **Pilihan jawaban:**
+- membungkuk
 - berlari
-- memutar kepala perlahan ke arah samping
-- melompat jauh
+- meloncat
 - menggiring bola
 
-**Kunci Jawaban:** memutar kepala perlahan ke arah samping
+**Kunci Jawaban:** membungkuk
 
-**Pembahasan:** Menoleh: memutar kepala perlahan ke arah samping.
+**Pembahasan:** Membungkuk mengubah posisi batang tubuh tanpa perpindahan tempat utama.
 
 ---
 
 ## Soal 8 — K03-PJK-B02-M01-008
 
-**Pertanyaan:** Saat musik berbunyi, Rina menggerakkan badan ke samping secara perlahan tanpa berpindah. Geraknya adalah ....
+**Pertanyaan:** Sikap awal yang membantu kestabilan saat meliuk ialah ....
 
 **Pilihan jawaban:**
-- menggerakkan badan ke samping secara terkendali
-- menendang bola
-- melompat melewati garis
-- menangkap bola
+- kaki dibuka kira-kira selebar bahu
+- kedua kaki ditumpuk menjadi satu
+- berdiri di lantai licin
+- menutup mata dan berputar cepat
 
-**Kunci Jawaban:** menggerakkan badan ke samping secara terkendali
+**Kunci Jawaban:** kaki dibuka kira-kira selebar bahu
 
-**Pembahasan:** Meliukkan badan: menggerakkan badan ke samping secara terkendali.
+**Pembahasan:** Tumpuan yang cukup lebar membantu keseimbangan saat batang tubuh bergerak.
 
 ---
 
 ## Soal 9 — K03-PJK-B02-M01-009
 
-**Pertanyaan:** Dalam kegiatan ini lengan bergerak tetapi kaki tidak berpindah lokasi. Kegiatan tersebut termasuk ....
+**Pertanyaan:** Gerak meliuk terasa terlalu jauh dan mulai nyeri. Apa yang harus dilakukan?
 
 **Pilihan jawaban:**
-- gerak yang selalu berpindah jauh
-- hanya gerak dengan bola
-- hanya gerak di kolam
-- gerak tubuh tanpa perpindahan tempat utama
+- mengurangi gerak atau berhenti lalu memberi tahu guru
+- memaksa sampai nyeri bertambah
+- meminta teman menarik badan lebih kuat
+- mengulang lebih cepat tanpa istirahat
 
-**Kunci Jawaban:** gerak tubuh tanpa perpindahan tempat utama
+**Kunci Jawaban:** mengurangi gerak atau berhenti lalu memberi tahu guru
 
-**Pembahasan:** Gerak nonlokomotor: gerak tubuh tanpa perpindahan tempat utama.
+**Pembahasan:** Gerak tidak boleh dipaksakan melewati kemampuan atau menimbulkan nyeri.
 
 ---
 
 ## Soal 10 — K03-PJK-B02-M01-010
 
-**Pertanyaan:** Guru tidak meminta siswa memaksakan tubuh ketika peregangan. Manakah prinsip yang digunakan?
+**Pertanyaan:** Dua siswa mengayunkan lengan berdampingan. Agar aman, mereka perlu ....
 
 **Pilihan jawaban:**
-- dilakukan sambil saling menarik keras
-- harus tanpa pemanasan
-- dilakukan perlahan sesuai kemampuan
-- dipaksakan sampai sakit
+- menjaga jarak agar ayunan tidak mengenai teman
+- berdiri berhimpitan
+- mengayun secepat mungkin ke arah teman
+- saling menarik tangan
 
-**Kunci Jawaban:** dilakukan perlahan sesuai kemampuan
+**Kunci Jawaban:** menjaga jarak agar ayunan tidak mengenai teman
 
-**Pembahasan:** Latihan kelentukan: dilakukan perlahan sesuai kemampuan.
+**Pembahasan:** Ruang pribadi mencegah benturan saat lengan bergerak.
 
 ---
 
 ## Soal 11 — K03-PJK-B02-M01-011
 
-**Pertanyaan:** Dalam permainan 'ambil benda imajiner', siswa mencondongkan badan ke depan tanpa maju. Teknik yang benar adalah ....
+**Pertanyaan:** Urutan ayunan lengan yang diberikan guru adalah atas–samping–belakang–bawah. Setelah lengan ke samping, gerak berikutnya adalah ....
 
 **Pilihan jawaban:**
-- menendang bola
-- menggerakkan badan ke depan tanpa berpindah tempat
+- ke belakang
+- ke atas lagi
+- duduk di lantai
 - berlari ke depan
-- melompat jauh
 
-**Kunci Jawaban:** menggerakkan badan ke depan tanpa berpindah tempat
+**Kunci Jawaban:** ke belakang
 
-**Pembahasan:** Membungkuk: menggerakkan badan ke depan tanpa berpindah tempat.
+**Pembahasan:** Urutan instruksi menempatkan gerak ke belakang setelah ke samping.
 
 ---
 
 ## Soal 12 — K03-PJK-B02-M01-012
 
-**Pertanyaan:** Dalam senam di tempat, arah hadap siswa berubah dari depan ke samping. Bagaimana gerak dilakukan?
+**Pertanyaan:** Rina meliuk ke kiri, kembali tegak, lalu meliuk ke kanan. Mengapa ia kembali tegak di tengah?
 
 **Pilihan jawaban:**
-- mengubah arah hadap tubuh tanpa berpindah tempat
-- berjalan jauh
-- berlari cepat
-- melempar bola
+- agar perpindahan arah tetap terkendali
+- agar dapat berlari meninggalkan tempat
+- agar sendi dipaksa lebih jauh
+- agar tidak perlu mendengar aba-aba
 
-**Kunci Jawaban:** mengubah arah hadap tubuh tanpa berpindah tempat
+**Kunci Jawaban:** agar perpindahan arah tetap terkendali
 
-**Pembahasan:** Memutar badan: mengubah arah hadap tubuh tanpa berpindah tempat.
+**Pembahasan:** Kembali ke posisi awal membantu kontrol sebelum berganti sisi.
 
 ---
 
 ## Soal 13 — K03-PJK-B02-M01-013
 
-**Pertanyaan:** Saat gerak di tempat, lengan Dina bergerak bergantian ke depan dan belakang. Cara yang sesuai adalah ....
+**Pertanyaan:** Apa perbedaan utama memutar badan dan meliukkan badan?
 
 **Pilihan jawaban:**
-- menendang bola
-- berlari zig-zag
-- melompat tali
-- menggerakkan lengan bolak-balik secara terkontrol
+- memutar mengubah arah hadap, sedangkan meliuk menggerakkan batang tubuh ke sisi lain
+- memutar selalu berlari, sedangkan meliuk selalu berenang
+- memutar memakai bola, sedangkan meliuk memakai raket
+- keduanya harus berpindah jauh
 
-**Kunci Jawaban:** menggerakkan lengan bolak-balik secara terkontrol
+**Kunci Jawaban:** memutar mengubah arah hadap, sedangkan meliuk menggerakkan batang tubuh ke sisi lain
 
-**Pembahasan:** Mengayun lengan: menggerakkan lengan bolak-balik secara terkontrol.
+**Pembahasan:** Keduanya nonlokomotor, tetapi pola perubahan posisi tubuhnya berbeda.
 
 ---
 
 ## Soal 14 — K03-PJK-B02-M01-014
 
-**Pertanyaan:** Ketika mendarat dari langkah kecil, siswa tidak mengunci lutut. Tindakan yang sesuai adalah ....
+**Pertanyaan:** Dalam permainan gelang raja, gelang dipegang di atas kepala saat badan meliuk. Alat yang aman adalah ....
 
 **Pilihan jawaban:**
-- melempar bola
-- berjalan cepat
-- membengkokkan sendi lutut secara wajar
-- mengunci lutut lurus
+- gelang ringan tanpa bagian tajam
+- batang besi berat
+- kaca berbentuk lingkaran
+- benda retak dengan ujung tajam
 
-**Kunci Jawaban:** membengkokkan sendi lutut secara wajar
+**Kunci Jawaban:** gelang ringan tanpa bagian tajam
 
-**Pembahasan:** Menekuk lutut: membengkokkan sendi lutut secara wajar.
+**Pembahasan:** Peralatan harus ringan, utuh, dan tidak membahayakan.
 
 ---
 
 ## Soal 15 — K03-PJK-B02-M01-015
 
-**Pertanyaan:** Guru meminta regangan sisi kanan dan kiri secara bergantian. Teknik aman ialah ....
+**Pertanyaan:** Guru memberi aba-aba 2 × 8 hitungan. Apa yang perlu diutamakan siswa?
 
 **Pilihan jawaban:**
-- menendang tinggi
-- memanjangkan sisi tubuh dengan gerakan terkendali
-- berlari sambil menabrak
-- melempar keras
+- mengikuti irama dan teknik dengan terkendali
+- mengejar hitungan secepat mungkin
+- mengabaikan rasa nyeri
+- bergerak tanpa memperhatikan ruang
 
-**Kunci Jawaban:** memanjangkan sisi tubuh dengan gerakan terkendali
+**Kunci Jawaban:** mengikuti irama dan teknik dengan terkendali
 
-**Pembahasan:** Meregang ke samping: memanjangkan sisi tubuh dengan gerakan terkendali.
+**Pembahasan:** Hitungan membantu keteraturan, tetapi kontrol dan keselamatan tetap utama.
 
 ---
 
 ## Soal 16 — K03-PJK-B02-M01-016
 
-**Pertanyaan:** Siswa hampir kehilangan keseimbangan ketika satu kaki terangkat. Tindakan yang paling tepat ialah ....
+**Pertanyaan:** Saat menekuk lutut, posisi yang tepat adalah ....
 
 **Pilihan jawaban:**
-- mengatur posisi tubuh agar tidak jatuh
-- menutup mata sambil berlari
-- mendorong teman
-- berputar sangat cepat
+- lutut dibengkokkan wajar sesuai kemampuan
+- lutut dipaksa berputar ke samping
+- sendi dikunci lalu didorong teman
+- gerak dilanjutkan saat terasa sakit
 
-**Kunci Jawaban:** mengatur posisi tubuh agar tidak jatuh
+**Kunci Jawaban:** lutut dibengkokkan wajar sesuai kemampuan
 
-**Pembahasan:** Menjaga keseimbangan satu kaki: mengatur posisi tubuh agar tidak jatuh.
+**Pembahasan:** Tekukan dilakukan pada arah gerak sendi yang wajar dan tidak dipaksakan.
 
 ---
 
 ## Soal 17 — K03-PJK-B02-M01-017
 
-**Pertanyaan:** Guru mengajak siswa melihat ke sisi kiri tanpa menggerakkan seluruh badan. Cara yang benar ialah ....
+**Pertanyaan:** Mengapa pemanasan dilakukan sebelum latihan nonlokomotor?
 
 **Pilihan jawaban:**
-- melompat jauh
-- menggiring bola
-- berlari
-- memutar kepala perlahan ke arah samping
+- untuk menyiapkan tubuh bergerak secara bertahap
+- agar siswa langsung kelelahan
+- agar tidak perlu minum dan istirahat
+- agar semua sendi dipaksa sejauh mungkin
 
-**Kunci Jawaban:** memutar kepala perlahan ke arah samping
+**Kunci Jawaban:** untuk menyiapkan tubuh bergerak secara bertahap
 
-**Pembahasan:** Menoleh: memutar kepala perlahan ke arah samping.
+**Pembahasan:** Pemanasan membantu tubuh bersiap mengikuti aktivitas utama.
 
 ---
 
 ## Soal 18 — K03-PJK-B02-M01-018
 
-**Pertanyaan:** Siswa memiringkan badan dari pinggang ke kanan dan kiri secara terkendali. Manakah deskripsi yang cocok?
+**Pertanyaan:** Simpai yang akan dipakai retak dan memiliki bagian tajam. Keputusan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- melompat melewati garis
-- menangkap bola
-- menggerakkan badan ke samping secara terkendali
-- menendang bola
+- tidak memakainya dan melapor kepada guru
+- tetap memakainya sambil berlari
+- memberikannya kepada teman tanpa memberi tahu
+- menutup retakan dengan tangan saat bergerak
 
-**Kunci Jawaban:** menggerakkan badan ke samping secara terkendali
+**Kunci Jawaban:** tidak memakainya dan melapor kepada guru
 
-**Pembahasan:** Meliukkan badan: menggerakkan badan ke samping secara terkendali.
+**Pembahasan:** Peralatan rusak tidak layak dipakai karena dapat melukai.
 
 ---
 
 ## Soal 19 — K03-PJK-B02-M01-019
 
-**Pertanyaan:** Apakah mengayun lengan di tempat memerlukan perpindahan jauh? Pilih definisi yang sesuai.
+**Pertanyaan:** Sebelum latihan, Sari merasa demam. Apa yang sebaiknya dilakukan?
 
 **Pilihan jawaban:**
-- hanya gerak di kolam
-- gerak tubuh tanpa perpindahan tempat utama
-- gerak yang selalu berpindah jauh
-- hanya gerak dengan bola
+- memberi tahu guru dan beristirahat
+- menyembunyikan keadaan lalu berlatih penuh
+- memaksa sampai berkeringat banyak
+- mengikuti gerak paling sulit
 
-**Kunci Jawaban:** gerak tubuh tanpa perpindahan tempat utama
+**Kunci Jawaban:** memberi tahu guru dan beristirahat
 
-**Pembahasan:** Gerak nonlokomotor: gerak tubuh tanpa perpindahan tempat utama.
+**Pembahasan:** Kondisi kesehatan perlu disampaikan agar kegiatan dapat disesuaikan.
 
 ---
 
 ## Soal 20 — K03-PJK-B02-M01-020
 
-**Pertanyaan:** Dua siswa punya kelenturan berbeda. Bagaimana latihan yang benar dilakukan?
+**Pertanyaan:** Dalam latihan berpasangan, cara membantu teman yang benar adalah ....
 
 **Pilihan jawaban:**
-- dilakukan perlahan sesuai kemampuan
-- dipaksakan sampai sakit
-- dilakukan sambil saling menarik keras
-- harus tanpa pemanasan
+- memberi ruang dan mengikuti instruksi guru
+- menekan punggung teman agar membungkuk lebih jauh
+- menarik lengan teman secara tiba-tiba
+- mengejek gerak teman yang terbatas
 
-**Kunci Jawaban:** dilakukan perlahan sesuai kemampuan
+**Kunci Jawaban:** memberi ruang dan mengikuti instruksi guru
 
-**Pembahasan:** Latihan kelentukan: dilakukan perlahan sesuai kemampuan.
+**Pembahasan:** Bantuan tidak boleh berupa tarikan atau tekanan yang memaksa sendi.
 
 ---
 
 ## Soal 21 — K03-PJK-B02-M01-021
 
-**Pertanyaan:** Mengapa gerak mencondongkan badan itu disebut nonlokomotor? Pilih uraian paling tepat.
+**Pertanyaan:** Rangkaian memutar badan, mengayun lengan, lalu menekuk lutut merupakan ....
 
 **Pilihan jawaban:**
-- berlari ke depan
-- melompat jauh
-- menendang bola
-- menggerakkan badan ke depan tanpa berpindah tempat
+- gabungan beberapa gerak nonlokomotor
+- lari estafet
+- permainan menendang bola
+- gerak berpindah jauh
 
-**Kunci Jawaban:** menggerakkan badan ke depan tanpa berpindah tempat
+**Kunci Jawaban:** gabungan beberapa gerak nonlokomotor
 
-**Pembahasan:** Membungkuk: menggerakkan badan ke depan tanpa berpindah tempat.
+**Pembahasan:** Ketiga gerak dilakukan di tempat dan dapat disusun menjadi rangkaian.
 
 ---
 
 ## Soal 22 — K03-PJK-B02-M01-022
 
-**Pertanyaan:** Apa yang membedakan perubahan arah hadap badan di tempat dari berjalan maju?
+**Pertanyaan:** Aba-aba guru berbunyi: “Ayun, putar, tekuk.” Gerak terakhir yang dilakukan adalah ....
 
 **Pilihan jawaban:**
-- berlari cepat
-- melempar bola
-- mengubah arah hadap tubuh tanpa berpindah tempat
-- berjalan jauh
+- menekuk
+- mengayun
+- memutar
+- berlari
 
-**Kunci Jawaban:** mengubah arah hadap tubuh tanpa berpindah tempat
+**Kunci Jawaban:** menekuk
 
-**Pembahasan:** Memutar badan: mengubah arah hadap tubuh tanpa berpindah tempat.
+**Pembahasan:** Kata terakhir pada urutan aba-aba adalah tekuk.
 
 ---
 
 ## Soal 23 — K03-PJK-B02-M01-023
 
-**Pertanyaan:** Gerak lengan terkontrol dilakukan tanpa memindahkan posisi kaki. Pilih uraian yang tepat.
+**Pertanyaan:** Setelah latihan, siswa mencatat bahwa ayunan lengan sudah terkendali tetapi meliuk masih perlu bantuan. Catatan itu menunjukkan ....
 
 **Pilihan jawaban:**
-- melompat tali
-- menggerakkan lengan bolak-balik secara terkontrol
-- menendang bola
-- berlari zig-zag
+- refleksi diri yang jujur
+- alasan untuk mengejek diri sendiri
+- bukti bahwa latihan harus dihentikan selamanya
+- keharusan memaksa gerak lebih jauh
 
-**Kunci Jawaban:** menggerakkan lengan bolak-balik secara terkontrol
+**Kunci Jawaban:** refleksi diri yang jujur
 
-**Pembahasan:** Mengayun lengan: menggerakkan lengan bolak-balik secara terkontrol.
+**Pembahasan:** Refleksi membantu menentukan keterampilan yang perlu dilatih berikutnya.
 
 ---
 
 ## Soal 24 — K03-PJK-B02-M01-024
 
-**Pertanyaan:** Apa tindakan aman untuk mengurangi kekakuan lutut ketika latihan di tempat?
+**Pertanyaan:** Dodi belum mampu meliuk sejauh temannya. Penyesuaian yang tepat adalah ....
 
 **Pilihan jawaban:**
-- membengkokkan sendi lutut secara wajar
-- mengunci lutut lurus
-- melempar bola
-- berjalan cepat
+- mengurangi jangkauan sesuai kemampuan
+- memaksanya menyamai teman
+- menarik badannya dengan kuat
+- melarangnya ikut belajar
 
-**Kunci Jawaban:** membengkokkan sendi lutut secara wajar
+**Kunci Jawaban:** mengurangi jangkauan sesuai kemampuan
 
-**Pembahasan:** Menekuk lutut: membengkokkan sendi lutut secara wajar.
+**Pembahasan:** Jangkauan gerak dapat disesuaikan tanpa menghilangkan tujuan latihan.
 
 ---
 
 ## Soal 25 — K03-PJK-B02-M01-025
 
-**Pertanyaan:** Jika terasa sakit saat meregang ke samping, manakah prinsip gerak yang tepat?
+**Pertanyaan:** Mengapa kaki dibuka selebar bahu ketika melakukan beberapa gerak di tempat?
 
 **Pilihan jawaban:**
-- berlari sambil menabrak
-- melempar keras
-- menendang tinggi
-- memanjangkan sisi tubuh dengan gerakan terkendali
+- untuk memberi tumpuan yang lebih stabil
+- agar dapat berlari lebih cepat
+- agar kaki tidak menyentuh lantai
+- agar tubuh mudah bertabrakan
 
-**Kunci Jawaban:** memanjangkan sisi tubuh dengan gerakan terkendali
+**Kunci Jawaban:** untuk memberi tumpuan yang lebih stabil
 
-**Pembahasan:** Meregang ke samping: memanjangkan sisi tubuh dengan gerakan terkendali.
+**Pembahasan:** Tumpuan yang stabil membantu mengendalikan putaran dan liukan.
 
 ---
 
 ## Soal 26 — K03-PJK-B02-M01-026
 
-**Pertanyaan:** Apa kemampuan yang digunakan ketika seseorang mempertahankan posisi satu kaki?
+**Pertanyaan:** Setelah meliuk ke kanan, latihan diulang ke kiri. Tujuan pergantian sisi ialah ....
 
 **Pilihan jawaban:**
-- mendorong teman
-- berputar sangat cepat
-- mengatur posisi tubuh agar tidak jatuh
-- menutup mata sambil berlari
+- melatih kedua arah secara seimbang sesuai kemampuan
+- membuat satu sisi selalu dipaksa
+- menghilangkan kebutuhan pemanasan
+- mengubah gerak menjadi lari
 
-**Kunci Jawaban:** mengatur posisi tubuh agar tidak jatuh
+**Kunci Jawaban:** melatih kedua arah secara seimbang sesuai kemampuan
 
-**Pembahasan:** Menjaga keseimbangan satu kaki: mengatur posisi tubuh agar tidak jatuh.
+**Pembahasan:** Latihan kanan dan kiri memberi pengalaman gerak pada kedua sisi tubuh.
 
 ---
 
 ## Soal 27 — K03-PJK-B02-M01-027
 
-**Pertanyaan:** Dalam latihan gerak kepala, bagaimana siswa mengubah arah pandang dengan aman?
+**Pertanyaan:** Saat bergerak mengikuti hitungan, cara bernapas yang tepat adalah ....
 
 **Pilihan jawaban:**
-- berlari
-- memutar kepala perlahan ke arah samping
-- melompat jauh
-- menggiring bola
+- bernapas normal dan tidak menahan napas
+- menahan napas selama seluruh rangkaian
+- bernapas hanya setelah latihan selesai
+- menghentikan napas saat menekuk
 
-**Kunci Jawaban:** memutar kepala perlahan ke arah samping
+**Kunci Jawaban:** bernapas normal dan tidak menahan napas
 
-**Pembahasan:** Menoleh: memutar kepala perlahan ke arah samping.
+**Pembahasan:** Bernapas normal membantu tubuh bergerak nyaman.
 
 ---
 
 ## Soal 28 — K03-PJK-B02-M01-028
 
-**Pertanyaan:** Apa cara aman menggerakkan badan ke sisi kiri dan kanan sambil tetap di tempat?
+**Pertanyaan:** Guru memperlambat hitungan untuk siswa yang baru belajar. Manfaatnya adalah ....
 
 **Pilihan jawaban:**
-- menggerakkan badan ke samping secara terkendali
-- menendang bola
-- melompat melewati garis
-- menangkap bola
+- memberi waktu mengendalikan posisi tubuh
+- membuat gerak semakin berbahaya
+- menghilangkan kebutuhan ruang
+- memaksa sendi bergerak lebih jauh
 
-**Kunci Jawaban:** menggerakkan badan ke samping secara terkendali
+**Kunci Jawaban:** memberi waktu mengendalikan posisi tubuh
 
-**Pembahasan:** Meliukkan badan: menggerakkan badan ke samping secara terkendali.
+**Pembahasan:** Tempo lebih lambat membantu penguasaan gerak.
 
 ---
 
 ## Soal 29 — K03-PJK-B02-M01-029
 
-**Pertanyaan:** Seorang anak membungkuk dan kembali berdiri pada titik yang sama. Jenis geraknya adalah ....
+**Pertanyaan:** Manakah gerak yang BUKAN nonlokomotor?
 
 **Pilihan jawaban:**
-- gerak yang selalu berpindah jauh
-- hanya gerak dengan bola
-- hanya gerak di kolam
-- gerak tubuh tanpa perpindahan tempat utama
+- berlari menuju kerucut
+- mengayunkan lengan di tempat
+- menekuk lutut di tempat
+- memutar badan di titik yang sama
 
-**Kunci Jawaban:** gerak tubuh tanpa perpindahan tempat utama
+**Kunci Jawaban:** berlari menuju kerucut
 
-**Pembahasan:** Gerak nonlokomotor: gerak tubuh tanpa perpindahan tempat utama.
+**Pembahasan:** Berlari menyebabkan perpindahan tempat sehingga termasuk lokomotor.
 
 ---
 
 ## Soal 30 — K03-PJK-B02-M01-030
 
-**Pertanyaan:** Jika seorang siswa belum dapat meregang jauh, pilihan tindakan tepat adalah ....
+**Pertanyaan:** Kaki tetap pada tanda, lengan bergerak dari bawah ke atas. Bukti bahwa gerak itu nonlokomotor adalah ....
 
 **Pilihan jawaban:**
-- dilakukan sambil saling menarik keras
-- harus tanpa pemanasan
-- dilakukan perlahan sesuai kemampuan
-- dipaksakan sampai sakit
+- posisi utama tubuh tidak berpindah dari tanda
+- lengan bergerak
+- siswa memakai pakaian olahraga
+- guru memberi hitungan
 
-**Kunci Jawaban:** dilakukan perlahan sesuai kemampuan
+**Kunci Jawaban:** posisi utama tubuh tidak berpindah dari tanda
 
-**Pembahasan:** Latihan kelentukan: dilakukan perlahan sesuai kemampuan.
+**Pembahasan:** Ciri penentu nonlokomotor adalah tidak adanya perpindahan tempat utama.
 
 ---
 
 ## Soal 31 — K03-PJK-B02-M01-031
 
-**Pertanyaan:** Sinta mencondongkan badan ke depan tetapi kakinya tetap di tempat. Manakah penjelasan gerak yang sesuai?
+**Pertanyaan:** Ruang kelas sempit untuk ayunan lengan lebar. Apa penyesuaian yang aman?
 
 **Pilihan jawaban:**
-- menendang bola
-- menggerakkan badan ke depan tanpa berpindah tempat
-- berlari ke depan
-- melompat jauh
+- memperkecil jangkauan atau pindah ke ruang yang cukup
+- tetap mengayun hingga mengenai meja
+- menyuruh teman berdiri lebih dekat
+- menggunakan benda tajam sebagai penanda
 
-**Kunci Jawaban:** menggerakkan badan ke depan tanpa berpindah tempat
+**Kunci Jawaban:** memperkecil jangkauan atau pindah ke ruang yang cukup
 
-**Pembahasan:** Membungkuk: menggerakkan badan ke depan tanpa berpindah tempat.
+**Pembahasan:** Ruang gerak harus cukup dan bebas benturan.
 
 ---
 
 ## Soal 32 — K03-PJK-B02-M01-032
 
-**Pertanyaan:** Seorang siswa berbalik menghadap papan tulis tanpa berjalan ke tempat lain. Gerak apakah yang digambarkan?
+**Pertanyaan:** Manakah tindakan yang tidak aman saat gerak kepala?
 
 **Pilihan jawaban:**
-- mengubah arah hadap tubuh tanpa berpindah tempat
-- berjalan jauh
-- berlari cepat
-- melempar bola
+- memutar kepala dengan hentakan kuat sampai nyeri
+- menoleh perlahan sesuai kemampuan
+- berhenti jika pusing
+- mengikuti arahan guru
 
-**Kunci Jawaban:** mengubah arah hadap tubuh tanpa berpindah tempat
+**Kunci Jawaban:** memutar kepala dengan hentakan kuat sampai nyeri
 
-**Pembahasan:** Memutar badan: mengubah arah hadap tubuh tanpa berpindah tempat.
+**Pembahasan:** Gerak kepala dilakukan perlahan dan tidak dipaksa.
 
 ---
 
 ## Soal 33 — K03-PJK-B02-M01-033
 
-**Pertanyaan:** Guru meminta siswa menggerakkan dua lengan maju-mundur mengikuti aba-aba. Manakah penjelasan geraknya?
+**Pertanyaan:** Kelompok berlatih rangkaian gerak. Sikap gotong royong yang tepat adalah ....
 
 **Pilihan jawaban:**
-- menendang bola
-- berlari zig-zag
-- melompat tali
-- menggerakkan lengan bolak-balik secara terkontrol
+- bergiliran dan saling mengingatkan jarak aman
+- berebut alat
+- menertawakan teman
+- memaksa teman melakukan gerak sulit
 
-**Kunci Jawaban:** menggerakkan lengan bolak-balik secara terkontrol
+**Kunci Jawaban:** bergiliran dan saling mengingatkan jarak aman
 
-**Pembahasan:** Mengayun lengan: menggerakkan lengan bolak-balik secara terkontrol.
+**Pembahasan:** Gotong royong tampak pada berbagi alat, bergiliran, dan menjaga keselamatan bersama.
 
 ---
 
 ## Soal 34 — K03-PJK-B02-M01-034
 
-**Pertanyaan:** Dika membuat posisi lututnya sedikit bengkok saat berdiri. Manakah cara yang tepat?
+**Pertanyaan:** Setelah latihan, pendinginan dilakukan dengan ....
 
 **Pilihan jawaban:**
-- melempar bola
-- berjalan cepat
-- membengkokkan sendi lutut secara wajar
-- mengunci lutut lurus
+- gerak ringan dan terkontrol mengikuti guru
+- lari sekencang mungkin
+- tarikan sendi mendadak
+- melompat di lantai licin
 
-**Kunci Jawaban:** membengkokkan sendi lutut secara wajar
+**Kunci Jawaban:** gerak ringan dan terkontrol mengikuti guru
 
-**Pembahasan:** Menekuk lutut: membengkokkan sendi lutut secara wajar.
+**Pembahasan:** Pendinginan membantu tubuh beralih secara bertahap setelah aktivitas.
 
 ---
 
 ## Soal 35 — K03-PJK-B02-M01-035
 
-**Pertanyaan:** Siswa mencoba memanjangkan sisi tubuh ke kiri, tanpa gerakan tiba-tiba. Cara yang sesuai adalah ....
+**Pertanyaan:** Tujuan latihan nonlokomotor untuk siswa kelas 3 adalah ....
 
 **Pilihan jawaban:**
-- menendang tinggi
-- memanjangkan sisi tubuh dengan gerakan terkendali
-- berlari sambil menabrak
-- melempar keras
+- mengembangkan kontrol gerak sesuai kemampuan dan aman
+- memaksa semua siswa sama lenturnya
+- menentukan siapa yang paling kuat menahan sakit
+- melakukan gerak sulit tanpa pengawasan
 
-**Kunci Jawaban:** memanjangkan sisi tubuh dengan gerakan terkendali
+**Kunci Jawaban:** mengembangkan kontrol gerak sesuai kemampuan dan aman
 
-**Pembahasan:** Meregang ke samping: memanjangkan sisi tubuh dengan gerakan terkendali.
+**Pembahasan:** Pembelajaran menekankan keterampilan, kemandirian, gotong royong, dan keselamatan.
 
 ---
+

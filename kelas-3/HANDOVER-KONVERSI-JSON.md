@@ -96,3 +96,12 @@ ditambahkan. Regenerasi `pjk-b01a.json`, buat `pjk-b01-materi.json`, lalu
 audit keduanya terhadap sumber terbaru. `pjk-b01.json` teks tidak berubah dan
 tidak perlu dibuat ulang kecuali SHA sumbernya kemudian berubah. Jika ada
 perubahan baru, audit perubahan itu satu kali sebelum konversi.
+
+
+## Perubahan sumber PJOK Unit 2 — 13 November 2026
+
+Seluruh 45 soal Unit 2, 10 SVG, dan dua modul berubah/baru setelah konversi.
+Regenerasi `pjk-b02.json`, `pjk-b02a.json`, buat
+`pjk-b02-materi.json`, lalu audit per-ID, opsi, media, dan konten dua modul
+terhadap Markdown `main` terbaru. Jika sumber berubah lagi, audit perubahan
+itu satu kali sebelum konversi.

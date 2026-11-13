@@ -9,7 +9,7 @@
 | IPAS | 8 | 560 | Pola berulang, opsi ambigu, gambar membocorkan definisi, penyederhanaan konsep diperbaiki | 560 diperiksa; 546 diubah; 16 modul dan media delapan bab diselaraskan | Putaran isi/media selesai; belum konversi atau uji siswa |
 | ENG | 10 | 500 | Pola repetitif, cakupan unit, gambar, dan listening diperiksa terhadap buku | Unit 1–10: 500 soal, 20 modul, 112 SVG, dan 50 naskah TTS diaudit | Audit isi sumber selesai; Unit 8–10 perlu konversi JSON ulang; uji suara HP/WebView di tahap aplikasi |
 | PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; 300 soal diperiksa per butir; 293 diubah; 20 modul diselaraskan | Isi selesai; cuplikan Arab ditinjau pada 390 px; uji browser HP/WebView dan pelafalan di tahap aplikasi |
-| PJOK | 8 | 360 | Soal berulang dan ilustrasi abstrak; keselamatan gerak perlu audit per unit | Unit 1: 45 soal diperiksa, 10 soal gambar/SVG direvisi, 2 modul dibuat | Unit 2–8; uji praktik dan HP/WebView di tahap aplikasi |
+| PJOK | 8 | 360 | Soal berulang dan ilustrasi abstrak; keselamatan gerak perlu audit per unit | Unit 1–2: 90 soal diperiksa, 55 soal direvisi, 20 SVG diganti, 4 modul dibuat | Unit 3–8; uji praktik dan HP/WebView di tahap aplikasi |
 | SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik; bab internal belum diverifikasi terhadap buku | Belum | Soal pengamatan visual, distraktor, ilustrasi, verifikasi bab resmi |
 
 ## Standar wajib sebelum status FINAL
@@ -354,3 +354,12 @@ royong, dan perilaku sehat. Bank teks dipertahankan setelah audit; 10 soal
 bergambar dan 10 SVG diganti agar stimulus menunjukkan bukti gerak dan risiko
 keselamatan. Dua versi modul ditambahkan. Kumulatif audit isi 1.405/1.945;
 sisa 540 soal/12 unit. Titik lanjut PJOK Unit 2.
+
+
+### Kelanjutan: PJOK Unit 2
+
+Empat puluh lima soal nonlokomotor ditulis ulang untuk menghapus pengulangan
+definisi. Cakupan resmi memutar, mengayun, membungkuk, menekuk, meliuk, dan
+permainan sederhana disertai batas gerak aman, kondisi tubuh, ruang pribadi,
+peralatan, serta penyesuaian kemampuan. Sepuluh SVG dan dua modul baru dibuat.
+Kumulatif audit isi 1.450/1.945; sisa 495 soal/11 unit. Titik lanjut Unit 3.

@@ -19,11 +19,11 @@
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
 | Bahasa Inggris | Unit 1–10: 500 soal dan dua puluh modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7–10 masing-masing 10 SVG fungsional | 500/500 diperiksa; 50 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | Audit isi sumber Inggris selesai; uji suara dan WebView di tahap aplikasi |
-| PJOK | Unit 1: 10 soal bergambar dan 10 SVG direvisi; 2 modul baru dibuat | 45/360 diperiksa terhadap buku dan keselamatan gerak | 315 soal/7 unit; uji praktik dan HP/WebView di tahap aplikasi |
+| PJOK | Unit 1–2: Unit 1 merevisi 10 soal gambar; Unit 2 menulis ulang 45 soal; 20 SVG direvisi; 4 modul dibuat | 90/360 diperiksa terhadap buku dan keselamatan gerak | 270 soal/6 unit; uji praktik dan HP/WebView di tahap aplikasi |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **1.405/1.945**. Jumlah diubah: **1.349**.
-Sisa audit isi: **540 soal pada 12 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **1.450/1.945**. Jumlah diubah: **1.394**.
+Sisa audit isi: **495 soal pada 11 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -768,3 +768,24 @@ tersedia, 10 referensi gambar ada, dan 10 SVG memiliki viewBox, title/desc tanpa
 skrip atau tautan eksternal. Kumulatif audit isi **1.405/1.945**; sisa **540
 soal pada 12 unit**. Titik lanjut: PJOK Unit 2. JSON gambar Unit 1 lama berstatus
 **STALE_SOURCE_CHANGED** dan materi Unit 1 perlu dikonversi pada tahap JSON.
+
+
+### Kelanjutan: PJOK Unit 2 — pola gerak dasar nonlokomotor
+
+Seluruh 45 soal ditulis ulang dan diperiksa terhadap Unit Pembelajaran 2 Buku
+Panduan Guru PJOK SD/MI Kelas III 2022. Pengulangan sekitar sepuluh pasangan
+definisi yang muncul hingga tiga kali diganti dengan pemahaman ciri nonlokomotor,
+variasi memutar, mengayun, membungkuk, menekuk dan meliuk, urutan hitungan,
+permainan sederhana, refleksi, adaptasi kemampuan, gotong royong, dan keselamatan.
+
+Sepuluh SVG diganti dengan urutan ayunan, perbandingan gerak di tempat versus
+berpindah, liukan kanan-kiri, urutan tekuk lutut, jarak simpai, batas nyaman/nyeri,
+ruang pribadi, kartu urutan, membungkuk di tanda, dan tabel kondisi tubuh. Dua
+modul baru dibuat dengan cakupan konsep, rangkaian, permainan, peralatan, ruang,
+penyesuaian gerak, dan tanda berhenti.
+
+Pemeriksaan paket: 45 ID unik, empat opsi unik, satu kunci cocok, pembahasan ada,
+10 aset tersedia, dan SVG memiliki viewBox/title/desc tanpa skrip atau tautan.
+Kumulatif audit isi **1.450/1.945**; sisa **495 soal pada 11 unit**. Titik lanjut:
+PJOK Unit 3. JSON teks/gambar Unit 2 lama berstatus **STALE_SOURCE_CHANGED** dan
+materinya perlu dikonversi pada tahap JSON terpisah.

@@ -1,183 +1,184 @@
 # Unit 2 — Aktivitas Pola Gerak Dasar Nonlokomotor
 
-10 soal bergambar telah direvisi dengan konteks; diagram SVG diproses terpisah dan pemeriksaan visual akhir masih diperlukan.
+10 soal bergambar. Setiap stimulus menunjukkan urutan, posisi tubuh, ruang, atau tanda keselamatan yang diperlukan untuk menjawab.
 
 ## Soal 36 — K03-PJK-B02-M01-036
 
-![Ilustrasi Menjaga keseimbangan satu kaki](assets/pjk-b02-gambar-01.svg)
+![Stimulus gerak nonlokomotor 1](assets/pjk-b02-gambar-01.svg)
 
-**Pertanyaan:** Siswa bertahan dengan satu kaki terangkat. Apa yang perlu dikendalikan agar tidak terjatuh?
+**Pertanyaan:** Gambar menunjukkan urutan ayunan lengan: atas, samping, belakang, bawah. Setelah posisi samping, gerak berikutnya adalah ....
 
 **Pilihan jawaban:**
-- mengatur posisi tubuh agar tidak jatuh
-- menutup mata sambil berlari
-- mendorong teman
-- berputar sangat cepat
+- ke belakang
+- ke atas lagi
+- berlari ke depan
+- duduk
 
-**Kunci Jawaban:** mengatur posisi tubuh agar tidak jatuh
+**Kunci Jawaban:** ke belakang
 
-**Pembahasan:** Menjaga keseimbangan satu kaki: mengatur posisi tubuh agar tidak jatuh.
+**Pembahasan:** Urutan visual menempatkan posisi belakang setelah posisi samping.
 
 ---
 
 ## Soal 37 — K03-PJK-B02-M01-037
 
-![Ilustrasi Menoleh](assets/pjk-b02-gambar-02.svg)
+![Stimulus gerak nonlokomotor 2](assets/pjk-b02-gambar-02.svg)
 
-**Pertanyaan:** Anak mengarahkan wajah ke samping. Bagaimana gerakan kepala yang aman?
+**Pertanyaan:** Pada panel A kaki tetap di tanda sambil badan berputar. Panel B berjalan meninggalkan tanda. Panel mana yang menunjukkan nonlokomotor?
 
 **Pilihan jawaban:**
-- melompat jauh
-- menggiring bola
-- berlari
-- memutar kepala perlahan ke arah samping
+- panel A
+- panel B
+- keduanya berpindah tempat
+- tidak ada gerak
 
-**Kunci Jawaban:** memutar kepala perlahan ke arah samping
+**Kunci Jawaban:** panel A
 
-**Pembahasan:** Menoleh: memutar kepala perlahan ke arah samping.
+**Pembahasan:** Panel A mengubah arah tubuh tanpa meninggalkan titik tumpu.
 
 ---
 
 ## Soal 38 — K03-PJK-B02-M01-038
 
-![Ilustrasi Meliukkan badan](assets/pjk-b02-gambar-03.svg)
+![Stimulus gerak nonlokomotor 3](assets/pjk-b02-gambar-03.svg)
 
-**Pertanyaan:** Gambar memperlihatkan gerakan batang tubuh ke samping. Manakah penjelasan yang tepat?
+**Pertanyaan:** Panah pada gambar bergerak dari posisi tegak ke kanan lalu ke kiri. Gerak apa yang ditunjukkan?
 
 **Pilihan jawaban:**
-- melompat melewati garis
-- menangkap bola
-- menggerakkan badan ke samping secara terkendali
-- menendang bola
+- meliukkan badan ke samping
+- berlari zig-zag
+- berjalan menyamping
+- melempar bola
 
-**Kunci Jawaban:** menggerakkan badan ke samping secara terkendali
+**Kunci Jawaban:** meliukkan badan ke samping
 
-**Pembahasan:** Meliukkan badan: menggerakkan badan ke samping secara terkendali.
+**Pembahasan:** Batang tubuh bergerak ke kanan dan kiri sementara kaki tetap.
 
 ---
 
 ## Soal 39 — K03-PJK-B02-M01-039
 
-![Ilustrasi Gerak nonlokomotor](assets/pjk-b02-gambar-04.svg)
+![Stimulus gerak nonlokomotor 4](assets/pjk-b02-gambar-04.svg)
 
-**Pertanyaan:** Siswa menggerakkan anggota badan tetapi posisi kakinya tetap. Jenis gerak apakah ini?
+**Pertanyaan:** Gambar bernomor 1–3 menunjukkan lutut lurus, menekuk, lalu kembali lurus. Posisi menekuk ditunjukkan oleh nomor ....
 
 **Pilihan jawaban:**
-- hanya gerak di kolam
-- gerak tubuh tanpa perpindahan tempat utama
-- gerak yang selalu berpindah jauh
-- hanya gerak dengan bola
+- 1
+- 2
+- 3
+- 1 dan 3
 
-**Kunci Jawaban:** gerak tubuh tanpa perpindahan tempat utama
+**Kunci Jawaban:** 2
 
-**Pembahasan:** Gerak nonlokomotor: gerak tubuh tanpa perpindahan tempat utama.
+**Pembahasan:** Pada posisi 2, sudut lutut mengecil sehingga lutut tampak menekuk.
 
 ---
 
 ## Soal 40 — K03-PJK-B02-M01-040
 
-![Ilustrasi Latihan kelentukan](assets/pjk-b02-gambar-05.svg)
+![Stimulus gerak nonlokomotor 5](assets/pjk-b02-gambar-05.svg)
 
-**Pertanyaan:** Seorang anak berusaha meningkatkan kelenturan. Prinsip latihan mana yang aman?
+**Pertanyaan:** Dua siswa memegang simpai. Panel A memiliki jarak cukup; Panel B terlalu berdekatan. Susunan yang aman adalah ....
 
 **Pilihan jawaban:**
-- dilakukan perlahan sesuai kemampuan
-- dipaksakan sampai sakit
-- dilakukan sambil saling menarik keras
-- harus tanpa pemanasan
+- panel A
+- panel B
+- keduanya harus berhimpitan
+- keduanya harus mengayun ke arah teman
 
-**Kunci Jawaban:** dilakukan perlahan sesuai kemampuan
+**Kunci Jawaban:** panel A
 
-**Pembahasan:** Latihan kelentukan: dilakukan perlahan sesuai kemampuan.
+**Pembahasan:** Jarak cukup mencegah simpai dan lengan mengenai teman.
 
 ---
 
 ## Soal 41 — K03-PJK-B02-M01-041
 
-![Ilustrasi Membungkuk](assets/pjk-b02-gambar-06.svg)
+![Stimulus gerak nonlokomotor 6](assets/pjk-b02-gambar-06.svg)
 
-**Pertanyaan:** Siswa mencondongkan tubuh ke depan, tanpa maju. Gerak apa yang tampak?
+**Pertanyaan:** Skala gambar menunjukkan gerak nyaman pada zona hijau dan nyeri pada zona merah. Jika gerak mencapai zona merah, siswa harus ....
 
 **Pilihan jawaban:**
-- berlari ke depan
-- melompat jauh
-- menendang bola
-- menggerakkan badan ke depan tanpa berpindah tempat
+- berhenti dan memberi tahu guru
+- memaksa melewati batas
+- meminta teman menarik lebih keras
+- mengulang lebih cepat
 
-**Kunci Jawaban:** menggerakkan badan ke depan tanpa berpindah tempat
+**Kunci Jawaban:** berhenti dan memberi tahu guru
 
-**Pembahasan:** Membungkuk: menggerakkan badan ke depan tanpa berpindah tempat.
+**Pembahasan:** Nyeri adalah tanda untuk menghentikan atau menyesuaikan gerak.
 
 ---
 
 ## Soal 42 — K03-PJK-B02-M01-042
 
-![Ilustrasi Memutar badan](assets/pjk-b02-gambar-07.svg)
+![Stimulus gerak nonlokomotor 7](assets/pjk-b02-gambar-07.svg)
 
-**Pertanyaan:** Anak berubah arah hadap namun masih berdiri di titik yang sama. Gerak yang tepat adalah ....
+**Pertanyaan:** Dua lingkaran ruang pribadi pada gambar tidak saling bertumpuk. Apa aturan yang ditunjukkan?
 
 **Pilihan jawaban:**
-- berlari cepat
-- melempar bola
-- mengubah arah hadap tubuh tanpa berpindah tempat
-- berjalan jauh
+- menjaga jarak saat mengayun
+- berdiri berhimpitan
+- saling menarik tangan
+- berlari keluar lingkaran
 
-**Kunci Jawaban:** mengubah arah hadap tubuh tanpa berpindah tempat
+**Kunci Jawaban:** menjaga jarak saat mengayun
 
-**Pembahasan:** Memutar badan: mengubah arah hadap tubuh tanpa berpindah tempat.
+**Pembahasan:** Ruang pribadi yang tidak bertumpuk memberi tempat aman untuk ayunan.
 
 ---
 
 ## Soal 43 — K03-PJK-B02-M01-043
 
-![Ilustrasi Mengayun lengan](assets/pjk-b02-gambar-08.svg)
+![Stimulus gerak nonlokomotor 8](assets/pjk-b02-gambar-08.svg)
 
-**Pertanyaan:** Lengan pada gambar bergerak maju dan mundur. Bagaimana seharusnya gerakan dilakukan?
+**Pertanyaan:** Kartu urutan menunjukkan PUTAR → AYUN → TEKUK. Gerak ketiga adalah ....
 
 **Pilihan jawaban:**
-- melompat tali
-- menggerakkan lengan bolak-balik secara terkontrol
-- menendang bola
-- berlari zig-zag
+- putar
+- ayun
+- tekuk
+- lari
 
-**Kunci Jawaban:** menggerakkan lengan bolak-balik secara terkontrol
+**Kunci Jawaban:** tekuk
 
-**Pembahasan:** Mengayun lengan: menggerakkan lengan bolak-balik secara terkontrol.
+**Pembahasan:** Kartu ketiga pada urutan adalah TEKUK.
 
 ---
 
 ## Soal 44 — K03-PJK-B02-M01-044
 
-![Ilustrasi Menekuk lutut](assets/pjk-b02-gambar-09.svg)
+![Stimulus gerak nonlokomotor 9](assets/pjk-b02-gambar-09.svg)
 
-**Pertanyaan:** Posisi kaki membentuk sudut di sendi lutut. Tindakan mana yang digambarkan?
+**Pertanyaan:** Gambar menunjukkan tubuh condong ke depan tetapi kedua kaki tetap pada tanda. Gerak ini adalah ....
 
 **Pilihan jawaban:**
-- membengkokkan sendi lutut secara wajar
-- mengunci lutut lurus
-- melempar bola
-- berjalan cepat
+- membungkuk di tempat
+- berjalan maju
+- berlari cepat
+- melompat jauh
 
-**Kunci Jawaban:** membengkokkan sendi lutut secara wajar
+**Kunci Jawaban:** membungkuk di tempat
 
-**Pembahasan:** Menekuk lutut: membengkokkan sendi lutut secara wajar.
+**Pembahasan:** Tubuh condong tanpa meninggalkan tanda kaki.
 
 ---
 
 ## Soal 45 — K03-PJK-B02-M01-045
 
-![Ilustrasi Meregang ke samping](assets/pjk-b02-gambar-10.svg)
+![Stimulus gerak nonlokomotor 10](assets/pjk-b02-gambar-10.svg)
 
-**Pertanyaan:** Anak memanjangkan sisi tubuh ke kanan. Cara gerak yang benar adalah ....
+**Pertanyaan:** Tabel pemeriksaan tubuh menunjukkan: nyaman—lanjut; nyeri—berhenti; pusing—berhenti. Siswa merasa pusing. Apa tindakannya?
 
 **Pilihan jawaban:**
-- berlari sambil menabrak
-- melempar keras
-- menendang tinggi
-- memanjangkan sisi tubuh dengan gerakan terkendali
+- berhenti dan memberi tahu guru
+- melanjutkan lebih cepat
+- menyembunyikan keluhan
+- memutar kepala kuat-kuat
 
-**Kunci Jawaban:** memanjangkan sisi tubuh dengan gerakan terkendali
+**Kunci Jawaban:** berhenti dan memberi tahu guru
 
-**Pembahasan:** Meregang ke samping: memanjangkan sisi tubuh dengan gerakan terkendali.
+**Pembahasan:** Tabel secara jelas mengarahkan berhenti saat pusing.
 
 ---
+

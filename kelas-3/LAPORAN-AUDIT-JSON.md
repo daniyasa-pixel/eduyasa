@@ -1,5 +1,6 @@
 > **PERINGATAN 13 NOVEMBER 2026:** Markdown Bahasa Inggris Unit 8, Unit 9, dan Unit 10 berubah setelah konversi. Status PASS lama untuk `eng-b08*`, `eng-b09*`, `eng-b10*`, serta file materi ketiga unit dicabut menjadi **STALE_SOURCE_CHANGED** sampai 12 file diregenerasi dan diaudit ulang terhadap sumber terbaru.
 > **PJOK UNIT 1:** `pjk-b01a.json` berstatus **STALE_SOURCE_CHANGED** setelah audit gambar. Dua modul baru tersedia di Markdown dan belum mempunyai JSON materi.
+> **PJOK UNIT 2:** `pjk-b02.json` dan `pjk-b02a.json` berstatus **STALE_SOURCE_CHANGED**; dua modul baru belum mempunyai JSON materi.
 
 # Audit integritas JSON EDUYASA Kelas 3
 
