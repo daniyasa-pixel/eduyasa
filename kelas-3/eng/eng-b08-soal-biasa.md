@@ -2,560 +2,560 @@
 
 ## Soal 1 — K03-ENG-B08-M01-001
 
-**Pertanyaan:** Mira says, 'I drink orange juice in the canteen.' What does she drink?
+**Pertanyaan:** Made drinks water in the canteen. What does Made do?
 
 **Pilihan jawaban:**
-- orange juice
-- water
-- milk
-- tea
+- drinks water
+- reads a book
+- writes a letter
+- plays football
 
-**Kunci Jawaban:** orange juice
+**Kunci Jawaban:** drinks water
 
-**Pembahasan:** The drink is orange juice.
+**Pembahasan:** Kalimat menyebutkan bahwa Made minum air.
 
 ---
 
 ## Soal 2 — K03-ENG-B08-M01-002
 
-**Pertanyaan:** Bima drinks water after playing. Which drink does he choose?
+**Pertanyaan:** Bu Nina teaches in the classroom. What does Bu Nina do?
 
 **Pilihan jawaban:**
-- water
-- canteen
-- classroom
-- library
+- studies
+- teaches
+- buys food
+- plays
 
-**Kunci Jawaban:** water
+**Kunci Jawaban:** teaches
 
-**Pembahasan:** The sentence names water.
+**Pembahasan:** **Teaches** berarti mengajar.
 
 ---
 
 ## Soal 3 — K03-ENG-B08-M01-003
 
-**Pertanyaan:** Siti has a glass of milk at breakfast. What is in her glass?
+**Pertanyaan:** Joshua reads a book in the library. What does Joshua do?
 
 **Pilihan jawaban:**
-- milk
-- bread
-- rice
-- noodles
+- reads a book
+- writes on the board
+- drinks juice
+- buys a ball
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** reads a book
 
-**Pembahasan:** Milk is stated as the drink.
+**Pembahasan:** Kegiatan Joshua adalah membaca buku.
 
 ---
 
 ## Soal 4 — K03-ENG-B08-M01-004
 
-**Pertanyaan:** A teacher says, 'I drink tea.' Which drink does the teacher name?
+**Pertanyaan:** Aisyah writes a letter. Which activity does she do?
 
 **Pilihan jawaban:**
-- tea
-- milk
-- canteen
-- classroom
+- teaches
+- prays
+- writes
+- eats
 
-**Kunci Jawaban:** tea
+**Kunci Jawaban:** writes
 
-**Pembahasan:** The sentence names tea.
+**Pembahasan:** **Writes** berarti menulis.
 
 ---
 
 ## Soal 5 — K03-ENG-B08-M01-005
 
-**Pertanyaan:** The children buy food at school. Which place sells food?
+**Pertanyaan:** Cici eats food in the canteen. Which word names her activity?
 
 **Pilihan jawaban:**
-- canteen
-- library
-- bread
-- rice
+- drinks
+- reads
+- studies
+- eats
 
-**Kunci Jawaban:** canteen
+**Kunci Jawaban:** eats
 
-**Pembahasan:** A canteen is a place to buy food at school.
+**Pembahasan:** **Eats** digunakan untuk kegiatan makan.
 
 ---
 
 ## Soal 6 — K03-ENG-B08-M01-006
 
-**Pertanyaan:** Where do students usually study with their teacher?
+**Pertanyaan:** Raka drinks orange juice. Which word names his activity?
 
 **Pilihan jawaban:**
-- classroom
-- water
-- milk
-- tea
+- buys
+- drinks
+- plays
+- teaches
 
-**Kunci Jawaban:** classroom
+**Kunci Jawaban:** drinks
 
-**Pembahasan:** A classroom is used for lessons.
+**Pembahasan:** **Drinks** digunakan untuk kegiatan minum.
 
 ---
 
 ## Soal 7 — K03-ENG-B08-M01-007
 
-**Pertanyaan:** A student borrows a book. Which place should the student visit?
+**Pertanyaan:** Made buys bakso in the canteen. What does Made do before eating it?
 
 **Pilihan jawaban:**
-- library
-- canteen
-- classroom
-- bread
+- buys bakso
+- reads bakso
+- writes bakso
+- teaches bakso
 
-**Kunci Jawaban:** library
+**Kunci Jawaban:** buys bakso
 
-**Pembahasan:** Books can be read or borrowed in a library.
+**Pembahasan:** Made membeli bakso di kantin.
 
 ---
 
 ## Soal 8 — K03-ENG-B08-M01-008
 
-**Pertanyaan:** Rudi eats bread for breakfast. What does he eat?
+**Pertanyaan:** The children play football in the schoolyard. What do they do?
 
 **Pilihan jawaban:**
-- bread
-- orange juice
-- water
-- milk
+- study Math
+- play football
+- read books
+- buy food
 
-**Kunci Jawaban:** bread
+**Kunci Jawaban:** play football
 
-**Pembahasan:** Bread is the food mentioned.
+**Pembahasan:** Kegiatan mereka adalah bermain sepak bola.
 
 ---
 
 ## Soal 9 — K03-ENG-B08-M01-009
 
-**Pertanyaan:** Nina says, 'I eat rice for lunch.' Which food does she eat?
+**Pertanyaan:** Aisyah prays in the prayer room. Where does she pray?
 
 **Pilihan jawaban:**
-- rice
-- tea
-- canteen
-- classroom
+- in the library
+- in the canteen
+- in the prayer room
+- in the schoolyard
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** in the prayer room
 
-**Pembahasan:** She names rice.
+**Pembahasan:** Tempat yang disebutkan adalah ruang ibadah.
 
 ---
 
 ## Soal 10 — K03-ENG-B08-M01-010
 
-**Pertanyaan:** Ali likes noodles. Which food does Ali like?
+**Pertanyaan:** The students study Math in the classroom. What do they study?
 
 **Pilihan jawaban:**
-- noodles
-- library
-- bread
-- rice
+- Math
+- football
+- orange juice
+- bakso
 
-**Kunci Jawaban:** noodles
+**Kunci Jawaban:** Math
 
-**Pembahasan:** Noodles is explicitly the food.
+**Pembahasan:** Mata pelajaran yang dipelajari adalah Matematika.
 
 ---
 
 ## Soal 11 — K03-ENG-B08-M01-011
 
-**Pertanyaan:** Choose the correct sentence about drinking orange juice.
+**Pertanyaan:** Complete the sentence: Bu Rahma ___ in the classroom.
 
 **Pilihan jawaban:**
-- I drink orange juice.
-- I eat orange juice.
-- I drink noodles.
-- I eat water.
+- teach
+- teaches
+- read
+- play
 
-**Kunci Jawaban:** I drink orange juice.
+**Kunci Jawaban:** teaches
 
-**Pembahasan:** Use 'drink' with orange juice.
+**Pembahasan:** Subjek tunggal **Bu Rahma** memakai bentuk **teaches**.
 
 ---
 
 ## Soal 12 — K03-ENG-B08-M01-012
 
-**Pertanyaan:** Choose the correct sentence about eating bread.
+**Pertanyaan:** Complete the sentence: Joshua ___ a book in the library.
 
 **Pilihan jawaban:**
-- I drink bread.
-- I eat bread.
-- I eat water.
-- I drink rice.
+- read
+- reads
+- teach
+- buy
 
-**Kunci Jawaban:** I eat bread.
+**Kunci Jawaban:** reads
 
-**Pembahasan:** Use 'eat' with bread.
+**Pembahasan:** Subjek tunggal **Joshua** memakai bentuk **reads**.
 
 ---
 
 ## Soal 13 — K03-ENG-B08-M01-013
 
-**Pertanyaan:** A: What do you drink? B: ___.
+**Pertanyaan:** Complete the sentence: Cici ___ food in the canteen.
 
 **Pilihan jawaban:**
-- I eat water.
-- I drink water.
-- I drink bread.
-- I eat tea.
+- buy
+- buys
+- write
+- play
 
-**Kunci Jawaban:** I drink water.
+**Kunci Jawaban:** buys
 
-**Pembahasan:** The response names a drink with the verb 'drink'.
+**Pembahasan:** Subjek tunggal **Cici** memakai bentuk **buys**.
 
 ---
 
 ## Soal 14 — K03-ENG-B08-M01-014
 
-**Pertanyaan:** A: What do you eat? B: ___.
+**Pertanyaan:** Complete the sentence: Made ___ marbles in the schoolyard.
 
 **Pilihan jawaban:**
-- I drink rice.
-- I eat tea.
-- I eat rice.
-- I drink bread.
+- play
+- plays
+- study
+- drink
 
-**Kunci Jawaban:** I eat rice.
+**Kunci Jawaban:** plays
 
-**Pembahasan:** The response uses 'eat' with a food.
+**Pembahasan:** Subjek tunggal **Made** memakai bentuk **plays**.
 
 ---
 
 ## Soal 15 — K03-ENG-B08-M01-015
 
-**Pertanyaan:** Choose the correct phrase for a place to have a school snack.
+**Pertanyaan:** Complete the sentence: The students ___ in the classroom.
 
 **Pilihan jawaban:**
-- under the classroom
-- on the library
-- in the canteen
-- between the water
+- studies
+- teaches
+- study
+- reads
 
-**Kunci Jawaban:** in the canteen
+**Kunci Jawaban:** study
 
-**Pembahasan:** The canteen is the location; 'in the' introduces the place.
+**Pembahasan:** Subjek jamak **the students** memakai bentuk dasar **study**.
 
 ---
 
 ## Soal 16 — K03-ENG-B08-M01-016
 
-**Pertanyaan:** Complete: I ___ milk at breakfast.
+**Pertanyaan:** Made and Joshua ___ books in the library.
 
 **Pilihan jawaban:**
-- eat
-- draw
-- drink
+- reads
 - read
+- writes
+- teaches
 
-**Kunci Jawaban:** drink
+**Kunci Jawaban:** read
 
-**Pembahasan:** Milk is a drink.
+**Pembahasan:** Subjek jamak memakai bentuk dasar **read**.
 
 ---
 
 ## Soal 17 — K03-ENG-B08-M01-017
 
-**Pertanyaan:** Complete: I ___ noodles for lunch.
+**Pertanyaan:** Cici ___ orange juice in the canteen.
 
 **Pilihan jawaban:**
-- read
 - drink
+- drinks
 - eat
-- write
+- reads
 
-**Kunci Jawaban:** eat
+**Kunci Jawaban:** drinks
 
-**Pembahasan:** Noodles are food, so use eat.
+**Pembahasan:** Subjek tunggal **Cici** memakai **drinks**.
 
 ---
 
 ## Soal 18 — K03-ENG-B08-M01-018
 
-**Pertanyaan:** A: Do you drink tea? B: Yes, ___.
+**Pertanyaan:** Choose the correct sentence about one teacher.
 
 **Pilihan jawaban:**
-- I am.
-- I do.
-- I is.
-- I are.
+- The teacher teach in the classroom.
+- The teacher teaches in the classroom.
+- The teacher teaching in classroom.
+- The teacher are teach in the classroom.
 
-**Kunci Jawaban:** I do.
+**Kunci Jawaban:** The teacher teaches in the classroom.
 
-**Pembahasan:** 'Do you ...?' can take 'Yes, I do.'
+**Pembahasan:** Kata kerja untuk satu guru menggunakan **teaches**.
 
 ---
 
 ## Soal 19 — K03-ENG-B08-M01-019
 
-**Pertanyaan:** A: Do you eat rice? B: No, ___.
+**Pertanyaan:** Choose the correct sentence about two students.
 
 **Pilihan jawaban:**
-- I am not.
-- I don't.
-- I isn't.
-- I aren't.
+- The students studies Math.
+- The students study Math.
+- The students teaches Math.
+- The students is study Math.
 
-**Kunci Jawaban:** I don't.
+**Kunci Jawaban:** The students study Math.
 
-**Pembahasan:** The correct negative short reply is 'No, I don't.'
+**Pembahasan:** Subjek jamak memakai **study**, bukan **studies**.
 
 ---
 
 ## Soal 20 — K03-ENG-B08-M01-020
 
-**Pertanyaan:** A: Where do you drink water at school? B: ___.
+**Pertanyaan:** Which activity usually happens in a library?
 
 **Pilihan jawaban:**
-- In the canteen.
-- On the water.
-- Under the milk.
-- Between the tea.
+- reading books
+- buying lunch
+- washing a face
+- playing football
 
-**Kunci Jawaban:** In the canteen.
+**Kunci Jawaban:** reading books
 
-**Pembahasan:** This answer names the place.
+**Pembahasan:** Perpustakaan merupakan tempat membaca buku.
 
 ---
 
 ## Soal 21 — K03-ENG-B08-M01-021
 
-**Pertanyaan:** Read: 'I eat bread and drink milk.' Which item is the drink?
+**Pertanyaan:** Which activity usually happens in a canteen?
 
 **Pilihan jawaban:**
-- milk
-- classroom
-- library
-- bread
+- buying food
+- teaching a class
+- borrowing books
+- playing football
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** buying food
 
-**Pembahasan:** Milk follows 'drink'.
+**Pembahasan:** Kantin merupakan tempat membeli makanan.
 
 ---
 
 ## Soal 22 — K03-ENG-B08-M01-022
 
-**Pertanyaan:** Read: 'I eat noodles and drink tea.' Which item is food?
+**Pertanyaan:** Which activity usually happens in a classroom?
 
 **Pilihan jawaban:**
-- noodles
-- orange juice
-- water
-- milk
+- teaching and studying
+- buying and selling food
+- playing football
+- washing a face
 
-**Kunci Jawaban:** noodles
+**Kunci Jawaban:** teaching and studying
 
-**Pembahasan:** Noodles follows 'eat'.
+**Pembahasan:** Mengajar dan belajar berlangsung di ruang kelas.
 
 ---
 
 ## Soal 23 — K03-ENG-B08-M01-023
 
-**Pertanyaan:** Lina says, 'I drink water, not tea.' What does Lina drink?
+**Pertanyaan:** Which activity matches a prayer room?
 
 **Pilihan jawaban:**
-- water
-- canteen
-- classroom
-- library
+- praying
+- buying food
+- playing marbles
+- reading a menu
 
-**Kunci Jawaban:** water
+**Kunci Jawaban:** praying
 
-**Pembahasan:** 'Not tea' rules out tea; she names water.
+**Pembahasan:** Ruang ibadah digunakan untuk berdoa atau salat.
 
 ---
 
 ## Soal 24 — K03-ENG-B08-M01-024
 
-**Pertanyaan:** Beni says, 'I eat rice, not bread.' What food does he eat?
+**Pertanyaan:** Which activity matches the schoolyard?
 
 **Pilihan jawaban:**
-- rice
-- library
-- bread
-- noodles
+- playing football
+- reading quietly
+- teaching at the board
+- buying lunch
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** playing football
 
-**Pembahasan:** The sentence identifies rice.
+**Pembahasan:** Lapangan sekolah sesuai untuk bermain dengan aman.
 
 ---
 
 ## Soal 25 — K03-ENG-B08-M01-025
 
-**Pertanyaan:** A friend says, 'I drink orange juice.' Which question fits the answer?
+**Pertanyaan:** Read: “Rina writes the lesson, then she reads it.” Which activity happens first?
 
 **Pilihan jawaban:**
-- What do you drink?
-- What do you eat?
-- Where do you sleep?
-- How old are you?
+- reading
+- writing
+- drinking
+- buying
 
-**Kunci Jawaban:** What do you drink?
+**Kunci Jawaban:** writing
 
-**Pembahasan:** The question asks about a drink.
+**Pembahasan:** Kata **then** menunjukkan bahwa menulis terjadi lebih dahulu.
 
 ---
 
 ## Soal 26 — K03-ENG-B08-M01-026
 
-**Pertanyaan:** A friend says, 'I eat bread.' Which question fits the answer?
+**Pertanyaan:** Arrange the words into a correct sentence: **in – studies – Beni – the classroom**.
 
 **Pilihan jawaban:**
-- What do you drink?
-- What do you eat?
-- Where is the gate?
-- Is it the office?
+- Beni studies in the classroom.
+- Studies Beni the classroom in.
+- In Beni classroom studies the.
+- The classroom Beni in studies.
 
-**Kunci Jawaban:** What do you eat?
+**Kunci Jawaban:** Beni studies in the classroom.
 
-**Pembahasan:** The question asks about food.
+**Pembahasan:** Urutan yang tepat adalah subjek, kata kerja, lalu tempat.
 
 ---
 
 ## Soal 27 — K03-ENG-B08-M01-027
 
-**Pertanyaan:** Which sentence uses 'in the canteen' correctly?
+**Pertanyaan:** Dika reads in the library. Sari buys food in the canteen. Who is in the library?
 
 **Pilihan jawaban:**
-- I eat orange juice in the canteen.
-- I drink water in the canteen.
-- I drink noodles in the canteen.
-- I eat milk in the canteen.
+- Dika
+- Sari
+- both children
+- the teacher
 
-**Kunci Jawaban:** I drink water in the canteen.
+**Kunci Jawaban:** Dika
 
-**Pembahasan:** The phrase identifies where the action happens.
+**Pembahasan:** Kalimat pertama menempatkan Dika di perpustakaan.
 
 ---
 
 ## Soal 28 — K03-ENG-B08-M01-028
 
-**Pertanyaan:** Which sentence is about a drink, not a food?
+**Pertanyaan:** Lina teaches in the classroom. Bimo studies there. What do Lina and Bimo do in the same place?
 
 **Pilihan jawaban:**
-- I eat bread.
-- I drink milk.
-- I eat noodles.
-- I eat rice.
+- teach and study
+- eat and drink
+- buy and play
+- read and pray
 
-**Kunci Jawaban:** I drink milk.
+**Kunci Jawaban:** teach and study
 
-**Pembahasan:** Milk is a drink in this context.
+**Pembahasan:** Kedua kegiatan terjadi di ruang kelas.
 
 ---
 
 ## Soal 29 — K03-ENG-B08-M01-029
 
-**Pertanyaan:** Which sentence is about eating, not drinking?
+**Pertanyaan:** Which sentence tells an activity and its place?
 
 **Pilihan jawaban:**
-- I drink tea.
-- I drink water.
-- I eat noodles.
-- I drink milk.
+- The library is big.
+- I read books in the library.
+- The book is blue.
+- There are two chairs.
 
-**Kunci Jawaban:** I eat noodles.
+**Kunci Jawaban:** I read books in the library.
 
-**Pembahasan:** Noodles are food.
+**Pembahasan:** Kalimat tersebut memuat kegiatan **read** dan tempat **library**.
 
 ---
 
 ## Soal 30 — K03-ENG-B08-M01-030
 
-**Pertanyaan:** A: Do you drink water? B: Yes, I do. What do we know?
+**Pertanyaan:** Rafi buys water in the canteen and drinks it in the schoolyard. Where does he buy water?
 
 **Pilihan jawaban:**
-- The speaker drinks water.
-- The speaker eats water.
-- The speaker does not drink water.
-- The speaker drinks bread.
+- in the classroom
+- in the canteen
+- in the library
+- in the prayer room
 
-**Kunci Jawaban:** The speaker drinks water.
+**Kunci Jawaban:** in the canteen
 
-**Pembahasan:** 'Yes, I do' confirms the question.
+**Pembahasan:** Informasi pertama menyebutkan tempat membeli air.
 
 ---
 
 ## Soal 31 — K03-ENG-B08-M01-031
 
-**Pertanyaan:** A: Do you drink milk? B: No, I don't. What do we know?
+**Pertanyaan:** A teacher writes on the board. What object is used for the activity?
 
 **Pilihan jawaban:**
-- The speaker drinks milk.
-- The speaker eats milk.
-- The speaker does not drink milk.
-- The speaker drinks noodles.
+- a board
+- a football
+- a food tray
+- a prayer mat
 
-**Kunci Jawaban:** The speaker does not drink milk.
+**Kunci Jawaban:** a board
 
-**Pembahasan:** The negative reply denies the action.
+**Pembahasan:** Guru menulis pada papan.
 
 ---
 
 ## Soal 32 — K03-ENG-B08-M01-032
 
-**Pertanyaan:** Read: 'The canteen is beside the classroom.' Which place is beside the classroom?
+**Pertanyaan:** Two children play football. Which verb agrees with the plural subject?
 
 **Pilihan jawaban:**
-- canteen
-- milk
-- tea
-- classroom
+- plays
+- play
+- teaches
+- writes
 
-**Kunci Jawaban:** canteen
+**Kunci Jawaban:** play
 
-**Pembahasan:** The sentence names the canteen as beside the classroom.
+**Pembahasan:** Subjek jamak **two children** memakai **play**.
 
 ---
 
 ## Soal 33 — K03-ENG-B08-M01-033
 
-**Pertanyaan:** Rara goes to the library and reads books. What does she do there?
+**Pertanyaan:** A: What does Joshua do in the library? B: He ___.
 
 **Pilihan jawaban:**
 - reads books
-- classroom
-- library
-- bread
+- buys lunch
+- plays football
+- washes his face
 
 **Kunci Jawaban:** reads books
 
-**Pembahasan:** The sentence states that she reads books.
+**Pembahasan:** Jawaban sesuai kegiatan di perpustakaan.
 
 ---
 
 ## Soal 34 — K03-ENG-B08-M01-034
 
-**Pertanyaan:** Which words complete 'I ___ tea in the ___'?
+**Pertanyaan:** Which pair has the correct activity and place?
 
 **Pilihan jawaban:**
-- drink; canteen
-- eat; library
-- drink; noodles
-- read; milk
+- read — library
+- teach — canteen
+- buy food — prayer room
+- play football — restroom
 
-**Kunci Jawaban:** drink; canteen
+**Kunci Jawaban:** read — library
 
-**Pembahasan:** 'Drink' fits tea and 'canteen' fits the place.
+**Pembahasan:** Membaca buku sesuai dilakukan di perpustakaan.
 
 ---
 
 ## Soal 35 — K03-ENG-B08-M01-035
 
-**Pertanyaan:** Which words complete 'I ___ rice in the ___'?
+**Pertanyaan:** Made studies in the classroom and plays in the schoolyard. Which statement is true?
 
 **Pilihan jawaban:**
-- drink; classroom
-- eat; canteen
-- sleep; tea
-- draw; rice
+- He studies and plays in different places.
+- He buys food in both places.
+- He reads in the canteen.
+- He teaches in the schoolyard.
 
-**Kunci Jawaban:** eat; canteen
+**Kunci Jawaban:** He studies and plays in different places.
 
-**Pembahasan:** 'Eat' fits rice and 'canteen' fits the place.
+**Pembahasan:** Dua kegiatan Made berlangsung di tempat yang berbeda.
 
 ---

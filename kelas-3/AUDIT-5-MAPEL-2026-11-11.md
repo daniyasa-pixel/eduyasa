@@ -307,3 +307,16 @@ empat opsi unik, kunci berada di opsi, pembahasan ada, JSON metadata TTS dapat
 diparse, dan 10 SVG valid XML. Kumulatif audit isi menjadi **1.210/1.945**,
 dengan **735 soal pada 16 bab/unit** belum lulus audit final. Uji suara nyata
 dan WebView tetap menunggu tahap aplikasi. Titik lanjut: Bahasa Inggris Unit 8.
+
+
+## Kelanjutan 13 November 2026 — Bahasa Inggris Unit 8
+
+Unit 8 diperiksa terhadap buku siswa dan panduan guru *My Next Words Grade 3*.
+Lima puluh soal dan dua modul ditulis ulang dengan fokus aktivitas sekolah dan
+tempatnya. Sepuluh ilustrasi emoji diganti adegan yang menjalankan fungsi
+stimulus; lima TTS diselaraskan. ID dan jumlah 35 teks + 10 gambar + 5 listening
+tetap. Pemeriksaan sumber: 50 ID unik, empat opsi unik, kunci berada di opsi,
+pembahasan ada, metadata TTS valid, dan 10 SVG valid XML. Kumulatif audit isi
+**1.260/1.945**, dengan **685 soal pada 15 bab/unit** tersisa. JSON Unit 8 yang
+telah dibuat sebelumnya tidak lagi cocok dengan Markdown dan wajib dikonversi
+ulang pada tahap JSON. Titik lanjut: Bahasa Inggris Unit 9.

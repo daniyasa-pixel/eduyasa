@@ -62,3 +62,11 @@ Jika Markdown tidak dapat diparse dengan pasti, laporkan `SOURCE_BLOCKER` dengan
 ## Riwayat
 
 Aturan sebelumnya meminta audit isi sebelum JSON; aturan itu **dicabut atas instruksi pengguna pada 12 November 2026**. Gunakan ketentuan terbaru dalam dokumen ini. Catatan revisi akademik terdahulu tetap ada pada progres sebagai riwayat, bukan prasyarat Codex saat ini.
+
+
+## Perubahan sumber setelah konversi — 13 November 2026
+
+Bahasa Inggris Unit 8 direvisi setelah konversi 12 November. Empat JSON Unit 8
+berstatus **STALE_SOURCE_CHANGED**. Regenerasi dari Markdown `main` terbaru,
+bandingkan ulang seluruh 50 ID, urutan opsi, TTS, media, dan dua modul. Jangan
+menyalin kembali isi JSON lama ke Markdown.

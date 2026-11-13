@@ -2,180 +2,180 @@
 
 ## Soal 36 — K03-ENG-B08-M01-036
 
-![Picture](assets/eng-b08-gambar-01.svg)
+![School activity 1](assets/eng-b08-gambar-01.svg)
 
-**Pertanyaan:** Which drink is shown?
+**Pertanyaan:** What does the student do in the library?
 
 **Pilihan jawaban:**
-- orange juice
-- noodles
-- milk
-- classroom
+- reads a book
+- buys food
+- plays football
+- washes his face
 
-**Kunci Jawaban:** orange juice
+**Kunci Jawaban:** reads a book
 
-**Pembahasan:** Gambar menunjukkan "orange juice" (jus jeruk).
+**Pembahasan:** Gambar menunjukkan siswa membaca buku di perpustakaan.
 
 ---
 
 ## Soal 37 — K03-ENG-B08-M01-037
 
-![Picture](assets/eng-b08-gambar-02.svg)
+![School activity 2](assets/eng-b08-gambar-02.svg)
 
-**Pertanyaan:** What liquid is pictured?
+**Pertanyaan:** What does the teacher do?
 
 **Pilihan jawaban:**
-- orange juice
-- tea
-- library
-- water
+- teaches in the classroom
+- buys food in the canteen
+- plays in the schoolyard
+- prays in the prayer room
 
-**Kunci Jawaban:** water
+**Kunci Jawaban:** teaches in the classroom
 
-**Pembahasan:** Gambar menunjukkan "water" (air).
+**Pembahasan:** Guru menunjuk tulisan di papan kelas.
 
 ---
 
 ## Soal 38 — K03-ENG-B08-M01-038
 
-![Picture](assets/eng-b08-gambar-03.svg)
+![School activity 3](assets/eng-b08-gambar-03.svg)
 
-**Pertanyaan:** Which drink appears in the picture?
+**Pertanyaan:** Which activity is shown?
 
 **Pilihan jawaban:**
-- canteen
-- bread
-- milk
-- water
+- writing
+- drinking
+- playing
+- buying
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** writing
 
-**Pembahasan:** Gambar menunjukkan "milk" (susu).
+**Pembahasan:** Siswa memegang pensil dan menulis di kertas.
 
 ---
 
 ## Soal 39 — K03-ENG-B08-M01-039
 
-![Picture](assets/eng-b08-gambar-04.svg)
+![School activity 4](assets/eng-b08-gambar-04.svg)
 
-**Pertanyaan:** Which word names the pictured beverage?
+**Pertanyaan:** What do the students do?
 
 **Pilihan jawaban:**
-- rice
-- tea
-- milk
-- classroom
+- study Math
+- buy lunch
+- play football
+- read a menu
 
-**Kunci Jawaban:** tea
+**Kunci Jawaban:** study Math
 
-**Pembahasan:** Gambar menunjukkan "tea" (teh).
+**Pembahasan:** Dua siswa belajar Matematika di ruang kelas.
 
 ---
 
 ## Soal 40 — K03-ENG-B08-M01-040
 
-![Picture](assets/eng-b08-gambar-05.svg)
+![School activity 5](assets/eng-b08-gambar-05.svg)
 
-**Pertanyaan:** Which school place is pictured?
+**Pertanyaan:** Which sentence matches the picture?
 
 **Pilihan jawaban:**
-- canteen
-- tea
-- library
-- noodles
+- The child drinks water in the canteen.
+- The child reads in the library.
+- The child writes in the classroom.
+- The child plays in the schoolyard.
 
-**Kunci Jawaban:** canteen
+**Kunci Jawaban:** The child drinks water in the canteen.
 
-**Pembahasan:** Gambar menunjukkan "canteen" (kantin).
+**Pembahasan:** Gelas di dekat mulut menunjukkan kegiatan minum.
 
 ---
 
 ## Soal 41 — K03-ENG-B08-M01-041
 
-![Picture](assets/eng-b08-gambar-06.svg)
+![School activity 6](assets/eng-b08-gambar-06.svg)
 
-**Pertanyaan:** Where do students study in the picture?
+**Pertanyaan:** Which activity is shown in the canteen?
 
 **Pilihan jawaban:**
-- canteen
-- bread
-- orange juice
-- classroom
+- eating food
+- teaching Math
+- reading books
+- playing football
 
-**Kunci Jawaban:** classroom
+**Kunci Jawaban:** eating food
 
-**Pembahasan:** Gambar menunjukkan "classroom" (kelas).
+**Pembahasan:** Gambar memperlihatkan anak makan dari piring.
 
 ---
 
 ## Soal 42 — K03-ENG-B08-M01-042
 
-![Picture](assets/eng-b08-gambar-07.svg)
+![School activity 7](assets/eng-b08-gambar-07.svg)
 
-**Pertanyaan:** Which place is used to read books?
+**Pertanyaan:** What does the child do at the counter?
 
 **Pilihan jawaban:**
-- rice
-- water
-- library
-- classroom
+- buys food
+- writes a letter
+- studies Math
+- prays
 
-**Kunci Jawaban:** library
+**Kunci Jawaban:** buys food
 
-**Pembahasan:** Gambar menunjukkan "library" (perpustakaan).
+**Pembahasan:** Anak menyerahkan uang dan menerima makanan.
 
 ---
 
 ## Soal 43 — K03-ENG-B08-M01-043
 
-![Picture](assets/eng-b08-gambar-08.svg)
+![School activity 8](assets/eng-b08-gambar-08.svg)
 
-**Pertanyaan:** Which food is pictured?
+**Pertanyaan:** Which sentence matches the picture?
 
 **Pilihan jawaban:**
-- milk
-- bread
-- library
-- noodles
+- The children play football in the schoolyard.
+- The children read in the library.
+- The children buy food in the canteen.
+- The children write in the classroom.
 
-**Kunci Jawaban:** bread
+**Kunci Jawaban:** The children play football in the schoolyard.
 
-**Pembahasan:** Gambar menunjukkan "bread" (roti).
+**Pembahasan:** Bola dan lapangan menunjukkan kegiatan bermain sepak bola.
 
 ---
 
 ## Soal 44 — K03-ENG-B08-M01-044
 
-![Picture](assets/eng-b08-gambar-09.svg)
+![School activity 9](assets/eng-b08-gambar-09.svg)
 
-**Pertanyaan:** What food appears in the image?
+**Pertanyaan:** Where does the child pray?
 
 **Pilihan jawaban:**
-- rice
-- bread
-- orange juice
-- tea
+- in the prayer room
+- in the canteen
+- in the library
+- in the schoolyard
 
-**Kunci Jawaban:** rice
+**Kunci Jawaban:** in the prayer room
 
-**Pembahasan:** Gambar menunjukkan "rice" (nasi).
+**Pembahasan:** Gambar menunjukkan kegiatan berdoa di ruang ibadah.
 
 ---
 
 ## Soal 45 — K03-ENG-B08-M01-045
 
-![Picture](assets/eng-b08-gambar-10.svg)
+![School activity 10](assets/eng-b08-gambar-10.svg)
 
-**Pertanyaan:** Which food is shown here?
+**Pertanyaan:** What does the child do in the restroom?
 
 **Pilihan jawaban:**
-- rice
-- water
-- canteen
-- noodles
+- washes his face
+- reads a book
+- buys food
+- plays football
 
-**Kunci Jawaban:** noodles
+**Kunci Jawaban:** washes his face
 
-**Pembahasan:** Gambar menunjukkan "noodles" (mi).
+**Pembahasan:** Wastafel dan air menunjukkan kegiatan membasuh wajah.
 
 ---

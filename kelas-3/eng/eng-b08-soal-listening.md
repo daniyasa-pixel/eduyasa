@@ -1,104 +1,103 @@
 # Unit 8 — 5 Soal Listening
 
-**Status:** Web Speech API (speechSynthesis), bukan MP3; transkrip produksi harus disembunyikan dari siswa. Uji perangkat masih diperlukan.
+**Status:** Web Speech API (speechSynthesis), bukan MP3. Transkrip produksi disembunyikan dari siswa. Perlu uji perangkat.
 
 ## Soal 46 — K03-ENG-B08-M01-046
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"I drink orange juice in the canteen.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Bu Nina teaches in the classroom.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** I drink orange juice in the canteen.
+**Transkrip produksi (disembunyikan dari siswa):** Bu Nina teaches in the classroom.
 
-**Pertanyaan:** Listen carefully. What does the speaker drink?
+**Pertanyaan:** Listen carefully. What does Bu Nina do?
 
 **Pilihan jawaban:**
-- water
-- orange juice
-- milk
-- tea
+- teaches
+- studies
+- buys food
+- plays football
 
-**Kunci Jawaban:** orange juice
+**Kunci Jawaban:** teaches
 
-**Pembahasan:** The speaker names orange juice.
+**Pembahasan:** Audio menyebutkan bahwa Bu Nina mengajar.
 
 ---
 
 ## Soal 47 — K03-ENG-B08-M01-047
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"I eat rice and drink water.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Joshua reads a book in the library.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** I eat rice and drink water.
+**Transkrip produksi (disembunyikan dari siswa):** Joshua reads a book in the library.
 
-**Pertanyaan:** Listen carefully. What does the speaker drink?
+**Pertanyaan:** Listen carefully. Where does Joshua read?
 
 **Pilihan jawaban:**
-- rice
-- noodles
-- water
-- bread
+- in the canteen
+- in the library
+- in the schoolyard
+- in the restroom
 
-**Kunci Jawaban:** water
+**Kunci Jawaban:** in the library
 
-**Pembahasan:** Drink water is in the sentence.
+**Pembahasan:** Audio menyebutkan tempatnya adalah perpustakaan.
 
 ---
 
 ## Soal 48 — K03-ENG-B08-M01-048
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Do you drink milk? Yes, I do.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Cici buys food in the canteen.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** Do you drink milk? Yes, I do.
+**Transkrip produksi (disembunyikan dari siswa):** Cici buys food in the canteen.
 
-**Pertanyaan:** Listen carefully. What drink does the speaker confirm?
+**Pertanyaan:** Listen carefully. What does Cici buy?
 
 **Pilihan jawaban:**
-- milk
-- tea
-- orange juice
-- water
+- food
+- a book
+- a ball
+- a pencil
 
-**Kunci Jawaban:** milk
+**Kunci Jawaban:** food
 
-**Pembahasan:** Yes confirms milk.
+**Pembahasan:** Audio menyebutkan bahwa Cici membeli makanan.
 
 ---
 
 ## Soal 49 — K03-ENG-B08-M01-049
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"I drink tea, not orange juice.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Made and Joshua play football in the schoolyard.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** I drink tea, not orange juice.
+**Transkrip produksi (disembunyikan dari siswa):** Made and Joshua play football in the schoolyard.
 
-**Pertanyaan:** Listen carefully. Which drink is chosen?
+**Pertanyaan:** Listen carefully. What do Made and Joshua do?
 
 **Pilihan jawaban:**
-- milk
-- orange juice
-- water
-- tea
+- read books
+- study Math
+- play football
+- write letters
 
-**Kunci Jawaban:** tea
+**Kunci Jawaban:** play football
 
-**Pembahasan:** The speaker says tea, not orange juice.
+**Pembahasan:** Kegiatan yang disebutkan adalah bermain sepak bola.
 
 ---
 
 ## Soal 50 — K03-ENG-B08-M01-050
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Where do you eat lunch? I eat lunch in the canteen.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Aisyah writes the lesson in the classroom.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** Where do you eat lunch? I eat lunch in the canteen.
+**Transkrip produksi (disembunyikan dari siswa):** Aisyah writes the lesson in the classroom.
 
-**Pertanyaan:** Listen carefully. Where does the speaker eat?
+**Pertanyaan:** Listen carefully. Which sentence matches the audio?
 
 **Pilihan jawaban:**
-- library
-- canteen
-- classroom
-- garden
+- Aisyah writes in the classroom.
+- Aisyah drinks in the canteen.
+- Aisyah plays in the schoolyard.
+- Aisyah reads in the library.
 
-**Kunci Jawaban:** canteen
+**Kunci Jawaban:** Aisyah writes in the classroom.
 
-**Pembahasan:** The place is the canteen.
+**Pembahasan:** Audio menyatakan bahwa Aisyah menulis di ruang kelas.
 
 ---
-

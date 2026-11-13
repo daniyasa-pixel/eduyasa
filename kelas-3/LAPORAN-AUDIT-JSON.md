@@ -1,3 +1,5 @@
+> **PERINGATAN 13 NOVEMBER 2026:** Markdown Bahasa Inggris Unit 8 berubah setelah konversi. Status PASS lama untuk `eng-b08*.json` dan `eng-b08-materi.json` dicabut menjadi **STALE_SOURCE_CHANGED** sampai empat file diregenerasi dan diaudit ulang terhadap sumber terbaru.
+
 # Audit integritas JSON EDUYASA Kelas 3
 
 Tanggal checkpoint: 12 November 2026. Tujuan audit: **membandingkan hasil konversi JSON dengan sumber Markdown**, bukan mengaudit kebenaran atau mutu akademik isi.

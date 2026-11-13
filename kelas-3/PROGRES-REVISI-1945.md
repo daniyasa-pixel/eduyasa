@@ -18,12 +18,12 @@
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
-| Bahasa Inggris | Unit 1–7: 350 soal dan empat belas modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7 memiliki 10 SVG fungsional | 350/500 diperiksa; 35 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | 150 soal/3 unit; uji suara dan WebView di tahap aplikasi |
+| Bahasa Inggris | Unit 1–8: 400 soal dan enam belas modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7–8 masing-masing 10 SVG fungsional | 400/500 diperiksa; 40 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | 100 soal/2 unit; uji suara dan WebView di tahap aplikasi |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **1.210/1.945**. Jumlah diubah: **1.189**.
-Sisa audit isi: **735 soal pada 16 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **1.260/1.945**. Jumlah diubah: **1.239**.
+Sisa audit isi: **685 soal pada 15 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -684,3 +684,24 @@ IPAS Kelas 3 selesai dikonversi: **560 soal** (400 teks, 160 bergambar), **16 mo
 ## Checkpoint final 2026-11-12 — 1.945/1.945 soal sudah dikonversi JSON
 
 Semua bank soal lima mapel sasaran **sudah dikonversi dan lulus audit integritas data Markdown ↔ JSON**: IPAS 560, PAI 300, ENG 500, PJOK 360, SBD 225. Fase konversi menghasilkan **115 berkas JSON** soal/materi dan **5 manifest**. Batch PJOK: 16 bank JSON untuk 8 unit (280 soal teks + 80 bergambar), 360 ID unik, posisi/opsi/kunci/pembahasan/media cocok, **0 mismatch**. Tidak dilakukan audit akademik. **Modul PJOK belum tersedia di sumber**, status NOT_AVAILABLE_IN_SOURCE untuk delapan unit; tidak membuat JSON modul fiktif. Aktivasi menu serta pengujian HP/WebView masih tahap terpisah. Laporan rinci: `kelas-3/LAPORAN-AUDIT-JSON.md`.
+
+
+### Kelanjutan: Bahasa Inggris Unit 8
+
+Seluruh 50 soal dan dua modul diperiksa terhadap Unit 8 buku siswa dan panduan
+guru *My Next Words Grade 3*. Sumber lama terlalu berpusat pada nama makanan,
+minuman, dan pola `Do you ...?`. Bank ditulis ulang sesuai tujuan aktivitas di
+sekolah: **study, teach, eat, drink, buy, read, write, play,** dan **pray**,
+beserta tempat kegiatannya. Bentuk kata kerja subjek tunggal dan jamak
+dijelaskan pada tingkat sederhana. Semua ID 001–050 dan komposisi 35+10+5 tetap.
+
+Sepuluh SVG emoji generik diganti dengan adegan fungsional: membaca, mengajar,
+menulis, belajar, minum, makan, membeli, bermain, berdoa, dan membasuh wajah.
+Lima naskah TTS diselaraskan dengan aktivitas sekolah. Pemeriksaan paket:
+50 ID unik berurutan, empat opsi unik, satu kunci cocok, pembahasan tersedia,
+metadata TTS dapat diparse, serta sepuluh SVG valid XML.
+
+Kumulatif audit isi **1.260/1.945**. Sisa **685 soal pada 15 bab/unit**.
+Titik lanjut: Bahasa Inggris Unit 9. Karena JSON Unit 8 sudah dibuat dari sumber
+lama, empat JSON Unit 8 dan audit kesetiaannya kini berstatus **STALE** dan harus
+diregenerasi pada tahap konversi terpisah sebelum dipakai sebagai data kanonis.
