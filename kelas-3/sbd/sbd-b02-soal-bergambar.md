@@ -1,183 +1,183 @@
 # Bab 2 — Belajar dari Karya Orang Lain
 
-10 soal bergambar — pertanyaan sudah disesuaikan dengan situasi ilustrasi; media ditangani terpisah.
+10 soal bergambar — ilustrasi berfungsi sebagai stimulus pengamatan, presentasi, tafsiran, umpan balik, proses, dan refleksi karya.
 
 ## Soal 36 — K03-SBD-B02-M01-036
 
-![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-01.svg)
+![Karya dengan lingkaran, garis berombak, dan pola titik](assets/sbd-b02-gambar-01.svg)
 
-**Pertanyaan:** Perhatikan potongan bahan berbeda yang direkatkan pada bidang kertas. Cara membuat karya itu disebut ....
+**Pertanyaan:** Pernyataan manakah yang sesuai dengan unsur yang terlihat pada karya?
 
 **Pilihan jawaban:**
-- memukul drum
-- menari berpasangan
-- menempel berbagai bahan pada bidang
-- menyanyi bersama
+- Tiga lingkaran kuning berada di atas garis berombak
+- Semua bentuk pada karya berupa persegi merah
+- Karya tidak menggunakan garis
+- Hanya ada satu titik pada karya
 
-**Kunci Jawaban:** menempel berbagai bahan pada bidang
+**Kunci Jawaban:** Tiga lingkaran kuning berada di atas garis berombak
 
-**Pembahasan:** Kolase dibuat dengan menempel berbagai bahan pada bidang.
+**Pembahasan:** Karya menampilkan tiga lingkaran kuning, garis berombak, serta pola titik; pernyataan pertama sesuai bukti visual.
 
 ---
 
 ## Soal 37 — K03-SBD-B02-M01-037
 
-![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-02.svg)
+![Dua kartu komentar terhadap karya](assets/sbd-b02-gambar-02.svg)
 
-**Pertanyaan:** Keping-keping kecil disusun berdekatan untuk mengisi gambar pada ilustrasi. Teknik yang dicontohkan memakai ....
+**Pertanyaan:** Komentar manakah yang paling spesifik dan santun?
 
 **Pilihan jawaban:**
-- satu nada panjang
-- suara air
-- gerakan lari
-- potongan kecil bahan yang disusun
+- komentar pada kartu kiri
+- komentar pada kartu kanan
+- keduanya hanya memberi peringkat
+- keduanya tidak membahas karya
 
-**Kunci Jawaban:** potongan kecil bahan yang disusun
+**Kunci Jawaban:** komentar pada kartu kiri
 
-**Pembahasan:** Mozaik dapat dibuat dari potongan kecil bahan yang disusun.
+**Pembahasan:** Kartu kiri menyebut bagian yang diamati dan alasannya, sedangkan kartu kanan hanya merendahkan.
 
 ---
 
 ## Soal 38 — K03-SBD-B02-M01-038
 
-![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-03.svg)
+![Urutan kartu presentasi karya](assets/sbd-b02-gambar-03.svg)
 
-**Pertanyaan:** Seorang anak menanggapi karya teman pada ilustrasi. Agar tanggapannya membantu, isi komentar harus berupa ....
+**Pertanyaan:** Kartu presentasi ketiga masih kosong. Informasi yang paling tepat untuk melengkapinya adalah ....
 
 **Pilihan jawaban:**
-- saran yang jelas dan santun
-- ejekan pribadi
-- ancaman
-- kebohongan
+- proses membuat dan perubahan yang dilakukan
+- nilai ulangan pembuat karya
+- daftar makanan kesukaan
+- peringkat karya di kelas
 
-**Kunci Jawaban:** saran yang jelas dan santun
+**Kunci Jawaban:** proses membuat dan perubahan yang dilakukan
 
-**Pembahasan:** Kritik membangun sebaiknya berisi saran yang jelas dan santun.
+**Pembahasan:** Setelah judul dan ide, presentasi dapat menjelaskan proses, pilihan, atau perubahan selama membuat karya.
 
 ---
 
 ## Soal 39 — K03-SBD-B02-M01-039
 
-![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-04.svg)
+![Susunan bentuk seimbang](assets/sbd-b02-gambar-04.svg)
 
-**Pertanyaan:** Dua karya pada gambar menggunakan gaya berbeda. Bagaimana pengunjung seharusnya memperlakukan keduanya?
+**Pertanyaan:** Apa yang dapat dikatakan tentang susunan bentuk pada gambar?
 
 **Pilihan jawaban:**
-- ditertawakan
-- tetap dihargai
-- disembunyikan
-- dihancurkan
+- bagian kiri dan kanan terasa seimbang
+- semua bentuk berkumpul di sudut kiri
+- gambar hanya memiliki satu warna
+- tidak ada bidang pada gambar
 
-**Kunci Jawaban:** tetap dihargai
+**Kunci Jawaban:** bagian kiri dan kanan terasa seimbang
 
-**Pembahasan:** Karya teman yang berbeda gaya sebaiknya tetap dihargai.
+**Pembahasan:** Bentuk pada kedua sisi berbeda, tetapi ukuran dan penempatannya membuat kekuatan visual terasa seimbang.
 
 ---
 
 ## Soal 40 — K03-SBD-B02-M01-040
 
-![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-05.svg)
+![Dua kesan terhadap satu karya](assets/sbd-b02-gambar-05.svg)
 
-**Pertanyaan:** Pada kartu pengenal karya yang ditunjukkan, informasi apa yang seharusnya tercantum?
+**Pertanyaan:** Dua pengunjung memberi kesan berbeda terhadap karya yang sama. Kesimpulan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- kata ejekan
-- rahasia keluarga
-- judul dan nama pembuat
-- nilai rapor teman
+- keduanya boleh menjelaskan alasan berdasarkan karya
+- hanya kesan kiri yang boleh disampaikan
+- pengunjung kanan harus menghapus pendapatnya
+- karya harus diubah agar semua sepakat
 
-**Kunci Jawaban:** judul dan nama pembuat
+**Kunci Jawaban:** keduanya boleh menjelaskan alasan berdasarkan karya
 
-**Pembahasan:** Label karya pameran dapat memuat judul dan nama pembuat.
+**Pembahasan:** Kesan terhadap karya dapat berbeda; setiap pengunjung perlu menjelaskan alasannya dengan santun.
 
 ---
 
 ## Soal 41 — K03-SBD-B02-M01-041
 
-![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-06.svg)
+![Mendengarkan dan menyela presentasi](assets/sbd-b02-gambar-06.svg)
 
-**Pertanyaan:** Di meja tampak kardus bekas bersih yang hendak dipakai membuat hiasan. Bahan itu dapat menjadi ....
+**Pertanyaan:** Perilaku mendengarkan yang tepat ditunjukkan oleh ....
 
 **Pilihan jawaban:**
-- sampah yang harus dibakar
-- bahan makanan
-- alat musik otomatis
-- bahan berkarya kreatif
+- kelompok di sebelah kiri
+- kelompok di sebelah kanan
+- kedua kelompok sedang menyela
+- tidak ada yang memperhatikan
 
-**Kunci Jawaban:** bahan berkarya kreatif
+**Kunci Jawaban:** kelompok di sebelah kiri
 
-**Pembahasan:** Bahan bekas bersih dapat dijadikan bahan berkarya kreatif.
+**Pembahasan:** Kelompok kiri memandang penyaji dan menunggu giliran, sedangkan kelompok kanan berbicara saat presentasi berlangsung.
 
 ---
 
 ## Soal 42 — K03-SBD-B02-M01-042
 
-![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-07.svg)
+![Garis biru dan lingkaran kuning](assets/sbd-b02-gambar-07.svg)
 
-**Pertanyaan:** Pengunjung melihat karya yang diberi tanda tidak boleh disentuh. Apa perilaku yang tepat?
+**Pertanyaan:** Manakah kalimat pengamatan yang sesuai dengan gambar?
 
 **Pilihan jawaban:**
-- mengikuti aturan dan tidak menyentuh karya tanpa izin
-- menarik bingkai
-- mencoret karya
-- berlari di dekat pajangan
+- Ada tiga garis biru berombak dan satu lingkaran kuning
+- Gambar pasti menceritakan kesedihan
+- Pembuatnya tentu ingin pergi ke laut
+- Lingkaran berarti persahabatan selamanya
 
-**Kunci Jawaban:** mengikuti aturan dan tidak menyentuh karya tanpa izin
+**Kunci Jawaban:** Ada tiga garis biru berombak dan satu lingkaran kuning
 
-**Pembahasan:** Mengunjungi pameran seni sebaiknya mengikuti aturan dan tidak menyentuh karya tanpa izin.
+**Pembahasan:** Kalimat pertama menyebut jumlah, warna, dan bentuk yang terlihat; pilihan lain merupakan tafsiran yang belum dibuktikan.
 
 ---
 
 ## Soal 43 — K03-SBD-B02-M01-043
 
-![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-08.svg)
+![Dua bentuk tanggapan karya](assets/sbd-b02-gambar-08.svg)
 
-**Pertanyaan:** Dalam karya berwarna pada ilustrasi, ada satu warna mengisi sebagian besar bidang. Warna dominan berarti warna yang ....
+**Pertanyaan:** Tanggapan manakah yang berupa saran membangun?
 
 **Pilihan jawaban:**
-- tidak terlihat
-- paling menonjol
-- tidak dipakai
-- selalu putih
+- tanggapan pada kartu kiri
+- tanggapan pada kartu kanan
+- keduanya memerintah dengan kasar
+- keduanya membahas nilai rapor
 
-**Kunci Jawaban:** paling menonjol
+**Kunci Jawaban:** tanggapan pada kartu kiri
 
-**Pembahasan:** Warna yang dominan pada karya berarti warna yang paling menonjol.
+**Pembahasan:** Kartu kiri menawarkan perubahan khusus yang dapat dicoba, sedangkan kartu kanan memerintah dan merendahkan.
 
 ---
 
 ## Soal 44 — K03-SBD-B02-M01-044
 
-![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-09.svg)
+![Karya campuran krayon dan potongan kertas](assets/sbd-b02-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan karya berisi pegunungan dan aliran air. Jenis objek utama gambar itu adalah ....
+**Pertanyaan:** Berdasarkan karya dan bahan yang terlihat, penjelasan proses yang paling sesuai adalah ....
 
 **Pilihan jawaban:**
-- rumus matematika
-- daftar belanja
-- alam seperti gunung atau sungai
-- hanya angka
+- krayon dipakai memberi warna dan potongan kertas ditempel sebagai bentuk
+- penggaris dipakai menghasilkan suara dan lem dijadikan warna
+- potongan kertas ditiup agar menjadi patung
+- krayon digunakan untuk memotong kertas
 
-**Kunci Jawaban:** alam seperti gunung atau sungai
+**Kunci Jawaban:** krayon dipakai memberi warna dan potongan kertas ditempel sebagai bentuk
 
-**Pembahasan:** Lukisan pemandangan biasanya menampilkan alam seperti gunung atau sungai.
+**Pembahasan:** Jejak krayon memberi warna, sedangkan potongan kertas menjadi bentuk yang ditempel pada bidang.
 
 ---
 
 ## Soal 45 — K03-SBD-B02-M01-045
 
-![Ilustrasi unsur seni rupa](assets/sbd-b02-gambar-10.svg)
+![Catatan kelebihan dan rencana perbaikan](assets/sbd-b02-gambar-10.svg)
 
-**Pertanyaan:** Siswa menjelaskan bagian menarik dari lukisan temannya. Tindakan itu merupakan contoh ....
+**Pertanyaan:** Catatan refleksi pada gambar menunjukkan bahwa pembuat ....
 
 **Pilihan jawaban:**
-- perundungan
-- plagiarisme
-- perusakan
-- apresiasi positif
+- mengenali kelebihan dan merencanakan perbaikan
+- memberi peringkat pada karya teman
+- menolak melihat prosesnya sendiri
+- menyalin komentar orang lain
 
-**Kunci Jawaban:** apresiasi positif
+**Kunci Jawaban:** mengenali kelebihan dan merencanakan perbaikan
 
-**Pembahasan:** Menyebut kelebihan karya teman merupakan contoh apresiasi positif.
+**Pembahasan:** Refleksi menyebut bagian yang berhasil serta langkah khusus yang ingin dicoba berikutnya.
 
 ---
