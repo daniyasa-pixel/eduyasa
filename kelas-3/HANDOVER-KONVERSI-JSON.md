@@ -140,3 +140,8 @@ Seluruh 45 soal Unit 8, 10 SVG, dan dua modul berubah/baru setelah konversi. Reg
 ## Perubahan sumber Seni Rupa Bab 1 — 13 November 2026
 
 Seluruh 45 soal Bab 1, 10 SVG, dan dua modul ditulis ulang setelah konversi sebelumnya. Regenerasi `sbd-b01.json`, `sbd-b01a.json`, dan `sbd-b01-materi.json`, lalu audit per-ID, urutan empat opsi, kunci, pembahasan, media, serta dua modul terhadap Markdown `main` terbaru. Jika sumber berubah lagi, audit perubahan itu satu kali sebelum konversi; bila audit menemukan revisi yang diperlukan, revisi Markdown terlebih dahulu lalu konversi ulang. Uji karya siswa, aksesibilitas, dan HP/WebView tetap tahap aplikasi.
+
+
+## Perubahan sumber Seni Rupa Bab 2 — 13 November 2026
+
+Seluruh 45 soal Bab 2, 10 SVG, dan dua modul ditulis ulang setelah konversi sebelumnya. Regenerasi `sbd-b02.json`, `sbd-b02a.json`, dan `sbd-b02-materi.json`, lalu audit per-ID, urutan empat opsi, kunci, pembahasan, media, serta dua modul terhadap Markdown `main` terbaru. Jika sumber berubah lagi, audit perubahan itu satu kali sebelum konversi; bila audit menemukan revisi yang diperlukan, revisi Markdown terlebih dahulu lalu konversi ulang. Uji diskusi siswa, aksesibilitas, dan HP/WebView tetap tahap aplikasi.
