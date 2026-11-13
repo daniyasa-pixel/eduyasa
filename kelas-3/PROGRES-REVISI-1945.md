@@ -19,11 +19,11 @@
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
 | Bahasa Inggris | Unit 1–10: 500 soal dan dua puluh modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7–10 masing-masing 10 SVG fungsional | 500/500 diperiksa; 50 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | Audit isi sumber Inggris selesai; uji suara dan WebView di tahap aplikasi |
-| PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
+| PJOK | Unit 1: 10 soal bergambar dan 10 SVG direvisi; 2 modul baru dibuat | 45/360 diperiksa terhadap buku dan keselamatan gerak | 315 soal/7 unit; uji praktik dan HP/WebView di tahap aplikasi |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **1.360/1.945**. Jumlah diubah: **1.339**.
-Sisa audit isi: **585 soal pada 13 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **1.405/1.945**. Jumlah diubah: **1.349**.
+Sisa audit isi: **540 soal pada 12 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -746,3 +746,25 @@ Bahasa Inggris selesai **500/500** pada putaran audit isi. Kumulatif lima mapel
 5 bab). Empat JSON Unit 10 yang dibuat dari sumber lama kini berstatus
 **STALE_SOURCE_CHANGED** dan harus diregenerasi pada tahap konversi terpisah.
 Titik lanjut: PJOK Unit 1.
+
+
+### Kelanjutan: PJOK Unit 1 — pola gerak dasar lokomotor
+
+Seluruh 45 soal Unit 1 diperiksa terhadap Buku Panduan Guru PJOK SD/MI Kelas
+III 2022, halaman unit pembelajaran 1. Cakupan berjalan, berlari, melompat,
+meloncat, variasi arah, mandiri, dan gotong royong sesuai acuan. Tiga puluh lima
+soal teks yang telah direvisi sebelumnya dipertahankan setelah audit isi.
+Sepuluh soal bergambar ditulis ulang agar gambar benar-benar diperlukan.
+
+Sepuluh SVG abstrak diganti dengan jalur mundur terhalang, zig-zag, perbandingan
+pendaratan, urutan pemanasan, pilihan jalur kering/basah, jejak berjalan, fase
+melayang lari, tolakan satu kaki, tolakan dua kaki, dan langkah menyamping
+berjarak. Dua modul baru dibuat (MOD-01 dan MOD-02) dengan cakupan setara:
+konsep dan variasi lokomotor, stasiun latihan, adaptasi kemampuan, pemanasan,
+kondisi lapangan, pendaratan, tanda berhenti, serta pengawasan guru.
+
+Pemeriksaan paket: 45 ID unik, empat opsi unik, satu kunci cocok, pembahasan
+tersedia, 10 referensi gambar ada, dan 10 SVG memiliki viewBox, title/desc tanpa
+skrip atau tautan eksternal. Kumulatif audit isi **1.405/1.945**; sisa **540
+soal pada 12 unit**. Titik lanjut: PJOK Unit 2. JSON gambar Unit 1 lama berstatus
+**STALE_SOURCE_CHANGED** dan materi Unit 1 perlu dikonversi pada tahap JSON.

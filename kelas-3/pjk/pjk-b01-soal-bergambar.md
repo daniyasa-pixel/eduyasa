@@ -1,183 +1,184 @@
 # Unit 1 — Aktivitas Pola Gerak Dasar Lokomotor
 
-10 soal bergambar. Gambar skematis menunjukkan arah/pola gerak; kesesuaian visual dan keterbacaan perangkat perlu diuji.
+10 soal bergambar. Stimulus menunjukkan jalur, urutan, posisi tubuh, dan kondisi lapangan yang harus dibaca untuk menjawab.
 
 ## Soal 36 — K03-PJK-B01-M01-036
 
-![Ilustrasi Berjalan mundur](assets/pjk-b01-gambar-01.svg)
+![Stimulus gerak lokomotor 1](assets/pjk-b01-gambar-01.svg)
 
-**Pertanyaan:** Diagram menunjukkan arah langkah ke belakang. Apa sikap yang aman sebelum mengikuti arah itu?
+**Pertanyaan:** Gambar menunjukkan sebuah kerucut tepat di belakang siswa yang akan berjalan mundur. Apa tindakan pertama yang aman?
 
 **Pilihan jawaban:**
-- menabrak teman
-- melangkah ke belakang sambil memeriksa keamanan
-- menutup mata saat bergerak
-- melompat tanpa melihat
+- langsung mundur dengan cepat
+- berhenti, memeriksa jalur, lalu meminta kerucut dipindahkan
+- menutup mata agar tidak takut
+- mendorong teman ke belakang
 
-**Kunci Jawaban:** melangkah ke belakang sambil memeriksa keamanan
+**Kunci Jawaban:** berhenti, memeriksa jalur, lalu meminta kerucut dipindahkan
 
-**Pembahasan:** Berjalan mundur: melangkah ke belakang sambil memeriksa keamanan.
+**Pembahasan:** Kerucut menghalangi jalur belakang. Rintangan perlu diketahui dan dipindahkan sebelum latihan dilanjutkan.
 
 ---
 
 ## Soal 37 — K03-PJK-B01-M01-037
 
-![Ilustrasi Lari zig-zag](assets/pjk-b01-gambar-02.svg)
+![Stimulus gerak lokomotor 2](assets/pjk-b01-gambar-02.svg)
 
-**Pertanyaan:** Lintasan bergaris berbelok beberapa kali. Bagaimana cara bergerak melewatinya?
+**Pertanyaan:** Perhatikan jalur yang melewati sisi bergantian dari empat kerucut. Pola gerak apakah yang sesuai?
 
 **Pilihan jawaban:**
-- berlari melewati rintangan dengan perubahan arah
-- berlari lurus tanpa belok
-- duduk di garis
-- mengangkat bola
+- lari lurus melewati semua kerucut
+- lari zig-zag dengan perubahan arah terkontrol
+- meloncat di tempat tanpa berpindah
+- berjalan mundur menjauhi lintasan
 
-**Kunci Jawaban:** berlari melewati rintangan dengan perubahan arah
+**Kunci Jawaban:** lari zig-zag dengan perubahan arah terkontrol
 
-**Pembahasan:** Lari zig-zag: berlari melewati rintangan dengan perubahan arah.
+**Pembahasan:** Jalur berbelok ke kiri dan kanan di antara kerucut menunjukkan pola zig-zag.
 
 ---
 
 ## Soal 38 — K03-PJK-B01-M01-038
 
-![Ilustrasi Mendarat setelah meloncat](assets/pjk-b01-gambar-03.svg)
+![Stimulus gerak lokomotor 3](assets/pjk-b01-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan diagram posisi kaki saat mendarat. Apa yang sebaiknya dilakukan pada lutut?
+**Pertanyaan:** Gambar A menunjukkan lutut kaku saat mendarat. Gambar B menunjukkan lutut sedikit menekuk. Posisi mana yang lebih aman?
 
 **Pilihan jawaban:**
-- mengunci lutut kaku
-- mendarat pada teman
-- menutup mata
-- menekuk lutut secara wajar agar lebih aman
+- A, karena lutut harus dikunci
+- B, karena tekukan lutut membantu meredam pendaratan
+- A dan B sama karena posisi lutut tidak penting
+- tidak keduanya; siswa harus mendarat sambil duduk
 
-**Kunci Jawaban:** menekuk lutut secara wajar agar lebih aman
+**Kunci Jawaban:** B, karena tekukan lutut membantu meredam pendaratan
 
-**Pembahasan:** Mendarat setelah meloncat: menekuk lutut secara wajar agar lebih aman.
+**Pembahasan:** Pendaratan terkontrol dilakukan dengan lutut sedikit menekuk, bukan terkunci kaku.
 
 ---
 
 ## Soal 39 — K03-PJK-B01-M01-039
 
-![Ilustrasi Pemanasan sebelum berlari](assets/pjk-b01-gambar-04.svg)
+![Stimulus gerak lokomotor 4](assets/pjk-b01-gambar-04.svg)
 
-**Pertanyaan:** Diagram menunjukkan kegiatan persiapan sebelum berlari. Apa tujuan gerak persiapan itu?
+**Pertanyaan:** Urutan gambar menunjukkan pemanasan, berjalan, lalu berlari. Mengapa pemanasan ditempatkan pertama?
 
 **Pilihan jawaban:**
-- mengganti minum air
-- menghilangkan kebutuhan istirahat
-- menyiapkan tubuh sebelum aktivitas
-- membuat tubuh langsung lelah
+- agar tubuh bersiap bergerak secara bertahap
+- agar siswa langsung kelelahan
+- agar tidak perlu memperhatikan kondisi tubuh
+- agar latihan dapat dilakukan di lantai licin
 
-**Kunci Jawaban:** menyiapkan tubuh sebelum aktivitas
+**Kunci Jawaban:** agar tubuh bersiap bergerak secara bertahap
 
-**Pembahasan:** Pemanasan sebelum berlari: menyiapkan tubuh sebelum aktivitas.
+**Pembahasan:** Pemanasan dilakukan sebelum aktivitas utama untuk menyiapkan tubuh sesuai arahan guru.
 
 ---
 
 ## Soal 40 — K03-PJK-B01-M01-040
 
-![Ilustrasi Lintasan yang aman](assets/pjk-b01-gambar-05.svg)
+![Stimulus gerak lokomotor 5](assets/pjk-b01-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan jalur pada diagram. Apa ciri jalur yang layak dipakai latihan?
+**Pertanyaan:** Gambar membandingkan Jalur A yang kering dengan Jalur B yang basah dan licin. Jalur mana yang dipilih untuk latihan?
 
 **Pilihan jawaban:**
-- basah dan licin
-- bebas dari benda tajam dan licin
-- penuh pecahan kaca
-- dipenuhi tas berserakan
+- Jalur A yang kering
+- Jalur B yang basah
+- keduanya dipakai sambil berlari secepat mungkin
+- jalur mana saja tanpa diperiksa
 
-**Kunci Jawaban:** bebas dari benda tajam dan licin
+**Kunci Jawaban:** Jalur A yang kering
 
-**Pembahasan:** Lintasan yang aman: bebas dari benda tajam dan licin.
+**Pembahasan:** Permukaan kering dan bebas hambatan lebih aman daripada jalur basah dan licin.
 
 ---
 
 ## Soal 41 — K03-PJK-B01-M01-041
 
-![Ilustrasi Berjalan](assets/pjk-b01-gambar-06.svg)
+![Stimulus gerak lokomotor 6](assets/pjk-b01-gambar-06.svg)
 
-**Pertanyaan:** Diagram menunjukkan perpindahan tempat dengan langkah kaki. Gerak apakah itu?
+**Pertanyaan:** Jejak kaki pada gambar tersusun bergantian tanpa fase kedua kaki melayang. Gerak apakah yang ditunjukkan?
 
 **Pilihan jawaban:**
-- berpindah tempat dengan melangkahkan kaki
-- memutar badan tanpa berpindah
-- melempar bola
-- menekuk lengan
+- berjalan
+- berlari
+- meloncat dua kaki
+- memutar badan di tempat
 
-**Kunci Jawaban:** berpindah tempat dengan melangkahkan kaki
+**Kunci Jawaban:** berjalan
 
-**Pembahasan:** Berjalan: berpindah tempat dengan melangkahkan kaki.
+**Pembahasan:** Langkah bergantian dengan salah satu kaki tetap menyentuh tanah merupakan ciri berjalan.
 
 ---
 
 ## Soal 42 — K03-PJK-B01-M01-042
 
-![Ilustrasi Berlari](assets/pjk-b01-gambar-07.svg)
+![Stimulus gerak lokomotor 7](assets/pjk-b01-gambar-07.svg)
 
-**Pertanyaan:** Diagram menunjukkan perpindahan tempat dengan langkah cepat. Apa ciri gerak lari?
+**Pertanyaan:** Pada gambar tengah, kedua kaki pelari sesaat tidak menyentuh tanah. Ciri tersebut menunjukkan gerak ....
 
 **Pilihan jawaban:**
-- diam di tempat
-- menangkap bola
-- mengayun lengan tanpa berpindah
-- berpindah lebih cepat dengan fase kedua kaki melayang
+- berjalan santai
+- berlari
+- berdiri seimbang
+- mengayun lengan di tempat
 
-**Kunci Jawaban:** berpindah lebih cepat dengan fase kedua kaki melayang
+**Kunci Jawaban:** berlari
 
-**Pembahasan:** Berlari: berpindah lebih cepat dengan fase kedua kaki melayang.
+**Pembahasan:** Fase kedua kaki melayang sesaat membedakan lari dari berjalan.
 
 ---
 
 ## Soal 43 — K03-PJK-B01-M01-043
 
-![Ilustrasi Melompat](assets/pjk-b01-gambar-08.svg)
+![Stimulus gerak lokomotor 8](assets/pjk-b01-gambar-08.svg)
 
-**Pertanyaan:** Diagram menunjukkan tolakan dengan satu kaki. Manakah penjelasan gerak yang sesuai?
+**Pertanyaan:** Gambar menunjukkan tolakan dari satu kaki untuk melewati garis, lalu mendarat terkendali. Gerak ini disebut ....
 
 **Pilihan jawaban:**
-- melempar bola
-- menarik tali
-- menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak
-- duduk diam
+- melompat
+- meloncat
+- berjalan menyamping
+- memutar lengan
 
-**Kunci Jawaban:** menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak
+**Kunci Jawaban:** melompat
 
-**Pembahasan:** Melompat: menolak dengan satu kaki lalu mendarat dengan kaki lain atau kedua kaki sesuai gerak.
+**Pembahasan:** Dalam materi Unit 1, melompat menggunakan tolakan satu kaki.
 
 ---
 
 ## Soal 44 — K03-PJK-B01-M01-044
 
-![Ilustrasi Meloncat](assets/pjk-b01-gambar-09.svg)
+![Stimulus gerak lokomotor 9](assets/pjk-b01-gambar-09.svg)
 
-**Pertanyaan:** Diagram menunjukkan tolakan dengan kedua kaki. Manakah penjelasan gerak yang sesuai?
+**Pertanyaan:** Gambar menunjukkan kedua kaki menolak bersama dan mendarat bersama. Gerak ini disebut ....
 
 **Pilihan jawaban:**
-- menendang bola
-- menolak dengan kedua kaki untuk berpindah
-- menggiring bola
-- memutar kepala
+- berlari
+- melompat satu kaki
+- meloncat
+- berjalan mundur
 
-**Kunci Jawaban:** menolak dengan kedua kaki untuk berpindah
+**Kunci Jawaban:** meloncat
 
-**Pembahasan:** Meloncat: menolak dengan kedua kaki untuk berpindah.
+**Pembahasan:** Dalam materi Unit 1, meloncat menggunakan tolakan kedua kaki.
 
 ---
 
 ## Soal 45 — K03-PJK-B01-M01-045
 
-![Ilustrasi Berjalan menyamping](assets/pjk-b01-gambar-10.svg)
+![Stimulus gerak lokomotor 10](assets/pjk-b01-gambar-10.svg)
 
-**Pertanyaan:** Diagram menunjukkan langkah ke samping. Apa cara yang tepat untuk melakukannya?
+**Pertanyaan:** Tiga siswa pada gambar bergerak menyamping dengan jarak antarsiswa. Aturan keselamatan yang tampak adalah ....
 
 **Pilihan jawaban:**
-- melangkah ke samping sambil menjaga keseimbangan
-- bergerak maju sambil berlari cepat
-- melempar jauh
-- berbaring
+- bergerak serapat mungkin
+- menjaga jarak dan memastikan ruang samping kosong
+- menarik baju teman agar tetap bersama
+- menutup mata saat melangkah
 
-**Kunci Jawaban:** melangkah ke samping sambil menjaga keseimbangan
+**Kunci Jawaban:** menjaga jarak dan memastikan ruang samping kosong
 
-**Pembahasan:** Berjalan menyamping: melangkah ke samping sambil menjaga keseimbangan.
+**Pembahasan:** Jarak dan ruang kosong mengurangi risiko bertabrakan saat langkah menyamping.
 
 ---
+

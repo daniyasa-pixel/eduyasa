@@ -87,3 +87,12 @@ JSON, regenerasi dari `main` terbaru lalu bandingkan 50 ID, opsi, metadata TTS,
 sepuluh media, dan dua modul. Jika Markdown kembali berubah, audit perubahan itu
 satu kali sebelum konversi; revisi sumber yang diperlukan boleh dilakukan lalu
 konversi ulang.
+
+
+## Perubahan sumber PJOK Unit 1 — 13 November 2026
+
+Audit isi Unit 1 selesai. Markdown gambar berubah dan file materi dua versi baru
+ditambahkan. Regenerasi `pjk-b01a.json`, buat `pjk-b01-materi.json`, lalu
+audit keduanya terhadap sumber terbaru. `pjk-b01.json` teks tidak berubah dan
+tidak perlu dibuat ulang kecuali SHA sumbernya kemudian berubah. Jika ada
+perubahan baru, audit perubahan itu satu kali sebelum konversi.

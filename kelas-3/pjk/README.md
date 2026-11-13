@@ -19,10 +19,20 @@ Pemeriksaan sumber setelah revisi: **360 soal, 360 ID unik, 360 stem unik, empat
 
 **STATUS: REVISI SUMBER SELESAI, AUDIT FINAL BELUM.** Belum dilaksanakan verifikasi bab demi bab terhadap buku resmi, validasi jawaban semantik dan pengecoh, rendering/peninjauan visual penuh pada HP 390 px, uji pembelajaran oleh guru atau siswa, maupun validator Python keseluruhan `scripts/check-k03-question-sources.py`. Perlu pemeriksaan rinci khusus unit senam dan air; jangan langsung konversi JSON.
 
-**Modul pembelajaran:** belum dibuat untuk PJOK Kelas 3; ini tetap kekurangan paket EDUYASA yang harus diselesaikan sesuai spesifikasi aplikasi, tidak boleh dianggap selesai karena bank soal diperbaiki.
+**Modul pembelajaran:** Unit 1 sudah memiliki MOD-01 dan MOD-02. Unit 2–8 masih belum memiliki modul dan tetap menjadi kekurangan yang harus diselesaikan.
 
 Catatan serah-terima dan progres lihat `../PROGRES-REVISI-1945.md` dan `../HANDOVER-KONVERSI-JSON.md`.
 
 ## Checkpoint konversi JSON — 12 November 2026
 
 **Bank soal seluruh Unit 1–8 sudah dikonversi:** 16 JSON bank (`pjk-bNN.json` 35 teks + `pjk-bNNa.json` 10 bergambar per unit), 360/360 soal. Manifest `question-packs.json` dibuat. Audit JSON vs sumber Markdown langsung: 360 ID unik berurutan dan semua field/opsi/kunci/pembahasan/path+alt gambar cocok, **0 mismatch**. Keterangan historis `jangan langsung konversi JSON` pada bagian sebelumnya digantikan instruksi terbaru `../HANDOVER-KONVERSI-JSON.md`: audit **hasil JSON**, bukan konten akademik pra-konversi. **Modul PJOK belum tersedia, status NOT_AVAILABLE_IN_SOURCE**, sehingga belum dibuat berkas materi JSON. Menu belum diaktifkan untuk Kelas 3; perangkat HP/WebView belum diuji.
+
+
+## Audit final Unit 1 — 13 November 2026
+
+Unit 1 selesai diaudit terhadap buku guru resmi: 45 soal diperiksa, 10 soal
+bergambar dan 10 SVG direvisi, serta dua modul baru dibuat. Bank teks lama
+dipertahankan karena sudah sesuai setelah pemeriksaan isi. JSON
+`pjk-b01a.json` berstatus **STALE_SOURCE_CHANGED**; `pjk-b01-materi.json`
+belum ada dan perlu dibuat pada tahap konversi terpisah. Uji praktik siswa dan
+render HP/WebView tetap diperlukan.
