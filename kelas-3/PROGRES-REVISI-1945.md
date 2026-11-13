@@ -1,17 +1,17 @@
 # CHECKPOINT TERBARU — EDUYASA KELAS 3 (13 NOVEMBER 2026)
 
-**STATUS KESELURUHAN: AUDIT ISI MASIH BERJALAN.** IPAS 560/560, PAI 300/300, Bahasa Inggris 500/500, PJOK 360/360, dan Seni Rupa 135/225 telah diperiksa dalam putaran audit ini. Jumlah kumulatif **1.900/1.945**; sisa **45 soal pada 1 bab Seni Rupa**.
+**STATUS KESELURUHAN: AUDIT ISI SUMBER SELESAI.** IPAS 560/560, PAI 300/300, Bahasa Inggris 500/500, PJOK 360/360, dan Seni Rupa 225/225 telah diperiksa dalam putaran audit ini. Jumlah kumulatif **1.945/1.945**; tidak ada sisa audit isi Markdown pada lima mapel.
 
 Sumber tetap Markdown. Konversi JSON dan aktivasi aplikasi adalah tahap terpisah. Paket yang sumbernya berubah berstatus **STALE_SOURCE_CHANGED** sampai JSON dibuat ulang dan dibandingkan 1:1. Jika ada perubahan sumber berikutnya, audit perubahan tersebut satu kali; bila ditemukan masalah, revisi Markdown dahulu lalu konversi ulang.
 
-**Seni Rupa Bab 1–4:** 180 soal, delapan modul, dan 40 SVG telah ditulis ulang sesuai Bab I *Seni Rupa di Sekitarku*, Bab II *Bicara Tentang Karya*, dan Bab III *Berkreasi dengan Warna*, dan Bab IV *Kisah Gunting dan Tempel* pada buku guru Seni Rupa Kelas III revisi 2025. Pemeriksaan struktur dan media sumber dilakukan, tetapi uji siswa serta HP/WebView tetap menunggu tahap aplikasi.
+**Seni Rupa Bab 1–5:** 225 soal, sepuluh modul, dan 50 SVG telah ditulis ulang sesuai lima bab buku guru Seni Rupa Kelas III revisi 2025, termasuk Bab V *Eksplorasi Membuat Bentuk 3 Dimensi: Hewan di Sekitarku*. Pemeriksaan struktur dan media sumber dilakukan; uji siswa serta HP/WebView tetap menunggu tahap aplikasi.
 
 
 ---
 
 # Revisi 1.945 soal — checkpoint 2026-11-11
 
-**STATUS KESELURUHAN: AUDIT MASIH BERJALAN.** Konversi JSON per bab atau unit yang sudah diaudit mengikuti [handover Codex](HANDOVER-KONVERSI-JSON.md), dengan satu audit ulang sebelum konversi.
+**STATUS KESELURUHAN: AUDIT ISI SUMBER LIMA MAPEL SELESAI.** Konversi JSON mengikuti [handover Codex](HANDOVER-KONVERSI-JSON.md), dengan audit perubahan satu kali bila Markdown berubah lagi sebelum konversi.
 
 | Mata pelajaran | Revisi putaran ini | Audit isi putaran ini | Sisa |
 | --- | --- | --- | --- |
@@ -19,11 +19,10 @@ Sumber tetap Markdown. Konversi JSON dan aktivasi aplikasi adalah tahap terpisah
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
 | Bahasa Inggris | Unit 1–10: 500 soal dan dua puluh modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7–10 masing-masing 10 SVG fungsional | 500/500 diperiksa; 50 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | Audit isi sumber Inggris selesai; uji suara dan WebView di tahap aplikasi |
 | PJOK | Unit 1–8: Unit 1 merevisi 10 soal gambar; Unit 2–8 menulis ulang 315 soal; 80 SVG direvisi; 16 modul dibuat | 360/360 diperiksa terhadap buku, keselamatan, dan pola hidup sehat | Tidak ada sisa audit sumber; uji praktik dan HP/WebView di tahap aplikasi |
-| Seni Rupa | Bab 1–4: 180 soal dan 8 modul ditulis ulang; 40 SVG diganti | 180/225 diperiksa terhadap buku revisi 2025 | 45 soal/1 bab; uji siswa dan HP/WebView di tahap aplikasi |
+| Seni Rupa | Bab 1–5: 225 soal dan 10 modul ditulis ulang; 50 SVG diganti | 225/225 diperiksa terhadap buku revisi 2025 | Audit isi sumber selesai; uji siswa dan HP/WebView di tahap aplikasi |
 
-Jumlah diperiksa secara isi: **1.900/1.945**. Jumlah diubah: **1.844**.
-Sisa audit isi: **45 soal pada 1 bab**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
-lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
+Jumlah diperiksa secara isi: **1.945/1.945**. Jumlah diubah: **1.889**.
+Sisa audit isi: **0 soal**. Belum ada uji kesulitan empiris pada siswa. Audit struktur, media, dan isi sumber tidak menggantikan uji aplikasi atau uji siswa.
 
 ## IPAS Bab 1
 
@@ -870,3 +869,40 @@ tidak dipakai sebagai pengganti audit isi.
 Kumulatif audit isi menjadi **1.900/1.945**; Seni Rupa **180/225**. Sisa
 **45 soal pada Seni Rupa Bab 5**. Konversi JSON dan uji siswa/HP/WebView tetap
 tahap terpisah.
+
+
+## Seni Rupa Bab 5 — audit isi sumber selesai
+
+Seluruh 45 soal ditulis ulang sesuai Bab V *Eksplorasi Membuat Bentuk 3
+Dimensi: Hewan di Sekitarku* pada buku guru Seni Rupa Kelas III revisi 2025.
+Cakupan lama tentang pameran kelas diganti dengan perbedaan karya 2D/3D,
+pengamatan ciri hewan, bentuk dan volume, alat/bahan, keamanan bahan bekas,
+teknik membentuk dan menyambung, kestabilan struktur, urutan mengamati–
+menirukan–memodifikasi, upcycling, kedalaman diorama, kerja kelompok,
+perbaikan, presentasi, dan apresiasi.
+
+Semua ID 001–045 dan pembagian 35 teks + 10 bergambar dipertahankan. Dua
+modul diselaraskan dalam pendekatan konsep dan proyek. Sepuluh SVG baru
+menjadi stimulus fungsional: 2D/3D, ciri ikan, pilihan bahan, urutan proses,
+alas stabil, sambungan plastisin, susunan capung, kedalaman akuarium mini,
+modifikasi ikan, dan uji kestabilan. Pemeriksaan draf memastikan 45 ID/stem
+unik, empat opsi unik, satu kunci cocok, pembahasan tersedia, dua ID modul,
+viewBox serta title/desc, dan ketiadaan skrip/tautan luar.
+
+## Penutupan audit isi sumber Kelas 3
+
+Audit isi lima mapel mencapai **1.945/1.945 soal**:
+
+- IPAS: **560/560**, 16 modul, dan 96 SVG dalam cakupan audit.
+- PAI: **300/300** dan 20 modul; cuplikan Arab sumber ditinjau, dengan uji
+  pelafalan serta WebView tetap menunggu tahap aplikasi.
+- Bahasa Inggris: **500/500**, 20 modul, 112 SVG, dan 50 naskah TTS.
+- PJOK: **360/360**, 16 modul, dan 80 SVG; keselamatan gerak diperiksa.
+- Seni Rupa: **225/225**, 10 modul, dan 50 SVG.
+
+Validator kanonis dan pemeriksaan ketersediaan media dijalankan ulang setelah
+seluruh perubahan. Hasil akhir dicatat setelah verifikasi commit kepala
+`main`. Kelulusan audit isi Markdown tidak berarti JSON telah diperbarui atau
+aplikasi telah lulus uji. Tahap aplikasi yang masih diperlukan: regenerasi dan
+perbandingan JSON 1:1, aktivasi paket/manifest, tampilan HP/WebView, TTS dan
+pelafalan Arab, praktik keselamatan PJOK, serta uji kesulitan pada siswa.
