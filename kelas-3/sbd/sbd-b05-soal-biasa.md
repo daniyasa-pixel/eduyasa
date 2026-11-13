@@ -1,563 +1,563 @@
-# Bab 5 — Aku Seniman Cilik
+# Bab 5 — Eksplorasi Membuat Bentuk 3 Dimensi: Hewan di Sekitarku
 
-35 soal teks — konteks proses produksi, keselamatan alat, kerja sama dan pameran telah diperbarui.
+35 soal teks — audit isi terhadap Bab V buku guru Seni Rupa Kelas III revisi 2025.
 
 ## Soal 1 — K03-SBD-B05-M01-001
 
-**Pertanyaan:** Setelah sebulan berkarya, kelas ingin mengadakan pameran. Tujuan utama kegiatan itu adalah ....
+**Pertanyaan:** Karya tiga dimensi berbeda dari gambar datar karena karya tiga dimensi memiliki ....
 
 **Pilihan jawaban:**
-- menampilkan dan menghargai karya siswa
-- mengejek karya yang berbeda
-- membuang karya
-- menentukan teman terbaik saja
+- panjang, lebar, dan tinggi
+- warna tanpa bentuk
+- garis tanpa bidang
+- satu sisi pandang saja
 
-**Kunci Jawaban:** menampilkan dan menghargai karya siswa
+**Kunci Jawaban:** panjang, lebar, dan tinggi
 
-**Pembahasan:** Pameran kelas bertujuan menampilkan dan menghargai karya siswa.
+**Pembahasan:** Karya tiga dimensi mempunyai volume karena memiliki panjang, lebar, dan tinggi.
 
 ---
 
 ## Soal 2 — K03-SBD-B05-M01-002
 
-**Pertanyaan:** Sebelum karya dipajang, kelompok memilih hasil yang akan ditampilkan lalu mengatur posisinya. Tugas panitia kurasi sederhana adalah ....
+**Pertanyaan:** Patung ikan kecil dapat diamati dari depan, samping, dan belakang. Hal ini menunjukkan bahwa karya tiga dimensi ....
 
 **Pilihan jawaban:**
-- menghapus nama pembuat
-- memilih dan menata karya sesuai kesepakatan
-- merusak bingkai
-- menyembunyikan semua karya
+- menempati ruang dan dapat dilihat dari berbagai arah
+- hanya dapat dilihat dari depan
+- selalu dibuat di atas kertas datar
+- tidak memiliki permukaan
 
-**Kunci Jawaban:** memilih dan menata karya sesuai kesepakatan
+**Kunci Jawaban:** menempati ruang dan dapat dilihat dari berbagai arah
 
-**Pembahasan:** Kurator sederhana dalam pameran kelas membantu memilih dan menata karya sesuai kesepakatan.
+**Pembahasan:** Karya tiga dimensi menempati ruang sehingga bentuknya dapat diamati dari beberapa arah.
 
 ---
 
 ## Soal 3 — K03-SBD-B05-M01-003
 
-**Pertanyaan:** Pengunjung ingin mengenal nama pembuat dan judul lukisan di meja. Informasi yang harus ada pada label ialah ....
+**Pertanyaan:** Sebelum membuat bentuk kucing, Lala mengamati telinga, kaki, ekor, dan tubuh kucing. Tujuan pengamatan itu adalah ....
 
 **Pilihan jawaban:**
-- jawaban ujian
-- rahasia pribadi
-- judul dan nama pembuat
-- kata ejekan
+- mengenali ciri hewan yang akan diwujudkan
+- menyalin warna meja
+- menghilangkan semua bagian hewan
+- menentukan harga karya
 
-**Kunci Jawaban:** judul dan nama pembuat
+**Kunci Jawaban:** mengenali ciri hewan yang akan diwujudkan
 
-**Pembahasan:** Karya sebaiknya diberi label judul dan nama pembuat.
+**Pembahasan:** Pengamatan membantu pembuat memilih ciri penting agar bentuk hewan mudah dikenali.
 
 ---
 
 ## Soal 4 — K03-SBD-B05-M01-004
 
-**Pertanyaan:** Dina akan memotong karton untuk membuat bingkai karya. Apa hal yang harus diperiksa sebelum menggunakan gunting?
+**Pertanyaan:** Bentuk dasar yang paling sesuai untuk memulai badan ikan dari plastisin adalah ....
 
 **Pilihan jawaban:**
-- berlari sambil membawa gunting
-- mengarahkannya ke teman
-- melemparkannya
-- memastikan cara penggunaan yang aman
+- bulat lonjong
+- garis tipis tanpa isi
+- bidang segitiga datar saja
+- titik kecil
 
-**Kunci Jawaban:** memastikan cara penggunaan yang aman
+**Kunci Jawaban:** bulat lonjong
 
-**Pembahasan:** Sebelum memakai gunting, siswa perlu memastikan cara penggunaan yang aman.
+**Pembahasan:** Badan banyak jenis ikan dapat disederhanakan menjadi bentuk lonjong, lalu ditambah sirip dan ekor.
 
 ---
 
 ## Soal 5 — K03-SBD-B05-M01-005
 
-**Pertanyaan:** Anak menempelkan bentuk kertas warna pada bidang gambar. Fungsi lem dalam proses itu ialah ....
+**Pertanyaan:** Rafi ingin membuat gurita dari kantong plastik bekas yang bersih. Bagian yang perlu ditampilkan agar hewannya mudah dikenali ialah ....
 
 **Pilihan jawaban:**
-- merekatkan bahan
-- mengukur panjang
-- mewarnai dengan suara
-- memotong kertas
+- kepala dan delapan lengan
+- dua sayap dan paruh
+- cangkang dan satu kaki
+- tanduk dan empat roda
 
-**Kunci Jawaban:** merekatkan bahan
+**Kunci Jawaban:** kepala dan delapan lengan
 
-**Pembahasan:** Lem digunakan untuk merekatkan bahan.
+**Pembahasan:** Gurita dikenali antara lain melalui bagian kepala dan delapan lengannya.
 
 ---
 
 ## Soal 6 — K03-SBD-B05-M01-006
 
-**Pertanyaan:** Setelah memakai cat air, kuas masih mengandung cat. Bagaimana kuas sebaiknya dirawat?
+**Pertanyaan:** Bahan yang dapat dibentuk dengan cara ditekan dan dipijat menggunakan tangan adalah ....
 
 **Pilihan jawaban:**
-- digunakan menusuk teman
-- dibersihkan sesuai jenis cat
-- dibiarkan kotor selamanya
-- dilempar ke lantai
+- plastisin
+- kaca pecah
+- paku berkarat
+- air minum
 
-**Kunci Jawaban:** dibersihkan sesuai jenis cat
+**Kunci Jawaban:** plastisin
 
-**Pembahasan:** Kuas setelah digunakan sebaiknya dibersihkan sesuai jenis cat.
+**Pembahasan:** Plastisin lunak sehingga dapat ditekan, dipijat, dan dibentuk dengan tangan.
 
 ---
 
 ## Soal 7 — K03-SBD-B05-M01-007
 
-**Pertanyaan:** Kelompok membuat karya dari botol bekas yang ditemukan. Tindakan awal sebelum memakai botol ialah ....
+**Pertanyaan:** Kertas koran dapat menjadi badan capung tiga dimensi setelah kertas itu ....
 
 **Pilihan jawaban:**
-- dibakar di kelas
-- diambil dari tempat berbahaya
-- dibersihkan dan dipastikan aman
-- selalu dipakai meski tajam
+- digulung dan diikat atau direkatkan dengan kuat
+- dibiarkan terbuka seluruhnya
+- direndam sampai hancur tanpa rencana
+- ditempel rata sebagai gambar saja
 
-**Kunci Jawaban:** dibersihkan dan dipastikan aman
+**Kunci Jawaban:** digulung dan diikat atau direkatkan dengan kuat
 
-**Pembahasan:** Bahan daur ulang untuk karya perlu dibersihkan dan dipastikan aman.
+**Pembahasan:** Gulungan mengubah lembaran datar menjadi bentuk bervolume yang dapat menjadi badan capung.
 
 ---
 
 ## Soal 8 — K03-SBD-B05-M01-008
 
-**Pertanyaan:** Percobaan membuat bentuk kertas tidak sesuai sketsa. Sikap kreatif yang sebaiknya dilakukan adalah ....
+**Pertanyaan:** Saat memakai bahan bekas, langkah pertama yang tepat adalah ....
 
 **Pilihan jawaban:**
-- menyalahkan teman
-- merusak meja
-- berhenti belajar selamanya
-- mengevaluasi lalu mencoba lagi
+- memilih bahan bersih, kering, dan tidak tajam
+- mengambil wadah bekas bahan berbahaya
+- memakai kaleng berkarat tanpa diperiksa
+- membakar plastik di ruang kelas
 
-**Kunci Jawaban:** mengevaluasi lalu mencoba lagi
+**Kunci Jawaban:** memilih bahan bersih, kering, dan tidak tajam
 
-**Pembahasan:** Saat karya gagal sesuai rencana, seniman cilik dapat mengevaluasi lalu mencoba lagi.
+**Pembahasan:** Bahan bekas harus diperiksa kebersihan dan keamanannya sebelum dipakai berkarya.
 
 ---
 
 ## Soal 9 — K03-SBD-B05-M01-009
 
-**Pertanyaan:** Untuk membuat mural bersama di kertas besar, tiap anak mendapat bagian gambar. Kegiatan ini memerlukan ....
+**Pertanyaan:** Botol bekas cairan pembersih yang masih berbau tajam sebaiknya ....
 
 **Pilihan jawaban:**
-- pembagian tugas dan kerja sama
-- saling berebut alat
-- saling mengejek
-- mengabaikan kesepakatan
+- tidak digunakan dan dilaporkan kepada orang dewasa
+- langsung dipotong oleh siswa
+- dihirup untuk memastikan isinya
+- disimpan bersama makanan
 
-**Kunci Jawaban:** pembagian tugas dan kerja sama
+**Kunci Jawaban:** tidak digunakan dan dilaporkan kepada orang dewasa
 
-**Pembahasan:** Kerja kelompok membuat mural kertas memerlukan pembagian tugas dan kerja sama.
+**Pembahasan:** Wadah bekas bahan berbahaya tidak aman untuk proyek kelas dan perlu ditangani orang dewasa.
 
 ---
 
 ## Soal 10 — K03-SBD-B05-M01-010
 
-**Pertanyaan:** Ketika menyusun karya untuk pameran, siswa ingin memastikan pengunjung bisa lewat. Hal yang diperhatikan ialah ....
+**Pertanyaan:** Alat yang paling tepat untuk menyambungkan dua bagian kertas ringan adalah ....
 
 **Pilihan jawaban:**
-- kertas berserakan
-- kerapian dan ruang pengunjung
-- barang menutupi semua karya
-- jalan keluar tertutup
+- lem kertas yang digunakan secukupnya
+- pisau dapur
+- pecahan kaca
+- cat air saja
 
-**Kunci Jawaban:** kerapian dan ruang pengunjung
+**Kunci Jawaban:** lem kertas yang digunakan secukupnya
 
-**Pembahasan:** Menata karya di meja pameran perlu memperhatikan kerapian dan ruang pengunjung.
+**Pembahasan:** Lem kertas dapat merekatkan bagian ringan jika dipakai secukupnya pada bidang sambungan.
 
 ---
 
 ## Soal 11 — K03-SBD-B05-M01-011
 
-**Pertanyaan:** Pengunjung datang ke pameran kelas dan melihat karya teman. Sikap yang sesuai adalah ....
+**Pertanyaan:** Agar dua bagian plastisin menyatu lebih kuat, bagian sambungan dapat ....
 
 **Pilihan jawaban:**
-- mencoret pajangan
-- mendorong teman
-- melihat dengan tertib dan menghargai karya
-- menyentuh semua karya tanpa izin
+- ditekan dan diratakan dengan jari
+- diletakkan berjauhan
+- disiram air sebanyak-banyaknya
+- dipotong kembali sampai lepas
 
-**Kunci Jawaban:** melihat dengan tertib dan menghargai karya
+**Kunci Jawaban:** ditekan dan diratakan dengan jari
 
-**Pembahasan:** Sikap pengunjung pameran adalah melihat dengan tertib dan menghargai karya.
+**Pembahasan:** Menekan dan meratakan pertemuan plastisin membantu kedua bagian menyatu.
 
 ---
 
 ## Soal 12 — K03-SBD-B05-M01-012
 
-**Pertanyaan:** Untuk menghias kertas melalui teknik cap, guru menyiapkan alat sederhana. Bahan yang dapat dipakai ialah ....
+**Pertanyaan:** Karya burung dari kertas sering jatuh ke depan. Perbaikan yang paling masuk akal ialah ....
 
 **Pilihan jawaban:**
-- pisau tajam
-- pecahan kaca
-- api
-- spons atau daun bersih dengan cat yang aman
+- memperlebar atau memberatkan alas secara aman
+- menambah hiasan tinggi di bagian depan
+- memperkecil alas sampai sempit
+- melepas seluruh penyangga
 
-**Kunci Jawaban:** spons atau daun bersih dengan cat yang aman
+**Kunci Jawaban:** memperlebar atau memberatkan alas secara aman
 
-**Pembahasan:** Teknik cap sederhana dapat memakai spons atau daun bersih dengan cat yang aman.
+**Pembahasan:** Alas yang lebih lebar atau cukup berat membantu pusat beban karya tetap ditopang.
 
 ---
 
 ## Soal 13 — K03-SBD-B05-M01-013
 
-**Pertanyaan:** Ketika berkarya bersama, satu teman kesulitan menempel. Sikap yang membantu kegiatan tim adalah ....
+**Pertanyaan:** Doni membuat kaki jerapah terlalu tipis sehingga badan tidak tertopang. Ia sebaiknya ....
 
 **Pilihan jawaban:**
-- tanggung jawab dan saling menghormati
-- menyembunyikan bahan
-- mencela hasil orang lain
-- tidak mau berbagi
+- mempertebal kaki atau menambah penyangga
+- menambah beban di atas kepala
+- memotong semua kaki
+- membiarkan karya terus roboh
 
-**Kunci Jawaban:** tanggung jawab dan saling menghormati
+**Kunci Jawaban:** mempertebal kaki atau menambah penyangga
 
-**Pembahasan:** Membuat karya bersama teman mengajarkan tanggung jawab dan saling menghormati.
+**Pembahasan:** Kaki yang lebih kuat atau penyangga tambahan dapat menahan badan karya.
 
 ---
 
 ## Soal 14 — K03-SBD-B05-M01-014
 
-**Pertanyaan:** Seorang siswa menilai karyanya setelah selesai dan mencatat bagian yang perlu diperbaiki. Tindakan ini disebut ....
+**Pertanyaan:** Urutan kerja yang paling tepat untuk proyek hewan tiga dimensi adalah ....
 
 **Pilihan jawaban:**
-- mengabaikan proses
-- meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki
-- membuang karya tanpa melihat
-- menghina pembuat
+- mengamati hewan, merancang, memilih bahan, membentuk, lalu meninjau
+- menempel bahan, membuang alat, lalu memilih hewan
+- mewarnai meja, merusak bahan, lalu membuat rencana
+- memajang karya sebelum bentuknya dibuat
 
-**Kunci Jawaban:** meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki
+**Kunci Jawaban:** mengamati hewan, merancang, memilih bahan, membentuk, lalu meninjau
 
-**Pembahasan:** Evaluasi karya berarti meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki.
+**Pembahasan:** Urutan tersebut dimulai dari pengamatan dan rencana, dilanjutkan pembuatan, lalu peninjauan hasil.
 
 ---
 
 ## Soal 15 — K03-SBD-B05-M01-015
 
-**Pertanyaan:** Pameran telah berakhir. Bagaimana seharusnya panitia memperlakukan alat dan hasil karya?
+**Pertanyaan:** Dalam tahap mengamati, informasi yang paling berguna dicatat adalah ....
 
 **Pilihan jawaban:**
-- dibuang tanpa izin
-- dirusak
-- dikembalikan atau disimpan dengan rapi
-- dibiarkan tercecer
+- bentuk tubuh, jumlah bagian, warna, dan cara hewan bergerak
+- nilai ulangan teman
+- harga tas sekolah
+- jadwal acara televisi
 
-**Kunci Jawaban:** dikembalikan atau disimpan dengan rapi
+**Kunci Jawaban:** bentuk tubuh, jumlah bagian, warna, dan cara hewan bergerak
 
-**Pembahasan:** Setelah pameran, karya dan alat sebaiknya dikembalikan atau disimpan dengan rapi.
+**Pembahasan:** Ciri tubuh dan gerak membantu pembuat menyederhanakan hewan menjadi bentuk tiga dimensi.
 
 ---
 
 ## Soal 16 — K03-SBD-B05-M01-016
 
-**Pertanyaan:** Pameran kelas memperlihatkan berbagai karya tiap murid kepada orang tua. Tujuan acaranya ialah ....
+**Pertanyaan:** Menirukan contoh pada awal latihan berarti ....
 
 **Pilihan jawaban:**
-- mengejek karya yang berbeda
-- membuang karya
-- menentukan teman terbaik saja
-- menampilkan dan menghargai karya siswa
+- mempelajari langkah dasar tanpa mengaku karya contoh sebagai milik sendiri
+- menyalin persis lalu menghapus nama pembuat
+- melarang semua perubahan
+- menilai teman hanya dari kemiripan
 
-**Kunci Jawaban:** menampilkan dan menghargai karya siswa
+**Kunci Jawaban:** mempelajari langkah dasar tanpa mengaku karya contoh sebagai milik sendiri
 
-**Pembahasan:** Pameran kelas bertujuan menampilkan dan menghargai karya siswa.
+**Pembahasan:** Menirukan digunakan untuk mempelajari teknik; kejujuran tentang contoh tetap dijaga.
 
 ---
 
 ## Soal 17 — K03-SBD-B05-M01-017
 
-**Pertanyaan:** Guru menunjuk dua siswa untuk mengurutkan karya yang akan dipajang sesuai kesepakatan. Peran mereka adalah ....
+**Pertanyaan:** Setelah memahami contoh ikan, Sita mengganti bahan sirip dan menambah pola sisik berdasarkan idenya. Tindakan ini termasuk ....
 
 **Pilihan jawaban:**
-- memilih dan menata karya sesuai kesepakatan
-- merusak bingkai
-- menyembunyikan semua karya
-- menghapus nama pembuat
+- memodifikasi karya
+- membuang rancangan
+- menghapus ciri ikan
+- menghindari kreativitas
 
-**Kunci Jawaban:** memilih dan menata karya sesuai kesepakatan
+**Kunci Jawaban:** memodifikasi karya
 
-**Pembahasan:** Kurator sederhana dalam pameran kelas membantu memilih dan menata karya sesuai kesepakatan.
+**Pembahasan:** Memodifikasi berarti mengembangkan contoh dengan pilihan atau gagasan baru.
 
 ---
 
 ## Soal 18 — K03-SBD-B05-M01-018
 
-**Pertanyaan:** Pada meja pameran ada dua lukisan tanpa keterangan. Untuk membedakan keduanya, label dapat menuliskan ....
+**Pertanyaan:** Upcycling dalam kegiatan seni berarti ....
 
 **Pilihan jawaban:**
-- rahasia pribadi
-- judul dan nama pembuat
-- kata ejekan
-- jawaban ujian
+- mengolah barang yang tidak terpakai menjadi karya yang lebih berguna atau bernilai
+- membuang semua bahan setelah dipakai sekali
+- membeli barang baru sebanyak mungkin
+- mencampur sampah berbahaya dengan alat kelas
 
-**Kunci Jawaban:** judul dan nama pembuat
+**Kunci Jawaban:** mengolah barang yang tidak terpakai menjadi karya yang lebih berguna atau bernilai
 
-**Pembahasan:** Karya sebaiknya diberi label judul dan nama pembuat.
+**Pembahasan:** Upcycling memberi fungsi atau nilai baru pada bahan yang masih aman digunakan.
 
 ---
 
 ## Soal 19 — K03-SBD-B05-M01-019
 
-**Pertanyaan:** Anak memegang gunting untuk pertama kali dan guru memberi petunjuk. Langkah aman yang perlu dilakukan adalah ....
+**Pertanyaan:** Dua potong sayap capung dibuat dari kemasan bekas. Agar seimbang, sayap sebaiknya ....
 
 **Pilihan jawaban:**
-- mengarahkannya ke teman
-- melemparkannya
-- memastikan cara penggunaan yang aman
-- berlari sambil membawa gunting
+- dipasang pada sisi kiri dan kanan dengan posisi serasi
+- ditumpuk seluruhnya di satu ujung
+- diletakkan lepas di bawah meja
+- dipasang hanya pada ekor paling bawah
 
-**Kunci Jawaban:** memastikan cara penggunaan yang aman
+**Kunci Jawaban:** dipasang pada sisi kiri dan kanan dengan posisi serasi
 
-**Pembahasan:** Sebelum memakai gunting, siswa perlu memastikan cara penggunaan yang aman.
+**Pembahasan:** Susunan kiri-kanan yang serasi membantu bentuk capung terbaca dan tampak seimbang.
 
 ---
 
 ## Soal 20 — K03-SBD-B05-M01-020
 
-**Pertanyaan:** Ketika membuat kolase, kertas harus melekat pada alasnya. Bahan yang berguna ialah ....
+**Pertanyaan:** Untuk membuat akuarium mini, latar, ikan, dan tumbuhan diletakkan pada jarak berbeda. Susunan itu membantu menunjukkan ....
 
 **Pilihan jawaban:**
-- mengukur panjang
-- mewarnai dengan suara
-- memotong kertas
-- merekatkan bahan
+- kedalaman ruang
+- satu garis datar saja
+- suara hewan
+- berat air sebenarnya
 
-**Kunci Jawaban:** merekatkan bahan
+**Kunci Jawaban:** kedalaman ruang
 
-**Pembahasan:** Lem digunakan untuk merekatkan bahan.
+**Pembahasan:** Perbedaan posisi depan, tengah, dan belakang dapat memberi kesan kedalaman pada diorama.
 
 ---
 
 ## Soal 21 — K03-SBD-B05-M01-021
 
-**Pertanyaan:** Kuas yang dibiarkan penuh cat dapat rusak. Setelah melukis, kuas perlu ....
+**Pertanyaan:** Karya ikan ditempatkan terlalu dekat dengan latar sehingga sulit terlihat. Perbaikan yang sesuai adalah ....
 
 **Pilihan jawaban:**
-- dibersihkan sesuai jenis cat
-- dibiarkan kotor selamanya
-- dilempar ke lantai
-- digunakan menusuk teman
+- memajukan ikan atau memberi kontras yang cukup
+- menutup ikan dengan kertas latar
+- menghapus semua warna ikan
+- menambah latar tepat di depan ikan
 
-**Kunci Jawaban:** dibersihkan sesuai jenis cat
+**Kunci Jawaban:** memajukan ikan atau memberi kontras yang cukup
 
-**Pembahasan:** Kuas setelah digunakan sebaiknya dibersihkan sesuai jenis cat.
+**Pembahasan:** Jarak dan kontras membantu bentuk utama terpisah dari latar dan mudah diamati.
 
 ---
 
 ## Soal 22 — K03-SBD-B05-M01-022
 
-**Pertanyaan:** Sebelum botol bekas diubah menjadi vas, guru memastikan bagian tepinya tidak tajam. Bahan itu harus ....
+**Pertanyaan:** Kertas tebal sulit ditekuk menjadi ekor kecil. Pilihan yang tepat ialah ....
 
 **Pilihan jawaban:**
-- diambil dari tempat berbahaya
-- dibersihkan dan dipastikan aman
-- selalu dipakai meski tajam
-- dibakar di kelas
+- menguji kertas lebih tipis yang tetap cukup kuat
+- memaksa dengan alat tajam tanpa bantuan
+- membasahi semua karya sampai rusak
+- mengganti ekor dengan pecahan kaca
 
-**Kunci Jawaban:** dibersihkan dan dipastikan aman
+**Kunci Jawaban:** menguji kertas lebih tipis yang tetap cukup kuat
 
-**Pembahasan:** Bahan daur ulang untuk karya perlu dibersihkan dan dipastikan aman.
+**Pembahasan:** Uji bahan membantu menemukan ketebalan yang sesuai untuk bentuk kecil tanpa mengabaikan keamanan.
 
 ---
 
 ## Soal 23 — K03-SBD-B05-M01-023
 
-**Pertanyaan:** Kertas karya sobek ketika ditempel. Daripada menyalahkan teman, murid sebaiknya ....
+**Pertanyaan:** Saat menggunakan gunting, siswa harus ....
 
 **Pilihan jawaban:**
-- merusak meja
-- berhenti belajar selamanya
-- mengevaluasi lalu mencoba lagi
-- menyalahkan teman
+- memotong sambil duduk tenang dan mengarahkan mata gunting menjauh dari tubuh
+- berlari sambil membawa gunting terbuka
+- mengarahkan gunting kepada teman
+- melempar gunting ke meja lain
 
-**Kunci Jawaban:** mengevaluasi lalu mencoba lagi
+**Kunci Jawaban:** memotong sambil duduk tenang dan mengarahkan mata gunting menjauh dari tubuh
 
-**Pembahasan:** Saat karya gagal sesuai rencana, seniman cilik dapat mengevaluasi lalu mencoba lagi.
+**Pembahasan:** Posisi tenang dan arah potong yang aman mengurangi risiko cedera.
 
 ---
 
 ## Soal 24 — K03-SBD-B05-M01-024
 
-**Pertanyaan:** Kelompok mural membagi bagian langit, pohon, dan rumah. Supaya selesai baik, mereka memerlukan ....
+**Pertanyaan:** Jika bagian bahan perlu dipotong dengan alat yang belum boleh digunakan anak, siswa sebaiknya ....
 
 **Pilihan jawaban:**
-- saling berebut alat
-- saling mengejek
-- mengabaikan kesepakatan
-- pembagian tugas dan kerja sama
+- meminta bantuan guru atau orang dewasa
+- mencobanya diam-diam
+- meminjam tanpa izin
+- mengganti dengan api
 
-**Kunci Jawaban:** pembagian tugas dan kerja sama
+**Kunci Jawaban:** meminta bantuan guru atau orang dewasa
 
-**Pembahasan:** Kerja kelompok membuat mural kertas memerlukan pembagian tugas dan kerja sama.
+**Pembahasan:** Alat yang berisiko hanya digunakan dengan bantuan dan pengawasan orang dewasa.
 
 ---
 
 ## Soal 25 — K03-SBD-B05-M01-025
 
-**Pertanyaan:** Meja pajangan terlihat penuh sehingga pengunjung sulit berjalan. Pengaturan ulang perlu mengutamakan ....
+**Pertanyaan:** Saat lem mengenai jari, tindakan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- kerapian dan ruang pengunjung
-- barang menutupi semua karya
-- jalan keluar tertutup
-- kertas berserakan
+- membersihkan tangan sesuai petunjuk dan tidak menyentuh mata atau mulut
+- mengusap lem ke wajah
+- mencicipi lem
+- menempelkan jari ke rambut teman
 
-**Kunci Jawaban:** kerapian dan ruang pengunjung
+**Kunci Jawaban:** membersihkan tangan sesuai petunjuk dan tidak menyentuh mata atau mulut
 
-**Pembahasan:** Menata karya di meja pameran perlu memperhatikan kerapian dan ruang pengunjung.
+**Pembahasan:** Kebersihan tangan dan menghindari mata serta mulut merupakan bagian dari penggunaan lem yang aman.
 
 ---
 
 ## Soal 26 — K03-SBD-B05-M01-026
 
-**Pertanyaan:** Di galeri mini sekolah, anak ingin melihat karya tanpa merusaknya. Sikap yang cocok ialah ....
+**Pertanyaan:** Kelompok membuat hewan tiga dimensi dari bahan bekas. Pembagian tugas yang adil adalah ....
 
 **Pilihan jawaban:**
-- mendorong teman
-- melihat dengan tertib dan menghargai karya
-- menyentuh semua karya tanpa izin
-- mencoret pajangan
+- anggota berbagi peran mengamati, membentuk, menghias, dan merapikan
+- satu anak mengerjakan semua sementara yang lain mengejek
+- semua berebut satu alat
+- anggota menyembunyikan bahan dari temannya
 
-**Kunci Jawaban:** melihat dengan tertib dan menghargai karya
+**Kunci Jawaban:** anggota berbagi peran mengamati, membentuk, menghias, dan merapikan
 
-**Pembahasan:** Sikap pengunjung pameran adalah melihat dengan tertib dan menghargai karya.
+**Pembahasan:** Berbagi peran membuat setiap anggota berkontribusi dan pekerjaan lebih tertata.
 
 ---
 
 ## Soal 27 — K03-SBD-B05-M01-027
 
-**Pertanyaan:** Anak mencoba membuat pola berulang dengan mencelupkan spons ke cat aman. Pilihan alat tepat adalah ....
+**Pertanyaan:** Teman kesulitan menggulung kertas karena gerak tangannya terbatas. Dukungan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- pecahan kaca
-- api
-- spons atau daun bersih dengan cat yang aman
-- pisau tajam
+- menawarkan bantuan atau alat bantu sesuai persetujuannya
+- mengambil alih tanpa bertanya
+- menertawakan hasilnya
+- mengeluarkannya dari kelompok
 
-**Kunci Jawaban:** spons atau daun bersih dengan cat yang aman
+**Kunci Jawaban:** menawarkan bantuan atau alat bantu sesuai persetujuannya
 
-**Pembahasan:** Teknik cap sederhana dapat memakai spons atau daun bersih dengan cat yang aman.
+**Pembahasan:** Bantuan diberikan dengan menghormati pilihan teman agar ia tetap dapat berkarya.
 
 ---
 
 ## Soal 28 — K03-SBD-B05-M01-028
 
-**Pertanyaan:** Seorang teman mengusulkan tata letak lain. Anggota kelompok menanggapinya dengan sikap ....
+**Pertanyaan:** Hasil karya tidak harus sama persis dengan hewan asli karena siswa boleh ....
 
 **Pilihan jawaban:**
-- menyembunyikan bahan
-- mencela hasil orang lain
-- tidak mau berbagi
-- tanggung jawab dan saling menghormati
+- menyederhanakan bentuk sambil mempertahankan ciri yang dikenali
+- menghilangkan semua ciri hewan
+- menyalin karya teman tanpa izin
+- memakai bahan berbahaya agar unik
 
-**Kunci Jawaban:** tanggung jawab dan saling menghormati
+**Kunci Jawaban:** menyederhanakan bentuk sambil mempertahankan ciri yang dikenali
 
-**Pembahasan:** Membuat karya bersama teman mengajarkan tanggung jawab dan saling menghormati.
+**Pembahasan:** Seni memungkinkan penyederhanaan dan imajinasi, selama gagasan atau ciri utama tetap dapat dipahami.
 
 ---
 
 ## Soal 29 — K03-SBD-B05-M01-029
 
-**Pertanyaan:** Saat mengevaluasi gambar, siswa menyebut satu kelebihan dan satu hal yang akan dilatih lagi. Ini berarti ....
+**Pertanyaan:** Komentar apresiasi yang paling membangun adalah ....
 
 **Pilihan jawaban:**
-- meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki
-- membuang karya tanpa melihat
-- menghina pembuat
-- mengabaikan proses
+- “Bentuk ekornya jelas; alasnya bisa diperlebar agar lebih stabil.”
+- “Karyamu jelek.”
+- “Buang saja karya itu.”
+- “Milikku pasti paling bagus.”
 
-**Kunci Jawaban:** meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki
+**Kunci Jawaban:** “Bentuk ekornya jelas; alasnya bisa diperlebar agar lebih stabil.”
 
-**Pembahasan:** Evaluasi karya berarti meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki.
+**Pembahasan:** Apresiasi yang baik menyebut kelebihan secara khusus dan memberi saran sopan yang dapat dilakukan.
 
 ---
 
 ## Soal 30 — K03-SBD-B05-M01-030
 
-**Pertanyaan:** Seusai pertunjukan hasil karya, panitia mengumpulkan alat lalu menyimpannya. Langkah tersebut adalah ....
+**Pertanyaan:** Saat menjelaskan karya, informasi yang paling berguna disampaikan adalah ....
 
 **Pilihan jawaban:**
-- dirusak
-- dikembalikan atau disimpan dengan rapi
-- dibiarkan tercecer
-- dibuang tanpa izin
+- hewan yang dipilih, bahan, langkah, dan bagian yang dimodifikasi
+- rahasia pribadi teman
+- nilai semua siswa
+- harga seluruh isi kelas
 
-**Kunci Jawaban:** dikembalikan atau disimpan dengan rapi
+**Kunci Jawaban:** hewan yang dipilih, bahan, langkah, dan bagian yang dimodifikasi
 
-**Pembahasan:** Setelah pameran, karya dan alat sebaiknya dikembalikan atau disimpan dengan rapi.
+**Pembahasan:** Penjelasan proses membantu orang lain memahami gagasan dan keputusan pembuat.
 
 ---
 
 ## Soal 31 — K03-SBD-B05-M01-031
 
-**Pertanyaan:** Di kelas, siswa menggelar hasil gambar, kolase, dan patung mini. Sasaran pameran itu adalah ....
+**Pertanyaan:** Sebelum menyebut karya sudah selesai, siswa sebaiknya memeriksa ....
 
 **Pilihan jawaban:**
-- membuang karya
-- menentukan teman terbaik saja
-- menampilkan dan menghargai karya siswa
-- mengejek karya yang berbeda
+- kestabilan, kekuatan sambungan, ciri hewan, dan kebersihan karya
+- jumlah alat milik teman
+- warna seragam sekolah
+- siapa yang paling cepat
 
-**Kunci Jawaban:** menampilkan dan menghargai karya siswa
+**Kunci Jawaban:** kestabilan, kekuatan sambungan, ciri hewan, dan kebersihan karya
 
-**Pembahasan:** Pameran kelas bertujuan menampilkan dan menghargai karya siswa.
+**Pembahasan:** Pemeriksaan akhir menilai fungsi bentuk, sambungan, keterbacaan objek, dan kerapian.
 
 ---
 
 ## Soal 32 — K03-SBD-B05-M01-032
 
-**Pertanyaan:** Panitia ingin memilih dan menempatkan karya secara adil. Tugas mereka adalah ....
+**Pertanyaan:** Sambungan sayap terlepas setelah lem mengering. Langkah perbaikan yang tepat ialah ....
 
 **Pilihan jawaban:**
-- merusak bingkai
-- menyembunyikan semua karya
-- menghapus nama pembuat
-- memilih dan menata karya sesuai kesepakatan
+- membersihkan bagian sambungan lalu merekatkannya kembali dengan cara yang sesuai
+- menambah lem pada seluruh permukaan tanpa diperiksa
+- membuang semua karya tanpa mencoba
+- menarik sayap lain sampai lepas
 
-**Kunci Jawaban:** memilih dan menata karya sesuai kesepakatan
+**Kunci Jawaban:** membersihkan bagian sambungan lalu merekatkannya kembali dengan cara yang sesuai
 
-**Pembahasan:** Kurator sederhana dalam pameran kelas membantu memilih dan menata karya sesuai kesepakatan.
+**Pembahasan:** Perbaikan terarah dimulai dengan memeriksa sambungan dan memakai kembali perekat secara tepat.
 
 ---
 
 ## Soal 33 — K03-SBD-B05-M01-033
 
-**Pertanyaan:** Jika sebuah gambar belum diberi kartu pengenal, informasi yang seharusnya ditambahkan ialah ....
+**Pertanyaan:** Sisa kertas bersih berukuran cukup besar sebaiknya ....
 
 **Pilihan jawaban:**
-- judul dan nama pembuat
-- kata ejekan
-- jawaban ujian
-- rahasia pribadi
+- dipilah dan disimpan untuk proyek berikutnya
+- dicampur dengan sisa makanan
+- dilempar ke lantai
+- dibakar di kelas
 
-**Kunci Jawaban:** judul dan nama pembuat
+**Kunci Jawaban:** dipilah dan disimpan untuk proyek berikutnya
 
-**Pembahasan:** Karya sebaiknya diberi label judul dan nama pembuat.
+**Pembahasan:** Sisa yang masih layak dapat digunakan kembali sehingga bahan tidak terbuang sia-sia.
 
 ---
 
 ## Soal 34 — K03-SBD-B05-M01-034
 
-**Pertanyaan:** Sebelum membuat bentuk hias dengan alat pemotong, siswa perlu ....
+**Pertanyaan:** Setelah berkarya dengan plastisin dan lem, kegiatan penutup yang benar adalah ....
 
 **Pilihan jawaban:**
-- melemparkannya
-- memastikan cara penggunaan yang aman
-- berlari sambil membawa gunting
-- mengarahkannya ke teman
+- merapikan alat, membersihkan meja, dan mencuci tangan
+- meninggalkan lem terbuka
+- menempelkan plastisin di dinding
+- menaruh gunting di lantai
 
-**Kunci Jawaban:** memastikan cara penggunaan yang aman
+**Kunci Jawaban:** merapikan alat, membersihkan meja, dan mencuci tangan
 
-**Pembahasan:** Sebelum memakai gunting, siswa perlu memastikan cara penggunaan yang aman.
+**Pembahasan:** Menutup kegiatan dengan rapi menjaga alat, ruang belajar, dan kebersihan diri.
 
 ---
 
 ## Soal 35 — K03-SBD-B05-M01-035
 
-**Pertanyaan:** Pada tahap akhir menempel mozaik, bahan untuk melekatkan potongan pada karton ialah ....
+**Pertanyaan:** Catatan “karya berdiri 10 detik lalu miring” paling tepat digunakan untuk ....
 
 **Pilihan jawaban:**
-- mewarnai dengan suara
-- memotong kertas
-- merekatkan bahan
-- mengukur panjang
+- menentukan bagian struktur yang perlu diperkuat
+- menyimpulkan warna karya salah
+- menuduh teman merusak karya
+- menghapus semua hiasan tanpa pemeriksaan
 
-**Kunci Jawaban:** merekatkan bahan
+**Kunci Jawaban:** menentukan bagian struktur yang perlu diperkuat
 
-**Pembahasan:** Lem digunakan untuk merekatkan bahan.
+**Pembahasan:** Catatan kestabilan merupakan bukti untuk memeriksa alas, penyangga, atau pembagian beban.
 
 ---
