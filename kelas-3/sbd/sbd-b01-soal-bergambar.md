@@ -1,183 +1,183 @@
 # Bab 1 — Menemukan Keindahan di Sekitar Kita
 
-10 soal bergambar — pertanyaan sudah disesuaikan dengan situasi ilustrasi; media ditangani terpisah.
+10 soal bergambar — ilustrasi berfungsi sebagai stimulus pengamatan, klasifikasi, pencampuran warna, prosedur kolase, keselamatan alat, dan apresiasi.
 
 ## Soal 36 — K03-SBD-B01-M01-036
 
-![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-01.svg)
+![Susunan titik rapat dan renggang](assets/sbd-b01-gambar-01.svg)
 
-**Pertanyaan:** Dua cat pada ilustrasi dicampurkan. Hasil campuran merah dan kuning umumnya berwarna ....
+**Pertanyaan:** Deretan titik manakah yang paling kuat memberi kesan sebuah garis?
 
 **Pilihan jawaban:**
-- hijau
-- ungu
-- hitam
-- oranye
+- deretan titik rapat pada bagian bawah
+- dua titik berjauhan pada bagian atas
+- satu titik di sudut kiri
+- semua bidang kosong
 
-**Kunci Jawaban:** oranye
+**Kunci Jawaban:** deretan titik rapat pada bagian bawah
 
-**Pembahasan:** Pencampuran cat merah dan kuning umumnya menghasilkan oranye.
+**Pembahasan:** Titik-titik yang rapat dan berurutan pada bagian bawah terbaca sebagai jejak memanjang atau garis.
 
 ---
 
 ## Soal 37 — K03-SBD-B01-M01-037
 
-![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-02.svg)
+![Empat jenis garis](assets/sbd-b01-gambar-02.svg)
 
-**Pertanyaan:** Perhatikan dua pohon sejenis dengan jarak pandang berbeda. Agar kesan kedalaman tampak, pohon depan sebaiknya digambar ....
+**Pertanyaan:** Garis nomor berapa yang merupakan garis diagonal?
 
 **Pilihan jawaban:**
-- lebih besar dibanding benda sejenis yang jauh
-- selalu lebih kecil
-- tanpa garis
-- selalu transparan
+- garis nomor 3
+- garis nomor 1
+- garis nomor 2
+- garis nomor 4
 
-**Kunci Jawaban:** lebih besar dibanding benda sejenis yang jauh
+**Kunci Jawaban:** garis nomor 3
 
-**Pembahasan:** Benda yang terlihat lebih dekat biasanya digambar lebih besar dibanding benda sejenis yang jauh.
+**Pembahasan:** Garis nomor 3 miring dari kiri bawah ke kanan atas sehingga termasuk garis diagonal.
 
 ---
 
 ## Soal 38 — K03-SBD-B01-M01-038
 
-![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-03.svg)
+![Garis terbuka dan garis tertutup](assets/sbd-b01-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan gambar daun. Sebelum menggambar ulang, detail apa yang sebaiknya diamati?
+**Pertanyaan:** Gambar manakah yang menunjukkan garis tertutup sehingga membatasi sebuah bidang?
 
 **Pilihan jawaban:**
-- harga daun
-- bentuk, garis, dan urat daun
-- suara daun saja
-- rasa daun
+- gambar di sebelah kanan
+- gambar di sebelah kiri
+- kedua gambar sama-sama terbuka
+- tidak satu pun gambar
 
-**Kunci Jawaban:** bentuk, garis, dan urat daun
+**Kunci Jawaban:** gambar di sebelah kanan
 
-**Pembahasan:** Mengamati daun sebelum menggambar membantu mengenali bentuk, garis, dan urat daun.
+**Pembahasan:** Ujung garis pada gambar kanan saling bertemu sehingga bagian di dalamnya menjadi bidang.
 
 ---
 
 ## Soal 39 — K03-SBD-B01-M01-039
 
-![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-04.svg)
+![Bidang geometris dan organis](assets/sbd-b01-gambar-04.svg)
 
-**Pertanyaan:** Garis pada ilustrasi terbentang mendatar sejajar tepi bawah kertas. Nama garis itu adalah ....
+**Pertanyaan:** Kelompok di sebelah kanan berisi bidang organis karena bentuknya ....
 
 **Pilihan jawaban:**
-- diagonal
-- spiral
-- horizontal
-- vertikal
+- bebas dan menyerupai bentuk alam
+- selalu memiliki sisi sama panjang
+- hanya tersusun dari garis lurus
+- memiliki volume dan dapat diputar
 
-**Kunci Jawaban:** horizontal
+**Kunci Jawaban:** bebas dan menyerupai bentuk alam
 
-**Pembahasan:** Garis mendatar disebut juga garis horizontal.
+**Pembahasan:** Siluet daun dan awan memiliki tepi bebas yang menyerupai bentuk alam sehingga termasuk bidang organis.
 
 ---
 
 ## Soal 40 — K03-SBD-B01-M01-040
 
-![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-05.svg)
+![Persegi dan kubus](assets/sbd-b01-gambar-05.svg)
 
-**Pertanyaan:** Perhatikan garis yang ditarik dari bawah ke atas pada ilustrasi. Sebutan garis itu adalah ....
+**Pertanyaan:** Objek manakah yang menunjukkan bentuk tiga dimensi karena memiliki volume?
 
 **Pilihan jawaban:**
-- horizontal
-- melengkung
-- zig-zag
-- vertikal
+- kubus di sebelah kanan
+- persegi di sebelah kiri
+- garis di bawah persegi
+- warna latar gambar
 
-**Kunci Jawaban:** vertikal
+**Kunci Jawaban:** kubus di sebelah kanan
 
-**Pembahasan:** Garis tegak disebut garis vertikal.
+**Pembahasan:** Kubus memiliki panjang, lebar, dan tinggi, sedangkan persegi pada gambar merupakan bidang datar.
 
 ---
 
 ## Soal 41 — K03-SBD-B01-M01-041
 
-![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-06.svg)
+![Campuran cat merah dan kuning](assets/sbd-b01-gambar-06.svg)
 
-**Pertanyaan:** Pada pola hias kain, bentuk yang sama muncul berulang. Istilah untuk susunan berulang ialah ....
+**Pertanyaan:** Jika dua warna cat pada gambar dicampur, warna yang umumnya terbentuk adalah ....
 
 **Pilihan jawaban:**
-- motif
-- volume suara
-- tempo
-- nada
+- oranye
+- hijau
+- ungu
+- biru
 
-**Kunci Jawaban:** motif
+**Kunci Jawaban:** oranye
 
-**Pembahasan:** Pola yang berulang pada kain disebut motif.
+**Pembahasan:** Dalam pencampuran cat dasar, merah dan kuning menghasilkan oranye.
 
 ---
 
 ## Soal 42 — K03-SBD-B01-M01-042
 
-![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-07.svg)
+![Tabel pencampuran warna](assets/sbd-b01-gambar-07.svg)
 
-**Pertanyaan:** Gambar pemandangan dibagi oleh garis cakrawala. Letak langit yang umum adalah ....
+**Pertanyaan:** Warna apa yang tepat untuk mengisi kotak kosong pada baris kedua?
 
 **Pilihan jawaban:**
-- di belakang kertas
-- di atas garis cakrawala
-- di bawah tanah
-- di dalam rumah
+- hijau
+- oranye
+- ungu
+- merah
 
-**Kunci Jawaban:** di atas garis cakrawala
+**Kunci Jawaban:** hijau
 
-**Pembahasan:** Saat menggambar pemandangan, bagian langit biasanya berada di atas garis cakrawala.
+**Pembahasan:** Baris kedua menunjukkan pencampuran kuning dan biru yang menghasilkan hijau.
 
 ---
 
 ## Soal 43 — K03-SBD-B01-M01-043
 
-![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-08.svg)
+![Rancangan kolase sebelum dilem](assets/sbd-b01-gambar-08.svg)
 
-**Pertanyaan:** Ilustrasi menunjukkan kapas dengan permukaan yang tidak tajam. Kesan raba kapas adalah ....
+**Pertanyaan:** Potongan bahan pada gambar belum dilem. Langkah berikut yang paling baik adalah ....
 
 **Pilihan jawaban:**
-- keras seperti besi
-- kasar seperti kerikil
-- lembut
-- tajam
+- mencoba susunannya pada bidang gambar
+- menuangkan semua lem sekaligus
+- menggunting sambil berlari
+- membuang seluruh bahan
 
-**Kunci Jawaban:** lembut
+**Kunci Jawaban:** mencoba susunannya pada bidang gambar
 
-**Pembahasan:** Permukaan kapas umumnya terasa lembut.
+**Pembahasan:** Potongan sebaiknya dicoba susunannya dahulu agar komposisi dapat diperbaiki sebelum dilem.
 
 ---
 
 ## Soal 44 — K03-SBD-B01-M01-044
 
-![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-09.svg)
+![Cara membawa dan menyerahkan gunting](assets/sbd-b01-gambar-09.svg)
 
-**Pertanyaan:** Perhatikan jejak dari sudut kiri bawah menuju kanan atas. Jenis garis pada gambar tersebut ialah ....
+**Pertanyaan:** Cara menyerahkan gunting yang lebih aman ditunjukkan oleh ....
 
 **Pilihan jawaban:**
-- horizontal
-- vertikal
-- lingkaran
-- diagonal
+- anak di sebelah kanan
+- anak di sebelah kiri
+- keduanya sama aman
+- tidak perlu memegang gunting
 
-**Kunci Jawaban:** diagonal
+**Kunci Jawaban:** anak di sebelah kanan
 
-**Pembahasan:** Garis miring disebut garis diagonal.
+**Pembahasan:** Pada gambar kanan, bilah gunting tertutup dan gagang diarahkan kepada penerima.
 
 ---
 
 ## Soal 45 — K03-SBD-B01-M01-045
 
-![Ilustrasi unsur seni rupa](assets/sbd-b01-gambar-10.svg)
+![Umpan balik terhadap karya](assets/sbd-b01-gambar-10.svg)
 
-**Pertanyaan:** Sekelompok siswa mengamati tanaman di halaman untuk digambar. Apa sikap yang sesuai saat berkarya di sana?
+**Pertanyaan:** Komentar manakah yang merupakan umpan balik sopan dan berguna?
 
 **Pilihan jawaban:**
-- menjaga kebersihan dan tidak merusak tanaman
-- memetik semua bunga
-- mencoret dinding
-- membuang sampah
+- komentar anak di sebelah kiri
+- komentar anak di sebelah kanan
+- keduanya berisi saran rinci
+- keduanya tidak berkaitan dengan karya
 
-**Kunci Jawaban:** menjaga kebersihan dan tidak merusak tanaman
+**Kunci Jawaban:** komentar anak di sebelah kiri
 
-**Pembahasan:** Sikap baik saat mengamati lingkungan untuk menggambar adalah menjaga kebersihan dan tidak merusak tanaman.
+**Pembahasan:** Komentar kiri menyebut kelebihan dan saran tertentu, sedangkan komentar kanan hanya merendahkan.
 
 ---
