@@ -1,563 +1,563 @@
 # Bab 1 — Menemukan Keindahan di Sekitar Kita
 
-35 soal teks — revisi konteks pengamatan unsur seni, posisi ruang gambar dan perilaku berkarya.
+35 soal teks — audit isi terhadap Bab I *Seni Rupa di Sekitarku* pada buku guru Seni Rupa Kelas III revisi 2025.
 
 ## Soal 1 — K03-SBD-B01-M01-001
 
-**Pertanyaan:** Rina menarik pensil dari kiri ke kanan hingga meninggalkan jejak panjang. Unsur visual apa yang dibuat?
+**Pertanyaan:** Titik paling kecil pada gambar biasanya dibuat dengan ....
 
 **Pilihan jawaban:**
-- garis
-- warna
-- ruang
-- tekstur
+- satu sentuhan ujung alat
+- tarikan panjang berulang
+- lipatan kertas lebar
+- campuran dua warna
 
-**Kunci Jawaban:** garis
+**Kunci Jawaban:** satu sentuhan ujung alat
 
-**Pembahasan:** Unsur seni rupa berupa jejak memanjang disebut garis.
+**Pembahasan:** Titik dapat muncul dari satu sentuhan ujung pensil, pena, atau kuas pada bidang.
 
 ---
 
 ## Soal 2 — K03-SBD-B01-M01-002
 
-**Pertanyaan:** Dari jarak dekat, titik-titik pada kertas tampak tersusun rapat dan menyambung. Unsur apa yang terbentuk?
+**Pertanyaan:** Danu mengulang banyak titik dengan jarak teratur. Hasil yang paling mungkin terlihat adalah ....
 
 **Pilihan jawaban:**
-- aroma
-- garis
-- suara
-- gerakan
+- pola titik
+- benda bervolume
+- suara berirama
+- permukaan berlubang
 
-**Kunci Jawaban:** garis
+**Kunci Jawaban:** pola titik
 
-**Pembahasan:** Titik-titik yang disusun berdekatan dapat membentuk garis.
+**Pembahasan:** Pengulangan titik dengan jarak teratur membentuk pola visual.
 
 ---
 
 ## Soal 3 — K03-SBD-B01-M01-003
 
-**Pertanyaan:** Lingkaran pada roda dapat dikelompokkan sebagai bentuk apa dalam seni rupa?
+**Pertanyaan:** Titik-titik yang disusun sangat rapat dan berurutan dapat memberi kesan sebuah ....
 
 **Pilihan jawaban:**
-- rasa
-- irama
-- geometris
-- suara
+- garis
+- warna primer
+- bentuk tiga dimensi
+- tekstur nyata
 
-**Kunci Jawaban:** geometris
+**Kunci Jawaban:** garis
 
-**Pembahasan:** Bentuk lingkaran termasuk bentuk geometris.
+**Pembahasan:** Deretan titik yang rapat dapat terbaca oleh mata sebagai garis.
 
 ---
 
 ## Soal 4 — K03-SBD-B01-M01-004
 
-**Pertanyaan:** Saat membuat gambar batu, Bima ingin menunjukkan kesan permukaan kasar. Unsur rupa apa yang digunakan?
+**Pertanyaan:** Pada gambar jalan berkelok, garis membantu mata mengikuti ....
 
 **Pilihan jawaban:**
-- nada
-- tempo
-- cerita
-- tekstur
+- arah jalan
+- bau cat
+- berat kertas
+- bunyi kendaraan
 
-**Kunci Jawaban:** tekstur
+**Kunci Jawaban:** arah jalan
 
-**Pembahasan:** Permukaan batu yang terasa kasar menunjukkan tekstur.
+**Pembahasan:** Garis dapat menunjukkan arah dan menuntun pandangan pada gambar.
 
 ---
 
 ## Soal 5 — K03-SBD-B01-M01-005
 
-**Pertanyaan:** Guru menyiapkan cat merah, kuning, dan biru pada palet. Dalam teori pencampuran cat dasar, kelompok warna itu disebut ....
+**Pertanyaan:** Garis yang membentang dari kiri ke kanan sejajar tepi bawah kertas disebut garis ....
 
 **Pilihan jawaban:**
-- warna primer
-- warna netral
-- warna sekunder
-- warna gelap
+- horizontal
+- vertikal
+- diagonal
+- zig-zag
 
-**Kunci Jawaban:** warna primer
+**Kunci Jawaban:** horizontal
 
-**Pembahasan:** Warna merah, kuning, dan biru dalam teori warna dasar seni rupa disebut warna primer.
+**Pembahasan:** Garis horizontal memiliki arah mendatar dari kiri ke kanan atau sebaliknya.
 
 ---
 
 ## Soal 6 — K03-SBD-B01-M01-006
 
-**Pertanyaan:** Raka mencampurkan cat merah dan kuning dengan perbandingan seimbang. Warna yang umumnya muncul adalah ....
+**Pertanyaan:** Garis utama pada gambar tiang bendera yang tegak dari bawah ke atas disebut garis ....
 
 **Pilihan jawaban:**
-- hitam
-- oranye
-- hijau
-- ungu
+- vertikal
+- melengkung
+- horizontal
+- berombak
 
-**Kunci Jawaban:** oranye
+**Kunci Jawaban:** vertikal
 
-**Pembahasan:** Pencampuran cat merah dan kuning umumnya menghasilkan oranye.
+**Pembahasan:** Garis vertikal memiliki arah tegak dari bawah ke atas atau sebaliknya.
 
 ---
 
 ## Soal 7 — K03-SBD-B01-M01-007
 
-**Pertanyaan:** Pada gambar jalan, dua pohon sejenis berjarak berbeda dari pengamat. Agar tampak memiliki kedalaman, pohon dekat digambar ....
+**Pertanyaan:** Jejak pensil dari sudut kiri bawah menuju sudut kanan atas merupakan garis ....
 
 **Pilihan jawaban:**
-- tanpa garis
-- selalu transparan
-- lebih besar dibanding benda sejenis yang jauh
-- selalu lebih kecil
+- diagonal
+- horizontal
+- vertikal
+- melingkar
 
-**Kunci Jawaban:** lebih besar dibanding benda sejenis yang jauh
+**Kunci Jawaban:** diagonal
 
-**Pembahasan:** Benda yang terlihat lebih dekat biasanya digambar lebih besar dibanding benda sejenis yang jauh.
+**Pembahasan:** Garis diagonal arahnya miring terhadap sisi kertas.
 
 ---
 
 ## Soal 8 — K03-SBD-B01-M01-008
 
-**Pertanyaan:** Sebelum menggambar daun mangga, Siti melihat tepi, urat, dan arah tangkainya. Informasi apa yang ia kumpulkan?
+**Pertanyaan:** Untuk menggambar lengkungan gagang payung, jenis garis yang paling sesuai adalah ....
 
 **Pilihan jawaban:**
-- suara daun saja
-- rasa daun
-- harga daun
-- bentuk, garis, dan urat daun
+- melengkung
+- zig-zag
+- vertikal
+- horizontal
 
-**Kunci Jawaban:** bentuk, garis, dan urat daun
+**Kunci Jawaban:** melengkung
 
-**Pembahasan:** Mengamati daun sebelum menggambar membantu mengenali bentuk, garis, dan urat daun.
+**Pembahasan:** Garis melengkung berubah arah secara halus dan cocok untuk menggambar lengkungan.
 
 ---
 
 ## Soal 9 — K03-SBD-B01-M01-009
 
-**Pertanyaan:** Anak menggambar garis sejajar dengan sisi bawah kertas. Jenis garis itu adalah ....
+**Pertanyaan:** Rangkaian garis yang patah-patah membentuk sudut tajam disebut garis ....
 
 **Pilihan jawaban:**
+- zig-zag
+- berombak
 - horizontal
-- vertikal
-- diagonal
-- spiral
+- melingkar
 
-**Kunci Jawaban:** horizontal
+**Kunci Jawaban:** zig-zag
 
-**Pembahasan:** Garis mendatar disebut juga garis horizontal.
+**Pembahasan:** Garis zig-zag tersusun dari beberapa garis miring yang bertemu membentuk sudut.
 
 ---
 
 ## Soal 10 — K03-SBD-B01-M01-010
 
-**Pertanyaan:** Pada gambar tiang bendera, garisnya mengarah lurus dari bawah ke atas. Nama garis tersebut adalah ....
+**Pertanyaan:** Untuk menunjukkan permukaan air yang bergerak perlahan, garis yang dapat dicoba adalah garis ....
 
 **Pilihan jawaban:**
-- zig-zag
+- berombak
 - vertikal
-- horizontal
-- melengkung
+- zig-zag
+- diagonal
 
-**Kunci Jawaban:** vertikal
+**Kunci Jawaban:** berombak
 
-**Pembahasan:** Garis tegak disebut garis vertikal.
+**Pembahasan:** Garis berombak dapat memberi kesan gerak naik-turun yang lembut.
 
 ---
 
 ## Soal 11 — K03-SBD-B01-M01-011
 
-**Pertanyaan:** Kain batik menampilkan rangkaian bentuk yang berulang. Sebutan untuk pola berulang ini adalah ....
+**Pertanyaan:** Mila ingin membuat satu garis tebal dan satu garis tipis dengan pensil yang sama. Ia dapat mengubah ....
 
 **Pilihan jawaban:**
-- tempo
-- nada
-- motif
-- volume suara
+- tekanan pensil
+- warna meja
+- ukuran kertas
+- arah cahaya ruangan
 
-**Kunci Jawaban:** motif
+**Kunci Jawaban:** tekanan pensil
 
-**Pembahasan:** Pola yang berulang pada kain disebut motif.
+**Pembahasan:** Tekanan yang lebih kuat umumnya menghasilkan garis lebih gelap atau tebal, sedangkan tekanan ringan menghasilkan garis lebih tipis.
 
 ---
 
 ## Soal 12 — K03-SBD-B01-M01-012
 
-**Pertanyaan:** Dalam sketsa bukit, garis cakrawala memisahkan langit dan daratan. Di mana biasanya bagian langit diletakkan?
+**Pertanyaan:** Sebuah garis melengkung ditutup hingga kedua ujungnya bertemu. Bagian rata yang dikelilingi garis itu disebut ....
 
 **Pilihan jawaban:**
-- di bawah tanah
-- di dalam rumah
-- di belakang kertas
-- di atas garis cakrawala
+- bidang
+- titik
+- volume suara
+- gerak
 
-**Kunci Jawaban:** di atas garis cakrawala
+**Kunci Jawaban:** bidang
 
-**Pembahasan:** Saat menggambar pemandangan, bagian langit biasanya berada di atas garis cakrawala.
+**Pembahasan:** Garis tertutup dapat membatasi suatu bidang pada permukaan datar.
 
 ---
 
 ## Soal 13 — K03-SBD-B01-M01-013
 
-**Pertanyaan:** Guru menyiapkan kapas sebagai contoh permukaan benda. Kesan rabaan yang paling sesuai adalah ....
+**Pertanyaan:** Lingkaran, segitiga, dan persegi termasuk contoh bidang ....
 
 **Pilihan jawaban:**
-- lembut
-- tajam
-- keras seperti besi
-- kasar seperti kerikil
+- geometris
+- organis
+- tiga dimensi
+- bertekstur nyata
 
-**Kunci Jawaban:** lembut
+**Kunci Jawaban:** geometris
 
-**Pembahasan:** Permukaan kapas umumnya terasa lembut.
+**Pembahasan:** Bidang geometris mempunyai bentuk teratur dan dapat dikenali melalui aturan ukuran atau sudut.
 
 ---
 
 ## Soal 14 — K03-SBD-B01-M01-014
 
-**Pertanyaan:** Seorang siswa menarik garis miring dari sudut kiri bawah menuju kanan atas. Garis ini disebut ....
+**Pertanyaan:** Siluet daun yang tidak tersusun dari bentuk teratur termasuk bidang ....
 
 **Pilihan jawaban:**
-- lingkaran
-- diagonal
-- horizontal
-- vertikal
+- organis
+- geometris
+- kubistis
+- silindris
 
-**Kunci Jawaban:** diagonal
+**Kunci Jawaban:** organis
 
-**Pembahasan:** Garis miring disebut garis diagonal.
+**Pembahasan:** Bidang organis memiliki tepi yang bebas atau menyerupai bentuk yang ditemukan di alam.
 
 ---
 
 ## Soal 15 — K03-SBD-B01-M01-015
 
-**Pertanyaan:** Ketika mencari objek daun untuk digambar, siswa memasuki taman sekolah. Sikap yang tepat adalah ....
+**Pertanyaan:** Manakah pernyataan yang tepat tentang bidang dan bentuk tiga dimensi?
 
 **Pilihan jawaban:**
-- mencoret dinding
-- membuang sampah
-- menjaga kebersihan dan tidak merusak tanaman
-- memetik semua bunga
+- Bidang datar, sedangkan bentuk tiga dimensi memiliki volume
+- Bidang selalu kasar, sedangkan bentuk selalu halus
+- Bidang hanya merah, sedangkan bentuk hanya biru
+- Bidang dapat didengar, sedangkan bentuk dapat dicium
 
-**Kunci Jawaban:** menjaga kebersihan dan tidak merusak tanaman
+**Kunci Jawaban:** Bidang datar, sedangkan bentuk tiga dimensi memiliki volume
 
-**Pembahasan:** Sikap baik saat mengamati lingkungan untuk menggambar adalah menjaga kebersihan dan tidak merusak tanaman.
+**Pembahasan:** Bidang memiliki panjang dan lebar pada permukaan datar, sedangkan bentuk tiga dimensi juga memiliki volume atau isi ruang.
 
 ---
 
 ## Soal 16 — K03-SBD-B01-M01-016
 
-**Pertanyaan:** Pensil digerakkan mengikuti jejak memanjang yang berbelok. Walaupun berbelok, jejak tersebut termasuk unsur ....
+**Pertanyaan:** Kelompok benda yang menunjukkan bentuk tiga dimensi adalah ....
 
 **Pilihan jawaban:**
-- warna
-- ruang
-- tekstur
-- garis
+- bola, kubus, dan tabung
+- lingkaran, persegi, dan segitiga
+- titik, garis, dan warna
+- merah, kuning, dan biru
 
-**Kunci Jawaban:** garis
+**Kunci Jawaban:** bola, kubus, dan tabung
 
-**Pembahasan:** Unsur seni rupa berupa jejak memanjang disebut garis.
+**Pembahasan:** Bola, kubus, dan tabung memiliki volume sehingga termasuk bentuk tiga dimensi.
 
 ---
 
 ## Soal 17 — K03-SBD-B01-M01-017
 
-**Pertanyaan:** Untuk membuat batas jalan pada ilustrasi, Dita menghubungkan beberapa titik hingga menjadi jejak panjang. Hasilnya berupa ....
+**Pertanyaan:** Saat mengamati botol minum, bagian badannya paling dekat dengan bentuk ....
 
 **Pilihan jawaban:**
-- garis
-- suara
-- gerakan
-- aroma
+- tabung
+- segitiga datar
+- garis horizontal
+- titik tunggal
 
-**Kunci Jawaban:** garis
+**Kunci Jawaban:** tabung
 
-**Pembahasan:** Titik-titik yang disusun berdekatan dapat membentuk garis.
+**Pembahasan:** Badan banyak botol menyerupai tabung, walaupun detail setiap botol dapat berbeda.
 
 ---
 
 ## Soal 18 — K03-SBD-B01-M01-018
 
-**Pertanyaan:** Di antara segitiga, kotak, dan lingkaran pada penggaris pola, lingkaran termasuk kelompok bentuk ....
+**Pertanyaan:** Dalam pembelajaran dasar pencampuran cat, merah, kuning, dan biru disebut warna ....
 
 **Pilihan jawaban:**
-- irama
-- geometris
-- suara
-- rasa
+- primer
+- sekunder
+- tersier
+- netral
 
-**Kunci Jawaban:** geometris
+**Kunci Jawaban:** primer
 
-**Pembahasan:** Bentuk lingkaran termasuk bentuk geometris.
+**Pembahasan:** Merah, kuning, dan biru digunakan sebagai warna primer dalam model pencampuran cat dasar pada bab ini.
 
 ---
 
 ## Soal 19 — K03-SBD-B01-M01-019
 
-**Pertanyaan:** Seorang siswa membuat arsiran untuk menampilkan kesan permukaan kulit pohon. Unsur yang ditekankan adalah ....
-
-**Pilihan jawaban:**
-- tempo
-- cerita
-- tekstur
-- nada
-
-**Kunci Jawaban:** tekstur
-
-**Pembahasan:** Permukaan batu yang terasa kasar menunjukkan tekstur.
-
----
-
-## Soal 20 — K03-SBD-B01-M01-020
-
-**Pertanyaan:** Ketika memilih tiga cat dasar untuk latihan campuran warna, guru menunjukkan merah, kuning, dan biru. Kelompoknya adalah ....
-
-**Pilihan jawaban:**
-- warna netral
-- warna sekunder
-- warna gelap
-- warna primer
-
-**Kunci Jawaban:** warna primer
-
-**Pembahasan:** Warna merah, kuning, dan biru dalam teori warna dasar seni rupa disebut warna primer.
-
----
-
-## Soal 21 — K03-SBD-B01-M01-021
-
-**Pertanyaan:** Pada percobaan cat, warna merah bertemu warna kuning. Hasil umum yang dapat dicatat siswa adalah ....
+**Pertanyaan:** Campuran cat merah dan kuning umumnya menghasilkan warna ....
 
 **Pilihan jawaban:**
 - oranye
 - hijau
 - ungu
-- hitam
+- cokelat
 
 **Kunci Jawaban:** oranye
 
-**Pembahasan:** Pencampuran cat merah dan kuning umumnya menghasilkan oranye.
+**Pembahasan:** Dalam pencampuran cat dasar, merah dan kuning menghasilkan oranye.
+
+---
+
+## Soal 20 — K03-SBD-B01-M01-020
+
+**Pertanyaan:** Campuran cat kuning dan biru umumnya menghasilkan warna ....
+
+**Pilihan jawaban:**
+- hijau
+- oranye
+- ungu
+- merah
+
+**Kunci Jawaban:** hijau
+
+**Pembahasan:** Dalam pencampuran cat dasar, kuning dan biru menghasilkan hijau.
+
+---
+
+## Soal 21 — K03-SBD-B01-M01-021
+
+**Pertanyaan:** Campuran cat biru dan merah umumnya menghasilkan warna ....
+
+**Pilihan jawaban:**
+- ungu
+- hijau
+- oranye
+- kuning
+
+**Kunci Jawaban:** ungu
+
+**Pembahasan:** Dalam pencampuran cat dasar, biru dan merah menghasilkan ungu.
 
 ---
 
 ## Soal 22 — K03-SBD-B01-M01-022
 
-**Pertanyaan:** Untuk menampilkan dua rumah yang ukuran aslinya sama, rumah depan sebaiknya digambarkan ....
+**Pertanyaan:** Oranye, hijau, dan ungu disebut warna sekunder karena dibuat dengan ....
 
 **Pilihan jawaban:**
-- selalu transparan
-- lebih besar dibanding benda sejenis yang jauh
-- selalu lebih kecil
-- tanpa garis
+- mencampur dua warna primer
+- menambahkan air saja
+- mencampur hitam dan putih
+- menggunakan satu warna tanpa campuran
 
-**Kunci Jawaban:** lebih besar dibanding benda sejenis yang jauh
+**Kunci Jawaban:** mencampur dua warna primer
 
-**Pembahasan:** Benda yang terlihat lebih dekat biasanya digambar lebih besar dibanding benda sejenis yang jauh.
+**Pembahasan:** Warna sekunder pada model ini diperoleh dari campuran dua warna primer.
 
 ---
 
 ## Soal 23 — K03-SBD-B01-M01-023
 
-**Pertanyaan:** Seorang anak membandingkan dua daun yang tampak serupa. Sebelum menggambar, ia meneliti rincian ....
+**Pertanyaan:** Warna tersier dapat dicoba dengan mencampur ....
 
 **Pilihan jawaban:**
-- rasa daun
-- harga daun
-- bentuk, garis, dan urat daun
-- suara daun saja
+- satu warna primer dan satu warna sekunder yang berdekatan
+- tiga jenis lem
+- dua potong kertas putih
+- air dan pensil grafit
 
-**Kunci Jawaban:** bentuk, garis, dan urat daun
+**Kunci Jawaban:** satu warna primer dan satu warna sekunder yang berdekatan
 
-**Pembahasan:** Mengamati daun sebelum menggambar membantu mengenali bentuk, garis, dan urat daun.
+**Pembahasan:** Warna tersier terbentuk dari campuran warna primer dengan warna sekunder yang berdekatan pada lingkaran warna.
 
 ---
 
 ## Soal 24 — K03-SBD-B01-M01-024
 
-**Pertanyaan:** Seorang murid menggambar permukaan meja dengan garis yang melintang datar. Garis itu bernama ....
+**Pertanyaan:** Dua siswa memakai warna berbeda untuk tema taman. Sikap yang tepat adalah ....
 
 **Pilihan jawaban:**
-- vertikal
-- diagonal
-- spiral
-- horizontal
+- menjelaskan alasan pilihan masing-masing
+- menyatakan hanya satu warna boleh dipakai
+- menghapus karya teman
+- menyamakan semua karya tanpa berdiskusi
 
-**Kunci Jawaban:** horizontal
+**Kunci Jawaban:** menjelaskan alasan pilihan masing-masing
 
-**Pembahasan:** Garis mendatar disebut juga garis horizontal.
+**Pembahasan:** Pilihan warna dapat berbeda sesuai gagasan; siswa dapat menjelaskan pengaruh warna pada bagian yang ingin ditonjolkan.
 
 ---
 
 ## Soal 25 — K03-SBD-B01-M01-025
 
-**Pertanyaan:** Untuk batang pohon yang tumbuh tegak, jenis garis awal paling cocok adalah ....
+**Pertanyaan:** Sebelum menggambar daun, pengamatan yang paling membantu adalah ....
 
 **Pilihan jawaban:**
-- vertikal
-- horizontal
-- melengkung
-- zig-zag
+- melihat tepi, urat, warna, dan arah tangkai
+- menebak rasa daun tanpa melihat
+- hanya menghafal nama pohon
+- menyalin gambar teman seluruhnya
 
-**Kunci Jawaban:** vertikal
+**Kunci Jawaban:** melihat tepi, urat, warna, dan arah tangkai
 
-**Pembahasan:** Garis tegak disebut garis vertikal.
+**Pembahasan:** Pengamatan langsung terhadap bagian yang terlihat memberi rincian untuk membuat gambar.
 
 ---
 
 ## Soal 26 — K03-SBD-B01-M01-026
 
-**Pertanyaan:** Pada hiasan kertas, gambar bunga diulang dalam susunan teratur. Susunan berulang itu dinamakan ....
+**Pertanyaan:** Lia berkata dua daun sama persis. Bukti yang paling baik untuk memeriksa pernyataannya adalah ....
 
 **Pilihan jawaban:**
-- nada
-- motif
-- volume suara
-- tempo
+- membandingkan bentuk tepi, urat, ukuran, dan warna
+- menanyakan harga kedua daun
+- menghitung kursi di kelas
+- mendengar bunyi bel sekolah
 
-**Kunci Jawaban:** motif
+**Kunci Jawaban:** membandingkan bentuk tepi, urat, ukuran, dan warna
 
-**Pembahasan:** Pola yang berulang pada kain disebut motif.
+**Pembahasan:** Kesamaan visual diperiksa dari ciri yang dapat diamati pada kedua daun.
 
 ---
 
 ## Soal 27 — K03-SBD-B01-M01-027
 
-**Pertanyaan:** Siswa akan melukis langit dan ladang. Letak langit terhadap garis cakrawala umumnya ....
+**Pertanyaan:** Kolase adalah karya yang dibuat dengan cara ....
 
 **Pilihan jawaban:**
-- di dalam rumah
-- di belakang kertas
-- di atas garis cakrawala
-- di bawah tanah
+- menempelkan beragam bahan pada bidang
+- meniup peluit mengikuti irama
+- menyusun gerak tari berpasangan
+- mencampur minuman berwarna
 
-**Kunci Jawaban:** di atas garis cakrawala
+**Kunci Jawaban:** menempelkan beragam bahan pada bidang
 
-**Pembahasan:** Saat menggambar pemandangan, bagian langit biasanya berada di atas garis cakrawala.
+**Pembahasan:** Kolase menggabungkan potongan atau bahan berbeda dengan cara ditempel pada suatu bidang.
 
 ---
 
 ## Soal 28 — K03-SBD-B01-M01-028
 
-**Pertanyaan:** Pada karya kolase, kapas dipilih untuk memberi kesan halus dan empuk. Kesan raba yang mewakilinya adalah ....
+**Pertanyaan:** Sebelum merekatkan potongan kertas kolase, langkah yang paling membantu adalah ....
 
 **Pilihan jawaban:**
-- tajam
-- keras seperti besi
-- kasar seperti kerikil
-- lembut
+- mencoba susunan hingga sesuai rancangan
+- menuangkan seluruh lem ke kertas
+- membuang semua potongan kecil
+- menutup karya dengan buku
 
-**Kunci Jawaban:** lembut
+**Kunci Jawaban:** mencoba susunan hingga sesuai rancangan
 
-**Pembahasan:** Permukaan kapas umumnya terasa lembut.
+**Pembahasan:** Mencoba susunan lebih dahulu memudahkan perbaikan sebelum bahan direkatkan.
 
 ---
 
 ## Soal 29 — K03-SBD-B01-M01-029
 
-**Pertanyaan:** Pada denah sederhana, jalur menyerong dari satu sudut ke sudut lain disebut garis ....
+**Pertanyaan:** Lem pada kolase sebaiknya digunakan ....
 
 **Pilihan jawaban:**
-- diagonal
-- horizontal
-- vertikal
-- lingkaran
+- secukupnya pada bagian yang akan ditempel
+- sebanyak mungkin hingga menetes
+- pada meja dan lantai
+- tanpa mengikuti petunjuk
 
-**Kunci Jawaban:** diagonal
+**Kunci Jawaban:** secukupnya pada bagian yang akan ditempel
 
-**Pembahasan:** Garis miring disebut garis diagonal.
+**Pembahasan:** Lem secukupnya membantu bahan menempel tanpa membuat karya terlalu basah atau area kerja kotor.
 
 ---
 
 ## Soal 30 — K03-SBD-B01-M01-030
 
-**Pertanyaan:** Sekelompok anak mengamati taman untuk bahan gambar. Perilaku yang mendukung kegiatan tersebut ialah ....
+**Pertanyaan:** Cara membawa gunting yang aman adalah ....
 
 **Pilihan jawaban:**
-- membuang sampah
-- menjaga kebersihan dan tidak merusak tanaman
-- memetik semua bunga
-- mencoret dinding
+- menutup bilah dan memegang gagangnya
+- membuka bilah sambil berlari
+- mengacungkan ujungnya ke teman
+- menyimpan gunting di lantai
 
-**Kunci Jawaban:** menjaga kebersihan dan tidak merusak tanaman
+**Kunci Jawaban:** menutup bilah dan memegang gagangnya
 
-**Pembahasan:** Sikap baik saat mengamati lingkungan untuk menggambar adalah menjaga kebersihan dan tidak merusak tanaman.
+**Pembahasan:** Gunting dibawa dengan bilah tertutup dan bagian tajam dijauhkan dari orang lain.
 
 ---
 
 ## Soal 31 — K03-SBD-B01-M01-031
 
-**Pertanyaan:** Ketika pena ditarik membentuk jejak panjang pada kertas, jejak itu dikenal sebagai unsur ....
+**Pertanyaan:** Bahan bekas yang paling tepat digunakan untuk kolase sekolah adalah bahan yang ....
 
 **Pilihan jawaban:**
-- ruang
-- tekstur
-- garis
-- warna
+- bersih, kering, dan tidak tajam
+- basah dan berjamur
+- pecahannya tajam
+- berbau bahan kimia kuat
 
-**Kunci Jawaban:** garis
+**Kunci Jawaban:** bersih, kering, dan tidak tajam
 
-**Pembahasan:** Unsur seni rupa berupa jejak memanjang disebut garis.
+**Pembahasan:** Bahan guna ulang harus diperiksa agar bersih, kering, dan aman disentuh.
 
 ---
 
 ## Soal 32 — K03-SBD-B01-M01-032
 
-**Pertanyaan:** Beberapa titik yang terus ditambahkan berurutan dapat membentuk sebuah ....
+**Pertanyaan:** Ketika mencari contoh daun di taman sekolah, siswa sebaiknya ....
 
 **Pilihan jawaban:**
-- suara
-- gerakan
-- aroma
-- garis
+- mengamati tanpa merusak tanaman
+- memetik semua daun muda
+- menginjak tanaman agar dekat
+- membuang sisa kertas di tanah
 
-**Kunci Jawaban:** garis
+**Kunci Jawaban:** mengamati tanpa merusak tanaman
 
-**Pembahasan:** Titik-titik yang disusun berdekatan dapat membentuk garis.
+**Pembahasan:** Pengamatan lingkungan dilakukan dengan menjaga kebersihan dan tidak merusak makhluk hidup.
 
 ---
 
 ## Soal 33 — K03-SBD-B01-M01-033
 
-**Pertanyaan:** Lingkaran di antara bentuk pada pola hias termasuk bentuk ....
+**Pertanyaan:** Nadia terinspirasi bentuk daun dari buku. Agar karyanya tetap menunjukkan gagasan sendiri, ia dapat ....
 
 **Pilihan jawaban:**
-- geometris
-- suara
-- rasa
-- irama
+- mengembangkan susunan dan pilihan warna versinya
+- menyalin seluruh karya lalu mengganti nama
+- menghapus nama pembuat asli
+- mengaku gambar contoh sebagai miliknya
 
-**Kunci Jawaban:** geometris
+**Kunci Jawaban:** mengembangkan susunan dan pilihan warna versinya
 
-**Pembahasan:** Bentuk lingkaran termasuk bentuk geometris.
+**Pembahasan:** Referensi boleh membantu pengamatan, tetapi siswa perlu mengolahnya menjadi susunan dan pilihan visual sendiri serta tidak mengaku karya orang lain.
 
 ---
 
 ## Soal 34 — K03-SBD-B01-M01-034
 
-**Pertanyaan:** Untuk membedakan gambar batu kasar dan kain halus, siswa perlu memperhatikan unsur ....
+**Pertanyaan:** Komentar yang paling membantu teman memperbaiki kolase adalah ....
 
 **Pilihan jawaban:**
-- cerita
-- tekstur
-- nada
-- tempo
+- Susunan daunmu jelas; coba rapikan lem di tepi kanan
+- Karyamu jelek sekali
+- Aku paling hebat di kelas
+- Buang saja karyamu
 
-**Kunci Jawaban:** tekstur
+**Kunci Jawaban:** Susunan daunmu jelas; coba rapikan lem di tepi kanan
 
-**Pembahasan:** Permukaan batu yang terasa kasar menunjukkan tekstur.
+**Pembahasan:** Umpan balik yang baik menyebut kelebihan dan saran tertentu dengan bahasa sopan.
 
 ---
 
 ## Soal 35 — K03-SBD-B01-M01-035
 
-**Pertanyaan:** Siswa menyusun palet berisi merah, kuning, dan biru sebagai warna dasar cat. Istilah kelompok warna itu ialah ....
+**Pertanyaan:** Urutan kegiatan berkarya yang paling lengkap adalah ....
 
 **Pilihan jawaban:**
-- warna sekunder
-- warna gelap
-- warna primer
-- warna netral
+- mengamati, merancang, membuat, berbagi, lalu merefleksi
+- menempel, membuang alat, lalu mulai mengamati
+- menilai teman, menyalin, lalu menghapus
+- mewarnai, berlari, lalu meninggalkan meja
 
-**Kunci Jawaban:** warna primer
+**Kunci Jawaban:** mengamati, merancang, membuat, berbagi, lalu merefleksi
 
-**Pembahasan:** Warna merah, kuning, dan biru dalam teori warna dasar seni rupa disebut warna primer.
+**Pembahasan:** Proses berkarya dimulai dari pengamatan dan rancangan, dilanjutkan pembuatan, berbagi hasil, serta refleksi untuk mengenali hal yang berhasil dan dapat diperbaiki.
 
 ---
