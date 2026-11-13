@@ -2,59 +2,62 @@
 
 ## MOD-01 — K03-ENG-B09-MOD-01
 
-### Let's learn! — Menggambarkan kelas
+### Let's learn! — Room conditions
 
-![Classroom property](assets/eng-b09-gambar-01.svg)
+Pada unit ini kita belajar menggambarkan kondisi dan ukuran ruangan di sekolah.
 
-**Sepuluh kata sifat:**
-- **clean** bersih; **dirty** kotor
-- **big** besar; **small** kecil
-- **tidy** rapi; **messy** berantakan
-- **bright** terang; **dark** gelap
-- **quiet** tenang/tidak berisik; **noisy** berisik
+![Clean classroom](assets/eng-b09-gambar-01.svg)
 
-Kata sifat mendeskripsikan keadaan atau ciri benda/tempat. **Tidy** tidak sama persis dengan **clean**: buku dapat tersusun rapi, sedangkan lantai masih kotor. **Bright** dan **big** juga menjelaskan dua hal berbeda.
+**Kata sasaran:**
+- **clean** = bersih
+- **dirty** = kotor
+- **big** = besar
+- **large** = besar atau luas
+- **small** = kecil
+- **narrow** = sempit
+- **wide** = lebar
 
-**Pola kalimat:**
-- `My classroom is clean.` (Kelas saya bersih.)
-- `The room is bright.` (Ruangan itu terang.)
-- `The books are tidy.` (Buku-buku itu tertata rapi.)
+**Pola bertanya:** `How is the canteen?`
 
-Gunakan **is** untuk satu ruangan atau benda dan **are** untuk lebih dari satu benda.
+**Pola menjawab:** `It is small.` atau `It is small and clean.`
 
-**Dialog:**
-- A: Is your classroom clean?
-- B: Yes, it is.
-- A: Is it noisy?
-- B: No, it isn't. It is quiet.
+Kata **and** menggabungkan dua kondisi. Contoh: `The library is big and clean.` Ukuran dan kebersihan adalah dua ciri berbeda. Ruangan kecil dapat tetap bersih, dan ruangan besar dapat saja kotor.
 
-**Latihan:** Pilih dua kata sifat yang menggambarkan ruangan berbeda. Buat kalimat tanpa menganggap kelas yang kecil pasti gelap atau kelas yang tenang pasti bersih.
+**Pasangan yang perlu diingat:**
+- clean ↔ dirty
+- big/large ↔ small
+- narrow ↔ wide
+
+**Latihan:** Amati satu ruangan dari tempat yang aman dan dengan izin guru. Buat satu kalimat tentang ukuran atau lebarnya dan satu kalimat tentang kebersihannya. Jangan masuk ke ruangan yang tidak diizinkan.
 
 ---
 
 ## MOD-02 — K03-ENG-B09-MOD-02
 
-### Let's practice! — Membandingkan bukti
+### Let's practice! — Describe two rooms
 
-![Classroom property](assets/eng-b09-gambar-02.svg)
+Perhatikan perbandingan perpustakaan dan kantin.
 
-**Baca catatan contoh (rekaan):**
-- Classroom A: books arranged on shelves, a clean floor, and bright windows.
-- Classroom B: papers scattered on desks, a dirty floor, and little light.
-- Both rooms have the same size.
+![Large library and small canteen](assets/eng-b09-gambar-08.svg)
 
-**Pertanyaan dan jawaban:**
-- Which room is tidy? **Classroom A**, because the books are arranged.
-- Which room has a dirty floor? **Classroom B**.
-- Which room is bright? **Classroom A**.
-- Is Classroom A bigger? **We do not know that.** The text says the rooms have the same size.
+**Baca laporan contoh:**
+- The library is large and clean.
+- The canteen is small and clean.
+- The restroom is narrow.
+- The schoolyard is wide, but it is dirty.
 
-**Latihan dialog:**
-- A: Is Classroom B clean?
-- B: No, it isn't.
-- A: Is Classroom A bright?
-- B: Yes, it is.
+**Tanya-jawab:**
+- A: How is the library?
+- B: It is large and clean.
+- A: How is the restroom?
+- B: It is narrow.
 
-**Cara membedakan:** Kebersihan, kerapian, ukuran, pencahayaan, dan kebisingan adalah ciri yang berlainan. Dari kata **quiet** saja kita tidak boleh menyimpulkan ruangan pasti **tidy**.
+**Membaca bukti:** Kata **large** tidak memberi informasi apakah ruangan bersih. Kata **clean** tidak memberi informasi apakah ruangan besar. Gunakan hanya kondisi yang terlihat atau disebutkan pada teks.
 
-**Latihan berpasangan:** Tulis deskripsi rekaan dua ruang dalam dua kalimat. Teman menebak kata sifat yang cocok dan menunjuk bukti dari kalimat. Gunakan bahasa yang sopan ketika mendeskripsikan kondisi kelas.
+**Ayo membuat laporan:**
+1. Pilih dua tempat sekolah.
+2. Tulis nama tempat dan dua kondisi yang benar-benar diketahui.
+3. Susun kalimat `The ... is ... and ...`.
+4. Bacakan dengan sopan. Jika keadaan dapat berubah, gunakan keterangan “saat diamati”.
+
+**Cek pemahaman:** Pertanyaan `Where is the library?` menanyakan letak. Pertanyaan `How is the library?` menanyakan keadaan atau kondisinya.

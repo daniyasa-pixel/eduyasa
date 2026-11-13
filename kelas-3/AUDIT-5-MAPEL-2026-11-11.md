@@ -320,3 +320,15 @@ pembahasan ada, metadata TTS valid, dan 10 SVG valid XML. Kumulatif audit isi
 **1.260/1.945**, dengan **685 soal pada 15 bab/unit** tersisa. JSON Unit 8 yang
 telah dibuat sebelumnya tidak lagi cocok dengan Markdown dan wajib dikonversi
 ulang pada tahap JSON. Titik lanjut: Bahasa Inggris Unit 9.
+
+
+## Kelanjutan 13 November 2026 — Bahasa Inggris Unit 9
+
+Unit 9 ditulis ulang sesuai kata kondisi resmi: large, narrow, clean, dirty,
+wide, small, dan big, beserta pola `How is the ...?`. Lima puluh soal, dua
+modul, lima TTS, dan sepuluh ilustrasi diperiksa; seluruh ID tetap. Ilustrasi
+emoji diganti dengan adegan kondisi ruangan yang berfungsi sebagai stimulus.
+Pemeriksaan sumber lulus 50 ID unik, empat opsi unik, kunci cocok, pembahasan,
+metadata TTS, dan struktur SVG. Kumulatif audit isi **1.310/1.945**, tersisa
+**635 soal pada 14 bab/unit**. JSON Unit 9 lama harus dikonversi ulang. Titik
+lanjut: Bahasa Inggris Unit 10.

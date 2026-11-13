@@ -18,12 +18,12 @@
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
-| Bahasa Inggris | Unit 1–8: 400 soal dan enam belas modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7–8 masing-masing 10 SVG fungsional | 400/500 diperiksa; 40 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | 100 soal/2 unit; uji suara dan WebView di tahap aplikasi |
+| Bahasa Inggris | Unit 1–9: 450 soal dan delapan belas modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7–9 masing-masing 10 SVG fungsional | 450/500 diperiksa; 45 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | 50 soal/1 unit; uji suara dan WebView di tahap aplikasi |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **1.260/1.945**. Jumlah diubah: **1.239**.
-Sisa audit isi: **685 soal pada 15 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **1.310/1.945**. Jumlah diubah: **1.289**.
+Sisa audit isi: **635 soal pada 14 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -705,3 +705,23 @@ Kumulatif audit isi **1.260/1.945**. Sisa **685 soal pada 15 bab/unit**.
 Titik lanjut: Bahasa Inggris Unit 9. Karena JSON Unit 8 sudah dibuat dari sumber
 lama, empat JSON Unit 8 dan audit kesetiaannya kini berstatus **STALE** dan harus
 diregenerasi pada tahap konversi terpisah sebelum dipakai sebagai data kanonis.
+
+
+### Kelanjutan: Bahasa Inggris Unit 9
+
+Seluruh 50 soal dan dua modul diperiksa terhadap Unit 9 buku siswa dan panduan
+guru *My Next Words Grade 3*. Sumber lama melebar ke **tidy/messy,
+bright/dark,** dan **quiet/noisy**. Bank ditulis ulang memakai kata sasaran
+**large, narrow, clean, dirty, wide, small,** dan **big**, serta pola
+`How is the ...?`. Semua ID 001–050 dan komposisi 35+10+5 tetap.
+
+Sepuluh SVG emoji generik diganti dengan perbandingan kondisi ruangan yang
+menjadi bukti jawaban. Lima TTS, dua modul, opsi, kunci, dan pembahasan
+diselaraskan. Pemeriksaan paket: 50 ID unik berurutan, empat opsi unik, satu
+kunci cocok, metadata TTS dapat diparse, dan 10 SVG memiliki viewBox,
+title/desc, tanpa skrip atau tautan eksternal.
+
+Kumulatif audit isi **1.310/1.945**. Sisa **635 soal pada 14 bab/unit**.
+Titik lanjut: Bahasa Inggris Unit 10. Empat JSON Unit 9 yang dibuat dari sumber
+lama kini berstatus **STALE_SOURCE_CHANGED** dan harus diregenerasi pada tahap
+konversi terpisah.

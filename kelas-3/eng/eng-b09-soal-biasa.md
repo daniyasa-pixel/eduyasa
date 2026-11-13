@@ -2,560 +2,560 @@
 
 ## Soal 1 — K03-ENG-B09-M01-001
 
-**Pertanyaan:** The floor has no rubbish. How can we describe it?
+**Pertanyaan:** The classroom floor has no rubbish. How is the classroom?
 
 **Pilihan jawaban:**
-- clean
-- dirty
-- big
-- small
+- It is clean.
+- It is dirty.
+- It is narrow.
+- It is small.
 
-**Kunci Jawaban:** clean
+**Kunci Jawaban:** It is clean.
 
-**Pembahasan:** A floor without rubbish can be clean.
+**Pembahasan:** Tidak ada sampah menjadi bukti bahwa kelas bersih.
 
 ---
 
 ## Soal 2 — K03-ENG-B09-M01-002
 
-**Pertanyaan:** There is mud on the floor. Which word describes it?
+**Pertanyaan:** There is mud and rubbish on the schoolyard. How is it?
 
 **Pilihan jawaban:**
-- dirty
-- clean
-- big
-- small
+- It is large.
+- It is dirty.
+- It is clean.
+- It is small.
 
-**Kunci Jawaban:** dirty
+**Kunci Jawaban:** It is dirty.
 
-**Pembahasan:** Mud makes the floor dirty.
+**Pembahasan:** Lumpur dan sampah menunjukkan keadaan kotor.
 
 ---
 
 ## Soal 3 — K03-ENG-B09-M01-003
 
-**Pertanyaan:** The library has room for many students. Which size word fits?
+**Pertanyaan:** The library has space for many tables and shelves. How is the library?
 
 **Pilihan jawaban:**
-- big
-- clean
-- dirty
-- small
+- It is big.
+- It is narrow.
+- It is dirty.
+- It is small.
 
-**Kunci Jawaban:** big
+**Kunci Jawaban:** It is big.
 
-**Pembahasan:** Big describes large size.
+**Pembahasan:** Ruang yang mampu memuat banyak meja dan rak dapat digambarkan **big**.
 
 ---
 
 ## Soal 4 — K03-ENG-B09-M01-004
 
-**Pertanyaan:** The reading corner has only one small table. Which size word describes the table?
+**Pertanyaan:** The canteen has only two small tables. How is the canteen?
 
 **Pilihan jawaban:**
-- small
-- clean
-- dirty
-- big
+- It is clean.
+- It is large.
+- It is small.
+- It is wide.
 
-**Kunci Jawaban:** small
+**Kunci Jawaban:** It is small.
 
-**Pembahasan:** Small describes limited size.
+**Pembahasan:** Petunjuk dua meja kecil mendukung deskripsi **small**.
 
 ---
 
 ## Soal 5 — K03-ENG-B09-M01-005
 
-**Pertanyaan:** All books are arranged on the shelf. Which word fits?
+**Pertanyaan:** The prayer room can hold many people. Which word describes its size?
 
 **Pilihan jawaban:**
-- tidy
-- clean
 - dirty
-- big
+- narrow
+- large
+- clean
 
-**Kunci Jawaban:** tidy
+**Kunci Jawaban:** large
 
-**Pembahasan:** Tidy means neatly arranged.
+**Pembahasan:** **Large** berarti besar atau luas.
 
 ---
 
 ## Soal 6 — K03-ENG-B09-M01-006
 
-**Pertanyaan:** Books and bags are scattered everywhere. Which word fits?
+**Pertanyaan:** Only one person can walk through the restroom entrance at a time. How is the entrance?
 
 **Pilihan jawaban:**
-- messy
-- clean
-- dirty
+- narrow
 - big
+- clean
+- large
 
-**Kunci Jawaban:** messy
+**Kunci Jawaban:** narrow
 
-**Pembahasan:** Messy means not neatly arranged.
+**Pembahasan:** Jalan masuk yang lebarnya terbatas disebut **narrow**.
 
 ---
 
 ## Soal 7 — K03-ENG-B09-M01-007
 
-**Pertanyaan:** Sunlight makes the classroom easy to see in. Which word fits?
+**Pertanyaan:** The schoolyard has plenty of space from left to right. Which word fits?
 
 **Pilihan jawaban:**
-- bright
-- clean
 - dirty
-- big
+- small
+- wide
+- narrow
 
-**Kunci Jawaban:** bright
+**Kunci Jawaban:** wide
 
-**Pembahasan:** Bright describes strong light.
+**Pembahasan:** **Wide** berarti lebar.
 
 ---
 
 ## Soal 8 — K03-ENG-B09-M01-008
 
-**Pertanyaan:** The room has no lights on and little sunlight. Which word fits?
+**Pertanyaan:** What is the opposite of **clean**?
 
 **Pilihan jawaban:**
-- dark
-- clean
+- large
 - dirty
-- big
+- small
+- wide
 
-**Kunci Jawaban:** dark
+**Kunci Jawaban:** dirty
 
-**Pembahasan:** Dark describes little light.
+**Pembahasan:** Lawan kata **clean** adalah **dirty**.
 
 ---
 
 ## Soal 9 — K03-ENG-B09-M01-009
 
-**Pertanyaan:** Students are reading silently. Which word fits?
+**Pertanyaan:** What is the opposite of **big**?
 
 **Pilihan jawaban:**
-- quiet
+- small
 - clean
-- dirty
-- big
+- wide
+- large
 
-**Kunci Jawaban:** quiet
+**Kunci Jawaban:** small
 
-**Pembahasan:** Quiet means little noise.
+**Pembahasan:** Lawan kata **big** adalah **small**.
 
 ---
 
 ## Soal 10 — K03-ENG-B09-M01-010
 
-**Pertanyaan:** Many children are shouting loudly. Which word fits?
+**Pertanyaan:** What is the opposite of **narrow**?
 
 **Pilihan jawaban:**
-- noisy
-- clean
 - dirty
-- big
+- wide
+- small
+- clean
 
-**Kunci Jawaban:** noisy
+**Kunci Jawaban:** wide
 
-**Pembahasan:** Noisy describes much noise.
+**Pembahasan:** Lawan kata **narrow** adalah **wide**.
 
 ---
 
 ## Soal 11 — K03-ENG-B09-M01-011
 
-**Pertanyaan:** Which sentence describes a clean classroom?
+**Pertanyaan:** Which word has a similar meaning to **big**?
 
 **Pilihan jawaban:**
-- My classroom is clean.
-- My classroom clean is.
-- My clean classroom are.
-- My classroom are clean.
+- dirty
+- narrow
+- large
+- clean
 
-**Kunci Jawaban:** My classroom is clean.
+**Kunci Jawaban:** large
 
-**Pembahasan:** The sentence uses 'is' with clean.
+**Pembahasan:** Dalam deskripsi ukuran ruangan, **large** juga berarti besar.
 
 ---
 
 ## Soal 12 — K03-ENG-B09-M01-012
 
-**Pertanyaan:** Which sentence describes a dirty floor?
+**Pertanyaan:** Choose the correct sentence.
 
 **Pilihan jawaban:**
-- The floor are dirty.
-- The floor is dirty.
-- The dirty is floor.
-- The floor dirty is.
+- The classroom clean is.
+- The classroom is clean.
+- The classroom are clean.
+- Clean the classroom are.
 
-**Kunci Jawaban:** The floor is dirty.
+**Kunci Jawaban:** The classroom is clean.
 
-**Pembahasan:** 'Dirty' describes the floor.
+**Pembahasan:** Subjek tunggal **the classroom** memakai **is** sebelum kata sifat.
 
 ---
 
 ## Soal 13 — K03-ENG-B09-M01-013
 
-**Pertanyaan:** A: Is your classroom clean? B: Yes, ___.
+**Pertanyaan:** Which question asks about the condition of the canteen?
 
 **Pilihan jawaban:**
-- it are.
-- it isn't.
-- it is.
-- it am.
+- Where is the canteen?
+- What is in the canteen?
+- How is the canteen?
+- Who is in the canteen?
 
-**Kunci Jawaban:** it is.
+**Kunci Jawaban:** How is the canteen?
 
-**Pembahasan:** The positive short answer uses 'it is'.
+**Pembahasan:** Pola sasaran Unit 9 adalah **How is the ...?**.
 
 ---
 
 ## Soal 14 — K03-ENG-B09-M01-014
 
-**Pertanyaan:** A: Is the room messy? B: No, ___.
+**Pertanyaan:** A: How is the canteen? B: ___.
 
 **Pilihan jawaban:**
-- it is.
-- it isn't.
-- they isn't.
-- it am.
+- It is small.
+- It has lunch.
+- It is behind.
+- It can eat.
 
-**Kunci Jawaban:** it isn't.
+**Kunci Jawaban:** It is small.
 
-**Pembahasan:** The negative short answer uses 'it isn't'.
+**Pembahasan:** Jawaban menyebutkan kondisi atau ukuran tempat.
 
 ---
 
 ## Soal 15 — K03-ENG-B09-M01-015
 
-**Pertanyaan:** Complete: My classroom ___ tidy.
+**Pertanyaan:** Complete: The office is small ___ clean.
 
 **Pilihan jawaban:**
-- are
-- am
-- is
-- be
+- or
+- and
+- but not
+- under
 
-**Kunci Jawaban:** is
+**Kunci Jawaban:** and
 
-**Pembahasan:** A singular subject takes 'is'.
+**Pembahasan:** Kata **and** menggabungkan dua kondisi tempat.
 
 ---
 
 ## Soal 16 — K03-ENG-B09-M01-016
 
-**Pertanyaan:** Complete: The books ___ tidy.
+**Pertanyaan:** The library is big and clean. Which two words describe it?
 
 **Pilihan jawaban:**
-- is
-- are
-- am
-- be
+- library and clean
+- big and clean
+- big and library
+- is and clean
 
-**Kunci Jawaban:** are
+**Kunci Jawaban:** big and clean
 
-**Pembahasan:** A plural subject takes 'are'.
+**Pembahasan:** Dua kata sifat pada kalimat adalah **big** dan **clean**.
 
 ---
 
 ## Soal 17 — K03-ENG-B09-M01-017
 
-**Pertanyaan:** What is the opposite of 'clean'?
+**Pertanyaan:** The restroom is narrow. What does **narrow** describe?
 
 **Pilihan jawaban:**
-- clean
-- big
-- dirty
-- quiet
+- its width
+- its cleanliness
+- its location
+- its activity
 
-**Kunci Jawaban:** dirty
+**Kunci Jawaban:** its width
 
-**Pembahasan:** Dirty is the opposite of clean.
+**Pembahasan:** **Narrow** menjelaskan lebar yang terbatas.
 
 ---
 
 ## Soal 18 — K03-ENG-B09-M01-018
 
-**Pertanyaan:** What is the opposite of 'big'?
+**Pertanyaan:** The schoolyard is large. Which statement matches?
 
 **Pilihan jawaban:**
-- messy
-- small
-- quiet
-- bright
+- It has a lot of space.
+- It must be dirty.
+- It is inside the library.
+- It can hold only one chair.
 
-**Kunci Jawaban:** small
+**Kunci Jawaban:** It has a lot of space.
 
-**Pembahasan:** Small contrasts with big.
+**Pembahasan:** **Large** menunjukkan ukuran atau ruang yang besar.
 
 ---
 
 ## Soal 19 — K03-ENG-B09-M01-019
 
-**Pertanyaan:** What is the opposite of 'bright'?
+**Pertanyaan:** Read: “The office is small and clean.” Is the office dirty?
 
 **Pilihan jawaban:**
-- big
-- dark
-- tidy
-- small
+- Yes, it is dirty.
+- No, it is clean.
+- Yes, it is large.
+- No, it is wide.
 
-**Kunci Jawaban:** dark
+**Kunci Jawaban:** No, it is clean.
 
-**Pembahasan:** Dark contrasts with bright.
+**Pembahasan:** Kalimat menyebutkan kantor bersih.
 
 ---
 
 ## Soal 20 — K03-ENG-B09-M01-020
 
-**Pertanyaan:** What is the opposite of 'quiet'?
+**Pertanyaan:** Read: “The classroom is big but the door is narrow.” What is narrow?
 
 **Pilihan jawaban:**
-- quiet
-- noisy
-- bright
-- clean
+- the classroom
+- the door
+- the schoolyard
+- the library
 
-**Kunci Jawaban:** noisy
+**Kunci Jawaban:** the door
 
-**Pembahasan:** Noisy contrasts with quiet.
+**Pembahasan:** Kata **narrow** menerangkan pintu.
 
 ---
 
 ## Soal 21 — K03-ENG-B09-M01-021
 
-**Pertanyaan:** Read: 'The floor is clean but the desks are messy.' What is messy?
+**Pertanyaan:** Classroom A is clean. Classroom B is dirty. Which room needs cleaning?
 
 **Pilihan jawaban:**
-- the board
-- the desks
-- the window
-- the walls
+- Classroom A
+- Classroom B
+- both are described as clean
+- neither room
 
-**Kunci Jawaban:** the desks
+**Kunci Jawaban:** Classroom B
 
-**Pembahasan:** The sentence names desks as messy.
+**Pembahasan:** Ruang B secara jelas disebut kotor.
 
 ---
 
 ## Soal 22 — K03-ENG-B09-M01-022
 
-**Pertanyaan:** Read: 'The room is small but bright.' Which word describes its light?
+**Pertanyaan:** The canteen is small, but the schoolyard is large. Which place is larger?
 
 **Pilihan jawaban:**
-- small
-- noisy
-- bright
-- dirty
+- the canteen
+- the schoolyard
+- both have the same size
+- the restroom
 
-**Kunci Jawaban:** bright
+**Kunci Jawaban:** the schoolyard
 
-**Pembahasan:** Bright describes light, not size.
+**Pembahasan:** Sekolah lapang disebut **large**, sedangkan kantin **small**.
 
 ---
 
 ## Soal 23 — K03-ENG-B09-M01-023
 
-**Pertanyaan:** Read: 'The classroom is big and tidy.' Which statement is supported?
+**Pertanyaan:** The library is large and clean. Which statement is supported?
 
 **Pilihan jawaban:**
-- It is small and messy.
-- It is bright but dirty.
-- It is big and tidy.
-- It is noisy and small.
+- It is small and dirty.
+- It is large and clean.
+- It is narrow and dirty.
+- It is small and clean.
 
-**Kunci Jawaban:** It is big and tidy.
+**Kunci Jawaban:** It is large and clean.
 
-**Pembahasan:** Both adjectives are in the text.
+**Pembahasan:** Jawaban mengulang dua kondisi yang dinyatakan.
 
 ---
 
 ## Soal 24 — K03-ENG-B09-M01-024
 
-**Pertanyaan:** A teacher says, 'Please put the books neatly on the shelf.' What will this help make tidy?
+**Pertanyaan:** A room is clean. Can we conclude that it is large?
 
 **Pilihan jawaban:**
-- the books
-- the windows
-- the floor
-- the gates
+- Yes, clean always means large.
+- No, cleanliness does not tell its size.
+- Yes, all clean rooms are big.
+- No, clean means narrow.
 
-**Kunci Jawaban:** the books
+**Kunci Jawaban:** No, cleanliness does not tell its size.
 
-**Pembahasan:** Arranging books neatly makes them tidy.
+**Pembahasan:** Kebersihan dan ukuran adalah ciri yang berbeda.
 
 ---
 
 ## Soal 25 — K03-ENG-B09-M01-025
 
-**Pertanyaan:** Which pair of adjectives can describe different things?
+**Pertanyaan:** A room is narrow. Can we conclude that it is dirty?
 
 **Pilihan jawaban:**
-- a big room and a small desk
-- a clean floor and a dirty floor are the same floor at once
-- a quiet room that is noisy at the same moment
-- a bright lamp that gives no light
+- Yes, narrow means dirty.
+- No, width does not tell its cleanliness.
+- Yes, narrow rooms are always dirty.
+- No, narrow means clean.
 
-**Kunci Jawaban:** a big room and a small desk
+**Kunci Jawaban:** No, width does not tell its cleanliness.
 
-**Pembahasan:** Big and small can describe different objects.
+**Pembahasan:** Lebar ruangan tidak menentukan kebersihannya.
 
 ---
 
 ## Soal 26 — K03-ENG-B09-M01-026
 
-**Pertanyaan:** The room is quiet now. Can we conclude that it is also clean?
+**Pertanyaan:** Arrange the words: **library – The – large – is**.
 
 **Pilihan jawaban:**
-- Yes, always.
-- No, quiet does not tell us about cleanliness.
-- Yes, because quiet means tidy.
-- No, quiet means dirty.
+- The library is large.
+- Library the large is.
+- Large is the library the.
+- The is large library.
 
-**Kunci Jawaban:** No, quiet does not tell us about cleanliness.
+**Kunci Jawaban:** The library is large.
 
-**Pembahasan:** Noise and cleanliness are different properties.
+**Pembahasan:** Urutan yang benar adalah subjek + **is** + kata sifat.
 
 ---
 
 ## Soal 27 — K03-ENG-B09-M01-027
 
-**Pertanyaan:** A room is bright. Does that mean it is big?
+**Pertanyaan:** Which report uses two correct describing words?
 
 **Pilihan jawaban:**
-- Yes, it must be big.
-- Yes, brightness measures size.
-- No, brightness does not tell us the size.
-- No, bright means small.
+- The classroom is big and clean.
+- The classroom big and clean.
+- The classroom are big and clean.
+- Big clean classroom the is.
 
-**Kunci Jawaban:** No, brightness does not tell us the size.
+**Kunci Jawaban:** The classroom is big and clean.
 
-**Pembahasan:** Light and room size are different properties.
+**Pembahasan:** Kalimat lengkap memakai **is** dan dua kata sifat.
 
 ---
 
 ## Soal 28 — K03-ENG-B09-M01-028
 
-**Pertanyaan:** Choose the sentence with correct word order.
+**Pertanyaan:** Rina asks five friends about the library. Three say “large” and two say “clean.” Which answer was given more often?
 
 **Pilihan jawaban:**
-- The classroom clean is.
-- The clean classroom are.
-- The classroom are clean.
-- The classroom is clean.
+- clean
+- large
+- dirty
+- narrow
 
-**Kunci Jawaban:** The classroom is clean.
+**Kunci Jawaban:** large
 
-**Pembahasan:** 'The classroom is clean' is a correct sentence.
+**Pembahasan:** Tiga jawaban **large** lebih banyak daripada dua jawaban **clean**.
 
 ---
 
 ## Soal 29 — K03-ENG-B09-M01-029
 
-**Pertanyaan:** Which question asks about cleanliness?
+**Pertanyaan:** The office is small. The classroom is big. What is different?
 
 **Pilihan jawaban:**
-- How old is the classroom?
-- Is the classroom clean?
-- Where is the classroom?
-- What is in my bag?
+- their size
+- their cleanliness
+- their location
+- their name only
 
-**Kunci Jawaban:** Is the classroom clean?
+**Kunci Jawaban:** their size
 
-**Pembahasan:** The question asks if the room is clean.
+**Pembahasan:** Kata **small** dan **big** membandingkan ukuran.
 
 ---
 
 ## Soal 30 — K03-ENG-B09-M01-030
 
-**Pertanyaan:** A: Is your classroom noisy? B: No, it isn't. Which statement fits?
+**Pertanyaan:** The restroom is narrow and clean. Which word tells about cleanliness?
 
 **Pilihan jawaban:**
-- The classroom is noisy.
-- The classroom is not noisy.
-- The classroom is bright.
-- The classroom is dirty.
+- restroom
+- narrow
+- clean
+- and
 
-**Kunci Jawaban:** The classroom is not noisy.
+**Kunci Jawaban:** clean
 
-**Pembahasan:** The negative reply denies 'noisy'.
+**Pembahasan:** **Clean** menjelaskan kebersihan.
 
 ---
 
 ## Soal 31 — K03-ENG-B09-M01-031
 
-**Pertanyaan:** A: Is the room big? B: Yes, it is. Which statement is confirmed?
+**Pertanyaan:** The schoolyard is wide and dirty. Which word tells about width?
 
 **Pilihan jawaban:**
-- The room is small.
-- The room is tidy.
-- The room is big.
-- The room is dark.
+- dirty
+- wide
+- schoolyard
+- and
 
-**Kunci Jawaban:** The room is big.
+**Kunci Jawaban:** wide
 
-**Pembahasan:** The answer confirms the room is big.
+**Pembahasan:** **Wide** menjelaskan lebar.
 
 ---
 
 ## Soal 32 — K03-ENG-B09-M01-032
 
-**Pertanyaan:** The desks are tidy, but the floor is dirty. Which needs cleaning?
+**Pertanyaan:** Which sentence is a suitable answer to “How is the prayer room?”
 
 **Pilihan jawaban:**
-- the floor
-- the windows
-- the desks
-- the gate
+- It is large and clean.
+- It is beside the office.
+- We pray at noon.
+- There are two doors.
 
-**Kunci Jawaban:** the floor
+**Kunci Jawaban:** It is large and clean.
 
-**Pembahasan:** The text specifically says the floor is dirty.
+**Pembahasan:** Pertanyaan **How is ...?** dijawab dengan kondisi tempat.
 
 ---
 
 ## Soal 33 — K03-ENG-B09-M01-033
 
-**Pertanyaan:** The students close the curtain. The room becomes darker. Which word describes the change?
+**Pertanyaan:** A report says, “The library is big, clean, and beside the office.” Which word tells its location?
 
 **Pilihan jawaban:**
-- bright
-- small
-- quiet
-- dark
+- big
+- clean
+- beside
+- library
 
-**Kunci Jawaban:** dark
+**Kunci Jawaban:** beside
 
-**Pembahasan:** Darker means having less light.
+**Pembahasan:** **Beside** menerangkan letak, sedangkan big dan clean menerangkan kondisi.
 
 ---
 
 ## Soal 34 — K03-ENG-B09-M01-034
 
-**Pertanyaan:** Two classrooms are the same size. One is noisy and one is quiet. What is different?
+**Pertanyaan:** Which sentence gives no information about cleanliness?
 
 **Pilihan jawaban:**
-- the size
-- the noise level
-- the cleanliness
-- the number of windows
+- The floor is dirty.
+- The classroom is clean.
+- The office is large.
+- The schoolyard has rubbish.
 
-**Kunci Jawaban:** the noise level
+**Kunci Jawaban:** The office is large.
 
-**Pembahasan:** The sentence contrasts noise, not size.
+**Pembahasan:** **Large** hanya menjelaskan ukuran.
 
 ---
 
 ## Soal 35 — K03-ENG-B09-M01-035
 
-**Pertanyaan:** Which sentence tells us about both light and noise?
+**Pertanyaan:** The classroom is small and clean. Which conclusion is correct?
 
 **Pilihan jawaban:**
-- The room is large.
-- The room is bright and quiet.
-- The room is tidy and small.
-- The room is dirty and noisy.
+- A small room can also be clean.
+- All small rooms are dirty.
+- Clean always means large.
+- Small and clean cannot be used together.
 
-**Kunci Jawaban:** The room is bright and quiet.
+**Kunci Jawaban:** A small room can also be clean.
 
-**Pembahasan:** The sentence includes one light adjective and one noise adjective.
+**Pembahasan:** Dua kondisi berbeda dapat dimiliki ruangan yang sama.
 
 ---

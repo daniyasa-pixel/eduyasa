@@ -1,104 +1,103 @@
 # Unit 9 — 5 Soal Listening
 
-**Status:** Web Speech API (speechSynthesis), bukan MP3; transkrip produksi harus disembunyikan dari siswa. Uji perangkat masih diperlukan.
+**Status:** Web Speech API (speechSynthesis), bukan MP3. Transkrip produksi disembunyikan dari siswa. Perlu uji perangkat.
 
 ## Soal 46 — K03-ENG-B09-M01-046
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"My classroom is clean. The floor has no rubbish.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"How is your classroom? It is big and clean.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** My classroom is clean. The floor has no rubbish.
+**Transkrip produksi (disembunyikan dari siswa):** How is your classroom? It is big and clean.
 
-**Pertanyaan:** Listen carefully. How is the classroom described?
+**Pertanyaan:** How is the classroom described?
 
 **Pilihan jawaban:**
-- dirty
-- messy
-- clean
-- dark
+- big and clean
+- small and dirty
+- narrow and dirty
+- large and dirty
 
-**Kunci Jawaban:** clean
+**Kunci Jawaban:** big and clean
 
-**Pembahasan:** The room is called clean.
+**Pembahasan:** Audio menyebutkan dua kondisi: besar dan bersih.
 
 ---
 
 ## Soal 47 — K03-ENG-B09-M01-047
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The shoes are dirty after the rain.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The schoolyard is dirty. There is rubbish on the ground.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** The shoes are dirty after the rain.
+**Transkrip produksi (disembunyikan dari siswa):** The schoolyard is dirty. There is rubbish on the ground.
 
-**Pertanyaan:** Listen carefully. Which adjective describes the shoes?
+**Pertanyaan:** Which word describes the schoolyard?
 
 **Pilihan jawaban:**
-- bright
+- clean
+- large
 - dirty
-- quiet
-- tidy
+- narrow
 
 **Kunci Jawaban:** dirty
 
-**Pembahasan:** The audio says dirty.
+**Pembahasan:** Audio menyebutkan halaman sekolah kotor.
 
 ---
 
 ## Soal 48 — K03-ENG-B09-M01-048
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The room is small, but it is bright.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The restroom is narrow, but it is clean.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** The room is small, but it is bright.
+**Transkrip produksi (disembunyikan dari siswa):** The restroom is narrow, but it is clean.
 
-**Pertanyaan:** Listen carefully. How is the lighting described?
+**Pertanyaan:** Which word describes the restroom's width?
 
 **Pilihan jawaban:**
-- dark
-- noisy
-- bright
-- messy
+- clean
+- narrow
+- large
+- dirty
 
-**Kunci Jawaban:** bright
+**Kunci Jawaban:** narrow
 
-**Pembahasan:** Bright describes the light.
+**Pembahasan:** Kata yang menjelaskan lebar adalah **narrow**.
 
 ---
 
 ## Soal 49 — K03-ENG-B09-M01-049
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The books are tidy on the shelf.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"The library is large and clean.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** The books are tidy on the shelf.
+**Transkrip produksi (disembunyikan dari siswa):** The library is large and clean.
 
-**Pertanyaan:** Listen carefully. How are the books described?
+**Pertanyaan:** Which sentence matches the audio?
 
 **Pilihan jawaban:**
-- messy
-- dirty
-- big
-- tidy
+- The library is large and clean.
+- The library is small and dirty.
+- The library is narrow and dirty.
+- The library is small and clean.
 
-**Kunci Jawaban:** tidy
+**Kunci Jawaban:** The library is large and clean.
 
-**Pembahasan:** Books are described as tidy.
+**Pembahasan:** Kalimat yang sama persis dengan deskripsi audio adalah jawaban benar.
 
 ---
 
 ## Soal 50 — K03-ENG-B09-M01-050
 
-**Audio TTS:** `{"type":"tts","lang":"en-US","text":"Is the classroom noisy? No, it is quiet.","rate":0.85}`
+**Audio TTS:** `{"type":"tts","lang":"en-US","text":"How is the canteen? It is small.","rate":0.85}`
 
-**Transkrip produksi (disembunyikan dari siswa):** Is the classroom noisy? No, it is quiet.
+**Transkrip produksi (disembunyikan dari siswa):** How is the canteen? It is small.
 
-**Pertanyaan:** Listen carefully. Which adjective describes the classroom?
+**Pertanyaan:** Which word describes the canteen?
 
 **Pilihan jawaban:**
-- noisy
-- quiet
+- wide
+- large
 - dirty
 - small
 
-**Kunci Jawaban:** quiet
+**Kunci Jawaban:** small
 
-**Pembahasan:** The answer corrects noisy to quiet.
+**Pembahasan:** Audio menjawab bahwa kantin berukuran kecil.
 
 ---
-

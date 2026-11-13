@@ -2,180 +2,180 @@
 
 ## Soal 36 — K03-ENG-B09-M01-036
 
-![Picture](assets/eng-b09-gambar-01.svg)
+![Room condition 1](assets/eng-b09-gambar-01.svg)
 
-**Pertanyaan:** Which adjective matches what the picture shows?
+**Pertanyaan:** How is the classroom?
 
 **Pilihan jawaban:**
-- clean
-- noisy
-- big
-- messy
+- It is clean.
+- It is dirty.
+- It is narrow.
+- It is small.
 
-**Kunci Jawaban:** clean
+**Kunci Jawaban:** It is clean.
 
-**Pembahasan:** Gambar menunjukkan "clean" (bersih).
+**Pembahasan:** Lantai bersih dan tempat sampah tertutup menunjukkan kelas bersih.
 
 ---
 
 ## Soal 37 — K03-ENG-B09-M01-037
 
-![Picture](assets/eng-b09-gambar-02.svg)
+![Room condition 2](assets/eng-b09-gambar-02.svg)
 
-**Pertanyaan:** Look carefully. Is the pictured item clean or dirty?
+**Pertanyaan:** How is the schoolyard?
 
 **Pilihan jawaban:**
-- clean
-- small
-- bright
-- dirty
+- It is clean.
+- It is dirty.
+- It is narrow.
+- It is small.
 
-**Kunci Jawaban:** dirty
+**Kunci Jawaban:** It is dirty.
 
-**Pembahasan:** Gambar menunjukkan "dirty" (kotor).
+**Pembahasan:** Gambar memperlihatkan sampah dan noda di halaman sekolah.
 
 ---
 
 ## Soal 38 — K03-ENG-B09-M01-038
 
-![Picture](assets/eng-b09-gambar-03.svg)
+![Room condition 3](assets/eng-b09-gambar-03.svg)
 
-**Pertanyaan:** Which size word is represented?
+**Pertanyaan:** Which word describes the library's size?
 
 **Pilihan jawaban:**
-- tidy
-- dark
 - big
+- small
+- narrow
 - dirty
 
 **Kunci Jawaban:** big
 
-**Pembahasan:** Gambar menunjukkan "big" (besar).
+**Pembahasan:** Perpustakaan digambar luas dengan banyak rak.
 
 ---
 
 ## Soal 39 — K03-ENG-B09-M01-039
 
-![Picture](assets/eng-b09-gambar-04.svg)
+![Room condition 4](assets/eng-b09-gambar-04.svg)
 
-**Pertanyaan:** Which word describes the small object?
+**Pertanyaan:** How is the canteen?
 
 **Pilihan jawaban:**
-- quiet
-- small
-- big
-- messy
+- It is large.
+- It is dirty.
+- It is small.
+- It is wide.
 
-**Kunci Jawaban:** small
+**Kunci Jawaban:** It is small.
 
-**Pembahasan:** Gambar menunjukkan "small" (kecil).
+**Pembahasan:** Kantin digambar berukuran kecil dengan dua meja.
 
 ---
 
 ## Soal 40 — K03-ENG-B09-M01-040
 
-![Picture](assets/eng-b09-gambar-05.svg)
+![Room condition 5](assets/eng-b09-gambar-05.svg)
 
-**Pertanyaan:** Which word describes the arranged objects?
+**Pertanyaan:** Which word describes the restroom entrance?
 
 **Pilihan jawaban:**
-- tidy
-- small
-- bright
-- noisy
+- wide
+- clean
+- large
+- narrow
 
-**Kunci Jawaban:** tidy
+**Kunci Jawaban:** narrow
 
-**Pembahasan:** Gambar menunjukkan "tidy" (rapi).
+**Pembahasan:** Pintu masuk tampak sempit.
 
 ---
 
 ## Soal 41 — K03-ENG-B09-M01-041
 
-![Picture](assets/eng-b09-gambar-06.svg)
+![Room condition 6](assets/eng-b09-gambar-06.svg)
 
-**Pertanyaan:** How would you describe the objects' arrangement?
+**Pertanyaan:** How is the schoolyard from left to right?
 
 **Pilihan jawaban:**
-- tidy
-- dark
-- clean
-- messy
+- wide
+- narrow
+- small
+- dirty
 
-**Kunci Jawaban:** messy
+**Kunci Jawaban:** wide
 
-**Pembahasan:** Gambar menunjukkan "messy" (berantakan).
+**Pembahasan:** Panah mendatar menunjukkan halaman yang lebar.
 
 ---
 
 ## Soal 42 — K03-ENG-B09-M01-042
 
-![Picture](assets/eng-b09-gambar-07.svg)
+![Room condition 7](assets/eng-b09-gambar-07.svg)
 
-**Pertanyaan:** Which adjective describes the lighting?
+**Pertanyaan:** Which place is large?
 
 **Pilihan jawaban:**
-- quiet
-- dirty
-- bright
-- messy
+- the prayer room
+- the small canteen
+- the narrow restroom
+- the small office
 
-**Kunci Jawaban:** bright
+**Kunci Jawaban:** the prayer room
 
-**Pembahasan:** Gambar menunjukkan "bright" (terang).
+**Pembahasan:** Ruang ibadah digambar luas dan mampu menampung banyak orang.
 
 ---
 
 ## Soal 43 — K03-ENG-B09-M01-043
 
-![Picture](assets/eng-b09-gambar-08.svg)
+![Room condition 8](assets/eng-b09-gambar-08.svg)
 
-**Pertanyaan:** What word describes the lack of light?
+**Pertanyaan:** Which place is smaller?
 
 **Pilihan jawaban:**
-- big
-- dark
-- bright
-- noisy
+- the library
+- the canteen
+- both are equal
+- the schoolyard
 
-**Kunci Jawaban:** dark
+**Kunci Jawaban:** the canteen
 
-**Pembahasan:** Gambar menunjukkan "dark" (gelap).
+**Pembahasan:** Perbandingan gambar menunjukkan kantin lebih kecil daripada perpustakaan.
 
 ---
 
 ## Soal 44 — K03-ENG-B09-M01-044
 
-![Picture](assets/eng-b09-gambar-09.svg)
+![Room condition 9](assets/eng-b09-gambar-09.svg)
 
-**Pertanyaan:** Which word is illustrated about noise?
+**Pertanyaan:** Which sentence matches the classroom?
 
 **Pilihan jawaban:**
-- quiet
-- dark
-- clean
-- small
+- It is big and clean.
+- It is small and dirty.
+- It is narrow and dirty.
+- It is small and clean.
 
-**Kunci Jawaban:** quiet
+**Kunci Jawaban:** It is big and clean.
 
-**Pembahasan:** Gambar menunjukkan "quiet" (tenang).
+**Pembahasan:** Kelas tampak luas serta tidak memiliki sampah atau noda.
 
 ---
 
 ## Soal 45 — K03-ENG-B09-M01-045
 
-![Picture](assets/eng-b09-gambar-10.svg)
+![Room condition 10](assets/eng-b09-gambar-10.svg)
 
-**Pertanyaan:** What adjective best describes the noise shown?
+**Pertanyaan:** Which sentence matches the office?
 
 **Pilihan jawaban:**
-- quiet
-- dirty
-- tidy
-- noisy
+- It is wide and clean.
+- It is narrow and dirty.
+- It is large and clean.
+- It is big and wide.
 
-**Kunci Jawaban:** noisy
+**Kunci Jawaban:** It is narrow and dirty.
 
-**Pembahasan:** Gambar menunjukkan "noisy" (berisik).
+**Pembahasan:** Kantor tampak sempit dan memiliki sampah di lantai.
 
 ---
