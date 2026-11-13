@@ -466,3 +466,22 @@ akhir serta SHA kepala `main` dicatat pada checkpoint penutupan.
 **Batas hasil:** audit isi Markdown selesai, tetapi konversi JSON, manifest,
 aktivasi aplikasi, uji HP/WebView, suara/TTS, pelafalan Arab, praktik PJOK,
 dan uji siswa belum termasuk kelulusan ini.
+
+
+### Verifikasi penutupan pada checkpoint sumber 31ed0aa0b4f117cec46c0c1eda29e6d13884e21b
+
+Validator kanonis membaca **82 berkas bank** dan menemukan tepat **1.945 soal
+dengan 1.945 ID unik**: IPAS 560, PAI 300, Bahasa Inggris 500, PJOK 360,
+dan Seni Rupa 225. Setiap butir memiliki empat opsi berbeda, kunci cocok
+dengan salah satu opsi, dan pembahasan tersedia; tidak ada kesalahan struktur.
+
+Sebanyak **82 ID modul unik** ditemukan pada 41 berkas materi: IPAS 16, PAI
+20, Bahasa Inggris 20, PJOK 16, dan Seni Rupa 10. Pemeriksaan referensi media
+mencakup **338 SVG unik**, termasuk ilustrasi materi; semuanya tersedia.
+Percobaan pertama pada satu SVG IPAS sempat gagal dibaca secara sementara,
+kemudian berhasil pada pemeriksaan ulang. Sebanyak **50 metadata TTS** Inggris
+valid, memakai `en-US`, dan teksnya cocok dengan transkrip produksi.
+
+Hasil ini menutup audit isi serta validasi sumber Markdown. Uji render aktual
+pada berbagai HP/WebView, keluaran suara, pelafalan Arab, praktik PJOK, dan
+tingkat kesulitan siswa tetap memerlukan tahap aplikasi/lapangan.
