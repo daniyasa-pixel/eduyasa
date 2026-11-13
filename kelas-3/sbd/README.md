@@ -11,13 +11,14 @@ Bank sumber berjumlah **225 soal**: lima bab × 45 soal (35 teks dan 10 bergamba
 
 ## Status audit isi 13 November 2026
 
-- **Bab 1 selesai:** 45 soal, 10 SVG, dan dua modul ditulis ulang terhadap Bab I *Seni Rupa di Sekitarku* pada buku guru Seni Rupa Kelas III revisi 2025.
-- **Bab 2–5 belum diperiksa ulang** dalam putaran audit isi ini.
-- Kumulatif Seni Rupa: **45/225**; sisa **180 soal**.
+- **Bab 1 selesai:** 45 soal, 10 SVG, dan dua modul diselaraskan dengan Bab I *Seni Rupa di Sekitarku*.
+- **Bab 2 selesai:** 45 soal, 10 SVG, dan dua modul diselaraskan dengan Bab II *Bicara Tentang Karya*.
+- **Bab 3–5 belum diperiksa ulang** dalam putaran audit isi ini.
+- Kumulatif Seni Rupa: **90/225**; sisa **135 soal**.
 - Konversi JSON, aktivasi aplikasi, uji siswa, dan uji HP/WebView belum termasuk hasil ini.
 
-Bab 1 kini mencakup titik, garis, bidang, bentuk, warna, pengamatan, kolase, keselamatan alat/bahan, pengembangan gagasan, serta apresiasi. Sepuluh ilustrasi berfungsi sebagai stimulus dan bukan daftar jawaban. Kedua modul memiliki lingkup setara melalui alur konsep dan alur penjelajahan/proyek.
+Bab 1 mencakup titik, garis, bidang, bentuk, warna, pengamatan, kolase, keselamatan alat/bahan, pengembangan gagasan, dan apresiasi. Bab 2 mencakup deskripsi visual, tafsiran berbukti, kosakata seni, presentasi ide/proses, refleksi diri, mendengarkan, umpan balik membangun, izin berbagi, dan aturan galeri. Seluruh 20 ilustrasi Bab 1–2 menjadi stimulus fungsional; empat modul memiliki lingkup setara dalam dua pendekatan.
 
 ## Aturan tahap JSON
 
-Sumber yang berubah harus dikonversi ulang. Untuk Bab 1, buat ulang `sbd-b01.json`, `sbd-b01a.json`, dan `sbd-b01-materi.json`, lalu bandingkan ID, urutan opsi, kunci, pembahasan, media, dan isi modul 1:1. Jika Markdown berubah lagi, audit perubahan satu kali; bila perlu, revisi sumber dahulu lalu konversi ulang. Baca `../HANDOVER-KONVERSI-JSON.md`.
+Sumber Bab 1–2 berubah dan harus dikonversi ulang. Regenerasi `sbd-b01.json`, `sbd-b01a.json`, `sbd-b01-materi.json`, `sbd-b02.json`, `sbd-b02a.json`, dan `sbd-b02-materi.json`. Bandingkan ID, urutan opsi, kunci, pembahasan, media, dan isi modul 1:1. Jika Markdown berubah lagi, audit perubahan satu kali; bila perlu, revisi sumber dahulu lalu konversi ulang. Baca `../HANDOVER-KONVERSI-JSON.md`.
