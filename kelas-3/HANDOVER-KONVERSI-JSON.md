@@ -77,3 +77,13 @@ menyalin kembali isi JSON lama ke Markdown.
 Bahasa Inggris Unit 9 direvisi setelah konversi. Empat JSON Unit 9 berstatus
 **STALE_SOURCE_CHANGED**. Regenerasi dari Markdown `main` terbaru dan audit
 ulang 50 ID, opsi, TTS, media, serta dua modul.
+
+
+## Perubahan sumber Unit 10 — 13 November 2026
+
+Bahasa Inggris Unit 10 direvisi setelah konversi. Empat JSON Unit 10 berstatus
+**STALE_SOURCE_CHANGED**. Audit ulang isi Markdown sudah dilakukan; pada tahap
+JSON, regenerasi dari `main` terbaru lalu bandingkan 50 ID, opsi, metadata TTS,
+sepuluh media, dan dua modul. Jika Markdown kembali berubah, audit perubahan itu
+satu kali sebelum konversi; revisi sumber yang diperlukan boleh dilakukan lalu
+konversi ulang.

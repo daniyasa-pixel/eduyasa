@@ -2,180 +2,181 @@
 
 ## Soal 36 — K03-ENG-B10-M01-036
 
-![Picture](assets/eng-b10-gambar-01.svg)
+![Bundles and loose school objects](assets/eng-b10-gambar-01.svg)
 
-**Pertanyaan:** Which English number word matches the pictured count?
+**Pertanyaan:** Which number word matches the groups in the picture?
 
 **Pilihan jawaban:**
-- ten
-- twenty
-- twelve
-- fifteen
+- twenty-one
+- twenty-two
+- thirty-one
+- forty-one
 
-**Kunci Jawaban:** ten
+**Kunci Jawaban:** twenty-one
 
-**Pembahasan:** Gambar menunjukkan "ten" (sepuluh).
+**Pembahasan:** Gambar menampilkan 2 kelompok berisi sepuluh books dan 1 satuan, jadi jumlahnya twenty-one.
 
 ---
 
 ## Soal 37 — K03-ENG-B10-M01-037
 
-![Picture](assets/eng-b10-gambar-02.svg)
+![Bundles and loose school objects](assets/eng-b10-gambar-02.svg)
 
-**Pertanyaan:** Count the objects or read the numeral in the image. Which word fits?
+**Pertanyaan:** How many pencils are shown?
 
 **Pilihan jawaban:**
-- ten
-- thirteen
-- sixteen
-- eleven
+- twenty-two
+- twenty-four
+- thirty-four
+- forty-two
 
-**Kunci Jawaban:** eleven
+**Kunci Jawaban:** twenty-four
 
-**Pembahasan:** Gambar menunjukkan "eleven" (sebelas).
+**Pembahasan:** Gambar menampilkan 2 kelompok berisi sepuluh pencils dan 4 satuan, jadi jumlahnya twenty-four.
 
 ---
 
 ## Soal 38 — K03-ENG-B10-M01-038
 
-![Picture](assets/eng-b10-gambar-03.svg)
+![Bundles and loose school objects](assets/eng-b10-gambar-03.svg)
 
-**Pertanyaan:** Which number name is shown?
+**Pertanyaan:** Choose the correct number name.
 
 **Pilihan jawaban:**
-- fourteen
-- seventeen
-- twelve
-- eleven
+- twenty-five
+- twenty-six
+- twenty-seven
+- thirty-seven
 
-**Kunci Jawaban:** twelve
+**Kunci Jawaban:** twenty-seven
 
-**Pembahasan:** Gambar menunjukkan "twelve" (dua belas).
+**Pembahasan:** Gambar menampilkan 2 kelompok berisi sepuluh crayons dan 7 satuan, jadi jumlahnya twenty-seven.
 
 ---
 
 ## Soal 39 — K03-ENG-B10-M01-039
 
-![Picture](assets/eng-b10-gambar-04.svg)
+![Bundles and loose school objects](assets/eng-b10-gambar-04.svg)
 
-**Pertanyaan:** Choose the English word for the count shown.
+**Pertanyaan:** How many notebooks are shown?
 
 **Pilihan jawaban:**
-- eighteen
-- thirteen
-- twelve
-- fifteen
+- nineteen
+- twenty-eight
+- twenty-nine
+- thirty-nine
 
-**Kunci Jawaban:** thirteen
+**Kunci Jawaban:** twenty-nine
 
-**Pembahasan:** Gambar menunjukkan "thirteen" (tiga belas).
+**Pembahasan:** Gambar menampilkan 2 kelompok berisi sepuluh notebooks dan 9 satuan, jadi jumlahnya twenty-nine.
 
 ---
 
 ## Soal 40 — K03-ENG-B10-M01-040
 
-![Picture](assets/eng-b10-gambar-05.svg)
+![Bundles and loose school objects](assets/eng-b10-gambar-05.svg)
 
-**Pertanyaan:** Which number word is indicated?
+**Pertanyaan:** Which sentence matches the picture?
 
 **Pilihan jawaban:**
-- fourteen
-- thirteen
-- sixteen
-- twenty
+- There are thirteen markers.
+- There are twenty markers.
+- There are thirty markers.
+- There are forty markers.
 
-**Kunci Jawaban:** fourteen
+**Kunci Jawaban:** There are thirty markers.
 
-**Pembahasan:** Gambar menunjukkan "fourteen" (empat belas).
+**Pembahasan:** Gambar menampilkan 3 kelompok berisi sepuluh markers, jadi jumlahnya There are thirty markers..
 
 ---
 
 ## Soal 41 — K03-ENG-B10-M01-041
 
-![Picture](assets/eng-b10-gambar-06.svg)
+![Bundles and loose school objects](assets/eng-b10-gambar-06.svg)
 
-**Pertanyaan:** What is the number word for the objects shown?
+**Pertanyaan:** How many chairs are shown?
 
 **Pilihan jawaban:**
-- fourteen
-- seventeen
-- ten
-- fifteen
+- twenty-three
+- thirty
+- thirty-two
+- forty-two
 
-**Kunci Jawaban:** fifteen
+**Kunci Jawaban:** thirty-two
 
-**Pembahasan:** Gambar menunjukkan "fifteen" (lima belas).
+**Pembahasan:** Gambar menampilkan 3 kelompok berisi sepuluh chairs dan 2 satuan, jadi jumlahnya thirty-two.
 
 ---
 
 ## Soal 42 — K03-ENG-B10-M01-042
 
-![Picture](assets/eng-b10-gambar-07.svg)
+![Bundles and loose school objects](assets/eng-b10-gambar-07.svg)
 
-**Pertanyaan:** Which English number name fits the picture?
+**Pertanyaan:** Which number word matches the picture?
 
 **Pilihan jawaban:**
-- eighteen
-- eleven
-- sixteen
-- fifteen
+- thirty-three
+- thirty-five
+- forty-five
+- fifty
 
-**Kunci Jawaban:** sixteen
+**Kunci Jawaban:** thirty-five
 
-**Pembahasan:** Gambar menunjukkan "sixteen" (enam belas).
+**Pembahasan:** Gambar menampilkan 3 kelompok berisi sepuluh books dan 5 satuan, jadi jumlahnya thirty-five.
 
 ---
 
 ## Soal 43 — K03-ENG-B10-M01-043
 
-![Picture](assets/eng-b10-gambar-08.svg)
+![Bundles and loose school objects](assets/eng-b10-gambar-08.svg)
 
-**Pertanyaan:** Choose the matching number word.
+**Pertanyaan:** Complete: There are ___ pencils.
 
 **Pilihan jawaban:**
-- twelve
-- seventeen
-- sixteen
-- twenty
+- fourteen
+- thirty
+- forty
+- fifty
 
-**Kunci Jawaban:** seventeen
+**Kunci Jawaban:** forty
 
-**Pembahasan:** Gambar menunjukkan "seventeen" (tujuh belas).
+**Pembahasan:** Gambar menampilkan 4 kelompok berisi sepuluh pencils, jadi jumlahnya forty.
 
 ---
 
 ## Soal 44 — K03-ENG-B10-M01-044
 
-![Picture](assets/eng-b10-gambar-09.svg)
+![Bundles and loose school objects](assets/eng-b10-gambar-09.svg)
 
-**Pertanyaan:** Which number word represents the amount?
+**Pertanyaan:** Which report matches the picture?
 
 **Pilihan jawaban:**
-- eighteen
-- seventeen
-- ten
-- thirteen
+- There are thirty-five erasers.
+- There are forty erasers.
+- There are forty-five erasers.
+- There are fifty erasers.
 
-**Kunci Jawaban:** eighteen
+**Kunci Jawaban:** There are forty-five erasers.
 
-**Pembahasan:** Gambar menunjukkan "eighteen" (delapan belas).
+**Pembahasan:** Gambar menampilkan 4 kelompok berisi sepuluh erasers dan 5 satuan, jadi jumlahnya There are forty-five erasers..
 
 ---
 
 ## Soal 45 — K03-ENG-B10-M01-045
 
-![Picture](assets/eng-b10-gambar-10.svg)
+![Bundles and loose school objects](assets/eng-b10-gambar-10.svg)
 
-**Pertanyaan:** Which number name matches the image?
+**Pertanyaan:** How many books are shown?
 
 **Pilihan jawaban:**
-- eighteen
-- eleven
-- fourteen
-- twenty
+- fifteen
+- forty
+- forty-five
+- fifty
 
-**Kunci Jawaban:** twenty
+**Kunci Jawaban:** fifty
 
-**Pembahasan:** Gambar menunjukkan "twenty" (dua puluh).
+**Pembahasan:** Gambar menampilkan 5 kelompok berisi sepuluh books, jadi jumlahnya fifty.
 
 ---
+

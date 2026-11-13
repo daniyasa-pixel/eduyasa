@@ -13,7 +13,7 @@
 - Unit 9: My Classroom Is Clean
 - Unit 10: There Are Twenty Books on the Shelf
 
-**STATUS: DRAF BELUM FINAL.** Semua unit memiliki berkas Markdown dan SVG pendukung. **Audio menggunakan Web Speech API**, tanpa berkas MP3. Berkas listening sudah memuat data TTS, tetapi integrasi ke halaman kuis dan uji perangkat belum selesai. Unit 1–9 telah diaudit terhadap buku siswa dan panduan guru serta memakai stimulus fungsional. Unit 10 masih menunggu audit isi dan ilustrasi. Jangan menganggap paket siap rilis.
+**STATUS: DRAF BELUM FINAL.** Semua unit memiliki berkas Markdown dan SVG pendukung. **Audio menggunakan Web Speech API**, tanpa berkas MP3. Berkas listening sudah memuat data TTS, tetapi integrasi ke halaman kuis dan uji perangkat belum selesai. Unit 1–10 telah diaudit terhadap buku siswa dan panduan guru serta memakai stimulus fungsional. Putaran audit isi sumber Bahasa Inggris selesai. Jangan menganggap paket siap rilis.
 
 **ID:** `K03-ENG-B##-MOD-01/02`; soal `K03-ENG-B##-M01-001`–`050`. Soal 1–35 teks, 36–45 bergambar, 46–50 listening.
 
@@ -33,3 +33,10 @@ sumber lama dan harus diregenerasi serta diaudit ulang sebelum dianggap sinkron.
 
 Markdown Unit 9 direvisi setelah batch JSON. Empat JSON Unit 9 masih
 mencerminkan sumber lama dan wajib diregenerasi serta diaudit ulang.
+
+
+## Perubahan sumber Unit 10 — 13 November 2026
+
+Markdown Unit 10 direvisi setelah batch JSON. Empat JSON Unit 10 masih
+mencerminkan sumber lama dan wajib diregenerasi serta diaudit ulang. Unit 8–10
+sekarang berstatus **STALE_SOURCE_CHANGED** pada tahap JSON.

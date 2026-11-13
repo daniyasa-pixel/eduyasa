@@ -2,51 +2,62 @@
 
 ## MOD-01 — K03-ENG-B10-MOD-01
 
-### Let's learn! — Menghitung dan menyebut jumlah
+### Let's learn! — Numbers 21–50
 
-![Counting objects](assets/eng-b10-gambar-01.svg)
+![Bundles of ten and loose books](assets/eng-b10-gambar-01.svg)
 
-**Bilangan 10–20:**
-- 10 ten; 11 eleven; 12 twelve; 13 thirteen; 14 fourteen
-- 15 fifteen; 16 sixteen; 17 seventeen; 18 eighteen; 19 nineteen; 20 twenty
+Unit ini mempelajari bilangan **21 sampai 50**. Perhatikan pola berikut:
 
-Baca dan ucapkan setiap bilangan dengan jelas. Kata **fifteen** berarti 15; **fifty** berbeda dan tidak termasuk rentang ini.
+- 21–29: twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine
+- 30: thirty; 40: forty; 50: fifty
+- 31–39 memakai **thirty-...**, misalnya 32 = thirty-two.
+- 41–49 memakai **forty-...**, misalnya 43 = forty-three.
 
-**Pola kalimat:**
-- `There are twenty books on the shelf.` (Ada dua puluh buku di rak.)
-- `There are twelve pencils in the box.` (Ada dua belas pensil di kotak.)
-- `How many books are there?` (Ada berapa buku?)
-- `There are fifteen books.` (Ada lima belas buku.)
+Perhatikan ejaan **forty**, bukan *fourty*. Gunakan tanda hubung pada bilangan gabungan seperti **twenty-five** dan **forty-eight**.
 
-Gunakan `There are` dengan bilangan lebih dari satu dan bentuk jamak **books, pencils, chairs**. Gunakan `There is one book` untuk satu benda.
+**Bertanya dan melaporkan nomor:**
 
-**Latihan:** Hitung antara 10 dan 20 benda pada gambar atau benda nyata. Tuliskan jumlahnya dengan angka dan kata Inggris.
+- A: `What is my number?`
+- B: `Your number is thirty-two.`
+- `Her number is forty-three.`
+- `His number is forty-five.`
+
+Kata **her** dipakai untuk melaporkan nomor seorang perempuan dan **his** untuk seorang laki-laki. Keduanya diikuti pola **number is**.
+
+**Latihan:** Siapkan kartu angka 21–50. Tunjukkan satu kartu tanpa membacanya, lalu minta teman menjawab dengan kata bilangan Inggris.
 
 ---
 
 ## MOD-02 — K03-ENG-B10-MOD-02
 
-### Let's practice! — Menghitung dari informasi
+### Let's practice! — Counting school objects
 
-![Counting objects](assets/eng-b10-gambar-02.svg)
+![Bundles of ten and loose pencils](assets/eng-b10-gambar-02.svg)
 
-**Latihan membaca data (contoh rekaan):**
-- Shelf A: 12 books.
-- Shelf B: 7 books.
-- Box C: 15 pencils.
-- Box D: 5 pencils.
+Gunakan pola berikut untuk menanyakan dan menyatakan jumlah:
 
-**Pertanyaan:**
-- How many books are there on Shelves A and B? **Nineteen books**, because 12 + 7 = 19.
-- How many pencils are there in Boxes C and D? **Twenty pencils**, because 15 + 5 = 20.
-- Are there twenty books? **No, there aren't. There are nineteen books.**
+- `How many books are there?`
+- `There are twenty-three books on the shelf.`
+- `There are forty pencils in the box.`
 
-**Pola dialog:**
-- A: How many books are there?
-- B: There are nineteen books.
-- A: Are there twenty books?
-- B: No, there aren't.
+Karena jumlahnya lebih dari satu, gunakan **There are** dan kata benda jamak: **books, pencils, chairs, erasers**.
 
-**Perhatikan:** Pertanyaan `How many ...?` meminta jumlah. Jika informasi mengatakan `No, there are eighteen`, jangan memakai angka yang ditebak pada pertanyaan awal.
+Kelompok sepuluh membantu menghitung:
 
-**Latihan berpasangan:** Buat data dua rak dengan 10–20 benda seluruhnya, kemudian jawab `How many ... are there?`. Teman harus menjelaskan dari mana jumlah berasal. Hindari menghitung benda yang sama dua kali.
+- 2 kelompok sepuluh + 4 satuan = 24 = **twenty-four**
+- 3 kelompok sepuluh + 2 satuan = 32 = **thirty-two**
+- 4 kelompok sepuluh + 5 satuan = 45 = **forty-five**
+- 5 kelompok sepuluh = 50 = **fifty**
+
+**Membaca data buku:**
+
+| Book | Number |
+|---|---:|
+| social studies | 23 |
+| math | 33 |
+| science | 48 |
+| music | 21 |
+
+Dari tabel: `There are forty-eight science books.` Tabel memberi informasi jumlah, tetapi tidak otomatis memberi tahu warna atau pemilik buku.
+
+**Latihan berpasangan:** Hitung benda sekolah atau gunakan kartu kelompok sepuluh. Seorang siswa bertanya `How many ... are there?`; siswa lain menjawab dengan `There are ...` dan kata bilangan yang tepat.

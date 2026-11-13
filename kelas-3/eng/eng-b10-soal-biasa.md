@@ -2,560 +2,561 @@
 
 ## Soal 1 — K03-ENG-B10-M01-001
 
-**Pertanyaan:** There are 10 books on the shelf or in the classroom. Which English number word matches 10?
+**Pertanyaan:** Which English number word matches 21?
 
 **Pilihan jawaban:**
-- ten
-- eleven
+- twenty-one
+- twenty-two
+- thirty-one
 - twelve
-- thirteen
 
-**Kunci Jawaban:** ten
+**Kunci Jawaban:** twenty-one
 
-**Pembahasan:** The number 10 is ten.
+**Pembahasan:** Bilangan 21 ditulis **twenty-one**.
 
 ---
 
 ## Soal 2 — K03-ENG-B10-M01-002
 
-**Pertanyaan:** There are 11 pencils on the shelf or in the classroom. Which English number word matches 11?
+**Pertanyaan:** Which English number word matches 24?
 
 **Pilihan jawaban:**
-- eleven
-- thirteen
+- twenty-four
+- forty-two
+- twenty-five
 - fourteen
-- fifteen
 
-**Kunci Jawaban:** eleven
+**Kunci Jawaban:** twenty-four
 
-**Pembahasan:** The number 11 is eleven.
+**Pembahasan:** Bilangan 24 ditulis **twenty-four**.
 
 ---
 
 ## Soal 3 — K03-ENG-B10-M01-003
 
-**Pertanyaan:** There are 12 rulers on the shelf or in the classroom. Which English number word matches 12?
+**Pertanyaan:** Which English number word matches 29?
 
 **Pilihan jawaban:**
-- twelve
-- fifteen
-- sixteen
-- seventeen
+- twenty-nine
+- ninety-two
+- twenty-eight
+- nineteen
 
-**Kunci Jawaban:** twelve
+**Kunci Jawaban:** twenty-nine
 
-**Pembahasan:** The number 12 is twelve.
+**Pembahasan:** Bilangan 29 ditulis **twenty-nine**.
 
 ---
 
 ## Soal 4 — K03-ENG-B10-M01-004
 
-**Pertanyaan:** There are 13 erasers on the shelf or in the classroom. Which English number word matches 13?
+**Pertanyaan:** Which word matches the numeral 30?
 
 **Pilihan jawaban:**
 - thirteen
-- seventeen
-- eighteen
-- nineteen
+- thirty
+- forty
+- fifty
 
-**Kunci Jawaban:** thirteen
+**Kunci Jawaban:** thirty
 
-**Pembahasan:** The number 13 is thirteen.
+**Pembahasan:** Bilangan 30 dibaca **thirty**.
 
 ---
 
 ## Soal 5 — K03-ENG-B10-M01-005
 
-**Pertanyaan:** There are 14 notebooks on the shelf or in the classroom. Which English number word matches 14?
+**Pertanyaan:** Which word matches the numeral 40?
 
 **Pilihan jawaban:**
 - fourteen
-- eleven
-- twelve
-- thirteen
+- thirty
+- forty
+- fifty
 
-**Kunci Jawaban:** fourteen
+**Kunci Jawaban:** forty
 
-**Pembahasan:** The number 14 is fourteen.
+**Pembahasan:** Bilangan 40 dibaca **forty**, tanpa huruf u setelah four.
 
 ---
 
 ## Soal 6 — K03-ENG-B10-M01-006
 
-**Pertanyaan:** There are 15 crayons on the shelf or in the classroom. Which English number word matches 15?
+**Pertanyaan:** Which word matches the numeral 50?
 
 **Pilihan jawaban:**
 - fifteen
-- thirteen
-- fourteen
-- sixteen
+- fifty
+- forty
+- thirty
 
-**Kunci Jawaban:** fifteen
+**Kunci Jawaban:** fifty
 
-**Pembahasan:** The number 15 is fifteen.
+**Pembahasan:** Bilangan 50 dibaca **fifty**.
 
 ---
 
 ## Soal 7 — K03-ENG-B10-M01-007
 
-**Pertanyaan:** There are 16 bags on the shelf or in the classroom. Which English number word matches 16?
+**Pertanyaan:** Which numeral matches **twenty-seven**?
 
 **Pilihan jawaban:**
-- sixteen
-- fifteen
-- seventeen
-- eighteen
+- 17
+- 26
+- 27
+- 37
 
-**Kunci Jawaban:** sixteen
+**Kunci Jawaban:** 27
 
-**Pembahasan:** The number 16 is sixteen.
+**Pembahasan:** **Twenty-seven** adalah 27.
 
 ---
 
 ## Soal 8 — K03-ENG-B10-M01-008
 
-**Pertanyaan:** There are 17 chairs on the shelf or in the classroom. Which English number word matches 17?
+**Pertanyaan:** Which numeral matches **forty-three**?
 
 **Pilihan jawaban:**
-- seventeen
-- ten
-- eleven
-- twelve
+- 34
+- 40
+- 43
+- 53
 
-**Kunci Jawaban:** seventeen
+**Kunci Jawaban:** 43
 
-**Pembahasan:** The number 17 is seventeen.
+**Pembahasan:** **Forty-three** adalah 43.
 
 ---
 
 ## Soal 9 — K03-ENG-B10-M01-009
 
-**Pertanyaan:** There are 18 desks on the shelf or in the classroom. Which English number word matches 18?
+**Pertanyaan:** Which numeral matches **thirty-two**?
 
 **Pilihan jawaban:**
-- eighteen
-- twelve
-- thirteen
-- fourteen
+- 23
+- 30
+- 32
+- 42
 
-**Kunci Jawaban:** eighteen
+**Kunci Jawaban:** 32
 
-**Pembahasan:** The number 18 is eighteen.
+**Pembahasan:** **Thirty-two** adalah 32.
 
 ---
 
 ## Soal 10 — K03-ENG-B10-M01-010
 
-**Pertanyaan:** There are 19 markers on the shelf or in the classroom. Which English number word matches 19?
+**Pertanyaan:** Which numeral matches **forty-eight**?
 
 **Pilihan jawaban:**
-- nineteen
-- fourteen
-- fifteen
-- sixteen
+- 38
+- 40
+- 48
+- 58
 
-**Kunci Jawaban:** nineteen
+**Kunci Jawaban:** 48
 
-**Pembahasan:** The number 19 is nineteen.
+**Pembahasan:** **Forty-eight** adalah 48.
 
 ---
 
 ## Soal 11 — K03-ENG-B10-M01-011
 
-**Pertanyaan:** There are 20 sheets on the shelf or in the classroom. Which English number word matches 20?
+**Pertanyaan:** Which number comes just before thirty?
 
 **Pilihan jawaban:**
-- twenty
-- sixteen
-- seventeen
-- eighteen
+- twenty-eight
+- twenty-nine
+- thirty-one
+- forty
 
-**Kunci Jawaban:** twenty
+**Kunci Jawaban:** twenty-nine
 
-**Pembahasan:** The number 20 is twenty.
+**Pembahasan:** Urutan sebelum 30 adalah 29, yaitu **twenty-nine**.
 
 ---
 
 ## Soal 12 — K03-ENG-B10-M01-012
 
-**Pertanyaan:** There are twelve books on one shelf and three more on another. How many books are there in all?
+**Pertanyaan:** Which number comes just after thirty-nine?
 
 **Pilihan jawaban:**
-- fifteen
-- ten
-- eleven
-- twelve
+- thirty-eight
+- thirty-nine
+- forty
+- forty-one
 
-**Kunci Jawaban:** fifteen
+**Kunci Jawaban:** forty
 
-**Pembahasan:** Twelve plus three is fifteen.
+**Pembahasan:** Setelah 39 adalah 40, yaitu **forty**.
 
 ---
 
 ## Soal 13 — K03-ENG-B10-M01-013
 
-**Pertanyaan:** A box has twenty pencils. Five pencils are taken out. How many remain?
+**Pertanyaan:** Which number completes the sequence: thirty-four, ___, thirty-six?
 
 **Pilihan jawaban:**
-- fifteen
-- thirteen
-- fourteen
-- sixteen
+- thirty-three
+- thirty-five
+- thirty-seven
+- forty-five
 
-**Kunci Jawaban:** fifteen
+**Kunci Jawaban:** thirty-five
 
-**Pembahasan:** Twenty minus five is fifteen.
+**Pembahasan:** Bilangan di antara 34 dan 36 adalah 35.
 
 ---
 
 ## Soal 14 — K03-ENG-B10-M01-014
 
-**Pertanyaan:** Rani has ten crayons. Her friend gives her four more. How many now?
+**Pertanyaan:** Complete the sequence: twenty-seven, twenty-eight, ___.
 
 **Pilihan jawaban:**
-- fourteen
-- seventeen
-- eighteen
-- nineteen
+- twenty-six
+- twenty-nine
+- thirty
+- thirty-one
 
-**Kunci Jawaban:** fourteen
+**Kunci Jawaban:** twenty-nine
 
-**Pembahasan:** Ten plus four is fourteen.
+**Pembahasan:** Urutan setelah 28 adalah 29.
 
 ---
 
 ## Soal 15 — K03-ENG-B10-M01-015
 
-**Pertanyaan:** There are eighteen chairs. Two chairs are moved out. How many remain?
+**Pertanyaan:** Which list is in order from the smallest to the largest?
 
 **Pilihan jawaban:**
-- sixteen
-- twelve
-- thirteen
-- fourteen
+- twenty-three, twenty-two, twenty-one
+- twenty-one, twenty-two, twenty-three
+- thirty, twenty-nine, twenty-eight
+- forty, thirty, fifty
 
-**Kunci Jawaban:** sixteen
+**Kunci Jawaban:** twenty-one, twenty-two, twenty-three
 
-**Pembahasan:** Eighteen minus two is sixteen.
+**Pembahasan:** Urutan 21, 22, 23 bergerak dari nilai terkecil ke terbesar.
 
 ---
 
 ## Soal 16 — K03-ENG-B10-M01-016
 
-**Pertanyaan:** Eleven students are reading. Two more join. How many students are reading?
+**Pertanyaan:** A friend shows the card 32 and asks, “What is my number?” Which reply is correct?
 
 **Pilihan jawaban:**
-- thirteen
-- sixteen
-- seventeen
-- eighteen
+- Your number is twenty-three.
+- Your number is thirty-two.
+- My number are thirty-two.
+- Your numbers is forty-two.
 
-**Kunci Jawaban:** thirteen
+**Kunci Jawaban:** Your number is thirty-two.
 
-**Pembahasan:** Eleven plus two is thirteen.
+**Pembahasan:** Pola jawaban yang benar adalah **Your number is ...**, dan 32 dibaca thirty-two.
 
 ---
 
 ## Soal 17 — K03-ENG-B10-M01-017
 
-**Pertanyaan:** A shelf has thirteen books. Six more are added. How many books now?
+**Pertanyaan:** Cici's card shows 43. Which report is correct?
 
 **Pilihan jawaban:**
-- nineteen
-- eleven
-- twelve
-- thirteen
+- Her number is forty-three.
+- His number are forty-three.
+- Her number is thirty-four.
+- She number forty-three.
 
-**Kunci Jawaban:** nineteen
+**Kunci Jawaban:** Her number is forty-three.
 
-**Pembahasan:** Thirteen plus six is nineteen.
+**Pembahasan:** Untuk Cici digunakan **Her number is ...** dan 43 adalah forty-three.
 
 ---
 
 ## Soal 18 — K03-ENG-B10-M01-018
 
-**Pertanyaan:** The class has twenty bags. Three bags are taken away. How many bags remain?
+**Pertanyaan:** Made's card shows 45. Which report is correct?
 
 **Pilihan jawaban:**
-- seventeen
-- fourteen
-- fifteen
-- sixteen
+- Her number is forty-five.
+- His number is forty-five.
+- His number are fifty-four.
+- He number is forty.
 
-**Kunci Jawaban:** seventeen
+**Kunci Jawaban:** His number is forty-five.
 
-**Pembahasan:** Twenty minus three is seventeen.
+**Pembahasan:** Untuk Made digunakan **His number is ...** dan 45 adalah forty-five.
 
 ---
 
 ## Soal 19 — K03-ENG-B10-M01-019
 
-**Pertanyaan:** Eight pencils and four pencils are in a box. How many pencils?
+**Pertanyaan:** Which question asks about the number of books?
 
 **Pilihan jawaban:**
-- twelve
-- ten
-- eleven
-- thirteen
+- Where are the books?
+- What color are the books?
+- How many books are there?
+- Who reads the books?
 
-**Kunci Jawaban:** twelve
+**Kunci Jawaban:** How many books are there?
 
-**Pembahasan:** Eight plus four is twelve.
+**Pembahasan:** **How many ...?** digunakan untuk menanyakan jumlah.
 
 ---
 
 ## Soal 20 — K03-ENG-B10-M01-020
 
-**Pertanyaan:** There are fourteen notebooks. Four more arrive. How many now?
+**Pertanyaan:** There are 23 books on a shelf. Which sentence is correct?
 
 **Pilihan jawaban:**
-- eighteen
-- thirteen
-- fourteen
-- fifteen
+- There is twenty-three books on the shelf.
+- There are twenty-three book on the shelf.
+- There are twenty-three books on the shelf.
+- Twenty-three books is on shelf.
 
-**Kunci Jawaban:** eighteen
+**Kunci Jawaban:** There are twenty-three books on the shelf.
 
-**Pembahasan:** Fourteen plus four is eighteen.
+**Pembahasan:** Jumlah lebih dari satu memakai **There are** dan nomina jamak **books**.
 
 ---
 
 ## Soal 21 — K03-ENG-B10-M01-021
 
-**Pertanyaan:** Nine markers are red and eleven are blue. How many markers in all?
+**Pertanyaan:** Complete: There ___ forty pencils in the box.
 
 **Pilihan jawaban:**
-- twenty
-- sixteen
-- seventeen
-- eighteen
-
-**Kunci Jawaban:** twenty
-
-**Pembahasan:** Nine plus eleven is twenty.
-
----
-
-## Soal 22 — K03-ENG-B10-M01-022
-
-**Pertanyaan:** Choose a correct sentence about 20 books.
-
-**Pilihan jawaban:**
-- There is twenty books on the shelf.
-- There are twenty books on the shelf.
-- There are twenty book on the shelf.
-- There twenty books on shelf.
-
-**Kunci Jawaban:** There are twenty books on the shelf.
-
-**Pembahasan:** The plural subject 'twenty books' takes 'There are'.
-
----
-
-## Soal 23 — K03-ENG-B10-M01-023
-
-**Pertanyaan:** Complete: 'There ___ eleven pencils in the box.'
-
-**Pilihan jawaban:**
-- is
 - am
+- is
 - are
 - be
 
 **Kunci Jawaban:** are
 
-**Pembahasan:** 'Eleven pencils' is plural, so use 'are'.
+**Pembahasan:** **Forty pencils** berbentuk jamak sehingga memakai **are**.
+
+---
+
+## Soal 22 — K03-ENG-B10-M01-022
+
+**Pertanyaan:** A: Are there forty books? B: No, there are forty-two. How many books are there?
+
+**Pilihan jawaban:**
+- thirty-two
+- forty
+- forty-two
+- fifty
+
+**Kunci Jawaban:** forty-two
+
+**Pembahasan:** Jawaban mengoreksi perkiraan awal menjadi 42.
+
+---
+
+## Soal 23 — K03-ENG-B10-M01-023
+
+**Pertanyaan:** Survey data: Cici—32, Aisyah—28, Made—45. Whose number is twenty-eight?
+
+**Pilihan jawaban:**
+- Cici's
+- Aisyah's
+- Made's
+- all three
+
+**Kunci Jawaban:** Aisyah's
+
+**Pembahasan:** Pada data, Aisyah mendapat 28 atau twenty-eight.
 
 ---
 
 ## Soal 24 — K03-ENG-B10-M01-024
 
-**Pertanyaan:** Complete: 'There is ___ book on the table.'
+**Pertanyaan:** Raka has card 26 and Sinta has card 29. Who has the larger number?
 
 **Pilihan jawaban:**
-- eleven
-- twelve
-- one
-- twenty
+- Raka
+- Sinta
+- both are equal
+- the data do not show numbers
 
-**Kunci Jawaban:** one
+**Kunci Jawaban:** Sinta
 
-**Pembahasan:** A singular book uses one.
+**Pembahasan:** 29 lebih besar daripada 26.
 
 ---
 
 ## Soal 25 — K03-ENG-B10-M01-025
 
-**Pertanyaan:** A: How many books are there? B: There are fifteen books. What number does B say?
+**Pertanyaan:** The science shelf has 48 books. Which label should be written?
 
 **Pilihan jawaban:**
-- thirteen
-- fourteen
-- fifteen
-- sixteen
+- twenty-eight
+- thirty-eight
+- forty-eight
+- fifty
 
-**Kunci Jawaban:** fifteen
+**Kunci Jawaban:** forty-eight
 
-**Pembahasan:** The reply says fifteen.
+**Pembahasan:** Bilangan 48 ditulis **forty-eight**.
 
 ---
 
 ## Soal 26 — K03-ENG-B10-M01-026
 
-**Pertanyaan:** Which question asks about a count?
+**Pertanyaan:** There are 23 social studies books and 35 art books. Which shelf has more books?
 
 **Pilihan jawaban:**
-- What color are the pencils?
-- Where are the pencils?
-- How many pencils are there?
-- Who owns the pencils?
+- the social studies shelf
+- the art shelf
+- both have 23 books
+- both have 35 books
 
-**Kunci Jawaban:** How many pencils are there?
+**Kunci Jawaban:** the art shelf
 
-**Pembahasan:** How many asks for a number.
+**Pembahasan:** 35 lebih banyak daripada 23.
 
 ---
 
 ## Soal 27 — K03-ENG-B10-M01-027
 
-**Pertanyaan:** Choose the correct plural noun after 'twenty'.
+**Pertanyaan:** Four groups of ten pencils and five loose pencils make ___.
 
 **Pilihan jawaban:**
-- book
-- books
-- book's
-- booking
+- thirty-five
+- forty
+- forty-five
+- fifty
 
-**Kunci Jawaban:** books
+**Kunci Jawaban:** forty-five
 
-**Pembahasan:** Twenty is followed by the plural 'books'.
+**Pembahasan:** Empat puluhan dan lima satuan membentuk 45, yaitu **forty-five**.
 
 ---
 
 ## Soal 28 — K03-ENG-B10-M01-028
 
-**Pertanyaan:** A: Are there twelve books? B: No, there are thirteen. How many books?
+**Pertanyaan:** Three groups of ten books and two loose books make ___.
 
 **Pilihan jawaban:**
-- twelve
-- thirteen
-- eleven
-- ten
+- twenty-three
+- thirty-two
+- forty-two
+- fifty
 
-**Kunci Jawaban:** thirteen
+**Kunci Jawaban:** thirty-two
 
-**Pembahasan:** The correction says thirteen.
+**Pembahasan:** Tiga puluhan dan dua satuan membentuk 32.
 
 ---
 
 ## Soal 29 — K03-ENG-B10-M01-029
 
-**Pertanyaan:** There are ten notebooks and ten pencils. Which item count is twenty?
+**Pertanyaan:** Which pairing is NOT correct?
 
 **Pilihan jawaban:**
-- the notebooks alone
-- the pencils alone
-- all the items together
-- neither item nor their total
+- 30 — thirty
+- 40 — forty
+- 50 — fifty
+- 14 — forty
 
-**Kunci Jawaban:** all the items together
+**Kunci Jawaban:** 14 — forty
 
-**Pembahasan:** Ten plus ten gives twenty items in total.
+**Pembahasan:** **Forty** berarti 40, sedangkan 14 adalah fourteen.
 
 ---
 
 ## Soal 30 — K03-ENG-B10-M01-030
 
-**Pertanyaan:** Which number word comes just after eighteen?
+**Pertanyaan:** Which spelling is correct for 29?
 
 **Pilihan jawaban:**
-- seventeen
-- twenty
-- nineteen
-- sixteen
+- twenty-nine
+- twenty-ninety
+- two-nine
+- twenty ninty
 
-**Kunci Jawaban:** nineteen
+**Kunci Jawaban:** twenty-nine
 
-**Pembahasan:** Nineteen follows eighteen.
+**Pembahasan:** Penulisan baku 29 adalah **twenty-nine**.
 
 ---
 
 ## Soal 31 — K03-ENG-B10-M01-031
 
-**Pertanyaan:** Which number word comes just before fifteen?
+**Pertanyaan:** Five friends report these numbers: 31, 31, 42, 28, 31. Which number appears most often?
 
 **Pilihan jawaban:**
-- sixteen
-- fourteen
-- thirteen
-- seventeen
+- twenty-eight
+- thirty-one
+- forty-two
+- fifty
 
-**Kunci Jawaban:** fourteen
+**Kunci Jawaban:** thirty-one
 
-**Pembahasan:** Fourteen comes before fifteen.
+**Pembahasan:** 31 muncul tiga kali, lebih sering daripada 42 dan 28.
 
 ---
 
 ## Soal 32 — K03-ENG-B10-M01-032
 
-**Pertanyaan:** A: How many chairs are there? B: There are sixteen. Which reply matches?
+**Pertanyaan:** Which number word contains the word **forty**?
 
 **Pilihan jawaban:**
-- There is sixteen chair.
-- There are sixteen chairs.
-- There are sixty chairs.
-- There sixteen chairs.
+- thirty-four
+- forty-six
+- fifty-four
+- twenty-six
 
-**Kunci Jawaban:** There are sixteen chairs.
+**Kunci Jawaban:** forty-six
 
-**Pembahasan:** Plural chairs uses 'There are'.
+**Pembahasan:** **Forty-six** tersusun dari forty dan six, sehingga bernilai 46.
 
 ---
 
 ## Soal 33 — K03-ENG-B10-M01-033
 
-**Pertanyaan:** Choose the correct phrase for 12 pencils.
+**Pertanyaan:** One shelf has twenty books and another has five books. How many books are there altogether?
 
 **Pilihan jawaban:**
-- twelve pencil
-- twelve pencils
-- twelfth pencils
-- twelve penciling
+- twenty-three
+- twenty-four
+- twenty-five
+- thirty-five
 
-**Kunci Jawaban:** twelve pencils
+**Kunci Jawaban:** twenty-five
 
-**Pembahasan:** Twelve is a count and pencils is plural.
+**Pembahasan:** 20 + 5 = 25, yaitu **twenty-five**.
 
 ---
 
 ## Soal 34 — K03-ENG-B10-M01-034
 
-**Pertanyaan:** There are twenty books, not twelve. Which number is correct?
+**Pertanyaan:** Book data: social—23, math—33, science—48, music—21. Which subject has forty-eight books?
 
 **Pilihan jawaban:**
-- twelve
-- ten
-- twenty
-- eleven
+- social
+- math
+- science
+- music
 
-**Kunci Jawaban:** twenty
+**Kunci Jawaban:** science
 
-**Pembahasan:** The sentence explicitly corrects twelve to twenty.
+**Pembahasan:** Data menunjukkan science memiliki 48 buku.
 
 ---
 
 ## Soal 35 — K03-ENG-B10-M01-035
 
-**Pertanyaan:** The teacher counts nineteen desks. Which numeral matches 'nineteen'?
+**Pertanyaan:** A report says, “There are forty books on the shelf.” What can we know for sure?
 
 **Pilihan jawaban:**
-- 17
-- 18
-- 19
-- 20
+- the number of books
+- the color of every book
+- the size of the shelf
+- the owner of every book
 
-**Kunci Jawaban:** 19
+**Kunci Jawaban:** the number of books
 
-**Pembahasan:** Nineteen is written 19.
+**Pembahasan:** Kalimat itu menyatakan jumlah buku, bukan warna, ukuran rak, atau pemiliknya.
 
 ---
+

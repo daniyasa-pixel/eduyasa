@@ -18,12 +18,12 @@
 | --- | --- | --- | --- |
 | IPAS | Bab 1–8: 546 butir berubah | 560/560 diperiksa; isi dan media delapan bab selesai putaran ini | Tidak ada sisa putaran ini; belum konversi/rilis |
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
-| Bahasa Inggris | Unit 1–9: 450 soal dan delapan belas modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7–9 masing-masing 10 SVG fungsional | 450/500 diperiksa; 45 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | 50 soal/1 unit; uji suara dan WebView di tahap aplikasi |
+| Bahasa Inggris | Unit 1–10: 500 soal dan dua puluh modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7–10 masing-masing 10 SVG fungsional | 500/500 diperiksa; 50 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | Audit isi sumber Inggris selesai; uji suara dan WebView di tahap aplikasi |
 | PJOK | Belum dikerjakan | Belum diperiksa ulang | 360 soal/8 unit |
 | Seni Rupa | Belum dikerjakan | Belum diperiksa ulang | 225 soal/5 bab |
 
-Jumlah diperiksa secara isi: **1.310/1.945**. Jumlah diubah: **1.289**.
-Sisa audit isi: **635 soal pada 14 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **1.360/1.945**. Jumlah diubah: **1.339**.
+Sisa audit isi: **585 soal pada 13 bab/unit**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -725,3 +725,24 @@ Kumulatif audit isi **1.310/1.945**. Sisa **635 soal pada 14 bab/unit**.
 Titik lanjut: Bahasa Inggris Unit 10. Empat JSON Unit 9 yang dibuat dari sumber
 lama kini berstatus **STALE_SOURCE_CHANGED** dan harus diregenerasi pada tahap
 konversi terpisah.
+
+
+### Kelanjutan: Bahasa Inggris Unit 10 — putaran Inggris selesai
+
+Seluruh 50 soal dan dua modul diperiksa terhadap Unit 10 buku siswa dan panduan
+guru *My Next Words Grade 3*. Cakupan lama 10–20 dan latihan hitung yang melebar
+diganti dengan bilangan 21–50, pola `What is my number?`, laporan `his/her
+number is ...`, serta `How many ... are there?` dan `There are ...`.
+Semua ID 001–050 dan komposisi 35+10+5 tetap.
+
+Sepuluh SVG lama diganti dengan kelompok puluhan dan satuan lepas yang harus
+dibaca untuk menjawab. Lima TTS dan dua modul diselaraskan. Pemeriksaan paket:
+50 ID unik berurutan, empat opsi unik, satu kunci cocok, pembahasan tersedia,
+metadata TTS cocok dengan transkrip, serta 10 SVG memiliki viewBox, title/desc,
+tanpa skrip atau tautan eksternal.
+
+Bahasa Inggris selesai **500/500** pada putaran audit isi. Kumulatif lima mapel
+**1.360/1.945**; sisa **585 soal pada 13 bab/unit** (PJOK 8 unit dan Seni Rupa
+5 bab). Empat JSON Unit 10 yang dibuat dari sumber lama kini berstatus
+**STALE_SOURCE_CHANGED** dan harus diregenerasi pada tahap konversi terpisah.
+Titik lanjut: PJOK Unit 1.

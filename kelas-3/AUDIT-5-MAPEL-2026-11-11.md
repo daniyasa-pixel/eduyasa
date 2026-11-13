@@ -7,7 +7,7 @@
 | Mapel | Bab | Soal | Temuan yang terverifikasi | Revisi selesai | Sisa pekerjaan |
 |---|---:|---:|---|---|---|
 | IPAS | 8 | 560 | Pola berulang, opsi ambigu, gambar membocorkan definisi, penyederhanaan konsep diperbaiki | 560 diperiksa; 546 diubah; 16 modul dan media delapan bab diselaraskan | Putaran isi/media selesai; belum konversi atau uji siswa |
-| ENG | 10 | 500 | Soal teks tiga pola dominan per unit; gambar dan listening satu pola per unit | Unit 1–6: 300 soal, dua belas modul, 72 SVG, dan pemeriksaan sumber TTS | Unit 7–10; uji suara browser HP dan WebView di tahap aplikasi |
+| ENG | 10 | 500 | Pola repetitif, cakupan unit, gambar, dan listening diperiksa terhadap buku | Unit 1–10: 500 soal, 20 modul, 112 SVG, dan 50 naskah TTS diaudit | Audit isi sumber selesai; Unit 8–10 perlu konversi JSON ulang; uji suara HP/WebView di tahap aplikasi |
 | PAI | 10 | 300 | Soal berulang dan sebagian identik; ID tanpa awalan K03 | Awalan ID diperbaiki; 300 soal diperiksa per butir; 293 diubah; 20 modul diselaraskan | Isi selesai; cuplikan Arab ditinjau pada 390 px; uji browser HP/WebView dan pelafalan di tahap aplikasi |
 | PJOK | 8 | 360 | Soal berulang; ilustrasi hanya simbol; berkas soal lama dengan ID lain masih ada | Belum | Revisi teknik gerak dan keselamatan, ilustrasi, pilih bank resmi, modul belum ada |
 | SBD | 5 | 225 | Pengulangan kompetensi, ilustrasi generik; bab internal belum diverifikasi terhadap buku | Belum | Soal pengamatan visual, distraktor, ilustrasi, verifikasi bab resmi |
@@ -332,3 +332,15 @@ Pemeriksaan sumber lulus 50 ID unik, empat opsi unik, kunci cocok, pembahasan,
 metadata TTS, dan struktur SVG. Kumulatif audit isi **1.310/1.945**, tersisa
 **635 soal pada 14 bab/unit**. JSON Unit 9 lama harus dikonversi ulang. Titik
 lanjut: Bahasa Inggris Unit 10.
+
+
+### Kelanjutan: Bahasa Inggris Unit 10 — putaran Inggris selesai
+
+Unit 10 diperbaiki dari cakupan 10–20 menjadi bilangan 21–50 sesuai buku,
+termasuk tanya jawab nomor, laporan his/her, hitungan benda sekolah, dan pola
+There are. Lima puluh soal, dua modul, lima TTS, dan sepuluh SVG diperiksa;
+semua ID serta jumlah tetap. Validator paket dan validator 82 bank kanonis
+lulus: 1.945 ID unik, empat opsi unik, kunci cocok, aset tersedia, 0 kesalahan
+struktur. Kumulatif audit isi **1.360/1.945**; sisa **585 soal/13 unit**
+(PJOK Unit 1–8 dan Seni Rupa Bab 1–5). Titik lanjut PJOK Unit 1. JSON Inggris
+Unit 8–10 berstatus STALE_SOURCE_CHANGED sampai dikonversi dan diaudit ulang.
