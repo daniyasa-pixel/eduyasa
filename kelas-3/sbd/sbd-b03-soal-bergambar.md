@@ -1,183 +1,183 @@
 # Bab 3 — Ideku, Gagasanku
 
-10 soal bergambar — pertanyaan sudah disesuaikan dengan situasi ilustrasi; media ditangani terpisah.
+10 soal bergambar — ilustrasi berfungsi sebagai stimulus urutan cerita, uji krayon, stensil, keselamatan alat, warna, komposisi bingkai, dan privasi.
 
 ## Soal 36 — K03-SBD-B03-M01-036
 
-![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-01.svg)
+![Urutan cerita biji, hujan, dan kecambah](assets/sbd-b03-gambar-01.svg)
 
-**Pertanyaan:** Anak pada ilustrasi mengingat kegiatan sehari-hari sebagai sumber gambar. Ide karya dapat berasal dari ....
+**Pertanyaan:** Peristiwa apakah yang terjadi di bagian tengah urutan gambar?
 
 **Pilihan jawaban:**
-- hanya gambar orang lain
-- pengalaman sehari-hari
-- hanya televisi
-- hanya buku mahal
+- hujan turun pada biji
+- biji baru diletakkan di tanah
+- tanaman sudah tumbuh tinggi
+- bunga dipetik dari tanaman
 
-**Kunci Jawaban:** pengalaman sehari-hari
+**Kunci Jawaban:** hujan turun pada biji
 
-**Pembahasan:** Ide karya dapat berasal dari pengalaman sehari-hari.
+**Pembahasan:** Panel tengah menunjukkan tetes hujan menuju tanah; peristiwa itu menghubungkan biji pada awal dengan kecambah pada akhir.
 
 ---
 
 ## Soal 37 — K03-SBD-B03-M01-037
 
-![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-02.svg)
+![Tiga hasil uji tekanan krayon](assets/sbd-b03-gambar-02.svg)
 
-**Pertanyaan:** Dua rancangan diperlihatkan; rancangan awal belum sesuai tujuan. Langkah yang sebaiknya dilakukan adalah ....
+**Pertanyaan:** Hasil uji manakah yang menunjukkan tekanan krayon cukup dan warna relatif merata?
 
 **Pilihan jawaban:**
-- menyalahkan teman
-- merusak alat
-- mencoba alternatif dan memperbaiki rancangan
-- langsung menyerah
+- bidang uji nomor 2
+- bidang uji nomor 1
+- bidang uji nomor 3
+- semua bidang tidak berwarna
 
-**Kunci Jawaban:** mencoba alternatif dan memperbaiki rancangan
+**Kunci Jawaban:** bidang uji nomor 2
 
-**Pembahasan:** Saat ide pertama kurang cocok, kita dapat mencoba alternatif dan memperbaiki rancangan.
+**Pembahasan:** Bidang nomor 2 terisi merata tanpa goresan terlalu tipis atau serpihan akibat tekanan berlebihan.
 
 ---
 
 ## Soal 38 — K03-SBD-B03-M01-038
 
-![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-03.svg)
+![Urutan awal cetak stensil](assets/sbd-b03-gambar-03.svg)
 
-**Pertanyaan:** Perhatikan tiga bidang cat pada palet. Merah, oranye, dan kuning merupakan kelompok warna ....
+**Pertanyaan:** Setelah pola diletakkan pada kertas seperti kartu ketiga, langkah berikutnya adalah ....
 
 **Pilihan jawaban:**
-- biru dan hijau saja
-- hitam dan putih saja
-- abu-abu saja
-- merah, oranye, dan kuning
+- mengusap warna ke arah luar pola
+- mengangkat pola sebelum diberi warna
+- membuang pola ke lantai
+- menyiram kertas dengan air
 
-**Kunci Jawaban:** merah, oranye, dan kuning
+**Kunci Jawaban:** mengusap warna ke arah luar pola
 
-**Pembahasan:** Warna hangat mencakup merah, oranye, dan kuning.
+**Pembahasan:** Pada urutan stensil, pola diletakkan stabil lalu warna diusap dari tepi pola ke arah luar.
 
 ---
 
 ## Soal 39 — K03-SBD-B03-M01-039
 
-![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-04.svg)
+![Dua cara membawa gunting](assets/sbd-b03-gambar-04.svg)
 
-**Pertanyaan:** Perhatikan pilihan warna biru dan hijau pada palet. Kelompok itu biasanya memberikan kesan ....
+**Pertanyaan:** Cara membawa gunting yang lebih aman ditunjukkan oleh ....
 
 **Pilihan jawaban:**
-- biru dan hijau
-- merah dan oranye
-- kuning dan merah
-- cokelat dan oranye
+- anak di sebelah kanan
+- anak di sebelah kiri
+- keduanya berlari dengan gunting
+- keduanya mengarahkan ujung ke teman
 
-**Kunci Jawaban:** biru dan hijau
+**Kunci Jawaban:** anak di sebelah kanan
 
-**Pembahasan:** Warna sejuk mencakup biru dan hijau.
+**Pembahasan:** Anak kanan membawa gunting tertutup pada gagang dengan ujung mengarah ke bawah.
 
 ---
 
 ## Soal 40 — K03-SBD-B03-M01-040
 
-![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-05.svg)
+![Arah usap pada pola stensil](assets/sbd-b03-gambar-05.svg)
 
-**Pertanyaan:** Pada rancangan, beberapa objek dipindahkan posisinya agar gambar seimbang. Aspek yang diperbaiki adalah ....
+**Pertanyaan:** Arah usapan krayon yang benar pada gambar ditunjukkan oleh panah yang ....
 
 **Pilihan jawaban:**
-- harga kertas
-- penataan unsur dalam bidang gambar
-- jenis lem
-- ukuran kuas
+- bergerak keluar dari tepi pola
+- bergerak menuju tengah pola
+- mengarah ke tangan
+- hanya berputar di satu titik
 
-**Kunci Jawaban:** penataan unsur dalam bidang gambar
+**Kunci Jawaban:** bergerak keluar dari tepi pola
 
-**Pembahasan:** Komposisi berarti penataan unsur dalam bidang gambar.
+**Pembahasan:** Teknik pada gambar mengusap warna secara lembut dari tepi pola menuju bagian luar.
 
 ---
 
 ## Soal 41 — K03-SBD-B03-M01-041
 
-![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-06.svg)
+![Siluet daun pada hasil stensil](assets/sbd-b03-gambar-06.svg)
 
-**Pertanyaan:** Ada satu objek yang sengaja dibuat paling terlihat pada poster. Bagian itu berfungsi ....
+**Pertanyaan:** Mengapa bentuk daun yang terang terlihat setelah pola diangkat?
 
 **Pilihan jawaban:**
-- tidak terlihat
-- harus dihapus
-- menarik perhatian utama
-- selalu tersembunyi
+- bagian itu terlindung pola dari sebagian warna
+- daun berubah menjadi lampu
+- kertas berlubang dengan sendirinya
+- semua krayon menghilang
 
-**Kunci Jawaban:** menarik perhatian utama
+**Kunci Jawaban:** bagian itu terlindung pola dari sebagian warna
 
-**Pembahasan:** Titik fokus dalam gambar adalah bagian yang menarik perhatian utama.
+**Pembahasan:** Pola daun menahan warna sehingga bagian di bawahnya lebih sedikit terkena krayon dan membentuk siluet.
 
 ---
 
 ## Soal 42 — K03-SBD-B03-M01-042
 
-![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-07.svg)
+![Perbandingan tekanan krayon](assets/sbd-b03-gambar-07.svg)
 
-**Pertanyaan:** Poster tentang penggunaan air memperlihatkan keran dan kalimat singkat. Unsur yang sesuai dengan pesannya adalah ....
+**Pertanyaan:** Manakah hasil usapan yang lebih aman bagi alat dan lebih merata?
 
 **Pilihan jawaban:**
-- air terbuang tanpa pesan
-- hanya coretan acak
-- gambar tanpa hubungan
-- keran tertutup dan pesan singkat
+- hasil di sebelah kanan
+- hasil di sebelah kiri
+- keduanya memakai tekanan berlebihan
+- tidak ada yang menyentuh kertas
 
-**Kunci Jawaban:** keran tertutup dan pesan singkat
+**Kunci Jawaban:** hasil di sebelah kanan
 
-**Pembahasan:** Rancangan poster hemat air dapat menampilkan keran tertutup dan pesan singkat.
+**Pembahasan:** Hasil kanan dibuat dengan tekanan cukup dan merata; hasil kiri menunjukkan tekanan terlalu kuat hingga krayon patah dan warna menggumpal.
 
 ---
 
 ## Soal 43 — K03-SBD-B03-M01-043
 
-![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-08.svg)
+![Campuran merah dan kuning](assets/sbd-b03-gambar-08.svg)
 
-**Pertanyaan:** Sebelum menggunakan bahan untuk karya, siswa mengecek apakah aman dan mudah diperoleh. Pertimbangan ini berkaitan dengan ....
+**Pertanyaan:** Warna apa yang tepat untuk mengisi lingkaran hasil campuran?
 
 **Pilihan jawaban:**
-- keamanan dan ketersediaan bahan
-- harga paling mahal saja
-- warna kemasan saja
-- merek terkenal saja
+- oranye
+- hijau
+- ungu
+- biru
 
-**Kunci Jawaban:** keamanan dan ketersediaan bahan
+**Kunci Jawaban:** oranye
 
-**Pembahasan:** Memilih bahan berkarya perlu mempertimbangkan keamanan dan ketersediaan bahan.
+**Pembahasan:** Dalam pencampuran cat dasar, merah dan kuning umumnya menghasilkan oranye.
 
 ---
 
 ## Soal 44 — K03-SBD-B03-M01-044
 
-![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-09.svg)
+![Dua susunan hiasan bingkai](assets/sbd-b03-gambar-09.svg)
 
-**Pertanyaan:** Gambar inspirasi dan hasil rancangan pribadi diperlihatkan bersebelahan. Sikap kreatif yang diharapkan adalah ....
+**Pertanyaan:** Susunan bingkai manakah yang menjaga gambar utama tetap terlihat?
 
 **Pilihan jawaban:**
-- meniru tanpa memahami
-- mengembangkan ide sendiri dengan jujur
-- menyalin karya teman lalu mengaku milik sendiri
-- menghapus nama pembuat
+- bingkai di sebelah kanan
+- bingkai di sebelah kiri
+- keduanya menutup gambar utama
+- keduanya tanpa hiasan
 
-**Kunci Jawaban:** mengembangkan ide sendiri dengan jujur
+**Kunci Jawaban:** bingkai di sebelah kanan
 
-**Pembahasan:** Gagasan orisinal berarti mengembangkan ide sendiri dengan jujur.
+**Pembahasan:** Hiasan pada bingkai kanan berada di tepi dan tidak menutupi gambar utama.
 
 ---
 
 ## Soal 45 — K03-SBD-B03-M01-045
 
-![Ilustrasi unsur seni rupa](assets/sbd-b03-gambar-10.svg)
+![Izin sebelum membagikan karya keluarga](assets/sbd-b03-gambar-10.svg)
 
-**Pertanyaan:** Tiga sketsa kecil memiliki tata letak berbeda. Mengapa siswa perlu membuat dan membandingkannya?
+**Pertanyaan:** Tindakan yang lebih menghargai privasi karya keluarga ditunjukkan oleh ....
 
 **Pilihan jawaban:**
-- menghilangkan ide
-- menghindari belajar
-- membandingkan pilihan komposisi
-- membuat kertas selalu basah
+- kartu di sebelah kiri
+- kartu di sebelah kanan
+- keduanya langsung mengunggah foto
+- keduanya menuliskan alamat rumah
 
-**Kunci Jawaban:** membandingkan pilihan komposisi
+**Kunci Jawaban:** kartu di sebelah kiri
 
-**Pembahasan:** Membuat beberapa sketsa kecil membantu membandingkan pilihan komposisi.
+**Pembahasan:** Kartu kiri menunjukkan permintaan izin sebelum karya difoto atau dibagikan.
 
 ---
