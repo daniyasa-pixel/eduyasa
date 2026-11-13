@@ -1,183 +1,183 @@
-# Bab 5 — Aku Seniman Cilik
+# Bab 5 — Eksplorasi Membuat Bentuk 3 Dimensi: Hewan di Sekitarku
 
-10 soal bergambar — pertanyaan sudah disesuaikan dengan situasi ilustrasi; media ditangani terpisah.
+10 soal bergambar — setiap ilustrasi menjadi data yang diperlukan untuk menjawab.
 
 ## Soal 36 — K03-SBD-B05-M01-036
 
-![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-01.svg)
+![Stimulus soal 36](assets/sbd-b05-gambar-01.svg)
 
-**Pertanyaan:** Kuas yang telah dipakai cat tampak di dekat wadah air. Tindakan perawatan kuas yang tepat adalah ....
+**Pertanyaan:** Perhatikan dua karya pada gambar. Pernyataan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- dibiarkan kotor selamanya
-- dilempar ke lantai
-- digunakan menusuk teman
-- dibersihkan sesuai jenis cat
+- Karya B memiliki volume dan dapat diamati dari berbagai arah
+- Karya A memiliki tinggi nyata lebih besar daripada karya B
+- Karya B hanya dapat dilihat dari satu sisi
+- Kedua karya tidak memiliki bentuk
 
-**Kunci Jawaban:** dibersihkan sesuai jenis cat
+**Kunci Jawaban:** Karya B memiliki volume dan dapat diamati dari berbagai arah
 
-**Pembahasan:** Kuas setelah digunakan sebaiknya dibersihkan sesuai jenis cat.
+**Pembahasan:** Karya B digambarkan sebagai bentuk ikan bervolume, sedangkan karya A berupa gambar ikan pada bidang datar.
 
 ---
 
 ## Soal 37 — K03-SBD-B05-M01-037
 
-![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-02.svg)
+![Stimulus soal 37](assets/sbd-b05-gambar-02.svg)
 
-**Pertanyaan:** Bahan bekas dalam ilustrasi akan menjadi karya baru. Apa yang perlu dilakukan sebelum bahan dipakai?
+**Pertanyaan:** Ciri hewan pada kartu pengamatan yang paling perlu diwujudkan agar bentuk ikan mudah dikenali adalah ....
 
 **Pilihan jawaban:**
-- dibersihkan dan dipastikan aman
-- selalu dipakai meski tajam
-- dibakar di kelas
-- diambil dari tempat berbahaya
+- badan lonjong, sirip, dan ekor
+- empat kaki dan dua tanduk
+- delapan lengan dan paruh
+- cangkang dan sayap
 
-**Kunci Jawaban:** dibersihkan dan dipastikan aman
+**Kunci Jawaban:** badan lonjong, sirip, dan ekor
 
-**Pembahasan:** Bahan daur ulang untuk karya perlu dibersihkan dan dipastikan aman.
+**Pembahasan:** Kartu menunjukkan ikan dengan badan lonjong, sirip, dan ekor sebagai ciri visual utamanya.
 
 ---
 
 ## Soal 38 — K03-SBD-B05-M01-038
 
-![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-03.svg)
+![Stimulus soal 38](assets/sbd-b05-gambar-03.svg)
 
-**Pertanyaan:** Gambar rancangan pertama belum berhasil diwujudkan. Sikap yang tepat pada percobaan berikutnya adalah ....
+**Pertanyaan:** Untuk membuat badan hewan yang dapat diremas dan dibentuk langsung, bahan bernomor berapa yang paling sesuai?
 
 **Pilihan jawaban:**
-- berhenti belajar selamanya
-- mengevaluasi lalu mencoba lagi
-- menyalahkan teman
-- merusak meja
+- 1, plastisin
+- 2, kaca pecah
+- 3, paku berkarat
+- 4, cairan pembersih
 
-**Kunci Jawaban:** mengevaluasi lalu mencoba lagi
+**Kunci Jawaban:** 1, plastisin
 
-**Pembahasan:** Saat karya gagal sesuai rencana, seniman cilik dapat mengevaluasi lalu mencoba lagi.
+**Pembahasan:** Plastisin pada nomor 1 dapat dibentuk dengan tangan; tiga bahan lain pada gambar berbahaya untuk proyek ini.
 
 ---
 
 ## Soal 39 — K03-SBD-B05-M01-039
 
-![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-04.svg)
+![Stimulus soal 39](assets/sbd-b05-gambar-04.svg)
 
-**Pertanyaan:** Beberapa anak membuat mural di satu lembar besar. Apa kebutuhan utama agar tugas berjalan baik?
+**Pertanyaan:** Menurut diagram, langkah yang dilakukan setelah merancang bentuk adalah ....
 
 **Pilihan jawaban:**
-- saling mengejek
-- mengabaikan kesepakatan
-- pembagian tugas dan kerja sama
-- saling berebut alat
+- memilih bahan yang aman
+- langsung memajang karya
+- membuang semua alat
+- memberi nilai teman
 
-**Kunci Jawaban:** pembagian tugas dan kerja sama
+**Kunci Jawaban:** memilih bahan yang aman
 
-**Pembahasan:** Kerja kelompok membuat mural kertas memerlukan pembagian tugas dan kerja sama.
+**Pembahasan:** Panah urutan menunjukkan mengamati, merancang, memilih bahan, membentuk, lalu meninjau.
 
 ---
 
 ## Soal 40 — K03-SBD-B05-M01-040
 
-![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-05.svg)
+![Stimulus soal 40](assets/sbd-b05-gambar-05.svg)
 
-**Pertanyaan:** Meja pameran menampilkan banyak karya dan pengunjung perlu lewat. Hal yang harus diperhatikan adalah ....
+**Pertanyaan:** Dua model memiliki badan sama berat. Model yang lebih stabil adalah ....
 
 **Pilihan jawaban:**
-- barang menutupi semua karya
-- jalan keluar tertutup
-- kertas berserakan
-- kerapian dan ruang pengunjung
+- model B karena alasnya lebih lebar
+- model A karena alasnya lebih sempit
+- model A karena badannya lebih tinggi
+- keduanya pasti sama tanpa perlu diuji
 
-**Kunci Jawaban:** kerapian dan ruang pengunjung
+**Kunci Jawaban:** model B karena alasnya lebih lebar
 
-**Pembahasan:** Menata karya di meja pameran perlu memperhatikan kerapian dan ruang pengunjung.
+**Pembahasan:** Pada gambar, model B memiliki alas lebih lebar sehingga badan mendapat bidang tumpu lebih besar.
 
 ---
 
 ## Soal 41 — K03-SBD-B05-M01-041
 
-![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-06.svg)
+![Stimulus soal 41](assets/sbd-b05-gambar-06.svg)
 
-**Pertanyaan:** Pengunjung berdiri di depan karya teman di pameran mini. Perilaku yang sesuai adalah ....
+**Pertanyaan:** Berdasarkan gambar uji sambungan, cara yang menghasilkan dua bagian plastisin menyatu adalah ....
 
 **Pilihan jawaban:**
-- melihat dengan tertib dan menghargai karya
-- menyentuh semua karya tanpa izin
-- mencoret pajangan
-- mendorong teman
+- cara B, sambungan ditekan dan diratakan
+- cara A, kedua bagian dibiarkan berjarak
+- cara A, bagian tidak saling menyentuh
+- kedua cara sama-sama tanpa sambungan
 
-**Kunci Jawaban:** melihat dengan tertib dan menghargai karya
+**Kunci Jawaban:** cara B, sambungan ditekan dan diratakan
 
-**Pembahasan:** Sikap pengunjung pameran adalah melihat dengan tertib dan menghargai karya.
+**Pembahasan:** Cara B memperlihatkan dua bagian bertemu lalu batas sambungannya diratakan.
 
 ---
 
 ## Soal 42 — K03-SBD-B05-M01-042
 
-![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-07.svg)
+![Stimulus soal 42](assets/sbd-b05-gambar-07.svg)
 
-**Pertanyaan:** Ilustrasi memperlihatkan alat cap sederhana dan cat. Bahan yang aman digunakan untuk mencap adalah ....
+**Pertanyaan:** Agar bentuk capung seimbang seperti rancangan, sayap perlu dipasang ....
 
 **Pilihan jawaban:**
-- api
-- spons atau daun bersih dengan cat yang aman
-- pisau tajam
-- pecahan kaca
+- dua di kiri dan dua di kanan badan
+- empat di sisi kiri saja
+- semuanya pada ujung ekor
+- tanpa menyentuh badan
 
-**Kunci Jawaban:** spons atau daun bersih dengan cat yang aman
+**Kunci Jawaban:** dua di kiri dan dua di kanan badan
 
-**Pembahasan:** Teknik cap sederhana dapat memakai spons atau daun bersih dengan cat yang aman.
+**Pembahasan:** Rancangan menunjukkan empat sayap tersebar serasi pada kedua sisi badan capung.
 
 ---
 
 ## Soal 43 — K03-SBD-B05-M01-043
 
-![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-08.svg)
+![Stimulus soal 43](assets/sbd-b05-gambar-08.svg)
 
-**Pertanyaan:** Dua anak bekerja sama membuat karya; salah satu membantu temannya. Sikap yang ditunjukkan adalah ....
+**Pertanyaan:** Pada akuarium mini, benda yang berada paling depan adalah ....
 
 **Pilihan jawaban:**
-- mencela hasil orang lain
-- tidak mau berbagi
-- tanggung jawab dan saling menghormati
-- menyembunyikan bahan
+- rumput A
+- ikan B
+- batu C
+- latar D
 
-**Kunci Jawaban:** tanggung jawab dan saling menghormati
+**Kunci Jawaban:** rumput A
 
-**Pembahasan:** Membuat karya bersama teman mengajarkan tanggung jawab dan saling menghormati.
+**Pembahasan:** Diagram kedalaman menempatkan rumput A pada lapisan depan, diikuti ikan B, batu C, dan latar D.
 
 ---
 
 ## Soal 44 — K03-SBD-B05-M01-044
 
-![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-09.svg)
+![Stimulus soal 44](assets/sbd-b05-gambar-09.svg)
 
-**Pertanyaan:** Seorang siswa mengamati hasil lalu menentukan bagian untuk diperbaiki. Kegiatan itu disebut ....
+**Pertanyaan:** Perubahan dari contoh awal ke hasil modifikasi adalah ....
 
 **Pilihan jawaban:**
-- membuang karya tanpa melihat
-- menghina pembuat
-- mengabaikan proses
-- meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki
+- sirip diberi pola dan ekor dibuat lebih lebar
+- badan ikan dihilangkan
+- semua sirip dilepas
+- karya diubah menjadi gambar datar
 
-**Kunci Jawaban:** meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki
+**Kunci Jawaban:** sirip diberi pola dan ekor dibuat lebih lebar
 
-**Pembahasan:** Evaluasi karya berarti meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki.
+**Pembahasan:** Hasil modifikasi tetap berupa ikan, tetapi pola sirip ditambah dan bentuk ekornya dikembangkan.
 
 ---
 
 ## Soal 45 — K03-SBD-B05-M01-045
 
-![Ilustrasi unsur seni rupa](assets/sbd-b05-gambar-10.svg)
+![Stimulus soal 45](assets/sbd-b05-gambar-10.svg)
 
-**Pertanyaan:** Pameran selesai dan alat masih di meja. Cara penanganan alat dan karya yang benar adalah ....
+**Pertanyaan:** Catatan uji menunjukkan karya miring ke kanan. Perbaikan yang paling sesuai ialah ....
 
 **Pilihan jawaban:**
-- dikembalikan atau disimpan dengan rapi
-- dibiarkan tercecer
-- dibuang tanpa izin
-- dirusak
+- memperkuat atau memperlebar alas di sisi kanan
+- menambah beban tinggi di sisi kanan
+- memotong seluruh alas
+- menambah hiasan pada ujung atas
 
-**Kunci Jawaban:** dikembalikan atau disimpan dengan rapi
+**Kunci Jawaban:** memperkuat atau memperlebar alas di sisi kanan
 
-**Pembahasan:** Setelah pameran, karya dan alat sebaiknya dikembalikan atau disimpan dengan rapi.
+**Pembahasan:** Arah miring dan alas sempit pada gambar menunjukkan sisi kanan membutuhkan tumpuan yang lebih baik.
 
 ---
