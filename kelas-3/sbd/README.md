@@ -15,13 +15,14 @@ Bank sumber berjumlah **225 soal**: lima bab × 45 soal (35 teks dan 10 bergamba
 - **Bab 2 selesai:** diselaraskan dengan Bab II *Bicara Tentang Karya*.
 - **Bab 3 selesai:** diselaraskan dengan Bab III *Berkreasi dengan Warna*.
 - **Bab 4 selesai:** diselaraskan dengan Bab IV *Kisah Gunting dan Tempel*.
+- **Bab 5 selesai:** diselaraskan dengan Bab V *Eksplorasi Membuat Bentuk 3 Dimensi: Hewan di Sekitarku*.
 - Setiap bab selesai memuat 45 soal, 10 SVG, dan dua modul yang ditulis ulang.
-- **Bab 5 belum diperiksa ulang** dalam putaran audit isi ini.
-- Kumulatif Seni Rupa: **180/225**; sisa **45 soal**.
+- Seluruh lima bab selesai dalam putaran audit isi ini.
+- Kumulatif Seni Rupa: **225/225**; sisa **0 soal**.
 - Konversi JSON, aktivasi aplikasi, uji siswa, dan uji HP/WebView belum termasuk hasil ini.
 
-Bab 3 mencakup gambar cerita, penafsiran visual, pengamatan lingkungan, uji alat/bahan, cetak stensil, eksplorasi warna, bingkai, keselamatan, presentasi proses, dan apresiasi. Bab 4 mencakup alat/bahan kolase, tekstur, urutan menggunting atau menyobek–menyusun–menempel, tema lingkungan, keselamatan, kerja sama, pemanfaatan sisa, perbaikan, dan presentasi. Empat puluh ilustrasi Bab 1–4 menjadi stimulus fungsional; delapan modul memiliki lingkup setara dalam dua pendekatan per bab.
+Bab 3 mencakup gambar cerita, penafsiran visual, pengamatan lingkungan, uji alat/bahan, cetak stensil, eksplorasi warna, bingkai, keselamatan, presentasi proses, dan apresiasi. Bab 4 mencakup alat/bahan kolase, tekstur, urutan menggunting atau menyobek–menyusun–menempel, tema lingkungan, keselamatan, kerja sama, pemanfaatan sisa, perbaikan, dan presentasi. Bab 5 mencakup karya tiga dimensi bertema hewan, pengamatan ciri, bahan aman, teknik membentuk, kestabilan, upcycling, diorama, modifikasi, perbaikan, dan apresiasi. Lima puluh ilustrasi Bab 1–5 menjadi stimulus fungsional; sepuluh modul memiliki lingkup setara dalam dua pendekatan per bab.
 
 ## Aturan tahap JSON
 
-Sumber Bab 1–4 berubah dan harus dikonversi ulang. Regenerasi paket soal teks, soal bergambar, dan materi untuk setiap bab: `sbd-b01*.json`, `sbd-b02*.json`, `sbd-b03*.json`, dan `sbd-b04*.json` sesuai nama file yang dirinci dalam `../HANDOVER-KONVERSI-JSON.md`. Bandingkan ID, urutan opsi, kunci, pembahasan, media, dan isi modul 1:1. Jika Markdown berubah lagi, audit perubahan satu kali; bila perlu, revisi sumber dahulu lalu konversi ulang.
+Sumber Bab 1–5 berubah dan harus dikonversi ulang. Regenerasi paket soal teks, soal bergambar, dan materi untuk setiap bab: `sbd-b01*.json`, `sbd-b02*.json`, `sbd-b03*.json`, `sbd-b04*.json`, dan `sbd-b05*.json` sesuai nama file yang dirinci dalam `../HANDOVER-KONVERSI-JSON.md`. Bandingkan ID, urutan opsi, kunci, pembahasan, media, dan isi modul 1:1. Jika Markdown berubah lagi, audit perubahan satu kali; bila perlu, revisi sumber dahulu lalu konversi ulang.
