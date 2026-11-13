@@ -162,3 +162,20 @@ modul terhadap Markdown `main` terbaru. Jika sumber berubah lagi, audit
 perubahan itu satu kali sebelum konversi; bila audit menemukan masalah, revisi
 Markdown terlebih dahulu lalu konversi ulang. Jangan menganggap validator
 struktur sebagai audit isi. Uji siswa dan HP/WebView tetap tahap aplikasi.
+
+
+## Perubahan sumber Seni Rupa Bab 5 — 13 November 2026
+
+Seluruh 45 soal Bab 5, 10 SVG, dan dua modul berubah setelah audit isi terhadap
+Bab V *Eksplorasi Membuat Bentuk 3 Dimensi: Hewan di Sekitarku* pada buku guru
+revisi 2025. Regenerasi `sbd-b05.json`, `sbd-b05a.json`, dan
+`sbd-b05-materi.json`, lalu bandingkan 45 ID, urutan opsi, kunci,
+pembahasan, sepuluh media, dan isi dua modul terhadap Markdown `main`
+terbaru. Jika sumber berubah lagi, audit perubahan itu satu kali sebelum
+konversi; bila audit menemukan masalah, revisi Markdown terlebih dahulu lalu
+konversi ulang.
+
+Audit isi sumber kelima mapel telah mencapai 1.945/1.945. Status itu bukan
+kelulusan JSON atau aplikasi. Setelah regenerasi seluruh paket yang berstatus
+`STALE_SOURCE_CHANGED`, audit integritas Markdown↔JSON 1:1, manifest,
+tampilan HP/WebView, TTS/pelafalan Arab, serta praktik PJOK tetap wajib.
