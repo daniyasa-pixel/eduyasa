@@ -1,10 +1,10 @@
 # CHECKPOINT TERBARU — EDUYASA KELAS 3 (13 NOVEMBER 2026)
 
-**STATUS KESELURUHAN: AUDIT ISI MASIH BERJALAN.** IPAS 560/560, PAI 300/300, Bahasa Inggris 500/500, PJOK 360/360, dan Seni Rupa 45/225 telah diperiksa dalam putaran audit ini. Jumlah kumulatif **1.765/1.945**; sisa **180 soal pada 4 bab Seni Rupa**.
+**STATUS KESELURUHAN: AUDIT ISI MASIH BERJALAN.** IPAS 560/560, PAI 300/300, Bahasa Inggris 500/500, PJOK 360/360, dan Seni Rupa 90/225 telah diperiksa dalam putaran audit ini. Jumlah kumulatif **1.810/1.945**; sisa **135 soal pada 3 bab Seni Rupa**.
 
 Sumber tetap Markdown. Konversi JSON dan aktivasi aplikasi adalah tahap terpisah. Paket yang sumbernya berubah berstatus **STALE_SOURCE_CHANGED** sampai JSON dibuat ulang dan dibandingkan 1:1. Jika ada perubahan sumber berikutnya, audit perubahan tersebut satu kali; bila ditemukan masalah, revisi Markdown dahulu lalu konversi ulang.
 
-**Seni Rupa Bab 1:** seluruh 45 soal dan dua modul ditulis ulang sesuai lingkup Bab I *Seni Rupa di Sekitarku* pada buku guru Seni Rupa Kelas III revisi 2025. Sepuluh SVG diganti menjadi stimulus fungsional. Pemeriksaan struktur dan media sumber dilakukan, tetapi uji siswa serta HP/WebView tetap menunggu tahap aplikasi.
+**Seni Rupa Bab 1–2:** 90 soal, empat modul, dan 20 SVG telah ditulis ulang sesuai Bab I *Seni Rupa di Sekitarku* dan Bab II *Bicara Tentang Karya* pada buku guru Seni Rupa Kelas III revisi 2025. Pemeriksaan struktur dan media sumber dilakukan, tetapi uji siswa serta HP/WebView tetap menunggu tahap aplikasi.
 
 
 ---
@@ -19,10 +19,10 @@ Sumber tetap Markdown. Konversi JSON dan aktivasi aplikasi adalah tahap terpisah
 | PAI | Bab 1–10: 293 butir berubah dan 20 modul direvisi | 300/300 diperiksa; cuplikan teks Arab Bab 1, 6, dan 8 ditinjau pada 390 px | Uji browser HP, WebView, dan pelafalan di tahap aplikasi |
 | Bahasa Inggris | Unit 1–10: 500 soal dan dua puluh modul direvisi; Unit 1–6 memiliki 72 SVG, Unit 7–10 masing-masing 10 SVG fungsional | 500/500 diperiksa; 50 naskah TTS diperiksa, sepuluh diuji melalui simulasi API | Audit isi sumber Inggris selesai; uji suara dan WebView di tahap aplikasi |
 | PJOK | Unit 1–8: Unit 1 merevisi 10 soal gambar; Unit 2–8 menulis ulang 315 soal; 80 SVG direvisi; 16 modul dibuat | 360/360 diperiksa terhadap buku, keselamatan, dan pola hidup sehat | Tidak ada sisa audit sumber; uji praktik dan HP/WebView di tahap aplikasi |
-| Seni Rupa | Bab 1: 45 soal dan 2 modul ditulis ulang; 10 SVG diganti | 45/225 diperiksa terhadap buku revisi 2025 | 180 soal/4 bab; uji siswa dan HP/WebView di tahap aplikasi |
+| Seni Rupa | Bab 1–2: 90 soal dan 4 modul ditulis ulang; 20 SVG diganti | 90/225 diperiksa terhadap buku revisi 2025 | 135 soal/3 bab; uji siswa dan HP/WebView di tahap aplikasi |
 
-Jumlah diperiksa secara isi: **1.765/1.945**. Jumlah diubah: **1.709**.
-Sisa audit isi: **180 soal pada 4 bab**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
+Jumlah diperiksa secara isi: **1.810/1.945**. Jumlah diubah: **1.754**.
+Sisa audit isi: **135 soal pada 3 bab**. Belum ada uji kesulitan empiris pada siswa. Revisi terdahulu pada mapel
 lain belum dihitung lulus karena belum diperiksa ulang dalam putaran ini.
 
 ## IPAS Bab 1
@@ -827,3 +827,12 @@ Seluruh 45 soal ditulis ulang setelah dibandingkan dengan Bab I *Seni Rupa di Se
 Cakupan soal meliputi titik dan pola, enam jenis garis, tebal-tipis garis, bidang tertutup, bidang geometris dan organis, perbedaan bidang datar dengan bentuk bervolume, warna primer/sekunder/tersier, pencampuran cat, pengamatan berdasarkan bukti visual, serta proses mengamati–merancang–membuat–berbagi–merefleksi. Keselamatan mencakup gunting tertutup dan gagang saat dibawa/diserahkan, lem secukupnya, bahan guna ulang yang bersih-kering-tidak tajam, dan larangan merusak tanaman.
 
 Sepuluh SVG baru menjadi stimulus titik rapat, jenis garis, garis terbuka/tertutup, bidang geometris/organis, persegi/kubus, dua percobaan warna, susunan kolase, keselamatan gunting, dan umpan balik karya. Dua modul ditulis ulang menjadi versi konsep dan versi penjelajahan/proyek dengan lingkup setara. Kumulatif audit isi **1.765/1.945**; sisa **180 soal pada 4 bab**. JSON Bab 1 harus dikonversi ulang. Uji karya siswa, aksesibilitas, dan HP/WebView menunggu tahap aplikasi. Titik lanjut: Seni Rupa Bab 2.
+
+
+### Kelanjutan: Seni Rupa Bab 2
+
+Seluruh 45 soal ditulis ulang setelah dibandingkan dengan Bab II *Bicara Tentang Karya* pada buku guru Seni Rupa Kelas III revisi 2025. Sumber lama mengulang sekitar lima belas pasangan jawaban dan banyak melebar ke poster, klasifikasi 2D/3D, mozaik, kolase, bahan bekas, serta label pameran. Bank baru berfokus pada lingkup resmi: mengamati unsur rupa, memakai kosakata seni, menjelaskan ide dan proses, merefleksi karya sendiri, mendengarkan presentasi, memberi tanggapan positif-konstruktif, dan menghargai perbedaan gagasan.
+
+Cakupan soal membedakan deskripsi visual dari tafsiran, meminta alasan berbasis karya, membahas komposisi dan keseimbangan, menjelaskan alat/bahan/proses, melatih urutan presentasi, pertanyaan relevan, umpan balik Bagian–Alasan–Saran, pilihan cara komunikasi, izin foto, aturan galeri, refleksi kekuatan-kesulitan-rencana, serta belajar dari karya tanpa menyalin. Makna warna tidak diperlakukan sebagai kepastian tentang perasaan pembuat.
+
+Sepuluh SVG baru menjadi stimulus identifikasi unsur, perbandingan komentar, urutan presentasi, komposisi seimbang, dua kesan, perilaku pendengar, fakta visual versus tafsiran, saran membangun, alat/bahan, dan catatan refleksi. Dua modul ditulis ulang menjadi versi konsep dan versi pemandu galeri dengan lingkup setara. Kumulatif audit isi **1.810/1.945**; sisa **135 soal pada 3 bab**. JSON Bab 2 harus dikonversi ulang. Uji diskusi siswa, aksesibilitas, dan HP/WebView menunggu tahap aplikasi. Titik lanjut: Seni Rupa Bab 3.
