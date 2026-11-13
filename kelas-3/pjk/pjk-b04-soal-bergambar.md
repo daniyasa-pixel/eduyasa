@@ -1,183 +1,184 @@
 # Unit 4 — Aktivitas Gerak Dominan Senam
 
-10 soal bergambar telah direvisi dengan konteks; diagram SVG diproses terpisah dan pemeriksaan visual akhir masih diperlukan.
+10 soal bergambar dengan stimulus fungsional; seluruh butir telah diaudit terhadap cakupan resmi keseimbangan, sikap lilin, dan lompat kangkang serta batas keselamatan senam. ID dan jumlah dipertahankan.
 
 ## Soal 36 — K03-PJK-B04-M01-036
 
-![Ilustrasi Latihan senam dasar](assets/pjk-b04-gambar-01.svg)
+![Perbandingan bidang tumpuan sempit dan lebar](assets/pjk-b04-gambar-01.svg)
 
-**Pertanyaan:** Siswa mencoba posisi dasar dengan instruksi guru. Apa prinsip keamanan utama latihan?
+**Pertanyaan:** Dua posisi terlihat: A berdiri dengan kaki rapat, B berdiri dengan kaki terbuka selebar bahu. Untuk latihan awal yang membutuhkan bidang tumpuan lebih lebar, pilih ....
 
 **Pilihan jawaban:**
-- selalu dilakukan sendirian
-- harus di tempat sempit
-- dilakukan sesuai kemampuan dan arahan guru
-- dipaksa sampai sakit
+- posisi A
+- posisi B
+- keduanya tanpa tumpuan
+- tidak ada yang menyentuh lantai
 
-**Kunci Jawaban:** dilakukan sesuai kemampuan dan arahan guru
+**Kunci Jawaban:** posisi B
 
-**Pembahasan:** Latihan senam dasar: dilakukan sesuai kemampuan dan arahan guru.
+**Pembahasan:** Posisi B memiliki bidang tumpuan kaki yang lebih lebar sehingga lebih mudah digunakan untuk latihan awal.
 
 ---
 
 ## Soal 37 — K03-PJK-B04-M01-037
 
-![Ilustrasi Pemanasan senam](assets/pjk-b04-gambar-02.svg)
+![Posisi keseimbangan silang tangan dan kaki](assets/pjk-b04-gambar-02.svg)
 
-**Pertanyaan:** Siswa bergerak ringan sebelum berlatih senam. Apa tujuan tahap persiapan ini?
+**Pertanyaan:** Gambar menunjukkan posisi tangan dan lutut. Kaki kanan telah diangkat ke belakang. Anggota tubuh mana yang ditandai untuk diangkat berikutnya?
 
 **Pilihan jawaban:**
-- menghilangkan risiko sepenuhnya
-- mempersiapkan otot dan sendi
-- menggantikan seluruh latihan
-- membuat tidak perlu minum
+- tangan kiri
+- tangan kanan
+- kedua lutut
+- kepala
 
-**Kunci Jawaban:** mempersiapkan otot dan sendi
+**Kunci Jawaban:** tangan kiri
 
-**Pembahasan:** Pemanasan senam: mempersiapkan otot dan sendi.
+**Pembahasan:** Pasangan silang kaki kanan dan tangan kiri membantu melatih keseimbangan.
 
 ---
 
 ## Soal 38 — K03-PJK-B04-M01-038
 
-![Ilustrasi Sikap tubuh saat berguling](assets/pjk-b04-gambar-03.svg)
+![Urutan kaki ke depan samping dan belakang](assets/pjk-b04-gambar-03.svg)
 
-**Pertanyaan:** Anak hendak berguling di atas matras. Bagian tubuh apa yang harus diperhatikan?
+**Pertanyaan:** Tiga panel menunjukkan kaki bebas bergerak dari depan ke samping lalu ke belakang. Agar tetap aman, perpindahan dilakukan ....
 
 **Pilihan jawaban:**
-- kepala dan leher dijaga sesuai arahan guru
-- leher ditumpu paksa
-- mata selalu ditutup
-- teman ditarik
+- perlahan dengan tubuh menyesuaikan
+- secepat mungkin sambil memejamkan mata
+- dengan melompat di lantai licin
+- sambil mendorong teman
 
-**Kunci Jawaban:** kepala dan leher dijaga sesuai arahan guru
+**Kunci Jawaban:** perlahan dengan tubuh menyesuaikan
 
-**Pembahasan:** Sikap tubuh saat berguling: kepala dan leher dijaga sesuai arahan guru.
+**Pembahasan:** Perubahan arah kaki dilakukan perlahan agar tubuh dapat menjaga kestabilan.
 
 ---
 
 ## Soal 39 — K03-PJK-B04-M01-039
 
-![Ilustrasi Teman saat senam](assets/pjk-b04-gambar-04.svg)
+![Urutan aman kembali dari sikap lilin](assets/pjk-b04-gambar-04.svg)
 
-**Pertanyaan:** Dua siswa berbagi matras. Bagaimana mereka mengatur waktu dan jarak?
+**Pertanyaan:** Urutan sikap lilin pada gambar berakhir dengan lutut ditekuk sebelum tubuh turun. Mengapa tahap itu dilakukan?
 
 **Pilihan jawaban:**
-- saling mendorong
-- mengganggu gerakan
-- melempar alat
-- bergiliran dan menjaga jarak aman
+- agar gerak kembali lebih terkendali
+- agar leher menerima seluruh beban
+- agar kaki jatuh lebih cepat
+- agar tubuh berputar ke samping
 
-**Kunci Jawaban:** bergiliran dan menjaga jarak aman
+**Kunci Jawaban:** agar gerak kembali lebih terkendali
 
-**Pembahasan:** Teman saat senam: bergiliran dan menjaga jarak aman.
+**Pembahasan:** Menekuk lutut sebelum turun membantu mengendalikan gerak kembali ke posisi telentang.
 
 ---
 
 ## Soal 40 — K03-PJK-B04-M01-040
 
-![Ilustrasi Gerak dominan senam](assets/pjk-b04-gambar-05.svg)
+![Perbandingan tempat latihan senam aman dan tidak aman](assets/pjk-b04-gambar-05.svg)
 
-**Pertanyaan:** Gambar memperlihatkan rangkaian tumpuan dan gerak. Kelompok kemampuan senam apa yang dilatih?
+**Pertanyaan:** Gambar membandingkan dua tempat latihan. A memakai matras dengan guru di dekatnya; B berada di lantai keras tanpa pengawasan. Pilihan yang sesuai adalah ....
 
 **Pilihan jawaban:**
-- hanya berenang
-- hanya berlari
-- meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran
-- hanya menendang bola
+- tempat A
+- tempat B
+- keduanya sama aman
+- latihan di tangga
 
-**Kunci Jawaban:** meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran
+**Kunci Jawaban:** tempat A
 
-**Pembahasan:** Gerak dominan senam: meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran.
+**Pembahasan:** Gerak senam yang memerlukan alas dilakukan di matras dan dengan arahan guru.
 
 ---
 
 ## Soal 41 — K03-PJK-B04-M01-041
 
-![Ilustrasi Bertumpu](assets/pjk-b04-gambar-06.svg)
+![Urutan empat fase lompat kangkang](assets/pjk-b04-gambar-06.svg)
 
-**Pertanyaan:** Siswa menahan sebagian berat tubuh di atas tangan dan kaki. Gerak yang sesuai ialah ....
+**Pertanyaan:** Empat kartu gerak bernomor menunjukkan persiapan, tolakan, kaki membuka saat melayang, dan mendarat. Urutan yang benar adalah ....
 
 **Pilihan jawaban:**
-- berlari sprint
-- menopang berat badan dengan bagian tubuh tertentu
-- melempar bola
-- berenang jauh
+- 1–2–3–4
+- 2–1–4–3
+- 3–4–1–2
+- 4–3–2–1
 
-**Kunci Jawaban:** menopang berat badan dengan bagian tubuh tertentu
+**Kunci Jawaban:** 1–2–3–4
 
-**Pembahasan:** Bertumpu: menopang berat badan dengan bagian tubuh tertentu.
+**Pembahasan:** Lompat kangkang berlangsung dari persiapan ke tolakan, melayang dengan kaki terbuka, lalu pendaratan.
 
 ---
 
 ## Soal 42 — K03-PJK-B04-M01-042
 
-![Ilustrasi Berguling depan](assets/pjk-b04-gambar-07.svg)
+![Perbandingan pendaratan lutut lentur dan kaku](assets/pjk-b04-gambar-07.svg)
 
-**Pertanyaan:** Siswa bergerak berguling ke depan menggunakan matras dan pengawasan. Manakah uraian yang tepat?
+**Pertanyaan:** Dua pendaratan terlihat pada gambar. A mendarat dengan lutut lentur; B dengan lutut kaku. Pendaratan yang lebih terkendali adalah ....
 
 **Pilihan jawaban:**
-- menggulingkan tubuh ke depan di matras dengan bimbingan
-- melompat dari atap
-- menendang bola
-- berlari mundur
+- pendaratan A
+- pendaratan B
+- keduanya harus dengan satu kaki
+- keduanya dilakukan sambil menutup mata
 
-**Kunci Jawaban:** menggulingkan tubuh ke depan di matras dengan bimbingan
+**Kunci Jawaban:** pendaratan A
 
-**Pembahasan:** Berguling depan: menggulingkan tubuh ke depan di matras dengan bimbingan.
+**Pembahasan:** Lutut lentur membantu meredam beban dan menjaga keseimbangan ketika mendarat.
 
 ---
 
 ## Soal 43 — K03-PJK-B04-M01-043
 
-![Ilustrasi Sikap keseimbangan](assets/pjk-b04-gambar-08.svg)
+![Tahapan latihan lompat kangkang dari garis ke alat](assets/pjk-b04-gambar-08.svg)
 
-**Pertanyaan:** Anak berusaha tetap stabil pada satu posisi. Keterampilan apa yang dilatih?
+**Pertanyaan:** Pilihan latihan A memakai garis lantai, B memakai rintangan rendah, dan C memakai peti tinggi. Untuk pemula yang masih ragu, tahap awal yang tepat adalah ....
 
 **Pilihan jawaban:**
-- mendorong teman
-- berlari tanpa arah
-- melempar bola
-- menjaga tubuh tetap stabil
+- latihan A
+- latihan B dan C sekaligus
+- langsung latihan C
+- tidak perlu pemanasan
 
-**Kunci Jawaban:** menjaga tubuh tetap stabil
+**Kunci Jawaban:** latihan A
 
-**Pembahasan:** Sikap keseimbangan: menjaga tubuh tetap stabil.
+**Pembahasan:** Pola membuka kaki dapat dipelajari lebih dahulu melalui garis lantai sebelum rintangan ditambah bertahap.
 
 ---
 
 ## Soal 44 — K03-PJK-B04-M01-044
 
-![Ilustrasi Matras senam](assets/pjk-b04-gambar-09.svg)
+![Diagram area pendaratan yang masih terhalang](assets/pjk-b04-gambar-09.svg)
 
-**Pertanyaan:** Seorang guru memasang alas latihan lunak. Mengapa alas tersebut digunakan?
+**Pertanyaan:** Pada diagram, seorang teman masih berada di area pendaratan. Apa yang harus dilakukan pelompat?
 
 **Pilihan jawaban:**
-- dipakai sebagai bola
-- dipakai untuk berenang
-- membantu menyediakan permukaan latihan yang lebih aman
-- digunakan untuk melempar
+- menunggu sampai area kosong
+- melompat melewati teman
+- meminta teman tetap duduk
+- menambah kecepatan awalan
 
-**Kunci Jawaban:** membantu menyediakan permukaan latihan yang lebih aman
+**Kunci Jawaban:** menunggu sampai area kosong
 
-**Pembahasan:** Matras senam: membantu menyediakan permukaan latihan yang lebih aman.
+**Pembahasan:** Area pendaratan harus bebas orang dan benda sebelum pelompat mulai.
 
 ---
 
 ## Soal 45 — K03-PJK-B04-M01-045
 
-![Ilustrasi Gerakan mendarat](assets/pjk-b04-gambar-10.svg)
+![Tabel waktu tiga percobaan keseimbangan](assets/pjk-b04-gambar-10.svg)
 
-**Pertanyaan:** Anak turun dari gerak meloncat rendah. Cara mendarat yang tepat adalah ....
+**Pertanyaan:** Tabel menunjukkan waktu seimbang: percobaan 1 = 3 detik, percobaan 2 = 5 detik, percobaan 3 = 6 detik. Percobaan terlama adalah ....
 
 **Pilihan jawaban:**
-- dilakukan sambil mendorong teman
-- dilakukan terkendali dengan lutut tidak kaku
-- dilakukan sambil menutup mata
-- dilakukan di lantai licin
+- percobaan 1
+- percobaan 2
+- percobaan 3
+- semuanya sama
 
-**Kunci Jawaban:** dilakukan terkendali dengan lutut tidak kaku
+**Kunci Jawaban:** percobaan 3
 
-**Pembahasan:** Gerakan mendarat: dilakukan terkendali dengan lutut tidak kaku.
+**Pembahasan:** Enam detik adalah waktu terbesar pada tabel, yaitu percobaan ketiga.
 
 ---
+

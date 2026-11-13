@@ -1,563 +1,564 @@
 # Unit 4 — Aktivitas Gerak Dominan Senam
 
-35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
+35 soal teks; seluruh butir telah diaudit terhadap cakupan resmi keseimbangan, sikap lilin, dan lompat kangkang serta batas keselamatan senam. ID dan jumlah dipertahankan.
 
 ## Soal 1 — K03-PJK-B04-M01-001
 
-**Pertanyaan:** Saat latihan dasar senam, telapak tangan membantu menopang tubuh. Gerak dominan apa yang tampak?
+**Pertanyaan:** Pola gerak dominan senam adalah pola gerak yang sering menjadi dasar berbagai gerakan senam. Contohnya adalah ....
 
 **Pilihan jawaban:**
-- berlari sprint
-- menopang berat badan dengan bagian tubuh tertentu
-- melempar bola
-- berenang jauh
+- bertumpu, menjaga keseimbangan, melayang, dan mendarat
+- membaca, menulis, menghitung, dan menggambar
+- melempar, menangkap, menendang, dan menggiring
+- bernapas di air, mengapung, dan menyelam
 
-**Kunci Jawaban:** menopang berat badan dengan bagian tubuh tertentu
+**Kunci Jawaban:** bertumpu, menjaga keseimbangan, melayang, dan mendarat
 
-**Pembahasan:** Bertumpu: menopang berat badan dengan bagian tubuh tertentu.
+**Pembahasan:** Bertumpu, keseimbangan, tolakan, melayang, dan mendarat termasuk pola gerak dominan dalam senam.
 
 ---
 
 ## Soal 2 — K03-PJK-B04-M01-002
 
-**Pertanyaan:** Guru menyiapkan matras dan membimbing gerak tubuh berputar ke arah depan. Manakah uraian yang tepat?
+**Pertanyaan:** Ketika tubuh bertahan pada satu posisi tanpa berpindah, kemampuan yang paling banyak digunakan adalah ....
 
 **Pilihan jawaban:**
-- menggulingkan tubuh ke depan di matras dengan bimbingan
-- melompat dari atap
-- menendang bola
-- berlari mundur
+- keseimbangan statis
+- kecepatan berlari
+- ketepatan melempar
+- daya apung
 
-**Kunci Jawaban:** menggulingkan tubuh ke depan di matras dengan bimbingan
+**Kunci Jawaban:** keseimbangan statis
 
-**Pembahasan:** Berguling depan: menggulingkan tubuh ke depan di matras dengan bimbingan.
+**Pembahasan:** Keseimbangan statis berarti menjaga tubuh tetap stabil saat posisi relatif diam.
 
 ---
 
 ## Soal 3 — K03-PJK-B04-M01-003
 
-**Pertanyaan:** Siswa berdiri pada posisi yang ditunjukkan guru tanpa jatuh. Kemampuan yang dilatih adalah ....
+**Pertanyaan:** Agar lebih mudah seimbang saat berdiri, seorang anak dapat memperlebar jarak kedua kaki. Perubahan itu membuat ....
 
 **Pilihan jawaban:**
-- mendorong teman
-- berlari tanpa arah
-- melempar bola
-- menjaga tubuh tetap stabil
+- bidang tumpuan lebih lebar
+- tubuh selalu lebih tinggi
+- gerakan menjadi lebih cepat
+- semua beban hilang
 
-**Kunci Jawaban:** menjaga tubuh tetap stabil
+**Kunci Jawaban:** bidang tumpuan lebih lebar
 
-**Pembahasan:** Sikap keseimbangan: menjaga tubuh tetap stabil.
+**Pembahasan:** Bidang tumpuan yang lebih lebar umumnya membantu kestabilan tubuh.
 
 ---
 
 ## Soal 4 — K03-PJK-B04-M01-004
 
-**Pertanyaan:** Untuk latihan lantai, guru memilih alas empuk yang sesuai. Fungsinya adalah ....
+**Pertanyaan:** Pada posisi seperti merangkak, tangan diletakkan di lantai sejajar bahu dan jari dibuka. Tujuannya adalah ....
 
 **Pilihan jawaban:**
-- dipakai sebagai bola
-- dipakai untuk berenang
-- membantu menyediakan permukaan latihan yang lebih aman
-- digunakan untuk melempar
+- membentuk tumpuan tangan yang mantap
+- memindahkan beban seluruhnya ke kepala
+- membuat tubuh berputar cepat
+- mengurangi kebutuhan melihat arah
 
-**Kunci Jawaban:** membantu menyediakan permukaan latihan yang lebih aman
+**Kunci Jawaban:** membentuk tumpuan tangan yang mantap
 
-**Pembahasan:** Matras senam: membantu menyediakan permukaan latihan yang lebih aman.
+**Pembahasan:** Posisi tangan sejajar bahu dan jari terbuka membantu membagi tumpuan dengan lebih mantap.
 
 ---
 
 ## Soal 5 — K03-PJK-B04-M01-005
 
-**Pertanyaan:** Seorang siswa turun dari loncatan rendah dan menekuk lututnya secara wajar. Ini menunjukkan ....
+**Pertanyaan:** Dari posisi tangan dan lutut, kaki kanan diangkat ke belakang. Agar seimbang, anggota tubuh yang dapat diangkat sebagai pasangannya adalah ....
 
 **Pilihan jawaban:**
-- dilakukan sambil mendorong teman
-- dilakukan terkendali dengan lutut tidak kaku
-- dilakukan sambil menutup mata
-- dilakukan di lantai licin
+- tangan kiri
+- tangan kanan dan kaki kiri sekaligus
+- kedua tangan
+- kepala
 
-**Kunci Jawaban:** dilakukan terkendali dengan lutut tidak kaku
+**Kunci Jawaban:** tangan kiri
 
-**Pembahasan:** Gerakan mendarat: dilakukan terkendali dengan lutut tidak kaku.
+**Pembahasan:** Mengangkat tangan yang berlawanan dengan kaki membantu melatih keseimbangan silang secara terkendali.
 
 ---
 
 ## Soal 6 — K03-PJK-B04-M01-006
 
-**Pertanyaan:** Ada siswa yang belum siap melakukan gerakan senam tertentu. Bagaimana guru seharusnya mengatur latihan?
+**Pertanyaan:** Saat latihan berdiri pada satu kaki, gerakan perlu dilakukan bergantian antara kaki kanan dan kiri supaya ....
 
 **Pilihan jawaban:**
-- dilakukan sesuai kemampuan dan arahan guru
-- dipaksa sampai sakit
-- selalu dilakukan sendirian
-- harus di tempat sempit
+- kedua sisi tubuh mendapat kesempatan berlatih
+- kaki tumpu tidak pernah menyentuh lantai
+- latihan selalu menjadi lebih sulit
+- anak dapat berputar tanpa kendali
 
-**Kunci Jawaban:** dilakukan sesuai kemampuan dan arahan guru
+**Kunci Jawaban:** kedua sisi tubuh mendapat kesempatan berlatih
 
-**Pembahasan:** Latihan senam dasar: dilakukan sesuai kemampuan dan arahan guru.
+**Pembahasan:** Pergantian kaki memberi pengalaman gerak pada kedua sisi tubuh dan menjaga latihan lebih seimbang.
 
 ---
 
 ## Soal 7 — K03-PJK-B04-M01-007
 
-**Pertanyaan:** Sebelum aktivitas bertumpu dan berguling, siswa melakukan gerak persiapan. Apa manfaatnya?
+**Pertanyaan:** Rani mengangkat satu kaki ke belakang. Ia merentangkan kedua lengan ke samping. Fungsi lengan tersebut adalah ....
 
 **Pilihan jawaban:**
-- menggantikan seluruh latihan
-- membuat tidak perlu minum
-- menghilangkan risiko sepenuhnya
-- mempersiapkan otot dan sendi
+- membantu menjaga keseimbangan
+- menambah tinggi lompatan secara otomatis
+- menggantikan fungsi kaki tumpu
+- mendorong teman di sebelahnya
 
-**Kunci Jawaban:** mempersiapkan otot dan sendi
+**Kunci Jawaban:** membantu menjaga keseimbangan
 
-**Pembahasan:** Pemanasan senam: mempersiapkan otot dan sendi.
+**Pembahasan:** Rentangan lengan membantu tubuh mengatur kestabilan ketika bidang tumpuan mengecil.
 
 ---
 
 ## Soal 8 — K03-PJK-B04-M01-008
 
-**Pertanyaan:** Pada latihan berguling, guru menekankan posisi kepala dan leher yang aman. Pilih prinsip yang tepat.
+**Pertanyaan:** Dalam rangkaian keseimbangan, kaki bebas digerakkan perlahan ke depan, samping, lalu belakang. Mengapa geraknya dilakukan perlahan?
 
 **Pilihan jawaban:**
-- mata selalu ditutup
-- teman ditarik
-- kepala dan leher dijaga sesuai arahan guru
-- leher ditumpu paksa
+- agar pusat tubuh dapat menyesuaikan perubahan posisi
+- agar kaki tidak perlu kembali ke lantai
+- agar tubuh dapat jatuh lebih cepat
+- agar teman sulit mengikuti
 
-**Kunci Jawaban:** kepala dan leher dijaga sesuai arahan guru
+**Kunci Jawaban:** agar pusat tubuh dapat menyesuaikan perubahan posisi
 
-**Pembahasan:** Sikap tubuh saat berguling: kepala dan leher dijaga sesuai arahan guru.
+**Pembahasan:** Gerak perlahan memberi waktu kepada tubuh untuk menyesuaikan keseimbangan.
 
 ---
 
 ## Soal 9 — K03-PJK-B04-M01-009
 
-**Pertanyaan:** Dua siswa berlatih di satu matras kecil. Bagaimana pengaturan giliran yang aman?
+**Pertanyaan:** Saat berdiri satu kaki, pandangan diarahkan ke satu titik yang tidak bergerak. Kebiasaan ini dapat ....
 
 **Pilihan jawaban:**
-- melempar alat
-- bergiliran dan menjaga jarak aman
-- saling mendorong
-- mengganggu gerakan
+- membantu mempertahankan orientasi dan kestabilan
+- menghilangkan kebutuhan akan tumpuan
+- membuat lantai menjadi lebih empuk
+- menjamin tidak akan pernah jatuh
 
-**Kunci Jawaban:** bergiliran dan menjaga jarak aman
+**Kunci Jawaban:** membantu mempertahankan orientasi dan kestabilan
 
-**Pembahasan:** Teman saat senam: bergiliran dan menjaga jarak aman.
+**Pembahasan:** Titik pandang yang tetap dapat membantu orientasi, walaupun keselamatan tetap memerlukan ruang dan tumpuan yang sesuai.
 
 ---
 
 ## Soal 10 — K03-PJK-B04-M01-010
 
-**Pertanyaan:** Latihan terdiri atas menopang tubuh, menjaga stabilitas, dan gerak berguling. Ini termasuk ....
+**Pertanyaan:** Tempat paling tepat untuk latihan keseimbangan dasar adalah ....
 
 **Pilihan jawaban:**
-- meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran
-- hanya menendang bola
-- hanya berenang
-- hanya berlari
+- permukaan rata, tidak licin, dan bebas benda penghalang
+- lantai basah di dekat tangga
+- meja tinggi tanpa pengawasan
+- jalan yang dilalui kendaraan
 
-**Kunci Jawaban:** meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran
+**Kunci Jawaban:** permukaan rata, tidak licin, dan bebas benda penghalang
 
-**Pembahasan:** Gerak dominan senam: meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran.
+**Pembahasan:** Permukaan rata dan area bebas penghalang mengurangi risiko terpeleset atau menabrak benda.
 
 ---
 
 ## Soal 11 — K03-PJK-B04-M01-011
 
-**Pertanyaan:** Siswa membagi berat tubuh antara kaki dan tangan pada posisi aman. Penjelasan yang sesuai ialah ....
+**Pertanyaan:** Sikap awal sikap lilin dalam pembelajaran adalah ....
 
 **Pilihan jawaban:**
-- melempar bola
-- berenang jauh
-- berlari sprint
-- menopang berat badan dengan bagian tubuh tertentu
+- telentang di atas matras
+- berdiri di atas meja
+- duduk di tepi tangga
+- berlari menuju dinding
 
-**Kunci Jawaban:** menopang berat badan dengan bagian tubuh tertentu
+**Kunci Jawaban:** telentang di atas matras
 
-**Pembahasan:** Bertumpu: menopang berat badan dengan bagian tubuh tertentu.
+**Pembahasan:** Sikap lilin dimulai dari posisi telentang di atas matras sesuai arahan guru.
 
 ---
 
 ## Soal 12 — K03-PJK-B04-M01-012
 
-**Pertanyaan:** Seorang siswa akan mencoba gerak berguling. Apa syarat bimbingan dan alas yang sesuai?
+**Pertanyaan:** Pada sikap lilin, kedua tangan digunakan untuk ....
 
 **Pilihan jawaban:**
-- menendang bola
-- berlari mundur
-- menggulingkan tubuh ke depan di matras dengan bimbingan
-- melompat dari atap
+- menopang pinggang secara terkendali
+- menekan leher ke matras
+- menarik kepala ke depan
+- menutup mata sepanjang gerakan
 
-**Kunci Jawaban:** menggulingkan tubuh ke depan di matras dengan bimbingan
+**Kunci Jawaban:** menopang pinggang secara terkendali
 
-**Pembahasan:** Berguling depan: menggulingkan tubuh ke depan di matras dengan bimbingan.
+**Pembahasan:** Tangan menopang pinggang; beban tidak boleh dipaksakan pada leher atau kepala.
 
 ---
 
 ## Soal 13 — K03-PJK-B04-M01-013
 
-**Pertanyaan:** Saat bergerak lambat di atas garis lantai, anak harus tetap stabil. Uraian yang tepat adalah ....
+**Pertanyaan:** Ketika kembali dari sikap lilin ke posisi telentang, urutan yang lebih terkendali adalah ....
 
 **Pilihan jawaban:**
-- melempar bola
-- menjaga tubuh tetap stabil
-- mendorong teman
-- berlari tanpa arah
+- tekuk lutut perlahan lalu turunkan tubuh sesuai arahan guru
+- jatuhkan kedua kaki secepat mungkin
+- putar leher ke samping sambil menahan napas
+- dorong pinggang dengan keras hingga berguling
 
-**Kunci Jawaban:** menjaga tubuh tetap stabil
+**Kunci Jawaban:** tekuk lutut perlahan lalu turunkan tubuh sesuai arahan guru
 
-**Pembahasan:** Sikap keseimbangan: menjaga tubuh tetap stabil.
+**Pembahasan:** Menekuk lutut dan turun perlahan membantu mengendalikan gerak kembali.
 
 ---
 
 ## Soal 14 — K03-PJK-B04-M01-014
 
-**Pertanyaan:** Siswa tidak dianjurkan mencoba guling di lantai keras. Peralatan yang dibutuhkan berfungsi untuk ....
+**Pertanyaan:** Mengapa sikap lilin perlu dilakukan di atas matras dan di bawah arahan guru?
 
 **Pilihan jawaban:**
-- membantu menyediakan permukaan latihan yang lebih aman
-- digunakan untuk melempar
-- dipakai sebagai bola
-- dipakai untuk berenang
+- karena posisi terbalik memerlukan pengaturan tubuh dan keselamatan
+- karena matras membuat anak selalu berhasil
+- karena guru harus memberi nilai sebelum pemanasan
+- karena gerakan itu harus dilakukan secepat mungkin
 
-**Kunci Jawaban:** membantu menyediakan permukaan latihan yang lebih aman
+**Kunci Jawaban:** karena posisi terbalik memerlukan pengaturan tubuh dan keselamatan
 
-**Pembahasan:** Matras senam: membantu menyediakan permukaan latihan yang lebih aman.
+**Pembahasan:** Sikap terbalik perlu alas yang sesuai, contoh yang benar, pengawasan, dan penyesuaian kemampuan.
 
 ---
 
 ## Soal 15 — K03-PJK-B04-M01-015
 
-**Pertanyaan:** Guru mengingatkan agar lutut tidak terkunci saat kaki menyentuh lantai. Prinsipnya ialah ....
+**Pertanyaan:** Ketika latihan sikap lilin, leher terasa nyeri. Tindakan yang tepat adalah ....
 
 **Pilihan jawaban:**
-- dilakukan sambil menutup mata
-- dilakukan di lantai licin
-- dilakukan sambil mendorong teman
-- dilakukan terkendali dengan lutut tidak kaku
+- segera berhenti dan memberi tahu guru
+- menahan rasa sakit sampai hitungan selesai
+- memutar kepala ketika kaki masih terangkat
+- mengulangi gerakan tanpa istirahat
 
-**Kunci Jawaban:** dilakukan terkendali dengan lutut tidak kaku
+**Kunci Jawaban:** segera berhenti dan memberi tahu guru
 
-**Pembahasan:** Gerakan mendarat: dilakukan terkendali dengan lutut tidak kaku.
+**Pembahasan:** Nyeri pada leher atau kepala adalah tanda untuk menghentikan aktivitas dan meminta bantuan.
 
 ---
 
 ## Soal 16 — K03-PJK-B04-M01-016
 
-**Pertanyaan:** Gerakan baru terasa sulit bagi beberapa anak. Prinsip pembelajaran yang sesuai ialah ....
+**Pertanyaan:** Ciri gerak kaki saat melayang pada lompat kangkang adalah ....
 
 **Pilihan jawaban:**
-- selalu dilakukan sendirian
-- harus di tempat sempit
-- dilakukan sesuai kemampuan dan arahan guru
-- dipaksa sampai sakit
+- kedua kaki dibuka ke samping
+- kedua kaki disilangkan rapat
+- satu kaki menendang ke belakang teman
+- kedua lutut menempel pada dada sepanjang waktu
 
-**Kunci Jawaban:** dilakukan sesuai kemampuan dan arahan guru
+**Kunci Jawaban:** kedua kaki dibuka ke samping
 
-**Pembahasan:** Latihan senam dasar: dilakukan sesuai kemampuan dan arahan guru.
+**Pembahasan:** Kata kangkang menunjukkan kedua kaki dibuka ke samping saat fase melayang melewati rintangan.
 
 ---
 
 ## Soal 17 — K03-PJK-B04-M01-017
 
-**Pertanyaan:** Guru mengawali senam dengan pemanasan tubuh. Tujuan yang sesuai adalah ....
+**Pertanyaan:** Urutan sederhana lompat kangkang yang benar adalah ....
 
 **Pilihan jawaban:**
-- menghilangkan risiko sepenuhnya
-- mempersiapkan otot dan sendi
-- menggantikan seluruh latihan
-- membuat tidak perlu minum
+- persiapan, tolakan, kaki membuka saat melayang, lalu mendarat
+- mendarat, berlari, tidur, lalu menolak
+- melayang, duduk, menolak, lalu berbalik
+- menolak dengan tangan, menutup mata, lalu jatuh
 
-**Kunci Jawaban:** mempersiapkan otot dan sendi
+**Kunci Jawaban:** persiapan, tolakan, kaki membuka saat melayang, lalu mendarat
 
-**Pembahasan:** Pemanasan senam: mempersiapkan otot dan sendi.
+**Pembahasan:** Gerak dilakukan berurutan dari persiapan dan tolakan, fase melayang dengan kaki membuka, kemudian pendaratan.
 
 ---
 
 ## Soal 18 — K03-PJK-B04-M01-018
 
-**Pertanyaan:** Siswa hendak melakukan guling tetapi belum memahami posisi kepala. Apa tindakan yang seharusnya dilakukan?
+**Pertanyaan:** Untuk tahap awal latihan kangkang, guru sebaiknya ....
 
 **Pilihan jawaban:**
-- kepala dan leher dijaga sesuai arahan guru
-- leher ditumpu paksa
-- mata selalu ditutup
-- teman ditarik
+- memakai rintangan rendah atau tanda lantai sesuai kemampuan
+- langsung memakai peti tinggi untuk semua anak
+- meminta anak mencoba sendiri di rumah
+- menambah ketinggian ketika anak masih takut
 
-**Kunci Jawaban:** kepala dan leher dijaga sesuai arahan guru
+**Kunci Jawaban:** memakai rintangan rendah atau tanda lantai sesuai kemampuan
 
-**Pembahasan:** Sikap tubuh saat berguling: kepala dan leher dijaga sesuai arahan guru.
+**Pembahasan:** Latihan bertahap dimulai dari tantangan rendah dan disesuaikan dengan kesiapan peserta didik.
 
 ---
 
 ## Soal 19 — K03-PJK-B04-M01-019
 
-**Pertanyaan:** Seorang siswa mendekati teman yang sedang berguling. Apa aturan jarak yang tepat?
+**Pertanyaan:** Saat bertumpu dengan dua tangan pada alat senam, posisi tangan harus ....
 
 **Pilihan jawaban:**
-- saling mendorong
-- mengganggu gerakan
-- melempar alat
-- bergiliran dan menjaga jarak aman
+- diletakkan mantap pada tempat yang ditunjukkan guru
+- digeser saat tubuh sedang melayang
+- diletakkan pada bagian alat yang goyah
+- dipakai menarik pakaian teman
 
-**Kunci Jawaban:** bergiliran dan menjaga jarak aman
+**Kunci Jawaban:** diletakkan mantap pada tempat yang ditunjukkan guru
 
-**Pembahasan:** Teman saat senam: bergiliran dan menjaga jarak aman.
+**Pembahasan:** Tumpuan tangan harus mantap pada alat yang stabil dan hanya dilakukan sesuai demonstrasi serta pengawasan guru.
 
 ---
 
 ## Soal 20 — K03-PJK-B04-M01-020
 
-**Pertanyaan:** Guru memperlihatkan kegiatan bertumpu dan keseimbangan. Kelompok gerak apakah yang dipelajari?
+**Pertanyaan:** Pendaratan setelah lompatan dilakukan dengan dua kaki dan lutut lentur. Tujuannya adalah ....
 
 **Pilihan jawaban:**
-- hanya berenang
-- hanya berlari
-- meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran
-- hanya menendang bola
+- membantu menyerap beban pendaratan secara terkendali
+- membuat lutut terkunci sekeras mungkin
+- memindahkan seluruh beban ke kepala
+- membuat tubuh langsung berputar
 
-**Kunci Jawaban:** meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran
+**Kunci Jawaban:** membantu menyerap beban pendaratan secara terkendali
 
-**Pembahasan:** Gerak dominan senam: meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran.
+**Pembahasan:** Lutut yang lentur membantu meredam beban dan menjaga keseimbangan saat mendarat.
 
 ---
 
 ## Soal 21 — K03-PJK-B04-M01-021
 
-**Pertanyaan:** Apa prinsip gerak ketika sebagian berat badan ditopang tangan atau kaki?
+**Pertanyaan:** Sebelum seorang anak melompat, area pendaratan harus ....
 
 **Pilihan jawaban:**
-- berlari sprint
-- menopang berat badan dengan bagian tubuh tertentu
-- melempar bola
-- berenang jauh
+- kosong, rata, dan memiliki alas yang sesuai
+- dipenuhi tas agar tidak bergeser
+- digunakan teman untuk duduk
+- dibuat licin supaya mudah meluncur
 
-**Kunci Jawaban:** menopang berat badan dengan bagian tubuh tertentu
+**Kunci Jawaban:** kosong, rata, dan memiliki alas yang sesuai
 
-**Pembahasan:** Bertumpu: menopang berat badan dengan bagian tubuh tertentu.
+**Pembahasan:** Jalur dan area pendaratan harus bebas orang maupun benda serta memakai alas yang sesuai.
 
 ---
 
 ## Soal 22 — K03-PJK-B04-M01-022
 
-**Pertanyaan:** Dalam senam, tubuh berpindah mengikuti gerak berguling ke depan. Pilih penjelasan benar.
+**Pertanyaan:** Awalan menuju tempat tolakan seharusnya dilakukan ....
 
 **Pilihan jawaban:**
-- menggulingkan tubuh ke depan di matras dengan bimbingan
-- melompat dari atap
-- menendang bola
-- berlari mundur
+- dengan kecepatan yang dapat dikendalikan
+- secepat mungkin tanpa melihat alat
+- sambil mendorong peserta di depan
+- dengan mata tertutup agar tidak takut
 
-**Kunci Jawaban:** menggulingkan tubuh ke depan di matras dengan bimbingan
+**Kunci Jawaban:** dengan kecepatan yang dapat dikendalikan
 
-**Pembahasan:** Berguling depan: menggulingkan tubuh ke depan di matras dengan bimbingan.
+**Pembahasan:** Awalan yang terkendali membantu ketepatan tolakan dan mengurangi risiko menabrak alat.
 
 ---
 
 ## Soal 23 — K03-PJK-B04-M01-023
 
-**Pertanyaan:** Mengapa postur stabil penting saat melakukan gerak dominan senam?
+**Pertanyaan:** Perbedaan tolakan dan pendaratan adalah ....
 
 **Pilihan jawaban:**
-- mendorong teman
-- berlari tanpa arah
-- melempar bola
-- menjaga tubuh tetap stabil
+- tolakan mengangkat tubuh, sedangkan pendaratan menerima tubuh kembali
+- tolakan dilakukan setelah selesai, sedangkan pendaratan sebelum mulai
+- tolakan memakai kepala, sedangkan pendaratan memakai tangan saja
+- keduanya selalu terjadi tanpa menyentuh lantai
 
-**Kunci Jawaban:** menjaga tubuh tetap stabil
+**Kunci Jawaban:** tolakan mengangkat tubuh, sedangkan pendaratan menerima tubuh kembali
 
-**Pembahasan:** Sikap keseimbangan: menjaga tubuh tetap stabil.
+**Pembahasan:** Tolakan menghasilkan dorongan untuk melayang, sedangkan pendaratan mengendalikan tubuh ketika kembali ke permukaan.
 
 ---
 
 ## Soal 24 — K03-PJK-B04-M01-024
 
-**Pertanyaan:** Mengapa pemilihan alas latihan termasuk bagian penting keselamatan senam?
+**Pertanyaan:** Setelah beberapa kali melompat, kaki seorang siswa mulai lelah dan geraknya tidak stabil. Ia sebaiknya ....
 
 **Pilihan jawaban:**
-- dipakai sebagai bola
-- dipakai untuk berenang
-- membantu menyediakan permukaan latihan yang lebih aman
-- digunakan untuk melempar
+- beristirahat dan melapor kepada guru sebelum melanjutkan
+- menambah ketinggian rintangan
+- melompat lebih cepat agar lekas selesai
+- menyembunyikan rasa lelah dari guru
 
-**Kunci Jawaban:** membantu menyediakan permukaan latihan yang lebih aman
+**Kunci Jawaban:** beristirahat dan melapor kepada guru sebelum melanjutkan
 
-**Pembahasan:** Matras senam: membantu menyediakan permukaan latihan yang lebih aman.
+**Pembahasan:** Kelelahan dapat menurunkan kendali gerak, sehingga perlu istirahat dan penilaian guru.
 
 ---
 
 ## Soal 25 — K03-PJK-B04-M01-025
 
-**Pertanyaan:** Apa cara mendarat yang lebih terkendali sesudah gerak senam?
+**Pertanyaan:** Seorang anak belum siap melewati peti lompat. Penyesuaian yang tepat adalah ....
 
 **Pilihan jawaban:**
-- dilakukan sambil mendorong teman
-- dilakukan terkendali dengan lutut tidak kaku
-- dilakukan sambil menutup mata
-- dilakukan di lantai licin
+- berlatih pola membuka kaki melewati garis atau rintangan sangat rendah
+- memaksa melompati alat yang sama
+- mencoba tanpa matras dan tanpa guru
+- mengganti latihan dengan berdiri di atas kepala
 
-**Kunci Jawaban:** dilakukan terkendali dengan lutut tidak kaku
+**Kunci Jawaban:** berlatih pola membuka kaki melewati garis atau rintangan sangat rendah
 
-**Pembahasan:** Gerakan mendarat: dilakukan terkendali dengan lutut tidak kaku.
+**Pembahasan:** Gerak dapat disederhanakan tanpa menghilangkan tujuan belajar dan tanpa memaksa anak.
 
 ---
 
 ## Soal 26 — K03-PJK-B04-M01-026
 
-**Pertanyaan:** Bagaimana memilih tingkat kesulitan kegiatan senam untuk siswa dengan kemampuan berbeda?
+**Pertanyaan:** Berdiri dengan kepala termasuk gerakan berisiko tinggi. Sikap yang benar bagi siswa kelas tiga adalah ....
 
 **Pilihan jawaban:**
-- dilakukan sesuai kemampuan dan arahan guru
-- dipaksa sampai sakit
-- selalu dilakukan sendirian
-- harus di tempat sempit
+- tidak mencoba sendiri dan hanya mengikuti keputusan guru yang kompeten
+- berlatih sendiri di rumah dekat dinding
+- meminta teman mengangkat kedua kaki
+- mengulang sampai leher terasa sakit
 
-**Kunci Jawaban:** dilakukan sesuai kemampuan dan arahan guru
+**Kunci Jawaban:** tidak mencoba sendiri dan hanya mengikuti keputusan guru yang kompeten
 
-**Pembahasan:** Latihan senam dasar: dilakukan sesuai kemampuan dan arahan guru.
+**Pembahasan:** Gerakan bertumpu pada kepala tidak boleh dipraktikkan mandiri; keselamatan dan keputusan guru yang kompeten menjadi batas utama.
 
 ---
 
 ## Soal 27 — K03-PJK-B04-M01-027
 
-**Pertanyaan:** Mengapa pemanasan dilakukan sebelum gerakan senam utama?
+**Pertanyaan:** Ketika satu anak menggunakan matras, teman yang menunggu perlu ....
 
 **Pilihan jawaban:**
-- menggantikan seluruh latihan
-- membuat tidak perlu minum
-- menghilangkan risiko sepenuhnya
-- mempersiapkan otot dan sendi
+- berada di luar area gerak dan mengikuti urutan giliran
+- duduk di ujung matras yang sama
+- melintas di depan anak yang bergerak
+- mendorong dari belakang tanpa diminta
 
-**Kunci Jawaban:** mempersiapkan otot dan sendi
+**Kunci Jawaban:** berada di luar area gerak dan mengikuti urutan giliran
 
-**Pembahasan:** Pemanasan senam: mempersiapkan otot dan sendi.
+**Pembahasan:** Area gerak harus hanya digunakan satu pelaku sesuai pengaturan guru.
 
 ---
 
 ## Soal 28 — K03-PJK-B04-M01-028
 
-**Pertanyaan:** Apa yang harus diprioritaskan agar kepala dan leher tidak menanggung tekanan yang tidak aman saat berguling?
+**Pertanyaan:** Dalam latihan senam, teman tidak boleh menarik atau menopang tubuh sembarangan karena ....
 
 **Pilihan jawaban:**
-- mata selalu ditutup
-- teman ditarik
-- kepala dan leher dijaga sesuai arahan guru
-- leher ditumpu paksa
+- bantuan fisik harus diberikan hanya dengan teknik dan arahan guru
+- setiap anak harus selalu belajar sendirian
+- bantuan membuat matras menjadi keras
+- semua gerakan senam tidak memerlukan kerja sama
 
-**Kunci Jawaban:** kepala dan leher dijaga sesuai arahan guru
+**Kunci Jawaban:** bantuan fisik harus diberikan hanya dengan teknik dan arahan guru
 
-**Pembahasan:** Sikap tubuh saat berguling: kepala dan leher dijaga sesuai arahan guru.
+**Pembahasan:** Bantuan yang salah dapat menyebabkan jatuh atau cedera; siswa mengikuti pembagian tugas dari guru.
 
 ---
 
 ## Soal 29 — K03-PJK-B04-M01-029
 
-**Pertanyaan:** Saat senam kelompok, tindakan apa membantu menghindari tabrakan?
+**Pertanyaan:** Sebelum memakai peti atau bangku latihan, guru dan siswa perlu memeriksa bahwa alat ....
 
 **Pilihan jawaban:**
-- melempar alat
-- bergiliran dan menjaga jarak aman
-- saling mendorong
-- mengganggu gerakan
+- stabil, tidak rusak, dan tidak bergeser
+- lebih tinggi daripada semua peserta
+- diletakkan di lantai yang basah
+- berada dekat kaca jendela
 
-**Kunci Jawaban:** bergiliran dan menjaga jarak aman
+**Kunci Jawaban:** stabil, tidak rusak, dan tidak bergeser
 
-**Pembahasan:** Teman saat senam: bergiliran dan menjaga jarak aman.
+**Pembahasan:** Pemeriksaan alat dan alas merupakan bagian penting keselamatan sebelum gerak dimulai.
 
 ---
 
 ## Soal 30 — K03-PJK-B04-M01-030
 
-**Pertanyaan:** Manakah cakupan keterampilan yang cocok untuk gerak dominan dalam senam dasar?
+**Pertanyaan:** Pemanasan sebelum keseimbangan dan lompatan bertujuan untuk ....
 
 **Pilihan jawaban:**
-- meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran
-- hanya menendang bola
-- hanya berenang
-- hanya berlari
+- menyiapkan tubuh secara bertahap untuk bergerak
+- menjamin tidak ada risiko sama sekali
+- menggantikan latihan inti
+- membuat anak tidak perlu istirahat
 
-**Kunci Jawaban:** meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran
+**Kunci Jawaban:** menyiapkan tubuh secara bertahap untuk bergerak
 
-**Pembahasan:** Gerak dominan senam: meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran.
+**Pembahasan:** Pemanasan menyiapkan tubuh, tetapi tidak menghapus kebutuhan akan teknik, alat, dan pengawasan.
 
 ---
 
 ## Soal 31 — K03-PJK-B04-M01-031
 
-**Pertanyaan:** Dalam posisi senam, tangan dan kaki menahan sebagian berat tubuh. Keterampilan dominan apa ini?
+**Pertanyaan:** Setelah latihan, gerak ringan dan pernapasan tenang dapat digunakan sebagai ....
 
 **Pilihan jawaban:**
-- melempar bola
-- berenang jauh
-- berlari sprint
-- menopang berat badan dengan bagian tubuh tertentu
+- pendinginan
+- tolakan
+- fase melayang
+- gerak inversi
 
-**Kunci Jawaban:** menopang berat badan dengan bagian tubuh tertentu
+**Kunci Jawaban:** pendinginan
 
-**Pembahasan:** Bertumpu: menopang berat badan dengan bagian tubuh tertentu.
+**Pembahasan:** Pendinginan membantu tubuh beralih secara bertahap dari aktivitas menuju kondisi lebih tenang.
 
 ---
 
 ## Soal 32 — K03-PJK-B04-M01-032
 
-**Pertanyaan:** Guru melarang anak mencoba gerak guling di lantai keras. Gerakan yang dimaksud perlu matras dan bimbingan karena ....
+**Pertanyaan:** Umpan balik yang baik kepada teman setelah latihan keseimbangan adalah ....
 
 **Pilihan jawaban:**
-- menendang bola
-- berlari mundur
-- menggulingkan tubuh ke depan di matras dengan bimbingan
-- melompat dari atap
+- tanganmu sudah terbuka; coba arahkan pandangan ke satu titik
+- kamu paling buruk dan jangan mencoba lagi
+- aku akan mendorongmu agar cepat seimbang
+- kamu harus menahan posisi walau sakit
 
-**Kunci Jawaban:** menggulingkan tubuh ke depan di matras dengan bimbingan
+**Kunci Jawaban:** tanganmu sudah terbuka; coba arahkan pandangan ke satu titik
 
-**Pembahasan:** Berguling depan: menggulingkan tubuh ke depan di matras dengan bimbingan.
+**Pembahasan:** Umpan balik yang spesifik, sopan, dan aman membantu teman memperbaiki gerak.
 
 ---
 
 ## Soal 33 — K03-PJK-B04-M01-033
 
-**Pertanyaan:** Pada latihan posisi statis, tubuh harus tetap stabil meski tumpuan berubah. Apa keterampilan yang dipraktikkan?
+**Pertanyaan:** Dalam lompat kangkang, keberhasilan pemula sebaiknya dinilai terutama dari ....
 
 **Pilihan jawaban:**
-- melempar bola
-- menjaga tubuh tetap stabil
-- mendorong teman
-- berlari tanpa arah
+- urutan gerak, kendali, dan pendaratan aman
+- rintangan paling tinggi yang dapat dilewati
+- kecepatan tanpa memperhatikan arah
+- jumlah teman yang dikalahkan
 
-**Kunci Jawaban:** menjaga tubuh tetap stabil
+**Kunci Jawaban:** urutan gerak, kendali, dan pendaratan aman
 
-**Pembahasan:** Sikap keseimbangan: menjaga tubuh tetap stabil.
+**Pembahasan:** Kualitas gerak dan keselamatan lebih penting daripada tinggi alat atau persaingan.
 
 ---
 
 ## Soal 34 — K03-PJK-B04-M01-034
 
-**Pertanyaan:** Di pojok senam tersedia alas khusus. Untuk apa alas tersebut digunakan?
+**Pertanyaan:** Catatan keseimbangan Dita adalah 4 detik, 6 detik, lalu 7 detik dengan posisi yang sama. Kesimpulan yang paling tepat adalah ....
 
 **Pilihan jawaban:**
-- membantu menyediakan permukaan latihan yang lebih aman
-- digunakan untuk melempar
-- dipakai sebagai bola
-- dipakai untuk berenang
+- waktu bertahan meningkat pada tiga percobaan itu
+- Dita pasti tidak akan pernah jatuh
+- semua anak harus mencapai 7 detik
+- percobaan pertama tidak perlu dicatat
 
-**Kunci Jawaban:** membantu menyediakan permukaan latihan yang lebih aman
+**Kunci Jawaban:** waktu bertahan meningkat pada tiga percobaan itu
 
-**Pembahasan:** Matras senam: membantu menyediakan permukaan latihan yang lebih aman.
+**Pembahasan:** Data hanya menunjukkan peningkatan pada tiga percobaan tersebut, bukan jaminan untuk semua situasi atau semua anak.
 
 ---
 
 ## Soal 35 — K03-PJK-B04-M01-035
 
-**Pertanyaan:** Setelah gerak loncat rendah, siswa mendarat dengan lutut lentur dan tidak kaku. Prinsip ini berkaitan dengan ....
+**Pertanyaan:** Manakah contoh rangkaian yang menggabungkan keseimbangan statis dan gerak dinamis?
 
 **Pilihan jawaban:**
-- dilakukan sambil menutup mata
-- dilakukan di lantai licin
-- dilakukan sambil mendorong teman
-- dilakukan terkendali dengan lutut tidak kaku
+- menahan satu kaki beberapa saat lalu melompat rendah dan mendarat
+- duduk diam sepanjang pelajaran
+- membaca buku lalu menulis jawaban
+- melempar bola sambil berenang
 
-**Kunci Jawaban:** dilakukan terkendali dengan lutut tidak kaku
+**Kunci Jawaban:** menahan satu kaki beberapa saat lalu melompat rendah dan mendarat
 
-**Pembahasan:** Gerakan mendarat: dilakukan terkendali dengan lutut tidak kaku.
+**Pembahasan:** Menahan posisi satu kaki adalah statis, sedangkan melompat dan mendarat merupakan gerak dinamis.
 
 ---
+
