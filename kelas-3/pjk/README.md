@@ -19,7 +19,7 @@ Pemeriksaan sumber setelah revisi: **360 soal, 360 ID unik, 360 stem unik, empat
 
 **STATUS: REVISI SUMBER SELESAI, AUDIT FINAL BELUM.** Belum dilaksanakan verifikasi bab demi bab terhadap buku resmi, validasi jawaban semantik dan pengecoh, rendering/peninjauan visual penuh pada HP 390 px, uji pembelajaran oleh guru atau siswa, maupun validator Python keseluruhan `scripts/check-k03-question-sources.py`. Perlu pemeriksaan rinci khusus unit senam dan air; jangan langsung konversi JSON.
 
-**Modul pembelajaran:** Unit 1–6 sudah masing-masing memiliki MOD-01 dan MOD-02. Unit 7–8 masih belum memiliki modul dan tetap menjadi kekurangan yang harus diselesaikan.
+**Modul pembelajaran:** Unit 1–7 sudah masing-masing memiliki MOD-01 dan MOD-02. Unit 8 masih belum memiliki modul dan tetap menjadi kekurangan yang harus diselesaikan.
 
 Catatan serah-terima dan progres lihat `../PROGRES-REVISI-1945.md` dan `../HANDOVER-KONVERSI-JSON.md`.
 
@@ -65,3 +65,8 @@ Unit 5 selesai diaudit terhadap buku guru resmi. Seluruh 45 soal ditulis ulang u
 ## Audit final Unit 6 — 13 November 2026
 
 Unit 6 selesai diaudit terhadap Unit Pembelajaran 6 buku guru resmi. Seluruh 45 soal ditulis ulang karena sumber lama berulang dan belum mencakup posisi tubuh, gerak kaki, gerak lengan, pernapasan, pengawasan, serta respons keadaan darurat secara memadai. Sepuluh SVG diganti dengan stimulus fungsional dan dua modul baru dibuat. Keselamatan menegaskan rasio acuan paling banyak 10 siswa per guru, pemeriksaan kesehatan, zona dangkal, larangan mendorong/berlari, alat bantu bukan pengganti pengawasan, tanpa lomba menahan napas, dan panggilan kepada petugas terlatih bila ada kesulitan. JSON `pjk-b06.json` dan `pjk-b06a.json` berstatus **STALE_SOURCE_CHANGED**; `pjk-b06-materi.json` perlu dibuat pada tahap konversi terpisah. Uji praktik siswa dan HP/WebView tetap diperlukan.
+
+
+## Audit final Unit 7 — 13 November 2026
+
+Unit 7 selesai diaudit terhadap Unit Pembelajaran 7 buku guru resmi. Seluruh 45 soal ditulis ulang agar fokus pada kekuatan otot dan daya tahan otot; 10 SVG diganti menjadi stimulus fungsional dan dua modul baru dibuat. Keselamatan menegaskan tahanan sesuai usia, teknik lebih penting daripada jumlah, variasi pemula, pasangan seimbang, tanpa instruksi “sekuatnya”, tanpa beban berat, tanpa tarikan kepala/leher, tanpa melilit tali, dan tanpa melepaskan tali mendadak. JSON `pjk-b07.json` dan `pjk-b07a.json` berstatus **STALE_SOURCE_CHANGED**; `pjk-b07-materi.json` perlu dibuat pada tahap konversi terpisah. Uji praktik siswa dan HP/WebView tetap diperlukan.

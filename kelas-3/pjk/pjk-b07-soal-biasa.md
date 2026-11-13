@@ -1,563 +1,529 @@
 # Unit 7 — Aktivitas Kebugaran untuk Kesehatan
 
-35 soal teks; pertanyaan dibuat kontekstual dengan pembahasan dan pilihan jawaban lama yang telah dicek strukturnya. Audit akademik akhir masih diperlukan.
+35 soal teks ditulis ulang berdasarkan Unit Pembelajaran 7 buku guru PJOK kelas III. Cakupan difokuskan pada kekuatan otot dan daya tahan otot, dengan progresi sesuai usia serta keselamatan latihan individu dan berpasangan.
 
 ## Soal 1 — K03-PJK-B07-M01-001
 
-**Pertanyaan:** Doni bisa mengikuti permainan ringan tanpa kelelahan yang berlebihan. Kemampuan ini berkaitan dengan ....
+**Pertanyaan:** Kebugaran jasmani membantu seseorang ....
 
 **Pilihan jawaban:**
-- kemampuan makan paling banyak
-- kemampuan menghindari gerak
-- kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan
-- kemampuan tidur sepanjang hari
+- melakukan kegiatan sehari-hari tanpa kelelahan berlebihan
+- menghindari semua gerak agar tidak lelah
+- mengangkat beban paling berat di kelas
+- tidur sepanjang waktu luang
 
-**Kunci Jawaban:** kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan
+**Kunci Jawaban:** melakukan kegiatan sehari-hari tanpa kelelahan berlebihan
 
-**Pembahasan:** Kebugaran jasmani: kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan.
+**Pembahasan:** Tubuh yang bugar mampu menyesuaikan diri dengan kegiatan sesuai kapasitas tanpa kelelahan berlebihan.
 
 ---
-
 ## Soal 2 — K03-PJK-B07-M01-002
 
-**Pertanyaan:** Guru memilih aktivitas penguatan tubuh tanpa beban berat. Prinsip yang tepat adalah ....
+**Pertanyaan:** Dua kemampuan utama yang dilatih pada Unit 7 adalah ....
 
 **Pilihan jawaban:**
-- dilakukan tanpa pengawasan
-- dilakukan sesuai usia dan kemampuan
-- mengangkat beban berbahaya
-- dipaksakan sampai sakit
+- kekuatan otot dan daya tahan otot
+- kelentukan dan kecepatan membaca
+- keseimbangan dan ketepatan menulis
+- daya apung dan gerak lengan renang
 
-**Kunci Jawaban:** dilakukan sesuai usia dan kemampuan
+**Kunci Jawaban:** kekuatan otot dan daya tahan otot
 
-**Pembahasan:** Latihan kekuatan sederhana: dilakukan sesuai usia dan kemampuan.
+**Pembahasan:** Buku guru Unit 7 memusatkan latihan pada kekuatan otot dan daya tahan otot.
 
 ---
-
 ## Soal 3 — K03-PJK-B07-M01-003
 
-**Pertanyaan:** Kelompok melakukan jalan cepat atau lari ringan dengan durasi sesuai kemampuan. Tujuan latihan adalah ....
+**Pertanyaan:** Kekuatan otot adalah kemampuan otot untuk ....
 
 **Pilihan jawaban:**
-- dapat berupa jalan cepat atau lari ringan sesuai kemampuan
-- hanya duduk diam
-- selalu mengangkat beban berat
-- tidak perlu istirahat
+- melawan suatu beban dalam satu usaha gerak
+- bergerak selama mungkin tanpa jeda
+- meregang melewati batas nyeri
+- menjaga napas di dalam air
 
-**Kunci Jawaban:** dapat berupa jalan cepat atau lari ringan sesuai kemampuan
+**Kunci Jawaban:** melawan suatu beban dalam satu usaha gerak
 
-**Pembahasan:** Latihan daya tahan: dapat berupa jalan cepat atau lari ringan sesuai kemampuan.
+**Pembahasan:** Beban dapat berasal dari berat tubuh sendiri, pasangan, atau alat ringan yang sesuai.
 
 ---
-
 ## Soal 4 — K03-PJK-B07-M01-004
 
-**Pertanyaan:** Siswa menggerakkan sendi dengan jangkauan nyaman. Kemampuan yang dipakai adalah ....
+**Pertanyaan:** Daya tahan otot adalah kemampuan otot untuk ....
 
 **Pilihan jawaban:**
-- kemampuan melempar jauh saja
-- kemampuan tidur
-- kemampuan makan
-- kemampuan sendi bergerak dalam rentang yang wajar
+- melakukan kerja berulang atau bertahan selama waktu tertentu
+- menghasilkan satu gerak paling kuat
+- menggerakkan sendi melewati batasnya
+- berlari paling cepat satu kali
 
-**Kunci Jawaban:** kemampuan sendi bergerak dalam rentang yang wajar
+**Kunci Jawaban:** melakukan kerja berulang atau bertahan selama waktu tertentu
 
-**Pembahasan:** Kelentukan: kemampuan sendi bergerak dalam rentang yang wajar.
+**Pembahasan:** Daya tahan otot berkaitan dengan kemampuan otot bekerja berulang dengan teknik yang tetap baik.
 
 ---
-
 ## Soal 5 — K03-PJK-B07-M01-005
 
-**Pertanyaan:** Saat berdiri satu kaki, seorang anak mengatur lengan untuk tidak jatuh. Apa keterampilan yang diperlukan?
+**Pertanyaan:** Manakah pasangan kegiatan dan kemampuan yang tepat?
 
 **Pilihan jawaban:**
-- kemampuan berlari tanpa arah
-- kemampuan makan cepat
-- kemampuan menjaga posisi tubuh agar stabil
-- kemampuan berteriak
+- dorong dinding melatih kekuatan; lompat tali berulang melatih daya tahan otot
+- tidur melatih kekuatan; duduk diam melatih daya tahan
+- meregang paksa melatih kekuatan; menahan napas melatih daya tahan
+- makan cepat melatih kekuatan; berteriak melatih daya tahan
 
-**Kunci Jawaban:** kemampuan menjaga posisi tubuh agar stabil
+**Kunci Jawaban:** dorong dinding melatih kekuatan; lompat tali berulang melatih daya tahan otot
 
-**Pembahasan:** Keseimbangan: kemampuan menjaga posisi tubuh agar stabil.
+**Pembahasan:** Dorong dinding memberi tahanan, sedangkan lompat tali berulang menuntut kerja otot berulang.
 
 ---
-
 ## Soal 6 — K03-PJK-B07-M01-006
 
-**Pertanyaan:** Selesai aktivitas fisik, tubuh membutuhkan waktu pulih. Apa manfaat beristirahat?
+**Pertanyaan:** Sebelum latihan kekuatan, siswa sebaiknya ....
 
 **Pilihan jawaban:**
-- tidak diperlukan
-- membantu pemulihan tubuh
-- berarti tidak boleh minum
-- berarti harus terus berlari
+- melakukan pemanasan bertahap sesuai arahan
+- langsung mencoba gerak tersulit
+- menahan minum agar ringan
+- berlatih tanpa memeriksa ruang
 
-**Kunci Jawaban:** membantu pemulihan tubuh
+**Kunci Jawaban:** melakukan pemanasan bertahap sesuai arahan
 
-**Pembahasan:** Istirahat setelah olahraga: membantu pemulihan tubuh.
+**Pembahasan:** Pemanasan menyiapkan tubuh dan memberi kesempatan memeriksa kesiapan peserta.
 
 ---
-
 ## Soal 7 — K03-PJK-B07-M01-007
 
-**Pertanyaan:** Setelah bergerak, siswa minum air sesuai kebutuhan tubuh. Tujuannya adalah ....
+**Pertanyaan:** Latihan dorong dinding yang aman dilakukan dengan ....
 
 **Pilihan jawaban:**
-- membantu memenuhi kebutuhan cairan tubuh
-- dapat diganti minuman sembarang
-- tidak diperlukan saat panas
-- harus dihindari
+- telapak menempel, tubuh terkendali, lalu siku menekuk dan melurus
+- kepala menekan dinding sekuatnya
+- kaki berdiri di lantai yang licin
+- teman mendorong punggung dari belakang
 
-**Kunci Jawaban:** membantu memenuhi kebutuhan cairan tubuh
+**Kunci Jawaban:** telapak menempel, tubuh terkendali, lalu siku menekuk dan melurus
 
-**Pembahasan:** Air minum: membantu memenuhi kebutuhan cairan tubuh.
+**Pembahasan:** Dinding yang kokoh dan gerak terkendali memberi tahanan tanpa benturan antar peserta.
 
 ---
-
 ## Soal 8 — K03-PJK-B07-M01-008
 
-**Pertanyaan:** Guru mengajak siswa melakukan kegiatan fisik teratur tanpa memaksakan. Polanya adalah ....
+**Pertanyaan:** Dalam latihan saling mendorong bahu, pasangan sebaiknya ....
 
 **Pilihan jawaban:**
-- harus selalu berlebihan
-- harus dilakukan saat sakit berat
-- tidak perlu aman
-- lebih baik dilakukan teratur sesuai kemampuan
+- seimbang, memakai tenaga sedang, dan berhenti saat aba-aba
+- berbeda jauh ukuran tubuhnya dan mendorong mendadak
+- berlatih di dekat tangga
+- menentukan pemenang dengan menjatuhkan lawan
 
-**Kunci Jawaban:** lebih baik dilakukan teratur sesuai kemampuan
+**Kunci Jawaban:** seimbang, memakai tenaga sedang, dan berhenti saat aba-aba
 
-**Pembahasan:** Latihan rutin: lebih baik dilakukan teratur sesuai kemampuan.
+**Pembahasan:** Latihan berpasangan bertujuan mengendalikan tenaga, bukan menjatuhkan teman.
 
 ---
-
 ## Soal 9 — K03-PJK-B07-M01-009
 
-**Pertanyaan:** Seorang siswa tiba-tiba pusing ketika berlatih. Kondisi apa yang menandakan perlu berhenti?
+**Pertanyaan:** Saat latihan bahu pada posisi merangkak, hal yang harus dijaga ialah ....
 
 **Pilihan jawaban:**
-- napas sedikit lebih cepat yang wajar
-- keringat ringan
-- nyeri hebat, pusing, atau sesak yang tidak wajar
-- rasa senang
+- telapak dan lutut stabil di alas rata serta dorongan tetap terkendali
+- leher diputar sambil mendorong
+- lutut berada di lantai tajam
+- dorongan dilakukan sampai pasangan roboh
 
-**Kunci Jawaban:** nyeri hebat, pusing, atau sesak yang tidak wajar
+**Kunci Jawaban:** telapak dan lutut stabil di alas rata serta dorongan tetap terkendali
 
-**Pembahasan:** Tanda perlu berhenti latihan: nyeri hebat, pusing, atau sesak yang tidak wajar.
+**Pembahasan:** Tumpuan yang stabil dan tenaga terukur mengurangi risiko jatuh atau nyeri.
 
 ---
-
 ## Soal 10 — K03-PJK-B07-M01-010
 
-**Pertanyaan:** Kelompok jalan santai dengan kecepatan anggota yang berbeda. Sikap yang tepat ialah ....
+**Pertanyaan:** Latihan tarik-menarik berpasangan dilakukan dengan aman bila ....
 
 **Pilihan jawaban:**
-- dilakukan di jalan ramai
-- dilakukan dengan aturan dan saling mendukung
-- dilakukan sambil mengejek
-- dilakukan tanpa pemanasan
+- pegangan disepakati, tarikan bertahap, dan ada tanda berhenti
+- tali dililitkan pada tangan
+- salah satu peserta menarik tiba-tiba
+- peserta berdiri di permukaan basah
 
-**Kunci Jawaban:** dilakukan dengan aturan dan saling mendukung
+**Kunci Jawaban:** pegangan disepakati, tarikan bertahap, dan ada tanda berhenti
 
-**Pembahasan:** Aktivitas kebugaran bersama: dilakukan dengan aturan dan saling mendukung.
+**Pembahasan:** Tarikan bertahap dan tanda berhenti membantu kedua peserta mengendalikan tubuh.
 
 ---
-
 ## Soal 11 — K03-PJK-B07-M01-011
 
-**Pertanyaan:** Dalam kegiatan harian, tubuh dapat bergerak dan tetap memiliki tenaga untuk aktivitas berikutnya. Hal itu menggambarkan ....
+**Pertanyaan:** Pada latihan angkat badan sederhana, cara melindungi leher adalah ....
 
 **Pilihan jawaban:**
-- kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan
-- kemampuan tidur sepanjang hari
-- kemampuan makan paling banyak
-- kemampuan menghindari gerak
+- dagu tidak ditarik paksa dan gerak berhenti bila leher sakit
+- tangan menarik kepala sekuatnya
+- badan diayun agar cepat naik
+- teman menekan kepala ke depan
 
-**Kunci Jawaban:** kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan
+**Kunci Jawaban:** dagu tidak ditarik paksa dan gerak berhenti bila leher sakit
 
-**Pembahasan:** Kebugaran jasmani: kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan.
+**Pembahasan:** Otot perut bekerja tanpa menarik kepala atau memaksa leher.
 
 ---
-
 ## Soal 12 — K03-PJK-B07-M01-012
 
-**Pertanyaan:** Seorang siswa belum mampu mengikuti latihan kekuatan teman lain. Bagaimana latihan seharusnya disesuaikan?
+**Pertanyaan:** Saat mengangkat kedua kaki dari posisi duduk, siswa pemula dapat ....
 
 **Pilihan jawaban:**
-- mengangkat beban berbahaya
-- dipaksakan sampai sakit
-- dilakukan tanpa pengawasan
-- dilakukan sesuai usia dan kemampuan
+- menekuk lutut dan menopang tubuh dengan tangan sesuai contoh
+- mengunci lutut lalu menjatuhkan kaki
+- menahan napas selama gerak
+- melakukannya di atas bangku tinggi
 
-**Kunci Jawaban:** dilakukan sesuai usia dan kemampuan
+**Kunci Jawaban:** menekuk lutut dan menopang tubuh dengan tangan sesuai contoh
 
-**Pembahasan:** Latihan kekuatan sederhana: dilakukan sesuai usia dan kemampuan.
+**Pembahasan:** Variasi lutut tekuk dan tumpuan tangan membantu menjaga gerak tetap terkendali.
 
 ---
-
 ## Soal 13 — K03-PJK-B07-M01-013
 
-**Pertanyaan:** Agar tidak terlalu lelah, siswa menyesuaikan intensitas gerak berulang. Ini contoh ....
+**Pertanyaan:** Push-up yang disesuaikan untuk pemula dapat menggunakan ....
 
 **Pilihan jawaban:**
-- selalu mengangkat beban berat
-- tidak perlu istirahat
-- dapat berupa jalan cepat atau lari ringan sesuai kemampuan
-- hanya duduk diam
+- tumpuan lutut dan telapak tangan dengan tubuh tetap terkendali
+- tumpuan kepala dan satu tangan
+- gerak jatuh ke lantai tanpa menahan
+- beban berat di punggung
 
-**Kunci Jawaban:** dapat berupa jalan cepat atau lari ringan sesuai kemampuan
+**Kunci Jawaban:** tumpuan lutut dan telapak tangan dengan tubuh tetap terkendali
 
-**Pembahasan:** Latihan daya tahan: dapat berupa jalan cepat atau lari ringan sesuai kemampuan.
+**Pembahasan:** Tumpuan lutut mengurangi beban sambil tetap melatih lengan dan badan.
 
 ---
-
 ## Soal 14 — K03-PJK-B07-M01-014
 
-**Pertanyaan:** Ada siswa yang dapat meraih lebih jauh dari teman, namun keduanya tidak dipaksa. Apa konsep yang diukur?
+**Pertanyaan:** Mengapa latihan diberi jeda antarputaran?
 
 **Pilihan jawaban:**
-- kemampuan makan
-- kemampuan sendi bergerak dalam rentang yang wajar
-- kemampuan melempar jauh saja
-- kemampuan tidur
+- agar otot dan napas pulih sebelum mencoba lagi
+- agar peserta kehilangan fokus
+- agar jumlah gerak tidak dapat dicatat
+- agar pemanasan tidak diperlukan
 
-**Kunci Jawaban:** kemampuan sendi bergerak dalam rentang yang wajar
+**Kunci Jawaban:** agar otot dan napas pulih sebelum mencoba lagi
 
-**Pembahasan:** Kelentukan: kemampuan sendi bergerak dalam rentang yang wajar.
+**Pembahasan:** Jeda membantu menjaga kualitas teknik dan mencegah latihan berlebihan.
 
 ---
-
 ## Soal 15 — K03-PJK-B07-M01-015
 
-**Pertanyaan:** Guru memberikan latihan mempertahankan posisi tubuh. Hasil yang ingin dilatih ialah ....
+**Pertanyaan:** Dalam latihan kekuatan, hasil yang lebih penting daripada jumlah ulangan banyak adalah ....
 
 **Pilihan jawaban:**
-- kemampuan menjaga posisi tubuh agar stabil
-- kemampuan berteriak
-- kemampuan berlari tanpa arah
-- kemampuan makan cepat
+- gerak benar dan terkendali
+- gerak tercepat walau bentuk berubah
+- mampu menahan nyeri
+- mengalahkan semua teman
 
-**Kunci Jawaban:** kemampuan menjaga posisi tubuh agar stabil
+**Kunci Jawaban:** gerak benar dan terkendali
 
-**Pembahasan:** Keseimbangan: kemampuan menjaga posisi tubuh agar stabil.
+**Pembahasan:** Ulangan hanya dihitung bila tekniknya aman dan sesuai arahan.
 
 ---
-
 ## Soal 16 — K03-PJK-B07-M01-016
 
-**Pertanyaan:** Guru menyelingi permainan dengan jeda yang cukup. Tujuannya adalah ....
+**Pertanyaan:** Contoh latihan daya tahan otot adalah ....
 
 **Pilihan jawaban:**
-- berarti tidak boleh minum
-- berarti harus terus berlari
-- tidak diperlukan
-- membantu pemulihan tubuh
+- melakukan lompat tali berulang dengan irama sesuai kemampuan
+- mendorong satu kali sekuat mungkin
+- duduk diam sepanjang pelajaran
+- meregang sampai terasa sakit
 
-**Kunci Jawaban:** membantu pemulihan tubuh
+**Kunci Jawaban:** melakukan lompat tali berulang dengan irama sesuai kemampuan
 
-**Pembahasan:** Istirahat setelah olahraga: membantu pemulihan tubuh.
+**Pembahasan:** Kerja otot yang dilakukan berulang dengan teknik terjaga melatih daya tahan.
 
 ---
-
 ## Soal 17 — K03-PJK-B07-M01-017
 
-**Pertanyaan:** Anak merasa haus setelah bermain. Minuman yang tersedia membantu memenuhi kebutuhan apa?
+**Pertanyaan:** Pada latihan berjalan dengan kedua tangan secara berpasangan, guru harus memastikan ....
 
 **Pilihan jawaban:**
-- tidak diperlukan saat panas
-- harus dihindari
-- membantu memenuhi kebutuhan cairan tubuh
-- dapat diganti minuman sembarang
+- jalur pendek, rata, kosong, dan bantuan pasangan sesuai instruksi
+- pasangan memegang leher peserta
+- jalur dipenuhi tas sebagai rintangan
+- peserta berlomba sampai kelelahan
 
-**Kunci Jawaban:** membantu memenuhi kebutuhan cairan tubuh
+**Kunci Jawaban:** jalur pendek, rata, kosong, dan bantuan pasangan sesuai instruksi
 
-**Pembahasan:** Air minum: membantu memenuhi kebutuhan cairan tubuh.
+**Pembahasan:** Latihan ini memerlukan jalur aman, jarak pendek, dan pengawasan karena beban berada pada lengan.
 
 ---
-
 ## Soal 18 — K03-PJK-B07-M01-018
 
-**Pertanyaan:** Siswa ingin lebih aktif setiap hari. Cara yang berkelanjutan seharusnya ....
+**Pertanyaan:** Lompat tali perorangan dilakukan dengan aman jika ....
 
 **Pilihan jawaban:**
-- tidak perlu aman
-- lebih baik dilakukan teratur sesuai kemampuan
-- harus selalu berlebihan
-- harus dilakukan saat sakit berat
+- tali sesuai ukuran dan tersedia ruang bebas di sekeliling
+- tali mengenai peserta lain agar berirama
+- peserta melompat di lantai licin
+- jarak antarpeserta sangat rapat
 
-**Kunci Jawaban:** lebih baik dilakukan teratur sesuai kemampuan
+**Kunci Jawaban:** tali sesuai ukuran dan tersedia ruang bebas di sekeliling
 
-**Pembahasan:** Latihan rutin: lebih baik dilakukan teratur sesuai kemampuan.
+**Pembahasan:** Ukuran tali dan ruang bebas mencegah tersangkut atau mengenai orang lain.
 
 ---
-
 ## Soal 19 — K03-PJK-B07-M01-019
 
-**Pertanyaan:** Anak mengeluh sesak tak wajar saat berlari. Apa tanda yang harus diperhatikan?
+**Pertanyaan:** Dalam lompat tali berteman, dua pemutar tali perlu ....
 
 **Pilihan jawaban:**
-- nyeri hebat, pusing, atau sesak yang tidak wajar
-- rasa senang
-- napas sedikit lebih cepat yang wajar
-- keringat ringan
+- menyamakan irama dan menghentikan tali bila pelompat belum siap
+- memutar secepat mungkin tanpa aba-aba
+- berdiri membelakangi pelompat
+- menarik tali ke arah berlawanan
 
-**Kunci Jawaban:** nyeri hebat, pusing, atau sesak yang tidak wajar
+**Kunci Jawaban:** menyamakan irama dan menghentikan tali bila pelompat belum siap
 
-**Pembahasan:** Tanda perlu berhenti latihan: nyeri hebat, pusing, atau sesak yang tidak wajar.
+**Pembahasan:** Koordinasi dan komunikasi membuat pelompat dapat masuk serta berhenti dengan aman.
 
 ---
-
 ## Soal 20 — K03-PJK-B07-M01-020
 
-**Pertanyaan:** Anak yang bergerak lebih lambat tetap mendapat kesempatan berlatih. Bagaimana seharusnya kegiatan berlangsung?
+**Pertanyaan:** Pada tarik tali berpasangan, posisi kaki yang membantu stabil ialah ....
 
 **Pilihan jawaban:**
-- dilakukan sambil mengejek
-- dilakukan tanpa pemanasan
-- dilakukan di jalan ramai
-- dilakukan dengan aturan dan saling mendukung
+- satu kaki di depan dan lutut sedikit lentur
+- kedua kaki rapat dan lutut dikunci
+- berdiri dengan satu kaki saja
+- duduk sambil tali dililit di pinggang
 
-**Kunci Jawaban:** dilakukan dengan aturan dan saling mendukung
+**Kunci Jawaban:** satu kaki di depan dan lutut sedikit lentur
 
-**Pembahasan:** Aktivitas kebugaran bersama: dilakukan dengan aturan dan saling mendukung.
+**Pembahasan:** Bidang tumpuan yang lebih mantap membantu tubuh menahan tarikan secara terkendali.
 
 ---
-
 ## Soal 21 — K03-PJK-B07-M01-021
 
-**Pertanyaan:** Apa yang ditunjukkan tubuh saat mampu beraktivitas sesuai kapasitas tanpa cepat kelelahan berlebihan?
+**Pertanyaan:** Sebelum tarik tali beregu, guru perlu ....
 
 **Pilihan jawaban:**
-- kemampuan makan paling banyak
-- kemampuan menghindari gerak
-- kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan
-- kemampuan tidur sepanjang hari
+- menyeimbangkan kelompok dan memeriksa tali serta area
+- memilih permukaan paling licin
+- membiarkan tali dililit di tubuh
+- menempatkan kelompok dekat dinding
 
-**Kunci Jawaban:** kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan
+**Kunci Jawaban:** menyeimbangkan kelompok dan memeriksa tali serta area
 
-**Pembahasan:** Kebugaran jasmani: kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan.
+**Pembahasan:** Kelompok seimbang, tali baik, dan area kosong merupakan syarat keselamatan.
 
 ---
-
 ## Soal 22 — K03-PJK-B07-M01-022
 
-**Pertanyaan:** Apa patokan keamanan untuk latihan kekuatan anak sekolah dasar?
+**Pertanyaan:** Mengapa tali tidak boleh dilepaskan mendadak saat tarik tali?
 
 **Pilihan jawaban:**
-- dilakukan tanpa pengawasan
-- dilakukan sesuai usia dan kemampuan
-- mengangkat beban berbahaya
-- dipaksakan sampai sakit
+- peserta lain dapat jatuh ke belakang
+- tali akan selalu menjadi lebih panjang
+- hasil latihan tidak dapat dihitung
+- otot tidak akan bekerja sama sekali
 
-**Kunci Jawaban:** dilakukan sesuai usia dan kemampuan
+**Kunci Jawaban:** peserta lain dapat jatuh ke belakang
 
-**Pembahasan:** Latihan kekuatan sederhana: dilakukan sesuai usia dan kemampuan.
+**Pembahasan:** Perubahan tarikan mendadak dapat membuat lawan kehilangan keseimbangan.
 
 ---
-
 ## Soal 23 — K03-PJK-B07-M01-023
 
-**Pertanyaan:** Bagaimana bentuk latihan daya tahan yang wajar untuk siswa kelas 3?
+**Pertanyaan:** Saat muncul nyeri tajam, pusing, atau sesak yang tidak wajar, siswa harus ....
 
 **Pilihan jawaban:**
-- dapat berupa jalan cepat atau lari ringan sesuai kemampuan
-- hanya duduk diam
-- selalu mengangkat beban berat
-- tidak perlu istirahat
+- berhenti dan segera memberi tahu guru
+- menambah ulangan agar tubuh terbiasa
+- menyembunyikan keluhan
+- berbaring di tengah jalur latihan
 
-**Kunci Jawaban:** dapat berupa jalan cepat atau lari ringan sesuai kemampuan
+**Kunci Jawaban:** berhenti dan segera memberi tahu guru
 
-**Pembahasan:** Latihan daya tahan: dapat berupa jalan cepat atau lari ringan sesuai kemampuan.
+**Pembahasan:** Keluhan tidak wajar merupakan tanda menghentikan aktivitas dan meminta bantuan.
 
 ---
-
 ## Soal 24 — K03-PJK-B07-M01-024
 
-**Pertanyaan:** Apa yang dimaksud gerak sendi dalam rentang wajar tanpa dipaksakan?
+**Pertanyaan:** Sesudah satu putaran latihan, siswa haus. Tindakan yang tepat ialah ....
 
 **Pilihan jawaban:**
-- kemampuan melempar jauh saja
-- kemampuan tidur
-- kemampuan makan
-- kemampuan sendi bergerak dalam rentang yang wajar
+- minum air dan beristirahat sesuai arahan
+- menahan minum sampai pulang
+- mengganti air dengan sembarang minuman
+- langsung mengulang tanpa jeda
 
-**Kunci Jawaban:** kemampuan sendi bergerak dalam rentang yang wajar
+**Kunci Jawaban:** minum air dan beristirahat sesuai arahan
 
-**Pembahasan:** Kelentukan: kemampuan sendi bergerak dalam rentang yang wajar.
+**Pembahasan:** Cairan dan istirahat membantu pemulihan tubuh.
 
 ---
-
 ## Soal 25 — K03-PJK-B07-M01-025
 
-**Pertanyaan:** Mengapa mengatur posisi tubuh penting dalam gerak keseimbangan?
+**Pertanyaan:** Jika seorang siswa belum mampu melakukan ulangan seperti teman lain, guru sebaiknya ....
 
 **Pilihan jawaban:**
-- kemampuan berlari tanpa arah
-- kemampuan makan cepat
-- kemampuan menjaga posisi tubuh agar stabil
-- kemampuan berteriak
+- mengurangi beban atau ulangan dan menjaga teknik
+- memaksa sampai jumlahnya sama
+- memberi beban lebih berat
+- mengejek agar lebih bersemangat
 
-**Kunci Jawaban:** kemampuan menjaga posisi tubuh agar stabil
+**Kunci Jawaban:** mengurangi beban atau ulangan dan menjaga teknik
 
-**Pembahasan:** Keseimbangan: kemampuan menjaga posisi tubuh agar stabil.
+**Pembahasan:** Latihan disesuaikan dengan kemampuan; kemajuan tidak harus sama pada setiap anak.
 
 ---
-
 ## Soal 26 — K03-PJK-B07-M01-026
 
-**Pertanyaan:** Mengapa anak tidak dianjurkan berlatih terus tanpa jeda?
+**Pertanyaan:** Mengapa anak kelas III tidak perlu mengangkat beban luar yang berat?
 
 **Pilihan jawaban:**
-- tidak diperlukan
-- membantu pemulihan tubuh
-- berarti tidak boleh minum
-- berarti harus terus berlari
+- beban tubuh atau alat ringan sudah dapat digunakan sesuai tujuan dan pengawasan
+- beban berat selalu membuat tubuh langsung bugar
+- beban berat menggantikan pemanasan
+- beban berat mencegah semua cedera
 
-**Kunci Jawaban:** membantu pemulihan tubuh
+**Kunci Jawaban:** beban tubuh atau alat ringan sudah dapat digunakan sesuai tujuan dan pengawasan
 
-**Pembahasan:** Istirahat setelah olahraga: membantu pemulihan tubuh.
+**Pembahasan:** Tujuan pembelajaran dapat dicapai dengan tahanan yang sesuai usia, bukan beban maksimum.
 
 ---
-
 ## Soal 27 — K03-PJK-B07-M01-027
 
-**Pertanyaan:** Mengapa air minum penting ketika tubuh aktif bergerak?
+**Pertanyaan:** Guru mencatat 10 push-up, tetapi 3 dilakukan dengan posisi tubuh tidak terkendali. Jumlah ulangan benar adalah ....
 
 **Pilihan jawaban:**
-- membantu memenuhi kebutuhan cairan tubuh
-- dapat diganti minuman sembarang
-- tidak diperlukan saat panas
-- harus dihindari
+- 7 ulangan
+- 3 ulangan
+- 10 ulangan
+- 13 ulangan
 
-**Kunci Jawaban:** membantu memenuhi kebutuhan cairan tubuh
+**Kunci Jawaban:** 7 ulangan
 
-**Pembahasan:** Air minum: membantu memenuhi kebutuhan cairan tubuh.
+**Pembahasan:** Sepuluh dikurangi tiga ulangan yang tidak memenuhi teknik sama dengan tujuh ulangan benar.
 
 ---
-
 ## Soal 28 — K03-PJK-B07-M01-028
 
-**Pertanyaan:** Apa prinsip membuat kebiasaan aktivitas kebugaran?
+**Pertanyaan:** Cara menilai perkembangan yang adil adalah ....
 
 **Pilihan jawaban:**
-- harus selalu berlebihan
-- harus dilakukan saat sakit berat
-- tidak perlu aman
-- lebih baik dilakukan teratur sesuai kemampuan
+- membandingkan hasil anak dengan catatan dirinya sendiri dalam kondisi setara
+- membandingkan bentuk tubuh semua anak
+- hanya memberi nilai pada peserta tercepat
+- memaksa seluruh kelas mencapai angka yang sama
 
-**Kunci Jawaban:** lebih baik dilakukan teratur sesuai kemampuan
+**Kunci Jawaban:** membandingkan hasil anak dengan catatan dirinya sendiri dalam kondisi setara
 
-**Pembahasan:** Latihan rutin: lebih baik dilakukan teratur sesuai kemampuan.
+**Pembahasan:** Catatan diri menunjukkan kemajuan tanpa mempermalukan perbedaan kemampuan.
 
 ---
-
 ## Soal 29 — K03-PJK-B07-M01-029
 
-**Pertanyaan:** Dalam latihan, apakah rasa sakit hebat perlu diabaikan? Pilih penjelasan yang sesuai.
+**Pertanyaan:** Pada percobaan pertama, Sinta melakukan 6 ulangan benar. Percobaan berikutnya 8 ulangan benar dengan teknik sama. Data menunjukkan ....
 
 **Pilihan jawaban:**
-- napas sedikit lebih cepat yang wajar
-- keringat ringan
-- nyeri hebat, pusing, atau sesak yang tidak wajar
-- rasa senang
+- bertambah 2 ulangan benar
+- berkurang 2 ulangan benar
+- tekniknya pasti lebih buruk
+- ia harus memakai beban berat
 
-**Kunci Jawaban:** nyeri hebat, pusing, atau sesak yang tidak wajar
+**Kunci Jawaban:** bertambah 2 ulangan benar
 
-**Pembahasan:** Tanda perlu berhenti latihan: nyeri hebat, pusing, atau sesak yang tidak wajar.
+**Pembahasan:** Delapan dikurangi enam sama dengan dua; penyebab perubahan perlu diamati terpisah.
 
 ---
-
 ## Soal 30 — K03-PJK-B07-M01-030
 
-**Pertanyaan:** Apa aturan penting agar latihan kebugaran bersama terasa aman dan inklusif?
+**Pertanyaan:** Sikap yang tepat saat kemampuan kekuatan teman berbeda adalah ....
 
 **Pilihan jawaban:**
-- dilakukan di jalan ramai
-- dilakukan dengan aturan dan saling mendukung
-- dilakukan sambil mengejek
-- dilakukan tanpa pemanasan
+- memberi dukungan dan ruang untuk variasi gerak
+- memberi julukan berdasarkan tubuh
+- menertawakan jumlah ulangannya
+- memaksa pasangan menambah beban
 
-**Kunci Jawaban:** dilakukan dengan aturan dan saling mendukung
+**Kunci Jawaban:** memberi dukungan dan ruang untuk variasi gerak
 
-**Pembahasan:** Aktivitas kebugaran bersama: dilakukan dengan aturan dan saling mendukung.
+**Pembahasan:** Perbedaan kemampuan dihormati dan latihan disesuaikan.
 
 ---
-
 ## Soal 31 — K03-PJK-B07-M01-031
 
-**Pertanyaan:** Kegiatan fisik dapat diselesaikan sesuai kemampuan tanpa kelelahan yang terlalu berat. Hal tersebut menunjukkan ....
+**Pertanyaan:** Jika tidak ada alat kebugaran khusus, kelas tetap dapat berlatih melalui ....
 
 **Pilihan jawaban:**
-- kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan
-- kemampuan tidur sepanjang hari
-- kemampuan makan paling banyak
-- kemampuan menghindari gerak
+- dorong dinding, duduk-berdiri, dan gerak dengan berat tubuh yang diawasi
+- mengangkat meja kelas bersama-sama
+- menarik pintu sampai rusak
+- membawa tas seberat mungkin
 
-**Kunci Jawaban:** kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan
+**Kunci Jawaban:** dorong dinding, duduk-berdiri, dan gerak dengan berat tubuh yang diawasi
 
-**Pembahasan:** Kebugaran jasmani: kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan.
+**Pembahasan:** Latihan sederhana dapat memakai berat tubuh dan fasilitas yang aman.
 
 ---
-
 ## Soal 32 — K03-PJK-B07-M01-032
 
-**Pertanyaan:** Guru tidak memberikan beban berat untuk semua peserta dan menyesuaikan latihan. Itu contoh prinsip ....
+**Pertanyaan:** Urutan pos latihan yang baik adalah ....
 
 **Pilihan jawaban:**
-- mengangkat beban berbahaya
-- dipaksakan sampai sakit
-- dilakukan tanpa pengawasan
-- dilakukan sesuai usia dan kemampuan
+- pemanasan, pos kekuatan, pos daya tahan, jeda, lalu pendinginan
+- tarik tali, lomba maksimum, lalu pemanasan
+- langsung push-up sampai lelah lalu pulang
+- pendinginan, beban berat, lalu pemanasan
 
-**Kunci Jawaban:** dilakukan sesuai usia dan kemampuan
+**Kunci Jawaban:** pemanasan, pos kekuatan, pos daya tahan, jeda, lalu pendinginan
 
-**Pembahasan:** Latihan kekuatan sederhana: dilakukan sesuai usia dan kemampuan.
+**Pembahasan:** Urutan bertahap menyiapkan tubuh, memberi latihan utama, dan membantu pemulihan.
 
 ---
-
 ## Soal 33 — K03-PJK-B07-M01-033
 
-**Pertanyaan:** Pada hari olahraga, siswa berlatih jalan cepat dan lari ringan sesuai kemampuan. Ini termasuk ....
+**Pertanyaan:** Pendinginan setelah latihan dilakukan dengan ....
 
 **Pilihan jawaban:**
-- selalu mengangkat beban berat
-- tidak perlu istirahat
-- dapat berupa jalan cepat atau lari ringan sesuai kemampuan
-- hanya duduk diam
+- gerak ringan dan pengaturan napas secara bertahap
+- berhenti mendadak lalu berlari cepat
+- meregang sampai nyeri
+- menahan napas selama mungkin
 
-**Kunci Jawaban:** dapat berupa jalan cepat atau lari ringan sesuai kemampuan
+**Kunci Jawaban:** gerak ringan dan pengaturan napas secara bertahap
 
-**Pembahasan:** Latihan daya tahan: dapat berupa jalan cepat atau lari ringan sesuai kemampuan.
+**Pembahasan:** Pendinginan menurunkan intensitas secara perlahan.
 
 ---
-
 ## Soal 34 — K03-PJK-B07-M01-034
 
-**Pertanyaan:** Siswa melakukan gerak rentang sendi tanpa nyeri dan tanpa memaksa. Kemampuan itu dinamakan ....
+**Pertanyaan:** Mengapa kelompok otot tidak perlu dilatih sampai kelelahan berat setiap hari?
 
 **Pilihan jawaban:**
-- kemampuan makan
-- kemampuan sendi bergerak dalam rentang yang wajar
-- kemampuan melempar jauh saja
-- kemampuan tidur
+- tubuh memerlukan waktu pulih dan latihan harus sesuai kemampuan
+- kelelahan berat selalu meningkatkan teknik
+- istirahat membuat semua otot hilang
+- rasa sakit adalah target latihan
 
-**Kunci Jawaban:** kemampuan sendi bergerak dalam rentang yang wajar
+**Kunci Jawaban:** tubuh memerlukan waktu pulih dan latihan harus sesuai kemampuan
 
-**Pembahasan:** Kelentukan: kemampuan sendi bergerak dalam rentang yang wajar.
+**Pembahasan:** Pemulihan merupakan bagian latihan; nyeri dan kelelahan berat bukan tujuan.
 
 ---
-
 ## Soal 35 — K03-PJK-B07-M01-035
 
-**Pertanyaan:** Anak mencoba tetap berdiri stabil saat posisi kedua kakinya berubah. Keterampilan ini ialah ....
+**Pertanyaan:** Rangkaian kegiatan yang paling aman dan lengkap adalah ....
 
 **Pilihan jawaban:**
-- kemampuan menjaga posisi tubuh agar stabil
-- kemampuan berteriak
-- kemampuan berlari tanpa arah
-- kemampuan makan cepat
+- cek kesehatan, pemanasan, latihan bertahap, minum dan jeda, pendinginan, lalu refleksi
+- langsung latihan maksimum, membandingkan tubuh, lalu pulang
+- tanpa pemanasan, tanpa jeda, dan menahan sakit
+- mengangkat beban berat lalu lomba tarik tali di lantai licin
 
-**Kunci Jawaban:** kemampuan menjaga posisi tubuh agar stabil
+**Kunci Jawaban:** cek kesehatan, pemanasan, latihan bertahap, minum dan jeda, pendinginan, lalu refleksi
 
-**Pembahasan:** Keseimbangan: kemampuan menjaga posisi tubuh agar stabil.
+**Pembahasan:** Rangkaian itu menggabungkan kesiapan, latihan sesuai prinsip, pemulihan, dan evaluasi.
 
 ---
