@@ -1,18 +1,23 @@
 # Seni Budaya — Seni Rupa Kelas 3 (EDUYASA)
 
-Lima bab internal EDUYASA (tidak diklaim sebagai nama bab buku pemerintah):
+Lima bab internal EDUYASA (judul internal, bukan klaim nama bab resmi):
 1. Menemukan Keindahan di Sekitar Kita
 2. Belajar dari Karya Orang Lain
 3. Ideku, Gagasanku
 4. Karya yang Mewakili Diriku
 5. Aku Seniman Cilik
 
-**Bank soal: 225 soal, lima bab @45 (35 teks, 10 bergambar), seluruhnya telah direvisi pada 12 November 2026.** Dua versi modul Markdown per bab (**10 modul**) tersedia dari produksi sebelumnya dan belum mengalami penulisan ulang dalam batch 225 soal ini. ID `K03-SBD-B##-M01-001` s.d. `045`, modul `K03-SBD-B##-MOD-01/02`.
+Bank sumber berjumlah **225 soal**: lima bab × 45 soal (35 teks dan 10 bergambar). ID soal memakai `K03-SBD-B##-M01-001` s.d. `045`; modul memakai `K03-SBD-B##-MOD-01/02`.
 
-**Pekerjaan dilakukan pada main:** 175 stem soal teks ditulis ulang menjadi situasi pengamatan, apresiasi, pengembangan gagasan, identitas diri, atau pameran; 50 soal bergambar dirumuskan ulang; 50 SVG diganti dengan gambar skematis sesuai topik tanpa teks jawaban. Revisi tetap memakai opsi/kunci/pembahasan lama, dengan beberapa koreksi redaksi pertanyaan agar cocok dengan kunci yang sudah ada.
+## Status audit isi 13 November 2026
 
-**Hasil pemeriksaan struktur sumber:** 225 soal, **225 ID unik**, **225 stem unik**, tepat 4 pilihan unik per soal, satu kunci identik dengan salah satu pilihan, 50 referensi gambar ada, dan pembahasan ada. **0 kesalahan struktur**. Seluruh 50 SVG diperiksa melalui pemeriksaan statis keberadaan tag awal/akhir dan tidak ada unsur script. Pemeriksaan statis ini **bukan** rendering/validasi XML penuh atau audit kualitas visual. Kualitas pedagogis ilustrasi masih mungkin perlu pengembangan kemudian; tidak termasuk mandat Codex.
+- **Bab 1 selesai:** 45 soal, 10 SVG, dan dua modul ditulis ulang terhadap Bab I *Seni Rupa di Sekitarku* pada buku guru Seni Rupa Kelas III revisi 2025.
+- **Bab 2–5 belum diperiksa ulang** dalam putaran audit isi ini.
+- Kumulatif Seni Rupa: **45/225**; sisa **180 soal**.
+- Konversi JSON, aktivasi aplikasi, uji siswa, dan uji HP/WebView belum termasuk hasil ini.
 
-**Pekerjaan Codex selanjutnya:** langsung konversi Markdown ini ke JSON, **tanpa audit ulang isi soal/materi**. Setelah konversi, audit apakah nomor/ID/urutan soal, 4 opsi beserta urutannya, kunci, pembahasan, media, serta seluruh konten modul identik dengan sumber. Perbaiki JSON/konverter saat terjadi mismatch; jangan mengubah sumber soal secara diam-diam. Baca `../HANDOVER-KONVERSI-JSON.md`.
+Bab 1 kini mencakup titik, garis, bidang, bentuk, warna, pengamatan, kolase, keselamatan alat/bahan, pengembangan gagasan, serta apresiasi. Sepuluh ilustrasi berfungsi sebagai stimulus dan bukan daftar jawaban. Kedua modul memiliki lingkup setara melalui alur konsep dan alur penjelajahan/proyek.
 
-Konversi JSON belum dilakukan di batch ini dan bank belum dinyatakan siap rilis aplikasi.
+## Aturan tahap JSON
+
+Sumber yang berubah harus dikonversi ulang. Untuk Bab 1, buat ulang `sbd-b01.json`, `sbd-b01a.json`, dan `sbd-b01-materi.json`, lalu bandingkan ID, urutan opsi, kunci, pembahasan, media, dan isi modul 1:1. Jika Markdown berubah lagi, audit perubahan satu kali; bila perlu, revisi sumber dahulu lalu konversi ulang. Baca `../HANDOVER-KONVERSI-JSON.md`.
