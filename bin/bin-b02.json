@@ -11,7 +11,7 @@
         {
           "id": "BIN-B02-M01-001",
           "type": "PG",
-          "text": "Mira dan keluarganya tinggal di ....",
+          "text": "Bacalah teks latihan berikut.\n\nDari jendela lantai tujuh, Mira melihat halaman tempat anak-anak bermain. Ia tinggal bersama keluarganya di rumah susun. Setiap pulang sekolah, ia menggunakan lift untuk menuju tempat tinggalnya.\n\nMira dan keluarganya tinggal di ....",
           "options": [
             "rumah sederhana di tepi hutan",
             "rumah susun di lantai tujuh",
@@ -19,12 +19,12 @@
             "rumah besar di kaki gunung"
           ],
           "answer": "rumah susun di lantai tujuh",
-          "discussion": "Dalam cerita “Kupu-Kupu Mira”, Mira dan keluarganya tinggal di sebuah rumah susun di lantai tujuh di Kota S."
+          "discussion": "Bacaan menyebut rumah susun dan jendela lantai tujuh; kedua petunjuk itu menunjukkan tempat tinggal Mira."
         },
         {
           "id": "BIN-B02-M01-002",
           "type": "PG",
-          "text": "Kegiatan yang paling disukai Mira adalah ....",
+          "text": "Bacalah teks latihan berikut.\n\nSetiap sore, Mira memilih sebuah buku dari rak. Setelah membacanya, ia menulis cerita baru di buku catatan. Ia selalu menantikan waktu untuk melakukan kedua kegiatan itu.\n\nKegiatan yang paling disukai Mira berdasarkan bacaan adalah ....",
           "options": [
             "membaca dan menulis cerita",
             "bermain bola dan bersepeda",
@@ -32,12 +32,12 @@
             "menggambar dan menari"
           ],
           "answer": "membaca dan menulis cerita",
-          "discussion": "Mira menyukai kegiatan membaca dan menulis cerita."
+          "discussion": "Mira membaca buku lalu menulis cerita, dan selalu menantikan kedua kegiatan tersebut."
         },
         {
           "id": "BIN-B02-M01-003",
           "type": "PG",
-          "text": "Jenis buku yang paling disukai Mira adalah ....",
+          "text": "Bacalah teks latihan berikut.\n\nDi rak Mira ada beberapa buku. Buku yang paling sering ia baca berjudul Ensiklopedi Keragaman Hayati. Mira menyukainya karena memuat informasi tentang berbagai tumbuhan dan hewan.\n\nJenis buku yang paling disukai Mira berdasarkan bacaan adalah ....",
           "options": [
             "Ensiklopedia Hewan Laut",
             "Ensiklopedi Keragaman Hayati",
@@ -45,12 +45,12 @@
             "Buku Sejarah Indonesia"
           ],
           "answer": "Ensiklopedi Keragaman Hayati",
-          "discussion": "Mira menyukai buku Ensiklopedi Keragaman Hayati."
+          "discussion": "Judul Ensiklopedi Keragaman Hayati disebut sebagai buku yang paling sering dibaca dan disukai Mira."
         },
         {
           "id": "BIN-B02-M01-004",
           "type": "PG",
-          "text": "Mengapa penghuni rumah susun tempat tinggal Mira dilarang memelihara binatang?",
+          "text": "Bacalah teks latihan berikut.\n\nPengurus rumah susun menjelaskan aturan kepada keluarga Mira. “Penghuni tidak diperbolehkan memelihara binatang di unit hunian. Bau dan suara binatang dapat mengganggu tetangga,” katanya.\n\nMengapa penghuni rumah susun dalam bacaan dilarang memelihara binatang?",
           "options": [
             "Karena binatang dapat merusak bangunan.",
             "Karena binatang membutuhkan halaman luas.",
@@ -58,12 +58,12 @@
             "Karena semua penghuni tidak menyukai binatang."
           ],
           "answer": "Karena dapat menimbulkan bau dan kebisingan.",
-          "discussion": "Aturan tersebut dibuat agar kenyamanan penghuni rumah susun tetap terjaga. Bau dan suara binatang dapat mengganggu orang lain."
+          "discussion": "Pengurus menjelaskan bahwa bau dan suara binatang dapat mengganggu tetangga. Kebisingan berarti suara yang mengganggu."
         },
         {
           "id": "BIN-B02-M01-005",
           "type": "PG",
-          "text": "Apa yang terjadi pada kupu-kupu Mira dalam cerita?",
+          "text": "Bacalah teks latihan berikut.\n\nMira mengamati seekor kupu-kupu yang hinggap di dekat jendela. Tiba-tiba seekor cecak besar menyambarnya. Mira terdiam sedih ketika melihat kupu-kupu itu berada dalam tangkapan cecak.\n\nApa yang terjadi pada kupu-kupu dalam bacaan?",
           "options": [
             "Kupu-kupu itu terbang ke taman.",
             "Kupu-kupu itu ditangkap oleh cecak besar.",
@@ -71,12 +71,12 @@
             "Kupu-kupu itu dibawa oleh teman Mira."
           ],
           "answer": "Kupu-kupu itu ditangkap oleh cecak besar.",
-          "discussion": "Dalam cerita, kupu-kupu Mira ditangkap oleh seekor cecak besar. Peristiwa tersebut membuat Mira merasa sedih."
+          "discussion": "Cecak besar menyambar kupu-kupu hingga tertangkap; bacaan tidak menyebut kupu-kupu dibawa teman atau terbang ke taman."
         },
         {
           "id": "BIN-B02-M01-006",
           "type": "PG",
-          "text": "Apapuhang dalam cerita rakyat “Lembah Apapuhang dan Orang-Orang Kecil” digambarkan sebagai ....",
+          "text": "Bacalah teks latihan berikut.\n\nDalam kisah rekaan ini, para Apapuhang tinggal di sela akar pohon. Tubuh mereka jauh lebih kecil daripada manusia biasa. Mereka harus bekerja bersama untuk memindahkan satu buah kelapa.\n\nPara Apapuhang dalam bacaan digambarkan sebagai ....",
           "options": [
             "raksasa penghuni gunung",
             "manusia yang tinggal di pesisir",
@@ -84,7 +84,7 @@
             "hewan yang hidup di sungai"
           ],
           "answer": "kurcaci atau orang bertubuh kecil",
-          "discussion": "Apapuhang merupakan sebutan bagi para kurcaci atau orang-orang bertubuh kecil yang hidup di lembah di kaki Gunung Awu."
+          "discussion": "Ciri tubuh yang jauh lebih kecil daripada manusia biasa sesuai dengan pilihan orang bertubuh kecil seperti kurcaci."
         },
         {
           "id": "BIN-B02-M01-007",
@@ -102,7 +102,7 @@
         {
           "id": "BIN-B02-M01-008",
           "type": "PG",
-          "text": "Dalam labirin istilah cerita Apapuhang, istilah “Saluu Apapuhang” berarti ....",
+          "text": "Bacalah teks latihan berikut.\n\nPara tokoh berjalan menyusuri Saluu Apapuhang. Aliran airnya sempit dan dangkal. Mereka dapat menyeberang dengan melangkahi beberapa batu tanpa menggunakan perahu.\n\nBerdasarkan petunjuk dalam bacaan, Saluu Apapuhang merupakan ....",
           "options": [
             "lembah",
             "sungai kecil",
@@ -110,7 +110,7 @@
             "kolam ikan dan pemandian"
           ],
           "answer": "sungai kecil",
-          "discussion": "Dalam daftar istilah cerita Apapuhang, Saluu Apapuhang berarti sungai kecil."
+          "discussion": "Aliran air yang sempit dan dangkal serta dapat diseberangi melalui batu menunjukkan sungai kecil, bukan lembah atau wadah anyaman."
         },
         {
           "id": "BIN-B02-M01-009",
@@ -258,7 +258,7 @@
         {
           "id": "BIN-B02-M01-020",
           "type": "PG",
-          "text": "Dalam labirin istilah cerita Apapuhang, kata “Bika” berarti ....",
+          "text": "Bacalah teks latihan berikut.\n\nNenek menganyam rotan menjadi sebuah bika. Ia membuat bagian dasar, dinding, dan pegangan agar hasilnya dapat dipakai membawa buah dari kebun.\n\nBenda yang disebut bika dalam bacaan adalah ....",
           "options": [
             "sungai kecil",
             "kolam ikan dan pemandian",
@@ -266,12 +266,12 @@
             "kurcaci atau orang bertubuh kecil"
           ],
           "answer": "keranjang anyaman dari rotan",
-          "discussion": "Dalam daftar istilah cerita Apapuhang, Bika berarti keranjang anyaman dari rotan."
+          "discussion": "Bahan rotan yang dianyam menjadi wadah berpegangan untuk membawa buah menunjukkan keranjang anyaman dari rotan."
         },
         {
           "id": "BIN-B02-M01-021",
           "type": "PG",
-          "text": "Para Apapuhang digambarkan sebagai kelompok yang suka bekerja keras. Bukti yang mendukung pernyataan tersebut adalah ....",
+          "text": "Bacalah teks latihan berikut.\n\nKetika persediaan makanan menipis, para Apapuhang pergi mencari bahan makanan. Saat membutuhkan air laut, mereka membuat peralatan untuk mengambilnya. Mereka terus berusaha meskipun pekerjaannya sulit.\n\nBukti bahwa para Apapuhang dalam bacaan suka bekerja keras adalah ....",
           "options": [
             "Mereka hanya tinggal di rumah dan tidak melakukan kegiatan.",
             "Mereka berusaha mencari makanan dan membuat alat untuk mendapatkan air laut.",
@@ -279,7 +279,7 @@
             "Mereka meninggalkan lembah untuk hidup di kota."
           ],
           "answer": "Mereka berusaha mencari makanan dan membuat alat untuk mendapatkan air laut.",
-          "discussion": "Cerita menggambarkan para Apapuhang berkelana mencari bahan makanan dan berusaha menciptakan peralatan untuk mengambil air laut."
+          "discussion": "Mencari bahan makanan dan membuat peralatan merupakan tindakan nyata yang menunjukkan usaha mereka menghadapi kesulitan."
         },
         {
           "id": "BIN-B02-M01-022",
@@ -297,7 +297,7 @@
         {
           "id": "BIN-B02-M01-023",
           "type": "PG",
-          "text": "Dalam labirin istilah cerita Apapuhang, istilah “Liua Bale” berarti ....",
+          "text": "Bacalah teks latihan berikut.\n\nWarga membersihkan Liua Bale. Pada satu bagiannya mereka memelihara ikan, sedangkan bagian lainnya digunakan untuk mandi. Kedua bagian itu dirawat agar airnya tetap bersih.\n\nLiua Bale dalam bacaan digunakan sebagai ....",
           "options": [
             "lembah",
             "sungai kecil",
@@ -305,7 +305,7 @@
             "kolam ikan dan pemandian"
           ],
           "answer": "kolam ikan dan pemandian",
-          "discussion": "Dalam daftar istilah cerita Apapuhang, Liua Bale berarti kolam ikan dan pemandian."
+          "discussion": "Satu bagian dipakai memelihara ikan dan bagian lain untuk mandi, sehingga fungsinya adalah kolam ikan dan pemandian."
         },
         {
           "id": "BIN-B02-M01-024",
@@ -323,7 +323,7 @@
         {
           "id": "BIN-B02-M01-025",
           "type": "PG",
-          "text": "Murai Kecil terjatuh ke dalam sumur tua setelah ....",
+          "text": "Bacalah teks latihan berikut.\n\nMurai Kecil terbang rendah untuk beristirahat. Tiba-tiba angin bertiup sangat kencang. Tubuhnya terhempas ke arah sumur tua, lalu ia jatuh ke dalamnya.\n\nMurai Kecil terjatuh ke dalam sumur tua setelah ....",
           "options": [
             "sayapnya digigit seekor tupai",
             "angin kencang menghempaskan tubuhnya",
@@ -331,12 +331,12 @@
             "ia sengaja masuk untuk mencari makanan"
           ],
           "answer": "angin kencang menghempaskan tubuhnya",
-          "discussion": "Murai Kecil terbang jauh dan kelelahan. Ketika terbang merendah untuk beristirahat, angin kencang menghempaskan tubuhnya hingga jatuh ke sumur."
+          "discussion": "Urutan peristiwa menyebut angin kencang menghempaskan tubuh Murai Kecil sebelum ia jatuh ke dalam sumur."
         },
         {
           "id": "BIN-B02-M01-026",
           "type": "PG",
-          "text": "Mengapa Murai Kecil tidak berhasil terbang keluar dari sumur?",
+          "text": "Bacalah teks latihan berikut.\n\nKetika jatuh, sayap Murai Kecil membentur dinding sumur hingga terluka. Ia mencoba mengepakkan sayap, tetapi rasa sakit membuatnya tidak dapat terbang keluar. Dasar sumur itu kering.\n\nMengapa Murai Kecil dalam bacaan tidak berhasil terbang keluar dari sumur?",
           "options": [
             "Karena ia tidak memiliki bulu.",
             "Karena sayapnya terluka akibat terjatuh.",
@@ -344,12 +344,12 @@
             "Karena ia tidak mengetahui arah pulang."
           ],
           "answer": "Karena sayapnya terluka akibat terjatuh.",
-          "discussion": "Sayap Murai Kecil terluka ketika tubuhnya menghantam dinding sumur. Luka tersebut membuatnya tidak dapat terbang kembali."
+          "discussion": "Sayap yang terluka terasa sakit ketika dikepakkan. Bacaan juga menyebut dasar sumur kering, sehingga air bukan penyebabnya."
         },
         {
           "id": "BIN-B02-M01-027",
           "type": "PG",
-          "text": "Ketika Murai Kecil berdoa meminta teman, hewan yang kemudian jatuh ke dalam sumur adalah ....",
+          "text": "Bacalah teks latihan berikut.\n\nDi dasar sumur, Murai Kecil berdoa agar mendapat teman. Tidak lama kemudian, seekor tupai yang berjalan di tepi sumur terpeleset. Tupai itu jatuh dan bertemu dengan Murai Kecil.\n\nHewan apa yang jatuh ke dalam sumur setelah Murai Kecil berdoa?",
           "options": [
             "kelinci",
             "tupai",
@@ -357,12 +357,12 @@
             "rusa"
           ],
           "answer": "tupai",
-          "discussion": "Setelah Murai Kecil berdoa, seekor tupai terpeleset dan jatuh ke dalam sumur sehingga mereka bertemu."
+          "discussion": "Bacaan menyebut tupai terpeleset dari tepi sumur lalu jatuh dan bertemu dengan Murai Kecil."
         },
         {
           "id": "BIN-B02-M01-028",
           "type": "PG",
-          "text": "Setelah Murai Kecil dan Tupai menyadari bahwa mereka perlu keluar dari sumur, doa yang dipanjatkan Tupai adalah ....",
+          "text": "Bacalah teks latihan berikut.\n\nMurai Kecil dan Tupai mencoba memanjat dinding sumur, tetapi gagal. Tupai lalu menengadahkan tangan sambil berdoa, “Tuhan, tolong keluarkan aku dari sumur ini.” Setelah itu, mereka kembali memikirkan cara meminta pertolongan.\n\nApa isi doa Tupai berdasarkan bacaan?",
           "options": [
             "agar sumur menjadi lebih dalam",
             "agar Tuhan mengeluarkannya dari sumur",
@@ -370,12 +370,12 @@
             "agar semua hewan datang ke sumur"
           ],
           "answer": "agar Tuhan mengeluarkannya dari sumur",
-          "discussion": "Tupai berdoa agar Tuhan mengeluarkannya dari tempat itu. Murai Kecil juga berdoa agar diberi makanan."
+          "discussion": "Tupai secara langsung meminta pertolongan Tuhan agar dapat keluar dari sumur; bacaan juga menunjukkan bahwa ia tetap berusaha."
         },
         {
           "id": "BIN-B02-M01-029",
           "type": "PG",
-          "text": "Mengapa Laba-laba akhirnya mencari Ibu Murai untuk meminta pertolongan?",
+          "text": "Bacalah teks latihan berikut.\n\nLaba-laba melihat Murai Kecil dan Tupai tidak dapat keluar dari sumur. Ia ingin keduanya selamat. Karena tidak mampu mengangkat mereka sendiri, ia pergi mencari Ibu Murai untuk meminta bantuan.\n\nMengapa Laba-laba mencari Ibu Murai berdasarkan bacaan?",
           "options": [
             "Karena ingin mendapatkan hadiah dari Ibu Murai.",
             "Karena ingin menolong Murai Kecil dan Tupai yang terjebak.",
@@ -383,12 +383,12 @@
             "Karena ingin mengusir Tupai dari sumur."
           ],
           "answer": "Karena ingin menolong Murai Kecil dan Tupai yang terjebak.",
-          "discussion": "Laba-laba ingin menolong Murai Kecil dan Tupai meskipun sempat merasa takut bertemu Ibu Murai."
+          "discussion": "Laba-laba ingin menyelamatkan kedua tokoh yang terjebak, tetapi membutuhkan bantuan karena tidak mampu mengangkat mereka sendiri."
         },
         {
           "id": "BIN-B02-M01-030",
           "type": "PG",
-          "text": "Nilai positif yang paling jelas terlihat dari tindakan Laba-laba dalam cerita adalah ....",
+          "text": "Bacalah teks latihan berikut.\n\nLaba-laba takut bertemu dengan burung yang lebih besar darinya. Namun, ia tetap mendatangi Ibu Murai untuk mengabarkan bahwa anaknya terjebak di sumur. Keselamatan temannya lebih ia utamakan daripada rasa takutnya.\n\nNilai positif yang tampak dari tindakan Laba-laba dalam bacaan adalah ....",
           "options": [
             "keberanian menolong makhluk lain",
             "keinginan untuk menang sendiri",
@@ -396,12 +396,12 @@
             "sikap tidak peduli terhadap kesulitan"
           ],
           "answer": "keberanian menolong makhluk lain",
-          "discussion": "Laba-laba memilih menolong Murai Kecil dan Tupai meskipun ia merasa takut. Tindakan tersebut mencerminkan kepedulian dan keberanian."
+          "discussion": "Laba-laba tetap mencari bantuan demi keselamatan teman meskipun takut. Tindakannya menunjukkan keberanian untuk menolong."
         },
         {
           "id": "BIN-B02-M01-031",
           "type": "PG",
-          "text": "Dalam cerita “Doa-Doa dalam Sumur Tua”, siapa yang datang menolong Murai Kecil dan Tupai setelah diberi tahu oleh Laba-laba?",
+          "text": "Bacalah teks latihan berikut.\n\nLaba-laba memberi tahu Ibu Murai bahwa Murai Kecil dan Tupai terjebak di sumur. Mendengar kabar itu, Ibu Murai segera terbang ke sumur dan mencari cara untuk menyelamatkan keduanya.\n\nSiapa yang datang menolong Murai Kecil dan Tupai setelah diberi tahu oleh Laba-laba?",
           "options": [
             "Ibu Murai",
             "seekor rusa",
@@ -409,7 +409,7 @@
             "seorang petani"
           ],
           "answer": "Ibu Murai",
-          "discussion": "Laba-laba menemui Ibu Murai dan memberitahukan bahwa anaknya terjebak di sumur. Ibu Murai kemudian datang menolong."
+          "discussion": "Ibu Murai menerima kabar dari Laba-laba lalu datang ke sumur untuk menyelamatkan kedua tokoh."
         },
         {
           "id": "BIN-B02-M01-032",
@@ -557,7 +557,7 @@
         {
           "id": "BIN-B02-M01-043",
           "type": "PG",
-          "text": "Dalam cerita “Legenda Telaga Sarangan”, peristiwa yang menyebabkan Kyai Pasir mulai merasakan perubahan pada tubuhnya setelah kembali ke ladang adalah ....",
+          "text": "Bacalah teks latihan berikut.\n\nDalam ringkasan legenda ini, Kyai Pasir menemukan sebutir telur dan membawanya pulang. Nyai Pasir merebus telur itu, lalu mereka membaginya dan memakannya. Setelah kembali ke ladang, tubuh Kyai Pasir mulai terasa panas dan berubah.\n\nBerdasarkan urutan dalam ringkasan, peristiwa mana yang terjadi tepat sebelum Kyai Pasir kembali ke ladang dan tubuhnya mulai berubah?",
           "options": [
             "ia menemukan telur di bawah pohon",
             "ia dan Nyai Pasir memakan telur yang direbus",
@@ -565,7 +565,7 @@
             "ia membawa telur pulang untuk diberikan kepada istrinya"
           ],
           "answer": "ia dan Nyai Pasir memakan telur yang direbus",
-          "discussion": "Setelah telur yang ditemukan Kyai Pasir direbus, dibagi dua, dan dimakan oleh Kyai Pasir serta Nyai Pasir, Kyai Pasir kembali ke ladang. Tidak lama kemudian tubuhnya terasa panas dan sakit."
+          "discussion": "Urutannya ialah menemukan telur, membawa pulang, merebus dan memakannya bersama, lalu kembali ke ladang. Peristiwa yang ditanyakan adalah memakan telur rebus bersama Nyai Pasir; ini alur legenda, bukan penjelasan ilmiah."
         },
         {
           "id": "BIN-B02-M01-044",
