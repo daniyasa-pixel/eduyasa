@@ -11,7 +11,7 @@
         {
           "id": "PKN-B07-001",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang gotong royong?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan gotong royong?",
           "options": [
             "Gotong royong adalah bekerja bersama untuk mencapai tujuan bersama.",
             " Bukan menyerahkan seluruh pekerjaan kepada satu orang.",
@@ -19,7 +19,7 @@
             "Kerja bersama membantu kepentingan bersama."
           ],
           "answer": "Gotong royong adalah bekerja bersama untuk mencapai tujuan bersama.",
-          "discussion": "Materi bab menjelaskan bahwa gotong royong adalah bekerja bersama untuk mencapai tujuan bersama."
+          "discussion": "Gotong royong adalah bekerja bersama untuk mencapai tujuan bersama. Hal itu menjelaskan gagasan pokok gotong royong dalam kehidupan bersama."
         },
         {
           "id": "PKN-B07-002",
@@ -32,25 +32,25 @@
             "Gotong royong adalah bekerja bersama untuk mencapai tujuan bersama."
           ],
           "answer": "Warga bersama-sama membersihkan saluran air.",
-          "discussion": "Contoh tersebut sesuai karena warga bersama-sama membersihkan saluran air."
+          "discussion": "Warga bersama-sama membersihkan saluran air. Jawaban tersebut memberi contoh penerapan nyata gotong royong, bukan hanya definisinya."
         },
         {
           "id": "PKN-B07-003",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait gotong royong adalah ...",
+          "text": "Manakah anggapan yang keliru mengenai gotong royong?",
           "options": [
             "Gotong royong adalah bekerja bersama untuk mencapai tujuan bersama.",
             "Warga bersama-sama membersihkan saluran air.",
-            "Bukan menyerahkan seluruh pekerjaan kepada satu orang.",
+            "Gotong royong berarti seluruh pekerjaan diserahkan hanya kepada satu orang.",
             "Kerja bersama membantu kepentingan bersama."
           ],
-          "answer": "Bukan menyerahkan seluruh pekerjaan kepada satu orang.",
-          "discussion": "Hal yang perlu dihindari adalah bukan menyerahkan seluruh pekerjaan kepada satu orang."
+          "answer": "Gotong royong berarti seluruh pekerjaan diserahkan hanya kepada satu orang.",
+          "discussion": "Anggapan “Gotong royong berarti seluruh pekerjaan diserahkan hanya kepada satu orang.” keliru. Gotong royong adalah bekerja bersama untuk mencapai tujuan bersama. Karena itu, pembagian peran, kepedulian, dan kerja bersama perlu disesuaikan dengan tujuan kegiatan."
         },
         {
           "id": "PKN-B07-004",
           "type": "PG",
-          "text": "Mengapa gotong royong penting dalam kehidupan bersama?",
+          "text": "Apa manfaat utama gotong royong bagi kegiatan bersama?",
           "options": [
             "Bukan menyerahkan seluruh pekerjaan kepada satu orang.",
             "Gotong royong adalah bekerja bersama untuk mencapai tujuan bersama.",
@@ -58,25 +58,25 @@
             "Kerja bersama membantu kepentingan bersama."
           ],
           "answer": "Kerja bersama membantu kepentingan bersama.",
-          "discussion": "Manfaatnya adalah kerja bersama membantu kepentingan bersama."
+          "discussion": "Kerja bersama membantu kepentingan bersama. Manfaat ini muncul ketika warga bekerja sama, saling menghargai, dan membagi peran."
         },
         {
           "id": "PKN-B07-005",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan gotong royong?",
+          "text": "Warga berkumpul untuk membersihkan saluran air. Sebagian mengangkat sampah, sebagian mengumpulkan alat, dan sebagian mengangkut sampah. Kegiatan itu merupakan contoh ...",
           "options": [
-            "Warga bersama-sama membersihkan saluran air.",
-            "Bukan menyerahkan seluruh pekerjaan kepada satu orang.",
-            "Kerja bersama membantu kepentingan bersama.",
-            "Gotong royong adalah bekerja bersama untuk mencapai tujuan bersama."
+            "Gotong royong karena warga bekerja bersama mencapai tujuan.",
+            "Pekerjaan pribadi tanpa keterlibatan warga lain.",
+            "Kegiatan yang melarang pembagian tugas.",
+            "Persaingan untuk menentukan warga yang paling kuat."
           ],
-          "answer": "Warga bersama-sama membersihkan saluran air.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang gotong royong. Warga bersama-sama membersihkan saluran air."
+          "answer": "Gotong royong karena warga bekerja bersama mencapai tujuan.",
+          "discussion": "Gotong royong karena warga bekerja bersama mencapai tujuan. Hal ini sesuai dengan tindakan yang dijelaskan secara lengkap dalam cerita pendek pada soal."
         },
         {
           "id": "PKN-B07-006",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang gotong royong dan persatuan?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan gotong royong dan persatuan?",
           "options": [
             " Bukan hanya bekerja dengan orang yang sama suku atau agamanya.",
             "Gotong royong memperkuat persatuan melalui kebersamaan dan saling percaya.",
@@ -84,7 +84,7 @@
             "Kerja sama membuat orang merasa menjadi bagian kelompok."
           ],
           "answer": "Gotong royong memperkuat persatuan melalui kebersamaan dan saling percaya.",
-          "discussion": "Materi bab menjelaskan bahwa gotong royong memperkuat persatuan melalui kebersamaan dan saling percaya."
+          "discussion": "Gotong royong memperkuat persatuan melalui kebersamaan dan saling percaya. Hal itu menjelaskan gagasan pokok gotong royong dan persatuan dalam kehidupan bersama."
         },
         {
           "id": "PKN-B07-007",
@@ -97,25 +97,25 @@
             "Gotong royong memperkuat persatuan melalui kebersamaan dan saling percaya."
           ],
           "answer": "Orang berbeda latar belakang bekerja untuk tujuan yang sama.",
-          "discussion": "Contoh tersebut sesuai karena orang berbeda latar belakang bekerja untuk tujuan yang sama."
+          "discussion": "Orang berbeda latar belakang bekerja untuk tujuan yang sama. Jawaban tersebut memberi contoh penerapan nyata gotong royong dan persatuan, bukan hanya definisinya."
         },
         {
           "id": "PKN-B07-008",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait gotong royong dan persatuan adalah ...",
+          "text": "Manakah anggapan yang keliru mengenai gotong royong dan persatuan?",
           "options": [
             "Gotong royong memperkuat persatuan melalui kebersamaan dan saling percaya.",
             "Orang berbeda latar belakang bekerja untuk tujuan yang sama.",
             "Kerja sama membuat orang merasa menjadi bagian kelompok.",
-            "Bukan hanya bekerja dengan orang yang sama suku atau agamanya."
+            "Gotong royong hanya boleh dilakukan bersama warga yang bersuku dan beragama sama."
           ],
-          "answer": "Bukan hanya bekerja dengan orang yang sama suku atau agamanya.",
-          "discussion": "Hal yang perlu dihindari adalah bukan hanya bekerja dengan orang yang sama suku atau agamanya."
+          "answer": "Gotong royong hanya boleh dilakukan bersama warga yang bersuku dan beragama sama.",
+          "discussion": "Anggapan “Gotong royong hanya boleh dilakukan bersama warga yang bersuku dan beragama sama.” keliru. Gotong royong memperkuat persatuan melalui kebersamaan dan saling percaya. Karena itu, pembagian peran, kepedulian, dan kerja bersama perlu disesuaikan dengan tujuan kegiatan."
         },
         {
           "id": "PKN-B07-009",
           "type": "PG",
-          "text": "Mengapa gotong royong dan persatuan penting dalam kehidupan bersama?",
+          "text": "Apa manfaat utama gotong royong dan persatuan bagi kegiatan bersama?",
           "options": [
             "Kerja sama membuat orang merasa menjadi bagian kelompok.",
             "Bukan hanya bekerja dengan orang yang sama suku atau agamanya.",
@@ -123,25 +123,25 @@
             "Orang berbeda latar belakang bekerja untuk tujuan yang sama."
           ],
           "answer": "Kerja sama membuat orang merasa menjadi bagian kelompok.",
-          "discussion": "Manfaatnya adalah kerja sama membuat orang merasa menjadi bagian kelompok."
+          "discussion": "Kerja sama membuat orang merasa menjadi bagian kelompok. Manfaat ini muncul ketika warga bekerja sama, saling menghargai, dan membagi peran."
         },
         {
           "id": "PKN-B07-010",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan gotong royong dan persatuan?",
+          "text": "Warga dari latar belakang berbeda bersama-sama memperbaiki tempat bermain anak. Mengapa kegiatan itu memperkuat persatuan?",
           "options": [
-            "Bukan hanya bekerja dengan orang yang sama suku atau agamanya.",
-            "Orang berbeda latar belakang bekerja untuk tujuan yang sama.",
-            "Kerja sama membuat orang merasa menjadi bagian kelompok.",
-            "Gotong royong memperkuat persatuan melalui kebersamaan dan saling percaya."
+            "Perbedaan warga membuat kerja sama pasti gagal.",
+            "Mereka belajar saling percaya ketika bekerja untuk kepentingan bersama.",
+            "Persatuan hanya tumbuh jika semua warga memiliki budaya sama.",
+            "Hanya anggota kelompok tertentu yang layak dilibatkan."
           ],
-          "answer": "Orang berbeda latar belakang bekerja untuk tujuan yang sama.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang gotong royong dan persatuan. Orang berbeda latar belakang bekerja untuk tujuan yang sama."
+          "answer": "Mereka belajar saling percaya ketika bekerja untuk kepentingan bersama.",
+          "discussion": "Mereka belajar saling percaya ketika bekerja untuk kepentingan bersama. Hal ini sesuai dengan tindakan yang dijelaskan secara lengkap dalam cerita pendek pada soal."
         },
         {
           "id": "PKN-B07-011",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang pekerjaan lebih ringan?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan pekerjaan lebih ringan?",
           "options": [
             " Bukan menambah beban satu orang saja.",
             " Banyak orang membagi pekerjaan membersihkan halaman.",
@@ -149,7 +149,7 @@
             "Tugas yang berat dapat dibagi menjadi bagian yang lebih mudah."
           ],
           "answer": "Salah satu manfaat gotong royong adalah pekerjaan terasa lebih ringan.",
-          "discussion": "Materi bab menjelaskan bahwa salah satu manfaat gotong royong adalah pekerjaan terasa lebih ringan."
+          "discussion": "Salah satu manfaat gotong royong adalah pekerjaan terasa lebih ringan. Hal itu menjelaskan gagasan pokok pekerjaan lebih ringan dalam kehidupan bersama."
         },
         {
           "id": "PKN-B07-012",
@@ -162,25 +162,25 @@
             "Banyak orang membagi pekerjaan membersihkan halaman."
           ],
           "answer": "Banyak orang membagi pekerjaan membersihkan halaman.",
-          "discussion": "Contoh tersebut sesuai karena banyak orang membagi pekerjaan membersihkan halaman."
+          "discussion": "Banyak orang membagi pekerjaan membersihkan halaman. Jawaban tersebut memberi contoh penerapan nyata pekerjaan lebih ringan, bukan hanya definisinya."
         },
         {
           "id": "PKN-B07-013",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait pekerjaan lebih ringan adalah ...",
+          "text": "Manakah anggapan yang keliru mengenai pekerjaan lebih ringan?",
           "options": [
-            "Bukan menambah beban satu orang saja.",
+            "Membagi pekerjaan dalam gotong royong selalu membuat satu orang menanggung semua beban.",
             "Salah satu manfaat gotong royong adalah pekerjaan terasa lebih ringan.",
             "Banyak orang membagi pekerjaan membersihkan halaman.",
             "Tugas yang berat dapat dibagi menjadi bagian yang lebih mudah."
           ],
-          "answer": "Bukan menambah beban satu orang saja.",
-          "discussion": "Hal yang perlu dihindari adalah bukan menambah beban satu orang saja."
+          "answer": "Membagi pekerjaan dalam gotong royong selalu membuat satu orang menanggung semua beban.",
+          "discussion": "Anggapan “Membagi pekerjaan dalam gotong royong selalu membuat satu orang menanggung semua beban.” keliru. Salah satu manfaat gotong royong adalah pekerjaan terasa lebih ringan. Karena itu, pembagian peran, kepedulian, dan kerja bersama perlu disesuaikan dengan tujuan kegiatan."
         },
         {
           "id": "PKN-B07-014",
           "type": "PG",
-          "text": "Mengapa pekerjaan lebih ringan penting dalam kehidupan bersama?",
+          "text": "Apa manfaat utama pekerjaan lebih ringan bagi kegiatan bersama?",
           "options": [
             "Bukan menambah beban satu orang saja.",
             "Tugas yang berat dapat dibagi menjadi bagian yang lebih mudah.",
@@ -188,25 +188,25 @@
             "Banyak orang membagi pekerjaan membersihkan halaman."
           ],
           "answer": "Tugas yang berat dapat dibagi menjadi bagian yang lebih mudah.",
-          "discussion": "Manfaatnya adalah tugas yang berat dapat dibagi menjadi bagian yang lebih mudah."
+          "discussion": "Tugas yang berat dapat dibagi menjadi bagian yang lebih mudah. Manfaat ini muncul ketika warga bekerja sama, saling menghargai, dan membagi peran."
         },
         {
           "id": "PKN-B07-015",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan pekerjaan lebih ringan?",
+          "text": "Taman sekolah luas dan sulit dibersihkan satu orang. Guru membagi pekerjaan kepada beberapa kelompok sesuai kemampuan. Manfaat paling nyata dari cara itu adalah ...",
           "options": [
-            "Bukan menambah beban satu orang saja.",
-            "Tugas yang berat dapat dibagi menjadi bagian yang lebih mudah.",
-            "Banyak orang membagi pekerjaan membersihkan halaman.",
-            "Salah satu manfaat gotong royong adalah pekerjaan terasa lebih ringan."
+            "Semua tugas otomatis selesai tanpa ada yang bekerja.",
+            "Satu siswa harus mengerjakan seluruh pekerjaan sendirian.",
+            "Beban kerja terbagi sehingga tiap kelompok mengerjakan bagian yang lebih ringan.",
+            "Pembagian tugas membuat kerja sama menjadi mustahil."
           ],
-          "answer": "Banyak orang membagi pekerjaan membersihkan halaman.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang pekerjaan lebih ringan. Banyak orang membagi pekerjaan membersihkan halaman."
+          "answer": "Beban kerja terbagi sehingga tiap kelompok mengerjakan bagian yang lebih ringan.",
+          "discussion": "Beban kerja terbagi sehingga tiap kelompok mengerjakan bagian yang lebih ringan. Hal ini sesuai dengan tindakan yang dijelaskan secara lengkap dalam cerita pendek pada soal."
         },
         {
           "id": "PKN-B07-016",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang pekerjaan lebih cepat?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan pekerjaan lebih cepat?",
           "options": [
             " Bukan semua orang menunggu satu orang bekerja.",
             " Sebagian menyiapkan alat, sebagian membersihkan, dan sebagian merapikan.",
@@ -214,7 +214,7 @@
             "Pembagian peran dapat membuat pekerjaan selesai lebih cepat."
           ],
           "answer": "Pembagian peran dapat membuat pekerjaan selesai lebih cepat.",
-          "discussion": "Materi bab menjelaskan bahwa pembagian peran dapat membuat pekerjaan selesai lebih cepat."
+          "discussion": "Pembagian peran dapat membuat pekerjaan selesai lebih cepat. Hal itu menjelaskan gagasan pokok pekerjaan lebih cepat dalam kehidupan bersama."
         },
         {
           "id": "PKN-B07-017",
@@ -227,25 +227,25 @@
             "Pembagian peran dapat membuat pekerjaan selesai lebih cepat."
           ],
           "answer": "Sebagian menyiapkan alat, sebagian membersihkan, dan sebagian merapikan.",
-          "discussion": "Contoh tersebut sesuai karena sebagian menyiapkan alat, sebagian membersihkan, dan sebagian merapikan."
+          "discussion": "Sebagian menyiapkan alat, sebagian membersihkan, dan sebagian merapikan. Jawaban tersebut memberi contoh penerapan nyata pekerjaan lebih cepat, bukan hanya definisinya."
         },
         {
           "id": "PKN-B07-018",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait pekerjaan lebih cepat adalah ...",
+          "text": "Manakah anggapan yang keliru mengenai pekerjaan lebih cepat?",
           "options": [
             "Pembagian peran dapat membuat pekerjaan selesai lebih cepat.",
-            "Bukan semua orang menunggu satu orang bekerja.",
+            "Agar pekerjaan lebih cepat, semua orang harus menunggu satu orang selesai bekerja.",
             "Sebagian menyiapkan alat, sebagian membersihkan, dan sebagian merapikan.",
             "Setiap orang berkontribusi pada bagian pekerjaan."
           ],
-          "answer": "Bukan semua orang menunggu satu orang bekerja.",
-          "discussion": "Hal yang perlu dihindari adalah bukan semua orang menunggu satu orang bekerja."
+          "answer": "Agar pekerjaan lebih cepat, semua orang harus menunggu satu orang selesai bekerja.",
+          "discussion": "Anggapan “Agar pekerjaan lebih cepat, semua orang harus menunggu satu orang selesai bekerja.” keliru. Pembagian peran dapat membuat pekerjaan selesai lebih cepat. Karena itu, pembagian peran, kepedulian, dan kerja bersama perlu disesuaikan dengan tujuan kegiatan."
         },
         {
           "id": "PKN-B07-019",
           "type": "PG",
-          "text": "Mengapa pekerjaan lebih cepat penting dalam kehidupan bersama?",
+          "text": "Apa manfaat utama pekerjaan lebih cepat bagi kegiatan bersama?",
           "options": [
             "Bukan semua orang menunggu satu orang bekerja.",
             "Pembagian peran dapat membuat pekerjaan selesai lebih cepat.",
@@ -253,25 +253,25 @@
             "Sebagian menyiapkan alat, sebagian membersihkan, dan sebagian merapikan."
           ],
           "answer": "Setiap orang berkontribusi pada bagian pekerjaan.",
-          "discussion": "Manfaatnya adalah setiap orang berkontribusi pada bagian pekerjaan."
+          "discussion": "Setiap orang berkontribusi pada bagian pekerjaan. Manfaat ini muncul ketika warga bekerja sama, saling menghargai, dan membagi peran."
         },
         {
           "id": "PKN-B07-020",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan pekerjaan lebih cepat?",
+          "text": "Saat kerja bakti, kelompok A menyiapkan alat, kelompok B menyapu, dan kelompok C mengumpulkan sampah secara terkoordinasi. Mengapa pekerjaan bisa lebih cepat?",
           "options": [
-            "Bukan semua orang menunggu satu orang bekerja.",
-            "Setiap orang berkontribusi pada bagian pekerjaan.",
-            "Pembagian peran dapat membuat pekerjaan selesai lebih cepat.",
-            "Sebagian menyiapkan alat, sebagian membersihkan, dan sebagian merapikan."
+            "Karena setiap orang mengerjakan tugas yang sama tanpa koordinasi.",
+            "Karena hanya ketua kelas yang bekerja.",
+            "Karena kegiatan tidak memerlukan rencana maupun pembagian alat.",
+            "Beberapa tugas dapat dikerjakan bersamaan dengan pembagian peran yang jelas."
           ],
-          "answer": "Sebagian menyiapkan alat, sebagian membersihkan, dan sebagian merapikan.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang pekerjaan lebih cepat. Sebagian menyiapkan alat, sebagian membersihkan, dan sebagian merapikan."
+          "answer": "Beberapa tugas dapat dikerjakan bersamaan dengan pembagian peran yang jelas.",
+          "discussion": "Beberapa tugas dapat dikerjakan bersamaan dengan pembagian peran yang jelas. Hal ini sesuai dengan tindakan yang dijelaskan secara lengkap dalam cerita pendek pada soal."
         },
         {
           "id": "PKN-B07-021",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang mempererat persaudaraan?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan mempererat persaudaraan?",
           "options": [
             "Kegiatan bersama membuat orang saling mengenal dan peduli.",
             " Bukan menghindari komunikasi saat bekerja.",
@@ -279,7 +279,7 @@
             "Kebersamaan memperkuat hubungan sosial."
           ],
           "answer": "Kegiatan bersama membuat orang saling mengenal dan peduli.",
-          "discussion": "Materi bab menjelaskan bahwa kegiatan bersama membuat orang saling mengenal dan peduli."
+          "discussion": "Kegiatan bersama membuat orang saling mengenal dan peduli. Hal itu menjelaskan gagasan pokok mempererat persaudaraan dalam kehidupan bersama."
         },
         {
           "id": "PKN-B07-022",
@@ -292,25 +292,25 @@
             "Kegiatan bersama membuat orang saling mengenal dan peduli."
           ],
           "answer": "Teman sekelas merawat taman bersama.",
-          "discussion": "Contoh tersebut sesuai karena teman sekelas merawat taman bersama."
+          "discussion": "Teman sekelas merawat taman bersama. Jawaban tersebut memberi contoh penerapan nyata mempererat persaudaraan, bukan hanya definisinya."
         },
         {
           "id": "PKN-B07-023",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait mempererat persaudaraan adalah ...",
+          "text": "Manakah anggapan yang keliru mengenai mempererat persaudaraan?",
           "options": [
             "Kegiatan bersama membuat orang saling mengenal dan peduli.",
             "Teman sekelas merawat taman bersama.",
-            "Bukan menghindari komunikasi saat bekerja.",
+            "Gotong royong akan mempererat persaudaraan jika warga sama sekali tidak saling berkomunikasi.",
             "Kebersamaan memperkuat hubungan sosial."
           ],
-          "answer": "Bukan menghindari komunikasi saat bekerja.",
-          "discussion": "Hal yang perlu dihindari adalah bukan menghindari komunikasi saat bekerja."
+          "answer": "Gotong royong akan mempererat persaudaraan jika warga sama sekali tidak saling berkomunikasi.",
+          "discussion": "Anggapan “Gotong royong akan mempererat persaudaraan jika warga sama sekali tidak saling berkomunikasi.” keliru. Kegiatan bersama membuat orang saling mengenal dan peduli. Karena itu, pembagian peran, kepedulian, dan kerja bersama perlu disesuaikan dengan tujuan kegiatan."
         },
         {
           "id": "PKN-B07-024",
           "type": "PG",
-          "text": "Mengapa mempererat persaudaraan penting dalam kehidupan bersama?",
+          "text": "Apa manfaat utama mempererat persaudaraan bagi kegiatan bersama?",
           "options": [
             "Bukan menghindari komunikasi saat bekerja.",
             "Kegiatan bersama membuat orang saling mengenal dan peduli.",
@@ -318,25 +318,25 @@
             "Kebersamaan memperkuat hubungan sosial."
           ],
           "answer": "Kebersamaan memperkuat hubungan sosial.",
-          "discussion": "Manfaatnya adalah kebersamaan memperkuat hubungan sosial."
+          "discussion": "Kebersamaan memperkuat hubungan sosial. Manfaat ini muncul ketika warga bekerja sama, saling menghargai, dan membagi peran."
         },
         {
           "id": "PKN-B07-025",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan mempererat persaudaraan?",
+          "text": "Sebelum kerja bakti, dua siswa belum saling mengenal. Saat bekerja, mereka berbagi alat, berbicara sopan, dan saling menolong. Apa manfaat sosial kegiatan tersebut?",
           "options": [
-            "Teman sekelas merawat taman bersama.",
-            "Bukan menghindari komunikasi saat bekerja.",
-            "Kebersamaan memperkuat hubungan sosial.",
-            "Kegiatan bersama membuat orang saling mengenal dan peduli."
+            "Hubungan mereka menjadi lebih akrab melalui kerja sama dan kepedulian.",
+            "Mereka harus berhenti berteman setelah tugas selesai.",
+            "Kerja bersama selalu menimbulkan permusuhan.",
+            "Persaudaraan hanya dapat tumbuh jika orang tidak berinteraksi."
           ],
-          "answer": "Teman sekelas merawat taman bersama.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang mempererat persaudaraan. Teman sekelas merawat taman bersama."
+          "answer": "Hubungan mereka menjadi lebih akrab melalui kerja sama dan kepedulian.",
+          "discussion": "Hubungan mereka menjadi lebih akrab melalui kerja sama dan kepedulian. Hal ini sesuai dengan tindakan yang dijelaskan secara lengkap dalam cerita pendek pada soal."
         },
         {
           "id": "PKN-B07-026",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang tidak membeda-bedakan?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan tidak membeda-bedakan?",
           "options": [
             " Bukan memilih peserta hanya dari kelompok sendiri.",
             "Gotong royong harus menghargai semua orang tanpa membedakan latar belakang.",
@@ -344,7 +344,7 @@
             "Setiap orang layak dihormati dan dilibatkan."
           ],
           "answer": "Gotong royong harus menghargai semua orang tanpa membedakan latar belakang.",
-          "discussion": "Materi bab menjelaskan bahwa gotong royong harus menghargai semua orang tanpa membedakan latar belakang."
+          "discussion": "Gotong royong harus menghargai semua orang tanpa membedakan latar belakang. Hal itu menjelaskan gagasan pokok tidak membeda-bedakan dalam kehidupan bersama."
         },
         {
           "id": "PKN-B07-027",
@@ -357,25 +357,25 @@
             "Gotong royong harus menghargai semua orang tanpa membedakan latar belakang."
           ],
           "answer": "Mengajak semua teman berperan dalam kegiatan kelas.",
-          "discussion": "Contoh tersebut sesuai karena mengajak semua teman berperan dalam kegiatan kelas."
+          "discussion": "Mengajak semua teman berperan dalam kegiatan kelas. Jawaban tersebut memberi contoh penerapan nyata tidak membeda-bedakan, bukan hanya definisinya."
         },
         {
           "id": "PKN-B07-028",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait tidak membeda-bedakan adalah ...",
+          "text": "Manakah anggapan yang keliru mengenai tidak membeda-bedakan?",
           "options": [
             "Gotong royong harus menghargai semua orang tanpa membedakan latar belakang.",
             "Mengajak semua teman berperan dalam kegiatan kelas.",
             "Setiap orang layak dihormati dan dilibatkan.",
-            "Bukan memilih peserta hanya dari kelompok sendiri."
+            "Hanya orang dari kelompok yang sama boleh ikut gotong royong."
           ],
-          "answer": "Bukan memilih peserta hanya dari kelompok sendiri.",
-          "discussion": "Hal yang perlu dihindari adalah bukan memilih peserta hanya dari kelompok sendiri."
+          "answer": "Hanya orang dari kelompok yang sama boleh ikut gotong royong.",
+          "discussion": "Anggapan “Hanya orang dari kelompok yang sama boleh ikut gotong royong.” keliru. Gotong royong harus menghargai semua orang tanpa membedakan latar belakang. Karena itu, pembagian peran, kepedulian, dan kerja bersama perlu disesuaikan dengan tujuan kegiatan."
         },
         {
           "id": "PKN-B07-029",
           "type": "PG",
-          "text": "Mengapa tidak membeda-bedakan penting dalam kehidupan bersama?",
+          "text": "Apa manfaat utama tidak membeda-bedakan bagi kegiatan bersama?",
           "options": [
             "Setiap orang layak dihormati dan dilibatkan.",
             "Bukan memilih peserta hanya dari kelompok sendiri.",
@@ -383,25 +383,25 @@
             "Mengajak semua teman berperan dalam kegiatan kelas."
           ],
           "answer": "Setiap orang layak dihormati dan dilibatkan.",
-          "discussion": "Manfaatnya adalah setiap orang layak dihormati dan dilibatkan."
+          "discussion": "Setiap orang layak dihormati dan dilibatkan. Manfaat ini muncul ketika warga bekerja sama, saling menghargai, dan membagi peran."
         },
         {
           "id": "PKN-B07-030",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan tidak membeda-bedakan?",
+          "text": "Panitia kerja bakti membuka kesempatan bagi seluruh teman untuk membantu sesuai kemampuannya, tanpa menilai asal daerah. Prinsip yang diterapkan adalah ...",
           "options": [
-            "Bukan memilih peserta hanya dari kelompok sendiri.",
-            "Mengajak semua teman berperan dalam kegiatan kelas.",
-            "Setiap orang layak dihormati dan dilibatkan.",
-            "Gotong royong harus menghargai semua orang tanpa membedakan latar belakang."
+            "Mengutamakan peserta dari kelompok terdekat saja.",
+            "Tidak membeda-bedakan peserta dan menghargai kontribusi semua orang.",
+            "Melarang teman baru memberikan bantuan.",
+            "Membagi tugas berdasarkan asal suku, bukan kemampuan."
           ],
-          "answer": "Mengajak semua teman berperan dalam kegiatan kelas.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang tidak membeda-bedakan. Mengajak semua teman berperan dalam kegiatan kelas."
+          "answer": "Tidak membeda-bedakan peserta dan menghargai kontribusi semua orang.",
+          "discussion": "Tidak membeda-bedakan peserta dan menghargai kontribusi semua orang. Hal ini sesuai dengan tindakan yang dijelaskan secara lengkap dalam cerita pendek pada soal."
         },
         {
           "id": "PKN-B07-031",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang tugas sesuai kemampuan?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan tugas sesuai kemampuan?",
           "options": [
             " Bukan memaksa semua orang mengerjakan tugas identik.",
             " Teman yang tidak dapat menyapu dapat membantu mencatat perlengkapan.",
@@ -409,7 +409,7 @@
             "Pembagian sesuai kemampuan memberi kesempatan berpartisipasi."
           ],
           "answer": "Tugas gotong royong dibagi sesuai kemampuan dan kondisi peserta.",
-          "discussion": "Materi bab menjelaskan bahwa tugas gotong royong dibagi sesuai kemampuan dan kondisi peserta."
+          "discussion": "Tugas gotong royong dibagi sesuai kemampuan dan kondisi peserta. Hal itu menjelaskan gagasan pokok tugas sesuai kemampuan dalam kehidupan bersama."
         },
         {
           "id": "PKN-B07-032",
@@ -422,25 +422,25 @@
             "Teman yang tidak dapat menyapu dapat membantu mencatat perlengkapan."
           ],
           "answer": "Teman yang tidak dapat menyapu dapat membantu mencatat perlengkapan.",
-          "discussion": "Contoh tersebut sesuai karena teman yang tidak dapat menyapu dapat membantu mencatat perlengkapan."
+          "discussion": "Teman yang tidak dapat menyapu dapat membantu mencatat perlengkapan. Jawaban tersebut memberi contoh penerapan nyata tugas sesuai kemampuan, bukan hanya definisinya."
         },
         {
           "id": "PKN-B07-033",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait tugas sesuai kemampuan adalah ...",
+          "text": "Manakah anggapan yang keliru mengenai tugas sesuai kemampuan?",
           "options": [
-            "Bukan memaksa semua orang mengerjakan tugas identik.",
+            "Semua peserta gotong royong harus memegang alat dan mengerjakan pekerjaan identik.",
             "Tugas gotong royong dibagi sesuai kemampuan dan kondisi peserta.",
             "Teman yang tidak dapat menyapu dapat membantu mencatat perlengkapan.",
             "Pembagian sesuai kemampuan memberi kesempatan berpartisipasi."
           ],
-          "answer": "Bukan memaksa semua orang mengerjakan tugas identik.",
-          "discussion": "Hal yang perlu dihindari adalah bukan memaksa semua orang mengerjakan tugas identik."
+          "answer": "Semua peserta gotong royong harus memegang alat dan mengerjakan pekerjaan identik.",
+          "discussion": "Anggapan “Semua peserta gotong royong harus memegang alat dan mengerjakan pekerjaan identik.” keliru. Tugas gotong royong dibagi sesuai kemampuan dan kondisi peserta. Karena itu, pembagian peran, kepedulian, dan kerja bersama perlu disesuaikan dengan tujuan kegiatan."
         },
         {
           "id": "PKN-B07-034",
           "type": "PG",
-          "text": "Mengapa tugas sesuai kemampuan penting dalam kehidupan bersama?",
+          "text": "Apa manfaat utama tugas sesuai kemampuan bagi kegiatan bersama?",
           "options": [
             "Bukan memaksa semua orang mengerjakan tugas identik.",
             "Pembagian sesuai kemampuan memberi kesempatan berpartisipasi.",
@@ -448,25 +448,25 @@
             "Teman yang tidak dapat menyapu dapat membantu mencatat perlengkapan."
           ],
           "answer": "Pembagian sesuai kemampuan memberi kesempatan berpartisipasi.",
-          "discussion": "Manfaatnya adalah pembagian sesuai kemampuan memberi kesempatan berpartisipasi."
+          "discussion": "Pembagian sesuai kemampuan memberi kesempatan berpartisipasi. Manfaat ini muncul ketika warga bekerja sama, saling menghargai, dan membagi peran."
         },
         {
           "id": "PKN-B07-035",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan tugas sesuai kemampuan?",
+          "text": "Fikri tidak dapat mengangkat barang berat, tetapi mampu mencatat perlengkapan dan membagikan air minum. Apa pembagian tugas yang paling tepat?",
           "options": [
-            "Bukan memaksa semua orang mengerjakan tugas identik.",
-            "Pembagian sesuai kemampuan memberi kesempatan berpartisipasi.",
-            "Teman yang tidak dapat menyapu dapat membantu mencatat perlengkapan.",
-            "Tugas gotong royong dibagi sesuai kemampuan dan kondisi peserta."
+            "Memaksa Fikri mengangkat barang berat agar tugas dianggap sama.",
+            "Mengeluarkan Fikri dari kegiatan tanpa menawarkan peran.",
+            "Memberi Fikri tugas pencatatan dan pembagian air sesuai kemampuannya.",
+            "Membiarkan seluruh tugas hanya dikerjakan satu orang."
           ],
-          "answer": "Teman yang tidak dapat menyapu dapat membantu mencatat perlengkapan.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang tugas sesuai kemampuan. Teman yang tidak dapat menyapu dapat membantu mencatat perlengkapan."
+          "answer": "Memberi Fikri tugas pencatatan dan pembagian air sesuai kemampuannya.",
+          "discussion": "Memberi Fikri tugas pencatatan dan pembagian air sesuai kemampuannya. Hal ini sesuai dengan tindakan yang dijelaskan secara lengkap dalam cerita pendek pada soal."
         },
         {
           "id": "PKN-B07-036",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang merencanakan kegiatan?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan merencanakan kegiatan?",
           "options": [
             " Bukan langsung bekerja tanpa mengetahui kebutuhan.",
             " Mengamati halaman sekolah sebelum merencanakan kerja bakti.",
@@ -474,7 +474,7 @@
             "Kegiatan dimulai dengan mengenali kebutuhan, membicarakan usulan, dan menentukan tujuan serta waktu."
           ],
           "answer": "Kegiatan dimulai dengan mengenali kebutuhan, membicarakan usulan, dan menentukan tujuan serta waktu.",
-          "discussion": "Materi bab menjelaskan bahwa kegiatan dimulai dengan mengenali kebutuhan, membicarakan usulan, dan menentukan tujuan serta waktu."
+          "discussion": "Kegiatan dimulai dengan mengenali kebutuhan, membicarakan usulan, dan menentukan tujuan serta waktu. Hal itu menjelaskan gagasan pokok merencanakan kegiatan dalam kehidupan bersama."
         },
         {
           "id": "PKN-B07-037",
@@ -487,25 +487,25 @@
             "Kegiatan dimulai dengan mengenali kebutuhan, membicarakan usulan, dan menentukan tujuan serta waktu."
           ],
           "answer": "Mengamati halaman sekolah sebelum merencanakan kerja bakti.",
-          "discussion": "Contoh tersebut sesuai karena mengamati halaman sekolah sebelum merencanakan kerja bakti."
+          "discussion": "Mengamati halaman sekolah sebelum merencanakan kerja bakti. Jawaban tersebut memberi contoh penerapan nyata merencanakan kegiatan, bukan hanya definisinya."
         },
         {
           "id": "PKN-B07-038",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait merencanakan kegiatan adalah ...",
+          "text": "Manakah anggapan yang keliru mengenai merencanakan kegiatan?",
           "options": [
             "Kegiatan dimulai dengan mengenali kebutuhan, membicarakan usulan, dan menentukan tujuan serta waktu.",
-            "Bukan langsung bekerja tanpa mengetahui kebutuhan.",
+            "Merencanakan kerja bakti berarti memulai pekerjaan tanpa mengetahui kebutuhan atau waktu.",
             "Mengamati halaman sekolah sebelum merencanakan kerja bakti.",
             "Rencana membuat kegiatan lebih terarah."
           ],
-          "answer": "Bukan langsung bekerja tanpa mengetahui kebutuhan.",
-          "discussion": "Hal yang perlu dihindari adalah bukan langsung bekerja tanpa mengetahui kebutuhan."
+          "answer": "Merencanakan kerja bakti berarti memulai pekerjaan tanpa mengetahui kebutuhan atau waktu.",
+          "discussion": "Anggapan “Merencanakan kerja bakti berarti memulai pekerjaan tanpa mengetahui kebutuhan atau waktu.” keliru. Kegiatan dimulai dengan mengenali kebutuhan, membicarakan usulan, dan menentukan tujuan serta waktu. Karena itu, pembagian peran, kepedulian, dan kerja bersama perlu disesuaikan dengan tujuan kegiatan."
         },
         {
           "id": "PKN-B07-039",
           "type": "PG",
-          "text": "Mengapa merencanakan kegiatan penting dalam kehidupan bersama?",
+          "text": "Apa manfaat utama merencanakan kegiatan bagi kegiatan bersama?",
           "options": [
             "Bukan langsung bekerja tanpa mengetahui kebutuhan.",
             "Kegiatan dimulai dengan mengenali kebutuhan, membicarakan usulan, dan menentukan tujuan serta waktu.",
@@ -513,25 +513,25 @@
             "Mengamati halaman sekolah sebelum merencanakan kerja bakti."
           ],
           "answer": "Rencana membuat kegiatan lebih terarah.",
-          "discussion": "Manfaatnya adalah rencana membuat kegiatan lebih terarah."
+          "discussion": "Rencana membuat kegiatan lebih terarah. Manfaat ini muncul ketika warga bekerja sama, saling menghargai, dan membagi peran."
         },
         {
           "id": "PKN-B07-040",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan merencanakan kegiatan?",
+          "text": "Sebelum membersihkan halaman, ketua kelas mengajak teman mengamati sampah, mencatat alat yang dibutuhkan, lalu menyepakati waktu. Tahapan itu menunjukkan ...",
           "options": [
-            "Bukan langsung bekerja tanpa mengetahui kebutuhan.",
-            "Rencana membuat kegiatan lebih terarah.",
-            "Kegiatan dimulai dengan mengenali kebutuhan, membicarakan usulan, dan menentukan tujuan serta waktu.",
-            "Mengamati halaman sekolah sebelum merencanakan kerja bakti."
+            "Pelaksanaan kegiatan tanpa tujuan yang diketahui.",
+            "Evaluasi akhir setelah seluruh pekerjaan selesai.",
+            "Pembagian tugas secara acak tanpa mengetahui keadaan.",
+            "Perencanaan kegiatan berdasarkan kebutuhan, alat, dan kesepakatan waktu."
           ],
-          "answer": "Mengamati halaman sekolah sebelum merencanakan kerja bakti.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang merencanakan kegiatan. Mengamati halaman sekolah sebelum merencanakan kerja bakti."
+          "answer": "Perencanaan kegiatan berdasarkan kebutuhan, alat, dan kesepakatan waktu.",
+          "discussion": "Perencanaan kegiatan berdasarkan kebutuhan, alat, dan kesepakatan waktu. Hal ini sesuai dengan tindakan yang dijelaskan secara lengkap dalam cerita pendek pada soal."
         },
         {
           "id": "PKN-B07-041",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang melaksanakan kerja sama?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan melaksanakan kerja sama?",
           "options": [
             "Peserta saling membantu, menjaga keselamatan, dan tidak saling menyalahkan.",
             " Bukan mengejek peserta yang bekerja lebih lambat.",
@@ -539,7 +539,7 @@
             "Sikap saling mendukung menjaga kegiatan berjalan baik."
           ],
           "answer": "Peserta saling membantu, menjaga keselamatan, dan tidak saling menyalahkan.",
-          "discussion": "Materi bab menjelaskan bahwa peserta saling membantu, menjaga keselamatan, dan tidak saling menyalahkan."
+          "discussion": "Peserta saling membantu, menjaga keselamatan, dan tidak saling menyalahkan. Hal itu menjelaskan gagasan pokok melaksanakan kerja sama dalam kehidupan bersama."
         },
         {
           "id": "PKN-B07-042",
@@ -552,25 +552,25 @@
             "Peserta saling membantu, menjaga keselamatan, dan tidak saling menyalahkan."
           ],
           "answer": "Mengingatkan teman menggunakan alat dengan aman.",
-          "discussion": "Contoh tersebut sesuai karena mengingatkan teman menggunakan alat dengan aman."
+          "discussion": "Mengingatkan teman menggunakan alat dengan aman. Jawaban tersebut memberi contoh penerapan nyata melaksanakan kerja sama, bukan hanya definisinya."
         },
         {
           "id": "PKN-B07-043",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait melaksanakan kerja sama adalah ...",
+          "text": "Manakah anggapan yang keliru mengenai melaksanakan kerja sama?",
           "options": [
             "Peserta saling membantu, menjaga keselamatan, dan tidak saling menyalahkan.",
             "Mengingatkan teman menggunakan alat dengan aman.",
-            "Bukan mengejek peserta yang bekerja lebih lambat.",
+            "Kerja sama yang baik ditunjukkan dengan mengejek teman yang lebih lambat.",
             "Sikap saling mendukung menjaga kegiatan berjalan baik."
           ],
-          "answer": "Bukan mengejek peserta yang bekerja lebih lambat.",
-          "discussion": "Hal yang perlu dihindari adalah bukan mengejek peserta yang bekerja lebih lambat."
+          "answer": "Kerja sama yang baik ditunjukkan dengan mengejek teman yang lebih lambat.",
+          "discussion": "Anggapan “Kerja sama yang baik ditunjukkan dengan mengejek teman yang lebih lambat.” keliru. Peserta saling membantu, menjaga keselamatan, dan tidak saling menyalahkan. Karena itu, pembagian peran, kepedulian, dan kerja bersama perlu disesuaikan dengan tujuan kegiatan."
         },
         {
           "id": "PKN-B07-044",
           "type": "PG",
-          "text": "Mengapa melaksanakan kerja sama penting dalam kehidupan bersama?",
+          "text": "Apa manfaat utama melaksanakan kerja sama bagi kegiatan bersama?",
           "options": [
             "Bukan mengejek peserta yang bekerja lebih lambat.",
             "Peserta saling membantu, menjaga keselamatan, dan tidak saling menyalahkan.",
@@ -578,25 +578,25 @@
             "Sikap saling mendukung menjaga kegiatan berjalan baik."
           ],
           "answer": "Sikap saling mendukung menjaga kegiatan berjalan baik.",
-          "discussion": "Manfaatnya adalah sikap saling mendukung menjaga kegiatan berjalan baik."
+          "discussion": "Sikap saling mendukung menjaga kegiatan berjalan baik. Manfaat ini muncul ketika warga bekerja sama, saling menghargai, dan membagi peran."
         },
         {
           "id": "PKN-B07-045",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan melaksanakan kerja sama?",
+          "text": "Saat kerja bakti, Deni melihat temannya kesulitan memakai alat. Ia menunjukkan cara aman dan membantu tanpa mengejek. Sikap Deni menunjukkan ...",
           "options": [
-            "Mengingatkan teman menggunakan alat dengan aman.",
-            "Bukan mengejek peserta yang bekerja lebih lambat.",
-            "Sikap saling mendukung menjaga kegiatan berjalan baik.",
-            "Peserta saling membantu, menjaga keselamatan, dan tidak saling menyalahkan."
+            "Kerja sama yang mendukung keselamatan dan saling membantu.",
+            "Persaingan untuk mempermalukan teman yang belum mahir.",
+            "Sikap tidak peduli pada keselamatan anggota.",
+            "Pemaksaan agar semua siswa bekerja secepat mungkin tanpa istirahat."
           ],
-          "answer": "Mengingatkan teman menggunakan alat dengan aman.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang melaksanakan kerja sama. Mengingatkan teman menggunakan alat dengan aman."
+          "answer": "Kerja sama yang mendukung keselamatan dan saling membantu.",
+          "discussion": "Kerja sama yang mendukung keselamatan dan saling membantu. Hal ini sesuai dengan tindakan yang dijelaskan secara lengkap dalam cerita pendek pada soal."
         },
         {
           "id": "PKN-B07-046",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang evaluasi kegiatan?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan evaluasi kegiatan?",
           "options": [
             " Bukan hanya menghitung siapa yang bekerja paling banyak.",
             "Setelah kegiatan, peserta membicarakan hal yang berhasil dan yang perlu diperbaiki.",
@@ -604,7 +604,7 @@
             "Evaluasi membantu kegiatan berikutnya menjadi lebih baik."
           ],
           "answer": "Setelah kegiatan, peserta membicarakan hal yang berhasil dan yang perlu diperbaiki.",
-          "discussion": "Materi bab menjelaskan bahwa setelah kegiatan, peserta membicarakan hal yang berhasil dan yang perlu diperbaiki."
+          "discussion": "Setelah kegiatan, peserta membicarakan hal yang berhasil dan yang perlu diperbaiki. Hal itu menjelaskan gagasan pokok evaluasi kegiatan dalam kehidupan bersama."
         },
         {
           "id": "PKN-B07-047",
@@ -617,25 +617,25 @@
             "Setelah kegiatan, peserta membicarakan hal yang berhasil dan yang perlu diperbaiki."
           ],
           "answer": "Menilai apakah semua mendapat kesempatan berperan.",
-          "discussion": "Contoh tersebut sesuai karena menilai apakah semua mendapat kesempatan berperan."
+          "discussion": "Menilai apakah semua mendapat kesempatan berperan. Jawaban tersebut memberi contoh penerapan nyata evaluasi kegiatan, bukan hanya definisinya."
         },
         {
           "id": "PKN-B07-048",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait evaluasi kegiatan adalah ...",
+          "text": "Manakah anggapan yang keliru mengenai evaluasi kegiatan?",
           "options": [
             "Setelah kegiatan, peserta membicarakan hal yang berhasil dan yang perlu diperbaiki.",
             "Menilai apakah semua mendapat kesempatan berperan.",
             "Evaluasi membantu kegiatan berikutnya menjadi lebih baik.",
-            "Bukan hanya menghitung siapa yang bekerja paling banyak."
+            "Evaluasi kegiatan berarti hanya mencari siapa yang bekerja paling lambat untuk disalahkan."
           ],
-          "answer": "Bukan hanya menghitung siapa yang bekerja paling banyak.",
-          "discussion": "Hal yang perlu dihindari adalah bukan hanya menghitung siapa yang bekerja paling banyak."
+          "answer": "Evaluasi kegiatan berarti hanya mencari siapa yang bekerja paling lambat untuk disalahkan.",
+          "discussion": "Anggapan “Evaluasi kegiatan berarti hanya mencari siapa yang bekerja paling lambat untuk disalahkan.” keliru. Setelah kegiatan, peserta membicarakan hal yang berhasil dan yang perlu diperbaiki. Karena itu, pembagian peran, kepedulian, dan kerja bersama perlu disesuaikan dengan tujuan kegiatan."
         },
         {
           "id": "PKN-B07-049",
           "type": "PG",
-          "text": "Mengapa evaluasi kegiatan penting dalam kehidupan bersama?",
+          "text": "Apa manfaat utama evaluasi kegiatan bagi kegiatan bersama?",
           "options": [
             "Evaluasi membantu kegiatan berikutnya menjadi lebih baik.",
             "Bukan hanya menghitung siapa yang bekerja paling banyak.",
@@ -643,20 +643,20 @@
             "Menilai apakah semua mendapat kesempatan berperan."
           ],
           "answer": "Evaluasi membantu kegiatan berikutnya menjadi lebih baik.",
-          "discussion": "Manfaatnya adalah evaluasi membantu kegiatan berikutnya menjadi lebih baik."
+          "discussion": "Evaluasi membantu kegiatan berikutnya menjadi lebih baik. Manfaat ini muncul ketika warga bekerja sama, saling menghargai, dan membagi peran."
         },
         {
           "id": "PKN-B07-050",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan evaluasi kegiatan?",
+          "text": "Setelah kerja bakti, siswa membahas bagian yang berhasil, kendala alat, dan cara melibatkan lebih banyak teman pada kegiatan berikutnya. Kegiatan itu disebut ...",
           "options": [
-            "Bukan hanya menghitung siapa yang bekerja paling banyak.",
-            "Menilai apakah semua mendapat kesempatan berperan.",
-            "Evaluasi membantu kegiatan berikutnya menjadi lebih baik.",
-            "Setelah kegiatan, peserta membicarakan hal yang berhasil dan yang perlu diperbaiki."
+            "Mengabaikan kesulitan yang terjadi selama kegiatan.",
+            "Evaluasi untuk memperbaiki pelaksanaan kegiatan berikutnya.",
+            "Memberi tugas baru tanpa memeriksa hasil kerja.",
+            "Menilai kegiatan hanya dari siapa yang bekerja paling cepat."
           ],
-          "answer": "Menilai apakah semua mendapat kesempatan berperan.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang evaluasi kegiatan. Menilai apakah semua mendapat kesempatan berperan."
+          "answer": "Evaluasi untuk memperbaiki pelaksanaan kegiatan berikutnya.",
+          "discussion": "Evaluasi untuk memperbaiki pelaksanaan kegiatan berikutnya. Hal ini sesuai dengan tindakan yang dijelaskan secara lengkap dalam cerita pendek pada soal."
         }
       ]
     }
