@@ -54,3 +54,24 @@ soal dan opsi jawaban diacak. Jumlah ini berbeda dari bank 70 soal per bab.
 - Jangan hilangkan delimiter `$...$` dan `$$...$$`, kurung kurawal, atau perintah LaTeX. Pastikan tidak ada ekspresi templat `${...}` tersisa.
 - Teks di dalam gambar SVG adalah label gambar, sedangkan semua rumus yang muncul di **konten teks** disimpan sebagai MathJax.
 
+## Kemandirian soal dalam kuis acak
+
+- Setiap soal harus dapat dipahami dan dijawab ketika tampil sendiri, tanpa
+  mengandalkan materi MOD-01/MOD-02 tertentu atau soal lain.
+- Sertakan bacaan, dialog, tabel, data, atau petunjuk khusus yang diperlukan
+  di dalam soal terkait. Jika beberapa soal menggunakan bacaan yang sama,
+  setiap soal tetap harus membawa konteks yang diperlukan.
+- Soal yang meminta pengamatan gambar atau pendengaran audio harus membawa
+  media tersebut pada soal yang sama. Jangan meminta siswa melihat media
+  yang hanya ada di materi atau soal sebelumnya.
+- Jika soal memang berupa bacaan/deskripsi tertulis, sebut sebagai teks atau
+  deskripsi; jangan mengaku menampilkan gambar atau video yang tidak ada.
+- Pertanyaan konsep umum tetap boleh menguji pengetahuan yang dipelajari.
+  Kemandirian tidak berarti menyertakan definisi jawaban pada setiap soal.
+- Simpulan dan pembahasan harus sesuai bukti pada soal. Jangan menyisipkan
+  detail cerita yang hanya tersedia dalam materi atau sumber lain.
+- Teks latihan yang ditulis ulang harus dinyatakan sebagai latihan/adaptasi,
+  bukan diklaim sebagai kutipan asli dari buku atau wawancara nyata.
+- Kerjakan satu bab dengan urutan audit seluruh soal, perbaikan, lalu
+  pemeriksaan ulang sebelum berpindah bab. Pertahankan jumlah dan ID soal;
+  validasi pilihan jawaban, kunci, format JSON, dan pengacakan.
