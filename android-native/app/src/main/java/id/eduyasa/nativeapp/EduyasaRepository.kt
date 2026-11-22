@@ -37,9 +37,13 @@ data class EduQuestion(
     val subjectName: String,
     val chapter: Int,
     val imageUrl: String? = null,
+    val imageAlt: String? = null,
     val audioType: String? = null,
     val audioText: String? = null,
-    val audioLabel: String? = null
+    val audioLabel: String? = null,
+    val audioLang: String? = null,
+    val audioRate: Float? = null,
+    val audioUrl: String? = null
 )
 object EduyasaRepository {
     private const val BASE = "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/"
@@ -221,9 +225,14 @@ object EduyasaRepository {
             subjectName = c.subject.name,
             chapter = c.number,
             imageUrl = image,
+            imageAlt = raw.optJSONObject("image")?.optString("alt"),
             audioType = audio?.optString("type"),
             audioText = audio?.optString("text"),
-            audioLabel = audio?.optString("label")
+            audioLabel = audio?.optString("label"),
+            audioLang = audio?.optString("lang", "en-US"),
+            audioRate = audio?.optDouble("rate", 0.85)?.toFloat(),
+            audioUrl = audio?.optString("url")?.takeIf(String::isNotBlank)
+                ?: audio?.optString("src")?.takeIf(String::isNotBlank)
         )
     }
 }
