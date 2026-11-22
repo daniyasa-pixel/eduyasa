@@ -125,8 +125,9 @@ object EduyasaRepository {
             }
         }
 
-    suspend fun questions(grade: Int, chosen: List<SelectedChapter>): List<EduQuestion> =
+    suspend fun questions(grade: Int, chosen: List<SelectedChapter>, count: Int = 20): List<EduQuestion> =
         withContext(Dispatchers.IO) {
+            require(count in LearningGamification.QUIZ_LENGTHS) { "Jumlah soal tidak didukung." }
             val manifests = mutableMapOf<String, JSONObject>()
             val manifestSubjects = if (grade == 3) chosen.map { it.subject.id }.toSet() else manifest6
             for (subjectId in chosen.map { it.subject.id }.distinct().filter { it in manifestSubjects }) {
@@ -173,14 +174,18 @@ object EduyasaRepository {
                 it.subject.id in (if (grade == 3) illustrated3 else illustrated6)
             }
             if (!mustIllustrate) {
-                if (bank.size < 20) error("Bank soal kurang dari 20 soal.")
-                bank.shuffled().take(20)
+                if (bank.size < count) error("Bank soal kurang dari " + count + " soal.")
+                bank.shuffled().take(count)
             } else {
                 val illustrated = bank.filter { !it.imageUrl.isNullOrBlank() }
                 val plain = bank.filter { it.imageUrl.isNullOrBlank() }
-                if (illustrated.size < 5 || plain.size < 15)
-                    error("Bank soal perlu minimal 5 soal bergambar dan 15 soal biasa.")
-                (illustrated.shuffled().take(5) + plain.shuffled().take(15)).shuffled()
+                val illustratedCount = (count + 2) / 4
+                val plainCount = count - illustratedCount
+                if (illustrated.size < illustratedCount || plain.size < plainCount)
+                    error("Bank soal tidak cukup untuk " + illustratedCount +
+                        " soal bergambar dan " + plainCount + " soal biasa.")
+                (illustrated.shuffled().take(illustratedCount) +
+                    plain.shuffled().take(plainCount)).shuffled()
             }
         }
 
