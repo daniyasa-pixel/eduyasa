@@ -42,7 +42,7 @@ Bacalah teks latihan berikut.
 
 Di rak Mira ada beberapa buku. Buku yang paling sering ia baca berjudul Ensiklopedi Keragaman Hayati. Mira menyukainya karena memuat informasi tentang berbagai tumbuhan dan hewan.
 
-Jenis buku yang paling disukai Mira berdasarkan bacaan adalah ....
+Judul buku yang paling disukai Mira berdasarkan bacaan adalah ....
 
 A. Ensiklopedia Hewan Laut
 B. Ensiklopedi Keragaman Hayati
