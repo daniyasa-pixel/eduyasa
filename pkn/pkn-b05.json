@@ -71,7 +71,7 @@
             "Perbedaan budaya membuat warga tidak bisa bekerja sama."
           ],
           "answer": "Perbedaan budaya daerah merupakan kekayaan bangsa yang patut dihargai.",
-          "discussion": "Perbedaan budaya daerah merupakan kekayaan bangsa yang patut dihargai. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
+          "discussion": "Beragam tarian, pakaian adat, dan lagu daerah menunjukkan kekayaan budaya Indonesia. Semua daerah pantas dihargai."
         },
         {
           "id": "PKN-B05-006",
@@ -136,7 +136,7 @@
             "Menilai semua rumah adat harus mempunyai bentuk yang sama."
           ],
           "answer": "Mencari tahu asal serta ciri setiap rumah adat dan menghargainya.",
-          "discussion": "Mencari tahu asal serta ciri setiap rumah adat dan menghargainya. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
+          "discussion": "Rumah Gadang, Honai, dan Betang memiliki asal serta ciri yang berbeda. Mengenalnya membantu kita menghargai kekayaan budaya."
         },
         {
           "id": "PKN-B05-011",
@@ -201,7 +201,7 @@
             "Alat musik tradisional tidak mempunyai hubungan dengan budaya."
           ],
           "answer": "Alat musik tradisional menunjukkan keragaman seni dari berbagai daerah.",
-          "discussion": "Alat musik tradisional menunjukkan keragaman seni dari berbagai daerah. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
+          "discussion": "Sasando, tifa, dan bonang merupakan contoh alat musik tradisional yang menunjukkan keragaman kesenian dari berbagai daerah."
         },
         {
           "id": "PKN-B05-016",
@@ -219,15 +219,15 @@
         {
           "id": "PKN-B05-017",
           "type": "PG",
-          "text": "Manakah contoh yang sesuai dengan agama dan kepercayaan?",
+          "text": "Manakah daftar yang berisi beberapa agama yang dianut masyarakat Indonesia?",
           "options": [
-            "Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu.",
-            "Bukan menyamakan semua tata cara ibadah.",
-            "Menghormati keragaman menjaga kerukunan.",
-            "Masyarakat Indonesia memiliki agama dan kepercayaan yang beragam."
+            "Islam, Kristen, Katolik, Hindu, Buddha, dan Khonghucu.",
+            "Bahasa Indonesia, bahasa Sunda, dan bahasa Jawa.",
+            "Rumah Gadang, Honai, dan Betang.",
+            "Sasando, tifa, dan bonang."
           ],
-          "answer": "Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu.",
-          "discussion": "Contoh nyata agama dan kepercayaan yang dimaksud ialah: Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu. Perhatikan tindakan atau wujud budaya yang disebutkan pada pilihan."
+          "answer": "Islam, Kristen, Katolik, Hindu, Buddha, dan Khonghucu.",
+          "discussion": "Islam, Kristen, Katolik, Hindu, Buddha, dan Khonghucu adalah contoh agama yang dianut masyarakat Indonesia. Masyarakat juga memiliki beragam kepercayaan."
         },
         {
           "id": "PKN-B05-018",
@@ -235,12 +235,12 @@
           "text": "Manakah pernyataan yang keliru mengenai agama dan kepercayaan?",
           "options": [
             "Masyarakat Indonesia memiliki agama dan kepercayaan yang beragam.",
-            "Semua agama dan kepercayaan memiliki tata cara ibadah yang selalu sama.",
-            "Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu.",
-            "Menghormati keragaman menjaga kerukunan."
+            "Ada berbagai tata cara ibadah yang patut dihormati.",
+            "Menghormati perbedaan mendukung kerukunan.",
+            "Semua agama dan kepercayaan memiliki tata cara ibadah yang selalu sama."
           ],
           "answer": "Semua agama dan kepercayaan memiliki tata cara ibadah yang selalu sama.",
-          "discussion": "Pernyataan “Semua agama dan kepercayaan memiliki tata cara ibadah yang selalu sama.” keliru. Masyarakat Indonesia memiliki agama dan kepercayaan yang beragam. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
+          "discussion": "Pernyataan itu keliru karena setiap agama dan kepercayaan memiliki ajaran dan tata cara ibadah masing-masing. Menghargai perbedaan tidak berarti menyamakan semua tata cara."
         },
         {
           "id": "PKN-B05-019",
@@ -250,7 +250,7 @@
             "Bukan menyamakan semua tata cara ibadah.",
             "Masyarakat Indonesia memiliki agama dan kepercayaan yang beragam.",
             "Menghormati keragaman menjaga kerukunan.",
-            "Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu."
+            "Berbagai agama dan kepercayaan dianut oleh masyarakat Indonesia."
           ],
           "answer": "Menghormati keragaman menjaga kerukunan.",
           "discussion": "Menghormati keragaman menjaga kerukunan. Hal itu penting karena berkaitan dengan menghargai sesama dan kehidupan bersama."
@@ -266,7 +266,7 @@
             "Memberi kesempatan setiap siswa beribadah sesuai keyakinannya."
           ],
           "answer": "Memberi kesempatan setiap siswa beribadah sesuai keyakinannya.",
-          "discussion": "Memberi kesempatan setiap siswa beribadah sesuai keyakinannya. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
+          "discussion": "Sekolah yang memberi kesempatan beribadah sesuai keyakinan menghormati perbedaan agama dan kepercayaan."
         },
         {
           "id": "PKN-B05-021",
@@ -331,7 +331,7 @@
             "Budaya daerah harus ditinggalkan untuk dapat berteman."
           ],
           "answer": "Persatuan dapat terwujud meskipun warga mempunyai budaya yang berbeda.",
-          "discussion": "Persatuan dapat terwujud meskipun warga mempunyai budaya yang berbeda. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
+          "discussion": "Meski memakai pakaian adat yang berbeda, para siswa tetap dapat bekerja sama. Inilah makna persatuan dalam keberagaman."
         },
         {
           "id": "PKN-B05-026",
@@ -396,7 +396,7 @@
             "Mengeluarkan temannya dari kelompok karena keyakinannya."
           ],
           "answer": "Memberi waktu dan menjaga ketenangan agar temannya dapat beribadah.",
-          "discussion": "Memberi waktu dan menjaga ketenangan agar temannya dapat beribadah. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
+          "discussion": "Raka menghargai waktu beribadah temannya tanpa memaksakan kebiasaannya. Sikap itu merupakan toleransi."
         },
         {
           "id": "PKN-B05-031",
@@ -405,11 +405,11 @@
           "options": [
             " Bukan penilaian berdasarkan mengenal seseorang secara langsung.",
             " Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka.",
-            "Stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain.",
+            "Stereotipe adalah anggapan umum tentang suatu kelompok yang mengabaikan perbedaan tiap anggotanya.",
             "Stereotipe dapat menimbulkan prasangka."
           ],
-          "answer": "Stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain.",
-          "discussion": "Stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain. Pernyataan ini menjelaskan gagasan utama tentang stereotipe; contoh atau dampaknya merupakan hal berbeda."
+          "answer": "Stereotipe adalah anggapan umum tentang suatu kelompok yang mengabaikan perbedaan tiap anggotanya.",
+          "discussion": "Stereotipe berarti menganggap anggota suatu kelompok memiliki sifat serupa tanpa memperhatikan perbedaan tiap individu. Stereotipe dapat melahirkan penilaian yang tidak adil."
         },
         {
           "id": "PKN-B05-032",
@@ -418,11 +418,11 @@
           "options": [
             "Bukan penilaian berdasarkan mengenal seseorang secara langsung.",
             "Stereotipe dapat menimbulkan prasangka.",
-            "Stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain.",
+            "Stereotipe adalah anggapan umum tentang suatu kelompok yang mengabaikan perbedaan tiap anggotanya.",
             "Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka."
           ],
           "answer": "Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka.",
-          "discussion": "Contoh nyata stereotipe yang dimaksud ialah: Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka. Perhatikan tindakan atau wujud budaya yang disebutkan pada pilihan."
+          "discussion": "Menganggap semua anggota suatu kelompok sama tanpa benar-benar mengenalnya adalah contoh stereotipe. Setiap orang perlu dinilai sebagai individu."
         },
         {
           "id": "PKN-B05-033",
@@ -430,12 +430,12 @@
           "text": "Manakah pernyataan yang keliru mengenai stereotipe?",
           "options": [
             "Stereotipe selalu terbentuk dari penilaian adil terhadap setiap orang yang sudah dikenal.",
-            "Stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain.",
+            "Stereotipe adalah anggapan umum tentang suatu kelompok yang mengabaikan perbedaan tiap anggotanya.",
             "Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka.",
             "Stereotipe dapat menimbulkan prasangka."
           ],
           "answer": "Stereotipe selalu terbentuk dari penilaian adil terhadap setiap orang yang sudah dikenal.",
-          "discussion": "Pernyataan “Stereotipe selalu terbentuk dari penilaian adil terhadap setiap orang yang sudah dikenal.” keliru. Stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
+          "discussion": "Pernyataan “Stereotipe selalu terbentuk dari penilaian adil terhadap setiap orang yang sudah dikenal.” keliru. Stereotipe adalah anggapan umum tentang suatu kelompok yang mengabaikan perbedaan tiap anggotanya. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
         },
         {
           "id": "PKN-B05-034",
@@ -444,7 +444,7 @@
           "options": [
             "Bukan penilaian berdasarkan mengenal seseorang secara langsung.",
             "Stereotipe dapat menimbulkan prasangka.",
-            "Stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain.",
+            "Stereotipe adalah anggapan umum tentang suatu kelompok yang mengabaikan perbedaan tiap anggotanya.",
             "Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka."
           ],
           "answer": "Stereotipe dapat menimbulkan prasangka.",
@@ -461,7 +461,7 @@
             "Menghargai perbedaan perilaku tiap orang."
           ],
           "answer": "Menggeneralisasi sifat kelompok tanpa mengenal setiap anggotanya.",
-          "discussion": "Menggeneralisasi sifat kelompok tanpa mengenal setiap anggotanya. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
+          "discussion": "Menilai seluruh kelas lain pasti malas tanpa bukti adalah generalisasi yang tidak adil dan termasuk stereotipe."
         },
         {
           "id": "PKN-B05-036",
@@ -526,7 +526,7 @@
             "Etnosentrisme karena menganggap budaya sendiri paling unggul."
           ],
           "answer": "Etnosentrisme karena menganggap budaya sendiri paling unggul.",
-          "discussion": "Etnosentrisme karena menganggap budaya sendiri paling unggul. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
+          "discussion": "Rudi tidak sekadar bangga akan budaya sendiri, tetapi merendahkan budaya lain. Sikap itu disebut etnosentrisme."
         },
         {
           "id": "PKN-B05-041",
@@ -591,7 +591,7 @@
             "Penolakan itu menunjukkan semua peserta mendapat kesempatan sama."
           ],
           "answer": "Penolakan itu merupakan diskriminasi yang tidak adil.",
-          "discussion": "Penolakan itu merupakan diskriminasi yang tidak adil. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
+          "discussion": "Menolak anggota tim semata-mata karena agama atau keyakinannya adalah diskriminasi yang tidak adil."
         },
         {
           "id": "PKN-B05-046",
@@ -656,7 +656,7 @@
             "Kegiatan yang tidak berkaitan dengan pelestarian budaya."
           ],
           "answer": "Pelestarian budaya melalui belajar dan menghargai kesenian daerah.",
-          "discussion": "Pelestarian budaya melalui belajar dan menghargai kesenian daerah. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
+          "discussion": "Belajar dan menampilkan lagu daerah dengan menghormati asal-usulnya dapat membantu melestarikan budaya."
         }
       ]
     }
