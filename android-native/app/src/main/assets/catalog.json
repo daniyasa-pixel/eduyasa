@@ -118,10 +118,10 @@
       "name": "Matematika",
       "icon": "🔢",
       "chapters": [
-        "Pecahan dan Desimal",
-        "Rasio",
-        "Kubus dan Balok",
-        "Peluang"
+        "Bab 1: Pecahan dan Desimal",
+        "Bab 2: Rasio",
+        "Bab 3: Kubus dan Balok",
+        "Bab 4: Peluang"
       ]
     },
     {
@@ -129,10 +129,10 @@
       "name": "Bahasa Indonesia",
       "icon": "📚",
       "chapters": [
-        "Bangga Menjadi Anak Indonesia",
-        "Musisi Indonesia di Pentas Dunia",
-        "Taman Nasional & Situs Warisan Dunia",
-        "Jeda untuk Iklim"
+        "Bab 1: Anak-Anak yang Mengubah Dunia",
+        "Bab 2: Nusantara Berjuta Cerita",
+        "Bab 3: Temukan Minat, Tunjukkan Bakat",
+        "Bab 4: Dari Hobi Menjadi Profesi"
       ]
     },
     {
@@ -170,7 +170,7 @@
         "Healthy Vegetables",
         "Our Hygiene Habits",
         "A Trip to the Zoo",
-        "Let's Play!",
+        "Let’s Play!",
         "Having Fun in Our After-School Club",
         "Our School Project"
       ]
