@@ -27,12 +27,15 @@ data class SavedSession(
     val answers: List<SavedAnswer>
 )
 
+data class HistoryTopic(val subjectId: String, val chapter: Int)
+
 data class HistorySession(
     val id: String,
     val grade: Int,
     val completedAt: Long,
     val total: Int,
-    val correct: Int
+    val correct: Int,
+    val topics: List<HistoryTopic> = emptyList()
 ) {
     val score: Int get() = if (total == 0) 0 else (100 * correct + total / 2) / total
 }
@@ -238,7 +241,13 @@ class StudyHistoryStore(context: Context) :
             correctAnswers = sessions.sumOf { it.correct },
             subjects = subjects,
             chapters = chapters,
-            recentSessions = sessions.take(10)
+            recentSessions = sessions.take(10).map { session ->
+                session.copy(topics = answers.asSequence()
+                    .filter { it.sessionId == session.id }
+                    .map { HistoryTopic(it.subject, it.chapter) }
+                    .distinct()
+                    .toList())
+            }
         )
     }
 
