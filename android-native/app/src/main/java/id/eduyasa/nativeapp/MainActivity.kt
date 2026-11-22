@@ -12,6 +12,7 @@ import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.tween
 import androidx.compose.animation.expandVertically
 import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
 import androidx.compose.animation.slideInHorizontally
 import androidx.compose.animation.slideOutHorizontally
 import androidx.compose.foundation.BorderStroke
@@ -802,6 +803,49 @@ private fun EduyasaApp() {
                         }
                         HorizontalDivider()
                         Spacer(Modifier.height(12.dp))
+                        Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically,
+                            horizontalArrangement = Arrangement.SpaceBetween) {
+                            Column(Modifier.weight(1f)) {
+                                Text("Efek Suara Game", fontWeight = FontWeight.Bold,
+                                    color = DarkBlue)
+                                Text("Terpisah dari Audio Listening. Suara pendek tanpa musik.",
+                                    fontSize = 11.sp, color = Muted)
+                            }
+                            Switch(
+                                checked = soundEffectsEnabled,
+                                onCheckedChange = { enabled ->
+                                    soundEffectsEnabled = enabled
+                                    preferences.edit().putBoolean("sfx_enabled", enabled).apply()
+                                },
+                                modifier = Modifier.testTag("setting-sfx-master")
+                            )
+                        }
+                        EduSfx.values().forEach { effect ->
+                            Row(Modifier.fillMaxWidth().padding(vertical = 3.dp),
+                                verticalAlignment = Alignment.CenterVertically) {
+                                Checkbox(
+                                    checked = soundChoices[effect] != false,
+                                    enabled = soundEffectsEnabled,
+                                    onCheckedChange = { enabled ->
+                                        soundChoices[effect] = enabled
+                                        preferences.edit()
+                                            .putBoolean("sfx_" + effect.name, enabled).apply()
+                                    },
+                                    modifier = Modifier.testTag("setting-sfx-" + effect.name)
+                                )
+                                Column(Modifier.weight(1f)) {
+                                    Text(effect.displayName, fontSize = 13.sp,
+                                        fontWeight = FontWeight.SemiBold)
+                                    Text(effect.description, fontSize = 11.sp, color = Muted)
+                                }
+                                TextButton(onClick = { playEffect(effect) },
+                                    enabled = soundEffectsEnabled && soundChoices[effect] != false) {
+                                    Text("▶", fontSize = 19.sp)
+                                }
+                            }
+                        }
+                        HorizontalDivider()
+                        Spacer(Modifier.height(12.dp))
                         Text("Data dan tampilan", fontWeight = FontWeight.Bold, color = DarkBlue)
                         Text("Riwayat dan perkembangan tersimpan khusus di HP ini. " +
                             "Ukuran teks, tema, serta cadangan data belum tersedia pada versi ini.",
@@ -910,7 +954,11 @@ private fun EduyasaApp() {
         Spacer(Modifier.height(18.dp))
     }
 
-    if (drawerOpen) {
+    AnimatedVisibility(
+        visible = drawerOpen,
+        enter = fadeIn(animationSpec = tween(180)),
+        exit = fadeOut(animationSpec = tween(180))
+    ) {
         Box(Modifier.fillMaxSize()
             .background(Color.Black.copy(alpha = .35f))
             .clickable { drawerOpen = false }
