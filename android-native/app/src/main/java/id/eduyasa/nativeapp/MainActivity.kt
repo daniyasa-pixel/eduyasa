@@ -703,6 +703,42 @@ private fun EduyasaApp() {
                         }
                     }
                 }
+                Page.SETTINGS -> {
+                    Title("⚙️ Pengaturan EDUYASA")
+                    Panel {
+                        Text("Kuis", fontWeight = FontWeight.Bold, color = DarkBlue)
+                        Spacer(Modifier.height(8.dp))
+                        Text("Jumlah soal bawaan", fontSize = 13.sp, color = Muted)
+                        QuizLengthChooser(defaultQuestionCount) { amount ->
+                            defaultQuestionCount = amount
+                            questionCount = amount
+                            preferences.edit().putInt("quiz_length", amount).apply()
+                        }
+                        Spacer(Modifier.height(15.dp))
+                        HorizontalDivider()
+                        Row(Modifier.fillMaxWidth().padding(vertical = 12.dp),
+                            verticalAlignment = Alignment.CenterVertically,
+                            horizontalArrangement = Arrangement.SpaceBetween) {
+                            Column(Modifier.weight(1f)) {
+                                Text("Audio Listening", fontWeight = FontWeight.SemiBold)
+                                Text("Aktifkan suara pada soal yang memiliki audio.",
+                                    color = Muted, fontSize = 12.sp)
+                            }
+                            Switch(checked = audioEnabled, onCheckedChange = { enabled ->
+                                audioEnabled = enabled
+                                if (!enabled) audioEngine.stop()
+                                preferences.edit().putBoolean("listening_enabled", enabled).apply()
+                            }, modifier = Modifier.testTag("setting-listening"))
+                        }
+                        HorizontalDivider()
+                        Spacer(Modifier.height(12.dp))
+                        Text("Data dan tampilan", fontWeight = FontWeight.Bold, color = DarkBlue)
+                        Text("Riwayat dan perkembangan tersimpan khusus di HP ini. " +
+                            "Ukuran teks, tema, serta cadangan data belum tersedia pada versi ini.",
+                            fontSize = 12.sp, color = Muted, lineHeight = 19.sp)
+                    }
+                    Secondary("KEMBALI", "settings-back") { back() }
+                }
                 Page.STATS -> {
                     LearningStatisticsScreen(
                         student = activeProfile,
@@ -795,6 +831,68 @@ private fun EduyasaApp() {
         Spacer(Modifier.height(18.dp))
     }
 
+    if (drawerOpen) {
+        Box(Modifier.fillMaxSize()
+            .background(Color.Black.copy(alpha = .35f))
+            .clickable { drawerOpen = false }
+            .testTag("drawer-scrim"))
+    }
+    AnimatedVisibility(
+        visible = drawerOpen,
+        enter = slideInHorizontally(initialOffsetX = { it }),
+        exit = slideOutHorizontally(targetOffsetX = { it }),
+        modifier = Modifier.align(Alignment.CenterEnd)
+    ) {
+        Column(
+            Modifier.fillMaxHeight().width(306.dp)
+                .background(Color.White)
+                .verticalScroll(rememberScrollState())
+                .padding(18.dp)
+                .testTag("right-navigation-drawer")
+        ) {
+            Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween,
+                verticalAlignment = Alignment.CenterVertically) {
+                Text("Menu EDUYASA", fontSize = 20.sp,
+                    fontWeight = FontWeight.ExtraBold, color = DarkBlue)
+                TextButton(onClick = { drawerOpen = false }) { Text("✕") }
+            }
+            Text(activeProfile?.name ?: "Belum memilih siswa",
+                fontWeight = FontWeight.Bold, color = Blue)
+            Text(if (activeProfile == null) "Pilih profil untuk belajar"
+                else "Kelas " + activeProfile.grade + " SD", color = Muted, fontSize = 12.sp)
+            Spacer(Modifier.height(18.dp))
+            listOf(
+                Triple("⌂", "Beranda", Page.HOME),
+                Triple("📖", "Mulai Belajar", Page.SUBJECTS),
+                Triple("📊", "Evaluasi Belajar", Page.STATS),
+                Triple("👥", "Kelola Profil Siswa", Page.HOME),
+                Triple("⚙", "Pengaturan", Page.SETTINGS)
+            ).forEach { (symbol, label, destination) ->
+                TextButton(
+                    onClick = { goTo(destination) },
+                    modifier = Modifier.fillMaxWidth().testTag("drawer-" + destination.name + "-" + label)
+                ) {
+                    Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+                        Text(symbol, fontSize = 19.sp)
+                        Spacer(Modifier.width(12.dp))
+                        Text(label, color = DarkBlue, fontSize = 14.sp)
+                    }
+                }
+            }
+            HorizontalDivider(modifier = Modifier.padding(vertical = 10.dp))
+            TextButton(onClick = {
+                drawerOpen = false
+                aboutOpen = true
+            }, modifier = Modifier.fillMaxWidth()) {
+                Text("ℹ  Tentang EDUYASA", color = DarkBlue)
+            }
+            Text("Riwayat Latihan ada di Evaluasi Belajar (10 sesi terakhir).",
+                color = Muted, fontSize = 11.sp, lineHeight = 17.sp,
+                modifier = Modifier.padding(top = 18.dp))
+        }
+    }
+    } // End root layout box
+
     if (editProfileOpen) StudentProfileEditor(
         existing = editingProfile,
         onDismiss = { editProfileOpen = false },
@@ -843,7 +941,13 @@ private fun EduyasaApp() {
         title = { Text("Yakin mau kembali ke awal?") },
         text = { Text("Jika kembali sekarang, sesi belajar atau hasil kuis ini akan ditutup.") },
         confirmButton = {
-            TextButton(onClick = { leaveOpen = false; reset() },
+            TextButton(onClick = {
+                val destination = pendingDestination
+                leaveOpen = false
+                pendingDestination = null
+                reset()
+                if (destination != null) goTo(destination)
+            },
                 modifier = Modifier.testTag("btnConfirmBackHome")) { Text("YA, KEMBALI KE AWAL") }
         },
         dismissButton = {
@@ -925,7 +1029,9 @@ private fun EduyasaApp() {
 }
 
 @Composable
-private fun EduHeader(grade: Int, home: Boolean, connection: Boolean?) {
+private fun EduHeader(
+    grade: Int, home: Boolean, connection: Boolean?, onOpenMenu: () -> Unit
+) {
     Column(Modifier.fillMaxWidth().background(Blue)
         .padding(horizontal = 18.dp, vertical = 20.dp)) {
         Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween,
@@ -935,12 +1041,17 @@ private fun EduHeader(grade: Int, home: Boolean, connection: Boolean?) {
                 Text(if (home) "BY YASA CCTV" else "Belajar Menyenangkan • Kelas " + grade + " SD",
                     color = Color.White.copy(alpha = .85f), fontSize = 11.sp)
             }
-            if (!home) Text(
-                when (connection) { true -> "● GitHub Terhubung"; false -> "● Belum Terhubung"; null -> "● Memeriksa GitHub" },
-                fontSize = 10.sp, color = Color.White,
-                modifier = Modifier.clip(RoundedCornerShape(20.dp))
-                    .background(Color.White.copy(alpha = .17f)).padding(7.dp)
-            )
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                if (!home) Text(
+                    when (connection) { true -> "● GitHub Terhubung"; false -> "● Belum Terhubung"; null -> "● Memeriksa GitHub" },
+                    fontSize = 10.sp, color = Color.White,
+                    modifier = Modifier.clip(RoundedCornerShape(20.dp))
+                        .background(Color.White.copy(alpha = .17f)).padding(7.dp)
+                )
+                TextButton(onClick = onOpenMenu, modifier = Modifier.testTag("open-right-drawer")) {
+                    Text("☰", color = Color.White, fontSize = 29.sp)
+                }
+            }
         }
         if (!home) {
             Spacer(Modifier.height(21.dp))
@@ -948,6 +1059,29 @@ private fun EduHeader(grade: Int, home: Boolean, connection: Boolean?) {
                 fontWeight = FontWeight.Bold)
             Text("Siap belajar dan menguji kemampuanmu hari ini?",
                 color = Color.White.copy(alpha = .9f), fontSize = 13.sp)
+        }
+    }
+}
+
+@Composable
+private fun QuizLengthChooser(value: Int, onSelect: (Int) -> Unit) {
+    Row(Modifier.fillMaxWidth().padding(top = 9.dp, bottom = 8.dp),
+        horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+        LearningGamification.QUIZ_LENGTHS.forEach { amount ->
+            val chosen = amount == value
+            OutlinedButton(
+                onClick = { onSelect(amount) },
+                modifier = Modifier.weight(1f).testTag("quiz-length-" + amount),
+                colors = ButtonDefaults.outlinedButtonColors(
+                    containerColor = if (chosen) Color(0xFFEFF6FF) else Color.White
+                ),
+                border = BorderStroke(if (chosen) 2.dp else 1.dp, if (chosen) Blue else Line),
+                contentPadding = PaddingValues(horizontal = 6.dp)
+            ) {
+                Text(amount.toString() + " Soal", fontSize = 12.sp,
+                    fontWeight = if (chosen) FontWeight.Bold else FontWeight.Normal,
+                    color = if (chosen) Blue else Muted)
+            }
         }
     }
 }
