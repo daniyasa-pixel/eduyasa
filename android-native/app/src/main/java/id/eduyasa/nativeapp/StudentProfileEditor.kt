@@ -86,7 +86,7 @@ fun StudentProfileEditor(
         AlertDialog(
             onDismissRequest = { askDelete = false },
             title = { Text("Hapus profil " + existing.name + "?") },
-            text = { Text("Nama dan kelas akan dihapus dari HP ini. Bank soal EDUYASA tidak terpengaruh.") },
+            text = { Text("Nama, kelas, dan semua riwayat latihan siswa ini akan dihapus dari HP. Data tidak dapat dipulihkan. Bank soal EDUYASA tidak terpengaruh.") },
             confirmButton = {
                 TextButton(
                     onClick = { askDelete = false; onDelete(existing) },
