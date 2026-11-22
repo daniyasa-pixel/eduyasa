@@ -57,6 +57,18 @@ private fun EduyasaApp() {
     val context = LocalContext.current
     val scope = rememberCoroutineScope()
     val catalog = remember { EduyasaRepository.catalog(context.applicationContext) }
+    val profileStore = remember { StudentProfileStore(context.applicationContext) }
+    var profiles by remember { mutableStateOf(profileStore.load()) }
+    var activeProfileId by remember { mutableStateOf(profileStore.activeProfileId()) }
+    val activeProfile = profiles.firstOrNull { it.id == activeProfileId }
+    var editProfileOpen by remember { mutableStateOf(false) }
+    var editingProfile by remember { mutableStateOf<StudentProfile?>(null) }
+    LaunchedEffect(Unit) {
+        if (profiles.isEmpty()) {
+            editingProfile = null
+            editProfileOpen = true
+        }
+    }
     var page by remember { mutableStateOf(Page.HOME) }
     var grade by remember { mutableIntStateOf(0) }
     val selectedSubjects = remember { mutableStateListOf<String>() }
@@ -142,52 +154,69 @@ private fun EduyasaApp() {
             when (page) {
                 Page.HOME -> {
                     Text("⭐ Portal Belajar Interaktif", color = Blue, fontWeight = FontWeight.Bold)
-                    Spacer(Modifier.height(14.dp))
-                    Text("Belajar Jadi", fontSize = 30.sp, fontWeight = FontWeight.ExtraBold, color = DarkBlue)
-                    Text("Lebih Seru!", fontSize = 34.sp, fontWeight = FontWeight.ExtraBold, color = Blue)
-                    Spacer(Modifier.height(10.dp))
-                    Text("🚀 Siap menjadi anak hebat? Ayo jelajahi berbagai pelajaran bersama EDUYASA! Pahami materi, jawab soal, dan terus semangat belajar. ⭐",
-                        fontSize = 14.sp, color = Muted, lineHeight = 22.sp)
-                    Spacer(Modifier.height(23.dp))
-                    Text("Pilih Kelas SD:", fontWeight = FontWeight.Bold)
-                    Spacer(Modifier.height(10.dp))
-                    (1..6).toList().chunked(3).forEach { row ->
-                        Row(horizontalArrangement = Arrangement.spacedBy(8.dp),
-                            modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp)) {
-                            row.forEach { number ->
-                                val available = number in setOf(3, 6)
-                                val active = grade == number
-                                val bg = if (active) Blue else if (available) Color(0xFFEFF6FF) else Color(0xFFF1F5F9)
-                                val fg = if (active) Color.White else if (available) DarkBlue else Muted
-                                Surface(
-                                    modifier = Modifier.weight(1f).testTag("class-" + number)
-                                        .clickable(enabled = available) {
-                                            grade = number
-                                            selectedSubjects.clear()
-                                            chapters.clear()
-                                        },
-                                    shape = RoundedCornerShape(12.dp),
-                                    color = bg,
-                                    border = BorderStroke(2.dp, if (available) Blue else Line)
-                                ) {
-                                    Column(Modifier.padding(vertical = 15.dp, horizontal = 2.dp),
-                                        horizontalAlignment = Alignment.CenterHorizontally) {
-                                        Text("Kelas " + number, color = fg, fontWeight = FontWeight.Bold, fontSize = 14.sp)
-                                        Text(if (available) "TERSEDIA" else "BELUM TERSEDIA",
-                                            color = fg, fontSize = 9.sp, fontWeight = FontWeight.SemiBold)
-                                    }
-                                }
-                            }
+                    Spacer(Modifier.height(12.dp))
+                    Text("Belajar Jadi Lebih Seru!", fontSize = 27.sp,
+                        fontWeight = FontWeight.ExtraBold, color = DarkBlue)
+                    Text("Satu HP bisa digunakan oleh beberapa siswa.",
+                        color = Muted, fontSize = 13.sp)
+                    Spacer(Modifier.height(24.dp))
+                    Title("Siapa yang belajar hari ini?")
+                    Text("Pilih nama siswa. Kelas akan terisi otomatis.",
+                        color = Muted, fontSize = 12.sp)
+                    Spacer(Modifier.height(12.dp))
+                    if (profiles.isEmpty()) {
+                        Panel {
+                            Text("Belum ada profil siswa.", fontWeight = FontWeight.Bold)
+                            Text("Tambahkan nama dan kelas sekali saja. Profil akan tersimpan di HP ini.",
+                                fontSize = 13.sp, color = Muted)
                         }
                     }
-                    Text(if (grade == 0) "Silakan pilih kelas terlebih dahulu."
-                         else "Kelas " + grade + " dipilih. Tersedia " + subjects.size + " mata pelajaran.",
-                        color = if (grade == 0) Muted else Green, fontSize = 12.sp)
-                    Spacer(Modifier.height(15.dp))
-                    Primary("Mulai Belajar", "start-learning-btn", grade in setOf(3, 6)) {
-                        page = Page.SUBJECTS
+                    profiles.forEach { profile ->
+                        Row(
+                            modifier = Modifier.fillMaxWidth().padding(bottom = 10.dp)
+                                .clip(RoundedCornerShape(14.dp))
+                                .background(if (activeProfileId == profile.id)
+                                    Color(0xFFEFF6FF) else Color.White)
+                                .testTag("profile-" + profile.id)
+                                .clickable {
+                                    activeProfileId = profile.id
+                                    profileStore.setActiveProfileId(profile.id)
+                                    grade = profile.grade
+                                    selectedSubjects.clear()
+                                    chapters.clear()
+                                    errorText = ""
+                                    page = Page.SUBJECTS
+                                }.padding(start = 15.dp, top = 10.dp, bottom = 10.dp, end = 4.dp),
+                            verticalAlignment = Alignment.CenterVertically
+                        ) {
+                            Text("🎓", fontSize = 29.sp)
+                            Spacer(Modifier.width(12.dp))
+                            Column(Modifier.weight(1f)) {
+                                Text(profile.name, fontWeight = FontWeight.Bold,
+                                    color = DarkBlue, fontSize = 16.sp)
+                                Text("Kelas " + profile.grade + " SD",
+                                    color = Muted, fontSize = 12.sp)
+                            }
+                            TextButton(
+                                onClick = {
+                                    editingProfile = profile
+                                    editProfileOpen = true
+                                },
+                                modifier = Modifier.testTag("edit-profile-" + profile.id)
+                            ) { Text("Ubah") }
+                            Text("›", color = Blue, fontSize = 25.sp,
+                                modifier = Modifier.padding(end = 10.dp))
+                        }
                     }
-                    Secondary("Pelajari Lebih Lanjut", "about-btn") { aboutOpen = true }
+                    Primary("＋ Tambah Profil Siswa", "add-profile") {
+                        editingProfile = null
+                        editProfileOpen = true
+                    }
+                    Secondary("Tentang EDUYASA", "about-btn") { aboutOpen = true }
+                    Spacer(Modifier.height(8.dp))
+                    Text("Profil disimpan hanya di perangkat ini.",
+                        fontSize = 11.sp, color = Muted,
+                        modifier = Modifier.fillMaxWidth(), textAlign = TextAlign.Center)
                 }
                 Page.SUBJECTS -> {
                     Title("Pilih Mata Pelajaran")
@@ -464,6 +493,9 @@ private fun EduyasaApp() {
                         Text("🎉", fontSize = 46.sp, modifier = Modifier.fillMaxWidth(), textAlign = TextAlign.Center)
                         Text("Kuis Selesai!", fontSize = 25.sp, fontWeight = FontWeight.ExtraBold,
                             modifier = Modifier.fillMaxWidth(), textAlign = TextAlign.Center)
+                        Text("Hasil belajar " + (activeProfile?.name ?: "Siswa") + " — Kelas " + grade + " SD",
+                            color = Blue, fontSize = 13.sp,
+                            modifier = Modifier.fillMaxWidth(), textAlign = TextAlign.Center)
                         Text("Terima kasih sudah berusaha. Ini hasil belajarmu hari ini.",
                             color = Muted, fontSize = 13.sp,
                             modifier = Modifier.fillMaxWidth(), textAlign = TextAlign.Center)
@@ -512,6 +544,31 @@ private fun EduyasaApp() {
         Spacer(Modifier.height(18.dp))
     }
 
+    if (editProfileOpen) StudentProfileEditor(
+        existing = editingProfile,
+        onDismiss = { editProfileOpen = false },
+        onSave = { entry ->
+            val updated = if (profiles.any { it.id == entry.id })
+                profiles.map { if (it.id == entry.id) entry else it }
+                else profiles + entry
+            profileStore.save(updated)
+            profiles = updated
+            editProfileOpen = false
+            editingProfile = null
+        },
+        onDelete = { entry ->
+            val updated = profiles.filterNot { it.id == entry.id }
+            profileStore.save(updated)
+            profiles = updated
+            if (activeProfileId == entry.id) {
+                activeProfileId = null
+                profileStore.setActiveProfileId(null)
+            }
+            editProfileOpen = false
+            editingProfile = null
+        }
+    )
+
     if (aboutOpen) AlertDialog(
         onDismissRequest = { aboutOpen = false },
         title = { Text("Tentang EDUYASA") },
@@ -532,7 +589,7 @@ private fun EduyasaApp() {
         }
     )
     if (reportOpen) {
-        var student by remember { mutableStateOf("") }
+        var student by remember(activeProfileId) { mutableStateOf(activeProfile?.name.orEmpty()) }
         var phone by remember { mutableStateOf("") }
         var reportError by remember { mutableStateOf("") }
         AlertDialog(
