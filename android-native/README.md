@@ -18,7 +18,7 @@ Katalog bab Kelas 6 sudah diselaraskan dari chapter_title setiap file soal utama
 Jika judul bab sumber berubah, perbarui katalog tanpa mengubah ID bab/soal.
 
 Belum diverifikasi build pada Android Studio atau perangkat.
-Renderer Markdown/LaTeX penuh dan audio non-TTS perlu integrasi lanjutan.
+Renderer Markdown/LaTeX dan audio telah ditambahkan ke kode; hasil visualnya belum diverifikasi melalui build APK/tes HP.
 
 ## Tahap pengembangan berikutnya
 - Uji Gradle Sync / build APK dan cek layar HP di Android Studio.
@@ -51,7 +51,7 @@ tes profil setelah aplikasi ditutup, pengelompokan UI, dan formulir WhatsApp.
 
 ## Tahap 3 — penyimpanan lokal dan evaluasi otomatis
 
-- Selesai mengoreksi soal ke-20, aplikasi otomatis menyimpan **satu sesi kuis** dan 20 jawaban ke database SQLite privat di HP. Pengguna tidak harus mengirim laporan WhatsApp.
+- Selesai mengoreksi soal terakhir (15, 20, atau 25 pilihan), aplikasi otomatis menyimpan **satu sesi kuis** dan semua jawabannya ke database SQLite privat di HP. Pengguna tidak harus mengirim laporan WhatsApp.
 - Disimpan: ID profil lokal, kelas, waktu selesai, ID sesi, ID soal, mapel, bab, jawaban yang dipilih, kunci jawaban, dan benar/salah. JSON GitHub tidak diubah.
 - Penyimpanan memakai satu transaksi (atomik) dan ID sesi unik, sehingga menekan duplikasi hasil saat tombol simpan ulang digunakan.
 - Jika penyimpanan gagal, halaman hasil memberi peringatan dan tombol **COBA SIMPAN LAGI**.
@@ -75,7 +75,7 @@ tes profil setelah aplikasi ditutup, pengelompokan UI, dan formulir WhatsApp.
 - Materi menampilkan heading, tulisan tebal, paragraf, daftar dan tabel sederhana, gambar materi yang sebelumnya hanya placeholder.
 - `EduRemoteImage` memakai Coil SVG decoder 2.7.0; menerima gambar PNG/JPG/SVG HTTPS dari GitHub, menampilkan pesan jika gagal, memakai alt text dari JSON, dan zoom ilustrasi.
 - `EduAudioPlayer.kt` membaca `audio.type=tts`, `audio.lang` (contoh `en-US`), `audio.rate` (contoh `0.85`), serta `audio.text` dari bank soal Kelas 3; mendukung file audio HTTPS jika dipakai nanti. TTS berhenti saat siswa pindah soal/halaman.
-- `EduyasaRepository.kt` kini mempertahankan metadata audio dan alternatif gambar; jumlah soal, penilaian, ID, profil, dan statistik tidak berubah.
+- `EduyasaRepository.kt` mempertahankan metadata audio/alternatif gambar; ID soal dan isi JSON tetap sama. Jumlah soal kini dapat dipilih 15, 20, atau 25 di aplikasi Android.
 - Semua perubahan pada **folder Android di branch `android`**, bukan `main`, bukan JSON/HTML.
 - Dependensi pihak ketiga: Markwon (Apache-2.0), renderer transitive JLaTeXMath-Android (perlu pemeriksaan kepatuhan lisensi sebelum distribusi APK/komersialisasi).
 
@@ -85,7 +85,31 @@ tes profil setelah aplikasi ditutup, pengelompokan UI, dan formulir WhatsApp.
 3. Kelas 3 MTK Bab 1 bergambar: cek gambar `.svg` sumber GitHub, zoom (+/−), ukuran gambar, gagal jaringan.
 4. Kelas 3 BIN Bab 1 materi: lihat ilustrasi `.svg`, Markdown heading & tebal; tautan dan daftar tidak kehilangan konten.
 5. Kelas 3 ENG Bab 1 listening: jika soal TTS terpilih, tes lafal bahasa Inggris, `en-US`, kecepatan 0.85, tombol play ulang, perpindahan soal dan HP tanpa mesin TTS.
-6. Pastikan kuis 20 soal, perhitungan skor, statistik, profil, semester, dan laporan WA tetap bekerja.
+6. Uji tiga pilihan kuis (15, 20, 25 soal), perhitungan skor, penyimpanan SQLite, statistik, profil, semester, dan laporan WA.
 7. Tes tidak ada crash saat koneksi internet mati atau media tidak berhasil dimuat.
 
 **Catatan:** Kode sudah ditulis dan pemeriksaan statis dilakukan. Keberhasilan tampilan rumus/audio/SVG di HP belum terkonfirmasi karena belum ada build serta uji fisik Android Studio.
+
+## Tahap 5 — Level, Bintang, kuis fleksibel, dan menu samping kanan
+
+**Kode sudah masuk branch `android`, belum di-build/diuji di HP.**
+
+- **Bab:** Level 0 jika belum ada latihan; jika sudah 1–20 jawaban Level 1, 21–40 Level 2, dan seterusnya. Semua jawaban dari kuis campuran dihitung ke bab asal; level tidak turun.
+- **Bintang bab:** berdasarkan ketepatan maksimal **20 jawaban terbaru** pada bab tersebut: 0–19%=0, 20–39%=1, 40–59%=2, 60–74%=3, 75–89%=4, 90–100%=5. Bintang bisa naik/turun; hasil dari satu sesi atau sampel kecil ditandai sementara.
+- **Mata pelajaran/semester:** penilaian bintang dihitung dari **rata-rata persentase** bab yang sudah dikerjakan, tanpa menghitung bab belum dipelajari sebagai nol. Ringkasan belum lengkap ditandai sementara. Pemetaan semester yang belum didukung LKS tetap tidak ditampilkan sebagai fakta.
+- **Kuis:** sebelum mulai pilih 15, 20, atau 25 soal (default 20); bank soal tetap acak, tanpa mengubah JSON. Untuk mapel bergambar, kuota gambar proporsional menjadi 4/5/6 soal.
+- **Riwayat lokal SQLite:** menerima ketiga ukuran kuis dengan transaksi atomik; tidak ada perubahan versi tabel atau migrasi data. Perhitungan per bab memakai seluruh jawaban untuk Level dan sampel 20 jawaban terbaru untuk Bintang.
+- **UI:** kartu mata pelajaran menampilkan bintang dan cakupan bab; daftar bab menampilkan Level serta Bintang; halaman Evaluasi berisi ringkasan, saran bab prioritas, bintang semester, detail tiap bab, serta **hanya 10 sesi latihan terakhir** dengan mapel/bab.
+- **Navigation Drawer:** tombol ☰ di kanan atas, panel masuk dari kanan, menu Beranda/Mulai Belajar/Evaluasi Belajar/Kelola Profil/Pengaturan/Tentang. Meninggalkan kuis lewat menu memerlukan konfirmasi.
+- **Pengaturan berfungsi:** jumlah soal bawaan dan aktif/nonaktif audio listening, disimpan di SharedPreferences. Tema, ukuran huruf, dan backup belum diimplementasikan; UI tidak menampilkan toggle palsu.
+- **Lokasi kode:** `LearningGamification.kt`, `LearningProgressBadges.kt`, `StudyHistory.kt`, `LearningStatisticsScreen.kt`, `MainActivity.kt`, `EduyasaRepository.kt`, dan dependency Compose Animation.
+- **Larangan:** jangan mengubah JSON, bank soal, ID, modul, atau `main` saat memperbaiki frontend Android.
+
+**QA wajib setelah sinkron ke Android Studio:**
+1. Gradle Sync + build + run di HP, perbaiki error Compose/Kotlin bila ada.
+2. Pilih 15, 20, dan 25 soal; selesai dan cek simpan otomatis, peringkat bintang, serta nilai WA.
+3. Cek level setelah 20 dan 21 soal khusus satu bab; kuis 2 bab mencatat jumlah soal masing-masing dengan benar.
+4. Ulang bab yang sama, cek bintang dapat naik/turun sementara Level tidak turun.
+5. Periksa penilaian sementara, bab belum dinilai, bintang mapel, dan semester tanpa pemetaan resmi.
+6. Pastikan menu muncul **dari kanan**, tidak kehilangan data tanpa konfirmasi, dan pengaturan tersimpan setelah aplikasi ditutup.
+7. Uji perpindahan 2 profil, riwayat terpisah, dan batas 10 hasil terbaru.
