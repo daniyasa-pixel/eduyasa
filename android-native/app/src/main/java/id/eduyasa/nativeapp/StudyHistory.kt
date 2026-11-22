@@ -43,9 +43,15 @@ data class LearningProgress(
     val chapter: Int?, // null = ringkasan satu mata pelajaran
     val total: Int,
     val correct: Int,
-    val sessions: Int
+    val sessions: Int,
+    val recentTotal: Int,
+    val recentCorrect: Int
 ) {
-    val accuracy: Int get() = if (total == 0) 0 else (correct * 100 + total / 2) / total
+    val accuracy: Int get() = LearningGamification.accuracy(correct, total)
+    val recentAccuracy: Int get() = LearningGamification.accuracy(recentCorrect, recentTotal)
+    val level: Int get() = LearningGamification.level(total)
+    val stars: Int get() = if (recentTotal == 0) 0 else LearningGamification.stars(recentAccuracy)
+    val isProvisional: Boolean get() = sessions < 2 || recentTotal < LearningGamification.RECENT_SAMPLE
 
     /**
      * Label bersifat indikator latihan, BUKAN diagnosis penguasaan materi.
@@ -114,7 +120,7 @@ class StudyHistoryStore(context: Context) :
     }
 
     /**
-     * Transaksi tunggal: session dan 20 jawaban tersimpan bersama atau batal.
+     * Transaksi tunggal: sesi 15/20/25 jawaban tersimpan bersama atau batal.
      * ID session unik mencegah sebuah kuis dihitung dua kali pada retry penyimpanan.
      * @return true jika sesi baru tersimpan, false jika ID sesi sudah ada.
      */
@@ -122,9 +128,12 @@ class StudyHistoryStore(context: Context) :
         require(session.profileId.isNotBlank())
         require(session.id.isNotBlank())
         require(session.grade in setOf(3, 6))
-        require(session.answers.size == 20) { "Kuis harus berisi tepat 20 jawaban." }
-        require(session.answers.map { it.position }.toSet().size == 20)
-        require(session.answers.all { it.position in 0..19 && it.questionId.isNotBlank() })
+        require(session.answers.size in LearningGamification.QUIZ_LENGTHS) {
+            "Kuis harus berisi 15, 20, atau 25 jawaban."
+        }
+        require(session.answers.map { it.position }.toSet() ==
+            session.answers.indices.toSet()) { "Posisi jawaban harus lengkap dan unik." }
+        require(session.answers.all { it.questionId.isNotBlank() })
         val db = writableDatabase
         db.beginTransaction()
         return try {
@@ -195,7 +204,8 @@ class StudyHistoryStore(context: Context) :
             """SELECT a.session_id, s.grade, a.subject_id, a.chapter_number, a.is_correct
                FROM study_answers a
                INNER JOIN study_sessions s ON s.id = a.session_id
-               WHERE s.profile_id = ?""".trimIndent(),
+               WHERE s.profile_id = ?
+               ORDER BY s.completed_at DESC, s.id DESC, a.position DESC""".trimIndent(),
             arrayOf(profileId)
         ).use { cursor ->
             while (cursor.moveToNext()) {
@@ -207,10 +217,12 @@ class StudyHistoryStore(context: Context) :
         }
         fun stats(group: List<Entry>, chapter: Int?): LearningProgress {
             val sample = group.first()
+            val latest = group.take(LearningGamification.RECENT_SAMPLE)
             return LearningProgress(
                 grade = sample.grade, subjectId = sample.subject, chapter = chapter,
                 total = group.size, correct = group.count { it.correct },
-                sessions = group.map { it.sessionId }.distinct().size
+                sessions = group.map { it.sessionId }.distinct().size,
+                recentTotal = latest.size, recentCorrect = latest.count { it.correct }
             )
         }
         val subjects = answers.groupBy { it.grade to it.subject }
