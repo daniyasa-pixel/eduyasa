@@ -58,3 +58,14 @@ Jangan dianggap siap produksi sebelum pengujian tersebut.
   karena susunan bab/edisi LKS perlu dicek.
 - Bukti: pembagian PKN & PAI Kelas 3 serta PAI Kelas 6 sudah terkonfirmasi,
   sebelas lainnya provisional dengan label peringatan, bukan ketentuan resmi.
+
+## Tahap 3: riwayat dan evaluasi
+- stats-profile-<UUID>: buka evaluasi untuk siswa dari halaman pemilihan profil.
+- open-statistics: buka evaluasi siswa aktif dari pilihan mata pelajaran.
+- result-open-statistics: buka evaluasi setelah hasil kuis tersimpan.
+- learning-statistics, stats-back, stats-retry: halaman evaluasi.
+- stats-sessions, stats-questions, stats-accuracy: KPI siswa aktif.
+- history-saved: konfirmasi penyimpanan otomatis di halaman hasil.
+- retry-save-history: tombol ulang menyimpan jika gagal.
+- Database SQLite private per profil: study_sessions + study_answers.
+- Tidak ada perubahan ID soal, file JSON, backend maupun frontend web.
