@@ -692,30 +692,60 @@ private fun EduyasaApp() {
                                     isSelected -> Blue
                                     else -> Line
                                 }
+                                val animatedBackground by animateColorAsState(
+                                    targetValue = bg, animationSpec = tween(260),
+                                    label = "answer-background"
+                                )
+                                val animatedBorder by animateColorAsState(
+                                    targetValue = border, animationSpec = tween(260),
+                                    label = "answer-border"
+                                )
+                                val scale by animateFloatAsState(
+                                    targetValue = if (isCorrect) 1.012f
+                                        else if (isWrong) .988f else 1f,
+                                    animationSpec = tween(240), label = "answer-scale"
+                                )
                                 Surface(
                                     modifier = Modifier.fillMaxWidth().padding(bottom = 10.dp)
-                                        .testTag("option-" + "ABCD"[i]).clickable(enabled = !checked) { selected = option },
+                                        .graphicsLayer(scaleX = scale, scaleY = scale)
+                                        .testTag("option-" + "ABCD"[i])
+                                        .clickable(enabled = !checked) { selected = option },
                                     shape = RoundedCornerShape(12.dp),
-                                    color = bg, border = BorderStroke(2.dp, border)
+                                    color = animatedBackground,
+                                    border = BorderStroke(2.dp, animatedBorder)
                                 ) {
-                                    Row(Modifier.fillMaxWidth().padding(15.dp)) {
+                                    Row(Modifier.fillMaxWidth().padding(15.dp),
+                                        verticalAlignment = Alignment.CenterVertically) {
                                         Text("ABCD"[i].toString() + ". ",
                                             fontWeight = FontWeight.Bold, fontSize = 14.sp)
                                         EduRichText(option, sizeSp = 14f,
                                             modifier = Modifier.weight(1f))
+                                        if (isCorrect) Text(" ✓", fontWeight = FontWeight.Bold,
+                                            color = Green, fontSize = 19.sp)
+                                        else if (isWrong) Text(" ×", fontWeight = FontWeight.Bold,
+                                            color = Red, fontSize = 19.sp)
                                     }
                                 }
                             }
-                            if (checked) {
-                                val correctLabel = "ABCD".getOrNull(options.indexOf(q.answer)) ?: '?'
-                                Spacer(Modifier.height(10.dp))
-                                Panel {
-                                    Text("Jawaban kamu: " + if (selected == q.answer) "Benar ✅" else "Belum tepat ❌",
-                                        fontWeight = FontWeight.Bold)
-                                    Text("Jawaban benar: " + correctLabel, color = Green)
-                                    Spacer(Modifier.height(8.dp))
-                                    Text("Pembahasan:", color = Blue, fontWeight = FontWeight.Bold)
-                                    EduRichText(q.discussion, sizeSp = 14f)
+                            AnimatedVisibility(
+                                visible = checked,
+                                enter = fadeIn(animationSpec = tween(220)) +
+                                    expandVertically(animationSpec = tween(250))
+                            ) {
+                                Column {
+                                    val correctLabel = "ABCD"
+                                        .getOrNull(options.indexOf(q.answer)) ?: '?'
+                                    Spacer(Modifier.height(10.dp))
+                                    Panel {
+                                        Text("Jawaban kamu: " +
+                                            (if (selected == q.answer) "Benar ✅" else "Belum tepat ❌"),
+                                            fontWeight = FontWeight.Bold)
+                                        Text("Jawaban benar: " + correctLabel, color = Green)
+                                        Spacer(Modifier.height(8.dp))
+                                        Text("Pembahasan:", color = Blue,
+                                            fontWeight = FontWeight.Bold)
+                                        EduRichText(q.discussion, sizeSp = 14f)
+                                    }
                                 }
                             }
                             Primary(
@@ -725,8 +755,10 @@ private fun EduyasaApp() {
                             ) {
                                 if (!checked) {
                                     checked = true
-                                    results[qIndex] = selected == q.answer
+                                    val isRight = selected == q.answer
+                                    results[qIndex] = isRight
                                     answersChosen[qIndex] = selected.orEmpty()
+                                    playEffect(if (isRight) EduSfx.CORRECT else EduSfx.WRONG)
                                 } else if (qIndex == quiz.lastIndex) {
                                     page = Page.RESULT
                                     persistCompletedQuiz()
@@ -792,7 +824,12 @@ private fun EduyasaApp() {
                     val correct = results.values.count { it }
                     val score = if (quiz.isEmpty()) 0 else (correct * 100f / quiz.size).toInt()
                     Panel {
-                        Text("🎉", fontSize = 46.sp, modifier = Modifier.fillMaxWidth(), textAlign = TextAlign.Center)
+                        Text(
+                            if (saveStatus == SaveStatus.SAVED && recentAchievements.isNotEmpty())
+                                "🎉" else "📘",
+                            fontSize = 46.sp, modifier = Modifier.fillMaxWidth(),
+                            textAlign = TextAlign.Center
+                        )
                         Text("Kuis Selesai!", fontSize = 25.sp, fontWeight = FontWeight.ExtraBold,
                             modifier = Modifier.fillMaxWidth(), textAlign = TextAlign.Center)
                         Text("Hasil belajar " + (activeProfile?.name ?: "Siswa") + " — Kelas " + grade + " SD",
@@ -817,6 +854,10 @@ private fun EduyasaApp() {
                                 Modifier.weight(1f).testTag("resultWrong"))
                         }
                         Spacer(Modifier.height(20.dp))
+                        if (saveStatus == SaveStatus.SAVED && recentAchievements.isNotEmpty()) {
+                            AchievementCelebration(recentAchievements, catalog)
+                            Spacer(Modifier.height(14.dp))
+                        }
                         when (saveStatus) {
                             SaveStatus.SAVING -> Text(
                                 "⏳ Menyimpan hasil latihan di HP...",
