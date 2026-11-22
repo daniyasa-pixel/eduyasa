@@ -37,7 +37,7 @@
         {
           "id": "BIN-B02-M01-003",
           "type": "PG",
-          "text": "Bacalah teks latihan berikut.\n\nDi rak Mira ada beberapa buku. Buku yang paling sering ia baca berjudul Ensiklopedi Keragaman Hayati. Mira menyukainya karena memuat informasi tentang berbagai tumbuhan dan hewan.\n\nJenis buku yang paling disukai Mira berdasarkan bacaan adalah ....",
+          "text": "Bacalah teks latihan berikut.\n\nDi rak Mira ada beberapa buku. Buku yang paling sering ia baca berjudul Ensiklopedi Keragaman Hayati. Mira menyukainya karena memuat informasi tentang berbagai tumbuhan dan hewan.\n\nJudul buku yang paling disukai Mira berdasarkan bacaan adalah ....",
           "options": [
             "Ensiklopedia Hewan Laut",
             "Ensiklopedi Keragaman Hayati",
@@ -89,7 +89,7 @@
         {
           "id": "BIN-B02-M01-007",
           "type": "PG",
-          "text": "Cerita Apapuhang berasal dari Kepulauan Sangihe yang berada di Provinsi ....",
+          "text": "Bacalah informasi berikut!\n\nCerita rakyat Apapuhang berasal dari Kepulauan Sangihe. Kepulauan ini merupakan bagian dari Provinsi Sulawesi Utara.\n\nBerdasarkan informasi tersebut, cerita Apapuhang berasal dari provinsi ....",
           "options": [
             "Sulawesi Utara",
             "Sulawesi Selatan",
@@ -97,7 +97,7 @@
             "Maluku Utara"
           ],
           "answer": "Sulawesi Utara",
-          "discussion": "Kepulauan Sangihe merupakan wilayah di Provinsi Sulawesi Utara."
+          "discussion": "Bacaan menyebut Kepulauan Sangihe sebagai daerah asal cerita dan menjelaskan bahwa kepulauan itu berada di Provinsi Sulawesi Utara."
         },
         {
           "id": "BIN-B02-M01-008",
@@ -253,7 +253,7 @@
             "tinggal di dalam bangunan kerajaan"
           ],
           "answer": "memanfaatkan lingkungan alam sebagai tempat tinggal",
-          "discussion": "Cerita menggambarkan Apapuhang hidup di lingkungan lembah dan menggunakan bagian-bagian alam sebagai tempat tinggal."
+          "discussion": "Soal menyebut bahwa para Apapuhang tinggal di bawah pohon tumbang dan di sela-sela akar pohon besar. Mereka memanfaatkan bagian lingkungan alam sebagai tempat tinggal."
         },
         {
           "id": "BIN-B02-M01-020",
@@ -292,7 +292,7 @@
             "tidak mampu bekerja sama dengan kelompoknya"
           ],
           "answer": "memiliki ide kreatif untuk mengatasi kesulitan",
-          "discussion": "Mereka menemukan cara yang tidak biasa untuk mencapai pantai. Hal tersebut menunjukkan kreativitas dalam mencari solusi."
+          "discussion": "Membuat simpul antarpohon seperti ketapel raksasa untuk meluncurkan perahu merupakan cara yang tidak biasa. Tindakan yang disebut dalam soal itu menunjukkan kreativitas untuk mengatasi kesulitan."
         },
         {
           "id": "BIN-B02-M01-023",
@@ -414,7 +414,7 @@
         {
           "id": "BIN-B02-M01-032",
           "type": "PG",
-          "text": "Sikap Murai Kecil yang akhirnya berterima kasih kepada Tupai dan Laba-laba menunjukkan nilai ....",
+          "text": "Bacalah teks latihan berikut!\n\nMurai Kecil terjebak di sumur. Tupai menemaninya berusaha mencari jalan keluar, sedangkan Laba-laba pergi meminta bantuan. Setelah mendapat pertolongan, Murai Kecil mengucapkan terima kasih kepada kedua temannya.\n\nSikap Murai Kecil yang mengucapkan terima kasih menunjukkan nilai ....",
           "options": [
             "kesombongan",
             "rasa syukur dan menghargai pertolongan",
@@ -422,7 +422,7 @@
             "keinginan untuk membalas dendam"
           ],
           "answer": "rasa syukur dan menghargai pertolongan",
-          "discussion": "Murai Kecil menyadari bahwa Tupai dan Laba-laba menjadi bagian penting dari pertolongan yang diterimanya."
+          "discussion": "Murai Kecil mengucapkan terima kasih kepada teman-teman yang membantu ketika ia terjebak. Sikap tersebut menunjukkan rasa syukur dan penghargaan terhadap pertolongan."
         },
         {
           "id": "BIN-B02-M01-033",
@@ -448,12 +448,12 @@
             "menyalin cerita orang lain tanpa perubahan"
           ],
           "answer": "menentukan nama, ciri fisik, sifat, kelebihan, dan kekurangan tokoh",
-          "discussion": "Buku mengarahkan peserta didik merancang tokoh terlebih dahulu, termasuk identitas, sifat, kelebihan, kekurangan, masalah, dan penyelesaiannya."
+          "discussion": "Menentukan nama, ciri fisik, sifat, kelebihan, dan kekurangan membantu penulis membentuk tokoh yang jelas. Rancangan itu dapat digunakan untuk mengembangkan tindakan tokoh ketika menghadapi masalah."
         },
         {
           "id": "BIN-B02-M01-035",
           "type": "PG",
-          "text": "Dalam contoh cerita “Kado Istimewa”, Rubi membawa bibit pohon sebagai hadiah. Pilihan tersebut menunjukkan bahwa Rubi ....",
+          "text": "Bacalah teks latihan berikut!\n\nRubi memilih bibit pohon sebagai hadiah untuk temannya. Ia berharap bibit itu ditanam dan dirawat hingga tumbuh menjadi pohon peneduh di halaman rumah temannya.\n\nPilihan hadiah tersebut menunjukkan bahwa Rubi ....",
           "options": [
             "memilih hadiah yang bermanfaat bagi orang lain",
             "ingin membawa hadiah yang paling mahal",
@@ -461,7 +461,7 @@
             "sengaja memberikan barang yang tidak berguna"
           ],
           "answer": "memilih hadiah yang bermanfaat bagi orang lain",
-          "discussion": "Rubi memilih bibit pohon karena dapat ditanam dan tumbuh menjadi pohon yang bermanfaat."
+          "discussion": "Rubi berharap bibit tumbuh menjadi pohon peneduh bagi temannya. Harapan yang disebut dalam bacaan menunjukkan bahwa ia memilih hadiah yang bermanfaat bagi orang lain."
         },
         {
           "id": "BIN-B02-M01-036",
@@ -570,7 +570,7 @@
         {
           "id": "BIN-B02-M01-044",
           "type": "PG",
-          "text": "Dalam cerita “Kado Istimewa”, Rubi lupa menyiapkan hadiah untuk kegiatan bertukar kado. Ia kemudian memilih membawa bibit Tabebuya. Mengapa keputusan Rubi dapat dianggap sebagai penyelesaian masalah yang kreatif?",
+          "text": "Bacalah teks latihan berikut!\n\nRubi lupa menyiapkan hadiah untuk kegiatan bertukar kado. Di rumahnya tersedia beberapa bibit Tabebuya. Ia memilih satu bibit untuk dibawa sebagai hadiah agar temannya dapat menanam dan merawatnya hingga menjadi pohon peneduh.\n\nMengapa keputusan Rubi dapat dianggap sebagai penyelesaian masalah yang kreatif?",
           "options": [
             "Karena ia membawa hadiah yang mahal dan sulit ditemukan.",
             "Karena ia menggunakan sesuatu yang tersedia untuk menghasilkan hadiah yang bermanfaat.",
@@ -578,7 +578,7 @@
             "Karena ia tidak jadi mengikuti kegiatan bertukar kado."
           ],
           "answer": "Karena ia menggunakan sesuatu yang tersedia untuk menghasilkan hadiah yang bermanfaat.",
-          "discussion": "Rubi memanfaatkan bibit pohon yang tersedia dan menjadikannya hadiah yang dapat tumbuh serta bermanfaat pada masa mendatang."
+          "discussion": "Bacaan menyebut bibit sudah tersedia di rumah Rubi. Ia memanfaatkan bibit tersebut sebagai hadiah yang kelak dapat menjadi pohon peneduh. Hal itu menunjukkan cara kreatif mengatasi masalah dengan sesuatu yang tersedia."
         },
         {
           "id": "BIN-B02-M01-045",
