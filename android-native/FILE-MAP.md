@@ -69,3 +69,14 @@ Jangan dianggap siap produksi sebelum pengujian tersebut.
 - retry-save-history: tombol ulang menyimpan jika gagal.
 - Database SQLite private per profil: study_sessions + study_answers.
 - Tidak ada perubahan ID soal, file JSON, backend maupun frontend web.
+
+## Tahap 4: media dan rumus
+
+- `EduRichContent.kt`: `EduRichText`, `EduMaterialContent`, `EduRemoteImage`, `prepareMathMarkdown`.
+- `EduAudioPlayer.kt`: TTS bahasa/kecepatan dari JSON, pemutaran file audio HTTPS.
+- `quizQText`: teks soal dengan native LaTeX.
+- `quizQImage`: gambar soal, termasuk SVG.
+- `quizQAudio`: memutar listening; `listening-status`: pesan siap/gagal.
+- `lesson-illustration`: gambar modul. Gambar bisa diketuk untuk diperbesar.
+- Opsi A/B/C/D dan pembahasan kini memakai `EduRichText`, bukan menghapus LaTeX.
+- Data resmi tetap di repository EDUYASA branch `main`; branch `android` untuk kode aplikasi saja.
