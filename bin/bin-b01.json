@@ -492,7 +492,7 @@
         {
           "id": "BIN-B01-M01-038",
           "type": "PG",
-          "text": "Perhatikan ilustrasi berikut!  Sebuah gambar memperlihatkan dua halaman sekolah. Halaman pertama memiliki banyak pohon, rumput, dan tanaman. Halaman kedua hampir seluruhnya tertutup semen dan tidak memiliki pepohonan.  Berdasarkan ilustrasi tersebut, kesimpulan yang paling masuk akal adalah ....",
+          "text": "Bacalah deskripsi berikut!\n\nHalaman pertama di sebuah sekolah memiliki banyak pohon, rumput, dan tanaman. Halaman kedua hampir seluruhnya tertutup semen dan tidak memiliki pepohonan.\n\nBerdasarkan deskripsi tersebut, kesimpulan yang paling masuk akal adalah ....",
           "options": [
             "Halaman tanpa pohon selalu lebih nyaman",
             "Halaman yang memiliki pepohonan berpotensi memberikan suasana lebih sejuk",
@@ -596,7 +596,7 @@
         {
           "id": "BIN-B01-M01-046",
           "type": "PG",
-          "text": "Perhatikan teks berikut!  Sebuah gambar memperlihatkan seorang anak sedang mematikan lampu di ruangan yang tidak digunakan. Di dekat sakelar terdapat tulisan hemat energi. Pada bagian lain gambar, terlihat ajakan menggunakan listrik seperlunya.  Informasi tersirat yang paling tepat berdasarkan gambar tersebut adalah ....",
+          "text": "Bacalah teks berikut!\n\nSeorang anak mematikan lampu di ruangan yang tidak digunakan. Ia juga mengajak teman-temannya menggunakan listrik seperlunya.\n\nPesan yang dapat disimpulkan dari tindakan anak tersebut adalah ....",
           "options": [
             "Anak tersebut takut menggunakan lampu",
             "Mematikan lampu merupakan salah satu kebiasaan menghemat energi",
@@ -604,7 +604,7 @@
             "Penggunaan listrik tidak berkaitan dengan lingkungan"
           ],
           "answer": "Mematikan lampu merupakan salah satu kebiasaan menghemat energi",
-          "discussion": "Gambar dan tulisan memberikan petunjuk bahwa anak tersebut melakukan tindakan untuk mengurangi penggunaan listrik yang tidak diperlukan. Hal ini menunjukkan perilaku hemat energi."
+          "discussion": "Anak itu mematikan lampu yang tidak diperlukan dan mengajak teman-temannya menggunakan listrik seperlunya. Kedua tindakan dalam teks menunjukkan kebiasaan menghemat energi."
         },
         {
           "id": "BIN-B01-M01-047",
