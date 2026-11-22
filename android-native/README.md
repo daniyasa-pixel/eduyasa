@@ -67,3 +67,25 @@ tes profil setelah aplikasi ditutup, pengelompokan UI, dan formulir WhatsApp.
 - `StudyHistory.kt`: SQLite dan agregasi statistik
 - `LearningStatisticsScreen.kt`: UI evaluasi dan histori
 - `MainActivity.kt`: penyimpanan kuis dan navigasi statistik
+
+## Tahap 4 — matematika, gambar, dan listening Native
+
+**Implementasi di branch `android` (belum build APK / tes HP):**
+- `EduRichContent.kt`: Markdown native Android TextView + Markwon 4.6.2; mode LaTeX asli (bukan sekadar menghapus tanda `$`), didukung plugin inline parser dan LaTeX. Sumber EDUYASA memakai `$...$`; UI mengonversi pembatas tampilannya menjadi `$$...$$` tanpa menyentuh isi JSON.
+- Materi menampilkan heading, tulisan tebal, paragraf, daftar dan tabel sederhana, gambar materi yang sebelumnya hanya placeholder.
+- `EduRemoteImage` memakai Coil SVG decoder 2.7.0; menerima gambar PNG/JPG/SVG HTTPS dari GitHub, menampilkan pesan jika gagal, memakai alt text dari JSON, dan zoom ilustrasi.
+- `EduAudioPlayer.kt` membaca `audio.type=tts`, `audio.lang` (contoh `en-US`), `audio.rate` (contoh `0.85`), serta `audio.text` dari bank soal Kelas 3; mendukung file audio HTTPS jika dipakai nanti. TTS berhenti saat siswa pindah soal/halaman.
+- `EduyasaRepository.kt` kini mempertahankan metadata audio dan alternatif gambar; jumlah soal, penilaian, ID, profil, dan statistik tidak berubah.
+- Semua perubahan pada **folder Android di branch `android`**, bukan `main`, bukan JSON/HTML.
+- Dependensi pihak ketiga: Markwon (Apache-2.0), renderer transitive JLaTeXMath-Android (perlu pemeriksaan kepatuhan lisensi sebelum distribusi APK/komersialisasi).
+
+**QA wajib di Android Studio sebelum menyatakan selesai:**
+1. Gradle Sync / dependency download / build APK; perlu Gradle Wrapper atau Gradle lokal sesuai README.
+2. Kelas 6 MTK Bab 1, tampilkan soal dengan `$\\frac{1}{4}$` dan opsi dengan `$\\frac{3}{4}$`; pastikan bentuk pecahan nyata dan pembahasan rapi.
+3. Kelas 3 MTK Bab 1 bergambar: cek gambar `.svg` sumber GitHub, zoom (+/−), ukuran gambar, gagal jaringan.
+4. Kelas 3 BIN Bab 1 materi: lihat ilustrasi `.svg`, Markdown heading & tebal; tautan dan daftar tidak kehilangan konten.
+5. Kelas 3 ENG Bab 1 listening: jika soal TTS terpilih, tes lafal bahasa Inggris, `en-US`, kecepatan 0.85, tombol play ulang, perpindahan soal dan HP tanpa mesin TTS.
+6. Pastikan kuis 20 soal, perhitungan skor, statistik, profil, semester, dan laporan WA tetap bekerja.
+7. Tes tidak ada crash saat koneksi internet mati atau media tidak berhasil dimuat.
+
+**Catatan:** Kode sudah ditulis dan pemeriksaan statis dilakukan. Keberhasilan tampilan rumus/audio/SVG di HP belum terkonfirmasi karena belum ada build serta uji fisik Android Studio.
