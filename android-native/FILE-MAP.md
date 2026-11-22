@@ -42,3 +42,19 @@ bila berlaku); koreksi; hasil; ulangi kuis; pelaporan WhatsApp (+62).
 Belum tervalidasi: Gradle Sync, build APK, tes UI HP, renderer LaTeX native,
 Markdown tabel lengkap, gambar di konten modul, audio non-TTS, cache offline.
 Jangan dianggap siap produksi sebelum pengujian tersebut.
+
+## Tahap 2: profil siswa (Compose UI testTag)
+- add-profile: buka form Tambah Profil Siswa (otomatis dibuka saat pertama tanpa profil).
+- student-profile-name: masukkan nama siswa.
+- profile-grade-3 / profile-grade-6: pilih kelas.
+- save-profile, cancel-profile: simpan/batal.
+- profile-<UUID>: pilih profil, kelas terisi otomatis.
+- edit-profile-<UUID>: ubah nama/kelas.
+- delete-profile, confirm-delete-profile: hapus profil dengan konfirmasi.
+
+## Tahap 2: pemisah semester
+- semester-<KELAS>-<MAPEL>-1, semester-<KELAS>-<MAPEL>-2: header semester.
+- semester-pending-3-SBD dan semester-pending-6-BIN: belum ada pemisah
+  karena susunan bab/edisi LKS perlu dicek.
+- Bukti: pembagian PKN & PAI Kelas 3 serta PAI Kelas 6 sudah terkonfirmasi,
+  sebelas lainnya provisional dengan label peringatan, bukan ketentuan resmi.
