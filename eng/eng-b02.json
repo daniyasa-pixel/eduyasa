@@ -79,7 +79,7 @@
           "discussion": "After scrubbing, rinse your hands with clean water.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-handwashing.svg",
-            "alt": "Educational illustration"
+            "alt": "A poster showing five numbered handwashing steps from left to right"
           }
         },
         {
@@ -96,7 +96,7 @@
           "discussion": "The first step shown is to wet your hands with clean water.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-handwashing.svg",
-            "alt": "Educational illustration"
+            "alt": "A poster showing five numbered handwashing steps from left to right"
           }
         },
         {
@@ -113,7 +113,7 @@
           "discussion": "The handwashing poster recommends scrubbing for about 20 seconds.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-handwashing.svg",
-            "alt": "Educational illustration"
+            "alt": "A poster showing five numbered handwashing steps from left to right"
           }
         },
         {
@@ -130,7 +130,7 @@
           "discussion": "Drying your hands is the fifth and last step in the poster.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-handwashing.svg",
-            "alt": "Educational illustration"
+            "alt": "A poster showing five numbered handwashing steps from left to right"
           }
         },
         {
@@ -211,7 +211,7 @@
         {
           "id": "ENG-B02-014",
           "type": "PG",
-          "text": "Look at the picture. Which habit is shown on the left?",
+          "text": "Look at the poster. Which habit is named in the first label on the left?",
           "options": [
             "Comb hair",
             "Brush teeth",
@@ -219,16 +219,16 @@
             "Take a shower"
           ],
           "answer": "Brush teeth",
-          "discussion": "The first illustration shows a toothbrush and toothpaste for brushing teeth.",
+          "discussion": "The first label on the left says 'Brush teeth'. Read the label on the poster attached to this question.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-habits.svg",
-            "alt": "Educational illustration"
+            "alt": "A poster with four labeled daily hygiene habits from left to right"
           }
         },
         {
           "id": "ENG-B02-015",
           "type": "PG",
-          "text": "Look at the picture. Which habit uses a comb?",
+          "text": "Look at the poster. Which habit is named in the second label from the left?",
           "options": [
             "Brush teeth",
             "Clip nails",
@@ -236,16 +236,16 @@
             "Wash clothes"
           ],
           "answer": "Comb hair",
-          "discussion": "The comb is used to tidy or comb hair.",
+          "discussion": "The second label from the left says 'Comb hair', which means menyisir rambut.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-habits.svg",
-            "alt": "Educational illustration"
+            "alt": "A poster with four labeled daily hygiene habits from left to right"
           }
         },
         {
           "id": "ENG-B02-016",
           "type": "PG",
-          "text": "Look at the picture. Which habit is shown with a shower?",
+          "text": "Look at the poster. Which habit is named in the last label on the right?",
           "options": [
             "Brush teeth",
             "Wear shoes",
@@ -253,10 +253,10 @@
             "Take a shower"
           ],
           "answer": "Take a shower",
-          "discussion": "The shower picture represents taking a shower.",
+          "discussion": "The last label on the right says 'Take a shower'. Read the label on the poster attached to this question.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/hygiene-habits.svg",
-            "alt": "Educational illustration"
+            "alt": "A poster with four labeled daily hygiene habits from left to right"
           }
         },
         {
@@ -415,7 +415,7 @@
         {
           "id": "ENG-B02-028",
           "type": "PG",
-          "text": "What does 'should' express in these lessons?",
+          "text": "Read the sentence: 'You should wash your hands before eating.' What does 'should' express in this sentence?",
           "options": [
             "Past time",
             "A color",
@@ -423,7 +423,7 @@
             "Advice"
           ],
           "answer": "Advice",
-          "discussion": "Should is used to give advice or say what is a good idea to do."
+          "discussion": "In this sentence, should introduces advice about what is a good idea to do."
         },
         {
           "id": "ENG-B02-029",
