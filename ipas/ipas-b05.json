@@ -154,7 +154,7 @@
         {
           "id": "IPAS-B05-M01-012",
           "type": "PG",
-          "text": "Fosil yang tertimbun di kerak Bumi mengalami pemanasan dan perubahan kimiawi dalam waktu lama. Hasil proses tersebut antara lain ...",
+          "text": "Sisa makhluk hidup yang tertimbun di dalam Bumi mengalami tekanan, pemanasan, dan perubahan kimiawi selama jutaan tahun. Proses tersebut dapat membentuk ...",
           "options": [
             "Air hujan dan oksigen",
             "Pasir dan tanah liat",
@@ -284,15 +284,15 @@
         {
           "id": "IPAS-B05-M01-022",
           "type": "PG",
-          "text": "Kelemahan pemanfaatan energi surya adalah ...",
+          "text": "Salah satu tantangan pemanfaatan energi surya adalah ...",
           "options": [
             "Tidak membutuhkan teknologi",
-            "Produksi listrik dapat dipengaruhi cuaca dan biaya teknologi masih besar",
+            "Produksi listrik dipengaruhi cuaca dan pemasangannya memerlukan biaya",
             "Tidak dapat menghasilkan listrik",
             "Hanya dapat digunakan pada malam hari"
           ],
-          "answer": "Produksi listrik dapat dipengaruhi cuaca dan biaya teknologi masih besar",
-          "discussion": "Energi surya dipengaruhi kondisi cuaca dan teknologi pembangkitnya membutuhkan biaya."
+          "answer": "Produksi listrik dipengaruhi cuaca dan pemasangannya memerlukan biaya",
+          "discussion": "Jumlah cahaya yang diterima panel dapat berubah karena cuaca. Peralatan dan pemasangan pembangkit juga memerlukan biaya."
         },
         {
           "id": "IPAS-B05-M01-023",
@@ -401,7 +401,7 @@
         {
           "id": "IPAS-B05-M01-031",
           "type": "PG",
-          "text": "Hidrogen dalam pembahasan energi masa depan dapat dimanfaatkan sebagai ...",
+          "text": "Hidrogen dapat menyimpan dan membawa energi untuk digunakan pada kendaraan atau pembangkit tertentu. Dalam pemanfaatan tersebut, hidrogen berfungsi sebagai ...",
           "options": [
             "Pengganti sinar Matahari",
             "Bahan pembuat batu bara",
@@ -409,7 +409,7 @@
             "Sumber angin"
           ],
           "answer": "Bahan bakar",
-          "discussion": "Hidrogen dapat dimanfaatkan sebagai bahan bakar untuk kendaraan atau pembangkit tertentu."
+          "discussion": "Hidrogen dapat digunakan sebagai bahan bakar. Hidrogen merupakan pembawa energi; apakah produksinya menggunakan energi terbarukan bergantung pada cara pembuatannya."
         },
         {
           "id": "IPAS-B05-M01-032",
