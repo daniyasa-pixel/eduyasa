@@ -113,3 +113,25 @@ tes profil setelah aplikasi ditutup, pengelompokan UI, dan formulir WhatsApp.
 5. Periksa penilaian sementara, bab belum dinilai, bintang mapel, dan semester tanpa pemetaan resmi.
 6. Pastikan menu muncul **dari kanan**, tidak kehilangan data tanpa konfirmasi, dan pengaturan tersimpan setelah aplikasi ditutup.
 7. Uji perpindahan 2 profil, riwayat terpisah, dan batas 10 hasil terbaru.
+
+## Tahap 6 — UI animasi dan efek suara permainan
+
+**Semua kode di branch `android`; tetap belum diverifikasi build APK / pengujian HP.**
+
+- Kuis: kartu jawaban berubah warna hijau/merah dengan transisi halus ±240–260 ms, centang/silang, dan perubahan skala kecil. Panel pembahasan tampil dengan animasi `fadeIn + expandVertically` sekitar 250 ms.
+- Pencapaian setelah kuis: `findNewMilestones()` membandingkan Level dan Bintang per bab **sebelum** dan **sesudah** sesi baru benar-benar berhasil disimpan di SQLite. Saat meningkat, layar hasil menampilkan kartu `PENCAPAIAN BARU`, Level Up, dan bintang menyala bergiliran. Jika tidak ada peningkatan, hasil tampil normal tanpa animasi kemenangan.
+- Suara: `EduSoundEffects.kt` membuat lima efek pendek orisinal via `AudioTrack` (benar, salah, kenaikan bintang, kenaikan level, selesai kuis). Tidak perlu aset audio eksternal, jaringan, maupun perubahan bank soal. Efek jawaban diputar saat `KOREKSI JAWABAN`, sedangkan efek hasil dibunyikan sesudah penyimpanan berhasil, mengutamakan Level Up > Star Up > penutup biasa.
+- Pengaturan: sakelar induk SFX, lima centang terpisah, tombol ▶ untuk mendengar contoh; semuanya disimpan dalam SharedPreferences. `Audio Listening` Bahasa Inggris terpisah.
+- Navigasi: overlay gelap Navigation Drawer memiliki transisi pudar; panel tetap masuk dari kanan.
+- Komponen: `EduAchievements.kt` untuk perhitungan milestone dan animasi hasil; `EduSoundEffects.kt` untuk synthesizer SFX; `MainActivity.kt` sebagai penghubung UI dan preferensi.
+
+**QA sebelum dirilis:**
+1. Lakukan Gradle Sync/compile di Android Studio, jalankan di perangkat nyata, dan perbaiki error jika ditemukan.
+2. Uji audio saat volume sistem kecil, mode senyap, headset, dan Audio Listening sedang aktif; pastikan gagal memutar suara tidak membuat aplikasi crash.
+3. Centang/matikan satu per satu SFX dan sakelar induk, tutup lalu buka ulang aplikasi; verifikasi pilihan tidak berubah.
+4. Jawab benar dan salah, pastikan warna/animasi dan suara sesuai pilihan tanpa menghambat tombol Lanjut.
+5. Selesaikan kuis pertama, ulang kuis dengan nilai berbeda, pastikan perayaan muncul **hanya saat Level/Bintang meningkat**, dan Level tidak turun.
+6. Uji penyimpanan gagal lalu retry, dan cek tidak ada perayaan ganda pada sesi yang sama.
+7. Uji animasi di HP kelas menengah dan pengaturan aksesibilitas pengurangan animasi; durasi serta tampilan bisa disesuaikan dari hasil uji.
+
+**Tidak berubah:** file soal/materi JSON, identitas soal, HTML, serta branch `main`.
