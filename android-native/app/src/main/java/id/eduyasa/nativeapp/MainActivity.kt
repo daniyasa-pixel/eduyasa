@@ -7,6 +7,11 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
 import androidx.compose.animation.AnimatedVisibility
+import androidx.compose.animation.animateColorAsState
+import androidx.compose.animation.core.animateFloatAsState
+import androidx.compose.animation.core.tween
+import androidx.compose.animation.expandVertically
+import androidx.compose.animation.fadeIn
 import androidx.compose.animation.slideInHorizontally
 import androidx.compose.animation.slideOutHorizontally
 import androidx.compose.foundation.BorderStroke
@@ -72,6 +77,20 @@ private fun EduyasaApp() {
     }
     var questionCount by remember { mutableIntStateOf(defaultQuestionCount) }
     var audioEnabled by remember { mutableStateOf(preferences.getBoolean("listening_enabled", true)) }
+    var soundEffectsEnabled by remember {
+        mutableStateOf(preferences.getBoolean("sfx_enabled", true))
+    }
+    val soundChoices = remember {
+        mutableStateMapOf<EduSfx, Boolean>().apply {
+            EduSfx.values().forEach { put(it,
+                preferences.getBoolean("sfx_" + it.name, true)) }
+        }
+    }
+    val soundEffects = remember { EduSoundEffects() }
+    DisposableEffect(soundEffects) { onDispose { soundEffects.close() } }
+    fun playEffect(effect: EduSfx) {
+        if (soundEffectsEnabled && soundChoices[effect] != false) soundEffects.play(effect)
+    }
     var drawerOpen by remember { mutableStateOf(false) }
     var pendingDestination by remember { mutableStateOf<Page?>(null) }
     var profiles by remember { mutableStateOf(profileStore.load()) }
@@ -102,6 +121,9 @@ private fun EduyasaApp() {
     var saveStatus by remember { mutableStateOf(SaveStatus.NONE) }
     var saveError by remember { mutableStateOf("") }
     var savedRevision by remember { mutableIntStateOf(0) }
+    var recentAchievements by remember {
+        mutableStateOf<List<ChapterMilestone>>(emptyList())
+    }
     var statistics by remember { mutableStateOf<LearningStatistics?>(null) }
     var statisticsLoading by remember { mutableStateOf(false) }
     var statisticsError by remember { mutableStateOf("") }
@@ -128,6 +150,7 @@ private fun EduyasaApp() {
         connected = null
         busy = false
         questionCount = defaultQuestionCount
+        recentAchievements = emptyList()
     }
     fun selections(): List<SelectedChapter> = selectedSubjects.flatMap { key ->
         val subject = subjects.firstOrNull { it.id == key }
@@ -138,6 +161,7 @@ private fun EduyasaApp() {
         sessionId = UUID.randomUUID().toString()
         saveStatus = SaveStatus.NONE
         saveError = ""
+        recentAchievements = emptyList()
         quiz = quiz.shuffled()
         qIndex = 0
         selected = null
@@ -177,11 +201,25 @@ private fun EduyasaApp() {
         saveError = ""
         scope.launch {
             try {
-                withContext(Dispatchers.IO) {
-                    studyHistory.saveCompletedSession(snapshot)
+                val (created, achieved) = withContext(Dispatchers.IO) {
+                    val before = studyHistory.statistics(profileId)
+                    val inserted = studyHistory.saveCompletedSession(snapshot)
+                    val improvement = if (inserted)
+                        findNewMilestones(before, studyHistory.statistics(profileId))
+                    else emptyList()
+                    inserted to improvement
                 }
+                recentAchievements = achieved
                 saveStatus = SaveStatus.SAVED
                 savedRevision++
+                if (created) {
+                    val effect = when {
+                        achieved.any { it.levelUp } -> EduSfx.LEVEL
+                        achieved.any { it.starUp } -> EduSfx.STAR
+                        else -> EduSfx.FINISH
+                    }
+                    playEffect(effect)
+                }
             } catch (e: Exception) {
                 saveStatus = SaveStatus.FAILED
                 saveError = e.message ?: "Tidak dapat menyimpan hasil di perangkat."
