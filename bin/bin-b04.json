@@ -279,12 +279,12 @@
             "Ia menghindari masukan dari orang lain"
           ],
           "answer": "Ia mengembangkan minat melalui belajar dan berlatih",
-          "discussion": "Kisah Kak Awang menunjukkan bahwa hobi dapat berkembang melalui latihan, belajar, dan kemauan menerima masukan."
+          "discussion": "Kak Awang mulai dari kegemaran membongkar dan merakit mainan, lalu belajar koding dan membuat gim sederhana. Rangkaian kegiatan dalam soal menunjukkan bahwa ia mengembangkan minat melalui belajar dan berlatih hingga menjadi desainer gim edukatif."
         },
         {
           "id": "BIN-B04-M01-022",
           "type": "PG",
-          "text": "Dalam teks tentang Kak Rina, usaha toko kuenya semakin dikenal masyarakat. Hal yang membuat usaha tersebut dikenal adalah ....",
+          "text": "Bacalah teks latihan berikut!\n\nKak Rina mengelola toko kue. Pelanggan menyukai rasa kuenya dan pelayanan yang ramah. Mereka kemudian menceritakan pengalaman baik itu kepada orang lain sehingga toko Kak Rina semakin dikenal.\n\nBerdasarkan bacaan, hal yang membuat toko kue Kak Rina semakin dikenal adalah ....",
           "options": [
             "Rasa kue dan pelayanan yang baik",
             "Lokasi toko yang berada di pusat kota",
@@ -292,7 +292,7 @@
             "Promosi oleh seorang artis"
           ],
           "answer": "Rasa kue dan pelayanan yang baik",
-          "discussion": "Teks menyebutkan bahwa toko kue Kak Rina semakin dikenal bukan hanya karena rasa kuenya, tetapi juga karena pelayanan yang baik."
+          "discussion": "Bacaan menyebut dua hal yang disukai pelanggan, yaitu rasa kue dan pelayanan yang ramah. Pengalaman baik itu mereka ceritakan kepada orang lain sehingga toko semakin dikenal."
         },
         {
           "id": "BIN-B04-M01-023",
@@ -336,7 +336,7 @@
         {
           "id": "BIN-B04-M01-026",
           "type": "PG",
-          "text": "Perhatikan kalimat: “Pohon bambu di belakang sekolah tumbuh sangat tinggi.” Frasa “sangat tinggi” merupakan keterangan ....",
+          "text": "Perhatikan kalimat berikut!\n\nPohon bambu di belakang sekolah tumbuh sangat tinggi.\n\nKata “sangat” pada kalimat tersebut merupakan keterangan ....",
           "options": [
             "Waktu",
             "Tempat",
@@ -344,7 +344,7 @@
             "Intensitas"
           ],
           "answer": "Intensitas",
-          "discussion": "Keterangan intensitas menjelaskan tingkat atau ukuran suatu keadaan."
+          "discussion": "Kata sangat menerangkan tingkat atau intensitas sifat tinggi. Jadi, kata sangat berfungsi sebagai keterangan intensitas."
         },
         {
           "id": "BIN-B04-M01-027",
