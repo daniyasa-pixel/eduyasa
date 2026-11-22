@@ -89,7 +89,7 @@
         {
           "id": "IPAS-B04-M01-007",
           "type": "PG",
-          "text": "Pakaian tradisional ulos berasal dari budaya ...",
+          "text": "Kain tradisional ulos berasal dari budaya ...",
           "options": [
             "Dayak",
             "Betawi",
@@ -180,7 +180,7 @@
         {
           "id": "IPAS-B04-M01-014",
           "type": "PG",
-          "text": "Pada tradisi Mappalette Bola, para perempuan menyiapkan makanan untuk warga yang membantu. Hal ini menunjukkan ...",
+          "text": "Dalam sebuah kegiatan Mappalette Bola, sebagian warga menyiapkan makanan untuk warga yang mengangkat rumah. Hal ini menunjukkan ...",
           "options": [
             "Hanya satu kelompok yang boleh bekerja",
             "Setiap orang dapat berperan sesuai kemampuannya",
@@ -188,12 +188,12 @@
             "Kegiatan bersama harus dilakukan tanpa persiapan"
           ],
           "answer": "Setiap orang dapat berperan sesuai kemampuannya",
-          "discussion": "Peran yang berbeda tetap saling melengkapi dalam kegiatan gotong royong."
+          "discussion": "Peran menyiapkan makanan dan mengangkat rumah saling mendukung. Setiap orang dapat berkontribusi sesuai kemampuan dalam kegiatan gotong royong."
         },
         {
           "id": "IPAS-B04-M01-015",
           "type": "PG",
-          "text": "Maccera Bola dalam rangkaian tradisi Mappalette Bola dilakukan ...",
+          "text": "Bacalah teks latihan berikut.\nDalam contoh pelaksanaan Mappalette Bola ini, warga memindahkan sebuah rumah panggung ke lokasi baru. Setelah keluarga menempati lokasi itu selama satu tahun, dilaksanakan Maccera Bola sebagai ungkapan syukur dan harapan keselamatan.\n\nBerdasarkan teks, kapan Maccera Bola dilaksanakan setelah pemindahan rumah?",
           "options": [
             "Sebelum rumah dipindahkan",
             "Setiap minggu",
@@ -201,7 +201,7 @@
             "Saat musim panen saja"
           ],
           "answer": "Satu tahun kemudian",
-          "discussion": "Dalam penjelasan buku, Maccera Bola dilakukan setahun setelah pemindahan rumah."
+          "discussion": "Teks menyebut Maccera Bola dilaksanakan setelah keluarga menempati lokasi baru selama satu tahun. Jawaban berlaku untuk contoh pelaksanaan yang diceritakan pada soal."
         },
         {
           "id": "IPAS-B04-M01-016",
@@ -219,7 +219,7 @@
         {
           "id": "IPAS-B04-M01-017",
           "type": "PG",
-          "text": "Hasil tangkapan dalam tradisi Manee dibagikan ...",
+          "text": "Bacalah teks latihan berikut.\nSetelah kegiatan Manee, warga membagi hasil tangkapan sehingga semua penerima memperoleh bagian yang sama.\n\nBagaimana hasil tangkapan dibagikan dalam teks tersebut?",
           "options": [
             "Secara merata",
             "Hanya kepada pemimpin",
@@ -227,25 +227,25 @@
             "Untuk dijual oleh satu keluarga"
           ],
           "answer": "Secara merata",
-          "discussion": "Pembagian hasil tangkapan secara merata menunjukkan nilai keadilan sosial."
+          "discussion": "Semua penerima memperoleh bagian yang sama. Hal ini berarti hasil tangkapan dalam teks dibagikan secara merata."
         },
         {
           "id": "IPAS-B04-M01-018",
           "type": "PG",
-          "text": "Sebelum tradisi Manee dilakukan, para sesepuh berdoa dan melakukan ...",
+          "text": "Dalam tradisi Mane'e atau Manee, tokoh adat memimpin kegiatan pembuka untuk memohon kelancaran dan keselamatan. Kegiatan tersebut adalah ....",
           "options": [
             "Perlombaan perahu",
-            "Pembersihan atau penyucian",
+            "Doa bersama",
             "Perdagangan ikan",
             "Pembuatan rumah"
           ],
-          "answer": "Pembersihan atau penyucian",
-          "discussion": "Dalam tradisi Manee, para sesepuh berdoa dan melakukan pembersihan sebelum kegiatan."
+          "answer": "Doa bersama",
+          "discussion": "Tradisi Mane'e diawali doa kepada Tuhan untuk memohon kelancaran, keselamatan, dan hasil kegiatan. Ini merupakan bagian dari nilai spiritual masyarakat pendukungnya."
         },
         {
           "id": "IPAS-B04-M01-019",
           "type": "PG",
-          "text": "Salah satu nilai yang dapat dipelajari dari tradisi Manee adalah ...",
+          "text": "Bacalah teks latihan berikut.\nMasyarakat menjalankan aturan adat yang membatasi penangkapan ikan di wilayah tertentu sebelum kegiatan Mane'e. Saat kegiatan berlangsung, mereka bekerja bersama menggiring ikan menggunakan rangkaian janur kelapa.\n\nNilai yang dapat dipelajari dari teks tersebut adalah ...",
           "options": [
             "Mengambil ikan sebanyak-banyaknya tanpa aturan",
             "Menyimpan semua hasil untuk diri sendiri",
@@ -253,7 +253,7 @@
             "Menghindari kegiatan bersama"
           ],
           "answer": "Menjaga laut dan bekerja sama",
-          "discussion": "Manee mengajarkan kerja sama, kebersamaan, keadilan, dan kepedulian terhadap kelestarian laut."
+          "discussion": "Pembatasan penangkapan memberi kesempatan sumber daya laut tetap terjaga. Kegiatan bersama menunjukkan kerja sama."
         },
         {
           "id": "IPAS-B04-M01-020",
@@ -297,7 +297,7 @@
         {
           "id": "IPAS-B04-M01-023",
           "type": "PG",
-          "text": "Pengakuan Subak sebagai Warisan Dunia UNESCO terjadi pada tahun ...",
+          "text": "Lanskap budaya Bali yang mencakup sistem Subak ditetapkan sebagai Warisan Dunia UNESCO pada tahun ...",
           "options": [
             "2000",
             "2005",
@@ -305,7 +305,7 @@
             "2020"
           ],
           "answer": "2012",
-          "discussion": "Subak diakui sebagai Warisan Dunia UNESCO pada tahun 2012."
+          "discussion": "UNESCO menetapkan lanskap budaya Bali yang mencakup sistem Subak sebagai Warisan Dunia pada 2012."
         },
         {
           "id": "IPAS-B04-M01-024",
@@ -531,7 +531,7 @@
         {
           "id": "IPAS-B04-M01-041",
           "type": "PG",
-          "text": "Sekelompok siswa bermain petak umpet di halaman sekolah. Agar permainan berlangsung baik, mereka menyepakati batas tempat bermain dan aturan bersama. Nilai yang paling tampak adalah ...",
+          "text": "Sekelompok siswa bermain petak umpet di halaman sekolah. Mereka menyepakati batas tempat bermain dan aturan bersama, lalu menaati aturan itu dengan jujur selama bermain. Nilai yang paling tampak adalah ...",
           "options": [
             "Musyawarah dan sportivitas",
             "Persaingan tanpa aturan",
@@ -539,7 +539,7 @@
             "Menghindari tanggung jawab"
           ],
           "answer": "Musyawarah dan sportivitas",
-          "discussion": "Menyepakati aturan bersama menunjukkan musyawarah, sedangkan mematuhinya melatih sportivitas."
+          "discussion": "Menyepakati aturan bersama menunjukkan musyawarah. Bermain jujur dan menaati aturan menunjukkan sportivitas."
         },
         {
           "id": "IPAS-B04-M01-042",
@@ -583,7 +583,7 @@
         {
           "id": "IPAS-B04-M01-045",
           "type": "PG",
-          "text": "Pada masa Mataram Kuno, hubungan Rakai Pikatan dan Pramodawardhani dikaitkan dengan sikap saling menghormati. Pelajaran yang dapat diterapkan di sekolah adalah ...",
+          "text": "Bacalah teks latihan berikut.\nDalam kisah sejarah Mataram Kuno, Rakai Pikatan yang berlatar Hindu dan Pramodawardhani yang berlatar Buddha dikaitkan dengan hubungan saling menghormati. Kisah keduanya menjadi contoh pembelajaran toleransi meskipun berbeda keyakinan.\n\nPelajaran dari teks yang dapat diterapkan di sekolah adalah ...",
           "options": [
             "Bekerja sama meskipun memiliki perbedaan latar belakang",
             "Berteman hanya dengan orang yang sekeyakinan",
@@ -591,7 +591,7 @@
             "Meminta semua teman memiliki kebiasaan sama"
           ],
           "answer": "Bekerja sama meskipun memiliki perbedaan latar belakang",
-          "discussion": "Sejarah tersebut dapat menjadi contoh bahwa perbedaan keyakinan tidak menghalangi sikap saling menghormati dan bekerja sama."
+          "discussion": "Teks memberikan contoh saling menghormati di tengah perbedaan keyakinan. Di sekolah, nilai itu dapat diterapkan dengan bekerja sama tanpa membeda-bedakan latar belakang teman."
         },
         {
           "id": "IPAS-B04-M01-046",
