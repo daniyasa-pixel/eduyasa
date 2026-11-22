@@ -6,6 +6,9 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
+import androidx.compose.animation.AnimatedVisibility
+import androidx.compose.animation.slideInHorizontally
+import androidx.compose.animation.slideOutHorizontally
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -40,7 +43,7 @@ private val Muted = Color(0xFF718096)
 private val Line = Color(0xFFE5EAF2)
 private val Green = Color(0xFF16A34A)
 private val Red = Color(0xFFDC2626)
-private enum class Page { HOME, SUBJECTS, CHAPTERS, MATERIAL, PREP, QUIZ, RESULT, STATS }
+private enum class Page { HOME, SUBJECTS, CHAPTERS, MATERIAL, PREP, QUIZ, RESULT, STATS, SETTINGS }
 private enum class SaveStatus { NONE, SAVING, SAVED, FAILED }
 
 class MainActivity : ComponentActivity() {
@@ -61,6 +64,16 @@ private fun EduyasaApp() {
     val catalog = remember { EduyasaRepository.catalog(context.applicationContext) }
     val profileStore = remember { StudentProfileStore(context.applicationContext) }
     val studyHistory = remember { StudyHistoryStore(context.applicationContext) }
+    val preferences = remember { context.applicationContext.getSharedPreferences("eduyasa_settings", 0) }
+    var defaultQuestionCount by remember {
+        mutableIntStateOf(preferences.getInt("quiz_length", 20).takeIf {
+            it in LearningGamification.QUIZ_LENGTHS
+        } ?: 20)
+    }
+    var questionCount by remember { mutableIntStateOf(defaultQuestionCount) }
+    var audioEnabled by remember { mutableStateOf(preferences.getBoolean("listening_enabled", true)) }
+    var drawerOpen by remember { mutableStateOf(false) }
+    var pendingDestination by remember { mutableStateOf<Page?>(null) }
     var profiles by remember { mutableStateOf(profileStore.load()) }
     var activeProfileId by remember { mutableStateOf(profileStore.activeProfileId()) }
     val activeProfile = profiles.firstOrNull { it.id == activeProfileId }
@@ -114,6 +127,7 @@ private fun EduyasaApp() {
         errorText = ""
         connected = null
         busy = false
+        questionCount = defaultQuestionCount
     }
     fun selections(): List<SelectedChapter> = selectedSubjects.flatMap { key ->
         val subject = subjects.firstOrNull { it.id == key }
@@ -136,8 +150,8 @@ private fun EduyasaApp() {
     fun persistCompletedQuiz() {
         if (saveStatus == SaveStatus.SAVING || saveStatus == SaveStatus.SAVED) return
         val profileId = activeProfileId
-        if (profileId.isNullOrBlank() || quiz.size != 20 || results.size != 20 ||
-            answersChosen.size != 20) {
+        if (profileId.isNullOrBlank() || quiz.size !in LearningGamification.QUIZ_LENGTHS ||
+            results.size != quiz.size || answersChosen.size != quiz.size) {
             saveStatus = SaveStatus.FAILED
             saveError = "Riwayat belum bisa disimpan: identitas siswa atau jawaban belum lengkap."
             return
@@ -176,7 +190,7 @@ private fun EduyasaApp() {
     }
     fun back() {
         when (page) {
-            Page.SUBJECTS, Page.STATS -> page = Page.HOME
+            Page.SUBJECTS, Page.STATS, Page.SETTINGS -> page = Page.HOME
             Page.CHAPTERS -> page = Page.SUBJECTS
             Page.MATERIAL -> page = Page.CHAPTERS
             Page.PREP -> page = Page.MATERIAL
@@ -184,7 +198,36 @@ private fun EduyasaApp() {
             Page.HOME -> Unit
         }
     }
-    BackHandler(enabled = page != Page.HOME) { back() }
+    fun goTo(target: Page) {
+        drawerOpen = false
+        if (page == Page.QUIZ || page == Page.RESULT) {
+            pendingDestination = target
+            leaveOpen = true
+            return
+        }
+        when (target) {
+            Page.HOME -> reset()
+            Page.SUBJECTS -> {
+                if (activeProfile == null) reset() else {
+                    grade = activeProfile.grade
+                    selectedSubjects.clear()
+                    chapters.clear()
+                    statistics = null
+                    page = Page.SUBJECTS
+                }
+            }
+            Page.STATS -> {
+                if (activeProfile == null) reset() else {
+                    grade = activeProfile.grade
+                    statistics = null
+                    page = Page.STATS
+                }
+            }
+            else -> page = target
+        }
+    }
+    BackHandler(enabled = drawerOpen) { drawerOpen = false }
+    BackHandler(enabled = page != Page.HOME && !drawerOpen) { back() }
     LaunchedEffect(grade) {
         if (grade == 3 || grade == 6) connected = EduyasaRepository.checkConnection(grade)
     }
@@ -194,7 +237,8 @@ private fun EduyasaApp() {
     }
     LaunchedEffect(page, activeProfileId, savedRevision) {
         val profileId = activeProfileId
-        if (page == Page.STATS && !profileId.isNullOrBlank()) {
+        if (page in setOf(Page.STATS, Page.SUBJECTS, Page.CHAPTERS) &&
+            !profileId.isNullOrBlank()) {
             statisticsLoading = true
             statisticsError = ""
             try {
@@ -210,6 +254,7 @@ private fun EduyasaApp() {
         }
     }
 
+    Box(Modifier.fillMaxSize()) {
     Column(
         Modifier.fillMaxSize().background(Pale)
             .verticalScroll(rememberScrollState())
@@ -217,7 +262,8 @@ private fun EduyasaApp() {
         EduHeader(
             grade = grade,
             home = page == Page.HOME,
-            connection = connected
+            connection = connected,
+            onOpenMenu = { drawerOpen = true }
         )
         Column(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 20.dp)) {
             if (page != Page.HOME && page != Page.RESULT && page != Page.STATS) {
@@ -259,6 +305,7 @@ private fun EduyasaApp() {
                                     activeProfileId = profile.id
                                     profileStore.setActiveProfileId(profile.id)
                                     grade = profile.grade
+                                    statistics = null
                                     selectedSubjects.clear()
                                     chapters.clear()
                                     errorText = ""
@@ -347,6 +394,21 @@ private fun EduyasaApp() {
                                             color = if (enabled) Color(0xFF172033) else Muted)
                                         Text(s.chapters.size.toString() + " bab terdaftar",
                                             fontSize = 11.sp, color = Muted)
+                                        val assessed = statistics?.chapters.orEmpty().filter {
+                                            it.grade == grade && it.subjectId == s.id
+                                        }
+                                        val rating = LearningGamification.summary(assessed)
+                                        Spacer(Modifier.height(5.dp))
+                                        if (rating == null) {
+                                            Text("Belum dinilai", fontSize = 11.sp, color = Muted)
+                                        } else {
+                                            LearningStars(rating.stars)
+                                            Text(rating.accuracy.toString() + "% • " +
+                                                rating.assessedChapters + "/" + s.chapters.size +
+                                                " bab" + if (rating.provisional || rating.assessedChapters < s.chapters.size)
+                                                    " • Sementara" else "",
+                                                fontSize = 10.sp, color = Muted)
+                                        }
                                     }
                                 }
                             }
@@ -421,9 +483,16 @@ private fun EduyasaApp() {
                                                 chapters[key] = updated
                                             }
                                         )
-                                        Text("Bab " + num + ": " + label,
-                                            fontSize = 13.sp,
-                                            color = if (canPick) Color(0xFF172033) else Muted)
+                                        Column(Modifier.weight(1f)) {
+                                            Text("Bab " + num + ": " + label,
+                                                fontSize = 13.sp,
+                                                color = if (canPick) Color(0xFF172033) else Muted)
+                                            val progress = statistics?.chapters?.firstOrNull {
+                                                it.grade == grade && it.subjectId == key && it.chapter == num
+                                            }
+                                            Spacer(Modifier.height(4.dp))
+                                            ChapterLevelAndStars(progress, compact = true)
+                                        }
                                     }
                                     HorizontalDivider(color = Line)
                                 }
@@ -491,9 +560,13 @@ private fun EduyasaApp() {
                         Spacer(Modifier.height(10.dp))
                         Text(selectedSubjects.joinToString(", ") { id ->
                             subjects.firstOrNull { it.id == id }?.name ?: id
-                        } + "\n" + selections().size + " bab dipilih.\n20 soal acak siap untuk latihan.",
+                        } + "\n" + selections().size + " bab dipilih.\n" +
+                            questionCount + " soal acak siap untuk latihan.",
                             modifier = Modifier.fillMaxWidth().testTag("quizPrepInfo"),
                             textAlign = TextAlign.Center, fontSize = 14.sp, lineHeight = 23.sp)
+                        Spacer(Modifier.height(14.dp))
+                        Text("Jumlah soal:", color = DarkBlue, fontWeight = FontWeight.Bold)
+                        QuizLengthChooser(value = questionCount, onSelect = { questionCount = it })
                         if (errorText.isNotBlank()) ErrorMessage(errorText)
                         Spacer(Modifier.height(12.dp))
                         Primary(if (busy) "MEMPERSIAPKAN..." else "MULAI KUIS",
@@ -502,7 +575,7 @@ private fun EduyasaApp() {
                                 busy = true
                                 errorText = ""
                                 try {
-                                    quiz = EduyasaRepository.questions(grade, selections())
+                                    quiz = EduyasaRepository.questions(grade, selections(), questionCount)
                                     connected = true
                                     resetQuiz()
                                 } catch (e: Exception) {
@@ -556,6 +629,7 @@ private fun EduyasaApp() {
                                         audioEngine.play(q.audioType, q.audioText,
                                             q.audioLang, q.audioRate, q.audioUrl)
                                     },
+                                    enabled = audioEnabled,
                                     modifier = Modifier.testTag("quizQAudio")
                                 ) { Text(q.audioLabel?.takeIf(String::isNotBlank) ?: "🔊 DENGARKAN SUARA") }
                                 if (audioEngine.status.isNotBlank()) Text(
@@ -698,7 +772,7 @@ private fun EduyasaApp() {
                                 busy = true
                                 errorText = ""
                                 try {
-                                    quiz = EduyasaRepository.questions(grade, selections())
+                                    quiz = EduyasaRepository.questions(grade, selections(), questionCount)
                                     resetQuiz()
                                 } catch (e: Exception) {
                                     errorText = e.message ?: "Gagal menyiapkan kuis ulang."
