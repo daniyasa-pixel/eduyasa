@@ -71,7 +71,7 @@
             "Provinsi DI Yogyakarta berada di bawah Kabupaten Bantul."
           ],
           "answer": "Kabupaten Bantul merupakan bagian dari Provinsi DI Yogyakarta.",
-          "discussion": "Kabupaten Bantul merupakan bagian dari Provinsi DI Yogyakarta. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
+          "discussion": "Bantul adalah kabupaten yang berada dalam Provinsi Daerah Istimewa Yogyakarta. Kabupaten/kota merupakan bagian pembagian wilayah provinsi."
         },
         {
           "id": "PKN-B06-006",
@@ -102,15 +102,15 @@
         {
           "id": "PKN-B06-008",
           "type": "PG",
-          "text": "Manakah pernyataan yang keliru mengenai jumlah provinsi dalam buku?",
+          "text": "Manakah pernyataan yang keliru mengenai perkembangan jumlah provinsi Indonesia?",
           "options": [
-            "38 provinsi",
-            "Peta tahun 2025 menunjukkan 38 provinsi.",
-            "Jumlah provinsi perlu dipahami sesuai data dan tahun sumber resmi.",
+            "Pada 19 Agustus 1945, PPKI membagi wilayah RI menjadi delapan provinsi.",
+            "Pada peta NKRI edisi 2025, Indonesia tercatat memiliki 38 provinsi.",
+            "Jumlah provinsi bisa bertambah melalui perubahan wilayah yang ditetapkan secara resmi.",
             "Jumlah provinsi di Indonesia selalu sama sejak tahun 1945 sampai sekarang."
           ],
           "answer": "Jumlah provinsi di Indonesia selalu sama sejak tahun 1945 sampai sekarang.",
-          "discussion": "Jumlah provinsi di Indonesia selalu sama sejak tahun 1945 sampai sekarang. adalah pernyataan keliru. Faktanya: Buku acuan Pendidikan Pancasila kelas VI menyebut Indonesia memiliki 38 provinsi."
+          "discussion": "Pernyataan bahwa jumlah provinsi tidak pernah berubah adalah keliru. PPKI pada 1945 menetapkan delapan provinsi, sedangkan peta NKRI edisi 2025 mencatat 38 provinsi."
         },
         {
           "id": "PKN-B06-009",
@@ -136,7 +136,7 @@
             "Jumlah provinsi tidak perlu diperiksa pada sumber atau waktu penerbitan."
           ],
           "answer": "Jumlah 38 menunjukkan pembagian wilayah pada peta tersebut dan dapat berubah menurut perkembangan resmi.",
-          "discussion": "Jumlah 38 menunjukkan pembagian wilayah pada peta tersebut dan dapat berubah menurut perkembangan resmi. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
+          "discussion": "Angka 38 menunjukkan data pada peta NKRI edisi 2025. Data jumlah provinsi perlu dibaca dengan memperhatikan tahun dan keputusan resmi yang berlaku."
         },
         {
           "id": "PKN-B06-011",
@@ -201,7 +201,7 @@
             "PPKI menetapkan seluruh provinsi saat ini tanpa perubahan."
           ],
           "answer": "Pembagian wilayah provinsi Indonesia berkembang sejak awal kemerdekaan.",
-          "discussion": "Pembagian wilayah provinsi Indonesia berkembang sejak awal kemerdekaan. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
+          "discussion": "Pemerintahan awal kemerdekaan membagi wilayah menjadi delapan provinsi. Pada 2025 jumlahnya telah bertambah menjadi 38, sehingga pembagian wilayah jelas mengalami perkembangan."
         },
         {
           "id": "PKN-B06-016",
@@ -266,7 +266,7 @@
             "Gubernur."
           ],
           "answer": "Gubernur.",
-          "discussion": "Gubernur. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
+          "discussion": "Gubernur adalah kepala daerah provinsi, bukan kepala desa atau pimpinan organisasi sekolah."
         },
         {
           "id": "PKN-B06-021",
@@ -331,7 +331,7 @@
             "Mengambil seluruh keputusan tanpa mengikuti ketentuan hukum."
           ],
           "answer": "Membantu gubernur menjalankan urusan pemerintahan provinsi.",
-          "discussion": "Membantu gubernur menjalankan urusan pemerintahan provinsi. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
+          "discussion": "Wakil gubernur membantu gubernur sesuai tugas dan kewenangannya, bukan menggantikan lembaga perwakilan rakyat."
         },
         {
           "id": "PKN-B06-026",
@@ -396,7 +396,7 @@
             "Panitia lomba antarkelas."
           ],
           "answer": "DPRD Provinsi.",
-          "discussion": "DPRD Provinsi. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
+          "discussion": "Aspirasi di tingkat provinsi dapat disampaikan melalui DPRD Provinsi yang menjadi lembaga perwakilan rakyat daerah."
         },
         {
           "id": "PKN-B06-031",
@@ -461,7 +461,7 @@
             "Organisasi ekstrakurikuler sekolah."
           ],
           "answer": "Dewan Perwakilan Daerah Republik Indonesia (DPD RI).",
-          "discussion": "Dewan Perwakilan Daerah Republik Indonesia (DPD RI). Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
+          "discussion": "DPD RI adalah lembaga di tingkat nasional yang membawa keterwakilan provinsi, bukan lembaga pemerintah kabupaten."
         },
         {
           "id": "PKN-B06-036",
@@ -526,7 +526,7 @@
             "Daerah itu tetap bagian NKRI, dengan pengaturan khusus menurut ketentuan hukum."
           ],
           "answer": "Daerah itu tetap bagian NKRI, dengan pengaturan khusus menurut ketentuan hukum.",
-          "discussion": "Daerah itu tetap bagian NKRI, dengan pengaturan khusus menurut ketentuan hukum. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
+          "discussion": "Keistimewaan dan kekhususan diatur oleh hukum. DI Yogyakarta tetap merupakan bagian dari Negara Kesatuan Republik Indonesia."
         },
         {
           "id": "PKN-B06-041",
@@ -591,7 +591,7 @@
             "Menganggap perbedaan budaya sebagai alasan tidak bekerja sama."
           ],
           "answer": "Menghargai keunggulan masing-masing provinsi tanpa merendahkan yang lain.",
-          "discussion": "Menghargai keunggulan masing-masing provinsi tanpa merendahkan yang lain. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
+          "discussion": "Setiap provinsi mempunyai ciri khas budaya dan sumber daya; perbedaan itu perlu dihargai, bukan dijadikan alasan saling merendahkan."
         },
         {
           "id": "PKN-B06-046",
@@ -656,7 +656,7 @@
             "Menjaga lingkungan dan budaya tidak ada hubungannya dengan kemajuan daerah."
           ],
           "answer": "Anak dapat berkontribusi bagi daerah lewat kebiasaan baik sesuai kemampuannya.",
-          "discussion": "Anak dapat berkontribusi bagi daerah lewat kebiasaan baik sesuai kemampuannya. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
+          "discussion": "Ari membantu daerah dengan belajar, menjaga lingkungan, dan melestarikan budaya. Kontribusi anak tidak harus berbentuk jabatan pemerintahan."
         }
       ]
     }
