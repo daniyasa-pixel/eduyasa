@@ -13,13 +13,13 @@
           "type": "PG",
           "text": "Bagian biru pada gambar dibagikan sama panjang kepada 3 anak. Berapa bagian dari seluruh pita yang diterima setiap anak?",
           "options": [
-            "1/4",
-            "1/3",
-            "3/4",
-            "1/12"
+            "$\\frac{1}{4}$",
+            "$\\frac{1}{3}$",
+            "$\\frac{3}{4}$",
+            "$\\frac{1}{12}$"
           ],
-          "answer": "1/4",
-          "discussion": "Bagian biru adalah 3/4 pita. Dibagi kepada 3 anak: 3/4 ÷ 3 = 1/4 pita per anak.",
+          "answer": "$\\frac{1}{4}$",
+          "discussion": "Bagian biru adalah $\\frac{3}{4}$ pita. Dibagikan kepada 3 anak: $\\frac{3}{4}\\div3=\\frac{1}{4}$ pita per anak.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-001.svg",
             "alt": "Pita dibagi menjadi empat bagian sama panjang; tiga bagian berwarna biru."
@@ -36,7 +36,7 @@
             "4,0"
           ],
           "answer": "0,4",
-          "discussion": "Ada 40 petak biru dari 100 petak. Nilainya 40/100 = 0,40 = 0,4.",
+          "discussion": "Ada 40 petak biru dari 100 petak. Nilainya $\\frac{40}{100}=0,40=0,4$.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-002.svg",
             "alt": "Kotak berisi 100 petak sama besar; 40 petak berwarna biru."
@@ -53,7 +53,7 @@
             "0,7"
           ],
           "answer": "0,6",
-          "discussion": "Dari 0 ke 1 terdapat sepuluh selang sama panjang. Titik P berada pada tanda keenam, yaitu 6/10 = 0,6.",
+          "discussion": "Dari 0 ke 1 terdapat sepuluh selang sama panjang. Titik P berada pada tanda keenam, yaitu $\\frac{6}{10}=0,6$.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-003.svg",
             "alt": "Garis bilangan dari 0 sampai 1 memiliki sepuluh selang sama panjang. P berada pada tanda keenam."
@@ -70,7 +70,7 @@
             "Bagian biru B adalah satu pita utuh"
           ],
           "answer": "Bagian biru A sama panjang dengan B",
-          "discussion": "Pita A diarsir 3/5 dan pita B 6/10. Keduanya senilai karena 3/5 = 6/10 = 0,6.",
+          "discussion": "Pita A diarsir $\\frac{3}{5}$ dan pita B $\\frac{6}{10}$. Keduanya senilai karena $\\frac{3}{5}=\\frac{6}{10}=0,6$.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-004.svg",
             "alt": "Pita A dan B sama panjang. A memiliki tiga dari lima bagian biru, B enam dari sepuluh bagian biru."
@@ -79,15 +79,15 @@
         {
           "id": "MTK-B01-M01-055",
           "type": "PG",
-          "text": "Bagian biru menunjukkan susu sebanyak 4/5 liter. Susu itu dibagi rata ke 4 gelas. Berapa liter susu di setiap gelas?",
+          "text": "Bagian biru menunjukkan susu sebanyak $\\frac{4}{5}$ liter. Susu itu dibagi rata ke 4 gelas. Berapa liter susu di setiap gelas?",
           "options": [
-            "1/5 liter",
-            "4/5 liter",
-            "1/4 liter",
-            "4/9 liter"
+            "$\\frac{1}{5}$ liter",
+            "$\\frac{4}{5}$ liter",
+            "$\\frac{1}{4}$ liter",
+            "$\\frac{4}{9}$ liter"
           ],
-          "answer": "1/5 liter",
-          "discussion": "4/5 ÷ 4 = 4/20 = 1/5 liter. Jadi setiap gelas menerima 1/5 liter susu.",
+          "answer": "$\\frac{1}{5}$ liter",
+          "discussion": "Hitung $\\frac{4}{5}\\div4=\\frac{4}{20}=\\frac{1}{5}$ liter. Setiap gelas menerima $\\frac{1}{5}$ liter susu.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-005.svg",
             "alt": "Batang satu liter dibagi menjadi lima bagian sama besar; empat bagian biru."
@@ -96,15 +96,15 @@
         {
           "id": "MTK-B01-M01-056",
           "type": "PG",
-          "text": "Bagian biru menunjukkan panjang kain 5/6 meter. Kain dibagi rata untuk dua hiasan. Berapa panjang kain untuk satu hiasan?",
+          "text": "Bagian biru menunjukkan panjang kain $\\frac{5}{6}$ meter. Kain dibagi rata untuk dua hiasan. Berapa panjang kain untuk satu hiasan?",
           "options": [
-            "5/12 meter",
-            "5/3 meter",
-            "1/6 meter",
-            "5/8 meter"
+            "$\\frac{5}{12}$ meter",
+            "$\\frac{5}{3}$ meter",
+            "$\\frac{1}{6}$ meter",
+            "$\\frac{5}{8}$ meter"
           ],
-          "answer": "5/12 meter",
-          "discussion": "Membagi 5/6 dengan 2 sama dengan 5/6 × 1/2 = 5/12 meter.",
+          "answer": "$\\frac{5}{12}$ meter",
+          "discussion": "Membagi $\\frac{5}{6}$ dengan 2 sama dengan $\\frac{5}{6}\\times\\frac{1}{2}=\\frac{5}{12}$ meter.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-006.svg",
             "alt": "Batang satu meter dibagi enam bagian sama panjang; lima bagian biru."
@@ -121,7 +121,7 @@
             "0,07"
           ],
           "answer": "0,3",
-          "discussion": "Tiga dari sepuluh bagian belum terisi. Jadi bagian kosong adalah 3/10 = 0,3 tangki.",
+          "discussion": "Tiga dari sepuluh bagian belum terisi. Bagian kosong adalah $\\frac{3}{10}=0,3$ dari kapasitas tangki.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-007.svg",
             "alt": "Tangki dimodelkan sebagai sepuluh bagian sama besar; tujuh biru dan tiga putih."
@@ -138,7 +138,7 @@
             "0,34"
           ],
           "answer": "0,75",
-          "discussion": "Bagian biru adalah 3/4. Ubah menjadi perseratus: 3/4 = 75/100 = 0,75.",
+          "discussion": "Bagian biru adalah $\\frac{3}{4}$. Ubah menjadi perseratus: $\\frac{3}{4}=\\frac{75}{100}=0,75$.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-008.svg",
             "alt": "Persegi panjang dibagi empat bagian sama besar; tiga bagian biru."
@@ -155,7 +155,7 @@
             "Dodi"
           ],
           "answer": "Cici",
-          "discussion": "Bandingkan sampai dua angka desimal: 1,50; 1,45; 1,55; dan 1,05. Nilai terbesar adalah 1,55 meter milik Cici.",
+          "discussion": "Bandingkan sampai dua angka desimal: $1,50$; $1,45$; $1,55$; dan $1,05$. Nilai terbesar adalah $1,55$ meter milik Cici.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-009.svg",
             "alt": "Tabel jarak: Ayu 1,5 m, Bima 1,45 m, Cici 1,55 m, Dodi 1,05 m."
@@ -172,7 +172,7 @@
             "Q, R, P"
           ],
           "answer": "Q, P, R",
-          "discussion": "Samakan banyak angka desimal: P = 0,80; Q = 0,75; R = 0,85. Jadi 0,75 < 0,80 < 0,85.",
+          "discussion": "Samakan banyak angka desimal: $P=0,80$, $Q=0,75$, dan $R=0,85$. Karena $0,75<0,80<0,85$, urutannya Q, P, R.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-010.svg",
             "alt": "Tabel panjang pita P 0,8 m, Q 0,75 m, dan R 0,85 m."
@@ -189,7 +189,7 @@
             "0,6"
           ],
           "answer": "0,42",
-          "discussion": "Selisih 0,5 − 0,4 = 0,1 dibagi sepuluh selang. Setiap selang bernilai 0,01; K = 0,4 + 0,02 = 0,42.",
+          "discussion": "Selisih $0,5-0,4=0,1$ dibagi sepuluh selang. Setiap selang bernilai $0,01$, sehingga $K=0,4+0,02=0,42$.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-011.svg",
             "alt": "Garis bilangan dari 0,4 sampai 0,5 dengan sepuluh selang sama panjang; K pada tanda kedua."
@@ -200,13 +200,13 @@
           "type": "PG",
           "text": "Bagian biru pada gambar menunjukkan pita yang telah dipakai. Pecahan paling sederhana untuk bagian itu adalah ...",
           "options": [
-            "1/4",
-            "3/4",
-            "1/2",
-            "3/10"
+            "$\\frac{1}{4}$",
+            "$\\frac{3}{4}$",
+            "$\\frac{1}{2}$",
+            "$\\frac{3}{10}$"
           ],
-          "answer": "1/4",
-          "discussion": "Ada 25 petak biru dari 100. Sederhanakan 25/100 dengan membagi pembilang dan penyebut dengan 25, sehingga diperoleh 1/4.",
+          "answer": "$\\frac{1}{4}$",
+          "discussion": "Ada 25 petak biru dari 100. Sederhanakan $\\frac{25}{100}$ dengan membagi pembilang dan penyebut dengan 25 sehingga diperoleh $\\frac{1}{4}$.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-012.svg",
             "alt": "Kotak memiliki 100 petak sama besar, 25 di antaranya biru."
@@ -215,7 +215,7 @@
         {
           "id": "MTK-B01-M01-063",
           "type": "PG",
-          "text": "Bagian biru adalah 3/5 meter tali. Tali biru dibagi menjadi 3 potong sama panjang. Berapa panjang satu potong dalam desimal?",
+          "text": "Bagian biru adalah $\\frac{3}{5}$ meter tali. Tali biru dibagi menjadi 3 potong sama panjang. Berapa panjang satu potong dalam desimal?",
           "options": [
             "0,2 meter",
             "0,3 meter",
@@ -223,7 +223,7 @@
             "0,15 meter"
           ],
           "answer": "0,2 meter",
-          "discussion": "3/5 ÷ 3 = 1/5 meter. Karena 1/5 = 2/10, panjang setiap potong adalah 0,2 meter.",
+          "discussion": "Hitung $\\frac{3}{5}\\div3=\\frac{1}{5}$ meter. Karena $\\frac{1}{5}=\\frac{2}{10}=0,2$, panjang setiap potong adalah $0,2$ meter.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-013.svg",
             "alt": "Tali satu meter dibagi menjadi lima bagian sama panjang; tiga bagian biru."
@@ -240,7 +240,7 @@
             "Q dan S"
           ],
           "answer": "P dan Q",
-          "discussion": "P = 0,5 dan Q = 0,50. Nol di belakang angka desimal tidak mengubah nilainya. R = 0,05 dan S = 0,55 berbeda.",
+          "discussion": "Panjang P adalah $0,5$ meter dan Q adalah $0,50$ meter. Nol di belakang angka desimal tidak mengubah nilainya. R sebesar $0,05$ meter dan S sebesar $0,55$ meter berbeda dari P dan Q.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-014.svg",
             "alt": "Tabel ukuran P 0,5 m; Q 0,50 m; R 0,05 m; S 0,55 m."
@@ -257,7 +257,7 @@
             "0,8 meter"
           ],
           "answer": "0,125 meter",
-          "discussion": "T berada pada tanda pertama dari delapan selang, yaitu 1/8 meter. Nilai desimal 1/8 = 0,125.",
+          "discussion": "T berada pada tanda pertama dari delapan selang, yaitu $\\frac{1}{8}$ meter. Nilai desimalnya $\\frac{1}{8}=0,125$.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-015.svg",
             "alt": "Garis dari 0 ke 1 meter dibagi delapan selang sama panjang; T pada tanda pertama."
@@ -266,15 +266,15 @@
         {
           "id": "MTK-B01-M01-066",
           "type": "PG",
-          "text": "Bagian biru menunjukkan 2/3 kilogram tepung yang akan dibagi rata ke empat wadah. Model perhitungan yang tepat adalah ...",
+          "text": "Bagian biru menunjukkan $\\frac{2}{3}$ kilogram tepung yang akan dibagi rata ke empat wadah. Model perhitungan yang tepat adalah ...",
           "options": [
-            "2/3 × 1/4",
-            "2/3 × 4",
-            "2/3 + 4",
-            "2/3 − 1/4"
+            "$\\frac{2}{3} \\times \\frac{1}{4}$",
+            "$\\frac{2}{3} \\times 4$",
+            "$\\frac{2}{3} + 4$",
+            "$\\frac{2}{3} - \\frac{1}{4}$"
           ],
-          "answer": "2/3 × 1/4",
-          "discussion": "Membagi pecahan dengan 4 berarti mengalikannya dengan kebalikan 4, yaitu 1/4. Maka 2/3 ÷ 4 = 2/3 × 1/4.",
+          "answer": "$\\frac{2}{3} \\times \\frac{1}{4}$",
+          "discussion": "Membagi pecahan dengan 4 berarti mengalikannya dengan kebalikan 4, yaitu $\\frac{1}{4}$. Maka $\\frac{2}{3}\\div4=\\frac{2}{3}\\times\\frac{1}{4}$.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-016.svg",
             "alt": "Batang satu kilogram dibagi tiga bagian sama besar; dua bagian biru."
@@ -291,7 +291,7 @@
             "8,0"
           ],
           "answer": "0,08",
-          "discussion": "Delapan petak dari seratus adalah 8/100, yaitu 0,08. Nilai 0,8 berarti delapan puluh petak dari seratus.",
+          "discussion": "Delapan petak dari seratus adalah $\\frac{8}{100}=0,08$. Nilai $0,8$ berarti delapan puluh petak dari seratus.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-017.svg",
             "alt": "Delapan dari 100 petak sama besar berwarna biru."
@@ -308,7 +308,7 @@
             "Bayam, wortel, tomat"
           ],
           "answer": "Bayam, tomat, wortel",
-          "discussion": "Tulis 2,5 sebagai 2,50. Perbandingannya 2,50 > 2,45 > 2,05, sehingga urutannya bayam, tomat, wortel.",
+          "discussion": "Tulis $2,5$ sebagai $2,50$. Perbandingannya $2,50>2,45>2,05$, sehingga urutannya bayam, tomat, wortel.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-018.svg",
             "alt": "Tabel massa wortel 2,05 kg, bayam 2,5 kg, dan tomat 2,45 kg."
@@ -317,15 +317,15 @@
         {
           "id": "MTK-B01-M01-069",
           "type": "PG",
-          "text": "Dua anak membagi sama rata bagian biru yang panjangnya 1/2 meter. Seorang anak menyatakan bagiannya 0,5 meter. Bagaimana penilaianmu?",
+          "text": "Dua anak membagi sama rata bagian biru yang panjangnya $\\frac{1}{2}$ meter. Seorang anak menyatakan bagiannya 0,5 meter. Bagaimana penilaianmu?",
           "options": [
             "Salah, seharusnya 0,25 meter",
-            "Benar, karena 1/2 = 0,5",
+            "Benar, karena $\\frac{1}{2}=0,5$",
             "Salah, seharusnya 1 meter",
             "Benar, karena dibagi dua menjadi lebih panjang"
           ],
           "answer": "Salah, seharusnya 0,25 meter",
-          "discussion": "0,5 meter adalah seluruh bagian biru sebelum dibagi. Setiap anak mendapat 1/2 ÷ 2 = 1/4 meter = 0,25 meter.",
+          "discussion": "Panjang $0,5$ meter adalah seluruh bagian biru sebelum dibagi. Setiap anak mendapat $\\frac{1}{2}\\div2=\\frac{1}{4}$ meter, yaitu $0,25$ meter.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-019.svg",
             "alt": "Pita satu meter dibagi dua bagian sama panjang; satu bagian biru."
@@ -342,7 +342,7 @@
             "0,8"
           ],
           "answer": "0,65",
-          "discussion": "A menunjukkan 0,6 dan B menunjukkan 0,7. Dari pilihan yang tersedia, hanya 0,65 yang lebih besar dari 0,6 dan lebih kecil dari 0,7.",
+          "discussion": "A menunjukkan $0,6$ dan B menunjukkan $0,7$. Dari pilihan yang tersedia, hanya $0,65$ yang memenuhi $0,6<0,65<0,7$.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/mtk/assets/mtk-b01a-020.svg",
             "alt": "Garis 0 sampai 1 dengan sepuluh selang sama panjang; A di tanda keenam dan B di tanda ketujuh."
