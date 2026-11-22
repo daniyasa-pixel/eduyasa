@@ -50,7 +50,7 @@
         {
           "id": "BIN-B03-M01-004",
           "type": "PG",
-          "text": "Tanda baca yang lazim digunakan untuk memisahkan kata pengantar dengan petikan langsung adalah ....",
+          "text": "Perhatikan penulisan dialog berikut!\n\nPewawancara ... “Apa kegiatan favoritmu?”\n\nTanda baca yang tepat untuk mengisi bagian kosong setelah nama pembicara adalah ....",
           "options": [
             ":",
             ";",
@@ -58,7 +58,7 @@
             "! "
           ],
           "answer": ":",
-          "discussion": "Tanda titik dua dapat digunakan setelah pengantar sebelum petikan langsung atau rincian."
+          "discussion": "Dalam penulisan dialog tersebut, tanda titik dua diletakkan setelah nama pembicara, yaitu Pewawancara, sebelum ucapannya. Ini berbeda dari kalimat pengiring seperti Ibu berkata, yang dipisahkan dari petikan langsung dengan koma."
         },
         {
           "id": "BIN-B03-M01-005",
@@ -76,7 +76,7 @@
         {
           "id": "BIN-B03-M01-006",
           "type": "PG",
-          "text": "Dalam wawancara tentang robotika, Ucok menceritakan bahwa sejak kecil ia senang ....",
+          "text": "Bacalah dialog latihan berikut!\n\nPewawancara: “Kegiatan apa yang kamu sukai sejak kecil, Ucok?”\nUcok: “Saya senang membongkar peralatan elektronik untuk mengenali bagian-bagiannya. Dari kegiatan itu, saya mulai tertarik pada robotika.”\n\nBerdasarkan dialog, sejak kecil Ucok senang ....",
           "options": [
             "membongkar peralatan elektronik",
             "mengoleksi perangko",
@@ -84,12 +84,12 @@
             "membuat kerajinan kain"
           ],
           "answer": "membongkar peralatan elektronik",
-          "discussion": "Dalam bacaan wawancara, Ucok diceritakan tertarik pada robotika sejak kecil dan suka membongkar alat elektronik."
+          "discussion": "Ucok secara langsung menyebut kegemarannya membongkar peralatan elektronik. Informasi itu terdapat dalam jawabannya pada dialog."
         },
         {
           "id": "BIN-B03-M01-007",
           "type": "PG",
-          "text": "Siapa yang mendaftarkan Ucok ke klub robotika?",
+          "text": "Bacalah dialog latihan berikut!\n\nPewawancara: “Bagaimana kamu mulai mengikuti klub robotika?”\nUcok: “Ayah melihat ketertarikan saya pada robot, lalu mendaftarkan saya ke klub robotika. Di sana saya belajar bersama teman-teman.”\n\nSiapa yang mendaftarkan Ucok ke klub robotika?",
           "options": [
             "Ibunya",
             "Ayahnya",
@@ -97,12 +97,12 @@
             "Kepala sekolah"
           ],
           "answer": "Ayahnya",
-          "discussion": "Dalam cerita wawancara Ucok, ayahnya mendaftarkan Ucok ke klub robotika."
+          "discussion": "Dalam dialog, Ucok menyebut bahwa ayahnya mendaftarkannya ke klub robotika."
         },
         {
           "id": "BIN-B03-M01-008",
           "type": "PG",
-          "text": "Robot yang dibuat Ucok dan mendapat perhatian juri adalah ....",
+          "text": "Bacalah dialog latihan berikut!\n\nPewawancara: “Karya apa yang kamu tampilkan dalam lomba?”\nUcok: “Saya membuat robot penyiram tanaman otomatis. Para juri tertarik melihat robot itu bekerja.”\n\nRobot yang dibuat Ucok dan mendapat perhatian juri adalah ....",
           "options": [
             "robot penyiram tanaman otomatis",
             "robot pengantar surat",
@@ -110,12 +110,12 @@
             "robot pengatur lampu lalu lintas"
           ],
           "answer": "robot penyiram tanaman otomatis",
-          "discussion": "Ucok membuat robot penyiram tanaman otomatis yang disukai para juri."
+          "discussion": "Ucok menyebut robot penyiram tanaman otomatis sebagai karya yang ditampilkan dan menarik perhatian juri."
         },
         {
           "id": "BIN-B03-M01-009",
           "type": "PG",
-          "text": "Afrilla meraih prestasi dalam bidang olahraga ....",
+          "text": "Bacalah teks latihan berikut!\n\nAfrilla mengikuti pertandingan pencak silat setelah berlatih secara teratur. Ia berhasil meraih prestasi dalam pertandingan tersebut dan tetap bersemangat melanjutkan latihan.\n\nBerdasarkan bacaan, Afrilla meraih prestasi dalam bidang olahraga ....",
           "options": [
             "renang",
             "pencak silat",
@@ -123,7 +123,7 @@
             "senam"
           ],
           "answer": "pencak silat",
-          "discussion": "Bacaan tentang Afrilla menceritakan prestasinya dalam cabang pencak silat."
+          "discussion": "Bacaan menyebut pertandingan pencak silat sebagai kegiatan yang diikuti Afrilla hingga meraih prestasi."
         },
         {
           "id": "BIN-B03-M01-010",
@@ -141,7 +141,7 @@
         {
           "id": "BIN-B03-M01-011",
           "type": "PG",
-          "text": "Ucok belajar robotika melalui beberapa cara. Kesimpulan yang paling tepat adalah ....",
+          "text": "Bacalah dialog latihan berikut!\n\nPewawancara: “Bagaimana caramu belajar robotika?”\nUcok: “Saya membaca buku tentang robot, menonton video pembelajaran, dan mengikuti kegiatan klub robotika. Ketiga kegiatan itu membantu saya memahami cara membuat robot.”\n\nKesimpulan yang paling tepat tentang cara belajar Ucok adalah ....",
           "options": [
             "Ia hanya mengandalkan keberuntungan.",
             "Ia belajar dengan membaca, menonton video, dan mengikuti klub.",
@@ -149,7 +149,7 @@
             "Ia belajar hanya ketika mengikuti lomba."
           ],
           "answer": "Ia belajar dengan membaca, menonton video, dan mengikuti klub.",
-          "discussion": "Informasi dalam bacaan menunjukkan Ucok mengembangkan minatnya melalui berbagai kegiatan belajar."
+          "discussion": "Ucok menyebut tiga cara belajar: membaca buku, menonton video pembelajaran, dan mengikuti klub. Kesimpulan harus mencakup informasi tersebut."
         },
         {
           "id": "BIN-B03-M01-012",
@@ -180,7 +180,7 @@
         {
           "id": "BIN-B03-M01-014",
           "type": "PG",
-          "text": "DeLiang menunjukkan minat pada kegiatan membaca dan menulis. Sikap yang dapat kita teladani adalah ....",
+          "text": "Bacalah teks latihan berikut!\n\nDeLiang menyukai kegiatan membaca dan menulis. Ia menyediakan waktu setiap hari untuk membaca buku dan berlatih menulis cerita. Ia juga memperbaiki tulisannya berdasarkan masukan yang diterima.\n\nSikap DeLiang yang dapat kita teladani adalah ....",
           "options": [
             "mengembangkan minat melalui kebiasaan positif",
             "meninggalkan kegiatan yang disukai",
@@ -188,7 +188,7 @@
             "menghindari kegiatan baru"
           ],
           "answer": "mengembangkan minat melalui kebiasaan positif",
-          "discussion": "Minat dapat berkembang melalui kebiasaan yang dilakukan dengan tekun."
+          "discussion": "Kebiasaan membaca, berlatih menulis, dan memperbaiki tulisan menunjukkan usaha DeLiang mengembangkan minat melalui kegiatan positif."
         },
         {
           "id": "BIN-B03-M01-015",
@@ -310,7 +310,7 @@
         {
           "id": "BIN-B03-M01-024",
           "type": "PG",
-          "text": "Ayu belajar membuat kerajinan dari batang pisang dengan cara ....",
+          "text": "Bacalah teks latihan berikut!\n\nAyu memperhatikan neneknya membuat kerajinan dari batang pisang. Ia mengamati langkah-langkahnya, lalu mencoba membuat kerajinan sendiri dengan bimbingan nenek.\n\nBerdasarkan bacaan, Ayu belajar membuat kerajinan dengan cara ....",
           "options": [
             "mengamati neneknya dan mencoba sendiri",
             "membeli semua kerajinan di toko",
@@ -318,7 +318,7 @@
             "membaca berita tentang robot"
           ],
           "answer": "mengamati neneknya dan mencoba sendiri",
-          "discussion": "Bacaan menceritakan Ayu belajar dengan mengamati neneknya lalu mencoba membuat kerajinan."
+          "discussion": "Bacaan menyebut Ayu mengamati cara neneknya bekerja, kemudian mencoba membuat kerajinan sendiri."
         },
         {
           "id": "BIN-B03-M01-025",
@@ -401,7 +401,7 @@
         {
           "id": "BIN-B03-M01-031",
           "type": "PG",
-          "text": "Dalam wawancara tentang usaha sayur, Kak Belinda menjelaskan masalah petani yang kesulitan ....",
+          "text": "Bacalah dialog latihan berikut!\n\nPewawancara: “Masalah apa yang Kakak temui saat berbicara dengan para petani?”\nKak Belinda: “Hasil panen mereka baik, tetapi mereka kesulitan menemukan pembeli. Saya ingin membantu agar hasil panen itu dapat terjual.”\n\nMasalah petani yang dijelaskan Kak Belinda adalah kesulitan ....",
           "options": [
             "memasarkan hasil panen",
             "menanam pohon di hutan",
@@ -409,12 +409,12 @@
             "mengikuti perlombaan"
           ],
           "answer": "memasarkan hasil panen",
-          "discussion": "Kak Belinda terdorong membantu petani yang memiliki hasil panen baik tetapi kesulitan menjualnya."
+          "discussion": "Kesulitan menemukan pembeli dan menjual hasil panen dalam dialog menunjukkan masalah pemasaran hasil panen."
         },
         {
           "id": "BIN-B03-M01-032",
           "type": "PG",
-          "text": "Sayursegar membantu petani dan konsumen dengan cara ....",
+          "text": "Bacalah teks latihan berikut!\n\nSayursegar menghubungkan petani dengan konsumen. Hasil panen dapat dijual melalui layanan itu kepada pembeli tanpa melewati banyak perantara, sehingga jalur pengirimannya lebih singkat.\n\nBerdasarkan bacaan, Sayursegar membantu petani dan konsumen dengan cara ....",
           "options": [
             "memperpendek rantai distribusi hasil pertanian",
             "menghentikan penjualan sayuran",
@@ -422,12 +422,12 @@
             "menjual produk hanya kepada petani"
           ],
           "answer": "memperpendek rantai distribusi hasil pertanian",
-          "discussion": "Sayursegar menghubungkan hasil panen petani secara langsung dengan pembeli sehingga distribusi lebih singkat."
+          "discussion": "Penjualan tanpa banyak perantara membuat jalur penyaluran hasil panen lebih singkat. Hal ini disebut memperpendek rantai distribusi."
         },
         {
           "id": "BIN-B03-M01-033",
           "type": "PG",
-          "text": "Manfaat rantai distribusi yang lebih pendek bagi petani menurut bacaan adalah ....",
+          "text": "Bacalah teks latihan berikut!\n\nPetani menjual hasil panen melalui jalur yang lebih singkat dengan lebih sedikit perantara. Biaya penyaluran dapat berkurang, sehingga petani berpeluang mendapatkan bagian keuntungan yang lebih baik.\n\nManfaat rantai distribusi yang lebih pendek bagi petani menurut bacaan adalah ....",
           "options": [
             "petani berpeluang memperoleh keuntungan lebih baik",
             "petani tidak perlu menanam lagi",
@@ -435,12 +435,12 @@
             "petani harus membuang hasil panen"
           ],
           "answer": "petani berpeluang memperoleh keuntungan lebih baik",
-          "discussion": "Dengan jalur distribusi yang lebih singkat, petani dapat memperoleh bagian keuntungan yang lebih baik."
+          "discussion": "Bacaan menjelaskan bahwa biaya penyaluran dapat berkurang dan petani berpeluang memperoleh bagian keuntungan lebih baik. Ini merupakan peluang, bukan jaminan bahwa keuntungan selalu meningkat."
         },
         {
           "id": "BIN-B03-M01-034",
           "type": "PG",
-          "text": "Sikap Kak Belinda yang dapat diteladani dari pendirian Sayursegar adalah ....",
+          "text": "Bacalah teks latihan berikut!\n\nKak Belinda mendengar keluhan petani yang kesulitan menjual hasil panen. Ia juga mengetahui bahwa konsumen membutuhkan sayuran segar. Ia kemudian mendirikan Sayursegar untuk membantu mempertemukan petani dan pembeli.\n\nSikap Kak Belinda yang dapat diteladani berdasarkan bacaan adalah ....",
           "options": [
             "peka terhadap masalah orang lain dan berusaha mencari solusi",
             "mengabaikan kesulitan petani",
@@ -448,12 +448,12 @@
             "menolak bekerja sama"
           ],
           "answer": "peka terhadap masalah orang lain dan berusaha mencari solusi",
-          "discussion": "Usaha tersebut berawal dari kepedulian terhadap kesulitan petani dan konsumen."
+          "discussion": "Kak Belinda memperhatikan kesulitan petani dan kebutuhan konsumen, lalu membuat layanan untuk membantu keduanya. Tindakannya menunjukkan kepedulian dan usaha mencari solusi."
         },
         {
           "id": "BIN-B03-M01-035",
           "type": "PG",
-          "text": "Kak Obi tertarik membudidayakan ikan koi setelah ....",
+          "text": "Bacalah dialog latihan berikut!\n\nPewawancara: “Apa yang membuat Kakak tertarik membudidayakan ikan koi?”\nKak Obi: “Awalnya saya melihat ikan koi di media sosial. Saya tertarik, lalu mulai mempelajari cara memeliharanya.”\n\nBerdasarkan dialog, Kak Obi tertarik membudidayakan ikan koi setelah ....",
           "options": [
             "melihat koi melalui media sosial",
             "membaca buku tentang tanaman",
@@ -461,12 +461,12 @@
             "berkunjung ke perkebunan sayur"
           ],
           "answer": "melihat koi melalui media sosial",
-          "discussion": "Dalam dialog, Kak Obi menceritakan ketertarikannya setelah melihat ikan koi di media sosial."
+          "discussion": "Kak Obi menyebut bahwa ketertarikannya bermula ketika melihat ikan koi di media sosial."
         },
         {
           "id": "BIN-B03-M01-036",
           "type": "PG",
-          "text": "Salah satu tantangan dalam budidaya koi saat cuaca panas adalah ....",
+          "text": "Bacalah dialog latihan berikut!\n\nPewawancara: “Apa tantangan merawat koi saat cuaca panas?”\nKak Obi: “Suhu air kolam dapat meningkat. Kondisi itu dapat membuat ikan stres, sehingga keadaan kolam perlu diperhatikan.”\n\nTantangan yang disebut Kak Obi dalam dialog adalah ....",
           "options": [
             "suhu air meningkat dan membuat ikan stres",
             "air berubah menjadi es",
@@ -474,12 +474,12 @@
             "kolam menjadi lebih dalam"
           ],
           "answer": "suhu air meningkat dan membuat ikan stres",
-          "discussion": "Cuaca panas dapat menaikkan suhu air sehingga ikan menjadi stres dan berisiko mati."
+          "discussion": "Kak Obi menyebut kenaikan suhu air dan ikan yang dapat mengalami stres sebagai tantangan saat cuaca panas."
         },
         {
           "id": "BIN-B03-M01-037",
           "type": "PG",
-          "text": "Tindakan yang dapat dilakukan untuk mengurangi dampak panas pada kolam koi adalah ....",
+          "text": "Bacalah dialog latihan berikut!\n\nPewawancara: “Apa yang Kakak lakukan untuk mengurangi dampak panas pada kolam koi?”\nKak Obi: “Saya memberi naungan untuk mengurangi paparan matahari dan memeriksa suhu air secara teratur.”\n\nBerdasarkan dialog, tindakan yang dilakukan Kak Obi adalah ....",
           "options": [
             "memberi naungan dan memeriksa suhu air",
             "membiarkan kolam tanpa pemeriksaan",
@@ -487,12 +487,12 @@
             "menutup kolam rapat tanpa sirkulasi"
           ],
           "answer": "memberi naungan dan memeriksa suhu air",
-          "discussion": "Naungan membantu mengurangi paparan panas, sedangkan pemeriksaan suhu membantu menjaga kondisi air."
+          "discussion": "Kedua tindakan disebut langsung dalam jawaban Kak Obi, yaitu memberi naungan dan memeriksa suhu air."
         },
         {
           "id": "BIN-B03-M01-038",
           "type": "PG",
-          "text": "Ucok, Ayu, dan Kak Belinda memiliki bidang kegiatan berbeda. Persamaan sikap yang dapat dipelajari dari kisah mereka adalah ....",
+          "text": "Bacalah tiga teks latihan berikut!\n\nUcok tertarik pada robotika. Ia belajar membuat robot penyiram tanaman untuk membantu pekerjaan merawat tanaman.\n\nAyu senang membuat kerajinan. Ia berlatih membuat keranjang dari batang pisang agar dapat digunakan dan dijual.\n\nKak Belinda tertarik mengembangkan usaha sayur. Ia membangun layanan yang membantu petani menjual hasil panen kepada pembeli.\n\nPersamaan sikap yang dapat dipelajari dari ketiga tokoh tersebut adalah ....",
           "options": [
             "mengembangkan minat dan berusaha memberi manfaat",
             "menghindari tantangan",
@@ -500,7 +500,7 @@
             "berhenti ketika menemui kesulitan"
           ],
           "answer": "mengembangkan minat dan berusaha memberi manfaat",
-          "discussion": "Ketiganya menunjukkan usaha mengembangkan minat atau gagasan dan menghasilkan sesuatu yang bermanfaat."
+          "discussion": "Ucok mengembangkan robot, Ayu membuat keranjang, dan Kak Belinda mengembangkan layanan penjualan sayur. Ketiganya menekuni bidang yang diminati dan berusaha menghasilkan manfaat."
         },
         {
           "id": "BIN-B03-M01-039",
@@ -557,7 +557,7 @@
         {
           "id": "BIN-B03-M01-043",
           "type": "PG",
-          "text": "Jika seorang narasumber menceritakan bahwa ia pernah ragu tetapi tetap melanjutkan pendidikan, simpulan yang paling tepat adalah ....",
+          "text": "Bacalah dialog latihan berikut!\n\nPewawancara: “Pernahkah Anda ragu untuk melanjutkan pendidikan?”\nNarasumber: “Pernah. Namun, saya tetap belajar dengan tekun. Keluarga juga memberi semangat sehingga saya berani melanjutkan pendidikan.”\n\nSimpulan yang paling tepat berdasarkan jawaban narasumber adalah ....",
           "options": [
             "keraguan dapat dihadapi dengan ketekunan dan dukungan",
             "orang yang ragu harus selalu berhenti",
@@ -565,7 +565,7 @@
             "semua orang memiliki pengalaman yang sama"
           ],
           "answer": "keraguan dapat dihadapi dengan ketekunan dan dukungan",
-          "discussion": "Informasi itu mendukung simpulan tentang ketekunan menghadapi keraguan; jangan menambahkan rincian yang tidak disampaikan narasumber."
+          "discussion": "Narasumber menyebut usaha belajar dengan tekun dan semangat dari keluarga. Kedua bukti itu mendukung simpulan bahwa keraguan dapat dihadapi dengan ketekunan dan dukungan."
         },
         {
           "id": "BIN-B03-M01-044",
@@ -596,7 +596,7 @@
         {
           "id": "BIN-B03-M01-046",
           "type": "PG",
-          "text": "Kalimat laporan yang paling tepat dan objektif adalah ....",
+          "text": "Bacalah dialog latihan berikut!\n\nPewawancara: “Apa yang dilakukan Sayursegar?”\nKak Belinda: “Sayursegar membantu menghubungkan petani dengan pembeli.”\n\nKalimat laporan yang paling tepat dan objektif berdasarkan dialog tersebut adalah ....",
           "options": [
             "Kak Belinda menjelaskan bahwa Sayursegar membantu menghubungkan petani dengan pembeli.",
             "Kak Belinda pasti orang paling hebat di dunia.",
@@ -604,7 +604,7 @@
             "Sayursegar tidak pernah menghadapi tantangan."
           ],
           "answer": "Kak Belinda menjelaskan bahwa Sayursegar membantu menghubungkan petani dengan pembeli.",
-          "discussion": "Kalimat objektif menyampaikan informasi yang didukung hasil wawancara tanpa pujian atau generalisasi berlebihan."
+          "discussion": "Kalimat laporan yang tepat menyampaikan kembali jawaban Kak Belinda tanpa menambahkan pujian berlebihan, generalisasi tentang semua petani, atau klaim tentang tantangan yang tidak disebutkan."
         },
         {
           "id": "BIN-B03-M01-047",
@@ -648,7 +648,7 @@
         {
           "id": "BIN-B03-M01-050",
           "type": "PG",
-          "text": "Dari berbagai kisah dalam bab ini, kesimpulan umum yang paling tepat tentang minat dan bakat adalah ....",
+          "text": "Bacalah dua teks latihan berikut!\n\nDina menyukai kegiatan menggambar. Ia berlatih setiap hari dan memperbaiki gambarnya setelah menerima saran guru. Gambarnya menjadi semakin rapi.\n\nBeni tertarik menulis cerita. Ia rajin membaca, mencoba berbagai cara menulis, dan tetap berlatih ketika tulisannya belum sesuai harapan. Kemampuannya perlahan meningkat.\n\nKesimpulan umum yang paling tepat tentang minat dan kemampuan berdasarkan kedua bacaan adalah ....",
           "options": [
             "dapat berkembang melalui latihan, pengalaman, dan ketekunan",
             "muncul tanpa perlu dicoba",
@@ -656,7 +656,7 @@
             "tidak berhubungan dengan usaha"
           ],
           "answer": "dapat berkembang melalui latihan, pengalaman, dan ketekunan",
-          "discussion": "Kisah-kisah dalam bab menunjukkan bahwa minat dan kemampuan dapat dikembangkan melalui proses belajar dan berlatih."
+          "discussion": "Dina dan Beni mengalami peningkatan kemampuan setelah berlatih, mencoba, menerima masukan, dan terus berusaha. Kedua bacaan menunjukkan peran latihan, pengalaman, serta ketekunan."
         }
       ]
     }
