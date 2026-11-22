@@ -3,7 +3,6 @@ package id.eduyasa.nativeapp
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
-import android.speech.tts.TextToSpeech
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
@@ -28,7 +27,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import coil.compose.AsyncImage
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
@@ -191,8 +189,8 @@ private fun EduyasaApp() {
         if (grade == 3 || grade == 6) connected = EduyasaRepository.checkConnection(grade)
     }
     LaunchedEffect(page, qIndex) {
-        if (page != Page.QUIZ) audioEngine.stop()
-        else audioEngine.stop()
+        // Stop listening if student leaves a question or opens another page.
+        audioEngine.stop()
     }
     LaunchedEffect(page, activeProfileId, savedRevision) {
         val profileId = activeProfileId
