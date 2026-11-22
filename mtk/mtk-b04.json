@@ -128,7 +128,7 @@
         {
           "id": "MTK-B04-M01-010",
           "type": "PG",
-          "text": "Ketika sebuah dadu dilempar, peluang munculnya angka 2 dan angka 5 adalah sama besar. Apa alasan yang paling tepat? ",
+          "text": "Ketika sebuah dadu seimbang dengan angka 1 sampai 6, masing-masing satu angka pada setiap sisi, dilempar, peluang munculnya angka 2 dan angka 5 adalah sama besar. Apa alasan yang paling tepat? ",
           "options": [
             "Angka 2 lebih besar daripada angka 5",
             "Angka 5 lebih sering digunakan",
@@ -154,7 +154,7 @@
         {
           "id": "MTK-B04-M01-012",
           "type": "PG",
-          "text": "Sebuah dadu khusus memiliki enam sisi dengan susunan angka 1, 1, 2, 2, 2, dan 3. Jika dadu dilempar satu kali, angka yang paling mungkin muncul adalah .... ",
+          "text": "Sebuah dadu seimbang memiliki enam sisi dengan susunan angka 1, 1, 2, 2, 2, dan 3. Jika dadu dilempar satu kali, angka yang paling mungkin muncul adalah .... ",
           "options": [
             "1",
             "2",
@@ -219,7 +219,7 @@
         {
           "id": "MTK-B04-M01-017",
           "type": "PG",
-          "text": "Rani memiliki sebuah dadu khusus dengan enam sisi. Angka pada sisi-sisinya adalah 1, 2, 2, 3, 3, dan 3. Jika dadu dilempar, angka yang paling jarang muncul adalah .... ",
+          "text": "Rani memiliki sebuah dadu seimbang dengan enam sisi. Angka pada sisi-sisinya adalah 1, 2, 2, 3, 3, dan 3. Jika dadu dilempar, angka yang paling jarang muncul adalah .... ",
           "options": [
             "1",
             "2",
@@ -258,7 +258,7 @@
         {
           "id": "MTK-B04-M01-020",
           "type": "PG",
-          "text": "Sebuah dadu memiliki enam sisi yang diberi angka 1, 2, 3, 4, 5, dan 6. Jika dadu dilempar satu kali, peluang munculnya angka kurang dari 4 lebih besar daripada peluang munculnya angka lebih dari 4. Mengapa demikian? ",
+          "text": "Sebuah dadu seimbang memiliki enam sisi yang diberi angka 1, 2, 3, 4, 5, dan 6. Jika dadu dilempar satu kali, peluang munculnya angka kurang dari 4 lebih besar daripada peluang munculnya angka lebih dari 4. Mengapa demikian? ",
           "options": [
             "Karena angka kurang dari 4 berjumlah 3 kemungkinan, sedangkan angka lebih dari 4 hanya 2 kemungkinan",
             "Karena angka 4 selalu muncul",
@@ -336,7 +336,7 @@
         {
           "id": "MTK-B04-M01-026",
           "type": "PG",
-          "text": "Dua kotak hadiah memiliki isi sebagai berikut.  Kotak A berisi 4 bola merah dan 6 bola biru.  Kotak B berisi 6 bola merah dan 4 bola biru.  Jika seseorang ingin mendapatkan bola merah, kotak yang sebaiknya dipilih adalah .... ",
+          "text": "Dua kotak berisi bola dengan ukuran sama: Kotak A berisi 4 bola merah dan 6 bola biru. Kotak B berisi 6 bola merah dan 4 bola biru.  Jika seseorang ingin mendapatkan bola merah, kotak yang sebaiknya dipilih adalah .... ",
           "options": [
             "Kotak A",
             "Kotak B",
@@ -349,7 +349,7 @@
         {
           "id": "MTK-B04-M01-027",
           "type": "PG",
-          "text": "Sebuah dadu khusus memiliki enam sisi dengan susunan angka 1, 1, 1, 2, 2, dan 3. Jika dadu dilempar, pernyataan yang benar adalah .... ",
+          "text": "Sebuah dadu seimbang memiliki enam sisi dengan susunan angka 1, 1, 1, 2, 2, dan 3. Jika dadu dilempar, pernyataan yang benar adalah .... ",
           "options": [
             "Angka 1 dan 2 memiliki peluang sama besar",
             "Angka 2 lebih mungkin muncul daripada angka 1",
@@ -375,7 +375,7 @@
         {
           "id": "MTK-B04-M01-029",
           "type": "PG",
-          "text": "Sebuah toko menyediakan dua kotak undian.  Kotak A berisi 2 kupon hadiah dan 8 kupon tanpa hadiah.  Kotak B berisi 5 kupon hadiah dan 5 kupon tanpa hadiah.  Jika semua kupon memiliki kesempatan yang sama untuk diambil, kotak yang memberikan peluang mendapatkan hadiah lebih besar adalah .... ",
+          "text": "Sebuah toko menyediakan dua kotak undian. Kotak A berisi 2 kupon hadiah dan 8 kupon tanpa hadiah. Kotak B berisi 5 kupon hadiah dan 5 kupon tanpa hadiah.  Jika semua kupon memiliki kesempatan yang sama untuk diambil, kotak yang memberikan peluang mendapatkan hadiah lebih besar adalah .... ",
           "options": [
             "Kotak A",
             "Kotak B",
@@ -440,7 +440,7 @@
         {
           "id": "MTK-B04-M01-034",
           "type": "PG",
-          "text": "Dalam sebuah permainan, pemain mengambil satu kartu dari 10 kartu bernomor 1 sampai 10. Pemain A menang jika mendapat angka lebih dari 7. Pemain B menang jika mendapat angka kurang dari 4. Siapa yang memiliki peluang menang lebih besar? ",
+          "text": "Dalam sebuah permainan, pemain mengambil secara acak satu dari 10 kartu berukuran sama bernomor 1 sampai 10. Pemain A menang jika mendapat angka lebih dari 7. Pemain B menang jika mendapat angka kurang dari 4. Siapa yang memiliki peluang menang lebih besar? ",
           "options": [
             "Pemain A",
             "Pemain B",
@@ -466,7 +466,7 @@
         {
           "id": "MTK-B04-M01-036",
           "type": "PG",
-          "text": "Dua kotak undian memiliki isi sebagai berikut.  Kotak A berisi 3 kupon hadiah dan 7 kupon tanpa hadiah.  Kotak B berisi 6 kupon hadiah dan 14 kupon tanpa hadiah.  Jika semua kupon memiliki kesempatan yang sama untuk diambil, bagaimana peluang mendapatkan hadiah pada kedua kotak? ",
+          "text": "Dua kotak undian memiliki isi sebagai berikut. Kotak A berisi 3 kupon hadiah dan 7 kupon tanpa hadiah. Kotak B berisi 6 kupon hadiah dan 14 kupon tanpa hadiah.  Jika semua kupon memiliki kesempatan yang sama untuk diambil, bagaimana peluang mendapatkan hadiah pada kedua kotak? ",
           "options": [
             "Kotak A lebih besar",
             "Kotak B lebih besar",
@@ -492,7 +492,7 @@
         {
           "id": "MTK-B04-M01-038",
           "type": "PG",
-          "text": "Sebuah permainan menggunakan dadu khusus dengan enam sisi. Angka pada sisi-sisinya adalah 1, 1, 2, 2, 2, dan 3. Jika pemain menang ketika muncul angka 1 atau 3, berapa banyak sisi yang dapat membuat pemain menang? ",
+          "text": "Sebuah permainan menggunakan dadu seimbang dengan enam sisi. Angka pada sisi-sisinya adalah 1, 1, 2, 2, 2, dan 3. Jika pemain menang ketika muncul angka 1 atau 3, berapa banyak sisi yang dapat membuat pemain menang? ",
           "options": [
             "1 sisi",
             "2 sisi",
@@ -596,7 +596,7 @@
         {
           "id": "MTK-B04-M01-046",
           "type": "PG",
-          "text": "Sebuah permainan memiliki dua pilihan kotak.  Kotak A berisi 4 bola merah, 4 bola biru, dan 2 bola kuning.  Kotak B berisi 6 bola merah, 3 bola biru, dan 1 bola kuning.  Jika pemain ingin mendapatkan bola biru, kotak yang memberikan peluang lebih besar adalah .... ",
+          "text": "Sebuah permainan memiliki dua pilihan kotak. Kotak A berisi 4 bola merah, 4 bola biru, dan 2 bola kuning. Kotak B berisi 6 bola merah, 3 bola biru, dan 1 bola kuning.  Jika pemain ingin mendapatkan bola biru, kotak yang memberikan peluang lebih besar adalah .... ",
           "options": [
             "Kotak A",
             "Kotak B",
@@ -609,7 +609,7 @@
         {
           "id": "MTK-B04-M01-047",
           "type": "PG",
-          "text": "Sebuah permainan menggunakan dadu bersisi enam. Pemain A menang jika muncul angka ganjil, sedangkan pemain B menang jika muncul angka genap. Jika dadu seimbang, bagaimana peluang kemenangan kedua pemain? ",
+          "text": "Sebuah permainan menggunakan dadu seimbang bersisi enam dengan angka 1 sampai 6. Pemain A menang jika muncul angka ganjil, sedangkan pemain B menang jika muncul angka genap. Jika dadu seimbang, bagaimana peluang kemenangan kedua pemain? ",
           "options": [
             "Pemain A lebih besar",
             "Pemain B lebih besar",
@@ -635,7 +635,7 @@
         {
           "id": "MTK-B04-M01-049",
           "type": "PG",
-          "text": "Dua roda putar memiliki ukuran dan jumlah bagian yang sama, yaitu 10 bagian sama besar.  Roda A memiliki 7 bagian merah dan 3 bagian biru.  Roda B memiliki 5 bagian merah dan 5 bagian biru.  Jika pemain ingin mendapatkan warna merah, roda yang memberikan peluang lebih besar adalah .... ",
+          "text": "Dua roda putar memiliki ukuran dan jumlah bagian yang sama, yaitu 10 bagian sama besar. Roda A memiliki 7 bagian merah dan 3 bagian biru. Roda B memiliki 5 bagian merah dan 5 bagian biru.  Jika pemain ingin mendapatkan warna merah, roda yang memberikan peluang lebih besar adalah .... ",
           "options": [
             "Roda A",
             "Roda B",
@@ -648,7 +648,7 @@
         {
           "id": "MTK-B04-M01-050",
           "type": "PG",
-          "text": "Dalam sebuah permainan, terdapat 20 kartu bernomor 1 sampai 20. Pemain A menang jika mendapatkan bilangan kelipatan 2. Pemain B menang jika mendapatkan bilangan kelipatan 5. Jika satu kartu diambil secara acak, siapa yang memiliki peluang menang lebih besar? ",
+          "text": "Dalam sebuah permainan, terdapat 20 kartu berukuran sama bernomor 1 sampai 20. Pemain A menang jika mendapatkan bilangan kelipatan 2. Pemain B menang jika mendapatkan bilangan kelipatan 5. Jika satu kartu diambil secara acak, siapa yang memiliki peluang menang lebih besar? ",
           "options": [
             "Pemain A",
             "Pemain B",
