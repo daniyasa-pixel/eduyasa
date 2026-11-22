@@ -397,7 +397,7 @@
         {
           "id": "ENG-B03-028",
           "type": "PG",
-          "text": "Complete: 'Bara ___ lunch at the cafeteria.'",
+          "text": "Complete the sentence about yesterday: 'Yesterday, Bara ___ lunch at the cafeteria.'",
           "options": [
             "have",
             "has",
@@ -405,7 +405,7 @@
             "had"
           ],
           "answer": "had",
-          "discussion": "Had is the past form of have and describes Bara's lunch in the past."
+          "discussion": "Yesterday shows that the action happened in the past. Use had, the simple past form of have."
         },
         {
           "id": "ENG-B03-029",
@@ -675,7 +675,7 @@
         {
           "id": "ENG-B03-049",
           "type": "PG",
-          "text": "Listen to the sound. Which animal makes this sound?",
+          "text": "Listen to the simulated animal sound. Which animal does it imitate?",
           "options": [
             "A cat",
             "A dog",
@@ -687,7 +687,7 @@
           "audio": {
             "type": "animal",
             "sound": "cat",
-            "label": "▶ PLAY CAT SOUND"
+            "label": "▶ PLAY SOUND"
           }
         },
         {
@@ -704,8 +704,9 @@
           "discussion": "The audio pronounces the word elephant. An elephant is a mammal.",
           "audio": {
             "type": "speech",
-            "text": "Listen to the English word. Which animal is it?",
-            "label": "▶ PLAY WORD"
+            "text": "Elephant.",
+            "label": "▶ PLAY WORD",
+            "lang": "en-US"
           }
         }
       ]
