@@ -28,7 +28,7 @@
         {
           "id": "ENG-B01-002",
           "type": "PG",
-          "text": "Look at the picture. Which vegetable looks like a small green tree?",
+          "text": "Look at the picture. Which vegetable is between the tomato and the eggplant in the top row?",
           "options": [
             "Spinach",
             "Broccoli",
@@ -36,7 +36,7 @@
             "Eggplant"
           ],
           "answer": "Broccoli",
-          "discussion": "Broccoli has a green head that looks like a small tree.",
+          "discussion": "Broccoli is shown between the tomato and the eggplant in the top row of the chart. Its label says BROCCOLI.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
             "alt": "A chart showing broccoli"
@@ -124,7 +124,7 @@
           "discussion": "The label under the right green leafy vegetable at the bottom of the chart says water spinach.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
-            "alt": "A chart showing a carrot"
+            "alt": "A labeled vegetable chart with two leafy vegetables in the bottom row"
           }
         },
         {
@@ -175,7 +175,7 @@
           "discussion": "At the bottom of the chart, the two leafy green vegetables are spinach and water spinach.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/vegetable-chart.svg",
-            "alt": "A chart showing green broccoli and spinach"
+            "alt": "A labeled vegetable chart with two leafy vegetables in the bottom row"
           }
         },
         {
@@ -350,7 +350,7 @@
         {
           "id": "ENG-B01-024",
           "type": "PG",
-          "text": "Complete the sentence: 'This is a ___. It is purple.'",
+          "text": "Complete the sentence: 'This is an ___. It is purple.'",
           "options": [
             "carrot",
             "spinach",
@@ -358,7 +358,7 @@
             "eggplant"
           ],
           "answer": "eggplant",
-          "discussion": "Eggplant is commonly purple, so it completes the description."
+          "discussion": "Eggplant is commonly purple. Use an before eggplant because the word begins with a vowel sound: 'This is an eggplant. It is purple.'"
         },
         {
           "id": "ENG-B01-025",
