@@ -19,7 +19,7 @@
             "Norma menjaga ketertiban, kerukunan, dan kedamaian."
           ],
           "answer": "Norma adalah aturan yang mengikat anggota kelompok atau masyarakat.",
-          "discussion": "Materi bab menjelaskan bahwa norma adalah aturan yang mengikat anggota kelompok atau masyarakat."
+          "discussion": "Norma adalah aturan yang mengikat anggota kelompok atau masyarakat. Pernyataan ini menjelaskan makna dasar norma secara langsung, tanpa memerlukan bacaan lain."
         },
         {
           "id": "PKN-B03-002",
@@ -37,7 +37,7 @@
         {
           "id": "PKN-B03-003",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait norma adalah ...",
+          "text": "Manakah pengingat yang benar agar tidak salah memahami norma?",
           "options": [
             "Norma adalah aturan yang mengikat anggota kelompok atau masyarakat.",
             "Menaati aturan bersama di rumah dan sekolah.",
@@ -45,7 +45,7 @@
             "Norma menjaga ketertiban, kerukunan, dan kedamaian."
           ],
           "answer": "Bukan kebiasaan yang boleh dilanggar sesuka hati.",
-          "discussion": "Hal yang perlu dihindari adalah bukan kebiasaan yang boleh dilanggar sesuka hati."
+          "discussion": "Pernyataan “Bukan kebiasaan yang boleh dilanggar sesuka hati.” memberi batasan pemahaman agar norma tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-004",
@@ -63,7 +63,7 @@
         {
           "id": "PKN-B03-005",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan norma?",
+          "text": "Siswa mengikuti peraturan peminjaman buku di sekolah dan kesepakatan waktu belajar di rumah. Pernyataan yang cocok dengan sikap mereka adalah ...",
           "options": [
             "Menaati aturan bersama di rumah dan sekolah.",
             "Bukan kebiasaan yang boleh dilanggar sesuka hati.",
@@ -71,7 +71,7 @@
             "Norma adalah aturan yang mengikat anggota kelompok atau masyarakat."
           ],
           "answer": "Menaati aturan bersama di rumah dan sekolah.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang norma. Menaati aturan bersama di rumah dan sekolah."
+          "discussion": "Menaati aturan yang berlaku di rumah dan sekolah merupakan contoh mematuhi norma bersama."
         },
         {
           "id": "PKN-B03-006",
@@ -84,7 +84,7 @@
             "Kesopanan membuat hubungan sosial lebih nyaman."
           ],
           "answer": "Norma kesopanan bersumber dari kebiasaan dan tata krama.",
-          "discussion": "Materi bab menjelaskan bahwa norma kesopanan bersumber dari kebiasaan dan tata krama."
+          "discussion": "Norma kesopanan bersumber dari kebiasaan dan tata krama. Pernyataan ini menjelaskan makna dasar norma kesopanan secara langsung, tanpa memerlukan bacaan lain."
         },
         {
           "id": "PKN-B03-007",
@@ -102,7 +102,7 @@
         {
           "id": "PKN-B03-008",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait norma kesopanan adalah ...",
+          "text": "Manakah pengingat yang benar agar tidak salah memahami norma kesopanan?",
           "options": [
             "Norma kesopanan bersumber dari kebiasaan dan tata krama.",
             "Menyapa dengan santun dan menghormati orang yang lebih tua.",
@@ -110,7 +110,7 @@
             "Bukan aturan yang bersumber dari hati nurani atau undang-undang."
           ],
           "answer": "Bukan aturan yang bersumber dari hati nurani atau undang-undang.",
-          "discussion": "Hal yang perlu dihindari adalah bukan aturan yang bersumber dari hati nurani atau undang-undang."
+          "discussion": "Pernyataan “Bukan aturan yang bersumber dari hati nurani atau undang-undang.” memberi batasan pemahaman agar norma kesopanan tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-009",
@@ -128,7 +128,7 @@
         {
           "id": "PKN-B03-010",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan norma kesopanan?",
+          "text": "Setiap bertemu tetangga yang lebih tua, Sari menyapa dengan santun dan berbicara sopan. Perilaku Sari menunjukkan ...",
           "options": [
             "Bukan aturan yang bersumber dari hati nurani atau undang-undang.",
             "Menyapa dengan santun dan menghormati orang yang lebih tua.",
@@ -136,7 +136,7 @@
             "Norma kesopanan bersumber dari kebiasaan dan tata krama."
           ],
           "answer": "Menyapa dengan santun dan menghormati orang yang lebih tua.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang norma kesopanan. Menyapa dengan santun dan menghormati orang yang lebih tua."
+          "discussion": "Menyapa dengan santun dan menghormati orang lain merupakan penerapan norma kesopanan."
         },
         {
           "id": "PKN-B03-011",
@@ -149,7 +149,7 @@
             "Ajaran agama menjadi pedoman bagi pemeluknya."
           ],
           "answer": "Norma agama bersumber dari ajaran agama.",
-          "discussion": "Materi bab menjelaskan bahwa norma agama bersumber dari ajaran agama."
+          "discussion": "Norma agama bersumber dari ajaran agama. Pernyataan ini menjelaskan makna dasar norma agama secara langsung, tanpa memerlukan bacaan lain."
         },
         {
           "id": "PKN-B03-012",
@@ -167,7 +167,7 @@
         {
           "id": "PKN-B03-013",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait norma agama adalah ...",
+          "text": "Manakah pengingat yang benar agar tidak salah memahami norma agama?",
           "options": [
             "Bukan aturan yang dibuat oleh pemerintah.",
             "Norma agama bersumber dari ajaran agama.",
@@ -175,7 +175,7 @@
             "Ajaran agama menjadi pedoman bagi pemeluknya."
           ],
           "answer": "Bukan aturan yang dibuat oleh pemerintah.",
-          "discussion": "Hal yang perlu dihindari adalah bukan aturan yang dibuat oleh pemerintah."
+          "discussion": "Pernyataan “Bukan aturan yang dibuat oleh pemerintah.” memberi batasan pemahaman agar norma agama tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-014",
@@ -193,7 +193,7 @@
         {
           "id": "PKN-B03-015",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan norma agama?",
+          "text": "Nia menjalankan ibadah sesuai keyakinannya dan berusaha menyayangi sesama. Pernyataan yang menggambarkan tindakan Nia adalah ...",
           "options": [
             "Bukan aturan yang dibuat oleh pemerintah.",
             "Ajaran agama menjadi pedoman bagi pemeluknya.",
@@ -201,7 +201,7 @@
             "Norma agama bersumber dari ajaran agama."
           ],
           "answer": "Beribadah sesuai agama dan menyayangi sesama ciptaan Tuhan.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang norma agama. Beribadah sesuai agama dan menyayangi sesama ciptaan Tuhan."
+          "discussion": "Menjalankan ibadah dan menyayangi sesama merupakan contoh mengikuti ajaran agama."
         },
         {
           "id": "PKN-B03-016",
@@ -214,7 +214,7 @@
             "Norma kesusilaan bersumber dari hati nurani tentang baik dan buruk."
           ],
           "answer": "Norma kesusilaan bersumber dari hati nurani tentang baik dan buruk.",
-          "discussion": "Materi bab menjelaskan bahwa norma kesusilaan bersumber dari hati nurani tentang baik dan buruk."
+          "discussion": "Norma kesusilaan bersumber dari hati nurani tentang baik dan buruk. Pernyataan ini menjelaskan makna dasar norma kesusilaan secara langsung, tanpa memerlukan bacaan lain."
         },
         {
           "id": "PKN-B03-017",
@@ -232,7 +232,7 @@
         {
           "id": "PKN-B03-018",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait norma kesusilaan adalah ...",
+          "text": "Manakah pengingat yang benar agar tidak salah memahami norma kesusilaan?",
           "options": [
             "Norma kesusilaan bersumber dari hati nurani tentang baik dan buruk.",
             "Bukan tata krama yang hanya bersumber dari kebiasaan.",
@@ -240,7 +240,7 @@
             "Pelanggaran dapat menimbulkan rasa bersalah atau penyesalan."
           ],
           "answer": "Bukan tata krama yang hanya bersumber dari kebiasaan.",
-          "discussion": "Hal yang perlu dihindari adalah bukan tata krama yang hanya bersumber dari kebiasaan."
+          "discussion": "Pernyataan “Bukan tata krama yang hanya bersumber dari kebiasaan.” memberi batasan pemahaman agar norma kesusilaan tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-019",
@@ -258,7 +258,7 @@
         {
           "id": "PKN-B03-020",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan norma kesusilaan?",
+          "text": "Meski tidak ada yang melihat, Damar mengembalikan barang yang ditemukan dan tidak mengejek pemiliknya. Perilakunya paling sesuai dengan ...",
           "options": [
             "Bukan tata krama yang hanya bersumber dari kebiasaan.",
             "Pelanggaran dapat menimbulkan rasa bersalah atau penyesalan.",
@@ -266,20 +266,20 @@
             "Berkata jujur dan tidak merendahkan orang lain."
           ],
           "answer": "Berkata jujur dan tidak merendahkan orang lain.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang norma kesusilaan. Berkata jujur dan tidak merendahkan orang lain."
+          "discussion": "Bersikap jujur dan tidak merendahkan orang lain merupakan tuntunan hati nurani."
         },
         {
           "id": "PKN-B03-021",
           "type": "PG",
           "text": "Apa pengertian yang tepat tentang norma hukum?",
           "options": [
-            "Norma hukum dibuat oleh pemerintah bersama lembaga perwakilan rakyat dan berlaku bagi warga negara.",
+            "Norma hukum adalah aturan resmi dari lembaga berwenang yang berlaku bagi setiap orang di wilayah yang diaturnya.",
             " Bukan aturan yang hanya berlaku jika disukai seseorang.",
             " Menaati peraturan lalu lintas.",
             "Pelanggaran dapat dikenai sanksi sesuai peraturan."
           ],
-          "answer": "Norma hukum dibuat oleh pemerintah bersama lembaga perwakilan rakyat dan berlaku bagi warga negara.",
-          "discussion": "Materi bab menjelaskan bahwa norma hukum dibuat oleh pemerintah bersama lembaga perwakilan rakyat dan berlaku bagi warga negara."
+          "answer": "Norma hukum adalah aturan resmi dari lembaga berwenang yang berlaku bagi setiap orang di wilayah yang diaturnya.",
+          "discussion": "Norma hukum adalah aturan resmi dari lembaga berwenang yang berlaku bagi setiap orang di wilayah yang diaturnya. Pernyataan ini menjelaskan makna dasar norma hukum secara langsung, tanpa memerlukan bacaan lain."
         },
         {
           "id": "PKN-B03-022",
@@ -289,7 +289,7 @@
             "Bukan aturan yang hanya berlaku jika disukai seseorang.",
             "Menaati peraturan lalu lintas.",
             "Pelanggaran dapat dikenai sanksi sesuai peraturan.",
-            "Norma hukum dibuat oleh pemerintah bersama lembaga perwakilan rakyat dan berlaku bagi warga negara."
+            "Norma hukum adalah aturan resmi dari lembaga berwenang yang berlaku bagi setiap orang di wilayah yang diaturnya."
           ],
           "answer": "Menaati peraturan lalu lintas.",
           "discussion": "Contoh tersebut sesuai karena menaati peraturan lalu lintas."
@@ -297,15 +297,15 @@
         {
           "id": "PKN-B03-023",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait norma hukum adalah ...",
+          "text": "Manakah pengingat yang benar agar tidak salah memahami norma hukum?",
           "options": [
-            "Norma hukum dibuat oleh pemerintah bersama lembaga perwakilan rakyat dan berlaku bagi warga negara.",
+            "Norma hukum adalah aturan resmi dari lembaga berwenang yang berlaku bagi setiap orang di wilayah yang diaturnya.",
             "Menaati peraturan lalu lintas.",
             "Bukan aturan yang hanya berlaku jika disukai seseorang.",
             "Pelanggaran dapat dikenai sanksi sesuai peraturan."
           ],
           "answer": "Bukan aturan yang hanya berlaku jika disukai seseorang.",
-          "discussion": "Hal yang perlu dihindari adalah bukan aturan yang hanya berlaku jika disukai seseorang."
+          "discussion": "Pernyataan “Bukan aturan yang hanya berlaku jika disukai seseorang.” memberi batasan pemahaman agar norma hukum tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-024",
@@ -313,7 +313,7 @@
           "text": "Mengapa norma hukum penting dalam kehidupan bersama?",
           "options": [
             "Bukan aturan yang hanya berlaku jika disukai seseorang.",
-            "Norma hukum dibuat oleh pemerintah bersama lembaga perwakilan rakyat dan berlaku bagi warga negara.",
+            "Norma hukum adalah aturan resmi dari lembaga berwenang yang berlaku bagi setiap orang di wilayah yang diaturnya.",
             "Menaati peraturan lalu lintas.",
             "Pelanggaran dapat dikenai sanksi sesuai peraturan."
           ],
@@ -323,15 +323,15 @@
         {
           "id": "PKN-B03-025",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan norma hukum?",
+          "text": "Saat lampu lalu lintas menyala merah, Rudi menghentikan kendaraannya sesuai aturan. Sikap Rudi menunjukkan ...",
           "options": [
             "Menaati peraturan lalu lintas.",
             "Bukan aturan yang hanya berlaku jika disukai seseorang.",
             "Pelanggaran dapat dikenai sanksi sesuai peraturan.",
-            "Norma hukum dibuat oleh pemerintah bersama lembaga perwakilan rakyat dan berlaku bagi warga negara."
+            "Norma hukum adalah aturan resmi dari lembaga berwenang yang berlaku bagi setiap orang di wilayah yang diaturnya."
           ],
           "answer": "Menaati peraturan lalu lintas.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang norma hukum. Menaati peraturan lalu lintas."
+          "discussion": "Menaati aturan lalu lintas merupakan contoh mematuhi norma hukum."
         },
         {
           "id": "PKN-B03-026",
@@ -344,7 +344,7 @@
             "Pemenuhan hak membantu anak tumbuh dan berkembang."
           ],
           "answer": "Hak anak adalah sesuatu yang seharusnya diterima anak.",
-          "discussion": "Materi bab menjelaskan bahwa hak anak adalah sesuatu yang seharusnya diterima anak."
+          "discussion": "Hak anak adalah sesuatu yang seharusnya diterima anak. Pernyataan ini menjelaskan makna dasar hak anak secara langsung, tanpa memerlukan bacaan lain."
         },
         {
           "id": "PKN-B03-027",
@@ -362,7 +362,7 @@
         {
           "id": "PKN-B03-028",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait hak anak adalah ...",
+          "text": "Manakah pengingat yang benar agar tidak salah memahami hak anak?",
           "options": [
             "Hak anak adalah sesuatu yang seharusnya diterima anak.",
             "Mendapat perlindungan, makanan, kesehatan, dan pendidikan.",
@@ -370,7 +370,7 @@
             "Bukan hadiah yang hanya diberikan jika anak mendapat nilai tinggi."
           ],
           "answer": "Bukan hadiah yang hanya diberikan jika anak mendapat nilai tinggi.",
-          "discussion": "Hal yang perlu dihindari adalah bukan hadiah yang hanya diberikan jika anak mendapat nilai tinggi."
+          "discussion": "Pernyataan “Bukan hadiah yang hanya diberikan jika anak mendapat nilai tinggi.” memberi batasan pemahaman agar hak anak tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-029",
@@ -388,7 +388,7 @@
         {
           "id": "PKN-B03-030",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan hak anak?",
+          "text": "Seorang anak mendapat makanan bergizi, kesempatan sekolah, pemeriksaan kesehatan, dan perlindungan dari kekerasan. Pernyataan yang menggambarkan hal itu adalah ...",
           "options": [
             "Bukan hadiah yang hanya diberikan jika anak mendapat nilai tinggi.",
             "Mendapat perlindungan, makanan, kesehatan, dan pendidikan.",
@@ -396,7 +396,7 @@
             "Hak anak adalah sesuatu yang seharusnya diterima anak."
           ],
           "answer": "Mendapat perlindungan, makanan, kesehatan, dan pendidikan.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang hak anak. Mendapat perlindungan, makanan, kesehatan, dan pendidikan."
+          "discussion": "Perlindungan, pangan, kesehatan, dan pendidikan adalah bagian dari hak anak."
         },
         {
           "id": "PKN-B03-031",
@@ -409,7 +409,7 @@
             "Identitas membantu pengakuan diri anak."
           ],
           "answer": "Anak berhak memiliki nama atau identitas dan kewarganegaraan.",
-          "discussion": "Materi bab menjelaskan bahwa anak berhak memiliki nama atau identitas dan kewarganegaraan."
+          "discussion": "Anak berhak memiliki nama atau identitas dan kewarganegaraan. Pernyataan ini menjelaskan makna dasar hak identitas dan kewarganegaraan secara langsung, tanpa memerlukan bacaan lain."
         },
         {
           "id": "PKN-B03-032",
@@ -427,7 +427,7 @@
         {
           "id": "PKN-B03-033",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait hak identitas dan kewarganegaraan adalah ...",
+          "text": "Manakah pengingat yang benar agar tidak salah memahami hak identitas dan kewarganegaraan?",
           "options": [
             "Bukan kehilangan identitas karena belum dewasa.",
             "Anak berhak memiliki nama atau identitas dan kewarganegaraan.",
@@ -435,7 +435,7 @@
             "Identitas membantu pengakuan diri anak."
           ],
           "answer": "Bukan kehilangan identitas karena belum dewasa.",
-          "discussion": "Hal yang perlu dihindari adalah bukan kehilangan identitas karena belum dewasa."
+          "discussion": "Pernyataan “Bukan kehilangan identitas karena belum dewasa.” memberi batasan pemahaman agar hak identitas dan kewarganegaraan tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-034",
@@ -453,7 +453,7 @@
         {
           "id": "PKN-B03-035",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan hak identitas dan kewarganegaraan?",
+          "text": "Seorang bayi dicatat namanya dalam dokumen kelahiran dan memperoleh status kewarganegaraan. Keadaan tersebut menunjukkan ...",
           "options": [
             "Bukan kehilangan identitas karena belum dewasa.",
             "Identitas membantu pengakuan diri anak.",
@@ -461,7 +461,7 @@
             "Anak berhak memiliki nama atau identitas dan kewarganegaraan."
           ],
           "answer": "Memiliki identitas yang jelas.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang hak identitas dan kewarganegaraan. Memiliki identitas yang jelas."
+          "discussion": "Setiap anak berhak mempunyai identitas dan kewarganegaraan yang jelas."
         },
         {
           "id": "PKN-B03-036",
@@ -474,7 +474,7 @@
             "Anak berhak mendapat kesempatan bermain dan rekreasi."
           ],
           "answer": "Anak berhak mendapat kesempatan bermain dan rekreasi.",
-          "discussion": "Materi bab menjelaskan bahwa anak berhak mendapat kesempatan bermain dan rekreasi."
+          "discussion": "Anak berhak mendapat kesempatan bermain dan rekreasi. Pernyataan ini menjelaskan makna dasar hak bermain dan rekreasi secara langsung, tanpa memerlukan bacaan lain."
         },
         {
           "id": "PKN-B03-037",
@@ -492,7 +492,7 @@
         {
           "id": "PKN-B03-038",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait hak bermain dan rekreasi adalah ...",
+          "text": "Manakah pengingat yang benar agar tidak salah memahami hak bermain dan rekreasi?",
           "options": [
             "Anak berhak mendapat kesempatan bermain dan rekreasi.",
             "Bukan bermain tanpa memperhatikan keselamatan atau kewajiban.",
@@ -500,7 +500,7 @@
             "Bermain mendukung tumbuh kembang anak."
           ],
           "answer": "Bukan bermain tanpa memperhatikan keselamatan atau kewajiban.",
-          "discussion": "Hal yang perlu dihindari adalah bukan bermain tanpa memperhatikan keselamatan atau kewajiban."
+          "discussion": "Pernyataan “Bukan bermain tanpa memperhatikan keselamatan atau kewajiban.” memberi batasan pemahaman agar hak bermain dan rekreasi tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-039",
@@ -518,7 +518,7 @@
         {
           "id": "PKN-B03-040",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan hak bermain dan rekreasi?",
+          "text": "Setelah menyelesaikan tugas sekolah dan dengan memperhatikan keselamatan, Deni bermain di taman bersama teman. Pernyataan yang sesuai adalah ...",
           "options": [
             "Bukan bermain tanpa memperhatikan keselamatan atau kewajiban.",
             "Bermain mendukung tumbuh kembang anak.",
@@ -526,7 +526,7 @@
             "Memiliki waktu bermain yang aman setelah menjalankan tanggung jawab."
           ],
           "answer": "Memiliki waktu bermain yang aman setelah menjalankan tanggung jawab.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang hak bermain dan rekreasi. Memiliki waktu bermain yang aman setelah menjalankan tanggung jawab."
+          "discussion": "Anak mempunyai hak untuk bermain dan berekreasi secara aman sambil tetap menjalankan kewajiban."
         },
         {
           "id": "PKN-B03-041",
@@ -539,7 +539,7 @@
             "Pendidikan dan kesehatan mendukung perkembangan anak."
           ],
           "answer": "Anak berhak memperoleh pendidikan dan pelayanan kesehatan.",
-          "discussion": "Materi bab menjelaskan bahwa anak berhak memperoleh pendidikan dan pelayanan kesehatan."
+          "discussion": "Anak berhak memperoleh pendidikan dan pelayanan kesehatan. Pernyataan ini menjelaskan makna dasar hak pendidikan dan kesehatan secara langsung, tanpa memerlukan bacaan lain."
         },
         {
           "id": "PKN-B03-042",
@@ -557,7 +557,7 @@
         {
           "id": "PKN-B03-043",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait hak pendidikan dan kesehatan adalah ...",
+          "text": "Manakah pengingat yang benar agar tidak salah memahami hak pendidikan dan kesehatan?",
           "options": [
             "Anak berhak memperoleh pendidikan dan pelayanan kesehatan.",
             "Mengikuti pembelajaran dan mendapat perawatan ketika sakit.",
@@ -565,7 +565,7 @@
             "Pendidikan dan kesehatan mendukung perkembangan anak."
           ],
           "answer": "Bukan dilarang belajar karena keadaan keluarga.",
-          "discussion": "Hal yang perlu dihindari adalah bukan dilarang belajar karena keadaan keluarga."
+          "discussion": "Pernyataan “Bukan dilarang belajar karena keadaan keluarga.” memberi batasan pemahaman agar hak pendidikan dan kesehatan tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-044",
@@ -583,7 +583,7 @@
         {
           "id": "PKN-B03-045",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan hak pendidikan dan kesehatan?",
+          "text": "Rina bersekolah seperti anak lainnya dan mendapat perawatan dokter ketika sakit. Keadaan ini menggambarkan ...",
           "options": [
             "Mengikuti pembelajaran dan mendapat perawatan ketika sakit.",
             "Bukan dilarang belajar karena keadaan keluarga.",
@@ -591,7 +591,7 @@
             "Anak berhak memperoleh pendidikan dan pelayanan kesehatan."
           ],
           "answer": "Mengikuti pembelajaran dan mendapat perawatan ketika sakit.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang hak pendidikan dan kesehatan. Mengikuti pembelajaran dan mendapat perawatan ketika sakit."
+          "discussion": "Kesempatan belajar dan mendapat pelayanan kesehatan merupakan hak anak."
         },
         {
           "id": "PKN-B03-046",
@@ -604,7 +604,7 @@
             "Hak dan kewajiban membantu kehidupan bersama berjalan seimbang."
           ],
           "answer": "Selain menerima hak, anak perlu menjalankan kewajiban sesuai usia dan kemampuan.",
-          "discussion": "Materi bab menjelaskan bahwa selain menerima hak, anak perlu menjalankan kewajiban sesuai usia dan kemampuan."
+          "discussion": "Selain menerima hak, anak perlu menjalankan kewajiban sesuai usia dan kemampuan. Pernyataan ini menjelaskan makna dasar kewajiban dan keseimbangan secara langsung, tanpa memerlukan bacaan lain."
         },
         {
           "id": "PKN-B03-047",
@@ -622,7 +622,7 @@
         {
           "id": "PKN-B03-048",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait kewajiban dan keseimbangan adalah ...",
+          "text": "Manakah pengingat yang benar agar tidak salah memahami kewajiban dan keseimbangan?",
           "options": [
             "Selain menerima hak, anak perlu menjalankan kewajiban sesuai usia dan kemampuan.",
             "Belajar, menaati aturan, menjaga kebersihan, dan menghormati orang lain.",
@@ -630,7 +630,7 @@
             "Bukan menuntut hak sambil sengaja mengabaikan tanggung jawab."
           ],
           "answer": "Bukan menuntut hak sambil sengaja mengabaikan tanggung jawab.",
-          "discussion": "Hal yang perlu dihindari adalah bukan menuntut hak sambil sengaja mengabaikan tanggung jawab."
+          "discussion": "Pernyataan “Bukan menuntut hak sambil sengaja mengabaikan tanggung jawab.” memberi batasan pemahaman agar kewajiban dan keseimbangan tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-049",
@@ -648,7 +648,7 @@
         {
           "id": "PKN-B03-050",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan kewajiban dan keseimbangan?",
+          "text": "Di rumah dan sekolah, Beni belajar, menjaga kebersihan, mematuhi aturan, serta menghormati orang lain. Pernyataan yang cocok dengan perilakunya adalah ...",
           "options": [
             "Bukan menuntut hak sambil sengaja mengabaikan tanggung jawab.",
             "Belajar, menaati aturan, menjaga kebersihan, dan menghormati orang lain.",
@@ -656,7 +656,7 @@
             "Selain menerima hak, anak perlu menjalankan kewajiban sesuai usia dan kemampuan."
           ],
           "answer": "Belajar, menaati aturan, menjaga kebersihan, dan menghormati orang lain.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang kewajiban dan keseimbangan. Belajar, menaati aturan, menjaga kebersihan, dan menghormati orang lain."
+          "discussion": "Hak perlu diimbangi dengan kewajiban yang sesuai usia dan kemampuan anak."
         }
       ]
     }
