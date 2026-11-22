@@ -76,7 +76,7 @@
         {
           "id": "PAI-B02-Q006",
           "type": "PG",
-          "text": "Ketika seseorang memohon ampun setelah berbuat salah, ia mengingat Asmaulhusna ...",
+          "text": "Perhatikan diagram empat Asmaulhusna pada soal. Ketika seseorang memohon ampun kepada Allah setelah berbuat salah, nama yang paling sesuai adalah ...",
           "options": [
             "Al-Wāḥid",
             "Al-Gaffār",
@@ -84,7 +84,11 @@
             "Al-Baṣīr"
           ],
           "answer": "Al-Gaffār",
-          "discussion": "Al-Gaffār mengingatkan bahwa Allah Maha Pengampun."
+          "discussion": "Pada diagram, Al-Gaffār bermakna Maha Pengampun. Karena itu, nama ini mengingatkan kita untuk memohon ampun dan memperbaiki diri.",
+          "image": {
+            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/asmaulhusna.svg",
+            "alt": "Diagram empat Asmaulhusna: Al-Gaffār Maha Pengampun, Al-‘Afuw Maha Pemaaf, Al-Wāḥid Maha Esa, dan Al-Ṣamad tempat bergantung"
+          }
         },
         {
           "id": "PAI-B02-Q007",
@@ -219,7 +223,7 @@
         {
           "id": "PAI-B02-Q017",
           "type": "PG",
-          "text": "Di grup kelas beredar kabar buruk tentang seorang teman. Sikap tabayyun adalah ...",
+          "text": "Perhatikan ilustrasi tentang pemeriksaan berita sebelum disebarkan. Jika muncul kabar buruk yang belum jelas tentang seorang teman di grup kelas, sikap tabayyun yang tepat adalah ...",
           "options": [
             "Memeriksa kebenaran kabar dan tidak langsung menyebarkannya",
             "Meneruskan kabar agar cepat viral",
@@ -227,7 +231,7 @@
             "Langsung menghukum teman itu"
           ],
           "answer": "Memeriksa kebenaran kabar dan tidak langsung menyebarkannya",
-          "discussion": "Tabayyun mencegah prasangka dan penyebaran berita yang belum jelas.",
+          "discussion": "Tabayyun berarti memeriksa kebenaran kabar dan tidak terburu-buru meneruskannya. Ilustrasi memperlihatkan pentingnya memeriksa sumber sebelum menyebarkan berita.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q02-tabayyun.svg",
             "alt": "Ilustrasi memeriksa kebenaran berita"
@@ -270,12 +274,12 @@
             "Melatih ketelitian sekaligus mengenal dan mengingat nama Allah"
           ],
           "answer": "Melatih ketelitian sekaligus mengenal dan mengingat nama Allah",
-          "discussion": "Buku mengarahkan peserta didik menulis Asmaulhusna dengan seni kaligrafi."
+          "discussion": "Menulis Asmaulhusna melalui kaligrafi dapat melatih ketelitian dalam bentuk huruf sekaligus membantu siswa mengenal dan mengingat nama-nama Allah beserta artinya."
         },
         {
           "id": "PAI-B02-Q021",
           "type": "PG",
-          "text": "Ketika menulis kaligrafi Asmaulhusna, hal yang harus diperhatikan adalah ...",
+          "text": "Ketika menulis nama-nama Allah dalam bentuk kaligrafi, hal yang paling perlu diperhatikan adalah ...",
           "options": [
             "Ketepatan tulisan dan bentuk huruf",
             "Kecepatan tanpa melihat contoh",
@@ -283,16 +287,12 @@
             "Menambahkan huruf agar terlihat indah"
           ],
           "answer": "Ketepatan tulisan dan bentuk huruf",
-          "discussion": "Tulisan nama Allah perlu dibuat dengan benar dan teliti.",
-          "image": {
-            "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/asmaulhusna.svg",
-            "alt": "Diagram empat Asmaulhusna"
-          }
+          "discussion": "Tulisan nama Allah perlu dibuat dengan benar dan teliti."
         },
         {
           "id": "PAI-B02-Q022",
           "type": "PG",
-          "text": "Contoh sikap mandiri dan bertanggung jawab yang sesuai tujuan bab ini adalah ...",
+          "text": "Contoh sikap mandiri dan bertanggung jawab ketika melakukan kesalahan adalah ...",
           "options": [
             "Menyalahkan teman setiap kali gagal",
             "Mengakui kesalahan dan memperbaikinya tanpa disuruh",
@@ -300,7 +300,7 @@
             "Menunggu orang lain menyelesaikan semua masalah"
           ],
           "answer": "Mengakui kesalahan dan memperbaikinya tanpa disuruh",
-          "discussion": "Bab ini mengaitkan pengamalan Asmaulhusna dengan sikap mandiri dan tanggung jawab."
+          "discussion": "Sikap mandiri dan bertanggung jawab ditunjukkan dengan mau mengakui kesalahan serta memperbaikinya tanpa harus menunggu disuruh."
         },
         {
           "id": "PAI-B02-Q023",
@@ -318,7 +318,7 @@
         {
           "id": "PAI-B02-Q024",
           "type": "PG",
-          "text": "Apa perbedaan makna Al-Gaffār dan Al-‘Afuw dalam materi?",
+          "text": "Apa perbedaan makna Al-Gaffār dan Al-‘Afuw dalam Asmaulhusna?",
           "options": [
             "Al-Gaffār Maha Esa, Al-‘Afuw tempat bergantung",
             "Keduanya berarti Maha Pencipta",
@@ -326,7 +326,7 @@
             "Al-Gaffār Maha Pengampun, Al-‘Afuw Maha Menghapus atau memaafkan kesalahan"
           ],
           "answer": "Al-Gaffār Maha Pengampun, Al-‘Afuw Maha Menghapus atau memaafkan kesalahan",
-          "discussion": "Kedua nama memiliki makna berdekatan tetapi penekanannya berbeda."
+          "discussion": "Al-Gaffār menekankan sifat Allah Maha Pengampun, sedangkan Al-‘Afuw menekankan sifat Allah Maha Menghapus atau memaafkan kesalahan."
         },
         {
           "id": "PAI-B02-Q025",
@@ -391,7 +391,7 @@
             "Karena Asmaulhusna hanya untuk kaligrafi"
           ],
           "answer": "Karena maknanya perlu dipahami dan tercermin dalam sikap",
-          "discussion": "Pembelajaran mengajak peserta didik memahami, melafalkan, dan meneladani maknanya."
+          "discussion": "Mengenal Asmaulhusna bukan hanya mengingat nama, tetapi juga memahami maknanya dan meneladani sifat baik yang dapat dilakukan manusia dalam kehidupan sehari-hari."
         },
         {
           "id": "PAI-B02-Q030",
