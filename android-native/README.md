@@ -48,3 +48,22 @@ Renderer Markdown/LaTeX penuh dan audio non-TTS perlu integrasi lanjutan.
 
 **QA belum dilaksanakan**: Gradle Sync, build APK, tes navigasi di perangkat,
 tes profil setelah aplikasi ditutup, pengelompokan UI, dan formulir WhatsApp.
+
+## Tahap 3 — penyimpanan lokal dan evaluasi otomatis
+
+- Selesai mengoreksi soal ke-20, aplikasi otomatis menyimpan **satu sesi kuis** dan 20 jawaban ke database SQLite privat di HP. Pengguna tidak harus mengirim laporan WhatsApp.
+- Disimpan: ID profil lokal, kelas, waktu selesai, ID sesi, ID soal, mapel, bab, jawaban yang dipilih, kunci jawaban, dan benar/salah. JSON GitHub tidak diubah.
+- Penyimpanan memakai satu transaksi (atomik) dan ID sesi unik, sehingga menekan duplikasi hasil saat tombol simpan ulang digunakan.
+- Jika penyimpanan gagal, halaman hasil memberi peringatan dan tombol **COBA SIMPAN LAGI**.
+- Dari layar nama siswa atau daftar mata pelajaran, tombol **Statistik / Lihat Evaluasi Belajar** membuka ringkasan dan riwayat khusus siswa yang dipilih.
+- Statistik: jumlah sesi, total jawaban, ketepatan keseluruhan, ringkasan per mapel, rincian per bab, dan 10 sesi terbaru.
+- Interpretasi awal: minimal 10 jawaban dari 2 sesi kuis untuk menilai ketepatan (80%+ mulai dipahami, 60–79% berkembang, di bawah 60% latihan ulang). Di bawah syarat tersebut status tetap **data awal**.
+- Statistik adalah indikator latihan, **bukan** kesimpulan pasti bahwa siswa sudah menguasai materi; jumlah soal, cakupan bab dan pengulangan soal dapat memengaruhi hasil.
+- Data antarprofil terpisah. Jika profil dihapus setelah konfirmasi, riwayat latihan profil tersebut turut dihapus; riwayat profil lainnya aman.
+- Riwayat berada **hanya di HP tersebut**; belum ada sinkronisasi cloud atau pemindahan data antarperangkat. Uninstall atau hapus data aplikasi bisa menghapusnya.
+- Belum ada tes Gradle/compile/APK/HP. Pengujian riwayat dan statistik perlu dilakukan sebelum dipakai siswa.
+
+### Kode
+- `StudyHistory.kt`: SQLite dan agregasi statistik
+- `LearningStatisticsScreen.kt`: UI evaluasi dan histori
+- `MainActivity.kt`: penyimpanan kuis dan navigasi statistik
