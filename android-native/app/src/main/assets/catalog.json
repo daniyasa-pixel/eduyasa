@@ -118,10 +118,10 @@
       "name": "Matematika",
       "icon": "🔢",
       "chapters": [
-        "Bab 1: Pecahan dan Desimal",
-        "Bab 2: Rasio",
-        "Bab 3: Kubus dan Balok",
-        "Bab 4: Peluang"
+        "Pecahan dan Desimal",
+        "Rasio",
+        "Kubus dan Balok",
+        "Peluang"
       ]
     },
     {
@@ -129,10 +129,10 @@
       "name": "Bahasa Indonesia",
       "icon": "📚",
       "chapters": [
-        "Bab 1: Anak-Anak yang Mengubah Dunia",
-        "Bab 2: Nusantara Berjuta Cerita",
-        "Bab 3: Temukan Minat, Tunjukkan Bakat",
-        "Bab 4: Dari Hobi Menjadi Profesi"
+        "Anak-Anak yang Mengubah Dunia",
+        "Nusantara Berjuta Cerita",
+        "Temukan Minat, Tunjukkan Bakat",
+        "Dari Hobi Menjadi Profesi"
       ]
     },
     {
@@ -140,8 +140,8 @@
       "name": "Ilmu Pengetahuan Alam dan Sosial",
       "icon": "🌏",
       "chapters": [
-        "Bab 1: Makanan Bergizi untuk Kesehatan Pencernaanmu",
-        "Bab 2: Tarik dan Embuskan",
+        "Makanan Bergizi untuk Kesehatan Pencernaanmu",
+        "Tarik dan Embuskan",
         "Jejak Sang Pahlawan",
         "Kearifan Lokal, Warisan Leluhur untuk Persatuan Bangsa",
         "Energi untuk Masa Depan",
