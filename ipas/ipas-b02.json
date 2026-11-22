@@ -19,7 +19,7 @@
             "Kerongkongan"
           ],
           "answer": "Hidung",
-          "discussion": "Jawaban yang benar adalah Hidung."
+          "discussion": "Hidung menjadi jalur utama udara saat bernapas. Di rongga hidung, udara juga dibantu disaring, dihangatkan, dan dilembapkan."
         },
         {
           "id": "IPAS-B02-M01-002",
@@ -32,12 +32,12 @@
             "Mengubah karbon dioksida menjadi oksigen"
           ],
           "answer": "Membantu menyaring debu dan kotoran",
-          "discussion": "Jawaban yang benar adalah Membantu menyaring debu dan kotoran."
+          "discussion": "Bulu hidung menahan sebagian debu dan kotoran agar tidak langsung masuk lebih jauh ke saluran pernapasan."
         },
         {
           "id": "IPAS-B02-M01-003",
           "type": "PG",
-          "text": "Organ yang menjadi tempat pertukaran gas oksigen dan karbon dioksida adalah ....",
+          "text": "Bagian paru-paru yang menjadi tempat pertukaran gas oksigen dan karbon dioksida adalah ....",
           "options": [
             "Hidung",
             "Laring",
@@ -45,7 +45,7 @@
             "Trakea"
           ],
           "answer": "Alveoli",
-          "discussion": "Jawaban yang benar adalah Alveoli."
+          "discussion": "Alveoli adalah kantung udara kecil di paru-paru. Di sinilah oksigen berpindah ke darah dan karbon dioksida berpindah dari darah ke udara dalam alveoli."
         },
         {
           "id": "IPAS-B02-M01-004",
@@ -58,7 +58,7 @@
             "Bronkus"
           ],
           "answer": "Bronkus",
-          "discussion": "Jawaban yang benar adalah Bronkus."
+          "discussion": "Trakea bercabang menjadi dua bronkus, masing-masing menuju paru-paru kanan dan kiri."
         },
         {
           "id": "IPAS-B02-M01-005",
@@ -71,7 +71,7 @@
             "Otot leher"
           ],
           "answer": "Diafragma",
-          "discussion": "Jawaban yang benar adalah Diafragma."
+          "discussion": "Diafragma adalah otot yang membatasi rongga dada dan rongga perut. Gerakannya membantu mengubah volume rongga dada saat bernapas."
         },
         {
           "id": "IPAS-B02-M01-006",
@@ -84,7 +84,7 @@
             "Ekskresi"
           ],
           "answer": "Inspirasi",
-          "discussion": "Jawaban yang benar adalah Inspirasi."
+          "discussion": "Inspirasi berarti menarik napas. Pada proses ini, udara masuk ke paru-paru."
         },
         {
           "id": "IPAS-B02-M01-007",
@@ -97,7 +97,7 @@
             "Penyerapan"
           ],
           "answer": "Ekspirasi",
-          "discussion": "Jawaban yang benar adalah Ekspirasi."
+          "discussion": "Ekspirasi berarti mengembuskan napas, yaitu ketika udara keluar dari paru-paru."
         },
         {
           "id": "IPAS-B02-M01-008",
@@ -110,7 +110,7 @@
             "Asma"
           ],
           "answer": "Asma",
-          "discussion": "Jawaban yang benar adalah Asma."
+          "discussion": "Pada asma, saluran napas dapat meradang dan menyempit sehingga aliran udara terganggu dan bernapas menjadi sulit."
         },
         {
           "id": "IPAS-B02-M01-009",
@@ -123,7 +123,7 @@
             "Menghindari asap"
           ],
           "answer": "Merokok",
-          "discussion": "Jawaban yang benar adalah Merokok."
+          "discussion": "Asap rokok membawa zat berbahaya yang dapat merusak saluran pernapasan dan paru-paru."
         },
         {
           "id": "IPAS-B02-M01-010",
@@ -136,7 +136,7 @@
             "Berada di ruangan penuh asap"
           ],
           "answer": "Berolahraga secara teratur",
-          "discussion": "Jawaban yang benar adalah Berolahraga secara teratur."
+          "discussion": "Olahraga teratur membantu melatih otot pernapasan dan menjaga kebugaran tubuh. Pilihan lainnya justru menambah paparan asap."
         },
         {
           "id": "IPAS-B02-M01-011",
@@ -149,7 +149,7 @@
             "Bronkus – trakea – laring – faring – alveoli"
           ],
           "answer": "Faring – laring – trakea – bronkus – bronkiolus – alveoli",
-          "discussion": "Jawaban yang benar adalah Faring – laring – trakea – bronkus – bronkiolus – alveoli."
+          "discussion": "Setelah rongga hidung, udara melewati faring, laring, trakea, bronkus, bronkiolus, lalu mencapai alveoli."
         },
         {
           "id": "IPAS-B02-M01-012",
@@ -162,7 +162,7 @@
             "Bronkiolus"
           ],
           "answer": "Bronkiolus",
-          "discussion": "Jawaban yang benar adalah Bronkiolus."
+          "discussion": "Bronkus bercabang menjadi saluran yang lebih kecil, yaitu bronkiolus, yang menyalurkan udara menuju alveoli."
         },
         {
           "id": "IPAS-B02-M01-013",
@@ -175,7 +175,7 @@
             "Karena hidung membunuh semua mikroorganisme"
           ],
           "answer": "Karena bulu hidung dan lendir membantu menyaring kotoran",
-          "discussion": "Jawaban yang benar adalah Karena bulu hidung dan lendir membantu menyaring kotoran."
+          "discussion": "Bulu hidung dan lendir membantu menangkap sebagian kotoran. Penyaringan ini tidak menghilangkan seluruh zat berbahaya atau mikroorganisme."
         },
         {
           "id": "IPAS-B02-M01-014",
@@ -188,7 +188,7 @@
             "Menghasilkan karbon dioksida"
           ],
           "answer": "Menyalurkan udara menuju bronkus",
-          "discussion": "Jawaban yang benar adalah Menyalurkan udara menuju bronkus."
+          "discussion": "Trakea merupakan saluran udara yang berlanjut ke bronkus. Pertukaran gas berlangsung di alveoli, bukan di trakea."
         },
         {
           "id": "IPAS-B02-M01-015",
@@ -201,7 +201,7 @@
             "Menutup saluran pernapasan"
           ],
           "answer": "Berkontraksi dan bergerak turun",
-          "discussion": "Jawaban yang benar adalah Berkontraksi dan bergerak turun."
+          "discussion": "Ketika menarik napas, diafragma berkontraksi dan bergerak turun sehingga ruang dalam rongga dada bertambah."
         },
         {
           "id": "IPAS-B02-M01-016",
@@ -214,7 +214,7 @@
             "Mengembang dan udara masuk"
           ],
           "answer": "Mengembang dan udara masuk",
-          "discussion": "Jawaban yang benar adalah Mengembang dan udara masuk."
+          "discussion": "Rongga dada yang membesar memungkinkan paru-paru mengembang. Tekanan udara di dalamnya menurun sehingga udara masuk."
         },
         {
           "id": "IPAS-B02-M01-017",
@@ -227,7 +227,7 @@
             "Menghilang dari rongga dada"
           ],
           "answer": "Relaksasi dan naik",
-          "discussion": "Jawaban yang benar adalah Relaksasi dan naik."
+          "discussion": "Saat mengembuskan napas secara normal, diafragma mengendur dan bergerak naik. Volume rongga dada berkurang sehingga udara keluar."
         },
         {
           "id": "IPAS-B02-M01-018",
@@ -240,7 +240,7 @@
             "Uap air"
           ],
           "answer": "Oksigen",
-          "discussion": "Jawaban yang benar adalah Oksigen."
+          "discussion": "Oksigen digunakan sel-sel tubuh dalam proses melepaskan energi dari zat makanan."
         },
         {
           "id": "IPAS-B02-M01-019",
@@ -253,7 +253,7 @@
             "Disimpan di dalam lambung"
           ],
           "answer": "Diserap oleh darah dan diedarkan ke seluruh tubuh",
-          "discussion": "Jawaban yang benar adalah Diserap oleh darah dan diedarkan ke seluruh tubuh."
+          "discussion": "Oksigen menyeberangi dinding alveoli menuju pembuluh darah kecil di sekitarnya. Darah kemudian mengangkutnya ke sel-sel tubuh."
         },
         {
           "id": "IPAS-B02-M01-020",
@@ -266,7 +266,7 @@
             "Sisa proses yang terjadi di dalam tubuh"
           ],
           "answer": "Sisa proses yang terjadi di dalam tubuh",
-          "discussion": "Jawaban yang benar adalah Sisa proses yang terjadi di dalam tubuh."
+          "discussion": "Karbon dioksida dihasilkan dalam proses tubuh, termasuk proses menghasilkan energi di sel. Darah membawanya ke paru-paru untuk dikeluarkan."
         },
         {
           "id": "IPAS-B02-M01-021",
@@ -279,7 +279,7 @@
             "Cedera tulang"
           ],
           "answer": "Virus",
-          "discussion": "Jawaban yang benar adalah Virus."
+          "discussion": "Influenza disebabkan oleh virus influenza. Bakteri, kekurangan kalsium, dan cedera tulang bukan penyebab influenza."
         },
         {
           "id": "IPAS-B02-M01-022",
@@ -292,7 +292,7 @@
             "Kekurangan vitamin"
           ],
           "answer": "Bakteri",
-          "discussion": "Jawaban yang benar adalah Bakteri."
+          "discussion": "TBC disebabkan oleh bakteri Mycobacterium tuberculosis. Penyakit ini berbeda dari influenza yang disebabkan virus."
         },
         {
           "id": "IPAS-B02-M01-023",
@@ -305,7 +305,7 @@
             "Usus halus"
           ],
           "answer": "Alveoli di paru-paru",
-          "discussion": "Jawaban yang benar adalah Alveoli di paru-paru."
+          "discussion": "Pneumonia adalah infeksi pada paru-paru yang dapat membuat alveoli meradang dan terisi cairan, sehingga pertukaran gas terganggu."
         },
         {
           "id": "IPAS-B02-M01-024",
@@ -318,7 +318,7 @@
             "Debu atau udara dingin"
           ],
           "answer": "Debu atau udara dingin",
-          "discussion": "Jawaban yang benar adalah Debu atau udara dingin."
+          "discussion": "Debu atau udara dingin dapat memicu gejala asma pada sebagian penderita. Pemicu asma dapat berbeda antarseseorang."
         },
         {
           "id": "IPAS-B02-M01-025",
@@ -331,7 +331,7 @@
             "Istirahat Sehat Paru-paru Aktif"
           ],
           "answer": "Infeksi Saluran Pernapasan Akut",
-          "discussion": "Jawaban yang benar adalah Infeksi Saluran Pernapasan Akut."
+          "discussion": "ISPA adalah kependekan dari Infeksi Saluran Pernapasan Akut. Istilah ini merujuk pada infeksi saluran napas."
         },
         {
           "id": "IPAS-B02-M01-026",
@@ -344,7 +344,7 @@
             "Menghilangkan semua mikroorganisme"
           ],
           "answer": "Mengandung partikel dan zat berbahaya",
-          "discussion": "Jawaban yang benar adalah Mengandung partikel dan zat berbahaya."
+          "discussion": "Asap kendaraan dan pembakaran sampah dapat membawa partikel serta zat berbahaya yang ikut terhirup dan mengganggu saluran napas."
         },
         {
           "id": "IPAS-B02-M01-027",
@@ -357,7 +357,7 @@
             "Karena membuat tanaman berhenti tumbuh seketika"
           ],
           "answer": "Karena asapnya dapat mencemari udara yang dihirup",
-          "discussion": "Jawaban yang benar adalah Karena asapnya dapat mencemari udara yang dihirup."
+          "discussion": "Asap hasil pembakaran sampah mencemari udara di sekitarnya. Asap tersebut dapat terhirup oleh penghuni rumah."
         },
         {
           "id": "IPAS-B02-M01-028",
@@ -370,7 +370,7 @@
             "Dapat meningkatkan paparan debu dan mikroorganisme"
           ],
           "answer": "Dapat meningkatkan paparan debu dan mikroorganisme",
-          "discussion": "Jawaban yang benar adalah Dapat meningkatkan paparan debu dan mikroorganisme."
+          "discussion": "Debu dapat terhirup, sedangkan kondisi lembap mendukung pertumbuhan mikroorganisme tertentu, termasuk jamur. Keduanya dapat mengganggu pernapasan."
         },
         {
           "id": "IPAS-B02-M01-029",
@@ -383,7 +383,7 @@
             "Karena asap rokok hanya mengganggu penciuman"
           ],
           "answer": "Karena asap rokok juga dapat membahayakan orang yang menghirupnya",
-          "discussion": "Jawaban yang benar adalah Karena asap rokok juga dapat membahayakan orang yang menghirupnya."
+          "discussion": "Orang yang tidak merokok tetapi menghirup asap rokok juga terpapar zat berbahaya. Paparan ini disebut paparan asap rokok orang lain."
         },
         {
           "id": "IPAS-B02-M01-030",
@@ -396,7 +396,7 @@
             "Mengubah paru-paru menjadi lebih kecil"
           ],
           "answer": "Melatih otot pernapasan dan mendukung kebugaran",
-          "discussion": "Jawaban yang benar adalah Melatih otot pernapasan dan mendukung kebugaran."
+          "discussion": "Olahraga melatih kerja otot, termasuk otot yang membantu pernapasan, dan mendukung kebugaran. Tubuh tetap memerlukan oksigen."
         },
         {
           "id": "IPAS-B02-M01-031",
@@ -409,7 +409,7 @@
             "Jumlah tulang rusuk manusia"
           ],
           "answer": "Kemampuan paru-paru menampung udara",
-          "discussion": "Jawaban yang benar adalah Kemampuan paru-paru menampung udara."
+          "discussion": "Kapasitas paru-paru berkaitan dengan volume udara yang dapat ditampung paru-paru, bukan jumlah makanan atau kecepatan pompa jantung."
         },
         {
           "id": "IPAS-B02-M01-032",
@@ -422,7 +422,7 @@
             "Aktivitas fisik"
           ],
           "answer": "Aktivitas fisik",
-          "discussion": "Jawaban yang benar adalah Aktivitas fisik."
+          "discussion": "Aktivitas fisik melatih otot pernapasan dan dapat memengaruhi fungsi pernapasan. Kapasitas paru-paru juga dipengaruhi ukuran tubuh, usia, dan kondisi kesehatan."
         },
         {
           "id": "IPAS-B02-M01-033",
@@ -435,7 +435,7 @@
             "Karena rumah bersih membuat semua penyakit pasti sembuh"
           ],
           "answer": "Karena dapat mengurangi debu dan sumber gangguan pernapasan",
-          "discussion": "Jawaban yang benar adalah Karena dapat mengurangi debu dan sumber gangguan pernapasan."
+          "discussion": "Membersihkan rumah mengurangi debu dan sumber gangguan seperti jamur. Rumah bersih membantu mengurangi paparan, tetapi bukan jaminan bebas dari semua penyakit."
         },
         {
           "id": "IPAS-B02-M01-034",
@@ -448,7 +448,7 @@
             "Menjamin seseorang tidak akan terkena penyakit pernapasan"
           ],
           "answer": "Dapat membantu mengurangi paparan partikel tertentu",
-          "discussion": "Jawaban yang benar adalah Dapat membantu mengurangi paparan partikel tertentu."
+          "discussion": "Masker yang sesuai dan dipakai dengan benar dapat mengurangi partikel yang terhirup. Masker tidak menghilangkan sumber polusi atau menjamin bebas penyakit."
         },
         {
           "id": "IPAS-B02-M01-035",
@@ -461,7 +461,7 @@
             "Karena vape hanya mengeluarkan uap air biasa"
           ],
           "answer": "Karena aerosol vape dapat mengandung zat yang berisiko bagi kesehatan",
-          "discussion": "Jawaban yang benar adalah Karena aerosol vape dapat mengandung zat yang berisiko bagi kesehatan."
+          "discussion": "Aerosol vape bukan hanya uap air. Aerosolnya dapat mengandung nikotin serta zat lain yang berisiko bagi kesehatan."
         },
         {
           "id": "IPAS-B02-M01-036",
@@ -474,7 +474,7 @@
             "Rongga dada membesar sehingga udara masuk"
           ],
           "answer": "Rongga dada membesar sehingga udara masuk",
-          "discussion": "Jawaban yang benar adalah Rongga dada membesar sehingga udara masuk."
+          "discussion": "Gerakan diafragma ke bawah memperbesar rongga dada. Paru-paru mengembang dan udara masuk, sesuai proses menarik napas yang dilakukan Rani."
         },
         {
           "id": "IPAS-B02-M01-037",
@@ -487,7 +487,7 @@
             "2–5–4–7–6–1–3"
           ],
           "answer": "2–5–7–4–1–6–3",
-          "discussion": "Jawaban yang benar adalah 2–5–7–4–1–6–3."
+          "discussion": "Urutannya adalah hidung (2), faring (5), laring (7), trakea (4), bronkus (1), bronkiolus (6), dan alveoli (3)."
         },
         {
           "id": "IPAS-B02-M01-038",
@@ -500,7 +500,7 @@
             "Peredaran darah karena jantung memompa"
           ],
           "answer": "Inspirasi karena volume rongga dada membesar",
-          "discussion": "Jawaban yang benar adalah Inspirasi karena volume rongga dada membesar."
+          "discussion": "Lembar karet mewakili diafragma. Ketika ditarik ke bawah, ruang dalam botol membesar sehingga udara masuk dan balon mengembang; model ini menggambarkan inspirasi."
         },
         {
           "id": "IPAS-B02-M01-039",
@@ -513,7 +513,7 @@
             "Karena alveoli menggerakkan diafragma"
           ],
           "answer": "Karena alveoli memiliki dinding tipis dan dikelilingi pembuluh darah",
-          "discussion": "Jawaban yang benar adalah Karena alveoli memiliki dinding tipis dan dikelilingi pembuluh darah."
+          "discussion": "Dinding alveoli yang tipis dan pembuluh darah di sekitarnya memudahkan perpindahan oksigen serta karbon dioksida."
         },
         {
           "id": "IPAS-B02-M01-040",
@@ -526,7 +526,7 @@
             "Pertukaran oksigen dan karbon dioksida"
           ],
           "answer": "Pertukaran oksigen dan karbon dioksida",
-          "discussion": "Jawaban yang benar adalah Pertukaran oksigen dan karbon dioksida."
+          "discussion": "Alveoli berfungsi sebagai tempat pertukaran gas. Gangguan pada bagian ini dapat menghambat perpindahan oksigen ke darah dan karbon dioksida ke alveoli."
         },
         {
           "id": "IPAS-B02-M01-041",
@@ -539,7 +539,7 @@
             "Asma hanya disebabkan oleh bakteri"
           ],
           "answer": "Debu dapat menjadi pemicu gejala asma pada sebagian orang",
-          "discussion": "Jawaban yang benar adalah Debu dapat menjadi pemicu gejala asma pada sebagian orang."
+          "discussion": "Dika memiliki riwayat asma dan mengalami gejala setelah terkena debu. Debu dapat menjadi pemicu, tetapi batuk saja tidak membuktikan semua orang menderita asma."
         },
         {
           "id": "IPAS-B02-M01-042",
@@ -552,7 +552,7 @@
             "Membiarkan kebiasaan tersebut karena asap akan hilang sendiri"
           ],
           "answer": "Mengurangi pembakaran sampah dan mengelola sampah dengan cara yang lebih aman",
-          "discussion": "Jawaban yang benar adalah Mengurangi pembakaran sampah dan mengelola sampah dengan cara yang lebih aman."
+          "discussion": "Mengurangi pembakaran mengurangi sumber asap. Memilah dan mengelola sampah dengan cara yang lebih aman lebih bermanfaat daripada sekadar memindahkan waktu pembakaran."
         },
         {
           "id": "IPAS-B02-M01-043",
@@ -565,7 +565,7 @@
             "Olahraga tidak berhubungan dengan kesehatan pernapasan"
           ],
           "answer": "Kebiasaan P lebih mendukung kesehatan sistem pernapasan",
-          "discussion": "Jawaban yang benar adalah Kebiasaan P lebih mendukung kesehatan sistem pernapasan."
+          "discussion": "Kebiasaan P memadukan aktivitas fisik dan pengurangan paparan asap. Kebiasaan Q justru menambah paparan yang mengganggu pernapasan."
         },
         {
           "id": "IPAS-B02-M01-044",
@@ -578,7 +578,7 @@
             "Karena masker hanya membantu mengurangi paparan dan tidak menghilangkan sumber polusi"
           ],
           "answer": "Karena masker hanya membantu mengurangi paparan dan tidak menghilangkan sumber polusi",
-          "discussion": "Jawaban yang benar adalah Karena masker hanya membantu mengurangi paparan dan tidak menghilangkan sumber polusi."
+          "discussion": "Masker membantu mengurangi paparan tertentu, tetapi sumber polusi tetap ada. Mengurangi waktu di tempat tersebut membantu mengurangi paparan lebih lanjut."
         },
         {
           "id": "IPAS-B02-M01-045",
@@ -591,7 +591,7 @@
             "Salah, sebab hidung tidak memiliki fungsi dalam penyaringan udara"
           ],
           "answer": "Kurang tepat, karena kemampuan penyaringan hidung terbatas sehingga kualitas udara tetap perlu dijaga",
-          "discussion": "Jawaban yang benar adalah Kurang tepat, karena kemampuan penyaringan hidung terbatas sehingga kualitas udara tetap perlu dijaga."
+          "discussion": "Bulu hidung membantu menyaring sebagian kotoran, tetapi tidak mampu menyaring semua partikel atau gas berbahaya. Kualitas udara tetap penting."
         },
         {
           "id": "IPAS-B02-M01-046",
@@ -604,7 +604,7 @@
             "Udara yang keluar tidak pernah mengandung oksigen"
           ],
           "answer": "Pernapasan juga berperan mengeluarkan sisa gas dari tubuh",
-          "discussion": "Jawaban yang benar adalah Pernapasan juga berperan mengeluarkan sisa gas dari tubuh."
+          "discussion": "Karbon dioksida merupakan gas sisa dari proses tubuh yang dikeluarkan melalui pernapasan. Udara yang diembuskan juga masih mengandung sebagian oksigen."
         },
         {
           "id": "IPAS-B02-M01-047",
@@ -617,12 +617,12 @@
             "Menghindari olahraga dan sering menghirup asap kendaraan"
           ],
           "answer": "Berolahraga, menjaga kebersihan rumah, dan menghindari asap rokok",
-          "discussion": "Jawaban yang benar adalah Berolahraga, menjaga kebersihan rumah, dan menghindari asap rokok."
+          "discussion": "Olahraga mendukung kebugaran, kebersihan rumah mengurangi debu, dan menghindari asap rokok mengurangi paparan zat berbahaya."
         },
         {
           "id": "IPAS-B02-M01-048",
           "type": "PG",
-          "text": "Dua orang memiliki usia yang sama. Orang pertama rutin melakukan aktivitas fisik, sedangkan orang kedua jarang bergerak. Berdasarkan materi tentang kapasitas paru-paru, pernyataan yang paling tepat adalah ....",
+          "text": "Dua orang memiliki usia yang sama. Orang pertama rutin melakukan aktivitas fisik, sedangkan orang kedua jarang bergerak. Pernyataan yang paling tepat tentang faktor yang dapat memengaruhi kapasitas paru-paru adalah ....",
           "options": [
             "Aktivitas fisik tidak memiliki hubungan dengan kapasitas paru-paru",
             "Orang yang jarang bergerak pasti memiliki paru-paru lebih besar",
@@ -630,7 +630,7 @@
             "Aktivitas fisik merupakan salah satu faktor yang dapat memengaruhi kapasitas paru-paru"
           ],
           "answer": "Aktivitas fisik merupakan salah satu faktor yang dapat memengaruhi kapasitas paru-paru",
-          "discussion": "Jawaban yang benar adalah Aktivitas fisik merupakan salah satu faktor yang dapat memengaruhi kapasitas paru-paru."
+          "discussion": "Aktivitas fisik merupakan salah satu faktor yang berkaitan dengan fungsi dan kapasitas paru-paru. Usia yang sama saja belum cukup untuk memastikan kapasitas siapa yang lebih besar."
         },
         {
           "id": "IPAS-B02-M01-049",
@@ -643,12 +643,12 @@
             "Membakar sampah di dalam rumah agar cepat hilang"
           ],
           "answer": "Membersihkan debu, memperbaiki kondisi kelembapan, dan menjadikan rumah bebas asap rokok",
-          "discussion": "Jawaban yang benar adalah Membersihkan debu, memperbaiki kondisi kelembapan, dan menjadikan rumah bebas asap rokok."
+          "discussion": "Langkah tersebut menangani ketiga masalah yang disebutkan: debu dibersihkan, kelembapan diperbaiki, dan sumber asap rokok dihentikan."
         },
         {
           "id": "IPAS-B02-M01-050",
           "type": "PG",
-          "text": "Perhatikan pernyataan berikut!\n\n1. Oksigen dari alveoli diserap oleh darah.\n2. Darah membawa oksigen menuju sel-sel tubuh.\n3. Karbon dioksida sebagai sisa proses tubuh perlu dikeluarkan.\n4. Oksigen langsung digunakan di paru-paru untuk menghasilkan energi.\n\nPernyataan yang benar adalah ....",
+          "text": "Perhatikan pernyataan berikut!\n\n1. Oksigen dari alveoli diserap oleh darah.\n2. Darah membawa oksigen menuju sel-sel tubuh.\n3. Karbon dioksida sebagai sisa proses tubuh perlu dikeluarkan.\n4. Oksigen hanya digunakan oleh sel-sel paru-paru untuk menghasilkan energi.\n\nPernyataan yang benar adalah ....",
           "options": [
             "1 dan 4",
             "1, 2, dan 3",
@@ -656,7 +656,7 @@
             "1, 2, 3, dan 4"
           ],
           "answer": "1, 2, dan 3",
-          "discussion": "Jawaban yang benar adalah 1, 2, dan 3."
+          "discussion": "Pernyataan 1, 2, dan 3 sesuai proses pertukaran dan pengangkutan gas. Pernyataan 4 salah karena oksigen juga digunakan oleh sel-sel di berbagai bagian tubuh, bukan hanya paru-paru."
         }
       ]
     }
