@@ -128,7 +128,7 @@
         {
           "id": "IPAS-B01-M01-010",
           "type": "PG",
-          "text": "Contoh sumber protein nabati yang disebutkan dalam Panduan Guru adalah ....",
+          "text": "Contoh pasangan makanan sumber protein nabati adalah ....",
           "options": [
             "Ikan dan ayam",
             "Tahu dan tempe",
@@ -136,7 +136,7 @@
             "Daging dan ikan"
           ],
           "answer": "Tahu dan tempe",
-          "discussion": "Tahu dan tempe merupakan contoh sumber protein nabati yang dapat dipilih sebagai pengganti protein hewani tertentu."
+          "discussion": "Tahu dan tempe terbuat dari kedelai, sehingga termasuk sumber protein nabati atau protein dari tumbuhan."
         },
         {
           "id": "IPAS-B01-M01-011",
@@ -162,7 +162,7 @@
             "Membantu pencernaan kimiawi di mulut"
           ],
           "answer": "Membantu pencernaan kimiawi di mulut",
-          "discussion": "Panduan Guru menjelaskan bahwa pencernaan di mulut berlangsung secara mekanis dan kimiawi dengan bantuan gigi dan air liur."
+          "discussion": "Air liur mengandung enzim yang membantu menguraikan pati. Proses ini merupakan pencernaan kimiawi di mulut."
         },
         {
           "id": "IPAS-B01-M01-013",
@@ -201,7 +201,7 @@
             "Air liur"
           ],
           "answer": "Asam empedu",
-          "discussion": "Panduan Guru menjelaskan bahwa kimus bercampur dengan enzim pencernaan dari pankreas dan asam empedu di usus halus."
+          "discussion": "Di usus halus, makanan bercampur dengan enzim pankreas dan empedu. Asam empedu membantu pencernaan lemak."
         },
         {
           "id": "IPAS-B01-M01-016",
@@ -219,7 +219,7 @@
         {
           "id": "IPAS-B01-M01-017",
           "type": "PG",
-          "text": "Menurut pengelompokan dalam Panduan Guru, nasi, kentang, dan roti merupakan sumber ....",
+          "text": "Nasi, kentang, dan roti dikenal sebagai makanan sumber ....",
           "options": [
             "Karbohidrat",
             "Vitamin",
@@ -227,12 +227,12 @@
             "Mineral saja"
           ],
           "answer": "Karbohidrat",
-          "discussion": "Panduan Guru mengelompokkan nasi, kentang, dan roti sebagai makanan yang mengandung karbohidrat."
+          "discussion": "Nasi, kentang, dan roti mengandung banyak karbohidrat yang digunakan tubuh sebagai sumber energi."
         },
         {
           "id": "IPAS-B01-M01-018",
           "type": "PG",
-          "text": "Dalam pengelompokan zat gizi pada Uji Kompetensi, ayam goreng, susu, dan selai kacang termasuk sumber ....",
+          "text": "Ayam goreng, susu, dan selai kacang sama-sama dapat menyumbang zat gizi berupa ....",
           "options": [
             "Vitamin dan mineral saja",
             "Lemak dan protein",
@@ -240,7 +240,7 @@
             "Karbohidrat saja"
           ],
           "answer": "Lemak dan protein",
-          "discussion": "Kunci Uji Kompetensi Bab 1 mengelompokkan ayam goreng, susu, dan selai kacang sebagai makanan yang mengandung lemak dan protein."
+          "discussion": "Ketiga makanan tersebut dapat menyumbang protein dan lemak. Makanan dapat mengandung lebih dari satu jenis zat gizi."
         },
         {
           "id": "IPAS-B01-M01-019",
@@ -253,12 +253,12 @@
             "Karbohidrat saja"
           ],
           "answer": "Vitamin dan mineral",
-          "discussion": "Contoh-contoh tersebut dikelompokkan sebagai sumber vitamin dan mineral dalam kunci Uji Kompetensi."
+          "discussion": "Sayuran dan buah-buahan tersebut dapat menyumbang vitamin dan mineral, selain zat gizi lainnya."
         },
         {
           "id": "IPAS-B01-M01-020",
           "type": "PG",
-          "text": "Dalam kunci Uji Kompetensi, air putih dikelompokkan sebagai sumber ....",
+          "text": "Air minum mineral membantu tubuh memperoleh ....",
           "options": [
             "Protein dan lemak",
             "Karbohidrat dan protein",
@@ -266,7 +266,7 @@
             "Air dan mineral"
           ],
           "answer": "Air dan mineral",
-          "discussion": "Panduan Guru mencantumkan air putih dalam kelompok sumber air dan mineral."
+          "discussion": "Air minum mineral menyediakan air dan mineral terlarut; bukan sumber protein, lemak, atau karbohidrat."
         },
         {
           "id": "IPAS-B01-M01-021",
@@ -284,7 +284,7 @@
         {
           "id": "IPAS-B01-M01-022",
           "type": "PG",
-          "text": "Menurut prinsip Isi Piringku yang dirujuk dalam Panduan Guru, setengah bagian piring diisi dengan ....",
+          "text": "Menurut pedoman Isi Piringku, setengah bagian piring diisi dengan ....",
           "options": [
             "Nasi saja",
             "Buah dan sayur",
@@ -292,12 +292,12 @@
             "Minuman kemasan"
           ],
           "answer": "Buah dan sayur",
-          "discussion": "Panduan Guru mengarahkan penggunaan infografis Isi Piringku sebagai acuan komposisi makanan, dengan setengah piring berupa buah dan sayur."
+          "discussion": "Dalam pedoman Isi Piringku, setengah piring diisi buah dan sayur."
         },
         {
           "id": "IPAS-B01-M01-023",
           "type": "PG",
-          "text": "Setengah bagian piring lainnya dalam prinsip Isi Piringku berisi ....",
+          "text": "Dalam pedoman Isi Piringku, setengah piring diisi buah dan sayur. Setengah piring sisanya berisi ....",
           "options": [
             "Hanya buah",
             "Hanya sayur",
@@ -305,12 +305,12 @@
             "Permen dan minuman manis"
           ],
           "answer": "Makanan pokok dan lauk-pauk",
-          "discussion": "Dalam prinsip Isi Piringku, bagian lainnya diisi makanan pokok dan lauk-pauk."
+          "discussion": "Bagian piring selain buah dan sayur diisi makanan pokok dan lauk-pauk."
         },
         {
           "id": "IPAS-B01-M01-024",
           "type": "PG",
-          "text": "Ketika memilih makanan kemasan, informasi yang secara khusus diteliti dalam kegiatan Bab 1 adalah kandungan ....",
+          "text": "Siswa diminta memeriksa kandungan GGL pada label makanan kemasan. Kandungan yang perlu mereka catat adalah ....",
           "options": [
             "Warna, bentuk, dan ukuran",
             "Harga, merek, dan gambar",
@@ -318,7 +318,7 @@
             "Gula, garam, dan lemak"
           ],
           "answer": "Gula, garam, dan lemak",
-          "discussion": "Kegiatan dalam Bab 1 mengarahkan peserta didik membaca label makanan dengan fokus pada gula, garam, dan lemak."
+          "discussion": "GGL adalah singkatan dari gula, garam, dan lemak. Ketiganya perlu diperhatikan saat membaca label makanan."
         },
         {
           "id": "IPAS-B01-M01-025",
@@ -336,7 +336,7 @@
         {
           "id": "IPAS-B01-M01-026",
           "type": "PG",
-          "text": "Dalam kunci Uji Kompetensi Bab 1, minuman rekreasional dijelaskan sebagai minuman yang ....",
+          "text": "Minuman manis yang dikonsumsi untuk kesenangan, seperti soda manis, disebut minuman rekreasional dalam soal ini. Pernyataan yang tepat tentang konsumsinya adalah ....",
           "options": [
             "Harus diminum setiap kali haus",
             "Dapat dikonsumsi sesekali",
@@ -344,7 +344,7 @@
             "Boleh dikonsumsi tanpa batas"
           ],
           "answer": "Dapat dikonsumsi sesekali",
-          "discussion": "Kunci resmi menyebut minuman rekreasional dapat dikonsumsi sesekali, bukan sebagai minuman yang dikonsumsi tanpa batas."
+          "discussion": "Minuman manis sebaiknya dibatasi. Jika dikonsumsi, cukup sesekali dan tidak menggantikan air putih sebagai minuman utama."
         },
         {
           "id": "IPAS-B01-M01-027",
@@ -357,12 +357,12 @@
             "Tubuh tidak pernah memerlukannya"
           ],
           "answer": "Konsumsinya perlu dijaga agar tidak berlebihan",
-          "discussion": "Bab 1 mengajak peserta didik membaca kandungan GGL dan membandingkannya dengan anjuran konsumsi harian."
+          "discussion": "Asupan gula, garam, dan lemak perlu diperhatikan agar tidak berlebihan. Membaca label membantu mengetahui kandungannya."
         },
         {
           "id": "IPAS-B01-M01-028",
           "type": "PG",
-          "text": "Pernyataan yang sesuai dengan penjelasan Panduan Guru tentang pola makan adalah ....",
+          "text": "Pernyataan yang tepat tentang kebutuhan gizi tubuh adalah ....",
           "options": [
             "Membatasi makanan menjadi satu jenis selalu lebih menyehatkan",
             "Satu jenis makanan pasti memenuhi semua kebutuhan tubuh",
@@ -370,7 +370,7 @@
             "Tubuh membutuhkan beragam zat gizi untuk tumbuh dan beraktivitas"
           ],
           "answer": "Tubuh membutuhkan beragam zat gizi untuk tumbuh dan beraktivitas",
-          "discussion": "Panduan Guru mengingatkan bahwa tubuh membutuhkan beragam zat gizi untuk pertumbuhan, perkembangan, dan energi dalam beraktivitas."
+          "discussion": "Tubuh membutuhkan beragam zat gizi untuk pertumbuhan, perbaikan tubuh, dan energi dalam beraktivitas."
         },
         {
           "id": "IPAS-B01-M01-029",
@@ -383,12 +383,12 @@
             "Tubuh hanya membutuhkan suplemen"
           ],
           "answer": "Makanan utuh mengandung beragam nutrisi alami, serat, dan mikronutrien",
-          "discussion": "Panduan Guru menjelaskan bahwa makanan asli dan utuh menyediakan beragam nutrisi alami, serat, serta mikronutrien yang tidak sepenuhnya digantikan suplemen."
+          "discussion": "Makanan utuh dan beragam menyediakan berbagai zat gizi serta serat. Suplemen hanya melengkapi kebutuhan tertentu dan tidak menggantikan keseluruhan makanan."
         },
         {
           "id": "IPAS-B01-M01-030",
           "type": "PG",
-          "text": "Dara alergi terhadap protein hewani seperti daging dan ikan. Pilihan sumber protein pengganti yang dicontohkan dalam buku adalah ....",
+          "text": "Dara ingin menambahkan sumber protein dari tumbuhan ke dalam menunya. Kelompok makanan yang sesuai adalah ....",
           "options": [
             "Permen, sirup, dan gula",
             "Tahu, tempe, dan kacang-kacangan",
@@ -396,12 +396,12 @@
             "Kerupuk dan minuman manis"
           ],
           "answer": "Tahu, tempe, dan kacang-kacangan",
-          "discussion": "Kunci Uji Kompetensi menyarankan protein nabati seperti tahu, tempe, dan kacang-kacangan sebagai pengganti protein hewani bagi Dara."
+          "discussion": "Tahu, tempe, dan kacang-kacangan merupakan sumber protein nabati karena berasal dari tumbuhan."
         },
         {
           "id": "IPAS-B01-M01-031",
           "type": "PG",
-          "text": "Perhatikan sebuah minuman kemasan yang termasuk minuman rekreasional. Sikap konsumsi yang paling sesuai dengan penjelasan buku adalah ....",
+          "text": "Rani menyukai minuman kemasan tinggi gula. Sikap yang paling tepat terhadap minuman tersebut adalah ....",
           "options": [
             "Menjadikannya pengganti air putih setiap hari",
             "Meminumnya sebanyak mungkin",
@@ -409,7 +409,7 @@
             "Menganggapnya sebagai satu-satunya sumber gizi"
           ],
           "answer": "Mengonsumsinya sesekali",
-          "discussion": "Panduan Guru menyebut minuman rekreasional dapat dikonsumsi sesekali. Peserta didik juga diminta mempertimbangkan kandungan gula, garam, dan lemak."
+          "discussion": "Minuman tinggi gula perlu dibatasi. Mengonsumsinya sesekali lebih tepat daripada menjadikannya pengganti air putih atau meminumnya tanpa batas."
         },
         {
           "id": "IPAS-B01-M01-032",
@@ -448,12 +448,12 @@
             "Bentuk bungkus makanan"
           ],
           "answer": "Informasi gula, garam, dan lemak pada label dengan memperhatikan takaran sajinya",
-          "discussion": "Kegiatan Bab 1 meminta peserta didik membaca dan mencatat GGL pada label. Takaran saji perlu diperhatikan agar perbandingan tidak keliru."
+          "discussion": "Label memberikan informasi kandungan GGL. Perhatikan takaran saji agar dapat membandingkan jumlah gula, garam, dan lemak pada jumlah makanan yang setara."
         },
         {
           "id": "IPAS-B01-M01-035",
           "type": "PG",
-          "text": "Seseorang hanya mengonsumsi satu jenis makanan karena menganggapnya paling sehat. Penilaian yang tepat berdasarkan Bab 1 adalah ....",
+          "text": "Seseorang hanya mengonsumsi satu jenis makanan karena menganggapnya paling sehat. Penilaian yang tepat adalah ....",
           "options": [
             "Tepat karena satu jenis makanan selalu mencukupi semua kebutuhan",
             "Tepat karena tubuh tidak memerlukan variasi makanan",
@@ -461,7 +461,7 @@
             "Kurang tepat karena tubuh tidak membutuhkan makanan"
           ],
           "answer": "Kurang tepat karena tubuh memerlukan beragam zat gizi",
-          "discussion": "Panduan Guru secara khusus mengoreksi anggapan bahwa hanya mengonsumsi satu jenis makanan lebih menyehatkan. Tubuh memerlukan beragam zat gizi."
+          "discussion": "Satu jenis makanan tidak menyediakan seluruh kebutuhan gizi secara seimbang. Tubuh memerlukan makanan yang beragam."
         },
         {
           "id": "IPAS-B01-M01-036",
@@ -487,7 +487,7 @@
             "Sari-sari makanan tidak perlu diserap tubuh"
           ],
           "answer": "Sari-sari makanan terutama diserap oleh dinding usus halus",
-          "discussion": "Menurut Panduan Guru, dinding usus halus menyerap sari-sari makanan untuk diedarkan ke seluruh tubuh."
+          "discussion": "Dinding usus halus terutama menyerap sari-sari makanan untuk digunakan oleh tubuh."
         },
         {
           "id": "IPAS-B01-M01-038",
@@ -526,7 +526,7 @@
             "Bahan makanan tersebut mewakili kelompok zat gizi yang berbeda"
           ],
           "answer": "Bahan makanan tersebut mewakili kelompok zat gizi yang berbeda",
-          "discussion": "Dalam kunci Uji Kompetensi, nasi termasuk karbohidrat; ayam termasuk lemak dan protein; sayur serta buah termasuk vitamin dan mineral; air putih termasuk air dan mineral."
+          "discussion": "Nasi menyumbang karbohidrat; ayam menyumbang protein dan lemak; sayur dan buah menyumbang vitamin, mineral, serta serat. Air putih membantu memenuhi kebutuhan cairan."
         },
         {
           "id": "IPAS-B01-M01-041",
@@ -557,28 +557,28 @@
         {
           "id": "IPAS-B01-M01-043",
           "type": "PG",
-          "text": "Seorang anak sering memilih minuman tinggi gula dan mengonsumsinya secara berlebihan. Menurut kunci Uji Kompetensi Bab 1, kemungkinan dampak kesehatan yang disebutkan adalah ....",
+          "text": "Kebiasaan sering mengonsumsi minuman tinggi gula secara berlebihan berkaitan dengan meningkatnya risiko ....",
           "options": [
             "Rabun jauh, tuli, atau patah tulang",
             "Flu, batuk, atau pilek saja",
-            "Diabetes, diare, atau obesitas",
+            "Obesitas dan diabetes tipe 2",
             "Luka, memar, atau keseleo"
           ],
-          "answer": "Diabetes, diare, atau obesitas",
-          "discussion": "Kunci resmi Uji Kompetensi menyebut diabetes, diare, atau obesitas sebagai kemungkinan dampak jika minuman tinggi gula dikonsumsi terlalu banyak."
+          "answer": "Obesitas dan diabetes tipe 2",
+          "discussion": "Konsumsi minuman tinggi gula yang sering dan berlebihan berkaitan dengan risiko obesitas dan diabetes tipe 2. Risiko bukan berarti setiap peminumnya pasti mengalami penyakit tersebut."
         },
         {
           "id": "IPAS-B01-M01-044",
           "type": "PG",
-          "text": "Pernyataan yang tepat untuk membedakan maag dan GERD berdasarkan bacaan Bab 1 adalah ....",
+          "text": "Pernyataan yang tepat untuk membedakan gastritis dan GERD adalah ....",
           "options": [
-            "Maag terjadi karena infeksi virus, sedangkan GERD terjadi karena bakteri di usus besar",
-            "Maag adalah penumpukan lemak, sedangkan GERD adalah kekurangan vitamin",
-            "Maag dan GERD merupakan penyakit yang sama dan tidak memiliki perbedaan",
-            "Maag berkaitan dengan iritasi dinding lambung dan peningkatan asam lambung, sedangkan GERD terjadi ketika asam lambung naik ke tenggorokan"
+            "Gastritis terjadi karena infeksi virus, sedangkan GERD terjadi karena bakteri di usus besar",
+            "Gastritis adalah penumpukan lemak, sedangkan GERD adalah kekurangan vitamin",
+            "Gastritis dan GERD merupakan penyakit yang sama dan tidak memiliki perbedaan",
+            "Gastritis adalah peradangan lapisan lambung, sedangkan GERD melibatkan naiknya isi lambung ke kerongkongan secara berulang"
           ],
-          "answer": "Maag berkaitan dengan iritasi dinding lambung dan peningkatan asam lambung, sedangkan GERD terjadi ketika asam lambung naik ke tenggorokan",
-          "discussion": "Buku menjelaskan bahwa maag berkaitan dengan iritasi dinding lambung dan peningkatan asam lambung. GERD terjadi ketika otot esofagus bagian bawah melemah sehingga asam lambung naik ke tenggorokan."
+          "answer": "Gastritis adalah peradangan lapisan lambung, sedangkan GERD melibatkan naiknya isi lambung ke kerongkongan secara berulang",
+          "discussion": "Gastritis adalah peradangan lapisan lambung. Pada GERD, isi lambung naik kembali ke kerongkongan secara berulang hingga menimbulkan keluhan atau komplikasi."
         },
         {
           "id": "IPAS-B01-M01-045",
@@ -591,12 +591,12 @@
             "Mengonsumsi makanan yang beragam"
           ],
           "answer": "Mengonsumsi makanan atau minuman yang tercemar kuman akibat lingkungan dan sanitasi yang buruk",
-          "discussion": "Buku menjelaskan bahwa diare pada anak umumnya dapat disebabkan infeksi virus atau bakteri. Lingkungan kotor dan sanitasi buruk meningkatkan kemungkinan makanan atau minuman tercemar kuman."
+          "discussion": "Makanan atau minuman yang tercemar kuman dapat menyebabkan infeksi saluran pencernaan dan diare. Kebersihan lingkungan dan sanitasi membantu mencegah pencemaran."
         },
         {
           "id": "IPAS-B01-M01-046",
           "type": "PG",
-          "text": "Perhatikan kebiasaan berikut: (1) makan dalam porsi sangat banyak, (2) sering mengonsumsi makanan dan minuman berkalori tinggi, (3) sering makan makanan olahan dan siap saji, (4) melakukan aktivitas fisik secara teratur. Kebiasaan yang disebut dalam buku sebagai faktor yang dapat menyebabkan obesitas adalah ....",
+          "text": "Perhatikan kebiasaan berikut:\n(1) Sering makan dalam porsi yang melebihi kebutuhan energi tubuh.\n(2) Sering mengonsumsi makanan dan minuman tinggi kalori hingga asupan energi berlebihan.\n(3) Sering makan makanan olahan dan siap saji tinggi kalori secara berlebihan.\n(4) Melakukan aktivitas fisik secara teratur.\n\nKebiasaan yang dapat meningkatkan risiko obesitas adalah ....",
           "options": [
             "(1) dan (4)",
             "(1), (2), dan (3)",
@@ -604,7 +604,7 @@
             "(4) saja"
           ],
           "answer": "(1), (2), dan (3)",
-          "discussion": "Buku menyebut kebiasaan makan dalam porsi banyak, konsumsi makanan dan minuman berkalori tinggi, serta sering makan makanan olahan dan siap saji sebagai beberapa faktor yang dapat menyebabkan obesitas. Penurunan aktivitas fisik juga termasuk faktor risiko."
+          "discussion": "Kebiasaan (1), (2), dan (3) dapat membuat asupan energi berlebihan. Aktivitas fisik secara teratur mendukung keseimbangan penggunaan energi tubuh."
         },
         {
           "id": "IPAS-B01-M01-047",
@@ -630,12 +630,12 @@
             "Lambung mengolah makanan menjadi kimus, lalu usus halus mencampurnya dengan enzim pankreas dan asam empedu serta menyerap sari makanan"
           ],
           "answer": "Lambung mengolah makanan menjadi kimus, lalu usus halus mencampurnya dengan enzim pankreas dan asam empedu serta menyerap sari makanan",
-          "discussion": "Panduan Guru menjelaskan urutan proses tersebut: makanan menjadi kimus di lambung, kemudian diproses dan sari-sarinya diserap di usus halus."
+          "discussion": "Lambung mengolah makanan menjadi kimus. Di usus halus, makanan diproses dengan bantuan enzim pankreas dan empedu, kemudian sari-sarinya diserap."
         },
         {
           "id": "IPAS-B01-M01-049",
           "type": "PG",
-          "text": "Dara alergi terhadap protein hewani seperti daging dan ikan. Menu pengganti yang paling sesuai dengan arahan kunci Uji Kompetensi adalah ....",
+          "text": "Dara menyusun menu dengan sumber protein dari tumbuhan. Menu yang sesuai dengan pilihannya adalah ....",
           "options": [
             "Menu yang mengandung protein nabati dari tahu, tempe, atau kacang-kacangan",
             "Menu yang menghilangkan seluruh sumber protein",
@@ -643,12 +643,12 @@
             "Menu yang hanya terdiri atas nasi"
           ],
           "answer": "Menu yang mengandung protein nabati dari tahu, tempe, atau kacang-kacangan",
-          "discussion": "Kunci Uji Kompetensi menyebut protein hewani dapat diganti dengan protein nabati seperti tahu, tempe, dan kacang-kacangan."
+          "discussion": "Tahu, tempe, dan kacang-kacangan dapat menjadi sumber protein dari tumbuhan. Menu tetap perlu beragam agar mencukupi berbagai kebutuhan gizi."
         },
         {
           "id": "IPAS-B01-M01-050",
           "type": "PG",
-          "text": "Sebuah kelompok menyusun strategi menjaga kesehatan pencernaan. Strategi yang paling sesuai dengan tujuan pembelajaran Bab 1 adalah ....",
+          "text": "Sebuah kelompok menyusun strategi menjaga kesehatan pencernaan. Strategi yang paling tepat adalah ....",
           "options": [
             "Menghafalkan nama organ tanpa memahami fungsinya",
             "Menggunakan pemahaman organ pencernaan, memilih makanan bergizi beragam, dan menerapkan gaya hidup sehat",
@@ -656,7 +656,7 @@
             "Mengabaikan kandungan gizi dan kebiasaan hidup"
           ],
           "answer": "Menggunakan pemahaman organ pencernaan, memilih makanan bergizi beragam, dan menerapkan gaya hidup sehat",
-          "discussion": "Tujuan Bab 1 adalah menerapkan cara menjaga kesehatan diri dengan memahami sistem pencernaan, kandungan gizi, gangguan pencernaan, dan cara menjaga kesehatannya."
+          "discussion": "Memahami fungsi organ, memilih makanan bergizi yang beragam, serta menerapkan kebiasaan sehat membantu menjaga kesehatan pencernaan."
         }
       ]
     }
