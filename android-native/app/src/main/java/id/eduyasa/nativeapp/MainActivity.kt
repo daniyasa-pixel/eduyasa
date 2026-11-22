@@ -101,9 +101,7 @@ private fun EduyasaApp() {
     var reportOpen by remember { mutableStateOf(false) }
     var leaveOpen by remember { mutableStateOf(false) }
     var zoomImage by remember { mutableStateOf<String?>(null) }
-    var audioNotice by remember { mutableStateOf(false) }
-    val tts = remember { TextToSpeech(context.applicationContext) {} }
-    DisposableEffect(tts) { onDispose { tts.stop(); tts.shutdown() } }
+    val audioEngine = rememberEduAudioPlayer()
     val subjects = catalog[grade].orEmpty()
 
     fun reset() {
@@ -191,6 +189,10 @@ private fun EduyasaApp() {
     BackHandler(enabled = page != Page.HOME) { back() }
     LaunchedEffect(grade) {
         if (grade == 3 || grade == 6) connected = EduyasaRepository.checkConnection(grade)
+    }
+    LaunchedEffect(page, qIndex) {
+        if (page != Page.QUIZ) audioEngine.stop()
+        else audioEngine.stop()
     }
     LaunchedEffect(page, activeProfileId, savedRevision) {
         val profileId = activeProfileId
@@ -475,7 +477,7 @@ private fun EduyasaApp() {
                                     Text("Modul Terpilih: " + lesson.moduleTitle + " (Versi " + lesson.version + ")",
                                         color = Muted, fontSize = 11.sp)
                                     Spacer(Modifier.height(12.dp))
-                                    MarkdownLite(lesson.content)
+                                    EduMaterialContent(lesson.content) { url -> zoomImage = url }
                                 }
                             }
                         }
@@ -531,27 +533,37 @@ private fun EduyasaApp() {
                                 color = Blue, trackColor = Line
                             )
                             Spacer(Modifier.height(19.dp))
-                            Text(mathLite(q.text), fontSize = 16.sp, fontWeight = FontWeight.Bold,
-                                lineHeight = 25.sp, modifier = Modifier.testTag("quizQText"))
+                            EduRichText(q.text, modifier = Modifier.testTag("quizQText"),
+                                sizeSp = 17f)
                             Text("ID: " + q.id, color = Muted, fontSize = 10.sp)
                             if (!q.imageUrl.isNullOrBlank()) {
                                 Spacer(Modifier.height(13.dp))
-                                AsyncImage(model = q.imageUrl, contentDescription = "Gambar pertanyaan",
-                                    modifier = Modifier.fillMaxWidth().heightIn(max = 300.dp)
-                                        .clip(RoundedCornerShape(12.dp))
-                                        .clickable { zoomImage = q.imageUrl })
-                                Text("Ketuk gambar untuk memperbesar", color = Muted, fontSize = 11.sp)
+                                EduRemoteImage(
+                                    source = q.imageUrl,
+                                    description = q.imageAlt?.takeIf(String::isNotBlank)
+                                        ?: "Gambar pertanyaan",
+                                    modifier = Modifier.fillMaxWidth()
+                                        .testTag("quizQImage"),
+                                    onClick = {
+                                        resolveEduMedia(q.imageUrl)?.let { zoomImage = it }
+                                    }
+                                )
+                                Text("Ketuk gambar untuk memperbesar", color = Muted,
+                                    fontSize = 11.sp)
                             }
                             if (!q.audioType.isNullOrBlank()) {
                                 Spacer(Modifier.height(10.dp))
                                 OutlinedButton(
                                     onClick = {
-                                        if (q.audioType == "tts" && !q.audioText.isNullOrBlank()) {
-                                            tts.speak(q.audioText, TextToSpeech.QUEUE_FLUSH, null, "eduyasa_audio")
-                                        } else audioNotice = true
+                                        audioEngine.play(q.audioType, q.audioText,
+                                            q.audioLang, q.audioRate, q.audioUrl)
                                     },
                                     modifier = Modifier.testTag("quizQAudio")
-                                ) { Text(q.audioLabel?.takeIf(String::isNotBlank) ?: "▶ DENGARKAN SUARA") }
+                                ) { Text(q.audioLabel?.takeIf(String::isNotBlank) ?: "🔊 DENGARKAN SUARA") }
+                                if (audioEngine.status.isNotBlank()) Text(
+                                    audioEngine.status, color = Muted, fontSize = 12.sp,
+                                    modifier = Modifier.testTag("listening-status")
+                                )
                             }
                             Spacer(Modifier.height(16.dp))
                             options.forEachIndexed { i, option ->
@@ -576,9 +588,12 @@ private fun EduyasaApp() {
                                     shape = RoundedCornerShape(12.dp),
                                     color = bg, border = BorderStroke(2.dp, border)
                                 ) {
-                                    Text("ABCD"[i].toString() + ". " + mathLite(option),
-                                        modifier = Modifier.padding(15.dp),
-                                        fontSize = 14.sp, lineHeight = 21.sp)
+                                    Row(Modifier.fillMaxWidth().padding(15.dp)) {
+                                        Text("ABCD"[i].toString() + ". ",
+                                            fontWeight = FontWeight.Bold, fontSize = 14.sp)
+                                        EduRichText(option, sizeSp = 14f,
+                                            modifier = Modifier.weight(1f))
+                                    }
                                 }
                             }
                             if (checked) {
@@ -590,7 +605,7 @@ private fun EduyasaApp() {
                                     Text("Jawaban benar: " + correctLabel, color = Green)
                                     Spacer(Modifier.height(8.dp))
                                     Text("Pembahasan:", color = Blue, fontWeight = FontWeight.Bold)
-                                    Text(mathLite(q.discussion), fontSize = 14.sp, lineHeight = 22.sp)
+                                    EduRichText(q.discussion, sizeSp = 14f)
                                 }
                             }
                             Primary(
@@ -816,12 +831,6 @@ private fun EduyasaApp() {
             }
         )
     }
-    if (audioNotice) AlertDialog(
-        onDismissRequest = { audioNotice = false },
-        title = { Text("Audio latihan") },
-        text = { Text("Audio jenis ini belum tersedia di versi Native tahap pertama.") },
-        confirmButton = { TextButton(onClick = { audioNotice = false }) { Text("TUTUP") } }
-    )
     zoomImage?.let { url ->
         var scale by remember(url) { mutableFloatStateOf(1f) }
         AlertDialog(
@@ -829,7 +838,7 @@ private fun EduyasaApp() {
             title = { Text("Lihat gambar") },
             text = {
                 Column {
-                    AsyncImage(model = url, contentDescription = "Gambar diperbesar",
+                    EduRemoteImage(source = url, description = "Gambar diperbesar",
                         modifier = Modifier.fillMaxWidth().height(350.dp)
                             .graphicsLayer(scaleX = scale, scaleY = scale))
                     Row(horizontalArrangement = Arrangement.spacedBy(12.dp)) {
@@ -970,30 +979,6 @@ private fun SemesterSectionHeader(
     }
 }
 
-@Composable private fun MarkdownLite(source: String) {
-    Column(Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp))
-        .background(Color(0xFFF8FAFC)).padding(13.dp)) {
-        source.lineSequence().forEach { raw ->
-            val line = raw.trim()
-            if (line.isBlank()) Spacer(Modifier.height(6.dp))
-            else if (line.startsWith("![")) {
-                Text("🖼 Ilustrasi materi", color = Muted, fontSize = 12.sp)
-            } else {
-                val isTitle = line.startsWith("#")
-                val output = mathLite(line.trimStart('#', ' ', '-', '*').replace("**", ""))
-                Text(output, color = if (isTitle) DarkBlue else Color(0xFF172033),
-                    fontSize = if (isTitle) 17.sp else 14.sp,
-                    fontWeight = if (isTitle) FontWeight.Bold else FontWeight.Normal,
-                    lineHeight = 23.sp)
-            }
-        }
-    }
-}
-private fun mathLite(text: String): String =
-    text.replace("\\times", "×").replace("\\div", "÷")
-        .replace("\\cdot", "·").replace("\\%", "%")
-        .replace("\\(", "").replace("\\)", "")
-        .replace("$", "").replace("**", "")
 private fun normalizePhone(raw: String): String? {
     val all = raw.filter(Char::isDigit)
     val local = when {
