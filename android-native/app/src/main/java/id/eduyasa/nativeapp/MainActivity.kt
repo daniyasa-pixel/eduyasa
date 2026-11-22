@@ -484,7 +484,19 @@ private fun EduyasaApp() {
                         }
                         Spacer(Modifier.height(20.dp))
                         Primary("📩 KIRIM LAPORAN", "btnOpenReport") { reportOpen = true }
-                        Secondary("ULANGI KUIS", "btnRetryQuiz") { resetQuiz() }
+                        Secondary("ULANGI KUIS", "btnRetryQuiz") {
+                            if (!busy) scope.launch {
+                                busy = true
+                                errorText = ""
+                                try {
+                                    quiz = EduyasaRepository.questions(grade, selections())
+                                    resetQuiz()
+                                } catch (e: Exception) {
+                                    errorText = e.message ?: "Gagal menyiapkan kuis ulang."
+                                } finally { busy = false }
+                            }
+                        }
+                        if (errorText.isNotBlank()) ErrorMessage(errorText)
                         Secondary("⌂ KEMBALI KE AWAL", "btnBackToHome") { leaveOpen = true }
                         Text("Jangan lupa bagikan hasil belajarmu, ya! 🌟",
                             fontSize = 11.sp, color = Muted, textAlign = TextAlign.Center,
