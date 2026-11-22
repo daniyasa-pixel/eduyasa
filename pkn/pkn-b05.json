@@ -11,7 +11,7 @@
         {
           "id": "PKN-B05-001",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang keberagaman budaya?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan keberagaman budaya?",
           "options": [
             "Indonesia memiliki beragam suku, bahasa, adat, kesenian, dan kebiasaan.",
             " Bukan menganggap semua daerah memiliki budaya sama.",
@@ -19,7 +19,7 @@
             "Keberagaman merupakan kekayaan bangsa."
           ],
           "answer": "Indonesia memiliki beragam suku, bahasa, adat, kesenian, dan kebiasaan.",
-          "discussion": "Materi bab menjelaskan bahwa indonesia memiliki beragam suku, bahasa, adat, kesenian, dan kebiasaan."
+          "discussion": "Indonesia memiliki beragam suku, bahasa, adat, kesenian, dan kebiasaan. Pernyataan ini menjelaskan gagasan utama tentang keberagaman budaya; contoh atau dampaknya merupakan hal berbeda."
         },
         {
           "id": "PKN-B05-002",
@@ -32,25 +32,25 @@
             "Indonesia memiliki beragam suku, bahasa, adat, kesenian, dan kebiasaan."
           ],
           "answer": "Mengenal tarian, pakaian, rumah, makanan, dan lagu daerah.",
-          "discussion": "Contoh tersebut sesuai karena mengenal tarian, pakaian, rumah, makanan, dan lagu daerah."
+          "discussion": "Contoh nyata keberagaman budaya yang dimaksud ialah: Mengenal tarian, pakaian, rumah, makanan, dan lagu daerah. Perhatikan tindakan atau wujud budaya yang disebutkan pada pilihan."
         },
         {
           "id": "PKN-B05-003",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait keberagaman budaya adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai keberagaman budaya?",
           "options": [
             "Indonesia memiliki beragam suku, bahasa, adat, kesenian, dan kebiasaan.",
             "Mengenal tarian, pakaian, rumah, makanan, dan lagu daerah.",
-            "Bukan menganggap semua daerah memiliki budaya sama.",
+            "Semua daerah di Indonesia memiliki bahasa, adat, dan kesenian yang persis sama.",
             "Keberagaman merupakan kekayaan bangsa."
           ],
-          "answer": "Bukan menganggap semua daerah memiliki budaya sama.",
-          "discussion": "Hal yang perlu dihindari adalah bukan menganggap semua daerah memiliki budaya sama."
+          "answer": "Semua daerah di Indonesia memiliki bahasa, adat, dan kesenian yang persis sama.",
+          "discussion": "Pernyataan “Semua daerah di Indonesia memiliki bahasa, adat, dan kesenian yang persis sama.” keliru. Indonesia memiliki beragam suku, bahasa, adat, kesenian, dan kebiasaan. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
         },
         {
           "id": "PKN-B05-004",
           "type": "PG",
-          "text": "Mengapa keberagaman budaya penting dalam kehidupan bersama?",
+          "text": "Apa manfaat atau arti penting memahami keberagaman budaya?",
           "options": [
             "Bukan menganggap semua daerah memiliki budaya sama.",
             "Indonesia memiliki beragam suku, bahasa, adat, kesenian, dan kebiasaan.",
@@ -58,25 +58,25 @@
             "Keberagaman merupakan kekayaan bangsa."
           ],
           "answer": "Keberagaman merupakan kekayaan bangsa.",
-          "discussion": "Manfaatnya adalah keberagaman merupakan kekayaan bangsa."
+          "discussion": "Keberagaman merupakan kekayaan bangsa. Hal itu penting karena berkaitan dengan menghargai sesama dan kehidupan bersama."
         },
         {
           "id": "PKN-B05-005",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan keberagaman budaya?",
+          "text": "Dalam pameran sekolah, Lala melihat tarian dari Aceh, pakaian adat dari Bali, dan lagu daerah dari Maluku. Ia menyadari setiap daerah mempunyai ciri budaya yang berbeda. Kesimpulan paling tepat adalah ...",
           "options": [
-            "Mengenal tarian, pakaian, rumah, makanan, dan lagu daerah.",
-            "Bukan menganggap semua daerah memiliki budaya sama.",
-            "Keberagaman merupakan kekayaan bangsa.",
-            "Indonesia memiliki beragam suku, bahasa, adat, kesenian, dan kebiasaan."
+            "Perbedaan budaya daerah merupakan kekayaan bangsa yang patut dihargai.",
+            "Semua daerah sebaiknya memakai satu budaya saja.",
+            "Budaya daerah tertentu pasti lebih baik daripada semua budaya lain.",
+            "Perbedaan budaya membuat warga tidak bisa bekerja sama."
           ],
-          "answer": "Mengenal tarian, pakaian, rumah, makanan, dan lagu daerah.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang keberagaman budaya. Mengenal tarian, pakaian, rumah, makanan, dan lagu daerah."
+          "answer": "Perbedaan budaya daerah merupakan kekayaan bangsa yang patut dihargai.",
+          "discussion": "Perbedaan budaya daerah merupakan kekayaan bangsa yang patut dihargai. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
         },
         {
           "id": "PKN-B05-006",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang rumah adat?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan rumah adat?",
           "options": [
             " Bukan menyebut semua rumah adat berasal dari satu daerah.",
             "Rumah adat menjadi salah satu bentuk kekayaan budaya daerah.",
@@ -84,7 +84,7 @@
             "Mengenal rumah adat membantu menghargai budaya."
           ],
           "answer": "Rumah adat menjadi salah satu bentuk kekayaan budaya daerah.",
-          "discussion": "Materi bab menjelaskan bahwa rumah adat menjadi salah satu bentuk kekayaan budaya daerah."
+          "discussion": "Rumah adat menjadi salah satu bentuk kekayaan budaya daerah. Pernyataan ini menjelaskan gagasan utama tentang rumah adat; contoh atau dampaknya merupakan hal berbeda."
         },
         {
           "id": "PKN-B05-007",
@@ -97,25 +97,25 @@
             "Rumah adat menjadi salah satu bentuk kekayaan budaya daerah."
           ],
           "answer": "Rumah Gadang dari Sumatra Barat, Honai dari Papua, dan Betang dari Kalimantan.",
-          "discussion": "Contoh tersebut sesuai karena rumah Gadang dari Sumatra Barat, Honai dari Papua, dan Betang dari Kalimantan."
+          "discussion": "Contoh nyata rumah adat yang dimaksud ialah: Rumah Gadang dari Sumatra Barat, Honai dari Papua, dan Betang dari Kalimantan. Perhatikan tindakan atau wujud budaya yang disebutkan pada pilihan."
         },
         {
           "id": "PKN-B05-008",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait rumah adat adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai rumah adat?",
           "options": [
             "Rumah adat menjadi salah satu bentuk kekayaan budaya daerah.",
             "Rumah Gadang dari Sumatra Barat, Honai dari Papua, dan Betang dari Kalimantan.",
             "Mengenal rumah adat membantu menghargai budaya.",
-            "Bukan menyebut semua rumah adat berasal dari satu daerah."
+            "Semua rumah adat di Indonesia berasal dari satu daerah yang sama."
           ],
-          "answer": "Bukan menyebut semua rumah adat berasal dari satu daerah.",
-          "discussion": "Hal yang perlu dihindari adalah bukan menyebut semua rumah adat berasal dari satu daerah."
+          "answer": "Semua rumah adat di Indonesia berasal dari satu daerah yang sama.",
+          "discussion": "Pernyataan “Semua rumah adat di Indonesia berasal dari satu daerah yang sama.” keliru. Rumah adat menjadi salah satu bentuk kekayaan budaya daerah. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
         },
         {
           "id": "PKN-B05-009",
           "type": "PG",
-          "text": "Mengapa rumah adat penting dalam kehidupan bersama?",
+          "text": "Apa manfaat atau arti penting memahami rumah adat?",
           "options": [
             "Mengenal rumah adat membantu menghargai budaya.",
             "Bukan menyebut semua rumah adat berasal dari satu daerah.",
@@ -123,25 +123,25 @@
             "Rumah Gadang dari Sumatra Barat, Honai dari Papua, dan Betang dari Kalimantan."
           ],
           "answer": "Mengenal rumah adat membantu menghargai budaya.",
-          "discussion": "Manfaatnya adalah mengenal rumah adat membantu menghargai budaya."
+          "discussion": "Mengenal rumah adat membantu menghargai budaya. Hal itu penting karena berkaitan dengan menghargai sesama dan kehidupan bersama."
         },
         {
           "id": "PKN-B05-010",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan rumah adat?",
+          "text": "Di museum, Ilham menemukan gambar Rumah Gadang, Honai, dan Betang dengan keterangan daerah asal yang berbeda. Sikap belajar yang paling tepat adalah ...",
           "options": [
-            "Bukan menyebut semua rumah adat berasal dari satu daerah.",
-            "Rumah Gadang dari Sumatra Barat, Honai dari Papua, dan Betang dari Kalimantan.",
-            "Mengenal rumah adat membantu menghargai budaya.",
-            "Rumah adat menjadi salah satu bentuk kekayaan budaya daerah."
+            "Menyebut ketiganya berasal dari satu daerah tanpa memeriksa.",
+            "Mencari tahu asal serta ciri setiap rumah adat dan menghargainya.",
+            "Menganggap rumah adat lain tidak penting dipelajari.",
+            "Menilai semua rumah adat harus mempunyai bentuk yang sama."
           ],
-          "answer": "Rumah Gadang dari Sumatra Barat, Honai dari Papua, dan Betang dari Kalimantan.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang rumah adat. Rumah Gadang dari Sumatra Barat, Honai dari Papua, dan Betang dari Kalimantan."
+          "answer": "Mencari tahu asal serta ciri setiap rumah adat dan menghargainya.",
+          "discussion": "Mencari tahu asal serta ciri setiap rumah adat dan menghargainya. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
         },
         {
           "id": "PKN-B05-011",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang alat musik tradisional?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan alat musik tradisional?",
           "options": [
             " Bukan menganggap alat musik daerah hanya satu jenis.",
             " Sasando, tifa, bonang, gambus, dan sampe.",
@@ -149,7 +149,7 @@
             "Alat musik menunjukkan kekayaan seni daerah."
           ],
           "answer": "Indonesia memiliki alat musik daerah yang beragam.",
-          "discussion": "Materi bab menjelaskan bahwa indonesia memiliki alat musik daerah yang beragam."
+          "discussion": "Indonesia memiliki alat musik daerah yang beragam. Pernyataan ini menjelaskan gagasan utama tentang alat musik tradisional; contoh atau dampaknya merupakan hal berbeda."
         },
         {
           "id": "PKN-B05-012",
@@ -162,25 +162,25 @@
             "Sasando, tifa, bonang, gambus, dan sampe."
           ],
           "answer": "Sasando, tifa, bonang, gambus, dan sampe.",
-          "discussion": "Contoh tersebut sesuai karena sasando, tifa, bonang, gambus, dan sampe."
+          "discussion": "Contoh nyata alat musik tradisional yang dimaksud ialah: Sasando, tifa, bonang, gambus, dan sampe. Perhatikan tindakan atau wujud budaya yang disebutkan pada pilihan."
         },
         {
           "id": "PKN-B05-013",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait alat musik tradisional adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai alat musik tradisional?",
           "options": [
-            "Bukan menganggap alat musik daerah hanya satu jenis.",
+            "Indonesia hanya mempunyai satu jenis alat musik tradisional.",
             "Indonesia memiliki alat musik daerah yang beragam.",
             "Sasando, tifa, bonang, gambus, dan sampe.",
             "Alat musik menunjukkan kekayaan seni daerah."
           ],
-          "answer": "Bukan menganggap alat musik daerah hanya satu jenis.",
-          "discussion": "Hal yang perlu dihindari adalah bukan menganggap alat musik daerah hanya satu jenis."
+          "answer": "Indonesia hanya mempunyai satu jenis alat musik tradisional.",
+          "discussion": "Pernyataan “Indonesia hanya mempunyai satu jenis alat musik tradisional.” keliru. Indonesia memiliki alat musik daerah yang beragam. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
         },
         {
           "id": "PKN-B05-014",
           "type": "PG",
-          "text": "Mengapa alat musik tradisional penting dalam kehidupan bersama?",
+          "text": "Apa manfaat atau arti penting memahami alat musik tradisional?",
           "options": [
             "Bukan menganggap alat musik daerah hanya satu jenis.",
             "Alat musik menunjukkan kekayaan seni daerah.",
@@ -188,25 +188,25 @@
             "Sasando, tifa, bonang, gambus, dan sampe."
           ],
           "answer": "Alat musik menunjukkan kekayaan seni daerah.",
-          "discussion": "Manfaatnya adalah alat musik menunjukkan kekayaan seni daerah."
+          "discussion": "Alat musik menunjukkan kekayaan seni daerah. Hal itu penting karena berkaitan dengan menghargai sesama dan kehidupan bersama."
         },
         {
           "id": "PKN-B05-015",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan alat musik tradisional?",
+          "text": "Kelompok musik sekolah mempelajari sasando, tifa, dan bonang dari daerah yang berbeda. Kesimpulan tepat dari kegiatan itu adalah ...",
           "options": [
-            "Bukan menganggap alat musik daerah hanya satu jenis.",
-            "Alat musik menunjukkan kekayaan seni daerah.",
-            "Sasando, tifa, bonang, gambus, dan sampe.",
-            "Indonesia memiliki alat musik daerah yang beragam."
+            "Alat musik daerah semuanya dimainkan dengan cara yang sama.",
+            "Hanya alat musik dari satu daerah yang layak dipelajari.",
+            "Alat musik tradisional menunjukkan keragaman seni dari berbagai daerah.",
+            "Alat musik tradisional tidak mempunyai hubungan dengan budaya."
           ],
-          "answer": "Sasando, tifa, bonang, gambus, dan sampe.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang alat musik tradisional. Sasando, tifa, bonang, gambus, dan sampe."
+          "answer": "Alat musik tradisional menunjukkan keragaman seni dari berbagai daerah.",
+          "discussion": "Alat musik tradisional menunjukkan keragaman seni dari berbagai daerah. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
         },
         {
           "id": "PKN-B05-016",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang agama dan kepercayaan?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan agama dan kepercayaan?",
           "options": [
             " Bukan menyamakan semua tata cara ibadah.",
             " Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu.",
@@ -214,7 +214,7 @@
             "Masyarakat Indonesia memiliki agama dan kepercayaan yang beragam."
           ],
           "answer": "Masyarakat Indonesia memiliki agama dan kepercayaan yang beragam.",
-          "discussion": "Materi bab menjelaskan bahwa masyarakat Indonesia memiliki agama dan kepercayaan yang beragam."
+          "discussion": "Masyarakat Indonesia memiliki agama dan kepercayaan yang beragam. Pernyataan ini menjelaskan gagasan utama tentang agama dan kepercayaan; contoh atau dampaknya merupakan hal berbeda."
         },
         {
           "id": "PKN-B05-017",
@@ -227,25 +227,25 @@
             "Masyarakat Indonesia memiliki agama dan kepercayaan yang beragam."
           ],
           "answer": "Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu.",
-          "discussion": "Contoh tersebut sesuai karena buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu."
+          "discussion": "Contoh nyata agama dan kepercayaan yang dimaksud ialah: Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu. Perhatikan tindakan atau wujud budaya yang disebutkan pada pilihan."
         },
         {
           "id": "PKN-B05-018",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait agama dan kepercayaan adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai agama dan kepercayaan?",
           "options": [
             "Masyarakat Indonesia memiliki agama dan kepercayaan yang beragam.",
-            "Bukan menyamakan semua tata cara ibadah.",
+            "Semua agama dan kepercayaan memiliki tata cara ibadah yang selalu sama.",
             "Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu.",
             "Menghormati keragaman menjaga kerukunan."
           ],
-          "answer": "Bukan menyamakan semua tata cara ibadah.",
-          "discussion": "Hal yang perlu dihindari adalah bukan menyamakan semua tata cara ibadah."
+          "answer": "Semua agama dan kepercayaan memiliki tata cara ibadah yang selalu sama.",
+          "discussion": "Pernyataan “Semua agama dan kepercayaan memiliki tata cara ibadah yang selalu sama.” keliru. Masyarakat Indonesia memiliki agama dan kepercayaan yang beragam. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
         },
         {
           "id": "PKN-B05-019",
           "type": "PG",
-          "text": "Mengapa agama dan kepercayaan penting dalam kehidupan bersama?",
+          "text": "Apa manfaat atau arti penting memahami agama dan kepercayaan?",
           "options": [
             "Bukan menyamakan semua tata cara ibadah.",
             "Masyarakat Indonesia memiliki agama dan kepercayaan yang beragam.",
@@ -253,25 +253,25 @@
             "Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu."
           ],
           "answer": "Menghormati keragaman menjaga kerukunan.",
-          "discussion": "Manfaatnya adalah menghormati keragaman menjaga kerukunan."
+          "discussion": "Menghormati keragaman menjaga kerukunan. Hal itu penting karena berkaitan dengan menghargai sesama dan kehidupan bersama."
         },
         {
           "id": "PKN-B05-020",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan agama dan kepercayaan?",
+          "text": "Sekolah mengatur kegiatan bersama agar siswa dari berbagai agama dan kepercayaan tetap dapat menjalankan ibadah masing-masing. Keputusan paling menghargai perbedaan adalah ...",
           "options": [
-            "Bukan menyamakan semua tata cara ibadah.",
-            "Menghormati keragaman menjaga kerukunan.",
-            "Masyarakat Indonesia memiliki agama dan kepercayaan yang beragam.",
-            "Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu."
+            "Meminta semua siswa mengikuti satu tata cara ibadah.",
+            "Melarang siswa yang berbeda keyakinan mengikuti kegiatan sekolah.",
+            "Menentukan nilai siswa dari kesamaan cara beribadah.",
+            "Memberi kesempatan setiap siswa beribadah sesuai keyakinannya."
           ],
-          "answer": "Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang agama dan kepercayaan. Buku menyebut Islam, Hindu, Buddha, Kristen, Katolik, dan Khonghucu."
+          "answer": "Memberi kesempatan setiap siswa beribadah sesuai keyakinannya.",
+          "discussion": "Memberi kesempatan setiap siswa beribadah sesuai keyakinannya. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
         },
         {
           "id": "PKN-B05-021",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang bhinneka tunggal ika?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan bhinneka tunggal ika?",
           "options": [
             "Semboyan ini mengingatkan bahwa meskipun berbeda-beda, bangsa Indonesia tetap satu.",
             " Bukan menghapus identitas budaya masing-masing.",
@@ -279,7 +279,7 @@
             "Persatuan dapat tumbuh di tengah perbedaan."
           ],
           "answer": "Semboyan ini mengingatkan bahwa meskipun berbeda-beda, bangsa Indonesia tetap satu.",
-          "discussion": "Materi bab menjelaskan bahwa semboyan ini mengingatkan bahwa meskipun berbeda-beda, bangsa Indonesia tetap satu."
+          "discussion": "Semboyan ini mengingatkan bahwa meskipun berbeda-beda, bangsa Indonesia tetap satu. Pernyataan ini menjelaskan gagasan utama tentang bhinneka tunggal ika; contoh atau dampaknya merupakan hal berbeda."
         },
         {
           "id": "PKN-B05-022",
@@ -292,25 +292,25 @@
             "Semboyan ini mengingatkan bahwa meskipun berbeda-beda, bangsa Indonesia tetap satu."
           ],
           "answer": "Tetap berteman dan bekerja sama meski memiliki budaya berbeda.",
-          "discussion": "Contoh tersebut sesuai karena tetap berteman dan bekerja sama meski memiliki budaya berbeda."
+          "discussion": "Contoh nyata bhinneka tunggal ika yang dimaksud ialah: Tetap berteman dan bekerja sama meski memiliki budaya berbeda. Perhatikan tindakan atau wujud budaya yang disebutkan pada pilihan."
         },
         {
           "id": "PKN-B05-023",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait bhinneka tunggal ika adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai bhinneka tunggal ika?",
           "options": [
             "Semboyan ini mengingatkan bahwa meskipun berbeda-beda, bangsa Indonesia tetap satu.",
             "Tetap berteman dan bekerja sama meski memiliki budaya berbeda.",
-            "Bukan menghapus identitas budaya masing-masing.",
+            "Persatuan berarti semua orang harus meninggalkan budaya daerahnya.",
             "Persatuan dapat tumbuh di tengah perbedaan."
           ],
-          "answer": "Bukan menghapus identitas budaya masing-masing.",
-          "discussion": "Hal yang perlu dihindari adalah bukan menghapus identitas budaya masing-masing."
+          "answer": "Persatuan berarti semua orang harus meninggalkan budaya daerahnya.",
+          "discussion": "Pernyataan “Persatuan berarti semua orang harus meninggalkan budaya daerahnya.” keliru. Semboyan ini mengingatkan bahwa meskipun berbeda-beda, bangsa Indonesia tetap satu. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
         },
         {
           "id": "PKN-B05-024",
           "type": "PG",
-          "text": "Mengapa bhinneka tunggal ika penting dalam kehidupan bersama?",
+          "text": "Apa manfaat atau arti penting memahami bhinneka tunggal ika?",
           "options": [
             "Bukan menghapus identitas budaya masing-masing.",
             "Semboyan ini mengingatkan bahwa meskipun berbeda-beda, bangsa Indonesia tetap satu.",
@@ -318,25 +318,25 @@
             "Persatuan dapat tumbuh di tengah perbedaan."
           ],
           "answer": "Persatuan dapat tumbuh di tengah perbedaan.",
-          "discussion": "Manfaatnya adalah persatuan dapat tumbuh di tengah perbedaan."
+          "discussion": "Persatuan dapat tumbuh di tengah perbedaan. Hal itu penting karena berkaitan dengan menghargai sesama dan kehidupan bersama."
         },
         {
           "id": "PKN-B05-025",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan bhinneka tunggal ika?",
+          "text": "Pada hari budaya, siswa mengenakan pakaian adat dari daerah masing-masing. Setelah itu mereka bekerja sama membersihkan ruang acara. Sikap tersebut menunjukkan ...",
           "options": [
-            "Tetap berteman dan bekerja sama meski memiliki budaya berbeda.",
-            "Bukan menghapus identitas budaya masing-masing.",
-            "Persatuan dapat tumbuh di tengah perbedaan.",
-            "Semboyan ini mengingatkan bahwa meskipun berbeda-beda, bangsa Indonesia tetap satu."
+            "Persatuan dapat terwujud meskipun warga mempunyai budaya yang berbeda.",
+            "Persatuan hanya mungkin jika semua memakai pakaian yang sama.",
+            "Kerja sama seharusnya dibatasi pada siswa dari daerah yang sama.",
+            "Budaya daerah harus ditinggalkan untuk dapat berteman."
           ],
-          "answer": "Tetap berteman dan bekerja sama meski memiliki budaya berbeda.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang bhinneka tunggal ika. Tetap berteman dan bekerja sama meski memiliki budaya berbeda."
+          "answer": "Persatuan dapat terwujud meskipun warga mempunyai budaya yang berbeda.",
+          "discussion": "Persatuan dapat terwujud meskipun warga mempunyai budaya yang berbeda. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
         },
         {
           "id": "PKN-B05-026",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang toleransi?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan toleransi?",
           "options": [
             " Bukan memaksa orang lain mengikuti kebiasaan kita.",
             "Toleransi adalah sikap menghargai perbedaan pendapat, pandangan, kepercayaan, kebiasaan, dan budaya.",
@@ -344,7 +344,7 @@
             "Toleransi membantu menjaga kerukunan."
           ],
           "answer": "Toleransi adalah sikap menghargai perbedaan pendapat, pandangan, kepercayaan, kebiasaan, dan budaya.",
-          "discussion": "Materi bab menjelaskan bahwa toleransi adalah sikap menghargai perbedaan pendapat, pandangan, kepercayaan, kebiasaan, dan budaya."
+          "discussion": "Toleransi adalah sikap menghargai perbedaan pendapat, pandangan, kepercayaan, kebiasaan, dan budaya. Pernyataan ini menjelaskan gagasan utama tentang toleransi; contoh atau dampaknya merupakan hal berbeda."
         },
         {
           "id": "PKN-B05-027",
@@ -357,25 +357,25 @@
             "Toleransi adalah sikap menghargai perbedaan pendapat, pandangan, kepercayaan, kebiasaan, dan budaya."
           ],
           "answer": "Memberi kesempatan teman menjalankan ibadah dengan tenang.",
-          "discussion": "Contoh tersebut sesuai karena memberi kesempatan teman menjalankan ibadah dengan tenang."
+          "discussion": "Contoh nyata toleransi yang dimaksud ialah: Memberi kesempatan teman menjalankan ibadah dengan tenang. Perhatikan tindakan atau wujud budaya yang disebutkan pada pilihan."
         },
         {
           "id": "PKN-B05-028",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait toleransi adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai toleransi?",
           "options": [
             "Toleransi adalah sikap menghargai perbedaan pendapat, pandangan, kepercayaan, kebiasaan, dan budaya.",
             "Memberi kesempatan teman menjalankan ibadah dengan tenang.",
             "Toleransi membantu menjaga kerukunan.",
-            "Bukan memaksa orang lain mengikuti kebiasaan kita."
+            "Toleransi berarti memaksa semua orang mengikuti kebiasaan kelompok terbesar."
           ],
-          "answer": "Bukan memaksa orang lain mengikuti kebiasaan kita.",
-          "discussion": "Hal yang perlu dihindari adalah bukan memaksa orang lain mengikuti kebiasaan kita."
+          "answer": "Toleransi berarti memaksa semua orang mengikuti kebiasaan kelompok terbesar.",
+          "discussion": "Pernyataan “Toleransi berarti memaksa semua orang mengikuti kebiasaan kelompok terbesar.” keliru. Toleransi adalah sikap menghargai perbedaan pendapat, pandangan, kepercayaan, kebiasaan, dan budaya. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
         },
         {
           "id": "PKN-B05-029",
           "type": "PG",
-          "text": "Mengapa toleransi penting dalam kehidupan bersama?",
+          "text": "Apa manfaat atau arti penting memahami toleransi?",
           "options": [
             "Toleransi membantu menjaga kerukunan.",
             "Bukan memaksa orang lain mengikuti kebiasaan kita.",
@@ -383,25 +383,25 @@
             "Memberi kesempatan teman menjalankan ibadah dengan tenang."
           ],
           "answer": "Toleransi membantu menjaga kerukunan.",
-          "discussion": "Manfaatnya adalah toleransi membantu menjaga kerukunan."
+          "discussion": "Toleransi membantu menjaga kerukunan. Hal itu penting karena berkaitan dengan menghargai sesama dan kehidupan bersama."
         },
         {
           "id": "PKN-B05-030",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan toleransi?",
+          "text": "Raka sedang mengerjakan tugas kelompok ketika temannya meminta waktu untuk beribadah. Apa tindakan Raka yang paling toleran?",
           "options": [
-            "Bukan memaksa orang lain mengikuti kebiasaan kita.",
-            "Memberi kesempatan teman menjalankan ibadah dengan tenang.",
-            "Toleransi membantu menjaga kerukunan.",
-            "Toleransi adalah sikap menghargai perbedaan pendapat, pandangan, kepercayaan, kebiasaan, dan budaya."
+            "Memaksa temannya menunda ibadah tanpa berdiskusi.",
+            "Memberi waktu dan menjaga ketenangan agar temannya dapat beribadah.",
+            "Mengejek tata cara ibadah temannya yang berbeda.",
+            "Mengeluarkan temannya dari kelompok karena keyakinannya."
           ],
-          "answer": "Memberi kesempatan teman menjalankan ibadah dengan tenang.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang toleransi. Memberi kesempatan teman menjalankan ibadah dengan tenang."
+          "answer": "Memberi waktu dan menjaga ketenangan agar temannya dapat beribadah.",
+          "discussion": "Memberi waktu dan menjaga ketenangan agar temannya dapat beribadah. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
         },
         {
           "id": "PKN-B05-031",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang stereotipe?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan stereotipe?",
           "options": [
             " Bukan penilaian berdasarkan mengenal seseorang secara langsung.",
             " Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka.",
@@ -409,7 +409,7 @@
             "Stereotipe dapat menimbulkan prasangka."
           ],
           "answer": "Stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain.",
-          "discussion": "Materi bab menjelaskan bahwa stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain."
+          "discussion": "Stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain. Pernyataan ini menjelaskan gagasan utama tentang stereotipe; contoh atau dampaknya merupakan hal berbeda."
         },
         {
           "id": "PKN-B05-032",
@@ -422,25 +422,25 @@
             "Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka."
           ],
           "answer": "Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka.",
-          "discussion": "Contoh tersebut sesuai karena menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka."
+          "discussion": "Contoh nyata stereotipe yang dimaksud ialah: Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka. Perhatikan tindakan atau wujud budaya yang disebutkan pada pilihan."
         },
         {
           "id": "PKN-B05-033",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait stereotipe adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai stereotipe?",
           "options": [
-            "Bukan penilaian berdasarkan mengenal seseorang secara langsung.",
+            "Stereotipe selalu terbentuk dari penilaian adil terhadap setiap orang yang sudah dikenal.",
             "Stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain.",
             "Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka.",
             "Stereotipe dapat menimbulkan prasangka."
           ],
-          "answer": "Bukan penilaian berdasarkan mengenal seseorang secara langsung.",
-          "discussion": "Hal yang perlu dihindari adalah bukan penilaian berdasarkan mengenal seseorang secara langsung."
+          "answer": "Stereotipe selalu terbentuk dari penilaian adil terhadap setiap orang yang sudah dikenal.",
+          "discussion": "Pernyataan “Stereotipe selalu terbentuk dari penilaian adil terhadap setiap orang yang sudah dikenal.” keliru. Stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
         },
         {
           "id": "PKN-B05-034",
           "type": "PG",
-          "text": "Mengapa stereotipe penting dalam kehidupan bersama?",
+          "text": "Mengapa kita perlu mewaspadai stereotipe?",
           "options": [
             "Bukan penilaian berdasarkan mengenal seseorang secara langsung.",
             "Stereotipe dapat menimbulkan prasangka.",
@@ -448,25 +448,25 @@
             "Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka."
           ],
           "answer": "Stereotipe dapat menimbulkan prasangka.",
-          "discussion": "Manfaatnya adalah stereotipe dapat menimbulkan prasangka."
+          "discussion": "Stereotipe dapat menimbulkan prasangka. Inilah alasan sikap tersebut perlu dikenali dan dicegah agar tidak merugikan orang lain."
         },
         {
           "id": "PKN-B05-035",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan stereotipe?",
+          "text": "Tanpa pernah bekerja bersama, seorang siswa mengatakan bahwa semua anggota kelas lain pasti malas. Kesalahan cara berpikir siswa tersebut adalah ...",
           "options": [
-            "Bukan penilaian berdasarkan mengenal seseorang secara langsung.",
-            "Stereotipe dapat menimbulkan prasangka.",
-            "Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka.",
-            "Stereotipe adalah prasangka atau anggapan tertentu terhadap kelompok lain."
+            "Menilai seseorang berdasarkan kerja sama yang benar-benar diamati.",
+            "Meminta bukti sebelum membuat kesimpulan tentang seseorang.",
+            "Menggeneralisasi sifat kelompok tanpa mengenal setiap anggotanya.",
+            "Menghargai perbedaan perilaku tiap orang."
           ],
-          "answer": "Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang stereotipe. Menganggap semua anggota suatu kelompok memiliki sifat yang sama tanpa mengenal mereka."
+          "answer": "Menggeneralisasi sifat kelompok tanpa mengenal setiap anggotanya.",
+          "discussion": "Menggeneralisasi sifat kelompok tanpa mengenal setiap anggotanya. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
         },
         {
           "id": "PKN-B05-036",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang etnosentrisme?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan etnosentrisme?",
           "options": [
             " Bukan bangga terhadap budaya sendiri sambil menghormati budaya lain.",
             " Menganggap budaya daerah sendiri paling unggul dan mengejek budaya lain.",
@@ -474,7 +474,7 @@
             "Etnosentrisme adalah merasa budaya sendiri paling baik lalu merendahkan budaya lain."
           ],
           "answer": "Etnosentrisme adalah merasa budaya sendiri paling baik lalu merendahkan budaya lain.",
-          "discussion": "Materi bab menjelaskan bahwa etnosentrisme adalah merasa budaya sendiri paling baik lalu merendahkan budaya lain."
+          "discussion": "Etnosentrisme adalah merasa budaya sendiri paling baik lalu merendahkan budaya lain. Pernyataan ini menjelaskan gagasan utama tentang etnosentrisme; contoh atau dampaknya merupakan hal berbeda."
         },
         {
           "id": "PKN-B05-037",
@@ -487,25 +487,25 @@
             "Etnosentrisme adalah merasa budaya sendiri paling baik lalu merendahkan budaya lain."
           ],
           "answer": "Menganggap budaya daerah sendiri paling unggul dan mengejek budaya lain.",
-          "discussion": "Contoh tersebut sesuai karena menganggap budaya daerah sendiri paling unggul dan mengejek budaya lain."
+          "discussion": "Contoh nyata etnosentrisme yang dimaksud ialah: Menganggap budaya daerah sendiri paling unggul dan mengejek budaya lain. Perhatikan tindakan atau wujud budaya yang disebutkan pada pilihan."
         },
         {
           "id": "PKN-B05-038",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait etnosentrisme adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai etnosentrisme?",
           "options": [
             "Etnosentrisme adalah merasa budaya sendiri paling baik lalu merendahkan budaya lain.",
-            "Bukan bangga terhadap budaya sendiri sambil menghormati budaya lain.",
+            "Etnosentrisme berarti menghormati seluruh budaya secara setara.",
             "Menganggap budaya daerah sendiri paling unggul dan mengejek budaya lain.",
             "Sikap ini dapat merusak hubungan antarkelompok."
           ],
-          "answer": "Bukan bangga terhadap budaya sendiri sambil menghormati budaya lain.",
-          "discussion": "Hal yang perlu dihindari adalah bukan bangga terhadap budaya sendiri sambil menghormati budaya lain."
+          "answer": "Etnosentrisme berarti menghormati seluruh budaya secara setara.",
+          "discussion": "Pernyataan “Etnosentrisme berarti menghormati seluruh budaya secara setara.” keliru. Etnosentrisme adalah merasa budaya sendiri paling baik lalu merendahkan budaya lain. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
         },
         {
           "id": "PKN-B05-039",
           "type": "PG",
-          "text": "Mengapa etnosentrisme penting dalam kehidupan bersama?",
+          "text": "Mengapa kita perlu mewaspadai etnosentrisme?",
           "options": [
             "Bukan bangga terhadap budaya sendiri sambil menghormati budaya lain.",
             "Etnosentrisme adalah merasa budaya sendiri paling baik lalu merendahkan budaya lain.",
@@ -513,25 +513,25 @@
             "Menganggap budaya daerah sendiri paling unggul dan mengejek budaya lain."
           ],
           "answer": "Sikap ini dapat merusak hubungan antarkelompok.",
-          "discussion": "Manfaatnya adalah sikap ini dapat merusak hubungan antarkelompok."
+          "discussion": "Sikap ini dapat merusak hubungan antarkelompok. Inilah alasan sikap tersebut perlu dikenali dan dicegah agar tidak merugikan orang lain."
         },
         {
           "id": "PKN-B05-040",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan etnosentrisme?",
+          "text": "Rudi bangga pada kesenian daerahnya, tetapi ia selalu mengejek kesenian daerah lain sebagai lebih rendah. Sikap Rudi menunjukkan ...",
           "options": [
-            "Bukan bangga terhadap budaya sendiri sambil menghormati budaya lain.",
-            "Sikap ini dapat merusak hubungan antarkelompok.",
-            "Etnosentrisme adalah merasa budaya sendiri paling baik lalu merendahkan budaya lain.",
-            "Menganggap budaya daerah sendiri paling unggul dan mengejek budaya lain."
+            "Toleransi karena menghargai kebudayaan yang berbeda.",
+            "Pelestarian budaya yang selalu menghormati kelompok lain.",
+            "Sikap netral karena tidak membandingkan kebudayaan.",
+            "Etnosentrisme karena menganggap budaya sendiri paling unggul."
           ],
-          "answer": "Menganggap budaya daerah sendiri paling unggul dan mengejek budaya lain.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang etnosentrisme. Menganggap budaya daerah sendiri paling unggul dan mengejek budaya lain."
+          "answer": "Etnosentrisme karena menganggap budaya sendiri paling unggul.",
+          "discussion": "Etnosentrisme karena menganggap budaya sendiri paling unggul. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
         },
         {
           "id": "PKN-B05-041",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang intoleransi dan diskriminasi?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan intoleransi dan diskriminasi?",
           "options": [
             "Intoleransi berarti tidak menghargai perbedaan; diskriminasi berupa perlakuan membeda-bedakan secara tidak adil.",
             " Bukan memberi kesempatan yang sama kepada semua teman.",
@@ -539,7 +539,7 @@
             "Sikap tersebut merusak kerukunan dan rasa keadilan."
           ],
           "answer": "Intoleransi berarti tidak menghargai perbedaan; diskriminasi berupa perlakuan membeda-bedakan secara tidak adil.",
-          "discussion": "Materi bab menjelaskan bahwa intoleransi berarti tidak menghargai perbedaan; diskriminasi berupa perlakuan membeda-bedakan secara tidak adil."
+          "discussion": "Intoleransi berarti tidak menghargai perbedaan; diskriminasi berupa perlakuan membeda-bedakan secara tidak adil. Pernyataan ini menjelaskan gagasan utama tentang intoleransi dan diskriminasi; contoh atau dampaknya merupakan hal berbeda."
         },
         {
           "id": "PKN-B05-042",
@@ -552,25 +552,25 @@
             "Intoleransi berarti tidak menghargai perbedaan; diskriminasi berupa perlakuan membeda-bedakan secara tidak adil."
           ],
           "answer": "Menolak teman ikut kegiatan hanya karena agamanya.",
-          "discussion": "Contoh tersebut sesuai karena menolak teman ikut kegiatan hanya karena agamanya."
+          "discussion": "Contoh nyata intoleransi dan diskriminasi yang dimaksud ialah: Menolak teman ikut kegiatan hanya karena agamanya. Perhatikan tindakan atau wujud budaya yang disebutkan pada pilihan."
         },
         {
           "id": "PKN-B05-043",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait intoleransi dan diskriminasi adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai intoleransi dan diskriminasi?",
           "options": [
             "Intoleransi berarti tidak menghargai perbedaan; diskriminasi berupa perlakuan membeda-bedakan secara tidak adil.",
             "Menolak teman ikut kegiatan hanya karena agamanya.",
-            "Bukan memberi kesempatan yang sama kepada semua teman.",
+            "Mengucilkan teman karena agamanya merupakan perlakuan yang adil.",
             "Sikap tersebut merusak kerukunan dan rasa keadilan."
           ],
-          "answer": "Bukan memberi kesempatan yang sama kepada semua teman.",
-          "discussion": "Hal yang perlu dihindari adalah bukan memberi kesempatan yang sama kepada semua teman."
+          "answer": "Mengucilkan teman karena agamanya merupakan perlakuan yang adil.",
+          "discussion": "Pernyataan “Mengucilkan teman karena agamanya merupakan perlakuan yang adil.” keliru. Intoleransi berarti tidak menghargai perbedaan; diskriminasi berupa perlakuan membeda-bedakan secara tidak adil. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
         },
         {
           "id": "PKN-B05-044",
           "type": "PG",
-          "text": "Mengapa intoleransi dan diskriminasi penting dalam kehidupan bersama?",
+          "text": "Mengapa kita perlu mewaspadai intoleransi dan diskriminasi?",
           "options": [
             "Bukan memberi kesempatan yang sama kepada semua teman.",
             "Intoleransi berarti tidak menghargai perbedaan; diskriminasi berupa perlakuan membeda-bedakan secara tidak adil.",
@@ -578,25 +578,25 @@
             "Sikap tersebut merusak kerukunan dan rasa keadilan."
           ],
           "answer": "Sikap tersebut merusak kerukunan dan rasa keadilan.",
-          "discussion": "Manfaatnya adalah sikap tersebut merusak kerukunan dan rasa keadilan."
+          "discussion": "Sikap tersebut merusak kerukunan dan rasa keadilan. Inilah alasan sikap tersebut perlu dikenali dan dicegah agar tidak merugikan orang lain."
         },
         {
           "id": "PKN-B05-045",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan intoleransi dan diskriminasi?",
+          "text": "Dalam pemilihan anggota tim, seorang siswa ditolak hanya karena keyakinannya berbeda, padahal ia memenuhi semua persyaratan. Apa penilaian paling tepat?",
           "options": [
-            "Menolak teman ikut kegiatan hanya karena agamanya.",
-            "Bukan memberi kesempatan yang sama kepada semua teman.",
-            "Sikap tersebut merusak kerukunan dan rasa keadilan.",
-            "Intoleransi berarti tidak menghargai perbedaan; diskriminasi berupa perlakuan membeda-bedakan secara tidak adil."
+            "Penolakan itu merupakan diskriminasi yang tidak adil.",
+            "Penolakan itu adil karena mengikuti selera kelompok.",
+            "Penolakan itu merupakan contoh toleransi yang baik.",
+            "Penolakan itu menunjukkan semua peserta mendapat kesempatan sama."
           ],
-          "answer": "Menolak teman ikut kegiatan hanya karena agamanya.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang intoleransi dan diskriminasi. Menolak teman ikut kegiatan hanya karena agamanya."
+          "answer": "Penolakan itu merupakan diskriminasi yang tidak adil.",
+          "discussion": "Penolakan itu merupakan diskriminasi yang tidak adil. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
         },
         {
           "id": "PKN-B05-046",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang melestarikan budaya?",
+          "text": "Manakah pernyataan yang paling tepat menjelaskan melestarikan budaya?",
           "options": [
             " Bukan mengejek atau melupakan budaya daerah.",
             "Budaya dapat dijaga dengan mengenal, mempelajari, dan menghargai budaya sendiri maupun daerah lain.",
@@ -604,7 +604,7 @@
             "Pelestarian menjaga kekayaan budaya tetap dikenal."
           ],
           "answer": "Budaya dapat dijaga dengan mengenal, mempelajari, dan menghargai budaya sendiri maupun daerah lain.",
-          "discussion": "Materi bab menjelaskan bahwa budaya dapat dijaga dengan mengenal, mempelajari, dan menghargai budaya sendiri maupun daerah lain."
+          "discussion": "Budaya dapat dijaga dengan mengenal, mempelajari, dan menghargai budaya sendiri maupun daerah lain. Pernyataan ini menjelaskan gagasan utama tentang melestarikan budaya; contoh atau dampaknya merupakan hal berbeda."
         },
         {
           "id": "PKN-B05-047",
@@ -617,25 +617,25 @@
             "Budaya dapat dijaga dengan mengenal, mempelajari, dan menghargai budaya sendiri maupun daerah lain."
           ],
           "answer": "Belajar lagu daerah dan menampilkan kesenian dengan hormat.",
-          "discussion": "Contoh tersebut sesuai karena belajar lagu daerah dan menampilkan kesenian dengan hormat."
+          "discussion": "Contoh nyata melestarikan budaya yang dimaksud ialah: Belajar lagu daerah dan menampilkan kesenian dengan hormat. Perhatikan tindakan atau wujud budaya yang disebutkan pada pilihan."
         },
         {
           "id": "PKN-B05-048",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait melestarikan budaya adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai melestarikan budaya?",
           "options": [
             "Budaya dapat dijaga dengan mengenal, mempelajari, dan menghargai budaya sendiri maupun daerah lain.",
             "Belajar lagu daerah dan menampilkan kesenian dengan hormat.",
             "Pelestarian menjaga kekayaan budaya tetap dikenal.",
-            "Bukan mengejek atau melupakan budaya daerah."
+            "Melestarikan budaya berarti tidak boleh mengenal budaya daerah lain."
           ],
-          "answer": "Bukan mengejek atau melupakan budaya daerah.",
-          "discussion": "Hal yang perlu dihindari adalah bukan mengejek atau melupakan budaya daerah."
+          "answer": "Melestarikan budaya berarti tidak boleh mengenal budaya daerah lain.",
+          "discussion": "Pernyataan “Melestarikan budaya berarti tidak boleh mengenal budaya daerah lain.” keliru. Budaya dapat dijaga dengan mengenal, mempelajari, dan menghargai budaya sendiri maupun daerah lain. Karena itu, kita perlu memahami fakta dan tidak membuat anggapan yang menyesatkan."
         },
         {
           "id": "PKN-B05-049",
           "type": "PG",
-          "text": "Mengapa melestarikan budaya penting dalam kehidupan bersama?",
+          "text": "Apa manfaat atau arti penting memahami melestarikan budaya?",
           "options": [
             "Pelestarian menjaga kekayaan budaya tetap dikenal.",
             "Bukan mengejek atau melupakan budaya daerah.",
@@ -643,20 +643,20 @@
             "Belajar lagu daerah dan menampilkan kesenian dengan hormat."
           ],
           "answer": "Pelestarian menjaga kekayaan budaya tetap dikenal.",
-          "discussion": "Manfaatnya adalah pelestarian menjaga kekayaan budaya tetap dikenal."
+          "discussion": "Pelestarian menjaga kekayaan budaya tetap dikenal. Hal itu penting karena berkaitan dengan menghargai sesama dan kehidupan bersama."
         },
         {
           "id": "PKN-B05-050",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan melestarikan budaya?",
+          "text": "Siswa belajar lagu daerah, mencari tahu maknanya, lalu menampilkannya dengan menghormati asal-usul budaya tersebut. Kegiatan itu menunjukkan ...",
           "options": [
-            "Bukan mengejek atau melupakan budaya daerah.",
-            "Belajar lagu daerah dan menampilkan kesenian dengan hormat.",
-            "Pelestarian menjaga kekayaan budaya tetap dikenal.",
-            "Budaya dapat dijaga dengan mengenal, mempelajari, dan menghargai budaya sendiri maupun daerah lain."
+            "Upaya menghapus perbedaan budaya seluruh daerah.",
+            "Pelestarian budaya melalui belajar dan menghargai kesenian daerah.",
+            "Sikap mengutamakan budaya sendiri dengan merendahkan yang lain.",
+            "Kegiatan yang tidak berkaitan dengan pelestarian budaya."
           ],
-          "answer": "Belajar lagu daerah dan menampilkan kesenian dengan hormat.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang melestarikan budaya. Belajar lagu daerah dan menampilkan kesenian dengan hormat."
+          "answer": "Pelestarian budaya melalui belajar dan menghargai kesenian daerah.",
+          "discussion": "Pelestarian budaya melalui belajar dan menghargai kesenian daerah. Dalam situasi ini, pilihan tersebut paling sesuai dengan nilai yang dipelajari karena menghargai fakta dan orang lain."
         }
       ]
     }
