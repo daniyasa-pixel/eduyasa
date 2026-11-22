@@ -271,12 +271,39 @@ private fun EduyasaApp() {
                             if (subj != null) {
                                 Text(subj.name, fontWeight = FontWeight.Bold, fontSize = 15.sp)
                                 Spacer(Modifier.height(6.dp))
+                                val semester = SemesterPresentation.forSubject(
+                                    grade, subj.id, subj.chapters.size
+                                )
+                                if (semester == null) {
+                                    val explanation = SemesterPresentation.pendingReason(grade, subj.id)
+                                    if (explanation != null) {
+                                        Text(explanation, fontSize = 12.sp,
+                                            color = Color(0xFF92400E),
+                                            modifier = Modifier.padding(vertical = 8.dp)
+                                                .testTag("semester-pending-" + grade + "-" + subj.id))
+                                    }
+                                }
                                 subj.chapters.forEachIndexed { index, label ->
                                     val num = index + 1
+                                    if (semester != null &&
+                                        (index == 0 || index == semester.lastChapterFirstSemester)) {
+                                        SemesterSectionHeader(
+                                            number = semester.semesterFor(num),
+                                            evidence = semester.evidence,
+                                            grade = grade,
+                                            subjectId = subj.id
+                                        )
+                                    }
                                     val isOn = num in chapters[key].orEmpty()
                                     val canPick = isOn || (total < 4 &&
                                         (selectedSubjects.size != 2 || chapters[key].orEmpty().size < 3))
                                     Row(Modifier.fillMaxWidth()
+                                        .clip(RoundedCornerShape(9.dp))
+                                        .background(when (semester?.semesterFor(num)) {
+                                            1 -> Color(0xFFF3F8FF)
+                                            2 -> Color(0xFFFFF9ED)
+                                            else -> Color.White
+                                        })
                                         .testTag("chapter-" + (if (grade == 3) "K03-" else "") +
                                             key + "-B" + num.toString().padStart(2, '0'))
                                         .clickable(enabled = canPick) {
@@ -714,6 +741,33 @@ private fun StepIndicator(active: Int) {
                     fontSize = 10.sp, fontWeight = FontWeight.Bold)
             }
         }
+    }
+}
+
+@Composable
+private fun SemesterSectionHeader(
+    number: Int,
+    evidence: SemesterEvidence,
+    grade: Int,
+    subjectId: String
+) {
+    val tint = if (number == 1) Color(0xFFEFF6FF) else Color(0xFFFFF1D6)
+    val foreground = if (number == 1) Color(0xFF1D4ED8) else Color(0xFF92400E)
+    Column(
+        Modifier.fillMaxWidth()
+            .padding(top = 9.dp, bottom = 5.dp)
+            .clip(RoundedCornerShape(10.dp))
+            .background(tint)
+            .testTag("semester-" + grade + "-" + subjectId + "-" + number)
+            .padding(horizontal = 13.dp, vertical = 11.dp)
+    ) {
+        Text("📚 SEMESTER " + number, fontSize = 14.sp,
+            fontWeight = FontWeight.Bold, color = foreground)
+        Text(
+            if (evidence == SemesterEvidence.OFFICIAL) "Mengikuti acuan buku/panduan resmi"
+            else "Pembagian sementara — menunggu pencocokan LKS",
+            fontSize = 11.sp, color = foreground
+        )
     }
 }
 
