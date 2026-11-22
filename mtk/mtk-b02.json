@@ -102,7 +102,7 @@
         {
           "id": "MTK-B02-M01-008",
           "type": "PG",
-          "text": "Sebuah film berdurasi 120 menit. Jika 30 menit digunakan untuk iklan dan sisanya untuk film, rasio durasi iklan terhadap durasi film adalah ....",
+          "text": "Sebuah acara pemutaran film berlangsung selama 120 menit, termasuk 30 menit iklan. Sisa waktunya digunakan untuk menayangkan film. Berapakah rasio durasi iklan terhadap durasi penayangan film dalam bentuk paling sederhana?",
           "options": [
             "1 : 3",
             "3 : 1",
@@ -193,7 +193,7 @@
         {
           "id": "MTK-B02-M01-015",
           "type": "PG",
-          "text": "Perhatikan tabel berikut. Jumlah kantong: 1, 2, 3, 4. Jumlah permen: 5, 10, 15, .... Jika setiap kantong berisi jumlah permen yang sama, berapa jumlah permen untuk 4 kantong?",
+          "text": "Setiap kantong berisi jumlah permen yang sama. Diketahui 1 kantong berisi 5 permen, 2 kantong berisi 10 permen, dan 3 kantong berisi 15 permen. Berapa jumlah permen dalam 4 kantong?",
           "options": [
             "15 permen",
             "18 permen",
@@ -214,7 +214,7 @@
             "80 km"
           ],
           "answer": "60 km",
-          "discussion": "Rasio jarak terhadap waktu adalah 120 km : 2 jam. Untuk mendapatkan jarak dalam 1 jam, bagi 120 dengan 2. Hasilnya 60 km per jam."
+          "discussion": "Karena kendaraan menempuh 120 km dalam 2 jam dengan kecepatan tetap, jarak yang ditempuh dalam 1 jam adalah $120\\div2=60$ km. Jadi, kendaraan menempuh 60 km dalam 1 jam."
         },
         {
           "id": "MTK-B02-M01-017",
