@@ -50,7 +50,7 @@
         {
           "id": "IPAS-B03-M01-004",
           "type": "PG",
-          "text": "Siapakah tokoh yang menulis buku Max Havelaar untuk menggambarkan penderitaan rakyat akibat tanam paksa?",
+          "text": "Siapakah penulis Max Havelaar, buku yang mengkritik penindasan rakyat pada masa kolonial Belanda?",
           "options": [
             "Pieter Brooshooft",
             "Conrad Theodore Van Deventer",
@@ -58,7 +58,7 @@
             "Eduard Douwes Dekker"
           ],
           "answer": "Eduard Douwes Dekker",
-          "discussion": "Eduard Douwes Dekker dikenal juga dengan nama Multatuli. Buku Max Havelaar mengkritik praktik tanam paksa."
+          "discussion": "Eduard Douwes Dekker menggunakan nama pena Multatuli. Max Havelaar menyoroti penindasan dan penderitaan rakyat pada masa kolonial Belanda."
         },
         {
           "id": "IPAS-B03-M01-005",
@@ -180,7 +180,7 @@
         {
           "id": "IPAS-B03-M01-014",
           "type": "PG",
-          "text": "Apa yang dilakukan Pieter Brooshooft setelah melihat penderitaan rakyat akibat tanam paksa?",
+          "text": "Pieter Brooshooft adalah wartawan yang menyoroti kondisi rakyat Hindia Belanda. Bagaimana ia menyampaikan kritik terhadap kebijakan kolonial?",
           "options": [
             "Mendirikan organisasi militer.",
             "Mendokumentasikan kondisi rakyat dan membuat laporan kritik.",
@@ -188,7 +188,7 @@
             "Menjadi pemimpin perang melawan Belanda."
           ],
           "answer": "Mendokumentasikan kondisi rakyat dan membuat laporan kritik.",
-          "discussion": "Pieter Brooshooft menyoroti penderitaan rakyat dan menyampaikan kritik terhadap kebijakan kolonial."
+          "discussion": "Sebagai wartawan, Pieter Brooshooft menulis laporan dan kritik tentang kondisi rakyat serta kebijakan pemerintah kolonial."
         },
         {
           "id": "IPAS-B03-M01-015",
@@ -505,7 +505,7 @@
         {
           "id": "IPAS-B03-M01-039",
           "type": "PG",
-          "text": "Seorang siswa menemukan laporan kritik terhadap tanam paksa yang ditulis seorang wartawan Belanda setelah mengamati kondisi masyarakat di Hindia Belanda. Tokoh yang dikenal menyampaikan kritik melalui laporan jurnalistik adalah ...",
+          "text": "Perhatikan petunjuk tokoh berikut:\n- Seorang wartawan Belanda.\n- Pernah memimpin surat kabar De Locomotief di Semarang.\n- Menulis kritik terhadap kebijakan kolonial dan kondisi kehidupan rakyat Hindia Belanda.\n\nTokoh yang sesuai dengan petunjuk tersebut adalah ....",
           "options": [
             "Eduard Douwes Dekker.",
             "Ki Hadjar Dewantara.",
@@ -513,7 +513,7 @@
             "Conrad Theodore Van Deventer."
           ],
           "answer": "Pieter Brooshooft.",
-          "discussion": "Pieter Brooshooft dikenal sebagai wartawan yang menyoroti penderitaan rakyat dan mengkritik kebijakan kolonial."
+          "discussion": "Petunjuk wartawan yang memimpin De Locomotief di Semarang merujuk kepada Pieter Brooshooft. Ia menyampaikan kritik melalui kegiatan jurnalistik."
         },
         {
           "id": "IPAS-B03-M01-040",
@@ -557,7 +557,7 @@
         {
           "id": "IPAS-B03-M01-043",
           "type": "PG",
-          "text": "Sebelum Deklarasi Djuanda, laut Indonesia dihitung sejauh 3 mil dari garis pantai masing-masing pulau. Mengapa Deklarasi Djuanda penting?",
+          "text": "Sebelum Deklarasi Djuanda, laut Indonesia dihitung sejauh 3 mil laut dari garis pantai masing-masing pulau. Mengapa Deklarasi Djuanda penting?",
           "options": [
             "Karena menghapus seluruh batas wilayah darat.",
             "Karena memindahkan seluruh pelabuhan ke luar negeri.",
@@ -596,7 +596,7 @@
         {
           "id": "IPAS-B03-M01-046",
           "type": "PG",
-          "text": "Mohammad Hatta memperjuangkan kemerdekaan melalui tulisan dan gagasan politik serta mendorong perkembangan koperasi. Nilai yang dapat diteladani adalah ...",
+          "text": "Bacalah teks latihan berikut.\nMohammad Hatta gemar membaca dan menggunakan pengetahuannya untuk menyampaikan gagasan. Ia memperjuangkan kemerdekaan melalui tulisan dan pemikiran serta mendorong perkembangan koperasi untuk kesejahteraan rakyat.\n\nNilai yang dapat diteladani dari teks tersebut adalah ....",
           "options": [
             "Menghindari kegiatan belajar dan membaca.",
             "Gemar membaca, berpikir kritis, dan peduli terhadap kesejahteraan rakyat.",
@@ -604,7 +604,7 @@
             "Tidak peduli terhadap kehidupan masyarakat."
           ],
           "answer": "Gemar membaca, berpikir kritis, dan peduli terhadap kesejahteraan rakyat.",
-          "discussion": "Mohammad Hatta menggunakan pengetahuan dan pemikirannya untuk memperjuangkan kemerdekaan serta kesejahteraan rakyat."
+          "discussion": "Teks menunjukkan kebiasaan membaca, penggunaan pengetahuan untuk menyampaikan gagasan, serta kepedulian Hatta terhadap kesejahteraan rakyat melalui koperasi."
         },
         {
           "id": "IPAS-B03-M01-047",
