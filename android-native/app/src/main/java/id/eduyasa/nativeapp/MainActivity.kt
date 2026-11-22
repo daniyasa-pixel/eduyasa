@@ -67,6 +67,7 @@ private fun EduyasaApp() {
     var activeProfileId by remember { mutableStateOf(profileStore.activeProfileId()) }
     val activeProfile = profiles.firstOrNull { it.id == activeProfileId }
     var editProfileOpen by remember { mutableStateOf(false) }
+    var profileError by remember { mutableStateOf("") }
     var editingProfile by remember { mutableStateOf<StudentProfile?>(null) }
     LaunchedEffect(Unit) {
         if (profiles.isEmpty()) {
@@ -298,6 +299,7 @@ private fun EduyasaApp() {
                                 modifier = Modifier.padding(end = 10.dp))
                         }
                     }
+                    if (profileError.isNotBlank()) ErrorMessage(profileError)
                     Primary("＋ Tambah Profil Siswa", "add-profile") {
                         editingProfile = null
                         editProfileOpen = true
@@ -719,15 +721,27 @@ private fun EduyasaApp() {
             editingProfile = null
         },
         onDelete = { entry ->
-            val updated = profiles.filterNot { it.id == entry.id }
-            profileStore.save(updated)
-            profiles = updated
-            if (activeProfileId == entry.id) {
-                activeProfileId = null
-                profileStore.setActiveProfileId(null)
+            scope.launch {
+                try {
+                    withContext(Dispatchers.IO) {
+                        studyHistory.deleteProfileHistory(entry.id)
+                    }
+                    val updated = profiles.filterNot { it.id == entry.id }
+                    profileStore.save(updated)
+                    profiles = updated
+                    if (activeProfileId == entry.id) {
+                        activeProfileId = null
+                        profileStore.setActiveProfileId(null)
+                    }
+                    profileError = ""
+                } catch (e: Exception) {
+                    profileError = "Gagal menghapus riwayat profil: " +
+                        (e.message ?: "kesalahan penyimpanan")
+                } finally {
+                    editProfileOpen = false
+                    editingProfile = null
+                }
             }
-            editProfileOpen = false
-            editingProfile = null
         }
     )
 
