@@ -30,6 +30,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
+import java.util.UUID
 import java.net.URLEncoder
 
 private val Blue = Color(0xFF2563EB)
@@ -39,7 +42,8 @@ private val Muted = Color(0xFF718096)
 private val Line = Color(0xFFE5EAF2)
 private val Green = Color(0xFF16A34A)
 private val Red = Color(0xFFDC2626)
-private enum class Page { HOME, SUBJECTS, CHAPTERS, MATERIAL, PREP, QUIZ, RESULT }
+private enum class Page { HOME, SUBJECTS, CHAPTERS, MATERIAL, PREP, QUIZ, RESULT, STATS }
+private enum class SaveStatus { NONE, SAVING, SAVED, FAILED }
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -58,6 +62,7 @@ private fun EduyasaApp() {
     val scope = rememberCoroutineScope()
     val catalog = remember { EduyasaRepository.catalog(context.applicationContext) }
     val profileStore = remember { StudentProfileStore(context.applicationContext) }
+    val studyHistory = remember { StudyHistoryStore(context.applicationContext) }
     var profiles by remember { mutableStateOf(profileStore.load()) }
     var activeProfileId by remember { mutableStateOf(profileStore.activeProfileId()) }
     val activeProfile = profiles.firstOrNull { it.id == activeProfileId }
@@ -80,6 +85,14 @@ private fun EduyasaApp() {
     var selected by remember { mutableStateOf<String?>(null) }
     var checked by remember { mutableStateOf(false) }
     val results = remember { mutableStateMapOf<Int, Boolean>() }
+    val answersChosen = remember { mutableStateMapOf<Int, String>() }
+    var sessionId by remember { mutableStateOf(UUID.randomUUID().toString()) }
+    var saveStatus by remember { mutableStateOf(SaveStatus.NONE) }
+    var saveError by remember { mutableStateOf("") }
+    var savedRevision by remember { mutableIntStateOf(0) }
+    var statistics by remember { mutableStateOf<LearningStatistics?>(null) }
+    var statisticsLoading by remember { mutableStateOf(false) }
+    var statisticsError by remember { mutableStateOf("") }
     var busy by remember { mutableStateOf(false) }
     var errorText by remember { mutableStateOf("") }
     var connected by remember { mutableStateOf<Boolean?>(null) }
@@ -100,6 +113,7 @@ private fun EduyasaApp() {
         lessonItems = emptyList()
         quiz = emptyList()
         results.clear()
+        answersChosen.clear()
         errorText = ""
         connected = null
         busy = false
@@ -110,17 +124,62 @@ private fun EduyasaApp() {
         else chapters[key].orEmpty().sorted().map { SelectedChapter(subject, it) }
     }
     fun resetQuiz() {
+        sessionId = UUID.randomUUID().toString()
+        saveStatus = SaveStatus.NONE
+        saveError = ""
         quiz = quiz.shuffled()
         qIndex = 0
         selected = null
         checked = false
         results.clear()
+        answersChosen.clear()
         options = quiz.firstOrNull()?.options?.shuffled().orEmpty()
         page = Page.QUIZ
     }
+    fun persistCompletedQuiz() {
+        if (saveStatus == SaveStatus.SAVING || saveStatus == SaveStatus.SAVED) return
+        val profileId = activeProfileId
+        if (profileId.isNullOrBlank() || quiz.size != 20 || results.size != 20 ||
+            answersChosen.size != 20) {
+            saveStatus = SaveStatus.FAILED
+            saveError = "Riwayat belum bisa disimpan: identitas siswa atau jawaban belum lengkap."
+            return
+        }
+        val snapshot = SavedSession(
+            id = sessionId,
+            profileId = profileId,
+            grade = grade,
+            completedAt = System.currentTimeMillis(),
+            answers = quiz.mapIndexed { index, q ->
+                SavedAnswer(
+                    position = index,
+                    subjectId = q.subjectId,
+                    chapter = q.chapter,
+                    questionId = q.id,
+                    selectedAnswer = answersChosen[index].orEmpty(),
+                    correctAnswer = q.answer,
+                    correct = results[index] == true
+                )
+            }
+        )
+        saveStatus = SaveStatus.SAVING
+        saveError = ""
+        scope.launch {
+            try {
+                withContext(Dispatchers.IO) {
+                    studyHistory.saveCompletedSession(snapshot)
+                }
+                saveStatus = SaveStatus.SAVED
+                savedRevision++
+            } catch (e: Exception) {
+                saveStatus = SaveStatus.FAILED
+                saveError = e.message ?: "Tidak dapat menyimpan hasil di perangkat."
+            }
+        }
+    }
     fun back() {
         when (page) {
-            Page.SUBJECTS -> page = Page.HOME
+            Page.SUBJECTS, Page.STATS -> page = Page.HOME
             Page.CHAPTERS -> page = Page.SUBJECTS
             Page.MATERIAL -> page = Page.CHAPTERS
             Page.PREP -> page = Page.MATERIAL
@@ -131,6 +190,23 @@ private fun EduyasaApp() {
     BackHandler(enabled = page != Page.HOME) { back() }
     LaunchedEffect(grade) {
         if (grade == 3 || grade == 6) connected = EduyasaRepository.checkConnection(grade)
+    }
+    LaunchedEffect(page, activeProfileId, savedRevision) {
+        val profileId = activeProfileId
+        if (page == Page.STATS && !profileId.isNullOrBlank()) {
+            statisticsLoading = true
+            statisticsError = ""
+            try {
+                statistics = withContext(Dispatchers.IO) {
+                    studyHistory.statistics(profileId)
+                }
+            } catch (e: Exception) {
+                statistics = null
+                statisticsError = e.message ?: "Gagal membaca riwayat belajar."
+            } finally {
+                statisticsLoading = false
+            }
+        }
     }
 
     Column(
@@ -143,7 +219,7 @@ private fun EduyasaApp() {
             connection = connected
         )
         Column(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 20.dp)) {
-            if (page != Page.HOME && page != Page.RESULT) {
+            if (page != Page.HOME && page != Page.RESULT && page != Page.STATS) {
                 StepIndicator(when (page) {
                     Page.SUBJECTS -> 1
                     Page.CHAPTERS -> 2
@@ -197,13 +273,27 @@ private fun EduyasaApp() {
                                 Text("Kelas " + profile.grade + " SD",
                                     color = Muted, fontSize = 12.sp)
                             }
-                            TextButton(
-                                onClick = {
-                                    editingProfile = profile
-                                    editProfileOpen = true
-                                },
-                                modifier = Modifier.testTag("edit-profile-" + profile.id)
-                            ) { Text("Ubah") }
+                            Column(horizontalAlignment = Alignment.End) {
+                                TextButton(
+                                    onClick = {
+                                        activeProfileId = profile.id
+                                        profileStore.setActiveProfileId(profile.id)
+                                        grade = profile.grade
+                                        statistics = null
+                                        selectedSubjects.clear()
+                                        chapters.clear()
+                                        page = Page.STATS
+                                    },
+                                    modifier = Modifier.testTag("stats-profile-" + profile.id)
+                                ) { Text("Statistik") }
+                                TextButton(
+                                    onClick = {
+                                        editingProfile = profile
+                                        editProfileOpen = true
+                                    },
+                                    modifier = Modifier.testTag("edit-profile-" + profile.id)
+                                ) { Text("Ubah") }
+                            }
                             Text("›", color = Blue, fontSize = 25.sp,
                                 modifier = Modifier.padding(end = 10.dp))
                         }
@@ -219,6 +309,13 @@ private fun EduyasaApp() {
                         modifier = Modifier.fillMaxWidth(), textAlign = TextAlign.Center)
                 }
                 Page.SUBJECTS -> {
+                    Text("Belajar bersama " + (activeProfile?.name ?: "Siswa") +
+                        " • Kelas " + grade + " SD", fontSize = 13.sp, color = Blue)
+                    OutlinedButton(
+                        onClick = { statistics = null; page = Page.STATS },
+                        modifier = Modifier.testTag("open-statistics")
+                    ) { Text("📊 Lihat Evaluasi Belajar") }
+                    Spacer(Modifier.height(6.dp))
                     Title("Pilih Mata Pelajaran")
                     Text("Pilih minimal 1 dan maksimal 2 mata pelajaran.", color = Muted, fontSize = 12.sp)
                     Spacer(Modifier.height(14.dp))
@@ -502,7 +599,11 @@ private fun EduyasaApp() {
                                 if (!checked) {
                                     checked = true
                                     results[qIndex] = selected == q.answer
-                                } else if (qIndex == quiz.lastIndex) page = Page.RESULT
+                                    answersChosen[qIndex] = selected.orEmpty()
+                                } else if (qIndex == quiz.lastIndex) {
+                                    page = Page.RESULT
+                                    persistCompletedQuiz()
+                                }
                                 else {
                                     qIndex++
                                     selected = null
@@ -512,6 +613,17 @@ private fun EduyasaApp() {
                             }
                         }
                     }
+                }
+                Page.STATS -> {
+                    LearningStatisticsScreen(
+                        student = activeProfile,
+                        statistics = statistics,
+                        catalog = catalog,
+                        loading = statisticsLoading,
+                        error = statisticsError,
+                        onRetry = { savedRevision++ },
+                        onBack = { back() }
+                    )
                 }
                 Page.RESULT -> {
                     val correct = results.values.count { it }
@@ -542,6 +654,29 @@ private fun EduyasaApp() {
                                 Modifier.weight(1f).testTag("resultWrong"))
                         }
                         Spacer(Modifier.height(20.dp))
+                        when (saveStatus) {
+                            SaveStatus.SAVING -> Text(
+                                "⏳ Menyimpan hasil latihan di HP...",
+                                color = Muted, fontSize = 13.sp
+                            )
+                            SaveStatus.SAVED -> Text(
+                                "✅ Hasil tersimpan otomatis di perangkat.",
+                                color = Green, fontSize = 13.sp,
+                                modifier = Modifier.testTag("history-saved")
+                            )
+                            SaveStatus.FAILED -> {
+                                ErrorMessage("Hasil belum tersimpan: " + saveError)
+                                Primary("COBA SIMPAN LAGI", "retry-save-history") {
+                                    persistCompletedQuiz()
+                                }
+                            }
+                            SaveStatus.NONE -> Unit
+                        }
+                        Primary("📊 LIHAT EVALUASI BELAJAR", "result-open-statistics",
+                            saveStatus == SaveStatus.SAVED) {
+                            statistics = null
+                            page = Page.STATS
+                        }
                         Primary("📩 KIRIM LAPORAN", "btnOpenReport") { reportOpen = true }
                         Secondary("ULANGI KUIS", "btnRetryQuiz") {
                             if (!busy) scope.launch {
