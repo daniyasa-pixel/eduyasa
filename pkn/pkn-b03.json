@@ -14,7 +14,7 @@
           "text": "Apa pengertian yang tepat tentang norma?",
           "options": [
             "Norma adalah aturan yang mengikat anggota kelompok atau masyarakat.",
-            " Bukan kebiasaan yang boleh dilanggar sesuka hati.",
+            "Norma bukan aturan yang boleh dilanggar sesuka hati.",
             " Menaati aturan bersama di rumah dan sekolah.",
             "Norma menjaga ketertiban, kerukunan, dan kedamaian."
           ],
@@ -26,7 +26,7 @@
           "type": "PG",
           "text": "Manakah contoh yang sesuai dengan norma?",
           "options": [
-            "Bukan kebiasaan yang boleh dilanggar sesuka hati.",
+            "Norma bukan aturan yang boleh dilanggar sesuka hati.",
             "Menaati aturan bersama di rumah dan sekolah.",
             "Norma menjaga ketertiban, kerukunan, dan kedamaian.",
             "Norma adalah aturan yang mengikat anggota kelompok atau masyarakat."
@@ -41,18 +41,18 @@
           "options": [
             "Norma adalah aturan yang mengikat anggota kelompok atau masyarakat.",
             "Menaati aturan bersama di rumah dan sekolah.",
-            "Bukan kebiasaan yang boleh dilanggar sesuka hati.",
+            "Norma bukan aturan yang boleh dilanggar sesuka hati.",
             "Norma menjaga ketertiban, kerukunan, dan kedamaian."
           ],
-          "answer": "Bukan kebiasaan yang boleh dilanggar sesuka hati.",
-          "discussion": "Pernyataan “Bukan kebiasaan yang boleh dilanggar sesuka hati.” memberi batasan pemahaman agar norma tidak ditafsirkan secara keliru."
+          "answer": "Norma bukan aturan yang boleh dilanggar sesuka hati.",
+          "discussion": "Pernyataan “Norma bukan aturan yang boleh dilanggar sesuka hati.” memberi batasan pemahaman agar norma tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-004",
           "type": "PG",
           "text": "Mengapa norma penting dalam kehidupan bersama?",
           "options": [
-            "Bukan kebiasaan yang boleh dilanggar sesuka hati.",
+            "Norma bukan aturan yang boleh dilanggar sesuka hati.",
             "Norma adalah aturan yang mengikat anggota kelompok atau masyarakat.",
             "Menaati aturan bersama di rumah dan sekolah.",
             "Norma menjaga ketertiban, kerukunan, dan kedamaian."
@@ -66,7 +66,7 @@
           "text": "Siswa mengikuti peraturan peminjaman buku di sekolah dan kesepakatan waktu belajar di rumah. Pernyataan yang cocok dengan sikap mereka adalah ...",
           "options": [
             "Menaati aturan bersama di rumah dan sekolah.",
-            "Bukan kebiasaan yang boleh dilanggar sesuka hati.",
+            "Norma bukan aturan yang boleh dilanggar sesuka hati.",
             "Norma menjaga ketertiban, kerukunan, dan kedamaian.",
             "Norma adalah aturan yang mengikat anggota kelompok atau masyarakat."
           ],
@@ -403,7 +403,7 @@
           "type": "PG",
           "text": "Apa pengertian yang tepat tentang hak identitas dan kewarganegaraan?",
           "options": [
-            " Bukan kehilangan identitas karena belum dewasa.",
+            "Usia yang masih kecil tidak boleh dijadikan alasan untuk meniadakan identitas anak.",
             " Memiliki identitas yang jelas.",
             "Anak berhak memiliki nama atau identitas dan kewarganegaraan.",
             "Identitas membantu pengakuan diri anak."
@@ -416,7 +416,7 @@
           "type": "PG",
           "text": "Manakah contoh yang sesuai dengan hak identitas dan kewarganegaraan?",
           "options": [
-            "Bukan kehilangan identitas karena belum dewasa.",
+            "Usia yang masih kecil tidak boleh dijadikan alasan untuk meniadakan identitas anak.",
             "Identitas membantu pengakuan diri anak.",
             "Anak berhak memiliki nama atau identitas dan kewarganegaraan.",
             "Memiliki identitas yang jelas."
@@ -429,20 +429,20 @@
           "type": "PG",
           "text": "Manakah pengingat yang benar agar tidak salah memahami hak identitas dan kewarganegaraan?",
           "options": [
-            "Bukan kehilangan identitas karena belum dewasa.",
+            "Usia yang masih kecil tidak boleh dijadikan alasan untuk meniadakan identitas anak.",
             "Anak berhak memiliki nama atau identitas dan kewarganegaraan.",
             "Memiliki identitas yang jelas.",
             "Identitas membantu pengakuan diri anak."
           ],
-          "answer": "Bukan kehilangan identitas karena belum dewasa.",
-          "discussion": "Pernyataan “Bukan kehilangan identitas karena belum dewasa.” memberi batasan pemahaman agar hak identitas dan kewarganegaraan tidak ditafsirkan secara keliru."
+          "answer": "Usia yang masih kecil tidak boleh dijadikan alasan untuk meniadakan identitas anak.",
+          "discussion": "Pernyataan “Usia yang masih kecil tidak boleh dijadikan alasan untuk meniadakan identitas anak.” memberi batasan pemahaman agar hak identitas dan kewarganegaraan tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-034",
           "type": "PG",
           "text": "Mengapa hak identitas dan kewarganegaraan penting dalam kehidupan bersama?",
           "options": [
-            "Bukan kehilangan identitas karena belum dewasa.",
+            "Usia yang masih kecil tidak boleh dijadikan alasan untuk meniadakan identitas anak.",
             "Identitas membantu pengakuan diri anak.",
             "Anak berhak memiliki nama atau identitas dan kewarganegaraan.",
             "Memiliki identitas yang jelas."
@@ -455,7 +455,7 @@
           "type": "PG",
           "text": "Seorang bayi dicatat namanya dalam dokumen kelahiran dan memperoleh status kewarganegaraan. Keadaan tersebut menunjukkan ...",
           "options": [
-            "Bukan kehilangan identitas karena belum dewasa.",
+            "Usia yang masih kecil tidak boleh dijadikan alasan untuk meniadakan identitas anak.",
             "Identitas membantu pengakuan diri anak.",
             "Memiliki identitas yang jelas.",
             "Anak berhak memiliki nama atau identitas dan kewarganegaraan."
@@ -468,7 +468,7 @@
           "type": "PG",
           "text": "Apa pengertian yang tepat tentang hak bermain dan rekreasi?",
           "options": [
-            " Bukan bermain tanpa memperhatikan keselamatan atau kewajiban.",
+            "Hak bermain tidak berarti boleh mengabaikan keselamatan atau kewajiban.",
             " Memiliki waktu bermain yang aman setelah menjalankan tanggung jawab.",
             "Bermain mendukung tumbuh kembang anak.",
             "Anak berhak mendapat kesempatan bermain dan rekreasi."
@@ -482,7 +482,7 @@
           "text": "Manakah contoh yang sesuai dengan hak bermain dan rekreasi?",
           "options": [
             "Memiliki waktu bermain yang aman setelah menjalankan tanggung jawab.",
-            "Bukan bermain tanpa memperhatikan keselamatan atau kewajiban.",
+            "Hak bermain tidak berarti boleh mengabaikan keselamatan atau kewajiban.",
             "Bermain mendukung tumbuh kembang anak.",
             "Anak berhak mendapat kesempatan bermain dan rekreasi."
           ],
@@ -495,19 +495,19 @@
           "text": "Manakah pengingat yang benar agar tidak salah memahami hak bermain dan rekreasi?",
           "options": [
             "Anak berhak mendapat kesempatan bermain dan rekreasi.",
-            "Bukan bermain tanpa memperhatikan keselamatan atau kewajiban.",
+            "Hak bermain tidak berarti boleh mengabaikan keselamatan atau kewajiban.",
             "Memiliki waktu bermain yang aman setelah menjalankan tanggung jawab.",
             "Bermain mendukung tumbuh kembang anak."
           ],
-          "answer": "Bukan bermain tanpa memperhatikan keselamatan atau kewajiban.",
-          "discussion": "Pernyataan “Bukan bermain tanpa memperhatikan keselamatan atau kewajiban.” memberi batasan pemahaman agar hak bermain dan rekreasi tidak ditafsirkan secara keliru."
+          "answer": "Hak bermain tidak berarti boleh mengabaikan keselamatan atau kewajiban.",
+          "discussion": "Pernyataan “Hak bermain tidak berarti boleh mengabaikan keselamatan atau kewajiban.” memberi batasan pemahaman agar hak bermain dan rekreasi tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-039",
           "type": "PG",
           "text": "Mengapa hak bermain dan rekreasi penting dalam kehidupan bersama?",
           "options": [
-            "Bukan bermain tanpa memperhatikan keselamatan atau kewajiban.",
+            "Hak bermain tidak berarti boleh mengabaikan keselamatan atau kewajiban.",
             "Anak berhak mendapat kesempatan bermain dan rekreasi.",
             "Bermain mendukung tumbuh kembang anak.",
             "Memiliki waktu bermain yang aman setelah menjalankan tanggung jawab."
@@ -520,7 +520,7 @@
           "type": "PG",
           "text": "Setelah menyelesaikan tugas sekolah dan dengan memperhatikan keselamatan, Deni bermain di taman bersama teman. Pernyataan yang sesuai adalah ...",
           "options": [
-            "Bukan bermain tanpa memperhatikan keselamatan atau kewajiban.",
+            "Hak bermain tidak berarti boleh mengabaikan keselamatan atau kewajiban.",
             "Bermain mendukung tumbuh kembang anak.",
             "Anak berhak mendapat kesempatan bermain dan rekreasi.",
             "Memiliki waktu bermain yang aman setelah menjalankan tanggung jawab."
@@ -534,7 +534,7 @@
           "text": "Apa pengertian yang tepat tentang hak pendidikan dan kesehatan?",
           "options": [
             "Anak berhak memperoleh pendidikan dan pelayanan kesehatan.",
-            " Bukan dilarang belajar karena keadaan keluarga.",
+            "Keadaan keluarga tidak boleh dijadikan alasan untuk melarang anak bersekolah.",
             " Mengikuti pembelajaran dan mendapat perawatan ketika sakit.",
             "Pendidikan dan kesehatan mendukung perkembangan anak."
           ],
@@ -546,7 +546,7 @@
           "type": "PG",
           "text": "Manakah contoh yang sesuai dengan hak pendidikan dan kesehatan?",
           "options": [
-            "Bukan dilarang belajar karena keadaan keluarga.",
+            "Keadaan keluarga tidak boleh dijadikan alasan untuk melarang anak bersekolah.",
             "Mengikuti pembelajaran dan mendapat perawatan ketika sakit.",
             "Pendidikan dan kesehatan mendukung perkembangan anak.",
             "Anak berhak memperoleh pendidikan dan pelayanan kesehatan."
@@ -561,18 +561,18 @@
           "options": [
             "Anak berhak memperoleh pendidikan dan pelayanan kesehatan.",
             "Mengikuti pembelajaran dan mendapat perawatan ketika sakit.",
-            "Bukan dilarang belajar karena keadaan keluarga.",
+            "Keadaan keluarga tidak boleh dijadikan alasan untuk melarang anak bersekolah.",
             "Pendidikan dan kesehatan mendukung perkembangan anak."
           ],
-          "answer": "Bukan dilarang belajar karena keadaan keluarga.",
-          "discussion": "Pernyataan “Bukan dilarang belajar karena keadaan keluarga.” memberi batasan pemahaman agar hak pendidikan dan kesehatan tidak ditafsirkan secara keliru."
+          "answer": "Keadaan keluarga tidak boleh dijadikan alasan untuk melarang anak bersekolah.",
+          "discussion": "Pernyataan “Keadaan keluarga tidak boleh dijadikan alasan untuk melarang anak bersekolah.” memberi batasan pemahaman agar hak pendidikan dan kesehatan tidak ditafsirkan secara keliru."
         },
         {
           "id": "PKN-B03-044",
           "type": "PG",
           "text": "Mengapa hak pendidikan dan kesehatan penting dalam kehidupan bersama?",
           "options": [
-            "Bukan dilarang belajar karena keadaan keluarga.",
+            "Keadaan keluarga tidak boleh dijadikan alasan untuk melarang anak bersekolah.",
             "Anak berhak memperoleh pendidikan dan pelayanan kesehatan.",
             "Mengikuti pembelajaran dan mendapat perawatan ketika sakit.",
             "Pendidikan dan kesehatan mendukung perkembangan anak."
@@ -586,7 +586,7 @@
           "text": "Rina bersekolah seperti anak lainnya dan mendapat perawatan dokter ketika sakit. Keadaan ini menggambarkan ...",
           "options": [
             "Mengikuti pembelajaran dan mendapat perawatan ketika sakit.",
-            "Bukan dilarang belajar karena keadaan keluarga.",
+            "Keadaan keluarga tidak boleh dijadikan alasan untuk melarang anak bersekolah.",
             "Pendidikan dan kesehatan mendukung perkembangan anak.",
             "Anak berhak memperoleh pendidikan dan pelayanan kesehatan."
           ],
