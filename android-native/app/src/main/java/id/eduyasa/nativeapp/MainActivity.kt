@@ -937,7 +937,10 @@ private fun EduyasaApp() {
         confirmButton = { TextButton(onClick = { aboutOpen = false }) { Text("TUTUP") } }
     )
     if (leaveOpen) AlertDialog(
-        onDismissRequest = { leaveOpen = false },
+        onDismissRequest = {
+            leaveOpen = false
+            pendingDestination = null
+        },
         title = { Text("Yakin mau kembali ke awal?") },
         text = { Text("Jika kembali sekarang, sesi belajar atau hasil kuis ini akan ditutup.") },
         confirmButton = {
@@ -951,8 +954,10 @@ private fun EduyasaApp() {
                 modifier = Modifier.testTag("btnConfirmBackHome")) { Text("YA, KEMBALI KE AWAL") }
         },
         dismissButton = {
-            TextButton(onClick = { leaveOpen = false },
-                modifier = Modifier.testTag("btnCancelBackHome")) { Text("BATAL") }
+            TextButton(onClick = {
+                leaveOpen = false
+                pendingDestination = null
+            }, modifier = Modifier.testTag("btnCancelBackHome")) { Text("BATAL") }
         }
     )
     if (reportOpen) {
