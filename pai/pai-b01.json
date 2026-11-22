@@ -193,7 +193,7 @@
         {
           "id": "PAI-B01-Q015",
           "type": "PG",
-          "text": "Apa pengertian hadis menurut materi bab ini?",
+          "text": "Dalam ajaran Islam, apa yang dimaksud dengan hadis Nabi Muhammad saw.?",
           "options": [
             "Pendapat semua orang tentang agama",
             "Cerita sejarah para raja",
@@ -201,7 +201,7 @@
             "Kumpulan doa yang dibuat manusia"
           ],
           "answer": "Perkataan, perbuatan, ketetapan, dan persetujuan Nabi",
-          "discussion": "Hadis atau sunah mencakup perkataan, perbuatan, ketetapan, dan persetujuan Nabi."
+          "discussion": "Hadis mencakup perkataan, perbuatan, dan ketetapan atau persetujuan Nabi Muhammad saw. Hadis digunakan untuk memahami teladan dan ajaran Islam."
         },
         {
           "id": "PAI-B01-Q016",
@@ -227,23 +227,23 @@
             "Memberi harus dilakukan agar terkenal"
           ],
           "answer": "Orang yang memberi lebih utama daripada orang yang meminta",
-          "discussion": "Hadis mendorong umat Islam untuk gemar memberi dan tidak bergantung pada pemberian orang."
+          "discussion": "Ungkapan tangan di atas mengajarkan keutamaan memberi bagi orang yang mampu, tanpa merendahkan orang yang sedang membutuhkan bantuan."
         },
         {
           "id": "PAI-B01-Q018",
           "type": "PG",
-          "text": "Contoh sedekah yang tepat adalah ...",
+          "text": "Perhatikan ilustrasi seorang anak yang memberikan bingkisan kepada tetangga. Manakah tindakan yang sesuai dengan sikap sedekah?",
           "options": [
             "Meminjamkan barang dengan meminta bayaran berlebih",
-            "Memberi makanan kepada tetangga yang membutuhkan",
+            "Memberi bingkisan dengan ikhlas kepada tetangga yang membutuhkan",
             "Memberi uang agar pejabat mengubah keputusan",
             "Mengambil barang teman tanpa izin"
           ],
-          "answer": "Memberi makanan kepada tetangga yang membutuhkan",
-          "discussion": "Sedekah merupakan pemberian untuk kebaikan dan dilakukan dengan ikhlas.",
+          "answer": "Memberi bingkisan dengan ikhlas kepada tetangga yang membutuhkan",
+          "discussion": "Ilustrasi memperlihatkan anak berbagi bingkisan. Memberikan bantuan dengan ikhlas kepada orang yang membutuhkan adalah contoh sedekah.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q01-giving.svg",
-            "alt": "Ilustrasi sedekah makanan kepada tetangga"
+            "alt": "Ilustrasi seorang anak memberikan bingkisan kepada tetangga"
           }
         },
         {
@@ -340,18 +340,18 @@
         {
           "id": "PAI-B01-Q026",
           "type": "PG",
-          "text": "Seorang anak melihat tetangganya yang lanjut usia kesulitan membawa belanjaan. Tindakan yang sesuai dengan semangat hadis memberi adalah ...",
+          "text": "Pada ilustrasi soal ini, seorang anak memberikan bingkisan kepada tetangga. Nilai yang paling tepat diteladani dari tindakannya adalah ...",
           "options": [
             "Menertawakan tetangganya",
-            "Membantu membawa belanjaan dengan ikhlas",
+            "Membantu dengan ikhlas tanpa merendahkan orang yang menerima",
             "Meminta bayaran sebelum membantu",
             "Berpura-pura tidak melihat"
           ],
-          "answer": "Membantu membawa belanjaan dengan ikhlas",
-          "discussion": "Hadis mengajarkan keutamaan memberi dan membantu orang lain dengan ikhlas.",
+          "answer": "Membantu dengan ikhlas tanpa merendahkan orang yang menerima",
+          "discussion": "Ilustrasi menunjukkan tindakan berbagi bantuan. Pesan hadis tentang memberi mengajarkan keikhlasan dan sikap menghargai penerima.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q01-giving.svg",
-            "alt": "Ilustrasi siswa membantu orang lain"
+            "alt": "Ilustrasi seorang anak menyerahkan bingkisan kepada tetangga"
           }
         },
         {
@@ -404,7 +404,7 @@
             "Menyalin dari sumber yang tidak jelas"
           ],
           "answer": "Memastikan bacaan dan artinya melalui buku atau sumber hadis tepercaya",
-          "discussion": "Teks hadis perlu diperiksa pada sumber tepercaya agar tidak terjadi kesalahan."
+          "discussion": "Sebelum menghafal teks hadis Arab, periksa bunyi teks dan artinya pada mushaf atau sumber hadis yang tepercaya dan mintalah bimbingan guru agar tidak keliru."
         }
       ]
     }
