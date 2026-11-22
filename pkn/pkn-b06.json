@@ -11,7 +11,7 @@
         {
           "id": "PKN-B06-001",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang pembagian wilayah nkri?",
+          "text": "Manakah pernyataan paling tepat mengenai pembagian wilayah nkri?",
           "options": [
             "NKRI dibagi menjadi provinsi, lalu provinsi dibagi menjadi kabupaten dan kota.",
             " Bukan membagi provinsi langsung menjadi desa saja.",
@@ -19,7 +19,7 @@
             "Pembagian wilayah membantu penyelenggaraan pemerintahan."
           ],
           "answer": "NKRI dibagi menjadi provinsi, lalu provinsi dibagi menjadi kabupaten dan kota.",
-          "discussion": "Materi bab menjelaskan bahwa nKRI dibagi menjadi provinsi, lalu provinsi dibagi menjadi kabupaten dan kota."
+          "discussion": "NKRI dibagi menjadi provinsi, lalu provinsi dibagi menjadi kabupaten dan kota. Informasi tersebut menjelaskan pokok bahasan pembagian wilayah nkri; perhatikan juga contoh dan kedudukannya dalam pemerintahan."
         },
         {
           "id": "PKN-B06-002",
@@ -32,25 +32,25 @@
             "NKRI dibagi menjadi provinsi, lalu provinsi dibagi menjadi kabupaten dan kota."
           ],
           "answer": "Menunjukkan kabupaten atau kota sebagai bagian dari provinsi.",
-          "discussion": "Contoh tersebut sesuai karena menunjukkan kabupaten atau kota sebagai bagian dari provinsi."
+          "discussion": "Contoh yang dimaksud adalah: Menunjukkan kabupaten atau kota sebagai bagian dari provinsi. Jawaban itu menunjukkan penerapan atau bentuk nyata dari materi tentang pembagian wilayah nkri."
         },
         {
           "id": "PKN-B06-003",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait pembagian wilayah nkri adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai pembagian wilayah nkri?",
           "options": [
             "NKRI dibagi menjadi provinsi, lalu provinsi dibagi menjadi kabupaten dan kota.",
             "Menunjukkan kabupaten atau kota sebagai bagian dari provinsi.",
-            "Bukan membagi provinsi langsung menjadi desa saja.",
+            "Setiap provinsi di Indonesia langsung dibagi menjadi desa tanpa kabupaten atau kota.",
             "Pembagian wilayah membantu penyelenggaraan pemerintahan."
           ],
-          "answer": "Bukan membagi provinsi langsung menjadi desa saja.",
-          "discussion": "Hal yang perlu dihindari adalah bukan membagi provinsi langsung menjadi desa saja."
+          "answer": "Setiap provinsi di Indonesia langsung dibagi menjadi desa tanpa kabupaten atau kota.",
+          "discussion": "Setiap provinsi di Indonesia langsung dibagi menjadi desa tanpa kabupaten atau kota. adalah pernyataan keliru. Faktanya: NKRI dibagi menjadi provinsi, lalu provinsi dibagi menjadi kabupaten dan kota."
         },
         {
           "id": "PKN-B06-004",
           "type": "PG",
-          "text": "Mengapa pembagian wilayah nkri penting dalam kehidupan bersama?",
+          "text": "Apa manfaat mengetahui pembagian wilayah nkri?",
           "options": [
             "Bukan membagi provinsi langsung menjadi desa saja.",
             "NKRI dibagi menjadi provinsi, lalu provinsi dibagi menjadi kabupaten dan kota.",
@@ -58,90 +58,90 @@
             "Pembagian wilayah membantu penyelenggaraan pemerintahan."
           ],
           "answer": "Pembagian wilayah membantu penyelenggaraan pemerintahan.",
-          "discussion": "Manfaatnya adalah pembagian wilayah membantu penyelenggaraan pemerintahan."
+          "discussion": "Pembagian wilayah membantu penyelenggaraan pemerintahan. Dengan memahami informasi tersebut, kita dapat membedakan fungsi pemerintahan, data, atau peran warga sesuai konteks."
         },
         {
           "id": "PKN-B06-005",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan pembagian wilayah nkri?",
+          "text": "Siti membaca alamat rumah: Kabupaten Bantul, Provinsi Daerah Istimewa Yogyakarta. Hubungan wilayah yang benar dari alamat itu adalah ...",
           "options": [
-            "Menunjukkan kabupaten atau kota sebagai bagian dari provinsi.",
-            "Bukan membagi provinsi langsung menjadi desa saja.",
-            "Pembagian wilayah membantu penyelenggaraan pemerintahan.",
-            "NKRI dibagi menjadi provinsi, lalu provinsi dibagi menjadi kabupaten dan kota."
+            "Kabupaten Bantul merupakan bagian dari Provinsi DI Yogyakarta.",
+            "Kabupaten Bantul adalah negara yang terpisah dari Indonesia.",
+            "Semua kabupaten menjadi provinsi tanpa hubungan pemerintahan.",
+            "Provinsi DI Yogyakarta berada di bawah Kabupaten Bantul."
           ],
-          "answer": "Menunjukkan kabupaten atau kota sebagai bagian dari provinsi.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang pembagian wilayah nkri. Menunjukkan kabupaten atau kota sebagai bagian dari provinsi."
+          "answer": "Kabupaten Bantul merupakan bagian dari Provinsi DI Yogyakarta.",
+          "discussion": "Kabupaten Bantul merupakan bagian dari Provinsi DI Yogyakarta. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
         },
         {
           "id": "PKN-B06-006",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang jumlah provinsi dalam buku?",
+          "text": "Menurut peta NKRI tahun 2025 yang dirilis Badan Informasi Geospasial (BIG), Indonesia terdiri atas berapa provinsi?",
           "options": [
-            " Bukan menyatakan angka itu sebagai angka terkini tanpa memeriksa perubahan terbaru.",
-            "Buku acuan Pendidikan Pancasila kelas VI menyebut Indonesia memiliki 38 provinsi.",
-            " Menggunakan angka 38 ketika menjawab berdasarkan isi buku tersebut.",
-            "Angka ini mengikuti informasi yang tertulis dalam buku acuan."
+            "34 provinsi",
+            "36 provinsi",
+            "38 provinsi",
+            "40 provinsi"
           ],
-          "answer": "Buku acuan Pendidikan Pancasila kelas VI menyebut Indonesia memiliki 38 provinsi.",
-          "discussion": "Materi bab menjelaskan bahwa buku acuan Pendidikan Pancasila kelas VI menyebut Indonesia memiliki 38 provinsi."
+          "answer": "38 provinsi",
+          "discussion": "Peta NKRI edisi 2025 dari Badan Informasi Geospasial mencatat 38 provinsi. Jumlah provinsi dapat berubah melalui pembentukan atau penataan wilayah resmi."
         },
         {
           "id": "PKN-B06-007",
           "type": "PG",
-          "text": "Manakah contoh yang sesuai dengan jumlah provinsi dalam buku?",
+          "text": "Saat membaca peta NKRI edisi 2025 yang mencatat 38 provinsi, jawaban mana yang sesuai dengan informasi pada peta?",
           "options": [
-            "Bukan menyatakan angka itu sebagai angka terkini tanpa memeriksa perubahan terbaru.",
-            "Angka ini mengikuti informasi yang tertulis dalam buku acuan.",
-            "Menggunakan angka 38 ketika menjawab berdasarkan isi buku tersebut.",
-            "Buku acuan Pendidikan Pancasila kelas VI menyebut Indonesia memiliki 38 provinsi."
+            "Peta tahun 2025 menunjukkan 38 provinsi.",
+            "Sejak 1945 Indonesia selalu memiliki 38 provinsi.",
+            "Indonesia hanya memiliki delapan provinsi pada 2025.",
+            "Angka provinsi tidak bisa berubah berdasarkan keputusan resmi."
           ],
-          "answer": "Menggunakan angka 38 ketika menjawab berdasarkan isi buku tersebut.",
-          "discussion": "Contoh tersebut sesuai karena menggunakan angka 38 ketika menjawab berdasarkan isi buku tersebut."
+          "answer": "Peta tahun 2025 menunjukkan 38 provinsi.",
+          "discussion": "Informasi yang tertera pada peta NKRI edisi 2025 adalah 38 provinsi. Jangan mencampurkan angka berdasarkan tanggal berbeda."
         },
         {
           "id": "PKN-B06-008",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait jumlah provinsi dalam buku adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai jumlah provinsi dalam buku?",
           "options": [
-            "Buku acuan Pendidikan Pancasila kelas VI menyebut Indonesia memiliki 38 provinsi.",
-            "Menggunakan angka 38 ketika menjawab berdasarkan isi buku tersebut.",
-            "Angka ini mengikuti informasi yang tertulis dalam buku acuan.",
-            "Bukan menyatakan angka itu sebagai angka terkini tanpa memeriksa perubahan terbaru."
+            "38 provinsi",
+            "Peta tahun 2025 menunjukkan 38 provinsi.",
+            "Jumlah provinsi perlu dipahami sesuai data dan tahun sumber resmi.",
+            "Jumlah provinsi di Indonesia selalu sama sejak tahun 1945 sampai sekarang."
           ],
-          "answer": "Bukan menyatakan angka itu sebagai angka terkini tanpa memeriksa perubahan terbaru.",
-          "discussion": "Hal yang perlu dihindari adalah bukan menyatakan angka itu sebagai angka terkini tanpa memeriksa perubahan terbaru."
+          "answer": "Jumlah provinsi di Indonesia selalu sama sejak tahun 1945 sampai sekarang.",
+          "discussion": "Jumlah provinsi di Indonesia selalu sama sejak tahun 1945 sampai sekarang. adalah pernyataan keliru. Faktanya: Buku acuan Pendidikan Pancasila kelas VI menyebut Indonesia memiliki 38 provinsi."
         },
         {
           "id": "PKN-B06-009",
           "type": "PG",
-          "text": "Mengapa jumlah provinsi dalam buku penting dalam kehidupan bersama?",
+          "text": "Mengapa saat menyebut jumlah provinsi, kita sebaiknya mencantumkan tahun dan sumber informasi?",
           "options": [
-            "Angka ini mengikuti informasi yang tertulis dalam buku acuan.",
-            "Bukan menyatakan angka itu sebagai angka terkini tanpa memeriksa perubahan terbaru.",
-            "Buku acuan Pendidikan Pancasila kelas VI menyebut Indonesia memiliki 38 provinsi.",
-            "Menggunakan angka 38 ketika menjawab berdasarkan isi buku tersebut."
+            "Karena jumlah provinsi dapat berubah sesuai keputusan resmi dan data pada suatu tahun.",
+            "Karena jumlah provinsi selalu berubah setiap hari.",
+            "Karena semua sumber selalu mencantumkan jumlah yang sama sepanjang masa.",
+            "Karena tidak ada lembaga pemerintah yang mencatat provinsi."
           ],
-          "answer": "Angka ini mengikuti informasi yang tertulis dalam buku acuan.",
-          "discussion": "Manfaatnya adalah angka ini mengikuti informasi yang tertulis dalam buku acuan."
+          "answer": "Karena jumlah provinsi dapat berubah sesuai keputusan resmi dan data pada suatu tahun.",
+          "discussion": "Jumlah provinsi dapat berubah melalui penataan wilayah. Menyebut tahun dan sumber membantu memastikan informasi yang dipakai sesuai konteks."
         },
         {
           "id": "PKN-B06-010",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan jumlah provinsi dalam buku?",
+          "text": "Peta NKRI terbitan Badan Informasi Geospasial tahun 2025 menampilkan 38 provinsi. Apa kesimpulan yang paling tepat?",
           "options": [
-            "Bukan menyatakan angka itu sebagai angka terkini tanpa memeriksa perubahan terbaru.",
-            "Menggunakan angka 38 ketika menjawab berdasarkan isi buku tersebut.",
-            "Angka ini mengikuti informasi yang tertulis dalam buku acuan.",
-            "Buku acuan Pendidikan Pancasila kelas VI menyebut Indonesia memiliki 38 provinsi."
+            "Indonesia hanya mempunyai 38 provinsi sejak 1945.",
+            "Jumlah 38 menunjukkan pembagian wilayah pada peta tersebut dan dapat berubah menurut perkembangan resmi.",
+            "Angka pada peta resmi boleh diganti berdasarkan perkiraan siswa.",
+            "Jumlah provinsi tidak perlu diperiksa pada sumber atau waktu penerbitan."
           ],
-          "answer": "Menggunakan angka 38 ketika menjawab berdasarkan isi buku tersebut.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang jumlah provinsi dalam buku. Menggunakan angka 38 ketika menjawab berdasarkan isi buku tersebut."
+          "answer": "Jumlah 38 menunjukkan pembagian wilayah pada peta tersebut dan dapat berubah menurut perkembangan resmi.",
+          "discussion": "Jumlah 38 menunjukkan pembagian wilayah pada peta tersebut dan dapat berubah menurut perkembangan resmi. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
         },
         {
           "id": "PKN-B06-011",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang provinsi pada awal kemerdekaan?",
+          "text": "Manakah pernyataan paling tepat mengenai provinsi pada awal kemerdekaan?",
           "options": [
             " Bukan menyatakan sejak 1945 jumlahnya selalu 38.",
             " Membandingkan jumlah provinsi awal kemerdekaan dengan jumlah yang disebut buku.",
@@ -149,7 +149,7 @@
             "Pembagian wilayah mengalami perkembangan."
           ],
           "answer": "Pada tahun 1945 Indonesia terdiri atas delapan provinsi menurut buku acuan.",
-          "discussion": "Materi bab menjelaskan bahwa pada tahun 1945 Indonesia terdiri atas delapan provinsi menurut buku acuan."
+          "discussion": "Pada tahun 1945 Indonesia terdiri atas delapan provinsi menurut buku acuan. Informasi tersebut menjelaskan pokok bahasan provinsi pada awal kemerdekaan; perhatikan juga contoh dan kedudukannya dalam pemerintahan."
         },
         {
           "id": "PKN-B06-012",
@@ -162,25 +162,25 @@
             "Membandingkan jumlah provinsi awal kemerdekaan dengan jumlah yang disebut buku."
           ],
           "answer": "Membandingkan jumlah provinsi awal kemerdekaan dengan jumlah yang disebut buku.",
-          "discussion": "Contoh tersebut sesuai karena membandingkan jumlah provinsi awal kemerdekaan dengan jumlah yang disebut buku."
+          "discussion": "Contoh yang dimaksud adalah: Membandingkan jumlah provinsi awal kemerdekaan dengan jumlah yang disebut buku. Jawaban itu menunjukkan penerapan atau bentuk nyata dari materi tentang provinsi pada awal kemerdekaan."
         },
         {
           "id": "PKN-B06-013",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait provinsi pada awal kemerdekaan adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai provinsi pada awal kemerdekaan?",
           "options": [
-            "Bukan menyatakan sejak 1945 jumlahnya selalu 38.",
+            "Sejak tahun 1945 Indonesia langsung memiliki 38 provinsi dan jumlahnya tidak pernah berubah.",
             "Pada tahun 1945 Indonesia terdiri atas delapan provinsi menurut buku acuan.",
             "Membandingkan jumlah provinsi awal kemerdekaan dengan jumlah yang disebut buku.",
             "Pembagian wilayah mengalami perkembangan."
           ],
-          "answer": "Bukan menyatakan sejak 1945 jumlahnya selalu 38.",
-          "discussion": "Hal yang perlu dihindari adalah bukan menyatakan sejak 1945 jumlahnya selalu 38."
+          "answer": "Sejak tahun 1945 Indonesia langsung memiliki 38 provinsi dan jumlahnya tidak pernah berubah.",
+          "discussion": "Sejak tahun 1945 Indonesia langsung memiliki 38 provinsi dan jumlahnya tidak pernah berubah. adalah pernyataan keliru. Faktanya: Pada tahun 1945 Indonesia terdiri atas delapan provinsi menurut buku acuan."
         },
         {
           "id": "PKN-B06-014",
           "type": "PG",
-          "text": "Mengapa provinsi pada awal kemerdekaan penting dalam kehidupan bersama?",
+          "text": "Apa yang dapat dipelajari dari perubahan jumlah provinsi sejak awal kemerdekaan?",
           "options": [
             "Bukan menyatakan sejak 1945 jumlahnya selalu 38.",
             "Pembagian wilayah mengalami perkembangan.",
@@ -188,25 +188,25 @@
             "Membandingkan jumlah provinsi awal kemerdekaan dengan jumlah yang disebut buku."
           ],
           "answer": "Pembagian wilayah mengalami perkembangan.",
-          "discussion": "Manfaatnya adalah pembagian wilayah mengalami perkembangan."
+          "discussion": "Pembagian wilayah mengalami perkembangan. Dengan memahami informasi tersebut, kita dapat membedakan fungsi pemerintahan, data, atau peran warga sesuai konteks."
         },
         {
           "id": "PKN-B06-015",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan provinsi pada awal kemerdekaan?",
+          "text": "Guru menunjukkan catatan sidang PPKI 19 Agustus 1945 yang membagi wilayah Indonesia menjadi delapan provinsi. Apa yang dapat disimpulkan jika dibandingkan dengan 38 provinsi pada peta tahun 2025?",
           "options": [
-            "Bukan menyatakan sejak 1945 jumlahnya selalu 38.",
-            "Pembagian wilayah mengalami perkembangan.",
-            "Membandingkan jumlah provinsi awal kemerdekaan dengan jumlah yang disebut buku.",
-            "Pada tahun 1945 Indonesia terdiri atas delapan provinsi menurut buku acuan."
+            "Pada 1945 wilayah Indonesia sudah terdiri atas 38 provinsi.",
+            "Provinsi di Indonesia tidak mengalami perubahan setelah kemerdekaan.",
+            "Pembagian wilayah provinsi Indonesia berkembang sejak awal kemerdekaan.",
+            "PPKI menetapkan seluruh provinsi saat ini tanpa perubahan."
           ],
-          "answer": "Membandingkan jumlah provinsi awal kemerdekaan dengan jumlah yang disebut buku.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang provinsi pada awal kemerdekaan. Membandingkan jumlah provinsi awal kemerdekaan dengan jumlah yang disebut buku."
+          "answer": "Pembagian wilayah provinsi Indonesia berkembang sejak awal kemerdekaan.",
+          "discussion": "Pembagian wilayah provinsi Indonesia berkembang sejak awal kemerdekaan. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
         },
         {
           "id": "PKN-B06-016",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang gubernur?",
+          "text": "Manakah pernyataan paling tepat mengenai gubernur?",
           "options": [
             " Bukan kepala pemerintahan desa.",
             " Memimpin pemerintahan provinsi.",
@@ -214,7 +214,7 @@
             "Gubernur adalah kepala daerah provinsi."
           ],
           "answer": "Gubernur adalah kepala daerah provinsi.",
-          "discussion": "Materi bab menjelaskan bahwa gubernur adalah kepala daerah provinsi."
+          "discussion": "Gubernur adalah kepala daerah provinsi. Informasi tersebut menjelaskan pokok bahasan gubernur; perhatikan juga contoh dan kedudukannya dalam pemerintahan."
         },
         {
           "id": "PKN-B06-017",
@@ -227,25 +227,25 @@
             "Gubernur adalah kepala daerah provinsi."
           ],
           "answer": "Memimpin pemerintahan provinsi.",
-          "discussion": "Contoh tersebut sesuai karena memimpin pemerintahan provinsi."
+          "discussion": "Contoh yang dimaksud adalah: Memimpin pemerintahan provinsi. Jawaban itu menunjukkan penerapan atau bentuk nyata dari materi tentang gubernur."
         },
         {
           "id": "PKN-B06-018",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait gubernur adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai gubernur?",
           "options": [
             "Gubernur adalah kepala daerah provinsi.",
-            "Bukan kepala pemerintahan desa.",
+            "Gubernur adalah kepala pemerintahan desa.",
             "Memimpin pemerintahan provinsi.",
             "Gubernur menjalankan urusan pemerintahan provinsi."
           ],
-          "answer": "Bukan kepala pemerintahan desa.",
-          "discussion": "Hal yang perlu dihindari adalah bukan kepala pemerintahan desa."
+          "answer": "Gubernur adalah kepala pemerintahan desa.",
+          "discussion": "Gubernur adalah kepala pemerintahan desa. adalah pernyataan keliru. Faktanya: Gubernur adalah kepala daerah provinsi."
         },
         {
           "id": "PKN-B06-019",
           "type": "PG",
-          "text": "Mengapa gubernur penting dalam kehidupan bersama?",
+          "text": "Apa manfaat mengetahui gubernur?",
           "options": [
             "Bukan kepala pemerintahan desa.",
             "Gubernur adalah kepala daerah provinsi.",
@@ -253,25 +253,25 @@
             "Memimpin pemerintahan provinsi."
           ],
           "answer": "Gubernur menjalankan urusan pemerintahan provinsi.",
-          "discussion": "Manfaatnya adalah gubernur menjalankan urusan pemerintahan provinsi."
+          "discussion": "Gubernur menjalankan urusan pemerintahan provinsi. Dengan memahami informasi tersebut, kita dapat membedakan fungsi pemerintahan, data, atau peran warga sesuai konteks."
         },
         {
           "id": "PKN-B06-020",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan gubernur?",
+          "text": "Dalam rapat pemerintah tingkat provinsi, seorang pejabat memimpin koordinasi kebijakan daerah bersama perangkat provinsi. Jabatan kepala daerah yang dimaksud ialah ...",
           "options": [
-            "Bukan kepala pemerintahan desa.",
-            "Gubernur menjalankan urusan pemerintahan provinsi.",
-            "Gubernur adalah kepala daerah provinsi.",
-            "Memimpin pemerintahan provinsi."
+            "Kepala desa.",
+            "Ketua kelas.",
+            "Ketua RT.",
+            "Gubernur."
           ],
-          "answer": "Memimpin pemerintahan provinsi.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang gubernur. Memimpin pemerintahan provinsi."
+          "answer": "Gubernur.",
+          "discussion": "Gubernur. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
         },
         {
           "id": "PKN-B06-021",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang wakil gubernur?",
+          "text": "Manakah pernyataan paling tepat mengenai wakil gubernur?",
           "options": [
             "Wakil gubernur membantu gubernur dalam menjalankan pemerintahan daerah.",
             " Bukan menggantikan DPRD sebagai lembaga perwakilan.",
@@ -279,7 +279,7 @@
             "Pemerintahan provinsi dipimpin gubernur dengan bantuan wakilnya."
           ],
           "answer": "Wakil gubernur membantu gubernur dalam menjalankan pemerintahan daerah.",
-          "discussion": "Materi bab menjelaskan bahwa wakil gubernur membantu gubernur dalam menjalankan pemerintahan daerah."
+          "discussion": "Wakil gubernur membantu gubernur dalam menjalankan pemerintahan daerah. Informasi tersebut menjelaskan pokok bahasan wakil gubernur; perhatikan juga contoh dan kedudukannya dalam pemerintahan."
         },
         {
           "id": "PKN-B06-022",
@@ -292,25 +292,25 @@
             "Wakil gubernur membantu gubernur dalam menjalankan pemerintahan daerah."
           ],
           "answer": "Mendampingi gubernur sesuai tugas dan kewenangannya.",
-          "discussion": "Contoh tersebut sesuai karena mendampingi gubernur sesuai tugas dan kewenangannya."
+          "discussion": "Contoh yang dimaksud adalah: Mendampingi gubernur sesuai tugas dan kewenangannya. Jawaban itu menunjukkan penerapan atau bentuk nyata dari materi tentang wakil gubernur."
         },
         {
           "id": "PKN-B06-023",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait wakil gubernur adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai wakil gubernur?",
           "options": [
             "Wakil gubernur membantu gubernur dalam menjalankan pemerintahan daerah.",
             "Mendampingi gubernur sesuai tugas dan kewenangannya.",
-            "Bukan menggantikan DPRD sebagai lembaga perwakilan.",
+            "Wakil gubernur menggantikan fungsi DPRD sebagai lembaga perwakilan rakyat.",
             "Pemerintahan provinsi dipimpin gubernur dengan bantuan wakilnya."
           ],
-          "answer": "Bukan menggantikan DPRD sebagai lembaga perwakilan.",
-          "discussion": "Hal yang perlu dihindari adalah bukan menggantikan DPRD sebagai lembaga perwakilan."
+          "answer": "Wakil gubernur menggantikan fungsi DPRD sebagai lembaga perwakilan rakyat.",
+          "discussion": "Wakil gubernur menggantikan fungsi DPRD sebagai lembaga perwakilan rakyat. adalah pernyataan keliru. Faktanya: Wakil gubernur membantu gubernur dalam menjalankan pemerintahan daerah."
         },
         {
           "id": "PKN-B06-024",
           "type": "PG",
-          "text": "Mengapa wakil gubernur penting dalam kehidupan bersama?",
+          "text": "Apa manfaat mengetahui wakil gubernur?",
           "options": [
             "Bukan menggantikan DPRD sebagai lembaga perwakilan.",
             "Wakil gubernur membantu gubernur dalam menjalankan pemerintahan daerah.",
@@ -318,25 +318,25 @@
             "Pemerintahan provinsi dipimpin gubernur dengan bantuan wakilnya."
           ],
           "answer": "Pemerintahan provinsi dipimpin gubernur dengan bantuan wakilnya.",
-          "discussion": "Manfaatnya adalah pemerintahan provinsi dipimpin gubernur dengan bantuan wakilnya."
+          "discussion": "Pemerintahan provinsi dipimpin gubernur dengan bantuan wakilnya. Dengan memahami informasi tersebut, kita dapat membedakan fungsi pemerintahan, data, atau peran warga sesuai konteks."
         },
         {
           "id": "PKN-B06-025",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan wakil gubernur?",
+          "text": "Gubernur menugaskan wakil gubernur untuk membantu koordinasi sebuah program provinsi sesuai kewenangannya. Peran wakil gubernur pada situasi itu adalah ...",
           "options": [
-            "Mendampingi gubernur sesuai tugas dan kewenangannya.",
-            "Bukan menggantikan DPRD sebagai lembaga perwakilan.",
-            "Pemerintahan provinsi dipimpin gubernur dengan bantuan wakilnya.",
-            "Wakil gubernur membantu gubernur dalam menjalankan pemerintahan daerah."
+            "Membantu gubernur menjalankan urusan pemerintahan provinsi.",
+            "Menjadi kepala pemerintahan desa secara otomatis.",
+            "Menghapus tugas DPRD sebagai lembaga perwakilan.",
+            "Mengambil seluruh keputusan tanpa mengikuti ketentuan hukum."
           ],
-          "answer": "Mendampingi gubernur sesuai tugas dan kewenangannya.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang wakil gubernur. Mendampingi gubernur sesuai tugas dan kewenangannya."
+          "answer": "Membantu gubernur menjalankan urusan pemerintahan provinsi.",
+          "discussion": "Membantu gubernur menjalankan urusan pemerintahan provinsi. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
         },
         {
           "id": "PKN-B06-026",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang dprd provinsi?",
+          "text": "Manakah pernyataan paling tepat mengenai dprd provinsi?",
           "options": [
             " Bukan kepala daerah yang memimpin provinsi.",
             "DPRD Provinsi merupakan lembaga perwakilan rakyat daerah.",
@@ -344,7 +344,7 @@
             "DPRD menjadi bagian dari penyelenggaraan pemerintahan daerah."
           ],
           "answer": "DPRD Provinsi merupakan lembaga perwakilan rakyat daerah.",
-          "discussion": "Materi bab menjelaskan bahwa dPRD Provinsi merupakan lembaga perwakilan rakyat daerah."
+          "discussion": "DPRD Provinsi merupakan lembaga perwakilan rakyat daerah. Informasi tersebut menjelaskan pokok bahasan dprd provinsi; perhatikan juga contoh dan kedudukannya dalam pemerintahan."
         },
         {
           "id": "PKN-B06-027",
@@ -357,25 +357,25 @@
             "DPRD Provinsi merupakan lembaga perwakilan rakyat daerah."
           ],
           "answer": "Menjalankan fungsi perwakilan rakyat di tingkat provinsi.",
-          "discussion": "Contoh tersebut sesuai karena menjalankan fungsi perwakilan rakyat di tingkat provinsi."
+          "discussion": "Contoh yang dimaksud adalah: Menjalankan fungsi perwakilan rakyat di tingkat provinsi. Jawaban itu menunjukkan penerapan atau bentuk nyata dari materi tentang dprd provinsi."
         },
         {
           "id": "PKN-B06-028",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait dprd provinsi adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai dprd provinsi?",
           "options": [
             "DPRD Provinsi merupakan lembaga perwakilan rakyat daerah.",
             "Menjalankan fungsi perwakilan rakyat di tingkat provinsi.",
             "DPRD menjadi bagian dari penyelenggaraan pemerintahan daerah.",
-            "Bukan kepala daerah yang memimpin provinsi."
+            "DPRD Provinsi adalah nama lain dari gubernur sebagai kepala daerah."
           ],
-          "answer": "Bukan kepala daerah yang memimpin provinsi.",
-          "discussion": "Hal yang perlu dihindari adalah bukan kepala daerah yang memimpin provinsi."
+          "answer": "DPRD Provinsi adalah nama lain dari gubernur sebagai kepala daerah.",
+          "discussion": "DPRD Provinsi adalah nama lain dari gubernur sebagai kepala daerah. adalah pernyataan keliru. Faktanya: DPRD Provinsi merupakan lembaga perwakilan rakyat daerah."
         },
         {
           "id": "PKN-B06-029",
           "type": "PG",
-          "text": "Mengapa dprd provinsi penting dalam kehidupan bersama?",
+          "text": "Apa manfaat mengetahui dprd provinsi?",
           "options": [
             "DPRD menjadi bagian dari penyelenggaraan pemerintahan daerah.",
             "Bukan kepala daerah yang memimpin provinsi.",
@@ -383,25 +383,25 @@
             "Menjalankan fungsi perwakilan rakyat di tingkat provinsi."
           ],
           "answer": "DPRD menjadi bagian dari penyelenggaraan pemerintahan daerah.",
-          "discussion": "Manfaatnya adalah dPRD menjadi bagian dari penyelenggaraan pemerintahan daerah."
+          "discussion": "DPRD menjadi bagian dari penyelenggaraan pemerintahan daerah. Dengan memahami informasi tersebut, kita dapat membedakan fungsi pemerintahan, data, atau peran warga sesuai konteks."
         },
         {
           "id": "PKN-B06-030",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan dprd provinsi?",
+          "text": "Warga menyampaikan aspirasi pembangunan kepada para anggota lembaga perwakilan rakyat di tingkat provinsi. Lembaga yang mereka tuju adalah ...",
           "options": [
-            "Bukan kepala daerah yang memimpin provinsi.",
-            "Menjalankan fungsi perwakilan rakyat di tingkat provinsi.",
-            "DPRD menjadi bagian dari penyelenggaraan pemerintahan daerah.",
-            "DPRD Provinsi merupakan lembaga perwakilan rakyat daerah."
+            "Kantor kepala desa.",
+            "DPRD Provinsi.",
+            "Kelompok belajar sekolah.",
+            "Panitia lomba antarkelas."
           ],
-          "answer": "Menjalankan fungsi perwakilan rakyat di tingkat provinsi.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang dprd provinsi. Menjalankan fungsi perwakilan rakyat di tingkat provinsi."
+          "answer": "DPRD Provinsi.",
+          "discussion": "DPRD Provinsi. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
         },
         {
           "id": "PKN-B06-031",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang dpd ri?",
+          "text": "Manakah pernyataan paling tepat mengenai dpd ri?",
           "options": [
             " Bukan lembaga pemerintah kabupaten.",
             " Perwakilan daerah di tingkat nasional.",
@@ -409,7 +409,7 @@
             "DPD membawa aspirasi daerah pada tingkat negara."
           ],
           "answer": "Setiap provinsi memiliki perwakilan di Dewan Perwakilan Daerah Republik Indonesia.",
-          "discussion": "Materi bab menjelaskan bahwa setiap provinsi memiliki perwakilan di Dewan Perwakilan Daerah Republik Indonesia."
+          "discussion": "Setiap provinsi memiliki perwakilan di Dewan Perwakilan Daerah Republik Indonesia. Informasi tersebut menjelaskan pokok bahasan dpd ri; perhatikan juga contoh dan kedudukannya dalam pemerintahan."
         },
         {
           "id": "PKN-B06-032",
@@ -422,25 +422,25 @@
             "Perwakilan daerah di tingkat nasional."
           ],
           "answer": "Perwakilan daerah di tingkat nasional.",
-          "discussion": "Contoh tersebut sesuai karena perwakilan daerah di tingkat nasional."
+          "discussion": "Contoh yang dimaksud adalah: Perwakilan daerah di tingkat nasional. Jawaban itu menunjukkan penerapan atau bentuk nyata dari materi tentang dpd ri."
         },
         {
           "id": "PKN-B06-033",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait dpd ri adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai dpd ri?",
           "options": [
-            "Bukan lembaga pemerintah kabupaten.",
+            "DPD RI adalah lembaga pemerintahan yang hanya mengurus satu kabupaten.",
             "Setiap provinsi memiliki perwakilan di Dewan Perwakilan Daerah Republik Indonesia.",
             "Perwakilan daerah di tingkat nasional.",
             "DPD membawa aspirasi daerah pada tingkat negara."
           ],
-          "answer": "Bukan lembaga pemerintah kabupaten.",
-          "discussion": "Hal yang perlu dihindari adalah bukan lembaga pemerintah kabupaten."
+          "answer": "DPD RI adalah lembaga pemerintahan yang hanya mengurus satu kabupaten.",
+          "discussion": "DPD RI adalah lembaga pemerintahan yang hanya mengurus satu kabupaten. adalah pernyataan keliru. Faktanya: Setiap provinsi memiliki perwakilan di Dewan Perwakilan Daerah Republik Indonesia."
         },
         {
           "id": "PKN-B06-034",
           "type": "PG",
-          "text": "Mengapa dpd ri penting dalam kehidupan bersama?",
+          "text": "Apa manfaat mengetahui dpd ri?",
           "options": [
             "Bukan lembaga pemerintah kabupaten.",
             "DPD membawa aspirasi daerah pada tingkat negara.",
@@ -448,25 +448,25 @@
             "Perwakilan daerah di tingkat nasional."
           ],
           "answer": "DPD membawa aspirasi daerah pada tingkat negara.",
-          "discussion": "Manfaatnya adalah dPD membawa aspirasi daerah pada tingkat negara."
+          "discussion": "DPD membawa aspirasi daerah pada tingkat negara. Dengan memahami informasi tersebut, kita dapat membedakan fungsi pemerintahan, data, atau peran warga sesuai konteks."
         },
         {
           "id": "PKN-B06-035",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan dpd ri?",
+          "text": "Seorang wakil daerah terpilih menyampaikan aspirasi provinsinya dalam lembaga perwakilan di tingkat nasional. Lembaga yang dimaksud adalah ...",
           "options": [
-            "Bukan lembaga pemerintah kabupaten.",
-            "DPD membawa aspirasi daerah pada tingkat negara.",
-            "Perwakilan daerah di tingkat nasional.",
-            "Setiap provinsi memiliki perwakilan di Dewan Perwakilan Daerah Republik Indonesia."
+            "Kantor kelurahan.",
+            "Dewan kelas.",
+            "Dewan Perwakilan Daerah Republik Indonesia (DPD RI).",
+            "Organisasi ekstrakurikuler sekolah."
           ],
-          "answer": "Perwakilan daerah di tingkat nasional.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang dpd ri. Perwakilan daerah di tingkat nasional."
+          "answer": "Dewan Perwakilan Daerah Republik Indonesia (DPD RI).",
+          "discussion": "Dewan Perwakilan Daerah Republik Indonesia (DPD RI). Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
         },
         {
           "id": "PKN-B06-036",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang kewenangan khusus?",
+          "text": "Manakah pernyataan paling tepat mengenai kewenangan khusus?",
           "options": [
             " Bukan berarti provinsi tersebut berada di luar NKRI.",
             " Buku memberi contoh Aceh, DIY, DKI Jakarta, dan Papua.",
@@ -474,7 +474,7 @@
             "Beberapa provinsi memiliki pengaturan khusus atau keistimewaan berdasarkan peraturan."
           ],
           "answer": "Beberapa provinsi memiliki pengaturan khusus atau keistimewaan berdasarkan peraturan.",
-          "discussion": "Materi bab menjelaskan bahwa beberapa provinsi memiliki pengaturan khusus atau keistimewaan berdasarkan peraturan."
+          "discussion": "Beberapa provinsi memiliki pengaturan khusus atau keistimewaan berdasarkan peraturan. Informasi tersebut menjelaskan pokok bahasan kewenangan khusus; perhatikan juga contoh dan kedudukannya dalam pemerintahan."
         },
         {
           "id": "PKN-B06-037",
@@ -487,25 +487,25 @@
             "Beberapa provinsi memiliki pengaturan khusus atau keistimewaan berdasarkan peraturan."
           ],
           "answer": "Buku memberi contoh Aceh, DIY, DKI Jakarta, dan Papua.",
-          "discussion": "Contoh tersebut sesuai karena buku memberi contoh Aceh, DIY, DKI Jakarta, dan Papua."
+          "discussion": "Contoh yang dimaksud adalah: Buku memberi contoh Aceh, DIY, DKI Jakarta, dan Papua. Jawaban itu menunjukkan penerapan atau bentuk nyata dari materi tentang kewenangan khusus."
         },
         {
           "id": "PKN-B06-038",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait kewenangan khusus adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai kewenangan khusus?",
           "options": [
             "Beberapa provinsi memiliki pengaturan khusus atau keistimewaan berdasarkan peraturan.",
-            "Bukan berarti provinsi tersebut berada di luar NKRI.",
+            "Provinsi yang memiliki kekhususan atau keistimewaan berada di luar NKRI.",
             "Buku memberi contoh Aceh, DIY, DKI Jakarta, dan Papua.",
             "Kekhususan diatur dalam ketentuan hukum."
           ],
-          "answer": "Bukan berarti provinsi tersebut berada di luar NKRI.",
-          "discussion": "Hal yang perlu dihindari adalah bukan berarti provinsi tersebut berada di luar NKRI."
+          "answer": "Provinsi yang memiliki kekhususan atau keistimewaan berada di luar NKRI.",
+          "discussion": "Provinsi yang memiliki kekhususan atau keistimewaan berada di luar NKRI. adalah pernyataan keliru. Faktanya: Beberapa provinsi memiliki pengaturan khusus atau keistimewaan berdasarkan peraturan."
         },
         {
           "id": "PKN-B06-039",
           "type": "PG",
-          "text": "Mengapa kewenangan khusus penting dalam kehidupan bersama?",
+          "text": "Apa manfaat mengetahui kewenangan khusus?",
           "options": [
             "Bukan berarti provinsi tersebut berada di luar NKRI.",
             "Beberapa provinsi memiliki pengaturan khusus atau keistimewaan berdasarkan peraturan.",
@@ -513,25 +513,25 @@
             "Buku memberi contoh Aceh, DIY, DKI Jakarta, dan Papua."
           ],
           "answer": "Kekhususan diatur dalam ketentuan hukum.",
-          "discussion": "Manfaatnya adalah kekhususan diatur dalam ketentuan hukum."
+          "discussion": "Kekhususan diatur dalam ketentuan hukum. Dengan memahami informasi tersebut, kita dapat membedakan fungsi pemerintahan, data, atau peran warga sesuai konteks."
         },
         {
           "id": "PKN-B06-040",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan kewenangan khusus?",
+          "text": "Seorang siswa mendengar bahwa DI Yogyakarta memiliki pengaturan keistimewaan menurut hukum. Bagaimana hubungan daerah istimewa itu dengan negara Indonesia?",
           "options": [
-            "Bukan berarti provinsi tersebut berada di luar NKRI.",
-            "Kekhususan diatur dalam ketentuan hukum.",
-            "Beberapa provinsi memiliki pengaturan khusus atau keistimewaan berdasarkan peraturan.",
-            "Buku memberi contoh Aceh, DIY, DKI Jakarta, dan Papua."
+            "Daerah itu bukan lagi bagian dari Indonesia.",
+            "Semua aturan nasional otomatis tidak berlaku di daerah tersebut.",
+            "Daerah tersebut boleh menyatakan diri sebagai negara lain.",
+            "Daerah itu tetap bagian NKRI, dengan pengaturan khusus menurut ketentuan hukum."
           ],
-          "answer": "Buku memberi contoh Aceh, DIY, DKI Jakarta, dan Papua.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang kewenangan khusus. Buku memberi contoh Aceh, DIY, DKI Jakarta, dan Papua."
+          "answer": "Daerah itu tetap bagian NKRI, dengan pengaturan khusus menurut ketentuan hukum.",
+          "discussion": "Daerah itu tetap bagian NKRI, dengan pengaturan khusus menurut ketentuan hukum. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
         },
         {
           "id": "PKN-B06-041",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang ciri khas provinsi?",
+          "text": "Manakah pernyataan paling tepat mengenai ciri khas provinsi?",
           "options": [
             "Setiap provinsi memiliki budaya, kesenian, makanan, hasil alam, atau potensi masyarakat.",
             " Bukan merendahkan provinsi lain.",
@@ -539,7 +539,7 @@
             "Semua provinsi memiliki keunggulan yang patut dihargai."
           ],
           "answer": "Setiap provinsi memiliki budaya, kesenian, makanan, hasil alam, atau potensi masyarakat.",
-          "discussion": "Materi bab menjelaskan bahwa setiap provinsi memiliki budaya, kesenian, makanan, hasil alam, atau potensi masyarakat."
+          "discussion": "Setiap provinsi memiliki budaya, kesenian, makanan, hasil alam, atau potensi masyarakat. Informasi tersebut menjelaskan pokok bahasan ciri khas provinsi; perhatikan juga contoh dan kedudukannya dalam pemerintahan."
         },
         {
           "id": "PKN-B06-042",
@@ -552,25 +552,25 @@
             "Setiap provinsi memiliki budaya, kesenian, makanan, hasil alam, atau potensi masyarakat."
           ],
           "answer": "Mengenali potensi daerah melalui peta dan sumber tepercaya.",
-          "discussion": "Contoh tersebut sesuai karena mengenali potensi daerah melalui peta dan sumber tepercaya."
+          "discussion": "Contoh yang dimaksud adalah: Mengenali potensi daerah melalui peta dan sumber tepercaya. Jawaban itu menunjukkan penerapan atau bentuk nyata dari materi tentang ciri khas provinsi."
         },
         {
           "id": "PKN-B06-043",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait ciri khas provinsi adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai ciri khas provinsi?",
           "options": [
             "Setiap provinsi memiliki budaya, kesenian, makanan, hasil alam, atau potensi masyarakat.",
             "Mengenali potensi daerah melalui peta dan sumber tepercaya.",
-            "Bukan merendahkan provinsi lain.",
+            "Provinsi yang berbeda budaya dan hasil alamnya harus saling merendahkan.",
             "Semua provinsi memiliki keunggulan yang patut dihargai."
           ],
-          "answer": "Bukan merendahkan provinsi lain.",
-          "discussion": "Hal yang perlu dihindari adalah bukan merendahkan provinsi lain."
+          "answer": "Provinsi yang berbeda budaya dan hasil alamnya harus saling merendahkan.",
+          "discussion": "Provinsi yang berbeda budaya dan hasil alamnya harus saling merendahkan. adalah pernyataan keliru. Faktanya: Setiap provinsi memiliki budaya, kesenian, makanan, hasil alam, atau potensi masyarakat."
         },
         {
           "id": "PKN-B06-044",
           "type": "PG",
-          "text": "Mengapa ciri khas provinsi penting dalam kehidupan bersama?",
+          "text": "Apa manfaat mengetahui ciri khas provinsi?",
           "options": [
             "Bukan merendahkan provinsi lain.",
             "Setiap provinsi memiliki budaya, kesenian, makanan, hasil alam, atau potensi masyarakat.",
@@ -578,25 +578,25 @@
             "Semua provinsi memiliki keunggulan yang patut dihargai."
           ],
           "answer": "Semua provinsi memiliki keunggulan yang patut dihargai.",
-          "discussion": "Manfaatnya adalah semua provinsi memiliki keunggulan yang patut dihargai."
+          "discussion": "Semua provinsi memiliki keunggulan yang patut dihargai. Dengan memahami informasi tersebut, kita dapat membedakan fungsi pemerintahan, data, atau peran warga sesuai konteks."
         },
         {
           "id": "PKN-B06-045",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan ciri khas provinsi?",
+          "text": "Kelas membandingkan makanan, kesenian, dan hasil alam dari dua provinsi. Apa sikap yang tepat setelah menemukan ciri khas yang berbeda?",
           "options": [
-            "Mengenali potensi daerah melalui peta dan sumber tepercaya.",
-            "Bukan merendahkan provinsi lain.",
-            "Semua provinsi memiliki keunggulan yang patut dihargai.",
-            "Setiap provinsi memiliki budaya, kesenian, makanan, hasil alam, atau potensi masyarakat."
+            "Menghargai keunggulan masing-masing provinsi tanpa merendahkan yang lain.",
+            "Menetapkan satu provinsi pasti lebih baik dalam segala hal.",
+            "Mengejek budaya daerah yang belum dikenal.",
+            "Menganggap perbedaan budaya sebagai alasan tidak bekerja sama."
           ],
-          "answer": "Mengenali potensi daerah melalui peta dan sumber tepercaya.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang ciri khas provinsi. Mengenali potensi daerah melalui peta dan sumber tepercaya."
+          "answer": "Menghargai keunggulan masing-masing provinsi tanpa merendahkan yang lain.",
+          "discussion": "Menghargai keunggulan masing-masing provinsi tanpa merendahkan yang lain. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
         },
         {
           "id": "PKN-B06-046",
           "type": "PG",
-          "text": "Apa pengertian yang tepat tentang peran anak membangun daerah?",
+          "text": "Manakah pernyataan paling tepat mengenai peran anak membangun daerah?",
           "options": [
             " Bukan harus memegang jabatan pemerintahan.",
             "Anak dapat berkontribusi melalui tindakan sederhana sesuai kemampuan.",
@@ -604,7 +604,7 @@
             "Kebiasaan baik ikut mendukung kemajuan daerah."
           ],
           "answer": "Anak dapat berkontribusi melalui tindakan sederhana sesuai kemampuan.",
-          "discussion": "Materi bab menjelaskan bahwa anak dapat berkontribusi melalui tindakan sederhana sesuai kemampuan."
+          "discussion": "Anak dapat berkontribusi melalui tindakan sederhana sesuai kemampuan. Informasi tersebut menjelaskan pokok bahasan peran anak membangun daerah; perhatikan juga contoh dan kedudukannya dalam pemerintahan."
         },
         {
           "id": "PKN-B06-047",
@@ -617,25 +617,25 @@
             "Anak dapat berkontribusi melalui tindakan sederhana sesuai kemampuan."
           ],
           "answer": "Belajar tekun, menjaga lingkungan, dan melestarikan budaya.",
-          "discussion": "Contoh tersebut sesuai karena belajar tekun, menjaga lingkungan, dan melestarikan budaya."
+          "discussion": "Contoh yang dimaksud adalah: Belajar tekun, menjaga lingkungan, dan melestarikan budaya. Jawaban itu menunjukkan penerapan atau bentuk nyata dari materi tentang peran anak membangun daerah."
         },
         {
           "id": "PKN-B06-048",
           "type": "PG",
-          "text": "Sikap atau pemahaman yang perlu dihindari terkait peran anak membangun daerah adalah ...",
+          "text": "Manakah pernyataan yang keliru mengenai peran anak membangun daerah?",
           "options": [
             "Anak dapat berkontribusi melalui tindakan sederhana sesuai kemampuan.",
             "Belajar tekun, menjaga lingkungan, dan melestarikan budaya.",
             "Kebiasaan baik ikut mendukung kemajuan daerah.",
-            "Bukan harus memegang jabatan pemerintahan."
+            "Anak hanya dapat membantu daerah jika sudah menjadi pejabat pemerintahan."
           ],
-          "answer": "Bukan harus memegang jabatan pemerintahan.",
-          "discussion": "Hal yang perlu dihindari adalah bukan harus memegang jabatan pemerintahan."
+          "answer": "Anak hanya dapat membantu daerah jika sudah menjadi pejabat pemerintahan.",
+          "discussion": "Anak hanya dapat membantu daerah jika sudah menjadi pejabat pemerintahan. adalah pernyataan keliru. Faktanya: Anak dapat berkontribusi melalui tindakan sederhana sesuai kemampuan."
         },
         {
           "id": "PKN-B06-049",
           "type": "PG",
-          "text": "Mengapa peran anak membangun daerah penting dalam kehidupan bersama?",
+          "text": "Apa manfaat mengetahui peran anak membangun daerah?",
           "options": [
             "Kebiasaan baik ikut mendukung kemajuan daerah.",
             "Bukan harus memegang jabatan pemerintahan.",
@@ -643,20 +643,20 @@
             "Belajar tekun, menjaga lingkungan, dan melestarikan budaya."
           ],
           "answer": "Kebiasaan baik ikut mendukung kemajuan daerah.",
-          "discussion": "Manfaatnya adalah kebiasaan baik ikut mendukung kemajuan daerah."
+          "discussion": "Kebiasaan baik ikut mendukung kemajuan daerah. Dengan memahami informasi tersebut, kita dapat membedakan fungsi pemerintahan, data, atau peran warga sesuai konteks."
         },
         {
           "id": "PKN-B06-050",
           "type": "PG",
-          "text": "Situasi manakah yang paling tepat menggambarkan peran anak membangun daerah?",
+          "text": "Ari masih bersekolah, tetapi ia rajin belajar, tidak membuang sampah sembarangan, dan ikut mengenalkan lagu daerah. Tindakan Ari menunjukkan ...",
           "options": [
-            "Bukan harus memegang jabatan pemerintahan.",
-            "Belajar tekun, menjaga lingkungan, dan melestarikan budaya.",
-            "Kebiasaan baik ikut mendukung kemajuan daerah.",
-            "Anak dapat berkontribusi melalui tindakan sederhana sesuai kemampuan."
+            "Anak sama sekali tidak boleh membantu kemajuan daerah.",
+            "Anak dapat berkontribusi bagi daerah lewat kebiasaan baik sesuai kemampuannya.",
+            "Kontribusi bagi daerah hanya bisa dilakukan melalui jabatan resmi.",
+            "Menjaga lingkungan dan budaya tidak ada hubungannya dengan kemajuan daerah."
           ],
-          "answer": "Belajar tekun, menjaga lingkungan, dan melestarikan budaya.",
-          "discussion": "Situasi tersebut mencerminkan materi tentang peran anak membangun daerah. Belajar tekun, menjaga lingkungan, dan melestarikan budaya."
+          "answer": "Anak dapat berkontribusi bagi daerah lewat kebiasaan baik sesuai kemampuannya.",
+          "discussion": "Anak dapat berkontribusi bagi daerah lewat kebiasaan baik sesuai kemampuannya. Kesimpulan ini mengikuti informasi yang dijelaskan dalam situasi pada pertanyaan, bukan dari soal atau materi lain."
         }
       ]
     }
