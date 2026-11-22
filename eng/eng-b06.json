@@ -46,7 +46,7 @@
         {
           "id": "ENG-B06-003",
           "type": "PG",
-          "text": "Which container is prepared before adding mung beans?",
+          "text": "Which instruction tells the students to prepare a container for mung beans?",
           "options": [
             "First, prepare a clean jar for the mung beans.",
             "They use mung beans to grow bean sprouts.",
@@ -54,10 +54,10 @@
             "Rinse the beans with clean water."
           ],
           "answer": "First, prepare a clean jar for the mung beans.",
-          "discussion": "A jar is a container. A clean jar is prepared before the mung beans are added.",
+          "discussion": "The instruction about preparing a clean jar asks the students to get a container. The other instructions describe seeds or actions with water.",
           "audio": {
             "type": "speech",
-            "text": "Which container is prepared before adding mung beans?"
+            "text": "Which instruction tells the students to prepare a container for mung beans?"
           }
         },
         {
@@ -80,7 +80,7 @@
         {
           "id": "ENG-B06-005",
           "type": "PG",
-          "text": "What should Pipit prepare first for the bean-sprout project?",
+          "text": "Read these practice instructions for Pipit's project:\nFirst, get a clean jar. Next, put the mung beans inside. Then, add water to soak the beans.\n\nWhat should Pipit prepare first?",
           "options": [
             "First, prepare a clean jar for the mung beans.",
             "Cover the jar with cheesecloth and tie it with a rubber band.",
@@ -88,10 +88,10 @@
             "Rinse the beans with clean water."
           ],
           "answer": "First, prepare a clean jar for the mung beans.",
-          "discussion": "A jar is a container. A clean jar is prepared before the mung beans are added.",
+          "discussion": "The first instruction is to get a clean jar, before adding the mung beans and water.",
           "audio": {
             "type": "speech",
-            "text": "What should Pipit prepare first for the bean-sprout project?"
+            "text": "Read these practice instructions for Pipit's project:\nFirst, get a clean jar. Next, put the mung beans inside. Then, add water to soak the beans.\n\nWhat should Pipit prepare first?"
           }
         },
         {
@@ -114,7 +114,7 @@
         {
           "id": "ENG-B06-007",
           "type": "PG",
-          "text": "Complete the sentence: Pipit and Bara use ___ to grow bean sprouts.",
+          "text": "Pipit and Bara are growing sprouts from kacang hijau. Complete the sentence in English: They use ___ to grow the sprouts.",
           "options": [
             "mung beans",
             "carrot seeds",
@@ -127,7 +127,7 @@
         {
           "id": "ENG-B06-008",
           "type": "PG",
-          "text": "Which seed is used to grow bean sprouts in the project?",
+          "text": "Read this project note:\nSeeds: mung beans\nContainer: a clean jar\n\nWhich sentence identifies the seeds used in this project?",
           "options": [
             "They use mung beans to grow bean sprouts.",
             "Soak the mung beans in water overnight.",
@@ -135,7 +135,7 @@
             "Cover the jar with cheesecloth and tie it with a rubber band."
           ],
           "answer": "They use mung beans to grow bean sprouts.",
-          "discussion": "Mung beans are the seeds used in the bean-sprout project."
+          "discussion": "The project note lists mung beans as the seeds. The other sentences describe actions rather than identify the seeds."
         },
         {
           "id": "ENG-B06-009",
@@ -153,7 +153,7 @@
         {
           "id": "ENG-B06-010",
           "type": "PG",
-          "text": "What do the students place inside the jar?",
+          "text": "Read this practice text:\nPipit and Bara put mung beans into a clean jar. They add water to soak the beans.\n\nWhich sentence identifies what they use to grow sprouts?",
           "options": [
             "They use mung beans to grow bean sprouts.",
             "Tip the jar to drain the water.",
@@ -161,7 +161,7 @@
             "First, I dug the soil."
           ],
           "answer": "They use mung beans to grow bean sprouts.",
-          "discussion": "Mung beans are the seeds used in the bean-sprout project.",
+          "discussion": "The text says Pipit and Bara put mung beans into the jar to grow sprouts.",
           "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/bean-sprouts.svg"
         },
         {
@@ -219,7 +219,7 @@
         {
           "id": "ENG-B06-015",
           "type": "PG",
-          "text": "The beans need to stay in water overnight. Which verb describes this step?",
+          "text": "The beans need to stay in water overnight. Which instruction describes this step?",
           "options": [
             "Tip the jar to drain the water.",
             "Soak the mung beans in water overnight.",
@@ -285,7 +285,7 @@
         {
           "id": "ENG-B06-020",
           "type": "PG",
-          "text": "Which instruction should they follow when the beans need fresh water?",
+          "text": "The students have finished soaking the beans. They now need to wash them with fresh water and then drain them. Which instruction describes the washing step?",
           "options": [
             "First, prepare a clean jar for the mung beans.",
             "Rinse the beans with clean water.",
@@ -293,7 +293,7 @@
             "Soak the mung beans in water overnight."
           ],
           "answer": "Rinse the beans with clean water.",
-          "discussion": "Rinse means membilas. Use clean water when rinsing the beans."
+          "discussion": "Rinse means membilas: washing the beans with fresh water. The question describes rinsing after soaking."
         },
         {
           "id": "ENG-B06-021",
@@ -337,7 +337,7 @@
         {
           "id": "ENG-B06-024",
           "type": "PG",
-          "text": "Which material is tied over the jar with a rubber band?",
+          "text": "The students cover a jar with a piece of thin cloth and secure it with a rubber band. Which material is the cloth?",
           "options": [
             "drain",
             "cheesecloth",
@@ -350,7 +350,7 @@
         {
           "id": "ENG-B06-025",
           "type": "PG",
-          "text": "Why do the students put cheesecloth over the jar?",
+          "text": "The students need to cover the jar opening with thin cloth. Which instruction tells them how to do this?",
           "options": [
             "They use mung beans to grow bean sprouts.",
             "Cover the jar with cheesecloth and tie it with a rubber band.",
@@ -358,7 +358,7 @@
             "Soak the mung beans in water overnight."
           ],
           "answer": "Cover the jar with cheesecloth and tie it with a rubber band.",
-          "discussion": "Cheesecloth covers the jar opening. A rubber band keeps the cloth in place."
+          "discussion": "The instruction says to cover the jar with cheesecloth and hold the cloth in place with a rubber band."
         },
         {
           "id": "ENG-B06-026",
@@ -416,7 +416,7 @@
         {
           "id": "ENG-B06-030",
           "type": "PG",
-          "text": "The jar is tilted over the sink. Which verb describes this action?",
+          "text": "The students want extra water to flow out of the jar into the sink. Which instruction should they follow?",
           "options": [
             "Soak the mung beans in water overnight.",
             "Rinse the beans with clean water.",
@@ -437,12 +437,12 @@
             "rinse"
           ],
           "answer": "dig",
-          "discussion": "Dig means menggali. The old man dug the soil to prepare the planting bed."
+          "discussion": "Dig means menggali. A spade can be used to dig and loosen the soil before planting."
         },
         {
           "id": "ENG-B06-032",
           "type": "PG",
-          "text": "Complete the sentence: Before planting carrot seeds, ___ the soil.",
+          "text": "Complete the sentence: Use a spade to ___ the soil before planting carrot seeds.",
           "options": [
             "harvest",
             "water",
@@ -450,7 +450,7 @@
             "rinse"
           ],
           "answer": "dig",
-          "discussion": "Dig means menggali. The old man dug the soil to prepare the planting bed."
+          "discussion": "Dig means menggali. A spade can be used to dig and loosen the soil before planting."
         },
         {
           "id": "ENG-B06-033",
@@ -481,7 +481,7 @@
         {
           "id": "ENG-B06-035",
           "type": "PG",
-          "text": "The gardener loosens the soil with a tool. What is the action called?",
+          "text": "A gardener uses a spade to loosen the soil. Which sentence describes this action in the past?",
           "options": [
             "Rinse the beans with clean water.",
             "Cover the jar with cheesecloth and tie it with a rubber band.",
@@ -515,8 +515,7 @@
             "throw"
           ],
           "answer": "plant",
-          "discussion": "Plant means menanam. The seeds are placed in the prepared soil.",
-          "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/bean-sprouts.svg"
+          "discussion": "Plant means menanam. The seeds are placed in the prepared soil."
         },
         {
           "id": "ENG-B06-038",
@@ -547,7 +546,7 @@
         {
           "id": "ENG-B06-040",
           "type": "PG",
-          "text": "The gardener places carrot seeds in rows. Which verb describes this step?",
+          "text": "The gardener puts carrot seeds into the soil in rows. Which sentence describes this step?",
           "options": [
             "First, I dug the soil.",
             "Cover the jar with cheesecloth and tie it with a rubber band.",
@@ -586,7 +585,7 @@
         {
           "id": "ENG-B06-043",
           "type": "PG",
-          "text": "In The Enormous Carrot, what did the old man plant?",
+          "text": "Read this adapted practice story, The Enormous Carrot:\nAn old man prepared a planting bed and dug the soil. Then he planted carrot seeds and watered them. One carrot grew very large. He tried to pull it out, but he could not do it alone. His wife and granddaughter helped him. Together, they pulled the carrot out.\n\nIn The Enormous Carrot, what did the old man plant?",
           "options": [
             "Mung beans",
             "Corn",
@@ -599,7 +598,7 @@
         {
           "id": "ENG-B06-044",
           "type": "PG",
-          "text": "Why did the old man ask his family for help?",
+          "text": "Read this adapted practice story, The Enormous Carrot:\nAn old man prepared a planting bed and dug the soil. Then he planted carrot seeds and watered them. One carrot grew very large. He tried to pull it out, but he could not do it alone. His wife and granddaughter helped him. Together, they pulled the carrot out.\n\nWhy did the old man ask his family for help?",
           "options": [
             "He wanted to cook dinner.",
             "He lost his watering can.",
@@ -612,7 +611,7 @@
         {
           "id": "ENG-B06-045",
           "type": "PG",
-          "text": "Who helped the old man pull the enormous carrot?",
+          "text": "Read this adapted practice story, The Enormous Carrot:\nAn old man prepared a planting bed and dug the soil. Then he planted carrot seeds and watered them. One carrot grew very large. He tried to pull it out, but he could not do it alone. His wife and granddaughter helped him. Together, they pulled the carrot out.\n\nWho helped the old man pull the enormous carrot?",
           "options": [
             "His teacher and classmates",
             "His neighbours and friends",
@@ -633,8 +632,7 @@
             "harvest"
           ],
           "answer": "harvest",
-          "discussion": "Harvest means memanen. It is done when the vegetables are ready.",
-          "image": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/eng/assets/bean-sprouts.svg"
+          "discussion": "Harvest means memanen. It is done when the vegetables are ready."
         },
         {
           "id": "ENG-B06-047",
@@ -652,7 +650,7 @@
         {
           "id": "ENG-B06-048",
           "type": "PG",
-          "text": "What lesson can we learn from The Enormous Carrot?",
+          "text": "Read this adapted practice story, The Enormous Carrot:\nAn old man prepared a planting bed and dug the soil. Then he planted carrot seeds and watered them. One carrot grew very large. He tried to pull it out, but he could not do it alone. His wife and granddaughter helped him. Together, they pulled the carrot out.\n\nWhat lesson can we learn from The Enormous Carrot?",
           "options": [
             "It is better to work alone every time.",
             "Plants do not need water.",
@@ -678,7 +676,7 @@
         {
           "id": "ENG-B06-050",
           "type": "PG",
-          "text": "Which sentence tells what the old man did first?",
+          "text": "Read this adapted practice story, The Enormous Carrot:\nAn old man prepared a planting bed and dug the soil. Then he planted carrot seeds and watered them. One carrot grew very large. He tried to pull it out, but he could not do it alone. His wife and granddaughter helped him. Together, they pulled the carrot out.\n\nWhich sentence tells what the old man did first?",
           "options": [
             "He harvested the carrots.",
             "He asked his granddaughter for help.",
