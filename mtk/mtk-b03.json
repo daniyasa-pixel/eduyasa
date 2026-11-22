@@ -24,7 +24,7 @@
         {
           "id": "MTK-B03-M01-002",
           "type": "PG",
-          "text": "Sebuah kotak berbentuk kubus disusun dari kubus-kubus satuan. Setiap sisinya terdiri atas 2 kubus satuan. Berapa jumlah seluruh kubus satuan yang diperlukan?",
+          "text": "Sebuah kubus besar disusun dari kubus-kubus satuan, dengan 2 kubus satuan di sepanjang setiap rusuknya. Berapa jumlah seluruh kubus satuan yang diperlukan untuk mengisi kubus besar tersebut?",
           "options": [
             "4 kubus",
             "6 kubus",
@@ -89,7 +89,7 @@
         {
           "id": "MTK-B03-M01-007",
           "type": "PG",
-          "text": "Pada peta sekolah, posisi perpustakaan ditulis (B, 4). Angka 4 menunjukkan ....",
+          "text": "Pada peta berpetak, kolom diberi huruf dan baris diberi angka. Posisi perpustakaan ditulis (B, 4). Angka 4 menunjukkan ....",
           "options": [
             "Kolom",
             "Baris",
@@ -97,7 +97,7 @@
             "Jarak horizontal"
           ],
           "answer": "Baris",
-          "discussion": "Dalam sistem berpetak pada materi ini, huruf menunjukkan garis vertikal atau kolom, sedangkan angka menunjukkan garis horizontal atau baris."
+          "discussion": "Pada peta berpetak ini, huruf B menunjukkan kolom, sedangkan angka 4 menunjukkan baris. Jadi, angka 4 berarti baris keempat."
         },
         {
           "id": "MTK-B03-M01-008",
@@ -115,7 +115,7 @@
         {
           "id": "MTK-B03-M01-009",
           "type": "PG",
-          "text": "Sebuah bangunan berbentuk balok difoto dari depan dan dari samping. Mengapa kedua gambar tersebut dapat terlihat berbeda?",
+          "text": "Sebuah bangunan berbentuk balok difoto dari depan dan dari samping. Mengapa kedua foto dapat menunjukkan tampak bangunan yang berbeda meskipun bangunannya sama?",
           "options": [
             "Karena bangunannya berubah bentuk",
             "Karena setiap sisi memiliki ukuran yang berbeda",
@@ -258,7 +258,7 @@
         {
           "id": "MTK-B03-M01-020",
           "type": "PG",
-          "text": "Sebuah susunan kubus memiliki tampak depan berupa 3 persegi berjajar. Tampak sampingnya berupa 2 persegi bertumpuk. Jika susunan tersebut hanya memiliki satu lapisan ke atas dan tidak ada kubus tersembunyi, berapa kubus yang paling sedikit diperlukan untuk membentuk susunan dengan kedua tampilan tersebut?",
+          "text": "Sebuah susunan kubus satuan mempunyai tampak depan berupa 3 persegi berjajar mendatar dan tampak samping berupa 2 persegi berjajar mendatar. Semua kubus berada dalam satu lapisan setinggi satu kubus dan tidak ada kubus tersembunyi. Berapa jumlah kubus paling sedikit agar kedua tampak itu terpenuhi?",
           "options": [
             "3 kubus",
             "4 kubus",
@@ -266,7 +266,7 @@
             "6 kubus"
           ],
           "answer": "4 kubus",
-          "discussion": "Tampak depan membutuhkan tiga posisi mendatar, sedangkan tampak samping membutuhkan dua posisi ke belakang. Agar kedua tampilan tersebut terbentuk, susunan minimal dapat dibuat dari 3 kubus pada baris depan dan 1 kubus tambahan pada baris belakang, sehingga berjumlah 4 kubus."
+          "discussion": "Tampak depan memerlukan 3 posisi mendatar, sedangkan tampak samping memerlukan 2 posisi dari depan ke belakang. Susunan paling sedikit dapat dibuat dari 3 kubus berjajar pada baris depan ditambah 1 kubus pada baris belakang. Jadi, minimal diperlukan 4 kubus. Karena semuanya satu lapisan, kedua tampak berbentuk deretan persegi mendatar, bukan persegi bertumpuk."
         },
         {
           "id": "MTK-B03-M01-021",
@@ -331,7 +331,7 @@
             "8 jalur"
           ],
           "answer": "6 jalur",
-          "discussion": "Dari (A,1) ke (C,3), Rina harus bergerak 2 langkah ke kanan dan 2 langkah ke atas. Susunan langkah yang mungkin adalah RR UU, RURU, RUUR, URRU, URUR, dan UURR. Jadi, terdapat 6 jalur berbeda."
+          "discussion": "Dari (A, 1) ke (C, 3), Rina memerlukan 2 langkah ke kanan (K) dan 2 langkah ke atas (A). Keenam susunan langkah terpendek adalah KKAA, KAKA, KAAK, AKKA, AKAK, dan AAKK. Jadi, terdapat 6 jalur berbeda."
         },
         {
           "id": "MTK-B03-M01-026",
@@ -518,7 +518,7 @@
         {
           "id": "MTK-B03-M01-040",
           "type": "PG",
-          "text": "Sebuah gudang menyimpan 24 kardus berbentuk balok yang ukurannya sama. Setiap kardus memiliki alas berukuran 4 satuan persegi panjang dan 2 satuan persegi panjang. Semua kardus akan ditumpuk tepat satu di atas lainnya dalam satu tumpukan vertikal. Berapa luas lantai minimum yang diperlukan untuk menempatkan tumpukan tersebut?",
+          "text": "Sebanyak 24 kardus berbentuk balok mempunyai alas persegi panjang dengan panjang 4 satuan dan lebar 2 satuan. Semua kardus ditumpuk vertikal tepat satu di atas lainnya dengan orientasi alas yang sama. Berapa luas lantai yang ditempati tumpukan kardus tersebut?",
           "options": [
             "8 satuan persegi",
             "16 satuan persegi",
@@ -526,7 +526,7 @@
             "48 satuan persegi"
           ],
           "answer": "8 satuan persegi",
-          "discussion": "Karena semua kardus ditumpuk tepat satu di atas lainnya, luas lantai yang diperlukan hanya sebesar luas alas satu kardus. Luas alas = 4 × 2 = 8 satuan persegi. Jumlah kardus memengaruhi tinggi tumpukan, bukan luas lantai yang digunakan."
+          "discussion": "Karena kardus-kardus ditumpuk vertikal dengan alas yang sama, lantai hanya ditutupi oleh alas satu kardus. Luas alas = $4\\times2=8$ satuan persegi. Banyak kardus memengaruhi tinggi tumpukan, bukan luas lantai yang ditempatinya."
         },
         {
           "id": "MTK-B03-M01-041",
@@ -630,7 +630,7 @@
             "8 jalur"
           ],
           "answer": "6 jalur",
-          "discussion": "Untuk mencapai tujuan, diperlukan 2 langkah ke kanan dan 2 langkah ke atas. Ada 6 susunan berbeda dari empat langkah tersebut, yaitu RRAT, RART, RAAR, ARRT, ARTR, dan AARR, dengan R berarti kanan dan A berarti atas. Jadi, terdapat 6 jalur terpendek."
+          "discussion": "Untuk mencapai (C, 3) dari (A, 1), diperlukan 2 langkah ke kanan (K) dan 2 langkah ke atas (A). Enam susunan langkah terpendek adalah KKAA, KAKA, KAAK, AKKA, AKAK, dan AAKK. Jadi, terdapat 6 jalur."
         },
         {
           "id": "MTK-B03-M01-049",
