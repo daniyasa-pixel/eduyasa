@@ -24,7 +24,7 @@
         {
           "id": "MTK-B01-M01-002",
           "type": "PG",
-          "text": "Rina memiliki pita sepanjang $\\frac{2}{5}$ meter. Ia membeli 3 pita dengan panjang yang sama. Berapa total panjang pita Rina?",
+          "text": "Rina membeli 3 potong pita. Setiap potong panjangnya $\\frac{2}{5}$ meter. Berapa total panjang ketiga potong pita yang dibeli Rina?",
           "options": [
             "$\\frac{5}{5}$ meter",
             "$\\frac{6}{5}$ meter",
@@ -427,7 +427,7 @@
         {
           "id": "MTK-B01-M01-033",
           "type": "PG",
-          "text": "Perhatikan pasangan bilangan berikut.\n\nI. $\\frac{1}{2}$ dan 0,5 II. $\\frac{1}{4}$ dan 0,4 III. $\\frac{3}{4}$ dan 0,75\n\nPasangan bilangan yang memiliki nilai sama adalah ....",
+          "text": "Perhatikan pasangan bilangan berikut.\n\nI. $\\frac{1}{2}$ dan 0,5\nII. $\\frac{1}{4}$ dan 0,4\nIII. $\\frac{3}{4}$ dan 0,75\n\nPasangan bilangan yang memiliki nilai sama adalah ....",
           "options": [
             "I saja",
             "II saja",
@@ -440,7 +440,7 @@
         {
           "id": "MTK-B01-M01-034",
           "type": "PG",
-          "text": "Perhatikan data panjang beberapa benda berikut.\n\n| Benda     | Panjang |\n| --------- | ------- |\n| Pensil    | 0,15 m  |\n| Penggaris | 0,30 m  |\n| Penghapus | 0,05 m  |\n| Spidol    | 0,12 m  |\n\nBenda yang paling panjang adalah ....",
+          "text": "Perhatikan data panjang beberapa benda berikut.\n\n- Pensil: 0,15 meter\n- Penggaris: 0,30 meter\n- Penghapus: 0,05 meter\n- Spidol: 0,12 meter\n\nBenda yang paling panjang adalah ....",
           "options": [
             "Pensil",
             "Penggaris",
@@ -583,7 +583,7 @@
         {
           "id": "MTK-B01-M01-045",
           "type": "PG",
-          "text": "Perhatikan pernyataan berikut.\n\nI. 0,6 lebih besar daripada 0,56. II. 0,45 lebih kecil daripada 0,5. III. 0,08 lebih besar daripada 0,1. IV. 0,75 sama dengan $\\frac{3}{4}$.\n\nPernyataan yang benar adalah ....",
+          "text": "Perhatikan pernyataan berikut.\n\nI. 0,6 lebih besar daripada 0,56.\nII. 0,45 lebih kecil daripada 0,5.\nIII. 0,08 lebih besar daripada 0,1.\nIV. 0,75 sama dengan $\\frac{3}{4}$.\n\nPernyataan yang benar adalah ....",
           "options": [
             "I dan II",
             "I, II, dan IV",
@@ -635,7 +635,7 @@
         {
           "id": "MTK-B01-M01-049",
           "type": "PG",
-          "text": "Lima siswa mengukur panjang benda yang berbeda. Hasilnya adalah:\n\n- Siswa A: 0,625 meter\n- Siswa B: $\\frac{3}{5}$ meter\n- Siswa C: 0,65 meter\n- Siswa D: $\\frac{1}{2}$ meter\n\nSiapakah yang memiliki benda paling panjang?",
+          "text": "Empat siswa mengukur panjang benda yang berbeda. Hasilnya adalah:\n\n- Siswa A: 0,625 meter\n- Siswa B: $\\frac{3}{5}$ meter\n- Siswa C: 0,65 meter\n- Siswa D: $\\frac{1}{2}$ meter\n\nSiapakah yang memiliki benda paling panjang?",
           "options": [
             "Siswa A",
             "Siswa B",
@@ -648,7 +648,7 @@
         {
           "id": "MTK-B01-M01-050",
           "type": "PG",
-          "text": "Sebuah toko mempunyai persediaan 4 liter minyak. Minyak tersebut akan dikemas ke dalam botol berukuran $\\frac{3}{5}$ liter. Setelah mengisi botol sebanyak 5 buah, pemilik toko ingin mengetahui sisa minyak dalam bentuk desimal. Berapa liter sisa minyak tersebut?",
+          "text": "Sebuah toko mempunyai persediaan 4 liter minyak. Minyak tersebut akan dikemas ke dalam botol berukuran $\\frac{3}{5}$ liter. Setelah mengisi 5 botol penuh, pemilik toko ingin mengetahui sisa minyak dalam bentuk desimal. Berapa liter sisa minyak tersebut?",
           "options": [
             "0,5 liter",
             "0,8 liter",
