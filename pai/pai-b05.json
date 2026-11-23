@@ -11,7 +11,7 @@
         {
           "id": "PAI-B05-Q001",
           "type": "PG",
-          "text": "Siapa saja dua khalifah yang dipelajari dalam bab ini?",
+          "text": "Siapakah khalifah pertama dan kedua dalam kepemimpinan Khulafaurrasyidin setelah wafat Nabi Muhammad saw.?",
           "options": [
             "Abu Bakar al-Ṣiddiq dan Umar bin Khattab",
             "Uṡman bin Affan dan Ali bin Abi Ṭalib",
@@ -19,7 +19,7 @@
             "Khalid bin Walid dan Bilal"
           ],
           "answer": "Abu Bakar al-Ṣiddiq dan Umar bin Khattab",
-          "discussion": "Bab ini membahas jasa Abu Bakar dan Umar."
+          "discussion": "Khalifah pertama adalah Abu Bakar al-Ṣiddiq, lalu kepemimpinan dilanjutkan oleh Umar bin Khattab sebagai khalifah kedua."
         },
         {
           "id": "PAI-B05-Q002",
@@ -193,7 +193,7 @@
         {
           "id": "PAI-B05-Q015",
           "type": "PG",
-          "text": "Apa makna gelar al-Fārūq yang biasa dijelaskan dalam materi?",
+          "text": "Apa makna gelar al-Fārūq yang dikenal sebagai gelar Umar bin Khattab?",
           "options": [
             "Pemilik dua cahaya",
             "Singa Allah",
@@ -258,7 +258,7 @@
         {
           "id": "PAI-B05-Q020",
           "type": "PG",
-          "text": "Sikap Umar yang patut diteladani oleh pemimpin kelas adalah ...",
+          "text": "Pada ilustrasi terdapat simbol timbangan dengan pesan 'Adil dan bertanggung jawab'. Sikap Umar bin Khattab apa yang patut diteladani oleh seorang pemimpin kelas?",
           "options": [
             "Memberi tugas hanya kepada sahabat dekat",
             "Mengabaikan teman yang lemah",
@@ -266,7 +266,7 @@
             "Bersikap adil dan tidak pilih kasih"
           ],
           "answer": "Bersikap adil dan tidak pilih kasih",
-          "discussion": "Umar dikenal tegas dan adil dalam kepemimpinan.",
+          "discussion": "Timbangan melambangkan keadilan. Seorang pemimpin kelas yang meneladani Umar perlu membagi tugas dan menerapkan aturan secara adil, bukan hanya memihak teman dekat.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q05-justice.svg",
             "alt": "Ilustrasi keadilan pemimpin"
@@ -301,7 +301,7 @@
         {
           "id": "PAI-B05-Q023",
           "type": "PG",
-          "text": "Apa pelajaran dari kisah Umar yang masuk Islam setelah mendengar ayat Al-Qur’an?",
+          "text": "Dalam kisah masuk Islam, Umar bin Khattab mendengar bacaan Al-Qur’an lalu berubah dari menentang menjadi menerima ajaran Islam. Pelajaran apa yang dapat kita ambil dari perubahan sikap Umar?",
           "options": [
             "Orang tidak boleh berubah",
             "Kekerasan selalu menghasilkan kebaikan",
@@ -309,12 +309,12 @@
             "Belajar Al-Qur’an tidak memengaruhi hati"
           ],
           "answer": "Hidayah dapat mengubah sikap seseorang",
-          "discussion": "Kisah Umar menunjukkan perubahan hati setelah mendengar Al-Qur’an."
+          "discussion": "Perubahan sikap Umar mengajarkan bahwa hidayah dapat membawa seseorang meninggalkan sikap lama dan memilih kebaikan."
         },
         {
           "id": "PAI-B05-Q024",
           "type": "PG",
-          "text": "Jika ketua kelas memiliki teman dekat yang melanggar aturan, sikap yang meneladani Umar adalah ...",
+          "text": "Ilustrasi menampilkan timbangan sebagai lambang keadilan. Jika seorang ketua kelas mengetahui teman dekatnya melanggar aturan, tindakan apa yang sesuai dengan teladan keadilan Umar bin Khattab?",
           "options": [
             "Membiarkan karena teman dekat",
             "Menghukum teman lain sebagai pengganti",
@@ -344,15 +344,15 @@
         {
           "id": "PAI-B05-Q026",
           "type": "PG",
-          "text": "Apa perbedaan jasa pengumpulan Al-Qur’an Abu Bakar dan Uṡman yang perlu dipahami?",
+          "text": "Manakah pasangan jasa Abu Bakar al-Ṣiddiq dan Umar bin Khattab yang benar?",
           "options": [
-            "Abu Bakar mencetak mushaf digital, Uṡman menghafalkan semua surah",
-            "Abu Bakar memulai pengumpulan lembaran, Uṡman kemudian menyatukan rujukan mushaf standar",
-            "Abu Bakar menghapus mushaf, Uṡman menulis hadis",
-            "Keduanya melakukan hal yang sama pada waktu yang sama"
+            "Abu Bakar menetapkan kalender Hijriah, sedangkan Umar memulai pengumpulan Al-Qur’an",
+            "Abu Bakar memulai pengumpulan lembaran Al-Qur’an, sedangkan Umar menetapkan kalender Hijriah",
+            "Keduanya menjadi khalifah pertama pada waktu yang sama",
+            "Umar memimpin sebelum Abu Bakar dan membubarkan baitulmal"
           ],
-          "answer": "Abu Bakar memulai pengumpulan lembaran, Uṡman kemudian menyatukan rujukan mushaf standar",
-          "discussion": "Abu Bakar memulai pengumpulan, sedangkan Uṡman melakukan standardisasi mushaf."
+          "answer": "Abu Bakar memulai pengumpulan lembaran Al-Qur’an, sedangkan Umar menetapkan kalender Hijriah",
+          "discussion": "Abu Bakar memulai pengumpulan lembaran Al-Qur’an dengan menugaskan Zaid bin Ṡabit atas usulan Umar. Saat menjadi khalifah kedua, Umar menetapkan penggunaan kalender Hijriah dan menata pemerintahan."
         },
         {
           "id": "PAI-B05-Q027",
@@ -404,7 +404,7 @@
             "Agar sejarah tidak digunakan dalam kehidupan"
           ],
           "answer": "Agar kita memahami perjuangan mereka dan meneladani kebaikannya",
-          "discussion": "Tujuan bab adalah mengenal jasa dan mengambil keteladanan Khulafaurrasyidin."
+          "discussion": "Mempelajari riwayat kepemimpinan Khulafaurrasyidin membantu siswa memahami perjuangan sejarah sekaligus meneladani kejujuran, keadilan, dan tanggung jawab mereka."
         }
       ]
     }
