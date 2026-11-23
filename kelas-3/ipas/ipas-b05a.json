@@ -147,7 +147,7 @@
         {
           "id": "K03-IPAS-B05-M01-059",
           "type": "PG",
-          "text": "Berdasarkan data itu, toko mana memerlukan biaya beli satu buku lebih kecil?",
+          "text": "Gambar daftar harga menunjukkan buku tulis sejenis: toko A Rp4.000 dan toko B Rp3.500 per buku, dengan biaya perjalanan diabaikan. Toko mana lebih murah untuk membeli satu buku?",
           "options": [
             "A",
             "Keduanya sama",
@@ -164,7 +164,7 @@
         {
           "id": "K03-IPAS-B05-M01-060",
           "type": "PG",
-          "text": "Selisih harga satu buku di dua toko itu ialah ...",
+          "text": "Daftar harga memperlihatkan satu buku tulis sejenis seharga Rp4.000 di toko A dan Rp3.500 di toko B. Berapa selisih harga per bukunya?",
           "options": [
             "$\\text{Rp}1.500$",
             "$\\text{Rp}3.500$",
@@ -181,7 +181,7 @@
         {
           "id": "K03-IPAS-B05-M01-061",
           "type": "PG",
-          "text": "Bagian mana perlu diperbaiki pada catatan?",
+          "text": "Pada catatan belanja tertera buku Rp4.000, pensil Rp2.000, dan total tertulis Rp7.000 tanpa biaya tambahan. Kesalahan apa yang harus diperbaiki?",
           "options": [
             "Total seharusnya $\\text{Rp}6.000$",
             "Harga buku seharusnya dihapus",
@@ -198,7 +198,7 @@
         {
           "id": "K03-IPAS-B05-M01-062",
           "type": "PG",
-          "text": "Jika menemukan catatan seperti ini saat berbelanja, tindakan yang membantu ialah ...",
+          "text": "Struk menunjukkan buku Rp4.000 ditambah pensil Rp2.000 tetapi total tertulis Rp7.000. Jika menemukan selisih penjumlahan seperti itu, apa tindakan yang tepat saat berbelanja?",
           "options": [
             "Menganggap angka total selalu benar meski berbeda",
             "Menanyakan perhitungan total kepada penjual dengan sopan",
