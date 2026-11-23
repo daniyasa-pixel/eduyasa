@@ -60,9 +60,13 @@ class QuizPreloadController(context: Context) {
                         withContext(Dispatchers.Default) {
                             PreparedQuizQuestion(
                                 id = q.id,
-                                prompt = prepareEduText(q.text),
-                                answerOptions = q.options.associateWith(::prepareEduText),
-                                discussion = prepareEduText(q.discussion)
+                                prompt = prepareRenderedEduText(appContext, q.text, 17f),
+                                answerOptions = q.options.associateWith { option ->
+                                    prepareRenderedEduText(appContext, option, 14f)
+                                },
+                                discussion = prepareRenderedEduText(
+                                    appContext, q.discussion, 14f
+                                )
                             )
                         }
                     }
