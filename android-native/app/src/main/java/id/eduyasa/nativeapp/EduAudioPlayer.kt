@@ -2,6 +2,8 @@ package id.eduyasa.nativeapp
 
 import android.content.Context
 import android.media.MediaPlayer
+import android.media.AudioAttributes
+import android.speech.tts.UtteranceProgressListener
 import android.speech.tts.TextToSpeech
 import androidx.compose.runtime.*
 import java.util.Locale
@@ -49,6 +51,21 @@ class EduAudioPlayer(context: Context) {
                         " belum tersedia. Pasang data suara lewat pengaturan HP."
                     return
                 }
+                speech.setAudioAttributes(AudioAttributes.Builder()
+                    .setUsage(AudioAttributes.USAGE_MEDIA)
+                    .setContentType(AudioAttributes.CONTENT_TYPE_SPEECH)
+                    .build())
+                speech.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
+                    override fun onStart(utteranceId: String?) {
+                        status = "🔊 Sedang membacakan listening"
+                    }
+                    override fun onDone(utteranceId: String?) {
+                        status = ""
+                    }
+                    override fun onError(utteranceId: String?) {
+                        status = "Suara gagal dibacakan. Cek suara Bahasa Inggris di HP."
+                    }
+                })
                 speech.setSpeechRate((rate ?: .85f).coerceIn(.5f, 1.5f))
                 val outcome = speech.speak(
                     text, TextToSpeech.QUEUE_FLUSH, null, "eduyasa-listening"
@@ -64,6 +81,10 @@ class EduAudioPlayer(context: Context) {
                 }
                 try {
                     val player = MediaPlayer()
+                    player.setAudioAttributes(AudioAttributes.Builder()
+                        .setUsage(AudioAttributes.USAGE_MEDIA)
+                        .setContentType(AudioAttributes.CONTENT_TYPE_SPEECH)
+                        .build())
                     media = player
                     player.setDataSource(url)
                     player.setOnPreparedListener {
