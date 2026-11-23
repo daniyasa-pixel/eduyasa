@@ -762,29 +762,16 @@ private fun EduyasaApp() {
                                     index = i,
                                     text = option,
                                     prepared = preparedQuestion.answerOptions[option],
-                                    selected = !checked && selected == option,
+                                    selected = selected == option,
                                     correct = checked && option == q.answer,
                                     wrong = checked && selected == option && option != q.answer,
                                     checked = checked,
                                     onSelect = { selected = option }
                                 )
                             }
-                            // Always reserve the same space. Showing the selected label
-                            // must not push the next control down after the first tap.
-                            Text(
-                                when {
-                                    checked -> "Jawaban sudah dikoreksi"
-                                    selected == null -> "Ketuk satu pilihan jawaban"
-                                    else -> "Pilihan kamu: " +
-                                        ("ABCD".getOrNull(options.indexOf(selected)) ?: "?")
-                                },
-                                color = if (selected != null && !checked) Blue else Muted,
-                                fontSize = 12.sp,
-                                fontWeight = FontWeight.SemiBold,
-                                modifier = Modifier
-                                    .testTag("answer-selected-indicator")
-                                    .height(24.dp)
-                            )
+                            // The selected border alone provides feedback. No text/rich
+                            // math update or dynamic hint is needed when tapping a choice.
+                            Spacer(Modifier.height(6.dp))
                             AnimatedVisibility(
                                 visible = checked,
                                 enter = fadeIn(animationSpec = tween(220)) +
