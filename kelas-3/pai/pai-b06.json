@@ -24,7 +24,7 @@
         {
           "id": "K03-PAI-B06-M01-002",
           "type": "PG",
-          "text": "Menurut hadis riwayat al-Bukhari yang dipelajari, salat berjemaah lebih utama berapa derajat daripada salat sendirian?",
+          "text": "Menurut hadis riwayat al-Bukhari dari Abdullah bin Umar, berapa derajat keutamaan salat berjemaah dibanding salat sendirian?",
           "options": [
             "27 derajat",
             "17 derajat",
@@ -37,7 +37,7 @@
         {
           "id": "K03-PAI-B06-M01-003",
           "type": "PG",
-          "text": "Apa dua cara salat yang dibandingkan dalam hadis bab ini?",
+          "text": "Dalam hadis riwayat Abdullah bin Umar tentang keutamaan 27 derajat, dua cara melaksanakan salat apa yang dibandingkan?",
           "options": [
             "Di rumah dan dalam perjalanan",
             "Pada pagi dan malam hari",
@@ -63,7 +63,7 @@
         {
           "id": "K03-PAI-B06-M01-005",
           "type": "PG",
-          "text": "Siapa sahabat yang disebut meriwayatkan hadis ini dari Nabi?",
+          "text": "Siapa sahabat yang meriwayatkan hadis tentang salat berjemaah lebih utama 27 derajat daripada salat sendirian yang tercantum dalam Sahih al-Bukhari?",
           "options": [
             "Umar bin Abdul Aziz",
             "Abdullah bin Umar",
@@ -154,7 +154,7 @@
         {
           "id": "K03-PAI-B06-M01-012",
           "type": "PG",
-          "text": "Setelah bisa menyalin dengan garis pemandu, latihan apa yang mengikuti kegiatan di buku?",
+          "text": "Setelah berhasil menyalin teks hadis berbahasa Arab dengan garis pemandu, latihan lanjutan apa yang tepat untuk meningkatkan keterampilan menulis?",
           "options": [
             "Salin lagi tanpa garis pemandu dengan model di depan.",
             "Ubah urutan kata supaya mudah ditulis.",
@@ -258,7 +258,7 @@
         {
           "id": "K03-PAI-B06-M01-020",
           "type": "PG",
-          "text": "Apa yang dilakukan sebelum mulai latihan salat berjemaah sesungguhnya?",
+          "text": "Sebelum melaksanakan salat berjemaah, apa yang perlu dipastikan terkait syarat sah salat?",
           "options": [
             "Pastikan bersuci dan arah kiblat.",
             "Mulai dulu lalu berwudu setelah salam.",
