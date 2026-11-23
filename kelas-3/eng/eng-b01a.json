@@ -22,7 +22,7 @@
           "discussion": "Untaian panjang di dalam mangkuk menunjukkan mi. Tidak terlihat potongan ayam, roti, atau bola bakso.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-01.svg",
-            "alt": "Stimulus soal 36"
+            "alt": "Mangkuk berisi untaian makanan panjang dengan sumpit di sampingnya."
           }
         },
         {
@@ -39,7 +39,7 @@
           "discussion": "Baki B menampilkan roti dan pisang. Baki A menampilkan roti dan es krim.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-02.svg",
-            "alt": "Stimulus soal 37"
+            "alt": "Dua baki: Tray A berisi roti dan es krim; Tray B berisi roti dan pisang."
           }
         },
         {
@@ -56,7 +56,7 @@
           "discussion": "Baris Maya pada kolom milk bertanda silang. Legenda menyatakan silang berarti No.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-03.svg",
-            "alt": "Stimulus soal 38"
+            "alt": "Kartu survei: Maya menandai milk No dan tea Yes; Fikri menandai milk Yes dan tea No."
           }
         },
         {
@@ -73,7 +73,7 @@
           "discussion": "Riko menandai hidangan nasi goreng. Nisa menandai hidangan mi.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-04.svg",
-            "alt": "Stimulus soal 39"
+            "alt": "Dua kartu makanan: kartu Riko bergambar nasi goreng; kartu Nisa bergambar mi."
           }
         },
         {
@@ -90,7 +90,7 @@
           "discussion": "Ujung panah menunjuk es krim dalam cone. Pertanyaan yang sesuai menyebut ice cream.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-05.svg",
-            "alt": "Stimulus soal 40"
+            "alt": "Panah menunjuk es krim di sebelah kanan gambar roti."
           }
         },
         {
@@ -107,7 +107,7 @@
           "discussion": "Gambar pada baris kosong menunjukkan karton dan gelas susu. Baris tea sudah terisi.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-06.svg",
-            "alt": "Stimulus soal 41"
+            "alt": "Menu Drinks: baris pertama bertuliskan tea; baris kedua tanpa label menampilkan karton dan gelas susu."
           }
         },
         {
@@ -124,7 +124,7 @@
           "discussion": "Kolom bread bertanda centang pada kedua baris. Kolom lain hanya bertanda centang pada satu baris atau tidak sama sekali.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-07.svg",
-            "alt": "Stimulus soal 42"
+            "alt": "Survei: Rani menyukai bread dan ice cream; Dika menyukai bread dan bananas; keduanya menandai noodles No."
           }
         },
         {
@@ -141,7 +141,7 @@
           "discussion": "Pita Sold out ada di kartu yang bergambar paha ayam goreng, sehingga item itu sudah habis.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-08.svg",
-            "alt": "Stimulus soal 43"
+            "alt": "Menu: pita Sold out terdapat pada gambar ayam goreng; gambar lain menampilkan mi, bakso, dan nasi goreng."
           }
         },
         {
@@ -158,7 +158,7 @@
           "discussion": "Gambar menunjukkan irisan roti serta karton dan gelas susu. Tidak ada pisang atau teh.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-09.svg",
-            "alt": "Stimulus soal 44"
+            "alt": "Baki jajanan Dita menampilkan satu irisan roti serta karton dan gelas susu."
           }
         },
         {
@@ -175,7 +175,7 @@
           "discussion": "Pada baris Sari, fried chicken bertanda Yes dan fried rice bertanda No.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b01-gambar-10.svg",
-            "alt": "Stimulus soal 45"
+            "alt": "Kartu survei Sari: fried chicken bertanda Yes dan fried rice bertanda No."
           }
         }
       ]
