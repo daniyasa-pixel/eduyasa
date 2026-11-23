@@ -84,7 +84,7 @@
 
 ## Soal 6 — K03-PAI-B10-M01-006
 
-**Pertanyaan:** Dalam urutan yang dipelajari pada bab ini, wahyu apa yang dibahas sesudah lima ayat awal Al-‘Alaq?
+**Pertanyaan:** Dalam kisah awal kenabian, surah apa yang memuat perintah bangkit dan memberi peringatan setelah turunnya lima ayat pertama Surah Al-'Alaq?
 
 **Pilihan jawaban:**
 - Q.S. Al-Isra’ 17:1
@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-PAI-B10-M01-007
 
-**Pertanyaan:** Apa kaitan ayat awal Al-Muddassir dengan tugas Nabi yang dibahas dalam bab ini?
+**Pertanyaan:** Apa perintah yang terdapat dalam ayat-ayat awal Surah Al-Muddassir kepada Nabi Muhammad saw.?
 
 **Pilihan jawaban:**
 - Ayat itu mengisahkan pemilik kebun dan kawannya.
@@ -116,7 +116,7 @@
 
 ## Soal 8 — K03-PAI-B10-M01-008
 
-**Pertanyaan:** Manakah urutan awal kisah yang sesuai dengan bab ini?
+**Pertanyaan:** Manakah urutan peristiwa yang sesuai dengan kisah awal Nabi Muhammad saw. menerima wahyu dan memulai dakwah?
 
 **Pilihan jawaban:**
 - Berkhalwat di Hira → menerima ayat awal Al-‘Alaq → pulang menemui Khadijah → menerima ayat awal Al-Muddassir
@@ -308,7 +308,7 @@
 
 ## Soal 20 — K03-PAI-B10-M01-020
 
-**Pertanyaan:** Apa yang membuat suatu peristiwa disebut mukjizat dalam bab ini?
+**Pertanyaan:** Menurut ajaran Islam, apa yang dimaksud dengan mukjizat yang diberikan Allah kepada nabi atau rasul?
 
 **Pilihan jawaban:**
 - Setiap pengalaman langka yang dialami manusia.
@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-PAI-B10-M01-023
 
-**Pertanyaan:** Buku membahas Isra dan Mikraj sebagai satu rangkaian. Kartu mana yang khusus menjelaskan bagian Isra?
+**Pertanyaan:** Dalam kisah Isra dan Mikraj Nabi Muhammad saw., bagian manakah yang secara khusus disebut perjalanan Isra?
 
 **Pilihan jawaban:**
 - Perjalanan pulang dari Gua Hira ke rumah Khadijah
