@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-PAI-B07-M01-014
 
-**Pertanyaan:** Dalam hadis tentang rukun iman, Malaikat Jibril bertanya kepada Nabi Muhammad saw. tentang iman. Apa kaitan jawaban Nabi dengan bab ini?
+**Pertanyaan:** Dalam hadis Jibril mengenai rukun iman, Nabi Muhammad saw. menyebut kitab-kitab Allah. Pernyataan mana yang sesuai dengan keterangan itu?
 
 **Pilihan jawaban:**
 - Beriman kepada kitab Allah termasuk pokok iman.
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-PAI-B07-M01-029
 
-**Pertanyaan:** Bima rajin mengaji. Saat berebut tugas kelompok, ia memotong ucapan temannya. Perbaikan apa yang paling sesuai dengan pelajaran bab ini?
+**Pertanyaan:** Bima rajin membaca Al-Qur’an. Saat berebut tugas kelompok, ia memotong ucapan temannya. Sikap apa yang perlu diperbaiki Bima agar sesuai dengan ajaran berbuat baik?
 
 **Pilihan jawaban:**
 - Mendengarkan temannya sampai selesai, lalu menyampaikan pendapat dengan sopan.
@@ -468,7 +468,7 @@
 
 ## Soal 30 — K03-PAI-B07-M01-030
 
-**Pertanyaan:** Kalimat mana yang paling lengkap untuk menjawab pertanyaan “Apa yang kamu pelajari dari bab ini?”
+**Pertanyaan:** Kalimat manakah yang paling lengkap merangkum keyakinan kepada kitab-kitab Allah beserta penerapannya dalam kehidupan sehari-hari?
 
 **Pilihan jawaban:**
 - Aku hafal nama kitab sehingga sudah cukup belajar tentang iman.
