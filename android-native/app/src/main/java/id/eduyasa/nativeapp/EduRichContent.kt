@@ -15,6 +15,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
 import coil.ImageLoader
@@ -34,14 +35,18 @@ import kotlin.math.roundToInt
  * JSON EDUYASA uses single-dollar inline math whereas Markwon's LaTeX
  * extension expects double-dollar delimiters. Convert display syntax only.
  */
+private val inlineMathDollars = Regex("""(?<!\$)\$([^\r\n$]+)\$(?!\$)""")
+private val inlineMathParentheses = Regex("""\\\((.*?)\\\)""")
+private val blockMathBrackets = Regex("""\\\[([\s\S]*?)\\]""")
+
 internal fun prepareMathMarkdown(raw: String): String {
-    var text = raw.replace(Regex("""(?<!\$)\$([^\r\n$]+)\$(?!\$)"""), { match ->
+    var text = raw.replace(inlineMathDollars, { match ->
         "$" + "$" + match.groupValues[1] + "$" + "$"
     })
-    text = text.replace(Regex("""\\\((.*?)\\\)"""), { match ->
+    text = text.replace(inlineMathParentheses, { match ->
         "$" + "$" + match.groupValues[1] + "$" + "$"
     })
-    text = text.replace(Regex("""\\\[([\s\S]*?)\\]"""), { match ->
+    text = text.replace(blockMathBrackets, { match ->
         "$" + "$" + "\n" + match.groupValues[1] + "\n" + "$" + "$"
     })
     return text
@@ -83,7 +88,8 @@ fun EduRemoteImage(
     source: String?,
     description: String,
     modifier: Modifier = Modifier,
-    onClick: (() -> Unit)? = null
+    onClick: (() -> Unit)? = null,
+    fixedHeight: Dp? = null
 ) {
     val url = resolveEduMedia(source)
     val context = LocalContext.current
@@ -100,7 +106,9 @@ fun EduRemoteImage(
             imageLoader = EduImages.get(context),
             contentDescription = description,
             contentScale = ContentScale.Fit,
-            modifier = Modifier.fillMaxWidth().heightIn(min = 120.dp, max = 340.dp)
+            modifier = (if (fixedHeight == null)
+                Modifier.fillMaxWidth().heightIn(min = 120.dp, max = 340.dp)
+                else Modifier.fillMaxWidth().height(fixedHeight))
                 .then(if (onClick != null) Modifier.clickable(onClick = onClick) else Modifier),
             onError = { failed = true },
             onSuccess = { failed = false }
