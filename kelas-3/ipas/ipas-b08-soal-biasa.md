@@ -2,7 +2,7 @@
 
 ## Soal 1 — K03-IPAS-B08-M01-001
 
-**Pertanyaan:** Tiga wujud zat yang dipelajari pada bab ini ialah ...
+**Pertanyaan:** Manakah tiga wujud zat yang umum dipelajari dalam IPA untuk benda sehari-hari?
 
 **Pilihan jawaban:**
 - Padat, cair, dan gas
@@ -12,7 +12,7 @@
 
 **Kunci Jawaban:** Padat, cair, dan gas
 
-**Pembahasan:** Wujud zat dibedakan dari sifat bentuk dan ruang yang ditempati; suhu, ukuran, serta warna bukan nama ketiga wujud itu.
+**Pembahasan:** Benda yang sering kita jumpai dapat berada dalam wujud padat, cair, atau gas. Wujud menunjukkan keadaan zat, bukan jenis bahannya.
 
 ---
 
