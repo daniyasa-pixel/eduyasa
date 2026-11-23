@@ -18,7 +18,7 @@
 
 ## Soal 2 — K03-PAI-B06-M01-002
 
-**Pertanyaan:** Menurut hadis riwayat al-Bukhari yang dipelajari, salat berjemaah lebih utama berapa derajat daripada salat sendirian?
+**Pertanyaan:** Menurut hadis riwayat al-Bukhari dari Abdullah bin Umar, berapa derajat keutamaan salat berjemaah dibanding salat sendirian?
 
 **Pilihan jawaban:**
 - 27 derajat
@@ -34,7 +34,7 @@
 
 ## Soal 3 — K03-PAI-B06-M01-003
 
-**Pertanyaan:** Apa dua cara salat yang dibandingkan dalam hadis bab ini?
+**Pertanyaan:** Dalam hadis riwayat Abdullah bin Umar tentang keutamaan 27 derajat, dua cara melaksanakan salat apa yang dibandingkan?
 
 **Pilihan jawaban:**
 - Di rumah dan dalam perjalanan
@@ -66,7 +66,7 @@
 
 ## Soal 5 — K03-PAI-B06-M01-005
 
-**Pertanyaan:** Siapa sahabat yang disebut meriwayatkan hadis ini dari Nabi?
+**Pertanyaan:** Siapa sahabat yang meriwayatkan hadis tentang salat berjemaah lebih utama 27 derajat daripada salat sendirian yang tercantum dalam Sahih al-Bukhari?
 
 **Pilihan jawaban:**
 - Umar bin Abdul Aziz
@@ -178,7 +178,7 @@
 
 ## Soal 12 — K03-PAI-B06-M01-012
 
-**Pertanyaan:** Setelah bisa menyalin dengan garis pemandu, latihan apa yang mengikuti kegiatan di buku?
+**Pertanyaan:** Setelah berhasil menyalin teks hadis berbahasa Arab dengan garis pemandu, latihan lanjutan apa yang tepat untuk meningkatkan keterampilan menulis?
 
 **Pilihan jawaban:**
 - Salin lagi tanpa garis pemandu dengan model di depan.
@@ -306,7 +306,7 @@
 
 ## Soal 20 — K03-PAI-B06-M01-020
 
-**Pertanyaan:** Apa yang dilakukan sebelum mulai latihan salat berjemaah sesungguhnya?
+**Pertanyaan:** Sebelum melaksanakan salat berjemaah, apa yang perlu dipastikan terkait syarat sah salat?
 
 **Pilihan jawaban:**
 - Pastikan bersuci dan arah kiblat.
