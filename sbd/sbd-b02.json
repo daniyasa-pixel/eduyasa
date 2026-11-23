@@ -50,7 +50,7 @@
         {
           "id": "SBD-B02-M01-004",
           "type": "PG",
-          "text": "Rani terinspirasi pola daun karya temannya. Tindakan yang tepat adalah ...",
+          "text": "Rani melihat karya kolase daun buatan Nisa. Rani ingin belajar dari pola daun tersebut, tetapi tetap membuat karya miliknya sendiri. Tindakan apa yang tepat?",
           "options": [
             "Mengunggah salinan sebagai karya asli dirinya",
             "Membuat susunan daun sendiri dan menyebut sumber inspirasinya",
@@ -58,7 +58,7 @@
             "Meminta teman berhenti berkarya"
           ],
           "answer": "Membuat susunan daun sendiri dan menyebut sumber inspirasinya",
-          "discussion": "Susunan baru dan penyebutan sumber menunjukkan pengolahan gagasan yang jujur."
+          "discussion": "Rani boleh mempelajari teknik dan pengulangan daun dari kolase Nisa, lalu membuat susunan sendiri serta mengakui sumber inspirasinya. Menyalin dan mengaku karya sendiri tidak menghargai pembuat."
         },
         {
           "id": "SBD-B02-M01-005",
@@ -102,7 +102,7 @@
         {
           "id": "SBD-B02-M01-008",
           "type": "PG",
-          "text": "Dua karya memakai warna sama tetapi terasa berbeda. Penyebab yang masuk akal adalah ...",
+          "text": "Dua poster memakai warna biru dan oranye yang sama. Poster pertama memiliki satu bidang biru besar, sedangkan poster kedua menempatkan bidang-bidang kecil biru di banyak tempat. Mengapa kesan kedua poster bisa berbeda?",
           "options": [
             "Warna sama harus menghasilkan karya identik",
             "Ukuran, posisi, dan perbandingan luas warnanya berbeda",
@@ -110,7 +110,7 @@
             "Salah satu karya pasti tidak memiliki bentuk"
           ],
           "answer": "Ukuran, posisi, dan perbandingan luas warnanya berbeda",
-          "discussion": "Komposisi ditentukan oleh hubungan berbagai unsur, bukan nama warna saja."
+          "discussion": "Walaupun warna yang dipakai sama, ukuran, posisi, dan luas bidang warna membentuk susunan visual yang berlainan. Itulah sebabnya komposisinya dapat memberi kesan berbeda."
         },
         {
           "id": "SBD-B02-M01-009",
@@ -167,7 +167,7 @@
         {
           "id": "SBD-B02-M01-013",
           "type": "PG",
-          "text": "Motif batik yang diamati dapat dipelajari melalui ...",
+          "text": "Siswa mengamati foto motif batik dari beberapa daerah, tetapi belum mengetahui asal dan maknanya. Aspek apa yang tepat dicatat dan ditelusuri sebelum membuat karya terinspirasi motif tersebut?",
           "options": [
             "Bentuk, pengulangan, susunan, dan konteks budayanya",
             "Anggapan bahwa semua motif berasal dari satu daerah",
@@ -175,7 +175,7 @@
             "Pernyataan bahwa semua motif bebas dipakai untuk semua keperluan"
           ],
           "answer": "Bentuk, pengulangan, susunan, dan konteks budayanya",
-          "discussion": "Motif dapat memiliki konteks budaya tertentu sehingga bentuk dan maknanya perlu dipelajari dengan sumber yang sesuai."
+          "discussion": "Motif batik dapat dipelajari melalui bentuk dan pengulangan visual sekaligus asal serta konteks budayanya. Makna simbol tidak seharusnya ditebak tanpa sumber tepercaya."
         },
         {
           "id": "SBD-B02-M01-014",
@@ -206,7 +206,7 @@
         {
           "id": "SBD-B02-M01-016",
           "type": "PG",
-          "text": "Cat pada kertas uji membuat garis luntur. Apa langkah berikutnya?",
+          "text": "Laras mencoba cat air pada selembar kertas uji. Karena terlalu banyak air, garis warna menjadi luntur dan menyebar. Perubahan apa yang sebaiknya dicoba pada percobaan berikutnya?",
           "options": [
             "Menyalahkan pembuat karya acuan",
             "Mencoba mengurangi air atau memakai kertas yang lebih sesuai",
@@ -214,7 +214,7 @@
             "Menganggap semua cat tidak dapat digunakan"
           ],
           "answer": "Mencoba mengurangi air atau memakai kertas yang lebih sesuai",
-          "discussion": "Hasil uji memberi informasi tentang hubungan jumlah air dan sifat kertas."
+          "discussion": "Mengurangi air atau memakai kertas yang cocok untuk cat air membantu Laras menguji faktor yang membuat garis luntur, sebelum menerapkan teknik pada karya akhir."
         },
         {
           "id": "SBD-B02-M01-017",
@@ -323,7 +323,7 @@
         {
           "id": "SBD-B02-M01-025",
           "type": "PG",
-          "text": "Saat memotret karya teman untuk laporan, tindakan yang tepat adalah ...",
+          "text": "Beni ingin memotret kolase buatan teman sekelasnya untuk dimasukkan ke laporan tugas. Apa tindakan yang menghargai pembuat karya tersebut?",
           "options": [
             "Meminta izin dan mencantumkan nama pembuat sesuai kesepakatan",
             "Langsung mengunggah tanpa izin",
@@ -331,7 +331,7 @@
             "Menyembunyikan tujuan pemotretan"
           ],
           "answer": "Meminta izin dan mencantumkan nama pembuat sesuai kesepakatan",
-          "discussion": "Izin dan atribusi menghormati pembuat serta penggunaan dokumentasi karyanya."
+          "discussion": "Sebelum memotret dan memakai dokumentasi karya teman dalam laporan, Beni sebaiknya meminta izin, menjelaskan tujuan penggunaan, dan mencantumkan nama pembuat sesuai kesepakatan."
         },
         {
           "id": "SBD-B02-M01-026",
@@ -453,15 +453,15 @@
         {
           "id": "SBD-B02-M01-035",
           "type": "PG",
-          "text": "Mengapa salinan foto bukan bukti bahwa seseorang membuat karya aslinya?",
+          "text": "Mira memotret patung yang dibuat temannya lalu menyimpan fotonya. Apakah foto tersebut membuktikan bahwa Mira adalah pembuat patung aslinya?",
           "options": [
-            "Semua foto bebas diakui sebagai lukisan sendiri",
-            "Nama pembuat tidak pernah diperlukan",
-            "Dokumentasi dan penciptaan karya adalah kegiatan yang berbeda",
-            "Setiap pemilik foto otomatis menjadi pencipta karya"
+            "Ya, karena siapa pun yang memotret otomatis menjadi pembuat patung",
+            "Tidak, memotret patung tidak berarti membuat patung itu",
+            "Ya, selama foto disimpan di ponsel milik Mira",
+            "Ya, karena nama pembuat patung tidak perlu dicatat"
           ],
-          "answer": "Dokumentasi dan penciptaan karya adalah kegiatan yang berbeda",
-          "discussion": "Memiliki atau mengambil foto tidak memindahkan kepemilikan gagasan dan karya yang dipotret."
+          "answer": "Tidak, memotret patung tidak berarti membuat patung itu",
+          "discussion": "Dokumentasi karya dan pembuatan karya adalah dua kegiatan berbeda. Mira dapat menjadi pemotret, tetapi pencipta patung tetap temannya."
         },
         {
           "id": "SBD-B02-M01-036",
@@ -570,7 +570,7 @@
         {
           "id": "SBD-B02-M01-044",
           "type": "PG",
-          "text": "Gambar acuan mempunyai bunga besar di tengah. Agar komposisi baru berbeda, siswa dapat ...",
+          "text": "Di ruang kelas terdapat gambar acuan dengan satu bunga besar di tengah. Siswa ingin membuat komposisi bunga yang berbeda dan menghargai sumber acuan. Apa langkah yang tepat?",
           "options": [
             "Mengklaim karya acuan sebagai karyanya",
             "Mengatur beberapa bunga kecil pada sisi bidang sesuai gagasannya",
@@ -578,7 +578,7 @@
             "Menghapus sumber acuan dari catatan"
           ],
           "answer": "Mengatur beberapa bunga kecil pada sisi bidang sesuai gagasannya",
-          "discussion": "Perubahan susunan dapat menjadi bagian pengembangan gagasan baru, dengan tetap menghargai sumber."
+          "discussion": "Menyusun beberapa bunga kecil di posisi yang berbeda adalah cara mengolah gagasan menjadi komposisi baru. Jika memakai inspirasi dari karya tertentu, sumbernya tetap perlu dihargai."
         },
         {
           "id": "SBD-B02-M01-045",
@@ -622,7 +622,7 @@
         {
           "id": "SBD-B02-M01-048",
           "type": "PG",
-          "text": "Lem berlebih membuat kertas kolase bergelombang. Perbaikan untuk percobaan berikutnya adalah ...",
+          "text": "Saat membuat kolase, Tania memakai lem terlalu banyak sehingga kertasnya basah dan bergelombang. Apa perbaikan yang paling tepat untuk percobaan berikutnya?",
           "options": [
             "Menghapus semua perencanaan",
             "Menggunakan lem secukupnya sesuai bahan dan petunjuk",
@@ -630,7 +630,7 @@
             "Menarik kertas basah sekeras mungkin"
           ],
           "answer": "Menggunakan lem secukupnya sesuai bahan dan petunjuk",
-          "discussion": "Penggunaan lem secukupnya dapat mengurangi kelembapan berlebih pada kertas."
+          "discussion": "Lem terlalu banyak dapat menambah kelembapan dan membuat kertas tipis bergelombang. Pakailah jumlah lem secukupnya sesuai jenis bahan dan petunjuk penggunaannya."
         },
         {
           "id": "SBD-B02-M01-049",
