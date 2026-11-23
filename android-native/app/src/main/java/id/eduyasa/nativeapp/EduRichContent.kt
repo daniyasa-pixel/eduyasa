@@ -15,6 +15,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
 import coil.ImageLoader
 import coil.compose.AsyncImage
@@ -98,6 +99,31 @@ fun EduRemoteImage(
     }
 }
 
+/**
+ * Options without formatting use pure Compose Text. It avoids nesting a native
+ * AndroidView inside a clickable answer and removes unnecessary LaTeX work.
+ */
+@Composable
+fun EduAnswerText(content: String, modifier: Modifier = Modifier) {
+    val isRich = remember(content) {
+        content.contains('$') || content.contains("**") || content.contains("__") ||
+            content.contains("\\(") || content.contains("\\[") ||
+            content.contains('\n') || content.contains('\u0060') ||
+            Regex("""(?<!\w)[*_][^*_\r\n]+[*_](?!\w)""").containsMatchIn(content)
+    }
+    if (isRich) {
+        EduRichText(content, modifier = modifier, sizeSp = 14f)
+    } else {
+        Text(content, modifier = modifier, fontSize = 14.sp, color = Color(0xFF172033))
+    }
+}
+
+private class EduFormattedTextView(context: Context) : TextView(context) {
+    var lastMarkdown: String? = null
+    var lastSizeSp: Float = -1f
+    var lastTextColor: Int = 0
+}
+
 /** Rich math and Markdown displayed using an Android-native TextView. */
 @Composable
 fun EduRichText(
@@ -108,7 +134,9 @@ fun EduRichText(
 ) {
     val context = LocalContext.current
     val latexSize = remember(sizeSp, context) {
-        TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_SP, sizeSp, context.resources.displayMetrics)
+        TypedValue.applyDimension(
+            TypedValue.COMPLEX_UNIT_SP, sizeSp, context.resources.displayMetrics
+        )
     }
     val markwon = remember(context, latexSize) {
         Markwon.builder(context.applicationContext)
@@ -122,18 +150,28 @@ fun EduRichText(
     AndroidView(
         modifier = modifier.fillMaxWidth(),
         factory = { ctx ->
-            TextView(ctx).apply {
-                setTextSize(TypedValue.COMPLEX_UNIT_SP, sizeSp)
-                setTextColor(color)
+            EduFormattedTextView(ctx).apply {
                 setLineSpacing(5f, 1.1f)
+                // Let the parent Compose choice own the complete touch target.
                 setTextIsSelectable(false)
-                markwon.setMarkdown(this, formatted)
+                isClickable = false
+                isLongClickable = false
+                isFocusable = false
+                isFocusableInTouchMode = false
             }
         },
         update = { view ->
-            view.setTextSize(TypedValue.COMPLEX_UNIT_SP, sizeSp)
-            view.setTextColor(color)
-            markwon.setMarkdown(view, formatted)
+            // AndroidView.update runs during unrelated Compose recompositions,
+            // for example every time the student taps A/B/C/D. Do not reparse.
+            if (view.lastMarkdown != formatted || view.lastSizeSp != sizeSp ||
+                view.lastTextColor != color) {
+                view.setTextSize(TypedValue.COMPLEX_UNIT_SP, sizeSp)
+                view.setTextColor(color)
+                markwon.setMarkdown(view, formatted)
+                view.lastMarkdown = formatted
+                view.lastSizeSp = sizeSp
+                view.lastTextColor = color
+            }
         }
     )
 }
