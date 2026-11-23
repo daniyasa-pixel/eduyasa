@@ -219,3 +219,17 @@ Perubahan frontend:
 **Belum diuji Gradle build, instrumentasi, atau HP.** `Markwon` memiliki mekanisme internal pemrosesan LaTeX asynchronous, sehingga persiapan Spanned lebih awal diharapkan menurunkan biaya parsing/instansiasi di layar, namun hasil akhir gambar rumus belum dapat dijamin bebas lag. Ukur dengan Android Studio System Trace, bandingkan `EDUYASA.PreRenderRichText` (background) versus `EDUYASA.RenderRichText` (UI) sebelum menyimpulkan akar masalah.
 
 Uji ulang contoh yang sama terutama setelah soal 10–15; pastikan pecahan matematis tetap muncul, sentuhan langsung memberi ripple, pilihan tersimpan, perhitungan skor tetap benar. Semua perubahan hanya di folder `android-native` branch `android`; tidak mengedit soal JSON, materi, atau HTML.
+
+## Tahap 10 — Lapisan sentuh terpisah dan border-only A/B/C/D
+
+Setelah percobaan Smart Preload sebelumnya, perangkat masih melaporkan tap A/B/C/D kadang tidak bereaksi berkali-kali pada pecahan LaTeX. Solusi UI yang disepakati:
+- Isi pilihan (label A/B/C/D dan teks/LaTeX) tetap ditampilkan secara **statis di lapisan bawah** dengan background putih.
+- **Lapisan transparan di urutan paling atas** masing-masing kotak menangani seluruh sentuhan menggunakan Compose `Modifier.clickable`. Tidak memproses rumus, mengubah warna teks, mengganti background, atau memperbesar/memperkecil kotak saat memilih.
+- Hanya **garis tepi** pilihan yang berubah **biru** seketika; pilihan lain kembali abu-abu. Setelah `KOREKSI JAWABAN`, warna garis kembali mengikuti hasil benar (hijau) atau salah (merah) dan lapisan sentuhan nonaktif.
+- `onSelect = { selected = option }` **tetap terhubung ke sumber kebenaran yang sama**. Kunci jawaban, skor, histori, level/bintang, dan opsi teracak tidak diubah.
+- Baris teks status dinamis `Pilihan kamu: A/B/C/D` dihapus agar pemilihan hanya memicu umpan balik pada garis tepi; layout tetap diberi jarak statis.
+- Ada metadata aksesibilitas per pilihan (`RadioButton` dan keadaan terpilih).
+
+File frontend diubah: `QuizAnswerChoice.kt` dan `MainActivity.kt` dalam branch `android` saja. Tidak ada perubahan JSON, materi, atau versi HTML.
+
+**Pengujian penting** (belum dilakukan dari sesi ini): Gradle Sync dan build APK; uji soal matematika pecahan dengan sentuhan di angka, di rumus, di pinggir, dan di sela kosong pada setiap pilihan; cek kecepatan respons mulai soal 1 hingga 25; ganti pilihan beberapa kali sebelum koreksi, pastikan skor benar; setelah koreksi pilihan terkunci, garis hijau/merah dan pembahasan tetap tampil. Jika masih ada tap tidak tertangkap, gunakan Android Studio Layout Inspector, System Trace dan Input event tracing untuk menguji apakah AndroidView menutupi overlay pointer; jangan menganggap hasilnya sudah terbukti tanpa tes HP.
