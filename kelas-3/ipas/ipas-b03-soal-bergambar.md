@@ -166,7 +166,7 @@
 
 ![Kesempatan belajar. Sita: Sedang belajar mengikat tali sepatu. Bima: Sudah terampil mengikat tali sepatu. Dukungan: Keduanya boleh belajar sesuai kebutuhannya.](assets/ipas-b03-gambar-05.svg)
 
-**Pertanyaan:** Apa yang belum diketahui dari kartu?
+**Pertanyaan:** Kartu memperlihatkan Sita sedang belajar mengikat tali sepatu dan Bima sudah terampil. Informasi apa yang tidak dapat disimpulkan dari kartu kemampuan tersebut?
 
 **Pilihan jawaban:**
 - Kegiatan yang sedang dipelajari Sita
@@ -292,7 +292,7 @@
 
 ![Tugas yang perlu disesuaikan. Semula: Kakak bertugas menyapu. Kini: Kakak sedang sakit. Rencana: Bicarakan pengganti sementara.](assets/ipas-b03-gambar-09.svg)
 
-**Pertanyaan:** Mengapa pembagian tugas perlu dibicarakan kembali?
+**Pertanyaan:** Dalam kartu pembagian tugas, kakak semula bertugas menyapu, tetapi kini sedang sakit. Mengapa keluarga perlu membicarakan pembagian tugas kembali?
 
 **Pilihan jawaban:**
 - Menyapu tidak pernah diperlukan
@@ -310,7 +310,7 @@
 
 ![Tugas yang perlu disesuaikan. Semula: Kakak bertugas menyapu. Kini: Kakak sedang sakit. Rencana: Bicarakan pengganti sementara.](assets/ipas-b03-gambar-09.svg)
 
-**Pertanyaan:** Perubahan yang disarankan gambar ialah ...
+**Pertanyaan:** Kartu menunjukkan kakak yang biasanya menyapu kini sedang sakit. Perubahan pembagian tugas apa yang paling sesuai dilakukan keluarga?
 
 **Pilihan jawaban:**
 - Memaksa Kakak tetap menyapu meskipun tidak mampu
@@ -346,7 +346,7 @@
 
 ![Hasil kegiatan bersama. Sebelum: Buku dan mainan menutupi jalan di ruang keluarga. Kegiatan: Keluarga berbagi tugas merapikan. Sesudah: Jalan di ruang keluarga kembali terbuka.](assets/ipas-b03-gambar-10.svg)
 
-**Pertanyaan:** Apa hubungan kegiatan dan hasil pada gambar?
+**Pertanyaan:** Gambar menunjukkan jalan ruang keluarga tertutup buku dan mainan, lalu kembali terbuka sesudah keluarga berbagi tugas merapikan. Hubungan apa yang ditunjukkan antara kegiatan dan hasil?
 
 **Pilihan jawaban:**
 - Ruangan rapi tanpa kegiatan apa pun
