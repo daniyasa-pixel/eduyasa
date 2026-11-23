@@ -4,7 +4,7 @@
 
 ## Soal 1 — K03-PAI-B05-M01-001
 
-**Pertanyaan:** Apa arti istilah Arab pra-Islam dalam bab ini?
+**Pertanyaan:** Dalam sejarah Islam, apa arti istilah “masyarakat Arab pra-Islam”?
 
 **Pilihan jawaban:**
 - Masyarakat Arab setelah hijrah ke Madinah
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-PAI-B05-M01-027
 
-**Pertanyaan:** Apa perbedaan yang tepat antara selawat dan bagan perjalanan Nabi?
+**Pertanyaan:** Siswa membuat bagan perjalanan Nabi Muhammad saw. untuk mengurutkan peristiwa dan membaca selawat sebagai doa. Apa perbedaan fungsi selawat dengan bagan itu?
 
 **Pilihan jawaban:**
 - Selawat menunjukkan rute, bagan berisi doa
@@ -436,7 +436,7 @@
 
 ## Soal 28 — K03-PAI-B05-M01-028
 
-**Pertanyaan:** Dito menceritakan bahwa Nabi Muhammad saw. pertama kali belajar berdagang saat menerima wahyu. Apa perbaikannya sesuai pokok bab?
+**Pertanyaan:** Dito berkata Nabi Muhammad saw. baru mengenal perdagangan setelah menerima wahyu. Berdasarkan kisah masa muda Nabi, bagaimana pernyataan itu harus diperbaiki?
 
 **Pilihan jawaban:**
 - Pengalaman berdagang sudah ada ketika beliau masih muda
