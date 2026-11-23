@@ -63,7 +63,7 @@
         {
           "id": "SBD-B01-M01-005",
           "type": "PG",
-          "text": "Alya menggambar kulit pohon pada kertas licin. Gambar terlihat kasar tetapi kertas tetap licin. Ini contoh ...",
+          "text": "Alya menggambar kulit pohon dengan garis dan arsiran pada kertas licin. Saat dilihat, permukaan tampak kasar, tetapi ketika diraba kertasnya tetap licin. Jenis tekstur apa yang dibuat Alya?",
           "options": [
             "Tekstur semu",
             "Tekstur nyata",
@@ -71,7 +71,7 @@
             "Bahan anyaman"
           ],
           "answer": "Tekstur semu",
-          "discussion": "Tekstur semu memberi kesan permukaan melalui penglihatan, tanpa mengubah sifat rabaan kertas."
+          "discussion": "Tekstur semu merupakan kesan kasar atau halus yang terlihat pada gambar, tetapi tidak terasa sama saat permukaannya diraba. Tekstur asli kertas tetap licin."
         },
         {
           "id": "SBD-B01-M01-006",
@@ -89,7 +89,7 @@
         {
           "id": "SBD-B01-M01-007",
           "type": "PG",
-          "text": "Bagian bola yang menghadap sumber cahaya biasanya digambar ...",
+          "text": "Dita menggambar sebuah bola di atas meja dengan lampu menyala di sebelah kanan. Agar bola terlihat bervolume, bagaimana sebaiknya bagian kanan yang menghadap lampu dibandingkan dengan sisi kiri?",
           "options": [
             "Tanpa warna sama sekali",
             "Lebih gelap daripada semua bayangannya",
@@ -97,12 +97,12 @@
             "Selalu sama gelap dengan seluruh bola"
           ],
           "answer": "Lebih terang daripada sisi yang membelakangi cahaya",
-          "discussion": "Perbedaan nilai terang dan gelap dapat membantu memperlihatkan arah cahaya dan volume bola."
+          "discussion": "Bagian bola yang menghadap lampu biasanya menerima lebih banyak cahaya, sedangkan sisi sebaliknya cenderung lebih gelap. Perbedaan nilai terang-gelap membantu menunjukkan volume."
         },
         {
           "id": "SBD-B01-M01-008",
           "type": "PG",
-          "text": "Mengapa tulisan putih pada latar biru tua lebih mudah dibaca daripada biru tua pada biru tua?",
+          "text": "Dua poster memakai latar biru tua. Poster pertama menggunakan tulisan putih, sedangkan poster kedua memakai tulisan biru tua yang hampir sama dengan latar. Mengapa tulisan pada poster pertama lebih mudah dibaca?",
           "options": [
             "Semua tulisan putih selalu bergerak",
             "Nilai terang-gelap tulisan berbeda jelas dari latar",
@@ -110,7 +110,7 @@
             "Biru tua tidak termasuk warna"
           ],
           "answer": "Nilai terang-gelap tulisan berbeda jelas dari latar",
-          "discussion": "Kontras nilai membantu memisahkan tulisan dari latarnya, dengan ukuran huruf yang memadai."
+          "discussion": "Kontras terang-gelap antara huruf putih dan latar biru tua membuat tulisan lebih terpisah secara visual. Warna huruf yang hampir sama dengan latar lebih sulit dibedakan."
         },
         {
           "id": "SBD-B01-M01-009",
@@ -128,15 +128,15 @@
         {
           "id": "SBD-B01-M01-010",
           "type": "PG",
-          "text": "Apakah gambar harus memiliki dua sisi yang sama persis agar tampak seimbang?",
+          "text": "Sebuah poster menempatkan satu gambar besar di kiri dan beberapa bentuk kecil berwarna terang di kanan. Walaupun kedua sisi tidak identik, susunannya terasa seimbang. Prinsip apa yang ditunjukkan oleh poster tersebut?",
           "options": [
-            "Ya, semua gambar wajib seperti cermin",
-            "Ya, warna di kedua sisi wajib sama",
-            "Tidak, semua unsur harus dihilangkan",
-            "Tidak, keseimbangan juga dapat dicapai dengan susunan asimetris"
+            "Keseimbangan simetris yang wajib sama persis",
+            "Keseimbangan asimetris berdasarkan bobot visual",
+            "Pengulangan bentuk yang selalu identik",
+            "Keselarasan yang hanya bisa terjadi tanpa warna"
           ],
-          "answer": "Tidak, keseimbangan juga dapat dicapai dengan susunan asimetris",
-          "discussion": "Keseimbangan berkaitan dengan bobot visual; susunan yang tidak identik juga dapat terasa seimbang."
+          "answer": "Keseimbangan asimetris berdasarkan bobot visual",
+          "discussion": "Keseimbangan asimetris terjadi ketika unsur pada dua sisi tidak sama bentuk atau jumlahnya, tetapi bobot visualnya tetap terasa seimbang."
         },
         {
           "id": "SBD-B01-M01-011",
@@ -180,7 +180,7 @@
         {
           "id": "SBD-B01-M01-014",
           "type": "PG",
-          "text": "Lukisan pada selembar kertas termasuk karya ...",
+          "text": "Seorang siswa melukis pemandangan di atas selembar kertas. Dalam lukisannya terlihat gunung jauh dan dekat, tetapi permukaan karya tetap berupa bidang datar. Karya tersebut termasuk ...",
           "options": [
             "Tiga dimensi bervolume nyata",
             "Empat dimensi ruang",
@@ -188,7 +188,7 @@
             "Dua dimensi"
           ],
           "answer": "Dua dimensi",
-          "discussion": "Gambar pada bidang datar dinikmati melalui panjang dan lebarnya; kesan ruang di gambar tidak menjadi volume nyata."
+          "discussion": "Lukisan di atas kertas termasuk karya dua dimensi karena memiliki panjang dan lebar. Kesan kedalaman pada gambar tidak membuatnya menjadi benda bervolume nyata."
         },
         {
           "id": "SBD-B01-M01-015",
@@ -323,7 +323,7 @@
         {
           "id": "SBD-B01-M01-025",
           "type": "PG",
-          "text": "Mengapa proporsi perlu diperhatikan saat menggambar benda hasil pengamatan?",
+          "text": "Ketika menggambar cangkir dari pengamatan langsung, Dimas membuat gagang hampir sebesar badan cangkir, padahal gagang aslinya lebih kecil. Mengapa ia perlu memperhatikan proporsi?",
           "options": [
             "Agar hubungan ukuran bagian-bagian benda sesuai tujuan gambar",
             "Agar semua benda menjadi sama besar",
@@ -331,7 +331,7 @@
             "Agar setiap orang memakai alat yang sama"
           ],
           "answer": "Agar hubungan ukuran bagian-bagian benda sesuai tujuan gambar",
-          "discussion": "Proporsi adalah hubungan ukuran antarbagiannya, misalnya ukuran gagang terhadap badan cangkir."
+          "discussion": "Proporsi menunjukkan hubungan ukuran bagian-bagian suatu benda. Mengamati perbandingan gagang dan badan cangkir membantu Dimas menggambarnya sesuai tujuan pengamatan."
         },
         {
           "id": "SBD-B01-M01-026",
@@ -440,7 +440,7 @@
         {
           "id": "SBD-B01-M01-034",
           "type": "PG",
-          "text": "Mengapa dua objek berukuran sama dapat tampak berbeda menonjol di gambar?",
+          "text": "Pada gambar poster, dua lingkaran sama besar ditempatkan berbeda: satu merah terang di atas latar gelap dan satu abu-abu di antara bentuk abu-abu lain. Mengapa lingkaran merah lebih menarik perhatian?",
           "options": [
             "Ukuran selalu menjadi satu-satunya penentu",
             "Objek kecil tidak dapat menarik perhatian",
@@ -448,7 +448,7 @@
             "Warna, nilai, dan lingkungan visualnya berbeda"
           ],
           "answer": "Warna, nilai, dan lingkungan visualnya berbeda",
-          "discussion": "Penekanan dapat dipengaruhi kontras dan unsur sekitarnya, selain ukuran."
+          "discussion": "Objek dengan ukuran sama bisa memiliki penekanan berbeda. Perbedaan warna dan kontras terhadap unsur di sekitarnya membuat lingkaran merah lebih menonjol."
         },
         {
           "id": "SBD-B01-M01-035",
@@ -583,7 +583,7 @@
         {
           "id": "SBD-B01-M01-045",
           "type": "PG",
-          "text": "Jika hasil gambar berbeda dari benda asli, langkah belajar yang baik adalah ...",
+          "text": "Rina membandingkan sketsa cangkir buatannya dengan cangkir asli. Ia melihat letak gagang kurang tepat. Apa langkah belajar yang paling membantu untuk memperbaiki sketsanya?",
           "options": [
             "Membandingkan bagian tertentu lalu memilih perbaikan yang dibutuhkan",
             "Menganggap diri tidak dapat belajar seni",
@@ -591,7 +591,7 @@
             "Menyalahkan benda yang diamati"
           ],
           "answer": "Membandingkan bagian tertentu lalu memilih perbaikan yang dibutuhkan",
-          "discussion": "Perbandingan terarah membantu memahami bagian yang perlu dilatih tanpa menghakimi diri."
+          "discussion": "Memperhatikan perbedaan pada bagian tertentu membantu menentukan perbaikan secara bertahap. Kesalahan posisi gagang dapat diperbaiki lewat pengamatan tanpa menyalahkan diri sendiri."
         },
         {
           "id": "SBD-B01-M01-046",
