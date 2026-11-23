@@ -348,7 +348,7 @@ private fun EduyasaApp() {
                     .testTag("page-scroll-content")
             ) {
                 Column(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 20.dp)) {
-            if (page != Page.HOME && page != Page.RESULT && page != Page.STATS) {
+            if (page !in setOf(Page.HOME, Page.RESULT, Page.STATS, Page.SETTINGS)) {
                 StepIndicator(when (page) {
                     Page.SUBJECTS -> 1
                     Page.CHAPTERS -> 2
@@ -732,7 +732,8 @@ private fun EduyasaApp() {
                                         .testTag("quizQImage"),
                                     onClick = {
                                         resolveEduMedia(q.imageUrl)?.let { zoomImage = it }
-                                    }
+                                    },
+                                    fixedHeight = 210.dp
                                 )
                                 Text("Ketuk gambar untuk memperbesar", color = Muted,
                                     fontSize = 11.sp)
