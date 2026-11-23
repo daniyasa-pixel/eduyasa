@@ -164,7 +164,7 @@
         {
           "id": "K03-IPAS-B03-M01-060",
           "type": "PG",
-          "text": "Apa yang belum diketahui dari kartu?",
+          "text": "Kartu memperlihatkan Sita sedang belajar mengikat tali sepatu dan Bima sudah terampil. Informasi apa yang tidak dapat disimpulkan dari kartu kemampuan tersebut?",
           "options": [
             "Kegiatan yang sedang dipelajari Sita",
             "Keterampilan yang sudah dimiliki Bima",
@@ -283,7 +283,7 @@
         {
           "id": "K03-IPAS-B03-M01-067",
           "type": "PG",
-          "text": "Mengapa pembagian tugas perlu dibicarakan kembali?",
+          "text": "Dalam kartu pembagian tugas, kakak semula bertugas menyapu, tetapi kini sedang sakit. Mengapa keluarga perlu membicarakan pembagian tugas kembali?",
           "options": [
             "Menyapu tidak pernah diperlukan",
             "Semua tugas harus diberikan kepada bayi",
@@ -300,7 +300,7 @@
         {
           "id": "K03-IPAS-B03-M01-068",
           "type": "PG",
-          "text": "Perubahan yang disarankan gambar ialah ...",
+          "text": "Kartu menunjukkan kakak yang biasanya menyapu kini sedang sakit. Perubahan pembagian tugas apa yang paling sesuai dilakukan keluarga?",
           "options": [
             "Memaksa Kakak tetap menyapu meskipun tidak mampu",
             "Menyembunyikan keadaan Kakak",
@@ -334,7 +334,7 @@
         {
           "id": "K03-IPAS-B03-M01-070",
           "type": "PG",
-          "text": "Apa hubungan kegiatan dan hasil pada gambar?",
+          "text": "Gambar menunjukkan jalan ruang keluarga tertutup buku dan mainan, lalu kembali terbuka sesudah keluarga berbagi tugas merapikan. Hubungan apa yang ditunjukkan antara kegiatan dan hasil?",
           "options": [
             "Ruangan rapi tanpa kegiatan apa pun",
             "Berbagi tugas membantu ruangan kembali rapi",
