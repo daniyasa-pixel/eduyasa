@@ -37,7 +37,7 @@
         {
           "id": "PJK-B02-M01-003",
           "type": "PG",
-          "text": "Dalam situasi berikut: Alya tahu bolanya terakhir menyentuh tangannya sebelum keluar. Mengapa pilihan \"Mengakui sentuhan dan mengikuti keputusan sesuai aturan\" membantu?",
+          "text": "Alya mengakui bahwa bola terakhir menyentuh tangannya sebelum keluar lapangan. Mengapa sikap jujur ini penting bagi tim dan lawan?",
           "options": [
             "Kejujuran tidak berkaitan dengan kepercayaan",
             "Kejujuran membantu menjaga kepercayaan dalam pertandingan",
@@ -50,15 +50,15 @@
         {
           "id": "PJK-B02-M01-004",
           "type": "PG",
-          "text": "Alya tahu bolanya terakhir menyentuh tangannya sebelum keluar. Jika justru memilih \"Menyalahkan teman yang tidak menyentuh\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Bola keluar lapangan setelah terakhir menyentuh tangan Alya. Ia justru menuduh teman yang tidak menyentuhnya. Apa akibat sikap tersebut?",
           "options": [
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Kepercayaan antarpemain rusak ketika kejadian sengaja disembunyikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+            "Teman yang tidak bersalah dapat merasa diperlakukan tidak adil dan kepercayaan menurun",
+            "Keputusan permainan pasti menjadi lebih akurat",
+            "Semua pemain langsung percaya kepada Alya",
+            "Aturan kejujuran menjadi tidak penting bagi permainan"
           ],
-          "answer": "Kepercayaan antarpemain rusak ketika kejadian sengaja disembunyikan",
-          "discussion": "Kepercayaan antarpemain rusak ketika kejadian sengaja disembunyikan. Pilihan yang dianjurkan: Mengakui sentuhan dan mengikuti keputusan sesuai aturan."
+          "answer": "Teman yang tidak bersalah dapat merasa diperlakukan tidak adil dan kepercayaan menurun",
+          "discussion": "Menuduh teman yang tidak menyentuh bola tidak menyelesaikan persoalan. Alya sebaiknya jujur mengakui sentuhan terakhir dan mengikuti aturan yang disepakati."
         },
         {
           "id": "PJK-B02-M01-005",
@@ -102,7 +102,7 @@
         {
           "id": "PJK-B02-M01-008",
           "type": "PG",
-          "text": "Dalam situasi berikut: Bima melihat teman berada pada posisi operan yang lebih baik. Mengapa pilihan \"Mengoper sesuai peluang dan peran tim\" membantu?",
+          "text": "Bima melihat temannya berada dalam posisi yang lebih bebas untuk menerima bola. Mengapa mengoper kepada teman dapat membantu kerja sama tim?",
           "options": [
             "Pembagian peran membuat peluang tim tidak bergantung pada satu orang",
             "Kebutuhan peserta tidak perlu diperhatikan",
@@ -115,15 +115,15 @@
         {
           "id": "PJK-B02-M01-009",
           "type": "PG",
-          "text": "Bima melihat teman berada pada posisi operan yang lebih baik. Jika justru memilih \"Membawa bola sendiri meski selalu terhalang\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Bima melihat temannya bebas menerima operan tetapi tetap memaksakan membawa bola sendiri saat dijaga dua lawan. Apa kerugian utama bagi timnya?",
           "options": [
-            "Sebagian anggota kehilangan kesempatan berpartisipasi bila bola selalu dikuasai sendiri",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+            "Peluang kehilangan bola meningkat dan teman lain tidak mendapat kesempatan",
+            "Jalur operan otomatis menjadi lebih terbuka",
+            "Lawan pasti berhenti menjaga Bima",
+            "Semua anggota tim menjadi lebih mudah berkoordinasi"
           ],
-          "answer": "Sebagian anggota kehilangan kesempatan berpartisipasi bila bola selalu dikuasai sendiri",
-          "discussion": "Sebagian anggota kehilangan kesempatan berpartisipasi bila bola selalu dikuasai sendiri. Pilihan yang dianjurkan: Mengoper sesuai peluang dan peran tim."
+          "answer": "Peluang kehilangan bola meningkat dan teman lain tidak mendapat kesempatan",
+          "discussion": "Ketika Bima terus menguasai bola meski terhalang, lawan lebih mudah memotong serangan. Kerja sama dan operan kepada teman yang lebih bebas dapat memperbaiki peluang tim."
         },
         {
           "id": "PJK-B02-M01-010",
@@ -167,7 +167,7 @@
         {
           "id": "PJK-B02-M01-013",
           "type": "PG",
-          "text": "Dalam situasi berikut: Citra ingin memberi tahu bahwa ia siap menerima bola. Mengapa pilihan \"Memberi isyarat yang disepakati sambil melihat pembawa bola\" membantu?",
+          "text": "Citra memberi isyarat yang disepakati ketika siap menerima bola sambil melihat pembawa bola. Mengapa cara komunikasi ini membantu permainan?",
           "options": [
             "Kejujuran tidak berkaitan dengan kepercayaan",
             "Isyarat yang dipahami membantu penyelarasan operan",
@@ -180,15 +180,15 @@
         {
           "id": "PJK-B02-M01-014",
           "type": "PG",
-          "text": "Citra ingin memberi tahu bahwa ia siap menerima bola. Jika justru memilih \"Berteriak menghina penjaga\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Citra ingin menerima operan, tetapi ia justru menghina pemain yang menjaganya alih-alih memberi isyarat kepada temannya. Apa risiko sikap ini?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Operan dapat salah sasaran jika kesiapan tidak dikomunikasikan"
+            "Perselisihan dapat muncul dan pembawa bola tidak tahu bahwa Citra siap menerima operan",
+            "Isyarat tim otomatis menjadi jelas tanpa komunikasi",
+            "Pemain yang dijaga pasti langsung bebas bergerak",
+            "Aturan bermain selalu mengizinkan hinaan untuk meminta bola"
           ],
-          "answer": "Operan dapat salah sasaran jika kesiapan tidak dikomunikasikan",
-          "discussion": "Operan dapat salah sasaran jika kesiapan tidak dikomunikasikan. Pilihan yang dianjurkan: Memberi isyarat yang disepakati sambil melihat pembawa bola."
+          "answer": "Perselisihan dapat muncul dan pembawa bola tidak tahu bahwa Citra siap menerima operan",
+          "discussion": "Menghina pemain lain tidak membantu komunikasi. Isyarat yang disepakati dengan santun lebih membantu pengoper bola mengetahui posisi dan kesiapan Citra."
         },
         {
           "id": "PJK-B02-M01-015",
@@ -232,7 +232,7 @@
         {
           "id": "PJK-B02-M01-018",
           "type": "PG",
-          "text": "Dalam situasi berikut: Danu memiliki anggota tim dengan kemampuan gerak berbeda. Mengapa pilihan \"Menyepakati penyesuaian peran dan alat agar semua terlibat\" membantu?",
+          "text": "Danu bermain bersama teman dengan kemampuan gerak berbeda. Mengapa penyesuaian peran dan alat yang disepakati dapat membuat permainan lebih inklusif?",
           "options": [
             "Kebutuhan peserta tidak perlu diperhatikan",
             "Kejujuran tidak berkaitan dengan kepercayaan",
@@ -245,15 +245,15 @@
         {
           "id": "PJK-B02-M01-019",
           "type": "PG",
-          "text": "Danu memiliki anggota tim dengan kemampuan gerak berbeda. Jika justru memilih \"Mengeluarkan teman yang baru belajar\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Danu menyusun permainan kelompok yang beranggotakan peserta dengan kemampuan gerak berbeda. Ia mengeluarkan teman yang masih belajar dari permainan. Apa akibatnya?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Teman tersisih bila perbedaan kemampuan dijadikan alasan untuk mengecualikan"
+            "Teman kehilangan kesempatan berlatih dan merasa tersisih",
+            "Semua anggota otomatis memperoleh kesempatan yang sama",
+            "Tim pasti bekerja lebih kompak tanpa penyesuaian",
+            "Permainan menjadi inklusif hanya karena kelompok mengecil"
           ],
-          "answer": "Teman tersisih bila perbedaan kemampuan dijadikan alasan untuk mengecualikan",
-          "discussion": "Teman tersisih bila perbedaan kemampuan dijadikan alasan untuk mengecualikan. Pilihan yang dianjurkan: Menyepakati penyesuaian peran dan alat agar semua terlibat."
+          "answer": "Teman kehilangan kesempatan berlatih dan merasa tersisih",
+          "discussion": "Permainan inklusif memberi kesempatan sesuai kebutuhan peserta. Jika ada perbedaan kemampuan, guru dan tim dapat menyepakati alat, peran, atau aturan yang aman tanpa mengecualikan teman."
         },
         {
           "id": "PJK-B02-M01-020",
@@ -297,7 +297,7 @@
         {
           "id": "PJK-B02-M01-023",
           "type": "PG",
-          "text": "Dalam situasi berikut: Eka akan mengikuti permainan yang dimodifikasi. Mengapa pilihan \"Membahas batas lapangan cara mendapat poin dan keselamatan\" membantu?",
+          "text": "Sebelum mengikuti permainan yang dimodifikasi, Eka dan timnya membahas batas lapangan, cara memperoleh poin, dan keselamatan. Mengapa ini penting?",
           "options": [
             "Kemenangan membolehkan perubahan aturan sepihak",
             "Kejujuran tidak berkaitan dengan kepercayaan",
@@ -310,15 +310,15 @@
         {
           "id": "PJK-B02-M01-024",
           "type": "PG",
-          "text": "Eka akan mengikuti permainan yang dimodifikasi. Jika justru memilih \"Mengubah aturan saat tim sendiri tertinggal\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Eka mengikuti permainan modifikasi. Saat timnya tertinggal, ia mengubah aturan pencetakan poin tanpa persetujuan lawan. Apa risikonya?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Perselisihan mudah muncul ketika aturan tidak jelas sejak awal",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+            "Terjadi perselisihan karena aturan diubah sepihak",
+            "Kedua tim pasti merasa diperlakukan adil",
+            "Pemain lain otomatis mengetahui aturan yang berubah",
+            "Permainan tetap berjalan tanpa perlu kesepakatan"
           ],
-          "answer": "Perselisihan mudah muncul ketika aturan tidak jelas sejak awal",
-          "discussion": "Perselisihan mudah muncul ketika aturan tidak jelas sejak awal. Pilihan yang dianjurkan: Membahas batas lapangan cara mendapat poin dan keselamatan."
+          "answer": "Terjadi perselisihan karena aturan diubah sepihak",
+          "discussion": "Mengubah aturan ketika sedang tertinggal tanpa persetujuan dapat menimbulkan konflik dan ketidakadilan. Semua pihak perlu membahas serta menyepakati perubahan aturan sebelum menerapkannya."
         },
         {
           "id": "PJK-B02-M01-025",
@@ -362,7 +362,7 @@
         {
           "id": "PJK-B02-M01-028",
           "type": "PG",
-          "text": "Dalam situasi berikut: Farah selalu menjadi pengambil alat sementara yang lain bermain. Mengapa pilihan \"Menyusun pergantian peran yang disepakati\" membantu?",
+          "text": "Farah sering ditugaskan mengambil alat sehingga jarang ikut bermain. Mengapa pembagian dan pergantian peran yang disepakati membantu?",
           "options": [
             "Kemenangan membolehkan perubahan aturan sepihak",
             "Kejujuran tidak berkaitan dengan kepercayaan",
@@ -375,15 +375,15 @@
         {
           "id": "PJK-B02-M01-029",
           "type": "PG",
-          "text": "Farah selalu menjadi pengambil alat sementara yang lain bermain. Jika justru memilih \"Menetapkan satu anak selalu di luar permainan\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Dalam permainan kelompok, Farah selalu diminta mengambil alat sehingga tidak pernah mendapat giliran bermain. Apa akibat pembagian tugas seperti ini?",
           "options": [
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pengalaman belajar timpang jika peran tidak pernah berganti"
+            "Kesempatan belajar dan mencoba berbagai peran menjadi tidak merata",
+            "Farah otomatis menguasai semua keterampilan permainan",
+            "Setiap anggota memperoleh pengalaman bermain yang sama",
+            "Pembagian peran tidak berpengaruh pada kegiatan belajar"
           ],
-          "answer": "Pengalaman belajar timpang jika peran tidak pernah berganti",
-          "discussion": "Pengalaman belajar timpang jika peran tidak pernah berganti. Pilihan yang dianjurkan: Menyusun pergantian peran yang disepakati."
+          "answer": "Kesempatan belajar dan mencoba berbagai peran menjadi tidak merata",
+          "discussion": "Jika Farah selalu ditugaskan di luar permainan, ia kehilangan kesempatan mencoba keterampilan. Rotasi peran yang mempertimbangkan kemampuan dan keselamatan membantu pemerataan kesempatan."
         },
         {
           "id": "PJK-B02-M01-030",
@@ -427,7 +427,7 @@
         {
           "id": "PJK-B02-M01-033",
           "type": "PG",
-          "text": "Dalam situasi berikut: Gilang dan lawan berbeda pendapat tentang bola keluar. Mengapa pilihan \"Berhenti sejenak dan meminta bantuan guru atau pemimpin permainan\" membantu?",
+          "text": "Gilang dan lawan tidak sepakat tentang apakah bola sudah keluar lapangan. Mengapa meminta penjelasan guru atau pemimpin permainan lebih baik daripada bertengkar?",
           "options": [
             "Kejujuran tidak berkaitan dengan kepercayaan",
             "Bantuan penengah dan aturan bersama membantu memeriksa perbedaan",
@@ -440,15 +440,15 @@
         {
           "id": "PJK-B02-M01-034",
           "type": "PG",
-          "text": "Gilang dan lawan berbeda pendapat tentang bola keluar. Jika justru memilih \"Mendorong lawan agar mengalah\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Gilang dan lawan berselisih tentang bola yang keluar lapangan. Gilang justru mendorong lawannya agar mengalah. Apa risiko perilaku tersebut?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pertengkaran dapat meningkat jika dibalas dengan dorongan atau ejekan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian"
+            "Pertengkaran dapat membesar dan lawan bisa terluka",
+            "Perbedaan pendapat pasti langsung selesai dengan adil",
+            "Dorongan membuat aturan permainan menjadi lebih jelas",
+            "Semua pemain akan setuju tanpa perlu mendengar penjelasan"
           ],
-          "answer": "Pertengkaran dapat meningkat jika dibalas dengan dorongan atau ejekan",
-          "discussion": "Pertengkaran dapat meningkat jika dibalas dengan dorongan atau ejekan. Pilihan yang dianjurkan: Berhenti sejenak dan meminta bantuan guru atau pemimpin permainan."
+          "answer": "Pertengkaran dapat membesar dan lawan bisa terluka",
+          "discussion": "Dorongan fisik dapat membahayakan orang dan memperburuk konflik. Berhenti sejenak, mendengarkan, lalu meminta bantuan guru atau pemimpin permainan adalah pilihan lebih aman."
         },
         {
           "id": "PJK-B02-M01-035",
@@ -492,7 +492,7 @@
         {
           "id": "PJK-B02-M01-038",
           "type": "PG",
-          "text": "Dalam situasi berikut: Hana melihat teman kecewa setelah melakukan kesalahan. Mengapa pilihan \"Memberi dukungan dan mengajak mencoba perbaikan\" membantu?",
+          "text": "Hana melihat temannya kecewa karena salah mengoper. Mengapa dukungan dan ajakan mencoba lagi lebih bermanfaat daripada ejekan?",
           "options": [
             "Kebutuhan peserta tidak perlu diperhatikan",
             "Dukungan membuat teman lebih nyaman untuk belajar kembali",
@@ -505,15 +505,15 @@
         {
           "id": "PJK-B02-M01-039",
           "type": "PG",
-          "text": "Hana melihat teman kecewa setelah melakukan kesalahan. Jika justru memilih \"Menertawakan kesalahan di depan kelompok\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Hana melihat seorang teman kecewa karena salah bermain lalu menertawakannya di depan kelompok. Apa akibat yang mungkin dialami temannya?",
           "options": [
-            "Teman dapat takut mencoba lagi jika dipermalukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+            "Teman merasa malu dan takut mencoba keterampilan lagi",
+            "Teman pasti lebih percaya diri tanpa dukungan",
+            "Kesalahan permainan langsung hilang tanpa latihan",
+            "Kelompok otomatis menjadi lebih kompak karena ejekan"
           ],
-          "answer": "Teman dapat takut mencoba lagi jika dipermalukan",
-          "discussion": "Teman dapat takut mencoba lagi jika dipermalukan. Pilihan yang dianjurkan: Memberi dukungan dan mengajak mencoba perbaikan."
+          "answer": "Teman merasa malu dan takut mencoba keterampilan lagi",
+          "discussion": "Ejekan di depan kelompok dapat merusak rasa percaya diri. Dukungan dan saran konkret membuat teman lebih nyaman untuk memperbaiki keterampilan."
         },
         {
           "id": "PJK-B02-M01-040",
@@ -557,7 +557,7 @@
         {
           "id": "PJK-B02-M01-043",
           "type": "PG",
-          "text": "Dalam situasi berikut: Intan kalah dalam permainan yang ketat. Mengapa pilihan \"Menenangkan diri dan membicarakan pengalaman dengan santun\" membantu?",
+          "text": "Intan kecewa setelah kalah dalam permainan. Mengapa menenangkan diri lalu berbicara santun membantu menjaga sportivitas?",
           "options": [
             "Kebutuhan peserta tidak perlu diperhatikan",
             "Kejujuran tidak berkaitan dengan kepercayaan",
@@ -570,15 +570,15 @@
         {
           "id": "PJK-B02-M01-044",
           "type": "PG",
-          "text": "Intan kalah dalam permainan yang ketat. Jika justru memilih \"Melempar alat ke arah orang lain\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Intan kesal setelah kalah. Ia melempar alat permainan ke arah pemain lain. Mengapa tindakannya berbahaya?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Orang lain dapat terluka jika alat dilempar saat marah",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+            "Alat yang dilempar bisa mengenai dan melukai orang lain",
+            "Alat pasti mendarat aman tanpa mengenai siapa pun",
+            "Melempar alat membuat hasil pertandingan berubah",
+            "Kekalahan memberi hak untuk menyerang pemain lain"
           ],
-          "answer": "Orang lain dapat terluka jika alat dilempar saat marah",
-          "discussion": "Orang lain dapat terluka jika alat dilempar saat marah. Pilihan yang dianjurkan: Menenangkan diri dan membicarakan pengalaman dengan santun."
+          "answer": "Alat yang dilempar bisa mengenai dan melukai orang lain",
+          "discussion": "Melempar alat saat marah dapat mencederai orang lain. Intan perlu berhenti, menenangkan diri, dan mengungkapkan kekecewaan dengan cara aman serta santun."
         },
         {
           "id": "PJK-B02-M01-045",
@@ -622,7 +622,7 @@
         {
           "id": "PJK-B02-M01-048",
           "type": "PG",
-          "text": "Dalam situasi berikut: Joko selesai mengikuti permainan kelompok. Mengapa pilihan \"Mengembalikan alat dan memastikan ruang tidak berbahaya\" membantu?",
+          "text": "Setelah bermain, Joko mengembalikan bola dan memastikan lapangan tidak memiliki benda yang membahayakan. Mengapa tindakan ini termasuk tanggung jawab tim?",
           "options": [
             "Kejujuran tidak berkaitan dengan kepercayaan",
             "Kemenangan membolehkan perubahan aturan sepihak",
@@ -635,15 +635,15 @@
         {
           "id": "PJK-B02-M01-049",
           "type": "PG",
-          "text": "Joko selesai mengikuti permainan kelompok. Jika justru memilih \"Meninggalkan bola di jalur jalan\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Seusai permainan, Joko meninggalkan bola di tengah jalur yang dilalui siswa lain. Risiko apa yang perlu ia perhatikan?",
           "options": [
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pengguna berikutnya berisiko tersandung bila alat ditinggalkan di jalur"
+            "Siswa yang lewat dapat tersandung bola dan jatuh",
+            "Lapangan otomatis lebih aman karena bola dibiarkan",
+            "Bola pasti tersimpan sendiri di tempat alat",
+            "Tidak ada orang lain yang menggunakan jalur tersebut"
           ],
-          "answer": "Pengguna berikutnya berisiko tersandung bila alat ditinggalkan di jalur",
-          "discussion": "Pengguna berikutnya berisiko tersandung bila alat ditinggalkan di jalur. Pilihan yang dianjurkan: Mengembalikan alat dan memastikan ruang tidak berbahaya."
+          "answer": "Siswa yang lewat dapat tersandung bola dan jatuh",
+          "discussion": "Bola yang dibiarkan pada jalur lalu lintas dapat menyebabkan orang tersandung. Setelah bermain, alat perlu dikembalikan dan area diperiksa agar aman."
         },
         {
           "id": "PJK-B02-M01-050",
