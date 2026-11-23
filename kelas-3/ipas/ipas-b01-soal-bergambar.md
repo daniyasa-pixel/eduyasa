@@ -184,7 +184,7 @@
 
 ![Dua tempat membaca. A: Cahaya cukup; tulisan tampak jelas. B: Cahaya redup; tulisan sulit terlihat. Tugas: Pilih berdasarkan hasil pengamatan.](assets/ipas-b01-gambar-06.svg)
 
-**Pertanyaan:** Tempat mana mendukung membaca berdasarkan catatan?
+**Pertanyaan:** Pada kartu pengamatan tempat membaca, tempat A memiliki cahaya cukup dan tulisan terlihat jelas, sedangkan tempat B redup. Tempat mana lebih mendukung kegiatan membaca?
 
 **Pilihan jawaban:**
 - Tempat A
@@ -202,7 +202,7 @@
 
 ![Dua tempat membaca. A: Cahaya cukup; tulisan tampak jelas. B: Cahaya redup; tulisan sulit terlihat. Tugas: Pilih berdasarkan hasil pengamatan.](assets/ipas-b01-gambar-06.svg)
 
-**Pertanyaan:** Bukti apa yang mendukung pilihan itu?
+**Pertanyaan:** Pada kartu pengamatan, tempat A bercahaya cukup sedangkan tempat B redup. Bukti apa yang menunjukkan bahwa tempat A lebih nyaman untuk membaca?
 
 **Pilihan jawaban:**
 - Buku di B pasti lebih mahal
@@ -310,7 +310,7 @@
 
 ![Catatan kebersihan. Sebelum: Tangan terkena tanah saat berkebun. Langkah: Cuci dengan sabun dan air. Sesudah: Baru memegang makanan.](assets/ipas-b01-gambar-09.svg)
 
-**Pertanyaan:** Mengapa urutan pada gambar membantu kebersihan?
+**Pertanyaan:** Gambar menunjukkan tangan terkena tanah setelah berkebun, lalu dicuci dengan sabun dan air sebelum memegang makanan. Mengapa urutan kegiatan itu membantu menjaga kebersihan?
 
 **Pilihan jawaban:**
 - Tanah membuat semua makanan lebih bergizi
