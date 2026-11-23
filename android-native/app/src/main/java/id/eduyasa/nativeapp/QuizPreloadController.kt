@@ -9,6 +9,8 @@ import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.TimeoutCancellationException
 import kotlinx.coroutines.withTimeout
+import kotlinx.coroutines.sync.Semaphore
+import kotlinx.coroutines.sync.withPermit
 import kotlinx.coroutines.withContext
 
 /**
@@ -29,6 +31,8 @@ class QuizPreloadController(context: Context) {
     val ready = mutableStateMapOf<Int, PreparedQuizQuestion>()
     val errors = mutableStateMapOf<Int, String>()
     private val jobs = mutableMapOf<Int, Job>()
+    // Limit rich-math CPU work so preloading never floods slower phones.
+    private val renderPermit = Semaphore(permits = 1)
     private var generation = 0
 
     fun reset() {
@@ -58,7 +62,8 @@ class QuizPreloadController(context: Context) {
                 try {
                     val prepared = withTimeout(10_000L) {
                         withContext(Dispatchers.Default) {
-                            PreparedQuizQuestion(
+                            renderPermit.withPermit {
+                                PreparedQuizQuestion(
                                 id = q.id,
                                 prompt = prepareRenderedEduText(appContext, q.text, 17f),
                                 answerOptions = q.options.associateWith { option ->
@@ -67,7 +72,8 @@ class QuizPreloadController(context: Context) {
                                 discussion = prepareRenderedEduText(
                                     appContext, q.discussion, 14f
                                 )
-                            )
+                                )
+                            }
                         }
                     }
                     if (generation == token) {
