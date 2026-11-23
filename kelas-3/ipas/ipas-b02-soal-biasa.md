@@ -50,7 +50,7 @@
 
 ## Soal 4 — K03-IPAS-B02-M01-004
 
-**Pertanyaan:** Dalam cerita keluarga, dulu Paman berjalan kaki ke sekolah dan kini bersepeda ke tempat kerja. Perubahan yang jelas disebut ialah ...
+**Pertanyaan:** Ketika masih kecil, Paman berjalan kaki ke sekolah. Sekarang ia bersepeda ke tempat kerja. Berdasarkan cerita itu, hal apa yang berbeda pada dua perjalanan Paman?
 
 **Pilihan jawaban:**
 - Semua jalan di daerah itu
@@ -60,7 +60,7 @@
 
 **Kunci Jawaban:** Cara bepergian Paman
 
-**Pembahasan:** Cerita menyebut perubahan kegiatan satu orang; tidak menyediakan bukti tentang semua warga atau semua jalan.
+**Pembahasan:** Pada dua perjalanan yang diceritakan, Paman menggunakan cara bepergian yang berbeda: dahulu berjalan kaki, sekarang bersepeda. Cerita ini tidak membuktikan semua orang berubah dengan cara yang sama.
 
 ---
 
