@@ -45,6 +45,7 @@ import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
+import kotlinx.coroutines.flow.first
 import java.util.UUID
 import java.net.URLEncoder
 
@@ -297,16 +298,19 @@ private fun EduyasaApp() {
             quizPreloader.prepareWindow(scope, quiz, qIndex)
         }
     }
-    val upcomingPrepared = quizPreloader.ready[qIndex + 1]
-    LaunchedEffect(page, sessionId, qIndex, waitingForNext, upcomingPrepared) {
-        if (page == Page.QUIZ && waitingForNext &&
-            qIndex < quiz.lastIndex && upcomingPrepared != null &&
-            upcomingPrepared.id == quiz[qIndex + 1].id) {
+    LaunchedEffect(page, sessionId, qIndex, waitingForNext) {
+        if (page == Page.QUIZ && waitingForNext && qIndex < quiz.lastIndex) {
+            val nextIndex = qIndex + 1
+            // Observe readiness without making the entire app recompose whenever
+            // background preparation finishes for an upcoming question.
+            snapshotFlow {
+                quizPreloader.ready[nextIndex]?.id == quiz[nextIndex].id
+            }.first { it }
             waitingForNext = false
-            qIndex++
+            qIndex = nextIndex
             selected = null
             checked = false
-            options = quiz[qIndex].options.shuffled()
+            options = quiz[nextIndex].options.shuffled()
         }
     }
     LaunchedEffect(page, activeProfileId, savedRevision) {
