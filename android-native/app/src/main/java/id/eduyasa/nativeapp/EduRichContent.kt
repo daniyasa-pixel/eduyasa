@@ -1,6 +1,7 @@
 package id.eduyasa.nativeapp
 
 import android.content.Context
+import android.os.Trace
 import android.util.TypedValue
 import android.widget.TextView
 import androidx.compose.foundation.background
@@ -236,7 +237,12 @@ fun EduRichText(
                 view.lastTextColor != color) {
                 view.setTextSize(TypedValue.COMPLEX_UNIT_SP, sizeSp)
                 view.setTextColor(color)
-                markwon.setMarkdown(view, formatted)
+                Trace.beginSection("EDUYASA.RenderRichText")
+                try {
+                    markwon.setMarkdown(view, formatted)
+                } finally {
+                    Trace.endSection()
+                }
                 view.lastMarkdown = formatted
                 view.lastSizeSp = sizeSp
                 view.lastTextColor = color
