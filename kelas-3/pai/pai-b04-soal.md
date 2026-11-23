@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-PAI-B04-M01-002
 
-**Pertanyaan:** Bagan waktu menunjukkan fajar, tengah hari, dan matahari terbenam. Bagian mana yang menandai waktu menahan diri ketika berpuasa?
+**Pertanyaan:** Dalam ibadah puasa Ramadan, kapan seorang muslim mulai dan mengakhiri waktu menahan diri dari makan serta minum?
 
 **Pilihan jawaban:**
 - Dari fajar hingga matahari terbenam
@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-PAI-B04-M01-019
 
-**Pertanyaan:** Saat berbuka, apa cara yang sesuai dengan latihan ibadah di bab ini?
+**Pertanyaan:** Saat waktu berbuka puasa Ramadan tiba, tindakan mana yang sesuai dengan tuntunan ibadah dan rasa syukur?
 
 **Pilihan jawaban:**
 - Berbuka ketika waktunya tiba dan berdoa sebagai ungkapan syukur
@@ -388,7 +388,7 @@
 
 ## Soal 25 — K03-PAI-B04-M01-025
 
-**Pertanyaan:** Ada yang berkata, “Puasa cukup menahan lapar.” Apa tanggapan yang sesuai materi?
+**Pertanyaan:** Seorang teman berkata, “Puasa cukup menahan lapar.” Apa tanggapan yang tepat menurut ajaran Islam?
 
 **Pilihan jawaban:**
 - Puasa melatih supaya kita boleh marah saat lapar
@@ -446,7 +446,7 @@
 
 **Kunci Jawaban:** Aku kecewa saat kalah bermain, lalu menenangkan diri sebelum berbicara.
 
-**Pembahasan:** Catatan pertama menunjukkan pilihan untuk mengendalikan respons saat kecewa.
+**Pembahasan:** Catatan tentang menenangkan diri setelah kalah bermain menunjukkan kesabaran serta kemampuan mengendalikan ucapan saat kecewa.
 
 ---
 
