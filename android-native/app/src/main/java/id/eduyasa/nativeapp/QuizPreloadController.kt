@@ -7,6 +7,8 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.TimeoutCancellationException
+import kotlinx.coroutines.withTimeout
 import kotlinx.coroutines.withContext
 
 /**
@@ -54,19 +56,25 @@ class QuizPreloadController(context: Context) {
             val q = questions[index]
             jobs[index] = scope.launch {
                 try {
-                    val prepared = withContext(Dispatchers.Default) {
-                        PreparedQuizQuestion(
-                            id = q.id,
-                            prompt = prepareEduText(q.text),
-                            answerOptions = q.options.associateWith(::prepareEduText),
-                            discussion = prepareEduText(q.discussion)
-                        )
+                    val prepared = withTimeout(10_000L) {
+                        withContext(Dispatchers.Default) {
+                            PreparedQuizQuestion(
+                                id = q.id,
+                                prompt = prepareEduText(q.text),
+                                answerOptions = q.options.associateWith(::prepareEduText),
+                                discussion = prepareEduText(q.discussion)
+                            )
+                        }
                     }
                     if (generation == token) {
                         ready[index] = prepared
                         // Network/image decoding is handled by Coil asynchronously.
                         // Image failure never blocks moving on to the next question.
                         prefetchEduQuizImage(appContext, q.imageUrl)
+                    }
+                } catch (timeout: TimeoutCancellationException) {
+                    if (generation == token) {
+                        errors[index] = "Persiapan terlalu lama. Silakan coba lagi."
                     }
                 } catch (cancelled: CancellationException) {
                     throw cancelled
@@ -81,9 +89,15 @@ class QuizPreloadController(context: Context) {
         }
     }
 
-    fun retry(scope: CoroutineScope, questions: List<EduQuestion>, current: Int) {
-        errors.remove(current)
-        jobs.remove(current)?.cancel()
-        prepareWindow(scope, questions, current)
+    fun retry(
+        scope: CoroutineScope,
+        questions: List<EduQuestion>,
+        target: Int,
+        visibleCurrent: Int = target
+    ) {
+        // Retrying a future question must not evict the question on screen.
+        errors.remove(target)
+        jobs.remove(target)?.cancel()
+        prepareWindow(scope, questions, visibleCurrent)
     }
 }
