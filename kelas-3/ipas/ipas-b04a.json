@@ -147,7 +147,7 @@
         {
           "id": "K03-IPAS-B04-M01-059",
           "type": "PG",
-          "text": "Wadah mana mempunyai paling banyak biji berkecambah pada catatan itu?",
+          "text": "Catatan percobaan kecambah hari keempat menunjukkan: P pada kapas kering tidak tumbuh, Q pada kapas lembap tumbuh empat biji, dan R yang tergenang tumbuh satu biji. Wadah mana memiliki biji berkecambah paling banyak?",
           "options": [
             "P",
             "R",
@@ -164,7 +164,7 @@
         {
           "id": "K03-IPAS-B04-M01-060",
           "type": "PG",
-          "text": "Kesimpulan mana melampaui hasil percobaan yang ditampilkan?",
+          "text": "Dalam percobaan empat biji kacang hijau per wadah, kapas kering menghasilkan nol kecambah, kapas lembap empat, dan wadah tergenang satu. Kesimpulan mana yang terlalu luas untuk dibuktikan dari percobaan kecil ini?",
           "options": [
             "Pada pengamatan ini hasil P dan Q berbeda",
             "Pada hari keempat masih ada biji R yang belum berkecambah",
@@ -181,7 +181,7 @@
         {
           "id": "K03-IPAS-B04-M01-061",
           "type": "PG",
-          "text": "Kesimpulan yang didukung perbandingan dua tanaman ialah ...",
+          "text": "Catatan membandingkan dua tanaman kacang hijau seumur: A dekat jendela berwarna hijau dan tegak, sedangkan B di tempat gelap tumbuh lebih panjang tetapi pucat dan lemah. Kesimpulan apa yang didukung data itu?",
           "options": [
             "Tanaman yang lebih panjang belum tentu lebih sehat",
             "Tanaman B pasti lebih sehat karena lebih panjang",
@@ -198,7 +198,7 @@
         {
           "id": "K03-IPAS-B04-M01-062",
           "type": "PG",
-          "text": "Untuk membantu tanaman B, perubahan tempat yang sesuai ialah ...",
+          "text": "Tanaman kacang hijau B pada gambar tumbuh panjang tetapi pucat dan lemah setelah disimpan di lemari gelap. Apa perubahan tempat yang sesuai untuk membantunya?",
           "options": [
             "Tetap dalam lemari gelap selamanya",
             "Ke tempat bercahaya yang sesuai secara bertahap dengan arahan guru",
