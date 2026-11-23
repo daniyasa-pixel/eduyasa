@@ -274,10 +274,10 @@ private fun EduyasaApp() {
         if (grade == 3 || grade == 6) connected = EduyasaRepository.checkConnection(grade)
     }
     LaunchedEffect(page, qIndex) {
-        // A long explanation can leave the screen scrolled down after Next.
-        // Always display the new question from the top.
+        // Every screen/question starts at the top. Shared scroll state previously
+        // retained offsets from long pages and made content appear to jump.
         audioEngine.stop()
-        if (page == Page.QUIZ) quizScroll.scrollTo(0)
+        quizScroll.scrollTo(0)
     }
     LaunchedEffect(page, activeProfileId, savedRevision) {
         val profileId = activeProfileId
@@ -751,14 +751,22 @@ private fun EduyasaApp() {
                                     }
                                 }
                             }
-                            if (!checked && selected != null) {
-                                Text("Pilihan kamu: " +
-                                    ("ABCD".getOrNull(options.indexOf(selected)) ?: "?"),
-                                    color = Blue, fontSize = 12.sp,
-                                    fontWeight = FontWeight.SemiBold,
-                                    modifier = Modifier.testTag("answer-selected-indicator")
-                                        .padding(bottom = 5.dp))
-                            }
+                            // Always reserve the same space. Showing the selected label
+                            // must not push the next control down after the first tap.
+                            Text(
+                                when {
+                                    checked -> "Jawaban sudah dikoreksi"
+                                    selected == null -> "Ketuk satu pilihan jawaban"
+                                    else -> "Pilihan kamu: " +
+                                        ("ABCD".getOrNull(options.indexOf(selected)) ?: "?")
+                                },
+                                color = if (selected != null && !checked) Blue else Muted,
+                                fontSize = 12.sp,
+                                fontWeight = FontWeight.SemiBold,
+                                modifier = Modifier
+                                    .testTag("answer-selected-indicator")
+                                    .height(24.dp)
+                            )
                             AnimatedVisibility(
                                 visible = checked,
                                 enter = fadeIn(animationSpec = tween(220)) +
