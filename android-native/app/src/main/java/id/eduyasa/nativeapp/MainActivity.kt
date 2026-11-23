@@ -750,70 +750,17 @@ private fun EduyasaApp() {
                             }
                             Spacer(Modifier.height(16.dp))
                             options.forEachIndexed { i, option ->
-                                val isCorrect = checked && option == q.answer
-                                val isWrong = checked && selected == option && option != q.answer
-                                val isSelected = !checked && selected == option
-                                val bg = when {
-                                    isCorrect -> Color(0xFFDCFCE7)
-                                    isWrong -> Color(0xFFFEE2E2)
-                                    isSelected -> Color(0xFFEFF6FF)
-                                    else -> Color.White
-                                }
-                                val border = when {
-                                    isCorrect -> Green
-                                    isWrong -> Red
-                                    isSelected -> Blue
-                                    else -> Line
-                                }
-                                val touchSource = remember(q.id, i) {
-                                    MutableInteractionSource()
-                                }
-                                val isPressed by touchSource.collectIsPressedAsState()
-                                val animatedBackground by animateColorAsState(
-                                    targetValue = bg,
-                                    animationSpec = tween(if (checked) 210 else 100),
-                                    label = "answer-background"
+                                QuizAnswerChoice(
+                                    questionId = q.id,
+                                    index = i,
+                                    text = option,
+                                    prepared = preparedQuestion.answerOptions[option],
+                                    selected = !checked && selected == option,
+                                    correct = checked && option == q.answer,
+                                    wrong = checked && selected == option && option != q.answer,
+                                    checked = checked,
+                                    onSelect = { selected = option }
                                 )
-                                val animatedBorder by animateColorAsState(
-                                    targetValue = border, animationSpec = tween(260),
-                                    label = "answer-border"
-                                )
-                                val scale by animateFloatAsState(
-                                    targetValue = when {
-                                        isPressed && !checked -> .975f
-                                        isCorrect -> 1.012f
-                                        isWrong -> .988f
-                                        else -> 1f
-                                    },
-                                    animationSpec = tween(if (isPressed) 70 else 150),
-                                    label = "answer-scale"
-                                )
-                                // Clickable Material Surface provides immediate ripple feedback
-                                // and a single full-width touch target including the text.
-                                Surface(
-                                    onClick = { selected = option },
-                                    enabled = !checked,
-                                    interactionSource = touchSource,
-                                    modifier = Modifier.fillMaxWidth().padding(bottom = 10.dp)
-                                        .graphicsLayer(scaleX = scale, scaleY = scale)
-                                        .testTag("option-" + "ABCD"[i]),
-                                    shape = RoundedCornerShape(12.dp),
-                                    color = animatedBackground,
-                                    border = BorderStroke(2.dp, animatedBorder)
-                                ) {
-                                    Row(Modifier.fillMaxWidth().padding(15.dp),
-                                        verticalAlignment = Alignment.CenterVertically) {
-                                        Text("ABCD"[i].toString() + ". ",
-                                            fontWeight = FontWeight.Bold, fontSize = 14.sp)
-                                        EduAnswerText(option,
-                                            modifier = Modifier.weight(1f),
-                                            prepared = preparedQuestion.answerOptions[option])
-                                        if (isCorrect) Text(" ✓", fontWeight = FontWeight.Bold,
-                                            color = Green, fontSize = 19.sp)
-                                        else if (isWrong) Text(" ×", fontWeight = FontWeight.Bold,
-                                            color = Red, fontSize = 19.sp)
-                                    }
-                                }
                             }
                             // Always reserve the same space. Showing the selected label
                             // must not push the next control down after the first tap.
