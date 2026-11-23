@@ -197,3 +197,21 @@ Perubahan dibatasi pada frontend Android Native; JSON/ID soal, materi, HTML, dan
 7. Uji tombol Kembali, menu samping, kuis ulang, variasi 15/20/25 soal, SFX, status jawaban, hasil, Level/Bintang, dan riwayat tetap bekerja.
 
 **Batasan teknis yang harus jujur:** Smart Preload melakukan praolah teks/rumus dan permintaan pemuatan gambar sebelum tampilan dibuat. Android TextView dan komposisi Compose baru dibuat pada UI thread ketika dibutuhkan. Ini lebih aman daripada membuat View Android di background, tetapi tidak menjamin semua frame bebas jank; optimasi lanjutan harus mengikuti hasil pengujian di HP. Perubahan LazyColumn untuk halaman materi/evaluasi panjang belum dilakukan dalam tahap ini karena perlu pengujian layout terpisah.
+
+## Tahap 9 — Perbaikan khusus lag LaTeX pada soal Matematika (23 November 2026)
+
+Laporan HP dari pengguna menunjukkan dua contoh soal kelas 6 MTK Bab 1:
+- Soal bergambar kisi 100 petak dengan opsi pecahan `3/4`, `1/4`, `1/2`, `3/10`.
+- Soal 7 dari 15, pecahan `5/6` dalam cerita dan pecahan pada semua opsi.
+- Tap kadang baru merespons setelah jeda cukup lama, sehingga teks berformat/LaTeX menjadi area investigasi utama, bukan bukti kesalahan backend atau bank soal.
+
+Perubahan frontend:
+- `EduPreparedText` sekarang bisa membawa `android.text.Spanned` hasil `Markwon.toMarkdown()`.
+- `QuizPreloadController` menyiapkan prompt (17sp), empat opsi (14sp), dan pembahasan (14sp) beserta Spanned dari Markdown/LaTeX melalui `Dispatchers.Default`, **sebelum** pertanyaan dibuka. Ini bukan sekadar konversi tanda `$` menjadi `$$`.
+- `EduRichText` mengaplikasikan hasil pra-render melalui `markwon.setParsedMarkdown(view, preparedSpanned)` di UI thread. Pembuatan Android TextView tetap di UI thread, tetapi parse/render Spanned tidak diulang.
+- Pengolahan latar dibatasi dengan `Semaphore(1)` agar sejumlah soal matematika tidak berebut CPU ketika anak sedang melakukan tap.
+- Cache hanya memegang satu soal aktif + dua soal berikutnya, tidak menumpuk 25 soal seluruhnya. Aplikasi masih menampilkan indikator `Menyiapkan soal...` dan `Menyiapkan soal berikutnya...` hanya bila perlu.
+
+**Belum diuji Gradle build, instrumentasi, atau HP.** `Markwon` memiliki mekanisme internal pemrosesan LaTeX asynchronous, sehingga persiapan Spanned lebih awal diharapkan menurunkan biaya parsing/instansiasi di layar, namun hasil akhir gambar rumus belum dapat dijamin bebas lag. Ukur dengan Android Studio System Trace, bandingkan `EDUYASA.PreRenderRichText` (background) versus `EDUYASA.RenderRichText` (UI) sebelum menyimpulkan akar masalah.
+
+Uji ulang contoh yang sama terutama setelah soal 10–15; pastikan pecahan matematis tetap muncul, sentuhan langsung memberi ripple, pilihan tersimpan, perhitungan skor tetap benar. Semua perubahan hanya di folder `android-native` branch `android`; tidak mengedit soal JSON, materi, atau HTML.
