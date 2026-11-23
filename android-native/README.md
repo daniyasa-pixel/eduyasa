@@ -135,3 +135,40 @@ tes profil setelah aplikasi ditutup, pengelompokan UI, dan formulir WhatsApp.
 7. Uji animasi di HP kelas menengah dan pengaturan aksesibilitas pengurangan animasi; durasi serta tampilan bisa disesuaikan dari hasil uji.
 
 **Tidak berubah:** file soal/materi JSON, identitas soal, HTML, serta branch `main`.
+
+## Perbaikan respons sentuh pilihan A/B/C/D (23 November 2026)
+
+Laporan pengujian: pada awal kuis tombol terasa normal, setelah sekitar soal 10–15
+pilihan A/B/C/D kadang terasa tidak responsif lalu merespons kembali. Belum ada
+profiling/perangkat untuk memastikan akar masalah. Audit kode menemukan:
+- Sebelumnya `EduRichText` selalu menjalankan `markwon.setMarkdown()` di
+  `AndroidView.update`, termasuk saat hanya mengubah pilihan jawaban.
+  Parsing Markdown/LaTeX berulang pada UI thread berpotensi menyebabkan lag.
+- Sebelumnya pilihan menggunakan `Surface` dengan `Modifier.clickable` saja,
+  sedangkan teks anak menggunakan Android `TextView` yang ditanam di Compose.
+- Tidak ada penanda pilihan teks yang langsung menunjukkan tap sudah tercatat.
+
+Perbaikan kode di branch `android`:
+1. `EduAnswerText`: teks soal/jawaban biasa menggunakan `Text` Compose
+   (tanpa `AndroidView`); rumus/Markdown tetap memakai Markwon untuk menjaga LaTeX.
+2. `EduRichText` hanya menjalankan `setMarkdown` jika teks, ukuran atau
+   warna berubah, dan TextView dibuat non-clickable/non-focusable agar area
+   pilihan dikuasai tombol induknya.
+3. Pilihan memakai `Surface(onClick)` Material3 untuk efek ripple instan,
+   animasi ditekan singkat, dan animasi warna lebih cepat ketika memilih.
+4. Teks `Pilihan kamu: A/B/C/D` muncul saat memilih dan sebelum koreksi.
+5. Posisi scroll kembali ke atas setiap perpindahan soal.
+
+**Masih wajib pengujian** pada HP/perangkat pengguna:
+- Aktifkan Opsi Pengembang > Tampilkan ketukan (Show taps).
+- Uji 25 soal berturut-turut, termasuk soal dengan rumus, gambar dan listening,
+  dengan keempat pilihan ditekan bergantian sebelum menekan Koreksi.
+- Pastikan titik ketuk terlihat, ada ripple serta label `Pilihan kamu` berubah
+  segera; bila titik muncul tetapi aplikasi tidak bereaksi, rekam layar dan
+  tangkap Logcat (filter `Choreographer`, `Skipped frames`, `AndroidRuntime`,
+  dan `InputDispatcher`) untuk menemukan hambatan sebenarnya.
+- Bandingkan dengan/ tanpa SFX, pada HP yang sama, dan uji setelah soal 10–15.
+- Jika setelah patch tetap lambat, perlu profiler CPU/main thread dan memori
+  melalui Android Studio; jangan anggap penyebab sudah pasti tanpa pengukuran.
+
+Tidak ada perubahan pada JSON, HTML, modul atau ID soal.
