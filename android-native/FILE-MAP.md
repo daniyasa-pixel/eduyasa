@@ -22,7 +22,7 @@ ID data pertanyaan tidak diubah.
 | quizQText, quizOptions | quizQText, option-A, option-B, option-C, option-D | Kunci dibandingkan berdasarkan teks opsi |
 | btnQuizAction | btnQuizAction | Koreksi / Lanjut / Lihat Hasil |
 | resultScore, resultCorrect, resultWrong | resultScore, resultCorrect, resultWrong | Nilai, jumlah benar dan salah |
-| btnOpenReport, reportForm | btnOpenReport, studentName, parentPhone, btnSendReport | Buka WhatsApp dengan laporan terisi |
+| btnOpenReport, reportForm | btnOpenReport | Satu klik membuka WhatsApp dengan laporan kuis + perkembangan tersimpan, menggunakan nomor WA di profil; kirim ditekan di WhatsApp |
 | hasil / Ulangi Kuis | btnRetryQuiz | Memuat 20 soal baru dari bank sumber |
 | btnBackToHome, restartModal | btnBackToHome, btnConfirmBackHome, btnCancelBackHome | Konfirmasi kembali ke awal |
 
@@ -46,6 +46,8 @@ Jangan dianggap siap produksi sebelum pengujian tersebut.
 ## Tahap 2: profil siswa (Compose UI testTag)
 - add-profile: buka form Tambah Profil Siswa (otomatis dibuka saat pertama tanpa profil).
 - student-profile-name: masukkan nama siswa.
+- student-report-phone: nomor WA laporan 08..., wajib saat menyimpan profil baru/diubah.
+- settings-report-phone: ubah nomor WA siswa aktif dari Pengaturan.
 - profile-grade-3 / profile-grade-6: pilih kelas.
 - save-profile, cancel-profile: simpan/batal.
 - profile-<UUID>: pilih profil, kelas terisi otomatis.

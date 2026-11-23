@@ -30,10 +30,14 @@ Renderer Markdown/LaTeX dan audio telah ditambahkan ke kode; hasil visualnya bel
 
 **Sistem profil siswa (lokal HP)**
 - Di halaman awal pengguna memilih profil siswa, bukan kelas tiap kali belajar.
-- Tambah profil: nama + Kelas 3/6, tersimpan dengan SharedPreferences milik aplikasi.
-- Ubah nama/kelas, hapus profil dengan konfirmasi; bisa lebih dari satu siswa di HP sama.
+- Tambah profil: nama + Kelas 3/6 + nomor WhatsApp laporan format 08..., tersimpan lokal di SharedPreferences milik aplikasi.
+- Nomor laporan disimpan per siswa dalam format 62...; tampil kembali sebagai 08... saat diubah melalui profil atau Pengaturan.
+- Profil lama tetap dapat dibaca tanpa migrasi destruktif; nomor WA diminta ketika profil lama hendak mengirim laporan.
+- Ubah nama/kelas/nomor WA, hapus profil dengan konfirmasi; bisa lebih dari satu siswa di HP sama.
 - Mengetuk profil langsung membuka pilihan mata pelajaran sesuai kelas tersimpan.
-- Nama siswa otomatis terisi dalam formulir laporan WhatsApp.
+- Pada layar hasil, tombol KIRIM LAPORAN menggunakan profil + nomor tersimpan tanpa meminta pengisian berulang; hanya aktif setelah sesi berhasil tersimpan.
+- WhatsApp dibuka melalui wa.me dengan pesan siap dikirim; orang tua/siswa masih perlu menekan tombol Kirim di WhatsApp. Tidak ada pengiriman otomatis di latar.
+- Laporan berisi nilai kuis saat ini dan rekap kumulatif SQLite per mapel, cakupan bab, bintang, level bab terkait, serta catatan bahwa ketepatan latihan bukan penguasaan seluruh kurikulum.
 - Tidak memakai akun, internet, atau JSON GitHub untuk menyimpan profil; data hanya di HP.
 - Menghapus data aplikasi/uninstall dapat menghapus profil lokal.
 
