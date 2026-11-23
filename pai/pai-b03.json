@@ -84,7 +84,7 @@
             "Agar masalah semakin panjang"
           ],
           "answer": "Agar penyesalan disampaikan dengan sungguh-sungguh",
-          "discussion": "Buku menekankan tidak mencari alasan dan meminta maaf dengan sungguh-sungguh."
+          "discussion": "Mengakui kesalahan tanpa mencari pembenaran menunjukkan penyesalan yang tulus. Jika ada kerugian, kita tetap bertanggung jawab memperbaikinya."
         },
         {
           "id": "PAI-B03-Q007",
@@ -258,7 +258,7 @@
         {
           "id": "PAI-B03-Q020",
           "type": "PG",
-          "text": "Bagaimana cara memperbaiki hubungan setelah terjadi perselisihan?",
+          "text": "Pada ilustrasi, dua anak sedang berdamai dan saling memaafkan. Setelah perselisihan, cara apa yang paling tepat untuk memperbaiki hubungan mereka?",
           "options": [
             "Menghindari selamanya tanpa penjelasan",
             "Mengajak teman lain memusuhi",
@@ -266,7 +266,7 @@
             "Berbicara baik-baik, saling mendengarkan, dan mencari penyelesaian"
           ],
           "answer": "Berbicara baik-baik, saling mendengarkan, dan mencari penyelesaian",
-          "discussion": "Komunikasi baik dan sikap saling memahami membantu memulihkan hubungan.",
+          "discussion": "Berdamai memerlukan komunikasi yang baik: berbicara sopan, saling mendengarkan, dan menyelesaikan masalah tanpa menyalahkan atau mempermalukan pihak lain.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q03-forgiveness.svg",
             "alt": "Ilustrasi dua anak saling memaafkan"
@@ -275,7 +275,7 @@
         {
           "id": "PAI-B03-Q021",
           "type": "PG",
-          "text": "Dalam kisah Ikrimah, apa teladan yang dapat diambil dari sikap Rasulullah saw.?",
+          "text": "Dalam kisah keteladanan Rasulullah saw., Ikrimah yang dahulu menentang beliau kemudian datang setelah memutuskan menerima Islam. Rasulullah menyambutnya dengan baik, tidak membalas permusuhan yang telah terjadi, dan mendoakan kebaikan. Teladan apa yang tampak dari sikap Rasulullah tersebut?",
           "options": [
             "Memberi maaf dan mendoakan kebaikan",
             "Membalas dendam kepada keluarga lawan",
@@ -283,7 +283,7 @@
             "Menolak setiap orang yang berubah"
           ],
           "answer": "Memberi maaf dan mendoakan kebaikan",
-          "discussion": "Kisah tersebut menonjolkan sikap memaafkan dan mendoakan kebaikan."
+          "discussion": "Kisah ini menunjukkan bahwa Rasulullah saw. memberi kesempatan untuk berubah, memaafkan kesalahan masa lalu, dan mengharapkan kebaikan bagi orang lain."
         },
         {
           "id": "PAI-B03-Q022",
@@ -366,7 +366,7 @@
         {
           "id": "PAI-B03-Q028",
           "type": "PG",
-          "text": "Bagaimana sikap saat menerima permintaan maaf di depan teman-teman?",
+          "text": "Ilustrasi menunjukkan dua anak yang sedang berdamai. Jika seorang teman meminta maaf kepadamu di hadapan teman-teman lain, bagaimana sikap yang paling tepat?",
           "options": [
             "Membuatnya menjadi bahan tertawaan",
             "Merekam lalu menyebarkannya",
@@ -374,7 +374,7 @@
             "Menanggapinya dengan tenang tanpa mempermalukan orang tersebut"
           ],
           "answer": "Menanggapinya dengan tenang tanpa mempermalukan orang tersebut",
-          "discussion": "Adab memberi maaf menjaga martabat orang yang meminta maaf.",
+          "discussion": "Permintaan maaf sebaiknya ditanggapi dengan tenang. Tidak mempermalukan atau menyebarkan kesalahan teman membantu menjaga martabatnya sekaligus membuka jalan perdamaian.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q03-forgiveness.svg",
             "alt": "Ilustrasi meminta maaf dan berdamai"
@@ -396,7 +396,7 @@
         {
           "id": "PAI-B03-Q030",
           "type": "PG",
-          "text": "Apa contoh menerapkan sikap pemaaf di rumah?",
+          "text": "Kakak dan adik berselisih karena salah paham tentang barang yang dipinjam. Sikap pemaaf apa yang dapat mereka lakukan untuk menyelesaikan masalah di rumah?",
           "options": [
             "Membalas saat saudara melakukan kesalahan",
             "Menyelesaikan pertengkaran saudara dengan bicara baik-baik",
@@ -404,7 +404,7 @@
             "Menolak mendengar penjelasannya"
           ],
           "answer": "Menyelesaikan pertengkaran saudara dengan bicara baik-baik",
-          "discussion": "Sikap pemaaf dapat diterapkan dalam hubungan keluarga sehari-hari."
+          "discussion": "Ketika ada salah paham, anggota keluarga dapat berbicara baik-baik, mendengarkan alasan satu sama lain, meminta maaf jika bersalah, dan mengupayakan penyelesaian tanpa dendam."
         }
       ]
     }
