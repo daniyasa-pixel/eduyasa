@@ -37,7 +37,7 @@
         {
           "id": "PJK-B03-M01-003",
           "type": "PG",
-          "text": "Dalam situasi berikut: Alya ingin membangun kebiasaan bergerak. Mengapa pilihan \"Memilih aktivitas teratur yang sesuai kemampuan bersama guru\" membantu?",
+          "text": "Alya ingin lebih kuat bergerak dan mulai rutin melakukan aktivitas sesuai kemampuan dengan bimbingan guru. Mengapa latihan bertahap bermanfaat bagi daya tahan jantung dan paru?",
           "options": [
             "Keluhan tubuh selalu boleh diabaikan",
             "Gerak teratur menantang kerja jantung dan paru secara bertahap",
@@ -50,15 +50,15 @@
         {
           "id": "PJK-B03-M01-004",
           "type": "PG",
-          "text": "Alya ingin membangun kebiasaan bergerak. Jika justru memilih \"Langsung memaksakan latihan terberat\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Alya yang baru mulai berolahraga langsung memaksakan latihan terberat tanpa penyesuaian. Apa risiko utama keputusan tersebut?",
           "options": [
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Kelelahan berlebihan dapat terjadi bila peningkatan latihan dipaksakan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+            "Alya dapat kelelahan berlebihan atau mengalami cedera",
+            "Kondisi tubuh pasti membaik tanpa istirahat",
+            "Latihan berat pasti aman bagi semua anak",
+            "Pemanasan dan pendampingan tidak lagi diperlukan"
           ],
-          "answer": "Kelelahan berlebihan dapat terjadi bila peningkatan latihan dipaksakan",
-          "discussion": "Kelelahan berlebihan dapat terjadi bila peningkatan latihan dipaksakan. Pilihan yang dianjurkan: Memilih aktivitas teratur yang sesuai kemampuan bersama guru."
+          "answer": "Alya dapat kelelahan berlebihan atau mengalami cedera",
+          "discussion": "Latihan yang dipaksakan melampaui kemampuan dapat menyebabkan kelelahan dan cedera. Alya sebaiknya meningkatkan intensitas secara bertahap bersama guru."
         },
         {
           "id": "PJK-B03-M01-005",
@@ -102,7 +102,7 @@
         {
           "id": "PJK-B03-M01-008",
           "type": "PG",
-          "text": "Dalam situasi berikut: Bima mencari contoh gerak aktif yang dapat dinikmati. Mengapa pilihan \"Berjalan cepat atau bermain aktif sesuai kondisi tubuh\" membantu?",
+          "text": "Bima memilih berjalan cepat atau bermain aktif sesuai kemampuan tubuhnya. Mengapa kegiatan tersebut dapat menjadi contoh aktivitas aerobik?",
           "options": [
             "Gerakan berkelanjutan meningkatkan kebutuhan kerja jantung dan paru",
             "Minuman berenergi dapat sepenuhnya menggantikan tidur",
@@ -115,15 +115,15 @@
         {
           "id": "PJK-B03-M01-009",
           "type": "PG",
-          "text": "Bima mencari contoh gerak aktif yang dapat dinikmati. Jika justru memilih \"Duduk diam sambil bermain gawai\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Bima ingin lebih aktif, tetapi setiap hari memilih duduk bermain gawai berjam-jam tanpa jeda bergerak. Apa dampak kebiasaan tersebut?",
           "options": [
-            "Latihan tidak aman jika bernapas sengaja dihambat",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+            "Kesempatan bergerak berkurang dan kebiasaan pasif makin menetap",
+            "Daya tahan tubuh pasti meningkat tanpa aktivitas",
+            "Jantung dan paru otomatis terlatih seperti ketika berjalan cepat",
+            "Bima sudah memenuhi kebutuhan aktivitas fisik harian"
           ],
-          "answer": "Latihan tidak aman jika bernapas sengaja dihambat",
-          "discussion": "Latihan tidak aman jika bernapas sengaja dihambat. Pilihan yang dianjurkan: Berjalan cepat atau bermain aktif sesuai kondisi tubuh."
+          "answer": "Kesempatan bergerak berkurang dan kebiasaan pasif makin menetap",
+          "discussion": "Duduk terlalu lama tanpa jeda mengurangi kesempatan aktivitas fisik. Bima dapat mulai dengan berjalan atau bermain aktif secara aman dan sesuai kondisi."
         },
         {
           "id": "PJK-B03-M01-010",
@@ -167,7 +167,7 @@
         {
           "id": "PJK-B03-M01-013",
           "type": "PG",
-          "text": "Dalam situasi berikut: Citra menyusun rencana gerak mingguan usia sekolah. Mengapa pilihan \"Membangun rata-rata sedikitnya 60 menit aktivitas sedang hingga berat per hari sepanjang minggu sesuai kemampuan\" membantu?",
+          "text": "Citra menyusun kegiatan bergerak sepanjang minggu, misalnya bermain, berjalan, dan bersepeda sesuai kemampuan. Mengapa aktivitas sedang hingga berat rata-rata sedikitnya 60 menit per hari menjadi acuan umum untuk usia sekolah?",
           "options": [
             "Keluhan tubuh selalu boleh diabaikan",
             "Durasi dapat terkumpul dari beberapa kegiatan aktif yang sesuai",
@@ -180,15 +180,15 @@
         {
           "id": "PJK-B03-M01-014",
           "type": "PG",
-          "text": "Citra menyusun rencana gerak mingguan usia sekolah. Jika justru memilih \"Menganggap harus langsung latihan berat 60 menit tanpa jeda\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Citra baru mulai bergerak teratur, tetapi memaksakan satu sesi latihan sangat berat selama 60 menit tanpa jeda dan mengabaikan kondisi tubuh. Apa risikonya?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Anak dapat tertekan dan kelelahan jika target dipakai sebagai paksaan"
+            "Citra dapat kelelahan atau cedera karena latihan terlalu berat untuk kemampuannya",
+            "Durasi latihan membuat seluruh gerak pasti aman",
+            "Setiap anak memiliki kemampuan dan kebutuhan yang identik",
+            "Kelelahan tidak mungkin terjadi bila durasinya 60 menit"
           ],
-          "answer": "Anak dapat tertekan dan kelelahan jika target dipakai sebagai paksaan",
-          "discussion": "Anak dapat tertekan dan kelelahan jika target dipakai sebagai paksaan. Pilihan yang dianjurkan: Membangun rata-rata sedikitnya 60 menit aktivitas sedang hingga berat per hari sepanjang minggu sesuai kemampuan."
+          "answer": "Citra dapat kelelahan atau cedera karena latihan terlalu berat untuk kemampuannya",
+          "discussion": "Acuan aktivitas fisik anak tidak berarti setiap anak wajib langsung melakukan latihan berat 60 menit tanpa berhenti. Kegiatan dapat terakumulasi dan disesuaikan dengan kemampuan serta arahan orang dewasa."
         },
         {
           "id": "PJK-B03-M01-015",
@@ -232,7 +232,7 @@
         {
           "id": "PJK-B03-M01-018",
           "type": "PG",
-          "text": "Dalam situasi berikut: Danu hendak mengikuti permainan aktif. Mengapa pilihan \"Memulai gerakan ringan dan bertahap sesuai arahan guru\" membantu?",
+          "text": "Danu memulai permainan dengan gerak ringan lalu meningkatkan intensitas secara bertahap. Mengapa pemanasan ini lebih sesuai daripada langsung bergerak sekuat mungkin?",
           "options": [
             "Minuman berenergi dapat sepenuhnya menggantikan tidur",
             "Keluhan tubuh selalu boleh diabaikan",
@@ -245,15 +245,15 @@
         {
           "id": "PJK-B03-M01-019",
           "type": "PG",
-          "text": "Danu hendak mengikuti permainan aktif. Jika justru memilih \"Langsung melakukan gerakan tersulit sekuatnya\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Danu langsung mencoba gerakan paling sulit dengan kekuatan penuh tanpa pemanasan. Risiko apa yang perlu diperhatikan?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Gerak mendadak tanpa pengendalian dapat meningkatkan risiko cedera"
+            "Otot dan sendi berisiko cedera karena tubuh belum dipersiapkan",
+            "Tubuh otomatis siap karena gerak dilakukan cepat",
+            "Kegiatan pasti lebih aman daripada pemanasan bertahap",
+            "Gerakan kuat menjamin tidak ada bahaya pada tubuh"
           ],
-          "answer": "Gerak mendadak tanpa pengendalian dapat meningkatkan risiko cedera",
-          "discussion": "Gerak mendadak tanpa pengendalian dapat meningkatkan risiko cedera. Pilihan yang dianjurkan: Memulai gerakan ringan dan bertahap sesuai arahan guru."
+          "answer": "Otot dan sendi berisiko cedera karena tubuh belum dipersiapkan",
+          "discussion": "Pemanasan bertahap membantu menyiapkan tubuh untuk kegiatan utama. Gerakan sulit dan kuat secara mendadak dapat meningkatkan risiko cedera."
         },
         {
           "id": "PJK-B03-M01-020",
@@ -297,7 +297,7 @@
         {
           "id": "PJK-B03-M01-023",
           "type": "PG",
-          "text": "Dalam situasi berikut: Eka selesai bermain aktif. Mengapa pilihan \"Mengurangi intensitas perlahan sesuai petunjuk guru\" membantu?",
+          "text": "Setelah bermain aktif, Eka mengurangi intensitas geraknya sedikit demi sedikit. Apa manfaat pendinginan yang ia lakukan?",
           "options": [
             "Kebutuhan latihan setiap orang selalu identik",
             "Keluhan tubuh selalu boleh diabaikan",
@@ -310,15 +310,15 @@
         {
           "id": "PJK-B03-M01-024",
           "type": "PG",
-          "text": "Eka selesai bermain aktif. Jika justru memilih \"Langsung berlomba keras lagi saat lelah\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Eka baru menyelesaikan permainan yang melelahkan, tetapi langsung memaksa diri mengikuti lomba berat lagi. Apa risiko tindakannya?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pemulihan terganggu bila tubuh yang lelah terus dipaksa berlatih berat",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+            "Kelelahan dapat bertambah dan pemulihan tubuh terganggu",
+            "Tubuh pasti pulih lebih cepat karena terus dipaksa",
+            "Istirahat tidak pernah diperlukan sesudah aktivitas",
+            "Beban latihan berikutnya selalu aman ketika tubuh lelah"
           ],
-          "answer": "Pemulihan terganggu bila tubuh yang lelah terus dipaksa berlatih berat",
-          "discussion": "Pemulihan terganggu bila tubuh yang lelah terus dipaksa berlatih berat. Pilihan yang dianjurkan: Mengurangi intensitas perlahan sesuai petunjuk guru."
+          "answer": "Kelelahan dapat bertambah dan pemulihan tubuh terganggu",
+          "discussion": "Sesudah kegiatan intens, tubuh perlu kesempatan menurunkan intensitas dan pulih. Jika muncul keluhan tidak biasa, Eka perlu memberi tahu guru."
         },
         {
           "id": "PJK-B03-M01-025",
@@ -362,7 +362,7 @@
         {
           "id": "PJK-B03-M01-028",
           "type": "PG",
-          "text": "Dalam situasi berikut: Farah sering begadang sehingga mengantuk saat berlatih. Mengapa pilihan \"Membicarakan rutinitas tidur teratur dengan keluarga\" membantu?",
+          "text": "Farah beberapa kali begadang hingga mengantuk saat berolahraga. Mengapa membicarakan jadwal tidur teratur dengan keluarga membantu pemulihan?",
           "options": [
             "Kebutuhan latihan setiap orang selalu identik",
             "Keluhan tubuh selalu boleh diabaikan",
@@ -375,15 +375,15 @@
         {
           "id": "PJK-B03-M01-029",
           "type": "PG",
-          "text": "Farah sering begadang sehingga mengantuk saat berlatih. Jika justru memilih \"Mengganti tidur dengan minuman berenergi\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Farah kurang tidur selama beberapa malam lalu mencoba menggantinya dengan minuman berenergi agar tetap berlatih. Mengapa cara ini kurang tepat?",
           "options": [
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Konsentrasi dapat menurun bila waktu istirahat tidak cukup"
+            "Minuman berenergi tidak menggantikan tidur dan kurang istirahat dapat menurunkan konsentrasi",
+            "Minuman berenergi selalu memenuhi kebutuhan tidur anak",
+            "Farah tidak lagi memerlukan pola tidur teratur",
+            "Semua keluhan kelelahan otomatis hilang karena minuman"
           ],
-          "answer": "Konsentrasi dapat menurun bila waktu istirahat tidak cukup",
-          "discussion": "Konsentrasi dapat menurun bila waktu istirahat tidak cukup. Pilihan yang dianjurkan: Membicarakan rutinitas tidur teratur dengan keluarga."
+          "answer": "Minuman berenergi tidak menggantikan tidur dan kurang istirahat dapat menurunkan konsentrasi",
+          "discussion": "Tidur memegang peran penting dalam pemulihan. Anak tidak perlu menggunakan minuman berenergi untuk menggantikan tidur; jadwal yang sehat sebaiknya dibicarakan dengan keluarga."
         },
         {
           "id": "PJK-B03-M01-030",
@@ -427,7 +427,7 @@
         {
           "id": "PJK-B03-M01-033",
           "type": "PG",
-          "text": "Dalam situasi berikut: Gilang duduk lama mengerjakan tugas. Mengapa pilihan \"Menyisipkan jeda gerak yang aman dan melanjutkan tugas\" membantu?",
+          "text": "Gilang sudah duduk cukup lama menyelesaikan tugas sekolah. Mengapa menyelipkan jeda gerak singkat yang aman bermanfaat?",
           "options": [
             "Keluhan tubuh selalu boleh diabaikan",
             "Jeda mengurangi waktu duduk berkepanjangan",
@@ -440,15 +440,15 @@
         {
           "id": "PJK-B03-M01-034",
           "type": "PG",
-          "text": "Gilang duduk lama mengerjakan tugas. Jika justru memilih \"Menganggap bergerak hanya boleh saat PJOK\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Gilang menganggap aktivitas fisik hanya perlu dilakukan saat pelajaran PJOK sehingga ia terus duduk berjam-jam tanpa jeda. Apa akibat yang paling mungkin?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Kebiasaan pasif menetap bila kesempatan bergerak terus diabaikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian"
+            "Waktu duduk berkepanjangan meningkat dan kesempatan bergerak berkurang",
+            "Setiap jam duduk otomatis melatih jantung dan paru",
+            "Jeda gerak tidak memiliki manfaat bagi kebiasaan aktif",
+            "Gilang pasti memenuhi kebutuhan gerak hanya dengan duduk"
           ],
-          "answer": "Kebiasaan pasif menetap bila kesempatan bergerak terus diabaikan",
-          "discussion": "Kebiasaan pasif menetap bila kesempatan bergerak terus diabaikan. Pilihan yang dianjurkan: Menyisipkan jeda gerak yang aman dan melanjutkan tugas."
+          "answer": "Waktu duduk berkepanjangan meningkat dan kesempatan bergerak berkurang",
+          "discussion": "Jeda gerak yang aman membantu mengurangi perilaku duduk berkepanjangan. Bergerak teratur dapat dilakukan dalam keseharian, tidak hanya pada jam PJOK."
         },
         {
           "id": "PJK-B03-M01-035",
@@ -492,7 +492,7 @@
         {
           "id": "PJK-B03-M01-038",
           "type": "PG",
-          "text": "Dalam situasi berikut: Hana membawa air minum saat kegiatan luar ruang. Mengapa pilihan \"Minum air secara berkala dan mengikuti pengaturan guru\" membantu?",
+          "text": "Hana berkeringat ketika mengikuti kegiatan luar ruang pada cuaca panas. Mengapa ia perlu minum air secara berkala sesuai kebutuhannya?",
           "options": [
             "Minuman berenergi dapat sepenuhnya menggantikan tidur",
             "Cairan membantu mengganti yang hilang saat tubuh berkeringat",
@@ -505,15 +505,15 @@
         {
           "id": "PJK-B03-M01-039",
           "type": "PG",
-          "text": "Hana membawa air minum saat kegiatan luar ruang. Jika justru memilih \"Menunggu sangat kehausan sebelum boleh minum\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Saat beraktivitas di luar ruangan, Hana sengaja tidak minum sampai merasa sangat haus meski banyak berkeringat. Risiko apa yang meningkat?",
           "options": [
-            "Kekurangan cairan lebih mudah terjadi bila minum sengaja dibatasi",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+            "Hana lebih berisiko kekurangan cairan selama beraktivitas",
+            "Keringat otomatis mengganti seluruh air yang keluar",
+            "Tidak minum membuat tubuh lebih tahan terhadap panas",
+            "Air sama sekali tidak diperlukan saat bergerak"
           ],
-          "answer": "Kekurangan cairan lebih mudah terjadi bila minum sengaja dibatasi",
-          "discussion": "Kekurangan cairan lebih mudah terjadi bila minum sengaja dibatasi. Pilihan yang dianjurkan: Minum air secara berkala dan mengikuti pengaturan guru."
+          "answer": "Hana lebih berisiko kekurangan cairan selama beraktivitas",
+          "discussion": "Tubuh kehilangan cairan lewat keringat. Minum secara berkala sesuai kebutuhan dan arahan guru membantu menjaga hidrasi, terutama saat beraktivitas di cuaca panas."
         },
         {
           "id": "PJK-B03-M01-040",
@@ -557,7 +557,7 @@
         {
           "id": "PJK-B03-M01-043",
           "type": "PG",
-          "text": "Dalam situasi berikut: Intan merasa pusing ketika bermain. Mengapa pilihan \"Berhenti di tempat aman dan segera memberi tahu guru\" membantu?",
+          "text": "Saat bermain, Intan merasa pusing dan berhenti di tempat yang aman untuk memberi tahu guru. Mengapa keputusan ini tepat?",
           "options": [
             "Minuman berenergi dapat sepenuhnya menggantikan tidur",
             "Keluhan tubuh selalu boleh diabaikan",
@@ -570,15 +570,15 @@
         {
           "id": "PJK-B03-M01-044",
           "type": "PG",
-          "text": "Intan merasa pusing ketika bermain. Jika justru memilih \"Menyembunyikan pusing agar terus bermain\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Intan pusing saat permainan tetapi memaksakan diri terus berlomba tanpa memberi tahu guru. Apa risiko tindakan tersebut?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Kondisi dapat memburuk bila keluhan diabaikan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+            "Keluhan dapat memburuk dan pertolongan yang diperlukan menjadi terlambat",
+            "Pusing selalu hilang hanya dengan mempercepat permainan",
+            "Tidak perlu memberi tahu guru jika kondisi terasa tidak biasa",
+            "Memaksa diri merupakan cara pasti untuk menguji kebugaran"
           ],
-          "answer": "Kondisi dapat memburuk bila keluhan diabaikan",
-          "discussion": "Kondisi dapat memburuk bila keluhan diabaikan. Pilihan yang dianjurkan: Berhenti di tempat aman dan segera memberi tahu guru."
+          "answer": "Keluhan dapat memburuk dan pertolongan yang diperlukan menjadi terlambat",
+          "discussion": "Pusing saat aktivitas dapat menandakan kondisi yang perlu diperhatikan. Intan sebaiknya berhenti di tempat aman dan segera memberi tahu guru, bukan memaksakan permainan."
         },
         {
           "id": "PJK-B03-M01-045",
@@ -622,7 +622,7 @@
         {
           "id": "PJK-B03-M01-048",
           "type": "PG",
-          "text": "Dalam situasi berikut: Joko sulit mengikuti jadwal gerak yang terlalu berat. Mengapa pilihan \"Memilih kegiatan yang disukai dan meningkatkannya bertahap dengan pendampingan\" membantu?",
+          "text": "Joko tidak mampu mempertahankan jadwal olahraga yang terlalu berat. Mengapa ia perlu memilih aktivitas yang ia sukai lalu meningkatkan latihan bertahap dengan pendampingan?",
           "options": [
             "Keluhan tubuh selalu boleh diabaikan",
             "Kebutuhan latihan setiap orang selalu identik",
@@ -635,15 +635,15 @@
         {
           "id": "PJK-B03-M01-049",
           "type": "PG",
-          "text": "Joko sulit mengikuti jadwal gerak yang terlalu berat. Jika justru memilih \"Meniru jadwal atlet dewasa tanpa penyesuaian\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Joko meniru jadwal latihan temannya yang jauh lebih berat meskipun ia sendiri sering merasa kewalahan. Apa risiko keputusan tersebut?",
           "options": [
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Rencana mudah ditinggalkan bila tidak sesuai keadaan dan kemampuan"
+            "Joko bisa kelelahan dan sulit membangun kebiasaan gerak yang berkelanjutan",
+            "Kemampuan setiap anak pasti selalu sama",
+            "Jadwal berat menjamin kebiasaan terbentuk tanpa penyesuaian",
+            "Rencana latihan tidak boleh disesuaikan dengan kondisi tubuh"
           ],
-          "answer": "Rencana mudah ditinggalkan bila tidak sesuai keadaan dan kemampuan",
-          "discussion": "Rencana mudah ditinggalkan bila tidak sesuai keadaan dan kemampuan. Pilihan yang dianjurkan: Memilih kegiatan yang disukai dan meningkatkannya bertahap dengan pendampingan."
+          "answer": "Joko bisa kelelahan dan sulit membangun kebiasaan gerak yang berkelanjutan",
+          "discussion": "Aktivitas fisik sebaiknya sesuai kemampuan dan ditingkatkan bertahap. Meniru beban latihan orang lain tanpa memperhatikan diri sendiri dapat membuat latihan terlalu berat."
         },
         {
           "id": "PJK-B03-M01-050",
