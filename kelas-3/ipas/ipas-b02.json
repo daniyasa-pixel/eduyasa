@@ -50,7 +50,7 @@
         {
           "id": "K03-IPAS-B02-M01-004",
           "type": "PG",
-          "text": "Dalam cerita keluarga, dulu Paman berjalan kaki ke sekolah dan kini bersepeda ke tempat kerja. Perubahan yang jelas disebut ialah ...",
+          "text": "Ketika masih kecil, Paman berjalan kaki ke sekolah. Sekarang ia bersepeda ke tempat kerja. Berdasarkan cerita itu, hal apa yang berbeda pada dua perjalanan Paman?",
           "options": [
             "Semua jalan di daerah itu",
             "Cara semua keluarga bekerja",
@@ -58,7 +58,7 @@
             "Cara bepergian Paman"
           ],
           "answer": "Cara bepergian Paman",
-          "discussion": "Cerita menyebut perubahan kegiatan satu orang; tidak menyediakan bukti tentang semua warga atau semua jalan."
+          "discussion": "Pada dua perjalanan yang diceritakan, Paman menggunakan cara bepergian yang berbeda: dahulu berjalan kaki, sekarang bersepeda. Cerita ini tidak membuktikan semua orang berubah dengan cara yang sama."
         },
         {
           "id": "K03-IPAS-B02-M01-005",
