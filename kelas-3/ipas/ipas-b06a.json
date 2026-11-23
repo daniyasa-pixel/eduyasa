@@ -79,7 +79,7 @@
         {
           "id": "K03-IPAS-B06-M01-055",
           "type": "PG",
-          "text": "Perubahan yang terjadi ketika panel ditutup pada uji itu ialah ...",
+          "text": "Dalam uji model lampu panel surya tanpa baterai, lampu menyala saat panel terkena cahaya (A), lalu panel ditutup dari cahaya (B). Apa yang terjadi pada lampu setelah panel ditutup?",
           "options": [
             "Lampu makin terang",
             "Panel berubah menjadi baterai",
@@ -96,7 +96,7 @@
         {
           "id": "K03-IPAS-B06-M01-056",
           "type": "PG",
-          "text": "Kesimpulan yang sesuai dengan uji model ini ialah ...",
+          "text": "Pada uji lampu surya tanpa baterai, lampu menyala ketika panel terkena cahaya, kemudian padam ketika panel ditutup. Kesimpulan mana yang sesuai dengan pengamatan itu?",
           "options": [
             "Semua lampu hanya dapat menyala siang hari",
             "Semua alat listrik mempunyai panel surya",
@@ -317,7 +317,7 @@
         {
           "id": "K03-IPAS-B06-M01-069",
           "type": "PG",
-          "text": "Lampu mana menggunakan listrik lebih sedikit dalam keadaan pada grafik?",
+          "text": "Grafik menunjukkan dua lampu dengan daya sama: lampu A digunakan satu jam dan lampu B tiga jam. Lampu mana memakai energi listrik lebih sedikit pada pengamatan tersebut?",
           "options": [
             "A",
             "B",
@@ -334,7 +334,7 @@
         {
           "id": "K03-IPAS-B06-M01-070",
           "type": "PG",
-          "text": "Informasi apa yang belum dapat ditentukan dari grafik saja?",
+          "text": "Grafik hanya membandingkan lama penggunaan dua lampu identik: A satu jam dan B tiga jam, tanpa keterangan tarif listrik. Informasi apa yang belum dapat diketahui secara tepat dari grafik?",
           "options": [
             "Lampu mana menyala lebih lama",
             "Biaya listrik tepat dalam rupiah",
