@@ -148,7 +148,7 @@
 
 ![Catatan contoh es sama ukuran dan suhu awal dalam ruang sama: P di atas logam habis mencair 5 menit, Q di atas plastik 10 menit, R di atas kain 15 menit. Bukan pemanasan oleh anak.](assets/ipas-b08-gambar-05.svg)
 
-**Pertanyaan:** Pada catatan ini es paling cepat habis mencair di alas ...
+**Pertanyaan:** Catatan percobaan menunjukkan es berukuran sama habis mencair di alas logam P dalam lima menit, alas plastik Q dalam sepuluh menit, dan alas kain R dalam lima belas menit. Pada alas mana es mencair paling cepat?
 
 **Pilihan jawaban:**
 - Q
@@ -184,7 +184,7 @@
 
 ![Dua gelas tertutup utuh, bagian luar awalnya kering. A berisi air es dan kemudian bertitik air di luar; B berisi air suhu ruang dan bagian luar tetap kering pada pengamatan. Gelas sama jenis dan waktu pengamatan sama.](assets/ipas-b08-gambar-06.svg)
 
-**Pertanyaan:** Penjelasan yang tepat tentang titik air di luar A ialah ...
+**Pertanyaan:** Gambar menunjukkan gelas tertutup A berisi air es dan muncul tetes air pada bagian luarnya, sedangkan gelas B berisi air suhu ruang tanpa tetes di luar. Dari mana tetes air di luar gelas A berasal?
 
 **Pilihan jawaban:**
 - Uap air sekitar mengembun pada permukaan yang dingin
@@ -256,7 +256,7 @@
 
 ![Catatan guru tentang kamper: awal padatan besar; kemudian padatan mengecil tanpa cairan di alas. Guru menjelaskan sebagian zat berpindah langsung dari padat menjadi gas. Bahan tidak ditangani atau dicium dekat oleh siswa.](assets/ipas-b08-gambar-08.svg)
 
-**Pertanyaan:** Nama perubahan yang dijelaskan catatan ialah ...
+**Pertanyaan:** Guru mengamati kamper padat yang lama-kelamaan mengecil tanpa membentuk genangan cair. Menurut catatan guru, sebagian kamper langsung berubah dari padat menjadi gas. Apa nama perubahan wujud tersebut?
 
 **Pilihan jawaban:**
 - Menyublim
