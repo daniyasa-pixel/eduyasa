@@ -2,7 +2,9 @@ package id.eduyasa.nativeapp
 
 import android.content.Context
 import android.media.AudioAttributes
+import android.media.AudioManager
 import android.media.SoundPool
+import android.media.ToneGenerator
 import android.util.Log
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -13,7 +15,6 @@ import java.io.File
 import java.nio.ByteBuffer
 import java.nio.ByteOrder
 import java.util.concurrent.ConcurrentHashMap
-import java.util.concurrent.ConcurrentLinkedQueue
 import kotlin.math.PI
 import kotlin.math.min
 import kotlin.math.roundToInt
@@ -56,18 +57,17 @@ class EduSoundEffects(context: Context) {
         .build()
     private val loadedIds = ConcurrentHashMap.newKeySet<Int>()
     private val sampleIds = ConcurrentHashMap<EduSfx, Int>()
-    private val pending = ConcurrentLinkedQueue<EduSfx>()
+    // Audible fallback while SoundPool is loading, or if an audio sample fails.
+    private val backupTone = runCatching {
+        ToneGenerator(AudioManager.STREAM_MUSIC, 85)
+    }.getOrNull()
     @Volatile private var closed = false
 
     init {
-        pool.setOnLoadCompleteListener { soundPool, id, status ->
+        pool.setOnLoadCompleteListener { _, id, status ->
             if (closed) return@setOnLoadCompleteListener
             if (status == 0) {
                 loadedIds.add(id)
-                val type = sampleIds.entries.firstOrNull { it.value == id }?.key
-                if (type != null && pending.remove(type)) {
-                    soundPool.play(id, 1f, 1f, 1, 0, 1f)
-                }
             } else {
                 Log.w("EduyasaSFX", "Gagal memuat suara: id=$id status=$status")
             }
@@ -99,11 +99,20 @@ class EduSoundEffects(context: Context) {
         val id = sampleIds[type]
         if (id != null && loadedIds.contains(id)) {
             val stream = pool.play(id, 1f, 1f, 1, 0, 1f)
-            if (stream == 0) Log.w("EduyasaSFX", "Gagal memainkan ${type.name}")
-        } else if (type !in pending) {
-            // If the sound has not finished loading, play it once when ready.
-            pending.add(type)
+            if (stream != 0) return
+            Log.w("EduyasaSFX", "Gagal memainkan ${type.name}, gunakan fallback")
         }
+        // Do not queue a delayed sound after the child has moved on.
+        // ToneGenerator also uses STREAM_MUSIC, never the muted system-click stream.
+        val tone = when (type) {
+            EduSfx.TAP -> ToneGenerator.TONE_PROP_BEEP
+            EduSfx.CORRECT, EduSfx.STAR, EduSfx.LEVEL ->
+                ToneGenerator.TONE_PROP_ACK
+            EduSfx.WRONG -> ToneGenerator.TONE_PROP_NACK
+            EduSfx.FINISH -> ToneGenerator.TONE_PROP_BEEP2
+        }
+        runCatching { backupTone?.startTone(tone, 115) }
+            .onFailure { Log.w("EduyasaSFX", "Fallback audio gagal", it) }
     }
 
     private fun generateWav(type: EduSfx): ByteArray {
@@ -174,8 +183,8 @@ class EduSoundEffects(context: Context) {
 
     fun close() {
         closed = true
-        pending.clear()
         scope.cancel()
         pool.release()
+        runCatching { backupTone?.release() }
     }
 }
