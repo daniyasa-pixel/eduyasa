@@ -43,6 +43,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import kotlinx.coroutines.flow.first
@@ -96,7 +97,7 @@ private fun EduyasaApp() {
                 preferences.getBoolean("sfx_" + it.name, true)) }
         }
     }
-    val soundEffects = remember { EduSoundEffects() }
+    val soundEffects = remember { EduSoundEffects(context.applicationContext) }
     DisposableEffect(soundEffects) { onDispose { soundEffects.close() } }
     fun playEffect(effect: EduSfx) {
         if (soundEffectsEnabled && soundChoices[effect] != false) soundEffects.play(effect)
@@ -125,6 +126,15 @@ private fun EduyasaApp() {
     var options by remember { mutableStateOf<List<String>>(emptyList()) }
     var selected by remember { mutableStateOf<String?>(null) }
     var checked by remember { mutableStateOf(false) }
+    var feedbackMessage by remember { mutableStateOf("") }
+    var feedbackPositive by remember { mutableStateOf(true) }
+    var feedbackRevision by remember { mutableIntStateOf(0) }
+    LaunchedEffect(feedbackRevision) {
+        if (feedbackRevision > 0) {
+            delay(2500)
+            feedbackMessage = ""
+        }
+    }
     val results = remember { mutableStateMapOf<Int, Boolean>() }
     val answersChosen = remember { mutableStateMapOf<Int, String>() }
     var sessionId by remember { mutableStateOf(UUID.randomUUID().toString()) }
@@ -168,6 +178,7 @@ private fun EduyasaApp() {
         busy = false
         questionCount = defaultQuestionCount
         recentAchievements = emptyList()
+        feedbackMessage = ""
         waitingForNext = false
         quizPreloader.reset()
     }
@@ -182,6 +193,7 @@ private fun EduyasaApp() {
         saveError = ""
         recentAchievements = emptyList()
         reportError = ""
+        feedbackMessage = ""
         waitingForNext = false
         quizPreloader.reset()
         quiz = quiz.shuffled()
@@ -295,6 +307,7 @@ private fun EduyasaApp() {
         // A question is only composed once its next-screen presentation text
         // has been prepared; preparation never runs on the main UI thread.
         audioEngine.stop()
+        feedbackMessage = ""
         quizScroll.scrollTo(0)
         if (page == Page.QUIZ) {
             quizPreloader.prepareWindow(scope, quiz, qIndex)
@@ -766,7 +779,10 @@ private fun EduyasaApp() {
                                     correct = checked && option == q.answer,
                                     wrong = checked && selected == option && option != q.answer,
                                     checked = checked,
-                                    onSelect = { selected = option }
+                                    onSelect = {
+                                        selected = option
+                                        playEffect(EduSfx.TAP)
+                                    }
                                 )
                             }
                             // The selected border alone provides feedback. No text/rich
@@ -828,6 +844,11 @@ private fun EduyasaApp() {
                                     results[qIndex] = isRight
                                     answersChosen[qIndex] = selected.orEmpty()
                                     playEffect(if (isRight) EduSfx.CORRECT else EduSfx.WRONG)
+                                    feedbackMessage = EduEncouragement.choose(
+                                        isRight, feedbackMessage
+                                    )
+                                    feedbackPositive = isRight
+                                    feedbackRevision++
                                 } else if (qIndex == quiz.lastIndex) {
                                     page = Page.RESULT
                                     persistCompletedQuiz()
@@ -875,6 +896,19 @@ private fun EduyasaApp() {
                             ) { Text("UBAH NOMOR WA") }
                         }
                         HorizontalDivider()
+                        Spacer(Modifier.height(12.dp))
+                        Text("Evaluasi Belajar", fontWeight = FontWeight.Bold,
+                            color = DarkBlue)
+                        Text("Lihat ketepatan jawaban setiap mata pelajaran " +
+                            "dan perkembangan tiap bab.", fontSize = 12.sp, color = Muted)
+                        Spacer(Modifier.height(7.dp))
+                        OutlinedButton(
+                            enabled = activeProfile != null,
+                            onClick = { statistics = null; page = Page.STATS },
+                            modifier = Modifier.fillMaxWidth()
+                                .testTag("settings-open-evaluation")
+                        ) { Text("📊 LIHAT EVALUASI BELAJAR") }
+                        HorizontalDivider(modifier = Modifier.padding(top = 12.dp))
                         Spacer(Modifier.height(12.dp))
                         Text("Kuis", fontWeight = FontWeight.Bold, color = DarkBlue)
                         Spacer(Modifier.height(8.dp))
@@ -1105,6 +1139,13 @@ private fun EduyasaApp() {
         Spacer(Modifier.height(18.dp))
             } // Scrollable body
         } // Fixed header container
+
+    EduQuizFeedbackToast(
+        message = if (page == Page.QUIZ) feedbackMessage else "",
+        correct = feedbackPositive,
+        modifier = Modifier.align(Alignment.TopCenter)
+            .padding(horizontal = 16.dp, top = 82.dp)
+    )
 
     AnimatedVisibility(
         visible = drawerOpen,
