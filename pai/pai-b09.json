@@ -63,7 +63,7 @@
         {
           "id": "PAI-B09-Q005",
           "type": "PG",
-          "text": "Kapan puasa Syawal dilaksanakan?",
+          "text": "Ilustrasi menunjukkan kalender sebagai pengingat jadwal puasa sunah. Kapan puasa enam hari di bulan Syawal boleh dilaksanakan?",
           "options": [
             "Enam hari pada bulan Syawal setelah Idulfitri",
             "Enam hari sebelum Ramadan",
@@ -71,7 +71,7 @@
             "Setiap hari Jumat"
           ],
           "answer": "Enam hari pada bulan Syawal setelah Idulfitri",
-          "discussion": "Puasa Syawal dilakukan enam hari setelah Idulfitri pada bulan Syawal.",
+          "discussion": "Puasa Syawal dilakukan enam hari pada bulan Syawal setelah Idulfitri, bukan pada hari raya pertama bulan Syawal.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q09-fasting.svg",
             "alt": "Ilustrasi kalender puasa sunah"
@@ -88,7 +88,7 @@
             "Membuat seseorang tidak perlu berpuasa lagi"
           ],
           "answer": "Seperti berpuasa sepanjang tahun",
-          "discussion": "Hadis yang dikutip dalam buku menyebut pahalanya seperti puasa sepanjang tahun."
+          "discussion": "Dalam hadis tentang keutamaan puasa enam hari Syawal setelah Ramadan, pahala amal tersebut digambarkan seperti berpuasa sepanjang tahun. Ini bukan pengganti kewajiban salat atau puasa Ramadan."
         },
         {
           "id": "PAI-B09-Q007",
@@ -132,15 +132,15 @@
         {
           "id": "PAI-B09-Q010",
           "type": "PG",
-          "text": "Kapan puasa Syakban dalam materi ini dilaksanakan?",
+          "text": "Rasulullah saw. dikenal memperbanyak puasa sunah pada bulan Syakban. Kapan puasa sunah Syakban dapat dilakukan?",
           "options": [
-            "Pada akhir bulan Ramadan",
-            "Pada pertengahan bulan Syakban",
-            "Tanggal 9 Zulhijah",
-            "Setiap hari Ahad"
+            "Hanya pada akhir bulan Ramadan",
+            "Pada hari-hari yang diperbolehkan selama bulan Syakban",
+            "Hanya pada tanggal 9 Zulhijah",
+            "Hanya pada setiap hari Ahad"
           ],
-          "answer": "Pada pertengahan bulan Syakban",
-          "discussion": "Puasa Syakban yang dibahas dilakukan pada pertengahan bulan Syakban."
+          "answer": "Pada hari-hari yang diperbolehkan selama bulan Syakban",
+          "discussion": "Puasa sunah di bulan Syakban tidak terbatas pada pertengahan bulan saja. Rasulullah saw. dikenal memperbanyak puasa di bulan Syakban. Pelaksanaannya perlu memperhatikan ketentuan hari yang diperbolehkan dan kebiasaan puasa menjelang Ramadan."
         },
         {
           "id": "PAI-B09-Q011",
@@ -223,7 +223,7 @@
         {
           "id": "PAI-B09-Q017",
           "type": "PG",
-          "text": "Apa contoh puasa makruh menurut buku?",
+          "text": "Dalam pembahasan fikih puasa, apa contoh berpuasa yang dinilai makruh jika hari itu dikhususkan tanpa sebab atau kebiasaan puasa yang lain?",
           "options": [
             "Berpuasa hanya pada hari Jumat",
             "Puasa Senin dan Kamis",
@@ -231,7 +231,7 @@
             "Puasa Syawal enam hari"
           ],
           "answer": "Berpuasa hanya pada hari Jumat",
-          "discussion": "Buku memberi contoh puasa hanya pada Jumat atau Sabtu sebagai makruh."
+          "discussion": "Mengkhususkan hari Jumat saja untuk berpuasa tanpa sebab atau tanpa mengiringinya dengan hari lain merupakan contoh yang dibahas sebagai makruh dalam fikih. Jika bertepatan dengan kebiasaan puasa atau alasan yang diperbolehkan, ketentuannya dapat berbeda."
         },
         {
           "id": "PAI-B09-Q018",
@@ -257,7 +257,7 @@
             "Harus berpuasa pada hari raya"
           ],
           "answer": "Suci dari haid atau nifas",
-          "discussion": "Buku mencantumkan suci dari haid atau nifas sebagai syarat sah puasa."
+          "discussion": "Saat sedang haid atau nifas, seorang perempuan tidak menjalankan puasa. Setelah suci, ia dapat menjalankan puasa sesuai ketentuan fikih."
         },
         {
           "id": "PAI-B09-Q020",
@@ -288,7 +288,7 @@
         {
           "id": "PAI-B09-Q022",
           "type": "PG",
-          "text": "Manakah yang membatalkan puasa menurut materi?",
+          "text": "Manakah perbuatan yang dapat membatalkan puasa jika dilakukan dengan sengaja saat berpuasa?",
           "options": [
             "Mandi pada siang hari",
             "Makan dan minum dengan sengaja",
@@ -296,12 +296,12 @@
             "Membaca Al-Qur’an"
           ],
           "answer": "Makan dan minum dengan sengaja",
-          "discussion": "Makan dan minum dengan sengaja termasuk pembatal puasa."
+          "discussion": "Makan atau minum dengan sengaja saat waktu berpuasa termasuk perbuatan yang membatalkan puasa; mandi, belajar, dan membaca Al-Qur’an tidak termasuk pembatal."
         },
         {
           "id": "PAI-B09-Q023",
           "type": "PG",
-          "text": "Apa contoh lain yang membatalkan puasa menurut buku?",
+          "text": "Manakah tindakan yang termasuk pembatal puasa ketika dilakukan dengan sengaja?",
           "options": [
             "Tidur siang",
             "Berjalan kaki",
@@ -309,12 +309,12 @@
             "Membaca doa"
           ],
           "answer": "Muntah dengan sengaja",
-          "discussion": "Muntah dengan sengaja termasuk hal yang membatalkan puasa."
+          "discussion": "Muntah dengan sengaja termasuk hal yang membatalkan puasa menurut ketentuan fikih yang dibahas. Hal ini berbeda dari muntah yang terjadi tanpa disengaja."
         },
         {
           "id": "PAI-B09-Q024",
           "type": "PG",
-          "text": "Menurut ketentuan dalam buku, perempuan yang bersuami perlu memperhatikan apa sebelum melaksanakan puasa sunah?",
+          "text": "Menurut ketentuan hadis tentang puasa sunah ketika suami sedang berada di rumah, hal apa yang perlu diperhatikan oleh istri sebelum berpuasa sunah?",
           "options": [
             "Meminta izin kepada teman",
             "Menunggu hari raya",
@@ -322,20 +322,20 @@
             "Mendapat izin suami"
           ],
           "answer": "Mendapat izin suami",
-          "discussion": "Buku mencantumkan izin suami sebagai salah satu syarat sah puasa sunah bagi perempuan yang bersuami."
+          "discussion": "Dalam hadis yang dibahas, ketika suami berada di rumah, istri memperhatikan izin suami sebelum menjalankan puasa sunah. Ini membahas adab dan hukum pelaksanaan, bukan syarat sah puasa secara umum; rincian hukumnya dapat dijelaskan guru."
         },
         {
           "id": "PAI-B09-Q025",
           "type": "PG",
-          "text": "Kapan niat puasa sunah masih dapat dilakukan pada siang hari menurut penjelasan buku?",
+          "text": "Menurut salah satu penjelasan fikih Syafi'i, kapan niat puasa sunah masih boleh dibuat pada siang hari?",
           "options": [
-            "Jika sejak terbit fajar belum melakukan hal yang membatalkan puasa",
+            "Sebelum waktu zawal jika sejak fajar belum melakukan pembatal puasa",
             "Setelah makan dan minum pada pagi hari",
-            "Setelah matahari terbenam",
+            "Setelah matahari terbenam pada hari yang sama",
             "Hanya setelah berbuka puasa"
           ],
-          "answer": "Jika sejak terbit fajar belum melakukan hal yang membatalkan puasa",
-          "discussion": "Buku menjelaskan bahwa niat puasa sunah boleh dilakukan pada siang hari jika sejak terbit fajar belum melakukan hal yang membatalkan puasa. Rincian waktu niat perlu dipelajari bersama guru.",
+          "answer": "Sebelum waktu zawal jika sejak fajar belum melakukan pembatal puasa",
+          "discussion": "Dalam penjelasan fikih Syafi'i yang dirujuk MUI, niat puasa sunah masih dapat dilakukan sebelum waktu zawal (matahari tergelincir), asalkan sejak fajar tidak melakukan sesuatu yang membatalkan puasa. Perincian pendapat ulama dapat ditanyakan kepada guru.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q09-fasting.svg",
             "alt": "Ilustrasi jadwal dan niat puasa sunah"
@@ -370,7 +370,7 @@
         {
           "id": "PAI-B09-Q028",
           "type": "PG",
-          "text": "Apa tujuan utama ibadah puasa menurut materi?",
+          "text": "Apa tujuan utama menjalankan ibadah puasa sunah dengan niat yang tulus?",
           "options": [
             "Agar dipuji manusia",
             "Agar lebih unggul dari teman",
@@ -378,7 +378,7 @@
             "Mendekatkan diri dan memperoleh pahala dari Allah"
           ],
           "answer": "Mendekatkan diri dan memperoleh pahala dari Allah",
-          "discussion": "Puasa merupakan ibadah untuk mendekatkan diri kepada Allah."
+          "discussion": "Tujuan ibadah puasa adalah mendekatkan diri kepada Allah dengan niat yang tulus dan mengharap rida-Nya, bukan sekadar mendapat pujian dari manusia."
         },
         {
           "id": "PAI-B09-Q029",
@@ -396,7 +396,7 @@
         {
           "id": "PAI-B09-Q030",
           "type": "PG",
-          "text": "Apa contoh mengamalkan puasa sunah secara konsisten?",
+          "text": "Siswa yang sudah mampu dan sehat ingin membiasakan puasa sunah. Kebiasaan manakah yang sesuai dengan tuntunan dan kemampuan dirinya?",
           "options": [
             "Berpuasa pada hari yang diharamkan",
             "Membiasakan puasa Senin atau Kamis sesuai kemampuan dan ketentuan",
@@ -404,7 +404,7 @@
             "Mengabaikan syarat sah puasa"
           ],
           "answer": "Membiasakan puasa Senin atau Kamis sesuai kemampuan dan ketentuan",
-          "discussion": "Buku mengajak membiasakan puasa sunah seperti Senin dan Kamis."
+          "discussion": "Puasa Senin atau Kamis dapat dibiasakan sesuai kemampuan dan ketentuan fikih. Siswa tidak perlu memaksakan diri sampai membahayakan kesehatan dan dapat berdiskusi dengan orang tua atau guru."
         }
       ]
     }
