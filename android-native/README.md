@@ -233,3 +233,41 @@ Setelah percobaan Smart Preload sebelumnya, perangkat masih melaporkan tap A/B/C
 File frontend diubah: `QuizAnswerChoice.kt` dan `MainActivity.kt` dalam branch `android` saja. Tidak ada perubahan JSON, materi, atau versi HTML.
 
 **Pengujian penting** (belum dilakukan dari sesi ini): Gradle Sync dan build APK; uji soal matematika pecahan dengan sentuhan di angka, di rumus, di pinggir, dan di sela kosong pada setiap pilihan; cek kecepatan respons mulai soal 1 hingga 25; ganti pilihan beberapa kali sebelum koreksi, pastikan skor benar; setelah koreksi pilihan terkunci, garis hijau/merah dan pembahasan tetap tampil. Jika masih ada tap tidak tertangkap, gunakan Android Studio Layout Inspector, System Trace dan Input event tracing untuk menguji apakah AndroidView menutupi overlay pointer; jangan menganggap hasilnya sudah terbukti tanpa tes HP.
+
+## Tahap 11 — Evaluasi per mata pelajaran, toast dan audio Android (23 November 2026)
+
+Sesuai persetujuan untuk 10 poin penyempurnaan frontend:
+
+### Evaluasi
+- `LearningStatisticsScreen.kt`: daftar vertikal **semua mata pelajaran** milik kelas profil siswa saat ini, termasuk pelajaran yang belum memiliki riwayat. Tidak ada grid evaluasi.
+- Tiap baris menampilkan **Ketepatan Jawaban** = jumlah jawaban benar / jumlah soal yang **sudah dikerjakan** pada pelajaran itu. Jumlah bab yang belum dikerjakan **tidak** mengurangi persentase. Contoh: 10 benar dari 10 soal Matematika Bab 1 = 100% Matematika.
+- Pelajaran tanpa jawaban menampilkan **"Yuk, coba latihan pertamamu!"** (tanpa 0% atau "Belum ada data").
+- Tekan baris membuka detail pelajaran terpilih; menampilkan ketepatan keseluruhan dan **semua bab** dengan nama aslinya. Bab yang sudah dikerjakan menampilkan level (jumlah seluruh jawaban bab), bintang (maksimal 20 jawaban terakhir), persentase/jumlah benar, dan saran sederhana; bab kosong mengajak mulai belajar.
+- Detail memakai tombol kembali ke daftar. Tombol kembali dari daftar mengembalikan pengguna ke layar asal (Pengaturan, Pilih Mata Pelajaran, Hasil, atau Beranda).
+- Menu `Pengaturan` kini berisi `LIHAT EVALUASI BELAJAR`. Akses evaluasi via pilihan mata pelajaran/menu samping/hasil kuis juga tetap ada.
+- Data statistik tetap dari SQLite privat berdasarkan ID profil siswa; **tidak ada migrasi, penghapusan, atau perubahan database**. Level dan bintang per bab tidak diubah.
+
+### Toast penyemangat
+- `EduQuizFeedbackToast.kt` memuat persis variasi pesan HTML EDUYASA: benar **Good Job! / Nice Job! / Keren! / Mantap! / Hebat!**; belum tepat **Tetap Semangat! / Ayo Coba Lagi! / Belajar dari Kesalahan! / Jangan Menyerah!**, termasuk emoji.
+- Pesan acak saat tombol `KOREKSI JAWABAN` ditekan, tampil sebagai notifikasi kecil di bagian atas (bukan Toast Android yang menghilang tanpa kendali), hilang otomatis setelah 2,5 detik. Tidak memengaruhi skor atau kelanjutan soal.
+
+### Audio
+- `EduSoundEffects.kt` diganti dari pembuatan `AudioTrack` setiap pemutaran menjadi **SoundPool** dengan enam suara pendek orisinal: **TAP, CORRECT, WRONG, STAR, LEVEL, FINISH**.
+- WAV efek disintesis/dimuat lebih awal ke cache privat; `AudioAttributes.USAGE_GAME` memakai **volume Media** HP. Jika loading sampel belum selesai/gagal, ada fallback nada singkat `ToneGenerator(STREAM_MUSIC)` supaya tidak tertunda; tidak ada musik dan tidak perlu internet.
+- Layer sentuh A/B/C/D tetap menerima tap dan hanya mengubah garis tepi, tetapi kini memicu suara klik singkat melalui `playEffect(EduSfx.TAP)`. Efek jawaban benar/salah tetap saat koreksi; efek pencapaian tetap setelah SQLite menyimpan hasil.
+- Semua efek bisa dinyalakan/dimatikan secara keseluruhan maupun sendiri-sendiri, termasuk suara klik; pilihan tersimpan di SharedPreferences.
+- `EduAudioPlayer.kt`: suara Listening (TTS dan file) diarahkan ke volume media, status mulai/selesai/gagal menjadi lebih jelas. `AndroidManifest.xml` mendeklarasikan visibility `TTS_SERVICE` Android 11+. Menu Pengaturan menambah tombol **Tes Audio Listening** dan petunjuk mengecek volume Media.
+- Pengaturan Listening **tetap terpisah** dari Efek Suara Game. Mesin TTS bahasa Inggris di HP harus tersedia; jika tidak, tampil peringatan tanpa merusak kuis.
+
+**Jujur mengenai verifikasi:** perubahan telah di-commit ke branch `android`, belum dilakukan Gradle Sync, build APK, atau tes suara di perangkat fisik dari sesi ini. Volume Media bisa nol dan paket TTS Bahasa Inggris bisa belum terpasang. Jangan menyatakan audio pasti keluar sebelum dites.
+
+### Checklist uji di Android Studio/HP
+1. `git pull --ff-only origin android`, Sync dan Build; periksa error Kotlin/Compose sebelum menjalankan.
+2. Masuk Pengaturan → Efek Suara Game aktif; naikkan volume **Media**; tekan ▶ pada keenam efek termasuk TAP; matikan satu efek dan pastikan efek lain tetap berbunyi.
+3. Pengaturan → Tes Audio Listening; bila gagal, baca status dan cek Google Speech Services/mesin TTS Inggris pada perangkat. Listening pada soal ENG harus tetap bekerja meskipun Efek Suara Game dimatikan.
+4. Tekan A/B/C/D cepat pada soal rumus pecahan: hanya border biru, bunyi klik singkat, tidak terjadi lag atau perubahan teks. Tekan Koreksi: toast benar/salah, nada sesuai, hasil benar/salah dan pembahasan.
+5. Selesaikan kuis 15/20/25 soal; suara selesai, level, bintang dan penyimpanan hasil harus tetap berfungsi.
+6. Siswa A dan B: lihat evaluasi berbeda. Semua mata pelajaran harus tampil termasuk yang belum dikerjakan; kosong tidak menampilkan 0%. Periksa Matematika 10/10 benar = 100% meskipun hanya bab pertama.
+7. Buka detail Matematika; level, bintang dan ketepatan masing-masing bab harus muncul. Kembali ke daftar lalu Pengaturan.
+8. Cek `adb logcat -s EduyasaSFX` jika efek suara tidak terdengar, dan cek pengaturan volume media.
+9. **Tidak ada perubahan** pada bank soal JSON, materi, HTML, branch `main`, maupun struktur database siswa.
