@@ -15,8 +15,8 @@ import kotlinx.coroutines.withContext
 
 /**
  * A small, bounded preparation window for quiz UI.
- * It prepares presentation strings off the main thread, then optionally asks
- * Coil to prefetch the image. Actual Android Views stay on the UI thread.
+ * It parses and pre-renders Markdown and LaTeX spans off the main thread,
+ * then asks Coil to prefetch an image. Actual Android Views stay on the UI thread.
  * Does not access, edit, or persist the question bank.
  */
 data class PreparedQuizQuestion(
@@ -64,14 +64,14 @@ class QuizPreloadController(context: Context) {
                         withContext(Dispatchers.Default) {
                             renderPermit.withPermit {
                                 PreparedQuizQuestion(
-                                id = q.id,
-                                prompt = prepareRenderedEduText(appContext, q.text, 17f),
-                                answerOptions = q.options.associateWith { option ->
-                                    prepareRenderedEduText(appContext, option, 14f)
-                                },
-                                discussion = prepareRenderedEduText(
-                                    appContext, q.discussion, 14f
-                                )
+                                    id = q.id,
+                                    prompt = prepareRenderedEduText(appContext, q.text, 17f),
+                                    answerOptions = q.options.associateWith { option ->
+                                        prepareRenderedEduText(appContext, option, 14f)
+                                    },
+                                    discussion = prepareRenderedEduText(
+                                        appContext, q.discussion, 14f
+                                    )
                                 )
                             }
                         }
