@@ -52,7 +52,7 @@
 
 ## Soal 4 — K03-PAI-B01-M01-004
 
-**Pertanyaan:** Dalam pelajaran ini siswa membaca bagian awal Surah Al-'Alaq. Bagian awal yang dikenal sebagai wahyu pertama terdiri atas ....
+**Pertanyaan:** Berapa ayat pertama Surah Al-'Alaq yang dikenal sebagai wahyu pertama yang diterima Nabi Muhammad saw.?
 
 **Pilihan jawaban:**
 - 3 ayat
@@ -180,7 +180,7 @@
 
 ## Soal 12 — K03-PAI-B01-M01-012
 
-**Pertanyaan:** Kata عَلَقٍ dalam bagian yang sedang dipelajari ada pada ayat berapa?
+**Pertanyaan:** Kata عَلَقٍ yang menjadi asal nama Surah Al-'Alaq terdapat pada ayat berapa dalam lima ayat pertama surah tersebut?
 
 **Pilihan jawaban:**
 - Ayat 1
@@ -196,7 +196,7 @@
 
 ## Soal 13 — K03-PAI-B01-M01-013
 
-**Pertanyaan:** Ayat mana yang menyandingkan perintah membaca dengan penyebutan Tuhan Yang Mahamulia?
+**Pertanyaan:** Dalam Surah Al-'Alaq ayat 1–5, ayat mana yang menyebut perintah membaca sekaligus Tuhan Yang Mahamulia?
 
 **Pilihan jawaban:**
 - Ayat 3
@@ -212,7 +212,7 @@
 
 ## Soal 14 — K03-PAI-B01-M01-014
 
-**Pertanyaan:** Apa yang diajarkan Allah kepada manusia menurut ayat 5?
+**Pertanyaan:** Menurut Surah Al-'Alaq ayat 5, apa yang Allah ajarkan kepada manusia?
 
 **Pilihan jawaban:**
 - Hanya cara memakai pena
@@ -228,7 +228,7 @@
 
 ## Soal 15 — K03-PAI-B01-M01-015
 
-**Pertanyaan:** Catatan kelompok menaruh pesan tentang pena sebelum pesan tentang Tuhan Yang Mahamulia. Apa perbaikan urutannya?
+**Pertanyaan:** Pada lima ayat pertama Surah Al-'Alaq, seorang siswa menulis pesan tentang pena sebelum pesan tentang Tuhan Yang Mahamulia. Bagaimana urutan catatan itu seharusnya?
 
 **Pilihan jawaban:**
 - Pesan tentang pena lalu pesan penciptaan manusia
@@ -238,7 +238,7 @@
 
 **Kunci Jawaban:** Pesan tentang Tuhan Yang Mahamulia lalu pesan tentang pena
 
-**Pembahasan:** Penyebutan Tuhan Yang Mahamulia ada pada ayat 3 dan pena pada ayat 4.
+**Pembahasan:** Surah Al-'Alaq ayat 3 menghubungkan membaca dengan Tuhan Yang Mahamulia, sedangkan ayat 4 menyebut pengajaran dengan pena. Jadi pesan tentang Tuhan Yang Mahamulia diletakkan lebih dahulu.
 
 ---
 
@@ -420,7 +420,7 @@
 
 ## Soal 27 — K03-PAI-B01-M01-027
 
-**Pertanyaan:** Temanmu hafal lima ayat, tetapi belum bisa menceritakan maknanya. Latihan mana yang membantunya memahami pesan ayat 4?
+**Pertanyaan:** Temanmu hafal lima ayat pertama Surah Al-'Alaq, tetapi belum dapat menjelaskan pesan ayat 4 tentang pena. Latihan mana yang membantunya memahami makna ayat itu?
 
 **Pilihan jawaban:**
 - Hitung jumlah kata tanpa melihat maknanya
