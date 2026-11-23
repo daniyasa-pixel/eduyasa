@@ -144,6 +144,11 @@ private fun EduyasaApp() {
     var leaveOpen by remember { mutableStateOf(false) }
     var zoomImage by remember { mutableStateOf<String?>(null) }
     val quizScroll = rememberScrollState()
+    val quizPreloader = remember { QuizPreloadController(context.applicationContext) }
+    var waitingForNext by remember { mutableStateOf(false) }
+    DisposableEffect(quizPreloader) {
+        onDispose { quizPreloader.reset() }
+    }
     val audioEngine = rememberEduAudioPlayer()
     val subjects = catalog[grade].orEmpty()
 
@@ -161,6 +166,8 @@ private fun EduyasaApp() {
         busy = false
         questionCount = defaultQuestionCount
         recentAchievements = emptyList()
+        waitingForNext = false
+        quizPreloader.reset()
     }
     fun selections(): List<SelectedChapter> = selectedSubjects.flatMap { key ->
         val subject = subjects.firstOrNull { it.id == key }
@@ -172,6 +179,8 @@ private fun EduyasaApp() {
         saveStatus = SaveStatus.NONE
         saveError = ""
         recentAchievements = emptyList()
+        waitingForNext = false
+        quizPreloader.reset()
         quiz = quiz.shuffled()
         qIndex = 0
         selected = null
@@ -279,11 +288,26 @@ private fun EduyasaApp() {
     LaunchedEffect(grade) {
         if (grade == 3 || grade == 6) connected = EduyasaRepository.checkConnection(grade)
     }
-    LaunchedEffect(page, qIndex) {
-        // Every screen/question starts at the top. Shared scroll state previously
-        // retained offsets from long pages and made content appear to jump.
+    LaunchedEffect(page, sessionId, qIndex) {
+        // A question is only composed once its next-screen presentation text
+        // has been prepared; preparation never runs on the main UI thread.
         audioEngine.stop()
         quizScroll.scrollTo(0)
+        if (page == Page.QUIZ) {
+            quizPreloader.prepareWindow(scope, quiz, qIndex)
+        }
+    }
+    val upcomingPrepared = quizPreloader.ready[qIndex + 1]
+    LaunchedEffect(page, sessionId, qIndex, waitingForNext, upcomingPrepared) {
+        if (page == Page.QUIZ && waitingForNext &&
+            qIndex < quiz.lastIndex && upcomingPrepared != null &&
+            upcomingPrepared.id == quiz[qIndex + 1].id) {
+            waitingForNext = false
+            qIndex++
+            selected = null
+            checked = false
+            options = quiz[qIndex].options.shuffled()
+        }
     }
     LaunchedEffect(page, activeProfileId, savedRevision) {
         val profileId = activeProfileId
@@ -653,7 +677,30 @@ private fun EduyasaApp() {
                 }
                 Page.QUIZ -> {
                     val q = quiz.getOrNull(qIndex)
-                    if (q != null) {
+                    val preparedQuestion = quizPreloader.ready[qIndex]
+                    val preparationFailure = quizPreloader.errors[qIndex]
+                    if (q != null && (preparedQuestion == null || preparedQuestion.id != q.id)) {
+                        Panel {
+                            Text("Soal " + (qIndex + 1) + " dari " + quiz.size,
+                                fontWeight = FontWeight.Bold, color = DarkBlue)
+                            Spacer(Modifier.height(15.dp))
+                            if (preparationFailure != null) {
+                                ErrorMessage(preparationFailure)
+                                Primary("COBA LAGI", "quiz-preparation-retry") {
+                                    quizPreloader.retry(scope, quiz, qIndex)
+                                }
+                            } else {
+                                Row(verticalAlignment = Alignment.CenterVertically,
+                                    horizontalArrangement = Arrangement.spacedBy(10.dp),
+                                    modifier = Modifier.testTag("quiz-current-loading")) {
+                                    CircularProgressIndicator(
+                                        modifier = Modifier.size(22.dp), strokeWidth = 2.dp
+                                    )
+                                    Text("Menyiapkan soal...", color = Muted, fontSize = 13.sp)
+                                }
+                            }
+                        }
+                    } else if (q != null && preparedQuestion != null) {
                         Panel {
                             Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween) {
                                 Text("Soal " + (qIndex + 1) + " dari " + quiz.size,
@@ -669,7 +716,7 @@ private fun EduyasaApp() {
                             )
                             Spacer(Modifier.height(19.dp))
                             EduAnswerText(q.text, modifier = Modifier.testTag("quizQText"),
-                                sizeSp = 17f)
+                                sizeSp = 17f, prepared = preparedQuestion.prompt)
                             Text("ID: " + q.id, color = Muted, fontSize = 10.sp)
                             if (!q.imageUrl.isNullOrBlank()) {
                                 Spacer(Modifier.height(13.dp))
@@ -759,7 +806,8 @@ private fun EduyasaApp() {
                                         Text("ABCD"[i].toString() + ". ",
                                             fontWeight = FontWeight.Bold, fontSize = 14.sp)
                                         EduAnswerText(option,
-                                            modifier = Modifier.weight(1f))
+                                            modifier = Modifier.weight(1f),
+                                            prepared = preparedQuestion.answerOptions[option])
                                         if (isCorrect) Text(" ✓", fontWeight = FontWeight.Bold,
                                             color = Green, fontSize = 19.sp)
                                         else if (isWrong) Text(" ×", fontWeight = FontWeight.Bold,
@@ -800,14 +848,38 @@ private fun EduyasaApp() {
                                         Spacer(Modifier.height(8.dp))
                                         Text("Pembahasan:", color = Blue,
                                             fontWeight = FontWeight.Bold)
-                                        EduRichText(q.discussion, sizeSp = 14f)
+                                        EduAnswerText(q.discussion, sizeSp = 14f,
+                                            prepared = preparedQuestion.discussion)
+                                    }
+                                }
+                            }
+                            if (checked && waitingForNext) {
+                                Spacer(Modifier.height(8.dp))
+                                val nextFailure = quizPreloader.errors[qIndex + 1]
+                                if (nextFailure != null) {
+                                    ErrorMessage("Persiapan soal berikutnya gagal: " + nextFailure)
+                                    Primary("COBA LAGI", "quiz-next-retry") {
+                                        quizPreloader.retry(scope, quiz, qIndex + 1)
+                                    }
+                                } else {
+                                    Row(Modifier.fillMaxWidth()
+                                            .testTag("quiz-next-loading")
+                                            .padding(vertical = 8.dp),
+                                        verticalAlignment = Alignment.CenterVertically,
+                                        horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+                                        CircularProgressIndicator(
+                                            modifier = Modifier.size(18.dp), strokeWidth = 2.dp
+                                        )
+                                        Text("Menyiapkan soal berikutnya...",
+                                            color = Muted, fontSize = 13.sp)
                                     }
                                 }
                             }
                             Primary(
                                 if (!checked) "KOREKSI JAWABAN"
                                 else if (qIndex == quiz.lastIndex) "LIHAT HASIL" else "LANJUT",
-                                "btnQuizAction", checked || selected != null
+                                "btnQuizAction",
+                                (checked || selected != null) && !waitingForNext
                             ) {
                                 if (!checked) {
                                     checked = true
@@ -820,10 +892,18 @@ private fun EduyasaApp() {
                                     persistCompletedQuiz()
                                 }
                                 else {
-                                    qIndex++
-                                    selected = null
-                                    checked = false
-                                    options = quiz[qIndex].options.shuffled()
+                                    val nextIndex = qIndex + 1
+                                    val nextReady = quizPreloader.ready[nextIndex]
+                                    if (nextReady != null &&
+                                        nextReady.id == quiz[nextIndex].id) {
+                                        qIndex = nextIndex
+                                        selected = null
+                                        checked = false
+                                        options = quiz[qIndex].options.shuffled()
+                                    } else {
+                                        waitingForNext = true
+                                        quizPreloader.prepareWindow(scope, quiz, qIndex)
+                                    }
                                 }
                             }
                         }
