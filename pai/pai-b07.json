@@ -24,7 +24,7 @@
         {
           "id": "PAI-B07-Q002",
           "type": "PG",
-          "text": "Apa yang dimaksud qada dalam materi bab ini?",
+          "text": "Dalam pelajaran iman kepada qada dan kadar, apa yang dimaksud dengan qada?",
           "options": [
             "Usaha manusia sehari-hari",
             "Ketetapan Allah sejak zaman azali",
@@ -136,12 +136,12 @@
             "Karena doa hanya dilakukan setelah berhasil"
           ],
           "answer": "Karena manusia tetap diwajibkan berusaha dan berdoa",
-          "discussion": "Materi menegaskan usaha dan doa harus berjalan bersama."
+          "discussion": "Tawakal tidak berarti berdiam diri tanpa ikhtiar. Manusia perlu berusaha dengan sungguh-sungguh, berdoa, lalu menyerahkan hasilnya kepada Allah."
         },
         {
           "id": "PAI-B07-Q011",
           "type": "PG",
-          "text": "Seorang siswa ingin lulus ujian. Sikap yang menunjukkan ikhtiar adalah ...",
+          "text": "Ilustrasi menunjukkan seorang anak yang berusaha belajar, dengan pesan 'Berusaha, berdoa, bertawakal'. Seorang siswa ingin berhasil dalam ujian. Tindakan mana yang merupakan contoh ikhtiar?",
           "options": [
             "Tidak belajar lalu berharap mendapat nilai tinggi",
             "Menyontek jawaban teman",
@@ -149,7 +149,7 @@
             "Menyalahkan guru sebelum ujian"
           ],
           "answer": "Belajar teratur dan mengerjakan latihan",
-          "discussion": "Belajar adalah bentuk usaha untuk mencapai hasil baik.",
+          "discussion": "Ikhtiar merupakan usaha nyata untuk mencapai tujuan. Dalam menghadapi ujian, belajar teratur dan latihan mengerjakan soal adalah bentuk ikhtiar; doa dan tawakal melengkapinya.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q07-effort.svg",
             "alt": "Ilustrasi usaha belajar dan berdoa"
@@ -192,7 +192,7 @@
             "Mengejek orang yang berhasil"
           ],
           "answer": "Bersabar, mengevaluasi usaha, dan mencoba kembali",
-          "discussion": "Materi mengajarkan sabar dan tetap berusaha ketika hasil belum sesuai harapan."
+          "discussion": "Saat hasil usaha belum sesuai harapan, sabar membantu seseorang mengendalikan diri. Evaluasi cara belajar lalu mencoba kembali merupakan bentuk ikhtiar yang bertanggung jawab."
         },
         {
           "id": "PAI-B07-Q015",
@@ -244,12 +244,12 @@
             "Subhanallah tanpa memahami makna"
           ],
           "answer": "Alhamdulillah",
-          "discussion": "Materi menyebut hamdalah sebagai ungkapan syukur."
+          "discussion": "Ucapan 'Alhamdulillah' adalah hamdalah, yaitu ungkapan pujian dan syukur kepada Allah. Rasa syukur juga dapat ditunjukkan melalui perbuatan baik."
         },
         {
           "id": "PAI-B07-Q019",
           "type": "PG",
-          "text": "Apa kalimat hauqalah yang disebut dalam materi tawakal?",
+          "text": "Dalam pembelajaran tentang tawakal, kalimat 'hauqalah' mengingatkan manusia bahwa kekuatan sejati datang dengan pertolongan Allah. Manakah lafaz hauqalah?",
           "options": [
             "Bismillāhir-raḥmānir-raḥīm",
             "Alḥamdulillāh",
@@ -257,7 +257,7 @@
             "Astaghfirullāh"
           ],
           "answer": "Lā ḥaula wa lā quwwata illā billāh",
-          "discussion": "Kalimat hauqalah berarti tiada daya dan kekuatan kecuali dengan pertolongan Allah."
+          "discussion": "Lafaz hauqalah adalah 'Lā ḥaula wa lā quwwata illā billāh', yang bermakna tidak ada daya dan kekuatan kecuali dengan pertolongan Allah."
         },
         {
           "id": "PAI-B07-Q020",
@@ -270,7 +270,7 @@
             "Tempat tercatatnya ketetapan Allah"
           ],
           "answer": "Tempat tercatatnya ketetapan Allah",
-          "discussion": "Lauhulmahfuz disebut dalam materi sebagai istilah terkait ketetapan Allah."
+          "discussion": "Dalam pembahasan keimanan kepada takdir, Lauhulmahfuz dipahami sebagai tempat tercatatnya ketetapan Allah, bukan buku catatan manusia."
         },
         {
           "id": "PAI-B07-Q021",
@@ -288,7 +288,7 @@
         {
           "id": "PAI-B07-Q022",
           "type": "PG",
-          "text": "Mengapa orang beriman tidak mudah putus asa saat mendapat cobaan?",
+          "text": "Ilustrasi mengingatkan untuk terus berusaha, berdoa, dan bertawakal. Seorang anak sudah berlatih keras, tetapi belum berhasil dalam lomba. Mengapa ia tidak perlu putus asa?",
           "options": [
             "Karena menganggap semua masalah tidak penting",
             "Karena yakin pada ketetapan Allah dan tetap berusaha",
@@ -296,7 +296,7 @@
             "Karena semua cobaan pasti hilang seketika"
           ],
           "answer": "Karena yakin pada ketetapan Allah dan tetap berusaha",
-          "discussion": "Iman kepada takdir menumbuhkan kesabaran dan sikap tidak mudah putus asa.",
+          "discussion": "Beriman kepada takdir mengajak seseorang bersabar ketika menghadapi kegagalan, mengevaluasi usahanya, berdoa, dan mencoba kembali bila memungkinkan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q07-effort.svg",
             "alt": "Ilustrasi terus berusaha dan tidak putus asa"
@@ -331,7 +331,7 @@
         {
           "id": "PAI-B07-Q025",
           "type": "PG",
-          "text": "Apa hubungan doa dan usaha menurut materi?",
+          "text": "Seorang siswa telah belajar sungguh-sungguh untuk ujian dan memohon pertolongan Allah dalam doanya. Bagaimana hubungan yang tepat antara doa dan usaha?",
           "options": [
             "Keduanya dilakukan beriringan",
             "Doa hanya perlu jika usaha gagal",
@@ -339,7 +339,7 @@
             "Doa dan usaha saling menggantikan"
           ],
           "answer": "Keduanya dilakukan beriringan",
-          "discussion": "Materi menegaskan usaha dan doa perlu dilakukan bersama."
+          "discussion": "Berusaha dan berdoa dilakukan beriringan. Doa bukan pengganti belajar, dan belajar tidak menjadi alasan untuk meninggalkan doa."
         },
         {
           "id": "PAI-B07-Q026",
@@ -365,7 +365,7 @@
             "Meninggalkan kewajiban"
           ],
           "answer": "Sabar, berdoa, dan mencari pertolongan yang tepat",
-          "discussion": "Materi mengajarkan sabar dan tetap berdoa ketika menghadapi ujian."
+          "discussion": "Ketika menghadapi musibah, bersabar dan berdoa perlu disertai langkah nyata untuk mencari bantuan yang tepat, misalnya pertolongan keluarga atau tenaga kesehatan bila diperlukan."
         },
         {
           "id": "PAI-B07-Q028",
