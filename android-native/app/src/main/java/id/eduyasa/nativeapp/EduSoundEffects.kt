@@ -1,107 +1,181 @@
 package id.eduyasa.nativeapp
 
+import android.content.Context
 import android.media.AudioAttributes
-import android.media.AudioFormat
-import android.media.AudioTrack
+import android.media.SoundPool
+import android.util.Log
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob
 import kotlinx.coroutines.cancel
-import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
+import java.io.File
+import java.nio.ByteBuffer
+import java.nio.ByteOrder
+import java.util.concurrent.ConcurrentHashMap
+import java.util.concurrent.ConcurrentLinkedQueue
 import kotlin.math.PI
-import kotlin.math.max
 import kotlin.math.min
 import kotlin.math.roundToInt
 import kotlin.math.sin
 
 /**
- * Lima efek suara sintetis orisinal tanpa aset eksternal/izin internet.
- * Pemutarannya tidak memblokir UI dan mengikuti volume perangkat.
- * Seluruh not pendek, tidak ada musik latar ataupun lagu komersial.
+ * Game feedback uses a preloaded SoundPool (low latency) on MEDIA/GAME audio
+ * instead of allocating a new AudioTrack for every tap. On many Android
+ * devices the separate system-sonification stream can be muted while media
+ * volume is audible; SoundPool follows the normal media volume.
+ *
+ * Six short original synthesized cues; no external audio, permissions or JSON.
  */
 enum class EduSfx(val displayName: String, val description: String) {
+    TAP("Sentuh pilihan A/B/C/D", "Klik lembut ketika memilih jawaban"),
     CORRECT("Jawaban benar", "Ding ceria"),
-    WRONG("Jawaban belum tepat", "Tok lembut"),
+    WRONG("Jawaban belum tepat", "Nada lembut"),
     STAR("Bintang meningkat", "Kilau bintang"),
-    LEVEL("Naik level", "Kemenangan singkat"),
-    FINISH("Kuis selesai", "Penutup lembut")
+    LEVEL("Naik level", "Nada kemenangan singkat"),
+    FINISH("Kuis selesai", "Nada penutup")
 }
 
-class EduSoundEffects {
-    private data class Note(val frequency: Double, val startMs: Int, val durationMs: Int, val volume: Double)
-    private val scope = CoroutineScope(SupervisorJob() + Dispatchers.Default)
+class EduSoundEffects(context: Context) {
+    private data class Note(
+        val hz: Double,
+        val startMs: Int,
+        val lengthMs: Int,
+        val level: Double
+    )
+    private val appContext = context.applicationContext
+    private val scope = CoroutineScope(SupervisorJob() + Dispatchers.IO)
+    private val pool = SoundPool.Builder()
+        .setMaxStreams(6)
+        .setAudioAttributes(
+            AudioAttributes.Builder()
+                .setUsage(AudioAttributes.USAGE_GAME)
+                .setContentType(AudioAttributes.CONTENT_TYPE_SONIFICATION)
+                .build()
+        )
+        .build()
+    private val loadedIds = ConcurrentHashMap.newKeySet<Int>()
+    private val sampleIds = ConcurrentHashMap<EduSfx, Int>()
+    private val pending = ConcurrentLinkedQueue<EduSfx>()
     @Volatile private var closed = false
 
-    fun play(effect: EduSfx) {
-        if (closed) return
+    init {
+        pool.setOnLoadCompleteListener { soundPool, id, status ->
+            if (closed) return@setOnLoadCompleteListener
+            if (status == 0) {
+                loadedIds.add(id)
+                val type = sampleIds.entries.firstOrNull { it.value == id }?.key
+                if (type != null && pending.remove(type)) {
+                    soundPool.play(id, 1f, 1f, 1, 0, 1f)
+                }
+            } else {
+                Log.w("EduyasaSFX", "Gagal memuat suara: id=$id status=$status")
+            }
+        }
+        // Generate reusable WAV files once in app-private cache, then load all
+        // samples long before the child reaches the quiz.
         scope.launch {
-            val (notes, durationMs) = when (effect) {
-                EduSfx.CORRECT -> Pair(listOf(
-                    Note(659.25, 0, 110, .17), Note(880.0, 95, 155, .18)), 270)
-                EduSfx.WRONG -> Pair(listOf(
-                    Note(349.23, 0, 105, .11), Note(293.66, 95, 125, .09)), 240)
-                EduSfx.STAR -> Pair(listOf(
-                    Note(659.25, 0, 110, .13), Note(880.0, 85, 130, .13),
-                    Note(1174.66, 180, 210, .15)), 420)
-                EduSfx.LEVEL -> Pair(listOf(
-                    Note(523.25, 0, 155, .12), Note(659.25, 115, 150, .13),
-                    Note(783.99, 225, 150, .13), Note(1046.5, 330, 280, .16)), 640)
-                EduSfx.FINISH -> Pair(listOf(
-                    Note(523.25, 0, 145, .10), Note(659.25, 115, 180, .11),
-                    Note(783.99, 245, 245, .12)), 510)
-            }
-            val sampleRate = 24_000
-            val samples = ShortArray(durationMs * sampleRate / 1000) { index ->
-                val absoluteMs = index * 1000.0 / sampleRate
-                var mixed = 0.0
-                notes.forEach { note ->
-                    val elapsed = (absoluteMs - note.startMs) / 1000.0
-                    val duration = note.durationMs / 1000.0
-                    if (elapsed >= 0.0 && elapsed < duration) {
-                        val attack = min(1.0, elapsed / .015)
-                        val release = min(1.0, (duration - elapsed) / .060)
-                        val envelope = min(attack, release)
-                        mixed += sin(2 * PI * note.frequency * elapsed) * note.volume * envelope
+            EduSfx.values().forEach { type ->
+                if (closed) return@launch
+                try {
+                    val file = File(appContext.cacheDir, "eduyasa_sfx_v4_${type.name}.wav")
+                    if (!file.exists() || file.length() <= 44L) {
+                        file.writeBytes(generateWav(type))
                     }
+                    if (!closed) {
+                        val id = pool.load(file.absolutePath, 1)
+                        if (id != 0) sampleIds[type] = id
+                        else Log.w("EduyasaSFX", "SoundPool tidak memuat ${type.name}")
+                    }
+                } catch (e: Exception) {
+                    Log.w("EduyasaSFX", "Gagal menyiapkan ${type.name}", e)
                 }
-                (mixed.coerceIn(-.72, .72) * Short.MAX_VALUE).roundToInt().toShort()
-            }
-            var track: AudioTrack? = null
-            try {
-                val bufferSize = max(samples.size * 2, AudioTrack.getMinBufferSize(
-                    sampleRate, AudioFormat.CHANNEL_OUT_MONO, AudioFormat.ENCODING_PCM_16BIT))
-                if (bufferSize <= 0 || closed) return@launch
-                track = AudioTrack.Builder()
-                    .setAudioAttributes(AudioAttributes.Builder()
-                        .setUsage(AudioAttributes.USAGE_ASSISTANCE_SONIFICATION)
-                        .setContentType(AudioAttributes.CONTENT_TYPE_SONIFICATION)
-                        .build())
-                    .setAudioFormat(AudioFormat.Builder()
-                        .setEncoding(AudioFormat.ENCODING_PCM_16BIT)
-                        .setSampleRate(sampleRate)
-                        .setChannelMask(AudioFormat.CHANNEL_OUT_MONO)
-                        .build())
-                    .setTransferMode(AudioTrack.MODE_STATIC)
-                    .setBufferSizeInBytes(bufferSize)
-                    .build()
-                if (track.state != AudioTrack.STATE_INITIALIZED) return@launch
-                if (track.write(samples, 0, samples.size) != samples.size) return@launch
-                if (!closed) {
-                    track.play()
-                    delay(durationMs.toLong() + 100L)
-                }
-            } catch (_: Exception) {
-                // Ketiadaan audio/izin perangkat tidak boleh menghentikan kuis.
-            } finally {
-                runCatching { track?.stop() }
-                runCatching { track?.release() }
             }
         }
     }
 
+    fun play(type: EduSfx) {
+        if (closed) return
+        val id = sampleIds[type]
+        if (id != null && loadedIds.contains(id)) {
+            val stream = pool.play(id, 1f, 1f, 1, 0, 1f)
+            if (stream == 0) Log.w("EduyasaSFX", "Gagal memainkan ${type.name}")
+        } else if (type !in pending) {
+            // If the sound has not finished loading, play it once when ready.
+            pending.add(type)
+        }
+    }
+
+    private fun generateWav(type: EduSfx): ByteArray {
+        val (notes, durationMs) = when (type) {
+            EduSfx.TAP -> listOf(Note(820.0, 0, 52, .27)) to 75
+            EduSfx.CORRECT -> listOf(
+                Note(659.25, 0, 140, .32),
+                Note(880.0, 110, 210, .35)
+            ) to 340
+            EduSfx.WRONG -> listOf(
+                Note(330.0, 0, 140, .25),
+                Note(260.0, 125, 185, .24)
+            ) to 325
+            EduSfx.STAR -> listOf(
+                Note(659.25, 0, 130, .26),
+                Note(880.0, 100, 160, .28),
+                Note(1174.66, 215, 220, .32)
+            ) to 450
+            EduSfx.LEVEL -> listOf(
+                Note(523.25, 0, 175, .29),
+                Note(659.25, 140, 160, .29),
+                Note(783.99, 265, 170, .31),
+                Note(1046.50, 390, 265, .34)
+            ) to 670
+            EduSfx.FINISH -> listOf(
+                Note(523.25, 0, 150, .27),
+                Note(659.25, 130, 180, .28),
+                Note(783.99, 270, 270, .31)
+            ) to 560
+        }
+
+        val sampleRate = 44_100
+        val count = durationMs * sampleRate / 1000
+        val bytes = count * 2
+        val wav = ByteBuffer.allocate(44 + bytes).order(ByteOrder.LITTLE_ENDIAN)
+        wav.put("RIFF".toByteArray(Charsets.US_ASCII))
+        wav.putInt(36 + bytes)
+        wav.put("WAVE".toByteArray(Charsets.US_ASCII))
+        wav.put("fmt ".toByteArray(Charsets.US_ASCII))
+        wav.putInt(16)
+        wav.putShort(1.toShort()) // PCM
+        wav.putShort(1.toShort()) // mono
+        wav.putInt(sampleRate)
+        wav.putInt(sampleRate * 2)
+        wav.putShort(2.toShort())
+        wav.putShort(16.toShort())
+        wav.put("data".toByteArray(Charsets.US_ASCII))
+        wav.putInt(bytes)
+        for (i in 0 until count) {
+            val atMs = i * 1000.0 / sampleRate
+            var sample = 0.0
+            for (note in notes) {
+                val elapsed = atMs - note.startMs
+                if (elapsed >= 0.0 && elapsed < note.lengthMs) {
+                    val envelope = min(
+                        min(1.0, elapsed / 12.0),
+                        min(1.0, (note.lengthMs - elapsed) / 65.0)
+                    ).coerceAtLeast(0.0)
+                    sample += sin(2 * PI * note.hz * elapsed / 1000.0) *
+                        note.level * envelope
+                }
+            }
+            wav.putShort((sample.coerceIn(-0.8, 0.8) *
+                Short.MAX_VALUE).roundToInt().toShort())
+        }
+        return wav.array()
+    }
+
     fun close() {
         closed = true
+        pending.clear()
         scope.cancel()
+        pool.release()
     }
 }
