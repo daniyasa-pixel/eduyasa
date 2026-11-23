@@ -172,3 +172,28 @@ Perbaikan kode di branch `android`:
   melalui Android Studio; jangan anggap penyebab sudah pasti tanpa pengukuran.
 
 Tidak ada perubahan pada JSON, HTML, modul atau ID soal.
+
+## Tahap 8 — Smart Preload dan respons kuis (23 November 2026)
+
+**Kode ditulis di branch `android`, belum dibuild/diuji pada HP.**
+Perubahan dibatasi pada frontend Android Native; JSON/ID soal, materi, HTML, dan `main` tetap utuh.
+
+- `QuizPreloadController.kt`: ketika soal ke-N aktif, menyiapkan teks soal, empat opsi, dan pembahasan soal N, N+1, N+2 dengan coroutine `Dispatchers.Default`, tidak di UI thread. Hanya tiga soal pada window memori; soal di belakang dibuang. Membatalkan pekerjaan usang saat kuis diulang atau ditutup. Menggunakan `mutableStateMapOf` untuk memberi tahu UI jika siap/gagal.
+- Pada awal kuis atau jika ada soal aktif belum siap: indikator `Menyiapkan soal...` tampil di halaman. Setelah siap, isi soal langsung muncul.
+- Menekan `LANJUT`: jika soal selanjutnya siap, pindah segera; jika belum, tombol dinonaktifkan sementara dan indikator `Menyiapkan soal berikutnya...` muncul. `snapshotFlow` memonitor kesiapan dan otomatis pindah begitu siap tanpa tap kedua. Jika persiapan gagal/melewati batas 10 detik, tampil `Coba Lagi`; retry tidak menghilangkan soal aktif. Tidak memakai Toast Android.
+- `EduRichContent.kt`: teks biasa memakai Compose Text; pemrosesan sintaks matematika/Markdown dilakukan lebih dulu pada background dan disimpan bersama hasil persiapan; seluruh bank soal JSON tidak berubah. Render Markwon dibuat ulang hanya ketika teks/ukuran/warna berubah; instance Markwon/LaTeX dipakai ulang berdasar ukuran teks. Regex matematika juga dipakai ulang.
+- Coil menerima permintaan prefetch gambar soal secara asynchronous dengan loader/cache yang sama; **gambar gagal dimuat tidak menahan perpindahan soal**. Ruang gambar pada kuis setinggi 210 dp agar layout tidak meloncat saat gambar selesai dimuat. Decoder gambar dan pembuatan View aktual tetap berjalan menggunakan mekanisme Android/Coil yang tepat, bukan membuat View di thread background.
+- `QuizAnswerChoice.kt`: tombol A/B/C/D dipisahkan dari fungsi layar besar; tombol Material3 tetap punya ripple, skala tekan, dan warna umpan balik yang responsif. Text yang sudah dipersiapkan diteruskan ke komponen.
+- Marker `EDUYASA.RenderRichText` ditambahkan melalui `android.os.Trace` supaya Android Studio System Trace dapat menunjukkan biaya render Markwon dalam sesi panjang.
+- Page Pengaturan tidak lagi keliru menampilkan indikator langkah belajar.
+
+**Uji wajib setelah pull di laptop:**
+1. Sync/Build/Run APK di Android Studio; masih belum diverifikasi compile Kotlin/Compose.
+2. Kerjakan 25 soal beruntun pada beberapa mapel, termasuk rumus Matematika, SVG/gambar, dan Listening.
+3. Tekan pilihan A/B/C/D bergantian, cek ripple, indikator pilihan, dan kelancaran dari soal awal sampai soal terakhir.
+4. Tekan LANJUT segera; jika preloader belum selesai, indikator inline muncul lalu pindah otomatis; tidak ada double-tap.
+5. Simulasikan kondisi perangkat lambat (CPU/memori): bila persiapan gagal, Coba Lagi berfungsi tanpa menghapus soal yang sedang dijawab.
+6. Bandingkan System Trace, jank/long frames, dan penggunaan RAM dengan sesi sebelumnya; cari rentang EDUYASA.RenderRichText jika ada.
+7. Uji tombol Kembali, menu samping, kuis ulang, variasi 15/20/25 soal, SFX, status jawaban, hasil, Level/Bintang, dan riwayat tetap bekerja.
+
+**Batasan teknis yang harus jujur:** Smart Preload melakukan praolah teks/rumus dan permintaan pemuatan gambar sebelum tampilan dibuat. Android TextView dan komposisi Compose baru dibuat pada UI thread ketika dibutuhkan. Ini lebih aman daripada membuat View Android di background, tetapi tidak menjamin semua frame bebas jank; optimasi lanjutan harus mengikuti hasil pengujian di HP. Perubahan LazyColumn untuk halaman materi/evaluasi panjang belum dilakukan dalam tahap ini karena perlu pengujian layout terpisah.
