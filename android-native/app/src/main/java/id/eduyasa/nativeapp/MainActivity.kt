@@ -117,6 +117,7 @@ private fun EduyasaApp() {
         }
     }
     var page by remember { mutableStateOf(Page.HOME) }
+    var statsReturnPage by remember { mutableStateOf(Page.HOME) }
     var grade by remember { mutableIntStateOf(0) }
     val selectedSubjects = remember { mutableStateListOf<String>() }
     val chapters = remember { mutableStateMapOf<String, Set<Int>>() }
@@ -262,7 +263,9 @@ private fun EduyasaApp() {
     }
     fun back() {
         when (page) {
-            Page.SUBJECTS, Page.STATS, Page.SETTINGS -> page = Page.HOME
+            Page.SUBJECTS, Page.SETTINGS -> page = Page.HOME
+            Page.STATS -> page = if (statsReturnPage == Page.STATS)
+                Page.HOME else statsReturnPage
             Page.CHAPTERS -> page = Page.SUBJECTS
             Page.MATERIAL -> page = Page.CHAPTERS
             Page.PREP -> page = Page.MATERIAL
@@ -290,6 +293,7 @@ private fun EduyasaApp() {
             }
             Page.STATS -> {
                 if (activeProfile == null) reset() else {
+                    statsReturnPage = page
                     grade = activeProfile.grade
                     statistics = null
                     page = Page.STATS
@@ -468,7 +472,11 @@ private fun EduyasaApp() {
                     Text("Belajar bersama " + (activeProfile?.name ?: "Siswa") +
                         " • Kelas " + grade + " SD", fontSize = 13.sp, color = Blue)
                     OutlinedButton(
-                        onClick = { statistics = null; page = Page.STATS },
+                        onClick = {
+                            statistics = null
+                            statsReturnPage = Page.SUBJECTS
+                            page = Page.STATS
+                        },
                         modifier = Modifier.testTag("open-statistics")
                     ) { Text("📊 Lihat Evaluasi Belajar") }
                     Spacer(Modifier.height(6.dp))
@@ -904,7 +912,11 @@ private fun EduyasaApp() {
                         Spacer(Modifier.height(7.dp))
                         OutlinedButton(
                             enabled = activeProfile != null,
-                            onClick = { statistics = null; page = Page.STATS },
+                            onClick = {
+                                statistics = null
+                                statsReturnPage = Page.SETTINGS
+                                page = Page.STATS
+                            },
                             modifier = Modifier.fillMaxWidth()
                                 .testTag("settings-open-evaluation")
                         ) { Text("📊 LIHAT EVALUASI BELAJAR") }
@@ -1075,6 +1087,7 @@ private fun EduyasaApp() {
                         Primary("📊 LIHAT EVALUASI BELAJAR", "result-open-statistics",
                             saveStatus == SaveStatus.SAVED) {
                             statistics = null
+                            statsReturnPage = Page.RESULT
                             page = Page.STATS
                         }
                         Primary(
