@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-PAI-B08-M01-023
 
-**Pertanyaan:** Pada latihan menyalin Masyaallah, dua kartu berakhir dengan شَاءَ اللَّهُ. Apa yang membedakan kartu Masyaallah dari Insyaallah?
+**Pertanyaan:** Lafaz Masyaallah dan Insyaallah sama-sama memuat شَاءَ اللَّهُ. Bagaimana membedakan bagian awal penulisan kedua ungkapan tersebut?
 
 **Pilihan jawaban:**
 - Bagian akhirnya سُبْحَانَ
