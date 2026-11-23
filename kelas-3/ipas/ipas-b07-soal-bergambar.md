@@ -166,7 +166,7 @@
 
 ![Legenda denah rekaan: segitiga hijau melambangkan bukit, persegi biru melambangkan sekolah, lingkaran jingga melambangkan pasar. Pada jalur dari Mulai terdapat persegi biru lalu lingkaran jingga. Tidak berskala.](assets/ipas-b07-gambar-05.svg)
 
-**Pertanyaan:** Pernyataan yang didukung gambar ialah ...
+**Pertanyaan:** Legenda denah menyatakan persegi biru berarti sekolah dan lingkaran jingga berarti pasar. Jalur dari Mulai melewati persegi biru lebih dahulu, lalu lingkaran jingga. Pernyataan mana sesuai dengan jalur itu?
 
 **Pilihan jawaban:**
 - Jalur pasti menaiki bukit
@@ -238,7 +238,7 @@
 
 ![Dua catatan satu lokasi: A tertulis denah pekan lalu, jalan utara terbuka; B tertulis pemberitahuan hari ini, jalan utara ditutup untuk perbaikan. Pendamping mencari jalur lain.](assets/ipas-b07-gambar-07.svg)
 
-**Pertanyaan:** Kesimpulan yang tepat tentang perbedaan kedua catatan ialah ...
+**Pertanyaan:** Denah pekan lalu mencatat jalan utara terbuka, tetapi pemberitahuan hari ini menyatakan jalan itu ditutup untuk perbaikan. Kesimpulan apa yang tepat berdasarkan dua informasi tersebut?
 
 **Pilihan jawaban:**
 - Utara berubah menjadi selatan
@@ -346,7 +346,7 @@
 
 ![Tiga versi petunjuk menuju perpustakaan: A mulai gerbang, ke utara sampai taman, lalu ke timur menuju perpustakaan; B hanya tertulis taman dan perpustakaan tanpa urutan; C tertulis mulai gerbang lalu berjalan sampai tempat yang bagus.](assets/ipas-b07-gambar-10.svg)
 
-**Pertanyaan:** Bagian apa yang perlu diperjelas pada C?
+**Pertanyaan:** Pada kartu petunjuk C tertulis 'mulai dari gerbang, berjalan sampai tempat yang bagus' tanpa menyebut arah maupun tujuan pasti. Bagian apa yang perlu diperjelas agar rute dapat diikuti?
 
 **Pilihan jawaban:**
 - Warna buku di perpustakaan
