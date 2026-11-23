@@ -648,7 +648,7 @@ private fun EduyasaApp() {
                                 color = Blue, trackColor = Line
                             )
                             Spacer(Modifier.height(19.dp))
-                            EduRichText(q.text, modifier = Modifier.testTag("quizQText"),
+                            EduAnswerText(q.text, modifier = Modifier.testTag("quizQText"),
                                 sizeSp = 17f)
                             Text("ID: " + q.id, color = Muted, fontSize = 10.sp)
                             if (!q.imageUrl.isNullOrBlank()) {
@@ -746,6 +746,14 @@ private fun EduyasaApp() {
                                             color = Red, fontSize = 19.sp)
                                     }
                                 }
+                            }
+                            if (!checked && selected != null) {
+                                Text("Pilihan kamu: " +
+                                    ("ABCD".getOrNull(options.indexOf(selected)) ?: "?"),
+                                    color = Blue, fontSize = 12.sp,
+                                    fontWeight = FontWeight.SemiBold,
+                                    modifier = Modifier.testTag("answer-selected-indicator")
+                                        .padding(bottom = 5.dp))
                             }
                             AnimatedVisibility(
                                 visible = checked,
