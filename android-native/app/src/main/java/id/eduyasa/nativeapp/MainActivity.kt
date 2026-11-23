@@ -934,6 +934,19 @@ private fun EduyasaApp() {
                                 preferences.edit().putBoolean("listening_enabled", enabled).apply()
                             }, modifier = Modifier.testTag("setting-listening"))
                         }
+                        OutlinedButton(
+                            enabled = audioEnabled,
+                            onClick = {
+                                audioEngine.play(
+                                    "tts", "Hello! Welcome to EDUYASA.",
+                                    "en-US", 0.85f, null
+                                )
+                            },
+                            modifier = Modifier.testTag("setting-test-listening")
+                        ) { Text("▶ Tes Audio Listening") }
+                        if (audioEngine.status.isNotBlank()) {
+                            Text(audioEngine.status, color = Muted, fontSize = 12.sp)
+                        }
                         HorizontalDivider()
                         Spacer(Modifier.height(12.dp))
                         Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically,
@@ -977,6 +990,12 @@ private fun EduyasaApp() {
                                 }
                             }
                         }
+                        Text(
+                            "Jika belum terdengar, naikkan volume Media HP. " +
+                                "Gunakan tombol ▶ untuk mencoba setiap efek.",
+                            color = Muted, fontSize = 11.sp, lineHeight = 17.sp,
+                            modifier = Modifier.padding(bottom = 10.dp)
+                        )
                         HorizontalDivider()
                         Spacer(Modifier.height(12.dp))
                         Text("Data dan tampilan", fontWeight = FontWeight.Bold, color = DarkBlue)
