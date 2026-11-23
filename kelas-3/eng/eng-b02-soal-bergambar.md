@@ -2,7 +2,7 @@
 
 ## Soal 36 — K03-ENG-B02-M01-036
 
-![Stimulus soal 36](assets/eng-b02-gambar-01.svg)
+![Kartu Lina menampilkan es krim dengan tanda silang berarti No.](assets/eng-b02-gambar-01.svg)
 
 **Pertanyaan:** Look at Lina’s picture card. Which report matches the marked food?
 
@@ -20,7 +20,7 @@
 
 ## Soal 37 — K03-ENG-B02-M01-037
 
-![Stimulus soal 37](assets/eng-b02-gambar-02.svg)
+![Kartu Oki: gambar teh diberi centang Yes, sedangkan susu diberi silang No.](assets/eng-b02-gambar-02.svg)
 
 **Pertanyaan:** Look at Oki’s card. What two things does it tell us?
 
@@ -38,7 +38,7 @@
 
 ## Soal 38 — K03-ENG-B02-M01-038
 
-![Stimulus soal 38](assets/eng-b02-gambar-03.svg)
+![Survei bread dan milk: Dara mencentang keduanya; Rino menyilang bread dan mencentang milk.](assets/eng-b02-gambar-03.svg)
 
 **Pertanyaan:** Use the survey card. Who likes bread and milk?
 
@@ -56,7 +56,7 @@
 
 ## Soal 39 — K03-ENG-B02-M01-039
 
-![Stimulus soal 39](assets/eng-b02-gambar-04.svg)
+![Kartu Dini: bread bertanda Yes, pizza bertanda tanya atau belum dijawab, dan rice bertanda No.](assets/eng-b02-gambar-04.svg)
 
 **Pertanyaan:** Which food is missing a survey answer on Dini’s card?
 
@@ -74,7 +74,7 @@
 
 ## Soal 40 — K03-ENG-B02-M01-040
 
-![Stimulus soal 40](assets/eng-b02-gambar-05.svg)
+![Dua kartu: Riko dan Mira sama-sama menyilang bananas; Riko menyukai bread dan Mira menyukai noodles.](assets/eng-b02-gambar-05.svg)
 
 **Pertanyaan:** Read the two illustrated cards. What can we say about both children?
 
@@ -92,7 +92,7 @@
 
 ## Soal 41 — K03-ENG-B02-M01-041
 
-![Stimulus soal 41](assets/eng-b02-gambar-06.svg)
+![Balon ucapan Yuni berbunyi I don’t like coffee.](assets/eng-b02-gambar-06.svg)
 
 **Pertanyaan:** Look at the speech bubble. Which sentence retells Yuni’s answer?
 
@@ -110,7 +110,7 @@
 
 ## Soal 42 — K03-ENG-B02-M01-042
 
-![Stimulus soal 42](assets/eng-b02-gambar-07.svg)
+![Kartu Bima: panah menunjuk gambar roti yang dicentang Yes; es krim disilang No.](assets/eng-b02-gambar-07.svg)
 
 **Pertanyaan:** The arrow points to a snack. Does Bima like it?
 
@@ -128,7 +128,7 @@
 
 ## Soal 43 — K03-ENG-B02-M01-043
 
-![Stimulus soal 43](assets/eng-b02-gambar-08.svg)
+![Empat kartu: 1 Sita tidak suka mi; 2 Sita suka mi; 3 Beni suka mi; 4 Sita suka pizza.](assets/eng-b02-gambar-08.svg)
 
 **Pertanyaan:** Match the card number to the sentence “Sita likes noodles.”
 
@@ -146,7 +146,7 @@
 
 ## Soal 44 — K03-ENG-B02-M01-044
 
-![Stimulus soal 44](assets/eng-b02-gambar-09.svg)
+![Survei: Ayu menyukai tea dan milk tetapi tidak coffee; Doni menyukai milk tetapi tidak tea atau coffee.](assets/eng-b02-gambar-09.svg)
 
 **Pertanyaan:** Compare the two surveys. Which drink gets a Yes from only one child?
 
@@ -164,7 +164,7 @@
 
 ## Soal 45 — K03-ENG-B02-M01-045
 
-![Stimulus soal 45](assets/eng-b02-gambar-10.svg)
+![Kartu Rani menunjukkan pizza bertanda No, sedangkan bread dan milk bertanda Yes.](assets/eng-b02-gambar-10.svg)
 
 **Pertanyaan:** Use the illustrated card. Which question would get “No, I don’t” from Rani?
 
