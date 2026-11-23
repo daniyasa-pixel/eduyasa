@@ -181,7 +181,7 @@
         {
           "id": "K03-IPAS-B01-M01-061",
           "type": "PG",
-          "text": "Tempat mana mendukung membaca berdasarkan catatan?",
+          "text": "Pada kartu pengamatan tempat membaca, tempat A memiliki cahaya cukup dan tulisan terlihat jelas, sedangkan tempat B redup. Tempat mana lebih mendukung kegiatan membaca?",
           "options": [
             "Tempat A",
             "Tempat B",
@@ -198,7 +198,7 @@
         {
           "id": "K03-IPAS-B01-M01-062",
           "type": "PG",
-          "text": "Bukti apa yang mendukung pilihan itu?",
+          "text": "Pada kartu pengamatan, tempat A bercahaya cukup sedangkan tempat B redup. Bukti apa yang menunjukkan bahwa tempat A lebih nyaman untuk membaca?",
           "options": [
             "Buku di B pasti lebih mahal",
             "Tulisan tampak jelas di A",
@@ -300,7 +300,7 @@
         {
           "id": "K03-IPAS-B01-M01-068",
           "type": "PG",
-          "text": "Mengapa urutan pada gambar membantu kebersihan?",
+          "text": "Gambar menunjukkan tangan terkena tanah setelah berkebun, lalu dicuci dengan sabun dan air sebelum memegang makanan. Mengapa urutan kegiatan itu membantu menjaga kebersihan?",
           "options": [
             "Tanah membuat semua makanan lebih bergizi",
             "Makanan menggantikan fungsi sabun",
