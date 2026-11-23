@@ -610,7 +610,7 @@
 
 ## Soal 39 — K03-IPAS-B06-M01-039
 
-**Pertanyaan:** Ketika lampu belajar mendapat energi listrik, energi listrik terutama berubah menjadi bentuk apa yang dihasilkan lampu?
+**Pertanyaan:** Ketika lampu belajar menyala karena mendapat energi listrik, apa yang terjadi pada energi tersebut?
 
 **Pilihan jawaban:**
 - Diciptakan lampu tanpa masukan apa pun
