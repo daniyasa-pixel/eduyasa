@@ -1,11 +1,13 @@
 package id.eduyasa.nativeapp
 
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 
 /**
@@ -21,8 +23,13 @@ fun StudentProfileEditor(
 ) {
     var name by remember(existing?.id) { mutableStateOf(existing?.name.orEmpty()) }
     var grade by remember(existing?.id) { mutableIntStateOf(existing?.grade ?: 3) }
+    var reportPhone by remember(existing?.id) {
+        mutableStateOf(toLocalIndonesiaWhatsapp(existing?.reportPhone.orEmpty()))
+    }
     var askDelete by remember(existing?.id) { mutableStateOf(false) }
-    val valid = name.trim().length in 2..60 && grade in setOf(3, 6)
+    val normalizedPhone = normalizeIndonesiaWhatsapp(reportPhone)
+    val valid = name.trim().length in 2..60 && grade in setOf(3, 6) &&
+        normalizedPhone != null
 
     AlertDialog(
         onDismissRequest = onDismiss,
@@ -55,6 +62,27 @@ fun StudentProfileEditor(
                     "Saat ini EDUYASA menyediakan materi untuk Kelas 3 dan Kelas 6.",
                     style = MaterialTheme.typography.bodySmall
                 )
+                Spacer(Modifier.height(16.dp))
+                Text("Nomor WhatsApp laporan", fontWeight = FontWeight.SemiBold)
+                Spacer(Modifier.height(6.dp))
+                OutlinedTextField(
+                    value = reportPhone,
+                    onValueChange = { reportPhone = it.filter(Char::isDigit).take(15) },
+                    placeholder = { Text("Contoh: 081234567890") },
+                    singleLine = true,
+                    keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Phone),
+                    modifier = Modifier.fillMaxWidth().testTag("student-report-phone")
+                )
+                Text(
+                    "Isi sekali dengan format 08... Nomor otomatis menjadi 62... saat membuka WhatsApp. " +
+                        "Laporan menggunakan nomor milik profil siswa ini.",
+                    style = MaterialTheme.typography.bodySmall
+                )
+                if (reportPhone.isNotBlank() && normalizedPhone == null) {
+                    Text("Masukkan nomor WhatsApp Indonesia yang valid.",
+                        color = MaterialTheme.colorScheme.error,
+                        style = MaterialTheme.typography.bodySmall)
+                }
                 if (existing != null) {
                     Spacer(Modifier.height(14.dp))
                     TextButton(
@@ -68,8 +96,10 @@ fun StudentProfileEditor(
             TextButton(
                 enabled = valid,
                 onClick = {
-                    val value = existing?.copy(name = name.trim(), grade = grade)
-                        ?: StudentProfileStore.newProfile(name, grade)
+                    val savedNumber = normalizedPhone ?: return@TextButton
+                    val value = existing?.copy(
+                        name = name.trim(), grade = grade, reportPhone = savedNumber
+                    ) ?: StudentProfileStore.newProfile(name, grade, savedNumber)
                     onSave(value)
                 },
                 modifier = Modifier.testTag("save-profile")

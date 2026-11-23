@@ -141,7 +141,8 @@ private fun EduyasaApp() {
     var errorText by remember { mutableStateOf("") }
     var connected by remember { mutableStateOf<Boolean?>(null) }
     var aboutOpen by remember { mutableStateOf(false) }
-    var reportOpen by remember { mutableStateOf(false) }
+    var reportError by remember { mutableStateOf("") }
+    var reportBusy by remember { mutableStateOf(false) }
     var leaveOpen by remember { mutableStateOf(false) }
     var zoomImage by remember { mutableStateOf<String?>(null) }
     val quizScroll = rememberScrollState()
@@ -180,6 +181,7 @@ private fun EduyasaApp() {
         saveStatus = SaveStatus.NONE
         saveError = ""
         recentAchievements = emptyList()
+        reportError = ""
         waitingForNext = false
         quizPreloader.reset()
         quiz = quiz.shuffled()
@@ -864,6 +866,29 @@ private fun EduyasaApp() {
                 Page.SETTINGS -> {
                     Title("⚙️ Pengaturan EDUYASA")
                     Panel {
+                        Text("Nomor WhatsApp Laporan", fontWeight = FontWeight.Bold,
+                            color = DarkBlue)
+                        Text("Disimpan sekali untuk masing-masing siswa dan bisa diubah kapan saja.",
+                            fontSize = 12.sp, color = Muted)
+                        if (activeProfile == null) {
+                            Text("Pilih profil siswa di Beranda terlebih dahulu.",
+                                fontSize = 13.sp, color = Muted)
+                        } else {
+                            Spacer(Modifier.height(7.dp))
+                            Text(activeProfile.name + " • " +
+                                (toLocalIndonesiaWhatsapp(activeProfile.reportPhone)
+                                    .ifBlank { "Belum diatur" }),
+                                fontSize = 14.sp, color = DarkBlue)
+                            TextButton(
+                                onClick = {
+                                    editingProfile = activeProfile
+                                    editProfileOpen = true
+                                },
+                                modifier = Modifier.testTag("settings-report-phone")
+                            ) { Text("UBAH NOMOR WA") }
+                        }
+                        HorizontalDivider()
+                        Spacer(Modifier.height(12.dp))
                         Text("Kuis", fontWeight = FontWeight.Bold, color = DarkBlue)
                         Spacer(Modifier.height(8.dp))
                         Text("Jumlah soal bawaan", fontSize = 13.sp, color = Muted)
@@ -1012,7 +1037,59 @@ private fun EduyasaApp() {
                             statistics = null
                             page = Page.STATS
                         }
-                        Primary("📩 KIRIM LAPORAN", "btnOpenReport") { reportOpen = true }
+                        Primary(
+                            "📩 KIRIM LAPORAN", "btnOpenReport",
+                            saveStatus == SaveStatus.SAVED && !reportBusy
+                        ) {
+                            val profile = activeProfile
+                            val number = profile?.let {
+                                normalizeIndonesiaWhatsapp(it.reportPhone)
+                            }
+                            when {
+                                profile == null ->
+                                    reportError = "Pilih profil siswa sebelum mengirim laporan."
+                                number == null -> {
+                                    reportError = "Atur nomor WhatsApp laporan pada profil siswa dahulu."
+                                    editingProfile = profile
+                                    editProfileOpen = true
+                                }
+                                else -> {
+                                    reportError = ""
+                                    reportBusy = true
+                                    val capturedQuiz = quiz.toList()
+                                    val capturedResults = results.toMap()
+                                    val capturedGrade = grade
+                                    scope.launch {
+                                        try {
+                                            val latest = withContext(Dispatchers.IO) {
+                                                studyHistory.statistics(profile.id)
+                                            }
+                                            val message = buildReport(
+                                                profile.name, capturedGrade, capturedQuiz,
+                                                capturedResults, latest, catalog
+                                            )
+                                            val link = "https://wa.me/" + number + "?text=" +
+                                                URLEncoder.encode(message, "UTF-8")
+                                            context.startActivity(
+                                                Intent(Intent.ACTION_VIEW, Uri.parse(link))
+                                            )
+                                        } catch (e: Exception) {
+                                            reportError = "Tidak dapat membuka WhatsApp atau " +
+                                                "menyiapkan laporan: " +
+                                                (e.message ?: "coba lagi.")
+                                        } finally {
+                                            reportBusy = false
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        if (reportBusy) Text("Menyiapkan laporan...", fontSize = 12.sp,
+                            color = Muted)
+                        if (reportError.isNotBlank()) ErrorMessage(reportError)
+                        Text("WhatsApp akan dibuka dengan laporan siap dikirim. " +
+                            "Tekan Kirim di WhatsApp untuk menyampaikannya.",
+                            fontSize = 11.sp, color = Muted)
                         Secondary("ULANGI KUIS", "btnRetryQuiz") {
                             if (!busy) scope.launch {
                                 busy = true
@@ -1175,58 +1252,6 @@ private fun EduyasaApp() {
             }, modifier = Modifier.testTag("btnCancelBackHome")) { Text("BATAL") }
         }
     )
-    if (reportOpen) {
-        var student by remember(activeProfileId) { mutableStateOf(activeProfile?.name.orEmpty()) }
-        var phone by remember { mutableStateOf("") }
-        var reportError by remember { mutableStateOf("") }
-        AlertDialog(
-            onDismissRequest = { reportOpen = false },
-            title = { Text("Kirim Laporan Belajar") },
-            text = {
-                Column {
-                    Text("Bagikan hasil belajar ke orang tua atau guru.", color = Muted, fontSize = 13.sp)
-                    Spacer(Modifier.height(10.dp))
-                    OutlinedTextField(value = student, onValueChange = { student = it.take(60) },
-                        label = { Text("Nama siswa") },
-                        modifier = Modifier.fillMaxWidth().testTag("studentName"),
-                        singleLine = true)
-                    Spacer(Modifier.height(8.dp))
-                    OutlinedTextField(value = phone, onValueChange = {
-                        phone = it.filter(Char::isDigit).take(16)
-                    }, label = { Text("Nomor WhatsApp (+62)") },
-                        modifier = Modifier.fillMaxWidth().testTag("parentPhone"),
-                        singleLine = true)
-                    Text("Awali nomor dengan 08, misalnya 081234567890.",
-                        fontSize = 11.sp, color = Muted)
-                    if (reportError.isNotBlank()) ErrorMessage(reportError)
-                }
-            },
-            confirmButton = {
-                TextButton(onClick = {
-                    val normalized = normalizePhone(phone)
-                    when {
-                        student.trim().length < 2 -> reportError = "Nama siswa minimal 2 karakter."
-                        normalized == null -> reportError = "Nomor WhatsApp Indonesia belum valid."
-                        else -> {
-                            val message = buildReport(student.trim(), grade, quiz, results)
-                            val link = "https://wa.me/" + normalized + "?text=" +
-                                URLEncoder.encode(message, "UTF-8")
-                            try {
-                                context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(link)))
-                                reportOpen = false
-                                reset()
-                            } catch (e: Exception) {
-                                reportError = "Tidak dapat membuka WhatsApp atau browser."
-                            }
-                        }
-                    }
-                }, modifier = Modifier.testTag("btnSendReport")) { Text("BUKA WHATSAPP & KIRIM") }
-            },
-            dismissButton = {
-                TextButton(onClick = { reportOpen = false }) { Text("KEMBALI KE HASIL") }
-            }
-        )
-    }
     zoomImage?.let { url ->
         var scale by remember(url) { mutableFloatStateOf(1f) }
         AlertDialog(
@@ -1405,17 +1430,9 @@ private fun SemesterSectionHeader(
     }
 }
 
-private fun normalizePhone(raw: String): String? {
-    val all = raw.filter(Char::isDigit)
-    val local = when {
-        all.startsWith("62") -> all.drop(2)
-        all.startsWith("0") -> all.drop(1)
-        else -> all
-    }
-    return if (Regex("^8[1-9][0-9]{7,11}$").matches(local)) "62" + local else null
-}
 private fun buildReport(
-    name: String, grade: Int, quiz: List<EduQuestion>, results: Map<Int, Boolean>
+    name: String, grade: Int, quiz: List<EduQuestion>, results: Map<Int, Boolean>,
+    statistics: LearningStatistics, catalog: Map<Int, List<EduSubject>>
 ): String {
     val correct = results.values.count { it }
     val score = if (quiz.isEmpty()) 0 else ((correct.toFloat() * 100 / quiz.size) + .5f).toInt()
@@ -1439,6 +1456,50 @@ private fun buildReport(
     lines += "• Jawaban benar: " + correct
     lines += "• Jawaban salah: " + (quiz.size - correct)
     lines += "• Nilai akhir: " + score
+    lines += ""
+    lines += "📈 *PERKEMBANGAN BELAJAR TERSIMPAN*"
+    lines += "• Total sesi latihan: " + statistics.totalSessions
+    lines += "• Total soal dijawab: " + statistics.totalQuestions
+    lines += "• Ketepatan seluruh latihan: " + statistics.overallAccuracy + "%"
+    val subjectProgress = statistics.subjects.filter { it.grade == grade }
+    subjectProgress.forEach { progress ->
+        val subject = catalog[grade]?.firstOrNull { it.id == progress.subjectId }
+        val chapters = statistics.chapters.filter {
+            it.grade == grade && it.subjectId == progress.subjectId
+        }
+        val summary = LearningGamification.summary(chapters)
+        if (summary != null) {
+            val totalChapters = subject?.chapters?.size ?: summary.assessedChapters
+            val provisional = summary.provisional ||
+                summary.assessedChapters < totalChapters
+            lines += "• " + (subject?.name ?: progress.subjectId) + ": " +
+                summary.accuracy + "% ketepatan latihan, " +
+                summary.assessedChapters + "/" + totalChapters + " bab dicoba, " +
+                summary.stars + "/5 bintang" +
+                if (provisional) " (sementara)" else ""
+        }
+    }
+    val practiced = quiz.map { it.subjectId to it.chapter }.distinct()
+    if (practiced.isNotEmpty()) {
+        lines += ""
+        lines += "🏅 *LEVEL DAN BINTANG BAB YANG BARU DIKERJAKAN*"
+        practiced.forEach { (subjectId, chapter) ->
+            val progress = statistics.chapters.firstOrNull {
+                it.grade == grade && it.subjectId == subjectId && it.chapter == chapter
+            }
+            if (progress != null) {
+                val name = catalog[grade]?.firstOrNull { it.id == subjectId }?.name ?: subjectId
+                lines += "• " + name + " Bab " + chapter + ": Level " +
+                    progress.level + ", " + progress.stars + "/5 bintang" +
+                    " (" + progress.recentAccuracy + "% ketepatan terbaru)" +
+                    if (progress.isProvisional) " (sementara)" else ""
+            }
+        }
+    }
+    lines += ""
+    lines += "Catatan: Persentase menunjukkan ketepatan pada soal yang sudah dikerjakan, " +
+        "bukan persentase penguasaan seluruh materi. Bab yang belum dikerjakan " +
+        "tidak dihitung sebagai nilai nol."
     lines += ""
     lines += "🎉 Terus semangat belajar dan tingkatkan prestasimu!"
     lines += "Laporan dikirim melalui EDUYASA - Belajar Menyenangkan."

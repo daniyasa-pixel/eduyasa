@@ -12,7 +12,8 @@ import java.util.UUID
 data class StudentProfile(
     val id: String,
     val name: String,
-    val grade: Int
+    val grade: Int,
+    val reportPhone: String = ""
 )
 
 class StudentProfileStore(context: Context) {
@@ -31,8 +32,11 @@ class StudentProfileStore(context: Context) {
                     val id = obj.optString("id").trim()
                     val name = obj.optString("name").trim()
                     val grade = obj.optInt("grade", 0)
+                    // Profil lama tanpa report_phone tetap bisa dibaca tanpa menghapus riwayat.
+                    val rawPhone = obj.optString("report_phone", "")
+                    val reportPhone = normalizeIndonesiaWhatsapp(rawPhone).orEmpty()
                     if (id.isNotBlank() && used.add(id) && name.isNotBlank() && grade in setOf(3, 6)) {
-                        add(StudentProfile(id, name, grade))
+                        add(StudentProfile(id, name, grade, reportPhone))
                     }
                 }
             }
@@ -42,12 +46,16 @@ class StudentProfileStore(context: Context) {
     fun save(profiles: List<StudentProfile>) {
         require(profiles.all { it.name.trim().length >= 2 && it.grade in setOf(3, 6) })
         require(profiles.map { it.id }.distinct().size == profiles.size)
+        require(profiles.all {
+            it.reportPhone.isBlank() || normalizeIndonesiaWhatsapp(it.reportPhone) != null
+        })
         val data = JSONArray()
         profiles.forEach { profile ->
             data.put(JSONObject().apply {
                 put("id", profile.id)
                 put("name", profile.name.trim())
                 put("grade", profile.grade)
+                put("report_phone", normalizeIndonesiaWhatsapp(profile.reportPhone).orEmpty())
             })
         }
         preferences.edit().putString("students", data.toString()).apply()
@@ -63,7 +71,10 @@ class StudentProfileStore(context: Context) {
     }
 
     companion object {
-        fun newProfile(name: String, grade: Int) =
-            StudentProfile(UUID.randomUUID().toString(), name.trim(), grade)
+        fun newProfile(name: String, grade: Int, reportPhone: String) =
+            StudentProfile(
+                UUID.randomUUID().toString(), name.trim(), grade,
+                requireNotNull(normalizeIndonesiaWhatsapp(reportPhone))
+            )
     }
 }
