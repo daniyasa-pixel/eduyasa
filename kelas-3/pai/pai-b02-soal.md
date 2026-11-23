@@ -20,7 +20,7 @@
 
 ## Soal 2 — K03-PAI-B02-M01-002
 
-**Pertanyaan:** Manakah pernyataan yang sesuai dengan arti Wujud?
+**Pertanyaan:** Dalam pembahasan sifat wajib Allah, manakah pernyataan yang sesuai dengan arti sifat Wujud?
 
 **Pilihan jawaban:**
 - Allah ada
@@ -324,7 +324,7 @@
 
 ## Soal 21 — K03-PAI-B02-M01-021
 
-**Pertanyaan:** Apa makna sifat jaiz yang dipelajari di bab ini?
+**Pertanyaan:** Dalam pelajaran akidah Islam, apa makna sifat jaiz bagi Allah?
 
 **Pilihan jawaban:**
 - Allah harus mewujudkan semua hal yang mungkin
@@ -404,7 +404,7 @@
 
 ## Soal 26 — K03-PAI-B02-M01-026
 
-**Pertanyaan:** Guru menunjukkan daftar 20 sifat wajib dalam buku. Cara mana yang membantu Kiki belajar arti dan pasangan lawannya?
+**Pertanyaan:** Kiki sedang belajar 20 sifat wajib Allah beserta sifat mustahil sebagai lawannya. Cara belajar mana yang membantunya mengingat istilah, arti, dan pasangannya?
 
 **Pilihan jawaban:**
 - Menghafal nomor urut saja
