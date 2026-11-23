@@ -62,7 +62,7 @@
         {
           "id": "K03-IPAS-B02-M01-054",
           "type": "PG",
-          "text": "Informasi apa yang belum diberikan gambar?",
+          "text": "Gambar taman menunjukkan dahulu ada tiga pohon dan satu bangku, sedangkan kini ada tiga pohon dan tiga bangku. Informasi apa yang belum bisa dipastikan hanya dari gambar tersebut?",
           "options": [
             "Jumlah bangku dahulu",
             "Alasan penambahan bangku",
@@ -113,7 +113,7 @@
         {
           "id": "K03-IPAS-B02-M01-057",
           "type": "PG",
-          "text": "Bagian keterangan mana yang berbeda?",
+          "text": "Dua sumber menceritakan pembukaan jembatan yang sama di Desa Melati: sumber A menyebut tahun 2010 dan sumber B tahun 2011. Keterangan bagian apa yang berbeda?",
           "options": [
             "Tahun pembukaan",
             "Nama desa",
@@ -130,7 +130,7 @@
         {
           "id": "K03-IPAS-B02-M01-058",
           "type": "PG",
-          "text": "Apa yang sebaiknya diperiksa melalui sumber tambahan?",
+          "text": "Dua sumber berbeda menyebut jembatan Desa Melati dibuka tahun 2010 atau 2011. Informasi apa yang perlu diperiksa melalui catatan tambahan agar laporannya akurat?",
           "options": [
             "Nama desa yang sama-sama disebut sebagai perbedaan",
             "Tahun pembukaan jembatan",
@@ -198,7 +198,7 @@
         {
           "id": "K03-IPAS-B02-M01-062",
           "type": "PG",
-          "text": "Kesimpulan mana didukung oleh riwayat ini?",
+          "text": "Catatan perjalanan Bibi menyebut tahun 1990 naik sepeda, tahun 2010 naik bus, dan tahun 2020 naik kereta. Kesimpulan mana yang didukung oleh tiga catatan tersebut?",
           "options": [
             "Semua orang berhenti memakai sepeda pada 2010",
             "Cara bepergian Bibi berbeda pada tiga tahun yang dicatat",
