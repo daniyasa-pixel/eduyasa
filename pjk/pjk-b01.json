@@ -37,7 +37,7 @@
         {
           "id": "PJK-B01-M01-003",
           "type": "PG",
-          "text": "Dalam situasi berikut: Alya perlu bergerak menuju titik yang kosong. Mengapa pilihan \"Berjalan atau berlari terkendali ke titik yang aman\" membantu?",
+          "text": "Alya berjalan dan berlari secara terkendali menuju titik kosong yang aman. Mengapa perpindahan tubuh seperti itu disebut gerak lokomotor?",
           "options": [
             "Posisi pemain tidak memengaruhi jalur operan",
             "Perpindahan posisi membantu mencapai ruang tujuan",
@@ -50,15 +50,15 @@
         {
           "id": "PJK-B01-M01-004",
           "type": "PG",
-          "text": "Alya perlu bergerak menuju titik yang kosong. Jika justru memilih \"Tetap berdiri sambil memutar lengan\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Alya harus berpindah ke titik kosong dalam latihan. Jika ia hanya berdiri di tempat sambil memutar lengan, akibat paling mungkin adalah ...",
           "options": [
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Tabrakan dapat terjadi bila arah perpindahan tidak diperhatikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+            "Alya tidak mencapai titik tujuan karena tubuhnya tidak berpindah",
+            "Alya otomatis mencapai titik tujuan dengan cepat",
+            "Jarak tujuan akan berkurang dengan sendirinya",
+            "Gerak tersebut langsung menjadi lari cepat"
           ],
-          "answer": "Tabrakan dapat terjadi bila arah perpindahan tidak diperhatikan",
-          "discussion": "Tabrakan dapat terjadi bila arah perpindahan tidak diperhatikan. Pilihan yang dianjurkan: Berjalan atau berlari terkendali ke titik yang aman."
+          "answer": "Alya tidak mencapai titik tujuan karena tubuhnya tidak berpindah",
+          "discussion": "Memutar lengan di tempat merupakan gerak nonlokomotor. Untuk mencapai titik lain, Alya perlu melakukan gerak lokomotor, seperti berjalan atau berlari dengan aman."
         },
         {
           "id": "PJK-B01-M01-005",
@@ -102,7 +102,7 @@
         {
           "id": "PJK-B01-M01-008",
           "type": "PG",
-          "text": "Dalam situasi berikut: Bima melakukan pemanasan di tempat yang cukup lapang. Mengapa pilihan \"Menekuk dan meluruskan tubuh secara terkendali di tempat\" membantu?",
+          "text": "Bima melakukan pemanasan dengan menekuk dan meluruskan tubuh di tempat tanpa berpindah posisi. Mengapa gerakan itu termasuk gerak nonlokomotor?",
           "options": [
             "Gerak di tempat melatih pengendalian bagian tubuh tanpa berpindah posisi",
             "Aturan semua permainan selalu sama",
@@ -115,15 +115,15 @@
         {
           "id": "PJK-B01-M01-009",
           "type": "PG",
-          "text": "Bima melakukan pemanasan di tempat yang cukup lapang. Jika justru memilih \"Berlomba berlari keluar lapangan\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Bima sedang melakukan pemanasan di area yang telah ditentukan guru. Ia justru berlari cepat melewati batas lapangan tanpa memperhatikan sekitar. Risiko apa yang muncul?",
           "options": [
-            "Sendi dapat terasa sakit bila rentang gerak dipaksakan",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+            "Bima bisa bertabrakan dengan orang lain atau memasuki area tidak aman",
+            "Bima pasti lebih lentur tanpa perlu melakukan pemanasan",
+            "Bima langsung dapat menghindari semua rintangan",
+            "Bima pasti lebih siap daripada teman yang pemanasan dengan benar"
           ],
-          "answer": "Sendi dapat terasa sakit bila rentang gerak dipaksakan",
-          "discussion": "Sendi dapat terasa sakit bila rentang gerak dipaksakan. Pilihan yang dianjurkan: Menekuk dan meluruskan tubuh secara terkendali di tempat."
+          "answer": "Bima bisa bertabrakan dengan orang lain atau memasuki area tidak aman",
+          "discussion": "Berlari keluar lapangan tanpa memperhatikan keadaan dapat membahayakan diri sendiri dan orang lain. Pemanasan perlu dilakukan dengan gerak terkendali sesuai arahan guru."
         },
         {
           "id": "PJK-B01-M01-010",
@@ -167,7 +167,7 @@
         {
           "id": "PJK-B01-M01-013",
           "type": "PG",
-          "text": "Dalam situasi berikut: Citra berlatih mengarahkan bola ke sasaran. Mengapa pilihan \"Melempar bola lunak ke sasaran sesuai petunjuk guru\" membantu?",
+          "text": "Citra berlatih melempar bola lunak ke sasaran sesuai arahan guru. Mengapa latihan ini memerlukan pengendalian arah dan kekuatan?",
           "options": [
             "Posisi pemain tidak memengaruhi jalur operan",
             "Pengendalian arah dan kekuatan membantu bola menuju sasaran",
@@ -180,15 +180,15 @@
         {
           "id": "PJK-B01-M01-014",
           "type": "PG",
-          "text": "Citra berlatih mengarahkan bola ke sasaran. Jika justru memilih \"Menggerakkan badan tanpa benda lalu menyebutnya lemparan\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Citra diminta melatih kemampuan mengarahkan lemparan bola lunak ke sasaran. Ia hanya menggerakkan lengan tanpa melempar bola. Apa kekurangan latihan tersebut?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Teman dapat terluka bila sasaran lemparan diarahkan ke wajah"
+            "Ia belum berlatih mengatur arah dan kekuatan bola yang benar-benar dilempar",
+            "Ia pasti sudah menguasai ketepatan lemparan ke sasaran",
+            "Ia sudah menguji arah pantulan bola dari sasaran",
+            "Ia dapat menilai kecepatan bola tanpa menggerakkan bola"
           ],
-          "answer": "Teman dapat terluka bila sasaran lemparan diarahkan ke wajah",
-          "discussion": "Teman dapat terluka bila sasaran lemparan diarahkan ke wajah. Pilihan yang dianjurkan: Melempar bola lunak ke sasaran sesuai petunjuk guru."
+          "answer": "Ia belum berlatih mengatur arah dan kekuatan bola yang benar-benar dilempar",
+          "discussion": "Gerakan tanpa bola dapat dipakai sebagai latihan awal teknik, tetapi belum menguji arah dan kekuatan lemparan benda. Citra perlu mencoba melempar bola lunak ke sasaran yang aman sesuai arahan guru."
         },
         {
           "id": "PJK-B01-M01-015",
@@ -232,7 +232,7 @@
         {
           "id": "PJK-B01-M01-018",
           "type": "PG",
-          "text": "Dalam situasi berikut: Danu dijaga lawan dalam permainan beregu. Mengapa pilihan \"Bergerak ke ruang aman yang tidak tertutup penjagaan\" membantu?",
+          "text": "Danu bergerak menuju ruang kosong ketika lawan menjaga teman yang membawa bola. Mengapa keputusan membuka ruang membantu tim menerima operan?",
           "options": [
             "Aturan semua permainan selalu sama",
             "Posisi pemain tidak memengaruhi jalur operan",
@@ -245,15 +245,15 @@
         {
           "id": "PJK-B01-M01-019",
           "type": "PG",
-          "text": "Danu dijaga lawan dalam permainan beregu. Jika justru memilih \"Berkumpul rapat di sekitar pembawa bola\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Dalam permainan beregu, semua teman Danu bergerombol tepat di sekitar pembawa bola. Mengapa keadaan ini kurang membantu serangan?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Jalur operan mudah tertutup jika semua pemain menumpuk"
+            "Jalur operan menjadi sempit dan lebih mudah ditutup lawan",
+            "Pembawa bola otomatis mendapat lebih banyak ruang kosong",
+            "Lawan pasti tidak dapat merebut bola sama sekali",
+            "Semua pemain menjadi bebas menerima operan dari segala arah"
           ],
-          "answer": "Jalur operan mudah tertutup jika semua pemain menumpuk",
-          "discussion": "Jalur operan mudah tertutup jika semua pemain menumpuk. Pilihan yang dianjurkan: Bergerak ke ruang aman yang tidak tertutup penjagaan."
+          "answer": "Jalur operan menjadi sempit dan lebih mudah ditutup lawan",
+          "discussion": "Jika semua anggota menumpuk pada satu titik, pilihan jalur operan berkurang. Membuka ruang membuat posisi penerima lebih jelas dan permainan lebih efektif."
         },
         {
           "id": "PJK-B01-M01-020",
@@ -297,7 +297,7 @@
         {
           "id": "PJK-B01-M01-023",
           "type": "PG",
-          "text": "Dalam situasi berikut: Eka mengoper bola kepada teman yang dekat. Mengapa pilihan \"Menggunakan tenaga secukupnya agar bola mudah diterima\" membantu?",
+          "text": "Eka hendak mengoper bola kepada teman yang berdiri cukup dekat. Mengapa ia perlu menyesuaikan kekuatan operannya?",
           "options": [
             "Tenaga terbesar selalu cocok untuk setiap jarak",
             "Posisi pemain tidak memengaruhi jalur operan",
@@ -310,15 +310,15 @@
         {
           "id": "PJK-B01-M01-024",
           "type": "PG",
-          "text": "Eka mengoper bola kepada teman yang dekat. Jika justru memilih \"Selalu memakai tenaga paling besar\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Eka hendak mengoper bola kepada teman yang berjarak dekat, tetapi melempar dengan tenaga paling besar. Apa akibat yang paling mungkin terjadi?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Bola dapat melewati penerima jika tenaga terlalu besar",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+            "Bola melaju terlalu jauh atau sulit ditangkap penerima",
+            "Bola selalu berhenti tepat di tangan penerima",
+            "Penerima otomatis bisa menangkap tanpa melihat bola",
+            "Jarak ke penerima langsung menjadi lebih dekat"
           ],
-          "answer": "Bola dapat melewati penerima jika tenaga terlalu besar",
-          "discussion": "Bola dapat melewati penerima jika tenaga terlalu besar. Pilihan yang dianjurkan: Menggunakan tenaga secukupnya agar bola mudah diterima."
+          "answer": "Bola melaju terlalu jauh atau sulit ditangkap penerima",
+          "discussion": "Untuk operan jarak dekat, tenaga yang berlebihan dapat membuat bola melewati atau menyulitkan penerima. Kekuatan harus disesuaikan dengan jarak dan kemampuan menangkap."
         },
         {
           "id": "PJK-B01-M01-025",
@@ -362,7 +362,7 @@
         {
           "id": "PJK-B01-M01-028",
           "type": "PG",
-          "text": "Dalam situasi berikut: Farah mendekati rintangan dalam lintasan latihan. Mengapa pilihan \"Memperlambat lalu berbelok melalui jalur yang disediakan\" membantu?",
+          "text": "Farah mendekati rintangan, lalu memperlambat langkah dan berbelok melalui jalur yang disediakan. Mengapa cara ini aman?",
           "options": [
             "Tenaga terbesar selalu cocok untuk setiap jarak",
             "Posisi pemain tidak memengaruhi jalur operan",
@@ -375,15 +375,15 @@
         {
           "id": "PJK-B01-M01-029",
           "type": "PG",
-          "text": "Farah mendekati rintangan dalam lintasan latihan. Jika justru memilih \"Menabrak rintangan supaya cepat\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Farah berlari menuju rintangan dan memilih menabraknya agar lebih cepat selesai. Apa risiko utama tindakan ini?",
           "options": [
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Rintangan dapat tertabrak jika gerak tidak disesuaikan"
+            "Farah dapat jatuh atau mengalami cedera karena benturan",
+            "Rintangan pasti berpindah tanpa menyentuh tubuh",
+            "Farah otomatis menjadi lebih cepat dan aman",
+            "Tidak perlu lagi memeriksa kondisi jalur latihan"
           ],
-          "answer": "Rintangan dapat tertabrak jika gerak tidak disesuaikan",
-          "discussion": "Rintangan dapat tertabrak jika gerak tidak disesuaikan. Pilihan yang dianjurkan: Memperlambat lalu berbelok melalui jalur yang disediakan."
+          "answer": "Farah dapat jatuh atau mengalami cedera karena benturan",
+          "discussion": "Menabrak rintangan secara sengaja dapat menyebabkan cedera. Farah sebaiknya mengurangi kecepatan dan memilih jalur yang aman sesuai petunjuk guru."
         },
         {
           "id": "PJK-B01-M01-030",
@@ -427,7 +427,7 @@
         {
           "id": "PJK-B01-M01-033",
           "type": "PG",
-          "text": "Dalam situasi berikut: Gilang mengikuti rangkaian langkah berirama. Mengapa pilihan \"Menyesuaikan langkah dengan hitungan dan kemampuan tubuh\" membantu?",
+          "text": "Gilang mengikuti latihan rangkaian langkah berirama dengan menyesuaikan hitungan dan kemampuannya. Apa manfaat mengikuti hitungan dengan tepat?",
           "options": [
             "Posisi pemain tidak memengaruhi jalur operan",
             "Hitungan membantu mengatur waktu gerakan",
@@ -440,15 +440,15 @@
         {
           "id": "PJK-B01-M01-034",
           "type": "PG",
-          "text": "Gilang mengikuti rangkaian langkah berirama. Jika justru memilih \"Memaksakan gerak sampai sakit\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Gilang melakukan latihan gerak berirama dan terus memaksakan tubuh bergerak meskipun sudah terasa sakit. Risiko apa yang perlu ia hindari?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Kelompok kehilangan keselarasan bila hitungan diabaikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian"
+            "Cedera atau nyeri yang bertambah akibat memaksakan gerak",
+            "Gerak otomatis selalu sesuai dengan kemampuan tubuh",
+            "Rasa sakit pasti hilang jika gerakan dipercepat",
+            "Semua anggota kelompok otomatis mengikuti tempo yang sama"
           ],
-          "answer": "Kelompok kehilangan keselarasan bila hitungan diabaikan",
-          "discussion": "Kelompok kehilangan keselarasan bila hitungan diabaikan. Pilihan yang dianjurkan: Menyesuaikan langkah dengan hitungan dan kemampuan tubuh."
+          "answer": "Cedera atau nyeri yang bertambah akibat memaksakan gerak",
+          "discussion": "Gerak berirama perlu mengikuti hitungan sekaligus kemampuan tubuh. Saat terasa nyeri, siswa sebaiknya menghentikan gerakan dan memberi tahu guru, bukan memaksakan diri."
         },
         {
           "id": "PJK-B01-M01-035",
@@ -492,7 +492,7 @@
         {
           "id": "PJK-B01-M01-038",
           "type": "PG",
-          "text": "Dalam situasi berikut: Hana berpindah dari permainan bola tangan ke futsal modifikasi. Mengapa pilihan \"Menerapkan prinsip membuka ruang sambil menyesuaikan aturan\" membantu?",
+          "text": "Hana berpindah dari permainan bola tangan ke futsal yang dimodifikasi. Mengapa ia tetap dapat memakai prinsip membuka ruang sambil mempelajari aturan baru?",
           "options": [
             "Aturan semua permainan selalu sama",
             "Prinsip ruang dapat dipakai kembali meskipun teknik serta aturan berbeda",
@@ -505,15 +505,15 @@
         {
           "id": "PJK-B01-M01-039",
           "type": "PG",
-          "text": "Hana berpindah dari permainan bola tangan ke futsal modifikasi. Jika justru memilih \"Menganggap semua aturan kedua permainan identik\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Hana beralih dari bola tangan ke futsal modifikasi tetapi menganggap semua aturan keduanya sama, termasuk penggunaan tangan. Apa akibat yang mungkin terjadi?",
           "options": [
-            "Pelanggaran terjadi bila aturan lama diterapkan tanpa penyesuaian",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+            "Hana dapat melakukan pelanggaran karena aturan kedua permainan berbeda",
+            "Hana pasti dapat memakai tangan pada semua situasi futsal",
+            "Semua strategi dan teknik kedua permainan selalu sama",
+            "Perubahan permainan membuat aturan tidak perlu dipahami"
           ],
-          "answer": "Pelanggaran terjadi bila aturan lama diterapkan tanpa penyesuaian",
-          "discussion": "Pelanggaran terjadi bila aturan lama diterapkan tanpa penyesuaian. Pilihan yang dianjurkan: Menerapkan prinsip membuka ruang sambil menyesuaikan aturan."
+          "answer": "Hana dapat melakukan pelanggaran karena aturan kedua permainan berbeda",
+          "discussion": "Prinsip mencari ruang bebas dapat diterapkan di berbagai permainan, tetapi teknik dan aturan harus disesuaikan. Penggunaan tangan yang sesuai pada bola tangan belum tentu diperbolehkan dalam futsal."
         },
         {
           "id": "PJK-B01-M01-040",
@@ -557,7 +557,7 @@
         {
           "id": "PJK-B01-M01-043",
           "type": "PG",
-          "text": "Dalam situasi berikut: Intan belajar menangkap dengan teman yang baru mulai. Mengapa pilihan \"Menggunakan bola lunak dan jarak yang disepakati guru\" membantu?",
+          "text": "Intan membantu teman pemula berlatih menangkap dengan bola lunak dan jarak yang disepakati bersama guru. Mengapa penyesuaian itu penting?",
           "options": [
             "Aturan semua permainan selalu sama",
             "Posisi pemain tidak memengaruhi jalur operan",
@@ -570,15 +570,15 @@
         {
           "id": "PJK-B01-M01-044",
           "type": "PG",
-          "text": "Intan belajar menangkap dengan teman yang baru mulai. Jika justru memilih \"Memakai bola keras pada jarak sangat dekat\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Intan berlatih menangkap bersama teman pemula. Ia justru menggunakan bola keras dari jarak yang sangat dekat. Risiko utama keputusan tersebut adalah ...",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Kesempatan belajar berkurang bila tingkat kesulitan tidak sesuai kemampuan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+            "Teman dapat merasa sakit atau cedera karena benturan bola",
+            "Teman pasti menangkap bola dengan lebih mudah",
+            "Bola akan berubah menjadi lebih lunak saat dilempar",
+            "Jarak sangat dekat selalu menjadi pilihan paling aman"
           ],
-          "answer": "Kesempatan belajar berkurang bila tingkat kesulitan tidak sesuai kemampuan",
-          "discussion": "Kesempatan belajar berkurang bila tingkat kesulitan tidak sesuai kemampuan. Pilihan yang dianjurkan: Menggunakan bola lunak dan jarak yang disepakati guru."
+          "answer": "Teman dapat merasa sakit atau cedera karena benturan bola",
+          "discussion": "Bola keras pada jarak sangat dekat meningkatkan risiko benturan dan cedera, terutama bagi pemula. Gunakan bola lunak serta jarak aman yang disepakati bersama guru."
         },
         {
           "id": "PJK-B01-M01-045",
@@ -622,7 +622,7 @@
         {
           "id": "PJK-B01-M01-048",
           "type": "PG",
-          "text": "Dalam situasi berikut: Joko melihat operan timnya sering dipotong. Mengapa pilihan \"Membahas posisi dan jalur operan lalu mencoba perbaikan\" membantu?",
+          "text": "Tim Joko sering kehilangan bola karena operannya dipotong lawan. Mengapa mereka perlu mengamati jalur operan, berdiskusi, dan mencoba perbaikan?",
           "options": [
             "Posisi pemain tidak memengaruhi jalur operan",
             "Tenaga terbesar selalu cocok untuk setiap jarak",
@@ -635,15 +635,15 @@
         {
           "id": "PJK-B01-M01-049",
           "type": "PG",
-          "text": "Joko melihat operan timnya sering dipotong. Jika justru memilih \"Menyalahkan satu teman tanpa melihat permainan\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Operan tim Joko sering direbut lawan. Alih-alih mengamati permainan, Joko langsung menyalahkan satu temannya. Apa risiko dari keputusan ini?",
           "options": [
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Kesalahan yang sama terus berulang jika penyebabnya tidak diperiksa"
+            "Hubungan tim memburuk dan penyebab operan gagal tidak ditemukan",
+            "Posisi semua pemain langsung menjadi lebih tepat",
+            "Tim otomatis mampu mengoper tanpa latihan",
+            "Lawan tidak akan lagi bisa memotong operan"
           ],
-          "answer": "Kesalahan yang sama terus berulang jika penyebabnya tidak diperiksa",
-          "discussion": "Kesalahan yang sama terus berulang jika penyebabnya tidak diperiksa. Pilihan yang dianjurkan: Membahas posisi dan jalur operan lalu mencoba perbaikan."
+          "answer": "Hubungan tim memburuk dan penyebab operan gagal tidak ditemukan",
+          "discussion": "Menyalahkan seorang anggota tanpa bukti bisa menurunkan kerja sama sekaligus melewatkan penyebab taktik yang kurang tepat. Tim perlu mengamati posisi, membahas jalur operan, dan mencoba perbaikan."
         },
         {
           "id": "PJK-B01-M01-050",
