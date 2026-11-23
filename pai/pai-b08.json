@@ -63,7 +63,7 @@
         {
           "id": "PAI-B08-Q005",
           "type": "PG",
-          "text": "Apa pesan Q.S. al-A’rāf/7:56 dalam materi lingkungan?",
+          "text": "Apa pesan Q.S. al-A’rāf ayat 56 tentang tanggung jawab manusia terhadap bumi?",
           "options": [
             "Jangan membuat kerusakan di bumi setelah diperbaiki",
             "Buang sampah ke sungai",
@@ -214,7 +214,7 @@
             "Memilih barang yang dapat digunakan ulang dan mengurangi sampah"
           ],
           "answer": "Memilih barang yang dapat digunakan ulang dan mengurangi sampah",
-          "discussion": "Buku menganjurkan penggunaan bahan hasil produksi yang ramah lingkungan."
+          "discussion": "Barang yang dapat dipakai berulang mengurangi kebutuhan membuang kemasan dan barang sekali pakai. Memilihnya secara bijak membantu mengurangi sampah."
         },
         {
           "id": "PAI-B08-Q017",
@@ -245,7 +245,7 @@
         {
           "id": "PAI-B08-Q019",
           "type": "PG",
-          "text": "Jika halaman sekolah kotor, kegiatan yang tepat dilakukan bersama teman adalah ...",
+          "text": "Gambar menunjukkan seorang siswa sedang membersihkan halaman sekolah dengan alat kebersihan. Jika halaman sekolah kotor, kegiatan apa yang tepat dilakukan bersama teman-teman?",
           "options": [
             "Mendorong sampah ke selokan",
             "Membakar sampah plastik",
@@ -253,7 +253,7 @@
             "Membiarkan petugas bekerja sendiri"
           ],
           "answer": "Kerja bakti membersihkan halaman",
-          "discussion": "Aksi bersama membantu menciptakan lingkungan sekolah yang bersih.",
+          "discussion": "Ilustrasi menunjukkan kegiatan membersihkan lingkungan sekolah. Kerja bakti memungkinkan teman-teman berbagi tugas menjaga halaman tetap bersih, tanpa mendorong sampah ke selokan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q08-clean-school.svg",
             "alt": "Ilustrasi kerja bakti membersihkan sekolah"
@@ -283,7 +283,7 @@
             "Islam hanya mengatur ibadah pribadi"
           ],
           "answer": "Islam mengajarkan manusia tidak membuat kerusakan di bumi",
-          "discussion": "Ayat-ayat yang dipelajari mengingatkan umat agar tidak merusak bumi."
+          "discussion": "Q.S. ar-Rūm/30:41 mengingatkan dampak perbuatan manusia terhadap alam, sedangkan Q.S. al-A’rāf/7:56 melarang perbuatan merusak bumi. Keduanya mendorong perilaku menjaga lingkungan."
         },
         {
           "id": "PAI-B08-Q022",
@@ -301,7 +301,7 @@
         {
           "id": "PAI-B08-Q023",
           "type": "PG",
-          "text": "Jika melihat teman membuang sampah sembarangan, apa yang sebaiknya dilakukan?",
+          "text": "Pada gambar terlihat kegiatan membersihkan lingkungan sekolah. Jika ada teman membuang sampah sembarangan, apa tindakan yang tepat untuk menjaga kebersihan bersama?",
           "options": [
             "Mengejeknya di depan kelas",
             "Membiarkan agar menjadi kebiasaan",
@@ -309,7 +309,7 @@
             "Membuang sampah lain di dekatnya"
           ],
           "answer": "Mengingatkan dengan sopan dan mengajak membuangnya di tempat sampah",
-          "discussion": "Mengajak dengan santun dapat menumbuhkan kebiasaan baik.",
+          "discussion": "Mengingatkan teman dengan santun serta mengajaknya memakai tempat sampah adalah contoh kepedulian. Menghina orang lain justru menghambat kerja sama.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q08-clean-school.svg",
             "alt": "Ilustrasi menjaga kebersihan lingkungan"
@@ -318,7 +318,7 @@
         {
           "id": "PAI-B08-Q024",
           "type": "PG",
-          "text": "Apa yang dimaksud peduli lingkungan menurut materi?",
+          "text": "Apa pengertian sikap peduli lingkungan dalam kehidupan sehari-hari?",
           "options": [
             "Menggunakan alam tanpa batas",
             "Menjaga lingkungan hanya ketika ada lomba",
@@ -396,7 +396,7 @@
         {
           "id": "PAI-B08-Q030",
           "type": "PG",
-          "text": "Apa inti ajaran bab Peduli Lingkungan?",
+          "text": "Manakah tindakan yang paling tepat mencerminkan kepedulian terhadap tanah, air, udara, dan tumbuhan di sekitar kita?",
           "options": [
             "Menggunakan sumber daya tanpa batas",
             "Menjaga tanah, air, udara, dan tumbuhan sebagai bentuk tanggung jawab",
@@ -404,7 +404,7 @@
             "Mengutamakan kenyamanan sendiri"
           ],
           "answer": "Menjaga tanah, air, udara, dan tumbuhan sebagai bentuk tanggung jawab",
-          "discussion": "Bab ini mengajak peserta didik menerapkan kepedulian terhadap seluruh komponen lingkungan."
+          "discussion": "Peduli lingkungan ditunjukkan melalui penggunaan sumber daya yang tidak berlebihan, menghindari pencemaran, dan merawat tumbuhan sebagai tanggung jawab bersama."
         }
       ]
     }
