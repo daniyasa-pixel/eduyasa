@@ -76,7 +76,7 @@
 
 ![Uji lampu model bertenaga panel surya tanpa baterai: A panel terkena cahaya, lampu menyala; B panel ditutup rapat dari cahaya, lampu padam. Alat sama, penutup aman ditangani guru.](assets/ipas-b06-gambar-03.svg)
 
-**Pertanyaan:** Perubahan yang terjadi ketika panel ditutup pada uji itu ialah ...
+**Pertanyaan:** Dalam uji model lampu panel surya tanpa baterai, lampu menyala saat panel terkena cahaya (A), lalu panel ditutup dari cahaya (B). Apa yang terjadi pada lampu setelah panel ditutup?
 
 **Pilihan jawaban:**
 - Lampu makin terang
@@ -94,7 +94,7 @@
 
 ![Uji lampu model bertenaga panel surya tanpa baterai: A panel terkena cahaya, lampu menyala; B panel ditutup rapat dari cahaya, lampu padam. Alat sama, penutup aman ditangani guru.](assets/ipas-b06-gambar-03.svg)
 
-**Pertanyaan:** Kesimpulan yang sesuai dengan uji model ini ialah ...
+**Pertanyaan:** Pada uji lampu surya tanpa baterai, lampu menyala ketika panel terkena cahaya, kemudian padam ketika panel ditutup. Kesimpulan mana yang sesuai dengan pengamatan itu?
 
 **Pilihan jawaban:**
 - Semua lampu hanya dapat menyala siang hari
@@ -328,7 +328,7 @@
 
 ![Dua lampu identik dengan daya tetap sama. A digunakan satu jam, B digunakan tiga jam. Grafik waktu dimulai dari nol; tidak ada informasi harga listrik.](assets/ipas-b06-gambar-10.svg)
 
-**Pertanyaan:** Lampu mana menggunakan listrik lebih sedikit dalam keadaan pada grafik?
+**Pertanyaan:** Grafik menunjukkan dua lampu dengan daya sama: lampu A digunakan satu jam dan lampu B tiga jam. Lampu mana memakai energi listrik lebih sedikit pada pengamatan tersebut?
 
 **Pilihan jawaban:**
 - A
@@ -346,7 +346,7 @@
 
 ![Dua lampu identik dengan daya tetap sama. A digunakan satu jam, B digunakan tiga jam. Grafik waktu dimulai dari nol; tidak ada informasi harga listrik.](assets/ipas-b06-gambar-10.svg)
 
-**Pertanyaan:** Informasi apa yang belum dapat ditentukan dari grafik saja?
+**Pertanyaan:** Grafik hanya membandingkan lama penggunaan dua lampu identik: A satu jam dan B tiga jam, tanpa keterangan tarif listrik. Informasi apa yang belum dapat diketahui secara tepat dari grafik?
 
 **Pilihan jawaban:**
 - Lampu mana menyala lebih lama
