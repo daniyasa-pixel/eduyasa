@@ -37,7 +37,7 @@
         {
           "id": "SBD-B03-M01-003",
           "type": "PG",
-          "text": "Langkah yang tepat sebelum memilih bahan diorama adalah ...",
+          "text": "Kelompok Citra ingin membuat diorama kebun sekolah, tetapi belum tahu objek apa yang akan ditampilkan. Apa langkah yang paling tepat sebelum menentukan bahan?",
           "options": [
             "Membuang alas tanpa memeriksa ukuran",
             "Mewarnai meja kerja",
@@ -45,7 +45,7 @@
             "Menempel semua benda yang ditemukan"
           ],
           "answer": "Menentukan tema dan adegan yang ingin ditampilkan",
-          "discussion": "Tema membantu menentukan bahan dan bentuk yang benar-benar dibutuhkan."
+          "discussion": "Menentukan tema dan adegan kebun sekolah terlebih dahulu membantu kelompok memilih bahan yang sesuai untuk objek yang dibutuhkan, bukan membeli banyak bahan tanpa rencana."
         },
         {
           "id": "SBD-B03-M01-004",
@@ -89,7 +89,7 @@
         {
           "id": "SBD-B03-M01-007",
           "type": "PG",
-          "text": "Perbedaan gambar taman dan diorama taman terletak pada ...",
+          "text": "Dina membuat gambar taman di kertas, sedangkan Tono membuat diorama taman memakai pohon mini dan bangku dari kardus yang disusun di atas alas. Apa perbedaan utama kedua karya tersebut?",
           "options": [
             "Diorama selalu harus sebesar taman asli",
             "Gambar hanya boleh memakai pensil hitam",
@@ -97,7 +97,7 @@
             "Gambar taman tidak dapat memakai warna"
           ],
           "answer": "Diorama mempunyai susunan benda dengan kedalaman nyata",
-          "discussion": "Gambar berada di bidang datar, sementara diorama menyusun objek di ruang nyata."
+          "discussion": "Gambar taman pada kertas termasuk karya dua dimensi. Diorama taman menampilkan objek tiga dimensi yang memiliki kedalaman dan menempati ruang nyata."
         },
         {
           "id": "SBD-B03-M01-008",
@@ -115,7 +115,7 @@
         {
           "id": "SBD-B03-M01-009",
           "type": "PG",
-          "text": "Jika miniatur pohon menutupi seluruh rumah, perbaikan yang tepat adalah ...",
+          "text": "Pada diorama rumah, pohon mini diletakkan tepat di depan rumah sehingga menutupi pintu dan jendelanya saat dilihat dari depan. Bagaimana sebaiknya susunan itu diperbaiki?",
           "options": [
             "Menyesuaikan ukuran atau posisi pohon agar rumah tetap terbaca",
             "Menutup rumah dengan lebih banyak pohon",
@@ -123,7 +123,7 @@
             "Mengelem semua benda sebelum menilai"
           ],
           "answer": "Menyesuaikan ukuran atau posisi pohon agar rumah tetap terbaca",
-          "discussion": "Ukuran dan posisi dapat diubah agar objek penting tidak saling menutupi."
+          "discussion": "Ukuran atau posisi pohon mini dapat diubah agar bagian penting rumah terlihat. Letak benda dalam diorama memengaruhi keterbacaan adegan dari arah pandang penonton."
         },
         {
           "id": "SBD-B03-M01-010",
@@ -258,7 +258,7 @@
         {
           "id": "SBD-B03-M01-020",
           "type": "PG",
-          "text": "Mengapa perlu menguji sambungan sebelum semua objek dipasang?",
+          "text": "Raka mencoba merekatkan dua potongan kardus untuk dioramanya. Mengapa ia sebaiknya menguji kekuatan sambungan pada contoh kecil sebelum memasang semua miniatur?",
           "options": [
             "Untuk menghapus kebutuhan alas",
             "Untuk melihat apakah bahan dan perekat bekerja sesuai kebutuhan",
@@ -266,7 +266,7 @@
             "Untuk membuat perekat semakin boros"
           ],
           "answer": "Untuk melihat apakah bahan dan perekat bekerja sesuai kebutuhan",
-          "discussion": "Uji sambungan membantu mencegah bagian lepas saat karya dirakit atau dipindahkan."
+          "discussion": "Uji sambungan pada contoh kecil menunjukkan apakah perekat dan bahan cukup kuat. Masalah dapat diperbaiki lebih awal sehingga objek tidak mudah lepas saat karya dirakit atau dipindahkan."
         },
         {
           "id": "SBD-B03-M01-021",
@@ -375,7 +375,7 @@
         {
           "id": "SBD-B03-M01-029",
           "type": "PG",
-          "text": "Apa manfaat melihat rancangan dari beberapa arah?",
+          "text": "Diorama pasar tampak rapi dari depan, tetapi ketika dilihat dari samping ada miniatur yang mudah miring dan papan nama tertutup. Mengapa kelompok perlu memeriksa rancangan dari beberapa arah?",
           "options": [
             "Menemukan bagian tertutup dan masalah keseimbangan benda",
             "Menjamin semua sisi selalu harus identik",
@@ -383,7 +383,7 @@
             "Menghapus seluruh perbedaan ukuran"
           ],
           "answer": "Menemukan bagian tertutup dan masalah keseimbangan benda",
-          "discussion": "Pemeriksaan beberapa arah membantu menilai susunan ruang dan bagian yang rentan."
+          "discussion": "Melihat dari beberapa arah membantu menemukan objek yang tertutup dan penopang yang kurang stabil, sehingga kelompok dapat menyesuaikan posisi sebelum karya dipamerkan."
         },
         {
           "id": "SBD-B03-M01-030",
@@ -466,7 +466,7 @@
         {
           "id": "SBD-B03-M01-036",
           "type": "PG",
-          "text": "Apa yang sebaiknya diuji sebelum memindahkan diorama?",
+          "text": "Kelompok akan membawa diorama taman ke ruang pameran. Sebelum mengangkatnya, apa yang paling penting diperiksa agar miniatur tidak terlepas dan alas tidak rusak?",
           "options": [
             "Warna pakaian pembawanya",
             "Kekuatan alas dan sambungan serta cara mengangkatnya",
@@ -474,7 +474,7 @@
             "Jumlah tepuk tangan penonton"
           ],
           "answer": "Kekuatan alas dan sambungan serta cara mengangkatnya",
-          "discussion": "Pemindahan perlu bertumpu pada bagian penopang yang kuat agar objek tidak terlepas."
+          "discussion": "Kestabilan alas, kekuatan sambungan, dan cara menyangga karya perlu diperiksa sebelum diorama dipindahkan. Jangan mengangkatnya hanya dengan menarik pohon atau hiasan mini."
         },
         {
           "id": "SBD-B03-M01-037",
@@ -544,7 +544,7 @@
         {
           "id": "SBD-B03-M01-042",
           "type": "PG",
-          "text": "Ketika satu bahan sulit direkatkan, langkah pemecahan masalah adalah ...",
+          "text": "Saat merakit diorama, lem yang dipakai Danu tidak dapat menempel kuat pada bahan plastik. Tindakan apa yang paling tepat sebelum memakai bahan atau perekat pengganti pada seluruh karya?",
           "options": [
             "Menuangkan semua perekat sekaligus",
             "Memegang sambungan di atas api",
@@ -552,7 +552,7 @@
             "Menguji cara sambungan lain yang aman pada contoh kecil"
           ],
           "answer": "Menguji cara sambungan lain yang aman pada contoh kecil",
-          "discussion": "Uji kecil membantu menemukan cara yang sesuai tanpa memperbesar kerusakan atau risiko."
+          "discussion": "Danu perlu menguji alternatif sambungan yang aman pada potongan kecil terlebih dahulu. Percobaan itu membantu menentukan apakah bahan atau perekat baru sesuai tanpa merusak seluruh karya."
         },
         {
           "id": "SBD-B03-M01-043",
@@ -648,7 +648,7 @@
         {
           "id": "SBD-B03-M01-050",
           "type": "PG",
-          "text": "Hasil utama membuat diorama adalah ...",
+          "text": "Seorang siswa membuat diorama desa. Ia memilih tema, menggambar sketsa, mencoba bahan, merakit miniatur, lalu menilai kekuatan dan keterbacaan hasilnya. Apa pembelajaran utama dari proses tersebut?",
           "options": [
             "Menyamakan seluruh karya dengan satu contoh",
             "Menghafal harga setiap bahan",
@@ -656,7 +656,7 @@
             "Mengolah ide menjadi karya ruang melalui perencanaan, percobaan, dan refleksi"
           ],
           "answer": "Mengolah ide menjadi karya ruang melalui perencanaan, percobaan, dan refleksi",
-          "discussion": "Proses diorama menggabungkan gagasan, keterampilan bahan, susunan ruang, dan penilaian terhadap proses sendiri."
+          "discussion": "Pembuatan diorama melatih siswa mengubah gagasan menjadi karya ruang melalui perencanaan, percobaan bahan, perakitan, dan refleksi terhadap hasil."
         }
       ]
     }
