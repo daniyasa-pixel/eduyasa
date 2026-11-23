@@ -356,7 +356,7 @@
 
 ## Soal 23 — K03-PAI-B03-M01-023
 
-**Pertanyaan:** Ketika bermain, Hana ingin meminjam penggaris temannya. Apa yang perlu ia lakukan lebih dulu?
+**Pertanyaan:** Saat membuat poster bersama, Hana ingin meminjam penggaris milik temannya. Apa yang perlu Hana lakukan lebih dulu?
 
 **Pilihan jawaban:**
 - Mengambilnya karena penggaris ada di meja
