@@ -2,7 +2,7 @@
 
 ## Soal 36 — K03-ENG-B01-M01-036
 
-![Stimulus soal 36](assets/eng-b01-gambar-01.svg)
+![Mangkuk berisi untaian makanan panjang dengan sumpit di sampingnya.](assets/eng-b01-gambar-01.svg)
 
 **Pertanyaan:** Which label goes with the bowl in the picture?
 
@@ -20,7 +20,7 @@
 
 ## Soal 37 — K03-ENG-B01-M01-037
 
-![Stimulus soal 37](assets/eng-b01-gambar-02.svg)
+![Dua baki: Tray A berisi roti dan es krim; Tray B berisi roti dan pisang.](assets/eng-b01-gambar-02.svg)
 
 **Pertanyaan:** Look at the two trays. Which tray has both bread and bananas?
 
@@ -38,7 +38,7 @@
 
 ## Soal 38 — K03-ENG-B01-M01-038
 
-![Stimulus soal 38](assets/eng-b01-gambar-03.svg)
+![Kartu survei: Maya menandai milk No dan tea Yes; Fikri menandai milk Yes dan tea No.](assets/eng-b01-gambar-03.svg)
 
 **Pertanyaan:** Use the survey card. What is Maya’s answer for milk?
 
@@ -56,7 +56,7 @@
 
 ## Soal 39 — K03-ENG-B01-M01-039
 
-![Stimulus soal 39](assets/eng-b01-gambar-04.svg)
+![Dua kartu makanan: kartu Riko bergambar nasi goreng; kartu Nisa bergambar mi.](assets/eng-b01-gambar-04.svg)
 
 **Pertanyaan:** Read the two name cards. Who likes fried rice?
 
@@ -74,7 +74,7 @@
 
 ## Soal 40 — K03-ENG-B01-M01-040
 
-![Stimulus soal 40](assets/eng-b01-gambar-05.svg)
+![Panah menunjuk es krim di sebelah kanan gambar roti.](assets/eng-b01-gambar-05.svg)
 
 **Pertanyaan:** Look at the arrow. Which question asks about the item it points to?
 
@@ -92,7 +92,7 @@
 
 ## Soal 41 — K03-ENG-B01-M01-041
 
-![Stimulus soal 41](assets/eng-b01-gambar-06.svg)
+![Menu Drinks: baris pertama bertuliskan tea; baris kedua tanpa label menampilkan karton dan gelas susu.](assets/eng-b01-gambar-06.svg)
 
 **Pertanyaan:** Which English word is missing from the menu’s Drinks section?
 
@@ -110,7 +110,7 @@
 
 ## Soal 42 — K03-ENG-B01-M01-042
 
-![Stimulus soal 42](assets/eng-b01-gambar-07.svg)
+![Survei: Rani menyukai bread dan ice cream; Dika menyukai bread dan bananas; keduanya menandai noodles No.](assets/eng-b01-gambar-07.svg)
 
 **Pertanyaan:** Which food do both children mark with a tick?
 
@@ -128,7 +128,7 @@
 
 ## Soal 43 — K03-ENG-B01-M01-043
 
-![Stimulus soal 43](assets/eng-b01-gambar-08.svg)
+![Menu: pita Sold out terdapat pada gambar ayam goreng; gambar lain menampilkan mi, bakso, dan nasi goreng.](assets/eng-b01-gambar-08.svg)
 
 **Pertanyaan:** Read the picture menu. Which item is listed as sold out?
 
@@ -146,7 +146,7 @@
 
 ## Soal 44 — K03-ENG-B01-M01-044
 
-![Stimulus soal 44](assets/eng-b01-gambar-09.svg)
+![Baki jajanan Dita menampilkan satu irisan roti serta karton dan gelas susu.](assets/eng-b01-gambar-09.svg)
 
 **Pertanyaan:** The two pictures form Dita’s snack. Which line names both items?
 
@@ -164,7 +164,7 @@
 
 ## Soal 45 — K03-ENG-B01-M01-045
 
-![Stimulus soal 45](assets/eng-b01-gambar-10.svg)
+![Kartu survei Sari: fried chicken bertanda Yes dan fried rice bertanda No.](assets/eng-b01-gambar-10.svg)
 
 **Pertanyaan:** Use the survey card. Which statement could Sari say?
 
