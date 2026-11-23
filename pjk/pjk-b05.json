@@ -37,7 +37,7 @@
         {
           "id": "PJK-B05-M01-003",
           "type": "PG",
-          "text": "Dalam situasi berikut: Alya melihat teman jatuh dekat lantai basah. Mengapa pilihan \"Menjaga diri di tempat aman dan memanggil guru\" membantu?",
+          "text": "Alya melihat temannya jatuh dekat lantai basah dan memilih tidak mendekat ke permukaan licin sambil memanggil guru. Mengapa ini merupakan tindakan awal yang aman?",
           "options": [
             "Meminta bantuan segera tidak pernah diperlukan",
             "Penolong perlu aman agar tidak menambah korban",
@@ -50,15 +50,15 @@
         {
           "id": "PJK-B05-M01-004",
           "type": "PG",
-          "text": "Alya melihat teman jatuh dekat lantai basah. Jika justru memilih \"Berlari melintasi lantai licin tanpa melihat\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Alya menemukan seorang teman jatuh di dekat lantai yang licin, tetapi ia berlari masuk tanpa memeriksa bahaya. Apa risiko tindakannya?",
           "options": [
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Penolong juga dapat jatuh bila bahaya lantai diabaikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+            "Alya dapat ikut terpeleset sehingga jumlah korban bertambah",
+            "Lantai licin otomatis aman jika penolong berlari",
+            "Memeriksa bahaya tidak pernah diperlukan",
+            "Berteriak lebih keras pasti membuat lantai tidak licin"
           ],
-          "answer": "Penolong juga dapat jatuh bila bahaya lantai diabaikan",
-          "discussion": "Penolong juga dapat jatuh bila bahaya lantai diabaikan. Pilihan yang dianjurkan: Menjaga diri di tempat aman dan memanggil guru."
+          "answer": "Alya dapat ikut terpeleset sehingga jumlah korban bertambah",
+          "discussion": "Penolong perlu memastikan keselamatannya terlebih dahulu. Alya sebaiknya memperingatkan orang sekitar dan memanggil guru dari tempat yang aman."
         },
         {
           "id": "PJK-B05-M01-005",
@@ -102,7 +102,7 @@
         {
           "id": "PJK-B05-M01-008",
           "type": "PG",
-          "text": "Dalam situasi berikut: Bima mendengar teman mengeluh nyeri setelah terkilir. Mengapa pilihan \"Menghentikan permainan dan segera memanggil guru\" membantu?",
+          "text": "Bima mendengar temannya mengeluh nyeri setelah pergelangan kakinya terkilir. Mengapa menghentikan permainan lalu memanggil guru lebih tepat daripada memaksa teman terus bermain?",
           "options": [
             "Orang dewasa perlu menilai cedera dan menentukan bantuan",
             "Penolong tidak perlu memperhatikan bahaya",
@@ -115,15 +115,15 @@
         {
           "id": "PJK-B05-M01-009",
           "type": "PG",
-          "text": "Bima mendengar teman mengeluh nyeri setelah terkilir. Jika justru memilih \"Memaksa teman berlari untuk menguji\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Bima mengetahui temannya nyeri karena terkilir, tetapi justru memintanya terus bermain agar pertandingan selesai. Apa risikonya?",
           "options": [
-            "Cedera dapat memburuk jika bagian sakit terus dipaksa bekerja",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+            "Nyeri atau cedera dapat memburuk jika bagian yang sakit dipaksa bergerak",
+            "Memaksa bergerak selalu menyembuhkan cedera",
+            "Nyeri pasti hilang jika permainan dipercepat",
+            "Meminta bantuan guru tidak berguna dalam penilaian cedera"
           ],
-          "answer": "Cedera dapat memburuk jika bagian sakit terus dipaksa bekerja",
-          "discussion": "Cedera dapat memburuk jika bagian sakit terus dipaksa bekerja. Pilihan yang dianjurkan: Menghentikan permainan dan segera memanggil guru."
+          "answer": "Nyeri atau cedera dapat memburuk jika bagian yang sakit dipaksa bergerak",
+          "discussion": "Bagian tubuh yang cedera tidak boleh dipaksa melakukan aktivitas yang memicu nyeri. Hentikan kegiatan dan segera minta penilaian dari guru atau orang dewasa terlatih."
         },
         {
           "id": "PJK-B05-M01-010",
@@ -167,7 +167,7 @@
         {
           "id": "PJK-B05-M01-013",
           "type": "PG",
-          "text": "Dalam situasi berikut: Citra belajar konsep RICE bersama guru. Mengapa pilihan \"Memahami bahwa bagian yang nyeri perlu dilindungi dari aktivitas pemicu\" membantu?",
+          "text": "Dalam latihan pertolongan pertama yang dipandu guru, Citra mempelajari bahwa anggota tubuh yang nyeri tidak perlu dipaksa bergerak. Mengapa melindunginya dari aktivitas pemicu penting sebelum penilaian lebih lanjut?",
           "options": [
             "Meminta bantuan segera tidak pernah diperlukan",
             "Mengurangi beban membantu melindungi bagian yang cedera sambil menunggu penilaian",
@@ -180,15 +180,15 @@
         {
           "id": "PJK-B05-M01-014",
           "type": "PG",
-          "text": "Citra belajar konsep RICE bersama guru. Jika justru memilih \"Memaksa bergerak menahan nyeri\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Saat latihan penanganan cedera, Citra menemukan temannya mengalami nyeri pada pergelangan kaki tetapi temannya tetap memaksa berlari. Apa akibat yang dapat terjadi?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Nyeri dapat bertambah bila beban tetap dipaksakan"
+            "Keluhan dapat bertambah karena bagian yang nyeri terus diberi beban",
+            "Nyeri pasti berkurang karena semakin sering dipaksa",
+            "Semua cedera langsung sembuh tanpa istirahat",
+            "Menyuruh teman tetap berlari adalah pemeriksaan yang aman"
           ],
-          "answer": "Nyeri dapat bertambah bila beban tetap dipaksakan",
-          "discussion": "Nyeri dapat bertambah bila beban tetap dipaksakan. Pilihan yang dianjurkan: Memahami bahwa bagian yang nyeri perlu dilindungi dari aktivitas pemicu."
+          "answer": "Keluhan dapat bertambah karena bagian yang nyeri terus diberi beban",
+          "discussion": "Mengurangi aktivitas yang memperparah nyeri membantu melindungi bagian cedera sementara menunggu penilaian orang dewasa. Tidak semua cedera ditangani dengan metode yang sama."
         },
         {
           "id": "PJK-B05-M01-015",
@@ -232,7 +232,7 @@
         {
           "id": "PJK-B05-M01-018",
           "type": "PG",
-          "text": "Dalam situasi berikut: Danu melihat guru menyiapkan kompres dingin. Mengapa pilihan \"Memastikan penanganan dipandu orang dewasa dan dingin tidak ditempel langsung ke kulit\" membantu?",
+          "text": "Danu melihat guru akan menggunakan kompres dingin untuk cedera tertentu. Mengapa kompres perlu diberikan dengan pelindung kulit dan pengawasan orang dewasa terlatih?",
           "options": [
             "Penolong tidak perlu memperhatikan bahaya",
             "Meminta bantuan segera tidak pernah diperlukan",
@@ -245,15 +245,15 @@
         {
           "id": "PJK-B05-M01-019",
           "type": "PG",
-          "text": "Danu melihat guru menyiapkan kompres dingin. Jika justru memilih \"Menempel es langsung lama pada kulit\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Pada simulasi pertolongan pertama, Danu melihat seseorang menempelkan es langsung pada kulit dalam waktu lama. Apa bahaya tindakan tersebut?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Kulit dapat cedera jika es ditempel langsung atau berlebihan"
+            "Kulit berisiko mengalami cedera akibat paparan dingin berlebihan",
+            "Semua orang aman menempel es langsung selama apa pun",
+            "Es langsung pada kulit selalu menyembuhkan semua jenis cedera",
+            "Paparan dingin berlebihan tidak mungkin merusak kulit"
           ],
-          "answer": "Kulit dapat cedera jika es ditempel langsung atau berlebihan",
-          "discussion": "Kulit dapat cedera jika es ditempel langsung atau berlebihan. Pilihan yang dianjurkan: Memastikan penanganan dipandu orang dewasa dan dingin tidak ditempel langsung ke kulit."
+          "answer": "Kulit berisiko mengalami cedera akibat paparan dingin berlebihan",
+          "discussion": "Kompres dingin untuk cedera tertentu memerlukan pelindung kulit, durasi yang sesuai, dan arahan orang dewasa. Anak tidak boleh mengompres sendiri semua jenis cedera."
         },
         {
           "id": "PJK-B05-M01-020",
@@ -297,7 +297,7 @@
         {
           "id": "PJK-B05-M01-023",
           "type": "PG",
-          "text": "Dalam situasi berikut: Eka belajar tentang balutan penyangga. Mengapa pilihan \"Meminta orang dewasa terlatih menilai dan menangani balutan\" membantu?",
+          "text": "Eka mempelajari balutan penyangga pada cedera. Mengapa ia harus meminta orang dewasa terlatih menilai kondisi sebelum memasang balutan?",
           "options": [
             "Semua cedera memerlukan penanganan yang identik",
             "Meminta bantuan segera tidak pernah diperlukan",
@@ -310,15 +310,15 @@
         {
           "id": "PJK-B05-M01-024",
           "type": "PG",
-          "text": "Eka belajar tentang balutan penyangga. Jika justru memilih \"Mengikat sekuat mungkin tanpa penilaian\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Eka mengikat balutan terlalu ketat pada tangan teman yang cedera hingga teman mengeluh kebas. Apa bahaya yang perlu diperhatikan?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Bagian tubuh dapat kebas jika balutan terlalu ketat",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+            "Balutan terlalu ketat dapat mengganggu aliran darah dan membuat bagian tubuh kebas",
+            "Kebas selalu membuktikan balutan sudah tepat",
+            "Semakin kuat ikatan pasti selalu semakin aman",
+            "Kondisi tangan tidak perlu diperiksa lagi setelah dibalut"
           ],
-          "answer": "Bagian tubuh dapat kebas jika balutan terlalu ketat",
-          "discussion": "Bagian tubuh dapat kebas jika balutan terlalu ketat. Pilihan yang dianjurkan: Meminta orang dewasa terlatih menilai dan menangani balutan."
+          "answer": "Balutan terlalu ketat dapat mengganggu aliran darah dan membuat bagian tubuh kebas",
+          "discussion": "Balutan yang terlalu ketat dapat mengganggu sirkulasi. Eka perlu segera memberi tahu guru atau penolong terlatih, bukan menambah tekanan balutan."
         },
         {
           "id": "PJK-B05-M01-025",
@@ -362,7 +362,7 @@
         {
           "id": "PJK-B05-M01-028",
           "type": "PG",
-          "text": "Dalam situasi berikut: Farah mendengar saran meninggikan bagian yang terkilir. Mengapa pilihan \"Mengikuti arahan orang dewasa dan tidak memaksa bagian yang diduga patah\" membantu?",
+          "text": "Farah mendengar saran untuk meninggikan bagian yang terkilir, tetapi seseorang diduga mengalami patah tulang. Mengapa ia tidak boleh memaksakan posisi bagian tubuh yang cedera?",
           "options": [
             "Semua cedera memerlukan penanganan yang identik",
             "Meminta bantuan segera tidak pernah diperlukan",
@@ -375,15 +375,15 @@
         {
           "id": "PJK-B05-M01-029",
           "type": "PG",
-          "text": "Farah mendengar saran meninggikan bagian yang terkilir. Jika justru memilih \"Meluruskan paksa tulang yang berubah bentuk\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Farah melihat teman yang diduga mengalami patah tulang, lalu seseorang berusaha meluruskan paksa bagian yang berubah bentuk. Apa risikonya?",
           "options": [
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Cedera dapat memburuk bila bagian yang diduga patah dipaksa digerakkan"
+            "Cedera dapat bertambah parah akibat bagian tubuh dipaksa digerakkan",
+            "Bagian tubuh yang patah pasti aman diluruskan siapa saja",
+            "Memaksa gerakan selalu menghilangkan nyeri",
+            "Pemeriksaan orang dewasa tidak diperlukan bila posisi tulang tampak tidak biasa"
           ],
-          "answer": "Cedera dapat memburuk bila bagian yang diduga patah dipaksa digerakkan",
-          "discussion": "Cedera dapat memburuk bila bagian yang diduga patah dipaksa digerakkan. Pilihan yang dianjurkan: Mengikuti arahan orang dewasa dan tidak memaksa bagian yang diduga patah."
+          "answer": "Cedera dapat bertambah parah akibat bagian tubuh dipaksa digerakkan",
+          "discussion": "Bagian yang diduga patah tidak boleh diluruskan secara paksa oleh siswa. Hindari menggerakkan korban tanpa alasan keselamatan dan segera panggil bantuan yang tepat."
         },
         {
           "id": "PJK-B05-M01-030",
@@ -427,7 +427,7 @@
         {
           "id": "PJK-B05-M01-033",
           "type": "PG",
-          "text": "Dalam situasi berikut: Gilang melihat seseorang tidak merespons panggilan. Mengapa pilihan \"Segera memanggil orang dewasa dan bantuan darurat setempat\" membantu?",
+          "text": "Gilang menemukan seseorang yang tidak merespons ketika dipanggil. Mengapa ia harus segera mencari bantuan orang dewasa dan layanan darurat setempat?",
           "options": [
             "Meminta bantuan segera tidak pernah diperlukan",
             "Kondisi tidak responsif perlu penilaian dan pertolongan segera",
@@ -440,15 +440,15 @@
         {
           "id": "PJK-B05-M01-034",
           "type": "PG",
-          "text": "Gilang melihat seseorang tidak merespons panggilan. Jika justru memilih \"Menunggu sampai melewati satu menit baru melapor\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Gilang melihat seseorang yang tidak merespons panggilan, tetapi ia menunggu beberapa menit sebelum meminta bantuan. Mengapa keputusan itu berbahaya?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Pertolongan tertunda bila penolong menunggu batas waktu sembarang",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian"
+            "Penanganan keadaan darurat menjadi terlambat ketika bantuan tidak segera diminta",
+            "Setiap orang yang tidak responsif pasti hanya tertidur",
+            "Menunggu lebih lama selalu meningkatkan kesempatan selamat",
+            "Orang yang tidak sadar sebaiknya langsung diberi minum"
           ],
-          "answer": "Pertolongan tertunda bila penolong menunggu batas waktu sembarang",
-          "discussion": "Pertolongan tertunda bila penolong menunggu batas waktu sembarang. Pilihan yang dianjurkan: Segera memanggil orang dewasa dan bantuan darurat setempat."
+          "answer": "Penanganan keadaan darurat menjadi terlambat ketika bantuan tidak segera diminta",
+          "discussion": "Kondisi tidak responsif perlu pertolongan segera. Gilang sebaiknya memanggil orang dewasa dan layanan darurat setempat tanpa menunggu batas waktu buatan."
         },
         {
           "id": "PJK-B05-M01-035",
@@ -492,7 +492,7 @@
         {
           "id": "PJK-B05-M01-038",
           "type": "PG",
-          "text": "Dalam situasi berikut: Hana diminta memberi laporan kepada guru. Mengapa pilihan \"Menyebut lokasi kejadian apa yang terlihat dan bahaya di sekitar\" membantu?",
+          "text": "Hana melihat temannya jatuh di dekat tangga dan melaporkan lokasi, kondisi yang terlihat, serta bahaya sekitar kepada guru. Mengapa informasi yang jelas mempermudah pertolongan?",
           "options": [
             "Penolong tidak perlu memperhatikan bahaya",
             "Informasi yang akurat membantu penolong menemukan dan menilai keadaan",
@@ -505,15 +505,15 @@
         {
           "id": "PJK-B05-M01-039",
           "type": "PG",
-          "text": "Hana diminta memberi laporan kepada guru. Jika justru memilih \"Mengarang diagnosis pasti\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Hana melihat teman jatuh di dekat tangga, tetapi ketika melapor kepada guru ia mengarang diagnosis medis dan tidak menjelaskan kejadian yang terlihat. Apa masalah utamanya?",
           "options": [
-            "Bantuan dapat salah arah jika lokasi tidak dijelaskan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan"
+            "Informasi tidak akurat dapat menyesatkan penolong dan menghambat penilaian",
+            "Diagnosis buatan anak pasti lebih tepat daripada fakta kejadian",
+            "Lokasi dan keadaan yang terlihat tidak berguna bagi penolong",
+            "Menyembunyikan fakta selalu mempercepat pertolongan"
           ],
-          "answer": "Bantuan dapat salah arah jika lokasi tidak dijelaskan",
-          "discussion": "Bantuan dapat salah arah jika lokasi tidak dijelaskan. Pilihan yang dianjurkan: Menyebut lokasi kejadian apa yang terlihat dan bahaya di sekitar."
+          "answer": "Informasi tidak akurat dapat menyesatkan penolong dan menghambat penilaian",
+          "discussion": "Pelapor perlu menjelaskan lokasi, kondisi yang benar-benar terlihat, dan bahaya sekitar. Anak tidak perlu menebak diagnosis medis, melainkan meminta bantuan orang dewasa yang tepat."
         },
         {
           "id": "PJK-B05-M01-040",
@@ -557,7 +557,7 @@
         {
           "id": "PJK-B05-M01-043",
           "type": "PG",
-          "text": "Dalam situasi berikut: Intan melihat teman kesulitan di kolam. Mengapa pilihan \"Memanggil penjaga atau orang dewasa dan tidak melompat menolong sendiri\" membantu?",
+          "text": "Intan melihat temannya kesulitan di kolam dan segera memanggil penjaga kolam tanpa ikut melompat ke air. Mengapa keputusan ini lebih aman untuk anak yang belum terlatih menyelamatkan orang?",
           "options": [
             "Penolong tidak perlu memperhatikan bahaya",
             "Meminta bantuan segera tidak pernah diperlukan",
@@ -570,15 +570,15 @@
         {
           "id": "PJK-B05-M01-044",
           "type": "PG",
-          "text": "Intan melihat teman kesulitan di kolam. Jika justru memilih \"Melompat meski tidak terlatih\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Intan melihat seorang anak kesulitan di kolam lalu nekat melompat untuk menolong walaupun ia belum memiliki keterampilan penyelamatan air. Apa risikonya?",
           "options": [
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Penolong yang tidak terlatih dapat ikut tenggelam",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan"
+            "Intan bisa ikut tenggelam dan membutuhkan pertolongan",
+            "Anak yang belum terlatih selalu aman menyelamatkan siapa pun di air",
+            "Melompat tanpa alat dan pengawasan pasti menyelesaikan masalah",
+            "Memanggil penjaga kolam selalu memperburuk situasi"
           ],
-          "answer": "Penolong yang tidak terlatih dapat ikut tenggelam",
-          "discussion": "Penolong yang tidak terlatih dapat ikut tenggelam. Pilihan yang dianjurkan: Memanggil penjaga atau orang dewasa dan tidak melompat menolong sendiri."
+          "answer": "Intan bisa ikut tenggelam dan membutuhkan pertolongan",
+          "discussion": "Penyelamatan di air dapat membahayakan penolong yang tidak terlatih. Intan perlu segera memanggil penjaga kolam atau orang dewasa dan mengikuti petunjuk dari tempat aman."
         },
         {
           "id": "PJK-B05-M01-045",
@@ -622,7 +622,7 @@
         {
           "id": "PJK-B05-M01-048",
           "type": "PG",
-          "text": "Dalam situasi berikut: Joko menemukan tali melintang di jalur latihan. Mengapa pilihan \"Memberi tahu guru dan menghindari jalur sampai aman\" membantu?",
+          "text": "Joko menemukan tali melintang di jalur latihan dan segera memperingatkan guru sambil menghindari area itu. Mengapa tindakan ini membantu mencegah cedera?",
           "options": [
             "Meminta bantuan segera tidak pernah diperlukan",
             "Semua cedera memerlukan penanganan yang identik",
@@ -635,15 +635,15 @@
         {
           "id": "PJK-B05-M01-049",
           "type": "PG",
-          "text": "Joko menemukan tali melintang di jalur latihan. Jika justru memilih \"Membiarkan teman berikutnya tersandung\", risiko yang perlu dipertimbangkan adalah ...",
+          "text": "Joko melihat tali melintang di jalur lari, tetapi ia sengaja membiarkannya agar teman yang datang berikutnya tidak mengetahuinya. Apa risikonya?",
           "options": [
-            "Pilihan itu membuat pemeriksaan keselamatan tidak diperlukan",
-            "Pilihan itu pasti membuat tujuan tercapai tanpa penyesuaian",
-            "Pilihan itu menjamin tidak ada dampak yang merugikan",
-            "Peserta lain dapat tersandung bila hambatan tidak dilaporkan"
+            "Teman dapat tersandung tali, jatuh, dan mengalami cedera",
+            "Tali yang dibiarkan pasti menghilang sebelum teman lewat",
+            "Jalur berhalang menjadi aman karena tidak ada peringatan",
+            "Peserta yang berlari tidak mungkin tersandung tali"
           ],
-          "answer": "Peserta lain dapat tersandung bila hambatan tidak dilaporkan",
-          "discussion": "Peserta lain dapat tersandung bila hambatan tidak dilaporkan. Pilihan yang dianjurkan: Memberi tahu guru dan menghindari jalur sampai aman."
+          "answer": "Teman dapat tersandung tali, jatuh, dan mengalami cedera",
+          "discussion": "Tali di jalur lari adalah bahaya yang perlu dilaporkan sebelum latihan berlanjut. Joko sebaiknya mengingatkan orang lain dan meminta guru mengamankan area."
         },
         {
           "id": "PJK-B05-M01-050",
