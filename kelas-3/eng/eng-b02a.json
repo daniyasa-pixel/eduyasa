@@ -22,7 +22,7 @@
           "discussion": "Kartu menampilkan es krim dengan tanda silang yang bermakna No.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-01.svg",
-            "alt": "Stimulus soal 36"
+            "alt": "Kartu Lina menampilkan es krim dengan tanda silang berarti No."
           }
         },
         {
@@ -39,7 +39,7 @@
           "discussion": "Gelas teh diberi centang dan karton susu diberi silang. Legenda menjelaskan kedua tanda.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-02.svg",
-            "alt": "Stimulus soal 37"
+            "alt": "Kartu Oki: gambar teh diberi centang Yes, sedangkan susu diberi silang No."
           }
         },
         {
@@ -56,7 +56,7 @@
           "discussion": "Pada baris Dara, kedua kolom bertanda centang. Rino menyukai susu, tetapi tidak menyukai roti.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-03.svg",
-            "alt": "Stimulus soal 38"
+            "alt": "Survei bread dan milk: Dara mencentang keduanya; Rino menyilang bread dan mencentang milk."
           }
         },
         {
@@ -73,7 +73,7 @@
           "discussion": "Kolom pizza berisi tanda tanya yang berarti belum dijawab. Roti dan nasi sudah ditandai, sedangkan mi tidak tercantum.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-04.svg",
-            "alt": "Stimulus soal 39"
+            "alt": "Kartu Dini: bread bertanda Yes, pizza bertanda tanya atau belum dijawab, dan rice bertanda No."
           }
         },
         {
@@ -90,7 +90,7 @@
           "discussion": "Pisang diberi tanda silang pada kedua kartu. Tanda pada roti dan mi berbeda.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-05.svg",
-            "alt": "Stimulus soal 40"
+            "alt": "Dua kartu: Riko dan Mira sama-sama menyilang bananas; Riko menyukai bread dan Mira menyukai noodles."
           }
         },
         {
@@ -107,7 +107,7 @@
           "discussion": "Balon ucapan Yuni menolak kopi. Laporan tentang Yuni menggunakan bentuk doesn’t like.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-06.svg",
-            "alt": "Stimulus soal 41"
+            "alt": "Balon ucapan Yuni berbunyi I don’t like coffee."
           }
         },
         {
@@ -124,7 +124,7 @@
           "discussion": "Panah menunjuk roti yang diberi tanda centang. Tanda silang pada kartu berlaku untuk es krim.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-07.svg",
-            "alt": "Stimulus soal 42"
+            "alt": "Kartu Bima: panah menunjuk gambar roti yang dicentang Yes; es krim disilang No."
           }
         },
         {
@@ -141,7 +141,7 @@
           "discussion": "Kartu 2 memuat nama Sita, gambar mi, dan centang. Kartu lain berbeda pada nama, gambar, atau tanda.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-08.svg",
-            "alt": "Stimulus soal 43"
+            "alt": "Empat kartu: 1 Sita tidak suka mi; 2 Sita suka mi; 3 Beni suka mi; 4 Sita suka pizza."
           }
         },
         {
@@ -158,7 +158,7 @@
           "discussion": "Teh mendapat satu centang. Susu dicentang keduanya, kopi disilang keduanya, dan air tidak ditampilkan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-09.svg",
-            "alt": "Stimulus soal 44"
+            "alt": "Survei: Ayu menyukai tea dan milk tetapi tidak coffee; Doni menyukai milk tetapi tidak tea atau coffee."
           }
         },
         {
@@ -175,7 +175,7 @@
           "discussion": "Rani menandai pizza dengan silang. Roti dan susu masing-masing dicentang.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b02-gambar-10.svg",
-            "alt": "Stimulus soal 45"
+            "alt": "Kartu Rani menunjukkan pizza bertanda No, sedangkan bread dan milk bertanda Yes."
           }
         }
       ]
