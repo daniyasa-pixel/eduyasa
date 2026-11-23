@@ -25,6 +25,7 @@ import io.noties.markwon.Markwon
 import io.noties.markwon.ext.latex.JLatexMathPlugin
 import io.noties.markwon.ext.tables.TablePlugin
 import io.noties.markwon.inlineparser.MarkwonInlineParserPlugin
+import kotlin.math.roundToInt
 
 /**
  * Native Android TextView + Markwon: Markdown and real LaTeX drawable spans.
@@ -54,6 +55,18 @@ private object EduImages {
         return loader ?: ImageLoader.Builder(context.applicationContext)
             .components { add(SvgDecoder.Factory()) }
             .build().also { loader = it }
+    }
+}
+
+/**
+ * Best-effort image warmup into Coil's existing memory/disk cache.
+ * It deliberately never blocks question readiness.
+ */
+internal fun prefetchEduQuizImage(context: Context, source: String?) {
+    val url = resolveEduMedia(source) ?: return
+    runCatching {
+        val request = ImageRequest.Builder(context.applicationContext).data(url).build()
+        EduImages.get(context).enqueue(request)
     }
 }
 
@@ -103,21 +116,47 @@ fun EduRemoteImage(
  * Plain quiz options use Compose Text; formatted text keeps Android-native
  * Markwon and LaTeX rendering. No HTML/WebView is involved.
  */
+private val inlineEmphasis = Regex("""(?<!\w)[*_][^*_\r\n]+[*_](?!\w)""")
+private val markdownBlock = Regex("""(?m)^\s*(#{1,6}\s+|[-*]\s+|\d+\.\s+)""")
+
+data class EduPreparedText(
+    val raw: String,
+    val formatted: String,
+    val rich: Boolean
+)
+
+/** Pure string preparation safe on Dispatchers.Default (no View creation). */
+fun prepareEduText(content: String): EduPreparedText {
+    val rich = content.contains('$') || content.contains("**") ||
+        content.contains("__") || content.contains("\\(") ||
+        content.contains("\\[") || content.contains('\u0060') ||
+        inlineEmphasis.containsMatchIn(content) ||
+        markdownBlock.containsMatchIn(content)
+    return EduPreparedText(
+        raw = content,
+        formatted = if (rich) prepareMathMarkdown(content) else content,
+        rich = rich
+    )
+}
+
 @Composable
 fun EduAnswerText(
-    content: String, modifier: Modifier = Modifier, sizeSp: Float = 14f
+    content: String,
+    modifier: Modifier = Modifier,
+    sizeSp: Float = 14f,
+    prepared: EduPreparedText? = null
 ) {
-    val isRich = remember(content) {
-        content.contains('$') || content.contains("**") || content.contains("__") ||
-            content.contains("\\(") || content.contains("\\[") ||
-            content.contains('\u0060') ||
-            Regex("""(?<!\w)[*_][^*_\r\n]+[*_](?!\w)""").containsMatchIn(content) ||
-            Regex("""(?m)^\s*(#{1,6}\s+|[-*]\s+|\d+\.\s+)""").containsMatchIn(content)
+    val value = remember(content, prepared) {
+        prepared?.takeIf { it.raw == content } ?: prepareEduText(content)
     }
-    if (isRich) {
-        EduRichText(content, modifier = modifier, sizeSp = sizeSp)
+    if (value.rich) {
+        EduRichText(
+            content, modifier = modifier, sizeSp = sizeSp,
+            preparedMarkdown = value.formatted
+        )
     } else {
-        Text(content, modifier = modifier, fontSize = sizeSp.sp, color = Color(0xFF172033))
+        Text(content, modifier = modifier, fontSize = sizeSp.sp,
+            color = Color(0xFF172033))
     }
 }
 
@@ -127,13 +166,37 @@ private class EduFormattedTextView(context: Context) : TextView(context) {
     var lastTextColor: Int = 0
 }
 
+/**
+ * Building Markwon and its LaTeX plugin for every option is expensive.
+ * Reuse at most a few immutable renderers per font size in this process.
+ */
+private object EduMarkwonPool {
+    private val instances = mutableMapOf<Int, Markwon>()
+
+    @Synchronized
+    fun renderer(context: Context, latexSize: Float): Markwon {
+        val key = latexSize.roundToInt()
+        return instances.getOrPut(key) {
+            Markwon.builder(context.applicationContext)
+                .usePlugin(MarkwonInlineParserPlugin.create())
+                .usePlugin(JLatexMathPlugin.create(latexSize,
+                    JLatexMathPlugin.BuilderConfigure { builder ->
+                        builder.inlinesEnabled(true)
+                    }))
+                .usePlugin(TablePlugin.create(context.applicationContext))
+                .build()
+        }
+    }
+}
+
 /** Markdown and LaTeX rendered by native Android TextView. */
 @Composable
 fun EduRichText(
     content: String,
     modifier: Modifier = Modifier,
     sizeSp: Float = 15f,
-    color: Int = android.graphics.Color.rgb(23, 32, 51)
+    color: Int = android.graphics.Color.rgb(23, 32, 51),
+    preparedMarkdown: String? = null
 ) {
     val context = LocalContext.current
     val latexSize = remember(sizeSp, context) {
@@ -142,14 +205,11 @@ fun EduRichText(
         )
     }
     val markwon = remember(context, latexSize) {
-        Markwon.builder(context.applicationContext)
-            .usePlugin(MarkwonInlineParserPlugin.create())
-            .usePlugin(JLatexMathPlugin.create(latexSize,
-                JLatexMathPlugin.BuilderConfigure { builder -> builder.inlinesEnabled(true) }))
-            .usePlugin(TablePlugin.create(context.applicationContext))
-            .build()
+        EduMarkwonPool.renderer(context, latexSize)
     }
-    val formatted = remember(content) { prepareMathMarkdown(content) }
+    val formatted = remember(content, preparedMarkdown) {
+        preparedMarkdown ?: prepareMathMarkdown(content)
+    }
     AndroidView(
         modifier = modifier.fillMaxWidth(),
         factory = { ctx ->
