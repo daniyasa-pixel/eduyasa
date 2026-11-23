@@ -16,6 +16,8 @@ import androidx.compose.animation.fadeOut
 import androidx.compose.animation.slideInHorizontally
 import androidx.compose.animation.slideOutHorizontally
 import androidx.compose.foundation.BorderStroke
+import androidx.compose.foundation.ExperimentalFoundationApi
+import androidx.compose.foundation.combinedClickable
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.interaction.MutableInteractionSource
@@ -32,6 +34,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.hapticfeedback.HapticFeedbackType
+import androidx.compose.ui.platform.LocalHapticFeedback
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.text.font.FontWeight
@@ -65,9 +69,11 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+@OptIn(ExperimentalFoundationApi::class)
 @Composable
 private fun EduyasaApp() {
     val context = LocalContext.current
+    val haptics = LocalHapticFeedback.current
     val scope = rememberCoroutineScope()
     val catalog = remember { EduyasaRepository.catalog(context.applicationContext) }
     val profileStore = remember { StudentProfileStore(context.applicationContext) }
@@ -324,86 +330,96 @@ private fun EduyasaApp() {
             }
             when (page) {
                 Page.HOME -> {
-                    Text("⭐ Portal Belajar Interaktif", color = Blue, fontWeight = FontWeight.Bold)
-                    Spacer(Modifier.height(12.dp))
-                    Text("Belajar Jadi Lebih Seru!", fontSize = 27.sp,
+                    Text("⭐ Portal Belajar Interaktif", color = Blue,
+                        fontSize = 13.sp, fontWeight = FontWeight.SemiBold)
+                    Spacer(Modifier.height(8.dp))
+                    Text("Belajar Jadi Lebih Seru!", fontSize = 26.sp,
                         fontWeight = FontWeight.ExtraBold, color = DarkBlue)
-                    Text("Satu HP bisa digunakan oleh beberapa siswa.",
-                        color = Muted, fontSize = 13.sp)
-                    Spacer(Modifier.height(24.dp))
-                    Title("Siapa yang belajar hari ini?")
-                    Text("Pilih nama siswa. Kelas akan terisi otomatis.",
+                    Spacer(Modifier.height(22.dp))
+                    Text("Siapa yang belajar hari ini?", fontSize = 18.sp,
+                        fontWeight = FontWeight.Bold, color = DarkBlue)
+                    Text("Pilih nama untuk melanjutkan belajar.",
                         color = Muted, fontSize = 12.sp)
-                    Spacer(Modifier.height(12.dp))
+                    Spacer(Modifier.height(14.dp))
+
                     if (profiles.isEmpty()) {
                         Panel {
-                            Text("Belum ada profil siswa.", fontWeight = FontWeight.Bold)
-                            Text("Tambahkan nama dan kelas sekali saja. Profil akan tersimpan di HP ini.",
-                                fontSize = 13.sp, color = Muted)
+                            Text("Belum ada profil siswa.", fontWeight = FontWeight.Bold,
+                                color = DarkBlue)
+                            Text("Buat profil pertama untuk mulai belajar.",
+                                color = Muted, fontSize = 13.sp)
+                            Spacer(Modifier.height(8.dp))
+                            Primary("BUAT PROFIL SISWA", "add-first-profile") {
+                                editingProfile = null
+                                editProfileOpen = true
+                            }
+                        }
+                    } else {
+                        profiles.forEach { profile ->
+                            Row(
+                                modifier = Modifier.fillMaxWidth()
+                                    .padding(bottom = 10.dp)
+                                    .clip(RoundedCornerShape(16.dp))
+                                    .background(Color.White)
+                                    .testTag("profile-" + profile.id)
+                                    .combinedClickable(
+                                        onClick = {
+                                            activeProfileId = profile.id
+                                            profileStore.setActiveProfileId(profile.id)
+                                            grade = profile.grade
+                                            statistics = null
+                                            selectedSubjects.clear()
+                                            chapters.clear()
+                                            errorText = ""
+                                            page = Page.SUBJECTS
+                                        },
+                                        onLongClick = {
+                                            haptics.performHapticFeedback(HapticFeedbackType.LongPress)
+                                            editingProfile = profile
+                                            editProfileOpen = true
+                                        }
+                                    )
+                                    .padding(horizontal = 16.dp, vertical = 17.dp),
+                                verticalAlignment = Alignment.CenterVertically
+                            ) {
+                                Box(
+                                    modifier = Modifier.size(46.dp)
+                                        .clip(RoundedCornerShape(14.dp))
+                                        .background(Color(0xFFEFF6FF)),
+                                    contentAlignment = Alignment.Center
+                                ) {
+                                    Text("🎓", fontSize = 25.sp)
+                                }
+                                Spacer(Modifier.width(13.dp))
+                                Column(Modifier.weight(1f)) {
+                                    Text(profile.name, fontWeight = FontWeight.Bold,
+                                        color = DarkBlue, fontSize = 18.sp)
+                                    Text("Kelas " + profile.grade + " SD",
+                                        color = Muted, fontSize = 12.sp)
+                                }
+                                Text("›", color = Blue, fontSize = 28.sp)
+                            }
+                        }
+                        if (profileError.isNotBlank()) ErrorMessage(profileError)
+                        Row(Modifier.fillMaxWidth(),
+                            horizontalArrangement = Arrangement.End) {
+                            TextButton(
+                                onClick = {
+                                    editingProfile = null
+                                    editProfileOpen = true
+                                },
+                                modifier = Modifier.testTag("add-profile")
+                            ) {
+                                Text("＋ Tambah profil", color = Muted,
+                                    fontSize = 12.sp, fontWeight = FontWeight.Medium)
+                            }
                         }
                     }
-                    profiles.forEach { profile ->
-                        Row(
-                            modifier = Modifier.fillMaxWidth().padding(bottom = 10.dp)
-                                .clip(RoundedCornerShape(14.dp))
-                                .background(if (activeProfileId == profile.id)
-                                    Color(0xFFEFF6FF) else Color.White)
-                                .testTag("profile-" + profile.id)
-                                .clickable {
-                                    activeProfileId = profile.id
-                                    profileStore.setActiveProfileId(profile.id)
-                                    grade = profile.grade
-                                    statistics = null
-                                    selectedSubjects.clear()
-                                    chapters.clear()
-                                    errorText = ""
-                                    page = Page.SUBJECTS
-                                }.padding(start = 15.dp, top = 10.dp, bottom = 10.dp, end = 4.dp),
-                            verticalAlignment = Alignment.CenterVertically
-                        ) {
-                            Text("🎓", fontSize = 29.sp)
-                            Spacer(Modifier.width(12.dp))
-                            Column(Modifier.weight(1f)) {
-                                Text(profile.name, fontWeight = FontWeight.Bold,
-                                    color = DarkBlue, fontSize = 16.sp)
-                                Text("Kelas " + profile.grade + " SD",
-                                    color = Muted, fontSize = 12.sp)
-                            }
-                            Column(horizontalAlignment = Alignment.End) {
-                                TextButton(
-                                    onClick = {
-                                        activeProfileId = profile.id
-                                        profileStore.setActiveProfileId(profile.id)
-                                        grade = profile.grade
-                                        statistics = null
-                                        selectedSubjects.clear()
-                                        chapters.clear()
-                                        page = Page.STATS
-                                    },
-                                    modifier = Modifier.testTag("stats-profile-" + profile.id)
-                                ) { Text("Statistik") }
-                                TextButton(
-                                    onClick = {
-                                        editingProfile = profile
-                                        editProfileOpen = true
-                                    },
-                                    modifier = Modifier.testTag("edit-profile-" + profile.id)
-                                ) { Text("Ubah") }
-                            }
-                            Text("›", color = Blue, fontSize = 25.sp,
-                                modifier = Modifier.padding(end = 10.dp))
-                        }
-                    }
-                    if (profileError.isNotBlank()) ErrorMessage(profileError)
-                    Primary("＋ Tambah Profil Siswa", "add-profile") {
-                        editingProfile = null
-                        editProfileOpen = true
-                    }
-                    Secondary("Tentang EDUYASA", "about-btn") { aboutOpen = true }
-                    Spacer(Modifier.height(8.dp))
-                    Text("Profil disimpan hanya di perangkat ini.",
-                        fontSize = 11.sp, color = Muted,
-                        modifier = Modifier.fillMaxWidth(), textAlign = TextAlign.Center)
+                    Spacer(Modifier.height(18.dp))
+                    Text("EDUYASA • Belajar sesuai kelasmu",
+                        color = Muted, fontSize = 11.sp,
+                        textAlign = TextAlign.Center,
+                        modifier = Modifier.fillMaxWidth())
                 }
                 Page.SUBJECTS -> {
                     Text("Belajar bersama " + (activeProfile?.name ?: "Siswa") +
