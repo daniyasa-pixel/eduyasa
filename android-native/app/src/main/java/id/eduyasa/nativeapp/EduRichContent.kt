@@ -2,6 +2,7 @@ package id.eduyasa.nativeapp
 
 import android.content.Context
 import android.os.Trace
+import android.text.Spanned
 import android.util.TypedValue
 import android.widget.TextView
 import androidx.compose.foundation.background
@@ -131,7 +132,8 @@ private val markdownBlock = Regex("""(?m)^\s*(#{1,6}\s+|[-*]\s+|\d+\.\s+)""")
 data class EduPreparedText(
     val raw: String,
     val formatted: String,
-    val rich: Boolean
+    val rich: Boolean,
+    val rendered: Spanned? = null
 )
 
 /** Pure string preparation safe on Dispatchers.Default (no View creation). */
@@ -148,6 +150,31 @@ fun prepareEduText(content: String): EduPreparedText {
     )
 }
 
+/**
+ * The costly Markwon Markdown+LaTeX parse/render phase runs in the quiz
+ * preloader on Dispatchers.Default. Views are still created on the UI thread.
+ * Only the current and next two questions keep their resulting Spanned objects.
+ */
+fun prepareRenderedEduText(
+    context: Context,
+    content: String,
+    sizeSp: Float
+): EduPreparedText {
+    val basic = prepareEduText(content)
+    if (!basic.rich) return basic
+    val px = TypedValue.applyDimension(
+        TypedValue.COMPLEX_UNIT_SP, sizeSp, context.resources.displayMetrics
+    )
+    Trace.beginSection("EDUYASA.PreRenderRichText")
+    return try {
+        basic.copy(
+            rendered = EduMarkwonPool.renderer(context, px).toMarkdown(basic.formatted)
+        )
+    } finally {
+        Trace.endSection()
+    }
+}
+
 @Composable
 fun EduAnswerText(
     content: String,
@@ -161,7 +188,8 @@ fun EduAnswerText(
     if (value.rich) {
         EduRichText(
             content, modifier = modifier, sizeSp = sizeSp,
-            preparedMarkdown = value.formatted
+            preparedMarkdown = value.formatted,
+            preparedSpanned = value.rendered
         )
     } else {
         Text(content, modifier = modifier, fontSize = sizeSp.sp,
@@ -173,6 +201,7 @@ private class EduFormattedTextView(context: Context) : TextView(context) {
     var lastMarkdown: String? = null
     var lastSizeSp: Float = -1f
     var lastTextColor: Int = 0
+    var lastSpanned: Spanned? = null
 }
 
 /**
@@ -205,7 +234,8 @@ fun EduRichText(
     modifier: Modifier = Modifier,
     sizeSp: Float = 15f,
     color: Int = android.graphics.Color.rgb(23, 32, 51),
-    preparedMarkdown: String? = null
+    preparedMarkdown: String? = null,
+    preparedSpanned: Spanned? = null
 ) {
     val context = LocalContext.current
     val latexSize = remember(sizeSp, context) {
@@ -234,16 +264,19 @@ fun EduRichText(
         update = { view ->
             // Selecting another answer must not reparse unchanged Markdown.
             if (view.lastMarkdown != formatted || view.lastSizeSp != sizeSp ||
-                view.lastTextColor != color) {
+                view.lastTextColor != color || view.lastSpanned !== preparedSpanned) {
                 view.setTextSize(TypedValue.COMPLEX_UNIT_SP, sizeSp)
                 view.setTextColor(color)
                 Trace.beginSection("EDUYASA.RenderRichText")
                 try {
-                    markwon.setMarkdown(view, formatted)
+                    if (preparedSpanned != null)
+                        markwon.setParsedMarkdown(view, preparedSpanned)
+                    else markwon.setMarkdown(view, formatted)
                 } finally {
                     Trace.endSection()
                 }
                 view.lastMarkdown = formatted
+                view.lastSpanned = preparedSpanned
                 view.lastSizeSp = sizeSp
                 view.lastTextColor = color
             }
