@@ -50,7 +50,7 @@
         {
           "id": "PAI-B10-Q004",
           "type": "PG",
-          "text": "Apa sifat Uṡman yang dikenal dalam buku?",
+          "text": "Sifat apa yang dikenal sebagai keteladanan Uṡman bin Affan dalam bergaul dan membantu sesama?",
           "options": [
             "Kasar dan pemarah",
             "Sombong dan boros",
@@ -58,7 +58,7 @@
             "Dermawan dan lembut"
           ],
           "answer": "Dermawan dan lembut",
-          "discussion": "Uṡman dikenal sukses berdagang, dermawan, dan lembut kepada sesama."
+          "discussion": "Uṡman bin Affan dikenal dermawan dan bersikap lembut kepada sesama. Ia memanfaatkan hartanya untuk membantu kebutuhan umat."
         },
         {
           "id": "PAI-B10-Q005",
@@ -89,7 +89,7 @@
         {
           "id": "PAI-B10-Q007",
           "type": "PG",
-          "text": "Siapa yang ditugaskan Uṡman untuk memimpin pengumpulan mushaf?",
+          "text": "Siapakah sahabat yang memimpin tim penyalinan mushaf standar atas perintah Khalifah Uṡman bin Affan?",
           "options": [
             "Abu Hurairah",
             "Khalid bin Walid",
@@ -97,7 +97,7 @@
             "Bilal bin Rabah"
           ],
           "answer": "Zaid bin Ṡabit",
-          "discussion": "Uṡman menugaskan Zaid bin Ṡabit dengan bantuan beberapa sahabat."
+          "discussion": "Zaid bin Ṡabit memimpin tim penyalinan mushaf standar pada masa Uṡman, dengan bantuan sahabat lain. Ini berbeda dengan pengumpulan awal lembaran Al-Qur’an pada masa Abu Bakar."
         },
         {
           "id": "PAI-B10-Q008",
@@ -284,7 +284,7 @@
         {
           "id": "PAI-B10-Q022",
           "type": "PG",
-          "text": "Jika seorang siswa dipercaya menjadi ketua kelompok, teladan Ali yang dapat diterapkan adalah ...",
+          "text": "Gambar menunjukkan tiga siswa bermusyawarah bersama sambil mempelajari sebuah buku. Jika seorang siswa dipercaya memimpin kelompok, sikap apa yang sesuai dengan keteladanan Ali bin Abi Ṭalib?",
           "options": [
             "Memilih anggota hanya dari teman dekat",
             "Bersikap adil dan menggunakan pengetahuan untuk kebaikan kelompok",
@@ -292,7 +292,7 @@
             "Menggunakan jabatan untuk memerintah semaunya"
           ],
           "answer": "Bersikap adil dan menggunakan pengetahuan untuk kebaikan kelompok",
-          "discussion": "Keadilan dan ilmu membantu pemimpin menjalankan amanah.",
+          "discussion": "Ilustrasi siswa yang belajar dan bermusyawarah menunjukkan pentingnya ilmu, keadilan, dan mendengarkan masukan anggota saat memimpin kelompok.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q10-team-leadership.svg",
             "alt": "Ilustrasi siswa bermusyawarah dalam kelompok"
@@ -314,7 +314,7 @@
         {
           "id": "PAI-B10-Q024",
           "type": "PG",
-          "text": "Apa perbedaan jasa utama Uṡman dan Ali dalam bab ini?",
+          "text": "Manakah perbandingan jasa dan keteladanan Uṡman bin Affan dan Ali bin Abi Ṭalib yang tepat?",
           "options": [
             "Uṡman menetapkan kalender Hijriah, Ali mengumpulkan mushaf pertama",
             "Uṡman membangun Ka’bah, Ali membangun Masjid Nabawi pertama",
@@ -322,7 +322,7 @@
             "Uṡman menstandardisasi mushaf, sedangkan Ali dikenal dengan kepemimpinan dan keteguhan pada kebenaran"
           ],
           "answer": "Uṡman menstandardisasi mushaf, sedangkan Ali dikenal dengan kepemimpinan dan keteguhan pada kebenaran",
-          "discussion": "Buku menekankan standardisasi mushaf pada Uṡman dan perjuangan Ali dalam masa penuh tantangan."
+          "discussion": "Uṡman dikenal karena penyalinan dan penyebaran mushaf standar ke berbagai wilayah. Ali dikenal berilmu dan teguh memimpin umat di tengah berbagai tantangan. Kedua kontribusi itu berbeda tetapi sama-sama penting dalam sejarah Islam."
         },
         {
           "id": "PAI-B10-Q025",
@@ -392,7 +392,7 @@
         {
           "id": "PAI-B10-Q030",
           "type": "PG",
-          "text": "Apa tujuan mempelajari jasa khalifah Uṡman dan Ali?",
+          "text": "Mengapa kita mempelajari jasa Khalifah Uṡman bin Affan dan Ali bin Abi Ṭalib dalam sejarah Islam?",
           "options": [
             "Sekadar menghafal nama tokoh",
             "Mengenal perjuangan mereka dan menerapkan teladannya dalam kehidupan",
@@ -400,7 +400,7 @@
             "Membandingkan keluarga para khalifah"
           ],
           "answer": "Mengenal perjuangan mereka dan menerapkan teladannya dalam kehidupan",
-          "discussion": "Bab ini bertujuan agar peserta didik memahami jasa dan meneladaninya."
+          "discussion": "Memahami kontribusi kedua khalifah dapat membantu siswa meneladani kedermawanan, keadilan, semangat belajar, dan keteguhan mereka dalam kehidupan sehari-hari."
         }
       ]
     }
