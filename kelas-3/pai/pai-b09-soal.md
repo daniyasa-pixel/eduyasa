@@ -100,7 +100,7 @@
 
 ## Soal 7 — K03-PAI-B09-M01-007
 
-**Pertanyaan:** Dalam tabel kelas, 2 rakaat sebelum Subuh dan 4 rakaat sebelum Asar berada di dua kelompok berbeda. Bagaimana klasifikasinya menurut buku?
+**Pertanyaan:** Dalam pembagian salat rawatib berdasarkan tingkat anjurannya, bagaimana klasifikasi dua rakaat sebelum Subuh dan empat rakaat sebelum Asar?
 
 **Pilihan jawaban:**
 - Keduanya muakkadah
@@ -132,7 +132,7 @@
 
 ## Soal 9 — K03-PAI-B09-M01-009
 
-**Pertanyaan:** Menurut contoh buku, kelompok mana yang semuanya contoh ba'diyah muakkadah?
+**Pertanyaan:** Manakah kelompok yang berisi contoh salat rawatib ba'diyah muakkadah, yaitu salat sunah sangat dianjurkan sesudah salat fardu?
 
 **Pilihan jawaban:**
 - Sebelum Zuhur, sesudah Magrib, dan sebelum Isya
@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-PAI-B09-M01-029
 
-**Pertanyaan:** Kelompokmu ingin belajar rawatib Isya dari dua kartu. Mana pasangan kartu yang sama-sama sesuai dengan contoh buku?
+**Pertanyaan:** Menurut pembagian rawatib yang diajarkan di kelas, mana pasangan keterangan yang tepat untuk salat sunah sebelum dan sesudah fardu Isya?
 
 **Pilihan jawaban:**
 - Sebelum Isya ba'diyah dan sesudah Isya qabliyah
