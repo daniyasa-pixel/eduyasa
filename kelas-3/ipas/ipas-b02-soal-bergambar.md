@@ -58,7 +58,7 @@
 
 ![Catatan taman di tempat yang sama. Dahulu: Tiga pohon dan satu bangku. Kini: Tiga pohon dan tiga bangku. Catatan: Gambar mewakili catatan pengamatan.](assets/ipas-b02-gambar-02.svg)
 
-**Pertanyaan:** Informasi apa yang belum diberikan gambar?
+**Pertanyaan:** Gambar taman menunjukkan dahulu ada tiga pohon dan satu bangku, sedangkan kini ada tiga pohon dan tiga bangku. Informasi apa yang belum bisa dipastikan hanya dari gambar tersebut?
 
 **Pilihan jawaban:**
 - Jumlah bangku dahulu
@@ -112,7 +112,7 @@
 
 ![Dua ingatan tentang jembatan. Sumber A: Jembatan dibuka pada 2010 di Desa Melati. Sumber B: Jembatan dibuka pada 2011 di Desa Melati. Tugas: Bandingkan kedua keterangan.](assets/ipas-b02-gambar-04.svg)
 
-**Pertanyaan:** Bagian keterangan mana yang berbeda?
+**Pertanyaan:** Dua sumber menceritakan pembukaan jembatan yang sama di Desa Melati: sumber A menyebut tahun 2010 dan sumber B tahun 2011. Keterangan bagian apa yang berbeda?
 
 **Pilihan jawaban:**
 - Tahun pembukaan
@@ -130,7 +130,7 @@
 
 ![Dua ingatan tentang jembatan. Sumber A: Jembatan dibuka pada 2010 di Desa Melati. Sumber B: Jembatan dibuka pada 2011 di Desa Melati. Tugas: Bandingkan kedua keterangan.](assets/ipas-b02-gambar-04.svg)
 
-**Pertanyaan:** Apa yang sebaiknya diperiksa melalui sumber tambahan?
+**Pertanyaan:** Dua sumber berbeda menyebut jembatan Desa Melati dibuka tahun 2010 atau 2011. Informasi apa yang perlu diperiksa melalui catatan tambahan agar laporannya akurat?
 
 **Pilihan jawaban:**
 - Nama desa yang sama-sama disebut sebagai perbedaan
@@ -202,7 +202,7 @@
 
 ![Riwayat perjalanan keluarga. 1990: Dalam catatan, Bibi berangkat dengan sepeda. 2010: Dalam catatan, Bibi memakai bus. 2020: Dalam catatan, Bibi memakai kereta.](assets/ipas-b02-gambar-06.svg)
 
-**Pertanyaan:** Kesimpulan mana didukung oleh riwayat ini?
+**Pertanyaan:** Catatan perjalanan Bibi menyebut tahun 1990 naik sepeda, tahun 2010 naik bus, dan tahun 2020 naik kereta. Kesimpulan mana yang didukung oleh tiga catatan tersebut?
 
 **Pilihan jawaban:**
 - Semua orang berhenti memakai sepeda pada 2010
