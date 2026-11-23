@@ -141,7 +141,7 @@
         {
           "id": "PAI-B04-Q011",
           "type": "PG",
-          "text": "Mengapa kita perlu memeriksa bahan makanan olahan?",
+          "text": "Pada gambar tampak keranjang belanja dengan pengingat untuk memeriksa bahan dan cara memperoleh barang. Mengapa kita perlu membaca keterangan bahan makanan olahan sebelum membelinya?",
           "options": [
             "Agar kemasannya terlihat menarik",
             "Agar harga selalu paling mahal",
@@ -149,7 +149,7 @@
             "Agar makanan bisa disimpan selamanya"
           ],
           "answer": "Untuk memastikan bahan dan prosesnya sesuai ketentuan halal",
-          "discussion": "Pemeriksaan bahan dan informasi membantu memilih produk yang halal.",
+          "discussion": "Informasi bahan dan cara pengolahan membantu pembeli menilai kesesuaian makanan dengan ketentuan halal. Bila masih ragu, carilah keterangan dari sumber tepercaya.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q04-halal-choice.svg",
             "alt": "Ilustrasi memilih makanan dan barang dengan cermat"
@@ -218,12 +218,12 @@
             "Memilih yang halal membantu memperoleh kebaikan dan keselamatan"
           ],
           "answer": "Memilih yang halal membantu memperoleh kebaikan dan keselamatan",
-          "discussion": "Materi mengaitkan pilihan halal dengan kebaikan dan keselamatan."
+          "discussion": "Memilih yang halal bukan hanya soal rasa atau harga. Dalam ajaran Islam, mematuhi ketentuan halal merupakan bagian dari upaya meraih kebaikan dan keberkahan."
         },
         {
           "id": "PAI-B04-Q017",
           "type": "PG",
-          "text": "Mengapa membuang sampah ke sungai termasuk tindakan yang dilarang dalam materi?",
+          "text": "Seorang anak membuang sampah plastik ke sungai hingga aliran air terganggu dan lingkungan tercemar. Mengapa tindakan tersebut harus dihindari?",
           "options": [
             "Karena merusak lingkungan dan merugikan makhluk lain",
             "Karena sungai tidak boleh dilihat",
@@ -231,7 +231,7 @@
             "Karena air sungai hanya untuk ikan"
           ],
           "answer": "Karena merusak lingkungan dan merugikan makhluk lain",
-          "discussion": "Buku menggunakan contoh membuang sampah ke sungai sebagai tindakan haram karena merusak."
+          "discussion": "Membuang sampah ke sungai menyebabkan pencemaran dan dapat merugikan masyarakat serta makhluk hidup lain. Menjaga lingkungan merupakan bentuk tanggung jawab."
         },
         {
           "id": "PAI-B04-Q018",
@@ -249,7 +249,7 @@
         {
           "id": "PAI-B04-Q019",
           "type": "PG",
-          "text": "Manakah contoh penerapan hukum halal dalam konsumsi?",
+          "text": "Gambar menunjukkan keranjang belanja dan pengingat untuk memeriksa bahan serta cara memperoleh barang. Manakah tindakan yang sesuai dengan prinsip halal ketika memilih makanan?",
           "options": [
             "Membeli makanan hanya karena iklannya",
             "Mengabaikan keterangan bahan",
@@ -257,7 +257,7 @@
             "Makan apa saja tanpa mempertimbangkan aturan"
           ],
           "answer": "Memilih makanan dengan bahan dan proses yang jelas",
-          "discussion": "Konsumen perlu memperhatikan bahan, proses, dan keterangan produk.",
+          "discussion": "Memilih makanan tidak cukup berdasarkan iklan. Periksa kejelasan bahan, proses pengolahan, serta informasi kehalalan yang dapat dipercaya.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q04-halal-choice.svg",
             "alt": "Ilustrasi memilih makanan halal"
@@ -274,7 +274,7 @@
             "Zat asal melihat bahan, proses melihat cara memperoleh atau mengolahnya"
           ],
           "answer": "Zat asal melihat bahan, proses melihat cara memperoleh atau mengolahnya",
-          "discussion": "Buku membedakan sebab berdasarkan zat asal, sifat asal, dan proses."
+          "discussion": "Zat asal berkaitan dengan jenis bahan yang digunakan. Proses berkaitan dengan cara barang diperoleh atau diolah, sehingga barang yang zatnya boleh digunakan tetap tidak boleh diperoleh dengan cara mencuri."
         },
         {
           "id": "PAI-B04-Q021",
@@ -331,7 +331,7 @@
         {
           "id": "PAI-B04-Q025",
           "type": "PG",
-          "text": "Produk makanan memiliki label halal yang resmi. Apa manfaat informasi tersebut?",
+          "text": "Sebuah produk makanan mencantumkan label halal resmi pada kemasannya. Apa manfaat informasi tersebut bagi konsumen?",
           "options": [
             "Membantu konsumen mengetahui status halal produk",
             "Menjamin makanan pasti paling enak",
@@ -339,7 +339,7 @@
             "Menentukan harga jual produk"
           ],
           "answer": "Membantu konsumen mengetahui status halal produk",
-          "discussion": "Label halal memberi informasi terkait status halal produk."
+          "discussion": "Label halal resmi membantu konsumen memperoleh informasi mengenai status halal produk, bukan jaminan bahwa makanan paling enak, selalu segar, atau tidak pernah basi."
         },
         {
           "id": "PAI-B04-Q026",
