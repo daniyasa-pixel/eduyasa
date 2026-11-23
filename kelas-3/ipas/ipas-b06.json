@@ -505,7 +505,7 @@
         {
           "id": "K03-IPAS-B06-M01-039",
           "type": "PG",
-          "text": "Ketika listrik menyalakan lampu, energi ...",
+          "text": "Ketika lampu belajar mendapat energi listrik, energi listrik terutama berubah menjadi bentuk apa yang dihasilkan lampu?",
           "options": [
             "Diciptakan lampu tanpa masukan apa pun",
             "Seluruhnya berubah menjadi benda baru",
@@ -513,7 +513,7 @@
             "Hilang sehingga tidak mempunyai pengaruh di sekitar"
           ],
           "answer": "Berubah bentuk menjadi cahaya dan panas",
-          "discussion": "Lampu memindahkan dan mengubah bentuk energi yang diterimanya; cahaya serta panas merupakan pengaruh di sekitar."
+          "discussion": "Lampu memakai energi listrik dan mengubahnya terutama menjadi energi cahaya serta sebagian panas. Lampu bukan pembangkit listrik untuk rumah."
         },
         {
           "id": "K03-IPAS-B06-M01-040",
