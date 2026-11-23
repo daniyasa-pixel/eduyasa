@@ -63,7 +63,7 @@
         {
           "id": "SBD-B04-M01-005",
           "type": "PG",
-          "text": "Apa yang perlu dilakukan sebelum memilih simbol untuk karya pribadi?",
+          "text": "Sinta ingin membuat karya yang mewakili kecintaannya pada alam. Sebelum memilih simbol daun, gunung, atau sungai, apa yang perlu ia tentukan?",
           "options": [
             "Menentukan gagasan yang ingin diwakili dan alasan pemilihan simbol",
             "Menganggap arti simbol sama untuk semua orang",
@@ -71,12 +71,12 @@
             "Memilih simbol berdasarkan harga"
           ],
           "answer": "Menentukan gagasan yang ingin diwakili dan alasan pemilihan simbol",
-          "discussion": "Simbol perlu berhubungan dengan gagasan serta dijelaskan sesuai konteks penggunaannya."
+          "discussion": "Sinta perlu menentukan pengalaman atau pesan yang ingin disampaikan, lalu memilih simbol berdasarkan hubungannya dengan gagasan itu. Makna simbol dapat dijelaskan melalui konteks karya."
         },
         {
           "id": "SBD-B04-M01-006",
           "type": "PG",
-          "text": "Bima memakai gambar buku untuk mewakili hobinya membaca. Apa yang membuat simbol itu dapat dipahami?",
+          "text": "Bima suka membaca dan menampilkan gambar buku pada posternya. Ia menambahkan tulisan singkat 'Aku suka membaca cerita'. Mengapa simbol buku dapat dipahami penonton?",
           "options": [
             "Buku selalu berarti hobi yang sama bagi semua orang",
             "Semua simbol tidak membutuhkan konteks",
@@ -84,7 +84,7 @@
             "Hubungan buku dengan kegiatan membaca dijelaskan dalam karyanya"
           ],
           "answer": "Hubungan buku dengan kegiatan membaca dijelaskan dalam karyanya",
-          "discussion": "Konteks visual atau penjelasan pembuat membantu penonton memahami pilihan simbol."
+          "discussion": "Gambar buku berkaitan dengan kegiatan membaca. Tulisan pendek yang dibuat Bima memberi konteks sehingga penonton tidak perlu menebak makna simbol tanpa petunjuk."
         },
         {
           "id": "SBD-B04-M01-007",
@@ -154,7 +154,7 @@
         {
           "id": "SBD-B04-M01-012",
           "type": "PG",
-          "text": "Mengapa tidak semua pengalaman pribadi perlu dibagikan dalam karya?",
+          "text": "Nina ingin membuat kolase tentang pengalaman keluarganya, tetapi ada kisah yang ia tidak nyaman bagikan kepada kelas. Mengapa Nina boleh memilih hanya pengalaman tertentu untuk karyanya?",
           "options": [
             "Karena karya pribadi wajib tanpa makna",
             "Pembuat berhak menjaga hal pribadi dan memilih yang nyaman dibagikan",
@@ -162,7 +162,7 @@
             "Karena semua penonton harus mengetahui seluruh rahasia"
           ],
           "answer": "Pembuat berhak menjaga hal pribadi dan memilih yang nyaman dibagikan",
-          "discussion": "Berkarya dapat tetap bermakna sambil menjaga batas kenyamanan dan privasi."
+          "discussion": "Berkarya tidak mengharuskan siswa membagikan seluruh pengalaman pribadi. Nina berhak memilih cerita yang aman dan nyaman untuk disampaikan serta menjaga privasi keluarganya."
         },
         {
           "id": "SBD-B04-M01-013",
@@ -219,7 +219,7 @@
         {
           "id": "SBD-B04-M01-017",
           "type": "PG",
-          "text": "Mengapa teknik perlu dicoba sebelum diterapkan pada karya akhir?",
+          "text": "Rafi ingin memakai teknik cap daun pada karya akhir. Ia belum tahu seberapa banyak cat yang diperlukan agar bentuk daun terlihat jelas. Mengapa sebaiknya ia melakukan uji coba pada kertas lain?",
           "options": [
             "Agar pembuat memahami hasil dan kesulitan bahannya",
             "Agar semua keputusan tidak perlu dibuat lagi",
@@ -227,7 +227,7 @@
             "Agar alat dapat dipakai tanpa petunjuk"
           ],
           "answer": "Agar pembuat memahami hasil dan kesulitan bahannya",
-          "discussion": "Uji teknik memberi informasi untuk memilih langkah yang sesuai."
+          "discussion": "Percobaan kecil membantu Rafi mengetahui jumlah cat dan tekanan yang sesuai sebelum menerapkan teknik pada karya akhir, sehingga kesalahan dapat diperbaiki tanpa merusak karya utama."
         },
         {
           "id": "SBD-B04-M01-018",
@@ -323,7 +323,7 @@
         {
           "id": "SBD-B04-M01-025",
           "type": "PG",
-          "text": "Danu menggambarkan perjalanan ke perpustakaan. Agar cerita lebih terarah, ia sebaiknya ...",
+          "text": "Danu membuat komik pendek tentang pengalaman pergi ke perpustakaan. Ceritanya memuat terlalu banyak kejadian sehingga pembaca sulit mengenali bagian penting. Apa langkah yang tepat?",
           "options": [
             "Memilih satu momen yang paling ingin disampaikan",
             "Memasukkan semua benda sekolah tanpa memilih",
@@ -331,7 +331,7 @@
             "Mengubah tema setiap kali menambah objek"
           ],
           "answer": "Memilih satu momen yang paling ingin disampaikan",
-          "discussion": "Pemilihan momen memberi batas dan pusat perhatian pada cerita visual."
+          "discussion": "Memilih satu momen utama dapat membuat alur cerita visual lebih terarah. Danu bisa menonjolkan bagian yang paling sesuai dengan pesan yang ingin dibagikannya."
         },
         {
           "id": "SBD-B04-M01-026",
@@ -440,7 +440,7 @@
         {
           "id": "SBD-B04-M01-034",
           "type": "PG",
-          "text": "Mengapa kita tidak boleh menebak kehidupan pribadi pembuat hanya dari satu gambar?",
+          "text": "Pada sebuah karya, terlihat anak naik balon udara. Temannya langsung menyimpulkan bahwa pembuat karya pernah naik balon sungguhan. Mengapa kesimpulan itu tidak dapat dipastikan dari gambar saja?",
           "options": [
             "Setiap gambar selalu tanpa makna",
             "Semua pembuat wajib menjelaskan seluruh rahasia",
@@ -448,7 +448,7 @@
             "Karya dapat bersifat simbolis, imajinatif, atau hanya menampilkan sebagian pengalaman"
           ],
           "answer": "Karya dapat bersifat simbolis, imajinatif, atau hanya menampilkan sebagian pengalaman",
-          "discussion": "Tafsiran karya tidak memberi dasar untuk menetapkan fakta pribadi tentang pembuatnya."
+          "discussion": "Gambar bisa berasal dari imajinasi, simbol, atau pengalaman yang diolah kembali. Kita tidak bisa memastikan kejadian dalam hidup pembuat karya hanya dari satu gambar."
         },
         {
           "id": "SBD-B04-M01-035",
@@ -544,7 +544,7 @@
         {
           "id": "SBD-B04-M01-042",
           "type": "PG",
-          "text": "Mengapa karya tentang hobi tidak harus menggambarkan semua alat hobi tersebut?",
+          "text": "Tika membuat karya tentang kegemarannya bersepeda. Ia hanya menggambar sepeda, jalan, dan pepohonan, bukan setiap peralatan bersepeda yang dimilikinya. Mengapa pilihan itu dapat diterima?",
           "options": [
             "Karena alat tidak pernah dapat digambar",
             "Karena semua karya wajib tanpa objek",
@@ -552,7 +552,7 @@
             "Pembuat dapat memilih unsur yang paling mewakili gagasan"
           ],
           "answer": "Pembuat dapat memilih unsur yang paling mewakili gagasan",
-          "discussion": "Penyederhanaan dan pemilihan unsur membantu pesan lebih terarah."
+          "discussion": "Karya tentang hobi tidak harus memuat seluruh alat. Beberapa unsur penting yang dipilih Tika sudah dapat menjelaskan kegemarannya dan menjaga fokus gambar."
         },
         {
           "id": "SBD-B04-M01-043",
@@ -622,7 +622,7 @@
         {
           "id": "SBD-B04-M01-048",
           "type": "PG",
-          "text": "Saat warna hasil percobaan lebih gelap daripada rencana, siswa dapat ...",
+          "text": "Cat yang dicoba Sari pada kertas uji ternyata lebih gelap daripada yang ia rencanakan untuk poster. Apa langkah yang paling tepat sebelum mengecat bidang poster yang besar?",
           "options": [
             "Menyembunyikan alat teman",
             "Menguji campuran atau teknik lain pada contoh kecil",
@@ -630,7 +630,7 @@
             "Menyatakan semua warna tidak berguna"
           ],
           "answer": "Menguji campuran atau teknik lain pada contoh kecil",
-          "discussion": "Percobaan kecil membantu menyesuaikan hasil sebelum mengubah bagian karya yang luas."
+          "discussion": "Menguji campuran cat atau teknik lain pada kertas kecil membantu Sari mendekati warna yang diinginkan sebelum mengubah bidang besar pada karya akhir."
         },
         {
           "id": "SBD-B04-M01-049",
