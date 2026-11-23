@@ -11,7 +11,7 @@
         {
           "id": "K03-IPAS-B08-M01-001",
           "type": "PG",
-          "text": "Tiga wujud zat yang dipelajari pada bab ini ialah ...",
+          "text": "Manakah tiga wujud zat yang umum dipelajari dalam IPA untuk benda sehari-hari?",
           "options": [
             "Padat, cair, dan gas",
             "Panas, dingin, dan hangat",
@@ -19,7 +19,7 @@
             "Merah, kuning, dan biru"
           ],
           "answer": "Padat, cair, dan gas",
-          "discussion": "Wujud zat dibedakan dari sifat bentuk dan ruang yang ditempati; suhu, ukuran, serta warna bukan nama ketiga wujud itu."
+          "discussion": "Benda yang sering kita jumpai dapat berada dalam wujud padat, cair, atau gas. Wujud menunjukkan keadaan zat, bukan jenis bahannya."
         },
         {
           "id": "K03-IPAS-B08-M01-002",
