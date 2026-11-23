@@ -299,17 +299,21 @@ private fun EduyasaApp() {
     }
 
     Box(Modifier.fillMaxSize()) {
-    Column(
-        Modifier.fillMaxSize().background(Pale)
-            .verticalScroll(quizScroll)
-    ) {
-        EduHeader(
-            grade = grade,
-            home = page == Page.HOME,
-            connection = connected,
-            onOpenMenu = { drawerOpen = true }
-        )
-        Column(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 20.dp)) {
+        // Keep the application header fixed. Only the content below can scroll.
+        // This prevents the title/menu from moving up and down during study.
+        Column(Modifier.fillMaxSize().background(Pale)) {
+            EduHeader(
+                grade = grade,
+                home = page == Page.HOME,
+                connection = connected,
+                onOpenMenu = { drawerOpen = true }
+            )
+            Column(
+                Modifier.weight(1f).fillMaxWidth()
+                    .verticalScroll(quizScroll)
+                    .testTag("page-scroll-content")
+            ) {
+                Column(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 20.dp)) {
             if (page != Page.HOME && page != Page.RESULT && page != Page.STATS) {
                 StepIndicator(when (page) {
                     Page.SUBJECTS -> 1
@@ -979,7 +983,8 @@ private fun EduyasaApp() {
             color = Muted, modifier = Modifier.fillMaxWidth(),
             textAlign = TextAlign.Center)
         Spacer(Modifier.height(18.dp))
-    }
+            } // Scrollable body
+        } // Fixed header container
 
     AnimatedVisibility(
         visible = drawerOpen,
