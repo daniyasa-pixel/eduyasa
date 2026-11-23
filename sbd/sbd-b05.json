@@ -76,7 +76,7 @@
         {
           "id": "SBD-B05-M01-006",
           "type": "PG",
-          "text": "Informasi dasar pada label karya dapat berupa ...",
+          "text": "Panitia akan memasang label pada lukisan siswa di pameran kelas. Informasi apa yang paling tepat dicantumkan agar karya dikenali tanpa membuka data pribadi yang tidak perlu?",
           "options": [
             "Alamat rumah lengkap dan nomor pribadi siswa",
             "Rahasia keluarga pembuat",
@@ -84,7 +84,7 @@
             "Judul, nama pembuat yang disepakati, bahan, dan penjelasan singkat"
           ],
           "answer": "Judul, nama pembuat yang disepakati, bahan, dan penjelasan singkat",
-          "discussion": "Informasi dipilih untuk memahami karya tanpa membuka data sensitif."
+          "discussion": "Label dapat memuat judul, nama pembuat yang disepakati, bahan, serta penjelasan singkat. Alamat rumah, nomor telepon, dan informasi sensitif siswa tidak diperlukan."
         },
         {
           "id": "SBD-B05-M01-007",
@@ -154,7 +154,7 @@
         {
           "id": "SBD-B05-M01-012",
           "type": "PG",
-          "text": "Apa fungsi denah pameran sederhana?",
+          "text": "Kelas 6 akan mengadakan pameran di aula. Panitia perlu merencanakan letak pajangan, jalan pengunjung, dan pintu keluar sebelum menata karya. Apa fungsi denah sederhana?",
           "options": [
             "Membuat meja tidak perlu diperiksa",
             "Merencanakan lokasi karya, jalur, dan fasilitas",
@@ -162,7 +162,7 @@
             "Menentukan sifat semua pengunjung"
           ],
           "answer": "Merencanakan lokasi karya, jalur, dan fasilitas",
-          "discussion": "Denah membantu menilai hubungan ruang sebelum penataan dilakukan."
+          "discussion": "Denah membantu panitia merencanakan posisi karya, ruang berjalan, dan fasilitas supaya pengunjung dapat bergerak dengan aman dan nyaman."
         },
         {
           "id": "SBD-B05-M01-013",
@@ -180,7 +180,7 @@
         {
           "id": "SBD-B05-M01-014",
           "type": "PG",
-          "text": "Apa yang perlu diperiksa sebelum pameran dibuka?",
+          "text": "Besok pameran karya seni kelas akan dibuka. Meja dan karya sudah tertata, tetapi panitia belum melakukan pemeriksaan akhir. Hal apa yang paling perlu mereka periksa?",
           "options": [
             "Hanya warna pakaian panitia",
             "Jumlah barang mahal di ruangan",
@@ -188,7 +188,7 @@
             "Kestabilan pajangan, label, kebersihan, dan akses keluar"
           ],
           "answer": "Kestabilan pajangan, label, kebersihan, dan akses keluar",
-          "discussion": "Pemeriksaan akhir memastikan informasi dan pengaturan ruang bekerja dengan aman."
+          "discussion": "Sebelum pameran dibuka, periksa kestabilan pajangan, kecocokan label dengan karya, kebersihan, dan jalur keluar yang tidak terhalang."
         },
         {
           "id": "SBD-B05-M01-015",
@@ -258,7 +258,7 @@
         {
           "id": "SBD-B05-M01-020",
           "type": "PG",
-          "text": "Apa fungsi buku atau kartu tanggapan?",
+          "text": "Pengunjung menulis saran tentang label yang sulit dibaca pada kartu tanggapan setelah melihat pameran karya siswa. Apa manfaat mengumpulkan kartu tersebut?",
           "options": [
             "Menentukan siswa paling berharga",
             "Mengumpulkan masukan untuk refleksi pembuat dan panitia",
@@ -266,7 +266,7 @@
             "Mencatat rahasia pribadi pengunjung"
           ],
           "answer": "Mengumpulkan masukan untuk refleksi pembuat dan panitia",
-          "discussion": "Masukan dapat membantu menilai pengalaman pameran dan merencanakan perbaikan."
+          "discussion": "Kartu tanggapan membantu panitia mengetahui pengalaman pengunjung dan memilih perbaikan nyata, misalnya memperbesar tulisan label pada pameran berikutnya."
         },
         {
           "id": "SBD-B05-M01-021",
@@ -323,7 +323,7 @@
         {
           "id": "SBD-B05-M01-025",
           "type": "PG",
-          "text": "Apa manfaat uji coba jalur sebelum pembukaan?",
+          "text": "Sebelum pameran dibuka, panitia mencoba berjalan dari pintu masuk melewati setiap pajangan hingga pintu keluar seperti pengunjung. Mengapa uji coba jalur ini berguna?",
           "options": [
             "Menemukan bagian sempit atau informasi yang sulit dilihat",
             "Menjamin tidak pernah ada perubahan pengunjung",
@@ -331,7 +331,7 @@
             "Membuat semua karya harus dipindahkan"
           ],
           "answer": "Menemukan bagian sempit atau informasi yang sulit dilihat",
-          "discussion": "Simulasi kunjungan membantu menemukan hambatan dari sudut pandang pengunjung."
+          "discussion": "Simulasi berjalan mengikuti jalur pengunjung dapat menemukan bagian sempit, pajangan yang sulit dilihat, atau informasi yang tidak terbaca sebelum acara dimulai."
         },
         {
           "id": "SBD-B05-M01-026",
@@ -362,7 +362,7 @@
         {
           "id": "SBD-B05-M01-028",
           "type": "PG",
-          "text": "Panitia menemukan kabel melintang di jalur. Tindakan yang tepat adalah ...",
+          "text": "Saat menata pameran, panitia melihat kabel listrik melintang di jalan pengunjung. Apa tindakan paling aman yang dapat dilakukan siswa?",
           "options": [
             "Meminta pengunjung melompatinya terus-menerus",
             "Melaporkan kepada guru dan mengatur ulang jalur atau kabel dengan aman",
@@ -370,7 +370,7 @@
             "Menutup kabel dengan karya rapuh"
           ],
           "answer": "Melaporkan kepada guru dan mengatur ulang jalur atau kabel dengan aman",
-          "discussion": "Hambatan di lantai berisiko membuat orang tersandung dan perlu ditangani secara aman."
+          "discussion": "Kabel melintang dapat membuat pengunjung tersandung. Siswa perlu memberi tahu guru dan menjauhi area berbahaya agar orang dewasa menata ulang kabel atau jalur dengan aman."
         },
         {
           "id": "SBD-B05-M01-029",
@@ -479,7 +479,7 @@
         {
           "id": "SBD-B05-M01-037",
           "type": "PG",
-          "text": "Apa yang perlu dilakukan ketika karya pengunjung ingin disentuh tetapi rapuh?",
+          "text": "Sebuah patung tanah liat di pameran masih rapuh. Seorang pengunjung ingin menyentuh permukaannya agar tahu teksturnya. Bagaimana sebaiknya panitia menanggapinya?",
           "options": [
             "Menjelaskan aturan dan menyediakan cara pengamatan yang aman",
             "Membiarkan semua bagian ditarik",
@@ -487,7 +487,7 @@
             "Menyuruh pengunjung menebak kekuatannya"
           ],
           "answer": "Menjelaskan aturan dan menyediakan cara pengamatan yang aman",
-          "discussion": "Aturan dan alternatif pengamatan melindungi karya sekaligus membantu pengunjung."
+          "discussion": "Panitia perlu menjelaskan aturan tidak menyentuh karya yang rapuh dan dapat menawarkan cara pengamatan yang tidak merusak, seperti melihat dari dekat tanpa menyentuh atau menggunakan contoh bahan yang aman."
         },
         {
           "id": "SBD-B05-M01-038",
@@ -635,7 +635,7 @@
         {
           "id": "SBD-B05-M01-049",
           "type": "PG",
-          "text": "Pertanyaan evaluasi yang sesuai tujuan belajar adalah ...",
+          "text": "Setelah pameran, panitia ingin menilai apakah kegiatan benar-benar membantu siswa dan pengunjung belajar seni. Pertanyaan evaluasi apa yang paling sesuai?",
           "options": [
             "Apakah pengunjung memahami karya dan apakah pembuat dapat menjelaskan prosesnya?",
             "Siapa yang mempunyai alat paling mahal?",
@@ -643,7 +643,7 @@
             "Apakah semua orang memiliki warna favorit yang sama?"
           ],
           "answer": "Apakah pengunjung memahami karya dan apakah pembuat dapat menjelaskan prosesnya?",
-          "discussion": "Evaluasi berfokus pada komunikasi, apresiasi, partisipasi, dan hasil belajar."
+          "discussion": "Keberhasilan pameran tidak hanya dihitung dari jumlah pengunjung. Pemahaman terhadap karya dan kemampuan pembuat menjelaskan prosesnya menunjukkan manfaat pembelajaran."
         },
         {
           "id": "SBD-B05-M01-050",
