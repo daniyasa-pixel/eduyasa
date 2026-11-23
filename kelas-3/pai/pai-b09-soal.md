@@ -452,7 +452,7 @@
 
 ## Soal 29 — K03-PAI-B09-M01-029
 
-**Pertanyaan:** Menurut pembagian rawatib yang diajarkan di kelas, mana pasangan keterangan yang tepat untuk salat sunah sebelum dan sesudah fardu Isya?
+**Pertanyaan:** Untuk salat sunah rawatib dua rakaat sebelum dan dua rakaat sesudah fardu Isya, manakah pasangan klasifikasi yang tepat?
 
 **Pilihan jawaban:**
 - Sebelum Isya ba'diyah dan sesudah Isya qabliyah
