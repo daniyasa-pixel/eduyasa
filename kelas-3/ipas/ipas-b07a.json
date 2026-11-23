@@ -164,7 +164,7 @@
         {
           "id": "K03-IPAS-B07-M01-060",
           "type": "PG",
-          "text": "Pernyataan yang didukung gambar ialah ...",
+          "text": "Legenda denah menyatakan persegi biru berarti sekolah dan lingkaran jingga berarti pasar. Jalur dari Mulai melewati persegi biru lebih dahulu, lalu lingkaran jingga. Pernyataan mana sesuai dengan jalur itu?",
           "options": [
             "Jalur pasti menaiki bukit",
             "Semua persegi pada semua denah berarti sekolah",
@@ -232,7 +232,7 @@
         {
           "id": "K03-IPAS-B07-M01-064",
           "type": "PG",
-          "text": "Kesimpulan yang tepat tentang perbedaan kedua catatan ialah ...",
+          "text": "Denah pekan lalu mencatat jalan utara terbuka, tetapi pemberitahuan hari ini menyatakan jalan itu ditutup untuk perbaikan. Kesimpulan apa yang tepat berdasarkan dua informasi tersebut?",
           "options": [
             "Utara berubah menjadi selatan",
             "Semua denah pasti tidak berguna",
@@ -334,7 +334,7 @@
         {
           "id": "K03-IPAS-B07-M01-070",
           "type": "PG",
-          "text": "Bagian apa yang perlu diperjelas pada C?",
+          "text": "Pada kartu petunjuk C tertulis 'mulai dari gerbang, berjalan sampai tempat yang bagus' tanpa menyebut arah maupun tujuan pasti. Bagian apa yang perlu diperjelas agar rute dapat diikuti?",
           "options": [
             "Warna buku di perpustakaan",
             "Tujuan yang dimaksud dengan tempat yang bagus dan rutenya",
