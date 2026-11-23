@@ -148,7 +148,7 @@
 
 ![Toko A satu buku tulis 40 halaman Rp4.000. Toko B satu buku tulis 40 halaman Rp3.500. Jenis, ukuran, kualitas buku sama dan biaya perjalanan diabaikan.](assets/ipas-b05-gambar-05.svg)
 
-**Pertanyaan:** Berdasarkan data itu, toko mana memerlukan biaya beli satu buku lebih kecil?
+**Pertanyaan:** Gambar daftar harga menunjukkan buku tulis sejenis: toko A Rp4.000 dan toko B Rp3.500 per buku, dengan biaya perjalanan diabaikan. Toko mana lebih murah untuk membeli satu buku?
 
 **Pilihan jawaban:**
 - A
@@ -166,7 +166,7 @@
 
 ![Toko A satu buku tulis 40 halaman Rp4.000. Toko B satu buku tulis 40 halaman Rp3.500. Jenis, ukuran, kualitas buku sama dan biaya perjalanan diabaikan.](assets/ipas-b05-gambar-05.svg)
 
-**Pertanyaan:** Selisih harga satu buku di dua toko itu ialah ...
+**Pertanyaan:** Daftar harga memperlihatkan satu buku tulis sejenis seharga Rp4.000 di toko A dan Rp3.500 di toko B. Berapa selisih harga per bukunya?
 
 **Pilihan jawaban:**
 - $\text{Rp}1.500$
@@ -184,7 +184,7 @@
 
 ![Catatan belanja: buku Rp4.000, pensil Rp2.000, total tertulis Rp7.000. Tidak ada biaya lain.](assets/ipas-b05-gambar-06.svg)
 
-**Pertanyaan:** Bagian mana perlu diperbaiki pada catatan?
+**Pertanyaan:** Pada catatan belanja tertera buku Rp4.000, pensil Rp2.000, dan total tertulis Rp7.000 tanpa biaya tambahan. Kesalahan apa yang harus diperbaiki?
 
 **Pilihan jawaban:**
 - Total seharusnya $\text{Rp}6.000$
@@ -202,7 +202,7 @@
 
 ![Catatan belanja: buku Rp4.000, pensil Rp2.000, total tertulis Rp7.000. Tidak ada biaya lain.](assets/ipas-b05-gambar-06.svg)
 
-**Pertanyaan:** Jika menemukan catatan seperti ini saat berbelanja, tindakan yang membantu ialah ...
+**Pertanyaan:** Struk menunjukkan buku Rp4.000 ditambah pensil Rp2.000 tetapi total tertulis Rp7.000. Jika menemukan selisih penjumlahan seperti itu, apa tindakan yang tepat saat berbelanja?
 
 **Pilihan jawaban:**
 - Menganggap angka total selalu benar meski berbeda
