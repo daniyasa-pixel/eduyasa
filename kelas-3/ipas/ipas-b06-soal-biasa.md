@@ -610,7 +610,7 @@
 
 ## Soal 39 — K03-IPAS-B06-M01-039
 
-**Pertanyaan:** Ketika listrik menyalakan lampu, energi ...
+**Pertanyaan:** Ketika lampu belajar mendapat energi listrik, energi listrik terutama berubah menjadi bentuk apa yang dihasilkan lampu?
 
 **Pilihan jawaban:**
 - Diciptakan lampu tanpa masukan apa pun
@@ -620,7 +620,7 @@
 
 **Kunci Jawaban:** Berubah bentuk menjadi cahaya dan panas
 
-**Pembahasan:** Lampu memindahkan dan mengubah bentuk energi yang diterimanya; cahaya serta panas merupakan pengaruh di sekitar.
+**Pembahasan:** Lampu memakai energi listrik dan mengubahnya terutama menjadi energi cahaya serta sebagian panas. Lampu bukan pembangkit listrik untuk rumah.
 
 ---
 
