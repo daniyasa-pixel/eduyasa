@@ -18,6 +18,8 @@ import androidx.compose.animation.slideOutHorizontally
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.interaction.MutableInteractionSource
+import androidx.compose.foundation.interaction.collectIsPressedAsState
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -135,6 +137,7 @@ private fun EduyasaApp() {
     var reportOpen by remember { mutableStateOf(false) }
     var leaveOpen by remember { mutableStateOf(false) }
     var zoomImage by remember { mutableStateOf<String?>(null) }
+    val quizScroll = rememberScrollState()
     val audioEngine = rememberEduAudioPlayer()
     val subjects = catalog[grade].orEmpty()
 
@@ -271,8 +274,10 @@ private fun EduyasaApp() {
         if (grade == 3 || grade == 6) connected = EduyasaRepository.checkConnection(grade)
     }
     LaunchedEffect(page, qIndex) {
-        // Stop listening if student leaves a question or opens another page.
+        // A long explanation can leave the screen scrolled down after Next.
+        // Always display the new question from the top.
         audioEngine.stop()
+        if (page == Page.QUIZ) quizScroll.scrollTo(0)
     }
     LaunchedEffect(page, activeProfileId, savedRevision) {
         val profileId = activeProfileId
@@ -296,7 +301,7 @@ private fun EduyasaApp() {
     Box(Modifier.fillMaxSize()) {
     Column(
         Modifier.fillMaxSize().background(Pale)
-            .verticalScroll(rememberScrollState())
+            .verticalScroll(quizScroll)
     ) {
         EduHeader(
             grade = grade,
@@ -693,8 +698,13 @@ private fun EduyasaApp() {
                                     isSelected -> Blue
                                     else -> Line
                                 }
+                                val touchSource = remember(q.id, i) {
+                                    MutableInteractionSource()
+                                }
+                                val isPressed by touchSource.collectIsPressedAsState()
                                 val animatedBackground by animateColorAsState(
-                                    targetValue = bg, animationSpec = tween(260),
+                                    targetValue = bg,
+                                    animationSpec = tween(if (checked) 210 else 100),
                                     label = "answer-background"
                                 )
                                 val animatedBorder by animateColorAsState(
@@ -702,15 +712,24 @@ private fun EduyasaApp() {
                                     label = "answer-border"
                                 )
                                 val scale by animateFloatAsState(
-                                    targetValue = if (isCorrect) 1.012f
-                                        else if (isWrong) .988f else 1f,
-                                    animationSpec = tween(240), label = "answer-scale"
+                                    targetValue = when {
+                                        isPressed && !checked -> .975f
+                                        isCorrect -> 1.012f
+                                        isWrong -> .988f
+                                        else -> 1f
+                                    },
+                                    animationSpec = tween(if (isPressed) 70 else 150),
+                                    label = "answer-scale"
                                 )
+                                // Clickable Material Surface provides immediate ripple feedback
+                                // and a single full-width touch target including the text.
                                 Surface(
+                                    onClick = { selected = option },
+                                    enabled = !checked,
+                                    interactionSource = touchSource,
                                     modifier = Modifier.fillMaxWidth().padding(bottom = 10.dp)
                                         .graphicsLayer(scaleX = scale, scaleY = scale)
-                                        .testTag("option-" + "ABCD"[i])
-                                        .clickable(enabled = !checked) { selected = option },
+                                        .testTag("option-" + "ABCD"[i]),
                                     shape = RoundedCornerShape(12.dp),
                                     color = animatedBackground,
                                     border = BorderStroke(2.dp, animatedBorder)
@@ -719,7 +738,7 @@ private fun EduyasaApp() {
                                         verticalAlignment = Alignment.CenterVertically) {
                                         Text("ABCD"[i].toString() + ". ",
                                             fontWeight = FontWeight.Bold, fontSize = 14.sp)
-                                        EduRichText(option, sizeSp = 14f,
+                                        EduAnswerText(option,
                                             modifier = Modifier.weight(1f))
                                         if (isCorrect) Text(" ✓", fontWeight = FontWeight.Bold,
                                             color = Green, fontSize = 19.sp)
