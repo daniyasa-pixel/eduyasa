@@ -50,7 +50,7 @@
         {
           "id": "K03-PAI-B01-M01-004",
           "type": "PG",
-          "text": "Dalam pelajaran ini siswa membaca bagian awal Surah Al-'Alaq. Bagian awal yang dikenal sebagai wahyu pertama terdiri atas ....",
+          "text": "Berapa ayat pertama Surah Al-'Alaq yang dikenal sebagai wahyu pertama yang diterima Nabi Muhammad saw.?",
           "options": [
             "3 ayat",
             "4 ayat",
@@ -154,7 +154,7 @@
         {
           "id": "K03-PAI-B01-M01-012",
           "type": "PG",
-          "text": "Kata عَلَقٍ dalam bagian yang sedang dipelajari ada pada ayat berapa?",
+          "text": "Kata عَلَقٍ yang menjadi asal nama Surah Al-'Alaq terdapat pada ayat berapa dalam lima ayat pertama surah tersebut?",
           "options": [
             "Ayat 1",
             "Ayat 3",
@@ -167,7 +167,7 @@
         {
           "id": "K03-PAI-B01-M01-013",
           "type": "PG",
-          "text": "Ayat mana yang menyandingkan perintah membaca dengan penyebutan Tuhan Yang Mahamulia?",
+          "text": "Dalam Surah Al-'Alaq ayat 1–5, ayat mana yang menyebut perintah membaca sekaligus Tuhan Yang Mahamulia?",
           "options": [
             "Ayat 3",
             "Ayat 1",
@@ -180,7 +180,7 @@
         {
           "id": "K03-PAI-B01-M01-014",
           "type": "PG",
-          "text": "Apa yang diajarkan Allah kepada manusia menurut ayat 5?",
+          "text": "Menurut Surah Al-'Alaq ayat 5, apa yang Allah ajarkan kepada manusia?",
           "options": [
             "Hanya cara memakai pena",
             "Apa yang sebelumnya tidak ia ketahui",
@@ -193,7 +193,7 @@
         {
           "id": "K03-PAI-B01-M01-015",
           "type": "PG",
-          "text": "Catatan kelompok menaruh pesan tentang pena sebelum pesan tentang Tuhan Yang Mahamulia. Apa perbaikan urutannya?",
+          "text": "Pada lima ayat pertama Surah Al-'Alaq, seorang siswa menulis pesan tentang pena sebelum pesan tentang Tuhan Yang Mahamulia. Bagaimana urutan catatan itu seharusnya?",
           "options": [
             "Pesan tentang pena lalu pesan penciptaan manusia",
             "Pesan tentang pena lalu perintah pertama membaca",
@@ -201,7 +201,7 @@
             "Kedua pesan digabung sebagai isi ayat 2"
           ],
           "answer": "Pesan tentang Tuhan Yang Mahamulia lalu pesan tentang pena",
-          "discussion": "Penyebutan Tuhan Yang Mahamulia ada pada ayat 3 dan pena pada ayat 4."
+          "discussion": "Surah Al-'Alaq ayat 3 menghubungkan membaca dengan Tuhan Yang Mahamulia, sedangkan ayat 4 menyebut pengajaran dengan pena. Jadi pesan tentang Tuhan Yang Mahamulia diletakkan lebih dahulu."
         },
         {
           "id": "K03-PAI-B01-M01-016",
@@ -349,7 +349,7 @@
         {
           "id": "K03-PAI-B01-M01-027",
           "type": "PG",
-          "text": "Temanmu hafal lima ayat, tetapi belum bisa menceritakan maknanya. Latihan mana yang membantunya memahami pesan ayat 4?",
+          "text": "Temanmu hafal lima ayat pertama Surah Al-'Alaq, tetapi belum dapat menjelaskan pesan ayat 4 tentang pena. Latihan mana yang membantunya memahami makna ayat itu?",
           "options": [
             "Hitung jumlah kata tanpa melihat maknanya",
             "Sebutkan nomor surah berulang kali",
