@@ -148,7 +148,7 @@
 
 ![Hasil hari keempat: empat biji kacang hijau tiap wadah. P kapas kering: nol berkecambah; Q kapas lembap: empat; R tergenang: satu. Jenis biji, suhu, tempat, dan waktu sama.](assets/ipas-b04-gambar-05.svg)
 
-**Pertanyaan:** Wadah mana mempunyai paling banyak biji berkecambah pada catatan itu?
+**Pertanyaan:** Catatan percobaan kecambah hari keempat menunjukkan: P pada kapas kering tidak tumbuh, Q pada kapas lembap tumbuh empat biji, dan R yang tergenang tumbuh satu biji. Wadah mana memiliki biji berkecambah paling banyak?
 
 **Pilihan jawaban:**
 - P
@@ -166,7 +166,7 @@
 
 ![Hasil hari keempat: empat biji kacang hijau tiap wadah. P kapas kering: nol berkecambah; Q kapas lembap: empat; R tergenang: satu. Jenis biji, suhu, tempat, dan waktu sama.](assets/ipas-b04-gambar-05.svg)
 
-**Pertanyaan:** Kesimpulan mana melampaui hasil percobaan yang ditampilkan?
+**Pertanyaan:** Dalam percobaan empat biji kacang hijau per wadah, kapas kering menghasilkan nol kecambah, kapas lembap empat, dan wadah tergenang satu. Kesimpulan mana yang terlalu luas untuk dibuktikan dari percobaan kecil ini?
 
 **Pilihan jawaban:**
 - Pada pengamatan ini hasil P dan Q berbeda
@@ -184,7 +184,7 @@
 
 ![Dua tanaman kacang hijau sejenis dan seumur, air serta media sama. A dekat jendela, lebih pendek, hijau dan tegak. B dalam lemari gelap, lebih panjang, pucat dan lemah.](assets/ipas-b04-gambar-06.svg)
 
-**Pertanyaan:** Kesimpulan yang didukung perbandingan dua tanaman ialah ...
+**Pertanyaan:** Catatan membandingkan dua tanaman kacang hijau seumur: A dekat jendela berwarna hijau dan tegak, sedangkan B di tempat gelap tumbuh lebih panjang tetapi pucat dan lemah. Kesimpulan apa yang didukung data itu?
 
 **Pilihan jawaban:**
 - Tanaman yang lebih panjang belum tentu lebih sehat
@@ -202,7 +202,7 @@
 
 ![Dua tanaman kacang hijau sejenis dan seumur, air serta media sama. A dekat jendela, lebih pendek, hijau dan tegak. B dalam lemari gelap, lebih panjang, pucat dan lemah.](assets/ipas-b04-gambar-06.svg)
 
-**Pertanyaan:** Untuk membantu tanaman B, perubahan tempat yang sesuai ialah ...
+**Pertanyaan:** Tanaman kacang hijau B pada gambar tumbuh panjang tetapi pucat dan lemah setelah disimpan di lemari gelap. Apa perubahan tempat yang sesuai untuk membantunya?
 
 **Pilihan jawaban:**
 - Tetap dalam lemari gelap selamanya
