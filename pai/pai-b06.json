@@ -154,7 +154,7 @@
         {
           "id": "PAI-B06-Q012",
           "type": "PG",
-          "text": "Bagaimana cara berlatih membaca ayat dengan benar?",
+          "text": "Gambar menampilkan mushaf terbuka sebagai pengingat untuk belajar membaca Al-Qur’an. Bagaimana cara berlatih membaca Surah Al-A’la dengan makhraj dan tajwid yang benar?",
           "options": [
             "Membaca cepat tanpa menyimak",
             "Menghafal terjemahan saja",
@@ -162,7 +162,7 @@
             "Mendengarkan contoh guru lalu membaca berulang dengan teliti"
           ],
           "answer": "Mendengarkan contoh guru lalu membaca berulang dengan teliti",
-          "discussion": "Latihan dengan bimbingan guru membantu ketepatan bacaan.",
+          "discussion": "Mushaf tepercaya digunakan sebagai rujukan. Siswa dapat mendengarkan contoh bacaan guru, berlatih perlahan, dan mengulang bagian yang belum tepat agar makhraj serta tajwidnya lebih baik.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q06-quran-learning.svg",
             "alt": "Ilustrasi belajar membaca Al-Qur’an"
@@ -197,7 +197,7 @@
         {
           "id": "PAI-B06-Q015",
           "type": "PG",
-          "text": "Apa tujuan menulis Surah Al-A’la dalam pembelajaran?",
+          "text": "Ilustrasi menampilkan mushaf terbuka sebagai sumber teks Al-Qur’an. Apa tujuan berlatih menyalin ayat Surah Al-A’la dengan teliti dari sumber tepercaya?",
           "options": [
             "Mengubah ayat menjadi kalimat sendiri",
             "Mengurangi jumlah ayat",
@@ -205,7 +205,7 @@
             "Mengganti teks Arab dengan simbol"
           ],
           "answer": "Melatih ketelitian menyalin huruf dan urutan ayat dengan benar",
-          "discussion": "Menulis melatih ketelitian dan kemampuan mengenali bentuk huruf.",
+          "discussion": "Menyalin ayat dari mushaf yang benar melatih ketelitian bentuk huruf, harakat, dan urutan lafaz sehingga tidak berubah.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/pai/assets/q06-quran-learning.svg",
             "alt": "Ilustrasi menyalin ayat dari mushaf"
@@ -339,12 +339,12 @@
             "Agar cepat mendapat pujian"
           ],
           "answer": "Menjaga ketepatan ayat dan membantu mengamalkan pesannya",
-          "discussion": "Hafalan yang benar menjaga bacaan dan memudahkan pengamalan."
+          "discussion": "Menghafal dengan pelafalan yang benar membantu menjaga ketepatan ayat. Setelah menghafal, siswa juga dapat mempelajari pesan surah dan berupaya menerapkannya dalam keseharian."
         },
         {
           "id": "PAI-B06-Q026",
           "type": "PG",
-          "text": "Jika seorang siswa hanya mengejar nilai tetapi mengabaikan salat, pesan surah yang perlu diingat adalah ...",
+          "text": "Seorang siswa rajin belajar agar memperoleh nilai baik, tetapi ia sengaja menunda dan mengabaikan salat demi bermain serta mengejar pujian. Pesan apa dari Surah Al-A’la yang perlu diingatnya?",
           "options": [
             "Nilai sekolah tidak boleh diperoleh",
             "Akhirat lebih baik dan lebih kekal daripada dunia",
@@ -352,7 +352,7 @@
             "Semua kegiatan dunia dilarang"
           ],
           "answer": "Akhirat lebih baik dan lebih kekal daripada dunia",
-          "discussion": "Surah mengingatkan agar tidak mengutamakan dunia dan melupakan akhirat."
+          "discussion": "Surah Al-A’la mengingatkan bahwa akhirat lebih baik dan lebih kekal daripada dunia. Belajar adalah kegiatan baik, tetapi tidak semestinya menjadi alasan untuk sengaja meninggalkan ibadah."
         },
         {
           "id": "PAI-B06-Q027",
