@@ -806,7 +806,7 @@ private fun EduyasaApp() {
                                 if (nextFailure != null) {
                                     ErrorMessage("Persiapan soal berikutnya gagal: " + nextFailure)
                                     Primary("COBA LAGI", "quiz-next-retry") {
-                                        quizPreloader.retry(scope, quiz, qIndex + 1)
+                                        quizPreloader.retry(scope, quiz, qIndex + 1, qIndex)
                                     }
                                 } else {
                                     Row(Modifier.fillMaxWidth()
