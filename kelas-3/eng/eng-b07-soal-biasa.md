@@ -482,7 +482,7 @@
 
 ## Soal 31 — K03-ENG-B07-M01-031
 
-**Pertanyaan:** A classroom is outside and directly behind the office building, not inside it. Which sentence describes the classroom’s position?
+**Pertanyaan:** A classroom is in a separate building immediately behind the school office. From the front gate, the office blocks the view of that classroom. Which sentence describes its position?
 
 **Pilihan jawaban:**
 - The room is behind the office.
@@ -492,7 +492,7 @@
 
 **Kunci Jawaban:** The room is behind the office.
 
-**Pembahasan:** “Behind the office” places the room at the rear of the office building, rather than inside or in front of it.
+**Pembahasan:** The classroom is located behind the office building, so “The room is behind the office” is the correct sentence. It is not inside the office.
 
 ---
 
