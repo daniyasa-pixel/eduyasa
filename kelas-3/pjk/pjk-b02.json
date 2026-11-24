@@ -11,457 +11,457 @@
         {
           "id": "K03-PJK-B02-M01-001",
           "type": "PG",
-          "text": "Saat pemanasan, Dini mencondongkan badan perlahan ke depan tanpa melangkah. Gerak itu disebut ....",
+          "text": "Gerak nonlokomotor adalah gerak yang ....",
           "options": [
-            "membungkuk",
-            "berlari",
-            "melompat jauh",
-            "menendang bola"
+            "dilakukan tanpa perpindahan tempat utama",
+            "selalu membuat tubuh berlari jauh",
+            "hanya memakai bola",
+            "hanya dilakukan di air"
           ],
-          "answer": "membungkuk",
-          "discussion": "Membungkuk adalah gerak nonlokomotor karena posisi utama tidak berpindah."
+          "answer": "dilakukan tanpa perpindahan tempat utama",
+          "discussion": "Pada gerak nonlokomotor, anggota tubuh bergerak sementara posisi utama tubuh tetap di tempat."
         },
         {
           "id": "K03-PJK-B02-M01-002",
           "type": "PG",
-          "text": "Arif berdiri di tempat lalu mengubah arah hadap tubuhnya. Gerak apa yang dilakukan?",
+          "text": "Manakah contoh gerak nonlokomotor?",
           "options": [
-            "berjalan maju",
-            "memutar badan",
-            "melempar bola",
-            "lari zig-zag"
+            "berlari menuju garis akhir",
+            "berjalan mengelilingi lapangan",
+            "mengayunkan lengan sambil berdiri di titik yang sama",
+            "melompat melewati parit"
           ],
-          "answer": "memutar badan",
-          "discussion": "Memutar badan mengubah orientasi tubuh tanpa perpindahan tempat utama."
+          "answer": "mengayunkan lengan sambil berdiri di titik yang sama",
+          "discussion": "Ayunan lengan dilakukan di tempat sehingga termasuk nonlokomotor."
         },
         {
           "id": "K03-PJK-B02-M01-003",
           "type": "PG",
-          "text": "Guru meminta siswa menggerakkan lengan ke depan dan belakang perlahan. Gerak tersebut adalah ....",
+          "text": "Guru meminta lengan bergerak ke atas, ke samping, ke belakang, lalu ke bawah. Gerak utama yang dilakukan adalah ....",
           "options": [
-            "melompat",
-            "menendang",
             "mengayun lengan",
-            "berlari"
+            "berlari zig-zag",
+            "menendang bola",
+            "meloncat dua kaki"
           ],
           "answer": "mengayun lengan",
-          "discussion": "Ayunan lengan dilakukan secara terkontrol di tempat."
+          "discussion": "Arah lengan berubah secara terkontrol tanpa perpindahan tempat."
         },
         {
           "id": "K03-PJK-B02-M01-004",
           "type": "PG",
-          "text": "Ketika latihan, guru meminta lutut sedikit dibengkokkan. Manakah cara yang tepat?",
+          "text": "Siswa mengubah arah hadap badan, tetapi kedua kaki tetap di titik semula. Gerak tersebut adalah ....",
           "options": [
-            "mengunci lutut sekaku mungkin",
-            "melompat setinggi mungkin",
-            "memutar leher paksa",
-            "menekuk lutut secara wajar"
+            "memutar badan",
+            "berjalan maju",
+            "berlari mundur",
+            "melompat jauh"
           ],
-          "answer": "menekuk lutut secara wajar",
-          "discussion": "Menekuk lutut berarti membengkokkan sendinya dalam batas nyaman."
+          "answer": "memutar badan",
+          "discussion": "Memutar badan mengubah arah hadap tanpa berpindah ke tempat lain."
         },
         {
           "id": "K03-PJK-B02-M01-005",
           "type": "PG",
-          "text": "Siswa meregangkan sisi tubuhnya. Apa sikap aman saat melakukan peregangan?",
+          "text": "Kaki kanan diangkat lalu lututnya dibengkokkan sesuai kemampuan. Gerak yang dilatih adalah ....",
           "options": [
-            "bergerak perlahan dan berhenti bila sakit",
-            "memaksa sampai terasa nyeri tajam",
-            "saling menarik badan dengan keras",
-            "melakukan gerakan tiba-tiba"
+            "menekuk kaki",
+            "mengayun kepala",
+            "berlari cepat",
+            "melempar bola"
           ],
-          "answer": "bergerak perlahan dan berhenti bila sakit",
-          "discussion": "Peregangan dilakukan perlahan sesuai kemampuan dan dihentikan bila sakit."
+          "answer": "menekuk kaki",
+          "discussion": "Menekuk kaki berarti membengkokkan sendi kaki secara terkontrol."
         },
         {
           "id": "K03-PJK-B02-M01-006",
           "type": "PG",
-          "text": "Saat berdiri di satu kaki, Rani merentangkan lengan untuk menjaga posisi. Apa tujuan penyesuaian itu?",
+          "text": "Badan bergerak ke kanan dan kiri dengan pusat gerak di pinggang. Gerak ini disebut ....",
           "options": [
-            "mendorong teman",
-            "berputar sangat cepat",
-            "mengatur posisi tubuh agar tidak jatuh",
-            "menutup mata sambil berlari"
+            "meliukkan badan",
+            "berjalan menyamping",
+            "berlari berkelok",
+            "menendang ke samping"
           ],
-          "answer": "mengatur posisi tubuh agar tidak jatuh",
-          "discussion": "Menjaga keseimbangan satu kaki: mengatur posisi tubuh agar tidak jatuh."
+          "answer": "meliukkan badan",
+          "discussion": "Meliuk menggerakkan batang tubuh ke sisi yang berbeda tanpa berpindah tempat."
         },
         {
           "id": "K03-PJK-B02-M01-007",
           "type": "PG",
-          "text": "Murid mendengar suara dari kanan lalu mengarahkan wajah ke kanan perlahan. Gerak yang sesuai adalah ....",
+          "text": "Siswa mencondongkan badan ke depan lalu kembali tegak di titik yang sama. Gerak tersebut termasuk ....",
           "options": [
+            "membungkuk",
             "berlari",
-            "memutar kepala perlahan ke arah samping",
-            "melompat jauh",
+            "meloncat",
             "menggiring bola"
           ],
-          "answer": "memutar kepala perlahan ke arah samping",
-          "discussion": "Menoleh: memutar kepala perlahan ke arah samping."
+          "answer": "membungkuk",
+          "discussion": "Membungkuk mengubah posisi batang tubuh tanpa perpindahan tempat utama."
         },
         {
           "id": "K03-PJK-B02-M01-008",
           "type": "PG",
-          "text": "Saat musik berbunyi, Rina menggerakkan badan ke samping secara perlahan tanpa berpindah. Geraknya adalah ....",
+          "text": "Sikap awal yang membantu kestabilan saat meliuk ialah ....",
           "options": [
-            "menggerakkan badan ke samping secara terkendali",
-            "menendang bola",
-            "melompat melewati garis",
-            "menangkap bola"
+            "kaki dibuka kira-kira selebar bahu",
+            "kedua kaki ditumpuk menjadi satu",
+            "berdiri di lantai licin",
+            "menutup mata dan berputar cepat"
           ],
-          "answer": "menggerakkan badan ke samping secara terkendali",
-          "discussion": "Meliukkan badan: menggerakkan badan ke samping secara terkendali."
+          "answer": "kaki dibuka kira-kira selebar bahu",
+          "discussion": "Tumpuan yang cukup lebar membantu keseimbangan saat batang tubuh bergerak."
         },
         {
           "id": "K03-PJK-B02-M01-009",
           "type": "PG",
-          "text": "Dalam kegiatan ini lengan bergerak tetapi kaki tidak berpindah lokasi. Kegiatan tersebut termasuk ....",
+          "text": "Gerak meliuk terasa terlalu jauh dan mulai nyeri. Apa yang harus dilakukan?",
           "options": [
-            "gerak yang selalu berpindah jauh",
-            "hanya gerak dengan bola",
-            "hanya gerak di kolam",
-            "gerak tubuh tanpa perpindahan tempat utama"
+            "mengurangi gerak atau berhenti lalu memberi tahu guru",
+            "memaksa sampai nyeri bertambah",
+            "meminta teman menarik badan lebih kuat",
+            "mengulang lebih cepat tanpa istirahat"
           ],
-          "answer": "gerak tubuh tanpa perpindahan tempat utama",
-          "discussion": "Gerak nonlokomotor: gerak tubuh tanpa perpindahan tempat utama."
+          "answer": "mengurangi gerak atau berhenti lalu memberi tahu guru",
+          "discussion": "Gerak tidak boleh dipaksakan melewati kemampuan atau menimbulkan nyeri."
         },
         {
           "id": "K03-PJK-B02-M01-010",
           "type": "PG",
-          "text": "Guru tidak meminta siswa memaksakan tubuh ketika peregangan. Manakah prinsip yang digunakan?",
+          "text": "Dua siswa mengayunkan lengan berdampingan. Agar aman, mereka perlu ....",
           "options": [
-            "dilakukan sambil saling menarik keras",
-            "harus tanpa pemanasan",
-            "dilakukan perlahan sesuai kemampuan",
-            "dipaksakan sampai sakit"
+            "menjaga jarak agar ayunan tidak mengenai teman",
+            "berdiri berhimpitan",
+            "mengayun secepat mungkin ke arah teman",
+            "saling menarik tangan"
           ],
-          "answer": "dilakukan perlahan sesuai kemampuan",
-          "discussion": "Latihan kelentukan: dilakukan perlahan sesuai kemampuan."
+          "answer": "menjaga jarak agar ayunan tidak mengenai teman",
+          "discussion": "Ruang pribadi mencegah benturan saat lengan bergerak."
         },
         {
           "id": "K03-PJK-B02-M01-011",
           "type": "PG",
-          "text": "Dalam permainan 'ambil benda imajiner', siswa mencondongkan badan ke depan tanpa maju. Teknik yang benar adalah ....",
+          "text": "Urutan ayunan lengan yang diberikan guru adalah atas–samping–belakang–bawah. Setelah lengan ke samping, gerak berikutnya adalah ....",
           "options": [
-            "menendang bola",
-            "menggerakkan badan ke depan tanpa berpindah tempat",
-            "berlari ke depan",
-            "melompat jauh"
+            "ke belakang",
+            "ke atas lagi",
+            "duduk di lantai",
+            "berlari ke depan"
           ],
-          "answer": "menggerakkan badan ke depan tanpa berpindah tempat",
-          "discussion": "Membungkuk: menggerakkan badan ke depan tanpa berpindah tempat."
+          "answer": "ke belakang",
+          "discussion": "Urutan instruksi menempatkan gerak ke belakang setelah ke samping."
         },
         {
           "id": "K03-PJK-B02-M01-012",
           "type": "PG",
-          "text": "Dalam senam di tempat, arah hadap siswa berubah dari depan ke samping. Bagaimana gerak dilakukan?",
+          "text": "Rina meliuk ke kiri, kembali tegak, lalu meliuk ke kanan. Mengapa ia kembali tegak di tengah?",
           "options": [
-            "mengubah arah hadap tubuh tanpa berpindah tempat",
-            "berjalan jauh",
-            "berlari cepat",
-            "melempar bola"
+            "agar perpindahan arah tetap terkendali",
+            "agar dapat berlari meninggalkan tempat",
+            "agar sendi dipaksa lebih jauh",
+            "agar tidak perlu mendengar aba-aba"
           ],
-          "answer": "mengubah arah hadap tubuh tanpa berpindah tempat",
-          "discussion": "Memutar badan: mengubah arah hadap tubuh tanpa berpindah tempat."
+          "answer": "agar perpindahan arah tetap terkendali",
+          "discussion": "Kembali ke posisi awal membantu kontrol sebelum berganti sisi."
         },
         {
           "id": "K03-PJK-B02-M01-013",
           "type": "PG",
-          "text": "Saat gerak di tempat, lengan Dina bergerak bergantian ke depan dan belakang. Cara yang sesuai adalah ....",
+          "text": "Apa perbedaan utama memutar badan dan meliukkan badan?",
           "options": [
-            "menendang bola",
-            "berlari zig-zag",
-            "melompat tali",
-            "menggerakkan lengan bolak-balik secara terkontrol"
+            "memutar mengubah arah hadap, sedangkan meliuk menggerakkan batang tubuh ke sisi lain",
+            "memutar selalu berlari, sedangkan meliuk selalu berenang",
+            "memutar memakai bola, sedangkan meliuk memakai raket",
+            "keduanya harus berpindah jauh"
           ],
-          "answer": "menggerakkan lengan bolak-balik secara terkontrol",
-          "discussion": "Mengayun lengan: menggerakkan lengan bolak-balik secara terkontrol."
+          "answer": "memutar mengubah arah hadap, sedangkan meliuk menggerakkan batang tubuh ke sisi lain",
+          "discussion": "Keduanya nonlokomotor, tetapi pola perubahan posisi tubuhnya berbeda."
         },
         {
           "id": "K03-PJK-B02-M01-014",
           "type": "PG",
-          "text": "Ketika mendarat dari langkah kecil, siswa tidak mengunci lutut. Tindakan yang sesuai adalah ....",
+          "text": "Dalam permainan gelang raja, gelang dipegang di atas kepala saat badan meliuk. Alat yang aman adalah ....",
           "options": [
-            "melempar bola",
-            "berjalan cepat",
-            "membengkokkan sendi lutut secara wajar",
-            "mengunci lutut lurus"
+            "gelang ringan tanpa bagian tajam",
+            "batang besi berat",
+            "kaca berbentuk lingkaran",
+            "benda retak dengan ujung tajam"
           ],
-          "answer": "membengkokkan sendi lutut secara wajar",
-          "discussion": "Menekuk lutut: membengkokkan sendi lutut secara wajar."
+          "answer": "gelang ringan tanpa bagian tajam",
+          "discussion": "Peralatan harus ringan, utuh, dan tidak membahayakan."
         },
         {
           "id": "K03-PJK-B02-M01-015",
           "type": "PG",
-          "text": "Guru meminta regangan sisi kanan dan kiri secara bergantian. Teknik aman ialah ....",
+          "text": "Guru memberi aba-aba 2 × 8 hitungan. Apa yang perlu diutamakan siswa?",
           "options": [
-            "menendang tinggi",
-            "memanjangkan sisi tubuh dengan gerakan terkendali",
-            "berlari sambil menabrak",
-            "melempar keras"
+            "mengikuti irama dan teknik dengan terkendali",
+            "mengejar hitungan secepat mungkin",
+            "mengabaikan rasa nyeri",
+            "bergerak tanpa memperhatikan ruang"
           ],
-          "answer": "memanjangkan sisi tubuh dengan gerakan terkendali",
-          "discussion": "Meregang ke samping: memanjangkan sisi tubuh dengan gerakan terkendali."
+          "answer": "mengikuti irama dan teknik dengan terkendali",
+          "discussion": "Hitungan membantu keteraturan, tetapi kontrol dan keselamatan tetap utama."
         },
         {
           "id": "K03-PJK-B02-M01-016",
           "type": "PG",
-          "text": "Siswa hampir kehilangan keseimbangan ketika satu kaki terangkat. Tindakan yang paling tepat ialah ....",
+          "text": "Saat menekuk lutut, posisi yang tepat adalah ....",
           "options": [
-            "mengatur posisi tubuh agar tidak jatuh",
-            "menutup mata sambil berlari",
-            "mendorong teman",
-            "berputar sangat cepat"
+            "lutut dibengkokkan wajar sesuai kemampuan",
+            "lutut dipaksa berputar ke samping",
+            "sendi dikunci lalu didorong teman",
+            "gerak dilanjutkan saat terasa sakit"
           ],
-          "answer": "mengatur posisi tubuh agar tidak jatuh",
-          "discussion": "Menjaga keseimbangan satu kaki: mengatur posisi tubuh agar tidak jatuh."
+          "answer": "lutut dibengkokkan wajar sesuai kemampuan",
+          "discussion": "Tekukan dilakukan pada arah gerak sendi yang wajar dan tidak dipaksakan."
         },
         {
           "id": "K03-PJK-B02-M01-017",
           "type": "PG",
-          "text": "Guru mengajak siswa melihat ke sisi kiri tanpa menggerakkan seluruh badan. Cara yang benar ialah ....",
+          "text": "Mengapa pemanasan dilakukan sebelum latihan nonlokomotor?",
           "options": [
-            "melompat jauh",
-            "menggiring bola",
-            "berlari",
-            "memutar kepala perlahan ke arah samping"
+            "untuk menyiapkan tubuh bergerak secara bertahap",
+            "agar siswa langsung kelelahan",
+            "agar tidak perlu minum dan istirahat",
+            "agar semua sendi dipaksa sejauh mungkin"
           ],
-          "answer": "memutar kepala perlahan ke arah samping",
-          "discussion": "Menoleh: memutar kepala perlahan ke arah samping."
+          "answer": "untuk menyiapkan tubuh bergerak secara bertahap",
+          "discussion": "Pemanasan membantu tubuh bersiap mengikuti aktivitas utama."
         },
         {
           "id": "K03-PJK-B02-M01-018",
           "type": "PG",
-          "text": "Siswa memiringkan badan dari pinggang ke kanan dan kiri secara terkendali. Manakah deskripsi yang cocok?",
+          "text": "Simpai yang akan dipakai retak dan memiliki bagian tajam. Keputusan yang tepat adalah ....",
           "options": [
-            "melompat melewati garis",
-            "menangkap bola",
-            "menggerakkan badan ke samping secara terkendali",
-            "menendang bola"
+            "tidak memakainya dan melapor kepada guru",
+            "tetap memakainya sambil berlari",
+            "memberikannya kepada teman tanpa memberi tahu",
+            "menutup retakan dengan tangan saat bergerak"
           ],
-          "answer": "menggerakkan badan ke samping secara terkendali",
-          "discussion": "Meliukkan badan: menggerakkan badan ke samping secara terkendali."
+          "answer": "tidak memakainya dan melapor kepada guru",
+          "discussion": "Peralatan rusak tidak layak dipakai karena dapat melukai."
         },
         {
           "id": "K03-PJK-B02-M01-019",
           "type": "PG",
-          "text": "Apakah mengayun lengan di tempat memerlukan perpindahan jauh? Pilih definisi yang sesuai.",
+          "text": "Sebelum latihan, Sari merasa demam. Apa yang sebaiknya dilakukan?",
           "options": [
-            "hanya gerak di kolam",
-            "gerak tubuh tanpa perpindahan tempat utama",
-            "gerak yang selalu berpindah jauh",
-            "hanya gerak dengan bola"
+            "memberi tahu guru dan beristirahat",
+            "menyembunyikan keadaan lalu berlatih penuh",
+            "memaksa sampai berkeringat banyak",
+            "mengikuti gerak paling sulit"
           ],
-          "answer": "gerak tubuh tanpa perpindahan tempat utama",
-          "discussion": "Gerak nonlokomotor: gerak tubuh tanpa perpindahan tempat utama."
+          "answer": "memberi tahu guru dan beristirahat",
+          "discussion": "Kondisi kesehatan perlu disampaikan agar kegiatan dapat disesuaikan."
         },
         {
           "id": "K03-PJK-B02-M01-020",
           "type": "PG",
-          "text": "Dua siswa punya kelenturan berbeda. Bagaimana latihan yang benar dilakukan?",
+          "text": "Dalam latihan berpasangan, cara membantu teman yang benar adalah ....",
           "options": [
-            "dilakukan perlahan sesuai kemampuan",
-            "dipaksakan sampai sakit",
-            "dilakukan sambil saling menarik keras",
-            "harus tanpa pemanasan"
+            "memberi ruang dan mengikuti instruksi guru",
+            "menekan punggung teman agar membungkuk lebih jauh",
+            "menarik lengan teman secara tiba-tiba",
+            "mengejek gerak teman yang terbatas"
           ],
-          "answer": "dilakukan perlahan sesuai kemampuan",
-          "discussion": "Latihan kelentukan: dilakukan perlahan sesuai kemampuan."
+          "answer": "memberi ruang dan mengikuti instruksi guru",
+          "discussion": "Bantuan tidak boleh berupa tarikan atau tekanan yang memaksa sendi."
         },
         {
           "id": "K03-PJK-B02-M01-021",
           "type": "PG",
-          "text": "Mengapa gerak mencondongkan badan itu disebut nonlokomotor? Pilih uraian paling tepat.",
+          "text": "Rangkaian memutar badan, mengayun lengan, lalu menekuk lutut merupakan ....",
           "options": [
-            "berlari ke depan",
-            "melompat jauh",
-            "menendang bola",
-            "menggerakkan badan ke depan tanpa berpindah tempat"
+            "gabungan beberapa gerak nonlokomotor",
+            "lari estafet",
+            "permainan menendang bola",
+            "gerak berpindah jauh"
           ],
-          "answer": "menggerakkan badan ke depan tanpa berpindah tempat",
-          "discussion": "Membungkuk: menggerakkan badan ke depan tanpa berpindah tempat."
+          "answer": "gabungan beberapa gerak nonlokomotor",
+          "discussion": "Ketiga gerak dilakukan di tempat dan dapat disusun menjadi rangkaian."
         },
         {
           "id": "K03-PJK-B02-M01-022",
           "type": "PG",
-          "text": "Apa yang membedakan perubahan arah hadap badan di tempat dari berjalan maju?",
+          "text": "Aba-aba guru berbunyi: “Ayun, putar, tekuk.” Gerak terakhir yang dilakukan adalah ....",
           "options": [
-            "berlari cepat",
-            "melempar bola",
-            "mengubah arah hadap tubuh tanpa berpindah tempat",
-            "berjalan jauh"
+            "menekuk",
+            "mengayun",
+            "memutar",
+            "berlari"
           ],
-          "answer": "mengubah arah hadap tubuh tanpa berpindah tempat",
-          "discussion": "Memutar badan: mengubah arah hadap tubuh tanpa berpindah tempat."
+          "answer": "menekuk",
+          "discussion": "Kata terakhir pada urutan aba-aba adalah tekuk."
         },
         {
           "id": "K03-PJK-B02-M01-023",
           "type": "PG",
-          "text": "Gerak lengan terkontrol dilakukan tanpa memindahkan posisi kaki. Pilih uraian yang tepat.",
+          "text": "Setelah latihan, siswa mencatat bahwa ayunan lengan sudah terkendali tetapi meliuk masih perlu bantuan. Catatan itu menunjukkan ....",
           "options": [
-            "melompat tali",
-            "menggerakkan lengan bolak-balik secara terkontrol",
-            "menendang bola",
-            "berlari zig-zag"
+            "refleksi diri yang jujur",
+            "alasan untuk mengejek diri sendiri",
+            "bukti bahwa latihan harus dihentikan selamanya",
+            "keharusan memaksa gerak lebih jauh"
           ],
-          "answer": "menggerakkan lengan bolak-balik secara terkontrol",
-          "discussion": "Mengayun lengan: menggerakkan lengan bolak-balik secara terkontrol."
+          "answer": "refleksi diri yang jujur",
+          "discussion": "Refleksi membantu menentukan keterampilan yang perlu dilatih berikutnya."
         },
         {
           "id": "K03-PJK-B02-M01-024",
           "type": "PG",
-          "text": "Apa tindakan aman untuk mengurangi kekakuan lutut ketika latihan di tempat?",
+          "text": "Dodi belum mampu meliuk sejauh temannya. Penyesuaian yang tepat adalah ....",
           "options": [
-            "membengkokkan sendi lutut secara wajar",
-            "mengunci lutut lurus",
-            "melempar bola",
-            "berjalan cepat"
+            "mengurangi jangkauan sesuai kemampuan",
+            "memaksanya menyamai teman",
+            "menarik badannya dengan kuat",
+            "melarangnya ikut belajar"
           ],
-          "answer": "membengkokkan sendi lutut secara wajar",
-          "discussion": "Menekuk lutut: membengkokkan sendi lutut secara wajar."
+          "answer": "mengurangi jangkauan sesuai kemampuan",
+          "discussion": "Jangkauan gerak dapat disesuaikan tanpa menghilangkan tujuan latihan."
         },
         {
           "id": "K03-PJK-B02-M01-025",
           "type": "PG",
-          "text": "Jika terasa sakit saat meregang ke samping, manakah prinsip gerak yang tepat?",
+          "text": "Mengapa kaki dibuka selebar bahu ketika melakukan beberapa gerak di tempat?",
           "options": [
-            "berlari sambil menabrak",
-            "melempar keras",
-            "menendang tinggi",
-            "memanjangkan sisi tubuh dengan gerakan terkendali"
+            "untuk memberi tumpuan yang lebih stabil",
+            "agar dapat berlari lebih cepat",
+            "agar kaki tidak menyentuh lantai",
+            "agar tubuh mudah bertabrakan"
           ],
-          "answer": "memanjangkan sisi tubuh dengan gerakan terkendali",
-          "discussion": "Meregang ke samping: memanjangkan sisi tubuh dengan gerakan terkendali."
+          "answer": "untuk memberi tumpuan yang lebih stabil",
+          "discussion": "Tumpuan yang stabil membantu mengendalikan putaran dan liukan."
         },
         {
           "id": "K03-PJK-B02-M01-026",
           "type": "PG",
-          "text": "Apa kemampuan yang digunakan ketika seseorang mempertahankan posisi satu kaki?",
+          "text": "Setelah meliuk ke kanan, latihan diulang ke kiri. Tujuan pergantian sisi ialah ....",
           "options": [
-            "mendorong teman",
-            "berputar sangat cepat",
-            "mengatur posisi tubuh agar tidak jatuh",
-            "menutup mata sambil berlari"
+            "melatih kedua arah secara seimbang sesuai kemampuan",
+            "membuat satu sisi selalu dipaksa",
+            "menghilangkan kebutuhan pemanasan",
+            "mengubah gerak menjadi lari"
           ],
-          "answer": "mengatur posisi tubuh agar tidak jatuh",
-          "discussion": "Menjaga keseimbangan satu kaki: mengatur posisi tubuh agar tidak jatuh."
+          "answer": "melatih kedua arah secara seimbang sesuai kemampuan",
+          "discussion": "Latihan kanan dan kiri memberi pengalaman gerak pada kedua sisi tubuh."
         },
         {
           "id": "K03-PJK-B02-M01-027",
           "type": "PG",
-          "text": "Dalam latihan gerak kepala, bagaimana siswa mengubah arah pandang dengan aman?",
+          "text": "Saat bergerak mengikuti hitungan, cara bernapas yang tepat adalah ....",
           "options": [
-            "berlari",
-            "memutar kepala perlahan ke arah samping",
-            "melompat jauh",
-            "menggiring bola"
+            "bernapas normal dan tidak menahan napas",
+            "menahan napas selama seluruh rangkaian",
+            "bernapas hanya setelah latihan selesai",
+            "menghentikan napas saat menekuk"
           ],
-          "answer": "memutar kepala perlahan ke arah samping",
-          "discussion": "Menoleh: memutar kepala perlahan ke arah samping."
+          "answer": "bernapas normal dan tidak menahan napas",
+          "discussion": "Bernapas normal membantu tubuh bergerak nyaman."
         },
         {
           "id": "K03-PJK-B02-M01-028",
           "type": "PG",
-          "text": "Apa cara aman menggerakkan badan ke sisi kiri dan kanan sambil tetap di tempat?",
+          "text": "Guru memperlambat hitungan untuk siswa yang baru belajar. Manfaatnya adalah ....",
           "options": [
-            "menggerakkan badan ke samping secara terkendali",
-            "menendang bola",
-            "melompat melewati garis",
-            "menangkap bola"
+            "memberi waktu mengendalikan posisi tubuh",
+            "membuat gerak semakin berbahaya",
+            "menghilangkan kebutuhan ruang",
+            "memaksa sendi bergerak lebih jauh"
           ],
-          "answer": "menggerakkan badan ke samping secara terkendali",
-          "discussion": "Meliukkan badan: menggerakkan badan ke samping secara terkendali."
+          "answer": "memberi waktu mengendalikan posisi tubuh",
+          "discussion": "Tempo lebih lambat membantu penguasaan gerak."
         },
         {
           "id": "K03-PJK-B02-M01-029",
           "type": "PG",
-          "text": "Seorang anak membungkuk dan kembali berdiri pada titik yang sama. Jenis geraknya adalah ....",
+          "text": "Manakah gerak yang BUKAN nonlokomotor?",
           "options": [
-            "gerak yang selalu berpindah jauh",
-            "hanya gerak dengan bola",
-            "hanya gerak di kolam",
-            "gerak tubuh tanpa perpindahan tempat utama"
+            "berlari menuju kerucut",
+            "mengayunkan lengan di tempat",
+            "menekuk lutut di tempat",
+            "memutar badan di titik yang sama"
           ],
-          "answer": "gerak tubuh tanpa perpindahan tempat utama",
-          "discussion": "Gerak nonlokomotor: gerak tubuh tanpa perpindahan tempat utama."
+          "answer": "berlari menuju kerucut",
+          "discussion": "Berlari menyebabkan perpindahan tempat sehingga termasuk lokomotor."
         },
         {
           "id": "K03-PJK-B02-M01-030",
           "type": "PG",
-          "text": "Jika seorang siswa belum dapat meregang jauh, pilihan tindakan tepat adalah ....",
+          "text": "Kaki tetap pada tanda, lengan bergerak dari bawah ke atas. Bukti bahwa gerak itu nonlokomotor adalah ....",
           "options": [
-            "dilakukan sambil saling menarik keras",
-            "harus tanpa pemanasan",
-            "dilakukan perlahan sesuai kemampuan",
-            "dipaksakan sampai sakit"
+            "posisi utama tubuh tidak berpindah dari tanda",
+            "lengan bergerak",
+            "siswa memakai pakaian olahraga",
+            "guru memberi hitungan"
           ],
-          "answer": "dilakukan perlahan sesuai kemampuan",
-          "discussion": "Latihan kelentukan: dilakukan perlahan sesuai kemampuan."
+          "answer": "posisi utama tubuh tidak berpindah dari tanda",
+          "discussion": "Ciri penentu nonlokomotor adalah tidak adanya perpindahan tempat utama."
         },
         {
           "id": "K03-PJK-B02-M01-031",
           "type": "PG",
-          "text": "Sinta mencondongkan badan ke depan tetapi kakinya tetap di tempat. Manakah penjelasan gerak yang sesuai?",
+          "text": "Ruang kelas sempit untuk ayunan lengan lebar. Apa penyesuaian yang aman?",
           "options": [
-            "menendang bola",
-            "menggerakkan badan ke depan tanpa berpindah tempat",
-            "berlari ke depan",
-            "melompat jauh"
+            "memperkecil jangkauan atau pindah ke ruang yang cukup",
+            "tetap mengayun hingga mengenai meja",
+            "menyuruh teman berdiri lebih dekat",
+            "menggunakan benda tajam sebagai penanda"
           ],
-          "answer": "menggerakkan badan ke depan tanpa berpindah tempat",
-          "discussion": "Membungkuk: menggerakkan badan ke depan tanpa berpindah tempat."
+          "answer": "memperkecil jangkauan atau pindah ke ruang yang cukup",
+          "discussion": "Ruang gerak harus cukup dan bebas benturan."
         },
         {
           "id": "K03-PJK-B02-M01-032",
           "type": "PG",
-          "text": "Seorang siswa berbalik menghadap papan tulis tanpa berjalan ke tempat lain. Gerak apakah yang digambarkan?",
+          "text": "Manakah tindakan yang tidak aman saat gerak kepala?",
           "options": [
-            "mengubah arah hadap tubuh tanpa berpindah tempat",
-            "berjalan jauh",
-            "berlari cepat",
-            "melempar bola"
+            "memutar kepala dengan hentakan kuat sampai nyeri",
+            "menoleh perlahan sesuai kemampuan",
+            "berhenti jika pusing",
+            "mengikuti arahan guru"
           ],
-          "answer": "mengubah arah hadap tubuh tanpa berpindah tempat",
-          "discussion": "Memutar badan: mengubah arah hadap tubuh tanpa berpindah tempat."
+          "answer": "memutar kepala dengan hentakan kuat sampai nyeri",
+          "discussion": "Gerak kepala dilakukan perlahan dan tidak dipaksa."
         },
         {
           "id": "K03-PJK-B02-M01-033",
           "type": "PG",
-          "text": "Guru meminta siswa menggerakkan dua lengan maju-mundur mengikuti aba-aba. Manakah penjelasan geraknya?",
+          "text": "Kelompok berlatih rangkaian gerak. Sikap gotong royong yang tepat adalah ....",
           "options": [
-            "menendang bola",
-            "berlari zig-zag",
-            "melompat tali",
-            "menggerakkan lengan bolak-balik secara terkontrol"
+            "bergiliran dan saling mengingatkan jarak aman",
+            "berebut alat",
+            "menertawakan teman",
+            "memaksa teman melakukan gerak sulit"
           ],
-          "answer": "menggerakkan lengan bolak-balik secara terkontrol",
-          "discussion": "Mengayun lengan: menggerakkan lengan bolak-balik secara terkontrol."
+          "answer": "bergiliran dan saling mengingatkan jarak aman",
+          "discussion": "Gotong royong tampak pada berbagi alat, bergiliran, dan menjaga keselamatan bersama."
         },
         {
           "id": "K03-PJK-B02-M01-034",
           "type": "PG",
-          "text": "Dika membuat posisi lututnya sedikit bengkok saat berdiri. Manakah cara yang tepat?",
+          "text": "Setelah latihan, pendinginan dilakukan dengan ....",
           "options": [
-            "melempar bola",
-            "berjalan cepat",
-            "membengkokkan sendi lutut secara wajar",
-            "mengunci lutut lurus"
+            "gerak ringan dan terkontrol mengikuti guru",
+            "lari sekencang mungkin",
+            "tarikan sendi mendadak",
+            "melompat di lantai licin"
           ],
-          "answer": "membengkokkan sendi lutut secara wajar",
-          "discussion": "Menekuk lutut: membengkokkan sendi lutut secara wajar."
+          "answer": "gerak ringan dan terkontrol mengikuti guru",
+          "discussion": "Pendinginan membantu tubuh beralih secara bertahap setelah aktivitas."
         },
         {
           "id": "K03-PJK-B02-M01-035",
           "type": "PG",
-          "text": "Siswa mencoba memanjangkan sisi tubuh ke kiri, tanpa gerakan tiba-tiba. Cara yang sesuai adalah ....",
+          "text": "Tujuan latihan nonlokomotor untuk siswa kelas 3 adalah ....",
           "options": [
-            "menendang tinggi",
-            "memanjangkan sisi tubuh dengan gerakan terkendali",
-            "berlari sambil menabrak",
-            "melempar keras"
+            "mengembangkan kontrol gerak sesuai kemampuan dan aman",
+            "memaksa semua siswa sama lenturnya",
+            "menentukan siapa yang paling kuat menahan sakit",
+            "melakukan gerak sulit tanpa pengawasan"
           ],
-          "answer": "memanjangkan sisi tubuh dengan gerakan terkendali",
-          "discussion": "Meregang ke samping: memanjangkan sisi tubuh dengan gerakan terkendali."
+          "answer": "mengembangkan kontrol gerak sesuai kemampuan dan aman",
+          "discussion": "Pembelajaran menekankan keterampilan, kemandirian, gotong royong, dan keselamatan."
         }
       ]
     }
