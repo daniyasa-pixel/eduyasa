@@ -11,171 +11,171 @@
         {
           "id": "K03-PJK-B02-M01-036",
           "type": "PG",
-          "text": "Siswa bertahan dengan satu kaki terangkat. Apa yang perlu dikendalikan agar tidak terjatuh?",
+          "text": "Gambar menunjukkan urutan ayunan lengan: atas, samping, belakang, bawah. Setelah posisi samping, gerak berikutnya adalah ....",
           "options": [
-            "mengatur posisi tubuh agar tidak jatuh",
-            "menutup mata sambil berlari",
-            "mendorong teman",
-            "berputar sangat cepat"
+            "ke belakang",
+            "ke atas lagi",
+            "berlari ke depan",
+            "duduk"
           ],
-          "answer": "mengatur posisi tubuh agar tidak jatuh",
-          "discussion": "Menjaga keseimbangan satu kaki: mengatur posisi tubuh agar tidak jatuh.",
+          "answer": "ke belakang",
+          "discussion": "Urutan visual menempatkan posisi belakang setelah posisi samping.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-01.svg",
-            "alt": "Ilustrasi Menjaga keseimbangan satu kaki"
+            "alt": "Urutan ayunan lengan. Empat panel memperlihatkan lengan ke atas, samping, belakang, lalu bawah."
           }
         },
         {
           "id": "K03-PJK-B02-M01-037",
           "type": "PG",
-          "text": "Anak mengarahkan wajah ke samping. Bagaimana gerakan kepala yang aman?",
+          "text": "Pada panel A kaki tetap di tanda sambil badan berputar. Panel B berjalan meninggalkan tanda. Panel mana yang menunjukkan nonlokomotor?",
           "options": [
-            "melompat jauh",
-            "menggiring bola",
-            "berlari",
-            "memutar kepala perlahan ke arah samping"
+            "panel A",
+            "panel B",
+            "keduanya berpindah tempat",
+            "tidak ada gerak"
           ],
-          "answer": "memutar kepala perlahan ke arah samping",
-          "discussion": "Menoleh: memutar kepala perlahan ke arah samping.",
+          "answer": "panel A",
+          "discussion": "Panel A mengubah arah tubuh tanpa meninggalkan titik tumpu.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-02.svg",
-            "alt": "Ilustrasi Menoleh"
+            "alt": "Nonlokomotor dan berpindah tempat. Panel A menunjukkan badan berputar dengan kaki pada tanda; panel B menunjukkan jejak kaki meninggalkan tanda."
           }
         },
         {
           "id": "K03-PJK-B02-M01-038",
           "type": "PG",
-          "text": "Gambar memperlihatkan gerakan batang tubuh ke samping. Manakah penjelasan yang tepat?",
+          "text": "Panah pada gambar bergerak dari posisi tegak ke kanan lalu ke kiri. Gerak apa yang ditunjukkan?",
           "options": [
-            "melompat melewati garis",
-            "menangkap bola",
-            "menggerakkan badan ke samping secara terkendali",
-            "menendang bola"
+            "meliukkan badan ke samping",
+            "berlari zig-zag",
+            "berjalan menyamping",
+            "melempar bola"
           ],
-          "answer": "menggerakkan badan ke samping secara terkendali",
-          "discussion": "Meliukkan badan: menggerakkan badan ke samping secara terkendali.",
+          "answer": "meliukkan badan ke samping",
+          "discussion": "Batang tubuh bergerak ke kanan dan kiri sementara kaki tetap.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-03.svg",
-            "alt": "Ilustrasi Meliukkan badan"
+            "alt": "Meliuk kanan dan kiri. Satu posisi tegak di tengah dan dua posisi tubuh miring ke kanan dan kiri dengan kaki tetap."
           }
         },
         {
           "id": "K03-PJK-B02-M01-039",
           "type": "PG",
-          "text": "Siswa menggerakkan anggota badan tetapi posisi kakinya tetap. Jenis gerak apakah ini?",
+          "text": "Gambar bernomor 1–3 menunjukkan lutut lurus, menekuk, lalu kembali lurus. Posisi menekuk ditunjukkan oleh nomor ....",
           "options": [
-            "hanya gerak di kolam",
-            "gerak tubuh tanpa perpindahan tempat utama",
-            "gerak yang selalu berpindah jauh",
-            "hanya gerak dengan bola"
+            "1",
+            "2",
+            "3",
+            "1 dan 3"
           ],
-          "answer": "gerak tubuh tanpa perpindahan tempat utama",
-          "discussion": "Gerak nonlokomotor: gerak tubuh tanpa perpindahan tempat utama.",
+          "answer": "2",
+          "discussion": "Pada posisi 2, sudut lutut mengecil sehingga lutut tampak menekuk.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-04.svg",
-            "alt": "Ilustrasi Gerak nonlokomotor"
+            "alt": "Urutan lutut lurus dan menekuk. Tiga panel bernomor menunjukkan posisi lurus, menekuk, lalu lurus kembali."
           }
         },
         {
           "id": "K03-PJK-B02-M01-040",
           "type": "PG",
-          "text": "Seorang anak berusaha meningkatkan kelenturan. Prinsip latihan mana yang aman?",
+          "text": "Dua siswa memegang simpai. Panel A memiliki jarak cukup; Panel B terlalu berdekatan. Susunan yang aman adalah ....",
           "options": [
-            "dilakukan perlahan sesuai kemampuan",
-            "dipaksakan sampai sakit",
-            "dilakukan sambil saling menarik keras",
-            "harus tanpa pemanasan"
+            "panel A",
+            "panel B",
+            "keduanya harus berhimpitan",
+            "keduanya harus mengayun ke arah teman"
           ],
-          "answer": "dilakukan perlahan sesuai kemampuan",
-          "discussion": "Latihan kelentukan: dilakukan perlahan sesuai kemampuan.",
+          "answer": "panel A",
+          "discussion": "Jarak cukup mencegah simpai dan lengan mengenai teman.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-05.svg",
-            "alt": "Ilustrasi Latihan kelentukan"
+            "alt": "Jarak aman menggunakan simpai. Panel A menunjukkan dua siswa berjauhan; panel B menunjukkan dua siswa dan simpai bertumpuk."
           }
         },
         {
           "id": "K03-PJK-B02-M01-041",
           "type": "PG",
-          "text": "Siswa mencondongkan tubuh ke depan, tanpa maju. Gerak apa yang tampak?",
+          "text": "Skala gambar menunjukkan gerak nyaman pada zona hijau dan nyeri pada zona merah. Jika gerak mencapai zona merah, siswa harus ....",
           "options": [
-            "berlari ke depan",
-            "melompat jauh",
-            "menendang bola",
-            "menggerakkan badan ke depan tanpa berpindah tempat"
+            "berhenti dan memberi tahu guru",
+            "memaksa melewati batas",
+            "meminta teman menarik lebih keras",
+            "mengulang lebih cepat"
           ],
-          "answer": "menggerakkan badan ke depan tanpa berpindah tempat",
-          "discussion": "Membungkuk: menggerakkan badan ke depan tanpa berpindah tempat.",
+          "answer": "berhenti dan memberi tahu guru",
+          "discussion": "Nyeri adalah tanda untuk menghentikan atau menyesuaikan gerak.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-06.svg",
-            "alt": "Ilustrasi Membungkuk"
+            "alt": "Batas gerak nyaman dan nyeri. Skala dari zona hijau nyaman menuju zona merah nyeri."
           }
         },
         {
           "id": "K03-PJK-B02-M01-042",
           "type": "PG",
-          "text": "Anak berubah arah hadap namun masih berdiri di titik yang sama. Gerak yang tepat adalah ....",
+          "text": "Dua lingkaran ruang pribadi pada gambar tidak saling bertumpuk. Apa aturan yang ditunjukkan?",
           "options": [
-            "berlari cepat",
-            "melempar bola",
-            "mengubah arah hadap tubuh tanpa berpindah tempat",
-            "berjalan jauh"
+            "menjaga jarak saat mengayun",
+            "berdiri berhimpitan",
+            "saling menarik tangan",
+            "berlari keluar lingkaran"
           ],
-          "answer": "mengubah arah hadap tubuh tanpa berpindah tempat",
-          "discussion": "Memutar badan: mengubah arah hadap tubuh tanpa berpindah tempat.",
+          "answer": "menjaga jarak saat mengayun",
+          "discussion": "Ruang pribadi yang tidak bertumpuk memberi tempat aman untuk ayunan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-07.svg",
-            "alt": "Ilustrasi Memutar badan"
+            "alt": "Ruang pribadi saat mengayun. Dua siswa berdiri di dalam lingkaran ruang yang tidak saling bertumpuk."
           }
         },
         {
           "id": "K03-PJK-B02-M01-043",
           "type": "PG",
-          "text": "Lengan pada gambar bergerak maju dan mundur. Bagaimana seharusnya gerakan dilakukan?",
+          "text": "Kartu urutan menunjukkan PUTAR → AYUN → TEKUK. Gerak ketiga adalah ....",
           "options": [
-            "melompat tali",
-            "menggerakkan lengan bolak-balik secara terkontrol",
-            "menendang bola",
-            "berlari zig-zag"
+            "putar",
+            "ayun",
+            "tekuk",
+            "lari"
           ],
-          "answer": "menggerakkan lengan bolak-balik secara terkontrol",
-          "discussion": "Mengayun lengan: menggerakkan lengan bolak-balik secara terkontrol.",
+          "answer": "tekuk",
+          "discussion": "Kartu ketiga pada urutan adalah TEKUK.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-08.svg",
-            "alt": "Ilustrasi Mengayun lengan"
+            "alt": "Kartu urutan gerak. Tiga kartu berurutan bertuliskan PUTAR, AYUN, TEKUK."
           }
         },
         {
           "id": "K03-PJK-B02-M01-044",
           "type": "PG",
-          "text": "Posisi kaki membentuk sudut di sendi lutut. Tindakan mana yang digambarkan?",
+          "text": "Gambar menunjukkan tubuh condong ke depan tetapi kedua kaki tetap pada tanda. Gerak ini adalah ....",
           "options": [
-            "membengkokkan sendi lutut secara wajar",
-            "mengunci lutut lurus",
-            "melempar bola",
-            "berjalan cepat"
+            "membungkuk di tempat",
+            "berjalan maju",
+            "berlari cepat",
+            "melompat jauh"
           ],
-          "answer": "membengkokkan sendi lutut secara wajar",
-          "discussion": "Menekuk lutut: membengkokkan sendi lutut secara wajar.",
+          "answer": "membungkuk di tempat",
+          "discussion": "Tubuh condong tanpa meninggalkan tanda kaki.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-09.svg",
-            "alt": "Ilustrasi Menekuk lutut"
+            "alt": "Membungkuk tanpa berpindah. Tubuh mencondong ke depan sementara kedua kaki tetap pada dua tanda lantai."
           }
         },
         {
           "id": "K03-PJK-B02-M01-045",
           "type": "PG",
-          "text": "Anak memanjangkan sisi tubuh ke kanan. Cara gerak yang benar adalah ....",
+          "text": "Tabel pemeriksaan tubuh menunjukkan: nyaman—lanjut; nyeri—berhenti; pusing—berhenti. Siswa merasa pusing. Apa tindakannya?",
           "options": [
-            "berlari sambil menabrak",
-            "melempar keras",
-            "menendang tinggi",
-            "memanjangkan sisi tubuh dengan gerakan terkendali"
+            "berhenti dan memberi tahu guru",
+            "melanjutkan lebih cepat",
+            "menyembunyikan keluhan",
+            "memutar kepala kuat-kuat"
           ],
-          "answer": "memanjangkan sisi tubuh dengan gerakan terkendali",
-          "discussion": "Meregang ke samping: memanjangkan sisi tubuh dengan gerakan terkendali.",
+          "answer": "berhenti dan memberi tahu guru",
+          "discussion": "Tabel secara jelas mengarahkan berhenti saat pusing.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b02-gambar-10.svg",
-            "alt": "Ilustrasi Meregang ke samping"
+            "alt": "Tabel pemeriksaan kondisi tubuh. Tabel menunjukkan nyaman lanjut, nyeri berhenti, dan pusing berhenti."
           }
         }
       ]
