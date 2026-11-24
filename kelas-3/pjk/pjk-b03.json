@@ -11,457 +11,457 @@
         {
           "id": "K03-PJK-B03-M01-001",
           "type": "PG",
-          "text": "Ari memindahkan bola dari tangannya ke arah sasaran tanpa menendangnya. Apa gerak yang dilakukan?",
+          "text": "Gerak manipulatif berbeda dari gerak lokomotor karena pelakunya ....",
           "options": [
-            "berdiri satu kaki",
-            "membungkuk",
-            "menggerakkan bola menjauh menggunakan tangan",
-            "menahan bola dengan kaki"
+            "mengendalikan benda seperti bola",
+            "selalu berpindah tempat tanpa benda",
+            "hanya diam tanpa menggerakkan tubuh",
+            "harus berlari secepat mungkin"
           ],
-          "answer": "menggerakkan bola menjauh menggunakan tangan",
-          "discussion": "Melempar bola: menggerakkan bola menjauh menggunakan tangan."
+          "answer": "mengendalikan benda seperti bola",
+          "discussion": "Gerak manipulatif melibatkan pengendalian benda di luar tubuh, misalnya melempar, menangkap, menendang, atau menahan bola."
         },
         {
           "id": "K03-PJK-B03-M01-002",
           "type": "PG",
-          "text": "Bola datang perlahan ke arah dada Maya. Apa yang perlu dilakukan tangannya?",
+          "text": "Dina melambungkan bola sendiri dari bawah. Urutan awal yang tepat adalah ....",
           "options": [
-            "berjalan mundur",
-            "menerima bola dengan tangan secara terkendali",
-            "menendang bola",
-            "memutar badan"
+            "berdiri seimbang, ayunkan tangan dari bawah, lalu lepaskan bola",
+            "pejamkan mata, lempar sekuatnya, lalu berputar",
+            "duduk, taruh bola, lalu tinggalkan",
+            "hadapkan badan ke belakang dan lempar tanpa melihat"
           ],
-          "answer": "menerima bola dengan tangan secara terkendali",
-          "discussion": "Menangkap bola: menerima bola dengan tangan secara terkendali."
+          "answer": "berdiri seimbang, ayunkan tangan dari bawah, lalu lepaskan bola",
+          "discussion": "Lambungan bawah dimulai dari sikap seimbang, ayunan tangan dari bawah, dan pelepasan bola yang terkendali."
         },
         {
           "id": "K03-PJK-B03-M01-003",
           "type": "PG",
-          "text": "Bima mengirim bola ke depan dengan bagian kaki. Penjelasan gerak yang cocok adalah ....",
+          "text": "Saat bola yang dilambungkan sendiri turun, pandangan sebaiknya ....",
           "options": [
-            "menggerakkan bola menggunakan kaki",
-            "memukul bola dengan tangan",
-            "menangkap bola",
-            "mengayun lengan"
+            "mengikuti arah bola",
+            "melihat teman di belakang",
+            "menatap lantai terus-menerus",
+            "dipejamkan agar tidak silau"
           ],
-          "answer": "menggerakkan bola menggunakan kaki",
-          "discussion": "Menendang bola: menggerakkan bola menggunakan kaki."
+          "answer": "mengikuti arah bola",
+          "discussion": "Mengikuti arah bola membantu tangan memperkirakan tempat dan waktu tangkapan."
         },
         {
           "id": "K03-PJK-B03-M01-004",
           "type": "PG",
-          "text": "Rani membawa bola sambil berjalan dan menyentuhnya berkali-kali memakai kaki. Tekniknya adalah ....",
+          "text": "Untuk menangkap lambungan sendiri dengan lebih terkendali, Raka sebaiknya ....",
           "options": [
-            "melempar bola ke udara",
-            "duduk diam",
-            "berputar",
-            "mengontrol bola lewat sentuhan kaki berulang"
+            "menyiapkan kedua tangan pada arah datang bola",
+            "menepuk bola menjauh dengan satu jari",
+            "membelakangi bola sampai jatuh",
+            "menunggu bola mengenai badan"
           ],
-          "answer": "mengontrol bola lewat sentuhan kaki berulang",
-          "discussion": "Menggiring bola dengan kaki: mengontrol bola lewat sentuhan kaki berulang."
+          "answer": "menyiapkan kedua tangan pada arah datang bola",
+          "discussion": "Dua tangan yang siap pada jalur bola membantu menerima dan menguasai bola."
         },
         {
           "id": "K03-PJK-B03-M01-005",
           "type": "PG",
-          "text": "Seorang siswa mendorong bola ke lantai lalu menangkap pantulannya. Kegiatan ini adalah ....",
+          "text": "Siti dan Nara berdiri berhadapan. Agar bola tiba setinggi dada teman, Siti perlu ....",
           "options": [
-            "menendang jauh",
-            "membungkuk",
-            "mendorong bola ke lantai agar memantul kembali",
-            "menahan bola di tas"
+            "mengarahkan lemparan terukur ke dada teman yang siap",
+            "melempar ke atas kepala teman tanpa aba-aba",
+            "melempar ke samping menjauhi pasangan",
+            "menjatuhkan bola di belakang tubuh"
           ],
-          "answer": "mendorong bola ke lantai agar memantul kembali",
-          "discussion": "Memantulkan bola: mendorong bola ke lantai agar memantul kembali."
+          "answer": "mengarahkan lemparan terukur ke dada teman yang siap",
+          "discussion": "Lemparan dada diarahkan terukur kepada pasangan yang sudah siap menerima."
         },
         {
           "id": "K03-PJK-B03-M01-006",
           "type": "PG",
-          "text": "Dalam permainan, Lani memberikan bola kepada pemain lain pada tim yang sama. Gerak apakah itu?",
+          "text": "Pada operan pantul, bola seharusnya ....",
           "options": [
-            "mengabaikan teman",
-            "memberikan bola kepada teman satu tim",
-            "menyembunyikan bola",
-            "melempar ke penonton"
+            "menyentuh lantai sebelum diterima pasangan",
+            "melewati kepala penerima tanpa memantul",
+            "digelindingkan ke luar lapangan",
+            "dipegang sambil berlari"
           ],
-          "answer": "memberikan bola kepada teman satu tim",
-          "discussion": "Mengoper bola: memberikan bola kepada teman satu tim."
+          "answer": "menyentuh lantai sebelum diterima pasangan",
+          "discussion": "Ciri operan pantul adalah bola memantul di lantai sebelum sampai kepada penerima."
         },
         {
           "id": "K03-PJK-B03-M01-007",
           "type": "PG",
-          "text": "Sebelum melempar, siswa memeriksa agar tidak ada teman di jalur sasaran. Prinsip yang sesuai adalah ....",
+          "text": "Bola perlu dikirim melewati penghalang rendah menuju teman yang siap. Variasi yang dapat dipilih adalah ....",
           "options": [
-            "diarahkan ke sasaran yang aman",
-            "ke wajah teman",
-            "ke kaca jendela",
-            "ke jalan raya"
+            "operan dari atas kepala secara terkendali",
+            "tendangan keras ke arah wajah",
+            "lemparan tanpa melihat sasaran",
+            "menahan bola di bawah kaki"
           ],
-          "answer": "diarahkan ke sasaran yang aman",
-          "discussion": "Arah lemparan: diarahkan ke sasaran yang aman."
+          "answer": "operan dari atas kepala secara terkendali",
+          "discussion": "Operan atas kepala merupakan salah satu variasi lempar-tangkap, tetapi arah dan tenaganya tetap harus terkendali."
         },
         {
           "id": "K03-PJK-B03-M01-008",
           "type": "PG",
-          "text": "Bola bergerak lurus ke arah dada. Apa yang perlu diperhatikan sebelum menerimanya?",
+          "text": "Bola menyusur tanah menuju Lala. Cara menerima yang paling sesuai ialah ....",
           "options": [
-            "memejamkan mata",
-            "membelakangi bola",
-            "berlari tanpa melihat",
-            "memperhatikan arah datang bola dan menyiapkan tangan"
+            "rendahkan badan dan siapkan tangan pada jalur bola",
+            "berdiri kaku sambil melihat ke arah lain",
+            "melompat membelakangi bola",
+            "menendang bola kembali sebelum menyentuh tangan"
           ],
-          "answer": "memperhatikan arah datang bola dan menyiapkan tangan",
-          "discussion": "Menangkap bola mendatar: memperhatikan arah datang bola dan menyiapkan tangan."
+          "answer": "rendahkan badan dan siapkan tangan pada jalur bola",
+          "discussion": "Bola rendah atau menyusur tanah diterima dengan merendahkan badan dan menempatkan tangan pada jalurnya."
         },
         {
           "id": "K03-PJK-B03-M01-009",
           "type": "PG",
-          "text": "Semua anggota kelompok ingin memegang bola. Bagaimana permainan seharusnya berlangsung?",
+          "text": "Dua anak baru belajar lempar-tangkap. Pengaturan awal yang membantu mereka berhasil adalah ....",
           "options": [
-            "mengejek teman",
-            "mendorong lawan",
-            "mematuhi aturan dan bergiliran",
-            "merebut secara kasar"
+            "jarak dekat dengan bola ringan atau lunak",
+            "jarak sejauh mungkin dengan bola berat",
+            "melempar bersamaan tanpa aba-aba",
+            "berdiri di dekat kaca agar ada sasaran"
           ],
-          "answer": "mematuhi aturan dan bergiliran",
-          "discussion": "Bermain bola bersama: mematuhi aturan dan bergiliran."
+          "answer": "jarak dekat dengan bola ringan atau lunak",
+          "discussion": "Jarak dekat dan bola yang mudah dikendalikan mengurangi kesulitan serta risiko pada tahap awal."
         },
         {
           "id": "K03-PJK-B03-M01-010",
           "type": "PG",
-          "text": "Bola latihan terlalu berat bagi anak kelas tiga. Apa keputusan yang tepat?",
+          "text": "Guru meminta tiga variasi lemparan bola kasti. Kelompok gerak yang sesuai adalah ....",
           "options": [
-            "selalu lebih besar dari tubuh",
-            "dipilih sesuai ukuran dan kemampuan",
-            "harus paling berat",
-            "harus keras seperti batu"
+            "ayunan atas, ayunan samping, dan ayunan bawah",
+            "duduk, tidur, dan diam",
+            "merangkak, berguling, dan meluncur",
+            "menendang, menginjak, dan menyundul"
           ],
-          "answer": "dipilih sesuai ukuran dan kemampuan",
-          "discussion": "Bola untuk latihan anak: dipilih sesuai ukuran dan kemampuan."
+          "answer": "ayunan atas, ayunan samping, dan ayunan bawah",
+          "discussion": "Buku acuan memuat variasi lemparan ayunan atas, samping, dan bawah."
         },
         {
           "id": "K03-PJK-B03-M01-011",
           "type": "PG",
-          "text": "Dalam permainan target, bola bergerak menjauh setelah dilepas dari tangan. Cara gerak yang sesuai adalah ....",
+          "text": "Pada latihan individu, Bayu melempar bola ke atas lalu menangkapnya kembali. Kegiatan itu melatih ....",
           "options": [
-            "menggerakkan bola menjauh menggunakan tangan",
-            "menahan bola dengan kaki",
-            "berdiri satu kaki",
-            "membungkuk"
+            "ketepatan lambungan dan tangkapan sendiri",
+            "kecepatan menendang ke gawang",
+            "kemampuan bergantung pada palang",
+            "daya tahan berenang jauh"
           ],
-          "answer": "menggerakkan bola menjauh menggunakan tangan",
-          "discussion": "Melempar bola: menggerakkan bola menjauh menggunakan tangan."
+          "answer": "ketepatan lambungan dan tangkapan sendiri",
+          "discussion": "Lempar-tangkap individu melatih pengendalian arah lambungan dan kesiapan menerima bola."
         },
         {
           "id": "K03-PJK-B03-M01-012",
           "type": "PG",
-          "text": "Guru mengirim bola lunak kepada siswa. Apa teknik dasar untuk menerimanya?",
+          "text": "Dalam latihan berbanjar, pemain telah melempar bola kepada barisan depan. Tindakan berikutnya sesuai aturan latihan adalah ....",
           "options": [
-            "menendang bola",
-            "memutar badan",
-            "berjalan mundur",
-            "menerima bola dengan tangan secara terkendali"
+            "berpindah ke tempat yang ditentukan agar giliran berjalan",
+            "tetap di jalur bola dan menghalangi teman",
+            "merebut bola dari penerima",
+            "keluar lapangan tanpa memberi tahu"
           ],
-          "answer": "menerima bola dengan tangan secara terkendali",
-          "discussion": "Menangkap bola: menerima bola dengan tangan secara terkendali."
+          "answer": "berpindah ke tempat yang ditentukan agar giliran berjalan",
+          "discussion": "Perpindahan setelah melempar membuat latihan berbanjar berjalan tertib dan semua mendapat giliran."
         },
         {
           "id": "K03-PJK-B03-M01-013",
           "type": "PG",
-          "text": "Dalam permainan sederhana, bola dipindahkan tanpa menggunakan tangan, melainkan dengan kaki. Itu contoh ....",
+          "text": "Tiga siswa berdiri membentuk segitiga untuk latihan operan. Keuntungan formasi ini adalah ....",
           "options": [
-            "menangkap bola",
-            "mengayun lengan",
-            "menggerakkan bola menggunakan kaki",
-            "memukul bola dengan tangan"
+            "bola dapat diarahkan kepada lebih dari satu posisi teman",
+            "semua siswa harus berdiri pada satu titik",
+            "penerima tidak perlu melihat bola",
+            "bola hanya boleh disimpan oleh satu siswa"
           ],
-          "answer": "menggerakkan bola menggunakan kaki",
-          "discussion": "Menendang bola: menggerakkan bola menggunakan kaki."
+          "answer": "bola dapat diarahkan kepada lebih dari satu posisi teman",
+          "discussion": "Formasi segitiga memberi beberapa arah operan dan melatih perhatian terhadap posisi teman."
         },
         {
           "id": "K03-PJK-B03-M01-014",
           "type": "PG",
-          "text": "Saat melewati penanda, bola tetap dekat dengan kaki dan dikendalikan. Uraian yang benar adalah ....",
+          "text": "Dalam formasi lingkaran, seorang pemain di tengah selesai mengoper. Ia kemudian bertukar tempat dengan pemain di garis lingkaran. Sikap yang tepat adalah ....",
           "options": [
-            "berputar",
-            "mengontrol bola lewat sentuhan kaki berulang",
-            "melempar bola ke udara",
-            "duduk diam"
+            "bergerak sesuai giliran tanpa memotong jalur bola",
+            "berlari sembarang arah saat bola dilempar",
+            "mendorong teman agar cepat berpindah",
+            "diam di tengah sepanjang latihan"
           ],
-          "answer": "mengontrol bola lewat sentuhan kaki berulang",
-          "discussion": "Menggiring bola dengan kaki: mengontrol bola lewat sentuhan kaki berulang."
+          "answer": "bergerak sesuai giliran tanpa memotong jalur bola",
+          "discussion": "Perpindahan teratur menjaga alur latihan dan mengurangi tabrakan."
         },
         {
           "id": "K03-PJK-B03-M01-015",
           "type": "PG",
-          "text": "Dalam latihan, bola menyentuh lantai dan kembali ke tangan. Penjelasan gerak yang sesuai ialah ....",
+          "text": "Sebelum melempar kepada pasangan, tindakan paling aman adalah ....",
           "options": [
-            "mendorong bola ke lantai agar memantul kembali",
-            "menahan bola di tas",
-            "menendang jauh",
-            "membungkuk"
+            "memastikan pasangan melihat dan siap menerima",
+            "melempar tiba-tiba untuk menguji refleks",
+            "mengarahkan bola ke wajah pasangan",
+            "menambah tenaga walau jarak dekat"
           ],
-          "answer": "mendorong bola ke lantai agar memantul kembali",
-          "discussion": "Memantulkan bola: mendorong bola ke lantai agar memantul kembali."
+          "answer": "memastikan pasangan melihat dan siap menerima",
+          "discussion": "Isyarat kesiapan mencegah bola mengenai teman yang belum memperhatikan."
         },
         {
           "id": "K03-PJK-B03-M01-016",
           "type": "PG",
-          "text": "Guru meminta anak mengirim bola kepada teman yang siap menerima. Pilih deskripsi tindakannya.",
+          "text": "Saat latihan, Tono merasa pusing. Ia sebaiknya ....",
           "options": [
-            "menyembunyikan bola",
-            "melempar ke penonton",
-            "mengabaikan teman",
-            "memberikan bola kepada teman satu tim"
+            "berhenti, menepi dengan aman, dan memberi tahu guru",
+            "memaksa berlatih agar tidak kehilangan giliran",
+            "berlari lebih cepat supaya segera selesai",
+            "diam-diam meninggalkan sekolah"
           ],
-          "answer": "memberikan bola kepada teman satu tim",
-          "discussion": "Mengoper bola: memberikan bola kepada teman satu tim."
+          "answer": "berhenti, menepi dengan aman, dan memberi tahu guru",
+          "discussion": "Pusing merupakan alasan untuk berhenti beraktivitas dan meminta bantuan guru."
         },
         {
           "id": "K03-PJK-B03-M01-017",
           "type": "PG",
-          "text": "Papan sasaran berada dekat kerumunan. Apa penyesuaian arah yang paling aman?",
+          "text": "Anak takut menangkap bola kecil yang keras. Penyesuaian yang paling tepat adalah ....",
           "options": [
-            "ke kaca jendela",
-            "ke jalan raya",
-            "diarahkan ke sasaran yang aman",
-            "ke wajah teman"
+            "gunakan bola lebih besar dan lunak pada jarak dekat",
+            "tetap gunakan bola keras dari jarak jauh",
+            "suruh anak menutup mata saat menangkap",
+            "lempar lebih cepat agar segera terbiasa"
           ],
-          "answer": "diarahkan ke sasaran yang aman",
-          "discussion": "Arah lemparan: diarahkan ke sasaran yang aman."
+          "answer": "gunakan bola lebih besar dan lunak pada jarak dekat",
+          "discussion": "Ukuran lebih besar, bahan lunak, dan jarak dekat dapat membantu belajar secara bertahap."
         },
         {
           "id": "K03-PJK-B03-M01-018",
           "type": "PG",
-          "text": "Saat bola datang sejajar badan, tangan disiapkan mengikuti arah bola. Cara yang sesuai adalah ....",
+          "text": "Kelompok mencatat 10 lemparan dan 8 tangkapan berhasil. Catatan itu paling tepat digunakan untuk ....",
           "options": [
-            "berlari tanpa melihat",
-            "memperhatikan arah datang bola dan menyiapkan tangan",
-            "memejamkan mata",
-            "membelakangi bola"
+            "menilai hasil latihan dan menentukan bagian yang perlu diperbaiki",
+            "menentukan siapa yang boleh mengejek temannya",
+            "membuktikan semua lemparan sudah sempurna",
+            "menghapus kebutuhan untuk berlatih lagi"
           ],
-          "answer": "memperhatikan arah datang bola dan menyiapkan tangan",
-          "discussion": "Menangkap bola mendatar: memperhatikan arah datang bola dan menyiapkan tangan."
+          "answer": "menilai hasil latihan dan menentukan bagian yang perlu diperbaiki",
+          "discussion": "Catatan keberhasilan membantu refleksi; dua tangkapan yang belum berhasil dapat dipelajari penyebabnya."
         },
         {
           "id": "K03-PJK-B03-M01-019",
           "type": "PG",
-          "text": "Seorang teman belum mendapat giliran bermain. Tindakan yang baik adalah ....",
+          "text": "Satu bola digunakan oleh empat siswa. Agar latihan adil, mereka perlu ....",
           "options": [
-            "mematuhi aturan dan bergiliran",
-            "merebut secara kasar",
-            "mengejek teman",
-            "mendorong lawan"
+            "bergiliran sesuai urutan yang disepakati",
+            "membiarkan siswa terkuat bermain terus",
+            "berebut setiap kali bola jatuh",
+            "menyembunyikan bola dari kelompok lain"
           ],
-          "answer": "mematuhi aturan dan bergiliran",
-          "discussion": "Bermain bola bersama: mematuhi aturan dan bergiliran."
+          "answer": "bergiliran sesuai urutan yang disepakati",
+          "discussion": "Bergiliran menunjukkan gotong royong dan memberi kesempatan belajar kepada semua anggota."
         },
         {
           "id": "K03-PJK-B03-M01-020",
           "type": "PG",
-          "text": "Guru menyediakan bola besar dan bola kecil. Apa dasar memilih alat latihan?",
+          "text": "Dalam permainan lempar-tangkap yang dimodifikasi, bola tidak boleh dibawa sambil berjalan. Ketika menerima bola, pemain harus ....",
           "options": [
-            "harus paling berat",
-            "harus keras seperti batu",
-            "selalu lebih besar dari tubuh",
-            "dipilih sesuai ukuran dan kemampuan"
+            "berhenti lalu mengoper kepada teman",
+            "berlari memeluk bola sampai gawang",
+            "menendang bola keluar lapangan",
+            "duduk dan menyimpan bola"
           ],
-          "answer": "dipilih sesuai ukuran dan kemampuan",
-          "discussion": "Bola untuk latihan anak: dipilih sesuai ukuran dan kemampuan."
+          "answer": "berhenti lalu mengoper kepada teman",
+          "discussion": "Jika aturan melarang membawa bola sambil berjalan, penerima berhenti dan melanjutkan permainan dengan operan."
         },
         {
           "id": "K03-PJK-B03-M01-021",
           "type": "PG",
-          "text": "Saat melempar, sumber dorongan utama bola berasal dari bagian tubuh mana? Pilih penjelasan geraknya.",
+          "text": "Untuk mengoper bola mendatar dengan kaki secara lebih terarah, bagian kaki yang umum digunakan adalah ....",
           "options": [
-            "berdiri satu kaki",
-            "membungkuk",
-            "menggerakkan bola menjauh menggunakan tangan",
-            "menahan bola dengan kaki"
+            "kaki bagian dalam",
+            "ujung jari tangan",
+            "siku bagian luar",
+            "tumit sambil membelakangi sasaran"
           ],
-          "answer": "menggerakkan bola menjauh menggunakan tangan",
-          "discussion": "Melempar bola: menggerakkan bola menjauh menggunakan tangan."
+          "answer": "kaki bagian dalam",
+          "discussion": "Kaki bagian dalam memberikan bidang sentuh yang lebar sehingga cocok untuk operan terarah."
         },
         {
           "id": "K03-PJK-B03-M01-022",
           "type": "PG",
-          "text": "Ketika bola mendekat, siswa mengamati arah lalu menerima bola. Gerak yang tepat disebut ....",
+          "text": "Bola berada sedikit di samping kaki. Variasi tendangan yang sesuai untuk dipelajari adalah menggunakan ....",
           "options": [
-            "berjalan mundur",
-            "menerima bola dengan tangan secara terkendali",
-            "menendang bola",
-            "memutar badan"
+            "kaki bagian luar",
+            "telapak tangan",
+            "lutut sambil duduk",
+            "bahu tanpa melihat"
           ],
-          "answer": "menerima bola dengan tangan secara terkendali",
-          "discussion": "Menangkap bola: menerima bola dengan tangan secara terkendali."
+          "answer": "kaki bagian luar",
+          "discussion": "Kaki bagian luar termasuk variasi bagian kaki untuk menendang dalam unit ini."
         },
         {
           "id": "K03-PJK-B03-M01-023",
           "type": "PG",
-          "text": "Jika bola berada di tanah dan harus digerakkan dengan kaki, pilih keterampilan yang sesuai.",
+          "text": "Saat berlatih menendang dengan punggung kaki, kaki tumpu sebaiknya ....",
           "options": [
-            "menggerakkan bola menggunakan kaki",
-            "memukul bola dengan tangan",
-            "menangkap bola",
-            "mengayun lengan"
+            "diletakkan seimbang di samping bola",
+            "diangkat tinggi saat kaki lain menyentuh bola",
+            "diletakkan di atas bola yang bergerak cepat",
+            "disilangkan jauh di belakang tanpa keseimbangan"
           ],
-          "answer": "menggerakkan bola menggunakan kaki",
-          "discussion": "Menendang bola: menggerakkan bola menggunakan kaki."
+          "answer": "diletakkan seimbang di samping bola",
+          "discussion": "Kaki tumpu di samping bola membantu keseimbangan dan arah tendangan."
         },
         {
           "id": "K03-PJK-B03-M01-024",
           "type": "PG",
-          "text": "Apa cara mempertahankan kendali bola selama berpindah tempat menggunakan kaki?",
+          "text": "Bola menggelinding pelan menuju kaki Rani. Untuk menahannya, Rani dapat ....",
           "options": [
-            "melempar bola ke udara",
-            "duduk diam",
-            "berputar",
-            "mengontrol bola lewat sentuhan kaki berulang"
+            "menempatkan telapak kaki dengan tekanan ringan di atas bola",
+            "menginjak keras bola yang masih melaju cepat",
+            "menendang bola ke arah teman yang tidak siap",
+            "melompat menjauhi bola tanpa melihat"
           ],
-          "answer": "mengontrol bola lewat sentuhan kaki berulang",
-          "discussion": "Menggiring bola dengan kaki: mengontrol bola lewat sentuhan kaki berulang."
+          "answer": "menempatkan telapak kaki dengan tekanan ringan di atas bola",
+          "discussion": "Telapak kaki dapat digunakan menahan bola pelan dengan sentuhan terkendali, bukan injakan keras."
         },
         {
           "id": "K03-PJK-B03-M01-025",
           "type": "PG",
-          "text": "Agar bola dapat memantul kembali dari permukaan yang aman, tindakan yang tepat adalah ....",
+          "text": "Setelah bola ditahan, tujuan utama gerakan itu adalah ....",
           "options": [
-            "menendang jauh",
-            "membungkuk",
-            "mendorong bola ke lantai agar memantul kembali",
-            "menahan bola di tas"
+            "menguasai bola agar gerak berikutnya dapat dilakukan",
+            "membuat bola memantul setinggi mungkin",
+            "mengirim bola keluar area latihan",
+            "menghalangi semua teman mendekat"
           ],
-          "answer": "mendorong bola ke lantai agar memantul kembali",
-          "discussion": "Memantulkan bola: mendorong bola ke lantai agar memantul kembali."
+          "answer": "menguasai bola agar gerak berikutnya dapat dilakukan",
+          "discussion": "Menahan atau menghentikan bola membuat pemain menguasai bola sebelum mengoper atau menendang lagi."
         },
         {
           "id": "K03-PJK-B03-M01-026",
           "type": "PG",
-          "text": "Apa tujuan gerakan memberi bola dari satu pemain kepada rekan satu kelompok?",
+          "text": "Pada latihan berpasangan, urutan yang tepat adalah ....",
           "options": [
-            "mengabaikan teman",
-            "memberikan bola kepada teman satu tim",
-            "menyembunyikan bola",
-            "melempar ke penonton"
+            "A mengoper, B menahan, lalu B mengoper kembali",
+            "A dan B menendang bersamaan ke arah berlawanan",
+            "B membelakangi A saat bola dikirim",
+            "A menendang terus tanpa memberi giliran"
           ],
-          "answer": "memberikan bola kepada teman satu tim",
-          "discussion": "Mengoper bola: memberikan bola kepada teman satu tim."
+          "answer": "A mengoper, B menahan, lalu B mengoper kembali",
+          "discussion": "Urutan oper–tahan–oper kembali melatih dua keterampilan secara bergantian."
         },
         {
           "id": "K03-PJK-B03-M01-027",
           "type": "PG",
-          "text": "Jika teman sedang melintas di depan, apa prinsip memilih arah lemparan?",
+          "text": "Dalam formasi bertiga, satu siswa berada di tengah dan dua siswa di sisi. Agar semua belajar, mereka sebaiknya ....",
           "options": [
-            "diarahkan ke sasaran yang aman",
-            "ke wajah teman",
-            "ke kaca jendela",
-            "ke jalan raya"
+            "bertukar peran setelah beberapa operan",
+            "menempatkan siswa yang sama di tengah selamanya",
+            "mengoper melewati siswa tengah tanpa aturan",
+            "berlari keluar formasi setiap kali menerima bola"
           ],
-          "answer": "diarahkan ke sasaran yang aman",
-          "discussion": "Arah lemparan: diarahkan ke sasaran yang aman."
+          "answer": "bertukar peran setelah beberapa operan",
+          "discussion": "Pergantian peran memberi kesempatan setara untuk mengoper, menahan, dan bergerak."
         },
         {
           "id": "K03-PJK-B03-M01-028",
           "type": "PG",
-          "text": "Agar tangkapan bola mendatar tidak mengenai wajah, siswa sebaiknya ....",
+          "text": "Empat siswa berlatih mengoper dan menahan bola sambil bergerak ke kanan dan kiri. Hal yang harus dijaga adalah ....",
           "options": [
-            "memejamkan mata",
-            "membelakangi bola",
-            "berlari tanpa melihat",
-            "memperhatikan arah datang bola dan menyiapkan tangan"
+            "jarak antarpemain dan arah bola tetap terkendali",
+            "semua bergerak ke titik yang sama secepatnya",
+            "bola ditendang sekeras mungkin",
+            "pandangan selalu menjauhi bola"
           ],
-          "answer": "memperhatikan arah datang bola dan menyiapkan tangan",
-          "discussion": "Menangkap bola mendatar: memperhatikan arah datang bola dan menyiapkan tangan."
+          "answer": "jarak antarpemain dan arah bola tetap terkendali",
+          "discussion": "Jarak dan arah yang terkendali membantu latihan formasi berempat berlangsung aman."
         },
         {
           "id": "K03-PJK-B03-M01-029",
           "type": "PG",
-          "text": "Saat aturan permainan bola disepakati bersama, apa yang perlu dilakukan pemain?",
+          "text": "Latihan mengumpan dan menendang ke gawang dilakukan oleh pengumpan, penendang, dan penjaga gawang. Setelah satu putaran, mereka perlu ....",
           "options": [
-            "mengejek teman",
-            "mendorong lawan",
-            "mematuhi aturan dan bergiliran",
-            "merebut secara kasar"
+            "berganti peran secara teratur",
+            "mempertahankan satu peran untuk satu anak",
+            "menambah bola tanpa aba-aba",
+            "berdiri bersama di depan gawang"
           ],
-          "answer": "mematuhi aturan dan bergiliran",
-          "discussion": "Bermain bola bersama: mematuhi aturan dan bergiliran."
+          "answer": "berganti peran secara teratur",
+          "discussion": "Pergantian peran membuat setiap anak mencoba tugas yang berbeda dan menjaga latihan adil."
         },
         {
           "id": "K03-PJK-B03-M01-030",
           "type": "PG",
-          "text": "Mengapa penggunaan bola untuk latihan perlu disesuaikan dengan peserta?",
+          "text": "Guru meminta siswa berlatih menggunakan kaki kanan dan kiri. Tujuannya adalah ....",
           "options": [
-            "selalu lebih besar dari tubuh",
-            "dipilih sesuai ukuran dan kemampuan",
-            "harus paling berat",
-            "harus keras seperti batu"
+            "mengembangkan kendali gerak pada kedua sisi tubuh",
+            "menentukan kaki mana yang boleh dipakai selamanya",
+            "membuat tendangan selalu lebih keras",
+            "mengurangi kebutuhan melihat sasaran"
           ],
-          "answer": "dipilih sesuai ukuran dan kemampuan",
-          "discussion": "Bola untuk latihan anak: dipilih sesuai ukuran dan kemampuan."
+          "answer": "mengembangkan kendali gerak pada kedua sisi tubuh",
+          "discussion": "Latihan kedua kaki memperkaya pengalaman gerak dan kemampuan menyesuaikan posisi bola."
         },
         {
           "id": "K03-PJK-B03-M01-031",
           "type": "PG",
-          "text": "Pada latihan berpasangan, bola harus dikirim dari tangan siswa A menuju siswa B. Gerak pengiriman ini disebut apa?",
+          "text": "Di belakang gawang terdapat jendela kelas. Penyesuaian paling aman adalah ....",
           "options": [
-            "menggerakkan bola menjauh menggunakan tangan",
-            "menahan bola dengan kaki",
-            "berdiri satu kaki",
-            "membungkuk"
+            "memindahkan arah gawang atau memasang pembatas yang aman",
+            "tetap menendang keras ke arah jendela",
+            "menyuruh teman berdiri di depan kaca",
+            "menggunakan bola lebih berat agar tidak melambung"
           ],
-          "answer": "menggerakkan bola menjauh menggunakan tangan",
-          "discussion": "Melempar bola: menggerakkan bola menjauh menggunakan tangan."
+          "answer": "memindahkan arah gawang atau memasang pembatas yang aman",
+          "discussion": "Area sasaran harus bebas dari kaca, jalan, dan orang yang tidak ikut latihan."
         },
         {
           "id": "K03-PJK-B03-M01-032",
           "type": "PG",
-          "text": "Saat bola datang ke arah badan, guru mencontohkan cara menerima dengan tangan yang siap. Itu merupakan keterampilan ....",
+          "text": "Saat teman mengambil bola di depan gawang, penendang sebaiknya ....",
           "options": [
-            "menendang bola",
-            "memutar badan",
-            "berjalan mundur",
-            "menerima bola dengan tangan secara terkendali"
+            "menunggu sampai jalur benar-benar kosong",
+            "segera menendang sebelum teman kembali",
+            "mengarahkan bola melewati kepala teman",
+            "berlatih dengan mata tertutup"
           ],
-          "answer": "menerima bola dengan tangan secara terkendali",
-          "discussion": "Menangkap bola: menerima bola dengan tangan secara terkendali."
+          "answer": "menunggu sampai jalur benar-benar kosong",
+          "discussion": "Tidak boleh menendang ketika ada orang di jalur bola."
         },
         {
           "id": "K03-PJK-B03-M01-033",
           "type": "PG",
-          "text": "Siswa diminta menggerakkan bola tanpa menyentuh dengan tangan. Bagaimana bola dapat dikirim dengan kaki?",
+          "text": "Operan Dodi selalu melewati temannya. Perbaikan pertama yang paling masuk akal adalah ....",
           "options": [
-            "menangkap bola",
-            "mengayun lengan",
-            "menggerakkan bola menggunakan kaki",
-            "memukul bola dengan tangan"
+            "mengurangi tenaga dan mengarahkan kaki ke sasaran",
+            "menambah tenaga pada setiap tendangan",
+            "menutup mata saat menyentuh bola",
+            "mengganti sasaran dengan jendela"
           ],
-          "answer": "menggerakkan bola menggunakan kaki",
-          "discussion": "Menendang bola: menggerakkan bola menggunakan kaki."
+          "answer": "mengurangi tenaga dan mengarahkan kaki ke sasaran",
+          "discussion": "Bola yang terus melewati penerima menunjukkan tenaga atau arah perlu dikendalikan."
         },
         {
           "id": "K03-PJK-B03-M01-034",
           "type": "PG",
-          "text": "Dalam rute berpenanda, bola dijaga tetap dekat melalui sentuhan kaki yang berulang. Ini contoh ....",
+          "text": "Setelah beberapa tangkapan gagal, pasangan berdiskusi. Umpan balik yang baik adalah ....",
           "options": [
-            "berputar",
-            "mengontrol bola lewat sentuhan kaki berulang",
-            "melempar bola ke udara",
-            "duduk diam"
+            "bola terlalu tinggi; mari arahkan setinggi dada dan coba pelan",
+            "kamu selalu buruk dan tidak perlu mencoba",
+            "aku akan melempar tanpa aba-aba lagi",
+            "kita hentikan giliran teman yang lain"
           ],
-          "answer": "mengontrol bola lewat sentuhan kaki berulang",
-          "discussion": "Menggiring bola dengan kaki: mengontrol bola lewat sentuhan kaki berulang."
+          "answer": "bola terlalu tinggi; mari arahkan setinggi dada dan coba pelan",
+          "discussion": "Umpan balik yang spesifik, sopan, dan menawarkan perbaikan membantu proses belajar."
         },
         {
           "id": "K03-PJK-B03-M01-035",
           "type": "PG",
-          "text": "Siswa melatih pantulan bola agar kembali dari lantai ke tangan. Tekniknya adalah ....",
+          "text": "Manakah pasangan keterampilan yang sama-sama termasuk gerak manipulatif dalam permainan bola?",
           "options": [
-            "mendorong bola ke lantai agar memantul kembali",
-            "menahan bola di tas",
-            "menendang jauh",
-            "membungkuk"
+            "melempar bola dan menahan bola",
+            "berjalan dan berlari tanpa bola",
+            "membungkuk dan meliuk tanpa alat",
+            "bergantung dan mendarat"
           ],
-          "answer": "mendorong bola ke lantai agar memantul kembali",
-          "discussion": "Memantulkan bola: mendorong bola ke lantai agar memantul kembali."
+          "answer": "melempar bola dan menahan bola",
+          "discussion": "Melempar dan menahan sama-sama mengendalikan bola; keduanya menjadi fokus Unit 3."
         }
       ]
     }
