@@ -11,171 +11,171 @@
         {
           "id": "K03-PJK-B03-M01-036",
           "type": "PG",
-          "text": "Dua anak saling memberi bola. Tindakan kerja sama apa yang sesuai?",
+          "text": "Diagram tiga lintasan operan menunjukkan A dari bawah, B lurus setinggi dada, dan C dari atas kepala. Lintasan mana yang merupakan operan setinggi dada?",
           "options": [
-            "menyembunyikan bola",
-            "melempar ke penonton",
-            "mengabaikan teman",
-            "memberikan bola kepada teman satu tim"
+            "lintasan A",
+            "lintasan B",
+            "lintasan C",
+            "semua lintasan sama"
           ],
-          "answer": "memberikan bola kepada teman satu tim",
-          "discussion": "Mengoper bola: memberikan bola kepada teman satu tim.",
+          "answer": "lintasan B",
+          "discussion": "Pada diagram, lintasan B bergerak lurus dari dada pelempar ke dada penerima.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-01.svg",
-            "alt": "Ilustrasi Mengoper bola"
+            "alt": "Tiga lintasan operan. Perbandingan operan bawah, setinggi dada, dan atas kepala."
           }
         },
         {
           "id": "K03-PJK-B03-M01-037",
           "type": "PG",
-          "text": "Panah menunjukkan bola bergerak ke sasaran kosong. Ke mana sebaiknya lemparan diarahkan?",
+          "text": "Urutan gambar memperlihatkan bola menyusur tanah mendekati anak. Tindakan pada tahap berikutnya yang paling tepat adalah ....",
           "options": [
-            "ke kaca jendela",
-            "ke jalan raya",
-            "diarahkan ke sasaran yang aman",
-            "ke wajah teman"
+            "merendahkan badan dan menyiapkan tangan",
+            "berbalik lalu berlari menjauh",
+            "menutup mata dan berdiri tegak",
+            "menendang bola sebelum dilihat"
           ],
-          "answer": "diarahkan ke sasaran yang aman",
-          "discussion": "Arah lemparan: diarahkan ke sasaran yang aman.",
+          "answer": "merendahkan badan dan menyiapkan tangan",
+          "discussion": "Bola menyusur tanah ditangkap dengan badan direndahkan dan tangan pada jalur bola.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-02.svg",
-            "alt": "Ilustrasi Arah lemparan"
+            "alt": "Menangkap bola rendah. Bola menyusur tanah menuju anak yang bersiap menangkap."
           }
         },
         {
           "id": "K03-PJK-B03-M01-038",
           "type": "PG",
-          "text": "Bola bergerak mendatar ke anak yang siap menerima. Bagaimana posisi perhatian dan tangannya?",
+          "text": "Catatan latihan menunjukkan 8 kali melempar dan 6 kali menangkap berhasil. Berapa tangkapan yang belum berhasil?",
           "options": [
-            "berlari tanpa melihat",
-            "memperhatikan arah datang bola dan menyiapkan tangan",
-            "memejamkan mata",
-            "membelakangi bola"
+            "1 tangkapan",
+            "2 tangkapan",
+            "6 tangkapan",
+            "14 tangkapan"
           ],
-          "answer": "memperhatikan arah datang bola dan menyiapkan tangan",
-          "discussion": "Menangkap bola mendatar: memperhatikan arah datang bola dan menyiapkan tangan.",
+          "answer": "2 tangkapan",
+          "discussion": "Delapan kesempatan dikurangi enam tangkapan berhasil sama dengan dua tangkapan yang belum berhasil.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-03.svg",
-            "alt": "Ilustrasi Menangkap bola mendatar"
+            "alt": "Hasil lempar tangkap. Kartu mencatat delapan lemparan dan enam tangkapan berhasil."
           }
         },
         {
           "id": "K03-PJK-B03-M01-039",
           "type": "PG",
-          "text": "Anak-anak bermain dengan satu bola bergantian. Aturan yang penting ialah ....",
+          "text": "Dua pilihan latihan pemula terlihat pada gambar. Pilihan A memakai bola lunak pada jarak 3 meter; pilihan B memakai bola keras pada jarak 6 meter. Pilihan yang lebih aman untuk memulai adalah ....",
           "options": [
-            "mematuhi aturan dan bergiliran",
-            "merebut secara kasar",
-            "mengejek teman",
-            "mendorong lawan"
+            "pilihan A",
+            "pilihan B",
+            "keduanya harus dilakukan bersamaan",
+            "tidak perlu menggunakan bola"
           ],
-          "answer": "mematuhi aturan dan bergiliran",
-          "discussion": "Bermain bola bersama: mematuhi aturan dan bergiliran.",
+          "answer": "pilihan A",
+          "discussion": "Bola lunak dan jarak lebih dekat membantu pemula belajar secara bertahap.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-04.svg",
-            "alt": "Ilustrasi Bermain bola bersama"
+            "alt": "Pilihan latihan pemula. Pilihan A bola lunak tiga meter dan pilihan B bola keras enam meter."
           }
         },
         {
           "id": "K03-PJK-B03-M01-040",
           "type": "PG",
-          "text": "Ada beberapa ukuran bola latihan. Bagaimana memilih bola bagi anak?",
+          "text": "Tiga anak membentuk segitiga. Panah menunjukkan bola dari posisi A menuju B. Jika latihan mengikuti arah panah melingkar, penerima berikutnya adalah ....",
           "options": [
-            "harus paling berat",
-            "harus keras seperti batu",
-            "selalu lebih besar dari tubuh",
-            "dipilih sesuai ukuran dan kemampuan"
+            "posisi A",
+            "posisi B",
+            "posisi C",
+            "di luar segitiga"
           ],
-          "answer": "dipilih sesuai ukuran dan kemampuan",
-          "discussion": "Bola untuk latihan anak: dipilih sesuai ukuran dan kemampuan.",
+          "answer": "posisi C",
+          "discussion": "Setelah B menerima dari A, arah panah berikutnya menuju posisi C.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-05.svg",
-            "alt": "Ilustrasi Bola untuk latihan anak"
+            "alt": "Operan formasi segitiga. Arah operan melingkar dari A ke B lalu C."
           }
         },
         {
           "id": "K03-PJK-B03-M01-041",
           "type": "PG",
-          "text": "Bola berpindah dari tangan pelempar ke depan. Keterampilan apa yang dilakukan?",
+          "text": "Gambar membandingkan tiga bagian kaki: A bagian dalam, B bagian luar, dan C punggung kaki. Panel mana yang menunjukkan kaki bagian dalam?",
           "options": [
-            "berdiri satu kaki",
-            "membungkuk",
-            "menggerakkan bola menjauh menggunakan tangan",
-            "menahan bola dengan kaki"
+            "panel A",
+            "panel B",
+            "panel C",
+            "semua panel menunjukkan telapak"
           ],
-          "answer": "menggerakkan bola menjauh menggunakan tangan",
-          "discussion": "Melempar bola: menggerakkan bola menjauh menggunakan tangan.",
+          "answer": "panel A",
+          "discussion": "Panel A menandai sisi dalam kaki yang menghadap kaki lainnya.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-06.svg",
-            "alt": "Ilustrasi Melempar bola"
+            "alt": "Bagian kaki. Panel A bagian dalam, B bagian luar, C punggung kaki."
           }
         },
         {
           "id": "K03-PJK-B03-M01-042",
           "type": "PG",
-          "text": "Bola datang menuju tangan penerima. Tindakan yang sesuai ialah ....",
+          "text": "Pada gambar, bola menggelinding pelan lalu telapak kaki diletakkan ringan di atasnya. Tujuan gerak itu adalah ....",
           "options": [
-            "berjalan mundur",
-            "menerima bola dengan tangan secara terkendali",
-            "menendang bola",
-            "memutar badan"
+            "menahan dan menguasai bola",
+            "memantulkan bola ke udara",
+            "melempar bola kepada teman",
+            "mempercepat bola ke gawang"
           ],
-          "answer": "menerima bola dengan tangan secara terkendali",
-          "discussion": "Menangkap bola: menerima bola dengan tangan secara terkendali.",
+          "answer": "menahan dan menguasai bola",
+          "discussion": "Sentuhan telapak kaki yang terkendali digunakan untuk menghentikan bola pelan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-07.svg",
-            "alt": "Ilustrasi Menangkap bola"
+            "alt": "Menahan bola. Bola menggelinding lalu dihentikan telapak kaki."
           }
         },
         {
           "id": "K03-PJK-B03-M01-043",
           "type": "PG",
-          "text": "Anak menggerakkan bola ke depan dengan kaki. Keterampilan apa yang sesuai?",
+          "text": "Diagram lapangan menunjukkan seorang anak masih berada pada jalur tendangan menuju gawang. Apa yang harus dilakukan penendang?",
           "options": [
-            "menggerakkan bola menggunakan kaki",
-            "memukul bola dengan tangan",
-            "menangkap bola",
-            "mengayun lengan"
+            "menunggu sampai jalur kosong",
+            "menendang melewati kepala anak",
+            "menambah tenaga agar bola cepat lewat",
+            "menutup mata lalu menendang"
           ],
-          "answer": "menggerakkan bola menggunakan kaki",
-          "discussion": "Menendang bola: menggerakkan bola menggunakan kaki.",
+          "answer": "menunggu sampai jalur kosong",
+          "discussion": "Tendangan baru dilakukan setelah tidak ada orang pada jalur bola.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-08.svg",
-            "alt": "Ilustrasi Menendang bola"
+            "alt": "Jalur tendangan. Seorang anak masih berada di antara penendang dan gawang."
           }
         },
         {
           "id": "K03-PJK-B03-M01-044",
           "type": "PG",
-          "text": "Bola digerakkan melalui beberapa sentuhan kaki. Bagaimana cara mengontrolnya?",
+          "text": "Gambar menunjukkan tiga peran: pengumpan, penendang, dan penjaga gawang, disertai panah pergantian. Setelah satu putaran, tindakan yang benar adalah ....",
           "options": [
-            "melempar bola ke udara",
-            "duduk diam",
-            "berputar",
-            "mengontrol bola lewat sentuhan kaki berulang"
+            "berganti peran mengikuti panah",
+            "pengumpan tetap memegang bola",
+            "penendang meninggalkan lapangan",
+            "semua berdiri di dalam gawang"
           ],
-          "answer": "mengontrol bola lewat sentuhan kaki berulang",
-          "discussion": "Menggiring bola dengan kaki: mengontrol bola lewat sentuhan kaki berulang.",
+          "answer": "berganti peran mengikuti panah",
+          "discussion": "Panah pada diagram menunjukkan rotasi agar setiap anak mencoba ketiga peran.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-09.svg",
-            "alt": "Ilustrasi Menggiring bola dengan kaki"
+            "alt": "Rotasi tiga peran. Pengumpan, penendang, dan penjaga gawang bertukar peran."
           }
         },
         {
           "id": "K03-PJK-B03-M01-045",
           "type": "PG",
-          "text": "Bola menyentuh lantai dan kembali naik. Manakah uraian gerak yang tepat?",
+          "text": "Tabel menunjukkan keberhasilan oper–tahan: percobaan 1 = 6, percobaan 2 = 8, percobaan 3 = 9. Percobaan dengan hasil terbaik adalah ....",
           "options": [
-            "menendang jauh",
-            "membungkuk",
-            "mendorong bola ke lantai agar memantul kembali",
-            "menahan bola di tas"
+            "percobaan 1",
+            "percobaan 2",
+            "percobaan 3",
+            "semua sama"
           ],
-          "answer": "mendorong bola ke lantai agar memantul kembali",
-          "discussion": "Memantulkan bola: mendorong bola ke lantai agar memantul kembali.",
+          "answer": "percobaan 3",
+          "discussion": "Nilai terbesar pada tabel adalah 9, yaitu hasil percobaan ketiga.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b03-gambar-10.svg",
-            "alt": "Ilustrasi Memantulkan bola"
+            "alt": "Hasil oper dan tahan. Tabel tiga percobaan dengan hasil enam, delapan, dan sembilan."
           }
         }
       ]
