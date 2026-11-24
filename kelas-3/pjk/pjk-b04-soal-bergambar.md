@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-PJK-B04-M01-036
 
-![Perbandingan bidang tumpuan sempit dan lebar](assets/pjk-b04-gambar-01.svg)
+![Bidang tumpuan. Posisi A kaki rapat dan B kaki terbuka.](assets/pjk-b04-gambar-01.svg)
 
 **Pertanyaan:** Dua posisi terlihat: A berdiri dengan kaki rapat, B berdiri dengan kaki terbuka selebar bahu. Untuk latihan awal yang membutuhkan bidang tumpuan lebih lebar, pilih ....
 
@@ -22,7 +22,7 @@
 
 ## Soal 37 — K03-PJK-B04-M01-037
 
-![Posisi keseimbangan silang tangan dan kaki](assets/pjk-b04-gambar-02.svg)
+![Tumpuan silang. Kaki kanan telah terangkat dan tangan kiri ditandai.](assets/pjk-b04-gambar-02.svg)
 
 **Pertanyaan:** Gambar menunjukkan posisi tangan dan lutut. Kaki kanan telah diangkat ke belakang. Anggota tubuh mana yang ditandai untuk diangkat berikutnya?
 
@@ -40,7 +40,7 @@
 
 ## Soal 38 — K03-PJK-B04-M01-038
 
-![Urutan kaki ke depan samping dan belakang](assets/pjk-b04-gambar-03.svg)
+![Arah kaki keseimbangan. Tiga panel kaki ke depan samping dan belakang.](assets/pjk-b04-gambar-03.svg)
 
 **Pertanyaan:** Tiga panel menunjukkan kaki bebas bergerak dari depan ke samping lalu ke belakang. Agar tetap aman, perpindahan dilakukan ....
 
@@ -58,7 +58,7 @@
 
 ## Soal 39 — K03-PJK-B04-M01-039
 
-![Urutan aman kembali dari sikap lilin](assets/pjk-b04-gambar-04.svg)
+![Kembali dari sikap lilin. Urutan kaki tegak, lutut ditekuk, lalu telentang.](assets/pjk-b04-gambar-04.svg)
 
 **Pertanyaan:** Urutan sikap lilin pada gambar berakhir dengan lutut ditekuk sebelum tubuh turun. Mengapa tahap itu dilakukan?
 
@@ -76,7 +76,7 @@
 
 ## Soal 40 — K03-PJK-B04-M01-040
 
-![Perbandingan tempat latihan senam aman dan tidak aman](assets/pjk-b04-gambar-05.svg)
+![Tempat latihan aman. A matras dan guru, B lantai keras tanpa pengawasan.](assets/pjk-b04-gambar-05.svg)
 
 **Pertanyaan:** Gambar membandingkan dua tempat latihan. A memakai matras dengan guru di dekatnya; B berada di lantai keras tanpa pengawasan. Pilihan yang sesuai adalah ....
 
@@ -94,7 +94,7 @@
 
 ## Soal 41 — K03-PJK-B04-M01-041
 
-![Urutan empat fase lompat kangkang](assets/pjk-b04-gambar-06.svg)
+![Fase lompat kangkang. Empat kartu persiapan tolakan melayang dan mendarat.](assets/pjk-b04-gambar-06.svg)
 
 **Pertanyaan:** Empat kartu gerak bernomor menunjukkan persiapan, tolakan, kaki membuka saat melayang, dan mendarat. Urutan yang benar adalah ....
 
@@ -112,7 +112,7 @@
 
 ## Soal 42 — K03-PJK-B04-M01-042
 
-![Perbandingan pendaratan lutut lentur dan kaku](assets/pjk-b04-gambar-07.svg)
+![Dua cara mendarat. A lutut lentur dan B lutut kaku.](assets/pjk-b04-gambar-07.svg)
 
 **Pertanyaan:** Dua pendaratan terlihat pada gambar. A mendarat dengan lutut lentur; B dengan lutut kaku. Pendaratan yang lebih terkendali adalah ....
 
@@ -130,7 +130,7 @@
 
 ## Soal 43 — K03-PJK-B04-M01-043
 
-![Tahapan latihan lompat kangkang dari garis ke alat](assets/pjk-b04-gambar-08.svg)
+![Tahapan latihan kangkang. A garis lantai, B rintangan rendah, C peti lebih tinggi.](assets/pjk-b04-gambar-08.svg)
 
 **Pertanyaan:** Pilihan latihan A memakai garis lantai, B memakai rintangan rendah, dan C memakai peti tinggi. Untuk pemula yang masih ragu, tahap awal yang tepat adalah ....
 
@@ -148,7 +148,7 @@
 
 ## Soal 44 — K03-PJK-B04-M01-044
 
-![Diagram area pendaratan yang masih terhalang](assets/pjk-b04-gambar-09.svg)
+![Area pendaratan terhalang. Teman masih berada pada matras pendaratan.](assets/pjk-b04-gambar-09.svg)
 
 **Pertanyaan:** Pada diagram, seorang teman masih berada di area pendaratan. Apa yang harus dilakukan pelompat?
 
@@ -166,7 +166,7 @@
 
 ## Soal 45 — K03-PJK-B04-M01-045
 
-![Tabel waktu tiga percobaan keseimbangan](assets/pjk-b04-gambar-10.svg)
+![Catatan waktu keseimbangan. Tabel tiga percobaan tiga lima dan enam detik.](assets/pjk-b04-gambar-10.svg)
 
 **Pertanyaan:** Tabel menunjukkan waktu seimbang: percobaan 1 = 3 detik, percobaan 2 = 5 detik, percobaan 3 = 6 detik. Percobaan terlama adalah ....
 
