@@ -11,457 +11,457 @@
         {
           "id": "K03-ENG-B10-M01-001",
           "type": "PG",
-          "text": "There are 10 books on the shelf or in the classroom. Which English number word matches 10?",
+          "text": "Which English number word matches 21?",
           "options": [
-            "ten",
-            "eleven",
-            "twelve",
-            "thirteen"
+            "twenty-one",
+            "twenty-two",
+            "thirty-one",
+            "twelve"
           ],
-          "answer": "ten",
-          "discussion": "The number 10 is ten."
+          "answer": "twenty-one",
+          "discussion": "Bilangan 21 ditulis **twenty-one**."
         },
         {
           "id": "K03-ENG-B10-M01-002",
           "type": "PG",
-          "text": "There are 11 pencils on the shelf or in the classroom. Which English number word matches 11?",
+          "text": "Which English number word matches 24?",
           "options": [
-            "eleven",
-            "thirteen",
-            "fourteen",
-            "fifteen"
+            "twenty-four",
+            "forty-two",
+            "twenty-five",
+            "fourteen"
           ],
-          "answer": "eleven",
-          "discussion": "The number 11 is eleven."
+          "answer": "twenty-four",
+          "discussion": "Bilangan 24 ditulis **twenty-four**."
         },
         {
           "id": "K03-ENG-B10-M01-003",
           "type": "PG",
-          "text": "There are 12 rulers on the shelf or in the classroom. Which English number word matches 12?",
+          "text": "Which English number word matches 29?",
           "options": [
-            "twelve",
-            "fifteen",
-            "sixteen",
-            "seventeen"
+            "twenty-nine",
+            "ninety-two",
+            "twenty-eight",
+            "nineteen"
           ],
-          "answer": "twelve",
-          "discussion": "The number 12 is twelve."
+          "answer": "twenty-nine",
+          "discussion": "Bilangan 29 ditulis **twenty-nine**."
         },
         {
           "id": "K03-ENG-B10-M01-004",
           "type": "PG",
-          "text": "There are 13 erasers on the shelf or in the classroom. Which English number word matches 13?",
+          "text": "Which word matches the numeral 30?",
           "options": [
             "thirteen",
-            "seventeen",
-            "eighteen",
-            "nineteen"
+            "thirty",
+            "forty",
+            "fifty"
           ],
-          "answer": "thirteen",
-          "discussion": "The number 13 is thirteen."
+          "answer": "thirty",
+          "discussion": "Bilangan 30 dibaca **thirty**."
         },
         {
           "id": "K03-ENG-B10-M01-005",
           "type": "PG",
-          "text": "There are 14 notebooks on the shelf or in the classroom. Which English number word matches 14?",
+          "text": "Which word matches the numeral 40?",
           "options": [
             "fourteen",
-            "eleven",
-            "twelve",
-            "thirteen"
+            "thirty",
+            "forty",
+            "fifty"
           ],
-          "answer": "fourteen",
-          "discussion": "The number 14 is fourteen."
+          "answer": "forty",
+          "discussion": "Bilangan 40 dibaca **forty**, tanpa huruf u setelah four."
         },
         {
           "id": "K03-ENG-B10-M01-006",
           "type": "PG",
-          "text": "There are 15 crayons on the shelf or in the classroom. Which English number word matches 15?",
+          "text": "Which word matches the numeral 50?",
           "options": [
             "fifteen",
-            "thirteen",
-            "fourteen",
-            "sixteen"
+            "fifty",
+            "forty",
+            "thirty"
           ],
-          "answer": "fifteen",
-          "discussion": "The number 15 is fifteen."
+          "answer": "fifty",
+          "discussion": "Bilangan 50 dibaca **fifty**."
         },
         {
           "id": "K03-ENG-B10-M01-007",
           "type": "PG",
-          "text": "There are 16 bags on the shelf or in the classroom. Which English number word matches 16?",
+          "text": "Which numeral matches **twenty-seven**?",
           "options": [
-            "sixteen",
-            "fifteen",
-            "seventeen",
-            "eighteen"
+            "17",
+            "26",
+            "27",
+            "37"
           ],
-          "answer": "sixteen",
-          "discussion": "The number 16 is sixteen."
+          "answer": "27",
+          "discussion": "**Twenty-seven** adalah 27."
         },
         {
           "id": "K03-ENG-B10-M01-008",
           "type": "PG",
-          "text": "There are 17 chairs on the shelf or in the classroom. Which English number word matches 17?",
+          "text": "Which numeral matches **forty-three**?",
           "options": [
-            "seventeen",
-            "ten",
-            "eleven",
-            "twelve"
+            "34",
+            "40",
+            "43",
+            "53"
           ],
-          "answer": "seventeen",
-          "discussion": "The number 17 is seventeen."
+          "answer": "43",
+          "discussion": "**Forty-three** adalah 43."
         },
         {
           "id": "K03-ENG-B10-M01-009",
           "type": "PG",
-          "text": "There are 18 desks on the shelf or in the classroom. Which English number word matches 18?",
+          "text": "Which numeral matches **thirty-two**?",
           "options": [
-            "eighteen",
-            "twelve",
-            "thirteen",
-            "fourteen"
+            "23",
+            "30",
+            "32",
+            "42"
           ],
-          "answer": "eighteen",
-          "discussion": "The number 18 is eighteen."
+          "answer": "32",
+          "discussion": "**Thirty-two** adalah 32."
         },
         {
           "id": "K03-ENG-B10-M01-010",
           "type": "PG",
-          "text": "There are 19 markers on the shelf or in the classroom. Which English number word matches 19?",
+          "text": "Which numeral matches **forty-eight**?",
           "options": [
-            "nineteen",
-            "fourteen",
-            "fifteen",
-            "sixteen"
+            "38",
+            "40",
+            "48",
+            "58"
           ],
-          "answer": "nineteen",
-          "discussion": "The number 19 is nineteen."
+          "answer": "48",
+          "discussion": "**Forty-eight** adalah 48."
         },
         {
           "id": "K03-ENG-B10-M01-011",
           "type": "PG",
-          "text": "There are 20 sheets on the shelf or in the classroom. Which English number word matches 20?",
+          "text": "Which number comes just before thirty?",
           "options": [
-            "twenty",
-            "sixteen",
-            "seventeen",
-            "eighteen"
+            "twenty-eight",
+            "twenty-nine",
+            "thirty-one",
+            "forty"
           ],
-          "answer": "twenty",
-          "discussion": "The number 20 is twenty."
+          "answer": "twenty-nine",
+          "discussion": "Urutan sebelum 30 adalah 29, yaitu **twenty-nine**."
         },
         {
           "id": "K03-ENG-B10-M01-012",
           "type": "PG",
-          "text": "There are twelve books on one shelf and three more on another. How many books are there in all?",
+          "text": "Which number comes just after thirty-nine?",
           "options": [
-            "fifteen",
-            "ten",
-            "eleven",
-            "twelve"
+            "thirty-eight",
+            "thirty-nine",
+            "forty",
+            "forty-one"
           ],
-          "answer": "fifteen",
-          "discussion": "Twelve plus three is fifteen."
+          "answer": "forty",
+          "discussion": "Setelah 39 adalah 40, yaitu **forty**."
         },
         {
           "id": "K03-ENG-B10-M01-013",
           "type": "PG",
-          "text": "A box has twenty pencils. Five pencils are taken out. How many remain?",
+          "text": "Which number completes the sequence: thirty-four, ___, thirty-six?",
           "options": [
-            "fifteen",
-            "thirteen",
-            "fourteen",
-            "sixteen"
+            "thirty-three",
+            "thirty-five",
+            "thirty-seven",
+            "forty-five"
           ],
-          "answer": "fifteen",
-          "discussion": "Twenty minus five is fifteen."
+          "answer": "thirty-five",
+          "discussion": "Bilangan di antara 34 dan 36 adalah 35."
         },
         {
           "id": "K03-ENG-B10-M01-014",
           "type": "PG",
-          "text": "Rani has ten crayons. Her friend gives her four more. How many now?",
+          "text": "Complete the sequence: twenty-seven, twenty-eight, ___.",
           "options": [
-            "fourteen",
-            "seventeen",
-            "eighteen",
-            "nineteen"
+            "twenty-six",
+            "twenty-nine",
+            "thirty",
+            "thirty-one"
           ],
-          "answer": "fourteen",
-          "discussion": "Ten plus four is fourteen."
+          "answer": "twenty-nine",
+          "discussion": "Urutan setelah 28 adalah 29."
         },
         {
           "id": "K03-ENG-B10-M01-015",
           "type": "PG",
-          "text": "There are eighteen chairs. Two chairs are moved out. How many remain?",
+          "text": "Which list is in order from the smallest to the largest?",
           "options": [
-            "sixteen",
-            "twelve",
-            "thirteen",
-            "fourteen"
+            "twenty-three, twenty-two, twenty-one",
+            "twenty-one, twenty-two, twenty-three",
+            "thirty, twenty-nine, twenty-eight",
+            "forty, thirty, fifty"
           ],
-          "answer": "sixteen",
-          "discussion": "Eighteen minus two is sixteen."
+          "answer": "twenty-one, twenty-two, twenty-three",
+          "discussion": "Urutan 21, 22, 23 bergerak dari nilai terkecil ke terbesar."
         },
         {
           "id": "K03-ENG-B10-M01-016",
           "type": "PG",
-          "text": "Eleven students are reading. Two more join. How many students are reading?",
+          "text": "A friend shows the card 32 and asks, “What is my number?” Which reply is correct?",
           "options": [
-            "thirteen",
-            "sixteen",
-            "seventeen",
-            "eighteen"
+            "Your number is twenty-three.",
+            "Your number is thirty-two.",
+            "My number are thirty-two.",
+            "Your numbers is forty-two."
           ],
-          "answer": "thirteen",
-          "discussion": "Eleven plus two is thirteen."
+          "answer": "Your number is thirty-two.",
+          "discussion": "Pola jawaban yang benar adalah **Your number is ...**, dan 32 dibaca thirty-two."
         },
         {
           "id": "K03-ENG-B10-M01-017",
           "type": "PG",
-          "text": "A shelf has thirteen books. Six more are added. How many books now?",
+          "text": "Cici's card shows 43. Which report is correct?",
           "options": [
-            "nineteen",
-            "eleven",
-            "twelve",
-            "thirteen"
+            "Her number is forty-three.",
+            "His number are forty-three.",
+            "Her number is thirty-four.",
+            "She number forty-three."
           ],
-          "answer": "nineteen",
-          "discussion": "Thirteen plus six is nineteen."
+          "answer": "Her number is forty-three.",
+          "discussion": "Untuk Cici digunakan **Her number is ...** dan 43 adalah forty-three."
         },
         {
           "id": "K03-ENG-B10-M01-018",
           "type": "PG",
-          "text": "The class has twenty bags. Three bags are taken away. How many bags remain?",
+          "text": "Made's card shows 45. Which report is correct?",
           "options": [
-            "seventeen",
-            "fourteen",
-            "fifteen",
-            "sixteen"
+            "Her number is forty-five.",
+            "His number is forty-five.",
+            "His number are fifty-four.",
+            "He number is forty."
           ],
-          "answer": "seventeen",
-          "discussion": "Twenty minus three is seventeen."
+          "answer": "His number is forty-five.",
+          "discussion": "Untuk Made digunakan **His number is ...** dan 45 adalah forty-five."
         },
         {
           "id": "K03-ENG-B10-M01-019",
           "type": "PG",
-          "text": "Eight pencils and four pencils are in a box. How many pencils?",
+          "text": "Which question asks about the number of books?",
           "options": [
-            "twelve",
-            "ten",
-            "eleven",
-            "thirteen"
+            "Where are the books?",
+            "What color are the books?",
+            "How many books are there?",
+            "Who reads the books?"
           ],
-          "answer": "twelve",
-          "discussion": "Eight plus four is twelve."
+          "answer": "How many books are there?",
+          "discussion": "**How many ...?** digunakan untuk menanyakan jumlah."
         },
         {
           "id": "K03-ENG-B10-M01-020",
           "type": "PG",
-          "text": "There are fourteen notebooks. Four more arrive. How many now?",
+          "text": "There are 23 books on a shelf. Which sentence is correct?",
           "options": [
-            "eighteen",
-            "thirteen",
-            "fourteen",
-            "fifteen"
+            "There is twenty-three books on the shelf.",
+            "There are twenty-three book on the shelf.",
+            "There are twenty-three books on the shelf.",
+            "Twenty-three books is on shelf."
           ],
-          "answer": "eighteen",
-          "discussion": "Fourteen plus four is eighteen."
+          "answer": "There are twenty-three books on the shelf.",
+          "discussion": "Jumlah lebih dari satu memakai **There are** dan nomina jamak **books**."
         },
         {
           "id": "K03-ENG-B10-M01-021",
           "type": "PG",
-          "text": "Nine markers are red and eleven are blue. How many markers in all?",
+          "text": "Complete: There ___ forty pencils in the box.",
           "options": [
-            "twenty",
-            "sixteen",
-            "seventeen",
-            "eighteen"
-          ],
-          "answer": "twenty",
-          "discussion": "Nine plus eleven is twenty."
-        },
-        {
-          "id": "K03-ENG-B10-M01-022",
-          "type": "PG",
-          "text": "Choose a correct sentence about 20 books.",
-          "options": [
-            "There is twenty books on the shelf.",
-            "There are twenty books on the shelf.",
-            "There are twenty book on the shelf.",
-            "There twenty books on shelf."
-          ],
-          "answer": "There are twenty books on the shelf.",
-          "discussion": "The plural subject 'twenty books' takes 'There are'."
-        },
-        {
-          "id": "K03-ENG-B10-M01-023",
-          "type": "PG",
-          "text": "Complete: 'There ___ eleven pencils in the box.'",
-          "options": [
-            "is",
             "am",
+            "is",
             "are",
             "be"
           ],
           "answer": "are",
-          "discussion": "'Eleven pencils' is plural, so use 'are'."
+          "discussion": "**Forty pencils** berbentuk jamak sehingga memakai **are**."
+        },
+        {
+          "id": "K03-ENG-B10-M01-022",
+          "type": "PG",
+          "text": "A: Are there forty books? B: No, there are forty-two. How many books are there?",
+          "options": [
+            "thirty-two",
+            "forty",
+            "forty-two",
+            "fifty"
+          ],
+          "answer": "forty-two",
+          "discussion": "Jawaban mengoreksi perkiraan awal menjadi 42."
+        },
+        {
+          "id": "K03-ENG-B10-M01-023",
+          "type": "PG",
+          "text": "Survey data: Cici—32, Aisyah—28, Made—45. Whose number is twenty-eight?",
+          "options": [
+            "Cici's",
+            "Aisyah's",
+            "Made's",
+            "all three"
+          ],
+          "answer": "Aisyah's",
+          "discussion": "Pada data, Aisyah mendapat 28 atau twenty-eight."
         },
         {
           "id": "K03-ENG-B10-M01-024",
           "type": "PG",
-          "text": "Complete: 'There is ___ book on the table.'",
+          "text": "Raka has card 26 and Sinta has card 29. Who has the larger number?",
           "options": [
-            "eleven",
-            "twelve",
-            "one",
-            "twenty"
+            "Raka",
+            "Sinta",
+            "both are equal",
+            "the data do not show numbers"
           ],
-          "answer": "one",
-          "discussion": "A singular book uses one."
+          "answer": "Sinta",
+          "discussion": "29 lebih besar daripada 26."
         },
         {
           "id": "K03-ENG-B10-M01-025",
           "type": "PG",
-          "text": "A: How many books are there? B: There are fifteen books. What number does B say?",
+          "text": "The science shelf has 48 books. Which label should be written?",
           "options": [
-            "thirteen",
-            "fourteen",
-            "fifteen",
-            "sixteen"
+            "twenty-eight",
+            "thirty-eight",
+            "forty-eight",
+            "fifty"
           ],
-          "answer": "fifteen",
-          "discussion": "The reply says fifteen."
+          "answer": "forty-eight",
+          "discussion": "Bilangan 48 ditulis **forty-eight**."
         },
         {
           "id": "K03-ENG-B10-M01-026",
           "type": "PG",
-          "text": "Which question asks about a count?",
+          "text": "There are 23 social studies books and 35 art books. Which shelf has more books?",
           "options": [
-            "What color are the pencils?",
-            "Where are the pencils?",
-            "How many pencils are there?",
-            "Who owns the pencils?"
+            "the social studies shelf",
+            "the art shelf",
+            "both have 23 books",
+            "both have 35 books"
           ],
-          "answer": "How many pencils are there?",
-          "discussion": "How many asks for a number."
+          "answer": "the art shelf",
+          "discussion": "35 lebih banyak daripada 23."
         },
         {
           "id": "K03-ENG-B10-M01-027",
           "type": "PG",
-          "text": "Choose the correct plural noun after 'twenty'.",
+          "text": "Four groups of ten pencils and five loose pencils make ___.",
           "options": [
-            "book",
-            "books",
-            "book's",
-            "booking"
+            "thirty-five",
+            "forty",
+            "forty-five",
+            "fifty"
           ],
-          "answer": "books",
-          "discussion": "Twenty is followed by the plural 'books'."
+          "answer": "forty-five",
+          "discussion": "Empat puluhan dan lima satuan membentuk 45, yaitu **forty-five**."
         },
         {
           "id": "K03-ENG-B10-M01-028",
           "type": "PG",
-          "text": "A: Are there twelve books? B: No, there are thirteen. How many books?",
+          "text": "Three groups of ten books and two loose books make ___.",
           "options": [
-            "twelve",
-            "thirteen",
-            "eleven",
-            "ten"
+            "twenty-three",
+            "thirty-two",
+            "forty-two",
+            "fifty"
           ],
-          "answer": "thirteen",
-          "discussion": "The correction says thirteen."
+          "answer": "thirty-two",
+          "discussion": "Tiga puluhan dan dua satuan membentuk 32."
         },
         {
           "id": "K03-ENG-B10-M01-029",
           "type": "PG",
-          "text": "There are ten notebooks and ten pencils. Which item count is twenty?",
+          "text": "Which pairing is NOT correct?",
           "options": [
-            "the notebooks alone",
-            "the pencils alone",
-            "all the items together",
-            "neither item nor their total"
+            "30 — thirty",
+            "40 — forty",
+            "50 — fifty",
+            "14 — forty"
           ],
-          "answer": "all the items together",
-          "discussion": "Ten plus ten gives twenty items in total."
+          "answer": "14 — forty",
+          "discussion": "**Forty** berarti 40, sedangkan 14 adalah fourteen."
         },
         {
           "id": "K03-ENG-B10-M01-030",
           "type": "PG",
-          "text": "Which number word comes just after eighteen?",
+          "text": "Which spelling is correct for 29?",
           "options": [
-            "seventeen",
-            "twenty",
-            "nineteen",
-            "sixteen"
+            "twenty-nine",
+            "twenty-ninety",
+            "two-nine",
+            "twenty ninty"
           ],
-          "answer": "nineteen",
-          "discussion": "Nineteen follows eighteen."
+          "answer": "twenty-nine",
+          "discussion": "Penulisan baku 29 adalah **twenty-nine**."
         },
         {
           "id": "K03-ENG-B10-M01-031",
           "type": "PG",
-          "text": "Which number word comes just before fifteen?",
+          "text": "Five friends report these numbers: 31, 31, 42, 28, 31. Which number appears most often?",
           "options": [
-            "sixteen",
-            "fourteen",
-            "thirteen",
-            "seventeen"
+            "twenty-eight",
+            "thirty-one",
+            "forty-two",
+            "fifty"
           ],
-          "answer": "fourteen",
-          "discussion": "Fourteen comes before fifteen."
+          "answer": "thirty-one",
+          "discussion": "31 muncul tiga kali, lebih sering daripada 42 dan 28."
         },
         {
           "id": "K03-ENG-B10-M01-032",
           "type": "PG",
-          "text": "A: How many chairs are there? B: There are sixteen. Which reply matches?",
+          "text": "Which number word contains the word **forty**?",
           "options": [
-            "There is sixteen chair.",
-            "There are sixteen chairs.",
-            "There are sixty chairs.",
-            "There sixteen chairs."
+            "thirty-four",
+            "forty-six",
+            "fifty-four",
+            "twenty-six"
           ],
-          "answer": "There are sixteen chairs.",
-          "discussion": "Plural chairs uses 'There are'."
+          "answer": "forty-six",
+          "discussion": "**Forty-six** tersusun dari forty dan six, sehingga bernilai 46."
         },
         {
           "id": "K03-ENG-B10-M01-033",
           "type": "PG",
-          "text": "Choose the correct phrase for 12 pencils.",
+          "text": "One shelf has twenty books and another has five books. How many books are there altogether?",
           "options": [
-            "twelve pencil",
-            "twelve pencils",
-            "twelfth pencils",
-            "twelve penciling"
+            "twenty-three",
+            "twenty-four",
+            "twenty-five",
+            "thirty-five"
           ],
-          "answer": "twelve pencils",
-          "discussion": "Twelve is a count and pencils is plural."
+          "answer": "twenty-five",
+          "discussion": "20 + 5 = 25, yaitu **twenty-five**."
         },
         {
           "id": "K03-ENG-B10-M01-034",
           "type": "PG",
-          "text": "There are twenty books, not twelve. Which number is correct?",
+          "text": "Book data: social—23, math—33, science—48, music—21. Which subject has forty-eight books?",
           "options": [
-            "twelve",
-            "ten",
-            "twenty",
-            "eleven"
+            "social",
+            "math",
+            "science",
+            "music"
           ],
-          "answer": "twenty",
-          "discussion": "The sentence explicitly corrects twelve to twenty."
+          "answer": "science",
+          "discussion": "Data menunjukkan science memiliki 48 buku."
         },
         {
           "id": "K03-ENG-B10-M01-035",
           "type": "PG",
-          "text": "The teacher counts nineteen desks. Which numeral matches 'nineteen'?",
+          "text": "A report says, “There are forty books on the shelf.” What can we know for sure?",
           "options": [
-            "17",
-            "18",
-            "19",
-            "20"
+            "the number of books",
+            "the color of every book",
+            "the size of the shelf",
+            "the owner of every book"
           ],
-          "answer": "19",
-          "discussion": "Nineteen is written 19."
+          "answer": "the number of books",
+          "discussion": "Kalimat itu menyatakan jumlah buku, bukan warna, ukuran rak, atau pemiliknya."
         }
       ]
     }
