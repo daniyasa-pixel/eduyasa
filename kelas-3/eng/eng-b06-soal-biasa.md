@@ -194,7 +194,7 @@
 
 ## Soal 13 — K03-ENG-B06-M01-013
 
-**Pertanyaan:** “Is it a canteen?” The picture really shows a canteen. Choose the short answer.
+**Pertanyaan:** Rani and her friend are standing in the school canteen. Rani asks, “Is it a canteen?” Which short answer is correct?
 
 **Pilihan jawaban:**
 - No, it isn’t.
@@ -204,13 +204,13 @@
 
 **Kunci Jawaban:** Yes, it is.
 
-**Pembahasan:** Yes, it is confirms an Is it ...? question.
+**Pembahasan:** They are in the canteen, so the correct short answer to “Is it a canteen?” is “Yes, it is.”
 
 ---
 
 ## Soal 14 — K03-ENG-B06-M01-014
 
-**Pertanyaan:** “Is it a restroom?” The picture shows a library. Choose the first part of the reply.
+**Pertanyaan:** Sari is inside the library. A friend asks, “Is it a restroom?” Which short reply should Sari give?
 
 **Pilihan jawaban:**
 - Yes, it is.
@@ -220,13 +220,13 @@
 
 **Kunci Jawaban:** No, it isn’t.
 
-**Pembahasan:** No, it isn’t rejects the incorrect room guess.
+**Pembahasan:** Sari is in the library rather than a restroom. “No, it isn’t” correctly rejects the friend's guess.
 
 ---
 
 ## Soal 15 — K03-ENG-B06-M01-015
 
-**Pertanyaan:** Which complete correction matches a library picture after someone guesses “office”?
+**Pertanyaan:** A room has bookshelves and a sign that says LIBRARY. A friend guesses, “It is an office.” Which complete reply corrects the guess?
 
 **Pilihan jawaban:**
 - Yes, it is an office.
@@ -236,7 +236,7 @@
 
 **Kunci Jawaban:** No, it isn’t. It is a library.
 
-**Pembahasan:** Reject the office guess, then identify the library.
+**Pembahasan:** The LIBRARY sign identifies the place. Reject the office guess with “No, it isn’t” and name the library.
 
 ---
 
@@ -418,7 +418,7 @@
 
 ## Soal 27 — K03-ENG-B06-M01-027
 
-**Pertanyaan:** Which pair contains two school rooms from Unit 6?
+**Pertanyaan:** Which pair names two rooms that can be found in a school?
 
 **Pilihan jawaban:**
 - Sunday and Monday
@@ -428,13 +428,13 @@
 
 **Kunci Jawaban:** library and laboratory
 
-**Pembahasan:** Both library and laboratory are school-room words in this unit.
+**Pembahasan:** A library is used for reading, and a laboratory is used for science activities. Both are school rooms.
 
 ---
 
 ## Soal 28 — K03-ENG-B06-M01-028
 
-**Pertanyaan:** Which one is an outdoor school area in the Unit 6 list?
+**Pertanyaan:** Which of these school places is an outdoor area?
 
 **Pilihan jawaban:**
 - restroom
@@ -444,7 +444,7 @@
 
 **Kunci Jawaban:** schoolyard
 
-**Pembahasan:** Schoolyard is the outdoor area among these choices.
+**Pembahasan:** The schoolyard is an outdoor space, unlike the restroom, office, and prayer room.
 
 ---
 
