@@ -4,7 +4,7 @@
 
 ## Soal 1 — K03-PJK-B06-M01-001
 
-**Pertanyaan:** Empat kemampuan dasar yang dipelajari pada Unit Aktivitas Air adalah ....
+**Pertanyaan:** Dalam pembelajaran gerak dasar di air, empat kemampuan dasar yang dilatih adalah ....
 
 **Pilihan jawaban:**
 - posisi tubuh, gerak kaki, gerak lengan, dan pernapasan
