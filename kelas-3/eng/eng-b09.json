@@ -11,457 +11,457 @@
         {
           "id": "K03-ENG-B09-M01-001",
           "type": "PG",
-          "text": "The floor has no rubbish. How can we describe it?",
+          "text": "The classroom floor has no rubbish. How is the classroom?",
           "options": [
-            "clean",
-            "dirty",
-            "big",
-            "small"
+            "It is clean.",
+            "It is dirty.",
+            "It is narrow.",
+            "It is small."
           ],
-          "answer": "clean",
-          "discussion": "A floor without rubbish can be clean."
+          "answer": "It is clean.",
+          "discussion": "Tidak ada sampah menjadi bukti bahwa kelas bersih."
         },
         {
           "id": "K03-ENG-B09-M01-002",
           "type": "PG",
-          "text": "There is mud on the floor. Which word describes it?",
+          "text": "There is mud and rubbish on the schoolyard. How is it?",
           "options": [
-            "dirty",
-            "clean",
-            "big",
-            "small"
+            "It is large.",
+            "It is dirty.",
+            "It is clean.",
+            "It is small."
           ],
-          "answer": "dirty",
-          "discussion": "Mud makes the floor dirty."
+          "answer": "It is dirty.",
+          "discussion": "Lumpur dan sampah menunjukkan keadaan kotor."
         },
         {
           "id": "K03-ENG-B09-M01-003",
           "type": "PG",
-          "text": "The library has room for many students. Which size word fits?",
+          "text": "The library has space for many tables and shelves. How is the library?",
           "options": [
-            "big",
-            "clean",
-            "dirty",
-            "small"
+            "It is big.",
+            "It is narrow.",
+            "It is dirty.",
+            "It is small."
           ],
-          "answer": "big",
-          "discussion": "Big describes large size."
+          "answer": "It is big.",
+          "discussion": "Ruang yang mampu memuat banyak meja dan rak dapat digambarkan **big**."
         },
         {
           "id": "K03-ENG-B09-M01-004",
           "type": "PG",
-          "text": "The reading corner has only one small table. Which size word describes the table?",
+          "text": "The canteen has only two small tables. How is the canteen?",
           "options": [
-            "small",
-            "clean",
-            "dirty",
-            "big"
+            "It is clean.",
+            "It is large.",
+            "It is small.",
+            "It is wide."
           ],
-          "answer": "small",
-          "discussion": "Small describes limited size."
+          "answer": "It is small.",
+          "discussion": "Petunjuk dua meja kecil mendukung deskripsi **small**."
         },
         {
           "id": "K03-ENG-B09-M01-005",
           "type": "PG",
-          "text": "All books are arranged on the shelf. Which word fits?",
+          "text": "The prayer room can hold many people. Which word describes its size?",
           "options": [
-            "tidy",
-            "clean",
             "dirty",
-            "big"
+            "narrow",
+            "large",
+            "clean"
           ],
-          "answer": "tidy",
-          "discussion": "Tidy means neatly arranged."
+          "answer": "large",
+          "discussion": "**Large** berarti besar atau luas."
         },
         {
           "id": "K03-ENG-B09-M01-006",
           "type": "PG",
-          "text": "Books and bags are scattered everywhere. Which word fits?",
+          "text": "Only one person can walk through the restroom entrance at a time. How is the entrance?",
           "options": [
-            "messy",
+            "narrow",
+            "big",
             "clean",
-            "dirty",
-            "big"
+            "large"
           ],
-          "answer": "messy",
-          "discussion": "Messy means not neatly arranged."
+          "answer": "narrow",
+          "discussion": "Jalan masuk yang lebarnya terbatas disebut **narrow**."
         },
         {
           "id": "K03-ENG-B09-M01-007",
           "type": "PG",
-          "text": "Sunlight makes the classroom easy to see in. Which word fits?",
+          "text": "The schoolyard has plenty of space from left to right. Which word fits?",
           "options": [
-            "bright",
-            "clean",
             "dirty",
-            "big"
+            "small",
+            "wide",
+            "narrow"
           ],
-          "answer": "bright",
-          "discussion": "Bright describes strong light."
+          "answer": "wide",
+          "discussion": "**Wide** berarti lebar."
         },
         {
           "id": "K03-ENG-B09-M01-008",
           "type": "PG",
-          "text": "The room has no lights on and little sunlight. Which word fits?",
+          "text": "What is the opposite of **clean**?",
           "options": [
-            "dark",
-            "clean",
+            "large",
             "dirty",
-            "big"
+            "small",
+            "wide"
           ],
-          "answer": "dark",
-          "discussion": "Dark describes little light."
+          "answer": "dirty",
+          "discussion": "Lawan kata **clean** adalah **dirty**."
         },
         {
           "id": "K03-ENG-B09-M01-009",
           "type": "PG",
-          "text": "Students are reading silently. Which word fits?",
+          "text": "What is the opposite of **big**?",
           "options": [
-            "quiet",
+            "small",
             "clean",
-            "dirty",
-            "big"
+            "wide",
+            "large"
           ],
-          "answer": "quiet",
-          "discussion": "Quiet means little noise."
+          "answer": "small",
+          "discussion": "Lawan kata **big** adalah **small**."
         },
         {
           "id": "K03-ENG-B09-M01-010",
           "type": "PG",
-          "text": "Many children are shouting loudly. Which word fits?",
+          "text": "What is the opposite of **narrow**?",
           "options": [
-            "noisy",
-            "clean",
             "dirty",
-            "big"
+            "wide",
+            "small",
+            "clean"
           ],
-          "answer": "noisy",
-          "discussion": "Noisy describes much noise."
+          "answer": "wide",
+          "discussion": "Lawan kata **narrow** adalah **wide**."
         },
         {
           "id": "K03-ENG-B09-M01-011",
           "type": "PG",
-          "text": "Which sentence describes a clean classroom?",
+          "text": "Which word has a similar meaning to **big**?",
           "options": [
-            "My classroom is clean.",
-            "My classroom clean is.",
-            "My clean classroom are.",
-            "My classroom are clean."
+            "dirty",
+            "narrow",
+            "large",
+            "clean"
           ],
-          "answer": "My classroom is clean.",
-          "discussion": "The sentence uses 'is' with clean."
+          "answer": "large",
+          "discussion": "Dalam deskripsi ukuran ruangan, **large** juga berarti besar."
         },
         {
           "id": "K03-ENG-B09-M01-012",
           "type": "PG",
-          "text": "Which sentence describes a dirty floor?",
+          "text": "Choose the correct sentence.",
           "options": [
-            "The floor are dirty.",
-            "The floor is dirty.",
-            "The dirty is floor.",
-            "The floor dirty is."
+            "The classroom clean is.",
+            "The classroom is clean.",
+            "The classroom are clean.",
+            "Clean the classroom are."
           ],
-          "answer": "The floor is dirty.",
-          "discussion": "'Dirty' describes the floor."
+          "answer": "The classroom is clean.",
+          "discussion": "Subjek tunggal **the classroom** memakai **is** sebelum kata sifat."
         },
         {
           "id": "K03-ENG-B09-M01-013",
           "type": "PG",
-          "text": "A: Is your classroom clean? B: Yes, ___.",
+          "text": "Which question asks about the condition of the canteen?",
           "options": [
-            "it are.",
-            "it isn't.",
-            "it is.",
-            "it am."
+            "Where is the canteen?",
+            "What is in the canteen?",
+            "How is the canteen?",
+            "Who is in the canteen?"
           ],
-          "answer": "it is.",
-          "discussion": "The positive short answer uses 'it is'."
+          "answer": "How is the canteen?",
+          "discussion": "Pola sasaran Unit 9 adalah **How is the ...?**."
         },
         {
           "id": "K03-ENG-B09-M01-014",
           "type": "PG",
-          "text": "A: Is the room messy? B: No, ___.",
+          "text": "A: How is the canteen? B: ___.",
           "options": [
-            "it is.",
-            "it isn't.",
-            "they isn't.",
-            "it am."
+            "It is small.",
+            "It has lunch.",
+            "It is behind.",
+            "It can eat."
           ],
-          "answer": "it isn't.",
-          "discussion": "The negative short answer uses 'it isn't'."
+          "answer": "It is small.",
+          "discussion": "Jawaban menyebutkan kondisi atau ukuran tempat."
         },
         {
           "id": "K03-ENG-B09-M01-015",
           "type": "PG",
-          "text": "Complete: My classroom ___ tidy.",
+          "text": "Complete: The office is small ___ clean.",
           "options": [
-            "are",
-            "am",
-            "is",
-            "be"
+            "or",
+            "and",
+            "but not",
+            "under"
           ],
-          "answer": "is",
-          "discussion": "A singular subject takes 'is'."
+          "answer": "and",
+          "discussion": "Kata **and** menggabungkan dua kondisi tempat."
         },
         {
           "id": "K03-ENG-B09-M01-016",
           "type": "PG",
-          "text": "Complete: The books ___ tidy.",
+          "text": "The library is big and clean. Which two words describe it?",
           "options": [
-            "is",
-            "are",
-            "am",
-            "be"
+            "library and clean",
+            "big and clean",
+            "big and library",
+            "is and clean"
           ],
-          "answer": "are",
-          "discussion": "A plural subject takes 'are'."
+          "answer": "big and clean",
+          "discussion": "Dua kata sifat pada kalimat adalah **big** dan **clean**."
         },
         {
           "id": "K03-ENG-B09-M01-017",
           "type": "PG",
-          "text": "What is the opposite of 'clean'?",
+          "text": "The restroom is narrow. What does **narrow** describe?",
           "options": [
-            "clean",
-            "big",
-            "dirty",
-            "quiet"
+            "its width",
+            "its cleanliness",
+            "its location",
+            "its activity"
           ],
-          "answer": "dirty",
-          "discussion": "Dirty is the opposite of clean."
+          "answer": "its width",
+          "discussion": "**Narrow** menjelaskan lebar yang terbatas."
         },
         {
           "id": "K03-ENG-B09-M01-018",
           "type": "PG",
-          "text": "What is the opposite of 'big'?",
+          "text": "The schoolyard is large. Which statement matches?",
           "options": [
-            "messy",
-            "small",
-            "quiet",
-            "bright"
+            "It has a lot of space.",
+            "It must be dirty.",
+            "It is inside the library.",
+            "It can hold only one chair."
           ],
-          "answer": "small",
-          "discussion": "Small contrasts with big."
+          "answer": "It has a lot of space.",
+          "discussion": "**Large** menunjukkan ukuran atau ruang yang besar."
         },
         {
           "id": "K03-ENG-B09-M01-019",
           "type": "PG",
-          "text": "What is the opposite of 'bright'?",
+          "text": "Read: “The office is small and clean.” Is the office dirty?",
           "options": [
-            "big",
-            "dark",
-            "tidy",
-            "small"
+            "Yes, it is dirty.",
+            "No, it is clean.",
+            "Yes, it is large.",
+            "No, it is wide."
           ],
-          "answer": "dark",
-          "discussion": "Dark contrasts with bright."
+          "answer": "No, it is clean.",
+          "discussion": "Kalimat menyebutkan kantor bersih."
         },
         {
           "id": "K03-ENG-B09-M01-020",
           "type": "PG",
-          "text": "What is the opposite of 'quiet'?",
+          "text": "Read: “The classroom is big but the door is narrow.” What is narrow?",
           "options": [
-            "quiet",
-            "noisy",
-            "bright",
-            "clean"
+            "the classroom",
+            "the door",
+            "the schoolyard",
+            "the library"
           ],
-          "answer": "noisy",
-          "discussion": "Noisy contrasts with quiet."
+          "answer": "the door",
+          "discussion": "Kata **narrow** menerangkan pintu."
         },
         {
           "id": "K03-ENG-B09-M01-021",
           "type": "PG",
-          "text": "Read: 'The floor is clean but the desks are messy.' What is messy?",
+          "text": "Classroom A is clean. Classroom B is dirty. Which room needs cleaning?",
           "options": [
-            "the board",
-            "the desks",
-            "the window",
-            "the walls"
+            "Classroom A",
+            "Classroom B",
+            "both are described as clean",
+            "neither room"
           ],
-          "answer": "the desks",
-          "discussion": "The sentence names desks as messy."
+          "answer": "Classroom B",
+          "discussion": "Ruang B secara jelas disebut kotor."
         },
         {
           "id": "K03-ENG-B09-M01-022",
           "type": "PG",
-          "text": "Read: 'The room is small but bright.' Which word describes its light?",
+          "text": "The canteen is small, but the schoolyard is large. Which place is larger?",
           "options": [
-            "small",
-            "noisy",
-            "bright",
-            "dirty"
+            "the canteen",
+            "the schoolyard",
+            "both have the same size",
+            "the restroom"
           ],
-          "answer": "bright",
-          "discussion": "Bright describes light, not size."
+          "answer": "the schoolyard",
+          "discussion": "Sekolah lapang disebut **large**, sedangkan kantin **small**."
         },
         {
           "id": "K03-ENG-B09-M01-023",
           "type": "PG",
-          "text": "Read: 'The classroom is big and tidy.' Which statement is supported?",
+          "text": "The library is large and clean. Which statement is supported?",
           "options": [
-            "It is small and messy.",
-            "It is bright but dirty.",
-            "It is big and tidy.",
-            "It is noisy and small."
+            "It is small and dirty.",
+            "It is large and clean.",
+            "It is narrow and dirty.",
+            "It is small and clean."
           ],
-          "answer": "It is big and tidy.",
-          "discussion": "Both adjectives are in the text."
+          "answer": "It is large and clean.",
+          "discussion": "Jawaban mengulang dua kondisi yang dinyatakan."
         },
         {
           "id": "K03-ENG-B09-M01-024",
           "type": "PG",
-          "text": "A teacher says, 'Please put the books neatly on the shelf.' What will this help make tidy?",
+          "text": "A room is clean. Can we conclude that it is large?",
           "options": [
-            "the books",
-            "the windows",
-            "the floor",
-            "the gates"
+            "Yes, clean always means large.",
+            "No, cleanliness does not tell its size.",
+            "Yes, all clean rooms are big.",
+            "No, clean means narrow."
           ],
-          "answer": "the books",
-          "discussion": "Arranging books neatly makes them tidy."
+          "answer": "No, cleanliness does not tell its size.",
+          "discussion": "Kebersihan dan ukuran adalah ciri yang berbeda."
         },
         {
           "id": "K03-ENG-B09-M01-025",
           "type": "PG",
-          "text": "Which pair of adjectives can describe different things?",
+          "text": "A room is narrow. Can we conclude that it is dirty?",
           "options": [
-            "a big room and a small desk",
-            "a clean floor and a dirty floor are the same floor at once",
-            "a quiet room that is noisy at the same moment",
-            "a bright lamp that gives no light"
+            "Yes, narrow means dirty.",
+            "No, width does not tell its cleanliness.",
+            "Yes, narrow rooms are always dirty.",
+            "No, narrow means clean."
           ],
-          "answer": "a big room and a small desk",
-          "discussion": "Big and small can describe different objects."
+          "answer": "No, width does not tell its cleanliness.",
+          "discussion": "Lebar ruangan tidak menentukan kebersihannya."
         },
         {
           "id": "K03-ENG-B09-M01-026",
           "type": "PG",
-          "text": "The room is quiet now. Can we conclude that it is also clean?",
+          "text": "Arrange the words: **library – The – large – is**.",
           "options": [
-            "Yes, always.",
-            "No, quiet does not tell us about cleanliness.",
-            "Yes, because quiet means tidy.",
-            "No, quiet means dirty."
+            "The library is large.",
+            "Library the large is.",
+            "Large is the library the.",
+            "The is large library."
           ],
-          "answer": "No, quiet does not tell us about cleanliness.",
-          "discussion": "Noise and cleanliness are different properties."
+          "answer": "The library is large.",
+          "discussion": "Urutan yang benar adalah subjek + **is** + kata sifat."
         },
         {
           "id": "K03-ENG-B09-M01-027",
           "type": "PG",
-          "text": "A room is bright. Does that mean it is big?",
+          "text": "Which report uses two correct describing words?",
           "options": [
-            "Yes, it must be big.",
-            "Yes, brightness measures size.",
-            "No, brightness does not tell us the size.",
-            "No, bright means small."
+            "The classroom is big and clean.",
+            "The classroom big and clean.",
+            "The classroom are big and clean.",
+            "Big clean classroom the is."
           ],
-          "answer": "No, brightness does not tell us the size.",
-          "discussion": "Light and room size are different properties."
+          "answer": "The classroom is big and clean.",
+          "discussion": "Kalimat lengkap memakai **is** dan dua kata sifat."
         },
         {
           "id": "K03-ENG-B09-M01-028",
           "type": "PG",
-          "text": "Choose the sentence with correct word order.",
+          "text": "Rina asks five friends about the library. Three say “large” and two say “clean.” Which answer was given more often?",
           "options": [
-            "The classroom clean is.",
-            "The clean classroom are.",
-            "The classroom are clean.",
-            "The classroom is clean."
+            "clean",
+            "large",
+            "dirty",
+            "narrow"
           ],
-          "answer": "The classroom is clean.",
-          "discussion": "'The classroom is clean' is a correct sentence."
+          "answer": "large",
+          "discussion": "Tiga jawaban **large** lebih banyak daripada dua jawaban **clean**."
         },
         {
           "id": "K03-ENG-B09-M01-029",
           "type": "PG",
-          "text": "Which question asks about cleanliness?",
+          "text": "The office is small. The classroom is big. What is different?",
           "options": [
-            "How old is the classroom?",
-            "Is the classroom clean?",
-            "Where is the classroom?",
-            "What is in my bag?"
+            "their size",
+            "their cleanliness",
+            "their location",
+            "their name only"
           ],
-          "answer": "Is the classroom clean?",
-          "discussion": "The question asks if the room is clean."
+          "answer": "their size",
+          "discussion": "Kata **small** dan **big** membandingkan ukuran."
         },
         {
           "id": "K03-ENG-B09-M01-030",
           "type": "PG",
-          "text": "A: Is your classroom noisy? B: No, it isn't. Which statement fits?",
+          "text": "The restroom is narrow and clean. Which word tells about cleanliness?",
           "options": [
-            "The classroom is noisy.",
-            "The classroom is not noisy.",
-            "The classroom is bright.",
-            "The classroom is dirty."
+            "restroom",
+            "narrow",
+            "clean",
+            "and"
           ],
-          "answer": "The classroom is not noisy.",
-          "discussion": "The negative reply denies 'noisy'."
+          "answer": "clean",
+          "discussion": "**Clean** menjelaskan kebersihan."
         },
         {
           "id": "K03-ENG-B09-M01-031",
           "type": "PG",
-          "text": "A: Is the room big? B: Yes, it is. Which statement is confirmed?",
+          "text": "The schoolyard is wide and dirty. Which word tells about width?",
           "options": [
-            "The room is small.",
-            "The room is tidy.",
-            "The room is big.",
-            "The room is dark."
+            "dirty",
+            "wide",
+            "schoolyard",
+            "and"
           ],
-          "answer": "The room is big.",
-          "discussion": "The answer confirms the room is big."
+          "answer": "wide",
+          "discussion": "**Wide** menjelaskan lebar."
         },
         {
           "id": "K03-ENG-B09-M01-032",
           "type": "PG",
-          "text": "The desks are tidy, but the floor is dirty. Which needs cleaning?",
+          "text": "Which sentence is a suitable answer to “How is the prayer room?”",
           "options": [
-            "the floor",
-            "the windows",
-            "the desks",
-            "the gate"
+            "It is large and clean.",
+            "It is beside the office.",
+            "We pray at noon.",
+            "There are two doors."
           ],
-          "answer": "the floor",
-          "discussion": "The text specifically says the floor is dirty."
+          "answer": "It is large and clean.",
+          "discussion": "Pertanyaan **How is ...?** dijawab dengan kondisi tempat."
         },
         {
           "id": "K03-ENG-B09-M01-033",
           "type": "PG",
-          "text": "The students close the curtain. The room becomes darker. Which word describes the change?",
+          "text": "A report says, “The library is big, clean, and beside the office.” Which word tells its location?",
           "options": [
-            "bright",
-            "small",
-            "quiet",
-            "dark"
+            "big",
+            "clean",
+            "beside",
+            "library"
           ],
-          "answer": "dark",
-          "discussion": "Darker means having less light."
+          "answer": "beside",
+          "discussion": "**Beside** menerangkan letak, sedangkan big dan clean menerangkan kondisi."
         },
         {
           "id": "K03-ENG-B09-M01-034",
           "type": "PG",
-          "text": "Two classrooms are the same size. One is noisy and one is quiet. What is different?",
+          "text": "Which sentence gives no information about cleanliness?",
           "options": [
-            "the size",
-            "the noise level",
-            "the cleanliness",
-            "the number of windows"
+            "The floor is dirty.",
+            "The classroom is clean.",
+            "The office is large.",
+            "The schoolyard has rubbish."
           ],
-          "answer": "the noise level",
-          "discussion": "The sentence contrasts noise, not size."
+          "answer": "The office is large.",
+          "discussion": "**Large** hanya menjelaskan ukuran."
         },
         {
           "id": "K03-ENG-B09-M01-035",
           "type": "PG",
-          "text": "Which sentence tells us about both light and noise?",
+          "text": "The classroom is small and clean. Which conclusion is correct?",
           "options": [
-            "The room is large.",
-            "The room is bright and quiet.",
-            "The room is tidy and small.",
-            "The room is dirty and noisy."
+            "A small room can also be clean.",
+            "All small rooms are dirty.",
+            "Clean always means large.",
+            "Small and clean cannot be used together."
           ],
-          "answer": "The room is bright and quiet.",
-          "discussion": "The sentence includes one light adjective and one noise adjective."
+          "answer": "A small room can also be clean.",
+          "discussion": "Dua kondisi berbeda dapat dimiliki ruangan yang sama."
         }
       ]
     }
