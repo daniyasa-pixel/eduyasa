@@ -2,7 +2,7 @@
 
 ## Soal 36 — K03-ENG-B09-M01-036
 
-![Room condition 1](assets/eng-b09-gambar-01.svg)
+![Clean classroom. A clean classroom with an empty floor and closed rubbish bin.](assets/eng-b09-gambar-01.svg)
 
 **Pertanyaan:** How is the classroom?
 
@@ -20,7 +20,7 @@
 
 ## Soal 37 — K03-ENG-B09-M01-037
 
-![Room condition 2](assets/eng-b09-gambar-02.svg)
+![Dirty schoolyard. A schoolyard has paper litter and muddy marks on the ground.](assets/eng-b09-gambar-02.svg)
 
 **Pertanyaan:** How is the schoolyard?
 
@@ -38,7 +38,7 @@
 
 ## Soal 38 — K03-ENG-B09-M01-038
 
-![Room condition 3](assets/eng-b09-gambar-03.svg)
+![Big library. A large library contains many shelves and open floor space.](assets/eng-b09-gambar-03.svg)
 
 **Pertanyaan:** Which word describes the library's size?
 
@@ -56,7 +56,7 @@
 
 ## Soal 39 — K03-ENG-B09-M01-039
 
-![Room condition 4](assets/eng-b09-gambar-04.svg)
+![Small canteen. A small canteen has only two little tables.](assets/eng-b09-gambar-04.svg)
 
 **Pertanyaan:** How is the canteen?
 
@@ -74,7 +74,7 @@
 
 ## Soal 40 — K03-ENG-B09-M01-040
 
-![Room condition 5](assets/eng-b09-gambar-05.svg)
+![Narrow restroom entrance. A restroom has a very narrow entrance between two walls.](assets/eng-b09-gambar-05.svg)
 
 **Pertanyaan:** Which word describes the restroom entrance?
 
@@ -92,7 +92,7 @@
 
 ## Soal 41 — K03-ENG-B09-M01-041
 
-![Room condition 6](assets/eng-b09-gambar-06.svg)
+![Wide schoolyard. A schoolyard stretches widely from left to right.](assets/eng-b09-gambar-06.svg)
 
 **Pertanyaan:** How is the schoolyard from left to right?
 
@@ -110,7 +110,7 @@
 
 ## Soal 42 — K03-ENG-B09-M01-042
 
-![Room condition 7](assets/eng-b09-gambar-07.svg)
+![Large prayer room. A spacious prayer room holds several prayer mats.](assets/eng-b09-gambar-07.svg)
 
 **Pertanyaan:** Which place is large?
 
@@ -128,7 +128,7 @@
 
 ## Soal 43 — K03-ENG-B09-M01-043
 
-![Room condition 8](assets/eng-b09-gambar-08.svg)
+![Large library and small canteen. A large library is shown beside a much smaller canteen.](assets/eng-b09-gambar-08.svg)
 
 **Pertanyaan:** Which place is smaller?
 
@@ -146,7 +146,7 @@
 
 ## Soal 44 — K03-ENG-B09-M01-044
 
-![Room condition 9](assets/eng-b09-gambar-09.svg)
+![Big clean classroom. A big classroom has open space and a clean floor.](assets/eng-b09-gambar-09.svg)
 
 **Pertanyaan:** Which sentence matches the classroom?
 
@@ -164,7 +164,7 @@
 
 ## Soal 45 — K03-ENG-B09-M01-045
 
-![Room condition 10](assets/eng-b09-gambar-10.svg)
+![Narrow dirty office. A narrow office has a stained floor and paper litter.](assets/eng-b09-gambar-10.svg)
 
 **Pertanyaan:** Which sentence matches the office?
 
