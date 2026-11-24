@@ -11,457 +11,457 @@
         {
           "id": "K03-ENG-B08-M01-001",
           "type": "PG",
-          "text": "Mira says, 'I drink orange juice in the canteen.' What does she drink?",
+          "text": "Made drinks water in the canteen. What does Made do?",
           "options": [
-            "orange juice",
-            "water",
-            "milk",
-            "tea"
+            "drinks water",
+            "reads a book",
+            "writes a letter",
+            "plays football"
           ],
-          "answer": "orange juice",
-          "discussion": "The drink is orange juice."
+          "answer": "drinks water",
+          "discussion": "Kalimat menyebutkan bahwa Made minum air."
         },
         {
           "id": "K03-ENG-B08-M01-002",
           "type": "PG",
-          "text": "Bima drinks water after playing. Which drink does he choose?",
+          "text": "Bu Nina teaches in the classroom. What does Bu Nina do?",
           "options": [
-            "water",
-            "canteen",
-            "classroom",
-            "library"
+            "studies",
+            "teaches",
+            "buys food",
+            "plays"
           ],
-          "answer": "water",
-          "discussion": "The sentence names water."
+          "answer": "teaches",
+          "discussion": "**Teaches** berarti mengajar."
         },
         {
           "id": "K03-ENG-B08-M01-003",
           "type": "PG",
-          "text": "Siti has a glass of milk at breakfast. What is in her glass?",
+          "text": "Joshua reads a book in the library. What does Joshua do?",
           "options": [
-            "milk",
-            "bread",
-            "rice",
-            "noodles"
+            "reads a book",
+            "writes on the board",
+            "drinks juice",
+            "buys a ball"
           ],
-          "answer": "milk",
-          "discussion": "Milk is stated as the drink."
+          "answer": "reads a book",
+          "discussion": "Kegiatan Joshua adalah membaca buku."
         },
         {
           "id": "K03-ENG-B08-M01-004",
           "type": "PG",
-          "text": "A teacher says, 'I drink tea.' Which drink does the teacher name?",
+          "text": "Aisyah writes a letter. Which activity does she do?",
           "options": [
-            "tea",
-            "milk",
-            "canteen",
-            "classroom"
+            "teaches",
+            "prays",
+            "writes",
+            "eats"
           ],
-          "answer": "tea",
-          "discussion": "The sentence names tea."
+          "answer": "writes",
+          "discussion": "**Writes** berarti menulis."
         },
         {
           "id": "K03-ENG-B08-M01-005",
           "type": "PG",
-          "text": "The children buy food at school. Which place sells food?",
+          "text": "Cici eats food in the canteen. Which word names her activity?",
           "options": [
-            "canteen",
-            "library",
-            "bread",
-            "rice"
+            "drinks",
+            "reads",
+            "studies",
+            "eats"
           ],
-          "answer": "canteen",
-          "discussion": "A canteen is a place to buy food at school."
+          "answer": "eats",
+          "discussion": "**Eats** digunakan untuk kegiatan makan."
         },
         {
           "id": "K03-ENG-B08-M01-006",
           "type": "PG",
-          "text": "Where do students usually study with their teacher?",
+          "text": "Raka drinks orange juice. Which word names his activity?",
           "options": [
-            "classroom",
-            "water",
-            "milk",
-            "tea"
+            "buys",
+            "drinks",
+            "plays",
+            "teaches"
           ],
-          "answer": "classroom",
-          "discussion": "A classroom is used for lessons."
+          "answer": "drinks",
+          "discussion": "**Drinks** digunakan untuk kegiatan minum."
         },
         {
           "id": "K03-ENG-B08-M01-007",
           "type": "PG",
-          "text": "A student borrows a book. Which place should the student visit?",
+          "text": "Made buys bakso in the canteen. What does Made do before eating it?",
           "options": [
-            "library",
-            "canteen",
-            "classroom",
-            "bread"
+            "buys bakso",
+            "reads bakso",
+            "writes bakso",
+            "teaches bakso"
           ],
-          "answer": "library",
-          "discussion": "Books can be read or borrowed in a library."
+          "answer": "buys bakso",
+          "discussion": "Made membeli bakso di kantin."
         },
         {
           "id": "K03-ENG-B08-M01-008",
           "type": "PG",
-          "text": "Rudi eats bread for breakfast. What does he eat?",
+          "text": "The children play football in the schoolyard. What do they do?",
           "options": [
-            "bread",
-            "orange juice",
-            "water",
-            "milk"
+            "study Math",
+            "play football",
+            "read books",
+            "buy food"
           ],
-          "answer": "bread",
-          "discussion": "Bread is the food mentioned."
+          "answer": "play football",
+          "discussion": "Kegiatan mereka adalah bermain sepak bola."
         },
         {
           "id": "K03-ENG-B08-M01-009",
           "type": "PG",
-          "text": "Nina says, 'I eat rice for lunch.' Which food does she eat?",
+          "text": "Aisyah prays in the prayer room. Where does she pray?",
           "options": [
-            "rice",
-            "tea",
-            "canteen",
-            "classroom"
+            "in the library",
+            "in the canteen",
+            "in the prayer room",
+            "in the schoolyard"
           ],
-          "answer": "rice",
-          "discussion": "She names rice."
+          "answer": "in the prayer room",
+          "discussion": "Tempat yang disebutkan adalah ruang ibadah."
         },
         {
           "id": "K03-ENG-B08-M01-010",
           "type": "PG",
-          "text": "Ali likes noodles. Which food does Ali like?",
+          "text": "The students study Math in the classroom. What do they study?",
           "options": [
-            "noodles",
-            "library",
-            "bread",
-            "rice"
+            "Math",
+            "football",
+            "orange juice",
+            "bakso"
           ],
-          "answer": "noodles",
-          "discussion": "Noodles is explicitly the food."
+          "answer": "Math",
+          "discussion": "Mata pelajaran yang dipelajari adalah Matematika."
         },
         {
           "id": "K03-ENG-B08-M01-011",
           "type": "PG",
-          "text": "Choose the correct sentence about drinking orange juice.",
+          "text": "Complete the sentence: Bu Rahma ___ in the classroom.",
           "options": [
-            "I drink orange juice.",
-            "I eat orange juice.",
-            "I drink noodles.",
-            "I eat water."
+            "teach",
+            "teaches",
+            "read",
+            "play"
           ],
-          "answer": "I drink orange juice.",
-          "discussion": "Use 'drink' with orange juice."
+          "answer": "teaches",
+          "discussion": "Subjek tunggal **Bu Rahma** memakai bentuk **teaches**."
         },
         {
           "id": "K03-ENG-B08-M01-012",
           "type": "PG",
-          "text": "Choose the correct sentence about eating bread.",
+          "text": "Complete the sentence: Joshua ___ a book in the library.",
           "options": [
-            "I drink bread.",
-            "I eat bread.",
-            "I eat water.",
-            "I drink rice."
+            "read",
+            "reads",
+            "teach",
+            "buy"
           ],
-          "answer": "I eat bread.",
-          "discussion": "Use 'eat' with bread."
+          "answer": "reads",
+          "discussion": "Subjek tunggal **Joshua** memakai bentuk **reads**."
         },
         {
           "id": "K03-ENG-B08-M01-013",
           "type": "PG",
-          "text": "A: What do you drink? B: ___.",
+          "text": "Complete the sentence: Cici ___ food in the canteen.",
           "options": [
-            "I eat water.",
-            "I drink water.",
-            "I drink bread.",
-            "I eat tea."
+            "buy",
+            "buys",
+            "write",
+            "play"
           ],
-          "answer": "I drink water.",
-          "discussion": "The response names a drink with the verb 'drink'."
+          "answer": "buys",
+          "discussion": "Subjek tunggal **Cici** memakai bentuk **buys**."
         },
         {
           "id": "K03-ENG-B08-M01-014",
           "type": "PG",
-          "text": "A: What do you eat? B: ___.",
+          "text": "Complete the sentence: Made ___ marbles in the schoolyard.",
           "options": [
-            "I drink rice.",
-            "I eat tea.",
-            "I eat rice.",
-            "I drink bread."
+            "play",
+            "plays",
+            "study",
+            "drink"
           ],
-          "answer": "I eat rice.",
-          "discussion": "The response uses 'eat' with a food."
+          "answer": "plays",
+          "discussion": "Subjek tunggal **Made** memakai bentuk **plays**."
         },
         {
           "id": "K03-ENG-B08-M01-015",
           "type": "PG",
-          "text": "Choose the correct phrase for a place to have a school snack.",
+          "text": "Complete the sentence: The students ___ in the classroom.",
           "options": [
-            "under the classroom",
-            "on the library",
-            "in the canteen",
-            "between the water"
+            "studies",
+            "teaches",
+            "study",
+            "reads"
           ],
-          "answer": "in the canteen",
-          "discussion": "The canteen is the location; 'in the' introduces the place."
+          "answer": "study",
+          "discussion": "Subjek jamak **the students** memakai bentuk dasar **study**."
         },
         {
           "id": "K03-ENG-B08-M01-016",
           "type": "PG",
-          "text": "Complete: I ___ milk at breakfast.",
+          "text": "Made and Joshua ___ books in the library.",
           "options": [
-            "eat",
-            "draw",
-            "drink",
-            "read"
+            "reads",
+            "read",
+            "writes",
+            "teaches"
           ],
-          "answer": "drink",
-          "discussion": "Milk is a drink."
+          "answer": "read",
+          "discussion": "Subjek jamak memakai bentuk dasar **read**."
         },
         {
           "id": "K03-ENG-B08-M01-017",
           "type": "PG",
-          "text": "Complete: I ___ noodles for lunch.",
+          "text": "Cici ___ orange juice in the canteen.",
           "options": [
-            "read",
             "drink",
+            "drinks",
             "eat",
-            "write"
+            "reads"
           ],
-          "answer": "eat",
-          "discussion": "Noodles are food, so use eat."
+          "answer": "drinks",
+          "discussion": "Subjek tunggal **Cici** memakai **drinks**."
         },
         {
           "id": "K03-ENG-B08-M01-018",
           "type": "PG",
-          "text": "A: Do you drink tea? B: Yes, ___.",
+          "text": "Choose the correct sentence about one teacher.",
           "options": [
-            "I am.",
-            "I do.",
-            "I is.",
-            "I are."
+            "The teacher teach in the classroom.",
+            "The teacher teaches in the classroom.",
+            "The teacher teaching in classroom.",
+            "The teacher are teach in the classroom."
           ],
-          "answer": "I do.",
-          "discussion": "'Do you ...?' can take 'Yes, I do.'"
+          "answer": "The teacher teaches in the classroom.",
+          "discussion": "Kata kerja untuk satu guru menggunakan **teaches**."
         },
         {
           "id": "K03-ENG-B08-M01-019",
           "type": "PG",
-          "text": "A: Do you eat rice? B: No, ___.",
+          "text": "Choose the correct sentence about two students.",
           "options": [
-            "I am not.",
-            "I don't.",
-            "I isn't.",
-            "I aren't."
+            "The students studies Math.",
+            "The students study Math.",
+            "The students teaches Math.",
+            "The students is study Math."
           ],
-          "answer": "I don't.",
-          "discussion": "The correct negative short reply is 'No, I don't.'"
+          "answer": "The students study Math.",
+          "discussion": "Subjek jamak memakai **study**, bukan **studies**."
         },
         {
           "id": "K03-ENG-B08-M01-020",
           "type": "PG",
-          "text": "A: Where do you drink water at school? B: ___.",
+          "text": "Which activity usually happens in a library?",
           "options": [
-            "In the canteen.",
-            "On the water.",
-            "Under the milk.",
-            "Between the tea."
+            "reading books",
+            "buying lunch",
+            "washing a face",
+            "playing football"
           ],
-          "answer": "In the canteen.",
-          "discussion": "This answer names the place."
+          "answer": "reading books",
+          "discussion": "Perpustakaan merupakan tempat membaca buku."
         },
         {
           "id": "K03-ENG-B08-M01-021",
           "type": "PG",
-          "text": "Read: 'I eat bread and drink milk.' Which item is the drink?",
+          "text": "Which activity usually happens in a canteen?",
           "options": [
-            "milk",
-            "classroom",
-            "library",
-            "bread"
+            "buying food",
+            "teaching a class",
+            "borrowing books",
+            "playing football"
           ],
-          "answer": "milk",
-          "discussion": "Milk follows 'drink'."
+          "answer": "buying food",
+          "discussion": "Kantin merupakan tempat membeli makanan."
         },
         {
           "id": "K03-ENG-B08-M01-022",
           "type": "PG",
-          "text": "Read: 'I eat noodles and drink tea.' Which item is food?",
+          "text": "Which activity usually happens in a classroom?",
           "options": [
-            "noodles",
-            "orange juice",
-            "water",
-            "milk"
+            "teaching and studying",
+            "buying and selling food",
+            "playing football",
+            "washing a face"
           ],
-          "answer": "noodles",
-          "discussion": "Noodles follows 'eat'."
+          "answer": "teaching and studying",
+          "discussion": "Mengajar dan belajar berlangsung di ruang kelas."
         },
         {
           "id": "K03-ENG-B08-M01-023",
           "type": "PG",
-          "text": "Lina says, 'I drink water, not tea.' What does Lina drink?",
+          "text": "Which activity matches a prayer room?",
           "options": [
-            "water",
-            "canteen",
-            "classroom",
-            "library"
+            "praying",
+            "buying food",
+            "playing marbles",
+            "reading a menu"
           ],
-          "answer": "water",
-          "discussion": "'Not tea' rules out tea; she names water."
+          "answer": "praying",
+          "discussion": "Ruang ibadah digunakan untuk berdoa atau salat."
         },
         {
           "id": "K03-ENG-B08-M01-024",
           "type": "PG",
-          "text": "Beni says, 'I eat rice, not bread.' What food does he eat?",
+          "text": "Which activity matches the schoolyard?",
           "options": [
-            "rice",
-            "library",
-            "bread",
-            "noodles"
+            "playing football",
+            "reading quietly",
+            "teaching at the board",
+            "buying lunch"
           ],
-          "answer": "rice",
-          "discussion": "The sentence identifies rice."
+          "answer": "playing football",
+          "discussion": "Lapangan sekolah sesuai untuk bermain dengan aman."
         },
         {
           "id": "K03-ENG-B08-M01-025",
           "type": "PG",
-          "text": "A friend says, 'I drink orange juice.' Which question fits the answer?",
+          "text": "Read: “Rina writes the lesson, then she reads it.” Which activity happens first?",
           "options": [
-            "What do you drink?",
-            "What do you eat?",
-            "Where do you sleep?",
-            "How old are you?"
+            "reading",
+            "writing",
+            "drinking",
+            "buying"
           ],
-          "answer": "What do you drink?",
-          "discussion": "The question asks about a drink."
+          "answer": "writing",
+          "discussion": "Kata **then** menunjukkan bahwa menulis terjadi lebih dahulu."
         },
         {
           "id": "K03-ENG-B08-M01-026",
           "type": "PG",
-          "text": "A friend says, 'I eat bread.' Which question fits the answer?",
+          "text": "Arrange the words into a correct sentence: **in – studies – Beni – the classroom**.",
           "options": [
-            "What do you drink?",
-            "What do you eat?",
-            "Where is the gate?",
-            "Is it the office?"
+            "Beni studies in the classroom.",
+            "Studies Beni the classroom in.",
+            "In Beni classroom studies the.",
+            "The classroom Beni in studies."
           ],
-          "answer": "What do you eat?",
-          "discussion": "The question asks about food."
+          "answer": "Beni studies in the classroom.",
+          "discussion": "Urutan yang tepat adalah subjek, kata kerja, lalu tempat."
         },
         {
           "id": "K03-ENG-B08-M01-027",
           "type": "PG",
-          "text": "Which sentence uses 'in the canteen' correctly?",
+          "text": "Dika reads in the library. Sari buys food in the canteen. Who is in the library?",
           "options": [
-            "I eat orange juice in the canteen.",
-            "I drink water in the canteen.",
-            "I drink noodles in the canteen.",
-            "I eat milk in the canteen."
+            "Dika",
+            "Sari",
+            "both children",
+            "the teacher"
           ],
-          "answer": "I drink water in the canteen.",
-          "discussion": "The phrase identifies where the action happens."
+          "answer": "Dika",
+          "discussion": "Kalimat pertama menempatkan Dika di perpustakaan."
         },
         {
           "id": "K03-ENG-B08-M01-028",
           "type": "PG",
-          "text": "Which sentence is about a drink, not a food?",
+          "text": "Lina teaches in the classroom. Bimo studies there. What do Lina and Bimo do in the same place?",
           "options": [
-            "I eat bread.",
-            "I drink milk.",
-            "I eat noodles.",
-            "I eat rice."
+            "teach and study",
+            "eat and drink",
+            "buy and play",
+            "read and pray"
           ],
-          "answer": "I drink milk.",
-          "discussion": "Milk is a drink in this context."
+          "answer": "teach and study",
+          "discussion": "Kedua kegiatan terjadi di ruang kelas."
         },
         {
           "id": "K03-ENG-B08-M01-029",
           "type": "PG",
-          "text": "Which sentence is about eating, not drinking?",
+          "text": "Which sentence tells an activity and its place?",
           "options": [
-            "I drink tea.",
-            "I drink water.",
-            "I eat noodles.",
-            "I drink milk."
+            "The library is big.",
+            "I read books in the library.",
+            "The book is blue.",
+            "There are two chairs."
           ],
-          "answer": "I eat noodles.",
-          "discussion": "Noodles are food."
+          "answer": "I read books in the library.",
+          "discussion": "Kalimat tersebut memuat kegiatan **read** dan tempat **library**."
         },
         {
           "id": "K03-ENG-B08-M01-030",
           "type": "PG",
-          "text": "A: Do you drink water? B: Yes, I do. What do we know?",
+          "text": "Rafi buys water in the canteen and drinks it in the schoolyard. Where does he buy water?",
           "options": [
-            "The speaker drinks water.",
-            "The speaker eats water.",
-            "The speaker does not drink water.",
-            "The speaker drinks bread."
+            "in the classroom",
+            "in the canteen",
+            "in the library",
+            "in the prayer room"
           ],
-          "answer": "The speaker drinks water.",
-          "discussion": "'Yes, I do' confirms the question."
+          "answer": "in the canteen",
+          "discussion": "Informasi pertama menyebutkan tempat membeli air."
         },
         {
           "id": "K03-ENG-B08-M01-031",
           "type": "PG",
-          "text": "A: Do you drink milk? B: No, I don't. What do we know?",
+          "text": "A teacher writes on the board. What object is used for the activity?",
           "options": [
-            "The speaker drinks milk.",
-            "The speaker eats milk.",
-            "The speaker does not drink milk.",
-            "The speaker drinks noodles."
+            "a board",
+            "a football",
+            "a food tray",
+            "a prayer mat"
           ],
-          "answer": "The speaker does not drink milk.",
-          "discussion": "The negative reply denies the action."
+          "answer": "a board",
+          "discussion": "Guru menulis pada papan."
         },
         {
           "id": "K03-ENG-B08-M01-032",
           "type": "PG",
-          "text": "Read: 'The canteen is beside the classroom.' Which place is beside the classroom?",
+          "text": "Two children play football. Which verb agrees with the plural subject?",
           "options": [
-            "canteen",
-            "milk",
-            "tea",
-            "classroom"
+            "plays",
+            "play",
+            "teaches",
+            "writes"
           ],
-          "answer": "canteen",
-          "discussion": "The sentence names the canteen as beside the classroom."
+          "answer": "play",
+          "discussion": "Subjek jamak **two children** memakai **play**."
         },
         {
           "id": "K03-ENG-B08-M01-033",
           "type": "PG",
-          "text": "Rara goes to the library and reads books. What does she do there?",
+          "text": "A: What does Joshua do in the library? B: He ___.",
           "options": [
             "reads books",
-            "classroom",
-            "library",
-            "bread"
+            "buys lunch",
+            "plays football",
+            "washes his face"
           ],
           "answer": "reads books",
-          "discussion": "The sentence states that she reads books."
+          "discussion": "Jawaban sesuai kegiatan di perpustakaan."
         },
         {
           "id": "K03-ENG-B08-M01-034",
           "type": "PG",
-          "text": "Which words complete 'I ___ tea in the ___'?",
+          "text": "Which pair has the correct activity and place?",
           "options": [
-            "drink; canteen",
-            "eat; library",
-            "drink; noodles",
-            "read; milk"
+            "read — library",
+            "teach — canteen",
+            "buy food — prayer room",
+            "play football — restroom"
           ],
-          "answer": "drink; canteen",
-          "discussion": "'Drink' fits tea and 'canteen' fits the place."
+          "answer": "read — library",
+          "discussion": "Membaca buku sesuai dilakukan di perpustakaan."
         },
         {
           "id": "K03-ENG-B08-M01-035",
           "type": "PG",
-          "text": "Which words complete 'I ___ rice in the ___'?",
+          "text": "Made studies in the classroom and plays in the schoolyard. Which statement is true?",
           "options": [
-            "drink; classroom",
-            "eat; canteen",
-            "sleep; tea",
-            "draw; rice"
+            "He studies and plays in different places.",
+            "He buys food in both places.",
+            "He reads in the canteen.",
+            "He teaches in the schoolyard."
           ],
-          "answer": "eat; canteen",
-          "discussion": "'Eat' fits rice and 'canteen' fits the place."
+          "answer": "He studies and plays in different places.",
+          "discussion": "Dua kegiatan Made berlangsung di tempat yang berbeda."
         }
       ]
     }
