@@ -11,171 +11,171 @@
         {
           "id": "K03-ENG-B08-M01-036",
           "type": "PG",
-          "text": "Which drink is shown?",
+          "text": "What does the student do in the library?",
           "options": [
-            "orange juice",
-            "noodles",
-            "milk",
-            "classroom"
+            "reads a book",
+            "buys food",
+            "plays football",
+            "washes his face"
           ],
-          "answer": "orange juice",
-          "discussion": "Gambar menunjukkan \"orange juice\" (jus jeruk).",
+          "answer": "reads a book",
+          "discussion": "Gambar menunjukkan siswa membaca buku di perpustakaan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-01.svg",
-            "alt": "Picture"
+            "alt": "Student reading in the library. A student holds an open book in front of library shelves."
           }
         },
         {
           "id": "K03-ENG-B08-M01-037",
           "type": "PG",
-          "text": "What liquid is pictured?",
+          "text": "What does the teacher do?",
           "options": [
-            "orange juice",
-            "tea",
-            "library",
-            "water"
+            "teaches in the classroom",
+            "buys food in the canteen",
+            "plays in the schoolyard",
+            "prays in the prayer room"
           ],
-          "answer": "water",
-          "discussion": "Gambar menunjukkan \"water\" (air).",
+          "answer": "teaches in the classroom",
+          "discussion": "Guru menunjuk tulisan di papan kelas.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-02.svg",
-            "alt": "Picture"
+            "alt": "Teacher teaching in the classroom. A teacher points to a mathematics equation on the classroom board."
           }
         },
         {
           "id": "K03-ENG-B08-M01-038",
           "type": "PG",
-          "text": "Which drink appears in the picture?",
+          "text": "Which activity is shown?",
           "options": [
-            "canteen",
-            "bread",
-            "milk",
-            "water"
+            "writing",
+            "drinking",
+            "playing",
+            "buying"
           ],
-          "answer": "milk",
-          "discussion": "Gambar menunjukkan \"milk\" (susu).",
+          "answer": "writing",
+          "discussion": "Siswa memegang pensil dan menulis di kertas.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-03.svg",
-            "alt": "Picture"
+            "alt": "Student writing. A student writes with a pencil on paper at a desk."
           }
         },
         {
           "id": "K03-ENG-B08-M01-039",
           "type": "PG",
-          "text": "Which word names the pictured beverage?",
+          "text": "What do the students do?",
           "options": [
-            "rice",
-            "tea",
-            "milk",
-            "classroom"
+            "study Math",
+            "buy lunch",
+            "play football",
+            "read a menu"
           ],
-          "answer": "tea",
-          "discussion": "Gambar menunjukkan \"tea\" (teh).",
+          "answer": "study Math",
+          "discussion": "Dua siswa belajar Matematika di ruang kelas.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-04.svg",
-            "alt": "Picture"
+            "alt": "Students studying mathematics. Two students look at a mathematics worksheet together."
           }
         },
         {
           "id": "K03-ENG-B08-M01-040",
           "type": "PG",
-          "text": "Which school place is pictured?",
+          "text": "Which sentence matches the picture?",
           "options": [
-            "canteen",
-            "tea",
-            "library",
-            "noodles"
+            "The child drinks water in the canteen.",
+            "The child reads in the library.",
+            "The child writes in the classroom.",
+            "The child plays in the schoolyard."
           ],
-          "answer": "canteen",
-          "discussion": "Gambar menunjukkan \"canteen\" (kantin).",
+          "answer": "The child drinks water in the canteen.",
+          "discussion": "Gelas di dekat mulut menunjukkan kegiatan minum.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-05.svg",
-            "alt": "Picture"
+            "alt": "Child drinking water. A child lifts a glass of water toward the mouth."
           }
         },
         {
           "id": "K03-ENG-B08-M01-041",
           "type": "PG",
-          "text": "Where do students study in the picture?",
+          "text": "Which activity is shown in the canteen?",
           "options": [
-            "canteen",
-            "bread",
-            "orange juice",
-            "classroom"
+            "eating food",
+            "teaching Math",
+            "reading books",
+            "playing football"
           ],
-          "answer": "classroom",
-          "discussion": "Gambar menunjukkan \"classroom\" (kelas).",
+          "answer": "eating food",
+          "discussion": "Gambar memperlihatkan anak makan dari piring.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-06.svg",
-            "alt": "Picture"
+            "alt": "Child eating food. A child uses a spoon to eat food from a plate."
           }
         },
         {
           "id": "K03-ENG-B08-M01-042",
           "type": "PG",
-          "text": "Which place is used to read books?",
+          "text": "What does the child do at the counter?",
           "options": [
-            "rice",
-            "water",
-            "library",
-            "classroom"
+            "buys food",
+            "writes a letter",
+            "studies Math",
+            "prays"
           ],
-          "answer": "library",
-          "discussion": "Gambar menunjukkan \"library\" (perpustakaan).",
+          "answer": "buys food",
+          "discussion": "Anak menyerahkan uang dan menerima makanan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-07.svg",
-            "alt": "Picture"
+            "alt": "Child buying food. A child gives money to a canteen seller across a counter."
           }
         },
         {
           "id": "K03-ENG-B08-M01-043",
           "type": "PG",
-          "text": "Which food is pictured?",
+          "text": "Which sentence matches the picture?",
           "options": [
-            "milk",
-            "bread",
-            "library",
-            "noodles"
+            "The children play football in the schoolyard.",
+            "The children read in the library.",
+            "The children buy food in the canteen.",
+            "The children write in the classroom."
           ],
-          "answer": "bread",
-          "discussion": "Gambar menunjukkan \"bread\" (roti).",
+          "answer": "The children play football in the schoolyard.",
+          "discussion": "Bola dan lapangan menunjukkan kegiatan bermain sepak bola.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-08.svg",
-            "alt": "Picture"
+            "alt": "Children playing football. Two children run toward a ball on the schoolyard."
           }
         },
         {
           "id": "K03-ENG-B08-M01-044",
           "type": "PG",
-          "text": "What food appears in the image?",
+          "text": "Where does the child pray?",
           "options": [
-            "rice",
-            "bread",
-            "orange juice",
-            "tea"
+            "in the prayer room",
+            "in the canteen",
+            "in the library",
+            "in the schoolyard"
           ],
-          "answer": "rice",
-          "discussion": "Gambar menunjukkan \"rice\" (nasi).",
+          "answer": "in the prayer room",
+          "discussion": "Gambar menunjukkan kegiatan berdoa di ruang ibadah.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-09.svg",
-            "alt": "Picture"
+            "alt": "Child praying. A child prays respectfully on a mat in the prayer room."
           }
         },
         {
           "id": "K03-ENG-B08-M01-045",
           "type": "PG",
-          "text": "Which food is shown here?",
+          "text": "What does the child do in the restroom?",
           "options": [
-            "rice",
-            "water",
-            "canteen",
-            "noodles"
+            "washes his face",
+            "reads a book",
+            "buys food",
+            "plays football"
           ],
-          "answer": "noodles",
-          "discussion": "Gambar menunjukkan \"noodles\" (mi).",
+          "answer": "washes his face",
+          "discussion": "Wastafel dan air menunjukkan kegiatan membasuh wajah.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b08-gambar-10.svg",
-            "alt": "Picture"
+            "alt": "Child washing face. A child uses water from a sink to wash the face."
           }
         }
       ]
