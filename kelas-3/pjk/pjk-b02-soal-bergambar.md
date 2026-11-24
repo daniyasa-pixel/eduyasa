@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-PJK-B02-M01-036
 
-![Stimulus gerak nonlokomotor 1](assets/pjk-b02-gambar-01.svg)
+![Urutan ayunan lengan. Empat panel memperlihatkan lengan ke atas, samping, belakang, lalu bawah.](assets/pjk-b02-gambar-01.svg)
 
 **Pertanyaan:** Gambar menunjukkan urutan ayunan lengan: atas, samping, belakang, bawah. Setelah posisi samping, gerak berikutnya adalah ....
 
@@ -22,7 +22,7 @@
 
 ## Soal 37 — K03-PJK-B02-M01-037
 
-![Stimulus gerak nonlokomotor 2](assets/pjk-b02-gambar-02.svg)
+![Nonlokomotor dan berpindah tempat. Panel A menunjukkan badan berputar dengan kaki pada tanda; panel B menunjukkan jejak kaki meninggalkan tanda.](assets/pjk-b02-gambar-02.svg)
 
 **Pertanyaan:** Pada panel A kaki tetap di tanda sambil badan berputar. Panel B berjalan meninggalkan tanda. Panel mana yang menunjukkan nonlokomotor?
 
@@ -40,7 +40,7 @@
 
 ## Soal 38 — K03-PJK-B02-M01-038
 
-![Stimulus gerak nonlokomotor 3](assets/pjk-b02-gambar-03.svg)
+![Meliuk kanan dan kiri. Satu posisi tegak di tengah dan dua posisi tubuh miring ke kanan dan kiri dengan kaki tetap.](assets/pjk-b02-gambar-03.svg)
 
 **Pertanyaan:** Panah pada gambar bergerak dari posisi tegak ke kanan lalu ke kiri. Gerak apa yang ditunjukkan?
 
@@ -58,7 +58,7 @@
 
 ## Soal 39 — K03-PJK-B02-M01-039
 
-![Stimulus gerak nonlokomotor 4](assets/pjk-b02-gambar-04.svg)
+![Urutan lutut lurus dan menekuk. Tiga panel bernomor menunjukkan posisi lurus, menekuk, lalu lurus kembali.](assets/pjk-b02-gambar-04.svg)
 
 **Pertanyaan:** Gambar bernomor 1–3 menunjukkan lutut lurus, menekuk, lalu kembali lurus. Posisi menekuk ditunjukkan oleh nomor ....
 
@@ -76,7 +76,7 @@
 
 ## Soal 40 — K03-PJK-B02-M01-040
 
-![Stimulus gerak nonlokomotor 5](assets/pjk-b02-gambar-05.svg)
+![Jarak aman menggunakan simpai. Panel A menunjukkan dua siswa berjauhan; panel B menunjukkan dua siswa dan simpai bertumpuk.](assets/pjk-b02-gambar-05.svg)
 
 **Pertanyaan:** Dua siswa memegang simpai. Panel A memiliki jarak cukup; Panel B terlalu berdekatan. Susunan yang aman adalah ....
 
@@ -94,7 +94,7 @@
 
 ## Soal 41 — K03-PJK-B02-M01-041
 
-![Stimulus gerak nonlokomotor 6](assets/pjk-b02-gambar-06.svg)
+![Batas gerak nyaman dan nyeri. Skala dari zona hijau nyaman menuju zona merah nyeri.](assets/pjk-b02-gambar-06.svg)
 
 **Pertanyaan:** Skala gambar menunjukkan gerak nyaman pada zona hijau dan nyeri pada zona merah. Jika gerak mencapai zona merah, siswa harus ....
 
@@ -112,7 +112,7 @@
 
 ## Soal 42 — K03-PJK-B02-M01-042
 
-![Stimulus gerak nonlokomotor 7](assets/pjk-b02-gambar-07.svg)
+![Ruang pribadi saat mengayun. Dua siswa berdiri di dalam lingkaran ruang yang tidak saling bertumpuk.](assets/pjk-b02-gambar-07.svg)
 
 **Pertanyaan:** Dua lingkaran ruang pribadi pada gambar tidak saling bertumpuk. Apa aturan yang ditunjukkan?
 
@@ -130,7 +130,7 @@
 
 ## Soal 43 — K03-PJK-B02-M01-043
 
-![Stimulus gerak nonlokomotor 8](assets/pjk-b02-gambar-08.svg)
+![Kartu urutan gerak. Tiga kartu berurutan bertuliskan PUTAR, AYUN, TEKUK.](assets/pjk-b02-gambar-08.svg)
 
 **Pertanyaan:** Kartu urutan menunjukkan PUTAR → AYUN → TEKUK. Gerak ketiga adalah ....
 
@@ -148,7 +148,7 @@
 
 ## Soal 44 — K03-PJK-B02-M01-044
 
-![Stimulus gerak nonlokomotor 9](assets/pjk-b02-gambar-09.svg)
+![Membungkuk tanpa berpindah. Tubuh mencondong ke depan sementara kedua kaki tetap pada dua tanda lantai.](assets/pjk-b02-gambar-09.svg)
 
 **Pertanyaan:** Gambar menunjukkan tubuh condong ke depan tetapi kedua kaki tetap pada tanda. Gerak ini adalah ....
 
@@ -166,7 +166,7 @@
 
 ## Soal 45 — K03-PJK-B02-M01-045
 
-![Stimulus gerak nonlokomotor 10](assets/pjk-b02-gambar-10.svg)
+![Tabel pemeriksaan kondisi tubuh. Tabel menunjukkan nyaman lanjut, nyeri berhenti, dan pusing berhenti.](assets/pjk-b02-gambar-10.svg)
 
 **Pertanyaan:** Tabel pemeriksaan tubuh menunjukkan: nyaman—lanjut; nyeri—berhenti; pusing—berhenti. Siswa merasa pusing. Apa tindakannya?
 
