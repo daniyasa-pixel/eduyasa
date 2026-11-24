@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-PJK-B05-M01-036
 
-![Jejak kaki kiri dan kanan pada hitungan satu dua](assets/pjk-b05-gambar-01.svg)
+![Langkah satu dua. Jejak kiri pada satu dan kanan pada dua.](assets/pjk-b05-gambar-01.svg)
 
 **Pertanyaan:** Jejak kaki menunjukkan kiri pada hitungan 1 dan kanan pada hitungan 2. Kaki yang melangkah pada hitungan 2 adalah ....
 
@@ -22,7 +22,7 @@
 
 ## Soal 37 — K03-PJK-B05-M01-037
 
-![Perbandingan berjalan maju dan berjalan di tempat](assets/pjk-b05-gambar-02.svg)
+![Maju dan di tempat. Panel A berjalan maju dan B kaki bergantian di tempat.](assets/pjk-b05-gambar-02.svg)
 
 **Pertanyaan:** Dua panel menunjukkan A berjalan maju dan B mengangkat kaki bergantian tanpa berpindah. Panel langkah di tempat adalah ....
 
@@ -40,7 +40,7 @@
 
 ## Soal 38 — K03-PJK-B05-M01-038
 
-![Dua jalur gerak mundur kosong dan terhalang](assets/pjk-b05-gambar-03.svg)
+![Jalur mundur. Jalur A kosong dan B terhalang tas.](assets/pjk-b05-gambar-03.svg)
 
 **Pertanyaan:** Diagram jalur mundur menunjukkan pilihan A kosong dan pilihan B terhalang tas. Jalur yang aman digunakan adalah ....
 
@@ -58,7 +58,7 @@
 
 ## Soal 39 — K03-PJK-B05-M01-039
 
-![Perbandingan ketukan lambat dan cepat](assets/pjk-b05-gambar-04.svg)
+![Tempo ketukan. Pola A berjeda panjang dan B rapat.](assets/pjk-b05-gambar-04.svg)
 
 **Pertanyaan:** Pola A memiliki ketukan berjeda panjang, sedangkan pola B ketukannya rapat. Pola dengan tempo lebih lambat adalah ....
 
@@ -76,7 +76,7 @@
 
 ## Soal 40 — K03-PJK-B05-M01-040
 
-![Urutan empat hitungan ayunan lengan kanan dan kiri](assets/pjk-b05-gambar-05.svg)
+![Ayunan empat hitungan. Kanan ke samping kembali lalu kiri ke samping kembali.](assets/pjk-b05-gambar-05.svg)
 
 **Pertanyaan:** Kartu gerak menunjukkan hitungan 1 lengan kanan ke samping, 2 kembali ke depan, 3 lengan kiri ke samping, 4 kembali ke depan. Pada hitungan 3, lengan yang bergerak adalah ....
 
@@ -94,7 +94,7 @@
 
 ## Soal 41 — K03-PJK-B05-M01-041
 
-![Pola ayunan lengan kanan kiri pada hitungan ganjil genap](assets/pjk-b05-gambar-06.svg)
+![Ganjil kanan genap kiri. Panah arah ayunan pada hitungan satu sampai delapan.](assets/pjk-b05-gambar-06.svg)
 
 **Pertanyaan:** Diagram panah menunjukkan kedua lengan bergantian ke kanan pada hitungan ganjil dan ke kiri pada hitungan genap. Arah hitungan 7 adalah ....
 
@@ -112,7 +112,7 @@
 
 ## Soal 42 — K03-PJK-B05-M01-042
 
-![Perbandingan ayunan dengan lutut lentur dan kaku](assets/pjk-b05-gambar-07.svg)
+![Lutut lentur. Panel A lutut ditekuk ringan dan B dikunci.](assets/pjk-b05-gambar-07.svg)
 
 **Pertanyaan:** Dua panel memperlihatkan ayunan depan–belakang. Panel A menekuk lutut ringan, panel B mengunci lutut. Cara yang lebih lentur adalah ....
 
@@ -130,7 +130,7 @@
 
 ## Soal 43 — K03-PJK-B05-M01-043
 
-![Denah jarak aman kelompok gerak berirama](assets/pjk-b05-gambar-08.svg)
+![Jarak kelompok. Empat anak memiliki ruang lebih lebar daripada rentang lengan.](assets/pjk-b05-gambar-08.svg)
 
 **Pertanyaan:** Pada denah kelompok, jarak antaranak lebih lebar daripada jangkauan lengan. Manfaat pengaturan itu adalah ....
 
@@ -148,7 +148,7 @@
 
 ## Soal 44 — K03-PJK-B05-M01-044
 
-![Kartu urutan empat gerak berirama](assets/pjk-b05-gambar-09.svg)
+![Urutan rangkaian. Empat kartu langkah di tempat ayun kanan ayun kiri siap.](assets/pjk-b05-gambar-09.svg)
 
 **Pertanyaan:** Empat kartu bertuliskan langkah di tempat, ayun kanan, ayun kiri, lalu kembali siap. Jika rangkaian dibaca dari kiri ke kanan, gerak ketiga adalah ....
 
@@ -166,7 +166,7 @@
 
 ## Soal 45 — K03-PJK-B05-M01-045
 
-![Tabel hasil tiga percobaan gerak serempak](assets/pjk-b05-gambar-10.svg)
+![Hasil serempak. Tabel percobaan empat enam dan tujuh perpindahan.](assets/pjk-b05-gambar-10.svg)
 
 **Pertanyaan:** Tabel mencatat perpindahan serempak: percobaan 1 = 4, percobaan 2 = 6, percobaan 3 = 7. Hasil tertinggi terdapat pada ....
 
