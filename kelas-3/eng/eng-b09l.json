@@ -11,95 +11,95 @@
         {
           "id": "K03-ENG-B09-M01-046",
           "type": "PG",
-          "text": "Listen carefully. How is the classroom described?",
+          "text": "How is the classroom described?",
           "options": [
-            "dirty",
-            "messy",
-            "clean",
-            "dark"
+            "big and clean",
+            "small and dirty",
+            "narrow and dirty",
+            "large and dirty"
           ],
-          "answer": "clean",
-          "discussion": "The room is called clean.",
+          "answer": "big and clean",
+          "discussion": "Audio menyebutkan dua kondisi: besar dan bersih.",
           "audio": {
             "type": "tts",
             "lang": "en-US",
-            "text": "My classroom is clean. The floor has no rubbish.",
+            "text": "How is your classroom? It is big and clean.",
             "rate": 0.85
           }
         },
         {
           "id": "K03-ENG-B09-M01-047",
           "type": "PG",
-          "text": "Listen carefully. Which adjective describes the shoes?",
+          "text": "Which word describes the schoolyard?",
           "options": [
-            "bright",
+            "clean",
+            "large",
             "dirty",
-            "quiet",
-            "tidy"
+            "narrow"
           ],
           "answer": "dirty",
-          "discussion": "The audio says dirty.",
+          "discussion": "Audio menyebutkan halaman sekolah kotor.",
           "audio": {
             "type": "tts",
             "lang": "en-US",
-            "text": "The shoes are dirty after the rain.",
+            "text": "The schoolyard is dirty. There is rubbish on the ground.",
             "rate": 0.85
           }
         },
         {
           "id": "K03-ENG-B09-M01-048",
           "type": "PG",
-          "text": "Listen carefully. How is the lighting described?",
+          "text": "Which word describes the restroom's width?",
           "options": [
-            "dark",
-            "noisy",
-            "bright",
-            "messy"
+            "clean",
+            "narrow",
+            "large",
+            "dirty"
           ],
-          "answer": "bright",
-          "discussion": "Bright describes the light.",
+          "answer": "narrow",
+          "discussion": "Kata yang menjelaskan lebar adalah **narrow**.",
           "audio": {
             "type": "tts",
             "lang": "en-US",
-            "text": "The room is small, but it is bright.",
+            "text": "The restroom is narrow, but it is clean.",
             "rate": 0.85
           }
         },
         {
           "id": "K03-ENG-B09-M01-049",
           "type": "PG",
-          "text": "Listen carefully. How are the books described?",
+          "text": "Which sentence matches the audio?",
           "options": [
-            "messy",
-            "dirty",
-            "big",
-            "tidy"
+            "The library is large and clean.",
+            "The library is small and dirty.",
+            "The library is narrow and dirty.",
+            "The library is small and clean."
           ],
-          "answer": "tidy",
-          "discussion": "Books are described as tidy.",
+          "answer": "The library is large and clean.",
+          "discussion": "Kalimat yang sama persis dengan deskripsi audio adalah jawaban benar.",
           "audio": {
             "type": "tts",
             "lang": "en-US",
-            "text": "The books are tidy on the shelf.",
+            "text": "The library is large and clean.",
             "rate": 0.85
           }
         },
         {
           "id": "K03-ENG-B09-M01-050",
           "type": "PG",
-          "text": "Listen carefully. Which adjective describes the classroom?",
+          "text": "Which word describes the canteen?",
           "options": [
-            "noisy",
-            "quiet",
+            "wide",
+            "large",
             "dirty",
             "small"
           ],
-          "answer": "quiet",
-          "discussion": "The answer corrects noisy to quiet.",
+          "answer": "small",
+          "discussion": "Audio menjawab bahwa kantin berukuran kecil.",
           "audio": {
             "type": "tts",
             "lang": "en-US",
-            "text": "Is the classroom noisy? No, it is quiet.",
+            "text": "How is the canteen? It is small.",
             "rate": 0.85
           }
         }
