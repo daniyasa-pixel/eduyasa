@@ -242,7 +242,7 @@
 
 ## Soal 16 — K03-ENG-B07-M01-016
 
-**Pertanyaan:** A: Where is the teacher room? B: It is ___ the office. They are side by side.
+**Pertanyaan:** A: Where is the teachers’ room? B: It is ___ the office. They are side by side.
 
 **Pilihan jawaban:**
 - beside
@@ -252,7 +252,7 @@
 
 **Kunci Jawaban:** beside
 
-**Pembahasan:** Dua tempat yang berdampingan dinyatakan dengan **beside**.
+**Pembahasan:** The teachers’ room and office are side by side, so the missing word is “beside.”
 
 ---
 
@@ -434,7 +434,7 @@
 
 ## Soal 28 — K03-ENG-B07-M01-028
 
-**Pertanyaan:** Which word completes the sentence? “The shoes are ___ the table, not on it.”
+**Pertanyaan:** The shoes are directly beneath the table, between its legs. Which word completes the sentence: “The shoes are ___ the table”?
 
 **Pilihan jawaban:**
 - between
@@ -444,7 +444,7 @@
 
 **Kunci Jawaban:** under
 
-**Pembahasan:** Petunjuk “not on it” dan letak di bawah meja sesuai dengan **under**.
+**Pembahasan:** “Under” means directly beneath something. The clue about the shoes being beneath the table makes the answer unambiguous.
 
 ---
 
@@ -482,7 +482,7 @@
 
 ## Soal 31 — K03-ENG-B07-M01-031
 
-**Pertanyaan:** Which sentence describes a room located at the back of the office?
+**Pertanyaan:** A classroom is outside and directly behind the office building, not inside it. Which sentence describes the classroom’s position?
 
 **Pilihan jawaban:**
 - The room is behind the office.
@@ -492,23 +492,23 @@
 
 **Kunci Jawaban:** The room is behind the office.
 
-**Pembahasan:** **At the back of** berarti **behind**.
+**Pembahasan:** “Behind the office” places the room at the rear of the office building, rather than inside or in front of it.
 
 ---
 
 ## Soal 32 — K03-ENG-B07-M01-032
 
-**Pertanyaan:** The teacher room and the office are side by side. Which sentence is correct?
+**Pertanyaan:** The teachers’ room and the office are side by side. Which sentence describes the teachers’ room correctly?
 
 **Pilihan jawaban:**
-- The teacher room is behind the office.
-- The teacher room is beside the office.
-- The teacher room is under the office.
-- The teacher room is in the office.
+- The teachers’ room is behind the office.
+- The teachers’ room is beside the office.
+- The teachers’ room is under the office.
+- The teachers’ room is in the office.
 
-**Kunci Jawaban:** The teacher room is beside the office.
+**Kunci Jawaban:** The teachers’ room is beside the office.
 
-**Pembahasan:** **Side by side** berarti berdampingan atau **beside**.
+**Pembahasan:** “Side by side” means “beside.” The sentence correctly uses the standard name “teachers’ room” for a room used by teachers.
 
 ---
 
