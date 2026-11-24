@@ -11,95 +11,95 @@
         {
           "id": "K03-ENG-B08-M01-046",
           "type": "PG",
-          "text": "Listen carefully. What does the speaker drink?",
+          "text": "Listen carefully. What does Bu Nina do?",
           "options": [
-            "water",
-            "orange juice",
-            "milk",
-            "tea"
+            "teaches",
+            "studies",
+            "buys food",
+            "plays football"
           ],
-          "answer": "orange juice",
-          "discussion": "The speaker names orange juice.",
+          "answer": "teaches",
+          "discussion": "Audio menyebutkan bahwa Bu Nina mengajar.",
           "audio": {
             "type": "tts",
             "lang": "en-US",
-            "text": "I drink orange juice in the canteen.",
+            "text": "Bu Nina teaches in the classroom.",
             "rate": 0.85
           }
         },
         {
           "id": "K03-ENG-B08-M01-047",
           "type": "PG",
-          "text": "Listen carefully. What does the speaker drink?",
+          "text": "Listen carefully. Where does Joshua read?",
           "options": [
-            "rice",
-            "noodles",
-            "water",
-            "bread"
+            "in the canteen",
+            "in the library",
+            "in the schoolyard",
+            "in the restroom"
           ],
-          "answer": "water",
-          "discussion": "Drink water is in the sentence.",
+          "answer": "in the library",
+          "discussion": "Audio menyebutkan tempatnya adalah perpustakaan.",
           "audio": {
             "type": "tts",
             "lang": "en-US",
-            "text": "I eat rice and drink water.",
+            "text": "Joshua reads a book in the library.",
             "rate": 0.85
           }
         },
         {
           "id": "K03-ENG-B08-M01-048",
           "type": "PG",
-          "text": "Listen carefully. What drink does the speaker confirm?",
+          "text": "Listen carefully. What does Cici buy?",
           "options": [
-            "milk",
-            "tea",
-            "orange juice",
-            "water"
+            "food",
+            "a book",
+            "a ball",
+            "a pencil"
           ],
-          "answer": "milk",
-          "discussion": "Yes confirms milk.",
+          "answer": "food",
+          "discussion": "Audio menyebutkan bahwa Cici membeli makanan.",
           "audio": {
             "type": "tts",
             "lang": "en-US",
-            "text": "Do you drink milk? Yes, I do.",
+            "text": "Cici buys food in the canteen.",
             "rate": 0.85
           }
         },
         {
           "id": "K03-ENG-B08-M01-049",
           "type": "PG",
-          "text": "Listen carefully. Which drink is chosen?",
+          "text": "Listen carefully. What do Made and Joshua do?",
           "options": [
-            "milk",
-            "orange juice",
-            "water",
-            "tea"
+            "read books",
+            "study Math",
+            "play football",
+            "write letters"
           ],
-          "answer": "tea",
-          "discussion": "The speaker says tea, not orange juice.",
+          "answer": "play football",
+          "discussion": "Kegiatan yang disebutkan adalah bermain sepak bola.",
           "audio": {
             "type": "tts",
             "lang": "en-US",
-            "text": "I drink tea, not orange juice.",
+            "text": "Made and Joshua play football in the schoolyard.",
             "rate": 0.85
           }
         },
         {
           "id": "K03-ENG-B08-M01-050",
           "type": "PG",
-          "text": "Listen carefully. Where does the speaker eat?",
+          "text": "Listen carefully. Which sentence matches the audio?",
           "options": [
-            "library",
-            "canteen",
-            "classroom",
-            "garden"
+            "Aisyah writes in the classroom.",
+            "Aisyah drinks in the canteen.",
+            "Aisyah plays in the schoolyard.",
+            "Aisyah reads in the library."
           ],
-          "answer": "canteen",
-          "discussion": "The place is the canteen.",
+          "answer": "Aisyah writes in the classroom.",
+          "discussion": "Audio menyatakan bahwa Aisyah menulis di ruang kelas.",
           "audio": {
             "type": "tts",
             "lang": "en-US",
-            "text": "Where do you eat lunch? I eat lunch in the canteen.",
+            "text": "Aisyah writes the lesson in the classroom.",
             "rate": 0.85
           }
         }
