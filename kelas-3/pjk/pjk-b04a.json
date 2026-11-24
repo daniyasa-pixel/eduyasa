@@ -11,171 +11,171 @@
         {
           "id": "K03-PJK-B04-M01-036",
           "type": "PG",
-          "text": "Siswa mencoba posisi dasar dengan instruksi guru. Apa prinsip keamanan utama latihan?",
+          "text": "Dua posisi terlihat: A berdiri dengan kaki rapat, B berdiri dengan kaki terbuka selebar bahu. Untuk latihan awal yang membutuhkan bidang tumpuan lebih lebar, pilih ....",
           "options": [
-            "selalu dilakukan sendirian",
-            "harus di tempat sempit",
-            "dilakukan sesuai kemampuan dan arahan guru",
-            "dipaksa sampai sakit"
+            "posisi A",
+            "posisi B",
+            "keduanya tanpa tumpuan",
+            "tidak ada yang menyentuh lantai"
           ],
-          "answer": "dilakukan sesuai kemampuan dan arahan guru",
-          "discussion": "Latihan senam dasar: dilakukan sesuai kemampuan dan arahan guru.",
+          "answer": "posisi B",
+          "discussion": "Posisi B memiliki bidang tumpuan kaki yang lebih lebar sehingga lebih mudah digunakan untuk latihan awal.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-01.svg",
-            "alt": "Ilustrasi Latihan senam dasar"
+            "alt": "Bidang tumpuan. Posisi A kaki rapat dan B kaki terbuka."
           }
         },
         {
           "id": "K03-PJK-B04-M01-037",
           "type": "PG",
-          "text": "Siswa bergerak ringan sebelum berlatih senam. Apa tujuan tahap persiapan ini?",
+          "text": "Gambar menunjukkan posisi tangan dan lutut. Kaki kanan telah diangkat ke belakang. Anggota tubuh mana yang ditandai untuk diangkat berikutnya?",
           "options": [
-            "menghilangkan risiko sepenuhnya",
-            "mempersiapkan otot dan sendi",
-            "menggantikan seluruh latihan",
-            "membuat tidak perlu minum"
+            "tangan kiri",
+            "tangan kanan",
+            "kedua lutut",
+            "kepala"
           ],
-          "answer": "mempersiapkan otot dan sendi",
-          "discussion": "Pemanasan senam: mempersiapkan otot dan sendi.",
+          "answer": "tangan kiri",
+          "discussion": "Pasangan silang kaki kanan dan tangan kiri membantu melatih keseimbangan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-02.svg",
-            "alt": "Ilustrasi Pemanasan senam"
+            "alt": "Tumpuan silang. Kaki kanan telah terangkat dan tangan kiri ditandai."
           }
         },
         {
           "id": "K03-PJK-B04-M01-038",
           "type": "PG",
-          "text": "Anak hendak berguling di atas matras. Bagian tubuh apa yang harus diperhatikan?",
+          "text": "Tiga panel menunjukkan kaki bebas bergerak dari depan ke samping lalu ke belakang. Agar tetap aman, perpindahan dilakukan ....",
           "options": [
-            "kepala dan leher dijaga sesuai arahan guru",
-            "leher ditumpu paksa",
-            "mata selalu ditutup",
-            "teman ditarik"
+            "perlahan dengan tubuh menyesuaikan",
+            "secepat mungkin sambil memejamkan mata",
+            "dengan melompat di lantai licin",
+            "sambil mendorong teman"
           ],
-          "answer": "kepala dan leher dijaga sesuai arahan guru",
-          "discussion": "Sikap tubuh saat berguling: kepala dan leher dijaga sesuai arahan guru.",
+          "answer": "perlahan dengan tubuh menyesuaikan",
+          "discussion": "Perubahan arah kaki dilakukan perlahan agar tubuh dapat menjaga kestabilan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-03.svg",
-            "alt": "Ilustrasi Sikap tubuh saat berguling"
+            "alt": "Arah kaki keseimbangan. Tiga panel kaki ke depan samping dan belakang."
           }
         },
         {
           "id": "K03-PJK-B04-M01-039",
           "type": "PG",
-          "text": "Dua siswa berbagi matras. Bagaimana mereka mengatur waktu dan jarak?",
+          "text": "Urutan sikap lilin pada gambar berakhir dengan lutut ditekuk sebelum tubuh turun. Mengapa tahap itu dilakukan?",
           "options": [
-            "saling mendorong",
-            "mengganggu gerakan",
-            "melempar alat",
-            "bergiliran dan menjaga jarak aman"
+            "agar gerak kembali lebih terkendali",
+            "agar leher menerima seluruh beban",
+            "agar kaki jatuh lebih cepat",
+            "agar tubuh berputar ke samping"
           ],
-          "answer": "bergiliran dan menjaga jarak aman",
-          "discussion": "Teman saat senam: bergiliran dan menjaga jarak aman.",
+          "answer": "agar gerak kembali lebih terkendali",
+          "discussion": "Menekuk lutut sebelum turun membantu mengendalikan gerak kembali ke posisi telentang.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-04.svg",
-            "alt": "Ilustrasi Teman saat senam"
+            "alt": "Kembali dari sikap lilin. Urutan kaki tegak, lutut ditekuk, lalu telentang."
           }
         },
         {
           "id": "K03-PJK-B04-M01-040",
           "type": "PG",
-          "text": "Gambar memperlihatkan rangkaian tumpuan dan gerak. Kelompok kemampuan senam apa yang dilatih?",
+          "text": "Gambar membandingkan dua tempat latihan. A memakai matras dengan guru di dekatnya; B berada di lantai keras tanpa pengawasan. Pilihan yang sesuai adalah ....",
           "options": [
-            "hanya berenang",
-            "hanya berlari",
-            "meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran",
-            "hanya menendang bola"
+            "tempat A",
+            "tempat B",
+            "keduanya sama aman",
+            "latihan di tangga"
           ],
-          "answer": "meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran",
-          "discussion": "Gerak dominan senam: meliputi bertumpu, bergantung, keseimbangan, dan berguling sesuai pembelajaran.",
+          "answer": "tempat A",
+          "discussion": "Gerak senam yang memerlukan alas dilakukan di matras dan dengan arahan guru.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-05.svg",
-            "alt": "Ilustrasi Gerak dominan senam"
+            "alt": "Tempat latihan aman. A matras dan guru, B lantai keras tanpa pengawasan."
           }
         },
         {
           "id": "K03-PJK-B04-M01-041",
           "type": "PG",
-          "text": "Siswa menahan sebagian berat tubuh di atas tangan dan kaki. Gerak yang sesuai ialah ....",
+          "text": "Empat kartu gerak bernomor menunjukkan persiapan, tolakan, kaki membuka saat melayang, dan mendarat. Urutan yang benar adalah ....",
           "options": [
-            "berlari sprint",
-            "menopang berat badan dengan bagian tubuh tertentu",
-            "melempar bola",
-            "berenang jauh"
+            "1–2–3–4",
+            "2–1–4–3",
+            "3–4–1–2",
+            "4–3–2–1"
           ],
-          "answer": "menopang berat badan dengan bagian tubuh tertentu",
-          "discussion": "Bertumpu: menopang berat badan dengan bagian tubuh tertentu.",
+          "answer": "1–2–3–4",
+          "discussion": "Lompat kangkang berlangsung dari persiapan ke tolakan, melayang dengan kaki terbuka, lalu pendaratan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-06.svg",
-            "alt": "Ilustrasi Bertumpu"
+            "alt": "Fase lompat kangkang. Empat kartu persiapan tolakan melayang dan mendarat."
           }
         },
         {
           "id": "K03-PJK-B04-M01-042",
           "type": "PG",
-          "text": "Siswa bergerak berguling ke depan menggunakan matras dan pengawasan. Manakah uraian yang tepat?",
+          "text": "Dua pendaratan terlihat pada gambar. A mendarat dengan lutut lentur; B dengan lutut kaku. Pendaratan yang lebih terkendali adalah ....",
           "options": [
-            "menggulingkan tubuh ke depan di matras dengan bimbingan",
-            "melompat dari atap",
-            "menendang bola",
-            "berlari mundur"
+            "pendaratan A",
+            "pendaratan B",
+            "keduanya harus dengan satu kaki",
+            "keduanya dilakukan sambil menutup mata"
           ],
-          "answer": "menggulingkan tubuh ke depan di matras dengan bimbingan",
-          "discussion": "Berguling depan: menggulingkan tubuh ke depan di matras dengan bimbingan.",
+          "answer": "pendaratan A",
+          "discussion": "Lutut lentur membantu meredam beban dan menjaga keseimbangan ketika mendarat.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-07.svg",
-            "alt": "Ilustrasi Berguling depan"
+            "alt": "Dua cara mendarat. A lutut lentur dan B lutut kaku."
           }
         },
         {
           "id": "K03-PJK-B04-M01-043",
           "type": "PG",
-          "text": "Anak berusaha tetap stabil pada satu posisi. Keterampilan apa yang dilatih?",
+          "text": "Pilihan latihan A memakai garis lantai, B memakai rintangan rendah, dan C memakai peti tinggi. Untuk pemula yang masih ragu, tahap awal yang tepat adalah ....",
           "options": [
-            "mendorong teman",
-            "berlari tanpa arah",
-            "melempar bola",
-            "menjaga tubuh tetap stabil"
+            "latihan A",
+            "latihan B dan C sekaligus",
+            "langsung latihan C",
+            "tidak perlu pemanasan"
           ],
-          "answer": "menjaga tubuh tetap stabil",
-          "discussion": "Sikap keseimbangan: menjaga tubuh tetap stabil.",
+          "answer": "latihan A",
+          "discussion": "Pola membuka kaki dapat dipelajari lebih dahulu melalui garis lantai sebelum rintangan ditambah bertahap.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-08.svg",
-            "alt": "Ilustrasi Sikap keseimbangan"
+            "alt": "Tahapan latihan kangkang. A garis lantai, B rintangan rendah, C peti lebih tinggi."
           }
         },
         {
           "id": "K03-PJK-B04-M01-044",
           "type": "PG",
-          "text": "Seorang guru memasang alas latihan lunak. Mengapa alas tersebut digunakan?",
+          "text": "Pada diagram, seorang teman masih berada di area pendaratan. Apa yang harus dilakukan pelompat?",
           "options": [
-            "dipakai sebagai bola",
-            "dipakai untuk berenang",
-            "membantu menyediakan permukaan latihan yang lebih aman",
-            "digunakan untuk melempar"
+            "menunggu sampai area kosong",
+            "melompat melewati teman",
+            "meminta teman tetap duduk",
+            "menambah kecepatan awalan"
           ],
-          "answer": "membantu menyediakan permukaan latihan yang lebih aman",
-          "discussion": "Matras senam: membantu menyediakan permukaan latihan yang lebih aman.",
+          "answer": "menunggu sampai area kosong",
+          "discussion": "Area pendaratan harus bebas orang dan benda sebelum pelompat mulai.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-09.svg",
-            "alt": "Ilustrasi Matras senam"
+            "alt": "Area pendaratan terhalang. Teman masih berada pada matras pendaratan."
           }
         },
         {
           "id": "K03-PJK-B04-M01-045",
           "type": "PG",
-          "text": "Anak turun dari gerak meloncat rendah. Cara mendarat yang tepat adalah ....",
+          "text": "Tabel menunjukkan waktu seimbang: percobaan 1 = 3 detik, percobaan 2 = 5 detik, percobaan 3 = 6 detik. Percobaan terlama adalah ....",
           "options": [
-            "dilakukan sambil mendorong teman",
-            "dilakukan terkendali dengan lutut tidak kaku",
-            "dilakukan sambil menutup mata",
-            "dilakukan di lantai licin"
+            "percobaan 1",
+            "percobaan 2",
+            "percobaan 3",
+            "semuanya sama"
           ],
-          "answer": "dilakukan terkendali dengan lutut tidak kaku",
-          "discussion": "Gerakan mendarat: dilakukan terkendali dengan lutut tidak kaku.",
+          "answer": "percobaan 3",
+          "discussion": "Enam detik adalah waktu terbesar pada tabel, yaitu percobaan ketiga.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b04-gambar-10.svg",
-            "alt": "Ilustrasi Gerakan mendarat"
+            "alt": "Catatan waktu keseimbangan. Tabel tiga percobaan tiga lima dan enam detik."
           }
         }
       ]
