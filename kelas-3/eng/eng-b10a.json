@@ -11,171 +11,171 @@
         {
           "id": "K03-ENG-B10-M01-036",
           "type": "PG",
-          "text": "Which English number word matches the pictured count?",
+          "text": "Which number word matches the groups in the picture?",
           "options": [
-            "ten",
-            "twenty",
-            "twelve",
-            "fifteen"
+            "twenty-one",
+            "twenty-two",
+            "thirty-one",
+            "forty-one"
           ],
-          "answer": "ten",
-          "discussion": "Gambar menunjukkan \"ten\" (sepuluh).",
+          "answer": "twenty-one",
+          "discussion": "Gambar menunjukkan 2 kelompok masing-masing berisi 10 buku dan 1 buku satuan; jumlahnya 21.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-01.svg",
-            "alt": "Picture"
+            "alt": "Ilustrasi jumlah buku: 2 kelompok masing-masing berisi 10 buku dan 1 buku satuan."
           }
         },
         {
           "id": "K03-ENG-B10-M01-037",
           "type": "PG",
-          "text": "Count the objects or read the numeral in the image. Which word fits?",
+          "text": "How many pencils are shown?",
           "options": [
-            "ten",
-            "thirteen",
-            "sixteen",
-            "eleven"
+            "twenty-two",
+            "twenty-four",
+            "thirty-four",
+            "forty-two"
           ],
-          "answer": "eleven",
-          "discussion": "Gambar menunjukkan \"eleven\" (sebelas).",
+          "answer": "twenty-four",
+          "discussion": "Gambar menunjukkan 2 kelompok masing-masing berisi 10 pensil dan 4 pensil satuan; jumlahnya 24.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-02.svg",
-            "alt": "Picture"
+            "alt": "Ilustrasi jumlah pensil: 2 kelompok masing-masing berisi 10 pensil dan 4 pensil satuan."
           }
         },
         {
           "id": "K03-ENG-B10-M01-038",
           "type": "PG",
-          "text": "Which number name is shown?",
+          "text": "Choose the correct number name.",
           "options": [
-            "fourteen",
-            "seventeen",
-            "twelve",
-            "eleven"
+            "twenty-five",
+            "twenty-six",
+            "twenty-seven",
+            "thirty-seven"
           ],
-          "answer": "twelve",
-          "discussion": "Gambar menunjukkan \"twelve\" (dua belas).",
+          "answer": "twenty-seven",
+          "discussion": "Gambar menunjukkan 2 kelompok masing-masing berisi 10 krayon dan 7 krayon satuan; jumlahnya 27.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-03.svg",
-            "alt": "Picture"
+            "alt": "Ilustrasi jumlah krayon: 2 kelompok masing-masing berisi 10 krayon dan 7 krayon satuan."
           }
         },
         {
           "id": "K03-ENG-B10-M01-039",
           "type": "PG",
-          "text": "Choose the English word for the count shown.",
+          "text": "How many notebooks are shown?",
           "options": [
-            "eighteen",
-            "thirteen",
-            "twelve",
-            "fifteen"
+            "nineteen",
+            "twenty-eight",
+            "twenty-nine",
+            "thirty-nine"
           ],
-          "answer": "thirteen",
-          "discussion": "Gambar menunjukkan \"thirteen\" (tiga belas).",
+          "answer": "twenty-nine",
+          "discussion": "Gambar menunjukkan 2 kelompok masing-masing berisi 10 buku tulis dan 9 buku tulis satuan; jumlahnya 29.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-04.svg",
-            "alt": "Picture"
+            "alt": "Ilustrasi jumlah buku tulis: 2 kelompok masing-masing berisi 10 buku tulis dan 9 buku tulis satuan."
           }
         },
         {
           "id": "K03-ENG-B10-M01-040",
           "type": "PG",
-          "text": "Which number word is indicated?",
+          "text": "Which sentence matches the picture?",
           "options": [
-            "fourteen",
-            "thirteen",
-            "sixteen",
-            "twenty"
+            "There are thirteen markers.",
+            "There are twenty markers.",
+            "There are thirty markers.",
+            "There are forty markers."
           ],
-          "answer": "fourteen",
-          "discussion": "Gambar menunjukkan \"fourteen\" (empat belas).",
+          "answer": "There are thirty markers.",
+          "discussion": "Gambar menunjukkan 3 kelompok masing-masing berisi 10 spidol; jumlahnya 30.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-05.svg",
-            "alt": "Picture"
+            "alt": "Ilustrasi jumlah spidol: 3 kelompok masing-masing berisi 10 spidol."
           }
         },
         {
           "id": "K03-ENG-B10-M01-041",
           "type": "PG",
-          "text": "What is the number word for the objects shown?",
+          "text": "How many chairs are shown?",
           "options": [
-            "fourteen",
-            "seventeen",
-            "ten",
-            "fifteen"
+            "twenty-three",
+            "thirty",
+            "thirty-two",
+            "forty-two"
           ],
-          "answer": "fifteen",
-          "discussion": "Gambar menunjukkan \"fifteen\" (lima belas).",
+          "answer": "thirty-two",
+          "discussion": "Gambar menunjukkan 3 kelompok masing-masing berisi 10 kursi dan 2 kursi satuan; jumlahnya 32.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-06.svg",
-            "alt": "Picture"
+            "alt": "Ilustrasi jumlah kursi: 3 kelompok masing-masing berisi 10 kursi dan 2 kursi satuan."
           }
         },
         {
           "id": "K03-ENG-B10-M01-042",
           "type": "PG",
-          "text": "Which English number name fits the picture?",
+          "text": "Which number word matches the picture?",
           "options": [
-            "eighteen",
-            "eleven",
-            "sixteen",
-            "fifteen"
+            "thirty-three",
+            "thirty-five",
+            "forty-five",
+            "fifty"
           ],
-          "answer": "sixteen",
-          "discussion": "Gambar menunjukkan \"sixteen\" (enam belas).",
+          "answer": "thirty-five",
+          "discussion": "Gambar menunjukkan 3 kelompok masing-masing berisi 10 buku dan 5 buku satuan; jumlahnya 35.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-07.svg",
-            "alt": "Picture"
+            "alt": "Ilustrasi jumlah buku: 3 kelompok masing-masing berisi 10 buku dan 5 buku satuan."
           }
         },
         {
           "id": "K03-ENG-B10-M01-043",
           "type": "PG",
-          "text": "Choose the matching number word.",
+          "text": "Complete: There are ___ pencils.",
           "options": [
-            "twelve",
-            "seventeen",
-            "sixteen",
-            "twenty"
+            "fourteen",
+            "thirty",
+            "forty",
+            "fifty"
           ],
-          "answer": "seventeen",
-          "discussion": "Gambar menunjukkan \"seventeen\" (tujuh belas).",
+          "answer": "forty",
+          "discussion": "Gambar menunjukkan 4 kelompok masing-masing berisi 10 pensil; jumlahnya 40.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-08.svg",
-            "alt": "Picture"
+            "alt": "Ilustrasi jumlah pensil: 4 kelompok masing-masing berisi 10 pensil."
           }
         },
         {
           "id": "K03-ENG-B10-M01-044",
           "type": "PG",
-          "text": "Which number word represents the amount?",
+          "text": "Which report matches the picture?",
           "options": [
-            "eighteen",
-            "seventeen",
-            "ten",
-            "thirteen"
+            "There are thirty-five erasers.",
+            "There are forty erasers.",
+            "There are forty-five erasers.",
+            "There are fifty erasers."
           ],
-          "answer": "eighteen",
-          "discussion": "Gambar menunjukkan \"eighteen\" (delapan belas).",
+          "answer": "There are forty-five erasers.",
+          "discussion": "Gambar menunjukkan 4 kelompok masing-masing berisi 10 penghapus dan 5 penghapus satuan; jumlahnya 45.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-09.svg",
-            "alt": "Picture"
+            "alt": "Ilustrasi jumlah penghapus: 4 kelompok masing-masing berisi 10 penghapus dan 5 penghapus satuan."
           }
         },
         {
           "id": "K03-ENG-B10-M01-045",
           "type": "PG",
-          "text": "Which number name matches the image?",
+          "text": "How many books are shown?",
           "options": [
-            "eighteen",
-            "eleven",
-            "fourteen",
-            "twenty"
+            "fifteen",
+            "forty",
+            "forty-five",
+            "fifty"
           ],
-          "answer": "twenty",
-          "discussion": "Gambar menunjukkan \"twenty\" (dua puluh).",
+          "answer": "fifty",
+          "discussion": "Gambar menunjukkan 5 kelompok masing-masing berisi 10 buku; jumlahnya 50.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b10-gambar-10.svg",
-            "alt": "Picture"
+            "alt": "Ilustrasi jumlah buku: 5 kelompok masing-masing berisi 10 buku."
           }
         }
       ]
