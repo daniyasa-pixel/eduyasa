@@ -290,7 +290,7 @@
 
 ## Soal 19 — K03-ENG-B04-M01-019
 
-**Pertanyaan:** What does “hobby” mean in this unit?
+**Pertanyaan:** What does the English word “hobby” mean?
 
 **Pilihan jawaban:**
 - a meal eaten in the morning
@@ -300,13 +300,13 @@
 
 **Kunci Jawaban:** an activity someone likes doing
 
-**Pembahasan:** Unit 4 uses hobby for an activity a person enjoys.
+**Pembahasan:** A hobby is an activity someone enjoys doing, such as swimming, reading, or drawing.
 
 ---
 
 ## Soal 20 — K03-ENG-B04-M01-020
 
-**Pertanyaan:** Which activity needs a storybook in the unit?
+**Pertanyaan:** Which hobby involves using a storybook to enjoy a story?
 
 **Pilihan jawaban:**
 - swimming
