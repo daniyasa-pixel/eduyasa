@@ -548,7 +548,7 @@
 
 ## Soal 35 — K03-PJK-B03-M01-035
 
-**Pertanyaan:** Manakah pasangan keterampilan yang sama-sama termasuk gerak manipulatif pada Unit 3?
+**Pertanyaan:** Manakah pasangan keterampilan yang sama-sama termasuk gerak manipulatif dalam permainan bola?
 
 **Pilihan jawaban:**
 - melempar bola dan menahan bola
