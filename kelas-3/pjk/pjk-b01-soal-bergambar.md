@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-PJK-B01-M01-036
 
-![Stimulus gerak lokomotor 1](assets/pjk-b01-gambar-01.svg)
+![Jalur berjalan mundur terhalang. Seorang siswa menghadap depan, panah menunjukkan gerak ke belakang, dan sebuah kerucut berada di jalurnya.](assets/pjk-b01-gambar-01.svg)
 
 **Pertanyaan:** Gambar menunjukkan sebuah kerucut tepat di belakang siswa yang akan berjalan mundur. Apa tindakan pertama yang aman?
 
@@ -22,7 +22,7 @@
 
 ## Soal 37 — K03-PJK-B01-M01-037
 
-![Stimulus gerak lokomotor 2](assets/pjk-b01-gambar-02.svg)
+![Lintasan zig-zag. Garis lintasan berbelok bergantian di antara empat kerucut.](assets/pjk-b01-gambar-02.svg)
 
 **Pertanyaan:** Perhatikan jalur yang melewati sisi bergantian dari empat kerucut. Pola gerak apakah yang sesuai?
 
@@ -40,7 +40,7 @@
 
 ## Soal 38 — K03-PJK-B01-M01-038
 
-![Stimulus gerak lokomotor 3](assets/pjk-b01-gambar-03.svg)
+![Perbandingan pendaratan. Gambar A memperlihatkan kaki lurus dan kaku; gambar B memperlihatkan lutut sedikit menekuk.](assets/pjk-b01-gambar-03.svg)
 
 **Pertanyaan:** Gambar A menunjukkan lutut kaku saat mendarat. Gambar B menunjukkan lutut sedikit menekuk. Posisi mana yang lebih aman?
 
@@ -58,7 +58,7 @@
 
 ## Soal 39 — K03-PJK-B01-M01-039
 
-![Stimulus gerak lokomotor 4](assets/pjk-b01-gambar-04.svg)
+![Urutan persiapan dan aktivitas. Tiga panel bernomor menunjukkan pemanasan, berjalan, kemudian berlari.](assets/pjk-b01-gambar-04.svg)
 
 **Pertanyaan:** Urutan gambar menunjukkan pemanasan, berjalan, lalu berlari. Mengapa pemanasan ditempatkan pertama?
 
@@ -76,7 +76,7 @@
 
 ## Soal 40 — K03-PJK-B01-M01-040
 
-![Stimulus gerak lokomotor 5](assets/pjk-b01-gambar-05.svg)
+![Memilih jalur aman. Jalur A tampak kering dan bersih, sedangkan Jalur B memiliki genangan air.](assets/pjk-b01-gambar-05.svg)
 
 **Pertanyaan:** Gambar membandingkan Jalur A yang kering dengan Jalur B yang basah dan licin. Jalur mana yang dipilih untuk latihan?
 
@@ -94,7 +94,7 @@
 
 ## Soal 41 — K03-PJK-B01-M01-041
 
-![Stimulus gerak lokomotor 6](assets/pjk-b01-gambar-06.svg)
+![Jejak berjalan. Jejak kaki kiri dan kanan tersusun bergantian sepanjang jalur.](assets/pjk-b01-gambar-06.svg)
 
 **Pertanyaan:** Jejak kaki pada gambar tersusun bergantian tanpa fase kedua kaki melayang. Gerak apakah yang ditunjukkan?
 
@@ -112,7 +112,7 @@
 
 ## Soal 42 — K03-PJK-B01-M01-042
 
-![Stimulus gerak lokomotor 7](assets/pjk-b01-gambar-07.svg)
+![Fase melayang saat berlari. Tiga posisi pelari ditampilkan; pada posisi tengah kedua kaki tidak menyentuh tanah.](assets/pjk-b01-gambar-07.svg)
 
 **Pertanyaan:** Pada gambar tengah, kedua kaki pelari sesaat tidak menyentuh tanah. Ciri tersebut menunjukkan gerak ....
 
@@ -130,7 +130,7 @@
 
 ## Soal 43 — K03-PJK-B01-M01-043
 
-![Stimulus gerak lokomotor 8](assets/pjk-b01-gambar-08.svg)
+![Melompat dengan tolakan satu kaki. Satu kaki berada pada tanda tolakan, tubuh bergerak melewati garis, lalu mendarat terkendali.](assets/pjk-b01-gambar-08.svg)
 
 **Pertanyaan:** Gambar menunjukkan tolakan dari satu kaki untuk melewati garis, lalu mendarat terkendali. Gerak ini disebut ....
 
@@ -148,7 +148,7 @@
 
 ## Soal 44 — K03-PJK-B01-M01-044
 
-![Stimulus gerak lokomotor 9](assets/pjk-b01-gambar-09.svg)
+![Meloncat dengan tolakan dua kaki. Dua kaki berdampingan pada tanda tolakan dan dua kaki berdampingan pada tempat mendarat.](assets/pjk-b01-gambar-09.svg)
 
 **Pertanyaan:** Gambar menunjukkan kedua kaki menolak bersama dan mendarat bersama. Gerak ini disebut ....
 
@@ -166,7 +166,7 @@
 
 ## Soal 45 — K03-PJK-B01-M01-045
 
-![Stimulus gerak lokomotor 10](assets/pjk-b01-gambar-10.svg)
+![Langkah menyamping berjarak. Tiga siswa bergerak ke kanan dengan jarak yang cukup dan ruang tujuan kosong.](assets/pjk-b01-gambar-10.svg)
 
 **Pertanyaan:** Tiga siswa pada gambar bergerak menyamping dengan jarak antarsiswa. Aturan keselamatan yang tampak adalah ....
 
