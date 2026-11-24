@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-PJK-B07-M01-036
 
-![Dorong dinding dan duduk diam. Panel A anak mendorong dinding; panel B anak duduk diam..](assets/pjk-b07-gambar-01.svg)
+![Dorong dinding dan duduk diam. Panel A anak mendorong dinding; panel B anak duduk diam.](assets/pjk-b07-gambar-01.svg)
 
 **Pertanyaan:** Gambar A menunjukkan dorong dinding; gambar B menunjukkan anak duduk diam. Kegiatan yang memberi tahanan untuk melatih kekuatan lengan adalah ....
 
@@ -21,7 +21,7 @@
 ---
 ## Soal 37 — K03-PJK-B07-M01-037
 
-![Dorong bahu dan tanda berhenti. Dua peserta berdiri stabil saling mendorong bahu dengan tenaga terkendali; ada tanda STOP..](assets/pjk-b07-gambar-02.svg)
+![Dorong bahu dan tanda berhenti. Dua peserta berdiri stabil saling mendorong bahu dengan tenaga terkendali; ada tanda STOP.](assets/pjk-b07-gambar-02.svg)
 
 **Pertanyaan:** Pada gambar, dua peserta mendorong bahu dengan kaki bersilang depan-belakang dan tanda STOP di samping. Fungsi tanda STOP adalah ....
 
@@ -38,7 +38,7 @@
 ---
 ## Soal 38 — K03-PJK-B07-M01-038
 
-![Angkat badan sederhana. Anak telentang dengan lutut ditekuk, lalu mengangkat bahu tanpa menarik leher..](assets/pjk-b07-gambar-03.svg)
+![Angkat badan sederhana. Anak telentang dengan lutut ditekuk, lalu mengangkat bahu tanpa menarik leher.](assets/pjk-b07-gambar-03.svg)
 
 **Pertanyaan:** Gambar angkat badan menunjukkan lutut ditekuk dan tangan bergerak di samping paha. Bagian yang tidak boleh ditarik paksa adalah ....
 
@@ -55,7 +55,7 @@
 ---
 ## Soal 39 — K03-PJK-B07-M01-039
 
-![Mengangkat kaki dari duduk. Tiga tahap: duduk bertumpu tangan, lutut ditekuk terangkat, lalu kaki diluruskan rendah..](assets/pjk-b07-gambar-04.svg)
+![Mengangkat kaki dari duduk. Tiga tahap: duduk bertumpu tangan, lutut ditekuk terangkat, lalu kaki diluruskan rendah.](assets/pjk-b07-gambar-04.svg)
 
 **Pertanyaan:** Urutan gambar menunjukkan duduk bertumpu tangan, lutut terangkat dan ditekuk, lalu kaki diluruskan rendah. Jika bentuk tubuh mulai goyah, siswa sebaiknya ....
 
@@ -72,7 +72,7 @@
 ---
 ## Soal 40 — K03-PJK-B07-M01-040
 
-![Push-up tumpuan lutut. Panel A badan lurus dengan tumpuan lutut; panel B pinggang turun..](assets/pjk-b07-gambar-05.svg)
+![Push-up tumpuan lutut. Panel A badan lurus dengan tumpuan lutut; panel B pinggang turun.](assets/pjk-b07-gambar-05.svg)
 
 **Pertanyaan:** Gambar A menunjukkan push-up bertumpu lutut dengan badan lurus; gambar B menunjukkan pinggang turun. Posisi yang lebih terkendali adalah ....
 
@@ -89,7 +89,7 @@
 ---
 ## Soal 41 — K03-PJK-B07-M01-041
 
-![Jalur berjalan dengan tangan. Jalur A pendek dan kosong, jalur B terhalang tas..](assets/pjk-b07-gambar-06.svg)
+![Jalur berjalan dengan tangan. Jalur A pendek dan kosong, jalur B terhalang tas.](assets/pjk-b07-gambar-06.svg)
 
 **Pertanyaan:** Dua jalur latihan berjalan dengan tangan ditampilkan. Jalur A kosong dan pendek; jalur B terdapat tas. Jalur yang dipilih adalah ....
 
@@ -106,7 +106,7 @@
 ---
 ## Soal 42 — K03-PJK-B07-M01-042
 
-![Zona aman lompat tali. Pelompat berada di tengah lingkaran radius satu meter; teman menunggu di luar..](assets/pjk-b07-gambar-07.svg)
+![Zona aman lompat tali. Pelompat berada di tengah lingkaran radius satu meter; teman menunggu di luar.](assets/pjk-b07-gambar-07.svg)
 
 **Pertanyaan:** Denah menunjukkan tali berputar hingga radius satu meter. Jarak aman teman yang menunggu adalah ....
 
@@ -123,7 +123,7 @@
 ---
 ## Soal 43 — K03-PJK-B07-M01-043
 
-![Pegangan tali. Panel A tali dililit pada pergelangan; panel B tali hanya digenggam..](assets/pjk-b07-gambar-08.svg)
+![Pegangan tali. Panel A tali dililit pada pergelangan; panel B tali hanya digenggam.](assets/pjk-b07-gambar-08.svg)
 
 **Pertanyaan:** Gambar menunjukkan tali dililit pada pergelangan di panel A dan digenggam biasa di panel B. Cara yang lebih aman adalah ....
 
@@ -140,7 +140,7 @@
 ---
 ## Soal 44 — K03-PJK-B07-M01-044
 
-![Perkembangan ulangan benar. Tabel berisi percobaan satu enam ulangan dan percobaan dua delapan ulangan..](assets/pjk-b07-gambar-09.svg)
+![Perkembangan ulangan benar. Tabel berisi percobaan satu enam ulangan dan percobaan dua delapan ulangan.](assets/pjk-b07-gambar-09.svg)
 
 **Pertanyaan:** Tabel mencatat ulangan benar: percobaan 1 = 6 dan percobaan 2 = 8. Perubahan hasilnya adalah ....
 
@@ -157,7 +157,7 @@
 ---
 ## Soal 45 — K03-PJK-B07-M01-045
 
-![Tanda tubuh saat latihan. Empat kartu: hangat ringan, nyeri tajam, pusing, dan sesak tidak wajar..](assets/pjk-b07-gambar-10.svg)
+![Tanda tubuh saat latihan. Empat kartu: hangat ringan, nyeri tajam, pusing, dan sesak tidak wajar.](assets/pjk-b07-gambar-10.svg)
 
 **Pertanyaan:** Kartu tanda tubuh menampilkan “hangat ringan”, “nyeri tajam”, “pusing”, dan “sesak tidak wajar”. Tanda yang masih dapat wajar pada latihan ringan adalah ....
 
