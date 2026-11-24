@@ -206,7 +206,7 @@
         {
           "id": "K03-ENG-B07-M01-016",
           "type": "PG",
-          "text": "A: Where is the teacher room? B: It is ___ the office. They are side by side.",
+          "text": "A: Where is the teachers’ room? B: It is ___ the office. They are side by side.",
           "options": [
             "beside",
             "behind",
@@ -214,7 +214,7 @@
             "in"
           ],
           "answer": "beside",
-          "discussion": "Dua tempat yang berdampingan dinyatakan dengan **beside**."
+          "discussion": "The teachers’ room and office are side by side, so the missing word is “beside.”"
         },
         {
           "id": "K03-ENG-B07-M01-017",
@@ -362,7 +362,7 @@
         {
           "id": "K03-ENG-B07-M01-028",
           "type": "PG",
-          "text": "Which word completes the sentence? “The shoes are ___ the table, not on it.”",
+          "text": "The shoes are directly beneath the table, between its legs. Which word completes the sentence: “The shoes are ___ the table”?",
           "options": [
             "between",
             "behind",
@@ -370,7 +370,7 @@
             "in front of"
           ],
           "answer": "under",
-          "discussion": "Petunjuk “not on it” dan letak di bawah meja sesuai dengan **under**."
+          "discussion": "“Under” means directly beneath something. The clue about the shoes being beneath the table makes the answer unambiguous."
         },
         {
           "id": "K03-ENG-B07-M01-029",
@@ -401,7 +401,7 @@
         {
           "id": "K03-ENG-B07-M01-031",
           "type": "PG",
-          "text": "Which sentence describes a room located at the back of the office?",
+          "text": "A classroom is outside and directly behind the office building, not inside it. Which sentence describes the classroom’s position?",
           "options": [
             "The room is behind the office.",
             "The room is in front of the office.",
@@ -409,20 +409,20 @@
             "The room is under the office."
           ],
           "answer": "The room is behind the office.",
-          "discussion": "**At the back of** berarti **behind**."
+          "discussion": "“Behind the office” places the room at the rear of the office building, rather than inside or in front of it."
         },
         {
           "id": "K03-ENG-B07-M01-032",
           "type": "PG",
-          "text": "The teacher room and the office are side by side. Which sentence is correct?",
+          "text": "The teachers’ room and the office are side by side. Which sentence describes the teachers’ room correctly?",
           "options": [
-            "The teacher room is behind the office.",
-            "The teacher room is beside the office.",
-            "The teacher room is under the office.",
-            "The teacher room is in the office."
+            "The teachers’ room is behind the office.",
+            "The teachers’ room is beside the office.",
+            "The teachers’ room is under the office.",
+            "The teachers’ room is in the office."
           ],
-          "answer": "The teacher room is beside the office.",
-          "discussion": "**Side by side** berarti berdampingan atau **beside**."
+          "answer": "The teachers’ room is beside the office.",
+          "discussion": "“Side by side” means “beside.” The sentence correctly uses the standard name “teachers’ room” for a room used by teachers."
         },
         {
           "id": "K03-ENG-B07-M01-033",
