@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-PJK-B03-M01-036
 
-![Diagram lintasan operan bawah, dada, dan atas kepala](assets/pjk-b03-gambar-01.svg)
+![Tiga lintasan operan. Perbandingan operan bawah, setinggi dada, dan atas kepala.](assets/pjk-b03-gambar-01.svg)
 
 **Pertanyaan:** Diagram tiga lintasan operan menunjukkan A dari bawah, B lurus setinggi dada, dan C dari atas kepala. Lintasan mana yang merupakan operan setinggi dada?
 
@@ -22,7 +22,7 @@
 
 ## Soal 37 — K03-PJK-B03-M01-037
 
-![Urutan menangkap bola yang menyusur tanah](assets/pjk-b03-gambar-02.svg)
+![Menangkap bola rendah. Bola menyusur tanah menuju anak yang bersiap menangkap.](assets/pjk-b03-gambar-02.svg)
 
 **Pertanyaan:** Urutan gambar memperlihatkan bola menyusur tanah mendekati anak. Tindakan pada tahap berikutnya yang paling tepat adalah ....
 
@@ -40,7 +40,7 @@
 
 ## Soal 38 — K03-PJK-B03-M01-038
 
-![Kartu hasil latihan lempar dan tangkap](assets/pjk-b03-gambar-03.svg)
+![Hasil lempar tangkap. Kartu mencatat delapan lemparan dan enam tangkapan berhasil.](assets/pjk-b03-gambar-03.svg)
 
 **Pertanyaan:** Catatan latihan menunjukkan 8 kali melempar dan 6 kali menangkap berhasil. Berapa tangkapan yang belum berhasil?
 
@@ -58,7 +58,7 @@
 
 ## Soal 39 — K03-PJK-B03-M01-039
 
-![Perbandingan dua pengaturan latihan lempar tangkap](assets/pjk-b03-gambar-04.svg)
+![Pilihan latihan pemula. Pilihan A bola lunak tiga meter dan pilihan B bola keras enam meter.](assets/pjk-b03-gambar-04.svg)
 
 **Pertanyaan:** Dua pilihan latihan pemula terlihat pada gambar. Pilihan A memakai bola lunak pada jarak 3 meter; pilihan B memakai bola keras pada jarak 6 meter. Pilihan yang lebih aman untuk memulai adalah ....
 
@@ -76,7 +76,7 @@
 
 ## Soal 40 — K03-PJK-B03-M01-040
 
-![Formasi segitiga dengan arah operan A ke B ke C](assets/pjk-b03-gambar-05.svg)
+![Operan formasi segitiga. Arah operan melingkar dari A ke B lalu C.](assets/pjk-b03-gambar-05.svg)
 
 **Pertanyaan:** Tiga anak membentuk segitiga. Panah menunjukkan bola dari posisi A menuju B. Jika latihan mengikuti arah panah melingkar, penerima berikutnya adalah ....
 
@@ -94,7 +94,7 @@
 
 ## Soal 41 — K03-PJK-B03-M01-041
 
-![Diagram bagian kaki untuk menendang bola](assets/pjk-b03-gambar-06.svg)
+![Bagian kaki. Panel A bagian dalam, B bagian luar, C punggung kaki.](assets/pjk-b03-gambar-06.svg)
 
 **Pertanyaan:** Gambar membandingkan tiga bagian kaki: A bagian dalam, B bagian luar, dan C punggung kaki. Panel mana yang menunjukkan kaki bagian dalam?
 
@@ -112,7 +112,7 @@
 
 ## Soal 42 — K03-PJK-B03-M01-042
 
-![Urutan menahan bola dengan telapak kaki](assets/pjk-b03-gambar-07.svg)
+![Menahan bola. Bola menggelinding lalu dihentikan telapak kaki.](assets/pjk-b03-gambar-07.svg)
 
 **Pertanyaan:** Pada gambar, bola menggelinding pelan lalu telapak kaki diletakkan ringan di atasnya. Tujuan gerak itu adalah ....
 
@@ -130,7 +130,7 @@
 
 ## Soal 43 — K03-PJK-B03-M01-043
 
-![Diagram keselamatan jalur tendangan ke gawang](assets/pjk-b03-gambar-08.svg)
+![Jalur tendangan. Seorang anak masih berada di antara penendang dan gawang.](assets/pjk-b03-gambar-08.svg)
 
 **Pertanyaan:** Diagram lapangan menunjukkan seorang anak masih berada pada jalur tendangan menuju gawang. Apa yang harus dilakukan penendang?
 
@@ -148,7 +148,7 @@
 
 ## Soal 44 — K03-PJK-B03-M01-044
 
-![Diagram rotasi tiga peran latihan ke gawang](assets/pjk-b03-gambar-09.svg)
+![Rotasi tiga peran. Pengumpan, penendang, dan penjaga gawang bertukar peran.](assets/pjk-b03-gambar-09.svg)
 
 **Pertanyaan:** Gambar menunjukkan tiga peran: pengumpan, penendang, dan penjaga gawang, disertai panah pergantian. Setelah satu putaran, tindakan yang benar adalah ....
 
@@ -166,7 +166,7 @@
 
 ## Soal 45 — K03-PJK-B03-M01-045
 
-![Tabel hasil tiga percobaan oper dan tahan bola](assets/pjk-b03-gambar-10.svg)
+![Hasil oper dan tahan. Tabel tiga percobaan dengan hasil enam, delapan, dan sembilan.](assets/pjk-b03-gambar-10.svg)
 
 **Pertanyaan:** Tabel menunjukkan keberhasilan oper–tahan: percobaan 1 = 6, percobaan 2 = 8, percobaan 3 = 9. Percobaan dengan hasil terbaik adalah ....
 
