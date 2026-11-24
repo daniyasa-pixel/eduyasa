@@ -66,7 +66,7 @@
 
 **Transkrip produksi (disembunyikan dari siswa):** Do Maya and Lani like reading? Yes, they do.
 
-**Pertanyaan:** Which two children give a Yes answer for reading?
+**Pertanyaan:** Listen to the question and answer. Which two children are said to like reading?
 
 **Pilihan jawaban:**
 - only Maya
@@ -76,7 +76,7 @@
 
 **Kunci Jawaban:** Maya and Lani
 
-**Pembahasan:** They refers to Maya and Lani, and the response is Yes.
+**Pembahasan:** The recording asks about Maya and Lani, and the reply “Yes, they do” means both like reading.
 
 ---
 
