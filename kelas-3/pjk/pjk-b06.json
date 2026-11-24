@@ -11,457 +11,457 @@
         {
           "id": "K03-PJK-B06-M01-001",
           "type": "PG",
-          "text": "Siswa ingin masuk kolam tanpa pendamping. Apa aturan utama yang harus dipenuhi?",
+          "text": "Dalam pembelajaran gerak dasar di air, empat kemampuan dasar yang dilatih adalah ....",
           "options": [
-            "berenang sendirian",
-            "berlari di tepi licin",
-            "mendorong teman ke air",
-            "selalu mengikuti pengawasan guru atau orang dewasa yang kompeten"
+            "posisi tubuh, gerak kaki, gerak lengan, dan pernapasan",
+            "lari cepat, lempar cakram, senam lantai, dan bela diri",
+            "menendang, menggiring, menyundul, dan menjaga gawang",
+            "langkah berirama, ayunan pita, putaran, dan lompatan"
           ],
-          "answer": "selalu mengikuti pengawasan guru atau orang dewasa yang kompeten",
-          "discussion": "Keselamatan di kolam: selalu mengikuti pengawasan guru atau orang dewasa yang kompeten."
+          "answer": "posisi tubuh, gerak kaki, gerak lengan, dan pernapasan",
+          "discussion": "Keempat unsur itu menjadi dasar latihan gerak di air pada unit ini."
         },
         {
           "id": "K03-PJK-B06-M01-002",
           "type": "PG",
-          "text": "Anak yang baru belajar merasa takut terkena air. Pendekatan apa yang tepat?",
+          "text": "Kapan siswa boleh masuk ke area latihan air?",
           "options": [
-            "tanpa pengawasan",
-            "dengan menahan teman",
-            "dilakukan bertahap di tempat aman dan diawasi",
-            "langsung ke kolam dalam"
+            "segera setelah tiba walau guru belum siap",
+            "setelah guru atau pengawas yang kompeten memberi izin",
+            "ketika ada teman yang lebih dahulu masuk",
+            "saat kolam tampak sepi"
           ],
-          "answer": "dilakukan bertahap di tempat aman dan diawasi",
-          "discussion": "Pengenalan air: dilakukan bertahap di tempat aman dan diawasi."
+          "answer": "setelah guru atau pengawas yang kompeten memberi izin",
+          "discussion": "Izin menunjukkan bahwa area, kedalaman, dan pengawasan telah disiapkan."
         },
         {
           "id": "K03-PJK-B06-M01-003",
           "type": "PG",
-          "text": "Di kolam dangkal, anak mengikuti petunjuk guru untuk berjalan. Syarat yang sesuai adalah ....",
+          "text": "Buku panduan memberi acuan paling banyak 10 siswa untuk satu guru pada aktivitas air. Jika ada 20 siswa, pengawasan minimum menurut acuan itu adalah ....",
           "options": [
-            "dilakukan sendirian di sungai",
-            "dilakukan sesuai arahan dan kedalaman aman",
-            "dilakukan di air deras",
-            "dilakukan tanpa melihat dasar"
+            "satu guru",
+            "dua guru",
+            "tiga puluh siswa",
+            "tidak perlu guru"
           ],
-          "answer": "dilakukan sesuai arahan dan kedalaman aman",
-          "discussion": "Berjalan di air dangkal: dilakukan sesuai arahan dan kedalaman aman."
+          "answer": "dua guru",
+          "discussion": "Dua puluh siswa dibagi paling banyak sepuluh siswa per guru memerlukan sedikitnya dua guru; aturan setempat boleh lebih ketat."
         },
         {
           "id": "K03-PJK-B06-M01-004",
           "type": "PG",
-          "text": "Guru memandu latihan napas sederhana dengan kondisi aman dan sesuai kesiapan siswa. Cara yang tepat adalah ....",
+          "text": "Sebelum latihan, Raka demam dan merasa lemas. Tindakan yang tepat adalah ....",
           "options": [
-            "dilatih perlahan sesuai instruksi",
-            "dilakukan dengan panik",
-            "dilakukan tanpa bernapas lama",
-            "dilakukan di air dalam sendirian"
+            "menyembunyikan keadaan agar tetap ikut",
+            "masuk ke air supaya tubuh segar",
+            "memberi tahu guru dan tidak masuk air sampai dinyatakan aman",
+            "berlatih sendiri di bagian dalam"
           ],
-          "answer": "dilatih perlahan sesuai instruksi",
-          "discussion": "Mengembuskan napas ke air: dilatih perlahan sesuai instruksi."
+          "answer": "memberi tahu guru dan tidak masuk air sampai dinyatakan aman",
+          "discussion": "Kondisi kesehatan harus diperiksa sebelum aktivitas air; anak yang sakit tidak dipaksa ikut."
         },
         {
           "id": "K03-PJK-B06-M01-005",
           "type": "PG",
-          "text": "Dengan bantuan dan arahan guru, tubuh seorang siswa bertahan di permukaan air. Latihan itu adalah ....",
+          "text": "Aturan yang tepat selama berada di area kolam adalah ....",
           "options": [
-            "menyelam tanpa batas",
-            "berlari di tepi kolam",
-            "melempar batu",
-            "menjaga posisi tubuh di permukaan air dengan bantuan bila perlu"
+            "berlari agar cepat sampai",
+            "mendorong teman sebagai kejutan",
+            "mendengarkan aba-aba dan tetap di kelompok yang ditetapkan",
+            "berpindah ke kolam dalam tanpa izin"
           ],
-          "answer": "menjaga posisi tubuh di permukaan air dengan bantuan bila perlu",
-          "discussion": "Mengapung: menjaga posisi tubuh di permukaan air dengan bantuan bila perlu."
+          "answer": "mendengarkan aba-aba dan tetap di kelompok yang ditetapkan",
+          "discussion": "Aba-aba dan pembagian kelompok membantu pengawas mengetahui posisi setiap anak."
         },
         {
           "id": "K03-PJK-B06-M01-006",
           "type": "PG",
-          "text": "Ada alat bantu apung di pinggir kolam. Bagaimana sebaiknya alat digunakan?",
+          "text": "Lantai di tepi kolam basah. Cara bergerak yang paling aman ialah ....",
           "options": [
-            "alat untuk memukul",
-            "pengganti guru",
-            "alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan",
-            "jaminan boleh berenang sendirian"
+            "berjalan pelan tanpa saling mendahului",
+            "berlari dengan langkah panjang",
+            "melompat dari satu ubin ke ubin lain",
+            "mengejar teman sambil bercanda"
           ],
-          "answer": "alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan",
-          "discussion": "Pelampung latihan: alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan."
+          "answer": "berjalan pelan tanpa saling mendahului",
+          "discussion": "Permukaan basah dapat licin sehingga langkah perlu pelan dan terkendali."
         },
         {
           "id": "K03-PJK-B06-M01-007",
           "type": "PG",
-          "text": "Lantai di sekitar kolam tampak licin. Bagaimana cara bergerak yang paling tepat?",
+          "text": "Cara masuk ke kolam latihan bagi pemula yang paling tepat adalah ....",
           "options": [
-            "digunakan mendorong teman",
-            "dilewati dengan berjalan hati-hati",
-            "dilewati dengan berlari",
-            "digunakan melompat tanpa izin"
+            "melompat dari tepi mana saja",
+            "menggunakan tangga atau cara yang ditunjukkan guru",
+            "didorong teman dari belakang",
+            "menyelam dari bagian yang tidak diperiksa"
           ],
-          "answer": "dilewati dengan berjalan hati-hati",
-          "discussion": "Tepi kolam basah: dilewati dengan berjalan hati-hati."
+          "answer": "menggunakan tangga atau cara yang ditunjukkan guru",
+          "discussion": "Guru menentukan cara masuk sesuai kondisi kolam, kedalaman, dan kemampuan siswa."
         },
         {
           "id": "K03-PJK-B06-M01-008",
           "type": "PG",
-          "text": "Seorang teman terlihat kesulitan di air. Apa tindakan siswa yang aman?",
+          "text": "Mengapa siswa harus berlatih di zona dangkal yang telah ditentukan?",
           "options": [
-            "segera memanggil guru atau penjaga kolam",
-            "langsung melompat tanpa kemampuan",
-            "menertawakan",
-            "meninggalkan tanpa memberi tahu"
+            "agar dapat berdiri sesuai arahan bila perlu",
+            "agar bebas berenang tanpa pengawas",
+            "agar dapat berlomba menahan napas",
+            "agar mudah mendorong teman"
           ],
-          "answer": "segera memanggil guru atau penjaga kolam",
-          "discussion": "Jika teman kesulitan di air: segera memanggil guru atau penjaga kolam."
+          "answer": "agar dapat berdiri sesuai arahan bila perlu",
+          "discussion": "Zona dangkal yang diperiksa memberi pilihan berhenti dan berdiri saat latihan dasar."
         },
         {
           "id": "K03-PJK-B06-M01-009",
           "type": "PG",
-          "text": "Kolam memiliki aturan yang terpasang pada papan informasi. Bagaimana peserta harus bersikap?",
+          "text": "Ketika teman berdiri dekat tepi kolam, tindakan yang benar adalah ....",
           "options": [
-            "boleh diabaikan",
-            "hanya untuk guru",
-            "berlaku saat lomba saja",
-            "dipatuhi untuk keselamatan semua orang"
+            "mendorongnya supaya segera masuk",
+            "menarik lengannya sebagai gurauan",
+            "memberi ruang dan menunggu aba-aba guru",
+            "memercikkan air ke wajahnya"
           ],
-          "answer": "dipatuhi untuk keselamatan semua orang",
-          "discussion": "Aturan kolam renang: dipatuhi untuk keselamatan semua orang."
+          "answer": "memberi ruang dan menunggu aba-aba guru",
+          "discussion": "Mendorong, menarik, dan mengejutkan orang di dekat air berbahaya."
         },
         {
           "id": "K03-PJK-B06-M01-010",
           "type": "PG",
-          "text": "Guru melatih gerak kaki sambil anak berpegangan pada tepian dalam pengawasan. Pilih cara sesuai.",
+          "text": "Sistem berpasangan atau kelompok saat latihan berguna untuk ....",
           "options": [
-            "dilakukan di air deras",
-            "dilakukan sambil mengganggu teman",
-            "dilakukan dengan pegangan atau bantuan sesuai arahan",
-            "dilakukan tanpa pengawasan di kolam dalam"
+            "menggantikan seluruh tugas pengawas",
+            "saling memperhatikan sesuai arahan sambil tetap diawasi guru",
+            "membolehkan anak berenang tanpa orang dewasa",
+            "menentukan siapa yang berani masuk kolam dalam"
           ],
-          "answer": "dilakukan dengan pegangan atau bantuan sesuai arahan",
-          "discussion": "Latihan gerak kaki di air: dilakukan dengan pegangan atau bantuan sesuai arahan."
+          "answer": "saling memperhatikan sesuai arahan sambil tetap diawasi guru",
+          "discussion": "Teman membantu keteraturan, tetapi tidak pernah menggantikan pengawasan orang dewasa yang kompeten."
         },
         {
           "id": "K03-PJK-B06-M01-011",
           "type": "PG",
-          "text": "Guru mengawasi latihan pengenalan air. Mengapa pengawasan diperlukan?",
+          "text": "Nisa masih takut membasahi wajah. Sikap guru dan teman yang tepat adalah ....",
           "options": [
-            "mendorong teman ke air",
-            "selalu mengikuti pengawasan guru atau orang dewasa yang kompeten",
-            "berenang sendirian",
-            "berlari di tepi licin"
+            "memaksanya agar cepat berani",
+            "mengejek agar ia mau mencoba",
+            "memberinya tahap yang lebih mudah tanpa paksaan",
+            "membawanya ke air lebih dalam"
           ],
-          "answer": "selalu mengikuti pengawasan guru atau orang dewasa yang kompeten",
-          "discussion": "Keselamatan di kolam: selalu mengikuti pengawasan guru atau orang dewasa yang kompeten."
+          "answer": "memberinya tahap yang lebih mudah tanpa paksaan",
+          "discussion": "Pengenalan air dilakukan bertahap sesuai kesiapan dan tanpa mempermalukan anak."
         },
         {
           "id": "K03-PJK-B06-M01-012",
           "type": "PG",
-          "text": "Sebelum melakukan latihan lain, guru mengenalkan lingkungan air secara perlahan. Prinsipnya adalah ....",
+          "text": "Papan pelampung digunakan dalam latihan untuk ....",
           "options": [
-            "dilakukan bertahap di tempat aman dan diawasi",
-            "langsung ke kolam dalam",
-            "tanpa pengawasan",
-            "dengan menahan teman"
+            "membantu latihan tertentu sesuai petunjuk guru",
+            "menjamin anak aman berenang sendirian",
+            "menggantikan penjaga kolam",
+            "dipakai saling memukul di air"
           ],
-          "answer": "dilakukan bertahap di tempat aman dan diawasi",
-          "discussion": "Pengenalan air: dilakukan bertahap di tempat aman dan diawasi."
+          "answer": "membantu latihan tertentu sesuai petunjuk guru",
+          "discussion": "Alat bantu hanya mendukung latihan dan bukan pengganti pengawasan."
         },
         {
           "id": "K03-PJK-B06-M01-013",
           "type": "PG",
-          "text": "Sebelum mulai berjalan di kolam, guru mengecek kedalaman dan arahan. Mengapa hal itu penting?",
+          "text": "Kacamata renang berfungsi terutama untuk ....",
           "options": [
-            "dilakukan di air deras",
-            "dilakukan tanpa melihat dasar",
-            "dilakukan sendirian di sungai",
-            "dilakukan sesuai arahan dan kedalaman aman"
+            "membantu kenyamanan melihat di air",
+            "membuat tubuh pasti mengapung",
+            "menggantikan pelampung keselamatan",
+            "membolehkan anak masuk sungai sendiri"
           ],
-          "answer": "dilakukan sesuai arahan dan kedalaman aman",
-          "discussion": "Berjalan di air dangkal: dilakukan sesuai arahan dan kedalaman aman."
+          "answer": "membantu kenyamanan melihat di air",
+          "discussion": "Kacamata renang bukan alat apung dan tidak membuat kegiatan tanpa pengawasan menjadi aman."
         },
         {
           "id": "K03-PJK-B06-M01-014",
           "type": "PG",
-          "text": "Seorang anak belum siap memasukkan wajah ke air. Bagaimana pembelajaran seharusnya berlangsung?",
+          "text": "Seorang siswa tampak kesulitan dan mengangkat tangan dari air. Teman yang melihat sebaiknya ....",
           "options": [
-            "dilakukan tanpa bernapas lama",
-            "dilakukan di air dalam sendirian",
-            "dilatih perlahan sesuai instruksi",
-            "dilakukan dengan panik"
+            "segera memanggil guru, penjaga, atau petugas kolam",
+            "langsung melompat walau tidak terlatih",
+            "menunggu sampai latihan selesai",
+            "merekam kejadian dari tepi"
           ],
-          "answer": "dilatih perlahan sesuai instruksi",
-          "discussion": "Mengembuskan napas ke air: dilatih perlahan sesuai instruksi."
+          "answer": "segera memanggil guru, penjaga, atau petugas kolam",
+          "discussion": "Anak tidak melakukan penyelamatan air yang belum dikuasai; panggil orang dewasa terlatih secepatnya."
         },
         {
           "id": "K03-PJK-B06-M01-015",
           "type": "PG",
-          "text": "Siswa mempelajari posisi tubuh saat tetap berada di atas permukaan air. Pilih penjelasan sesuai.",
+          "text": "Jika guru mengajarkan bantuan dari tepi, siswa hanya boleh mengulurkan alat ketika ....",
           "options": [
-            "melempar batu",
-            "menjaga posisi tubuh di permukaan air dengan bantuan bila perlu",
-            "menyelam tanpa batas",
-            "berlari di tepi kolam"
+            "berdiri aman, mengikuti instruksi, dan tidak ikut tertarik ke air",
+            "berlari sambil membawa tongkat",
+            "masuk ke air tanpa pengawas",
+            "teman lain mendorong dari belakang"
           ],
-          "answer": "menjaga posisi tubuh di permukaan air dengan bantuan bila perlu",
-          "discussion": "Mengapung: menjaga posisi tubuh di permukaan air dengan bantuan bila perlu."
+          "answer": "berdiri aman, mengikuti instruksi, dan tidak ikut tertarik ke air",
+          "discussion": "Bantuan dari tepi harus dilakukan sesuai instruksi dan tanpa menambah korban."
         },
         {
           "id": "K03-PJK-B06-M01-016",
           "type": "PG",
-          "text": "Seorang siswa mengira memakai alat bantu berarti tidak perlu pengawas. Apa penjelasan yang benar?",
+          "text": "Latihan awal gerak kaki dapat dilakukan di darat dengan tujuan ....",
           "options": [
-            "alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan",
-            "jaminan boleh berenang sendirian",
-            "alat untuk memukul",
-            "pengganti guru"
+            "memahami urutan gerak sebelum mencobanya di air",
+            "menggantikan seluruh aturan keselamatan",
+            "menentukan siapa yang paling kuat",
+            "membuat kaki bergerak secepat mungkin"
           ],
-          "answer": "alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan",
-          "discussion": "Pelampung latihan: alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan."
+          "answer": "memahami urutan gerak sebelum mencobanya di air",
+          "discussion": "Simulasi di darat membantu siswa mengenali pola tanpa risiko air."
         },
         {
           "id": "K03-PJK-B06-M01-017",
           "type": "PG",
-          "text": "Guru melarang siswa berlari di tepi kolam basah. Tindakan yang sesuai ialah ....",
+          "text": "Urutan sederhana gerak kaki gaya dada yang tepat adalah ....",
           "options": [
-            "dilewati dengan berlari",
-            "digunakan melompat tanpa izin",
-            "digunakan mendorong teman",
-            "dilewati dengan berjalan hati-hati"
+            "tumit mendekat, telapak mengarah ke luar, kaki mendorong, lalu lurus",
+            "kaki lurus, lutut dikunci, lalu tubuh diputar",
+            "satu kaki menendang ke depan dan satu kaki diam",
+            "kedua kaki menghentak dasar kolam sekuatnya"
           ],
-          "answer": "dilewati dengan berjalan hati-hati",
-          "discussion": "Tepi kolam basah: dilewati dengan berjalan hati-hati."
+          "answer": "tumit mendekat, telapak mengarah ke luar, kaki mendorong, lalu lurus",
+          "discussion": "Gerak dilakukan terkendali: tarik tumit, siapkan telapak, dorong air, dan rapatkan kembali."
         },
         {
           "id": "K03-PJK-B06-M01-018",
           "type": "PG",
-          "text": "Guru berada tidak jauh dari kolam, sementara teman meminta bantuan. Apa yang sebaiknya dilakukan?",
+          "text": "Saat berpegangan pada dinding kolam untuk latihan kaki, siswa harus ....",
           "options": [
-            "menertawakan",
-            "meninggalkan tanpa memberi tahu",
-            "segera memanggil guru atau penjaga kolam",
-            "langsung melompat tanpa kemampuan"
+            "berada di zona yang ditetapkan dan mengikuti pengawasan guru",
+            "memilih bagian paling dalam",
+            "berlomba menahan napas",
+            "bergantung pada teman yang belum siap"
           ],
-          "answer": "segera memanggil guru atau penjaga kolam",
-          "discussion": "Jika teman kesulitan di air: segera memanggil guru atau penjaga kolam."
+          "answer": "berada di zona yang ditetapkan dan mengikuti pengawasan guru",
+          "discussion": "Pegangan dinding digunakan hanya di tempat aman yang telah ditentukan."
         },
         {
           "id": "K03-PJK-B06-M01-019",
           "type": "PG",
-          "text": "Guru meminta semua anak mendengarkan aturan sebelum mendekat ke air. Tujuannya adalah ....",
+          "text": "Papan luncur dipakai saat latihan kaki. Cara yang benar adalah ....",
           "options": [
-            "berlaku saat lomba saja",
-            "dipatuhi untuk keselamatan semua orang",
-            "boleh diabaikan",
-            "hanya untuk guru"
+            "memegangnya sesuai contoh dan menjaga jarak dengan kelompok lain",
+            "berdiri di atasnya seperti papan selancar",
+            "melemparkannya ke arah teman",
+            "menggunakannya untuk masuk ke kolam tanpa izin"
           ],
-          "answer": "dipatuhi untuk keselamatan semua orang",
-          "discussion": "Aturan kolam renang: dipatuhi untuk keselamatan semua orang."
+          "answer": "memegangnya sesuai contoh dan menjaga jarak dengan kelompok lain",
+          "discussion": "Penggunaan alat yang benar membantu fokus pada gerak kaki dan mencegah benturan."
         },
         {
           "id": "K03-PJK-B06-M01-020",
           "type": "PG",
-          "text": "Saat belajar gerakan kaki, siswa memerlukan bantuan dan tempat yang aman. Apa prinsipnya?",
+          "text": "Urutan dasar gerak lengan gaya dada adalah ....",
           "options": [
-            "dilakukan dengan pegangan atau bantuan sesuai arahan",
-            "dilakukan tanpa pengawasan di kolam dalam",
-            "dilakukan di air deras",
-            "dilakukan sambil mengganggu teman"
+            "lengan lurus ke depan, membuka menyapu, kembali mendekat, lalu lurus lagi",
+            "kedua lengan memukul air bergantian sekuatnya",
+            "satu lengan tetap di belakang sepanjang gerak",
+            "kedua tangan memegang kaki lalu melompat"
           ],
-          "answer": "dilakukan dengan pegangan atau bantuan sesuai arahan",
-          "discussion": "Latihan gerak kaki di air: dilakukan dengan pegangan atau bantuan sesuai arahan."
+          "answer": "lengan lurus ke depan, membuka menyapu, kembali mendekat, lalu lurus lagi",
+          "discussion": "Gerak lengan membentuk siklus terkontrol dan kembali ke posisi lurus."
         },
         {
           "id": "K03-PJK-B06-M01-021",
           "type": "PG",
-          "text": "Dalam semua aktivitas air sekolah, siapa yang sebaiknya memastikan keselamatan anak?",
+          "text": "Saat melakukan simulasi gerak lengan di darat, jari-jari sebaiknya ....",
           "options": [
-            "berenang sendirian",
-            "berlari di tepi licin",
-            "mendorong teman ke air",
-            "selalu mengikuti pengawasan guru atau orang dewasa yang kompeten"
+            "rapat wajar dan gerak tetap terkendali",
+            "terbuka selebar mungkin untuk menyentuh teman",
+            "mengepal kuat sepanjang latihan",
+            "memegang benda tajam"
           ],
-          "answer": "selalu mengikuti pengawasan guru atau orang dewasa yang kompeten",
-          "discussion": "Keselamatan di kolam: selalu mengikuti pengawasan guru atau orang dewasa yang kompeten."
+          "answer": "rapat wajar dan gerak tetap terkendali",
+          "discussion": "Jari rapat wajar dan gerak terkendali membantu membentuk sapuan air yang rapi."
         },
         {
           "id": "K03-PJK-B06-M01-022",
           "type": "PG",
-          "text": "Mengapa kegiatan pertama di air tidak boleh dipaksakan atau dilakukan tanpa pengawasan?",
+          "text": "Latihan gerak lengan di air bagi pemula dilakukan ....",
           "options": [
-            "tanpa pengawasan",
-            "dengan menahan teman",
-            "dilakukan bertahap di tempat aman dan diawasi",
-            "langsung ke kolam dalam"
+            "di air dangkal sesuai kesiapan dan arahan guru",
+            "sendirian di kolam dalam",
+            "sambil mendorong tubuh teman",
+            "tanpa jarak antarpeserta"
           ],
-          "answer": "dilakukan bertahap di tempat aman dan diawasi",
-          "discussion": "Pengenalan air: dilakukan bertahap di tempat aman dan diawasi."
+          "answer": "di air dangkal sesuai kesiapan dan arahan guru",
+          "discussion": "Kedalaman, kesiapan, jarak, dan pengawasan harus ditentukan sebelum latihan."
         },
         {
           "id": "K03-PJK-B06-M01-023",
           "type": "PG",
-          "text": "Apakah siswa boleh berjalan sendiri ke bagian kolam yang semakin dalam? Pilih prinsipnya.",
+          "text": "Posisi tubuh yang membantu meluncur adalah ....",
           "options": [
-            "dilakukan sendirian di sungai",
-            "dilakukan sesuai arahan dan kedalaman aman",
-            "dilakukan di air deras",
-            "dilakukan tanpa melihat dasar"
+            "memanjang dan mendatar dengan kepala mengikuti garis tubuh",
+            "duduk tegak sambil kaki menyentuh dasar",
+            "membungkuk dan memutar leher ke belakang",
+            "berdiri sambil kedua tangan di pinggang"
           ],
-          "answer": "dilakukan sesuai arahan dan kedalaman aman",
-          "discussion": "Berjalan di air dangkal: dilakukan sesuai arahan dan kedalaman aman."
+          "answer": "memanjang dan mendatar dengan kepala mengikuti garis tubuh",
+          "discussion": "Bentuk tubuh yang panjang dan sejajar membantu mengurangi hambatan air."
         },
         {
           "id": "K03-PJK-B06-M01-024",
           "type": "PG",
-          "text": "Apa prinsip mempelajari cara mengeluarkan napas saat latihan air?",
+          "text": "Pada latihan meluncur dari dinding kolam dangkal, tolakan dilakukan dengan ....",
           "options": [
-            "dilatih perlahan sesuai instruksi",
-            "dilakukan dengan panik",
-            "dilakukan tanpa bernapas lama",
-            "dilakukan di air dalam sendirian"
+            "dua kaki secara terkendali setelah aba-aba guru",
+            "kepala lebih dahulu tanpa tangan di depan",
+            "satu teman mendorong punggung sekuatnya",
+            "berlari dari tepi licin"
           ],
-          "answer": "dilatih perlahan sesuai instruksi",
-          "discussion": "Mengembuskan napas ke air: dilatih perlahan sesuai instruksi."
+          "answer": "dua kaki secara terkendali setelah aba-aba guru",
+          "discussion": "Tolakan dari dinding dilakukan setelah posisi siap, jalur kosong, dan guru memberi aba-aba."
         },
         {
           "id": "K03-PJK-B06-M01-025",
           "type": "PG",
-          "text": "Apakah siswa pemula boleh dipaksa mengapung tanpa dukungan? Pilih prinsip yang tepat.",
+          "text": "Saat meluncur, ada peserta lain di depan jalur. Tindakan yang benar adalah ....",
           "options": [
-            "menyelam tanpa batas",
-            "berlari di tepi kolam",
-            "melempar batu",
-            "menjaga posisi tubuh di permukaan air dengan bantuan bila perlu"
+            "menunggu sampai jalur kosong",
+            "tetap meluncur agar tidak kehilangan giliran",
+            "menabrak pelan sebagai tanda",
+            "berpindah ke zona dalam tanpa izin"
           ],
-          "answer": "menjaga posisi tubuh di permukaan air dengan bantuan bila perlu",
-          "discussion": "Mengapung: menjaga posisi tubuh di permukaan air dengan bantuan bila perlu."
+          "answer": "menunggu sampai jalur kosong",
+          "discussion": "Jalur yang kosong mencegah tabrakan dan memberi ruang berhenti."
         },
         {
           "id": "K03-PJK-B06-M01-026",
           "type": "PG",
-          "text": "Apa batas penggunaan alat bantu apung dalam latihan siswa?",
+          "text": "Cara mengambil napas dalam latihan dasar adalah ....",
           "options": [
-            "alat untuk memukul",
-            "pengganti guru",
-            "alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan",
-            "jaminan boleh berenang sendirian"
+            "menghirup saat mulut berada di atas permukaan air",
+            "menghirup ketika wajah masih di dalam air",
+            "menutup hidung dan mulut selama mungkin",
+            "menghirup air sedikit demi sedikit"
           ],
-          "answer": "alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan",
-          "discussion": "Pelampung latihan: alat bantu yang digunakan sesuai petunjuk, bukan pengganti pengawasan."
+          "answer": "menghirup saat mulut berada di atas permukaan air",
+          "discussion": "Udara dihirup ketika mulut berada di atas permukaan."
         },
         {
           "id": "K03-PJK-B06-M01-027",
           "type": "PG",
-          "text": "Apa prinsip keselamatan saat melintasi permukaan basah di sekitar kolam?",
+          "text": "Cara mengeluarkan napas saat wajah berada di air adalah ....",
           "options": [
-            "digunakan mendorong teman",
-            "dilewati dengan berjalan hati-hati",
-            "dilewati dengan berlari",
-            "digunakan melompat tanpa izin"
+            "mengembuskan perlahan sesuai arahan melalui hidung atau mulut",
+            "menahan napas sampai merasa pusing",
+            "membuka mulut untuk menelan air",
+            "menghirup melalui hidung di bawah air"
           ],
-          "answer": "dilewati dengan berjalan hati-hati",
-          "discussion": "Tepi kolam basah: dilewati dengan berjalan hati-hati."
+          "answer": "mengembuskan perlahan sesuai arahan melalui hidung atau mulut",
+          "discussion": "Latihan gelembung mengajarkan pengeluaran napas yang terkontrol; siswa tidak dipaksa."
         },
         {
           "id": "K03-PJK-B06-M01-028",
           "type": "PG",
-          "text": "Mengapa anak tidak boleh langsung melompat menolong tanpa keterampilan penyelamatan?",
+          "text": "Mengapa lomba menahan napas di bawah air tidak boleh dilakukan?",
           "options": [
-            "segera memanggil guru atau penjaga kolam",
-            "langsung melompat tanpa kemampuan",
-            "menertawakan",
-            "meninggalkan tanpa memberi tahu"
+            "dapat membuat anak kehilangan kesadaran tanpa tanda yang jelas",
+            "membuat warna air berubah",
+            "menyebabkan kacamata menjadi longgar saja",
+            "membuat kaki selalu tenggelam"
           ],
-          "answer": "segera memanggil guru atau penjaga kolam",
-          "discussion": "Jika teman kesulitan di air: segera memanggil guru atau penjaga kolam."
+          "answer": "dapat membuat anak kehilangan kesadaran tanpa tanda yang jelas",
+          "discussion": "Menahan napas berlebihan berbahaya dan bukan tujuan latihan pernapasan."
         },
         {
           "id": "K03-PJK-B06-M01-029",
           "type": "PG",
-          "text": "Mengapa aturan di area kolam berlaku bagi seluruh peserta?",
+          "text": "Jika air masuk ke hidung lalu siswa batuk dan panik, ia sebaiknya ....",
           "options": [
-            "boleh diabaikan",
-            "hanya untuk guru",
-            "berlaku saat lomba saja",
-            "dipatuhi untuk keselamatan semua orang"
+            "berdiri atau berpegangan di zona dangkal dan memberi tanda kepada guru",
+            "memaksa melanjutkan agar tidak tertinggal",
+            "menyelam lebih dalam untuk menenangkan diri",
+            "berlari di tepi kolam"
           ],
-          "answer": "dipatuhi untuk keselamatan semua orang",
-          "discussion": "Aturan kolam renang: dipatuhi untuk keselamatan semua orang."
+          "answer": "berdiri atau berpegangan di zona dangkal dan memberi tanda kepada guru",
+          "discussion": "Hentikan latihan, cari posisi aman, atur napas, dan beri tahu pengawas."
         },
         {
           "id": "K03-PJK-B06-M01-030",
           "type": "PG",
-          "text": "Bagaimana latihan kaki pemula di air sebaiknya dilakukan?",
+          "text": "Latihan pernapasan yang aman menekankan ....",
           "options": [
-            "dilakukan di air deras",
-            "dilakukan sambil mengganggu teman",
-            "dilakukan dengan pegangan atau bantuan sesuai arahan",
-            "dilakukan tanpa pengawasan di kolam dalam"
+            "hembusan singkat dan terkendali, bukan ketahanan di bawah air",
+            "siapa yang paling lama tidak bernapas",
+            "berapa banyak air yang dapat ditelan",
+            "seberapa jauh anak berenang sendirian"
           ],
-          "answer": "dilakukan dengan pegangan atau bantuan sesuai arahan",
-          "discussion": "Latihan gerak kaki di air: dilakukan dengan pegangan atau bantuan sesuai arahan."
+          "answer": "hembusan singkat dan terkendali, bukan ketahanan di bawah air",
+          "discussion": "Tujuan latihan adalah mengatur waktu mengambil dan mengeluarkan napas."
         },
         {
           "id": "K03-PJK-B06-M01-031",
           "type": "PG",
-          "text": "Ada siswa ingin masuk ke air lebih awal daripada pengawas. Prinsip keselamatan yang harus ditaati ialah ....",
+          "text": "Sekolah tidak memiliki kolam yang aman. Kegiatan pengganti yang sesuai adalah ....",
           "options": [
-            "mendorong teman ke air",
-            "selalu mengikuti pengawasan guru atau orang dewasa yang kompeten",
-            "berenang sendirian",
-            "berlari di tepi licin"
+            "simulasi posisi, gerak kaki, dan gerak lengan di darat serta diskusi keselamatan",
+            "berlatih sendiri di sungai terdekat",
+            "mengisi bak mandi lalu menyelam tanpa pengawas",
+            "membatalkan semua pembelajaran gerak"
           ],
-          "answer": "selalu mengikuti pengawasan guru atau orang dewasa yang kompeten",
-          "discussion": "Keselamatan di kolam: selalu mengikuti pengawasan guru atau orang dewasa yang kompeten."
+          "answer": "simulasi posisi, gerak kaki, dan gerak lengan di darat serta diskusi keselamatan",
+          "discussion": "Buku panduan membolehkan alternatif nonair bila fasilitas air aman tidak tersedia."
         },
         {
           "id": "K03-PJK-B06-M01-032",
           "type": "PG",
-          "text": "Siswa pemula belajar membasahi kaki di area aman dengan guru. Pendekatan itu menunjukkan ....",
+          "text": "Ketika peluit atau aba-aba berhenti dibunyikan, peserta harus ....",
           "options": [
-            "dilakukan bertahap di tempat aman dan diawasi",
-            "langsung ke kolam dalam",
-            "tanpa pengawasan",
-            "dengan menahan teman"
+            "segera berhenti, berdiri atau memegang tepi sesuai arahan, lalu melihat guru",
+            "menyelesaikan satu putaran lagi",
+            "berpindah jalur tanpa memberi tahu",
+            "menyelam agar tidak mendengar"
           ],
-          "answer": "dilakukan bertahap di tempat aman dan diawasi",
-          "discussion": "Pengenalan air: dilakukan bertahap di tempat aman dan diawasi."
+          "answer": "segera berhenti, berdiri atau memegang tepi sesuai arahan, lalu melihat guru",
+          "discussion": "Tanda berhenti harus diikuti serentak agar pengawas dapat mengendalikan keadaan."
         },
         {
           "id": "K03-PJK-B06-M01-033",
           "type": "PG",
-          "text": "Jalur latihan di kolam dangkal telah diberi batas. Bagaimana anak seharusnya berjalan?",
+          "text": "Kelompok berikutnya menunggu giliran latihan. Tempat menunggu yang tepat adalah ....",
           "options": [
-            "dilakukan di air deras",
-            "dilakukan tanpa melihat dasar",
-            "dilakukan sendirian di sungai",
-            "dilakukan sesuai arahan dan kedalaman aman"
+            "area aman yang ditetapkan, tidak di bibir kolam",
+            "tepat di ujung jalur luncur",
+            "di tangga masuk kolam",
+            "di lantai basah sambil berkejaran"
           ],
-          "answer": "dilakukan sesuai arahan dan kedalaman aman",
-          "discussion": "Berjalan di air dangkal: dilakukan sesuai arahan dan kedalaman aman."
+          "answer": "area aman yang ditetapkan, tidak di bibir kolam",
+          "discussion": "Pembagian giliran dan tempat tunggu mencegah jalur terhalang dan anak terjatuh."
         },
         {
           "id": "K03-PJK-B06-M01-034",
           "type": "PG",
-          "text": "Guru memberi contoh latihan pernapasan kepada anak yang siap, tanpa dipaksa. Prinsip yang tepat adalah ....",
+          "text": "Catatan menunjukkan gerak kaki Sari sudah berurutan, tetapi ia sering terlalu dekat dengan kelompok depan. Perbaikan utama adalah ....",
           "options": [
-            "dilakukan tanpa bernapas lama",
-            "dilakukan di air dalam sendirian",
-            "dilatih perlahan sesuai instruksi",
-            "dilakukan dengan panik"
+            "menambah jarak dan menunggu jalur kosong",
+            "menggerakkan kaki lebih cepat",
+            "memindahkan latihan ke kolam dalam",
+            "mengabaikan tanda berhenti"
           ],
-          "answer": "dilatih perlahan sesuai instruksi",
-          "discussion": "Mengembuskan napas ke air: dilatih perlahan sesuai instruksi."
+          "answer": "menambah jarak dan menunggu jalur kosong",
+          "discussion": "Catatan menunjukkan masalah keselamatan jarak, bukan urutan gerak kaki."
         },
         {
           "id": "K03-PJK-B06-M01-035",
           "type": "PG",
-          "text": "Siswa didampingi mempelajari posisi tubuh di permukaan air. Keterampilan ini disebut ....",
+          "text": "Rangkaian latihan yang paling aman dan lengkap adalah ....",
           "options": [
-            "melempar batu",
-            "menjaga posisi tubuh di permukaan air dengan bantuan bila perlu",
-            "menyelam tanpa batas",
-            "berlari di tepi kolam"
+            "cek kesehatan, dengarkan aturan, simulasi di darat, latihan dangkal bergiliran, lalu refleksi",
+            "langsung masuk kolam dalam, berlomba, lalu pulang",
+            "berlari di tepi, melompat, menahan napas, lalu bermain bebas",
+            "memakai kacamata, berenang sendiri, lalu berpindah zona"
           ],
-          "answer": "menjaga posisi tubuh di permukaan air dengan bantuan bila perlu",
-          "discussion": "Mengapung: menjaga posisi tubuh di permukaan air dengan bantuan bila perlu."
+          "answer": "cek kesehatan, dengarkan aturan, simulasi di darat, latihan dangkal bergiliran, lalu refleksi",
+          "discussion": "Urutan itu menggabungkan persiapan, progresi gerak, pengawasan, dan evaluasi."
         }
       ]
     }
