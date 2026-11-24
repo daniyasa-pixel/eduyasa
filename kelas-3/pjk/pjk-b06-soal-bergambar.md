@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-PJK-B06-M01-036
 
-![Perbandingan jumlah siswa per guru. Kelompok A berisi sepuluh siswa dan kelompok B empat belas siswa untuk setiap guru..](assets/pjk-b06-gambar-01.svg)
+![Perbandingan jumlah siswa per guru. Kelompok A berisi sepuluh siswa dan kelompok B empat belas siswa untuk setiap guru.](assets/pjk-b06-gambar-01.svg)
 
 **Pertanyaan:** Diagram menunjukkan satu guru mengawasi 10 siswa di kelompok A dan satu guru mengawasi 14 siswa di kelompok B. Kelompok yang memenuhi acuan paling banyak 10 siswa per guru adalah ....
 
@@ -21,7 +21,7 @@
 ---
 ## Soal 37 — K03-PJK-B06-M01-037
 
-![Zona latihan kolam. Kolam dibagi menjadi zona dangkal untuk pemula dan zona dalam yang dilarang tanpa izin..](assets/pjk-b06-gambar-02.svg)
+![Zona latihan kolam. Kolam dibagi menjadi zona dangkal untuk pemula dan zona dalam yang dilarang tanpa izin.](assets/pjk-b06-gambar-02.svg)
 
 **Pertanyaan:** Pada denah, zona biru muda bertanda “dangkal—latihan pemula”, sedangkan zona biru tua bertanda “dalam—dilarang tanpa izin”. Siswa pemula harus berada di ....
 
@@ -38,7 +38,7 @@
 ---
 ## Soal 38 — K03-PJK-B06-M01-038
 
-![Berjalan dan berlari di lantai basah. Anak A berjalan dan anak B berlari pada lantai dengan tanda tetesan air..](assets/pjk-b06-gambar-03.svg)
+![Berjalan dan berlari di lantai basah. Anak A berjalan dan anak B berlari pada lantai dengan tanda tetesan air.](assets/pjk-b06-gambar-03.svg)
 
 **Pertanyaan:** Gambar membandingkan anak berjalan dan anak berlari di lantai basah. Perilaku yang aman ditunjukkan oleh ....
 
@@ -55,7 +55,7 @@
 ---
 ## Soal 39 — K03-PJK-B06-M01-039
 
-![Alat bantu dan pengawasan. Gambar A memperlihatkan guru mendampingi anak dengan papan, gambar B anak masuk sendiri membawa papan..](assets/pjk-b06-gambar-04.svg)
+![Alat bantu dan pengawasan. Gambar A memperlihatkan guru mendampingi anak dengan papan, gambar B anak masuk sendiri membawa papan.](assets/pjk-b06-gambar-04.svg)
 
 **Pertanyaan:** Gambar A menunjukkan anak memakai papan pelampung bersama guru. Gambar B menunjukkan anak membawa papan lalu masuk sendirian. Pernyataan yang benar adalah ....
 
@@ -72,7 +72,7 @@
 ---
 ## Soal 40 — K03-PJK-B06-M01-040
 
-![Urutan gerak kaki. Tiga kartu menunjukkan tumit mendekat, telapak mengarah ke luar, lalu kaki mendorong..](assets/pjk-b06-gambar-05.svg)
+![Urutan gerak kaki. Tiga kartu menunjukkan tumit mendekat, telapak mengarah ke luar, lalu kaki mendorong.](assets/pjk-b06-gambar-05.svg)
 
 **Pertanyaan:** Urutan gambar gerak kaki: (1) tumit mendekat, (2) telapak mengarah keluar, (3) kaki mendorong air. Gerak berikutnya adalah ....
 
@@ -89,7 +89,7 @@
 ---
 ## Soal 41 — K03-PJK-B06-M01-041
 
-![Urutan gerak lengan. Tiga kartu menunjukkan lengan lurus, membuka menyapu, dan kembali mendekat..](assets/pjk-b06-gambar-06.svg)
+![Urutan gerak lengan. Tiga kartu menunjukkan lengan lurus, membuka menyapu, dan kembali mendekat.](assets/pjk-b06-gambar-06.svg)
 
 **Pertanyaan:** Kartu gerak lengan menampilkan: lurus ke depan → membuka menyapu → tangan kembali mendekat. Tahap selanjutnya adalah ....
 
@@ -106,7 +106,7 @@
 ---
 ## Soal 42 — K03-PJK-B06-M01-042
 
-![Posisi tubuh saat meluncur. Gambar A menunjukkan tubuh lurus sejajar air; gambar B pinggul turun dan lutut menekuk..](assets/pjk-b06-gambar-07.svg)
+![Posisi tubuh saat meluncur. Gambar A menunjukkan tubuh lurus sejajar air; gambar B pinggul turun dan lutut menekuk.](assets/pjk-b06-gambar-07.svg)
 
 **Pertanyaan:** Gambar A menunjukkan tubuh memanjang sejajar permukaan; gambar B menunjukkan pinggul turun dan lutut menekuk. Posisi yang lebih mendukung meluncur adalah ....
 
@@ -123,7 +123,7 @@
 ---
 ## Soal 43 — K03-PJK-B06-M01-043
 
-![Irama pernapasan. Mulut di atas air diberi panah tarik napas dan wajah di air menghasilkan gelembung..](assets/pjk-b06-gambar-08.svg)
+![Irama pernapasan. Mulut di atas air diberi panah tarik napas dan wajah di air menghasilkan gelembung.](assets/pjk-b06-gambar-08.svg)
 
 **Pertanyaan:** Diagram menunjukkan panah “tarik napas” saat mulut di atas air dan gelembung saat wajah di air. Ketika wajah berada di air, siswa ....
 
@@ -140,7 +140,7 @@
 ---
 ## Soal 44 — K03-PJK-B06-M01-044
 
-![Memanggil penjaga kolam. Siswa di air mengangkat tangan; siswa di tepi menunjuk dan memanggil penjaga..](assets/pjk-b06-gambar-09.svg)
+![Memanggil penjaga kolam. Siswa di air mengangkat tangan; siswa di tepi menunjuk dan memanggil penjaga.](assets/pjk-b06-gambar-09.svg)
 
 **Pertanyaan:** Gambar menunjukkan anak di air mengangkat tangan, sedangkan siswa di tepi menunjuk ke penjaga kolam. Tindakan siswa di tepi adalah ....
 
@@ -157,7 +157,7 @@
 ---
 ## Soal 45 — K03-PJK-B06-M01-045
 
-![Daftar kesiapan latihan. Daftar menunjukkan guru hadir, zona dangkal, jalur kosong, dan seorang siswa demam..](assets/pjk-b06-gambar-10.svg)
+![Daftar kesiapan latihan. Daftar menunjukkan guru hadir, zona dangkal, jalur kosong, dan seorang siswa demam.](assets/pjk-b06-gambar-10.svg)
 
 **Pertanyaan:** Daftar pemeriksaan kelompok menunjukkan: guru hadir, zona dangkal ditetapkan, jalur kosong, tetapi satu siswa sedang demam. Keputusan yang tepat adalah ....
 
