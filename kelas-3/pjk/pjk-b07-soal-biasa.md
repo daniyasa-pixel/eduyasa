@@ -19,7 +19,7 @@
 ---
 ## Soal 2 — K03-PJK-B07-M01-002
 
-**Pertanyaan:** Dua kemampuan utama yang dilatih pada Unit 7 adalah ....
+**Pertanyaan:** Dalam kebugaran otot, dua kemampuan utama yang dilatih adalah ....
 
 **Pilihan jawaban:**
 - kekuatan otot dan daya tahan otot
