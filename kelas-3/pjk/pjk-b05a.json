@@ -11,171 +11,171 @@
         {
           "id": "K03-PJK-B05-M01-036",
           "type": "PG",
-          "text": "Anak-anak mengikuti hitungan secara bersamaan. Apa yang membantu gerak kelompok tetap serasi?",
+          "text": "Jejak kaki menunjukkan kiri pada hitungan 1 dan kanan pada hitungan 2. Kaki yang melangkah pada hitungan 2 adalah ....",
           "options": [
-            "hanya dilakukan sendiri",
-            "memerlukan kerja sama dan kekompakan",
-            "memerlukan saling mengejek",
-            "harus tanpa aturan"
+            "kaki kanan",
+            "kaki kiri",
+            "kedua kaki bersamaan",
+            "tidak ada kaki"
           ],
-          "answer": "memerlukan kerja sama dan kekompakan",
-          "discussion": "Gerak kelompok berirama: memerlukan kerja sama dan kekompakan.",
+          "answer": "kaki kanan",
+          "discussion": "Diagram menempatkan jejak kanan pada hitungan dua.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-01.svg",
-            "alt": "Ilustrasi Gerak kelompok berirama"
+            "alt": "Langkah satu dua. Jejak kiri pada satu dan kanan pada dua."
           }
         },
         {
           "id": "K03-PJK-B05-M01-037",
           "type": "PG",
-          "text": "Panah ketukan berjeda panjang. Bagaimana kecepatan gerak sebaiknya?",
+          "text": "Dua panel menunjukkan A berjalan maju dan B mengangkat kaki bergantian tanpa berpindah. Panel langkah di tempat adalah ....",
           "options": [
-            "gerakan mengikuti ketukan yang lebih pelan",
-            "gerakan selalu secepat mungkin",
-            "gerakan berhenti total",
-            "gerakan tanpa hitungan"
+            "panel A",
+            "panel B",
+            "keduanya berjalan mundur",
+            "keduanya tanpa gerak kaki"
           ],
-          "answer": "gerakan mengikuti ketukan yang lebih pelan",
-          "discussion": "Tempo lambat: gerakan mengikuti ketukan yang lebih pelan.",
+          "answer": "panel B",
+          "discussion": "Pada panel B posisi tubuh tetap sementara kaki diangkat bergantian.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-02.svg",
-            "alt": "Ilustrasi Tempo lambat"
+            "alt": "Maju dan di tempat. Panel A berjalan maju dan B kaki bergantian di tempat."
           }
         },
         {
           "id": "K03-PJK-B05-M01-038",
           "type": "PG",
-          "text": "Ketukan pada diagram semakin rapat. Bagaimana siswa menyesuaikan tempo dengan aman?",
+          "text": "Diagram jalur mundur menunjukkan pilihan A kosong dan pilihan B terhalang tas. Jalur yang aman digunakan adalah ....",
           "options": [
-            "gerakan harus sembarangan",
-            "gerakan harus di lantai licin",
-            "gerakan tidak perlu kendali",
-            "gerakan mengikuti ketukan lebih rapat dengan tetap aman"
+            "jalur A",
+            "jalur B",
+            "keduanya sambil berlari cepat",
+            "jalur yang paling sempit"
           ],
-          "answer": "gerakan mengikuti ketukan lebih rapat dengan tetap aman",
-          "discussion": "Tempo cepat: gerakan mengikuti ketukan lebih rapat dengan tetap aman.",
+          "answer": "jalur A",
+          "discussion": "Gerak mundur memerlukan ruang belakang yang kosong dari benda.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-03.svg",
-            "alt": "Ilustrasi Tempo cepat"
+            "alt": "Jalur mundur. Jalur A kosong dan B terhalang tas."
           }
         },
         {
           "id": "K03-PJK-B05-M01-039",
           "type": "PG",
-          "text": "Dua siswa mengayunkan tangan dekat satu sama lain. Mengapa ruang di antaranya perlu cukup?",
+          "text": "Pola A memiliki ketukan berjeda panjang, sedangkan pola B ketukannya rapat. Pola dengan tempo lebih lambat adalah ....",
           "options": [
-            "tidak perlu diperhatikan",
-            "harus di lorong sempit",
-            "perlu cukup agar tidak bertabrakan",
-            "harus saling menempel"
+            "pola A",
+            "pola B",
+            "keduanya selalu cepat",
+            "tidak ada pola berirama"
           ],
-          "answer": "perlu cukup agar tidak bertabrakan",
-          "discussion": "Jarak antarpeserta: perlu cukup agar tidak bertabrakan.",
+          "answer": "pola A",
+          "discussion": "Jeda yang lebih panjang antarketukan menunjukkan tempo lebih lambat.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-04.svg",
-            "alt": "Ilustrasi Jarak antarpeserta"
+            "alt": "Tempo ketukan. Pola A berjeda panjang dan B rapat."
           }
         },
         {
           "id": "K03-PJK-B05-M01-040",
           "type": "PG",
-          "text": "Gerakan berakhir, lalu siswa menurunkan aktivitas perlahan. Apa tujuan tahap tersebut?",
+          "text": "Kartu gerak menunjukkan hitungan 1 lengan kanan ke samping, 2 kembali ke depan, 3 lengan kiri ke samping, 4 kembali ke depan. Pada hitungan 3, lengan yang bergerak adalah ....",
           "options": [
-            "berarti berhenti bernapas",
-            "membantu tubuh beralih ke keadaan lebih tenang",
-            "menggantikan tidur malam",
-            "membuat tubuh tidak perlu air"
+            "lengan kiri",
+            "lengan kanan",
+            "kedua kaki",
+            "tidak ada lengan"
           ],
-          "answer": "membantu tubuh beralih ke keadaan lebih tenang",
-          "discussion": "Pendinginan setelah bergerak: membantu tubuh beralih ke keadaan lebih tenang.",
+          "answer": "lengan kiri",
+          "discussion": "Urutan gambar menunjukkan pergantian ke lengan kiri pada hitungan tiga.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-05.svg",
-            "alt": "Ilustrasi Pendinginan setelah bergerak"
+            "alt": "Ayunan empat hitungan. Kanan ke samping kembali lalu kiri ke samping kembali."
           }
         },
         {
           "id": "K03-PJK-B05-M01-041",
           "type": "PG",
-          "text": "Anak bergerak mengikuti bunyi tepuk yang teratur. Jenis gerak apakah ini?",
+          "text": "Diagram panah menunjukkan kedua lengan bergantian ke kanan pada hitungan ganjil dan ke kiri pada hitungan genap. Arah hitungan 7 adalah ....",
           "options": [
-            "gerakan tubuh mengikuti irama atau ketukan",
-            "gerak tanpa memperhatikan irama",
-            "hanya duduk diam",
-            "hanya melempar bola"
+            "kanan",
+            "kiri",
+            "atas",
+            "bawah"
           ],
-          "answer": "gerakan tubuh mengikuti irama atau ketukan",
-          "discussion": "Gerak berirama: gerakan tubuh mengikuti irama atau ketukan.",
+          "answer": "kanan",
+          "discussion": "Tujuh adalah hitungan ganjil sehingga ayunan mengarah ke kanan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-06.svg",
-            "alt": "Ilustrasi Gerak berirama"
+            "alt": "Ganjil kanan genap kiri. Panah arah ayunan pada hitungan satu sampai delapan."
           }
         },
         {
           "id": "K03-PJK-B05-M01-042",
           "type": "PG",
-          "text": "Siswa menggunakan tepukan untuk menjaga urutan bunyi. Fungsinya ialah ....",
+          "text": "Dua panel memperlihatkan ayunan depan–belakang. Panel A menekuk lutut ringan, panel B mengunci lutut. Cara yang lebih lentur adalah ....",
           "options": [
-            "menggantikan minum",
-            "menyebabkan harus berlari",
-            "menjadi gerak renang",
-            "membantu mengikuti pola irama"
+            "panel A",
+            "panel B",
+            "keduanya harus melompat",
+            "keduanya harus jongkok penuh"
           ],
-          "answer": "membantu mengikuti pola irama",
-          "discussion": "Tepuk tangan sesuai ketukan: membantu mengikuti pola irama.",
+          "answer": "panel A",
+          "discussion": "Tekukan lutut ringan membantu mengikuti ayunan tanpa mengunci sendi.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-07.svg",
-            "alt": "Ilustrasi Tepuk tangan sesuai ketukan"
+            "alt": "Lutut lentur. Panel A lutut ditekuk ringan dan B dikunci."
           }
         },
         {
           "id": "K03-PJK-B05-M01-043",
           "type": "PG",
-          "text": "Panah mengarah ke kanan lalu ke kiri. Bagaimana langkah dilakukan?",
+          "text": "Pada denah kelompok, jarak antaranak lebih lebar daripada jangkauan lengan. Manfaat pengaturan itu adalah ....",
           "options": [
-            "dilakukan tanpa melihat sekitar",
-            "harus sangat cepat",
-            "dilakukan mengikuti hitungan dengan ruang aman",
-            "dilakukan sambil mendorong teman"
+            "mengurangi risiko tangan saling mengenai",
+            "membuat anak tidak mendengar hitungan",
+            "memaksa semua bergerak lebih cepat",
+            "menghilangkan kebutuhan pemanasan"
           ],
-          "answer": "dilakukan mengikuti hitungan dengan ruang aman",
-          "discussion": "Langkah ke kanan dan kiri: dilakukan mengikuti hitungan dengan ruang aman.",
+          "answer": "mengurangi risiko tangan saling mengenai",
+          "discussion": "Jarak yang cukup menyediakan ruang untuk ayunan lengan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-08.svg",
-            "alt": "Ilustrasi Langkah ke kanan dan kiri"
+            "alt": "Jarak kelompok. Empat anak memiliki ruang lebih lebar daripada rentang lengan."
           }
         },
         {
           "id": "K03-PJK-B05-M01-044",
           "type": "PG",
-          "text": "Lengan bergerak setiap ketukan musik. Bagaimana seharusnya ayunannya?",
+          "text": "Empat kartu bertuliskan langkah di tempat, ayun kanan, ayun kiri, lalu kembali siap. Jika rangkaian dibaca dari kiri ke kanan, gerak ketiga adalah ....",
           "options": [
-            "tidak perlu terkendali",
-            "disesuaikan dengan ketukan musik",
-            "selalu melawan ketukan",
-            "dilakukan sambil memukul teman"
+            "ayun kiri",
+            "langkah di tempat",
+            "ayun kanan",
+            "kembali siap"
           ],
-          "answer": "disesuaikan dengan ketukan musik",
-          "discussion": "Ayunan lengan berirama: disesuaikan dengan ketukan musik.",
+          "answer": "ayun kiri",
+          "discussion": "Kartu ketiga pada urutan adalah ayun kiri.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-09.svg",
-            "alt": "Ilustrasi Ayunan lengan berirama"
+            "alt": "Urutan rangkaian. Empat kartu langkah di tempat ayun kanan ayun kiri siap."
           }
         },
         {
           "id": "K03-PJK-B05-M01-045",
           "type": "PG",
-          "text": "Angka 1, 2, 3, 4 muncul berurutan. Apa fungsi urutan dalam latihan?",
+          "text": "Tabel mencatat perpindahan serempak: percobaan 1 = 4, percobaan 2 = 6, percobaan 3 = 7. Hasil tertinggi terdapat pada ....",
           "options": [
-            "membantu mengatur urutan gerak",
-            "menentukan ukuran sepatu",
-            "mengganti pemanasan",
-            "mengubah tinggi badan"
+            "percobaan 1",
+            "percobaan 2",
+            "percobaan 3",
+            "semua sama"
           ],
-          "answer": "membantu mengatur urutan gerak",
-          "discussion": "Hitungan satu sampai empat: membantu mengatur urutan gerak.",
+          "answer": "percobaan 3",
+          "discussion": "Nilai tertinggi pada tabel adalah tujuh di percobaan ketiga.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b05-gambar-10.svg",
-            "alt": "Ilustrasi Hitungan satu sampai empat"
+            "alt": "Hasil serempak. Tabel percobaan empat enam dan tujuh perpindahan."
           }
         }
       ]
