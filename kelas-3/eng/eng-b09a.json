@@ -11,171 +11,171 @@
         {
           "id": "K03-ENG-B09-M01-036",
           "type": "PG",
-          "text": "Which adjective matches what the picture shows?",
+          "text": "How is the classroom?",
           "options": [
-            "clean",
-            "noisy",
-            "big",
-            "messy"
+            "It is clean.",
+            "It is dirty.",
+            "It is narrow.",
+            "It is small."
           ],
-          "answer": "clean",
-          "discussion": "Gambar menunjukkan \"clean\" (bersih).",
+          "answer": "It is clean.",
+          "discussion": "Lantai bersih dan tempat sampah tertutup menunjukkan kelas bersih.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-01.svg",
-            "alt": "Picture"
+            "alt": "Clean classroom. A clean classroom with an empty floor and closed rubbish bin."
           }
         },
         {
           "id": "K03-ENG-B09-M01-037",
           "type": "PG",
-          "text": "Look carefully. Is the pictured item clean or dirty?",
+          "text": "How is the schoolyard?",
           "options": [
-            "clean",
-            "small",
-            "bright",
-            "dirty"
+            "It is clean.",
+            "It is dirty.",
+            "It is narrow.",
+            "It is small."
           ],
-          "answer": "dirty",
-          "discussion": "Gambar menunjukkan \"dirty\" (kotor).",
+          "answer": "It is dirty.",
+          "discussion": "Gambar memperlihatkan sampah dan noda di halaman sekolah.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-02.svg",
-            "alt": "Picture"
+            "alt": "Dirty schoolyard. A schoolyard has paper litter and muddy marks on the ground."
           }
         },
         {
           "id": "K03-ENG-B09-M01-038",
           "type": "PG",
-          "text": "Which size word is represented?",
+          "text": "Which word describes the library's size?",
           "options": [
-            "tidy",
-            "dark",
             "big",
+            "small",
+            "narrow",
             "dirty"
           ],
           "answer": "big",
-          "discussion": "Gambar menunjukkan \"big\" (besar).",
+          "discussion": "Perpustakaan digambar luas dengan banyak rak.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-03.svg",
-            "alt": "Picture"
+            "alt": "Big library. A large library contains many shelves and open floor space."
           }
         },
         {
           "id": "K03-ENG-B09-M01-039",
           "type": "PG",
-          "text": "Which word describes the small object?",
+          "text": "How is the canteen?",
           "options": [
-            "quiet",
-            "small",
-            "big",
-            "messy"
+            "It is large.",
+            "It is dirty.",
+            "It is small.",
+            "It is wide."
           ],
-          "answer": "small",
-          "discussion": "Gambar menunjukkan \"small\" (kecil).",
+          "answer": "It is small.",
+          "discussion": "Kantin digambar berukuran kecil dengan dua meja.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-04.svg",
-            "alt": "Picture"
+            "alt": "Small canteen. A small canteen has only two little tables."
           }
         },
         {
           "id": "K03-ENG-B09-M01-040",
           "type": "PG",
-          "text": "Which word describes the arranged objects?",
+          "text": "Which word describes the restroom entrance?",
           "options": [
-            "tidy",
-            "small",
-            "bright",
-            "noisy"
+            "wide",
+            "clean",
+            "large",
+            "narrow"
           ],
-          "answer": "tidy",
-          "discussion": "Gambar menunjukkan \"tidy\" (rapi).",
+          "answer": "narrow",
+          "discussion": "Pintu masuk tampak sempit.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-05.svg",
-            "alt": "Picture"
+            "alt": "Narrow restroom entrance. A restroom has a very narrow entrance between two walls."
           }
         },
         {
           "id": "K03-ENG-B09-M01-041",
           "type": "PG",
-          "text": "How would you describe the objects' arrangement?",
+          "text": "How is the schoolyard from left to right?",
           "options": [
-            "tidy",
-            "dark",
-            "clean",
-            "messy"
+            "wide",
+            "narrow",
+            "small",
+            "dirty"
           ],
-          "answer": "messy",
-          "discussion": "Gambar menunjukkan \"messy\" (berantakan).",
+          "answer": "wide",
+          "discussion": "Panah mendatar menunjukkan halaman yang lebar.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-06.svg",
-            "alt": "Picture"
+            "alt": "Wide schoolyard. A schoolyard stretches widely from left to right."
           }
         },
         {
           "id": "K03-ENG-B09-M01-042",
           "type": "PG",
-          "text": "Which adjective describes the lighting?",
+          "text": "Which place is large?",
           "options": [
-            "quiet",
-            "dirty",
-            "bright",
-            "messy"
+            "the prayer room",
+            "the small canteen",
+            "the narrow restroom",
+            "the small office"
           ],
-          "answer": "bright",
-          "discussion": "Gambar menunjukkan \"bright\" (terang).",
+          "answer": "the prayer room",
+          "discussion": "Ruang ibadah digambar luas dan mampu menampung banyak orang.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-07.svg",
-            "alt": "Picture"
+            "alt": "Large prayer room. A spacious prayer room holds several prayer mats."
           }
         },
         {
           "id": "K03-ENG-B09-M01-043",
           "type": "PG",
-          "text": "What word describes the lack of light?",
+          "text": "Which place is smaller?",
           "options": [
-            "big",
-            "dark",
-            "bright",
-            "noisy"
+            "the library",
+            "the canteen",
+            "both are equal",
+            "the schoolyard"
           ],
-          "answer": "dark",
-          "discussion": "Gambar menunjukkan \"dark\" (gelap).",
+          "answer": "the canteen",
+          "discussion": "Perbandingan gambar menunjukkan kantin lebih kecil daripada perpustakaan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-08.svg",
-            "alt": "Picture"
+            "alt": "Large library and small canteen. A large library is shown beside a much smaller canteen."
           }
         },
         {
           "id": "K03-ENG-B09-M01-044",
           "type": "PG",
-          "text": "Which word is illustrated about noise?",
+          "text": "Which sentence matches the classroom?",
           "options": [
-            "quiet",
-            "dark",
-            "clean",
-            "small"
+            "It is big and clean.",
+            "It is small and dirty.",
+            "It is narrow and dirty.",
+            "It is small and clean."
           ],
-          "answer": "quiet",
-          "discussion": "Gambar menunjukkan \"quiet\" (tenang).",
+          "answer": "It is big and clean.",
+          "discussion": "Kelas tampak luas serta tidak memiliki sampah atau noda.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-09.svg",
-            "alt": "Picture"
+            "alt": "Big clean classroom. A big classroom has open space and a clean floor."
           }
         },
         {
           "id": "K03-ENG-B09-M01-045",
           "type": "PG",
-          "text": "What adjective best describes the noise shown?",
+          "text": "Which sentence matches the office?",
           "options": [
-            "quiet",
-            "dirty",
-            "tidy",
-            "noisy"
+            "It is wide and clean.",
+            "It is narrow and dirty.",
+            "It is large and clean.",
+            "It is big and wide."
           ],
-          "answer": "noisy",
-          "discussion": "Gambar menunjukkan \"noisy\" (berisik).",
+          "answer": "It is narrow and dirty.",
+          "discussion": "Kantor tampak sempit dan memiliki sampah di lantai.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/eng/assets/eng-b09-gambar-10.svg",
-            "alt": "Picture"
+            "alt": "Narrow dirty office. A narrow office has a stained floor and paper litter."
           }
         }
       ]
