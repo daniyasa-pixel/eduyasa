@@ -68,7 +68,7 @@
         {
           "id": "K03-ENG-B04-M01-049",
           "type": "PG",
-          "text": "Which two children give a Yes answer for reading?",
+          "text": "Listen to the question and answer. Which two children are said to like reading?",
           "options": [
             "only Maya",
             "Maya and Lani",
@@ -76,7 +76,7 @@
             "neither child"
           ],
           "answer": "Maya and Lani",
-          "discussion": "They refers to Maya and Lani, and the response is Yes.",
+          "discussion": "The recording asks about Maya and Lani, and the reply “Yes, they do” means both like reading.",
           "audio": {
             "type": "tts",
             "lang": "en-US",
