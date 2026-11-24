@@ -2,7 +2,7 @@
 
 ## Soal 36 — K03-ENG-B08-M01-036
 
-![School activity 1](assets/eng-b08-gambar-01.svg)
+![Student reading in the library. A student holds an open book in front of library shelves.](assets/eng-b08-gambar-01.svg)
 
 **Pertanyaan:** What does the student do in the library?
 
@@ -20,7 +20,7 @@
 
 ## Soal 37 — K03-ENG-B08-M01-037
 
-![School activity 2](assets/eng-b08-gambar-02.svg)
+![Teacher teaching in the classroom. A teacher points to a mathematics equation on the classroom board.](assets/eng-b08-gambar-02.svg)
 
 **Pertanyaan:** What does the teacher do?
 
@@ -38,7 +38,7 @@
 
 ## Soal 38 — K03-ENG-B08-M01-038
 
-![School activity 3](assets/eng-b08-gambar-03.svg)
+![Student writing. A student writes with a pencil on paper at a desk.](assets/eng-b08-gambar-03.svg)
 
 **Pertanyaan:** Which activity is shown?
 
@@ -56,7 +56,7 @@
 
 ## Soal 39 — K03-ENG-B08-M01-039
 
-![School activity 4](assets/eng-b08-gambar-04.svg)
+![Students studying mathematics. Two students look at a mathematics worksheet together.](assets/eng-b08-gambar-04.svg)
 
 **Pertanyaan:** What do the students do?
 
@@ -74,7 +74,7 @@
 
 ## Soal 40 — K03-ENG-B08-M01-040
 
-![School activity 5](assets/eng-b08-gambar-05.svg)
+![Child drinking water. A child lifts a glass of water toward the mouth.](assets/eng-b08-gambar-05.svg)
 
 **Pertanyaan:** Which sentence matches the picture?
 
@@ -92,7 +92,7 @@
 
 ## Soal 41 — K03-ENG-B08-M01-041
 
-![School activity 6](assets/eng-b08-gambar-06.svg)
+![Child eating food. A child uses a spoon to eat food from a plate.](assets/eng-b08-gambar-06.svg)
 
 **Pertanyaan:** Which activity is shown in the canteen?
 
@@ -110,7 +110,7 @@
 
 ## Soal 42 — K03-ENG-B08-M01-042
 
-![School activity 7](assets/eng-b08-gambar-07.svg)
+![Child buying food. A child gives money to a canteen seller across a counter.](assets/eng-b08-gambar-07.svg)
 
 **Pertanyaan:** What does the child do at the counter?
 
@@ -128,7 +128,7 @@
 
 ## Soal 43 — K03-ENG-B08-M01-043
 
-![School activity 8](assets/eng-b08-gambar-08.svg)
+![Children playing football. Two children run toward a ball on the schoolyard.](assets/eng-b08-gambar-08.svg)
 
 **Pertanyaan:** Which sentence matches the picture?
 
@@ -146,7 +146,7 @@
 
 ## Soal 44 — K03-ENG-B08-M01-044
 
-![School activity 9](assets/eng-b08-gambar-09.svg)
+![Child praying. A child prays respectfully on a mat in the prayer room.](assets/eng-b08-gambar-09.svg)
 
 **Pertanyaan:** Where does the child pray?
 
@@ -164,7 +164,7 @@
 
 ## Soal 45 — K03-ENG-B08-M01-045
 
-![School activity 10](assets/eng-b08-gambar-10.svg)
+![Child washing face. A child uses water from a sink to wash the face.](assets/eng-b08-gambar-10.svg)
 
 **Pertanyaan:** What does the child do in the restroom?
 
