@@ -11,171 +11,171 @@
         {
           "id": "K03-PJK-B07-M01-036",
           "type": "PG",
-          "text": "Setelah bermain, anak beristirahat. Apa manfaat jeda aktivitas tersebut?",
+          "text": "Gambar A menunjukkan dorong dinding; gambar B menunjukkan anak duduk diam. Kegiatan yang memberi tahanan untuk melatih kekuatan lengan adalah ....",
           "options": [
-            "berarti tidak boleh minum",
-            "berarti harus terus berlari",
-            "tidak diperlukan",
-            "membantu pemulihan tubuh"
+            "gambar A",
+            "gambar B",
+            "keduanya sama",
+            "tidak satu pun"
           ],
-          "answer": "membantu pemulihan tubuh",
-          "discussion": "Istirahat setelah olahraga: membantu pemulihan tubuh.",
+          "answer": "gambar A",
+          "discussion": "Dorong dinding membuat otot lengan melawan tahanan dengan gerak terkendali.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-01.svg",
-            "alt": "Ilustrasi Istirahat setelah olahraga"
+            "alt": "Dorong dinding dan duduk diam. Panel A anak mendorong dinding; panel B anak duduk diam.."
           }
         },
         {
           "id": "K03-PJK-B07-M01-037",
           "type": "PG",
-          "text": "Gambar menunjukkan botol air di dekat area latihan. Untuk apa air minum diperlukan?",
+          "text": "Pada gambar, dua peserta mendorong bahu dengan kaki bersilang depan-belakang dan tanda STOP di samping. Fungsi tanda STOP adalah ....",
           "options": [
-            "tidak diperlukan saat panas",
-            "harus dihindari",
-            "membantu memenuhi kebutuhan cairan tubuh",
-            "dapat diganti minuman sembarang"
+            "menghentikan dorongan serentak",
+            "memulai dorongan maksimum",
+            "menentukan peserta yang kalah",
+            "meminta pasangan melepaskan pegangan mendadak"
           ],
-          "answer": "membantu memenuhi kebutuhan cairan tubuh",
-          "discussion": "Air minum: membantu memenuhi kebutuhan cairan tubuh.",
+          "answer": "menghentikan dorongan serentak",
+          "discussion": "Aba-aba berhenti membantu kedua peserta mengurangi tenaga secara bersamaan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-02.svg",
-            "alt": "Ilustrasi Air minum"
+            "alt": "Dorong bahu dan tanda berhenti. Dua peserta berdiri stabil saling mendorong bahu dengan tenaga terkendali; ada tanda STOP.."
           }
         },
         {
           "id": "K03-PJK-B07-M01-038",
           "type": "PG",
-          "text": "Jadwal latihan memiliki waktu teratur dan jeda. Pola yang baik ialah ....",
+          "text": "Gambar angkat badan menunjukkan lutut ditekuk dan tangan bergerak di samping paha. Bagian yang tidak boleh ditarik paksa adalah ....",
           "options": [
-            "tidak perlu aman",
-            "lebih baik dilakukan teratur sesuai kemampuan",
-            "harus selalu berlebihan",
-            "harus dilakukan saat sakit berat"
+            "kepala dan leher",
+            "telapak kaki",
+            "alas latihan",
+            "lutut yang ditekuk"
           ],
-          "answer": "lebih baik dilakukan teratur sesuai kemampuan",
-          "discussion": "Latihan rutin: lebih baik dilakukan teratur sesuai kemampuan.",
+          "answer": "kepala dan leher",
+          "discussion": "Gerak perut dilakukan tanpa menarik kepala atau memaksa leher.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-03.svg",
-            "alt": "Ilustrasi Latihan rutin"
+            "alt": "Angkat badan sederhana. Anak telentang dengan lutut ditekuk, lalu mengangkat bahu tanpa menarik leher.."
           }
         },
         {
           "id": "K03-PJK-B07-M01-039",
           "type": "PG",
-          "text": "Anak tampak pusing saat latihan. Gejala apa yang menandakan perlunya berhenti?",
+          "text": "Urutan gambar menunjukkan duduk bertumpu tangan, lutut terangkat dan ditekuk, lalu kaki diluruskan rendah. Jika bentuk tubuh mulai goyah, siswa sebaiknya ....",
           "options": [
-            "nyeri hebat, pusing, atau sesak yang tidak wajar",
-            "rasa senang",
-            "napas sedikit lebih cepat yang wajar",
-            "keringat ringan"
+            "kembali ke variasi lutut tekuk",
+            "menambah kecepatan",
+            "menahan napas",
+            "mengangkat kaki setinggi mungkin"
           ],
-          "answer": "nyeri hebat, pusing, atau sesak yang tidak wajar",
-          "discussion": "Tanda perlu berhenti latihan: nyeri hebat, pusing, atau sesak yang tidak wajar.",
+          "answer": "kembali ke variasi lutut tekuk",
+          "discussion": "Variasi lebih mudah menjaga teknik tetap terkendali.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-04.svg",
-            "alt": "Ilustrasi Tanda perlu berhenti latihan"
+            "alt": "Mengangkat kaki dari duduk. Tiga tahap: duduk bertumpu tangan, lutut ditekuk terangkat, lalu kaki diluruskan rendah.."
           }
         },
         {
           "id": "K03-PJK-B07-M01-040",
           "type": "PG",
-          "text": "Anak-anak dengan kemampuan berbeda berlatih bersama. Sikap yang tepat adalah ....",
+          "text": "Gambar A menunjukkan push-up bertumpu lutut dengan badan lurus; gambar B menunjukkan pinggang turun. Posisi yang lebih terkendali adalah ....",
           "options": [
-            "dilakukan sambil mengejek",
-            "dilakukan tanpa pemanasan",
-            "dilakukan di jalan ramai",
-            "dilakukan dengan aturan dan saling mendukung"
+            "gambar A",
+            "gambar B",
+            "keduanya harus memakai beban",
+            "keduanya dilakukan dengan kepala sebagai tumpuan"
           ],
-          "answer": "dilakukan dengan aturan dan saling mendukung",
-          "discussion": "Aktivitas kebugaran bersama: dilakukan dengan aturan dan saling mendukung.",
+          "answer": "gambar A",
+          "discussion": "Garis badan yang terkendali dan tumpuan lutut sesuai untuk variasi pemula.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-05.svg",
-            "alt": "Ilustrasi Aktivitas kebugaran bersama"
+            "alt": "Push-up tumpuan lutut. Panel A badan lurus dengan tumpuan lutut; panel B pinggang turun.."
           }
         },
         {
           "id": "K03-PJK-B07-M01-041",
           "type": "PG",
-          "text": "Siswa menjalani kegiatan fisik tanpa kelelahan berlebihan. Kemampuan apa yang ditunjukkan?",
+          "text": "Dua jalur latihan berjalan dengan tangan ditampilkan. Jalur A kosong dan pendek; jalur B terdapat tas. Jalur yang dipilih adalah ....",
           "options": [
-            "kemampuan makan paling banyak",
-            "kemampuan menghindari gerak",
-            "kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan",
-            "kemampuan tidur sepanjang hari"
+            "jalur A",
+            "jalur B",
+            "keduanya sekaligus",
+            "jalur yang paling dekat dinding"
           ],
-          "answer": "kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan",
-          "discussion": "Kebugaran jasmani: kemampuan tubuh melakukan kegiatan tanpa cepat kelelahan berlebihan.",
+          "answer": "jalur A",
+          "discussion": "Jalur pendek, rata, dan kosong mengurangi risiko tersandung atau bertabrakan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-06.svg",
-            "alt": "Ilustrasi Kebugaran jasmani"
+            "alt": "Jalur berjalan dengan tangan. Jalur A pendek dan kosong, jalur B terhalang tas.."
           }
         },
         {
           "id": "K03-PJK-B07-M01-042",
           "type": "PG",
-          "text": "Seorang siswa memilih latihan tubuh yang sesuai usianya. Prinsipnya adalah ....",
+          "text": "Denah menunjukkan tali berputar hingga radius satu meter. Jarak aman teman yang menunggu adalah ....",
           "options": [
-            "dilakukan tanpa pengawasan",
-            "dilakukan sesuai usia dan kemampuan",
-            "mengangkat beban berbahaya",
-            "dipaksakan sampai sakit"
+            "di luar lingkaran putaran tali",
+            "di dalam lingkaran tali",
+            "tepat di belakang pelompat",
+            "memegang ujung tali tanpa izin"
           ],
-          "answer": "dilakukan sesuai usia dan kemampuan",
-          "discussion": "Latihan kekuatan sederhana: dilakukan sesuai usia dan kemampuan.",
+          "answer": "di luar lingkaran putaran tali",
+          "discussion": "Ruang bebas di sekeliling mencegah tali mengenai peserta lain.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-07.svg",
-            "alt": "Ilustrasi Latihan kekuatan sederhana"
+            "alt": "Zona aman lompat tali. Pelompat berada di tengah lingkaran radius satu meter; teman menunggu di luar.."
           }
         },
         {
           "id": "K03-PJK-B07-M01-043",
           "type": "PG",
-          "text": "Gambar memperlihatkan jalan cepat dan gerak ringan. Latihan tersebut melatih apa?",
+          "text": "Gambar menunjukkan tali dililit pada pergelangan di panel A dan digenggam biasa di panel B. Cara yang lebih aman adalah ....",
           "options": [
-            "dapat berupa jalan cepat atau lari ringan sesuai kemampuan",
-            "hanya duduk diam",
-            "selalu mengangkat beban berat",
-            "tidak perlu istirahat"
+            "panel B",
+            "panel A",
+            "keduanya harus dililit di pinggang",
+            "keduanya harus dilepas saat tarikan kuat"
           ],
-          "answer": "dapat berupa jalan cepat atau lari ringan sesuai kemampuan",
-          "discussion": "Latihan daya tahan: dapat berupa jalan cepat atau lari ringan sesuai kemampuan.",
+          "answer": "panel B",
+          "discussion": "Tali tidak dililitkan pada tubuh karena dapat menjerat atau mencederai.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-08.svg",
-            "alt": "Ilustrasi Latihan daya tahan"
+            "alt": "Pegangan tali. Panel A tali dililit pada pergelangan; panel B tali hanya digenggam.."
           }
         },
         {
           "id": "K03-PJK-B07-M01-044",
           "type": "PG",
-          "text": "Anak meregangkan sendi dalam rentang yang nyaman. Kemampuan itu adalah ....",
+          "text": "Tabel mencatat ulangan benar: percobaan 1 = 6 dan percobaan 2 = 8. Perubahan hasilnya adalah ....",
           "options": [
-            "kemampuan melempar jauh saja",
-            "kemampuan tidur",
-            "kemampuan makan",
-            "kemampuan sendi bergerak dalam rentang yang wajar"
+            "bertambah 2",
+            "berkurang 2",
+            "bertambah 14",
+            "tidak berubah"
           ],
-          "answer": "kemampuan sendi bergerak dalam rentang yang wajar",
-          "discussion": "Kelentukan: kemampuan sendi bergerak dalam rentang yang wajar.",
+          "answer": "bertambah 2",
+          "discussion": "Delapan dikurangi enam sama dengan dua ulangan benar.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-09.svg",
-            "alt": "Ilustrasi Kelentukan"
+            "alt": "Perkembangan ulangan benar. Tabel berisi percobaan satu enam ulangan dan percobaan dua delapan ulangan.."
           }
         },
         {
           "id": "K03-PJK-B07-M01-045",
           "type": "PG",
-          "text": "Anak berdiri di atas satu kaki sambil menjaga tubuh. Kemampuan apa yang digunakan?",
+          "text": "Kartu tanda tubuh menampilkan “hangat ringan”, “nyeri tajam”, “pusing”, dan “sesak tidak wajar”. Tanda yang masih dapat wajar pada latihan ringan adalah ....",
           "options": [
-            "kemampuan berlari tanpa arah",
-            "kemampuan makan cepat",
-            "kemampuan menjaga posisi tubuh agar stabil",
-            "kemampuan berteriak"
+            "hangat ringan",
+            "nyeri tajam",
+            "pusing",
+            "sesak tidak wajar"
           ],
-          "answer": "kemampuan menjaga posisi tubuh agar stabil",
-          "discussion": "Keseimbangan: kemampuan menjaga posisi tubuh agar stabil.",
+          "answer": "hangat ringan",
+          "discussion": "Nyeri tajam, pusing, dan sesak tidak wajar merupakan tanda berhenti dan melapor.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b07-gambar-10.svg",
-            "alt": "Ilustrasi Keseimbangan"
+            "alt": "Tanda tubuh saat latihan. Empat kartu: hangat ringan, nyeri tajam, pusing, dan sesak tidak wajar.."
           }
         }
       ]
