@@ -20,7 +20,7 @@
   },
   "source_markdown": {
     "path": "kelas-3/mtk/mtk-b04-soal-bergambar.md",
-    "sha256": "a69b3c51ed036edcf8859128882c9686a86e8227e13521ceebea83c9011e6795"
+    "sha256": "25e8d96f82e4b0da33c8acc7532d80daf4b248ec80f243802c150a2e84c52033"
   },
   "chapters": [
     {
@@ -81,7 +81,7 @@
         {
           "id": "K03-MTK-B04-M01-054",
           "type": "PG",
-          "text": "Nama bangun pada gambar adalah ...",
+          "text": "Nama bangun yang paling khusus sesuai sifat empat sisi sama panjang dan empat sudut siku-siku pada gambar adalah ...",
           "options": [
             "segitiga",
             "persegi panjang",
@@ -89,7 +89,7 @@
             "persegi"
           ],
           "answer": "persegi",
-          "discussion": "Gambar menunjukkan bangun persegi.",
+          "discussion": "Gambar menunjukkan persegi, yaitu persegi panjang khusus yang memiliki empat sisi sama panjang.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-02.svg",
             "alt": "Sebuah bentuk persegi dengan sisi dan titik sudut yang terlihat jelas."
