@@ -310,7 +310,7 @@ Tanpa gambar. Acak soal dan opsi saat ditayangkan.
 
 ## Soal 20 — K03-PKN-B01-M01-020
 
-**Pertanyaan:** Jika sekolah berada di sebelah kanan taman pada denah, sekolah berada ...
+**Pertanyaan:** Pada denah, taman berada di sebelah kiri sekolah. Di manakah posisi sekolah terhadap taman?
 
 **Pilihan jawaban:**
 - di kiri taman
@@ -320,7 +320,7 @@ Tanpa gambar. Acak soal dan opsi saat ditayangkan.
 
 **Kunci jawaban:** di kanan taman
 
-**Pembahasan:** Keterangan kanan pada denah menunjukkan posisi relatif.
+**Pembahasan:** Jika taman berada di kiri sekolah, sekolah berada di kanan taman.
 
 ---
 
@@ -454,17 +454,17 @@ Tanpa gambar. Acak soal dan opsi saat ditayangkan.
 
 ## Soal 29 — K03-PKN-B01-M01-029
 
-**Pertanyaan:** Anak yang tinggal di Sulawesi dan anak yang tinggal di Jawa sama-sama ...
+**Pertanyaan:** Rani dan Bima sama-sama berkewarganegaraan Indonesia. Rani tinggal di Sulawesi, sedangkan Bima tinggal di Jawa. Keduanya tetap ...
 
 **Pilihan jawaban:**
 - tidak boleh berteman
-- warga Indonesia jika berkewarganegaraan Indonesia
+- warga negara Indonesia
 - harus memiliki hobi sama
 - harus berbicara dengan logat sama
 
-**Kunci jawaban:** warga Indonesia jika berkewarganegaraan Indonesia
+**Kunci jawaban:** warga negara Indonesia
 
-**Pembahasan:** Asal pulau yang berbeda tidak mengurangi kebersamaan sebagai warga negara.
+**Pembahasan:** Tempat tinggal di pulau yang berbeda tidak mengubah kewarganegaraan Indonesia mereka.
 
 ---
 
@@ -518,7 +518,7 @@ Tanpa gambar. Acak soal dan opsi saat ditayangkan.
 
 ## Soal 33 — K03-PKN-B01-M01-033
 
-**Pertanyaan:** Kita bisa bangga menjadi orang Indonesia tanpa ...
+**Pertanyaan:** Perilaku yang tidak sesuai dengan sikap bangga menjadi orang Indonesia adalah ...
 
 **Pilihan jawaban:**
 - merendahkan bangsa lain
