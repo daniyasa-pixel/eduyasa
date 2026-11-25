@@ -17,7 +17,7 @@
   },
   "source_markdown": {
     "path": "kelas-3/pkn/pkn-b03-soal-bergambar.md",
-    "sha256": "02425e6b2dc1008df7e195b109309fab4e64c1466999b7441d62438653dee111"
+    "sha256": "94ebb650f6fb0bc9e63fcab2de336bd366be12cd18c60d469b58951a5475b424"
   },
   "chapters": [
     {
@@ -205,7 +205,7 @@
             "Bahasa rahasia"
           ],
           "answer": "Bahasa Indonesia",
-          "discussion": "Panel ketiga menampilkan Bahasa Indonesia.",
+          "discussion": "Panel ketiga menampilkan tulisan Bahasa Indonesia sebagai bahasa yang digunakan bersama.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b03-gambar-06.svg",
             "alt": "Nia dan Riko menggunakan bahasa daerah masing-masing dan Bahasa Indonesia bersama."
