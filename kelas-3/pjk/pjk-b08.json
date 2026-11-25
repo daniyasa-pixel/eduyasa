@@ -11,457 +11,457 @@
         {
           "id": "K03-PJK-B08-M01-001",
           "type": "PG",
-          "text": "Dina berjalan kaki menuju sekolah dengan pendamping. Kegiatan itu termasuk apa?",
+          "text": "Aktivitas fisik adalah ....",
           "options": [
-            "hanya duduk",
-            "gerakan tubuh yang menggunakan energi",
-            "hanya tidur",
-            "hanya menonton"
+            "gerakan tubuh yang memerlukan energi",
+            "setiap kegiatan yang dilakukan sambil tidur",
+            "hanya olahraga pertandingan",
+            "kegiatan membaca tanpa mengubah posisi"
           ],
-          "answer": "gerakan tubuh yang menggunakan energi",
-          "discussion": "Aktivitas fisik: gerakan tubuh yang menggunakan energi."
+          "answer": "gerakan tubuh yang memerlukan energi",
+          "discussion": "Berjalan, bermain, membantu pekerjaan rumah yang aman, dan olahraga termasuk aktivitas fisik."
         },
         {
           "id": "K03-PJK-B08-M01-002",
           "type": "PG",
-          "text": "Keluarga menyiapkan aneka jenis makanan sesuai kebutuhan anak. Pola tersebut menggambarkan ....",
+          "text": "Contoh menambah aktivitas fisik dalam kegiatan harian adalah ....",
           "options": [
-            "beragam sesuai kebutuhan tubuh",
-            "hanya makanan manis",
-            "hanya gorengan",
-            "hanya satu jenis makanan"
+            "berjalan kaki dengan pendamping pada rute aman",
+            "duduk menonton sepanjang sore",
+            "menggunakan gawai tanpa jeda",
+            "tidur setiap waktu luang"
           ],
-          "answer": "beragam sesuai kebutuhan tubuh",
-          "discussion": "Makanan bergizi seimbang: beragam sesuai kebutuhan tubuh."
+          "answer": "berjalan kaki dengan pendamping pada rute aman",
+          "discussion": "Gerak harian dapat menjadi aktivitas fisik bila dilakukan aman dan sesuai kemampuan."
         },
         {
           "id": "K03-PJK-B08-M01-003",
           "type": "PG",
-          "text": "Saat makan, ada tempe dan ikan yang disajikan. Kelompok pangan itu merupakan sumber ....",
+          "text": "Ketika cuaca sangat panas, rencana bermain di luar sebaiknya ....",
           "options": [
-            "permen",
-            "minuman bersoda",
-            "kerupuk saja",
-            "telur, ikan, atau tempe"
+            "dipindah ke waktu atau tempat lebih sejuk serta disertai minum",
+            "tetap dilakukan di bawah terik tanpa jeda",
+            "dilakukan tanpa air agar tidak kembung",
+            "ditambah pakaian tebal agar banyak berkeringat"
           ],
-          "answer": "telur, ikan, atau tempe",
-          "discussion": "Sumber protein: telur, ikan, atau tempe."
+          "answer": "dipindah ke waktu atau tempat lebih sejuk serta disertai minum",
+          "discussion": "Kondisi cuaca, cairan, tempat, dan kemampuan perlu dipertimbangkan."
         },
         {
           "id": "K03-PJK-B08-M01-004",
           "type": "PG",
-          "text": "Ibu menambahkan sayuran dan buah pada menu keluarga. Apa sumbangan bahan itu?",
+          "text": "Istirahat setelah aktivitas bermanfaat untuk ....",
           "options": [
-            "selalu harus digoreng",
-            "tidak berguna",
-            "menyumbang vitamin, mineral, dan serat",
-            "menggantikan semua makanan"
+            "membantu tubuh dan pikiran pulih",
+            "menggantikan seluruh kebutuhan makan",
+            "membuat anak tidak perlu bergerak lagi",
+            "menghapus kebutuhan tidur malam"
           ],
-          "answer": "menyumbang vitamin, mineral, dan serat",
-          "discussion": "Sayur dan buah: menyumbang vitamin, mineral, dan serat."
+          "answer": "membantu tubuh dan pikiran pulih",
+          "discussion": "Istirahat memberi kesempatan pemulihan, tetapi tetap perlu diseimbangkan dengan aktivitas dan kebutuhan lain."
         },
         {
           "id": "K03-PJK-B08-M01-005",
           "type": "PG",
-          "text": "Nasi, kentang, dan ubi menyediakan zat gizi untuk aktivitas. Fungsinya yang utama adalah ....",
+          "text": "Istirahat yang sehat berarti ....",
           "options": [
-            "menggantikan air minum",
-            "menjadi salah satu sumber energi tubuh",
-            "selalu berbahaya",
-            "tidak boleh dimakan"
+            "jeda yang cukup di antara kegiatan, bukan tidak bergerak sepanjang hari",
+            "menghindari seluruh aktivitas fisik",
+            "tidur setiap kali ada tugas",
+            "bermain gawai tanpa batas"
           ],
-          "answer": "menjadi salah satu sumber energi tubuh",
-          "discussion": "Karbohidrat: menjadi salah satu sumber energi tubuh."
+          "answer": "jeda yang cukup di antara kegiatan, bukan tidak bergerak sepanjang hari",
+          "discussion": "Pola sehat menyeimbangkan aktivitas, jeda, dan tidur."
         },
         {
           "id": "K03-PJK-B08-M01-006",
           "type": "PG",
-          "text": "Saat haus setelah bergerak, siswa minum air putih. Kebutuhan apa yang dibantu?",
+          "text": "Kebiasaan yang mendukung tidur malam ialah ....",
           "options": [
-            "penting untuk membantu kebutuhan cairan",
-            "harus dihindari setelah bermain",
-            "tidak diperlukan",
-            "selalu diganti sirup"
+            "memiliki waktu tidur teratur dan menenangkan kegiatan menjelang tidur",
+            "minum minuman berkafein tepat sebelum tidur",
+            "menyalakan layar terang sepanjang malam",
+            "melakukan permainan sangat berat saat sudah mengantuk"
           ],
-          "answer": "penting untuk membantu kebutuhan cairan",
-          "discussion": "Air putih: penting untuk membantu kebutuhan cairan."
+          "answer": "memiliki waktu tidur teratur dan menenangkan kegiatan menjelang tidur",
+          "discussion": "Rutinitas yang teratur membantu tubuh bersiap untuk tidur."
         },
         {
           "id": "K03-PJK-B08-M01-007",
           "type": "PG",
-          "text": "Anak akan belajar dan bermain setelah pagi hari. Apa manfaat menu sarapan bergizi?",
+          "text": "Pengisian waktu luang yang bermanfaat dapat berupa ....",
           "options": [
-            "membuat tidak perlu makan lagi",
-            "hanya berupa permen",
-            "harus dilewatkan",
-            "membantu menyediakan energi untuk belajar dan bergerak"
+            "bermain aktif, membaca, berkarya, atau membantu sesuai usia",
+            "mengganggu tetangga",
+            "bermain di jalan ramai",
+            "mengabaikan waktu makan dan tidur"
           ],
-          "answer": "membantu menyediakan energi untuk belajar dan bergerak",
-          "discussion": "Sarapan bergizi: membantu menyediakan energi untuk belajar dan bergerak."
+          "answer": "bermain aktif, membaca, berkarya, atau membantu sesuai usia",
+          "discussion": "Waktu luang dapat dipakai untuk kegiatan aman yang menyenangkan, kreatif, sosial, atau aktif."
         },
         {
           "id": "K03-PJK-B08-M01-008",
           "type": "PG",
-          "text": "Sebelum memegang makanan, siswa mencuci tangan pakai sabun. Tujuan yang tepat ialah ....",
+          "text": "Rencana sepulang sekolah yang seimbang adalah ....",
           "options": [
-            "mengganti olahraga",
-            "tidak penting",
-            "membantu mengurangi perpindahan kuman",
-            "membuat makanan lebih mahal"
+            "makan, beristirahat, mengerjakan tugas, bermain aktif, lalu bersiap tidur",
+            "bermain gawai sampai larut tanpa makan",
+            "berolahraga berat terus tanpa jeda",
+            "tidur sore sangat lama lalu terjaga sepanjang malam"
           ],
-          "answer": "membantu mengurangi perpindahan kuman",
-          "discussion": "Cuci tangan sebelum makan: membantu mengurangi perpindahan kuman."
+          "answer": "makan, beristirahat, mengerjakan tugas, bermain aktif, lalu bersiap tidur",
+          "discussion": "Keseimbangan kegiatan membantu memenuhi kebutuhan tubuh, belajar, gerak, dan pemulihan."
         },
         {
           "id": "K03-PJK-B08-M01-009",
           "type": "PG",
-          "text": "Setelah hari aktif, anak memerlukan tidur yang memadai. Manfaat utamanya ialah ....",
+          "text": "Saat menggunakan layar cukup lama, kebiasaan yang baik adalah ....",
           "options": [
-            "selalu membuang waktu",
-            "mendukung pertumbuhan dan pemulihan",
-            "menggantikan makan",
-            "berarti tidak perlu bergerak"
+            "mengambil jeda, mengubah posisi, dan memberi kesempatan tubuh bergerak",
+            "menatap tanpa berkedip selama mungkin",
+            "duduk membungkuk sepanjang waktu",
+            "mengurangi tidur agar waktu layar bertambah"
           ],
-          "answer": "mendukung pertumbuhan dan pemulihan",
-          "discussion": "Tidur cukup: mendukung pertumbuhan dan pemulihan."
+          "answer": "mengambil jeda, mengubah posisi, dan memberi kesempatan tubuh bergerak",
+          "discussion": "Jeda membantu mata dan tubuh beristirahat dari posisi yang sama."
         },
         {
           "id": "K03-PJK-B08-M01-010",
           "type": "PG",
-          "text": "Dua jajanan dijual: satu tertutup bersih, satu terbuka di dekat debu. Apa dasar memilih yang lebih aman?",
+          "text": "Setelah bermain aktif, tindakan yang tepat ialah ....",
           "options": [
-            "utamakan yang bersih, aman, dan bergizi",
-            "pilih yang terbuka dekat sampah",
-            "pilih yang kedaluwarsa",
-            "pilih tanpa memperhatikan kebersihan"
+            "minum air, beristirahat, dan mengganti pakaian basah bila perlu",
+            "langsung bermain lagi walau pusing",
+            "menahan haus sampai malam",
+            "tetap memakai pakaian sangat basah dan dingin"
           ],
-          "answer": "utamakan yang bersih, aman, dan bergizi",
-          "discussion": "Pilihan jajanan: utamakan yang bersih, aman, dan bergizi."
+          "answer": "minum air, beristirahat, dan mengganti pakaian basah bila perlu",
+          "discussion": "Pemulihan mencakup cairan, jeda, dan kenyamanan tubuh."
         },
         {
           "id": "K03-PJK-B08-M01-011",
           "type": "PG",
-          "text": "Ketika bermain aktif, tubuh bergerak dan memakai tenaga. Konsep yang dimaksud ialah ....",
+          "text": "Makanan sehat tidak hanya dinilai dari zat gizinya, tetapi juga harus ....",
           "options": [
-            "hanya tidur",
-            "hanya menonton",
-            "hanya duduk",
-            "gerakan tubuh yang menggunakan energi"
+            "bersih dan aman dikonsumsi",
+            "selalu mahal",
+            "berasal dari luar negeri",
+            "memiliki warna paling cerah"
           ],
-          "answer": "gerakan tubuh yang menggunakan energi",
-          "discussion": "Aktivitas fisik: gerakan tubuh yang menggunakan energi."
+          "answer": "bersih dan aman dikonsumsi",
+          "discussion": "Keamanan pangan, kebersihan, dan kondisi makanan sama pentingnya dengan kandungan gizi."
         },
         {
           "id": "K03-PJK-B08-M01-012",
           "type": "PG",
-          "text": "Mengapa makan hanya satu jenis makanan terus-menerus belum tentu memenuhi semua zat gizi?",
+          "text": "Makan bergizi seimbang berarti ....",
           "options": [
-            "hanya gorengan",
-            "hanya satu jenis makanan",
-            "beragam sesuai kebutuhan tubuh",
-            "hanya makanan manis"
+            "memilih makanan beragam dalam jenis dan jumlah sesuai kebutuhan",
+            "makan satu jenis yang dianggap paling sehat setiap hari",
+            "membagi semua makanan dengan jumlah persis sama",
+            "menghindari seluruh lemak dan gula"
           ],
-          "answer": "beragam sesuai kebutuhan tubuh",
-          "discussion": "Makanan bergizi seimbang: beragam sesuai kebutuhan tubuh."
+          "answer": "memilih makanan beragam dalam jenis dan jumlah sesuai kebutuhan",
+          "discussion": "Keseimbangan tidak berarti semua zat dimakan sama banyak; kebutuhan dan porsi perlu disesuaikan."
         },
         {
           "id": "K03-PJK-B08-M01-013",
           "type": "PG",
-          "text": "Anak memilih lauk yang membantu pertumbuhan dan perbaikan jaringan. Contoh yang sesuai ialah ....",
+          "text": "Empat pilar gizi seimbang mencakup ....",
           "options": [
-            "kerupuk saja",
-            "telur, ikan, atau tempe",
-            "permen",
-            "minuman bersoda"
+            "makanan beragam, hidup bersih, aktivitas fisik, dan pemantauan pertumbuhan",
+            "makanan mahal, suplemen, tidur siang, dan puasa tanpa arahan",
+            "hanya nasi, lauk, sayur, dan buah tanpa kebiasaan lain",
+            "lomba berat badan, diet ketat, minuman manis, dan olahraga maksimum"
           ],
-          "answer": "telur, ikan, atau tempe",
-          "discussion": "Sumber protein: telur, ikan, atau tempe."
+          "answer": "makanan beragam, hidup bersih, aktivitas fisik, dan pemantauan pertumbuhan",
+          "discussion": "Pemantauan pertumbuhan dilakukan bersama orang tua atau tenaga kesehatan, bukan untuk mengejek bentuk tubuh."
         },
         {
           "id": "K03-PJK-B08-M01-014",
           "type": "PG",
-          "text": "Selain makanan pokok, anak dianjurkan makan sayur dan buah beragam. Mengapa?",
+          "text": "Nasi, jagung, kentang, dan ubi dapat menjadi ....",
           "options": [
-            "menyumbang vitamin, mineral, dan serat",
-            "menggantikan semua makanan",
-            "selalu harus digoreng",
-            "tidak berguna"
+            "sumber karbohidrat yang memberi energi",
+            "pengganti seluruh lauk",
+            "satu-satunya sumber vitamin",
+            "pengganti air minum"
           ],
-          "answer": "menyumbang vitamin, mineral, dan serat",
-          "discussion": "Sayur dan buah: menyumbang vitamin, mineral, dan serat."
+          "answer": "sumber karbohidrat yang memberi energi",
+          "discussion": "Bahan pokok berkarbohidrat membantu menyediakan energi dan perlu dilengkapi kelompok pangan lain."
         },
         {
           "id": "K03-PJK-B08-M01-015",
           "type": "PG",
-          "text": "Ketika anak bergerak, tubuh memerlukan sumber energi, salah satunya dari ....",
+          "text": "Telur, ikan, tempe, tahu, daging, dan kacang-kacangan dapat menyumbang ....",
           "options": [
-            "selalu berbahaya",
-            "tidak boleh dimakan",
-            "menggantikan air minum",
-            "menjadi salah satu sumber energi tubuh"
+            "protein untuk pertumbuhan dan perbaikan jaringan",
+            "air sebagai satu-satunya zat gizi",
+            "karbohidrat saja",
+            "serat tanpa zat gizi lain"
           ],
-          "answer": "menjadi salah satu sumber energi tubuh",
-          "discussion": "Karbohidrat: menjadi salah satu sumber energi tubuh."
+          "answer": "protein untuk pertumbuhan dan perbaikan jaringan",
+          "discussion": "Sumber protein dapat berasal dari hewan maupun tumbuhan."
         },
         {
           "id": "K03-PJK-B08-M01-016",
           "type": "PG",
-          "text": "Guru memastikan peserta memiliki akses air minum selama kegiatan. Mengapa?",
+          "text": "Pernyataan yang tepat tentang lemak adalah ....",
           "options": [
-            "tidak diperlukan",
-            "selalu diganti sirup",
-            "penting untuk membantu kebutuhan cairan",
-            "harus dihindari setelah bermain"
+            "tubuh memerlukannya dalam jumlah sesuai sebagai sumber energi dan membantu fungsi tertentu",
+            "semua lemak harus dihilangkan dari makanan",
+            "lemak selalu lebih baik daripada semua zat gizi lain",
+            "makan lemak sebanyak mungkin tidak memiliki risiko"
           ],
-          "answer": "penting untuk membantu kebutuhan cairan",
-          "discussion": "Air putih: penting untuk membantu kebutuhan cairan."
+          "answer": "tubuh memerlukannya dalam jumlah sesuai sebagai sumber energi dan membantu fungsi tertentu",
+          "discussion": "Lemak dibutuhkan tubuh, tetapi jenis dan jumlahnya tetap perlu diperhatikan."
         },
         {
           "id": "K03-PJK-B08-M01-017",
           "type": "PG",
-          "text": "Sarapan beragam membantu tubuh mendapat energi sebelum aktivitas. Penjelasan yang tepat ialah ....",
+          "text": "Sayur dan buah beragam membantu menyediakan ....",
           "options": [
-            "harus dilewatkan",
-            "membantu menyediakan energi untuk belajar dan bergerak",
-            "membuat tidak perlu makan lagi",
-            "hanya berupa permen"
+            "vitamin, mineral, dan serat",
+            "protein sebagai satu-satunya zat",
+            "energi tanpa zat lain sama sekali",
+            "pengganti seluruh makanan pokok"
           ],
-          "answer": "membantu menyediakan energi untuk belajar dan bergerak",
-          "discussion": "Sarapan bergizi: membantu menyediakan energi untuk belajar dan bergerak."
+          "answer": "vitamin, mineral, dan serat",
+          "discussion": "Warna dan jenis yang beragam dapat menyumbang zat gizi berbeda."
         },
         {
           "id": "K03-PJK-B08-M01-018",
           "type": "PG",
-          "text": "Saat tangan kotor setelah bermain, apa manfaat mencucinya sebelum makan?",
+          "text": "Air putih penting karena ....",
           "options": [
-            "membantu mengurangi perpindahan kuman",
-            "membuat makanan lebih mahal",
-            "mengganti olahraga",
-            "tidak penting"
+            "membantu memenuhi kebutuhan cairan tubuh",
+            "menggantikan seluruh makanan",
+            "selalu mengandung energi sebanyak nasi",
+            "tidak diperlukan saat cuaca panas"
           ],
-          "answer": "membantu mengurangi perpindahan kuman",
-          "discussion": "Cuci tangan sebelum makan: membantu mengurangi perpindahan kuman."
+          "answer": "membantu memenuhi kebutuhan cairan tubuh",
+          "discussion": "Air tidak menggantikan makanan, tetapi sangat penting untuk cairan tubuh."
         },
         {
           "id": "K03-PJK-B08-M01-019",
           "type": "PG",
-          "text": "Seorang anak sering kurang tidur dan kelelahan. Apa fungsi istirahat malam yang cukup?",
+          "text": "Serat dari sayur, buah, kacang, dan beberapa biji-bijian membantu ....",
           "options": [
-            "menggantikan makan",
-            "berarti tidak perlu bergerak",
-            "selalu membuang waktu",
-            "mendukung pertumbuhan dan pemulihan"
+            "kerja pencernaan yang sehat",
+            "menggantikan semua protein",
+            "membuat anak tidak perlu minum",
+            "menyembuhkan semua penyakit"
           ],
-          "answer": "mendukung pertumbuhan dan pemulihan",
-          "discussion": "Tidur cukup: mendukung pertumbuhan dan pemulihan."
+          "answer": "kerja pencernaan yang sehat",
+          "discussion": "Serat merupakan bagian pola makan beragam dan bukan obat untuk semua masalah."
         },
         {
           "id": "K03-PJK-B08-M01-020",
           "type": "PG",
-          "text": "Guru mengajak siswa memeriksa kebersihan dan nilai gizi jajanan. Pilihan yang tepat adalah ....",
+          "text": "Menu bergizi seimbang dapat menggunakan bahan pangan lokal karena ....",
           "options": [
-            "pilih yang kedaluwarsa",
-            "pilih tanpa memperhatikan kebersihan",
-            "utamakan yang bersih, aman, dan bergizi",
-            "pilih yang terbuka dekat sampah"
+            "nilai gizi tidak ditentukan oleh harga atau asal yang jauh",
+            "makanan lokal selalu tidak bergizi",
+            "hanya makanan kemasan yang memiliki zat gizi",
+            "semua anak harus makan menu yang sama persis"
           ],
-          "answer": "utamakan yang bersih, aman, dan bergizi",
-          "discussion": "Pilihan jajanan: utamakan yang bersih, aman, dan bergizi."
+          "answer": "nilai gizi tidak ditentukan oleh harga atau asal yang jauh",
+          "discussion": "Nasi, jagung, ubi, ikan, telur, tempe, sayur, dan buah lokal dapat disusun beragam."
         },
         {
           "id": "K03-PJK-B08-M01-021",
           "type": "PG",
-          "text": "Apa ciri aktivitas yang melibatkan gerakan tubuh dan penggunaan energi?",
+          "text": "Anak memiliki alergi kacang yang telah diketahui. Saat memilih makanan ia perlu ....",
           "options": [
-            "hanya duduk",
-            "gerakan tubuh yang menggunakan energi",
-            "hanya tidur",
-            "hanya menonton"
+            "menghindari pemicu dan mengikuti arahan orang tua atau tenaga kesehatan",
+            "mencoba sedikit tanpa memberi tahu siapa pun",
+            "menganggap alergi sama dengan tidak suka",
+            "memilih makanan tanpa membaca informasi bahan"
           ],
-          "answer": "gerakan tubuh yang menggunakan energi",
-          "discussion": "Aktivitas fisik: gerakan tubuh yang menggunakan energi."
+          "answer": "menghindari pemicu dan mengikuti arahan orang tua atau tenaga kesehatan",
+          "discussion": "Alergi perlu ditangani serius; pengganti zat gizi dipilih bersama orang dewasa yang memahami kebutuhannya."
         },
         {
           "id": "K03-PJK-B08-M01-022",
           "type": "PG",
-          "text": "Apa prinsip memilih susunan makan agar zat gizi lebih beragam?",
+          "text": "Mengapa tidak ada satu makanan yang harus menggantikan semua makanan lain?",
           "options": [
-            "beragam sesuai kebutuhan tubuh",
-            "hanya makanan manis",
-            "hanya gorengan",
-            "hanya satu jenis makanan"
+            "setiap jenis makanan menyumbang zat dan fungsi yang berbeda",
+            "semua makanan memiliki kandungan yang persis sama",
+            "tubuh hanya membutuhkan satu zat gizi",
+            "makan beragam selalu membuat sakit"
           ],
-          "answer": "beragam sesuai kebutuhan tubuh",
-          "discussion": "Makanan bergizi seimbang: beragam sesuai kebutuhan tubuh."
+          "answer": "setiap jenis makanan menyumbang zat dan fungsi yang berbeda",
+          "discussion": "Keragaman membantu memenuhi berbagai kebutuhan tubuh."
         },
         {
           "id": "K03-PJK-B08-M01-023",
           "type": "PG",
-          "text": "Manakah pilihan lauk yang dapat menyumbang protein?",
+          "text": "Makanan dan minuman tinggi gula, garam, atau lemak sebaiknya ....",
           "options": [
-            "permen",
-            "minuman bersoda",
-            "kerupuk saja",
-            "telur, ikan, atau tempe"
+            "dibatasi jumlah dan frekuensinya, bukan dijadikan menu utama",
+            "dimakan tanpa batas setiap hari",
+            "menggantikan air putih dan makan utama",
+            "dilarang dengan cara mempermalukan anak"
           ],
-          "answer": "telur, ikan, atau tempe",
-          "discussion": "Sumber protein: telur, ikan, atau tempe."
+          "answer": "dibatasi jumlah dan frekuensinya, bukan dijadikan menu utama",
+          "discussion": "Pola makan dilihat secara keseluruhan; edukasi tidak perlu memberi cap buruk pada anak."
         },
         {
           "id": "K03-PJK-B08-M01-024",
           "type": "PG",
-          "text": "Apa peran penting buah dan sayur dalam menu harian?",
+          "text": "Sebelum membeli makanan kemasan, hal yang perlu diperiksa adalah ....",
           "options": [
-            "selalu harus digoreng",
-            "tidak berguna",
-            "menyumbang vitamin, mineral, dan serat",
-            "menggantikan semua makanan"
+            "tanggal kedaluwarsa, kondisi kemasan, dan informasi penting pada label",
+            "warna iklan saja",
+            "hadiah di dalam kemasan saja",
+            "ukuran gambar pada bungkus"
           ],
-          "answer": "menyumbang vitamin, mineral, dan serat",
-          "discussion": "Sayur dan buah: menyumbang vitamin, mineral, dan serat."
+          "answer": "tanggal kedaluwarsa, kondisi kemasan, dan informasi penting pada label",
+          "discussion": "Label dan kondisi kemasan membantu menilai keamanan serta kesesuaian produk."
         },
         {
           "id": "K03-PJK-B08-M01-025",
           "type": "PG",
-          "text": "Manakah manfaat zat gizi karbohidrat bagi tubuh?",
+          "text": "Mencuci tangan pakai sabun sebelum makan membantu ....",
           "options": [
-            "menggantikan air minum",
-            "menjadi salah satu sumber energi tubuh",
-            "selalu berbahaya",
-            "tidak boleh dimakan"
+            "mengurangi perpindahan kuman ke makanan",
+            "mengubah semua makanan menjadi bergizi",
+            "menggantikan kebutuhan mencuci bahan pangan",
+            "membuat tubuh tidak perlu istirahat"
           ],
-          "answer": "menjadi salah satu sumber energi tubuh",
-          "discussion": "Karbohidrat: menjadi salah satu sumber energi tubuh."
+          "answer": "mengurangi perpindahan kuman ke makanan",
+          "discussion": "Tangan bersih merupakan bagian keamanan pangan dan pola hidup bersih."
         },
         {
           "id": "K03-PJK-B08-M01-026",
           "type": "PG",
-          "text": "Mengapa air putih penting meskipun tidak menyumbang kalori seperti nasi?",
+          "text": "Makanan dalam kemasan menggembung, bocor, atau berbau tidak biasa sebaiknya ....",
           "options": [
-            "penting untuk membantu kebutuhan cairan",
-            "harus dihindari setelah bermain",
-            "tidak diperlukan",
-            "selalu diganti sirup"
+            "tidak dimakan dan dilaporkan kepada orang dewasa",
+            "tetap dicicipi untuk memastikan",
+            "dicampur dengan makanan lain",
+            "dipilih karena bentuknya menarik"
           ],
-          "answer": "penting untuk membantu kebutuhan cairan",
-          "discussion": "Air putih: penting untuk membantu kebutuhan cairan."
+          "answer": "tidak dimakan dan dilaporkan kepada orang dewasa",
+          "discussion": "Perubahan kemasan atau bau dapat menjadi tanda produk tidak aman."
         },
         {
           "id": "K03-PJK-B08-M01-027",
           "type": "PG",
-          "text": "Mengapa sarapan bergizi dapat mendukung kegiatan belajar dan gerak?",
+          "text": "Sarapan atau makan pagi yang beragam dapat ....",
           "options": [
-            "membuat tidak perlu makan lagi",
-            "hanya berupa permen",
-            "harus dilewatkan",
-            "membantu menyediakan energi untuk belajar dan bergerak"
+            "membantu menyediakan energi dan zat gizi untuk kegiatan pagi",
+            "membuat anak tidak perlu makan lagi seharian",
+            "hanya terdiri atas makanan manis",
+            "menjamin semua anak memiliki kebutuhan yang sama"
           ],
-          "answer": "membantu menyediakan energi untuk belajar dan bergerak",
-          "discussion": "Sarapan bergizi: membantu menyediakan energi untuk belajar dan bergerak."
+          "answer": "membantu menyediakan energi dan zat gizi untuk kegiatan pagi",
+          "discussion": "Menu menyesuaikan kondisi keluarga dan kebutuhan anak; tidak sarapan sekali bukan alasan mempermalukan."
         },
         {
           "id": "K03-PJK-B08-M01-028",
           "type": "PG",
-          "text": "Mengapa kebiasaan cuci tangan berkaitan dengan keamanan makanan?",
+          "text": "Menu makan siang berisi nasi, tempe, sayur, buah, dan air. Kelebihan menu itu adalah ....",
           "options": [
-            "mengganti olahraga",
-            "tidak penting",
-            "membantu mengurangi perpindahan kuman",
-            "membuat makanan lebih mahal"
+            "memuat beberapa kelompok pangan dan air",
+            "hanya mengandung satu zat gizi",
+            "tidak memiliki sumber protein",
+            "buah menggantikan seluruh makanan lain"
           ],
-          "answer": "membantu mengurangi perpindahan kuman",
-          "discussion": "Cuci tangan sebelum makan: membantu mengurangi perpindahan kuman."
+          "answer": "memuat beberapa kelompok pangan dan air",
+          "discussion": "Nasi, tempe, sayur, buah, dan air memberi keragaman fungsi pangan."
         },
         {
           "id": "K03-PJK-B08-M01-029",
           "type": "PG",
-          "text": "Mengapa tidur penting bagi pertumbuhan dan pemulihan?",
+          "text": "Pilihan jajanan yang lebih aman adalah ....",
           "options": [
-            "selalu membuang waktu",
-            "mendukung pertumbuhan dan pemulihan",
-            "menggantikan makan",
-            "berarti tidak perlu bergerak"
+            "makanan tertutup, tangan penjual bersih, dan belum kedaluwarsa",
+            "makanan terbuka di dekat sampah",
+            "kemasan bocor tanpa tanggal",
+            "makanan yang warnanya paling mencolok"
           ],
-          "answer": "mendukung pertumbuhan dan pemulihan",
-          "discussion": "Tidur cukup: mendukung pertumbuhan dan pemulihan."
+          "answer": "makanan tertutup, tangan penjual bersih, dan belum kedaluwarsa",
+          "discussion": "Kebersihan, perlindungan dari debu, dan tanggal aman lebih penting daripada tampilan."
         },
         {
           "id": "K03-PJK-B08-M01-030",
           "type": "PG",
-          "text": "Apa pertimbangan penting ketika memilih makanan ringan di sekolah?",
+          "text": "Pada label tertulis “baik digunakan sebelum 12 November”, sedangkan hari ini 15 November. Tindakan tepat adalah ....",
           "options": [
-            "utamakan yang bersih, aman, dan bergizi",
-            "pilih yang terbuka dekat sampah",
-            "pilih yang kedaluwarsa",
-            "pilih tanpa memperhatikan kebersihan"
+            "tidak membeli atau memakannya",
+            "membeli karena kemasan masih berwarna cerah",
+            "mencicipi sedikit untuk menguji",
+            "menghapus tanggal pada kemasan"
           ],
-          "answer": "utamakan yang bersih, aman, dan bergizi",
-          "discussion": "Pilihan jajanan: utamakan yang bersih, aman, dan bergizi."
+          "answer": "tidak membeli atau memakannya",
+          "discussion": "Tanggal pada contoh telah lewat, sehingga produk tidak dipilih."
         },
         {
           "id": "K03-PJK-B08-M01-031",
           "type": "PG",
-          "text": "Saat siswa bermain dan berjalan, ototnya bergerak dan energi digunakan. Kegiatan tersebut dikenal sebagai ....",
+          "text": "Cara membicarakan makanan dengan sehat adalah ....",
           "options": [
-            "hanya tidur",
-            "hanya menonton",
-            "hanya duduk",
-            "gerakan tubuh yang menggunakan energi"
+            "menilai pilihan dan kebiasaan tanpa memberi cap buruk pada tubuh atau anak",
+            "mengejek teman karena bekalnya berbeda",
+            "menyebut satu makanan pasti membuat gemuk",
+            "menyamakan harga makanan dengan nilai seseorang"
           ],
-          "answer": "gerakan tubuh yang menggunakan energi",
-          "discussion": "Aktivitas fisik: gerakan tubuh yang menggunakan energi."
+          "answer": "menilai pilihan dan kebiasaan tanpa memberi cap buruk pada tubuh atau anak",
+          "discussion": "Edukasi gizi berfokus pada kebutuhan, keamanan, keragaman, dan kebiasaan."
         },
         {
           "id": "K03-PJK-B08-M01-032",
           "type": "PG",
-          "text": "Piring keluarga memuat lauk, sayur, buah, dan makanan pokok. Apa prinsip pemilihan makannya?",
+          "text": "Ketika menu keluarga berbeda karena budaya, ketersediaan, atau biaya, prinsip yang tetap dapat dipakai adalah ....",
           "options": [
-            "hanya gorengan",
-            "hanya satu jenis makanan",
-            "beragam sesuai kebutuhan tubuh",
-            "hanya makanan manis"
+            "mencari keragaman dan fungsi zat gizi dari bahan yang tersedia",
+            "memaksa semua keluarga membeli bahan yang sama",
+            "menganggap makanan tradisional selalu buruk",
+            "menilai keluarga dari harga makanannya"
           ],
-          "answer": "beragam sesuai kebutuhan tubuh",
-          "discussion": "Makanan bergizi seimbang: beragam sesuai kebutuhan tubuh."
+          "answer": "mencari keragaman dan fungsi zat gizi dari bahan yang tersedia",
+          "discussion": "Pola seimbang dapat disusun dari banyak kombinasi bahan lokal dan terjangkau."
         },
         {
           "id": "K03-PJK-B08-M01-033",
           "type": "PG",
-          "text": "Di meja terdapat telur, ikan, dan tempe. Kelompok makanan ini dapat menjadi ....",
+          "text": "Jadwal menunjukkan 30 menit bermain aktif, 2 jam layar tanpa jeda, dan tidur terlambat. Perbaikan paling tepat adalah ....",
           "options": [
-            "kerupuk saja",
-            "telur, ikan, atau tempe",
-            "permen",
-            "minuman bersoda"
+            "menambah jeda layar dan menata waktu tidur lebih teratur",
+            "menghapus seluruh aktivitas fisik",
+            "menambah waktu layar sampai malam",
+            "melewatkan makan agar cepat tidur"
           ],
-          "answer": "telur, ikan, atau tempe",
-          "discussion": "Sumber protein: telur, ikan, atau tempe."
+          "answer": "menambah jeda layar dan menata waktu tidur lebih teratur",
+          "discussion": "Masalah pada jadwal adalah layar panjang tanpa jeda dan waktu tidur yang terlambat."
         },
         {
           "id": "K03-PJK-B08-M01-034",
           "type": "PG",
-          "text": "Saat makan, buah dan sayur melengkapi hidangan lain. Apa yang disumbangkannya?",
+          "text": "Menu hanya berisi nasi dan kerupuk. Tambahan yang paling melengkapi adalah ....",
           "options": [
-            "menyumbang vitamin, mineral, dan serat",
-            "menggantikan semua makanan",
-            "selalu harus digoreng",
-            "tidak berguna"
+            "lauk sumber protein serta sayur atau buah",
+            "nasi tambahan saja",
+            "kerupuk tambahan saja",
+            "minuman manis sebagai pengganti lauk"
           ],
-          "answer": "menyumbang vitamin, mineral, dan serat",
-          "discussion": "Sayur dan buah: menyumbang vitamin, mineral, dan serat."
+          "answer": "lauk sumber protein serta sayur atau buah",
+          "discussion": "Menu awal sudah memiliki makanan pokok, tetapi kurang keragaman protein serta sayur atau buah."
         },
         {
           "id": "K03-PJK-B08-M01-035",
           "type": "PG",
-          "text": "Setelah olahraga, nasi atau ubi menjadi salah satu sumber tenaga dari kelompok zat gizi apa?",
+          "text": "Rencana hari sehat yang paling lengkap adalah ....",
           "options": [
-            "selalu berbahaya",
-            "tidak boleh dimakan",
-            "menggantikan air minum",
-            "menjadi salah satu sumber energi tubuh"
+            "makan beragam, bergerak aman, minum, memakai waktu luang positif, dan tidur teratur",
+            "duduk sepanjang hari, makan satu jenis, dan tidur larut",
+            "berolahraga berat tanpa minum lalu melewatkan makan",
+            "bermain gawai tanpa jeda dan memilih makanan dari iklan saja"
           ],
-          "answer": "menjadi salah satu sumber energi tubuh",
-          "discussion": "Karbohidrat: menjadi salah satu sumber energi tubuh."
+          "answer": "makan beragam, bergerak aman, minum, memakai waktu luang positif, dan tidur teratur",
+          "discussion": "Pola hidup sehat merupakan gabungan kebiasaan, bukan satu tindakan saja."
         }
       ]
     }
