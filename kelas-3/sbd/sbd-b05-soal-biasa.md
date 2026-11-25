@@ -292,7 +292,7 @@
 
 ## Soal 19 — K03-SBD-B05-M01-019
 
-**Pertanyaan:** Dua potong sayap capung dibuat dari kemasan bekas. Agar seimbang, sayap sebaiknya ....
+**Pertanyaan:** Empat sayap capung dibuat dari kemasan bekas. Agar seimbang, sayap sebaiknya ....
 
 **Pilihan jawaban:**
 - dipasang pada sisi kiri dan kanan dengan posisi serasi
