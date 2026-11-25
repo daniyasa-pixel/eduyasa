@@ -17,7 +17,7 @@
   },
   "source_markdown": {
     "path": "kelas-3/pkn/pkn-b01-soal-biasa.md",
-    "sha256": "e1a1a452b9389f5675b2b4c85aa8d05e01c8b721d4ba64dfd2d1c104cb495d5e"
+    "sha256": "da210cc5f741b5baccdffaabff25278ce82cbf73ef7b9847af29c0b5731578a4"
   },
   "chapters": [
     {
@@ -274,7 +274,7 @@
         {
           "id": "K03-PKN-B01-M01-020",
           "type": "PG",
-          "text": "Jika sekolah berada di sebelah kanan taman pada denah, sekolah berada ...",
+          "text": "Pada denah, taman berada di sebelah kiri sekolah. Di manakah posisi sekolah terhadap taman?",
           "options": [
             "di kiri taman",
             "di bawah tanah",
@@ -282,7 +282,7 @@
             "di kanan taman"
           ],
           "answer": "di kanan taman",
-          "discussion": "Keterangan kanan pada denah menunjukkan posisi relatif."
+          "discussion": "Jika taman berada di kiri sekolah, sekolah berada di kanan taman."
         },
         {
           "id": "K03-PKN-B01-M01-021",
@@ -391,15 +391,15 @@
         {
           "id": "K03-PKN-B01-M01-029",
           "type": "PG",
-          "text": "Anak yang tinggal di Sulawesi dan anak yang tinggal di Jawa sama-sama ...",
+          "text": "Rani dan Bima sama-sama berkewarganegaraan Indonesia. Rani tinggal di Sulawesi, sedangkan Bima tinggal di Jawa. Keduanya tetap ...",
           "options": [
             "tidak boleh berteman",
-            "warga Indonesia jika berkewarganegaraan Indonesia",
+            "warga negara Indonesia",
             "harus memiliki hobi sama",
             "harus berbicara dengan logat sama"
           ],
-          "answer": "warga Indonesia jika berkewarganegaraan Indonesia",
-          "discussion": "Asal pulau yang berbeda tidak mengurangi kebersamaan sebagai warga negara."
+          "answer": "warga negara Indonesia",
+          "discussion": "Tempat tinggal di pulau yang berbeda tidak mengubah kewarganegaraan Indonesia mereka."
         },
         {
           "id": "K03-PKN-B01-M01-030",
@@ -443,7 +443,7 @@
         {
           "id": "K03-PKN-B01-M01-033",
           "type": "PG",
-          "text": "Kita bisa bangga menjadi orang Indonesia tanpa ...",
+          "text": "Perilaku yang tidak sesuai dengan sikap bangga menjadi orang Indonesia adalah ...",
           "options": [
             "merendahkan bangsa lain",
             "belajar budaya sendiri",
