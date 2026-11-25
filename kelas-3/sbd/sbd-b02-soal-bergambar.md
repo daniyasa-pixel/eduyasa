@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-SBD-B02-M01-036
 
-![Karya dengan lingkaran, garis berombak, dan pola titik](assets/sbd-b02-gambar-01.svg)
+![Tiga lingkaran kuning di atas tiga garis biru berombak dan pola titik merah di bagian bawah.](assets/sbd-b02-gambar-01.svg)
 
 **Pertanyaan:** Pernyataan manakah yang sesuai dengan unsur yang terlihat pada karya?
 
@@ -22,7 +22,7 @@
 
 ## Soal 37 — K03-SBD-B02-M01-037
 
-![Dua kartu komentar terhadap karya](assets/sbd-b02-gambar-02.svg)
+![Kartu kiri berisi komentar spesifik tentang garis; kartu kanan hanya menyebut jelek.](assets/sbd-b02-gambar-02.svg)
 
 **Pertanyaan:** Komentar manakah yang paling spesifik dan santun?
 
@@ -40,7 +40,7 @@
 
 ## Soal 38 — K03-SBD-B02-M01-038
 
-![Urutan kartu presentasi karya](assets/sbd-b02-gambar-03.svg)
+![Tiga kartu berurutan berisi judul, ide, dan satu kartu kosong bertanda tanya.](assets/sbd-b02-gambar-03.svg)
 
 **Pertanyaan:** Kartu presentasi ketiga masih kosong. Informasi yang paling tepat untuk melengkapinya adalah ....
 
@@ -58,7 +58,7 @@
 
 ## Soal 39 — K03-SBD-B02-M01-039
 
-![Susunan bentuk seimbang](assets/sbd-b02-gambar-04.svg)
+![Dua bentuk di kiri dan dua bentuk berbeda di kanan mengapit lingkaran kecil di tengah.](assets/sbd-b02-gambar-04.svg)
 
 **Pertanyaan:** Apa yang dapat dikatakan tentang susunan bentuk pada gambar?
 
@@ -76,7 +76,7 @@
 
 ## Soal 40 — K03-SBD-B02-M01-040
 
-![Dua kesan terhadap satu karya](assets/sbd-b02-gambar-05.svg)
+![Satu karya abstrak di tengah; pengunjung kiri berkata tenang dan pengunjung kanan berkata ramai.](assets/sbd-b02-gambar-05.svg)
 
 **Pertanyaan:** Dua pengunjung memberi kesan berbeda terhadap karya yang sama. Kesimpulan yang tepat adalah ....
 
@@ -94,7 +94,7 @@
 
 ## Soal 41 — K03-SBD-B02-M01-041
 
-![Mendengarkan dan menyela presentasi](assets/sbd-b02-gambar-06.svg)
+![Kelompok kiri menghadap penyaji dan mengangkat tangan; kelompok kanan saling berbicara ketika penyaji menjelaskan.](assets/sbd-b02-gambar-06.svg)
 
 **Pertanyaan:** Perilaku mendengarkan yang tepat ditunjukkan oleh ....
 
@@ -112,7 +112,7 @@
 
 ## Soal 42 — K03-SBD-B02-M01-042
 
-![Garis biru dan lingkaran kuning](assets/sbd-b02-gambar-07.svg)
+![Tiga garis biru berombak dan satu lingkaran kuning tanpa keterangan makna.](assets/sbd-b02-gambar-07.svg)
 
 **Pertanyaan:** Manakah kalimat pengamatan yang sesuai dengan gambar?
 
@@ -130,7 +130,7 @@
 
 ## Soal 43 — K03-SBD-B02-M01-043
 
-![Dua bentuk tanggapan karya](assets/sbd-b02-gambar-08.svg)
+![Kartu kiri memberi saran jarak bentuk; kartu kanan memerintahkan membuang karya.](assets/sbd-b02-gambar-08.svg)
 
 **Pertanyaan:** Tanggapan manakah yang berupa saran membangun?
 
@@ -148,7 +148,7 @@
 
 ## Soal 44 — K03-SBD-B02-M01-044
 
-![Karya campuran krayon dan potongan kertas](assets/sbd-b02-gambar-09.svg)
+![Jejak krayon pada latar dan potongan kertas warna berbentuk rumah yang ditempel.](assets/sbd-b02-gambar-09.svg)
 
 **Pertanyaan:** Berdasarkan karya dan bahan yang terlihat, penjelasan proses yang paling sesuai adalah ....
 
@@ -166,7 +166,7 @@
 
 ## Soal 45 — K03-SBD-B02-M01-045
 
-![Catatan kelebihan dan rencana perbaikan](assets/sbd-b02-gambar-10.svg)
+![Dua kartu catatan: pola titik berhasil dan rencana merapikan garis tepi.](assets/sbd-b02-gambar-10.svg)
 
 **Pertanyaan:** Catatan refleksi pada gambar menunjukkan bahwa pembuat ....
 
