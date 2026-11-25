@@ -17,7 +17,7 @@
   },
   "source_markdown": {
     "path": "kelas-3/pkn/pkn-b02-soal-biasa.md",
-    "sha256": "ee43eff1cc4ccbd8473573f5d3dd7c9c030592961b4732502230eb439d74b7b4"
+    "sha256": "e34bbcf87eb5bb5ad7546b7a4773ec41a23dfbd1101cc1252b0b7fd179f33228"
   },
   "chapters": [
     {
@@ -555,7 +555,7 @@
             "sesuka hati dengan merugikan orang lain"
           ],
           "answer": "secara seimbang",
-          "discussion": "Menjalankan kewajiban membantu hak bersama terpenuhi."
+          "discussion": "Hak setiap orang harus dihormati dan kewajiban dilakukan dengan tanggung jawab. Hak dasar anak tidak boleh dicabut karena tugas belum selesai."
         },
         {
           "id": "K03-PKN-B02-M01-042",
@@ -664,15 +664,15 @@
         {
           "id": "K03-PKN-B02-M01-050",
           "type": "PG",
-          "text": "Kalau kamu belum melaksanakan kewajiban tetapi meminta hak, langkah baik ialah ...",
+          "text": "Kamu belum merapikan mainan sesuai kesepakatan, tetapi sudah waktunya makan. Apa tindakan yang tepat?",
           "options": [
-            "menjalankan kewajiban sesuai kemampuan tanpa kehilangan hak dasar",
-            "mengambil hak orang lain",
-            "menyalahkan teman",
-            "mengabaikan tugas terus"
+            "tetap makan saat waktunya dan menyelesaikan tugas sesuai kemampuan",
+            "tidak boleh makan sampai semua tugas selesai",
+            "mengambil makanan milik teman",
+            "mengabaikan tugas merapikan mainan selamanya"
           ],
-          "answer": "menjalankan kewajiban sesuai kemampuan tanpa kehilangan hak dasar",
-          "discussion": "Hak dasar anak tetap berlaku; kewajiban perlu dilakukan dengan tanggung jawab."
+          "answer": "tetap makan saat waktunya dan menyelesaikan tugas sesuai kemampuan",
+          "discussion": "Makan merupakan kebutuhan dan hak dasar anak. Kewajiban merapikan mainan tetap perlu dilakukan dengan tanggung jawab."
         }
       ]
     }
