@@ -198,7 +198,7 @@ Bank ini terpisah untuk pengacakan 5 soal gambar per sesi.
 
 **Kunci jawaban:** Bahasa Indonesia
 
-**Pembahasan:** Panel ketiga menampilkan Bahasa Indonesia.
+**Pembahasan:** Panel ketiga menampilkan tulisan Bahasa Indonesia sebagai bahasa yang digunakan bersama.
 
 ---
 
