@@ -262,13 +262,13 @@ Semua soal dalam dokumen ini tidak memakai gambar.
 
 ## Soal 17 — K03-PKN-B04-M01-017
 
-**Pertanyaan:** Saat kerja bakti bersama tanpa membeda-bedakan suku, kita menerapkan sila ...
+**Pertanyaan:** Kerja bakti yang melibatkan warga dari berbagai suku memperkuat persatuan. Nilai yang paling langsung ditunjukkan berasal dari sila ...
 
 **Pilihan jawaban:**
 - ketiga
-- pertama saja
-- kedua saja
-- kelima saja
+- pertama
+- kedua
+- kelima
 
 **Kunci jawaban:** ketiga
 
@@ -486,15 +486,15 @@ Semua soal dalam dokumen ini tidak memakai gambar.
 
 ## Soal 31 — K03-PKN-B04-M01-031
 
-**Pertanyaan:** Tanggal 1 Juni diperingati sebagai hari ...
+**Pertanyaan:** Apa nama hari peringatan nasional pada tanggal 1 Juni?
 
 **Pilihan jawaban:**
 - Kemerdekaan Republik Indonesia
 - Pendidikan Nasional
 - Sumpah Pemuda
-- Kelahiran Pancasila
+- Hari Lahir Pancasila
 
-**Kunci jawaban:** Kelahiran Pancasila
+**Kunci jawaban:** Hari Lahir Pancasila
 
 **Pembahasan:** Tanggal 1 Juni adalah Hari Lahir Pancasila.
 
@@ -502,7 +502,7 @@ Semua soal dalam dokumen ini tidak memakai gambar.
 
 ## Soal 32 — K03-PKN-B04-M01-032
 
-**Pertanyaan:** Tanggal 17 Agustus 1945 diperingati sebagai hari ...
+**Pertanyaan:** Peristiwa apa yang terjadi pada 17 Agustus 1945 di Indonesia?
 
 **Pilihan jawaban:**
 - Proklamasi Kemerdekaan Indonesia
@@ -512,7 +512,7 @@ Semua soal dalam dokumen ini tidak memakai gambar.
 
 **Kunci jawaban:** Proklamasi Kemerdekaan Indonesia
 
-**Pembahasan:** Indonesia memproklamasikan kemerdekaan pada 17 Agustus 1945.
+**Pembahasan:** Pada tanggal 17 Agustus 1945, Indonesia memproklamasikan kemerdekaannya.
 
 ---
 
