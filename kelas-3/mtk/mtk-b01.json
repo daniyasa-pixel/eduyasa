@@ -20,7 +20,7 @@
   },
   "source_markdown": {
     "path": "kelas-3/mtk/mtk-b01-soal-biasa.md",
-    "sha256": "36008f1b25bd9b308a1f0fcc765734ed8294ba2ac62dd3fe5b67e965c52ff0a6"
+    "sha256": "05c650b6fe564caa9b173a19ff6a17d08ba06ff44d211076941dee795362c458"
   },
   "chapters": [
     {
@@ -160,7 +160,7 @@
         {
           "id": "K03-MTK-B01-M01-011",
           "type": "PG",
-          "text": "Nilai tempat ratusan pada bilangan $346$ adalah ...",
+          "text": "Nilai angka pada tempat ratusan pada bilangan $346$ adalah ...",
           "options": [
             "$300$",
             "$310$",
@@ -168,12 +168,12 @@
             "$301$"
           ],
           "answer": "$300$",
-          "discussion": "Nilai tempat ratusan pada $346$ ialah $300$."
+          "discussion": "Nilai angka pada tempat ratusan pada $346$ ialah $300$."
         },
         {
           "id": "K03-MTK-B01-M01-012",
           "type": "PG",
-          "text": "Nilai tempat puluhan pada bilangan $583$ adalah ...",
+          "text": "Nilai angka pada tempat puluhan pada bilangan $583$ adalah ...",
           "options": [
             "$81$",
             "$80$",
@@ -181,12 +181,12 @@
             "$70$"
           ],
           "answer": "$80$",
-          "discussion": "Nilai tempat puluhan pada $583$ ialah $80$."
+          "discussion": "Nilai angka pada tempat puluhan pada $583$ ialah $80$."
         },
         {
           "id": "K03-MTK-B01-M01-013",
           "type": "PG",
-          "text": "Nilai tempat satuan pada bilangan $274$ adalah ...",
+          "text": "Nilai angka pada tempat satuan pada bilangan $274$ adalah ...",
           "options": [
             "$104$",
             "$4$",
@@ -194,12 +194,12 @@
             "$5$"
           ],
           "answer": "$4$",
-          "discussion": "Nilai tempat satuan pada $274$ ialah $4$."
+          "discussion": "Nilai angka pada tempat satuan pada $274$ ialah $4$."
         },
         {
           "id": "K03-MTK-B01-M01-014",
           "type": "PG",
-          "text": "Nilai tempat puluhan pada bilangan $907$ adalah ...",
+          "text": "Nilai angka pada tempat puluhan pada bilangan $907$ adalah ...",
           "options": [
             "$1$",
             "$100$",
@@ -207,12 +207,12 @@
             "$10$"
           ],
           "answer": "$0$",
-          "discussion": "Nilai tempat puluhan pada $907$ ialah $0$."
+          "discussion": "Nilai angka pada tempat puluhan pada $907$ ialah $0$."
         },
         {
           "id": "K03-MTK-B01-M01-015",
           "type": "PG",
-          "text": "Nilai tempat ratusan pada bilangan $650$ adalah ...",
+          "text": "Nilai angka pada tempat ratusan pada bilangan $650$ adalah ...",
           "options": [
             "$610$",
             "$590$",
@@ -220,7 +220,7 @@
             "$600$"
           ],
           "answer": "$600$",
-          "discussion": "Nilai tempat ratusan pada $650$ ialah $600$."
+          "discussion": "Nilai angka pada tempat ratusan pada $650$ ialah $600$."
         },
         {
           "id": "K03-MTK-B01-M01-016",
