@@ -278,17 +278,17 @@ Bank gambar terpisah; setiap gambar menjadi stimulus dua soal. Gambar merupakan 
 
 ![Ayu berasal dari Jawa, Bimo dari Sulawesi, dan keduanya tinggal di Indonesia.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-08.svg)
 
-**Pertanyaan:** Walau berasal dari dua pulau berbeda, Ayu dan Bimo tetap ...
+**Pertanyaan:** Menurut gambar, meskipun berasal dari dua pulau berbeda, Ayu dan Bimo sama-sama tinggal di ...
 
 **Pilihan jawaban:**
-- anak Indonesia
-- wajib sama hobinya
-- tidak boleh berteman
-- berasal dari satu desa
+- Indonesia
+- satu desa yang sama
+- satu pulau yang sama
+- negara lain
 
-**Kunci jawaban:** anak Indonesia
+**Kunci jawaban:** Indonesia
 
-**Pembahasan:** Panel ketiga menunjukkan keduanya Indonesia.
+**Pembahasan:** Keterangan pada gambar menunjukkan bahwa Ayu dan Bimo tinggal di Indonesia.
 
 ---
 
