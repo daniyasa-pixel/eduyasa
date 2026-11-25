@@ -17,7 +17,7 @@
   },
   "source_markdown": {
     "path": "kelas-3/pkn/pkn-b04-soal-biasa.md",
-    "sha256": "dca6c8acb5a276689a496ec377826b794246162d1bc4e5048c9cdeddedf2c9be"
+    "sha256": "e42ad680d46e9f1dce9b568587377957ea31ac024bc07d38b7138a23f16814ae"
   },
   "chapters": [
     {
@@ -235,12 +235,12 @@
         {
           "id": "K03-PKN-B04-M01-017",
           "type": "PG",
-          "text": "Saat kerja bakti bersama tanpa membeda-bedakan suku, kita menerapkan sila ...",
+          "text": "Kerja bakti yang melibatkan warga dari berbagai suku memperkuat persatuan. Nilai yang paling langsung ditunjukkan berasal dari sila ...",
           "options": [
             "ketiga",
-            "pertama saja",
-            "kedua saja",
-            "kelima saja"
+            "pertama",
+            "kedua",
+            "kelima"
           ],
           "answer": "ketiga",
           "discussion": "Kerja sama yang mempersatukan mencerminkan sila ketiga."
@@ -417,20 +417,20 @@
         {
           "id": "K03-PKN-B04-M01-031",
           "type": "PG",
-          "text": "Tanggal 1 Juni diperingati sebagai hari ...",
+          "text": "Apa nama hari peringatan nasional pada tanggal 1 Juni?",
           "options": [
             "Kemerdekaan Republik Indonesia",
             "Pendidikan Nasional",
             "Sumpah Pemuda",
-            "Kelahiran Pancasila"
+            "Hari Lahir Pancasila"
           ],
-          "answer": "Kelahiran Pancasila",
+          "answer": "Hari Lahir Pancasila",
           "discussion": "Tanggal 1 Juni adalah Hari Lahir Pancasila."
         },
         {
           "id": "K03-PKN-B04-M01-032",
           "type": "PG",
-          "text": "Tanggal 17 Agustus 1945 diperingati sebagai hari ...",
+          "text": "Peristiwa apa yang terjadi pada 17 Agustus 1945 di Indonesia?",
           "options": [
             "Proklamasi Kemerdekaan Indonesia",
             "Kelahiran Pancasila",
@@ -438,7 +438,7 @@
             "Hari Pendidikan Nasional"
           ],
           "answer": "Proklamasi Kemerdekaan Indonesia",
-          "discussion": "Indonesia memproklamasikan kemerdekaan pada 17 Agustus 1945."
+          "discussion": "Pada tanggal 17 Agustus 1945, Indonesia memproklamasikan kemerdekaannya."
         },
         {
           "id": "K03-PKN-B04-M01-033",
