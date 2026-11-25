@@ -11,457 +11,457 @@
         {
           "id": "K03-SBD-B04-M01-001",
           "type": "PG",
-          "text": "Fina membuat gambar wajah dan ciri dirinya untuk menceritakan siapa dirinya. Jenis karya ini menggambarkan ....",
+          "text": "Kolase adalah karya dua dimensi yang dibuat dengan cara ....",
           "options": [
-            "hanya bangunan",
-            "diri pembuat karya",
-            "hanya pemandangan",
-            "hanya hewan"
+            "menyusun dan menempel berbagai bahan pada bidang",
+            "meniup warna tanpa bidang",
+            "memahat batu menjadi patung",
+            "merekam bunyi lingkungan"
           ],
-          "answer": "diri pembuat karya",
-          "discussion": "Potret diri adalah karya yang menggambarkan diri pembuat karya."
+          "answer": "menyusun dan menempel berbagai bahan pada bidang",
+          "discussion": "Kolase menggabungkan potongan bahan melalui susunan dan tempelan pada permukaan datar."
         },
         {
           "id": "K03-SBD-B04-M01-002",
           "type": "PG",
-          "text": "Raka ingin menunjukkan kesukaannya membaca lewat sebuah simbol sederhana. Objek apa yang cocok digambar?",
+          "text": "Perbedaan utama kolase dan gambar pensil biasa adalah kolase ....",
           "options": [
-            "sepeda",
-            "panci",
-            "buku terbuka",
-            "bola basket"
+            "memakai bahan yang ditempel sebagai unsur karya",
+            "selalu dibuat tanpa rancangan",
+            "hanya boleh memakai satu warna",
+            "tidak memiliki bentuk atau tekstur"
           ],
-          "answer": "buku terbuka",
-          "discussion": "Simbol hobi membaca dapat digambarkan dengan buku terbuka."
+          "answer": "memakai bahan yang ditempel sebagai unsur karya",
+          "discussion": "Pada kolase, kertas, kain, daun, atau bahan lain menjadi bagian visual yang ditempel."
         },
         {
           "id": "K03-SBD-B04-M01-003",
           "type": "PG",
-          "text": "Dina memilih warna ungu karena menyukainya, walaupun teman memilih hijau. Tujuan penggunaan warna pribadi adalah ....",
+          "text": "Kelompok alat yang tepat untuk kegiatan kolase adalah ....",
           "options": [
-            "menentukan nilai teman",
-            "mengganti nama",
-            "menyembunyikan karya",
-            "menunjukkan selera pribadi"
+            "pensil, gunting, lem, dan krayon",
+            "sendok panas, paku, dan kaca",
+            "kompor, pisau dapur, dan bensin",
+            "peluit, drum, dan mikrofon"
           ],
-          "answer": "menunjukkan selera pribadi",
-          "discussion": "Warna kesukaan pada karya diri dapat dipilih untuk menunjukkan selera pribadi."
+          "answer": "pensil, gunting, lem, dan krayon",
+          "discussion": "Pensil membantu merancang, gunting memotong, lem merekatkan, dan krayon memberi warna."
         },
         {
           "id": "K03-SBD-B04-M01-004",
           "type": "PG",
-          "text": "Saat menempelkan label pada hasil karyanya, Sita tidak ingin menulis nama panjang. Identitas yang dapat digunakan adalah ....",
+          "text": "Fungsi gunting dalam membuat kolase adalah ....",
           "options": [
-            "nama atau inisial pembuat",
-            "kata ejekan",
-            "data rahasia keluarga",
-            "kata kasar"
+            "memotong bahan sesuai bentuk yang diperlukan",
+            "merekatkan potongan pada bidang",
+            "menghapus garis sketsa",
+            "mencampur warna cair"
           ],
-          "answer": "nama atau inisial pembuat",
-          "discussion": "Identitas pada karya dapat ditulis berupa nama atau inisial pembuat."
+          "answer": "memotong bahan sesuai bentuk yang diperlukan",
+          "discussion": "Gunting merupakan alat potong dan harus digunakan sesuai petunjuk keselamatan."
         },
         {
           "id": "K03-SBD-B04-M01-005",
           "type": "PG",
-          "text": "Seorang anak ingin mengabadikan perjalanan ke pantai. Informasi visual yang tepat untuk karya kenangan itu berupa ....",
+          "text": "Fungsi lem kertas pada kolase adalah ....",
           "options": [
-            "tabel harga",
-            "tempat dan kegiatan yang diingat",
-            "hanya angka acak",
-            "jadwal pelajaran orang lain"
+            "merekatkan potongan bahan pada bidang",
+            "membuat garis sketsa",
+            "memotong kain tebal",
+            "mengeringkan daun"
           ],
-          "answer": "tempat dan kegiatan yang diingat",
-          "discussion": "Karya tentang pengalaman liburan dapat menggambarkan tempat dan kegiatan yang diingat."
+          "answer": "merekatkan potongan bahan pada bidang",
+          "discussion": "Lem digunakan secukupnya agar bahan menempel tanpa membuat karya terlalu basah."
         },
         {
           "id": "K03-SBD-B04-M01-006",
           "type": "PG",
-          "text": "Pada ilustrasi kegiatan menyenangkan, tokoh tersenyum lebar. Ekspresi ini biasanya menunjukkan ....",
+          "text": "Pensil paling berguna pada tahap awal kolase untuk ....",
           "options": [
-            "perasaan takut",
-            "perasaan bosan",
-            "perasaan senang",
-            "perasaan marah"
+            "membuat sketsa penempatan bentuk",
+            "menggantikan lem",
+            "memotong daun",
+            "mengeringkan kertas"
           ],
-          "answer": "perasaan senang",
-          "discussion": "Ekspresi wajah tersenyum sering menunjukkan perasaan senang."
+          "answer": "membuat sketsa penempatan bentuk",
+          "discussion": "Sketsa tipis membantu merencanakan ukuran dan posisi sebelum bahan dipotong."
         },
         {
           "id": "K03-SBD-B04-M01-007",
           "type": "PG",
-          "text": "Tokoh dalam komik tampak menangis, alisnya menurun. Perasaan yang mungkin diwakili adalah ....",
+          "text": "Krayon atau pensil warna termasuk ....",
           "options": [
-            "gembira",
-            "bangga",
-            "terkejut",
-            "sedih"
+            "pewarna kering",
+            "alat potong",
+            "alat tempel",
+            "bahan makanan"
           ],
-          "answer": "sedih",
-          "discussion": "Ekspresi wajah dengan alis menurun dan air mata dapat menunjukkan sedih."
+          "answer": "pewarna kering",
+          "discussion": "Krayon dan pensil warna memberi warna tanpa menggunakan cairan."
         },
         {
           "id": "K03-SBD-B04-M01-008",
           "type": "PG",
-          "text": "Dua anak menggambar potret diri dengan gaya berbeda. Persamaan seperti apa yang tidak wajib dipaksakan pada kedua karya?",
+          "text": "Bahan yang dapat memberi variasi pada kolase adalah ....",
           "options": [
-            "sama persis dengan karya teman",
-            "memiliki tema",
-            "dibuat dengan usaha",
-            "menampilkan pilihan pribadi"
+            "kertas warna, kain perca, dan daun kering",
+            "kaca pecah, paku, dan kawat tajam",
+            "makanan basah dan minuman",
+            "obat serta cairan tanpa label"
           ],
-          "answer": "sama persis dengan karya teman",
-          "discussion": "Karya yang mewakili diri tidak harus sama persis dengan karya teman."
+          "answer": "kertas warna, kain perca, dan daun kering",
+          "discussion": "Bahan kolase dapat beragam selama bersih, kering, aman, dan sesuai bidang."
         },
         {
           "id": "K03-SBD-B04-M01-009",
           "type": "PG",
-          "text": "Nina membuat gambar saat berlatih menari untuk mengenalkan kesukaannya. Kegiatan berkarya itu membantu ....",
+          "text": "Sebelum memakai bahan temuan, siswa perlu memastikan bahan itu ....",
           "options": [
-            "mengganti teman",
-            "menceritakan minat diri",
-            "menghilangkan hobi",
-            "mengubah nama"
+            "bersih, kering, dan tidak tajam",
+            "basah agar mudah berjamur",
+            "berbau bahan kimia kuat",
+            "memiliki tepi yang melukai"
           ],
-          "answer": "menceritakan minat diri",
-          "discussion": "Menggambar kegiatan favorit membantu menceritakan minat diri."
+          "answer": "bersih, kering, dan tidak tajam",
+          "discussion": "Pemeriksaan bahan melindungi tangan, karya, dan kebersihan ruang belajar."
         },
         {
           "id": "K03-SBD-B04-M01-010",
           "type": "PG",
-          "text": "Seorang teman menggambar wajah dengan bentuk berbeda dari wajah kita. Sikap menghargai karya adalah ....",
+          "text": "Cara memperoleh daun untuk kolase yang paling bertanggung jawab adalah ....",
           "options": [
-            "mencoret wajah",
-            "menghina warna kulit",
-            "tidak mengejek ciri fisiknya",
-            "menertawakan bentuk tubuh"
+            "mengambil daun kering yang sudah jatuh dan diizinkan",
+            "memetik semua daun muda",
+            "merusak tanaman sekolah",
+            "mengambil tanaman milik orang tanpa izin"
           ],
-          "answer": "tidak mengejek ciri fisiknya",
-          "discussion": "Menghargai gambar diri teman berarti tidak mengejek ciri fisiknya."
+          "answer": "mengambil daun kering yang sudah jatuh dan diizinkan",
+          "discussion": "Bahan alam dikumpulkan tanpa merusak tanaman dan dengan mengikuti aturan lingkungan."
         },
         {
           "id": "K03-SBD-B04-M01-011",
           "type": "PG",
-          "text": "Untuk mengenalkan kegemarannya, Rafi membuat kolase berisi sepeda dan buku. Bahan isi yang cocok adalah ....",
+          "text": "Plastik bekas hanya layak digunakan pada kolase jika ....",
           "options": [
-            "hanya sampah kotor",
-            "benda berbahaya",
-            "informasi rahasia",
-            "gambar aktivitas dan benda kesukaan"
+            "sudah dibersihkan, aman, dan digunakan seperlunya",
+            "masih berisi sisa bahan berbahaya",
+            "memiliki ujung tajam",
+            "dibakar lebih dahulu"
           ],
-          "answer": "gambar aktivitas dan benda kesukaan",
-          "discussion": "Kolase identitas diri dapat memuat gambar aktivitas dan benda kesukaan."
+          "answer": "sudah dibersihkan, aman, dan digunakan seperlunya",
+          "discussion": "Plastik perlu diperiksa kebersihan dan keamanannya serta tidak dijadikan alasan menambah sampah."
         },
         {
           "id": "K03-SBD-B04-M01-012",
           "type": "PG",
-          "text": "Guru meminta murid menjelaskan alasan memilih simbol bintang pada gambar diri. Cara menyampaikan penjelasan yang tepat adalah ....",
+          "text": "Kain perca dan kertas licin dapat memberi perbedaan terutama pada ....",
           "options": [
-            "menyampaikan makna gambar dengan percaya diri dan santun",
-            "merendahkan karya teman",
-            "berbohong tentang proses",
-            "memaksa semua orang setuju"
+            "tekstur permukaan",
+            "suara musik",
+            "rasa makanan",
+            "suhu ruangan"
           ],
-          "answer": "menyampaikan makna gambar dengan percaya diri dan santun",
-          "discussion": "Saat menjelaskan karya sendiri, kita sebaiknya menyampaikan makna gambar dengan percaya diri dan santun."
+          "answer": "tekstur permukaan",
+          "discussion": "Bahan berbeda dapat memberi kesan kasar, lembut, licin, atau berpori pada kolase."
         },
         {
           "id": "K03-SBD-B04-M01-013",
           "type": "PG",
-          "text": "Pada karya, anak menempatkan gambar rumah untuk menunjukkan hal yang dekat dengan hidupnya. Rumah dapat melambangkan ....",
+          "text": "Tema kolase yang sesuai dengan lingkungan sekitar adalah ....",
           "options": [
-            "ukuran sepatu",
-            "tempat tinggal atau keluarga",
-            "bunyi alat musik",
-            "rasa makanan"
+            "taman sekolah dengan pohon, jalan, dan tempat sampah",
+            "daftar nilai pribadi teman",
+            "alamat rumah seluruh siswa",
+            "harga barang di toko"
           ],
-          "answer": "tempat tinggal atau keluarga",
-          "discussion": "Bentuk rumah dalam karya pribadi dapat melambangkan tempat tinggal atau keluarga."
+          "answer": "taman sekolah dengan pohon, jalan, dan tempat sampah",
+          "discussion": "Lingkungan sekitar dapat menjadi sumber cerita dan objek kolase tanpa membuka data pribadi."
         },
         {
           "id": "K03-SBD-B04-M01-014",
           "type": "PG",
-          "text": "Di dalam tugas bertema keluargaku, siswa ingin menggambar kegiatan makan bersama. Apa yang dapat ditampilkan?",
+          "text": "Sebelum memilih potongan bahan, kelompok perlu menentukan ....",
           "options": [
-            "daftar harga",
-            "peta cuaca",
-            "anggota keluarga atau kegiatan bersama",
-            "hanya angka ujian"
+            "tema atau cerita yang ingin disampaikan",
+            "siapa yang karyanya paling mahal",
+            "cara membuat semua karya sama",
+            "nilai anggota kelompok"
           ],
-          "answer": "anggota keluarga atau kegiatan bersama",
-          "discussion": "Memilih tema keluargaku berarti karya dapat menampilkan anggota keluarga atau kegiatan bersama."
+          "answer": "tema atau cerita yang ingin disampaikan",
+          "discussion": "Tema membantu memilih bentuk, warna, bahan, dan susunan yang saling berkaitan."
         },
         {
           "id": "K03-SBD-B04-M01-015",
           "type": "PG",
-          "text": "Setelah melukis, cat dan kertas menumpuk di meja. Kebiasaan baik berikutnya adalah ....",
+          "text": "Sketsa kolase berfungsi untuk ....",
           "options": [
-            "membuang cat ke lantai",
-            "meninggalkan gunting terbuka",
-            "merusak karya teman",
-            "merapikan alat dan tempat kerja"
+            "merencanakan letak dan ukuran unsur",
+            "menggantikan semua bahan tempel",
+            "membuat gunting menjadi tumpul",
+            "menentukan nilai akhir sebelum bekerja"
           ],
-          "answer": "merapikan alat dan tempat kerja",
-          "discussion": "Setelah berkarya, sikap baik adalah merapikan alat dan tempat kerja."
+          "answer": "merencanakan letak dan ukuran unsur",
+          "discussion": "Sketsa menjadi panduan awal dan boleh diubah saat susunan bahan dicoba."
         },
         {
           "id": "K03-SBD-B04-M01-016",
           "type": "PG",
-          "text": "Anak membuat gambar dirinya memakai seragam pramuka. Apa yang ingin diwujudkan melalui karya potret tersebut?",
+          "text": "Untuk membuat gambar rumah dari potongan sederhana, bentuk yang dapat digabungkan adalah ....",
           "options": [
-            "diri pembuat karya",
-            "hanya pemandangan",
-            "hanya hewan",
-            "hanya bangunan"
+            "persegi panjang dan segitiga",
+            "hanya satu titik",
+            "garis tanpa bidang",
+            "warna tanpa bentuk"
           ],
-          "answer": "diri pembuat karya",
-          "discussion": "Potret diri adalah karya yang menggambarkan diri pembuat karya."
+          "answer": "persegi panjang dan segitiga",
+          "discussion": "Persegi panjang dapat menjadi badan rumah dan segitiga menjadi atap."
         },
         {
           "id": "K03-SBD-B04-M01-017",
           "type": "PG",
-          "text": "Ketika ingin menggambar minat membaca, anak memilih ikon benda yang sering dibuka untuk dibaca. Benda apa itu?",
+          "text": "Saat menggunting pola, posisi yang lebih aman adalah ....",
           "options": [
-            "panci",
-            "buku terbuka",
-            "bola basket",
-            "sepeda"
+            "memotong menjauh dari tangan dengan perhatian pada garis",
+            "mengarahkan bilah ke telapak tangan",
+            "berjalan sambil menggunting",
+            "mengangkat gunting dekat wajah"
           ],
-          "answer": "buku terbuka",
-          "discussion": "Simbol hobi membaca dapat digambarkan dengan buku terbuka."
+          "answer": "memotong menjauh dari tangan dengan perhatian pada garis",
+          "discussion": "Arah potong dan posisi tangan perlu dijaga; gunakan gunting anak sesuai arahan guru."
         },
         {
           "id": "K03-SBD-B04-M01-018",
           "type": "PG",
-          "text": "Guru memberi kebebasan memilih warna pada gambar pribadi. Apa alasan pilihan warna tersebut layak dihargai?",
+          "text": "Cara menyerahkan gunting kepada teman adalah ....",
           "options": [
-            "mengganti nama",
-            "menyembunyikan karya",
-            "menunjukkan selera pribadi",
-            "menentukan nilai teman"
+            "menutup bilah dan mengarahkan gagang kepada penerima",
+            "memberi bagian ujung yang terbuka",
+            "melemparkannya di atas meja",
+            "menyembunyikannya di bawah kertas"
           ],
-          "answer": "menunjukkan selera pribadi",
-          "discussion": "Warna kesukaan pada karya diri dapat dipilih untuk menunjukkan selera pribadi."
+          "answer": "menutup bilah dan mengarahkan gagang kepada penerima",
+          "discussion": "Bilah tertutup dan gagang menghadap penerima mengurangi risiko terluka."
         },
         {
           "id": "K03-SBD-B04-M01-019",
           "type": "PG",
-          "text": "Seorang murid malu menuliskan nama lengkap pada halaman pajangan karya. Identitas singkat yang dapat ditulis berupa ....",
+          "text": "Siswa yang belum nyaman memakai gunting dapat membuat potongan dengan ....",
           "options": [
-            "kata ejekan",
-            "data rahasia keluarga",
-            "kata kasar",
-            "nama atau inisial pembuat"
+            "merobek kertas atau memakai bentuk siap potong",
+            "memakai pisau tajam sendiri",
+            "mematahkan kaca",
+            "membakar tepi kertas"
           ],
-          "answer": "nama atau inisial pembuat",
-          "discussion": "Identitas pada karya dapat ditulis berupa nama atau inisial pembuat."
+          "answer": "merobek kertas atau memakai bentuk siap potong",
+          "discussion": "Merobek atau memakai potongan yang disiapkan memberi akses berkarya tanpa mengabaikan keselamatan."
         },
         {
           "id": "K03-SBD-B04-M01-020",
           "type": "PG",
-          "text": "Rina menggambarkan saat ia melihat pegunungan bersama keluarga. Jenis kenangan yang diperlihatkan adalah ....",
+          "text": "Sebelum potongan diberi lem, langkah yang paling membantu adalah ....",
           "options": [
-            "tempat dan kegiatan yang diingat",
-            "hanya angka acak",
-            "jadwal pelajaran orang lain",
-            "tabel harga"
+            "mencoba susunan di atas bidang",
+            "menuangkan lem pada semua bahan",
+            "membuang sketsa",
+            "menutup karya dengan buku"
           ],
-          "answer": "tempat dan kegiatan yang diingat",
-          "discussion": "Karya tentang pengalaman liburan dapat menggambarkan tempat dan kegiatan yang diingat."
+          "answer": "mencoba susunan di atas bidang",
+          "discussion": "Susunan dapat dipindahkan dan diperbaiki lebih mudah sebelum potongan direkatkan."
         },
         {
           "id": "K03-SBD-B04-M01-021",
           "type": "PG",
-          "text": "Ekspresi mata berbinar dan senyum pada tokoh dalam karya mengarah pada perasaan ....",
+          "text": "Potongan daun diletakkan sebagian di depan potongan batang. Susunan ini disebut ....",
           "options": [
-            "perasaan bosan",
-            "perasaan senang",
-            "perasaan marah",
-            "perasaan takut"
+            "tumpang tindih",
+            "penghapusan",
+            "pelipatan simetris",
+            "pencampuran warna"
           ],
-          "answer": "perasaan senang",
-          "discussion": "Ekspresi wajah tersenyum sering menunjukkan perasaan senang."
+          "answer": "tumpang tindih",
+          "discussion": "Tumpang tindih terjadi ketika satu bentuk menutupi sebagian bentuk lain dan dapat memberi kesan kedalaman."
         },
         {
           "id": "K03-SBD-B04-M01-022",
           "type": "PG",
-          "text": "Wajah tokoh yang menangis ketika kehilangan benda kesukaan dapat menunjukkan perasaan ....",
+          "text": "Agar mata tertuju pada bunga utama, bunga itu dapat dibuat ....",
           "options": [
-            "bangga",
-            "terkejut",
-            "sedih",
-            "gembira"
+            "lebih besar atau lebih kontras dari unsur lain",
+            "paling kecil dan tersembunyi",
+            "sama dengan latar tanpa batas",
+            "tertutup seluruhnya oleh daun"
           ],
-          "answer": "sedih",
-          "discussion": "Ekspresi wajah dengan alis menurun dan air mata dapat menunjukkan sedih."
+          "answer": "lebih besar atau lebih kontras dari unsur lain",
+          "discussion": "Ukuran atau kontras dapat membentuk titik perhatian dalam komposisi kolase."
         },
         {
           "id": "K03-SBD-B04-M01-023",
           "type": "PG",
-          "text": "Poster identitas diri murid berbeda satu dengan yang lain. Hal yang tidak menjadi keharusan adalah ....",
+          "text": "Lem pada potongan kertas sebaiknya digunakan ....",
           "options": [
-            "memiliki tema",
-            "dibuat dengan usaha",
-            "menampilkan pilihan pribadi",
-            "sama persis dengan karya teman"
+            "tipis dan secukupnya pada bagian yang perlu direkatkan",
+            "sebanyak mungkin hingga menetes",
+            "pada meja dan lantai",
+            "tanpa memperhatikan petunjuk"
           ],
-          "answer": "sama persis dengan karya teman",
-          "discussion": "Karya yang mewakili diri tidak harus sama persis dengan karya teman."
+          "answer": "tipis dan secukupnya pada bagian yang perlu direkatkan",
+          "discussion": "Lem secukupnya membantu potongan menempel dan menjaga karya tetap bersih."
         },
         {
           "id": "K03-SBD-B04-M01-024",
           "type": "PG",
-          "text": "Anak menggambar diri sedang bermain bola karena itulah kegemaran yang ingin dibagikan. Gambar itu bertujuan ....",
+          "text": "Untuk potongan yang tipis, lem dapat dioleskan terutama pada ....",
           "options": [
-            "menceritakan minat diri",
-            "menghilangkan hobi",
-            "mengubah nama",
-            "mengganti teman"
+            "bagian belakang dan tepinya secara tipis",
+            "permukaan depan seluruh karya",
+            "gagang gunting",
+            "tangan teman"
           ],
-          "answer": "menceritakan minat diri",
-          "discussion": "Menggambar kegiatan favorit membantu menceritakan minat diri."
+          "answer": "bagian belakang dan tepinya secara tipis",
+          "discussion": "Olesan tipis pada belakang dan tepi membantu potongan melekat rata tanpa noda berlebihan."
         },
         {
           "id": "K03-SBD-B04-M01-025",
           "type": "PG",
-          "text": "Saat mengomentari potret diri temannya, murid menghindari candaan mengenai bentuk wajah. Sikap yang benar ialah ....",
+          "text": "Sesudah ditempel, potongan dapat dirapikan dengan cara ....",
           "options": [
-            "menghina warna kulit",
-            "tidak mengejek ciri fisiknya",
-            "menertawakan bentuk tubuh",
-            "mencoret wajah"
+            "menekan lembut memakai jari bersih atau alas pelindung",
+            "menggosoknya dengan ujung gunting",
+            "menyiramnya dengan air",
+            "menariknya berulang kali"
           ],
-          "answer": "tidak mengejek ciri fisiknya",
-          "discussion": "Menghargai gambar diri teman berarti tidak mengejek ciri fisiknya."
+          "answer": "menekan lembut memakai jari bersih atau alas pelindung",
+          "discussion": "Tekanan lembut membantu potongan melekat rata tanpa merusak bentuk."
         },
         {
           "id": "K03-SBD-B04-M01-026",
           "type": "PG",
-          "text": "Karya kolase pribadi akan dibuat memakai gambar alat musik dan tanaman favorit. Isinya merupakan ....",
+          "text": "Karya yang masih lembap oleh lem sebaiknya ....",
           "options": [
-            "benda berbahaya",
-            "informasi rahasia",
-            "gambar aktivitas dan benda kesukaan",
-            "hanya sampah kotor"
+            "diletakkan rata di tempat aman hingga kering",
+            "langsung dilipat rapat",
+            "ditumpuk di bawah sepatu",
+            "dibawa sambil dikibas keras"
           ],
-          "answer": "gambar aktivitas dan benda kesukaan",
-          "discussion": "Kolase identitas diri dapat memuat gambar aktivitas dan benda kesukaan."
+          "answer": "diletakkan rata di tempat aman hingga kering",
+          "discussion": "Pengeringan rata mencegah potongan bergeser, terlipat, atau menempel pada benda lain."
         },
         {
           "id": "K03-SBD-B04-M01-027",
           "type": "PG",
-          "text": "Di depan kelas, Bima menjelaskan lambang matahari pada gambar dirinya. Cara berbicara yang sesuai adalah ....",
+          "text": "Setelah membuat kolase, kelompok harus ....",
           "options": [
-            "merendahkan karya teman",
-            "berbohong tentang proses",
-            "memaksa semua orang setuju",
-            "menyampaikan makna gambar dengan percaya diri dan santun"
+            "menutup lem, menyimpan gunting, dan membersihkan meja",
+            "meninggalkan serpihan di lantai",
+            "menyimpan gunting dalam keadaan terbuka",
+            "mengoleskan sisa lem ke kursi"
           ],
-          "answer": "menyampaikan makna gambar dengan percaya diri dan santun",
-          "discussion": "Saat menjelaskan karya sendiri, kita sebaiknya menyampaikan makna gambar dengan percaya diri dan santun."
+          "answer": "menutup lem, menyimpan gunting, dan membersihkan meja",
+          "discussion": "Perawatan alat dan kebersihan area merupakan bagian dari tanggung jawab berkarya."
         },
         {
           "id": "K03-SBD-B04-M01-028",
           "type": "PG",
-          "text": "Seorang anak menggambar rumah tempat ia tumbuh. Gambar rumah itu dapat merepresentasikan ....",
+          "text": "Sisa kertas yang masih cukup besar sebaiknya ....",
           "options": [
-            "tempat tinggal atau keluarga",
-            "bunyi alat musik",
-            "rasa makanan",
-            "ukuran sepatu"
+            "dipilah untuk digunakan pada karya berikutnya",
+            "langsung dibakar",
+            "dibuang bersama makanan basah",
+            "disobek menjadi sampah tanpa tujuan"
           ],
-          "answer": "tempat tinggal atau keluarga",
-          "discussion": "Bentuk rumah dalam karya pribadi dapat melambangkan tempat tinggal atau keluarga."
+          "answer": "dipilah untuk digunakan pada karya berikutnya",
+          "discussion": "Pemilahan mengurangi limbah dan menyediakan bahan untuk kegiatan selanjutnya."
         },
         {
           "id": "K03-SBD-B04-M01-029",
           "type": "PG",
-          "text": "Tema 'keluargaku' dipilih oleh siswa. Bagian cerita yang sesuai untuk digambar adalah ....",
+          "text": "Pembagian peran yang adil dalam kelompok kolase adalah ....",
           "options": [
-            "peta cuaca",
-            "anggota keluarga atau kegiatan bersama",
-            "hanya angka ujian",
-            "daftar harga"
+            "ada yang merancang, menata, menempel, dan merapikan secara bergiliran",
+            "satu anak mengerjakan semuanya",
+            "anggota yang cepat mengambil semua alat",
+            "siswa tertentu hanya menonton sebagai hukuman"
           ],
-          "answer": "anggota keluarga atau kegiatan bersama",
-          "discussion": "Memilih tema keluargaku berarti karya dapat menampilkan anggota keluarga atau kegiatan bersama."
+          "answer": "ada yang merancang, menata, menempel, dan merapikan secara bergiliran",
+          "discussion": "Peran dapat dibagi dan diputar agar semua anggota berpartisipasi sesuai kemampuan."
         },
         {
           "id": "K03-SBD-B04-M01-030",
           "type": "PG",
-          "text": "Selesai menggunakan pensil warna bersama, siswa mengembalikannya dan membuang sampah pada tempatnya. Sikap ini berarti ....",
+          "text": "Jika dua kelompok memerlukan lem yang sama, tindakan tepat adalah ....",
           "options": [
-            "meninggalkan gunting terbuka",
-            "merusak karya teman",
-            "merapikan alat dan tempat kerja",
-            "membuang cat ke lantai"
+            "mengatur giliran dan memakai secukupnya",
+            "merebut lem lebih dahulu",
+            "menyembunyikan lem dari kelompok lain",
+            "menuangkan seluruh lem ke satu karya"
           ],
-          "answer": "merapikan alat dan tempat kerja",
-          "discussion": "Setelah berkarya, sikap baik adalah merapikan alat dan tempat kerja."
+          "answer": "mengatur giliran dan memakai secukupnya",
+          "discussion": "Berbagi alat secara tertib menjaga kerja sama dan mencegah bahan terbuang."
         },
         {
           "id": "K03-SBD-B04-M01-031",
           "type": "PG",
-          "text": "Ketika anak menggambar wajahnya sendiri, pusat cerita visual karya tersebut ialah ....",
+          "text": "Dukungan yang tepat bagi teman yang kesulitan memotong ialah ....",
           "options": [
-            "hanya pemandangan",
-            "hanya hewan",
-            "hanya bangunan",
-            "diri pembuat karya"
+            "menawarkan pola sederhana atau bantuan sesuai izin guru",
+            "mengambil alih seluruh karya tanpa bertanya",
+            "mengejek hasil potongannya",
+            "memaksa memakai gunting besar"
           ],
-          "answer": "diri pembuat karya",
-          "discussion": "Potret diri adalah karya yang menggambarkan diri pembuat karya."
+          "answer": "menawarkan pola sederhana atau bantuan sesuai izin guru",
+          "discussion": "Dukungan menyesuaikan kebutuhan dan tetap memberi kesempatan teman membuat keputusan."
         },
         {
           "id": "K03-SBD-B04-M01-032",
           "type": "PG",
-          "text": "Anak ingin menceritakan kegemaran membaca tanpa menuliskan paragraf panjang. Lambang yang mudah dikenali adalah ....",
+          "text": "Untuk membandingkan dua kolase, bukti yang dapat diamati adalah ....",
           "options": [
-            "buku terbuka",
-            "bola basket",
-            "sepeda",
-            "panci"
+            "susunan bentuk, tekstur bahan, dan kerapian tempelan",
+            "harga tas pembuat",
+            "nilai pelajaran lain",
+            "alamat rumah kelompok"
           ],
-          "answer": "buku terbuka",
-          "discussion": "Simbol hobi membaca dapat digambarkan dengan buku terbuka."
+          "answer": "susunan bentuk, tekstur bahan, dan kerapian tempelan",
+          "discussion": "Apresiasi karya memakai ciri visual dan proses yang berkaitan langsung."
         },
         {
           "id": "K03-SBD-B04-M01-033",
           "type": "PG",
-          "text": "Pada potret diri, warna biru dipilih karena paling disukai pembuatnya. Warna itu membantu ....",
+          "text": "Jika satu sudut potongan terlepas setelah kering, perbaikan yang tepat adalah ....",
           "options": [
-            "menyembunyikan karya",
-            "menunjukkan selera pribadi",
-            "menentukan nilai teman",
-            "mengganti nama"
+            "mengoleskan sedikit lem di bawah sudut lalu menekannya",
+            "membasahi seluruh karya",
+            "merobek potongan lain",
+            "menambahkan lem pada bagian depan sebanyak mungkin"
           ],
-          "answer": "menunjukkan selera pribadi",
-          "discussion": "Warna kesukaan pada karya diri dapat dipilih untuk menunjukkan selera pribadi."
+          "answer": "mengoleskan sedikit lem di bawah sudut lalu menekannya",
+          "discussion": "Perbaikan kecil dan terarah menjaga karya tetap bersih."
         },
         {
           "id": "K03-SBD-B04-M01-034",
           "type": "PG",
-          "text": "Agar pengunjung tahu siapa pembuat gambar, kartu karya dapat memuat ....",
+          "text": "Saat mempresentasikan kolase, kelompok sebaiknya menjelaskan ....",
           "options": [
-            "data rahasia keluarga",
-            "kata kasar",
-            "nama atau inisial pembuat",
-            "kata ejekan"
+            "tema, bahan, susunan, pembagian peran, dan refleksi",
+            "peringkat setiap anggota",
+            "harga barang pribadi",
+            "kesalahan kelompok lain"
           ],
-          "answer": "nama atau inisial pembuat",
-          "discussion": "Identitas pada karya dapat ditulis berupa nama atau inisial pembuat."
+          "answer": "tema, bahan, susunan, pembagian peran, dan refleksi",
+          "discussion": "Presentasi proses menunjukkan hubungan gagasan, pilihan bahan, kerja sama, dan pembelajaran."
         },
         {
           "id": "K03-SBD-B04-M01-035",
           "type": "PG",
-          "text": "Untuk menggambarkan pengalaman naik kereta saat liburan, anak dapat menampilkan ....",
+          "text": "Urutan membuat kolase yang paling lengkap adalah ....",
           "options": [
-            "hanya angka acak",
-            "jadwal pelajaran orang lain",
-            "tabel harga",
-            "tempat dan kegiatan yang diingat"
+            "menentukan tema, membuat sketsa, memilih bahan, memotong, menyusun, menempel, lalu merapikan",
+            "menempel dulu, baru memilih tema dan membersihkan",
+            "memotong tanpa rencana lalu membuang semua sisa",
+            "memberi peringkat, merebut alat, lalu meninggalkan meja"
           ],
-          "answer": "tempat dan kegiatan yang diingat",
-          "discussion": "Karya tentang pengalaman liburan dapat menggambarkan tempat dan kegiatan yang diingat."
+          "answer": "menentukan tema, membuat sketsa, memilih bahan, memotong, menyusun, menempel, lalu merapikan",
+          "discussion": "Urutan ini menjaga gagasan, komposisi, keselamatan, pemakaian bahan, dan kebersihan."
         }
       ]
     }
