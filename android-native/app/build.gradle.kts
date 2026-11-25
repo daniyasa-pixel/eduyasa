@@ -6,6 +6,7 @@ plugins {
 android {
     namespace = "id.eduyasa.nativeapp"
     compileSdk = 35
+    buildToolsVersion = "35.0.0"
     defaultConfig {
         applicationId = "id.eduyasa.nativeapp"
         minSdk = 24
