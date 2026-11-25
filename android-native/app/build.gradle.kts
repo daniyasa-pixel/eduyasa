@@ -18,7 +18,21 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
     kotlinOptions { jvmTarget = "17" }
-    buildFeatures { compose = true }
+    buildFeatures {
+        compose = true
+        buildConfig = true
+    }
+
+    // Keep APK filenames in sync with the actual build variant's versionName.
+    // AGP 8.7 uses the legacy output filename API.
+    applicationVariants.all {
+        val apkVersion = versionName
+        val apkBuildType = buildType.name
+        outputs.all {
+            (this as com.android.build.gradle.internal.api.BaseVariantOutputImpl).outputFileName =
+                "Eduyasa ${apkVersion} ${apkBuildType}.apk"
+        }
+    }
 }
 dependencies {
     implementation(platform("androidx.compose:compose-bom:2024.12.01"))
