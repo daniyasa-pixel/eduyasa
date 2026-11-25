@@ -17,7 +17,7 @@
   },
   "source_markdown": {
     "path": "kelas-3/pkn/pkn-b03-soal-biasa.md",
-    "sha256": "f735f5acf44a82cedbb9696d8e199d050795c8f8b9ad568bc09892756b28a5ba"
+    "sha256": "a20cf343c994c4b4f95e46a0574bb01e4bc474232c480e2e3d012132b4bdf677"
   },
   "chapters": [
     {
@@ -118,7 +118,7 @@
         {
           "id": "K03-PKN-B03-M01-008",
           "type": "PG",
-          "text": "Suku Asmat dikenal sebagai salah satu suku dari wilayah ...",
+          "text": "Suku Asmat dikenal sebagai salah satu suku dari kawasan ...",
           "options": [
             "Jawa Tengah",
             "Kalimantan Selatan",
@@ -126,7 +126,7 @@
             "Lampung"
           ],
           "answer": "Papua",
-          "discussion": "Asmat merupakan salah satu suku di kawasan Papua."
+          "discussion": "Asmat merupakan salah satu suku di kawasan Papua, terutama wilayah yang sekarang termasuk Provinsi Papua Selatan."
         },
         {
           "id": "K03-PKN-B03-M01-009",
@@ -599,14 +599,14 @@
         {
           "id": "K03-PKN-B03-M01-045",
           "type": "PG",
-          "text": "Jika dua teman berbeda adat saat merayakan hari keluarga, mereka tetap ...",
+          "text": "Dua teman memiliki adat berbeda saat mengadakan acara keluarga. Sikap yang tepat adalah ...",
           "options": [
             "dilarang berteman",
-            "bisa saling menghormati",
+            "saling menghormati adat masing-masing",
             "harus saling bermusuhan",
             "wajib melakukan acara sama"
           ],
-          "answer": "bisa saling menghormati",
+          "answer": "saling menghormati adat masing-masing",
           "discussion": "Perbedaan adat tidak menghalangi kerukunan."
         },
         {
