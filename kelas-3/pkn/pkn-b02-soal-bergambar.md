@@ -206,17 +206,17 @@ Bank soal bergambar terpisah; 10 gambar, masing-masing mendukung dua pertanyaan.
 
 ![Dua tugas rumah aman dan satu tindakan yang berbahaya tanpa pendampingan.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-06.svg)
 
-**Pertanyaan:** Panel terakhir mengingatkan kita untuk tidak ...
+**Pertanyaan:** Apa tindakan yang tidak aman pada panel terakhir gambar tugas rumah?
 
 **Pilihan jawaban:**
 - menjaga kebersihan
-- memakai alat tajam tanpa pendampingan
+- memakai alat tajam tanpa izin
 - merapikan mainan
 - menyiram bunga
 
-**Kunci jawaban:** memakai alat tajam tanpa pendampingan
+**Kunci jawaban:** memakai alat tajam tanpa izin
 
-**Pembahasan:** Panel ketiga memberi peringatan tentang alat tajam.
+**Pembahasan:** Panel terakhir bertuliskan memakai alat tajam tanpa izin. Anak perlu izin dan pendampingan orang dewasa saat menggunakan alat yang berisiko.
 
 ---
 
@@ -337,7 +337,7 @@ Bank soal bergambar terpisah; 10 gambar, masing-masing mendukung dua pertanyaan.
 **Pilihan jawaban:**
 - Penjual
 - Tetangga yang tak dikenal
-- Disembunyikan sendiri
+- Teman yang tidak mengetahui pemilik buku
 - Guru
 
 **Kunci jawaban:** Guru
