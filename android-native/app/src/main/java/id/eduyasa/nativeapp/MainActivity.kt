@@ -1014,6 +1014,15 @@ private fun EduyasaApp() {
                         Text("Riwayat dan perkembangan tersimpan khusus di HP ini. " +
                             "Ukuran teks, tema, serta cadangan data belum tersedia pada versi ini.",
                             fontSize = 12.sp, color = Muted, lineHeight = 19.sp)
+                        HorizontalDivider(modifier = Modifier.padding(top = 12.dp))
+                        Spacer(Modifier.height(12.dp))
+                        Text("Versi Aplikasi", fontWeight = FontWeight.Bold, color = DarkBlue)
+                        Text(
+                            BuildConfig.VERSION_NAME,
+                            fontSize = 13.sp,
+                            color = Muted,
+                            modifier = Modifier.testTag("settings-app-version")
+                        )
                     }
                     Secondary("KEMBALI", "settings-back") { back() }
                 }
