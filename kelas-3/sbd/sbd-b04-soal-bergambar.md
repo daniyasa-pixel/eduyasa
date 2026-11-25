@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-SBD-B04-M01-036
 
-![Empat alat kolase bernomor](assets/sbd-b04-gambar-01.svg)
+![Nomor 1 gunting, nomor 2 botol lem, nomor 3 krayon, dan nomor 4 pensil.](assets/sbd-b04-gambar-01.svg)
 
 **Pertanyaan:** Alat manakah yang digunakan untuk merekatkan potongan kolase?
 
@@ -22,7 +22,7 @@
 
 ## Soal 37 — K03-SBD-B04-M01-037
 
-![Kertas licin dan kain perca](assets/sbd-b04-gambar-02.svg)
+![Bahan nomor 1 berupa kertas licin; bahan nomor 2 berupa kain perca dengan serat silang.](assets/sbd-b04-gambar-02.svg)
 
 **Pertanyaan:** Bahan manakah yang paling mungkin memberi tekstur kain pada kolase?
 
@@ -40,7 +40,7 @@
 
 ## Soal 38 — K03-SBD-B04-M01-038
 
-![Urutan sketsa, potong, susun, dan tempel](assets/sbd-b04-gambar-03.svg)
+![Empat kartu menunjukkan sketsa, potong, susun, dan tempel.](assets/sbd-b04-gambar-03.svg)
 
 **Pertanyaan:** Setelah bentuk dipotong pada kartu kedua, langkah berikutnya adalah ....
 
@@ -58,7 +58,7 @@
 
 ## Soal 39 — K03-SBD-B04-M01-039
 
-![Cara menyerahkan gunting](assets/sbd-b04-gambar-04.svg)
+![Di kiri bilah terbuka diarahkan ke penerima; di kanan bilah tertutup dan gagang diarahkan ke penerima.](assets/sbd-b04-gambar-04.svg)
 
 **Pertanyaan:** Cara menyerahkan gunting yang lebih aman ditunjukkan oleh ....
 
@@ -76,7 +76,7 @@
 
 ## Soal 40 — K03-SBD-B04-M01-040
 
-![Tumpukan bahan dan rancangan rumah](assets/sbd-b04-gambar-05.svg)
+![Di kiri potongan rumah bertumpuk; di kanan potongan tersusun menjadi rumah tetapi belum dilem.](assets/sbd-b04-gambar-05.svg)
 
 **Pertanyaan:** Rancangan manakah yang lebih baik dicoba sebelum potongan diberi lem?
 
@@ -94,7 +94,7 @@
 
 ## Soal 41 — K03-SBD-B04-M01-041
 
-![Tumpang tindih daun dan batang](assets/sbd-b04-gambar-06.svg)
+![Daun kiri berada di belakang batang; daun kanan menutup sebagian batang dan tampak di depan.](assets/sbd-b04-gambar-06.svg)
 
 **Pertanyaan:** Daun manakah yang tampak berada di depan batang karena menutup sebagian batang?
 
@@ -112,7 +112,7 @@
 
 ## Soal 42 — K03-SBD-B04-M01-042
 
-![Perbandingan jumlah lem](assets/sbd-b04-gambar-07.svg)
+![Potongan kiri diberi genangan lem berlebihan; potongan kanan diberi titik lem tipis di tepi belakang.](assets/sbd-b04-gambar-07.svg)
 
 **Pertanyaan:** Penggunaan lem yang lebih tepat ditunjukkan oleh ....
 
@@ -130,7 +130,7 @@
 
 ## Soal 43 — K03-SBD-B04-M01-043
 
-![Dua wadah pemilahan sisa bahan](assets/sbd-b04-gambar-08.svg)
+![Wadah nomor 1 bertuliskan guna ulang dengan potongan kertas bersih; wadah nomor 2 berisi sampah basah.](assets/sbd-b04-gambar-08.svg)
 
 **Pertanyaan:** Ke mana sisa kertas yang masih cukup besar sebaiknya dipindahkan?
 
@@ -148,7 +148,7 @@
 
 ## Soal 44 — K03-SBD-B04-M01-044
 
-![Pembagian peran kelompok kolase](assets/sbd-b04-gambar-09.svg)
+![Kelompok kiri dikerjakan satu anak; kelompok kanan membagi empat tugas kepada empat anak.](assets/sbd-b04-gambar-09.svg)
 
 **Pertanyaan:** Kelompok manakah menunjukkan pembagian peran yang lebih adil?
 
@@ -166,7 +166,7 @@
 
 ## Soal 45 — K03-SBD-B04-M01-045
 
-![Sudut kolase yang terlepas](assets/sbd-b04-gambar-10.svg)
+![Satu sudut potongan kertas terangkat; panah menunjukkan sedikit lem di bawah sudut lalu ditekan.](assets/sbd-b04-gambar-10.svg)
 
 **Pertanyaan:** Apa perbaikan paling tepat untuk sudut potongan yang terlepas?
 
