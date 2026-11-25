@@ -1185,7 +1185,7 @@ private fun EduyasaApp() {
         message = if (page == Page.QUIZ) feedbackMessage else "",
         correct = feedbackPositive,
         modifier = Modifier.align(Alignment.TopCenter)
-            .padding(horizontal = 16.dp, top = 82.dp)
+            .padding(start = 16.dp, top = 82.dp, end = 16.dp)
     )
 
     AnimatedVisibility(
