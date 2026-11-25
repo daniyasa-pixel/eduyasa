@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-SBD-B05-M01-036
 
-![Stimulus soal 36](assets/sbd-b05-gambar-01.svg)
+![Karya A berupa gambar ikan pada kertas datar. Karya B berupa ikan bervolume pada alas yang dapat diamati dari beberapa arah.](assets/sbd-b05-gambar-01.svg)
 
 **Pertanyaan:** Perhatikan dua karya pada gambar. Pernyataan yang tepat adalah ....
 
@@ -22,7 +22,7 @@
 
 ## Soal 37 — K03-SBD-B05-M01-037
 
-![Stimulus soal 37](assets/sbd-b05-gambar-02.svg)
+![Seekor ikan dengan badan lonjong, sirip atas dan bawah, serta ekor. Tiga penunjuk memberi label badan lonjong, sirip, dan ekor.](assets/sbd-b05-gambar-02.svg)
 
 **Pertanyaan:** Ciri hewan pada kartu pengamatan yang paling perlu diwujudkan agar bentuk ikan mudah dikenali adalah ....
 
@@ -40,7 +40,7 @@
 
 ## Soal 38 — K03-SBD-B05-M01-038
 
-![Stimulus soal 38](assets/sbd-b05-gambar-03.svg)
+![Nomor 1 plastisin lunak, nomor 2 pecahan kaca, nomor 3 paku berkarat, nomor 4 botol cairan pembersih bertanda bahaya.](assets/sbd-b05-gambar-03.svg)
 
 **Pertanyaan:** Untuk membuat badan hewan yang dapat diremas dan dibentuk langsung, bahan bernomor berapa yang paling sesuai?
 
@@ -58,7 +58,7 @@
 
 ## Soal 39 — K03-SBD-B05-M01-039
 
-![Stimulus soal 39](assets/sbd-b05-gambar-04.svg)
+![Lima kotak berpanah: mengamati, merancang, memilih bahan aman, membentuk, dan meninjau.](assets/sbd-b05-gambar-04.svg)
 
 **Pertanyaan:** Menurut diagram, langkah yang dilakukan setelah merancang bentuk adalah ....
 
@@ -76,9 +76,9 @@
 
 ## Soal 40 — K03-SBD-B05-M01-040
 
-![Stimulus soal 40](assets/sbd-b05-gambar-05.svg)
+![Model A bertubuh sama dengan alas sempit. Model B bertubuh sama dengan alas lebih lebar.](assets/sbd-b05-gambar-05.svg)
 
-**Pertanyaan:** Dua model memiliki badan sama berat. Model yang lebih stabil adalah ....
+**Pertanyaan:** Dua model memiliki badan yang sama bentuk dan beratnya, serta alas dari bahan yang sama. Model yang lebih stabil adalah ....
 
 **Pilihan jawaban:**
 - model B karena alasnya lebih lebar
@@ -94,7 +94,7 @@
 
 ## Soal 41 — K03-SBD-B05-M01-041
 
-![Stimulus soal 41](assets/sbd-b05-gambar-06.svg)
+![Cara A menampilkan dua bagian plastisin terpisah. Cara B menampilkan dua bagian bertemu dengan sambungan diratakan.](assets/sbd-b05-gambar-06.svg)
 
 **Pertanyaan:** Berdasarkan gambar uji sambungan, cara yang menghasilkan dua bagian plastisin menyatu adalah ....
 
@@ -112,7 +112,7 @@
 
 ## Soal 42 — K03-SBD-B05-M01-042
 
-![Stimulus soal 42](assets/sbd-b05-gambar-07.svg)
+![Badan capung memanjang dengan empat sayap, dua di kiri dan dua di kanan.](assets/sbd-b05-gambar-07.svg)
 
 **Pertanyaan:** Agar bentuk capung seimbang seperti rancangan, sayap perlu dipasang ....
 
@@ -130,7 +130,7 @@
 
 ## Soal 43 — K03-SBD-B05-M01-043
 
-![Stimulus soal 43](assets/sbd-b05-gambar-08.svg)
+![Empat lapisan dari depan ke belakang: rumput A, ikan B, batu C, dan latar D.](assets/sbd-b05-gambar-08.svg)
 
 **Pertanyaan:** Pada akuarium mini, benda yang berada paling depan adalah ....
 
@@ -148,7 +148,7 @@
 
 ## Soal 44 — K03-SBD-B05-M01-044
 
-![Stimulus soal 44](assets/sbd-b05-gambar-09.svg)
+![Contoh awal adalah ikan polos dengan ekor kecil. Hasil modifikasi memiliki pola pada sirip dan ekor lebih lebar.](assets/sbd-b05-gambar-09.svg)
 
 **Pertanyaan:** Perubahan dari contoh awal ke hasil modifikasi adalah ....
 
@@ -166,7 +166,7 @@
 
 ## Soal 45 — K03-SBD-B05-M01-045
 
-![Stimulus soal 45](assets/sbd-b05-gambar-10.svg)
+![Karya berbadan tinggi terlihat miring ke kanan di atas alas yang sempit. Panah menunjukkan arah miring.](assets/sbd-b05-gambar-10.svg)
 
 **Pertanyaan:** Catatan uji menunjukkan karya miring ke kanan. Perbaikan yang paling sesuai ialah ....
 
