@@ -169,7 +169,7 @@
           "discussion": "Kartu tengah berisi kata karena yang memperkenalkan alasan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-05.svg",
-            "alt": "Pendapat dan alasan. PENDAPAT: Membaca bergambar itu menarik. PENGHUBUNG: karena ALASAN: Gambar membantu memahami cerita."
+            "alt": "Pendapat dan alasan. PENDAPAT: Membaca buku bergambar itu menarik. PENGHUBUNG: karena ALASAN: Gambar membantu memahami cerita."
           }
         },
         {
@@ -177,16 +177,16 @@
           "type": "PG",
           "text": "Amati gambar berikut.\n\nKalimat lengkap yang sesuai dengan susunan kartu ialah ...",
           "options": [
-            "Membaca bergambar itu menarik karena kereta mempunyai roda.",
-            "Membaca bergambar itu menarik karena halaman sekolah luas.",
-            "Membaca bergambar itu menarik karena pensilku hilang.",
-            "Membaca bergambar itu menarik karena gambar membantu memahami cerita."
+            "Membaca buku bergambar itu menarik karena kereta mempunyai roda.",
+            "Membaca buku bergambar itu menarik karena halaman sekolah luas.",
+            "Membaca buku bergambar itu menarik karena pensilku hilang.",
+            "Membaca buku bergambar itu menarik karena gambar membantu memahami cerita."
           ],
-          "answer": "Membaca bergambar itu menarik karena gambar membantu memahami cerita.",
-          "discussion": "Kalimat pertama menggabungkan pendapat dan alasan yang benar-benar tertulis pada kartu.",
+          "answer": "Membaca buku bergambar itu menarik karena gambar membantu memahami cerita.",
+          "discussion": "Kalimat tentang membaca buku bergambar dan manfaat gambar menggabungkan pendapat serta alasan yang benar-benar tertulis pada kartu.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-05.svg",
-            "alt": "Pendapat dan alasan. PENDAPAT: Membaca bergambar itu menarik. PENGHUBUNG: karena ALASAN: Gambar membantu memahami cerita."
+            "alt": "Pendapat dan alasan. PENDAPAT: Membaca buku bergambar itu menarik. PENGHUBUNG: karena ALASAN: Gambar membantu memahami cerita."
           }
         },
         {
@@ -285,7 +285,7 @@
             "Aku kecewa karena semua pot pecah."
           ],
           "answer": "Aku senang karena bijiku mulai bertunas.",
-          "discussion": "Kalimat pertama menyatakan perasaan dan alasan yang sama dengan stimulus visual.",
+          "discussion": "Ucapan “Aku senang karena bijiku mulai bertunas” menyatakan perasaan dan alasan sesuai stimulus visual.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-08.svg",
             "alt": "Mengapa aku senang?. 1: Nisa menanam biji. 2: Tunas mulai muncul. 3: Nisa merasa senang."
@@ -319,7 +319,7 @@
             "Menurutku, letak pot itu baik karena tidak menghalangi jalan."
           ],
           "answer": "Menurutku, letak pot itu baik karena tidak menghalangi jalan.",
-          "discussion": "Pendapat pertama menilai penempatan berdasarkan informasi jalur yang tetap kosong.",
+          "discussion": "Pendapat tentang pot yang tidak menghalangi jalan sesuai informasi jalur yang tetap kosong pada denah.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b02-gambar-09.svg",
             "alt": "Letak pot yang diusulkan. KIRI: JENDELA BERCAHAYA TENGAH: POT TANAMAN KANAN: JALAN TETAP KOSONG"
