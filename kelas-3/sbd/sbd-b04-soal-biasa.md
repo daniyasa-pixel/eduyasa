@@ -264,7 +264,7 @@
 
 **Pilihan jawaban:**
 - memotong menjauh dari tangan dengan perhatian pada garis
-- mengarahkah bilah ke telapak tangan
+- mengarahkan bilah ke telapak tangan
 - berjalan sambil menggunting
 - mengangkat gunting dekat wajah
 
