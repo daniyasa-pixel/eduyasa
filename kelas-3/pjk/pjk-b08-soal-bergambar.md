@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-PJK-B08-M01-036
 
-![Jadwal kegiatan sore](assets/pjk-b08-gambar-01.svg)
+![Tabel waktu berisi istirahat 30 menit, tugas 45 menit, bermain aktif 30 menit, dan layar 120 menit tanpa jeda.](assets/pjk-b08-gambar-01.svg)
 
 **Pertanyaan:** Jadwal sore menunjukkan: istirahat 30 menit, tugas 45 menit, bermain aktif 30 menit, layar 120 menit tanpa jeda. Bagian yang paling perlu diperbaiki adalah ....
 
@@ -21,7 +21,7 @@
 ---
 ## Soal 37 — K03-PJK-B08-M01-037
 
-![Perbandingan berjalan dan duduk menonton](assets/pjk-b08-gambar-02.svg)
+![Panel A anak berjalan bersama pendamping; panel B anak duduk menonton.](assets/pjk-b08-gambar-02.svg)
 
 **Pertanyaan:** Gambar A menunjukkan berjalan ke taman bersama pendamping; gambar B menunjukkan duduk menonton. Aktivitas yang memakai lebih banyak gerak tubuh adalah ....
 
@@ -38,13 +38,13 @@
 ---
 ## Soal 38 — K03-PJK-B08-M01-038
 
-![Pilihan kegiatan waktu luang](assets/pjk-b08-gambar-03.svg)
+![Empat kartu menunjukkan bermain di halaman, membaca, berlari di jalan raya, dan merusak tanaman.](assets/pjk-b08-gambar-03.svg)
 
 **Pertanyaan:** Empat kartu waktu luang menampilkan bermain di halaman aman, membaca, berlari di jalan raya, dan merusak tanaman. Kegiatan yang aman dan aktif adalah ....
 
 **Pilihan jawaban:**
 - bermain di halaman aman
-- membaca sambil duduk di jalan
+- membaca sambil duduk
 - berlari di jalan raya
 - merusak tanaman
 
@@ -55,7 +55,7 @@
 ---
 ## Soal 39 — K03-PJK-B08-M01-039
 
-![Diagram empat pilar gizi seimbang](assets/pjk-b08-gambar-04.svg)
+![Empat kotak: makanan beragam, hidup bersih, pemantauan pertumbuhan, dan satu kotak tanda tanya.](assets/pjk-b08-gambar-04.svg)
 
 **Pertanyaan:** Diagram empat pilar menampilkan makanan beragam, hidup bersih, pemantauan pertumbuhan, dan satu kotak kosong. Isi kotak kosong adalah ....
 
@@ -72,7 +72,7 @@
 ---
 ## Soal 40 — K03-PJK-B08-M01-040
 
-![Piring beragam dan air minum](assets/pjk-b08-gambar-05.svg)
+![Piring dibagi menjadi makanan pokok, lauk, sayur, buah, serta gelas air.](assets/pjk-b08-gambar-05.svg)
 
 **Pertanyaan:** Piring contoh berisi makanan pokok, lauk, sayur, buah, dan air. Alasan piring itu lebih beragam adalah ....
 
@@ -89,7 +89,7 @@
 ---
 ## Soal 41 — K03-PJK-B08-M01-041
 
-![Diagram fungsi beberapa bahan pangan](assets/pjk-b08-gambar-06.svg)
+![Tiga baris memasangkan nasi dengan energi, tempe dengan pertumbuhan, sayur dengan vitamin mineral serat.](assets/pjk-b08-gambar-06.svg)
 
 **Pertanyaan:** Diagram memasangkan nasi dengan energi, tempe dengan pertumbuhan, dan sayur dengan vitamin/mineral/serat. Pasangan yang tepat untuk tempe adalah ....
 
@@ -106,9 +106,9 @@
 ---
 ## Soal 42 — K03-PJK-B08-M01-042
 
-![Catatan volume air minum](assets/pjk-b08-gambar-07.svg)
+![Botol berkapasitas 600 mililiter penuh pagi hari dan tersisa 200 mililiter setelah bermain.](assets/pjk-b08-gambar-07.svg)
 
-**Pertanyaan:** Catatan minum menunjukkan botol 600 mL terisi penuh pagi hari dan tersisa 200 mL setelah bermain. Air yang diminum adalah ....
+**Pertanyaan:** Catatan minum menunjukkan botol 600 mL terisi penuh pagi hari dan tersisa 200 mL setelah bermain. Tidak ada air yang tumpah atau ditambahkan. Air yang diminum adalah ....
 
 **Pilihan jawaban:**
 - 400 mL
@@ -123,7 +123,7 @@
 ---
 ## Soal 43 — K03-PJK-B08-M01-043
 
-![Perbandingan dua kemasan makanan](assets/pjk-b08-gambar-08.svg)
+![Kemasan A utuh dan tanggal masih berlaku; kemasan B menggembung dan tanggal lewat.](assets/pjk-b08-gambar-08.svg)
 
 **Pertanyaan:** Kemasan A utuh dan belum melewati tanggal; kemasan B menggembung dan tanggalnya telah lewat. Pilihan yang lebih aman adalah ....
 
@@ -135,12 +135,12 @@
 
 **Kunci Jawaban:** kemasan A
 
-**Pembahasan:** Kemasan utuh dan tanggal yang masih berlaku menjadi bukti keamanan lebih baik.
+**Pembahasan:** Kemasan utuh dan tanggal yang masih berlaku merupakan tanda pilihan yang lebih aman pada contoh ini, tetapi bukan jaminan makanan bebas bahaya.
 
 ---
 ## Soal 44 — K03-PJK-B08-M01-044
 
-![Urutan mencuci tangan](assets/pjk-b08-gambar-09.svg)
+![Lima tahap: basahi, sabun, gosok, bilas, keringkan; pertanyaan menanyakan tahap setelah sabun.](assets/pjk-b08-gambar-09.svg)
 
 **Pertanyaan:** Urutan gambar: basahi tangan, pakai sabun, gosok semua bagian, bilas, lalu keringkan. Setelah memakai sabun, langkah berikutnya adalah ....
 
@@ -157,7 +157,7 @@
 ---
 ## Soal 45 — K03-PJK-B08-M01-045
 
-![Kartu alergi dan pilihan makanan](assets/pjk-b08-gambar-10.svg)
+![Kartu siswa bertuliskan alergi kacang dengan empat pilihan: roti kacang, pisang, permen kacang, kue kacang.](assets/pjk-b08-gambar-10.svg)
 
 **Pertanyaan:** Kartu siswa bertuliskan “alergi kacang”. Dari pilihan roti kacang, pisang, permen kacang, dan kue dengan kacang, pilihan yang tidak memuat kacang pada contoh adalah ....
 
