@@ -692,7 +692,7 @@ K03-MTK-B04 · Kelas 3 · Kurikulum Merdeka · MathJax
 
 ## Soal 44 — K03-MTK-B04-M01-044
 
-**Pertanyaan:** Sudut yang lebih kecil dari $90^{\circ}$ disebut ...
+**Pertanyaan:** Sudut yang lebih besar dari $0^{\circ}$ dan lebih kecil dari $90^{\circ}$ disebut ...
 
 **Pilihan jawaban:**
 - sudut lurus
@@ -702,7 +702,7 @@ K03-MTK-B04 · Kelas 3 · Kurikulum Merdeka · MathJax
 
 **Kunci Jawaban:** sudut lancip
 
-**Pembahasan:** Sudut lancip lebih kecil dari 90 derajat.
+**Pembahasan:** Sudut lancip besarnya lebih dari 0 derajat dan kurang dari 90 derajat.
 
 ---
 
