@@ -164,7 +164,7 @@
 
 ## Soal 11 — K03-SBD-B01-M01-011
 
-**Pertanyaan:** Mila ingin membuat satu garis tebal dan satu garis tipis dengan pensil yang sama. Ia dapat mengubah ....
+**Pertanyaan:** Mila ingin membuat satu garis lebih gelap dan satu garis lebih terang dengan pensil yang sama. Ia dapat mengubah ....
 
 **Pilihan jawaban:**
 - tekanan pensil
@@ -174,7 +174,7 @@
 
 **Kunci Jawaban:** tekanan pensil
 
-**Pembahasan:** Tekanan yang lebih kuat umumnya menghasilkan garis lebih gelap atau tebal, sedangkan tekanan ringan menghasilkan garis lebih tipis.
+**Pembahasan:** Tekanan yang lebih kuat umumnya menghasilkan garis lebih gelap, sedangkan tekanan ringan menghasilkan garis lebih terang.
 
 ---
 
@@ -286,7 +286,7 @@
 
 **Kunci Jawaban:** primer
 
-**Pembahasan:** Merah, kuning, dan biru digunakan sebagai warna primer dalam model pencampuran cat dasar pada bab ini.
+**Pembahasan:** Merah, kuning, dan biru digunakan sebagai warna primer dalam model pencampuran cat dasar.
 
 ---
 
