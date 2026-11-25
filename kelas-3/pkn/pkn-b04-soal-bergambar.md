@@ -270,7 +270,7 @@ Bank media dipisah agar pengacakan dapat mengambil 5 soal gambar dan 15 soal bia
 
 **Kunci jawaban:** 1 Juni 1945
 
-**Pembahasan:** Panel pertama menunjukkan 1 Juni 1945.
+**Pembahasan:** Panel pertama menampilkan Hari Lahir Pancasila dan tanggal 1 Juni 1945.
 
 ---
 
@@ -288,7 +288,7 @@ Bank media dipisah agar pengacakan dapat mengambil 5 soal gambar dan 15 soal bia
 
 **Kunci jawaban:** 17 Agustus 1945
 
-**Pembahasan:** Panel kedua menunjukkan 17 Agustus 1945.
+**Pembahasan:** Panel kedua menampilkan Proklamasi Kemerdekaan dan tanggal 17 Agustus 1945.
 
 ---
 
@@ -296,7 +296,7 @@ Bank media dipisah agar pengacakan dapat mengambil 5 soal gambar dan 15 soal bia
 
 ![Sukarno Presiden pertama, Mohammad Hatta Wakil Presiden pertama; keduanya berjuang bagi bangsa.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-09.svg)
 
-**Pertanyaan:** Siapa tokoh yang menjadi Presiden pertama Republik Indonesia?
+**Pertanyaan:** Menurut kartu tokoh pada gambar, siapa Presiden pertama Republik Indonesia?
 
 **Pilihan jawaban:**
 - Sukarno
@@ -306,7 +306,7 @@ Bank media dipisah agar pengacakan dapat mengambil 5 soal gambar dan 15 soal bia
 
 **Kunci jawaban:** Sukarno
 
-**Pembahasan:** Panel Sukarno menunjukkan Presiden pertama RI.
+**Pembahasan:** Kartu Sukarno memuat keterangan Presiden pertama Republik Indonesia.
 
 ---
 
@@ -314,7 +314,7 @@ Bank media dipisah agar pengacakan dapat mengambil 5 soal gambar dan 15 soal bia
 
 ![Sukarno Presiden pertama, Mohammad Hatta Wakil Presiden pertama; keduanya berjuang bagi bangsa.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b04-gambar-09.svg)
 
-**Pertanyaan:** Siapa tokoh yang menjadi Wakil Presiden pertama Republik Indonesia?
+**Pertanyaan:** Menurut kartu tokoh pada gambar, siapa Wakil Presiden pertama Republik Indonesia?
 
 **Pilihan jawaban:**
 - Mira
@@ -324,7 +324,7 @@ Bank media dipisah agar pengacakan dapat mengambil 5 soal gambar dan 15 soal bia
 
 **Kunci jawaban:** Mohammad Hatta
 
-**Pembahasan:** Mohammad Hatta merupakan Wakil Presiden pertama RI.
+**Pembahasan:** Kartu Mohammad Hatta memuat keterangan Wakil Presiden pertama Republik Indonesia.
 
 ---
 
