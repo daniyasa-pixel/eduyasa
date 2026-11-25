@@ -11,171 +11,171 @@
         {
           "id": "K03-PJK-B08-M01-036",
           "type": "PG",
-          "text": "Setelah bergerak, anak mengisi kembali minumannya. Untuk kebutuhan tubuh apa hal ini dilakukan?",
+          "text": "Jadwal sore menunjukkan: istirahat 30 menit, tugas 45 menit, bermain aktif 30 menit, layar 120 menit tanpa jeda. Bagian yang paling perlu diperbaiki adalah ....",
           "options": [
-            "tidak diperlukan",
-            "selalu diganti sirup",
-            "penting untuk membantu kebutuhan cairan",
-            "harus dihindari setelah bermain"
+            "waktu layar panjang tanpa jeda",
+            "waktu bermain aktif",
+            "waktu mengerjakan tugas",
+            "waktu istirahat singkat setelah sekolah"
           ],
-          "answer": "penting untuk membantu kebutuhan cairan",
-          "discussion": "Air putih: penting untuk membantu kebutuhan cairan.",
+          "answer": "waktu layar panjang tanpa jeda",
+          "discussion": "Jadwal perlu memberi jeda dari posisi dan pandangan yang sama.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-01.svg",
-            "alt": "Ilustrasi Air putih"
+            "alt": "Tabel waktu berisi istirahat 30 menit, tugas 45 menit, bermain aktif 30 menit, dan layar 120 menit tanpa jeda."
           }
         },
         {
           "id": "K03-PJK-B08-M01-037",
           "type": "PG",
-          "text": "Anak memilih sarapan beragam sebelum belajar. Manfaatnya ialah ....",
+          "text": "Gambar A menunjukkan berjalan ke taman bersama pendamping; gambar B menunjukkan duduk menonton. Aktivitas yang memakai lebih banyak gerak tubuh adalah ....",
           "options": [
-            "harus dilewatkan",
-            "membantu menyediakan energi untuk belajar dan bergerak",
-            "membuat tidak perlu makan lagi",
-            "hanya berupa permen"
+            "gambar A",
+            "gambar B",
+            "keduanya tidak memakai energi",
+            "keduanya adalah tidur"
           ],
-          "answer": "membantu menyediakan energi untuk belajar dan bergerak",
-          "discussion": "Sarapan bergizi: membantu menyediakan energi untuk belajar dan bergerak.",
+          "answer": "gambar A",
+          "discussion": "Berjalan melibatkan gerak tubuh lebih banyak daripada duduk menonton.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-02.svg",
-            "alt": "Ilustrasi Sarapan bergizi"
+            "alt": "Panel A anak berjalan bersama pendamping; panel B anak duduk menonton."
           }
         },
         {
           "id": "K03-PJK-B08-M01-038",
           "type": "PG",
-          "text": "Siswa mencuci tangan sebelum memegang makanan. Mengapa kebiasaan itu baik?",
+          "text": "Empat kartu waktu luang menampilkan bermain di halaman aman, membaca, berlari di jalan raya, dan merusak tanaman. Kegiatan yang aman dan aktif adalah ....",
           "options": [
-            "membantu mengurangi perpindahan kuman",
-            "membuat makanan lebih mahal",
-            "mengganti olahraga",
-            "tidak penting"
+            "bermain di halaman aman",
+            "membaca sambil duduk",
+            "berlari di jalan raya",
+            "merusak tanaman"
           ],
-          "answer": "membantu mengurangi perpindahan kuman",
-          "discussion": "Cuci tangan sebelum makan: membantu mengurangi perpindahan kuman.",
+          "answer": "bermain di halaman aman",
+          "discussion": "Bermain di area aman mengisi waktu luang secara aktif tanpa membahayakan pengguna jalan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-03.svg",
-            "alt": "Ilustrasi Cuci tangan sebelum makan"
+            "alt": "Empat kartu menunjukkan bermain di halaman, membaca, berlari di jalan raya, dan merusak tanaman."
           }
         },
         {
           "id": "K03-PJK-B08-M01-039",
           "type": "PG",
-          "text": "Gambar menunjukkan waktu istirahat malam. Manfaatnya bagi tubuh ialah ....",
+          "text": "Diagram empat pilar menampilkan makanan beragam, hidup bersih, pemantauan pertumbuhan, dan satu kotak kosong. Isi kotak kosong adalah ....",
           "options": [
-            "menggantikan makan",
-            "berarti tidak perlu bergerak",
-            "selalu membuang waktu",
-            "mendukung pertumbuhan dan pemulihan"
+            "aktivitas fisik",
+            "minuman manis",
+            "diet ketat",
+            "lomba berat badan"
           ],
-          "answer": "mendukung pertumbuhan dan pemulihan",
-          "discussion": "Tidur cukup: mendukung pertumbuhan dan pemulihan.",
+          "answer": "aktivitas fisik",
+          "discussion": "Aktivitas fisik merupakan salah satu dari empat pilar gizi seimbang.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-04.svg",
-            "alt": "Ilustrasi Tidur cukup"
+            "alt": "Empat kotak: makanan beragam, hidup bersih, pemantauan pertumbuhan, dan satu kotak tanda tanya."
           }
         },
         {
           "id": "K03-PJK-B08-M01-040",
           "type": "PG",
-          "text": "Dua jajanan berbeda kebersihannya. Cara memilih yang aman adalah ....",
+          "text": "Piring contoh berisi makanan pokok, lauk, sayur, buah, dan air. Alasan piring itu lebih beragam adalah ....",
           "options": [
-            "pilih yang kedaluwarsa",
-            "pilih tanpa memperhatikan kebersihan",
-            "utamakan yang bersih, aman, dan bergizi",
-            "pilih yang terbuka dekat sampah"
+            "memuat beberapa kelompok pangan",
+            "semua bagiannya harus sama besar",
+            "hanya mengandung karbohidrat",
+            "buah menggantikan lauk"
           ],
-          "answer": "utamakan yang bersih, aman, dan bergizi",
-          "discussion": "Pilihan jajanan: utamakan yang bersih, aman, dan bergizi.",
+          "answer": "memuat beberapa kelompok pangan",
+          "discussion": "Keragaman kelompok pangan membantu memenuhi fungsi zat gizi berbeda.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-05.svg",
-            "alt": "Ilustrasi Pilihan jajanan"
+            "alt": "Piring dibagi menjadi makanan pokok, lauk, sayur, buah, serta gelas air."
           }
         },
         {
           "id": "K03-PJK-B08-M01-041",
           "type": "PG",
-          "text": "Anak berjalan dan bermain aktif. Mengapa kegiatan ini termasuk aktivitas fisik?",
+          "text": "Diagram memasangkan nasi dengan energi, tempe dengan pertumbuhan, dan sayur dengan vitamin/mineral/serat. Pasangan yang tepat untuk tempe adalah ....",
           "options": [
-            "hanya duduk",
-            "gerakan tubuh yang menggunakan energi",
-            "hanya tidur",
-            "hanya menonton"
+            "pertumbuhan dan perbaikan jaringan",
+            "satu-satunya sumber cairan",
+            "pengganti semua sayur",
+            "bahan tanpa protein"
           ],
-          "answer": "gerakan tubuh yang menggunakan energi",
-          "discussion": "Aktivitas fisik: gerakan tubuh yang menggunakan energi.",
+          "answer": "pertumbuhan dan perbaikan jaringan",
+          "discussion": "Tempe merupakan salah satu sumber protein.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-06.svg",
-            "alt": "Ilustrasi Aktivitas fisik"
+            "alt": "Tiga baris memasangkan nasi dengan energi, tempe dengan pertumbuhan, sayur dengan vitamin mineral serat."
           }
         },
         {
           "id": "K03-PJK-B08-M01-042",
           "type": "PG",
-          "text": "Satu piring berisi makanan beragam, bukan satu jenis saja. Prinsip makan yang sesuai ialah ....",
+          "text": "Catatan minum menunjukkan botol 600 mL terisi penuh pagi hari dan tersisa 200 mL setelah bermain. Tidak ada air yang tumpah atau ditambahkan. Air yang diminum adalah ....",
           "options": [
-            "beragam sesuai kebutuhan tubuh",
-            "hanya makanan manis",
-            "hanya gorengan",
-            "hanya satu jenis makanan"
+            "400 mL",
+            "200 mL",
+            "600 mL",
+            "800 mL"
           ],
-          "answer": "beragam sesuai kebutuhan tubuh",
-          "discussion": "Makanan bergizi seimbang: beragam sesuai kebutuhan tubuh.",
+          "answer": "400 mL",
+          "discussion": "Enam ratus dikurangi dua ratus sama dengan empat ratus mililiter.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-07.svg",
-            "alt": "Ilustrasi Makanan bergizi seimbang"
+            "alt": "Botol berkapasitas 600 mililiter penuh pagi hari dan tersisa 200 mililiter setelah bermain."
           }
         },
         {
           "id": "K03-PJK-B08-M01-043",
           "type": "PG",
-          "text": "Gambar menampilkan telur, ikan, dan tempe. Zat gizi utama apa yang dicontohkan?",
+          "text": "Kemasan A utuh dan belum melewati tanggal; kemasan B menggembung dan tanggalnya telah lewat. Pilihan yang lebih aman adalah ....",
           "options": [
-            "permen",
-            "minuman bersoda",
-            "kerupuk saja",
-            "telur, ikan, atau tempe"
+            "kemasan A",
+            "kemasan B",
+            "keduanya harus dicicipi dulu",
+            "pilih berdasarkan warna saja"
           ],
-          "answer": "telur, ikan, atau tempe",
-          "discussion": "Sumber protein: telur, ikan, atau tempe.",
+          "answer": "kemasan A",
+          "discussion": "Kemasan utuh dan tanggal yang masih berlaku merupakan tanda pilihan yang lebih aman pada contoh ini, tetapi bukan jaminan makanan bebas bahaya.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-08.svg",
-            "alt": "Ilustrasi Sumber protein"
+            "alt": "Kemasan A utuh dan tanggal masih berlaku; kemasan B menggembung dan tanggal lewat."
           }
         },
         {
           "id": "K03-PJK-B08-M01-044",
           "type": "PG",
-          "text": "Sayur dan buah disajikan dalam menu anak. Apa manfaatnya?",
+          "text": "Urutan gambar: basahi tangan, pakai sabun, gosok semua bagian, bilas, lalu keringkan. Setelah memakai sabun, langkah berikutnya adalah ....",
           "options": [
-            "selalu harus digoreng",
-            "tidak berguna",
-            "menyumbang vitamin, mineral, dan serat",
-            "menggantikan semua makanan"
+            "menggosok seluruh bagian tangan",
+            "langsung memegang makanan",
+            "mengeringkan tanpa membilas",
+            "menyentuh tempat sampah"
           ],
-          "answer": "menyumbang vitamin, mineral, dan serat",
-          "discussion": "Sayur dan buah: menyumbang vitamin, mineral, dan serat.",
+          "answer": "menggosok seluruh bagian tangan",
+          "discussion": "Sabun perlu digosokkan ke telapak, punggung, sela jari, dan bagian lain sebelum dibilas.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-09.svg",
-            "alt": "Ilustrasi Sayur dan buah"
+            "alt": "Lima tahap: basahi, sabun, gosok, bilas, keringkan; pertanyaan menanyakan tahap setelah sabun."
           }
         },
         {
           "id": "K03-PJK-B08-M01-045",
           "type": "PG",
-          "text": "Makanan pokok seperti nasi dan kentang membantu tubuh memperoleh apa?",
+          "text": "Kartu siswa bertuliskan “alergi kacang”. Dari pilihan roti kacang, pisang, permen kacang, dan kue dengan kacang, pilihan yang tidak memuat kacang pada contoh adalah ....",
           "options": [
-            "menggantikan air minum",
-            "menjadi salah satu sumber energi tubuh",
-            "selalu berbahaya",
-            "tidak boleh dimakan"
+            "pisang",
+            "roti kacang",
+            "permen kacang",
+            "kue dengan kacang"
           ],
-          "answer": "menjadi salah satu sumber energi tubuh",
-          "discussion": "Karbohidrat: menjadi salah satu sumber energi tubuh.",
+          "answer": "pisang",
+          "discussion": "Pada stimulus, pisang adalah satu-satunya pilihan tanpa kacang; informasi bahan nyata tetap perlu diperiksa.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pjk/assets/pjk-b08-gambar-10.svg",
-            "alt": "Ilustrasi Karbohidrat"
+            "alt": "Kartu siswa bertuliskan alergi kacang dengan empat pilihan: roti kacang, pisang, permen kacang, kue kacang."
           }
         }
       ]
