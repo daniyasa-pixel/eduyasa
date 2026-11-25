@@ -118,7 +118,7 @@ Bank biasa tanpa gambar untuk pengacakan 15 soal per sesi.
 
 ## Soal 8 — K03-PKN-B03-M01-008
 
-**Pertanyaan:** Suku Asmat dikenal sebagai salah satu suku dari wilayah ...
+**Pertanyaan:** Suku Asmat dikenal sebagai salah satu suku dari kawasan ...
 
 **Pilihan jawaban:**
 - Jawa Tengah
@@ -128,7 +128,7 @@ Bank biasa tanpa gambar untuk pengacakan 15 soal per sesi.
 
 **Kunci jawaban:** Papua
 
-**Pembahasan:** Asmat merupakan salah satu suku di kawasan Papua.
+**Pembahasan:** Asmat merupakan salah satu suku di kawasan Papua, terutama wilayah yang sekarang termasuk Provinsi Papua Selatan.
 
 ---
 
@@ -710,15 +710,15 @@ Bank biasa tanpa gambar untuk pengacakan 15 soal per sesi.
 
 ## Soal 45 — K03-PKN-B03-M01-045
 
-**Pertanyaan:** Jika dua teman berbeda adat saat merayakan hari keluarga, mereka tetap ...
+**Pertanyaan:** Dua teman memiliki adat berbeda saat mengadakan acara keluarga. Sikap yang tepat adalah ...
 
 **Pilihan jawaban:**
 - dilarang berteman
-- bisa saling menghormati
+- saling menghormati adat masing-masing
 - harus saling bermusuhan
 - wajib melakukan acara sama
 
-**Kunci jawaban:** bisa saling menghormati
+**Kunci jawaban:** saling menghormati adat masing-masing
 
 **Pembahasan:** Perbedaan adat tidak menghalangi kerukunan.
 
