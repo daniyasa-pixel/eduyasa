@@ -148,17 +148,17 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 ## Soal 10 — K03-MTK-B03-M01-010
 
-**Pertanyaan:** Ketika membaca hasil pengukuran, posisi mata sebaiknya ...
+**Pertanyaan:** Ketika membaca skala penggaris, arah pandangan mata sebaiknya ...
 
 **Pilihan jawaban:**
 - jauh di samping
 - dari belakang benda
 - menutup angka skala
-- sejajar dengan skala
+- tegak lurus terhadap skala
 
-**Kunci Jawaban:** sejajar dengan skala
+**Kunci Jawaban:** tegak lurus terhadap skala
 
-**Pembahasan:** Membaca sejajar skala mengurangi kesalahan.
+**Pembahasan:** Lihat skala dari tepat di atas tanda ukur agar tidak terjadi kesalahan akibat sudut pandang.
 
 ---
 
@@ -708,7 +708,7 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 ## Soal 45 — K03-MTK-B03-M01-045
 
-**Pertanyaan:** Dua batang kayu masing-masing $27\ \text{cm}$ dan $33\ \text{cm}$ disambungkan. Berapa panjang totalnya?
+**Pertanyaan:** Dua batang kayu masing-masing $27\ \text{cm}$ dan $33\ \text{cm}$ disambungkan ujung ke ujung tanpa tumpang tindih. Berapa panjang totalnya?
 
 **Pilihan jawaban:**
 - $65\ \text{cm}$
@@ -772,7 +772,7 @@ ID bab K03-MTK-B03 | Matematika Kelas 3 | LaTeX/MathJax
 
 ## Soal 49 — K03-MTK-B03-M01-049
 
-**Pertanyaan:** Rani membaca skala $0\ \text{cm}$ hingga $12\ \text{cm}$ pada penggaris. Berapa panjang benda?
+**Pertanyaan:** Rani meletakkan benda pada penggaris. Ujung kiri tepat di tanda $0\ \text{cm}$ dan ujung kanan di tanda $12\ \text{cm}$. Berapa panjang benda?
 
 **Pilihan jawaban:**
 - $12\ \text{cm}$
