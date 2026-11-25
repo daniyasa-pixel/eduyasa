@@ -17,7 +17,7 @@
   },
   "source_markdown": {
     "path": "kelas-3/pkn/pkn-b02-soal-bergambar.md",
-    "sha256": "2de03200d3e18d89828fb0421c020910debe805bc823536d23aca51eadb2a719"
+    "sha256": "d642729f3a7e345a34fcaa213b23faedcac7c1ef3533a7d6d3b0e24526e83911"
   },
   "chapters": [
     {
@@ -214,15 +214,15 @@
         {
           "id": "K03-PKN-B02-M01-062",
           "type": "PG",
-          "text": "Panel terakhir mengingatkan kita untuk tidak ...",
+          "text": "Apa tindakan yang tidak aman pada panel terakhir gambar tugas rumah?",
           "options": [
             "menjaga kebersihan",
-            "memakai alat tajam tanpa pendampingan",
+            "memakai alat tajam tanpa izin",
             "merapikan mainan",
             "menyiram bunga"
           ],
-          "answer": "memakai alat tajam tanpa pendampingan",
-          "discussion": "Panel ketiga memberi peringatan tentang alat tajam.",
+          "answer": "memakai alat tajam tanpa izin",
+          "discussion": "Panel terakhir bertuliskan memakai alat tajam tanpa izin. Anak perlu izin dan pendampingan orang dewasa saat menggunakan alat yang berisiko.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b02-gambar-06.svg",
             "alt": "Dua tugas rumah aman dan satu tindakan yang berbahaya tanpa pendampingan."
@@ -337,7 +337,7 @@
           "options": [
             "Penjual",
             "Tetangga yang tak dikenal",
-            "Disembunyikan sendiri",
+            "Teman yang tidak mengetahui pemilik buku",
             "Guru"
           ],
           "answer": "Guru",
