@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-SBD-B01-M01-036
 
-![Susunan titik rapat dan renggang](assets/sbd-b01-gambar-01.svg)
+![Dua titik renggang di atas dan deretan titik rapat membentuk jejak di bawah.](assets/sbd-b01-gambar-01.svg)
 
 **Pertanyaan:** Deretan titik manakah yang paling kuat memberi kesan sebuah garis?
 
@@ -22,7 +22,7 @@
 
 ## Soal 37 — K03-SBD-B01-M01-037
 
-![Empat jenis garis](assets/sbd-b01-gambar-02.svg)
+![Empat garis bernomor: mendatar, tegak, miring, dan melengkung.](assets/sbd-b01-gambar-02.svg)
 
 **Pertanyaan:** Garis nomor berapa yang merupakan garis diagonal?
 
@@ -40,7 +40,7 @@
 
 ## Soal 38 — K03-SBD-B01-M01-038
 
-![Garis terbuka dan garis tertutup](assets/sbd-b01-gambar-03.svg)
+![Garis melengkung terbuka di kiri dan bidang tertutup di kanan.](assets/sbd-b01-gambar-03.svg)
 
 **Pertanyaan:** Gambar manakah yang menunjukkan garis tertutup sehingga membatasi sebuah bidang?
 
@@ -58,7 +58,7 @@
 
 ## Soal 39 — K03-SBD-B01-M01-039
 
-![Bidang geometris dan organis](assets/sbd-b01-gambar-04.svg)
+![Lingkaran, segitiga, dan persegi di kiri; daun dan awan di kanan.](assets/sbd-b01-gambar-04.svg)
 
 **Pertanyaan:** Kelompok di sebelah kanan berisi bidang organis karena bentuknya ....
 
@@ -76,7 +76,7 @@
 
 ## Soal 40 — K03-SBD-B01-M01-040
 
-![Persegi dan kubus](assets/sbd-b01-gambar-05.svg)
+![Persegi datar di kiri dan kubus bervolume di kanan.](assets/sbd-b01-gambar-05.svg)
 
 **Pertanyaan:** Objek manakah yang menunjukkan bentuk tiga dimensi karena memiliki volume?
 
@@ -94,7 +94,7 @@
 
 ## Soal 41 — K03-SBD-B01-M01-041
 
-![Campuran cat merah dan kuning](assets/sbd-b01-gambar-06.svg)
+![Dua tetes cat merah dan kuning menuju wadah campur kosong.](assets/sbd-b01-gambar-06.svg)
 
 **Pertanyaan:** Jika dua warna cat pada gambar dicampur, warna yang umumnya terbentuk adalah ....
 
@@ -112,7 +112,7 @@
 
 ## Soal 42 — K03-SBD-B01-M01-042
 
-![Tabel pencampuran warna](assets/sbd-b01-gambar-07.svg)
+![Baris merah tambah kuning menjadi oranye; baris kuning tambah biru menuju kotak kosong.](assets/sbd-b01-gambar-07.svg)
 
 **Pertanyaan:** Warna apa yang tepat untuk mengisi kotak kosong pada baris kedua?
 
@@ -130,7 +130,7 @@
 
 ## Soal 43 — K03-SBD-B01-M01-043
 
-![Rancangan kolase sebelum dilem](assets/sbd-b01-gambar-08.svg)
+![Bidang gambar taman dengan potongan daun dan bunga belum direkatkan di sekelilingnya.](assets/sbd-b01-gambar-08.svg)
 
 **Pertanyaan:** Potongan bahan pada gambar belum dilem. Langkah berikut yang paling baik adalah ....
 
@@ -148,7 +148,7 @@
 
 ## Soal 44 — K03-SBD-B01-M01-044
 
-![Cara membawa dan menyerahkan gunting](assets/sbd-b01-gambar-09.svg)
+![Anak kiri membawa gunting terbuka; anak kanan menyerahkan gunting tertutup dengan gagang menghadap penerima.](assets/sbd-b01-gambar-09.svg)
 
 **Pertanyaan:** Cara menyerahkan gunting yang lebih aman ditunjukkan oleh ....
 
@@ -166,7 +166,7 @@
 
 ## Soal 45 — K03-SBD-B01-M01-045
 
-![Umpan balik terhadap karya](assets/sbd-b01-gambar-10.svg)
+![Karya daun di tengah, komentar rinci dan sopan di kiri, serta komentar merendahkan di kanan.](assets/sbd-b01-gambar-10.svg)
 
 **Pertanyaan:** Komentar manakah yang merupakan umpan balik sopan dan berguna?
 
