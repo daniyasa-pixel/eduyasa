@@ -271,3 +271,12 @@ Sesuai persetujuan untuk 10 poin penyempurnaan frontend:
 7. Buka detail Matematika; level, bintang dan ketepatan masing-masing bab harus muncul. Kembali ke daftar lalu Pengaturan.
 8. Cek `adb logcat -s EduyasaSFX` jika efek suara tidak terdengar, dan cek pengaturan volume media.
 9. **Tidak ada perubahan** pada bank soal JSON, materi, HTML, branch `main`, maupun struktur database siswa.
+
+## Aturan penamaan APK dan versi aplikasi
+
+- Setiap build APK Android harus menghasilkan nama `Eduyasa <versionName> <buildType>.apk`, misalnya `Eduyasa 0.1.0 debug.apk` atau `Eduyasa 0.1.0 release.apk`.
+- Penamaan dilakukan otomatis oleh Gradle, bukan rename manual; folder output tetap `app/build/outputs/apk/debug/` atau `app/build/outputs/apk/release/`.
+- Informasi Versi Aplikasi di bagian bawah Pengaturan memakai `BuildConfig.VERSION_NAME` yang dihasilkan dari versi build aktual. Jangan menulis versi sebagai teks hardcoded.
+- Saat mengubah versi, atur `versionName` dan `versionCode` di `app/build.gradle.kts` sesuai kebijakan rilis. Nama APK hanya memakai versionName, bukan versionCode.
+- Implementasi penamaan memakai API output legacy AGP 8.7.3; jika AGP ditingkatkan ke versi mayor baru, periksa kompatibilitas penamaan APK.
+- QA: jalankan assembleDebug dan assembleRelease, cek nama APK dan cocokkan versi di Pengaturan dengan versi Gradle. Release tetap membutuhkan signing untuk instalasi/distribusi jika belum dikonfigurasi.
