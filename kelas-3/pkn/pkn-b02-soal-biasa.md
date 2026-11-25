@@ -656,7 +656,7 @@ Paket soal tanpa ilustrasi; aplikasi mengacak soal dan empat opsi.
 
 **Kunci jawaban:** secara seimbang
 
-**Pembahasan:** Menjalankan kewajiban membantu hak bersama terpenuhi.
+**Pembahasan:** Hak setiap orang harus dihormati dan kewajiban dilakukan dengan tanggung jawab. Hak dasar anak tidak boleh dicabut karena tugas belum selesai.
 
 ---
 
@@ -790,14 +790,14 @@ Paket soal tanpa ilustrasi; aplikasi mengacak soal dan empat opsi.
 
 ## Soal 50 — K03-PKN-B02-M01-050
 
-**Pertanyaan:** Kalau kamu belum melaksanakan kewajiban tetapi meminta hak, langkah baik ialah ...
+**Pertanyaan:** Kamu belum merapikan mainan sesuai kesepakatan, tetapi sudah waktunya makan. Apa tindakan yang tepat?
 
 **Pilihan jawaban:**
-- menjalankan kewajiban sesuai kemampuan tanpa kehilangan hak dasar
-- mengambil hak orang lain
-- menyalahkan teman
-- mengabaikan tugas terus
+- tetap makan saat waktunya dan menyelesaikan tugas sesuai kemampuan
+- tidak boleh makan sampai semua tugas selesai
+- mengambil makanan milik teman
+- mengabaikan tugas merapikan mainan selamanya
 
-**Kunci jawaban:** menjalankan kewajiban sesuai kemampuan tanpa kehilangan hak dasar
+**Kunci jawaban:** tetap makan saat waktunya dan menyelesaikan tugas sesuai kemampuan
 
-**Pembahasan:** Hak dasar anak tetap berlaku; kewajiban perlu dilakukan dengan tanggung jawab.
+**Pembahasan:** Makan merupakan kebutuhan dan hak dasar anak. Kewajiban merapikan mainan tetap perlu dilakukan dengan tanggung jawab.
