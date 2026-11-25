@@ -20,7 +20,7 @@
   },
   "source_markdown": {
     "path": "kelas-3/mtk/mtk-b03-soal-biasa.md",
-    "sha256": "9fb506d398f7bff67236db1dfb1b763d1e0d896d25f98df024cc9153005db482"
+    "sha256": "b719518804f59a135be4d2e6912906f90fee6b0bf89c46b9dff613f8d41bb847"
   },
   "chapters": [
     {
@@ -147,15 +147,15 @@
         {
           "id": "K03-MTK-B03-M01-010",
           "type": "PG",
-          "text": "Ketika membaca hasil pengukuran, posisi mata sebaiknya ...",
+          "text": "Ketika membaca skala penggaris, arah pandangan mata sebaiknya ...",
           "options": [
             "jauh di samping",
             "dari belakang benda",
             "menutup angka skala",
-            "sejajar dengan skala"
+            "tegak lurus terhadap skala"
           ],
-          "answer": "sejajar dengan skala",
-          "discussion": "Membaca sejajar skala mengurangi kesalahan."
+          "answer": "tegak lurus terhadap skala",
+          "discussion": "Lihat skala dari tepat di atas tanda ukur agar tidak terjadi kesalahan akibat sudut pandang."
         },
         {
           "id": "K03-MTK-B03-M01-011",
@@ -602,7 +602,7 @@
         {
           "id": "K03-MTK-B03-M01-045",
           "type": "PG",
-          "text": "Dua batang kayu masing-masing $27\\ \\text{cm}$ dan $33\\ \\text{cm}$ disambungkan. Berapa panjang totalnya?",
+          "text": "Dua batang kayu masing-masing $27\\ \\text{cm}$ dan $33\\ \\text{cm}$ disambungkan ujung ke ujung tanpa tumpang tindih. Berapa panjang totalnya?",
           "options": [
             "$65\\ \\text{cm}$",
             "$60\\ \\text{cm}$",
@@ -654,7 +654,7 @@
         {
           "id": "K03-MTK-B03-M01-049",
           "type": "PG",
-          "text": "Rani membaca skala $0\\ \\text{cm}$ hingga $12\\ \\text{cm}$ pada penggaris. Berapa panjang benda?",
+          "text": "Rani meletakkan benda pada penggaris. Ujung kiri tepat di tanda $0\\ \\text{cm}$ dan ujung kanan di tanda $12\\ \\text{cm}$. Berapa panjang benda?",
           "options": [
             "$12\\ \\text{cm}$",
             "$13\\ \\text{cm}$",
