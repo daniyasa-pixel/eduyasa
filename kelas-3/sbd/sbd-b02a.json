@@ -11,171 +11,171 @@
         {
           "id": "K03-SBD-B02-M01-036",
           "type": "PG",
-          "text": "Perhatikan potongan bahan berbeda yang direkatkan pada bidang kertas. Cara membuat karya itu disebut ....",
+          "text": "Pernyataan manakah yang sesuai dengan unsur yang terlihat pada karya?",
           "options": [
-            "memukul drum",
-            "menari berpasangan",
-            "menempel berbagai bahan pada bidang",
-            "menyanyi bersama"
+            "Tiga lingkaran kuning berada di atas garis berombak",
+            "Semua bentuk pada karya berupa persegi merah",
+            "Karya tidak menggunakan garis",
+            "Hanya ada satu titik pada karya"
           ],
-          "answer": "menempel berbagai bahan pada bidang",
-          "discussion": "Kolase dibuat dengan menempel berbagai bahan pada bidang.",
+          "answer": "Tiga lingkaran kuning berada di atas garis berombak",
+          "discussion": "Karya menampilkan tiga lingkaran kuning, garis berombak, serta pola titik; pernyataan pertama sesuai bukti visual.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b02-gambar-01.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Tiga lingkaran kuning di atas tiga garis biru berombak dan pola titik merah di bagian bawah."
           }
         },
         {
           "id": "K03-SBD-B02-M01-037",
           "type": "PG",
-          "text": "Keping-keping kecil disusun berdekatan untuk mengisi gambar pada ilustrasi. Teknik yang dicontohkan memakai ....",
+          "text": "Komentar manakah yang paling spesifik dan santun?",
           "options": [
-            "satu nada panjang",
-            "suara air",
-            "gerakan lari",
-            "potongan kecil bahan yang disusun"
+            "komentar pada kartu kiri",
+            "komentar pada kartu kanan",
+            "keduanya hanya memberi peringkat",
+            "keduanya tidak membahas karya"
           ],
-          "answer": "potongan kecil bahan yang disusun",
-          "discussion": "Mozaik dapat dibuat dari potongan kecil bahan yang disusun.",
+          "answer": "komentar pada kartu kiri",
+          "discussion": "Kartu kiri menyebut bagian yang diamati dan alasannya, sedangkan kartu kanan hanya merendahkan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b02-gambar-02.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Kartu kiri berisi komentar spesifik tentang garis; kartu kanan hanya menyebut jelek."
           }
         },
         {
           "id": "K03-SBD-B02-M01-038",
           "type": "PG",
-          "text": "Seorang anak menanggapi karya teman pada ilustrasi. Agar tanggapannya membantu, isi komentar harus berupa ....",
+          "text": "Kartu presentasi ketiga masih kosong. Informasi yang paling tepat untuk melengkapinya adalah ....",
           "options": [
-            "saran yang jelas dan santun",
-            "ejekan pribadi",
-            "ancaman",
-            "kebohongan"
+            "proses membuat dan perubahan yang dilakukan",
+            "nilai ulangan pembuat karya",
+            "daftar makanan kesukaan",
+            "peringkat karya di kelas"
           ],
-          "answer": "saran yang jelas dan santun",
-          "discussion": "Kritik membangun sebaiknya berisi saran yang jelas dan santun.",
+          "answer": "proses membuat dan perubahan yang dilakukan",
+          "discussion": "Setelah judul dan ide, presentasi dapat menjelaskan proses, pilihan, atau perubahan selama membuat karya.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b02-gambar-03.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Tiga kartu berurutan berisi judul, ide, dan satu kartu kosong bertanda tanya."
           }
         },
         {
           "id": "K03-SBD-B02-M01-039",
           "type": "PG",
-          "text": "Dua karya pada gambar menggunakan gaya berbeda. Bagaimana pengunjung seharusnya memperlakukan keduanya?",
+          "text": "Apa yang dapat dikatakan tentang susunan bentuk pada gambar?",
           "options": [
-            "ditertawakan",
-            "tetap dihargai",
-            "disembunyikan",
-            "dihancurkan"
+            "bagian kiri dan kanan terasa seimbang",
+            "semua bentuk berkumpul di sudut kiri",
+            "gambar hanya memiliki satu warna",
+            "tidak ada bidang pada gambar"
           ],
-          "answer": "tetap dihargai",
-          "discussion": "Karya teman yang berbeda gaya sebaiknya tetap dihargai.",
+          "answer": "bagian kiri dan kanan terasa seimbang",
+          "discussion": "Bentuk pada kedua sisi berbeda, tetapi ukuran dan penempatannya membuat kekuatan visual terasa seimbang.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b02-gambar-04.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Dua bentuk di kiri dan dua bentuk berbeda di kanan mengapit lingkaran kecil di tengah."
           }
         },
         {
           "id": "K03-SBD-B02-M01-040",
           "type": "PG",
-          "text": "Pada kartu pengenal karya yang ditunjukkan, informasi apa yang seharusnya tercantum?",
+          "text": "Dua pengunjung memberi kesan berbeda terhadap karya yang sama. Kesimpulan yang tepat adalah ....",
           "options": [
-            "kata ejekan",
-            "rahasia keluarga",
-            "judul dan nama pembuat",
-            "nilai rapor teman"
+            "keduanya boleh menjelaskan alasan berdasarkan karya",
+            "hanya kesan kiri yang boleh disampaikan",
+            "pengunjung kanan harus menghapus pendapatnya",
+            "karya harus diubah agar semua sepakat"
           ],
-          "answer": "judul dan nama pembuat",
-          "discussion": "Label karya pameran dapat memuat judul dan nama pembuat.",
+          "answer": "keduanya boleh menjelaskan alasan berdasarkan karya",
+          "discussion": "Kesan terhadap karya dapat berbeda; setiap pengunjung perlu menjelaskan alasannya dengan santun.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b02-gambar-05.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Satu karya abstrak di tengah; pengunjung kiri berkata tenang dan pengunjung kanan berkata ramai."
           }
         },
         {
           "id": "K03-SBD-B02-M01-041",
           "type": "PG",
-          "text": "Di meja tampak kardus bekas bersih yang hendak dipakai membuat hiasan. Bahan itu dapat menjadi ....",
+          "text": "Perilaku mendengarkan yang tepat ditunjukkan oleh ....",
           "options": [
-            "sampah yang harus dibakar",
-            "bahan makanan",
-            "alat musik otomatis",
-            "bahan berkarya kreatif"
+            "kelompok di sebelah kiri",
+            "kelompok di sebelah kanan",
+            "kedua kelompok sedang menyela",
+            "tidak ada yang memperhatikan"
           ],
-          "answer": "bahan berkarya kreatif",
-          "discussion": "Bahan bekas bersih dapat dijadikan bahan berkarya kreatif.",
+          "answer": "kelompok di sebelah kiri",
+          "discussion": "Kelompok kiri memandang penyaji dan menunggu giliran, sedangkan kelompok kanan berbicara saat presentasi berlangsung.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b02-gambar-06.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Kelompok kiri menghadap penyaji dan mengangkat tangan; kelompok kanan saling berbicara ketika penyaji menjelaskan."
           }
         },
         {
           "id": "K03-SBD-B02-M01-042",
           "type": "PG",
-          "text": "Pengunjung melihat karya yang diberi tanda tidak boleh disentuh. Apa perilaku yang tepat?",
+          "text": "Manakah kalimat pengamatan yang sesuai dengan gambar?",
           "options": [
-            "mengikuti aturan dan tidak menyentuh karya tanpa izin",
-            "menarik bingkai",
-            "mencoret karya",
-            "berlari di dekat pajangan"
+            "Ada tiga garis biru berombak dan satu lingkaran kuning",
+            "Gambar pasti menceritakan kesedihan",
+            "Pembuatnya tentu ingin pergi ke laut",
+            "Lingkaran berarti persahabatan selamanya"
           ],
-          "answer": "mengikuti aturan dan tidak menyentuh karya tanpa izin",
-          "discussion": "Mengunjungi pameran seni sebaiknya mengikuti aturan dan tidak menyentuh karya tanpa izin.",
+          "answer": "Ada tiga garis biru berombak dan satu lingkaran kuning",
+          "discussion": "Kalimat pertama menyebut jumlah, warna, dan bentuk yang terlihat; pilihan lain merupakan tafsiran yang belum dibuktikan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b02-gambar-07.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Tiga garis biru berombak dan satu lingkaran kuning tanpa keterangan makna."
           }
         },
         {
           "id": "K03-SBD-B02-M01-043",
           "type": "PG",
-          "text": "Dalam karya berwarna pada ilustrasi, ada satu warna mengisi sebagian besar bidang. Warna dominan berarti warna yang ....",
+          "text": "Tanggapan manakah yang berupa saran membangun?",
           "options": [
-            "tidak terlihat",
-            "paling menonjol",
-            "tidak dipakai",
-            "selalu putih"
+            "tanggapan pada kartu kiri",
+            "tanggapan pada kartu kanan",
+            "keduanya memerintah dengan kasar",
+            "keduanya membahas nilai rapor"
           ],
-          "answer": "paling menonjol",
-          "discussion": "Warna yang dominan pada karya berarti warna yang paling menonjol.",
+          "answer": "tanggapan pada kartu kiri",
+          "discussion": "Kartu kiri menawarkan perubahan khusus yang dapat dicoba, sedangkan kartu kanan memerintah dan merendahkan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b02-gambar-08.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Kartu kiri memberi saran jarak bentuk; kartu kanan memerintahkan membuang karya."
           }
         },
         {
           "id": "K03-SBD-B02-M01-044",
           "type": "PG",
-          "text": "Perhatikan karya berisi pegunungan dan aliran air. Jenis objek utama gambar itu adalah ....",
+          "text": "Berdasarkan karya dan bahan yang terlihat, penjelasan proses yang paling sesuai adalah ....",
           "options": [
-            "rumus matematika",
-            "daftar belanja",
-            "alam seperti gunung atau sungai",
-            "hanya angka"
+            "krayon dipakai memberi warna dan potongan kertas ditempel sebagai bentuk",
+            "penggaris dipakai menghasilkan suara dan lem dijadikan warna",
+            "potongan kertas ditiup agar menjadi patung",
+            "krayon digunakan untuk memotong kertas"
           ],
-          "answer": "alam seperti gunung atau sungai",
-          "discussion": "Lukisan pemandangan biasanya menampilkan alam seperti gunung atau sungai.",
+          "answer": "krayon dipakai memberi warna dan potongan kertas ditempel sebagai bentuk",
+          "discussion": "Jejak krayon memberi warna, sedangkan potongan kertas menjadi bentuk yang ditempel pada bidang.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b02-gambar-09.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Jejak krayon pada latar dan potongan kertas warna berbentuk rumah yang ditempel."
           }
         },
         {
           "id": "K03-SBD-B02-M01-045",
           "type": "PG",
-          "text": "Siswa menjelaskan bagian menarik dari lukisan temannya. Tindakan itu merupakan contoh ....",
+          "text": "Catatan refleksi pada gambar menunjukkan bahwa pembuat ....",
           "options": [
-            "perundungan",
-            "plagiarisme",
-            "perusakan",
-            "apresiasi positif"
+            "mengenali kelebihan dan merencanakan perbaikan",
+            "memberi peringkat pada karya teman",
+            "menolak melihat prosesnya sendiri",
+            "menyalin komentar orang lain"
           ],
-          "answer": "apresiasi positif",
-          "discussion": "Menyebut kelebihan karya teman merupakan contoh apresiasi positif.",
+          "answer": "mengenali kelebihan dan merencanakan perbaikan",
+          "discussion": "Refleksi menyebut bagian yang berhasil serta langkah khusus yang ingin dicoba berikutnya.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b02-gambar-10.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Dua kartu catatan: pola titik berhasil dan rencana merapikan garis tepi."
           }
         }
       ]
