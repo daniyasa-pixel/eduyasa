@@ -11,457 +11,457 @@
         {
           "id": "K03-SBD-B01-M01-001",
           "type": "PG",
-          "text": "Rina menarik pensil dari kiri ke kanan hingga meninggalkan jejak panjang. Unsur visual apa yang dibuat?",
+          "text": "Titik paling kecil pada gambar biasanya dibuat dengan ....",
           "options": [
-            "garis",
-            "warna",
-            "ruang",
-            "tekstur"
+            "satu sentuhan ujung alat",
+            "tarikan panjang berulang",
+            "lipatan kertas lebar",
+            "campuran dua warna"
           ],
-          "answer": "garis",
-          "discussion": "Unsur seni rupa berupa jejak memanjang disebut garis."
+          "answer": "satu sentuhan ujung alat",
+          "discussion": "Titik dapat muncul dari satu sentuhan ujung pensil, pena, atau kuas pada bidang."
         },
         {
           "id": "K03-SBD-B01-M01-002",
           "type": "PG",
-          "text": "Dari jarak dekat, titik-titik pada kertas tampak tersusun rapat dan menyambung. Unsur apa yang terbentuk?",
+          "text": "Danu mengulang banyak titik dengan jarak teratur. Hasil yang paling mungkin terlihat adalah ....",
           "options": [
-            "aroma",
-            "garis",
-            "suara",
-            "gerakan"
+            "pola titik",
+            "benda bervolume",
+            "suara berirama",
+            "permukaan berlubang"
           ],
-          "answer": "garis",
-          "discussion": "Titik-titik yang disusun berdekatan dapat membentuk garis."
+          "answer": "pola titik",
+          "discussion": "Pengulangan titik dengan jarak teratur membentuk pola visual."
         },
         {
           "id": "K03-SBD-B01-M01-003",
           "type": "PG",
-          "text": "Lingkaran pada roda dapat dikelompokkan sebagai bentuk apa dalam seni rupa?",
+          "text": "Titik-titik yang disusun sangat rapat dan berurutan dapat memberi kesan sebuah ....",
           "options": [
-            "rasa",
-            "irama",
-            "geometris",
-            "suara"
+            "garis",
+            "warna primer",
+            "bentuk tiga dimensi",
+            "tekstur nyata"
           ],
-          "answer": "geometris",
-          "discussion": "Bentuk lingkaran termasuk bentuk geometris."
+          "answer": "garis",
+          "discussion": "Deretan titik yang rapat dapat terbaca oleh mata sebagai garis."
         },
         {
           "id": "K03-SBD-B01-M01-004",
           "type": "PG",
-          "text": "Saat membuat gambar batu, Bima ingin menunjukkan kesan permukaan kasar. Unsur rupa apa yang digunakan?",
+          "text": "Pada gambar jalan berkelok, garis membantu mata mengikuti ....",
           "options": [
-            "nada",
-            "tempo",
-            "cerita",
-            "tekstur"
+            "arah jalan",
+            "bau cat",
+            "berat kertas",
+            "bunyi kendaraan"
           ],
-          "answer": "tekstur",
-          "discussion": "Permukaan batu yang terasa kasar menunjukkan tekstur."
+          "answer": "arah jalan",
+          "discussion": "Garis dapat menunjukkan arah dan menuntun pandangan pada gambar."
         },
         {
           "id": "K03-SBD-B01-M01-005",
           "type": "PG",
-          "text": "Guru menyiapkan cat merah, kuning, dan biru pada palet. Dalam teori pencampuran cat dasar, kelompok warna itu disebut ....",
+          "text": "Garis yang membentang dari kiri ke kanan sejajar tepi bawah kertas disebut garis ....",
           "options": [
-            "warna primer",
-            "warna netral",
-            "warna sekunder",
-            "warna gelap"
+            "horizontal",
+            "vertikal",
+            "diagonal",
+            "zig-zag"
           ],
-          "answer": "warna primer",
-          "discussion": "Warna merah, kuning, dan biru dalam teori warna dasar seni rupa disebut warna primer."
+          "answer": "horizontal",
+          "discussion": "Garis horizontal memiliki arah mendatar dari kiri ke kanan atau sebaliknya."
         },
         {
           "id": "K03-SBD-B01-M01-006",
           "type": "PG",
-          "text": "Raka mencampurkan cat merah dan kuning dengan perbandingan seimbang. Warna yang umumnya muncul adalah ....",
+          "text": "Garis utama pada gambar tiang bendera yang tegak dari bawah ke atas disebut garis ....",
           "options": [
-            "hitam",
-            "oranye",
-            "hijau",
-            "ungu"
+            "vertikal",
+            "melengkung",
+            "horizontal",
+            "berombak"
           ],
-          "answer": "oranye",
-          "discussion": "Pencampuran cat merah dan kuning umumnya menghasilkan oranye."
+          "answer": "vertikal",
+          "discussion": "Garis vertikal memiliki arah tegak dari bawah ke atas atau sebaliknya."
         },
         {
           "id": "K03-SBD-B01-M01-007",
           "type": "PG",
-          "text": "Pada gambar jalan, dua pohon sejenis berjarak berbeda dari pengamat. Agar tampak memiliki kedalaman, pohon dekat digambar ....",
+          "text": "Jejak pensil dari sudut kiri bawah menuju sudut kanan atas merupakan garis ....",
           "options": [
-            "tanpa garis",
-            "selalu transparan",
-            "lebih besar dibanding benda sejenis yang jauh",
-            "selalu lebih kecil"
+            "diagonal",
+            "horizontal",
+            "vertikal",
+            "melingkar"
           ],
-          "answer": "lebih besar dibanding benda sejenis yang jauh",
-          "discussion": "Benda yang terlihat lebih dekat biasanya digambar lebih besar dibanding benda sejenis yang jauh."
+          "answer": "diagonal",
+          "discussion": "Garis diagonal arahnya miring terhadap sisi kertas."
         },
         {
           "id": "K03-SBD-B01-M01-008",
           "type": "PG",
-          "text": "Sebelum menggambar daun mangga, Siti melihat tepi, urat, dan arah tangkainya. Informasi apa yang ia kumpulkan?",
+          "text": "Untuk menggambar lengkungan gagang payung, jenis garis yang paling sesuai adalah ....",
           "options": [
-            "suara daun saja",
-            "rasa daun",
-            "harga daun",
-            "bentuk, garis, dan urat daun"
+            "melengkung",
+            "zig-zag",
+            "vertikal",
+            "horizontal"
           ],
-          "answer": "bentuk, garis, dan urat daun",
-          "discussion": "Mengamati daun sebelum menggambar membantu mengenali bentuk, garis, dan urat daun."
+          "answer": "melengkung",
+          "discussion": "Garis melengkung berubah arah secara halus dan cocok untuk menggambar lengkungan."
         },
         {
           "id": "K03-SBD-B01-M01-009",
           "type": "PG",
-          "text": "Anak menggambar garis sejajar dengan sisi bawah kertas. Jenis garis itu adalah ....",
+          "text": "Rangkaian garis yang patah-patah membentuk sudut tajam disebut garis ....",
           "options": [
+            "zig-zag",
+            "berombak",
             "horizontal",
-            "vertikal",
-            "diagonal",
-            "spiral"
+            "melingkar"
           ],
-          "answer": "horizontal",
-          "discussion": "Garis mendatar disebut juga garis horizontal."
+          "answer": "zig-zag",
+          "discussion": "Garis zig-zag tersusun dari beberapa garis miring yang bertemu membentuk sudut."
         },
         {
           "id": "K03-SBD-B01-M01-010",
           "type": "PG",
-          "text": "Pada gambar tiang bendera, garisnya mengarah lurus dari bawah ke atas. Nama garis tersebut adalah ....",
+          "text": "Untuk menunjukkan permukaan air yang bergerak perlahan, garis yang dapat dicoba adalah garis ....",
           "options": [
-            "zig-zag",
+            "berombak",
             "vertikal",
-            "horizontal",
-            "melengkung"
+            "zig-zag",
+            "diagonal"
           ],
-          "answer": "vertikal",
-          "discussion": "Garis tegak disebut garis vertikal."
+          "answer": "berombak",
+          "discussion": "Garis berombak dapat memberi kesan gerak naik-turun yang lembut."
         },
         {
           "id": "K03-SBD-B01-M01-011",
           "type": "PG",
-          "text": "Kain batik menampilkan rangkaian bentuk yang berulang. Sebutan untuk pola berulang ini adalah ....",
+          "text": "Mila ingin membuat satu garis lebih gelap dan satu garis lebih terang dengan pensil yang sama. Ia dapat mengubah ....",
           "options": [
-            "tempo",
-            "nada",
-            "motif",
-            "volume suara"
+            "tekanan pensil",
+            "warna meja",
+            "ukuran kertas",
+            "arah cahaya ruangan"
           ],
-          "answer": "motif",
-          "discussion": "Pola yang berulang pada kain disebut motif."
+          "answer": "tekanan pensil",
+          "discussion": "Tekanan yang lebih kuat umumnya menghasilkan garis lebih gelap, sedangkan tekanan ringan menghasilkan garis lebih terang."
         },
         {
           "id": "K03-SBD-B01-M01-012",
           "type": "PG",
-          "text": "Dalam sketsa bukit, garis cakrawala memisahkan langit dan daratan. Di mana biasanya bagian langit diletakkan?",
+          "text": "Sebuah garis melengkung ditutup hingga kedua ujungnya bertemu. Bagian rata yang dikelilingi garis itu disebut ....",
           "options": [
-            "di bawah tanah",
-            "di dalam rumah",
-            "di belakang kertas",
-            "di atas garis cakrawala"
+            "bidang",
+            "titik",
+            "volume suara",
+            "gerak"
           ],
-          "answer": "di atas garis cakrawala",
-          "discussion": "Saat menggambar pemandangan, bagian langit biasanya berada di atas garis cakrawala."
+          "answer": "bidang",
+          "discussion": "Garis tertutup dapat membatasi suatu bidang pada permukaan datar."
         },
         {
           "id": "K03-SBD-B01-M01-013",
           "type": "PG",
-          "text": "Guru menyiapkan kapas sebagai contoh permukaan benda. Kesan rabaan yang paling sesuai adalah ....",
+          "text": "Lingkaran, segitiga, dan persegi termasuk contoh bidang ....",
           "options": [
-            "lembut",
-            "tajam",
-            "keras seperti besi",
-            "kasar seperti kerikil"
+            "geometris",
+            "organis",
+            "tiga dimensi",
+            "bertekstur nyata"
           ],
-          "answer": "lembut",
-          "discussion": "Permukaan kapas umumnya terasa lembut."
+          "answer": "geometris",
+          "discussion": "Bidang geometris mempunyai bentuk teratur dan dapat dikenali melalui aturan ukuran atau sudut."
         },
         {
           "id": "K03-SBD-B01-M01-014",
           "type": "PG",
-          "text": "Seorang siswa menarik garis miring dari sudut kiri bawah menuju kanan atas. Garis ini disebut ....",
+          "text": "Siluet daun yang tidak tersusun dari bentuk teratur termasuk bidang ....",
           "options": [
-            "lingkaran",
-            "diagonal",
-            "horizontal",
-            "vertikal"
+            "organis",
+            "geometris",
+            "kubistis",
+            "silindris"
           ],
-          "answer": "diagonal",
-          "discussion": "Garis miring disebut garis diagonal."
+          "answer": "organis",
+          "discussion": "Bidang organis memiliki tepi yang bebas atau menyerupai bentuk yang ditemukan di alam."
         },
         {
           "id": "K03-SBD-B01-M01-015",
           "type": "PG",
-          "text": "Ketika mencari objek daun untuk digambar, siswa memasuki taman sekolah. Sikap yang tepat adalah ....",
+          "text": "Manakah pernyataan yang tepat tentang bidang dan bentuk tiga dimensi?",
           "options": [
-            "mencoret dinding",
-            "membuang sampah",
-            "menjaga kebersihan dan tidak merusak tanaman",
-            "memetik semua bunga"
+            "Bidang datar, sedangkan bentuk tiga dimensi memiliki volume",
+            "Bidang selalu kasar, sedangkan bentuk selalu halus",
+            "Bidang hanya merah, sedangkan bentuk hanya biru",
+            "Bidang dapat didengar, sedangkan bentuk dapat dicium"
           ],
-          "answer": "menjaga kebersihan dan tidak merusak tanaman",
-          "discussion": "Sikap baik saat mengamati lingkungan untuk menggambar adalah menjaga kebersihan dan tidak merusak tanaman."
+          "answer": "Bidang datar, sedangkan bentuk tiga dimensi memiliki volume",
+          "discussion": "Bidang memiliki panjang dan lebar pada permukaan datar, sedangkan bentuk tiga dimensi juga memiliki volume atau isi ruang."
         },
         {
           "id": "K03-SBD-B01-M01-016",
           "type": "PG",
-          "text": "Pensil digerakkan mengikuti jejak memanjang yang berbelok. Walaupun berbelok, jejak tersebut termasuk unsur ....",
+          "text": "Kelompok benda yang menunjukkan bentuk tiga dimensi adalah ....",
           "options": [
-            "warna",
-            "ruang",
-            "tekstur",
-            "garis"
+            "bola, kubus, dan tabung",
+            "lingkaran, persegi, dan segitiga",
+            "titik, garis, dan warna",
+            "merah, kuning, dan biru"
           ],
-          "answer": "garis",
-          "discussion": "Unsur seni rupa berupa jejak memanjang disebut garis."
+          "answer": "bola, kubus, dan tabung",
+          "discussion": "Bola, kubus, dan tabung memiliki volume sehingga termasuk bentuk tiga dimensi."
         },
         {
           "id": "K03-SBD-B01-M01-017",
           "type": "PG",
-          "text": "Untuk membuat batas jalan pada ilustrasi, Dita menghubungkan beberapa titik hingga menjadi jejak panjang. Hasilnya berupa ....",
+          "text": "Saat mengamati botol minum, bagian badannya paling dekat dengan bentuk ....",
           "options": [
-            "garis",
-            "suara",
-            "gerakan",
-            "aroma"
+            "tabung",
+            "segitiga datar",
+            "garis horizontal",
+            "titik tunggal"
           ],
-          "answer": "garis",
-          "discussion": "Titik-titik yang disusun berdekatan dapat membentuk garis."
+          "answer": "tabung",
+          "discussion": "Badan banyak botol menyerupai tabung, walaupun detail setiap botol dapat berbeda."
         },
         {
           "id": "K03-SBD-B01-M01-018",
           "type": "PG",
-          "text": "Di antara segitiga, kotak, dan lingkaran pada penggaris pola, lingkaran termasuk kelompok bentuk ....",
+          "text": "Dalam pembelajaran dasar pencampuran cat, merah, kuning, dan biru disebut warna ....",
           "options": [
-            "irama",
-            "geometris",
-            "suara",
-            "rasa"
+            "primer",
+            "sekunder",
+            "tersier",
+            "netral"
           ],
-          "answer": "geometris",
-          "discussion": "Bentuk lingkaran termasuk bentuk geometris."
+          "answer": "primer",
+          "discussion": "Merah, kuning, dan biru digunakan sebagai warna primer dalam model pencampuran cat dasar."
         },
         {
           "id": "K03-SBD-B01-M01-019",
           "type": "PG",
-          "text": "Seorang siswa membuat arsiran untuk menampilkan kesan permukaan kulit pohon. Unsur yang ditekankan adalah ....",
-          "options": [
-            "tempo",
-            "cerita",
-            "tekstur",
-            "nada"
-          ],
-          "answer": "tekstur",
-          "discussion": "Permukaan batu yang terasa kasar menunjukkan tekstur."
-        },
-        {
-          "id": "K03-SBD-B01-M01-020",
-          "type": "PG",
-          "text": "Ketika memilih tiga cat dasar untuk latihan campuran warna, guru menunjukkan merah, kuning, dan biru. Kelompoknya adalah ....",
-          "options": [
-            "warna netral",
-            "warna sekunder",
-            "warna gelap",
-            "warna primer"
-          ],
-          "answer": "warna primer",
-          "discussion": "Warna merah, kuning, dan biru dalam teori warna dasar seni rupa disebut warna primer."
-        },
-        {
-          "id": "K03-SBD-B01-M01-021",
-          "type": "PG",
-          "text": "Pada percobaan cat, warna merah bertemu warna kuning. Hasil umum yang dapat dicatat siswa adalah ....",
+          "text": "Campuran cat merah dan kuning umumnya menghasilkan warna ....",
           "options": [
             "oranye",
             "hijau",
             "ungu",
-            "hitam"
+            "cokelat"
           ],
           "answer": "oranye",
-          "discussion": "Pencampuran cat merah dan kuning umumnya menghasilkan oranye."
+          "discussion": "Dalam pencampuran cat dasar, merah dan kuning menghasilkan oranye."
+        },
+        {
+          "id": "K03-SBD-B01-M01-020",
+          "type": "PG",
+          "text": "Campuran cat kuning dan biru umumnya menghasilkan warna ....",
+          "options": [
+            "hijau",
+            "oranye",
+            "ungu",
+            "merah"
+          ],
+          "answer": "hijau",
+          "discussion": "Dalam pencampuran cat dasar, kuning dan biru menghasilkan hijau."
+        },
+        {
+          "id": "K03-SBD-B01-M01-021",
+          "type": "PG",
+          "text": "Campuran cat biru dan merah umumnya menghasilkan warna ....",
+          "options": [
+            "ungu",
+            "hijau",
+            "oranye",
+            "kuning"
+          ],
+          "answer": "ungu",
+          "discussion": "Dalam pencampuran cat dasar, biru dan merah menghasilkan ungu."
         },
         {
           "id": "K03-SBD-B01-M01-022",
           "type": "PG",
-          "text": "Untuk menampilkan dua rumah yang ukuran aslinya sama, rumah depan sebaiknya digambarkan ....",
+          "text": "Oranye, hijau, dan ungu disebut warna sekunder karena dibuat dengan ....",
           "options": [
-            "selalu transparan",
-            "lebih besar dibanding benda sejenis yang jauh",
-            "selalu lebih kecil",
-            "tanpa garis"
+            "mencampur dua warna primer",
+            "menambahkan air saja",
+            "mencampur hitam dan putih",
+            "menggunakan satu warna tanpa campuran"
           ],
-          "answer": "lebih besar dibanding benda sejenis yang jauh",
-          "discussion": "Benda yang terlihat lebih dekat biasanya digambar lebih besar dibanding benda sejenis yang jauh."
+          "answer": "mencampur dua warna primer",
+          "discussion": "Warna sekunder pada model ini diperoleh dari campuran dua warna primer."
         },
         {
           "id": "K03-SBD-B01-M01-023",
           "type": "PG",
-          "text": "Seorang anak membandingkan dua daun yang tampak serupa. Sebelum menggambar, ia meneliti rincian ....",
+          "text": "Warna tersier dapat dicoba dengan mencampur ....",
           "options": [
-            "rasa daun",
-            "harga daun",
-            "bentuk, garis, dan urat daun",
-            "suara daun saja"
+            "satu warna primer dan satu warna sekunder yang berdekatan",
+            "tiga jenis lem",
+            "dua potong kertas putih",
+            "air dan pensil grafit"
           ],
-          "answer": "bentuk, garis, dan urat daun",
-          "discussion": "Mengamati daun sebelum menggambar membantu mengenali bentuk, garis, dan urat daun."
+          "answer": "satu warna primer dan satu warna sekunder yang berdekatan",
+          "discussion": "Warna tersier terbentuk dari campuran warna primer dengan warna sekunder yang berdekatan pada lingkaran warna."
         },
         {
           "id": "K03-SBD-B01-M01-024",
           "type": "PG",
-          "text": "Seorang murid menggambar permukaan meja dengan garis yang melintang datar. Garis itu bernama ....",
+          "text": "Dua siswa memakai warna berbeda untuk tema taman. Sikap yang tepat adalah ....",
           "options": [
-            "vertikal",
-            "diagonal",
-            "spiral",
-            "horizontal"
+            "menjelaskan alasan pilihan masing-masing",
+            "menyatakan hanya satu warna boleh dipakai",
+            "menghapus karya teman",
+            "menyamakan semua karya tanpa berdiskusi"
           ],
-          "answer": "horizontal",
-          "discussion": "Garis mendatar disebut juga garis horizontal."
+          "answer": "menjelaskan alasan pilihan masing-masing",
+          "discussion": "Pilihan warna dapat berbeda sesuai gagasan; siswa dapat menjelaskan pengaruh warna pada bagian yang ingin ditonjolkan."
         },
         {
           "id": "K03-SBD-B01-M01-025",
           "type": "PG",
-          "text": "Untuk batang pohon yang tumbuh tegak, jenis garis awal paling cocok adalah ....",
+          "text": "Sebelum menggambar daun, pengamatan yang paling membantu adalah ....",
           "options": [
-            "vertikal",
-            "horizontal",
-            "melengkung",
-            "zig-zag"
+            "melihat tepi, urat, warna, dan arah tangkai",
+            "menebak rasa daun tanpa melihat",
+            "hanya menghafal nama pohon",
+            "menyalin gambar teman seluruhnya"
           ],
-          "answer": "vertikal",
-          "discussion": "Garis tegak disebut garis vertikal."
+          "answer": "melihat tepi, urat, warna, dan arah tangkai",
+          "discussion": "Pengamatan langsung terhadap bagian yang terlihat memberi rincian untuk membuat gambar."
         },
         {
           "id": "K03-SBD-B01-M01-026",
           "type": "PG",
-          "text": "Pada hiasan kertas, gambar bunga diulang dalam susunan teratur. Susunan berulang itu dinamakan ....",
+          "text": "Lia berkata dua daun sama persis. Bukti yang paling baik untuk memeriksa pernyataannya adalah ....",
           "options": [
-            "nada",
-            "motif",
-            "volume suara",
-            "tempo"
+            "membandingkan bentuk tepi, urat, ukuran, dan warna",
+            "menanyakan harga kedua daun",
+            "menghitung kursi di kelas",
+            "mendengar bunyi bel sekolah"
           ],
-          "answer": "motif",
-          "discussion": "Pola yang berulang pada kain disebut motif."
+          "answer": "membandingkan bentuk tepi, urat, ukuran, dan warna",
+          "discussion": "Kesamaan visual diperiksa dari ciri yang dapat diamati pada kedua daun."
         },
         {
           "id": "K03-SBD-B01-M01-027",
           "type": "PG",
-          "text": "Siswa akan melukis langit dan ladang. Letak langit terhadap garis cakrawala umumnya ....",
+          "text": "Kolase adalah karya yang dibuat dengan cara ....",
           "options": [
-            "di dalam rumah",
-            "di belakang kertas",
-            "di atas garis cakrawala",
-            "di bawah tanah"
+            "menempelkan beragam bahan pada bidang",
+            "meniup peluit mengikuti irama",
+            "menyusun gerak tari berpasangan",
+            "mencampur minuman berwarna"
           ],
-          "answer": "di atas garis cakrawala",
-          "discussion": "Saat menggambar pemandangan, bagian langit biasanya berada di atas garis cakrawala."
+          "answer": "menempelkan beragam bahan pada bidang",
+          "discussion": "Kolase menggabungkan potongan atau bahan berbeda dengan cara ditempel pada suatu bidang."
         },
         {
           "id": "K03-SBD-B01-M01-028",
           "type": "PG",
-          "text": "Pada karya kolase, kapas dipilih untuk memberi kesan halus dan empuk. Kesan raba yang mewakilinya adalah ....",
+          "text": "Sebelum merekatkan potongan kertas kolase, langkah yang paling membantu adalah ....",
           "options": [
-            "tajam",
-            "keras seperti besi",
-            "kasar seperti kerikil",
-            "lembut"
+            "mencoba susunan hingga sesuai rancangan",
+            "menuangkan seluruh lem ke kertas",
+            "membuang semua potongan kecil",
+            "menutup karya dengan buku"
           ],
-          "answer": "lembut",
-          "discussion": "Permukaan kapas umumnya terasa lembut."
+          "answer": "mencoba susunan hingga sesuai rancangan",
+          "discussion": "Mencoba susunan lebih dahulu memudahkan perbaikan sebelum bahan direkatkan."
         },
         {
           "id": "K03-SBD-B01-M01-029",
           "type": "PG",
-          "text": "Pada denah sederhana, jalur menyerong dari satu sudut ke sudut lain disebut garis ....",
+          "text": "Lem pada kolase sebaiknya digunakan ....",
           "options": [
-            "diagonal",
-            "horizontal",
-            "vertikal",
-            "lingkaran"
+            "secukupnya pada bagian yang akan ditempel",
+            "sebanyak mungkin hingga menetes",
+            "pada meja dan lantai",
+            "tanpa mengikuti petunjuk"
           ],
-          "answer": "diagonal",
-          "discussion": "Garis miring disebut garis diagonal."
+          "answer": "secukupnya pada bagian yang akan ditempel",
+          "discussion": "Lem secukupnya membantu bahan menempel tanpa membuat karya terlalu basah atau area kerja kotor."
         },
         {
           "id": "K03-SBD-B01-M01-030",
           "type": "PG",
-          "text": "Sekelompok anak mengamati taman untuk bahan gambar. Perilaku yang mendukung kegiatan tersebut ialah ....",
+          "text": "Cara membawa gunting yang aman adalah ....",
           "options": [
-            "membuang sampah",
-            "menjaga kebersihan dan tidak merusak tanaman",
-            "memetik semua bunga",
-            "mencoret dinding"
+            "menutup bilah dan memegang gagangnya",
+            "membuka bilah sambil berlari",
+            "mengacungkan ujungnya ke teman",
+            "menyimpan gunting di lantai"
           ],
-          "answer": "menjaga kebersihan dan tidak merusak tanaman",
-          "discussion": "Sikap baik saat mengamati lingkungan untuk menggambar adalah menjaga kebersihan dan tidak merusak tanaman."
+          "answer": "menutup bilah dan memegang gagangnya",
+          "discussion": "Gunting dibawa dengan bilah tertutup dan bagian tajam dijauhkan dari orang lain."
         },
         {
           "id": "K03-SBD-B01-M01-031",
           "type": "PG",
-          "text": "Ketika pena ditarik membentuk jejak panjang pada kertas, jejak itu dikenal sebagai unsur ....",
+          "text": "Bahan bekas yang paling tepat digunakan untuk kolase sekolah adalah bahan yang ....",
           "options": [
-            "ruang",
-            "tekstur",
-            "garis",
-            "warna"
+            "bersih, kering, dan tidak tajam",
+            "basah dan berjamur",
+            "pecahannya tajam",
+            "berbau bahan kimia kuat"
           ],
-          "answer": "garis",
-          "discussion": "Unsur seni rupa berupa jejak memanjang disebut garis."
+          "answer": "bersih, kering, dan tidak tajam",
+          "discussion": "Bahan guna ulang harus diperiksa agar bersih, kering, dan aman disentuh."
         },
         {
           "id": "K03-SBD-B01-M01-032",
           "type": "PG",
-          "text": "Beberapa titik yang terus ditambahkan berurutan dapat membentuk sebuah ....",
+          "text": "Ketika mencari contoh daun di taman sekolah, siswa sebaiknya ....",
           "options": [
-            "suara",
-            "gerakan",
-            "aroma",
-            "garis"
+            "mengamati tanpa merusak tanaman",
+            "memetik semua daun muda",
+            "menginjak tanaman agar dekat",
+            "membuang sisa kertas di tanah"
           ],
-          "answer": "garis",
-          "discussion": "Titik-titik yang disusun berdekatan dapat membentuk garis."
+          "answer": "mengamati tanpa merusak tanaman",
+          "discussion": "Pengamatan lingkungan dilakukan dengan menjaga kebersihan dan tidak merusak makhluk hidup."
         },
         {
           "id": "K03-SBD-B01-M01-033",
           "type": "PG",
-          "text": "Lingkaran di antara bentuk pada pola hias termasuk bentuk ....",
+          "text": "Nadia terinspirasi bentuk daun dari buku. Agar karyanya tetap menunjukkan gagasan sendiri, ia dapat ....",
           "options": [
-            "geometris",
-            "suara",
-            "rasa",
-            "irama"
+            "mengembangkan susunan dan pilihan warna versinya",
+            "menyalin seluruh karya lalu mengganti nama",
+            "menghapus nama pembuat asli",
+            "mengaku gambar contoh sebagai miliknya"
           ],
-          "answer": "geometris",
-          "discussion": "Bentuk lingkaran termasuk bentuk geometris."
+          "answer": "mengembangkan susunan dan pilihan warna versinya",
+          "discussion": "Referensi boleh membantu pengamatan, tetapi siswa perlu mengolahnya menjadi susunan dan pilihan visual sendiri serta tidak mengaku karya orang lain."
         },
         {
           "id": "K03-SBD-B01-M01-034",
           "type": "PG",
-          "text": "Untuk membedakan gambar batu kasar dan kain halus, siswa perlu memperhatikan unsur ....",
+          "text": "Komentar yang paling membantu teman memperbaiki kolase adalah ....",
           "options": [
-            "cerita",
-            "tekstur",
-            "nada",
-            "tempo"
+            "Susunan daunmu jelas; coba rapikan lem di tepi kanan",
+            "Karyamu jelek sekali",
+            "Aku paling hebat di kelas",
+            "Buang saja karyamu"
           ],
-          "answer": "tekstur",
-          "discussion": "Permukaan batu yang terasa kasar menunjukkan tekstur."
+          "answer": "Susunan daunmu jelas; coba rapikan lem di tepi kanan",
+          "discussion": "Umpan balik yang baik menyebut kelebihan dan saran tertentu dengan bahasa sopan."
         },
         {
           "id": "K03-SBD-B01-M01-035",
           "type": "PG",
-          "text": "Siswa menyusun palet berisi merah, kuning, dan biru sebagai warna dasar cat. Istilah kelompok warna itu ialah ....",
+          "text": "Urutan kegiatan berkarya yang paling lengkap adalah ....",
           "options": [
-            "warna sekunder",
-            "warna gelap",
-            "warna primer",
-            "warna netral"
+            "mengamati, merancang, membuat, berbagi, lalu merefleksi",
+            "menempel, membuang alat, lalu mulai mengamati",
+            "menilai teman, menyalin, lalu menghapus",
+            "mewarnai, berlari, lalu meninggalkan meja"
           ],
-          "answer": "warna primer",
-          "discussion": "Warna merah, kuning, dan biru dalam teori warna dasar seni rupa disebut warna primer."
+          "answer": "mengamati, merancang, membuat, berbagi, lalu merefleksi",
+          "discussion": "Proses berkarya dimulai dari pengamatan dan rancangan, dilanjutkan pembuatan, berbagi hasil, serta refleksi untuk mengenali hal yang berhasil dan dapat diperbaiki."
         }
       ]
     }
