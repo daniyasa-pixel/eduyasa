@@ -4,7 +4,7 @@
 
 ## Soal 36 — K03-SBD-B03-M01-036
 
-![Urutan cerita biji, hujan, dan kecambah](assets/sbd-b03-gambar-01.svg)
+![Tiga panel menunjukkan biji di tanah, hujan turun, lalu kecambah muncul.](assets/sbd-b03-gambar-01.svg)
 
 **Pertanyaan:** Peristiwa apakah yang terjadi di bagian tengah urutan gambar?
 
@@ -22,7 +22,7 @@
 
 ## Soal 37 — K03-SBD-B03-M01-037
 
-![Tiga hasil uji tekanan krayon](assets/sbd-b03-gambar-02.svg)
+![Tiga bidang bernomor: warna terlalu tipis, warna cukup merata, dan warna menggumpal dengan serpihan krayon.](assets/sbd-b03-gambar-02.svg)
 
 **Pertanyaan:** Hasil uji manakah yang menunjukkan tekanan krayon cukup dan warna relatif merata?
 
@@ -40,7 +40,7 @@
 
 ## Soal 38 — K03-SBD-B03-M01-038
 
-![Urutan awal cetak stensil](assets/sbd-b03-gambar-03.svg)
+![Tiga kartu menunjukkan menggambar pola, menggunting, dan meletakkan pola pada kertas.](assets/sbd-b03-gambar-03.svg)
 
 **Pertanyaan:** Setelah pola diletakkan pada kertas seperti kartu ketiga, langkah berikutnya adalah ....
 
@@ -58,7 +58,7 @@
 
 ## Soal 39 — K03-SBD-B03-M01-039
 
-![Dua cara membawa gunting](assets/sbd-b03-gambar-04.svg)
+![Anak kiri berlari membawa gunting terbuka; anak kanan membawa gunting tertutup pada gagang dengan ujung ke bawah.](assets/sbd-b03-gambar-04.svg)
 
 **Pertanyaan:** Cara membawa gunting yang lebih aman ditunjukkan oleh ....
 
@@ -76,7 +76,7 @@
 
 ## Soal 40 — K03-SBD-B03-M01-040
 
-![Arah usap pada pola stensil](assets/sbd-b03-gambar-05.svg)
+![Pola daun di tengah dengan panah-panah mengarah keluar dari tepinya.](assets/sbd-b03-gambar-05.svg)
 
 **Pertanyaan:** Arah usapan krayon yang benar pada gambar ditunjukkan oleh panah yang ....
 
@@ -94,7 +94,7 @@
 
 ## Soal 41 — K03-SBD-B03-M01-041
 
-![Siluet daun pada hasil stensil](assets/sbd-b03-gambar-06.svg)
+![Bidang biru dengan siluet daun terang di tengah setelah pola diangkat.](assets/sbd-b03-gambar-06.svg)
 
 **Pertanyaan:** Mengapa bentuk daun yang terang terlihat setelah pola diangkat?
 
@@ -112,7 +112,7 @@
 
 ## Soal 42 — K03-SBD-B03-M01-042
 
-![Perbandingan tekanan krayon](assets/sbd-b03-gambar-07.svg)
+![Hasil kiri berwarna menggumpal dengan krayon patah; hasil kanan berwarna merata dengan krayon utuh.](assets/sbd-b03-gambar-07.svg)
 
 **Pertanyaan:** Manakah hasil usapan yang lebih aman bagi alat dan lebih merata?
 
@@ -130,7 +130,7 @@
 
 ## Soal 43 — K03-SBD-B03-M01-043
 
-![Campuran merah dan kuning](assets/sbd-b03-gambar-08.svg)
+![Lingkaran merah dan kuning mengarah ke lingkaran hasil kosong bertanda tanya.](assets/sbd-b03-gambar-08.svg)
 
 **Pertanyaan:** Warna apa yang tepat untuk mengisi lingkaran hasil campuran?
 
@@ -148,7 +148,7 @@
 
 ## Soal 44 — K03-SBD-B03-M01-044
 
-![Dua susunan hiasan bingkai](assets/sbd-b03-gambar-09.svg)
+![Bingkai kiri memiliki hiasan besar menutup gambar; bingkai kanan memiliki hiasan kecil di tepi dan gambar tetap terlihat.](assets/sbd-b03-gambar-09.svg)
 
 **Pertanyaan:** Susunan bingkai manakah yang menjaga gambar utama tetap terlihat?
 
@@ -166,7 +166,7 @@
 
 ## Soal 45 — K03-SBD-B03-M01-045
 
-![Izin sebelum membagikan karya keluarga](assets/sbd-b03-gambar-10.svg)
+![Kartu kiri bertanya boleh difoto; kartu kanan menyatakan langsung unggah tanpa izin.](assets/sbd-b03-gambar-10.svg)
 
 **Pertanyaan:** Tindakan yang lebih menghargai privasi karya keluarga ditunjukkan oleh ....
 
