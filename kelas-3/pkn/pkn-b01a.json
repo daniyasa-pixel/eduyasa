@@ -17,7 +17,7 @@
   },
   "source_markdown": {
     "path": "kelas-3/pkn/pkn-b01-soal-bergambar.md",
-    "sha256": "e933f283315c375ba493465e5dd5223773913c74742142855460ddc7bc0c42d8"
+    "sha256": "33f0ce278a7e2e629e6115310890a79d7c8c7de52138882fe65c0bf318b60064"
   },
   "chapters": [
     {
@@ -282,15 +282,15 @@
         {
           "id": "K03-PKN-B01-M01-066",
           "type": "PG",
-          "text": "Walau berasal dari dua pulau berbeda, Ayu dan Bimo tetap ...",
+          "text": "Menurut gambar, meskipun berasal dari dua pulau berbeda, Ayu dan Bimo sama-sama tinggal di ...",
           "options": [
-            "anak Indonesia",
-            "wajib sama hobinya",
-            "tidak boleh berteman",
-            "berasal dari satu desa"
+            "Indonesia",
+            "satu desa yang sama",
+            "satu pulau yang sama",
+            "negara lain"
           ],
-          "answer": "anak Indonesia",
-          "discussion": "Panel ketiga menunjukkan keduanya Indonesia.",
+          "answer": "Indonesia",
+          "discussion": "Keterangan pada gambar menunjukkan bahwa Ayu dan Bimo tinggal di Indonesia.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/pkn/assets/pkn-b01-gambar-08.svg",
             "alt": "Ayu berasal dari Jawa, Bimo dari Sulawesi, dan keduanya tinggal di Indonesia."
