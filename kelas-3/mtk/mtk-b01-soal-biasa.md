@@ -166,7 +166,7 @@ Tanpa gambar. Empat opsi tidak diberi label A–D.
 
 ## Soal 11 — K03-MTK-B01-M01-011
 
-**Pertanyaan:** Nilai tempat ratusan pada bilangan $346$ adalah ...
+**Pertanyaan:** Nilai angka pada tempat ratusan pada bilangan $346$ adalah ...
 
 **Pilihan jawaban:**
 - $300$
@@ -176,13 +176,13 @@ Tanpa gambar. Empat opsi tidak diberi label A–D.
 
 **Kunci Jawaban:** $300$
 
-**Pembahasan:** Nilai tempat ratusan pada $346$ ialah $300$.
+**Pembahasan:** Nilai angka pada tempat ratusan pada $346$ ialah $300$.
 
 ---
 
 ## Soal 12 — K03-MTK-B01-M01-012
 
-**Pertanyaan:** Nilai tempat puluhan pada bilangan $583$ adalah ...
+**Pertanyaan:** Nilai angka pada tempat puluhan pada bilangan $583$ adalah ...
 
 **Pilihan jawaban:**
 - $81$
@@ -192,13 +192,13 @@ Tanpa gambar. Empat opsi tidak diberi label A–D.
 
 **Kunci Jawaban:** $80$
 
-**Pembahasan:** Nilai tempat puluhan pada $583$ ialah $80$.
+**Pembahasan:** Nilai angka pada tempat puluhan pada $583$ ialah $80$.
 
 ---
 
 ## Soal 13 — K03-MTK-B01-M01-013
 
-**Pertanyaan:** Nilai tempat satuan pada bilangan $274$ adalah ...
+**Pertanyaan:** Nilai angka pada tempat satuan pada bilangan $274$ adalah ...
 
 **Pilihan jawaban:**
 - $104$
@@ -208,13 +208,13 @@ Tanpa gambar. Empat opsi tidak diberi label A–D.
 
 **Kunci Jawaban:** $4$
 
-**Pembahasan:** Nilai tempat satuan pada $274$ ialah $4$.
+**Pembahasan:** Nilai angka pada tempat satuan pada $274$ ialah $4$.
 
 ---
 
 ## Soal 14 — K03-MTK-B01-M01-014
 
-**Pertanyaan:** Nilai tempat puluhan pada bilangan $907$ adalah ...
+**Pertanyaan:** Nilai angka pada tempat puluhan pada bilangan $907$ adalah ...
 
 **Pilihan jawaban:**
 - $1$
@@ -224,13 +224,13 @@ Tanpa gambar. Empat opsi tidak diberi label A–D.
 
 **Kunci Jawaban:** $0$
 
-**Pembahasan:** Nilai tempat puluhan pada $907$ ialah $0$.
+**Pembahasan:** Nilai angka pada tempat puluhan pada $907$ ialah $0$.
 
 ---
 
 ## Soal 15 — K03-MTK-B01-M01-015
 
-**Pertanyaan:** Nilai tempat ratusan pada bilangan $650$ adalah ...
+**Pertanyaan:** Nilai angka pada tempat ratusan pada bilangan $650$ adalah ...
 
 **Pilihan jawaban:**
 - $610$
@@ -240,7 +240,7 @@ Tanpa gambar. Empat opsi tidak diberi label A–D.
 
 **Kunci Jawaban:** $600$
 
-**Pembahasan:** Nilai tempat ratusan pada $650$ ialah $600$.
+**Pembahasan:** Nilai angka pada tempat ratusan pada $650$ ialah $600$.
 
 ---
 
