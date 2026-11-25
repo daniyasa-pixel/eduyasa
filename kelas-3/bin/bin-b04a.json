@@ -209,7 +209,7 @@
         {
           "id": "K03-BIN-B04-M01-062",
           "type": "PG",
-          "text": "Amati gambar berikut.\n\nAlasan memilih tindakan tersebut ialah ...",
+          "text": "Amati gambar berikut.\n\nMengapa Belalang sebaiknya memilih tindakan pada Pilihan 2, yaitu membawa daun ke tempat pengolahan?",
           "options": [
             "Semua daun harus selalu masuk sungai.",
             "Sungai tidak dijadikan tempat membuang sampah.",
@@ -217,7 +217,7 @@
             "Tempat pengolahan harus dikosongkan selamanya."
           ],
           "answer": "Sungai tidak dijadikan tempat membuang sampah.",
-          "discussion": "Alasan pertama menjelaskan hubungan pilihan tindakan dengan kebersihan sungai.",
+          "discussion": "Mengolah daun di tempat yang sesuai membantu menjaga sungai agar tidak menjadi tempat membuang sampah.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-06.svg",
             "alt": "Pilihan Belalang. PILIHAN 1: Daun dibuang ke sungai. PIKIRKAN AKIBATNYA: Jaga aliran air. PILIHAN 2: Daun ke tempat pengolahan."
@@ -230,10 +230,10 @@
           "options": [
             "Dari menolong menjadi selalu mengejek",
             "Dari sabar menjadi merusak semua pohon",
-            "Dari ingin sendiri menjadi mau berbagi",
+            "Dari ingin menyimpan semua buah sendiri menjadi mau berbagi",
             "Dari rajin membaca menjadi membuang buku"
           ],
-          "answer": "Dari ingin sendiri menjadi mau berbagi",
+          "answer": "Dari ingin menyimpan semua buah sendiri menjadi mau berbagi",
           "discussion": "Panel awal dan akhir menunjukkan perubahan dari menyimpan semua buah ke berbagi.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-07.svg",
@@ -353,7 +353,7 @@
             "Di laut, nelayan menghitung hasil tangkapan."
           ],
           "answer": "Di sebuah kebun, seekor burung melihat pohon yang layu.",
-          "discussion": "Pembuka pertama menggabungkan tokoh, tempat, dan masalah yang tercantum pada kartu.",
+          "discussion": "Pembuka “Di sebuah kebun, seekor burung melihat pohon yang layu” menggabungkan tokoh, tempat, dan masalah yang tercantum pada kartu.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/bin/assets/bin-b04-gambar-10.svg",
             "alt": "Rencana dongeng Ayu. TOKOH DAN TEMPAT: Burung di kebun. MASALAH DAN USAHA: Pohon layu; burung mengajak menolong. AKHIR: Teman-teman merawat pohon."
