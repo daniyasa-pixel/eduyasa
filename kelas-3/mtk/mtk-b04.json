@@ -20,7 +20,7 @@
   },
   "source_markdown": {
     "path": "kelas-3/mtk/mtk-b04-soal-biasa.md",
-    "sha256": "9fd02a81ce856a8b4870f060926d87c7e929f5d77e6ff056066e2ac93c5ef8f7"
+    "sha256": "5fc843aed2db6662f70f788dcb8a83a632c295681cbe1be14eb87f1ea20c0818"
   },
   "chapters": [
     {
@@ -589,7 +589,7 @@
         {
           "id": "K03-MTK-B04-M01-044",
           "type": "PG",
-          "text": "Sudut yang lebih kecil dari $90^{\\circ}$ disebut ...",
+          "text": "Sudut yang lebih besar dari $0^{\\circ}$ dan lebih kecil dari $90^{\\circ}$ disebut ...",
           "options": [
             "sudut lurus",
             "sudut lancip",
@@ -597,7 +597,7 @@
             "sudut siku-siku"
           ],
           "answer": "sudut lancip",
-          "discussion": "Sudut lancip lebih kecil dari 90 derajat."
+          "discussion": "Sudut lancip besarnya lebih dari 0 derajat dan kurang dari 90 derajat."
         },
         {
           "id": "K03-MTK-B04-M01-045",
