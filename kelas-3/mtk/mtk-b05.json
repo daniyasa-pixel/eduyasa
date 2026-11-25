@@ -20,7 +20,7 @@
   },
   "source_markdown": {
     "path": "kelas-3/mtk/mtk-b05-soal-biasa.md",
-    "sha256": "7872a394d86c28eaedbb4702b634a1e92c9a03bda46d49c2661b32bbfe25a6cb"
+    "sha256": "8c9651aee5d3bf2ad1d05a9d01d964965b166933b614246d71c97c6636afa4df"
   },
   "chapters": [
     {
@@ -30,7 +30,7 @@
         {
           "id": "K03-MTK-B05-M01-001",
           "type": "PG",
-          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa banyak mangga?",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa siswa yang memilih mangga?",
           "options": [
             "$12$",
             "$13$",
@@ -43,7 +43,7 @@
         {
           "id": "K03-MTK-B05-M01-002",
           "type": "PG",
-          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa banyak apel?",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa siswa yang memilih apel?",
           "options": [
             "$11$",
             "$9$",
@@ -108,7 +108,7 @@
         {
           "id": "K03-MTK-B05-M01-007",
           "type": "PG",
-          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa jumlah Mangga dan Pisang?",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa jumlah pilihan untuk mangga dan pisang jika digabungkan?",
           "options": [
             "$29$",
             "$27$",
@@ -121,7 +121,7 @@
         {
           "id": "K03-MTK-B05-M01-008",
           "type": "PG",
-          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa jumlah Apel dan Jambu?",
+          "text": "Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa jumlah pilihan untuk apel dan jambu jika digabungkan?",
           "options": [
             "$15$",
             "$18$",
@@ -160,7 +160,7 @@
         {
           "id": "K03-MTK-B05-M01-011",
           "type": "PG",
-          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa banyak dongeng?",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa banyak buku dongeng yang dibaca?",
           "options": [
             "$8$",
             "$9$",
@@ -173,7 +173,7 @@
         {
           "id": "K03-MTK-B05-M01-012",
           "type": "PG",
-          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa banyak sains?",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa banyak buku sains yang dibaca?",
           "options": [
             "$15$",
             "$13$",
@@ -238,7 +238,7 @@
         {
           "id": "K03-MTK-B05-M01-017",
           "type": "PG",
-          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa jumlah Dongeng dan Cerita?",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa jumlah buku kategori dongeng dan cerita yang dibaca?",
           "options": [
             "$19$",
             "$20$",
@@ -251,7 +251,7 @@
         {
           "id": "K03-MTK-B05-M01-018",
           "type": "PG",
-          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa jumlah Sains dan Puisi?",
+          "text": "Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa jumlah buku kategori sains dan puisi yang dibaca?",
           "options": [
             "$21$",
             "$19$",
@@ -550,7 +550,7 @@
         {
           "id": "K03-MTK-B05-M01-041",
           "type": "PG",
-          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa banyak renang?",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa siswa yang memilih renang?",
           "options": [
             "$8$",
             "$11$",
@@ -563,7 +563,7 @@
         {
           "id": "K03-MTK-B05-M01-042",
           "type": "PG",
-          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa banyak sepak bola?",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa siswa yang memilih sepak bola?",
           "options": [
             "$17$",
             "$15$",
@@ -628,7 +628,7 @@
         {
           "id": "K03-MTK-B05-M01-047",
           "type": "PG",
-          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa jumlah Renang dan Badminton?",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa jumlah pilihan untuk renang dan badminton jika digabungkan?",
           "options": [
             "$21$",
             "$19$",
@@ -641,7 +641,7 @@
         {
           "id": "K03-MTK-B05-M01-048",
           "type": "PG",
-          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa jumlah Sepak bola dan Lari?",
+          "text": "Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa jumlah pilihan untuk sepak bola dan lari jika digabungkan?",
           "options": [
             "$24$",
             "$25$",
