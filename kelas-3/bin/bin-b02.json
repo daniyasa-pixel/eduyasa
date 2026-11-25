@@ -542,7 +542,7 @@
         {
           "id": "K03-BIN-B02-M01-041",
           "type": "PG",
-          "text": "Bacalah teks berikut.\n\n“Aku lebih suka berjalan kaki ke taman yang dekat,” kata Mira. “Aku dapat mengobrol dengan Ibu sepanjang jalan.” Adiknya berkata, “Aku suka naik sepeda, tetapi harus melalui jalur yang aman.”\n\nApa pilihan Mira untuk pergi ke taman dekat rumah?",
+          "text": "Bacalah teks berikut.\n\n“Aku lebih suka berjalan kaki ke taman yang dekat,” kata Mira. “Aku dapat mengobrol dengan Ibu sepanjang jalan.” Adiknya berkata, “Aku suka naik sepeda, tetapi harus melalui jalur yang aman.”\n\nApa pilihan Mira untuk pergi ke taman yang dekat?",
           "options": [
             "Berjalan kaki",
             "Naik perahu",
@@ -586,10 +586,10 @@
             "Keduanya memilih naik perahu.",
             "Mira tidak mempunyai alasan.",
             "Adik Mira melarang berjalan kaki.",
-            "Mereka mempunyai pilihan berbeda dan dapat menjelaskan alasannya."
+            "Mereka mempunyai pilihan berbeda dan menyebut alasan atau pertimbangan masing-masing."
           ],
-          "answer": "Mereka mempunyai pilihan berbeda dan dapat menjelaskan alasannya.",
-          "discussion": "Bacaan menunjukkan pilihan berbeda beserta penjelasan dan pertimbangan masing-masing."
+          "answer": "Mereka mempunyai pilihan berbeda dan menyebut alasan atau pertimbangan masing-masing.",
+          "discussion": "Mira menyebut alasan berjalan kaki, sedangkan adiknya menyebut pertimbangan keselamatan saat bersepeda."
         },
         {
           "id": "K03-BIN-B02-M01-045",
