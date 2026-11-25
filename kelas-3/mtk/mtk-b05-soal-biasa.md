@@ -4,7 +4,7 @@ Kelas 3 SD · ID: K03-MTK-B05 · MathJax · Soal teks tanpa gambar
 
 ## Soal 1 — K03-MTK-B05-M01-001
 
-**Pertanyaan:** Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa banyak mangga?
+**Pertanyaan:** Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa siswa yang memilih mangga?
 
 **Pilihan jawaban:**
 - $12$
@@ -20,7 +20,7 @@ Kelas 3 SD · ID: K03-MTK-B05 · MathJax · Soal teks tanpa gambar
 
 ## Soal 2 — K03-MTK-B05-M01-002
 
-**Pertanyaan:** Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa banyak apel?
+**Pertanyaan:** Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa siswa yang memilih apel?
 
 **Pilihan jawaban:**
 - $11$
@@ -100,7 +100,7 @@ Kelas 3 SD · ID: K03-MTK-B05 · MathJax · Soal teks tanpa gambar
 
 ## Soal 7 — K03-MTK-B05-M01-007
 
-**Pertanyaan:** Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa jumlah Mangga dan Pisang?
+**Pertanyaan:** Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa jumlah pilihan untuk mangga dan pisang jika digabungkan?
 
 **Pilihan jawaban:**
 - $29$
@@ -116,7 +116,7 @@ Kelas 3 SD · ID: K03-MTK-B05 · MathJax · Soal teks tanpa gambar
 
 ## Soal 8 — K03-MTK-B05-M01-008
 
-**Pertanyaan:** Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa jumlah Apel dan Jambu?
+**Pertanyaan:** Data buah favorit di kelas: Mangga $12$, Apel $9$, Pisang $15$, dan Jambu $7$. Berapa jumlah pilihan untuk apel dan jambu jika digabungkan?
 
 **Pilihan jawaban:**
 - $15$
@@ -164,7 +164,7 @@ Kelas 3 SD · ID: K03-MTK-B05 · MathJax · Soal teks tanpa gambar
 
 ## Soal 11 — K03-MTK-B05-M01-011
 
-**Pertanyaan:** Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa banyak dongeng?
+**Pertanyaan:** Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa banyak buku dongeng yang dibaca?
 
 **Pilihan jawaban:**
 - $8$
@@ -180,7 +180,7 @@ Kelas 3 SD · ID: K03-MTK-B05 · MathJax · Soal teks tanpa gambar
 
 ## Soal 12 — K03-MTK-B05-M01-012
 
-**Pertanyaan:** Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa banyak sains?
+**Pertanyaan:** Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa banyak buku sains yang dibaca?
 
 **Pilihan jawaban:**
 - $15$
@@ -260,7 +260,7 @@ Kelas 3 SD · ID: K03-MTK-B05 · MathJax · Soal teks tanpa gambar
 
 ## Soal 17 — K03-MTK-B05-M01-017
 
-**Pertanyaan:** Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa jumlah Dongeng dan Cerita?
+**Pertanyaan:** Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa jumlah buku kategori dongeng dan cerita yang dibaca?
 
 **Pilihan jawaban:**
 - $19$
@@ -276,7 +276,7 @@ Kelas 3 SD · ID: K03-MTK-B05 · MathJax · Soal teks tanpa gambar
 
 ## Soal 18 — K03-MTK-B05-M01-018
 
-**Pertanyaan:** Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa jumlah Sains dan Puisi?
+**Pertanyaan:** Data buku yang dibaca kelompok: Dongeng $8$, Sains $13$, Cerita $11$, dan Puisi $6$. Berapa jumlah buku kategori sains dan puisi yang dibaca?
 
 **Pilihan jawaban:**
 - $21$
@@ -644,7 +644,7 @@ Kelas 3 SD · ID: K03-MTK-B05 · MathJax · Soal teks tanpa gambar
 
 ## Soal 41 — K03-MTK-B05-M01-041
 
-**Pertanyaan:** Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa banyak renang?
+**Pertanyaan:** Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa siswa yang memilih renang?
 
 **Pilihan jawaban:**
 - $8$
@@ -660,7 +660,7 @@ Kelas 3 SD · ID: K03-MTK-B05 · MathJax · Soal teks tanpa gambar
 
 ## Soal 42 — K03-MTK-B05-M01-042
 
-**Pertanyaan:** Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa banyak sepak bola?
+**Pertanyaan:** Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa siswa yang memilih sepak bola?
 
 **Pilihan jawaban:**
 - $17$
@@ -740,7 +740,7 @@ Kelas 3 SD · ID: K03-MTK-B05 · MathJax · Soal teks tanpa gambar
 
 ## Soal 47 — K03-MTK-B05-M01-047
 
-**Pertanyaan:** Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa jumlah Renang dan Badminton?
+**Pertanyaan:** Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa jumlah pilihan untuk renang dan badminton jika digabungkan?
 
 **Pilihan jawaban:**
 - $21$
@@ -756,7 +756,7 @@ Kelas 3 SD · ID: K03-MTK-B05 · MathJax · Soal teks tanpa gambar
 
 ## Soal 48 — K03-MTK-B05-M01-048
 
-**Pertanyaan:** Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa jumlah Sepak bola dan Lari?
+**Pertanyaan:** Data olahraga pilihan siswa: Renang $9$, Sepak bola $16$, Badminton $11$, dan Lari $8$. Berapa jumlah pilihan untuk sepak bola dan lari jika digabungkan?
 
 **Pilihan jawaban:**
 - $24$
