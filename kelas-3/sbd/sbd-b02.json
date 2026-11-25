@@ -11,457 +11,457 @@
         {
           "id": "K03-SBD-B02-M01-001",
           "type": "PG",
-          "text": "Ketika melihat lukisan teman, Tia mengamati warna dan berusaha memahami maksudnya. Kegiatan itu merupakan ....",
+          "text": "Tujuan utama membicarakan karya seni di kelas adalah ....",
           "options": [
-            "mengejek pembuatnya",
-            "merusak karya",
-            "menyalin tanpa izin",
-            "mengamati dan menghargai karya"
+            "menjelaskan pengamatan dan belajar menghargai gagasan",
+            "menentukan siapa yang paling hebat",
+            "membuat semua karya tampak sama",
+            "mencari kesalahan pembuatnya"
           ],
-          "answer": "mengamati dan menghargai karya",
-          "discussion": "Apresiasi karya seni berarti mengamati dan menghargai karya."
+          "answer": "menjelaskan pengamatan dan belajar menghargai gagasan",
+          "discussion": "Berbicara tentang karya membantu siswa menjelaskan apa yang diamati, memahami gagasan, dan menghargai proses berkarya."
         },
         {
           "id": "K03-SBD-B02-M01-002",
           "type": "PG",
-          "text": "Raka menyukai perpaduan warna pada gambar temannya. Ia ingin memberi tanggapan. Apa yang sebaiknya dikatakan?",
+          "text": "Sebelum memberi komentar tentang gambar teman, langkah pertama yang paling tepat adalah ....",
           "options": [
-            "menyebut bagian yang disukai dengan sopan",
-            "mengatakan jelek tanpa alasan",
-            "menertawakan",
-            "merobek kertas"
+            "mengamati karya dengan cermat",
+            "menebak nilai pembuatnya",
+            "membandingkan harga alat",
+            "langsung memberi saran"
           ],
-          "answer": "menyebut bagian yang disukai dengan sopan",
-          "discussion": "Saat melihat lukisan teman, komentar yang baik adalah menyebut bagian yang disukai dengan sopan."
+          "answer": "mengamati karya dengan cermat",
+          "discussion": "Komentar yang berguna dimulai dari pengamatan terhadap karya, bukan dugaan tentang pembuatnya."
         },
         {
           "id": "K03-SBD-B02-M01-003",
           "type": "PG",
-          "text": "Di dinding kelas tergantung gambar yang hanya memiliki ukuran panjang dan lebar. Sifat utama karya ini adalah ....",
+          "text": "Kalimat yang menyebut unsur rupa pada sebuah karya adalah ....",
           "options": [
-            "hanya gerakan",
-            "panjang dan lebar",
-            "panjang, lebar, dan tinggi nyata",
-            "hanya suara"
+            "Garis melengkung terlihat pada bagian ombak",
+            "Kertas ini dibeli hari Minggu",
+            "Pembuatnya duduk dekat pintu",
+            "Kelas kami selesai pukul dua"
           ],
-          "answer": "panjang dan lebar",
-          "discussion": "Karya seni dua dimensi memiliki panjang dan lebar."
+          "answer": "Garis melengkung terlihat pada bagian ombak",
+          "discussion": "Garis merupakan unsur rupa; kalimat itu menunjukkan unsur yang benar-benar tampak pada karya."
         },
         {
           "id": "K03-SBD-B02-M01-004",
           "type": "PG",
-          "text": "Di sudut pameran terdapat patung kecil yang dapat dilihat dari berbagai sisi. Karya tersebut termasuk ....",
+          "text": "Komentar yang paling berdasarkan bukti visual adalah ....",
           "options": [
-            "musik",
-            "tari",
-            "tiga dimensi",
-            "dua dimensi datar"
+            "Aku melihat titik-titik merah berulang di latar",
+            "Karya ini pasti dibuat paling cepat",
+            "Pembuatnya tentu sedang marah",
+            "Gambar ini pasti paling mahal"
           ],
-          "answer": "tiga dimensi",
-          "discussion": "Patung termasuk karya seni tiga dimensi."
+          "answer": "Aku melihat titik-titik merah berulang di latar",
+          "discussion": "Bukti visual menyebut bagian yang dapat dilihat, seperti titik, warna, garis, bidang, atau bentuk."
         },
         {
           "id": "K03-SBD-B02-M01-005",
           "type": "PG",
-          "text": "Sebuah poster hemat air memuat ilustrasi keran dan kalimat ajakan. Unsur apa yang biasanya dipadukan dalam poster itu?",
+          "text": "Kata yang dapat dipakai untuk menceritakan kesan sebuah karya adalah ....",
           "options": [
-            "bunyi alat musik",
-            "gerakan tari",
-            "aroma makanan",
-            "gambar dan tulisan untuk menyampaikan pesan"
+            "tenang",
+            "berat tiga kilogram",
+            "panjang dua kilometer",
+            "bersuhu seratus derajat"
           ],
-          "answer": "gambar dan tulisan untuk menyampaikan pesan",
-          "discussion": "Poster biasanya memadukan gambar dan tulisan untuk menyampaikan pesan."
+          "answer": "tenang",
+          "discussion": "Tenang merupakan kata untuk menyampaikan kesan yang dirasakan saat mengamati karya."
         },
         {
           "id": "K03-SBD-B02-M01-006",
           "type": "PG",
-          "text": "Guru mengajak murid menyusun potongan kain, daun, dan kertas lalu merekatkannya ke karton. Teknik ini disebut ....",
+          "text": "Dua anak merasakan kesan berbeda saat melihat gambar yang sama. Sikap yang tepat adalah ....",
           "options": [
-            "menempel berbagai bahan pada bidang",
-            "menyanyi bersama",
-            "memukul drum",
-            "menari berpasangan"
+            "mendengarkan alasan masing-masing",
+            "memaksa semua memilih satu kesan",
+            "menertawakan jawaban yang berbeda",
+            "menghapus komentar teman"
           ],
-          "answer": "menempel berbagai bahan pada bidang",
-          "discussion": "Kolase dibuat dengan menempel berbagai bahan pada bidang."
+          "answer": "mendengarkan alasan masing-masing",
+          "discussion": "Kesan terhadap karya dapat berbeda; alasan yang berkaitan dengan karya perlu didengarkan dengan saling menghargai."
         },
         {
           "id": "K03-SBD-B02-M01-007",
           "type": "PG",
-          "text": "Murid mengisi gambar burung dengan keping-keping kertas kecil yang disusun bersebelahan. Teknik tersebut memanfaatkan ....",
+          "text": "Dalam pembicaraan seni, komposisi berarti ....",
           "options": [
-            "gerakan lari",
-            "potongan kecil bahan yang disusun",
-            "satu nada panjang",
-            "suara air"
+            "susunan unsur-unsur pada karya",
+            "harga seluruh alat gambar",
+            "nama lengkap pembuat karya",
+            "lama perjalanan ke sekolah"
           ],
-          "answer": "potongan kecil bahan yang disusun",
-          "discussion": "Mozaik dapat dibuat dari potongan kecil bahan yang disusun."
+          "answer": "susunan unsur-unsur pada karya",
+          "discussion": "Komposisi adalah cara unsur seperti garis, bentuk, dan warna disusun dalam karya."
         },
         {
           "id": "K03-SBD-B02-M01-008",
           "type": "PG",
-          "text": "Sinta ingin menyarankan perbaikan komposisi gambar teman tanpa menyakiti perasaannya. Komentar yang tepat memuat ....",
+          "text": "Bagian kiri dan kanan gambar terasa sama-sama kuat, meskipun bentuknya tidak persis sama. Kesan susunan itu disebut ....",
           "options": [
-            "ancaman",
-            "kebohongan",
-            "saran yang jelas dan santun",
-            "ejekan pribadi"
+            "seimbang",
+            "terpotong",
+            "tanpa warna",
+            "belum diamati"
           ],
-          "answer": "saran yang jelas dan santun",
-          "discussion": "Kritik membangun sebaiknya berisi saran yang jelas dan santun."
+          "answer": "seimbang",
+          "discussion": "Keseimbangan dapat muncul ketika kekuatan visual antarbagiannya terasa setara, tidak harus sama persis."
         },
         {
           "id": "K03-SBD-B02-M01-009",
           "type": "PG",
-          "text": "Dua murid menggambar rumah dengan gaya berbeda. Bagaimana seharusnya kelas menilai perbedaan itu?",
+          "text": "Saat menceritakan proses berkarya, informasi yang paling sesuai adalah ....",
           "options": [
-            "disembunyikan",
-            "dihancurkan",
-            "ditertawakan",
-            "tetap dihargai"
+            "urutan langkah dan perubahan yang dilakukan",
+            "nilai rapor seluruh teman",
+            "makanan kesukaan pengunjung",
+            "jumlah kendaraan di jalan"
           ],
-          "answer": "tetap dihargai",
-          "discussion": "Karya teman yang berbeda gaya sebaiknya tetap dihargai."
+          "answer": "urutan langkah dan perubahan yang dilakukan",
+          "discussion": "Cerita proses menjelaskan langkah, pilihan, kesulitan, atau perubahan selama karya dibuat."
         },
         {
           "id": "K03-SBD-B02-M01-010",
           "type": "PG",
-          "text": "Pada pameran sekolah, setiap karya diberi kartu kecil agar pengunjung mengenalnya. Informasi apa yang layak dicantumkan?",
+          "text": "Pernyataan yang menjelaskan gagasan karya adalah ....",
           "options": [
-            "judul dan nama pembuat",
-            "nilai rapor teman",
-            "kata ejekan",
-            "rahasia keluarga"
+            "Aku menggambar kebun untuk menceritakan kegiatan bersama keluarga",
+            "Aku memakai kertas berukuran A4",
+            "Aku duduk di kursi depan",
+            "Aku membawa dua pensil"
           ],
-          "answer": "judul dan nama pembuat",
-          "discussion": "Label karya pameran dapat memuat judul dan nama pembuat."
+          "answer": "Aku menggambar kebun untuk menceritakan kegiatan bersama keluarga",
+          "discussion": "Gagasan menjelaskan ide atau hal yang ingin disampaikan melalui karya."
         },
         {
           "id": "K03-SBD-B02-M01-011",
           "type": "PG",
-          "text": "Di meja karya ada kardus bekas yang sudah bersih dan aman. Kardus itu sebaiknya diperlakukan sebagai ....",
+          "text": "Ketika menjelaskan alat dan bahan, kalimat yang tepat adalah ....",
           "options": [
-            "alat musik otomatis",
-            "bahan berkarya kreatif",
-            "sampah yang harus dibakar",
-            "bahan makanan"
+            "Aku memakai krayon untuk membuat warna dan kapas untuk awan",
+            "Aku memakai warna agar karya menjadi seni terbaik",
+            "Aku memilih alat karena teman harus meniru",
+            "Aku merahasiakan semua bahan dari kelompok"
           ],
-          "answer": "bahan berkarya kreatif",
-          "discussion": "Bahan bekas bersih dapat dijadikan bahan berkarya kreatif."
+          "answer": "Aku memakai krayon untuk membuat warna dan kapas untuk awan",
+          "discussion": "Penjelasan alat dan bahan menyebut apa yang digunakan serta fungsinya dalam karya."
         },
         {
           "id": "K03-SBD-B02-M01-012",
           "type": "PG",
-          "text": "Guru mengajak murid berkunjung ke pameran. Perilaku yang paling tepat selama melihat karya adalah ....",
+          "text": "Refleksi terhadap kelebihan karya sendiri ditunjukkan oleh kalimat ....",
           "options": [
-            "mencoret karya",
-            "berlari di dekat pajangan",
-            "mengikuti aturan dan tidak menyentuh karya tanpa izin",
-            "menarik bingkai"
+            "Aku berhasil membuat pola titik yang teratur",
+            "Karyaku pasti lebih baik dari semua teman",
+            "Tidak ada bagian yang perlu diamati",
+            "Aku menyalin karya lain seluruhnya"
           ],
-          "answer": "mengikuti aturan dan tidak menyentuh karya tanpa izin",
-          "discussion": "Mengunjungi pameran seni sebaiknya mengikuti aturan dan tidak menyentuh karya tanpa izin."
+          "answer": "Aku berhasil membuat pola titik yang teratur",
+          "discussion": "Refleksi diri menyebut bagian yang berhasil tanpa merendahkan atau membandingkan karya teman."
         },
         {
           "id": "K03-SBD-B02-M01-013",
           "type": "PG",
-          "text": "Pada lukisan, warna biru mengisi sebagian besar bidang dan sangat mudah terlihat. Warna tersebut disebut warna yang ....",
+          "text": "Kalimat refleksi yang menunjukkan rencana perbaikan adalah ....",
           "options": [
-            "tidak dipakai",
-            "selalu putih",
-            "tidak terlihat",
-            "paling menonjol"
+            "Lain kali aku akan merapikan garis tepi",
+            "Semua bagian harus dikerjakan teman",
+            "Aku tidak mau melihat karya ini lagi",
+            "Karya orang lain harus dibuat sama"
           ],
-          "answer": "paling menonjol",
-          "discussion": "Warna yang dominan pada karya berarti warna yang paling menonjol."
+          "answer": "Lain kali aku akan merapikan garis tepi",
+          "discussion": "Refleksi membantu siswa memilih hal khusus yang dapat dicoba pada karya berikutnya."
         },
         {
           "id": "K03-SBD-B02-M01-014",
           "type": "PG",
-          "text": "Gambar menunjukkan pegunungan, sawah, dan sungai. Tema utama lukisan itu adalah ....",
+          "text": "Saat teman mempresentasikan karya, pendengar sebaiknya ....",
           "options": [
-            "alam seperti gunung atau sungai",
-            "hanya angka",
-            "rumus matematika",
-            "daftar belanja"
+            "memperhatikan sampai giliran bertanya",
+            "berbicara keras dengan teman lain",
+            "memindahkan karya tanpa izin",
+            "memotong penjelasan di tengah"
           ],
-          "answer": "alam seperti gunung atau sungai",
-          "discussion": "Lukisan pemandangan biasanya menampilkan alam seperti gunung atau sungai."
+          "answer": "memperhatikan sampai giliran bertanya",
+          "discussion": "Mendengarkan dengan tertib menunjukkan penghargaan dan membantu memahami ide serta proses pembuat."
         },
         {
           "id": "K03-SBD-B02-M01-015",
           "type": "PG",
-          "text": "Seorang anak menyebut bagian paling berhasil dari karya temannya. Tindakan tersebut merupakan bentuk ....",
+          "text": "Pertanyaan yang berkaitan langsung dengan presentasi karya adalah ....",
           "options": [
-            "perusakan",
-            "apresiasi positif",
-            "perundungan",
-            "plagiarisme"
+            "Mengapa kamu memilih garis berombak untuk air?",
+            "Berapa nilai ulangan matematikamu?",
+            "Siapa yang paling cepat berlari?",
+            "Apa makanan yang dijual di kantin?"
           ],
-          "answer": "apresiasi positif",
-          "discussion": "Menyebut kelebihan karya teman merupakan contoh apresiasi positif."
+          "answer": "Mengapa kamu memilih garis berombak untuk air?",
+          "discussion": "Pertanyaan yang baik membahas keputusan visual, gagasan, alat, bahan, atau proses karya."
         },
         {
           "id": "K03-SBD-B02-M01-016",
           "type": "PG",
-          "text": "Dalam diskusi karya, Lani mengamati pilihan warna, bentuk dan usaha pembuatnya sebelum memberi tanggapan. Itu contoh ....",
+          "text": "Jika belum memahami penjelasan teman, tindakan yang tepat adalah ....",
           "options": [
-            "merusak karya",
-            "menyalin tanpa izin",
-            "mengamati dan menghargai karya",
-            "mengejek pembuatnya"
+            "meminta penjelasan ulang dengan sopan",
+            "menertawakan pembicara",
+            "menebak lalu menyebarkannya",
+            "meninggalkan kelompok tanpa izin"
           ],
-          "answer": "mengamati dan menghargai karya",
-          "discussion": "Apresiasi karya seni berarti mengamati dan menghargai karya."
+          "answer": "meminta penjelasan ulang dengan sopan",
+          "discussion": "Permintaan penjelasan ulang membantu komunikasi tanpa merendahkan pembicara."
         },
         {
           "id": "K03-SBD-B02-M01-017",
           "type": "PG",
-          "text": "Dina berkata, 'Aku suka cara kamu membuat daun, garisnya terlihat hidup.' Komentar ini menunjukkan sikap ....",
+          "text": "Umpan balik yang lengkap dan membangun sebaiknya memuat ....",
           "options": [
-            "mengatakan jelek tanpa alasan",
-            "menertawakan",
-            "merobek kertas",
-            "menyebut bagian yang disukai dengan sopan"
+            "pengamatan, alasan, dan saran yang dapat dicoba",
+            "ejekan, peringkat, dan ancaman",
+            "dugaan tentang pembuat dan keluarganya",
+            "perintah agar karya dibuang"
           ],
-          "answer": "menyebut bagian yang disukai dengan sopan",
-          "discussion": "Saat melihat lukisan teman, komentar yang baik adalah menyebut bagian yang disukai dengan sopan."
+          "answer": "pengamatan, alasan, dan saran yang dapat dicoba",
+          "discussion": "Umpan balik membangun menyebut bukti pada karya, menjelaskan alasan, lalu menawarkan saran yang jelas."
         },
         {
           "id": "K03-SBD-B02-M01-018",
           "type": "PG",
-          "text": "Seorang murid membandingkan gambar datar dengan benda berupa patung. Gambar datar terutama mempunyai ukuran ....",
+          "text": "Pujian yang menghargai usaha pembuat karya adalah ....",
           "options": [
-            "panjang dan lebar",
-            "panjang, lebar, dan tinggi nyata",
-            "hanya suara",
-            "hanya gerakan"
+            "Susunan potonganmu rapi; terlihat kamu teliti menempelkannya",
+            "Kamu pasti tidak pernah salah",
+            "Karyamu bagus karena yang lain jelek",
+            "Semua orang harus membuat karya seperti ini"
           ],
-          "answer": "panjang dan lebar",
-          "discussion": "Karya seni dua dimensi memiliki panjang dan lebar."
+          "answer": "Susunan potonganmu rapi; terlihat kamu teliti menempelkannya",
+          "discussion": "Pujian yang baik menyebut bagian nyata dan usaha tanpa membandingkan atau memberi klaim berlebihan."
         },
         {
           "id": "K03-SBD-B02-M01-019",
           "type": "PG",
-          "text": "Kerajinan yang memiliki panjang, lebar, dan tinggi termasuk kategori ....",
+          "text": "Mengapa karya teman tidak sebaiknya diberi urutan 'terbaik sampai terburuk' dalam diskusi apresiasi?",
           "options": [
-            "tari",
-            "tiga dimensi",
-            "dua dimensi datar",
-            "musik"
+            "Setiap karya membawa proses dan gagasan yang berbeda",
+            "Semua karya harus memakai warna yang sama",
+            "Hanya guru yang boleh melihat karya",
+            "Urutan angka tidak dapat ditulis di kertas"
           ],
-          "answer": "tiga dimensi",
-          "discussion": "Patung termasuk karya seni tiga dimensi."
+          "answer": "Setiap karya membawa proses dan gagasan yang berbeda",
+          "discussion": "Apresiasi berfokus pada unsur, gagasan, usaha, dan hal yang dapat dipelajari, bukan merendahkan melalui peringkat."
         },
         {
           "id": "K03-SBD-B02-M01-020",
           "type": "PG",
-          "text": "Untuk mengingatkan warga membuang sampah pada tempatnya, kelas membuat poster. Unsur apa yang dipadukan untuk menyampaikan pesan?",
+          "text": "Raka menyukai warna cerah, sedangkan Sinta menyukai warna lembut. Mereka sebaiknya ....",
           "options": [
-            "gerakan tari",
-            "aroma makanan",
-            "gambar dan tulisan untuk menyampaikan pesan",
-            "bunyi alat musik"
+            "menjelaskan pilihan dan saling menghargai",
+            "memaksa teman mengubah selera",
+            "menyatakan satu selera selalu benar",
+            "menutupi karya yang berbeda"
           ],
-          "answer": "gambar dan tulisan untuk menyampaikan pesan",
-          "discussion": "Poster biasanya memadukan gambar dan tulisan untuk menyampaikan pesan."
+          "answer": "menjelaskan pilihan dan saling menghargai",
+          "discussion": "Perbedaan selera dapat dibicarakan melalui alasan yang santun tanpa memaksakan pendapat."
         },
         {
           "id": "K03-SBD-B02-M01-021",
           "type": "PG",
-          "text": "Anak membuat karya dengan menyusun aneka bahan di permukaan papan lalu menempelkannya. Tekniknya adalah ....",
+          "text": "Sebelum memotret dan membagikan karya teman, siswa perlu ....",
           "options": [
-            "menyanyi bersama",
-            "memukul drum",
-            "menari berpasangan",
-            "menempel berbagai bahan pada bidang"
+            "meminta izin kepada pemilik karya dan mengikuti aturan",
+            "langsung mengunggah agar cepat dilihat",
+            "menghapus nama pembuat",
+            "mengubah karya tanpa memberi tahu"
           ],
-          "answer": "menempel berbagai bahan pada bidang",
-          "discussion": "Kolase dibuat dengan menempel berbagai bahan pada bidang."
+          "answer": "meminta izin kepada pemilik karya dan mengikuti aturan",
+          "discussion": "Izin melindungi hak dan kenyamanan pembuat karya, terutama sebelum foto dibagikan."
         },
         {
           "id": "K03-SBD-B02-M01-022",
           "type": "PG",
-          "text": "Untuk mengisi gambar ikan, murid memilih potongan-potongan kecil yang ditata rapat. Ini ciri teknik ....",
+          "text": "Kalimat yang tepat saat menyampaikan tafsiran adalah ....",
           "options": [
-            "potongan kecil bahan yang disusun",
-            "satu nada panjang",
-            "suara air",
-            "gerakan lari"
+            "Menurutku suasananya tenang karena warna birunya lembut",
+            "Karya ini pasti berarti sedih dan tidak mungkin lain",
+            "Pembuatnya tentu malas karena bidangnya kosong",
+            "Semua orang wajib merasakan hal yang sama"
           ],
-          "answer": "potongan kecil bahan yang disusun",
-          "discussion": "Mozaik dapat dibuat dari potongan kecil bahan yang disusun."
+          "answer": "Menurutku suasananya tenang karena warna birunya lembut",
+          "discussion": "Tafsiran perlu disampaikan sebagai pendapat dan disertai alasan visual, bukan kepastian tentang perasaan pembuat."
         },
         {
           "id": "K03-SBD-B02-M01-023",
           "type": "PG",
-          "text": "Teman meminta pendapat soal karya yang sulit dipahami. Agar membantu, saran seharusnya berupa ....",
+          "text": "Manakah yang merupakan hasil pengamatan, bukan tafsiran?",
           "options": [
-            "kebohongan",
-            "saran yang jelas dan santun",
-            "ejekan pribadi",
-            "ancaman"
+            "Terdapat tiga lingkaran kuning di tengah",
+            "Lingkaran itu melambangkan persahabatan",
+            "Pembuatnya pasti sedang gembira",
+            "Karya ini menceritakan masa depan"
           ],
-          "answer": "saran yang jelas dan santun",
-          "discussion": "Kritik membangun sebaiknya berisi saran yang jelas dan santun."
+          "answer": "Terdapat tiga lingkaran kuning di tengah",
+          "discussion": "Jumlah, bentuk, warna, dan letak yang terlihat termasuk pengamatan; makna termasuk tafsiran."
         },
         {
           "id": "K03-SBD-B02-M01-024",
           "type": "PG",
-          "text": "Meski gaya menggambar teman tidak sama dengan kita, hasilnya harus ....",
+          "text": "Jika ingin mengetahui maksud karya secara lebih pasti, sumber yang paling tepat adalah ....",
           "options": [
-            "dihancurkan",
-            "ditertawakan",
-            "tetap dihargai",
-            "disembunyikan"
+            "penjelasan pembuat karya",
+            "tebakan pengunjung yang belum mengamati",
+            "jumlah meja di ruang pameran",
+            "warna pakaian pendengar"
           ],
-          "answer": "tetap dihargai",
-          "discussion": "Karya teman yang berbeda gaya sebaiknya tetap dihargai."
+          "answer": "penjelasan pembuat karya",
+          "discussion": "Pembuat karya dapat menjelaskan gagasan dan prosesnya; pengunjung tetap boleh menafsirkan dengan menyebutnya sebagai pendapat."
         },
         {
           "id": "K03-SBD-B02-M01-025",
           "type": "PG",
-          "text": "Sebelum karya dipajang, panitia ingin mengenalkan pembuatnya kepada pengunjung. Label yang sesuai berisi ....",
+          "text": "Mengapa kita tidak boleh langsung menyimpulkan perasaan pembuat hanya dari satu warna?",
           "options": [
-            "nilai rapor teman",
-            "kata ejekan",
-            "rahasia keluarga",
-            "judul dan nama pembuat"
+            "Makna warna dapat bergantung pada gagasan dan konteks karya",
+            "Semua warna selalu tidak bermakna",
+            "Warna hanya dapat dilihat oleh pembuat",
+            "Setiap warna mempunyai satu arti yang mutlak"
           ],
-          "answer": "judul dan nama pembuat",
-          "discussion": "Label karya pameran dapat memuat judul dan nama pembuat."
+          "answer": "Makna warna dapat bergantung pada gagasan dan konteks karya",
+          "discussion": "Warna dapat memberi kesan, tetapi maksud pembuat perlu dipahami bersama unsur dan penjelasan lain."
         },
         {
           "id": "K03-SBD-B02-M01-026",
           "type": "PG",
-          "text": "Gulungan kertas bekas yang sudah bersih dikumpulkan untuk proyek seni kelas. Bahan tersebut dapat menjadi ....",
+          "text": "Teman yang belum nyaman berbicara di depan kelas dapat tetap melakukan apresiasi dengan ....",
           "options": [
-            "bahan berkarya kreatif",
-            "sampah yang harus dibakar",
-            "bahan makanan",
-            "alat musik otomatis"
+            "menulis kartu tanggapan atau berbicara dalam kelompok kecil",
+            "dipaksa berbicara tanpa persiapan",
+            "tidak diberi kesempatan berpendapat",
+            "menyalin komentar orang lain"
           ],
-          "answer": "bahan berkarya kreatif",
-          "discussion": "Bahan bekas bersih dapat dijadikan bahan berkarya kreatif."
+          "answer": "menulis kartu tanggapan atau berbicara dalam kelompok kecil",
+          "discussion": "Apresiasi dapat disampaikan lisan, tertulis, atau melalui kelompok kecil agar kebutuhan komunikasi siswa dihargai."
         },
         {
           "id": "K03-SBD-B02-M01-027",
           "type": "PG",
-          "text": "Pengunjung penasaran pada tekstur patung, tetapi ada larangan menyentuh. Sikap terbaik ialah ....",
+          "text": "Agar lebih percaya diri saat presentasi karya, siswa dapat ....",
           "options": [
-            "berlari di dekat pajangan",
-            "mengikuti aturan dan tidak menyentuh karya tanpa izin",
-            "menarik bingkai",
-            "mencoret karya"
+            "menyiapkan catatan singkat dan berlatih",
+            "menghafal komentar teman tanpa memahami",
+            "menyembunyikan karya dari semua orang",
+            "berbicara secepat mungkin tanpa jeda"
           ],
-          "answer": "mengikuti aturan dan tidak menyentuh karya tanpa izin",
-          "discussion": "Mengunjungi pameran seni sebaiknya mengikuti aturan dan tidak menyentuh karya tanpa izin."
+          "answer": "menyiapkan catatan singkat dan berlatih",
+          "discussion": "Catatan singkat dan latihan membantu presentasi lebih runtut tanpa harus menghafal seluruh kalimat."
         },
         {
           "id": "K03-SBD-B02-M01-028",
           "type": "PG",
-          "text": "Saat sebagian besar bidang karya dipenuhi hijau dan mata langsung tertuju ke warna itu, hijau adalah warna yang ....",
+          "text": "Urutan presentasi karya yang paling runtut adalah ....",
           "options": [
-            "selalu putih",
-            "tidak terlihat",
-            "paling menonjol",
-            "tidak dipakai"
+            "judul dan ide, unsur rupa, proses, lalu refleksi",
+            "saran untuk teman, nilai rapor, lalu judul",
+            "harga alat, jumlah kursi, lalu warna baju",
+            "refleksi orang lain, ejekan, lalu proses"
           ],
-          "answer": "paling menonjol",
-          "discussion": "Warna yang dominan pada karya berarti warna yang paling menonjol."
+          "answer": "judul dan ide, unsur rupa, proses, lalu refleksi",
+          "discussion": "Urutan itu membantu pendengar memahami apa yang dibuat, bagaimana dibuat, dan apa yang dipelajari."
         },
         {
           "id": "K03-SBD-B02-M01-029",
           "type": "PG",
-          "text": "Pelukis menggambar air terjun, batu, dan pepohonan. Objek utamanya merupakan ....",
+          "text": "Setelah menerima saran yang sopan, pembuat karya dapat ....",
           "options": [
-            "hanya angka",
-            "rumus matematika",
-            "daftar belanja",
-            "alam seperti gunung atau sungai"
+            "mengucapkan terima kasih lalu mempertimbangkan saran",
+            "wajib mengikuti semua saran tanpa berpikir",
+            "membalas dengan ejekan",
+            "merobek kartu tanggapan"
           ],
-          "answer": "alam seperti gunung atau sungai",
-          "discussion": "Lukisan pemandangan biasanya menampilkan alam seperti gunung atau sungai."
+          "answer": "mengucapkan terima kasih lalu mempertimbangkan saran",
+          "discussion": "Saran adalah bahan pertimbangan; pembuat dapat memilih yang sesuai dengan gagasan dan keselamatan."
         },
         {
           "id": "K03-SBD-B02-M01-030",
           "type": "PG",
-          "text": "Rani memberi pujian atas gagasan menarik pada karya Sari tanpa membandingkan kemampuan teman. Ini adalah ....",
+          "text": "Kalimat manakah yang berupa saran, bukan perintah merendahkan?",
           "options": [
-            "apresiasi positif",
-            "perundungan",
-            "plagiarisme",
-            "perusakan"
+            "Kamu dapat mencoba menambah jarak agar bentuknya lebih jelas",
+            "Ganti semuanya karena karyamu salah",
+            "Ikuti caraku atau jangan memajang karya",
+            "Buang bagian itu sekarang juga"
           ],
-          "answer": "apresiasi positif",
-          "discussion": "Menyebut kelebihan karya teman merupakan contoh apresiasi positif."
+          "answer": "Kamu dapat mencoba menambah jarak agar bentuknya lebih jelas",
+          "discussion": "Saran menawarkan hal yang dapat dicoba dengan bahasa santun dan tetap menghormati keputusan pembuat."
         },
         {
           "id": "K03-SBD-B02-M01-031",
           "type": "PG",
-          "text": "Saat pameran mini, seorang murid memilih mengamati karya lalu menunjukkan penghargaan kepada pembuatnya. Kegiatan ini disebut ....",
+          "text": "Saat berjalan dalam galeri kelas, perilaku yang tepat adalah ....",
           "options": [
-            "menyalin tanpa izin",
-            "mengamati dan menghargai karya",
-            "mengejek pembuatnya",
-            "merusak karya"
+            "bergerak bergiliran dan menjaga jarak dari karya",
+            "menyentuh semua karya untuk menguji bahan",
+            "berlari sambil membawa pajangan",
+            "menutupi karya yang tidak disukai"
           ],
-          "answer": "mengamati dan menghargai karya",
-          "discussion": "Apresiasi karya seni berarti mengamati dan menghargai karya."
+          "answer": "bergerak bergiliran dan menjaga jarak dari karya",
+          "discussion": "Aturan galeri melindungi karya dan memberi kesempatan semua siswa mengamati dengan nyaman."
         },
         {
           "id": "K03-SBD-B02-M01-032",
           "type": "PG",
-          "text": "Seorang siswa ingin mengomentari gambar temannya. Ia memilih kata yang ramah dan menyebut satu bagian yang disukai. Ini contoh ....",
+          "text": "Kartu karya membantu pengunjung memahami konteks jika memuat ....",
           "options": [
-            "menertawakan",
-            "merobek kertas",
-            "menyebut bagian yang disukai dengan sopan",
-            "mengatakan jelek tanpa alasan"
+            "judul, nama pembuat, dan bahan utama",
+            "nilai ujian dan alamat rumah",
+            "peringkat kemampuan pembuat",
+            "komentar rahasia teman"
           ],
-          "answer": "menyebut bagian yang disukai dengan sopan",
-          "discussion": "Saat melihat lukisan teman, komentar yang baik adalah menyebut bagian yang disukai dengan sopan."
+          "answer": "judul, nama pembuat, dan bahan utama",
+          "discussion": "Judul, pembuat, dan bahan utama memberi informasi yang relevan tanpa membuka data pribadi yang tidak diperlukan."
         },
         {
           "id": "K03-SBD-B02-M01-033",
           "type": "PG",
-          "text": "Guru meminta murid menunjukkan dua ukuran yang dimiliki gambar pada kertas. Jawabannya adalah ....",
+          "text": "Refleksi proses berbeda dari sekadar menilai hasil karena refleksi juga membahas ....",
           "options": [
-            "panjang, lebar, dan tinggi nyata",
-            "hanya suara",
-            "hanya gerakan",
-            "panjang dan lebar"
+            "langkah, kesulitan, dan hal yang dipelajari",
+            "siapa yang harus dikalahkan",
+            "harga karya jika dijual",
+            "berapa banyak orang yang memuji"
           ],
-          "answer": "panjang dan lebar",
-          "discussion": "Karya seni dua dimensi memiliki panjang dan lebar."
+          "answer": "langkah, kesulitan, dan hal yang dipelajari",
+          "discussion": "Refleksi meninjau pengalaman membuat karya, termasuk keputusan, tantangan, dan rencana berikutnya."
         },
         {
           "id": "K03-SBD-B02-M01-034",
           "type": "PG",
-          "text": "Patung tanah liat dapat dilihat dari depan, samping, dan belakang karena termasuk karya ....",
+          "text": "Cara belajar dari karya orang lain tanpa menyalinnya adalah ....",
           "options": [
-            "tiga dimensi",
-            "dua dimensi datar",
-            "musik",
-            "tari"
+            "mengamati idenya lalu mengembangkan pilihan sendiri",
+            "meniru seluruh bagian dan mengganti nama",
+            "memotret diam-diam lalu mengaku membuatnya",
+            "meminta teman menyelesaikan karya kita"
           ],
-          "answer": "tiga dimensi",
-          "discussion": "Patung termasuk karya seni tiga dimensi."
+          "answer": "mengamati idenya lalu mengembangkan pilihan sendiri",
+          "discussion": "Karya orang lain dapat menjadi inspirasi, tetapi gagasan perlu diolah dengan susunan, bahan, atau cara yang dipilih sendiri."
         },
         {
           "id": "K03-SBD-B02-M01-035",
           "type": "PG",
-          "text": "Siswa hendak mengumumkan pesan 'Jaga Kebersihan' melalui poster. Unsur apa yang sebaiknya digabungkan?",
+          "text": "Urutan kegiatan apresiasi yang paling lengkap adalah ....",
           "options": [
-            "aroma makanan",
-            "gambar dan tulisan untuk menyampaikan pesan",
-            "bunyi alat musik",
-            "gerakan tari"
+            "mengamati, mendeskripsikan, menafsirkan, menanggapi, lalu merefleksi",
+            "menilai pembuat, memberi peringkat, lalu menyalin",
+            "memotret, mengunggah, lalu meminta izin",
+            "memberi saran, baru melihat karya sekilas"
           ],
-          "answer": "gambar dan tulisan untuk menyampaikan pesan",
-          "discussion": "Poster biasanya memadukan gambar dan tulisan untuk menyampaikan pesan."
+          "answer": "mengamati, mendeskripsikan, menafsirkan, menanggapi, lalu merefleksi",
+          "discussion": "Apresiasi yang utuh dimulai dari pengamatan, dilanjutkan uraian dan tafsiran berbukti, tanggapan santun, kemudian refleksi."
         }
       ]
     }
