@@ -11,171 +11,171 @@
         {
           "id": "K03-SBD-B01-M01-036",
           "type": "PG",
-          "text": "Dua cat pada ilustrasi dicampurkan. Hasil campuran merah dan kuning umumnya berwarna ....",
+          "text": "Deretan titik manakah yang paling kuat memberi kesan sebuah garis?",
           "options": [
-            "hijau",
-            "ungu",
-            "hitam",
-            "oranye"
+            "deretan titik rapat pada bagian bawah",
+            "dua titik berjauhan pada bagian atas",
+            "satu titik di sudut kiri",
+            "semua bidang kosong"
           ],
-          "answer": "oranye",
-          "discussion": "Pencampuran cat merah dan kuning umumnya menghasilkan oranye.",
+          "answer": "deretan titik rapat pada bagian bawah",
+          "discussion": "Titik-titik yang rapat dan berurutan pada bagian bawah terbaca sebagai jejak memanjang atau garis.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b01-gambar-01.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Dua titik renggang di atas dan deretan titik rapat membentuk jejak di bawah."
           }
         },
         {
           "id": "K03-SBD-B01-M01-037",
           "type": "PG",
-          "text": "Perhatikan dua pohon sejenis dengan jarak pandang berbeda. Agar kesan kedalaman tampak, pohon depan sebaiknya digambar ....",
+          "text": "Garis nomor berapa yang merupakan garis diagonal?",
           "options": [
-            "lebih besar dibanding benda sejenis yang jauh",
-            "selalu lebih kecil",
-            "tanpa garis",
-            "selalu transparan"
+            "garis nomor 3",
+            "garis nomor 1",
+            "garis nomor 2",
+            "garis nomor 4"
           ],
-          "answer": "lebih besar dibanding benda sejenis yang jauh",
-          "discussion": "Benda yang terlihat lebih dekat biasanya digambar lebih besar dibanding benda sejenis yang jauh.",
+          "answer": "garis nomor 3",
+          "discussion": "Garis nomor 3 miring dari kiri bawah ke kanan atas sehingga termasuk garis diagonal.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b01-gambar-02.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Empat garis bernomor: mendatar, tegak, miring, dan melengkung."
           }
         },
         {
           "id": "K03-SBD-B01-M01-038",
           "type": "PG",
-          "text": "Perhatikan gambar daun. Sebelum menggambar ulang, detail apa yang sebaiknya diamati?",
+          "text": "Gambar manakah yang menunjukkan garis tertutup sehingga membatasi sebuah bidang?",
           "options": [
-            "harga daun",
-            "bentuk, garis, dan urat daun",
-            "suara daun saja",
-            "rasa daun"
+            "gambar di sebelah kanan",
+            "gambar di sebelah kiri",
+            "kedua gambar sama-sama terbuka",
+            "tidak satu pun gambar"
           ],
-          "answer": "bentuk, garis, dan urat daun",
-          "discussion": "Mengamati daun sebelum menggambar membantu mengenali bentuk, garis, dan urat daun.",
+          "answer": "gambar di sebelah kanan",
+          "discussion": "Ujung garis pada gambar kanan saling bertemu sehingga bagian di dalamnya menjadi bidang.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b01-gambar-03.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Garis melengkung terbuka di kiri dan bidang tertutup di kanan."
           }
         },
         {
           "id": "K03-SBD-B01-M01-039",
           "type": "PG",
-          "text": "Garis pada ilustrasi terbentang mendatar sejajar tepi bawah kertas. Nama garis itu adalah ....",
+          "text": "Kelompok di sebelah kanan berisi bidang organis karena bentuknya ....",
           "options": [
-            "diagonal",
-            "spiral",
-            "horizontal",
-            "vertikal"
+            "bebas dan menyerupai bentuk alam",
+            "selalu memiliki sisi sama panjang",
+            "hanya tersusun dari garis lurus",
+            "memiliki volume dan dapat diputar"
           ],
-          "answer": "horizontal",
-          "discussion": "Garis mendatar disebut juga garis horizontal.",
+          "answer": "bebas dan menyerupai bentuk alam",
+          "discussion": "Siluet daun dan awan memiliki tepi bebas yang menyerupai bentuk alam sehingga termasuk bidang organis.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b01-gambar-04.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Lingkaran, segitiga, dan persegi di kiri; daun dan awan di kanan."
           }
         },
         {
           "id": "K03-SBD-B01-M01-040",
           "type": "PG",
-          "text": "Perhatikan garis yang ditarik dari bawah ke atas pada ilustrasi. Sebutan garis itu adalah ....",
+          "text": "Objek manakah yang menunjukkan bentuk tiga dimensi karena memiliki volume?",
           "options": [
-            "horizontal",
-            "melengkung",
-            "zig-zag",
-            "vertikal"
+            "kubus di sebelah kanan",
+            "persegi di sebelah kiri",
+            "garis di bawah persegi",
+            "warna latar gambar"
           ],
-          "answer": "vertikal",
-          "discussion": "Garis tegak disebut garis vertikal.",
+          "answer": "kubus di sebelah kanan",
+          "discussion": "Kubus memiliki panjang, lebar, dan tinggi, sedangkan persegi pada gambar merupakan bidang datar.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b01-gambar-05.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Persegi datar di kiri dan kubus bervolume di kanan."
           }
         },
         {
           "id": "K03-SBD-B01-M01-041",
           "type": "PG",
-          "text": "Pada pola hias kain, bentuk yang sama muncul berulang. Istilah untuk susunan berulang ialah ....",
+          "text": "Jika dua warna cat pada gambar dicampur, warna yang umumnya terbentuk adalah ....",
           "options": [
-            "motif",
-            "volume suara",
-            "tempo",
-            "nada"
+            "oranye",
+            "hijau",
+            "ungu",
+            "biru"
           ],
-          "answer": "motif",
-          "discussion": "Pola yang berulang pada kain disebut motif.",
+          "answer": "oranye",
+          "discussion": "Dalam pencampuran cat dasar, merah dan kuning menghasilkan oranye.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b01-gambar-06.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Dua tetes cat merah dan kuning menuju wadah campur kosong."
           }
         },
         {
           "id": "K03-SBD-B01-M01-042",
           "type": "PG",
-          "text": "Gambar pemandangan dibagi oleh garis cakrawala. Letak langit yang umum adalah ....",
+          "text": "Warna apa yang tepat untuk mengisi kotak kosong pada baris kedua?",
           "options": [
-            "di belakang kertas",
-            "di atas garis cakrawala",
-            "di bawah tanah",
-            "di dalam rumah"
+            "hijau",
+            "oranye",
+            "ungu",
+            "merah"
           ],
-          "answer": "di atas garis cakrawala",
-          "discussion": "Saat menggambar pemandangan, bagian langit biasanya berada di atas garis cakrawala.",
+          "answer": "hijau",
+          "discussion": "Baris kedua menunjukkan pencampuran kuning dan biru yang menghasilkan hijau.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b01-gambar-07.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Baris merah tambah kuning menjadi oranye; baris kuning tambah biru menuju kotak kosong."
           }
         },
         {
           "id": "K03-SBD-B01-M01-043",
           "type": "PG",
-          "text": "Ilustrasi menunjukkan kapas dengan permukaan yang tidak tajam. Kesan raba kapas adalah ....",
+          "text": "Potongan bahan pada gambar belum dilem. Langkah berikut yang paling baik adalah ....",
           "options": [
-            "keras seperti besi",
-            "kasar seperti kerikil",
-            "lembut",
-            "tajam"
+            "mencoba susunannya pada bidang gambar",
+            "menuangkan semua lem sekaligus",
+            "menggunting sambil berlari",
+            "membuang seluruh bahan"
           ],
-          "answer": "lembut",
-          "discussion": "Permukaan kapas umumnya terasa lembut.",
+          "answer": "mencoba susunannya pada bidang gambar",
+          "discussion": "Potongan sebaiknya dicoba susunannya dahulu agar komposisi dapat diperbaiki sebelum dilem.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b01-gambar-08.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Bidang gambar taman dengan potongan daun dan bunga belum direkatkan di sekelilingnya."
           }
         },
         {
           "id": "K03-SBD-B01-M01-044",
           "type": "PG",
-          "text": "Perhatikan jejak dari sudut kiri bawah menuju kanan atas. Jenis garis pada gambar tersebut ialah ....",
+          "text": "Cara menyerahkan gunting yang lebih aman ditunjukkan oleh ....",
           "options": [
-            "horizontal",
-            "vertikal",
-            "lingkaran",
-            "diagonal"
+            "anak di sebelah kanan",
+            "anak di sebelah kiri",
+            "keduanya sama aman",
+            "tidak perlu memegang gunting"
           ],
-          "answer": "diagonal",
-          "discussion": "Garis miring disebut garis diagonal.",
+          "answer": "anak di sebelah kanan",
+          "discussion": "Pada gambar kanan, bilah gunting tertutup dan gagang diarahkan kepada penerima.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b01-gambar-09.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Anak kiri membawa gunting terbuka; anak kanan menyerahkan gunting tertutup dengan gagang menghadap penerima."
           }
         },
         {
           "id": "K03-SBD-B01-M01-045",
           "type": "PG",
-          "text": "Sekelompok siswa mengamati tanaman di halaman untuk digambar. Apa sikap yang sesuai saat berkarya di sana?",
+          "text": "Komentar manakah yang merupakan umpan balik sopan dan berguna?",
           "options": [
-            "menjaga kebersihan dan tidak merusak tanaman",
-            "memetik semua bunga",
-            "mencoret dinding",
-            "membuang sampah"
+            "komentar anak di sebelah kiri",
+            "komentar anak di sebelah kanan",
+            "keduanya berisi saran rinci",
+            "keduanya tidak berkaitan dengan karya"
           ],
-          "answer": "menjaga kebersihan dan tidak merusak tanaman",
-          "discussion": "Sikap baik saat mengamati lingkungan untuk menggambar adalah menjaga kebersihan dan tidak merusak tanaman.",
+          "answer": "komentar anak di sebelah kiri",
+          "discussion": "Komentar kiri menyebut kelebihan dan saran tertentu, sedangkan komentar kanan hanya merendahkan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b01-gambar-10.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Karya daun di tengah, komentar rinci dan sopan di kiri, serta komentar merendahkan di kanan."
           }
         }
       ]
