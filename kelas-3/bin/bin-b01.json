@@ -274,10 +274,10 @@
             "Gambar ditempel, Mila pulang, lalu Mila menggambar di sekolah.",
             "Nenek berangkat ke sekolah, lalu membeli gambar.",
             "Mila menjual gambar, lalu nenek pergi ke pasar.",
-            "Mila berkunjung, menyerahkan gambar, lalu gambar ditempel."
+            "Mila berkunjung membawa gambar, Nenek menempelkannya, lalu Mila merasa senang."
           ],
-          "answer": "Mila berkunjung, menyerahkan gambar, lalu gambar ditempel.",
-          "discussion": "Urutan itu mengikuti kedatangan Mila dengan gambar dan tindakan nenek sesudahnya."
+          "answer": "Mila berkunjung membawa gambar, Nenek menempelkannya, lalu Mila merasa senang.",
+          "discussion": "Urutan mengikuti kedatangan Mila membawa gambar, tindakan Nenek menempelkan gambar, lalu perasaan Mila."
         },
         {
           "id": "K03-BIN-B01-M01-021",
@@ -646,7 +646,7 @@
         {
           "id": "K03-BIN-B01-M01-049",
           "type": "PG",
-          "text": "Bacalah teks berikut.\n\nRiko ingin menceritakan kembali pengalaman membersihkan halaman bersama teman. Ia menulis tiga catatan: halaman penuh daun; teman-teman menyapu bersama; halaman kembali bersih.\n\nKata penghubung yang sesuai dalam kalimat “Mereka menyapu bersama, ... halaman menjadi bersih” ialah ...",
+          "text": "Bacalah teks berikut.\n\nRiko ingin menceritakan kembali pengalaman membersihkan halaman bersama teman. Ia menulis tiga catatan: halaman penuh daun; teman-teman menyapu bersama; halaman kembali bersih.\n\nKata penghubung yang sesuai dalam kalimat “Mereka menyapu bersama ... halaman menjadi bersih” ialah ...",
           "options": [
             "sehingga",
             "tetapi",
