@@ -11,171 +11,171 @@
         {
           "id": "K03-SBD-B05-M01-036",
           "type": "PG",
-          "text": "Kuas yang telah dipakai cat tampak di dekat wadah air. Tindakan perawatan kuas yang tepat adalah ....",
+          "text": "Perhatikan dua karya pada gambar. Pernyataan yang tepat adalah ....",
           "options": [
-            "dibiarkan kotor selamanya",
-            "dilempar ke lantai",
-            "digunakan menusuk teman",
-            "dibersihkan sesuai jenis cat"
+            "Karya B memiliki volume dan dapat diamati dari berbagai arah",
+            "Karya A memiliki tinggi nyata lebih besar daripada karya B",
+            "Karya B hanya dapat dilihat dari satu sisi",
+            "Kedua karya tidak memiliki bentuk"
           ],
-          "answer": "dibersihkan sesuai jenis cat",
-          "discussion": "Kuas setelah digunakan sebaiknya dibersihkan sesuai jenis cat.",
+          "answer": "Karya B memiliki volume dan dapat diamati dari berbagai arah",
+          "discussion": "Karya B digambarkan sebagai bentuk ikan bervolume, sedangkan karya A berupa gambar ikan pada bidang datar.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-01.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Karya A berupa gambar ikan pada kertas datar. Karya B berupa ikan bervolume pada alas yang dapat diamati dari beberapa arah."
           }
         },
         {
           "id": "K03-SBD-B05-M01-037",
           "type": "PG",
-          "text": "Bahan bekas dalam ilustrasi akan menjadi karya baru. Apa yang perlu dilakukan sebelum bahan dipakai?",
+          "text": "Ciri hewan pada kartu pengamatan yang paling perlu diwujudkan agar bentuk ikan mudah dikenali adalah ....",
           "options": [
-            "dibersihkan dan dipastikan aman",
-            "selalu dipakai meski tajam",
-            "dibakar di kelas",
-            "diambil dari tempat berbahaya"
+            "badan lonjong, sirip, dan ekor",
+            "empat kaki dan dua tanduk",
+            "delapan lengan dan paruh",
+            "cangkang dan sayap"
           ],
-          "answer": "dibersihkan dan dipastikan aman",
-          "discussion": "Bahan daur ulang untuk karya perlu dibersihkan dan dipastikan aman.",
+          "answer": "badan lonjong, sirip, dan ekor",
+          "discussion": "Kartu menunjukkan ikan dengan badan lonjong, sirip, dan ekor sebagai ciri visual utamanya.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-02.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Seekor ikan dengan badan lonjong, sirip atas dan bawah, serta ekor. Tiga penunjuk memberi label badan lonjong, sirip, dan ekor."
           }
         },
         {
           "id": "K03-SBD-B05-M01-038",
           "type": "PG",
-          "text": "Gambar rancangan pertama belum berhasil diwujudkan. Sikap yang tepat pada percobaan berikutnya adalah ....",
+          "text": "Untuk membuat badan hewan yang dapat diremas dan dibentuk langsung, bahan bernomor berapa yang paling sesuai?",
           "options": [
-            "berhenti belajar selamanya",
-            "mengevaluasi lalu mencoba lagi",
-            "menyalahkan teman",
-            "merusak meja"
+            "1, plastisin",
+            "2, kaca pecah",
+            "3, paku berkarat",
+            "4, cairan pembersih"
           ],
-          "answer": "mengevaluasi lalu mencoba lagi",
-          "discussion": "Saat karya gagal sesuai rencana, seniman cilik dapat mengevaluasi lalu mencoba lagi.",
+          "answer": "1, plastisin",
+          "discussion": "Plastisin pada nomor 1 dapat dibentuk dengan tangan; tiga bahan lain pada gambar berbahaya untuk proyek ini.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-03.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Nomor 1 plastisin lunak, nomor 2 pecahan kaca, nomor 3 paku berkarat, nomor 4 botol cairan pembersih bertanda bahaya."
           }
         },
         {
           "id": "K03-SBD-B05-M01-039",
           "type": "PG",
-          "text": "Beberapa anak membuat mural di satu lembar besar. Apa kebutuhan utama agar tugas berjalan baik?",
+          "text": "Menurut diagram, langkah yang dilakukan setelah merancang bentuk adalah ....",
           "options": [
-            "saling mengejek",
-            "mengabaikan kesepakatan",
-            "pembagian tugas dan kerja sama",
-            "saling berebut alat"
+            "memilih bahan yang aman",
+            "langsung memajang karya",
+            "membuang semua alat",
+            "memberi nilai teman"
           ],
-          "answer": "pembagian tugas dan kerja sama",
-          "discussion": "Kerja kelompok membuat mural kertas memerlukan pembagian tugas dan kerja sama.",
+          "answer": "memilih bahan yang aman",
+          "discussion": "Panah urutan menunjukkan mengamati, merancang, memilih bahan, membentuk, lalu meninjau.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-04.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Lima kotak berpanah: mengamati, merancang, memilih bahan aman, membentuk, dan meninjau."
           }
         },
         {
           "id": "K03-SBD-B05-M01-040",
           "type": "PG",
-          "text": "Meja pameran menampilkan banyak karya dan pengunjung perlu lewat. Hal yang harus diperhatikan adalah ....",
+          "text": "Dua model memiliki badan yang sama bentuk dan beratnya, serta alas dari bahan yang sama. Model yang lebih stabil adalah ....",
           "options": [
-            "barang menutupi semua karya",
-            "jalan keluar tertutup",
-            "kertas berserakan",
-            "kerapian dan ruang pengunjung"
+            "model B karena alasnya lebih lebar",
+            "model A karena alasnya lebih sempit",
+            "model A karena badannya lebih tinggi",
+            "keduanya pasti sama tanpa perlu diuji"
           ],
-          "answer": "kerapian dan ruang pengunjung",
-          "discussion": "Menata karya di meja pameran perlu memperhatikan kerapian dan ruang pengunjung.",
+          "answer": "model B karena alasnya lebih lebar",
+          "discussion": "Pada gambar, model B memiliki alas lebih lebar sehingga badan mendapat bidang tumpu lebih besar.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-05.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Model A bertubuh sama dengan alas sempit. Model B bertubuh sama dengan alas lebih lebar."
           }
         },
         {
           "id": "K03-SBD-B05-M01-041",
           "type": "PG",
-          "text": "Pengunjung berdiri di depan karya teman di pameran mini. Perilaku yang sesuai adalah ....",
+          "text": "Berdasarkan gambar uji sambungan, cara yang menghasilkan dua bagian plastisin menyatu adalah ....",
           "options": [
-            "melihat dengan tertib dan menghargai karya",
-            "menyentuh semua karya tanpa izin",
-            "mencoret pajangan",
-            "mendorong teman"
+            "cara B, sambungan ditekan dan diratakan",
+            "cara A, kedua bagian dibiarkan berjarak",
+            "cara A, bagian tidak saling menyentuh",
+            "kedua cara sama-sama tanpa sambungan"
           ],
-          "answer": "melihat dengan tertib dan menghargai karya",
-          "discussion": "Sikap pengunjung pameran adalah melihat dengan tertib dan menghargai karya.",
+          "answer": "cara B, sambungan ditekan dan diratakan",
+          "discussion": "Cara B memperlihatkan dua bagian bertemu lalu batas sambungannya diratakan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-06.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Cara A menampilkan dua bagian plastisin terpisah. Cara B menampilkan dua bagian bertemu dengan sambungan diratakan."
           }
         },
         {
           "id": "K03-SBD-B05-M01-042",
           "type": "PG",
-          "text": "Ilustrasi memperlihatkan alat cap sederhana dan cat. Bahan yang aman digunakan untuk mencap adalah ....",
+          "text": "Agar bentuk capung seimbang seperti rancangan, sayap perlu dipasang ....",
           "options": [
-            "api",
-            "spons atau daun bersih dengan cat yang aman",
-            "pisau tajam",
-            "pecahan kaca"
+            "dua di kiri dan dua di kanan badan",
+            "empat di sisi kiri saja",
+            "semuanya pada ujung ekor",
+            "tanpa menyentuh badan"
           ],
-          "answer": "spons atau daun bersih dengan cat yang aman",
-          "discussion": "Teknik cap sederhana dapat memakai spons atau daun bersih dengan cat yang aman.",
+          "answer": "dua di kiri dan dua di kanan badan",
+          "discussion": "Rancangan menunjukkan empat sayap tersebar serasi pada kedua sisi badan capung.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-07.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Badan capung memanjang dengan empat sayap, dua di kiri dan dua di kanan."
           }
         },
         {
           "id": "K03-SBD-B05-M01-043",
           "type": "PG",
-          "text": "Dua anak bekerja sama membuat karya; salah satu membantu temannya. Sikap yang ditunjukkan adalah ....",
+          "text": "Pada akuarium mini, benda yang berada paling depan adalah ....",
           "options": [
-            "mencela hasil orang lain",
-            "tidak mau berbagi",
-            "tanggung jawab dan saling menghormati",
-            "menyembunyikan bahan"
+            "rumput A",
+            "ikan B",
+            "batu C",
+            "latar D"
           ],
-          "answer": "tanggung jawab dan saling menghormati",
-          "discussion": "Membuat karya bersama teman mengajarkan tanggung jawab dan saling menghormati.",
+          "answer": "rumput A",
+          "discussion": "Diagram kedalaman menempatkan rumput A pada lapisan depan, diikuti ikan B, batu C, dan latar D.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-08.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Empat lapisan dari depan ke belakang: rumput A, ikan B, batu C, dan latar D."
           }
         },
         {
           "id": "K03-SBD-B05-M01-044",
           "type": "PG",
-          "text": "Seorang siswa mengamati hasil lalu menentukan bagian untuk diperbaiki. Kegiatan itu disebut ....",
+          "text": "Perubahan dari contoh awal ke hasil modifikasi adalah ....",
           "options": [
-            "membuang karya tanpa melihat",
-            "menghina pembuat",
-            "mengabaikan proses",
-            "meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki"
+            "sirip diberi pola dan ekor dibuat lebih lebar",
+            "badan ikan dihilangkan",
+            "semua sirip dilepas",
+            "karya diubah menjadi gambar datar"
           ],
-          "answer": "meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki",
-          "discussion": "Evaluasi karya berarti meninjau hasil untuk mengetahui yang sudah baik dan perlu diperbaiki.",
+          "answer": "sirip diberi pola dan ekor dibuat lebih lebar",
+          "discussion": "Hasil modifikasi tetap berupa ikan, tetapi pola sirip ditambah dan bentuk ekornya dikembangkan.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-09.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Contoh awal adalah ikan polos dengan ekor kecil. Hasil modifikasi memiliki pola pada sirip dan ekor lebih lebar."
           }
         },
         {
           "id": "K03-SBD-B05-M01-045",
           "type": "PG",
-          "text": "Pameran selesai dan alat masih di meja. Cara penanganan alat dan karya yang benar adalah ....",
+          "text": "Catatan uji menunjukkan karya miring ke kanan. Perbaikan yang paling sesuai ialah ....",
           "options": [
-            "dikembalikan atau disimpan dengan rapi",
-            "dibiarkan tercecer",
-            "dibuang tanpa izin",
-            "dirusak"
+            "memperkuat atau memperlebar alas di sisi kanan",
+            "menambah beban tinggi di sisi kanan",
+            "memotong seluruh alas",
+            "menambah hiasan pada ujung atas"
           ],
-          "answer": "dikembalikan atau disimpan dengan rapi",
-          "discussion": "Setelah pameran, karya dan alat sebaiknya dikembalikan atau disimpan dengan rapi.",
+          "answer": "memperkuat atau memperlebar alas di sisi kanan",
+          "discussion": "Arah miring dan alas sempit pada gambar menunjukkan sisi kanan membutuhkan tumpuan yang lebih baik.",
           "image": {
             "src": "https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/sbd/assets/sbd-b05-gambar-10.svg",
-            "alt": "Ilustrasi unsur seni rupa"
+            "alt": "Karya berbadan tinggi terlihat miring ke kanan di atas alas yang sempit. Panah menunjukkan arah miring."
           }
         }
       ]
