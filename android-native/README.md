@@ -280,3 +280,11 @@ Sesuai persetujuan untuk 10 poin penyempurnaan frontend:
 - Saat mengubah versi, atur `versionName` dan `versionCode` di `app/build.gradle.kts` sesuai kebijakan rilis. Nama APK hanya memakai versionName, bukan versionCode.
 - Implementasi penamaan memakai API output legacy AGP 8.7.3; jika AGP ditingkatkan ke versi mayor baru, periksa kompatibilitas penamaan APK.
 - QA: jalankan assembleDebug dan assembleRelease, cek nama APK dan cocokkan versi di Pengaturan dengan versi Gradle. Release tetap membutuhkan signing untuk instalasi/distribusi jika belum dikonfigurasi.
+
+## Rilis 1.0.0
+
+- versionName: `1.0.0`, versionCode: `2`.
+- Bank soal dan materi diambil dari branch `main` saat diperlukan. Revisi JSON yang kompatibel tidak memerlukan build APK baru; penambahan kelas/mapel/bab memerlukan sinkronisasi katalog lokal dan build ulang.
+- Jalankan `./gradlew assembleRelease` (Windows: `.\gradlew.bat assembleRelease`). Nama keluaran: `Eduyasa 1.0.0 release.apk`.
+- Belum ada signing release yang dikonfigurasi di Gradle. Untuk APK distribusi yang dapat dipasang, gunakan Android Studio > Build > Generate Signed Bundle / APK > APK > release, dengan keystore rilis milik pengembang. Simpan keystore secara aman di luar GitHub, dan gunakan kunci yang sama untuk pembaruan berikutnya.
+- Status: konfigurasi versi rilis disiapkan; build, signing, dan uji perangkat belum diverifikasi.
