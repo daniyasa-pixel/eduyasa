@@ -60,7 +60,7 @@ K03-MTK-B04 · Kelas 3 · Kurikulum Merdeka · MathJax
 
 ![Sebuah bentuk persegi dengan sisi dan titik sudut yang terlihat jelas.](https://raw.githubusercontent.com/daniyasa-pixel/eduyasa/main/kelas-3/mtk/assets/mtk-b04-gambar-02.svg)
 
-**Pertanyaan:** Nama bangun pada gambar adalah ...
+**Pertanyaan:** Nama bangun yang paling khusus sesuai sifat empat sisi sama panjang dan empat sudut siku-siku pada gambar adalah ...
 
 **Pilihan jawaban:**
 - segitiga
@@ -70,7 +70,7 @@ K03-MTK-B04 · Kelas 3 · Kurikulum Merdeka · MathJax
 
 **Kunci Jawaban:** persegi
 
-**Pembahasan:** Gambar menunjukkan bangun persegi.
+**Pembahasan:** Gambar menunjukkan persegi, yaitu persegi panjang khusus yang memiliki empat sisi sama panjang.
 
 ---
 
